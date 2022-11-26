@@ -4,7 +4,7 @@
 
 > Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz\-helmiä.
 
-86 songs - 7 hr 44 min - [published](https://open.spotify.com/playlist/4dQJSl2Re8NrzRsKhgyvQD)
+89 songs - 7 hr 57 min - [published](https://open.spotify.com/playlist/4dQJSl2Re8NrzRsKhgyvQD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Ajasta eksyneet](https://open.spotify.com/track/6Ufl4p4Oz7F42LTYr5Z2zu) | [Pihlanne](https://open.spotify.com/artist/7revWXsvgsJUnhB81hawi9) | [Lähellä, kaukana](https://open.spotify.com/album/4tmVTqWdEUSA8MEocoXC9v) | 5:28 | 2022-09-02 |  |
 | [Amen](https://open.spotify.com/track/4Ai79FbgReT6KXHCsorAfS) | [RinneRadio](https://open.spotify.com/artist/4qjNgDN11K9KIhXSNbMQPt) | [Dior in Nera](https://open.spotify.com/album/3CfN0fU9XaC41kb2aYXPly) | 7:54 | 2022-09-02 |  |
 | [Arcade](https://open.spotify.com/track/1uT3YSj2okGX3oYOiROe2z) | [Kalevi Hämäläinen Group](https://open.spotify.com/artist/4Kc8F50zSN0op8lEcKm6c2) | [Arcade](https://open.spotify.com/album/5viGCnQLCBvMYEdAaxkM54) | 6:28 | 2022-09-02 |  |
+| [Ask Me Now](https://open.spotify.com/track/1JRBmuvgDW9rcoJst2oJre) | [Teemu Viinikainen](https://open.spotify.com/artist/0OgaFFwXXVXsIpAaPS2EBR) | [Ask Me Now](https://open.spotify.com/album/0DBEAQOu9OhVK4BUE3tiJf) | 2:30 | 2022-10-13 |  |
 | [Aurinko](https://open.spotify.com/track/0prylnSBXShJ37C8nZZwld) | [Sami Jaakkola Quartet](https://open.spotify.com/artist/0cmKg90nLDc7vf2fPngnnr) | [Aurinko](https://open.spotify.com/album/0jxJ3dubcZ3DTV0JdsBYHm) | 4:14 | 2022-09-02 |  |
 | [Brand New Games](https://open.spotify.com/track/1rbRTcz5o8BrewfMPTLbZk) | [Dynamic Dynamic](https://open.spotify.com/artist/0zj1eZZdo7x3QfeID5TDCd) | [Brand New Games](https://open.spotify.com/album/73Yk3EqWeBP7MhHKRQohEL) | 5:31 | 2022-09-02 |  |
 | [Brevity](https://open.spotify.com/track/26Sa1QK63XlCNIKKdNBuN5) | [Tapani Rinne](https://open.spotify.com/artist/3444FAqjOpZGe7qdyshHg1), [Juha Mäki\-Patola](https://open.spotify.com/artist/6UMvXeBrLr04seUgcTvlxK) | [Brevity](https://open.spotify.com/album/4MFyb4mSmkgHkndJP7RyO3) | 4:31 | 2022-09-02 |  |
@@ -84,15 +85,17 @@
 | [Sumu](https://open.spotify.com/track/2k5oko6OV9lmtoie6eJ4eS) | [Panu Savolainen](https://open.spotify.com/artist/5og1sabV0PYzVdMIqoRYof) | [Sumu](https://open.spotify.com/album/2vIkioEW4Gv2aRrS4AoubB) | 3:04 | 2022-09-02 |  |
 | [Sunday 20](https://open.spotify.com/track/1ZgAdSaIBOiuP4ORjwqq19) | [Timo Lassy](https://open.spotify.com/artist/12DkoR4cqoY6osVYHmsrAq) | [Trio](https://open.spotify.com/album/5lQSdw9RAGUJt2PS6az04U) | 5:47 | 2022-09-02 |  |
 | [The World Is Your Oyster](https://open.spotify.com/track/2yeGxLeOGTlQKZSUK2Mni7) | [Baba Ganoush Orkestra](https://open.spotify.com/artist/7eWAHn8KdJO4tNckYlkYUV) | [Meze](https://open.spotify.com/album/74JJd6RmHqD3deWsTIHEGq) | 4:23 | 2022-09-02 |  |
+| [Three Reflections](https://open.spotify.com/track/3CUWqkiPMmfgShrlv4GG1f) | [Jukka Haavisto](https://open.spotify.com/artist/2RelxvToyl730omEP8bdLQ) | [Three Reflections](https://open.spotify.com/album/3mBGXAt5VlWtNy0jaJqMNX) | 5:09 | 2022-10-13 | 2022-10-29 |
 | [To The Stars](https://open.spotify.com/track/64E9aanrebqOXsgY3Dvw70) | [Lithium](https://open.spotify.com/artist/0mszOp1fVDXGkEaFZahjBD), [Alexi Tuomarila](https://open.spotify.com/artist/4WEvxg7cSQdA4wQpAPkdv5) | [To the Stars](https://open.spotify.com/album/4koWLsu4sSFK999vdXQcaV) | 5:11 | 2022-09-02 |  |
 | [Tolonen\-Meltaus](https://open.spotify.com/track/0ZTd2wJwhdlSURtYv0XHIb) | [Reh Tone](https://open.spotify.com/artist/59eLvods4hL6ZIAo0jNZ30) | [Fusionations](https://open.spotify.com/album/481Z3DQ5wwJ6i0J8mPq9HI) | 3:44 | 2022-09-02 |  |
 | [Too Late for a Kiss](https://open.spotify.com/track/4ZjuxNysdqmR1bSXSk4Ymb) | [Saxman Syrjänen](https://open.spotify.com/artist/6NEkzOD7LTPwdkHW0SoqIA) | [Too Late for a Kiss](https://open.spotify.com/album/0CI8xGEmRksnkjmYEydtTw) | 5:54 | 2022-09-02 |  |
-| [Travelogue](https://open.spotify.com/track/4cZS6EhdLNIpI6CYIo6HUI) | [Martti Vesala Soundpost Quintet](https://open.spotify.com/artist/4yfLJzuJhNaBEJlfe53KnO) | [Travelogue](https://open.spotify.com/album/0MaCvvuQx4Qj6TXcBQQT1q) | 4:13 | 2022-09-22 |  |
+| [Travelogue](https://open.spotify.com/track/4cZS6EhdLNIpI6CYIo6HUI) | [Martti Vesala Soundpost Quintet](https://open.spotify.com/artist/4yfLJzuJhNaBEJlfe53KnO) | [Travelogue](https://open.spotify.com/album/0MaCvvuQx4Qj6TXcBQQT1q) | 4:13 | 2022-09-22 | 2022-10-14 |
 | [Tree Sea Wind](https://open.spotify.com/track/1rclaLd2fUcsSU2J3XIoeH) | [Adele Sauros](https://open.spotify.com/artist/58tRYc5aVpaZl6PmnRusI3), [Toomas Keski\-Santti](https://open.spotify.com/artist/42Cf8bmqPpnG2Owf2oMsQv), [Vesa Ojaniemi](https://open.spotify.com/artist/4MwN0AjsejfkObw8iYyN3F), [Kasperi Sarikoski](https://open.spotify.com/artist/1yNUIy8ESiCTqEcCcf0snT), [Tuomas Timonen](https://open.spotify.com/artist/1rlaDYfpYoqFtuGZI0DJwj) | [Tree Sea Wind](https://open.spotify.com/album/6Vpth5VHGgJRRZ4uCztL5p) | 7:27 | 2022-09-02 | 2022-09-23 |
+| [Trial by Fire](https://open.spotify.com/track/37aSF6UCYfvPEXdCjHLvKY) | [Martti Vesala Soundpost Quintet](https://open.spotify.com/artist/4yfLJzuJhNaBEJlfe53KnO) | [Trial by Fire](https://open.spotify.com/album/4cF52bdDIreABU7AeK41yK) | 4:48 | 2022-10-13 |  |
 | [Utu](https://open.spotify.com/track/1vaPcZgalYASmWeOmFwNsq) | [Melomatic Orchestra](https://open.spotify.com/artist/1gwwXyk6bfMPCEGaEMvPvp) | [Utu](https://open.spotify.com/album/5O1QSu0FXMEOmb0cK2dsif) | 5:31 | 2022-09-02 |  |
 | [Vanhatie](https://open.spotify.com/track/1hLUkwJHzvVRhbPDkkhaWI) | [OK:KO](https://open.spotify.com/artist/4IKmn7iXDZUlmXShSemrrW) | [Vanhatie](https://open.spotify.com/album/2v4r8lY7yaGYP0TKJXpVZN) | 6:44 | 2022-09-02 |  |
 | [What Is It \(That You're so Afraid Of\)](https://open.spotify.com/track/0AnjhIB4R0t8xJ2mbAsvtF) | [Tomi Nikku](https://open.spotify.com/artist/4PePBixKLlpOaotcULtg7o), [5tet](https://open.spotify.com/artist/5Qm3npTJ6kO8wV8ZySNUbg) | [What Is It \(That You're so Afraid Of\)](https://open.spotify.com/album/34Br3pPRXwTkNWo9nIWjJp) | 6:33 | 2022-09-02 |  |
-| [Wild Eyes](https://open.spotify.com/track/7sRQdwmpxShzEyYwmHHKbx) | [Martti Vesala Soundpost Quintet](https://open.spotify.com/artist/4yfLJzuJhNaBEJlfe53KnO) | [Wild Eyes](https://open.spotify.com/album/5WLUEKECPdjEr6OKG4YGlA) | 5:37 | 2022-09-02 |  |
+| [Wild Eyes](https://open.spotify.com/track/7sRQdwmpxShzEyYwmHHKbx) | [Martti Vesala Soundpost Quintet](https://open.spotify.com/artist/4yfLJzuJhNaBEJlfe53KnO) | [Wild Eyes](https://open.spotify.com/album/5WLUEKECPdjEr6OKG4YGlA) | 5:37 | 2022-09-02 | 2022-10-14 |
 | [Wings](https://open.spotify.com/track/2aIABbDuZrdLfmKZBFaxUN) | [Uxila Exile](https://open.spotify.com/artist/6I5HxrvGxLIEgDUaXUQjiy) | [Wings](https://open.spotify.com/album/4Qcz7q7xBtkcgfitmaWDnE) | 5:52 | 2022-09-02 |  |
 
 \*This playlist was first scraped on 2022-09-09. Prior content cannot be recovered.

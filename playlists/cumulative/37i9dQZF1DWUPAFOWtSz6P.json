@@ -434,6 +434,24 @@
     },
     {
       "album": {
+        "name": "Golden Embers",
+        "url": "https://open.spotify.com/album/4kCQSdMOQaw1FoY96UEFNa"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "date_added": "2020-05-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 285786,
+      "name": "Golden Embers",
+      "url": "https://open.spotify.com/track/4Cj5yOIUpFWSbPqICA07Fc"
+    },
+    {
+      "album": {
         "name": "Tides of a Teardrop",
         "url": "https://open.spotify.com/album/09NM7gTdr3ij71aksxr4Qs"
       },
@@ -885,6 +903,24 @@
       "duration_ms": 212853,
       "name": "People Change",
       "url": "https://open.spotify.com/track/1iepnn71MidOJZ7Y3vfgE4"
+    },
+    {
+      "album": {
+        "name": "People Change",
+        "url": "https://open.spotify.com/album/381HJLxqIIyyXIOM3S3P9f"
+      },
+      "artists": [
+        {
+          "name": "Mipso",
+          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
+        }
+      ],
+      "date_added": "2020-05-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 212853,
+      "name": "People Change",
+      "url": "https://open.spotify.com/track/3X8nisFKqIo9JyCgRXyKZL"
     },
     {
       "album": {

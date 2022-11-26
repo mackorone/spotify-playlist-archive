@@ -53,9 +53,27 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480506,
+      "name": "#14",
+      "url": "https://open.spotify.com/track/2KhubLGvTQRSmsXLy10JU1"
+    },
+    {
+      "album": {
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-11-26",
       "duration_ms": 125106,
       "name": "#17",
       "url": "https://open.spotify.com/track/5Ae091FBx68ZZ6JrCue7XI"
@@ -91,7 +109,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 394240,
       "name": "#2",
       "url": "https://open.spotify.com/track/0o3pBoCxCCVF6ungXlgVyL"
@@ -343,7 +361,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 286293,
       "name": "Analogue Bubblebath",
       "url": "https://open.spotify.com/track/3EhTOTAvNAUgY6AIurVxT1"
@@ -397,10 +415,28 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 344466,
       "name": "Bucephalus Bouncing Ball",
       "url": "https://open.spotify.com/track/0dHbniuO4zBQfE8ArIqFgV"
+    },
+    {
+      "album": {
+        "name": "Cheetah EP",
+        "url": "https://open.spotify.com/album/1pC7hHcaOmrDotqv1ZnuT8"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 37320,
+      "name": "CHEETA2 ms800",
+      "url": "https://open.spotify.com/track/0dosJWZB74Oqw4PrWDxgNd"
     },
     {
       "album": {
@@ -433,7 +469,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 318333,
       "name": "Cock/ver10",
       "url": "https://open.spotify.com/track/1ppw4aUaKKiY43tRMJD05h"
@@ -530,6 +566,24 @@
     },
     {
       "album": {
+        "name": "Computer Controlled Acoustic Instruments pt2 EP",
+        "url": "https://open.spotify.com/album/5IUjJ4VcmUvZnGAONAp2IX"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146033,
+      "name": "diskhat1",
+      "url": "https://open.spotify.com/track/1s6ux0lNiTziSrd7iUAADH"
+    },
+    {
+      "album": {
         "name": "Donkey Rhubarb",
         "url": "https://open.spotify.com/album/77fmfTc0wlIOPUvmvd6X6i"
       },
@@ -541,7 +595,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 368173,
       "name": "Donkey Rhubarb",
       "url": "https://open.spotify.com/track/0c0PhGTdl4K1SRWu0kYkBh"
@@ -577,7 +631,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 420386,
       "name": "Flaphead",
       "url": "https://open.spotify.com/track/0txK6VEZKu9mbwXewGwIDr"
@@ -613,7 +667,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 347080,
       "name": "Formula",
       "url": "https://open.spotify.com/track/4JTOXfltCmoPoOqNUjV1BV"
@@ -631,10 +685,46 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 238466,
       "name": "Funny Little Man",
       "url": "https://open.spotify.com/track/0136xsceivJ2NsoiE0cmcb"
+    },
+    {
+      "album": {
+        "name": "Syro",
+        "url": "https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58586,
+      "name": "fz pseudotimestretch+e+3 [138.85]",
+      "url": "https://open.spotify.com/track/4LKt0wUUHg7Tq3sfg0AwBK"
+    },
+    {
+      "album": {
+        "name": "Syro",
+        "url": "https://open.spotify.com/album/0HqN7Cd4XsZGvj2NgwEmFO"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-01",
+      "duration_ms": 58586,
+      "name": "fz pseudotimestretch+e+3 [138.85]",
+      "url": "https://open.spotify.com/track/6GJQR1HX6pcGfkXIn3vrRf"
     },
     {
       "album": {
@@ -685,7 +775,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-01",
+      "date_removed": null,
       "duration_ms": 122466,
       "name": "Goon Gumpas",
       "url": "https://open.spotify.com/track/72tmERTlZn90IJ0px2B38Q"
@@ -739,7 +829,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": "2022-10-13",
       "duration_ms": 367053,
       "name": "Icct Hedral",
       "url": "https://open.spotify.com/track/74i6T5ax1LB1gBVhLg6q9d"
@@ -811,7 +901,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-10-13",
       "duration_ms": 248933,
       "name": "Milk Man",
       "url": "https://open.spotify.com/track/5b1uULGkmUg8M6pFvQIUlO"
@@ -901,7 +991,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-18",
+      "date_removed": null,
       "duration_ms": 205186,
       "name": "Nanou2",
       "url": "https://open.spotify.com/track/6Wei2NUSG66WzLiqSuQAy5"
@@ -955,7 +1045,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 271293,
       "name": "Pancake Lizard",
       "url": "https://open.spotify.com/track/3Z7wJtqMNc3q7ukYplaCa9"
@@ -973,7 +1063,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 258973,
       "name": "PAPAT4 [155][pineal mix]",
       "url": "https://open.spotify.com/track/2MmI2fOFAYnOJcMyWkn1js"
@@ -995,6 +1085,60 @@
       "duration_ms": 185093,
       "name": "Peek 82454201",
       "url": "https://open.spotify.com/track/4KzwoaaI2oyx5sib9D93w0"
+    },
+    {
+      "album": {
+        "name": "Drukqs",
+        "url": "https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131346,
+      "name": "Petiatil Cx Htdui",
+      "url": "https://open.spotify.com/track/6sSQ3VO0XNK5APus7sIkwh"
+    },
+    {
+      "album": {
+        "name": "Computer Controlled Acoustic Instruments pt2 EP",
+        "url": "https://open.spotify.com/album/5IUjJ4VcmUvZnGAONAp2IX"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50343,
+      "name": "piano un1 arpej",
+      "url": "https://open.spotify.com/track/28LVNNiDlNzAWvrMRXPD6T"
+    },
+    {
+      "album": {
+        "name": "Computer Controlled Acoustic Instruments pt2 EP",
+        "url": "https://open.spotify.com/album/5IUjJ4VcmUvZnGAONAp2IX"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108011,
+      "name": "piano un10 it happened",
+      "url": "https://open.spotify.com/track/15anCXEEnV6wyF1CAGnBCt"
     },
     {
       "album": {
@@ -1124,6 +1268,24 @@
     },
     {
       "album": {
+        "name": "Syro",
+        "url": "https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 392960,
+      "name": "syro u473t8+e [141.98][piezoluminescence mix]",
+      "url": "https://open.spotify.com/track/1LWoUuBXLo7moQQ0Rm1Tf7"
+    },
+    {
+      "album": {
         "name": "Selected Ambient Works 85-92",
         "url": "https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k"
       },
@@ -1171,7 +1333,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 243826,
       "name": "To Cure A Weakling Child",
       "url": "https://open.spotify.com/track/0Qe87CjGvXot5t4FADTq3Y"
@@ -1189,7 +1351,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 291386,
       "name": "Vordhosbn",
       "url": "https://open.spotify.com/track/3tWiIOPBJjgjA6PpozJqNO"

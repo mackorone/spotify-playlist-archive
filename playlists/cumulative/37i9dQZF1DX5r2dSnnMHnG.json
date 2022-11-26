@@ -153,7 +153,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 239880,
       "name": "blooming",
       "url": "https://open.spotify.com/track/4ZEdXvd8rWGwOArzGzXr2u"
@@ -1649,7 +1649,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": "2022-11-06",
       "duration_ms": 186920,
       "name": "siot",
       "url": "https://open.spotify.com/track/77V2xdd8cabH0xbcoJEmrv"
@@ -1711,6 +1711,24 @@
     {
       "album": {
         "name": "Spring",
+        "url": "https://open.spotify.com/album/6iW62TOeAyJE5vIbPyJRyI"
+      },
+      "artists": [
+        {
+          "name": "Joob A",
+          "url": "https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173880,
+      "name": "Spring",
+      "url": "https://open.spotify.com/track/11HmVuJmBU6BXZ1z6hxpYa"
+    },
+    {
+      "album": {
+        "name": "Spring",
         "url": "https://open.spotify.com/album/1wGIkXzSpJd7VfoGJBkVbs"
       },
       "artists": [
@@ -1721,7 +1739,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 173880,
       "name": "Spring",
       "url": "https://open.spotify.com/track/2jqFUiYryAqZRbCNA5D1oM"
@@ -2119,7 +2137,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 226817,
       "name": "Stay",
       "url": "https://open.spotify.com/track/21JDHGLBvy8ufJXVtaDkPq"
@@ -2371,7 +2389,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-10",
+      "date_removed": null,
       "duration_ms": 215981,
       "name": "Walk",
       "url": "https://open.spotify.com/track/6EJXOBn2gYccEJLMsZXiSw"
@@ -2682,6 +2700,24 @@
     },
     {
       "album": {
+        "name": "3.2 What The Spring??",
+        "url": "https://open.spotify.com/album/44HJerzPLHbGr8G2eC1bIv"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205751,
+      "name": "\ubd04\uc774 \uc88b\ub0d0?? What The Spring??",
+      "url": "https://open.spotify.com/track/1fr9b1MIyas7cpt1QY3h9d"
+    },
+    {
+      "album": {
         "name": "\ubd04\uc774 \uc88b\ub0d0?? What The Spring??",
         "url": "https://open.spotify.com/album/0u4WFVJDJh5dbNYgOgbABY"
       },
@@ -2693,7 +2729,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 205751,
       "name": "\ubd04\uc774 \uc88b\ub0d0?? What The Spring??",
       "url": "https://open.spotify.com/track/5gkB40BDQE1CvtXpF6fcPm"
@@ -2756,7 +2792,7 @@
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 192994,
+      "duration_ms": 191872,
       "name": "\uc6d0 Wish",
       "url": "https://open.spotify.com/track/3vvJdhNvwogyNhmgaGONZw"
     },
@@ -2777,6 +2813,24 @@
       "duration_ms": 301514,
       "name": "\uc774\ubbf8 \ub09c \ud589\ubcf5\ud55c \uc0ac\ub78c",
       "url": "https://open.spotify.com/track/1OztdNXWqPxXemRYdXCnCu"
+    },
+    {
+      "album": {
+        "name": "re:",
+        "url": "https://open.spotify.com/album/5iTH1fWDgfxSPkwJRBZiRE"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226817,
+      "name": "\ud5e4\uc5b4\uc9c0\uae30 \uc2eb\uc5b4",
+      "url": "https://open.spotify.com/track/7pKxsAxBtRJU19Qqij0P6y"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5r2dSnnMHnG"

@@ -8,6 +8,42 @@
   "tracks": [
     {
       "album": {
+        "name": "Kiss",
+        "url": "https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202266,
+      "name": "100,000 Years",
+      "url": "https://open.spotify.com/track/4G6sunnUbGwwcvsXZeebjh"
+    },
+    {
+      "album": {
+        "name": "Dynasty",
+        "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295386,
+      "name": "2,000 Man",
+      "url": "https://open.spotify.com/track/3TjM3SIVQksTj3pNVUZPv8"
+    },
+    {
+      "album": {
         "name": "Lick It Up",
         "url": "https://open.spotify.com/album/0dD1SMOKBDV1qBadcovw30"
       },
@@ -73,7 +109,7 @@
       ],
       "date_added": "2022-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 278142,
       "name": "Betrayed - Outtake",
       "url": "https://open.spotify.com/track/6EVZPA4FZ8dygeaCNtPlaA"
@@ -109,10 +145,28 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 282733,
       "name": "Burn Bitch Burn",
       "url": "https://open.spotify.com/track/7lX9cNmBs138KdCnmry4MC"
+    },
+    {
+      "album": {
+        "name": "Dressed To Kill",
+        "url": "https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178200,
+      "name": "C'mon And Love Me",
+      "url": "https://open.spotify.com/track/1wkRMOmqwayWDVR9FLOTFP"
     },
     {
       "album": {
@@ -181,7 +235,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 171853,
       "name": "Comin' Home - Live From MTV Unplugged/1995",
       "url": "https://open.spotify.com/track/1qp9BUccsAqU9r9PdgJzk0"
@@ -217,7 +271,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 243400,
       "name": "Creatures Of The Night",
       "url": "https://open.spotify.com/track/5yeRPZioHaRp86lPMwPw4s"
@@ -278,6 +332,24 @@
     },
     {
       "album": {
+        "name": "Destroyer",
+        "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Do You Love Me",
+      "url": "https://open.spotify.com/track/6KbSviXtYJuPG3FbTvJZSI"
+    },
+    {
+      "album": {
         "name": "Do You Love Me (Live In Donington / 1996)",
         "url": "https://open.spotify.com/album/5G6VWYwhMPlz4e8p8ycVEF"
       },
@@ -307,7 +379,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 240493,
       "name": "Domino",
       "url": "https://open.spotify.com/track/7IGNqVaujuSXS3t9QBby3n"
@@ -491,7 +563,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 247280,
       "name": "Hell Or Hallelujah",
       "url": "https://open.spotify.com/track/7q3pjonUyv6YdUv29vq1hJ"
@@ -509,7 +581,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": null,
       "duration_ms": 264133,
       "name": "Hide Your Heart",
       "url": "https://open.spotify.com/track/47o525G86mLspoGnUCaMd9"
@@ -653,7 +725,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 249333,
       "name": "I'll Fight Hell To Hold You",
       "url": "https://open.spotify.com/track/5BWARDGvGMtVPJO8WDvaLP"
@@ -671,7 +743,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 231866,
       "name": "I've Had Enough (Into The Fire)",
       "url": "https://open.spotify.com/track/64Ld8TSuVoOGMqiXZ1xg7t"
@@ -689,7 +761,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 235666,
       "name": "Keep Me Comin'",
       "url": "https://open.spotify.com/track/7aBBsIarYUU1vTgPVKQ0D4"
@@ -779,7 +851,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 144666,
       "name": "Love Theme From Kiss",
       "url": "https://open.spotify.com/track/3h65F8R0FKA70GRGdt1ftw"
@@ -797,10 +869,28 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 216626,
       "name": "Modern Day Delilah",
       "url": "https://open.spotify.com/track/7jx8RjpHh06VJxMDXblPcd"
+    },
+    {
+      "album": {
+        "name": "Not For The Innocent (Demo)",
+        "url": "https://open.spotify.com/album/3A4bcHaI338ABAkjZ02TJL"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276960,
+      "name": "Not For The Innocent - Demo",
+      "url": "https://open.spotify.com/track/4Q4uVPZqsMKI8sAGJxscqA"
     },
     {
       "album": {
@@ -923,7 +1013,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-07",
       "duration_ms": 247600,
       "name": "Rock And Roll All Nite - Live From Detroit, MI/1975",
       "url": "https://open.spotify.com/track/4RQLeiolnEGtcFwHxjtF7H"
@@ -941,7 +1031,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 182706,
       "name": "Rock N' Rolls Royce - Gene Simmons Demo",
       "url": "https://open.spotify.com/track/38uoylRVHZNxcCzfq7YydG"
@@ -1211,7 +1301,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 222200,
       "name": "Unholy",
       "url": "https://open.spotify.com/track/1eyRkbW5tJ7YobW9wQ5zVB"
@@ -1265,7 +1355,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": "2022-10-12",
       "duration_ms": 242293,
       "name": "Who Wants To Be Lonely",
       "url": "https://open.spotify.com/track/7FIq1KZva7CjQjHG6A8XUg"

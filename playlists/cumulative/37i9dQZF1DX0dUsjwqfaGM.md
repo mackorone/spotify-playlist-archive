@@ -2,9 +2,9 @@
 
 ### [RADAR Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX0dUsjwqfaGM)
 
-> Thế hệ nghệ sĩ mới\. Nếu sử dụng 📲, bấm ☉ phía trên ☝ để khám phá thêm về nghệ sĩ ảnh bìa Rhosy
+> Thế hệ nghệ sĩ mới\. Ảnh bìa: GREY D
 
-40 songs - 2 hr 21 min - [published](https://open.spotify.com/playlist/2s99wOe5KkDPtODdly2OIW)
+44 songs - 2 hr 39 min - [published](https://open.spotify.com/playlist/2s99wOe5KkDPtODdly2OIW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,11 +16,14 @@
 | [Cô Nàng Khác Người](https://open.spotify.com/track/0lXtQXwhZImnpjmpze8ykX) | [Pixel Neko](https://open.spotify.com/artist/6lKBdKySIpWUb4tA7hYzU7), [Ngơ](https://open.spotify.com/artist/4RGBKkUyyvsim9vdBKCCkc), [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw) | [Cô Nàng Khác Người](https://open.spotify.com/album/5G0VCs90WtjTJV3CaRBbL1) | 3:06 | 2022-09-09 |  |
 | [Dumb Mê \- Acoustic Version](https://open.spotify.com/track/6mR3aPF7A0VoFrm5acTMXq) | [Haisam](https://open.spotify.com/artist/5h0cBKxBX54CqPaQU6tJhk) | [Sâmflowers](https://open.spotify.com/album/4r2sh8ZMxq8yc3qT19bM3m) | 2:30 | 2022-09-09 |  |
 | [Dù Cho Mai Về Sau](https://open.spotify.com/track/4Iz5EWPCAT8jYNk4IpLoll) | [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm) | [Dù Cho Mai Về Sau](https://open.spotify.com/album/38rXnQ4McNlZGTA3WNPNc1) | 3:53 | 2022-09-09 |  |
+| [Dù Cho Mai Về Sau](https://open.spotify.com/track/6mGfDpzpCgaw0CSqbBQQOr) | [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm) | [Dù Cho Mai Về Sau](https://open.spotify.com/album/3F7mY0fIvUaVWY8KLu3xlr) | 3:53 | 2022-10-14 | 2022-11-14 |
+| [dự báo thời tiết hôm nay mưa](https://open.spotify.com/track/7bFFUPBiF15n8m8RziqS4o) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | ['dự báo thời tiết hôm nay mưa' – Maxi Single](https://open.spotify.com/album/7q2bB2NNFlNbtqadbn55pL) | 4:41 | 2022-11-25 |  |
 | [Giáng Sinh Trong Mơ \(feat\. Tyronee\)](https://open.spotify.com/track/2I7JvYMAzHFksLzIy6FIfj) | [VSTRA](https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59), [Tyronee](https://open.spotify.com/artist/04xz9bIBYTIqEpmRvQkfvu) | [Giáng Sinh Trong Mơ \(feat\. Tyronee\)](https://open.spotify.com/album/3NZDaTcY8YBenGRQ3ZAM0H) | 4:09 | 2022-09-09 |  |
 | [Got You](https://open.spotify.com/track/28mj6cmfJWSxOCdeNRbyWw) | [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i) | [Got You](https://open.spotify.com/album/3UjnX1grSaDSrfGG4NWaM2) | 4:25 | 2022-09-09 |  |
 | [GPS](https://open.spotify.com/track/7mSXu1Q76JGPLYolCKp3Xw) | [Pixel Neko](https://open.spotify.com/artist/6lKBdKySIpWUb4tA7hYzU7), [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i), [LostOwl](https://open.spotify.com/artist/2nO3NsrkKhV3cBI7X1wYbb), [Nam Ngo](https://open.spotify.com/artist/5rEpvWrgw0tvax27frKVlH) | [GPS](https://open.spotify.com/album/1dabh9kedSOCHQSXE1cYsN) | 3:59 | 2022-09-09 |  |
 | [Hennesy \- Acoustic Version](https://open.spotify.com/track/5eEBWObr9qNmFoPs2t8ifh) | [Haisam](https://open.spotify.com/artist/5h0cBKxBX54CqPaQU6tJhk) | [Sâmflowers](https://open.spotify.com/album/4r2sh8ZMxq8yc3qT19bM3m) | 3:27 | 2022-09-09 |  |
 | [Hoàng Hôn](https://open.spotify.com/track/0AFGP6yJiakwce0evtrbxd) | [Cheung](https://open.spotify.com/artist/2CYz62cthPQ03xzOFpq683) | [Hoàng Hôn](https://open.spotify.com/album/3Q7A5892DvFaMdONpVhc9k) | 4:10 | 2022-09-09 |  |
+| [HUNGOVER \(feat\. Vũ Cát Tường\)](https://open.spotify.com/track/5cxX6mL978HKzOMcGqKD8v) | [MINH](https://open.spotify.com/artist/0RzxSfLRSQmRJ3fFabRMsT), [Vu Cat Tuong](https://open.spotify.com/artist/7yquVKfxBuNFJbG9cy2R8A) | [Hungover \(feat\. Vũ Cát Tường\)](https://open.spotify.com/album/4y3eau8LhHk8VDoDWB7HWQ) | 5:29 | 2022-10-14 |  |
 | [Hãy Để Chúng Ta Được Có Thêm Thời Gian](https://open.spotify.com/track/1BL5MlpmXKaFrK04HaCw3d) | [Haisam](https://open.spotify.com/artist/5h0cBKxBX54CqPaQU6tJhk), [Tez](https://open.spotify.com/artist/1yWLf9thhwjqScDt6Az4Z9) | [Hãy Để Chúng Ta Được Có Thêm Thời Gian](https://open.spotify.com/album/4tjAKvxiGK7nv1TfDz9aIi) | 3:43 | 2022-09-09 |  |
 | [Hãy Để Chúng Ta Được Có Thêm Thời Gian \- Acoustic Version](https://open.spotify.com/track/1IuQ1QnMRuISpiS7BMjpS7) | [Haisam](https://open.spotify.com/artist/5h0cBKxBX54CqPaQU6tJhk) | [Sâmflowers](https://open.spotify.com/album/4r2sh8ZMxq8yc3qT19bM3m) | 3:51 | 2022-09-09 |  |
 | [Hướng Dương](https://open.spotify.com/track/65uxT4ZGe6eOABj1g5V2Fj) | [Changg](https://open.spotify.com/artist/1nX1HVIUo1Zfs3e2v3lFb9) | [Hướng Dương](https://open.spotify.com/album/6sUgmtdrcZRJxRsfbxUxqc) | 3:39 | 2022-09-09 |  |
@@ -43,6 +46,7 @@
 | [Thành Phố Đêm](https://open.spotify.com/track/5DAFdVmVwj2dFddjHSdDQk) | [Khải](https://open.spotify.com/artist/2YJjdbWUlFUPMyveMVft5k), [da/md](https://open.spotify.com/artist/3rfioXxHtUmA66MpuKdozJ) | [Thành Phố Đêm](https://open.spotify.com/album/2IJtIuvzoJdAp45m7oWwUp) | 3:10 | 2022-09-09 |  |
 | [Thế Thôi](https://open.spotify.com/track/3q9jkVZnem47J0HdQEK8WM) | [Haisam](https://open.spotify.com/artist/5h0cBKxBX54CqPaQU6tJhk) | [Thế Thôi](https://open.spotify.com/album/246AHh3LvTsa9Nfi4xrrng) | 4:03 | 2022-09-09 |  |
 | [To The Moon](https://open.spotify.com/track/1CyYcBdukmFjFibDZaDlHc) | [hooligan.](https://open.spotify.com/artist/4sDsgLXhS6If9HrV2mwuSx) | [To The Moon](https://open.spotify.com/album/4UEbczuNRxEy7SGJTrfEBd) | 3:21 | 2022-09-09 |  |
+| [tỉnh thức sau giấc ngủ đông](https://open.spotify.com/track/4Xai78OB5OKQI9EFYcCzxD) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | ['dự báo thời tiết hôm nay mưa' – Maxi Single](https://open.spotify.com/album/7q2bB2NNFlNbtqadbn55pL) | 3:47 | 2022-11-25 |  |
 | [vaicaunoicokhiennguoithaydoi](https://open.spotify.com/track/25h0TqC9H3BcMA7KjK5nHK) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [vaicaunoicokhiennguoithaydoi](https://open.spotify.com/album/5Gu0Ldddj2f6a0q5gitIok) | 3:45 | 2022-09-09 |  |
 | [vaicaunoicokhiennguoithaydoi \- Acoustic](https://open.spotify.com/track/0xi7bCx9m2rgPbCN6Xhlel) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [Hương Mùa Hè EP.01](https://open.spotify.com/album/7Do6GQrbmkYtOjg1S2HRe3) | 3:42 | 2022-09-09 |  |
 | [Words You Want \(feat\. SOI\)](https://open.spotify.com/track/3VvsQQVICDghw26uFsrs8O) | [Rhosy](https://open.spotify.com/artist/3lL6jMbIkYzyxsXn3TU7GK), [SOI](https://open.spotify.com/artist/5b35BALBqCHvoV4vcbZQ1P) | [Words You Want \(feat\. SOI\)](https://open.spotify.com/album/1Cbw4XP3Kpv2IjH2ZlwZ2Z) | 2:24 | 2022-09-09 |  |

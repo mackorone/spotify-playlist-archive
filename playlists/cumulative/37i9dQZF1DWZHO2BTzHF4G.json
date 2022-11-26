@@ -242,6 +242,24 @@
     },
     {
       "album": {
+        "name": "Brianstorm",
+        "url": "https://open.spotify.com/album/5jFTTB7q8o1KYSugIF9iQN"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 172866,
+      "name": "Brianstorm",
+      "url": "https://open.spotify.com/track/3diD9FCmSlagvI4OtGUzIe"
+    },
+    {
+      "album": {
         "name": "Favourite Worst Nightmare",
         "url": "https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm"
       },
@@ -584,6 +602,24 @@
     },
     {
       "album": {
+        "name": "Soir\u00e9e d'\u00e9t\u00e9 : Summer Hits Mix 2022",
+        "url": "https://open.spotify.com/album/5N908fN8d6jKcxsFVLxlt3"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 216600,
+      "name": "Girlfriend",
+      "url": "https://open.spotify.com/track/0zbAZe4hhS8vX4mfMiTDNc"
+    },
+    {
+      "album": {
         "name": "The Best Damn Thing (Expanded Edition)",
         "url": "https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38"
       },
@@ -674,6 +710,24 @@
     },
     {
       "album": {
+        "name": "20 #1\u2019s: 00s",
+        "url": "https://open.spotify.com/album/2BeZnjdRLRcw0OswEERuw5"
+      },
+      "artists": [
+        {
+          "name": "Lifehouse",
+          "url": "https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 216066,
+      "name": "Hanging By A Moment",
+      "url": "https://open.spotify.com/track/1wNNrDonBDbFrDZQTR5g4j"
+    },
+    {
+      "album": {
         "name": "No Name Face",
         "url": "https://open.spotify.com/album/18ttJAJKeQvaAg8cpnn9uM"
       },
@@ -707,6 +761,24 @@
       "duration_ms": 205066,
       "name": "Have A Nice Day",
       "url": "https://open.spotify.com/track/6JWddKPdqvDc2WkPEi9grC"
+    },
+    {
+      "album": {
+        "name": "Old Songs",
+        "url": "https://open.spotify.com/album/1Y5ZSJrKqfZzl1GsyZXyso"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 242586,
+      "name": "Hella Good",
+      "url": "https://open.spotify.com/track/1QpaUFTW7G8DAFw5y1OFwj"
     },
     {
       "album": {
@@ -948,6 +1020,24 @@
     },
     {
       "album": {
+        "name": "Throwback Anthems",
+        "url": "https://open.spotify.com/album/5dpNwt3UoC0WjhrHHX4R26"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 187613,
+      "name": "I Write Sins Not Tragedies",
+      "url": "https://open.spotify.com/track/7FsIB0FX3IfDhkLAdnRZLt"
+    },
+    {
+      "album": {
         "name": "Dark Horse",
         "url": "https://open.spotify.com/album/0GQ9AZBJSj109gmSdSrviC"
       },
@@ -1056,6 +1146,24 @@
     },
     {
       "album": {
+        "name": "Breakfast Bangers",
+        "url": "https://open.spotify.com/album/6hVKyuxW8w5vgMi73tfivH"
+      },
+      "artists": [
+        {
+          "name": "Razorlight",
+          "url": "https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 225173,
+      "name": "In The Morning",
+      "url": "https://open.spotify.com/track/4goVMd3Y6VuEnl2aj4eyQS"
+    },
+    {
+      "album": {
         "name": "Dead Letters",
         "url": "https://open.spotify.com/album/1J9W7Fkg34vdOVa8gR7dx7"
       },
@@ -1089,6 +1197,24 @@
       "duration_ms": 186173,
       "name": "Is It Any Wonder?",
       "url": "https://open.spotify.com/track/0YmUts6QtHUEmKCASWLuHr"
+    },
+    {
+      "album": {
+        "name": "Worldwide Indie Rock",
+        "url": "https://open.spotify.com/album/46r3rINEdgxTdAo3FlFpwg"
+      },
+      "artists": [
+        {
+          "name": "Keane",
+          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 186173,
+      "name": "Is It Any Wonder?",
+      "url": "https://open.spotify.com/track/3ixbmPEkFZ5ycSVDmi500f"
     },
     {
       "album": {
@@ -1269,6 +1395,24 @@
       "duration_ms": 222973,
       "name": "Mr. Brightside",
       "url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B"
+    },
+    {
+      "album": {
+        "name": "Best Male Rock Singers",
+        "url": "https://open.spotify.com/album/0MNEMYOJEiBmLv6g3zqTNY"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 223973,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/25vf0eCrswI3GcuMH4fL3R"
     },
     {
       "album": {
@@ -1488,6 +1632,24 @@
     },
     {
       "album": {
+        "name": "Blue/Green/Red",
+        "url": "https://open.spotify.com/album/5TwSGjGqzyLHBhhCpmweT9"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 189400,
+      "name": "Pork And Beans",
+      "url": "https://open.spotify.com/track/3ciq491m3bmvvAAnf0ux1O"
+    },
+    {
+      "album": {
         "name": "Weezer",
         "url": "https://open.spotify.com/album/58UmKPMguFuYtGMVNol95V"
       },
@@ -1521,6 +1683,24 @@
       "duration_ms": 189400,
       "name": "Pork And Beans",
       "url": "https://open.spotify.com/track/7wclPheMJAUKn2njmO2s3A"
+    },
+    {
+      "album": {
+        "name": "Soundtrack to the 00's",
+        "url": "https://open.spotify.com/album/3cYlMsMpkoydEftGXsE8vm"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 252040,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/1wDJgrFbCP7slccwN36Zt2"
     },
     {
       "album": {
@@ -1571,10 +1751,28 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 202800,
       "name": "Ruby",
       "url": "https://open.spotify.com/track/0VhhaYztcRWc7PEjJCjr1g"
+    },
+    {
+      "album": {
+        "name": "Yours Truly, Angry Mob (Deluxe)",
+        "url": "https://open.spotify.com/album/05jUwmVUkmYzj3AeYqNr8B"
+      },
+      "artists": [
+        {
+          "name": "Kaiser Chiefs",
+          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-22",
+      "duration_ms": 202800,
+      "name": "Ruby",
+      "url": "https://open.spotify.com/track/7f7PmeN76Cr3qpQTpqUPcG"
     },
     {
       "album": {
@@ -1589,7 +1787,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 204200,
       "name": "Ruby",
       "url": "https://open.spotify.com/track/2fAIfPLrPUTW1AmJRR428Q"
@@ -1686,6 +1884,24 @@
     },
     {
       "album": {
+        "name": "Seven Nation Army",
+        "url": "https://open.spotify.com/album/2ntSwmOLAM0fMML87wtLKq"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 232626,
+      "name": "Seven Nation Army",
+      "url": "https://open.spotify.com/track/03OGe1S2a7i35BmuKbWaHk"
+    },
+    {
+      "album": {
         "name": "Only By The Night",
         "url": "https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp"
       },
@@ -1701,6 +1917,24 @@
       "duration_ms": 203346,
       "name": "Sex on Fire",
       "url": "https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45"
+    },
+    {
+      "album": {
+        "name": "Motivation Monday",
+        "url": "https://open.spotify.com/album/41Lkko36fOQUfz6UFK0gMe"
+      },
+      "artists": [
+        {
+          "name": "The Kooks",
+          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 169306,
+      "name": "She Moves In Her Own Way",
+      "url": "https://open.spotify.com/track/1PjWX0GmYnPayTq5C20UOG"
     },
     {
       "album": {
@@ -1737,6 +1971,24 @@
       "duration_ms": 169306,
       "name": "She Moves In Her Own Way",
       "url": "https://open.spotify.com/track/5xoUgPXbMNUmoHU0Enwtwq"
+    },
+    {
+      "album": {
+        "name": "00s Party Mixtape",
+        "url": "https://open.spotify.com/album/6uEj5L8M2kF3TrxjcnH5q0"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 188960,
+      "name": "Since U Been Gone",
+      "url": "https://open.spotify.com/track/3E8dcdAkVT1v7CAf02NwHW"
     },
     {
       "album": {
@@ -1870,6 +2122,24 @@
     },
     {
       "album": {
+        "name": "Skater Head",
+        "url": "https://open.spotify.com/album/2S74SV29dhkiWtYZZ83PHr"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 200946,
+      "name": "Somebody Told Me",
+      "url": "https://open.spotify.com/track/2oWdng9n3DF45F9vjHW0vw"
+    },
+    {
+      "album": {
         "name": "Up All Night",
         "url": "https://open.spotify.com/album/6iRS8yRhnTgNEQrBoB2azm"
       },
@@ -1903,6 +2173,24 @@
       "duration_ms": 196546,
       "name": "Somewhere Else",
       "url": "https://open.spotify.com/track/1xDPUKoyQuIiea7Le9ZNgn"
+    },
+    {
+      "album": {
+        "name": "Indie Kids",
+        "url": "https://open.spotify.com/album/30caEA5hJUE3rmoHuQgc9v"
+      },
+      "artists": [
+        {
+          "name": "Razorlight",
+          "url": "https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 196546,
+      "name": "Somewhere Else",
+      "url": "https://open.spotify.com/track/76wg3XSjiY3j24syPK08Mb"
     },
     {
       "album": {
@@ -2029,6 +2317,24 @@
       "duration_ms": 247666,
       "name": "Tell Me Baby",
       "url": "https://open.spotify.com/track/0itNMuBHye9fu392b4e9oa"
+    },
+    {
+      "album": {
+        "name": "20 Top Rock Hits",
+        "url": "https://open.spotify.com/album/3jXdjsmcgNRtAMQlQqdiHl"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 211680,
+      "name": "The Hand That Feeds",
+      "url": "https://open.spotify.com/track/16tyRaFweicaBMtRzqwsWH"
     },
     {
       "album": {

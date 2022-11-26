@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcPGEMJEYxNg.md) - [plain]
 
 > In partnership with <a href="https://goldhouse.org/">Gold House</a>, we are excited to announce our first Gold House Future Music Guild artists: Anik Khan, Ruby Ibarra & thuy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,375 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,209 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,15 +40,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcPGEMJEYxNg.md) - [plain]
 | 30 | [sorry](https://open.spotify.com/track/1Weox7JrxWlozk46HkXHTp) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [sorry](https://open.spotify.com/album/5yYBMehkCVXuFzaVPBBmzB) | 3:40 |
 | 31 | [GANADARA \(Feat\. IU\)](https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [GANADARA](https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH) | 3:23 |
 | 32 | [Rotate \(feat\. Sango, Haile Supreme & Asante\)](https://open.spotify.com/track/2YgTqkYXYNLz34wPdBiZ6f) | [Anik Khan](https://open.spotify.com/artist/23bSD5t38m4d6k8jtlZGDa), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [Haile Supreme](https://open.spotify.com/artist/4pZU0qHXvstRiBnhhRpY2R), [asante](https://open.spotify.com/artist/6bv2mTQTcpXQ4IEHv3Kv3a) | [Approved](https://open.spotify.com/album/1bV0yl7ESEK6bnIUS0vIuu) | 2:48 |
-| 33 | [Nice Things](https://open.spotify.com/track/4WPXpZVM5jcnFpf5PVF448) | [Far East Movement](https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq), [Henry](https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Nice Things](https://open.spotify.com/album/1UzIHc7t8ZyEuuziBjjk0E) | 3:36 |
+| 33 | [Nice Things](https://open.spotify.com/track/0Gfcf1RU1Q8eY8F3D0KAaz) | [Far East Movement](https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq), [Henry](https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Nice Things](https://open.spotify.com/album/6xtYWI1XN7q3siqgL1OVLW) | 3:36 |
 | 34 | [Make You Mine](https://open.spotify.com/track/4Am9AJz2rKsUHR0rSi5WdQ) | [Rianjali](https://open.spotify.com/artist/4zxAliXk8NpmSIdRUepyOG) | [Make You Mine](https://open.spotify.com/album/4OyqQsIJ5p3laXhmQGT0mn) | 4:30 |
-| 35 | [Silver Into Rain](https://open.spotify.com/track/7IBI2S33PMaIM9pARvpIJY) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Silver Into Rain](https://open.spotify.com/album/6JlD7QPsUqPZQDoiYmENzd) | 3:21 |
-| 36 | [DEATH TRIP](https://open.spotify.com/track/77nvm4SGjSDyAjdBpBCxuO) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [Soft Lipa](https://open.spotify.com/artist/3Xp3DA50zRP4TYOtNR7k1T) | [DEATH TRIP](https://open.spotify.com/album/3n4hIndd4ApUv0FUG2KbLO) | 3:42 |
+| 35 | [Silver Into Rain](https://open.spotify.com/track/1fMOg9fZ20OCJCzYiXmom7) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Duality](https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM) | 3:21 |
+| 36 | [DEATH TRIP](https://open.spotify.com/track/1cENnHoIyYcBm5ubz3h1q9) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [Soft Lipa](https://open.spotify.com/artist/3Xp3DA50zRP4TYOtNR7k1T) | [DEATH TRIP](https://open.spotify.com/album/6RF7gZXUtYNfLngg1ziZQJ) | 3:42 |
 | 37 | [A Thousand Cuts](https://open.spotify.com/track/3BeSIS2pBi5ixg580Gy57U) | [Ruby Ibarra](https://open.spotify.com/artist/5y1a3x8WQZLTsmLPowFnkj), [Ann One](https://open.spotify.com/artist/0gbdUzudCwdzxynH0YSqhI) | [A Thousand Cuts](https://open.spotify.com/album/4rAVxJD6qAOsyEVBRKVOAQ) | 5:12 |
 | 38 | [Raspberry Tongue](https://open.spotify.com/track/7dtUx6UNMsD6PQ8LhyUOXO) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Raspberry Tongue](https://open.spotify.com/album/6XQoQAnLR9icdYN9JItECG) | 2:58 |
 | 39 | [once in a moon](https://open.spotify.com/track/4ZlHqeXbItX1qC86aFUax1) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [once in a moon](https://open.spotify.com/album/0P6uxMt91VW5taeFKNx963) | 4:05 |
 | 40 | [Lullaby](https://open.spotify.com/track/6adJRoU4YpwkbwNo9ZLUB9) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [David Frank](https://open.spotify.com/artist/1DTCyYmKxKEv37N97OTczW) | [Lullaby](https://open.spotify.com/album/6npvHapDZNvEZHWTLRiDc0) | 3:22 |
-| 41 | [Dancing In The Wild](https://open.spotify.com/track/7gNW84YFTWpogo5rKMR0UW) | [Su Lee](https://open.spotify.com/artist/3deduluMry0ZIGWF673gfK) | [Dancing In The Wild](https://open.spotify.com/album/4sxTM1Xna0jW2Fq2vRNLR0) | 3:33 |
+| 41 | [Dancing in the Wild](https://open.spotify.com/track/2nMzoa9kEaklftvRfERJqZ) | [Su Lee](https://open.spotify.com/artist/3fQKqN78jhKHvpI2DqecIj) | [Dancing in the Wild](https://open.spotify.com/album/6FJtUF1Z1FeoahCd8Lc3P3) | 3:29 |
 | 42 | [Anyone Else But You](https://open.spotify.com/track/4IBsj7ouiYgkKhaJnBCTXE) | [Anthony de la Torre](https://open.spotify.com/artist/6dxbsVBLykNgOpP0DxjMR4), [Lana Condor](https://open.spotify.com/artist/4KdW7TLVWFkxlsCBQ0VTRc) | [Anyone Else But You](https://open.spotify.com/album/4qT57u3gSvIXaWGtInIp60) | 2:49 |
 | 43 | [24](https://open.spotify.com/track/5nsMKSAJwcr1pA9I6PW429) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [24](https://open.spotify.com/album/3X4pg5g6RIl0Le8RSgiwfJ) | 2:13 |
 | 44 | [Strangers](https://open.spotify.com/track/16k7sLX58uNRKuueVzG6jy) | [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Strangers](https://open.spotify.com/album/6x0uRAJjOAx8BAC60QQHfj) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcPGEMJEYxNg.md) - [plain]
 | 49 | [February Song](https://open.spotify.com/track/69fLVwZ9rQImSXMJSwYb39) | [Melissa Polinar](https://open.spotify.com/artist/2O6S01fSY6YHfZT6qLAgxG), [John Splithoff](https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD) | [February Song](https://open.spotify.com/album/3iNMX5Rjd4IS8bsl8NrQo3) | 3:20 |
 | 50 | [OMG](https://open.spotify.com/track/1nLtR8vhySvat85DR0W1Zt) | [Annalé](https://open.spotify.com/artist/7A3a8XrIxL8NZgqaKlnPrW) | [OMG](https://open.spotify.com/album/7wpAiiFQAADL1pLwH0iCf8) | 2:43 |
 
-Snapshot ID: `MTY2MDU4MDMwOCwwMDAwMDAwMGNiOTBjOWY1ZjRjMzUzNzUwMTZiZGE1ZDFjMjBhNWUz`
+Snapshot ID: `MTY2MDU4MDMwOCwwMDAwMDAwMDg0NDdkMTA1YWM2M2UzOWEzYWExMjJhNTkyMTU1MGQw`

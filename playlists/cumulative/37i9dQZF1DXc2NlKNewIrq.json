@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "The Unforgettable Fire (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/1Y0w6vwUl9mwX1mTQ9SpQF"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 144920,
+      "name": "4th Of July - Single Version",
+      "url": "https://open.spotify.com/track/1xdiN6I3a3HsJgPn4wndDz"
+    },
+    {
+      "album": {
         "name": "Dreamtime Return - 30th Anniversary Remastered Edition",
         "url": "https://open.spotify.com/album/6lnjs641LTK3qswbVFFBJw"
       },
@@ -851,10 +869,28 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 124885,
       "name": "Oakwood Green - Remastered",
       "url": "https://open.spotify.com/track/37uIxk56anbPqnXXFANh0q"
+    },
+    {
+      "album": {
+        "name": "Silence & Wisdom (Remastered)",
+        "url": "https://open.spotify.com/album/0JCvbWETwmTcjlVyfT2KRn"
+      },
+      "artists": [
+        {
+          "name": "Deux Filles",
+          "url": "https://open.spotify.com/artist/2PNeKY2obbpjO7MrVJf0M3"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124885,
+      "name": "Oakwood Green - Remastered",
+      "url": "https://open.spotify.com/track/4kwA6pb1fswZ2RitXk9FKs"
     },
     {
       "album": {
@@ -1118,6 +1154,24 @@
     },
     {
       "album": {
+        "name": "Birdy",
+        "url": "https://open.spotify.com/album/6ZTQcgutsPhQ50FRZk3BYl"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 173400,
+      "name": "Slow Water",
+      "url": "https://open.spotify.com/track/5fNVizlRJm3tZdIlwWsWzR"
+    },
+    {
+      "album": {
         "name": "Birdy (Music From The Film / Remastered)",
         "url": "https://open.spotify.com/album/2Heal0ZoXnbgsKivM29wYR"
       },
@@ -1317,10 +1371,28 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 154613,
       "name": "The City Sleeps - Remastered",
       "url": "https://open.spotify.com/track/4z2wYbLHA8PikfutuQZwZC"
+    },
+    {
+      "album": {
+        "name": "Silence & Wisdom (Remastered)",
+        "url": "https://open.spotify.com/album/0JCvbWETwmTcjlVyfT2KRn"
+      },
+      "artists": [
+        {
+          "name": "Deux Filles",
+          "url": "https://open.spotify.com/artist/2PNeKY2obbpjO7MrVJf0M3"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154613,
+      "name": "The City Sleeps - Remastered",
+      "url": "https://open.spotify.com/track/5wsOFaUjcTEs5OthiDLpxQ"
     },
     {
       "album": {

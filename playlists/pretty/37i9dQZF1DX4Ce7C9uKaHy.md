@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ce7C9uKaHy.md) - [plain]
 
 > Relaxing Jazz beats from the best Lo\-Fi producers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,963 likes - 80 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,423 likes - 80 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ce7C9uKaHy.md) - [plain]
 | 3 | [Stay the Same](https://open.spotify.com/track/2NsNSA5Vpa6mzqNzehjup0) | [mell\-ø](https://open.spotify.com/artist/6bA2OonnJsG1tN9yClu2aC), [Ambulo](https://open.spotify.com/artist/6sPQwc6lix6K1Gv64v91Ml) | [Afloat Again](https://open.spotify.com/album/5gaCTvnjcK8yVFhZHnG7N2) | 2:04 |
 | 4 | [a lifetime](https://open.spotify.com/track/5mcZF1kLzh4i182pDvp2RJ) | [anybodyy](https://open.spotify.com/artist/1aub8GgJikwSG4wUMWZrzl) | [a lifetime / in my head](https://open.spotify.com/album/63wBnahx47YdNGVY39pjDX) | 2:16 |
 | 5 | [Solitude](https://open.spotify.com/track/68Q59HvGVaA4kQbAbJoh00) | [Towerz](https://open.spotify.com/artist/1bbah9s09626gweOzzLbKG) | [Dreamer](https://open.spotify.com/album/0I2bgaPp0ktK6AXGlADqHI) | 2:04 |
-| 6 | [Again](https://open.spotify.com/track/24Jk4wYlLRXI9TUMdkHoMN) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Penthouse](https://open.spotify.com/album/5MWhs2N3eO78ppIYmRUzmH) | 2:23 |
+| 6 | [Again](https://open.spotify.com/track/7B31LBiu80ZPLRF9UYLsEU) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Penthouse](https://open.spotify.com/album/0GttCWGCN1dQ5B9Yx9XPh2) | 2:23 |
 | 7 | [Transcend](https://open.spotify.com/track/0rPj7S7wJ7IF4PiUXlRRfY) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs) | [Perpetual](https://open.spotify.com/album/22cGIyIDKV7ZcOMuiBqf8R) | 2:01 |
 | 8 | [Sundown](https://open.spotify.com/track/1ZNBBIqH0beHORllNd3Uud) | [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2), [Aarigod](https://open.spotify.com/artist/3PcDrMW2mUYxuKB5Ue3c86) | [Sundown](https://open.spotify.com/album/3Q7VU1KXqFwgvVqcf2RmTf) | 2:48 |
 | 9 | [Down River](https://open.spotify.com/track/4U09TYIzR2k3oo3gXiknjm) | [dryhope](https://open.spotify.com/artist/50Ej4gF8iYESted3e4JZ4t) | [Contrasts](https://open.spotify.com/album/7wDFM8dEj8csU071gXJmkH) | 2:24 |
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ce7C9uKaHy.md) - [plain]
 | 19 | [Longer Days](https://open.spotify.com/track/3bHYWZeQf8uZBKz35Q93xT) | [Fets](https://open.spotify.com/artist/0GJ3FYu5TXpDjqvPs9iA4u), [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM) | [Longer Days](https://open.spotify.com/album/4r99r4UeTF8jVzd2Y0esjN) | 2:34 |
 | 20 | [Owls of the Night](https://open.spotify.com/track/0DxFNeiT0zuSfF2IjX9vDX) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [1 Am\. Study Session](https://open.spotify.com/album/5YHjaK7w0G690vmyEiob1C) | 2:21 |
 | 21 | [Vondelpark](https://open.spotify.com/track/2eZ1y3eY02Twb00rYOsUhr) | [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe), [Aylior](https://open.spotify.com/artist/2yCHwCR4w8pZyoSCyoQQfx) | [Vondelpark](https://open.spotify.com/album/6DUWrh2rpN32GmWYv1qXT4) | 2:00 |
-| 22 | [Feblu](https://open.spotify.com/track/0BD9XqvXSSxlHsdBlLKhqA) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb) | [EXPEDITion Vol\. 7: Moonloops](https://open.spotify.com/album/6Ads7rAZhNDWrcZqaCwJg6) | 1:33 |
+| 22 | [Feblu](https://open.spotify.com/track/6EHGGXkOd5APGB3bxEqekX) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb) | [Expedition, Vol\. 7 \(Moonloops\)](https://open.spotify.com/album/7HPxDRXmH8sR74ywHbuXjM) | 1:33 |
 | 23 | [Sugar Coat](https://open.spotify.com/track/4Q5SnRGF0wAluw3zY9NbYo) | [Purrple Cat](https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE) | [Sweet Dreams](https://open.spotify.com/album/35Zg4Ksfyo1PmlztBn3UH6) | 2:59 |
-| 24 | [Tripwire](https://open.spotify.com/track/4n8IYtgioSqtdcOvFsz7hI) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX), [edddi p](https://open.spotify.com/artist/15oeMOYxaCQ2JwugNZZrsp) | [Tripwire](https://open.spotify.com/album/3W0Gm5LJOJUktZaaJYToAr) | 2:48 |
+| 24 | [Tripwire](https://open.spotify.com/track/6T0qIYWEBLSik4UL4zrsQv) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX), [edddi p](https://open.spotify.com/artist/15oeMOYxaCQ2JwugNZZrsp) | [Habitual Haze](https://open.spotify.com/album/5lJUqo5mEcYgcCnbADkfvO) | 2:48 |
 | 25 | [Reminiscing](https://open.spotify.com/track/0SLqAM3Jv5vKpjskuRK4aw) | [Jhove](https://open.spotify.com/artist/1R9fj5Tiy9XMFp5ANzS7FA), [Flovry](https://open.spotify.com/artist/2pLu3Ut2C3RviYZ3xUanBs) | [Before You Go](https://open.spotify.com/album/6rZmtp1Bc9n0rN20uqsLea) | 2:38 |
 | 26 | [Alone without your embrace](https://open.spotify.com/track/1oSJNJPZdoeFf4zrbF7OIZ) | [d\-p](https://open.spotify.com/artist/5RdWE3BZ6xrseaVatOeUWc) | [Alone without your embrace](https://open.spotify.com/album/0Oa1ZmpCSJJChayiAZXMXI) | 2:29 |
 | 27 | [Gloaming](https://open.spotify.com/track/09O1DNX6iLiAmi3b64aOhy) | [Mattari](https://open.spotify.com/artist/2vvyHDrc6kPcPXcTlIaumC) | [Gloaming](https://open.spotify.com/album/0mCpADfeZDh2APKiBQjzVL) | 2:51 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ce7C9uKaHy.md) - [plain]
 | 73 | [What If It All Turned out Fine](https://open.spotify.com/track/5gcOwfYRvWbDwho79MwpR5) | [Jhove](https://open.spotify.com/artist/1R9fj5Tiy9XMFp5ANzS7FA) | [Before You Go](https://open.spotify.com/album/6rZmtp1Bc9n0rN20uqsLea) | 2:41 |
 | 74 | [sleep static](https://open.spotify.com/track/3Y7o45SbDTvzKrlkVLut4y) | [luvwn](https://open.spotify.com/artist/7nVUUnsqtNsHsClBi5gPwl) | [sleep static](https://open.spotify.com/album/7kxWQptPxIOHYQklLsvuFg) | 1:38 |
 | 75 | [Lonely Place](https://open.spotify.com/track/3TK5Af29Ba9pjE0eSsujGe) | [Tibeauthetraveler](https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb) | [Lonely Place](https://open.spotify.com/album/4knByOxlegNO6AIipucQXp) | 2:16 |
-| 76 | [Sunday Evening.](https://open.spotify.com/track/54EGtk5LxuWGkCc3pqTi59) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Sunday Evening.](https://open.spotify.com/album/24x6bbAwLxKmNNyWaLpF0i) | 1:02 |
+| 76 | [Sunday Evening.](https://open.spotify.com/track/3hFJJ1ySbkjsJUftYaQk4a) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Sunday Evening.](https://open.spotify.com/album/5Lox3JJVy1jpFscjs3mUFO) | 1:02 |
 | 77 | [Amore](https://open.spotify.com/track/0gAT8yeYMh4EUiWRdLNkka) | [Peachy!](https://open.spotify.com/artist/7gvbCoLA8lJUktp8G2xIRR) | [Floral EP](https://open.spotify.com/album/2AlDekbTBkjh7gOXa1QFM4) | 1:56 |
 | 78 | [Shifting](https://open.spotify.com/track/5pWSFR7XCupryMCju8umk0) | [ENRA](https://open.spotify.com/artist/1jDbZQQs4VNtiC4AerpIg4), [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI) | [Tomorrows That Follow](https://open.spotify.com/album/30KbuLXO5pTJ75mBilXPVI) | 2:24 |
 | 79 | [Take Five](https://open.spotify.com/track/11ppb9MvpzxbmChaakrKKK) | [Channel Blue](https://open.spotify.com/artist/7KJsrz0B4NjLsJMcyW3HZ8) | [Take Five](https://open.spotify.com/album/1lIfPSq2TmUxaGOiUKmUP0) | 2:18 |
 | 80 | [Moonlight](https://open.spotify.com/track/0fgWMwqn3me97RFl2CTOKP) | [A L E X](https://open.spotify.com/artist/3nCJkmgdZQ6l8o828Y3vNQ) | [Growing Up, Vol\. 3](https://open.spotify.com/album/2AldFXJiuHfti8YgkUNQTG) | 3:38 |
 
-Snapshot ID: `MTU4ODc3NDkzMCwwMDAwMDAwMDM0YmY2ZmViMjBkNDE1OGY0YWIxNzA5Njg4OTdiM2Ez`
+Snapshot ID: `MTU4ODc3NDkzMCwwMDAwMDAwMDRkN2JhMTIzZDZmYzRhMTk2Mjk2ZGQ3NjA2MGE1YTI4`

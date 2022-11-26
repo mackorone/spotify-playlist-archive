@@ -559,7 +559,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 341986,
       "name": "Eddie",
       "url": "https://open.spotify.com/track/5GWrhVfgP4szBtCOXbSki8"
@@ -685,7 +685,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": "2022-11-13",
       "duration_ms": 264306,
       "name": "Good Grief",
       "url": "https://open.spotify.com/track/4uNr9f4s35mXouHntXwVl6"
@@ -855,7 +855,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": "2022-11-13",
       "duration_ms": 293875,
       "name": "Justice 2020",
       "url": "https://open.spotify.com/track/20Cq38WdpKCscYtTPTZy0J"
@@ -909,7 +909,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": "2022-11-13",
       "duration_ms": 216506,
       "name": "Lock It In The Pocket",
       "url": "https://open.spotify.com/track/2uSTcrVUckp3k6FuMaEfiq"
@@ -1239,7 +1239,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 319066,
       "name": "Rain Will Fall",
       "url": "https://open.spotify.com/track/2fJHXL82X3wtyXMzcSifdj"
@@ -1626,6 +1626,24 @@
     },
     {
       "album": {
+        "name": "Return of the Dream Canteen",
+        "url": "https://open.spotify.com/album/0KJc9ksnoJJsdpQxV3z5i1"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202888,
+      "name": "The Drummer",
+      "url": "https://open.spotify.com/track/5KnqauuLF6qyZA9RzfeKxG"
+    },
+    {
+      "album": {
         "name": "The Rougarou",
         "url": "https://open.spotify.com/album/7zFE0ofJbtgK3vzBhAmQMA"
       },
@@ -1641,6 +1659,24 @@
       "duration_ms": 197628,
       "name": "The Rougarou",
       "url": "https://open.spotify.com/track/6Y0E6cel8EllxaxIpCjjih"
+    },
+    {
+      "album": {
+        "name": "The Shape I'm Takin'",
+        "url": "https://open.spotify.com/album/7D2jhStmJWw2u8DhMWnORp"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215365,
+      "name": "The Shape I'm Takin'",
+      "url": "https://open.spotify.com/track/4UEMZFRrxVUkuMVaHhWoKQ"
     },
     {
       "album": {
@@ -1691,7 +1727,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 260808,
       "name": "Tippa My Tongue",
       "url": "https://open.spotify.com/track/3s53zBEi1ZU6dJj19eFOxW"
@@ -1775,6 +1811,28 @@
       "duration_ms": 266826,
       "name": "Tones Of Home",
       "url": "https://open.spotify.com/track/5Cr8DxrjyP2fS93XjGXlFl"
+    },
+    {
+      "album": {
+        "name": "Too Much Girl 4 Me (feat. Billy Gibbons)",
+        "url": "https://open.spotify.com/album/4l1PiVwpjTQTruBUTcnfBR"
+      },
+      "artists": [
+        {
+          "name": "Morris Day",
+          "url": "https://open.spotify.com/artist/1L56apXminRPJqnqBN0vhe"
+        },
+        {
+          "name": "Billy Gibbons",
+          "url": "https://open.spotify.com/artist/4DqeVw9M195lj22iU1elxD"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147031,
+      "name": "Too Much Girl 4 Me (feat. Billy Gibbons)",
+      "url": "https://open.spotify.com/track/734WIZHSCzLUpxAjeE0J7K"
     },
     {
       "album": {

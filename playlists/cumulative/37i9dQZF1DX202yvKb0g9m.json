@@ -385,7 +385,7 @@
     {
       "album": {
         "name": "stuff i used to do",
-        "url": "https://open.spotify.com/album/77lJ42P4qgi7HJTOjMmcBp"
+        "url": "https://open.spotify.com/album/3NqLE9V39dR0Pikwv1hYAA"
       },
       "artists": [
         {
@@ -396,6 +396,24 @@
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 141304,
+      "name": "Charlie can't dance",
+      "url": "https://open.spotify.com/track/1SPtQ4u1JIz7u4PRXYCqiY"
+    },
+    {
+      "album": {
+        "name": "stuff i used to do",
+        "url": "https://open.spotify.com/album/77lJ42P4qgi7HJTOjMmcBp"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-09",
       "duration_ms": 141304,
       "name": "Charlie can't dance",
       "url": "https://open.spotify.com/track/35F0oHYXTobbacYZZkvaZT"
@@ -551,6 +569,24 @@
     {
       "album": {
         "name": "The Feast Of The Broken Heart",
+        "url": "https://open.spotify.com/album/6fyz9Ic9kY0zdayyNOpoKH"
+      },
+      "artists": [
+        {
+          "name": "Hercules & Love Affair",
+          "url": "https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 281815,
+      "name": "Do You Feel The Same?",
+      "url": "https://open.spotify.com/track/0irwK3Hld6BTGAWH9CFjop"
+    },
+    {
+      "album": {
+        "name": "The Feast Of The Broken Heart",
         "url": "https://open.spotify.com/album/7nzzw3jQeC2X1k9BdDI0Th"
       },
       "artists": [
@@ -587,6 +623,24 @@
       "duration_ms": 347865,
       "name": "Everybody Needs A 303",
       "url": "https://open.spotify.com/track/3kKa6jshpLfxKW9GOb3IXK"
+    },
+    {
+      "album": {
+        "name": "Better Living Through Chemistry",
+        "url": "https://open.spotify.com/album/4q9EafI4cNCb3yMjEPoPCB"
+      },
+      "artists": [
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349493,
+      "name": "Everybody Needs A 303",
+      "url": "https://open.spotify.com/track/3JoEudxv4MYugQXrxMSUVs"
     },
     {
       "album": {
@@ -641,10 +695,28 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 391222,
       "name": "Firecracker",
       "url": "https://open.spotify.com/track/0VDi0h6uXz4r24TyAz5eJu"
+    },
+    {
+      "album": {
+        "name": "The Big Cover-Up",
+        "url": "https://open.spotify.com/album/1p5C7xu6fz7z6IOVPWCIGt"
+      },
+      "artists": [
+        {
+          "name": "Todd Terje & The Olsens",
+          "url": "https://open.spotify.com/artist/6JClxoCdn17qYJRwYDWDqq"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391222,
+      "name": "Firecracker",
+      "url": "https://open.spotify.com/track/61FZNafhhexdpEngWny5Wx"
     },
     {
       "album": {
@@ -749,7 +821,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 178666,
       "name": "Land Of Confusion",
       "url": "https://open.spotify.com/track/7o266LwHT9ITAHO8EJ4ETH"
@@ -1001,10 +1073,28 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-16",
       "duration_ms": 320413,
       "name": "Rip It Up",
       "url": "https://open.spotify.com/track/1eamsmwcYYhJwTgMFdQ6YN"
+    },
+    {
+      "album": {
+        "name": "Rip It Up",
+        "url": "https://open.spotify.com/album/0kyKdRPKFDn8cATzWkFAsO"
+      },
+      "artists": [
+        {
+          "name": "Orange Juice",
+          "url": "https://open.spotify.com/artist/2u7xZP39dtED9EuRX9MUwu"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320413,
+      "name": "Rip It Up",
+      "url": "https://open.spotify.com/track/7y4CtoXHFbs8VgcqbaYb9P"
     },
     {
       "album": {
@@ -1023,6 +1113,24 @@
       "duration_ms": 342733,
       "name": "Smack My Bitch Up",
       "url": "https://open.spotify.com/track/3Ed5J0DKfPFEXZmv7zVgBa"
+    },
+    {
+      "album": {
+        "name": "The Fat of the Land - Expanded Edition",
+        "url": "https://open.spotify.com/album/3knGLri9I3X3oO24mDNdkG"
+      },
+      "artists": [
+        {
+          "name": "The Prodigy",
+          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 343386,
+      "name": "Smack My Bitch Up",
+      "url": "https://open.spotify.com/track/1yYMtoXAnmivjrm0FD31Ok"
     },
     {
       "album": {
@@ -1153,10 +1261,40 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 241875,
       "name": "The Garden of Eden (A Himalayan Song)",
       "url": "https://open.spotify.com/track/4zaf5qzolYOVprALV0NAZ8"
+    },
+    {
+      "album": {
+        "name": "The Garden of Eden",
+        "url": "https://open.spotify.com/album/0zRO73WKcyEzInguX9yubX"
+      },
+      "artists": [
+        {
+          "name": "The Garden Of Eden",
+          "url": "https://open.spotify.com/artist/3BTGILbxq4Bjb5qwkIr3af"
+        },
+        {
+          "name": "Angela McCluskey",
+          "url": "https://open.spotify.com/artist/0cJMitw1iwiFVc1MwfRxWX"
+        },
+        {
+          "name": "Mark Tinley",
+          "url": "https://open.spotify.com/artist/0ytLhQB1D6Syrgetn8QHco"
+        },
+        {
+          "name": "Pam Hogg",
+          "url": "https://open.spotify.com/artist/7uyKQ6IUwjoSSiwvmFi0YG"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241875,
+      "name": "The Garden of Eden (A Himalayan Song)",
+      "url": "https://open.spotify.com/track/2yheDn4bIOJVZmfDSTzILA"
     },
     {
       "album": {
@@ -1193,6 +1331,24 @@
       "duration_ms": 386070,
       "name": "Tokyo",
       "url": "https://open.spotify.com/track/6tbVS79XlDQNSctKIYEhkP"
+    },
+    {
+      "album": {
+        "name": "I Care 4 U",
+        "url": "https://open.spotify.com/album/50GHwAog5gmnqkypVkDso8"
+      },
+      "artists": [
+        {
+          "name": "Aaliyah",
+          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 284000,
+      "name": "Try Again",
+      "url": "https://open.spotify.com/track/1sajFP2jfMC8itMG29Fivg"
     },
     {
       "album": {

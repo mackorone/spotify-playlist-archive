@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/meaghansmom/\">Monique Blake</a>",
-  "num_followers": 128,
+  "num_followers": 1349,
   "original_name": "Monique Blake's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MjU4MywwMDAwMDAwMDBiZGY2YzMxODhlYzI5NGUyZDdkZjM3NGU1NWVhNDA5",
+  "snapshot_id": "MTY2NDY0MjU4MywwMDAwMDAwMDAxMjBlYmZkZjVmOWNiNzk0MzI2OGVlMjA2YTJmNzE4",
   "tracks": [
     {
       "added_at": "2022-10-01 16:43:03",
@@ -91,6 +91,22 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
+        "name": "Midnight Love",
+        "url": "https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 238600,
+      "name": "Sexual Healing",
+      "url": "https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED"
+    },
+    {
+      "added_at": "2022-10-01 16:43:03",
+      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D"
       },
@@ -107,18 +123,18 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
-        "name": "Midnight Love",
-        "url": "https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm"
+        "name": "It's Dark And Hell Is Hot",
+        "url": "https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc"
       },
       "artists": [
         {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
         }
       ],
-      "duration_ms": 238600,
-      "name": "Sexual Healing",
-      "url": "https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED"
+      "duration_ms": 214440,
+      "name": "Ruff Ryders' Anthem",
+      "url": "https://open.spotify.com/track/1BKT2I9x4RGKaKqW4up34s"
     },
     {
       "added_at": "2022-10-01 16:43:03",
@@ -139,22 +155,6 @@
       "duration_ms": 282373,
       "name": "If I Ruled the World (Imagine That) (feat. Lauryn Hill)",
       "url": "https://open.spotify.com/track/5PQmSHzWnlgG4EBuIqjac2"
-    },
-    {
-      "added_at": "2022-10-01 16:43:03",
-      "album": {
-        "name": "It's Dark And Hell Is Hot",
-        "url": "https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc"
-      },
-      "artists": [
-        {
-          "name": "DMX",
-          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
-        }
-      ],
-      "duration_ms": 214440,
-      "name": "Ruff Ryders' Anthem",
-      "url": "https://open.spotify.com/track/1BKT2I9x4RGKaKqW4up34s"
     },
     {
       "added_at": "2022-10-01 16:43:03",
@@ -231,26 +231,18 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
-        "name": "Thank Me Later",
-        "url": "https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU"
+        "name": "Off the Wall",
+        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
-        },
-        {
-          "name": "Swizz Beatz",
-          "url": "https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3"
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 319386,
-      "name": "Fancy",
-      "url": "https://open.spotify.com/track/3fpTMuD1u3gJlVI4FadVHs"
+      "duration_ms": 246000,
+      "name": "Off the Wall",
+      "url": "https://open.spotify.com/track/3zYpRGnnoegSpt3SguSo3W"
     },
     {
       "added_at": "2022-10-01 16:43:03",
@@ -275,18 +267,26 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
-        "name": "After The Storm",
-        "url": "https://open.spotify.com/album/4lSQkGgFffaUOd22Yrc25v"
+        "name": "Thank Me Later",
+        "url": "https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU"
       },
       "artists": [
         {
-          "name": "Monica",
-          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "name": "Swizz Beatz",
+          "url": "https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3"
         }
       ],
-      "duration_ms": 242773,
-      "name": "So Gone",
-      "url": "https://open.spotify.com/track/6BIcjFZIVDZxNAcofRFPx4"
+      "duration_ms": 319386,
+      "name": "Fancy",
+      "url": "https://open.spotify.com/track/3fpTMuD1u3gJlVI4FadVHs"
     },
     {
       "added_at": "2022-10-01 16:43:03",
@@ -307,22 +307,6 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
-        "name": "Off the Wall",
-        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Off the Wall",
-      "url": "https://open.spotify.com/track/3zYpRGnnoegSpt3SguSo3W"
-    },
-    {
-      "added_at": "2022-10-01 16:43:03",
-      "album": {
         "name": "Tambourine",
         "url": "https://open.spotify.com/album/35qJZJ0yUoWdyrqs6pDbTK"
       },
@@ -335,6 +319,38 @@
       "duration_ms": 192440,
       "name": "Tambourine",
       "url": "https://open.spotify.com/track/1U16aNzvnlfARgjWXjKmQj"
+    },
+    {
+      "added_at": "2022-10-01 16:43:03",
+      "album": {
+        "name": "After The Storm",
+        "url": "https://open.spotify.com/album/4lSQkGgFffaUOd22Yrc25v"
+      },
+      "artists": [
+        {
+          "name": "Monica",
+          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
+        }
+      ],
+      "duration_ms": 242773,
+      "name": "So Gone",
+      "url": "https://open.spotify.com/track/6BIcjFZIVDZxNAcofRFPx4"
+    },
+    {
+      "added_at": "2022-10-01 16:43:03",
+      "album": {
+        "name": "My Life",
+        "url": "https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "duration_ms": 279240,
+      "name": "Mary Jane (All Night Long)",
+      "url": "https://open.spotify.com/track/2zwmugV2IbUwKq5JgOWEpv"
     },
     {
       "added_at": "2022-10-01 16:43:03",
@@ -359,34 +375,22 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
-        "name": "My Life",
-        "url": "https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC"
+        "name": "I Am...",
+        "url": "https://open.spotify.com/album/4UhEjfIRx4tE1XRY21vwNa"
       },
       "artists": [
         {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        }
-      ],
-      "duration_ms": 279240,
-      "name": "Mary Jane (All Night Long)",
-      "url": "https://open.spotify.com/track/2zwmugV2IbUwKq5JgOWEpv"
-    },
-    {
-      "added_at": "2022-10-01 16:43:03",
-      "album": {
-        "name": "The Big Bang",
-        "url": "https://open.spotify.com/album/3lT0XTcteJfBbPNoPAmNRq"
-      },
-      "artists": [
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
         {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
         }
       ],
-      "duration_ms": 214960,
-      "name": "Touch It",
-      "url": "https://open.spotify.com/track/3HVJbdz0V402U5YggQK4Ao"
+      "duration_ms": 284000,
+      "name": "Hate Me Now (feat. Diddy)",
+      "url": "https://open.spotify.com/track/158DIbrVt4YbqNnWyRCS3P"
     },
     {
       "added_at": "2022-10-01 16:43:03",
@@ -412,7 +416,7 @@
       "added_at": "2022-10-01 16:43:03",
       "album": {
         "name": "- Ugh, those feels again",
-        "url": "https://open.spotify.com/album/42wtqDcTQlJJbUzAPBSwaK"
+        "url": "https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD"
       },
       "artists": [
         {
@@ -422,7 +426,23 @@
       ],
       "duration_ms": 206465,
       "name": "Find Someone Like You",
-      "url": "https://open.spotify.com/track/53SIeTHgXuAOd98hZWV2wD"
+      "url": "https://open.spotify.com/track/4lCqM3KkNn8aj7biJaa58o"
+    },
+    {
+      "added_at": "2022-10-01 16:43:03",
+      "album": {
+        "name": "The Big Bang",
+        "url": "https://open.spotify.com/album/3lT0XTcteJfBbPNoPAmNRq"
+      },
+      "artists": [
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        }
+      ],
+      "duration_ms": 214960,
+      "name": "Touch It",
+      "url": "https://open.spotify.com/track/3HVJbdz0V402U5YggQK4Ao"
     },
     {
       "added_at": "2022-10-01 16:43:03",
@@ -447,26 +467,6 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
-        "name": "I Am...",
-        "url": "https://open.spotify.com/album/4UhEjfIRx4tE1XRY21vwNa"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        },
-        {
-          "name": "Diddy",
-          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
-        }
-      ],
-      "duration_ms": 284000,
-      "name": "Hate Me Now (feat. Diddy)",
-      "url": "https://open.spotify.com/track/158DIbrVt4YbqNnWyRCS3P"
-    },
-    {
-      "added_at": "2022-10-01 16:43:03",
-      "album": {
         "name": "The Blueprint 3",
         "url": "https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX"
       },
@@ -487,22 +487,6 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
-        "name": "Mama Said Knock You Out",
-        "url": "https://open.spotify.com/album/6dfYmbgWeJCgqJhnR4TfKb"
-      },
-      "artists": [
-        {
-          "name": "LL COOL J",
-          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
-        }
-      ],
-      "duration_ms": 248493,
-      "name": "Around The Way Girl",
-      "url": "https://open.spotify.com/track/6jL1SnyXcXiKOmw4M2RnmT"
-    },
-    {
-      "added_at": "2022-10-01 16:43:03",
-      "album": {
         "name": "New Beginning",
         "url": "https://open.spotify.com/album/0y9RVnTvpZa3LTlUUaD7l4"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 282600,
       "name": "You're the One",
       "url": "https://open.spotify.com/track/67ZorjDM25q7bETfLbHdfS"
+    },
+    {
+      "added_at": "2022-10-01 16:43:03",
+      "album": {
+        "name": "Mama Said Knock You Out",
+        "url": "https://open.spotify.com/album/6dfYmbgWeJCgqJhnR4TfKb"
+      },
+      "artists": [
+        {
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        }
+      ],
+      "duration_ms": 248493,
+      "name": "Around The Way Girl",
+      "url": "https://open.spotify.com/track/6jL1SnyXcXiKOmw4M2RnmT"
     },
     {
       "added_at": "2022-10-01 16:43:03",
@@ -551,22 +551,6 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
-        "name": "Mama Stay",
-        "url": "https://open.spotify.com/album/7tru8RQVWKJ3MwC253e4CP"
-      },
-      "artists": [
-        {
-          "name": "WSTRN",
-          "url": "https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs"
-        }
-      ],
-      "duration_ms": 190210,
-      "name": "Mama Stay",
-      "url": "https://open.spotify.com/track/6v5xfPpCMt03M9r3dcH53k"
-    },
-    {
-      "added_at": "2022-10-01 16:43:03",
-      "album": {
         "name": "A Moment In Time",
         "url": "https://open.spotify.com/album/02p7gkI3r0m3J1wWU11uex"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 222960,
       "name": "I Feel Good",
       "url": "https://open.spotify.com/track/2OwvleQsnjgOYbH3RRfwQr"
+    },
+    {
+      "added_at": "2022-10-01 16:43:03",
+      "album": {
+        "name": "Mountain High Valley Low",
+        "url": "https://open.spotify.com/album/6i3sZ5fdBwlPD9b1LVRD6M"
+      },
+      "artists": [
+        {
+          "name": "Yolanda Adams",
+          "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
+        }
+      ],
+      "duration_ms": 340040,
+      "name": "Open My Heart",
+      "url": "https://open.spotify.com/track/4cNbCWPJjLHP5ijow5LbVg"
     },
     {
       "added_at": "2022-10-01 16:43:03",
@@ -607,18 +607,18 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
-        "name": "Mountain High Valley Low",
-        "url": "https://open.spotify.com/album/6i3sZ5fdBwlPD9b1LVRD6M"
+        "name": "Mama Stay",
+        "url": "https://open.spotify.com/album/7tru8RQVWKJ3MwC253e4CP"
       },
       "artists": [
         {
-          "name": "Yolanda Adams",
-          "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
+          "name": "WSTRN",
+          "url": "https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs"
         }
       ],
-      "duration_ms": 340040,
-      "name": "Open My Heart",
-      "url": "https://open.spotify.com/track/4cNbCWPJjLHP5ijow5LbVg"
+      "duration_ms": 190210,
+      "name": "Mama Stay",
+      "url": "https://open.spotify.com/track/6v5xfPpCMt03M9r3dcH53k"
     },
     {
       "added_at": "2022-10-01 16:43:03",
@@ -715,6 +715,22 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
+        "name": "Ravers Gas - Single",
+        "url": "https://open.spotify.com/album/2Tjwu0ywbCuXdTGfOnr7oO"
+      },
+      "artists": [
+        {
+          "name": "DING DONG",
+          "url": "https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7"
+        }
+      ],
+      "duration_ms": 190746,
+      "name": "Ravers Gas",
+      "url": "https://open.spotify.com/track/79mzjmI59sxbnk5NOPKiFP"
+    },
+    {
+      "added_at": "2022-10-01 16:43:03",
+      "album": {
         "name": "Broken Silence",
         "url": "https://open.spotify.com/album/0V5LKel3fj8JvCNeYHWCuU"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 212200,
       "name": "Tables Will Turn",
       "url": "https://open.spotify.com/track/0NTsxA8DrjBbZjK35oP67U"
-    },
-    {
-      "added_at": "2022-10-01 16:43:03",
-      "album": {
-        "name": "Ravers Gas - Single",
-        "url": "https://open.spotify.com/album/2Tjwu0ywbCuXdTGfOnr7oO"
-      },
-      "artists": [
-        {
-          "name": "DING DONG",
-          "url": "https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7"
-        }
-      ],
-      "duration_ms": 190746,
-      "name": "Ravers Gas",
-      "url": "https://open.spotify.com/track/79mzjmI59sxbnk5NOPKiFP"
     },
     {
       "added_at": "2022-10-01 16:43:03",

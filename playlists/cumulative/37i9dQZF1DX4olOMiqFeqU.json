@@ -610,6 +610,28 @@
     },
     {
       "album": {
+        "name": "Tersera",
+        "url": "https://open.spotify.com/album/5ZNxJGEM28nI1M8SKQcXNr"
+      },
+      "artists": [
+        {
+          "name": "Mayonnaise",
+          "url": "https://open.spotify.com/artist/7lIVjtsgz0y1oRQFBAVNzq"
+        },
+        {
+          "name": "Star Music",
+          "url": "https://open.spotify.com/artist/3x9i2nnioY7wlQE9oPEHqv"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242453,
+      "name": "Ipagpatawad Mo",
+      "url": "https://open.spotify.com/track/3On64r714N7t1Q4KuqMYlO"
+    },
+    {
+      "album": {
         "name": "It Might Be You (Theme from Everyday I Love You)",
         "url": "https://open.spotify.com/album/0obyXODEHnssLgwFovpusL"
       },
@@ -621,7 +643,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-13",
+      "date_removed": "2022-11-13",
       "duration_ms": 252969,
       "name": "It Might Be You - Theme from Everyday I Love You",
       "url": "https://open.spotify.com/track/4FdQYoWFym37QDQ2GkEHi1"
@@ -1287,7 +1309,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 267680,
       "name": "Same Ground",
       "url": "https://open.spotify.com/track/5iNGxZ1waiyMFylg4QAHk6"
@@ -1305,7 +1327,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 277098,
       "name": "Sana - Single Version",
       "url": "https://open.spotify.com/track/1X4l4i472kW5ofFP8Xo0x0"
@@ -1341,7 +1363,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 275906,
       "name": "So Slow",
       "url": "https://open.spotify.com/track/5tg4Rr2rArQJKiH2hcaJph"
@@ -1539,7 +1561,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 207786,
       "name": "The Way You Look at Me",
       "url": "https://open.spotify.com/track/1C3wg8sCIPqpNQx0wAL4DC"
@@ -1557,7 +1579,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-05",
+      "date_removed": null,
       "duration_ms": 240065,
       "name": "Till I Met You",
       "url": "https://open.spotify.com/track/0JzwzRDkwZr8s1WRfNgUqA"
@@ -1575,7 +1597,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 256923,
       "name": "Till My Heartaches End - From \"The Significant Other\"",
       "url": "https://open.spotify.com/track/4isDU5tDNqFLQ5xQ9NgPmz"

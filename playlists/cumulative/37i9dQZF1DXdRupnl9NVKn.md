@@ -4,7 +4,7 @@
 
 > Neverland, your queens are here!
 
-76 songs - 4 hr 12 min - [published](https://open.spotify.com/playlist/3p3yRo4Iq3n6IVfjNDgnL1)
+83 songs - 4 hr 35 min - [published](https://open.spotify.com/playlist/3p3yRo4Iq3n6IVfjNDgnL1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,9 @@
 | [Blow Your Mind](https://open.spotify.com/track/5QIWUtgYCSrulzyixMLgbM) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I made](https://open.spotify.com/album/479xGDGrqMXN8YLmJMEoTG) | 2:49 | 2022-05-22 |  |
 | [Bonnie & Clyde](https://open.spotify.com/track/21aIsunB7PfZI0vlIoaJPh) | [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [A Page](https://open.spotify.com/album/7jmRVFWYCVgx2OEC1ZQJH8) | 2:54 | 2022-05-22 |  |
 | [Cart](https://open.spotify.com/track/4WYLU0MgHng8t8yjtT2m2S) | [Hangzoo](https://open.spotify.com/artist/0m5ETFICJLAg6ageqa9FgZ), [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Cart](https://open.spotify.com/album/1v3aPnfORtp7JETc4uPrwp) | 3:13 | 2022-05-22 |  |
+| [Change](https://open.spotify.com/track/6wXYyw7TBQlJ0qh3RNP8MD) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I love](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) | 3:24 | 2022-10-17 |  |
 | [DAHLIA](https://open.spotify.com/track/2CxgY4VvTNA0bG2nVtmgPg) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I burn](https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe) | 3:10 | 2022-05-22 |  |
+| [DARK \(X\-file\)](https://open.spotify.com/track/4xc3JpkI8kxLwk1SJafjzh) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I love](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) | 2:45 | 2022-10-17 |  |
 | [DON'T TEXT ME](https://open.spotify.com/track/10gS1lJELCHguaUnrowonh) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I am](https://open.spotify.com/album/1GtPnOiHxCnoZPCiLcKj22) | 3:36 | 2022-05-22 |  |
 | [Dreaming About You](https://open.spotify.com/track/4GpACqU62rGBnFEQQyDZw5) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Replay \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/55EdkCQtpj8BRYdoElsdn2) | 3:41 | 2022-05-22 |  |
 | [Drive](https://open.spotify.com/track/0nsIi8do34jaxhKI8C6QLP) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [MY](https://open.spotify.com/album/3Z3fQ47AXd0WfDPiDvMecl) | 3:21 | 2022-05-22 |  |
@@ -32,6 +34,7 @@
 | [HANN \(Alone\)](https://open.spotify.com/track/7gr57cYekMWriyJYbT7oZ4) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [HANN \(Alone\)](https://open.spotify.com/album/4VLR1cDqRIeS86GYSJvlmZ) | 3:25 | 2022-05-22 |  |
 | [Hear me](https://open.spotify.com/track/2kgjb8aqV3202cAN7jUaNR) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I am](https://open.spotify.com/album/1GtPnOiHxCnoZPCiLcKj22) | 3:56 | 2022-05-22 |  |
 | [Help Me](https://open.spotify.com/track/1LdSxQ9HNRtXa6fQ2Bcjos) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Her Private Life \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/3IGZKqFG3HJwPYorlck0p6) | 3:58 | 2022-05-22 | 2022-07-29 |
+| [Help Me](https://open.spotify.com/track/3GTGStCKQnZarmZeQR9vmj) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Her Private Life \(Original Television Soundtrack\)](https://open.spotify.com/album/5Cs0PWgVylmYPiuoN6qLda) | 3:58 | 2022-10-17 | 2022-11-13 |
 | [Help Me](https://open.spotify.com/track/7lZqVyqbMtx4O1lrJCvRH0) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Her Private Life \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/6xzTGXUxiDgdIH9TZiHKz8) | 3:58 | 2022-07-04 |  |
 | [How To Love \(with NEON PAPRIKA\) \- Special Track Version](https://open.spotify.com/track/5avhK56czNLazDtqXEKrHa) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF), [NEON PAPRIKA](https://open.spotify.com/artist/7jlt93QGTuUEdDhhTuJj2i) | [Replay \(Original Television Soundtrack\)](https://open.spotify.com/album/6Mpb0VFJvRT8EpifN9sjKk) | 3:30 | 2022-05-22 |  |
 | [HWAA](https://open.spotify.com/track/5FiXhM80sP4yg6tEnHkZZn) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I burn](https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe) | 3:17 | 2022-05-22 |  |
@@ -46,6 +49,7 @@
 | [Light My Fire](https://open.spotify.com/track/3jSMGwspwFJGWIaxNIDWsT) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [LATATA](https://open.spotify.com/album/3DOoKGlWO9lNsKQAxa0DJ1) | 3:51 | 2022-05-22 |  |
 | [LION](https://open.spotify.com/track/40OyiVO9NtBg9R2Gpwxs3u) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I trust](https://open.spotify.com/album/57sl8AvqVqm4Fadre0z8FQ) | 3:30 | 2022-05-22 |  |
 | [LOST](https://open.spotify.com/track/2hONcl7rn6TCopbykEoyXH) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I burn](https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe) | 3:01 | 2022-05-22 |  |
+| [LOVE](https://open.spotify.com/track/6dmMXI9tVrDgFmxpjttZmF) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I love](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) | 3:17 | 2022-10-17 |  |
 | [Luv U](https://open.spotify.com/track/2Mvdcda3pVMDASD7oZWPr4) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I trust](https://open.spotify.com/album/57sl8AvqVqm4Fadre0z8FQ) | 3:33 | 2022-05-22 |  |
 | [Maybe](https://open.spotify.com/track/1nEjpWJlqcOsf2ZaRQ3XdW) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I trust](https://open.spotify.com/album/57sl8AvqVqm4Fadre0z8FQ) | 3:00 | 2022-05-22 |  |
 | [MAZE](https://open.spotify.com/track/5xptVEzEqCXv0oIJmyDYOJ) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I am](https://open.spotify.com/album/1GtPnOiHxCnoZPCiLcKj22) | 3:20 | 2022-05-22 |  |
@@ -54,6 +58,7 @@
 | [MY BAG](https://open.spotify.com/track/1t8sqIScEIP0B4bQzBuI2P) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 2:40 | 2022-05-22 |  |
 | [My Destiny](https://open.spotify.com/track/7MgqbzRWLbZojKqGWsnqJN) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [TALE OF THE NINE TAILED \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/7qjpNy78ZbcFqdit0g5xWD) | 3:37 | 2022-05-22 |  |
 | [Never Stop Me](https://open.spotify.com/track/0ckILmtBH2r5UFOtTf2cN0) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 2:24 | 2022-05-22 |  |
+| [Nxde](https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I love](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) | 2:58 | 2022-10-17 |  |
 | [Oh my god](https://open.spotify.com/track/2DmRXiyn03tOqKgEJXlaiJ) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I trust](https://open.spotify.com/album/57sl8AvqVqm4Fadre0z8FQ) | 3:15 | 2022-05-22 |  |
 | [Oh my god \- English Version](https://open.spotify.com/track/2EJbMzocEZ6VHnZKQ8pt8H) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I trust](https://open.spotify.com/album/57sl8AvqVqm4Fadre0z8FQ) | 3:15 | 2022-05-22 |  |
 | [POLAROID](https://open.spotify.com/track/1XCoTc12Trl56sgCPP4R8M) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 3:38 | 2022-05-22 |  |
@@ -64,7 +69,9 @@
 | [Put It Straight \- Nightmare Version](https://open.spotify.com/track/6BheMIaNvX13rcfENmYTww) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Queendom < Box of Pandora > Pt\. 1](https://open.spotify.com/album/7fGaLPPmATwK9Jade24fXC) | 4:16 | 2022-05-22 | 2022-07-29 |
 | [Quit](https://open.spotify.com/track/54y2W3EYYsSnyqL1rinbJb) | [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [Windy](https://open.spotify.com/album/1lv92CIVZbB2BsHmIx7qJf) | 3:09 | 2022-05-22 |  |
 | [Relay](https://open.spotify.com/track/310Qb2mSocNLguFicxzRnD) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Relay](https://open.spotify.com/album/0k31vrIZQgqit8TjlQePM9) | 3:43 | 2022-07-04 |  |
+| [Reset](https://open.spotify.com/track/6b5UB8AvYPTYP5AC99BYjB) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I love](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) | 3:02 | 2022-10-17 |  |
 | [Saying Hello](https://open.spotify.com/track/0iLX5STkl07zjT4sO8dadX) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [Link: Eat, Love, Kill \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/6lkiYHR4LUv13f0yuXSf2D) | 3:59 | 2022-07-04 |  |
+| [Sculpture](https://open.spotify.com/track/7f9Nbqm1ds2kxGHioJtdf3) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I love](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) | 3:06 | 2022-10-17 |  |
 | [Senorita](https://open.spotify.com/track/0q6boCcLaWYPIy2vOsksFg) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I made](https://open.spotify.com/album/479xGDGrqMXN8YLmJMEoTG) | 3:17 | 2022-05-22 |  |
 | [Show](https://open.spotify.com/track/6D234msXLrSpmESDfOLwZ1) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Sugar Man 3, EPISODE.8](https://open.spotify.com/album/6oHuFsV4nZcKdUwUCduhim) | 3:11 | 2022-07-04 | 2022-10-01 |
 | [Show](https://open.spotify.com/track/6rUDyzoRnBanKXvaflVLiA) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Sugar Man 3 투유프로젝트 \- 슈가맨3, EPISODE.8](https://open.spotify.com/album/4hmSr1S0TtDjjHlvE0BREP) | 3:11 | 2022-05-22 | 2022-10-09 |

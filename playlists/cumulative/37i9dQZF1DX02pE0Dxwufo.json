@@ -120,6 +120,24 @@
     },
     {
       "album": {
+        "name": "Baytown",
+        "url": "https://open.spotify.com/album/3Ij6h1an3zzaFqY7PnW0JX"
+      },
+      "artists": [
+        {
+          "name": "RaeLynn",
+          "url": "https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166133,
+      "name": "Bra Off",
+      "url": "https://open.spotify.com/track/1LbvsGPC9exj6A3Q0OEEMP"
+    },
+    {
+      "album": {
         "name": "Bra Off",
         "url": "https://open.spotify.com/album/2giqQgvz8sq6SYpofqvh3o"
       },
@@ -131,7 +149,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 166133,
       "name": "Bra Off",
       "url": "https://open.spotify.com/track/2nNaVLkmN8RYXNQiQb4ajI"

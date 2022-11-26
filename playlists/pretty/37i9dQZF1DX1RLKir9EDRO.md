@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden en taze keşifler\. Kapak: Eve Dönüş Yok Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,166 likes - 73 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,339 likes - 73 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 45 | [Seninle Miyim Hala](https://open.spotify.com/track/5vM9pLZUldeqwE2oXlOr0S) | [Konudan Bağımsız](https://open.spotify.com/artist/1XaSWaATzGULwkIXhyA5qN) | [Seninle Miyim Hala](https://open.spotify.com/album/0xl3g1Y6Ozzz79lsWOf1s7) | 3:22 |
 | 46 | [Yanlış Yerdesin](https://open.spotify.com/track/6DUiNZeGeydR9idlj3qHOP) | [mojave](https://open.spotify.com/artist/0n5xSieOLh8rvV2SxiZE6p) | [Yanlış Yerdesin](https://open.spotify.com/album/2bwTZ5CvDFTT92TDXHTeve) | 3:37 |
 | 47 | [farkı yok](https://open.spotify.com/track/0zs2GLEvoeIFPfkFNgid2n) | [hay!](https://open.spotify.com/artist/5TpAJdfncmeDyJf4Eb9bLx) | [farkı yok](https://open.spotify.com/album/69FzgMnDYZCDllQJwJ53pi) | 2:11 |
-| 48 | [Artık](https://open.spotify.com/track/6tR7FZx5ipHwTfZPd2ieBd) | [B4TU INC.](https://open.spotify.com/artist/0JVl2O7TNYlEc6Lc2jHW3o) | [Ben Değilim](https://open.spotify.com/album/1qcjNRs5VALERgxd88sLgA) | 2:08 |
+| 48 | [Artık](https://open.spotify.com/track/2rL0ZM7i8hqI2jp3RTk1S0) | [B4TU INC.](https://open.spotify.com/artist/0JVl2O7TNYlEc6Lc2jHW3o) | [Ben Değilim](https://open.spotify.com/album/7xPjYtjmkv0fH55iTfErdI) | 2:08 |
 | 49 | [Anı Defteri](https://open.spotify.com/track/1LUm2l6xWdMmQwfqpTFc3v) | [Yasin Yıldıran](https://open.spotify.com/artist/6YoHkcuEl6lxnxK7O0qcPd) | [Anı Defteri](https://open.spotify.com/album/2aG99pScXiC5Rb0SPbxbyR) | 4:27 |
 | 50 | [Hadi Dans Et](https://open.spotify.com/track/5Cs6Ri9CbFFhEwKXLfRvek) | [Eskiden](https://open.spotify.com/artist/5X2OLX4RRILnFXKoCRm5PZ) | [Hadi Dans Et](https://open.spotify.com/album/5mh8vl3lQfQuVileKyfmLW) | 4:00 |
 | 51 | [Hopeful](https://open.spotify.com/track/4uOlx1UopvipP3AhtLnqny) | [Ahsen Eroğlu](https://open.spotify.com/artist/4Da3MwrtMGo5r8hGNjFaRu), [Algan](https://open.spotify.com/artist/3gqoD5RHKtGxm8inzYf41g) | [Hopeful](https://open.spotify.com/album/30MeYc7peLfjCOmk9FNwTL) | 4:00 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 72 | [Yanıma Gel](https://open.spotify.com/track/56ZhDycDkv0gjmW4qPIWkH) | [Vaktimiz Varken](https://open.spotify.com/artist/0WL4ePSSwsNDzRW5KdBWNq) | [Yanıma Gel](https://open.spotify.com/album/4Z2rpWRw6D6YBrrmhWrK57) | 3:25 |
 | 73 | [Hiç](https://open.spotify.com/track/2HESkfktMQjThje1ulp58b) | [Gomeisa](https://open.spotify.com/artist/6eSz2ZOZNvS6Y5fxnFbUiQ) | [Hiç](https://open.spotify.com/album/4V1jYr9MUtps5qPAscz7zb) | 3:48 |
 
-Snapshot ID: `MTY2MzcwNzYwMCwwMDAwMDAwMGI0Mzg1Mzk0NTc4M2Q3N2RhOGY0MDEwYzVlMGFmYWE5`
+Snapshot ID: `MTY2MzcwNzYwMCwwMDAwMDAwMDU1ZWExOWY2NjJlYjUxYjVlNmE2Y2Y1NzM0MDA4YzRi`

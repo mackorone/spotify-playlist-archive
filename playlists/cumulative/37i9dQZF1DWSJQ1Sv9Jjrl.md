@@ -4,17 +4,19 @@
 
 > Music from the Tall Girl films\. Watch Tall Girl 2 now on Netflix.
 
-44 songs - 2 hr 27 min - [published](https://open.spotify.com/playlist/7j6ZRuX0artzn2fcS33kVv)
+47 songs - 2 hr 37 min - [published](https://open.spotify.com/playlist/7j6ZRuX0artzn2fcS33kVv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [As Good as It Gets](https://open.spotify.com/track/0onRRPMlJ5OmWppoJtVwKD) | [Leftrightcenter](https://open.spotify.com/artist/07mLaGASjL3C43sjlpAL7Y) | [As Good as It Gets](https://open.spotify.com/album/05wcj0DsGL8wvl1ECuq4tn) | 2:50 | 2022-02-11 |  |
-| [As Long as You Love Me](https://open.spotify.com/track/0q5OkmIw0GY8nmtrWNqOgY) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [We Got You Covered, Vol\. 2](https://open.spotify.com/album/5gw7p48ohCl2DpMjvMw5Ik) | 3:04 | 2022-02-11 |  |
+| [As Long as You Love Me](https://open.spotify.com/track/0U009cDlGPpshpotu9bSgS) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [We Got You Covered, Vol\. 2](https://open.spotify.com/album/4vE6sKhkUJxZ1Bxgya5sUv) | 3:04 | 2022-02-11 |  |
+| [As Long as You Love Me](https://open.spotify.com/track/0q5OkmIw0GY8nmtrWNqOgY) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [We Got You Covered, Vol\. 2](https://open.spotify.com/album/5gw7p48ohCl2DpMjvMw5Ik) | 3:04 | 2022-02-11 | 2022-11-20 |
 | [As Long as You Love Me](https://open.spotify.com/track/00WvmRXTkPBZNhhRK3xfdy) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet Boys](https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S) | 3:34 | 2022-02-11 |  |
 | [Be Who You Are](https://open.spotify.com/track/2Z7JAlG8RPvN277Y6bc6cM) | [Ava Michelle](https://open.spotify.com/artist/6euN0qAjCYkM3kcJYGMN2Z), [Jacaranda](https://open.spotify.com/artist/44inTD4saAbXecbkXmYYPr) | [Be Who You Are](https://open.spotify.com/album/2qbNPqksd5T8yjxuGUZsoc) | 2:35 | 2022-02-11 |  |
 | [Big Kid](https://open.spotify.com/track/01LHOmbVULmYKnWFanWJBI) | [Avonlea](https://open.spotify.com/artist/30Ddlk9YPm030og6lClMou) | [Big Kid](https://open.spotify.com/album/2B8GMNzIaujNhf6OBac2JY) | 2:59 | 2022-02-11 |  |
 | [Born for This](https://open.spotify.com/track/1eI5BMbva0iR0KzsV9wpck) | [Foxxi](https://open.spotify.com/artist/4Cojmi9XHgWlt7wuaY7YNA), [Natalie Major](https://open.spotify.com/artist/1s5IKI3WdVj337WYpi4GIZ) | [Born for This](https://open.spotify.com/album/2ZmL7NPS5bwagH4LsejkC2) | 3:16 | 2022-02-11 |  |
-| [Cool Kids](https://open.spotify.com/track/23mqkYQVVWeD4C3KINeLIs) | [Ethan Tucker](https://open.spotify.com/artist/7uSGJMQp1MzfM5VtkpeE0Y) | [Misunderstood](https://open.spotify.com/album/4Z0oPGZY9FQYzRC2bJQUet) | 3:25 | 2022-02-11 |  |
+| [Cool Kids](https://open.spotify.com/track/23mqkYQVVWeD4C3KINeLIs) | [Ethan Tucker](https://open.spotify.com/artist/7uSGJMQp1MzfM5VtkpeE0Y) | [Misunderstood](https://open.spotify.com/album/4Z0oPGZY9FQYzRC2bJQUet) | 3:25 | 2022-02-11 | 2022-11-12 |
+| [Cool Kids](https://open.spotify.com/track/4ReCnXg7yWNGonvj12O3WE) | [Ethan Tucker](https://open.spotify.com/artist/7uSGJMQp1MzfM5VtkpeE0Y) | [Misunderstood](https://open.spotify.com/album/6uwWys7brf74QrrHvZuken) | 3:25 | 2022-02-11 |  |
 | [Dance For The Hell Of It](https://open.spotify.com/track/1G8nKybzD7qlBxfZYFSybv) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Grown\-ish](https://open.spotify.com/album/4HsUtIgXcWzJetVBHPybg0) | 3:15 | 2022-02-11 |  |
 | [Delmar Drag](https://open.spotify.com/track/4a5jFpSidPpgH5Nvsvi8sX) | [Don Ewell Quartet](https://open.spotify.com/artist/3n4tB2FLZuG3fXSifkA5uI) | [Free 'n Easy!](https://open.spotify.com/album/0wDZBZ5HdV1NSok7vYx39w) | 3:58 | 2022-02-11 |  |
 | [Do Whatcha Wanna](https://open.spotify.com/track/5UqzRN9qi2oxmKWff9oIRC) | [Rebirth Brass Band](https://open.spotify.com/artist/6p9Qy71KocWwjmpUcHUTda) | [25th Anniversary](https://open.spotify.com/album/6DWA75mB8yXhnjVYLLpRlu) | 3:12 | 2022-02-11 |  |
@@ -36,6 +38,7 @@
 | [Make Me Feel](https://open.spotify.com/track/5gW5dSy3vXJxgzma4rQuzH) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Dirty Computer](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) | 3:14 | 2022-02-11 |  |
 | [Mariah](https://open.spotify.com/track/3CwAAsuZuy1HKtNQcXDD3o) | [lilbootycall](https://open.spotify.com/artist/4EPyKMgsR7JDuW9tL0AYZP) | [Mariah](https://open.spotify.com/album/3xWPfUqCOw29NDc6x71naf) | 2:00 | 2022-02-11 |  |
 | [Mayhem](https://open.spotify.com/track/1z3Gg0PF3qj81j4bOVtUU6) | [The Kemist](https://open.spotify.com/artist/1HvF89QVwGlk74nQZC6MCG), [Dj Braindead](https://open.spotify.com/artist/6KfuBqaNiLpb0cLc23Pnfq), [Nyanda](https://open.spotify.com/artist/5EgzuWPhhAurJc93qPTD3k) | [Mayhem](https://open.spotify.com/album/14yuL31T9JOO6HP5yMiA2a) | 3:30 | 2022-02-11 | 2022-07-29 |
+| [Mayhem](https://open.spotify.com/track/3TLaEHk61rD6jOMzTmd5rb) | [The Kemist](https://open.spotify.com/artist/1HvF89QVwGlk74nQZC6MCG), [Dj Braindead](https://open.spotify.com/artist/6KfuBqaNiLpb0cLc23Pnfq), [Nyanda](https://open.spotify.com/artist/5EgzuWPhhAurJc93qPTD3k) | [Dancehall Infusion, Vol\. 1](https://open.spotify.com/album/65YGdWY3l4A3oxtWYak1yw) | 3:30 | 2022-02-11 | 2022-11-13 |
 | [Mayhem 7.0](https://open.spotify.com/track/7kHEGPPEyN1E6lpFDqUb7h) | [The Kemist](https://open.spotify.com/artist/1HvF89QVwGlk74nQZC6MCG), [Dj Braindead](https://open.spotify.com/artist/6KfuBqaNiLpb0cLc23Pnfq), [Nyanda](https://open.spotify.com/artist/5EgzuWPhhAurJc93qPTD3k) | [Mayhem](https://open.spotify.com/album/5nlHNMt4szqKburTX4B4hh) | 3:30 | 2022-02-11 |  |
 | [My Head & My Heart](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:54 | 2022-02-11 |  |
 | [Party On Fifth Ave.](https://open.spotify.com/track/24OMJgeZvpSu92TbAe2WYh) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Blue Slide Park](https://open.spotify.com/album/6VhDYmsjHqRxKXd0z7hmXI) | 2:53 | 2022-02-11 |  |

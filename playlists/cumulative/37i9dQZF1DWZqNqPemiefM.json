@@ -314,6 +314,24 @@
     },
     {
       "album": {
+        "name": "A Mother's Touch (\u300e\u685c\u8272\u306e\u98a8\u304c\u54b2\u304f\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u3088\u308a)",
+        "url": "https://open.spotify.com/album/6o1V8mKoQPUBRuALEciKWK"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345637,
+      "name": "A Mother's Touch - \u300e\u685c\u8272\u306e\u98a8\u304c\u54b2\u304f\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u3088\u308a",
+      "url": "https://open.spotify.com/track/2QjvLUy2wF9LU34eJ9Fhvq"
+    },
+    {
+      "album": {
         "name": "REFLECTION",
         "url": "https://open.spotify.com/album/6pOjcCujDiE0DvR9aIk3LK"
       },
@@ -415,7 +433,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 127120,
       "name": "Ake",
       "url": "https://open.spotify.com/track/6zM0lTTy7Ws0BmZ8JIja47"
@@ -1083,6 +1101,42 @@
       "duration_ms": 216000,
       "name": "Can You Hear a New World",
       "url": "https://open.spotify.com/track/5aokmmaTYynuYr1yNHealA"
+    },
+    {
+      "album": {
+        "name": "Cat and Bird",
+        "url": "https://open.spotify.com/album/5VukdAoxbJX1hVb8Jp1VMU"
+      },
+      "artists": [
+        {
+          "name": "kita kouhei",
+          "url": "https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-15",
+      "duration_ms": 259200,
+      "name": "Cat and Bird",
+      "url": "https://open.spotify.com/track/1GroeXQf6heoXynUqOK6oM"
+    },
+    {
+      "album": {
+        "name": "Cat and Bird",
+        "url": "https://open.spotify.com/album/7EPXZAQmlagFelPn83wYWV"
+      },
+      "artists": [
+        {
+          "name": "kita kouhei",
+          "url": "https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259200,
+      "name": "Cat and Bird",
+      "url": "https://open.spotify.com/track/4xdBmpPggvdUMgxhoDIwDU"
     },
     {
       "album": {
@@ -2067,7 +2121,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": null,
       "duration_ms": 373973,
       "name": "FEET",
       "url": "https://open.spotify.com/track/2XBXn7yluQZ6bFReesUjrt"
@@ -2139,7 +2193,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 264000,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/7f69rFN3ec1Qd6bqqgF2qo"
@@ -2193,7 +2247,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 177600,
       "name": "Forgetful Angel",
       "url": "https://open.spotify.com/track/3fjXCW8waY8YFu66jnT4BP"
@@ -2515,7 +2569,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 264500,
       "name": "Green Forest",
       "url": "https://open.spotify.com/track/7keZ9iOh6oLPOjUmIrRSgO"
@@ -2865,7 +2919,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 230608,
       "name": "Huit",
       "url": "https://open.spotify.com/track/6VvOYb9aPWQnpFyvKKsYZW"
@@ -2887,6 +2941,24 @@
       "duration_ms": 324866,
       "name": "hum",
       "url": "https://open.spotify.com/track/69AcNc2JDHYq7IqKzVZz4W"
+    },
+    {
+      "album": {
+        "name": "Hypha",
+        "url": "https://open.spotify.com/album/6eGFbzsy7oouymykAURlpN"
+      },
+      "artists": [
+        {
+          "name": "Shuta Hasunuma",
+          "url": "https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304200,
+      "name": "Hypha",
+      "url": "https://open.spotify.com/track/5d3vScntfWOniIlqiV02SC"
     },
     {
       "album": {
@@ -3200,6 +3272,42 @@
     },
     {
       "album": {
+        "name": "Invisible Contact",
+        "url": "https://open.spotify.com/album/3L5kzUaeQ5pCMHRpAlN0Ej"
+      },
+      "artists": [
+        {
+          "name": "coconoe",
+          "url": "https://open.spotify.com/artist/70ekC9BOgSlEQFRcLImPe4"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-18",
+      "duration_ms": 244000,
+      "name": "Invisible Contact",
+      "url": "https://open.spotify.com/track/0GYisiW8aXpv9fGTwIDafM"
+    },
+    {
+      "album": {
+        "name": "Invisible Contact",
+        "url": "https://open.spotify.com/album/388UNVPQUypC1EiLCvp6gg"
+      },
+      "artists": [
+        {
+          "name": "coconoe",
+          "url": "https://open.spotify.com/artist/70ekC9BOgSlEQFRcLImPe4"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-22",
+      "duration_ms": 244000,
+      "name": "Invisible Contact",
+      "url": "https://open.spotify.com/track/5Vqf1k1WvHqV5B8XoZSPgY"
+    },
+    {
+      "album": {
         "name": "Where the Sidewalk Ends",
         "url": "https://open.spotify.com/album/12kCNfVPb9lWg1jnTBwxvT"
       },
@@ -3215,6 +3323,28 @@
       "duration_ms": 392353,
       "name": "Invitation",
       "url": "https://open.spotify.com/track/5GX3sk2Xex3998tQu8uaKH"
+    },
+    {
+      "album": {
+        "name": "Irie",
+        "url": "https://open.spotify.com/album/4gJvJKL4K8GEGZqCNUbvUi"
+      },
+      "artists": [
+        {
+          "name": "Shuta Hasunuma",
+          "url": "https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05"
+        },
+        {
+          "name": "Jeff Parker",
+          "url": "https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347862,
+      "name": "Irie",
+      "url": "https://open.spotify.com/track/2VokL9qQNd46ZETs2mZYq2"
     },
     {
       "album": {
@@ -3557,7 +3687,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 182906,
       "name": "logical",
       "url": "https://open.spotify.com/track/3E87Le6IN9RYKhgRfJp3BN"
@@ -5145,7 +5275,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 317547,
       "name": "Sacred Play Secret Place",
       "url": "https://open.spotify.com/track/5IJ1XPg1t3IAfhxfLRSuA9"
@@ -5203,6 +5333,24 @@
       "duration_ms": 284533,
       "name": "Saisei",
       "url": "https://open.spotify.com/track/6YSDx6DroSJbceYlvycDve"
+    },
+    {
+      "album": {
+        "name": "in my Time",
+        "url": "https://open.spotify.com/album/6UWrxLbfbJRIgyrbgghiMi"
+      },
+      "artists": [
+        {
+          "name": "Takahiro Kido",
+          "url": "https://open.spotify.com/artist/7vaTIZVteGSJf1cQ9VzRRI"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86013,
+      "name": "Sakura",
+      "url": "https://open.spotify.com/track/0VbuRai18mA0GtiCiKdqph"
     },
     {
       "album": {
@@ -5444,6 +5592,24 @@
     },
     {
       "album": {
+        "name": "Music For Commercials",
+        "url": "https://open.spotify.com/album/6EGDUidDFrjFoxg6uSQdbH"
+      },
+      "artists": [
+        {
+          "name": "Yasuaki Shimizu",
+          "url": "https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68600,
+      "name": "Seiko 2",
+      "url": "https://open.spotify.com/track/56zWPqzYm4YE8vLMgMmScW"
+    },
+    {
+      "album": {
         "name": "External Reference",
         "url": "https://open.spotify.com/album/4C1D3Iiz8Ftpsg4pSlAetA"
       },
@@ -5495,7 +5661,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 319666,
       "name": "SHEEP",
       "url": "https://open.spotify.com/track/5GCfrtUTMag66ZXcyBUwcd"
@@ -5593,7 +5759,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 185380,
       "name": "Shurayuki hime",
       "url": "https://open.spotify.com/track/7pUpWqkwtzESvoTmZpfTWr"
@@ -6087,7 +6253,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-11-22",
       "duration_ms": 431502,
       "name": "Stratum",
       "url": "https://open.spotify.com/track/6yXUaEbzWHCrYYUrw2KTpV"
@@ -6923,7 +7089,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 520039,
       "name": "twilight",
       "url": "https://open.spotify.com/track/6xoab7Sxd9L2N43Gu9fIBd"
@@ -7089,10 +7255,28 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 157280,
       "name": "Utai IV: Reawakening",
       "url": "https://open.spotify.com/track/18EMYXJEhYZbXyBL5lOXR1"
+    },
+    {
+      "album": {
+        "name": "Ghost in the Shell (Music Inspired by the Motion Picture)",
+        "url": "https://open.spotify.com/album/7mA7Z5oy212NMRL8lqFzhO"
+      },
+      "artists": [
+        {
+          "name": "Kenji Kawai",
+          "url": "https://open.spotify.com/artist/0lzVrkjlIZJH18hk2Gcjkp"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157280,
+      "name": "Utai IV: Reawakening",
+      "url": "https://open.spotify.com/track/2aOT7WhCfzhQmoTCH3R3Fq"
     },
     {
       "album": {
@@ -7291,6 +7475,42 @@
       "duration_ms": 223170,
       "name": "We Can't Stop",
       "url": "https://open.spotify.com/track/3fTc03pUwNmwPrLxMaAPvF"
+    },
+    {
+      "album": {
+        "name": "Weightless Moonlit Night",
+        "url": "https://open.spotify.com/album/0lX3Rz7vq5BEQgDOgroatN"
+      },
+      "artists": [
+        {
+          "name": "coconoe",
+          "url": "https://open.spotify.com/artist/70ekC9BOgSlEQFRcLImPe4"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-19",
+      "duration_ms": 220000,
+      "name": "Weightless Moonlit Night",
+      "url": "https://open.spotify.com/track/2MwfsAh3apy4cCU8O0oqwo"
+    },
+    {
+      "album": {
+        "name": "Weightless Moonlit Night",
+        "url": "https://open.spotify.com/album/2oszBYBz8X6dDOfTo75TKG"
+      },
+      "artists": [
+        {
+          "name": "coconoe",
+          "url": "https://open.spotify.com/artist/70ekC9BOgSlEQFRcLImPe4"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Weightless Moonlit Night",
+      "url": "https://open.spotify.com/track/4MgDI6XeKfKuinjmKc0o8D"
     },
     {
       "album": {
@@ -7601,7 +7821,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": "2022-10-20",
       "duration_ms": 205533,
       "name": "\u30df\u30fc\u30c8\u30fb\u30df\u30fc\u30fb\u30a4\u30f3\u30fb\u30b6\u30fb\u30b7\u30fc\u30d7\u30fb\u30e1\u30c9\u30a6",
       "url": "https://open.spotify.com/track/4SQbhj7q0H1yIA7LjATtt5"

@@ -4,7 +4,7 @@
 
 > Revisit memories and make new ones with the best Kwaito songs ever released\. Cover: Spikiri
 
-58 songs - 5 hr 8 min - [published](https://open.spotify.com/playlist/0kYLFJir1iXtasvLvOvM18)
+60 songs - 5 hr 19 min - [published](https://open.spotify.com/playlist/0kYLFJir1iXtasvLvOvM18)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Safety Belt](https://open.spotify.com/track/3bd3f5BXwLs2p7kRHY5a8j) | [Thebe](https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS) | [Kalawa Jazmee Classics: Thebe, The Top Dawg](https://open.spotify.com/album/0PSKT9iKGBHpTxJ5IdDjl0) | 4:15 | 2022-04-25 |  |
 | [Sana Luma \(Thats The Way Love Is\)](https://open.spotify.com/track/3YqlnQEyawncmoFW4YTMJS) | [Zola](https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW) | [Khokhovula](https://open.spotify.com/album/6YXDLVdeZESEiQnJhVyTkr) | 5:17 | 2022-04-25 |  |
 | [Sgelekeqe \- Mindlo Mix](https://open.spotify.com/track/4Xqec5nATHVa8bsHngCMKE) | [Mandoza](https://open.spotify.com/artist/4eNzQCNP9F9UKbglvPkDdH) | [Mandoza](https://open.spotify.com/album/5mt82F2mozkrikmeYeFU80) | 4:21 | 2022-04-25 |  |
+| [Sigiya Ngengoma](https://open.spotify.com/track/06kbqjPVZqti4au7Z0xqtc) | [Trompies](https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018) | [Sound Offerings from South Africa, Vol\. 2](https://open.spotify.com/album/7jje9BYfxaWiPZPUQQfEX3) | 6:39 | 2022-04-25 | 2022-11-13 |
 | [Sigiya Ngengoma](https://open.spotify.com/track/4GdkrELjR4thBSc2KdfulR) | [Trompies](https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018) | [Sigiya Ngengoma](https://open.spotify.com/album/754Vcm77VFVwsiEndZomCs) | 6:39 | 2022-04-25 |  |
 | [Siya Jola \(Ok'Salayo\)](https://open.spotify.com/track/3Oy1hjxJLfUyaUsgxojzA7) | [M'Du](https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD) | [M'du Or Die](https://open.spotify.com/album/7N0NOdgLGipl1NkihPBUPQ) | 5:36 | 2022-04-25 |  |
 | [Skangkgata](https://open.spotify.com/track/70e5LboOZBwRrbwZb36ISE) | [Thebe](https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS) | [Tempy Life](https://open.spotify.com/album/6QLge9AA2UY7zgR7DNtaUN) | 4:23 | 2022-04-25 |  |
@@ -59,6 +60,7 @@
 | [Tlo Be Rele Daar](https://open.spotify.com/track/03RGHM6AtZxkZ3rU3iAwQa) | [Skeem](https://open.spotify.com/artist/03EsSUDsUpGuIKDBhdWnPR) | [Yizo Yizo](https://open.spotify.com/album/0MI38qrVzFPVgRiHN4ocFU) | 4:40 | 2022-04-25 |  |
 | [Tornado Part 1](https://open.spotify.com/track/21xIGXNksYlM9FBDFQC18y) | [Mandoza](https://open.spotify.com/artist/4eNzQCNP9F9UKbglvPkDdH) | [Tornado](https://open.spotify.com/album/4MLRGUuN0sDl7bjeYj3KVa) | 5:37 | 2022-04-25 |  |
 | [Traffic Cop](https://open.spotify.com/track/72YvRxXGDh8ceVyARTtdEJ) | [Brothers of Peace](https://open.spotify.com/artist/0OK0qQGF0hJueVZLGRlntj) | [Traffic Cop](https://open.spotify.com/album/5PfNqkm8DsTilYtAxmBRwk) | 5:21 | 2022-04-25 |  |
+| [Tsodiyo](https://open.spotify.com/track/2i5ZSpbQWa1C9bpoITW0rY) | [Lebo Mathosa](https://open.spotify.com/artist/1Ml1ICUucZgJMx8Y4t9aJo) | [Pure Kwaito Hits](https://open.spotify.com/album/7qornyj2jIfEEy9ibPvOVK) | 3:50 | 2022-04-25 | 2022-11-13 |
 | [Tsodiyo](https://open.spotify.com/track/3oSbA5i516ghSq9KEwfRAW) | [Lebo Mathosa](https://open.spotify.com/artist/1Ml1ICUucZgJMx8Y4t9aJo) | [Incomplete Without](https://open.spotify.com/album/1ukKAGgF6cLMJ1v0HTFUuM) | 3:50 | 2022-04-25 |  |
 | [Umdlwembe](https://open.spotify.com/track/41ArcdFOhDIVTHRuXK4pXg) | [Zola](https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW) | [Umdlwembe](https://open.spotify.com/album/2dNSDmz3RuSlZyrub1plco) | 4:18 | 2022-04-25 |  |
 | [Ungawa Kum](https://open.spotify.com/track/47VpnKqSM6UhAGFjGaUlvy) | [Thebe](https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS) | [Top Dawg](https://open.spotify.com/album/1rrPsxH64XF7uwG7PInaYp) | 5:37 | 2022-04-25 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 
 > Our favorite electronic tracks of 2021\. Cover: Fred again..
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,541 likes - 100 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,308 likes - 100 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 5 | [You Can Do It](https://open.spotify.com/track/3bKytazUrCb1vlgKmaUo12) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [You Can Do It](https://open.spotify.com/album/5BYQxikCnimaiq5qQNgTbb) | 3:48 |
 | 6 | [Power](https://open.spotify.com/track/7uPGcpYfm1Z0H0IF0KRXi3) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Power](https://open.spotify.com/album/1nOkffVwTES74zpJFGiCPj) | 4:18 |
 | 7 | [Rosewood](https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Rosewood](https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj) | 4:02 |
-| 8 | [Keep Moving](https://open.spotify.com/track/6a88fc0zSrVWGPdoj445nJ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Keep Moving](https://open.spotify.com/album/2RfWbfIULVPJq4Ng554eyX) | 4:00 |
+| 8 | [Keep Moving](https://open.spotify.com/track/4rf0IVQDFjr27T4sgah5Pf) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Loving In Stereo](https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh) | 4:00 |
 | 9 | [Time](https://open.spotify.com/track/2Oc5ez4PVPnIWAmYr8i99V) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 4:19 |
 | 10 | [Movement 6](https://open.spotify.com/track/5i0EqAX50KcKNgMDMHZndM) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L), [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Promises](https://open.spotify.com/album/3ShtO5VCYa3ctlR5uzLWBa) | 8:50 |
 | 11 | [The Limit](https://open.spotify.com/track/5OBUmFuhkit7MYdaVZc2bs) | [DARKSIDE](https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB) | [The Limit](https://open.spotify.com/album/4qrRtK8B87gcp9S4aWZwPt) | 5:21 |
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 73 | [I'll Wait](https://open.spotify.com/track/7rxOuq2yZAnUVseLaV4vYD) | [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [I'll Wait](https://open.spotify.com/album/1wyTZzOhHlzZ9ldbOYTs2l) | 4:00 |
 | 74 | [Through The Pressure](https://open.spotify.com/track/46nxNiDM5C9Z0ppVTkn1Tc) | [AceMo](https://open.spotify.com/artist/2NArTWfXN317Ok1Ale3xkX) | [All My Life 2](https://open.spotify.com/album/0wlICzORLGl8yJwnc8q74I) | 6:43 |
 | 75 | [Run It Up](https://open.spotify.com/track/4Tla2jt77nO70DgGwFejbK) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Run It Up](https://open.spotify.com/album/6YIohFFdeMmUqjMXLoe4Iq) | 2:58 |
-| 76 | [Losing Touch](https://open.spotify.com/track/2b5e6kL0n4jOGfwhRVITig) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [House of FM](https://open.spotify.com/album/79b1f5kSsTgueh0Ux3JIB2) | 3:55 |
+| 76 | [Losing Touch](https://open.spotify.com/track/6EshmnAdZGBCA2LYCCX2Uy) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [House of FM](https://open.spotify.com/album/4WilCpAY0oHk9Gxmki8wOI) | 3:55 |
 | 77 | [Illegal Love](https://open.spotify.com/track/7x03bt1bIbXhbcDdA1Gurz) | [Jaymie Silk](https://open.spotify.com/artist/3OvgRSozWRb0Tu1yqblOfr) | [Illegal Love](https://open.spotify.com/album/4JyjaK9g4rTeBQg2y8G988) | 3:33 |
 | 78 | [My Purple iPod Nano](https://open.spotify.com/track/0Zp9bIm1BeIyFiYNAof3Sm) | [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [My Purple iPod Nano](https://open.spotify.com/album/3GSIeTBRBAxSji76YI1uHn) | 6:52 |
 | 79 | [The Sun](https://open.spotify.com/track/5UEZzRsrB4FKw1SIMoMD2y) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Born a Loser](https://open.spotify.com/album/6OQjfXsIharHjMAMbGYGNd) | 3:27 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 95 | [Running Like That](https://open.spotify.com/track/3iXkfLhzG46Iaej2KQxLnU) | [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3), [Eden Samara](https://open.spotify.com/artist/1qklkH19ML7oFa9IRbR6yi) | [Reflection](https://open.spotify.com/album/2z5JAOOwIIWog5UDQydquq) | 4:19 |
 | 96 | [Skyscrapers \- Radio Edit](https://open.spotify.com/track/5FCgroYZWzNKp3bfWutIQo) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE) | [Skyscrapers](https://open.spotify.com/album/6sGXaF5iJeuKlOgyPmMu03) | 3:27 |
 | 97 | [Be My](https://open.spotify.com/track/1WNhiyuCWcpz86TRFokUFN) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [Be My](https://open.spotify.com/album/78iGGZ4qdRvH9R5DT2WGM7) | 6:03 |
-| 98 | [The Princess and the Clock](https://open.spotify.com/track/1o1aFykyi3d4qQPxDcPCJ7) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Civilisation II](https://open.spotify.com/album/1IcnToegRv641JAVAR8IqS) | 3:49 |
+| 98 | [The Princess and the Clock](https://open.spotify.com/track/0jPoMzAErw4Exk2vbwQRHC) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Civilisation](https://open.spotify.com/album/4tywc61wWZwHDEBEDG4Cq1) | 3:49 |
 | 99 | [Jour 3](https://open.spotify.com/track/0uV87Zea2zf6ZufAnjdx2V) | [Hildegard](https://open.spotify.com/artist/2Ffds2i0bCHVuLiJq6GqCC), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Hildegard](https://open.spotify.com/album/6w7nCE7qv2GNngPYW6HZgV) | 3:06 |
 | 100 | [Clean](https://open.spotify.com/track/5BHHAEdvkq7Z4vMXr9PPyT) | [Pan Daijing](https://open.spotify.com/artist/2OA8e1A4qJVqDHbjnc86dR) | [Jade](https://open.spotify.com/album/6TolOVlI4gfOEuMit1ydWL) | 3:08 |
 
-Snapshot ID: `MTYzODM2NjQyMCwwMDAwMDAwMDU1OTIxYmViNzk1OTFmZjhjODk3NDQ1Y2QzNzk1YWI0`
+Snapshot ID: `MTYzODM2NjQyMCwwMDAwMDAwMGEzMzFlZTExOGJkMzljZDA0ODFjMjI1YTgxZGVlODFi`

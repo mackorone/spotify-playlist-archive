@@ -4,7 +4,7 @@
 
 > Nothing but classics! The best in Soca anthems brought to you by the Soca Queen herself Alison Hinds.
 
-190 songs - 13 hr 45 min - [published](https://open.spotify.com/playlist/64TrHSSpN6MFtOko77c2wK)
+191 songs - 13 hr 48 min - [published](https://open.spotify.com/playlist/64TrHSSpN6MFtOko77c2wK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,8 @@
 | [Savannah Grass](https://open.spotify.com/track/5aK3PjLDrRxD2e6YWtHHeb) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Soca Gold 2019](https://open.spotify.com/album/0hE4iYcpQa2DIBbQU3b3vf) | 2:58 | 2022-08-18 |  |
 | [Savannah Grass](https://open.spotify.com/track/7aWK2UmGXMeOAfcVMxj8NX) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Savannah Grass](https://open.spotify.com/album/6PBFX1vkmiHtd04gcsXGVA) | 2:59 | 2020-09-16 | 2022-08-19 |
 | [Sing In The Party](https://open.spotify.com/track/02KBvh3N2OobcJebwyHGJJ) | [Scrunter](https://open.spotify.com/artist/4fcEF7tAojSzwIeOfj7sqd) | [Soca Gold](https://open.spotify.com/album/1esm7dLptV1ALm7ItdTUlw) | 5:52 | 2020-09-16 | 2022-08-19 |
-| [Single \(Answer Back\)](https://open.spotify.com/track/3IuXLJ9XKGbs1YbhZgjRdc) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [Single \(Answer Back\)](https://open.spotify.com/album/4dowpCMnJYK0w7rzbV0ktB) | 3:00 | 2022-08-18 |  |
+| [Single \(Answer Back\)](https://open.spotify.com/track/3IuXLJ9XKGbs1YbhZgjRdc) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [Single \(Answer Back\)](https://open.spotify.com/album/4dowpCMnJYK0w7rzbV0ktB) | 3:00 | 2022-08-18 | 2022-11-05 |
+| [Single \(Answer Back\)](https://open.spotify.com/track/5rGKQyggZncwPhpf3LprKd) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [Single \(Answer Back\)](https://open.spotify.com/album/5dqss47asg9N8IOB3t12tu) | 3:00 | 2022-08-18 |  |
 | [So Long](https://open.spotify.com/track/3VMqM5ryQlsQEH3CWSLLhQ) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [The Purple Heart Riddim](https://open.spotify.com/album/06m6nNsRzCFsb84ULwgdiZ) | 3:03 | 2020-09-16 | 2022-08-19 |
 | [Soca](https://open.spotify.com/track/0xr6Ne2mFyNAb0HpRExl9V) | [Xtatik](https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Any Minute Now](https://open.spotify.com/album/7hlfoUiPoxYbecW5SirJOU) | 4:03 | 2020-09-16 | 2022-06-25 |
 | [Soca Train](https://open.spotify.com/track/1ONaLapONbxDdThW1FI1gH) | [Maximus Dan](https://open.spotify.com/artist/1T213oTvwbDupFzm82HsXx) | [Soca Gold 2004](https://open.spotify.com/album/0XZMNXUXBUyd4I89fOiELX) | 4:54 | 2020-09-16 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Odkryj swojego nowego ulubionego artystę\. Cover: <a href="spotify:artist:3gC2pjwYVTQdMuHUucgODF">NEL</a>
 
-51 songs - 2 hr 35 min - [published](https://open.spotify.com/playlist/6lcwd00Z9XsuiE37v1H8W0)
+52 songs - 2 hr 38 min - [published](https://open.spotify.com/playlist/6lcwd00Z9XsuiE37v1H8W0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [lasagne](https://open.spotify.com/track/4m8FboPgdXTNQXqRyM1SFG) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [lasagne](https://open.spotify.com/album/7lv4amDxtRi58RC6YzhAPa) | 2:43 | 2022-09-23 |  |
 | [Look At Us](https://open.spotify.com/track/2kXwpba2ljo1FQRvJtQUNz) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [Look At Us](https://open.spotify.com/album/3DLL0NgNCyqtSm4mjhi62x) | 2:33 | 2022-08-26 | 2022-09-24 |
 | [mam kogoś lepszego \- Skytech Remix](https://open.spotify.com/track/5jrgxqv21VtnVURWPAWoaS) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh), [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX) | [moja ciemność \(deluxe edition\)](https://open.spotify.com/album/5JDuoSUawI1hto3pkbvyVS) | 2:49 | 2022-08-26 |  |
+| [mam kogoś lepszego \- Skytech Remix](https://open.spotify.com/track/6cSf2RDQlzZXd2Cdefnp7d) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh), [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX) | [mam kogoś lepszego \(Skytech Remix\)](https://open.spotify.com/album/5Pm8jJBgEDWGcNqNe4bAWD) | 2:49 | 2022-09-23 | 2022-11-13 |
 | [Mamacita](https://open.spotify.com/track/7pEwr3iyJdZis2Fh0ILG7l) | [Oliwka Brazil](https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs) | [Mamacita](https://open.spotify.com/album/6zmv8HnUVGnYcEEPdkDGOK) | 2:08 | 2022-08-26 |  |
 | [Maria, Maria \(Agora Muzyka Live Sessions\)](https://open.spotify.com/track/6OtpTU9SgpVZbiYBEqkzLD) | [Dziwna Wiosna](https://open.spotify.com/artist/2tAn2eNFnu7gP3mTdQE3ML) | [Maria, Maria \(Agora Muzyka Live Sessions\)](https://open.spotify.com/album/1sC0Ds8LKQaQFlCJLS9dIs) | 2:57 | 2022-08-26 |  |
 | [Met the God](https://open.spotify.com/track/2ZsDOLES3F0RdAKY4xC7tF) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Power](https://open.spotify.com/album/05sLsId1SGFrPDJFf09rrS) | 2:58 | 2022-08-26 |  |

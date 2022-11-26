@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "Las leyendas del mariachi est\u00e1n aqu\u00ed. Vicente Fern\u00e1ndez en portada.",
-  "name": "\u00cddolos del Mariachi",
+  "description": "Las leyendas del mariachi est\u00e1n aqu\u00ed. Yuridia en portada.",
+  "name": "Leyendas del Mariachi",
   "published_playlist_ids": [
     "2V0PHZyuVaI8QUBHcbfV2Z"
   ],
@@ -138,6 +138,24 @@
     },
     {
       "album": {
+        "name": "Serenata Mariachi",
+        "url": "https://open.spotify.com/album/4pymXKTlAlcqapGmBj9aGd"
+      },
+      "artists": [
+        {
+          "name": "Lucha Villa",
+          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 178584,
+      "name": "Amanec\u00ed En Tus Brazos",
+      "url": "https://open.spotify.com/track/70GsvFA1ZzX2FUHC2eakAL"
+    },
+    {
+      "album": {
         "name": "Aqu\u00ed Abajo",
         "url": "https://open.spotify.com/album/0OKzpAuz6d0r8OjhPN624H"
       },
@@ -149,7 +167,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 144360,
       "name": "Aqu\u00ed Abajo",
       "url": "https://open.spotify.com/track/4FmVjrmM6DsBQMsGdc9PDa"
@@ -210,6 +228,24 @@
     },
     {
       "album": {
+        "name": "Yo Tambi\u00e9n Soy Mexicano",
+        "url": "https://open.spotify.com/album/0kTeQKP1b9Ya0q9PuTVFIm"
+      },
+      "artists": [
+        {
+          "name": "Cuco S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 133293,
+      "name": "Cama de Piedra",
+      "url": "https://open.spotify.com/track/4EoPOcGSOvYVNblCnW3OmF"
+    },
+    {
+      "album": {
         "name": "Disco de Oro",
         "url": "https://open.spotify.com/album/34riZ1re1oumqDvLs7z1Fg"
       },
@@ -225,6 +261,24 @@
       "duration_ms": 184586,
       "name": "Camino de Guanajuato",
       "url": "https://open.spotify.com/track/2tPWzcW3et2X8QN53ZiMmR"
+    },
+    {
+      "album": {
+        "name": "Mis N\u00famero 1... Pa' Todo el A\u00f1o",
+        "url": "https://open.spotify.com/album/6JZ2h7P15MxTI8hHWOxBW2"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 184600,
+      "name": "Camino de Guanajuato",
+      "url": "https://open.spotify.com/track/5BRx13zPTL7euQtTNasI6O"
     },
     {
       "album": {
@@ -282,6 +336,24 @@
     },
     {
       "album": {
+        "name": "Camino De Michoac\u00e1n",
+        "url": "https://open.spotify.com/album/4QwXuwif6l1Ipxgpp6kG9o"
+      },
+      "artists": [
+        {
+          "name": "Federico Villa",
+          "url": "https://open.spotify.com/artist/79LwwKFdbXN9RoZAKefN7u"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 213746,
+      "name": "Caminos De Michoac\u00e1n",
+      "url": "https://open.spotify.com/track/4BKL2LvMs3tYG9Q4DMufCb"
+    },
+    {
+      "album": {
         "name": "Chale",
         "url": "https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a"
       },
@@ -336,6 +408,24 @@
     },
     {
       "album": {
+        "name": "Frente A Frente: Con Mariachi",
+        "url": "https://open.spotify.com/album/45lJr2Fn8BBuC59NZ1onm5"
+      },
+      "artists": [
+        {
+          "name": "Paquita La Del Barrio",
+          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 162146,
+      "name": "Cheque En Blanco",
+      "url": "https://open.spotify.com/track/58QiK6y0dqJJEMf8kT5cFi"
+    },
+    {
+      "album": {
         "name": "Lo Esencial De Alejandro Fern\u00e1ndez",
         "url": "https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi"
       },
@@ -369,6 +459,24 @@
       "duration_ms": 188360,
       "name": "Como Tu Decidas",
       "url": "https://open.spotify.com/track/6VtPNnCf12fB1iXHRT21IG"
+    },
+    {
+      "album": {
+        "name": "Tatuajes",
+        "url": "https://open.spotify.com/album/3SL4rik5gSZ5AX8qiuidiq"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 187368,
+      "name": "Como T\u00fa Decidas",
+      "url": "https://open.spotify.com/track/0cy25OiFfKP582ZSuV8Bwc"
     },
     {
       "album": {
@@ -474,6 +582,24 @@
     },
     {
       "album": {
+        "name": "30 grandes corridos, rancheras y huapangos",
+        "url": "https://open.spotify.com/album/3HWhzWEdhoAZXHTOEGs9Jw"
+      },
+      "artists": [
+        {
+          "name": "Lola Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 196866,
+      "name": "Cucurrucuc\u00fa paloma",
+      "url": "https://open.spotify.com/track/6RpS23Q47lKXGfyEPK9QOJ"
+    },
+    {
+      "album": {
         "name": "De Los Besos Que Te Di",
         "url": "https://open.spotify.com/album/7273WdaYjbonC99OSZ9Fey"
       },
@@ -503,7 +629,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 151120,
       "name": "De Qu\u00e9 Manera Te Olvido",
       "url": "https://open.spotify.com/track/0j0ntQup1Wp9ZiQTUvgnhm"
@@ -652,6 +778,24 @@
     },
     {
       "album": {
+        "name": "Estilo Mexicano vol. II",
+        "url": "https://open.spotify.com/album/5z910l1wk1yV8hf7wX5Isa"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 195117,
+      "name": "El Hijo Desobediente",
+      "url": "https://open.spotify.com/track/3MxJi4z4A8eNl8Ds7yOxss"
+    },
+    {
+      "album": {
         "name": "Corridos Antonio Aguilar",
         "url": "https://open.spotify.com/album/31FNBMRcI9dGKHkxx4ZtlD"
       },
@@ -782,6 +926,24 @@
     },
     {
       "album": {
+        "name": "Grabaciones Completas (Remastered)",
+        "url": "https://open.spotify.com/album/3DhnqhKYzQ8tKtUUOLJcnX"
+      },
+      "artists": [
+        {
+          "name": "Miguel Aceves Mejia",
+          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 175206,
+      "name": "El Pastor - Remastered",
+      "url": "https://open.spotify.com/track/7E5VjMnNRH25u7A2KPbBsA"
+    },
+    {
+      "album": {
         "name": "El Cantinero",
         "url": "https://open.spotify.com/album/7Gxn1LKL1SUSW8CVJugfES"
       },
@@ -833,6 +995,24 @@
       "duration_ms": 147514,
       "name": "El Rey De Mil Coronas - Live",
       "url": "https://open.spotify.com/track/1c0i26VMuRPQotPKBDfnzd"
+    },
+    {
+      "album": {
+        "name": "Inolvidable",
+        "url": "https://open.spotify.com/album/5M4BztoGwGDbuMwNqYD4oK"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 140593,
+      "name": "El \u00faltimo Trago",
+      "url": "https://open.spotify.com/track/1QMB6ut0pDLpOxBMrp1TJe"
     },
     {
       "album": {
@@ -963,7 +1143,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 166600,
       "name": "Eso Y M\u00e1s",
       "url": "https://open.spotify.com/track/4uV2q5BTVqsNU1oF5tT6q1"
@@ -1180,6 +1360,24 @@
     },
     {
       "album": {
+        "name": "El Clan del Bolero, Vol. 16",
+        "url": "https://open.spotify.com/album/42Z3zGZ9khaHzM47DPWxs5"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 134321,
+      "name": "La Media Vuelta",
+      "url": "https://open.spotify.com/track/2BP5WGO8xhTIiRhnXLYY52"
+    },
+    {
+      "album": {
         "name": "Que Seas Muy Feliz",
         "url": "https://open.spotify.com/album/23nJ7gZDubv8GuPeuukHuu"
       },
@@ -1292,6 +1490,24 @@
     },
     {
       "album": {
+        "name": "Tatuajes",
+        "url": "https://open.spotify.com/album/3SL4rik5gSZ5AX8qiuidiq"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 159921,
+      "name": "Llorar",
+      "url": "https://open.spotify.com/track/0XzvUKecfxnbeUWxiXPyen"
+    },
+    {
+      "album": {
         "name": "Colecci\u00f3n De Oro, Vol. 5: Mariachi",
         "url": "https://open.spotify.com/album/5nCibJfM8LvlVDRVk2GKIa"
       },
@@ -1343,6 +1559,24 @@
       "duration_ms": 168533,
       "name": "Me Cai De La Nube",
       "url": "https://open.spotify.com/track/4zlYTXsDIa4Q5pqj1GO1KO"
+    },
+    {
+      "album": {
+        "name": "Exitos de un Bohemio",
+        "url": "https://open.spotify.com/album/5Q7rI74ti7GsyeNhxLYUwo"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Reyna",
+          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 174199,
+      "name": "Me Cai de la Nube",
+      "url": "https://open.spotify.com/track/11eoTnv5P9GAvVxYSdWGiW"
     },
     {
       "album": {
@@ -1440,6 +1674,24 @@
     },
     {
       "album": {
+        "name": "Ritmo Mexicano",
+        "url": "https://open.spotify.com/album/4ee2fJiggauMp0k9LiUbAS"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Reyna",
+          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 114369,
+      "name": "Me Sacaron Del Tenampa",
+      "url": "https://open.spotify.com/track/1YYA8hqsqxVjqV3ZKh4IUj"
+    },
+    {
+      "album": {
         "name": "15 \u00c9xitazos",
         "url": "https://open.spotify.com/album/5mmZxvjnPHDjasQQ1F9514"
       },
@@ -1487,7 +1739,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 131266,
       "name": "Media Vuelta",
       "url": "https://open.spotify.com/track/4wK2gpBcEIdgZbcyfpbh4B"
@@ -1559,7 +1811,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 174000,
       "name": "M\u00e1talas",
       "url": "https://open.spotify.com/track/2uZX6rf2otrXvGx8vby7Xd"
@@ -1581,6 +1833,24 @@
       "duration_ms": 135733,
       "name": "No Discutamos",
       "url": "https://open.spotify.com/track/3IwKzJ7SenrBSRmmGAWR65"
+    },
+    {
+      "album": {
+        "name": "The Best Of - Bolero Ranchero",
+        "url": "https://open.spotify.com/album/4P0XeKzZBU0Sq1t2ADjOLX"
+      },
+      "artists": [
+        {
+          "name": "Lucha Villa",
+          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 136466,
+      "name": "No Discutamos",
+      "url": "https://open.spotify.com/track/0McUHLOuLMRvCJFKxO8F1d"
     },
     {
       "album": {
@@ -1613,7 +1883,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 202160,
       "name": "No discutamos",
       "url": "https://open.spotify.com/track/4LOoLsXcPdAHzPwSznpq3Y"
@@ -1635,6 +1905,24 @@
       "duration_ms": 172907,
       "name": "No Hay Quinto Malo",
       "url": "https://open.spotify.com/track/0807Vxt3hDYDktEijq2gBl"
+    },
+    {
+      "album": {
+        "name": "Las Mejores Rancheras",
+        "url": "https://open.spotify.com/album/0dPa5iQBwMX9sxewggf7bC"
+      },
+      "artists": [
+        {
+          "name": "Paquita La Del Barrio",
+          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 173407,
+      "name": "No Hay Quinto Malo",
+      "url": "https://open.spotify.com/track/0e5zdBWY9DqGyIiCA15Cwg"
     },
     {
       "album": {
@@ -1916,6 +2204,28 @@
     },
     {
       "album": {
+        "name": "Qu\u00e9 Agon\u00eda",
+        "url": "https://open.spotify.com/album/5OhmDEdu6pM2rTLOpOAk4v"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152923,
+      "name": "Qu\u00e9 Agon\u00eda",
+      "url": "https://open.spotify.com/track/5WEt9MiZPNmCbhu8GOR9Kk"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9 Ganas De Verte",
         "url": "https://open.spotify.com/album/1F0OQrdweimPVk3119NKVM"
       },
@@ -1985,6 +2295,24 @@
       "duration_ms": 212240,
       "name": "Se Vei\u0301a Venir",
       "url": "https://open.spotify.com/track/13id1MDO0sh4k3Gf9tNHMi"
+    },
+    {
+      "album": {
+        "name": "Mi Mexico Querido",
+        "url": "https://open.spotify.com/album/1daXpKCEEDLb25H1UgzoIa"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 273008,
+      "name": "Secreto De Amor",
+      "url": "https://open.spotify.com/track/2JJer8wZyVaZ15lIUmM8Ea"
     },
     {
       "album": {
@@ -2089,7 +2417,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 187986,
       "name": "Si Te Falta Alguien",
       "url": "https://open.spotify.com/track/5KcuLISuSBnMFAPVhFnHr5"
@@ -2204,6 +2532,24 @@
     },
     {
       "album": {
+        "name": "Tequilazo Llor\u00f3n",
+        "url": "https://open.spotify.com/album/0ZTwk8zMBeWYYlTXfVYmzo"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 211255,
+      "name": "Tatuajes",
+      "url": "https://open.spotify.com/track/7ntLOhhfkQaYYTicCcI1ko"
+    },
+    {
+      "album": {
         "name": "Colecci\u00e0n De Oro Vol.5 - Joan Sebastian",
         "url": "https://open.spotify.com/album/3eBs0wd6Dq7JO59RK0PLW2"
       },
@@ -2295,6 +2641,24 @@
       "duration_ms": 217040,
       "name": "Te Qued\u00f3 Grande La Yegua",
       "url": "https://open.spotify.com/track/5tPxcLBsfj9yZS4PAiOr9G"
+    },
+    {
+      "album": {
+        "name": "El Rey",
+        "url": "https://open.spotify.com/album/6ugwfm6B8ToDlJndtQJ7jf"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 158355,
+      "name": "Te Solt\u00e9 la Rienda",
+      "url": "https://open.spotify.com/track/5898LXmkW505DPcuiHqRHB"
     },
     {
       "album": {
@@ -2392,6 +2756,24 @@
     },
     {
       "album": {
+        "name": "Celebremos Con Mariachi Se\u00f1ores \ud83e\udd20",
+        "url": "https://open.spotify.com/album/2tVMAjExpX1jJvlB3mreeV"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 233116,
+      "name": "Triste Recuerdo",
+      "url": "https://open.spotify.com/track/0OsxAiwtUEYVlechrrdkb4"
+    },
+    {
+      "album": {
         "name": "Antonio Aguilar con Mariachi",
         "url": "https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n"
       },
@@ -2483,7 +2865,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 183906,
       "name": "T\u00fa a M\u00ed No Me Hundes",
       "url": "https://open.spotify.com/track/6aNDj2s5dWkVaQzL8Lelhy"
@@ -2674,6 +3056,24 @@
     },
     {
       "album": {
+        "name": "Nuestra Tradici\u00f3n",
+        "url": "https://open.spotify.com/album/5QgzGbRnhcLmP9FO51JPuN"
+      },
+      "artists": [
+        {
+          "name": "Lucha Villa",
+          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 183440,
+      "name": "Ya No Me Interesas",
+      "url": "https://open.spotify.com/track/2JuiXI8zNZlb6Zzo9MNzU9"
+    },
+    {
+      "album": {
         "name": "Lucha Villa Y Aida",
         "url": "https://open.spotify.com/album/3kF64rtPcA7kwv38JKyica"
       },
@@ -2721,7 +3121,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 132773,
       "name": "Ya No Vuelvo a Molestarte",
       "url": "https://open.spotify.com/track/7ykNB1WZij1HwzWAEaykA4"

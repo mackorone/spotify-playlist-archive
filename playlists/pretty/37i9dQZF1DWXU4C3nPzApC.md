@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU4C3nPzApC.md) - [plain]
 
 > The best music with a Nashville flavour\. Cover: The Shires
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,951 likes - 55 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,715 likes - 55 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU4C3nPzApC.md) - [plain]
 | 38 | [Back Then, Right Now](https://open.spotify.com/track/3wAKfgic0OANcWf2QBxT8t) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Girl to Girl](https://open.spotify.com/album/1GcSAAAr9e2zcZKucagy5A) | 3:02 |
 | 39 | [Helpless to Help You](https://open.spotify.com/track/1gisg7sH4MkPkPm2di1nim) | [Lexi Berg](https://open.spotify.com/artist/5ZN5AAuWmyLdheRP0rE7dK) | [Helpless to Help You](https://open.spotify.com/album/4sabTzXpuqanjL7grucJS7) | 3:51 |
 | 40 | [Run](https://open.spotify.com/track/0OvR1iYRUwrsSwu6Zli9iz) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Run](https://open.spotify.com/album/7dN3NasZNSsCD8OdH08oua) | 3:32 |
-| 41 | [Thank You](https://open.spotify.com/track/41CZ0ERIZE6HV5j28LbZ5J) | [Hollie Shearer](https://open.spotify.com/artist/4eAhHb9zMpb3ZCYrNVVtOu) | [Thank You](https://open.spotify.com/album/4CbF1PlKGrpwgRcJCGY2z2) | 3:07 |
+| 41 | [Thank You](https://open.spotify.com/track/2dNJ8KT1ogus6POCW0VDGo) | [Hollie Shearer](https://open.spotify.com/artist/4eAhHb9zMpb3ZCYrNVVtOu) | [Thank You](https://open.spotify.com/album/5vosEUbhn6A92wxaPCFSfN) | 3:07 |
 | 42 | [Light Year](https://open.spotify.com/track/30cNitQYZeICMATH0G7kfb) | [Emma Stevens](https://open.spotify.com/artist/4ULAjXdgOJfwASBSBJFTUW) | [Light Year](https://open.spotify.com/album/2S9aF2HWF16IjwQ1RwcEgf) | 3:39 |
 | 43 | [Downtown Baby](https://open.spotify.com/track/3NIMPlnySYOfVF5Vxr4Ae1) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Downtown Baby](https://open.spotify.com/album/2dbQaQFGQjxmQxicnp0701) | 2:47 |
 | 44 | [High Horse \(feat\. BRELAND and Blanco Brown\)](https://open.spotify.com/track/4XMNF67BLR9zzti9XLVFR7) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [High Horse](https://open.spotify.com/album/2j0bqyuBna2QagVKpxvXSK) | 2:32 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU4C3nPzApC.md) - [plain]
 | 54 | [Sunshine & White Wine](https://open.spotify.com/track/5ZrU3Wkpro4V1b9jNXuZRw) | [Savannah Jaine](https://open.spotify.com/artist/1EiW3GLNSmLFCr9TuPGUCO) | [Sunshine & White Wine](https://open.spotify.com/album/47lEkhKprkM7dEGOs7B6sW) | 3:44 |
 | 55 | [Back To The Beginning](https://open.spotify.com/track/79D9sS05hiL69QszESYsAr) | [Tim McNary](https://open.spotify.com/artist/37CGTzcBezP4KjLI2lKk2u), [Machaela Nesler](https://open.spotify.com/artist/2DK8dF5cpYKCWYBmQefqKV) | [Back To The Beginning](https://open.spotify.com/album/1mu2MMauRuWXh1v8ztD7rD) | 3:36 |
 
-Snapshot ID: `MTY2MjEyNzU0NSwwMDAwMDAwMDZjMjU1NzIwNzY3OWJmZTdmYWFlOWQwNzllY2MyNjgw`
+Snapshot ID: `MTY2MjEyNzU0NSwwMDAwMDAwMDUwNjM2NzNhZmNjMGEwMGJjYzgyZWE4Zjk4ZGQ1ZDk2`

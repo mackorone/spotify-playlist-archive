@@ -4,7 +4,7 @@
 
 > Shut out the noise around you with these acoustic instrumentals.
 
-74 songs - 4 hr 37 min - [published](https://open.spotify.com/playlist/5hjTWJounGDY6ag6ldJKXp)
+77 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/5hjTWJounGDY6ag6ldJKXp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Melody Maker](https://open.spotify.com/track/2fTUKPfeW51hxbU3VWef0K) | [Lance Allen](https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC) | [Melody Maker](https://open.spotify.com/album/7Fn5luh64lP9jU0J2UcG3Z) | 3:57 | 2020-10-02 |  |
 | [Movement I \- Awakening](https://open.spotify.com/track/63y9PsKjVQWxvx4yZ4QMdL) | [Maneli Jamal](https://open.spotify.com/artist/3jvyO2jDkfBe2vuI6euFny) | [The Lamaj Movement](https://open.spotify.com/album/6zFlPueRXz2QG5HnfFvem1) | 3:55 | 2020-10-02 |  |
 | [Mutter](https://open.spotify.com/track/2bQAQZiFa15fLnEFUPLj02) | [Rob Scallon](https://open.spotify.com/artist/0A51LEnyTnXX33IyuwM0Ts) | [Anchor EP \(Tour Edition\)](https://open.spotify.com/album/2NRmQa5rsSqARapsAQJx9n) | 6:33 | 2020-10-02 |  |
+| [Night After Sidewalk](https://open.spotify.com/track/09RowT9aDgyH1MCSkfZIDU) | [Kaki King](https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV) | [Acoustic Heart 2: The Passion and Romance of Acoustic Guitar Masters](https://open.spotify.com/album/46tEiYMsAIBegtZ4AyYjIB) | 3:30 | 2020-10-02 | 2022-11-13 |
 | [Night After Sidewalk](https://open.spotify.com/track/0JUa8PNsS6fvWz2Keb5KLq) | [Kaki King](https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV) | [Everybody Loves You](https://open.spotify.com/album/5CbsLK7qbFYtYsGrUTwy3L) | 3:30 | 2020-10-02 |  |
 | [Night After Sidewalk](https://open.spotify.com/track/5V8lsCRhYJCTO8eVGpdUcI) | [Kaki King](https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV) | [..\. Until We Felt Red](https://open.spotify.com/album/30WhcR5ZIZ9FvT9LwMV9Pw) | 3:31 | 2020-10-02 | 2022-07-29 |
 | [Noises in the Night](https://open.spotify.com/track/38YXfGxOCm3M1OU0lFD9Co) | [Franco Morone](https://open.spotify.com/artist/00L3DU7naaW3XOIX26HXVz) | [Noises in the Night](https://open.spotify.com/album/0tCUM1YBGWmxdtgCw4KByd) | 4:14 | 2020-10-02 |  |
@@ -61,11 +62,13 @@
 | [Some Forgotten Color](https://open.spotify.com/track/5cDgbZc1ZLyTwZMuFeNw68) | [Spencer Elliott](https://open.spotify.com/artist/6iCE6UZ8ksUuPto1L317uU) | [Some Forgotten Color](https://open.spotify.com/album/6Y677wqw9nUcXxn3Binz80) | 4:49 | 2020-10-02 |  |
 | [Song for a Rainy Morning](https://open.spotify.com/track/0PBGWP4sUKjOFBsl8zrs3A) | [Tommy Emmanuel](https://open.spotify.com/artist/6HjfVflhYjbu6PSIsFOjwM) | [The Best of Tommysongs](https://open.spotify.com/album/6TQi8KKUIRgoMtIx5bsa4k) | 2:10 | 2020-10-02 |  |
 | [Song for a Rainy Morning](https://open.spotify.com/track/5gUzjMonKIJ8wNdvcilhY5) | [Tommy Emmanuel](https://open.spotify.com/artist/6HjfVflhYjbu6PSIsFOjwM) | [Song for a Rainy Morning](https://open.spotify.com/album/469wqTcGg7OWjDpZf14osQ) | 2:10 | 2020-10-02 | 2022-07-29 |
+| [Song for a Rainy Morning](https://open.spotify.com/track/6e0cbQRPW4VevA7XrLgQV3) | [Tommy Emmanuel](https://open.spotify.com/artist/6HjfVflhYjbu6PSIsFOjwM) | [Song for a Rainy Morning](https://open.spotify.com/album/7tGP5jWcumq9IrrQUkYiGM) | 2:10 | 2020-10-02 | 2022-11-14 |
 | [Song for Dax](https://open.spotify.com/track/1KodSIh2SljFkhrZ2Rn5Fm) | [Dylan Ryche](https://open.spotify.com/artist/0GvFKjJTMXpX16KPTxFw2i) | [Daydreamer](https://open.spotify.com/album/5CnADnERFOyMriiB1vRRQO) | 3:19 | 2020-10-02 |  |
 | [Song For Irene](https://open.spotify.com/track/02oAqE4RUmemtnHDBMgkWl) | [Eric Johnson](https://open.spotify.com/artist/4CxobvwTpmfpIEbkYh4pAb) | [EJ](https://open.spotify.com/album/5AAQSZsMp8r96wRcSVPINB) | 2:29 | 2020-10-02 |  |
 | [Song For Irene](https://open.spotify.com/track/250Y5ghha5UHY1mMgWZ2nD) | [Eric Johnson](https://open.spotify.com/artist/4CxobvwTpmfpIEbkYh4pAb) | [EJ](https://open.spotify.com/album/1pPh5ovrZuUWWX8wjgDSBg) | 2:29 | 2020-10-02 | 2022-07-29 |
 | [Song for Lucas](https://open.spotify.com/track/0u6tOpKjCa02bbIJ2b8879) | [Lance Allen](https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC) | [String Poet](https://open.spotify.com/album/4POyyZuIA30ZWPnwmz8N1w) | 3:06 | 2020-10-02 |  |
 | [Song for Lucas](https://open.spotify.com/track/3ytuOgTzcvazyZF5ltF0dh) | [Lance Allen](https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC) | [String Poet Guitar Solos](https://open.spotify.com/album/5i1bZPNdwPidRnN659rl3p) | 3:06 | 2020-10-02 | 2022-07-29 |
+| [Song for Lucas](https://open.spotify.com/track/55En8TlNLGkeG3gupDRW7a) | [Lance Allen](https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC) | [String Poet Guitar Solos](https://open.spotify.com/album/0cN7QOj6dUMaOVyPEDG01Z) | 3:06 | 2020-10-02 | 2022-11-13 |
 | [Spring at Last](https://open.spotify.com/track/2dKNvzrTUDa2Djgak2qgh0) | [Peter Ciluzzi](https://open.spotify.com/artist/3BC3jPO6EpRTy6iySniyZH) | [Still Without Words](https://open.spotify.com/album/4oOmrBcCaFfTNoofaEiMXv) | 3:25 | 2020-10-02 |  |
 | [Star of the Country Down](https://open.spotify.com/track/2UbPd0NRDK4C0GydEDIQfk) | [Pat Kirtley](https://open.spotify.com/artist/4wQGu2sZibDxvZIPxEOCr3) | [Ramble to Cashel](https://open.spotify.com/album/14ouePxlOLsGjeptH8lIBC) | 3:21 | 2020-10-02 |  |
 | [Tabula Rasa](https://open.spotify.com/track/0TsMuOgOA6yvoe76RvLBz2) | [Calum Graham](https://open.spotify.com/artist/6VUCcZ6HiQQ39DhxV4bSeA) | [Burning Up](https://open.spotify.com/album/4e4j2E1IMSgcIjWrALbwMe) | 2:47 | 2020-10-02 | 2022-07-29 |

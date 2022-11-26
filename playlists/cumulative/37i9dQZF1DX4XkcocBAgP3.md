@@ -4,11 +4,12 @@
 
 > This is Luke Combs\. The essential tracks, all in one playlist.
 
-67 songs - 3 hr 55 min - [published](https://open.spotify.com/playlist/3Kp3WiSdtQdoPYlxnSP7sR)
+70 songs - 4 hr 5 min - [published](https://open.spotify.com/playlist/3Kp3WiSdtQdoPYlxnSP7sR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1, 2 Many](https://open.spotify.com/track/226le7T3p82reYWzsi9Hsz) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS), [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:00 | 2022-08-25 |  |
+| [1, 2 Many](https://open.spotify.com/track/6qMjM19LLLahZuKSihYn0c) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS), [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [Yacht Rock Classics](https://open.spotify.com/album/5GM9YXSwam3xB1SP6KKjQC) | 3:00 | 2022-08-25 | 2022-11-13 |
 | [A Long Way](https://open.spotify.com/track/3z1QH1O1h15lFROjcECqgi) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You Too \(Deluxe Edition\)](https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz) | 3:37 | 2022-08-25 |  |
 | [Ain't Far From It](https://open.spotify.com/track/14OiDZVhNtthziMLFViHoU) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Growin' Up](https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte) | 3:37 | 2022-08-25 |  |
 | [All Over Again](https://open.spotify.com/track/1qUIg2DIRjuSFLBzwZ4QyE) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:28 | 2022-08-25 |  |
@@ -19,6 +20,7 @@
 | [Beautiful Crazy \(feat\. Leon Bridges\) \- Live](https://open.spotify.com/track/4uI6wu9V3heWDqweerxJYF) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Beautiful Crazy \(feat\. Leon Bridges\) \[Live\]](https://open.spotify.com/album/6reqV1RJWoivSKTkJNjhQO) | 3:06 | 2022-08-25 |  |
 | [Beautiful Crazy \- Acoustic](https://open.spotify.com/track/5v05DdK7dCqmImUj4PLxOE) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Beautiful Crazy \(Acoustic\)](https://open.spotify.com/album/1rlTimWrsM4HYDhCVv5HMT) | 3:13 | 2022-08-25 |  |
 | [Beer Can](https://open.spotify.com/track/5k8m3ZCp3AP4TKd2IKzKO8) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You](https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj) | 3:30 | 2022-08-25 |  |
+| [Beer Never Broke My Heart](https://open.spotify.com/track/3t5CI2xqUBytrGJGsBqmUV) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Ain't Always What You Get \(Deluxe Edition\)](https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5) | 3:06 | 2022-08-25 | 2022-11-13 |
 | [Beer Never Broke My Heart](https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:06 | 2022-08-25 |  |
 | [Better Back When](https://open.spotify.com/track/1jdnhRcv4WN78ZB9RigUaR) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Growin' Up](https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte) | 3:23 | 2022-08-25 |  |
 | [Better Together](https://open.spotify.com/track/6gdLyYNuhWBzqwlOFSsXC7) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:39 | 2022-08-25 |  |
@@ -28,6 +30,7 @@
 | [Call Me](https://open.spotify.com/track/3sPIJzHiDC420uQa8ZitF1) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Growin' Up](https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte) | 3:20 | 2022-08-25 |  |
 | [Can I Get an Outlaw](https://open.spotify.com/track/7vVsDu0gTg6oZtrKy7pXcW) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Can I Get an Outlaw](https://open.spotify.com/album/7ENhewQQ9Hp8mdEAyIsWvW) | 3:58 | 2022-08-25 |  |
 | [Cold As You](https://open.spotify.com/track/7IWV29mryrqtO0JVgnPtfv) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Ain't Always What You Get \(Deluxe Edition\)](https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5) | 3:06 | 2022-08-25 |  |
+| [Dear Today](https://open.spotify.com/track/1qF3tGI2bBOPm6G5pygE15) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Ain't Always What You Get \(Deluxe Edition\)](https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5) | 3:39 | 2022-08-25 | 2022-11-13 |
 | [Dear Today](https://open.spotify.com/track/4hRIRj7aJYKo14MxOb8ILh) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:39 | 2022-08-25 |  |
 | [Dive \- Recorded At Sound Stage Nashville](https://open.spotify.com/track/2VWBdFsDJVGlRTdz4PvYwy) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Spotify Singles](https://open.spotify.com/album/2H18xXYbVopKYddC2VqoPJ) | 4:20 | 2022-08-25 |  |
 | [Does To Me \(feat\. Eric Church\)](https://open.spotify.com/track/0nGXi46VcQQ56ZJR428MKS) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS), [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:43 | 2022-08-25 |  |

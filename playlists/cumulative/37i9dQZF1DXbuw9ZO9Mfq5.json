@@ -129,6 +129,10 @@
         {
           "name": "Hillsong UNITED",
           "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "Chris Davenport",
+          "url": "https://open.spotify.com/artist/6Lu7A9Om0rGL9dgzDLR1ed"
         }
       ],
       "date_added": "2021-08-24",
@@ -332,13 +336,49 @@
     },
     {
       "album": {
+        "name": "Go Rest High On That Mountain",
+        "url": "https://open.spotify.com/album/6b6Oht3gDAdseHXDW9i6yS"
+      },
+      "artists": [
+        {
+          "name": "Brothers of the Heart",
+          "url": "https://open.spotify.com/artist/1avG1diqhx83QehJoAbHL5"
+        }
+      ],
+      "date_added": "2021-08-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 252240,
+      "name": "Go Rest High On That Mountain",
+      "url": "https://open.spotify.com/track/12CSsUZGHMfvPYyNaxUohW"
+    },
+    {
+      "album": {
         "name": "Brotherly Love",
         "url": "https://open.spotify.com/album/5kpJWPBsLldYiX808pQHF5"
       },
       "artists": [
         {
-          "name": "Fortune/Walker/Rogers/Isaacs",
-          "url": "https://open.spotify.com/artist/61ZPatRwS09QE7KQ5ufPJI"
+          "name": "Brothers of the Heart",
+          "url": "https://open.spotify.com/artist/1avG1diqhx83QehJoAbHL5"
+        }
+      ],
+      "date_added": "2021-08-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-04",
+      "duration_ms": 252240,
+      "name": "Go Rest High On That Mountain",
+      "url": "https://open.spotify.com/track/5f2AJLUMjy6jBQYZy2RmQZ"
+    },
+    {
+      "album": {
+        "name": "Brotherly Love",
+        "url": "https://open.spotify.com/album/6Y4AfyJXDmjcEzRZmzYxIn"
+      },
+      "artists": [
+        {
+          "name": "Brothers of the Heart",
+          "url": "https://open.spotify.com/artist/1avG1diqhx83QehJoAbHL5"
         }
       ],
       "date_added": "2021-08-24",
@@ -346,7 +386,7 @@
       "date_removed": null,
       "duration_ms": 252240,
       "name": "Go Rest High On That Mountain",
-      "url": "https://open.spotify.com/track/5f2AJLUMjy6jBQYZy2RmQZ"
+      "url": "https://open.spotify.com/track/7lnadJU9bHl09fMoXuaL7l"
     },
     {
       "album": {

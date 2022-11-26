@@ -4,7 +4,7 @@
 
 > 生命中有各種離別時刻，在告別前，你會點播那一首歌給那位聽？
 
-85 songs - 5 hr 38 min - [published](https://open.spotify.com/playlist/1af8ylc64pqspENKOOMB8c)
+93 songs - 6 hr 7 min - [published](https://open.spotify.com/playlist/1af8ylc64pqspENKOOMB8c)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,8 @@
 | [It's Hard to Say Goodbye](https://open.spotify.com/track/3nGEdCiaIVCmhNKnLf8Iht) | [Chet Lam](https://open.spotify.com/artist/0eE5MIp5hONB0TxIJS5H48) | [One Magic Day](https://open.spotify.com/album/1s957vEtF3hDKLK8ODnM5w) | 3:53 | 2022-01-13 | 2022-07-29 |
 | [Long D](https://open.spotify.com/track/3tzjn5ILVuHc4eSLTH60lY) | [Jace Chan](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [Long D](https://open.spotify.com/album/3SGir5Xnex2E02jNYAzRnr) | 3:41 | 2022-04-13 |  |
 | [Lost in L.A.](https://open.spotify.com/track/2DZcCzTbShcVqkP8jz94r8) | [At17](https://open.spotify.com/artist/21Ep61xfoCPTDMMPPy0i0z) | [Kiss Kiss Kiss](https://open.spotify.com/album/5HvlYZNXVsXYkFQZHgrBI1) | 3:22 | 2022-01-13 |  |
+| [Take A Breath](https://open.spotify.com/track/3kvoXqnXbteiOEHZRBXYs5) | [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL) | [Take A Breath](https://open.spotify.com/album/34Kta2hgyF5Bh9oTBXzPfR) | 3:40 | 2022-11-04 |  |
+| [Time to Let Go \(feat\. Luna Is A Bep\)](https://open.spotify.com/track/3o4JJ3laC0xZnVvOCrDa36) | [Kerryta](https://open.spotify.com/artist/4Ks5LLyn8jdLnD7J2JKY6s), [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [Time to Let Go \(feat\. Luna Is A Bep\)](https://open.spotify.com/album/5WS85NSCkBrCxQQaGkNddk) | 3:36 | 2022-11-04 |  |
 | [Today](https://open.spotify.com/track/1fZKhRmU2mpxL4nX8xtCvq) | [Gigi Leung](https://open.spotify.com/artist/1kvvEkC7PQfgfqtCi9YQau) | [Kiss 梁詠琪新曲+精選](https://open.spotify.com/album/38au6vtwgpGNSEUiMHn34T) | 3:38 | 2022-01-13 |  |
 | [Will \(not\) see you soon.](https://open.spotify.com/track/0fZEGAFZXnDpTJI7Cf6GdC) | [Lester Chong](https://open.spotify.com/artist/1r19EpaTIboSLEJFgJ4Y4p) | [Will \(not\) see you soon.](https://open.spotify.com/album/3IEdkG0LYjYoQKbNF7dbUy) | 2:31 | 2022-01-13 |  |
 | [Wish You Were Ok](https://open.spotify.com/track/2w69Skv6oxKvFJNmPzdYzb) | [Regen C.](https://open.spotify.com/artist/4KInUUpPn9iBZgkSKTo4vv) | [Wish You Were Ok](https://open.spotify.com/album/3IjSBZBsyps4wwdD4f2x9G) | 4:27 | 2022-04-13 |  |
@@ -50,6 +52,7 @@
 | [得個等](https://open.spotify.com/track/0pnfuNHCpQC56xBuBXCqbT) | [JB](https://open.spotify.com/artist/2cpYCYngJfXf3wTJPCKDq2) | [得個等](https://open.spotify.com/album/2k7cZ6tUVPxiiq5VSYqS5n) | 4:17 | 2022-01-13 |  |
 | [忘記和記](https://open.spotify.com/track/0nHjhfGCsGw31c79SiUIz0) | [Juno Mak](https://open.spotify.com/artist/6YlGm6QDrC3TOknYcHjt62), [Leon Lai](https://open.spotify.com/artist/0ubIxkefJsoYY8JXc2HJoa) | [忘記和記](https://open.spotify.com/album/5ANwAweXDjoB3HhKzpDfvB) | 6:01 | 2022-01-13 |  |
 | [愛不釋手](https://open.spotify.com/track/1La68qLTcLGsSKkVMJr3eW) | [Hacken Lee](https://open.spotify.com/artist/3PV11RNUoGfX9tMN2wVljB) | [Custom Made](https://open.spotify.com/album/6oGOsrlD6MRKFlyNaNlNQX) | 3:25 | 2022-01-13 |  |
+| [愛回家](https://open.spotify.com/track/5DHjpB2vk29BySgvGKq6IW) | [Leo Ku](https://open.spotify.com/artist/4F0XzHNcfvvA2I0rGqIwAQ), [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [《阿媽有咗第二個》電影原聲專輯](https://open.spotify.com/album/3XgES0xGu2h265n7E6A3j1) | 4:09 | 2022-11-04 |  |
 | [懸崖有路](https://open.spotify.com/track/2W3R6GPqaDeNGHCWHZa8PH) | [Jill Vidal](https://open.spotify.com/artist/4RsRmCGtK9yJmtQulq4lBo) | [懸崖有路](https://open.spotify.com/album/0mwM80i97Ji3N3xyvPXUZz) | 3:44 | 2022-01-13 |  |
 | [我們一起離開吧](https://open.spotify.com/track/5HtnfNpC6FoeKIswjbML92) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [寂寞的星期五](https://open.spotify.com/album/49MdV5EejhiQ1B4jygA17g) | 2:38 | 2022-01-13 |  |
 | [我們都是這樣長大的](https://open.spotify.com/track/17rK9wMYbnbMfeeXKO5iZX) | [Sammi Cheng](https://open.spotify.com/artist/3XCnp5UV5wnNw49Xuka9qH) | [我們都是這樣長大的](https://open.spotify.com/album/4VuD9G02XE4kqet67quDGY) | 4:43 | 2022-01-13 |  |
@@ -60,10 +63,11 @@
 | [最難行的路](https://open.spotify.com/track/15Df9sWQ3zFhc5bsEM293n) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [最難行的路](https://open.spotify.com/album/5jJTEx6QbocPAFgiMx1MEJ) | 3:38 | 2022-01-13 |  |
 | [有時](https://open.spotify.com/track/6b84O8zIifMOPuGQDAaw01) | [Endy Chow](https://open.spotify.com/artist/5r0xeBSRKRJ5Dm63XzTZhE) | [有時](https://open.spotify.com/album/71thxM8cO0DAnJcWY7Nbko) | 4:30 | 2022-01-13 |  |
 | [望月](https://open.spotify.com/track/0hDNC2Ook9S65Y054oPwxy) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [望月](https://open.spotify.com/album/00i2NE9zOWQYwQhDgeRslt) | 2:56 | 2022-01-13 |  |
+| [歡樂今宵離別曲](https://open.spotify.com/track/6qq4DulPCiFT861yWoXdIF) | [風正](https://open.spotify.com/artist/4bJ89gRIHM14T4ZIzaBoEp) | [歡樂今宵離別曲](https://open.spotify.com/album/5DC2gqaUNFypxRR0kuBpMb) | 2:38 | 2022-11-04 |  |
 | [歡迎嚟到呢座城市 \(電影《狂舞派3》主題曲\)](https://open.spotify.com/track/0dYhfbl6DhtaaYUhcnEk5T) | [Heyo](https://open.spotify.com/artist/1ezK75lItwHkPdbIq7Z3Xn), [阿弗](https://open.spotify.com/artist/0yesFAyj7EpWGqrnDjoxQx), [Lydia](https://open.spotify.com/artist/3CXZCvIZ9YjprJWs5qJbNK), [Jan Curious](https://open.spotify.com/artist/1DxU7yGnE1XPeLYzOHdKSy) | [歡迎嚟到呢座城市 \(電影《狂舞派3》主題曲\)](https://open.spotify.com/album/6xpAuAq1BX6vEoK1aE0Kfc) | 4:24 | 2022-01-13 |  |
 | [每次你走的時分](https://open.spotify.com/track/5re2sW79DkSu7tyBjxCqUS) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [每次你走的時分](https://open.spotify.com/album/5t0kPdHWUbtFPugupIGZrO) | 2:59 | 2022-01-13 |  |
 | [每當幻變時](https://open.spotify.com/track/3YQclRiacw3qrUCOBUFDj0) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [每當幻變時](https://open.spotify.com/album/5gJCrDw4K8YxkDyYMmCsld) | 3:33 | 2022-01-13 |  |
-| [每當變幻時](https://open.spotify.com/track/2DL0htS3Ee4EJlVdaM3KwT) | [薰妮](https://open.spotify.com/artist/3V8vKHOlOSNdH2IJjtghNf) | [薰妮的好歌集](https://open.spotify.com/album/4VowPNLAL6DfctN8bQWRDB) | 2:57 | 2022-01-13 | 2022-09-04 |
+| [每當變幻時](https://open.spotify.com/track/2DL0htS3Ee4EJlVdaM3KwT) | [薰妮](https://open.spotify.com/artist/3V8vKHOlOSNdH2IJjtghNf) | [薰妮的好歌集](https://open.spotify.com/album/4VowPNLAL6DfctN8bQWRDB) | 2:57 | 2022-01-13 | 2022-11-13 |
 | [每當變幻時](https://open.spotify.com/track/78C752I4sPRnHFtbjJtOAe) | [薰妮](https://open.spotify.com/artist/3V8vKHOlOSNdH2IJjtghNf) | [薰妮镭射大碟](https://open.spotify.com/album/2jd6r5f3gFI3EJV1tXeJ3W) | 2:57 | 2022-01-13 |  |
 | [每當變幻時](https://open.spotify.com/track/2106dcOEIQ5OK25y2X3QyR) | [薰妮](https://open.spotify.com/artist/3V8vKHOlOSNdH2IJjtghNf) | [薰妮金曲第一輯](https://open.spotify.com/album/38d8EcOEKEfggLTi28mQaX) | 3:01 | 2022-01-13 | 2022-07-29 |
 | [沒明日的恐懼](https://open.spotify.com/track/7sQwncmcjPQTKqEPXSot1v) | [C AllStar](https://open.spotify.com/artist/0ip5ivJzpy0v4DWVVKxc4D) | [沒明日的恐懼](https://open.spotify.com/album/1HxO1UY2Otzf4sLikQ3MMk) | 3:48 | 2022-01-13 |  |
@@ -76,14 +80,18 @@
 | [留下來的人](https://open.spotify.com/track/5Mg4jtsrw6DVRXApAhQm7j) | [C AllStar](https://open.spotify.com/artist/0ip5ivJzpy0v4DWVVKxc4D) | [留下來的人](https://open.spotify.com/album/65gZmrFaxPaiVEXI2jMuTP) | 4:04 | 2022-01-13 |  |
 | [皇后大道東](https://open.spotify.com/track/5X0ZFdwP8acfuyMoxSJ6pf) | [羅大佑](https://open.spotify.com/artist/7tuWI2luTp61HHGmviWid8), [蔣志光](https://open.spotify.com/artist/0xww7UDomE27mzi2gYnQsl) | [皇后大道東](https://open.spotify.com/album/3cPKZnvp9Wam5VnR4okGwJ) | 4:10 | 2022-01-13 |  |
 | [等埋你](https://open.spotify.com/track/1nqIx6DfB1ic1FBHkhNoj3) | [Eric Kwok](https://open.spotify.com/artist/72wRq0GElb2KjMlRntouI7) | [等埋你](https://open.spotify.com/album/1sgj86M6Wqm5e2MevD2NkN) | 3:28 | 2022-04-13 |  |
+| [精神流亡 \(feat\. Serrini\)](https://open.spotify.com/track/2TUVZBJdWct3J6EIPzpOzN) | [Zarahn](https://open.spotify.com/artist/3whYck27PvOQEoh6rSPSMK), [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [精神流亡 \(feat\. Serrini\)](https://open.spotify.com/album/4iPTu4h5ht0utanobgwiXa) | 3:59 | 2022-11-04 |  |
+| [給缺席的人唱首歌](https://open.spotify.com/track/0ZnUxq0HrUPilUSf9ZlQaT) | [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL) | [給缺席的人唱首歌](https://open.spotify.com/album/0skB0wEikdxjH6uigz4fik) | 3:57 | 2022-11-04 |  |
 | [背山望海離不開 \(Live\)](https://open.spotify.com/track/1aPcUstxFJaBRRgrUrwSt9) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9), [Room307](https://open.spotify.com/artist/0DlQgBmj0XzrSsOknlxUHw) | [背山望海離不開 \(Live\)](https://open.spotify.com/album/2nFpKxx7b9kRx3JvsAAkZd) | 6:45 | 2022-01-13 |  |
 | [誰能明白我](https://open.spotify.com/track/07Qp5JcnS1gCfFbOzdyOWU) | [George Lam](https://open.spotify.com/artist/7rxRHujzUzobMEbtoE297s) | [最愛 40 \- Beloved 40](https://open.spotify.com/album/4KH6yrlyQ7PgJzy3HHxEwB) | 3:22 | 2022-01-13 |  |
 | [返屋企](https://open.spotify.com/track/7Ep3R67pdK7SSGTKJQIaAT) | [LMF](https://open.spotify.com/artist/65epDBv5elxypoA07rXg29) | [Crazy Children \(2nd Version\)](https://open.spotify.com/album/0HlPIzA2LwiGH0m8dgsynt) | 5:00 | 2022-01-13 |  |
 | [逐個逐個](https://open.spotify.com/track/1yQwV08EuKDeAcV9HHL4Gd) | [Jan Curious](https://open.spotify.com/artist/1DxU7yGnE1XPeLYzOHdKSy) | [亞水](https://open.spotify.com/album/5BIynFkSbcq2esNGgH4YwO) | 3:17 | 2022-04-13 | 2022-10-10 |
 | [逐個逐個](https://open.spotify.com/track/2m1oTvhKULLdLHKNRCKp3J) | [Jan Curious](https://open.spotify.com/artist/1DxU7yGnE1XPeLYzOHdKSy) | [亞水](https://open.spotify.com/album/3Tq4VEvtEoMpG3qh8fR145) | 3:17 | 2022-04-13 |  |
+| [逐個逐個](https://open.spotify.com/track/33X11EPiUsM8qXGtpx5BhY) | [Jan Curious](https://open.spotify.com/artist/1DxU7yGnE1XPeLYzOHdKSy) | [逐個逐個](https://open.spotify.com/album/6f3Rg4bUm5Nn8uxJwPDqEh) | 3:19 | 2022-11-04 | 2022-11-13 |
 | [過客別墅](https://open.spotify.com/track/5JSjWeWojWIEP6jLjPrqON) | [Hins Cheung](https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK) | [過客別墅](https://open.spotify.com/album/0dM0tnmzxRo7gDpNy2u09U) | 4:32 | 2022-01-13 |  |
 | [還有48小時](https://open.spotify.com/track/2zwtWWdKR4d2pw6upUlox0) | [C AllStar](https://open.spotify.com/artist/0ip5ivJzpy0v4DWVVKxc4D) | [還有48小時](https://open.spotify.com/album/5c8mB5gW8mQvYQdmQFrnXJ) | 4:07 | 2022-01-13 |  |
 | [那邊見](https://open.spotify.com/track/7sFMX70IkeDA7O9zM6qd9l) | [Swing](https://open.spotify.com/artist/6LdLJ6nh1qFyveuaXwxdXQ) | [Swing 到盡](https://open.spotify.com/album/1ynk9pR2lVVN0yOi8i8Rr6) | 4:13 | 2022-01-13 |  |
+| [鐵塔凌雲](https://open.spotify.com/track/4uoXk5wvUcL9TOZVDxWTnq) | [Sam Hui](https://open.spotify.com/artist/1SglpJrPltamdJLLwInIL7) | [難忘許冠傑Sam Hui 30年](https://open.spotify.com/album/1nG8714ZVyfUjNJYBdAZ79) | 3:00 | 2022-11-04 | 2022-11-14 |
 | [鐵塔凌雲](https://open.spotify.com/track/6Gfx0HhDiSHf9yZjOyDGQD) | [Sam Hui](https://open.spotify.com/artist/1SglpJrPltamdJLLwInIL7) | [鬼馬雙星](https://open.spotify.com/album/0YcznUqb6s6kRPmuTp6MVN) | 3:02 | 2022-01-13 | 2022-07-29 |
 | [鐵塔凌雲](https://open.spotify.com/track/5ALKwvEgxQpqrtCAJCvQhA) | [Sam Hui](https://open.spotify.com/artist/1SglpJrPltamdJLLwInIL7) | [真經典 \- 許冠傑](https://open.spotify.com/album/6Lzj5H2oIrmZgynj212qal) | 3:02 | 2022-01-13 |  |
 | [離原](https://open.spotify.com/track/0wJq0895oQEq63hBUWUO1B) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [GWENDOLYN](https://open.spotify.com/album/7MKcI6USXJ5R7chXfOozmY) | 3:40 | 2022-01-13 |  |

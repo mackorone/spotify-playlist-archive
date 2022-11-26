@@ -4,7 +4,7 @@
 
 > Enjoy music from "Case Closed"! アニメ「名探偵コナン」の世界を彩る音楽をプレイリストで。©2020 青山剛昌／名探偵コナン製作委員会
 
-110 songs - 7 hr 39 min - [published](https://open.spotify.com/playlist/4PJtO01CxXlVEi8RCU2y7N)
+111 songs - 7 hr 44 min - [published](https://open.spotify.com/playlist/4PJtO01CxXlVEi8RCU2y7N)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [さだめ](https://open.spotify.com/track/4Cntv5oxEagU95VIUMF5sw) | [First place](https://open.spotify.com/artist/3dt6Me3Hy30c09a938nOcn) | [L.D.Love](https://open.spotify.com/album/4bFsUKle5ER1sFKvY7IpMq) | 4:25 | 2022-10-01 |  |
 | [ふたりの秒針](https://open.spotify.com/track/3sdNXwFqpWTb9mvcXk1gmF) | [焚吐](https://open.spotify.com/artist/4B3UQHES9ff3fLeTzTFpfx) | [ふたりの秒針](https://open.spotify.com/album/64IzloAmeEBeBtr62Npu24) | 4:27 | 2022-10-01 |  |
 | [ゆるぎないものひとつ](https://open.spotify.com/track/6HOj3XHDPTIPxZxvl1gn4k) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [MONSTER](https://open.spotify.com/album/1KhVnTC6ZqlGauxbrkvu1w) | 4:37 | 2022-10-01 |  |
-| [オー!リバル](https://open.spotify.com/track/19gsA9gZuo8wJQ86vX8zyg) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [RHINOCEROS](https://open.spotify.com/album/0vF3e3eqX8VCosVfyV5CoN) | 4:55 | 2022-10-01 |  |
+| [オー!リバル](https://open.spotify.com/track/19gsA9gZuo8wJQ86vX8zyg) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [RHINOCEROS](https://open.spotify.com/album/0vF3e3eqX8VCosVfyV5CoN) | 4:55 | 2022-10-01 |  |
+| [オー!リバル](https://open.spotify.com/track/2AlHWsbh0wsVoMNHyhbtsE) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [Rhinoceros](https://open.spotify.com/album/2qsDNSHTOF2DAnBEJSZVG2) | 4:55 | 2022-10-04 | 2022-11-14 |
 | [オーバーライト](https://open.spotify.com/track/4QcMpnYU4koOLhhyk80nUR) | [BREAKERZ](https://open.spotify.com/artist/1U1oKFcjwl8Tb3b3APG9lE) | [BREAKERZ×名探偵コナン COLLABORATION BEST](https://open.spotify.com/album/04Ym0xEthdAQepiCKzrYrw) | 4:40 | 2022-10-01 |  |
 | [キミがいれば \- 十字路ヴァージョン](https://open.spotify.com/track/0SOFfTJMGdeyb4HZaE1dDP) | [Reiko](https://open.spotify.com/artist/2gNfmIDlKDgwqbilGU5i94) | [名探偵コナン 迷宮の十字路 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4USo0BCeycCmbYn8Z2peAv) | 3:03 | 2022-10-01 |  |
 | [ギリギリchop](https://open.spotify.com/track/6UUmbqYhL4p8W70bCzfOpx) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [ギリギリchop](https://open.spotify.com/album/2xvUnnVWLk2tEPlbtOBpOd) | 3:57 | 2022-10-01 |  |

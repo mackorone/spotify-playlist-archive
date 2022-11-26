@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Los temas m\u00e1s prendidos del trap desde Venezuela, Colombia, Per\u00fa y Ecuador. Foto: Maluma",
+  "description": "Los temas m\u00e1s prendidos del trap desde Venezuela, Colombia, Per\u00fa y Ecuador. Foto: Blessd",
   "name": "Trapperz Andinos",
   "published_playlist_ids": [
     "6opAfCvVy9IGx107v1jCvA"
@@ -53,6 +53,24 @@
       "duration_ms": 186467,
       "name": "A Prueba de Balas",
       "url": "https://open.spotify.com/track/0dcDUBTNlZnjtEwl9X6R0A"
+    },
+    {
+      "album": {
+        "name": "Siempre Blessd",
+        "url": "https://open.spotify.com/album/4PR6koe67C7YosjAYriYh4"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170531,
+      "name": "Barrio Antioquia",
+      "url": "https://open.spotify.com/track/6oPzWRP2VSZf8EMq5WeL03"
     },
     {
       "album": {
@@ -469,7 +487,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 159069,
       "name": "Esperando Q Me Des Un Call",
       "url": "https://open.spotify.com/track/5f3AmXghyLboXUrnjNMFtq"
@@ -1411,7 +1429,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 184389,
       "name": "Rockstars",
       "url": "https://open.spotify.com/track/3FSlnw2ULKtzZmKRsCePM9"
@@ -1725,6 +1743,28 @@
       "duration_ms": 171962,
       "name": "WOW",
       "url": "https://open.spotify.com/track/4I9U5XBHs37jV9pRo3VLTa"
+    },
+    {
+      "album": {
+        "name": "Siempre Blessd",
+        "url": "https://open.spotify.com/album/4PR6koe67C7YosjAYriYh4"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236110,
+      "name": "Ziploc (Blessd Version)",
+      "url": "https://open.spotify.com/track/3JYw9n3rJTVQryVz1rwlH4"
     },
     {
       "album": {

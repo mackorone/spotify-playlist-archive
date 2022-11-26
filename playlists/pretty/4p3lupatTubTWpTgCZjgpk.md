@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4p3lupatTubTWpTgCZjgpk.md) - [plain]
 
 > Countrify your power walk
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,645 likes - 20 songs - 1 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,634 likes - 20 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

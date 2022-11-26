@@ -1,15 +1,163 @@
 {
-  "description": "Your favorite holiday tunes, like you've never heard before. Cover: jxdn",
-  "num_followers": 685967,
+  "description": "Your favorite holiday tunes, like you've never heard before. Cover: Meghan Trainor ",
+  "num_followers": 718515,
   "original_name": "Spotify Singles: Holiday Collection",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTU0NDQwMCwwMDAwMDAwMDVmNGUwNjhlYTEzZjI3ODQ4MjVkZDdjNTYwNzI5OGQ2",
+  "snapshot_id": "MTY2ODYzNDQwNCwwMDAwMDAwMDA3ZTMzNGM4MzQ4MTZmNWViMWJiMjkwMTA3NDk1NGE3",
   "tracks": [
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
+      "album": {
+        "name": "White Christmas (Spotify Singles - Christmas, Recorded at Sound Stage Studios Nashville)",
+        "url": "https://open.spotify.com/album/4khvhw7hfvRpSU1EokuED4"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 194311,
+      "name": "White Christmas - Spotify Singles - Christmas, Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/71azyw4EJDlGru5Uw6DGzT"
+    },
+    {
+      "added_at": "2022-11-16 05:57:13",
+      "album": {
+        "name": "Must Be Santa (Spotify Singles Holiday)",
+        "url": "https://open.spotify.com/album/0wJyKcyU78UBHupNdCEtW4"
+      },
+      "artists": [
+        {
+          "name": "Kurt Vile",
+          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+        }
+      ],
+      "duration_ms": 311423,
+      "name": "Must Be Santa - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/04LnqfQEzvutfUhSylWowv"
+    },
+    {
+      "added_at": "2022-11-16 05:57:13",
+      "album": {
+        "name": "Christmas Tree Farm - Spotify Singles",
+        "url": "https://open.spotify.com/album/2qA6ipSGFgsVG6cXrFBbOx"
+      },
+      "artists": [
+        {
+          "name": "Kaylee Bell",
+          "url": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "duration_ms": 214709,
+      "name": "Christmas Tree Farm - Spotify Singles",
+      "url": "https://open.spotify.com/track/3agFbERmZM62th15YW4Iru"
+    },
+    {
+      "added_at": "2022-11-16 05:57:13",
+      "album": {
+        "name": "Spotify Singles - Holiday",
+        "url": "https://open.spotify.com/album/6LNdcxlSXwXv2UFKQ3pvMk"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 172400,
+      "name": "After LIKE - Holiday Remix",
+      "url": "https://open.spotify.com/track/7DMsSbvw9BOp4BpxraTtNX"
+    },
+    {
+      "added_at": "2022-11-16 05:57:13",
+      "album": {
+        "name": "It Must Have Been Love (Christmas for the Broken Hearted) - Spotify Singles: Holiday",
+        "url": "https://open.spotify.com/album/2WwjIbhO1VU84Zm9ZhaEoL"
+      },
+      "artists": [
+        {
+          "name": "Lasse Skriver",
+          "url": "https://open.spotify.com/artist/3ehJII4G3bu26Ga4IurYBp"
+        }
+      ],
+      "duration_ms": 221733,
+      "name": "It Must Have Been Love (Christmas for the Broken Hearted) - Spotify Singles: Holiday",
+      "url": "https://open.spotify.com/track/3Cr5u6bC4NJomy0B3oNHkg"
+    },
+    {
+      "added_at": "2022-11-16 05:57:13",
+      "album": {
+        "name": "Driving Home for Christmas (Spotify Singles Holiday)",
+        "url": "https://open.spotify.com/album/2k90XUjZZFzSUnk5XYaY8a"
+      },
+      "artists": [
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "duration_ms": 221398,
+      "name": "Driving Home for Christmas - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/0yCuAztZbBfa3eg2fRaxyl"
+    },
+    {
+      "added_at": "2022-11-16 05:59:11",
+      "album": {
+        "name": "Blanca Navidad (Spotify Singles Holiday)",
+        "url": "https://open.spotify.com/album/6XOvqTL0wI3ToELKzrULfH"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 159579,
+      "name": "Blanca Navidad - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/1nKL3Vx69N5DzmCeP6AHBE"
+    },
+    {
+      "added_at": "2022-11-16 05:57:13",
+      "album": {
+        "name": "Triste Navidad - Spotify Singles",
+        "url": "https://open.spotify.com/album/1uTAF8ztXofqNCTzUY6kg8"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 207826,
+      "name": "Triste Navidad - Spotify Singles",
+      "url": "https://open.spotify.com/track/2JIBylKkq8Fan9Ode61X7D"
+    },
+    {
+      "added_at": "2022-11-16 05:57:13",
+      "album": {
+        "name": "Spotify Singles Holiday",
+        "url": "https://open.spotify.com/album/2NVzutkr3TkBwCz0QdA51H"
+      },
+      "artists": [
+        {
+          "name": "KALUSH",
+          "url": "https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842"
+        },
+        {
+          "name": "Kalush Orchestra",
+          "url": "https://open.spotify.com/artist/6fNkvAT7XRYuIynD5RTSLf"
+        }
+      ],
+      "duration_ms": 137691,
+      "name": "Shchedrivka - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/2ScUNIrBDPOR1bj36Z7QjC"
+    },
+    {
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "Happy Holidays, You Bastard",
         "url": "https://open.spotify.com/album/7dUO22BrcLCDAo8PxzL88H"
@@ -25,7 +173,7 @@
       "url": "https://open.spotify.com/track/1JRIspKuyC14rGixc81hEa"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "Carol Of The Bells (Spotify Singles Holiday)",
         "url": "https://open.spotify.com/album/4cvOEpiN4d4YMwM4eB9NvY"
@@ -41,7 +189,7 @@
       "url": "https://open.spotify.com/track/1jFBoVvIFAVglcAJTZpoG8"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "Jingle Bell Rock -Spotify Singles Holiday",
         "url": "https://open.spotify.com/album/4U8CZl7b1nxhmEAaM5AbWk"
@@ -57,7 +205,7 @@
       "url": "https://open.spotify.com/track/7Ao5aouOwI94DuwcXa5X1i"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "Little Saint Nick (Spotify Singles Holiday)",
         "url": "https://open.spotify.com/album/7qI9SiNVambiVT3ukvvnHQ"
@@ -73,7 +221,7 @@
       "url": "https://open.spotify.com/track/1Rnj5WqanhxJgDZSaDvAUe"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "It's the Most Wonderful Time of the Year (Spotify Singles Holiday)",
         "url": "https://open.spotify.com/album/4BuhsOIhCtbXzuDzJeyH1e"
@@ -89,7 +237,7 @@
       "url": "https://open.spotify.com/track/7878uDHPFOucHPBEZNqvdO"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "Hard Candy Christmas (Spotify Singles Holiday)",
         "url": "https://open.spotify.com/album/2rnJ0VBNmS5pdFrbY9p8YI"
@@ -105,7 +253,7 @@
       "url": "https://open.spotify.com/track/7ARgYvIGWXcAyKCmxZMqEW"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "Spotify Singles - Holiday",
         "url": "https://open.spotify.com/album/3wgJ0heYMenWNx1Dr6ZH6c"
@@ -121,7 +269,7 @@
       "url": "https://open.spotify.com/track/4mHAUxQtR2a3c4y2RQyvpp"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "Spotify Singles - Holiday",
         "url": "https://open.spotify.com/album/5iWUd0pLqgRWZpMULl71TN"
@@ -137,7 +285,7 @@
       "url": "https://open.spotify.com/track/1CalzG9Lg4X5Y1njQPeQf8"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "Christmas Time (Is Here Again)",
         "url": "https://open.spotify.com/album/0HB7Iia18Csd34x85Apsnb"
@@ -153,7 +301,7 @@
       "url": "https://open.spotify.com/track/2jNdOB7P8haPjgvPoYBzkY"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "Spotify Singles - Holiday",
         "url": "https://open.spotify.com/album/5AVL4k3pesuk0jRkTeCOSm"
@@ -169,7 +317,7 @@
       "url": "https://open.spotify.com/track/7I4DnQPWhzZvK79px5UhT5"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "Happy New Year - Spotify Singles: Holiday",
         "url": "https://open.spotify.com/album/0lcmBSL5gnznCRwyX6boRL"
@@ -185,7 +333,7 @@
       "url": "https://open.spotify.com/track/7JGCzG4u3YNom3CTwz2kpr"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "Prende el Arbolito - Spotify Singles Holiday",
         "url": "https://open.spotify.com/album/6p9QNLWNLeW8cyo8W2g60n"
@@ -213,7 +361,7 @@
       "url": "https://open.spotify.com/track/1C6bP1OpwtZO2RDKlQfFtW"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "I Saw Mommy Kissing Santa Claus",
         "url": "https://open.spotify.com/album/0DmXAI8kiQMatXpxapDiLH"
@@ -229,7 +377,7 @@
       "url": "https://open.spotify.com/track/6CXNzOwENnzLV09gvmqrH1"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "All I Want for Christmas Is You",
         "url": "https://open.spotify.com/album/3lk74ZQt2hNBpF90tAR9Ss"
@@ -245,7 +393,7 @@
       "url": "https://open.spotify.com/track/5jfp1SOlHfDmkAhaclif6A"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "O Holy Night",
         "url": "https://open.spotify.com/album/0xj9dGod1YUIMOgYHto1nU"
@@ -261,10 +409,10 @@
       "url": "https://open.spotify.com/track/7hWs7SHdvZQVtEyWBha5QG"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "Spotify Singles - Holiday",
-        "url": "https://open.spotify.com/album/6kFmsjBclIk7XynM8Px5kp"
+        "url": "https://open.spotify.com/album/1WWw5IwQsLlzO1iFC90qm4"
       },
       "artists": [
         {
@@ -274,10 +422,10 @@
       ],
       "duration_ms": 231124,
       "name": "Merry Christmas, Happy Holidays",
-      "url": "https://open.spotify.com/track/7d2iMQMa1HAJJm6RcsOjYK"
+      "url": "https://open.spotify.com/track/3EVwJlQpABcNBWQf660X78"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "Spotify Singles - Holiday",
         "url": "https://open.spotify.com/album/7EM6VUKspXVgEu8uref4au"
@@ -293,10 +441,10 @@
       "url": "https://open.spotify.com/track/1XnK3vy0uLNYAW60O5Xn88"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "Spotify Singles - Holiday",
-        "url": "https://open.spotify.com/album/2vtMi8UlnIo8EDgCrNjDEa"
+        "url": "https://open.spotify.com/album/5ZV6Hh6cLp1t1QV83LEMaB"
       },
       "artists": [
         {
@@ -306,10 +454,10 @@
       ],
       "duration_ms": 139130,
       "name": "Blackout Christmas",
-      "url": "https://open.spotify.com/track/7l7FQufQxYcuEQ7u28ur37"
+      "url": "https://open.spotify.com/track/1oZRAefHTh7YzA02kQ8519"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "5 pa las 12",
         "url": "https://open.spotify.com/album/6eVGO1kGK6UvJH59KtF300"
@@ -325,7 +473,7 @@
       "url": "https://open.spotify.com/track/7uwcZL1mOd4u22md6i4tLD"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "Silver Bells (Spotify Singles)",
         "url": "https://open.spotify.com/album/5nvYEOcMNKiZSfCISL4rzv"
@@ -341,7 +489,7 @@
       "url": "https://open.spotify.com/track/2pR9egtFKNDMm18zGfif0l"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "Merry Christmas Everyone - Recorded at Parr Street Studios",
         "url": "https://open.spotify.com/album/7gaHJJPucZCcm8i03zheJl"
@@ -357,7 +505,7 @@
       "url": "https://open.spotify.com/track/5YDrnmiVzAmHmIUhLQqy6H"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "A Dreamer's Holiday",
         "url": "https://open.spotify.com/album/6A9z2Vf7QPQVUNuJg0Jq8E"
@@ -373,10 +521,10 @@
       "url": "https://open.spotify.com/track/61Z8rVzYJ1NHgTlI8Q5yIC"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "Blue Christmas (Recorded at Electric Lady Studios NYC, 2020)",
-        "url": "https://open.spotify.com/album/6wlrfgJzGa9aU01nSYHI2t"
+        "url": "https://open.spotify.com/album/03LcPpFSGxjhACkEZvs639"
       },
       "artists": [
         {
@@ -386,10 +534,10 @@
       ],
       "duration_ms": 147459,
       "name": "Blue Christmas - Recorded at Electric Lady Studios NYC, 2020",
-      "url": "https://open.spotify.com/track/526s5K8K8MP5FG5HkZ6BOa"
+      "url": "https://open.spotify.com/track/4FmC0eIjz88sSEhVPzgVbN"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "The First Noel (feat. Cory Henry)",
         "url": "https://open.spotify.com/album/4UUlh9XDS5gIPoCVAUN8zd"
@@ -409,7 +557,7 @@
       "url": "https://open.spotify.com/track/3tqjlg9Ut8l3WWRe1J0cNQ"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "Spotify Singles - Holiday",
         "url": "https://open.spotify.com/album/4NeHkZmteGriA9lEoa9Brp"
@@ -425,7 +573,7 @@
       "url": "https://open.spotify.com/track/4l6HpFFpPcJ3M5N1PuG7We"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "Spotify Singles - Holiday",
         "url": "https://open.spotify.com/album/2kpdorrZmanV015tDKqZY1"
@@ -441,7 +589,7 @@
       "url": "https://open.spotify.com/track/4G0YpYB1Ullb5rgJeJoMcP"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "Give Love on Christmas Day - Recorded at Spotify Studios NYC (Spotify Singles - Christmas)",
         "url": "https://open.spotify.com/album/3oRUIETu6Lclw9xQdif183"
@@ -457,7 +605,7 @@
       "url": "https://open.spotify.com/track/2bhUuihxnwHia4kXN0Tx6m"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "Spotify Singles - Holiday (Live)",
         "url": "https://open.spotify.com/album/1LsoxRCERzWRpdxoPfyOPB"
@@ -473,7 +621,7 @@
       "url": "https://open.spotify.com/track/5xEGUxCXZxRFicoMlDgn9v"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "Spotify Singles - Holiday",
         "url": "https://open.spotify.com/album/0kCDFEzZ3zNnr5zdO0Bh08"
@@ -489,7 +637,7 @@
       "url": "https://open.spotify.com/track/7enVhl0fuHvQ4ErXvAXYIH"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "Spotify Singles - Holiday",
         "url": "https://open.spotify.com/album/76CnhLRU413n1WfIqbsGT3"
@@ -505,7 +653,7 @@
       "url": "https://open.spotify.com/track/0MxRRwGZhC4eWNhbqcLkDI"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "Please Come Home For Christmas",
         "url": "https://open.spotify.com/album/0RGbhid5X6YXTfm09Fezyw"
@@ -521,7 +669,7 @@
       "url": "https://open.spotify.com/track/6PMhkA8o1fsn3fLCYuFp9r"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "Angels We Have Heard On High (Recorded At Electric Lady Studios NYC)",
         "url": "https://open.spotify.com/album/0jYV35MYyEIRXCuZWKK3Mw"
@@ -537,7 +685,7 @@
       "url": "https://open.spotify.com/track/3mORNTAlAguOAiP7Habmo2"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "Spotify Singles - Holiday",
         "url": "https://open.spotify.com/album/2h0VfPEhVcpcQdAWja6amX"
@@ -553,7 +701,7 @@
       "url": "https://open.spotify.com/track/6pq23eiUqcB8WogaPqtaXB"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "Mistletoe - Recorded at Electric Lady Studios NYC",
         "url": "https://open.spotify.com/album/3RztE1FplfDqTSZu9oE9Ps"
@@ -569,10 +717,10 @@
       "url": "https://open.spotify.com/track/7vW6JovXotgbToBedYaznx"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "Silent Night (Recorded at Spotify Studios NYC)",
-        "url": "https://open.spotify.com/album/0rEnMdmj2xSV3E3G2bt0Rt"
+        "url": "https://open.spotify.com/album/3HLtBaCRyg6J3Axd585iWS"
       },
       "artists": [
         {
@@ -582,10 +730,10 @@
       ],
       "duration_ms": 263692,
       "name": "Silent Night - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1ncaQoSxuTsEQbkDRc9sIs"
+      "url": "https://open.spotify.com/track/6VfL1VmTLZDVtTbxWMvmtj"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "Let It Snow, Let It Snow, Let It Snow - Recorded At Electric Lady Studios NYC",
         "url": "https://open.spotify.com/album/1DOMHyCgzUoAeaz2JZB5OH"
@@ -601,7 +749,7 @@
       "url": "https://open.spotify.com/track/24FPj1NfigHBf140kTbdS8"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "Spotify Singles - Holiday",
         "url": "https://open.spotify.com/album/0ybmEyT3DY9ZucUieIP7IV"
@@ -621,7 +769,7 @@
       "url": "https://open.spotify.com/track/1IYH6s2qo2RHjtH3ILO5MB"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "Spotify Singles - Christmas",
         "url": "https://open.spotify.com/album/7M98dHpMyIBx7jwE8MO2tM"
@@ -637,7 +785,7 @@
       "url": "https://open.spotify.com/track/0yS8P7DFNEBYQ5yHadM5z0"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "Spotify Singles - Holiday",
         "url": "https://open.spotify.com/album/0nu6CXfrJdNcVCvOojAdcW"
@@ -653,7 +801,7 @@
       "url": "https://open.spotify.com/track/7DNGqrLnd07C2FPpAdn6cc"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "Spotify Singles - Christmas",
         "url": "https://open.spotify.com/album/2sFIcASZWGhP0KyMPWemSE"
@@ -669,23 +817,7 @@
       "url": "https://open.spotify.com/track/4uqRDeCgXPLQFYqA5uf5Tr"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
-      "album": {
-        "name": "White Christmas (Spotify Singles - Christmas, Recorded at Sound Stage Studios Nashville)",
-        "url": "https://open.spotify.com/album/4khvhw7hfvRpSU1EokuED4"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 194311,
-      "name": "White Christmas - Spotify Singles - Christmas, Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/71azyw4EJDlGru5Uw6DGzT"
-    },
-    {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "Spotify Singles - Holiday",
         "url": "https://open.spotify.com/album/1uzMDh8QFZHkCw4fFsqQFr"
@@ -701,7 +833,7 @@
       "url": "https://open.spotify.com/track/3xpxZ6cMMY4B49ytbFo1LL"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "This Christmas (Recorded At Spotify Studios NYC)",
         "url": "https://open.spotify.com/album/3X3z40mBB0GyMVX3LFRfrg"
@@ -717,7 +849,7 @@
       "url": "https://open.spotify.com/track/0Kdhb8UqEMYPjUMOXRQWD0"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "Spotify Singles - Christmas",
         "url": "https://open.spotify.com/album/5nA6MO0zRVvdPSrIV7GCod"
@@ -733,7 +865,7 @@
       "url": "https://open.spotify.com/track/0NZqj0STahY0l4UR81wQj4"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "Spotify Singles - Holiday",
         "url": "https://open.spotify.com/album/11SzgsobqblB7lOlhGSV9L"
@@ -753,7 +885,7 @@
       "url": "https://open.spotify.com/track/63Pl6txyv51DxAMzksVIA9"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "Spotify Singles - Holiday",
         "url": "https://open.spotify.com/album/1ueZZjEeoThIvgJr4OKKa5"
@@ -769,7 +901,7 @@
       "url": "https://open.spotify.com/track/0ezxVlILGg3XiTJONE7PEn"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "Santa Baby (Recorded at Strongroom Studios London)",
         "url": "https://open.spotify.com/album/0vBVY4SjwxY6jECqJKTlrJ"
@@ -785,7 +917,7 @@
       "url": "https://open.spotify.com/track/5QF4h9dKGHWdP6cwRORG5h"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "Spotify Singles - Holiday",
         "url": "https://open.spotify.com/album/0kCDFEzZ3zNnr5zdO0Bh08"
@@ -801,7 +933,7 @@
       "url": "https://open.spotify.com/track/5lyikKk6KFWfWCuDDir9Fx"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "Spotify Singles - Christmas",
         "url": "https://open.spotify.com/album/6Bm5GHidlwH4Du84Zh6ngC"
@@ -821,7 +953,7 @@
       "url": "https://open.spotify.com/track/66bAZCmayomM3GGDdhz6ir"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "Spotify Singles - Christmas",
         "url": "https://open.spotify.com/album/4F49nBJxc0MwyIgZCekkk6"
@@ -841,7 +973,7 @@
       "url": "https://open.spotify.com/track/1wX2vUVICRwjQuYOyBTWHO"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "Spotify Singles - Holiday",
         "url": "https://open.spotify.com/album/1knkuS0R3qoY1pmwYrMQ4N"
@@ -857,7 +989,7 @@
       "url": "https://open.spotify.com/track/5DoGwwQAlYumpSSlDNMOwY"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "Can You See (Spotify Singles - Holiday, Recorded at Spotify Studios NYC)",
         "url": "https://open.spotify.com/album/5a4CYbT8UXzcHfYDhW5aOy"
@@ -873,7 +1005,7 @@
       "url": "https://open.spotify.com/track/6lIob2DRkcnjrymZN1QqU7"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "Last Christmas (Recorded At Metropolis Studios, London)",
         "url": "https://open.spotify.com/album/60HYitDBZuRnyquGeoaDtj"
@@ -889,7 +1021,7 @@
       "url": "https://open.spotify.com/track/7vaojIyvb52pVcNAWf2sG5"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "Spotify Singles - Christmas",
         "url": "https://open.spotify.com/album/1l3dzkvaw90H6NMF1KkFlW"
@@ -905,7 +1037,7 @@
       "url": "https://open.spotify.com/track/1dinW5tLGDdPhxtW8vMkUn"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "O Come All Ye Faithful - Recorded at Sound Stage Studios Nashville",
         "url": "https://open.spotify.com/album/60RYE09w9rWq0qg6IT9rha"
@@ -921,7 +1053,7 @@
       "url": "https://open.spotify.com/track/6Yr2cyWPpdHeWVsOwu9rzg"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "In the Bleak Midwinter",
         "url": "https://open.spotify.com/album/5BH6HaosOth2jNBs7tANBK"
@@ -937,7 +1069,7 @@
       "url": "https://open.spotify.com/track/6bT0cqmIS5vjNSdidUyVaa"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "White Christmas (Spotify Singles - Holiday, Recorded at Air Studios, London)",
         "url": "https://open.spotify.com/album/1gDgPEEeuFPfRMASQWU8A0"
@@ -953,7 +1085,7 @@
       "url": "https://open.spotify.com/track/7F9oCEKbqjN99cV5HpvYER"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "Spotify Singles - Holiday",
         "url": "https://open.spotify.com/album/1KXfyj4DeQVABeUTKxnBfG"
@@ -973,7 +1105,7 @@
       "url": "https://open.spotify.com/track/28cTgrTZZChH8qO2fvm6my"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "Spotify Singles - Holiday",
         "url": "https://open.spotify.com/album/2mMLPgz8Z83RQ4aDSDHxdN"
@@ -989,7 +1121,7 @@
       "url": "https://open.spotify.com/track/0LqcRfO94p7AJt4SHq3PS3"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "Jingle Bells",
         "url": "https://open.spotify.com/album/2s4H4dfNlGtl2NtHcY8fXq"
@@ -1025,7 +1157,7 @@
       "url": "https://open.spotify.com/track/4gBzl7sX7yTjZIzvs9VFpN"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "Spotify Singles - Christmas",
         "url": "https://open.spotify.com/album/5aQburioDHyUsOgHOxA3KE"
@@ -1041,7 +1173,7 @@
       "url": "https://open.spotify.com/track/5YXTITnbibiZbdo3maG39v"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "Rudolph The Red Nose Reindeer (Recorded at Spotify Studios)",
         "url": "https://open.spotify.com/album/3ZsuojPqBmGbDAewFQ9Lnu"
@@ -1057,7 +1189,7 @@
       "url": "https://open.spotify.com/track/53is1DHKuBWeh4Jx9ISKZp"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "Spotify Singles - Holiday",
         "url": "https://open.spotify.com/album/1aifvRID8WVENI4KDyCx27"
@@ -1097,7 +1229,7 @@
       "url": "https://open.spotify.com/track/7n7mTiptQT1iNa7rMhcZS8"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "Spotify Singles (Holiday)",
         "url": "https://open.spotify.com/album/2ZvxkoZewKwIE0ywRLi6fv"
@@ -1113,7 +1245,7 @@
       "url": "https://open.spotify.com/track/3bX1HI1q0mdyIkunhtj0dP"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "Spotify Singles - Holiday",
         "url": "https://open.spotify.com/album/50RXkvDaqBXrh7JGUuuCyB"
@@ -1133,7 +1265,7 @@
       "url": "https://open.spotify.com/track/4MidM1ux8fwIWEM01eX6AC"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "The Christmas Song (Spotify Singles - Holiday, Recorded at Spotify Studios NYC)",
         "url": "https://open.spotify.com/album/0aVdIL0fUe5iaGQcvto0Sy"
@@ -1149,7 +1281,7 @@
       "url": "https://open.spotify.com/track/7beYBowpIMDjpdfXi2GH4S"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "Noche de Paz - Recorded at Electric Lady Studios NYC - Spotify Studios NYC",
         "url": "https://open.spotify.com/album/6ko0lFEORJ1r844s60Zh3f"
@@ -1165,7 +1297,7 @@
       "url": "https://open.spotify.com/track/6lxZad9QvvupcZmt0BwKPJ"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "Christmas Must Be Tonight - Recorded at Spotify Studios NYC",
         "url": "https://open.spotify.com/album/79pU4cBoyQmUU0e5tuuCvG"
@@ -1185,7 +1317,7 @@
       "url": "https://open.spotify.com/track/7D5fkaLthrFkOmTPrOLOpk"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "Spotify Singles - Christmas",
         "url": "https://open.spotify.com/album/5F2LTPWjIl2YWeDlZSbNb3"
@@ -1201,7 +1333,7 @@
       "url": "https://open.spotify.com/track/7tTPXjxNFjij4xzGeO3KLt"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "Spotify Singles - Christmas",
         "url": "https://open.spotify.com/album/5en558OdtGQER6bVirXNnM"
@@ -1217,7 +1349,7 @@
       "url": "https://open.spotify.com/track/60SifRrS0a3jOQITjpstp8"
     },
     {
-      "added_at": "2021-12-15 05:00:00",
+      "added_at": "2022-11-08 16:43:43",
       "album": {
         "name": "Baby It's Cold Outside - Spotify Singles - Christmas, Recorded at Metropolis Studios, London",
         "url": "https://open.spotify.com/album/05mmfK3BaBsbXRUmds8FYU"

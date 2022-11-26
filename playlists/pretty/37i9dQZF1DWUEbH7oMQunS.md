@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 
 > Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,107 likes - 60 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,235 likes - 60 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 | 32 | [Suddenly](https://open.spotify.com/track/5hcTf54Yvz9DKpshg3DGnL) | [Young Oceans](https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr) | [Suddenly \- EP](https://open.spotify.com/album/34CL0SBwvESZpXED6Xy3vN) | 4:49 |
 | 33 | [For The One \- Instrumental](https://open.spotify.com/track/7ph250c2s06TIsL18QceuA) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [After All These Years \(Instrumental\)](https://open.spotify.com/album/6LCOx7X7XM1FEwxhDFXXMk) | 4:01 |
 | 34 | [Lord I need You](https://open.spotify.com/track/2UYvWrbew5Bbb6PchbU4t4) | [Holy Communion Instrumental Duo](https://open.spotify.com/artist/7HLH8rV5mrT0SesUoaKEEr) | [Contemporary Worship Hits](https://open.spotify.com/album/4tSzeF6Rds3QY0NpUOf5s0) | 2:59 |
-| 35 | [Wrecked.](https://open.spotify.com/track/20gqFSQr6WkufncmJ1uz2z) | [HXLY KXSS](https://open.spotify.com/artist/7yCFIIPxCy84VS0y2TUazj) | [Wrecked.](https://open.spotify.com/album/5BfCBoffca0UNKpgDnyD4m) | 2:47 |
+| 35 | [Wrecked.](https://open.spotify.com/track/7IL9XWhxEXJQsCpO1dgYkW) | [HXLY KXSS](https://open.spotify.com/artist/7yCFIIPxCy84VS0y2TUazj) | [Wrecked.](https://open.spotify.com/album/6UximDnjqOzwJ77MQNniVo) | 2:47 |
 | 36 | [Dirty And Left Out](https://open.spotify.com/track/1SLJG1GJq87z1OKOn8YYNX) | [The Almost](https://open.spotify.com/artist/5X09SRt3qx77eh0XRreLjr) | [Southern Weather](https://open.spotify.com/album/5NtcxePyijMGPbFfmv5LgA) | 3:42 |
 | 37 | [Water Position](https://open.spotify.com/track/0xewZVFTSDqOri45S4MuSq) | [Hybrid Leisureland](https://open.spotify.com/artist/2BKGxQhaUFgd8xAIkd5yb4) | [Keeping track of the human race](https://open.spotify.com/album/5hX85Wm3Ul9fZOZGxNRntt) | 6:03 |
 | 38 | [Here as in Heaven](https://open.spotify.com/track/0fPwregqch9wLJj4yQH6Bk) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Here As In Heaven](https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF) | 8:19 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 | 59 | [Without Shelter](https://open.spotify.com/track/0mdBzoEiRNM2CFOuCmbUsb) | [Sebastian Selke](https://open.spotify.com/artist/3mvFzNzTcfPjg0gPiN90ui), [Ceeys](https://open.spotify.com/artist/6K8BBZapSLE6XGXF4htbIT) | [The Grunewald Church Session](https://open.spotify.com/album/6oLX7bPI80ncEhjsb997KY) | 6:58 |
 | 60 | [Great Is Our God](https://open.spotify.com/track/5TO4KuGzOBKG6CqxHm4wRD) | [Young Oceans](https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr) | [Young Oceans](https://open.spotify.com/album/1367PHceftcW1GcBTbzuzB) | 4:33 |
 
-Snapshot ID: `MTUzMDk4Mzk4MywwMDAwMDAwMDgwYjM3NTg1MzNlMWMxZmQ0MDQ2MzhkZmFmM2U1NjNh`
+Snapshot ID: `MTUzMDk4Mzk4MywwMDAwMDAwMGYwMzA5OTQ0MzIyMTNmNzA1MDY4ZDAwYWUwMGFjZmY1`

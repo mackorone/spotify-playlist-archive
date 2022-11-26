@@ -4,7 +4,7 @@
 
 > Sounds of spiritual comfort and cultural traditions of triumph.
 
-32 songs - 3 hr 10 min - [published](https://open.spotify.com/playlist/7bffGl8a6NdUpYysUcKthu)
+35 songs - 3 hr 26 min - [published](https://open.spotify.com/playlist/7bffGl8a6NdUpYysUcKthu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,9 +15,11 @@
 | [Center Of My Joy](https://open.spotify.com/track/5qLg9MrPWD0q9nSF8LmlBF) | [The Richard Smallwood Singers](https://open.spotify.com/artist/1f0rrVqBleK8SLWDwIjM24) | [The Center Of My Joy](https://open.spotify.com/album/3tluqCDSTlCAsCHW6U7oI3) | 5:17 | 2019-02-06 | 2022-07-29 |
 | [Everything You Touch Is a Song](https://open.spotify.com/track/3ahBlS5O40OR0zqKVwvOcU) | [The Winans](https://open.spotify.com/artist/7EQrc1Kz56jCHgJ895CZJ8) | [Feel the Spirit](https://open.spotify.com/album/04l4rg5skAfyKkriPC7jm0) | 5:22 | 2019-02-06 | 2022-07-29 |
 | [Everything You Touch Is A Song](https://open.spotify.com/track/0nFEeSOwXfkYKSShg2RR1V) | [The Winans](https://open.spotify.com/artist/7EQrc1Kz56jCHgJ895CZJ8) | [Tomorrow](https://open.spotify.com/album/1OFvGlqOQ1gSJ6Jf6DFVRS) | 5:23 | 2019-02-06 |  |
+| [Everything You Touch Is A Song](https://open.spotify.com/track/4loGT4uKwIx4qkJYAicjkA) | [The Winans](https://open.spotify.com/artist/7EQrc1Kz56jCHgJ895CZJ8) | [House Of Gospel Anthology \- The 80'S Volume 1](https://open.spotify.com/album/7LFIe0Z0iVzi6YiPcZucC2) | 5:23 | 2019-02-06 | 2022-11-14 |
 | [Go Down Moses](https://open.spotify.com/track/2S5O0hwIwFxpnIKC0Tm1xM) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Spirituals](https://open.spotify.com/album/3guwEJxJNnTWjdgLYofTMO) | 5:39 | 2019-02-06 |  |
 | [God Is](https://open.spotify.com/track/78wYW2SI5MKVXw4zdqbceY) | [James Cleveland & The Southern California Community Choir](https://open.spotify.com/artist/3O90nZ7V5cI8QoyuKNWjZ0) | [It’s A New Day](https://open.spotify.com/album/2seseSh5U6TRFKfF6phFlO) | 6:47 | 2019-02-06 |  |
 | [Goin' Up Yonder](https://open.spotify.com/track/1fJyQ4F6hTWfHrnvbygRWB) | [Walter Hawkins](https://open.spotify.com/artist/12pzJohM40StvAPzI1t3Tb) | [The Light Years](https://open.spotify.com/album/5CFrLSHTPFhnHCkxZdlH29) | 5:10 | 2019-02-06 | 2022-07-29 |
+| [Goin' Up Yonder](https://open.spotify.com/track/1l1xhtNsfCFhyK3HraaiNQ) | [Walter Hawkins](https://open.spotify.com/artist/12pzJohM40StvAPzI1t3Tb) | [Gospel Heritage Christmas, Vol\. 3](https://open.spotify.com/album/3qslBgw2OwfSJ0eSzgSTXe) | 5:10 | 2019-02-06 | 2022-11-13 |
 | [Going Up Yonder](https://open.spotify.com/track/477kgQbTTs9CSEJAZL9e9j) | [Walter Hawkins](https://open.spotify.com/artist/12pzJohM40StvAPzI1t3Tb) | [The Light Years](https://open.spotify.com/album/4pYsME51r7rDRZcdEv9DGB) | 5:10 | 2019-02-06 |  |
 | [Great Is Thy Faithfulness](https://open.spotify.com/track/26jEK23GYzHoLGIrZOyIDH) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Delores "Mom" Winans](https://open.spotify.com/artist/5UMZOxh7uusc8idFcHNe7T) | [Alone In His Presence](https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ) | 5:00 | 2019-02-06 |  |
 | [Heavenly Choir](https://open.spotify.com/track/4esEKIxsmfIJX7x6TWWyBM) | [The Canton Spirituals](https://open.spotify.com/artist/1EPpCbbQoN5loEfqOeuvFs) | [Live in Memphis](https://open.spotify.com/album/6r9Qb40H8qmnNjaZFjgI9p) | 8:59 | 2019-02-06 |  |
@@ -35,6 +37,7 @@
 | [Safe In His Arms](https://open.spotify.com/track/4TsOvX4vJ41XOBA0Dmks9k) | [Rev\. Milton Brunson](https://open.spotify.com/artist/3Tiff2zKob5oG6m7AQpbis), [The Thompson Community Singers](https://open.spotify.com/artist/1MWWUdLJVnU7HryE29JNZI) | [Fifty Blessed Years](https://open.spotify.com/album/4IddWR3TFYrrjYJ4SyaPtK) | 5:04 | 2019-02-06 |  |
 | [Soon and Very Soon](https://open.spotify.com/track/1jgB4xgmPJhG6qTfAsZH6O) | [Andrae Crouch](https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7) | [More Of The Best](https://open.spotify.com/album/3Jgzx5IVMczCsxa0LfEH6U) | 4:45 | 2019-02-06 |  |
 | [Soon and Very Soon](https://open.spotify.com/track/6Ol5cYjqt8ps5amYtYhKIK) | [Andrae Crouch](https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7) | [More Of The Best](https://open.spotify.com/album/1z5ZSwYTX0kjVcdf37qUZV) | 4:45 | 2019-02-06 | 2022-07-29 |
+| [The Center of My Joy](https://open.spotify.com/track/7vaPBsS0kw9AypFXeUukpr) | [Richard Smallwood](https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP) | [The Iconic Artists of Gospel Music](https://open.spotify.com/album/3WVOkxBtWd7vmuapji6UHL) | 5:16 | 2019-02-06 | 2022-11-13 |
 | [The Center of My Joy](https://open.spotify.com/track/01uA4LkBFfp2xEeIojihtC) | [Richard Smallwood](https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP) | [Textures](https://open.spotify.com/album/11vPXkDqXaKM84D1ggfpHl) | 5:17 | 2019-02-06 |  |
 | [The Potter's House \- Live](https://open.spotify.com/track/2GLX6WynSRAirDye9AtKkw) | [Tramaine Hawkins](https://open.spotify.com/artist/3VrvtMPf98keYfWoBPx4OR) | [Tramaine Hawkins Live](https://open.spotify.com/album/0e7ByrzFOoMGqhPTQttAT4) | 6:35 | 2019-02-06 |  |
 | [This Little Light Of Mine](https://open.spotify.com/track/1e36CYAbqtlQ9Lo26BB6yl) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [This Little Light](https://open.spotify.com/album/3nPA17BhaIjxqULOJUmn4a) | 2:39 | 2019-02-06 |  |

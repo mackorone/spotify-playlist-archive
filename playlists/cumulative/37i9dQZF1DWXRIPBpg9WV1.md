@@ -4,7 +4,7 @@
 
 > Relax and unwind with gentle guitar covers.
 
-103 songs - 5 hr 41 min - [published](https://open.spotify.com/playlist/7BlL5UpDQdx2iXZ9eRyjoI)
+104 songs - 5 hr 45 min - [published](https://open.spotify.com/playlist/7BlL5UpDQdx2iXZ9eRyjoI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [The Joker and The Queen \- Instrumental](https://open.spotify.com/track/48HuyDX4mzi3VjkAYzgYLJ) | [Guitar Tribute Players](https://open.spotify.com/artist/3AoiBjr0pSGswX96XxEgH7) | [Acoustic Tribute to Ed Sheeran, Vol\. 4 \(Instrumental\)](https://open.spotify.com/album/3e4v4x4AXeb7sTkGgx9l92) | 3:04 | 2022-05-20 |  |
 | [The Times They Are a\-Changin’](https://open.spotify.com/track/3Oj3qgVvYddVbPrNBDEWO3) | [Viktor Kvist](https://open.spotify.com/artist/19oyVUF3vGLiYBLewX6mIT) | [The Times They Are a\-Changin’](https://open.spotify.com/album/7DGRIEOrMEK2ntOLJEQ6US) | 2:22 | 2022-05-20 |  |
 | [Time After Time](https://open.spotify.com/track/1Papec9BTj4JFjMVYGfL2u) | [Edy Hafler](https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T) | [Time After Time](https://open.spotify.com/album/3Z5CeREn2cKKrrCpyHT5nl) | 3:31 | 2022-05-20 | 2022-07-29 |
+| [Time After Time](https://open.spotify.com/track/6Pm1tdfNQdNuWOG0mDXImu) | [Edy Hafler](https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T) | [Time After Time](https://open.spotify.com/album/11IHpdLzDHfHbwgZCxWyoa) | 3:32 | 2022-09-30 | 2022-11-13 |
 | [Time after Time](https://open.spotify.com/track/7cuNUdSbrrFIiqejH4tbsI) | [Edy Hafler](https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T) | [Guitar Pop Covers, Vol\. 2](https://open.spotify.com/album/3vOxhVB13qQHb2IVv2wq6j) | 3:32 | 2022-07-26 |  |
 | [Too Good At Goodbyes](https://open.spotify.com/track/0lazFQfhuD9CDjkceTIj9E) | [Anna Kitkowska](https://open.spotify.com/artist/45Miu8OyhYvkkQBXhn0MfQ) | [Anna Kitkowska](https://open.spotify.com/album/02yT961mEldwOgfmrwzW0Z) | 4:04 | 2022-05-20 |  |
 | [Top Gun Anthem](https://open.spotify.com/track/7AzvPbLe8PdckwzQ2QUGOp) | [Mario Cabrera](https://open.spotify.com/artist/2jxGXKxdhbWgtylGviMHZh) | [Top Gun Anthem](https://open.spotify.com/album/0EO7Sx80EQEl2ZfgKmM6sY) | 2:59 | 2022-09-30 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUeUTA8xEERe.md) - [plain]
 
 > All jazz every Sunday, curated by Jermaine Dupri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,016 likes - 26 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,338 likes - 26 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUeUTA8xEERe.md) - [plain]
 | 4 | [Rush Hour](https://open.spotify.com/track/5QQqHH7Sk0sFGyxELjDb0e) | [Kaidi & NK\-OK](https://open.spotify.com/artist/7jDA84G7dkwJAGstQhFbhd), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Time Capsule](https://open.spotify.com/album/7uQhtRHu9XIUVrfIwn3Z8s) | 3:02 |
 | 5 | [What Comes Up](https://open.spotify.com/track/7qGvSZRd9wqpDFGxOJ4E1I) | [Anders Widmark](https://open.spotify.com/artist/4ZgY2pumPsq9z3kNxGTDef) | [Hear Me Talkin'](https://open.spotify.com/album/6WVg7QuomPZPCMHDjziHnX) | 3:36 |
 | 6 | [Prosecco](https://open.spotify.com/track/7pt3SQvLhjpDdHZYzejRfN) | [Th&o.](https://open.spotify.com/artist/0RYKFLXXxrpiF7e1zmCZLT) | [Prosecco](https://open.spotify.com/album/3yfnIuUhfGad79WWAv768J) | 3:41 |
-| 7 | [No Mo'](https://open.spotify.com/track/4dHTtrTe3hajyFc7tywb8s) | [Tuzeint](https://open.spotify.com/artist/0iQ2RumqYpmrZVxHCR771X) | [No Mo'](https://open.spotify.com/album/3dT8UMIoAPXDDSh7nGyZtD) | 3:58 |
+| 7 | [No Mo'](https://open.spotify.com/track/40ZFcO8L1huMBl7KitreLh) | [Tuzeint](https://open.spotify.com/artist/0iQ2RumqYpmrZVxHCR771X) | [No Mo'](https://open.spotify.com/album/16FnBU6gaf9ZYYIJjQ56w2) | 3:58 |
 | 8 | [Here For It All](https://open.spotify.com/track/6e6r6zA2q4LjUJz8s4MKkS) | [Mike Nasa](https://open.spotify.com/artist/7dA0IZAV5Wr4SjKCnI7Gx3), [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo) | [Here For It All](https://open.spotify.com/album/2S8zPeU2nu6JwpY2My2OYT) | 3:14 |
 | 9 | [Dear Old Stockholm \(feat\. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones\)](https://open.spotify.com/track/1d0NjHhCDKCKZIbws021xD) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Philly Joe Jones](https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1) | ['Round About Midnight](https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K) | 7:48 |
 | 10 | [Misty Dawn](https://open.spotify.com/track/1jBD5HKZtB8iXUrXzEmjAT) | [B0nds](https://open.spotify.com/artist/7ocYXGSTBnpzj74JufFDWB) | [Phantom Versions](https://open.spotify.com/album/5jluEyoiWf0Z6pALjNSx6m) | 2:22 |
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUeUTA8xEERe.md) - [plain]
 | 25 | [Monster](https://open.spotify.com/track/679HxTmmDmrbs8BIuZr26f) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Taller \(Expanded Edition\)](https://open.spotify.com/album/70eLZovtqw7sivCdvooBgk) | 4:00 |
 | 26 | [Bluesen](https://open.spotify.com/track/4q4emoW3IX2eHhY3sVkudj) | [Svaneborg Kardyb](https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr) | [Haven](https://open.spotify.com/album/1a7WanJ8OXUHZsbIlJZLDb) | 2:57 |
 
-Snapshot ID: `MTYwNDA5NDg0MiwwMDAwMDAwMDEwZjNjNzFjZTNlOGZkMzM5N2YxOTFmNDkwNDQ3YTM2`
+Snapshot ID: `MTYwNDA5NDg0MiwwMDAwMDAwMDcyZDk0OWVhOWJhYjRkYWIyZGE1MGY3MjQ0N2QyMGQ4`

@@ -4,7 +4,7 @@
 
 > The essential tracks, all in one playlist.
 
-50 songs - 3 hr 2 min - [published](https://open.spotify.com/playlist/2vSU1mrzJLM9z8pFih229i)
+54 songs - 3 hr 15 min - [published](https://open.spotify.com/playlist/2vSU1mrzJLM9z8pFih229i)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [All These Things](https://open.spotify.com/track/5SlNjNaibdMLveJPYqAAaE) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 3:19 | 2021-11-12 |  |
 | [All This Time](https://open.spotify.com/track/3jBZ215eVz9qwazMIQNSOO) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Waking Up](https://open.spotify.com/album/2pLAOZiilrhOrTQNqrF8qr) | 4:02 | 2021-11-12 |  |
 | [Apologize](https://open.spotify.com/track/1NrJYpdAi7uosDRPmSYrsG) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) | 3:28 | 2021-11-12 |  |
-| [Apologize \- feat\. One Republic](https://open.spotify.com/track/77rlwv75irCcg50920G04u) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) | 3:05 | 2021-11-12 |  |
+| [Apologize](https://open.spotify.com/track/77rlwv75irCcg50920G04u) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) | 3:05 | 2021-11-12 |  |
 | [Better Days](https://open.spotify.com/track/2K0r5GD5zYlEMx2M7ZMcqG) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Better Days](https://open.spotify.com/album/3ETKNL7BaU8N2gh1GH4HXQ) | 2:24 | 2021-11-12 |  |
 | [Born](https://open.spotify.com/track/797fEwjPjyNhkoQCHDkzne) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 4:25 | 2021-11-12 |  |
 | [Champagne Supernova](https://open.spotify.com/track/2umLrUIz9YFFMNtEqnbCVt) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Champagne Supernova](https://open.spotify.com/album/7jVZUwrDrzwNf6ckgDQqBF) | 6:20 | 2021-11-12 | 2022-07-29 |
@@ -25,11 +25,13 @@
 | [Fingertips](https://open.spotify.com/track/7FQgwxkgClQLTwEilUlscr) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 4:15 | 2021-11-12 |  |
 | [Future Looks Good](https://open.spotify.com/track/2JATE4qxTuVgKEKe12sqLp) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 3:30 | 2022-05-13 |  |
 | [Future Looks Good](https://open.spotify.com/track/19ibYZL8B8wmp4gwH9vMQy) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Future Looks Good](https://open.spotify.com/album/7dZObEcSxxc8vEUIjfl5z0) | 3:30 | 2021-11-12 | 2022-07-29 |
+| [Future Looks Good](https://open.spotify.com/track/6D3t1BypVorwf87mCaf7Xo) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Good Morning](https://open.spotify.com/album/1eUVpflNceQKOGnJca8bUC) | 3:30 | 2022-05-13 | 2022-11-13 |
 | [Good Life](https://open.spotify.com/track/6OtCIsQZ64Vs1EbzztvAv4) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Waking Up](https://open.spotify.com/album/2pLAOZiilrhOrTQNqrF8qr) | 4:13 | 2021-11-12 |  |
 | [Heaven](https://open.spotify.com/track/1lFHaHvZeLf6XrOqX6iLlS) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 4:18 | 2021-11-12 |  |
 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2022-05-13 |  |
 | [I Lived](https://open.spotify.com/track/7D49Iig0avHre9RFSUMkd2) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/2bbhW5ifCwOYM8DMkqoYBF) | 3:54 | 2021-11-12 |  |
 | [If I Lose Myself](https://open.spotify.com/track/7hIRQZhDjab4YgqkkkehV9) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/2bbhW5ifCwOYM8DMkqoYBF) | 4:01 | 2021-11-12 |  |
+| [Kids](https://open.spotify.com/track/1ny5puGJQ4r7sMvazXClsd) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My](https://open.spotify.com/album/3sABlBpkGohgVYOVN23q8m) | 3:58 | 2022-05-13 | 2022-11-14 |
 | [Kids](https://open.spotify.com/track/5mQNY6pTeSDl2doFB7uLbE) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 3:58 | 2022-05-13 |  |
 | [Kids](https://open.spotify.com/track/4KH2V5CGcMeWFI7AciTmbZ) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Kids](https://open.spotify.com/album/7Jr2OocsJHcAt33YB3Les6) | 4:00 | 2021-11-12 | 2022-07-29 |
 | [Let's Hurt Tonight](https://open.spotify.com/track/05sCp83gcMm1iecYydKJS3) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 3:14 | 2021-11-12 |  |
@@ -39,6 +41,7 @@
 | [NbHD](https://open.spotify.com/track/6zsFCfP4TK2J48tMYjb668) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 3:44 | 2021-11-12 |  |
 | [Ordinary Human](https://open.spotify.com/track/0VmdveDdlr2FMGwBljCfxA) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Ordinary Human](https://open.spotify.com/album/1UhPPEJiu8RHhupj6aC4kh) | 4:50 | 2021-11-12 |  |
 | [Rescue Me](https://open.spotify.com/track/0mjAU3yKR1QnXnHtjGJqTM) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Rescue Me](https://open.spotify.com/album/57BhVBJbVPfIbwLANO5fSe) | 2:38 | 2021-11-12 |  |
+| [Rich Love](https://open.spotify.com/track/74gHAR1Zg0R8M9LcxcIu7m) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq) | [2022 Beach Club](https://open.spotify.com/album/0pIoIMRMikVtJvpAQulVYh) | 3:21 | 2022-05-13 | 2022-11-13 |
 | [Rich Love \(with Seeb\)](https://open.spotify.com/track/7aF09WaavZAmAWuUeYxlYD) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq) | [Rich Love](https://open.spotify.com/album/57Cm8PM2tz8TAvbbPFglMG) | 3:21 | 2021-11-12 | 2022-07-29 |
 | [Rich Love \(with Seeb\)](https://open.spotify.com/track/7dOeiXeTSfA1ixaYmQcWu7) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq) | [Rich Love](https://open.spotify.com/album/0fLgNovzjpxE13hCIWa0sL) | 3:21 | 2022-05-13 |  |
 | [Run](https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Run](https://open.spotify.com/album/4d0a5uamW9NWRc1KXFeErI) | 2:49 | 2021-11-12 |  |
@@ -53,6 +56,7 @@
 | [The Fighter \(feat\. Ryan Tedder\)](https://open.spotify.com/track/77ZdAoTHYoF6Umo76HFD4m) | [Gym Class Heroes](https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli) | [The Papercut Chronicles II](https://open.spotify.com/album/2mumCpGmuE9iDeOvMx6XrB) | 3:48 | 2021-11-12 |  |
 | [Wanted](https://open.spotify.com/track/6hLkeOMrhZ2CMLBp2of576) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Wanted](https://open.spotify.com/album/19xtr8RaBkQNaDaNmXnVDj) | 2:16 | 2021-11-12 |  |
 | [West Coast](https://open.spotify.com/track/0sBJA2OCEECMs0HsdIQhvR) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [West Coast](https://open.spotify.com/album/1EM2RddQo9GGjrCsE1bk7a) | 3:12 | 2022-02-25 |  |
+| [Wherever I Go](https://open.spotify.com/track/0nB0RQl2KED6yKfx8XVeCV) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Best of 2016](https://open.spotify.com/album/3YdR714ndSSVKAxy2aK5Y4) | 2:49 | 2022-05-13 | 2022-11-13 |
 | [Wherever I Go](https://open.spotify.com/track/7kftK4n15rl1wbpfjSq2Tk) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 2:49 | 2022-05-13 |  |
 | [Wherever I Go](https://open.spotify.com/track/0KdwmtG44yIDpyie4b0jCn) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Wherever I Go](https://open.spotify.com/album/5Chom5Q2CLEqUjdSdroG0K) | 2:50 | 2021-11-12 | 2022-07-29 |
 | [Wild Life](https://open.spotify.com/track/6oaQuXiRKqQq9ITJBV1XmC) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Wild Life](https://open.spotify.com/album/4a1yq8xj6XlZvbCiBvYGsa) | 4:27 | 2021-11-12 |  |

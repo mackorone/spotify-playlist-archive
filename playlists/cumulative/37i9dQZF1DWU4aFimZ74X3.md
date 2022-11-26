@@ -4,7 +4,7 @@
 
 > Music from the street racing manga series, “INITIAL D”! 「頭文字D」といえばコレ、という名曲を収録した公式プレイリスト！（C）しげの秀一／講談社・エイベックス・ピクチャーズ・オービー企画
 
-36 songs - 2 hr 54 min - [published](https://open.spotify.com/playlist/0QFdavKYPDZHPszr7caW05)
+37 songs - 3 hr 0 min - [published](https://open.spotify.com/playlist/0QFdavKYPDZHPszr7caW05)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Make Up Your Mind](https://open.spotify.com/track/6v6J9qNQ47qVZwUSnFTrmB) | [ウェイン・L](https://open.spotify.com/artist/2ijGlqErodEn6sjzcfVFl7) | [Super Eurobeat Vol.44 \(Extended Version\)](https://open.spotify.com/album/2BTTGdbnKzFiwy7ck3asPu) | 5:56 | 2022-05-24 | 2022-07-29 |
 | [Make Up Your Mind \- Extended Mix](https://open.spotify.com/track/6NnngkONzQX4f4AuqQ0kSl) | [Wain L](https://open.spotify.com/artist/483J2w9aHXcSdJWiaFwUV1) | [SUPER EUROBEAT presents INITIAL D WORLD HITS SELECTION 3](https://open.spotify.com/album/0GYleAGNGEkHkOpqVH9lk7) | 5:55 | 2022-05-24 |  |
 | [MIKADO](https://open.spotify.com/track/0WkBt7xRUDmaFVbRRqhk5F) | [Dave Mc Loud](https://open.spotify.com/artist/0mLTgcHMehi9I0PQyqD0a6) | [SUPER EUROBEAT presents INITIAL D Second Stage 〜D SELECTION 1〜](https://open.spotify.com/album/7F128tFLWQinImgDvcOmHq) | 6:04 | 2022-05-24 | 2022-07-29 |
+| [Mikado \- Extended Version](https://open.spotify.com/track/0kx5ysEDdlWT37R2uLPFfG) | [Dave MC Loud](https://open.spotify.com/artist/1CFcGw5BNYY6IeGrnQJnp5) | [Initial Beat, Vol\. 1](https://open.spotify.com/album/7jZYBIcsA5L8Nhullurmbw) | 6:03 | 2022-05-24 | 2022-11-13 |
 | [Mikado \- Extended Version](https://open.spotify.com/track/54NEJSOTHGKN7YIeA7Co6f) | [Dave MC Loud](https://open.spotify.com/artist/1CFcGw5BNYY6IeGrnQJnp5) | [Eurobeat Kudos 11](https://open.spotify.com/album/41qwgG9ANvVk3I2sxiv2df) | 6:03 | 2022-05-24 |  |
 | [NIGHT OF FIRE](https://open.spotify.com/track/0u8X3nQwowVw29hMAzCoUd) | [NIKO](https://open.spotify.com/artist/0F0Gp5ED6hZPeOJMkLTdCj) | [SUPER EUROBEAT presents INITIAL D〜D SELECTION 3〜](https://open.spotify.com/album/25aUJa5kOgWZYJRbz8mZDl) | 5:09 | 2022-05-24 |  |
 | [NO ONE SLEEP IN TOKYO](https://open.spotify.com/track/6tinyeimCbUv1CPuPBBQOH) | [EDO BOYS](https://open.spotify.com/artist/2qlGGrGnWPs3oqIib0oTSf) | [SUPER EUROBEAT presents INITIAL D 〜D SELECTION〜](https://open.spotify.com/album/1BbK1fKw0xg1HK3G0zVNTW) | 5:02 | 2022-05-24 |  |

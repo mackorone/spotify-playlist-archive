@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcadB69DKC8c.md) - [plain]
 
 > Traditional Ethiopian nostalgic Tezeta music, soul and Afro\-funk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,098 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,698 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcadB69DKC8c.md) - [plain]
 | 25 | [Radcliffe](https://open.spotify.com/track/3yPDgCeNYzu4rKik9Onjq0) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv) | [Mulatu Steps Ahead](https://open.spotify.com/album/7jEivoGNSPuXZhpO2SQrLR) | 7:54 |
 | 26 | [Yene hassab gwadegna](https://open.spotify.com/track/7upS7x0ywH5blOkOKBryty) | [Getatchew Mekurya](https://open.spotify.com/artist/3BJKbr8p7ED6GzAf1OeExO) | [Ethiopiques, Vol\. 14: Negus of Ethiopian Sax](https://open.spotify.com/album/2cqmpOhJfwWvTAJzpbdgnl) | 5:35 |
 | 27 | [Kasalefkut\-hulu \- Stereo Master](https://open.spotify.com/track/24VYlFVsEZ1ARpoVr3D5kB) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv) | [Mulatu Of Ethiopia](https://open.spotify.com/album/2FBK03r5TaxQmWMqLuOdF7) | 2:26 |
-| 28 | [Yèshèga Lidj Nègèr](https://open.spotify.com/track/6WUxsY20XPP4bKaprOYHoq) | [Mahmoud Ahmed](https://open.spotify.com/artist/1QrSgIS6RU4dgNPxLQMoha) | [Live In Paris](https://open.spotify.com/album/0kGmTDYh6sYO9EmeTWYiAv) | 6:00 |
+| 28 | [Yèshèga Lidj Nègèr](https://open.spotify.com/track/2MRcFnDYNBKE34jF3NjJLe) | [Mahmoud Ahmed](https://open.spotify.com/artist/1QrSgIS6RU4dgNPxLQMoha) | [Live In Paris](https://open.spotify.com/album/7hRfo6CmgWCk8ekWnG2zpR) | 6:00 |
 | 29 | [The Biz](https://open.spotify.com/track/5EnmWxi8cgG4XOJtfksBrX) | [The Transgressors](https://open.spotify.com/artist/1WUtHNIH3KFKWxOfS0i0KV) | [Beyond Addis 02 \(Modern Ethiopian Dance Grooves Inspired By Swinging Addis\)](https://open.spotify.com/album/0h6TpRuK6ysFLQDXPDM4yT) | 3:02 |
 | 30 | [Atawurulegn lela](https://open.spotify.com/track/30b1kh3lecbVHexEgQlozl) | [Mahmoud Ahmed](https://open.spotify.com/artist/1QrSgIS6RU4dgNPxLQMoha) | [Ethiopiques, Vol\. 7: Erè mèla mèla 1975\-1978](https://open.spotify.com/album/0SCNMJwzqp2yEji1HJkGbn) | 4:02 |
 | 31 | [Ale Gena](https://open.spotify.com/track/6EcvJS1f35yH39AKv2hVKX) | [Badume's Band](https://open.spotify.com/artist/6wTwIiZckwj2EQ3g43pPH3), [Selamnesh Zemene](https://open.spotify.com/artist/2i33wwpYJI5VHZTzdkSuU0) | [Ale Gena \- Ethiopa](https://open.spotify.com/album/6H4TP1OrZGTCNlgnJ53Wp0) | 5:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcadB69DKC8c.md) - [plain]
 | 49 | [Suur Tõll](https://open.spotify.com/track/7CrA3Zt9he26Dea8pFCYeD) | [The Sorcerers](https://open.spotify.com/artist/2eTKPnPlLHpFi8QH5aIVYA) | [The Sorcerers](https://open.spotify.com/album/5qpYtUeBDnzSttzGNgg1Je) | 4:45 |
 | 50 | [Addis Abèba bété](https://open.spotify.com/track/4G9tOUZe3bAg7IMm810hEb) | [Ukandanz](https://open.spotify.com/artist/6eid2mbg2XPVDyqdRmNIqb) | [Yetchalal \(EthioSonic\)](https://open.spotify.com/album/08isD5fKxI0WcEklKMni4k) | 5:21 |
 
-Snapshot ID: `MTY2NDIwMzgwMiwwMDAwMDAwMGU2ZDZlZDUzNTdjMDcwNjkzMTVkMzYxNGYzNTExN2Q1`
+Snapshot ID: `MTY2NDIwMzgwMiwwMDAwMDAwMDk2ZmQ3Y2RiZDcwYTZhZjdhOTU3MTI3MmIwN2MwNzFj`

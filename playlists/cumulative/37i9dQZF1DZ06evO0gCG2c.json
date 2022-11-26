@@ -31,7 +31,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": "2022-10-29",
       "duration_ms": 247453,
       "name": "9MM",
       "url": "https://open.spotify.com/track/2K6FYgz38Kzih6BGJzfD0H"
@@ -225,7 +225,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 207840,
       "name": "Belly Dancer (Bananza) - Remix",
       "url": "https://open.spotify.com/track/46PqPlhhW6MAk21IDFNLnx"
@@ -247,7 +247,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 209013,
       "name": "Blown Away",
       "url": "https://open.spotify.com/track/3nFQ4HligCOvCmaowewlLM"
@@ -295,7 +295,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 202680,
       "name": "Boss' Life",
       "url": "https://open.spotify.com/track/4UprL40OVADveANAtCNrIa"
@@ -431,7 +431,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 233013,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/0b0jmVQZ0rxs69RGq2WCu2"
@@ -507,10 +507,28 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 183206,
       "name": "Enjoy That",
       "url": "https://open.spotify.com/track/0siwM0v8NJkkKKtCT2r3Em"
+    },
+    {
+      "album": {
+        "name": "Enjoy That",
+        "url": "https://open.spotify.com/album/3y1EcdsfzSNGRDEKHQcagK"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183206,
+      "name": "Enjoy That",
+      "url": "https://open.spotify.com/track/1r3YLVQ9Tdc8edwu5NtbX2"
     },
     {
       "album": {
@@ -605,6 +623,28 @@
       "duration_ms": 235306,
       "name": "Ghetto",
       "url": "https://open.spotify.com/track/09JkIMWSVYi143LoWnY1fa"
+    },
+    {
+      "album": {
+        "name": "Good Girl",
+        "url": "https://open.spotify.com/album/5S93JhNP9BcdtAgcCxAOLt"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208604,
+      "name": "Good Girl",
+      "url": "https://open.spotify.com/track/2Z7ulQhQLbZJYyk6U2unUK"
     },
     {
       "album": {
@@ -909,7 +949,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 235066,
       "name": "Locked Up",
       "url": "https://open.spotify.com/track/0YUrjFy4qFKOO5NhM9tYdV"
@@ -927,7 +967,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-31",
+      "date_removed": null,
       "duration_ms": 235066,
       "name": "Locked Up",
       "url": "https://open.spotify.com/track/48EQasc6XD0pOQtkIOWqOC"
@@ -996,6 +1036,50 @@
     },
     {
       "album": {
+        "name": "Moonshine",
+        "url": "https://open.spotify.com/album/4RGNV1d5LVskVxfjhIapsb"
+      },
+      "artists": [
+        {
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-02",
+      "duration_ms": 303746,
+      "name": "Moonshine",
+      "url": "https://open.spotify.com/track/71Flk3ZlAs3lLCLbxMKpcu"
+    },
+    {
+      "album": {
+        "name": "Nadie Como T\u00fa",
+        "url": "https://open.spotify.com/album/4qSb1bGgD0IixbTo1HpquI"
+      },
+      "artists": [
+        {
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186290,
+      "name": "Nadie Como T\u00fa",
+      "url": "https://open.spotify.com/track/3g8QriMzqwzXjAPCuZ8LFA"
+    },
+    {
+      "album": {
         "name": "No Wahala (feat. AKON & RUNTOWN)",
         "url": "https://open.spotify.com/album/5k7JaH84J9RFAhzrCugrUQ"
       },
@@ -1015,7 +1099,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 212383,
       "name": "No Wahala (feat. Akon & Runtown)",
       "url": "https://open.spotify.com/track/03MxQe4F8TGGZSs4Zyha4b"
@@ -1387,7 +1471,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 210285,
       "name": "Stick Around",
       "url": "https://open.spotify.com/track/1SZ5EEmCQ03fRAHnFNYW8N"
@@ -1421,6 +1505,28 @@
       "duration_ms": 241133,
       "name": "Sweetest Girl (Dollar Bill) (feat. Akon, Lil' Wayne & Niia)",
       "url": "https://open.spotify.com/track/4liGjmhCupa7RP9JaQELYx"
+    },
+    {
+      "album": {
+        "name": "Tell Me We're Ok - Single",
+        "url": "https://open.spotify.com/album/0YKav7VhBM8vUefVsGCNvT"
+      },
+      "artists": [
+        {
+          "name": "DJ Hardwerk",
+          "url": "https://open.spotify.com/artist/5eX67XYPPv11MhDIdIoCN4"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278740,
+      "name": "Tell Me We're Ok",
+      "url": "https://open.spotify.com/track/6gHG47OtyMngVSvRSw6tuH"
     },
     {
       "album": {
@@ -1483,7 +1589,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 241906,
       "name": "The Sweet Escape - Konvict Remix",
       "url": "https://open.spotify.com/track/0ymJhXkz2lOige2zbloaYv"

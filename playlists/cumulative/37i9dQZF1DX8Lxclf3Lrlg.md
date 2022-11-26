@@ -4,7 +4,7 @@
 
 > <a href="https://www.alibiharlem.com/">Alibi Lounge</a> is an openly LGBTQQIA+ lounge in Harlem whose soundtrack reflects the many ways in which they show their Pride in the heart of NYC\. Let the music play!
 
-52 songs - 3 hr 0 min - [published](https://open.spotify.com/playlist/0I6NjmMieaYkwAHKRc1A0L)
+54 songs - 3 hr 8 min - [published](https://open.spotify.com/playlist/0I6NjmMieaYkwAHKRc1A0L)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [APESHIT](https://open.spotify.com/track/0E6PsO3ymCfUh7pJQjBgkj) | [The Carters](https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu) | [EVERYTHING IS LOVE](https://open.spotify.com/album/3hCiP4V5Mu3Y0Z8lb70iDp) | 4:24 | 2021-05-31 |  |
 | [Are You That Somebody](https://open.spotify.com/track/0ZTJrZ1axCUmP1fiFzyabF) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Annabelle \- The Complete Fantasy Playlist](https://open.spotify.com/album/2OCSWme6Y5SPnG15F2He0v) | 4:25 | 2021-05-31 | 2022-07-29 |
 | [Are You That Somebody](https://open.spotify.com/track/3PqAnW2bB5TQnMoBivyFOb) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [I Care 4 U](https://open.spotify.com/album/50GHwAog5gmnqkypVkDso8) | 4:25 | 2021-05-31 |  |
+| [Are You That Somebody](https://open.spotify.com/track/6PN8OuYPNHgZ2xJsiHcRO3) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Ultimate Aaliyah](https://open.spotify.com/album/6WIR99PZ2ch3SdM4zs3WO5) | 4:27 | 2021-05-31 | 2022-11-13 |
 | [ATM \(feat\. Missy Elliott\)](https://open.spotify.com/track/3cqm5i4yDaNuzu9oQmQzBC) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [2000AND4EVA](https://open.spotify.com/album/4lmOcEBG9fJjc6UeMbttVt) | 3:07 | 2021-05-31 |  |
 | [Ayy Ladies \(feat\. Tyga\)](https://open.spotify.com/track/4P6BuLsqtg5uISdE77ypI9) | [Travis Porter](https://open.spotify.com/artist/6z1cicLMt9XArxN10q7m8a), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [From Day 1](https://open.spotify.com/album/7co2UrRxl2TBgj3BCXIvnC) | 3:31 | 2021-05-31 |  |
 | [Baby Boy \(feat\. Sean Paul\)](https://open.spotify.com/track/4WY3HyGXsWqjFRCVD6gnTe) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 4:04 | 2021-05-31 |  |
@@ -23,6 +24,7 @@
 | [Bring It Back](https://open.spotify.com/track/6VWUOFXGwH1OgyPrfRONrn) | [Travis Porter](https://open.spotify.com/artist/6z1cicLMt9XArxN10q7m8a) | [From Day 1](https://open.spotify.com/album/7co2UrRxl2TBgj3BCXIvnC) | 3:37 | 2021-05-31 |  |
 | [Conceited \(There's Something About Remy\)](https://open.spotify.com/track/2OcBwebjQsdJy76zWvLQvn) | [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6) | [There's Something About Remy\-Based On A True Story \(Explicit\)](https://open.spotify.com/album/3fsD8zvVTghKqePQ19oKLO) | 3:39 | 2021-05-31 |  |
 | [Conceited \(There's Something About Remy\)](https://open.spotify.com/track/2R4KCSHfWuYiCMSu9f0nuc) | [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6) | [There's Something About Remy\-Based On A True Story](https://open.spotify.com/album/6y9AdbqYziDJmcLSyyOsGO) | 3:39 | 2021-05-31 | 2022-07-29 |
+| [Conceited \(There's Something About Remy\)](https://open.spotify.com/track/7iSBS8zvH9FGe1PKEq7jH2) | [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6) | [Global Hot](https://open.spotify.com/album/2mDZwfl8ZzcbYzaZX77jvS) | 3:39 | 2021-05-31 | 2022-11-13 |
 | [Cry Baby \(feat\. DaBaby\)](https://open.spotify.com/track/4aarlAfLKVCTxUDNgbwhjH) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 2:17 | 2021-05-31 |  |
 | [Dior](https://open.spotify.com/track/79s5XnCN4TJKTVMSmOx8Ep) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo](https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf) | 3:36 | 2021-05-31 |  |
 | [Djadja](https://open.spotify.com/track/7sKDftgGirHWTVFMtJoDoh) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [NAKAMURA](https://open.spotify.com/album/3jqQFIXUakuDXdhFVvI7Ko) | 2:51 | 2021-05-31 |  |

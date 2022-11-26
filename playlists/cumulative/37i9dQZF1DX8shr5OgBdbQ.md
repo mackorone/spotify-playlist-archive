@@ -4,7 +4,7 @@
 
 > centuries\-old sailor songs gone viral \- it's sea shanty season, baby.
 
-81 songs - 4 hr 8 min - [published](https://open.spotify.com/playlist/6GvH0VpVCfijhWjgTOMewu)
+84 songs - 4 hr 20 min - [published](https://open.spotify.com/playlist/6GvH0VpVCfijhWjgTOMewu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Mingulay Boat Song](https://open.spotify.com/track/6Kh9uXCwBCaSJUaNI4IYBE) | [Richard Thompson](https://open.spotify.com/artist/5w75MoT8FfcGOMgjgrj1cz) | [Rogue's Gallery: Pirate Ballads, Sea Song And Chanteys](https://open.spotify.com/album/2nEFRJfFVgdcPGKv9atYBg) | 4:13 | 2022-03-10 |  |
 | [Northwest Passage](https://open.spotify.com/track/4WKs2iDdrR2fA8T3hlCanB) | [Stan Rogers](https://open.spotify.com/artist/3cS04S9ChhEClgDghrhOzg) | [Northwest Passage](https://open.spotify.com/album/6GQskZhcw8OppDepxNSUSX) | 4:49 | 2022-06-29 |  |
 | [Northwest Passage](https://open.spotify.com/track/1LMJZeNGgZ5aqHR1yqd8Fy) | [Stan Rogers](https://open.spotify.com/artist/3cS04S9ChhEClgDghrhOzg) | [Northwest Passage \(Remastered\)](https://open.spotify.com/album/2bDui7IgyN8xbPNLEJfNcz) | 4:49 | 2022-03-10 | 2022-07-29 |
+| [Northwest Passage](https://open.spotify.com/track/2P1ql6npuP7bnsWMoisarq) | [Stan Rogers](https://open.spotify.com/artist/3cS04S9ChhEClgDghrhOzg) | [Northwest Passage \(Remastered\)](https://open.spotify.com/album/4vGCOoQXIorKp1u7zAfOqg) | 4:49 | 2022-06-29 | 2022-11-14 |
 | [Northwest Passage](https://open.spotify.com/track/1hdTybj7Tj4jmi7Llfn5fS) | [Unleash The Archers](https://open.spotify.com/artist/6irKXFXk2sPNmHtKqmrfuU) | [Northwest Passage](https://open.spotify.com/album/0gER17gagORy64nTwGsKwH) | 4:35 | 2022-03-10 | 2022-07-29 |
 | [Northwest Passage](https://open.spotify.com/track/3Fiz4tFoVBosOUm2uMgdlL) | [Unleash The Archers](https://open.spotify.com/artist/6irKXFXk2sPNmHtKqmrfuU) | [Explorers](https://open.spotify.com/album/4WJhOrVgd62jxH0wWh6Qfh) | 4:35 | 2022-06-29 |  |
 | [Once You Were My Lover](https://open.spotify.com/track/09F7rmAgIl6TtJQpoA99bi) | [Méav](https://open.spotify.com/artist/0nBRo87bTZegzYDnIiWkH7) | [The Calling](https://open.spotify.com/album/3xPuzuGEOE8PT5rSXy5hU8) | 3:35 | 2022-03-10 |  |
@@ -84,7 +85,9 @@
 | [The Maiden and the Selkie](https://open.spotify.com/track/4U4T8QO8Cci2ubSo0B089I) | [Heather Dale](https://open.spotify.com/artist/4NCKwyk9WVY6YI81tRQTLA) | [The Green Knight](https://open.spotify.com/album/46RYQdFwzrH94oqJeFISaD) | 4:06 | 2022-03-10 | 2022-07-29 |
 | [The Maiden and the Selkie](https://open.spotify.com/track/6mm3BGVN6zER6t8mDjM8cQ) | [Heather Dale](https://open.spotify.com/artist/4NCKwyk9WVY6YI81tRQTLA) | [The Green Knight](https://open.spotify.com/album/1X476e9gq68JcrEMPkOleb) | 4:06 | 2022-06-29 |  |
 | [The Voyage of the James Caird](https://open.spotify.com/track/0SYC9Cmjty5bKDQ6mqj3nw) | [Graeme James](https://open.spotify.com/artist/09b4q9Vfmuvxb8LuOrhp7W) | [Seasons](https://open.spotify.com/album/1M6FxxDFYxCn1DYwOXqnjs) | 4:50 | 2022-06-29 |  |
+| [The Voyage of the James Caird](https://open.spotify.com/track/1fbZTkb59Ak6iRxMGaMhn4) | [Graeme James](https://open.spotify.com/artist/09b4q9Vfmuvxb8LuOrhp7W) | [The Weight of Many Winters](https://open.spotify.com/album/3lF1DEsmnHVH3smDy61ZM5) | 4:50 | 2022-06-29 | 2022-11-13 |
 | [The Voyage of the James Caird](https://open.spotify.com/track/5wVeEIDipWe8qH8uPkAAEv) | [Graeme James](https://open.spotify.com/artist/09b4q9Vfmuvxb8LuOrhp7W) | [The Weight of Many Winters](https://open.spotify.com/album/66ohN6TdRvK9opK3FT4uZ1) | 4:50 | 2022-03-10 | 2022-07-29 |
+| [Wellerman](https://open.spotify.com/track/2mSJqOCHxWfVkXYUXja92I) | [The Longest Johns](https://open.spotify.com/artist/5k979N1TnPncUyqlXlaRSv) | [Seemannslieder / Sea Shanty](https://open.spotify.com/album/3nagOcNnsjwAseelaXXKcW) | 2:16 | 2022-06-29 | 2022-11-13 |
 | [Wellerman](https://open.spotify.com/track/6ZblDQM0Gq0daaPAwuHOmD) | [The Longest Johns](https://open.spotify.com/artist/5k979N1TnPncUyqlXlaRSv) | [Between Wind And Water](https://open.spotify.com/album/0czdThetfLyCdGpAF2dRqR) | 2:16 | 2022-06-29 |  |
 | [Wellerman](https://open.spotify.com/track/3oUuRNgyIuiqVTWLCChp3s) | [The Longest Johns](https://open.spotify.com/artist/5k979N1TnPncUyqlXlaRSv) | [Between Wind and Water](https://open.spotify.com/album/00B1vpnbtfEPYWOBL5jp6h) | 2:18 | 2022-03-10 | 2022-07-29 |
 | [Wellerman \- Sea Shanty](https://open.spotify.com/track/54OBgO0Xwu20Jak9TMXbR7) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo) | [Wellerman \(Sea Shanty\)](https://open.spotify.com/album/1AK6peN1DwvYRXN19cqWoP) | 2:35 | 2022-03-10 |  |

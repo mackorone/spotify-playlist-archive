@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New no wave, post-punk, and anything else. Cover: Viagra Boys",
+  "description": "New no wave, post-punk, and anything else. Cover: The Cool Greenhouse",
   "name": "Post Punk",
   "published_playlist_ids": [
     "0Kwx2x0cfXxWAWrkYyuEPR"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 178654,
       "name": "Avoidarama",
       "url": "https://open.spotify.com/track/1nS6ebZc8rmr9l5d9NpLqJ"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": "2022-11-19",
       "duration_ms": 83326,
       "name": "B Boys Anthem",
       "url": "https://open.spotify.com/track/3vMZ1zERSM8QbPW8aA0t49"
@@ -707,10 +707,28 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 481813,
       "name": "Broke",
       "url": "https://open.spotify.com/track/1RRs8pwqvg6mnp8r0x4Riq"
+    },
+    {
+      "album": {
+        "name": "Broke",
+        "url": "https://open.spotify.com/album/7dZ9qTh9zCpCnsL7rg3USY"
+      },
+      "artists": [
+        {
+          "name": "Scott Lavene",
+          "url": "https://open.spotify.com/artist/6dpTFwhi4Z3QIJeOxjZB3n"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 481813,
+      "name": "Broke",
+      "url": "https://open.spotify.com/track/2AWol3mrxzUfXb171vO7Jw"
     },
     {
       "album": {
@@ -1038,6 +1056,24 @@
     },
     {
       "album": {
+        "name": "Welfare Jazz",
+        "url": "https://open.spotify.com/album/2UorQ6UuGys6Ivsg1exRSu"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212910,
+      "name": "Creatures",
+      "url": "https://open.spotify.com/track/44EomP7rHWhp6W0zyEue2s"
+    },
+    {
+      "album": {
         "name": "Crow's Perch",
         "url": "https://open.spotify.com/album/0B0Z0UFqsSCUBdM2nKgSVk"
       },
@@ -1121,7 +1157,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 185248,
       "name": "Dark Days",
       "url": "https://open.spotify.com/track/7wLy2immx4tw3qgiH7ZogP"
@@ -1496,6 +1532,24 @@
     },
     {
       "album": {
+        "name": "Fingers of Steel",
+        "url": "https://open.spotify.com/album/0T2Qic0OPQrVJmyMAxhH4y"
+      },
+      "artists": [
+        {
+          "name": "shame",
+          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261384,
+      "name": "Fingers of Steel",
+      "url": "https://open.spotify.com/track/1v1jlj1qT3oDjozh5rOlC6"
+    },
+    {
+      "album": {
         "name": "flutter",
         "url": "https://open.spotify.com/album/0r2dEhL4Ijur6WDzvgXygl"
       },
@@ -1712,6 +1766,24 @@
     },
     {
       "album": {
+        "name": "Sod's Toastie",
+        "url": "https://open.spotify.com/album/25WIUYxIhGxeXSipIvxYFd"
+      },
+      "artists": [
+        {
+          "name": "The Cool Greenhouse",
+          "url": "https://open.spotify.com/artist/3t1nM1F3Ynmt6Ft7ouWYmW"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196493,
+      "name": "Get Unjaded",
+      "url": "https://open.spotify.com/track/2SG9JJ08AAhwS993F6srEj"
+    },
+    {
+      "album": {
         "name": "Get Yourself A Friend",
         "url": "https://open.spotify.com/album/3gww43ZrPNH04JYZ5Gkg7E"
       },
@@ -1727,6 +1799,24 @@
       "duration_ms": 230386,
       "name": "Get Yourself A Friend",
       "url": "https://open.spotify.com/track/6kwpiJvZLscW06vXl42jjr"
+    },
+    {
+      "album": {
+        "name": "Welfare Jazz",
+        "url": "https://open.spotify.com/album/2UorQ6UuGys6Ivsg1exRSu"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279817,
+      "name": "Girls & Boys",
+      "url": "https://open.spotify.com/track/1kLnA3KtwwY9XeHNFjIHWK"
     },
     {
       "album": {
@@ -1795,7 +1885,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-10",
+      "date_removed": null,
       "duration_ms": 347506,
       "name": "Good morning (red)",
       "url": "https://open.spotify.com/track/5Hr3cBLE1Qe7zAw6n1iGHW"
@@ -1853,6 +1943,24 @@
       "duration_ms": 157199,
       "name": "Goodnight",
       "url": "https://open.spotify.com/track/4p9oD9628pjRospq8ztiCU"
+    },
+    {
+      "album": {
+        "name": "Sweet Princess EP",
+        "url": "https://open.spotify.com/album/2RoDiBN2teda8nQ33CO2WR"
+      },
+      "artists": [
+        {
+          "name": "Dry Cleaning",
+          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 157199,
+      "name": "Goodnight",
+      "url": "https://open.spotify.com/track/6EMxqMzbCNZHQn1jeiav6q"
     },
     {
       "album": {
@@ -1993,7 +2101,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 183922,
       "name": "hollow scene",
       "url": "https://open.spotify.com/track/2hDt5BixP1kCcIbFUXbsjz"
@@ -2101,10 +2209,28 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-16",
       "duration_ms": 258130,
       "name": "Houseplants",
       "url": "https://open.spotify.com/track/3Q1Q4dftyBYbcCa0YFIhUD"
+    },
+    {
+      "album": {
+        "name": "Houseplants",
+        "url": "https://open.spotify.com/album/1YDyZrS75xgT5CQnNQQCVx"
+      },
+      "artists": [
+        {
+          "name": "Squid",
+          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258130,
+      "name": "Houseplants",
+      "url": "https://open.spotify.com/track/5mWlyBpAyIpP1lI1AXjln4"
     },
     {
       "album": {
@@ -2497,7 +2623,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-10",
+      "date_removed": "2022-11-13",
       "duration_ms": 220693,
       "name": "Kebab Spider",
       "url": "https://open.spotify.com/track/14jchGOlTJQ91SNYVCSTLr"
@@ -2720,6 +2846,24 @@
     },
     {
       "album": {
+        "name": "It's a Myth",
+        "url": "https://open.spotify.com/album/4RgV6eObleITuJIV0cfF6k"
+      },
+      "artists": [
+        {
+          "name": "Sneaks",
+          "url": "https://open.spotify.com/artist/40iUcsx6LWJ0DEPryPmU30"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 197613,
+      "name": "Look Like That",
+      "url": "https://open.spotify.com/track/7aW0CpzMvI4MjptzitR24G"
+    },
+    {
+      "album": {
         "name": "Love Me Do Again",
         "url": "https://open.spotify.com/album/4T4T30hUA1MfwaZiMaz1eM"
       },
@@ -2915,6 +3059,24 @@
       "duration_ms": 202000,
       "name": "Modern Job",
       "url": "https://open.spotify.com/track/0Bz4RD9u6sEJT29N7b4iRy"
+    },
+    {
+      "album": {
+        "name": "Either Light",
+        "url": "https://open.spotify.com/album/7xEUEQPJ4vpZ9JVpnb1nWT"
+      },
+      "artists": [
+        {
+          "name": "Vundabar",
+          "url": "https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 194867,
+      "name": "Montage Music",
+      "url": "https://open.spotify.com/track/3c0WNan3RX8ge7dRiCo8ON"
     },
     {
       "album": {
@@ -3733,7 +3895,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 170028,
       "name": "Reset My Password",
       "url": "https://open.spotify.com/track/6CKslfcC4WXPRFAjSItYm7"
@@ -3845,7 +4007,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 232484,
       "name": "Saturn",
       "url": "https://open.spotify.com/track/31FslokX6FqQWVHIaVy4hY"
@@ -4061,7 +4223,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-22",
+      "date_removed": "2022-11-13",
       "duration_ms": 336624,
       "name": "Slow (Loud)",
       "url": "https://open.spotify.com/track/0SFIzioQ4DRVYt58rSAPCs"
@@ -4379,10 +4541,28 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 299068,
       "name": "Suntan",
       "url": "https://open.spotify.com/track/3dX7k03fCG9VANcuLDiomu"
+    },
+    {
+      "album": {
+        "name": "Suntan / Damocles",
+        "url": "https://open.spotify.com/album/70f6EBng70szXUJiSOOIVC"
+      },
+      "artists": [
+        {
+          "name": "Model/Actriz",
+          "url": "https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299068,
+      "name": "Suntan",
+      "url": "https://open.spotify.com/track/72sGHMTpdj1ebZeEcEs58p"
     },
     {
       "album": {
@@ -4945,7 +5125,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 274933,
       "name": "Tropic",
       "url": "https://open.spotify.com/track/3bbPxO1xTChWg6wVHDUl4T"
@@ -5147,7 +5327,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 248267,
       "name": "Who's My Eugene? - Edit",
       "url": "https://open.spotify.com/track/3VTH9rhnc8jceZAU90hzwt"

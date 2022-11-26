@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Oh'laville",
+  "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Don Tetto",
   "name": "Rock Colombia",
   "published_playlist_ids": [
     "11Mc0pmsFxafTtRY7OU2qP"
@@ -221,6 +221,24 @@
       "duration_ms": 192787,
       "name": "Antes de Que Sea Muy Tarde",
       "url": "https://open.spotify.com/track/5bIuihsCdiDMA6MmlGFgre"
+    },
+    {
+      "album": {
+        "name": "Antiamor",
+        "url": "https://open.spotify.com/album/0uIgAixzHB6PT6MChRONXu"
+      },
+      "artists": [
+        {
+          "name": "The Mills",
+          "url": "https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223654,
+      "name": "Antiamor",
+      "url": "https://open.spotify.com/track/5vLg2iDE8pb6uLu11e1Vvf"
     },
     {
       "album": {
@@ -545,7 +563,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-04",
+      "date_removed": null,
       "duration_ms": 276986,
       "name": "Cielo",
       "url": "https://open.spotify.com/track/4GGLQlWCSbVlbBiWxeqzTz"
@@ -860,6 +878,24 @@
     },
     {
       "album": {
+        "name": "La Gran Oscilaci\u00f3n",
+        "url": "https://open.spotify.com/album/4MXOy6mUrmXj4SXlTCSVC4"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 204400,
+      "name": "D\u00e9jala Rodar",
+      "url": "https://open.spotify.com/track/560cSoD6PzX6Rot8peH1RG"
+    },
+    {
+      "album": {
         "name": "Atardeceres Tard\u00edos",
         "url": "https://open.spotify.com/album/30qr3LfRYK26OGau1PyRXH"
       },
@@ -1091,7 +1127,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": "2022-11-23",
       "duration_ms": 175724,
       "name": "El Viejo",
       "url": "https://open.spotify.com/track/0OeQTNHCtHLc9KX7X7GFbb"
@@ -1561,7 +1597,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 327296,
       "name": "La Fuente",
       "url": "https://open.spotify.com/track/2c6niSBI2M7gqVK1tWwEhu"
@@ -1601,7 +1637,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 157621,
       "name": "LA KAGASTE",
       "url": "https://open.spotify.com/track/397xwirGVub2jfXfHlJnha"
@@ -2401,7 +2437,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-26",
       "duration_ms": 253150,
       "name": "Pimpinella",
       "url": "https://open.spotify.com/track/2AWR5s0EOIKrmKjh77hTDF"
@@ -2567,6 +2603,24 @@
       "duration_ms": 291140,
       "name": "Puede Que",
       "url": "https://open.spotify.com/track/0TOo2kjs8fOhRQYl5OvjXv"
+    },
+    {
+      "album": {
+        "name": "Castillos de Arena",
+        "url": "https://open.spotify.com/album/6ufTtCn7TfxmFDrcxLNXoB"
+      },
+      "artists": [
+        {
+          "name": "Don Tetto",
+          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196437,
+      "name": "Punto Final",
+      "url": "https://open.spotify.com/track/56YcLUmZ3d7cJOxOin7y9A"
     },
     {
       "album": {
@@ -2765,7 +2819,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 211746,
       "name": "Sangre de Pr\u00f3fugo",
       "url": "https://open.spotify.com/track/1r7yQwhdxRWhRWKh8OkmsE"
@@ -3061,7 +3115,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 198545,
       "name": "Te Valgo",
       "url": "https://open.spotify.com/track/6ZaupuaHRssvSlkz9NrD4p"
@@ -3277,7 +3331,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 212666,
       "name": "T\u00fanel",
       "url": "https://open.spotify.com/track/5geCse4zvXqjXBoobaLuRH"

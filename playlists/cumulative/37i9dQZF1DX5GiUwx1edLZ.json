@@ -285,7 +285,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": "2022-11-13",
       "duration_ms": 177364,
       "name": "BED - Acoustic",
       "url": "https://open.spotify.com/track/6tIc4TnrcyqILXEyx8QKAm"
@@ -575,7 +575,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 171743,
       "name": "Crazy - Acoustic Version",
       "url": "https://open.spotify.com/track/5HhEkkAFcGMYLQbF6GUa6C"
@@ -751,7 +751,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 209774,
       "name": "Don't Think Twice, It's All Right",
       "url": "https://open.spotify.com/track/2m3ouxt4GwarBCRCmwDJdO"
@@ -905,7 +905,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 151874,
       "name": "End Of The World - Acoustic Mix",
       "url": "https://open.spotify.com/track/1K2qPDIqk0DdvAsARjCmGt"
@@ -927,7 +927,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 177605,
       "name": "False Alarm - Acoustic Version",
       "url": "https://open.spotify.com/track/1HtZGloe3ovx3CadjR97dr"
@@ -1898,6 +1898,24 @@
     },
     {
       "album": {
+        "name": "Nirvana",
+        "url": "https://open.spotify.com/album/4v62Eu3WGIFCBMy9WlD7hY"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 221049,
+      "name": "Latch - Acoustic",
+      "url": "https://open.spotify.com/track/3XyU03WycJQ02kExHb9dqW"
+    },
+    {
+      "album": {
         "name": "In The Lonely Hour (Drowning Shadows Edition)",
         "url": "https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x"
       },
@@ -1945,7 +1963,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 182973,
       "name": "Leave The World Behind",
       "url": "https://open.spotify.com/track/5baBmxsbZqUYCZ6Mgo1txk"
@@ -2612,6 +2630,28 @@
     },
     {
       "album": {
+        "name": "Not Coming Down",
+        "url": "https://open.spotify.com/album/465nP7hlj5ZkjAMfSrufPF"
+      },
+      "artists": [
+        {
+          "name": "Ferry Corsten",
+          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
+        },
+        {
+          "name": "Betsie Larkin",
+          "url": "https://open.spotify.com/artist/60pOmdZFfpHQdN9QOnMJcP"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 216716,
+      "name": "Not Coming Down - Acoustic Mix",
+      "url": "https://open.spotify.com/track/2Crl8xby52nTrPFCj6sJGF"
+    },
+    {
+      "album": {
         "name": "Old Friend / Capricorn (Live Acoustic)",
         "url": "https://open.spotify.com/album/7tylMldS4qydgtd5PTJQsN"
       },
@@ -2681,7 +2721,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": "2022-11-13",
       "duration_ms": 149826,
       "name": "One More Dance (with Alida) [Acoustic]",
       "url": "https://open.spotify.com/track/5FgaliVjl9EQzIVK7xMkKP"
@@ -2827,6 +2867,28 @@
       "duration_ms": 185019,
       "name": "Paradise - Acoustic",
       "url": "https://open.spotify.com/track/2t2ZWNGHKBD0egqxtCLloy"
+    },
+    {
+      "album": {
+        "name": "Paradise (The Acoustics)",
+        "url": "https://open.spotify.com/album/7Jhw4zniJdzFWMt7iPmtZK"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 185019,
+      "name": "Paradise - Guitar Acoustic",
+      "url": "https://open.spotify.com/track/6GlMK7hhbyC0mlC3x5r3IY"
     },
     {
       "album": {
@@ -3441,7 +3503,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 169846,
       "name": "Shelter",
       "url": "https://open.spotify.com/track/5kyvAU6QooIxhMEtUOcIO3"
@@ -3609,7 +3671,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-22",
+      "date_removed": "2022-11-13",
       "duration_ms": 214244,
       "name": "Starlight (Piano Version)",
       "url": "https://open.spotify.com/track/0mOvN6JOJcW2Y4PHfIDqYQ"
@@ -4167,7 +4229,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 192724,
       "name": "This Is What It Feels Like - John Ewbank Classical Remix",
       "url": "https://open.spotify.com/track/77Rx3xMZWX1NxEUnFwQavQ"
@@ -4225,7 +4287,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-02",
+      "date_removed": "2022-11-13",
       "duration_ms": 181934,
       "name": "Used To Have It All - Acoustic",
       "url": "https://open.spotify.com/track/7ITWyuMyhjlR9PRQhQtA1l"
@@ -4269,7 +4331,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-03",
+      "date_removed": "2022-11-13",
       "duration_ms": 229701,
       "name": "Waiting - Strings & Vocals Mix",
       "url": "https://open.spotify.com/track/6ctvgLJJZQkdzch0L1dj7X"
@@ -4367,6 +4429,24 @@
       "duration_ms": 174266,
       "name": "Waves",
       "url": "https://open.spotify.com/track/3s8GJ1A9ujxsKcLaJ2wY7Q"
+    },
+    {
+      "album": {
+        "name": "Against The Stream",
+        "url": "https://open.spotify.com/album/3JAm80THuCoZ30fXcGvJ37"
+      },
+      "artists": [
+        {
+          "name": "Mr. Probz",
+          "url": "https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 174266,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/4Ypy8yZMcolsBHV9Je2knq"
     },
     {
       "album": {
@@ -4697,7 +4777,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": null,
       "duration_ms": 186754,
       "name": "Zedd Medley - Find You/Spectrum/Clarity/Stay the Night",
       "url": "https://open.spotify.com/track/3BLFyxm5MDU1UmNILcuC8R"

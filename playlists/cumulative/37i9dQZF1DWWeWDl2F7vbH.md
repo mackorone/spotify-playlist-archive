@@ -4,7 +4,7 @@
 
 > Celebrating the iconic tracks from the black queer club scene in 1980s and 1990s Chicago \- the defining era of house music\. Cover: Frankie Knuckles
 
-71 songs - 7 hr 23 min - [published](https://open.spotify.com/playlist/6Yv4Yq1148W8YtnN6t5EXN)
+73 songs - 7 hr 40 min - [published](https://open.spotify.com/playlist/6Yv4Yq1148W8YtnN6t5EXN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Acid Thunder](https://open.spotify.com/track/2vR3tdPA1GsuIrJpmahB4X) | [Fast Eddie](https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv) | [Jack to the Sound](https://open.spotify.com/album/3lwFe9HmbSXyTjoWHlX9y9) | 4:32 | 2021-06-01 | 2022-07-29 |
 | [Acid Tracks](https://open.spotify.com/track/05kXJj11PCg7aIWvQxp683) | [Phuture](https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70) | [Acid Tracks](https://open.spotify.com/album/2ytfCSG1WHfz2LP2rGjQ1x) | 12:17 | 2021-06-01 | 2022-07-29 |
 | [Acid Tracks](https://open.spotify.com/track/2aLXJJ2zOsBJlGTxiG0yMi) | [Phuture](https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70) | [Acid Tracks](https://open.spotify.com/album/6g7DeZAKsyubcQpyWw7WZZ) | 12:17 | 2021-06-01 |  |
+| [Acid Tracks](https://open.spotify.com/track/63eiF9VouGtmhiBKjm1LHU) | [Phuture](https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70) | [Acid Tracks](https://open.spotify.com/album/3yXJAOqJTv38NrPlwzCZro) | 12:19 | 2021-06-01 | 2022-11-13 |
 | [Altered States \- Original Version](https://open.spotify.com/track/4Ps7ZJ2YJmQhmEpHhPZ5Pu) | [Ron Trent](https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d) | [Altered States Blak Tech Society \(Remixes and Rethinks\)](https://open.spotify.com/album/3jBDwYYSaq2mvWLaQbjx5Q) | 13:40 | 2021-06-01 |  |
 | [Beautiful People \- Underground Network Mix](https://open.spotify.com/track/6WnWvRVzXJWEHxkhDKmt8u) | [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w) | [Beautiful People \(Remixes\)](https://open.spotify.com/album/4FjqVqy1KwVl5VinivSgKN) | 9:06 | 2021-06-01 |  |
 | [Bring Down the Walls \- Club 12" Mix](https://open.spotify.com/track/5B877qrirzwdOZUzNZ8GJj) | [Robert Owens](https://open.spotify.com/artist/407nV5hO7mZap3UJdpTr4t) | [Sources \- The Trax Records Anthology Compiled by Bill Brewster](https://open.spotify.com/album/1k8Bqa4KCK7ihCuyljIoBC) | 5:37 | 2021-06-01 |  |
@@ -49,6 +50,7 @@
 | [Let The Music Take Control](https://open.spotify.com/track/2cQKELIwtNGxQw25SizKXp) | [Tyree](https://open.spotify.com/artist/0GLde9xobyOX0vNW3nY9pt) | [Jack'd Volume 1](https://open.spotify.com/album/3v0VLJ61hZHGXREAIJWc4j) | 5:19 | 2021-06-01 |  |
 | [Life Is Like A Circle](https://open.spotify.com/track/0339d9dCac6LbaHkF9gFIA) | [Derrick Carter](https://open.spotify.com/artist/3XwBizyFmbCCUFcdcsvMmm), [Chris Nazuka](https://open.spotify.com/artist/3poidKVZ5SL4RXJG89pfhY) | [A Red Nail Relic](https://open.spotify.com/album/26A316XCguaCdZKDHSQtNw) | 6:32 | 2021-06-01 |  |
 | [Life Is Like A Circle](https://open.spotify.com/track/1UP4rDAPPP9MwyUCFGAbWA) | [Derrick Carter](https://open.spotify.com/artist/3XwBizyFmbCCUFcdcsvMmm), [Chris Nazuka](https://open.spotify.com/artist/3poidKVZ5SL4RXJG89pfhY) | [A Red Nail Relic](https://open.spotify.com/album/21E87HF32raN1KLWdEX5go) | 6:32 | 2021-06-01 | 2022-07-29 |
+| [Love Can't Turn Around](https://open.spotify.com/track/3VkRZoBcxH9YElQmuuup7U) | [Darryl Pandy](https://open.spotify.com/artist/4DdTAu2ze9ocUPqcFg1sKs) | [Love Can't Turn Around](https://open.spotify.com/album/6dHZ3tQRgpTTDml5Ed6mn1) | 4:13 | 2021-06-01 | 2022-11-13 |
 | [Love Can't Turn Around](https://open.spotify.com/track/3al6ULdpX9IOZIFEZCAxT1) | [Farley "Jackmaster" Funk](https://open.spotify.com/artist/0B9P7RXrukgIdmutz9XMVN) | [Farley "Jackmaster" Funk](https://open.spotify.com/album/1BZmUUewG88xIvYjXY0VUb) | 4:11 | 2021-06-01 |  |
 | [Love Can't Turn Around \(Original Mix\)](https://open.spotify.com/track/37cwvKWbzlim74LV27VDxS) | [Farley "Jackmaster" Funk](https://open.spotify.com/artist/0B9P7RXrukgIdmutz9XMVN), [Darryl Pandy](https://open.spotify.com/artist/4DdTAu2ze9ocUPqcFg1sKs) | [Farley Jackmaster Funk](https://open.spotify.com/album/1dqRqbXfDnEdoxbHCzeZkl) | 4:11 | 2021-06-01 | 2022-07-29 |
 | [May Datroit](https://open.spotify.com/track/51BkUYUUCjHmQ0l1gRVT59) | [Glenn Underground](https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc) | [Atmosfear](https://open.spotify.com/album/6l6VDvfN2xbSz6sFDXWJxz) | 5:34 | 2021-06-01 |  |

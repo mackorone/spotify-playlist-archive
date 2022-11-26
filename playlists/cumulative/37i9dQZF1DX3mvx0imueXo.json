@@ -207,6 +207,24 @@
     {
       "album": {
         "name": "Gemini",
+        "url": "https://open.spotify.com/album/4TGkpeR5mcuh4C3Nnw1gM8"
+      },
+      "artists": [
+        {
+          "name": "Etana",
+          "url": "https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200370,
+      "name": "Bubble",
+      "url": "https://open.spotify.com/track/0Wszs6jrBwK0YO2vYLb1We"
+    },
+    {
+      "album": {
+        "name": "Gemini",
         "url": "https://open.spotify.com/album/4zpuo5gvZ9Ncqliyl5ReeH"
       },
       "artists": [
@@ -217,7 +235,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 200370,
       "name": "Bubble",
       "url": "https://open.spotify.com/track/2kksFG87MypmLRTw8laNY9"
@@ -297,7 +315,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 240613,
       "name": "Country For Sale",
       "url": "https://open.spotify.com/track/68oDnG7v4aBLMuv1eai4Wz"
@@ -319,6 +337,54 @@
       "duration_ms": 229640,
       "name": "Cry Cry Blood",
       "url": "https://open.spotify.com/track/6B8Q0LnJePTTaRGCo2tdwG"
+    },
+    {
+      "album": {
+        "name": "Dinero",
+        "url": "https://open.spotify.com/album/7HhFor3YfnUxzOkNIjVGxj"
+      },
+      "artists": [
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173251,
+      "name": "Dinero",
+      "url": "https://open.spotify.com/track/0QSpm9D61ncQtoDjKNemBK"
+    },
+    {
+      "album": {
+        "name": "Do Your Ting",
+        "url": "https://open.spotify.com/album/6vb64AUqN5DVTlGROkmxjD"
+      },
+      "artists": [
+        {
+          "name": "Mr. Williamz",
+          "url": "https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs"
+        },
+        {
+          "name": "Heavy Baile",
+          "url": "https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M"
+        },
+        {
+          "name": "Leo Justi",
+          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
+        },
+        {
+          "name": "Ruxell",
+          "url": "https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192923,
+      "name": "Do Your Ting",
+      "url": "https://open.spotify.com/track/35lAY27HwxYqDf2wKCIYXt"
     },
     {
       "album": {
@@ -371,6 +437,28 @@
       "duration_ms": 151579,
       "name": "Election Time",
       "url": "https://open.spotify.com/track/5wBauhWmIU3IbThhEl05zg"
+    },
+    {
+      "album": {
+        "name": "The Kalling",
+        "url": "https://open.spotify.com/album/2IL0ko13l6DhK4gUebZXd9"
+      },
+      "artists": [
+        {
+          "name": "Kabaka Pyramid",
+          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
+        },
+        {
+          "name": "Jemere Morgan",
+          "url": "https://open.spotify.com/artist/7t3wkXOe1VYGzhIbhSPEV3"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212267,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/6C76s0vqIxMnVH7ZOsdtS2"
     },
     {
       "album": {
@@ -642,6 +730,28 @@
     },
     {
       "album": {
+        "name": "The Kalling",
+        "url": "https://open.spotify.com/album/2IL0ko13l6DhK4gUebZXd9"
+      },
+      "artists": [
+        {
+          "name": "Kabaka Pyramid",
+          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
+        },
+        {
+          "name": "Answele",
+          "url": "https://open.spotify.com/artist/4BNLKMUYLjGRqScTT38xvA"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213648,
+      "name": "Life Is Everything",
+      "url": "https://open.spotify.com/track/6iCfgbzPaftZ61hybTBVWJ"
+    },
+    {
+      "album": {
         "name": "Like Royalty (feat. Popcaan)",
         "url": "https://open.spotify.com/album/1vRu5xDjU8UI01GFdvWrnP"
       },
@@ -697,7 +807,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 227762,
       "name": "Lots Of Sign",
       "url": "https://open.spotify.com/track/4RNgiFBdRT9e8NRLoNdlwu"
@@ -803,7 +913,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 172097,
       "name": "Maths Test",
       "url": "https://open.spotify.com/track/0v2Krzg5HdHleXGoM6mEv1"
@@ -1143,7 +1253,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 276272,
       "name": "Stop You Coming and Come - Jam in the Van Live Session",
       "url": "https://open.spotify.com/track/2v3p3V7E1BBBR6B7BNUs2d"

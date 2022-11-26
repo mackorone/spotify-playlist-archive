@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "Feelgood Klassiker",
+        "url": "https://open.spotify.com/album/3E4WGUFoaa08YekZx2sNR9"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "date_added": "2020-05-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 128785,
+      "name": "(What A) Wonderful World - Mono",
+      "url": "https://open.spotify.com/track/7K99Vc7CcTIHI0C1VISKS0"
+    },
+    {
+      "album": {
         "name": "The Wonderful World Of Sam Cooke",
         "url": "https://open.spotify.com/album/11qEWtxwrKQUgOBPsff4op"
       },
@@ -260,6 +278,42 @@
     },
     {
       "album": {
+        "name": "From the Foundations (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0tvm3lygYS8TWU0x8nBKmc"
+      },
+      "artists": [
+        {
+          "name": "The Foundations",
+          "url": "https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD"
+        }
+      ],
+      "date_added": "2020-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177519,
+      "name": "Build Me Up Buttercup",
+      "url": "https://open.spotify.com/track/4eGlvsFXmFqdJrVXe9FbgD"
+    },
+    {
+      "album": {
+        "name": "The Foundations",
+        "url": "https://open.spotify.com/album/3j1kw5l2mEeKCUuXXwjhWp"
+      },
+      "artists": [
+        {
+          "name": "The Foundations",
+          "url": "https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD"
+        }
+      ],
+      "date_added": "2020-05-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 177533,
+      "name": "Build Me Up Buttercup",
+      "url": "https://open.spotify.com/track/6sPOmDulFtLzfX25zICNrC"
+    },
+    {
+      "album": {
         "name": "The Very Best Of The Foundations",
         "url": "https://open.spotify.com/album/49uCKJBpnEGdZ7C2JDnkXx"
       },
@@ -278,8 +332,8 @@
     },
     {
       "album": {
-        "name": "The Foundations",
-        "url": "https://open.spotify.com/album/3j1kw5l2mEeKCUuXXwjhWp"
+        "name": "The Screamin' Sixties",
+        "url": "https://open.spotify.com/album/60iGcFOQW1pEtQpYCwspmQ"
       },
       "artists": [
         {
@@ -289,10 +343,28 @@
       ],
       "date_added": "2020-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 177533,
-      "name": "Build Me Up Buttercup - Mono",
-      "url": "https://open.spotify.com/track/6sPOmDulFtLzfX25zICNrC"
+      "date_removed": "2022-11-13",
+      "duration_ms": 174640,
+      "name": "Build Me Up Buttercup (Re-Recording)",
+      "url": "https://open.spotify.com/track/4wUQPYUs1Lx5ABQ3R1Ifz1"
+    },
+    {
+      "album": {
+        "name": "From the Foundations (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0tvm3lygYS8TWU0x8nBKmc"
+      },
+      "artists": [
+        {
+          "name": "The Foundations",
+          "url": "https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD"
+        }
+      ],
+      "date_added": "2020-05-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-16",
+      "duration_ms": 174854,
+      "name": "Build Me Up Buttercup - Stereo",
+      "url": "https://open.spotify.com/track/6fNhILURBDAuZ7pP5BuJtr"
     },
     {
       "album": {
@@ -368,6 +440,24 @@
     },
     {
       "album": {
+        "name": "Blues And Jazz",
+        "url": "https://open.spotify.com/album/10psdYGWXAMvCXeF6OuHSO"
+      },
+      "artists": [
+        {
+          "name": "Marlena Shaw",
+          "url": "https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w"
+        }
+      ],
+      "date_added": "2020-05-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 177626,
+      "name": "California Soul",
+      "url": "https://open.spotify.com/track/3ovRj1KC209XJI6zcrot6c"
+    },
+    {
+      "album": {
         "name": "The Best of Sade",
         "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
       },
@@ -401,6 +491,24 @@
       "duration_ms": 378373,
       "name": "Cherish the Day",
       "url": "https://open.spotify.com/track/6ykzs1dqxtygycvjy0Cz4o"
+    },
+    {
+      "album": {
+        "name": "Black Pumas (Expanded Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1gn89OoC81JmZk95TMmOux"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        }
+      ],
+      "date_added": "2020-05-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 246586,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/4xexAopCB0NvHOA3QLuiNd"
     },
     {
       "album": {
@@ -527,6 +635,42 @@
       "duration_ms": 208666,
       "name": "Crimson & Clover - Single Version; Mono",
       "url": "https://open.spotify.com/track/1qTfHUVPsZTnrmvwQrAQdW"
+    },
+    {
+      "album": {
+        "name": "60s Pop Essentials",
+        "url": "https://open.spotify.com/album/24Kkq3iVZ0UbedAvM7zSur"
+      },
+      "artists": [
+        {
+          "name": "Tommy James & The Shondells",
+          "url": "https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI"
+        }
+      ],
+      "date_added": "2020-05-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 208666,
+      "name": "Crimson and Clover - Single Version",
+      "url": "https://open.spotify.com/track/523jqbnMzb79V2isPqctui"
+    },
+    {
+      "album": {
+        "name": "Cruisin' To The Parque feat. Y La Bamba",
+        "url": "https://open.spotify.com/album/4WZY8uTnoLtLPyeROJhAxh"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones & The Indications",
+          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        }
+      ],
+      "date_added": "2020-05-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 212487,
+      "name": "Cruisin to the Park",
+      "url": "https://open.spotify.com/track/0sNYfZwh3F8hs7dcax1xZC"
     },
     {
       "album": {
@@ -924,6 +1068,24 @@
     },
     {
       "album": {
+        "name": "Modern Soul",
+        "url": "https://open.spotify.com/album/07L2WQcWfWxVAdOjhymppR"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "date_added": "2020-05-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 212373,
+      "name": "Home Again",
+      "url": "https://open.spotify.com/track/7EIoTuGqO2j9aP9tRrOWNw"
+    },
+    {
+      "album": {
         "name": "Hooked On A Feeling",
         "url": "https://open.spotify.com/album/6fBMaH0IiymemwFKmn18Ze"
       },
@@ -1018,6 +1180,24 @@
     },
     {
       "album": {
+        "name": "The Revolution Begins: The Flying Dutchman Masters",
+        "url": "https://open.spotify.com/album/19JwcgTFuLH6eQ9IykYpKm"
+      },
+      "artists": [
+        {
+          "name": "Gil Scott-Heron",
+          "url": "https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU"
+        }
+      ],
+      "date_added": "2020-05-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 211466,
+      "name": "I Think I'll Call It Morning",
+      "url": "https://open.spotify.com/track/2H7TGpEeOoyGukAm7Oe4Qa"
+    },
+    {
+      "album": {
         "name": "A's, B's & EP's",
         "url": "https://open.spotify.com/album/1GocNvETatEei10ng7bpJ9"
       },
@@ -1033,6 +1213,24 @@
       "duration_ms": 153240,
       "name": "I'm into Something Good",
       "url": "https://open.spotify.com/track/4Vng7f02Hz7XvPFsC1qFjl"
+    },
+    {
+      "album": {
+        "name": "HERMAN'S HERMITS THEIR GREATEST HITS",
+        "url": "https://open.spotify.com/album/6IHBpivdFMyCzcYelhOuNx"
+      },
+      "artists": [
+        {
+          "name": "Herman's Hermits",
+          "url": "https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V"
+        }
+      ],
+      "date_added": "2020-05-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 153333,
+      "name": "I'm Into Something Good",
+      "url": "https://open.spotify.com/track/5CaYvAO2a6RncazDI2WVt1"
     },
     {
       "album": {
@@ -1220,6 +1418,24 @@
     },
     {
       "album": {
+        "name": "Epic Anthology",
+        "url": "https://open.spotify.com/album/7hKBxy1au0Yhw8nQGXkwzE"
+      },
+      "artists": [
+        {
+          "name": "The Hollies",
+          "url": "https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ"
+        }
+      ],
+      "date_added": "2020-05-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 195893,
+      "name": "Long Cool Woman (In a Black Dress)",
+      "url": "https://open.spotify.com/track/1OGmf21bfnCIHRodscHkGU"
+    },
+    {
+      "album": {
         "name": "Distant Light (Expanded Edition)",
         "url": "https://open.spotify.com/album/37fVxdmMKreIb0FnffxjRI"
       },
@@ -1292,6 +1508,24 @@
     },
     {
       "album": {
+        "name": "The Essential Janis Joplin",
+        "url": "https://open.spotify.com/album/3sR7NJMeadiOYLFl94uj0X"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2020-05-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 269560,
+      "name": "Me and Bobby McGee",
+      "url": "https://open.spotify.com/track/2v6at8DVnpoDH5Rc9aO7FT"
+    },
+    {
+      "album": {
         "name": "Music From The Motion Picture Watchmen",
         "url": "https://open.spotify.com/album/5643V0ojEFh2bULWiPhuhs"
       },
@@ -1343,6 +1577,24 @@
       "duration_ms": 359213,
       "name": "Move on Up",
       "url": "https://open.spotify.com/track/1W6txMoK3kxBkc5IttrwiA"
+    },
+    {
+      "album": {
+        "name": "Football Songs",
+        "url": "https://open.spotify.com/album/4S4crj7xILxy4YLFA5g8fx"
+      },
+      "artists": [
+        {
+          "name": "Electric Light Orchestra",
+          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
+        }
+      ],
+      "date_added": "2020-05-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 302080,
+      "name": "Mr. Blue Sky",
+      "url": "https://open.spotify.com/track/3UW71gtauSdmFgo41WU3Ni"
     },
     {
       "album": {
@@ -1501,10 +1753,64 @@
       ],
       "date_added": "2020-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 241173,
       "name": "Porcelain",
       "url": "https://open.spotify.com/track/2UKYMN7VnsQo40n0qCt6Sa"
+    },
+    {
+      "album": {
+        "name": "Play & Play: B Sides",
+        "url": "https://open.spotify.com/album/724hO8VLcKOz9b0y18wA8c"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "date_added": "2020-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241173,
+      "name": "Porcelain",
+      "url": "https://open.spotify.com/track/5fJAYWoFgXm26HLNViFiUh"
+    },
+    {
+      "album": {
+        "name": "Down the Road Apiece - the Recordings 1963-1966",
+        "url": "https://open.spotify.com/album/5w2NEsjgYbdeQWO7y035xT"
+      },
+      "artists": [
+        {
+          "name": "Manfred Mann",
+          "url": "https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ"
+        }
+      ],
+      "date_added": "2020-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149680,
+      "name": "Pretty Flamingo",
+      "url": "https://open.spotify.com/track/3LBik9Fp8tZiJLqerkFEJ1"
+    },
+    {
+      "album": {
+        "name": "Pretty Flamingo",
+        "url": "https://open.spotify.com/album/2bHcROS2Q663Jxu1fFhO8x"
+      },
+      "artists": [
+        {
+          "name": "Manfred Mann",
+          "url": "https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ"
+        }
+      ],
+      "date_added": "2020-05-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 150106,
+      "name": "Pretty Flamingo",
+      "url": "https://open.spotify.com/track/23iEOIdFvnOHSEPW2cm3vq"
     },
     {
       "album": {
@@ -1519,7 +1825,7 @@
       ],
       "date_added": "2020-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 150106,
       "name": "Pretty Flamingo",
       "url": "https://open.spotify.com/track/5rohzp7Q1O6H9mzcSJEQOi"
@@ -1598,6 +1904,24 @@
     },
     {
       "album": {
+        "name": "Mellow Summer",
+        "url": "https://open.spotify.com/album/7rdNrR0gVmevOWDO0CO6Xl"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "date_added": "2020-05-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 238560,
+      "name": "River",
+      "url": "https://open.spotify.com/track/4B7iMBGmm5woNqs6Oj3GpT"
+    },
+    {
+      "album": {
         "name": "Coming Home (Deluxe)",
         "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
       },
@@ -1631,6 +1955,24 @@
       "duration_ms": 237866,
       "name": "Seven Days in Sunny June",
       "url": "https://open.spotify.com/track/2bwxqGKS5GPXfNanAIRe2p"
+    },
+    {
+      "album": {
+        "name": "Lady Got Soul",
+        "url": "https://open.spotify.com/album/5fm4og0UIhIPAVm449ija4"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "date_added": "2020-05-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 148053,
+      "name": "Son Of A Preacher Man",
+      "url": "https://open.spotify.com/track/0whPSq9udyJmWb9VMHFnQq"
     },
     {
       "album": {
@@ -1742,6 +2084,24 @@
     },
     {
       "album": {
+        "name": "70s Summer Hits",
+        "url": "https://open.spotify.com/album/2N3lLfr9EBCLwcPCPqPUHQ"
+      },
+      "artists": [
+        {
+          "name": "The Blackbyrds",
+          "url": "https://open.spotify.com/artist/7uykqYYhDUugFJgKZWXIWq"
+        }
+      ],
+      "date_added": "2020-05-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 309253,
+      "name": "Summer Love",
+      "url": "https://open.spotify.com/track/3VNqFCaUwZXTreXBPPzC3j"
+    },
+    {
+      "album": {
         "name": "The Blackbyrds",
         "url": "https://open.spotify.com/album/1QLlBRaHnt4VlkOYRYLg3N"
       },
@@ -1793,6 +2153,24 @@
       "duration_ms": 257866,
       "name": "Summer Madness",
       "url": "https://open.spotify.com/track/5BxHfyGk49gqbg5BdW6FO4"
+    },
+    {
+      "album": {
+        "name": "Summer Chill",
+        "url": "https://open.spotify.com/album/6T2BgrAhA6Vov9a3saBhYJ"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "date_added": "2020-05-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 259053,
+      "name": "Summer Madness",
+      "url": "https://open.spotify.com/track/3INic5HKU6hzaqoOzQ50eV"
     },
     {
       "album": {
@@ -1883,7 +2261,7 @@
       ],
       "date_added": "2020-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 250000,
       "name": "Sunshine Of Your Love",
       "url": "https://open.spotify.com/track/6FRwDxXsvSasw0y2eDArsz"
@@ -1901,7 +2279,7 @@
       ],
       "date_added": "2020-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 250400,
       "name": "Sunshine Of Your Love",
       "url": "https://open.spotify.com/track/2K2M0TcglCRLLpFOzKeFZA"
@@ -1985,6 +2363,24 @@
       "duration_ms": 200840,
       "name": "Sweet Thing",
       "url": "https://open.spotify.com/track/69eoS6bEWWfMac4TL36UiM"
+    },
+    {
+      "album": {
+        "name": "Plant Tunes",
+        "url": "https://open.spotify.com/album/5ZPO0HmzwxYlvr7feIZx1z"
+      },
+      "artists": [
+        {
+          "name": "Womack & Womack",
+          "url": "https://open.spotify.com/artist/7qShKycqNUP0GLEiTENDVZ"
+        }
+      ],
+      "date_added": "2020-05-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 230840,
+      "name": "Teardrops",
+      "url": "https://open.spotify.com/track/22O5r3qSo7vWlQsCUZukCK"
     },
     {
       "album": {
@@ -2132,8 +2528,44 @@
     },
     {
       "album": {
+        "name": "Hopeful Music",
+        "url": "https://open.spotify.com/album/2KLYTP6Lm6Sgsc4oCxWYO4"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2020-05-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 180800,
+      "name": "Three Little Birds",
+      "url": "https://open.spotify.com/track/7G50pcN2iGxpJGVY34otOK"
+    },
+    {
+      "album": {
         "name": "Time of the Season / She's Not There",
         "url": "https://open.spotify.com/album/3U7gkGSzvOl0QqCe0dnOdW"
+      },
+      "artists": [
+        {
+          "name": "The Zombies",
+          "url": "https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5"
+        }
+      ],
+      "date_added": "2020-05-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-15",
+      "duration_ms": 214026,
+      "name": "Time of the Season - Mono Version",
+      "url": "https://open.spotify.com/track/2iUyvvPhSYN68f67c7xeVo"
+    },
+    {
+      "album": {
+        "name": "Odessey and Oracle",
+        "url": "https://open.spotify.com/album/6XqM4NINcx3oc7NhOUKxXp"
       },
       "artists": [
         {
@@ -2146,7 +2578,25 @@
       "date_removed": null,
       "duration_ms": 214026,
       "name": "Time of the Season - Mono Version",
-      "url": "https://open.spotify.com/track/2iUyvvPhSYN68f67c7xeVo"
+      "url": "https://open.spotify.com/track/6hleUCx3E4gB2urwRvx1QT"
+    },
+    {
+      "album": {
+        "name": "The Original Studio Recordings, Vol. 4",
+        "url": "https://open.spotify.com/album/0s2PMsWqj8BUaPr5PyhcCu"
+      },
+      "artists": [
+        {
+          "name": "The Zombies",
+          "url": "https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5"
+        }
+      ],
+      "date_added": "2020-05-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 214026,
+      "name": "Time of the Season - Mono Version",
+      "url": "https://open.spotify.com/track/7Cs1pwjAhDtUms7QfBrwJR"
     },
     {
       "album": {
@@ -2237,6 +2687,24 @@
       "duration_ms": 137520,
       "name": "What A Wonderful World",
       "url": "https://open.spotify.com/track/1qCQTy0fTXerET4x8VHyr9"
+    },
+    {
+      "album": {
+        "name": "Chill Jazz Hits",
+        "url": "https://open.spotify.com/album/2E2May9swmlrRnKNBi3YLJ"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "date_added": "2020-05-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 137986,
+      "name": "What A Wonderful World",
+      "url": "https://open.spotify.com/track/6qijYphfXANswOiReTbTm6"
     },
     {
       "album": {
@@ -2331,6 +2799,24 @@
       "duration_ms": 341773,
       "name": "Wild Horses - 2009 Mix",
       "url": "https://open.spotify.com/track/52dm9op3rbfAkc1LGXgipW"
+    },
+    {
+      "album": {
+        "name": "Honk (Deluxe)",
+        "url": "https://open.spotify.com/album/6GMdkihFQDTjdxCPvv0Xiw"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2020-05-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 342813,
+      "name": "Wild Horses - 2009 Mix",
+      "url": "https://open.spotify.com/track/5jD2NdsrXz2QIHGhW9bA34"
     },
     {
       "album": {

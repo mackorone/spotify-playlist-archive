@@ -4,7 +4,7 @@
 
 > Soft and soothing piano music for meditation.
 
-109 songs - 5 hr 4 min - [published](https://open.spotify.com/playlist/3EZwyUpoN8zMVayHsaE8Bf)
+116 songs - 5 hr 22 min - [published](https://open.spotify.com/playlist/3EZwyUpoN8zMVayHsaE8Bf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,12 +17,15 @@
 | [Apasionado](https://open.spotify.com/track/543XBvoMg7LKdl6BFTp6P8) | [Enzo Viccinté](https://open.spotify.com/artist/4sjq30PbOR55CaYeJJqn8Y) | [Apasionado](https://open.spotify.com/album/5XodLGtwXP1vHEO2uLRmLA) | 2:16 | 2022-07-27 |  |
 | [Aqua Tacet](https://open.spotify.com/track/1dGj3FCziIKrm7IAG9KNYL) | [Paix Sonique](https://open.spotify.com/artist/5g4W27S2ZTFOatbUBDXCwd) | [Aqua Tacet](https://open.spotify.com/album/3k9jcwQk6tlH3QJc7Otd4i) | 2:40 | 2022-04-28 |  |
 | [As I Was](https://open.spotify.com/track/4yOpcry4CWaSCjUQgdwN6z) | [Helios Relaxing Space](https://open.spotify.com/artist/0tenBmuzRDNG5Qn0a295jB) | [As I Was](https://open.spotify.com/album/5su4E0BtsA1PmsiFjp7Rg1) | 5:11 | 2022-07-27 |  |
+| [Asana](https://open.spotify.com/track/1tgbowhuwXlzBy0hPEGkEq) | [Marta Delgado](https://open.spotify.com/artist/0B8IFmmZxB0JtGg29Qzat2) | [Asana](https://open.spotify.com/album/5qTx1yvL5ARNo7GmhSd6E6) | 3:41 | 2022-11-14 |  |
 | [At Rest](https://open.spotify.com/track/1qox7A6GvcVMcqhpOoIzsX) | [Mjuk](https://open.spotify.com/artist/1MI6YCbJfKv7EaTI8XcpM6) | [Dharma's Dream](https://open.spotify.com/album/6pkV7ilaHspVHyTXGy7yOk) | 2:39 | 2022-04-28 |  |
 | [At The Other End](https://open.spotify.com/track/4UfJ7pMdJMCyg2nO2pLjBr) | [Benji Saito](https://open.spotify.com/artist/7aapBhkAQIThSLx9Iza17r) | [At The Other End](https://open.spotify.com/album/2pM2VdN7Mv3yaFa289bgp4) | 2:49 | 2022-07-27 |  |
 | [Athenian Mind](https://open.spotify.com/track/4ZyE9TB38tLADzmv1OImVU) | [X\-Genie](https://open.spotify.com/artist/7jpxxOSOJX0PCvKXAbQs2I) | [Athenian Mind](https://open.spotify.com/album/15FHTtzpay3sTq35INQKT8) | 2:32 | 2022-04-28 |  |
 | [Bei Sogni](https://open.spotify.com/track/4uEy0quzyHhmOolODWrsaI) | [Gennaro Acciaio](https://open.spotify.com/artist/5WJ6nJkEinNxWYIWTou21D) | [Bei Sogni](https://open.spotify.com/album/4D4zNlwymGjT6t0ls03vP6) | 2:44 | 2022-04-28 |  |
+| [Briefly](https://open.spotify.com/track/5c32g8ZBUZCClHDb545VQs) | [Eirin Nordness](https://open.spotify.com/artist/2QVUmJ4ycBEI4k0GbycoA2) | [Briefly](https://open.spotify.com/album/0SU6Lu0SRMIe3efMEms6JJ) | 1:58 | 2022-11-14 |  |
 | [Bright Future](https://open.spotify.com/track/0oYlwENGLz35JbCLhl6IsF) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [Bright Future](https://open.spotify.com/album/5k6FQ6oTsWvLRHrHz1zJcU) | 3:08 | 2022-04-28 |  |
 | [Calm Night](https://open.spotify.com/track/50Dn8UNHfwvhjjKfdOHEtJ) | [Leyre Bacque](https://open.spotify.com/artist/3cSOS105ZsQjSVzTf8Gc1L) | [Calm Night](https://open.spotify.com/album/7147B49LAyCGDJfdGFTd2L) | 2:20 | 2022-04-28 |  |
+| [Calm Wind](https://open.spotify.com/track/0IAtKLWzPxXxlNFGKwenHS) | [YavorivSky](https://open.spotify.com/artist/2hmG0xFZcrGLW43s1OEygB) | [Calm Wind](https://open.spotify.com/album/6yYteMFcKuSbd7JVhcEzFf) | 3:07 | 2022-11-14 |  |
 | [Calme](https://open.spotify.com/track/0qv14ONcny4clF80mHowWQ) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Calme](https://open.spotify.com/album/1fX0KM5NIBaXTrmhYnuU6H) | 2:35 | 2022-04-28 |  |
 | [Capturing Wind](https://open.spotify.com/track/4RlCmuxG0KterqlcPwFlbH) | [Jeff Birma](https://open.spotify.com/artist/3fxSwAHp7NQsGYVj13iwu6) | [Capturing Wind](https://open.spotify.com/album/2VE7avTmGmlz4RAn4n3Jte) | 2:49 | 2022-04-28 |  |
 | [Continuation](https://open.spotify.com/track/6CtgSHDxivSLqi4vjYCUs8) | [Yonatan Awate](https://open.spotify.com/artist/6ptntg50Xz0ACYkxCIOHz0) | [Continuation](https://open.spotify.com/album/5Kgdlv5JbgHgtUo3zXiOGj) | 2:41 | 2022-04-28 |  |
@@ -35,7 +38,9 @@
 | [Durmitor](https://open.spotify.com/track/5ZcsVasCsPNZe1XUBwyMIH) | [Mia Novak](https://open.spotify.com/artist/3W9Z2V5c76hMLPUy3UEpM7) | [Nevidio](https://open.spotify.com/album/2e9oU6dfxCrOfDsTLrHzQX) | 1:58 | 2022-04-28 |  |
 | [Eastern Existence](https://open.spotify.com/track/1znTeUVwrNJIOmckklK6kK) | [Andreas Becket](https://open.spotify.com/artist/2SmNGHrS1SiObK3w7A2ffm) | [Eastern Existence](https://open.spotify.com/album/5KtRIZHAED0z2c5RVWhp1v) | 2:10 | 2022-04-28 |  |
 | [Easy](https://open.spotify.com/track/1OP1Pxj0AeFSkVcqdc9IFQ) | [Laurence Ipsum](https://open.spotify.com/artist/3Sbysu416ipsLD2jnhMqYE) | [Easy](https://open.spotify.com/album/4XJPGsxGDxmk8qNylj56gb) | 2:51 | 2022-07-27 |  |
+| [Ensamma nätter](https://open.spotify.com/track/7wHSoSqiCeLNn56BjPvece) | [Drömqvist](https://open.spotify.com/artist/1vmjcCxXgIkmW2139Y5nr8) | [Ensamma nätter](https://open.spotify.com/album/498EN0Kfw9NYGlyFzV5ALo) | 2:28 | 2022-11-14 |  |
 | [Epiphania](https://open.spotify.com/track/3ZkHsyYw4go5gyXNhTzXB7) | [Lewis Bird](https://open.spotify.com/artist/4McPLMM7aYZPv43M5VPXyp) | [Epiphania](https://open.spotify.com/album/3qouyLfbJvV6Q4rNjgzuc7) | 2:26 | 2022-04-28 |  |
+| [Ethereal](https://open.spotify.com/track/0Zxam8mgHuRalqjYZvR2xy) | [Reinhard Krause](https://open.spotify.com/artist/51sDI12AiFuof8oXlSrdnM) | [Ethereal](https://open.spotify.com/album/0ojdylUIwsyzJxCX2yKwPs) | 2:38 | 2022-11-14 |  |
 | [Ever Since You](https://open.spotify.com/track/35Yml7NjICscuKAGuX3iZx) | [Ethan Beckett](https://open.spotify.com/artist/35PZNZuBewGvF2MycMMNNa) | [Ever Since You](https://open.spotify.com/album/2K7cEgnd8671eQfCqyMWMe) | 2:22 | 2022-04-28 |  |
 | [Farley](https://open.spotify.com/track/0Ct6WKA4XqXRFdFn2BFkxD) | [Evie Belcher](https://open.spotify.com/artist/502tjyEpMzN9vPl8nFYAmf) | [Farley](https://open.spotify.com/album/1Q8KGe7VcZMT20bTPqWZtR) | 3:26 | 2022-04-28 |  |
 | [Final Relaxation](https://open.spotify.com/track/3D4RnotCB06bK7QHlPl2B7) | [Adela Rynsburger](https://open.spotify.com/artist/4SkN6vgI1t8Es1N7KTjc22) | [Final Relaxation](https://open.spotify.com/album/6XelgT98VbSCej4ACD5ILa) | 2:53 | 2022-04-28 |  |
@@ -48,6 +53,7 @@
 | [Hypnopea](https://open.spotify.com/track/3Jj8rCN9ozYSoJtpCvmN00) | [Zitosphere](https://open.spotify.com/artist/0o6BZaMS4FnCOUlZuU3wpx) | [Hypnopea](https://open.spotify.com/album/04KzYrdF1xEHy4egkSPrAB) | 2:42 | 2022-04-28 |  |
 | [I Did It For Love](https://open.spotify.com/track/494O3PQF0EWff6xRMVXyzP) | [Jean\-Marie Bussiere](https://open.spotify.com/artist/1hZuEKockN0pWOxGImbcUF) | [I Did It For Love \(Ambient Version\)](https://open.spotify.com/album/4en1d5L958f9rIbGfX8ct3) | 2:44 | 2022-04-28 |  |
 | [Illumination Station](https://open.spotify.com/track/0eMyBtn185nGUb0XIRA7l6) | [Kaiser Hulenstadt](https://open.spotify.com/artist/1oFe0IcP3ZDv5MK0sbq8tS) | [Illumination Station](https://open.spotify.com/album/0VdEKg4JmE9UR3ZaSm9odk) | 2:58 | 2022-07-27 |  |
+| [Instrumental Doze](https://open.spotify.com/track/2szeJH7VZ82QZIemb7AnJV) | [Frieda Walsch](https://open.spotify.com/artist/0Ue0VWmaybjJo2MykZRGCM) | [Instrumental Doze](https://open.spotify.com/album/3xwaqPaD9gVpCcGALWX7MV) | 2:03 | 2022-11-14 |  |
 | [Isla De Flores](https://open.spotify.com/track/7tDHMhO0bJpbkXzMyMIE0b) | [Berlioz](https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar) | [Isla De Flores](https://open.spotify.com/album/33MX50LkO4D6xU0qWjhVbh) | 2:39 | 2022-04-28 |  |
 | [Keeping Secrets](https://open.spotify.com/track/6Gkl52QI2BIPzMvu3fF3AP) | [Lennon McKenna](https://open.spotify.com/artist/2KjmqKmCUGWfdb8ikZ5d2i) | [Keeping Secrets \(Ambient Version\)](https://open.spotify.com/album/1pcWYCCNfmYjogMKGZ92pU) | 2:16 | 2022-04-28 |  |
 | [Keepsake](https://open.spotify.com/track/7fB9VIIruC7mMRyRrToXet) | [4th & 6th](https://open.spotify.com/artist/6jBXezLiJ4IUPjLOJ9h67Z) | [Keepsake](https://open.spotify.com/album/0F39TMowBXEmXMCpvgOKEI) | 3:09 | 2022-04-28 |  |
@@ -66,6 +72,7 @@
 | [Nephology](https://open.spotify.com/track/2RXxXoJ6b42rQWpHrkIqRB) | [Ceylan Aydem Project](https://open.spotify.com/artist/6EDn2Y3RQU5ilTmJ9sxSS1) | [Nephology](https://open.spotify.com/album/6TKRYgP9nOBCnfa2V8LKW8) | 2:25 | 2022-04-28 |  |
 | [New Beginning](https://open.spotify.com/track/1tAh9ygOksyZaC8IPdhICH) | [John Andre](https://open.spotify.com/artist/3D56Nhiz0aTRqx4z0qs9jb) | [Falling Leaves](https://open.spotify.com/album/6BzSMFeFNjGhzpGyrt8QwD) | 3:05 | 2022-04-28 |  |
 | [Night Hours](https://open.spotify.com/track/595IK0mHtBt377GbAtWMwm) | [Siona Swim](https://open.spotify.com/artist/666qwMCdAuZ7PEov9XXGTs) | [Night Hours](https://open.spotify.com/album/0DHdHcnU3zcZ6SoJDSj3jb) | 2:15 | 2022-04-28 |  |
+| [Nouvel Agneau](https://open.spotify.com/track/2CTRsFkCzXEafseF4MLRN9) | [Eric Badanti](https://open.spotify.com/artist/2KnoW7Kuw3lj3OKFK8EXQ7) | [Nouvel Agneau](https://open.spotify.com/album/2eJoenU9jJik7za0y7C02w) | 2:19 | 2022-11-14 |  |
 | [Nuevo tiempo](https://open.spotify.com/track/5XzqugXuvYg6mxcyjpNesn) | [The Sun Door](https://open.spotify.com/artist/4mIc8FKCkWqviS6jlZ4cyc) | [De regreso](https://open.spotify.com/album/0K3k1JIj8a8C1wUGrdLJwF) | 2:53 | 2022-04-28 |  |
 | [Ocean View](https://open.spotify.com/track/6TeajBISE83AbcnnhMmvhN) | [Amalou](https://open.spotify.com/artist/0Fa4owCW21dPiAF9bLUMKZ) | [Ocean View](https://open.spotify.com/album/2CUiHuVgbGODA8cgxV2yUB) | 3:00 | 2022-07-27 |  |
 | [Oceans](https://open.spotify.com/track/2I7nb1ZJZJrTAu1G9iXWxY) | [Delaney & Delaney](https://open.spotify.com/artist/6ypSxIupxGZQdQdv0ESPwW) | [Oceans](https://open.spotify.com/album/36JQsFJobgqUjtYGS5shZa) | 2:11 | 2022-04-28 |  |

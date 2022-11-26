@@ -1279,6 +1279,24 @@
     {
       "album": {
         "name": "Lines",
+        "url": "https://open.spotify.com/album/1UkOPjlvgtqoeeIETfK2fs"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 232400,
+      "name": "Lights Off",
+      "url": "https://open.spotify.com/track/1XtCRTHD8LzpI47zhWzWJq"
+    },
+    {
+      "album": {
+        "name": "Lines",
         "url": "https://open.spotify.com/album/3NtzK9fBj8mNVig62dWWDK"
       },
       "artists": [
@@ -1509,7 +1527,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 325280,
       "name": "Melatonin (Unplugged)",
       "url": "https://open.spotify.com/track/1IkjoLXB9LEf3w32Wk07X3"
@@ -1589,6 +1607,24 @@
     {
       "album": {
         "name": "Slow Light",
+        "url": "https://open.spotify.com/album/6Sr6Py57eoZHhY4hYcJ67B"
+      },
+      "artists": [
+        {
+          "name": "Findlay Brown",
+          "url": "https://open.spotify.com/artist/5SxW5qi5l3VJnO0qzsI8Rs"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 187400,
+      "name": "Mountain Falls for the Sea",
+      "url": "https://open.spotify.com/track/0LMquqGldfJIP3GCCw3jxd"
+    },
+    {
+      "album": {
+        "name": "Slow Light",
         "url": "https://open.spotify.com/album/3p1LmtNY1xMmPqmNMdhly8"
       },
       "artists": [
@@ -1603,6 +1639,24 @@
       "duration_ms": 187411,
       "name": "Mountain Falls for the Sea",
       "url": "https://open.spotify.com/track/7oRtHBBKdsl4XLQBWjWDDW"
+    },
+    {
+      "album": {
+        "name": "Our Endless Numbered Days",
+        "url": "https://open.spotify.com/album/2diNeeePw7kIT2K4DYCdJx"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 152613,
+      "name": "Naked as We Came",
+      "url": "https://open.spotify.com/track/4FuBIkfhZMoRgrDiHL6TYG"
     },
     {
       "album": {
@@ -1671,7 +1725,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 212471,
       "name": "Not a Number",
       "url": "https://open.spotify.com/track/3BZj98tFgveomZpZVboqRs"
@@ -1765,6 +1819,24 @@
       "duration_ms": 216746,
       "name": "Nothing\u2019s Gonna Happen",
       "url": "https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk"
+    },
+    {
+      "album": {
+        "name": "Colony of B-Sides",
+        "url": "https://open.spotify.com/album/4uENKN2umJ1TGfOZ4NIEVs"
+      },
+      "artists": [
+        {
+          "name": "Beta Radio",
+          "url": "https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 184931,
+      "name": "On the Frame (Acoustic)",
+      "url": "https://open.spotify.com/track/2UyZLb4rxCgXaFI9wsxsGs"
     },
     {
       "album": {
@@ -1870,6 +1942,24 @@
     },
     {
       "album": {
+        "name": "People Change",
+        "url": "https://open.spotify.com/album/381HJLxqIIyyXIOM3S3P9f"
+      },
+      "artists": [
+        {
+          "name": "Mipso",
+          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 212853,
+      "name": "People Change",
+      "url": "https://open.spotify.com/track/3X8nisFKqIo9JyCgRXyKZL"
+    },
+    {
+      "album": {
         "name": "Edges Run",
         "url": "https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk"
       },
@@ -1957,6 +2047,24 @@
       "duration_ms": 173426,
       "name": "Resentment",
       "url": "https://open.spotify.com/track/2Dms8axOrrjXETwVwtvBF5"
+    },
+    {
+      "album": {
+        "name": "Resilient",
+        "url": "https://open.spotify.com/album/1AwzLRB4cP8KISlr8ExOEt"
+      },
+      "artists": [
+        {
+          "name": "Rising Appalachia",
+          "url": "https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250429,
+      "name": "Resilient",
+      "url": "https://open.spotify.com/track/2Nm0IGkliIwWjSBINf3KjG"
     },
     {
       "album": {
@@ -2065,7 +2173,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 261141,
       "name": "Sail on the Water",
       "url": "https://open.spotify.com/track/7gYiZXvvD8H6f0lEvLUQHD"
@@ -2145,6 +2253,24 @@
       "duration_ms": 247493,
       "name": "Sinking Ship",
       "url": "https://open.spotify.com/track/3pC8tUjIZPORslYYmJbJcz"
+    },
+    {
+      "album": {
+        "name": "Colony of Bees",
+        "url": "https://open.spotify.com/album/22ydepp9MkmGOVOG89v9DU"
+      },
+      "artists": [
+        {
+          "name": "Beta Radio",
+          "url": "https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 249066,
+      "name": "Sitting Room",
+      "url": "https://open.spotify.com/track/61RrNbOovzQBB8lomPR4Qb"
     },
     {
       "album": {
@@ -2661,7 +2787,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 265573,
       "name": "Tin Man",
       "url": "https://open.spotify.com/track/6YgnWdREQM4gDccOYY1WpP"
@@ -2859,7 +2985,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 252580,
       "name": "Unveiled",
       "url": "https://open.spotify.com/track/1JGsfgp6yMzTqTQvDTtXos"

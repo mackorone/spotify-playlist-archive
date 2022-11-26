@@ -113,7 +113,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 149200,
       "name": "Locker",
       "url": "https://open.spotify.com/track/43rGeSTINiWovwNPiQGAXl"
@@ -174,6 +174,42 @@
     },
     {
       "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/6bG0Hug4UHRMvKapaqsslZ"
+      },
+      "artists": [
+        {
+          "name": "Jeff Satur",
+          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346235,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/1yoiLtaODum3lNm7NjG1zs"
+    },
+    {
+      "album": {
+        "name": "Tutor",
+        "url": "https://open.spotify.com/album/0wGByPiO4hAEj7n6FtAB1e"
+      },
+      "artists": [
+        {
+          "name": "LUSS",
+          "url": "https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178085,
+      "name": "Tutor",
+      "url": "https://open.spotify.com/track/7GHMIJwlFDaThr47NYwnQ9"
+    },
+    {
+      "album": {
         "name": "Making Steak",
         "url": "https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6"
       },
@@ -229,6 +265,24 @@
     {
       "album": {
         "name": "\u0e01\u0e32\u0e25\u0e04\u0e23\u0e31\u0e49\u0e07\u0e2b\u0e19\u0e36\u0e48\u0e07\u0e19\u0e32\u0e19\u0e21\u0e32\u0e41\u0e25\u0e49\u0e27",
+        "url": "https://open.spotify.com/album/6PViTFyMkQgDAor1aGpiZu"
+      },
+      "artists": [
+        {
+          "name": "Anatomy Rabbit",
+          "url": "https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221052,
+      "name": "\u0e01\u0e32\u0e25\u0e04\u0e23\u0e31\u0e49\u0e07\u0e2b\u0e19\u0e36\u0e48\u0e07\u0e19\u0e32\u0e19\u0e21\u0e32\u0e41\u0e25\u0e49\u0e27",
+      "url": "https://open.spotify.com/track/266THkHmSpdcVHJTE6KJJ3"
+    },
+    {
+      "album": {
+        "name": "\u0e01\u0e32\u0e25\u0e04\u0e23\u0e31\u0e49\u0e07\u0e2b\u0e19\u0e36\u0e48\u0e07\u0e19\u0e32\u0e19\u0e21\u0e32\u0e41\u0e25\u0e49\u0e27",
         "url": "https://open.spotify.com/album/3iaCbQ38BeeaqKFLrGXeuE"
       },
       "artists": [
@@ -239,7 +293,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 221052,
       "name": "\u0e01\u0e32\u0e25\u0e04\u0e23\u0e31\u0e49\u0e07\u0e2b\u0e19\u0e36\u0e48\u0e07\u0e19\u0e32\u0e19\u0e21\u0e32\u0e41\u0e25\u0e49\u0e27",
       "url": "https://open.spotify.com/track/5AukYCDfrtIPvlqG6ZsFR9"
@@ -257,10 +311,28 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 224000,
       "name": "\u0e02\u0e2d\u0e42\u0e17\u0e29\u0e17\u0e35\u0e48\u0e40\u0e02\u0e49\u0e32\u0e44\u0e1b\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e44\u0e21\u0e48\u0e14\u0e35\u0e43\u0e19\u0e0a\u0e35\u0e27\u0e34\u0e15\u0e40\u0e18\u0e2d (sunflower)",
       "url": "https://open.spotify.com/track/5GIeJzSwYL4WOi1QcPrNUY"
+    },
+    {
+      "album": {
+        "name": "\u0e02\u0e2d\u0e43\u0e2b\u0e49\u0e42\u0e25\u0e01\u0e19\u0e35\u0e49\u0e43\u0e08\u0e14\u0e35\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d",
+        "url": "https://open.spotify.com/album/1QroYykGyo3LaEr4nCAZyv"
+      },
+      "artists": [
+        {
+          "name": "Anatomy Rabbit",
+          "url": "https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-24",
+      "duration_ms": 276802,
+      "name": "\u0e02\u0e2d\u0e43\u0e2b\u0e49\u0e42\u0e25\u0e01\u0e19\u0e35\u0e49\u0e43\u0e08\u0e14\u0e35\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d",
+      "url": "https://open.spotify.com/track/1rJZTErhdRMtm2uhfFrCSS"
     },
     {
       "album": {
@@ -275,7 +347,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 276802,
       "name": "\u0e02\u0e2d\u0e43\u0e2b\u0e49\u0e42\u0e25\u0e01\u0e19\u0e35\u0e49\u0e43\u0e08\u0e14\u0e35\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d",
       "url": "https://open.spotify.com/track/20r8bPumn1cybDcUEh2NPZ"
@@ -394,6 +466,24 @@
     },
     {
       "album": {
+        "name": "\u0e16\u0e49\u0e32\u0e40\u0e02\u0e32\u0e44\u0e21\u0e48\u0e23\u0e31\u0e01\u0e21\u0e32\u0e2d\u0e22\u0e39\u0e48\u0e01\u0e31\u0e1a\u0e09\u0e31\u0e19\u0e14\u0e35\u0e21\u0e31\u0e49\u0e22? (Lean on me)",
+        "url": "https://open.spotify.com/album/0dZTTJBdz0GQN9BWfB73XZ"
+      },
+      "artists": [
+        {
+          "name": "SLAPKISS",
+          "url": "https://open.spotify.com/artist/6GBIcdZ5aBhhsd7Y6c3O3g"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216428,
+      "name": "\u0e16\u0e49\u0e32\u0e40\u0e02\u0e32\u0e44\u0e21\u0e48\u0e23\u0e31\u0e01\u0e21\u0e32\u0e2d\u0e22\u0e39\u0e48\u0e01\u0e31\u0e1a\u0e09\u0e31\u0e19\u0e14\u0e35\u0e21\u0e31\u0e49\u0e22? (Lean on me)",
+      "url": "https://open.spotify.com/track/0LJ5ZgcDdyt24akqtABCAg"
+    },
+    {
+      "album": {
         "name": "\u0e17\u0e34\u0e49\u0e07\u0e44\u0e1b",
         "url": "https://open.spotify.com/album/6HJHVbKJB854i2UIgqGzfl"
       },
@@ -409,6 +499,24 @@
       "duration_ms": 347500,
       "name": "\u0e17\u0e34\u0e49\u0e07\u0e44\u0e1b",
       "url": "https://open.spotify.com/track/0kQLcP9TrYqx79QIDZnnO0"
+    },
+    {
+      "album": {
+        "name": "Only Monday",
+        "url": "https://open.spotify.com/album/1X0gxc8emKCs9T9kCeozIu"
+      },
+      "artists": [
+        {
+          "name": "Only Monday",
+          "url": "https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275624,
+      "name": "\u0e17\u0e38\u0e01\u0e04\u0e27\u0e32\u0e21\u0e17\u0e23\u0e07\u0e08\u0e33",
+      "url": "https://open.spotify.com/track/3iJNeAiZwFxiPHWk456Bcw"
     },
     {
       "album": {
@@ -535,6 +643,24 @@
       "duration_ms": 231252,
       "name": "\u0e22\u0e49\u0e32\u0e22",
       "url": "https://open.spotify.com/track/0CqwvHOZeAP0kEEOR1NfnI"
+    },
+    {
+      "album": {
+        "name": "\u0e23\u0e2d\u0e27\u0e31\u0e19\u0e40\u0e18\u0e2d\u0e25\u0e37\u0e21\u0e40\u0e02\u0e32",
+        "url": "https://open.spotify.com/album/5KYd61ZcqKn5TyYpIHeP3B"
+      },
+      "artists": [
+        {
+          "name": "The White Hair Cut",
+          "url": "https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238250,
+      "name": "\u0e23\u0e2d\u0e27\u0e31\u0e19\u0e40\u0e18\u0e2d\u0e25\u0e37\u0e21\u0e40\u0e02\u0e32",
+      "url": "https://open.spotify.com/track/7IhbsxmWUQi7Q6PSR8Ecq5"
     },
     {
       "album": {
@@ -701,7 +827,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 193392,
       "name": "\u0e40\u0e25\u0e34\u0e01\u0e01\u0e31\u0e19\u0e41\u0e25\u0e49\u0e27(\u0e41\u0e25\u0e49\u0e27\u0e22\u0e31\u0e07\u0e44\u0e07)",
       "url": "https://open.spotify.com/track/2L12dZiM8puWFJBVg7R0wn"
@@ -809,10 +935,28 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 235058,
       "name": "\u0e41\u0e2d\u0e1a\u0e2b\u0e27\u0e31\u0e07",
       "url": "https://open.spotify.com/track/0LLETxISOeZVam4l0RwcpV"
+    },
+    {
+      "album": {
+        "name": "\u0e41\u0e2d\u0e1a\u0e2b\u0e27\u0e31\u0e07",
+        "url": "https://open.spotify.com/album/24Wza37KFZjHj8xbPoknaK"
+      },
+      "artists": [
+        {
+          "name": "Anatomy Rabbit",
+          "url": "https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235058,
+      "name": "\u0e41\u0e2d\u0e1a\u0e2b\u0e27\u0e31\u0e07",
+      "url": "https://open.spotify.com/track/3qMYr2bVu2HpSKrSJ2zj8K"
     },
     {
       "album": {
@@ -827,7 +971,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 264500,
       "name": "\u0e43\u0e04\u0e23\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e01\u0e48\u0e2d\u0e19\u0e04\u0e19\u0e19\u0e31\u0e49\u0e19\u0e41\u0e1e\u0e49",
       "url": "https://open.spotify.com/track/3fgZmdk4bvYyMuIanDoFKf"

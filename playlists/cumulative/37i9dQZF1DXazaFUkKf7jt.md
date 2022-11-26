@@ -4,7 +4,7 @@
 
 > Essential tracks from masterpiece RPG series, “SaGa”\. ゲーム史の変遷と共に歩み続け30年。数々の感動を生み続けるRPG「SaGa」シリーズの名曲たちをプレイリストで。
 
-110 songs - 6 hr 4 min - [published](https://open.spotify.com/playlist/2D0jbX6eAnZtJ3v3bXZ0zg)
+111 songs - 6 hr 9 min - [published](https://open.spotify.com/playlist/2D0jbX6eAnZtJ3v3bXZ0zg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [プロローグ](https://open.spotify.com/track/28sdFsTOtozIz8tK6TVKqt) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [魔界塔士Sa・Ga Original Soundtrack](https://open.spotify.com/album/4SPjww5H6OQmr9CctkIyIW) | 2:12 | 2021-05-21 | 2022-07-29 |
 | [プロローグ\-七英雄の伝説\-](https://open.spotify.com/track/3JfBTAO27FeS5sbDxrDQZl) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [Romancing Sa・Ga 2 Original Soundtrack](https://open.spotify.com/album/7lyklaqScNQE2AMuOpCj55) | 6:38 | 2021-05-21 | 2022-07-29 |
 | [ポドールイ](https://open.spotify.com/track/4DK6TrmlHiGS33M1op9LTE) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [Romancing Sa・Ga 3 Original Soundtrack](https://open.spotify.com/album/7g4ImJ4CM7zDJlftyKrebV) | 2:30 | 2021-05-21 | 2022-07-29 |
+| [メヌエット](https://open.spotify.com/track/7sugdBGY0G9JstV4rFClx0) | [Masayoshi Yamazaki](https://open.spotify.com/artist/6gvedX0HcRQYMD5IhY8KKt) | [メヌエット](https://open.spotify.com/album/6koJQqH8BAa27vRWMX890J) | 4:46 | 2021-05-21 | 2022-11-13 |
 | [メヌエット](https://open.spotify.com/track/6CPnqlzUnSzLEGrCp5SMsg) | [Masayoshi Yamazaki](https://open.spotify.com/artist/6gvedX0HcRQYMD5IhY8KKt) | [ROSE PERIOD \(the BEST 2005\-2015\)](https://open.spotify.com/album/4rAO12qsCseL5zTcQ4e2mX) | 4:57 | 2021-05-21 | 2022-07-29 |
 | [メヌエット](https://open.spotify.com/track/0SXq7Pi3bJzdn0XFCH1Jzf) | [Masayoshi Yamazaki](https://open.spotify.com/artist/6gvedX0HcRQYMD5IhY8KKt) | [ROSE PERIOD \~ the BEST 2005\-2015 \~](https://open.spotify.com/album/3mnBiT2wzPt7jK4BJcUh8f) | 4:58 | 2021-05-21 |  |
 | [ユーモア](https://open.spotify.com/track/0zXSk9N3L7XQb8GXwhjlXt) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [CEREMONY](https://open.spotify.com/album/1IYJeRjWNruxAKls5cBtqm) | 3:27 | 2021-05-21 |  |

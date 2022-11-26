@@ -1056,6 +1056,24 @@
     },
     {
       "album": {
+        "name": "Triste com T",
+        "url": "https://open.spotify.com/album/6Zb7J5sbItur7GcEBcNzEs"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 132983,
+      "name": "Triste com T",
+      "url": "https://open.spotify.com/track/7iTpnFZWdEEgpU6QHvrsvS"
+    },
+    {
+      "album": {
         "name": "TU",
         "url": "https://open.spotify.com/album/0Q3XPS2WcsbcFIVomTZTQo"
       },

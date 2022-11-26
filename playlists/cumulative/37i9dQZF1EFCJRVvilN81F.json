@@ -115,6 +115,28 @@
     {
       "album": {
         "name": "Kaytra to Do",
+        "url": "https://open.spotify.com/album/14RQlFzqaTt8nB8u3SXBRN"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "JMSN",
+          "url": "https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252008,
+      "name": "All We Do",
+      "url": "https://open.spotify.com/track/3ruOq5Gd9iZAdU1UP2nDJR"
+    },
+    {
+      "album": {
+        "name": "Kaytra to Do",
         "url": "https://open.spotify.com/album/5mG6Ful0k8lBjMtrvKsGuF"
       },
       "artists": [
@@ -129,7 +151,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 252008,
       "name": "All We Do",
       "url": "https://open.spotify.com/track/5gIJdZ7ZKhhcCqfT7mMMh2"
@@ -993,6 +1015,28 @@
       "duration_ms": 152331,
       "name": "I Know It",
       "url": "https://open.spotify.com/track/5kduduW8Olk6uGC62Bclux"
+    },
+    {
+      "album": {
+        "name": "Iced Tea",
+        "url": "https://open.spotify.com/album/56Z5er1cgYmXDuG49B953d"
+      },
+      "artists": [
+        {
+          "name": "Joyce Wrice",
+          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205384,
+      "name": "Iced Tea",
+      "url": "https://open.spotify.com/track/6kmXHLDDK7RQXTjHooTCzH"
     },
     {
       "album": {
@@ -2103,6 +2147,24 @@
       "duration_ms": 136444,
       "name": "Zaza Tree",
       "url": "https://open.spotify.com/track/6mNOqBMluf9aEXgNg1O831"
+    },
+    {
+      "album": {
+        "name": "$oul $old $eparately",
+        "url": "https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134922,
+      "name": "Zipper Bagz",
+      "url": "https://open.spotify.com/track/20UFm0JkFTmqpoRjgDYHnk"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1EFCJRVvilN81F"

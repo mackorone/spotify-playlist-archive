@@ -67,7 +67,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": null,
       "duration_ms": 311200,
       "name": "Believe - with Kane Brown",
       "url": "https://open.spotify.com/track/5qOCmP9qU3AmeCIZ4hjimg"
@@ -291,7 +291,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 211250,
       "name": "Don't Go City on Me",
       "url": "https://open.spotify.com/track/7yQLIouFiTrN0xilYqiYTj"
@@ -475,7 +475,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 225893,
       "name": "Granddaddy's Chair",
       "url": "https://open.spotify.com/track/7rQ2kjuqhqyMuYA1IenxrM"
@@ -511,7 +511,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 174093,
       "name": "Hit the Gas",
       "url": "https://open.spotify.com/track/3PqLcOCKMKvhVDEcwFUcVd"
@@ -623,7 +623,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-12",
+      "date_removed": null,
       "duration_ms": 202106,
       "name": "Learning",
       "url": "https://open.spotify.com/track/4eGr7gXyHETJQ4pMcqzXgu"
@@ -702,6 +702,24 @@
     },
     {
       "album": {
+        "name": "Different Man",
+        "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212066,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/40HQjXwTG4czvPGTtF3uzt"
+    },
+    {
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/5Ypx8ECsYrhmII2FgJmCpv"
       },
@@ -746,6 +764,32 @@
     },
     {
       "album": {
+        "name": "HiROQUEST: Genesis",
+        "url": "https://open.spotify.com/album/68QeWSGSKSQKI0mpDkP7Lg"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "ricky retro",
+          "url": "https://open.spotify.com/artist/1fA8WmzG2eU2q13kAAjoN8"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191299,
+      "name": "Move On",
+      "url": "https://open.spotify.com/track/1oHaysAy4fA9EusHpPk5Bn"
+    },
+    {
+      "album": {
         "name": "Never Be the Same (feat. Kane Brown)",
         "url": "https://open.spotify.com/album/2BAqpci48cWxxLwIDqjPRU"
       },
@@ -779,7 +823,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 213933,
       "name": "Nothin' I'd Change",
       "url": "https://open.spotify.com/track/7mCD59dbej3TRd0I81RNwM"
@@ -863,7 +907,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-10-13",
       "duration_ms": 179320,
       "name": "Pull It Off",
       "url": "https://open.spotify.com/track/3jyc4v8gMVYOmNaG6aiKvu"
@@ -881,7 +925,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 200360,
       "name": "Rockstars",
       "url": "https://open.spotify.com/track/0BzL36GgqMKCyeW6j6JzzD"
@@ -943,7 +987,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 200293,
       "name": "Setting the Night On Fire (with Chris Young)",
       "url": "https://open.spotify.com/track/2OeyphE568es62xmmJTt1z"
@@ -1023,7 +1067,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 194837,
       "name": "This City Remix (feat. Kane Brown)",
       "url": "https://open.spotify.com/track/3GPvHSNPWlzDu5rLu4PztC"
@@ -1077,7 +1121,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 267802,
       "name": "Versace On the Floor - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4PiQApOUbCc8sBb0ibobRJ"

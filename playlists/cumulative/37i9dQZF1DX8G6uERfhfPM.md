@@ -4,7 +4,7 @@
 
 > Best of the Jazz music scene in India.
 
-70 songs - 6 hr 24 min - [published](https://open.spotify.com/playlist/3IKf0F2MVcDBvOjEXJY6yn)
+71 songs - 6 hr 27 min - [published](https://open.spotify.com/playlist/3IKf0F2MVcDBvOjEXJY6yn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Saiyaan Nikas Gaye](https://open.spotify.com/track/2YUpc1mYplpQltxIdRwNYp) | [Mirande Shah](https://open.spotify.com/artist/6S0dJ9xk7KnOPgxYRjUycw) | [Saiyaan Nikas Gaye](https://open.spotify.com/album/4JhRAa7NmyOuhaIZxkhwWR) | 8:05 | 2022-07-22 |  |
 | [Samandar](https://open.spotify.com/track/7riTAQJLVQb5MrdL6etGCb) | [Shadow and Light](https://open.spotify.com/artist/6BG3rlgfBM8V8JStjm7IFa) | [Sabar](https://open.spotify.com/album/44gFbG7mWYc4u0lENFlQSY) | 4:19 | 2022-07-22 |  |
 | [Saraswati at Montreux](https://open.spotify.com/track/58OQuuTf6o9xdyxrIiyryZ) | [Abhijith\. P\. S\. Nair](https://open.spotify.com/artist/6fEN8syfWB87Ak6A4AA7Kv), [Sandeep Mohan](https://open.spotify.com/artist/4C6RAJxJk4863xSAyNaPMa), [Mohini Dey](https://open.spotify.com/artist/3jGVx8ZyTVFWokbgl6BDdo), [Dave Weckl](https://open.spotify.com/artist/6h0KtnUiBpkxxjvZZPvNSw) | [Saraswati at Montreux](https://open.spotify.com/album/62vhILZn4OWpKSp29R0kt7) | 4:06 | 2022-07-22 |  |
+| [Shaan](https://open.spotify.com/track/5zN4y6PdlvexKhWumalUPB) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM) | [Shaan](https://open.spotify.com/album/5ZfApCkywHmo9onnGstgnS) | 3:27 | 2022-10-12 |  |
 | [Silver](https://open.spotify.com/track/4n02aoIEHME0rzFkfQxCQv) | [Ape Echoes](https://open.spotify.com/artist/1pvAc9lw6d6U8yQdelxxyR), [Shreya Bhattacharya](https://open.spotify.com/artist/7LInIiGhGIFMx6rsbFngjz) | [Silver](https://open.spotify.com/album/1QnU68ZgGd93c19XoYq1lU) | 3:16 | 2022-07-22 |  |
 | [Song for My Lady](https://open.spotify.com/track/7lodtlZgBsWRDk8okphT1Z) | [Louis Banks](https://open.spotify.com/artist/411XMq73bwmw63Pgrop1wY) | [Spiritual Jazz 5: The World](https://open.spotify.com/album/564B7NIpdF0je3rlh33cXC) | 4:14 | 2022-07-22 |  |
 | [Soothing Indian Jazz](https://open.spotify.com/track/7xKFmR4arpJ1A0biw3K28F) | [Indian Jazz Cafe](https://open.spotify.com/artist/2H5Tkbz4Vh2ZCBLWwDjMI9) | [Jazz Bollywood](https://open.spotify.com/album/5MPMKGO3nyyLSQQArkBKtv) | 2:41 | 2022-07-22 |  |

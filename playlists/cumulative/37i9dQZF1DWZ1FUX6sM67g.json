@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "\u00a1En este punto tropical, se encuentra un poco de todo! Foto: Pipe Bueno, Silvestre Dangond, Gente de Zona",
+  "description": "\u00a1En este punto tropical, se encuentra un poco de todo! Foto: Gusi",
   "name": "Punto Tropical",
   "published_playlist_ids": [
     "16anPiH3Ulo6h6pHaV7pop"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/7C6LwNsw7ClFlZZEhjkqkO"
+      },
+      "artists": [
+        {
+          "name": "Gusi",
+          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199481,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/28IydUm2BpsO9NP3lPjGvX"
+    },
     {
       "album": {
         "name": "40",
@@ -111,7 +129,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 276212,
       "name": "Antes de Ti",
       "url": "https://open.spotify.com/track/0VREbqrPFyelWqZh0rQvbs"
@@ -127,7 +145,7 @@
           "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
         },
         {
-          "name": "Nathy Peluso",
+          "name": "NATHY PELUSO",
           "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
         }
       ],
@@ -199,7 +217,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 276186,
       "name": "Bailando A Tu Son",
       "url": "https://open.spotify.com/track/3vrPR7zhJKvVG5INzVu8l6"
@@ -545,7 +563,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 518728,
       "name": "Descarga",
       "url": "https://open.spotify.com/track/1fIRT6UpxIJhYfPBAyVD20"
@@ -621,7 +639,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 213316,
       "name": "Dios As\u00ed Lo Quiso",
       "url": "https://open.spotify.com/track/6pSS2IOxlapb62T7NAOX1Q"
@@ -777,10 +795,54 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 225914,
       "name": "Esc\u00fachame Mi Amor - (Versi\u00f3n Salsa)",
       "url": "https://open.spotify.com/track/3ls8JeVnVqZjgxBUQ6dFmN"
+    },
+    {
+      "album": {
+        "name": "Debut y Segunda Tanda (Deluxe)",
+        "url": "https://open.spotify.com/album/4uBIS6rAEZQX8NCDgoLKq2"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        },
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258446,
+      "name": "FOR SALE",
+      "url": "https://open.spotify.com/track/0ZQuLDHTb6xo5y8UQb2T9X"
+    },
+    {
+      "album": {
+        "name": "Good Girl",
+        "url": "https://open.spotify.com/album/5S93JhNP9BcdtAgcCxAOLt"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208604,
+      "name": "Good Girl",
+      "url": "https://open.spotify.com/track/2Z7ulQhQLbZJYyk6U2unUK"
     },
     {
       "album": {
@@ -885,6 +947,10 @@
         {
           "name": "Combinacion De La Habana",
           "url": "https://open.spotify.com/artist/3hfczsQRbhO3io1UwQFM1y"
+        },
+        {
+          "name": "El Micha",
+          "url": "https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn"
         }
       ],
       "date_added": "2022-10-07",
@@ -969,7 +1035,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 267541,
       "name": "Logr\u00e9 Olvidar",
       "url": "https://open.spotify.com/track/6jH9HbI5VQAhHT9Srddivo"
@@ -981,7 +1047,7 @@
       },
       "artists": [
         {
-          "name": "Nathy Peluso",
+          "name": "NATHY PELUSO",
           "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
         }
       ],
@@ -1070,6 +1136,24 @@
     },
     {
       "album": {
+        "name": "PEDRO",
+        "url": "https://open.spotify.com/album/3H5A0XAVLqPIc6p1UyFx0q"
+      },
+      "artists": [
+        {
+          "name": "Peter Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199296,
+      "name": "Me Vale Ver...T",
+      "url": "https://open.spotify.com/track/6NXE0MUQCfWKSElHh7PaHb"
+    },
+    {
+      "album": {
         "name": "Mi Mundo Entero",
         "url": "https://open.spotify.com/album/072Mfoviq24EXm7lQXzqUw"
       },
@@ -1085,6 +1169,28 @@
       "duration_ms": 158067,
       "name": "Mi Mundo Entero",
       "url": "https://open.spotify.com/track/3NSpi51nrX9BkWUHN08QAJ"
+    },
+    {
+      "album": {
+        "name": "Monoton\u00eda",
+        "url": "https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158804,
+      "name": "Monoton\u00eda",
+      "url": "https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76"
     },
     {
       "album": {
@@ -1241,10 +1347,32 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 275186,
       "name": "Patac\u00f3n Pisao",
       "url": "https://open.spotify.com/track/7J3rDUSA4vDHaqHPblboTU"
+    },
+    {
+      "album": {
+        "name": "Por Un Perro",
+        "url": "https://open.spotify.com/album/1S7umwRqsNaYeoSWe0UjLw"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230320,
+      "name": "Por Un Perro",
+      "url": "https://open.spotify.com/track/3OBIkfgxatom7uCRNZxEa3"
     },
     {
       "album": {
@@ -1405,7 +1533,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 200520,
       "name": "Rosal\u00eda - Live",
       "url": "https://open.spotify.com/track/4YwUVJPlq93RcAYDLz31uP"
@@ -1431,6 +1559,28 @@
       "duration_ms": 264757,
       "name": "Se\u00f1or Juez",
       "url": "https://open.spotify.com/track/2PH533J1xudlfZ5GaHAdVX"
+    },
+    {
+      "album": {
+        "name": "@dannocean",
+        "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212914,
+      "name": "SI ES AMOR",
+      "url": "https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S"
     },
     {
       "album": {
@@ -1489,6 +1639,32 @@
       "duration_ms": 216737,
       "name": "Sus Huellas",
       "url": "https://open.spotify.com/track/2NTMjOwveAazm5GS2wgDgw"
+    },
+    {
+      "album": {
+        "name": "INTRUSO",
+        "url": "https://open.spotify.com/album/4K5N6FoZm9Oki26KjmLrRw"
+      },
+      "artists": [
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        },
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192073,
+      "name": "S\u00e9 Que Est\u00e1s Con \u00c9l",
+      "url": "https://open.spotify.com/track/003A7dXikhqxbT1dWXPuf3"
     },
     {
       "album": {
@@ -1551,6 +1727,28 @@
       "duration_ms": 210373,
       "name": "Te Tengo Ganas",
       "url": "https://open.spotify.com/track/3FhMGOGlgzEmgyzr54nhWy"
+    },
+    {
+      "album": {
+        "name": "Tu Apellido",
+        "url": "https://open.spotify.com/album/7CNIv4WRksLzyIKg039mj4"
+      },
+      "artists": [
+        {
+          "name": "Ezio Oliva",
+          "url": "https://open.spotify.com/artist/7MP3vdAhPGxCkUVgOP1Nln"
+        },
+        {
+          "name": "zzoilo",
+          "url": "https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161053,
+      "name": "Tu Apellido",
+      "url": "https://open.spotify.com/track/2TU4tlyGdNznDYinTE7yiL"
     },
     {
       "album": {
@@ -1624,6 +1822,24 @@
     },
     {
       "album": {
+        "name": "100 % Latino Vol. 1",
+        "url": "https://open.spotify.com/album/6M7YGALzaiR2xPezIz73FA"
+      },
+      "artists": [
+        {
+          "name": "Grupo Merenguisimo",
+          "url": "https://open.spotify.com/artist/4KcGb6w8lBbsV0tErkz3fW"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 206373,
+      "name": "Vale la Pena",
+      "url": "https://open.spotify.com/track/1gnkKuNpKnOvXMftw747lu"
+    },
+    {
+      "album": {
         "name": "Ni Es Lo Mismo Ni Es Igual",
         "url": "https://open.spotify.com/album/0rMhxS1sNMYZ4OLKuoDhLN"
       },
@@ -1635,10 +1851,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-16",
       "duration_ms": 207333,
       "name": "Vale la Pena",
       "url": "https://open.spotify.com/track/4vpii4xtBH8pAgUn8acSGy"
+    },
+    {
+      "album": {
+        "name": "Ni Es Lo Mismo Ni Es Igual",
+        "url": "https://open.spotify.com/album/0RWsJiIvRxAbmzfSTJsabn"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207333,
+      "name": "Vale la Pena",
+      "url": "https://open.spotify.com/track/7uC9TpGGHrAssX8NUKBqed"
     },
     {
       "album": {
@@ -1689,7 +1923,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 277333,
       "name": "Ven y Dime",
       "url": "https://open.spotify.com/track/5oehfo4iOEb2qdTdKxxgRj"

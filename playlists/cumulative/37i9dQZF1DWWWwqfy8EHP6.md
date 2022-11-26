@@ -4,7 +4,7 @@
 
 > LeeHi's here for you, Hice Creams!
 
-99 songs - 6 hr 10 min - [published](https://open.spotify.com/playlist/64ixMffQEVRKXFtILyCHmm)
+100 songs - 6 hr 14 min - [published](https://open.spotify.com/playlist/64ixMffQEVRKXFtILyCHmm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Fool For Love](https://open.spotify.com/track/6uu9oJsRfFQfhFp2BxMucP) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [First Love](https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo) | 4:05 | 2022-03-14 |  |
 | [For You](https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [For You](https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz) | 3:25 | 2022-03-14 |  |
 | [For You \(Holiday Remix\) \- Spotify Singles Holiday](https://open.spotify.com/track/7I4DnQPWhzZvK79px5UhT5) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Spotify Singles \- Holiday](https://open.spotify.com/album/5AVL4k3pesuk0jRkTeCOSm) | 3:31 | 2022-03-14 |  |
-| [FXXK WIT US](https://open.spotify.com/track/6wj3blmFAG2pNWQ40Yuaq8) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [SEOULITE](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) | 3:37 | 2022-03-14 | 2022-08-29 |
+| [FXXK WIT US](https://open.spotify.com/track/6wj3blmFAG2pNWQ40Yuaq8) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [SEOULITE](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) | 3:37 | 2022-03-14 | 2022-11-14 |
 | [FXXK WIT US](https://open.spotify.com/track/7mIL8AaIEk9OeMqMyJBxAF) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [SEOULITE](https://open.spotify.com/album/4p27GsqUEbfl83iPtt0IcI) | 3:37 | 2022-03-14 |  |
 | [FXXK WIT US](https://open.spotify.com/track/2qWgqPdW1OiAP8KSBH1b93) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [SEOULITE](https://open.spotify.com/album/1xnXVzinhfO4I9CzTocPfh) | 3:37 | 2022-03-14 | 2022-07-29 |
 | [Golden Slumbers](https://open.spotify.com/track/6wdG5d2iQpFw2iTw06N4r5) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Golden Slumbers \[Original Motion Pictures Soundtrack \(Special Track\)\]](https://open.spotify.com/album/16jwxhrAtCOLPRKmux5PWh) | 2:28 | 2022-03-14 |  |
@@ -71,6 +71,7 @@
 | [NO WAY](https://open.spotify.com/track/4WxeDb9YZABqk3QaH9CCu1) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [G.Soul](https://open.spotify.com/artist/0fLesFHNsJpalRtqzSYxnd) | [24℃](https://open.spotify.com/album/47gO1PsZBE4DdS9ipfiHti) | 4:16 | 2022-03-14 | 2022-07-29 |
 | [O \(Feat\. LEE HI\)](https://open.spotify.com/track/7iooxPmnLY6wZynSplHUah) | [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [PEOPLE](https://open.spotify.com/album/2UF3SkoMBUZZf5n6sCBUft) | 3:32 | 2022-03-14 |  |
 | [OFFICIAL](https://open.spotify.com/track/2v1ksuWEkleGRlj60cMyxZ) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Incredivle](https://open.spotify.com/artist/10DC7UmwtLsdVCBZ0jfsW7) | [SEOULITE](https://open.spotify.com/album/1xnXVzinhfO4I9CzTocPfh) | 3:29 | 2022-03-14 | 2022-07-29 |
+| [OFFICIAL](https://open.spotify.com/track/6HRqKj06oBjiKdmDOhCvPs) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [인크레더블](https://open.spotify.com/artist/0YhDHW8UkDzlw6ZNJtZZXk) | [SEOULITE](https://open.spotify.com/album/4p27GsqUEbfl83iPtt0IcI) | 3:29 | 2022-03-14 | 2022-11-13 |
 | [OFFICIAL](https://open.spotify.com/track/6VcH0CquknNzLpI0cmNewJ) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [인크레더블](https://open.spotify.com/artist/0YhDHW8UkDzlw6ZNJtZZXk) | [SEOULITE](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) | 3:29 | 2022-03-14 |  |
 | [On & On \(feat\. Lee Hi\)](https://open.spotify.com/track/2fC4olmcp1E6bVl3PUUUcf) | [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Reborn](https://open.spotify.com/album/5thIDYwoYFRctQMTN4V6CM) | 4:39 | 2022-03-14 |  |
 | [One\-Sided Love](https://open.spotify.com/track/3D37MXSt6srzIR4nhopEoE) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [First Love](https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo) | 3:52 | 2022-03-14 |  |

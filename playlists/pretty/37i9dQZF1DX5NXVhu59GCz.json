@@ -1,12 +1,12 @@
 {
   "description": "Acid blues, psy-blues and the early pioneers of psychedelic rock.",
-  "num_followers": 113759,
+  "num_followers": 114755,
   "original_name": "Acid Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5NTUwNCwwMDAwMDAwMDczNjM4ZWU4NDE1ODhjMmQwYzFiYjAzNDAyMjUwNzlk",
+  "snapshot_id": "MTY0ODQ5NTUwNCwwMDAwMDAwMDZiYjliZDFjODJiNDkwZWE4YWZiYTY3NGYyN2MxNDJm",
   "tracks": [
     {
       "added_at": "2018-02-28 19:55:41",
@@ -47,38 +47,6 @@
     {
       "added_at": "2018-02-28 19:55:41",
       "album": {
-        "name": "Disraeli Gears (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3W6CI0Lw7lElAPID2Fd3B4"
-      },
-      "artists": [
-        {
-          "name": "Cream",
-          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
-        }
-      ],
-      "duration_ms": 166280,
-      "name": "Strange Brew",
-      "url": "https://open.spotify.com/track/47bXIv24jthL4vzZy3j7CY"
-    },
-    {
-      "added_at": "2018-02-28 19:55:41",
-      "album": {
-        "name": "Journey To The Center Of The Mind",
-        "url": "https://open.spotify.com/album/1C7Z6X7m9uxVP9Jtaoyvj5"
-      },
-      "artists": [
-        {
-          "name": "The Amboy Dukes",
-          "url": "https://open.spotify.com/artist/5cVLuEqb7aOHuzwssXHzWI"
-        }
-      ],
-      "duration_ms": 338719,
-      "name": "Baby Please Don't Go",
-      "url": "https://open.spotify.com/track/5FDGmW9TgycCTVwPnKZ4xC"
-    },
-    {
-      "added_at": "2018-02-28 19:55:41",
-      "album": {
         "name": "Electric Music For The Mind And Body",
         "url": "https://open.spotify.com/album/1PdqT2EZfFkWTsN18x1SZk"
       },
@@ -95,18 +63,18 @@
     {
       "added_at": "2018-02-28 19:55:41",
       "album": {
-        "name": "Both Sides of the Sky",
-        "url": "https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407"
+        "name": "Disraeli Gears",
+        "url": "https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY"
       },
       "artists": [
         {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
         }
       ],
-      "duration_ms": 301520,
-      "name": "Mannish Boy",
-      "url": "https://open.spotify.com/track/0hnlRgTh80b1emNnM0jmwt"
+      "duration_ms": 166600,
+      "name": "Strange Brew",
+      "url": "https://open.spotify.com/track/3ET8TZWF5sP4SPfJK1lKun"
     },
     {
       "added_at": "2022-03-28 19:25:04",
@@ -127,6 +95,38 @@
     {
       "added_at": "2018-02-28 19:55:41",
       "album": {
+        "name": "Both Sides of the Sky",
+        "url": "https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 301520,
+      "name": "Mannish Boy",
+      "url": "https://open.spotify.com/track/0hnlRgTh80b1emNnM0jmwt"
+    },
+    {
+      "added_at": "2018-02-28 19:55:41",
+      "album": {
+        "name": "Journey To The Center Of The Mind",
+        "url": "https://open.spotify.com/album/1C7Z6X7m9uxVP9Jtaoyvj5"
+      },
+      "artists": [
+        {
+          "name": "The Amboy Dukes",
+          "url": "https://open.spotify.com/artist/5cVLuEqb7aOHuzwssXHzWI"
+        }
+      ],
+      "duration_ms": 338719,
+      "name": "Baby Please Don't Go",
+      "url": "https://open.spotify.com/track/5FDGmW9TgycCTVwPnKZ4xC"
+    },
+    {
+      "added_at": "2018-02-28 19:55:41",
+      "album": {
         "name": "Heavy",
         "url": "https://open.spotify.com/album/1J2sJJSNlSoWAT9JWBEBeW"
       },
@@ -139,22 +139,6 @@
       "duration_ms": 150533,
       "name": "Unconscious Power",
       "url": "https://open.spotify.com/track/1nE3arIIBRNwzzbBxhhSC4"
-    },
-    {
-      "added_at": "2022-03-28 19:25:04",
-      "album": {
-        "name": "Distortions",
-        "url": "https://open.spotify.com/album/0L7ktraAFQOxPHgK2zLbyf"
-      },
-      "artists": [
-        {
-          "name": "The Litter",
-          "url": "https://open.spotify.com/artist/6wvtyGNtNtLlkHONVzOocm"
-        }
-      ],
-      "duration_ms": 272493,
-      "name": "Codine",
-      "url": "https://open.spotify.com/track/1D5PLr1KOnXSo5sJyPUmXP"
     },
     {
       "added_at": "2022-03-28 19:25:04",
@@ -191,34 +175,18 @@
     {
       "added_at": "2022-03-28 19:25:04",
       "album": {
-        "name": "A Child's Guide To Good And Evil",
-        "url": "https://open.spotify.com/album/7wieiJFEfvS2tWCxv8IBhF"
+        "name": "Distortions",
+        "url": "https://open.spotify.com/album/0L7ktraAFQOxPHgK2zLbyf"
       },
       "artists": [
         {
-          "name": "The West Coast Pop Art Experimental Band",
-          "url": "https://open.spotify.com/artist/2z4eiJkDaXYCR9kv2UuSgz"
+          "name": "The Litter",
+          "url": "https://open.spotify.com/artist/6wvtyGNtNtLlkHONVzOocm"
         }
       ],
-      "duration_ms": 161400,
-      "name": "A Child of a Few Hours Is Burning to Death",
-      "url": "https://open.spotify.com/track/1U0JgQRSufNmWPvD9aklZt"
-    },
-    {
-      "added_at": "2018-02-28 19:55:41",
-      "album": {
-        "name": "Inner Mystique",
-        "url": "https://open.spotify.com/album/59gjybUFPdD8weo8AOFjzd"
-      },
-      "artists": [
-        {
-          "name": "The Chocolate Watchband",
-          "url": "https://open.spotify.com/artist/0BNTrhhkZLsbcWAidMz98A"
-        }
-      ],
-      "duration_ms": 192560,
-      "name": "Baby Blue",
-      "url": "https://open.spotify.com/track/4f2kQCUusGjKrUeowAtUOc"
+      "duration_ms": 272493,
+      "name": "Codine",
+      "url": "https://open.spotify.com/track/1D5PLr1KOnXSo5sJyPUmXP"
     },
     {
       "added_at": "2022-03-28 19:25:04",
@@ -255,6 +223,38 @@
     {
       "added_at": "2022-03-28 19:25:04",
       "album": {
+        "name": "A Child's Guide To Good And Evil",
+        "url": "https://open.spotify.com/album/7wieiJFEfvS2tWCxv8IBhF"
+      },
+      "artists": [
+        {
+          "name": "The West Coast Pop Art Experimental Band",
+          "url": "https://open.spotify.com/artist/2z4eiJkDaXYCR9kv2UuSgz"
+        }
+      ],
+      "duration_ms": 161400,
+      "name": "A Child of a Few Hours Is Burning to Death",
+      "url": "https://open.spotify.com/track/1U0JgQRSufNmWPvD9aklZt"
+    },
+    {
+      "added_at": "2018-02-28 19:55:41",
+      "album": {
+        "name": "Inner Mystique",
+        "url": "https://open.spotify.com/album/59gjybUFPdD8weo8AOFjzd"
+      },
+      "artists": [
+        {
+          "name": "The Chocolate Watchband",
+          "url": "https://open.spotify.com/artist/0BNTrhhkZLsbcWAidMz98A"
+        }
+      ],
+      "duration_ms": 192560,
+      "name": "Baby Blue",
+      "url": "https://open.spotify.com/track/4f2kQCUusGjKrUeowAtUOc"
+    },
+    {
+      "added_at": "2022-03-28 19:25:04",
+      "album": {
         "name": "The Legendary Goldstar Album & Golden Glass",
         "url": "https://open.spotify.com/album/06mZtBRnJeufBaT0TFkqLf"
       },
@@ -267,22 +267,6 @@
       "duration_ms": 271173,
       "name": "Never Had A Girl",
       "url": "https://open.spotify.com/track/0KwbZlIbKH0ntZjrvPsxXU"
-    },
-    {
-      "added_at": "2018-02-28 19:55:41",
-      "album": {
-        "name": "Blues Helping",
-        "url": "https://open.spotify.com/album/08ihWWd9zFaUBPjF7Hs8PB"
-      },
-      "artists": [
-        {
-          "name": "Love Sculpture",
-          "url": "https://open.spotify.com/artist/4D1hYdWKVKyQQQNxNHlYtq"
-        }
-      ],
-      "duration_ms": 310360,
-      "name": "3 O'Clock Blues - 1999 RemasterStereo",
-      "url": "https://open.spotify.com/track/41849X1PrqMv0elH2prPWp"
     },
     {
       "added_at": "2018-02-28 19:55:41",
@@ -303,18 +287,34 @@
     {
       "added_at": "2018-02-28 19:55:41",
       "album": {
-        "name": "The Savage Resurrection",
-        "url": "https://open.spotify.com/album/2Tzvkt45C7PLlLICWYNslu"
+        "name": "Blues Helping",
+        "url": "https://open.spotify.com/album/08ihWWd9zFaUBPjF7Hs8PB"
       },
       "artists": [
         {
-          "name": "The Savage Resurrection",
-          "url": "https://open.spotify.com/artist/16dZsYfKoAqmnt1tyhAPkE"
+          "name": "Love Sculpture",
+          "url": "https://open.spotify.com/artist/4D1hYdWKVKyQQQNxNHlYtq"
         }
       ],
-      "duration_ms": 162586,
-      "name": "Fox Is Sick",
-      "url": "https://open.spotify.com/track/7uEw55wwByGZnEUTX0MaEI"
+      "duration_ms": 310360,
+      "name": "3 O'Clock Blues - 1999 RemasterStereo",
+      "url": "https://open.spotify.com/track/41849X1PrqMv0elH2prPWp"
+    },
+    {
+      "added_at": "2018-02-28 19:55:41",
+      "album": {
+        "name": "The Yardbirds Story - Pt. 3 - 1965/66 - Big Hits & America Calling",
+        "url": "https://open.spotify.com/album/0lYmtEuL0fLXPP4XKr5O8K"
+      },
+      "artists": [
+        {
+          "name": "The Yardbirds",
+          "url": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX"
+        }
+      ],
+      "duration_ms": 208493,
+      "name": "The Train Kept A-Rollin'",
+      "url": "https://open.spotify.com/track/6pW2lKORQaIC6JR4qBNG9e"
     },
     {
       "added_at": "2018-02-28 19:55:41",
@@ -331,22 +331,6 @@
       "duration_ms": 295213,
       "name": "Contemporary Chick Con Song - Remastered",
       "url": "https://open.spotify.com/track/0ejMOOcG8JLEum6LfoPVtl"
-    },
-    {
-      "added_at": "2018-02-28 19:55:41",
-      "album": {
-        "name": "Hibernated - Earth Omen",
-        "url": "https://open.spotify.com/album/6BCvuOvXBZmM68vSgtRR2F"
-      },
-      "artists": [
-        {
-          "name": "Frijid Pink",
-          "url": "https://open.spotify.com/artist/0K24Tk5QTxx6tkcCdnY3Od"
-        }
-      ],
-      "duration_ms": 384533,
-      "name": "Miss Evil",
-      "url": "https://open.spotify.com/track/0Ta7eXWE6geBJjuj9tAuzb"
     },
     {
       "added_at": "2022-03-28 19:25:04",
@@ -367,18 +351,34 @@
     {
       "added_at": "2018-02-28 19:55:41",
       "album": {
-        "name": "The Yardbirds Story - Pt. 3 - 1965/66 - Big Hits & America Calling",
-        "url": "https://open.spotify.com/album/0lYmtEuL0fLXPP4XKr5O8K"
+        "name": "Psychedelic Drugstore - Remastered",
+        "url": "https://open.spotify.com/album/6TrlKpZSlcw3qzdHc42QzP"
       },
       "artists": [
         {
-          "name": "The Yardbirds",
-          "url": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX"
+          "name": "Aguaturbia",
+          "url": "https://open.spotify.com/artist/1GGnADQvJeAIqtrjWc0CFc"
         }
       ],
-      "duration_ms": 208493,
-      "name": "The Train Kept A-Rollin'",
-      "url": "https://open.spotify.com/track/6pW2lKORQaIC6JR4qBNG9e"
+      "duration_ms": 635271,
+      "name": "Crimson & Clover",
+      "url": "https://open.spotify.com/track/67kP4RjiGxSggSO5YniuLC"
+    },
+    {
+      "added_at": "2018-02-28 19:55:41",
+      "album": {
+        "name": "The Savage Resurrection",
+        "url": "https://open.spotify.com/album/2Tzvkt45C7PLlLICWYNslu"
+      },
+      "artists": [
+        {
+          "name": "The Savage Resurrection",
+          "url": "https://open.spotify.com/artist/16dZsYfKoAqmnt1tyhAPkE"
+        }
+      ],
+      "duration_ms": 162586,
+      "name": "Fox Is Sick",
+      "url": "https://open.spotify.com/track/7uEw55wwByGZnEUTX0MaEI"
     },
     {
       "added_at": "2018-02-28 19:55:41",
@@ -403,34 +403,18 @@
     {
       "added_at": "2018-02-28 19:55:41",
       "album": {
-        "name": "Psychedelic Drugstore - Remastered",
-        "url": "https://open.spotify.com/album/6TrlKpZSlcw3qzdHc42QzP"
+        "name": "Inkpot & Attila",
+        "url": "https://open.spotify.com/album/5liqryZxZvie3pfCR21liP"
       },
       "artists": [
         {
-          "name": "Aguaturbia",
-          "url": "https://open.spotify.com/artist/1GGnADQvJeAIqtrjWc0CFc"
+          "name": "Shocking Blue",
+          "url": "https://open.spotify.com/artist/5WimOFbBnCU5wI6t5PPpEk"
         }
       ],
-      "duration_ms": 635271,
-      "name": "Crimson & Clover",
-      "url": "https://open.spotify.com/track/67kP4RjiGxSggSO5YniuLC"
-    },
-    {
-      "added_at": "2018-02-28 19:55:41",
-      "album": {
-        "name": "Power Plant",
-        "url": "https://open.spotify.com/album/77sNTMqrlhhqfo1fOcbjBb"
-      },
-      "artists": [
-        {
-          "name": "The Golden Dawn",
-          "url": "https://open.spotify.com/artist/5zATwJgFNdxKRj3xxLtdAx"
-        }
-      ],
-      "duration_ms": 172946,
-      "name": "Starvation",
-      "url": "https://open.spotify.com/track/77LqKLpqMUiXqqrnrZx7hX"
+      "duration_ms": 159000,
+      "name": "Inkpot",
+      "url": "https://open.spotify.com/track/0KFnCHVyyzOQvWoJbjXi1n"
     },
     {
       "added_at": "2018-02-28 19:55:41",
@@ -451,6 +435,22 @@
     {
       "added_at": "2018-02-28 19:55:41",
       "album": {
+        "name": "Hibernated - Earth Omen",
+        "url": "https://open.spotify.com/album/6BCvuOvXBZmM68vSgtRR2F"
+      },
+      "artists": [
+        {
+          "name": "Frijid Pink",
+          "url": "https://open.spotify.com/artist/0K24Tk5QTxx6tkcCdnY3Od"
+        }
+      ],
+      "duration_ms": 384533,
+      "name": "Miss Evil",
+      "url": "https://open.spotify.com/track/0Ta7eXWE6geBJjuj9tAuzb"
+    },
+    {
+      "added_at": "2018-02-28 19:55:41",
+      "album": {
         "name": "Psychotic Reaction",
         "url": "https://open.spotify.com/album/7Mccdl5xR9mfqo00lgDVDA"
       },
@@ -465,36 +465,36 @@
       "url": "https://open.spotify.com/track/6URPlvJyBNQfASywtcLKKj"
     },
     {
-      "added_at": "2018-02-28 19:55:41",
+      "added_at": "2022-03-28 19:25:04",
       "album": {
-        "name": "Inkpot & Attila",
-        "url": "https://open.spotify.com/album/5liqryZxZvie3pfCR21liP"
+        "name": "Psychedelic Lollipop",
+        "url": "https://open.spotify.com/album/5WSiEiH8BtgVil5xR2pYEX"
       },
       "artists": [
         {
-          "name": "Shocking Blue",
-          "url": "https://open.spotify.com/artist/5WimOFbBnCU5wI6t5PPpEk"
+          "name": "The Blues Magoos",
+          "url": "https://open.spotify.com/artist/7peASGSN6FkIFQ3XjLfBtB"
         }
       ],
-      "duration_ms": 159000,
-      "name": "Inkpot",
-      "url": "https://open.spotify.com/track/0KFnCHVyyzOQvWoJbjXi1n"
+      "duration_ms": 250960,
+      "name": "Sometimes I Think About",
+      "url": "https://open.spotify.com/track/23fMtT3EAnM0Nz3DPVKQxL"
     },
     {
       "added_at": "2018-02-28 19:55:41",
       "album": {
-        "name": "Incense And Peppermints",
-        "url": "https://open.spotify.com/album/4NbLTe8YqLFwys4SmkEofd"
+        "name": "Power Plant",
+        "url": "https://open.spotify.com/album/77sNTMqrlhhqfo1fOcbjBb"
       },
       "artists": [
         {
-          "name": "Strawberry Alarm Clock",
-          "url": "https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI"
+          "name": "The Golden Dawn",
+          "url": "https://open.spotify.com/artist/5zATwJgFNdxKRj3xxLtdAx"
         }
       ],
-      "duration_ms": 505266,
-      "name": "The World's On Fire",
-      "url": "https://open.spotify.com/track/5Osu3BeGYl2t0auN3IXHam"
+      "duration_ms": 172946,
+      "name": "Starvation",
+      "url": "https://open.spotify.com/track/77LqKLpqMUiXqqrnrZx7hX"
     },
     {
       "added_at": "2022-03-28 19:25:04",
@@ -515,22 +515,6 @@
     {
       "added_at": "2018-02-28 19:55:41",
       "album": {
-        "name": "Vanilla Fudge",
-        "url": "https://open.spotify.com/album/4rvXyAx9phjxiU4cQS1AJh"
-      },
-      "artists": [
-        {
-          "name": "Vanilla Fudge",
-          "url": "https://open.spotify.com/artist/0vIMq3W8V63uR4Ymgm2pF1"
-        }
-      ],
-      "duration_ms": 235133,
-      "name": "a) Take Me For A Little While b) RYFI (Illusions Of My Childhood-Part Three)",
-      "url": "https://open.spotify.com/track/2AXigUpz4ycfVS550RH8wI"
-    },
-    {
-      "added_at": "2018-02-28 19:55:41",
-      "album": {
         "name": "Good Times Are So Hard To Find",
         "url": "https://open.spotify.com/album/7ecNoSQ9aRZnxAHwTCpVt9"
       },
@@ -543,22 +527,6 @@
       "duration_ms": 198866,
       "name": "Good Times Are So Hard To Find",
       "url": "https://open.spotify.com/track/1RCaB8ZclzAsuw9jRi0SIx"
-    },
-    {
-      "added_at": "2018-02-28 19:55:41",
-      "album": {
-        "name": "Psychedelic Resurrection",
-        "url": "https://open.spotify.com/album/1FzOC8f2m4Gc5vFQkufqwJ"
-      },
-      "artists": [
-        {
-          "name": "The Blues Magoos",
-          "url": "https://open.spotify.com/artist/7peASGSN6FkIFQ3XjLfBtB"
-        }
-      ],
-      "duration_ms": 137346,
-      "name": "We Ain't Got Nothin' yet",
-      "url": "https://open.spotify.com/track/7xwf45gey53Ftmo3duaAei"
     },
     {
       "added_at": "2018-02-28 19:55:41",
@@ -579,18 +547,50 @@
     {
       "added_at": "2018-02-28 19:55:41",
       "album": {
-        "name": "Cauldron",
-        "url": "https://open.spotify.com/album/7aDnFNJkraWwSxMNtPLcfz"
+        "name": "Incense And Peppermints",
+        "url": "https://open.spotify.com/album/4NbLTe8YqLFwys4SmkEofd"
       },
       "artists": [
         {
-          "name": "Fifty Foot Hose",
-          "url": "https://open.spotify.com/artist/2sQPJFyaYBVSNB9NiEUnMM"
+          "name": "Strawberry Alarm Clock",
+          "url": "https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI"
         }
       ],
-      "duration_ms": 218666,
-      "name": "If Not This Time",
-      "url": "https://open.spotify.com/track/6PKIEPXO7B1tIH1XMUy3fV"
+      "duration_ms": 505266,
+      "name": "The World's On Fire",
+      "url": "https://open.spotify.com/track/5Osu3BeGYl2t0auN3IXHam"
+    },
+    {
+      "added_at": "2018-02-28 19:55:41",
+      "album": {
+        "name": "Vanilla Fudge",
+        "url": "https://open.spotify.com/album/4rvXyAx9phjxiU4cQS1AJh"
+      },
+      "artists": [
+        {
+          "name": "Vanilla Fudge",
+          "url": "https://open.spotify.com/artist/0vIMq3W8V63uR4Ymgm2pF1"
+        }
+      ],
+      "duration_ms": 235133,
+      "name": "a) Take Me For A Little While b) RYFI (Illusions Of My Childhood-Part Three)",
+      "url": "https://open.spotify.com/track/2AXigUpz4ycfVS550RH8wI"
+    },
+    {
+      "added_at": "2018-02-28 19:55:41",
+      "album": {
+        "name": "Psychedelic Resurrection",
+        "url": "https://open.spotify.com/album/1FzOC8f2m4Gc5vFQkufqwJ"
+      },
+      "artists": [
+        {
+          "name": "The Blues Magoos",
+          "url": "https://open.spotify.com/artist/7peASGSN6FkIFQ3XjLfBtB"
+        }
+      ],
+      "duration_ms": 137346,
+      "name": "We Ain't Got Nothin' yet",
+      "url": "https://open.spotify.com/track/7xwf45gey53Ftmo3duaAei"
     },
     {
       "added_at": "2018-02-28 19:55:41",
@@ -607,6 +607,22 @@
       "duration_ms": 135026,
       "name": "Get Yourself Home - Remastered",
       "url": "https://open.spotify.com/track/1I6z0Y0PBQvDPJUmsV8Uk4"
+    },
+    {
+      "added_at": "2018-02-28 19:55:41",
+      "album": {
+        "name": "Cauldron",
+        "url": "https://open.spotify.com/album/7aDnFNJkraWwSxMNtPLcfz"
+      },
+      "artists": [
+        {
+          "name": "Fifty Foot Hose",
+          "url": "https://open.spotify.com/artist/2sQPJFyaYBVSNB9NiEUnMM"
+        }
+      ],
+      "duration_ms": 218666,
+      "name": "If Not This Time",
+      "url": "https://open.spotify.com/track/6PKIEPXO7B1tIH1XMUy3fV"
     },
     {
       "added_at": "2018-02-28 19:55:41",
@@ -657,22 +673,6 @@
       "url": "https://open.spotify.com/track/2oRsUm3jbPiZNp3cIs6cOP"
     },
     {
-      "added_at": "2022-03-28 19:25:04",
-      "album": {
-        "name": "Psychedelic Lollipop",
-        "url": "https://open.spotify.com/album/5WSiEiH8BtgVil5xR2pYEX"
-      },
-      "artists": [
-        {
-          "name": "The Blues Magoos",
-          "url": "https://open.spotify.com/artist/7peASGSN6FkIFQ3XjLfBtB"
-        }
-      ],
-      "duration_ms": 250960,
-      "name": "Sometimes I Think About",
-      "url": "https://open.spotify.com/track/23fMtT3EAnM0Nz3DPVKQxL"
-    },
-    {
       "added_at": "2018-02-28 19:55:41",
       "album": {
         "name": "Eve",
@@ -687,22 +687,6 @@
       "duration_ms": 375800,
       "name": "Big Headed Woman",
       "url": "https://open.spotify.com/track/2yb0ZoqqGX4XDzt2CZarWF"
-    },
-    {
-      "added_at": "2018-02-28 19:55:41",
-      "album": {
-        "name": "The Crazy World of Arthur Brown",
-        "url": "https://open.spotify.com/album/6wPnXZPPznO6pG86IqAVxr"
-      },
-      "artists": [
-        {
-          "name": "The Crazy World Of Arthur Brown",
-          "url": "https://open.spotify.com/artist/2LpdhgwN0mYKMjnzrBQU8H"
-        }
-      ],
-      "duration_ms": 224600,
-      "name": "I Put a Spell on You",
-      "url": "https://open.spotify.com/track/4mLPC3KlU71mb4eDMddLmT"
     },
     {
       "added_at": "2018-02-28 19:55:41",
@@ -755,6 +739,38 @@
     {
       "added_at": "2018-02-28 19:55:41",
       "album": {
+        "name": "The Crazy World of Arthur Brown",
+        "url": "https://open.spotify.com/album/6wPnXZPPznO6pG86IqAVxr"
+      },
+      "artists": [
+        {
+          "name": "The Crazy World Of Arthur Brown",
+          "url": "https://open.spotify.com/artist/2LpdhgwN0mYKMjnzrBQU8H"
+        }
+      ],
+      "duration_ms": 224600,
+      "name": "I Put a Spell on You",
+      "url": "https://open.spotify.com/track/4mLPC3KlU71mb4eDMddLmT"
+    },
+    {
+      "added_at": "2018-02-28 19:55:41",
+      "album": {
+        "name": "Sov Gott Rose-Mari",
+        "url": "https://open.spotify.com/album/4ORvCABBxkkKdYS2TCYIeQ"
+      },
+      "artists": [
+        {
+          "name": "International Harvester",
+          "url": "https://open.spotify.com/artist/1RVXcYQXUeC2pPHINEJcWA"
+        }
+      ],
+      "duration_ms": 100253,
+      "name": "It's Only Love",
+      "url": "https://open.spotify.com/track/1rxnKNmNwu6LSEKZ71LFBQ"
+    },
+    {
+      "added_at": "2018-02-28 19:55:41",
+      "album": {
         "name": "Apple Pie",
         "url": "https://open.spotify.com/album/0eom2ZJPDeUyS4XTaDpAXR"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 361333,
       "name": "Trials of a City",
       "url": "https://open.spotify.com/track/3b5jvjpB3Uf88uilq0aGLF"
-    },
-    {
-      "added_at": "2018-02-28 19:55:41",
-      "album": {
-        "name": "Sov Gott Rose-Mari",
-        "url": "https://open.spotify.com/album/4ORvCABBxkkKdYS2TCYIeQ"
-      },
-      "artists": [
-        {
-          "name": "International Harvester",
-          "url": "https://open.spotify.com/artist/1RVXcYQXUeC2pPHINEJcWA"
-        }
-      ],
-      "duration_ms": 100253,
-      "name": "It's Only Love",
-      "url": "https://open.spotify.com/track/1rxnKNmNwu6LSEKZ71LFBQ"
     },
     {
       "added_at": "2018-02-28 19:55:41",

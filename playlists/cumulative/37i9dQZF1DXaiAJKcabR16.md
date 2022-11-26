@@ -4,7 +4,7 @@
 
 > Slide and steel\. Set your soundtrack to some moody, gritty blues folk.
 
-91 songs - 6 hr 3 min - [published](https://open.spotify.com/playlist/0UHsjagwmAQGvmHUDaFYKF)
+95 songs - 6 hr 20 min - [published](https://open.spotify.com/playlist/0UHsjagwmAQGvmHUDaFYKF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Ain't No Easy Way](https://open.spotify.com/track/2fUUIfU0WurkHNLoUJwGnH) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Howl](https://open.spotify.com/album/5yTFClS2dEGZD5IjM9dfrT) | 2:36 | 2021-07-30 |  |
 | [Ain't No Easy Way](https://open.spotify.com/track/57XbiF3mXSAXDntyEw57lW) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Howl](https://open.spotify.com/album/3otJWr2xpdvZJGNS303RCZ) | 2:36 | 2021-07-30 | 2022-09-09 |
 | [An Honest Man](https://open.spotify.com/track/37C9PC2PjE2oURNjOyzof4) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Fantastic Negrito \- EP](https://open.spotify.com/album/6wSl4enVRjlcQ890pqfQqk) | 4:04 | 2021-07-30 | 2022-07-29 |
+| [An Honest Man](https://open.spotify.com/track/05cf2i1rTtxo6n9XbIHPKZ) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Fantastic Negrito Deluxe EP](https://open.spotify.com/album/0joZ3fA8e7Qj9W2PLExxwn) | 4:06 | 2021-07-30 | 2022-11-14 |
 | [An Honest Man](https://open.spotify.com/track/01Cr7MlISmoh8gMlZBjpko) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [An Honest Man](https://open.spotify.com/album/6YqoghPHyDIIgSsAp7QFdj) | 4:06 | 2021-07-30 |  |
 | [Another Manʼs Grave](https://open.spotify.com/track/0kO82Vu0CXMrkLo5p9EvyI) | [Amigo the Devil](https://open.spotify.com/artist/0AkmSuTOzM2pNCIOSP8ziv) | [Another Manʼs Grave](https://open.spotify.com/album/1ydWuirnz39uMCZYgkE18E) | 3:08 | 2021-07-30 |  |
 | [Bad Moves](https://open.spotify.com/track/5Ep66lg6KdXjX30U5SBQRQ) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [A Celebration](https://open.spotify.com/album/6VH7MDCK71rSCmULCa8hS7) | 4:06 | 2021-07-30 |  |
@@ -69,11 +70,13 @@
 | [Old Number Seven](https://open.spotify.com/track/7FqrsV0vBwNiQNQI6jfzni) | [The Devil Makes Three](https://open.spotify.com/artist/63knPlGzLHTNDf1J78Fvte) | [The Devil Makes Three](https://open.spotify.com/album/18VR3tbMXiPOEj4rQfSp1k) | 3:20 | 2021-07-30 |  |
 | [On the Road Again](https://open.spotify.com/track/1BQkVDlEOtYKOaotnJuNzz) | [Jack Broadbent](https://open.spotify.com/artist/2yk5jg6yi5fV6xmUZoBPHU) | [Along the Trail of Tears](https://open.spotify.com/album/6IcVeQFhXfXimexDoOYJoy) | 3:43 | 2021-07-30 |  |
 | [Red Right Hand \- 2011 \- Remaster](https://open.spotify.com/track/1YrdxppVdO7a5S99gudh43) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Let Love In \(2011 \- Remaster\)](https://open.spotify.com/album/5xDXyagODJCky1n6I2eJXq) | 6:10 | 2021-07-30 | 2022-07-29 |
+| [Red Right Hand \- 2011 Remastered Version](https://open.spotify.com/track/0TiYwuMsemJ0Q9JLWxTjSx) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Lovely Creatures \- The Best of Nick Cave and The Bad Seeds \(1984\-2014\) \[Deluxe Edition\]](https://open.spotify.com/album/05hXano83YIfeLyfdOoMIf) | 6:10 | 2021-07-30 | 2022-11-13 |
 | [Red Right Hand \- 2011 Remastered Version](https://open.spotify.com/track/0qHeP8zt2WWef7EWCs1ECj) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Let Love In \(2011 Remastered Version\)](https://open.spotify.com/album/0Ewp4PEIzkcAyrC463a5xF) | 6:10 | 2021-07-30 |  |
 | [Set My Soul on Fire](https://open.spotify.com/track/5yuqWMCOtMY0IBaQCBzqT5) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Down to the River](https://open.spotify.com/album/3JiILntTtRreadH6W8ftB2) | 4:59 | 2021-07-30 |  |
-| [Shake It](https://open.spotify.com/track/24MehCp25qxUDWadb0XNRw) | [Steve Smyth](https://open.spotify.com/artist/4ejc2q1FtezVtEDOEOuyMO) | [Exits](https://open.spotify.com/album/3JV08IVUR8OrMfCTMdfThw) | 3:42 | 2021-07-30 | 2022-09-03 |
+| [Shake It](https://open.spotify.com/track/24MehCp25qxUDWadb0XNRw) | [Steve Smyth](https://open.spotify.com/artist/4ejc2q1FtezVtEDOEOuyMO) | [Exits](https://open.spotify.com/album/3JV08IVUR8OrMfCTMdfThw) | 3:42 | 2021-07-30 | 2022-11-13 |
 | [Shake It](https://open.spotify.com/track/6RjnBLAqjop8cgSsPrUlCs) | [Steve Smyth](https://open.spotify.com/artist/4ejc2q1FtezVtEDOEOuyMO) | [Exits](https://open.spotify.com/album/3vSNB85xVwlQHjh2AmME8s) | 3:42 | 2021-07-30 | 2022-07-29 |
 | [Shake It](https://open.spotify.com/track/6u9jFigKKYdCLJKeAc1LOb) | [Steve Smyth](https://open.spotify.com/artist/4ejc2q1FtezVtEDOEOuyMO) | [Exits](https://open.spotify.com/album/71N8R4aZ6VDXWUP9jo8l08) | 3:42 | 2021-07-30 |  |
+| [She Took a Gamble](https://open.spotify.com/track/0UoDM2sB2HUAWPbYbv519q) | [Hannah Read](https://open.spotify.com/artist/3ffIal1i0EioO2cZE9oLa9) | [Sounds from Scotland , Vol\. 1](https://open.spotify.com/album/4CChRZ07cnoKZHCp1gHHZw) | 3:13 | 2021-07-30 | 2022-11-14 |
 | [She Took a Gamble](https://open.spotify.com/track/0LzMVEtDRKTQ2WlIVUXT8s) | [Hannah Read](https://open.spotify.com/artist/3ffIal1i0EioO2cZE9oLa9) | [Way Out I'll Wander](https://open.spotify.com/album/1b6Q0enFSwYs4FiOrbgpEQ) | 3:15 | 2021-07-30 |  |
 | [She Took a Gamble](https://open.spotify.com/track/2b2oHgRMo5QYRLft2TRDFi) | [Hannah Read](https://open.spotify.com/artist/3ffIal1i0EioO2cZE9oLa9) | [She Took a Gamble](https://open.spotify.com/album/0l1lw4zbFRgQyUXkhJtYCZ) | 3:15 | 2021-07-30 | 2022-07-29 |
 | [Singing Saw](https://open.spotify.com/track/0VVBiLcDZthpwsXXBCXPgu) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Singing Saw](https://open.spotify.com/album/1s8RmcZjTuvDt9eQ4MAKLI) | 7:15 | 2021-07-30 | 2022-07-29 |
@@ -87,6 +90,7 @@
 | [The Dirt](https://open.spotify.com/track/5VB9VqBUzxR8lj49Scmly0) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/1yqDoOZkNFPbZVwELwWieW) | 3:35 | 2021-07-30 | 2022-07-29 |
 | [The Hounds](https://open.spotify.com/track/36PkUgkmr1hVGLY5VJIXJ5) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [The Hounds](https://open.spotify.com/album/1Uoi1Ki0DQxCTWpNuYH7FE) | 4:04 | 2021-07-30 |  |
 | [The Mark \- Live Solo](https://open.spotify.com/track/5QJMMpa8ihBI2CFEhhmOi4) | [Cold Specks](https://open.spotify.com/artist/2DMHBCdboDAYJWzt2lDSP5) | [Spotify Session](https://open.spotify.com/album/4Vt7lG6HA70tiPDMkK6Cch) | 2:18 | 2021-07-30 |  |
+| [Thousand Mile Night](https://open.spotify.com/track/34Uf3UWc5oUd5f0NxZ1KJR) | [Jonah Tolchin](https://open.spotify.com/artist/66jsWaGhzSpHH1KRF34Oq3) | [Thousand Mile Night](https://open.spotify.com/album/3NrqvphiHgZq1golNdpyKv) | 3:55 | 2021-07-30 | 2022-11-13 |
 | [Thousand Mile Night](https://open.spotify.com/track/4q4F2OEZJ2EQuRNBKytiDr) | [Jonah Tolchin](https://open.spotify.com/artist/66jsWaGhzSpHH1KRF34Oq3) | [Thousand Mile Night](https://open.spotify.com/album/4LkEoMZMHwVWLByjtt4wQf) | 3:55 | 2021-07-30 |  |
 | [Thousand Mile Night](https://open.spotify.com/track/5yeM63cXgGvSN2VrcHbv6x) | [Jonah Tolchin](https://open.spotify.com/artist/66jsWaGhzSpHH1KRF34Oq3) | [Thousand Mile Night \- Single](https://open.spotify.com/album/3ARIeQHdKOLeGnSqGi1g40) | 3:55 | 2021-07-30 | 2022-07-29 |
 | [Three More Days](https://open.spotify.com/track/2pDOP7lUpO5LGUz798H0me) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Till The Sun Turns Black](https://open.spotify.com/album/6teArUjXEHY8nEbWiOf1Hq) | 3:36 | 2021-07-30 |  |

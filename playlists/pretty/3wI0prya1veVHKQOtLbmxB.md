@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/3wI0prya1veVHKQOtLbmxB.md) - [plain](/playlists/plain/3wI0prya1veVHKQOtLbmxB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3wI0prya1veVHKQOtLbmxB)
 
-### [Crazy In Love](https://open.spotify.com/playlist/3wI0prya1veVHKQOtLbmxB)
+### [songs to fall in love to](https://open.spotify.com/playlist/3wI0prya1veVHKQOtLbmxB)
 
-> Celebrate LOVE with this playlist of classic love songs and discover some new favorites!
+> Get ready for Valentine's Day 2023! Love Songs for 2022! Celebrate LOVE with this playlist of classic love songs and discover some new favorites!
 
-[Topsify US](https://open.spotify.com/user/warnermusicus) - 148,724 likes - 80 songs - 5 hr 15 min
+[Topsify US](https://open.spotify.com/user/warnermusicus) - 148,503 likes - 80 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/3wI0prya1veVHKQOtLbmxB.md) - [plain]
 | 79 | [You Make Loving Fun \- 2004 Remaster](https://open.spotify.com/track/55mQhobuwtY7lfLAXylg1k) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 3:36 |
 | 80 | [Time After Time](https://open.spotify.com/track/1Jj6MF0xDOMA3Ut2Z368Bx) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual: A 30th Anniversary Celebration \(Deluxe Edition\)](https://open.spotify.com/album/4pox3k0CGuwwAknR9GtcoX) | 4:03 |
 
-Snapshot ID: `MjIxNyw2NjQ3ZDczNzI1NzA4NWQ2ZTQ5ODRiNTcxYjYxYTc5MWNhNWFkYTA1`
+Snapshot ID: `MjIyMywzM2NlNzUzNjljYzI1NTgwMzgwMTZkMjI0ZTc3ZDUxOTdmZmZlNzZh`

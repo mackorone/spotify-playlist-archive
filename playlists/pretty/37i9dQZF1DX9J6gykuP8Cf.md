@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9J6gykuP8Cf.md) - [plain]
 
 > The official playlist for Metal Lords\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,466 likes - 18 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,328 likes - 18 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Machinery Of Torment \(From The Netflix Film "Metal Lords"\)](https://open.spotify.com/track/7kww7WSGoTy2Nkvl2tKpIJ) | [Skullflower](https://open.spotify.com/artist/2NyzmKNW0uXrv6jEE3cQfJ) | [Machinery Of Torment \(From The Netflix Film "Metal Lords"\)](https://open.spotify.com/album/5tHxZMveT3armkawVYxETP) | 4:22 |
+| 1 | [Machinery Of Torment \(From The Netflix Film "Metal Lords"\)](https://open.spotify.com/track/2nUIQb5rkpHa2DOxZ7vcOH) | [Skullflower](https://open.spotify.com/artist/2NyzmKNW0uXrv6jEE3cQfJ) | [Machinery Of Torment \(From The Netflix Film "Metal Lords"\)](https://open.spotify.com/album/3lncXQChYYzNNyU6yRqqP7) | 4:22 |
 | 2 | [Metal Gods](https://open.spotify.com/track/0VFfZVCFNe1I2IIChVBR5m) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [British Steel](https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY) | 3:58 |
 | 3 | [The Trooper \- 2015 Remaster](https://open.spotify.com/track/1Ab3hhOw1TJWDgO10vlxNZ) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Piece of Mind \(2015 \- Remaster\)](https://open.spotify.com/album/6iVSpex7UohpwPOYZEYmvm) | 4:12 |
 | 4 | [Hail to the King](https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 5:05 |
@@ -27,4 +27,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9J6gykuP8Cf.md) - [plain]
 | 17 | [Whiplash \(Remastered\)](https://open.spotify.com/track/4k1IS2uF2dGcU3GzOOZqqb) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Kill 'Em All \(Remastered\)](https://open.spotify.com/album/0vNBQof86Lv5gLuf26ML7o) | 4:08 |
 | 18 | [I'm Broken](https://open.spotify.com/track/46VBfb29ibhXoLYm76cwFW) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Metal Legends](https://open.spotify.com/album/5UiYJPB3sQ0Ry3mZ8OXX8M) | 4:25 |
 
-Snapshot ID: `MTY0OTM5MTA1MCwwMDAwMDAwMGY5ZmYwYjBkOWI2ZTVjNDI1MTYyZmQ3N2JjM2E2NzVk`
+Snapshot ID: `MTY0OTM5MTA1MCwwMDAwMDAwMDY5ZjFhYzhmMTIwMjNiYmU2OTQwYjQ5NTg3YWE3YTQ2`

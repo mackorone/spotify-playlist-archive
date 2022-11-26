@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 246101,
       "name": "3AM IN CHELSEA",
       "url": "https://open.spotify.com/track/78Y0MDNQJea7OsrUpcatF2"
@@ -339,7 +339,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-12",
+      "date_removed": "2022-11-13",
       "duration_ms": 245624,
       "name": "BLACK MAGIC",
       "url": "https://open.spotify.com/track/2aCG0g9uxi8nK1OUZ7A65j"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": "2022-11-12",
       "duration_ms": 398664,
       "name": "Blessed - Virgil Abloh Future-Jazz Remix",
       "url": "https://open.spotify.com/track/0n5lyd7CH2765y89ayEwHN"
@@ -401,10 +401,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 216360,
       "name": "Boylife in EU",
       "url": "https://open.spotify.com/track/1WA5dWFBwokGf1dIRLYwVD"
+    },
+    {
+      "album": {
+        "name": "Starz",
+        "url": "https://open.spotify.com/album/4NESArVYihJKvoXk1eYE8A"
+      },
+      "artists": [
+        {
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216360,
+      "name": "Boylife in EU",
+      "url": "https://open.spotify.com/track/3ULEHJxcQuFWCoRc7AYncF"
     },
     {
       "album": {
@@ -444,6 +462,42 @@
     },
     {
       "album": {
+        "name": "The Last Dance, Pt. 2",
+        "url": "https://open.spotify.com/album/5fxVy50kYGajDUpAksWhRz"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183934,
+      "name": "Catwalk",
+      "url": "https://open.spotify.com/track/1v2VVRjWAZRHso5etkftcI"
+    },
+    {
+      "album": {
+        "name": "Catwalk",
+        "url": "https://open.spotify.com/album/3YAGxd70rxDdvKh39k50nx"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 183934,
+      "name": "Catwalk",
+      "url": "https://open.spotify.com/track/42gTFtlBHudRQOrG0fJFvJ"
+    },
+    {
+      "album": {
         "name": "Catwalk",
         "url": "https://open.spotify.com/album/2XVJ6DdHlyxnwylsPHPOdb"
       },
@@ -455,7 +509,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 183934,
       "name": "Catwalk",
       "url": "https://open.spotify.com/track/6mhD9IOxgWMb1E1Q0MBwrn"
@@ -549,7 +603,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": "2022-11-19",
       "duration_ms": 149051,
       "name": "Composure",
       "url": "https://open.spotify.com/track/1GWk76nrxsuqWIN2GWZaYu"
@@ -661,7 +715,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-10",
+      "date_removed": "2022-11-23",
       "duration_ms": 198626,
       "name": "Delicate Limbs (feat. serpentwithfeet)",
       "url": "https://open.spotify.com/track/781pCS1OuWtdIYyNVPV86K"
@@ -755,10 +809,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 412197,
       "name": "Electrian",
       "url": "https://open.spotify.com/track/6351qyccfDeVbjSgIR7Yvq"
+    },
+    {
+      "album": {
+        "name": "Galazy EP",
+        "url": "https://open.spotify.com/album/1PULF355Ilwz6D00dFF1cn"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412197,
+      "name": "Electrian",
+      "url": "https://open.spotify.com/track/6pErJ8bs3zL996xN0j93RF"
     },
     {
       "album": {
@@ -1031,7 +1103,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": "2022-11-13",
       "duration_ms": 276960,
       "name": "Helix - Gesaffelstein Vision Remix",
       "url": "https://open.spotify.com/track/7Crjmkp1INHKL6dY9ofSMe"
@@ -1484,6 +1556,28 @@
     },
     {
       "album": {
+        "name": "Lights Up",
+        "url": "https://open.spotify.com/album/7F6kqj7Ml3GEdZ8pM7G5yk"
+      },
+      "artists": [
+        {
+          "name": "Flight Facilities",
+          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 191537,
+      "name": "Lights Up",
+      "url": "https://open.spotify.com/track/3i1fc7z1JTNaOKbPiCNL2B"
+    },
+    {
+      "album": {
         "name": "FOREVER",
         "url": "https://open.spotify.com/album/6kzRU9QtsTrhlObao5Eb3t"
       },
@@ -1762,6 +1856,24 @@
     },
     {
       "album": {
+        "name": "M\u00fasicas Pop para Lojas",
+        "url": "https://open.spotify.com/album/47yDifmxHueiGrosXo976c"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 157476,
+      "name": "Mount Everest",
+      "url": "https://open.spotify.com/track/1U3OMiOMhFyZfMaaJM7RGm"
+    },
+    {
+      "album": {
         "name": "Imagination & the Misfit Kid",
         "url": "https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0"
       },
@@ -1875,6 +1987,28 @@
     {
       "album": {
         "name": "No Hay Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/7tvBTREzJRkLQKhsvNCbt9"
+      },
+      "artists": [
+        {
+          "name": "COCO-PALOMA",
+          "url": "https://open.spotify.com/artist/08jPWr83bzp3LZVnRu5D19"
+        },
+        {
+          "name": "H\u00e9ctor Oaks",
+          "url": "https://open.spotify.com/artist/2FZAQdFEANNv5Gi29PI10x"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423601,
+      "name": "No Hay Ma\u00f1ana - Club Mix",
+      "url": "https://open.spotify.com/track/0ddC48e0XVsjoczyIYiGCr"
+    },
+    {
+      "album": {
+        "name": "No Hay Ma\u00f1ana",
         "url": "https://open.spotify.com/album/5cVrEBqan5YnLhr4Blo83u"
       },
       "artists": [
@@ -1889,7 +2023,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 423601,
       "name": "No Hay Ma\u00f1ana - Club Mix",
       "url": "https://open.spotify.com/track/1UrvOgh8GajpKp39Qj2WUR"
@@ -2356,6 +2490,24 @@
     },
     {
       "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/4GpTMREyTrBVlYfKX8AYln"
+      },
+      "artists": [
+        {
+          "name": "Cosmicat",
+          "url": "https://open.spotify.com/artist/34iHrE61AX1yx8uAqNOCyU"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/0JSZOH5PH1oLrOB4E1rzbp"
+    },
+    {
+      "album": {
         "name": "KicK iii",
         "url": "https://open.spotify.com/album/1paea7BPqUpZksvNkQ2cqQ"
       },
@@ -2425,7 +2577,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-04",
+      "date_removed": null,
       "duration_ms": 642653,
       "name": "Silhouettes (I, II, III)",
       "url": "https://open.spotify.com/track/2D4VTAyHTFegKvcw9oRZhX"
@@ -2753,7 +2905,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 397106,
       "name": "The Volume",
       "url": "https://open.spotify.com/track/43HkvsxJqRq02C7SAVVOSp"
@@ -3209,6 +3361,28 @@
       "duration_ms": 228586,
       "name": "Zhudio54",
       "url": "https://open.spotify.com/track/2mIHEm6ZbKQ6ieeUeAlag3"
+    },
+    {
+      "album": {
+        "name": "Zhudio54 (Remixes)",
+        "url": "https://open.spotify.com/album/4rUCC6Pn0Ihi6L7TCo6MQI"
+      },
+      "artists": [
+        {
+          "name": "ZHU",
+          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
+        },
+        {
+          "name": "partywithray",
+          "url": "https://open.spotify.com/artist/7AjFruVAKGzYPVuvD7T8Ex"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 228586,
+      "name": "Zhudio54",
+      "url": "https://open.spotify.com/track/58NV8PR8xCmtjkfmH1RYIs"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdGHH64iCtgA"

@@ -4,7 +4,7 @@
 
 > Encuentra la paz interior con esencias y vibraciones místicas.
 
-72 songs - 4 hr 54 min - [published](https://open.spotify.com/playlist/5yaeeXnzC1N5mP1v5SvONv)
+73 songs - 5 hr 1 min - [published](https://open.spotify.com/playlist/5yaeeXnzC1N5mP1v5SvONv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Tibetan Bowl Meditation Sound](https://open.spotify.com/track/7v9WywoJRB4VZKGuZovBqn) | [Wangmo Lhamo](https://open.spotify.com/artist/3dodLXsbBGHho6yKUubQBp) | [Tibetan Singing Bowls](https://open.spotify.com/album/63NsvCYH94Is8KjKqhGvK8) | 5:07 | 2022-07-18 |  |
 | [Tranquil Meditation](https://open.spotify.com/track/2lxg9bg6tLnomcsffKgcfv) | [Soothing Music Academy](https://open.spotify.com/artist/4Of9KJVw5YAsihGbnRONMH) | [Healing Music for Plants – Soothing Sounds for Deep Stimulation, Health & Strength, Ambient Serenity, Blooming Flowers](https://open.spotify.com/album/2WPReIZqUbSUThvlChFQIE) | 3:26 | 2022-07-18 |  |
 | [Vollmond Im Herbst](https://open.spotify.com/track/5MCnFtr9vx94kq0bxuK00r) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Koyasan: Reiki Sound Healing](https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD) | 5:42 | 2022-07-18 |  |
+| [When It Hurts to Remember](https://open.spotify.com/track/39osKLgN4yyiIyi1YfY8ND) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [When It Hurts to Remember](https://open.spotify.com/album/3iRimtEPIXz546GBx63UjC) | 6:16 | 2022-08-10 | 2022-11-13 |
 | [When It Hurts to Remember](https://open.spotify.com/track/53fEKSSV4v7a7mbC4R8DfC) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Silencia](https://open.spotify.com/album/66DqsCid51MqdyOwBfoMEY) | 6:16 | 2022-07-18 | 2022-07-29 |
 | [When It Hurts to Remember](https://open.spotify.com/track/6rvGLmXsFLDQ5q3zf6GS8Q) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Silencia](https://open.spotify.com/album/5g9CwdPva16mAs8ZBOexI4) | 6:16 | 2022-07-18 |  |
 | [Wintergreen](https://open.spotify.com/track/7zf1xFJp2PuqM00hhsC3ax) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Wintergreen](https://open.spotify.com/album/5abZ6znESLYUw9nEhUveJa) | 3:44 | 2022-07-18 |  |

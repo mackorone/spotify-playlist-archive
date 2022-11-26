@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 231066,
       "name": "A Light on in the Dark",
       "url": "https://open.spotify.com/track/3twsDwOH7Z0gbkO2PXaomc"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 212120,
       "name": "Andalucia",
       "url": "https://open.spotify.com/track/4SYmfDbNnwdrtqkvqV0tzb"
@@ -743,7 +743,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": "2022-11-13",
       "duration_ms": 240160,
       "name": "Dome",
       "url": "https://open.spotify.com/track/5F5hkKjJhqpuoM5VJER5pW"
@@ -833,7 +833,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 230085,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/1WfA8fbuQeHh1ADwjJMwLg"
@@ -948,6 +948,24 @@
     },
     {
       "album": {
+        "name": "I Go Missing In My Sleep",
+        "url": "https://open.spotify.com/album/6CSmsCWZjz4LPDaog0cQJG"
+      },
+      "artists": [
+        {
+          "name": "Wilsen",
+          "url": "https://open.spotify.com/artist/4aiyHXUEJDuoEBjnwjR2LZ"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 211108,
+      "name": "Garden",
+      "url": "https://open.spotify.com/track/0Fhm1Jjz3h7bNOeNWr7NzE"
+    },
+    {
+      "album": {
         "name": "Garden",
         "url": "https://open.spotify.com/album/51V4m6QcOmTplSl8QEoqaj"
       },
@@ -999,6 +1017,42 @@
       "duration_ms": 228533,
       "name": "Goat",
       "url": "https://open.spotify.com/track/2YEa3nFylD0cX3RZ48IJol"
+    },
+    {
+      "album": {
+        "name": "And In The Darkness, Hearts Aglow",
+        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385653,
+      "name": "God Turn Me Into a Flower",
+      "url": "https://open.spotify.com/track/5gJw9DpcnYywIIVGYSb4Y5"
+    },
+    {
+      "album": {
+        "name": "God Turn Me Into A Flower",
+        "url": "https://open.spotify.com/album/3zOklMCg025pHEc94hWw9J"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-23",
+      "duration_ms": 385653,
+      "name": "God Turn Me Into a Flower",
+      "url": "https://open.spotify.com/track/6gQktvQxUT27MGcEMpodAZ"
     },
     {
       "album": {
@@ -1209,7 +1263,7 @@
     {
       "album": {
         "name": "Howl",
-        "url": "https://open.spotify.com/album/6bBo3e7f3RhA74BliaCEeA"
+        "url": "https://open.spotify.com/album/4m13DJDEVpxD0emJ0glFyQ"
       },
       "artists": [
         {
@@ -1220,6 +1274,24 @@
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 218346,
+      "name": "Howl",
+      "url": "https://open.spotify.com/track/3q0osq156ES7MHz4PjMOBp"
+    },
+    {
+      "album": {
+        "name": "Howl",
+        "url": "https://open.spotify.com/album/6bBo3e7f3RhA74BliaCEeA"
+      },
+      "artists": [
+        {
+          "name": "Jake Houlsby",
+          "url": "https://open.spotify.com/artist/7opQBzUd3mv4GsxSIveDB3"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-18",
       "duration_ms": 218346,
       "name": "Howl",
       "url": "https://open.spotify.com/track/7d7uefLUTOhy9nEfWoBd1G"
@@ -1321,7 +1393,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 250483,
       "name": "Illuminate",
       "url": "https://open.spotify.com/track/5o5SVIrVETWIQFMdgPFXPt"
@@ -1429,10 +1501,28 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 247106,
       "name": "Landmarks",
       "url": "https://open.spotify.com/track/6xwubO8Zh3KxXnFiyrLJJH"
+    },
+    {
+      "album": {
+        "name": "Late Afternoon in the Meadow (1887)",
+        "url": "https://open.spotify.com/album/6rHxUjTtjlF3r3jTfkJWCi"
+      },
+      "artists": [
+        {
+          "name": "Joshua Burnside",
+          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274299,
+      "name": "Late Afternoon in the Meadow (1887)",
+      "url": "https://open.spotify.com/track/2OBjNngWUWi2aTqZbCrYmb"
     },
     {
       "album": {
@@ -1447,7 +1537,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-03",
+      "date_removed": "2022-11-19",
       "duration_ms": 239711,
       "name": "Laugh Again",
       "url": "https://open.spotify.com/track/5ZgbBziuSI2t9D35PNEKU4"
@@ -1487,6 +1577,24 @@
       "duration_ms": 236834,
       "name": "Lost",
       "url": "https://open.spotify.com/track/078kLYfYCjjPMbABqriXT3"
+    },
+    {
+      "album": {
+        "name": "Fall Down - EP",
+        "url": "https://open.spotify.com/album/6vxcAKC5bok8gUQjWO6Ejv"
+      },
+      "artists": [
+        {
+          "name": "The Native",
+          "url": "https://open.spotify.com/artist/6c3Jb6rRod9x4pGtiizwzT"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 53200,
+      "name": "Lost Boy",
+      "url": "https://open.spotify.com/track/0VSd1i7BKn1dI5cTmpqyEV"
     },
     {
       "album": {
@@ -1559,7 +1667,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": "2022-11-20",
       "duration_ms": 288470,
       "name": "Marionette",
       "url": "https://open.spotify.com/track/059jgZN65g4cZY9pe7phoY"
@@ -1631,7 +1739,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 238546,
       "name": "Modest Mountains",
       "url": "https://open.spotify.com/track/0xj2fWTHrgAjEQbs8rStb1"
@@ -1811,7 +1919,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 247339,
       "name": "On the Edge",
       "url": "https://open.spotify.com/track/6j2Gbnz6tHBvMzLmCUhGYJ"
@@ -1829,7 +1937,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 278625,
       "name": "One Summer",
       "url": "https://open.spotify.com/track/3kzBPAyFRlDwPCv3DThqEE"
@@ -1883,7 +1991,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 161506,
       "name": "Overlook",
       "url": "https://open.spotify.com/track/6gsZ2naKRWRnadouOtpcNt"
@@ -2299,10 +2407,28 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 240560,
       "name": "Smother",
       "url": "https://open.spotify.com/track/27ViT9yPmgH4TLyXPTsQWl"
+    },
+    {
+      "album": {
+        "name": "If You Leave",
+        "url": "https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM"
+      },
+      "artists": [
+        {
+          "name": "Daughter",
+          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240560,
+      "name": "Smother",
+      "url": "https://open.spotify.com/track/2Fa5PjvjXH1qKWI0umk4oY"
     },
     {
       "album": {
@@ -2862,6 +2988,24 @@
     },
     {
       "album": {
+        "name": "How Long Will It Take",
+        "url": "https://open.spotify.com/album/4Tp6SUfBcYkLGiAt8t9nHh"
+      },
+      "artists": [
+        {
+          "name": "Orchid Mantis",
+          "url": "https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-24",
+      "duration_ms": 218181,
+      "name": "Time Flows",
+      "url": "https://open.spotify.com/track/6AdNCJgN1w0Yw77pzvbtoI"
+    },
+    {
+      "album": {
         "name": "Far Out Dust",
         "url": "https://open.spotify.com/album/1rgoWhCjpJu9xKqGkg8PGv"
       },
@@ -2952,6 +3096,24 @@
     },
     {
       "album": {
+        "name": "Wild Alee (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3gaCoZyis2PjdhjQVgs1fF"
+      },
+      "artists": [
+        {
+          "name": "Talos",
+          "url": "https://open.spotify.com/artist/5pdzKTGQAcRcxDOfN4mXSc"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 203693,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/1wO37nEcykFZ8FoUDjh0hU"
+    },
+    {
+      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/1bmOMe4srXg9aqb3aCURen"
       },
@@ -3039,6 +3201,24 @@
       "duration_ms": 225017,
       "name": "Warm Foothills",
       "url": "https://open.spotify.com/track/1YUcTZ0ehoHY6G6Prhcbj0"
+    },
+    {
+      "album": {
+        "name": "Where's My Love",
+        "url": "https://open.spotify.com/album/6U6yE35iYGweoUiFFjuBdC"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 202000,
+      "name": "Where's My Love",
+      "url": "https://open.spotify.com/track/0IRmoVD5Zbndp79ShxphRb"
     },
     {
       "album": {

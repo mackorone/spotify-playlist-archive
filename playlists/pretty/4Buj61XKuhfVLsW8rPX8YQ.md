@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4Buj61XKuhfVLsW8rPX8YQ.md) - [plain]
 
 > 100+ of the happiest songs of all time\. Come on, Get Happy!
 
-[Spotify](https://open.spotify.com/user/spotify) - 663 likes - 105 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 682 likes - 105 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/4Buj61XKuhfVLsW8rPX8YQ.md) - [plain]
 | 30 | [Three Little Birds](https://open.spotify.com/track/26JRni5Lqiyd9GNnlaz6DI) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \(Deluxe Edition\)](https://open.spotify.com/album/0tiPal8J7t3B9tPF7kGWDi) | 3:00 |
 | 31 | [Bright Side of the Road \- 1996 Remaster](https://open.spotify.com/track/4M6KXdzqkOfTpKOrBIqWx0) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Music From The Motion Picture Michael](https://open.spotify.com/album/52LfK1ML8u7Xj1ArC8oC22) | 3:47 |
 | 32 | [Happy Days \(Theme from ''Happy Days''\)](https://open.spotify.com/track/1CCuMgDauGruOwxrSh9NSW) | [Pratt & McClain](https://open.spotify.com/artist/3vNHR4OsgOsktxndG612B7) | [Pratt & McClain featuring "Happy Days"](https://open.spotify.com/album/3L0FxSHAAHw75PvQJmAVh9) | 2:36 |
-| 33 | [22](https://open.spotify.com/track/1L3kS9vJM1cYa4QB2nI3MQ) | [Alexi Blue](https://open.spotify.com/artist/754qtlcOAFIdkFAjxuPk34), [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU) | [The Covers, Vol\. 6](https://open.spotify.com/album/3UeQky60klTQg4svlsc0yT) | 3:46 |
+| 33 | [22](https://open.spotify.com/track/1L3kS9vJM1cYa4QB2nI3MQ) | [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU), [Alexi Blue](https://open.spotify.com/artist/754qtlcOAFIdkFAjxuPk34) | [The Covers, Vol\. 6](https://open.spotify.com/album/3UeQky60klTQg4svlsc0yT) | 3:46 |
 | 34 | [On Top Of The World](https://open.spotify.com/track/4eLSCSELtKxZwXnFbNLXT5) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions \(Deluxe\)](https://open.spotify.com/album/1vAEF8F0HoRFGiYOEeJXHW) | 3:09 |
 | 35 | [Celebration](https://open.spotify.com/track/3K7Q9PHUWPTaknlbFPThn2) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Celebrate!](https://open.spotify.com/album/2kc4mhFRsoIRVD0XEYnwhI) | 4:58 |
 | 36 | [If You Wanna Be Happy](https://open.spotify.com/track/7D97JnBT73FWUh9KmRvP9M) | [Jimmy Soul](https://open.spotify.com/artist/7k4MYPtpz3fAViMuuLi9ry) | [Frank Guida Presents: Jimmy Soul "If You Wanna Be Happy"](https://open.spotify.com/album/52RYT3SK1MzjGDOfcDupUA) | 2:23 |

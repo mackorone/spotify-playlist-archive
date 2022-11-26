@@ -1712,6 +1712,24 @@
     },
     {
       "album": {
+        "name": "Locked In",
+        "url": "https://open.spotify.com/album/3wwjsAWTsiMXwdlNOArJj7"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 177553,
+      "name": "Super",
+      "url": "https://open.spotify.com/track/7EfNYbF2dhLianIfDSnhHS"
+    },
+    {
+      "album": {
         "name": "SUVs (Black on Black)",
         "url": "https://open.spotify.com/album/4K3SQSfKMXLcVnyUSFELZw"
       },
@@ -1805,7 +1823,25 @@
     {
       "album": {
         "name": "Throw That Back",
-        "url": "https://open.spotify.com/album/4C5xbCzBOcg4gWofG7dmBE"
+        "url": "https://open.spotify.com/album/4r50cfxbge0RsESG3zQxpj"
+      },
+      "artists": [
+        {
+          "name": "DijahSB",
+          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 187436,
+      "name": "Throw That Back",
+      "url": "https://open.spotify.com/track/4YxyuKLaXvTAaYOLeMK3j1"
+    },
+    {
+      "album": {
+        "name": "Head Above the Waters",
+        "url": "https://open.spotify.com/album/7KhkoeMNagRr4PqRYudCet"
       },
       "artists": [
         {
@@ -1816,6 +1852,24 @@
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 187436,
+      "name": "Throw That Back",
+      "url": "https://open.spotify.com/track/4mif9yUYz1Ug95ViwFf70c"
+    },
+    {
+      "album": {
+        "name": "Throw That Back",
+        "url": "https://open.spotify.com/album/4C5xbCzBOcg4gWofG7dmBE"
+      },
+      "artists": [
+        {
+          "name": "DijahSB",
+          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
       "duration_ms": 187436,
       "name": "Throw That Back",
       "url": "https://open.spotify.com/track/7MiE0I58L6n6L7lmPKwe73"

@@ -4,7 +4,7 @@
 
 > A trailblazer for Black British music culture\. Cover: Jamal Edwards
 
-56 songs - 3 hr 34 min - [published](https://open.spotify.com/playlist/4viy3uPxEhmwIFLsWDppwC)
+57 songs - 3 hr 37 min - [published](https://open.spotify.com/playlist/4viy3uPxEhmwIFLsWDppwC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [My Hood](https://open.spotify.com/track/6pP5DPx2U8MqEhsxyKQAQ7) | [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE), [G Frsh](https://open.spotify.com/artist/53Tazttwm8EIO8a8tI38QK), [Chelsi Lauren](https://open.spotify.com/artist/0UcOp5BbRUTpA9dnlXRDzH) | [Tsunami](https://open.spotify.com/album/0bkOODK2LcUmmWJCujbvud) | 5:12 | 2022-02-22 |  |
 | [Nines SBTV Bars 2015](https://open.spotify.com/track/3QwyqPWbuIQa7Gqf5U1hRs) | [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr) | [One Foot In](https://open.spotify.com/album/20P7AYaleRjg3IOcehylSD) | 2:04 | 2022-02-22 |  |
 | [One More Chance Freestyle](https://open.spotify.com/track/2iBk5z1JNM0SjYJnZAg93C) | [Skrapz](https://open.spotify.com/artist/67R8l2OLqGwA9V4BKllYQY) | [80's Baby](https://open.spotify.com/album/5ahPmRn5UohSVU7Dy8MvU3) | 4:30 | 2022-02-22 |  |
+| [Price Tag](https://open.spotify.com/track/1sC21J7VUYO1rjADATOJJS) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou), [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) | [Iconic Women of the 00's](https://open.spotify.com/album/2dnUI3wkruWd3IR5T9wlWq) | 3:42 | 2022-02-22 | 2022-11-13 |
 | [Price Tag](https://open.spotify.com/track/2fTsFCKRFQ5M0igJgabnLA) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou), [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) | [Who You Are \(Platinum Edition\)](https://open.spotify.com/album/0BZbTNqpXFg6lxNv78X7Lp) | 3:43 | 2022-02-22 | 2022-07-29 |
 | [Price Tag](https://open.spotify.com/track/5mvKuE9Lf9ARVXVXA32kK9) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou), [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) | [Who You Are \(Platinum Edition\)](https://open.spotify.com/album/3ga4adzUpLaS2LDcoqfs2r) | 3:43 | 2022-02-22 |  |
 | [Purple Rain](https://open.spotify.com/track/6y0ZkkmpDHPv3mYk8Mpxnc) | [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z) | [Training Day](https://open.spotify.com/album/12oTSGsDE0iB9kWhaBqT0o) | 4:34 | 2022-02-22 |  |

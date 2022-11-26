@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 227346,
       "name": "1,2,3,4 - Los Cogelones Remix",
       "url": "https://open.spotify.com/track/0Fn7a7chIZRWOt80MOchqJ"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 171080,
       "name": "Abuela Zombie",
       "url": "https://open.spotify.com/track/0hFQrpJHkfTbXwG7frxlaj"
@@ -863,7 +863,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-10",
+      "date_removed": "2022-11-13",
       "duration_ms": 193796,
       "name": "Defcon 5",
       "url": "https://open.spotify.com/track/5Esuk5nhe9nBgTDLXZWh0V"
@@ -997,7 +997,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 142333,
       "name": "Dra\u0301cula \u201dYe-ye\u201d",
       "url": "https://open.spotify.com/track/28mq9dICF4XavmY50cyOgX"
@@ -1136,12 +1136,12 @@
       "artists": [
         {
           "name": "Lost Acapulco",
-          "url": "https://open.spotify.com/artist/5RF2vr24R5pDRPcMFCqBCQ"
+          "url": "https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U"
         }
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 183306,
       "name": "El Garage de Gina Monster",
       "url": "https://open.spotify.com/track/6L6npzAT4Cd8cD0U2n8Fgk"
@@ -1769,7 +1769,7 @@
     {
       "album": {
         "name": "Inadaptado",
-        "url": "https://open.spotify.com/album/11bwG8tiRDt9haCo3yOxM1"
+        "url": "https://open.spotify.com/album/2gSOt3UB4wkBFd8kWYzQCg"
       },
       "artists": [
         {
@@ -1780,6 +1780,24 @@
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 136733,
+      "name": "Inadaptado",
+      "url": "https://open.spotify.com/track/6Vu86eSC53iqUvwCH17y3E"
+    },
+    {
+      "album": {
+        "name": "Inadaptado",
+        "url": "https://open.spotify.com/album/11bwG8tiRDt9haCo3yOxM1"
+      },
+      "artists": [
+        {
+          "name": "Los Gatos Rockabilly",
+          "url": "https://open.spotify.com/artist/44g8mCTOmHpdeZFuaj9hS3"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-01",
       "duration_ms": 136740,
       "name": "Inadaptado",
       "url": "https://open.spotify.com/track/4ldtWKLmk9zDwTK8fujYt7"
@@ -1837,6 +1855,24 @@
       "duration_ms": 131853,
       "name": "It's Monster Surfing Time",
       "url": "https://open.spotify.com/track/60xQKEF7PVW14ITUCVC8ip"
+    },
+    {
+      "album": {
+        "name": "Mondo Zombie Boogaloo",
+        "url": "https://open.spotify.com/album/3SkPMcfyCGA9T9DB30XbL6"
+      },
+      "artists": [
+        {
+          "name": "Los Straitjackets",
+          "url": "https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131853,
+      "name": "It's Monster Surfing Time",
+      "url": "https://open.spotify.com/track/70FzFTP41ewLArLpyO8YKZ"
     },
     {
       "album": {
@@ -3479,7 +3515,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 126626,
       "name": "Surfin Beer",
       "url": "https://open.spotify.com/track/230qkv2nzn62ejlAFo3flv"
@@ -3821,7 +3857,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 116013,
       "name": "Tiki Surf",
       "url": "https://open.spotify.com/track/1OAcBwfDqJXWOawfaSfark"
@@ -3857,7 +3893,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 203333,
       "name": "Twin Peaks Twist",
       "url": "https://open.spotify.com/track/6ORuHaU0JoaI2SpdbwmNSo"

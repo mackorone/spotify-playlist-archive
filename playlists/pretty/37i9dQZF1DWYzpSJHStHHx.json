@@ -1,28 +1,28 @@
 {
   "description": "Hang ten.",
-  "num_followers": 471199,
+  "num_followers": 474969,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzg3MzkxMywwMDAwMDAwMGRkNDk1NGUxMjJlMWYwYmE4Njk5ZjllMDA4ZGRiYjQ5",
+  "snapshot_id": "MTY2Mzg3MzkxMywwMDAwMDAwMDgxNDM3N2Y0MmVhMTlkYjQ4MDI2MjNlOTMzMGViMjFh",
   "tracks": [
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "Hell N Back",
-        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
+        "name": "Here With Me",
+        "url": "https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S"
       },
       "artists": [
         {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
         }
       ],
-      "duration_ms": 213573,
-      "name": "Hell N Back",
-      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
+      "duration_ms": 242484,
+      "name": "Here With Me",
+      "url": "https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh"
     },
     {
       "added_at": "2022-09-22 19:11:53",
@@ -43,6 +43,22 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
+        "name": "Hell N Back",
+        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 213573,
+      "name": "Hell N Back",
+      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
         "name": "Happy Together",
         "url": "https://open.spotify.com/album/2pMxs38Y5A0mmHrcu3twvB"
       },
@@ -59,22 +75,6 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "2",
-        "url": "https://open.spotify.com/album/2XgBQwGRxr4P7cHLDYiqrO"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 173888,
-      "name": "Freaking Out the Neighborhood",
-      "url": "https://open.spotify.com/track/3HlK8txWAdtKMrbsqX40pl"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
         "name": "Bad Guy Stuff",
         "url": "https://open.spotify.com/album/0F017i7jFkJ40Iovj428zv"
       },
@@ -87,6 +87,22 @@
       "duration_ms": 154000,
       "name": "Sk8 Hi",
       "url": "https://open.spotify.com/track/253tZyRP0qeH35ch1LVnIP"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/2XgBQwGRxr4P7cHLDYiqrO"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 173888,
+      "name": "Freaking Out the Neighborhood",
+      "url": "https://open.spotify.com/track/3HlK8txWAdtKMrbsqX40pl"
     },
     {
       "added_at": "2022-09-22 19:11:53",
@@ -155,34 +171,18 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "Here With Me",
-        "url": "https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S"
+        "name": "Shawcross",
+        "url": "https://open.spotify.com/album/3KpFXHl7zzp0Cjvww3AUFs"
       },
       "artists": [
         {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+          "name": "Good Morning",
+          "url": "https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ"
         }
       ],
-      "duration_ms": 242484,
-      "name": "Here With Me",
-      "url": "https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
-        "name": "Sunlight",
-        "url": "https://open.spotify.com/album/0lzBfRwVgShOeiFJaXSEex"
-      },
-      "artists": [
-        {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
-        }
-      ],
-      "duration_ms": 268880,
-      "name": "Booster Seat",
-      "url": "https://open.spotify.com/track/5th1bFGGaXLM7wDBJpcF06"
+      "duration_ms": 136032,
+      "name": "Warned You",
+      "url": "https://open.spotify.com/track/3GahMRXI3rL2JVeSLZBRnF"
     },
     {
       "added_at": "2022-09-22 19:11:53",
@@ -203,18 +203,18 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "Shawcross",
-        "url": "https://open.spotify.com/album/3KpFXHl7zzp0Cjvww3AUFs"
+        "name": "Sunlight",
+        "url": "https://open.spotify.com/album/3zZi1vy6CnNZX7lbcRJtXo"
       },
       "artists": [
         {
-          "name": "Good Morning",
-          "url": "https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ"
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
         }
       ],
-      "duration_ms": 136032,
-      "name": "Warned You",
-      "url": "https://open.spotify.com/track/3GahMRXI3rL2JVeSLZBRnF"
+      "duration_ms": 268880,
+      "name": "Booster Seat",
+      "url": "https://open.spotify.com/track/72RC6Kw32QfJi6RzlDKNxs"
     },
     {
       "added_at": "2022-09-22 19:11:53",
@@ -251,18 +251,18 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "Canary Islands",
-        "url": "https://open.spotify.com/album/3T0gMffhvjVW4DQi6PUj1L"
+        "name": "off the grid",
+        "url": "https://open.spotify.com/album/1i4wFUJBONFpNJLlDGnj56"
       },
       "artists": [
         {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+          "name": "Yot Club",
+          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
         }
       ],
-      "duration_ms": 204521,
-      "name": "Canary Islands",
-      "url": "https://open.spotify.com/track/7MuU7UbVaKyu4HkHBoHwrD"
+      "duration_ms": 191640,
+      "name": "down bad",
+      "url": "https://open.spotify.com/track/0vjpfpch27QUf1cUs4seDl"
     },
     {
       "added_at": "2022-09-22 19:11:53",
@@ -283,6 +283,22 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
+        "name": "Canary Islands",
+        "url": "https://open.spotify.com/album/3T0gMffhvjVW4DQi6PUj1L"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "duration_ms": 204521,
+      "name": "Canary Islands",
+      "url": "https://open.spotify.com/track/7MuU7UbVaKyu4HkHBoHwrD"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
         "name": "Rose Pink Cadillac",
         "url": "https://open.spotify.com/album/0JUuId9ZVeNiCk9KGtAUuv"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 261911,
       "name": "Rose Pink Cadillac",
       "url": "https://open.spotify.com/track/3YC7FYhduZbYObLRCdhANa"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
-        "name": "off the grid",
-        "url": "https://open.spotify.com/album/1i4wFUJBONFpNJLlDGnj56"
-      },
-      "artists": [
-        {
-          "name": "Yot Club",
-          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
-        }
-      ],
-      "duration_ms": 191640,
-      "name": "down bad",
-      "url": "https://open.spotify.com/track/0vjpfpch27QUf1cUs4seDl"
     },
     {
       "added_at": "2022-09-22 19:11:53",
@@ -331,18 +331,18 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "Sweet FA",
-        "url": "https://open.spotify.com/album/1lhF5c8Q9bzYNwGFwQgYnP"
+        "name": "M.A.G.S.",
+        "url": "https://open.spotify.com/album/02lZc0jdze6xKqeXeAWbyg"
       },
       "artists": [
         {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+          "name": "M.A.G.S.",
+          "url": "https://open.spotify.com/artist/1EEbOYIZFHRuGEgL39cN3s"
         }
       ],
-      "duration_ms": 287080,
-      "name": "Peach Pit",
-      "url": "https://open.spotify.com/track/0ZK8TGOsngrstVPsnrHbK1"
+      "duration_ms": 134899,
+      "name": "Drugs",
+      "url": "https://open.spotify.com/track/5T545E02gCrnhkPoHXJPxK"
     },
     {
       "added_at": "2022-09-22 19:11:53",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "M.A.G.S.",
-        "url": "https://open.spotify.com/album/02lZc0jdze6xKqeXeAWbyg"
-      },
-      "artists": [
-        {
-          "name": "M.A.G.S.",
-          "url": "https://open.spotify.com/artist/1EEbOYIZFHRuGEgL39cN3s"
-        }
-      ],
-      "duration_ms": 134899,
-      "name": "Drugs",
-      "url": "https://open.spotify.com/track/5T545E02gCrnhkPoHXJPxK"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
         "name": "Wait",
         "url": "https://open.spotify.com/album/7owO1ECjA53Isw9LiIcXKZ"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 218773,
       "name": "big fat mouth",
       "url": "https://open.spotify.com/track/0ZiGRciYMWrDvCPNM0T21o"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
+        "name": "Sweet FA",
+        "url": "https://open.spotify.com/album/1lhF5c8Q9bzYNwGFwQgYnP"
+      },
+      "artists": [
+        {
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+        }
+      ],
+      "duration_ms": 287080,
+      "name": "Peach Pit",
+      "url": "https://open.spotify.com/track/0ZK8TGOsngrstVPsnrHbK1"
     },
     {
       "added_at": "2022-09-22 19:11:53",
@@ -411,18 +411,18 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "City Club",
-        "url": "https://open.spotify.com/album/4LO26juP3UnGdO3mB2imxl"
+        "name": "Sugar at the Gate",
+        "url": "https://open.spotify.com/album/1alrC2sUf5sRGSvCV8I6Qh"
       },
       "artists": [
         {
-          "name": "The Growlers",
-          "url": "https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe"
+          "name": "TOPS",
+          "url": "https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9"
         }
       ],
-      "duration_ms": 218352,
-      "name": "When You Were Made",
-      "url": "https://open.spotify.com/track/47WtMNT8S9n3eqsCn076Bf"
+      "duration_ms": 174535,
+      "name": "Petals",
+      "url": "https://open.spotify.com/track/3Z6HMD0zTxTUqrmh9ZoIib"
     },
     {
       "added_at": "2022-09-22 19:11:53",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "Mercy Mountain",
-        "url": "https://open.spotify.com/album/4zM61adzXFpgNQYyBSSufT"
-      },
-      "artists": [
-        {
-          "name": "Moses Gunn Collective",
-          "url": "https://open.spotify.com/artist/66riSKDVOc3vPkeyju0q0o"
-        }
-      ],
-      "duration_ms": 228015,
-      "name": "Shalala",
-      "url": "https://open.spotify.com/track/0Bl1Gt8R9kjz7JO7SYAuhe"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
         "name": "Allah-Las",
         "url": "https://open.spotify.com/album/38lCUdjREYv0ugODkoBif0"
       },
@@ -475,82 +459,18 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "In Mind",
-        "url": "https://open.spotify.com/album/7IQn4jT1WciC5O9DZrxeKv"
+        "name": "City Club",
+        "url": "https://open.spotify.com/album/4LO26juP3UnGdO3mB2imxl"
       },
       "artists": [
         {
-          "name": "Real Estate",
-          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
+          "name": "The Growlers",
+          "url": "https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe"
         }
       ],
-      "duration_ms": 260386,
-      "name": "Darling",
-      "url": "https://open.spotify.com/track/36PQh1G6h7n9VWB799fXpI"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
-        "name": "The Double EP: A Sea of Split Peas",
-        "url": "https://open.spotify.com/album/5lUc4iyCvw8DxpZa4Fryej"
-      },
-      "artists": [
-        {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
-        }
-      ],
-      "duration_ms": 312226,
-      "name": "Avant Gardener",
-      "url": "https://open.spotify.com/track/3LueS3mbuB1yaJNN0Ale6U"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
-        "name": "Naked All the Time",
-        "url": "https://open.spotify.com/album/4QcHsIfSbjgNzZmxqfRP7N"
-      },
-      "artists": [
-        {
-          "name": "Sports",
-          "url": "https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K"
-        }
-      ],
-      "duration_ms": 198546,
-      "name": "Panama",
-      "url": "https://open.spotify.com/track/6keyBQK6pA0OApRfM1f0dp"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
-        "name": "Rocky",
-        "url": "https://open.spotify.com/album/47pYIGsuBIKvsbAQpipfur"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Rocky",
-      "url": "https://open.spotify.com/track/5uDohC8URXwbGiHAMuKGoa"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
-        "name": "This Old Dog",
-        "url": "https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 166213,
-      "name": "One Another",
-      "url": "https://open.spotify.com/track/5gC8P6NwgqxcTYnwml5q5j"
+      "duration_ms": 218352,
+      "name": "When You Were Made",
+      "url": "https://open.spotify.com/track/47WtMNT8S9n3eqsCn076Bf"
     },
     {
       "added_at": "2022-09-22 19:11:53",
@@ -571,18 +491,66 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "Drag",
-        "url": "https://open.spotify.com/album/4hn0zhFiaWgWgA5I9POoA2"
+        "name": "Naked All the Time",
+        "url": "https://open.spotify.com/album/4QcHsIfSbjgNzZmxqfRP7N"
       },
       "artists": [
         {
-          "name": "Day Wave",
-          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
+          "name": "Sports",
+          "url": "https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K"
         }
       ],
-      "duration_ms": 189651,
-      "name": "Drag",
-      "url": "https://open.spotify.com/track/0oXwUeFAE6IR2lYhaTpxRT"
+      "duration_ms": 198546,
+      "name": "Panama",
+      "url": "https://open.spotify.com/track/6keyBQK6pA0OApRfM1f0dp"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
+        "name": "This Old Dog",
+        "url": "https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 166213,
+      "name": "One Another",
+      "url": "https://open.spotify.com/track/5gC8P6NwgqxcTYnwml5q5j"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
+        "name": "In Mind",
+        "url": "https://open.spotify.com/album/7IQn4jT1WciC5O9DZrxeKv"
+      },
+      "artists": [
+        {
+          "name": "Real Estate",
+          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
+        }
+      ],
+      "duration_ms": 260386,
+      "name": "Darling",
+      "url": "https://open.spotify.com/track/36PQh1G6h7n9VWB799fXpI"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
+        "name": "Mercy Mountain",
+        "url": "https://open.spotify.com/album/4zM61adzXFpgNQYyBSSufT"
+      },
+      "artists": [
+        {
+          "name": "Moses Gunn Collective",
+          "url": "https://open.spotify.com/artist/66riSKDVOc3vPkeyju0q0o"
+        }
+      ],
+      "duration_ms": 228015,
+      "name": "Shalala",
+      "url": "https://open.spotify.com/track/0Bl1Gt8R9kjz7JO7SYAuhe"
     },
     {
       "added_at": "2022-09-22 19:11:53",
@@ -619,22 +587,6 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "City Club",
-        "url": "https://open.spotify.com/album/4LO26juP3UnGdO3mB2imxl"
-      },
-      "artists": [
-        {
-          "name": "The Growlers",
-          "url": "https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe"
-        }
-      ],
-      "duration_ms": 196728,
-      "name": "City Club",
-      "url": "https://open.spotify.com/track/6Ig2iLUX11ZNpI7EBCZqyt"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
         "name": "Raspberry Jam",
         "url": "https://open.spotify.com/album/4iCizTMmauFrJibEF9TI1G"
       },
@@ -651,114 +603,18 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "Is the Is Are",
-        "url": "https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1"
+        "name": "The Double EP: A Sea of Split Peas",
+        "url": "https://open.spotify.com/album/5lUc4iyCvw8DxpZa4Fryej"
       },
       "artists": [
         {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
         }
       ],
-      "duration_ms": 226999,
-      "name": "Under the Sun",
-      "url": "https://open.spotify.com/track/3cp8xX1N5jewfKU2oY2Y08"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
-        "name": "The French Press",
-        "url": "https://open.spotify.com/album/5k0144ExDJZEx03Pp7VeNn"
-      },
-      "artists": [
-        {
-          "name": "Rolling Blackouts Coastal Fever",
-          "url": "https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF"
-        }
-      ],
-      "duration_ms": 326807,
-      "name": "French Press",
-      "url": "https://open.spotify.com/track/77RHNGjtLP4UlIb7FW1uOu"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
-        "name": "Good Nature",
-        "url": "https://open.spotify.com/album/7ChpG56flymk0okdZiaIrq"
-      },
-      "artists": [
-        {
-          "name": "Turnover",
-          "url": "https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52"
-        }
-      ],
-      "duration_ms": 257859,
-      "name": "Super Natural",
-      "url": "https://open.spotify.com/track/729EEmzEdLEg6wJo0gqvDO"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
-        "name": "Real Estate",
-        "url": "https://open.spotify.com/album/0vEt6UkpYZOpKxVO7H7j9Y"
-      },
-      "artists": [
-        {
-          "name": "Real Estate",
-          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
-        }
-      ],
-      "duration_ms": 268466,
-      "name": "Beach Comber",
-      "url": "https://open.spotify.com/track/3tPh7vkXySn2lUEH1NEPyO"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/5Zqz0ZyO7qdLIvAqaPn2YZ"
-      },
-      "artists": [
-        {
-          "name": "Dehd",
-          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
-        }
-      ],
-      "duration_ms": 153414,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/7KkaLfkFpMErkarBZivJbP"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
-        "name": "Dancin' With Wolves",
-        "url": "https://open.spotify.com/album/4GFodiOr1aC5Ekr87RhyOl"
-      },
-      "artists": [
-        {
-          "name": "Natural Child",
-          "url": "https://open.spotify.com/artist/7epIIT85VR8OEggqKO3RSt"
-        }
-      ],
-      "duration_ms": 174586,
-      "name": "Out In The Country",
-      "url": "https://open.spotify.com/track/1FOAgjh0uXXjNTPTwHxZCT"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
-        "name": "The Babe Rainbow",
-        "url": "https://open.spotify.com/album/3kV1ahDexxqs8NZm4dZKJ2"
-      },
-      "artists": [
-        {
-          "name": "Babe Rainbow",
-          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
-        }
-      ],
-      "duration_ms": 156811,
-      "name": "Johny Says Stay Cool",
-      "url": "https://open.spotify.com/track/2EOIrxpEkRXfwnvxk54Up0"
+      "duration_ms": 312226,
+      "name": "Avant Gardener",
+      "url": "https://open.spotify.com/track/3LueS3mbuB1yaJNN0Ale6U"
     },
     {
       "added_at": "2022-09-22 19:11:53",
@@ -779,6 +635,150 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
+        "name": "Is the Is Are",
+        "url": "https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "duration_ms": 226999,
+      "name": "Under the Sun",
+      "url": "https://open.spotify.com/track/3cp8xX1N5jewfKU2oY2Y08"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
+        "name": "Drag",
+        "url": "https://open.spotify.com/album/4hn0zhFiaWgWgA5I9POoA2"
+      },
+      "artists": [
+        {
+          "name": "Day Wave",
+          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
+        }
+      ],
+      "duration_ms": 189651,
+      "name": "Drag",
+      "url": "https://open.spotify.com/track/0oXwUeFAE6IR2lYhaTpxRT"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
+        "name": "Rocky",
+        "url": "https://open.spotify.com/album/47pYIGsuBIKvsbAQpipfur"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Rocky",
+      "url": "https://open.spotify.com/track/5uDohC8URXwbGiHAMuKGoa"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
+        "name": "The French Press",
+        "url": "https://open.spotify.com/album/5k0144ExDJZEx03Pp7VeNn"
+      },
+      "artists": [
+        {
+          "name": "Rolling Blackouts Coastal Fever",
+          "url": "https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF"
+        }
+      ],
+      "duration_ms": 326807,
+      "name": "French Press",
+      "url": "https://open.spotify.com/track/77RHNGjtLP4UlIb7FW1uOu"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
+        "name": "The Babe Rainbow",
+        "url": "https://open.spotify.com/album/3kV1ahDexxqs8NZm4dZKJ2"
+      },
+      "artists": [
+        {
+          "name": "Babe Rainbow",
+          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
+        }
+      ],
+      "duration_ms": 156811,
+      "name": "Johny Says Stay Cool",
+      "url": "https://open.spotify.com/track/2EOIrxpEkRXfwnvxk54Up0"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
+        "name": "City Club",
+        "url": "https://open.spotify.com/album/4LO26juP3UnGdO3mB2imxl"
+      },
+      "artists": [
+        {
+          "name": "The Growlers",
+          "url": "https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe"
+        }
+      ],
+      "duration_ms": 196728,
+      "name": "City Club",
+      "url": "https://open.spotify.com/track/6Ig2iLUX11ZNpI7EBCZqyt"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/5k7WCAZPSbJYzjW5SCQ5sn"
+      },
+      "artists": [
+        {
+          "name": "Real Estate",
+          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
+        }
+      ],
+      "duration_ms": 187733,
+      "name": "Talking Backwards",
+      "url": "https://open.spotify.com/track/0ZwlxoHAnvkCRjsOrHAleU"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
+        "name": "Dancin' With Wolves",
+        "url": "https://open.spotify.com/album/4GFodiOr1aC5Ekr87RhyOl"
+      },
+      "artists": [
+        {
+          "name": "Natural Child",
+          "url": "https://open.spotify.com/artist/7epIIT85VR8OEggqKO3RSt"
+        }
+      ],
+      "duration_ms": 174586,
+      "name": "Out In The Country",
+      "url": "https://open.spotify.com/track/1FOAgjh0uXXjNTPTwHxZCT"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
+        "name": "Good Nature",
+        "url": "https://open.spotify.com/album/7ChpG56flymk0okdZiaIrq"
+      },
+      "artists": [
+        {
+          "name": "Turnover",
+          "url": "https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52"
+        }
+      ],
+      "duration_ms": 257859,
+      "name": "Super Natural",
+      "url": "https://open.spotify.com/track/729EEmzEdLEg6wJo0gqvDO"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
         "name": "Tomorrow Is Alright",
         "url": "https://open.spotify.com/album/7K4eMOq0MLq6aQz7Zjkjkh"
       },
@@ -795,18 +795,18 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "Sugar at the Gate",
-        "url": "https://open.spotify.com/album/1alrC2sUf5sRGSvCV8I6Qh"
+        "name": "Favorite Holiday, Vol. 1",
+        "url": "https://open.spotify.com/album/7Ahoh0X48HbYRJzPQvoIer"
       },
       "artists": [
         {
-          "name": "TOPS",
-          "url": "https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9"
+          "name": "Summer Salt",
+          "url": "https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6"
         }
       ],
-      "duration_ms": 174535,
-      "name": "Petals",
-      "url": "https://open.spotify.com/track/3Z6HMD0zTxTUqrmh9ZoIib"
+      "duration_ms": 250800,
+      "name": "Fire Flower",
+      "url": "https://open.spotify.com/track/2zgpMaaXfVJqUJoMbjmfH2"
     }
   ],
   "unique_name": "Surf Rock Sunshine",

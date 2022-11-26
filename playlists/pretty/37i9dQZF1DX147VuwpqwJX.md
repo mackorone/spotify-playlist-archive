@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX147VuwpqwJX.md) - [plain]
 
 > The powerful, expressive sound of Ballroom and Vogue culture \- pioneered by the black LGBTQIA+ community\. Cover: Cakes da Killa
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,337 likes - 101 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,180 likes - 101 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX147VuwpqwJX.md) - [plain]
 | 33 | [Feels Like](https://open.spotify.com/track/0F9v0lpBD93UIOh4g0BcPm) | [MikeQ](https://open.spotify.com/artist/0H2tgKu7aoe1YVflaRWH6o), [Kevin Jz Prodigy](https://open.spotify.com/artist/6f7VuR9EQ1JqkWXqGwvVH5) | [Let It All Out EP](https://open.spotify.com/album/1EjGCyMdcQlJM5aW4wpyaV) | 2:23 |
 | 34 | [What's the Word](https://open.spotify.com/track/2fm15dc1NTbaXdghv4EXIR) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [Proper Villains](https://open.spotify.com/artist/2mVUdPq7evlUNzq2rYys8S) | [Muvaland Vol\. 2](https://open.spotify.com/album/3SLZJoCclmowCidyh42q8M) | 3:26 |
 | 35 | [Kitten Heel \- Club Eat Remix](https://open.spotify.com/track/4o1wCXbXsEtfhlv3nQcwyz) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt), [Club Eat](https://open.spotify.com/artist/073L1kDK5ruwVLIRHGQgwc) | [Remix Mixtape](https://open.spotify.com/album/5AeLQW8m7F7SjKKp9hKZX0) | 2:31 |
-| 36 | [Feeling Good \(What Needs to Be Done\)](https://open.spotify.com/track/4NGWMqSa4Jq4NZZC8BkPfA) | [Tony Pops](https://open.spotify.com/artist/5mj4luWTTdAJNziIEQadc0) | [Feeling Good \(What Needs to Be Done\)](https://open.spotify.com/album/10R2UYAVywMSAScmmFN32Z) | 3:32 |
+| 36 | [Feeling Good \(What Needs to Be Done\)](https://open.spotify.com/track/6axRY6UyCCBa7zwbLCyDFB) | [Tony Pops](https://open.spotify.com/artist/5mj4luWTTdAJNziIEQadc0) | [Feeling Good \(What Needs to Be Done\)](https://open.spotify.com/album/1WKZw3XMQEhfSoimpKbGku) | 3:32 |
 | 37 | [GENRE BACKLASH](https://open.spotify.com/track/1Qpk1ncvQ41hRa1U4cem3F) | [Boody](https://open.spotify.com/artist/64yfjhFPMATyVqtB7knCCH) | [Flatbush](https://open.spotify.com/album/1yZWmKDL12wyYpUQroX0KR) | 2:36 |
 | 38 | [Soak It Up \(Remix\)](https://open.spotify.com/track/3M8oAB4Nof44bWG5qP7gtq) | [Monét X Change](https://open.spotify.com/artist/3XiIfBzhVYaADoU54bFm2w), [Bob the Drag Queen](https://open.spotify.com/artist/71WL5bNm5jPPpwpDcW3Icj) | [Soak It Up](https://open.spotify.com/album/2pJbUeVzXT2f7HGB8H0H2F) | 4:16 |
 | 39 | [Musical Chairs](https://open.spotify.com/track/3fX94zWU2M0xwj4LACbyYx) | [DJ Delish](https://open.spotify.com/artist/1Dh6pMtqj1w0d5DsNm7Rfd) | [XP](https://open.spotify.com/album/2mfKcs777o7GN5gEdEtPmu) | 3:02 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX147VuwpqwJX.md) - [plain]
 | 100 | [Some Type Of Way](https://open.spotify.com/track/7GQNJ4CPmz1HnZJufDfnGR) | [Gregg Evisu XL](https://open.spotify.com/artist/6aededuMz6UqTaWXyMopQs), [Jay R Neutron](https://open.spotify.com/artist/5vU33oQSK9YGIF60NySECr) | [Qweendom](https://open.spotify.com/album/4cuWLmE34YTJkiUgQVBeLv) | 2:30 |
 | 101 | [Witch Doktor](https://open.spotify.com/track/3ntelFceNINxt3xhEXhRc8) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Greatest Hits](https://open.spotify.com/album/4t09XQnmG7HufzESXNdWn4) | 6:46 |
 
-Snapshot ID: `MTY1OTY3MjAwMCwwMDAwMDAwMDI4Mzk1ZjM0MGJmYzBjMDMxNDY3NGY2NjY2ZjBhOTQz`
+Snapshot ID: `MTY1OTY3MjAwMCwwMDAwMDAwMGVhMTUxOWI4YzExZmQxNDhjYmEzZjdjODdhNWI2YTQ4`

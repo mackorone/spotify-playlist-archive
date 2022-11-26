@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "The best of modern blues rock. Cover: Anthony Gomes",
+  "description": "The best of modern blues rock. Cover: Gary Clark Jr.",
   "name": "Modern Blues Rock",
   "published_playlist_ids": [
     "2ytdQyvJSh0gNxZ2IJT8lV"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 192436,
       "name": "Ain't None Watered Down",
       "url": "https://open.spotify.com/track/3vlkTPYYJ91dZyQYAci4rD"
@@ -170,6 +170,24 @@
     },
     {
       "album": {
+        "name": "Ballad of a Thin Man",
+        "url": "https://open.spotify.com/album/1UR6yF1dvoYhX3D2koRIzT"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393586,
+      "name": "Ballad of a Thin Man",
+      "url": "https://open.spotify.com/track/3SFUwGNG1YuyZgBiDbMun6"
+    },
+    {
+      "album": {
         "name": "Donkey Jacket",
         "url": "https://open.spotify.com/album/4GaibnEGmTlmMKutYQ80iI"
       },
@@ -181,7 +199,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 318458,
       "name": "Be Your Own Invention",
       "url": "https://open.spotify.com/track/1AfZrLEQLftSm2HsvGat4s"
@@ -221,6 +239,24 @@
       "duration_ms": 168936,
       "name": "Black Magic",
       "url": "https://open.spotify.com/track/2Fka5bMBcXzrrUHaJjpqGq"
+    },
+    {
+      "album": {
+        "name": "Road To Redemption",
+        "url": "https://open.spotify.com/album/4gj1UOa3iiULaU85YcdYTJ"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301760,
+      "name": "Black Roses",
+      "url": "https://open.spotify.com/track/5uiW9HcD9edXu2Gk65v9pj"
     },
     {
       "album": {
@@ -275,6 +311,24 @@
       "duration_ms": 190893,
       "name": "Boom Boom Boom",
       "url": "https://open.spotify.com/track/0ATlimBBLb05G6wiPOGwaw"
+    },
+    {
+      "album": {
+        "name": "Blak and Blu (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0YaeFHEYGpdzdFIxDRFvCv"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324786,
+      "name": "Bright Lights",
+      "url": "https://open.spotify.com/track/7aO35V27YDi4hKOL9odSya"
     },
     {
       "album": {
@@ -355,6 +409,24 @@
       "duration_ms": 203099,
       "name": "Click Click Domino (feat. Marcus King)",
       "url": "https://open.spotify.com/track/5SefpS9fNKmduJWxxqH0tA"
+    },
+    {
+      "album": {
+        "name": "Come For Me",
+        "url": "https://open.spotify.com/album/78654KgIrmbYl7BlulKAOS"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209667,
+      "name": "Come For Me",
+      "url": "https://open.spotify.com/track/5jWtYVhn2LW98F8VyN91Nj"
     },
     {
       "album": {
@@ -463,7 +535,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 290840,
       "name": "Destination Unknown",
       "url": "https://open.spotify.com/track/2svcyE4LIiCKgBOVGtLDdC"
@@ -503,6 +575,24 @@
       "duration_ms": 276625,
       "name": "Down On The Bottom",
       "url": "https://open.spotify.com/track/42E1wt4PuswhRLnpoGJu7y"
+    },
+    {
+      "album": {
+        "name": "Down the Drain",
+        "url": "https://open.spotify.com/album/5k7nwqMONpVKz3wir3fHw6"
+      },
+      "artists": [
+        {
+          "name": "Jared James Nichols",
+          "url": "https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208816,
+      "name": "Down the Drain",
+      "url": "https://open.spotify.com/track/17VWykhZ1NSS57S2BbzBQ9"
     },
     {
       "album": {
@@ -650,6 +740,24 @@
     },
     {
       "album": {
+        "name": "Gone to Stay",
+        "url": "https://open.spotify.com/album/4WGb9jqt64iaJ6zjfXRl9E"
+      },
+      "artists": [
+        {
+          "name": "John Norum",
+          "url": "https://open.spotify.com/artist/6bLPZMOlLH9wiaQ0kO5nZh"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-19",
+      "duration_ms": 256733,
+      "name": "Gone to Stay",
+      "url": "https://open.spotify.com/track/7zXS22mqJWS5DoMktmsgHZ"
+    },
+    {
+      "album": {
         "name": "Made In Muscle Shoals Vol. 2",
         "url": "https://open.spotify.com/album/1lBoq5SRprSiyxDcQNpob5"
       },
@@ -679,7 +787,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 215600,
       "name": "Gotta Be Movin\u2019",
       "url": "https://open.spotify.com/track/2ftfB3ZY1c6jHEYRgRXrB9"
@@ -859,7 +967,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 289607,
       "name": "I Need To Be",
       "url": "https://open.spotify.com/track/0Q4vxfviEyCBL27mzZUu1X"
@@ -992,6 +1100,24 @@
     },
     {
       "album": {
+        "name": "Innocence Of Youth",
+        "url": "https://open.spotify.com/album/1c69MRP9d9rPor6AJ2cgfg"
+      },
+      "artists": [
+        {
+          "name": "When Rivers Meet",
+          "url": "https://open.spotify.com/artist/3r4hYfzQA1yuQFEKMDJzJi"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-19",
+      "duration_ms": 300487,
+      "name": "Innocence Of Youth - Live",
+      "url": "https://open.spotify.com/track/3wv8SOIuHKruVasUr4OuRP"
+    },
+    {
+      "album": {
         "name": "Keep Up",
         "url": "https://open.spotify.com/album/5kNJLJiLAEMMq8b909JBsY"
       },
@@ -1025,7 +1151,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 215880,
       "name": "Lie Lie Lie",
       "url": "https://open.spotify.com/track/6hY92vu9OTD8B7uTJgYsN4"
@@ -1065,6 +1191,24 @@
       "duration_ms": 193986,
       "name": "Light Of The Moon",
       "url": "https://open.spotify.com/track/2TpeHwzSGTdy3WSqEzmLwd"
+    },
+    {
+      "album": {
+        "name": "Louder",
+        "url": "https://open.spotify.com/album/3IeXcZHEGTwtu0TLFQ0djd"
+      },
+      "artists": [
+        {
+          "name": "Chris Leamy",
+          "url": "https://open.spotify.com/artist/1JPn3XQNeGEYGAxqC8apQx"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165954,
+      "name": "Louder",
+      "url": "https://open.spotify.com/track/64u5BCxJ7tkiN3Zru9agqt"
     },
     {
       "album": {
@@ -1137,6 +1281,24 @@
       "duration_ms": 294546,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/4bmA9Hd5F2u9MvnewudhjB"
+    },
+    {
+      "album": {
+        "name": "Meet Me in the Bottom / Friends",
+        "url": "https://open.spotify.com/album/2SWixsPxllhYc2iLEx6Yd5"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Nichols",
+          "url": "https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-19",
+      "duration_ms": 188991,
+      "name": "Meet Me in the Bottom",
+      "url": "https://open.spotify.com/track/7iiHpRaetFtBweEMVnG1TH"
     },
     {
       "album": {
@@ -1241,7 +1403,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 423666,
       "name": "Notches",
       "url": "https://open.spotify.com/track/4aDBXR6cHLtxaO37iaQPml"
@@ -1367,10 +1529,28 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 225309,
       "name": "Painted Horse",
       "url": "https://open.spotify.com/track/2FWKa4zEa6lrdTDuGNMur9"
+    },
+    {
+      "album": {
+        "name": "High Voltage Blues",
+        "url": "https://open.spotify.com/album/0ieocMI2zlwYG0JcJUq6Ey"
+      },
+      "artists": [
+        {
+          "name": "Anthony Gomes",
+          "url": "https://open.spotify.com/artist/0aBEiafPqEJ3o0yp6gFsHg"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225309,
+      "name": "Painted Horse",
+      "url": "https://open.spotify.com/track/312chAE7wHDSz5tbxmKljM"
     },
     {
       "album": {
@@ -1421,7 +1601,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 231743,
       "name": "Poison the Water",
       "url": "https://open.spotify.com/track/4FZTgKUSqTsZ2oSNpHl0O4"
@@ -1457,7 +1637,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 206173,
       "name": "Ride",
       "url": "https://open.spotify.com/track/0FwmAMxNdTC515HY3lexJR"
@@ -1565,7 +1745,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 270753,
       "name": "Scarborough Street Fight",
       "url": "https://open.spotify.com/track/7EPpQ2FZRoIIB7CRhRUwbH"
@@ -1797,7 +1977,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 214921,
       "name": "Sugar and Spice",
       "url": "https://open.spotify.com/track/3pHvVcToKzumdjDX9tFEA9"
@@ -2183,6 +2363,24 @@
       "duration_ms": 214842,
       "name": "What's the Trick?",
       "url": "https://open.spotify.com/track/14FW5L81Px03LnnsXnB2LG"
+    },
+    {
+      "album": {
+        "name": "Blak and Blu (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0YaeFHEYGpdzdFIxDRFvCv"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 465960,
+      "name": "When My Train Pulls In",
+      "url": "https://open.spotify.com/track/2mdxGlwrhtkuxgzbH7LOIh"
     },
     {
       "album": {

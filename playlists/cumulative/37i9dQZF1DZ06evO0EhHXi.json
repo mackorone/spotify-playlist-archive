@@ -170,6 +170,24 @@
     },
     {
       "album": {
+        "name": "Leave Home (40th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0iDP2ZcQErXlNrBYFjaaId"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113640,
+      "name": "Commando - 2017 Remaster",
+      "url": "https://open.spotify.com/track/7bmHNcuflaGgUgEV4CuDCA"
+    },
+    {
+      "album": {
         "name": "Rocket to Russia (40th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/7Jb0VtDTacuQdXM3pYyrbv"
       },
@@ -361,7 +379,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": "2022-10-13",
       "duration_ms": 169560,
       "name": "Here Today, Gone Tomorrow - 2017 Remaster",
       "url": "https://open.spotify.com/track/1wH6pi7gVjcpWbPMBBymfy"
@@ -379,7 +397,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 247493,
       "name": "Howling at the Moon (Sha-La-La)",
       "url": "https://open.spotify.com/track/5bhA5IQMnMqCCAAdNwSlCM"
@@ -512,6 +530,24 @@
     },
     {
       "album": {
+        "name": "Mondo Bizarro",
+        "url": "https://open.spotify.com/album/35A0Y71VAqYw1t7QOsvErQ"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "date_added": "2022-11-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-08",
+      "duration_ms": 141026,
+      "name": "I Won't Let It Happen",
+      "url": "https://open.spotify.com/track/6tz9FK3zjxp1PNB3AvQi0G"
+    },
+    {
+      "album": {
         "name": "Road to Ruin (40th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/43zbrwwFHh5e7cmDQomx8Z"
       },
@@ -631,7 +667,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 234306,
       "name": "My Brain Is Hanging Upside Down (Bonzo Goes to Bitburg)",
       "url": "https://open.spotify.com/track/7mLOaTOS6kiJi8Anm2C1zc"
@@ -739,7 +775,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 161400,
       "name": "Out of Time",
       "url": "https://open.spotify.com/track/78j8gwBS0Lf36M1yqRG6kJ"
@@ -757,7 +793,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 139373,
       "name": "Palisades Park",
       "url": "https://open.spotify.com/track/1lPdoGvG4oaSQErpedjYre"
@@ -847,7 +883,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 77385,
       "name": "R.A.M.O.N.E.S. - Live 1994",
       "url": "https://open.spotify.com/track/03NxcAfdPgnUTNZDScYqnZ"
@@ -901,7 +937,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 235360,
       "name": "She Belongs to Me",
       "url": "https://open.spotify.com/track/2FOFDQHmU0YERuYs3pHd2V"
@@ -1081,7 +1117,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-25",
+      "date_removed": null,
       "duration_ms": 179173,
       "name": "Strength to Endure",
       "url": "https://open.spotify.com/track/1iOqQucADvs4hFX6YpflHO"

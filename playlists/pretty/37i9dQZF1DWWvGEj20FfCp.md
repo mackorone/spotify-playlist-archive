@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGEj20FfCp.md) - [plain]
 
 > bringing in NYFW w/ designers, No Sesso
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,559 likes - 55 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,005 likes - 55 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Board Up](https://open.spotify.com/track/7lPHOnjC7z6FdxIVcdx1sn) | [Fuck U Pay Us](https://open.spotify.com/artist/38OhJ6o5aFB6ENQlmx1QQJ) | [Board Up](https://open.spotify.com/album/2oDnujgPWTevv3eXNSqqK1) | 4:19 |
 | 2 | [EGO](https://open.spotify.com/track/71xb2itQ9hQCc7AbFz9BkC) | [Crystal Murray](https://open.spotify.com/artist/2lRXAjsNoYGqyYkgHxk5OH) | [Twisted Bases](https://open.spotify.com/album/4SMyiCrs28dzvgltqlUyRM) | 2:43 |
-| 3 | [Robyn](https://open.spotify.com/track/40BvDslaoDBzqKjexjlFXr) | [cktrl](https://open.spotify.com/artist/2eO4klJg324zroGqnBkqk3) | [Robyn](https://open.spotify.com/album/1KA0TZkPZSbi8COxiZGxkO) | 5:30 |
+| 3 | [Robyn](https://open.spotify.com/track/2QUXnZuZYqc5RAgSJILpb6) | [cktrl](https://open.spotify.com/artist/2eO4klJg324zroGqnBkqk3) | [Robyn](https://open.spotify.com/album/1UYhf9jWeeOuEpwt2VjwUP) | 5:30 |
 | 4 | [Journey In Satchidananda](https://open.spotify.com/track/2gG3ivmsfylVXLyIJvLXyN) | [Alice Coltrane](https://open.spotify.com/artist/0oKYiTD5CdNbrofRvM1dIr), [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud) | [Journey in Satchidananda](https://open.spotify.com/album/6zV55F6W8kh1qe8LHhqRbz) | 6:36 |
 | 5 | [The First Taste](https://open.spotify.com/track/21Xc8hEIzv81jwiftI4hJB) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Tidal](https://open.spotify.com/album/5gVBXH8MT6zfdRkjp7qT18) | 4:46 |
 | 6 | [In A Sentimental Mood](https://open.spotify.com/track/0E8q2Fx2XuzXCO2NSAppkR) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Duke Ellington & John Coltrane](https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5) | 4:15 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGEj20FfCp.md) - [plain]
 | 54 | [Baby](https://open.spotify.com/track/62wdQ5CInFr7cjISqrr46f) | [Donnie & Joe Emerson](https://open.spotify.com/artist/7KGqvFukcZRbQ7YFsYrgPa) | [Dreamin' Wild](https://open.spotify.com/album/4v9R5sk4HQ0X1krbEis34P) | 4:10 |
 | 55 | [Bags on Bags](https://open.spotify.com/track/6VU0kwM4Gui3oxw3g5Lje5) | [Crystal Murray](https://open.spotify.com/artist/2lRXAjsNoYGqyYkgHxk5OH) | [Twisted Bases](https://open.spotify.com/album/4SMyiCrs28dzvgltqlUyRM) | 2:56 |
 
-Snapshot ID: `MTY2MjQ4OTE0MSwwMDAwMDAwMGM3MWY3MWIxNTQ5MDQ3N2Q0OTY3OTlhMDQyZjNmNjg3`
+Snapshot ID: `MTY2MjQ4OTE0MSwwMDAwMDAwMDdkMTMyMGVjZjM0NWE1MDc0NmExY2YwMGMxZDZiNGFl`

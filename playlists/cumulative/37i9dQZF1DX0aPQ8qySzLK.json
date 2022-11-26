@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "Hallelujah (I Found You)",
+        "url": "https://open.spotify.com/album/6UAMIJESFsj1L8YfFP9Px7"
+      },
+      "artists": [
+        {
+          "name": "Mattie Leon",
+          "url": "https://open.spotify.com/artist/3hJTvfT20mDphCF1yJsnC0"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 213703,
+      "name": "All the Time",
+      "url": "https://open.spotify.com/track/2ZEfUihEUaHyBEgutzEJeC"
+    },
+    {
+      "album": {
         "name": "In Natural Light",
         "url": "https://open.spotify.com/album/2UWI6DUp9mY9nOAZJBZVxO"
       },
@@ -1126,6 +1144,24 @@
     },
     {
       "album": {
+        "name": "A Place",
+        "url": "https://open.spotify.com/album/2hPqFV54abYxY8dcaF4Xmu"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 215164,
+      "name": "Like a River",
+      "url": "https://open.spotify.com/track/1eYHadX8TsDknDpv8ZimGU"
+    },
+    {
+      "album": {
         "name": "Like a River",
         "url": "https://open.spotify.com/album/7Jznoh9YHwR7mddNJBIWMu"
       },
@@ -1830,8 +1866,44 @@
     },
     {
       "album": {
+        "name": "Sword from the Stone (Gingerbread Mix)",
+        "url": "https://open.spotify.com/album/0egB2HPIM6cjBA6ustouKs"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 201720,
+      "name": "Sword from the Stone",
+      "url": "https://open.spotify.com/track/5v6Ymyfe9zPlwqzJQzpa5T"
+    },
+    {
+      "album": {
         "name": "Wanted You to Know",
         "url": "https://open.spotify.com/album/5MPkrXngz7F6LzCxNsmAZ4"
+      },
+      "artists": [
+        {
+          "name": "Emily James",
+          "url": "https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
+      "duration_ms": 177952,
+      "name": "that'd be alright",
+      "url": "https://open.spotify.com/track/058OqhzpJJMM3q90Skvg2r"
+    },
+    {
+      "album": {
+        "name": "Wanted You to Know",
+        "url": "https://open.spotify.com/album/6uXhW6yZWHxBMeLlYTEpa6"
       },
       "artists": [
         {
@@ -1844,7 +1916,7 @@
       "date_removed": null,
       "duration_ms": 177952,
       "name": "that'd be alright",
-      "url": "https://open.spotify.com/track/058OqhzpJJMM3q90Skvg2r"
+      "url": "https://open.spotify.com/track/0XQhs9ovprk2yw0QkDjevN"
     },
     {
       "album": {
@@ -2021,10 +2093,28 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 193800,
       "name": "To the Mountains",
       "url": "https://open.spotify.com/track/2CK9xYMVdmJMPKZyArVbt4"
+    },
+    {
+      "album": {
+        "name": "Give Me A Minute",
+        "url": "https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193800,
+      "name": "To the Mountains",
+      "url": "https://open.spotify.com/track/4jLxibvYRtzEAiTDvbL9fO"
     },
     {
       "album": {

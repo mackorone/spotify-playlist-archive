@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 195200,
       "name": "Brains",
       "url": "https://open.spotify.com/track/7x1Uhtkt9UGQrffVwplBT4"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 172400,
       "name": "Cops / Capacity",
       "url": "https://open.spotify.com/track/1yqmcfHazwWohYFsI7pSnP"
@@ -239,7 +239,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-10-16",
       "duration_ms": 198692,
       "name": "Feeling Good, Feeling Great",
       "url": "https://open.spotify.com/track/6ovHi1JMowwLaPHTph0tSB"
@@ -377,7 +377,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 131101,
       "name": "Guillotine",
       "url": "https://open.spotify.com/track/6EOm9UHVPvCjPUz4UxA9Xk"
@@ -593,7 +593,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 159826,
       "name": "Nightmare Wrecker",
       "url": "https://open.spotify.com/track/5yuaGKyNmZ4km7BaD5vB0I"
@@ -683,10 +683,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 210405,
       "name": "Over It",
       "url": "https://open.spotify.com/track/0g3IOrs9DNu9OYx8uZxKw7"
+    },
+    {
+      "album": {
+        "name": "Paranoid",
+        "url": "https://open.spotify.com/album/6SWH4PMxSh7NHF7vzRhRHv"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199133,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/5kKHQvRdXfTBD3F99zn22K"
     },
     {
       "album": {
@@ -813,7 +831,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-10-19",
       "duration_ms": 232320,
       "name": "Run The Red",
       "url": "https://open.spotify.com/track/4FF3FPm05xCwjGBDp6JVzn"
@@ -885,7 +903,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 159546,
       "name": "Skeleton Key",
       "url": "https://open.spotify.com/track/3cDHzxJC3bJQB1XlmZ5kYH"
@@ -939,7 +957,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 192346,
       "name": "Swept Up",
       "url": "https://open.spotify.com/track/6SCv4UuNG89w6ld4w5x82N"
@@ -1011,7 +1029,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": "2022-10-13",
       "duration_ms": 336456,
       "name": "Witchcraft Pt. II",
       "url": "https://open.spotify.com/track/19ZiwAWlBDsgmqLUiCejKL"
@@ -1033,7 +1051,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 219013,
       "name": "Year Of The Dog (feat. Matt Caughthran)",
       "url": "https://open.spotify.com/track/0sUONUFb9ZgIoDXKVJgTZI"

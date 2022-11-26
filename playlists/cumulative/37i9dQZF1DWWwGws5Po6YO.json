@@ -113,7 +113,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 170613,
       "name": "At Dawn",
       "url": "https://open.spotify.com/track/7oxhBiEowzLlttETXX3dy4"
@@ -377,7 +377,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": null,
       "duration_ms": 143815,
       "name": "CHU / \u8655",
       "url": "https://open.spotify.com/track/5D4LseymlE9t3nEZCMtEYN"
@@ -769,7 +769,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 271093,
       "name": "Humidity",
       "url": "https://open.spotify.com/track/2WO4gKLH1gaydKHuJof33I"
@@ -841,7 +841,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-10-31",
       "duration_ms": 321693,
       "name": "In Her Hair",
       "url": "https://open.spotify.com/track/76cA2zwvP6oZXMEMrx7jRV"
@@ -1919,6 +1919,24 @@
     {
       "album": {
         "name": "Midnight",
+        "url": "https://open.spotify.com/album/0Ki50P3NuzhFtM70S5OOtf"
+      },
+      "artists": [
+        {
+          "name": "Lisa Nordstr\u00f6m",
+          "url": "https://open.spotify.com/artist/4K9TXqOfC8Owin6QflkeHl"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1168386,
+      "name": "Sun - Midnight Version",
+      "url": "https://open.spotify.com/track/1qzAQw3RpFpdB7p71KQRrr"
+    },
+    {
+      "album": {
+        "name": "Midnight",
         "url": "https://open.spotify.com/album/3jzXWkXEgM5WDtLnf3ySUK"
       },
       "artists": [
@@ -1929,7 +1947,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 1168386,
       "name": "Sun - Midnight Version",
       "url": "https://open.spotify.com/track/7MJNbajzY9V54Eq2a0SiQD"
@@ -2175,7 +2193,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 229000,
       "name": "Ubiquitous",
       "url": "https://open.spotify.com/track/6AA44gTSmQ6S2aMUsjd3ZG"

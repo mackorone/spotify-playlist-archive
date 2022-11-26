@@ -8,6 +8,32 @@
   "tracks": [
     {
       "album": {
+        "name": "Aafat (Remix By DJ Aqeel) [brah]",
+        "url": "https://open.spotify.com/album/354LgVKT8Ffpd2MNKAWrqG"
+      },
+      "artists": [
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Zahrah S Khan",
+          "url": "https://open.spotify.com/artist/7C5xVXoqim1TICnCMZ9A6P"
+        },
+        {
+          "name": "Dj Aqeel",
+          "url": "https://open.spotify.com/artist/4KLgHjQieY43a6kj6WVyxx"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189790,
+      "name": "Aafat (From \"Liger\") - Remix By DJ Aqeel",
+      "url": "https://open.spotify.com/track/6sOC569sksrnsrpSIihTtn"
+    },
+    {
+      "album": {
         "name": "Simmba",
         "url": "https://open.spotify.com/album/3dynRTuVOrAr5O7srr2txN"
       },
@@ -61,6 +87,32 @@
       "duration_ms": 212741,
       "name": "Aankh Marey (From \"Simmba\")",
       "url": "https://open.spotify.com/track/63MvWd6T6yoS7h4AJ4Hjrm"
+    },
+    {
+      "album": {
+        "name": "Aap Jaisa Koi (From \"An Action Hero\")",
+        "url": "https://open.spotify.com/album/6nR97VpgmRofNSX7YeDItC"
+      },
+      "artists": [
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Zahrah S Khan",
+          "url": "https://open.spotify.com/artist/7C5xVXoqim1TICnCMZ9A6P"
+        },
+        {
+          "name": "Altamash Faridi",
+          "url": "https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176111,
+      "name": "Aap Jaisa Koi (From \"An Action Hero\")",
+      "url": "https://open.spotify.com/track/0SONddnho2KyMgAoaVd4Wk"
     },
     {
       "album": {
@@ -381,6 +433,28 @@
       "duration_ms": 211666,
       "name": "Bhool Bhulaiyaa 2 Title Track (From \"Bhool Bhulaiyaa 2\")",
       "url": "https://open.spotify.com/track/2cbaCL38j8eUXBQjvLawET"
+    },
+    {
+      "album": {
+        "name": "Bijli (From \"Govinda Naam Mera\")",
+        "url": "https://open.spotify.com/album/3cXSO3oTliGRZG0hGugaXk"
+      },
+      "artists": [
+        {
+          "name": "Mika Singh",
+          "url": "https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13"
+        },
+        {
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Bijli",
+      "url": "https://open.spotify.com/track/3hts3cIWNG8A2063si9GLP"
     },
     {
       "album": {
@@ -971,6 +1045,52 @@
       "duration_ms": 179033,
       "name": "Dholida",
       "url": "https://open.spotify.com/track/63FvgWtjAw9nUa8f5JXrh3"
+    },
+    {
+      "album": {
+        "name": "Dholida (From \"Gangubai Kathiawadi\") - Single",
+        "url": "https://open.spotify.com/album/3Unqe9EiUnPMKVRcmO3hTe"
+      },
+      "artists": [
+        {
+          "name": "Jahnvi Shrimankar",
+          "url": "https://open.spotify.com/artist/6HWLgNliaSzF438T7Hk755"
+        },
+        {
+          "name": "Shail Hada",
+          "url": "https://open.spotify.com/artist/73oabrcxZFkgjgeJBP5uJC"
+        },
+        {
+          "name": "Dipti",
+          "url": "https://open.spotify.com/artist/2qs6QhyW9EGLaD9d3XKGeR"
+        },
+        {
+          "name": "Pragati",
+          "url": "https://open.spotify.com/artist/28158US0Sov816JcVhUGVz"
+        },
+        {
+          "name": "Rucha",
+          "url": "https://open.spotify.com/artist/0ZOgFq0MwvVRl9V70yhz3f"
+        },
+        {
+          "name": "Arohi",
+          "url": "https://open.spotify.com/artist/04yw6jIldqUYBFzYkYILat"
+        },
+        {
+          "name": "Archana",
+          "url": "https://open.spotify.com/artist/6ZfDJaY1IBhPVkUIjErbnX"
+        },
+        {
+          "name": "Sanjay Leela Bhansali",
+          "url": "https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 179033,
+      "name": "Dholida (From \"Gangubai Kathiawadi\")",
+      "url": "https://open.spotify.com/track/7tqkqlRNXLuOCO2Vwr8BsY"
     },
     {
       "album": {
@@ -2823,6 +2943,28 @@
       "duration_ms": 177694,
       "name": "Sakhiyan2.0",
       "url": "https://open.spotify.com/track/2hTn8oS49IQULxAWs7hEBz"
+    },
+    {
+      "album": {
+        "name": "BellBottom (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0xcn75mmKGdvd2XYJUmqCU"
+      },
+      "artists": [
+        {
+          "name": "Maninder Buttar",
+          "url": "https://open.spotify.com/artist/2sN4fSzAm2rAL0HIurPCEM"
+        },
+        {
+          "name": "Zara Khan",
+          "url": "https://open.spotify.com/artist/3YVD2aXecw8JQuWkGAuf7t"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 177694,
+      "name": "Sakhiyan2.0",
+      "url": "https://open.spotify.com/track/0E0Us1GI40GNXWOQwbL5uG"
     },
     {
       "album": {

@@ -186,6 +186,36 @@
     },
     {
       "album": {
+        "name": "Queen's Platinum Jubilee Classical Music",
+        "url": "https://open.spotify.com/album/4agVxFg16QsfMcm6fUDWAG"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Nicola Benedetti",
+          "url": "https://open.spotify.com/artist/02B3Os1lCLuWR6klPJiQpW"
+        },
+        {
+          "name": "BBC Scottish symphony orchestra",
+          "url": "https://open.spotify.com/artist/1PbPBgJV68KjkK2gZg4SrI"
+        },
+        {
+          "name": "Rory Macdonald",
+          "url": "https://open.spotify.com/artist/1ekxcAi999bgwLaTQGdMPU"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 323460,
+      "name": "Bonnie Banks of Loch Lomond",
+      "url": "https://open.spotify.com/track/02H7whuO3Cpcp4Q9GJ1rLK"
+    },
+    {
+      "album": {
         "name": "Homecoming - A Scottish Fantasy (Mirror)",
         "url": "https://open.spotify.com/album/02lp2UGBdVVzAlUiqaj5Py"
       },
@@ -269,6 +299,32 @@
       "duration_ms": 125080,
       "name": "Brook Green Suite: II. Air",
       "url": "https://open.spotify.com/track/5rDjdlYDk9rE3PMoMvQXMY"
+    },
+    {
+      "album": {
+        "name": "Warlock: Capriol Suite; Songs",
+        "url": "https://open.spotify.com/album/5tBbsSMBFaO6YRQ6AYnZaz"
+      },
+      "artists": [
+        {
+          "name": "Peter Warlock",
+          "url": "https://open.spotify.com/artist/5HUhm1zKJGkJEg4qH88Xfd"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 129346,
+      "name": "Capriol Suite: 2. Pavane",
+      "url": "https://open.spotify.com/track/3wiVgTg4rfxzoAsjZnMBWn"
     },
     {
       "album": {
@@ -381,6 +437,36 @@
       "duration_ms": 144266,
       "name": "Capriol Suite: 5. Pied-en- l'air",
       "url": "https://open.spotify.com/track/5JUZN3APQOGsw7LJZYEjmU"
+    },
+    {
+      "album": {
+        "name": "The Ultimate Relaxation Album",
+        "url": "https://open.spotify.com/album/6qu1sVtV7Yx0mOMrvWdgyR"
+      },
+      "artists": [
+        {
+          "name": "Peter Warlock",
+          "url": "https://open.spotify.com/artist/5HUhm1zKJGkJEg4qH88Xfd"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        },
+        {
+          "name": "Nicholas Kraemer",
+          "url": "https://open.spotify.com/artist/62XyYkSHbu9foTpnNFWdpT"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 144920,
+      "name": "Capriol Suite: 5. Pied-en- l'air",
+      "url": "https://open.spotify.com/track/0PHKg158j2NawA23X1ld3R"
     },
     {
       "album": {
@@ -706,6 +792,32 @@
     },
     {
       "album": {
+        "name": "Pastoral Classical",
+        "url": "https://open.spotify.com/album/1hY1021W7uxCJEb1mBVG8M"
+      },
+      "artists": [
+        {
+          "name": "Ralph Vaughan Williams",
+          "url": "https://open.spotify.com/artist/7wNkISK49lKeXuRaZcQVFe"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 257320,
+      "name": "Fantasia on Greensleeves",
+      "url": "https://open.spotify.com/track/3R8Ma4IeuPBPRso8HPyNH0"
+    },
+    {
+      "album": {
         "name": "Dreams and Fancies: English Music for Solo Guitar",
         "url": "https://open.spotify.com/album/7C98BOibMcnelCnpzHm4CH"
       },
@@ -781,6 +893,32 @@
       "duration_ms": 93840,
       "name": "Henry V: Henry V: Touch her soft lips and part",
       "url": "https://open.spotify.com/track/5WEmDvDiRpE7p3y8SMMAPJ"
+    },
+    {
+      "album": {
+        "name": "Vaughan Williams: Orchestral Works",
+        "url": "https://open.spotify.com/album/1WtkMorn7OOgwNue1ZAMU5"
+      },
+      "artists": [
+        {
+          "name": "Ralph Vaughan Williams",
+          "url": "https://open.spotify.com/artist/7wNkISK49lKeXuRaZcQVFe"
+        },
+        {
+          "name": "New Queen's Hall Orchestra",
+          "url": "https://open.spotify.com/artist/0Glb0asFeeDAMZy9N8v3Qo"
+        },
+        {
+          "name": "Barry Wordsworth",
+          "url": "https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 827533,
+      "name": "In the Fen Country - Symphonic Impression",
+      "url": "https://open.spotify.com/track/0B2HVKYROcV0bsPdzgFOIu"
     },
     {
       "album": {
@@ -978,6 +1116,36 @@
     },
     {
       "album": {
+        "name": "Calming Classical",
+        "url": "https://open.spotify.com/album/4B4tvScQ3w1Ef4z4v31BPS"
+      },
+      "artists": [
+        {
+          "name": "Gerald Finzi",
+          "url": "https://open.spotify.com/artist/4CDMSd6tmH66svpunz3aWP"
+        },
+        {
+          "name": "Amy Dickson",
+          "url": "https://open.spotify.com/artist/3jCy6dMGBsf8Bt8fKD11Ty"
+        },
+        {
+          "name": "Aurora Orchestra",
+          "url": "https://open.spotify.com/artist/0nrZ1B05azLrMkhTOFaoGJ"
+        },
+        {
+          "name": "Nicholas Collon",
+          "url": "https://open.spotify.com/artist/23qJKSvfqtc9c3VFwdEV4a"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 160240,
+      "name": "Lo, the full, final sacrifice, Op. 26: Amen - Instrumental",
+      "url": "https://open.spotify.com/track/5XzDvuxvJ8U63VO6QGNqF9"
+    },
+    {
+      "album": {
         "name": "Introit: The Music of Gerald Finzi",
         "url": "https://open.spotify.com/album/20rh3R6NUkx62DX4CYhnWw"
       },
@@ -1031,6 +1199,32 @@
       "duration_ms": 642826,
       "name": "Norfolk Rhapsody No. 1 in E minor",
       "url": "https://open.spotify.com/track/5ZdxrqbhWVJeA6Y0r4Ic7R"
+    },
+    {
+      "album": {
+        "name": "Queen's Platinum Jubilee Classical Music",
+        "url": "https://open.spotify.com/album/4agVxFg16QsfMcm6fUDWAG"
+      },
+      "artists": [
+        {
+          "name": "Ralph Vaughan Williams",
+          "url": "https://open.spotify.com/artist/7wNkISK49lKeXuRaZcQVFe"
+        },
+        {
+          "name": "New Queen's Hall Orchestra",
+          "url": "https://open.spotify.com/artist/0Glb0asFeeDAMZy9N8v3Qo"
+        },
+        {
+          "name": "Barry Wordsworth",
+          "url": "https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 642826,
+      "name": "Norfolk Rhapsody No. 1 in E minor",
+      "url": "https://open.spotify.com/track/7jwd4yXnnUSW9QaqEmec5x"
     },
     {
       "album": {
@@ -1351,6 +1545,48 @@
       "duration_ms": 226866,
       "name": "The Watermill",
       "url": "https://open.spotify.com/track/3smnCrtNXulGB5TfRrLYN5"
+    },
+    {
+      "album": {
+        "name": "Vaughan Williams: Tallis Fantasia; Fantasia on Greensleeves; The Lark Ascending etc.",
+        "url": "https://open.spotify.com/album/1oiPWDZq2qXtlfOQUwgL7F"
+      },
+      "artists": [
+        {
+          "name": "Ralph Vaughan Williams",
+          "url": "https://open.spotify.com/artist/7wNkISK49lKeXuRaZcQVFe"
+        },
+        {
+          "name": "Iona Brown",
+          "url": "https://open.spotify.com/artist/4EQ6Hw3KV9S80ZG1swsFN5"
+        },
+        {
+          "name": "Trevor Connah",
+          "url": "https://open.spotify.com/artist/2LigLLnGPPIzLZMyScwQKe"
+        },
+        {
+          "name": "Stephen Shingles",
+          "url": "https://open.spotify.com/artist/0j2P4TtJ6MuqncwEHeRvUN"
+        },
+        {
+          "name": "Kenneth Heath",
+          "url": "https://open.spotify.com/artist/376oz9UwQfpxO5xxgQplBS"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 913200,
+      "name": "Vaughan Williams: Tallis Fantasia",
+      "url": "https://open.spotify.com/track/4Y9JhnZTzt3yOI5rjB9Hru"
     },
     {
       "album": {

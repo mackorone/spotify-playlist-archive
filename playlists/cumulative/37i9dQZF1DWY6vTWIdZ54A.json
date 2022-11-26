@@ -45,6 +45,24 @@
     {
       "album": {
         "name": "A Taste of Silver",
+        "url": "https://open.spotify.com/album/5VcTTlkBQvgYZRgXOsQC06"
+      },
+      "artists": [
+        {
+          "name": "Until The Ribbon Breaks",
+          "url": "https://open.spotify.com/artist/0PFM64sKw3GG4Sk8kqNIcp"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 182280,
+      "name": "A Taste of Silver",
+      "url": "https://open.spotify.com/track/3q0tvLJLDdm0HkUDwOOvoM"
+    },
+    {
+      "album": {
+        "name": "A Taste of Silver",
         "url": "https://open.spotify.com/album/42FwFRL3RJqi3qZcC5ARTD"
       },
       "artists": [
@@ -55,10 +73,46 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 182280,
       "name": "A Taste of Silver",
       "url": "https://open.spotify.com/track/4VPGT5m48bSUaSy8xi5l0n"
+    },
+    {
+      "album": {
+        "name": "A Lesson Unlearnt",
+        "url": "https://open.spotify.com/album/5c74VB3brr3MeBxbk6QYLC"
+      },
+      "artists": [
+        {
+          "name": "Until The Ribbon Breaks",
+          "url": "https://open.spotify.com/artist/0PFM64sKw3GG4Sk8kqNIcp"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182280,
+      "name": "A Taste of Silver",
+      "url": "https://open.spotify.com/track/5SOuMXd2jaCZY8m3sjzohx"
+    },
+    {
+      "album": {
+        "name": "Skinny",
+        "url": "https://open.spotify.com/album/4B4UxXtd4JaYNtaAN6ZNEQ"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 248132,
+      "name": "Alter Ego",
+      "url": "https://open.spotify.com/track/1wHuDCjdE4vxrD9O92QWmw"
     },
     {
       "album": {
@@ -127,10 +181,28 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 246101,
       "name": "Asleep at the Wheel",
       "url": "https://open.spotify.com/track/2VnkxWob7ooT5NrN9WtctI"
+    },
+    {
+      "album": {
+        "name": "Himalayan",
+        "url": "https://open.spotify.com/album/6ynw5YQyZBVK9UPoVJuEeQ"
+      },
+      "artists": [
+        {
+          "name": "Band Of Skulls",
+          "url": "https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246101,
+      "name": "Asleep at the Wheel",
+      "url": "https://open.spotify.com/track/5C0wlC8WJeiGbuI2THoG1U"
     },
     {
       "album": {
@@ -188,6 +260,24 @@
     },
     {
       "album": {
+        "name": "Blood Harmony",
+        "url": "https://open.spotify.com/album/1YLPn4tEqchhJIwB5fPt6k"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 195358,
+      "name": "Bad Spell",
+      "url": "https://open.spotify.com/track/3KXN0yyh3iy665jdKFFQXZ"
+    },
+    {
+      "album": {
         "name": "Bad Spell",
         "url": "https://open.spotify.com/album/2uX8wXgr0jog1Xz6vZSxLS"
       },
@@ -199,7 +289,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 195358,
       "name": "Bad Spell",
       "url": "https://open.spotify.com/track/3xMat5dBN7UXgK8a6E8n93"
@@ -221,6 +311,24 @@
       "duration_ms": 195358,
       "name": "Bad Spell",
       "url": "https://open.spotify.com/track/5cHukuRapWJdAY6EitrL2C"
+    },
+    {
+      "album": {
+        "name": "Blood Harmony",
+        "url": "https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195358,
+      "name": "Bad Spell",
+      "url": "https://open.spotify.com/track/5ixdi1J5GIRKmmwqJiyINe"
     },
     {
       "album": {
@@ -343,10 +451,28 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 373000,
       "name": "Black Sun",
       "url": "https://open.spotify.com/track/2qXa0A4hhNZABcv3w82yAJ"
+    },
+    {
+      "album": {
+        "name": "Kadavar",
+        "url": "https://open.spotify.com/album/6RECe1GHKyEJa07bp6ciYm"
+      },
+      "artists": [
+        {
+          "name": "Kadavar",
+          "url": "https://open.spotify.com/artist/0FfuujZJUa7Z2JzhhiPI2z"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373000,
+      "name": "Black Sun",
+      "url": "https://open.spotify.com/track/55kiPvtypgGabvBYq53O8E"
     },
     {
       "album": {
@@ -415,10 +541,28 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 160240,
       "name": "Brave New World - Edit",
       "url": "https://open.spotify.com/track/3qaKW3PamENC3cfNy1qthd"
+    },
+    {
+      "album": {
+        "name": "Brave New World (Edit)",
+        "url": "https://open.spotify.com/album/4Z0hfRDndGL0bGFnuK9BsZ"
+      },
+      "artists": [
+        {
+          "name": "The Blinders",
+          "url": "https://open.spotify.com/artist/3Z8Y3Ek99rukRa1Hdo14GE"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160240,
+      "name": "Brave New World - Edit",
+      "url": "https://open.spotify.com/track/4k5L5CO5mTIVwdsu6vsIFl"
     },
     {
       "album": {
@@ -458,6 +602,24 @@
     },
     {
       "album": {
+        "name": "Rock's Not Dead",
+        "url": "https://open.spotify.com/album/09ecrfUpZHKVXqm1ZZkBFV"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 324786,
+      "name": "Bright Lights",
+      "url": "https://open.spotify.com/track/5HDMKAgLEPOEazIXo6YavF"
+    },
+    {
+      "album": {
         "name": "Blak and Blu (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0YaeFHEYGpdzdFIxDRFvCv"
       },
@@ -487,10 +649,28 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 179268,
       "name": "Bring It On",
       "url": "https://open.spotify.com/track/1sdWSEGmB3FYml1iPDvvDM"
+    },
+    {
+      "album": {
+        "name": "Bring It On",
+        "url": "https://open.spotify.com/album/5mRIy2iRsza9AfvwJDGU1C"
+      },
+      "artists": [
+        {
+          "name": "Deap Vally",
+          "url": "https://open.spotify.com/artist/1NsvfeRzexfHjhUGqWrULl"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179268,
+      "name": "Bring It On",
+      "url": "https://open.spotify.com/track/5jagZTtWOjehhhr9whpn0Z"
     },
     {
       "album": {
@@ -614,6 +794,42 @@
     },
     {
       "album": {
+        "name": "Wrap Your Head Around",
+        "url": "https://open.spotify.com/album/2M4aK6tyusSZINJOWk7ayQ"
+      },
+      "artists": [
+        {
+          "name": "The Violent",
+          "url": "https://open.spotify.com/artist/5NokRbYYfqacBmRVBRj0wD"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204747,
+      "name": "Counting Sheep",
+      "url": "https://open.spotify.com/track/1JUpOhMBQefPehm8W2tclo"
+    },
+    {
+      "album": {
+        "name": "Counting Sheep",
+        "url": "https://open.spotify.com/album/6BxQrC3u6cKVWriUbvEU7H"
+      },
+      "artists": [
+        {
+          "name": "The Violent",
+          "url": "https://open.spotify.com/artist/5NokRbYYfqacBmRVBRj0wD"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-21",
+      "duration_ms": 204747,
+      "name": "Counting Sheep",
+      "url": "https://open.spotify.com/track/1gGqyq9I9MpZbIEcL9hRvk"
+    },
+    {
+      "album": {
         "name": "Counting Sheep",
         "url": "https://open.spotify.com/album/4UehbXX0gOBPEtd81PBR9l"
       },
@@ -625,7 +841,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 204747,
       "name": "Counting Sheep",
       "url": "https://open.spotify.com/track/54taP3hrKu5FOR6eg1Cupa"
@@ -665,6 +881,24 @@
       "duration_ms": 202687,
       "name": "daphne did it",
       "url": "https://open.spotify.com/track/0QZ3iagvfN7158bVgqIkPR"
+    },
+    {
+      "album": {
+        "name": "the boys",
+        "url": "https://open.spotify.com/album/7fnpUcZ2WQa8fZpp5iCbTo"
+      },
+      "artists": [
+        {
+          "name": "cleopatrick",
+          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 202687,
+      "name": "daphne did it",
+      "url": "https://open.spotify.com/track/1ouo4lvDwYMFMWhwgow0qT"
     },
     {
       "album": {
@@ -794,6 +1028,24 @@
     },
     {
       "album": {
+        "name": "Death By Rock And Roll (Acoustic)",
+        "url": "https://open.spotify.com/album/1LYoe6TjjbJxY30QZEPOdK"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 234476,
+      "name": "Death By Rock And Roll",
+      "url": "https://open.spotify.com/track/53eTcPUfqLS5TswcZLtG9c"
+    },
+    {
+      "album": {
         "name": "Patient Number 9",
         "url": "https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb"
       },
@@ -885,6 +1137,24 @@
       "duration_ms": 232530,
       "name": "Don't Wanna Fight",
       "url": "https://open.spotify.com/track/4gm6JpO3YOcogcjdtPqHWK"
+    },
+    {
+      "album": {
+        "name": "Sound & Color",
+        "url": "https://open.spotify.com/album/0GaYG9L1sXHQZZ7BTk0hGY"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 232546,
+      "name": "Don't Wanna Fight",
+      "url": "https://open.spotify.com/track/6q0lIjDSuZDhrg9GC9yUQO"
     },
     {
       "album": {
@@ -1374,6 +1644,42 @@
     },
     {
       "album": {
+        "name": "Where Do We Go From Here?",
+        "url": "https://open.spotify.com/album/4mugwf4oHm7gG12MrLJsJV"
+      },
+      "artists": [
+        {
+          "name": "Electric Enemy",
+          "url": "https://open.spotify.com/artist/2N1mByBMykfROrhwRVQV3v"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 172140,
+      "name": "Heartache Melody",
+      "url": "https://open.spotify.com/track/1uZz1fImBM6bSk7BjwzIdw"
+    },
+    {
+      "album": {
+        "name": "Heartache Melody",
+        "url": "https://open.spotify.com/album/4tlRcnslK5s2I3Krc6DY2g"
+      },
+      "artists": [
+        {
+          "name": "Electric Enemy",
+          "url": "https://open.spotify.com/artist/2N1mByBMykfROrhwRVQV3v"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172140,
+      "name": "Heartache Melody",
+      "url": "https://open.spotify.com/track/38vs4sreYIEWp6niXlaKDA"
+    },
+    {
+      "album": {
         "name": "Heartache Melody",
         "url": "https://open.spotify.com/album/5vgjMsTYIGUJe9D46PANW4"
       },
@@ -1385,7 +1691,7 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 172140,
       "name": "Heartache Melody",
       "url": "https://open.spotify.com/track/3SiZI9CQ5wjl79gs0gem6Q"
@@ -1443,6 +1749,24 @@
       "duration_ms": 201680,
       "name": "Highway",
       "url": "https://open.spotify.com/track/7aQT5OB4zEgyyxfRDbOBIt"
+    },
+    {
+      "album": {
+        "name": "This Is Rock Music",
+        "url": "https://open.spotify.com/album/6ylXupauSn6vzijMaGc5kK"
+      },
+      "artists": [
+        {
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 180640,
+      "name": "Highway Tune",
+      "url": "https://open.spotify.com/track/0GkKtO9yXrnV2WYlP93lwq"
     },
     {
       "album": {
@@ -1533,6 +1857,24 @@
       "duration_ms": 256071,
       "name": "hometown",
       "url": "https://open.spotify.com/track/2kFKIFc5RSTlhuGed6ZNZ7"
+    },
+    {
+      "album": {
+        "name": "the boys",
+        "url": "https://open.spotify.com/album/7fnpUcZ2WQa8fZpp5iCbTo"
+      },
+      "artists": [
+        {
+          "name": "cleopatrick",
+          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 256071,
+      "name": "hometown",
+      "url": "https://open.spotify.com/track/66fqQMyrd72d6MOP1X0VcY"
     },
     {
       "album": {
@@ -2087,7 +2429,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 202813,
       "name": "Love Is All You Love",
       "url": "https://open.spotify.com/track/23yFGudxXhWkEP0DQDiYgB"
@@ -2112,6 +2454,60 @@
     },
     {
       "album": {
+        "name": "Love Is All You Love",
+        "url": "https://open.spotify.com/album/2XbzGim2SCxpbVL1N9eqkE"
+      },
+      "artists": [
+        {
+          "name": "Band Of Skulls",
+          "url": "https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 202813,
+      "name": "Love Is All You Love",
+      "url": "https://open.spotify.com/track/5ar90tHObtxTUQqshxOJhz"
+    },
+    {
+      "album": {
+        "name": "Love Is All You Love",
+        "url": "https://open.spotify.com/album/1sdwEPqBv44CrAXxLAfK9O"
+      },
+      "artists": [
+        {
+          "name": "Band Of Skulls",
+          "url": "https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202813,
+      "name": "Love Is All You Love",
+      "url": "https://open.spotify.com/track/7IK9YaeFV0wEZmtDl9B2XK"
+    },
+    {
+      "album": {
+        "name": "Delicious Rock Noise",
+        "url": "https://open.spotify.com/album/40oVGFomjqPGwUzPRkxnqG"
+      },
+      "artists": [
+        {
+          "name": "Radkey",
+          "url": "https://open.spotify.com/artist/1egsOeSvcQyacni1rL6c4C"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211106,
+      "name": "Love Spills",
+      "url": "https://open.spotify.com/track/6PgYxALBTd2JmgsU8neAUz"
+    },
+    {
+      "album": {
         "name": "Dark Black Makeup",
         "url": "https://open.spotify.com/album/2KfVV36ma18SbZKRmFcXKf"
       },
@@ -2123,10 +2519,28 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 212613,
       "name": "Love Spills",
       "url": "https://open.spotify.com/track/1Be8ytAIubyZBVffoubQzj"
+    },
+    {
+      "album": {
+        "name": "Love Spills",
+        "url": "https://open.spotify.com/album/7c5n3znhkQRsjSgSHd4Txe"
+      },
+      "artists": [
+        {
+          "name": "Radkey",
+          "url": "https://open.spotify.com/artist/1egsOeSvcQyacni1rL6c4C"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 212613,
+      "name": "Love Spills",
+      "url": "https://open.spotify.com/track/4aHCv8GvpWvyUpUI2yPt5v"
     },
     {
       "album": {
@@ -2329,6 +2743,42 @@
     {
       "album": {
         "name": "Muthafucka",
+        "url": "https://open.spotify.com/album/2SCJscKF1vhsHhQ8Hgqlbj"
+      },
+      "artists": [
+        {
+          "name": "Beware Of Darkness",
+          "url": "https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 212853,
+      "name": "Muthafucka",
+      "url": "https://open.spotify.com/track/0koOeT7EjvzMcucBjzPrXt"
+    },
+    {
+      "album": {
+        "name": "Are You Real?",
+        "url": "https://open.spotify.com/album/4rkueE4vDufCTC5OKoREtR"
+      },
+      "artists": [
+        {
+          "name": "Beware of Darkness",
+          "url": "https://open.spotify.com/artist/0xLOmGSbRgPodnaNKLHwWe"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212853,
+      "name": "Muthafucka",
+      "url": "https://open.spotify.com/track/3V3JJZVln8sC8V6raJNmKk"
+    },
+    {
+      "album": {
+        "name": "Muthafucka",
         "url": "https://open.spotify.com/album/4XMwMHcCcn4YsRwhqgO8Xo"
       },
       "artists": [
@@ -2357,7 +2807,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 212853,
       "name": "Muthafucka",
       "url": "https://open.spotify.com/track/625tsqZDXgxdxEJ7cdonWT"
@@ -2487,6 +2937,24 @@
       "duration_ms": 184000,
       "name": "New Religion",
       "url": "https://open.spotify.com/track/0qbZvLGXmGCgnjPmCzApBb"
+    },
+    {
+      "album": {
+        "name": "New Religion",
+        "url": "https://open.spotify.com/album/39rnzI5FiH4GEPk9vQlHKS"
+      },
+      "artists": [
+        {
+          "name": "Migrant Motel",
+          "url": "https://open.spotify.com/artist/0T63uYYYnOxOXV7bDF0K0G"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 184000,
+      "name": "New Religion",
+      "url": "https://open.spotify.com/track/12bROaJdDuPuuhyXKepRSr"
     },
     {
       "album": {
@@ -3111,10 +3579,28 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-07",
       "duration_ms": 155882,
       "name": "Shadow of Your Love",
       "url": "https://open.spotify.com/track/4AlI7CCObOHRJ9DyCquKt5"
+    },
+    {
+      "album": {
+        "name": "Cut Glass Kings",
+        "url": "https://open.spotify.com/album/6MH4k3SBJoW4NfaAV03DRD"
+      },
+      "artists": [
+        {
+          "name": "Cut Glass Kings",
+          "url": "https://open.spotify.com/artist/6duFEnexUva5UMe40WbV4v"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155882,
+      "name": "Shadow of Your Love",
+      "url": "https://open.spotify.com/track/6SgKK2Lj3kMcX2tqLqJxkP"
     },
     {
       "album": {
@@ -3133,6 +3619,24 @@
       "duration_ms": 156456,
       "name": "Shadow of Your Love",
       "url": "https://open.spotify.com/track/1YCxiooVRFlMwIhbAhapkE"
+    },
+    {
+      "album": {
+        "name": "Shadow of Your Love",
+        "url": "https://open.spotify.com/album/3dAIbF5s2SBg6Bahdm9ceb"
+      },
+      "artists": [
+        {
+          "name": "Cut Glass Kings",
+          "url": "https://open.spotify.com/artist/6duFEnexUva5UMe40WbV4v"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 156456,
+      "name": "Shadow of Your Love",
+      "url": "https://open.spotify.com/track/1noSh84nZafwMYvM49ffVd"
     },
     {
       "album": {
@@ -3298,6 +3802,24 @@
     },
     {
       "album": {
+        "name": "Thunderpussy",
+        "url": "https://open.spotify.com/album/3qhtjP2PJB8JyuMZK1hvbp"
+      },
+      "artists": [
+        {
+          "name": "Thunderpussy",
+          "url": "https://open.spotify.com/artist/5wa2uCAfwySNkiWLr2xg3a"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 248360,
+      "name": "Speed Queen",
+      "url": "https://open.spotify.com/track/5GOYrAcAoEg8xJ4qVLzQao"
+    },
+    {
+      "album": {
         "name": "B.R.M.C.",
         "url": "https://open.spotify.com/album/5abOBUmWegGxl1YUi28ovw"
       },
@@ -3313,6 +3835,24 @@
       "duration_ms": 225333,
       "name": "Spread Your Love",
       "url": "https://open.spotify.com/track/4mpAm83XX1iS63l8wmkEC6"
+    },
+    {
+      "album": {
+        "name": "Broken Boy Soldiers",
+        "url": "https://open.spotify.com/album/4fDaiqpXlswOza10LvoZHb"
+      },
+      "artists": [
+        {
+          "name": "The Raconteurs",
+          "url": "https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 215266,
+      "name": "Steady, As She Goes",
+      "url": "https://open.spotify.com/track/19iqWNzp5LwEdvntpEK8MP"
     },
     {
       "album": {
@@ -3479,6 +4019,24 @@
     {
       "album": {
         "name": "That Dress (Demo)",
+        "url": "https://open.spotify.com/album/4LDDJCImKdsayb1PmLniF3"
+      },
+      "artists": [
+        {
+          "name": "The Pale White",
+          "url": "https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188088,
+      "name": "That Dress - Demo",
+      "url": "https://open.spotify.com/track/0Owkb88GE9Zp1NQex6vpaj"
+    },
+    {
+      "album": {
+        "name": "That Dress (Demo)",
         "url": "https://open.spotify.com/album/1s65VLQ9UpVAwTMDopPCp1"
       },
       "artists": [
@@ -3489,10 +4047,28 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 188088,
       "name": "That Dress - Demo",
       "url": "https://open.spotify.com/track/6RU7KnvzXFxCJERQuFcCR5"
+    },
+    {
+      "album": {
+        "name": "the boys",
+        "url": "https://open.spotify.com/album/7fnpUcZ2WQa8fZpp5iCbTo"
+      },
+      "artists": [
+        {
+          "name": "cleopatrick",
+          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 241764,
+      "name": "the depths",
+      "url": "https://open.spotify.com/track/5M41YwjFzgGFQ9qceGoiJG"
     },
     {
       "album": {
@@ -3627,6 +4203,24 @@
     {
       "album": {
         "name": "This is Our Life",
+        "url": "https://open.spotify.com/album/3ACNAqePBWNG0zC20gRUNs"
+      },
+      "artists": [
+        {
+          "name": "Des Rocs",
+          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 224306,
+      "name": "This is Our Life",
+      "url": "https://open.spotify.com/track/5PUTXDqo5aGHoGbAhYm5ZT"
+    },
+    {
+      "album": {
+        "name": "This is Our Life",
         "url": "https://open.spotify.com/album/0dQPaO9I1hRzDwe2RePxFR"
       },
       "artists": [
@@ -3749,6 +4343,24 @@
       "duration_ms": 177706,
       "name": "Time Machine",
       "url": "https://open.spotify.com/track/1R8N3HYvfzEEHekrgV3Kte"
+    },
+    {
+      "album": {
+        "name": "New Blues Roots",
+        "url": "https://open.spotify.com/album/691cfDyQ3ZKuAZVFZMfiZR"
+      },
+      "artists": [
+        {
+          "name": "The New Respects",
+          "url": "https://open.spotify.com/artist/5lwtznzBlmVM2IhgrCWbT9"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 203186,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/3mDmxRLldAX8P830OmKTLM"
     },
     {
       "album": {
@@ -4069,7 +4681,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 171226,
       "name": "Who\u2019s Gonna Love Me Now",
       "url": "https://open.spotify.com/track/1T9DxFAS1H7RgR4PDUzAGQ"
@@ -4091,6 +4703,24 @@
       "duration_ms": 171226,
       "name": "Who\u2019s Gonna Love Me Now",
       "url": "https://open.spotify.com/track/3OAiJ8YdnNr2zus6CwT3y2"
+    },
+    {
+      "album": {
+        "name": "New Age Norms 2",
+        "url": "https://open.spotify.com/album/1Bgy7wJny262o4EVxiLqMT"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171226,
+      "name": "Who\u2019s Gonna Love Me Now",
+      "url": "https://open.spotify.com/track/5VqnXEcxWfLdnsXBVjEpWx"
     },
     {
       "album": {

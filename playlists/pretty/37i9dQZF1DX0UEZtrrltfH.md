@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UEZtrrltfH.md) - [plain]
 
 > <a href="spotify:artist:0DqR5aQYPz1s2M3YbycLMJ">jamesjamesjames' </a> favourite tracks\.  Updated regularly\. Curated by jamesjamesjames\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,033 likes - 61 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,009 likes - 61 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UEZtrrltfH.md) - [plain]
 | 3 | [Happiness](https://open.spotify.com/track/5S4J5QVt1X0ZACiPOrOCoq) | [Alexis Jordan](https://open.spotify.com/artist/5LmYIx9kSWBJOWbP4xAxb1) | [Alexis Jordan](https://open.spotify.com/album/6W0rJuDT17aWbYca3dzzz6) | 4:03 |
 | 4 | [Liquorice](https://open.spotify.com/track/3LmlegS3av5opwiIMVDbgI) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [1991 \- EP](https://open.spotify.com/album/5fkZoSOBJyj0PaDo1LUabM) | 3:16 |
 | 5 | [Mean Girls](https://open.spotify.com/track/64n00yB9GuPvH5FJiNtq8F) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [333](https://open.spotify.com/album/38grabLpTHYySHEyG0TyUN) | 2:26 |
-| 6 | [Rainbow \- make it double Oklou Mix](https://open.spotify.com/track/3MJmnfqoLQ29DkcOi8v5lL) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Mechatok](https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Good Luck \(Deluxe\)](https://open.spotify.com/album/1sEBFzld6aMExAsErmLQ0N) | 4:01 |
+| 6 | [Rainbow \- make it double Oklou Mix](https://open.spotify.com/track/4kE5gZGXZ6kWmsrD8N2n8u) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Mechatok](https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Good Luck \(Deluxe\)](https://open.spotify.com/album/7cGYfKvqoDtQYypCmrv7ZM) | 4:01 |
 | 7 | [Auto Salon](https://open.spotify.com/track/5Xw5KbzT7LuvTv07LukrOE) | [bodyGaard](https://open.spotify.com/artist/2LBjk8Kcii9JHM18uYW873), [EXODUS1900](https://open.spotify.com/artist/3KBmWkJiBmv1gxLfY4EcoW) | [Auto Salon](https://open.spotify.com/album/4osvPLfw5tgtAbdxO6pp7q) | 2:33 |
 | 8 | [Yeah Yeah \- D Ramirez Vocal Radio Edit](https://open.spotify.com/track/4HVGC52IogHANcKFA0QYiT) | [Bodyrox](https://open.spotify.com/artist/3FVJvsdVNbVmydSuI22Z5v) | [Yeah Yeah](https://open.spotify.com/album/0qIj9p0MyiMJWtw9Bqc5br) | 2:41 |
 | 9 | [Take Me](https://open.spotify.com/track/6YcHYJZq0fyqU41rlpIoh9) | [Boy Sim](https://open.spotify.com/artist/3bfT2u8Dz3hoSDvSZ8KyqH), [Ayesha Erotica](https://open.spotify.com/artist/6TMGw1UYn6DFEtn2f9mv8J), [Donatachi](https://open.spotify.com/artist/1Ejb0qXc2xRtK7hphBeOHY) | [Pink Noise](https://open.spotify.com/album/45h2tvlBBKHQe7d5p0uSNU) | 3:20 |
@@ -24,15 +24,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UEZtrrltfH.md) - [plain]
 | 14 | [Shining Star](https://open.spotify.com/track/7irDybhGY1HtUM7iL2QzFq) | [Dark0](https://open.spotify.com/artist/1Jehpab4kMvjrpsHcBtYHR) | [Eternity](https://open.spotify.com/album/10NLvLAsQvYjHb9n8299xy) | 5:22 |
 | 15 | [Post Kyiv](https://open.spotify.com/track/06kHHYnF6GMJodEs26JmnN) | [D.Dan](https://open.spotify.com/artist/7kocSfpPxPoSIRa1yNIQvB) | [Standard Deviation 2](https://open.spotify.com/album/0wuAbWI6ufYWrIxy2oHnvg) | 6:40 |
 | 16 | [Surrounded By Your Love \- Original Mix](https://open.spotify.com/track/4POoYFKC1c5gCAGLRd9J8K) | [DJ Shog](https://open.spotify.com/artist/36g2U19HPpLeY5FyrPhrfp), [Aven](https://open.spotify.com/artist/2siYiqx6CaKJhNwdJ5FguP) | [Empire of Trance Vol.1 \(The World Domination of Progressive, Vocal and Energetic Trance\)](https://open.spotify.com/album/4ezh1K0lPTIyfoADQUFWiQ) | 6:02 |
-| 17 | [Supersoaker](https://open.spotify.com/track/21lsxNQxBO9TLUsq3AqDfK) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Trinity](https://open.spotify.com/album/2Rs0kFucNpFQVVjFxrt9e9) | 3:04 |
+| 17 | [Supersoaker](https://open.spotify.com/track/6szXMlKnHwiPbLfrqp44Jk) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Trinity](https://open.spotify.com/album/4feqEnTdNbrecCd7FSvHEA) | 3:04 |
 | 18 | [Fanta](https://open.spotify.com/track/1WkpBBeTduExO6DOrqsRri) | [EASYFUN](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [Deep Trouble](https://open.spotify.com/album/686lcsXGAd6hqtjI4W7vLZ) | 3:18 |
-| 19 | [Amygdala](https://open.spotify.com/track/46hnqCPtSB5Hz6P3Hh642v) | [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Amygdala](https://open.spotify.com/album/0mH4AehT1gftVuf8NBYIP6) | 2:10 |
+| 19 | [Amygdala](https://open.spotify.com/track/7z4a9JihC3kZh8Hdt0tqOR) | [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Amygdala](https://open.spotify.com/album/7IUUaatsZEC81o9uWHJ1Nv) | 2:10 |
 | 20 | [Quantum Stealth](https://open.spotify.com/track/4GzdUe7khLDV3vct1UnTBE) | [Evita Manji](https://open.spotify.com/artist/3GJYQIEbjMlGeo4eXP8xqk) | [Neptune](https://open.spotify.com/album/7FcOUT8CZy3r7nc4IDm1is) | 2:54 |
 | 21 | [Every Night](https://open.spotify.com/track/223OUizsa1t58lhDgBgwV0) | [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [Every Night](https://open.spotify.com/album/6HypPGJu7BoCppEmMTEsyp) | 3:32 |
 | 22 | [Cinderella](https://open.spotify.com/track/00I1QKvKaAikK5joEW92Zd) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Boys by Girls](https://open.spotify.com/album/4KnjTXIO4Znm41fTeNEOPd) | 3:05 |
 | 23 | [My Purple iPod Nano](https://open.spotify.com/track/0Zp9bIm1BeIyFiYNAof3Sm) | [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [My Purple iPod Nano](https://open.spotify.com/album/3GSIeTBRBAxSji76YI1uHn) | 6:52 |
 | 24 | [I Remember \- Radio Edit](https://open.spotify.com/track/0y8EUU2h9emwmuyLQyQWZP) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [I Remember](https://open.spotify.com/album/5lLoN1Gu1YleKyPm3xyFAj) | 3:20 |
-| 25 | [Cinema](https://open.spotify.com/track/7lpcsfhzWhzbBjg3QopQYb) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [TOTEP](https://open.spotify.com/album/59qMNeLYyUvxNBO3hXgtE5) | 2:06 |
+| 25 | [Cinema](https://open.spotify.com/track/5Xjh7Ew2mqrajmvTTZN231) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [TOTEP](https://open.spotify.com/album/1JRe4BK6irt43VvOESllLv) | 2:06 |
 | 26 | [Jam \(Turn It Up\)](https://open.spotify.com/track/6slnz0q9Peo9Pnok7U51so) | [Kim Kardashian](https://open.spotify.com/artist/0VyNiaUWxot9V0efpoi0qt) | [Jam \(Turn It Up\)](https://open.spotify.com/album/2JQLszU7O0xO0CY66mPkwf) | 4:35 |
 | 27 | [gloves](https://open.spotify.com/track/3jYmmtCLIHhBFssuyefhqR) | [kmoe](https://open.spotify.com/artist/48wt14F9gzlkNDRdXyJTQz) | [gloves](https://open.spotify.com/album/2JrP8q7L4HaN8ql2MaehFx) | 3:30 |
 | 28 | [In Your Eyes](https://open.spotify.com/track/1t5nwfsb90IliczIhOMnpJ) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu) | 3:17 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UEZtrrltfH.md) - [plain]
 | 60 | [FELL](https://open.spotify.com/track/2Vv2boJ8svGFAOA348ApxQ) | [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [SIREN CALL](https://open.spotify.com/album/3Mozvi21Fv8p7YSjRcRSkg) | 3:03 |
 | 61 | [Puppy](https://open.spotify.com/track/6h7WnYtD8BTlRwCqrfFxly) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Puppy](https://open.spotify.com/album/1aSB8LZ9XAzTkAHOWG60yn) | 4:08 |
 
-Snapshot ID: `MTY0ODcwMjkzMSwwMDAwMDAwMGEwMmMxZDE2OWY4Y2U2OTQzOTAzMDE5Yzk5Y2FlYjhi`
+Snapshot ID: `MTY0ODcwMjkzMSwwMDAwMDAwMDk5ZjA5MjVmZGRmN2ZiZmQ4NzExZTYwZjBjNGYxZDky`

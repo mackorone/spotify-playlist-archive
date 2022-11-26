@@ -1001,6 +1001,10 @@
           "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
         },
         {
+          "name": "Caralisa Monteiro",
+          "url": "https://open.spotify.com/artist/2Yf4MRVpt0rcAd5y5h5ph1"
+        },
+        {
           "name": "Jaideep Sahni",
           "url": "https://open.spotify.com/artist/5kPOMQZvgkAEnRZqwn9SYQ"
         }
@@ -1343,6 +1347,28 @@
       "duration_ms": 257089,
       "name": "Tu Meri",
       "url": "https://open.spotify.com/track/39TJkE0AEkfWii8VB3JqSV"
+    },
+    {
+      "album": {
+        "name": "Coz I'm Happy",
+        "url": "https://open.spotify.com/album/6HDeJQvXp2WlhzMYW194ZT"
+      },
+      "artists": [
+        {
+          "name": "Neeraj Shridhar",
+          "url": "https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ"
+        },
+        {
+          "name": "Kavita Seth",
+          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 282012,
+      "name": "Tum Hi Ho Bandhu (From \"Cocktail\")",
+      "url": "https://open.spotify.com/track/2F57zuLuz5JiDSzzb8b1gg"
     },
     {
       "album": {

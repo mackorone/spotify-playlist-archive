@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/3wI0prya1veVHKQOtLbmxB.md) - cumulative - [plain](/playlists/plain/3wI0prya1veVHKQOtLbmxB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3wI0prya1veVHKQOtLbmxB)
 
-### [Crazy In Love](https://open.spotify.com/playlist/3wI0prya1veVHKQOtLbmxB)
+### [songs to fall in love to](https://open.spotify.com/playlist/3wI0prya1veVHKQOtLbmxB)
 
-> Celebrate LOVE with this playlist of classic love songs and discover some new favorites!
+> Get ready for Valentine's Day 2023! Love Songs for 2022! Celebrate LOVE with this playlist of classic love songs and discover some new favorites!
 
 80 songs - 5 hr 15 min - [published](https://open.spotify.com/playlist/6iVBafOtYI08CSsSNlz6Ga)
 

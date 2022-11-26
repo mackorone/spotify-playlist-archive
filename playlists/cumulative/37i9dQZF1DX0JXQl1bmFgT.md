@@ -4,7 +4,7 @@
 
 > The official playlist for 365 Days trilogy\. Watch now on Netflix!
 
-77 songs - 3 hr 45 min - [published](https://open.spotify.com/playlist/5DNKEJ1HKMoLMVv9IgJ6lL)
+81 songs - 3 hr 57 min - [published](https://open.spotify.com/playlist/5DNKEJ1HKMoLMVv9IgJ6lL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,10 +29,12 @@
 | [Coming Back](https://open.spotify.com/track/3ohPMjVSAnwj1lfPbZchjR) | [Robin Loxley](https://open.spotify.com/artist/2Lc0SlbkNbedYcGd5V7R4g), [Smudge Mason](https://open.spotify.com/artist/2lnw3CSgw0VsbPd9ucKUOD) | [Indie Ballads](https://open.spotify.com/album/1OjvJU0GnsOYqMgrdTYC6R) | 3:33 | 2022-08-19 |  |
 | [Complicated](https://open.spotify.com/track/2jJgwg74be7o5WlFgxopD8) | [Ian Scott](https://open.spotify.com/artist/2eOYAtEiQnCh4NVIgAh5Jn) | [Complicated](https://open.spotify.com/album/6PHRRwIpkg76Ij1m1cwJnn) | 2:46 | 2022-08-19 |  |
 | [Control](https://open.spotify.com/track/1odriOCBScAqNnMLGsNj9w) | [Natalia Krakowiak](https://open.spotify.com/artist/76V31mzEXwkzFCx6BGzCiS) | [Control](https://open.spotify.com/album/1D6AYYmAQ31hjWxyCWUuh1) | 2:06 | 2022-08-19 |  |
+| [Dark Room](https://open.spotify.com/track/2TpI97hh8uzSlsbjNhqpNK) | [Michele Morrone](https://open.spotify.com/artist/03fLoIOO015incUitpfkad) | [Dark Room \(Bonus Edition\)](https://open.spotify.com/album/1VkTlPEWLrFtP7IGc10hGJ) | 3:04 | 2022-08-19 | 2022-11-13 |
 | [Dark Room](https://open.spotify.com/track/2kf6JUfyPIvTi63HmDu4VV) | [Michele Morrone](https://open.spotify.com/artist/03fLoIOO015incUitpfkad) | [Dark Room](https://open.spotify.com/album/2H2mViAjX9cdztIS9xOwSh) | 3:04 | 2022-08-19 |  |
 | [Don't Call Me Up](https://open.spotify.com/track/4QjVfuu7om31HBan0jlX4p) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Don't Call Me Up](https://open.spotify.com/album/7eNi4JLsvO4nrHGNjOL45U) | 2:58 | 2022-08-19 |  |
 | [Don't Mess With My Mind](https://open.spotify.com/track/3F2NWpd6VmdHWWL6RhXlHs) | [EMO](https://open.spotify.com/artist/0ORYVI6HcOBBPflrE4EcQM) | [Don't Mess With My Mind](https://open.spotify.com/album/2ZUnnCCu42thIJnMLiQYkP) | 3:17 | 2022-08-19 |  |
 | [Dos Horas](https://open.spotify.com/track/0wRqwxzJ0xzp9xHdBUST8T) | [J.J\. Abel](https://open.spotify.com/artist/2kptWrlEYUY9Tksx9f9EDE), [Daniel Rondon](https://open.spotify.com/artist/2baItk3bvmwJY76tgZXFJn), [Kuinvi](https://open.spotify.com/artist/08w1NsqxgMffO78J6v0uCr) | [Dos Horas](https://open.spotify.com/album/0K0LCTmA5cYuAYNULo6Hy9) | 3:21 | 2022-08-19 |  |
+| [Feel It](https://open.spotify.com/track/3Gj2OMRgE219AgKfGwHH8G) | [Michele Morrone](https://open.spotify.com/artist/03fLoIOO015incUitpfkad) | [Dark Room \(Bonus Edition\)](https://open.spotify.com/album/1VkTlPEWLrFtP7IGc10hGJ) | 2:38 | 2022-08-19 | 2022-11-13 |
 | [Feel It](https://open.spotify.com/track/1sntdOU6b9fMuUOm3NPIuY) | [Michele Morrone](https://open.spotify.com/artist/03fLoIOO015incUitpfkad) | [Dark Room](https://open.spotify.com/album/2H2mViAjX9cdztIS9xOwSh) | 2:39 | 2022-08-19 |  |
 | [Finish Line](https://open.spotify.com/track/5iM1Z3zrieLBRiIqln0zfd) | [SATV Music](https://open.spotify.com/artist/2VMbzdrOBil1vCkU2aitA6) | [Big Hitters](https://open.spotify.com/album/74O0NmWl2cGIynwIMZ7ttV) | 2:13 | 2022-08-19 |  |
 | [Ghost](https://open.spotify.com/track/21XjJd4lFO8p4a4te8WZ5n) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Just Breathe](https://open.spotify.com/album/3cGOpNJyVX3PqfsITZ6oop) | 2:45 | 2022-08-19 |  |
@@ -40,6 +42,7 @@
 | [Give Me Some Love](https://open.spotify.com/track/4NTrCuGzotbTU12nHtp7u5) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [Give Me Some Love](https://open.spotify.com/album/0zds0jjicNDMkFHDLko4Co) | 2:40 | 2022-08-19 |  |
 | [Good To Me](https://open.spotify.com/track/6hxk4O3pxR1L9tKkj4BbYn) | [EMO](https://open.spotify.com/artist/0ORYVI6HcOBBPflrE4EcQM) | [Good To Me](https://open.spotify.com/album/31pumQiCZG4iIWbBPSgn1R) | 2:17 | 2022-08-19 |  |
 | [Hard For Me](https://open.spotify.com/track/00PesUdTmC3Y5xtZbZND0p) | [Michele Morrone](https://open.spotify.com/artist/03fLoIOO015incUitpfkad) | [Dark Room](https://open.spotify.com/album/2H2mViAjX9cdztIS9xOwSh) | 2:57 | 2022-08-19 |  |
+| [Hard For Me](https://open.spotify.com/track/0FKuKlAkF5loCCuy90FoHK) | [Michele Morrone](https://open.spotify.com/artist/03fLoIOO015incUitpfkad) | [Hard For Me \(R3HAB Remix\)](https://open.spotify.com/album/3r42oRgrVcwj2zXl4NTWwy) | 2:57 | 2022-08-19 | 2022-11-13 |
 | [Heartbeat](https://open.spotify.com/track/4R1Edcoi1GwkEoK6QS6zky) | [Ian Scott](https://open.spotify.com/artist/2eOYAtEiQnCh4NVIgAh5Jn) | [Heartbeat](https://open.spotify.com/album/66EY4xki8sdTbLGcgQN8Cp) | 2:50 | 2022-08-19 |  |
 | [Here Comes the Thunder](https://open.spotify.com/track/3lHoL4ofPul04MCOsGXxnZ) | [Lee Richardson](https://open.spotify.com/artist/16BxOX67lWcQpiglrMa2HY), [Jonathan Murill](https://open.spotify.com/artist/0KlThjCzrRDm9fW5WMIGss), [Tom Ford](https://open.spotify.com/artist/16Hec1v49TSJCAwuXYcPn1), [James Cocozza](https://open.spotify.com/artist/2MqahmsaUt6ZQhBDC4moBR), [Sarah Norman](https://open.spotify.com/artist/2N7XlKM87BYT73h4OjJYuA) | [Tribal Pop](https://open.spotify.com/album/6VFEI4CPJOqE6bMRlMaEIo) | 2:37 | 2022-08-19 |  |
 | [Here She Comes Again](https://open.spotify.com/track/23HK5PldqTIdTt5A9cN2k5) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [The Inevitable End](https://open.spotify.com/album/3ZBCxww5l2GuPEtOmhP73N) | 5:02 | 2022-08-19 |  |
@@ -78,6 +81,7 @@
 | [Trouble Maker](https://open.spotify.com/track/0HkwR89jBwgrwrzg6TbfCw) | [Marien](https://open.spotify.com/artist/3OJV0xQWTH0mrMRmfNxqGk) | [Trouble Maker](https://open.spotify.com/album/69Hs869oAKVsJyGn5TUwFI) | 2:31 | 2022-08-19 |  |
 | [Tu Coche](https://open.spotify.com/track/1F1eXMItFj4gAhM7JSFnfh) | [J.J\. Abel](https://open.spotify.com/artist/2kptWrlEYUY9Tksx9f9EDE), [MIMAA](https://open.spotify.com/artist/7CGhrDSdJxatpQf0qNRACS) | [Tu Coche](https://open.spotify.com/album/6HcYHU1x2h6r8Cqde0RjxM) | 2:41 | 2022-08-19 |  |
 | [WALLOWS](https://open.spotify.com/track/5e86PEU4ZXAhzGoeQPfCDf) | [Tommy Docherty](https://open.spotify.com/artist/52gd2IONQukShe5AJw8lNa) | [WALLOWS](https://open.spotify.com/album/7mtWzKJTLf4x4seSeIx1ds) | 4:16 | 2022-08-19 |  |
+| [Watch Me Burn](https://open.spotify.com/track/5tP4Jpyo3c2Iu1CTtDbbRm) | [Michele Morrone](https://open.spotify.com/artist/03fLoIOO015incUitpfkad) | [Dark Room \(Bonus Edition\)](https://open.spotify.com/album/1VkTlPEWLrFtP7IGc10hGJ) | 3:04 | 2022-08-19 | 2022-11-13 |
 | [Watch Me Burn](https://open.spotify.com/track/3hiXR95RrJCaYqykCQmYLH) | [Michele Morrone](https://open.spotify.com/artist/03fLoIOO015incUitpfkad) | [Dark Room](https://open.spotify.com/album/2H2mViAjX9cdztIS9xOwSh) | 3:06 | 2022-08-19 |  |
 | [Whole Life](https://open.spotify.com/track/4l17U26RnDC0uDlVGm5NgM) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH), [Tommy Docherty](https://open.spotify.com/artist/52gd2IONQukShe5AJw8lNa) | [Just Breathe](https://open.spotify.com/album/3cGOpNJyVX3PqfsITZ6oop) | 2:38 | 2022-08-19 |  |
 | [Winter Summer](https://open.spotify.com/track/5m38Gw5jWEsaWGLi6ogSmF) | [Jhn McFly](https://open.spotify.com/artist/7zznl279cpu0bbWfEjBq5c), [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [Winter Summer](https://open.spotify.com/album/4Gf3zFl4xUzN11HbjzIwz2) | 2:12 | 2022-08-19 |  |

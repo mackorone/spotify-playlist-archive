@@ -180,6 +180,28 @@
     },
     {
       "album": {
+        "name": "Dinner Guest (feat. MoStack)",
+        "url": "https://open.spotify.com/album/2CeB1aRIEKmnAU5LPRyYsd"
+      },
+      "artists": [
+        {
+          "name": "AJ Tracey",
+          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+        },
+        {
+          "name": "MoStack",
+          "url": "https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP"
+        }
+      ],
+      "date_added": "2022-03-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 198000,
+      "name": "Dinner Guest (feat. MoStack)",
+      "url": "https://open.spotify.com/track/4E57gt5EDgniqrpYO6TQy2"
+    },
+    {
+      "album": {
         "name": "Emiliana",
         "url": "https://open.spotify.com/album/4LTckGxBOI0fEkliC3zbIp"
       },

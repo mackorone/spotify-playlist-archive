@@ -1,58 +1,38 @@
 {
-  "description": "Hit the floor with these hot new tracks and dance remixes of your favorite country songs! Cover: Dolly Parton and Destructo ",
-  "num_followers": 4001,
+  "description": "Hit the floor with these hot new tracks and dance remixes of your favorite country songs! Cover: Cheat Codes and MacKenzie Porter",
+  "num_followers": 4276,
   "original_name": "Country Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5MTIwMCwwMDAwMDAwMGYwNmIzODUxZGQ1MWRkYTEyNDhiYTcyMTNmOWQxYmJk",
+  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMGMyYTFjNDVlN2Y0MjEyZjNkOTM1ZWVkMWRmNWY0MTE2",
   "tracks": [
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
-        "name": "Lil Bit",
-        "url": "https://open.spotify.com/album/6aw4FMaYoLmhMZEI5dcq8I"
+        "name": "One Night Left",
+        "url": "https://open.spotify.com/album/75GJeU8rvUnX8TmK5Jm1D4"
       },
       "artists": [
         {
-          "name": "Nelly",
-          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
         },
         {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+          "name": "MacKenzie Porter",
+          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
         }
       ],
-      "duration_ms": 195962,
-      "name": "Lil Bit",
-      "url": "https://open.spotify.com/track/0NmuYnjETG3u3qx0OmEJev"
+      "duration_ms": 207017,
+      "name": "One Night Left",
+      "url": "https://open.spotify.com/track/00vXdYgi7qL8qk0DOWRmfQ"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
-        "name": "Jolene (Destructo Remix)",
-        "url": "https://open.spotify.com/album/0BqURnT3y12BQqlypGTiyi"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Destructo",
-          "url": "https://open.spotify.com/artist/0BEYTctVmnYa5yStp4Jpab"
-        }
-      ],
-      "duration_ms": 308876,
-      "name": "Jolene - Destructo Remix",
-      "url": "https://open.spotify.com/track/6XzM8wBEznCteSOdeHMyTE"
-    },
-    {
-      "added_at": "2022-09-02 04:00:00",
-      "album": {
-        "name": "BRELAND EP",
-        "url": "https://open.spotify.com/album/61oSbcEqPRT4bTnP4YCQvt"
+        "name": "Throw It Back (feat. Keith Urban)",
+        "url": "https://open.spotify.com/album/56rScV2lFznLUGxqYYwUpo"
       },
       "artists": [
         {
@@ -60,80 +40,72 @@
           "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
         },
         {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 188936,
+      "name": "Throw It Back (feat. Keith Urban)",
+      "url": "https://open.spotify.com/track/4BLiRJdtn8jwUVtvbHIv2T"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "Die From A Broken Heart (Dave Aud\u00e9 Remix)",
+        "url": "https://open.spotify.com/album/747uK0GZr84NDWrfrlhWvI"
+      },
+      "artists": [
+        {
+          "name": "Maddie & Tae",
+          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
+        },
+        {
+          "name": "Dave Aud\u00e9",
+          "url": "https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9"
+        }
+      ],
+      "duration_ms": 187142,
+      "name": "Die From A Broken Heart - Dave Aud\u00e9 Remix",
+      "url": "https://open.spotify.com/track/67nJhl2mm7G67KSkgtfo3m"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "Montevallo",
+        "url": "https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E"
+      },
+      "artists": [
+        {
           "name": "Sam Hunt",
           "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
         }
       ],
-      "duration_ms": 159888,
-      "name": "My Truck (feat. Sam Hunt) - Remix",
-      "url": "https://open.spotify.com/track/1akB0Fn6w8U0j2hrDcj1kZ"
+      "duration_ms": 190240,
+      "name": "House Party",
+      "url": "https://open.spotify.com/track/1TwLKNsCnhi1HxbIi4bAW0"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
-        "name": "Take It From Me (Brandon Day Remix)",
-        "url": "https://open.spotify.com/album/0C3VwaIpGqxhc7A45tHYwg"
+        "name": "Just As I Am (Platinum Edition)",
+        "url": "https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il"
       },
       "artists": [
         {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
         },
         {
-          "name": "Brandon Day",
-          "url": "https://open.spotify.com/artist/5ncSLebQanfj8LGTlIoEv7"
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
         }
       ],
-      "duration_ms": 180720,
-      "name": "Take It From Me - Brandon Day Remix",
-      "url": "https://open.spotify.com/track/06PQ8Qrv66zvNyc2KIahb0"
+      "duration_ms": 221573,
+      "name": "Bottoms Up - Remix",
+      "url": "https://open.spotify.com/track/6hbwFerDj55bMGZZvcInze"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
-      "album": {
-        "name": "Heartland",
-        "url": "https://open.spotify.com/album/1a7BlXLCqjTxQh6X8L9JBL"
-      },
-      "artists": [
-        {
-          "name": "Nelly",
-          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
-        },
-        {
-          "name": "Tyler Hubbard",
-          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
-        }
-      ],
-      "duration_ms": 176983,
-      "name": "Country Boy Do (feat. Tyler Hubbard)",
-      "url": "https://open.spotify.com/track/24MH7MzHl5XAYlmMdn85CF"
-    },
-    {
-      "added_at": "2022-09-02 04:00:00",
-      "album": {
-        "name": "Soul (R3HAB Remix)",
-        "url": "https://open.spotify.com/album/2BiotTS8ZOBFKLQAnJ0JVN"
-      },
-      "artists": [
-        {
-          "name": "Lee Brice",
-          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
-        },
-        {
-          "name": "Blanco Brown",
-          "url": "https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 148440,
-      "name": "Soul (R3HAB Remix)",
-      "url": "https://open.spotify.com/track/32d8sQk2Q6zttnj80nBFMM"
-    },
-    {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Drunk (And I Don't Wanna Go Home) (feat. Miranda Lambert) [GOLDHOUSE Remix]",
         "url": "https://open.spotify.com/album/1UjKISyQt7lYXMkTo7dyJg"
@@ -157,7 +129,199 @@
       "url": "https://open.spotify.com/track/3waUCQw6FzbImpXAQ282Zm"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "High Heels (Whistle While You Twerk)",
+        "url": "https://open.spotify.com/album/6UBDYoJ4Tji6oCp2oVlDmZ"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        },
+        {
+          "name": "Walker Hayes",
+          "url": "https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf"
+        },
+        {
+          "name": "Aukoustics",
+          "url": "https://open.spotify.com/artist/3o8z3AHOZOxmmb2IKqRxiT"
+        },
+        {
+          "name": "secs on the beach",
+          "url": "https://open.spotify.com/artist/5zDEuV2X31GgJ4R0tPosmM"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "High Heels - Whistle While You Twerk",
+      "url": "https://open.spotify.com/track/7nhTJJi2DYRYfQthsIJ5zM"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "7 EP",
+        "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        },
+        {
+          "name": "Billy Ray Cyrus",
+          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
+        }
+      ],
+      "duration_ms": 157066,
+      "name": "Old Town Road - Remix",
+      "url": "https://open.spotify.com/track/2YpeDb67231RjR0MgVLzsG"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "Lil Bit",
+        "url": "https://open.spotify.com/album/6aw4FMaYoLmhMZEI5dcq8I"
+      },
+      "artists": [
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        },
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        }
+      ],
+      "duration_ms": 195962,
+      "name": "Lil Bit",
+      "url": "https://open.spotify.com/track/0NmuYnjETG3u3qx0OmEJev"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "Jolene (Destructo Remix)",
+        "url": "https://open.spotify.com/album/0BqURnT3y12BQqlypGTiyi"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Destructo",
+          "url": "https://open.spotify.com/artist/0BEYTctVmnYa5yStp4Jpab"
+        }
+      ],
+      "duration_ms": 308876,
+      "name": "Jolene - Destructo Remix",
+      "url": "https://open.spotify.com/track/6XzM8wBEznCteSOdeHMyTE"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "BRELAND EP",
+        "url": "https://open.spotify.com/album/61oSbcEqPRT4bTnP4YCQvt"
+      },
+      "artists": [
+        {
+          "name": "BRELAND",
+          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
+        },
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 159888,
+      "name": "My Truck (feat. Sam Hunt) - Remix",
+      "url": "https://open.spotify.com/track/1akB0Fn6w8U0j2hrDcj1kZ"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "Take It From Me (Brandon Day Remix)",
+        "url": "https://open.spotify.com/album/0C3VwaIpGqxhc7A45tHYwg"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        },
+        {
+          "name": "Brandon Day",
+          "url": "https://open.spotify.com/artist/5ncSLebQanfj8LGTlIoEv7"
+        }
+      ],
+      "duration_ms": 180720,
+      "name": "Take It From Me - Brandon Day Remix",
+      "url": "https://open.spotify.com/track/06PQ8Qrv66zvNyc2KIahb0"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "Heartland",
+        "url": "https://open.spotify.com/album/1a7BlXLCqjTxQh6X8L9JBL"
+      },
+      "artists": [
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        },
+        {
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+        }
+      ],
+      "duration_ms": 176983,
+      "name": "Country Boy Do (feat. Tyler Hubbard)",
+      "url": "https://open.spotify.com/track/24MH7MzHl5XAYlmMdn85CF"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "Soul (R3HAB Remix)",
+        "url": "https://open.spotify.com/album/2BiotTS8ZOBFKLQAnJ0JVN"
+      },
+      "artists": [
+        {
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+        },
+        {
+          "name": "Blanco Brown",
+          "url": "https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 148440,
+      "name": "Soul (R3HAB Remix)",
+      "url": "https://open.spotify.com/track/32d8sQk2Q6zttnj80nBFMM"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "Lose You",
+        "url": "https://open.spotify.com/album/4zCPTx2ALPDPeOQ6p1ecIU"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+        }
+      ],
+      "duration_ms": 172362,
+      "name": "Lose You",
+      "url": "https://open.spotify.com/track/6ztvWxZtWsfDhefzkAhL42"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Be Like That (Remixes) - EP",
         "url": "https://open.spotify.com/album/1K2v28dprTdyqm7QF0ffP3"
@@ -185,7 +349,7 @@
       "url": "https://open.spotify.com/track/5wQTZOgVfHHVi51ejIOCkl"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Lady Like (Deepend Remix)",
         "url": "https://open.spotify.com/album/5TmitZ50PrIXZLr0Q9OsvD"
@@ -201,7 +365,7 @@
       "url": "https://open.spotify.com/track/02s4EO6gl9uxfu1JziEIkZ"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Nobody (R3HAB Remix)",
         "url": "https://open.spotify.com/album/3B64IR7UJccjEtcIPQsvDk"
@@ -221,7 +385,27 @@
       "url": "https://open.spotify.com/track/2Z0Ie1NJJLkp14ClmTx5P5"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "The Bergie Remixes",
+        "url": "https://open.spotify.com/album/4zjYxvgfXJRwKR4mNJgvKb"
+      },
+      "artists": [
+        {
+          "name": "High Valley",
+          "url": "https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN"
+        },
+        {
+          "name": "Bergie",
+          "url": "https://open.spotify.com/artist/3KztHBCsYWbX5d8xn7XeU9"
+        }
+      ],
+      "duration_ms": 205125,
+      "name": "Make You Mine - Bergie Remix",
+      "url": "https://open.spotify.com/track/4lHyZfiqN1tL4g77Gelbax"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Can't Stop Us Now",
         "url": "https://open.spotify.com/album/5JfBw2iMK7qJpkj2gRh7Gf"
@@ -241,7 +425,7 @@
       "url": "https://open.spotify.com/track/6SOuxyJH5glKeDSFUJJ5tX"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Diplo Presents Thomas Wesley Chapter 1: Snake Oil",
         "url": "https://open.spotify.com/album/2Om5VEKaBd4Afht33ToQGD"
@@ -265,7 +449,7 @@
       "url": "https://open.spotify.com/track/6AoHQqGnuwFk9ygWhzLRws"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Hold You Tonight (with Chris Lane)",
         "url": "https://open.spotify.com/album/3jpi8V1xyAiNNiheqa6Rl5"
@@ -285,7 +469,7 @@
       "url": "https://open.spotify.com/track/58jecLK0epwMLr9cy5vFUy"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "First Rodeo",
         "url": "https://open.spotify.com/album/5ECjElUCcGjURvHvdarOyz"
@@ -309,7 +493,7 @@
       "url": "https://open.spotify.com/track/2I75JDeFu2xQ1FaSU4otFO"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "High Horse",
         "url": "https://open.spotify.com/album/2j0bqyuBna2QagVKpxvXSK"
@@ -333,7 +517,7 @@
       "url": "https://open.spotify.com/track/4XMNF67BLR9zzti9XLVFR7"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Need You Now (Remix)",
         "url": "https://open.spotify.com/album/5wRNWrCeVwVetRyShfzz7e"
@@ -349,7 +533,7 @@
       "url": "https://open.spotify.com/track/2Ywfu6Y4aIu1B9txqWE3Ir"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Got No Choice (Dave Aud\u00e9 Remix)",
         "url": "https://open.spotify.com/album/3OoVO3D4GIw36Fz0r7azfl"
@@ -369,7 +553,7 @@
       "url": "https://open.spotify.com/track/0MWV88QURJzWteCK2glxOZ"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/0EGEqpUrrlDzUQJvTQjjFR"
@@ -389,7 +573,7 @@
       "url": "https://open.spotify.com/track/6mQkNOqfrk5CyYpjx660Gh"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Hard Out Here For A Country Boy (+ FUZZ)",
         "url": "https://open.spotify.com/album/2fvbbiXAYuHjZphvBOsFYZ"
@@ -405,7 +589,7 @@
       "url": "https://open.spotify.com/track/0YjAoqGYQuuvSWCMZBaZI4"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "The Night The Lights Went Out In Georgia (Eric Kupper Remix)",
         "url": "https://open.spotify.com/album/26KZhHTqgLBdOQ80UrCewv"
@@ -425,7 +609,7 @@
       "url": "https://open.spotify.com/track/3CCx4xeyrZQTONz6MvURaX"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Backroad Flyin' (Matthew Parker Remix)",
         "url": "https://open.spotify.com/album/1ebsAD2Bbn0YgbLzOnczBL"
@@ -445,7 +629,7 @@
       "url": "https://open.spotify.com/track/4c1sQ9WPt5PAvPjNhbijVp"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Coyote Ugly (Dave Aud\u00e9 MegaMix)",
         "url": "https://open.spotify.com/album/0Kp8UdAga05TcR9uXQEtBR"
@@ -465,7 +649,7 @@
       "url": "https://open.spotify.com/track/6eEAcjkSy4fQ2HXAPJChP1"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Coulda Loved You Longer (Petey Martin Remix)",
         "url": "https://open.spotify.com/album/1Hmtk5kiXOBMkz3OeFDSfs"
@@ -485,7 +669,7 @@
       "url": "https://open.spotify.com/track/5C4IBWesuAEC98pkN4I3uc"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Dirt On My Boots (Remix)",
         "url": "https://open.spotify.com/album/1LqxKSLjw1BiTPS036wg8S"
@@ -505,27 +689,7 @@
       "url": "https://open.spotify.com/track/3S86G5H2vQbmaOGIg0UXKr"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
-      "album": {
-        "name": "Throw It Back (feat. Keith Urban)",
-        "url": "https://open.spotify.com/album/56rScV2lFznLUGxqYYwUpo"
-      },
-      "artists": [
-        {
-          "name": "BRELAND",
-          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
-        },
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 188936,
-      "name": "Throw It Back (feat. Keith Urban)",
-      "url": "https://open.spotify.com/track/4BLiRJdtn8jwUVtvbHIv2T"
-    },
-    {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "You Got It (Ryan Riback Remix)",
         "url": "https://open.spotify.com/album/1DsmQZl8jJrNAoJq12RzHj"
@@ -545,7 +709,7 @@
       "url": "https://open.spotify.com/track/3KUtdymNzYk5yA1so29RRl"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Better Late Than Never",
         "url": "https://open.spotify.com/album/6CB0XjiqP16MzQP203WJiw"
@@ -565,7 +729,7 @@
       "url": "https://open.spotify.com/track/5RqBKetCbvqzUsZnNTvxGD"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Blue In The Sky",
         "url": "https://open.spotify.com/album/58zetIrM1Kf5xf2utMJOJi"
@@ -585,7 +749,7 @@
       "url": "https://open.spotify.com/track/4wBjKhJx6JnGoNJfJs24pd"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Welcome to the Club",
         "url": "https://open.spotify.com/album/4ZF1tYfrslqA8g4v8cO1nW"
@@ -601,7 +765,7 @@
       "url": "https://open.spotify.com/track/4hhDTWA9dgmnPft1SDq26V"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Good as You",
         "url": "https://open.spotify.com/album/1shrUJ5iUnfkSW8LzEX8Ps"
@@ -621,7 +785,7 @@
       "url": "https://open.spotify.com/track/2rrBSCcE1tO5o6ycZAEVIY"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Waitin' on 5 (Summer Jam Mix)",
         "url": "https://open.spotify.com/album/1qpUQmzdGhpUwYbeeVTlW9"
@@ -637,7 +801,7 @@
       "url": "https://open.spotify.com/track/1kYZy0xHmJlCxOUBYkp2LJ"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Tequila Does (Remix)",
         "url": "https://open.spotify.com/album/34IfaAv6R5zmpjLQhzlwIh"
@@ -653,7 +817,7 @@
       "url": "https://open.spotify.com/track/5OAR2NIvwDJ5QAmrJYgGv5"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Head Over Boots (Cahill Remix)",
         "url": "https://open.spotify.com/album/3mwB1cyeK7t6OKgw2gBm5L"
@@ -677,7 +841,7 @@
       "url": "https://open.spotify.com/track/493j3Kgwyj10g5KAOVDtuF"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "New York at Night (Remix)",
         "url": "https://open.spotify.com/album/3JHR6aJYnspcmiai6MZe7T"
@@ -693,7 +857,7 @@
       "url": "https://open.spotify.com/track/59wIRZMCUccEB0Piht3s2b"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Diplo Presents Thomas Wesley Chapter 1: Snake Oil",
         "url": "https://open.spotify.com/album/2Om5VEKaBd4Afht33ToQGD"
@@ -713,7 +877,7 @@
       "url": "https://open.spotify.com/track/3FU6urUVsgXa6RBuV2PdRk"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Leave Right Now (The Remixes)",
         "url": "https://open.spotify.com/album/1YEKN0Bpeo0i0coa5niw9F"
@@ -733,7 +897,7 @@
       "url": "https://open.spotify.com/track/2jfxgvlFmXQzUxTfCSEwmR"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Sick Boy",
         "url": "https://open.spotify.com/album/6ZvDJs17O3woQirttKRYCG"
@@ -753,7 +917,7 @@
       "url": "https://open.spotify.com/track/4NBTZtAt1F13VvlSKe6KTl"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Should Have Known Better (Dave Aud\u00e9 Remix)",
         "url": "https://open.spotify.com/album/3dVkOQbPL8mLWd3Z6tdgle"
@@ -773,7 +937,7 @@
       "url": "https://open.spotify.com/track/72Q1OOQcBFbEW69iJDKGyN"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Love Story (Taylor's Version) [Elvira Remix]",
         "url": "https://open.spotify.com/album/3x4gaf5IPyFQNrxZY07CXA"
@@ -793,7 +957,7 @@
       "url": "https://open.spotify.com/track/5RaBeejGtdPEszYEKYECs2"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "What Ifs (Remix) (feat. Lauren Alaina)",
         "url": "https://open.spotify.com/album/4RmJM37fQjrPCuJ1E6oBIh"
@@ -813,7 +977,7 @@
       "url": "https://open.spotify.com/track/7dDq3MWjdEyTh0d0L3C4FX"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "The Bones (Dave Aud\u00e9 Remix)",
         "url": "https://open.spotify.com/album/0G2rV2elRi9BCBMr4gTT2c"
@@ -833,7 +997,7 @@
       "url": "https://open.spotify.com/track/3LJWl9hMaxvRU3TosbK1wh"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Black (Dave Aud\u00e9 Remix)",
         "url": "https://open.spotify.com/album/39aFQXZyihBBazUuUAo8zQ"
@@ -853,7 +1017,7 @@
       "url": "https://open.spotify.com/track/7GAOVSpegdQHBe82Bzn29e"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Country Club",
         "url": "https://open.spotify.com/album/0ND26IiObIrQgNuzU5dFmt"
@@ -869,7 +1033,7 @@
       "url": "https://open.spotify.com/track/71WQp27TidhDZeSDly2JHN"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Used To",
         "url": "https://open.spotify.com/album/2TTr0h1ALBNdpTIfbqK7Mk"
@@ -885,7 +1049,7 @@
       "url": "https://open.spotify.com/track/3Hsym5x2F9hQ5ZJF6VXBN4"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Big Machine Dance Party",
         "url": "https://open.spotify.com/album/7gGlDoGV5Oc1PGT92fu7cM"
@@ -905,7 +1069,7 @@
       "url": "https://open.spotify.com/track/2IQIp6AvSm7OJ3y2yp8use"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Country Cinco de Mayo",
         "url": "https://open.spotify.com/album/6OJVKD3gU0DdkY4OOImkgC"
@@ -925,7 +1089,7 @@
       "url": "https://open.spotify.com/track/6ORnrDKzKveTaylnLD1iqM"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "This Is How We Roll (Remix)",
         "url": "https://open.spotify.com/album/6hitymDgEcBKf8riAVOsiZ"
@@ -949,7 +1113,7 @@
       "url": "https://open.spotify.com/track/3Hs4ytyLFzB2HKk2ZSohko"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "hole in the bottle (with Shania Twain)",
         "url": "https://open.spotify.com/album/16by1M7adOE6AeoyLzQZVc"
@@ -969,7 +1133,7 @@
       "url": "https://open.spotify.com/track/2bV4NwncWMnVvcWyU2yxwB"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Rumor Has It (30th Anniversary Edition)",
         "url": "https://open.spotify.com/album/164LWFbi9ynXhbbYPOseKo"
@@ -989,7 +1153,7 @@
       "url": "https://open.spotify.com/track/2ZuPfysUMPtXSGhFZ7W4Xt"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Cool Again (feat. Nelly)",
         "url": "https://open.spotify.com/album/0D4IyhPBtTywxvZxbspqwW"
@@ -1009,10 +1173,10 @@
       "url": "https://open.spotify.com/track/6SyYYyVnwYD7ovF5CdMOJp"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Famous: The Remixes",
-        "url": "https://open.spotify.com/album/71SqrNbvR2AGkXYK19JhYw"
+        "url": "https://open.spotify.com/album/1ELmvshGmYmdlQHlkZgAeN"
       },
       "artists": [
         {
@@ -1026,10 +1190,10 @@
       ],
       "duration_ms": 191319,
       "name": "Famous - MCV Remix",
-      "url": "https://open.spotify.com/track/5XKQjfQq9VjIx8jCuo5r0a"
+      "url": "https://open.spotify.com/track/0MHrkVWTuK6a0LudzTd3bR"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Rumor (Remixes)",
         "url": "https://open.spotify.com/album/0htPXn3wIk2tOAGxxMTLGK"
@@ -1049,7 +1213,7 @@
       "url": "https://open.spotify.com/track/7rfL98jHRRhuV8qhPwBCtO"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Drunk Me (R3HAB Remix)",
         "url": "https://open.spotify.com/album/33Fyd6by0ZBwbrvRYv2iSQ"
@@ -1069,7 +1233,7 @@
       "url": "https://open.spotify.com/track/3kwL8x4afaomYsX3d4cmPL"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "F-150 (Remix)",
         "url": "https://open.spotify.com/album/4B6NbS6xeMxxFZatcQK898"
@@ -1085,7 +1249,7 @@
       "url": "https://open.spotify.com/track/3x4bhkIZvvU5Fdlca11FxU"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "She's Country (Club Mix)",
         "url": "https://open.spotify.com/album/3c2pScyqYzvVwwfs7Z10Z5"
@@ -1101,7 +1265,7 @@
       "url": "https://open.spotify.com/track/6rbs3X8CD4kLNka27JoUDW"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "RoadHouse",
         "url": "https://open.spotify.com/album/3ACmOsG39mP5LfCw3FF1wm"
@@ -1121,7 +1285,7 @@
       "url": "https://open.spotify.com/track/2pCSPvtMMNNhSGluHym2jU"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Right Now",
         "url": "https://open.spotify.com/album/7K26C63gkM1i2JR0FdLPvT"
@@ -1145,7 +1309,7 @@
       "url": "https://open.spotify.com/track/1DgBv0OkqlVypiJn7oQNfb"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Cut Me Loose (Harris & Hurr Remix)",
         "url": "https://open.spotify.com/album/0nci4XAlOufPc6FpJv4wLa"
@@ -1165,7 +1329,7 @@
       "url": "https://open.spotify.com/track/4eE1ZdBoLpgYFhqDzUw71Y"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Every Little Thing (Ruffian Remix)",
         "url": "https://open.spotify.com/album/1IKCSGDR1Mhdk9YP1LzeqT"
@@ -1185,7 +1349,7 @@
       "url": "https://open.spotify.com/track/1uPdgOpPVUSoQLvm26XMTC"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Diplo Presents Thomas Wesley: Snake Oil (Deluxe)",
         "url": "https://open.spotify.com/album/6QkaLeuxTaYibek4fhwpmF"
@@ -1205,7 +1369,7 @@
       "url": "https://open.spotify.com/track/5QVJ97UEhK7tUe84OYs96p"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Sun Turns Cold",
         "url": "https://open.spotify.com/album/0LbK7vz0cjdE11KtCWNfGY"
@@ -1225,7 +1389,7 @@
       "url": "https://open.spotify.com/track/0i6XijpG0r3DwoO0LEf5uk"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Need You Now",
         "url": "https://open.spotify.com/album/4oT0DxRmc0jr7DCKultQqh"
@@ -1241,7 +1405,7 @@
       "url": "https://open.spotify.com/track/4z8bVsIbVAg4hlBAN5WGXB"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "One Big Country Song (RoadHouse Remix)",
         "url": "https://open.spotify.com/album/7mmzLcJUhdzQfJs1z0FxG1"
@@ -1261,23 +1425,7 @@
       "url": "https://open.spotify.com/track/7LQ3fdrgP5ZlkpSFIYFSYq"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
-      "album": {
-        "name": "Montevallo",
-        "url": "https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 190240,
-      "name": "House Party",
-      "url": "https://open.spotify.com/track/1TwLKNsCnhi1HxbIi4bAW0"
-    },
-    {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Dirt Road Anthem (Remix) [feat. Ludacris]",
         "url": "https://open.spotify.com/album/0VLksQeRExDkOfVsmTXtBk"
@@ -1297,7 +1445,7 @@
       "url": "https://open.spotify.com/track/4s3Z1svzMAu8OwmhWLUWHw"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Platinum",
         "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
@@ -1317,7 +1465,7 @@
       "url": "https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "GOOD TIME (Andrelli Remix)",
         "url": "https://open.spotify.com/album/4IGBxXXi1Mz0y3jLgh0zhf"
@@ -1337,7 +1485,7 @@
       "url": "https://open.spotify.com/track/7n4UKXvKGFZKSdU1NUw06T"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "The Git Up (feat. Ciara) [Remix]",
         "url": "https://open.spotify.com/album/3wRyrZCXZxuj45KThDqe4O"
@@ -1357,7 +1505,7 @@
       "url": "https://open.spotify.com/track/5PPk5WM8vpJ7VOR9gUrMFH"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "The Middle",
         "url": "https://open.spotify.com/album/7nEiwcUSwycvC77kZ9ub7c"
@@ -1381,27 +1529,7 @@
       "url": "https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
-      "album": {
-        "name": "Just As I Am (Platinum Edition)",
-        "url": "https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il"
-      },
-      "artists": [
-        {
-          "name": "Brantley Gilbert",
-          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
-        },
-        {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
-        }
-      ],
-      "duration_ms": 221573,
-      "name": "Bottoms Up - Remix",
-      "url": "https://open.spotify.com/track/6hbwFerDj55bMGZZvcInze"
-    },
-    {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Country Club",
         "url": "https://open.spotify.com/album/0ND26IiObIrQgNuzU5dFmt"
@@ -1417,47 +1545,7 @@
       "url": "https://open.spotify.com/track/3bXvv1X4Jel4OCkkqCPpiH"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
-      "album": {
-        "name": "7 EP",
-        "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
-          "name": "Billy Ray Cyrus",
-          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
-        }
-      ],
-      "duration_ms": 157066,
-      "name": "Old Town Road - Remix",
-      "url": "https://open.spotify.com/track/2YpeDb67231RjR0MgVLzsG"
-    },
-    {
-      "added_at": "2022-09-02 04:00:00",
-      "album": {
-        "name": "Die From A Broken Heart (Dave Aud\u00e9 Remix)",
-        "url": "https://open.spotify.com/album/747uK0GZr84NDWrfrlhWvI"
-      },
-      "artists": [
-        {
-          "name": "Maddie & Tae",
-          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
-        },
-        {
-          "name": "Dave Aud\u00e9",
-          "url": "https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9"
-        }
-      ],
-      "duration_ms": 187142,
-      "name": "Die From A Broken Heart - Dave Aud\u00e9 Remix",
-      "url": "https://open.spotify.com/track/67nJhl2mm7G67KSkgtfo3m"
-    },
-    {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Diamonds (Cash Cash Remix)",
         "url": "https://open.spotify.com/album/3iyYMP6fNOHsYpVKDr026R"
@@ -1477,7 +1565,7 @@
       "url": "https://open.spotify.com/track/2ByP6u4dKJSTmHziCVDteF"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Tangled Up (Deluxe)",
         "url": "https://open.spotify.com/album/0qOpKQX8DBZaI6lhXv5aa0"
@@ -1497,7 +1585,7 @@
       "url": "https://open.spotify.com/track/3bxXbmUmpJFlHaeX9CTJ38"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Come On Over (International Version)",
         "url": "https://open.spotify.com/album/5MUiqH86VtEvtVIY1loBDi"
@@ -1513,7 +1601,7 @@
       "url": "https://open.spotify.com/track/6q9orQ8lTnKFqBhxRB0bY5"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Diplo Presents Thomas Wesley Chapter 1: Snake Oil",
         "url": "https://open.spotify.com/album/24EiVoJXLPY9a6a7AqZNDg"
@@ -1533,7 +1621,7 @@
       "url": "https://open.spotify.com/track/21HtICjxfQGi3bS9XH7dOl"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "All Your Fault: Pt. 2",
         "url": "https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb"
@@ -1553,7 +1641,7 @@
       "url": "https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Fancy Like (Dave Aud\u00e9 Remix)",
         "url": "https://open.spotify.com/album/2ev30eQbF3E9neNPUaTc98"
@@ -1573,7 +1661,7 @@
       "url": "https://open.spotify.com/track/1YW8olrB29icos92vsWPvd"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Best Shot (The Remixes)",
         "url": "https://open.spotify.com/album/5LKLx3GBnQx2i6WOaAGQ59"
@@ -1593,7 +1681,7 @@
       "url": "https://open.spotify.com/track/1ulAkhZoituHjFJS14BwFp"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "The Champion",
         "url": "https://open.spotify.com/album/46muKAiFbLEkonRNRpTuEH"
@@ -1613,7 +1701,7 @@
       "url": "https://open.spotify.com/track/0stPNUkU1LZnvxIcfrKnEZ"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Tequila (The Remixes)",
         "url": "https://open.spotify.com/album/0mbXdG2oPnAa1FY1H5EpxZ"
@@ -1633,7 +1721,7 @@
       "url": "https://open.spotify.com/track/3fsT6VEOxJz3j8cqhzK19Y"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Ain't Always The Cowboy (Western Version)",
         "url": "https://open.spotify.com/album/4qkRHZc3liJORFIfVlHbrv"
@@ -1649,7 +1737,7 @@
       "url": "https://open.spotify.com/track/3As64yn0YtpJRnPi56cTke"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "RoadHouse",
         "url": "https://open.spotify.com/album/3ACmOsG39mP5LfCw3FF1wm"
@@ -1669,7 +1757,7 @@
       "url": "https://open.spotify.com/track/0qNROkepgSyjuzGC2TAKkz"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Country Club",
         "url": "https://open.spotify.com/album/0ND26IiObIrQgNuzU5dFmt"
@@ -1693,7 +1781,7 @@
       "url": "https://open.spotify.com/track/2wJ9pb5Aj7v7yWUnLftFUt"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "When",
         "url": "https://open.spotify.com/album/0ip7usbONC8i58g7scoFr5"
@@ -1709,7 +1797,7 @@
       "url": "https://open.spotify.com/track/3jFSIacWpvXqr8oYXa0xI4"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Drinkin' Songs: The Collection",
         "url": "https://open.spotify.com/album/1NrOk9xRbIjuo17XiPOIuq"
@@ -1725,7 +1813,7 @@
       "url": "https://open.spotify.com/track/0heNuib4Sav7wTa7WgpQ49"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Ripcord",
         "url": "https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq"
@@ -1749,7 +1837,7 @@
       "url": "https://open.spotify.com/track/3TiOpwAlLf0kqa6EeN4YrO"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Diplo Presents Thomas Wesley Chapter 1: Snake Oil",
         "url": "https://open.spotify.com/album/24EiVoJXLPY9a6a7AqZNDg"
@@ -1773,7 +1861,7 @@
       "url": "https://open.spotify.com/track/20aV0OvYWuGjgDh6aQxUFC"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Cheatin' Songs (Montana Mix & Original)",
         "url": "https://open.spotify.com/album/4de5W0Qd5KMwhImXPRmFpV"
@@ -1789,7 +1877,7 @@
       "url": "https://open.spotify.com/track/62aWwK5NOED1ADf05zVepV"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Yeehaw",
         "url": "https://open.spotify.com/album/42iCh9VeEuvdweymnrZydN"
@@ -1813,7 +1901,7 @@
       "url": "https://open.spotify.com/track/3h7Ftxcsch5Vf9gudChXCR"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Eyes On You (Remix)",
         "url": "https://open.spotify.com/album/2BR7Zn9jvF7ebVPeGvTz25"
@@ -1829,7 +1917,7 @@
       "url": "https://open.spotify.com/track/3vLDkbqnlSwZNF4qka5lik"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Wildfire (Talegate Remix)",
         "url": "https://open.spotify.com/album/1IKEWDplIqMd1mVslUmasc"
@@ -1849,7 +1937,7 @@
       "url": "https://open.spotify.com/track/2UkreilNoKlrqe6VdXV0uq"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "High Horse Remix",
         "url": "https://open.spotify.com/album/1BJXLKb7OD5fnx330csFDB"
@@ -1869,7 +1957,7 @@
       "url": "https://open.spotify.com/track/4veyQyv5k8leAa2MCfDbND"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Can't Fight The Moonlight (Dave Aud\u00e9 Mix)",
         "url": "https://open.spotify.com/album/6FoGSb71NHjSYugHNGcppQ"
@@ -1889,7 +1977,7 @@
       "url": "https://open.spotify.com/track/0CTLLbwxLjQghLELl6pI2P"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Wrong Side Of Love",
         "url": "https://open.spotify.com/album/22JimFUaCr4DaWx7b6FWoJ"
@@ -1909,7 +1997,7 @@
       "url": "https://open.spotify.com/track/41j9A7KuBLcRfO0IKmAYcc"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Hard Workin' Man",
         "url": "https://open.spotify.com/album/7pvtnidoCEO4BQlhIjNY7y"
@@ -1925,7 +2013,7 @@
       "url": "https://open.spotify.com/track/050i2N93fNHJ7FEtZl6KX8"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Let Me Go (with Alesso, Florida Georgia Line & watt)",
         "url": "https://open.spotify.com/album/3ggBBGRhkDVAu7pQRXRPXO"
@@ -1953,7 +2041,7 @@
       "url": "https://open.spotify.com/track/5Gu0PDLN4YJeW75PpBSg9p"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Caught Up In The Country (Sam Feldt Remix)",
         "url": "https://open.spotify.com/album/1b6BA0fpdHJyYsO04QQIb6"
@@ -1973,7 +2061,7 @@
       "url": "https://open.spotify.com/track/6MYshGKhcheOSGquz6NKbC"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Drink to That All Night (Remix) (feat. Pitbull)",
         "url": "https://open.spotify.com/album/4YwfobtqcePOPYwcgiH0YA"
@@ -1993,7 +2081,7 @@
       "url": "https://open.spotify.com/track/7CwboxAi6CvMcWrDfbxttR"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Boys 'Round Here (Stadium Dance Mix)",
         "url": "https://open.spotify.com/album/3bt48gkdg8kAtEYREhaecD"
@@ -2009,7 +2097,7 @@
       "url": "https://open.spotify.com/track/5LwovomzSD5v7S6iRsgYOS"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Diplo Presents Thomas Wesley Chapter 1: Snake Oil",
         "url": "https://open.spotify.com/album/24EiVoJXLPY9a6a7AqZNDg"
@@ -2029,7 +2117,7 @@
       "url": "https://open.spotify.com/track/4nMyUJxp3SCA3gGyFhIfX9"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Homesick (feat. J.W. Cort\u00e9s, Sal Gonzalez & Generald Wilson) [Veterans Version]",
         "url": "https://open.spotify.com/album/5CGmqswjSmYl9ACq7gfjvl"
@@ -2057,7 +2145,7 @@
       "url": "https://open.spotify.com/track/3kwbmRgIbQ25wdoYUaWMI4"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "BRELAND EP",
         "url": "https://open.spotify.com/album/61oSbcEqPRT4bTnP4YCQvt"
@@ -2073,7 +2161,7 @@
       "url": "https://open.spotify.com/track/31kPsiy1Lwo81YqOensCZh"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Something We Can Dance To",
         "url": "https://open.spotify.com/album/4bPVuBubfJc35rNwrSZQ7v"
@@ -2097,7 +2185,7 @@
       "url": "https://open.spotify.com/track/7cqKuP1rIweEEkEgyC8rqe"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Cup Of Beats",
         "url": "https://open.spotify.com/album/3o96h0leYDLyIlGFpucPEF"
@@ -2117,7 +2205,7 @@
       "url": "https://open.spotify.com/track/2AVPzA25KIhxm7TXSNBKF1"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Hotdamalama (The Remixes)",
         "url": "https://open.spotify.com/album/6yHu4aQahxtBlpETNr7aZt"
@@ -2137,7 +2225,7 @@
       "url": "https://open.spotify.com/track/7oozZY5leBYfVQFypkG1K6"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "One Thing Right",
         "url": "https://open.spotify.com/album/4QAC6FquY8D0RXom13iE5J"
@@ -2157,7 +2245,7 @@
       "url": "https://open.spotify.com/track/4hPpVbbakQNv8YTHYaOJP4"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Dark Horse (Attom Remix)",
         "url": "https://open.spotify.com/album/5USn3Wjh3KsfuTlomPQnNg"
@@ -2177,7 +2265,7 @@
       "url": "https://open.spotify.com/track/1NZAaaimzWonDpqcK0Ls88"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "remixed",
         "url": "https://open.spotify.com/album/5RDzXCt8pM1p7qJ0DViwXj"
@@ -2193,7 +2281,7 @@
       "url": "https://open.spotify.com/track/6oWjS5jBcEEr3GedlcfwfI"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Both Still Young",
         "url": "https://open.spotify.com/album/5vlZ9FpvZqIkOkXuqTHnLJ"
@@ -2213,7 +2301,7 @@
       "url": "https://open.spotify.com/track/23GADqMc230MGEOTewOg06"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Dumplin' Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/50FL6Vavo5CtZ1S9QQSJeO"
@@ -2233,7 +2321,7 @@
       "url": "https://open.spotify.com/track/0HtY7ILTZVSd4i44FuOrur"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Do Si Do",
         "url": "https://open.spotify.com/album/3mtMpBdey5aCvwcGxZXJ87"
@@ -2257,7 +2345,7 @@
       "url": "https://open.spotify.com/track/0ABnHy15aivr6NTO7fvEUp"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Miss Me More (Remixes)",
         "url": "https://open.spotify.com/album/3xTyofBzPxqMh4r2INf9KS"
@@ -2281,7 +2369,7 @@
       "url": "https://open.spotify.com/track/41zI4ifxx2YVQojsKoBeJZ"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ"
@@ -2301,7 +2389,7 @@
       "url": "https://open.spotify.com/track/73h6Ma5QhBFrshEN2CTevS"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Country Club",
         "url": "https://open.spotify.com/album/0ND26IiObIrQgNuzU5dFmt"

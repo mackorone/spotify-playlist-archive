@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kVaFpvoi0O4IbyJyEZckU.md) - [plain]
 
 > Psych yourself up for whatever you've got going...
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,412 likes - 182 songs - 10 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,416 likes - 182 songs - 10 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

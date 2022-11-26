@@ -1101,10 +1101,28 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 205153,
       "name": "Just A Day",
       "url": "https://open.spotify.com/track/1MU4s8N2sHju0bFsDSmTHZ"
+    },
+    {
+      "album": {
+        "name": "Just A Day",
+        "url": "https://open.spotify.com/album/5oPJdG33gRgFxHhI6rSWUf"
+      },
+      "artists": [
+        {
+          "name": "Aquilo",
+          "url": "https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205153,
+      "name": "Just A Day",
+      "url": "https://open.spotify.com/track/7dlDAQNbVBBQpTK7LvB63p"
     },
     {
       "album": {
@@ -1617,10 +1635,28 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 237985,
       "name": "Outer Space Girls",
       "url": "https://open.spotify.com/track/2If7ZY3QFecpAiwtvdifnS"
+    },
+    {
+      "album": {
+        "name": "Spiceworld (25th Anniversary)",
+        "url": "https://open.spotify.com/album/3diiYWB32h7c7Eo2x8oxjK"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238226,
+      "name": "Outer Space Girls",
+      "url": "https://open.spotify.com/track/1XHosFpKcWkRtuxPQm0HnO"
     },
     {
       "album": {
@@ -2577,7 +2613,7 @@
           "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
         },
         {
-          "name": "BLEU",
+          "name": "Yung Bleu",
           "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
         }
       ],

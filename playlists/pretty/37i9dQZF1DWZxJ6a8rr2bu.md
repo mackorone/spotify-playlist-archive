@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxJ6a8rr2bu.md) - [plain]
 
 > A <a href="http://www.womeninmusic.org">Women in Music</a> curated list of barrier\-breaking talent impacting the music world\. Features songs from artists directly from our WIM Community \| Cover: Flo Milli
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,289 likes - 40 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,306 likes - 40 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxJ6a8rr2bu.md) - [plain]
 | 15 | [Letter To Ur Ex](https://open.spotify.com/track/2GoXtcbzgBUrvYv6ac7zA9) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Letter To Ur Ex](https://open.spotify.com/album/45n9habqvk6ZLFxpGj2sjf) | 2:14 |
 | 16 | [Dark Skinned](https://open.spotify.com/track/358NH6zt0bZCCqrL0bMQZ6) | [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq) | [Dark Skinned](https://open.spotify.com/album/1SR9fPVtVwQ37dryvXAowV) | 3:00 |
 | 17 | [Single & Happy \(feat\. Wale & Eric Bellinger\)](https://open.spotify.com/track/6n9G36q0JwCS12oQRXCeMi) | [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Single & Happy](https://open.spotify.com/album/3Rhqmw9GAShFfVEVP8R0EF) | 3:10 |
-| 18 | [Self](https://open.spotify.com/track/2kiCjjIJznzvPuSTtPPP4O) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Room 25](https://open.spotify.com/album/0OWKJhRqMHKWKISAKCKgAw) | 1:34 |
+| 18 | [Self](https://open.spotify.com/track/5rNqaOOSNGrYtMo4sLDXU6) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Room 25](https://open.spotify.com/album/5GV2nBx7O67vu9NYHbMfXl) | 1:34 |
 | 19 | [Slowly](https://open.spotify.com/track/1TFciqEaPcxcYkXF7SdsZF) | [Joy Bogat](https://open.spotify.com/artist/4W9ZAgvkctnqPK6BftsaQg) | [It's Different Now](https://open.spotify.com/album/1e41DPRgxbxSqFpPzAAtX3) | 4:12 |
 | 20 | [hoe \(feat\. Miguel\)](https://open.spotify.com/track/4v2AdwK5xJneq1RosH0JJS) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Sailing Soul\(s\)](https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim) | 3:37 |
 | 21 | [Have Mercy](https://open.spotify.com/track/5SixeLvPsYpk7qq9lo5xYg) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Have Mercy](https://open.spotify.com/album/4N8qhDeqx8AHoEhMnYEC2Y) | 2:28 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxJ6a8rr2bu.md) - [plain]
 | 27 | [Sunburn](https://open.spotify.com/track/39RCP2cPfoxs3dtFimFOJ8) | [ANNNA](https://open.spotify.com/artist/6paIiBu0X4cvePrfNpD2QY) | [Sunburn](https://open.spotify.com/album/5niUo5Nqs3lVOilo85Fwa7) | 3:13 |
 | 28 | [Girlfriend](https://open.spotify.com/track/5hr55QtxToXumR95t6j8lh) | [Siena Liggins](https://open.spotify.com/artist/5DLTBcpdWQsAPeN1t8PZv9) | [Ms\. Out Tonight](https://open.spotify.com/album/5dlGTLkjRhY4xpkrAZTKUq) | 2:50 |
 | 29 | [VRY BLK \(feat\. Noname\)](https://open.spotify.com/track/2EnEj7XoToBRxQ9PRaCEYp) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B), [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [HEAVN](https://open.spotify.com/album/669sonZhhw67k7o1GhlSCd) | 2:54 |
-| 30 | [Big Fish Theory](https://open.spotify.com/track/2ncMj2NVad6z51PD6xhp0M) | [Chrxstal Sarah](https://open.spotify.com/artist/2JZL2IaH2OajY3wO8ztidA) | [Big Fish Theory](https://open.spotify.com/album/0o1K4Ax8YryKGeNc48nrAG) | 2:35 |
+| 30 | [Big Fish Theory](https://open.spotify.com/track/4RKeJ1txwwNM6NKvndsbez) | [Chrxstal Sarah](https://open.spotify.com/artist/2JZL2IaH2OajY3wO8ztidA) | [Big Fish Theory](https://open.spotify.com/album/3PYGYjPc2bIcvpZrkOY4v8) | 2:35 |
 | 31 | [BIG](https://open.spotify.com/track/0wRpsc7jtLA8V0COFkwtYG) | [Kendra Jae](https://open.spotify.com/artist/1KcnqRVBBJ2FUZMQUn3k5P) | [BIG](https://open.spotify.com/album/4mYgWeJ39gMlXqTPOUzASz) | 2:40 |
 | 32 | [CAN'T TOUCH THIS](https://open.spotify.com/track/1LJYn86ysceH708AIkw0VZ) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN \(Deluxe\)](https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc) | 2:26 |
 | 33 | [Worth It](https://open.spotify.com/track/7AQRpyFBYQqtWfkmlqkw4l) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 4:18 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxJ6a8rr2bu.md) - [plain]
 | 39 | [Mirror](https://open.spotify.com/track/4NjTrZ2IQeWnIbzyY2SOfz) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Mirror](https://open.spotify.com/album/70xpiL7Pl2AlH9J64acWpD) | 2:36 |
 | 40 | [Someone Else](https://open.spotify.com/track/4hR3hQKELrARHNZJ51D14s) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Someone Else](https://open.spotify.com/album/43PrBCExe9DKwdI9TJKAtc) | 3:18 |
 
-Snapshot ID: `MTY0Njc1MzUzMCwwMDAwMDAwMGY4OTlhMjQ5OTY0NmU3ZTg1YTQ4Yzk1YTc4OTMxZTZk`
+Snapshot ID: `MTY0Njc1MzUzMCwwMDAwMDAwMDBlMzIyODNhYzg0ZDU3NDY3OTBkMGI0NzkwZmJiOTNh`

@@ -4,7 +4,7 @@
 
 > To the world, this is NCT! This is NCT 127! The 4th album ‘2 Baddies’ is out!
 
-99 songs - 5 hr 50 min - [published](https://open.spotify.com/playlist/4sV5zpts2Ks9RxeBvmHERq)
+102 songs - 6 hr 2 min - [published](https://open.spotify.com/playlist/4sV5zpts2Ks9RxeBvmHERq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [City 127](https://open.spotify.com/track/0UEknUD00qJuDjljnI1zw9) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Regular\-Irregular \- The 1st Album](https://open.spotify.com/album/4oU5Tp952fPL7z2Bax4JmU) | 3:19 | 2021-10-25 |  |
 | [Come Back](https://open.spotify.com/track/33rp9HxDEoriuRUOr0iWpX) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Regular\-Irregular \- The 1st Album](https://open.spotify.com/album/4oU5Tp952fPL7z2Bax4JmU) | 3:25 | 2021-10-25 |  |
 | [Crash Landing](https://open.spotify.com/track/66eZq38bO1ofzmpNa02XiL) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [2 Baddies \- The 4th Album](https://open.spotify.com/album/6p80QT3z7kOHpYdnsItQTQ) | 3:24 | 2022-09-16 |  |
+| [Day Dream](https://open.spotify.com/track/01MofO92inu7XFSfCXwsbT) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone: The Final Round \- The 2nd Album Repackage](https://open.spotify.com/album/64F7bFLt8ULAfBl2L4Pyv4) | 3:25 | 2022-09-16 | 2022-11-13 |
 | [Day Dream](https://open.spotify.com/track/2pLZ2aJvRQssXcF6mdUoub) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone \- The 2nd Album](https://open.spotify.com/album/5YHFKsjb0e5q8Smb2CBUl7) | 3:25 | 2021-10-25 | 2022-07-29 |
 | [Day Dream](https://open.spotify.com/track/4O5NmwwKzpQkuUUUz0V3TN) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone \- The 2nd Album](https://open.spotify.com/album/5YOvg682zFOleCiSndLnZr) | 3:25 | 2021-10-25 |  |
 | [Designer](https://open.spotify.com/track/4axTxw4EXSVSGm6f6vxTdZ) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [2 Baddies \- The 4th Album](https://open.spotify.com/album/6p80QT3z7kOHpYdnsItQTQ) | 3:57 | 2022-09-16 |  |
@@ -58,6 +59,7 @@
 | [LOL \(Laugh\-Out\-Loud\)](https://open.spotify.com/track/5P188CGPr5TKnhTrTGWme1) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [2 Baddies \- The 4th Album](https://open.spotify.com/album/6p80QT3z7kOHpYdnsItQTQ) | 3:39 | 2022-09-16 |  |
 | [Love Me Now](https://open.spotify.com/track/1QLLNLd32qDJjsH1UPPMkp) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone \- The 2nd Album](https://open.spotify.com/album/5YHFKsjb0e5q8Smb2CBUl7) | 4:08 | 2021-10-25 | 2022-07-29 |
 | [Love Me Now](https://open.spotify.com/track/1rERmGg7Aywj0Wbv9uVDvV) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone \- The 2nd Album](https://open.spotify.com/album/5YOvg682zFOleCiSndLnZr) | 4:08 | 2021-10-25 |  |
+| [Love Me Now](https://open.spotify.com/track/3pyNUDyPRMG1pY2zVg3Lxl) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone: The Final Round \- The 2nd Album Repackage](https://open.spotify.com/album/64F7bFLt8ULAfBl2L4Pyv4) | 4:08 | 2022-09-16 | 2022-11-13 |
 | [Love On The Floor](https://open.spotify.com/track/2bLWH1IymYtuUNsT2fA14h) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Favorite \- The 3rd Album Repackage](https://open.spotify.com/album/3xn5tn8JNMlJf3sISHONUy) | 3:38 | 2021-10-25 | 2022-07-29 |
 | [Love On The Floor](https://open.spotify.com/track/2qDEhEy3vSZYFVgWbRChzw) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Favorite \- The 3rd Album Repackage](https://open.spotify.com/album/5LbnQtyHBfJUCigA08llHX) | 3:38 | 2021-10-25 |  |
 | [Love Song](https://open.spotify.com/track/2oKAC0Dv0EEEWaECVmZzyp) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone \- The 2nd Album](https://open.spotify.com/album/5YHFKsjb0e5q8Smb2CBUl7) | 3:35 | 2021-10-25 | 2022-07-29 |
@@ -66,6 +68,7 @@
 | [MAD DOG](https://open.spotify.com/track/1x60WPvUlRvUZFMaMMDGQi) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone \- The 2nd Album](https://open.spotify.com/album/5YOvg682zFOleCiSndLnZr) | 3:03 | 2021-10-25 |  |
 | [MAD DOG](https://open.spotify.com/track/7ARkzETM5vjxptipR501ue) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone \- The 2nd Album](https://open.spotify.com/album/5YHFKsjb0e5q8Smb2CBUl7) | 3:03 | 2021-10-25 | 2022-07-29 |
 | [Magic Carpet Ride](https://open.spotify.com/track/6F2wRUS8oe71Hs9O58dMKb) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Sticker \- The 3rd Album](https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad) | 3:38 | 2021-10-25 |  |
+| [Music, Dance](https://open.spotify.com/track/5OPDo2U9bIqhscrZy5HZwI) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT RESONANCE Pt\. 2 \- The 2nd Album](https://open.spotify.com/album/5Dq6jkYO5H7KzxXSazhLxs) | 3:55 | 2022-09-16 | 2022-11-13 |
 | [Music, Dance](https://open.spotify.com/track/2zlbTHy7epxEemiunGB5Tv) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT RESONANCE Pt\. 1 \- The 2nd Album](https://open.spotify.com/album/6kudlOyCqSQfsBVSdPZEu4) | 3:55 | 2021-10-25 |  |
 | [Music, Dance](https://open.spotify.com/track/7fj45if7EIEfWCpinhzMC1) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT RESONANCE Pt\. 1 \- The 2nd Album](https://open.spotify.com/album/1rGpCbxrR8efs4nMPdUj1q) | 3:55 | 2021-10-25 | 2022-07-29 |
 | [No Longer](https://open.spotify.com/track/629NRMzA7LTXSuzwG7R1Ag) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Regular\-Irregular \- The 1st Album](https://open.spotify.com/album/4oU5Tp952fPL7z2Bax4JmU) | 4:57 | 2021-10-25 |  |

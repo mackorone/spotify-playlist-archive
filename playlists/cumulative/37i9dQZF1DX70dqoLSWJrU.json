@@ -66,6 +66,24 @@
     },
     {
       "album": {
+        "name": "Songbird",
+        "url": "https://open.spotify.com/album/14vOTJhsfQIlJeHgLajs7r"
+      },
+      "artists": [
+        {
+          "name": "Eva Cassidy",
+          "url": "https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew"
+        }
+      ],
+      "date_added": "2022-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282866,
+      "name": "Autumn Leaves",
+      "url": "https://open.spotify.com/track/3k42wvwwogIJyZ4HK5YswY"
+    },
+    {
+      "album": {
         "name": "Day By Day (with Paul Weston & His Music From Hollywood)",
         "url": "https://open.spotify.com/album/24BolRWKmaJV85C5tMkmbO"
       },
@@ -99,10 +117,28 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 160666,
       "name": "Autumn Leaves - Remastered",
       "url": "https://open.spotify.com/track/3AgqQbQWYLGsemeBHk1U1d"
+    },
+    {
+      "album": {
+        "name": "\u7235\u58eb\u5b63: \u89c9\u662f\u79cb\u5929",
+        "url": "https://open.spotify.com/album/3ubDNQjbsAAUTXKADT5kjI"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 160666,
+      "name": "Autumn Leaves - Remastered",
+      "url": "https://open.spotify.com/track/3jXJr5DbxLXQZBfGVWT9KJ"
     },
     {
       "album": {
@@ -193,7 +229,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 200440,
       "name": "Black Coffee",
       "url": "https://open.spotify.com/track/56IQUfsUskt9VHe6YM6kue"
@@ -359,7 +395,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 168040,
       "name": "Can't We Be Friends? - Remastered",
       "url": "https://open.spotify.com/track/4AQB49A23jczbliZt3hecP"
@@ -399,7 +435,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": null,
       "duration_ms": 165266,
       "name": "Cry You Out Of My Heart",
       "url": "https://open.spotify.com/track/298PoQoXA91pJuS0AKlXCk"
@@ -675,7 +711,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 167680,
       "name": "How Insensitive",
       "url": "https://open.spotify.com/track/443Agnj7SV4wtrIXPPyjO2"
@@ -1016,28 +1052,6 @@
     },
     {
       "album": {
-        "name": "Sinatra/Basie: The Complete Reprise Studio Recordings",
-        "url": "https://open.spotify.com/album/2NCtCObbmJoJnplsR5mLAl"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        },
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
-        }
-      ],
-      "date_added": "2022-04-13",
-      "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
-      "duration_ms": 172186,
-      "name": "I Wish You Love",
-      "url": "https://open.spotify.com/track/599FkdQJIhJfZYOSvFrJ35"
-    },
-    {
-      "album": {
         "name": "Father Daughter Dance",
         "url": "https://open.spotify.com/album/7nsASG9bBlmmtqeTWmNNjT"
       },
@@ -1053,10 +1067,32 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 175306,
+      "date_removed": "2022-10-13",
+      "duration_ms": 172186,
       "name": "I Wish You Love",
       "url": "https://open.spotify.com/track/0VwhI2PptKL32PFrgwixCv"
+    },
+    {
+      "album": {
+        "name": "Sinatra/Basie: The Complete Reprise Studio Recordings",
+        "url": "https://open.spotify.com/album/2NCtCObbmJoJnplsR5mLAl"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172186,
+      "name": "I Wish You Love",
+      "url": "https://open.spotify.com/track/599FkdQJIhJfZYOSvFrJ35"
     },
     {
       "album": {
@@ -1237,7 +1273,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": null,
       "duration_ms": 153666,
       "name": "If I Knew Then (What I Know Now)",
       "url": "https://open.spotify.com/track/539rmOeWpAiY5qaula9NM9"
@@ -1399,7 +1435,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": null,
       "duration_ms": 198360,
       "name": "Just Friends",
       "url": "https://open.spotify.com/track/6Ju6ic1OHvHbvf8VphSYhC"
@@ -1547,7 +1583,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 185693,
       "name": "Mean to Me (with Teddy Wilson & His Orchestra) - Take 1",
       "url": "https://open.spotify.com/track/5iPwWmrRRiAtgmm3WJ8yUm"
@@ -1587,6 +1623,24 @@
       "duration_ms": 187666,
       "name": "My Old Flame",
       "url": "https://open.spotify.com/track/2tFhdY3DRVj2umeRuaQEfQ"
+    },
+    {
+      "album": {
+        "name": "Swedish Sensation",
+        "url": "https://open.spotify.com/album/6UAzZrcoC6kwtTbIJiaTrh"
+      },
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
+        }
+      ],
+      "date_added": "2022-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145106,
+      "name": "My Old Flame",
+      "url": "https://open.spotify.com/track/7k0ustfixkIm3Z9hDP4OrZ"
     },
     {
       "album": {
@@ -1721,7 +1775,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 204440,
       "name": "Smoke Gets In Your Eyes",
       "url": "https://open.spotify.com/track/696mUEnI7IpMvLq2Tlnn2u"
@@ -1761,6 +1815,24 @@
       "duration_ms": 145840,
       "name": "Somebody Else Is Taking My Place",
       "url": "https://open.spotify.com/track/0T8zEgeg8gOnngidArMWuU"
+    },
+    {
+      "album": {
+        "name": "Roulette Sessions In Love",
+        "url": "https://open.spotify.com/album/2s4wqdhoquQu3dQ0UhIz77"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145840,
+      "name": "Somebody Else Is Taking My Place",
+      "url": "https://open.spotify.com/track/26yWXwfZF7541XU5i5w0u8"
     },
     {
       "album": {
@@ -1952,6 +2024,50 @@
     },
     {
       "album": {
+        "name": "Jazz Noir",
+        "url": "https://open.spotify.com/album/7CgE3mxQpB67UZRv6zYQlv"
+      },
+      "artists": [
+        {
+          "name": "Cam\u00e9lia Jordana",
+          "url": "https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7"
+        },
+        {
+          "name": "Erik Truffaz",
+          "url": "https://open.spotify.com/artist/6U3cvMmHIab0CAGtC5tRY3"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-22",
+      "duration_ms": 290426,
+      "name": "The Thrill Is Gone",
+      "url": "https://open.spotify.com/track/1iIwa1EUHXhImSJlfPUAci"
+    },
+    {
+      "album": {
+        "name": "cosy autumn jazz",
+        "url": "https://open.spotify.com/album/1N8ifrvGovGJ063efZvpBR"
+      },
+      "artists": [
+        {
+          "name": "Cam\u00e9lia Jordana",
+          "url": "https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7"
+        },
+        {
+          "name": "Erik Truffaz",
+          "url": "https://open.spotify.com/artist/6U3cvMmHIab0CAGtC5tRY3"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290426,
+      "name": "The Thrill Is Gone",
+      "url": "https://open.spotify.com/track/751SzrAQQ7eVA2niD1twG7"
+    },
+    {
+      "album": {
         "name": "The Thrill Is Gone",
         "url": "https://open.spotify.com/album/11lw4GDycdDi2CM5mLWVBy"
       },
@@ -1967,7 +2083,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 290426,
       "name": "The Thrill Is Gone",
       "url": "https://open.spotify.com/track/7GO1kqu9lTUWh5gkJbC2y0"
@@ -1989,6 +2105,24 @@
       "duration_ms": 186106,
       "name": "There Must Be A Way",
       "url": "https://open.spotify.com/track/67U4IqbrefNGF3f7kSV4Fj"
+    },
+    {
+      "album": {
+        "name": "Hello Louis - The Hit Years (1963-1969)",
+        "url": "https://open.spotify.com/album/5bg0svB3kklUxFziXta8it"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 186733,
+      "name": "There Must Be A Way",
+      "url": "https://open.spotify.com/track/2s8ITxz8gyXbrU8e54Tobv"
     },
     {
       "album": {
@@ -2169,7 +2303,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": null,
       "duration_ms": 297866,
       "name": "When Your Lover Has Gone",
       "url": "https://open.spotify.com/track/5wIXpK3BAW5geIlEmYf23n"
@@ -2223,7 +2357,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 145240,
       "name": "Why Should I Cry Over You?",
       "url": "https://open.spotify.com/track/0JXSCwJzN40D5z0hyGAXFZ"

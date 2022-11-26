@@ -236,6 +236,24 @@
     },
     {
       "album": {
+        "name": "The Very Best Of Kool & The Gang (Reissue)",
+        "url": "https://open.spotify.com/album/1rDjSDjjzVfpnsb3GgREFf"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 221093,
+      "name": "Celebration - Single Version",
+      "url": "https://open.spotify.com/track/0CUEc6T65lrU6rVW3HVYsl"
+    },
+    {
+      "album": {
         "name": "Don't Start Now",
         "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
       },
@@ -308,6 +326,24 @@
     },
     {
       "album": {
+        "name": "Dynamite (NightTime Version)",
+        "url": "https://open.spotify.com/album/7cvsViO3Tg4w5ixs5Aq7mS"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 199053,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/72wqLtMtkrB0qUw6jSqM0Z"
+    },
+    {
+      "album": {
         "name": "Electric",
         "url": "https://open.spotify.com/album/2kjyPzcMPYUZlB9CJzu10f"
       },
@@ -362,6 +398,24 @@
     },
     {
       "album": {
+        "name": "Confetti Party",
+        "url": "https://open.spotify.com/album/0r0luXI152WhDpaQP6CTun"
+      },
+      "artists": [
+        {
+          "name": "Cooltime Kids",
+          "url": "https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 198546,
+      "name": "Fifty Nifty United States",
+      "url": "https://open.spotify.com/track/6d5cUprUXunWPt75altmwu"
+    },
+    {
+      "album": {
         "name": "Teenage Dream: The Complete Confection",
         "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
       },
@@ -404,15 +458,51 @@
       "artists": [
         {
           "name": "Sunny Day",
-          "url": "https://open.spotify.com/artist/4KqqosG1rMSwHl0AyLeatP"
+          "url": "https://open.spotify.com/artist/7vbp1MtEikhcZYIr751zDk"
         }
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 62793,
       "name": "Fireworks Song",
       "url": "https://open.spotify.com/track/0aBKDOyeSUpLAITMp7oD6Q"
+    },
+    {
+      "album": {
+        "name": "Keep Styling, Keep Singing Vol. 2",
+        "url": "https://open.spotify.com/album/55xej9hDGebVfzefdo53Y3"
+      },
+      "artists": [
+        {
+          "name": "Sunny Day",
+          "url": "https://open.spotify.com/artist/7vbp1MtEikhcZYIr751zDk"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-24",
+      "duration_ms": 62793,
+      "name": "Fireworks Song",
+      "url": "https://open.spotify.com/track/1JLbYbuSoUUu8S6O3lQWC5"
+    },
+    {
+      "album": {
+        "name": "Keep Styling, Keep Singing Vol. 2",
+        "url": "https://open.spotify.com/album/1Tmjp6UzYvGNaQCXR1uOxR"
+      },
+      "artists": [
+        {
+          "name": "Sunny Day",
+          "url": "https://open.spotify.com/artist/7vbp1MtEikhcZYIr751zDk"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62793,
+      "name": "Fireworks Song",
+      "url": "https://open.spotify.com/track/1j0Chd2a3LyrJ2NGBc1Ubn"
     },
     {
       "album": {
@@ -467,6 +557,24 @@
       "duration_ms": 75448,
       "name": "Fourth of July - 2015 Version",
       "url": "https://open.spotify.com/track/4y4thwlaN6YcT3vOvOslDI"
+    },
+    {
+      "album": {
+        "name": "NOW That's What I Call Music!, Vol. 60 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/74BVAeJgcJjomcDq9HKii7"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 230973,
+      "name": "Happy - From \"Despicable Me 2\"",
+      "url": "https://open.spotify.com/track/5H1ur8DKF9iTilrVlEdo0w"
     },
     {
       "album": {
@@ -690,6 +798,28 @@
     },
     {
       "album": {
+        "name": "NOW That's What I Call Music, Vol. 71",
+        "url": "https://open.spotify.com/album/6Xo8vxClsqZvYUXCgPuEcB"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        },
+        {
+          "name": "Billy Ray Cyrus",
+          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 155386,
+      "name": "Old Town Road (feat. Billy Ray Cyrus) - Remix",
+      "url": "https://open.spotify.com/track/6zpiwiexX8HpFCZLyIWKDv"
+    },
+    {
+      "album": {
         "name": "Old Town Road",
         "url": "https://open.spotify.com/album/38kpkGLuPr1nNfD3iEyOlJ"
       },
@@ -846,6 +976,24 @@
     },
     {
       "album": {
+        "name": "Kids July 4th",
+        "url": "https://open.spotify.com/album/7tc1KeL0hrNNvpuprJ1Eze"
+      },
+      "artists": [
+        {
+          "name": "Cooltime Kids",
+          "url": "https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 96146,
+      "name": "Stars And Stripes Forever",
+      "url": "https://open.spotify.com/track/5fIdzVg7mNYqTNsXp91qym"
+    },
+    {
+      "album": {
         "name": "Patriotic Kids' Songs",
         "url": "https://open.spotify.com/album/4kFWIo1ssTI4kmaOTgmxvD"
       },
@@ -900,6 +1048,24 @@
     },
     {
       "album": {
+        "name": "Mellow Summer",
+        "url": "https://open.spotify.com/album/7rdNrR0gVmevOWDO0CO6Xl"
+      },
+      "artists": [
+        {
+          "name": "LEN",
+          "url": "https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 265533,
+      "name": "Steal My Sunshine",
+      "url": "https://open.spotify.com/track/7ywqOIgIAcR2Gu8ITxuXTg"
+    },
+    {
+      "album": {
         "name": "Summer Feelings (feat. Charlie Puth)",
         "url": "https://open.spotify.com/album/4D9M4nzQ9kvchgxyQyymtW"
       },
@@ -923,6 +1089,42 @@
     {
       "album": {
         "name": "Let's Dance",
+        "url": "https://open.spotify.com/album/17nFvyQzMs0pbiz9ukUuA5"
+      },
+      "artists": [
+        {
+          "name": "Noggin",
+          "url": "https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-24",
+      "duration_ms": 83718,
+      "name": "Sunscreen",
+      "url": "https://open.spotify.com/track/2x9P9IOZIj9t5SNWesDlHe"
+    },
+    {
+      "album": {
+        "name": "Let's Dance",
+        "url": "https://open.spotify.com/album/48lHFP0hYmSgR2Bdc2uocH"
+      },
+      "artists": [
+        {
+          "name": "Noggin",
+          "url": "https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83718,
+      "name": "Sunscreen",
+      "url": "https://open.spotify.com/track/3NDYpgUKtlEREDJLQ1WDl4"
+    },
+    {
+      "album": {
+        "name": "Let's Dance",
         "url": "https://open.spotify.com/album/6SHJk0npY3mr7SXFX6fcps"
       },
       "artists": [
@@ -933,7 +1135,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 83718,
       "name": "Sunscreen",
       "url": "https://open.spotify.com/track/69Kf8wQ91FpKltMUuDruBL"
@@ -1103,6 +1305,24 @@
       "duration_ms": 141293,
       "name": "Yankee Doodle Dandy",
       "url": "https://open.spotify.com/track/4s8wqibc2oL5mgWCa8ZMXc"
+    },
+    {
+      "album": {
+        "name": "Just for Kids",
+        "url": "https://open.spotify.com/album/0ZmsIbmYlgrDWDQOz0THl8"
+      },
+      "artists": [
+        {
+          "name": "Cooltime Kids",
+          "url": "https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 141293,
+      "name": "Yankee Doodle Dandy",
+      "url": "https://open.spotify.com/track/7og6F6ZseL0wQ9W32tjkgw"
     },
     {
       "album": {

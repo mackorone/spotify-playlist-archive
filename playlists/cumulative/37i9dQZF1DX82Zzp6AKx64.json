@@ -379,7 +379,7 @@
       ],
       "date_added": "2020-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": "2022-11-13",
       "duration_ms": 230413,
       "name": "Burning Heart - From \"Rocky IV\" Soundtrack",
       "url": "https://open.spotify.com/track/2hjQWuAy9fsSykGerWU8Wi"
@@ -527,7 +527,7 @@
       ],
       "date_added": "2020-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 339560,
       "name": "Come Again",
       "url": "https://open.spotify.com/track/6Hfvn9qguufsmHp0uk3y3r"
@@ -851,7 +851,7 @@
       ],
       "date_added": "2020-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 279066,
       "name": "Every Time I Look At You",
       "url": "https://open.spotify.com/track/0ute0e8bY0FmSEIqDfhrBJ"
@@ -1031,7 +1031,7 @@
       ],
       "date_added": "2020-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 326000,
       "name": "Givin' Yourself Away",
       "url": "https://open.spotify.com/track/066s12j61ZlXnMDtnUiDbP"
@@ -1049,7 +1049,7 @@
       ],
       "date_added": "2020-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": "2022-11-13",
       "duration_ms": 259373,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/50vyUOJM5ncJ6Y5YWZzXvX"
@@ -1319,7 +1319,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": "2022-11-13",
       "duration_ms": 358426,
       "name": "House Of Broken Love",
       "url": "https://open.spotify.com/track/0tFscEe2fMwsHflVPsyaAD"
@@ -1571,7 +1571,7 @@
       ],
       "date_added": "2020-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 346586,
       "name": "I'll Be There For You",
       "url": "https://open.spotify.com/track/67YIAxlMlfSNmbnt83zGKh"
@@ -1589,7 +1589,7 @@
       ],
       "date_added": "2020-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": "2022-11-13",
       "duration_ms": 321266,
       "name": "I'll Cry For You",
       "url": "https://open.spotify.com/track/5fPIx4t5vomPE9cWnTL6gv"
@@ -1877,7 +1877,7 @@
       ],
       "date_added": "2020-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 385400,
       "name": "Love Walked In",
       "url": "https://open.spotify.com/track/71D2G19A2i5BYgTC31p23j"
@@ -2309,7 +2309,7 @@
       ],
       "date_added": "2020-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": "2022-11-13",
       "duration_ms": 324306,
       "name": "Quicksand Jesus",
       "url": "https://open.spotify.com/track/1WYCGlOv6XhCqDyZBYnu9E"
@@ -2399,7 +2399,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-04",
+      "date_removed": "2022-11-14",
       "duration_ms": 397773,
       "name": "Screaming in the Night",
       "url": "https://open.spotify.com/track/25suYHVUwWFTG6G31kuhZH"
@@ -2579,7 +2579,7 @@
       ],
       "date_added": "2020-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": "2022-11-14",
       "duration_ms": 283933,
       "name": "Sometimes She Cries",
       "url": "https://open.spotify.com/track/0m5RdyFFcOKhut3sGkeWHG"
@@ -2889,7 +2889,7 @@
       ],
       "date_added": "2020-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": "2022-11-13",
       "duration_ms": 240800,
       "name": "Wait",
       "url": "https://open.spotify.com/track/63IItP7504rQwYgZqmsznL"
@@ -2986,6 +2986,24 @@
     },
     {
       "album": {
+        "name": "Fear of the Dark (2015 - Remaster)",
+        "url": "https://open.spotify.com/album/66mnkzELAR3AK13W7Elv4l"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 351026,
+      "name": "Wasting Love - 2015 Remaster",
+      "url": "https://open.spotify.com/track/3RFys5QHfFNWbAWqpd48Sb"
+    },
+    {
+      "album": {
         "name": "WAIT",
         "url": "https://open.spotify.com/album/6p3T3xQw03nDDBTt6TbLpx"
       },
@@ -2997,7 +3015,7 @@
       ],
       "date_added": "2020-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 309186,
       "name": "WE ALL DIE YOUNG",
       "url": "https://open.spotify.com/track/0QTITeLFPONXy8qzJQk4Kt"
@@ -3033,7 +3051,7 @@
       ],
       "date_added": "2020-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 388426,
       "name": "What It Takes",
       "url": "https://open.spotify.com/track/2rVeiO8AI1ZDSv4wjS46OX"
@@ -3051,7 +3069,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-11-13",
       "duration_ms": 314073,
       "name": "What Love Can Be",
       "url": "https://open.spotify.com/track/54ksR9aJry2nrGZqmJN7ji"
@@ -3167,6 +3185,24 @@
     {
       "album": {
         "name": "OU812",
+        "url": "https://open.spotify.com/album/3KufjKt0L2EVahGfxOYJhg"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 337906,
+      "name": "When It's Love",
+      "url": "https://open.spotify.com/track/7gG1RvwQRrofiL3tvq8pBI"
+    },
+    {
+      "album": {
+        "name": "OU812",
         "url": "https://open.spotify.com/album/1rnKiZALdvi91F0fepxBUe"
       },
       "artists": [
@@ -3231,7 +3267,7 @@
       ],
       "date_added": "2020-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 279846,
       "name": "Where You Goin' Now",
       "url": "https://open.spotify.com/track/3jaRUUaJUvS57h1DyVzUUX"

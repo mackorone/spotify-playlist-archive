@@ -120,6 +120,24 @@
     },
     {
       "album": {
+        "name": "Ladder",
+        "url": "https://open.spotify.com/album/17MpD6N5nkhHHatcIckvNa"
+      },
+      "artists": [
+        {
+          "name": "Anonymouz",
+          "url": "https://open.spotify.com/artist/6htvT7X1lqrkKpfp0Rv13X"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220103,
+      "name": "Ladder",
+      "url": "https://open.spotify.com/track/6gZzyh7mytbxOTX0qWxbhx"
+    },
+    {
+      "album": {
         "name": "MEME",
         "url": "https://open.spotify.com/album/3DH1SzNyX3FLsEM28ktmbg"
       },
@@ -189,6 +207,24 @@
       "duration_ms": 217700,
       "name": "Prologue",
       "url": "https://open.spotify.com/track/0MQxa7P9R7dqOfLqwXcA3R"
+    },
+    {
+      "album": {
+        "name": "KIZUNA (Special Edition)",
+        "url": "https://open.spotify.com/album/2PkIFK9tEzYBVKeuiEFVSi"
+      },
+      "artists": [
+        {
+          "name": "JO1",
+          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 217700,
+      "name": "Prologue",
+      "url": "https://open.spotify.com/track/1iZeVXwYthcY3HWarxbXNb"
     },
     {
       "album": {

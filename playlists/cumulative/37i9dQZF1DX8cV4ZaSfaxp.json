@@ -174,6 +174,24 @@
     },
     {
       "album": {
+        "name": "Summer Plumage",
+        "url": "https://open.spotify.com/album/4hGJv9dB3hlzFXZJQmKdpq"
+      },
+      "artists": [
+        {
+          "name": "SE SO NEON",
+          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 258500,
+      "name": "A Long Dream",
+      "url": "https://open.spotify.com/track/62dMZURLR5KjObOfBoVHu2"
+    },
+    {
+      "album": {
         "name": "A Long Dream \uae34 \uafc8",
         "url": "https://open.spotify.com/album/14MzJLQEjGoWplHYwe3JiJ"
       },
@@ -203,7 +221,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 232298,
       "name": "A Night Like This",
       "url": "https://open.spotify.com/track/3TZqRuhG11jMJ02UnEZI9o"
@@ -323,10 +341,36 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 250951,
       "name": "After a long time(Digging Club Seoul Ver.)",
       "url": "https://open.spotify.com/track/3Kb84HFyDf5YRCt3GbbywY"
+    },
+    {
+      "album": {
+        "name": "After a Long Time (Digging Club Seoul Ver.)",
+        "url": "https://open.spotify.com/album/2tETtfB9qQGJ60gNmESEz3"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        },
+        {
+          "name": "Kim Hyun Chul",
+          "url": "https://open.spotify.com/artist/39Jf69SNjTiIQfCQyLh4Gb"
+        },
+        {
+          "name": "PARKMOONCHI",
+          "url": "https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252903,
+      "name": "After a long time(Digging Club Seoul Ver.)",
+      "url": "https://open.spotify.com/track/6PJ1sh2oLgYQE9hpUivC8k"
     },
     {
       "album": {
@@ -497,7 +541,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-15",
+      "date_removed": null,
       "duration_ms": 299500,
       "name": "Aqua (feat. Muzie)",
       "url": "https://open.spotify.com/track/2wxvPuX2kCTVBRn42Ez6fC"
@@ -1057,7 +1101,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 194772,
       "name": "Coconut Love",
       "url": "https://open.spotify.com/track/6urgOrkCIjtmyMYUkL370K"
@@ -1119,7 +1163,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-03",
+      "date_removed": null,
       "duration_ms": 191498,
       "name": "Come With Me (feat. Aden & H!)",
       "url": "https://open.spotify.com/track/5cyfnscoiwhmGnOZYvR9QJ"
@@ -1253,10 +1297,28 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 221875,
       "name": "Dive",
       "url": "https://open.spotify.com/track/0Ots0hGoPjgRw99GdQzJjc"
+    },
+    {
+      "album": {
+        "name": "Dive",
+        "url": "https://open.spotify.com/album/4CSodYxHpQLracYVV0emB7"
+      },
+      "artists": [
+        {
+          "name": "Luli Lee",
+          "url": "https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221875,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/1DC1Hhv3t5jnYrDNQbZu7u"
     },
     {
       "album": {
@@ -1475,7 +1537,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 214736,
       "name": "Empty",
       "url": "https://open.spotify.com/track/1hdknqjkAXjoS7q7ArEGqr"
@@ -1547,7 +1609,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 210136,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/6dCukzSNFujNeSHe8KnKnV"
@@ -1619,7 +1681,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-19",
       "duration_ms": 214560,
       "name": "Fireworks",
       "url": "https://open.spotify.com/track/6omXzzkHd7CjudfMcs3i9a"
@@ -1779,7 +1841,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 190363,
       "name": "Give Me The Light",
       "url": "https://open.spotify.com/track/63K56gwJ3ALMJsIwiOq4CF"
@@ -1917,6 +1979,28 @@
       "duration_ms": 228240,
       "name": "Gwangalli \uad11\uc548\ub9ac",
       "url": "https://open.spotify.com/track/5vakmnmH8tXgOidOG0WGdS"
+    },
+    {
+      "album": {
+        "name": "Submarine",
+        "url": "https://open.spotify.com/album/55gSBSGI0ZMuLaCkXN9b4v"
+      },
+      "artists": [
+        {
+          "name": "Hoody",
+          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
+        },
+        {
+          "name": "Bronze",
+          "url": "https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-08",
+      "duration_ms": 233540,
+      "name": "HANGANG - Remix",
+      "url": "https://open.spotify.com/track/4Ywb56fwQEduZ6DN3wpLoB"
     },
     {
       "album": {
@@ -2417,7 +2501,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 234856,
       "name": "Line",
       "url": "https://open.spotify.com/track/5nzNROKcMSGmtTsVHIg5tc"
@@ -2579,7 +2663,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 243022,
       "name": "Love in TV World",
       "url": "https://open.spotify.com/track/71gxvSj62Daqer8F57b22C"
@@ -3133,7 +3217,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 216106,
       "name": "Myspace",
       "url": "https://open.spotify.com/track/0wKWQHIaja5IuDovI1euWh"
@@ -3441,7 +3525,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": "2022-11-22",
       "duration_ms": 194306,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/5dl4insuwy9dfDw3Co0fKO"
@@ -3514,7 +3598,7 @@
     },
     {
       "album": {
-        "name": "pporappippam \ubcf4\ub77c\ube5b \ubc24",
+        "name": "pporappippam",
         "url": "https://open.spotify.com/album/5IKVYCIhY5SyMhj1cYovz3"
       },
       "artists": [
@@ -3527,7 +3611,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 206616,
-      "name": "pporappippam \ubcf4\ub77c\ube5b \ubc24",
+      "name": "pporappippam",
       "url": "https://open.spotify.com/track/7oQh96s9YemWG3A4zkIbrU"
     },
     {
@@ -3846,6 +3930,28 @@
     },
     {
       "album": {
+        "name": "Start of the End",
+        "url": "https://open.spotify.com/album/6hM2rd6v2VO3VUAyTW3GTm"
+      },
+      "artists": [
+        {
+          "name": "Yubin",
+          "url": "https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE"
+        },
+        {
+          "name": "Yoon Mirae",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 200011,
+      "name": "Silent Movie",
+      "url": "https://open.spotify.com/track/4uu4bnkSI1JvTwKFUqq7Gp"
+    },
+    {
+      "album": {
         "name": "play ground",
         "url": "https://open.spotify.com/album/0cpiWjhRpaenw6hqJBhSle"
       },
@@ -4085,7 +4191,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 250004,
       "name": "SUMMER LOVE\u2026",
       "url": "https://open.spotify.com/track/5tVvmlomWtXPTYCirxP5NZ"
@@ -5010,6 +5116,24 @@
     },
     {
       "album": {
+        "name": "\uc120\ub370\uc774\uc11c\uc6b8 Ep.1 Sunday Seoul Ep.1",
+        "url": "https://open.spotify.com/album/0e1xGcRS9hvmVjfDRaFK6V"
+      },
+      "artists": [
+        {
+          "name": "uju",
+          "url": "https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190363,
+      "name": "\ubd88\uc744 \ubc1d\ud600\uc918 Give Me The Light",
+      "url": "https://open.spotify.com/track/1kTFcaOrSmY4XqneDu3oRm"
+    },
+    {
+      "album": {
         "name": "REBOOT",
         "url": "https://open.spotify.com/album/6uZUsBaw4hH7TPa60A1W3a"
       },
@@ -5162,6 +5286,24 @@
     },
     {
       "album": {
+        "name": "nokdu ep vol.1",
+        "url": "https://open.spotify.com/album/1MinGctMxIwURKTr30BaKZ"
+      },
+      "artists": [
+        {
+          "name": "nokdu",
+          "url": "https://open.spotify.com/artist/3tJf4CNWLW1ubPxCte1g5D"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232298,
+      "name": "\uc624\ub298\uac19\uc740 \ubc24 A Night Like This",
+      "url": "https://open.spotify.com/track/4bHe5QKYH1sE5pQcBchQWB"
+    },
+    {
+      "album": {
         "name": "lovers 4/6",
         "url": "https://open.spotify.com/album/2heqZChEg4UgSBjLYjQ0UW"
       },
@@ -5195,6 +5337,42 @@
       "duration_ms": 225413,
       "name": "\uc774 \uc21c\uac04 Remember",
       "url": "https://open.spotify.com/track/5RJWYPiBiEtqKDWLfHHr9B"
+    },
+    {
+      "album": {
+        "name": "\ucf54\ucf54\ub11b \ub7ec\ube0c Coconut Love",
+        "url": "https://open.spotify.com/album/2TDl3weGAb7UUd8xf5CyYk"
+      },
+      "artists": [
+        {
+          "name": "Seoulmoon",
+          "url": "https://open.spotify.com/artist/0xsCXMIcnrXhRiNL11HlxP"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194772,
+      "name": "\ucf54\ucf54\ub11b \ub7ec\ube0c Coconut Love",
+      "url": "https://open.spotify.com/track/5f1RLYrL4272Gm5lHxuLFD"
+    },
+    {
+      "album": {
+        "name": "\ud658\uc0c1 Fantasy",
+        "url": "https://open.spotify.com/album/5l71P115BUUYgTjJcafrNj"
+      },
+      "artists": [
+        {
+          "name": "Luli Lee",
+          "url": "https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210136,
+      "name": "\ud658\uc0c1 Fantasy",
+      "url": "https://open.spotify.com/track/42XyvFHOonb6YzyyJQLkrT"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8cV4ZaSfaxp"

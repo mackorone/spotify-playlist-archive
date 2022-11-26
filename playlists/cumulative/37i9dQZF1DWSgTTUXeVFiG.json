@@ -85,6 +85,28 @@
     {
       "album": {
         "name": "Todos Vuelven Live, Vol. 1",
+        "url": "https://open.spotify.com/album/6fqIu9mEiySded7ePgc5AS"
+      },
+      "artists": [
+        {
+          "name": "Ruben Blades",
+          "url": "https://open.spotify.com/artist/7nmSWqIN08F0TMpZWVx195"
+        },
+        {
+          "name": "Seis del Solar",
+          "url": "https://open.spotify.com/artist/2KcCnCAiL5Wrikulvf6HyO"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351026,
+      "name": "Amor y Control - Live",
+      "url": "https://open.spotify.com/track/6hAiZrzev7bN8emPDPHFD4"
+    },
+    {
+      "album": {
+        "name": "Todos Vuelven Live, Vol. 1",
         "url": "https://open.spotify.com/album/72kp87UikYikQPuNMa4oYN"
       },
       "artists": [
@@ -99,7 +121,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 351026,
       "name": "Amor y Control - Live",
       "url": "https://open.spotify.com/track/30aRxa0Mi22rG981x42Nyx"
@@ -259,7 +281,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 557626,
       "name": "Descarga Fania - Live",
       "url": "https://open.spotify.com/track/1WeyEbCQgbh2YZkDKx6Uud"
@@ -295,7 +317,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 177720,
       "name": "El Cantante - Live",
       "url": "https://open.spotify.com/track/1xKIjS9jwPmMBCa40RvoS1"
@@ -349,7 +371,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-27",
+      "date_removed": "2022-11-20",
       "duration_ms": 444960,
       "name": "Estrellas de Fania - Live At The Cheetah Club / New York, NY / August 26, 1971",
       "url": "https://open.spotify.com/track/2jeQ960qCjTtyPXc3wdWcZ"
@@ -450,6 +472,24 @@
     },
     {
       "album": {
+        "name": "Tributo a La Salsa Colombiana 2",
+        "url": "https://open.spotify.com/album/0sirGi2mFLKpOUMam9kTCy"
+      },
+      "artists": [
+        {
+          "name": "Alberto Barros",
+          "url": "https://open.spotify.com/artist/33ZuRLa8CHXZVPJXdQCcul"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 288306,
+      "name": "La Cita",
+      "url": "https://open.spotify.com/track/5tjbIjf57RkHXNnbSjtV3d"
+    },
+    {
+      "album": {
         "name": "Lo Mejor de Alberto Barros, Vol. 2",
         "url": "https://open.spotify.com/album/6VdyZL32AcIh6cpeZNJOuQ"
       },
@@ -479,7 +519,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-10",
+      "date_removed": "2022-11-14",
       "duration_ms": 422280,
       "name": "La Murga - Live",
       "url": "https://open.spotify.com/track/0rcL0bGZpeN9stj0dHE3f0"
@@ -823,10 +863,40 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": "2022-11-13",
       "duration_ms": 330800,
       "name": "Qui\u00e9reme Tal Como Soy - Live",
       "url": "https://open.spotify.com/track/75y9r2v3m3hOdNUJwWDzLZ"
+    },
+    {
+      "album": {
+        "name": "Live At The Red Garter, Vol. 1",
+        "url": "https://open.spotify.com/album/5Qz2Pe94CCMTG7QmfCFYxM"
+      },
+      "artists": [
+        {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        },
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        },
+        {
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+        },
+        {
+          "name": "Ricardo \"Richie\" Ray",
+          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320000,
+      "name": "Sabor Sabor - Live",
+      "url": "https://open.spotify.com/track/5VTPcuOVHyIPxh0T6SxoBJ"
     },
     {
       "album": {
@@ -899,6 +969,64 @@
       "duration_ms": 280493,
       "name": "Sobredosis",
       "url": "https://open.spotify.com/track/6QXwI145iRvgoG5u5zCAYR"
+    },
+    {
+      "album": {
+        "name": "40 Aniversario: EN VIVO",
+        "url": "https://open.spotify.com/album/3y6psCkk0iiyHW9RsZd1OU"
+      },
+      "artists": [
+        {
+          "name": "Bobby Cruz",
+          "url": "https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4"
+        },
+        {
+          "name": "Richie Ray",
+          "url": "https://open.spotify.com/artist/1mX1TP27ndNVthqdB95bMf"
+        },
+        {
+          "name": "Ricardo Ray",
+          "url": "https://open.spotify.com/artist/33nZie2hFLgUG9gUfjTRoq"
+        },
+        {
+          "name": "Wille Colon",
+          "url": "https://open.spotify.com/artist/7FjTUD6W5stHN4LwBCcwkU"
+        },
+        {
+          "name": "Pedro Brull",
+          "url": "https://open.spotify.com/artist/5gNP6xGmxzC25B3Fhqg5eg"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Luisito Carrion",
+          "url": "https://open.spotify.com/artist/7Gkr47aENhNsnuE72IIuUl"
+        },
+        {
+          "name": "Bobby Valentin",
+          "url": "https://open.spotify.com/artist/7nJ3uKCT4lPwDJSRZzBlss"
+        },
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/5pUnaPzP3a5oHMWgJHU0gp"
+        },
+        {
+          "name": "Papo Lucca",
+          "url": "https://open.spotify.com/artist/7vBicXCUm81QrCyx83xEfj"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393810,
+      "name": "Sonido Bestial",
+      "url": "https://open.spotify.com/track/1FVahOIncroD7JyUrEslTm"
     },
     {
       "album": {
@@ -1049,7 +1177,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": "2022-10-23",
       "duration_ms": 517666,
       "name": "Vivir Sin Ella - En Vivo Desde El Carnegie Hall Version",
       "url": "https://open.spotify.com/track/5uXxRpu20m2smwEsL1BTvj"

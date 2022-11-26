@@ -188,6 +188,24 @@
     },
     {
       "album": {
+        "name": "Broche de Oro",
+        "url": "https://open.spotify.com/album/2jiSvUa6vOsuEk3OXG2VYY"
+      },
+      "artists": [
+        {
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 214093,
+      "name": "Broche de Oro",
+      "url": "https://open.spotify.com/track/4WB9JuTaMwjQH11rQ1Y64D"
+    },
+    {
+      "album": {
         "name": "La Banda Grande de la Sultana del Norte",
         "url": "https://open.spotify.com/album/4KCzCPSaveAesQCXJ9u9QZ"
       },
@@ -674,6 +692,24 @@
     },
     {
       "album": {
+        "name": "Me Interesa",
+        "url": "https://open.spotify.com/album/0DBgEMfzVpQMmoUTvbLkmC"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 188316,
+      "name": "Me Interesa",
+      "url": "https://open.spotify.com/track/02CewGNR8uzOw1YUqtfsLk"
+    },
+    {
+      "album": {
         "name": "La Balanza",
         "url": "https://open.spotify.com/album/27zodohsIeaDJaZ7lpSHab"
       },
@@ -837,6 +873,24 @@
       "duration_ms": 211760,
       "name": "Mi Mayor Anhelo",
       "url": "https://open.spotify.com/track/4QX1qy6wFOoCuQlmxciEQV"
+    },
+    {
+      "album": {
+        "name": "Tusa y Tequila",
+        "url": "https://open.spotify.com/album/76pxa9SGCrMFTgJE4r4ESx"
+      },
+      "artists": [
+        {
+          "name": "Banda Sinaloense MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 209786,
+      "name": "Mi Mayor Anhelo - Balada",
+      "url": "https://open.spotify.com/track/19lD7swUHH4kgdnzlwsawp"
     },
     {
       "album": {
@@ -1248,6 +1302,42 @@
     },
     {
       "album": {
+        "name": "Happy Hour Romantic",
+        "url": "https://open.spotify.com/album/24ipFl2Z5DGtYBtK2kkZUe"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 250213,
+      "name": "Sobre Mis Pies",
+      "url": "https://open.spotify.com/track/72AvgE2AiYtr3x61TIqs7U"
+    },
+    {
+      "album": {
+        "name": "Antolog\u00eda Musical",
+        "url": "https://open.spotify.com/album/176ksjtFEAIhMgTYpQDjGG"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250226,
+      "name": "Sobre Mis Pies",
+      "url": "https://open.spotify.com/track/4eNLuoafPyzrELjWc9T3VE"
+    },
+    {
+      "album": {
         "name": "Y Que Quede Claro",
         "url": "https://open.spotify.com/album/4ktSTdeZtFaDRy7HzslcAU"
       },
@@ -1259,7 +1349,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 250240,
       "name": "Sobre Mis Pies",
       "url": "https://open.spotify.com/track/1Hwa4ULKX8lrKMgFpgS5Ph"

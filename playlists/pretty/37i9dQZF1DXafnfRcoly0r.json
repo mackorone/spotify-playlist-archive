@@ -1,12 +1,12 @@
 {
   "description": "Songs about our favorite furry, scaly, and feathered friends!",
-  "num_followers": 763,
+  "num_followers": 918,
   "original_name": "My Pets",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODc1NTQ3NiwwMDAwMDAwMDEzNjg1YzBjMzA0MDA3MTZmODBhZGJiMGNkNzUzYWI3",
+  "snapshot_id": "MTY1ODc1NTQ3NiwwMDAwMDAwMGYyYzVjMDdiOWMxMDZkNjdjY2ZkNjEzNjg5MzQwNmI4",
   "tracks": [
     {
       "added_at": "2022-07-25 13:24:36",
@@ -300,7 +300,7 @@
       "added_at": "2022-07-25 13:24:36",
       "album": {
         "name": "More Family Time",
-        "url": "https://open.spotify.com/album/1jB8Th5VPnKZj25uGOcpZw"
+        "url": "https://open.spotify.com/album/7C4QjjsOqV2XxrcWiDNOqo"
       },
       "artists": [
         {
@@ -310,7 +310,7 @@
       ],
       "duration_ms": 168166,
       "name": "My Dog Romeo",
-      "url": "https://open.spotify.com/track/4rD5Cuy00DTl4h0nRZ9Fy2"
+      "url": "https://open.spotify.com/track/1YFiEGqSyori19beEHxAfZ"
     },
     {
       "added_at": "2022-07-25 13:24:36",
@@ -368,7 +368,7 @@
       },
       "artists": [
         {
-          "name": "Cocomelon",
+          "name": "CoComelon",
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
@@ -662,6 +662,10 @@
         {
           "name": "Blippi",
           "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        },
+        {
+          "name": "Meekah",
+          "url": "https://open.spotify.com/artist/7vXebg7HlyNsHfRPJnelJ3"
         }
       ],
       "duration_ms": 151200,

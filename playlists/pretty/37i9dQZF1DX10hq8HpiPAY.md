@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10hq8HpiPAY.md) - [plain]
 
 > Host of "GoOD Mornings w/ CurlyNikki" and "Meditation w/ CurlyNikki’ shares the music that keeps her feeling GoOD\. Cover: Nikki Walton
 
-[Spotify](https://open.spotify.com/user/spotify) - 15 likes - 30 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 39 likes - 30 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

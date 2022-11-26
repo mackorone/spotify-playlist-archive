@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXea80XwOJRgD.md) - [plain]
 
 > Some heart and soul for those up late.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,749 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,751 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXea80XwOJRgD.md) - [plain]
 | 30 | [Made a Fool of Me](https://open.spotify.com/track/6mND5p3oGGyLe9d6flens2) | [Nicky Egan](https://open.spotify.com/artist/3hv0XXNWxgBu7S0df8xEMy) | [The 45 Homestead Project](https://open.spotify.com/album/1xWTWwjBHRcVELnZvdgvaS) | 4:35 |
 | 31 | [When They Fight, They Fight](https://open.spotify.com/track/0zqmyB1prgGGiOS10sjH8A) | [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Con Law](https://open.spotify.com/album/6JoADrFrfs62hhWAMzSA8A) | 3:20 |
 | 32 | [Into The Deep](https://open.spotify.com/track/1ihtjid4pu4fMMnu6eQPjw) | [Galactic](https://open.spotify.com/artist/4rMUtWPGbE6waga7PQO0oQ), [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Into The Deep \(Deluxe Edition\)](https://open.spotify.com/album/4SYn1sKCxhkoO1vRqEqjoS) | 3:42 |
-| 33 | [Hanging Tree](https://open.spotify.com/track/0UWt8PbXRSS69MsdzyEekU) | [Elijah Blake](https://open.spotify.com/artist/65OtBLtkrifQrdTlKI90IR) | [Hanging Tree](https://open.spotify.com/album/1qABaNWpFHTVAOZRtZlHQI) | 3:10 |
+| 33 | [Hanging Tree](https://open.spotify.com/track/42USfeQzbKwVuVXNYT2y9d) | [Elijah Blake](https://open.spotify.com/artist/65OtBLtkrifQrdTlKI90IR) | [Hanging Tree](https://open.spotify.com/album/41mqbGnQlvmMSUz8Obf8s6) | 3:10 |
 | 34 | [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 |
 | 35 | [Gracefully](https://open.spotify.com/track/6o48EgHLxA0g0NLcDXukz7) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [The Bomb Shelter Sessions](https://open.spotify.com/album/3OfyDcQy6XHkxMMGLrSJHT) | 3:38 |
 | 36 | [I Just Want You](https://open.spotify.com/track/11je301F3XSDfB9cGriUWa) | [Caleb Hawley](https://open.spotify.com/artist/5GF3JcY2h0SUPkDlo7ByCB) | [Side 1](https://open.spotify.com/album/2kdYwte5WukmMd0SpztTgT) | 3:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXea80XwOJRgD.md) - [plain]
 | 49 | [I'd Rather Go Blind](https://open.spotify.com/track/7xtpbJoe4D8NxpK6jMn88a) | [Leela James](https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2) | [Loving You More…In The Spirit Of Etta James](https://open.spotify.com/album/5SCIDpdnpyjDm2bjCj8cuF) | 4:11 |
 | 50 | [Falling](https://open.spotify.com/track/0Aqi7ArnBrGblW5T6p2jmD) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Nicotine](https://open.spotify.com/album/0D7yJonn41qsrIQ7YdWk2z) | 2:39 |
 
-Snapshot ID: `MTY2NDcyNjM4MywwMDAwMDAwMDJmZWQwODVmMjU3NGY4MzA1MzI0N2VmODI5ZmQyNjY3`
+Snapshot ID: `MTY2NDcyNjM4MywwMDAwMDAwMDYwM2MxMjFlNmMxNjUwZDZlNWY1MWQyNDI5ZjNkMTRl`

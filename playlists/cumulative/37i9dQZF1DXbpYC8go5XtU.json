@@ -116,6 +116,24 @@
     },
     {
       "album": {
+        "name": "Headwaters",
+        "url": "https://open.spotify.com/album/4zw3XeZ8dDXuUDcd1flLtl"
+      },
+      "artists": [
+        {
+          "name": "East Forest",
+          "url": "https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443080,
+      "name": "Assured",
+      "url": "https://open.spotify.com/track/2yUD0XuUPhhM3l3M6if6Jh"
+    },
+    {
+      "album": {
         "name": "Ballad of a Sleepless Traveler",
         "url": "https://open.spotify.com/album/0lk0cAw5RSaFwEbEJrnxoT"
       },
@@ -506,6 +524,24 @@
     },
     {
       "album": {
+        "name": "El Refugio Ef\u00edmero",
+        "url": "https://open.spotify.com/album/7iMEnrd9YEnP7LmZ4ZFP5d"
+      },
+      "artists": [
+        {
+          "name": "David Cordero",
+          "url": "https://open.spotify.com/artist/5yE5AG06GxRrh6Hw9qSJOQ"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164272,
+      "name": "El Esperado Desenlace",
+      "url": "https://open.spotify.com/track/4dbIBvGvVqYVd6lizMB55O"
+    },
+    {
+      "album": {
         "name": "Nova + 4 (Extended Version)",
         "url": "https://open.spotify.com/album/7lETHTMoNPXfiqrEWcuKg1"
       },
@@ -573,7 +609,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 313520,
-      "name": "First Light",
+      "name": "First Light - Remastered",
       "url": "https://open.spotify.com/track/2aUkNmO4g5iSCxly4bPKuj"
     },
     {
@@ -1117,7 +1153,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 296920,
       "name": "Letting Go Of All Things",
       "url": "https://open.spotify.com/track/5rheZ8USO2YqMMV8gjPN3T"
@@ -1618,6 +1654,24 @@
     },
     {
       "album": {
+        "name": "Eunoia",
+        "url": "https://open.spotify.com/album/30ZPhEf4lSjBTfoSqRzQ2m"
+      },
+      "artists": [
+        {
+          "name": "Adam Bokesch",
+          "url": "https://open.spotify.com/artist/2p01X9u8SiKbMseuTkgdoI"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232666,
+      "name": "Polyphony",
+      "url": "https://open.spotify.com/track/2XM67lYMZ8K7k60MR3oVsS"
+    },
+    {
+      "album": {
         "name": "Kanky\u014d Ongaku: Japanese Ambient, Environmental & New Age Music 1980-1990",
         "url": "https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr"
       },
@@ -1926,6 +1980,24 @@
     },
     {
       "album": {
+        "name": "Seagull",
+        "url": "https://open.spotify.com/album/3xQ4jTZ7uzPxq3wQNfRlBN"
+      },
+      "artists": [
+        {
+          "name": "Eyolf",
+          "url": "https://open.spotify.com/artist/4Gdv2m4NbCrIt4j6zasrx8"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213010,
+      "name": "Seagull",
+      "url": "https://open.spotify.com/track/56rWZXYQEhqg2IamYjFf50"
+    },
+    {
+      "album": {
         "name": "Self Empathy 2",
         "url": "https://open.spotify.com/album/53IJTj3ETsfT3W9I45aS53"
       },
@@ -2021,6 +2093,32 @@
       "duration_ms": 309800,
       "name": "Silent Lake",
       "url": "https://open.spotify.com/track/5wo64VP0ZKuEL1zrF13mcs"
+    },
+    {
+      "album": {
+        "name": "Silent Lake",
+        "url": "https://open.spotify.com/album/6mlRVWYqT57HUSYP7HlUHx"
+      },
+      "artists": [
+        {
+          "name": "Mychael Danna",
+          "url": "https://open.spotify.com/artist/0x8J72N9ilqcIZbWEKB8T2"
+        },
+        {
+          "name": "Tim Cl\u00e9ment",
+          "url": "https://open.spotify.com/artist/7Le5b3UCWqI7DXAyeajEaY"
+        },
+        {
+          "name": "Mychael Danna & Tim Cl\u00e9ment",
+          "url": "https://open.spotify.com/artist/67LR42mlwQaGonptLxhDLm"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 309800,
+      "name": "Silent Lake",
+      "url": "https://open.spotify.com/track/7tKp39PUo2jkRdGWbb19pY"
     },
     {
       "album": {
@@ -2566,6 +2664,24 @@
     },
     {
       "album": {
+        "name": "Euphoric Forest",
+        "url": "https://open.spotify.com/album/6HrO27BUeHUoFvTKNljTcr"
+      },
+      "artists": [
+        {
+          "name": "Now Unlimited",
+          "url": "https://open.spotify.com/artist/1D1sQVMQGI56YYpFMeO7xS"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Under The Thunder",
+      "url": "https://open.spotify.com/track/4L7K2qGigEOYYfAtpgIswc"
+    },
+    {
+      "album": {
         "name": "Gradients",
         "url": "https://open.spotify.com/album/0BSRvxpcMxZZ17jnegHvni"
       },
@@ -2823,6 +2939,24 @@
       "duration_ms": 192333,
       "name": "Zen Garden",
       "url": "https://open.spotify.com/track/4rn2BnxLvxIobCLUE96y1R"
+    },
+    {
+      "album": {
+        "name": "\u0915\u0941\u0923\u094d\u0921\u0932\u093f\u0928\u0940 (Awaken Kundalini)",
+        "url": "https://open.spotify.com/album/1dzVB7YwWKfVA3iIaaZgcx"
+      },
+      "artists": [
+        {
+          "name": "\u0938\u0924\u093f\u092a\u091f\u094d\u0920\u093e\u0928\u092e\u094d",
+          "url": "https://open.spotify.com/artist/72JhmGz5pm2OdMZ2ve63Wd"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97894,
+      "name": "\u0915\u0941\u0923\u094d\u0921\u0932\u093f\u0928\u0940 - Awaken Kundalini",
+      "url": "https://open.spotify.com/track/7fSNXDrj6fuLsXB7wigMCf"
     },
     {
       "album": {

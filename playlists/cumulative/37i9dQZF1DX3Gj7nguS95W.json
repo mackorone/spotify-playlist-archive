@@ -242,6 +242,24 @@
     },
     {
       "album": {
+        "name": "Entertainment!",
+        "url": "https://open.spotify.com/album/7LMOo068Ndv0wjTGUDtYqK"
+      },
+      "artists": [
+        {
+          "name": "Gang Of Four",
+          "url": "https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl"
+        }
+      ],
+      "date_added": "2020-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 206786,
+      "name": "Damaged Goods",
+      "url": "https://open.spotify.com/track/0Nn4RrvVfwSSLDvkhdRc1n"
+    },
+    {
+      "album": {
         "name": "Entertainment! (Expanded & Remastered) [US Release]",
         "url": "https://open.spotify.com/album/3ZWcrEHw7bkgEJMyvMLGrO"
       },
@@ -271,7 +289,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": "2022-11-13",
       "duration_ms": 218933,
       "name": "Dear God - Remastered 2001",
       "url": "https://open.spotify.com/track/5WuRIlM4ACXHJwcjzlm9Gx"
@@ -343,7 +361,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": "2022-11-13",
       "duration_ms": 354626,
       "name": "E=MC2",
       "url": "https://open.spotify.com/track/52WaKEZpbiD6aBkmENlj6x"
@@ -491,6 +509,42 @@
       "duration_ms": 174506,
       "name": "Going Underground",
       "url": "https://open.spotify.com/track/6ALPLbDJ9eWVij9ep3Cgf4"
+    },
+    {
+      "album": {
+        "name": "Get The Knack",
+        "url": "https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi"
+      },
+      "artists": [
+        {
+          "name": "The Knack",
+          "url": "https://open.spotify.com/artist/0Nn9YwJzcaeuU1jJL06e3r"
+        }
+      ],
+      "date_added": "2020-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 189173,
+      "name": "Good Girls Don't",
+      "url": "https://open.spotify.com/track/426i8hiYTwwlImNaluBb9C"
+    },
+    {
+      "album": {
+        "name": "Capodanno 2020 Disco Dancing",
+        "url": "https://open.spotify.com/album/1K43efwXtlAgpIoA98f4Rz"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "date_added": "2020-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 348573,
+      "name": "Heart Of Glass - Remix",
+      "url": "https://open.spotify.com/track/6rWQalQYXC4RyO0tqi1y7J"
     },
     {
       "album": {
@@ -783,6 +837,24 @@
     {
       "album": {
         "name": "Entertainment!",
+        "url": "https://open.spotify.com/album/7LMOo068Ndv0wjTGUDtYqK"
+      },
+      "artists": [
+        {
+          "name": "Gang Of Four",
+          "url": "https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl"
+        }
+      ],
+      "date_added": "2020-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 186493,
+      "name": "Natural's Not In It",
+      "url": "https://open.spotify.com/track/42wVwmI5Vt9H5hwcXHg59E"
+    },
+    {
+      "album": {
+        "name": "Entertainment!",
         "url": "https://open.spotify.com/album/1UMvR1rwj9EzLnbj4L6Zoy"
       },
       "artists": [
@@ -901,7 +973,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 209933,
       "name": "Paint By Number Heart - Remastered",
       "url": "https://open.spotify.com/track/3djJEaq5BPeIKYrn7znBDH"
@@ -998,6 +1070,24 @@
     },
     {
       "album": {
+        "name": "The Best Of The First 10 Years",
+        "url": "https://open.spotify.com/album/5ydDN9dDjtwauLG2vLVpsw"
+      },
+      "artists": [
+        {
+          "name": "Elvis Costello & The Attractions",
+          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
+        }
+      ],
+      "date_added": "2020-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 186146,
+      "name": "Radio, Radio",
+      "url": "https://open.spotify.com/track/68zMm2sG8wCavafCFFYRPg"
+    },
+    {
+      "album": {
         "name": "This Year's Model",
         "url": "https://open.spotify.com/album/0mUFefHSr0Ovi9vNcUGppt"
       },
@@ -1013,6 +1103,24 @@
       "duration_ms": 186213,
       "name": "Radio, Radio",
       "url": "https://open.spotify.com/track/4cZ7dGQZi9duyPn1SY2lgU"
+    },
+    {
+      "album": {
+        "name": "This Year's Model (2021 Remaster)",
+        "url": "https://open.spotify.com/album/4RLIesiAVONV4fOUlOSmr4"
+      },
+      "artists": [
+        {
+          "name": "Elvis Costello & The Attractions",
+          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
+        }
+      ],
+      "date_added": "2020-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 186213,
+      "name": "Radio, Radio - 2021 Remaster",
+      "url": "https://open.spotify.com/track/0qvo5kciIqZJn1t8jdfqDn"
     },
     {
       "album": {
@@ -1045,7 +1153,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 378360,
       "name": "Rise",
       "url": "https://open.spotify.com/track/6u91CCTziobh3twCDMBlEk"
@@ -1067,6 +1175,24 @@
       "duration_ms": 191946,
       "name": "Roxanne",
       "url": "https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo"
+    },
+    {
+      "album": {
+        "name": "Tubes pour l'\u00e9t\u00e9 - Ann\u00e9es 70",
+        "url": "https://open.spotify.com/album/72gzaVqKPQ0n1lVwPm8lnu"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2020-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 191506,
+      "name": "Roxanne - Remastered 2003",
+      "url": "https://open.spotify.com/track/0m68RKtEHu8mk77IBSzMRw"
     },
     {
       "album": {
@@ -1099,7 +1225,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": "2022-11-13",
       "duration_ms": 257133,
       "name": "Rush",
       "url": "https://open.spotify.com/track/4gTMIyJJlSuB5BOhbMri6B"
@@ -1135,7 +1261,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 244320,
       "name": "Shot By Both Sides - Remastered",
       "url": "https://open.spotify.com/track/3aInErz06eEAbRHMnsORR2"
@@ -1243,7 +1369,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-04",
+      "date_removed": "2022-11-25",
       "duration_ms": 297066,
       "name": "This Is the Day",
       "url": "https://open.spotify.com/track/3FjYAj4hg5KiXpVAMjpLKq"
@@ -1441,7 +1567,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-15",
+      "date_removed": "2022-11-13",
       "duration_ms": 185026,
       "name": "You Might Think",
       "url": "https://open.spotify.com/track/7BvuV4c1BGhaRapcXvRu5z"

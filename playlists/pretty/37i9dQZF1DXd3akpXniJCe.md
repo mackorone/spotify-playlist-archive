@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3akpXniJCe.md) - [plain]
 
 > Come on down to the waters ye sinner and dig deep into this collection of songs and stories steeped in struggle, hope, darkness, light, sin and salvation\.  Guest curation by <a href="https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP?si=nPq5VuyRTCuzlRDkRcl7kg/">Rhett Walker</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,493 likes - 41 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,595 likes - 41 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3akpXniJCe.md) - [plain]
 | 3 | [Shadows \(feat\. Joshua Hedley\)](https://open.spotify.com/track/40ZVWDcwlRuLnm4eC8MJGa) | [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57), [Joshua Hedley](https://open.spotify.com/artist/6OJg4GNkAEtu0cfDVRbnjh) | [Trial By Fire](https://open.spotify.com/album/2mDyf8UWqMGUWRsWVVXDqd) | 5:11 |
 | 4 | [Sons & Daughters](https://open.spotify.com/track/42r1v4tT0xfteQq0pNMaf9) | [The American Spirit](https://open.spotify.com/artist/3x6If6dI3TOVEN4aUukab3) | [Spaces](https://open.spotify.com/album/5EfF28rTF2MACFCf9yVZ1j) | 4:02 |
 | 5 | [John the Revelator](https://open.spotify.com/track/5sgOo6mtpzujBfsRCntyfa) | [Curtis Stigers](https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu), [The Forest Rangers](https://open.spotify.com/artist/46xMgypLHP8GNsYME3vRnV) | [Songs of Anarchy: Music from Sons of Anarchy Seasons 1\-4](https://open.spotify.com/album/3M18rHXLz7eFOQXRMJcBk9) | 5:35 |
-| 6 | [Bartholomew](https://open.spotify.com/track/2fzp6ojPHvZaz4uHXxpJVk) | [The Silent Comedy](https://open.spotify.com/artist/4s7QvzBMTW4BKWI5pVO2mY) | [Common Faults \(Remastered Deluxe Edition\)](https://open.spotify.com/album/0am5E1PQGgwMlrsH5mLYtu) | 3:07 |
+| 6 | [Bartholomew](https://open.spotify.com/track/44CXyv6wcKCfoRIAY5r99s) | [The Silent Comedy](https://open.spotify.com/artist/4s7QvzBMTW4BKWI5pVO2mY) | [Common Faults \(Remastered Deluxe Edition\)](https://open.spotify.com/album/0ZrsOwdFsAWSnIjlVvKgOE) | 3:07 |
 | 7 | [Oats In The Water](https://open.spotify.com/track/4dr5sJ1p6mdNpK3fIUz8vR) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [The Burgh Island EP](https://open.spotify.com/album/0SudjNaf3DuVpZzM7bGNZ5) | 4:59 |
 | 8 | [Nothing But The Water \(I\)](https://open.spotify.com/track/4f9F6CSTaJeMyvn1Plu89U) | [Grace Potter & The Nocturnals](https://open.spotify.com/artist/23OknxGcY1i5xX1TRPilMj) | [Nothing But The Water](https://open.spotify.com/album/30b3ZKCE7CxRNumi4XojDD) | 2:44 |
 | 9 | [The Mystery](https://open.spotify.com/track/0oYnfMIzUR8cZZqF2ZEgNu) | [Rhett Walker](https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP) | [Here's To The Ones](https://open.spotify.com/album/70T14v4ekIUqg9fuxaLUgM) | 4:02 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3akpXniJCe.md) - [plain]
 | 40 | [Haunted](https://open.spotify.com/track/6i8lkIyU8XiCIzfPwRtMPE) | [The Eagle Rock Gospel Singers](https://open.spotify.com/artist/6mSbhnOMxNViQqlh58ZOhE) | [No Glory](https://open.spotify.com/album/4YaWyI6imvYaPnrd96kemb) | 3:33 |
 | 41 | [O Children Come](https://open.spotify.com/track/5UlOGXhDP4qXbSKHyLnQoM) | [JJ Weeks Band](https://open.spotify.com/artist/6fXIdyfCq00oaElvH64eri) | [O Children Come](https://open.spotify.com/album/1MlHJSY1EH0AQaYYUnTNga) | 3:41 |
 
-Snapshot ID: `MTUyMzg4NzQxMCwwMDAwMDAwMGRkZDllNDAwYjg0M2I3MGE1ODg2OWNhZWExOGMyYWU4`
+Snapshot ID: `MTUyMzg4NzQxMCwwMDAwMDAwMDU3MWRmZmFkNjUxN2QyNDVkYTlmMzNmZTdiYWNkM2Zj`

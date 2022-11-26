@@ -4,7 +4,7 @@
 
 > Descubre los nuevos talentos de Argentina, Chile y Uruguay\. <br/>Foto: Zoe Gotusso.
 
-99 songs - 5 hr 19 min - [published](https://open.spotify.com/playlist/5Pxi8eyAIqTOgi5TjZfI4h)
+100 songs - 5 hr 21 min - [published](https://open.spotify.com/playlist/5Pxi8eyAIqTOgi5TjZfI4h)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [New Age](https://open.spotify.com/track/22MeiZd6B4T96dvZ3e5bcc) | [Mariana Michi](https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR) | [New Age](https://open.spotify.com/album/0f1wH2V8gb38qm0Dk9katp) | 2:45 | 2021-11-11 | 2022-08-05 |
 | [Ni Verte](https://open.spotify.com/track/4fID9Ebm9kK8D4SGZLz0Hg) | [MATAHONEY](https://open.spotify.com/artist/24qtxSIhOdH3vlGiqO8sBt), [Luqo](https://open.spotify.com/artist/0bSeMRiKgDwHur64WIOodN) | [Ni Verte](https://open.spotify.com/album/5JJsHeFcN9wIXe34cISJOS) | 3:03 | 2021-11-11 |  |
 | [Niño Eterno](https://open.spotify.com/track/5k9BQy4WkF51faNL3UD71I) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Niño Eterno](https://open.spotify.com/album/5DmMhffyPry4XTTZ8pqLLU) | 2:41 | 2021-11-11 |  |
-| [No Era una Pavada](https://open.spotify.com/track/67hP1mGFH97G6J6vIB85zf) | [Eli Almic](https://open.spotify.com/artist/5KXdJKZm2dVPkKmbitndiR), [Migue Nieto](https://open.spotify.com/artist/1FvhJ1jh2W7sEutFdqPomy), [DJ RC](https://open.spotify.com/artist/1J7pdNpxrWQJyJlfV5gMoW) | [No Era una Pavada](https://open.spotify.com/album/4Fh6W97q8UGIeIC1b1H0hw) | 2:54 | 2021-11-11 |  |
+| [No Era una Pavada](https://open.spotify.com/track/6cTZqcfAsLMM6GAw7Qmlh0) | [Eli Almic](https://open.spotify.com/artist/5KXdJKZm2dVPkKmbitndiR), [Migue Nieto](https://open.spotify.com/artist/1FvhJ1jh2W7sEutFdqPomy) | [Días Así](https://open.spotify.com/album/442h4OS4JBOjmdi8NhtaJF) | 2:54 | 2022-09-01 |  |
+| [No Era una Pavada](https://open.spotify.com/track/67hP1mGFH97G6J6vIB85zf) | [Eli Almic](https://open.spotify.com/artist/5KXdJKZm2dVPkKmbitndiR), [Migue Nieto](https://open.spotify.com/artist/1FvhJ1jh2W7sEutFdqPomy), [DJ RC](https://open.spotify.com/artist/1J7pdNpxrWQJyJlfV5gMoW) | [No Era una Pavada](https://open.spotify.com/album/4Fh6W97q8UGIeIC1b1H0hw) | 2:54 | 2021-11-11 | 2022-10-15 |
 | [No Es Así](https://open.spotify.com/track/6SryqFcrWrgjgKrUeZQ6NE) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [La Negación](https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2) | 2:31 | 2021-11-11 |  |
 | [No Me Conocen](https://open.spotify.com/track/2wiAf96qTYdqPpXouFLWFs) | [BANDIDO](https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE) | [No Me Conocen](https://open.spotify.com/album/74hjTdZ6VJuKBGKcSQbinu) | 2:24 | 2021-11-11 | 2022-06-27 |
 | [No quería venir](https://open.spotify.com/track/6FsVhGbphT7UNIylFhgbwt) | [INE](https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB) | [No quería venir](https://open.spotify.com/album/3qHx3Gmu3Yez34wkzKCwSb) | 3:33 | 2022-06-01 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Features greatest hits from the world-famous virtual singer \"HATSUNE MIKU\"! /\u4e16\u754c\u3092\u821e\u53f0\u306b\u6d3b\u8e8d\u3059\u308b\u30d0\u30fc\u30c1\u30e3\u30eb\u30fb\u30b7\u30f3\u30ac\u30fc\u3001\u521d\u97f3\u30df\u30af\u306e\u697d\u66f2\u3092\u7db2\u7f85\u3057\u305f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\uff01\u00a9 Crypton Future Media, INC. <a href=\"https://piapro.net/\">www.piapro.net</a>",
-  "num_followers": 480280,
+  "num_followers": 492647,
   "original_name": "This Is \u521d\u97f3\u30df\u30af (HATSUNE MIKU)",
   "owner": {
     "name": "Spotify",
@@ -383,17 +383,21 @@
     {
       "added_at": "2022-08-07 19:12:24",
       "album": {
-        "name": "\u9b54\u6cd5\u307f\u305f\u3044\u306a\u30df\u30e5\u30fc\u30b7\u3099\u30c3\u30af!",
+        "name": "\u9b54\u6cd5\u307f\u305f\u3044\u306a\u30df\u30e5\u30fc\u30b8\u30c3\u30af!",
         "url": "https://open.spotify.com/album/4pgrKtRbknVEqxBTWFZtRX"
       },
       "artists": [
         {
           "name": "OSTER project",
           "url": "https://open.spotify.com/artist/4OFuKxuZg7eKcAj9Bg5off"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
         }
       ],
       "duration_ms": 265142,
-      "name": "\u9b54\u6cd5\u307f\u305f\u3044\u306a\u30df\u30e5\u30fc\u30b7\u3099\u30c3\u30af!",
+      "name": "\u9b54\u6cd5\u307f\u305f\u3044\u306a\u30df\u30e5\u30fc\u30b8\u30c3\u30af! (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/4Cm1crfy5GQw1OiEuFjAXO"
     },
     {
@@ -406,10 +410,14 @@
         {
           "name": "emon(Tes.)",
           "url": "https://open.spotify.com/artist/4gSRXG5tamMDAxsswktQKG"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
         }
       ],
       "duration_ms": 253226,
-      "name": "\u30e9\u30c3\u30ad\u30fc\u2606\u30aa\u30fc\u30d6",
+      "name": "\u30e9\u30c3\u30ad\u30fc\u2606\u30aa\u30fc\u30d6 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/6eHBG3FNB4jrX8Z7zkOYxJ"
     },
     {
@@ -622,10 +630,14 @@
         {
           "name": "Dixie Flatline",
           "url": "https://open.spotify.com/artist/4MHlylTNjedvcP4Hyroy80"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
         }
       ],
       "duration_ms": 218000,
-      "name": "Decade",
+      "name": "Decade (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/0rh5OTy00ngziGgEgZQweu"
     },
     {
@@ -772,8 +784,8 @@
           "url": "https://open.spotify.com/artist/2H1LiROfuxEO0EORx0hFD4"
         },
         {
-          "name": "HATSUNE MIKU",
-          "url": "https://open.spotify.com/artist/6F92iT6CALFxOVB6b9gh7L"
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
         }
       ],
       "duration_ms": 246086,

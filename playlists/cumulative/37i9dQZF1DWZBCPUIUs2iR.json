@@ -41,7 +41,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 178600,
       "name": "A Good Hearted Woman",
       "url": "https://open.spotify.com/track/1B3wswoDyVdEbWO9lmEzSk"
@@ -221,7 +221,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-14",
       "duration_ms": 174826,
       "name": "Behind Closed Doors",
       "url": "https://open.spotify.com/track/4NRFiS0pHjTFDjOm1LWTZj"
@@ -1223,7 +1223,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-16",
+      "date_removed": null,
       "duration_ms": 235920,
       "name": "It's Just a Matter of Time",
       "url": "https://open.spotify.com/track/4ON9pkEiboV83FUHkeIxGp"
@@ -1493,13 +1493,17 @@
         {
           "name": "Waylon Jennings",
           "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 200493,
-      "name": "Luckenbach, Texas (Back to the Basics of Love)",
+      "name": "Luckenbach, Texas (Back to the Basics of Love) (feat. Willie Nelson)",
       "url": "https://open.spotify.com/track/6ANPIv5r3vdWntrmFa6H6M"
     },
     {
@@ -1621,7 +1625,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 148320,
       "name": "My Heart Skips A Beat",
       "url": "https://open.spotify.com/track/1jGa3ZVWNhqes22ZoVBfOJ"
@@ -2309,7 +2313,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 167840,
       "name": "XXX's And OOO's (An American Girl)",
       "url": "https://open.spotify.com/track/7b05yUcjnxPDUhWNL4nE3K"

@@ -2595,7 +2595,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-11",
+      "date_removed": "2022-11-18",
       "duration_ms": 208653,
       "name": "MAVERICK",
       "url": "https://open.spotify.com/track/1Ylu1Il2czce9eQQXtDXwO"
@@ -2729,24 +2729,6 @@
       "duration_ms": 221573,
       "name": "Next Level",
       "url": "https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ"
-    },
-    {
-      "album": {
-        "name": "BLOCKBUSTER (1)",
-        "url": "https://open.spotify.com/album/5humkj69QwOd1wBwmmMZq6"
-      },
-      "artists": [
-        {
-          "name": "Block B",
-          "url": "https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u"
-        }
-      ],
-      "date_added": "2022-02-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 205279,
-      "name": "Nillili Mambo",
-      "url": "https://open.spotify.com/track/4fZYGHiRcKxwVSnF498uaE"
     },
     {
       "album": {
@@ -4185,6 +4167,24 @@
       "duration_ms": 196826,
       "name": "\uae30\ub300\ud574",
       "url": "https://open.spotify.com/track/4p1mcA5wVKjzUfdxPoxSax"
+    },
+    {
+      "album": {
+        "name": "BLOCKBUSTER",
+        "url": "https://open.spotify.com/album/5humkj69QwOd1wBwmmMZq6"
+      },
+      "artists": [
+        {
+          "name": "Block B",
+          "url": "https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u"
+        }
+      ],
+      "date_added": "2022-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207080,
+      "name": "\ub2d0\ub9ac\ub9ac\ub9d8\ubcf4",
+      "url": "https://open.spotify.com/track/4fZYGHiRcKxwVSnF498uaE"
     },
     {
       "album": {

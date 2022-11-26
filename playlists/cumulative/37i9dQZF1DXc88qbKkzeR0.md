@@ -4,7 +4,7 @@
 
 > Songs for your villain era, curated by Jenn Robinson, Camila Mendes & Maya Hawke\. Watch Do Revenge on Netflix.
 
-76 songs - 4 hr 16 min - [published](https://open.spotify.com/playlist/0apMnsLqqy4OYzTgiQlxlm)
+77 songs - 4 hr 20 min - [published](https://open.spotify.com/playlist/0apMnsLqqy4OYzTgiQlxlm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [I Wanna Be Bad](https://open.spotify.com/track/6f67kjvFmXZTA47K8JNVBU) | [Willa Ford](https://open.spotify.com/artist/0kuEP1E9k3WBEwMKwEmp9u) | [Willa Was Here](https://open.spotify.com/album/3QQsh7NGbYK1Igxenqi4MZ) | 3:03 | 2022-09-16 |  |
 | [I Want To Be With You](https://open.spotify.com/track/4LK36kV9w3KBD2GYL26ZBq) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Blood Bunny](https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA) | 2:59 | 2022-07-22 | 2022-09-17 |
 | [It's Okay To Cry](https://open.spotify.com/track/7nKiLyUUSbNUwaoMBzBeQO) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:50 | 2022-09-16 |  |
+| [Jumpin', Jumpin'](https://open.spotify.com/track/7tY0cefVOJWQkZ9Xt65KCp) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [\#1's](https://open.spotify.com/album/4ikTC4M0HHUnbViQn1NfEU) | 3:47 | 2022-09-16 | 2022-11-13 |
 | [Jumpin', Jumpin'](https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 3:50 | 2022-09-16 |  |
 | [LA FAMA](https://open.spotify.com/track/6Y46tOTRhkBamosyuWa6YX) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 3:08 | 2022-09-16 |  |
 | [Lady Jesus](https://open.spotify.com/track/4HkJ9MoO7sQHQ6hCxJN01w) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Lady Jesus](https://open.spotify.com/album/3INiPPjvwK4RGIV4Qed2Qu) | 2:15 | 2022-09-16 |  |

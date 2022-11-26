@@ -516,6 +516,28 @@
     },
     {
       "album": {
+        "name": "Gloria Lara",
+        "url": "https://open.spotify.com/album/5Kigef3dPtMD3jWFMHJU4b"
+      },
+      "artists": [
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        },
+        {
+          "name": "Afaz Natural",
+          "url": "https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203946,
+      "name": "Esperar",
+      "url": "https://open.spotify.com/track/1ZxNzA5MUmoOWdJfcG30L7"
+    },
+    {
+      "album": {
         "name": "Esperar\u00e9 por Ti",
         "url": "https://open.spotify.com/album/4OptL4DWShK5i4P1XP6V2Y"
       },
@@ -721,6 +743,28 @@
     {
       "album": {
         "name": "Verdor",
+        "url": "https://open.spotify.com/album/3y6yqzgtEBTRShhEC7mRTN"
+      },
+      "artists": [
+        {
+          "name": "N. Hardem",
+          "url": "https://open.spotify.com/artist/6oqagavQDMpR3KKeX4eqjL"
+        },
+        {
+          "name": "Edson Velandia",
+          "url": "https://open.spotify.com/artist/3ljnYB3ODjEMEJgdHUPMPi"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272974,
+      "name": "Inmune",
+      "url": "https://open.spotify.com/track/2xrv8ar2mYYwmXPoCZY9se"
+    },
+    {
+      "album": {
+        "name": "Verdor",
         "url": "https://open.spotify.com/album/58ucyDAKyLvEXL3M8YSzgF"
       },
       "artists": [
@@ -735,7 +779,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 272974,
       "name": "Inmune",
       "url": "https://open.spotify.com/track/637uiYNp6YmhmYJaCxmEHE"
@@ -797,6 +841,24 @@
       "duration_ms": 186666,
       "name": "La Nada",
       "url": "https://open.spotify.com/track/3EXRgZtRcCgcjpCBj5Qi5Z"
+    },
+    {
+      "album": {
+        "name": "La Ti\u0301pica",
+        "url": "https://open.spotify.com/album/16TDlWh7XgEuclEP0waHxh"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 171560,
+      "name": "La Ti\u0301pica",
+      "url": "https://open.spotify.com/track/03TwdngKfoPWtXEHwkhid0"
     },
     {
       "album": {
@@ -1663,7 +1725,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 195652,
       "name": "T\u00fa Lo Vales",
       "url": "https://open.spotify.com/track/5agos0Wcgkg8w7EnUcfdTm"

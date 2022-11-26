@@ -4,7 +4,7 @@
 
 > Música eletrônica para aquele treino de peso.
 
-94 songs - 5 hr 33 min - [published](https://open.spotify.com/playlist/30BYbNNkYuKOFBBVMGmVhP)
+96 songs - 5 hr 39 min - [published](https://open.spotify.com/playlist/30BYbNNkYuKOFBBVMGmVhP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Get Down](https://open.spotify.com/track/3H2I7X7POFyU5vUudT9Zxx) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt), [Kubi](https://open.spotify.com/artist/6ePfLvMTRs5ma91LfsE523) | [Get Down](https://open.spotify.com/album/3gt7gWjurvDydPSUNdirlA) | 3:46 | 2021-12-17 |  |
 | [Guataqui \- Remix \(Radio Mix\)](https://open.spotify.com/track/6jMrgBIdcjCzF5ds99giax) | [Torha](https://open.spotify.com/artist/0qTWpm6bIsQteve5t3Cyqg) | [Guataqui Remix EP](https://open.spotify.com/album/42MBCFxqN0tYGmBxiV4KK9) | 3:29 | 2021-12-17 |  |
 | [Guud Gurls](https://open.spotify.com/track/7dQdjn4JNuQKQBH167lbpL) | [Breaking Beattz](https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX), [Kzn](https://open.spotify.com/artist/5EZHJyeAbl8WK8PdMRR2eh) | [Guud Gurls](https://open.spotify.com/album/3N4VL4BAZZqz9S7sr3AoBu) | 3:10 | 2021-12-17 |  |
-| [Habanera](https://open.spotify.com/track/2F1ppuYwY0sNjjJMPL90aL) | [Beowülf](https://open.spotify.com/artist/4H1rPQHJFk09XbKGYszUe2), [Flakkë](https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1) | [Habanera](https://open.spotify.com/album/3gKNp9a3iGKczsCql5UyYq) | 2:23 | 2021-12-17 |  |
+| [Habanera](https://open.spotify.com/track/2F1ppuYwY0sNjjJMPL90aL) | [Beowülf](https://open.spotify.com/artist/4H1rPQHJFk09XbKGYszUe2), [Flakkë](https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1) | [Habanera](https://open.spotify.com/album/3gKNp9a3iGKczsCql5UyYq) | 2:23 | 2021-12-17 | 2022-11-19 |
+| [Habanera](https://open.spotify.com/track/4EMv0ZrcBx2GnLfUz9o4kb) | [Beowülf](https://open.spotify.com/artist/4H1rPQHJFk09XbKGYszUe2), [Flakkë](https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1) | [Habanera](https://open.spotify.com/album/7fc95MhJV8ddQjnRbV31xh) | 2:23 | 2022-09-09 |  |
 | [Help \- Habstrakt Remix](https://open.spotify.com/track/7vuRaD7q2ajQU3xLQupl9T) | [GHASTLY](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh), [Karra](https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU), [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Help \(Remixes\)](https://open.spotify.com/album/0BWVarGXfyt5P8qzejiRWc) | 3:32 | 2021-12-17 |  |
 | [Highest In The Room](https://open.spotify.com/track/2h3t3Foxd1VrOMEM7smWZM) | [SCNDL](https://open.spotify.com/artist/3Y7sK4nACC8R7WwAUUumCL) | [Highest In The Room](https://open.spotify.com/album/1sSGaUZ48mi8qd0KR21RZo) | 2:26 | 2021-12-17 |  |
 | [Humanity \- Synthatic Remix](https://open.spotify.com/track/2JEfGUF5p2R54ERAyY1DtB) | [Phanatic](https://open.spotify.com/artist/3rXo1ftXCIJPhThJP73LV4), [Synthatic](https://open.spotify.com/artist/4ORN5JUsN1ToKCPQk9yc9P) | [Humanity \(Synthatic Remix\)](https://open.spotify.com/album/2RrjZmY3sLeX0itnL8z3qs) | 5:49 | 2022-03-25 | 2022-06-25 |
@@ -46,6 +47,7 @@
 | [I'm A Mess](https://open.spotify.com/track/0Rzz75C3MDHszEW2co7BCC) | [Schillist](https://open.spotify.com/artist/2qvWyc9Z0oHK156P65vH4d), [Silque](https://open.spotify.com/artist/78KwNsjhjWzZYejeBTtsNW), [EXPLICIT!](https://open.spotify.com/artist/5A13OuT27Bf5NZtXmzYtSL) | [I'm A Mess](https://open.spotify.com/album/7l77bhDnMweoM8hb0OZNPZ) | 3:01 | 2021-12-17 |  |
 | [ID Safada](https://open.spotify.com/track/7ykcTyaRlkHlpgOxHKhr5m) | [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L), [DUAL CHANNELS](https://open.spotify.com/artist/3E0I71KAPljQMKK2jkKhQM) | [ID Safada](https://open.spotify.com/album/4kDGyiVrb9UOVHpi4gImC2) | 3:20 | 2021-12-17 | 2022-03-05 |
 | [If You Drink](https://open.spotify.com/track/4N5nNgniSmesLahOLNYH3f) | [Devochka](https://open.spotify.com/artist/02xYwCW4WypA3nRQv6qEcX) | [If You Drink](https://open.spotify.com/album/3Pjf8FsAe7r6Yhq6gWXt3Q) | 3:26 | 2021-12-17 |  |
+| [It Gets Better](https://open.spotify.com/track/0pFF8G0pr9iFuZ57McxJAi) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Chill House 2022](https://open.spotify.com/album/0gbH3ecBzhLaNH6KYL58Ba) | 3:04 | 2022-09-09 | 2022-11-13 |
 | [It Gets Better](https://open.spotify.com/track/5PLfjUnpV6eFXymcsXwa37) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 3:04 | 2022-07-22 |  |
 | [It Gets Better](https://open.spotify.com/track/5erj647SYiDcIR8Zwi6tc9) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [It Gets Better](https://open.spotify.com/album/5YZCCZpKDtTTxtQrVWLGL6) | 3:04 | 2021-12-17 | 2022-07-29 |
 | [It's Timeless](https://open.spotify.com/track/5UlfTNsoAuoD6umqHx0vR2) | [FeelGood](https://open.spotify.com/artist/7mXyW5kPIUrSRGkV0I9Ilo) | [It's Timeless](https://open.spotify.com/album/5KqCj0gqurgjtTFHVGZPxr) | 3:19 | 2021-12-17 |  |

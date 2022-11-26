@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7wiCMbRM2F6PQYGLwnJ7GJ.md) - [plain]
 
 > Pre\-game music to get you pumped up before heading out for the night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 691 likes - 38 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 692 likes - 38 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

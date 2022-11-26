@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4G8YMEnXpljdSERHuKCbxD.md) - [plain]
 
 > Listen to the same playlist that’s playing through the halls of the world famous Warner Records!
 
-[Warner Records](https://open.spotify.com/user/uesix1sjzgnk8uo47jh3wxy3h) - 8,255 likes - 67 songs - 3 hr 23 min
+[Warner Records](https://open.spotify.com/user/uesix1sjzgnk8uo47jh3wxy3h) - 8,256 likes - 67 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/4G8YMEnXpljdSERHuKCbxD.md) - [plain]
 | 25 | [We're Good](https://open.spotify.com/track/4xAJSIcCHcOCli5m325X2H) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [We're Good](https://open.spotify.com/album/4t3Ur7xbLyt0ybULu8jJMH) | 2:45 |
 | 26 | [SANTANNY](https://open.spotify.com/track/7vCLOe1ufpcaq0JS4BTYiU) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [Blue/Santanny](https://open.spotify.com/album/08nho3QsVArCSlMQEI6exi) | 2:03 |
 | 27 | [Pluto](https://open.spotify.com/track/3Eabh6tji315ptr28Y2QzC) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [Pluto](https://open.spotify.com/album/6Iwf7mZlw59EtjlnLPzki9) | 3:51 |
-| 28 | [You’re Mines Still \(feat\. Drake\)](https://open.spotify.com/track/7E2C5rBLpCKwQlhJPVFBRS) | [BLEU](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [You’re Mines Still \(feat\. Drake\)](https://open.spotify.com/album/7MQJy9di8JoLJOkG5mZAry) | 3:46 |
+| 28 | [You’re Mines Still \(feat\. Drake\)](https://open.spotify.com/track/7E2C5rBLpCKwQlhJPVFBRS) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [You’re Mines Still \(feat\. Drake\)](https://open.spotify.com/album/7MQJy9di8JoLJOkG5mZAry) | 3:46 |
 | 29 | [I Got Love](https://open.spotify.com/track/4KUvir7HcUGWZNNCjUckI5) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [I Got Love / Stay Behind](https://open.spotify.com/album/291rt10ZQsv8QnAhS5e115) | 2:52 |
 | 30 | [Telling Myself](https://open.spotify.com/track/6EiaFdYn2vrI0TSeKprX4R) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Joshua Bassett](https://open.spotify.com/album/7fDjz07zGHPMOTl7BQcSMi) | 2:49 |
 | 31 | [Do You Believe](https://open.spotify.com/track/71TRhiwsRckqoqO9CcDIE6) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [The Idea Of Her](https://open.spotify.com/album/5SBdHir3OHo2WZN0F3Pnbr) | 2:36 |

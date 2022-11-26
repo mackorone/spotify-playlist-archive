@@ -4,7 +4,7 @@
 
 > Get all your kids' amigos together and play while listening to these awesome tunes!
 
-59 songs - 2 hr 14 min - [published](https://open.spotify.com/playlist/2t1XR7zPkxNpjRkveREXaS)
+62 songs - 2 hr 19 min - [published](https://open.spotify.com/playlist/2t1XR7zPkxNpjRkveREXaS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,12 +28,15 @@
 | [Generosidad](https://open.spotify.com/track/4NLko9kZnPlKdNc0LuSFjZ) | [Rarity](https://open.spotify.com/artist/6PqIHmHPCKrZoyLMf98era), [Rainbow Dash](https://open.spotify.com/artist/0iKnctG436f9uUKSuSFx2n), [Pinkie Pie](https://open.spotify.com/artist/7ExZeMNpyKhYSokWo9riU5), [Apple Jack](https://open.spotify.com/artist/1r0v3fdCiqrr9mYtvbCccT), [Fluttershy](https://open.spotify.com/artist/2KL1HTA8ijZSuf7VJaL4OU) | [Songs Of Harmony \(Español / Music From The Original TV Series\)](https://open.spotify.com/album/2QMlIIooGHnWvCM8YNf7lX) | 2:32 | 2020-04-22 |  |
 | [Get Ready to Wiggle](https://open.spotify.com/track/0O0pn82JUSSDzZvvqQCalX) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Wiggle Time!](https://open.spotify.com/album/2J9sgiEk6WX2RMY3k30cVv) | 2:05 | 2020-04-22 |  |
 | [Get Ready To Wiggle](https://open.spotify.com/track/4Not7ElpfzAj6fzlLg4ILQ) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Wiggle Time! \(Classic Wiggles\)](https://open.spotify.com/album/4dqqyVRy7GXQX8VMKXoCQh) | 2:05 | 2020-04-22 | 2022-07-29 |
+| [Get Ready to Wiggle](https://open.spotify.com/track/6GanYwyNjpID1nqkickf0C) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Taking Off!](https://open.spotify.com/album/6LxjwpJzotr71JIF2RefDm) | 2:05 | 2020-04-22 | 2022-11-13 |
 | [Hazme Un Muñeco De Nieve \(De "Frozen"\)](https://open.spotify.com/track/1QgQgsRqEQIsRNz4HuvR4J) | [Frozen Girl](https://open.spotify.com/artist/5ist8C4fRnhJaWHxI4jnkk) | [Libre Soy / Hazme Un Muñeco De Nieve \(Frozen\)](https://open.spotify.com/album/6y15f8IeEp4IsbncOcNkSL) | 3:24 | 2020-04-22 |  |
 | [Head, Shoulders, Knees and Toes](https://open.spotify.com/track/6cdB3WnyuoVMSwyYKjJ7Zv) | [Play School](https://open.spotify.com/artist/0gkeMf1I9r5U5Hne19vr9A) | [Oomba Baroomba](https://open.spotify.com/album/7a4xANzGTlMxczJljG5AgL) | 0:51 | 2020-04-22 |  |
 | [Heads And Shoulders](https://open.spotify.com/track/1Hn9DSRwzkQixOMjGsrEej) | [Play School](https://open.spotify.com/artist/0gkeMf1I9r5U5Hne19vr9A) | [Oomba Baroomba](https://open.spotify.com/album/5Q6c1Mpsw6P26o8ApR8XaO) | 0:51 | 2020-04-22 | 2022-07-29 |
 | [Hokey Pokey](https://open.spotify.com/track/21o1Tbje5MMf3yLODQ34P4) | [Play School](https://open.spotify.com/artist/0gkeMf1I9r5U5Hne19vr9A) | [Hip Hip Hooray!](https://open.spotify.com/album/4aDYB3OlOy3vHVC2DVhx7o) | 1:35 | 2020-04-22 | 2022-07-29 |
 | [Hokey Pokey](https://open.spotify.com/track/4YHAwA4gwOwwUf5BZa0F0U) | [Play School](https://open.spotify.com/artist/0gkeMf1I9r5U5Hne19vr9A) | [Hip Hip Hooray!](https://open.spotify.com/album/1sXrc8YqbbOCtRRjd07kgH) | 1:35 | 2020-04-22 |  |
+| [Hokey Pokey](https://open.spotify.com/track/1PZN8cfdsIGknBmLepdSp7) | [Play School](https://open.spotify.com/artist/0gkeMf1I9r5U5Hne19vr9A) | [50 Best Songs](https://open.spotify.com/album/3tFSxdIhOh0JHzmAS6jbRD) | 1:36 | 2020-04-22 | 2022-11-13 |
 | [Hot Potato](https://open.spotify.com/track/3JIFjAYZjDqnl20jkhkC4a) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Hit Songs & Rarities](https://open.spotify.com/album/0TIi74a3njDFvfJk2akVk1) | 1:19 | 2020-04-22 | 2022-07-29 |
+| [Hot Potato](https://open.spotify.com/track/7GDLgYICHuTevdp8Kf7YjY) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Hit Songs and Rarities](https://open.spotify.com/album/0sNCyOvNDTgmzFhmfASPzz) | 1:19 | 2020-04-22 | 2022-11-14 |
 | [Hot Potato](https://open.spotify.com/track/0TQp3SpfrkWtGCyJJgMbHW) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Yummy Yummy](https://open.spotify.com/album/6APUHxy54plCcHLqrtI5sO) | 1:21 | 2020-04-22 |  |
 | [If You're Happy and You Know It](https://open.spotify.com/track/1CoEBzmNnIJlNRrgcGZ1Lz) | [Big Don](https://open.spotify.com/artist/5CgfMNQljRnqHeS8EZ54JT) | [Big Don's Brand New Beat](https://open.spotify.com/album/3p6hybEOJ67tTbLYUd2i2v) | 3:05 | 2020-04-22 |  |
 | [Iremos Juntos](https://open.spotify.com/track/1y6ISux0k9Y2Rou2xEC2Zp) | [Timbiriche](https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO) | [Singles](https://open.spotify.com/album/7Gjjar8TuBWWpjQE24wrQQ) | 3:39 | 2020-04-22 |  |

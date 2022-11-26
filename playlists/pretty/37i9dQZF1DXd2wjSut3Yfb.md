@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wjSut3Yfb.md) - [plain]
 
 > Big Freedia co\-curates a list of the very best songs from LGBTQQIA+ artists and allies The Big Easy has to offer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,303 likes - 33 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,304 likes - 33 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

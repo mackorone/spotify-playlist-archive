@@ -541,10 +541,46 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 141386,
       "name": "Candlelight",
       "url": "https://open.spotify.com/track/2LdHJepGKdvmPPbm0pC6QC"
+    },
+    {
+      "album": {
+        "name": "Candlelight",
+        "url": "https://open.spotify.com/album/5jRPY0qmViLdSaLKjjZlX2"
+      },
+      "artists": [
+        {
+          "name": "Eddie Jenkins",
+          "url": "https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 141386,
+      "name": "Candlelight",
+      "url": "https://open.spotify.com/track/6aoi5DA6gXsCBMGKa9ZkLQ"
+    },
+    {
+      "album": {
+        "name": "Quiet Time",
+        "url": "https://open.spotify.com/album/5ZPxSsZCr5aueS8arp82eJ"
+      },
+      "artists": [
+        {
+          "name": "Eddie Jenkins",
+          "url": "https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141386,
+      "name": "Candlelight",
+      "url": "https://open.spotify.com/track/7pUfoepuxnZzQZqqvrVJR3"
     },
     {
       "album": {
@@ -1697,6 +1733,28 @@
       "duration_ms": 135903,
       "name": "Like Before",
       "url": "https://open.spotify.com/track/4gh3kOpFSQPn6jGOI0gZPm"
+    },
+    {
+      "album": {
+        "name": "Lillian",
+        "url": "https://open.spotify.com/album/76qmoKhO9fwNsUh1BOcnPf"
+      },
+      "artists": [
+        {
+          "name": "Jacob David",
+          "url": "https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP"
+        },
+        {
+          "name": "S\u00f8ren Tarding",
+          "url": "https://open.spotify.com/artist/1bHfoau7ud3dvN33mMtzuj"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 127000,
+      "name": "Lillian",
+      "url": "https://open.spotify.com/track/4cwSFF1hXI78ZTmREh6Yww"
     },
     {
       "album": {

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6F6y6vVLZ8H.md) - [plain]
 
 > A collection of songs from Tony Hawk's Pro Skater 1 + 2.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,717 likes - 53 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,520 likes - 53 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Connect To Consume](https://open.spotify.com/track/5GybndUlmvM1wzM6liWsdp) | [A\. Swayze & The Ghosts](https://open.spotify.com/artist/6rbA09kzdZICoLg7sWbkGd) | [Connect To Consume](https://open.spotify.com/album/595dcTaOC9sXOIfbutmwGr) | 3:14 |
+| 1 | [Connect To Consume](https://open.spotify.com/track/4AedKkOIuagtOQ6uvxWfiN) | [A\. Swayze & The Ghosts](https://open.spotify.com/artist/6rbA09kzdZICoLg7sWbkGd) | [Paid Salvation](https://open.spotify.com/album/0zAxayJBKcqXptUlvt14xH) | 3:14 |
 | 2 | [Misery Guts](https://open.spotify.com/track/4nFEpqglSpknKNaGLT8jeX) | [Alex Lahey](https://open.spotify.com/artist/5kdYrM3h2sB1Eid5tDf6Hk) | [The Best of Luck Club](https://open.spotify.com/album/5YCf7fOpsfKgB5f3XFLjh8) | 2:33 |
 | 3 | [Let's Do It](https://open.spotify.com/track/1nNOWiXYARPG1eRLw134No) | [All Talk](https://open.spotify.com/artist/78GL0p300wgurWZaPO7J80) | [Let's Do It](https://open.spotify.com/album/4gue0IdUGLEnpAkVsWbQvB) | 2:16 |
 | 4 | [Life Support](https://open.spotify.com/track/3uYM4wkn9YGSF3Keiu7BjD) | [American Nightmare](https://open.spotify.com/artist/5FBzEnwXCKl3GoZCeXGMNy) | [Life Support](https://open.spotify.com/album/4tg74FT3hH3C7DI91VfzaR) | 2:15 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6F6y6vVLZ8H.md) - [plain]
 | 52 | [Slow Learner](https://open.spotify.com/track/79W8lW8xyYayXfi8TTbtoD) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Street Worms](https://open.spotify.com/album/4QDHK085r08dWT1GvXmR6F) | 3:11 |
 | 53 | [All My Friends Are Nobodies](https://open.spotify.com/track/0ImdOZzfzWSIkB4ToC2buF) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [All My Friends Are Nobodies](https://open.spotify.com/album/6VTNdekziQXzcf4gvy9hcM) | 3:03 |
 
-Snapshot ID: `MTY2MDY2OTM0NSwwMDAwMDAwMGZkZjFhY2E0YzhiZGFjZTE3NGM2MGYzZGM1MjJiNGNl`
+Snapshot ID: `MTY2MDY2OTM0NSwwMDAwMDAwMDIxZjUxNTU2YzA3MTdhNTRkY2ZhYWM0OWY1OTYzYmMw`

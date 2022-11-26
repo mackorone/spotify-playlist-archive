@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "Autumn Playlist",
+        "url": "https://open.spotify.com/album/2WkLSByy5oHXHTTR9HeeJB"
+      },
+      "artists": [
+        {
+          "name": "Chrissi",
+          "url": "https://open.spotify.com/artist/6dKtberVRbUX3Azn8gt2mt"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 215356,
+      "name": "Back In The Day",
+      "url": "https://open.spotify.com/track/2RzuBCRT8HfBbG7YCjLcEP"
+    },
+    {
+      "album": {
         "name": "Back In The Day",
         "url": "https://open.spotify.com/album/0kYwSyUR9NhGRsZFeid1Kv"
       },
@@ -134,6 +152,24 @@
     },
     {
       "album": {
+        "name": "Sonder",
+        "url": "https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198221,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/0aISwc1s6N6XuBh1BxzDHx"
+    },
+    {
+      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/41pm4Q8TIe9zixjdIuvgBZ"
       },
@@ -163,10 +199,28 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 198221,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/48USW4aYqrylYWJmFPbC8A"
+    },
+    {
+      "album": {
+        "name": "Songs of Sonder",
+        "url": "https://open.spotify.com/album/5KYqiTq9ChwEVhd26dcFM8"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 198221,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/4k2ZhyLz0BxHUhJgghQpYq"
     },
     {
       "album": {
@@ -278,6 +332,24 @@
     },
     {
       "album": {
+        "name": "Make Believe",
+        "url": "https://open.spotify.com/album/1VwMUOIMVdhdB80dTVxnxe"
+      },
+      "artists": [
+        {
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 240065,
+      "name": "Crocodiles",
+      "url": "https://open.spotify.com/track/4fhsZuDDpwbshBn6T6j1Q0"
+    },
+    {
+      "album": {
         "name": "Oh No, Not Again! - EP",
         "url": "https://open.spotify.com/album/3Z87Kdyjc5IC7BidBOFnUd"
       },
@@ -311,6 +383,24 @@
       "duration_ms": 170812,
       "name": "Cry Over Boys",
       "url": "https://open.spotify.com/track/218q4fCmVERKhXEZDr6g4P"
+    },
+    {
+      "album": {
+        "name": "Chilled Mix",
+        "url": "https://open.spotify.com/album/36hNUgf2fLpK4BV8xiwv7T"
+      },
+      "artists": [
+        {
+          "name": "Alexander 23",
+          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 170812,
+      "name": "Cry Over Boys",
+      "url": "https://open.spotify.com/track/2EQc28mf62IeoDoEOw6OoG"
     },
     {
       "album": {
@@ -390,8 +480,8 @@
     },
     {
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/44exvz3EXFURPy4cs0YXcb"
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/2hF3Z7WIOHkZwsm3rFPla1"
       },
       "artists": [
         {
@@ -404,7 +494,61 @@
       "date_removed": null,
       "duration_ms": 154043,
       "name": "Eclipse",
+      "url": "https://open.spotify.com/track/1CN3tvx826AiRlcZSKjGdl"
+    },
+    {
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/3Fku3yYulCxkAjxwfwNUUH"
+      },
+      "artists": [
+        {
+          "name": "Frances",
+          "url": "https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 154043,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/5G7gZxPsYbFOnqh885QI4F"
+    },
+    {
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/44exvz3EXFURPy4cs0YXcb"
+      },
+      "artists": [
+        {
+          "name": "Frances",
+          "url": "https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 154043,
+      "name": "Eclipse",
       "url": "https://open.spotify.com/track/6DsnPRnJLUUtzKrVVwUiAT"
+    },
+    {
+      "album": {
+        "name": "Falling For You",
+        "url": "https://open.spotify.com/album/3mveK1Bw9vWDka2T8S7MJp"
+      },
+      "artists": [
+        {
+          "name": "Fia Moon",
+          "url": "https://open.spotify.com/artist/0UIbKpz6Owrre4L7XNjad4"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252080,
+      "name": "Falling For You",
+      "url": "https://open.spotify.com/track/0VhqXi1cxFr6spSpVPPZwI"
     },
     {
       "album": {
@@ -419,7 +563,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 252080,
       "name": "Falling For You",
       "url": "https://open.spotify.com/track/3G2V4UFoKTsUbJNCtNVJN1"
@@ -614,6 +758,24 @@
     },
     {
       "album": {
+        "name": "They'll Never Love You Like I Can",
+        "url": "https://open.spotify.com/album/50osPJHagZ1hMitkefI0Qb"
+      },
+      "artists": [
+        {
+          "name": "Emily Burns",
+          "url": "https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 203731,
+      "name": "Is It Just Me?",
+      "url": "https://open.spotify.com/track/0JXlZpEvNNRMUvbjlKJk8s"
+    },
+    {
+      "album": {
         "name": "My Town",
         "url": "https://open.spotify.com/album/18SfYsQ4uFVYaMVctPDAvX"
       },
@@ -679,10 +841,28 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 210076,
       "name": "Lost and Found",
       "url": "https://open.spotify.com/track/2ERDk7FT3YadvUl5VDe6TI"
+    },
+    {
+      "album": {
+        "name": "Lost and Found",
+        "url": "https://open.spotify.com/album/2jCUeOgbvOX6CT3JGx0ak9"
+      },
+      "artists": [
+        {
+          "name": "RVBY",
+          "url": "https://open.spotify.com/artist/0kqz7XXvCnxDLku3AfGnc2"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210076,
+      "name": "Lost and Found",
+      "url": "https://open.spotify.com/track/36XapglPUABLLmctdDn5WG"
     },
     {
       "album": {
@@ -741,6 +921,24 @@
       "duration_ms": 193874,
       "name": "Rules",
       "url": "https://open.spotify.com/track/3pX2nQSp8Xafya67qsSPDv"
+    },
+    {
+      "album": {
+        "name": "The LOVERS",
+        "url": "https://open.spotify.com/album/1SSHh4TwugjrspuolmKDSf"
+      },
+      "artists": [
+        {
+          "name": "Arlissa",
+          "url": "https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 193874,
+      "name": "Rules",
+      "url": "https://open.spotify.com/track/56v0dZUln42eldanf3BSGk"
     },
     {
       "album": {
@@ -968,6 +1166,28 @@
     },
     {
       "album": {
+        "name": "Lonesome",
+        "url": "https://open.spotify.com/album/5l75wh2G3ndvREVMxMoXhJ"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        },
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 175599,
+      "name": "this is how you fall in love",
+      "url": "https://open.spotify.com/track/05L6XIWzFdiNaUyaB9AgB8"
+    },
+    {
+      "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
@@ -991,7 +1211,7 @@
       },
       "artists": [
         {
-          "name": "Aaron Smith",
+          "name": "sadHAPPY",
           "url": "https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl"
         }
       ],
@@ -1130,6 +1350,24 @@
     },
     {
       "album": {
+        "name": "Worst Ways",
+        "url": "https://open.spotify.com/album/7h5tazd3LMN0ApQUfzmYS7"
+      },
+      "artists": [
+        {
+          "name": "Rudie Edwards",
+          "url": "https://open.spotify.com/artist/0UoYusnqGbla21PGYGmLfk"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 201264,
+      "name": "Worst Ways",
+      "url": "https://open.spotify.com/track/3meazHJAqUpYa8P3SjsBiB"
+    },
+    {
+      "album": {
         "name": "Young",
         "url": "https://open.spotify.com/album/2anbovQwdTveCFBW2ZH6Qi"
       },
@@ -1181,6 +1419,24 @@
       "duration_ms": 245896,
       "name": "Your Power",
       "url": "https://open.spotify.com/track/5qNh5WtzMbfpSj2jLlBkoD"
+    },
+    {
+      "album": {
+        "name": "Best of 2021 Pop",
+        "url": "https://open.spotify.com/album/4c5bF6Y7O0j9tNYac8Zh6K"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 245896,
+      "name": "Your Power",
+      "url": "https://open.spotify.com/track/6IzH7ucSwoenS89CQtfLWk"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWYp3yzk1civi"

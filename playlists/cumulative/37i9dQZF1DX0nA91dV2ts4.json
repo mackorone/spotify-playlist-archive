@@ -389,7 +389,7 @@
       ],
       "date_added": "2021-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-05",
+      "date_removed": null,
       "duration_ms": 169193,
       "name": "Breakup Song",
       "url": "https://open.spotify.com/track/1hnG8nDABfdb8qeQ7g4aKh"
@@ -415,6 +415,24 @@
       "duration_ms": 267203,
       "name": "Bujji (From \"Jagame Thandhiram\")",
       "url": "https://open.spotify.com/track/6rJhjykEkCqm3H64uALhhf"
+    },
+    {
+      "album": {
+        "name": "Devi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7IVZSm40luQFiP7XWaL43K"
+      },
+      "artists": [
+        {
+          "name": "Benny Dayal",
+          "url": "https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ"
+        }
+      ],
+      "date_added": "2021-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 259069,
+      "name": "Chalmaar",
+      "url": "https://open.spotify.com/track/30bsaduEjEx13L8V2QHM6w"
     },
     {
       "album": {
@@ -1361,8 +1379,8 @@
           "url": "https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS"
         },
         {
-          "name": "Andrea",
-          "url": "https://open.spotify.com/artist/56MHrkgLJdq37lUfYWOSPH"
+          "name": "Andrea Jeremiah",
+          "url": "https://open.spotify.com/artist/5yoqPvofOHrBc3Z6VZyTsj"
         }
       ],
       "date_added": "2021-06-21",
@@ -1769,7 +1787,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 207111,
       "name": "Singleu",
       "url": "https://open.spotify.com/track/37cLDb7uqI7y8zQe5lFdiU"
@@ -1813,7 +1831,7 @@
       ],
       "date_added": "2021-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 238913,
       "name": "Sodakku",
       "url": "https://open.spotify.com/track/1yotVCnfaPDvp9C7LsdGB1"
@@ -1921,7 +1939,7 @@
       ],
       "date_added": "2021-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-03",
+      "date_removed": null,
       "duration_ms": 199894,
       "name": "Thappa Dhaan Theriyum - Maari's Karuthu",
       "url": "https://open.spotify.com/track/4RXjmJrLbH9DNROHHaMbNc"

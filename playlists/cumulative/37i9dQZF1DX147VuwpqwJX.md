@@ -4,7 +4,7 @@
 
 > The powerful, expressive sound of Ballroom and Vogue culture \- pioneered by the black LGBTQIA+ community\. Cover: Cakes da Killa
 
-117 songs - 7 hr 44 min - [published](https://open.spotify.com/playlist/61jb2cF8g7zz9kda9fWPqS)
+118 songs - 7 hr 48 min - [published](https://open.spotify.com/playlist/61jb2cF8g7zz9kda9fWPqS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Dope Dick Dealer](https://open.spotify.com/track/1qXfYFkZ6nfBml7WWJqCwq) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [Qweendom](https://open.spotify.com/album/4cuWLmE34YTJkiUgQVBeLv) | 4:20 | 2021-11-19 |  |
 | [Face / Look at That](https://open.spotify.com/track/1TNXEYH0QnKribMnTSKXwu) | [BE3K](https://open.spotify.com/artist/5CTU3qCfIjCOYMfzaPogFk) | [3](https://open.spotify.com/album/6AECp5wDwQilg07tmltSQd) | 3:07 | 2021-11-19 |  |
 | [Feel This \- Robbie Rivera's Mix](https://open.spotify.com/track/5eI7ZFkAD53lSERufsLF79) | [Robbie Rivera](https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP) | [Feel This](https://open.spotify.com/album/1pyIbjcsybRyXMBIXAt0sH) | 6:57 | 2021-11-19 |  |
-| [Feeling Good \(What Needs to Be Done\)](https://open.spotify.com/track/4NGWMqSa4Jq4NZZC8BkPfA) | [Tony Pops](https://open.spotify.com/artist/5mj4luWTTdAJNziIEQadc0) | [Feeling Good \(What Needs to Be Done\)](https://open.spotify.com/album/10R2UYAVywMSAScmmFN32Z) | 3:32 | 2021-11-19 |  |
+| [Feeling Good \(What Needs to Be Done\)](https://open.spotify.com/track/4NGWMqSa4Jq4NZZC8BkPfA) | [Tony Pops](https://open.spotify.com/artist/5mj4luWTTdAJNziIEQadc0) | [Feeling Good \(What Needs to Be Done\)](https://open.spotify.com/album/10R2UYAVywMSAScmmFN32Z) | 3:32 | 2021-11-19 | 2022-10-23 |
+| [Feeling Good \(What Needs to Be Done\)](https://open.spotify.com/track/6axRY6UyCCBa7zwbLCyDFB) | [Tony Pops](https://open.spotify.com/artist/5mj4luWTTdAJNziIEQadc0) | [Feeling Good \(What Needs to Be Done\)](https://open.spotify.com/album/1WKZw3XMQEhfSoimpKbGku) | 3:32 | 2022-08-05 |  |
 | [Feels Like](https://open.spotify.com/track/0F9v0lpBD93UIOh4g0BcPm) | [MikeQ](https://open.spotify.com/artist/0H2tgKu7aoe1YVflaRWH6o), [Kevin Jz Prodigy](https://open.spotify.com/artist/6f7VuR9EQ1JqkWXqGwvVH5) | [Let It All Out EP](https://open.spotify.com/album/1EjGCyMdcQlJM5aW4wpyaV) | 2:23 | 2021-11-19 |  |
 | [Fierce and Shady Tens \(Gurl\) \[feat\. Miss Jay\]](https://open.spotify.com/track/2nNEOEmQoSCJ2DMGlDDtUl) | [Vjuan Allure](https://open.spotify.com/artist/6XsYyM6VcCkFglSRqzUMXJ), [Miss Jay](https://open.spotify.com/artist/1IU4hPWrwgn5oJlSNDmL7Y) | [Jeffree's, Vol\. 8](https://open.spotify.com/album/5qE2aOPfLshaK0qvZrkZ6B) | 6:28 | 2021-11-19 |  |
 | [Fly Life Xtra](https://open.spotify.com/track/1JqUH3Nm8P5V3HffwMNmIb) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ) | [Fly Life Xtra](https://open.spotify.com/album/1FITsnYE7JYQkwFe54sGym) | 9:19 | 2021-11-19 | 2022-07-29 |

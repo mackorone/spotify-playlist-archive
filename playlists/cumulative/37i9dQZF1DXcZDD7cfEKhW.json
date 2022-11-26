@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Britney Spears x Elton John",
+  "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Sam Smith & Kim Petras",
   "name": "Pop Remix",
   "published_playlist_ids": [
     "19uNHWTaOVDySWkMTC6J3e"
@@ -389,7 +389,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 229663,
       "name": "All That Really Matters - Will Clarke Remix",
       "url": "https://open.spotify.com/track/67stT9mRSOt6eO1bjB2AlH"
@@ -441,6 +441,28 @@
       "duration_ms": 185365,
       "name": "Another Love - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/4Et6tUEO7biKxZEfJXpNj1"
+    },
+    {
+      "album": {
+        "name": "Anti-Hero (Remixes)",
+        "url": "https://open.spotify.com/album/1UPhbHGeoVyk7RSbfjJMOA"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215696,
+      "name": "Anti-Hero - Jayda G Remix",
+      "url": "https://open.spotify.com/track/22t8PQeP5klRoguomM4wZp"
     },
     {
       "album": {
@@ -558,6 +580,40 @@
     },
     {
       "album": {
+        "name": "Bad Memories (Felix Jaehn Remix)",
+        "url": "https://open.spotify.com/album/1BDhBICG1Iowos7dCtSizl"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "James Carter",
+          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        },
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149565,
+      "name": "Bad Memories - Felix Jaehn Remix",
+      "url": "https://open.spotify.com/track/04R4oiYD4NU6ZkdwlaJSep"
+    },
+    {
+      "album": {
         "name": "Be Happy (Dillon Francis Remix)",
         "url": "https://open.spotify.com/album/1ibdhf7VVf5lny7lf4TTNk"
       },
@@ -603,6 +659,28 @@
       "duration_ms": 174289,
       "name": "Be Kind (with Halsey) [Surf Mesa Remix]",
       "url": "https://open.spotify.com/track/3QNG9RhD93ypeMp3DUmkaO"
+    },
+    {
+      "album": {
+        "name": "Stripped - 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/7lCwZB97kT2240mSxZQjaw"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215919,
+      "name": "Beautiful - Benny Benassi Remix",
+      "url": "https://open.spotify.com/track/2HVJpBSh3RSbrt0ApWTG0t"
     },
     {
       "album": {
@@ -869,6 +947,28 @@
       "duration_ms": 203476,
       "name": "Body - Joel Corry Remix",
       "url": "https://open.spotify.com/track/4Lm3Eh62HxFtOeY7Ra1CaI"
+    },
+    {
+      "album": {
+        "name": "Bones (twocolors Remix)",
+        "url": "https://open.spotify.com/album/6idPk4yzvCbpdkpNVJU1AE"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        },
+        {
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256092,
+      "name": "Bones - twocolors Remix",
+      "url": "https://open.spotify.com/track/2czjUxrgctplH7SDrJLGGb"
     },
     {
       "album": {
@@ -1208,6 +1308,36 @@
     },
     {
       "album": {
+        "name": "Caught Up (feat. Olivia O'Brien) [Remixes]",
+        "url": "https://open.spotify.com/album/5fCXGInZnTszdgizArIg00"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Olivia O'Brien",
+          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
+        },
+        {
+          "name": "Zack Martino",
+          "url": "https://open.spotify.com/artist/2US2mjK9hW7QGSBNpprlbu"
+        },
+        {
+          "name": "Leondis",
+          "url": "https://open.spotify.com/artist/0wxqz8uaPaewwCEqsYQHn8"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159375,
+      "name": "Caught Up (feat. Olivia O'Brien) - Zack Martino x Leondis Remix",
+      "url": "https://open.spotify.com/track/6rHJ268lwbpsIvdljb9lKR"
+    },
+    {
+      "album": {
         "name": "Caution (Remixes)",
         "url": "https://open.spotify.com/album/7kefDs5vGPEiJGNUVOjjpZ"
       },
@@ -1297,7 +1427,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 230395,
       "name": "Clarity - Chris Malinchak Mix",
       "url": "https://open.spotify.com/track/0Mv64uPH8nm7yZPPAj8HYe"
@@ -2253,7 +2383,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-22",
       "duration_ms": 182640,
       "name": "Easy - Ofenbach Remix",
       "url": "https://open.spotify.com/track/7CEwv044aumuJzN470mPXL"
@@ -2356,6 +2486,24 @@
     },
     {
       "album": {
+        "name": "Edge of Seventeen",
+        "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
+      },
+      "artists": [
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164042,
+      "name": "Edge of Seventeen",
+      "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
+    },
+    {
+      "album": {
         "name": "Electricity (feat. Dua Lipa) [MK Remix]",
         "url": "https://open.spotify.com/album/654bA0Txg8hFwVmb8DwVHt"
       },
@@ -2447,10 +2595,44 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 226666,
       "name": "Escape (feat. Hayla) - John Summit Remix",
       "url": "https://open.spotify.com/track/0UvddYrJK4x5OWfxpSAZNj"
+    },
+    {
+      "album": {
+        "name": "Escape (John Summit Remix)",
+        "url": "https://open.spotify.com/album/3S9GUf0drt2FBoNkwJZQjZ"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Kx5",
+          "url": "https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY"
+        },
+        {
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        },
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226666,
+      "name": "Escape - John Summit Remix",
+      "url": "https://open.spotify.com/track/68lTEhMEx4MxDCJypT6bXE"
     },
     {
       "album": {
@@ -2573,6 +2755,28 @@
       "duration_ms": 192713,
       "name": "Feel Good - Dave Aud\u00e9 Remix",
       "url": "https://open.spotify.com/track/20bDyPrSS9q3obWeoFoxz9"
+    },
+    {
+      "album": {
+        "name": "Feeling Good (Austin Millz Remix)",
+        "url": "https://open.spotify.com/album/0eTPfsYOTE2BTta03N3CM6"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150789,
+      "name": "Feeling Good - Austin Millz Remix",
+      "url": "https://open.spotify.com/track/5DQFUDNNpdu2l3ZyE8GHON"
     },
     {
       "album": {
@@ -2713,7 +2917,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 166865,
       "name": "Follow Me - Sick Individuals Remix",
       "url": "https://open.spotify.com/track/6BtVqI4JYCYi6mPmkzr5Rv"
@@ -3835,7 +4039,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 167889,
       "name": "Hot In It - Riton Remix",
       "url": "https://open.spotify.com/track/1jIfRDKyt4jn7tQ5ekmkoM"
@@ -4153,7 +4357,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 219653,
       "name": "I Still Believe - Purple Disco Machine Remix",
       "url": "https://open.spotify.com/track/40uD8YIrDmTuFFPNYp3ovN"
@@ -4230,6 +4434,32 @@
     },
     {
       "album": {
+        "name": "I'm Good (Blue) [Gabry Ponte Remix]",
+        "url": "https://open.spotify.com/album/0yspiEXcvJqcTMScgu04gq"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165776,
+      "name": "I'm Good (Blue) - Gabry Ponte Remix",
+      "url": "https://open.spotify.com/track/1Ic76JMsAbHdDscO9ooJm9"
+    },
+    {
+      "album": {
         "name": "I'm Good (Blue) [Remixes]",
         "url": "https://open.spotify.com/album/2FoK9zElswjfRAYxDfspRd"
       },
@@ -4249,7 +4479,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 178124,
       "name": "I'm Good (Blue) - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/7gLKUPLGMzPhw90Ara5ZEc"
@@ -4449,6 +4679,32 @@
       "duration_ms": 191612,
       "name": "Innadadance (feat. Suli Breaks & Jazzie B) [Meduza Remix] - Edit",
       "url": "https://open.spotify.com/track/5TvEN16rGvvXUGrdg4BxUC"
+    },
+    {
+      "album": {
+        "name": "IT'S YOU (feat. keshi) [ARMNHMR Remix]",
+        "url": "https://open.spotify.com/album/4K87GTtvuKzOZYXFjt7Baw"
+      },
+      "artists": [
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        },
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        },
+        {
+          "name": "ARMNHMR",
+          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176540,
+      "name": "IT'S YOU - ARMNHMR Remix",
+      "url": "https://open.spotify.com/track/6EmRDtmAq556gtaj0rOjsW"
     },
     {
       "album": {
@@ -5332,6 +5588,50 @@
     },
     {
       "album": {
+        "name": "Million Dollar Baby (David Penn Remix)",
+        "url": "https://open.spotify.com/album/2aYoyZcFc7Dqp0btHC7nem"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        },
+        {
+          "name": "David Penn",
+          "url": "https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 187125,
+      "name": "Million Dollar Baby - David Penn Remix",
+      "url": "https://open.spotify.com/track/6ZZzcoEEfOgN7mFuVSDqjR"
+    },
+    {
+      "album": {
+        "name": "Million Dollar Baby (TELYKast Remix)",
+        "url": "https://open.spotify.com/album/1k9N6INpFsTp2o25ltbl9a"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        },
+        {
+          "name": "TELYKast",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193984,
+      "name": "Million Dollar Baby - TELYKast Remix",
+      "url": "https://open.spotify.com/track/1456BwjfgMkjvDZ59lDL7b"
+    },
+    {
+      "album": {
         "name": "Momma Always Told Me (feat. Stanaj & Yung Bae) [Matoma Remixes]",
         "url": "https://open.spotify.com/album/6YdrjkUXEFaQwmsPn5fxCD"
       },
@@ -5751,6 +6051,36 @@
       "duration_ms": 191329,
       "name": "Never Love You Again (with Little Big Town & Bryn Christopher)",
       "url": "https://open.spotify.com/track/676tQQmFrilCR8L7kxRcGd"
+    },
+    {
+      "album": {
+        "name": "New Gold (feat. Tame Impala and Bootie Brown) [Dom Dolla Remix]",
+        "url": "https://open.spotify.com/album/7BVQ5jsPNkmQUnlOU0mg6e"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Bootie Brown",
+          "url": "https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274141,
+      "name": "New Gold (feat. Tame Impala and Bootie Brown) - Dom Dolla Remix",
+      "url": "https://open.spotify.com/track/2c3KCGq6UojB2c8UAFrRON"
     },
     {
       "album": {
@@ -7239,7 +7569,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 145849,
       "name": "Somebody I F*cked Once - Lady Bee Remix",
       "url": "https://open.spotify.com/track/4QeEtuZ4paF4UxTtb2MauS"
@@ -7863,7 +8193,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 207125,
       "name": "Sweet Talker - Hot Since 82 Remix",
       "url": "https://open.spotify.com/track/3q87fWV1hjeZqr2i4v2moY"
@@ -7985,7 +8315,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 260522,
       "name": "Teardrops (feat. Majid Jordan) - Belters Only Remix",
       "url": "https://open.spotify.com/track/2ttYzPb48PVJjt6O8HdrQa"
@@ -8353,7 +8683,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 132000,
       "name": "this is what falling in love feels like - R3HAB Remix",
       "url": "https://open.spotify.com/track/1oUisglJjlTLsSd9OFqSf2"
@@ -8621,6 +8951,32 @@
       "duration_ms": 220593,
       "name": "Turn Up The Sunshine - PNAU Remix / From 'Minions: The Rise of Gru' Soundtrack",
       "url": "https://open.spotify.com/track/3wR5OccDugBm5Od2NYcMaO"
+    },
+    {
+      "album": {
+        "name": "Unholy (feat. Kim Petras) [Disclosure Remix]",
+        "url": "https://open.spotify.com/album/1Ta4wnFWj2Ej3JheWSdjtj"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        },
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234411,
+      "name": "Unholy (feat. Kim Petras) - Disclosure Remix",
+      "url": "https://open.spotify.com/track/2Tl5fhF4itz5VeXHRVGIO5"
     },
     {
       "album": {
@@ -9181,7 +9537,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 175571,
       "name": "Words (feat. Zara Larsson) [Chapter & Verse Remix]",
       "url": "https://open.spotify.com/track/6hAx59PBAqqvZLIJWilJfV"

@@ -1406,6 +1406,44 @@
     },
     {
       "album": {
+        "name": "\u30d5\u30ec\u30c3\u30b8",
+        "url": "https://open.spotify.com/album/4u9TwUKkOBaXcSdbuH9v5o"
+      },
+      "artists": [
+        {
+          "name": "\u74b0\u3044\u308d\u306f(CV:\u9ebb\u5009\u3082\u3082)",
+          "url": "https://open.spotify.com/artist/1cy5uXN8y8i5NhrfuRSvsM"
+        },
+        {
+          "name": "\u4e03\u6d77\u3084\u3061\u3088(CV:\u96e8\u5bae\u5929)",
+          "url": "https://open.spotify.com/artist/2NF2LvyC20LrgbIM0JARpy"
+        },
+        {
+          "name": "\u7531\u6bd4\u9db4\u4e43(CV:\u590f\u5ddd\u690e\u83dc)",
+          "url": "https://open.spotify.com/artist/7z5VXPhnlZMQ2y9iAfVkmd"
+        },
+        {
+          "name": "\u6df1\u6708\u30d5\u30a7\u30ea\u30b7\u30a2(CV:\u4f50\u5009\u7dbe\u97f3)",
+          "url": "https://open.spotify.com/artist/72FEmm4aelN7tQ2avKDOoS"
+        },
+        {
+          "name": "\u4e8c\u8449\u3055\u306a(CV:\u5c0f\u5009\u552f)",
+          "url": "https://open.spotify.com/artist/60ItUsKo0ZXHE3SJIyJdFh"
+        },
+        {
+          "name": "\u74b0\u3046\u3044(CV:\u77f3\u898b\u821e\u83dc\u9999)",
+          "url": "https://open.spotify.com/artist/02Z2U8A10g1BYk8FuR4j5P"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249230,
+      "name": "\u30d5\u30ec\u30c3\u30b8",
+      "url": "https://open.spotify.com/track/07b3tcdgzUIcBeRJDPvsFu"
+    },
+    {
+      "album": {
         "name": "\u300c\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u300d Ultimate Best",
         "url": "https://open.spotify.com/album/6HbO9Uv1onX9RfLTQUrF8l"
       },

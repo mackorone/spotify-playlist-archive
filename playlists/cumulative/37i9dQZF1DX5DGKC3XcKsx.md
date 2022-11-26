@@ -4,7 +4,7 @@
 
 > Lo mejor del trap charrúa\. Foto: Falke 912 & Polimá Westcoast.
 
-102 songs - 5 hr 6 min - [published](https://open.spotify.com/playlist/50Jdwr74HQGEkk8eIxYJWl)
+103 songs - 5 hr 8 min - [published](https://open.spotify.com/playlist/50Jdwr74HQGEkk8eIxYJWl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [CARAS VEMOS \- Remix](https://open.spotify.com/track/45bDKqcXUgd7IVAvFYsTTe) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD), [Marconi Impara](https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Anonimus](https://open.spotify.com/artist/62lbdm09j0QUbWB7SqCJvt), [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX) | [CARAS VEMOS \(Remix\)](https://open.spotify.com/album/6YDlWZ01O0RboiJIOs00Tz) | 6:50 | 2021-09-10 |  |
 | [Caroline](https://open.spotify.com/track/1o8v3LDGP6bbwIxX8bwsvQ) | [Kloudy Koon](https://open.spotify.com/artist/5b1CYOC0HvTPzWSawMATPv), [Omory](https://open.spotify.com/artist/031F1klhvu2mPjqvCOB27f) | [Caroline](https://open.spotify.com/album/66khx8GiqWbnVzWlbXzVw6) | 2:29 | 2021-09-10 |  |
 | [Caruso](https://open.spotify.com/track/28tCRcgXZoujhWaQLj2i6a) | [Kloudy Koon](https://open.spotify.com/artist/5b1CYOC0HvTPzWSawMATPv) | [Caruso](https://open.spotify.com/album/4jOFyt3sHYRHxsc3RDhBEj) | 2:42 | 2021-09-10 |  |
+| [Coronado II](https://open.spotify.com/track/0Iu3Df8CfbwDnAEJtMIB7e) | [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD) | [Coronado II](https://open.spotify.com/album/6RzXqbM8rg41RvtkDOD9JS) | 2:31 | 2022-02-04 | 2022-11-13 |
 | [Coronado II](https://open.spotify.com/track/4qWRrGNTuWaE1fJuLCv4zN) | [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD) | [SIN PRONTUARIO](https://open.spotify.com/album/0JhThijVyy7mFSewn2Bkgx) | 2:31 | 2022-02-04 |  |
 | [Coronando II](https://open.spotify.com/track/1A0wvJ9TXnFLeo3gvPVXBK) | [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD) | [Coronando II](https://open.spotify.com/album/5aTTdmNK9v0CVvkMabs6sV) | 2:31 | 2021-09-10 | 2022-09-10 |
 | [Curado](https://open.spotify.com/track/3s3Da465rZm9rhGaxlAkZt) | [Zanto](https://open.spotify.com/artist/4z1EZw4oQOS65xBnx95O60) | [Curado](https://open.spotify.com/album/5OdV85nPdRmu2jqdHxys4e) | 2:50 | 2021-09-10 |  |

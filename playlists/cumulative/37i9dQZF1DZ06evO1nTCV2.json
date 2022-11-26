@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "Devolver",
+        "url": "https://open.spotify.com/album/1C5CVsW4oyntbxWjsd1e1h"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2022-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159002,
+      "name": "Alien USA",
+      "url": "https://open.spotify.com/track/1LjsfbacoQ73oRJ24YxiBh"
+    },
+    {
+      "album": {
         "name": "1989",
         "url": "https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA"
       },
@@ -55,7 +73,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": null,
       "duration_ms": 210240,
       "name": "All You Had To Do Was Stay",
       "url": "https://open.spotify.com/track/7Jw1V7CzU9xvVSEONbHOD3"
@@ -224,6 +242,24 @@
     },
     {
       "album": {
+        "name": "Devolver",
+        "url": "https://open.spotify.com/album/1C5CVsW4oyntbxWjsd1e1h"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2022-11-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-21",
+      "duration_ms": 111135,
+      "name": "Banging on My Head",
+      "url": "https://open.spotify.com/track/1bZyxl5uE0yEsq33JXPm4B"
+    },
+    {
+      "album": {
         "name": "Heartbreaker",
         "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
       },
@@ -325,7 +361,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": "2022-10-12",
       "duration_ms": 189403,
       "name": "Call Me on Your Way Back Home",
       "url": "https://open.spotify.com/track/6VOvaFEQ6juSEiFPCQp4E7"
@@ -379,7 +415,7 @@
       ],
       "date_added": "2022-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": null,
       "duration_ms": 290520,
       "name": "Come Home",
       "url": "https://open.spotify.com/track/1c7QlGCnOxQY0ToOezw9zS"
@@ -469,7 +505,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-07",
+      "date_removed": null,
       "duration_ms": 180640,
       "name": "Do Not Disturb",
       "url": "https://open.spotify.com/track/5a8eKLK3XvwrkgRXpchNAW"
@@ -487,7 +523,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": "2022-10-31",
       "duration_ms": 178826,
       "name": "Do You Feel",
       "url": "https://open.spotify.com/track/6TlUuvCkyP41YxAqHilHLt"
@@ -505,10 +541,28 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 239546,
       "name": "Do You Still Love Me?",
       "url": "https://open.spotify.com/track/0iHR4R5G3eMY595B4IvXfA"
+    },
+    {
+      "album": {
+        "name": "Devolver",
+        "url": "https://open.spotify.com/album/1C5CVsW4oyntbxWjsd1e1h"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2022-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174506,
+      "name": "Don't Give It Away",
+      "url": "https://open.spotify.com/track/2WcIA4eZB8iiQqHdOaeRuW"
     },
     {
       "album": {
@@ -577,7 +631,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-07",
       "duration_ms": 340666,
       "name": "English Girls Approximately",
       "url": "https://open.spotify.com/track/4z7UVZQQbF2QNT0jlyBLFg"
@@ -620,6 +674,24 @@
     },
     {
       "album": {
+        "name": "Devolver",
+        "url": "https://open.spotify.com/album/1C5CVsW4oyntbxWjsd1e1h"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194120,
+      "name": "Eyes on the Door",
+      "url": "https://open.spotify.com/track/2OWsyTqwcpdqcjlPN838pR"
+    },
+    {
+      "album": {
         "name": "FM",
         "url": "https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d"
       },
@@ -631,7 +703,7 @@
       ],
       "date_added": "2022-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 278666,
       "name": "Fairweather",
       "url": "https://open.spotify.com/track/6CiJ9RWyu7YlRioyrGLDZZ"
@@ -657,6 +729,24 @@
     {
       "album": {
         "name": "FM",
+        "url": "https://open.spotify.com/album/7rNMFgROobX4kniUvoqQrI"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201626,
+      "name": "Fantasy File",
+      "url": "https://open.spotify.com/track/1tDM7TUApY5zJh5FBvxryc"
+    },
+    {
+      "album": {
+        "name": "FM",
         "url": "https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d"
       },
       "artists": [
@@ -667,7 +757,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-10-28",
       "duration_ms": 201626,
       "name": "Fantasy File",
       "url": "https://open.spotify.com/track/5dSlrUiUVTPDAbH5GE0Gll"
@@ -710,6 +800,24 @@
     },
     {
       "album": {
+        "name": "Devolver",
+        "url": "https://open.spotify.com/album/1C5CVsW4oyntbxWjsd1e1h"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2022-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179880,
+      "name": "Free Your Self",
+      "url": "https://open.spotify.com/track/13P1ibb6Q290L4Z5gq55Ec"
+    },
+    {
+      "album": {
         "name": "Big Colors",
         "url": "https://open.spotify.com/album/2eDMavEOxrN2oqSZZrfwMl"
       },
@@ -739,7 +847,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": "2022-11-07",
       "duration_ms": 234893,
       "name": "Gimme Something Good",
       "url": "https://open.spotify.com/track/08aCW0RGOaR53En8g7e3HJ"
@@ -757,10 +865,28 @@
       ],
       "date_added": "2022-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 213373,
       "name": "Hall of Shame",
       "url": "https://open.spotify.com/track/1BdDHMSD1LtJ9fGCMee0D8"
+    },
+    {
+      "album": {
+        "name": "FM",
+        "url": "https://open.spotify.com/album/7rNMFgROobX4kniUvoqQrI"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213373,
+      "name": "Hall of Shame",
+      "url": "https://open.spotify.com/track/3jwnNTEjlyg6z1ctcxYWsV"
     },
     {
       "album": {
@@ -847,7 +973,7 @@
       ],
       "date_added": "2022-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 191226,
       "name": "I Can't Remember",
       "url": "https://open.spotify.com/track/23gqNeMwhNIDeO7ZJhe7ab"
@@ -919,7 +1045,7 @@
       ],
       "date_added": "2022-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 220576,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/2jBRUI4yW7UEw46etz02id"
@@ -955,7 +1081,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-10-13",
       "duration_ms": 224053,
       "name": "I Wish You Would",
       "url": "https://open.spotify.com/track/0Nb6EyYhGhH96rqSe4wmdy"
@@ -991,7 +1117,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 214586,
       "name": "I'm Sorry and I Love You",
       "url": "https://open.spotify.com/track/2fwAHp0tMsBedFwvR6h8RX"
@@ -1027,7 +1153,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 338923,
       "name": "In My Time of Need",
       "url": "https://open.spotify.com/track/4JIGrn55PH4BNnoofFKnYc"
@@ -1045,7 +1171,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-02",
+      "date_removed": "2022-10-17",
       "duration_ms": 214586,
       "name": "In the Blue of the Night",
       "url": "https://open.spotify.com/track/3p2ebzditSdXjW7uJjISyA"
@@ -1117,10 +1243,46 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 172706,
       "name": "Lookout",
       "url": "https://open.spotify.com/track/0USkDJMpEkFZLyPoYFP5XT"
+    },
+    {
+      "album": {
+        "name": "FM",
+        "url": "https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-28",
+      "duration_ms": 147893,
+      "name": "Love Me Don't",
+      "url": "https://open.spotify.com/track/3QWPzWOjko5dm8k0OHQxk8"
+    },
+    {
+      "album": {
+        "name": "FM",
+        "url": "https://open.spotify.com/album/7rNMFgROobX4kniUvoqQrI"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-07",
+      "duration_ms": 147893,
+      "name": "Love Me Don't",
+      "url": "https://open.spotify.com/track/7AohiL14D0ya3m3Gum7EA6"
     },
     {
       "album": {
@@ -1157,6 +1319,24 @@
       "duration_ms": 172253,
       "name": "Manchester",
       "url": "https://open.spotify.com/track/6aUOcMHx41SxhcC9pXGlNN"
+    },
+    {
+      "album": {
+        "name": "Devolver",
+        "url": "https://open.spotify.com/album/1C5CVsW4oyntbxWjsd1e1h"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2022-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163120,
+      "name": "Marquee",
+      "url": "https://open.spotify.com/track/0HSooMsgR1e7L5YCT2huxO"
     },
     {
       "album": {
@@ -1297,7 +1477,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-12",
+      "date_removed": null,
       "duration_ms": 151960,
       "name": "Oh My God, Whatever, Etc.",
       "url": "https://open.spotify.com/track/3o68rZVgCzV5ln4ug2RpUc"
@@ -1333,7 +1513,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 367386,
       "name": "Out Of The Woods",
       "url": "https://open.spotify.com/track/4kl5l7LzhTLOO3RoUJ59ei"
@@ -1351,7 +1531,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 261065,
       "name": "Outbound Train",
       "url": "https://open.spotify.com/track/6eGBTRiVkcrSHDr5S4Xf4T"
@@ -1441,10 +1621,28 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 222973,
       "name": "Romeo & Juliet",
       "url": "https://open.spotify.com/track/73jnBpdPr7JcvXrRgRuN19"
+    },
+    {
+      "album": {
+        "name": "Romeo & Juliet",
+        "url": "https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-07",
+      "duration_ms": 217693,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/3Tsa7IQlaD0WDGMEE4DaCD"
     },
     {
       "album": {
@@ -1521,6 +1719,24 @@
     {
       "album": {
         "name": "FM",
+        "url": "https://open.spotify.com/album/7rNMFgROobX4kniUvoqQrI"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174480,
+      "name": "So Dumb",
+      "url": "https://open.spotify.com/track/0m5ISodD9A6WI7Wjtpf595"
+    },
+    {
+      "album": {
+        "name": "FM",
         "url": "https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d"
       },
       "artists": [
@@ -1531,7 +1747,7 @@
       ],
       "date_added": "2022-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-05",
+      "date_removed": "2022-10-31",
       "duration_ms": 174480,
       "name": "So Dumb",
       "url": "https://open.spotify.com/track/7az6ZEVsbsD9gwIo4VNLsI"
@@ -1549,7 +1765,7 @@
       ],
       "date_added": "2022-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 189880,
       "name": "Someday",
       "url": "https://open.spotify.com/track/5cDkShsp5scmWw4gc2z3lX"
@@ -1567,7 +1783,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-10-13",
       "duration_ms": 137133,
       "name": "Somethings Missing",
       "url": "https://open.spotify.com/track/0VbtIu7vYixBGAfh8GxzRv"
@@ -1585,10 +1801,28 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 158226,
       "name": "Spinning Wheel",
       "url": "https://open.spotify.com/track/1xVQRTGM6LQJ0Ft9NIohrT"
+    },
+    {
+      "album": {
+        "name": "Devolver",
+        "url": "https://open.spotify.com/album/1C5CVsW4oyntbxWjsd1e1h"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2022-11-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-11",
+      "duration_ms": 164480,
+      "name": "Stare at the TV",
+      "url": "https://open.spotify.com/track/6MlCbqN85iGl4AIJTAQLSD"
     },
     {
       "album": {
@@ -1603,7 +1837,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": "2022-10-13",
       "duration_ms": 186253,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/58Zr6jYL2DAeKhvq40Rzcb"
@@ -1639,7 +1873,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 164466,
       "name": "Style",
       "url": "https://open.spotify.com/track/4HRcQ151h3D8lZFvDMgObi"
@@ -1693,7 +1927,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 187120,
       "name": "Take It Back",
       "url": "https://open.spotify.com/track/2t9Jfb0QjeUdJcNpzwCVdT"
@@ -1711,7 +1945,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-07",
       "duration_ms": 218400,
       "name": "The Rescue Blues",
       "url": "https://open.spotify.com/track/3FiVlyfywz3RDC3BHT3eco"
@@ -1747,7 +1981,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 318586,
       "name": "The Shadowlands",
       "url": "https://open.spotify.com/track/2uW4Jr8JOkYtpfQwG5YXcj"
@@ -1765,7 +1999,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 233653,
       "name": "This House Is Not For Sale",
       "url": "https://open.spotify.com/track/67ftTHCuUcUt5DlNO3dUQR"
@@ -1787,6 +2021,24 @@
       "duration_ms": 125386,
       "name": "This Is Your House",
       "url": "https://open.spotify.com/track/3pzm9zJZsfVTwuI04CCEJ1"
+    },
+    {
+      "album": {
+        "name": "1989",
+        "url": "https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-07",
+      "duration_ms": 285693,
+      "name": "This Love",
+      "url": "https://open.spotify.com/track/2VUgv1IEwEcTIBs8SI4DPH"
     },
     {
       "album": {
@@ -1841,6 +2093,24 @@
       "duration_ms": 184671,
       "name": "To Be Young (Is to Be Sad, Is to Be High)",
       "url": "https://open.spotify.com/track/0aLk2Za7r0eGlLOepW2hzL"
+    },
+    {
+      "album": {
+        "name": "Devolver",
+        "url": "https://open.spotify.com/album/1C5CVsW4oyntbxWjsd1e1h"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2022-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188200,
+      "name": "Too Bored to Run",
+      "url": "https://open.spotify.com/track/0t3eB48w37aqTPB7aGhlia"
     },
     {
       "album": {
@@ -1935,6 +2205,24 @@
     {
       "album": {
         "name": "FM",
+        "url": "https://open.spotify.com/album/7rNMFgROobX4kniUvoqQrI"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161200,
+      "name": "When She Smiles",
+      "url": "https://open.spotify.com/track/5FH7xahRUc3FmbEWkED0BR"
+    },
+    {
+      "album": {
+        "name": "FM",
         "url": "https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d"
       },
       "artists": [
@@ -1945,7 +2233,7 @@
       ],
       "date_added": "2022-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 161200,
       "name": "When She Smiles",
       "url": "https://open.spotify.com/track/5W7x9V7Jh2Wd4rXZfqvltN"
@@ -1981,7 +2269,7 @@
       ],
       "date_added": "2022-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 218363,
       "name": "Why Do They Leave?",
       "url": "https://open.spotify.com/track/69ssbOW3LgQnLE62Z4FNrO"
@@ -1999,7 +2287,7 @@
       ],
       "date_added": "2022-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 175466,
       "name": "Wild and Hopeless",
       "url": "https://open.spotify.com/track/6xlSShT4sz2vBzrYQ1lZR0"

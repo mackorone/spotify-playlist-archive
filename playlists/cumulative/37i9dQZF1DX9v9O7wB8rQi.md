@@ -4,7 +4,7 @@
 
 > Music from "GHOST IN THE SHELL SAC\_2045" and "ARISE" series has arrived!/「攻殻機動隊」シリーズを彩る音楽をひとつのプレイリストに。©S,IG/K/2045
 
-59 songs - 4 hr 24 min - [published](https://open.spotify.com/playlist/5MQzfJEuUTvFJoeVTczwMK)
+60 songs - 4 hr 29 min - [published](https://open.spotify.com/playlist/5MQzfJEuUTvFJoeVTczwMK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Find Me](https://open.spotify.com/track/4cwx8YaroNmMoKnkVGjgnj) | [Caroline Lufkin](https://open.spotify.com/artist/2EB4jjnHLbseUIINQMmtjm) | [攻殻機動隊 SAC\_2045 ORIGINAL SOUNDTRACK 2](https://open.spotify.com/album/6grVWZopVKS4GBqROrcL7Q) | 4:40 | 2022-06-21 | 2022-07-29 |
 | [Find Me](https://open.spotify.com/track/6ep9mBzPx0M61vGIWP3itb) | [Caroline Lufkin](https://open.spotify.com/artist/2EB4jjnHLbseUIINQMmtjm) | [GHOST IN THE SHELL: SAC\_2045 ORIGINAL SOUNDTRACK 2](https://open.spotify.com/album/1hTHAKwyNcfv16lqpTpL2L) | 4:40 | 2022-06-21 |  |
 | [Find Me](https://open.spotify.com/track/07Gs13j6kLpHa8kp9rgfat) | [Caroline Lufkin](https://open.spotify.com/artist/2EB4jjnHLbseUIINQMmtjm) | [攻殻機動隊 SAC\_2045 ORIGINAL SOUNDTRACK 2 \- Single](https://open.spotify.com/album/2ZYDycSlBmyuy5rWYMqQIZ) | 4:40 | 2022-05-31 | 2022-06-22 |
+| [Find Me](https://open.spotify.com/track/6X2wqgEAmbsVmvV1bCdyF5) | [Caroline Lufkin](https://open.spotify.com/artist/2EB4jjnHLbseUIINQMmtjm) | [GHOST IN THE SHELL: SAC\_2045 ORIGINAL SOUNDTRACK 2 \- Single](https://open.spotify.com/album/3jy5MUf8SJ5mFdYv2eLrVy) | 4:40 | 2022-06-21 | 2022-11-13 |
 | [flashback memory plug](https://open.spotify.com/track/7qgQ7mACjleBHbsPchKBcU) | [Origa](https://open.spotify.com/artist/08pXfHf1e4hLeDz1BgmOqL), [benedict Delmaestro](https://open.spotify.com/artist/5wLsCJYZy1re3sai21VJZj) | [攻殻機動隊 STAND ALONE COMPLEX O.S.T.3](https://open.spotify.com/album/6LV6Mk6uHLvj4lKfYPjtsI) | 1:06 | 2022-05-31 |  |
 | [Fly with me](https://open.spotify.com/track/71vmt0KizGHsixCbMpHlhV) | [millennium parade × ghost in the shell: SAC\_2045](https://open.spotify.com/artist/4TrqOjik4odYGs0pJpZwVw), [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [Fly with me](https://open.spotify.com/album/1i00ESFv1vED85s1GtgQjS) | 4:37 | 2022-05-31 |  |
 | [from the roof top\~somewhere in the silence\[sniper's theme\]](https://open.spotify.com/track/6kdRP3yx2g2CHNcpepXm2U) | [Ilaria Graziano](https://open.spotify.com/artist/57WViMLL9KfooFkVKsyODr) | [攻殻機動隊 S.A.C\. Solid State Society O.S.T.](https://open.spotify.com/album/4FLVYdG4mlaydxbg9ItTyH) | 6:31 | 2022-05-31 |  |

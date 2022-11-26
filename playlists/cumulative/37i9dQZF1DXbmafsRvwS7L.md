@@ -4,7 +4,7 @@
 
 > Curated by the biggest stars of the 2021 NFL Draft celebrating their journey to Draft Night!
 
-33 songs - 1 hr 51 min - [published](https://open.spotify.com/playlist/657RzdsW1QREO5aROv3wZw)
+36 songs - 2 hr 1 min - [published](https://open.spotify.com/playlist/657RzdsW1QREO5aROv3wZw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,9 @@
 | [Gangstas](https://open.spotify.com/track/765fiRGlmsVAoYHXHeCWtu) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Shoot For The Stars Aim For The Moon \(Deluxe\)](https://open.spotify.com/album/45HGJedVnKuOXNFW8fVuDz) | 2:40 | 2021-04-29 |  |
 | [La Familia](https://open.spotify.com/track/1Jz9nO8LaaZAwbRClmkL7r) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Magna Carta..\. Holy Grail](https://open.spotify.com/album/0kSJLkOtFwJoVbZu5C2BRV) | 3:33 | 2021-04-29 |  |
 | [Man Of The Year](https://open.spotify.com/track/6Mo0rLbLNOzEFud0FuPJsm) | [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg) | [Under Investigation 2](https://open.spotify.com/album/4qmS3J4ECCCnz5eL2K9qrz) | 2:22 | 2021-04-29 |  |
-| [One Thing Leads To Another](https://open.spotify.com/track/5B37ocpk2zxeZL1lq5F6ui) | [The Fixx](https://open.spotify.com/artist/53RkHTcl0SJZjpzqogkBf4) | [Reach The Beach](https://open.spotify.com/album/4TDnrqNEikAzVhYj948Iox) | 3:19 | 2021-04-29 |  |
+| [One Thing Leads To Another](https://open.spotify.com/track/5B37ocpk2zxeZL1lq5F6ui) | [The Fixx](https://open.spotify.com/artist/53RkHTcl0SJZjpzqogkBf4) | [Reach The Beach](https://open.spotify.com/album/4TDnrqNEikAzVhYj948Iox) | 3:19 | 2021-04-29 | 2022-10-25 |
+| [One Thing Leads To Another](https://open.spotify.com/track/7K2vBONood2DXL8FXJl0qo) | [The Fixx](https://open.spotify.com/artist/53RkHTcl0SJZjpzqogkBf4) | [New Year's 80's Party](https://open.spotify.com/album/5RkJYICBkgoE539OSLKyWI) | 3:19 | 2021-04-29 | 2022-11-13 |
+| [One Thing Leads To Another](https://open.spotify.com/track/2d1NMaw8arIU2Fy4BnWqLs) | [The Fixx](https://open.spotify.com/artist/53RkHTcl0SJZjpzqogkBf4) | [20th Century Masters: The Millennium Collection: Best Of The '80s](https://open.spotify.com/album/5SaMVD3JhB3JU9A66Xwj0E) | 3:25 | 2021-04-29 |  |
 | [Rags2Riches 2 \(feat\. Lil Baby\)](https://open.spotify.com/track/4QXGLydgxkEP1FTQK4Y7C5) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Pray 4 Love \(Deluxe\)](https://open.spotify.com/album/7KIxcE8dxoAgia4OClu4pr) | 3:55 | 2021-04-29 |  |
 | [Rags2Riches 2 \(feat\. Lil Baby\)](https://open.spotify.com/track/7FfE3EbXRA7RxKQguCVvLB) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Pray 4 Love \(Deluxe\)](https://open.spotify.com/album/75i4VQF1uBWnyTiXYELSiU) | 3:55 | 2021-04-29 | 2022-07-29 |
 | [Return of the Mack](https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9) | [Mark Morrison](https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9) | [Return of the Mack](https://open.spotify.com/album/6plavTFCGXv5vpy0jZVtOV) | 3:33 | 2021-04-29 |  |
@@ -37,6 +39,7 @@
 | [STREET SWEEPER \(feat\. Future\)](https://open.spotify.com/track/6FccIKUJRJefzuUQmWWn56) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [WUNNA \(Deluxe\)](https://open.spotify.com/album/0s5cfxWXH7ahE2LtJNy6jj) | 3:12 | 2021-04-29 |  |
 | [Supersoaker](https://open.spotify.com/track/4cQIbDqCZrHknxlDUjRHZ0) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Mechanical Bull \(Expanded Edition\)](https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v) | 3:50 | 2021-04-29 |  |
 | [The Believer \- feat\. John Legend](https://open.spotify.com/track/6QtpJNlCfA091GmD2ALNri) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [The Dreamer, The Believer](https://open.spotify.com/album/17eQeA5m7DpsZ42mUAGjgG) | 3:43 | 2021-04-29 |  |
+| [Thug Motivation](https://open.spotify.com/track/1LuiI7oWX7u0uBJCfumC0j) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Pray 4 Love \(Deluxe\)](https://open.spotify.com/album/7KIxcE8dxoAgia4OClu4pr) | 2:53 | 2021-04-29 | 2022-11-13 |
 | [Thug Motivation](https://open.spotify.com/track/4K18dBorn71LYXSQLCgqYc) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Pray 4 Love](https://open.spotify.com/album/4PocDl8UW41nVHOUntALFu) | 2:53 | 2021-04-29 |  |
 | [Thug Motivation](https://open.spotify.com/track/0hv8JRCeRkKI6sRMlJYUlp) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Pray 4 Love \(Deluxe\)](https://open.spotify.com/album/75i4VQF1uBWnyTiXYELSiU) | 2:53 | 2021-04-29 | 2022-07-29 |
 | [Trains \(with Lil Keed\)](https://open.spotify.com/track/6fE1d6pUMNJQvXw84Ok1W1) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29) | [Emergency Tsunami \(Bonus Version\)](https://open.spotify.com/album/3aMMFb7DaFT06VfavwhrPi) | 2:51 | 2021-04-29 |  |

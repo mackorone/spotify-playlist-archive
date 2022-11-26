@@ -236,6 +236,46 @@
     },
     {
       "album": {
+        "name": "The Best Of Victor Uwaifo, Vol. 1",
+        "url": "https://open.spotify.com/album/6J90hIcZh9EsJZmQa1YfLD"
+      },
+      "artists": [
+        {
+          "name": "Sir Victor Uwaifo",
+          "url": "https://open.spotify.com/artist/2hCi6vXJyyTG9szd63b4LU"
+        },
+        {
+          "name": "His Titibitis",
+          "url": "https://open.spotify.com/artist/76SmGMAqB730ySrA79c6hm"
+        }
+      ],
+      "date_added": "2019-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 353106,
+      "name": "Guitar Boy",
+      "url": "https://open.spotify.com/track/2Sj8A8FS3wiv0B5pIFklg9"
+    },
+    {
+      "album": {
+        "name": "Happy Birthday",
+        "url": "https://open.spotify.com/album/02FKQ2rc5f7XmB03EcFN4m"
+      },
+      "artists": [
+        {
+          "name": "Evi-Edna Ogholi",
+          "url": "https://open.spotify.com/artist/0anRNdIauPbIhAdygRLJVL"
+        }
+      ],
+      "date_added": "2019-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 339386,
+      "name": "Happy Birthday",
+      "url": "https://open.spotify.com/track/6GkCK4jJhwQDOnGKXxmvmN"
+    },
+    {
+      "album": {
         "name": "Afro Tropical Soundz, Vol. 1",
         "url": "https://open.spotify.com/album/65bFwgGVr8WOlERe4kt5Gz"
       },
@@ -355,7 +395,7 @@
       ],
       "date_added": "2019-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-04",
+      "date_removed": "2022-11-13",
       "duration_ms": 428800,
       "name": "Ja Funmi",
       "url": "https://open.spotify.com/track/7LLyEy0GVYBpziR5O06ZZv"
@@ -457,12 +497,12 @@
       },
       "artists": [
         {
-          "name": ")zzidi",
-          "url": "https://open.spotify.com/artist/2ubZia1eKGp2eiMIEAJ36C"
-        },
-        {
           "name": "Sonny Okosun",
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        },
+        {
+          "name": ")zzidi",
+          "url": "https://open.spotify.com/artist/2ubZia1eKGp2eiMIEAJ36C"
         }
       ],
       "date_added": "2019-06-28",
@@ -547,10 +587,28 @@
       ],
       "date_added": "2019-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 210613,
       "name": "Nkosi Sikelel' iAfrika (Shosholoza Mix)",
       "url": "https://open.spotify.com/track/0iB3VQaspXWa6ckESoxORk"
+    },
+    {
+      "album": {
+        "name": "Africa in Harmony: 50th Anniversary Edition",
+        "url": "https://open.spotify.com/album/7E9IY8XpEVPycKNk5egsfF"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "date_added": "2019-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210613,
+      "name": "Nkosi Sikelel' iAfrika (Shosholoza Mix)",
+      "url": "https://open.spotify.com/track/2twGhMExp2xH9ZF3gYl9ZT"
     },
     {
       "album": {
@@ -637,7 +695,7 @@
       ],
       "date_added": "2020-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 199600,
       "name": "Pennywhistle",
       "url": "https://open.spotify.com/track/04yCgVlNyAH05LsS646Nv4"
@@ -659,6 +717,24 @@
       "duration_ms": 199600,
       "name": "Pennywhistle",
       "url": "https://open.spotify.com/track/31TjeXsbZmwBbJqhwn6YG7"
+    },
+    {
+      "album": {
+        "name": "Mango Groove",
+        "url": "https://open.spotify.com/album/0wv0MS5ETAzzzZdcsIBPBl"
+      },
+      "artists": [
+        {
+          "name": "Mango Groove",
+          "url": "https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J"
+        }
+      ],
+      "date_added": "2020-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199600,
+      "name": "Pennywhistle",
+      "url": "https://open.spotify.com/track/41AdJM1SO2O2gTXz9QXv9P"
     },
     {
       "album": {
@@ -691,7 +767,7 @@
       ],
       "date_added": "2019-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-27",
+      "date_removed": "2022-11-13",
       "duration_ms": 235799,
       "name": "Say I Love You",
       "url": "https://open.spotify.com/track/6NkDS793oPRpIAjrAsKNAa"
@@ -735,6 +811,24 @@
       "duration_ms": 351746,
       "name": "Shibobo / The Final Countdown",
       "url": "https://open.spotify.com/track/0lOovqOHYJdnfsjEDmvz4h"
+    },
+    {
+      "album": {
+        "name": "Shinamania",
+        "url": "https://open.spotify.com/album/2Uo7xDKVdBUZ1VuUtAcQdk"
+      },
+      "artists": [
+        {
+          "name": "Sir Shina Peters",
+          "url": "https://open.spotify.com/artist/774XinAuSJ5UAid0N6BNrV"
+        }
+      ],
+      "date_added": "2019-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 1002906,
+      "name": "Shinamania, Pt. 1",
+      "url": "https://open.spotify.com/track/3pFVnwh9vK7pUSiA2ZRlub"
     },
     {
       "album": {
@@ -785,10 +879,28 @@
       ],
       "date_added": "2020-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 353266,
       "name": "Special Star",
       "url": "https://open.spotify.com/track/549xBLH0dGz2e2jDultQQH"
+    },
+    {
+      "album": {
+        "name": "Mango Groove",
+        "url": "https://open.spotify.com/album/0wv0MS5ETAzzzZdcsIBPBl"
+      },
+      "artists": [
+        {
+          "name": "Mango Groove",
+          "url": "https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J"
+        }
+      ],
+      "date_added": "2020-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353266,
+      "name": "Special Star",
+      "url": "https://open.spotify.com/track/5mxIhvGxDJ56wxOQnDNHnt"
     },
     {
       "album": {
@@ -803,7 +915,7 @@
       ],
       "date_added": "2019-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-11-13",
       "duration_ms": 331653,
       "name": "Sugar Cnane Baby",
       "url": "https://open.spotify.com/track/5kFPItOjyYqGrNnqsROU42"
@@ -828,6 +940,24 @@
     },
     {
       "album": {
+        "name": "Ojah Awake",
+        "url": "https://open.spotify.com/album/6bHGRYoRt21wn95Dlz4YSU"
+      },
+      "artists": [
+        {
+          "name": "Osibisa",
+          "url": "https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o"
+        }
+      ],
+      "date_added": "2019-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-15",
+      "duration_ms": 224706,
+      "name": "The Warrior",
+      "url": "https://open.spotify.com/track/1xjSFzaiaA1XCMyvq5fJKl"
+    },
+    {
+      "album": {
         "name": "Obi Ate Meso Buo",
         "url": "https://open.spotify.com/album/0R50BVSdGAr8Tj9R8JFuF7"
       },
@@ -843,6 +973,24 @@
       "duration_ms": 339253,
       "name": "Theresa",
       "url": "https://open.spotify.com/track/4dqtM8dvFvK7GWE1bjDYI4"
+    },
+    {
+      "album": {
+        "name": "3rd World",
+        "url": "https://open.spotify.com/album/5OaZVrFg7EniD0OoPY88fE"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2019-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 501133,
+      "name": "Tire Ni Oluwa",
+      "url": "https://open.spotify.com/track/5uHK9zXW1KGWnw9fRYLyq0"
     },
     {
       "album": {

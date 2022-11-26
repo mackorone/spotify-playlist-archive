@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1DwkjCqoyw.md) - [plain]
 
 > Shenseea bringing you massive island vibes for her Island Pop takeover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,616 likes - 36 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,053 likes - 36 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rain \(with Skillibeng\)](https://open.spotify.com/track/4gaYeHM8MrcqHU2Niw6JQc) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Rain \(with Skillibeng\)](https://open.spotify.com/album/5qSPrxazqXme2S1u8HsOv4) | 1:50 |
-| 2 | [Code](https://open.spotify.com/track/4pB6P5F2IA0JjhnoKQX4wm) | [Brysco](https://open.spotify.com/artist/1W07QMxZ9se7fIk2YSrx4h) | [Code](https://open.spotify.com/album/111hqZzRoiw6ETNK0hhFsc) | 2:32 |
+| 2 | [Code](https://open.spotify.com/track/4pB6P5F2IA0JjhnoKQX4wm) | [Brysco](https://open.spotify.com/artist/6IUtN4Ejh27VhUovFiKUa5) | [Code](https://open.spotify.com/album/111hqZzRoiw6ETNK0hhFsc) | 2:32 |
 | 3 | [Bwoii Affi" Watch Eh Style](https://open.spotify.com/track/15ycokwnZsMhDyORHASWBX) | [1Biggs Don](https://open.spotify.com/artist/6NuqWCp8VQhokoHpiUY1mS) | [Bwoii Affi" Watch Eh Style](https://open.spotify.com/album/27oCbeiS8ucXWePBqoXxor) | 2:25 |
 | 4 | [Likkle Miss](https://open.spotify.com/track/7vqvgXQ94BBiTtfzf6w7Nh) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [Likkle Miss](https://open.spotify.com/album/4TJXGCegYt88zuBS88XYMk) | 2:14 |
 | 5 | [Can't Anymore](https://open.spotify.com/track/6zrZ7mVcznNd2Q6qB0iBrq) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [ALPHA](https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq) | 2:35 |
@@ -31,13 +31,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1DwkjCqoyw.md) - [plain]
 | 21 | [Pain](https://open.spotify.com/track/6ULweuw2Nah5Ha0F6zrBei) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [438](https://open.spotify.com/album/2r6KgjOP2h2QNxMHxjFlRA) | 3:27 |
 | 22 | [Toni\-Ann Singh \(feat\. Popcaan\)](https://open.spotify.com/track/4bUe0OUcwdu85AMBkZzYFg) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:55 |
 | 23 | [Dolly](https://open.spotify.com/track/6s4QPMUt2zPoiFb9pjvdZi) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Dolly](https://open.spotify.com/album/7FRco0qMlKJIG6zCWKunqD) | 2:16 |
-| 24 | [10TH FLOOR](https://open.spotify.com/track/75kpqzf1KraZMAWWOefNvI) | [Brysco](https://open.spotify.com/artist/1W07QMxZ9se7fIk2YSrx4h) | [10TH FLOOR](https://open.spotify.com/album/7Kggx6XJzGumN4ojjBYyWp) | 2:14 |
-| 25 | [Protocol](https://open.spotify.com/track/1tn87Abu4ZTptxvpp6Zd8V) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7), [Tommy Lee Sparta](https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh) | [Protocol](https://open.spotify.com/album/2dXHrlSfG2Lp5OOtd5J73q) | 3:19 |
-| 26 | [Still A Bleed](https://open.spotify.com/track/79fwXVlKbDYOmU5AuzaJnq) | [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w) | [Still A Bleed](https://open.spotify.com/album/4RUXFvq2eEoSYFmuhYl4wM) | 3:36 |
+| 24 | [10TH FLOOR](https://open.spotify.com/track/75kpqzf1KraZMAWWOefNvI) | [Brysco](https://open.spotify.com/artist/6IUtN4Ejh27VhUovFiKUa5) | [10TH FLOOR](https://open.spotify.com/album/7Kggx6XJzGumN4ojjBYyWp) | 2:14 |
+| 25 | [Protocol](https://open.spotify.com/track/5SqaYcPSRGSg7ZzT7aLzcK) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7), [Tommy Lee Sparta](https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh) | [Protocol](https://open.spotify.com/album/6fFf508XCDkYrYVU8gZGLD) | 3:19 |
+| 26 | [Still a Bleed](https://open.spotify.com/track/34uBKj0bzsVkI70I8Xvpab) | [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w) | [Still a Bleed](https://open.spotify.com/album/7yXsnGPX5pmfHxvoEDMyuG) | 3:36 |
 | 27 | [Basic](https://open.spotify.com/track/2gwn11k39NLZUCwVbcTrjq) | [Jah Vinci](https://open.spotify.com/artist/0mkixmQkcUeE6egKHW4ojh) | [I Am the World Singer](https://open.spotify.com/album/5wYDLzTry6j0sAPjZ96p6G) | 3:12 |
 | 28 | [WiFi](https://open.spotify.com/track/6ocqnSUAMMskrP3yDQdGxZ) | [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY), [Drumma Boy](https://open.spotify.com/artist/1WypSuVRK0PMIKXvoDLvxh) | [WiFi](https://open.spotify.com/album/0cu7nhBxjz3zkWVeevp1i8) | 3:33 |
 | 29 | [Whap Whap \(feat\. F.S.\)](https://open.spotify.com/track/47MwPx7nbFUD5IGVhL38Zr) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [F.S.](https://open.spotify.com/artist/0KR0MgITEQAm0sLRrcuExN) | [Whap Whap \(feat\. F.S.\)](https://open.spotify.com/album/1NR77oknzl4KJylIBuhvvu) | 3:01 |
-| 30 | [Crocodile Teeth](https://open.spotify.com/track/3qi98GCs3sbvbAJugWmdQY) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Crocodile Teeth](https://open.spotify.com/album/4UG4l6GtGle8m7zbwinjBH) | 2:46 |
+| 30 | [Crocodile Teeth](https://open.spotify.com/track/2QXv4NKNCuqCDmOTwcOjrN) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Crocodile Teeth](https://open.spotify.com/album/3f1oDLHky5itUghicXgwjg) | 2:46 |
 | 31 | [Mind My Business](https://open.spotify.com/track/28Nm0rgLcn4OUQTocqoDZO) | [Travis World](https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd), [Dan Evens](https://open.spotify.com/artist/5ZbHn0BqI2WtNqto3qUpzK), [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [Mind My Business](https://open.spotify.com/album/2e1bm04icZGHLmDKvGBqvY) | 1:59 |
 | 32 | [Last Last](https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Last Last](https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe) | 2:52 |
 | 33 | [Finesse](https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1) | 2:35 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1DwkjCqoyw.md) - [plain]
 | 35 | [Dark Room](https://open.spotify.com/track/5zD3d3m97Ferk4pgkUPEmb) | [Shane O](https://open.spotify.com/artist/3ZOaLn1Bn5j7Cb7fC2BLzF) | [Dark Room](https://open.spotify.com/album/5YIVlPFxJJq4xZhDUzd8Eb) | 3:13 |
 | 36 | [Vibes](https://open.spotify.com/track/1UWGmcBgQZH9govYtUoM4E) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [Vibes](https://open.spotify.com/album/5poktJ27bJeOOZkaKZ1ziN) | 2:28 |
 
-Snapshot ID: `MTY2MDg2NDA4OCwwMDAwMDAwMGY0NjE4MWVkYzM0ZTcwYTI5ODM1MTVjMjQwZTU3NTM3`
+Snapshot ID: `MTY2MDg2NDA4OCwwMDAwMDAwMDVkYzNjZTk4MTk2Nzg1NGVlNWYxMGIyM2ZhODM0ZTVm`

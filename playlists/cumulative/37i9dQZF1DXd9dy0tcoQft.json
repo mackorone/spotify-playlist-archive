@@ -62,6 +62,42 @@
     },
     {
       "album": {
+        "name": "Rearview Paradise",
+        "url": "https://open.spotify.com/album/0Q6UU1umlBC8FRK91jJVkg"
+      },
+      "artists": [
+        {
+          "name": "J\u00fan\u00edus Meyvant",
+          "url": "https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257239,
+      "name": "Ain't Gonna Let You Drown",
+      "url": "https://open.spotify.com/track/44qiPcV2qOWxlIYpD0Xnha"
+    },
+    {
+      "album": {
+        "name": "Ain't Gonna Let You Drown",
+        "url": "https://open.spotify.com/album/7IqLkJNfLjylpNdzKNlq3l"
+      },
+      "artists": [
+        {
+          "name": "J\u00fan\u00edus Meyvant",
+          "url": "https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
+      "duration_ms": 257239,
+      "name": "Ain't Gonna Let You Drown",
+      "url": "https://open.spotify.com/track/5hKq2P5ZXxwqvQF2oZI07Z"
+    },
+    {
+      "album": {
         "name": "Ain't Gonna Let You Drown",
         "url": "https://open.spotify.com/album/5r7wkL2bFu44UQYzWCeoND"
       },
@@ -91,10 +127,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 228473,
       "name": "Alibi",
       "url": "https://open.spotify.com/track/7A9aASmJF3GtnBBri3Km23"
+    },
+    {
+      "album": {
+        "name": "Come Around EP",
+        "url": "https://open.spotify.com/album/4cZaBbl9MF60k5194gGbiR"
+      },
+      "artists": [
+        {
+          "name": "Jordan Mackampa",
+          "url": "https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228473,
+      "name": "Alibi",
+      "url": "https://open.spotify.com/track/7gdMJKZDKsDzGPfvbOFyjy"
     },
     {
       "album": {
@@ -286,6 +340,24 @@
     },
     {
       "album": {
+        "name": "Summer Jams",
+        "url": "https://open.spotify.com/album/5suXtW25RKvzDxAt6zVHQ3"
+      },
+      "artists": [
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 236640,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/3BLVjB3AAzLiQ34OTLQXQu"
+    },
+    {
+      "album": {
         "name": "Bittersweet (Radio Edit)",
         "url": "https://open.spotify.com/album/6zqOLPAQagrbNJCd10MiST"
       },
@@ -315,10 +387,28 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 210226,
       "name": "BRB",
       "url": "https://open.spotify.com/track/1KN2z32nlbkmh0I8XXlNWD"
+    },
+    {
+      "album": {
+        "name": "Soul Revolution",
+        "url": "https://open.spotify.com/album/4qF4sSfF0dHMUdTkqF5yn8"
+      },
+      "artists": [
+        {
+          "name": "Steffen Morrison",
+          "url": "https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203880,
+      "name": "Can't Stop Loving (What Your Heart Still Loves)",
+      "url": "https://open.spotify.com/track/6BRmMYY82M8kOcwgjvpiu9"
     },
     {
       "album": {
@@ -435,6 +525,24 @@
     {
       "album": {
         "name": "Somewhere In-Between",
+        "url": "https://open.spotify.com/album/2ZM9VkZ1rsJsKgwW1V99Ju"
+      },
+      "artists": [
+        {
+          "name": "Eloise",
+          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-19",
+      "duration_ms": 176706,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/0hB3Ht06fhqwX8YHKk6Jrp"
+    },
+    {
+      "album": {
+        "name": "Somewhere In-Between",
         "url": "https://open.spotify.com/album/6rV900qbJeP9I3QwrZMfsO"
       },
       "artists": [
@@ -445,7 +553,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 176706,
       "name": "Enough",
       "url": "https://open.spotify.com/track/1CQlDfBet6ji4BT8EkrvY6"
@@ -503,10 +611,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 238612,
       "name": "Flesh and Blood",
       "url": "https://open.spotify.com/track/3ApDLA7FGUlDc7rNM4bzkb"
+    },
+    {
+      "album": {
+        "name": "Dream in Colour",
+        "url": "https://open.spotify.com/album/3TaQ5k2QKdRly0pjMPZF6e"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238612,
+      "name": "Flesh and Blood",
+      "url": "https://open.spotify.com/track/6lZ4wuGYV4S1qgeiqgsxCo"
     },
     {
       "album": {
@@ -565,6 +691,42 @@
     {
       "album": {
         "name": "Grow",
+        "url": "https://open.spotify.com/album/2FILCanKdwXZQh4yz9Zvw1"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 180523,
+      "name": "Grow",
+      "url": "https://open.spotify.com/track/2EP9mL8wwfq1RJ7oYkndCe"
+    },
+    {
+      "album": {
+        "name": "Untidy Soul",
+        "url": "https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180523,
+      "name": "Grow",
+      "url": "https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA"
+    },
+    {
+      "album": {
+        "name": "Grow",
         "url": "https://open.spotify.com/album/3wzVULwHGvLkwiDdTMGQMZ"
       },
       "artists": [
@@ -575,7 +737,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 180523,
       "name": "Grow",
       "url": "https://open.spotify.com/track/3jPd7hIM0feCje8ZbVu6en"
@@ -734,6 +896,24 @@
     },
     {
       "album": {
+        "name": "In The Air",
+        "url": "https://open.spotify.com/album/22zzg2utRkL1lzI4eqBU4F"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 252680,
+      "name": "In the Air",
+      "url": "https://open.spotify.com/track/3C9anTHvsJrenLNTq7UXvk"
+    },
+    {
+      "album": {
         "name": "L.A.B III",
         "url": "https://open.spotify.com/album/5FkhVnR6DLz7ARqioHUwpc"
       },
@@ -821,7 +1001,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 204173,
       "name": "It Ain't Easy",
       "url": "https://open.spotify.com/track/0sWfdO70PRIzqpX2swtFNy"
@@ -843,7 +1023,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 205784,
       "name": "Killing Me",
       "url": "https://open.spotify.com/track/7B76OJ0ExVlSkDh1xelvRl"
@@ -869,6 +1049,24 @@
     {
       "album": {
         "name": "Listen",
+        "url": "https://open.spotify.com/album/1W8U9tsKVMoqSe9DZMT4Zx"
+      },
+      "artists": [
+        {
+          "name": "Tana\u00eb",
+          "url": "https://open.spotify.com/artist/5a4jgwRzY0q9KopqjYrIe1"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
+      "duration_ms": 235016,
+      "name": "Listen",
+      "url": "https://open.spotify.com/track/29jF8K27kLzhvmXBa28fLA"
+    },
+    {
+      "album": {
+        "name": "Listen",
         "url": "https://open.spotify.com/album/6psqSyRP73ezMxA3rsnfPr"
       },
       "artists": [
@@ -886,6 +1084,24 @@
     },
     {
       "album": {
+        "name": "Listen",
+        "url": "https://open.spotify.com/album/6kspx9Uql5uXOIjQzy2gXL"
+      },
+      "artists": [
+        {
+          "name": "Tana\u00eb",
+          "url": "https://open.spotify.com/artist/5a4jgwRzY0q9KopqjYrIe1"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235016,
+      "name": "Listen",
+      "url": "https://open.spotify.com/track/62Ra9M5ggvltjHNNsJsegh"
+    },
+    {
+      "album": {
         "name": "Love Language",
         "url": "https://open.spotify.com/album/6jZ92l2HWH2fS6fsidsSN0"
       },
@@ -897,10 +1113,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 205531,
       "name": "Love Language",
       "url": "https://open.spotify.com/track/6N3N0dbTQQM9rfJFLBswlp"
+    },
+    {
+      "album": {
+        "name": "Loving You",
+        "url": "https://open.spotify.com/album/74eFO86CCuo4y6W3k7dPvP"
+      },
+      "artists": [
+        {
+          "name": "Joshua J",
+          "url": "https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228702,
+      "name": "Loving You",
+      "url": "https://open.spotify.com/track/1ba8Fr5ro68P3dLal3DhIe"
     },
     {
       "album": {
@@ -915,7 +1149,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 228702,
       "name": "Loving You",
       "url": "https://open.spotify.com/track/7IjkvqOM9CHGbzmdTUSym1"
@@ -1118,6 +1352,24 @@
     },
     {
       "album": {
+        "name": "Black Pumas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7BEA5emJl0yTMC9XBDJCcm"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 289706,
+      "name": "OCT 33",
+      "url": "https://open.spotify.com/track/1zVYfw7P8B5bLNkXct7qZ3"
+    },
+    {
+      "album": {
         "name": "Black Pumas",
         "url": "https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe"
       },
@@ -1255,10 +1507,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 186432,
       "name": "raw",
       "url": "https://open.spotify.com/track/2bGd94PnM9kaQOCxOrIDh8"
+    },
+    {
+      "album": {
+        "name": "soft thing",
+        "url": "https://open.spotify.com/album/4fVrjnFFBoVV4OEc5fBH1J"
+      },
+      "artists": [
+        {
+          "name": "LOONY",
+          "url": "https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186432,
+      "name": "raw",
+      "url": "https://open.spotify.com/track/5WjTrSEmsfIC1WDwIquuwT"
     },
     {
       "album": {
@@ -1307,6 +1577,24 @@
     {
       "album": {
         "name": "Same Girl",
+        "url": "https://open.spotify.com/album/35qaDseSphp0qxOH1CMoOU"
+      },
+      "artists": [
+        {
+          "name": "Tess Henley",
+          "url": "https://open.spotify.com/artist/6LWofoi18999gZK0EgVSjv"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182751,
+      "name": "Same Girl",
+      "url": "https://open.spotify.com/track/1h4fEhUO3HP3Bo2ma2JmcE"
+    },
+    {
+      "album": {
+        "name": "Same Girl",
         "url": "https://open.spotify.com/album/10OwB6QTpEQdFOQZyFeLvr"
       },
       "artists": [
@@ -1317,7 +1605,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 182751,
       "name": "Same Girl",
       "url": "https://open.spotify.com/track/7oKmQiRPMWLrhp1vhlmTRn"
@@ -1335,7 +1623,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 184750,
       "name": "Sanctuary",
       "url": "https://open.spotify.com/track/09PnjJyhIkjYcMzV835Wfx"
@@ -1461,7 +1749,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 228831,
       "name": "Something I Know",
       "url": "https://open.spotify.com/track/5fCBLcbEvNe0xqcKCELqQD"
@@ -1515,7 +1803,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 219354,
       "name": "Start over Again",
       "url": "https://open.spotify.com/track/5M9lSUgxsJNSvndGh7h2Ef"
@@ -1613,7 +1901,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 255986,
       "name": "Strange",
       "url": "https://open.spotify.com/track/7sq2z9oX2S0CvgTqCZ0ko4"
@@ -1683,10 +1971,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 264760,
       "name": "Suitcase (Add The Weight)",
       "url": "https://open.spotify.com/track/0o4CTEYWY8yagcAb6bFLfH"
+    },
+    {
+      "album": {
+        "name": "Summer Moon",
+        "url": "https://open.spotify.com/album/3EIMnvmiotPTh3glLLnUm0"
+      },
+      "artists": [
+        {
+          "name": "Jeangu Macrooy",
+          "url": "https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201343,
+      "name": "Summer Moon",
+      "url": "https://open.spotify.com/track/5z0q7N7cFB1YCI6LiZLajl"
     },
     {
       "album": {
@@ -1811,6 +2117,24 @@
     {
       "album": {
         "name": "To Let A Good Thing Die",
+        "url": "https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz"
+      },
+      "artists": [
+        {
+          "name": "Bruno Major",
+          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-19",
+      "duration_ms": 235426,
+      "name": "The Most Beautiful Thing",
+      "url": "https://open.spotify.com/track/07koEqsKHZTlGVMC9eoEjO"
+    },
+    {
+      "album": {
+        "name": "To Let A Good Thing Die",
         "url": "https://open.spotify.com/album/5ON0EY1YuVEJPwj17yYtwO"
       },
       "artists": [
@@ -1821,7 +2145,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 235426,
       "name": "The Most Beautiful Thing",
       "url": "https://open.spotify.com/track/5unXHHcSQLGO19RuVqZB6d"
@@ -2001,7 +2325,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-10",
+      "date_removed": "2022-11-14",
       "duration_ms": 205911,
       "name": "Where Were You",
       "url": "https://open.spotify.com/track/5CWacF8meseoq1AHSvLslX"
@@ -2127,7 +2451,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": null,
       "duration_ms": 236346,
       "name": "Yes I Am",
       "url": "https://open.spotify.com/track/4mAzDXo7ZVSAhk0iaoqa1b"

@@ -358,6 +358,24 @@
     },
     {
       "album": {
+        "name": "First Time",
+        "url": "https://open.spotify.com/album/3VOetHtDXdOu2ScKlUlyd3"
+      },
+      "artists": [
+        {
+          "name": "Becca Mancari",
+          "url": "https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5"
+        }
+      ],
+      "date_added": "2021-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 163712,
+      "name": "First Time",
+      "url": "https://open.spotify.com/track/2xdCrFLOOJ7VCvvaGAjnQh"
+    },
+    {
+      "album": {
         "name": "The Greatest Part",
         "url": "https://open.spotify.com/album/3sgLYw5U3KArFr36kFCyEr"
       },
@@ -445,6 +463,24 @@
       "duration_ms": 213933,
       "name": "look up",
       "url": "https://open.spotify.com/track/0oEji7lz6paMOdk97XEK4Z"
+    },
+    {
+      "album": {
+        "name": "in defense of my own happiness (complete)",
+        "url": "https://open.spotify.com/album/7yemOBr0RNb26tsE0lKaDB"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2021-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 213933,
+      "name": "look up",
+      "url": "https://open.spotify.com/track/1XO1GBR7sTLAFGHKWuCfTM"
     },
     {
       "album": {

@@ -2493,6 +2493,24 @@
     {
       "album": {
         "name": "Long Ambients Two",
+        "url": "https://open.spotify.com/album/5vvLHiqqrwuDbrj8vHPESF"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2822655,
+      "name": "LA12",
+      "url": "https://open.spotify.com/track/53Ax4MEWeAguo1zKUUJ4uq"
+    },
+    {
+      "album": {
+        "name": "Long Ambients Two",
         "url": "https://open.spotify.com/album/5MOf6d4X7mtvhSwvE5hEkQ"
       },
       "artists": [
@@ -2503,10 +2521,28 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 2822655,
       "name": "LA12",
       "url": "https://open.spotify.com/track/5p9PTjVgwlfp2KHpIObZEG"
+    },
+    {
+      "album": {
+        "name": "Long Ambients Two",
+        "url": "https://open.spotify.com/album/5vvLHiqqrwuDbrj8vHPESF"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2556795,
+      "name": "LA17",
+      "url": "https://open.spotify.com/track/2aEW5RFkOKulER8vYmPneM"
     },
     {
       "album": {
@@ -2539,7 +2575,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 2556795,
       "name": "LA17",
       "url": "https://open.spotify.com/track/68mzpoTidqHgCBWzuUbLup"
@@ -2557,7 +2593,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 1372392,
       "name": "LA3",
       "url": "https://open.spotify.com/track/2QbO29HVYHGEUZHdIUbbzH"
@@ -2565,7 +2601,7 @@
     {
       "album": {
         "name": "Long Ambients 1: Calm. Sleep",
-        "url": "https://open.spotify.com/album/4kgOOceWuqoZ1eTZfAdAbL"
+        "url": "https://open.spotify.com/album/1h32pmraYfMfLTnNrWw6V4"
       },
       "artists": [
         {
@@ -2573,12 +2609,12 @@
           "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
         }
       ],
-      "date_added": "2022-05-25",
+      "date_added": "2022-10-10",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 2139037,
-      "name": "LA5",
-      "url": "https://open.spotify.com/track/3SMXUOVNlFVZeKkyWmR9ey"
+      "duration_ms": 1372392,
+      "name": "LA3",
+      "url": "https://open.spotify.com/track/6GLs8YL3OCPAvbE1MRcTFB"
     },
     {
       "album": {
@@ -2593,7 +2629,61 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 2139037,
+      "name": "LA5",
+      "url": "https://open.spotify.com/track/3SMXUOVNlFVZeKkyWmR9ey"
+    },
+    {
+      "album": {
+        "name": "Long Ambients 1: Calm. Sleep",
+        "url": "https://open.spotify.com/album/1h32pmraYfMfLTnNrWw6V4"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 2139037,
+      "name": "LA5",
+      "url": "https://open.spotify.com/track/5PJJHXzJuihJJAEry4UUTY"
+    },
+    {
+      "album": {
+        "name": "Long Ambients 1: Calm. Sleep",
+        "url": "https://open.spotify.com/album/1h32pmraYfMfLTnNrWw6V4"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1652517,
+      "name": "LA9",
+      "url": "https://open.spotify.com/track/16tF1kTPVcqG5LOI4R1pZG"
+    },
+    {
+      "album": {
+        "name": "Long Ambients 1: Calm. Sleep",
+        "url": "https://open.spotify.com/album/4kgOOceWuqoZ1eTZfAdAbL"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
       "duration_ms": 1652517,
       "name": "LA9",
       "url": "https://open.spotify.com/track/1XGoaprFa71pJrJ5a7nSJq"
@@ -2739,6 +2829,24 @@
       "duration_ms": 853253,
       "name": "Light-Matrix Portal",
       "url": "https://open.spotify.com/track/3YXsOx0ucIfsSLLjKC9eeW"
+    },
+    {
+      "album": {
+        "name": "Live at Commend (Part 2)",
+        "url": "https://open.spotify.com/album/3iXTjYZMXiOfRrHPrS45jU"
+      },
+      "artists": [
+        {
+          "name": "Chihei Hatakeyama",
+          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2047150,
+      "name": "Live at Commend (Part 2)",
+      "url": "https://open.spotify.com/track/3zjN54QAmvcJMCiI9xeLEk"
     },
     {
       "album": {
@@ -2935,7 +3043,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 604544,
       "name": "Mend",
       "url": "https://open.spotify.com/track/116HZtuidLUHpGNIIgDcR9"
@@ -3494,8 +3602,8 @@
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 1041570,
-      "name": "Pagnifico",
+      "duration_ms": 1041569,
+      "name": "Pagnifico - Remastered",
       "url": "https://open.spotify.com/track/0VDYvtQF5rtN9a7XshFZCd"
     },
     {
@@ -4321,7 +4429,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 1391466,
       "name": "Seraphims",
       "url": "https://open.spotify.com/track/1DzQzk09Eb1OhNfdqfoqHR"
@@ -4339,7 +4447,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 1391466,
       "name": "Seraphims",
       "url": "https://open.spotify.com/track/4yamOTc0Hq9oOzPQ9wTFuk"

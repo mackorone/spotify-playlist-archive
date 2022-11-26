@@ -4,7 +4,7 @@
 
 > Where Nashville, Memphis & the Shoals meet\. Cover: Yola
 
-78 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/6q3rP2a04MXLNfjAQ9mpop)
+81 songs - 4 hr 56 min - [published](https://open.spotify.com/playlist/6q3rP2a04MXLNfjAQ9mpop)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Faraway Look](https://open.spotify.com/track/1dWv8VqVEW8xkWgCIISxxm) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Walk Through Fire \(Deluxe Edition\)](https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL) | 3:09 | 2021-02-17 |  |
 | [Games People Play](https://open.spotify.com/track/50t8gshcAtXiUdk7nHfYDp) | [Joe South](https://open.spotify.com/artist/7s2L0cftC6UBVVxADuyfwS) | [Introspect \(Bonus Track Version\)](https://open.spotify.com/album/0efmkx26DQ4OSiPCdKsQgB) | 3:35 | 2021-02-17 |  |
 | [Georgia Morning Dew](https://open.spotify.com/track/0vxWC7gqoQBS6uEKVG0nHS) | [Johnny Adams](https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk) | [Heart and Soul](https://open.spotify.com/album/1wDtgCR0JI2PM9B3jTJZ5e) | 3:17 | 2021-02-17 | 2022-07-29 |
+| [Georgia Morning Dew](https://open.spotify.com/track/7HxPa1wFVPsTTCnn5YaXOf) | [Johnny Adams](https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk) | [Georgia Morning Dew / Real Live Living Hurtin' Man](https://open.spotify.com/album/012ARlbQdyMfM4jPpXrF9w) | 3:17 | 2021-02-17 | 2022-11-13 |
 | [Georgia Morning Dew](https://open.spotify.com/track/7njTQhjl2SIBLutKCw4r1l) | [Johnny Adams](https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk) | [Heart and Soul](https://open.spotify.com/album/3zmz4edYCiggKrx4bMRTxb) | 3:17 | 2021-02-17 |  |
 | [Hands of Time](https://open.spotify.com/track/2spEkxVBo1217qmjWkWPZu) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Midwest Farmer's Daughter](https://open.spotify.com/album/55byaTflUCrOReQQukpctP) | 6:09 | 2021-02-17 |  |
 | [Hard Case](https://open.spotify.com/track/4jKUZXZuhKH2YI277OnFol) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Signs](https://open.spotify.com/album/2SWcIu27vvZHPxEHU3FDck) | 3:22 | 2021-02-17 |  |
@@ -36,6 +37,7 @@
 | [Honky Tonk Women](https://open.spotify.com/track/6gcAlkX0YVDlHtKIYY9a25) | [The Flying Burrito Brothers](https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM) | [Sleepless Nights \(Reissue\)](https://open.spotify.com/album/7Mnz3gmfUJ913vQxCsRyEm) | 4:17 | 2021-02-17 |  |
 | [I Can't Stop Loving You](https://open.spotify.com/track/79nJj5dMyTsUzKvN5jUXsJ) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Modern Sounds in Country and Western Music, Vols 1 & 2](https://open.spotify.com/album/4j4w5DDWMKD7ePStAl19OF) | 4:16 | 2021-02-17 |  |
 | [I Don't Wanna Lie](https://open.spotify.com/track/6CgsttSWDA2sISZQp1upXK) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Walk Through Fire \(Deluxe Edition\)](https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL) | 3:01 | 2021-02-17 |  |
+| [I Like What You're Doing \(To Me\)](https://open.spotify.com/track/2hv83PqgQnIrEmPxCm5pgv) | [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [Stax Profiles: Carla Thomas](https://open.spotify.com/album/67JGdxCm3gPPpT4oeygpnl) | 2:56 | 2021-02-17 | 2022-11-13 |
 | [I Like What You're Doing \(To Me\)](https://open.spotify.com/track/3ZS3XW46tNq0nRmAURjNig) | [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [Carla Thomas \- Stax Profiles](https://open.spotify.com/album/4QESjBjBEglGfd9bSJLfh6) | 2:56 | 2021-02-17 | 2022-07-29 |
 | [I Like What You're Doing \(To Me\)](https://open.spotify.com/track/2fnbljRroXC33HuhgyoApM) | [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [Memphis Queen](https://open.spotify.com/album/6DYynPjnJlfAsK3jqFOdGQ) | 2:58 | 2021-02-17 |  |
 | [I Was Wrong](https://open.spotify.com/track/7dUdMZqfGSIt0ZkmTOgRLA) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 1](https://open.spotify.com/album/5L0e8X6Mf9lfjs2miK2WUB) | 3:11 | 2021-02-17 |  |
@@ -51,6 +53,7 @@
 | [Pushin' Against a Stone](https://open.spotify.com/track/7meaVP9XohwubW6TqvxP4Q) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against a Stone](https://open.spotify.com/album/2ce5ND89nKxicash0FzBYq) | 5:14 | 2021-02-17 | 2022-07-29 |
 | [Pushin’ Against A Stone](https://open.spotify.com/track/0DhXt0ky95iGN2uhP41Nv3) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 5:14 | 2021-02-17 |  |
 | [Put the Gun Down](https://open.spotify.com/track/7fpnWAkZA0YqOcy8dQvTbu) | [O.N.E The Duo](https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe) | [Put the Gun Down](https://open.spotify.com/album/4WgAjLNij42ukPGP4nfX7N) | 2:51 | 2022-08-26 |  |
+| [Respect Yourself](https://open.spotify.com/track/56wqwyEEzfYHbXp1larwg8) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [Stax Classics](https://open.spotify.com/album/7n799A9IQT4WVDPbXwVa7n) | 3:30 | 2021-02-17 | 2022-11-13 |
 | [Respect Yourself](https://open.spotify.com/track/4Y13tcnF3rc1SHfNyVTjAG) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [The Very Best Of The Staple Singers](https://open.spotify.com/album/1jkwBngCquhmnteY7cXjm9) | 3:31 | 2021-02-17 | 2022-07-29 |
 | [Respect Yourself](https://open.spotify.com/track/4lzTyLYXb3ED01TSLCJ1Hz) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [The Very Best Of The Staple Singers](https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7) | 3:31 | 2021-02-17 |  |
 | [Ride Out In The Country](https://open.spotify.com/track/4FCIOhpTSqt1hjYDdLFScX) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Walk Through Fire \(Deluxe Edition\)](https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL) | 3:15 | 2021-02-17 |  |

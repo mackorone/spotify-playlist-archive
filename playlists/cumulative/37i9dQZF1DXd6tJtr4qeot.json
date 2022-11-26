@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 111200,
       "name": "'Merican",
       "url": "https://open.spotify.com/track/2BY2O9OybmxpND0DqNgx97"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-01",
+      "date_removed": null,
       "duration_ms": 167973,
       "name": "21st Century (Digital Boy)",
       "url": "https://open.spotify.com/track/1igCEsf91tYM8RB56YgHvZ"
@@ -188,6 +188,24 @@
     },
     {
       "album": {
+        "name": "Fenix TX",
+        "url": "https://open.spotify.com/album/1glHjh1fij5KIEKFVkJeu2"
+      },
+      "artists": [
+        {
+          "name": "Fenix TX",
+          "url": "https://open.spotify.com/artist/074c96SFGJ7WfW7ykczDHr"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-30",
+      "duration_ms": 169240,
+      "name": "All My Fault",
+      "url": "https://open.spotify.com/track/1kCPDGC5udhyCpSWbH0ADA"
+    },
+    {
+      "album": {
         "name": "Party Animals",
         "url": "https://open.spotify.com/album/3AZ1nJRyRQag2qI5Bb2WF5"
       },
@@ -199,7 +217,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 158426,
       "name": "All My Friends Are Dead",
       "url": "https://open.spotify.com/track/6fEztciYVlIyWTBe66clVj"
@@ -423,6 +441,24 @@
     {
       "album": {
         "name": "Sing Sing Death House",
+        "url": "https://open.spotify.com/album/4VrINRcJyLcENNLiDbCoBi"
+      },
+      "artists": [
+        {
+          "name": "The Distillers",
+          "url": "https://open.spotify.com/artist/7MlyHuGRHi31yYlrttDqgT"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 209626,
+      "name": "City Of Angels",
+      "url": "https://open.spotify.com/track/0sAIljILdEo8Ku4tPLQ7dF"
+    },
+    {
+      "album": {
+        "name": "Sing Sing Death House",
         "url": "https://open.spotify.com/album/0MQhAuIfU4XA2ujWwcYJqh"
       },
       "artists": [
@@ -523,7 +559,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 241908,
       "name": "Diamonds And Guns",
       "url": "https://open.spotify.com/track/78oeeGkqmsr6r6AlW0x69d"
@@ -563,6 +599,24 @@
       "duration_ms": 207733,
       "name": "Disconnected",
       "url": "https://open.spotify.com/track/3q5U2BPRRCY57XtPWx5MfO"
+    },
+    {
+      "album": {
+        "name": "Don't Turn Away",
+        "url": "https://open.spotify.com/album/30Agxug9JulUpt5I3mUNM4"
+      },
+      "artists": [
+        {
+          "name": "Face To Face",
+          "url": "https://open.spotify.com/artist/4l9ufn9GC6LLYXvIanDlLd"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-18",
+      "duration_ms": 207733,
+      "name": "Disconnected",
+      "url": "https://open.spotify.com/track/4TOIJR7F0dH2k32a70YS8F"
     },
     {
       "album": {
@@ -901,7 +955,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 184840,
       "name": "I Don't Wanna Be An Asshole Anymore",
       "url": "https://open.spotify.com/track/1BqJIsOlo8rpm6FJ5N8VtJ"
@@ -955,7 +1009,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-04",
+      "date_removed": "2022-11-15",
       "duration_ms": 195160,
       "name": "I Was a Teenage Anarchist",
       "url": "https://open.spotify.com/track/5UwGMbEKlvXFj7DXI1d0P1"
@@ -991,7 +1045,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 237573,
       "name": "I Was Wrong",
       "url": "https://open.spotify.com/track/1Lpmme6uCsPJIdcbR5aePx"
@@ -1049,6 +1103,24 @@
       "duration_ms": 135133,
       "name": "I'm The One",
       "url": "https://open.spotify.com/track/4d9LC9QoGja5M3en0HWUq1"
+    },
+    {
+      "album": {
+        "name": "Everything Sucks",
+        "url": "https://open.spotify.com/album/2jUjrmnCfEEwvC4H2twuTI"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 135133,
+      "name": "I'm The One",
+      "url": "https://open.spotify.com/track/5XXiK8GZjjmCHpBpUEm9z5"
     },
     {
       "album": {
@@ -1135,7 +1207,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 200786,
       "name": "Lean On Sheena",
       "url": "https://open.spotify.com/track/7IR7GUO0dUyUsBp7BfQ3vJ"
@@ -1369,7 +1441,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 160893,
       "name": "My Girlfriend's Dead",
       "url": "https://open.spotify.com/track/2JzI278tX8YUCelGMZjPO8"
@@ -1405,7 +1477,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": "2022-11-13",
       "duration_ms": 123000,
       "name": "New Girl",
       "url": "https://open.spotify.com/track/7bFNtX22XJMy5TuEpQfa3C"
@@ -1567,7 +1639,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": "2022-11-13",
       "duration_ms": 281040,
       "name": "Radio",
       "url": "https://open.spotify.com/track/3VVstQ0fpj4pdSPe2QZT5z"
@@ -1621,7 +1693,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 167506,
       "name": "Roots Radical",
       "url": "https://open.spotify.com/track/0LWkdUtorgGHr1bwT2C6tY"
@@ -1679,6 +1751,24 @@
       "duration_ms": 157533,
       "name": "Ruby Soho",
       "url": "https://open.spotify.com/track/6zOlYzDyJifRMxim69LoWj"
+    },
+    {
+      "album": {
+        "name": "The Anatomy of the Tongue in Cheek",
+        "url": "https://open.spotify.com/album/7pkfdwjlOmJfzARVbLXE60"
+      },
+      "artists": [
+        {
+          "name": "Relient K",
+          "url": "https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 177600,
+      "name": "Sadie Hawkins Dance",
+      "url": "https://open.spotify.com/track/37OI3jA1ts5U0nmuk2qBXR"
     },
     {
       "album": {
@@ -1801,7 +1891,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-27",
+      "date_removed": "2022-11-18",
       "duration_ms": 110800,
       "name": "Skate or Die",
       "url": "https://open.spotify.com/track/1dkGTWxlpBpcFl3AfAPCcj"
@@ -1909,7 +1999,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-10",
+      "date_removed": "2022-11-13",
       "duration_ms": 185600,
       "name": "Superman",
       "url": "https://open.spotify.com/track/6cL7NCFSvqWrBH5r4mkvVV"
@@ -2129,6 +2219,24 @@
       "duration_ms": 144333,
       "name": "Time Bomb",
       "url": "https://open.spotify.com/track/41kg2RvdwBuIv0OPpvBS4v"
+    },
+    {
+      "album": {
+        "name": "All The Moon Stompers",
+        "url": "https://open.spotify.com/album/5G6FHjebFlPzZ3i5iOeeot"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 144333,
+      "name": "Time Bomb",
+      "url": "https://open.spotify.com/track/6ADSvN7HQ5E2ltbhNcHou0"
     },
     {
       "album": {

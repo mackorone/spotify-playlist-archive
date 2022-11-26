@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "Dance and electronic Arabic songs. Cover: Wegz & Ash.",
+  "description": "Dance and electronic Arabic songs. Cover: Alok & Issam Alnajjar.",
   "name": "mint \u0646\u0639\u0646\u0639",
   "published_playlist_ids": [
     "54atOgU6aSg6YDGd7DJtW1"
@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 316264,
       "name": "7elm B3eed",
       "url": "https://open.spotify.com/track/4t3BgID893bIAXxcCdux4y"
@@ -84,6 +84,24 @@
     },
     {
       "album": {
+        "name": "Alf Leila We Leila Remix",
+        "url": "https://open.spotify.com/album/2FhrWtDmN4u5dLJrrK34mJ"
+      },
+      "artists": [
+        {
+          "name": "Disco Misr",
+          "url": "https://open.spotify.com/artist/1HIaYLpcp8yyYRSQFP7vIi"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194237,
+      "name": "Alf Leila We Leila Remix",
+      "url": "https://open.spotify.com/track/01rqnaEjqaP6luRtxdcaz9"
+    },
+    {
+      "album": {
         "name": "Amira",
         "url": "https://open.spotify.com/album/1VVZMKjwVA9hvPZcaCepOS"
       },
@@ -125,6 +143,28 @@
       "duration_ms": 163404,
       "name": "Anta",
       "url": "https://open.spotify.com/track/3SaJambg6zRQ6MWf2pOAC9"
+    },
+    {
+      "album": {
+        "name": "Bahebak Wadari (Royo Remix)",
+        "url": "https://open.spotify.com/album/0BK7X6x7MflBP1SQdwMevT"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Matar",
+          "url": "https://open.spotify.com/artist/2WRcWx0NGGiJNmkoIZETha"
+        },
+        {
+          "name": "Royo",
+          "url": "https://open.spotify.com/artist/57wDmUaZi3U7qm3mmjC7em"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-08",
+      "duration_ms": 250119,
+      "name": "Bahebak Wadari - Royo Remix",
+      "url": "https://open.spotify.com/track/7EJiLcIRikqeOWUQ5bURBT"
     },
     {
       "album": {
@@ -195,10 +235,36 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 114285,
       "name": "Challenge",
       "url": "https://open.spotify.com/track/2sGnPdcKoE0y3LbVty41dj"
+    },
+    {
+      "album": {
+        "name": "Challenge",
+        "url": "https://open.spotify.com/album/0i3VC4YjBAhSYFoP7KcPtL"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Sultan Al Murshed",
+          "url": "https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU"
+        },
+        {
+          "name": "Big Bo",
+          "url": "https://open.spotify.com/artist/1BOoFYzb3TDB9BWP8IPmf0"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114285,
+      "name": "Challenge",
+      "url": "https://open.spotify.com/track/3VuaItBnwM73RM50sfZtoS"
     },
     {
       "album": {
@@ -221,6 +287,28 @@
       "duration_ms": 156000,
       "name": "Dum Tak (feat. NASIR)",
       "url": "https://open.spotify.com/track/524qzN14VG2CCqVgDIiwNA"
+    },
+    {
+      "album": {
+        "name": "El Dunia Helwa",
+        "url": "https://open.spotify.com/album/4DE07uisXHQ7416FuSEAUw"
+      },
+      "artists": [
+        {
+          "name": "Mohab Sammy",
+          "url": "https://open.spotify.com/artist/223p44YDBTVmvgi2NeHC5j"
+        },
+        {
+          "name": "Sara Said",
+          "url": "https://open.spotify.com/artist/5qgwGFlPCxO4jCEKID6SIE"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294000,
+      "name": "El Dunia Helwa",
+      "url": "https://open.spotify.com/track/5mVB0eKgO2b6W8JNEKd8si"
     },
     {
       "album": {
@@ -287,7 +375,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 225764,
       "name": "Enta Eli Hweyt",
       "url": "https://open.spotify.com/track/5stEpLG1ZgM1NgBFdLtC1h"
@@ -305,7 +393,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 263549,
       "name": "Enti Malathi",
       "url": "https://open.spotify.com/track/4HoXdGDFqgDkUAOPoBAEOi"
@@ -331,6 +419,24 @@
       "duration_ms": 305806,
       "name": "Enty We Ana",
       "url": "https://open.spotify.com/track/0FAabsNs2RITfLn3JWr9Hk"
+    },
+    {
+      "album": {
+        "name": "Faqat Ala Bali",
+        "url": "https://open.spotify.com/album/3q8zNHHfUUAMrNgDIan35P"
+      },
+      "artists": [
+        {
+          "name": "Gharam Electric",
+          "url": "https://open.spotify.com/artist/7bSZexnmG19HNWsNh1xok7"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403861,
+      "name": "Faqat Ala Bali",
+      "url": "https://open.spotify.com/track/1wuVpWw54aPEeTrr95uRjp"
     },
     {
       "album": {
@@ -491,7 +597,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 261600,
       "name": "Haleq Maa'y",
       "url": "https://open.spotify.com/track/56o5roP1Xff5WUbBK6UaZM"
@@ -520,6 +626,36 @@
     },
     {
       "album": {
+        "name": "Headlights (feat. KIDDO & Issam Alnajjar) [Radio Edit]",
+        "url": "https://open.spotify.com/album/6XZqrGWZ3s06HmcCRziviX"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Issam Alnajjar",
+          "url": "https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r"
+        },
+        {
+          "name": "KIDDO",
+          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Headlights (feat. KIDDO & Issam Alnajjar) - Radio Edit",
+      "url": "https://open.spotify.com/track/2gqnO3cvjvBNTYr9dMNZIn"
+    },
+    {
+      "album": {
         "name": "Heya",
         "url": "https://open.spotify.com/album/24O4GnTk1ns6Ok5g2fwv2v"
       },
@@ -539,6 +675,28 @@
     {
       "album": {
         "name": "Hiya Hiya",
+        "url": "https://open.spotify.com/album/79IFajmgcokKaytvnRFomI"
+      },
+      "artists": [
+        {
+          "name": "Eljoee",
+          "url": "https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7"
+        },
+        {
+          "name": "CHAAMA",
+          "url": "https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217021,
+      "name": "Hiya Hiya",
+      "url": "https://open.spotify.com/track/0tNpveVnqAXngNFP1MWBXn"
+    },
+    {
+      "album": {
+        "name": "Hiya Hiya",
         "url": "https://open.spotify.com/album/4huoXKTPj0UF1x3GchIe0H"
       },
       "artists": [
@@ -553,7 +711,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 217021,
       "name": "Hiya Hiya",
       "url": "https://open.spotify.com/track/24vfdXHFUYbUisMutVNjDQ"
@@ -619,7 +777,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 292274,
       "name": "Khidni Habibi",
       "url": "https://open.spotify.com/track/2k2vv7Pvl2gYfHkdVRnHZl"
@@ -637,7 +795,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 285714,
       "name": "Kun",
       "url": "https://open.spotify.com/track/38p1aFLLRYT8XbNal1PbWT"
@@ -925,10 +1083,32 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 259235,
       "name": "Nifsi Aoulhalak",
       "url": "https://open.spotify.com/track/4x6GakeJVyxXbNMJ0AK4ox"
+    },
+    {
+      "album": {
+        "name": "Nta Gudami",
+        "url": "https://open.spotify.com/album/1eI7koC3KRAIe8jukAL2GA"
+      },
+      "artists": [
+        {
+          "name": "Eljoee",
+          "url": "https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7"
+        },
+        {
+          "name": "Cheikha Rimitti",
+          "url": "https://open.spotify.com/artist/364dHqe2BwXqmOhgdBXpw8"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255700,
+      "name": "Nta Gudami - Remix",
+      "url": "https://open.spotify.com/track/7pxJK697fEgxphm1fxwczS"
     },
     {
       "album": {
@@ -1031,7 +1211,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 214096,
       "name": "Raina Rai",
       "url": "https://open.spotify.com/track/6uXkNygGn4fIMSitwP47wa"
@@ -1049,7 +1229,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 278778,
       "name": "Route 55",
       "url": "https://open.spotify.com/track/2EzwcoyoFof9Vp2IOAajrp"
@@ -1078,6 +1258,28 @@
     },
     {
       "album": {
+        "name": "Shoft Alhala",
+        "url": "https://open.spotify.com/album/2h0QwgH6vNBvECQEmTxeH8"
+      },
+      "artists": [
+        {
+          "name": "Vinyl Mode",
+          "url": "https://open.spotify.com/artist/5Hk1jxKs1Qxg8uQY3SrAAv"
+        },
+        {
+          "name": "Moayad",
+          "url": "https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226771,
+      "name": "Shoft Alhala - Radio Edit",
+      "url": "https://open.spotify.com/track/6nlJi5I96yMdToZZ7vfKdf"
+    },
+    {
+      "album": {
         "name": "Silent",
         "url": "https://open.spotify.com/album/5MLe08ARj0m3I2cIOADFPR"
       },
@@ -1089,7 +1291,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 172000,
       "name": "Silent",
       "url": "https://open.spotify.com/track/2kHThfsaP12zxe136zAkmU"
@@ -1107,7 +1309,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 165400,
       "name": "Tearaf Bahebak Leh",
       "url": "https://open.spotify.com/track/4J91ULN1DJ1FHPRD1G4FYN"
@@ -1195,7 +1397,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 221936,
       "name": "W Maak",
       "url": "https://open.spotify.com/track/2x4A8I4dHDoilUNfkcCT3V"
@@ -1261,6 +1463,24 @@
       "duration_ms": 257872,
       "name": "Win - Lesstars Remix",
       "url": "https://open.spotify.com/track/0F9RxNpcbyw0uif75wpqrz"
+    },
+    {
+      "album": {
+        "name": "XP",
+        "url": "https://open.spotify.com/album/5tQTtuAYhnDoBNfcuf1Lcd"
+      },
+      "artists": [
+        {
+          "name": "BluePaper",
+          "url": "https://open.spotify.com/artist/6nlIMudcLyn65DpF3jsUOB"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399433,
+      "name": "XP",
+      "url": "https://open.spotify.com/track/3gPI8ddrbwIILGD7Bm9NEg"
     },
     {
       "album": {
@@ -1388,6 +1608,28 @@
     },
     {
       "album": {
+        "name": "Yena'al Li",
+        "url": "https://open.spotify.com/album/03q6CZrTFtaSAUDi1xdRhs"
+      },
+      "artists": [
+        {
+          "name": "Wassim Younes",
+          "url": "https://open.spotify.com/artist/32zfLHQZue9cXu7KF3L8pn"
+        },
+        {
+          "name": "Sahraaoui",
+          "url": "https://open.spotify.com/artist/2dTsEuAzvCDqcUVeOt6yff"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292340,
+      "name": "Yena'al Li",
+      "url": "https://open.spotify.com/track/5HhdXBRK4cI9mVO6Y9G4WT"
+    },
+    {
+      "album": {
         "name": "Youm Talat (Remix)",
         "url": "https://open.spotify.com/album/6V8QwgQg0Xszo8zu2Do44K"
       },
@@ -1421,7 +1663,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 222352,
       "name": "\u0627\u0648\u0635\u0641 \u0625\u064a\u0647",
       "url": "https://open.spotify.com/track/12l68oU7N5fVszEFBkC7LU"
@@ -1439,7 +1681,7 @@
       ],
       "date_added": "2022-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": "2022-11-26",
       "duration_ms": 222352,
       "name": "\u0627\u0648\u0635\u0641 \u0625\u064a\u0647",
       "url": "https://open.spotify.com/track/5tBFzLIvD5aDF1lyE2v919"
@@ -1457,7 +1699,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 202226,
       "name": "\u0642\u0635\u0629 \u062d\u0628 (\u063a\u0631\u0628\u0649)",
       "url": "https://open.spotify.com/track/7MW8VcSqgrDExFBkmqj1ix"
@@ -1493,7 +1735,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 208093,
       "name": "\u0645\u064a\u0646 \u0632\u064a\u0647\u0627",
       "url": "https://open.spotify.com/track/2wgkVcguYxkqwOACFo5oPj"
@@ -1511,7 +1753,7 @@
       ],
       "date_added": "2022-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": "2022-11-26",
       "duration_ms": 208093,
       "name": "\u0645\u064a\u0646 \u0632\u064a\u0647\u0627",
       "url": "https://open.spotify.com/track/4Brwtx9VIv6UoXbSB57RO1"

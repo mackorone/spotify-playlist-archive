@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 170000,
       "name": "Alfie",
       "url": "https://open.spotify.com/track/5L4SfaSintj8j4h2R4lFhy"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 201306,
       "name": "Baby I Miss You",
       "url": "https://open.spotify.com/track/1HkAiVdzgttlbrxvgFIlwh"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 184506,
       "name": "Break Your Promise - Remastered",
       "url": "https://open.spotify.com/track/6k2cegIpd6Nc2WpO6xaSIc"
@@ -235,10 +235,32 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 227946,
       "name": "Don't Throw It All Away - 7\" Version",
       "url": "https://open.spotify.com/track/5ke5fPNXizlAX11dGVNv4W"
+    },
+    {
+      "album": {
+        "name": "Adrian Younge Presents: The Delfonics",
+        "url": "https://open.spotify.com/album/0ZZ5Hj5Ic5V21qpE84MV2M"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        },
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118186,
+      "name": "Enemies",
+      "url": "https://open.spotify.com/track/3UqryDsDSq4x8hWaAh7cLD"
     },
     {
       "album": {
@@ -271,7 +293,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": "2022-11-25",
       "duration_ms": 176306,
       "name": "Face It Girl, It's Over - Remastered",
       "url": "https://open.spotify.com/track/1AyTnTn95fQ9WO388d6wCy"
@@ -289,7 +311,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 300710,
       "name": "For the Love I Gave to You",
       "url": "https://open.spotify.com/track/5jCZ4OQB2RtFeMnJIfRuSM"
@@ -307,7 +329,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-22",
       "duration_ms": 143333,
       "name": "Funny Feeling",
       "url": "https://open.spotify.com/track/56QIqrLhxb9YiJ2q2UAT2O"
@@ -325,7 +347,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 125333,
       "name": "Going Out of My Head - Remastered",
       "url": "https://open.spotify.com/track/3rnqNaoFbupOaGq8Y1Sk6E"
@@ -347,6 +369,24 @@
       "duration_ms": 144093,
       "name": "He Don't Really Love You",
       "url": "https://open.spotify.com/track/7vLulg0d9DreZngW3SsPvz"
+    },
+    {
+      "album": {
+        "name": "Philly Groove Records Presents: This Time",
+        "url": "https://open.spotify.com/album/4JiEK0vq0RvCZIYB4PdCMs"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-30",
+      "duration_ms": 204556,
+      "name": "Hey Baby",
+      "url": "https://open.spotify.com/track/4KBAAuYaZ8Ou4D0RMNypyc"
     },
     {
       "album": {
@@ -469,7 +509,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 192760,
       "name": "I Told You So",
       "url": "https://open.spotify.com/track/522AmhNOcqjU59NsW0eYT9"
@@ -487,10 +527,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-11-26",
       "duration_ms": 190800,
       "name": "I Told You So - Digitally Remastered 1997",
       "url": "https://open.spotify.com/track/56lTbw4gJtOaLaWYkgBwx1"
+    },
+    {
+      "album": {
+        "name": "Philly Soul Select",
+        "url": "https://open.spotify.com/album/4pGm4qkhQedmOobbCNhWN0"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299000,
+      "name": "I Wanna Be",
+      "url": "https://open.spotify.com/track/63OajKDyA9HnZxrv5z6MY4"
     },
     {
       "album": {
@@ -541,10 +599,32 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 285266,
       "name": "I've Got Everything",
       "url": "https://open.spotify.com/track/1Xe3QCAuTkwQLBbxfQamz3"
+    },
+    {
+      "album": {
+        "name": "The Delfonics vs Ray, Goodman & Brown Live In Concert",
+        "url": "https://open.spotify.com/album/4VOJpxfPuOTxCxYBKe1QQ5"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        },
+        {
+          "name": "Ray, Goodman & Brown",
+          "url": "https://open.spotify.com/artist/58U0OwuIViimy39WEbRbXh"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98469,
+      "name": "Intro MC for The Delfonics Concert - Live",
+      "url": "https://open.spotify.com/track/5Azq2UGW0k6Y7DhkdY4YNT"
     },
     {
       "album": {
@@ -577,7 +657,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 200906,
       "name": "La-La Means I Love You",
       "url": "https://open.spotify.com/track/58CUIzSxNpQUFvTCd8tntH"
@@ -613,7 +693,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 170626,
       "name": "Life Never Ends",
       "url": "https://open.spotify.com/track/7367xyX35DY5U1bgkA467M"
@@ -631,7 +711,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 171426,
       "name": "Looking for a Girl",
       "url": "https://open.spotify.com/track/5HylsHxFBewHLod118HfHi"
@@ -689,7 +769,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": "2022-11-25",
       "duration_ms": 210558,
       "name": "Love Won't Let Me Wait",
       "url": "https://open.spotify.com/track/08QbSiadEE18j1YWajwA1q"
@@ -729,7 +809,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": "2022-10-12",
       "duration_ms": 158400,
       "name": "Love's Melody",
       "url": "https://open.spotify.com/track/2sgCv3E062DpMeIJZe14TZ"
@@ -754,6 +834,28 @@
     },
     {
       "album": {
+        "name": "The Delfonics vs Ray, Goodman & Brown Live In Concert",
+        "url": "https://open.spotify.com/album/4VOJpxfPuOTxCxYBKe1QQ5"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        },
+        {
+          "name": "Ray, Goodman & Brown",
+          "url": "https://open.spotify.com/artist/58U0OwuIViimy39WEbRbXh"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202933,
+      "name": "My Girl - Live",
+      "url": "https://open.spotify.com/track/4dQALx6SrbgW8kJVYPysBu"
+    },
+    {
+      "album": {
         "name": "The Sound Of Sexy Soul",
         "url": "https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF"
       },
@@ -765,7 +867,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 168106,
       "name": "My New Love",
       "url": "https://open.spotify.com/track/0GvFz5xC9ksgz44l7RrCK3"
@@ -801,7 +903,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 341093,
       "name": "Oh My Love",
       "url": "https://open.spotify.com/track/6o2OoZbn5shmkO7AVKbRe1"
@@ -819,7 +921,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-27",
+      "date_removed": "2022-10-27",
       "duration_ms": 186466,
       "name": "Over and Over",
       "url": "https://open.spotify.com/track/5AXQomuNhUW0iLVkzvyVJ5"
@@ -855,7 +957,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-11-12",
       "duration_ms": 191733,
       "name": "Round & Round",
       "url": "https://open.spotify.com/track/2SbXVopNbJtU088mzkfBIS"
@@ -877,6 +979,42 @@
       "duration_ms": 137466,
       "name": "Scarborough Fair - Remastered for Buddha",
       "url": "https://open.spotify.com/track/6YxNkTm0dBwrhPvzRRp2eU"
+    },
+    {
+      "album": {
+        "name": "Alive & Kicking",
+        "url": "https://open.spotify.com/album/104FlqarJg6i3k5XZtWgOc"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261456,
+      "name": "Seventeen (And In Love)",
+      "url": "https://open.spotify.com/track/3VNuR7BTR6293tyn8aSUKW"
+    },
+    {
+      "album": {
+        "name": "Philly Groove Records Presents: This Time",
+        "url": "https://open.spotify.com/album/4JiEK0vq0RvCZIYB4PdCMs"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-20",
+      "duration_ms": 261583,
+      "name": "Seventeen (And In Love)",
+      "url": "https://open.spotify.com/track/60kXFhrH2WuAhI8kpsJFjb"
     },
     {
       "album": {
@@ -931,7 +1069,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 198573,
       "name": "Somebody Loves You - Remastered",
       "url": "https://open.spotify.com/track/7LQlozny7nxRh3ZbtyCKlU"
@@ -949,7 +1087,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-11-12",
       "duration_ms": 298906,
       "name": "Somewhere In My Life",
       "url": "https://open.spotify.com/track/3d1uzoWQBbUqQbP3ZqpUcb"
@@ -967,10 +1105,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 259199,
       "name": "Start All Over Again",
       "url": "https://open.spotify.com/track/3T94VAbOrvsKgXEFsTLEOb"
+    },
+    {
+      "album": {
+        "name": "Alive & Kicking",
+        "url": "https://open.spotify.com/album/104FlqarJg6i3k5XZtWgOc"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260295,
+      "name": "Start All Over Again",
+      "url": "https://open.spotify.com/track/4LqQ3ag9ltTwpq6XwM5I4u"
     },
     {
       "album": {
@@ -1014,6 +1170,28 @@
     },
     {
       "album": {
+        "name": "The Delfonics vs Ray, Goodman & Brown Live In Concert",
+        "url": "https://open.spotify.com/album/4VOJpxfPuOTxCxYBKe1QQ5"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        },
+        {
+          "name": "Ray, Goodman & Brown",
+          "url": "https://open.spotify.com/artist/58U0OwuIViimy39WEbRbXh"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126551,
+      "name": "Sunday - Live",
+      "url": "https://open.spotify.com/track/2MwXRhpyzJF4arnAI6bgLa"
+    },
+    {
+      "album": {
         "name": "Tell Me This Is a Dream (Expanded Version)",
         "url": "https://open.spotify.com/album/2jOEnosh3mYjrVAqPThwdw"
       },
@@ -1043,7 +1221,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-11-11",
       "duration_ms": 198893,
       "name": "The Look of Love",
       "url": "https://open.spotify.com/track/24qtnTXiPpfcaK3BFGWBi9"
@@ -1061,7 +1239,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 190146,
       "name": "The Phoney",
       "url": "https://open.spotify.com/track/2SQMUwmA8zQ1YPTwwJKr3v"
@@ -1079,7 +1257,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 204560,
       "name": "The Shadow of Your Smile",
       "url": "https://open.spotify.com/track/76g73QHtKlGFAW2FUSCV0e"
@@ -1097,7 +1275,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 208333,
       "name": "The Way Things Are (Aren't The Way They Used To Be)",
       "url": "https://open.spotify.com/track/7bMzxxzDoXkMJQiCjv88RU"
@@ -1115,7 +1293,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 279400,
       "name": "Think It Over - Digitally Remastered 1997",
       "url": "https://open.spotify.com/track/4OvI7trjELxJHuuNPCjO9R"
@@ -1155,7 +1333,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 156506,
       "name": "Too Late",
       "url": "https://open.spotify.com/track/3W3IOmKU0sWOpBpWSiCkyH"
@@ -1253,7 +1431,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 168600,
       "name": "When You Get Right Down to It",
       "url": "https://open.spotify.com/track/3JpDpIUafzYIM1fXRPCjWX"
@@ -1271,7 +1449,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 132466,
       "name": "With These Hands - Remastered",
       "url": "https://open.spotify.com/track/5Pm15LzKOs6Z0IzprI1DHV"
@@ -1289,7 +1467,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-10-22",
       "duration_ms": 156800,
       "name": "You Are Gone",
       "url": "https://open.spotify.com/track/3AkrMid9xl55qnGMlkIXUX"
@@ -1307,7 +1485,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-11-01",
       "duration_ms": 122733,
       "name": "You Can't Be Loving Him - Remastered",
       "url": "https://open.spotify.com/track/0h1s4cBBH62Ho08qY9Qdey"

@@ -4,7 +4,7 @@
 
 > From Fela Kuti to Antibalas, enjoy a collection of timeless Afrobeat music!
 
-67 songs - 6 hr 15 min - [published](https://open.spotify.com/playlist/4VcScZv2o0s4WmAHR6nbC5)
+68 songs - 6 hr 17 min - [published](https://open.spotify.com/playlist/4VcScZv2o0s4WmAHR6nbC5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Pulsos \(feat\. Antibalas Horns\)](https://open.spotify.com/track/3kp6IvmEaFGQZE1uvtK8n4) | [Balún](https://open.spotify.com/artist/6Uk2pq20qpkftbU2PEDWoU), [Antibalas Horns](https://open.spotify.com/artist/0VMmjlR5yE56cl2YYmDgE2) | [Prisma Tropical](https://open.spotify.com/album/5rxHa78aHnkv9r0yzzo1fU) | 4:28 | 2019-08-09 |  |
 | [Talking Bush](https://open.spotify.com/track/1pD52RIAJeW8pd75WRBSSx) | [Chicago Afrobeat Project](https://open.spotify.com/artist/5vGu21AjbS8AR9A1Ivgl5j) | [Chicago Afrobeat Project](https://open.spotify.com/album/04zWkNRPOYwP5Hbknd7L7J) | 6:06 | 2019-08-09 |  |
 | [The Quest](https://open.spotify.com/track/5a42YtdB4TY0yzwurELbPV) | [Afro Cult Foundation](https://open.spotify.com/artist/53zndoyLuGS5qYhiDDLxOG) | [The Quest](https://open.spotify.com/album/2Ybl0TNDbTtvgMDfh1Eykw) | 8:12 | 2019-08-09 |  |
+| [The Traitor](https://open.spotify.com/track/1AsfRAABzh6ojovJYDDQlN) | [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [Late Night Tales: Bonobo](https://open.spotify.com/album/75mOIzgjMsFLN5hyQlpsy8) | 2:40 | 2022-09-26 | 2022-11-13 |
 | [The Traitor](https://open.spotify.com/track/0kxFVCOcAV3Rwwes2f1SSd) | [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [Make The Road By Walking](https://open.spotify.com/album/6QZl5MQoa4pTlL3YtslF7G) | 2:42 | 2019-08-09 | 2022-07-29 |
 | [The Traitor](https://open.spotify.com/track/1bZH8L8V2m454tdcSPEIl7) | [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [Make the Road By Walking](https://open.spotify.com/album/6wdxaAC6P7f6w05QadHFcB) | 2:42 | 2019-08-09 |  |
 | [The Volcano Song](https://open.spotify.com/track/2XKH3QI6csFvggAPJNKCBt) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [The Budos Band](https://open.spotify.com/album/1DTr4zczUy1kfP9cISFH6v) | 2:50 | 2019-08-09 |  |

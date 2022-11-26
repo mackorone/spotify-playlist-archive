@@ -81,7 +81,7 @@
     {
       "album": {
         "name": "Ani DiFranco",
-        "url": "https://open.spotify.com/album/7cdszxdNxyYrL9wkPPpCcw"
+        "url": "https://open.spotify.com/album/0831E4Cmgg52SYn6TEuw3K"
       },
       "artists": [
         {
@@ -92,6 +92,24 @@
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 218800,
+      "name": "Both Hands",
+      "url": "https://open.spotify.com/track/1pQhpD3hn0IBcY2sDdjIdg"
+    },
+    {
+      "album": {
+        "name": "Ani DiFranco",
+        "url": "https://open.spotify.com/album/7cdszxdNxyYrL9wkPPpCcw"
+      },
+      "artists": [
+        {
+          "name": "Ani DiFranco",
+          "url": "https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD"
+        }
+      ],
+      "date_added": "2021-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-03",
       "duration_ms": 218800,
       "name": "Both Hands",
       "url": "https://open.spotify.com/track/4FJsFAdLFGqrmuM74CIzhs"
@@ -293,7 +311,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 278691,
       "name": "Forget - Live from Spotify, NYC",
       "url": "https://open.spotify.com/track/1gpyfbutOl79qgVjMrZQOe"
@@ -315,6 +333,24 @@
       "duration_ms": 230346,
       "name": "Green Eyes",
       "url": "https://open.spotify.com/track/1FoCSrNyUVF00C8foohH2G"
+    },
+    {
+      "album": {
+        "name": "Christmas Classics",
+        "url": "https://open.spotify.com/album/397wI1XGpZ1DOuP0Zvq3Xi"
+      },
+      "artists": [
+        {
+          "name": "Jeff Buckley",
+          "url": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
+        }
+      ],
+      "date_added": "2021-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 413320,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/1zbe9xUzzuFFgwEeqntTs5"
     },
     {
       "album": {
@@ -390,6 +426,42 @@
     },
     {
       "album": {
+        "name": "Joan Shelley",
+        "url": "https://open.spotify.com/album/4VHpVi7PChqkW5ydU9yX8n"
+      },
+      "artists": [
+        {
+          "name": "Joan Shelley",
+          "url": "https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw"
+        }
+      ],
+      "date_added": "2021-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 186813,
+      "name": "I Got What I Wanted",
+      "url": "https://open.spotify.com/track/4uqJNpkCMUqnwhce5QD5MI"
+    },
+    {
+      "album": {
+        "name": "O",
+        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
+      },
+      "artists": [
+        {
+          "name": "Damien Rice",
+          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+        }
+      ],
+      "date_added": "2021-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 331266,
+      "name": "I Remember",
+      "url": "https://open.spotify.com/track/7FUxSlW3F4vih5wMVv4Yh4"
+    },
+    {
+      "album": {
         "name": "I Forget Where We Were",
         "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
       },
@@ -405,6 +477,24 @@
       "duration_ms": 213440,
       "name": "In Dreams",
       "url": "https://open.spotify.com/track/6yPuQr6vjZ7tJ4oq1PEXle"
+    },
+    {
+      "album": {
+        "name": "Hozier",
+        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2021-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 277653,
+      "name": "It Will Come Back",
+      "url": "https://open.spotify.com/track/13CyXxYgWD9N5KwWqRYU1U"
     },
     {
       "album": {
@@ -495,6 +585,24 @@
       "duration_ms": 192998,
       "name": "Leave the Light On - Demo",
       "url": "https://open.spotify.com/track/2nxBkZ02hsiU3SIowH4XQI"
+    },
+    {
+      "album": {
+        "name": "Before July: Demos & Unreleased Songs",
+        "url": "https://open.spotify.com/album/5tcFsyGfCQTwSlFuui8HAh"
+      },
+      "artists": [
+        {
+          "name": "Marissa Nadler",
+          "url": "https://open.spotify.com/artist/5zjaF8JUdylMWrA7AVo3hJ"
+        }
+      ],
+      "date_added": "2021-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 192998,
+      "name": "Leave the Light On - Demo",
+      "url": "https://open.spotify.com/track/4pCeGOpnyFmCUz0bFYLplA"
     },
     {
       "album": {
@@ -743,7 +851,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-12",
+      "date_removed": "2022-11-14",
       "duration_ms": 191560,
       "name": "Middle of the Bed",
       "url": "https://open.spotify.com/track/14pqO5S2mQ7Lw2Qjcyv4Fq"
@@ -869,10 +977,28 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 216405,
       "name": "Revelry",
       "url": "https://open.spotify.com/track/0MqjKvmJPGJ6t0EQ83jcd2"
+    },
+    {
+      "album": {
+        "name": "Badass Females",
+        "url": "https://open.spotify.com/album/21YGYYto3r09ftcws57EdL"
+      },
+      "artists": [
+        {
+          "name": "Bishop Briggs",
+          "url": "https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e"
+        }
+      ],
+      "date_added": "2021-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 214280,
+      "name": "River",
+      "url": "https://open.spotify.com/track/27DA5qcRz7oH54OVNuhuUr"
     },
     {
       "album": {
@@ -977,7 +1103,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-10",
+      "date_removed": null,
       "duration_ms": 235160,
       "name": "Ships In The Night",
       "url": "https://open.spotify.com/track/3NL6ZotZh6tO2fssI1Iops"
@@ -1193,7 +1319,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": "2022-11-13",
       "duration_ms": 211693,
       "name": "This Love",
       "url": "https://open.spotify.com/track/6QaZxL2jD5dzo58Q4tJuFz"
@@ -1337,7 +1463,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 226320,
       "name": "Uncuff Me",
       "url": "https://open.spotify.com/track/4Xv1crOLCZIuWDRW4d7ePJ"
@@ -1417,6 +1543,24 @@
     {
       "album": {
         "name": "Delta",
+        "url": "https://open.spotify.com/album/4TgzPAmjhR2Qkh7P6lIRnH"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2021-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274552,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/3IlbpxM6lji2UsBL2VYIAn"
+    },
+    {
+      "album": {
+        "name": "Delta",
         "url": "https://open.spotify.com/album/0Wmnkh4lzGy5rgkUPOjYbg"
       },
       "artists": [
@@ -1445,7 +1589,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 274552,
       "name": "Woman",
       "url": "https://open.spotify.com/track/4LngVAmigX4WrBEDfonBlU"
@@ -1481,10 +1625,28 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 257780,
       "name": "Wretched Body",
       "url": "https://open.spotify.com/track/20q5V8Lrp9b4PZcx6KhGfn"
+    },
+    {
+      "album": {
+        "name": "Wretched Body",
+        "url": "https://open.spotify.com/album/4u4OkAsKvtf6xXKhopWt6y"
+      },
+      "artists": [
+        {
+          "name": "Beth Rowley",
+          "url": "https://open.spotify.com/artist/7KUBHcBdAezQcKu9mZJM1Y"
+        }
+      ],
+      "date_added": "2021-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257780,
+      "name": "Wretched Body",
+      "url": "https://open.spotify.com/track/4QOpXfJt9UsMCiHM7WVyrj"
     },
     {
       "album": {

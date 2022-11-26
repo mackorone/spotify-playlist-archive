@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3L1KIXcFcHhfeMlf7pD7IB.md) - [plain]
 
 > An epic event in the making\. You can not enjoy a Foam party without the perfect songs to get everyone jumping\. Turn it up and let the foam start flowing!
 
-[Spotify](https://open.spotify.com/user/spotify) - 192 likes - 67 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 193 likes - 67 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

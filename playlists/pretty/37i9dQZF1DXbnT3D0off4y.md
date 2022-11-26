@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnT3D0off4y.md) - [plain]
 
 > The official Ozark playlist with all the music from Season 4.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,994 likes - 34 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,673 likes - 34 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,13 +34,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnT3D0off4y.md) - [plain]
 | 24 | [11/8](https://open.spotify.com/track/5VlTP2jsZtcI2ngEAMROIs) | [sym fera](https://open.spotify.com/artist/4bNH7vQonpwgnciSYN5E5E) | [11/8](https://open.spotify.com/album/5j4gFkmwXU30CsGsqbZ2ed) | 4:53 |
 | 25 | [Dreams](https://open.spotify.com/track/3lEYOLrK5iSd8PyzzKtnPF) | [Scantron](https://open.spotify.com/artist/5IXQxZ7tlQoI4qFVO37ejj) | [Electric City](https://open.spotify.com/album/49hkWW4e9WP3riEROQTJTE) | 3:02 |
 | 26 | [Untitled \(feat\. Scar\)](https://open.spotify.com/track/68qkEjGepczQDzuhxH5anO) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Scar](https://open.spotify.com/artist/0sywmyZ8FiRChMptufCVUS) | [R.A.P\. Music](https://open.spotify.com/album/5EAhUoAz1G3WTvIfGZvmrh) | 3:53 |
-| 27 | [Ca plane pour moi](https://open.spotify.com/track/71yCMlsD6qbD7NmNUEoVNR) | [Plastic Bertrand](https://open.spotify.com/artist/1KeIof0zqga5ojkmOKg88P) | [Plastic Bertrand](https://open.spotify.com/album/1wLw41yiDGcZowrw3L3Bkd) | 3:02 |
+| 27 | [Ca Plane Pour Moi](https://open.spotify.com/track/4sf4Lq52b2iCoAgpge7a9g) | [Plastic Bertrand](https://open.spotify.com/artist/1KeIof0zqga5ojkmOKg88P) | [Plastic Bertrand](https://open.spotify.com/album/1hbQEk8Dpx3OS6MrZZ4wbq) | 3:02 |
 | 28 | [Weepin Willow Tree](https://open.spotify.com/track/5FnSd0uYNoX73MAQQvhKCF) | [Gwynn Michaels](https://open.spotify.com/artist/1OVOJT3t9IhIKfxMr7N7Gr) | [The Helva Records Sessions](https://open.spotify.com/album/1reUXWDUT7Xidaw7tMADUq) | 3:51 |
 | 29 | [a lot](https://open.spotify.com/track/2t8yVaLvJ0RenpXUIAC52d) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was](https://open.spotify.com/album/007DWn799UWvfY1wwZeENR) | 4:48 |
 | 30 | [Namuh](https://open.spotify.com/track/2OhgVksO3lHX46gyrMTq6I) | [Elvin Jones](https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF) | [On the Mountain](https://open.spotify.com/album/7DwNg5AkuHEk4Of10oxrkZ) | 7:50 |
 | 31 | [My Evil Mind](https://open.spotify.com/track/4NrwCLspkSaUx4u5YyyXs2) | [Jack Cook](https://open.spotify.com/artist/2ALZKc8QSXDQG8ZY5MioZ6) | [My Evil Mind](https://open.spotify.com/album/0luvhfkVkUQIJN0tQsfvui) | 2:13 |
-| 32 | [You Bore Me](https://open.spotify.com/track/3SaRmjj9eYqgHJ0mLcx7QR) | [Husky Loops](https://open.spotify.com/artist/1quz8ZBmFY2nzmoMcUXcX9) | [You Bore Me](https://open.spotify.com/album/6VtXZnqbvUQGkVMf00WtLC) | 2:30 |
+| 32 | [You Bore Me](https://open.spotify.com/track/0nUu8IRQvsp1oW2LnFLnlu) | [Husky Loops](https://open.spotify.com/artist/1quz8ZBmFY2nzmoMcUXcX9) | [You Bore Me](https://open.spotify.com/album/402jsT4R41fChOFiaVgd9E) | 2:30 |
 | 33 | [Here In Spirit](https://open.spotify.com/track/5GE8FTL15kS123apRK7vD4) | [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4) | [Eternally Even](https://open.spotify.com/album/2wYw4vZlu7XwvtdQPRmsmL) | 4:16 |
 | 34 | [I Feel Sanctified](https://open.spotify.com/track/2WXv5t8wG3V3zCxGrYJtuL) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Machine Gun](https://open.spotify.com/album/4OghKaRV54hQKGhkpD5cLC) | 3:44 |
 
-Snapshot ID: `MTY1MTIwNDkyMCwwMDAwMDAwMDY4ZTUxMjRiNGE0NDJlNTA4YjczNGUxNzU2MjgyNmI3`
+Snapshot ID: `MTY1MTIwNDkyMCwwMDAwMDAwMGM2NGQ1MDUwNDU5MmZkZmUwZWY5ZGE5Y2FlYWY5Njc1`

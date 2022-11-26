@@ -4,7 +4,7 @@
 
 > Tapping Gallant, ANOHNI, and more, the Canadian duo forge a Pride list that defines eclecticism\. Listen for a new tune with Ingrid Michaelson.
 
-46 songs - 3 hr 0 min - [published](https://open.spotify.com/playlist/5ZnqR4bBjTmkxLaZkof7fU)
+50 songs - 3 hr 19 min - [published](https://open.spotify.com/playlist/5ZnqR4bBjTmkxLaZkof7fU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,9 +15,11 @@
 | [Boyfriend](https://open.spotify.com/track/7Gt5J8EAM6hj4uT1fHEZUl) | [The Goon Sax](https://open.spotify.com/artist/7qtF58vGfOhD4z3yzrD9PD) | [Up to Anything](https://open.spotify.com/album/2jdxXOqTIKrLdJicu74xSx) | 2:59 | 2022-07-29 |  |
 | [Chroma](https://open.spotify.com/track/3n7M8kSbSzBf1jrzodJSFj) | [Basenji](https://open.spotify.com/artist/4FH1qQ5KcTtomryu4O5pgX) | [Chroma](https://open.spotify.com/album/1oDlsYuTMY0j7njqZlmyhz) | 7:29 | 2017-06-02 | 2022-07-29 |
 | [Chroma](https://open.spotify.com/track/74hmy168eOivZZhdLJKU8v) | [Basenji](https://open.spotify.com/artist/4FH1qQ5KcTtomryu4O5pgX) | [Chroma](https://open.spotify.com/album/3yMzf0bNHMAL8A6wunIHYi) | 7:29 | 2022-07-29 |  |
+| [Chroma](https://open.spotify.com/track/7bXZ9u4Cccw9oYOzWP31MT) | [Basenji](https://open.spotify.com/artist/4FH1qQ5KcTtomryu4O5pgX) | [One In A Million: A Future Classic Compilation](https://open.spotify.com/album/0bBhSWcWu6laymRdRrbz72) | 7:29 | 2022-11-11 | 2022-11-14 |
 | [Everybody Wants to Love You](https://open.spotify.com/track/2xMkD3Zv3tBUMyOzLmIYYZ) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Everybody Wants to Love You](https://open.spotify.com/album/7iRFeAePGZRT2HLP9WkmBv) | 2:12 | 2017-06-02 | 2022-07-29 |
 | [Everybody Wants to Love You](https://open.spotify.com/track/38OvTFIg5ZYRow2sA1jgKo) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Psychopomp](https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G) | 2:12 | 2022-07-29 |  |
 | [Holiday](https://open.spotify.com/track/3ibAzRj9JnowdoLkyllk3n) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madonna \(Reissue\)](https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW) | 3:51 | 2022-07-29 |  |
+| [Holiday](https://open.spotify.com/track/49ul7T6QlHsbnwYYNXE87O) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Wedding Singer \(More Music From The Motion Picture\)](https://open.spotify.com/album/2qrkWwNyjy7zwFgueA5slQ) | 3:51 | 2022-11-12 | 2022-11-13 |
 | [Holiday](https://open.spotify.com/track/7arHM2KZ0KzIZXFVDRGClI) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madonna](https://open.spotify.com/album/1DWWb4Q39mp1T3NgyscowF) | 3:51 | 2017-06-02 | 2022-07-29 |
 | [In the House of Yes](https://open.spotify.com/track/2dSOk0ME7K6LjHfW2Bh4ww) | [Mr Twin Sister](https://open.spotify.com/artist/5ltJZgIW3OkY5WvuzX5MYz) | [Mr Twin Sister](https://open.spotify.com/album/5d1EnTsM3SBkly6fENKprF) | 6:40 | 2017-06-02 | 2022-07-29 |
 | [In the House of Yes](https://open.spotify.com/track/7eeNU3Zm56wzyl7MQDvEAH) | [Mr Twin Sister](https://open.spotify.com/artist/5ltJZgIW3OkY5WvuzX5MYz) | [Mr Twin Sister](https://open.spotify.com/album/65PiA4pb8RyCLOzwjsqP3X) | 6:40 | 2022-07-29 |  |
@@ -33,6 +35,7 @@
 | [See, Know](https://open.spotify.com/track/3VjhqZXe5WYyyFYgCrVJkO) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Will](https://open.spotify.com/album/5TQGEWrZpq2O5TdRbLID3q) | 5:04 | 2017-06-02 | 2022-07-29 |
 | [See, Know](https://open.spotify.com/track/6bAgNeCSmRrKtOaHHD5aSl) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Will](https://open.spotify.com/album/4KwHbfz70XklNDO1ZNC8EE) | 5:04 | 2022-07-29 |  |
 | [Shadow](https://open.spotify.com/track/3sJQGz6WX2YIBaHsH3bRMq) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Shadow](https://open.spotify.com/album/6IoA01Eo4bfsXfEKBEisyG) | 3:44 | 2022-07-29 |  |
+| [Shadow](https://open.spotify.com/track/00axgzroYkux1s1srQwxWP) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Twin Peaks \(Music from the Limited Event Series\)](https://open.spotify.com/album/2H4olJjNjDU0FwsFbYvvk5) | 3:44 | 2022-11-11 | 2022-11-13 |
 | [Shadow \- Radio](https://open.spotify.com/track/7HB9ilX2MtVzvgdrarihMk) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Shadow](https://open.spotify.com/album/4gy94KSgNMaxdSNQPPMKxO) | 3:45 | 2017-06-02 | 2022-07-29 |
 | [Sprained Ankle](https://open.spotify.com/track/1qKDjasAnswlbgBsOd8DJp) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Sprained Ankle](https://open.spotify.com/album/5rfzi2DFB4gH5XhXjsuGQN) | 2:22 | 2022-07-29 |  |
 | [Sprained Ankle](https://open.spotify.com/track/5mHTg6cqhyP0BmsTQKzN1X) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Sprained Ankle](https://open.spotify.com/album/4dRzxZm69k9s0nzKmKb8Gj) | 2:22 | 2017-06-02 | 2022-07-29 |
@@ -45,6 +48,7 @@
 | [Tegan and Sara Spotify Pride Intro](https://open.spotify.com/track/4fuwadVr6WOQoSydfA3fkR) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Tegan and Sara \- Spotify Pride](https://open.spotify.com/album/0xYvIMRxFzd25UqhFOeSIq) | 0:14 | 2017-06-02 |  |
 | [Watch Me](https://open.spotify.com/track/1VG1EM5OL6oObCFaaSzdo4) | [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo) | [HOPELESSNESS](https://open.spotify.com/album/7rLsyyAKx19sy9Nwn8WoGH) | 3:26 | 2022-07-29 |  |
 | [Watch Me](https://open.spotify.com/track/6EyyJLYyP6v6nCPp9sZ7bz) | [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo) | [HOPELESSNESS](https://open.spotify.com/album/3dAx4u7AJy72a6M1ms6uYF) | 3:26 | 2017-06-02 | 2022-07-29 |
+| [Whole Lot of Heart](https://open.spotify.com/track/1we2t9yZKlenFl1TxvaFMH) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0), [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Acoustic Pop Tunes](https://open.spotify.com/album/1FxBXcylI0PT1B3hnqfwOc) | 3:35 | 2022-11-11 | 2022-11-14 |
 | [Whole Lot of Heart](https://open.spotify.com/track/32KIujDlLknspiWzgzzu4T) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0), [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Alter Egos](https://open.spotify.com/album/7klwGONK4lrD6VMOE68xCZ) | 3:35 | 2017-06-02 | 2022-07-29 |
 | [Whole Lot of Heart](https://open.spotify.com/track/6Nvc82bjwooWPGwaBixf6s) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0), [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Alter Egos](https://open.spotify.com/album/1p4ZKxMRpLcgONdy4rLKXJ) | 3:35 | 2022-07-29 |  |
 | [Work \- Lost Kings Remix](https://open.spotify.com/track/3Qnqmo5wfuEpMKf8b9Cg1n) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc) | [Work \(Remixes\)](https://open.spotify.com/album/4zuZnAmDCk2FIl8ZfvvmoD) | 4:18 | 2017-06-02 |  |

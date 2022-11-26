@@ -361,7 +361,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 141213,
       "name": "El Malandr\u00edn",
       "url": "https://open.spotify.com/track/3YfrZf562Ixxq5rAHmO4GI"
@@ -469,7 +469,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 146040,
       "name": "La Captura",
       "url": "https://open.spotify.com/track/79RyBdM6shRCcdYIFtyWoo"
@@ -541,7 +541,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-22",
+      "date_removed": "2022-10-12",
       "duration_ms": 163533,
       "name": "Ladr\u00f3n",
       "url": "https://open.spotify.com/track/0WTCzhTWHYMhFyK6VURAbA"
@@ -865,7 +865,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-09",
+      "date_removed": "2022-10-13",
       "duration_ms": 242613,
       "name": "Quince Minutos De Ti",
       "url": "https://open.spotify.com/track/2fczBn1fEYW5vJASRovoln"
@@ -955,7 +955,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 166786,
       "name": "Te Amo M\u00e1s",
       "url": "https://open.spotify.com/track/0mUXqS2tc8wAH8tXGl96fM"
@@ -995,6 +995,24 @@
       "duration_ms": 209333,
       "name": "Te Quiero Enamorar - Balada Version",
       "url": "https://open.spotify.com/track/0tlYDlWKenqL5u78jZKh0z"
+    },
+    {
+      "album": {
+        "name": "Rey De La Banda Y Norte\u00f1o",
+        "url": "https://open.spotify.com/album/2tdtsRboNFr44cpB8z8Lqp"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 235146,
+      "name": "Tierra En Los Ojos - Version Banda",
+      "url": "https://open.spotify.com/track/1dOmeBi3DAelKAMPi5QuKQ"
     },
     {
       "album": {
@@ -1063,7 +1081,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 224933,
       "name": "T\u00fa - Balada Version",
       "url": "https://open.spotify.com/track/2WLBbZNzqxxga0ZRhUX7w0"

@@ -4,7 +4,7 @@
 
 > O melhor do rap luso em 2021\. Foto: Wet Bed Gang
 
-53 songs - 3 hr 11 min - [published](https://open.spotify.com/playlist/6T3cBjgrUaOVDEiFj5TfBD)
+54 songs - 3 hr 14 min - [published](https://open.spotify.com/playlist/6T3cBjgrUaOVDEiFj5TfBD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Abraço](https://open.spotify.com/track/5IwgsQkoSeDPr4yWPILbiE) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4), [Rony Fuego](https://open.spotify.com/artist/0DxsiYPUEWLY4HjaUDM8Lk) | [Abraço](https://open.spotify.com/album/1NEgmMKZTPfgeVqtEfeFng) | 2:57 | 2021-12-01 |  |
 | [Amor Ou Segredo](https://open.spotify.com/track/0NAIF6FSjiH0jECUSy2xtU) | [Bless](https://open.spotify.com/artist/7G3cc4g02s4aGoY30P8dIG) | [Amor Ou Segredo](https://open.spotify.com/album/2fY2MEmSGaDqmHFJxj9Eql) | 4:04 | 2021-12-01 |  |
 | [Balenciaga](https://open.spotify.com/track/5eVvKczqcVsNQq6pxI3ciO) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/4ZgWBr16niSFDwCIiJ4iBk) | 3:57 | 2021-12-01 |  |
-| [Bandidas \(feat\. Julinho KSD, Kibow, Trista & Yuran\)](https://open.spotify.com/track/6MEZbtP3lg3mHnE9LzZn4S) | [Instinto 26](https://open.spotify.com/artist/0XrDy5XUWRVcD4O8sSyzEV), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Kibow](https://open.spotify.com/artist/09R2ZnVOtZJjYH5CkDkA0M), [Trista](https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw), [Yuran](https://open.spotify.com/artist/3zvbATHitSjEZ54l7QnJN0) | [Bandidas \(feat\. Julinho KSD, Kibow, Trista & Yuran\)](https://open.spotify.com/album/3GOXhstBnGiQbQylnIWEnq) | 3:30 | 2021-12-01 |  |
+| [Bandidas](https://open.spotify.com/track/6MEZbtP3lg3mHnE9LzZn4S) | [Instinto 26](https://open.spotify.com/artist/0XrDy5XUWRVcD4O8sSyzEV), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Kibow](https://open.spotify.com/artist/09R2ZnVOtZJjYH5CkDkA0M), [Yuran](https://open.spotify.com/artist/3zvbATHitSjEZ54l7QnJN0), [Trista](https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw) | [Bandidas](https://open.spotify.com/album/3GOXhstBnGiQbQylnIWEnq) | 3:30 | 2021-12-01 |  |
 | [Bonnie & Clyde](https://open.spotify.com/track/30A76Y7rYcNuZAzOIjcveL) | [Minguito 283](https://open.spotify.com/artist/1LvFNnGu8V8HBP8Qy2bhYv) | [Bonnie & Clyde](https://open.spotify.com/album/07fLryxsmiSAmBYEHqAXbE) | 3:15 | 2021-12-01 |  |
 | [Borboletas](https://open.spotify.com/track/1h1JMmAzXR6lWJ7KnJQkU7) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [Borboletas](https://open.spotify.com/album/1i51I1eMbdhkaH8AShzWjh) | 3:24 | 2021-12-01 |  |
 | [Bossy](https://open.spotify.com/track/45cbUgJwFXYPN3tURnSH2l) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [Bossy](https://open.spotify.com/album/5QlvEKeqaZJjSa3Z9tmCzI) | 2:46 | 2021-12-01 |  |
@@ -44,6 +44,7 @@
 | [Nunca Tive Bem](https://open.spotify.com/track/6HbOwNPeSGIWgUaKfVcDbf) | [Guga](https://open.spotify.com/artist/5bHp05UXAArdXldRyU8lJP) | [Nunca Tive Bem](https://open.spotify.com/album/6HRgRCbY56jXxVZJ1y3O2H) | 3:33 | 2021-12-01 |  |
 | [Nós](https://open.spotify.com/track/14PBWx7Rw87WXVzXarDqiX) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l) | [Nós](https://open.spotify.com/album/3Nhv7u22lQ4LieQlR7l4Lz) | 4:38 | 2021-12-01 |  |
 | [Nós Pimba](https://open.spotify.com/track/19rBtPDO8yQj5uP75UBpbT) | [Chico da Tina](https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94) | [E Agora Como É Que É](https://open.spotify.com/album/3wDIcln0ShOc0Bh1bngNFJ) | 3:28 | 2021-12-01 |  |
+| [Nós Pimba](https://open.spotify.com/track/41vGMNuSiFf7K8ZDPzix6z) | [Chico da Tina](https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94) | [Nós Pimba](https://open.spotify.com/album/2KJzKh3Po3vQbxIV0nB1V0) | 3:28 | 2021-12-01 | 2022-11-13 |
 | [Nós Pimba](https://open.spotify.com/track/5L9PsYMyTsyiXAbQaGi3aN) | [Chico da Tina](https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94) | [E Agora Como É Que É](https://open.spotify.com/album/6GWMRBJ3DrcvocAGYhgSLh) | 3:28 | 2021-12-01 | 2022-07-29 |
 | [Pedrinha](https://open.spotify.com/track/7ItPibUAiTPtm2xHjX3aFi) | [Danni Gato](https://open.spotify.com/artist/0gn6QcKMo0cMWKbiPGEeVy), [Vado Más Ki Ás](https://open.spotify.com/artist/6HmLPYedWhpFhiF8BonrMG) | [Pedrinha](https://open.spotify.com/album/6NnLzHbVQHiOhlYJZOLziL) | 2:56 | 2021-12-01 |  |
 | [Perseus](https://open.spotify.com/track/4E7BWWaFUfafkyU8JOniFx) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/4ZgWBr16niSFDwCIiJ4iBk) | 3:34 | 2021-12-01 |  |

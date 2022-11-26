@@ -507,7 +507,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": null,
       "duration_ms": 196384,
       "name": "Contigo Me Quedo",
       "url": "https://open.spotify.com/track/3iwURMcbfTjtOZcBrVwQh5"
@@ -623,7 +623,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 182542,
       "name": "Eres T\u00fa (Cap. 6: Miedo a la Soledad)",
       "url": "https://open.spotify.com/track/0D259G1Rm5x1r0YWept67t"
@@ -949,7 +949,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-24",
+      "date_removed": "2022-11-13",
       "duration_ms": 267789,
       "name": "Lo Nuestro",
       "url": "https://open.spotify.com/track/1601gp2nMyNTbuIgZN0QCk"
@@ -1789,6 +1789,28 @@
       "duration_ms": 211400,
       "name": "Una Noche M\u00e1s",
       "url": "https://open.spotify.com/track/4CT9AWXN4jphJxRBhnUiNi"
+    },
+    {
+      "album": {
+        "name": "Una Noche M\u00e1s",
+        "url": "https://open.spotify.com/album/1uzsloGLr9bFGr6SguBgZZ"
+      },
+      "artists": [
+        {
+          "name": "Adrian Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 211400,
+      "name": "Una Noche M\u00e1s",
+      "url": "https://open.spotify.com/track/6h5Y9eJqzgiunuQICVkQb6"
     },
     {
       "album": {

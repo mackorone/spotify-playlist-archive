@@ -4,7 +4,7 @@
 
 > Love at its most dramatic\. Cover: Moulin Rouge
 
-87 songs - 5 hr 18 min - [published](https://open.spotify.com/playlist/2qmmfC30ZHMujmfzim09nF)
+88 songs - 5 hr 22 min - [published](https://open.spotify.com/playlist/2qmmfC30ZHMujmfzim09nF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [No One Else](https://open.spotify.com/track/1A2FtmZH9Q6uFXLjKCaWvt) | [Phillipa Soo](https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy) | [Natasha, Pierre And The Great Comet Of 1812 \(Original Cast Recording\)](https://open.spotify.com/album/3wYk6wDYQlA9f4VVxWellZ) | 4:23 | 2022-02-09 |  |
 | [No One Else](https://open.spotify.com/track/25QAR7Dq2PVClNcMhxUnW5) | [Phillipa Soo](https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy) | [Natasha, Pierre And The Great Comet Of 1812 \(Original Cast Recording\)](https://open.spotify.com/album/5fqECqRDlpn4zirl0aA8j7) | 4:23 | 2022-02-09 | 2022-07-29 |
 | [Not While I'm Around](https://open.spotify.com/track/67RQrv20bjrWI2cAWSjJXC) | [Stephen Sondheim](https://open.spotify.com/artist/4TbtUt49IMXEIMmNdifHb1), [Ken Jennings](https://open.spotify.com/artist/1RFTi2xW0l7TYzduCBKnTX), [Angela Lansbury](https://open.spotify.com/artist/0LtVJXnPR8msCJiE2DjHxy), [Paul Gemignani](https://open.spotify.com/artist/5oi5DXLFdDZKjwlVxRY3GS) | [Sweeney Todd: The Demon Barber of Fleet Street \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2q6InM859RCsSQOjHWNHk2) | 3:56 | 2022-02-09 |  |
-| [On My Own](https://open.spotify.com/track/0whLBafLYqsuFouLM2ZT9O) | [Les Misérables\-Original London Cast](https://open.spotify.com/artist/7EzZtsaDuv0EecScnO7wrh) | [Les Miserables \(The Original London Cast Recording\)](https://open.spotify.com/album/4h0K87rOHZXeuOqeXAsah8) | 3:59 | 2022-02-09 |  |
+| [On My Own](https://open.spotify.com/track/6cs44cWPd4652NlIrzRqNx) | [Frances Ruffelle](https://open.spotify.com/artist/5uSeMCBhe3DiROdFrwaXkw) | [Les Misérables \(Original 1985 London Cast Recording\)](https://open.spotify.com/album/6czYnhVAHQF0UiAilCvFMP) | 3:59 | 2022-02-09 |  |
+| [On My Own](https://open.spotify.com/track/0whLBafLYqsuFouLM2ZT9O) | [Les Misérables\-Original London Cast](https://open.spotify.com/artist/7EzZtsaDuv0EecScnO7wrh) | [Les Miserables \(The Original London Cast Recording\)](https://open.spotify.com/album/4h0K87rOHZXeuOqeXAsah8) | 3:59 | 2022-02-09 | 2022-10-26 |
 | [On the Street Where You Live](https://open.spotify.com/track/6vt39YXHTwUkEVjJsztr6x) | [Jordan Donica](https://open.spotify.com/artist/2NrfAs6msmsiqK4LPxb3sR), [Linda Mugleston](https://open.spotify.com/artist/2XNH9AdvUwkRQ4Njg8C4WD) | [My Fair Lady \(2018 Broadway Cast Recording\)](https://open.spotify.com/album/51698aTAgp4hUSqBc6dima) | 3:53 | 2022-02-09 |  |
 | [Only Us](https://open.spotify.com/track/7BbtvJqWnQRt8gSrWbUVym) | [Laura Dreyfuss](https://open.spotify.com/artist/5hqM93qFRmwRv3QGrLO0jK), [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Dear Evan Hansen \(Original Broadway Cast Recording\)](https://open.spotify.com/album/0LhDyJXelg31FKLW5GDcKi) | 3:47 | 2022-02-09 |  |
 | [People Will Say We're In Love \- From "Oklahoma!" Soundtrack](https://open.spotify.com/track/7JvQJYUB1PjtmjkuHRTUp8) | [Gordon Macrae](https://open.spotify.com/artist/3dvIPsJH7o9xnBwFxowzof), [Shirley Jones](https://open.spotify.com/artist/5ho7ydLm2qjRD4oeva5Sok) | [Oklahoma! \(Expanded Edition/Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Wg4qjJy5oNbhJ2p5JC3P8) | 4:20 | 2022-02-09 |  |

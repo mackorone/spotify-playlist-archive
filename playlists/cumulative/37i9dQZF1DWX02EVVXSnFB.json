@@ -238,6 +238,24 @@
     },
     {
       "album": {
+        "name": "Ultimate",
+        "url": "https://open.spotify.com/album/2gt5Y9pOGL18lQ2EzExuVW"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 435333,
+      "name": "Controversy",
+      "url": "https://open.spotify.com/track/4m5imjg1oYahdKMdghefLX"
+    },
+    {
+      "album": {
         "name": "Crush",
         "url": "https://open.spotify.com/album/1R9BIE7X0fzMrn3XHvetFO"
       },
@@ -257,7 +275,25 @@
     {
       "album": {
         "name": "Dance",
-        "url": "https://open.spotify.com/album/4HnqIIxtcFAuUqFX4soPVM"
+        "url": "https://open.spotify.com/album/7q65VftPY7x1F8bHHnKvvw"
+      },
+      "artists": [
+        {
+          "name": "Jay Safari",
+          "url": "https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-21",
+      "duration_ms": 165485,
+      "name": "Dance",
+      "url": "https://open.spotify.com/track/0h20OvcHKLzhEiQBY4Xgqe"
+    },
+    {
+      "album": {
+        "name": "Bad Decisions",
+        "url": "https://open.spotify.com/album/1gfhCvXKKGLGCRfdf02GiU"
       },
       "artists": [
         {
@@ -268,6 +304,24 @@
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 165485,
+      "name": "Dance",
+      "url": "https://open.spotify.com/track/1U4yfIDARp95wtUGOZZW51"
+    },
+    {
+      "album": {
+        "name": "Dance",
+        "url": "https://open.spotify.com/album/4HnqIIxtcFAuUqFX4soPVM"
+      },
+      "artists": [
+        {
+          "name": "Jay Safari",
+          "url": "https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
       "duration_ms": 165485,
       "name": "Dance",
       "url": "https://open.spotify.com/track/7AYYU5KQb4yjWyLEemiDc9"
@@ -311,7 +365,7 @@
     {
       "album": {
         "name": "Dance Moves",
-        "url": "https://open.spotify.com/album/5478vb7E5nJWOXs9JcAxRt"
+        "url": "https://open.spotify.com/album/0ZMXkL1EvpeOWxFQ2K3UKd"
       },
       "artists": [
         {
@@ -322,6 +376,24 @@
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 243945,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/38MS1Ch2ckFL4O29UVg7Nh"
+    },
+    {
+      "album": {
+        "name": "Dance Moves",
+        "url": "https://open.spotify.com/album/5478vb7E5nJWOXs9JcAxRt"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
       "duration_ms": 243945,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/4sFyLyuJOUVMDcaSg1oHEa"
@@ -804,6 +876,24 @@
     },
     {
       "album": {
+        "name": "Dream On",
+        "url": "https://open.spotify.com/album/2uuDPTEvQCzMyvmAVsbqk7"
+      },
+      "artists": [
+        {
+          "name": "George Duke",
+          "url": "https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 312706,
+      "name": "Shine On",
+      "url": "https://open.spotify.com/track/7anTdHy8B3QSnxmldi6H2u"
+    },
+    {
+      "album": {
         "name": "Manu Dibango Anthology",
         "url": "https://open.spotify.com/album/4WDsHhoLJTSGVAt7ydCoPN"
       },
@@ -819,6 +909,32 @@
       "duration_ms": 264306,
       "name": "Soul Makossa",
       "url": "https://open.spotify.com/track/21s0bjVrP7RtQskeUKZxOu"
+    },
+    {
+      "album": {
+        "name": "So Far to Go",
+        "url": "https://open.spotify.com/album/2xVOsuiQzvlvkKBIVXxjtc"
+      },
+      "artists": [
+        {
+          "name": "Cabu",
+          "url": "https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE"
+        },
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "No\u00e9",
+          "url": "https://open.spotify.com/artist/5FoIen3mGXGHRUeKIE7ymi"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154500,
+      "name": "Sun Moon",
+      "url": "https://open.spotify.com/track/3PdWdN2ATpRSWOsZMdChgp"
     },
     {
       "album": {
@@ -841,7 +957,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 154500,
       "name": "Sun Moon",
       "url": "https://open.spotify.com/track/7aBh7zmJbRT6YcdYsYU9kn"
@@ -903,6 +1019,28 @@
       "duration_ms": 205400,
       "name": "The Blue (feat. Snoop Dogg)",
       "url": "https://open.spotify.com/track/5Jw0Pi74l6A2jNG7k9CfNC"
+    },
+    {
+      "album": {
+        "name": "Sweetest Meditation",
+        "url": "https://open.spotify.com/album/3e6wUvHZ2zV5FCPpzFjTQ7"
+      },
+      "artists": [
+        {
+          "name": "Lord Echo",
+          "url": "https://open.spotify.com/artist/4SkLPRjzPXh6d5n32Vypy5"
+        },
+        {
+          "name": "Mara TK",
+          "url": "https://open.spotify.com/artist/3GzJfrTYqGHMASNHNNN7hN"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 354213,
+      "name": "The Sweetest Meditation",
+      "url": "https://open.spotify.com/track/02wV5Rj4zxYI6xp9SLb58e"
     },
     {
       "album": {
@@ -977,7 +1115,7 @@
     {
       "album": {
         "name": "Weekend Love",
-        "url": "https://open.spotify.com/album/2oI4tu8r7f3e1mgXYfYmMJ"
+        "url": "https://open.spotify.com/album/1JkJernn4xd0y6AeJM9N07"
       },
       "artists": [
         {
@@ -996,6 +1134,32 @@
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 219280,
+      "name": "Weekend Love",
+      "url": "https://open.spotify.com/track/0X89tZvVGokJi9NDuz5tqN"
+    },
+    {
+      "album": {
+        "name": "Weekend Love",
+        "url": "https://open.spotify.com/album/2oI4tu8r7f3e1mgXYfYmMJ"
+      },
+      "artists": [
+        {
+          "name": "Jafunk",
+          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
+        },
+        {
+          "name": "Mike Nasa",
+          "url": "https://open.spotify.com/artist/7dA0IZAV5Wr4SjKCnI7Gx3"
+        },
+        {
+          "name": "Dana Williams",
+          "url": "https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-15",
       "duration_ms": 219280,
       "name": "Weekend Love",
       "url": "https://open.spotify.com/track/4gcO8PD4skPOBneayOCBdE"

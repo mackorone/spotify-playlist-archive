@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaSYtampkg5n.md) - [plain]
 
 > Sheer joy for sunny days in 50 old and new African jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,719 likes - 50 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,025 likes - 50 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaSYtampkg5n.md) - [plain]
 | 9 | [The Coffee Cola Song](https://open.spotify.com/track/3GYBtgclotwzSnd3u21VY7) | [Francis Bebey](https://open.spotify.com/artist/0mdmrbu5UZ32uRcRp2z6mr) | [African Electronic Music \(1975\-1982\)](https://open.spotify.com/album/7w99Aae1tYSTSb1OiDnxYY) | 5:06 |
 | 10 | [Stop Jealous](https://open.spotify.com/track/0KgG8DYWlLQwPJSpsHyafq) | [Janka Nabay and the Bubu Gang](https://open.spotify.com/artist/1zC407L9CgUmxSDswWVISu) | [Build Music](https://open.spotify.com/album/1MXaSZMAZDQOVMbxhotGPq) | 3:54 |
 | 11 | [City In Lights](https://open.spotify.com/track/1P7WPHbG33wHjDHVjH6v11) | [Africa Express](https://open.spotify.com/artist/0FvSMtCS6UPO4dfsvFT4Vm), [Nick Zinner](https://open.spotify.com/artist/2skDtpQeOI6zjRWIT3iFkO), [Otim Alpha](https://open.spotify.com/artist/07uMqKd2ikfAnQiyF0bNlV), [Mahotella Queens](https://open.spotify.com/artist/2IUmEbKT6wvT8Jv7AEaMIA), [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [EGOLI](https://open.spotify.com/album/6XOtavVWhCDQTn6o10QeUB) | 4:01 |
-| 12 | [Kare Nanhasi](https://open.spotify.com/track/4ZAOkPfa22QYJlWtF6aJDg) | [Hallelujah Chicken Run Band](https://open.spotify.com/artist/55xAwB77WuAIIinohovFwe) | [Take One – Hallelujah Chicken Run Band](https://open.spotify.com/album/65rLpTr70dPG6deRYBpCm2) | 3:36 |
+| 12 | [Kare Nanhasi](https://open.spotify.com/track/4ZAOkPfa22QYJlWtF6aJDg) | [Hallelujah Chicken Run Band](https://open.spotify.com/artist/55xAwB77WuAIIinohovFwe) | [4\-Track Recording Session \(Analog Africa No\. 1\)](https://open.spotify.com/album/65rLpTr70dPG6deRYBpCm2) | 3:36 |
 | 13 | [Bamako](https://open.spotify.com/track/1oSip9aq8h5GyJW0t3rcfn) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Résistance](https://open.spotify.com/album/4Ihzwun58CM5vmphpBngFG) | 3:40 |
 | 14 | [Asa\-Sa](https://open.spotify.com/track/6qjqjWxDUQJ9XPfCzwxPOW) | [Fred Fisher](https://open.spotify.com/artist/3XQnrGFC2HRRgTt2N2TXWC) | [51 Lex Presents Funketeers, Vol\. 3](https://open.spotify.com/album/4USOs3dK9IXZShjZasmKJ2) | 8:08 |
 | 15 | [Nijaay](https://open.spotify.com/track/3rZn8W62JE6eZrzBLZw95D) | [Orchestra Baobab](https://open.spotify.com/artist/7xT0arvCDupDU1YYy0BNv9) | [Made in Dakar](https://open.spotify.com/album/5T2htXMWcRmuYQdoHJEgi9) | 7:11 |

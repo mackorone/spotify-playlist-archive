@@ -124,6 +124,24 @@
     },
     {
       "album": {
+        "name": "Smooth And Sexy; Smooth Jazz For Lovers!",
+        "url": "https://open.spotify.com/album/6zBZbM0nMN4WxmS9eolIsB"
+      },
+      "artists": [
+        {
+          "name": "Kim Waters",
+          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 314866,
+      "name": "After Midnight",
+      "url": "https://open.spotify.com/track/2e7UCiV7wLkwgbOxTJmTbE"
+    },
+    {
+      "album": {
         "name": "The Power Of Touch",
         "url": "https://open.spotify.com/album/1mBknqXixbFJaIlMzUD1N9"
       },
@@ -531,7 +549,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 300973,
       "name": "For the Love of You",
       "url": "https://open.spotify.com/track/4Or4bwHCtVrBFH4eLLG66j"
@@ -769,7 +787,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-22",
       "duration_ms": 359600,
       "name": "Love Will Find A Way",
       "url": "https://open.spotify.com/track/3ylLhJHuvVBbpcW1bcKpB5"
@@ -1115,6 +1133,24 @@
       "duration_ms": 291533,
       "name": "The Way To You",
       "url": "https://open.spotify.com/track/71KSuKGd1R316tNUSp89eP"
+    },
+    {
+      "album": {
+        "name": "Smooth Jazz: Sexual Healing",
+        "url": "https://open.spotify.com/album/7tJPtI8lKYFQesZ1zwv94o"
+      },
+      "artists": [
+        {
+          "name": "Nelson Rangell",
+          "url": "https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 293000,
+      "name": "The Way To You",
+      "url": "https://open.spotify.com/track/6DmqqAg4asKecPu5rQhrTZ"
     },
     {
       "album": {

@@ -719,7 +719,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-11-13",
       "duration_ms": 155493,
       "name": "Goin' Through The Big D",
       "url": "https://open.spotify.com/track/4s6Q9zPmiYcpo5MR7uoVnt"
@@ -1231,7 +1231,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 197666,
       "name": "It Matters to Me",
       "url": "https://open.spotify.com/track/3rXdABev6vQtBCElztIl7m"
@@ -1863,7 +1863,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 241899,
       "name": "Small Town Hypocrite",
       "url": "https://open.spotify.com/track/7Bpivl6q9y2FgSp1nr5MZ8"
@@ -2378,6 +2378,24 @@
     },
     {
       "album": {
+        "name": "ACM Awards 2020",
+        "url": "https://open.spotify.com/album/5UOstkFn8OlVc9tOtFeeWn"
+      },
+      "artists": [
+        {
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 206230,
+      "name": "What If I Never Get Over You",
+      "url": "https://open.spotify.com/track/5wXQbIrhH5nPYuUhqqQ94U"
+    },
+    {
+      "album": {
         "name": "Ocean",
         "url": "https://open.spotify.com/album/2Ni5tXmyXPTG4jeQxvSqjv"
       },
@@ -2407,7 +2425,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": "2022-11-13",
       "duration_ms": 255133,
       "name": "When I Call Your Name",
       "url": "https://open.spotify.com/track/5g12xHasIIOu6rNGQ933qT"
@@ -2639,6 +2657,24 @@
       "duration_ms": 201773,
       "name": "Wish You'd Miss Me",
       "url": "https://open.spotify.com/track/6bg3oASoWVKvtOSGnixIwh"
+    },
+    {
+      "album": {
+        "name": "INTERTWINED",
+        "url": "https://open.spotify.com/album/3IbZgaXPhwowfAOCudOkwa"
+      },
+      "artists": [
+        {
+          "name": "CHASE WRIGHT",
+          "url": "https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 202566,
+      "name": "Wish You'd Miss Me",
+      "url": "https://open.spotify.com/track/2613r4NIlGRo18Ep9UWgab"
     },
     {
       "album": {

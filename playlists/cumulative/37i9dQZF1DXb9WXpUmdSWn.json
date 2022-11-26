@@ -161,7 +161,7 @@
     {
       "album": {
         "name": "Cecilia",
-        "url": "https://open.spotify.com/album/5ruxIkJ6nUwvGo30icvE1k"
+        "url": "https://open.spotify.com/album/5dc2PCEENKvXQQD9KkodNx"
       },
       "artists": [
         {
@@ -174,7 +174,43 @@
       "date_removed": null,
       "duration_ms": 149854,
       "name": "Cecilia",
+      "url": "https://open.spotify.com/track/16d7q5zl3kD0qiREcYb15w"
+    },
+    {
+      "album": {
+        "name": "Cecilia",
+        "url": "https://open.spotify.com/album/5ruxIkJ6nUwvGo30icvE1k"
+      },
+      "artists": [
+        {
+          "name": "Oliver Hazard",
+          "url": "https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-28",
+      "duration_ms": 149854,
+      "name": "Cecilia",
       "url": "https://open.spotify.com/track/47t7MRzHXJ3mnL3TjN6a8J"
+    },
+    {
+      "album": {
+        "name": "Classic Jazz Covers",
+        "url": "https://open.spotify.com/album/6onIL5LDVMqEvP2XuVjFXA"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 131613,
+      "name": "Cecilia",
+      "url": "https://open.spotify.com/track/0JVk4L9J8sbPktdPjJqjUJ"
     },
     {
       "album": {
@@ -461,7 +497,7 @@
     {
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6L8bGsHdlWg26U5SE5ed8w"
+        "url": "https://open.spotify.com/album/2BCVpECjDXm3bfpbU88AGO"
       },
       "artists": [
         {
@@ -472,6 +508,24 @@
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 164509,
+      "name": "Kathy\u2019s Song - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5VTAeRB21LBZHqk6qKBQXz"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6L8bGsHdlWg26U5SE5ed8w"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
       "duration_ms": 164509,
       "name": "Kathy\u2019s Song - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/7nebNowPcMMBKgjaS1nJlm"
@@ -695,10 +749,6 @@
         {
           "name": "Annie Lennox",
           "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
-        },
-        {
-          "name": "Heff Moraes",
-          "url": "https://open.spotify.com/artist/6HrqkCpPwHjWrg0YicMnzw"
         }
       ],
       "date_added": "2022-01-21",
@@ -819,10 +869,36 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 245400,
       "name": "The Boxer",
       "url": "https://open.spotify.com/track/04Dqz6T7vL4APHblHSdR4q"
+    },
+    {
+      "album": {
+        "name": "Babel (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y"
+      },
+      "artists": [
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        },
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 245400,
+      "name": "The Boxer",
+      "url": "https://open.spotify.com/track/4vJfFgFj5kZMplZUeJ60aF"
     },
     {
       "album": {
@@ -841,6 +917,32 @@
       "duration_ms": 196800,
       "name": "The Boxer - 2002 Remaster",
       "url": "https://open.spotify.com/track/2xchn60m6hRjWwpb7tGvpU"
+    },
+    {
+      "album": {
+        "name": "Traveler",
+        "url": "https://open.spotify.com/album/6YNQ1O9C5AVtOGEPIIwkAG"
+      },
+      "artists": [
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        },
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        },
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245106,
+      "name": "The Boxer feat. Mumford & Sons and Paul Simon",
+      "url": "https://open.spotify.com/track/73C8vVm2BRLLBQ8FH6N6Qm"
     },
     {
       "album": {

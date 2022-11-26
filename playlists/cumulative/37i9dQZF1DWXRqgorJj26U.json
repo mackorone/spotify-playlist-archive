@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Rock legends & epic songs that continue to inspire generations.",
+  "description": "Rock legends & epic songs that continue to inspire generations. Cover: Guns N' Roses",
   "name": "Rock Classics",
   "published_playlist_ids": [
     "0QZOz4xhBHfQBRKVMnekpO"
@@ -156,6 +156,24 @@
     },
     {
       "album": {
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/7GzeVj59bwVLFB3SX7zy6W"
+      },
+      "artists": [
+        {
+          "name": "The Kinks",
+          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 142988,
+      "name": "All Day and All of the Night - 2014 Remastered Version",
+      "url": "https://open.spotify.com/track/6m6pz5PJjySqdgNt3n6NfL"
+    },
+    {
+      "album": {
         "name": "Fire And Water",
         "url": "https://open.spotify.com/album/1ydlm89JR8cV8VuSaNvHNL"
       },
@@ -192,6 +210,24 @@
     },
     {
       "album": {
+        "name": "Classic Rock Hits",
+        "url": "https://open.spotify.com/album/4elrNKytARmFtf9zJAxRd6"
+      },
+      "artists": [
+        {
+          "name": "Free",
+          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 338426,
+      "name": "All Right Now",
+      "url": "https://open.spotify.com/track/06IEW0Pj16pG8bnwxs8qZw"
+    },
+    {
+      "album": {
         "name": "Tom Petty & The Heartbreakers",
         "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
       },
@@ -203,7 +239,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 214733,
       "name": "American Girl",
       "url": "https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP"
@@ -300,6 +336,24 @@
     },
     {
       "album": {
+        "name": "NOW That's What I Call Classic Rock",
+        "url": "https://open.spotify.com/album/1mYkkMFjXJae68xGV81IBB"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 297973,
+      "name": "Baba O'Riley",
+      "url": "https://open.spotify.com/track/3qjs5QlCXa2b9QMGNsbSiI"
+    },
+    {
+      "album": {
         "name": "Who's Next (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5tqJNAjU163MfKLIP6DtYu"
       },
@@ -383,7 +437,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 163453,
       "name": "Back In The U.S.S.R. - Remastered 2009",
       "url": "https://open.spotify.com/track/0j3p1p06deJ7f9xmJ9yG22"
@@ -405,6 +459,24 @@
       "duration_ms": 231120,
       "name": "Back on the Chain Gang - 2007 Remaster",
       "url": "https://open.spotify.com/track/4cMHCRLPNoEbpnl2rz6GS9"
+    },
+    {
+      "album": {
+        "name": "Classic Rock Hits",
+        "url": "https://open.spotify.com/album/4elrNKytARmFtf9zJAxRd6"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 141600,
+      "name": "Bad Moon Rising",
+      "url": "https://open.spotify.com/track/15QrgzPNqq3hnY06GiMgjG"
     },
     {
       "album": {
@@ -552,6 +624,24 @@
     },
     {
       "album": {
+        "name": "Who's Next (Expanded Edition)",
+        "url": "https://open.spotify.com/album/53PBYiedQrASAs5sy63JqT"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 222466,
+      "name": "Behind Blue Eyes",
+      "url": "https://open.spotify.com/track/632wpQN4nWLEvxUyGZxyLM"
+    },
+    {
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1jkd5zta1g1eFz6zuzupyW"
       },
@@ -678,6 +768,24 @@
     },
     {
       "album": {
+        "name": "Queen 40 Limited Edition Collector's Box Set",
+        "url": "https://open.spotify.com/album/1Q9NOisnaTULM5CZD4rIgZ"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 354320,
+      "name": "Bohemian Rhapsody - Remastered 2011",
+      "url": "https://open.spotify.com/track/2GAIycsMaDVtMtdvxzR2xI"
+    },
+    {
+      "album": {
         "name": "A Night At The Opera (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/6X9k3hSsvQck2OfKYdBbXr"
       },
@@ -743,10 +851,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 212893,
       "name": "Born To Be Wild - Single Version",
       "url": "https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng"
+    },
+    {
+      "album": {
+        "name": "Paseo en carretera (copiloto rockero)",
+        "url": "https://open.spotify.com/album/6FQmm8uBrUtEmXerEnGS6k"
+      },
+      "artists": [
+        {
+          "name": "Steppenwolf",
+          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 216693,
+      "name": "Born To Be Wild - Single Version",
+      "url": "https://open.spotify.com/track/2ZN5ytD7neLqYNTt2ROv67"
     },
     {
       "album": {
@@ -930,6 +1056,24 @@
     },
     {
       "album": {
+        "name": "Comfortably Numb 2022",
+        "url": "https://open.spotify.com/album/6UEwtLqrx0bwJ98nHmCW0x"
+      },
+      "artists": [
+        {
+          "name": "Roger Waters",
+          "url": "https://open.spotify.com/artist/40DqL6Tv84cKT2pH2NMs9r"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 510338,
+      "name": "Comfortably Numb 2022",
+      "url": "https://open.spotify.com/track/02QGW1hPDxBizOPRrczqkw"
+    },
+    {
+      "album": {
         "name": "Dreamboat Annie",
         "url": "https://open.spotify.com/album/2N0AgtWbCmVoNUl2GN1opH"
       },
@@ -984,6 +1128,24 @@
     },
     {
       "album": {
+        "name": "The Osbourne Family Album (Clean Version)",
+        "url": "https://open.spotify.com/album/24nhPPOmRDre6oBvhKKRQA"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 289893,
+      "name": "Crazy Train - 2002 Version",
+      "url": "https://open.spotify.com/track/09nx3UW8Mufo0Nq0iTKt5x"
+    },
+    {
+      "album": {
         "name": "Pablo Honey",
         "url": "https://open.spotify.com/album/3gBVdu4a1MMJVMy6vwPEb8"
       },
@@ -1013,7 +1175,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-22",
       "duration_ms": 146573,
       "name": "Crosstown Traffic",
       "url": "https://open.spotify.com/track/1ntxpzIUbSsizvuAy6lTYY"
@@ -1089,6 +1251,24 @@
       "duration_ms": 231933,
       "name": "Dirty Deeds Done Dirt Cheap",
       "url": "https://open.spotify.com/track/2d4e45fmUnguxh6yqC7gNT"
+    },
+    {
+      "album": {
+        "name": "Use Your Illusion I",
+        "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283733,
+      "name": "Don't Cry (Original)",
+      "url": "https://open.spotify.com/track/2N2yrmodOnVF10mKvItC9P"
     },
     {
       "album": {
@@ -1298,6 +1478,24 @@
     },
     {
       "album": {
+        "name": "Capodanno 80's Party",
+        "url": "https://open.spotify.com/album/0RC9BkBImV6IAL5942zXHv"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 251760,
+      "name": "Every Breath You Take",
+      "url": "https://open.spotify.com/track/3q6iKaLcyppKggDzS9RucN"
+    },
+    {
+      "album": {
         "name": "Synchronicity (Remastered 2003)",
         "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
       },
@@ -1331,6 +1529,42 @@
       "duration_ms": 253886,
       "name": "Every Breath You Take - Remastered 2003",
       "url": "https://open.spotify.com/track/2sXp9Qmvc7mRaDBjBgcGGi"
+    },
+    {
+      "album": {
+        "name": "Tango In the Night (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226653,
+      "name": "Everywhere - 2017 Remaster",
+      "url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq"
+    },
+    {
+      "album": {
+        "name": "Face It Alone",
+        "url": "https://open.spotify.com/album/5LyejWyG4J1IoUHBsvL7ju"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-03",
+      "duration_ms": 247186,
+      "name": "Face It Alone",
+      "url": "https://open.spotify.com/track/3LkJaE6mfTskqEV8BUjHei"
     },
     {
       "album": {
@@ -1424,6 +1658,24 @@
     },
     {
       "album": {
+        "name": "Grand Theft",
+        "url": "https://open.spotify.com/album/7qh0Duem33bn3AzkMbRrF4"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 140773,
+      "name": "Fortunate Son",
+      "url": "https://open.spotify.com/track/6FBzZSNO4IvxorQsJRd3tz"
+    },
+    {
+      "album": {
         "name": "Pronounced' Leh-'Nerd 'Skin-'Nerd",
         "url": "https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs"
       },
@@ -1439,6 +1691,24 @@
       "duration_ms": 547106,
       "name": "Free Bird",
       "url": "https://open.spotify.com/track/5EWPGh7jbTNO2wakv8LjUI"
+    },
+    {
+      "album": {
+        "name": "Rock and polas",
+        "url": "https://open.spotify.com/album/4rXxsUgjBswDQmUglENhZG"
+      },
+      "artists": [
+        {
+          "name": "Lynyrd Skynyrd",
+          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 549640,
+      "name": "Free Bird",
+      "url": "https://open.spotify.com/track/2bBPY5fdur2fYw3mIgKs2a"
     },
     {
       "album": {
@@ -1514,6 +1784,24 @@
     },
     {
       "album": {
+        "name": "Greatest Hits Ever",
+        "url": "https://open.spotify.com/album/5TkZO53BvorMV97RtJ1H9H"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 270773,
+      "name": "Gimme Shelter",
+      "url": "https://open.spotify.com/track/1fvNFTBmbWWxZQuN4jMseK"
+    },
+    {
+      "album": {
         "name": "Let It Bleed",
         "url": "https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy"
       },
@@ -1583,6 +1871,24 @@
       "duration_ms": 223613,
       "name": "Go Your Own Way - 2004 Remaster",
       "url": "https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa"
+    },
+    {
+      "album": {
+        "name": "70s FM Radio Waves Rider",
+        "url": "https://open.spotify.com/album/5RoWDvTkhQB7ED7g8K45SR"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 219026,
+      "name": "Go Your Own Way - 2018 Remaster",
+      "url": "https://open.spotify.com/track/1cu0UvpVauONcHUXLb8dks"
     },
     {
       "album": {
@@ -1853,6 +2159,24 @@
       "duration_ms": 269720,
       "name": "House Of The Rising Sun",
       "url": "https://open.spotify.com/track/61Q9oJNd9hJQFhSDh6Qlap"
+    },
+    {
+      "album": {
+        "name": "The River",
+        "url": "https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199453,
+      "name": "Hungry Heart",
+      "url": "https://open.spotify.com/track/1KsI8NEeAna8ZIdojI3FiT"
     },
     {
       "album": {
@@ -2198,6 +2522,24 @@
     },
     {
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4y0me4JaTG2bjBy8Scz8ek"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 284026,
+      "name": "Kickstart My Heart",
+      "url": "https://open.spotify.com/track/5ikj2Db37JYXL6RW5cTFWP"
+    },
+    {
+      "album": {
         "name": "Dr. Feelgood (Deluxe Version)",
         "url": "https://open.spotify.com/album/23krn1eEy7o3u9laLI1PLD"
       },
@@ -2231,6 +2573,24 @@
       "duration_ms": 313573,
       "name": "Killing In The Name",
       "url": "https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp"
+    },
+    {
+      "album": {
+        "name": "Use Your Illusion II",
+        "url": "https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336000,
+      "name": "Knockin' On Heaven's Door",
+      "url": "https://open.spotify.com/track/4JiEyzf0Md7KEFFGWDDdCr"
     },
     {
       "album": {
@@ -2285,6 +2645,24 @@
       "duration_ms": 193373,
       "name": "Last Nite",
       "url": "https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv"
+    },
+    {
+      "album": {
+        "name": "The Best Of Eric Clapton 20th Century Masters The Millennium Collection",
+        "url": "https://open.spotify.com/album/6U0JzNMI6NWGERxXU7lFEs"
+      },
+      "artists": [
+        {
+          "name": "Derek & The Dominos",
+          "url": "https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 423680,
+      "name": "Layla",
+      "url": "https://open.spotify.com/track/01zdD7epF5uS0gGb0jNjhN"
     },
     {
       "album": {
@@ -2468,6 +2846,24 @@
     },
     {
       "album": {
+        "name": "Use Your Illusion I",
+        "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182733,
+      "name": "Live And Let Die",
+      "url": "https://open.spotify.com/track/0rFWuqFgHAfuzE8uSB9TWR"
+    },
+    {
+      "album": {
         "name": "Slippery When Wet",
         "url": "https://open.spotify.com/album/5uU2uM1RGHfzlA12opjqol"
       },
@@ -2501,6 +2897,24 @@
       "duration_ms": 249293,
       "name": "Livin' On A Prayer",
       "url": "https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF"
+    },
+    {
+      "album": {
+        "name": "Rock Now",
+        "url": "https://open.spotify.com/album/5waAiscV686fUIfuNBadny"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 250626,
+      "name": "Livin' On A Prayer",
+      "url": "https://open.spotify.com/track/0otwj1jVfc4vl7d7OSpgDt"
     },
     {
       "album": {
@@ -2573,6 +2987,24 @@
       "duration_ms": 235000,
       "name": "Loser",
       "url": "https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd"
+    },
+    {
+      "album": {
+        "name": "Car Music",
+        "url": "https://open.spotify.com/album/2lpJyWIrAQVs8MVJZTXx1V"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 268426,
+      "name": "Losing My Religion",
+      "url": "https://open.spotify.com/track/2CnIIJhb0NlLFhVDWWkDgb"
     },
     {
       "album": {
@@ -2666,6 +3098,24 @@
     },
     {
       "album": {
+        "name": "Kid Friendly Classic Rock",
+        "url": "https://open.spotify.com/album/2hfpvVTIQYs00IKvmcOtzt"
+      },
+      "artists": [
+        {
+          "name": "Steppenwolf",
+          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 267800,
+      "name": "Magic Carpet Ride",
+      "url": "https://open.spotify.com/track/6j3CaXzoEbfpWSj9bVYhsl"
+    },
+    {
+      "album": {
         "name": "The Second",
         "url": "https://open.spotify.com/album/2Y5GORWYwVAZ8msuEuh5FN"
       },
@@ -2720,6 +3170,24 @@
     },
     {
       "album": {
+        "name": "Rock Stars",
+        "url": "https://open.spotify.com/album/7IxbHVTcEFi9icEqd88GMY"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 273600,
+      "name": "Mary Jane's Last Dance",
+      "url": "https://open.spotify.com/track/3AJJkQK3GCYTS18ScMk3R3"
+    },
+    {
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/3q6Bz38jmqRDkXI7j5Hb9Y"
       },
@@ -2771,6 +3239,24 @@
       "duration_ms": 271333,
       "name": "Me and Bobby McGee",
       "url": "https://open.spotify.com/track/1IqFh00G2kvvMm8pRMpehA"
+    },
+    {
+      "album": {
+        "name": "Classics of Rock",
+        "url": "https://open.spotify.com/album/5iXhcS4RaOVqMg6Ct1xxyT"
+      },
+      "artists": [
+        {
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 177960,
+      "name": "Midnight Rider",
+      "url": "https://open.spotify.com/track/7uQQ4RFxligjT40Uh2rzkO"
     },
     {
       "album": {
@@ -2846,6 +3332,24 @@
     },
     {
       "album": {
+        "name": "A Foot in the Door: The Best of Pink Floyd",
+        "url": "https://open.spotify.com/album/53eu9AgHyg3eQNUiePWRHD"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 394159,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/6uPL2Ue1sJKc5tWOrZP3K6"
+    },
+    {
+      "album": {
         "name": "The Dark Side Of The Moon (2011 Remastered Version)",
         "url": "https://open.spotify.com/album/3a0UOgDWw2pTajw85QPMiz"
       },
@@ -2900,6 +3404,24 @@
     },
     {
       "album": {
+        "name": "Yacht Rock Classics",
+        "url": "https://open.spotify.com/album/5GM9YXSwam3xB1SP6KKjQC"
+      },
+      "artists": [
+        {
+          "name": "Boston",
+          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 285133,
+      "name": "More Than a Feeling",
+      "url": "https://open.spotify.com/track/2s6OFCwx6qahq9vNIDhwxa"
+    },
+    {
+      "album": {
         "name": "Boston",
         "url": "https://open.spotify.com/album/01OahkTPRCleDjobtRk7ST"
       },
@@ -2929,7 +3451,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 242720,
       "name": "Mountain Song",
       "url": "https://open.spotify.com/track/5fKZJHzJ9d3MADArbm9muW"
@@ -2987,6 +3509,24 @@
       "duration_ms": 222973,
       "name": "Mr. Brightside",
       "url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B"
+    },
+    {
+      "album": {
+        "name": "Best Male Rock Singers",
+        "url": "https://open.spotify.com/album/0MNEMYOJEiBmLv6g3zqTNY"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 223973,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/25vf0eCrswI3GcuMH4fL3R"
     },
     {
       "album": {
@@ -3062,6 +3602,24 @@
     },
     {
       "album": {
+        "name": "00's Hits",
+        "url": "https://open.spotify.com/album/6hz9EMJcTYZguDMozXNBnj"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 278746,
+      "name": "No One Knows",
+      "url": "https://open.spotify.com/track/5WOKM16QJ4ZTVZx4pr63dR"
+    },
+    {
+      "album": {
         "name": "Songs For The Deaf",
         "url": "https://open.spotify.com/album/4w3NeXtywU398NYW4903rY"
       },
@@ -3098,6 +3656,42 @@
     },
     {
       "album": {
+        "name": "Use Your Illusion I (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/33HYdYXXadqsdZ1NsYmS6o"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 535733,
+      "name": "November Rain - 2022 Version",
+      "url": "https://open.spotify.com/track/3q9npStSssk7sZWotiNQLK"
+    },
+    {
+      "album": {
+        "name": "November Rain / Double Talkin' Jive / You Could Be Mine",
+        "url": "https://open.spotify.com/album/6T4l8HnWFsvFgk3iZEME4p"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-16",
+      "duration_ms": 535733,
+      "name": "November Rain - 2022 Version",
+      "url": "https://open.spotify.com/track/5O4Gs450ApGmBTGypjWDeQ"
+    },
+    {
+      "album": {
         "name": "Stranger In Town",
         "url": "https://open.spotify.com/album/3IqhO2ukdUkAs83DzamqIJ"
       },
@@ -3131,6 +3725,24 @@
       "duration_ms": 194146,
       "name": "Old Time Rock & Roll",
       "url": "https://open.spotify.com/track/5EOoMWIB9iK4ZpcSex9Ec7"
+    },
+    {
+      "album": {
+        "name": "Greatest Classic Hits",
+        "url": "https://open.spotify.com/album/0zwNzImUq6DykNGghNGffs"
+      },
+      "artists": [
+        {
+          "name": "Bob Seger",
+          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 195454,
+      "name": "Old Time Rock & Roll",
+      "url": "https://open.spotify.com/track/2QWkAZ4RZYxyzbNdwtqc2G"
     },
     {
       "album": {
@@ -3183,7 +3795,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 212706,
-      "name": "One Way Or Another - Remastered/2001",
+      "name": "One Way Or Another - Remastered 2001",
       "url": "https://open.spotify.com/track/5Th6EdNVhxp0TPX41ZLZk6"
     },
     {
@@ -3217,7 +3829,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 508333,
       "name": "Paradise By the Dashboard Light",
       "url": "https://open.spotify.com/track/2g7gviEeJr6pyxO7G35EWQ"
@@ -3278,6 +3890,24 @@
     },
     {
       "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/6TcPqftScGmR0aEgIb43Vv"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 168440,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/4MSqgoFS7e8LpsxeeMMVMu"
+    },
+    {
+      "album": {
         "name": "Paranoid (Remaster)",
         "url": "https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7"
       },
@@ -3293,6 +3923,24 @@
       "duration_ms": 168405,
       "name": "Paranoid - 2012 - Remaster",
       "url": "https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0ouBJG6m2VFeQFEvFv7Io2"
+      },
+      "artists": [
+        {
+          "name": "Boston",
+          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 303360,
+      "name": "Peace of Mind",
+      "url": "https://open.spotify.com/track/1KE9ELTRxJjkHhijheu5Xl"
     },
     {
       "album": {
@@ -3373,6 +4021,28 @@
       "duration_ms": 253333,
       "name": "Piece of My Heart",
       "url": "https://open.spotify.com/track/1xKQbqQtQWrtQS47fUJBtl"
+    },
+    {
+      "album": {
+        "name": "Bang: The Bert Berns Story (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4VkQxw6r5SdO4o4yHnNxL9"
+      },
+      "artists": [
+        {
+          "name": "Big Brother & The Holding Company",
+          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
+        },
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 253506,
+      "name": "Piece of My Heart",
+      "url": "https://open.spotify.com/track/3cCUAhulFXxN9CZRr5inpe"
     },
     {
       "album": {
@@ -3538,6 +4208,24 @@
     },
     {
       "album": {
+        "name": "ChangesOneBowie",
+        "url": "https://open.spotify.com/album/3aGkjugjzDWaETRbbRafoF"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 273680,
+      "name": "Rebel Rebel - 2016 Remaster",
+      "url": "https://open.spotify.com/track/1zESgGfpyvocCGZexz3jQL"
+    },
+    {
+      "album": {
         "name": "Diamond Dogs (2016 Remaster)",
         "url": "https://open.spotify.com/album/72mfhbEsMtXR6s7v9UhKe3"
       },
@@ -3664,6 +4352,42 @@
     },
     {
       "album": {
+        "name": "70s Rock",
+        "url": "https://open.spotify.com/album/6XXeuda2TubGnTWzdEoMj4"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 175853,
+      "name": "Rock And Roll All Nite",
+      "url": "https://open.spotify.com/track/1HJGkp8EUaC0uVr2ftWsOR"
+    },
+    {
+      "album": {
+        "name": "Stranger Things Can Happen",
+        "url": "https://open.spotify.com/album/6Xhscs1nnZ8Ho2Di3nlHsr"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 252493,
+      "name": "Rock You Like A Hurricane",
+      "url": "https://open.spotify.com/track/2J61Oof6ni6xN9lFkt8CFJ"
+    },
+    {
+      "album": {
         "name": "Love At First Sting",
         "url": "https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C"
       },
@@ -3733,6 +4457,24 @@
       "duration_ms": 216733,
       "name": "Runnin' With The Devil",
       "url": "https://open.spotify.com/track/3gLlcZQMvpwgtV9THHXrGp"
+    },
+    {
+      "album": {
+        "name": "The Best of Both Worlds",
+        "url": "https://open.spotify.com/album/4O7PQY7R5d5gUV8hftZHHT"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 214960,
+      "name": "Runnin' with the Devil - 2015 Remaster",
+      "url": "https://open.spotify.com/track/2rGjxjmxK5ZuksP0jXHHjs"
     },
     {
       "album": {
@@ -3823,6 +4565,24 @@
       "duration_ms": 256880,
       "name": "Say It Ain't So",
       "url": "https://open.spotify.com/track/4YPhn26bIFm2KUkL1VLzQG"
+    },
+    {
+      "album": {
+        "name": "Afternoon Rock",
+        "url": "https://open.spotify.com/album/4Y6nUfzVt2MYWBrvNUdtey"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 258825,
+      "name": "Say It Ain't So",
+      "url": "https://open.spotify.com/track/7eTEVei2Q7Umyzk3AmGObC"
     },
     {
       "album": {
@@ -4024,6 +4784,24 @@
     },
     {
       "album": {
+        "name": "Bohemian Rhapsody (The Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3BHe7LbW5yRjyqXNJ3A6mW"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 295733,
+      "name": "Somebody To Love - 2011 Remaster",
+      "url": "https://open.spotify.com/track/3cMunJsyeFbyYm7X3LgW9T"
+    },
+    {
+      "album": {
         "name": "A Day At The Races (2011 Remaster)",
         "url": "https://open.spotify.com/album/0QRlYlrBuP7eGpEMZvZiaQ"
       },
@@ -4222,6 +5000,24 @@
     },
     {
       "album": {
+        "name": "All Time Hits",
+        "url": "https://open.spotify.com/album/0r69m95jSuXYlkDS9ZJgH5"
+      },
+      "artists": [
+        {
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 250240,
+      "name": "Sunshine Of Your Love",
+      "url": "https://open.spotify.com/track/7IPjwvOLAdTT4XyKo4bY5q"
+    },
+    {
+      "album": {
         "name": "Disraeli Gears (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3W6CI0Lw7lElAPID2Fd3B4"
       },
@@ -4366,6 +5162,24 @@
     },
     {
       "album": {
+        "name": "Classic Country Hits",
+        "url": "https://open.spotify.com/album/0rvWuCar7YL3vYYG2v7Gw9"
+      },
+      "artists": [
+        {
+          "name": "Lynyrd Skynyrd",
+          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 285373,
+      "name": "Sweet Home Alabama",
+      "url": "https://open.spotify.com/track/1jhQh6vMo4tDoa18N8Ghcq"
+    },
+    {
+      "album": {
         "name": "Beggars Banquet (50th Anniversary Edition)",
         "url": "https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd"
       },
@@ -4456,6 +5270,24 @@
     },
     {
       "album": {
+        "name": "All Hits 70s",
+        "url": "https://open.spotify.com/album/103xv1kW3kznH25vUTdzqc"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 268200,
+      "name": "The Chain - 2004 Remaster",
+      "url": "https://open.spotify.com/track/6IOk2nzBHNQxSdeS87OvWj"
+    },
+    {
+      "album": {
         "name": "Rumours (Super Deluxe)",
         "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
       },
@@ -4507,6 +5339,24 @@
       "duration_ms": 264503,
       "name": "The Joker",
       "url": "https://open.spotify.com/track/371VkfwKiXJxgH5ZPoQNHD"
+    },
+    {
+      "album": {
+        "name": "Classic Hits",
+        "url": "https://open.spotify.com/album/24lSfFfbUJWam00zVtjCEo"
+      },
+      "artists": [
+        {
+          "name": "Steve Miller Band",
+          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 264503,
+      "name": "The Joker",
+      "url": "https://open.spotify.com/track/7lpcPXczKgEIyJkbauOqBl"
     },
     {
       "album": {
@@ -4676,6 +5526,24 @@
     },
     {
       "album": {
+        "name": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+        "url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
+      },
+      "artists": [
+        {
+          "name": "Rage Against The Machine",
+          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 363853,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/2QiqwOVUctPRVggO9G1Zs5"
+    },
+    {
+      "album": {
         "name": "Transformer",
         "url": "https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St"
       },
@@ -4799,10 +5667,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 170906,
       "name": "What I Got",
       "url": "https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF"
+    },
+    {
+      "album": {
+        "name": "Throwback Songs",
+        "url": "https://open.spotify.com/album/1FirK6WH5dVjMLSRpjjHAI"
+      },
+      "artists": [
+        {
+          "name": "Sublime",
+          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 170906,
+      "name": "What I Got",
+      "url": "https://open.spotify.com/track/4m2jLCVMFoz9s2aig2w8mm"
     },
     {
       "album": {
@@ -5114,6 +6000,24 @@
     },
     {
       "album": {
+        "name": "Game Day - Football",
+        "url": "https://open.spotify.com/album/4KB39qdZSD1Sd186U9K8WV"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 511400,
+      "name": "Won't Get Fooled Again - Original Album Version",
+      "url": "https://open.spotify.com/track/3U8bRuhFKNnPqH96TB0IN9"
+    },
+    {
+      "album": {
         "name": "Who's Next (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5tqJNAjU163MfKLIP6DtYu"
       },
@@ -5129,6 +6033,24 @@
       "duration_ms": 511400,
       "name": "Won't Get Fooled Again - Original Album Version",
       "url": "https://open.spotify.com/track/7iLGljK0LNpGamQQEOuCRC"
+    },
+    {
+      "album": {
+        "name": "Wonderwall",
+        "url": "https://open.spotify.com/album/3ezI4EtsobNEhV0WSEsCGn"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 258906,
+      "name": "Wonderwall",
+      "url": "https://open.spotify.com/track/7dPd3dx4ipBe10xKuhj9eY"
     },
     {
       "album": {
@@ -5222,6 +6144,24 @@
     },
     {
       "album": {
+        "name": "BBC Sessions: 1964-1977",
+        "url": "https://open.spotify.com/album/2NPHqaglqra3QqqFGE6kwX"
+      },
+      "artists": [
+        {
+          "name": "The Kinks",
+          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 128173,
+      "name": "You Really Got Me - Live at The Playhouse Theatre, 1964",
+      "url": "https://open.spotify.com/track/1pUWRUAOD1aSxHWbJuDBNR"
+    },
+    {
+      "album": {
         "name": "Back In Black",
         "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
       },
@@ -5273,6 +6213,24 @@
       "duration_ms": 306440,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/7EZC6E7UjZe63f1jRmkWxt"
+    },
+    {
+      "album": {
+        "name": "Halloween Jams 2020",
+        "url": "https://open.spotify.com/album/1b9RjoKhEo4jZtS3v7aALc"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 307440,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/1ybwx3USZGwoSEtenDcMvd"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXRqgorJj26U"

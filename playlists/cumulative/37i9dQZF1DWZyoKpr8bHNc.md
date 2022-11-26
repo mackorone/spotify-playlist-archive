@@ -4,13 +4,14 @@
 
 > Classici Ya Habibi! This is why Tata always says, "fish ba'ed ayam zamaan."
 
-57 songs - 11 hr 8 min - [published](https://open.spotify.com/playlist/3fuIq8WUILdNuM1mhTgx6c)
+58 songs - 11 hr 17 min - [published](https://open.spotify.com/playlist/3fuIq8WUILdNuM1mhTgx6c)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aam Yes'alouni Aalayk](https://open.spotify.com/track/3M8GG5xKAM602ArbAQtSRB) | [Majida El Roumi](https://open.spotify.com/artist/1FcYCSOydUCgoauspPwypS) | [Best Of Magida El Roumi Vol.1](https://open.spotify.com/album/7helIvwqlQOERqtOidRIvi) | 5:57 | 2020-10-13 |  |
 | [Ahwak](https://open.spotify.com/track/1chsFxuRdocgGwhhCYfZ9m) | [Abdel Halim Hafez](https://open.spotify.com/artist/6IW026WCYU8L1WF79dfwss) | [Rawaeaa Abd El Halim 5](https://open.spotify.com/album/2Dx9s3ceWiu7go3xMkdAs3) | 4:58 | 2020-10-13 |  |
 | [Akdeb Alek Live Record](https://open.spotify.com/track/5n47Gu3lJ2zcrQtsstaiJF) | [Warda](https://open.spotify.com/artist/3myefQO8upDe4aNxjTFddr) | [Akdeb Alek Live Record](https://open.spotify.com/album/66I8kjtmZekcPC82EDzBNE) | 55:12 | 2020-10-13 |  |
+| [Al Bostah](https://open.spotify.com/track/2FvdrRlUZaXkvZjeuKwpsH) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Sings Ziad Rahbani](https://open.spotify.com/album/7larhzd5MhHbt7kEVhsGaQ) | 8:56 | 2020-10-13 | 2022-11-13 |
 | [Al Bostah](https://open.spotify.com/track/5F4Pq1XGWk4VWGZi9OeeEC) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Wahdon](https://open.spotify.com/album/1qSkAJ7TOdJgNY2e5idjVJ) | 8:57 | 2020-10-13 | 2022-07-29 |
 | [Al Bostah](https://open.spotify.com/track/46R7cZ3s7Mhj85PgFW19j0) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Fairuz \- Modern Favorites](https://open.spotify.com/album/2iER5YPSsq4WpokLnnQGCO) | 8:57 | 2020-10-13 |  |
 | [Al Qalb Yebib Marrah](https://open.spotify.com/track/5DFKX9ELnTwRz3g1C5ctOs) | [Shadia](https://open.spotify.com/artist/5Yoha5TJ90eyPB9xWadI06) | [Dour Dour](https://open.spotify.com/album/0m9XDQ1uobK0FPOU0ZDvAw) | 6:22 | 2020-10-13 | 2022-07-29 |

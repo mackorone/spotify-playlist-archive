@@ -215,7 +215,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": null,
       "duration_ms": 378927,
       "name": "Aslan",
       "url": "https://open.spotify.com/track/3zAhM2peL0ztwt20uzLC8x"
@@ -478,6 +478,24 @@
     },
     {
       "album": {
+        "name": "Catch me if you can!",
+        "url": "https://open.spotify.com/album/1RyHcCPpsYLiMvY87EibNF"
+      },
+      "artists": [
+        {
+          "name": "Umziky",
+          "url": "https://open.spotify.com/artist/1ytY1NBUWX3OSmYo96hspB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238178,
+      "name": "Catch me if you can!",
+      "url": "https://open.spotify.com/track/2sdQsMO4eC2Onw3WOOPp6n"
+    },
+    {
+      "album": {
         "name": "Then And Now: The Definitive Herbie Hancock",
         "url": "https://open.spotify.com/album/4ukWUBb5T4aBDlwhIUDc2p"
       },
@@ -573,7 +591,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 289851,
       "name": "close tail",
       "url": "https://open.spotify.com/track/6pEh6OWcqZNXrY6eHjyksA"
@@ -685,7 +703,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 333873,
       "name": "Dream Chaser",
       "url": "https://open.spotify.com/track/0vdB6LzEsOVBbtGZVK6TSM"
@@ -820,12 +838,34 @@
     },
     {
       "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/7vm57UmS0tpc8zaAV0rSUR"
+      },
+      "artists": [
+        {
+          "name": "Alina Bzhezhinska",
+          "url": "https://open.spotify.com/artist/4ziDIu5XdfA2rQpEAvs0BN"
+        },
+        {
+          "name": "HipHarpCollective",
+          "url": "https://open.spotify.com/artist/22qVoqkMA3F9iviFEx4W5e"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-06",
+      "duration_ms": 430373,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/3On2Z61FnTpoqwNwljhAqE"
+    },
+    {
+      "album": {
         "name": "Collisions",
         "url": "https://open.spotify.com/album/0Hzx5qahFYpoxFlNz0iHrK"
       },
       "artists": [
         {
-          "name": "Tauk",
+          "name": "TAUK",
           "url": "https://open.spotify.com/artist/6qauwCj8W2mTcDGbyDGo6O"
         }
       ],
@@ -1019,7 +1059,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 653190,
       "name": "Guinnevere",
       "url": "https://open.spotify.com/track/5AIWxJgzPpYukbUDXVY7qT"
@@ -1157,7 +1197,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-03",
+      "date_removed": null,
       "duration_ms": 422882,
       "name": "Hunting Heads",
       "url": "https://open.spotify.com/track/5euz3r8UPd1b8YYstR3nDH"
@@ -1179,7 +1219,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 344506,
       "name": "I Promise",
       "url": "https://open.spotify.com/track/3ZdtrWDu1HzzkOahFCVfbe"
@@ -1309,7 +1349,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 182040,
       "name": "Level One",
       "url": "https://open.spotify.com/track/6bTRDQpZ9f7WPhr74KtpvO"
@@ -1367,7 +1407,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 356243,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3jlF4rXXNxK8JRMkfwRYcc"
@@ -1419,7 +1459,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 401652,
       "name": "Maiden Voyage",
       "url": "https://open.spotify.com/track/16Z4nsb9LKJ7nTt6Oe5R5L"
@@ -2117,10 +2157,28 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 222554,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/10hx4sKe98T1f4szHV5zru"
+    },
+    {
+      "album": {
+        "name": "MAINS",
+        "url": "https://open.spotify.com/album/4ffYTuxsKPUVL5eFJWjVHS"
+      },
+      "artists": [
+        {
+          "name": "J3PO",
+          "url": "https://open.spotify.com/artist/0lSFr65zkY254m1qbHAb5k"
+        }
+      ],
+      "date_added": "2021-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222554,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/13u3ooUx4eEn7vXJ9TFkBf"
     },
     {
       "album": {
@@ -2503,10 +2561,28 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 227150,
       "name": "Thirty One",
       "url": "https://open.spotify.com/track/3greuXqhFhNdQ7qYl0qmwd"
+    },
+    {
+      "album": {
+        "name": "Adventure",
+        "url": "https://open.spotify.com/album/6D8dTRxpq43rPu9H3HZeBO"
+      },
+      "artists": [
+        {
+          "name": "Lydian Collective",
+          "url": "https://open.spotify.com/artist/5E7gb8Ugqx2c9mCoytD6gw"
+        }
+      ],
+      "date_added": "2021-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227150,
+      "name": "Thirty One",
+      "url": "https://open.spotify.com/track/72OIe1WWf1LW61TzssmLAg"
     },
     {
       "album": {

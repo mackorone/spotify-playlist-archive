@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4MAWmETv8JA.md) - [plain]
 
 > O melhor do trance feito na América Latina / Lo mejor del trance latino\. Foto: Henrique Camacho
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,534 likes - 65 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,999 likes - 65 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4MAWmETv8JA.md) - [plain]
 | 15 | [Sonho de um Passaro \- Special M Remix](https://open.spotify.com/track/2WlMKcobKZMKvoFcnlQbdS) | [Pedra Branca](https://open.spotify.com/artist/7ClRSpXsFCWnmUrSXGa8Gn), [Special M](https://open.spotify.com/artist/0rzSdpejrKjBJ9FK5kqvgX) | [Dance Floor Remixes](https://open.spotify.com/album/2wWwyGQFNvA2zERWQgOpsJ) | 5:10 |
 | 16 | [Arabic Tales](https://open.spotify.com/track/7CZIav6rRTCgMdLFsXlfWl) | [Synthatic](https://open.spotify.com/artist/4ORN5JUsN1ToKCPQk9yc9P) | [Arabic Tales](https://open.spotify.com/album/1rfDsJbfOlhe3j0m0YzYzS) | 6:50 |
 | 17 | [Hare Krishna](https://open.spotify.com/track/2NCjqV0eTJJlnrWQxm21Yz) | [Henrique Camacho](https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6), [Hyperflow](https://open.spotify.com/artist/5Azv2lWNJe6Pac0W44HHPY) | [Hare Krishna](https://open.spotify.com/album/74PBoN1nXyu0kyp2Pfq2Pd) | 5:31 |
-| 18 | [Pólvora](https://open.spotify.com/track/3NZsaDrILzOwEbvvitf1D2) | [Chapeleiro](https://open.spotify.com/artist/5M5NrRoOEBa49sW1hzKkuH) | [Acelero](https://open.spotify.com/album/3IaWvLz87jDi6thZNB2pU1) | 4:16 |
+| 18 | [Pólvora](https://open.spotify.com/track/3gIMWNKpWj4d8aTeA6xUoT) | [Chapeleiro](https://open.spotify.com/artist/5M5NrRoOEBa49sW1hzKkuH) | [Acelero](https://open.spotify.com/album/1HYeTdgTn7FhtrAvJgVsCc) | 4:12 |
 | 19 | [Synapses in Amsterdam](https://open.spotify.com/track/1ZnHUp5jiWFkkN5u26UlmG) | [A\-Dyad](https://open.spotify.com/artist/11HbXAUaPyevfyRYnmHpX6) | [Synapses in Amsterdam](https://open.spotify.com/album/6iwNOZtaXqpD1qxlAJQpub) | 6:44 |
 | 20 | [Issues](https://open.spotify.com/track/4AE5YnXiGC6Hh5Tfk7HgtR) | [Pribe](https://open.spotify.com/artist/5J41o0l7Wy6ZBc14nts5T4), [Kurtt](https://open.spotify.com/artist/7JHmRze9V18uFjvrCktqxK) | [Issues](https://open.spotify.com/album/2JSkRQLNecYwolOHk24Y4A) | 4:45 |
 | 21 | [Afrodelia \- Original Mix](https://open.spotify.com/track/464B0BHg19O9onCyloJsHg) | [Diksha](https://open.spotify.com/artist/4UyZSm3hzv2Nt5hIGC44g2) | [Afrodelia](https://open.spotify.com/album/2AKkgypQBa3JcFQEa4zJPv) | 8:19 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4MAWmETv8JA.md) - [plain]
 | 64 | [Focus](https://open.spotify.com/track/7gNgqRZaXarUWWirped72i) | [Telepatic](https://open.spotify.com/artist/5sEhJmaZzJgVskCBaOTgIa) | [Focus](https://open.spotify.com/album/4Bv7WZLfpA7pv11QaMBUnN) | 7:08 |
 | 65 | [DMT](https://open.spotify.com/track/6NHRWtAQTtCELvv3h0pGYq) | [Becker](https://open.spotify.com/artist/3WTaU5om1axaFsKlKchl2U), [Labirinto](https://open.spotify.com/artist/4ISuKZJYpsbU6JPD3vq0p1) | [DMT](https://open.spotify.com/album/2mIZCsIe92lDHxDC7BCxo5) | 7:30 |
 
-Snapshot ID: `MTY0NjM2Mjk4MCwwMDAwMDAwMGU0MDZmOTQ1Njk5OGFlMWZjZjczOGY5MmQwNTkxMzll`
+Snapshot ID: `MTY0NjM2Mjk4MCwwMDAwMDAwMGE3OWUwOTBkOWEwODFkZWRjMzE4NzQ5YzcxNWJkZjI4`

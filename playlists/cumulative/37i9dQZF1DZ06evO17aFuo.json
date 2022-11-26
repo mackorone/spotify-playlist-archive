@@ -8,7 +8,25 @@
   "tracks": [
     {
       "album": {
-        "name": "Youthanasia (Expanded Edition)",
+        "name": "Hidden Treasures",
+        "url": "https://open.spotify.com/album/3jfeL3OUh2Kimx9ZKja8fY"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238946,
+      "name": "99 Ways To Die",
+      "url": "https://open.spotify.com/track/75t7W9LYbkgbkeT6B5EoHM"
+    },
+    {
+      "album": {
+        "name": "Youthanasia (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob"
       },
       "artists": [
@@ -26,7 +44,7 @@
     },
     {
       "album": {
-        "name": "Youthanasia (Expanded Edition)",
+        "name": "Youthanasia (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob"
       },
       "artists": [
@@ -62,7 +80,7 @@
     },
     {
       "album": {
-        "name": "So Far, So Good...So What! (2004 Remaster)",
+        "name": "So Far, So Good...So What! (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/5f4vbRLrRmoDH0zpdQnyrE"
       },
       "artists": [
@@ -73,7 +91,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-02",
+      "date_removed": null,
       "duration_ms": 181093,
       "name": "Anarchy In The U.K. - Remastered",
       "url": "https://open.spotify.com/track/74EF3QE9twDF2LRByd2ATx"
@@ -98,7 +116,7 @@
     },
     {
       "album": {
-        "name": "Countdown To Extinction",
+        "name": "Countdown To Extinction (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
       },
       "artists": [
@@ -134,7 +152,7 @@
     },
     {
       "album": {
-        "name": "Youthanasia (Expanded Edition)",
+        "name": "Youthanasia (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob"
       },
       "artists": [
@@ -145,7 +163,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-13",
+      "date_removed": null,
       "duration_ms": 230000,
       "name": "Blood Of Heroes - Remastered 2004",
       "url": "https://open.spotify.com/track/4fPVJz7EYTqCqgXxLjQrSn"
@@ -242,7 +260,7 @@
     },
     {
       "album": {
-        "name": "Countdown To Extinction",
+        "name": "Countdown To Extinction (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
       },
       "artists": [
@@ -314,7 +332,7 @@
     },
     {
       "album": {
-        "name": "Peace Sells...But Who's Buying?",
+        "name": "Peace Sells...But Who's Buying? (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO"
       },
       "artists": [
@@ -379,7 +397,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-10",
+      "date_removed": null,
       "duration_ms": 265133,
       "name": "Dread and the Fugitive Mind",
       "url": "https://open.spotify.com/track/4Bfxp472zIwiSYjZsK76EN"
@@ -433,7 +451,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 255893,
       "name": "Fatal Illusion",
       "url": "https://open.spotify.com/track/7IVhAkmr7xdgRZYc1Thrna"
@@ -458,7 +476,7 @@
     },
     {
       "album": {
-        "name": "Countdown To Extinction",
+        "name": "Countdown To Extinction (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
       },
       "artists": [
@@ -476,7 +494,7 @@
     },
     {
       "album": {
-        "name": "Peace Sells...But Who's Buying?",
+        "name": "Peace Sells...But Who's Buying? (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO"
       },
       "artists": [
@@ -548,7 +566,7 @@
     },
     {
       "album": {
-        "name": "So Far, So Good...So What! (2004 Remaster)",
+        "name": "So Far, So Good...So What! (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/5f4vbRLrRmoDH0zpdQnyrE"
       },
       "artists": [
@@ -649,7 +667,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-10-24",
       "duration_ms": 312800,
       "name": "Killing Time",
       "url": "https://open.spotify.com/track/5Y15AQnjSQwX5790ZP8OJm"
@@ -761,7 +779,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 323706,
       "name": "Mission To Mars",
       "url": "https://open.spotify.com/track/3s4cVRvi1GL2Qi1XRvlJ4m"
@@ -779,7 +797,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 295333,
       "name": "My Last Words - Remastered",
       "url": "https://open.spotify.com/track/6VdoivAOy8oRR6Pmpw4Ux4"
@@ -888,7 +906,7 @@
     },
     {
       "album": {
-        "name": "Peace Sells...But Who's Buying (25th Anniversary)",
+        "name": "Peace Sells...But Who's Buying (Deluxe Edition - Remastered)",
         "url": "https://open.spotify.com/album/4PqSk2iBHnsYQK0ecXjS9k"
       },
       "artists": [
@@ -917,7 +935,7 @@
       ],
       "date_added": "2022-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 149475,
       "name": "Police Truck",
       "url": "https://open.spotify.com/track/74f6eAt3RRPy4g6BUkD5fJ"
@@ -978,7 +996,7 @@
     },
     {
       "album": {
-        "name": "Youthanasia (Expanded Edition)",
+        "name": "Youthanasia (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob"
       },
       "artists": [
@@ -1043,14 +1061,14 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-10-12",
       "duration_ms": 248240,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/12jZfky6LPbQf0oYUMhvhS"
     },
     {
       "album": {
-        "name": "So Far, So Good...So What! (2004 Remaster)",
+        "name": "So Far, So Good...So What! (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/5f4vbRLrRmoDH0zpdQnyrE"
       },
       "artists": [
@@ -1068,7 +1086,7 @@
     },
     {
       "album": {
-        "name": "Cryptic Writings (Remastered 2004 / Remixed / Expanded Edition)",
+        "name": "Cryptic Writings (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/208z3e7R5PgavBMdEZQcvL"
       },
       "artists": [
@@ -1086,7 +1104,7 @@
     },
     {
       "album": {
-        "name": "Countdown To Extinction",
+        "name": "Countdown To Extinction (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
       },
       "artists": [
@@ -1097,7 +1115,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 195826,
       "name": "Skin O' My Teeth - Remastered",
       "url": "https://open.spotify.com/track/7EFho37SrizYaQ2NVxLejd"
@@ -1115,7 +1133,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 294426,
       "name": "Soldier On!",
       "url": "https://open.spotify.com/track/4jj9IDO2tCu7OuSop8vTxt"
@@ -1158,7 +1176,7 @@
     },
     {
       "album": {
-        "name": "Countdown To Extinction",
+        "name": "Countdown To Extinction (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
       },
       "artists": [
@@ -1176,7 +1194,7 @@
     },
     {
       "album": {
-        "name": "Countdown To Extinction",
+        "name": "Countdown To Extinction (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
       },
       "artists": [
@@ -1212,7 +1230,7 @@
     },
     {
       "album": {
-        "name": "Peace Sells...But Who's Buying?",
+        "name": "Peace Sells...But Who's Buying? (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO"
       },
       "artists": [
@@ -1248,7 +1266,7 @@
     },
     {
       "album": {
-        "name": "Youthanasia (Expanded Edition)",
+        "name": "Youthanasia (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob"
       },
       "artists": [
@@ -1342,6 +1360,24 @@
     },
     {
       "album": {
+        "name": "Countdown To Extinction",
+        "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-16",
+      "duration_ms": 223400,
+      "name": "This Was My Life",
+      "url": "https://open.spotify.com/track/0Ad43GBuMZqdInDrwp2HHL"
+    },
+    {
+      "album": {
         "name": "Rust In Peace (Expanded Edition)",
         "url": "https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ"
       },
@@ -1360,7 +1396,7 @@
     },
     {
       "album": {
-        "name": "Youthanasia (Expanded Edition)",
+        "name": "Youthanasia (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob"
       },
       "artists": [
@@ -1378,7 +1414,7 @@
     },
     {
       "album": {
-        "name": "Cryptic Writings (Remastered 2004 / Remixed / Expanded Edition)",
+        "name": "Cryptic Writings (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/208z3e7R5PgavBMdEZQcvL"
       },
       "artists": [
@@ -1432,7 +1468,33 @@
     },
     {
       "album": {
-        "name": "Peace Sells...But Who's Buying?",
+        "name": "Wake up Dead (feat. Dave Mustaine)",
+        "url": "https://open.spotify.com/album/6BJrJlkffGEpipjY9OFq6t"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        },
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        },
+        {
+          "name": "Dave Mustaine",
+          "url": "https://open.spotify.com/artist/6jhdkDXD8A4iI2pLpb90QC"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223413,
+      "name": "Wake up Dead (feat. Dave Mustaine)",
+      "url": "https://open.spotify.com/track/4v3Iyw1DP578eRpoQPpcv9"
+    },
+    {
+      "album": {
+        "name": "Peace Sells...But Who's Buying? (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO"
       },
       "artists": [
@@ -1450,6 +1512,24 @@
     },
     {
       "album": {
+        "name": "The Sick, The Dying\u2026 And The Dead!",
+        "url": "https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269466,
+      "name": "We\u2019ll Be Back",
+      "url": "https://open.spotify.com/track/1Ap9wotYS99H8R17VONySZ"
+    },
+    {
+      "album": {
         "name": "We\u2019ll Be Back",
         "url": "https://open.spotify.com/album/2aeNfVklb5vG8aThJMIQ69"
       },
@@ -1461,7 +1541,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 269466,
       "name": "We\u2019ll Be Back",
       "url": "https://open.spotify.com/track/4SsN1B9ZaSOFmBb4wVu1WB"

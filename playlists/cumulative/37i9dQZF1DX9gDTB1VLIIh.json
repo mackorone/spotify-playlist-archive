@@ -198,6 +198,24 @@
     },
     {
       "album": {
+        "name": "CHOTANOSHI",
+        "url": "https://open.spotify.com/album/63DufyPXC18sg4mXXjhfEs"
+      },
+      "artists": [
+        {
+          "name": "JP THE WAVY",
+          "url": "https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 167169,
+      "name": "CHOTANOSHI",
+      "url": "https://open.spotify.com/track/5bJLbtbsRvOZSmOjJEqbVr"
+    },
+    {
+      "album": {
         "name": "LIFE IS WAVY",
         "url": "https://open.spotify.com/album/19o1qkCpsviMac2uPY3Veh"
       },
@@ -645,6 +663,44 @@
       "duration_ms": 204654,
       "name": "Particula",
       "url": "https://open.spotify.com/track/0e8fTfa0ZKCwOi2UdULooT"
+    },
+    {
+      "album": {
+        "name": "Major Lazer Presents: Give Me Future (Music From & Inspired By the Film)",
+        "url": "https://open.spotify.com/album/4N4QvFcRTy1fHTmLrMKsSV"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        },
+        {
+          "name": "Ice Prince",
+          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Jidenna",
+          "url": "https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 204654,
+      "name": "Particula",
+      "url": "https://open.spotify.com/track/3EVAqibEvsTHK3p2HCnWcG"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Journey through the exciting and innovative sounds of South African Jazz. Cover: <a href=\"https://open.spotify.com/artist/1lk7zDKaonwqrwKwt8Krd7?si=VPuHoz8NQiOVNcui-WWOzA\">The Brother Moves On</a> ",
+  "description": "Journey through the exciting and innovative sounds of South African Jazz. Cover: <a href=\"https://open.spotify.com/artist/7deeTVfFQNS9ShFtnNgQ8M?si=DqsiTcXFSpaLRstMz7kqfQ\">Xhanthi Nokwali</a> ",
   "name": "Jazz NXT",
   "published_playlist_ids": [
     "0ANwIIMXAUMCahITjRSDWI"
@@ -232,6 +232,24 @@
     },
     {
       "album": {
+        "name": "THERAPY",
+        "url": "https://open.spotify.com/album/2IST9MireQnJPgGwTbkWM9"
+      },
+      "artists": [
+        {
+          "name": "Zarcia",
+          "url": "https://open.spotify.com/artist/3zXWyPAkoMFgr92LxUzPvR"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299573,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/0Ybt7GtFdFutFAcDG8BadS"
+    },
+    {
+      "album": {
         "name": "Therapy",
         "url": "https://open.spotify.com/album/6jnWbrTXFf7LjWXmf0qr2r"
       },
@@ -243,7 +261,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 301333,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/2LpXQfDBYoJnK8MrNT8fR4"
@@ -545,10 +563,28 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 220720,
       "name": "Gog'uIdah",
       "url": "https://open.spotify.com/track/3kFS9rqpW3wRdlmuzun4r2"
+    },
+    {
+      "album": {
+        "name": "Isambulo",
+        "url": "https://open.spotify.com/album/0SPsHKZyf7VGSjeyquxccs"
+      },
+      "artists": [
+        {
+          "name": "Linda Sikhakhane",
+          "url": "https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220720,
+      "name": "Gog'uIdah",
+      "url": "https://open.spotify.com/track/5JcKd6KIvGnMFKGEx1HWNk"
     },
     {
       "album": {
@@ -842,6 +878,24 @@
     },
     {
       "album": {
+        "name": "Intlokomo",
+        "url": "https://open.spotify.com/album/2NDAw04JKZfgGCIwqtlMdG"
+      },
+      "artists": [
+        {
+          "name": "Xhanti Nokwali",
+          "url": "https://open.spotify.com/artist/7deeTVfFQNS9ShFtnNgQ8M"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418785,
+      "name": "Intlokomo",
+      "url": "https://open.spotify.com/track/3DOxqzFrfbegRHgX7xn2Du"
+    },
+    {
+      "album": {
         "name": "Finish The Sun",
         "url": "https://open.spotify.com/album/2aDnrY3VewxtdyuMCuDAAD"
       },
@@ -861,6 +915,28 @@
       "duration_ms": 236253,
       "name": "Joburg Poem",
       "url": "https://open.spotify.com/track/2HOgtaksnuNreoo6xogBHL"
+    },
+    {
+      "album": {
+        "name": "Brownswood 10",
+        "url": "https://open.spotify.com/album/0VyTXdyXEsKzrvI6h566GY"
+      },
+      "artists": [
+        {
+          "name": "Shabaka",
+          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
+        },
+        {
+          "name": "The Ancestors",
+          "url": "https://open.spotify.com/artist/7ePHKxo2J01bxBoXF3ikyy"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 398080,
+      "name": "Joyous",
+      "url": "https://open.spotify.com/track/4eZg8lxVThElRnwl6ZHqBX"
     },
     {
       "album": {
@@ -900,6 +976,24 @@
     },
     {
       "album": {
+        "name": "Indaba Is",
+        "url": "https://open.spotify.com/album/3qcN5kODsixA5VcaY37X7T"
+      },
+      "artists": [
+        {
+          "name": "Bokani Dyer",
+          "url": "https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 409666,
+      "name": "Ke Nako",
+      "url": "https://open.spotify.com/track/5CErXmkaO61u6tBZnCho2k"
+    },
+    {
+      "album": {
         "name": "The Alchemy of Living",
         "url": "https://open.spotify.com/album/6rC96afb0mApTsgQeA7GZb"
       },
@@ -919,6 +1013,24 @@
       "duration_ms": 403741,
       "name": "Komani",
       "url": "https://open.spotify.com/track/20493T1klNTt4VFVIQFosr"
+    },
+    {
+      "album": {
+        "name": "Umthombo",
+        "url": "https://open.spotify.com/album/5Qg2kXcTYZWUVFAC7UYMMV"
+      },
+      "artists": [
+        {
+          "name": "Xhanti Nokwali",
+          "url": "https://open.spotify.com/artist/7deeTVfFQNS9ShFtnNgQ8M"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389939,
+      "name": "Konakele",
+      "url": "https://open.spotify.com/track/3qKG9yS1kM7BbvKtJghsE9"
     },
     {
       "album": {
@@ -1658,6 +1770,28 @@
     },
     {
       "album": {
+        "name": "Isambulo",
+        "url": "https://open.spotify.com/album/0SPsHKZyf7VGSjeyquxccs"
+      },
+      "artists": [
+        {
+          "name": "Linda Sikhakhane",
+          "url": "https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on"
+        },
+        {
+          "name": "Paras",
+          "url": "https://open.spotify.com/artist/4KXt4PyOQbec8NA3hURZ8c"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361786,
+      "name": "uNongoma",
+      "url": "https://open.spotify.com/track/2vcHzKopy1YAUDU074p503"
+    },
+    {
+      "album": {
         "name": "uNongoma",
         "url": "https://open.spotify.com/album/62qSpZQ42mPEVKX1cq2j9L"
       },
@@ -1673,7 +1807,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 361786,
       "name": "uNongoma",
       "url": "https://open.spotify.com/track/58pRCGe1pQguRfIuZeFS7v"

@@ -1,12 +1,12 @@
 {
   "description": "A rock playlist filled with the biggest classic rock anthems from The Beatles, Queen and more!",
-  "num_followers": 61231,
+  "num_followers": 61185,
   "original_name": "Rock Icons",
   "owner": {
     "name": "Digster",
     "url": "https://open.spotify.com/user/digster.fm"
   },
-  "snapshot_id": "MTgxMiw2YTIyZmJkZGRjMDQzZGJjZDE4NTg1MTVhZGRlMzVjZDgyYTY2YTdj",
+  "snapshot_id": "MTgxMywwYWVmYzY5OTU5MTFmZWJjM2Y2YjhkMjI3ODhkNjBlNjE2M2NmZGY4",
   "tracks": [
     {
       "added_at": "2022-06-10 15:14:29",
@@ -725,7 +725,7 @@
         }
       ],
       "duration_ms": 245906,
-      "name": "The World Tonight - Remastered 2020",
+      "name": "The World Tonight - 2020 Remaster",
       "url": "https://open.spotify.com/track/2LvGwQDjRJAdh5N1QkmwsL"
     },
     {
@@ -743,6 +743,22 @@
       "duration_ms": 279226,
       "name": "Shape Of My Heart",
       "url": "https://open.spotify.com/track/6CKoWCWAqEVWVjpeoJXyNH"
+    },
+    {
+      "added_at": "2022-10-20 02:43:11",
+      "album": {
+        "name": "Face It Alone",
+        "url": "https://open.spotify.com/album/5LyejWyG4J1IoUHBsvL7ju"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 247186,
+      "name": "Face It Alone",
+      "url": "https://open.spotify.com/track/3LkJaE6mfTskqEV8BUjHei"
     },
     {
       "added_at": "2022-07-22 09:56:22",
@@ -873,7 +889,7 @@
         }
       ],
       "duration_ms": 234506,
-      "name": "Young Boy - Remastered 2020",
+      "name": "Young Boy - 2020 Remaster",
       "url": "https://open.spotify.com/track/7shUC5vW0ylyULlAAD7Vka"
     },
     {
@@ -1257,7 +1273,7 @@
         }
       ],
       "duration_ms": 215106,
-      "name": "One Way Or Another - Remastered/2001",
+      "name": "One Way Or Another - Remastered 2001",
       "url": "https://open.spotify.com/track/4cQJ27R11K634x5qCOwKW5"
     },
     {
@@ -1321,7 +1337,7 @@
         }
       ],
       "duration_ms": 313026,
-      "name": "Band On The Run - Remastered 2010",
+      "name": "Band On The Run - 2010 Remaster",
       "url": "https://open.spotify.com/track/1H4idkmruFoJBg1DvUv2tY"
     },
     {

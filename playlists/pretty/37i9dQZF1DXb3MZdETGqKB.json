@@ -1,18 +1,38 @@
 {
-  "description": "All new, all blues. Cover: Dylan Triplett",
-  "num_followers": 121026,
+  "description": "All new, all blues. Cover: Christone \"Kingfish\" Ingram",
+  "num_followers": 124008,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMDFiOWJlNjM5ZmFmODIxZTI3NjA1NzU4YWZiYzYwNDVl",
+  "snapshot_id": "MTY2NjM2NTc2MywwMDAwMDAwMGNlYTllZDIyNWEyNTg1ZTgxM2ZiMmIwYmI4YzRlMDEz",
   "tracks": [
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "Another Life Goes By (Mississippi Mix)",
+        "url": "https://open.spotify.com/album/50ULdmZdXqCCMtxAQ2cnBH"
+      },
+      "artists": [
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        },
+        {
+          "name": "Big K.R.I.T.",
+          "url": "https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP"
+        }
+      ],
+      "duration_ms": 228986,
+      "name": "Another Life Goes By - Mississippi Mix",
+      "url": "https://open.spotify.com/track/3RjffU019GOzRzDsTmazDA"
+    },
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Strike Gold",
-        "url": "https://open.spotify.com/album/5M6sqKBlKeBTACwzWexteZ"
+        "name": "Blood Harmony",
+        "url": "https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe"
       },
       "artists": [
         {
@@ -22,7 +42,55 @@
       ],
       "duration_ms": 200858,
       "name": "Strike Gold",
-      "url": "https://open.spotify.com/track/3g3vayoe4Y10leAHdrvTnM"
+      "url": "https://open.spotify.com/track/4vuqP2NPI5QaxvBJll1kCO"
+    },
+    {
+      "added_at": "2022-10-21 04:01:00",
+      "album": {
+        "name": "The Lows",
+        "url": "https://open.spotify.com/album/1Ifw6B8pNgYmYgB67wx93t"
+      },
+      "artists": [
+        {
+          "name": "Cochren & Co.",
+          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
+        }
+      ],
+      "duration_ms": 175412,
+      "name": "The Lows",
+      "url": "https://open.spotify.com/track/33bBjkRiZIkHdoAZlBb9KR"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "NEVER LEAVE GOD BEHIND",
+        "url": "https://open.spotify.com/album/6VeSN4dhFnpBKyn5I2ddIc"
+      },
+      "artists": [
+        {
+          "name": "C.S. Armstrong",
+          "url": "https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO"
+        }
+      ],
+      "duration_ms": 201060,
+      "name": "NEVER LEAVE GOD BEHIND",
+      "url": "https://open.spotify.com/track/0Th39OTENTSQL9MMzi066T"
+    },
+    {
+      "added_at": "2022-10-21 04:01:00",
+      "album": {
+        "name": "Freedom on My Mind",
+        "url": "https://open.spotify.com/album/1eud6Bh9tfW68cYCw5xGqb"
+      },
+      "artists": [
+        {
+          "name": "LaBronn Conner Jr.",
+          "url": "https://open.spotify.com/artist/60s4V0w6AV0nzvqgV0xy9i"
+        }
+      ],
+      "duration_ms": 284252,
+      "name": "Freedom on My Mind",
+      "url": "https://open.spotify.com/track/2z81pLfGo2YFPs6SEQnz2t"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -421,22 +489,6 @@
       "url": "https://open.spotify.com/track/1eitHDsIABJAY8TrL12pL2"
     },
     {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "AIN'T ONE THING",
-        "url": "https://open.spotify.com/album/3KeScJVC2iuPQiKKlAm8q8"
-      },
-      "artists": [
-        {
-          "name": "LaBronn Conner Jr.",
-          "url": "https://open.spotify.com/artist/60s4V0w6AV0nzvqgV0xy9i"
-        }
-      ],
-      "duration_ms": 278746,
-      "name": "AIN'T ONE THING",
-      "url": "https://open.spotify.com/track/0z9hvrWumlSIezJeEHCB67"
-    },
-    {
       "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "All Night",
@@ -449,7 +501,7 @@
         }
       ],
       "duration_ms": 236720,
-      "name": "All Night",
+      "name": "All Night - Edit",
       "url": "https://open.spotify.com/track/0wTcP4O2Uz0fuGYn9A0q7S"
     },
     {
@@ -651,8 +703,8 @@
     {
       "added_at": "2022-03-25 04:01:00",
       "album": {
-        "name": "Workin' Man",
-        "url": "https://open.spotify.com/album/3awKF4xhQXpiPCGNten5ts"
+        "name": "Closure",
+        "url": "https://open.spotify.com/album/4ePGSAKLrV7EyA2WIZUd8J"
       },
       "artists": [
         {
@@ -662,7 +714,7 @@
       ],
       "duration_ms": 232941,
       "name": "Workin' Man",
-      "url": "https://open.spotify.com/track/3vlialdlumHyXrZq6Em5Tq"
+      "url": "https://open.spotify.com/track/2n0RCFuqdqkrVIJqajqysX"
     },
     {
       "added_at": "2022-04-08 04:01:00",
@@ -835,8 +887,8 @@
     {
       "added_at": "2022-02-18 05:02:00",
       "album": {
-        "name": "Let Me Go",
-        "url": "https://open.spotify.com/album/571dTEZ64Z49fi7EdlknZp"
+        "name": "Shout Into The Noise",
+        "url": "https://open.spotify.com/album/3HmSF21KTTO6dK3AxJpXps"
       },
       "artists": [
         {
@@ -846,7 +898,7 @@
       ],
       "duration_ms": 135993,
       "name": "Let Me Go",
-      "url": "https://open.spotify.com/track/1UCRy4AZi5T4gfRDQwel5t"
+      "url": "https://open.spotify.com/track/7n8mE3JYsbwrcJf0hr6Xo1"
     },
     {
       "added_at": "2022-03-11 05:02:00",

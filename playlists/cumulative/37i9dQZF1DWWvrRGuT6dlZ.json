@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Unearthing your new favourite artists. Cover: Herbal Candy. Artwork: Isu Kim.",
+  "description": "Unearthing your new favourite artists. Cover: motifs. Artwork: Isu Kim.",
   "name": "Fresh Finds SG & MY",
   "published_playlist_ids": [
     "3clZuxYeboHhluz5fN0HIw"
@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "4FREE",
+        "url": "https://open.spotify.com/album/72lp4Ez6x7GO7mZVTRrca3"
+      },
+      "artists": [
+        {
+          "name": "Chriskris",
+          "url": "https://open.spotify.com/artist/1JiE6rWuUTLrtPFQEOCphl"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186268,
+      "name": "4FREE",
+      "url": "https://open.spotify.com/track/79OyP5Q7m8pC8Js1Eybpgw"
+    },
+    {
+      "album": {
         "name": "666",
         "url": "https://open.spotify.com/album/3SyR4NalqLfM2k94Ej3AFe"
       },
@@ -77,6 +95,24 @@
       "duration_ms": 185693,
       "name": "666",
       "url": "https://open.spotify.com/track/755QVRdvubfL0ncGAXls5W"
+    },
+    {
+      "album": {
+        "name": "abyss",
+        "url": "https://open.spotify.com/album/044ciJnjsQPMsSLgGvr4tE"
+      },
+      "artists": [
+        {
+          "name": "Eddi",
+          "url": "https://open.spotify.com/artist/7g6DD786gs71isEOrIKy94"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185070,
+      "name": "abyss",
+      "url": "https://open.spotify.com/track/0Cve3DjYpYYA8R4MNE79Zu"
     },
     {
       "album": {
@@ -464,6 +500,24 @@
     },
     {
       "album": {
+        "name": "begone",
+        "url": "https://open.spotify.com/album/4TgdRtugxCRy9kk3DzQaiz"
+      },
+      "artists": [
+        {
+          "name": "michaelachel",
+          "url": "https://open.spotify.com/artist/4ZwwHAFJx5G4tEtZmzT8nz"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148320,
+      "name": "begone",
+      "url": "https://open.spotify.com/track/1c9G9g2PdlJ8bOKsgyGlnW"
+    },
+    {
+      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/1mq5ufHJKhVonTYZrUyEfR"
       },
@@ -577,6 +631,24 @@
       "duration_ms": 181000,
       "name": "bittersweet",
       "url": "https://open.spotify.com/track/2VhCaIbw36S8NXi6734ehU"
+    },
+    {
+      "album": {
+        "name": "bittersweet",
+        "url": "https://open.spotify.com/album/5FO2kVPKiicZfH0ypjWrBx"
+      },
+      "artists": [
+        {
+          "name": "Joel See",
+          "url": "https://open.spotify.com/artist/44DkJ4VKIXuLWfpyL9Tbps"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158491,
+      "name": "bittersweet",
+      "url": "https://open.spotify.com/track/3rIFI3Qr5F6ZMAeX1R8bzh"
     },
     {
       "album": {
@@ -989,6 +1061,24 @@
       "duration_ms": 233372,
       "name": "Cross The Line",
       "url": "https://open.spotify.com/track/2TmoiudjLpYhqtAyRUTBBu"
+    },
+    {
+      "album": {
+        "name": "Cross Your Ts",
+        "url": "https://open.spotify.com/album/6tmj6PVA4FR3ML1iEaQedL"
+      },
+      "artists": [
+        {
+          "name": "The Colour Fool",
+          "url": "https://open.spotify.com/artist/0WkO6vRNHwdCiW2Zirn4Th"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215070,
+      "name": "Cross Your Ts",
+      "url": "https://open.spotify.com/track/7ntV3iO4MlBJ2rQpugkcOz"
     },
     {
       "album": {
@@ -1471,6 +1561,24 @@
       "duration_ms": 242181,
       "name": "Endless High",
       "url": "https://open.spotify.com/track/5tlQN2tMlZkr2bm4WK4R1v"
+    },
+    {
+      "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/5bznDPL79W1kK6IOeYWjAr"
+      },
+      "artists": [
+        {
+          "name": "YANA",
+          "url": "https://open.spotify.com/artist/0BE1XQiKdWBBR01zAemf19"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221427,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/3n4JtlDjEzyLP25ji7rex3"
     },
     {
       "album": {
@@ -1966,6 +2074,24 @@
     },
     {
       "album": {
+        "name": "Hesitate",
+        "url": "https://open.spotify.com/album/3GwrZB8ganbWjdjVeb0fYj"
+      },
+      "artists": [
+        {
+          "name": "Hijack Hayley",
+          "url": "https://open.spotify.com/artist/0yXoiuY9ZVzJRNu15X6eCU"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214778,
+      "name": "Hesitate",
+      "url": "https://open.spotify.com/track/0qzdaCAsEmVrmr0srHWt24"
+    },
+    {
+      "album": {
         "name": "HICCUP",
         "url": "https://open.spotify.com/album/7fQPuVRQENuUUbwj3i5TTc"
       },
@@ -2350,6 +2476,24 @@
     },
     {
       "album": {
+        "name": "idontwannabethe",
+        "url": "https://open.spotify.com/album/0kMHdM57qwri6AGfZc28PH"
+      },
+      "artists": [
+        {
+          "name": "Eevone",
+          "url": "https://open.spotify.com/artist/5NJJStMLtyc5gj5ZvyBIAN"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "idontwannabethe",
+      "url": "https://open.spotify.com/track/0jjPD4rt4pZvICwbjhyR9b"
+    },
+    {
+      "album": {
         "name": "If",
         "url": "https://open.spotify.com/album/0lUgYsYVa9gS6jpIb5MxLc"
       },
@@ -2682,6 +2826,24 @@
     },
     {
       "album": {
+        "name": "Lemon Soda",
+        "url": "https://open.spotify.com/album/1vQcRd8VnMbGj6E7BDFiY2"
+      },
+      "artists": [
+        {
+          "name": "Icebox",
+          "url": "https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200428,
+      "name": "Lemon Soda",
+      "url": "https://open.spotify.com/track/2hxhrRKAeDVzrwhrQM8sq6"
+    },
+    {
+      "album": {
         "name": "Let Your Head Down",
         "url": "https://open.spotify.com/album/3shuAUmYWBLRGtvuwAHZet"
       },
@@ -2882,6 +3044,24 @@
     },
     {
       "album": {
+        "name": "Love Quizzes",
+        "url": "https://open.spotify.com/album/3bhofzk3jj1AH0mzuksbDK"
+      },
+      "artists": [
+        {
+          "name": "rhyu",
+          "url": "https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212142,
+      "name": "Love Quizzes",
+      "url": "https://open.spotify.com/track/3AnCQUv83JUHosFh9OVmLp"
+    },
+    {
+      "album": {
         "name": "Love You Slow",
         "url": "https://open.spotify.com/album/3ENs4KdplQ045ZxQyioUEA"
       },
@@ -2897,6 +3077,24 @@
       "duration_ms": 186000,
       "name": "Love You Slow",
       "url": "https://open.spotify.com/track/3oeKRcdiEzV9hU5IzsG7zK"
+    },
+    {
+      "album": {
+        "name": "lovelost",
+        "url": "https://open.spotify.com/album/0t4z06E9od6mkiAZo4n7cM"
+      },
+      "artists": [
+        {
+          "name": "motifs",
+          "url": "https://open.spotify.com/artist/6Ai0kQ1MZABOQLVZNGozBB"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308802,
+      "name": "lovelost",
+      "url": "https://open.spotify.com/track/4UKFs8uaTDY9LATeFW30OF"
     },
     {
       "album": {
@@ -3498,6 +3696,24 @@
     },
     {
       "album": {
+        "name": "NOT OKAY",
+        "url": "https://open.spotify.com/album/1BQL4EiQqKdjDJB1INNYcz"
+      },
+      "artists": [
+        {
+          "name": "JENE",
+          "url": "https://open.spotify.com/artist/31feOFDWzpOFbZvZjh8D7o"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202884,
+      "name": "NOT OKAY",
+      "url": "https://open.spotify.com/track/6bD5U0SPX9AzQg4hqEjyUI"
+    },
+    {
+      "album": {
         "name": "Novacane",
         "url": "https://open.spotify.com/album/0N4lMcPnDAgXEXF0yVTdJ4"
       },
@@ -3549,6 +3765,42 @@
       "duration_ms": 205552,
       "name": "Oh It's You",
       "url": "https://open.spotify.com/track/1Z751eJbWWLUzgp9hpmELA"
+    },
+    {
+      "album": {
+        "name": "Oh, Friend",
+        "url": "https://open.spotify.com/album/179PakOmGVyYARp63l6G0b"
+      },
+      "artists": [
+        {
+          "name": "Jean Tan",
+          "url": "https://open.spotify.com/artist/5E1YsH5XziUDdfp5wCfazJ"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221565,
+      "name": "Oh, Friend",
+      "url": "https://open.spotify.com/track/0f80aZIZhMktPv8Q6imfxV"
+    },
+    {
+      "album": {
+        "name": "oh, jessie",
+        "url": "https://open.spotify.com/album/4YWfONyMwQS2f9OJGXfWX2"
+      },
+      "artists": [
+        {
+          "name": "jupiterkid",
+          "url": "https://open.spotify.com/artist/5QJNmXd5jutNELRRf5Pl8U"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214242,
+      "name": "oh, jessie",
+      "url": "https://open.spotify.com/track/1ADI9t2MloERWm4oP4r474"
     },
     {
       "album": {
@@ -4220,6 +4472,24 @@
     },
     {
       "album": {
+        "name": "Shine On",
+        "url": "https://open.spotify.com/album/6Axm0VoAPHjQUe8KvVidDh"
+      },
+      "artists": [
+        {
+          "name": "Diana Danielle",
+          "url": "https://open.spotify.com/artist/7DKEUCaijEd8l0Fv7COGr6"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208695,
+      "name": "Shine On",
+      "url": "https://open.spotify.com/track/1lHv8uFKGahvJVdrm2TJHC"
+    },
+    {
+      "album": {
         "name": "Sick Sad Love Song",
         "url": "https://open.spotify.com/album/5ZyGPSv12xrGf1tyFbk7n4"
       },
@@ -4456,6 +4726,24 @@
     },
     {
       "album": {
+        "name": "remember a stranger",
+        "url": "https://open.spotify.com/album/64qGaGX2B8mWIGHAPj8Rn6"
+      },
+      "artists": [
+        {
+          "name": "motifs",
+          "url": "https://open.spotify.com/artist/6Ai0kQ1MZABOQLVZNGozBB"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348406,
+      "name": "summersad",
+      "url": "https://open.spotify.com/track/3b9vvKIbi2gCzm6MKW5QQl"
+    },
+    {
+      "album": {
         "name": "Sunscreen",
         "url": "https://open.spotify.com/album/7G7qhm9LVPD0qo3V5ed1OR"
       },
@@ -4573,6 +4861,24 @@
       "duration_ms": 166389,
       "name": "Take Kontrol",
       "url": "https://open.spotify.com/track/5tWYervZ1VRSW69LcmbszS"
+    },
+    {
+      "album": {
+        "name": "Take Me Away",
+        "url": "https://open.spotify.com/album/3OSro8swuSQVfADsvUaOb9"
+      },
+      "artists": [
+        {
+          "name": "Rayvn Young",
+          "url": "https://open.spotify.com/artist/1nCiPylMGNtJuHO6XUyHV2"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167785,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/3SfBG1R9yj5B6V9NZiUzQD"
     },
     {
       "album": {
@@ -4811,6 +5117,24 @@
       "duration_ms": 114086,
       "name": "tinderella",
       "url": "https://open.spotify.com/track/7A1uJlvJp6rCy0hG7IgN3d"
+    },
+    {
+      "album": {
+        "name": "tired song",
+        "url": "https://open.spotify.com/album/3WCg8tQIia4cfslhiye4zu"
+      },
+      "artists": [
+        {
+          "name": "Jeyes",
+          "url": "https://open.spotify.com/artist/4KTTsSuEEoNhQLzXH1JH7x"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209250,
+      "name": "tired song",
+      "url": "https://open.spotify.com/track/1cB2SWKvevB7P3hhbpSkQj"
     },
     {
       "album": {

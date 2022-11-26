@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "4am",
+        "url": "https://open.spotify.com/album/0AcMKNScocSogFjaZ41LRy"
+      },
+      "artists": [
+        {
+          "name": "JBee",
+          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 193747,
+      "name": "4am",
+      "url": "https://open.spotify.com/track/1yWQYwTDGsn93JGCjPXEbO"
+    },
+    {
+      "album": {
         "name": "Flex Mood",
         "url": "https://open.spotify.com/album/3QMyOcK0X8mny0UXpNSgvH"
       },
@@ -381,6 +399,24 @@
     {
       "album": {
         "name": "Fleur froide - Second \u00e9tat : la cristallisation",
+        "url": "https://open.spotify.com/album/2JMSc4BycSB8lkaZQyT3Bm"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 179240,
+      "name": "D O D O",
+      "url": "https://open.spotify.com/track/0rePoIzqYJuHidvvOxYJmu"
+    },
+    {
+      "album": {
+        "name": "Fleur froide - Second \u00e9tat : la cristallisation",
         "url": "https://open.spotify.com/album/1Z660Pt8QbyPBmJUjuHS34"
       },
       "artists": [
@@ -416,6 +452,24 @@
     },
     {
       "album": {
+        "name": "Loyaal",
+        "url": "https://open.spotify.com/album/0WkK3Bx6NqOyQe7JSU0Vkz"
+      },
+      "artists": [
+        {
+          "name": "DJEZJA",
+          "url": "https://open.spotify.com/artist/6bJ0SXA2VXkqXpJBR2SQkf"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176014,
+      "name": "Door",
+      "url": "https://open.spotify.com/track/11kgzpRSddegzexd6FX7e3"
+    },
+    {
+      "album": {
         "name": "Door",
         "url": "https://open.spotify.com/album/7aWyb1hPRmwMFnGKhtdIXS"
       },
@@ -427,7 +481,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 176014,
       "name": "Door",
       "url": "https://open.spotify.com/track/2UFYgirHquRFpfcPVNiiJN"
@@ -453,6 +507,24 @@
       "duration_ms": 210958,
       "name": "D\u00e9gaine (feat. Damso)",
       "url": "https://open.spotify.com/track/5cqLFudVQryezmVFmmyRJN"
+    },
+    {
+      "album": {
+        "name": "Pop Hits Now",
+        "url": "https://open.spotify.com/album/1YDU8JDHG7xdWimuRRdAaf"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 164848,
+      "name": "emiliana",
+      "url": "https://open.spotify.com/track/58ZvQ7RAd8PPLUU6lmNy7X"
     },
     {
       "album": {
@@ -563,6 +635,32 @@
     {
       "album": {
         "name": "Falling For U",
+        "url": "https://open.spotify.com/album/3eIM4SbuUYGBrmlyvBfgbi"
+      },
+      "artists": [
+        {
+          "name": "Blaq Jerzee",
+          "url": "https://open.spotify.com/artist/4on7a4BKixLl1rSlEcaY8Y"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181964,
+      "name": "Falling For U",
+      "url": "https://open.spotify.com/track/0V6UyAGvtcfNOEslahu96d"
+    },
+    {
+      "album": {
+        "name": "Falling For U",
         "url": "https://open.spotify.com/album/2f67uzaLbH21E43aJUJOuR"
       },
       "artists": [
@@ -581,10 +679,36 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 181964,
       "name": "Falling For U",
       "url": "https://open.spotify.com/track/4C0dBjF3xoqF3wGWO2r9k9"
+    },
+    {
+      "album": {
+        "name": "Veepie Vroom \u2013 Hits Van Nu",
+        "url": "https://open.spotify.com/album/4DCGRrE0oxBAYKKhi5Sxtv"
+      },
+      "artists": [
+        {
+          "name": "DJ DYLVN",
+          "url": "https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l"
+        },
+        {
+          "name": "BKO",
+          "url": "https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd"
+        },
+        {
+          "name": "Defano Holwijn",
+          "url": "https://open.spotify.com/artist/5pGeI9pmfUEoHGn9w3NjqM"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 130961,
+      "name": "FASHIONOVA",
+      "url": "https://open.spotify.com/track/30xBIdU2XpYT6gHZPbyZtT"
     },
     {
       "album": {
@@ -673,6 +797,28 @@
       "duration_ms": 158601,
       "name": "Flowers (Say My Name)",
       "url": "https://open.spotify.com/track/2BzAGK3lEZAQz5cU0Ae1wd"
+    },
+    {
+      "album": {
+        "name": "GHAZALI",
+        "url": "https://open.spotify.com/album/6q4ADoh3h7OHkFJsCFcx6l"
+      },
+      "artists": [
+        {
+          "name": "MOUHAMED GRINE",
+          "url": "https://open.spotify.com/artist/5Sj8EjR3eENxsr4Tgv9OGh"
+        },
+        {
+          "name": "Mouh Milano",
+          "url": "https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196595,
+      "name": "GHAZALI",
+      "url": "https://open.spotify.com/track/1SYjg4Ff4aGzZVJKfK7OEA"
     },
     {
       "album": {
@@ -923,6 +1069,32 @@
     {
       "album": {
         "name": "Ke\u0219ke",
+        "url": "https://open.spotify.com/album/0PNe8ruEaoLVDGIXDyZzA7"
+      },
+      "artists": [
+        {
+          "name": "#SS",
+          "url": "https://open.spotify.com/artist/3jNqYOJqmN6uQxwG9bRcsU"
+        },
+        {
+          "name": "6iant",
+          "url": "https://open.spotify.com/artist/1crOmwDhXGwd42WXLHn6ii"
+        },
+        {
+          "name": "Velet",
+          "url": "https://open.spotify.com/artist/7bchfd9ZihGesFniE7tM71"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156470,
+      "name": "Ke\u0219ke",
+      "url": "https://open.spotify.com/track/457tUZZugWzzX60RDE55pt"
+    },
+    {
+      "album": {
+        "name": "Ke\u0219ke",
         "url": "https://open.spotify.com/album/0uQNTw0R83Su7uyPNnPFMN"
       },
       "artists": [
@@ -941,7 +1113,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 156470,
       "name": "Ke\u0219ke",
       "url": "https://open.spotify.com/track/6BsCtl2xauC7m2n0j44rJv"
@@ -1192,6 +1364,24 @@
     },
     {
       "album": {
+        "name": "Workout Music 2022",
+        "url": "https://open.spotify.com/album/4aegtSjryhnuq0Kz5IUaZh"
+      },
+      "artists": [
+        {
+          "name": "Makar",
+          "url": "https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 151690,
+      "name": "Mood",
+      "url": "https://open.spotify.com/track/0qqbNTj8OkWlNTJEEgzJQf"
+    },
+    {
+      "album": {
         "name": "Mood",
         "url": "https://open.spotify.com/album/7fC3YfVjYjYRaxIuOLlkEA"
       },
@@ -1331,10 +1521,28 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 142508,
       "name": "Non Stop",
       "url": "https://open.spotify.com/track/25ebw2P96Ko23Hadj76hgp"
+    },
+    {
+      "album": {
+        "name": "Loyaal",
+        "url": "https://open.spotify.com/album/0WkK3Bx6NqOyQe7JSU0Vkz"
+      },
+      "artists": [
+        {
+          "name": "DJEZJA",
+          "url": "https://open.spotify.com/artist/6bJ0SXA2VXkqXpJBR2SQkf"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142508,
+      "name": "Non Stop",
+      "url": "https://open.spotify.com/track/27jrtXnXRFZEAH1sQavMTJ"
     },
     {
       "album": {
@@ -1375,6 +1583,24 @@
       "duration_ms": 217564,
       "name": "Only You",
       "url": "https://open.spotify.com/track/28cKZOhv7MWfUnlOIj1Rid"
+    },
+    {
+      "album": {
+        "name": "SOS (Chapitre 1)",
+        "url": "https://open.spotify.com/album/5FLRz3yaK09OCqUIlspaET"
+      },
+      "artists": [
+        {
+          "name": "Nej",
+          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204695,
+      "name": "Paro",
+      "url": "https://open.spotify.com/track/7BTwRzjCkjMJUEMmXvGPAR"
     },
     {
       "album": {
@@ -1445,6 +1671,24 @@
     {
       "album": {
         "name": "SEVILLA",
+        "url": "https://open.spotify.com/album/3tgk1Bzv0iVukij9boSLnN"
+      },
+      "artists": [
+        {
+          "name": "Thrife",
+          "url": "https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175522,
+      "name": "SEVILLA",
+      "url": "https://open.spotify.com/track/05tLudzJAr4iHnDiWWdA59"
+    },
+    {
+      "album": {
+        "name": "SEVILLA",
         "url": "https://open.spotify.com/album/24EnvnJxCORX2zeI9s72NJ"
       },
       "artists": [
@@ -1455,7 +1699,7 @@
       ],
       "date_added": "2022-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 175522,
       "name": "SEVILLA",
       "url": "https://open.spotify.com/track/1YRrnU7iBSHsdyG5AVIC2Y"
@@ -1539,6 +1783,24 @@
       "duration_ms": 204755,
       "name": "Soundgasm",
       "url": "https://open.spotify.com/track/2psl5iNJCrmmm2XtS7LZqb"
+    },
+    {
+      "album": {
+        "name": "Calm Down",
+        "url": "https://open.spotify.com/album/37iaWiKMa9YBbEDlw5c3Qh"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 204755,
+      "name": "Soundgasm",
+      "url": "https://open.spotify.com/track/6hp9eoQBAcjMVrbLCfsVab"
     },
     {
       "album": {

@@ -329,7 +329,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-03",
+      "date_removed": null,
       "duration_ms": 185235,
       "name": "Blanket",
       "url": "https://open.spotify.com/track/25CXUUZD2FDegmlHePvXvw"
@@ -347,7 +347,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-09",
+      "date_removed": "2022-11-13",
       "duration_ms": 268080,
       "name": "Blue Heron",
       "url": "https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J"
@@ -653,7 +653,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 193622,
       "name": "Dark",
       "url": "https://open.spotify.com/track/401H08YGkVs5iKtiX3ccBn"
@@ -1043,7 +1043,7 @@
     {
       "album": {
         "name": "Joy of Nothing",
-        "url": "https://open.spotify.com/album/3HLNqVFqPxsM2jnwjrKkNl"
+        "url": "https://open.spotify.com/album/2NvXp1Yq7mslZYfZiRmGUq"
       },
       "artists": [
         {
@@ -1058,6 +1058,28 @@
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 352240,
+      "name": "Guiding Light",
+      "url": "https://open.spotify.com/track/1rwFqSVH8k9ovPHgAxThkN"
+    },
+    {
+      "album": {
+        "name": "Joy of Nothing",
+        "url": "https://open.spotify.com/album/3HLNqVFqPxsM2jnwjrKkNl"
+      },
+      "artists": [
+        {
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
       "duration_ms": 352240,
       "name": "Guiding Light",
       "url": "https://open.spotify.com/track/43PZPK2GuhI0vKoxR6X2GA"
@@ -1169,7 +1191,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": "2022-11-13",
       "duration_ms": 317266,
       "name": "Hummingbird",
       "url": "https://open.spotify.com/track/2eZZZSbd7OQ6g2m9ww9MXH"
@@ -1223,7 +1245,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-10",
+      "date_removed": "2022-11-13",
       "duration_ms": 252640,
       "name": "I Should Live in Salt - The National Cover - Live from Spotify, London",
       "url": "https://open.spotify.com/track/1LF3VWJhOqD2VuuruLMSmu"
@@ -1385,10 +1407,28 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 227488,
       "name": "In Agreement",
       "url": "https://open.spotify.com/track/0dyYA68FsaBGDKfmu9pQm6"
+    },
+    {
+      "album": {
+        "name": "When The World Stopped Moving: The Live EP",
+        "url": "https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227488,
+      "name": "In Agreement",
+      "url": "https://open.spotify.com/track/51BXUxZhfG6V51uXNwRHe6"
     },
     {
       "album": {
@@ -1465,7 +1505,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 310733,
       "name": "In the Stream",
       "url": "https://open.spotify.com/track/6IERXwupEJDCOyz2Pc3jae"
@@ -1483,7 +1523,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 221426,
       "name": "Inferno",
       "url": "https://open.spotify.com/track/18wHQR3ZfXgVqMNGM8Cf1T"
@@ -1923,10 +1963,28 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 173927,
       "name": "Mother Song",
       "url": "https://open.spotify.com/track/4td1zVlZkYccd9ezPUzhoF"
+    },
+    {
+      "album": {
+        "name": "Jericho",
+        "url": "https://open.spotify.com/album/4GMmnvoe8QZMYK97JDCna2"
+      },
+      "artists": [
+        {
+          "name": "Westerman",
+          "url": "https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173927,
+      "name": "Mother Song",
+      "url": "https://open.spotify.com/track/7BAKX6s6fXzAJhzzsxGYW2"
     },
     {
       "album": {
@@ -1963,6 +2021,24 @@
       "duration_ms": 264452,
       "name": "Motion Sickness (Demo - Bonus Track)",
       "url": "https://open.spotify.com/track/7xwyvVWewy01DhdgEt2WWq"
+    },
+    {
+      "album": {
+        "name": "Our Endless Numbered Days",
+        "url": "https://open.spotify.com/album/2diNeeePw7kIT2K4DYCdJx"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 152613,
+      "name": "Naked as We Came",
+      "url": "https://open.spotify.com/track/4FuBIkfhZMoRgrDiHL6TYG"
     },
     {
       "album": {
@@ -2539,7 +2615,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 241946,
       "name": "Silk (feat. Thelma Plum)",
       "url": "https://open.spotify.com/track/2smKkz9SSKxe16NuscYxq5"
@@ -2834,6 +2910,24 @@
     },
     {
       "album": {
+        "name": "Sweet Return",
+        "url": "https://open.spotify.com/album/3SVbamqXTzLhP9x6yDeHSK"
+      },
+      "artists": [
+        {
+          "name": "Diamond Thug",
+          "url": "https://open.spotify.com/artist/4mXcRr0lognLc6xSb1vUTX"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 135077,
+      "name": "Sweet Return",
+      "url": "https://open.spotify.com/track/5nLX5d1k44smyu9OT7tydf"
+    },
+    {
+      "album": {
         "name": "abysskiss",
         "url": "https://open.spotify.com/album/1Bff8eaWt2o058OQIq2OPa"
       },
@@ -2935,7 +3029,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": "2022-11-13",
       "duration_ms": 255760,
       "name": "The Dream Song",
       "url": "https://open.spotify.com/track/4VzC9UCasqtH2lMsYNyLbF"
@@ -3191,7 +3285,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 158813,
       "name": "Trainsong",
       "url": "https://open.spotify.com/track/338sd5AVTuHZLGzIzJY36Q"
@@ -3556,6 +3650,24 @@
     },
     {
       "album": {
+        "name": "Every Night",
+        "url": "https://open.spotify.com/album/5XTyozsmZrmKe9BzXjJ4Tl"
+      },
+      "artists": [
+        {
+          "name": "Lo-Fang",
+          "url": "https://open.spotify.com/artist/5EDkJDlRNcMs3ewliB24QA"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 245865,
+      "name": "When We're Fire - Cello Version",
+      "url": "https://open.spotify.com/track/49DjTwHiPXkprSg6pvQPOd"
+    },
+    {
+      "album": {
         "name": "White Frost (Acoustic)",
         "url": "https://open.spotify.com/album/1o0ZTBBqkC13llPDW53GXr"
       },
@@ -3657,10 +3769,28 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 163973,
       "name": "Winter Song",
       "url": "https://open.spotify.com/track/4kVq0EOO5xmczwrXjRcaeI"
+    },
+    {
+      "album": {
+        "name": "The Head And The Heart",
+        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163973,
+      "name": "Winter Song",
+      "url": "https://open.spotify.com/track/5nbzSunBRFGCI4Pb6PoCat"
     },
     {
       "album": {
@@ -3711,7 +3841,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": "2022-11-13",
       "duration_ms": 209266,
       "name": "Young Bodies",
       "url": "https://open.spotify.com/track/4BhEQsifqbzCdknLf52O1G"
@@ -3729,7 +3859,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-14",
+      "date_removed": "2022-11-14",
       "duration_ms": 185146,
       "name": "Zebra",
       "url": "https://open.spotify.com/track/0TazAJfiga0yScZ8rT61rD"

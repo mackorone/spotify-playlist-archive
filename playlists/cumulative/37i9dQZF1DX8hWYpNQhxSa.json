@@ -116,6 +116,24 @@
     },
     {
       "album": {
+        "name": "Breeze - insert song from SPY x FAMILY (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/3HoxvfHDsMRrRNMcx8rljY"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204033,
+      "name": "Breeze - insert song from SPY x FAMILY (Original Television Soundtrack)",
+      "url": "https://open.spotify.com/track/5FTyvoW0szvB83VY5lQPgP"
+    },
+    {
+      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
         "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
       },
@@ -541,10 +559,28 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 152600,
       "name": "GOOD DAY",
       "url": "https://open.spotify.com/track/31fHBQWCMDUJdHuG41EzRp"
+    },
+    {
+      "album": {
+        "name": "GOOD DAY - inspired by SPY x FAMILY (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6mSYsjSBR2PdZ8jOvePpXr"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152600,
+      "name": "GOOD DAY - inspired by SPY x FAMILY (Original Television Soundtrack)",
+      "url": "https://open.spotify.com/track/1reF4pkXyJRSbC3FGSi1TB"
     },
     {
       "album": {

@@ -142,6 +142,24 @@
     },
     {
       "album": {
+        "name": "Rock'n'Roll Boogie, Vol.2",
+        "url": "https://open.spotify.com/album/5l8CBFtwzGHEK09UMwZK7f"
+      },
+      "artists": [
+        {
+          "name": "Andre' Williams",
+          "url": "https://open.spotify.com/artist/1e1BLIWpSbtzNoDCOLxQny"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 183786,
+      "name": "Bacon Fat",
+      "url": "https://open.spotify.com/track/0SSzWxy7ddDtIwuhQ8bFqp"
+    },
+    {
+      "album": {
         "name": "Hooker",
         "url": "https://open.spotify.com/album/3QSRtkfas8Gr0vDByhFvkE"
       },

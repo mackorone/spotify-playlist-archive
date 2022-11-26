@@ -215,7 +215,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 201466,
       "name": "A Public Affair",
       "url": "https://open.spotify.com/track/1gFMesXcHHtIUhwzxYFOtz"
@@ -697,10 +697,28 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 156581,
       "name": "Bop!",
       "url": "https://open.spotify.com/track/0mDH8XQRpQUGkXXZzYAyu0"
+    },
+    {
+      "album": {
+        "name": "Bop!",
+        "url": "https://open.spotify.com/album/2mkXqWgvcHVNM2Vy6kHH2R"
+      },
+      "artists": [
+        {
+          "name": "JoJo Siwa",
+          "url": "https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc"
+        }
+      ],
+      "date_added": "2022-04-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-24",
+      "duration_ms": 156581,
+      "name": "Bop!",
+      "url": "https://open.spotify.com/track/3Q1gQYEuz3jXyUXgSkimGH"
     },
     {
       "album": {
@@ -805,7 +823,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": "2022-11-13",
       "duration_ms": 224200,
       "name": "Braveheart",
       "url": "https://open.spotify.com/track/0XUvhSzizkEtPgBr1BZ2an"
@@ -1419,7 +1437,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 252033,
       "name": "Disconnect",
       "url": "https://open.spotify.com/track/0cNH1IsjBVRdeDcpwHAfve"
@@ -1825,7 +1843,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": "2022-11-13",
       "duration_ms": 211786,
       "name": "Flying On My Own",
       "url": "https://open.spotify.com/track/6PoR04VZAFYE4xY3MxLuq4"
@@ -2009,7 +2027,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": "2022-11-13",
       "duration_ms": 251293,
       "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
       "url": "https://open.spotify.com/track/6dRj3dDseKfeIBfBMRboGN"
@@ -2195,7 +2213,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 461737,
       "name": "Greatest Hits Megamix",
       "url": "https://open.spotify.com/track/0IPjb3rhdyrcoUdJUsAgR3"
@@ -2387,7 +2405,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": "2022-11-13",
       "duration_ms": 256079,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/0yICN9QFclohtq33HSmFwZ"
@@ -2565,6 +2583,24 @@
       "duration_ms": 237040,
       "name": "I Blame Myself",
       "url": "https://open.spotify.com/track/0i62I5HJlzIVu2FALBmBPx"
+    },
+    {
+      "album": {
+        "name": "PCD",
+        "url": "https://open.spotify.com/album/5x8e8UcCeOgrOzSnDGuPye"
+      },
+      "artists": [
+        {
+          "name": "The Pussycat Dolls",
+          "url": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 219093,
+      "name": "I Don't Need A Man",
+      "url": "https://open.spotify.com/track/0XEBKZHp8imfvf9NYjV8Kg"
     },
     {
       "album": {
@@ -2893,7 +2929,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": null,
       "duration_ms": 207775,
       "name": "I'm Gonna Show You Crazy",
       "url": "https://open.spotify.com/track/3EVooCKm9XbvXsfgjhGDAB"
@@ -2969,6 +3005,24 @@
       "duration_ms": 221797,
       "name": "Indestructible",
       "url": "https://open.spotify.com/track/4iZKaXtL6mPxLSJfYmxQ2G"
+    },
+    {
+      "album": {
+        "name": "NOW That's What I Call Music!, Vol. 60",
+        "url": "https://open.spotify.com/album/1AkYMCjJNtz5MXG2e0utrd"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 238733,
+      "name": "Into You",
+      "url": "https://open.spotify.com/track/4m24MsEliJZmOxlRhMeZRT"
     },
     {
       "album": {
@@ -3085,6 +3139,24 @@
     {
       "album": {
         "name": "We Don\u2019t Stop",
+        "url": "https://open.spotify.com/album/21mYdkYstr4I2gyzoV4nES"
+      },
+      "artists": [
+        {
+          "name": "Aly & AJ",
+          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206866,
+      "name": "Joan of Arc on the Dance Floor",
+      "url": "https://open.spotify.com/track/6OtjXmAe3pGZxcrT1Cx2Br"
+    },
+    {
+      "album": {
+        "name": "We Don\u2019t Stop",
         "url": "https://open.spotify.com/album/49COhQ043jM1vTH7VSFUlq"
       },
       "artists": [
@@ -3095,7 +3167,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 206866,
       "name": "Joan of Arc on the Dance Floor",
       "url": "https://open.spotify.com/track/7cYLxxt7szZ5tkOPVWZyfO"
@@ -3331,7 +3403,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 166320,
       "name": "Let You",
       "url": "https://open.spotify.com/track/04RDD103rSChGr2X3SbSyC"
@@ -3995,7 +4067,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-03",
+      "date_removed": null,
       "duration_ms": 215737,
       "name": "OMG (with Carly Rae Jepsen)",
       "url": "https://open.spotify.com/track/2j9YmQRxtjuVwb4XN95oT8"
@@ -4053,7 +4125,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": "2022-11-13",
       "duration_ms": 231360,
       "name": "On and On",
       "url": "https://open.spotify.com/track/3Og0lFXOP4Uugc9rfbMfhl"
@@ -4107,7 +4179,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 171693,
       "name": "On Your Side",
       "url": "https://open.spotify.com/track/7mTgsbq7n8jgnwLswpgugB"
@@ -4151,7 +4223,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 182333,
       "name": "Ooh Aah... Just A Little Bit - Eurovision Version",
       "url": "https://open.spotify.com/track/5KsGeqTJgJMAWuyTZ5WmMn"
@@ -4455,10 +4527,28 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 204176,
       "name": "React",
       "url": "https://open.spotify.com/track/0GWYApQBwErVPkyXYCTJjI"
+    },
+    {
+      "album": {
+        "name": "React",
+        "url": "https://open.spotify.com/album/3iJA3r8NBh2p3ZwRCiMxYz"
+      },
+      "artists": [
+        {
+          "name": "The Pussycat Dolls",
+          "url": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
+        }
+      ],
+      "date_added": "2022-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204176,
+      "name": "React",
+      "url": "https://open.spotify.com/track/0qMAJBLMTshMx03CJkJl6O"
     },
     {
       "album": {
@@ -4527,7 +4617,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 186653,
       "name": "Replay",
       "url": "https://open.spotify.com/track/7sKbyYeJnITO1Eh9xd0lKd"
@@ -4917,7 +5007,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-11-13",
       "duration_ms": 297933,
       "name": "Somebody to Love Me",
       "url": "https://open.spotify.com/track/2Tky1eOpdLXo8yYawnTMcj"
@@ -4939,7 +5029,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 210133,
       "name": "Song 4 Mutya (Out Of Control)",
       "url": "https://open.spotify.com/track/08oDoZiAYgEqh7Tzr5wRVV"
@@ -5047,7 +5137,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-11-14",
       "duration_ms": 250693,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/6MF6ZR5nTWFWii3eBlkS8b"
@@ -5249,7 +5339,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 211363,
       "name": "The Cure",
       "url": "https://open.spotify.com/track/34oB5r0lcN3fYWCs2uA1k5"
@@ -5289,7 +5379,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 212413,
       "name": "Tom's Diner (feat. Britney Spears)",
       "url": "https://open.spotify.com/track/73Iz0ppjXiDwgXqXaMd9Xp"
@@ -5541,7 +5631,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": "2022-11-13",
       "duration_ms": 228289,
       "name": "War Paint",
       "url": "https://open.spotify.com/track/0fFYGwyzvRLQXwm5IMK4oE"

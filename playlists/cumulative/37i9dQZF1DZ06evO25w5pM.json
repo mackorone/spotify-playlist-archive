@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 297333,
       "name": "Deeper than the Sky",
       "url": "https://open.spotify.com/track/27sKMZ5NDmoriIbRmMZn5q"
@@ -257,7 +257,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 327106,
       "name": "Felsen im Licht",
       "url": "https://open.spotify.com/track/114goyp7beFWnmtoOsYtJo"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 488840,
       "name": "Free Forever",
       "url": "https://open.spotify.com/track/7tu8BZz19o4D1zQhLsWSRE"
@@ -409,6 +409,24 @@
       "duration_ms": 581226,
       "name": "Illumination of the Heart",
       "url": "https://open.spotify.com/track/4PSXQc6mV7ZJpLEJ4vkfUR"
+    },
+    {
+      "album": {
+        "name": "Buddha Nature",
+        "url": "https://open.spotify.com/album/72PYgOokcFMyEXjzgkfkRu"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172960,
+      "name": "Joyful Path",
+      "url": "https://open.spotify.com/track/2hSIIrPknMwAre3HSh19qi"
     },
     {
       "album": {
@@ -578,6 +596,24 @@
     },
     {
       "album": {
+        "name": "East of the Full Moon",
+        "url": "https://open.spotify.com/album/1KVVHP66MYMaHF1D32qSon"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
+      "duration_ms": 204320,
+      "name": "Marfa Lights 2",
+      "url": "https://open.spotify.com/track/5L31LhF5GL6VZCewuQz9AI"
+    },
+    {
+      "album": {
         "name": "Illumination of the Heart",
         "url": "https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90"
       },
@@ -589,7 +625,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 587746,
       "name": "Matamua",
       "url": "https://open.spotify.com/track/472kQ99QrEpFLaLBUglVF3"
@@ -607,7 +643,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 503146,
       "name": "Mericoeur",
       "url": "https://open.spotify.com/track/2Yt7BGALGcWl1TEBtQEqBy"
@@ -881,10 +917,28 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 414106,
       "name": "Spirales",
       "url": "https://open.spotify.com/track/0kewjdlSTKlF1GbBiXbfVc"
+    },
+    {
+      "album": {
+        "name": "Illumination of the Heart",
+        "url": "https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410266,
+      "name": "Stern an Stern",
+      "url": "https://open.spotify.com/track/3PlSjESvsU50fg4cajMBmg"
     },
     {
       "album": {
@@ -899,7 +953,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 486893,
       "name": "Still Stones of Silence",
       "url": "https://open.spotify.com/track/7zUPTyOUvO41OBtA5BTwMr"
@@ -1011,7 +1065,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 349306,
       "name": "Unknown Doors",
       "url": "https://open.spotify.com/track/1xYzlYdAQeHUdyJKbb6Vt5"
@@ -1051,7 +1105,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-11-05",
       "duration_ms": 513840,
       "name": "Venus Rising",
       "url": "https://open.spotify.com/track/2Ugv31yiymtA9NnbJU3igD"

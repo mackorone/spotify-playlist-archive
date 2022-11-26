@@ -67,10 +67,28 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 208000,
       "name": "Diddy Bop",
       "url": "https://open.spotify.com/track/3M0XJE3zuyOKksK7wIOxNN"
+    },
+    {
+      "album": {
+        "name": "Telefone",
+        "url": "https://open.spotify.com/album/5kjqLxeQxdW3CcUdOXuO2c"
+      },
+      "artists": [
+        {
+          "name": "Noname feat. Raury, Cam O'bi",
+          "url": "https://open.spotify.com/artist/5rMMhHaZpO8I0y1D8RuE8T"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Diddy Bop",
+      "url": "https://open.spotify.com/track/7CRPXJt3IVC7V0VcM0PSQi"
     },
     {
       "album": {
@@ -283,6 +301,24 @@
     {
       "album": {
         "name": "Frustrated",
+        "url": "https://open.spotify.com/album/6bIe2wMggGlPkrv8jMVWA1"
+      },
+      "artists": [
+        {
+          "name": "R.LUM.R",
+          "url": "https://open.spotify.com/artist/7JBZN2pehWRUu3fX11lP2y"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201463,
+      "name": "Frustrated",
+      "url": "https://open.spotify.com/track/1NXZqhIPiiB8oJtleFhCpu"
+    },
+    {
+      "album": {
+        "name": "Frustrated",
         "url": "https://open.spotify.com/album/0ewxQHdl5Jc5VVsBbyh3nZ"
       },
       "artists": [
@@ -293,7 +329,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 201463,
       "name": "Frustrated",
       "url": "https://open.spotify.com/track/5Ny3wPkBqfpmDxuifn4s8s"
@@ -315,6 +351,24 @@
       "duration_ms": 159011,
       "name": "Good As Hell",
       "url": "https://open.spotify.com/track/6uAm7pG66O1XesXS9bpHSF"
+    },
+    {
+      "album": {
+        "name": "Cuz I Love You (Super Deluxe)",
+        "url": "https://open.spotify.com/album/2KJjOBX280F3hZZE1xO33O"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 159735,
+      "name": "Good as Hell",
+      "url": "https://open.spotify.com/track/1fUXdFpj8AbpkdwiaJwQWk"
     },
     {
       "album": {

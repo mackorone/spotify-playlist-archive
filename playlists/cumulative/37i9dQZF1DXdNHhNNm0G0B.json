@@ -110,6 +110,24 @@
     },
     {
       "album": {
+        "name": "Brownie McGhee and Sonny Terry Sing",
+        "url": "https://open.spotify.com/album/1bnGRRSXinuQPmeeQM7AIv"
+      },
+      "artists": [
+        {
+          "name": "Sonny Terry and Brownie McGhee",
+          "url": "https://open.spotify.com/artist/7GQR0UJuWkRH8TTrdmteEw"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Better Day",
+      "url": "https://open.spotify.com/track/4iSvnsxzZBte3qgstEd5qI"
+    },
+    {
+      "album": {
         "name": "Black Myself",
         "url": "https://open.spotify.com/album/78BmKxgvj4rGwoqnT3Q4Tz"
       },
@@ -697,7 +715,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 264880,
       "name": "Imaginational Anthem",
       "url": "https://open.spotify.com/track/2g8His2Vt7xUmZkhCuLB8W"
@@ -1025,7 +1043,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": null,
       "duration_ms": 214786,
       "name": "Night After Sidewalk",
       "url": "https://open.spotify.com/track/6aEKWnhMVr2rdaqSdNha6U"
@@ -1061,7 +1079,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 339320,
       "name": "Plains of Waterloo / James Connolly",
       "url": "https://open.spotify.com/track/2JL9T7W6C9O0dYR8TO1FLg"
@@ -1501,6 +1519,24 @@
       "duration_ms": 188426,
       "name": "Tough Times (12-?-53)",
       "url": "https://open.spotify.com/track/0BGReizzVdAhKT9FpWOEXD"
+    },
+    {
+      "album": {
+        "name": "Blowin' The Fuses",
+        "url": "https://open.spotify.com/album/01wckDXMEr0cA2tCTwu1jT"
+      },
+      "artists": [
+        {
+          "name": "Lightnin' Hopkins",
+          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 177120,
+      "name": "Trouble In Mind",
+      "url": "https://open.spotify.com/track/0ESNFiz1ATKj4fQyqJHmhE"
     },
     {
       "album": {

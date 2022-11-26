@@ -4,7 +4,7 @@
 
 > ¡Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer\. Foto: Los Nocheros
 
-132 songs - 7 hr 24 min - [published](https://open.spotify.com/playlist/4jV8thGCLiOJDMuDg71WqM)
+137 songs - 7 hr 40 min - [published](https://open.spotify.com/playlist/4jV8thGCLiOJDMuDg71WqM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [La Noche Salteña](https://open.spotify.com/track/4EYyuY7x7OsbzC6MzkusHM) | [Canto Del Alma](https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa) | [La Noche Salteña](https://open.spotify.com/album/5HSE5Sx8MmtWdb66EmR3yj) | 2:52 | 2021-12-31 | 2022-08-12 |
 | [La Noche Salteña](https://open.spotify.com/track/6VRrhvfIn4tZUx0R37hOtD) | [Canto Del Alma](https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa) | [Fiesta del Alma](https://open.spotify.com/album/5c4Yz6YfBCQ73hj1fn5Rrh) | 2:52 | 2022-07-01 |  |
 | [La Noche Sin Ti](https://open.spotify.com/track/3o9cQ5wp9QXhKXHAOAESFG) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP) | [Ahyre](https://open.spotify.com/album/2jJyXMCAAQmgk1WlsFFwAN) | 4:29 | 2021-12-31 |  |
+| [La Revancha](https://open.spotify.com/track/32tw6sBHtgnsh36g2voewK) | [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx) | [La Noche Perfecta](https://open.spotify.com/album/1tDPYZoGKYQPyo6qcm7yWU) | 2:35 | 2022-11-04 |  |
 | [La Sachapera](https://open.spotify.com/track/4AtnAMuqST1ZkEaTaXr2fa) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc) | [La Sachapera](https://open.spotify.com/album/0fhJaycokyiWhvhnlUPHth) | 3:25 | 2021-12-31 |  |
 | [La Sembradora](https://open.spotify.com/track/0XyqBaoT1pjHNAFbNYpM2D) | [Germán Asis](https://open.spotify.com/artist/7et3MQLeWcD0rDQMf1h3hs), [Facundo Toro](https://open.spotify.com/artist/6ZkfAoHwFnBg7SKExJ3QJX) | [La Sembradora](https://open.spotify.com/album/6sTrPx3XKKRgSb1aWCvw6c) | 2:59 | 2022-07-01 |  |
 | [La Sembradora](https://open.spotify.com/track/51XaWigPTFlriXvHJ4w6nN) | [Germán Asis](https://open.spotify.com/artist/7et3MQLeWcD0rDQMf1h3hs), [Facundo Toro](https://open.spotify.com/artist/6ZkfAoHwFnBg7SKExJ3QJX) | [La Sembradora](https://open.spotify.com/album/3twy4ow92Rj6tityaqKszB) | 2:59 | 2021-12-31 | 2022-07-29 |
@@ -93,7 +94,10 @@
 | [Mundo](https://open.spotify.com/track/2jL5pH60kWWSNEyoxENRol) | [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Mundo](https://open.spotify.com/album/3irWZcLfE9HCACenWfVp3E) | 3:42 | 2021-12-31 |  |
 | [Nada \- REMIX](https://open.spotify.com/track/2TjYOCmxd4HTjcZxtjoj1c) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc), [Destino San Javier](https://open.spotify.com/artist/26EVG2B9cd0c1gAfDsA7uW) | [Nada \(REMIX\)](https://open.spotify.com/album/5CHPMtTMwLIL2vK6GnDjMM) | 3:31 | 2022-08-26 |  |
 | [Navidad y Año Nuevo](https://open.spotify.com/track/60SbkLG67htrmPIUDWv68D) | [Destino San Javier](https://open.spotify.com/artist/26EVG2B9cd0c1gAfDsA7uW) | [Navidad y Año Nuevo](https://open.spotify.com/album/1HRNGUWQDfazHryTekdgpN) | 2:24 | 2021-12-31 | 2022-07-02 |
-| [No Somos Nada](https://open.spotify.com/track/7JAven4KfvzBPbKyxE99OJ) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Hijos de la Tierra](https://open.spotify.com/album/39j7YWFfBTmt99FUy55DRs) | 3:17 | 2022-09-30 |  |
+| [No Somos Nada](https://open.spotify.com/track/7JAven4KfvzBPbKyxE99OJ) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Hijos de la Tierra](https://open.spotify.com/album/39j7YWFfBTmt99FUy55DRs) | 3:17 | 2022-09-30 | 2022-10-21 |
+| [No Somos Nada](https://open.spotify.com/track/7dz5falT5ubzi6zp4JKcBO) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Hijos de la Tierra](https://open.spotify.com/album/7coKEyXcZyT853mG0S4Bad) | 3:17 | 2022-11-04 | 2022-11-13 |
+| [No Somos Nada](https://open.spotify.com/track/0RPBYkItMt1otL1Llu5UHv) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Hijos de la Tierra](https://open.spotify.com/album/6QpqXyvCMqNHwXM4B840O2) | 3:18 | 2022-10-07 |  |
+| [No Somos Nada](https://open.spotify.com/track/7b4nKzpEOc1Yc4gntR7FVA) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Hijos de la Tierra](https://open.spotify.com/album/2ekliaSLvcZmPGWEg56w3B) | 3:18 | 2022-10-07 | 2022-10-28 |
 | [No Te Vayas Carnaval](https://open.spotify.com/track/4P1iwTp5ZqynYoV4X1GQx4) | [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [Jorge Rojas](https://open.spotify.com/album/4Zu0dRK3MZLBOdKr5cM70J) | 4:00 | 2021-12-31 |  |
 | [Noctilucado](https://open.spotify.com/track/4kuKfS9nCQf5TyCGCFmQYm) | [La Macha](https://open.spotify.com/artist/65HBEmIhkJCkdAc2X9nrnc) | [Noctilucado](https://open.spotify.com/album/7crNDxDK2sO3bp9hs1JTxw) | 2:45 | 2021-12-31 | 2022-05-14 |
 | [Nuestras Flores](https://open.spotify.com/track/6wk1i2Wi2eYX4YjPoGnljA) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP) | [Nuestras Flores](https://open.spotify.com/album/6DE4XqVKpCNKf59JvyIcRE) | 4:29 | 2022-08-19 |  |
@@ -137,8 +141,9 @@
 | [Volver a Tilcara](https://open.spotify.com/track/1Ab4W9QwZf30bFMsiH3RpM) | [Sergio Galleguillo](https://open.spotify.com/artist/4gQOceTfcyC3AQHUE2gmVt) | [Volver](https://open.spotify.com/album/64kjdSVZf0RDPJrv73sCpW) | 4:57 | 2021-12-31 | 2022-07-29 |
 | [Volver a Verte](https://open.spotify.com/track/5OP2PMkXcIIbEzztGKPYve) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Yo Soy el Indio](https://open.spotify.com/album/38i6QhEOVlyZG2Lwumhkzp) | 2:23 | 2021-12-31 |  |
 | [Vuelve La Llama](https://open.spotify.com/track/5ji0BDOEcT5ITZHsrWfMGX) | [La Cantada](https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb) | [Vuelve La Llama](https://open.spotify.com/album/79mwd2rHekN02U2DuS4tJ0) | 1:59 | 2022-10-07 |  |
-| [Yo seré Jujuy](https://open.spotify.com/track/17KOVqmT5m2Rdloo3440SF) | [La Cantada](https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb) | [Yo seré Jujuy](https://open.spotify.com/album/4lq8LJDZ53ZJZ2nEsH69cV) | 4:06 | 2021-12-31 |  |
+| [Yo seré Jujuy](https://open.spotify.com/track/17KOVqmT5m2Rdloo3440SF) | [La Cantada](https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb) | [Yo Seré Jujuy](https://open.spotify.com/album/4lq8LJDZ53ZJZ2nEsH69cV) | 4:06 | 2021-12-31 |  |
 | [Yo Soy](https://open.spotify.com/track/0JRPALRWpLmVif7MafmBja) | [Francisco Benitez](https://open.spotify.com/artist/6egRIQTuB2wz5MbEBLfncj) | [Yo Soy](https://open.spotify.com/album/7pcf9UsIsZWSQqSVMf4t6C) | 2:41 | 2022-02-18 |  |
+| [Zamba de los yuyos](https://open.spotify.com/track/7ipuwOjqoLy5hyAEGSMZj5) | [Gauchos Of The Pampa](https://open.spotify.com/artist/3rinfPP8tgOSDHnmmfEWCN) | [Zamba de los yuyos](https://open.spotify.com/album/6s7uk19jxa0drzsviWj3ih) | 4:16 | 2022-11-11 |  |
 | [Zapateo](https://open.spotify.com/track/7DRlzBCGO83lfVHV4Z4YjS) | [La Cantada](https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb) | [Zapateo](https://open.spotify.com/album/3e5YZATI5VXN1UCKbi3a60) | 2:59 | 2021-12-31 | 2022-03-12 |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00RdhV73Dbe.md) - [plain]
 
 > <a href="spotify:artist:3MkIU5jhXTMK9pYQTRVI6p">DJ BORING</a>'s favorite tracks\. Updated regularly\. Curated by DJ BORING\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,654 likes - 70 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,874 likes - 70 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,12 +42,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00RdhV73Dbe.md) - [plain]
 | 32 | [LB Steaua](https://open.spotify.com/track/3Xq4IKHyDrXcuKhKicuud1) | [Metrist](https://open.spotify.com/artist/2EaMCfkZ07OvRk0w2UOEwg) | [ANSIA005](https://open.spotify.com/album/4fud2q3QbJvdDVnbg6p4ab) | 5:30 |
 | 33 | [Death \- Crystal Castles Remix](https://open.spotify.com/track/1UbcuHH23bXMoPmv6xCjXo) | [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910), [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [To Lose My Life ..\. \(10th Anniversary Edition\)](https://open.spotify.com/album/2o8f42XEJoZqoPTCrgzSXS) | 4:58 |
 | 34 | [Tree Song](https://open.spotify.com/track/2lYCfrY6K50MyzBDruQsWE) | [Call Super](https://open.spotify.com/artist/1FVo44KTXqxo3JxXADWTd9) | [Cherry Drops II](https://open.spotify.com/album/0Mkzv9nvRSfEXd8IrlzzGQ) | 9:43 |
-| 35 | [Unknown At Night](https://open.spotify.com/track/6SqqiAyIewLLvoQiZaLMs6) | [dj pgz](https://open.spotify.com/artist/4cM6iICvyU8aHE7vawUiuX) | [Unknown At Night](https://open.spotify.com/album/0n9IBgZECMy8Bq2c6kwqgG) | 4:27 |
-| 36 | [Singin' in the Rain](https://open.spotify.com/track/73GhZu2dr1h6RdpiWFJx1j) | [Mint Royale](https://open.spotify.com/artist/69NjLU6rit8q9XEjL50BOj) | [See You in the Morning](https://open.spotify.com/album/09xoxcs7kOCDCRkoFeFVNa) | 3:28 |
+| 35 | [Unknown At Night](https://open.spotify.com/track/6SqqiAyIewLLvoQiZaLMs6) | [DJ PGZ](https://open.spotify.com/artist/4cM6iICvyU8aHE7vawUiuX) | [Unknown At Night](https://open.spotify.com/album/0n9IBgZECMy8Bq2c6kwqgG) | 4:27 |
+| 36 | [Singin' in the Rain](https://open.spotify.com/track/0lju7TCZwpvslleR7OgY9h) | [Mint Royale](https://open.spotify.com/artist/69NjLU6rit8q9XEjL50BOj) | [See You in the Morning](https://open.spotify.com/album/5NlNNBvhqaqdXRFflrNkx1) | 3:28 |
 | 37 | [Reach](https://open.spotify.com/track/5gDNXpsEXyq7P95jU3xUwM) | [Stefan Ringer](https://open.spotify.com/artist/1qJyku2FyCAAahyeoXs9qV) | [FWM003](https://open.spotify.com/album/75Rv1yZhnL1PRuP13yOd86) | 5:21 |
 | 38 | [$iTTIN](https://open.spotify.com/track/3wZLmGJV2hpACYcOsdU5M4) | [Tlim Shug](https://open.spotify.com/artist/6ZBY7xp0TKiZx6TlQk19yh) | [$iTTIN](https://open.spotify.com/album/46N9zgTpTMOJzhett7MWKv) | 5:28 |
 | 39 | [Gay Dentists](https://open.spotify.com/track/2KUh0GgOD4u32XqzmtdfRW) | [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Lambs Anger](https://open.spotify.com/album/5trGnTKKV1Iz39gXQiAFwZ) | 3:38 |
-| 40 | [sadguitar\_V777.wav](https://open.spotify.com/track/0sUpjP1nHRRPJ5I0gq9BdH) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [sadguitar\_V777.wav](https://open.spotify.com/album/51Di4JF9jeiTr3IFPmvCsV) | 3:57 |
+| 40 | [sadguitar\_V777.wav](https://open.spotify.com/track/577XGVYWxjT4vb9dXNnJYQ) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [sadguitar\_V777.wav](https://open.spotify.com/album/3Vbzs2b4rRSchaHTDBJ8uq) | 3:57 |
 | 41 | [Heartbreaker](https://open.spotify.com/track/6aUakYB97afCEmAqlyE5Wx) | [Deadboy](https://open.spotify.com/artist/2YbV1TIoIl1Un54MmSvZ3V) | [U Cheated](https://open.spotify.com/album/21DasTK7T1uQXiOhCmnsW3) | 5:20 |
 | 42 | [Like We Used To](https://open.spotify.com/track/0gRHszG24gRBpaDmRB8lJO) | [Kahn](https://open.spotify.com/artist/6X0Kd3L9wHWDzWU7cOgjW3) | [Like We Used To / Helter Skelter](https://open.spotify.com/album/1kntJfXB19YvHAugu2Itqs) | 4:26 |
 | 43 | [See Other People](https://open.spotify.com/track/1kEd5QLxm8yfcTr3CVxGNS) | [Cosmin TRG](https://open.spotify.com/artist/4jRLIIrKvl4rAmir58oDK0) | [Generation Dubstep](https://open.spotify.com/album/7oOdk7kXghCgkLaSbh1SwH) | 4:59 |
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00RdhV73Dbe.md) - [plain]
 | 58 | [Gravity's Rainbow \- Van She Remix](https://open.spotify.com/track/4TStyjKnybRujBR9FIO7zC) | [Klaxons](https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI), [Van She](https://open.spotify.com/artist/4FTDSkWpchgZy2axPEGDJW) | [Kitsuné Maison Compilation 3](https://open.spotify.com/album/7wWViw6BLh7Z5BC3zssa35) | 5:23 |
 | 59 | [Eisbär](https://open.spotify.com/track/6dO3t1e3pb7sxyDQbDyVNX) | [Grauzone](https://open.spotify.com/artist/2oNZUW4sR0AGXRyPExtFnW) | [Eisbär](https://open.spotify.com/album/6T7XaTroien9MaoWJZiUdE) | 4:48 |
 | 60 | [Scalar \- HAAi Remix](https://open.spotify.com/track/0iGooa2YKPoK5lwTLzJIcS) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Yearning for the Infinite Remixed](https://open.spotify.com/album/7Fo17tDxpIkg3sc1zuUbOr) | 7:02 |
-| 61 | [Intimate \- Club Mix](https://open.spotify.com/track/1GYYbzYsWYn3epskOuuZCb) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0), [El Trick](https://open.spotify.com/artist/46W67d6DQ9MkC3M0rtrHI0), [DJ Sports](https://open.spotify.com/artist/7EJ8xVXZJezYW7Y1xvJ2Yb) | [Essentials](https://open.spotify.com/album/6gVlFkJTXLPy0zGnpe47UO) | 3:38 |
+| 61 | [Intimate \- Club Mix](https://open.spotify.com/track/4RkaGrpMqLkMd7nK5mEE4D) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0), [El Trick](https://open.spotify.com/artist/46W67d6DQ9MkC3M0rtrHI0), [DJ Sports](https://open.spotify.com/artist/7EJ8xVXZJezYW7Y1xvJ2Yb) | [Essentials](https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW) | 3:38 |
 | 62 | [Crazy Eyes, Eric](https://open.spotify.com/track/5meimDAMBvCXe38w7pP2Xl) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [U](https://open.spotify.com/album/2n91JKUQPPsIvwIOqFAZzE) | 5:38 |
 | 63 | [Can't Help It](https://open.spotify.com/track/7z2oL4N6nkOY39PXLASCpO) | [Baba Stiltz](https://open.spotify.com/artist/1xaQSClXcsc1JvxZ2qnwBF) | [Can't Help It](https://open.spotify.com/album/4dOyCbf2Qpy6XCrVVSTLBp) | 5:38 |
 | 64 | [Jeanette](https://open.spotify.com/track/66KnxPOG7pEbzqyKhLaIE0) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [Inner Song](https://open.spotify.com/album/79fGMhdBAKmCiih3K8Gwqz) | 6:14 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00RdhV73Dbe.md) - [plain]
 | 69 | [Rayna \- Shanti Celeste Remix](https://open.spotify.com/track/4hmKziZXTpDbqBqW7hZW7V) | [Trance Wax](https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE), [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Rayna \(Shanti Celeste Remix\)](https://open.spotify.com/album/5aC4FfAUuHAIqtYmuu1Ki4) | 6:52 |
 | 70 | [Gasoline, Pt\. 2](https://open.spotify.com/track/76rWWUIdZ3QonRhUOzLjvS) | [Darcy Baylis](https://open.spotify.com/artist/3blRQedtHHIGK76BFF1n1P) | [Days After Breaking](https://open.spotify.com/album/30UnTsr4oe3T2QzpKYt7OB) | 6:30 |
 
-Snapshot ID: `MTY1OTEwNzM4MSwwMDAwMDAwMDRmNGM5OTMwOTU0NTMxYjliMzAyYjdhZDAyN2FjMWU3`
+Snapshot ID: `MTY1OTEwNzM4MSwwMDAwMDAwMDU4NzFjMTM3YmQzODA5MDg2ZGM4ODg2MWIwNDJhNDQw`

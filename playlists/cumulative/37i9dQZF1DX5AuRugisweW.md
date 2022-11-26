@@ -4,7 +4,7 @@
 
 > Songs of the crossroads and "that old evil spirit"—from Robert Johnson to John Mayer, from early blues to new Americana.
 
-71 songs - 4 hr 5 min - [published](https://open.spotify.com/playlist/4QbJPlJtPYPvpuNwU9wxi8)
+75 songs - 4 hr 18 min - [published](https://open.spotify.com/playlist/4QbJPlJtPYPvpuNwU9wxi8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Crossroads](https://open.spotify.com/track/06seDLtwax1URGUWMM1Tzb) | [David "Honeyboy" Edwards](https://open.spotify.com/artist/1TJ9XdOFUqlSduhAVV7YfR) | [The World Don't Owe Me Nothing](https://open.spotify.com/album/2GymXXT4nUQJ7pRe3kKm3V) | 3:26 | 2020-11-13 |  |
 | [CrossRoads](https://open.spotify.com/track/1J14bmebdXtMFCOMFLI4y7) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Dust My Broom](https://open.spotify.com/album/60uHS2b93aPUAkZNVGNrQw) | 2:48 | 2020-11-13 | 2022-07-29 |
 | [Crossroads](https://open.spotify.com/track/0BfVCv8lMEHxEWZlo85Zso) | [Homesick James](https://open.spotify.com/artist/4XlRNWTeM8KRfRrvxXSsgP) | [The USA Records Blues Story](https://open.spotify.com/album/2jCNz707qCyk1BOV66BaD2) | 2:45 | 2020-11-13 |  |
+| [Crossroads](https://open.spotify.com/track/7tTROS8YTXXvZQLrShynY6) | [Homesick James](https://open.spotify.com/artist/4XlRNWTeM8KRfRrvxXSsgP) | [Chicago City Blues The '60s](https://open.spotify.com/album/41yyBTXkSkjDvQHUHU5tcg) | 2:47 | 2020-11-13 | 2022-11-13 |
 | [Crossroads](https://open.spotify.com/track/4WBmkMJyWubRXRLYk8t9SI) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Battle Studies](https://open.spotify.com/album/1V5vQRMWTNGmqwxY8jMVou) | 2:29 | 2020-11-13 |  |
 | [Crossroads](https://open.spotify.com/track/4rxamav7i2lJexbuAxcvfe) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Crossroads](https://open.spotify.com/album/7xlc8VKmPqZJ9m1Dphm6O5) | 4:11 | 2020-11-13 |  |
 | [Crossroads \- 2008 Remaster](https://open.spotify.com/track/6mGy6bzPJ6hrgPnVJZCEd4) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Crossroads \(Original Sountrack\)](https://open.spotify.com/album/77UqIYxZhslPXUTiq4vDrE) | 4:24 | 2020-11-13 |  |
@@ -38,6 +39,7 @@
 | [Devil's Dream](https://open.spotify.com/track/2yOjgmbdA6B3jdAbZLZr43) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Pure Religion and Bad Company](https://open.spotify.com/album/0JS2Vbmp36RbIDQ0KkFWxg) | 1:59 | 2020-11-13 |  |
 | [Devil's Gonna Git You](https://open.spotify.com/track/17THAwZLC5xgi25y3S3sHQ) | [Bessie Smith](https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg) | [The Complete Recordings, Vol\. 4](https://open.spotify.com/album/1L3EizQze12QVLvn1znwcT) | 3:10 | 2020-11-13 |  |
 | [Devil's Resting Place](https://open.spotify.com/track/341o4T7XtSZUKeQvIw2wms) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Once I Was An Eagle](https://open.spotify.com/album/3soWADRhP2sj651R2BUt9E) | 3:14 | 2020-11-13 | 2022-07-29 |
+| [Devil's Resting Place](https://open.spotify.com/track/1F75INpjPkOJwd1c1fHG40) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Alternative Americana](https://open.spotify.com/album/5egEoLAKrRgFFZBZbiTAaU) | 3:14 | 2020-11-13 | 2022-11-13 |
 | [Devil's Resting Place](https://open.spotify.com/track/7mDFMh8pghY0MRToYb01eI) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Once I Was An Eagle](https://open.spotify.com/album/35He6RuwS8C2KjG067Gobl) | 3:14 | 2020-11-13 |  |
 | [Don't Give The Devil No Ground](https://open.spotify.com/track/1MUKrOtiW5qY4ccXx9KZqj) | [James & Lucky Peterson](https://open.spotify.com/artist/2Gt3l8AlsZ0lTu5E81hHb4) | [If You Can't Fix It](https://open.spotify.com/album/20qIuBLcGMyXD0Md1Ndqx3) | 3:43 | 2020-11-13 |  |
 | [Don't You Lie To Me \(I Get Evil\) \- 2002 Digital Remaster](https://open.spotify.com/track/49HpLbZHUWi24SeTZKRksQ) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [After Hours](https://open.spotify.com/album/561jvEwRe8xnV1OufSvXrS) | 2:30 | 2020-11-13 |  |
@@ -49,6 +51,7 @@
 | [Evil Woman](https://open.spotify.com/track/7lpsRa4kcNoxSHUDNDXpnn) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [Blues From The Gutter](https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL) | 4:21 | 2020-11-13 |  |
 | [God's Gonna Cut You Down](https://open.spotify.com/track/6cV9bj0q6DmMD7h5Bdk6Ot) | [Odetta](https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H) | [Essential Gold \[Digitally Remastered\]](https://open.spotify.com/album/1h6mrXOY7NeAYs45cSbYEZ) | 1:49 | 2020-11-13 | 2022-07-29 |
 | [God's Gonna Cut You Down](https://open.spotify.com/track/5kdkqDsU1U2iRsqDt55y5e) | [Odetta](https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H) | [Sings Ballads & Blues](https://open.spotify.com/album/4bA8oUUo9xbCzmBOsU8YwK) | 1:51 | 2020-11-13 |  |
+| [God's Gonna Cut You Down](https://open.spotify.com/track/0bGCYXc9sN1REMZGItqShk) | [Odetta](https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H) | [The Best Of Odetta \- Ballads & Blues](https://open.spotify.com/album/6swhyF56FsqcTOFffZeiJW) | 1:51 | 2020-11-13 | 2022-11-13 |
 | [Graveyard](https://open.spotify.com/track/5fuON606j1hkPGJhFMwerY) | [The Devil Makes Three](https://open.spotify.com/artist/63knPlGzLHTNDf1J78Fvte) | [The Devil Makes Three](https://open.spotify.com/album/18VR3tbMXiPOEj4rQfSp1k) | 3:25 | 2020-11-13 |  |
 | [Gwine Dig A Hole To Put The Devil In \(142\-B\-1\)](https://open.spotify.com/track/1j3oXJcbQdarDIMWq91yKo) | [Lead Belly](https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC) | [Leadbelly ARC & Library of Congress Recordings Vol\. 2 \(1935\)](https://open.spotify.com/album/3uCRRCs7gE3acXQUjNpLmF) | 2:32 | 2020-11-13 |  |
 | [Hellhound on My Trail](https://open.spotify.com/track/5VBWZll59ggYjEl3taGHNm) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac \(1968\)](https://open.spotify.com/album/7H79aLBXfSGwnYgPnKHRWP) | 2:05 | 2020-11-13 | 2022-07-29 |
@@ -72,6 +75,7 @@
 | [She's Got The Devil In Her](https://open.spotify.com/track/2r6JhvSzpVZ2UaHPMptWRO) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Sweet Tea](https://open.spotify.com/album/7bkjnyiMG8mXzmEyfY49wD) | 5:10 | 2020-11-13 |  |
 | [Shoot The Devil](https://open.spotify.com/track/2Od65pY63Wszxh9KgGdJsk) | [David Jacobs\-Strain](https://open.spotify.com/artist/7KXqvbvlCJn6OAxsOru4wu) | [Ocean Or A Teardrop](https://open.spotify.com/album/6kDhcbz8oBrftXQENBXHjX) | 4:18 | 2020-11-13 |  |
 | [Shoot The Devil](https://open.spotify.com/track/4mtcFF6DUAsjMmGkVCOZIt) | [David Jacobs\-Strain](https://open.spotify.com/artist/7KXqvbvlCJn6OAxsOru4wu) | [Ocean Or A Teardrop](https://open.spotify.com/album/2eVVNuaxGvnZ4DV2ervlQq) | 4:18 | 2020-11-13 | 2022-07-29 |
+| [Shoot The Devil](https://open.spotify.com/track/75CzG25bgYcZiLUXVJXSPA) | [David Jacobs\-Strain](https://open.spotify.com/artist/7KXqvbvlCJn6OAxsOru4wu) | [Ocean or a Teardrop](https://open.spotify.com/album/0zTmCNjZInNKWTliMFndfk) | 4:18 | 2020-11-13 | 2022-11-13 |
 | [Standing At The Crossroads](https://open.spotify.com/track/1e6qkPMUiaWZfVk7WdRByQ) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Shake Your Money Maker: The Best Of The Fire Sessions](https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu) | 2:58 | 2020-11-13 |  |
 | [Sweet Love and Evil Women](https://open.spotify.com/track/2Ug7RPzySjonBoV0FEzefC) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [Nothin' But The Blues](https://open.spotify.com/album/4ILAWjCe5fCCUmwjwmOmFM) | 2:56 | 2020-11-13 |  |
 | [The Devil Is A Busy Man](https://open.spotify.com/track/6Rt9vpmSBshbhQqLWDRTqQ) | [J.B\. Lenoir](https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1), [Sunnyland Slim](https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2) | [Live in '63](https://open.spotify.com/album/1wcEYzdh2ovnd2rPoB7LvO) | 4:47 | 2020-11-13 |  |

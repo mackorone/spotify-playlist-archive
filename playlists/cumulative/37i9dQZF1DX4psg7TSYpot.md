@@ -4,7 +4,7 @@
 
 > Acoustic pop songs for chill summer days or nights.
 
-121 songs - 6 hr 43 min - [published](https://open.spotify.com/playlist/0mrd15aLOKr95KM1j8m6jV)
+124 songs - 6 hr 52 min - [published](https://open.spotify.com/playlist/0mrd15aLOKr95KM1j8m6jV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Be Alright](https://open.spotify.com/track/4r4aTOJc7K3iUIU3MEPw6I) | [Lola Rhodes](https://open.spotify.com/artist/6o0VAgvpfBjrUuDWjjQJ4O) | [Be Alright](https://open.spotify.com/album/58YyhehZ9ErbmrMbzNkPx4) | 3:00 | 2022-03-10 |  |
 | [Better Together](https://open.spotify.com/track/6KzL8s8GdRbd5Mal8yLz6R) | [Us The Duo](https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl) | [Better Together](https://open.spotify.com/album/3j7z8hX2MtfUcv6Ebfgs45) | 3:20 | 2022-03-10 | 2022-07-29 |
 | [Better Together](https://open.spotify.com/track/6huS9u0BDfeQHq0lObNLPl) | [Us The Duo](https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl) | [Better Together](https://open.spotify.com/album/0KAwOGS6XRZfVBx9qmSlMc) | 3:20 | 2022-07-26 |  |
+| [Better Together](https://open.spotify.com/track/7ojDFsgotBxXxLSnyJOQgl) | [Us The Duo](https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl) | [August Feelings](https://open.spotify.com/album/5LPyx9jGYyC8kL2AsoOwWF) | 3:20 | 2022-09-30 | 2022-11-13 |
 | [Bound For The Floor](https://open.spotify.com/track/31PCgVHSfF31y58BPMt59H) | [Astrud Bonfa](https://open.spotify.com/artist/0YYKO7hybCYf1mjeXDADA7) | [Bound For The Floor](https://open.spotify.com/album/02bm3jjVSoyLWTPgbsT3lN) | 2:53 | 2022-03-10 |  |
 | [Bring It On Home To Me](https://open.spotify.com/track/55ohkobgvIBzEjVc66RwfS) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Sunshine on a Cloudy Day](https://open.spotify.com/album/3EgPYI4IKI0YWHVPdDV8NF) | 3:29 | 2022-07-01 |  |
 | [Call Me](https://open.spotify.com/track/3oWSDDSjKpLsqbszAvzOap) | [Greg Gould](https://open.spotify.com/artist/7scMWGksw0YUGUVuewfyJo) | [Call Me](https://open.spotify.com/album/6J1KXsAGwAKYKrW3PoMSPw) | 3:40 | 2022-03-10 | 2022-07-02 |
@@ -57,6 +58,7 @@
 | [Ho Hey](https://open.spotify.com/track/3cfb2iNdWpf1EZ4KaBLOjm) | [Peter Ryans](https://open.spotify.com/artist/2d6l7CTjCeBUSQmQNcmNH0) | [American Girl](https://open.spotify.com/album/0EArGGTFL9r7Qhqg3tfXqG) | 2:40 | 2022-03-10 |  |
 | [Home / Dirty Paws](https://open.spotify.com/track/0Fqee2fFR57uDmrHQ5389d) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Covers, Vol\. 1](https://open.spotify.com/album/3fGMt0VMIZqH08nfarMzjE) | 2:53 | 2022-07-26 |  |
 | [Home / Dirty Paws](https://open.spotify.com/track/24rFwAcC6eqPvyMuPynVGH) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Home / Dirty Paws](https://open.spotify.com/album/7eRqpbIX8zCdDGVlLrMuNn) | 2:53 | 2022-05-05 | 2022-07-29 |
+| [Home / Dirty Paws](https://open.spotify.com/track/7jeMhsrYnRC4369jwAzWxP) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Home / Dirty Paws](https://open.spotify.com/album/5esnPiLknsgKX8lxt2qjsa) | 2:53 | 2022-09-30 | 2022-11-14 |
 | [I Don't Care \- Acoustic Version](https://open.spotify.com/track/6npKFnNEMN65CrS2BYf9nd) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [I Don't Care \(Acoustic Version\)](https://open.spotify.com/album/4Gn2Zma5G5bpVr8XlUCYzI) | 3:39 | 2022-03-10 |  |
 | [I Don't Wanna Live Forever \(Fifty Shades Darker\) \- Acoustic](https://open.spotify.com/track/3DiSg52IvK0nmFwsMKL7bB) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV), [Simon Samaeng](https://open.spotify.com/artist/7n4yZSvg16XY22sxvZzKfw) | [I Don't Wanna Live Forever \(Fifty Shades Darker\)](https://open.spotify.com/album/14bGY9xaoIyLPLCxytC0Gy) | 3:52 | 2022-03-10 | 2022-10-01 |
 | [I Love The Way You Love Me](https://open.spotify.com/track/1DcKLf37erdwo5A3rEw9qL) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [I Love The Way You Love Me](https://open.spotify.com/album/648cHrWoPorXBdwHNU3bzS) | 3:23 | 2022-03-10 |  |
@@ -76,6 +78,7 @@
 | [Kiss the Girl](https://open.spotify.com/track/3ES0Q2d2dvNyPNGAtJVUqe) | [Brent Morgan](https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV) | [Kiss the Girl](https://open.spotify.com/album/6Rti5BJQ6LO7psnYtmUSI8) | 2:10 | 2022-03-10 | 2022-08-03 |
 | [Landslide](https://open.spotify.com/track/5Pz3fsfmozPwGTXOZzVt1L) | [Cattle & Cane](https://open.spotify.com/artist/6a1PrMzNmhNE8HrO8burHc) | [& Covers](https://open.spotify.com/album/78Fl6oqSvF7jm7QuDsLOo2) | 3:38 | 2022-07-26 |  |
 | [Landslide](https://open.spotify.com/track/7uy3S1s88VGFJeKRW5Q60r) | [Cattle & Cane](https://open.spotify.com/artist/6a1PrMzNmhNE8HrO8burHc) | [& Covers](https://open.spotify.com/album/6VtuhzqA2GKC9JJz9egSyN) | 3:38 | 2022-03-10 | 2022-07-29 |
+| [Landslide](https://open.spotify.com/track/4LukM96ZHxPL8KPhdEARzS) | [Cattle & Cane](https://open.spotify.com/artist/6a1PrMzNmhNE8HrO8burHc) | [Landslide](https://open.spotify.com/album/5dUOVCaTo5aaXt1S7zRnzt) | 3:38 | 2022-09-30 | 2022-11-13 |
 | [Let Her Go](https://open.spotify.com/track/5D0vkvek3pOkxk0udva7Yw) | [Music Travel Love](https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa) | [Let Her Go](https://open.spotify.com/album/60gcs78L51eAsxVEAulxJc) | 2:55 | 2022-03-10 |  |
 | [Let It Be \- Acoustic Cover](https://open.spotify.com/track/5Z7uQk07vVyT5lTimk0ssS) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Let It Be \(Acoustic Cover\)](https://open.spotify.com/album/6Vy6gebHPKWlIGXBWHwLTN) | 4:24 | 2022-08-02 |  |
 | [Let It Go](https://open.spotify.com/track/6r8OnTtDrhKBIIYgzxrnZ1) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [Let It Go](https://open.spotify.com/album/0ZRoNXFBWk10Rj0PO5PSPG) | 3:14 | 2022-03-10 |  |

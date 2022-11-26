@@ -4,7 +4,7 @@
 
 > The official Ozark playlist with all the music from Season 4.
 
-35 songs - 2 hr 18 min - [published](https://open.spotify.com/playlist/5U25p66mg1TN4sZewAZ6iz)
+38 songs - 2 hr 26 min - [published](https://open.spotify.com/playlist/5U25p66mg1TN4sZewAZ6iz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,9 @@
 | [Bring It On Home to Me](https://open.spotify.com/track/0WVTQp3SOCuMr08jh1jweV) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Man Who Invented Soul](https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY) | 2:42 | 2022-04-29 |  |
 | [Bring It On Home to Me](https://open.spotify.com/track/5EoYc5wvRYOtkudLfrjsL1) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Best of Sam Cooke](https://open.spotify.com/album/2Dpw2XUAsBvuNdNLarNzz8) | 2:44 | 2022-04-29 |  |
 | [Brother](https://open.spotify.com/track/6p0FKwX4Hpx3DsVcb8OsNt) | [Romany Rye](https://open.spotify.com/artist/6gWHnfRFZNcAjbygp7WD0k) | [Highway 1, Looking Back Carefully](https://open.spotify.com/album/4FvRN6nbbFD2jaMEThlXGA) | 4:36 | 2022-04-29 |  |
-| [Ca plane pour moi](https://open.spotify.com/track/71yCMlsD6qbD7NmNUEoVNR) | [Plastic Bertrand](https://open.spotify.com/artist/1KeIof0zqga5ojkmOKg88P) | [Plastic Bertrand](https://open.spotify.com/album/1wLw41yiDGcZowrw3L3Bkd) | 3:02 | 2022-04-29 |  |
+| [CA Plane Pour Moi](https://open.spotify.com/track/1z9FAvswI7gpzjUL0JAKJY) | [Plastic Bertrand](https://open.spotify.com/artist/1KeIof0zqga5ojkmOKg88P) | [Winning London \(Music From the Mary\-Kate & Ashely Olsen Movie\)](https://open.spotify.com/album/0yHbKnfhOEUT0FoDJQGtzy) | 2:58 | 2022-04-29 | 2022-11-13 |
+| [Ca Plane Pour Moi](https://open.spotify.com/track/4sf4Lq52b2iCoAgpge7a9g) | [Plastic Bertrand](https://open.spotify.com/artist/1KeIof0zqga5ojkmOKg88P) | [Plastic Bertrand](https://open.spotify.com/album/1hbQEk8Dpx3OS6MrZZ4wbq) | 3:02 | 2022-04-29 |  |
+| [Ca plane pour moi](https://open.spotify.com/track/71yCMlsD6qbD7NmNUEoVNR) | [Plastic Bertrand](https://open.spotify.com/artist/1KeIof0zqga5ojkmOKg88P) | [Plastic Bertrand](https://open.spotify.com/album/1wLw41yiDGcZowrw3L3Bkd) | 3:02 | 2022-04-29 | 2022-11-05 |
 | [Can I Kick It?](https://open.spotify.com/track/3Ti0GdlrotgwsAVBBugv0I) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [People's Instinctive Travels and the Paths of Rhythm \(25th Anniversary Edition\)](https://open.spotify.com/album/3kV0i1qqudjf0PGawJ4jck) | 4:11 | 2022-04-29 |  |
 | [Can It Be All so Simple](https://open.spotify.com/track/6OCYTygzbVwil2UFkREQiD) | [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk) | [The Essential Wu\-Tang Clan](https://open.spotify.com/album/0qtA1fEpJAvz8xGqUESxHU) | 4:11 | 2022-04-29 |  |
 | [Dreams](https://open.spotify.com/track/3lEYOLrK5iSd8PyzzKtnPF) | [Scantron](https://open.spotify.com/artist/5IXQxZ7tlQoI4qFVO37ejj) | [Electric City](https://open.spotify.com/album/49hkWW4e9WP3riEROQTJTE) | 3:02 | 2022-04-29 |  |
@@ -41,7 +43,8 @@
 | [Untitled \(feat\. Scar\)](https://open.spotify.com/track/68qkEjGepczQDzuhxH5anO) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Scar](https://open.spotify.com/artist/0sywmyZ8FiRChMptufCVUS) | [R.A.P\. Music](https://open.spotify.com/album/5EAhUoAz1G3WTvIfGZvmrh) | 3:53 | 2022-04-29 |  |
 | [Vehicle](https://open.spotify.com/track/6hnyQ0YpiO35rutiLLHLmr) | [The Ides Of March](https://open.spotify.com/artist/1Csjn2SQV7R9szDhhR7Aji) | [Vehicle](https://open.spotify.com/album/23mdYErK9fS7hxWuFBGUob) | 2:58 | 2022-04-29 |  |
 | [Weepin Willow Tree](https://open.spotify.com/track/5FnSd0uYNoX73MAQQvhKCF) | [Gwynn Michaels](https://open.spotify.com/artist/1OVOJT3t9IhIKfxMr7N7Gr) | [The Helva Records Sessions](https://open.spotify.com/album/1reUXWDUT7Xidaw7tMADUq) | 3:51 | 2022-04-29 |  |
-| [You Bore Me](https://open.spotify.com/track/3SaRmjj9eYqgHJ0mLcx7QR) | [Husky Loops](https://open.spotify.com/artist/1quz8ZBmFY2nzmoMcUXcX9) | [You Bore Me](https://open.spotify.com/album/6VtXZnqbvUQGkVMf00WtLC) | 2:30 | 2022-04-29 |  |
+| [You Bore Me](https://open.spotify.com/track/0nUu8IRQvsp1oW2LnFLnlu) | [Husky Loops](https://open.spotify.com/artist/1quz8ZBmFY2nzmoMcUXcX9) | [You Bore Me](https://open.spotify.com/album/402jsT4R41fChOFiaVgd9E) | 2:30 | 2022-04-29 |  |
+| [You Bore Me](https://open.spotify.com/track/3SaRmjj9eYqgHJ0mLcx7QR) | [Husky Loops](https://open.spotify.com/artist/1quz8ZBmFY2nzmoMcUXcX9) | [You Bore Me](https://open.spotify.com/album/6VtXZnqbvUQGkVMf00WtLC) | 2:30 | 2022-04-29 | 2022-10-13 |
 | [You Bore Me](https://open.spotify.com/track/6jQy0arv30xWHWm2hjz7hy) | [Husky Loops](https://open.spotify.com/artist/1quz8ZBmFY2nzmoMcUXcX9) | [You Bore Me](https://open.spotify.com/album/1DgVLoZUwtIQfL1XKmD5oV) | 2:30 | 2022-04-29 | 2022-07-29 |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

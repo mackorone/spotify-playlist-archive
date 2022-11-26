@@ -166,7 +166,7 @@
         },
         {
           "name": "Vulf",
-          "url": "https://open.spotify.com/artist/3zN4g0kL9VJNTVo5Woh5BL"
+          "url": "https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv"
         }
       ],
       "date_added": "2020-11-13",
@@ -413,6 +413,24 @@
     {
       "album": {
         "name": "KINFOLK: Postcards from Everywhere",
+        "url": "https://open.spotify.com/album/5ngHFQ0hYDlYirIE5l0if9"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333304,
+      "name": "Bounce, Pts. I + II",
+      "url": "https://open.spotify.com/track/1iibuYzHLKlk8SSZic8SGG"
+    },
+    {
+      "album": {
+        "name": "KINFOLK: Postcards from Everywhere",
         "url": "https://open.spotify.com/album/6U0q62N1S9dRXLNDE6PigD"
       },
       "artists": [
@@ -441,7 +459,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-07",
       "duration_ms": 333304,
       "name": "Bounce: pts I + II",
       "url": "https://open.spotify.com/track/2Xt6ANxPp2Ds41E3CWYiSV"
@@ -708,7 +726,7 @@
         },
         {
           "name": "Vulf",
-          "url": "https://open.spotify.com/artist/3zN4g0kL9VJNTVo5Woh5BL"
+          "url": "https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv"
         }
       ],
       "date_added": "2020-11-13",
@@ -753,7 +771,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-28",
+      "date_removed": null,
       "duration_ms": 305000,
       "name": "Cornish Hen",
       "url": "https://open.spotify.com/track/7nzJpykzx8lLq6aKKjcMP5"
@@ -1155,7 +1173,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-30",
+      "date_removed": null,
       "duration_ms": 198966,
       "name": "Everybody's Inn",
       "url": "https://open.spotify.com/track/35t1ubxf6jaJ96Ai18zhpY"
@@ -1199,6 +1217,24 @@
     {
       "album": {
         "name": "Baked, Broiled & Fried",
+        "url": "https://open.spotify.com/album/0Uu0RMHsayk00SRB2IY0pX"
+      },
+      "artists": [
+        {
+          "name": "Cookin' On 3 Burners",
+          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275200,
+      "name": "Feel Good Inc.",
+      "url": "https://open.spotify.com/track/06Niu5WzBT4H3f382pTjdT"
+    },
+    {
+      "album": {
+        "name": "Baked, Broiled & Fried",
         "url": "https://open.spotify.com/album/2eOtn7tcVtGHgk7JsTnGAy"
       },
       "artists": [
@@ -1227,7 +1263,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 275200,
       "name": "Feel Good Inc.",
       "url": "https://open.spotify.com/track/4GVx7oT2KnKCN9Ia0YDGau"
@@ -1371,7 +1407,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 133381,
       "name": "Funkedemia",
       "url": "https://open.spotify.com/track/3Y4OuMnrh3An9tpxGWtd0z"
@@ -2039,6 +2075,24 @@
     {
       "album": {
         "name": "Just Funkin' Around",
+        "url": "https://open.spotify.com/album/4HWLCdbq197ZA5XfXCKUhT"
+      },
+      "artists": [
+        {
+          "name": "Pieces Of A Dream",
+          "url": "https://open.spotify.com/artist/70BRQ5tBte6kVqHviL3srE"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247630,
+      "name": "Just Funkin' Around",
+      "url": "https://open.spotify.com/track/07Meko4g3ihmJD5p8h6onU"
+    },
+    {
+      "album": {
+        "name": "Just Funkin' Around",
         "url": "https://open.spotify.com/album/4U47phHmbpHhaDKlc9inlu"
       },
       "artists": [
@@ -2157,10 +2211,28 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-16",
       "duration_ms": 210560,
       "name": "Keb's Bucket",
       "url": "https://open.spotify.com/track/43eTrnAbpvPedfm5pYvpb8"
+    },
+    {
+      "album": {
+        "name": "Baked, Broiled & Fried",
+        "url": "https://open.spotify.com/album/0Uu0RMHsayk00SRB2IY0pX"
+      },
+      "artists": [
+        {
+          "name": "Cookin' On 3 Burners",
+          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210560,
+      "name": "Keb's Bucket",
+      "url": "https://open.spotify.com/track/6M6JD31lK0TXVg6KzrcjZ8"
     },
     {
       "album": {
@@ -2192,7 +2264,7 @@
         },
         {
           "name": "Vulf",
-          "url": "https://open.spotify.com/artist/3zN4g0kL9VJNTVo5Woh5BL"
+          "url": "https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv"
         }
       ],
       "date_added": "2020-11-13",
@@ -2295,7 +2367,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 188840,
       "name": "Living Off",
       "url": "https://open.spotify.com/track/7zLbAUkKTTQmNj0kPs55LH"
@@ -2451,7 +2523,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-02",
+      "date_removed": "2022-11-20",
       "duration_ms": 357000,
       "name": "N.E.G.U",
       "url": "https://open.spotify.com/track/5vKuE21kmH89BH5w5yWume"
@@ -2486,7 +2558,7 @@
         },
         {
           "name": "Vulf",
-          "url": "https://open.spotify.com/artist/3zN4g0kL9VJNTVo5Woh5BL"
+          "url": "https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv"
         }
       ],
       "date_added": "2020-11-13",
@@ -2903,7 +2975,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 191761,
       "name": "Sandra",
       "url": "https://open.spotify.com/track/7o2RSn34h4bvZdMWA0NoFo"
@@ -3013,7 +3085,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-22",
+      "date_removed": "2022-10-17",
       "duration_ms": 187214,
       "name": "Say Goodbye",
       "url": "https://open.spotify.com/track/1btR46PFIB5xnpIJJxniBB"
@@ -3322,7 +3394,7 @@
         },
         {
           "name": "Vulf",
-          "url": "https://open.spotify.com/artist/3zN4g0kL9VJNTVo5Woh5BL"
+          "url": "https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv"
         }
       ],
       "date_added": "2020-11-13",
@@ -3769,7 +3841,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 160866,
       "name": "Watchu Want",
       "url": "https://open.spotify.com/track/5zuvfo5EyQvM116kKxRgQZ"
@@ -3823,7 +3895,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 238706,
       "name": "West Coast Jam",
       "url": "https://open.spotify.com/track/5kg9Jl18Z3XjTYznMtFUED"

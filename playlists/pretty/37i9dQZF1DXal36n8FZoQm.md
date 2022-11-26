@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXal36n8FZoQm.md) - [plain]
 
 > The official playlist for Cobra Kai\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,390 likes - 143 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,145 likes - 143 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXal36n8FZoQm.md) - [plain]
 | 87 | [Fight Song](https://open.spotify.com/track/4YCssdAAHp8VPUzuBZj9i9) | [Sister Sin](https://open.spotify.com/artist/3MdnMzNMNENgdrx91CvGR8) | [Now And Forever](https://open.spotify.com/album/1UDaAmmTpoWWpkFIti7LGM) | 4:01 |
 | 88 | [Believe in Yourself](https://open.spotify.com/track/0YVhUwdbwzGu9RVWRUQaWF) | [REMMI](https://open.spotify.com/artist/14eQOEJwQwEFzqlaXuSMjf) | [Believe in Yourself](https://open.spotify.com/album/1vD3R2jh5gGq3GP9jQkbKs) | 3:08 |
 | 89 | [Cruel Summer](https://open.spotify.com/track/4wOGqIvn9FYbyZw3kRQkRr) | [Kari Kimmel](https://open.spotify.com/artist/6w5nIAeqFbZa9qssSwPsyn) | [Cobra Kai: Season 2 \(Soundtrack from the Original Series\)](https://open.spotify.com/album/2eYneWlXOCsnhYiiC8v34V) | 2:26 |
-| 90 | [Pioneer](https://open.spotify.com/track/4nwpJ3Z6aPakk0EibboPdc) | [Tom Aspaul](https://open.spotify.com/artist/413Q41cUdyDSRGezXozb54) | [Pioneer](https://open.spotify.com/album/2RDDgJdJR5bZlPJ0qv6afl) | 3:52 |
+| 90 | [Pioneer](https://open.spotify.com/track/1WEGo5CZafSDrtAmkuK7Qu) | [Tom Aspaul](https://open.spotify.com/artist/413Q41cUdyDSRGezXozb54) | [Pioneer](https://open.spotify.com/album/0dWFb0mT7OSSuEZr6X5WMm) | 3:52 |
 | 91 | [Burning Fever](https://open.spotify.com/track/5UqvhEIhVrnT4mTYFfEjhP) | [KRISTINE](https://open.spotify.com/artist/5MveLSSy2uJw20qq12EQ94) | [Kristine](https://open.spotify.com/album/7McQf4SkP9hQpgB30agxUj) | 4:15 |
 | 92 | [Dance Hall Days](https://open.spotify.com/track/2JvPJ8ydPuN2NhpH4oti6I) | [Wang Chung](https://open.spotify.com/artist/6Zh3xrWlA0SA9Fsfj9AVwm) | [Points On The Curve](https://open.spotify.com/album/5RMZLWa4VtvJXswpsk600P) | 4:00 |
 | 93 | [Here I Go Again](https://open.spotify.com/track/29pzjF6ZkzcW3ofgOVbF0t) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Saints & Sinners](https://open.spotify.com/album/5HSdx1824FepWuf8NbG7B3) | 5:08 |
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXal36n8FZoQm.md) - [plain]
 | 142 | [All of Us](https://open.spotify.com/track/26RRShwHcBtzAmSWKhQfJO) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 5, Vol 1 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4i0ZzMWF8i4GgyhQlVgml1) | 2:11 |
 | 143 | [The Eagle and the Lion](https://open.spotify.com/track/72FDfor2MIk4PfXCsupKp3) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 5, Vol 1 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4i0ZzMWF8i4GgyhQlVgml1) | 1:30 |
 
-Snapshot ID: `MTY2MzYxNDIxNiwwMDAwMDAwMGNiNzc5YmJhYjFlYTViNDZkMDk0MTBjZTViNzhjMzM3`
+Snapshot ID: `MTY2MzYxNDIxNiwwMDAwMDAwMGFjYzA1ZTE4YTkyOTBhMzMwZWYxZWMyNTFlNDBlY2Y5`

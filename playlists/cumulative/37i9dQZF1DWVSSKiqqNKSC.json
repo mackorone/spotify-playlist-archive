@@ -539,7 +539,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": "2022-11-13",
       "duration_ms": 336095,
       "name": "Caramelo Con Picante",
       "url": "https://open.spotify.com/track/402ciMtssNFzHU92t6Kxql"
@@ -637,7 +637,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": "2022-11-13",
       "duration_ms": 176733,
       "name": "Como Fue",
       "url": "https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42"
@@ -919,7 +919,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": "2022-11-13",
       "duration_ms": 313133,
       "name": "D\u00f3nde Va Chichi?",
       "url": "https://open.spotify.com/track/7xpJQcmsnGG9ojztoCNe54"
@@ -1151,7 +1151,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 303880,
       "name": "Esa Soy Yo",
       "url": "https://open.spotify.com/track/0M447oJEDm0pE8QDqbQlfi"
@@ -1445,6 +1445,24 @@
       "duration_ms": 168866,
       "name": "Historia de un Amor",
       "url": "https://open.spotify.com/track/5YkbsYoT60QOccHeKbDnUY"
+    },
+    {
+      "album": {
+        "name": "Historia entre tus dedos",
+        "url": "https://open.spotify.com/album/4TUpMF55WZeLsu6nmucfzS"
+      },
+      "artists": [
+        {
+          "name": "Los 4",
+          "url": "https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK"
+        }
+      ],
+      "date_added": "2020-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307336,
+      "name": "Historia entre tus dedos",
+      "url": "https://open.spotify.com/track/1azNmWAecfKNw0efhKkzNM"
     },
     {
       "album": {
@@ -1849,7 +1867,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-11-26",
       "duration_ms": 325373,
       "name": "La Tremenda",
       "url": "https://open.spotify.com/track/6voqBz6blDvN1c29vadprU"
@@ -2062,6 +2080,24 @@
     },
     {
       "album": {
+        "name": "Colecci\u00f3n de Oro",
+        "url": "https://open.spotify.com/album/54Z6v4k5SiehEjzX9bJzLh"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "date_added": "2020-08-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 232385,
+      "name": "Mala Mujer",
+      "url": "https://open.spotify.com/track/6WodQgc6eoPietr4k9lPHR"
+    },
+    {
+      "album": {
         "name": "Coleccion de Oro",
         "url": "https://open.spotify.com/album/4hB9LGTtBc6H29pjkTagzo"
       },
@@ -2109,7 +2145,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-16",
+      "date_removed": null,
       "duration_ms": 342400,
       "name": "Marcando la Distancia",
       "url": "https://open.spotify.com/track/70BDblSjPfj6Pe24avWzK2"
@@ -2225,7 +2261,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 307336,
       "name": "Mi Historia Entre Tus Dedos",
       "url": "https://open.spotify.com/track/5RYSQDIq0ZPGc03ZnUut57"
@@ -2319,7 +2355,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": "2022-11-13",
       "duration_ms": 347153,
       "name": "Mi M\u00fasica - Remasterizado",
       "url": "https://open.spotify.com/track/24hmqfTZpZ1xEb21qmOqFL"
@@ -2373,7 +2409,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": "2022-11-13",
       "duration_ms": 233977,
       "name": "No Me Quiero Enamorar",
       "url": "https://open.spotify.com/track/0KP697XWzoz3griESGyk0c"
@@ -2493,6 +2529,28 @@
       "duration_ms": 300451,
       "name": "Pasaporte",
       "url": "https://open.spotify.com/track/14JmB4k9tBUcS5MYbi8y1M"
+    },
+    {
+      "album": {
+        "name": "Pero Me Acuerdo De Ti",
+        "url": "https://open.spotify.com/album/23DlBVK1TYSvJ6JYHIV53T"
+      },
+      "artists": [
+        {
+          "name": "LARITZA BACALLAO",
+          "url": "https://open.spotify.com/artist/61EgOa3zlnkzFNj2Xegxsu"
+        },
+        {
+          "name": "Los 4",
+          "url": "https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK"
+        }
+      ],
+      "date_added": "2020-08-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 233947,
+      "name": "Pero Me Acuerdo De Ti",
+      "url": "https://open.spotify.com/track/7HumocNn7PasLHHfodVUU4"
     },
     {
       "album": {
@@ -2695,7 +2753,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 378013,
       "name": "Qu\u00e9 Pasa Loco",
       "url": "https://open.spotify.com/track/5evx5is4W5iLY7A5zv82Ut"
@@ -2815,7 +2873,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-12",
+      "date_removed": null,
       "duration_ms": 226873,
       "name": "Represent",
       "url": "https://open.spotify.com/track/19J9QEDo6N6dVGfzWUz5LZ"
@@ -3313,7 +3371,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 242974,
       "name": "Un Beso",
       "url": "https://open.spotify.com/track/5e26zXhmhW8zlWgCSPfxLR"
@@ -3585,7 +3643,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": "2022-11-13",
       "duration_ms": 289219,
       "name": "Ya T\u00fa No Coronas",
       "url": "https://open.spotify.com/track/3rhuPie2HVWD1yJ8NASOCV"
@@ -3655,6 +3713,28 @@
       "duration_ms": 285855,
       "name": "Yo No Le Temo a la Vida - Remasterizado",
       "url": "https://open.spotify.com/track/6r6e6OaAIfbQeZlqz9AuLj"
+    },
+    {
+      "album": {
+        "name": "Salsa 2018 [18 Salsa Latin Hits (Salsa Rom\u00e1ntica, Urbana, para Bailar)]",
+        "url": "https://open.spotify.com/album/2lUo15BdoMAaxoIHPni0NL"
+      },
+      "artists": [
+        {
+          "name": "Marquetti",
+          "url": "https://open.spotify.com/artist/2NfaWuuXcKAYb54sEfZeoZ"
+        },
+        {
+          "name": "Habana Swing",
+          "url": "https://open.spotify.com/artist/3GPQFfM38bTwuYi8u1biqZ"
+        }
+      ],
+      "date_added": "2020-08-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 238160,
+      "name": "Yo Siempre LLamo La Fiesta",
+      "url": "https://open.spotify.com/track/5XWxjZy9OgAmVBRrRrKDJj"
     },
     {
       "album": {

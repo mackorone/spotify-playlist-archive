@@ -4,7 +4,7 @@
 
 > Classic and contemporary pioneers of New Age music\. Cover: Pauline Anna Strom
 
-86 songs - 7 hr 49 min - [published](https://open.spotify.com/playlist/56lk90X1aHgxooSiDMUuWr)
+87 songs - 7 hr 56 min - [published](https://open.spotify.com/playlist/56lk90X1aHgxooSiDMUuWr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [M\. Aurora](https://open.spotify.com/track/1UDWYnesXq9b5W8O3kqxEH) | [Cheryl B\. Engelhardt](https://open.spotify.com/artist/2IG41RF72NqonaFf0XL8p9) | [Luminary](https://open.spotify.com/album/3XtcBUS9JeiDBcNcYRUsun) | 6:17 | 2021-10-15 |  |
 | [Maggi's Flute \- Mary's Watch, Pt\. 1](https://open.spotify.com/track/2fTTPRfBp8WcOItZz1JyYm) | [Joanna Brouk](https://open.spotify.com/artist/3yITaOTDcBPYNnYxlxQuUt) | [Hearing Music](https://open.spotify.com/album/58gzJUm5d9qzbv2LckicoZ) | 6:39 | 2021-10-15 | 2022-07-29 |
 | [Maggi's Flute \- Mary's Watch, Pt\. 1](https://open.spotify.com/track/5NFsVpbB89U3i4Sn2SRDFz) | [Joanna Brouk](https://open.spotify.com/artist/3yITaOTDcBPYNnYxlxQuUt) | [Healing Music](https://open.spotify.com/album/26ekcwUqvSp8VF3kzaIvXL) | 6:39 | 2022-05-06 |  |
+| [Maggi's Flute \- Mary's Watch, Pt\. 1](https://open.spotify.com/track/78MiXBsmHTgAJHtQus02WY) | [Joanna Brouk](https://open.spotify.com/artist/3yITaOTDcBPYNnYxlxQuUt) | [Hearing Music](https://open.spotify.com/album/2XGxxHwdnmQBLPJEDISC8k) | 6:39 | 2022-10-04 | 2022-11-13 |
 | [Majesty Suites \- Entrance of the Queen of Winter Dawn](https://open.spotify.com/track/3jjWke6blNPrz8FXR8snGP) | [Joanna Brouk](https://open.spotify.com/artist/3yITaOTDcBPYNnYxlxQuUt) | [Hearing Music](https://open.spotify.com/album/58gzJUm5d9qzbv2LckicoZ) | 8:31 | 2021-10-15 | 2022-07-29 |
 | [Majesty Suites \- Entrance of the Queen of Winter Dawn](https://open.spotify.com/track/6xE399xIsGkpfJojBqTCVz) | [Joanna Brouk](https://open.spotify.com/artist/3yITaOTDcBPYNnYxlxQuUt) | [Hearing Music](https://open.spotify.com/album/2XGxxHwdnmQBLPJEDISC8k) | 8:31 | 2022-05-06 |  |
 | [Memoria](https://open.spotify.com/track/0Jl3XsfcIIkz4CPZTIrhoE) | [Marcomé](https://open.spotify.com/artist/2OHDbsHt9Q2xzyK77hf9k8) | [Seven Seas \(Remastered\)](https://open.spotify.com/album/7npz49UfRVwL5GemG3mjU8) | 5:00 | 2022-05-06 |  |

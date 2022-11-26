@@ -388,6 +388,24 @@
     },
     {
       "album": {
+        "name": "Carneiros Beach",
+        "url": "https://open.spotify.com/album/2gwvYh1RlW9TtkmYb2Qtyo"
+      },
+      "artists": [
+        {
+          "name": "Carlos Robalinho",
+          "url": "https://open.spotify.com/artist/1lyeueezpzyh7J2w3tMoXO"
+        }
+      ],
+      "date_added": "2021-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 222633,
+      "name": "Carneiros Beach",
+      "url": "https://open.spotify.com/track/33NG5U8673kHJAS249qbFb"
+    },
+    {
+      "album": {
         "name": "Caf\u00e9 Dreamer",
         "url": "https://open.spotify.com/album/34kp6iILHhggrkYCnXg9sd"
       },
@@ -1155,7 +1173,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 214096,
       "name": "Midnight Sky",
       "url": "https://open.spotify.com/track/7JuGl6cntiqvXVgXJFSggk"
@@ -1379,7 +1397,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 150014,
       "name": "One Last Time",
       "url": "https://open.spotify.com/track/70FH1owOXIQKDV50Xzlgff"

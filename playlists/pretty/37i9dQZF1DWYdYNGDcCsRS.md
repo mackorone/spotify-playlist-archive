@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdYNGDcCsRS.md) - [plain]
 
 > Legendary Swedish house producer <a href="spotify:artist:15xvsJMf8phaNa1LYvL9Qv">John Dahlbäck</a> takes the decks for a dark and melodic mix perfect for the long summer nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 975 likes - 17 songs - 58 min 36 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,198 likes - 17 songs - 58 min 36 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -175,7 +175,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 263487,
       "name": "Cinco de Mayo",
       "url": "https://open.spotify.com/track/2PAAbLVkQ44RUIKWpM6DBr"
@@ -201,7 +201,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": "2022-11-12",
       "duration_ms": 157000,
       "name": "Cinco De Mayo",
       "url": "https://open.spotify.com/track/68NuIOBewsVmJ7mo08JTSe"
@@ -487,10 +487,28 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 144642,
       "name": "Estos Tragos Van Por Ti",
       "url": "https://open.spotify.com/track/0ZxFFIJg3TzEoVcuj08rA2"
+    },
+    {
+      "album": {
+        "name": "Estos Tragos Van Por Ti",
+        "url": "https://open.spotify.com/album/3jjUeZ1Xz4TuqPLmyx0Dgc"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144642,
+      "name": "Estos Tragos Van Por Ti",
+      "url": "https://open.spotify.com/track/7juo3MoTOGEkP3vcJi2aB6"
     },
     {
       "album": {
@@ -622,6 +640,24 @@
     },
     {
       "album": {
+        "name": "Lo M\u00e1s Escuchado De",
+        "url": "https://open.spotify.com/album/4fFbDrfnPDYqxbz4i3yOL4"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 214386,
+      "name": "Jefe De Jefes",
+      "url": "https://open.spotify.com/track/6H2gA3ssBTODpd82mrm72c"
+    },
+    {
+      "album": {
         "name": "Para Tucancillos y Tucancillas",
         "url": "https://open.spotify.com/album/3oeX8Q7k6jH4Gq8WzRkNqb"
       },
@@ -691,6 +727,24 @@
       "duration_ms": 167228,
       "name": "La Tequilera",
       "url": "https://open.spotify.com/track/0kjwstFQM4GNAFQWs0zUMQ"
+    },
+    {
+      "album": {
+        "name": "Friday Fun!",
+        "url": "https://open.spotify.com/album/5qs9M0eaT4PlmNHE90iVVQ"
+      },
+      "artists": [
+        {
+          "name": "War",
+          "url": "https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 190826,
+      "name": "Low Rider",
+      "url": "https://open.spotify.com/track/4NxyUBZ8zF0l8QxqBrKNS0"
     },
     {
       "album": {
@@ -1028,6 +1082,24 @@
     },
     {
       "album": {
+        "name": "Party 5 de Mayo",
+        "url": "https://open.spotify.com/album/5annZVJtACVC5bugyiYOP5"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 238236,
+      "name": "Tiene Espinas El Rosal",
+      "url": "https://open.spotify.com/track/7gYv9ktXSUTnDbinqxKrac"
+    },
+    {
+      "album": {
         "name": "Cruzando Fronteras",
         "url": "https://open.spotify.com/album/4gNEQSuUGtz13sLf11vchI"
       },
@@ -1061,6 +1133,24 @@
       "duration_ms": 224256,
       "name": "Tus Jefes No Me Quieren",
       "url": "https://open.spotify.com/track/16OHjORdq0UoVilD02ZzXN"
+    },
+    {
+      "album": {
+        "name": "Tus Jefes No Me Quieren",
+        "url": "https://open.spotify.com/album/6G4EKyZdn3rQ9HBmBpDYmb"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ensamble",
+          "url": "https://open.spotify.com/artist/4qDQBPUMcJUH7BQ9dfJnfI"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 225946,
+      "name": "Tus Jefes No Me Quieren",
+      "url": "https://open.spotify.com/track/4smCBtJsZj4On9vhm2nrnD"
     },
     {
       "album": {
@@ -1117,7 +1207,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 180733,
-      "name": "Volver Volver",
+      "name": "Volver, Volver",
       "url": "https://open.spotify.com/track/4Fvnz1ZJ86IdqDAepWYPAh"
     },
     {

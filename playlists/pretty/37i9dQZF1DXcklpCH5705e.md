@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcklpCH5705e.md) - [plain]
 
 > 做嘢做到攰，開電視煲吓劇嘆返吓先！聽埋電影同劇集歌，陪你抖返晚。cover: 周興哲
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,199 likes - 49 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,249 likes - 49 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcklpCH5705e.md) - [plain]
 | 18 | [裸の勇者](https://open.spotify.com/track/3k64vNcgYPkETG7TNgpW4o) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [裸の勇者](https://open.spotify.com/album/3Wu7a56Nl1iml7pwR4Fvv7) | 3:21 |
 | 19 | [Yours](https://open.spotify.com/track/66sBTYlkaiyBwf4fhbIHlZ) | [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Jirisan \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/145FYiluHlYCPGO2MOLhU4) | 4:24 |
 | 20 | [Destiny](https://open.spotify.com/track/5kX6Y5BBThQoqN3P0eLPlR) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [Jirisan \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/4L4zlnoYjdovofJDu8oRSE) | 3:37 |
-| 21 | [Falling](https://open.spotify.com/track/2ZT0lkRQIl0SX3v5S8NpoS) | [キム・ジョンワン of NELL](https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH) | [Jirisan \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/6d5Kzy3fo9Mk5iA7eZ4tGl) | 4:00 |
+| 21 | [Falling](https://open.spotify.com/track/2ZT0lkRQIl0SX3v5S8NpoS) | [Kim Jong Wan of NELL](https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH) | [Jirisan \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/6d5Kzy3fo9Mk5iA7eZ4tGl) | 4:00 |
 | 22 | [白銀](https://open.spotify.com/track/2N1pcj1jkiRtDjpMwo0k4H) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [明け星 / 白銀](https://open.spotify.com/album/0Tucjk9hYUvIDUtsLw5DeV) | 4:24 |
 | 23 | [明け星](https://open.spotify.com/track/3J34JtfZNylVXSKN4TDf12) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [明け星](https://open.spotify.com/album/4iQhpT848HsgBFeXfLgBoY) | 4:29 |
 | 24 | [Romantic Sunday](https://open.spotify.com/track/16YZbdkJtyvsjV8UKOwQBB) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Hometown Cha\-Cha\-Cha, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/0MExn54Ei7BViZPI3A8Qun) | 3:50 |

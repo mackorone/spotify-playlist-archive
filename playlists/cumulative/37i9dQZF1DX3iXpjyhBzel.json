@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Isaias Saad",
+  "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Ton Carfi",
   "name": "Louvor & Adora\u00e7\u00e3o",
   "published_playlist_ids": [
     "4jOyagKiotU0lUPqsmWnAd"
@@ -45,7 +45,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 427365,
       "name": "A B\u00ean\u00e7\u00e3o (The Blessing) (feat. Lukas Agustinho)",
       "url": "https://open.spotify.com/track/2ei5FBkatI52VChwfJjRPC"
@@ -70,6 +70,24 @@
     },
     {
       "album": {
+        "name": "A Resposta",
+        "url": "https://open.spotify.com/album/4UJ3wWteqxGpPadcxc7Atq"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265565,
+      "name": "A Resposta",
+      "url": "https://open.spotify.com/track/6Z1489RmO6tTSWmghjA7FT"
+    },
+    {
+      "album": {
         "name": "Aba Pai",
         "url": "https://open.spotify.com/album/1zRuzxRwuD4QGiLR1ZrwO2"
       },
@@ -85,7 +103,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 430193,
       "name": "Aba Pai",
       "url": "https://open.spotify.com/track/7cU0PtlmCWolIieowxvdhd"
@@ -107,7 +125,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 348706,
       "name": "Adorarei - Ao Vivo",
       "url": "https://open.spotify.com/track/0wlDUClcs4OEQb7DLhlSHO"
@@ -129,7 +147,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 307750,
       "name": "Aguente, Guerreiro",
       "url": "https://open.spotify.com/track/41b11ruecN0x1CSaziBxGB"
@@ -213,7 +231,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 338218,
       "name": "Believe For It (Eu Creio)",
       "url": "https://open.spotify.com/track/7DiPgo2fNrAwI9es1ffAys"
@@ -256,6 +274,28 @@
     },
     {
       "album": {
+        "name": "Casa Do Pai",
+        "url": "https://open.spotify.com/album/1xx7eg0E5QrmkzT0r0CUP5"
+      },
+      "artists": [
+        {
+          "name": "Preto no Branco",
+          "url": "https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom"
+        },
+        {
+          "name": "Silas Sim\u00f5es",
+          "url": "https://open.spotify.com/artist/0o1MH6PBeBMiZOcbxsNj8r"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311612,
+      "name": "Casa Do Pai",
+      "url": "https://open.spotify.com/track/7pSjwR778tIBOQnnm3qG2Y"
+    },
+    {
+      "album": {
         "name": "Casinha Favorita",
         "url": "https://open.spotify.com/album/0pYSJ00Twfb7cwPDVp1HXJ"
       },
@@ -293,10 +333,32 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 337840,
       "name": "Come\u00e7o, Meio e Fim / Mais Perto Quero Estar - Ao Vivo",
       "url": "https://open.spotify.com/track/2IFCM9E7M0AnBwyWXM5Not"
+    },
+    {
+      "album": {
+        "name": "Confio em Ti",
+        "url": "https://open.spotify.com/album/1UHI806hrGV9QVZFjq7xJB"
+      },
+      "artists": [
+        {
+          "name": "Thaiane Seghetto",
+          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
+        },
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252453,
+      "name": "Confio em Ti",
+      "url": "https://open.spotify.com/track/3UBwVX5qweI2yIrkvLjRzM"
     },
     {
       "album": {
@@ -366,6 +428,24 @@
     },
     {
       "album": {
+        "name": "Deixa a L\u00e1grima Descer (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4GZBjxgLrhaNYyRO5szYgf"
+      },
+      "artists": [
+        {
+          "name": "Jess\u00e9 Aguiar",
+          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342637,
+      "name": "Deixa a L\u00e1grima Descer - Ao Vivo",
+      "url": "https://open.spotify.com/track/5bBP61uqc7W0FyGCLuWACI"
+    },
+    {
+      "album": {
         "name": "Deserto (Ao Vivo)",
         "url": "https://open.spotify.com/album/3dRnmYdGMMDgBxx3vdd6yW"
       },
@@ -413,7 +493,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 316521,
       "name": "Deus Emanuel",
       "url": "https://open.spotify.com/track/03SWHCfQMEKBcTd6E6jvgP"
@@ -442,6 +522,46 @@
     },
     {
       "album": {
+        "name": "Deus Poderoso (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4ZXmwYHyVQYQPjRJ4MU5Za"
+      },
+      "artists": [
+        {
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326666,
+      "name": "Deus Poderoso - Ao Vivo",
+      "url": "https://open.spotify.com/track/4gFiMeIv6jYYYvsFT06j2u"
+    },
+    {
+      "album": {
+        "name": "Dia E Noite",
+        "url": "https://open.spotify.com/album/5pSLZZgFtTk8RkdCGEjLBg"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Gomes",
+          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
+        },
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 407886,
+      "name": "Dia E Noite",
+      "url": "https://open.spotify.com/track/0xmAELkU7sFGUFEyRI0cSb"
+    },
+    {
+      "album": {
         "name": "Eis-me Aqui (Ao Vivo)",
         "url": "https://open.spotify.com/album/3htXOXY0fw7xL2SQbM6asn"
       },
@@ -461,6 +581,28 @@
       "duration_ms": 304426,
       "name": "Eis-me Aqui - Ao Vivo",
       "url": "https://open.spotify.com/track/30HIrYrqVauHKnGQKEavBS"
+    },
+    {
+      "album": {
+        "name": "Ele Nos Ama (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7dGVwbj2rxYZYpONmb9AyB"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        },
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329590,
+      "name": "Ele Nos Ama - Ao Vivo",
+      "url": "https://open.spotify.com/track/4fK5GUyYnxxov60xIBQL7U"
     },
     {
       "album": {
@@ -744,6 +886,28 @@
     },
     {
       "album": {
+        "name": "Farol",
+        "url": "https://open.spotify.com/album/0ktvXrUoZnV7OB8AH288ww"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Pedro Henrique",
+          "url": "https://open.spotify.com/artist/5z5z7mb9JYMVdmi4Lfnu0t"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238363,
+      "name": "Farol",
+      "url": "https://open.spotify.com/track/2IKyipS7Mij4KcH1QnTEEY"
+    },
+    {
+      "album": {
         "name": "Filho (Ao Vivo)",
         "url": "https://open.spotify.com/album/33Unmm1Eo3g5QEVIZQXVUn"
       },
@@ -842,6 +1006,28 @@
     },
     {
       "album": {
+        "name": "L\u00e1grimas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6V9c3hmMtqUgvKWBujX9C9"
+      },
+      "artists": [
+        {
+          "name": "Amanda Loyola",
+          "url": "https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al"
+        },
+        {
+          "name": "Juliano Son",
+          "url": "https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 507229,
+      "name": "L\u00e1grimas (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1Zj96oaWZXVgfBHH6g8rli"
+    },
+    {
+      "album": {
         "name": "Mais Que Uma Voz / A Ele a Gl\u00f3ria",
         "url": "https://open.spotify.com/album/1sPNFLs4tFZmpMLep14OgN"
       },
@@ -857,7 +1043,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 242005,
       "name": "Mais Que Uma Voz",
       "url": "https://open.spotify.com/track/1RlwQdnnfFYIIPEnYj6yI8"
@@ -966,6 +1152,28 @@
     },
     {
       "album": {
+        "name": "N\u00e1ufrago",
+        "url": "https://open.spotify.com/album/0SAlbW5iw08FjHuAj6I65U"
+      },
+      "artists": [
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
+        },
+        {
+          "name": "Leonardo Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351176,
+      "name": "N\u00e1ufrago",
+      "url": "https://open.spotify.com/track/7DUs3Bi0639PMeAnBAIUOT"
+    },
+    {
+      "album": {
         "name": "N\u00e3o H\u00e1 Ningu\u00e9m (Ao Vivo)",
         "url": "https://open.spotify.com/album/73mSNwovVaS3gWGVqXYXTp"
       },
@@ -1039,6 +1247,42 @@
       "duration_ms": 283365,
       "name": "O c\u00e9u \u00e9 o meu Lugar (feat. Julia Vit\u00f3ria)",
       "url": "https://open.spotify.com/track/5XhHL5wnO6jC3tE0zdnFYA"
+    },
+    {
+      "album": {
+        "name": "O Medo N\u00e3o Vai Me Parar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7crn3QiywbOhiLG1kxQ3tY"
+      },
+      "artists": [
+        {
+          "name": "Sarah Beatriz",
+          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303346,
+      "name": "O Medo N\u00e3o Vai Me Parar - Ao Vivo",
+      "url": "https://open.spotify.com/track/4lILbjkdIihRgg3Z1QP5Qh"
+    },
+    {
+      "album": {
+        "name": "Pontes, Pt. 1",
+        "url": "https://open.spotify.com/album/55PR3Vpat1axzzvZQ3JzjC"
+      },
+      "artists": [
+        {
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239213,
+      "name": "O N\u00e3o de Deus",
+      "url": "https://open.spotify.com/track/6xK9RHuRnNwcnajKUxK1fY"
     },
     {
       "album": {
@@ -1155,7 +1399,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 278031,
       "name": "Paz da Minha Alma",
       "url": "https://open.spotify.com/track/4vsYsMvuNNl8CRhxVqz9z7"
@@ -1173,7 +1417,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 234493,
       "name": "Pertinho - Live",
       "url": "https://open.spotify.com/track/1Y5QN2S9gOZpDBkbOeA6fB"
@@ -1337,7 +1581,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 382272,
       "name": "Redentor",
       "url": "https://open.spotify.com/track/2YOZHcypOnfbG5cfsSpW4N"
@@ -1501,7 +1745,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 320103,
       "name": "Te Desejamos - Ao Vivo",
       "url": "https://open.spotify.com/track/720Xp00zXTdDfGtT0KBMPQ"
@@ -1684,6 +1928,32 @@
     },
     {
       "album": {
+        "name": "Tudo em Todos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0tyCJ3I8hlSPtITMaLHy6o"
+      },
+      "artists": [
+        {
+          "name": "Diante do Trono",
+          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
+        },
+        {
+          "name": "Ana Paula Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
+        },
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 524769,
+      "name": "Tudo em Todos - Ao Vivo",
+      "url": "https://open.spotify.com/track/3EVi3BihkgjCkFb3GZHl2P"
+    },
+    {
+      "album": {
         "name": "Um Refr\u00e3o Pra Sua Alma",
         "url": "https://open.spotify.com/album/4ZutxcTq9XmVHdKhGto4OI"
       },
@@ -1699,7 +1969,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 256023,
       "name": "Um Refr\u00e3o Pra Sua Alma",
       "url": "https://open.spotify.com/track/4wQtpt8H34SIyIvz4FG5Mx"
@@ -1782,6 +2052,32 @@
     },
     {
       "album": {
+        "name": "Voc\u00ea Tem Um Pai",
+        "url": "https://open.spotify.com/album/59vjLYXsBWzBzpSwI3mvxJ"
+      },
+      "artists": [
+        {
+          "name": "Leandro Borges",
+          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
+        },
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        },
+        {
+          "name": "Pr. Lucas",
+          "url": "https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309035,
+      "name": "Voc\u00ea Tem Um Pai",
+      "url": "https://open.spotify.com/track/6n7pN952ASYZ0FODczWqFZ"
+    },
+    {
+      "album": {
         "name": "Voc\u00ea \u00e9 Precioso",
         "url": "https://open.spotify.com/album/3luf1k9pVj09Xbe8YYExQr"
       },
@@ -1819,6 +2115,24 @@
       "duration_ms": 334692,
       "name": "Vou Deixar na Cruz",
       "url": "https://open.spotify.com/track/1zJCjjA3FRdjPvf2Dex7u2"
+    },
+    {
+      "album": {
+        "name": "Vou Me Humilhar",
+        "url": "https://open.spotify.com/album/1JEot4g3P0ySOuBGB9otLB"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236493,
+      "name": "Vou Me Humilhar",
+      "url": "https://open.spotify.com/track/6XsCKaTpswfeXBak03mNhl"
     },
     {
       "album": {
@@ -1903,6 +2217,24 @@
       "duration_ms": 372173,
       "name": "\u00c9 Tudo Sobre Voc\u00ea - Ao Vivo",
       "url": "https://open.spotify.com/track/47j8u38wfvxdQeRA7TBJrB"
+    },
+    {
+      "album": {
+        "name": "\u00c9 Tudo Sobre Voc\u00ea (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6dYnB33nT7G2RhhfOQr6ok"
+      },
+      "artists": [
+        {
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 372173,
+      "name": "\u00c9 Tudo Sobre Voc\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/7HMdbgEuBQHTcitMmhfmB9"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3iXpjyhBzel"

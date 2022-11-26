@@ -4,15 +4,17 @@
 
 > Fangirls get a lot of credit for the influence they wield\. These tracks show the full force of these empowered listeners.
 
-26 songs - 1 hr 31 min - [published](https://open.spotify.com/playlist/1llK4oiMB9CMVCYdqUM4jb)
+30 songs - 1 hr 44 min - [published](https://open.spotify.com/playlist/1llK4oiMB9CMVCYdqUM4jb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Anaconda](https://open.spotify.com/track/794F99D5BQHS5ZGRXAs7I5) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [The Pinkprint \(Deluxe\)](https://open.spotify.com/album/5ooCuPIk58IwSo6DRr1JCu) | 4:20 | 2016-08-10 |  |
 | [Boyfriend](https://open.spotify.com/track/0171XsIM2xyeXRr6wsugEI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Believe](https://open.spotify.com/album/6eknhm96vRigjwfcl49xKb) | 2:51 | 2016-08-10 | 2022-07-29 |
 | [Boyfriend](https://open.spotify.com/track/3UGIZ8qcrMTwzLbx6Kttqt) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Believe](https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN) | 2:51 | 2016-08-10 |  |
+| [Boyfriend](https://open.spotify.com/track/1tWgOr4bHpdYEX9sILhJ0J) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Pop and Vibes](https://open.spotify.com/album/4afL6Ie5qIcSNKYXhVYfi1) | 2:53 | 2016-08-10 | 2022-11-13 |
 | [Bye Bye Bye](https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) | 3:20 | 2016-08-10 |  |
 | [Confident](https://open.spotify.com/track/0Mn3amMRMoabaoTf1Publ4) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Confident \(Deluxe Edition\)](https://open.spotify.com/album/3HV3ecmJJ2GmHM93vVVKXF) | 3:25 | 2016-08-10 |  |
+| [Dangerous Woman](https://open.spotify.com/track/2W0Y7S3RZ0S5B3X4Ve4Qfl) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/008gkJbe7n4eG8cifJOyKY) | 3:55 | 2016-08-10 | 2022-11-13 |
 | [Dangerous Woman](https://open.spotify.com/track/6RUhbFEhrvGISaQ8u2j2JN) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7) | 3:55 | 2016-08-10 |  |
 | [Dangerous Woman](https://open.spotify.com/track/7l94dyN2hX9c6wWcZQuOGJ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/3OZgEywV4krCZ814pTJWr7) | 3:55 | 2016-08-10 | 2022-07-29 |
 | [Everybody \(Backstreet's Back\) \- Extended Version](https://open.spotify.com/track/5WTxbyWTpoqhdxEN2szOnl) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet Boys](https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S) | 4:47 | 2016-08-10 |  |
@@ -29,10 +31,12 @@
 | [Poison](https://open.spotify.com/track/6m59VvDUi0UQsB2eZ9wVbH) | [Bell Biv DeVoe](https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL) | [Poison](https://open.spotify.com/album/6H5mxGUWguDjtQ4Uzd8veD) | 4:21 | 2016-08-10 |  |
 | [S.O.S.](https://open.spotify.com/track/5hbytEkl5hUB5iRb0cCtZi) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Jonas Brothers](https://open.spotify.com/album/6V6xjV5e4VYUqvQFBCx1rb) | 2:33 | 2016-08-10 | 2022-07-29 |
 | [S.O.S.](https://open.spotify.com/track/6sDP4912wjwB7BJhbSnjS1) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Jonas Brothers](https://open.spotify.com/album/4myOCm6FzD9TMdK7Q0Nzx0) | 2:33 | 2016-08-10 |  |
+| [S.O.S.](https://open.spotify.com/track/7tidSoiTUdW8y8HZTHP3zV) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Biggest Dance Trends](https://open.spotify.com/album/3o5O0QFbO4Gw295m5LFJds) | 2:33 | 2016-08-10 | 2022-11-13 |
 | [See You Again \- Rock Mafia Remix](https://open.spotify.com/track/2jl743t1JKGeZi3H0vo2iV) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Rock Mafia](https://open.spotify.com/artist/4pzAvicKWenQtv9zIQim47) | [Breakout](https://open.spotify.com/album/0OfkjbaosvXBJqwsheE6ow) | 3:16 | 2016-08-10 | 2022-07-29 |
 | [See You Again \- Rock Mafia Remix](https://open.spotify.com/track/3pRURfm0THUY3G4YBOLtrC) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Rock Mafia](https://open.spotify.com/artist/4pzAvicKWenQtv9zIQim47) | [Breakout](https://open.spotify.com/album/0Yu3czJNOQ68fZgkvpjuHL) | 3:16 | 2016-08-10 |  |
 | [Treat You Better](https://open.spotify.com/track/1mSlftOO1dlDRXAyOE0Sbd) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Treat You Better](https://open.spotify.com/album/1NwnEwT5qtDv0JDYgFywdC) | 3:07 | 2016-08-10 | 2022-07-29 |
 | [Treat You Better](https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate](https://open.spotify.com/album/1ne2D0NxoGyZd31gAM4HNd) | 3:07 | 2016-08-10 |  |
+| [Treat You Better](https://open.spotify.com/track/6f3MG4vdTeLoVYXjDks7hT) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Feelgood Pop](https://open.spotify.com/album/6Wj2m4zRVre4RR1ZqVdMs4) | 3:07 | 2016-08-10 | 2022-11-14 |
 | [Worth It \(feat\. Kid Ink\)](https://open.spotify.com/track/41Fflg7qHiVOD6dEPvsCzO) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt), [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) | [Reflection \(Deluxe\)](https://open.spotify.com/album/0zAsh6hObeNmFgFPrUiFcP) | 3:44 | 2016-08-10 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

@@ -1141,6 +1141,10 @@
           "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
         },
         {
+          "name": "Caralisa Monteiro",
+          "url": "https://open.spotify.com/artist/2Yf4MRVpt0rcAd5y5h5ph1"
+        },
+        {
           "name": "Jaideep Sahni",
           "url": "https://open.spotify.com/artist/5kPOMQZvgkAEnRZqwn9SYQ"
         }
@@ -1707,6 +1711,24 @@
       "duration_ms": 243696,
       "name": "Tere Ho Ke Rahenge (From \"Raja Natwarlal\")",
       "url": "https://open.spotify.com/track/2ORutu6EpRb3FiM1VPwDaO"
+    },
+    {
+      "album": {
+        "name": "Raja Natwarlal (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6fu9KREc6SHMJuA7gHNfKg"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 243646,
+      "name": "Tere Hoke Rehengay",
+      "url": "https://open.spotify.com/track/2ywBU12d5BEkiOOEDVrBgy"
     },
     {
       "album": {

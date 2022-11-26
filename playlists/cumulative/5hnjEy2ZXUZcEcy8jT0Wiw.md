@@ -4,7 +4,7 @@
 
 > Epic playlist full of amazing cyperpunk\-themed Synthwave &\#x2F; Retrowave\. Updated regularly.
 
-338 songs - 23 hr 38 min - [published](https://open.spotify.com/playlist/10LE5caoXHsd4rW9HJvqce)
+342 songs - 23 hr 56 min - [published](https://open.spotify.com/playlist/10LE5caoXHsd4rW9HJvqce)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Loma Prieta](https://open.spotify.com/track/6oU1hPVcQcOvpiUCJA7a7v) | [LordNikon](https://open.spotify.com/artist/4BnrlrGNPLJ3KbvViKLTct) | [Loma Prieta](https://open.spotify.com/album/2wKIqSakPfvc0IknjCovE3) | 4:14 | 2020-05-20 |  |
 | [Lone Wolf](https://open.spotify.com/track/3OqNuZoAQI6PeZBOdke38c) | [Terrordyne](https://open.spotify.com/artist/6P5GUtpISiShk3WnsCrABy) | [Wrong Turn](https://open.spotify.com/album/2dxRgBjpEva2JX1jlf8Zgy) | 3:48 | 2020-12-07\* | 2020-12-13 |
 | [Lonely Earth](https://open.spotify.com/track/3E171f5u92cVbLmSX7g2Ka) | [Icarus](https://open.spotify.com/artist/17IDrizGUiveZm4P77Kkio) | [Lonely Earth](https://open.spotify.com/album/76TEKr1P60uUkKe4uml0TI) | 5:09 | 2019-07-22 |  |
+| [Lost in the City](https://open.spotify.com/track/1pp2MCCJ7B3t1faACIdKPN) | [Fighter Jets](https://open.spotify.com/artist/6kzcQB6tyfyVIwnwoWV7vH) | [Not Being Dead Is Pretty Sweet](https://open.spotify.com/album/3ckpiFKbVV5uWKk4m3cHDd) | 4:39 | 2022-11-07 |  |
 | [Love Song for a Replicant](https://open.spotify.com/track/3xLxPTdTGeHCsoUMvv5ZI8) | [The Goondock Saint](https://open.spotify.com/artist/79qUhH9vLHC84KOwNB3xNp) | [Love Song for a Replicant](https://open.spotify.com/album/0QceXgAzM1gNZV0pU8c2Sq) | 6:44 | 2019-07-15 |  |
 | [Magnatron Engaged](https://open.spotify.com/track/52xeom8gqH8s3WRtARlF3k) | [Absolute Valentine](https://open.spotify.com/artist/0ntJWEv4bwPUp16SabEbKM) | [Magnatron Engaged](https://open.spotify.com/album/3ILkH5ZVKysWlfmaiyN9mL) | 3:13 | 2020-08-14 |  |
 | [march of the goombas](https://open.spotify.com/track/43NkeFV8Di5WplEBnsUGFX) | [divmod](https://open.spotify.com/artist/3XqLJtF9vlLhMoGoU5mYcC) | [pretty warp machine](https://open.spotify.com/album/71o5I71H5VtESwvmhIywo7) | 4:25 | 2022-05-26 |  |
@@ -188,6 +189,7 @@
 | [Moonlight Flight](https://open.spotify.com/track/3pkdAf5PaLEQs1dChgXF4n) | [Powerkørd](https://open.spotify.com/artist/7zPUx5Y2twGiVWTXcANXO9) | [S.Y.N.C.R.O.N](https://open.spotify.com/album/0gs0MI0SA3uZqn1G7q5BkE) | 3:28 | 2019-09-04 |  |
 | [Morpheme Deathray](https://open.spotify.com/track/28BILTSelov1DH0nZ92gy0) | [Wolftron](https://open.spotify.com/artist/2jn5W8tLS1hkXMu8rzAGka) | [Regeneration](https://open.spotify.com/album/55peUT6kX2MyLQbKzEev95) | 5:21 | 2019-07-15 |  |
 | [Mr\. Dillinger](https://open.spotify.com/track/7bekFJzmkai6xk0fREBLDP) | [Mogi Grumbles](https://open.spotify.com/artist/4BfQ9Yx0G90IXrEXQ0fab9) | [End of Line](https://open.spotify.com/album/3rstypDYUW2qND7uJXDXef) | 3:14 | 2019-07-15 |  |
+| [mushroom wasteland](https://open.spotify.com/track/1Z2k3s16pyNUpuBoI3EmoK) | [divmod](https://open.spotify.com/artist/3XqLJtF9vlLhMoGoU5mYcC) | [mushroom wasteland](https://open.spotify.com/album/2qYsj7QW30DzqAEtge6uTw) | 3:31 | 2022-10-10 |  |
 | [NARC](https://open.spotify.com/track/49WTK2Z6dqW443b7Exh5BC) | [Mega Drive](https://open.spotify.com/artist/1WxMvNsfdsGftDZ4oO21L8) | [198XAD](https://open.spotify.com/album/25oR6eQLbYn34kpSQNVwGR) | 4:43 | 2019-07-15 |  |
 | [NARCS](https://open.spotify.com/track/1CpUAfbHyj2U0AIITtesfx) | [Mega Drive](https://open.spotify.com/artist/1WxMvNsfdsGftDZ4oO21L8) | [NARCS](https://open.spotify.com/album/4dbwSy7bkSvTqPOJ6mMjLc) | 5:49 | 2019-08-09 |  |
 | [Negotiation's Over](https://open.spotify.com/track/19Oy2pBYfpz7OhraQQgUn8) | [OGRE Sound](https://open.spotify.com/artist/1cSXroP62yDewheYORCPoj) | [195](https://open.spotify.com/album/6rXwhbgEy5Kiss3ETnuxuC) | 2:28 | 2019-07-15 |  |
@@ -244,7 +246,7 @@
 | [Robo Sapiens](https://open.spotify.com/track/16DHGCBRqsJlJn2f62l2Gz) | [Miles Matrix](https://open.spotify.com/artist/4QOOUiO32hTatHTKVrIlHZ) | [Androids Anonymous](https://open.spotify.com/album/5UKblNtIsmZVDtsrOHTqn8) | 3:33 | 2020-12-07\* | 2020-12-15 |
 | [Runaway](https://open.spotify.com/track/0RLwGBV2JbR3ZVAcCyt29H) | [Starunner](https://open.spotify.com/artist/0QJ0LfgErdcNtOQndH1m80) | [Be Kind Rewind](https://open.spotify.com/album/1FXZi6FQNDCHr66BchnyVH) | 4:23 | 2019-07-19 |  |
 | [Samurai Cyberpunk](https://open.spotify.com/track/2lWT0z0Clbh9lBFklgvLln) | [Shredder 1984](https://open.spotify.com/artist/1OnOuA3QcYGa4rAWtu8GrQ) | [Dystopian Future](https://open.spotify.com/album/2lUz6Pdbdct8tG24oT6mvJ) | 3:12 | 2019-07-15 |  |
-| [save states](https://open.spotify.com/track/1UOTXqK4T6hseoOkDjksH6) | [divmod](https://open.spotify.com/artist/3XqLJtF9vlLhMoGoU5mYcC) | [save states](https://open.spotify.com/album/7g3kpYucY8onA8SRCvdqzl) | 3:45 | 2022-08-01 |  |
+| [save states](https://open.spotify.com/track/1UOTXqK4T6hseoOkDjksH6) | [divmod](https://open.spotify.com/artist/3XqLJtF9vlLhMoGoU5mYcC) | [save states](https://open.spotify.com/album/7g3kpYucY8onA8SRCvdqzl) | 3:45 | 2022-08-01 | 2022-10-11 |
 | [Second Chances](https://open.spotify.com/track/7LHiyNIttVYA73cAfATD1L) | [Turbo Vice](https://open.spotify.com/artist/2LCKyAC0HIYvaIAC38ViVz) | [Second Chances](https://open.spotify.com/album/5MYzwP7mt0rjIZeFY2Cra5) | 4:37 | 2019-07-26 |  |
 | [Shadow Instinct](https://open.spotify.com/track/7nSx56wdGScR60FyLvyDh7) | [Miles Matrix](https://open.spotify.com/artist/4QOOUiO32hTatHTKVrIlHZ) | [Shadow Instinct](https://open.spotify.com/album/7e1OeT8afjO22h6Gq7pk1y) | 3:33 | 2021-03-12 |  |
 | [Shoot Out at Flamingo Plaza](https://open.spotify.com/track/2enOJAgl6pGw127ke87deb) | [Flamingo Jones](https://open.spotify.com/artist/2wgA99jSrhAvb4YCx4maGH) | [Flight of the Flamingo EP](https://open.spotify.com/album/037fAl7EYH5KfwGQkJaHF4) | 3:37 | 2019-09-04 |  |
@@ -302,6 +304,7 @@
 | [The Neon Ryder Redux \- Bonus Track](https://open.spotify.com/track/5OaOR2IWCEIOmndSbaq2jH) | [Powerkørd](https://open.spotify.com/artist/7zPUx5Y2twGiVWTXcANXO9) | [S.Y.N.C.R.O.N](https://open.spotify.com/album/0gs0MI0SA3uZqn1G7q5BkE) | 3:53 | 2019-07-29 |  |
 | [The New Order](https://open.spotify.com/track/5ssWk7MoYjKM9ThGXTNcei) | [Mick Gordon](https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y) | [Wolfenstein: The New Order Original Game Soundtrack](https://open.spotify.com/album/6VNnTz7roRd6qVDQlBZWFr) | 3:43 | 2019-07-15 |  |
 | [The Nightmare Returns](https://open.spotify.com/track/0bGbGK4pg2rMa32sHFK9vl) | [CYBERTHING!](https://open.spotify.com/artist/2MKAQrhUhdP8ww2vMIkmyD), [Moonraccoon](https://open.spotify.com/artist/1NlD6UaLaAEKLDCsDYbUAL) | [Extermination](https://open.spotify.com/album/2mRjYckhvr14UPwtpuPzsJ) | 4:37 | 2019-07-15 |  |
+| [the princess is dead](https://open.spotify.com/track/3ScYy6HZHERDpkNk6ZmXlR) | [divmod](https://open.spotify.com/artist/3XqLJtF9vlLhMoGoU5mYcC) | [mushroom wasteland](https://open.spotify.com/album/2qYsj7QW30DzqAEtge6uTw) | 5:16 | 2022-10-10 |  |
 | [The Raid](https://open.spotify.com/track/7mhj453d7WWXUPneEuzsHN) | [Mitch Murder](https://open.spotify.com/artist/7eOzCiTklgHxfpf6Mb3D2e) | [Hardwired](https://open.spotify.com/album/4nagl2ORrwFi8nAmjTrqp3) | 4:41 | 2020-12-14 |  |
 | [The Shape Hunts Allyson](https://open.spotify.com/track/58Ro1WdAVTUdTedELBO6eU) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq), [Cody Carpenter](https://open.spotify.com/artist/5rJxl4BLLAaFRSNgAz2hSg), [Daniel Davies](https://open.spotify.com/artist/0YaDmIGxP3HVcH7xvkpvSP) | [Halloween \(Original 2018 Motion Picture Soundtrack\)](https://open.spotify.com/album/6R2UTjj65Vj8x3VcL5JVgm) | 0:58 | 2019-07-15 |  |
 | [The Stranger](https://open.spotify.com/track/6qvPoZAMtf0Fc957Pn0vNe) | [Karneaux](https://open.spotify.com/artist/3LZDu92rMBAx1JGKuk09Fw) | [The Immaculate Video](https://open.spotify.com/album/2plRldqzkEvT0Q7obH30Yf) | 5:36 | 2019-07-15 |  |
@@ -316,6 +319,7 @@
 | [Time's Up, Pt\. 2](https://open.spotify.com/track/0NSGP5l93AWU77hol6P4ZC) | [Slprs](https://open.spotify.com/artist/4ePT6uul45VPs90qcaH70B) | [Time's Up](https://open.spotify.com/album/3RTgGPY5ilkfPMAOeTFOCL) | 2:56 | 2019-09-19 |  |
 | [Timeline](https://open.spotify.com/track/1bbwOQwDYfENC2k6hpV1Oc) | [Iterations](https://open.spotify.com/artist/49kDrCRjTsLxJETYSWBVjt) | [Cathode Rayguns](https://open.spotify.com/album/1X1KFw87joG1giWDrR66Oz) | 4:20 | 2020-01-22 |  |
 | [TO BURN ONESELF BY FIRE](https://open.spotify.com/track/61lhGu2IL2pVxdkI3vqddy) | [FUTURE NIGHTMARES](https://open.spotify.com/artist/3zuBlp2jROu70YTftLcixP) | [TO BURN ONESELF BY FIRE](https://open.spotify.com/album/06ns0AH10SIB15zqQV2ZhS) | 4:16 | 2022-05-13 |  |
+| [toadstool's revenge \(kingdom restored\)](https://open.spotify.com/track/633ANjWJwfT0mQFSd4wrqs) | [divmod](https://open.spotify.com/artist/3XqLJtF9vlLhMoGoU5mYcC) | [mushroom wasteland](https://open.spotify.com/album/2qYsj7QW30DzqAEtge6uTw) | 4:00 | 2022-10-10 |  |
 | [Tokyo Bandit](https://open.spotify.com/track/054Zs0FYH7WgoFRPpe12Jm) | [Moter](https://open.spotify.com/artist/4kIFvYrKT2C08BWI7KfTch) | [Last Train to Synthville](https://open.spotify.com/album/1C0haMpIYwdyuXlVpHJ9Pb) | 4:37 | 2019-07-16 |  |
 | [Total Nuclear Annihilation](https://open.spotify.com/track/4iQbNnMYrLytCBIYKGTCIb) | [Scott Danesi](https://open.spotify.com/artist/7BVd1OKdlUu533cwuaH9B8) | [Total Nuclear Annihilation](https://open.spotify.com/album/0aOWrCBwtkGSsq8HA25rVW) | 4:38 | 2020-12-07\* | 2021-09-16 |
 | [Trans](https://open.spotify.com/track/5do4uP7PRNeqZ1qDvDH5II) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [Aleph](https://open.spotify.com/album/3MiiF9utmtGnLVITgl0JP7) | 4:33 | 2019-07-16 |  |

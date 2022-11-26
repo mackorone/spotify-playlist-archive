@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KyCRJzZneq.md) - [plain]
 
 > <a href="spotify:genre:0JQ5IMCbQBLzTital6q4J3">Click here to explore more rapid changes, complex progressions and improvisation\.  </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,677 likes - 45 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,424 likes - 45 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KyCRJzZneq.md) - [plain]
 | 7 | [Jumpin' With Symphony Sid](https://open.spotify.com/track/4S4lxb0nSv7uz4lYDQnKqE) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm) | [Centennial Celebration: Lester Young](https://open.spotify.com/album/4UxEIp349LAGrco4cNlmZ6) | 5:26 |
 | 8 | [Scrapple From The Apple \- Rudy Van Gelder Edition / 2003 Remaster](https://open.spotify.com/track/5f4V1rtxYYbGnTbITkkIV7) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Our Man In Paris \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/43zfDOSnIaNrdFzik0s088) | 7:22 |
 | 9 | [52nd Street Theme \- Rudy Van Gelder Edition/1998 Digital Remaster](https://open.spotify.com/track/0oDgc718NJn7CyiClFRExR) | [Bud Powell](https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6) | [The Amazing Bud Powell: Vol\. 1 \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/4JZpydaQoCZY03mYcPgsaS) | 2:49 |
-| 10 | [Ande \- Remastered 2007 / Rudy Van Gelder Edition](https://open.spotify.com/track/0y7Kq44w77MKS0LbpTSBqK) | [Louis Smith](https://open.spotify.com/artist/1cynU9t25KnZAetN0uXgm9) | [Here Comes Louis Smith \(Remastered\)](https://open.spotify.com/album/5nmaVQ30ucem6OXJ2IAAKf) | 6:42 |
+| 10 | [Ande \- Remastered 2007 / Rudy Van Gelder Edition](https://open.spotify.com/track/0y7Kq44w77MKS0LbpTSBqK) | [Louis Smith](https://open.spotify.com/artist/1iQYoladduzzUciyOnjJAX) | [Here Comes Louis Smith \(Remastered\)](https://open.spotify.com/album/5nmaVQ30ucem6OXJ2IAAKf) | 6:42 |
 | 11 | [Un Poco Loco \- Rudy Van Gelder Edition / Remastered 1998](https://open.spotify.com/track/5SocjOFFwNyWGLwAzPfLFh) | [Bud Powell](https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6) | [The Amazing Bud Powell: Vol\. 1 \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/4JZpydaQoCZY03mYcPgsaS) | 4:46 |
 | 12 | [I Got Rhythm](https://open.spotify.com/track/3p4C7vCwkqOD3bSlh96pls) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [The Hard Swing](https://open.spotify.com/album/5ppHHedKagWqeeg5O70CIz) | 3:07 |
 | 13 | [I'll Remember April \- Live At The Haig, Los Angeles / 1953](https://open.spotify.com/track/29zRXtgeTBTUZFDFBCxFyg) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k), [Gerry Mulligan Quartet](https://open.spotify.com/artist/6nLkWu5DSXItXcB6q2ISTO) | [Konitz Meets Mulligan](https://open.spotify.com/album/7yXH6IIoz1egpOdG62fiMh) | 4:15 |

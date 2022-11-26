@@ -1,13 +1,14 @@
 [pretty](/playlists/pretty/37i9dQZF1DXboGlPhJFIp9.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXboGlPhJFIp9) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXboGlPhJFIp9)
 
-### [Electric Relaxation](https://open.spotify.com/playlist/37i9dQZF1DXboGlPhJFIp9)
+### [Relaxing Electric Guitar](https://open.spotify.com/playlist/37i9dQZF1DXboGlPhJFIp9)
 
-> The calming and pensive side of electric guitar\. Instrumental only.
+> Soothing, atmospheric guitar music to help you lie back, unwind and switch off.
 
-96 songs - 4 hr 54 min - [published](https://open.spotify.com/playlist/3oJlWxouvmQCoHhx3LLhbO)
+104 songs - 5 hr 18 min - [published](https://open.spotify.com/playlist/3oJlWxouvmQCoHhx3LLhbO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Slow Unfolding](https://open.spotify.com/track/283CXTP5kLLRC91U8TVOtH) | [obelebo](https://open.spotify.com/artist/0qsb0PqyATXSQMdaUAxIAZ) | [A Slow Unfolding](https://open.spotify.com/album/4QV9wjpvDo6h8VlzxbSJxZ) | 2:33 | 2022-10-28 |  |
 | [aesthetics](https://open.spotify.com/track/2kRzlPRExNaBBsIANubbHg) | [Agnes Lundh](https://open.spotify.com/artist/3OJ5pC5H7eYoyow4sXULSt) | [aesthetics](https://open.spotify.com/album/4F9dzxcyWFLTY0oZj9A5Ej) | 2:13 | 2022-07-08 | 2022-07-15 |
 | [After](https://open.spotify.com/track/6bu6ncccfVyX29Tkl9oRpR) | [Sean Angus Watson](https://open.spotify.com/artist/2kiSeGQsztzTrVXlIZOoBn) | [Feels Like This](https://open.spotify.com/album/37dKlvajGi2mmHLPgWBvLj) | 4:19 | 2022-05-13 |  |
 | [Blue Pearl](https://open.spotify.com/track/6khHWpOIcKjA71xz5BWi9h) | [obelebo](https://open.spotify.com/artist/0qsb0PqyATXSQMdaUAxIAZ) | [Blue Pearl](https://open.spotify.com/album/4Zo1Q2PXOGtV2OirdktdYY) | 2:49 | 2022-09-23 |  |
@@ -38,13 +39,17 @@
 | [Flatiron](https://open.spotify.com/track/4a8njLGIK0meARLqzvysDn) | [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Talk from Home](https://open.spotify.com/album/1RMrV8gQc6f3csRiNoQwP6) | 7:00 | 2022-05-13 |  |
 | [Floral Hymn](https://open.spotify.com/track/2gCd69plASs1CIhfArHlPQ) | [Echo Ark](https://open.spotify.com/artist/3i21BFL67igZbgH8Pj0Xlz) | [Echo Ark](https://open.spotify.com/album/4PUBYJiKEdJKdMwqHSeilt) | 3:35 | 2022-05-13 |  |
 | [Forward Momentum](https://open.spotify.com/track/1CdiqrBad8rjxuriEcUGU7) | [Sobrante](https://open.spotify.com/artist/6EdMmAogESKj2fFzAGM8yE) | [Friends](https://open.spotify.com/album/7duzFBoBK7inOjkfa74spr) | 2:58 | 2022-05-13 |  |
+| [Fulfillment](https://open.spotify.com/track/6oX1TzgDmZQfQywfNBKx9J) | [Briére](https://open.spotify.com/artist/0yDkxn6hxSnJ9jtlcY8xfq) | [Fulfillment](https://open.spotify.com/album/3X1hYyV8Sv3KpkT8RtLMQU) | 3:04 | 2022-11-18 |  |
 | [Going In Circles](https://open.spotify.com/track/6Fkjd2eFXuHC8tGGn2eLBo) | [Nebulae](https://open.spotify.com/artist/3UKaTOMvInYrOVb2SXiO9v) | [Going In Circles](https://open.spotify.com/album/6Brv2ew17Cu7gTBZho5P3Z) | 2:29 | 2022-09-09 |  |
+| [Golden Hours](https://open.spotify.com/track/2roySwrcc0FUTKV1JNUwle) | [obelebo](https://open.spotify.com/artist/0qsb0PqyATXSQMdaUAxIAZ) | [Golden Hours](https://open.spotify.com/album/5BJW6pgJ5dKnPMmvhy622K) | 2:57 | 2022-10-28 |  |
 | [Hazy](https://open.spotify.com/track/687knmd9df9s6TRLzRVEOZ) | [Gina Wahler](https://open.spotify.com/artist/2qYWM0svFgRslCfVj36xcC) | [Hazy](https://open.spotify.com/album/45XVtdfgbmjIOEl3lLZhc2) | 3:04 | 2022-05-13 |  |
+| [Heartset](https://open.spotify.com/track/7taIVto9vnttL9EGs6vgow) | [Hollow Light](https://open.spotify.com/artist/0ANrW9wJEthapCrJsd4i4F) | [Heartset](https://open.spotify.com/album/561c7zbtRJ6fRWrqvirCAv) | 2:42 | 2022-10-28 |  |
 | [Heavy Sun](https://open.spotify.com/track/3Qpwi2wStbfsZBmULlVFpS) | [Appletrove](https://open.spotify.com/artist/0FkbvhIhFy46IGyR4Ah1Pd) | [Sometimes I Wish](https://open.spotify.com/album/64swfOKUaHH7FCD7QdEBnW) | 2:49 | 2022-05-13 |  |
 | [Hidden Chambers](https://open.spotify.com/track/4iNlPrMJCvBjakWljscabH) | [Marlee Tuaine](https://open.spotify.com/artist/2qRSibliMCzMBIIUqMqaRB) | [Fragmented Thoughts](https://open.spotify.com/album/0aZWKOxr4JMCSIpVAmBR2T) | 2:49 | 2022-05-13 |  |
 | [Hold My Hand](https://open.spotify.com/track/4yf9GHCVO6VyY6q9yl2LvI) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [It's Not in Vain](https://open.spotify.com/album/5vgSuONhdEqvHfp6C0ge8u) | 2:42 | 2022-05-13 |  |
 | [I Blomstertid](https://open.spotify.com/track/3kclS24SfhIIqoof9pMFhj) | [Erik Reno](https://open.spotify.com/artist/4QL7rtAbYIAQ3sIsffoIz0) | [I Blomstertid](https://open.spotify.com/album/4tvdL8uzjualif8HIlf6ab) | 3:19 | 2022-05-13 |  |
 | [Interweave](https://open.spotify.com/track/6LvmN1802Bk6Tcem36utnB) | [La Acacia](https://open.spotify.com/artist/5G9yqrjh885YlBh921HYc7) | [Interweave](https://open.spotify.com/album/2HMXhnCNU1aDzIigeKLySH) | 2:20 | 2022-06-24 |  |
+| [Jalons](https://open.spotify.com/track/5ubuyElg33ARspfgM0z2yt) | [Rayonner](https://open.spotify.com/artist/4NbV8Mk4JMa3yT4jv4hMRU) | [Jalons](https://open.spotify.com/album/2TDbQKV43hTLTZKP9egS3u) | 2:31 | 2022-10-14 |  |
 | [Jules & Jen](https://open.spotify.com/track/5C0BlB1Tm53MOS3SOFUGnN) | [Kevin McCormick](https://open.spotify.com/artist/6qG8VCk5ZaX7jP37A6dUoe), [David Horridge](https://open.spotify.com/artist/184zVIpW2ua3bIEeF77LTV) | [Light Patterns](https://open.spotify.com/album/0PgtpfELQuN9Rt4Pu3ai3N) | 3:13 | 2022-05-13 |  |
 | [just jump](https://open.spotify.com/track/4M0sEJzmZoQy2hcvCbfEHp) | [Jens Wenig](https://open.spotify.com/artist/4U52OGCZcwbncL3VCuvk2r) | [into bloom](https://open.spotify.com/album/5ZRzmKDXIhbAfCCBo4Zfts) | 3:10 | 2022-05-13 |  |
 | [kind of wind](https://open.spotify.com/track/0DydsFKNIPPXn2wWmDGyR3) | [flower water](https://open.spotify.com/artist/2q0V4ngQ2LJ3gVS5lVW5Ww) | [kind of wind](https://open.spotify.com/album/47Pzq0DT4akwlF9DowYtc6) | 2:33 | 2022-05-13 |  |
@@ -62,12 +67,14 @@
 | [More Reeds](https://open.spotify.com/track/5CXoWgCOmJN7czdwNowOYk) | [Realizer](https://open.spotify.com/artist/7I2pqQX5c5XTjyl8InIrbt) | [Away](https://open.spotify.com/album/4Zzjrtt6012pdMZkw1R7mA) | 3:26 | 2022-05-13 | 2022-07-29 |
 | [New World](https://open.spotify.com/track/1C1XqIYvEoQWXzXQnxIYlP) | [Jeff Gardenbaum](https://open.spotify.com/artist/0jexu3jhxqUlfX2fiW63TW) | [New World](https://open.spotify.com/album/2bNHNDvSrrBVJgr62xhZlj) | 3:21 | 2022-05-13 |  |
 | [Oceans](https://open.spotify.com/track/4o53OVOjtOEkmh0UPDyuke) | [A Clear Path](https://open.spotify.com/artist/1zZBuJ9UnhzJ6vhVWkq2vI) | [Oceans](https://open.spotify.com/album/3O8OlFYpzITLxAzi7hxtBV) | 2:16 | 2022-08-19 |  |
+| [Ojitos Lindos \- Guitar](https://open.spotify.com/track/4s7C3sOQuOmSiDDIuKCPuM) | [FOCUS MODE](https://open.spotify.com/artist/78kusWUesOzmpCfw9l4tMp) | [Me Porto Bonito & Ojitos Lindos \(Guitar\)](https://open.spotify.com/album/3yE21Ydk1bfddhHrevDCaO) | 4:44 | 2022-10-28 |  |
 | [On Mount Tamalpais](https://open.spotify.com/track/3SGs1iMxX9zzv6Dz1uQwSl) | [Thoughtlines](https://open.spotify.com/artist/7g04f5dUBMBNO7jdBrBZfR) | [Electric Hearts](https://open.spotify.com/album/0oz8kXBIk0xIMrylycgwPs) | 2:37 | 2022-05-13 |  |
 | [On Satie](https://open.spotify.com/track/4FLaCrEr1DnVyprizWg3XF) | [Sean Angus Watson](https://open.spotify.com/artist/2kiSeGQsztzTrVXlIZOoBn) | [In No Particular Order](https://open.spotify.com/album/6Il6mppb7MylqEi5S3S3mK) | 3:48 | 2022-05-13 |  |
 | [One Fine Day](https://open.spotify.com/track/1TzWtETf8eo588fqJllZ4Y) | [Tip Tam](https://open.spotify.com/artist/2WeojxFCkGinfmkmpsi8B9) | [Flowcade](https://open.spotify.com/album/7GmBggUFdYbYHQErF6EzLi) | 2:38 | 2022-05-13 |  |
 | [Over the Highlands](https://open.spotify.com/track/0YnGWHjeqvBxbdf1T2RXbM) | [Stim Rush](https://open.spotify.com/artist/6oauPLbeRb1ShwhY7dzRUn) | [Expanse](https://open.spotify.com/album/5To2yLp2nIg7TZ11RGc9Ho) | 3:10 | 2022-05-13 |  |
 | [Pathways](https://open.spotify.com/track/4xDlA5m82NK3cPFBED5ttv) | [Elementaries](https://open.spotify.com/artist/1kB8QJP6BXE8ezroP29Z5r) | [Pathways](https://open.spotify.com/album/61FPjJzbfrVssH6ELwer5Z) | 3:20 | 2022-05-13 |  |
 | [Phoenicia](https://open.spotify.com/track/5d09BHHm15tqsHaEHkILOb) | [Lester Simon Trio](https://open.spotify.com/artist/4QKlnta4dWJLNF1yE94FF8) | [Phoenicia](https://open.spotify.com/album/1xYqWYfJaUuSa4AHdItMuR) | 4:18 | 2022-05-13 |  |
+| [Rest Assured](https://open.spotify.com/track/78TN3sJg3D4PL2QQScW0Fn) | [La Acacia](https://open.spotify.com/artist/5G9yqrjh885YlBh921HYc7) | [Rest Assured](https://open.spotify.com/album/1atqyuFA0PaM6mCZ2aOE72) | 2:44 | 2022-10-28 |  |
 | [Roll](https://open.spotify.com/track/45hrCYJ27wKJEDW8DKh2Ko) | [Bluetoon](https://open.spotify.com/artist/135WbQvbKp0SnPHy80df1X) | [The Skies Above](https://open.spotify.com/album/65BZVVODmw9gxRu13MHG49) | 2:50 | 2022-05-13 |  |
 | [Satellit](https://open.spotify.com/track/1cMQgz4TXYfWT3aTDDNpR1) | [Åström](https://open.spotify.com/artist/6yRr5aXym7ilgJIX8wciFC) | [Satellit](https://open.spotify.com/album/2Nx5o71yeqes2Q722XOsjN) | 2:09 | 2022-05-13 |  |
 | [Scattered](https://open.spotify.com/track/0LdmeJoh43rLqNsTmDg3Ed) | [Sean Angus Watson](https://open.spotify.com/artist/2kiSeGQsztzTrVXlIZOoBn) | [Siren](https://open.spotify.com/album/0tFARk2yFys7RawhwTPcM0) | 3:38 | 2022-05-13 |  |
@@ -84,6 +91,7 @@
 | [Strong Kinds of Emotions](https://open.spotify.com/track/4IAuHbRSyRYfBWMPIFprRj) | [Bluetoon](https://open.spotify.com/artist/135WbQvbKp0SnPHy80df1X) | [The Skies Above](https://open.spotify.com/album/65BZVVODmw9gxRu13MHG49) | 3:36 | 2022-05-13 |  |
 | [Sucked Back In the Game](https://open.spotify.com/track/0kCh1hmYmvY8Jo20Brub2X) | [Deep Mark](https://open.spotify.com/artist/1fBgQyqIUMiSAap0lST8L0) | [Sucked Back In the Game](https://open.spotify.com/album/3J2SALaJli4aR5f16G4QPQ) | 2:04 | 2022-05-13 |  |
 | [Summer Tales](https://open.spotify.com/track/40qA5hA8RuOpIe6RzPL9Wo) | [Erik Reno](https://open.spotify.com/artist/4QL7rtAbYIAQ3sIsffoIz0) | [Summer Tales](https://open.spotify.com/album/6ppAmnM0WuNYgrSXC43dKJ) | 3:16 | 2022-05-13 |  |
+| [Summit](https://open.spotify.com/track/3Cz57TvhSf9oMXUlzRhedQ) | [Benjamin Martins](https://open.spotify.com/artist/5oqbogYQRxno77NT1FFrt5) | [Summit](https://open.spotify.com/album/10f8KHsTD8I5NVUPbjHnig) | 2:56 | 2022-10-28 |  |
 | [Sun Rays Like Stilts](https://open.spotify.com/track/2Ik1Ak51UOyRr8uEBamnjI) | [Tommy Guerrero](https://open.spotify.com/artist/5qnkHpjyS6CUxH1UUy82B7) | [Perpetuum](https://open.spotify.com/album/4UupldOklfdtsf76wfUaXx) | 2:04 | 2022-05-13 | 2022-07-29 |
 | [Sun Rays Like Stilts](https://open.spotify.com/track/4r1IFv0DCJ6CQsfOhQPTES) | [Tommy Guerrero](https://open.spotify.com/artist/5qnkHpjyS6CUxH1UUy82B7) | [Perpetual](https://open.spotify.com/album/4P4KWs6xp9LBaKInkE8me3) | 2:07 | 2022-07-15 |  |
 | [Sunbreak](https://open.spotify.com/track/4cmBIVqMmvd48ISF6FHdtq) | [Matthew Harvey](https://open.spotify.com/artist/30LkldJYxQgtaQBIGwzgMQ) | [Malibu](https://open.spotify.com/album/3kM89PKkU3cDQXTMIYDWxo) | 2:37 | 2022-05-13 |  |

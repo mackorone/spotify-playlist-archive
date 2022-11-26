@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa4bGuyvrKl5.md) - [plain]
 
 > Swedish house icons <a href="spotify:artist:6rgEPiKjowlMKZC1DF6W75">Rebecca & Fiona</a> kicking off rave season with their gem filled spring mix!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,607 likes - 15 songs - 57 min 31 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,985 likes - 15 songs - 57 min 31 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,11 +17,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa4bGuyvrKl5.md) - [plain]
 | 7 | [The Spirit \- Mixed](https://open.spotify.com/track/26azSPMoA04fXjKZ9QCWJN) | [Mighty Mouse](https://open.spotify.com/artist/7L2YO3SQWLLDsYkpv0Ju4K) | [The Spirit \(Mixed\)](https://open.spotify.com/album/36skNJP9IYHTpSOnykbA3Q) | 6:06 |
 | 8 | [Cold Hands, Warm Heart \- Mixed](https://open.spotify.com/track/7LLPH8iYKOTxkOS3EL3FWe) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Cold Hands, Warm Heart \(Mixed\)](https://open.spotify.com/album/7DVDSRsHBuSfv6vqwsvZAp) | 4:34 |
 | 9 | [Don't Deal With Us \- Dusky Edit \- Mixed](https://open.spotify.com/track/1bBY9xUhIa8ka9ZxubqS4b) | [Jt Company](https://open.spotify.com/artist/03QXzMZPP4vJXqhPDYJ9fh), [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Don't Deal With Us \- Dusky Edit \(Mixed\)](https://open.spotify.com/album/6mvxgNQuApwXQewSq2HH9o) | 3:12 |
-| 10 | [Work It \- Soulwax Remix \- Mixed](https://open.spotify.com/track/09TVtA9fPa0jLJqQ1XdFAY) | [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF) | [Work It \- Soulwax Remix \(Mixed\)](https://open.spotify.com/album/6xo2o0orlV7C7vfFamE83c) | 2:38 |
+| 10 | [Work It \- Soulwax Remix \- Mixed](https://open.spotify.com/track/6wvyWbAOrivrxUrTfS5oPE) | [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Work It \- Soulwax Remix \(Mixed\)](https://open.spotify.com/album/43v2dUNhP1NeuDOa16agam) | 2:38 |
 | 11 | [On My Mind \- Mixed](https://open.spotify.com/track/1JtX0q1ssnTqBa5uhWzyWG) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [On My Mind \(Mixed\)](https://open.spotify.com/album/0FOilUTNNhhoms3lKs2mVy) | 2:17 |
 | 12 | [Tell Me Something Good \- Mixed](https://open.spotify.com/track/1WbGQJrIv5XQXS2nHuurSe) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Tell Me Something Good \(Mixed\)](https://open.spotify.com/album/3fAROdZSAuyTBd5CikWj9K) | 3:57 |
 | 13 | [Fet House Mode \- Mixed](https://open.spotify.com/track/2NS0uOuplskN13lLBaS0fh) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [Fet House Mode \(Mixed\)](https://open.spotify.com/album/2SUaaPRR8JSfzpRdwiIjKK) | 2:59 |
 | 14 | [Come On \- Mixed](https://open.spotify.com/track/70whn106RAuxCd949WV8gw) | [Sam Akers](https://open.spotify.com/artist/0AwujcjMYhaCJ5pyMstX4F) | [Come On \(Mixed\)](https://open.spotify.com/album/1vNiHCPpSm2DrhyBfRO8YO) | 4:49 |
 | 15 | [Sweetest Delight \- DJ City Remix \- Mixed](https://open.spotify.com/track/76MKwYQhindFzqvpE20gB4) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75), [DJ CITY](https://open.spotify.com/artist/52c8wOVJiBoVy5csR9SSWj) | [Sweetest Delight \- DJ City Remix \(Mixed\)](https://open.spotify.com/album/1DVh6qIDSlQMs5TAEjMcRU) | 4:08 |
 
-Snapshot ID: `MTY2MDY2MTA1OSwwMDAwMDAwMDZmZjU2Nzc5ZmJmMzY5NWI3ZWI3MDFiZWI5NGI3ZGU3`
+Snapshot ID: `MTY2MDY2MTA1OSwwMDAwMDAwMGQyYTBmMTk2OTJmZDZiOGYxMWVjNjcwN2YwNzZiY2Ix`

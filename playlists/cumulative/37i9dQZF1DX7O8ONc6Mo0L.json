@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "Relaxe com hinos ac\u00fasticos. Foto: Andr\u00e9 e Felipe",
+  "description": "Relaxe com hinos ac\u00fasticos. Foto: Clovis, Ton Carfi",
   "name": "Gospel Ac\u00fastico",
   "published_playlist_ids": [
     "2qVFdBscejCMla6A7JhqfJ"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 236001,
       "name": "A Dois",
       "url": "https://open.spotify.com/track/6Y6BkX0NThqimi5UxWLeG9"
@@ -192,6 +192,46 @@
     },
     {
       "album": {
+        "name": "Amanheceu",
+        "url": "https://open.spotify.com/album/7oJjbZCliayZ7kCBxR7GAe"
+      },
+      "artists": [
+        {
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+        },
+        {
+          "name": "Elias In\u00e1cio",
+          "url": "https://open.spotify.com/artist/0m3hCc4WOLzmHaXkBMg2ud"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238889,
+      "name": "Amanheceu",
+      "url": "https://open.spotify.com/track/2OFVWDZP3ikovgSWAzD4Dg"
+    },
+    {
+      "album": {
+        "name": "Ao \u00danico",
+        "url": "https://open.spotify.com/album/2bCRgPS1wXx55YedHQGtBL"
+      },
+      "artists": [
+        {
+          "name": "Leidy Murilho",
+          "url": "https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257155,
+      "name": "Ao \u00danico",
+      "url": "https://open.spotify.com/track/1erz8uoekvfFbo5jJmEZ9w"
+    },
+    {
+      "album": {
         "name": "Apenas um Rascunho (feat. Eli Soares)",
         "url": "https://open.spotify.com/album/5SBfBAdERjPdm2AGehXySV"
       },
@@ -215,6 +255,24 @@
     {
       "album": {
         "name": "Aprender Com a Vida (Piano e Voz)",
+        "url": "https://open.spotify.com/album/2731Wld6fTs75wFbXvGKZL"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Brito",
+          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258044,
+      "name": "Aprender Com a Vida - Piano e Voz",
+      "url": "https://open.spotify.com/track/1KYtOTjUSjJH1LHvH4liWw"
+    },
+    {
+      "album": {
+        "name": "Aprender Com a Vida (Piano e Voz)",
         "url": "https://open.spotify.com/album/6RS8eJ68iNTDvm55Q0nLAs"
       },
       "artists": [
@@ -225,7 +283,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 258044,
       "name": "Aprender Com a Vida - Piano e Voz",
       "url": "https://open.spotify.com/track/27KUBPN9Vja3WlsZsNNvj0"
@@ -479,7 +537,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 249331,
       "name": "Ele Nos Ama - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6mfGVJl7uQ6LcE3owuUOPs"
@@ -611,6 +669,24 @@
     {
       "album": {
         "name": "Eu N\u00e3o Sou Mais \u00d3rf\u00e3o (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2VjaDxyEHiM8CoQMlvL9Em"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Brito",
+          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208810,
+      "name": "Eu N\u00e3o Sou Mais \u00d3rf\u00e3o - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5WOCuracx7DrET4eOVP2ZG"
+    },
+    {
+      "album": {
+        "name": "Eu N\u00e3o Sou Mais \u00d3rf\u00e3o (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/0SRSWrnuWiDoWzU3QRVM0e"
       },
       "artists": [
@@ -621,7 +697,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 208810,
       "name": "Eu N\u00e3o Sou Mais \u00d3rf\u00e3o - Ac\u00fastico",
       "url": "https://open.spotify.com/track/7BlLmanL024pf0doBknUi4"
@@ -907,10 +983,32 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 219240,
       "name": "Minha Calmaria",
       "url": "https://open.spotify.com/track/3DHI4jh4qmLTuorSESIEt9"
+    },
+    {
+      "album": {
+        "name": "Minha Calmaria",
+        "url": "https://open.spotify.com/album/7yEu4W8HFWye8SXWakWNeJ"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Brito",
+          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
+        },
+        {
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219240,
+      "name": "Minha Calmaria",
+      "url": "https://open.spotify.com/track/6ljL3K3Poa4le6P52a6bbJ"
     },
     {
       "album": {
@@ -951,7 +1049,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 191316,
       "name": "Na Casa",
       "url": "https://open.spotify.com/track/4ogfIbc7uyb6M2btL5VJXj"
@@ -1009,7 +1107,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 241500,
       "name": "No Quarto Com Deus",
       "url": "https://open.spotify.com/track/5lHZfFfNno9z9az0zk06mS"
@@ -1085,6 +1183,32 @@
       "duration_ms": 364933,
       "name": "Nova Can\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/5JcCic5iKIIb5WMyUuitjv"
+    },
+    {
+      "album": {
+        "name": "Novo Amanh\u00e3 (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4SCZNnhfx52FW8jaJ23FJF"
+      },
+      "artists": [
+        {
+          "name": "Lincoln Baena",
+          "url": "https://open.spotify.com/artist/5Y9gRv6jhlSzK4IVpSHp57"
+        },
+        {
+          "name": "Adelso Freire",
+          "url": "https://open.spotify.com/artist/1ppkWLi1n5n1lIbp1I95i5"
+        },
+        {
+          "name": "Emerson Bruno",
+          "url": "https://open.spotify.com/artist/3uoNRAmPYuLPayKavoXCuf"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Novo Amanh\u00e3 - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2nuU37X3MZhc7qtAbZ2dHn"
     },
     {
       "album": {
@@ -1201,6 +1325,24 @@
       "duration_ms": 302750,
       "name": "O Que Se Faz Aqui pra Ser Feliz - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3LH84g4ns7kiJtOvZkyoea"
+    },
+    {
+      "album": {
+        "name": "O Tamanho da Tua Dor",
+        "url": "https://open.spotify.com/album/2mhTrOtvd1RBNPKamuICTg"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Brito",
+          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "O Tamanho da Tua Dor",
+      "url": "https://open.spotify.com/track/2mDecxwnK1KzuDonVfYL90"
     },
     {
       "album": {

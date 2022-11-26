@@ -71,6 +71,40 @@
     {
       "album": {
         "name": "A Divina Com\u00e9dia",
+        "url": "https://open.spotify.com/album/7z0Urrb0oyXZIglsBlREud"
+      },
+      "artists": [
+        {
+          "name": "Fabio Brazza",
+          "url": "https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN"
+        },
+        {
+          "name": "Rap Box",
+          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
+        },
+        {
+          "name": "Zeus",
+          "url": "https://open.spotify.com/artist/5kgI1wqNVu9xTVu6yO4nQG"
+        },
+        {
+          "name": "Gigante No Mic",
+          "url": "https://open.spotify.com/artist/5NjusDYM3H7nGyjgDOtLNX"
+        },
+        {
+          "name": "Nocivo Shomon",
+          "url": "https://open.spotify.com/artist/7fVTW9oFlXKy9tzG15tcof"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320744,
+      "name": "A Divina Com\u00e9dia",
+      "url": "https://open.spotify.com/track/1j9jCO7zGkxuAOJTTZpHiL"
+    },
+    {
+      "album": {
+        "name": "A Divina Com\u00e9dia",
         "url": "https://open.spotify.com/album/2pqBzj9i7zYMfn0gkSzQMw"
       },
       "artists": [
@@ -97,7 +131,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 320744,
       "name": "A Divina Com\u00e9dia",
       "url": "https://open.spotify.com/track/3nK974BfGe2A7Vp9gmzYaW"
@@ -380,6 +414,44 @@
         },
         {
           "name": "Pedro Qualy",
+          "url": "https://open.spotify.com/artist/2lNGJcHlfpWekCPrdWeTXD"
+        },
+        {
+          "name": "Disstinto",
+          "url": "https://open.spotify.com/artist/2T8TpzNGHN3yKlwuLAEqvN"
+        },
+        {
+          "name": "Medulla",
+          "url": "https://open.spotify.com/artist/7CVOAoQbR9WM67A4ppOLAN"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
+      "duration_ms": 282033,
+      "name": "Bicho de 7 Cabe\u00e7as / A Culpa \u00c9 das Igrejas",
+      "url": "https://open.spotify.com/track/2Lv29hDvxBCGgWA1skbtzE"
+    },
+    {
+      "album": {
+        "name": "Bicho de 7 Cabe\u00e7as / A Culpa \u00c9 das Igrejas",
+        "url": "https://open.spotify.com/album/6hdyWMkuMjjm7txPp7qScS"
+      },
+      "artists": [
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Rap Box",
+          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Pedro Qualy",
           "url": "https://open.spotify.com/artist/4AfTjKLguMiMYaGIS7sBJp"
         },
         {
@@ -391,12 +463,12 @@
           "url": "https://open.spotify.com/artist/7CVOAoQbR9WM67A4ppOLAN"
         }
       ],
-      "date_added": "2022-03-25",
+      "date_added": "2022-08-01",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 282033,
       "name": "Bicho de 7 Cabe\u00e7as / A Culpa \u00c9 das Igrejas",
-      "url": "https://open.spotify.com/track/2Lv29hDvxBCGgWA1skbtzE"
+      "url": "https://open.spotify.com/track/4eeGpiaBPnOwD9fT6fBDcE"
     },
     {
       "album": {
@@ -429,7 +501,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": "2022-11-21",
       "duration_ms": 224272,
       "name": "Bora Dan\u00e7ar",
       "url": "https://open.spotify.com/track/00XfUDUYQJ2hgG0vKpdwa6"
@@ -843,10 +915,40 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 257645,
+      "date_removed": "2022-10-15",
+      "duration_ms": 257644,
       "name": "Dizeres",
       "url": "https://open.spotify.com/track/3Vc8vnid3noqupe9PvUKxP"
+    },
+    {
+      "album": {
+        "name": "Dizeres",
+        "url": "https://open.spotify.com/album/6iRyot1JljNZA7RnQp4aiK"
+      },
+      "artists": [
+        {
+          "name": "Org\u00e2nico",
+          "url": "https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+        },
+        {
+          "name": "Rap Box",
+          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257644,
+      "name": "Dizeres",
+      "url": "https://open.spotify.com/track/4HQ4VFKOJRnTGZlYOOgrr6"
     },
     {
       "album": {
@@ -1184,6 +1286,28 @@
     },
     {
       "album": {
+        "name": "Estilo Vagabundo",
+        "url": "https://open.spotify.com/album/7AInqEgwdemP41grZlHsLQ"
+      },
+      "artists": [
+        {
+          "name": "MV Bill",
+          "url": "https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ"
+        },
+        {
+          "name": "Kmila Cdd",
+          "url": "https://open.spotify.com/artist/5pTtdzoyljdOQnTLVULZvv"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300042,
+      "name": "Estilo Vagabundo 1",
+      "url": "https://open.spotify.com/track/5Yxn11dDQeByH8mdA1Tgoa"
+    },
+    {
+      "album": {
         "name": "Estopim",
         "url": "https://open.spotify.com/album/2ZRiQV3PoXjUU5ZMkA6A4V"
       },
@@ -1379,7 +1503,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 499570,
       "name": "Favela Vive 3",
       "url": "https://open.spotify.com/track/4vlMvk0fDzmfyFbeqVaVfo"
@@ -1397,7 +1521,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-10-17",
       "duration_ms": 250044,
       "name": "Filosofia de Boteco",
       "url": "https://open.spotify.com/track/3nXCaYDeKPeUiUyGThNSEs"
@@ -1959,7 +2083,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-22",
+      "date_removed": "2022-11-13",
       "duration_ms": 149956,
       "name": "Malvad\u00e3o",
       "url": "https://open.spotify.com/track/6U3PUhdhUHMM8lBqmIg2Ro"
@@ -2415,7 +2539,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": "2022-10-21",
       "duration_ms": 145185,
       "name": "Nao Sei Mais",
       "url": "https://open.spotify.com/track/1M4q8oK4PlvHBvzgKs6e8O"
@@ -2685,10 +2809,36 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 237065,
       "name": "Olhares",
       "url": "https://open.spotify.com/track/4kAdEd8QyzX8lUDF336q4v"
+    },
+    {
+      "album": {
+        "name": "Olhares",
+        "url": "https://open.spotify.com/album/2uEThThOM8x9bDSSvYK8p3"
+      },
+      "artists": [
+        {
+          "name": "Rap Box",
+          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237065,
+      "name": "Olhares",
+      "url": "https://open.spotify.com/track/29gjSnpSaHYKV62A8uwQ1y"
     },
     {
       "album": {
@@ -3037,10 +3187,6 @@
         {
           "name": "Salve Malak",
           "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
-        },
-        {
-          "name": "Hunter",
-          "url": "https://open.spotify.com/artist/20yao3GcKuVqdY7S6MAj0n"
         }
       ],
       "date_added": "2022-03-25",

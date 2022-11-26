@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2PE0DbAlT8ZFiiYaCsCm4Q.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 420 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 424 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/2PE0DbAlT8ZFiiYaCsCm4Q.md) - [plain]
 | 44 | [Cradle of Love](https://open.spotify.com/track/4sthCEbCCGaYbEA8V823XB) | [Johnny Preston](https://open.spotify.com/artist/1B8n8vtEeexQ5NKehHTkeo) | [The 60's Collection Vol\. 1](https://open.spotify.com/album/5EaM4QZVCeEMtDkprocmLZ) | 2:22 |
 | 45 | [You Got What It Takes](https://open.spotify.com/track/49ax6w7sxo2vkDrISdRd89) | [Marv Johnson](https://open.spotify.com/artist/40PAEtNxO98lBeQHCza9vA) | [United Artists Black Singles 1959\-1967: ''Motor City To Central Park''](https://open.spotify.com/album/0QIsqKfh4h5dWicuHWSxOC) | 2:43 |
 | 46 | [Please Help Me I'm Falling](https://open.spotify.com/track/4o9fGL5BfhAjBDxvziWRt2) | [Hank Locklin](https://open.spotify.com/artist/46Unp6DY3Zmy7QS1Fx47yq) | [Hank Locklin Fifty Favourites](https://open.spotify.com/album/2YYZ8OJjakRfWqg6NUOQ0T) | 2:20 |
-| 47 | [Love You So \- Re\-Recording](https://open.spotify.com/track/3y5S5McahiMrgmvAgJqDbJ) | [Ron Holden](https://open.spotify.com/artist/0orxtneN4LcJWNxbLXtMZu) | [100 Timeless Love Songs](https://open.spotify.com/album/3UBER54cmpemko0k0GsD1h) | 3:07 |
+| 47 | [Love You So \(Re\-Recording\)](https://open.spotify.com/track/3y5S5McahiMrgmvAgJqDbJ) | [Ron Holden](https://open.spotify.com/artist/0orxtneN4LcJWNxbLXtMZu) | [100 Timeless Love Songs](https://open.spotify.com/album/3UBER54cmpemko0k0GsD1h) | 3:07 |
 | 48 | [Finger Poppin Time](https://open.spotify.com/track/38mt8WfEdB6S6yB7WUu4iR) | [Hank Ballard](https://open.spotify.com/artist/3R0XvRGDJEL5cGXVLiAbDB) | [Finger Poppin Time](https://open.spotify.com/album/671QFXPHWw9ii2ZvH6ip2Z) | 2:37 |
 | 49 | [Harbor Lights](https://open.spotify.com/track/0iOqvaUkCFKmUNF84i75Rq) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [Cruisin' To The Hits Of The '50s & '60s](https://open.spotify.com/album/5hYsVAaeg5K69gsiqn9Lt4) | 3:14 |
 | 50 | [Let The Little Girl Dance](https://open.spotify.com/track/7JlsrZRQYsDAyX4YlS358x) | [Billy Bland](https://open.spotify.com/artist/4mDEpwlcBham5q1dmykSG0) | [1960 Hits](https://open.spotify.com/album/71j3uam6qszvRFUg5MIFnb) | 2:18 |

@@ -246,6 +246,24 @@
     },
     {
       "album": {
+        "name": "Bryter Layter",
+        "url": "https://open.spotify.com/album/04FfqGvZJ9oUBGRVrq2FE5"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92306,
+      "name": "Introduction",
+      "url": "https://open.spotify.com/track/7unUg1rIAVXyYVH5LPHc4R"
+    },
+    {
+      "album": {
         "name": "Made To Love Magic",
         "url": "https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR"
       },
@@ -383,7 +401,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 367426,
       "name": "Poor Boy",
       "url": "https://open.spotify.com/track/2MvmsEPBWo9SMo4w3Ol7tN"

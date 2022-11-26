@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-06",
       "duration_ms": 145513,
       "name": "29 Gold Stars",
       "url": "https://open.spotify.com/track/054GuU4u3vY4b5bkU8K9eH"
@@ -143,7 +143,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 182293,
       "name": "Bottom Shelf Gin",
       "url": "https://open.spotify.com/track/2d4h1uZMKMe58QlIxlmrPH"
@@ -259,7 +259,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-03",
+      "date_removed": null,
       "duration_ms": 295839,
       "name": "Chocolate Samurai",
       "url": "https://open.spotify.com/track/4UtHodK1fk12jrvPi2pCcP"
@@ -625,7 +625,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-03",
+      "date_removed": null,
       "duration_ms": 208866,
       "name": "Going Down",
       "url": "https://open.spotify.com/track/0g2SE4JV2rn8rEzNcwaTgk"
@@ -1273,6 +1273,24 @@
     {
       "album": {
         "name": "Shout Into The Noise",
+        "url": "https://open.spotify.com/album/3HmSF21KTTO6dK3AxJpXps"
+      },
+      "artists": [
+        {
+          "name": "Ash Grunwald",
+          "url": "https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216244,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/4BfT2o6RDR3dOATt0e3XhR"
+    },
+    {
+      "album": {
+        "name": "Shout Into The Noise",
         "url": "https://open.spotify.com/album/3xyQGSWqRqQGOe3tvz2t8t"
       },
       "artists": [
@@ -1283,7 +1301,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 216244,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/6RyLEghWsRDVcDuRxDg2FN"

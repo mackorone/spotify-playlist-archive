@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/51txLi0Z6JdRmHNK98HitZ.md) - [plain]
 
 > Here is a playlist of all our songs released so far\. Our new album 'Today We’re The Greatest' is out now!
 
-[middle\_kids\_official](https://open.spotify.com/user/middle_kids_official) - 2,082 likes - 36 songs - 2 hr 2 min
+[middle\_kids\_official](https://open.spotify.com/user/middle_kids_official) - 2,083 likes - 36 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

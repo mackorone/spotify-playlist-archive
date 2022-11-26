@@ -338,6 +338,24 @@
     },
     {
       "album": {
+        "name": "Funkin' For Jamaica",
+        "url": "https://open.spotify.com/album/3QEAp1Cp3DQq6QcQD90arq"
+      },
+      "artists": [
+        {
+          "name": "Tom Browne",
+          "url": "https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9"
+        }
+      ],
+      "date_added": "2021-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 280933,
+      "name": "Funkin' for Jamaica",
+      "url": "https://open.spotify.com/track/0xbkxTqSaW5blsYgRXpB5I"
+    },
+    {
+      "album": {
         "name": "Collected",
         "url": "https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2"
       },
@@ -403,7 +421,7 @@
       ],
       "date_added": "2021-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 273760,
       "name": "Groove Me",
       "url": "https://open.spotify.com/track/7t4rA2AxpG7yAhgRwopfn2"
@@ -605,7 +623,7 @@
       ],
       "date_added": "2021-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 285333,
       "name": "If Only You Knew",
       "url": "https://open.spotify.com/track/60kYnvU89eL92jJ3eQcPXq"
@@ -641,7 +659,7 @@
       ],
       "date_added": "2021-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 272400,
       "name": "Juicy Fruit",
       "url": "https://open.spotify.com/track/2hn1lerQkPC6fOI0QFjr8r"
@@ -886,6 +904,24 @@
     },
     {
       "album": {
+        "name": "Groove On, Vol. 1",
+        "url": "https://open.spotify.com/album/3XITzC6hfZyl7U2C4ngxWa"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Mills",
+          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
+        }
+      ],
+      "date_added": "2021-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328266,
+      "name": "Never Knew Love Like This Before (Extended Mix)",
+      "url": "https://open.spotify.com/track/1Urr1PLp5Cy0ylztRSJvdB"
+    },
+    {
+      "album": {
         "name": "Never Too Much",
         "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
       },
@@ -951,7 +987,7 @@
       ],
       "date_added": "2021-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 249000,
       "name": "Off on Your Own (Girl)",
       "url": "https://open.spotify.com/track/2GRMJEIAvKlqJd9UHZTjRD"
@@ -1153,7 +1189,7 @@
       ],
       "date_added": "2021-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 521693,
       "name": "Saturday Love - 12\" Extended Version",
       "url": "https://open.spotify.com/track/5W3Y5I9y5ps6M6rl09e7zg"
@@ -1297,7 +1333,7 @@
       ],
       "date_added": "2021-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-10",
+      "date_removed": null,
       "duration_ms": 543560,
       "name": "The Glamorous Life",
       "url": "https://open.spotify.com/track/179SfVFJ0ZN41toTxnpgRD"
@@ -1315,7 +1351,7 @@
       ],
       "date_added": "2021-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 297973,
       "name": "The Pleasure Principle",
       "url": "https://open.spotify.com/track/1krKp0OXeCH6SI5SXl8tu5"

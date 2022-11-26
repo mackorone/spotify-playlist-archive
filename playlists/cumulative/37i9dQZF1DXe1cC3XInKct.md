@@ -4,7 +4,7 @@
 
 > ...and find your focus.
 
-182 songs - 14 hr 15 min - [published](https://open.spotify.com/playlist/60jVGhBQ9kNItECXd4mEVi)
+184 songs - 14 hr 24 min - [published](https://open.spotify.com/playlist/60jVGhBQ9kNItECXd4mEVi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [i'm closing my eyes](https://open.spotify.com/track/3NsuucK8qXpIJf7KPZX7vq) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [i'm closing my eyes](https://open.spotify.com/album/6FtXX2HPycaq0pHSF4HaVK) | 1:58 | 2021-08-21 | 2022-07-08 |
 | [INDIFFERENT \(With Gordi\)](https://open.spotify.com/track/35w8PwB14PiCQ2bUvXWlob) | [Willaris\. K](https://open.spotify.com/artist/6ZHeg2Op5ZkNppXbNLSglj), [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [INDIFFERENT \(With Gordi\)](https://open.spotify.com/album/1ij4QjRc5lDtP7WZgK7otz) | 3:55 | 2020-10-20\* | 2021-08-21 |
 | [Interference](https://open.spotify.com/track/3I40DGI9PpeG99ZDRkiN6K) | [Manu Delago](https://open.spotify.com/artist/08LrhaMKwKuGbB9XHBEjXF) | [Environ Me](https://open.spotify.com/album/0FeuVnMBYXbo4728HHrQo3) | 3:52 | 2022-07-15 |  |
+| [Interference](https://open.spotify.com/track/6uSkH1lA8HfcV4XXobZbXu) | [Manu Delago](https://open.spotify.com/artist/08LrhaMKwKuGbB9XHBEjXF) | [Interference](https://open.spotify.com/album/4WaLea03pYWjTZxcRhICNz) | 3:52 | 2022-09-29 | 2022-11-13 |
 | [Interference](https://open.spotify.com/track/7dztFyCwg4GZOpHCgRrhhi) | [Manu Delago](https://open.spotify.com/artist/08LrhaMKwKuGbB9XHBEjXF) | [Interference](https://open.spotify.com/album/2zpv9JPZkZkbKJuOXA3jWE) | 3:52 | 2021-07-04 | 2022-07-29 |
 | [Interior Music 001 \- Short Version](https://open.spotify.com/track/4DkDaJm6uxyeAG9LDrJVL6) | [Ben Green](https://open.spotify.com/artist/14AdBXiAE2ahKvUrNhWIta) | [Interior Music 001](https://open.spotify.com/album/2B0Fm9ImKSUxYeDpaVaOcE) | 6:52 | 2021-07-24 | 2022-07-08 |
 | [Interior Music 003 \- Part II](https://open.spotify.com/track/2r8OD8eEs0RamBqbZ5VHPY) | [Santilli](https://open.spotify.com/artist/3DzpPfgpxIvjz3eoqmCDub) | [Interior Music 003](https://open.spotify.com/album/6AdjN8ac7cLJgNUWsNGB7H) | 5:25 | 2021-09-04 |  |
@@ -84,7 +85,8 @@
 | [just listen](https://open.spotify.com/track/7tU5OELEHWlzFsqOBZ1qUh) | [Sabastian](https://open.spotify.com/artist/41I5fCabwXD9uKDbhkGGtZ) | [just listen](https://open.spotify.com/album/1dvbVkme2aiexPUI5kB9Td) | 2:39 | 2020-10-20\* | 2021-02-04 |
 | [Kong](https://open.spotify.com/track/1MrzCY8KeTcU2UGDITsAoz) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mirage](https://open.spotify.com/album/45yGFEPm310zjAc1psZzEv) | 4:47 | 2021-07-04 | 2022-06-17 |
 | [Kunanyi](https://open.spotify.com/track/5WBXcxVorbFCirsQ3Xf9hd) | [Daisies Net](https://open.spotify.com/artist/5jt9Y6flRumfQ96XmA6upo) | [Kunanyi](https://open.spotify.com/album/3m2pqWyGdSi0iJ2amcpjRl) | 4:13 | 2021-07-24 | 2022-09-30 |
-| [L'architettura Del Mare](https://open.spotify.com/track/3bOEp5lWoea80fO9FDmb0c) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU) | [Stasi](https://open.spotify.com/album/4d6jmHbXzFFVlydwb2vSa1) | 5:04 | 2021-07-04 |  |
+| [L'architettura Del Mare](https://open.spotify.com/track/3bOEp5lWoea80fO9FDmb0c) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU) | [Stasi](https://open.spotify.com/album/4d6jmHbXzFFVlydwb2vSa1) | 5:04 | 2021-07-04 | 2022-10-14 |
+| [L'architettura Del Mare](https://open.spotify.com/track/7KJx7Uu53see41UKVGfuZk) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU) | [Stasi](https://open.spotify.com/album/2WN9w0YV9ystKje62lOdes) | 5:04 | 2022-09-29 |  |
 | [Lago Escondido](https://open.spotify.com/track/5iUOejpBYg3sXiwD8poRAq) | [Samuel Aguilar](https://open.spotify.com/artist/1gXqzPzUGPeM2E1rixPWrj), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Lago Escondido](https://open.spotify.com/album/0wMehjx81rurqgjDHKheRI) | 3:56 | 2022-02-10 |  |
 | [Last Known Image of a Song](https://open.spotify.com/track/5WuaGZRtMNc0hlxg4W2IBV) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Age Of](https://open.spotify.com/album/05A41BF3z2E5F0tnTyWRNh) | 4:06 | 2020-10-20\* | 2021-02-04 |
 | [Let Go](https://open.spotify.com/track/2gixQXOUSRnv7yBuplbgAK) | [Chama Wijnen](https://open.spotify.com/artist/7ftRhte6NNzoF9MIKfKJsP) | [Let Go](https://open.spotify.com/album/28liljlrdNabEfDkZG7JWW) | 3:11 | 2021-08-21 |  |

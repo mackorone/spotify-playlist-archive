@@ -165,7 +165,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": "2022-11-13",
       "duration_ms": 177777,
       "name": "Bam Bam Season",
       "url": "https://open.spotify.com/track/4S6kzemNEMI7UhgxF6He9e"
@@ -227,7 +227,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-10",
+      "date_removed": "2022-11-12",
       "duration_ms": 171964,
       "name": "Behave Pun It",
       "url": "https://open.spotify.com/track/56AjWZnckGDACRkOOQSYIz"
@@ -297,7 +297,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-11-13",
       "duration_ms": 191067,
       "name": "Boom Bang",
       "url": "https://open.spotify.com/track/6gFQb0VIN3ucwjmOkyGYrH"
@@ -603,6 +603,24 @@
     {
       "album": {
         "name": "Smoke Mask Riddim",
+        "url": "https://open.spotify.com/album/3NLzUwBAZqGkgzf0qnlic1"
+      },
+      "artists": [
+        {
+          "name": "Lednek",
+          "url": "https://open.spotify.com/artist/4Ft1CU17NiK3HFEDMGxLCK"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 202023,
+      "name": "Down in de Meat",
+      "url": "https://open.spotify.com/track/32j9nOIzJrWPtgtzqrzVNp"
+    },
+    {
+      "album": {
+        "name": "Smoke Mask Riddim",
         "url": "https://open.spotify.com/album/3y8wtlDAAWDehbuJCaZG3Q"
       },
       "artists": [
@@ -766,6 +784,28 @@
     },
     {
       "album": {
+        "name": "Feeling It",
+        "url": "https://open.spotify.com/album/40IyjtthaOItYrK8mcASuu"
+      },
+      "artists": [
+        {
+          "name": "Swappi",
+          "url": "https://open.spotify.com/artist/1FXS9zsrivPmCwagsuhPdJ"
+        },
+        {
+          "name": "Ultimate Rejects",
+          "url": "https://open.spotify.com/artist/5XwdTXM2AN5sMV7Su8dUZA"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247272,
+      "name": "Feeling It",
+      "url": "https://open.spotify.com/track/62pvKYjeztdIXbOoucJQfZ"
+    },
+    {
+      "album": {
         "name": "Gal Policy",
         "url": "https://open.spotify.com/album/5x1BzHxHcnvjru9T9iA4R8"
       },
@@ -875,7 +915,7 @@
     {
       "album": {
         "name": "Heaven Passport",
-        "url": "https://open.spotify.com/album/1X7HsL7j4VaFP1kpRIZadN"
+        "url": "https://open.spotify.com/album/2isP74vOyY08TNii3xoeaZ"
       },
       "artists": [
         {
@@ -890,6 +930,28 @@
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 187375,
+      "name": "Heaven Passport",
+      "url": "https://open.spotify.com/track/3MEO3XzuF79wbokXOnWEJg"
+    },
+    {
+      "album": {
+        "name": "Heaven Passport",
+        "url": "https://open.spotify.com/album/1X7HsL7j4VaFP1kpRIZadN"
+      },
+      "artists": [
+        {
+          "name": "Skeng",
+          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
+        },
+        {
+          "name": "Intence",
+          "url": "https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-11",
       "duration_ms": 187375,
       "name": "Heaven Passport",
       "url": "https://open.spotify.com/track/5PHWW6LI7OH4rHk7NANAGa"
@@ -907,7 +969,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-11-13",
       "duration_ms": 233394,
       "name": "Hold Me Close",
       "url": "https://open.spotify.com/track/7s489YdEjOl8mGcSRFLgzi"
@@ -1107,10 +1169,36 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": "2022-11-13",
       "duration_ms": 188000,
       "name": "Lookin' for China",
       "url": "https://open.spotify.com/track/1wgE3JnAq2PByF9dGeQPSw"
+    },
+    {
+      "album": {
+        "name": "Fuego Riddim",
+        "url": "https://open.spotify.com/album/3qc5lO74inY7JbyqJo9VTI"
+      },
+      "artists": [
+        {
+          "name": "Motto",
+          "url": "https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O"
+        },
+        {
+          "name": "BlackBoy",
+          "url": "https://open.spotify.com/artist/390GislU2lqdtKcuFMIvjK"
+        },
+        {
+          "name": "Ezra",
+          "url": "https://open.spotify.com/artist/43MY7dXYJiMHbDTgaSZE4x"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 126458,
+      "name": "Man with Ride (Big Ride)",
+      "url": "https://open.spotify.com/track/2gKL50BWqeeD4IK6KxJkzO"
     },
     {
       "album": {
@@ -1203,10 +1291,28 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 193226,
       "name": "Mobster",
       "url": "https://open.spotify.com/track/00mDz9iEvKOdLHNmvucEhs"
+    },
+    {
+      "album": {
+        "name": "Mobster",
+        "url": "https://open.spotify.com/album/7qAR0K7zQHG9OsiNkZxriW"
+      },
+      "artists": [
+        {
+          "name": "Bayka",
+          "url": "https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193226,
+      "name": "Mobster",
+      "url": "https://open.spotify.com/track/6rLVZ8HLA9EfQzRZZAyKpB"
     },
     {
       "album": {
@@ -1305,7 +1411,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 235000,
       "name": "No Tomorrow",
       "url": "https://open.spotify.com/track/57vT8YfFjsllsHxqF1KGLR"
@@ -1643,10 +1749,28 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 158294,
       "name": "Skill & Steady",
       "url": "https://open.spotify.com/track/65dhZDMJ4eifxYqJjERBFW"
+    },
+    {
+      "album": {
+        "name": "The Jakson Bay Project",
+        "url": "https://open.spotify.com/album/2Bsph4DDOen4CEGpesiBhl"
+      },
+      "artists": [
+        {
+          "name": "Patrice Roberts",
+          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 199606,
+      "name": "Soak Me Good",
+      "url": "https://open.spotify.com/track/0IC3SSV31lfYGQ6thjYcoP"
     },
     {
       "album": {
@@ -1683,6 +1807,24 @@
       "duration_ms": 215334,
       "name": "Splinters",
       "url": "https://open.spotify.com/track/5QaUy0q3xCIRtjdtV28WxR"
+    },
+    {
+      "album": {
+        "name": "The 2:00AM Project",
+        "url": "https://open.spotify.com/album/01S0wyD4Pp8NjLPtbRWTEr"
+      },
+      "artists": [
+        {
+          "name": "Shal Marshall",
+          "url": "https://open.spotify.com/artist/7mds6P3MvNyCg7l2QFpx6d"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 215334,
+      "name": "Splinters",
+      "url": "https://open.spotify.com/track/7MCzy3nV8UfPbuRC5vzQpU"
     },
     {
       "album": {
@@ -1799,6 +1941,28 @@
       "duration_ms": 211022,
       "name": "Stink Behavior",
       "url": "https://open.spotify.com/track/5XxrykKafHg34icuJEN5tf"
+    },
+    {
+      "album": {
+        "name": "Sick Jab Riddim (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1T6GuTqK1HDTYmW8J8d3Nj"
+      },
+      "artists": [
+        {
+          "name": "Kisha",
+          "url": "https://open.spotify.com/artist/6vK1HRsfeYa8m5ejJD4RTc"
+        },
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/1jo7mWxIHJtOm0TAoKL1jJ"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-22",
+      "duration_ms": 135941,
+      "name": "The People Man (T.P.M.)",
+      "url": "https://open.spotify.com/track/2xsCpoyTKtvaejdEQkLo7T"
     },
     {
       "album": {
@@ -1927,10 +2091,28 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 116375,
       "name": "Toat No Feelings",
       "url": "https://open.spotify.com/track/3EqVzZ3G6mf20qPIvZiiau"
+    },
+    {
+      "album": {
+        "name": "Mandrakes Riddim",
+        "url": "https://open.spotify.com/album/4DPTFGdYrshK8qfDdmPrY7"
+      },
+      "artists": [
+        {
+          "name": "Mandella Linkz",
+          "url": "https://open.spotify.com/artist/6pU2OStuhrBqzG7J1ibOIm"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230769,
+      "name": "Tombstone",
+      "url": "https://open.spotify.com/track/4s11uuaP6TZewrcNundNY2"
     },
     {
       "album": {
@@ -1989,6 +2171,24 @@
     {
       "album": {
         "name": "Progress Riddim",
+        "url": "https://open.spotify.com/album/085tctZjqajfyGHgkO3Y07"
+      },
+      "artists": [
+        {
+          "name": "Teejay",
+          "url": "https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210806,
+      "name": "Up Top Boss",
+      "url": "https://open.spotify.com/track/1BgnrgG2lxAdkgwei4KiF7"
+    },
+    {
+      "album": {
+        "name": "Progress Riddim",
         "url": "https://open.spotify.com/album/4DInWuzCI8yOwhoV0uZwqn"
       },
       "artists": [
@@ -1999,7 +2199,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 210806,
       "name": "Up Top Boss",
       "url": "https://open.spotify.com/track/3plfljoZKGixRbQ2u6o2et"
@@ -2035,7 +2235,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": "2022-11-13",
       "duration_ms": 188055,
       "name": "Vibes",
       "url": "https://open.spotify.com/track/1823Dax4egZNBDGAE9co2y"
@@ -2131,6 +2331,24 @@
     {
       "album": {
         "name": "Wileside Government",
+        "url": "https://open.spotify.com/album/32atiLrIa1jY1bKgZCWTi9"
+      },
+      "artists": [
+        {
+          "name": "Jahvillani",
+          "url": "https://open.spotify.com/artist/40vpvFOIfRil2lXkK5GrTK"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202332,
+      "name": "Wileside Government",
+      "url": "https://open.spotify.com/track/0SAx46pqnF5tEzmazHw7Id"
+    },
+    {
+      "album": {
+        "name": "Wileside Government",
         "url": "https://open.spotify.com/album/10XhKqbnvtoGiAH7kCOXjO"
       },
       "artists": [
@@ -2141,7 +2359,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 202332,
       "name": "Wileside Government",
       "url": "https://open.spotify.com/track/7JrgCxdl0C7PlbfOG98x0N"
@@ -2235,6 +2453,32 @@
       "duration_ms": 166153,
       "name": "Wrong Again",
       "url": "https://open.spotify.com/track/3TVWXE8hUeSzoAC3xCrErX"
+    },
+    {
+      "album": {
+        "name": "Jollof Rice Riddim",
+        "url": "https://open.spotify.com/album/5Cz7kcXJYIsMlEAAQ3nCww"
+      },
+      "artists": [
+        {
+          "name": "DJ Spider",
+          "url": "https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq"
+        },
+        {
+          "name": "Marzville",
+          "url": "https://open.spotify.com/artist/0EW8oVadcmlxZevZFlPm9P"
+        },
+        {
+          "name": "Sir Fingaz",
+          "url": "https://open.spotify.com/artist/64LrJCEMV2Ft7yP6YvD7GU"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181805,
+      "name": "Wuk",
+      "url": "https://open.spotify.com/track/6e7h5Gr9HMPQCq9w4po8kP"
     },
     {
       "album": {

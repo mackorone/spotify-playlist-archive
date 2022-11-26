@@ -199,7 +199,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-12",
+      "date_removed": null,
       "duration_ms": 245493,
       "name": "Black Jesus",
       "url": "https://open.spotify.com/track/6JKFK3xmbsemZvLA40R7KH"
@@ -467,7 +467,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 358573,
       "name": "City Lights - City of Starsigns",
       "url": "https://open.spotify.com/track/7w2ETRLrBKR5j8HaWvbKTX"
@@ -615,7 +615,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-12",
+      "date_removed": "2022-11-13",
       "duration_ms": 352000,
       "name": "Electric Lazyland",
       "url": "https://open.spotify.com/track/5hicOmRFB0EOeLNsV3ugSp"
@@ -669,7 +669,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-12",
+      "date_removed": "2022-11-13",
       "duration_ms": 281500,
       "name": "Fictions",
       "url": "https://open.spotify.com/track/3zyuM9NvUgRNptc9uV14SW"
@@ -687,7 +687,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-06",
       "duration_ms": 322200,
       "name": "Five Days",
       "url": "https://open.spotify.com/track/2J0udoywJrh32Mcp3VSiU9"
@@ -705,7 +705,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-12",
+      "date_removed": "2022-11-12",
       "duration_ms": 456240,
       "name": "Free Your Turntable And Your Scratch Will Follow",
       "url": "https://open.spotify.com/track/0HVYAM7HheGaM2pMHVfFcD"
@@ -741,7 +741,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-12",
+      "date_removed": "2022-11-14",
       "duration_ms": 462240,
       "name": "Get Your Head Down",
       "url": "https://open.spotify.com/track/4SYVoeYf6tMll3e0UHKInU"
@@ -885,7 +885,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-12",
+      "date_removed": null,
       "duration_ms": 338706,
       "name": "Johnson",
       "url": "https://open.spotify.com/track/522A3dgrvWe27tK3L3gbYF"
@@ -1029,7 +1029,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-12",
+      "date_removed": "2022-11-13",
       "duration_ms": 451400,
       "name": "Livin' Free (Soundtrack Mix)",
       "url": "https://open.spotify.com/track/7Bz6aEEf7l0z1aNPyUMxNL"
@@ -1199,7 +1199,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-10",
+      "date_removed": "2022-11-14",
       "duration_ms": 384960,
       "name": "Mugen - In the Morning",
       "url": "https://open.spotify.com/track/4ayKqsvMn7CTyUg2cZMzLc"
@@ -1325,7 +1325,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 367493,
       "name": "Original Bedroom Rockers",
       "url": "https://open.spotify.com/track/348kpkfbJUZn7GBpOEvPh4"
@@ -1513,6 +1513,24 @@
       "duration_ms": 385826,
       "name": "Shaolin Satellite",
       "url": "https://open.spotify.com/track/35uzCegY2dxHFkeUJ4sBxq"
+    },
+    {
+      "album": {
+        "name": "Sounds From The Thievery Hi Fi (Remastered 2022)",
+        "url": "https://open.spotify.com/album/3YHE7w3WLUFyt1FGtvRP8t"
+      },
+      "artists": [
+        {
+          "name": "Thievery Corporation",
+          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
+        }
+      ],
+      "date_added": "2021-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384613,
+      "name": "Shaolin Satellite - Remastered 2022",
+      "url": "https://open.spotify.com/track/46Ezt0lIxCmEyO3F8yrc5V"
     },
     {
       "album": {

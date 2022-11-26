@@ -1,31 +1,15 @@
 {
   "description": "This is The Black Keys. The essential tracks, all in one playlist.",
-  "num_followers": 243093,
+  "num_followers": 245613,
   "original_name": "This Is The Black Keys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc3NTUzNzAsMDAwMDAwMDBkYWQ4MDE4NDlmODI4OWMxZjM5MDE0YTFkZjA3ODlhNg==",
+  "snapshot_id": "Mjc4MjMxMDcsMDAwMDAwMDA1NDRiYTU0NzViNGI0ZTU2NTE2OWE3NWIwMGNhMGI0Mw==",
   "tracks": [
     {
-      "added_at": "2022-10-09 13:30:34",
-      "album": {
-        "name": "Wild Child",
-        "url": "https://open.spotify.com/album/3qq1cgY9TrPmzscvmON5Vb"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 164866,
-      "name": "Wild Child",
-      "url": "https://open.spotify.com/track/0dgAZ1j5irH1FlA5WrpHW4"
-    },
-    {
-      "added_at": "2022-10-09 13:30:34",
+      "added_at": "2022-11-25 14:27:39",
       "album": {
         "name": "El Camino",
         "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
@@ -41,10 +25,10 @@
       "url": "https://open.spotify.com/track/5G1sTBGbZT5o4PNRc75RKI"
     },
     {
-      "added_at": "2022-10-09 13:30:34",
+      "added_at": "2022-11-25 14:27:39",
       "album": {
-        "name": "Brothers",
-        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
+        "name": "Dropout Boogie",
+        "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
       },
       "artists": [
         {
@@ -52,124 +36,12 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 191800,
-      "name": "Howlin' for You",
-      "url": "https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4"
+      "duration_ms": 164866,
+      "name": "Wild Child",
+      "url": "https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e"
     },
     {
-      "added_at": "2022-10-09 13:30:34",
-      "album": {
-        "name": "Magic Potion",
-        "url": "https://open.spotify.com/album/4jFfuHyKmhGeipjRmKIh8O"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 162586,
-      "name": "Your Touch",
-      "url": "https://open.spotify.com/track/5lJUXSjRjevVy7I3P87wuK"
-    },
-    {
-      "added_at": "2022-10-09 13:30:34",
-      "album": {
-        "name": "Turn Blue",
-        "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 246306,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/3Hx7RXqCS7Kzjy2ot2q1Gk"
-    },
-    {
-      "added_at": "2022-10-09 13:30:34",
-      "album": {
-        "name": "El Camino",
-        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 224333,
-      "name": "Gold on the Ceiling",
-      "url": "https://open.spotify.com/track/5lN1EH25gdiqT1SFALMAq1"
-    },
-    {
-      "added_at": "2022-10-09 13:30:34",
-      "album": {
-        "name": "Brothers",
-        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 211080,
-      "name": "Tighten Up",
-      "url": "https://open.spotify.com/track/2MVwrvjmcdt4MsYYLCYMt8"
-    },
-    {
-      "added_at": "2022-10-09 13:30:34",
-      "album": {
-        "name": "\"Let's Rock\"",
-        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 177768,
-      "name": "Lo/Hi",
-      "url": "https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ"
-    },
-    {
-      "added_at": "2022-10-09 13:30:34",
-      "album": {
-        "name": "Turn Blue",
-        "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 410186,
-      "name": "Weight of Love",
-      "url": "https://open.spotify.com/track/3xMQOd1C3TXsjQ3pmzOmkC"
-    },
-    {
-      "added_at": "2022-10-09 13:30:34",
-      "album": {
-        "name": "El Camino",
-        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 251266,
-      "name": "Little Black Submarines",
-      "url": "https://open.spotify.com/track/1PXsUXSM3LF2XNSkmIldPb"
-    },
-    {
-      "added_at": "2022-10-09 13:30:34",
+      "added_at": "2022-11-25 14:27:39",
       "album": {
         "name": "The Big Come Up",
         "url": "https://open.spotify.com/album/1xVlDcp3ZHntqgvhHYw1rp"
@@ -185,7 +57,135 @@
       "url": "https://open.spotify.com/track/5BvuyYHjA98IxU0nQUGzZr"
     },
     {
-      "added_at": "2022-10-09 13:30:34",
+      "added_at": "2022-11-25 14:27:39",
+      "album": {
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 191800,
+      "name": "Howlin' for You",
+      "url": "https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4"
+    },
+    {
+      "added_at": "2022-11-25 14:27:39",
+      "album": {
+        "name": "El Camino",
+        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 224333,
+      "name": "Gold on the Ceiling",
+      "url": "https://open.spotify.com/track/5lN1EH25gdiqT1SFALMAq1"
+    },
+    {
+      "added_at": "2022-11-25 14:27:39",
+      "album": {
+        "name": "\"Let's Rock\"",
+        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 177768,
+      "name": "Lo/Hi",
+      "url": "https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ"
+    },
+    {
+      "added_at": "2022-11-25 14:27:39",
+      "album": {
+        "name": "Magic Potion",
+        "url": "https://open.spotify.com/album/4jFfuHyKmhGeipjRmKIh8O"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 162586,
+      "name": "Your Touch",
+      "url": "https://open.spotify.com/track/5lJUXSjRjevVy7I3P87wuK"
+    },
+    {
+      "added_at": "2022-11-25 14:27:39",
+      "album": {
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 211080,
+      "name": "Tighten Up",
+      "url": "https://open.spotify.com/track/2MVwrvjmcdt4MsYYLCYMt8"
+    },
+    {
+      "added_at": "2022-11-25 14:27:39",
+      "album": {
+        "name": "El Camino",
+        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 251266,
+      "name": "Little Black Submarines",
+      "url": "https://open.spotify.com/track/1PXsUXSM3LF2XNSkmIldPb"
+    },
+    {
+      "added_at": "2022-11-25 14:27:39",
+      "album": {
+        "name": "Turn Blue",
+        "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 246306,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/3Hx7RXqCS7Kzjy2ot2q1Gk"
+    },
+    {
+      "added_at": "2022-11-25 14:27:39",
+      "album": {
+        "name": "Dropout Boogie",
+        "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 228533,
+      "name": "It Ain't Over",
+      "url": "https://open.spotify.com/track/4fNtMdGY2dYp2ODClA9CB4"
+    },
+    {
+      "added_at": "2022-11-25 14:27:39",
       "album": {
         "name": "Brothers",
         "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
@@ -201,23 +201,7 @@
       "url": "https://open.spotify.com/track/6dU5RxthbuaN31bRbEDlNw"
     },
     {
-      "added_at": "2022-10-09 13:30:34",
-      "album": {
-        "name": "Attack & Release",
-        "url": "https://open.spotify.com/album/1YHS3Fw8THvsKVVQ1znAqi"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 239146,
-      "name": "I Got Mine",
-      "url": "https://open.spotify.com/track/319zpJMCzpz50Uz0PsjlJN"
-    },
-    {
-      "added_at": "2022-10-09 13:30:34",
+      "added_at": "2022-11-25 14:27:39",
       "album": {
         "name": "\"Let's Rock\"",
         "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
@@ -233,7 +217,23 @@
       "url": "https://open.spotify.com/track/365TSrFPqM66giaxJuafR3"
     },
     {
-      "added_at": "2022-10-09 13:30:34",
+      "added_at": "2022-11-25 14:27:39",
+      "album": {
+        "name": "Turn Blue",
+        "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 410186,
+      "name": "Weight of Love",
+      "url": "https://open.spotify.com/track/3xMQOd1C3TXsjQ3pmzOmkC"
+    },
+    {
+      "added_at": "2022-11-25 14:27:39",
       "album": {
         "name": "Dropout Boogie",
         "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
@@ -253,135 +253,7 @@
       "url": "https://open.spotify.com/track/49Mvj8Ohz1uu0AcZ7Ri70Z"
     },
     {
-      "added_at": "2022-10-09 13:30:34",
-      "album": {
-        "name": "El Camino",
-        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 221026,
-      "name": "Dead and Gone",
-      "url": "https://open.spotify.com/track/3UD4sghkq8dHUwvKxln1nB"
-    },
-    {
-      "added_at": "2022-10-09 13:30:34",
-      "album": {
-        "name": "Turn Blue",
-        "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 180173,
-      "name": "Gotta Get Away",
-      "url": "https://open.spotify.com/track/0zo4T5c5VV42554ySEc5J6"
-    },
-    {
-      "added_at": "2022-10-09 13:30:34",
-      "album": {
-        "name": "\"Let's Rock\"",
-        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 146596,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/2GuXIMRlaxVLcU0a5jacHw"
-    },
-    {
-      "added_at": "2022-10-09 13:30:34",
-      "album": {
-        "name": "Thickfreakness",
-        "url": "https://open.spotify.com/album/0GJH6shkenNdqkpGdsY8aa"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 228373,
-      "name": "Thickfreakness",
-      "url": "https://open.spotify.com/track/4m6uJViB1sb3OXErHUkkWk"
-    },
-    {
-      "added_at": "2022-10-09 13:30:34",
-      "album": {
-        "name": "El Camino",
-        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 205186,
-      "name": "Sister",
-      "url": "https://open.spotify.com/track/5LCuFER5mMzL0fGNpClksf"
-    },
-    {
-      "added_at": "2022-10-09 13:30:34",
-      "album": {
-        "name": "Turn Blue",
-        "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 222960,
-      "name": "Turn Blue",
-      "url": "https://open.spotify.com/track/1pwWrPxonLIE12WWu9NzgU"
-    },
-    {
-      "added_at": "2022-10-09 13:30:34",
-      "album": {
-        "name": "Attack & Release",
-        "url": "https://open.spotify.com/album/1YHS3Fw8THvsKVVQ1znAqi"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 250706,
-      "name": "Psychotic Girl",
-      "url": "https://open.spotify.com/track/2mFnxVS2wZpqntPzZB17O1"
-    },
-    {
-      "added_at": "2022-10-09 13:30:34",
-      "album": {
-        "name": "Chulahoma",
-        "url": "https://open.spotify.com/album/6jJKeu4hPomUuMOM6iGVzQ"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 218466,
-      "name": "Meet Me in the City",
-      "url": "https://open.spotify.com/track/0vblqF5R4FyCAVBasjLGdu"
-    },
-    {
-      "added_at": "2022-10-09 13:30:34",
+      "added_at": "2022-11-25 14:27:39",
       "album": {
         "name": "The Big Come Up",
         "url": "https://open.spotify.com/album/1xVlDcp3ZHntqgvhHYw1rp"
@@ -397,71 +269,7 @@
       "url": "https://open.spotify.com/track/1nIUgRxbi4aY4fV5A26Jrp"
     },
     {
-      "added_at": "2022-10-09 13:30:34",
-      "album": {
-        "name": "Turn Blue",
-        "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 213226,
-      "name": "10 Lovers",
-      "url": "https://open.spotify.com/track/5HPnumlogzZtpLEaORZjz1"
-    },
-    {
-      "added_at": "2022-10-09 13:30:34",
-      "album": {
-        "name": "El Camino",
-        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Run Right Back",
-      "url": "https://open.spotify.com/track/5HgAZuHFAU5qLLMYuIQkgq"
-    },
-    {
-      "added_at": "2022-10-09 13:30:34",
-      "album": {
-        "name": "Dropout Boogie",
-        "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 200986,
-      "name": "How Long",
-      "url": "https://open.spotify.com/track/0hPLjCtNnCwt3InwsDgux6"
-    },
-    {
-      "added_at": "2022-10-09 13:30:34",
-      "album": {
-        "name": "Brothers",
-        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 224480,
-      "name": "Sinister Kid",
-      "url": "https://open.spotify.com/track/78krcD2vFUXJ3Y0XXeiHWH"
-    },
-    {
-      "added_at": "2022-10-09 13:30:34",
+      "added_at": "2022-11-25 14:27:39",
       "album": {
         "name": "\"Let's Rock\"",
         "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
@@ -477,10 +285,10 @@
       "url": "https://open.spotify.com/track/7Dd1v8u05vTL3py8d1a5ZA"
     },
     {
-      "added_at": "2022-10-09 13:30:34",
+      "added_at": "2022-11-25 14:27:39",
       "album": {
-        "name": "Thickfreakness",
-        "url": "https://open.spotify.com/album/0GJH6shkenNdqkpGdsY8aa"
+        "name": "El Camino",
+        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
       },
       "artists": [
         {
@@ -488,12 +296,12 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 184720,
-      "name": "Have Love Will Travel",
-      "url": "https://open.spotify.com/track/46XzvI0GXvRwK7LV6vdn2v"
+      "duration_ms": 221026,
+      "name": "Dead and Gone",
+      "url": "https://open.spotify.com/track/3UD4sghkq8dHUwvKxln1nB"
     },
     {
-      "added_at": "2022-10-09 13:30:34",
+      "added_at": "2022-11-25 14:27:39",
       "album": {
         "name": "Dropout Boogie",
         "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
@@ -509,39 +317,7 @@
       "url": "https://open.spotify.com/track/5jH6P7e6RUGZnFGTeq3pUe"
     },
     {
-      "added_at": "2022-10-09 13:30:34",
-      "album": {
-        "name": "Brothers",
-        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "She's Long Gone",
-      "url": "https://open.spotify.com/track/26ZnmGlPGXaOzPDydAP9D5"
-    },
-    {
-      "added_at": "2022-10-09 13:30:34",
-      "album": {
-        "name": "\"Let's Rock\"",
-        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 235841,
-      "name": "Walk Across The Water",
-      "url": "https://open.spotify.com/track/5AEyKKiz6YPTLR7EDFLqMS"
-    },
-    {
-      "added_at": "2022-10-09 13:30:34",
+      "added_at": "2022-11-25 14:27:39",
       "album": {
         "name": "Turn Blue",
         "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
@@ -552,44 +328,12 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 217120,
-      "name": "Waiting on Words",
-      "url": "https://open.spotify.com/track/7ctca1Hz43SyMcI4qUrpY7"
+      "duration_ms": 222960,
+      "name": "Turn Blue",
+      "url": "https://open.spotify.com/track/1pwWrPxonLIE12WWu9NzgU"
     },
     {
-      "added_at": "2022-10-09 13:30:34",
-      "album": {
-        "name": "Dropout Boogie",
-        "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 228533,
-      "name": "It Ain't Over",
-      "url": "https://open.spotify.com/track/4fNtMdGY2dYp2ODClA9CB4"
-    },
-    {
-      "added_at": "2022-10-09 13:30:34",
-      "album": {
-        "name": "Brothers",
-        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 198213,
-      "name": "Next Girl",
-      "url": "https://open.spotify.com/track/2UE4m8egf0aREmOi47sDOk"
-    },
-    {
-      "added_at": "2022-10-09 13:30:34",
+      "added_at": "2022-11-25 14:27:39",
       "album": {
         "name": "\"Let's Rock\"",
         "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
@@ -600,15 +344,15 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 160501,
-      "name": "Sit Around And Miss You",
-      "url": "https://open.spotify.com/track/4yBxXm4dDL00YGdO5G9ubK"
+      "duration_ms": 146596,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/2GuXIMRlaxVLcU0a5jacHw"
     },
     {
-      "added_at": "2022-10-09 13:30:34",
+      "added_at": "2022-11-25 14:27:39",
       "album": {
-        "name": "Thickfreakness",
-        "url": "https://open.spotify.com/album/0GJH6shkenNdqkpGdsY8aa"
+        "name": "El Camino",
+        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
       },
       "artists": [
         {
@@ -616,76 +360,12 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 243013,
-      "name": "Midnight in Her Eyes",
-      "url": "https://open.spotify.com/track/2l8qA0PtOz6JLMzxMnKOaO"
+      "duration_ms": 205186,
+      "name": "Sister",
+      "url": "https://open.spotify.com/track/5LCuFER5mMzL0fGNpClksf"
     },
     {
-      "added_at": "2022-10-09 13:30:34",
-      "album": {
-        "name": "Dropout Boogie",
-        "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 241960,
-      "name": "Didn't I Love You",
-      "url": "https://open.spotify.com/track/3ODV8hlwa7eLVuPMskWnQi"
-    },
-    {
-      "added_at": "2022-10-09 13:30:34",
-      "album": {
-        "name": "Attack & Release",
-        "url": "https://open.spotify.com/album/1YHS3Fw8THvsKVVQ1znAqi"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 190320,
-      "name": "Strange Times",
-      "url": "https://open.spotify.com/track/0dpNxKXHazvWga4MN6z2rn"
-    },
-    {
-      "added_at": "2022-10-09 13:30:34",
-      "album": {
-        "name": "Delta Kream",
-        "url": "https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 355434,
-      "name": "Come on and Go with Me",
-      "url": "https://open.spotify.com/track/7M9Bru9dH3gHSmx6c7bo7j"
-    },
-    {
-      "added_at": "2022-10-09 13:30:34",
-      "album": {
-        "name": "Thickfreakness",
-        "url": "https://open.spotify.com/album/0GJH6shkenNdqkpGdsY8aa"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 199706,
-      "name": "Hold Me in Your Arms",
-      "url": "https://open.spotify.com/track/2FbBdId9VlKkTl3QcD7wkn"
-    },
-    {
-      "added_at": "2022-10-09 13:30:34",
+      "added_at": "2022-11-25 14:27:39",
       "album": {
         "name": "Dropout Boogie",
         "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
@@ -701,10 +381,10 @@
       "url": "https://open.spotify.com/track/50J9zbu0UzOFnUVSjvecl7"
     },
     {
-      "added_at": "2022-10-09 13:30:34",
+      "added_at": "2022-11-25 14:27:39",
       "album": {
-        "name": "Rubber Factory",
-        "url": "https://open.spotify.com/album/1rlGDm1KQJfDyT5v1U8Xk5"
+        "name": "Chulahoma",
+        "url": "https://open.spotify.com/album/6jJKeu4hPomUuMOM6iGVzQ"
       },
       "artists": [
         {
@@ -712,15 +392,15 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 208173,
-      "name": "Girl Is on My Mind",
-      "url": "https://open.spotify.com/track/4KVYCdoWmDa4KS1OY6sgMa"
+      "duration_ms": 218466,
+      "name": "Meet Me in the City",
+      "url": "https://open.spotify.com/track/0vblqF5R4FyCAVBasjLGdu"
     },
     {
-      "added_at": "2022-10-09 13:30:34",
+      "added_at": "2022-11-25 14:27:39",
       "album": {
-        "name": "The Big Come Up",
-        "url": "https://open.spotify.com/album/1xVlDcp3ZHntqgvhHYw1rp"
+        "name": "\"Let's Rock\"",
+        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
       },
       "artists": [
         {
@@ -728,12 +408,12 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 181306,
-      "name": "The Breaks",
-      "url": "https://open.spotify.com/track/2W1OhZFB3uGJ3FpU19BpvZ"
+      "duration_ms": 178229,
+      "name": "Fire Walk With Me",
+      "url": "https://open.spotify.com/track/0UfkJ92b6D2CLHygzn8C6k"
     },
     {
-      "added_at": "2022-10-09 13:30:34",
+      "added_at": "2022-11-25 14:27:39",
       "album": {
         "name": "Attack & Release",
         "url": "https://open.spotify.com/album/1YHS3Fw8THvsKVVQ1znAqi"
@@ -744,12 +424,124 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 205600,
-      "name": "Oceans & Streams",
-      "url": "https://open.spotify.com/track/0RRS27vZj5U0N2eIBctL4K"
+      "duration_ms": 239146,
+      "name": "I Got Mine",
+      "url": "https://open.spotify.com/track/319zpJMCzpz50Uz0PsjlJN"
     },
     {
-      "added_at": "2022-10-09 13:30:34",
+      "added_at": "2022-11-25 14:27:39",
+      "album": {
+        "name": "Dropout Boogie",
+        "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 241960,
+      "name": "Didn't I Love You",
+      "url": "https://open.spotify.com/track/3ODV8hlwa7eLVuPMskWnQi"
+    },
+    {
+      "added_at": "2022-11-25 14:27:39",
+      "album": {
+        "name": "Turn Blue",
+        "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 213226,
+      "name": "10 Lovers",
+      "url": "https://open.spotify.com/track/5HPnumlogzZtpLEaORZjz1"
+    },
+    {
+      "added_at": "2022-11-25 14:27:39",
+      "album": {
+        "name": "El Camino",
+        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Run Right Back",
+      "url": "https://open.spotify.com/track/5HgAZuHFAU5qLLMYuIQkgq"
+    },
+    {
+      "added_at": "2022-11-25 14:27:39",
+      "album": {
+        "name": "Attack & Release",
+        "url": "https://open.spotify.com/album/1YHS3Fw8THvsKVVQ1znAqi"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 250706,
+      "name": "Psychotic Girl",
+      "url": "https://open.spotify.com/track/2mFnxVS2wZpqntPzZB17O1"
+    },
+    {
+      "added_at": "2022-11-25 14:27:39",
+      "album": {
+        "name": "The Big Come Up",
+        "url": "https://open.spotify.com/album/1xVlDcp3ZHntqgvhHYw1rp"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 153986,
+      "name": "Busted",
+      "url": "https://open.spotify.com/track/49MHRxcJij2MQ6x8BbwCBM"
+    },
+    {
+      "added_at": "2022-11-25 14:27:39",
+      "album": {
+        "name": "Turn Blue",
+        "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 180173,
+      "name": "Gotta Get Away",
+      "url": "https://open.spotify.com/track/0zo4T5c5VV42554ySEc5J6"
+    },
+    {
+      "added_at": "2022-11-25 14:27:39",
+      "album": {
+        "name": "Thickfreakness",
+        "url": "https://open.spotify.com/album/0GJH6shkenNdqkpGdsY8aa"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 228373,
+      "name": "Thickfreakness",
+      "url": "https://open.spotify.com/track/4m6uJViB1sb3OXErHUkkWk"
+    },
+    {
+      "added_at": "2022-11-25 14:27:39",
       "album": {
         "name": "Delta Kream",
         "url": "https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki"
@@ -760,12 +552,28 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 368702,
-      "name": "Crawling Kingsnake",
-      "url": "https://open.spotify.com/track/4Yk7nkmqitDCycO0Z0UsKe"
+      "duration_ms": 248511,
+      "name": "Poor Boy a Long Way From Home",
+      "url": "https://open.spotify.com/track/3YZFMK3zwAGbCMZQGWY47J"
     },
     {
-      "added_at": "2022-10-09 13:30:34",
+      "added_at": "2022-11-25 14:27:39",
+      "album": {
+        "name": "\"Let's Rock\"",
+        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 160501,
+      "name": "Sit Around And Miss You",
+      "url": "https://open.spotify.com/track/4yBxXm4dDL00YGdO5G9ubK"
+    },
+    {
+      "added_at": "2022-11-25 14:27:39",
       "album": {
         "name": "Rubber Factory",
         "url": "https://open.spotify.com/album/1rlGDm1KQJfDyT5v1U8Xk5"
@@ -781,10 +589,10 @@
       "url": "https://open.spotify.com/track/5wGmaQYNYxJZrnWykQG3HF"
     },
     {
-      "added_at": "2022-10-09 13:30:34",
+      "added_at": "2022-11-25 14:27:39",
       "album": {
-        "name": "The Big Come Up",
-        "url": "https://open.spotify.com/album/1xVlDcp3ZHntqgvhHYw1rp"
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
       },
       "artists": [
         {
@@ -792,15 +600,15 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 152253,
-      "name": "She Said, She Said",
-      "url": "https://open.spotify.com/track/1e8Y35sK08V3BbHKkgYZAM"
+      "duration_ms": 224480,
+      "name": "Sinister Kid",
+      "url": "https://open.spotify.com/track/78krcD2vFUXJ3Y0XXeiHWH"
     },
     {
-      "added_at": "2022-10-09 13:30:34",
+      "added_at": "2022-11-25 14:27:39",
       "album": {
-        "name": "Chulahoma",
-        "url": "https://open.spotify.com/album/6jJKeu4hPomUuMOM6iGVzQ"
+        "name": "Delta Kream",
+        "url": "https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki"
       },
       "artists": [
         {
@@ -808,12 +616,76 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 282760,
-      "name": "Have Mercy on Me",
-      "url": "https://open.spotify.com/track/5l4K6OAwpIUlAsItJoZwYr"
+      "duration_ms": 228972,
+      "name": "Going Down South",
+      "url": "https://open.spotify.com/track/3PeDt4Q8YIFDRph5UhxAaA"
     },
     {
-      "added_at": "2022-10-09 13:30:34",
+      "added_at": "2022-11-25 14:27:39",
+      "album": {
+        "name": "Attack & Release",
+        "url": "https://open.spotify.com/album/1YHS3Fw8THvsKVVQ1znAqi"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 190320,
+      "name": "Strange Times",
+      "url": "https://open.spotify.com/track/0dpNxKXHazvWga4MN6z2rn"
+    },
+    {
+      "added_at": "2022-11-25 14:27:39",
+      "album": {
+        "name": "Thickfreakness",
+        "url": "https://open.spotify.com/album/0GJH6shkenNdqkpGdsY8aa"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 184720,
+      "name": "Have Love Will Travel",
+      "url": "https://open.spotify.com/track/46XzvI0GXvRwK7LV6vdn2v"
+    },
+    {
+      "added_at": "2022-11-25 14:27:39",
+      "album": {
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "She's Long Gone",
+      "url": "https://open.spotify.com/track/26ZnmGlPGXaOzPDydAP9D5"
+    },
+    {
+      "added_at": "2022-11-25 14:27:39",
+      "album": {
+        "name": "Delta Kream",
+        "url": "https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 368702,
+      "name": "Crawling Kingsnake",
+      "url": "https://open.spotify.com/track/4Yk7nkmqitDCycO0Z0UsKe"
+    },
+    {
+      "added_at": "2022-11-25 14:27:39",
       "album": {
         "name": "Magic Potion",
         "url": "https://open.spotify.com/album/4jFfuHyKmhGeipjRmKIh8O"
@@ -827,6 +699,118 @@
       "duration_ms": 208226,
       "name": "You're the One",
       "url": "https://open.spotify.com/track/1ZJf6hZVPU1NoOPS5ThJvA"
+    },
+    {
+      "added_at": "2022-11-25 14:27:39",
+      "album": {
+        "name": "Brothers (Deluxe Remastered Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 300611,
+      "name": "The Only One",
+      "url": "https://open.spotify.com/track/65PE3GVXjkiQOTM7V7NbfY"
+    },
+    {
+      "added_at": "2022-11-25 14:27:39",
+      "album": {
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 198213,
+      "name": "Next Girl",
+      "url": "https://open.spotify.com/track/2UE4m8egf0aREmOi47sDOk"
+    },
+    {
+      "added_at": "2022-11-25 14:27:39",
+      "album": {
+        "name": "Delta Kream",
+        "url": "https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 355434,
+      "name": "Come on and Go with Me",
+      "url": "https://open.spotify.com/track/7M9Bru9dH3gHSmx6c7bo7j"
+    },
+    {
+      "added_at": "2022-11-25 14:27:39",
+      "album": {
+        "name": "Turn Blue",
+        "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 217120,
+      "name": "Waiting on Words",
+      "url": "https://open.spotify.com/track/7ctca1Hz43SyMcI4qUrpY7"
+    },
+    {
+      "added_at": "2022-11-25 14:27:39",
+      "album": {
+        "name": "Brothers (Deluxe Remastered Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 205037,
+      "name": "Too Afraid to Love You",
+      "url": "https://open.spotify.com/track/2LhnW02jJHTYgtBpk9BVrs"
+    },
+    {
+      "added_at": "2022-11-25 14:27:39",
+      "album": {
+        "name": "Rubber Factory",
+        "url": "https://open.spotify.com/album/1rlGDm1KQJfDyT5v1U8Xk5"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 208173,
+      "name": "Girl Is on My Mind",
+      "url": "https://open.spotify.com/track/4KVYCdoWmDa4KS1OY6sgMa"
+    },
+    {
+      "added_at": "2022-11-25 14:27:39",
+      "album": {
+        "name": "Attack & Release",
+        "url": "https://open.spotify.com/album/1YHS3Fw8THvsKVVQ1znAqi"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 205600,
+      "name": "Oceans & Streams",
+      "url": "https://open.spotify.com/track/0RRS27vZj5U0N2eIBctL4K"
     }
   ],
   "unique_name": "This Is The Black Keys",

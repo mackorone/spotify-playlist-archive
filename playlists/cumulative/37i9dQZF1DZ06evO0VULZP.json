@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "9th & Walnut",
+        "url": "https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56001,
+      "name": "Baby Doncha Know",
+      "url": "https://open.spotify.com/track/1JlWpNVAhJ3bh6ofyW5gjU"
+    },
+    {
+      "album": {
         "name": "Milo Goes to College",
         "url": "https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8"
       },
@@ -37,7 +55,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 134066,
       "name": "Bikeage",
       "url": "https://open.spotify.com/track/3H7lUDRaFAXi5hcEzd2GsU"
@@ -73,7 +91,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 107906,
       "name": "Catalina",
       "url": "https://open.spotify.com/track/7fvcx0cXsc7FZhViJAtRxg"
@@ -181,7 +199,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 65531,
       "name": "Crepe Suzette",
       "url": "https://open.spotify.com/track/0ylpeLmX7i15s6IpMpBB8M"
@@ -199,7 +217,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 104400,
       "name": "Descendents",
       "url": "https://open.spotify.com/track/6REkhlp3lPDXlhyaPWRUby"
@@ -217,7 +235,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 132906,
       "name": "Enjoy",
       "url": "https://open.spotify.com/track/1z3URfQ4jYzrFmStzUu20i"
@@ -397,7 +415,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 157333,
       "name": "H\u00fcrtin' Cr\u00fce",
       "url": "https://open.spotify.com/track/0FaXeLoE7VHzwjpkVX8KBx"
@@ -710,6 +728,24 @@
     },
     {
       "album": {
+        "name": "I Don't Want to Grow Up",
+        "url": "https://open.spotify.com/album/5kOp5XHhmMoG2e41VyVQC0"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107200,
+      "name": "Pervert",
+      "url": "https://open.spotify.com/track/5R3w9JrCCcwjkXUbGAmmEr"
+    },
+    {
+      "album": {
         "name": "9th & Walnut",
         "url": "https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs"
       },
@@ -721,7 +757,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 134716,
       "name": "Ride the Wild",
       "url": "https://open.spotify.com/track/14FjdxiIwPJBJteMrqHBoL"
@@ -793,7 +829,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": "2022-10-13",
       "duration_ms": 153893,
       "name": "She Loves Me",
       "url": "https://open.spotify.com/track/67qUEZ8HOzdz3110FohG9k"
@@ -991,7 +1027,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 181466,
       "name": "Van",
       "url": "https://open.spotify.com/track/2SJHPnqYZPBAOFXqqiMUU9"

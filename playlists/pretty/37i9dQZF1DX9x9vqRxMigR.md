@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9x9vqRxMigR.md) - [plain]
 
 > Learn more at <a href="https://folk.org/programs/conference/">folk.org/conference</a>\. Cover: Kyshona Armstrong
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,046 likes - 153 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,344 likes - 153 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9x9vqRxMigR.md) - [plain]
 | 10 | [Walk Me to the River](https://open.spotify.com/track/0b5qt9fdr0XsbfbPvgV1CL) | [Misty River](https://open.spotify.com/artist/4lXGbu3TUiwos5jtggGtDw) | [Walk Me to the River](https://open.spotify.com/album/1Iba00W7fjl158welETZNf) | 3:32 |
 | 11 | [I Want to See the Bright Lights Tonight](https://open.spotify.com/track/5yzXmGleWUhbSAossEPScG) | [BettySoo](https://open.spotify.com/artist/1zyOUBRKVnM6VbtzYE4piR) | [I Want to See the Bright Lights Tonight](https://open.spotify.com/album/6FakylEaAdGj0Cfrn6et0C) | 4:31 |
 | 12 | [HISTORY](https://open.spotify.com/track/12TLBNeRIhUPgGIkacXrVO) | [Beatrice Deer](https://open.spotify.com/artist/3YEhsztAtjqpC0JikHMmYe) | [HISTORY](https://open.spotify.com/album/4GQP3AyTjmTd9e8CmuYzWP) | 3:31 |
-| 13 | [Don't You Ever Change](https://open.spotify.com/track/5dRCfWzZPSKfmoDwGGrilX) | [Peter Mulvey](https://open.spotify.com/artist/0HPmghHJKFdMOxSkXzsm0h), [SistaStrings](https://open.spotify.com/artist/6fDOr1LBuzVBZ2l9C4nynf) | [Live at the Cafe Carpe](https://open.spotify.com/album/6PxVagudUXGBHXN7KEp2Dv) | 2:46 |
+| 13 | [Don't You Ever Change](https://open.spotify.com/track/51JX3y8j9ElKyKSP7FVvu7) | [Peter Mulvey](https://open.spotify.com/artist/0HPmghHJKFdMOxSkXzsm0h), [SistaStrings](https://open.spotify.com/artist/6fDOr1LBuzVBZ2l9C4nynf) | [Live at The Cafe Carpe](https://open.spotify.com/album/17LG2iTmuVc1xacAu8a9gB) | 2:46 |
 | 14 | [All I Wanna Do](https://open.spotify.com/track/3bxgOIJoj1TrNmMy88T18J) | [Suzie Vinnick](https://open.spotify.com/artist/2sMmcyVPI1JbcagQFS4dZg) | [Shake the Love Around](https://open.spotify.com/album/2F9zizZgyeVpYnjh3MXFsA) | 3:46 |
 | 15 | [Kites](https://open.spotify.com/track/7xwNdMaP5A8fxaTAwARJ3X) | [House of Waters](https://open.spotify.com/artist/4a8MGNthjVGNBU6AdBQT7x) | [Rising](https://open.spotify.com/album/2tfVDWZlGOrAEz4M7tpZfn) | 8:07 |
 | 16 | [Falling](https://open.spotify.com/track/7m82lmVonbpwu4TSfsTHba) | [Sophie Lukacs](https://open.spotify.com/artist/2ers7RpOI531W5Zvg9hnsk) | [Falling](https://open.spotify.com/album/4WWH7qknS7sXWfRdgGlCuw) | 3:47 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9x9vqRxMigR.md) - [plain]
 | 19 | [Brave Land](https://open.spotify.com/track/0zBKPL06WMlQYgPzHBnmOz) | [Raine Hamilton](https://open.spotify.com/artist/0i27dfajiXoyMl5m9zF2Fp) | [Brave Land](https://open.spotify.com/album/3fMMI9njh8Wa4EQfeCG4an) | 3:53 |
 | 20 | [You Make Me Wanna Dance](https://open.spotify.com/track/4yonD9lIO1eTrSofS0qsld) | [Dan Weber](https://open.spotify.com/artist/2IW8tpYJv3nKXyNi9wizuy) | [You Make Me Wanna Dance](https://open.spotify.com/album/2keZoHj1xA8mTgdWm5U7eg) | 3:08 |
 | 21 | [American Silence](https://open.spotify.com/track/4P62qR1305Bn5YjwTo2wPc) | [Chris Pierce](https://open.spotify.com/artist/559oVBc653k5TOpiwhhr3r) | [American Silence](https://open.spotify.com/album/7a52YjvdkaJdxcziVjo1Yx) | 2:55 |
-| 22 | [Travelin' Woman \- Live](https://open.spotify.com/track/7vv9La4RcTE4bYUmWw0AKf) | [Jess Klein](https://open.spotify.com/artist/2KDZ8Vb3dZnQ8jnptHBdzD) | [Bootleg](https://open.spotify.com/album/3qEnkEbtsJmstbsgu9raBd) | 6:06 |
+| 22 | [Travelin' Woman \- Live](https://open.spotify.com/track/2lty75qPKft6GAZV038SKg) | [Jess Klein](https://open.spotify.com/artist/2KDZ8Vb3dZnQ8jnptHBdzD) | [Bootleg \(Live From Austin, Texas\)](https://open.spotify.com/album/2zp40MVQUYXRc9GKMyjdfy) | 6:06 |
 | 23 | [Play That Song Again](https://open.spotify.com/track/6bMqAFXZkfp9q83eM2U3Q9) | [Jeffery Straker](https://open.spotify.com/artist/43y45lgRCYYP5B2DVoaAC7) | [Just Before Sunrise](https://open.spotify.com/album/7rTw4kmsNUjbj04BmX77dh) | 4:03 |
 | 24 | [Say Can You See](https://open.spotify.com/track/4V2PDGMJnPsuHnToEnjlkA) | [Scott Cook](https://open.spotify.com/artist/3NPSzus5OqXRBS42d7EuJe) | [Say Can You See](https://open.spotify.com/album/3CR4QgZCR7DIizxPnXORJC) | 4:02 |
 | 25 | [Hungover Eyes](https://open.spotify.com/track/2fzqMjT5OsO6Fjv1p2JoiH) | [Adrian + Meredith](https://open.spotify.com/artist/4qkOE9F3pGhhestpgh80m9) | [Bad For Business](https://open.spotify.com/album/7xhjFl71Ib8zTwky12Zi5C) | 2:47 |
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9x9vqRxMigR.md) - [plain]
 | 87 | [Je veux m'y marier / Le talencourt](https://open.spotify.com/track/1OO5XumJ22bglUWWs3pId3) | [Grosse Isle](https://open.spotify.com/artist/608gEqY93wuJtHdofldWwR) | [Le bonhomme sept heures / The Bonesetter](https://open.spotify.com/album/52ylZOnjjntlhhTcjaHbNH) | 4:21 |
 | 88 | [Ku'u Poli'ahu](https://open.spotify.com/track/2sfZQiHXz95HPaMX9hZ1bl) | [Kalani Pe'a](https://open.spotify.com/artist/2dn7TmEojNdgWeRhbO15hg) | [E Walea](https://open.spotify.com/album/5lm1nmjm0NWth85dImVdgt) | 3:43 |
 | 89 | [The Bear \(Trio\)](https://open.spotify.com/track/3IMVnJdSxf273uAT13oWVV) | [Matt the Electrician](https://open.spotify.com/artist/4OqDaxbU5qV78AIr6HneTn) | [The Doubles](https://open.spotify.com/album/1qGM9zumfbz1UjQ1DQO83V) | 4:24 |
-| 90 | [The It Girl](https://open.spotify.com/track/04Tk8Bp1n4PPRFJGTNCooO) | [Raye Zaragoza](https://open.spotify.com/artist/14w8BJMukAOb1KQuY3d5Jc) | [Woman in Color](https://open.spotify.com/album/7pPR3wabtIfX0k3qN8uGeY) | 2:42 |
+| 90 | [The It Girl](https://open.spotify.com/track/3v2Zzn2Dh5QpVCiV2jkHsa) | [Raye Zaragoza](https://open.spotify.com/artist/14w8BJMukAOb1KQuY3d5Jc) | [Woman in Color](https://open.spotify.com/album/1VFybOfoUaQexs9OTabswg) | 2:42 |
 | 91 | [That's Me](https://open.spotify.com/track/1o4OnhyEpocW1O69xDybmM) | [Tara MacLean](https://open.spotify.com/artist/1It4wk41Lhrspxd3awN9FJ) | [Silence](https://open.spotify.com/album/0xOrJZIcjEmuLFygeCY8Kv) | 4:34 |
 | 92 | [Helpless Wanderer](https://open.spotify.com/track/4Ft8AHTuhuRi0e3rMM9LHA) | [Underhill Rose](https://open.spotify.com/artist/3jrCADOrZCtzhNMCOekvPm) | [Something Real](https://open.spotify.com/album/1aLIPBFFED0RqXtI90dM8X) | 3:17 |
 | 93 | [Malama Mau Hawai'i](https://open.spotify.com/track/0DA5kNBQY5Fr8mPYcw9kHW) | [Waipuna](https://open.spotify.com/artist/67Fj3eYbIWEdcJUhAPl2YJ) | [Mana'o Pili](https://open.spotify.com/album/1LNcOfjnESfJ1SK9cNY4o9) | 4:53 |
@@ -136,7 +136,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9x9vqRxMigR.md) - [plain]
 | 126 | [The Long Way Around](https://open.spotify.com/track/0QrbEUOAudJejbINJ4CrF0) | [Gaelynn Lea](https://open.spotify.com/artist/68zltLWXjBB3dIqHikDXZy) | [The Long Way Around](https://open.spotify.com/album/2WCLjdMsLwL0pJSBL7dHhf) | 4:42 |
 | 127 | [All My Tears](https://open.spotify.com/track/2V5R8G8QTVOWBDhEdix5bK) | [Hayde Bluegrass Orchestra](https://open.spotify.com/artist/5L3ac0hlDxpbLBj3oQq3Ly) | [Migrants](https://open.spotify.com/album/6RxcdpNk84CB6gLrWZz4kO) | 5:17 |
 | 128 | [100 Years](https://open.spotify.com/track/5wLFq2Gu7YomnXRw8wwX6g) | [Amanda Rheaume](https://open.spotify.com/artist/3AolL1C2j6PAqp3BuWzsRZ) | [100 Years](https://open.spotify.com/album/3bpXxgMyuQNlM1EdM7VI7Y) | 3:42 |
-| 129 | [Before I Do](https://open.spotify.com/track/2oSH6sOAP0YOq6qMuO0ZMK) | [Barbra Lica](https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D) | [You're Fine](https://open.spotify.com/album/7AnOsuntfZx3d3Vrnt2z3B) | 3:18 |
+| 129 | [Before I Do](https://open.spotify.com/track/1boVXkkZMBJaziXMLXCiFG) | [Barbra Lica](https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D) | [You're Fine](https://open.spotify.com/album/3LCCg30JxlBYnoym6eUA3J) | 3:18 |
 | 130 | [Tutti Frutti \(Romania\)](https://open.spotify.com/track/6NJIni5Ox3ctX2UPi226pK) | [Tamar Ilana](https://open.spotify.com/artist/6yg31IgiCsfyMbYZ7uqt49), [Ventanas](https://open.spotify.com/artist/5pJv6qSU0xDncvHANxHHz6) | [Mistrāl](https://open.spotify.com/album/2mMjuNBDElmQDXBBRL6O3H) | 2:50 |
 | 131 | [Willow Witchin' \(Hot Take\)](https://open.spotify.com/track/6QaEUzzNtspNmCAdG4OUb6) | [Nat Myers](https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS) | [Willow Witchin' \(Hot Take\)](https://open.spotify.com/album/3DO5TaKuot0DPdfrDxZxZl) | 2:30 |
 | 132 | [Chicago Lightning](https://open.spotify.com/track/6iV92WJqN9bjroWHVpaFw5) | [A Tale Of Two](https://open.spotify.com/artist/0UIRFGfnwxgKe1DEoCLMT7) | [Chicago Lightning](https://open.spotify.com/album/5mRggL0ry5MpePYb39PNT6) | 3:52 |
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9x9vqRxMigR.md) - [plain]
 | 152 | [Colorblind](https://open.spotify.com/track/1XdZWeMVsFrzso8pd77g7E) | [Mary Bragg](https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj), [Peter Groenwald](https://open.spotify.com/artist/2wqqNArnu0CDW5rZFHVAYK) | [Colorblind](https://open.spotify.com/album/5Ptnky6pcPheTjCPrBsR1t) | 2:58 |
 | 153 | [Yemaya \(Ile Ladde\)](https://open.spotify.com/track/3oHbYtoQrQwjakUd4OfzYz) | [Okan](https://open.spotify.com/artist/3lzMXGRYV6IqjfU16Igakt), [Rauzzy Ferrer](https://open.spotify.com/artist/2kyhJaXsjTZOEdp5LVpnj0) | [Yemaya \(Ile Ladde\)](https://open.spotify.com/album/3bl3gaq46FVVtgJksDM9up) | 4:22 |
 
-Snapshot ID: `MTY1MDkwOTUzMSwwMDAwMDAwMGI4NTJkNWVhYWEwZmZkNWM2Mzc5ZGFjZDg0N2EzYmQ1`
+Snapshot ID: `MTY1MDkwOTUzMSwwMDAwMDAwMGJjMWZmMzkwMWU5YzQxYjRmZmRiYTAxZDEyNTFkZTg1`

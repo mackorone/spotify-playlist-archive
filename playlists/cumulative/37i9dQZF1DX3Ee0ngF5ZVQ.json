@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Corey Kent",
+  "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Randy Rogers Band",
   "name": "Texas Country Now",
   "published_playlist_ids": [
     "4X9VlF1gslCvOG5f1Uvt9a"
@@ -23,6 +23,24 @@
       "duration_ms": 166600,
       "name": "'94 Camaro",
       "url": "https://open.spotify.com/track/5gDN2CpJWeRX6CG6U9e7P2"
+    },
+    {
+      "album": {
+        "name": "'Til I See You Again",
+        "url": "https://open.spotify.com/album/4cEjb8X4fIzfLxVkpsAxYe"
+      },
+      "artists": [
+        {
+          "name": "Catie Offerman",
+          "url": "https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211515,
+      "name": "'Til I See You Again",
+      "url": "https://open.spotify.com/track/14NYAu8zKQ8maBfDCA2FAt"
     },
     {
       "album": {
@@ -402,6 +420,24 @@
     },
     {
       "album": {
+        "name": "FREE",
+        "url": "https://open.spotify.com/album/3rSKjvRVAGtNE038X3pjXb"
+      },
+      "artists": [
+        {
+          "name": "Chad Cooke Band",
+          "url": "https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187563,
+      "name": "Anderson County",
+      "url": "https://open.spotify.com/track/13x5ByGTp5k2Eu1nFCM0cc"
+    },
+    {
+      "album": {
         "name": "Anderson County",
         "url": "https://open.spotify.com/album/7qT9Yz0XXRIQBvSHAYz8FI"
       },
@@ -413,7 +449,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-07",
       "duration_ms": 187563,
       "name": "Anderson County",
       "url": "https://open.spotify.com/track/75VAQ0SRTBKzqzAZuIepN8"
@@ -507,6 +543,24 @@
       "duration_ms": 208392,
       "name": "Baby Do",
       "url": "https://open.spotify.com/track/1SfmBUgRfSDAl7pbfY6ks0"
+    },
+    {
+      "album": {
+        "name": "Baby Don't",
+        "url": "https://open.spotify.com/album/5GrCqh0RekK6OMylsM5B36"
+      },
+      "artists": [
+        {
+          "name": "Amanda Kate Ferris",
+          "url": "https://open.spotify.com/artist/70fLCgRxbluMfGRaiWAr49"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183763,
+      "name": "Baby Don't",
+      "url": "https://open.spotify.com/track/7e1aZNKzXgevv7SiLo4I6G"
     },
     {
       "album": {
@@ -917,7 +971,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 206178,
       "name": "Breaking Every Heart In Texas",
       "url": "https://open.spotify.com/track/4hJYNs2uklbeUle7SWit80"
@@ -949,6 +1003,10 @@
         {
           "name": "The Lowdown Drifters",
           "url": "https://open.spotify.com/artist/49tymMExHfzPYTfTRA3FaG"
+        },
+        {
+          "name": "Taylor Hunnicutt",
+          "url": "https://open.spotify.com/artist/1Pgmihwxrgcm4UOqN8Mzom"
         }
       ],
       "date_added": "2022-10-01",
@@ -1097,7 +1155,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-03",
+      "date_removed": "2022-11-13",
       "duration_ms": 169853,
       "name": "Burn It Down - 717 Tapes",
       "url": "https://open.spotify.com/track/5NqaRQWSVg9mnnmdCZJ17s"
@@ -1299,7 +1357,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 187370,
       "name": "Chisholm Trail",
       "url": "https://open.spotify.com/track/4652M2wjieteWqTaP3AXfK"
@@ -1720,6 +1778,24 @@
     },
     {
       "album": {
+        "name": "Fair Weather Cowboy",
+        "url": "https://open.spotify.com/album/54FwkC0pz1pFU9IfFajgqI"
+      },
+      "artists": [
+        {
+          "name": "Carson Jeffrey",
+          "url": "https://open.spotify.com/artist/4wDMfwJrSuFKolGyGC5K1l"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203156,
+      "name": "Desert Rose",
+      "url": "https://open.spotify.com/track/6EmGsOMMtMTri9jgFRefQl"
+    },
+    {
+      "album": {
         "name": "Devil's Den",
         "url": "https://open.spotify.com/album/5y65PMxRxf3VIgrC0BBViv"
       },
@@ -2017,7 +2093,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 225800,
       "name": "Everything Has Your Memory",
       "url": "https://open.spotify.com/track/0KYC7enraB6AVZ5k7cdfKk"
@@ -2057,6 +2133,24 @@
       "duration_ms": 206646,
       "name": "Excuses",
       "url": "https://open.spotify.com/track/2dXZhZ6OgUPAaiwJs8yR79"
+    },
+    {
+      "album": {
+        "name": "Homecoming",
+        "url": "https://open.spotify.com/album/1Om7EoqiNsXCCMeiTzC9BZ"
+      },
+      "artists": [
+        {
+          "name": "Randy Rogers Band",
+          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208827,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/40TItUSmH99bXtbzp0pl4H"
     },
     {
       "album": {
@@ -2591,7 +2685,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-03",
+      "date_removed": null,
       "duration_ms": 237077,
       "name": "Hang Me Out to Dry",
       "url": "https://open.spotify.com/track/5SVtmwF54HuB6pvNUl72s6"
@@ -2715,7 +2809,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 272880,
       "name": "Harder Stuff",
       "url": "https://open.spotify.com/track/6BzCBm0qXbMsDQYDUAYQNO"
@@ -2737,6 +2831,24 @@
       "duration_ms": 205230,
       "name": "Hate Me in My Hometown",
       "url": "https://open.spotify.com/track/2hLrxME49F4Bs8YXZCWeNQ"
+    },
+    {
+      "album": {
+        "name": "Haunted House",
+        "url": "https://open.spotify.com/album/6VIrPVixLcKYpMCHXZssKD"
+      },
+      "artists": [
+        {
+          "name": "Treaty Oak Revival",
+          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272666,
+      "name": "Haunted House",
+      "url": "https://open.spotify.com/track/1wLfbqkQRZoKuqN0MG4vmX"
     },
     {
       "album": {
@@ -2787,7 +2899,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 217839,
       "name": "Heart for Just One Team",
       "url": "https://open.spotify.com/track/4yVht4ghXbMAPcj3NZJRGR"
@@ -3090,6 +3202,24 @@
     },
     {
       "album": {
+        "name": "Hurt No More",
+        "url": "https://open.spotify.com/album/2XYMwjnmcRzpGAPmJQrQyG"
+      },
+      "artists": [
+        {
+          "name": "Pecos & the Rooftops",
+          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214582,
+      "name": "Hurt No More",
+      "url": "https://open.spotify.com/track/3qJ5OBunIPNIvU4WAI6RYh"
+    },
+    {
+      "album": {
         "name": "I Can't Even Drink Straight",
         "url": "https://open.spotify.com/album/3HAnMO7pzNRKMuTU2U99VD"
       },
@@ -3198,6 +3328,24 @@
     },
     {
       "album": {
+        "name": "FREE",
+        "url": "https://open.spotify.com/album/3rSKjvRVAGtNE038X3pjXb"
+      },
+      "artists": [
+        {
+          "name": "Chad Cooke Band",
+          "url": "https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224894,
+      "name": "I Just Want You",
+      "url": "https://open.spotify.com/track/1saE5pulEvPKbcWyRX6stQ"
+    },
+    {
+      "album": {
         "name": "I Just Want You",
         "url": "https://open.spotify.com/album/7cdDtUoGbIgVDEkFaS3rA6"
       },
@@ -3209,7 +3357,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-06",
       "duration_ms": 224894,
       "name": "I Just Want You",
       "url": "https://open.spotify.com/track/2RAuxKLHNvjn9fBRJVTGqi"
@@ -3530,6 +3678,24 @@
     },
     {
       "album": {
+        "name": "Keep Up With A Cowgirl",
+        "url": "https://open.spotify.com/album/3QOCMsxkLsBT1xtqTq4pvg"
+      },
+      "artists": [
+        {
+          "name": "David Adam Byrnes",
+          "url": "https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-19",
+      "duration_ms": 213759,
+      "name": "Keep up with a Cowgirl",
+      "url": "https://open.spotify.com/track/5OMM7WwSx0yzo95vSSdC44"
+    },
+    {
+      "album": {
         "name": "Know That by Now",
         "url": "https://open.spotify.com/album/6tZ6olAlfKCuB3ZWr741LC"
       },
@@ -3545,6 +3711,24 @@
       "duration_ms": 241929,
       "name": "Know That by Now",
       "url": "https://open.spotify.com/track/1yL8k3wylADawLh7T5BzbO"
+    },
+    {
+      "album": {
+        "name": "Legends",
+        "url": "https://open.spotify.com/album/7fw5CcuAmxFL4eSwoDa69u"
+      },
+      "artists": [
+        {
+          "name": "Colton Venner",
+          "url": "https://open.spotify.com/artist/2j8Sh4ZxKM8iqE55xUoR1L"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "Legends",
+      "url": "https://open.spotify.com/track/3tMySztcJ2hrYLHOAXpCVc"
     },
     {
       "album": {
@@ -3808,6 +3992,24 @@
     },
     {
       "album": {
+        "name": "Longcut",
+        "url": "https://open.spotify.com/album/3CD0S22d8MEpuG34AmINSC"
+      },
+      "artists": [
+        {
+          "name": "Mike Ryan",
+          "url": "https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200556,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/587HQbopl8sKlTxkUs4xoR"
+    },
+    {
+      "album": {
         "name": "Loser Mentality",
         "url": "https://open.spotify.com/album/3zCXhcu8LJRfSdmQen1eN6"
       },
@@ -3985,7 +4187,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 254033,
       "name": "Married Alone (feat. Vince Gill)",
       "url": "https://open.spotify.com/track/0zvwzNNpHS4Z4cLk1KNOzD"
@@ -4158,6 +4360,24 @@
     },
     {
       "album": {
+        "name": "Neon You",
+        "url": "https://open.spotify.com/album/760jwSfqYPJ0qmPlTPOQaz"
+      },
+      "artists": [
+        {
+          "name": "Don Louis",
+          "url": "https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187906,
+      "name": "Neon You",
+      "url": "https://open.spotify.com/track/2AlEprA31NMOha3nS5TLvI"
+    },
+    {
+      "album": {
         "name": "New Tattoos",
         "url": "https://open.spotify.com/album/780rPEbni816HNo8Fk2Yom"
       },
@@ -4223,7 +4443,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 225180,
       "name": "Nothing But Love Songs",
       "url": "https://open.spotify.com/track/7jJ32IueHuaOZmvp4npqCU"
@@ -4425,7 +4645,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 221871,
       "name": "People Who Care",
       "url": "https://open.spotify.com/track/1SMZouFRcuhqr9ugQXBn6W"
@@ -4447,6 +4667,24 @@
       "duration_ms": 213643,
       "name": "Phones Don't Work",
       "url": "https://open.spotify.com/track/20XMAhJsX2qZtzfaCxn9Ml"
+    },
+    {
+      "album": {
+        "name": "Pick Up Your Phone",
+        "url": "https://open.spotify.com/album/0F2VRfAWEGxeWfKs8HCXnB"
+      },
+      "artists": [
+        {
+          "name": "Tanner Usrey",
+          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180558,
+      "name": "Pick Up Your Phone",
+      "url": "https://open.spotify.com/track/4IIAWg1xgtfNNf1uUy43NY"
     },
     {
       "album": {
@@ -4515,7 +4753,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 238132,
       "name": "Pleasure in the Pain (Acoustic)",
       "url": "https://open.spotify.com/track/0SnkVKNi88G8lKlXala0Nu"
@@ -4555,6 +4793,24 @@
       "duration_ms": 178469,
       "name": "Pretty Ugly",
       "url": "https://open.spotify.com/track/6I29jkpQ7k7iIbQqVIgZmG"
+    },
+    {
+      "album": {
+        "name": "Priorities",
+        "url": "https://open.spotify.com/album/6DFYfdqLixWqjs3JN23YgC"
+      },
+      "artists": [
+        {
+          "name": "Seth Ward",
+          "url": "https://open.spotify.com/artist/55kr1RaQ3UONiM6f2AzeHt"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237785,
+      "name": "Priorities",
+      "url": "https://open.spotify.com/track/6uUehOfuEUy1vQmkL8AwaE"
     },
     {
       "album": {
@@ -4937,7 +5193,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 174327,
       "name": "Settle for a Beer (with Triston Marez)",
       "url": "https://open.spotify.com/track/115CHmW7Y3cRC0qYZyeUGM"
@@ -5063,7 +5319,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 192680,
       "name": "Shuffle",
       "url": "https://open.spotify.com/track/7dqCwV8GYfRrJzQO1hdBRE"
@@ -5175,6 +5431,24 @@
       "duration_ms": 181617,
       "name": "Somewhere in the Sun",
       "url": "https://open.spotify.com/track/7bcOIHdpOCJo3tzhdZmBQ8"
+    },
+    {
+      "album": {
+        "name": "Sound of Rain",
+        "url": "https://open.spotify.com/album/26lISXeKn8Lh59mPRQ2wDY"
+      },
+      "artists": [
+        {
+          "name": "Mason Lively",
+          "url": "https://open.spotify.com/artist/2X5y89rFBfI4uWeEm0XMAs"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197729,
+      "name": "Sound of Rain",
+      "url": "https://open.spotify.com/track/1i63IAjJXD2HsFozWGfU8e"
     },
     {
       "album": {
@@ -5402,6 +5676,24 @@
     },
     {
       "album": {
+        "name": "Superhero",
+        "url": "https://open.spotify.com/album/3VINTQx8hUezyee8AX0oFX"
+      },
+      "artists": [
+        {
+          "name": "Cameron Sacky Band",
+          "url": "https://open.spotify.com/artist/7cuhHElVWaF67zEb1cGIG0"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241749,
+      "name": "Superhero",
+      "url": "https://open.spotify.com/track/60JFHHGFvMprnCB6kh25jU"
+    },
+    {
+      "album": {
         "name": "Sweet Irene",
         "url": "https://open.spotify.com/album/2WCm8RARzrO6oaq0BtIpEK"
       },
@@ -5543,10 +5835,28 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 221666,
       "name": "Texas & You",
       "url": "https://open.spotify.com/track/1rXVMnFigwPfk8tNnLLj3z"
+    },
+    {
+      "album": {
+        "name": "Love & Heartbreak",
+        "url": "https://open.spotify.com/album/7hPYGbGuvnijMDFS70BQHK"
+      },
+      "artists": [
+        {
+          "name": "Caden Gillard",
+          "url": "https://open.spotify.com/artist/0Aql1V8loJKhIE3fQuqKdK"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233306,
+      "name": "Texas Moon",
+      "url": "https://open.spotify.com/track/3W5rOs2jB7R3H0PEBxIiJ1"
     },
     {
       "album": {
@@ -5695,7 +6005,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 194499,
       "name": "The Old Man Said - Radio Edit",
       "url": "https://open.spotify.com/track/0dSDsfaUbBAqoDw4zBkhYv"
@@ -5918,6 +6228,24 @@
     },
     {
       "album": {
+        "name": "Took the Fall",
+        "url": "https://open.spotify.com/album/4xRrlIj4QSLvwM2DSIykY4"
+      },
+      "artists": [
+        {
+          "name": "Grace Tyler",
+          "url": "https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216585,
+      "name": "Took the Fall",
+      "url": "https://open.spotify.com/track/2tyvDKEqNzMGztpRJBbazY"
+    },
+    {
+      "album": {
         "name": "Trenches",
         "url": "https://open.spotify.com/album/71uqGOKL1QEbwqtqTyFDTb"
       },
@@ -6134,6 +6462,24 @@
     },
     {
       "album": {
+        "name": "Walk Your Line",
+        "url": "https://open.spotify.com/album/5hWuNENhxZlk2im8Q1Nxdd"
+      },
+      "artists": [
+        {
+          "name": "Presley Drake",
+          "url": "https://open.spotify.com/artist/0IQG9LULw1mZehtAXtF9ld"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218083,
+      "name": "Walk Your Line",
+      "url": "https://open.spotify.com/track/0tHRdq9LHL0Dq9KHo1oPiN"
+    },
+    {
+      "album": {
         "name": "Wannabe",
         "url": "https://open.spotify.com/album/5XrGiVliWSPdiaIySBz5y4"
       },
@@ -6309,7 +6655,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 248666,
       "name": "Western Tears",
       "url": "https://open.spotify.com/track/5in7jYPcrDH7vXB0C9vffq"
@@ -6345,7 +6691,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 225060,
       "name": "What's Your Drinkin' Song",
       "url": "https://open.spotify.com/track/3oxNPAlVwXNOCHEEvntITl"
@@ -6451,7 +6797,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 211920,
       "name": "Where Cotton Is King",
       "url": "https://open.spotify.com/track/54nEY2U21ezqHezg1XNeqr"
@@ -6628,6 +6974,42 @@
     },
     {
       "album": {
+        "name": "Why, Dallas?",
+        "url": "https://open.spotify.com/album/5KIHgSEWi3mJ6qTVs5bGGl"
+      },
+      "artists": [
+        {
+          "name": "Bo Armstrong",
+          "url": "https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Why, Dallas?",
+      "url": "https://open.spotify.com/track/0aG9eIioKkXS4aicxhyuT8"
+    },
+    {
+      "album": {
+        "name": "How You Know You Made It",
+        "url": "https://open.spotify.com/album/7p5HIg6VYtRgDKYNBcVLge"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 199733,
+      "name": "Wild as Her",
+      "url": "https://open.spotify.com/track/24n04jHyMQrEf9bErsTd2g"
+    },
+    {
+      "album": {
         "name": "Wild as Her",
         "url": "https://open.spotify.com/album/4mGSNYd2LF27N8MaFwxNFg"
       },
@@ -6675,7 +7057,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 167520,
       "name": "Wild Horses",
       "url": "https://open.spotify.com/track/0fC6Zc3DJtwyH58eCXox3v"
@@ -6769,7 +7151,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 210241,
       "name": "Wishin' on an Airplane",
       "url": "https://open.spotify.com/track/1PPFRpaI3WhDnRi3BSLsEy"

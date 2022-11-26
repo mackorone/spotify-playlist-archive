@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "Addiction",
+        "url": "https://open.spotify.com/album/79WY9MZSvE8n84Nn0U8UEX"
+      },
+      "artists": [
+        {
+          "name": "Vanilla Mousse",
+          "url": "https://open.spotify.com/artist/4DGY1BlqxH29zb9DGXLpB3"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259775,
+      "name": "Addiction",
+      "url": "https://open.spotify.com/track/2ZRrHoDIwkUj66lyJQkxct"
+    },
+    {
+      "album": {
         "name": "All Night Long",
         "url": "https://open.spotify.com/album/1ynvJyDJzoxQLD2S1quViA"
       },
@@ -103,7 +121,7 @@
       },
       "artists": [
         {
-          "name": "DongYan Gozupa",
+          "name": "DongYang Gozupa",
           "url": "https://open.spotify.com/artist/5DwF6Eil1DUmqdR4uiY9Qw"
         }
       ],
@@ -325,7 +343,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 221506,
       "name": "Bomijota",
       "url": "https://open.spotify.com/track/4S85ai7PnqRaA5yNuqkC76"
@@ -383,6 +401,24 @@
       "duration_ms": 194146,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/62PaY0S6h9UofRsMiesevo"
+    },
+    {
+      "album": {
+        "name": "City Night",
+        "url": "https://open.spotify.com/album/0Cu8nME5imYzMk2DS6hp3U"
+      },
+      "artists": [
+        {
+          "name": "Vanilla Mousse",
+          "url": "https://open.spotify.com/artist/4DGY1BlqxH29zb9DGXLpB3"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274950,
+      "name": "City Night",
+      "url": "https://open.spotify.com/track/4fmhuULKBpx4QfXXY4NSQ8"
     },
     {
       "album": {
@@ -559,10 +595,28 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 221875,
       "name": "Dive",
       "url": "https://open.spotify.com/track/0Ots0hGoPjgRw99GdQzJjc"
+    },
+    {
+      "album": {
+        "name": "Dive",
+        "url": "https://open.spotify.com/album/4CSodYxHpQLracYVV0emB7"
+      },
+      "artists": [
+        {
+          "name": "Luli Lee",
+          "url": "https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221875,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/1DC1Hhv3t5jnYrDNQbZu7u"
     },
     {
       "album": {
@@ -677,7 +731,7 @@
       },
       "artists": [
         {
-          "name": "Lacuna \ub77c\ucfe0\ub098",
+          "name": "Lacuna",
           "url": "https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen"
         }
       ],
@@ -695,7 +749,7 @@
       },
       "artists": [
         {
-          "name": "DongYan Gozupa",
+          "name": "DongYang Gozupa",
           "url": "https://open.spotify.com/artist/5DwF6Eil1DUmqdR4uiY9Qw"
         }
       ],
@@ -849,7 +903,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 213488,
       "name": "GRAVITY",
       "url": "https://open.spotify.com/track/6HkaotrHZPrJSkneyXRs7P"
@@ -885,10 +939,28 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 275280,
       "name": "Happy Puppy",
       "url": "https://open.spotify.com/track/2IBmIR4mBtHS3gHxzURpsZ"
+    },
+    {
+      "album": {
+        "name": "Lee Joo Young",
+        "url": "https://open.spotify.com/album/5i44nq2EwgaL9MCmZhKDHb"
+      },
+      "artists": [
+        {
+          "name": "Lee Joo Young",
+          "url": "https://open.spotify.com/artist/2gtvKQFx17QdVlBWxN4C5n"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430999,
+      "name": "Heart",
+      "url": "https://open.spotify.com/track/5IYVpC0kK8BSz8gRqVtdtj"
     },
     {
       "album": {
@@ -903,7 +975,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 478003,
       "name": "Heart",
       "url": "https://open.spotify.com/track/7xzbNoJgNtQVQVTcAPjyfT"
@@ -969,7 +1041,7 @@
       },
       "artists": [
         {
-          "name": "Lacuna \ub77c\ucfe0\ub098",
+          "name": "Lacuna",
           "url": "https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen"
         }
       ],
@@ -1098,6 +1170,24 @@
     },
     {
       "album": {
+        "name": "Flower Shop",
+        "url": "https://open.spotify.com/album/3eQwoUhBTy2F89F4K4dmRI"
+      },
+      "artists": [
+        {
+          "name": "Grizzly",
+          "url": "https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172906,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/5saaGZgz1R2TBeB0mDZHIL"
+    },
+    {
+      "album": {
         "name": "TRPP",
         "url": "https://open.spotify.com/album/2BacozGtXMOerDsVq5lJkd"
       },
@@ -1117,6 +1207,24 @@
     {
       "album": {
         "name": "Rise From The Ashes",
+        "url": "https://open.spotify.com/album/7KNZ09ycq8We2c9kJD6yKl"
+      },
+      "artists": [
+        {
+          "name": "Luli Lee",
+          "url": "https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Light Beside You",
+      "url": "https://open.spotify.com/track/2QTyOuLerx1U0kcpAVH4Fo"
+    },
+    {
+      "album": {
+        "name": "Rise From The Ashes",
         "url": "https://open.spotify.com/album/1KlYJdZhZvRTj1VTEsLpge"
       },
       "artists": [
@@ -1127,7 +1235,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 215000,
       "name": "Light Beside You",
       "url": "https://open.spotify.com/track/6EE4jMxM5EY8uJ3Z76wsIG"
@@ -1370,6 +1478,24 @@
     },
     {
       "album": {
+        "name": "[COSMOS]",
+        "url": "https://open.spotify.com/album/73mGtUdDaLFdLiTnxz0Lqf"
+      },
+      "artists": [
+        {
+          "name": "D\u2019allant",
+          "url": "https://open.spotify.com/artist/43twit4jxaRzr008CaVw3l"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213994,
+      "name": "NEPTUNE",
+      "url": "https://open.spotify.com/track/0bb8pvRKp6Fa443FhuooU0"
+    },
+    {
+      "album": {
         "name": "I can't believe it's not butter!",
         "url": "https://open.spotify.com/album/5uEHa8xxNTOAovSEx0dmz5"
       },
@@ -1525,7 +1651,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 211219,
       "name": "Popeye",
       "url": "https://open.spotify.com/track/35nDYHioIbjzHT6hEHBexk"
@@ -1543,10 +1669,28 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 254420,
       "name": "Promise",
       "url": "https://open.spotify.com/track/526snxP4AiCAno5P7hYsbF"
+    },
+    {
+      "album": {
+        "name": "rain rain",
+        "url": "https://open.spotify.com/album/4VJZCAf3dmvrcQ9oZslxVq"
+      },
+      "artists": [
+        {
+          "name": "Prudence",
+          "url": "https://open.spotify.com/artist/6eegwl2HxdVK3B1Y6GaqhR"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179653,
+      "name": "rain rain",
+      "url": "https://open.spotify.com/track/0PY5fUiafSNktmwRWB0wOt"
     },
     {
       "album": {
@@ -1637,7 +1781,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 176626,
       "name": "RUN",
       "url": "https://open.spotify.com/track/5EI1PqfGKGTk746tL2rqft"
@@ -2016,6 +2160,24 @@
     },
     {
       "album": {
+        "name": "Won't Be Long",
+        "url": "https://open.spotify.com/album/1xniAQ3sEk7srAgaEBAd98"
+      },
+      "artists": [
+        {
+          "name": "Vanilla Mousse",
+          "url": "https://open.spotify.com/artist/4DGY1BlqxH29zb9DGXLpB3"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244173,
+      "name": "Won't Be Long",
+      "url": "https://open.spotify.com/track/2PRkvZKk1wp82Ki3fTmILT"
+    },
+    {
+      "album": {
         "name": "XNFP (feat.JUNE)",
         "url": "https://open.spotify.com/album/3mYQq0tgwSXvUBkNQFegEl"
       },
@@ -2035,6 +2197,24 @@
       "duration_ms": 209226,
       "name": "XNFP (feat.JUNE)",
       "url": "https://open.spotify.com/track/6O1DGge7UkQzyLBrb9hSep"
+    },
+    {
+      "album": {
+        "name": "Summer Tales",
+        "url": "https://open.spotify.com/album/4zOhFGKRXA7Mwe6c0sJRXD"
+      },
+      "artists": [
+        {
+          "name": "Lacuna",
+          "url": "https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214853,
+      "name": "YOU",
+      "url": "https://open.spotify.com/track/1t4brrmAIeYghJ3QAAF5Ri"
     },
     {
       "album": {
@@ -2097,7 +2277,7 @@
       },
       "artists": [
         {
-          "name": "DongYan Gozupa",
+          "name": "DongYang Gozupa",
           "url": "https://open.spotify.com/artist/5DwF6Eil1DUmqdR4uiY9Qw"
         }
       ],

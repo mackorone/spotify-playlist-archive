@@ -366,6 +366,28 @@
     },
     {
       "album": {
+        "name": "Hora de Argentinas",
+        "url": "https://open.spotify.com/album/53sFe6aGnPMbc1XC0L7F4T"
+      },
+      "artists": [
+        {
+          "name": "Bajofondo",
+          "url": "https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O"
+        },
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 275093,
+      "name": "El Mareo",
+      "url": "https://open.spotify.com/track/7zlslEmkDIUb6SH2UmK2WH"
+    },
+    {
+      "album": {
         "name": "El Vino Triste (feat. Ra\u00fal Lavi\u00e9)",
         "url": "https://open.spotify.com/album/07G5T8FaZTFYRNtawKaPHQ"
       },
@@ -417,7 +439,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-12",
       "duration_ms": 169762,
       "name": "Flaca",
       "url": "https://open.spotify.com/track/2ZuC6YJTATt0VvUt46eNHB"
@@ -1309,6 +1331,24 @@
       "duration_ms": 181266,
       "name": "Yira Yira",
       "url": "https://open.spotify.com/track/4H4UcF9pCpX3vAImo2dBam"
+    },
+    {
+      "album": {
+        "name": "Chac Tu Chac",
+        "url": "https://open.spotify.com/album/5OWKnhm9lqNlQwZRXdzzLK"
+      },
+      "artists": [
+        {
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 181266,
+      "name": "Yira Yira",
+      "url": "https://open.spotify.com/track/5wfHhIh5hfVxZgwj5NyF3A"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXa6vwC7tN28X"

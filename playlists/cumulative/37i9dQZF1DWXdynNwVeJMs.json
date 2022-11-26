@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "Listen to the finest Jazz made in Belgium. Cover: M.CHUZI ",
+  "description": "Listen to the finest Jazz made in Belgium. Cover: Stellar Legions\n",
   "name": "Belgo-Jazz",
   "published_playlist_ids": [
     "0BGpoGk8zyTnHesLTcROQ8"
@@ -102,6 +102,24 @@
     },
     {
       "album": {
+        "name": "Stellar Legions",
+        "url": "https://open.spotify.com/album/4Q0An9lSHLeqIiZTDy8VeD"
+      },
+      "artists": [
+        {
+          "name": "Stellar Legions",
+          "url": "https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287000,
+      "name": "Alice",
+      "url": "https://open.spotify.com/track/7IKA8BGPhbUlypRWFAHmXv"
+    },
+    {
+      "album": {
         "name": "Alles hier hetzelfde",
         "url": "https://open.spotify.com/album/7yOMFXSwvmEtauLoflkiN2"
       },
@@ -131,7 +149,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 274000,
       "name": "An Arp in Tunisia",
       "url": "https://open.spotify.com/track/13GMwEv7D26ltljKaWoHoV"
@@ -153,6 +171,24 @@
       "duration_ms": 274000,
       "name": "An Arp in Tunisia",
       "url": "https://open.spotify.com/track/69QKB3yNoLeh0QS7cNXzMK"
+    },
+    {
+      "album": {
+        "name": "Stellar Legions",
+        "url": "https://open.spotify.com/album/4Q0An9lSHLeqIiZTDy8VeD"
+      },
+      "artists": [
+        {
+          "name": "Stellar Legions",
+          "url": "https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274000,
+      "name": "An Arp in Tunisia",
+      "url": "https://open.spotify.com/track/6VmcLYc8U5BhnnpRZgtK4k"
     },
     {
       "album": {
@@ -1178,6 +1214,50 @@
     },
     {
       "album": {
+        "name": "PAPARA",
+        "url": "https://open.spotify.com/album/6vdPNXfUa8colUXj6ZmWy6"
+      },
+      "artists": [
+        {
+          "name": "M.CHUZI",
+          "url": "https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d"
+        },
+        {
+          "name": "Nabou",
+          "url": "https://open.spotify.com/artist/1BwV1xO6KyJBmdx87xcJ08"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 535253,
+      "name": "Mammoet",
+      "url": "https://open.spotify.com/track/52rTIOyqlAOiRPFMbyewUb"
+    },
+    {
+      "album": {
+        "name": "Sambal",
+        "url": "https://open.spotify.com/album/5bLeofMakqSrcOzSl70850"
+      },
+      "artists": [
+        {
+          "name": "M.CHUZI",
+          "url": "https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d"
+        },
+        {
+          "name": "Nabou Claerhout",
+          "url": "https://open.spotify.com/artist/02mNtFwmQg7xD5FHWGfNft"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-07",
+      "duration_ms": 535253,
+      "name": "Mammoet",
+      "url": "https://open.spotify.com/track/4uAjMzGU1UGhiCy4dyvUxH"
+    },
+    {
+      "album": {
         "name": "Mammoet",
         "url": "https://open.spotify.com/album/0MH0Kg8YPRzH9BZ265VBuI"
       },
@@ -1193,7 +1273,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 535253,
       "name": "Mammoet",
       "url": "https://open.spotify.com/track/6Oagzl7aiMMUInr98ICOD4"
@@ -1483,10 +1563,28 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 582000,
       "name": "Odyssey",
       "url": "https://open.spotify.com/track/1EMaoxl06TWBYanUmTst9X"
+    },
+    {
+      "album": {
+        "name": "Stellar Legions",
+        "url": "https://open.spotify.com/album/4Q0An9lSHLeqIiZTDy8VeD"
+      },
+      "artists": [
+        {
+          "name": "Stellar Legions",
+          "url": "https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 582000,
+      "name": "Odyssey",
+      "url": "https://open.spotify.com/track/4E6HPS5yi8hh9obP37puOf"
     },
     {
       "album": {
@@ -1962,6 +2060,24 @@
     },
     {
       "album": {
+        "name": "Lefto presents Jazz Cats",
+        "url": "https://open.spotify.com/album/7uue24rTgbcamaokL1unUl"
+      },
+      "artists": [
+        {
+          "name": "STUFF.",
+          "url": "https://open.spotify.com/artist/2arPbOlDKD5g7asu7NSfCr"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 336760,
+      "name": "strata",
+      "url": "https://open.spotify.com/track/3ANbhAwZ5dB2pnxVXV4459"
+    },
+    {
+      "album": {
         "name": "Less Is Endless",
         "url": "https://open.spotify.com/album/2A3yrBY3izE2NuzFypPVcH"
       },
@@ -2106,6 +2222,42 @@
     },
     {
       "album": {
+        "name": "Sambal",
+        "url": "https://open.spotify.com/album/5bLeofMakqSrcOzSl70850"
+      },
+      "artists": [
+        {
+          "name": "M.CHUZI",
+          "url": "https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-06",
+      "duration_ms": 391226,
+      "name": "Tzatz\u00ecki",
+      "url": "https://open.spotify.com/track/3iCZMLTKYgwW4BchzgKG57"
+    },
+    {
+      "album": {
+        "name": "PAPARA",
+        "url": "https://open.spotify.com/album/6vdPNXfUa8colUXj6ZmWy6"
+      },
+      "artists": [
+        {
+          "name": "M.CHUZI",
+          "url": "https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391226,
+      "name": "Tzatz\u00ecki",
+      "url": "https://open.spotify.com/track/5YoUD7R6FdYKfQrRcRYgkF"
+    },
+    {
+      "album": {
         "name": "Mammoet",
         "url": "https://open.spotify.com/album/0MH0Kg8YPRzH9BZ265VBuI"
       },
@@ -2117,10 +2269,28 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-16",
       "duration_ms": 391226,
       "name": "Tzatz\u00ecki",
       "url": "https://open.spotify.com/track/5gXfrzXhcaIW2RQ4nuQODG"
+    },
+    {
+      "album": {
+        "name": "Lefto presents Jazz Cats volume 2",
+        "url": "https://open.spotify.com/album/79r34KmANs2Z6JsATAjrTx"
+      },
+      "artists": [
+        {
+          "name": "M.CHUZI",
+          "url": "https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 391226,
+      "name": "Tzatz\u00ecki",
+      "url": "https://open.spotify.com/track/5hbECi1krvZhoNk14jfpjS"
     },
     {
       "album": {
@@ -2229,10 +2399,28 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 303915,
       "name": "Wessel",
       "url": "https://open.spotify.com/track/1qpwLKM8ipm4V21h3eXuuU"
+    },
+    {
+      "album": {
+        "name": "Stellar Legions",
+        "url": "https://open.spotify.com/album/4Q0An9lSHLeqIiZTDy8VeD"
+      },
+      "artists": [
+        {
+          "name": "Stellar Legions",
+          "url": "https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303915,
+      "name": "Wessel",
+      "url": "https://open.spotify.com/track/2cw7XwWJaQSaGnj0lQ3pGQ"
     },
     {
       "album": {
@@ -2269,6 +2457,24 @@
       "duration_ms": 303915,
       "name": "Wessel",
       "url": "https://open.spotify.com/track/672F19pjKGG8SsqArjk1EX"
+    },
+    {
+      "album": {
+        "name": "Lefto presents Jazz Cats volume 2",
+        "url": "https://open.spotify.com/album/79r34KmANs2Z6JsATAjrTx"
+      },
+      "artists": [
+        {
+          "name": "Stellar Legions",
+          "url": "https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-24",
+      "duration_ms": 303915,
+      "name": "Wessel",
+      "url": "https://open.spotify.com/track/7qmozlnwvvhUMzqKH80lfK"
     },
     {
       "album": {

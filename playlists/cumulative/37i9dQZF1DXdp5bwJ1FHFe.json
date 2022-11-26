@@ -3825,7 +3825,25 @@
     {
       "album": {
         "name": "starlit rainfall",
-        "url": "https://open.spotify.com/album/2sknFZDDYwy2o1zlnkg4iN"
+        "url": "https://open.spotify.com/album/0b4L0c4mNqezstudoXa0Uy"
+      },
+      "artists": [
+        {
+          "name": "oh, the joy.",
+          "url": "https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 161000,
+      "name": "starlit rainfall",
+      "url": "https://open.spotify.com/track/1SKqicEoNoTQp1XEmXTlcM"
+    },
+    {
+      "album": {
+        "name": "peaceful showers (rain)",
+        "url": "https://open.spotify.com/album/5EmHKVBfrBkmHT4PlOd39x"
       },
       "artists": [
         {
@@ -3836,6 +3854,24 @@
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 161000,
+      "name": "starlit rainfall",
+      "url": "https://open.spotify.com/track/7CLQUiUTBqBtjZHHkSVNuf"
+    },
+    {
+      "album": {
+        "name": "starlit rainfall",
+        "url": "https://open.spotify.com/album/2sknFZDDYwy2o1zlnkg4iN"
+      },
+      "artists": [
+        {
+          "name": "oh, the joy.",
+          "url": "https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
       "duration_ms": 161000,
       "name": "starlit rainfall",
       "url": "https://open.spotify.com/track/7gkwTHnQ1QxWcM6HDBOqXo"
@@ -3979,10 +4015,46 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 151742,
       "name": "stormy hill",
       "url": "https://open.spotify.com/track/0st6S0yMSdcJRzjZadtDME"
+    },
+    {
+      "album": {
+        "name": "peaceful showers (rain)",
+        "url": "https://open.spotify.com/album/5EmHKVBfrBkmHT4PlOd39x"
+      },
+      "artists": [
+        {
+          "name": "oh, the joy.",
+          "url": "https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151742,
+      "name": "stormy hill",
+      "url": "https://open.spotify.com/track/1KpCULyLuC1NKCyNPo0n9n"
+    },
+    {
+      "album": {
+        "name": "stormy hill",
+        "url": "https://open.spotify.com/album/7DAVGaECRlp9l6s0tkW8NM"
+      },
+      "artists": [
+        {
+          "name": "oh, the joy.",
+          "url": "https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 151742,
+      "name": "stormy hill",
+      "url": "https://open.spotify.com/track/3L8Mm4pLUNUN8ladx83rUU"
     },
     {
       "album": {

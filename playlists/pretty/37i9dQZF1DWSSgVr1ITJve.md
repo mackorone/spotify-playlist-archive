@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSgVr1ITJve.md) - [plain]
 
 > Afro culture mixed with Arab vibes\. Cover: Ali Loka.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,226 likes - 51 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,626 likes - 51 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSgVr1ITJve.md) - [plain]
 | 34 | [Allo Mama](https://open.spotify.com/track/0X3j7PKZYinokK4csqWKdZ) | [NEGAPHONE](https://open.spotify.com/artist/3Sfm2ZwC8k4XhMMJpP4hgM) | [Allo Mama](https://open.spotify.com/album/4eInwPKDlzgMU0c9s90UdV) | 3:05 |
 | 35 | [Safe Salina \(Nigerian Remix\)](https://open.spotify.com/track/1d73hFKVz2vvTMxLvqqzjx) | [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [RAYBEKAH](https://open.spotify.com/artist/5xiO5aB50qkMfgUyDNpFYk) | [Safe Salina \(Nigerian Remix\)](https://open.spotify.com/album/1AMww3MQURWSVPEiqGQEg4) | 3:24 |
 | 36 | [Yek Yek](https://open.spotify.com/track/4FurrzPajAoNGcY4P3pu2W) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Galess Fdar](https://open.spotify.com/album/3YB8Ew2pmNCUP7QA9FVCau) | 3:31 |
-| 37 | [Laywagef](https://open.spotify.com/track/2v34KNVUnkIX80NsASvhZK) | [Daffy](https://open.spotify.com/artist/1riWTPKcSkoy6FkEqs1ohC), [Flipperachi](https://open.spotify.com/artist/7lPCTAKDofGUQgXGonMrKd) | [Laywagef](https://open.spotify.com/album/3F7Dyt6nEYH0C8Pyju6Cf2) | 3:38 |
+| 37 | [Laywagef](https://open.spotify.com/track/5OP2tICFk99PTkih5jIKq5) | [Daffy](https://open.spotify.com/artist/1riWTPKcSkoy6FkEqs1ohC), [Flipperachi](https://open.spotify.com/artist/7lPCTAKDofGUQgXGonMrKd) | [Laywagef](https://open.spotify.com/album/0c6EvBCiPrnrmEplS56NBW) | 3:38 |
 | 38 | [Bambina](https://open.spotify.com/track/7GRkUt2D8RZJVn8uWVpa9o) | [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i) | [Bambina](https://open.spotify.com/album/6pVwkIiwNhL0Vd3auyMEjj) | 3:20 |
 | 39 | [Kandaka](https://open.spotify.com/track/7GiLIZ1JNiq2EAzlI5pNXM) | [MarSimba](https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W) | [Kandaka](https://open.spotify.com/album/3HWMN3fMzjLCmHlbJYybdH) | 3:01 |
 | 40 | [Sudan](https://open.spotify.com/track/7M7e7aCLu2dhbMzEHL1aVO) | [MaMan](https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30), [Aidyproof](https://open.spotify.com/artist/7uzLUplPMKoZZ8ZC5XoeIN) | [Sudan](https://open.spotify.com/album/2qCIMTuoQUvvLHss2eZxUj) | 2:58 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSgVr1ITJve.md) - [plain]
 | 50 | [Wouli Liya](https://open.spotify.com/track/1p3pNSpRB88Dn6w0DQGQXr) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [KALY](https://open.spotify.com/artist/0eRtInepLNyuZsho3EonUS), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Aymane Serhani](https://open.spotify.com/artist/2EAzv92ciNtTm5DkGSYXH2) | [Poison Ou Antidote](https://open.spotify.com/album/6FsbmqiFXF87zjPSl4VX2k) | 4:01 |
 | 51 | [Daba Dor Lyam](https://open.spotify.com/track/6buWpyhPbG548hIFSLWl6f) | [Imin](https://open.spotify.com/artist/0z8woBkNEdy6w2mCIJBgrM) | [Daba Dor Lyam](https://open.spotify.com/album/4aAxNTyg1941owSY3NCwXk) | 3:42 |
 
-Snapshot ID: `MTY2NTA0NzA0MywwMDAwMDAwMDQxZWRhODQ5YjNhMDg0M2RmODcwMDAzZDFlZmIxNDNl`
+Snapshot ID: `MTY2NTA0NzA0MywwMDAwMDAwMDRhNzU2NGEwNGJlMjg2ODFhNzBjYzViMjA5NzQ3YWYy`

@@ -287,6 +287,24 @@
     {
       "album": {
         "name": "Angel's Flight",
+        "url": "https://open.spotify.com/album/44YJTNTfQ2PEIBNewBgt0b"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 352357,
+      "name": "Angel's Flight",
+      "url": "https://open.spotify.com/track/0G0I9cOJjQmKZxIbbqrLiV"
+    },
+    {
+      "album": {
+        "name": "Angel's Flight",
         "url": "https://open.spotify.com/album/0qZ6LUWpJC4lrQrEDoUeHH"
       },
       "artists": [
@@ -647,7 +665,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-03",
+      "date_removed": null,
       "duration_ms": 360000,
       "name": "Badwater Psalm - Khotin Remix",
       "url": "https://open.spotify.com/track/5g1o2X09PYouRGkp13SaQu"
@@ -669,7 +687,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 282000,
       "name": "Bakehouse 30/6",
       "url": "https://open.spotify.com/track/2RPwNWSHXBBxMoTlTLBnSR"
@@ -777,7 +795,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 270000,
       "name": "BLUE",
       "url": "https://open.spotify.com/track/6kAtLKUnOMn3zcVkPkc0V8"
@@ -853,6 +871,24 @@
       "duration_ms": 196000,
       "name": "Breathe Cre8",
       "url": "https://open.spotify.com/track/4L75OEom1UKUALCLguUpig"
+    },
+    {
+      "album": {
+        "name": "I Can Hear the Birds",
+        "url": "https://open.spotify.com/album/5e2c7ge98FEC2RaAAq0wV1"
+      },
+      "artists": [
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262653,
+      "name": "Bundeena",
+      "url": "https://open.spotify.com/track/1QNgUvacqzNDdMOkXFtMlN"
     },
     {
       "album": {
@@ -1165,7 +1201,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 243644,
       "name": "Contato",
       "url": "https://open.spotify.com/track/3d9lSEuj72Nng9RSiBCJMK"
@@ -1291,7 +1327,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 184000,
       "name": "Diamond Beach",
       "url": "https://open.spotify.com/track/5WVz5up4Vy54E981lOQ17P"
@@ -1731,7 +1767,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-22",
+      "date_removed": null,
       "duration_ms": 229811,
       "name": "Felt compute, might delete",
       "url": "https://open.spotify.com/track/4euYmucoRKixWMTtg2Yan7"
@@ -1905,7 +1941,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-16",
       "duration_ms": 246367,
       "name": "Grauer Sand",
       "url": "https://open.spotify.com/track/66IbIrMufglj4589q8126r"
@@ -2521,7 +2557,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": "2022-11-13",
       "duration_ms": 533106,
       "name": "Lost You in the Fog",
       "url": "https://open.spotify.com/track/40nn7NYGNb5KfLe6Qsok72"
@@ -3278,6 +3314,24 @@
     },
     {
       "album": {
+        "name": "Plonk",
+        "url": "https://open.spotify.com/album/1NLglnqr3MZju3F0upWXzU"
+      },
+      "artists": [
+        {
+          "name": "Huerco S.",
+          "url": "https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 564154,
+      "name": "Plonk VI",
+      "url": "https://open.spotify.com/track/6r5vGrYSklN6D9QGwfCxii"
+    },
+    {
+      "album": {
         "name": "Promise",
         "url": "https://open.spotify.com/album/1zeLCQaCe1WudTjd1Dr4a9"
       },
@@ -3523,7 +3577,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 388373,
       "name": "Ripples",
       "url": "https://open.spotify.com/track/77Ym3LUFp9h8IEfNgsikM5"
@@ -3721,7 +3775,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-04",
+      "date_removed": null,
       "duration_ms": 138405,
       "name": "Seca",
       "url": "https://open.spotify.com/track/1ZEzXlxCAHHdooAXNyeecB"
@@ -3847,7 +3901,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 351282,
       "name": "si00",
       "url": "https://open.spotify.com/track/49Ux8dnMRPMDSiNrewL4II"
@@ -3984,6 +4038,24 @@
     },
     {
       "album": {
+        "name": "sssssmilinggggg",
+        "url": "https://open.spotify.com/album/2gC9JUs5tlGBgopNouIg7v"
+      },
+      "artists": [
+        {
+          "name": "Kaho Matsui",
+          "url": "https://open.spotify.com/artist/2ahVQ3HBZfU8RGxwIgNfnU"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404210,
+      "name": "sssssmilinggggg",
+      "url": "https://open.spotify.com/track/6yTewVjFHvPBNyRliPdQOs"
+    },
+    {
+      "album": {
         "name": "Press Play",
         "url": "https://open.spotify.com/album/0rDJv9F8nPrUNHOUTTgzdJ"
       },
@@ -4031,7 +4103,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 419998,
       "name": "Stechm\u00fcck",
       "url": "https://open.spotify.com/track/2z4NFfIfg7Ljr545MOP4qu"
@@ -4103,7 +4175,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": "2022-11-24",
       "duration_ms": 223750,
       "name": "Summer Places",
       "url": "https://open.spotify.com/track/5soyEYI9op1hiyqEhHbtOQ"
@@ -4237,7 +4309,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-10",
+      "date_removed": "2022-11-26",
       "duration_ms": 210443,
       "name": "Temple",
       "url": "https://open.spotify.com/track/498ZDQka9kegPstbDGhpiu"
@@ -4511,7 +4583,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 357000,
       "name": "Trail",
       "url": "https://open.spotify.com/track/5DJb7Lvog2ayToxWNVFrdB"
@@ -4951,7 +5023,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": "2022-11-13",
       "duration_ms": 271237,
       "name": "Weight",
       "url": "https://open.spotify.com/track/3CDfX0qDBnTsYiEzmTGTFT"

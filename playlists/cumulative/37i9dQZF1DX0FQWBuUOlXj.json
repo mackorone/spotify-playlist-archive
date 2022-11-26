@@ -952,6 +952,42 @@
     },
     {
       "album": {
+        "name": "A Long Way Down - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/2fpTGzqv5Cl2L590tw08zE"
+      },
+      "artists": [
+        {
+          "name": "Daughter",
+          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 248841,
+      "name": "Youth",
+      "url": "https://open.spotify.com/track/6qLLFgywJ33KvxXAQIf6Xt"
+    },
+    {
+      "album": {
+        "name": "If You Leave",
+        "url": "https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM"
+      },
+      "artists": [
+        {
+          "name": "Daughter",
+          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253013,
+      "name": "Youth",
+      "url": "https://open.spotify.com/track/0UPMxtinlgA1dkne9PAKTW"
+    },
+    {
+      "album": {
         "name": "If You Leave",
         "url": "https://open.spotify.com/album/31LehqnrVyTuEBEKeXeqVx"
       },
@@ -963,7 +999,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 253013,
       "name": "Youth",
       "url": "https://open.spotify.com/track/4AmcmraFjVzFb9SQDNTRyl"

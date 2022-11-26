@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1N9hVU2pAoX.md) - [plain]
 
 > If you or someone you know is struggling, you aren’t alone\.  loveislouder.com/prevent
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,254 likes - 12 songs - 38 min 58 sec
+[Spotify](https://open.spotify.com/user/spotify) - 29,148 likes - 12 songs - 38 min 58 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

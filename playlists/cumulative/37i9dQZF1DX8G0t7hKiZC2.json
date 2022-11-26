@@ -98,6 +98,28 @@
     },
     {
       "album": {
+        "name": "Coyote",
+        "url": "https://open.spotify.com/album/4Vd8BnfKTaGup0eYrby8CQ"
+      },
+      "artists": [
+        {
+          "name": "Flickxr.",
+          "url": "https://open.spotify.com/artist/2bP2XiRavK6ameEEvX6QZ9"
+        },
+        {
+          "name": "texotr",
+          "url": "https://open.spotify.com/artist/0ZyY6X6yXkd6fIXtkZ3ln9"
+        }
+      ],
+      "date_added": "2021-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301440,
+      "name": "Coyote",
+      "url": "https://open.spotify.com/track/1iTayn3u1hV9XPpBQglZcH"
+    },
+    {
+      "album": {
         "name": "Hejira",
         "url": "https://open.spotify.com/album/3Z0qQc09rmk4JYtIaxEx2J"
       },
@@ -109,7 +131,7 @@
       ],
       "date_added": "2021-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 301440,
       "name": "Coyote",
       "url": "https://open.spotify.com/track/5fdjxHzBILxMXRrbbOVupJ"
@@ -460,6 +482,32 @@
     },
     {
       "album": {
+        "name": "Totally Romantic Ballads",
+        "url": "https://open.spotify.com/album/3zeuHqBj3w0Hd4MPgUGCqi"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Silk Sonic",
+          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
+        }
+      ],
+      "date_added": "2021-07-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 242096,
+      "name": "Leave the Door Open",
+      "url": "https://open.spotify.com/track/1WQkIkrkEc0mydf6SVULgH"
+    },
+    {
+      "album": {
         "name": "Leave The Door Open",
         "url": "https://open.spotify.com/album/7dfPqXck6BB9wpThrVYBss"
       },
@@ -505,6 +553,24 @@
       "duration_ms": 220013,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/26NqjphYzU4JSx2xJUpKO0"
+    },
+    {
+      "album": {
+        "name": "Inner Peace",
+        "url": "https://open.spotify.com/album/3RkqYmlkCEsV4BWJJv7Xoq"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "date_added": "2021-07-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 462500,
+      "name": "Mohabbat",
+      "url": "https://open.spotify.com/track/4AB73iuSZsnHJDGqgIYH45"
     },
     {
       "album": {

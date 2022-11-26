@@ -8,6 +8,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Sarkology",
+        "url": "https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 188691,
+      "name": "2 Paddies (feat. Joey B)",
+      "url": "https://open.spotify.com/track/1wXmZNyaY3NIKOkq9kJz0T"
+    },
+    {
+      "album": {
         "name": "Adonai (Remix) [feat. Castro]",
         "url": "https://open.spotify.com/album/4xXYqG9l4l7XmuxrNebCyY"
       },
@@ -71,7 +93,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 287261,
       "name": "Always on My Mind (feat. Obrafour)",
       "url": "https://open.spotify.com/track/55vXTF5Pv3UoyaixvbBkQp"
@@ -133,7 +155,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 216546,
       "name": "Anointing",
       "url": "https://open.spotify.com/track/7BHFEdHwNBdmCeFGvOClNy"
@@ -177,7 +199,7 @@
       ],
       "date_added": "2022-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 263189,
       "name": "Azonto Fiesta",
       "url": "https://open.spotify.com/track/3CgFXfyJOYBhc3aoekeUxt"
@@ -233,10 +255,32 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 275440,
       "name": "Bambi Too (feat. Maleek Berry, Quavo & Sarkodie)",
       "url": "https://open.spotify.com/track/0jFGFUFKNuTTRE2j2gSI8Y"
+    },
+    {
+      "album": {
+        "name": "JAMZ",
+        "url": "https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2022-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Better Days (feat. BNXN fka Buju)",
+      "url": "https://open.spotify.com/track/0ou0qN9oPjJ442ZHrEksLx"
     },
     {
       "album": {
@@ -371,7 +415,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-10-13",
       "duration_ms": 178699,
       "name": "Bumper",
       "url": "https://open.spotify.com/track/2Kz8Wobrg0ATJsnM9nG9Fd"
@@ -441,7 +485,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 222958,
       "name": "CEO FLOW",
       "url": "https://open.spotify.com/track/4iF0umElVzYWpHe9zRJzZE"
@@ -485,7 +529,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 185196,
       "name": "Coachella",
       "url": "https://open.spotify.com/track/7x4yCout42C0B7GDBN2VNR"
@@ -533,6 +577,68 @@
       "duration_ms": 195963,
       "name": "Come Back",
       "url": "https://open.spotify.com/track/4wcFfoHSRyHqpaDiN6zw4q"
+    },
+    {
+      "album": {
+        "name": "JAMZ",
+        "url": "https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 223157,
+      "name": "Confam",
+      "url": "https://open.spotify.com/track/5yu4sc1rWJzhMQk3l7SiHi"
+    },
+    {
+      "album": {
+        "name": "JAMZ",
+        "url": "https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "date_added": "2022-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209708,
+      "name": "Cougar (feat. Lojay)",
+      "url": "https://open.spotify.com/track/2a6AVT30VFGQ1ceA6PE3cA"
+    },
+    {
+      "album": {
+        "name": "JAMZ",
+        "url": "https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220952,
+      "name": "Country Side (feat. Black Sherif)",
+      "url": "https://open.spotify.com/track/0l5PUtqMNfggchPClxUBhS"
     },
     {
       "album": {
@@ -657,7 +763,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 227030,
       "name": "Down on One (feat. Fuse Odg)",
       "url": "https://open.spotify.com/track/3elGAya8lU9d2dC1J4QYuh"
@@ -683,7 +789,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 213261,
       "name": "Dw3",
       "url": "https://open.spotify.com/track/4ISf9ZEUJyhcTBC4C8NP6l"
@@ -723,7 +829,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 345793,
       "name": "Efya-Am In Luv With U(prod. By Killbeatz) (feat. Efya)",
       "url": "https://open.spotify.com/track/0pE5QY5MzbQZ4LxrBBnOny"
@@ -763,7 +869,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 186884,
       "name": "Fa Hooki Me",
       "url": "https://open.spotify.com/track/5E79kYZQN4Ea2HTJ4fLsQv"
@@ -789,7 +895,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 276401,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/3JGpJctFgQjVqernRw7YAP"
@@ -811,7 +917,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 221093,
       "name": "Feelings (feat. Maleek Berry)",
       "url": "https://open.spotify.com/track/4Z3s3IfcvJjxmHupIbb4SZ"
@@ -893,7 +999,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-10-21",
       "duration_ms": 222586,
       "name": "FInally",
       "url": "https://open.spotify.com/track/2owWE178Z5yaQcJUzNgf5U"
@@ -915,10 +1021,32 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": "2022-11-13",
       "duration_ms": 210335,
       "name": "For You (with Sarkodie)",
       "url": "https://open.spotify.com/track/3KVKxXqDAszAvmmVYR9rIv"
+    },
+    {
+      "album": {
+        "name": "JAMZ",
+        "url": "https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        }
+      ],
+      "date_added": "2022-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-21",
+      "duration_ms": 213861,
+      "name": "Forever (feat. Kranium)",
+      "url": "https://open.spotify.com/track/58ohyE1Axw6TJoIFqF90SV"
     },
     {
       "album": {
@@ -959,7 +1087,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 274536,
       "name": "Give It to Me (feat. Mugeez)",
       "url": "https://open.spotify.com/track/6gWrC3vfJmWANgwuoHbYDF"
@@ -999,7 +1127,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 218978,
       "name": "Greatness",
       "url": "https://open.spotify.com/track/2ZD3mHmyjphne8L61uNZfk"
@@ -1073,7 +1201,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-10-13",
       "duration_ms": 195550,
       "name": "Hasta La Vista",
       "url": "https://open.spotify.com/track/00rgPXyfLwcIfCRpPS63ic"
@@ -1095,7 +1223,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-10-12",
       "duration_ms": 241046,
       "name": "Hello (feat. KiDi)",
       "url": "https://open.spotify.com/track/51UajxghdmBlcW1WGU1lXa"
@@ -1117,7 +1245,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": "2022-11-14",
       "duration_ms": 35273,
       "name": "Highest, Pt. 1 - Interlude",
       "url": "https://open.spotify.com/track/4crdW05OWhinvkKKe0jz8o"
@@ -1139,7 +1267,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": "2022-11-26",
       "duration_ms": 183477,
       "name": "Homicide",
       "url": "https://open.spotify.com/track/7apx56XH17e6lBtG2bJ7Mt"
@@ -1249,7 +1377,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-23",
+      "date_removed": null,
       "duration_ms": 297215,
       "name": "I'll Be There (feat. MOGmusic)",
       "url": "https://open.spotify.com/track/0nDlqLTFNlKtTKP3YptEC1"
@@ -1267,7 +1395,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-12",
+      "date_removed": "2022-10-12",
       "duration_ms": 166800,
       "name": "Illuminati",
       "url": "https://open.spotify.com/track/1ZXEvJhugYz8uBqrm4yv2c"
@@ -1307,7 +1435,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-05",
+      "date_removed": "2022-10-16",
       "duration_ms": 225307,
       "name": "It's My Life",
       "url": "https://open.spotify.com/track/216YULEAPFqGpco9dgXuTm"
@@ -1333,6 +1461,28 @@
       "duration_ms": 181000,
       "name": "Jaara (feat. Medikal)",
       "url": "https://open.spotify.com/track/5jMI58SeuN7iLfV11eqT4J"
+    },
+    {
+      "album": {
+        "name": "No Bad Songz",
+        "url": "https://open.spotify.com/album/0DpLAtDsBunoPN3V8ir3QS"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204813,
+      "name": "Kojo",
+      "url": "https://open.spotify.com/track/5GS5agViHaTwYRom1T6ckD"
     },
     {
       "album": {
@@ -1494,6 +1644,28 @@
     },
     {
       "album": {
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Cassper Nyovest",
+          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-25",
+      "duration_ms": 246250,
+      "name": "Married To The Game (feat. Cassper Nyovest)",
+      "url": "https://open.spotify.com/track/68vc2EUK4BQgFM3epVVlqp"
+    },
+    {
+      "album": {
         "name": "Mary",
         "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
       },
@@ -1549,7 +1721,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 205578,
       "name": "Mewu (feat. Akwaboah)",
       "url": "https://open.spotify.com/track/7h7OsLwmYBSGHjGZsdXtOI"
@@ -1729,6 +1901,28 @@
     {
       "album": {
         "name": "Epistles of Mama",
+        "url": "https://open.spotify.com/album/7nnkIiGBMhqnTqwEEqvTrr"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207150,
+      "name": "Odo Bi",
+      "url": "https://open.spotify.com/track/5vGmaVJOOzntsf8KFFI6wf"
+    },
+    {
+      "album": {
+        "name": "Epistles of Mama",
         "url": "https://open.spotify.com/album/22SPXtFzEEjbhUCDB44BQk"
       },
       "artists": [
@@ -1743,7 +1937,7 @@
       ],
       "date_added": "2022-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-25",
+      "date_removed": "2022-11-07",
       "duration_ms": 207150,
       "name": "Odo Bi",
       "url": "https://open.spotify.com/track/6usx8a6PVggafBOtKGUTyQ"
@@ -1787,10 +1981,32 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 244052,
       "name": "One Chance (feat. Timaya)",
       "url": "https://open.spotify.com/track/7E51qlKkIS4DJEoieDDM2A"
+    },
+    {
+      "album": {
+        "name": "JAMZ",
+        "url": "https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Ink Boy",
+          "url": "https://open.spotify.com/artist/5h08861M7tKrIOmO3aZnCt"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165818,
+      "name": "One Million Cedis (feat. Ink Boy)",
+      "url": "https://open.spotify.com/track/4eMTkiQRtQKzFgvE5tD4gN"
     },
     {
       "album": {
@@ -1835,7 +2051,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 264409,
       "name": "Onyame eyhira(produced By Kaywa) (feat. Castro)",
       "url": "https://open.spotify.com/track/4Q33HiVThLk7DDDAfyu8S2"
@@ -1875,10 +2091,32 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 247462,
       "name": "Original",
       "url": "https://open.spotify.com/track/3RI4zqzeqTBAXFe2q2HPe5"
+    },
+    {
+      "album": {
+        "name": "JAMZ",
+        "url": "https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Cina Soul",
+          "url": "https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198823,
+      "name": "Over Me (feat. Cina Soul)",
+      "url": "https://open.spotify.com/track/5WK9VS79hdiLz4UYwr6KTF"
     },
     {
       "album": {
@@ -1897,7 +2135,7 @@
       ],
       "date_added": "2022-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": "2022-10-13",
       "duration_ms": 204000,
       "name": "Overdose",
       "url": "https://open.spotify.com/track/2JEaKCe6NDnP2f5mPmk88W"
@@ -1963,10 +2201,54 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 251846,
       "name": "Pon D Ting (feat. Banky W)",
       "url": "https://open.spotify.com/track/6Zb7dUqj1DyGgJu90TMerQ"
+    },
+    {
+      "album": {
+        "name": "Shay On You",
+        "url": "https://open.spotify.com/album/1hTBtOkNbOrwbHVieubMke"
+      },
+      "artists": [
+        {
+          "name": "Wendy Shay",
+          "url": "https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S"
+        },
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212375,
+      "name": "Psalm 35",
+      "url": "https://open.spotify.com/track/0SuVrH28fX2pHzKpFuYQny"
+    },
+    {
+      "album": {
+        "name": "Rns Rich Nigga Shit",
+        "url": "https://open.spotify.com/album/1ToAS30v6lc1e7qAtqRliw"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 202224,
+      "name": "Rns Rich Nigga Shit",
+      "url": "https://open.spotify.com/track/4vKO4U7OCu9lcWnW7NkZmp"
     },
     {
       "album": {
@@ -2025,7 +2307,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 248713,
       "name": "Saa Okodie No (feat. Obrafour)",
       "url": "https://open.spotify.com/track/7rOLszCsFdgsyDhIJUtf8O"
@@ -2095,10 +2377,32 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 189040,
       "name": "Shake Body",
       "url": "https://open.spotify.com/track/2gdaJi5fBtMFUlLMdJsKX2"
+    },
+    {
+      "album": {
+        "name": "JAMZ",
+        "url": "https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "date_added": "2022-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "She Bad (feat. Oxlade)",
+      "url": "https://open.spotify.com/track/2sQtgfBy77UVwkSDcZF8S5"
     },
     {
       "album": {
@@ -2113,7 +2417,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 86661,
       "name": "Sizeless (Skit)",
       "url": "https://open.spotify.com/track/5t10bvJ3Zv3jKtU7YlwZSQ"
@@ -2135,7 +2439,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 258964,
       "name": "Special Sumone (feat. Burna Boy n Aka)",
       "url": "https://open.spotify.com/track/7iwOlLnaysT2Z92dx3PTio"
@@ -2175,7 +2479,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": "2022-11-25",
       "duration_ms": 182164,
       "name": "Sub Zero",
       "url": "https://open.spotify.com/track/55z37b4GACx19xCvJezn9x"
@@ -2201,6 +2505,36 @@
       "duration_ms": 174671,
       "name": "Take My Love (feat. Tekno)",
       "url": "https://open.spotify.com/track/7MjFK0v2TormiqNHFyXvDH"
+    },
+    {
+      "album": {
+        "name": "Teef Teef",
+        "url": "https://open.spotify.com/album/1xikDf9KeiwGCPmi2BHEVX"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Eugy",
+          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270601,
+      "name": "Teef Teef",
+      "url": "https://open.spotify.com/track/675Kfnzftrr18DztlsHekL"
     },
     {
       "album": {
@@ -2318,6 +2652,28 @@
     },
     {
       "album": {
+        "name": "Wavy (feat. Sarkodie)",
+        "url": "https://open.spotify.com/album/2zeHV57xWREaaxS5S3hhoB"
+      },
+      "artists": [
+        {
+          "name": "Khaligraph Jones",
+          "url": "https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251820,
+      "name": "Wavy (feat. Sarkodie)",
+      "url": "https://open.spotify.com/track/7mD6V6JHA0daZKOvVrBKp7"
+    },
+    {
+      "album": {
         "name": "Highest",
         "url": "https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au"
       },
@@ -2355,7 +2711,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 268945,
       "name": "Where Did I Go Wrong (feat. Efya)",
       "url": "https://open.spotify.com/track/7odv9xmbrBNXzyavIHw5uV"
@@ -2399,7 +2755,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 206857,
       "name": "Whipped (feat. DarkoVibes)",
       "url": "https://open.spotify.com/track/7DgHNchZQxCFOM34f2UsiF"
@@ -2421,7 +2777,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": "2022-11-13",
       "duration_ms": 182369,
       "name": "Yawa (feat. Sarkodie)",
       "url": "https://open.spotify.com/track/1i5ZMR0XrSmkUiBjbHyXGp"
@@ -2443,7 +2799,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 238000,
       "name": "Year of Return",
       "url": "https://open.spotify.com/track/2ovx9TSB1J3pEaWRUDnBed"

@@ -1,12 +1,12 @@
 {
   "description": "Prince was a true original and earth-shattering performer. Hear Prince Rogers Nelson best right now.",
-  "num_followers": 748273,
+  "num_followers": 753110,
   "original_name": "This Is Prince",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzc3MDM0MCwwMDAwMDAwMGRhMDk2Yzg5MGI1NGU4MDdlODdiMWExOGVmYWMyMmNm",
+  "snapshot_id": "MTY2OTA0MDY4MCwwMDAwMDAwMDE1MmY0Yzg3M2EzMGM0MTFmY2VjZGYyMzliMDBhMjI5",
   "tracks": [
     {
       "added_at": "2021-04-09 21:22:12",
@@ -75,22 +75,6 @@
     {
       "added_at": "2021-04-09 21:22:12",
       "album": {
-        "name": "1999",
-        "url": "https://open.spotify.com/album/34MHuXONazzgSxI0cThpAg"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 373747,
-      "name": "1999 - 2019 Remaster",
-      "url": "https://open.spotify.com/track/2QSUyofqpGDCo026OPiTBQ"
-    },
-    {
-      "added_at": "2021-04-09 21:22:12",
-      "album": {
         "name": "Purple Rain",
         "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 280000,
       "name": "Let's Go Crazy",
       "url": "https://open.spotify.com/track/0QeI79sp1vS8L3JgpEO7mD"
+    },
+    {
+      "added_at": "2021-04-09 21:22:12",
+      "album": {
+        "name": "1999",
+        "url": "https://open.spotify.com/album/34MHuXONazzgSxI0cThpAg"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 373747,
+      "name": "1999 - 2019 Remaster",
+      "url": "https://open.spotify.com/track/2QSUyofqpGDCo026OPiTBQ"
     },
     {
       "added_at": "2021-04-09 21:22:12",
@@ -123,22 +123,6 @@
     {
       "added_at": "2021-04-09 21:22:12",
       "album": {
-        "name": "Sign O' The Times",
-        "url": "https://open.spotify.com/album/2QuHyvguNhl5kfdoE17RRe"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 296497,
-      "name": "Sign O' The Times - 2020 Remaster",
-      "url": "https://open.spotify.com/track/7CqFMR3yj95Yuwagq5XsLR"
-    },
-    {
-      "added_at": "2021-04-09 21:22:12",
-      "album": {
         "name": "Purple Rain",
         "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 178986,
       "name": "I Would Die 4 U",
       "url": "https://open.spotify.com/track/6fBwVe6udYdnRqwqo06if8"
+    },
+    {
+      "added_at": "2021-04-09 21:22:12",
+      "album": {
+        "name": "Sign O' The Times",
+        "url": "https://open.spotify.com/album/2QuHyvguNhl5kfdoE17RRe"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 296497,
+      "name": "Sign O' The Times - 2020 Remaster",
+      "url": "https://open.spotify.com/track/7CqFMR3yj95Yuwagq5XsLR"
     },
     {
       "added_at": "2021-04-09 21:22:12",

@@ -243,7 +243,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 140706,
       "name": "Cherry Wine",
       "url": "https://open.spotify.com/track/270guq76BC67EWsmaCa3WL"
@@ -261,7 +261,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 164880,
       "name": "Choo Choo Ch' Boogie",
       "url": "https://open.spotify.com/track/4vPJK1gKyygRS2mep7iyDq"
@@ -783,7 +783,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 135573,
       "name": "Mr. Lee",
       "url": "https://open.spotify.com/track/7jU7bkSuD3q3D40ogwlhgE"
@@ -866,6 +866,24 @@
     },
     {
       "album": {
+        "name": "Arthur \"Big Boy\" Crudup Vol. 1 1941-1946",
+        "url": "https://open.spotify.com/album/0W8si0dl1CD4U3ebkypkyp"
+      },
+      "artists": [
+        {
+          "name": "Arthur \"Big Boy\" Crudup",
+          "url": "https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 179853,
+      "name": "Rock Me Mama",
+      "url": "https://open.spotify.com/track/2QIJVwDgFuOGCLURaMvmF9"
+    },
+    {
+      "album": {
         "name": "That's All Right Mama",
         "url": "https://open.spotify.com/album/4hAbDv4epIWlV0UO4X198N"
       },
@@ -877,7 +895,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 180133,
       "name": "Rock Me Mama",
       "url": "https://open.spotify.com/track/4EWbNyNjDic1q94r980ZKz"

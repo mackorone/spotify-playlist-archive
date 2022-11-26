@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 302040,
       "name": "BGM -Instrumental-",
       "url": "https://open.spotify.com/track/0czSVq9GkW0rcghTgLaeDs"
@@ -134,6 +134,42 @@
     },
     {
       "album": {
+        "name": "i\u306f\u81ea\u7531\u3067\u3001\u7e1b\u308c\u306a\u3044\u3002",
+        "url": "https://open.spotify.com/album/4yF59YniNUs8m4iGk3yXms"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234520,
+      "name": "\u3042\u306a\u305f\u306f\u604b\u3092\u3057\u3066\u306a\u3044",
+      "url": "https://open.spotify.com/track/4rp3HCeKTq2FI2IOjTsH1V"
+    },
+    {
+      "album": {
+        "name": "i\u306f\u81ea\u7531\u3067\u3001\u7e1b\u308c\u306a\u3044\u3002",
+        "url": "https://open.spotify.com/album/4yF59YniNUs8m4iGk3yXms"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224453,
+      "name": "\u304d\u3063\u3068\u5225\u308c\u308b\u3088",
+      "url": "https://open.spotify.com/track/5x9XCM92S3G3U8CD1dKiA7"
+    },
+    {
+      "album": {
         "name": "\u604b\u8272\u306b\u54b2\u3051",
         "url": "https://open.spotify.com/album/1qWaa3f4gixmVJS1JTU38z"
       },
@@ -203,7 +239,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 258906,
       "name": "\u30a2\u30a4\u306e\u30b7\u30ca\u30ea\u30aa Instrumental",
       "url": "https://open.spotify.com/track/5wDi6tlwi1sNCJgnd9i50r"
@@ -239,7 +275,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 301893,
       "name": "\u30a4\u30ce\u30b3\u30ea\u5148\u751f",
       "url": "https://open.spotify.com/track/3OD8RZwpAi0MIsqvWYC9lf"
@@ -275,7 +311,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 229786,
       "name": "\u30a6\u30eb\u30d5 -instrumental-",
       "url": "https://open.spotify.com/track/0Nlj7jMEmqFdgPpf5t4FHz"
@@ -311,7 +347,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 244146,
       "name": "\u30ae\u30df\u30ae\u30df\u30b3\u30fc\u30eb -instrumental-",
       "url": "https://open.spotify.com/track/5PQG6VsDpAjUk0BvkZDt0O"
@@ -365,10 +401,28 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": "2022-11-06",
       "duration_ms": 257186,
       "name": "\u30b9\u30fc\u30cf\u309a\u30fc\u30a2\u30a4\u30c8\u3099\u30eb(\u7b11)",
       "url": "https://open.spotify.com/track/4qbHYNkIDsOeYvJL9oBH8P"
+    },
+    {
+      "album": {
+        "name": "i\u306f\u81ea\u7531\u3067\u3001\u7e1b\u308c\u306a\u3044\u3002",
+        "url": "https://open.spotify.com/album/4yF59YniNUs8m4iGk3yXms"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254680,
+      "name": "\u30b9\u30fc\u30d1\u30fc\u30a2\u30a4\u30c9\u30eb(\u7b11)",
+      "url": "https://open.spotify.com/track/6pU09WpP6VxX8mPYd3hxo1"
     },
     {
       "album": {
@@ -383,7 +437,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": null,
       "duration_ms": 237706,
       "name": "\u30c4\u30a4\u30f3\u30ba",
       "url": "https://open.spotify.com/track/03NKMpabqVFe6hy5UUcs5j"
@@ -426,6 +480,24 @@
     },
     {
       "album": {
+        "name": "i\u306f\u81ea\u7531\u3067\u3001\u7e1b\u308c\u306a\u3044\u3002",
+        "url": "https://open.spotify.com/album/4yF59YniNUs8m4iGk3yXms"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243480,
+      "name": "\u30cf\u30f3\u30b3\u30a6\u4e88\u544a",
+      "url": "https://open.spotify.com/track/68xypX5iyrFelZyqqS5piG"
+    },
+    {
+      "album": {
         "name": "\u4e16\u754c\u306fi\u306b\u6e80\u3061\u3066\u3044\u308b",
         "url": "https://open.spotify.com/album/5SuByixIlQq7r1bValOe0G"
       },
@@ -441,6 +513,24 @@
       "duration_ms": 231133,
       "name": "\u30cf\u30fc\u30c8\u306e\u4e3b\u5f35",
       "url": "https://open.spotify.com/track/5McUO0NAKaKWO22oeZgTZQ"
+    },
+    {
+      "album": {
+        "name": "\u30cf\u30fc\u30c8\u306e\u8a93\u3044",
+        "url": "https://open.spotify.com/album/0puyuSS9cNoaeDUCOk4VzT"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207626,
+      "name": "\u30cf\u30fc\u30c8\u306e\u8a93\u3044",
+      "url": "https://open.spotify.com/track/11DHLEGv0kjv4KmqhrXK5w"
     },
     {
       "album": {
@@ -473,7 +563,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-10-12",
       "duration_ms": 274440,
       "name": "\u30d2\u30ab\u30ea\u8a3c\u660e\u8ad6 -instrumental-",
       "url": "https://open.spotify.com/track/2Co9ArGiEfgN1p5gihaHFK"
@@ -603,7 +693,7 @@
       ],
       "date_added": "2022-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 255200,
       "name": "\u30db\u30fc\u30ea\u30fc\u30d5\u30e9\u30c3\u30b0",
       "url": "https://open.spotify.com/track/549mKW3S35WULzwlv3Cojx"
@@ -643,7 +733,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 245266,
       "name": "\u30df\u30b9\u30bf\u30fc\u30fb\u30c0\u30fc\u30ea\u30f3 -instrumental-",
       "url": "https://open.spotify.com/track/27httj6e8VdyVimcMSTLZn"
@@ -679,10 +769,28 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 221773,
       "name": "\u30e9\u30d6\u30db\u30a4\u30c3\u30b9\u30eb",
       "url": "https://open.spotify.com/track/1d0Drv3qKZWEZiUhh563HC"
+    },
+    {
+      "album": {
+        "name": "\u30ea\u30d9\u30f3\u30b8\u30b2\u30fc\u30e0",
+        "url": "https://open.spotify.com/album/1DuJRT4zz1X8YmywZJPFqX"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197440,
+      "name": "\u30ea\u30d9\u30f3\u30b8\u30b2\u30fc\u30e0",
+      "url": "https://open.spotify.com/track/2zx260L01kpMk01XFjnfwd"
     },
     {
       "album": {
@@ -737,7 +845,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": "2022-10-13",
       "duration_ms": 262013,
       "name": "\u30ef\u30bf\u30b7\u30ce\u30c6\u30f3\u30b7",
       "url": "https://open.spotify.com/track/0oJkuurPe6RqlCYnsawcIm"
@@ -791,7 +899,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 92575,
       "name": "\u4e16\u754c\u306f\u604b\u306b\u843d\u3061\u3066\u3044\u308b TV size Instrumental",
       "url": "https://open.spotify.com/track/6GXvMEsyk4JFJV84v2MzHp"
@@ -863,7 +971,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 195600,
       "name": "\u5927\u4eba\u306b\u306a\u3063\u305f\u306d",
       "url": "https://open.spotify.com/track/0u2Y4PQ5hTZuQ3m5Qd2FIm"
@@ -899,7 +1007,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 282533,
       "name": "\u604b\u306e\u30b3\u30fc\u30c9",
       "url": "https://open.spotify.com/track/41DwwsezbdbyXoqq9KK5k5"
@@ -935,10 +1043,28 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 236626,
       "name": "\u6211\u6b66\u8005\u7f85",
       "url": "https://open.spotify.com/track/0L9JNPLUBrdshUMYzYQifY"
+    },
+    {
+      "album": {
+        "name": "\u6211\u6b66\u8005\u7f85 (TV size)",
+        "url": "https://open.spotify.com/album/0oPcNJfKvuBkb9fpg5UMxc"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90000,
+      "name": "\u6211\u6b66\u8005\u7f85 (TV size)",
+      "url": "https://open.spotify.com/track/2o6d0rAC9BAyPmgXnbXx1h"
     },
     {
       "album": {
@@ -971,7 +1097,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 267173,
       "name": "\u79c1\u3001\u30a2\u30a4\u30c9\u30eb\u5ba3\u8a00",
       "url": "https://open.spotify.com/track/7HVJK5NcZTQGvWB1yWHyAB"

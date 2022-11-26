@@ -4,7 +4,7 @@
 
 > This Is PSY\. The essential tracks, all in one playlist.
 
-133 songs - 7 hr 58 min - [published](https://open.spotify.com/playlist/5l00ejnPMlXZae2NLadm52)
+134 songs - 8 hr 2 min - [published](https://open.spotify.com/playlist/5l00ejnPMlXZae2NLadm52)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Freedom](https://open.spotify.com/track/3GnwO394zLxEi0djrevl6H) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [Psy From The Psycho World](https://open.spotify.com/album/1MHlOpXB48S9GqnDqnEb69) | 3:38 | 2022-04-29 |  |
 | [Gangnam Style](https://open.spotify.com/track/4htXSyLAH1wcHuLA5PKHSk) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [PSY SIX RULES, Pt\. 1](https://open.spotify.com/album/0Nq7k5hqml23K1VlrEnLNR) | 3:39 | 2022-04-29 | 2022-07-29 |
 | [Gangnam Style \(강남스타일\)](https://open.spotify.com/track/03UrZgTINDqvnUMbbIMhql) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [Gangnam Style \(강남스타일\)](https://open.spotify.com/album/0ZjxizLeMyFEjR27JIvD99) | 3:39 | 2022-04-29 |  |
+| [Gangnam Style \(강남스타일\)](https://open.spotify.com/track/0iWlsODzRa4Vrm4wBTaW7h) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [Kids Dance Party Music](https://open.spotify.com/album/3IJxyZ07BQS9q5oCZScKV2) | 3:39 | 2022-04-29 | 2022-11-13 |
 | [Gangnam Style \(강남스타일\) \- Afrojack Remix](https://open.spotify.com/track/7nb1X32kkXWkkilN4eS5So) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Gangnam Style \(강남스타일\)](https://open.spotify.com/album/3V9e90jaA4vyV7dkO8dwND) | 6:05 | 2022-04-29 |  |
 | [Gangnam Style \(강남스타일\) \- Diplo Remix \(Explicit Version\)](https://open.spotify.com/track/2DTGiVlsMRLRsSexzGtXVz) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Gangnam Style \(강남스타일\)](https://open.spotify.com/album/3V9e90jaA4vyV7dkO8dwND) | 3:25 | 2022-04-29 |  |
 | [Gangnam Style \(강남스타일\) \- Diplo Remix \(Instrumental\)](https://open.spotify.com/track/627xBFaO4u6mgNkYakPYfG) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Gangnam Style \(강남스타일\)](https://open.spotify.com/album/3V9e90jaA4vyV7dkO8dwND) | 3:27 | 2022-04-29 |  |

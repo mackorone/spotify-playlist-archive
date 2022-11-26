@@ -26,6 +26,46 @@
     },
     {
       "album": {
+        "name": "101",
+        "url": "https://open.spotify.com/album/2JJJHPnEkjM2quRLB0vnYl"
+      },
+      "artists": [
+        {
+          "name": "WALLA",
+          "url": "https://open.spotify.com/artist/1lhtpwswW0liqyOU52EP0E"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 203500,
+      "name": "101",
+      "url": "https://open.spotify.com/track/3HYXqOAm2Q8b2OyYqzv8d4"
+    },
+    {
+      "album": {
+        "name": "1998",
+        "url": "https://open.spotify.com/album/1uWEdiOlz8bwBOl1Mho0ap"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        },
+        {
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 224026,
+      "name": "1998",
+      "url": "https://open.spotify.com/track/0DdNKXYhsBBrHsUyMOdRaa"
+    },
+    {
+      "album": {
         "name": "Affection",
         "url": "https://open.spotify.com/album/5MdPMGnu8UZlDrrF0nQEKL"
       },
@@ -41,6 +81,24 @@
       "duration_ms": 311000,
       "name": "Affection",
       "url": "https://open.spotify.com/track/4eVNSHRazoHgfYGv3AYFyZ"
+    },
+    {
+      "album": {
+        "name": "Hold My Home (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0TVRC5LerpnNkti1gWsuW7"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 188106,
+      "name": "All This Could Be Yours",
+      "url": "https://open.spotify.com/track/1bbcAQuGuAxKS1HM96B8uh"
     },
     {
       "album": {
@@ -77,6 +135,24 @@
       "duration_ms": 260986,
       "name": "American Money",
       "url": "https://open.spotify.com/track/4AewKenHXKBt643p473xCk"
+    },
+    {
+      "album": {
+        "name": "VEGA INTL. Night School",
+        "url": "https://open.spotify.com/album/5qA9yoz0W5eHKYOr45Rkc4"
+      },
+      "artists": [
+        {
+          "name": "Neon Indian",
+          "url": "https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 242187,
+      "name": "Annie",
+      "url": "https://open.spotify.com/track/0GaDEH6o2nxvqRPqNTCtET"
     },
     {
       "album": {
@@ -134,6 +210,24 @@
     },
     {
       "album": {
+        "name": "My Love Is Cool",
+        "url": "https://open.spotify.com/album/6bRsXeFIUgPfYLZNprki2h"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224720,
+      "name": "Bros",
+      "url": "https://open.spotify.com/track/6NunWZuZ6g9KipJ9Q5Vck7"
+    },
+    {
+      "album": {
         "name": "Bubble Gum",
         "url": "https://open.spotify.com/album/4IlnBRDEsHcr9EWxmbgMC2"
       },
@@ -170,6 +264,24 @@
     },
     {
       "album": {
+        "name": "The Desired Effect",
+        "url": "https://open.spotify.com/album/0yCqicy5tGkPiB6gUZCRy4"
+      },
+      "artists": [
+        {
+          "name": "Brandon Flowers",
+          "url": "https://open.spotify.com/artist/18Zv2g2vUcEGqJf6WnjfXN"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 222413,
+      "name": "Can't Deny My Love",
+      "url": "https://open.spotify.com/track/52wkxz0pUQVw7LhrtJ9pWE"
+    },
+    {
+      "album": {
         "name": "I Love You, Honeybear",
         "url": "https://open.spotify.com/album/4vTEFCLgDEgKIQXTrsmS6F"
       },
@@ -199,10 +311,28 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 233762,
       "name": "Clearest Blue",
       "url": "https://open.spotify.com/track/0eozuFNutbnEbWKOvf4W86"
+    },
+    {
+      "album": {
+        "name": "Every Open Eye",
+        "url": "https://open.spotify.com/album/11kNM2Qz9AnObYsX3PQzuM"
+      },
+      "artists": [
+        {
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233769,
+      "name": "Clearest Blue",
+      "url": "https://open.spotify.com/track/7LvgXDcFRcu9zgWfZm65H0"
     },
     {
       "album": {
@@ -296,6 +426,24 @@
     },
     {
       "album": {
+        "name": "Sometimes I Sit and Think, and Sometimes I Just Sit",
+        "url": "https://open.spotify.com/album/6PosCDToF5fOdEjTI5PsDX"
+      },
+      "artists": [
+        {
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 292853,
+      "name": "Depreston",
+      "url": "https://open.spotify.com/track/6tCQCy7SCL2xg2QNe2inmd"
+    },
+    {
+      "album": {
         "name": "Peripheral Vision",
         "url": "https://open.spotify.com/album/5On8s1irA6JETiDvt2VUy7"
       },
@@ -332,6 +480,24 @@
     },
     {
       "album": {
+        "name": "Sound & Color",
+        "url": "https://open.spotify.com/album/0GaYG9L1sXHQZZ7BTk0hGY"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 232546,
+      "name": "Don't Wanna Fight",
+      "url": "https://open.spotify.com/track/6q0lIjDSuZDhrg9GC9yUQO"
+    },
+    {
+      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
       },
@@ -365,6 +531,24 @@
       "duration_ms": 249062,
       "name": "Downtown",
       "url": "https://open.spotify.com/track/4o9umFsPZmwRT5lve7QAps"
+    },
+    {
+      "album": {
+        "name": "This Is What It's Like",
+        "url": "https://open.spotify.com/album/7jJdFic5YXGnrFUjultwMf"
+      },
+      "artists": [
+        {
+          "name": "Glades",
+          "url": "https://open.spotify.com/artist/14rP13jdQNgQvuPA2AkBgm"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 187915,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/0czTyG0fnI3ERVcVrUx8Ol"
     },
     {
       "album": {
@@ -538,6 +722,24 @@
     },
     {
       "album": {
+        "name": "Glitterbug (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0n5sLhq91buJwIW4j3Ji0I"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 228470,
+      "name": "Give Me a Try",
+      "url": "https://open.spotify.com/track/0gohFCf3LlExQw41BfajZg"
+    },
+    {
+      "album": {
         "name": "JR JR",
         "url": "https://open.spotify.com/album/3shFtH3EfvyztGl2sdsmHS"
       },
@@ -700,6 +902,24 @@
     },
     {
       "album": {
+        "name": "Make Out",
+        "url": "https://open.spotify.com/album/4sldmS76FbpIaO2sEsZlBh"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 211340,
+      "name": "ILYSB",
+      "url": "https://open.spotify.com/track/3BwR5psKNxcyqWoc80eOuq"
+    },
+    {
+      "album": {
         "name": "Affection",
         "url": "https://open.spotify.com/album/5MdPMGnu8UZlDrrF0nQEKL"
       },
@@ -765,7 +985,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 237483,
       "name": "Leave a Trace",
       "url": "https://open.spotify.com/track/6CjbLEPcubhGJAlAQAruvo"
@@ -787,6 +1007,42 @@
       "duration_ms": 467586,
       "name": "Let It Happen",
       "url": "https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed"
+    },
+    {
+      "album": {
+        "name": "Kindred",
+        "url": "https://open.spotify.com/album/5vHUSuZ5xizxS3zfr3SKkq"
+      },
+      "artists": [
+        {
+          "name": "Passion Pit",
+          "url": "https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 263293,
+      "name": "Lifted Up (1985)",
+      "url": "https://open.spotify.com/track/0WjvB0SzNvgmuM46UjcMr8"
+    },
+    {
+      "album": {
+        "name": "The Desired Effect",
+        "url": "https://open.spotify.com/album/0yCqicy5tGkPiB6gUZCRy4"
+      },
+      "artists": [
+        {
+          "name": "Brandon Flowers",
+          "url": "https://open.spotify.com/artist/18Zv2g2vUcEGqJf6WnjfXN"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 210693,
+      "name": "Lonely Town",
+      "url": "https://open.spotify.com/track/7B04VRtTs6ucHp8qJ6Nz8M"
     },
     {
       "album": {
@@ -974,6 +1230,24 @@
     },
     {
       "album": {
+        "name": "Why Make Sense? (Definitive Version)",
+        "url": "https://open.spotify.com/album/1ID4yRgxYUutcLKzYDcln4"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285565,
+      "name": "Need You Now",
+      "url": "https://open.spotify.com/track/5MRYyecW552BEq2nRBfIQX"
+    },
+    {
+      "album": {
         "name": "Currents",
         "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
       },
@@ -1093,7 +1367,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 230560,
       "name": "Pedestrian at Best",
       "url": "https://open.spotify.com/track/7gsn3NxWLA0s0g9TmQlMri"
@@ -1115,6 +1389,24 @@
       "duration_ms": 226106,
       "name": "Pink Lemonade",
       "url": "https://open.spotify.com/track/7dFERLugNJZUgtX1V3KA4b"
+    },
+    {
+      "album": {
+        "name": "Powers",
+        "url": "https://open.spotify.com/album/6eAY7uvXPsEb94DGXiGtic"
+      },
+      "artists": [
+        {
+          "name": "Lostboycrow",
+          "url": "https://open.spotify.com/artist/5PxCTrv3Y1xVACfngpt7D2"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 202827,
+      "name": "Powers",
+      "url": "https://open.spotify.com/track/7pafGsk7gZlQ40sF4Pncj2"
     },
     {
       "album": {
@@ -1298,6 +1590,42 @@
     },
     {
       "album": {
+        "name": "My Love Is Cool",
+        "url": "https://open.spotify.com/album/6bRsXeFIUgPfYLZNprki2h"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 243986,
+      "name": "Silk",
+      "url": "https://open.spotify.com/track/5z75fXqSd5jhRsV543Trxh"
+    },
+    {
+      "album": {
+        "name": "Teens of Style",
+        "url": "https://open.spotify.com/album/7s2vwXfI8Ki49zYIfTTkRT"
+      },
+      "artists": [
+        {
+          "name": "Car Seat Headrest",
+          "url": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 260426,
+      "name": "Something Soon",
+      "url": "https://open.spotify.com/track/1L2U62lhBK991jQJ1uecD5"
+    },
+    {
+      "album": {
         "name": "Sound & Color (Deluxe)",
         "url": "https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA"
       },
@@ -1334,6 +1662,24 @@
     },
     {
       "album": {
+        "name": "Depression Cherry",
+        "url": "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 321133,
+      "name": "Sparks",
+      "url": "https://open.spotify.com/track/5ORY1GDl3lpEDyU1CzSq26"
+    },
+    {
+      "album": {
         "name": "Ego Death",
         "url": "https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q"
       },
@@ -1353,7 +1699,7 @@
     {
       "album": {
         "name": "Hope",
-        "url": "https://open.spotify.com/album/4wIE6aAQq4GL10ae7cjZZ0"
+        "url": "https://open.spotify.com/album/3hR8a4KfoKuRvMDmZB3Di4"
       },
       "artists": [
         {
@@ -1366,7 +1712,43 @@
       "date_removed": null,
       "duration_ms": 203653,
       "name": "Spirits",
+      "url": "https://open.spotify.com/track/1VyiUi0mRnSKgtHa5dBoUd"
+    },
+    {
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/4wIE6aAQq4GL10ae7cjZZ0"
+      },
+      "artists": [
+        {
+          "name": "The Strumbellas",
+          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 203653,
+      "name": "Spirits",
       "url": "https://open.spotify.com/track/7GJ572zvnU94VZVrj5XRtb"
+    },
+    {
+      "album": {
+        "name": "Inanimate Objects",
+        "url": "https://open.spotify.com/album/3jQxdLlKciB0WQncSVhM39"
+      },
+      "artists": [
+        {
+          "name": "Atlas Genius",
+          "url": "https://open.spotify.com/artist/42vg2T0Xg9yPaAgogJzoQH"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 191640,
+      "name": "Stockholm",
+      "url": "https://open.spotify.com/track/7tKnaB8gsXxyPScxEwzQ9N"
     },
     {
       "album": {
@@ -1421,6 +1803,24 @@
       "duration_ms": 180119,
       "name": "Technicolour Beat",
       "url": "https://open.spotify.com/track/5pLpkaIRobcvPnUmclNv6o"
+    },
+    {
+      "album": {
+        "name": "Temporary Love",
+        "url": "https://open.spotify.com/album/1cRv0odNNvTSxVnNFmeusc"
+      },
+      "artists": [
+        {
+          "name": "The Brinks",
+          "url": "https://open.spotify.com/artist/4fLpQdr6R7gqNGY7xpr7Jz"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 205129,
+      "name": "Temporary Love",
+      "url": "https://open.spotify.com/track/2U6hcDLZHYRSd9Up0mMe9W"
     },
     {
       "album": {
@@ -1489,10 +1889,28 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 221226,
       "name": "The Wolf",
       "url": "https://open.spotify.com/track/2rS77EbhEs7Y2UZD8pWIPb"
+    },
+    {
+      "album": {
+        "name": "Wilder Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221226,
+      "name": "The Wolf",
+      "url": "https://open.spotify.com/track/7xvcfEnaPXtiFt79Rzq1fm"
     },
     {
       "album": {
@@ -1565,6 +1983,24 @@
       "duration_ms": 197000,
       "name": "Tired of Talking",
       "url": "https://open.spotify.com/track/63MRutmAXJwkxhMhPHoioS"
+    },
+    {
+      "album": {
+        "name": "Escape From Evil",
+        "url": "https://open.spotify.com/album/3lzj0ftwAZ9XFp3qFs2lMN"
+      },
+      "artists": [
+        {
+          "name": "Lower Dens",
+          "url": "https://open.spotify.com/artist/5uTJLo3c4ZHpH8oEwGxYUN"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 251440,
+      "name": "To Die in L.A.",
+      "url": "https://open.spotify.com/track/0sujwD2rDemdq6lBUvlB6j"
     },
     {
       "album": {
@@ -1811,7 +2247,7 @@
     {
       "album": {
         "name": "Vallis Alps",
-        "url": "https://open.spotify.com/album/0s2fghAEEk3Uzz1IbGMDlq"
+        "url": "https://open.spotify.com/album/5mLmU1wyeAM453ysZZozm2"
       },
       "artists": [
         {
@@ -1822,6 +2258,24 @@
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 324106,
+      "name": "Young",
+      "url": "https://open.spotify.com/track/0ad87RTfHWmC2Syh1nOxEd"
+    },
+    {
+      "album": {
+        "name": "Vallis Alps",
+        "url": "https://open.spotify.com/album/0s2fghAEEk3Uzz1IbGMDlq"
+      },
+      "artists": [
+        {
+          "name": "Vallis Alps",
+          "url": "https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-22",
       "duration_ms": 324122,
       "name": "Young",
       "url": "https://open.spotify.com/track/3u4rIcRR7gSoJdkJIx9zpu"

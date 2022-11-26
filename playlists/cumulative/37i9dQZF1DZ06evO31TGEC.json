@@ -325,7 +325,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 192120,
       "name": "Dime Una Y Otra Vez (Versi\u00f3n Remasterizada De 2021)",
       "url": "https://open.spotify.com/track/4aP9JFXT8QYMqy7N5lrZIf"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 189426,
       "name": "El Dolido",
       "url": "https://open.spotify.com/track/3QUVQh9YRliiLmBShel2DO"
@@ -422,6 +422,24 @@
     },
     {
       "album": {
+        "name": "Equivocate Conmigo",
+        "url": "https://open.spotify.com/album/2DVrRcNSzwFdtAXIzrDEev"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167224,
+      "name": "Equivocate Conmigo",
+      "url": "https://open.spotify.com/track/7C2SbfRHXH8PlpS3dwG8Z7"
+    },
+    {
+      "album": {
         "name": "Le Hace Falta Un Beso",
         "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
       },
@@ -433,7 +451,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 151642,
       "name": "Es Por Ti",
       "url": "https://open.spotify.com/track/5LACTc0id37jxR2cVICzWJ"
@@ -657,7 +675,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 181356,
       "name": "Loco - Version Mariachi",
       "url": "https://open.spotify.com/track/1SFSlKPiGIhMUuTULvzdSO"
@@ -837,7 +855,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 195373,
       "name": "Que Te Ha Dado Esa Mujer",
       "url": "https://open.spotify.com/track/5RPtcMJ9q1zfgw2OfTbFlQ"

@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 162240,
       "name": "Carinito de Mi Vida",
       "url": "https://open.spotify.com/track/7niNLsYJFkdh1VoZlWLlVH"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 210626,
       "name": "Cien Por Uno",
       "url": "https://open.spotify.com/track/3Q2XC6VEwTXYVyrRO25csQ"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-10-16",
       "duration_ms": 182773,
       "name": "Compa Alfredito",
       "url": "https://open.spotify.com/track/50duN2SOYCZoDNWJf526HO"
@@ -207,7 +207,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 162631,
       "name": "De Huarache y Sombrero / Huarache De Tres Piquetes",
       "url": "https://open.spotify.com/track/5NrcpNz06ZxDwjKFv13Ja5"
@@ -283,7 +283,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 197973,
       "name": "D\u00e9jame Vac\u00edo",
       "url": "https://open.spotify.com/track/0v0ErfXljJyjfIKYQLokHP"
@@ -319,7 +319,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 198293,
       "name": "D\u00e9jame Vac\u00edo",
       "url": "https://open.spotify.com/track/5A4ZBuH15Sm6Ys2EWnqXrV"
@@ -337,7 +337,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-10-13",
       "duration_ms": 254800,
       "name": "El Avi\u00f3n De La Muerte",
       "url": "https://open.spotify.com/track/1D1iVySlRJhOwygJDQRaqk"
@@ -355,7 +355,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": "2022-10-12",
       "duration_ms": 181720,
       "name": "El Bar\u00f3n De Babonica",
       "url": "https://open.spotify.com/track/1SSGZ3in0ATCOkmp9r8iKy"
@@ -449,7 +449,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 188706,
       "name": "El Comandante Fuentes",
       "url": "https://open.spotify.com/track/7Jmo1akMie3KPVSMBqJvvb"
@@ -467,7 +467,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 171363,
       "name": "El Compa Many - En Vivo",
       "url": "https://open.spotify.com/track/6HABzIziCLuoHMYX6vTJQ7"
@@ -579,10 +579,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-16",
       "duration_ms": 173499,
       "name": "El Jabali - En Vivo",
       "url": "https://open.spotify.com/track/1ckXZnEJwjM907IZBDUX5z"
+    },
+    {
+      "album": {
+        "name": "Los Mejores Corridos",
+        "url": "https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168626,
+      "name": "El Jabal\u00ed",
+      "url": "https://open.spotify.com/track/4fnYZTgXsEwpwO1GXTABlS"
     },
     {
       "album": {
@@ -597,7 +615,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 248440,
       "name": "El Licenciado",
       "url": "https://open.spotify.com/track/3Z6HAOYGo0za5tpU7X7Rg3"
@@ -626,6 +644,24 @@
     },
     {
       "album": {
+        "name": "Jerarquia de Corridos con Power Sinaloense! (Edited Version)",
+        "url": "https://open.spotify.com/album/760dpWpOhMO2dcbqR6cNoA"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181146,
+      "name": "El Mensaje",
+      "url": "https://open.spotify.com/track/5KCqnvbmpJt4E8LiojzPCM"
+    },
+    {
+      "album": {
         "name": "20 Kilates",
         "url": "https://open.spotify.com/album/6hbJtpFQ3bE1VA0cOXAghB"
       },
@@ -637,7 +673,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 216333,
       "name": "El Mes De Enero",
       "url": "https://open.spotify.com/track/2PMxD8zB78QHvr7Pi7ftOm"
@@ -677,7 +713,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 224960,
       "name": "El Ni\u00f1o Sabio",
       "url": "https://open.spotify.com/track/10R5cUV5ba5FcjbnMgPlo0"
@@ -699,6 +735,32 @@
       "duration_ms": 182626,
       "name": "El Peinado",
       "url": "https://open.spotify.com/track/1AV3hkXXZnZE5BhZtjjVDg"
+    },
+    {
+      "album": {
+        "name": "R\u00e9gulo Caro vs. Emilio Garra",
+        "url": "https://open.spotify.com/album/3jpK8xsQuiEeCLCj3zwpyY"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        },
+        {
+          "name": "Emilio Garra",
+          "url": "https://open.spotify.com/artist/5EgezdXajH2FAf79KHmrah"
+        },
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-10",
+      "duration_ms": 145655,
+      "name": "El pescador - Banda",
+      "url": "https://open.spotify.com/track/0RAIrifbFUXrGpVM42LfqL"
     },
     {
       "album": {
@@ -909,7 +971,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 186586,
       "name": "La Captura Del Zar",
       "url": "https://open.spotify.com/track/4UzgvxcaLDMM6iujVVHb3m"
@@ -1087,7 +1149,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 214533,
       "name": "La Vida Marca los Rumbos",
       "url": "https://open.spotify.com/track/2jRgDq88GVkM0wJH1ygASp"
@@ -1116,6 +1178,28 @@
     },
     {
       "album": {
+        "name": "Lagrimas De Sangre (En Vivo)",
+        "url": "https://open.spotify.com/album/0R0TNN50Cj3N5pGWIHqjxU"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Guicho",
+          "url": "https://open.spotify.com/artist/7IiCm7VkqzW7vN0MY9AzHe"
+        },
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166571,
+      "name": "Lagrimas De Sangre (En Vivo)",
+      "url": "https://open.spotify.com/track/41krtGYlUjufT47u5jTYGg"
+    },
+    {
+      "album": {
         "name": "Hombre de 14 A\u00f1os",
         "url": "https://open.spotify.com/album/3BLUTvavXdcEmRfo52xCPy"
       },
@@ -1131,7 +1215,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 239381,
       "name": "Las Tempestades",
       "url": "https://open.spotify.com/track/28ylzCdO95jHk2gjTcD02P"
@@ -1273,10 +1357,32 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 330580,
       "name": "Palomas Que Andan Volando / Cari\u00f1ito de Mi Vida - En Vivo",
       "url": "https://open.spotify.com/track/5jwl6jbNnPGtj01xeSGMaY"
+    },
+    {
+      "album": {
+        "name": "Hombre Nuevo",
+        "url": "https://open.spotify.com/album/7gmjWu4fTRRdcEFvUCesrA"
+      },
+      "artists": [
+        {
+          "name": "Tomas Hernandez",
+          "url": "https://open.spotify.com/artist/1xYRTB4bJqGh639domz2BS"
+        },
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202400,
+      "name": "Por Cristo Vivo (feat. El Potro de Sinaloa)",
+      "url": "https://open.spotify.com/track/1LUQKYTfsiyBA8S7nQGzky"
     },
     {
       "album": {
@@ -1291,7 +1397,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 149973,
       "name": "Por Que No Vienes",
       "url": "https://open.spotify.com/track/5VgUoHUEPmWg93aX2CgXrf"
@@ -1331,7 +1437,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 249556,
       "name": "Renunciaci\u00f3n - En Vivo",
       "url": "https://open.spotify.com/track/5QeX0Wp11Fmu4jsJhAOGcR"
@@ -1349,7 +1455,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 162586,
       "name": "Se Equivoc\u00f3 El Pistolero",
       "url": "https://open.spotify.com/track/6h8mrn4tKFtPSfvd9N7RMB"
@@ -1367,7 +1473,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 152383,
       "name": "Tiro de Gracia",
       "url": "https://open.spotify.com/track/57SQ2W3VEQ0PMcUKrcMY2H"
@@ -1403,10 +1509,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 224440,
       "name": "Yo No Se Ma\u00f1ana",
       "url": "https://open.spotify.com/track/5mSq2IwckbahgZBQcQCBCk"
+    },
+    {
+      "album": {
+        "name": "En el Rancho en Vivo y A todo Color",
+        "url": "https://open.spotify.com/album/5WGYEIArZrDYvb7bv6EUIh"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
+      "duration_ms": 186251,
+      "name": "Yo Perdi - En Vivo",
+      "url": "https://open.spotify.com/track/2qtZ6TVydnXxjB9aTtgwF3"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0iB3OE"

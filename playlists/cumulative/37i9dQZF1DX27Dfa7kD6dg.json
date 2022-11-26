@@ -44,6 +44,42 @@
     },
     {
       "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/1p6xGZMJIMPCeeOO1Qln6d"
+      },
+      "artists": [
+        {
+          "name": "Joe Cuba Sextet",
+          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 163560,
+      "name": "A Las Seis",
+      "url": "https://open.spotify.com/track/41dRlCj0PYbcP3TI4wQAgp"
+    },
+    {
+      "album": {
+        "name": "En su Salsa",
+        "url": "https://open.spotify.com/album/3Kj9hNnPQ8qvuIVbghwnJM"
+      },
+      "artists": [
+        {
+          "name": "La Critica",
+          "url": "https://open.spotify.com/artist/5poEGfCmeFo8HcoNaOLIo0"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 223944,
+      "name": "A \u00c9l",
+      "url": "https://open.spotify.com/track/1Sn5O8TkmzIzFYTUwLaO6g"
+    },
+    {
+      "album": {
         "name": "Sin Salsa No Hay Para\u00edso",
         "url": "https://open.spotify.com/album/2yc30O2X7cCE2LTzJCzO3l"
       },
@@ -77,6 +113,24 @@
       "duration_ms": 153608,
       "name": "Acuyuye",
       "url": "https://open.spotify.com/track/5LCpO7pp92DHmXzCLtJnnj"
+    },
+    {
+      "album": {
+        "name": "Hits Salseros Vol.2",
+        "url": "https://open.spotify.com/album/3yQRAovUp0YwpNTvS7z5h3"
+      },
+      "artists": [
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 155598,
+      "name": "Acuyuye",
+      "url": "https://open.spotify.com/track/4j8uY4BhwMlgHg2tuVCdqj"
     },
     {
       "album": {
@@ -116,6 +170,42 @@
     },
     {
       "album": {
+        "name": "SALSITA ROM\u00c1NTICA",
+        "url": "https://open.spotify.com/album/1OcLSafmackAs91GmNVyHF"
+      },
+      "artists": [
+        {
+          "name": "Cheo Feliciano",
+          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 253253,
+      "name": "Anacaona",
+      "url": "https://open.spotify.com/track/3jJCdug99GTH7cNzymIA2n"
+    },
+    {
+      "album": {
+        "name": "La Historia... Los \u00c9xitos",
+        "url": "https://open.spotify.com/album/5hVmKtEt52RcmAk6LYB2vJ"
+      },
+      "artists": [
+        {
+          "name": "Adolescent's Orquesta",
+          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 245106,
+      "name": "Anhelo",
+      "url": "https://open.spotify.com/track/6mqEhKz4AmDjujwZrfnqwq"
+    },
+    {
+      "album": {
         "name": "Reclamando Nuestro Espacio",
         "url": "https://open.spotify.com/album/22oTpQbBrBfkrqMsumH3OX"
       },
@@ -152,6 +242,24 @@
     },
     {
       "album": {
+        "name": "25 A\u00f1os, 25 \u00c9xitos, 25 Artistas",
+        "url": "https://open.spotify.com/album/4CMjUtztu4nXimeCmu0LuB"
+      },
+      "artists": [
+        {
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 259578,
+      "name": "Ay Amor, Cuando Hablan las Miradas",
+      "url": "https://open.spotify.com/track/2ocrrzqQCZc2cSnXDRw57E"
+    },
+    {
+      "album": {
         "name": "Bambol\u00e9o",
         "url": "https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2"
       },
@@ -171,6 +279,28 @@
       "duration_ms": 327466,
       "name": "Bambol\u00e9o",
       "url": "https://open.spotify.com/track/4Gu8MRCmbJbX2sGueXipVg"
+    },
+    {
+      "album": {
+        "name": "Mi Vida Es: Salsa",
+        "url": "https://open.spotify.com/album/0mJKj4oqYXP08LRSALmniF"
+      },
+      "artists": [
+        {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 327480,
+      "name": "Bambol\u00e9o",
+      "url": "https://open.spotify.com/track/4tt7BxVhTyYKZsNGZ8qgq5"
     },
     {
       "album": {
@@ -394,6 +524,42 @@
     },
     {
       "album": {
+        "name": "A Man And His Music: El Inolvidable",
+        "url": "https://open.spotify.com/album/7101EVthCwrld4QKetHmb6"
+      },
+      "artists": [
+        {
+          "name": "Tito Rodriguez",
+          "url": "https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 173106,
+      "name": "Cuando Sale El Sol",
+      "url": "https://open.spotify.com/track/0jvSh1t5k0NiOemAFQACMw"
+    },
+    {
+      "album": {
+        "name": "Detalles",
+        "url": "https://open.spotify.com/album/6Pp6uOFfJyhlKopibGWQXC"
+      },
+      "artists": [
+        {
+          "name": "La Critica",
+          "url": "https://open.spotify.com/artist/5poEGfCmeFo8HcoNaOLIo0"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 215272,
+      "name": "Cu\u00eddate Bi\u00e9n",
+      "url": "https://open.spotify.com/track/3KtutmQJvf1SSFRSt1fYfU"
+    },
+    {
+      "album": {
         "name": "Colecci\u00f3n De Oro: La Cr\u00edtica Y Sus Cantantes, Vol. 1",
         "url": "https://open.spotify.com/album/66AzgPZCCRROGy1N1DO9ix"
       },
@@ -430,6 +596,24 @@
     },
     {
       "album": {
+        "name": "Rodven Clasico: Eddie Santiago: Atrevido Y Diferente",
+        "url": "https://open.spotify.com/album/0YCfHwFgIZ9n5pzFZiHmsi"
+      },
+      "artists": [
+        {
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 269333,
+      "name": "De Profesi\u00f3n...Tu Amante",
+      "url": "https://open.spotify.com/track/7aMPDXIz7Cq0jVEVgtiA5f"
+    },
+    {
+      "album": {
         "name": "Mi Tumbao Social",
         "url": "https://open.spotify.com/album/3UL8WmEzBRWnGLgBA0tDkj"
       },
@@ -445,6 +629,24 @@
       "duration_ms": 250009,
       "name": "Deja de Criticar",
       "url": "https://open.spotify.com/track/1TNBaVWcOnNIiPCJaNV0rz"
+    },
+    {
+      "album": {
+        "name": "\u00c9xitos de la Salsa",
+        "url": "https://open.spotify.com/album/4dE8XD9VBh3UDOio2LsqKc"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 622520,
+      "name": "El Cantante",
+      "url": "https://open.spotify.com/track/166cUvnNBa5ZoFWLIsLZfU"
     },
     {
       "album": {
@@ -484,6 +686,24 @@
     },
     {
       "album": {
+        "name": "A Man And His Music: Poeta del Pueblo",
+        "url": "https://open.spotify.com/album/3OFaszBlhmz3MkM8fpP2Nf"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 379200,
+      "name": "El Cantante",
+      "url": "https://open.spotify.com/track/3yFacze5pK2SFRam4eAgpj"
+    },
+    {
+      "album": {
         "name": "Doble Filo",
         "url": "https://open.spotify.com/album/0Dc2VpMZLD3dg7yZD7oTUA"
       },
@@ -499,6 +719,24 @@
       "duration_ms": 380106,
       "name": "El Cantante",
       "url": "https://open.spotify.com/track/6wUm4Hpp5LchMaiNhZ6JpX"
+    },
+    {
+      "album": {
+        "name": "Salsa Bailable Vieja",
+        "url": "https://open.spotify.com/album/3fd5WU5IiA0furWQpeAogp"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 414706,
+      "name": "El Gran Var\u00f3n",
+      "url": "https://open.spotify.com/track/1jhBIxd2Twwvb8RL4aVH9O"
     },
     {
       "album": {
@@ -535,6 +773,24 @@
       "duration_ms": 292000,
       "name": "El Que Se Fue - Tributo A Tito Rodriguez",
       "url": "https://open.spotify.com/track/4Fy9sNCxSGGc8jxU8eAp3O"
+    },
+    {
+      "album": {
+        "name": "Salsa Explosion: The Sound Of Fania Records",
+        "url": "https://open.spotify.com/album/3vYCP5as7dLx76ZEXEGoYK"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 261293,
+      "name": "El Todopoderoso",
+      "url": "https://open.spotify.com/track/340My51AcFqxCGFVyc4uYM"
     },
     {
       "album": {
@@ -704,6 +960,24 @@
     },
     {
       "album": {
+        "name": "20 Triunfadores Bailables",
+        "url": "https://open.spotify.com/album/7pzXfgKRnMh49wDt2amuWD"
+      },
+      "artists": [
+        {
+          "name": "Matecana Orquesta",
+          "url": "https://open.spotify.com/artist/0ekJN54dVshW0hk3yWRiyl"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 287399,
+      "name": "Gracias Amor",
+      "url": "https://open.spotify.com/track/0PIIR8tDuOHpEoMcPY3Ayp"
+    },
+    {
+      "album": {
         "name": "Que Bueno",
         "url": "https://open.spotify.com/album/03402zoYuwCwfeQ2MLg6St"
       },
@@ -740,6 +1014,24 @@
     },
     {
       "album": {
+        "name": "A Man And His Music: El Alcalde del Barrio",
+        "url": "https://open.spotify.com/album/6ASbD8V7a0YZpvlnbnkMh6"
+      },
+      "artists": [
+        {
+          "name": "Joe Cuba Sextet",
+          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 168480,
+      "name": "Hecho Y Derecho",
+      "url": "https://open.spotify.com/track/3P0bJq60iLRWEvJCJNt54T"
+    },
+    {
+      "album": {
         "name": "Descargando",
         "url": "https://open.spotify.com/album/4EuoJF1Bd372NCI5C2fH4z"
       },
@@ -773,6 +1065,28 @@
       "duration_ms": 269293,
       "name": "Insaciable",
       "url": "https://open.spotify.com/track/2NhpUxYubhTbFqn8PFNfwo"
+    },
+    {
+      "album": {
+        "name": "The Greatest Salsa Ever Vol. 3",
+        "url": "https://open.spotify.com/album/4iL9EeR4EY5VkKuHDd6pMn"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        },
+        {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 371226,
+      "name": "Juan Pachanga",
+      "url": "https://open.spotify.com/track/6z8vuwa67ZSTmwpCfIT2cW"
     },
     {
       "album": {
@@ -860,6 +1174,24 @@
     },
     {
       "album": {
+        "name": "La Herencia",
+        "url": "https://open.spotify.com/album/6HhBpo1quKITZy5IZwqx3V"
+      },
+      "artists": [
+        {
+          "name": "Charlie Palmieri",
+          "url": "https://open.spotify.com/artist/1qNctKAgK8LDV3agmP8ukS"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 273360,
+      "name": "La Hija De Lola",
+      "url": "https://open.spotify.com/track/09fh1eRgcOMKPF1ipmQSwJ"
+    },
+    {
+      "album": {
         "name": "Sorpresa La Flauta",
         "url": "https://open.spotify.com/album/54Isd9McgLu4F3BuV06MZJ"
       },
@@ -875,6 +1207,32 @@
       "duration_ms": 196640,
       "name": "La Loter\u00eda",
       "url": "https://open.spotify.com/track/1i8gsWMG0WxYoPMw498quW"
+    },
+    {
+      "album": {
+        "name": "Mix Latinos",
+        "url": "https://open.spotify.com/album/1CN9y1QYYbvDBcJyTh2hXy"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Yomo Toro",
+          "url": "https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 333520,
+      "name": "La Murga",
+      "url": "https://open.spotify.com/track/19H2WWw0j6t0gEuWPLbdq9"
     },
     {
       "album": {
@@ -998,6 +1356,24 @@
     },
     {
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/6a1kGf6fYZFLlnLJh0LiID"
+      },
+      "artists": [
+        {
+          "name": "Ray Barretto",
+          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 233906,
+      "name": "Llanto De Cocodrilo",
+      "url": "https://open.spotify.com/track/3j58LFr0V1z7RVgVky9FQw"
+    },
+    {
+      "album": {
         "name": "Indestructible",
         "url": "https://open.spotify.com/album/5ColFlrN4x7WcxDuxMrBsC"
       },
@@ -1013,6 +1389,24 @@
       "duration_ms": 234960,
       "name": "Llanto De Cocodrilo",
       "url": "https://open.spotify.com/track/5bDXe2wsNqx4ZOPhudNdWu"
+    },
+    {
+      "album": {
+        "name": "Amantes de la salsa",
+        "url": "https://open.spotify.com/album/664p8p1mGY6fsKarH8YMZH"
+      },
+      "artists": [
+        {
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 296040,
+      "name": "Lluvia",
+      "url": "https://open.spotify.com/track/12Gs9s3ybQUDCuSwJjEd31"
     },
     {
       "album": {
@@ -1070,6 +1464,24 @@
     },
     {
       "album": {
+        "name": "Latino 57 - Salsa Bachata Merengue Reggaeton (Latin Hits)",
+        "url": "https://open.spotify.com/album/0Njsqe6RPpNLYtbMXlZ0vJ"
+      },
+      "artists": [
+        {
+          "name": "Chiquito Team Band",
+          "url": "https://open.spotify.com/artist/0vEYOFlkqy2FUy1UOF7RiV"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 228500,
+      "name": "Lupita",
+      "url": "https://open.spotify.com/track/2y038Lx5gqPDjTsXLbyijg"
+    },
+    {
+      "album": {
         "name": "La Industria Salsera",
         "url": "https://open.spotify.com/album/7yR0GaIJhP25tHzD0lQVzq"
       },
@@ -1103,6 +1515,24 @@
       "duration_ms": 168986,
       "name": "Mambo Gozon",
       "url": "https://open.spotify.com/track/0hk1gSyn3wKgdxqF6qaKUZ"
+    },
+    {
+      "album": {
+        "name": "Dance Mania (Legacy Edition)",
+        "url": "https://open.spotify.com/album/5lEk5pQKxyyLfDLGDBSC2L"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente & His Orchestra",
+          "url": "https://open.spotify.com/artist/1zN5Et4jcH3XQ0b60IGmp1"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 167213,
+      "name": "Mambo Gozon",
+      "url": "https://open.spotify.com/track/7sGDeU8e8UlvcWL9K2GeKF"
     },
     {
       "album": {
@@ -1142,6 +1572,24 @@
     },
     {
       "album": {
+        "name": "The Legend's 30th Anniversary",
+        "url": "https://open.spotify.com/album/6XlUsTrwu564zUN3dWHnsO"
+      },
+      "artists": [
+        {
+          "name": "Tito Rodriguez",
+          "url": "https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 165800,
+      "name": "Matrimonio Feliz",
+      "url": "https://open.spotify.com/track/11HnVww2guN1yGkmgaapqR"
+    },
+    {
+      "album": {
         "name": "West Side Beat",
         "url": "https://open.spotify.com/album/1f1d2MmipD04zEtytUAhT2"
       },
@@ -1178,6 +1626,24 @@
     },
     {
       "album": {
+        "name": "De Verdad",
+        "url": "https://open.spotify.com/album/1MNS4bn9b4b1E5J4w9ogP7"
+      },
+      "artists": [
+        {
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 303933,
+      "name": "Me Fallaste",
+      "url": "https://open.spotify.com/track/0T5C8oe4xdHVqryxil2eEG"
+    },
+    {
+      "album": {
         "name": "Separala Tambi\u00e9n! Cantando Tito Rodr\u00edguez",
         "url": "https://open.spotify.com/album/0NnMASskJ96x4sESAFpMCR"
       },
@@ -1200,6 +1666,24 @@
     },
     {
       "album": {
+        "name": "Baila salsa Per\u00fa",
+        "url": "https://open.spotify.com/album/4vArgRq4rkagyJvjwuXRPm"
+      },
+      "artists": [
+        {
+          "name": "Roberto Roena Y Su Apollo Sound",
+          "url": "https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 335606,
+      "name": "Mi Desenga\u00f1o",
+      "url": "https://open.spotify.com/track/7x29mQdMbf49Jc4i5uDD9k"
+    },
+    {
+      "album": {
         "name": "Lucky 7",
         "url": "https://open.spotify.com/album/4cowySOrdhav97PZipt4Uz"
       },
@@ -1215,6 +1699,24 @@
       "duration_ms": 335960,
       "name": "Mi Desenga\u00f1o",
       "url": "https://open.spotify.com/track/1RKBf3NxIYZXKZNzdrXg69"
+    },
+    {
+      "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/2ijuf2yLBpArbf2fyBxvGn"
+      },
+      "artists": [
+        {
+          "name": "Sonora Ponce\u00f1a",
+          "url": "https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 349586,
+      "name": "Mi Lindo Yamb\u00fa",
+      "url": "https://open.spotify.com/track/03J4RDNCNTPzBbs1ORLMMH"
     },
     {
       "album": {
@@ -1366,6 +1868,24 @@
     },
     {
       "album": {
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/6JB01yiDfrkIeccoiVWb8G"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 358520,
+      "name": "Nuestro Sue\u00f1o",
+      "url": "https://open.spotify.com/track/5m1dYzePosbiQtaUz7uSIZ"
+    },
+    {
+      "album": {
         "name": "Siempre Una Aventura",
         "url": "https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF"
       },
@@ -1399,6 +1919,24 @@
       "duration_ms": 220333,
       "name": "Pachito Eche",
       "url": "https://open.spotify.com/track/4Bo0925JisL1yD285mAPTu"
+    },
+    {
+      "album": {
+        "name": "El Mejor Salsero",
+        "url": "https://open.spotify.com/album/1O0JjI5wtazwLdhDzzxqQc"
+      },
+      "artists": [
+        {
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 215214,
+      "name": "Para Chango",
+      "url": "https://open.spotify.com/track/04QhauTGbpgnvoqNjKs0RV"
     },
     {
       "album": {
@@ -1442,6 +1980,24 @@
     },
     {
       "album": {
+        "name": "Salsa Mix, Vol. 3",
+        "url": "https://open.spotify.com/album/1wOMY5o7ss0MptUEp8oitS"
+      },
+      "artists": [
+        {
+          "name": "Adolescent's Orquesta",
+          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 279453,
+      "name": "Persona Ideal",
+      "url": "https://open.spotify.com/track/4RqmUue0IPUaI9x1me5asq"
+    },
+    {
+      "album": {
         "name": "Persona Ideal",
         "url": "https://open.spotify.com/album/3YuzaY1bX9uhlhWR0f19mP"
       },
@@ -1475,6 +2031,24 @@
       "duration_ms": 338781,
       "name": "Pirata",
       "url": "https://open.spotify.com/track/25yBFDuKXnpPdlBSYZPZvF"
+    },
+    {
+      "album": {
+        "name": "Salsa Dominicana 2014",
+        "url": "https://open.spotify.com/album/3pBMyw5xVajsUDxnk0s5dH"
+      },
+      "artists": [
+        {
+          "name": "Yiyo Sarante",
+          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 338781,
+      "name": "Pirata",
+      "url": "https://open.spotify.com/track/612j7Kpj7WRgKwTVEz3Hkb"
     },
     {
       "album": {
@@ -1515,6 +2089,28 @@
       "duration_ms": 239420,
       "name": "Pregones De San Crist\u00f3bal",
       "url": "https://open.spotify.com/track/64agTveoc8y1cXjfLHJG9c"
+    },
+    {
+      "album": {
+        "name": "NYC Salsa: The Incendiary Sound Of Latin New York",
+        "url": "https://open.spotify.com/album/0zAPFypeHyT2WJ1POjtZAS"
+      },
+      "artists": [
+        {
+          "name": "Larry Harlow",
+          "url": "https://open.spotify.com/artist/2PGJmP6AvSCQ7pKBOjrg8J"
+        },
+        {
+          "name": "Frankie Dante & Orquesta Flamboyan",
+          "url": "https://open.spotify.com/artist/27G5wNXY4nO0Ji2weHv9PR"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 242653,
+      "name": "Presidente Dante",
+      "url": "https://open.spotify.com/track/1131ld8ZZdUGK0fwM5uqKL"
     },
     {
       "album": {
@@ -1620,6 +2216,24 @@
     },
     {
       "album": {
+        "name": "Salsa Para Todos",
+        "url": "https://open.spotify.com/album/3zSLfMJ91qrX92keIZM57G"
+      },
+      "artists": [
+        {
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 309813,
+      "name": "Que Locura Enamorarme De Ti",
+      "url": "https://open.spotify.com/track/5ySuOlFM5u7bX70loeeXqL"
+    },
+    {
+      "album": {
         "name": "Serie Platino",
         "url": "https://open.spotify.com/album/76LbBAaJ1PqZU9fADHiqqt"
       },
@@ -1649,10 +2263,28 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 292852,
       "name": "Qui\u00e9reme Tal Como Soy",
       "url": "https://open.spotify.com/track/1KbbxKaj3LK7z8nC3TawqF"
+    },
+    {
+      "album": {
+        "name": "Salsa Sensual, Vol. 1",
+        "url": "https://open.spotify.com/album/20rmPQW0XSuaqPWu6Lqfkv"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De New York",
+          "url": "https://open.spotify.com/artist/10fmLCyVtSdgMCYnjIPCpu"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292853,
+      "name": "Qui\u00e9reme Tal Como Soy",
+      "url": "https://open.spotify.com/track/6w9ghQgpSD8gOa29mcnvd9"
     },
     {
       "album": {
@@ -1696,6 +2328,24 @@
     },
     {
       "album": {
+        "name": "Mambo No. 5",
+        "url": "https://open.spotify.com/album/1BaGvR3r4lW2xfT7YHg71a"
+      },
+      "artists": [
+        {
+          "name": "Raul Ramirez",
+          "url": "https://open.spotify.com/artist/5LN3tGphckDuG0irNsiAs0"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 178311,
+      "name": "Ran Kan Kan",
+      "url": "https://open.spotify.com/track/3hHIkH3ozaoLJVtFsvJPME"
+    },
+    {
+      "album": {
         "name": "Mambo Mania Vol. 3",
         "url": "https://open.spotify.com/album/7GRXwv2BXJlOTU9QKLd44m"
       },
@@ -1729,6 +2379,24 @@
       "duration_ms": 190416,
       "name": "Ran Kan Kan",
       "url": "https://open.spotify.com/track/3FCN9xduajof2MGIJbWdGe"
+    },
+    {
+      "album": {
+        "name": "Old School Salsa Classics Vol. 1",
+        "url": "https://open.spotify.com/album/0Cdbr8M9zLMLBEOfNJF8is"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 190440,
+      "name": "Ran Kan Kan",
+      "url": "https://open.spotify.com/track/4ed4J6YBbxvBYM2UWyKpZ0"
     },
     {
       "album": {
@@ -1804,6 +2472,24 @@
     },
     {
       "album": {
+        "name": "Greatest Salsa Classics Of Colombia, Vol. 1",
+        "url": "https://open.spotify.com/album/29k81bFSFRcvmCuiKo8UyI"
+      },
+      "artists": [
+        {
+          "name": "Los Titanes",
+          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 252826,
+      "name": "Sobredosis",
+      "url": "https://open.spotify.com/track/1pECsNoVl4CLtx3rxhRZk4"
+    },
+    {
+      "album": {
         "name": "Mis Favoritas",
         "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
       },
@@ -1837,6 +2523,24 @@
       "duration_ms": 214360,
       "name": "Tanga",
       "url": "https://open.spotify.com/track/3Zl8hT1zwIa3wMlWFkfEWx"
+    },
+    {
+      "album": {
+        "name": "Maelo Ruiz\u2026 The Romantic Salsa Idol",
+        "url": "https://open.spotify.com/album/4hMO3pqX1IXsVKrX1e60W6"
+      },
+      "artists": [
+        {
+          "name": "Maelo Ruiz",
+          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 292920,
+      "name": "Te Va A Doler",
+      "url": "https://open.spotify.com/track/06rCMaR01s2YJcNO8BUyJP"
     },
     {
       "album": {
@@ -1894,6 +2598,24 @@
     },
     {
       "album": {
+        "name": "Octubre Salsero",
+        "url": "https://open.spotify.com/album/1TrvYzeW0RkDRb3a2XuGnI"
+      },
+      "artists": [
+        {
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 295026,
+      "name": "Todo Empez\u00f3",
+      "url": "https://open.spotify.com/track/4tmHskKOJgEIbPgIoPU1rD"
+    },
+    {
+      "album": {
         "name": "The Best Of The Concord Years",
         "url": "https://open.spotify.com/album/180D50gDi4kEpa2TpVbNQ3"
       },
@@ -1945,6 +2667,24 @@
       "duration_ms": 299960,
       "name": "Tu Me Quemas",
       "url": "https://open.spotify.com/track/2EgTgfFKOvCpV3ACbJlDrl"
+    },
+    {
+      "album": {
+        "name": "Musica Dominicana 2015 - 20 Exitos made in RD (Salsa - Bachata - Merengue - Urbano - Dembow)",
+        "url": "https://open.spotify.com/album/0XI4vzjBjt5FBYGiMeOCQ5"
+      },
+      "artists": [
+        {
+          "name": "Jehu El Rey",
+          "url": "https://open.spotify.com/artist/3bpLd5BxgDFSo6CqglwzZk"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 244920,
+      "name": "Tu Sin Mi",
+      "url": "https://open.spotify.com/track/4EoMx6F3q0XHYbK5pl3RIO"
     },
     {
       "album": {
@@ -2010,6 +2750,24 @@
     },
     {
       "album": {
+        "name": "Arregla tu casa con salsa",
+        "url": "https://open.spotify.com/album/3UmqjdfsAZ1sffM1I1Qeiy"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 302093,
+      "name": "T\u00fa Con \u00c9l",
+      "url": "https://open.spotify.com/track/6KoiYuwLQv5KpKwGNJj5d8"
+    },
+    {
+      "album": {
         "name": "Show",
         "url": "https://open.spotify.com/album/5J4RvXfRjXXSsFEfyPhr0E"
       },
@@ -2028,6 +2786,24 @@
     },
     {
       "album": {
+        "name": "\u00c9xitos de Antes Colombia",
+        "url": "https://open.spotify.com/album/3hbCHpgPKLV8YBn60NuVzi"
+      },
+      "artists": [
+        {
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 279173,
+      "name": "T\u00fa Me Haces Falta",
+      "url": "https://open.spotify.com/track/2nGj3g9D5v8t1t7sl2NBh4"
+    },
+    {
+      "album": {
         "name": "De Verdad (15 Super Exitos)",
         "url": "https://open.spotify.com/album/7x4yJrZW7V1XdazGp7owXr"
       },
@@ -2043,6 +2819,24 @@
       "duration_ms": 281653,
       "name": "T\u00fa Me Haces Falta",
       "url": "https://open.spotify.com/track/6ekixEa22KrZuSynAfxQ8i"
+    },
+    {
+      "album": {
+        "name": "Solo Queremos Salsa Rom\u00e1ntica",
+        "url": "https://open.spotify.com/album/5m3KJpwDkLgVrwmbkhSvZP"
+      },
+      "artists": [
+        {
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 299480,
+      "name": "T\u00fa Me Quemas",
+      "url": "https://open.spotify.com/track/68DA26x3dyNltOOZoXA63O"
     },
     {
       "album": {
@@ -2065,6 +2859,28 @@
       "duration_ms": 351333,
       "name": "Ublabad\u00fa",
       "url": "https://open.spotify.com/track/3mHv2JoSRRIjYCcnG6mgJO"
+    },
+    {
+      "album": {
+        "name": "A Man And His Music: La Voz",
+        "url": "https://open.spotify.com/album/1cjhnTRit0iS1HViiGeK8H"
+      },
+      "artists": [
+        {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 351866,
+      "name": "Ublabad\u00fa",
+      "url": "https://open.spotify.com/track/2iLoden9KQ19Run6LdAmMn"
     },
     {
       "album": {
@@ -2198,6 +3014,24 @@
     },
     {
       "album": {
+        "name": "La Historia... Los \u00c9xitos",
+        "url": "https://open.spotify.com/album/5hVmKtEt52RcmAk6LYB2vJ"
+      },
+      "artists": [
+        {
+          "name": "Adolescent's Orquesta",
+          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 273763,
+      "name": "Virgen",
+      "url": "https://open.spotify.com/track/1HWbpfmzt1YplLceHgirCv"
+    },
+    {
+      "album": {
         "name": "3.0",
         "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
       },
@@ -2249,6 +3083,24 @@
       "duration_ms": 489000,
       "name": "Y Yo Ganga",
       "url": "https://open.spotify.com/track/5s9rrpkjzcRVo04hzzz8fw"
+    },
+    {
+      "album": {
+        "name": "Detalles",
+        "url": "https://open.spotify.com/album/6Pp6uOFfJyhlKopibGWQXC"
+      },
+      "artists": [
+        {
+          "name": "La Critica",
+          "url": "https://open.spotify.com/artist/5poEGfCmeFo8HcoNaOLIo0"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 235125,
+      "name": "Ya Se Pein\u00f3 Mar\u00eda",
+      "url": "https://open.spotify.com/track/1OYNY6X3AytXcqS9gdrdqf"
     },
     {
       "album": {

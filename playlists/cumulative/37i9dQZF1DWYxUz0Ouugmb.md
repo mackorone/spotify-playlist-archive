@@ -2,9 +2,9 @@
 
 ### [RADAR Indonesia](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Shanna Shannon
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Shakira Jasmine
 
-113 songs - 7 hr 4 min - [published](https://open.spotify.com/playlist/37dv0S75HQ2Wer6Z25cDjS)
+114 songs - 7 hr 8 min - [published](https://open.spotify.com/playlist/37dv0S75HQ2Wer6Z25cDjS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Baby Don't Let Me Go](https://open.spotify.com/track/1NKjWIAEYAjNlzk8qePK8F) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [Baby Don't Let Me Go](https://open.spotify.com/album/74FMJYc6vXTplYWmS7hxMY) | 3:53 | 2021-11-25 | 2022-03-25 |
 | [Balada Semburan Naga](https://open.spotify.com/track/2RtoG9G8lFbdcMqXMLP05j) | [The Panturas](https://open.spotify.com/artist/1eblwVFP5H4whVZrYmXQLl), [Adipati 'The Kuda'](https://open.spotify.com/artist/6swIALUfGBjKO9eGwHpipX) | [Balada Semburan Naga](https://open.spotify.com/album/4dlBcajEgrrep6NtFGM0s6) | 4:07 | 2021-11-25 | 2022-03-25 |
 | [Begal](https://open.spotify.com/track/37hXg8ANTcG13pKX0X16XM) | [BAP.](https://open.spotify.com/artist/1C844mwQd4BOI6pJSgxfiC), [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [Songs To Begal To](https://open.spotify.com/album/0Ji2j5R9apVWxkaF0eADlu) | 2:58 | 2021-11-25 | 2022-03-25 |
+| [Benar\-Benar](https://open.spotify.com/track/21h4Kd8KTMPpLtQ7vdc2Aq) | [TheOvertunes](https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk), [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Benar\-Benar](https://open.spotify.com/album/1fkRzmZR6GU8BQOcvAfy69) | 4:22 | 2022-10-13 |  |
 | [Berlagak Bahagia](https://open.spotify.com/track/2H3Cb56ZSByWF0bX9LyTqI) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Semoga Sembuh](https://open.spotify.com/album/6x67lQpaX0KyEpmso8bfqh) | 4:00 | 2022-03-24 |  |
 | [Bismillah](https://open.spotify.com/track/5jSsYb2otlowbQELi1HHmc) | [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9), [Kamga](https://open.spotify.com/artist/2dMAOuIpuE5eb55qzpKC9O) | [Adulting For Dummies](https://open.spotify.com/album/1DbVqDub31P40C9YNCcNVG) | 4:31 | 2021-11-25 | 2022-03-25 |
 | [Blanket of Sadness \(feat\. Rendy Pandugo\)](https://open.spotify.com/track/35aPun5RCCmKOWe1a6t8b9) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF), [Rendy Pandugo](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8) | [Blanket of Sadness \(feat\. Rendy Pandugo\)](https://open.spotify.com/album/6l9qAa1aXXW47F9fvaKFuq) | 4:06 | 2021-11-25 | 2022-03-25 |

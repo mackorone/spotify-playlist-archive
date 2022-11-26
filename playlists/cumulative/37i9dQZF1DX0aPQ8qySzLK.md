@@ -4,11 +4,12 @@
 
 > Our editorial picks for Folk's best of 2021 in Canada\. Cover: Ocie Elliott
 
-125 songs - 7 hr 43 min - [published](https://open.spotify.com/playlist/6iR9FAQx2rscTZFHnWNECo)
+130 songs - 8 hr 0 min - [published](https://open.spotify.com/playlist/6iR9FAQx2rscTZFHnWNECo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Troubled Mind](https://open.spotify.com/track/3onPL6KjCPM0K8wZkDeU7y) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Cape Elizabeth](https://open.spotify.com/album/7rAXvbNQSxnAnVl3taoMLj) | 3:01 | 2021-12-01 |  |
+| [All the Time](https://open.spotify.com/track/2ZEfUihEUaHyBEgutzEJeC) | [Mattie Leon](https://open.spotify.com/artist/3hJTvfT20mDphCF1yJsnC0) | [Hallelujah \(I Found You\)](https://open.spotify.com/album/6UAMIJESFsj1L8YfFP9Px7) | 3:33 | 2021-12-01 | 2022-11-13 |
 | [All The Time](https://open.spotify.com/track/31owmdBKTNs0rAZzs5mWtb) | [Mattie Leon](https://open.spotify.com/artist/3hJTvfT20mDphCF1yJsnC0) | [In Natural Light](https://open.spotify.com/album/2UWI6DUp9mY9nOAZJBZVxO) | 3:33 | 2021-12-01 | 2022-07-29 |
 | [All the Time](https://open.spotify.com/track/7IkvPENG8NFXxptGXv4koL) | [Mattie Leon](https://open.spotify.com/artist/3hJTvfT20mDphCF1yJsnC0) | [In Natural Light](https://open.spotify.com/album/2rXqhLEZgf7uESXnpAhlMY) | 3:33 | 2021-12-01 |  |
 | [All This Time Running](https://open.spotify.com/track/4qrVC09Ud9a0B2hpwT1EGV) | [Craig Cardiff](https://open.spotify.com/artist/2VMxEtyyo7Jg3jmVDQPHwx) | [All This Time Running](https://open.spotify.com/album/71FWp5uo78GM4C7ZseK2O9) | 3:05 | 2021-12-01 |  |
@@ -69,6 +70,7 @@
 | [Let It Be](https://open.spotify.com/track/1xflb6sCgJjMqbdtakgONq) | [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [Let It Be](https://open.spotify.com/album/1dReIAToRq9PGXlsDWzRE9) | 3:42 | 2021-12-01 |  |
 | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC) | 3:08 | 2021-12-01 |  |
 | [Like a River](https://open.spotify.com/track/0LqcdN6104AK55dUCiYF1a) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Like a River](https://open.spotify.com/album/3o8nivVQguilisc4zKinYI) | 3:35 | 2021-12-01 |  |
+| [Like a River](https://open.spotify.com/track/1eYHadX8TsDknDpv8ZimGU) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [A Place](https://open.spotify.com/album/2hPqFV54abYxY8dcaF4Xmu) | 3:35 | 2021-12-01 | 2022-11-14 |
 | [Like a River](https://open.spotify.com/track/2xEharLYp7jvJus10xMvJS) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Like a River](https://open.spotify.com/album/7Jznoh9YHwR7mddNJBIWMu) | 3:35 | 2021-12-01 | 2022-07-29 |
 | [Long Blue Light](https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Long Blue Light](https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei) | 3:20 | 2021-12-01 |  |
 | [Long Way Down](https://open.spotify.com/track/014p05lZqNN7te7TO2xepE) | [Steve Marriner](https://open.spotify.com/artist/3gGtZLqY9EV0wTN8TjygoT) | [Hope Dies Last](https://open.spotify.com/album/7nwgP9aEYcAKWz3NqDz9DH) | 6:26 | 2021-12-01 |  |
@@ -107,7 +109,9 @@
 | [Surrender](https://open.spotify.com/track/53vcgIyHUsxpeZjcEymEmh) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Young Heart](https://open.spotify.com/album/4qsLVZk1UnizpQJBkbFNdx) | 3:54 | 2021-12-01 |  |
 | [Sword from the Stone](https://open.spotify.com/track/1Fc2Gqn9bTuoeSHfhl1net) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Songs for the Drunk and Broken Hearted](https://open.spotify.com/album/6OGJr5I1SVTn9cla4JPiO1) | 3:21 | 2021-12-01 |  |
 | [Sword from the Stone](https://open.spotify.com/track/2CtJDDZiXVryDNAlsGyK5W) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Songs for the Drunk and Broken Hearted](https://open.spotify.com/album/0LjVT3fUFE8bBh3gjQdzOo) | 3:21 | 2021-12-01 | 2022-07-29 |
-| [that'd be alright](https://open.spotify.com/track/058OqhzpJJMM3q90Skvg2r) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Wanted You to Know](https://open.spotify.com/album/5MPkrXngz7F6LzCxNsmAZ4) | 2:57 | 2021-12-01 |  |
+| [Sword from the Stone](https://open.spotify.com/track/5v6Ymyfe9zPlwqzJQzpa5T) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Sword from the Stone \(Gingerbread Mix\)](https://open.spotify.com/album/0egB2HPIM6cjBA6ustouKs) | 3:21 | 2021-12-01 | 2022-11-13 |
+| [that'd be alright](https://open.spotify.com/track/058OqhzpJJMM3q90Skvg2r) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Wanted You to Know](https://open.spotify.com/album/5MPkrXngz7F6LzCxNsmAZ4) | 2:57 | 2021-12-01 | 2022-10-14 |
+| [that'd be alright](https://open.spotify.com/track/0XQhs9ovprk2yw0QkDjevN) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Wanted You to Know](https://open.spotify.com/album/6uXhW6yZWHxBMeLlYTEpa6) | 2:57 | 2021-12-01 |  |
 | [that'd be alright](https://open.spotify.com/track/2MuIQnJTw4dEGntnK6MSNn) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [that'd be alright](https://open.spotify.com/album/3Itg7NVVyUe4fUJ8Jt56vP) | 2:57 | 2021-12-01 | 2022-07-29 |
 | [The Captain Is Drunk](https://open.spotify.com/track/5z9VyMWkBCHB8iSVaLq3jk) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [The Captain Is Drunk](https://open.spotify.com/album/06CC7BEzIgw7a9zkKQKsOE) | 3:07 | 2021-12-01 |  |
 | [The Dark](https://open.spotify.com/track/3s5IOxoe3yc0UINOcZs6n8) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [The Dark](https://open.spotify.com/album/0vthbGW16gu7KsSkEeVDIh) | 4:58 | 2021-12-01 |  |
@@ -117,7 +121,8 @@
 | [The Veil](https://open.spotify.com/track/2wxdIEWyKSUcpAekpsYtPe) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Westward](https://open.spotify.com/album/262WDpIo6R8eiVSAzD5ztb) | 3:59 | 2021-12-01 |  |
 | [The Veil](https://open.spotify.com/track/47nmrMtS8qDXdn9ubjX6Hz) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [The Veil](https://open.spotify.com/album/1s60A6C8IrSUOkY6lPTFvq) | 3:59 | 2021-12-01 | 2022-07-29 |
 | [The Way It Would Be](https://open.spotify.com/track/21zGHj2ZNYkfJqslTDK1zd) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [The Way It Would Be](https://open.spotify.com/album/2338VGJXbLAMn5ZrTM2NKw) | 3:16 | 2021-12-01 |  |
-| [To the Mountains](https://open.spotify.com/track/2CK9xYMVdmJMPKZyArVbt4) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy) | 3:13 | 2021-12-01 |  |
+| [To the Mountains](https://open.spotify.com/track/2CK9xYMVdmJMPKZyArVbt4) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy) | 3:13 | 2021-12-01 | 2022-10-13 |
+| [To the Mountains](https://open.spotify.com/track/4jLxibvYRtzEAiTDvbL9fO) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor) | 3:13 | 2021-12-01 |  |
 | [Tripover](https://open.spotify.com/track/52Wf6E7Vc2eBSCybpsJyJY) | [Morning Show](https://open.spotify.com/artist/4VDzfUv0TOTJhYtOW4pWMm) | [Come Around](https://open.spotify.com/album/3JqkBDzazIhIG2IujqVDGA) | 3:48 | 2021-12-01 |  |
 | [Until You](https://open.spotify.com/track/6ik18Wyrj1cnmY11KTL3N1) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Prospect](https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d) | 3:18 | 2021-12-01 |  |
 | [Untitled \#4](https://open.spotify.com/track/1kq9lzEHoY3p8naHWpqNlh) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [The Third Gleam](https://open.spotify.com/album/6qHVJFxoizJAdhB7CdbaV2) | 4:04 | 2021-12-01 |  |

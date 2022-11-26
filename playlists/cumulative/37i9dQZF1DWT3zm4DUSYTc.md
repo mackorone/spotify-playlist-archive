@@ -4,7 +4,7 @@
 
 > Peaceful tracks for the whole family.
 
-199 songs - 10 hr 15 min - [published](https://open.spotify.com/playlist/70JlTcW90vM4eY1bmvDf6c)
+200 songs - 10 hr 21 min - [published](https://open.spotify.com/playlist/70JlTcW90vM4eY1bmvDf6c)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Catharsis](https://open.spotify.com/track/0lDLcIR8XdXwXD4rzEUVMb) | [Zzeta](https://open.spotify.com/artist/2App8sL5EXUqCRCqYYiZIr) | [Catharsis](https://open.spotify.com/album/2BsvG13W1rHgl5sawsazjf) | 2:46 | 2021-12-17 |  |
 | [Celestial](https://open.spotify.com/track/4alwurSGuv4U63w9549o1s) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Diamond Dust](https://open.spotify.com/album/1vqX5sa60aQWxIwEAOjgUg) | 3:16 | 2021-12-17 |  |
 | [Coast](https://open.spotify.com/track/1aCoMulG9sc93W4kn9i1yf) | [Christopher Willits](https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA) | [Sunset](https://open.spotify.com/album/6OdEUJfbi8EzUJ3i5HZ3bZ) | 6:13 | 2021-12-17 |  |
+| [Coast](https://open.spotify.com/track/5cW7L5MwCeSetCmQT0G0kX) | [Christopher Willits](https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA) | [Coast](https://open.spotify.com/album/5alLzgrt637yiLkGiBBhLc) | 6:13 | 2021-12-17 | 2022-11-13 |
 | [Coast](https://open.spotify.com/track/5qvo43hXyTAY1YN0pWtPil) | [Christopher Willits](https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA) | [Coast](https://open.spotify.com/album/3CUZFecDhE3yQ1gy5mo6Wn) | 6:13 | 2021-12-17 | 2022-07-29 |
 | [Colors](https://open.spotify.com/track/1DuxD8wBMdWvovBVcYkWwN) | [Norrona](https://open.spotify.com/artist/0A4UAFw5R9u5z9doUYX0WM) | [Resilience](https://open.spotify.com/album/0yJC30cj8WL90J2Din78qZ) | 4:04 | 2021-12-17 |  |
 | [Compassion](https://open.spotify.com/track/6nnm67RIWF9sSl0mGY3PHM) | [Mindful Changes](https://open.spotify.com/artist/6WiU7IgtszyQMUqb4tOkdC) | [Compassion](https://open.spotify.com/album/1IfpD8bKAkrP3nSuvzz0uV) | 2:35 | 2021-12-17 |  |

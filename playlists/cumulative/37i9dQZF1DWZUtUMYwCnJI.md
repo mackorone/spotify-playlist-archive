@@ -4,7 +4,7 @@
 
 > Enjoy the world of “Fire Force”!  歴代OP/ED、サントラ曲で辿るアニメ「炎炎ノ消防隊」の世界！©大久保篤・講談社／特殊消防隊動画広報課
 
-60 songs - 2 hr 57 min - [published](https://open.spotify.com/playlist/5xDY9qsr1oU1nonMmrFfj3)
+61 songs - 3 hr 2 min - [published](https://open.spotify.com/playlist/5xDY9qsr1oU1nonMmrFfj3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,5 +68,6 @@
 | [ディザイア](https://open.spotify.com/track/198elPRu7tlHqwAZrQvqyG) | [PELICAN FANCLUB](https://open.spotify.com/artist/2eKvpW2lCmgqTJHRNrbbIn) | [ディザイア](https://open.spotify.com/album/6M1iVKSypFnGtVyalcM5GU) | 3:41 | 2022-07-08 |  |
 | [延々](https://open.spotify.com/track/2gF7HUwnLoFLGggxNyD2vw) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Unity](https://open.spotify.com/album/199En2PF9GtUAxtGUk4NKr) | 3:36 | 2022-07-08 |  |
 | [脳内](https://open.spotify.com/track/1iyywIPs8cz5EhyzGQoUuX) | [Lenny code fiction](https://open.spotify.com/artist/6nvlfxR3ZRCNzw39ZTcGSR) | [脳内](https://open.spotify.com/album/4Il7a2cdyJaeofvksucZgN) | 4:13 | 2022-07-08 |  |
+| [脳内](https://open.spotify.com/track/1xFlcPEyRFbI2wZRPd2QjX) | [Lenny code fiction](https://open.spotify.com/artist/6nvlfxR3ZRCNzw39ZTcGSR) | [脳内](https://open.spotify.com/album/3xTuVqNVI0ScT7cFOqVrUM) | 4:15 | 2022-09-15 | 2022-11-14 |
 
 \*This playlist was first scraped on 2022-08-25. Prior content cannot be recovered.

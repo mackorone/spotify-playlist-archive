@@ -4,16 +4,18 @@
 
 > Music from Attack on Titan!「進撃の巨人」公式プレイリスト！ ©諫山創・講談社／「進撃の巨人」The Final Season製作委員会
 
-110 songs - 8 hr 18 min - [published](https://open.spotify.com/playlist/69wekaeiYRD9lqR2LK7zID)
+113 songs - 8 hr 32 min - [published](https://open.spotify.com/playlist/69wekaeiYRD9lqR2LK7zID)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Akatsuki no Requiem](https://open.spotify.com/track/2vH8JFJKfkAgZs1GFlOzGh) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Rakuen Eno Shingeki](https://open.spotify.com/album/6BDIotmFsibbcl4s5uaV4D) | 4:00 | 2022-06-21 |  |
+| [Akuma no Ko](https://open.spotify.com/track/5cRKj1kynNFqiliT2ndZ3y) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Akuma no Ko](https://open.spotify.com/album/1dcNDH0hCRrWPz5IGKr1tR) | 3:47 | 2022-06-21 | 2022-11-13 |
 | [Akuma no Ko](https://open.spotify.com/track/4pw7EuK2WTWGHI51jCKuGJ) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Saiaku Saiai](https://open.spotify.com/album/2CtsgdSCPlWeIdcdk2m2iQ) | 3:49 | 2022-06-21 |  |
 | [AOTF\-s1](https://open.spotify.com/track/1C9oENPxKhJlRy21acxJNq) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [Attack on Titan The Final Season Original Soundtrack](https://open.spotify.com/album/6hpEJjz25G99vP0DgMgqqi) | 7:57 | 2022-06-21 |  |
 | [AOTF\-s1](https://open.spotify.com/track/4UsCRRCctHBF45wci4a4BR) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人」 The Final Season Original Soundtrack](https://open.spotify.com/album/4RiSh2jF23Dwbpvlt7pjO9) | 7:57 | 2022-02-08 | 2022-07-29 |
 | [AOTF\-s2](https://open.spotify.com/track/5sXmXSfvguJBhQRDzQMqZ8) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人」 The Final Season Original Soundtrack](https://open.spotify.com/album/4RiSh2jF23Dwbpvlt7pjO9) | 3:33 | 2022-02-08 | 2022-06-22 |
 | [AOTF\-s3](https://open.spotify.com/track/2fA7GDUDBo2SO1GRLC5uWe) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人」 The Final Season Original Soundtrack](https://open.spotify.com/album/4RiSh2jF23Dwbpvlt7pjO9) | 3:42 | 2022-02-08 | 2022-06-22 |
+| [Ashes on The Fire](https://open.spotify.com/track/5ArBY68oLECgcHXDGFxa7u) | [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4) | [Attack on Titan The Final Season Original Soundtrack](https://open.spotify.com/album/6hpEJjz25G99vP0DgMgqqi) | 4:34 | 2022-06-21 | 2022-11-14 |
 | [Ashes on The Fire](https://open.spotify.com/track/6bXCGI0zBTjvwYBlDkFey3) | [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4) | [TVアニメ「進撃の巨人」 The Final Season Original Soundtrack](https://open.spotify.com/album/4RiSh2jF23Dwbpvlt7pjO9) | 4:34 | 2022-02-08 | 2022-07-29 |
 | [Ashes on The Fire \(Attack on Titan The Final Season Original Soundtrack\)](https://open.spotify.com/track/7uF1nTuJRGUlZzODPcmPva) | [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4) | [Ashes on The Fire \(Attack on Titan The Final Season Original Soundtrack\)](https://open.spotify.com/album/2D75BWyFdglxuY29CGfF4i) | 4:34 | 2022-06-21 |  |
 | [Ashes on The Fire \-PTV\-](https://open.spotify.com/track/0NpwE7Q2djpqpqqtfJVdjm) | [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4) | [TVアニメ「進撃の巨人」 The Final Season Original Soundtrack 02](https://open.spotify.com/album/4r4YoIuTNdMJIbm5Z9Jamx) | 5:06 | 2022-06-21 | 2022-07-29 |
@@ -54,6 +56,7 @@
 | [Guren no Yumiya](https://open.spotify.com/track/70p3HYq9iHZisJqpDmWd1U) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kiseki](https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4) | 5:10 | 2022-06-21 |  |
 | [Guren no Zahyou](https://open.spotify.com/track/5CEBVy6ywqHcEOuFThtjEJ) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kiseki](https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4) | 5:06 | 2022-06-21 |  |
 | [Jiyuu no Daishou](https://open.spotify.com/track/0Cd4mvL1nALj6QCCk2wpHf) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kiseki](https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4) | 5:49 | 2022-06-21 |  |
+| [Jiyuu No Tsubasa](https://open.spotify.com/track/33DuynuL0wVmNjsQSG7npc) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Jiyuu Eno Shingeki](https://open.spotify.com/album/3SbektNvHcTUH5uP2fpiUP) | 5:28 | 2022-06-21 | 2022-11-13 |
 | [Jiyuu no Tsubasa](https://open.spotify.com/track/188vCXc4bAejLqGhpEVBGT) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kiseki](https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4) | 5:31 | 2022-06-21 |  |
 | [Liberio at Night](https://open.spotify.com/track/518lS7o41RuQOBkAdUOHoz) | [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4) | [TVアニメ「進撃の巨人」 The Final Season Original Soundtrack](https://open.spotify.com/album/4RiSh2jF23Dwbpvlt7pjO9) | 2:56 | 2022-02-08 | 2022-06-22 |
 | [Liberio Festival](https://open.spotify.com/track/1dfy9W53Zv14w7f1SanjOL) | [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4) | [TVアニメ「進撃の巨人」 The Final Season Original Soundtrack](https://open.spotify.com/album/4RiSh2jF23Dwbpvlt7pjO9) | 3:03 | 2022-02-08 | 2022-06-22 |

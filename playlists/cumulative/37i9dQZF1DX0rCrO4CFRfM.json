@@ -1439,7 +1439,7 @@
       ],
       "date_added": "2021-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 216940,
       "name": "Legendary - Acoustic",
       "url": "https://open.spotify.com/track/5l4O7VzsZhKpAJO8w2jrC9"
@@ -1698,6 +1698,24 @@
     },
     {
       "album": {
+        "name": "Run Away from It All (Acoustic)",
+        "url": "https://open.spotify.com/album/67YBhDZbe4OOZNwMdXGT4e"
+      },
+      "artists": [
+        {
+          "name": "Blackberry Smoke",
+          "url": "https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 267284,
+      "name": "Run Away from It All - Acoustic",
+      "url": "https://open.spotify.com/track/7MOTCiY8t7HHBwaBb2CafC"
+    },
+    {
+      "album": {
         "name": "Sadder, Happier - The Box Room Recordings",
         "url": "https://open.spotify.com/album/566lk3CKhQpUcMLugqZfjB"
       },
@@ -1943,7 +1961,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": "2022-11-13",
       "duration_ms": 245426,
       "name": "Space - Acoustic Version",
       "url": "https://open.spotify.com/track/63z4jrxNSqlNkYPzGzY3Od"
@@ -2052,6 +2070,24 @@
     },
     {
       "album": {
+        "name": "Sweet Disaster (Acoustic)",
+        "url": "https://open.spotify.com/album/3bqkh8NHd97KW9Agy0of7Y"
+      },
+      "artists": [
+        {
+          "name": "DREAMERS",
+          "url": "https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 204857,
+      "name": "Sweet Disaster - Acoustic",
+      "url": "https://open.spotify.com/track/1LxkuDFjNbWlOcT3LCkR8l"
+    },
+    {
+      "album": {
         "name": "Punk Goes Acoustic",
         "url": "https://open.spotify.com/album/4zwLMQG4BcM0FpoAthwOa9"
       },
@@ -2081,7 +2117,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": true,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 206253,
       "name": "Talihina Sky - Acoustic Version",
       "url": "https://open.spotify.com/track/1DNM1bkIEzqGrCcQndWl1C"
@@ -2135,10 +2171,28 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 307760,
       "name": "The Funeral - Live Acoustic",
       "url": "https://open.spotify.com/track/1jKvrkkZxtQ7ZDiXdITOis"
+    },
+    {
+      "album": {
+        "name": "Acoustic at The Ryman (Live)",
+        "url": "https://open.spotify.com/album/7aXRvfGlrAyi8ALrvQBWTR"
+      },
+      "artists": [
+        {
+          "name": "Band of Horses",
+          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307760,
+      "name": "The Funeral - Live Acoustic",
+      "url": "https://open.spotify.com/track/5t6CC8sf3ffzDozMcboqBx"
     },
     {
       "album": {
@@ -2233,6 +2287,24 @@
       "duration_ms": 160346,
       "name": "Vagabond - Acoustic Version",
       "url": "https://open.spotify.com/track/6HzpmmaLVHC88XQY4e0YZL"
+    },
+    {
+      "album": {
+        "name": "Walk On Water (Acoustic)",
+        "url": "https://open.spotify.com/album/6AYKHtLtX2M9WnHcM2s142"
+      },
+      "artists": [
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 188895,
+      "name": "Walk On Water - Acoustic",
+      "url": "https://open.spotify.com/track/4sNbnjnqIKkT16XuUtwU88"
     },
     {
       "album": {

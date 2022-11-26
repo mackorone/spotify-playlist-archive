@@ -235,7 +235,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 118548,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/5BIihGHK73goXTxDg5atLd"
@@ -373,7 +373,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 162580,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/2mq1P9N8F2zVqM1FcJGia6"
@@ -639,6 +639,24 @@
       "duration_ms": 178309,
       "name": "Call Me (with R3HAB & Timmy Trumpet)",
       "url": "https://open.spotify.com/track/1dt220OBbkTsYz1NLVKIaw"
+    },
+    {
+      "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/4Cr1RKZYQVSzm8w2N2WMxt"
+      },
+      "artists": [
+        {
+          "name": "Helion",
+          "url": "https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 136888,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/4mPAGivO0Ndwf7y3xH1ng2"
     },
     {
       "album": {
@@ -977,7 +995,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 166242,
       "name": "Don't Leave Me",
       "url": "https://open.spotify.com/track/5I3kFklNvIQX6ovbvahZGy"
@@ -1544,6 +1562,32 @@
     },
     {
       "album": {
+        "name": "Ghost in My Bed",
+        "url": "https://open.spotify.com/album/6IWPmmrOiwFINNwTYwLMK1"
+      },
+      "artists": [
+        {
+          "name": "Arem Ozguc",
+          "url": "https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J"
+        },
+        {
+          "name": "Arman Aydin",
+          "url": "https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf"
+        },
+        {
+          "name": "Anna Grey",
+          "url": "https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164880,
+      "name": "Ghost in My Bed",
+      "url": "https://open.spotify.com/track/3prlSDDBKA3kvIaPRK3wca"
+    },
+    {
+      "album": {
         "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
         "url": "https://open.spotify.com/album/2huyFjU98NZADNSnh7uerA"
       },
@@ -1984,6 +2028,28 @@
     },
     {
       "album": {
+        "name": "I'm The Boss",
+        "url": "https://open.spotify.com/album/0FC9djvEcWpNvjPiY0LdCq"
+      },
+      "artists": [
+        {
+          "name": "Harddope",
+          "url": "https://open.spotify.com/artist/0wfl4Df1okXQp1cCxkHo6E"
+        },
+        {
+          "name": "Badscandal",
+          "url": "https://open.spotify.com/artist/29kaubgb6Esvwu0idVndGy"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138750,
+      "name": "I'm The Boss",
+      "url": "https://open.spotify.com/track/3TmYI1t9zdWDV3IUqpesn0"
+    },
+    {
+      "album": {
         "name": "In the Dark",
         "url": "https://open.spotify.com/album/3clpzrLEbmoq8uFwOxfEc2"
       },
@@ -2021,6 +2087,28 @@
       "duration_ms": 156648,
       "name": "In the Shadows",
       "url": "https://open.spotify.com/track/6WS12U64Xn5xy6IbbcP5SP"
+    },
+    {
+      "album": {
+        "name": "Into My Skin",
+        "url": "https://open.spotify.com/album/7tJwhAfSleMevjoh2TQqnx"
+      },
+      "artists": [
+        {
+          "name": "Pulsedriver",
+          "url": "https://open.spotify.com/artist/6U0uBUKWYZKZYFGL00hMsp"
+        },
+        {
+          "name": "Ayda Rastgoo",
+          "url": "https://open.spotify.com/artist/1cvrJiIVHuh2hAm099NNc9"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 154000,
+      "name": "Into My Skin",
+      "url": "https://open.spotify.com/track/093LDLEtGQu8CewOqOrQxZ"
     },
     {
       "album": {
@@ -2305,6 +2393,32 @@
       "duration_ms": 138536,
       "name": "Like You Mean It",
       "url": "https://open.spotify.com/track/76QVxIrCN9n49o1QWE9Be2"
+    },
+    {
+      "album": {
+        "name": "Little Do You Know",
+        "url": "https://open.spotify.com/album/57L2J0YLAxDo0uRYeLPab8"
+      },
+      "artists": [
+        {
+          "name": "Mike Gudmann",
+          "url": "https://open.spotify.com/artist/5tF4j2R7iNOIFdmpmEsn3s"
+        },
+        {
+          "name": "Crystal Rock",
+          "url": "https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e"
+        },
+        {
+          "name": "Rotciv & Revilo",
+          "url": "https://open.spotify.com/artist/4aA5K4qnL9Z3hD2rWJrjJW"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194091,
+      "name": "Little Do You Know",
+      "url": "https://open.spotify.com/track/686AkgCXl1Mteuvdf9snKb"
     },
     {
       "album": {
@@ -2984,6 +3098,28 @@
     },
     {
       "album": {
+        "name": "Party All The Time",
+        "url": "https://open.spotify.com/album/3zGETi4jg5TAtkdUogqAxh"
+      },
+      "artists": [
+        {
+          "name": "Braaheim",
+          "url": "https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg"
+        },
+        {
+          "name": "Masove",
+          "url": "https://open.spotify.com/artist/1SridnvhrGK3S0cfnVcOYR"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134544,
+      "name": "Party All The Time",
+      "url": "https://open.spotify.com/track/1LBlcDruAKflMoNV0Ue0AK"
+    },
+    {
+      "album": {
         "name": "Poison",
         "url": "https://open.spotify.com/album/2UjsNkN1BYwWODkdrrFrMI"
       },
@@ -3095,7 +3231,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 143266,
       "name": "Princess",
       "url": "https://open.spotify.com/track/74CKJFSNNqnRFtPDzANljK"
@@ -3235,7 +3371,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 176785,
       "name": "redruM - Robin Schulz Remix",
       "url": "https://open.spotify.com/track/6Jl7TcHDKlM8pBfupmRpwp"
@@ -3261,6 +3397,36 @@
       "duration_ms": 162857,
       "name": "Ride Ride Ride",
       "url": "https://open.spotify.com/track/0eJR1Clmkx9HiVy1mSpUWz"
+    },
+    {
+      "album": {
+        "name": "Right in the Night (feat. Plavka)",
+        "url": "https://open.spotify.com/album/32Ubf2ROa3VdpVCxM2V0Pu"
+      },
+      "artists": [
+        {
+          "name": "Jam & Spoon",
+          "url": "https://open.spotify.com/artist/2MIKLLJyOv1o5u49KRbfH7"
+        },
+        {
+          "name": "Frey",
+          "url": "https://open.spotify.com/artist/5F96KjVVl5nnGRkXs8E8Za"
+        },
+        {
+          "name": "Amfree",
+          "url": "https://open.spotify.com/artist/72pJ6h8ZR3sS8S1vzv1SQE"
+        },
+        {
+          "name": "Plavka",
+          "url": "https://open.spotify.com/artist/6ALuTGOzgoIUnuiyvqvMW2"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 148333,
+      "name": "Right in the Night (feat. Plavka)",
+      "url": "https://open.spotify.com/track/2KLLQ8yAAqRX7kdaYSJpoJ"
     },
     {
       "album": {
@@ -3371,7 +3537,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 171028,
       "name": "She Wolf (Falling to Pieces)",
       "url": "https://open.spotify.com/track/0hr1uftboYFqgJadb7ecML"
@@ -3525,7 +3691,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 159964,
       "name": "Someday",
       "url": "https://open.spotify.com/track/6tcSQNdArx7ojxxzvNRvU3"
@@ -3713,7 +3879,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-04",
+      "date_removed": "2022-10-19",
       "duration_ms": 167015,
       "name": "Superpowers - Dimitri Vegas Edit",
       "url": "https://open.spotify.com/track/1eWsKIHgYzYCMRwSwnNVE9"
@@ -4045,7 +4211,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-27",
+      "date_removed": "2022-11-14",
       "duration_ms": 169717,
       "name": "Try Again",
       "url": "https://open.spotify.com/track/26gSKAMIFzwMd4htHklFfN"
@@ -4085,7 +4251,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 140000,
       "name": "T\u00f3xica",
       "url": "https://open.spotify.com/track/2xXgN2GQLSQcZ4Bzad0NaM"
@@ -4195,7 +4361,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 138848,
       "name": "Wenn du mich siehst - RIBELLU Remix",
       "url": "https://open.spotify.com/track/75HcbS3oSzIR5HMD95sDRI"
@@ -4291,7 +4457,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-06",
       "duration_ms": 179600,
       "name": "Who U Gonna Love (feat. Amber Van Day)",
       "url": "https://open.spotify.com/track/7HKwY4vWe6W5TjSdIG4w8d"

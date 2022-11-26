@@ -210,6 +210,24 @@
     },
     {
       "album": {
+        "name": "IN LIFE",
+        "url": "https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 166968,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/6fsrtPKAPL1erRl4oeDnOf"
+    },
+    {
+      "album": {
         "name": "Autumn Breeze (re;code Episode \u2166)",
         "url": "https://open.spotify.com/album/5suwcs77vgb6DSRaqabylj"
       },
@@ -447,7 +465,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 186697,
       "name": "Cliche",
       "url": "https://open.spotify.com/track/3j4S4QDWyHo1pBrhLfUgqM"
@@ -469,6 +487,36 @@
       "duration_ms": 194727,
       "name": "Courtship Song \uad6c\uc560\uac00",
       "url": "https://open.spotify.com/track/306XHqoedXSzJWICCAi1ry"
+    },
+    {
+      "album": {
+        "name": "Purple",
+        "url": "https://open.spotify.com/album/7lqVInQc3l7SbnbZa2cpFJ"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        },
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        },
+        {
+          "name": "Jeff Bernat",
+          "url": "https://open.spotify.com/artist/2vVT4qoxWje0gVD2FiWZ4u"
+        },
+        {
+          "name": "B.O.",
+          "url": "https://open.spotify.com/artist/5zMKnGCFow1P0wm4J2if8t"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 237369,
+      "name": "Da Ra Da",
+      "url": "https://open.spotify.com/track/6qQ7GQ2dyhw6gDEmv75QnT"
     },
     {
       "album": {
@@ -859,7 +907,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-11-25",
       "duration_ms": 230610,
       "name": "forever",
       "url": "https://open.spotify.com/track/1zgGCWMf6OOh2IP7OmkI03"
@@ -1303,8 +1351,8 @@
           "url": "https://open.spotify.com/artist/5KoLNvPbAWGHVOCXwam9T0"
         },
         {
-          "name": "Inyu",
-          "url": "https://open.spotify.com/artist/4uVDPhjO1wDe5AEptC6wo2"
+          "name": "Blue Mangtto",
+          "url": "https://open.spotify.com/artist/0K44FUw6SBCO7dunhMz8sp"
         }
       ],
       "date_added": "2022-09-07",
@@ -2855,7 +2903,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 191114,
       "name": "Wind",
       "url": "https://open.spotify.com/track/0oPiNXJVKFp3T5wo6S0nUw"
@@ -2895,6 +2943,24 @@
       "duration_ms": 239086,
       "name": "Wish \ubc14\ub78c",
       "url": "https://open.spotify.com/track/6Bp3075Pu73PpyCYRhHQbB"
+    },
+    {
+      "album": {
+        "name": "Greeting",
+        "url": "https://open.spotify.com/album/6o6gPj3oOu3ueWm30egKg3"
+      },
+      "artists": [
+        {
+          "name": "KEN",
+          "url": "https://open.spotify.com/artist/08fiOzXWHTizuWGyS1dWu6"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 185386,
+      "name": "With all my heart",
+      "url": "https://open.spotify.com/track/5zhOr1qGlSEHhv5XEuzi0j"
     },
     {
       "album": {
@@ -2963,7 +3029,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": "2022-11-04",
       "duration_ms": 208000,
       "name": "\uace0\uc591\uc774\uc758 \uc0b0\ucc45",
       "url": "https://open.spotify.com/track/3omQ4YiFuiHpP7WVJy5LZK"

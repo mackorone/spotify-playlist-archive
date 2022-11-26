@@ -4,7 +4,7 @@
 
 > n3xt l3v3l beats.
 
-128 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/6RWlap37sAAYwzLtnEcUiW)
+132 songs - 5 hr 29 min - [published](https://open.spotify.com/playlist/6RWlap37sAAYwzLtnEcUiW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Coastal](https://open.spotify.com/track/2NTImx9Yk0jNzKUg1Ht8wU) | [Luc Delvaux](https://open.spotify.com/artist/0TtVPA9JL5p8Yqr7guSEn0) | [Coastal](https://open.spotify.com/album/7CeETykLYmpfU49DdCMxgc) | 2:08 | 2022-04-22 |  |
 | [Coffee Jazz vibes](https://open.spotify.com/track/0MUGs0JpdZiIbtwsACGQci) | [Zleept](https://open.spotify.com/artist/503ArEUA5XIRmhJCk7fRdN) | [But It is L O F I](https://open.spotify.com/album/04CJWN7lrnFkMBWh2ATsF3) | 1:50 | 2022-04-22 |  |
 | [Collage Jazz](https://open.spotify.com/track/0ui7QVgNmYDNUcOSiXYtqH) | [Akkva](https://open.spotify.com/artist/1sqDQoGriTTDMBABo2XbVb) | [dicy](https://open.spotify.com/album/1IgNbjh2eivcU7LRQJkqTY) | 2:18 | 2022-04-22 |  |
-| [Cruisin](https://open.spotify.com/track/5mvrMYNZvxj7GPcS66XemB) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Cruisin](https://open.spotify.com/album/01DGzYPUkJ7cN7ek3GlGEV) | 2:51 | 2022-04-22 |  |
+| [Cruisin](https://open.spotify.com/track/10bEN2SCU2gelIp3UkaVOd) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Cruisin](https://open.spotify.com/album/0ElJODIKCD7IMk1qx6g5YD) | 2:51 | 2022-09-16 |  |
+| [Cruisin](https://open.spotify.com/track/5mvrMYNZvxj7GPcS66XemB) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Cruisin](https://open.spotify.com/album/01DGzYPUkJ7cN7ek3GlGEV) | 2:51 | 2022-04-22 | 2022-11-20 |
 | [Crunchy](https://open.spotify.com/track/29Vnq6QaHQZnc0y0rPSQSe) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [Crunchy](https://open.spotify.com/album/6EjrJfPvnHoJRS15xWXmKJ) | 2:45 | 2022-04-22 |  |
 | [Deep Pockets](https://open.spotify.com/track/6ivtpwLd3ZJW6J9THJP2JP) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [Deep Pockets](https://open.spotify.com/album/0hgL3GX8NBVHG26sV0lPmG) | 2:46 | 2022-04-22 |  |
 | [Dream Sailling](https://open.spotify.com/track/1CLQSFom2hv8us4rXiJxGm) | [Billy Nova](https://open.spotify.com/artist/04umGdIV4JxSdiFyoEiaFj) | [Blame the Winds](https://open.spotify.com/album/3A26hgmcTnVx5BcsfYS7rl) | 2:49 | 2022-04-22 |  |
@@ -57,7 +58,8 @@
 | [Juicy](https://open.spotify.com/track/5XotBMNRTExEMs4MalMTu0) | [Kings Chair](https://open.spotify.com/artist/0P9hXeh3wwCn1B0Etj03ac) | [Hot Rain](https://open.spotify.com/album/4RUeIpvBctPsm87nIsftwp) | 3:13 | 2022-04-22 |  |
 | [Kids](https://open.spotify.com/track/50b0kt9UF5zu9WDiaIjAxL) | [Quality Blues](https://open.spotify.com/artist/3kU1BwnXjcIGhJxeZfqPy9) | [Kids](https://open.spotify.com/album/640L11zarEqJbXHV0gVLbG) | 3:56 | 2022-04-22 |  |
 | [Kinderphon](https://open.spotify.com/track/07KyFTUzEDpASj03Ss2xSO) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [Kinderphon](https://open.spotify.com/album/7l47GkIEz6lggwP0eHrcyP) | 2:41 | 2022-04-22 |  |
-| [la donna e la chitarra](https://open.spotify.com/track/5goDbdYkF4ogWljlBSqoKb) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [la donna e la chitarra](https://open.spotify.com/album/6soofQydUlYQbMl16Mbs2f) | 1:45 | 2022-04-22 |  |
+| [la donna e la chitarra](https://open.spotify.com/track/06F8Fnl3zIJ8Fy4IlKJSz3) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [la donna e la chitarra](https://open.spotify.com/album/7nYLq5Mq6zbO4Zuzdxy7Ka) | 1:45 | 2022-09-16 |  |
+| [la donna e la chitarra](https://open.spotify.com/track/5goDbdYkF4ogWljlBSqoKb) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [la donna e la chitarra](https://open.spotify.com/album/6soofQydUlYQbMl16Mbs2f) | 1:45 | 2022-04-22 | 2022-11-20 |
 | [LA Play](https://open.spotify.com/track/7uoP2fntlQ2QoZw5xzd5c7) | [Elkisen](https://open.spotify.com/artist/0WATboTSfypHxtbxPNNu7G) | [Sweet Love](https://open.spotify.com/album/1hdWxEs5MiHnFKVVU12hqg) | 2:14 | 2022-04-22 |  |
 | [Life Strikes](https://open.spotify.com/track/4iyj7Yptcbp3Lje0bzBKmW) | [Bamboozled Bumblebee](https://open.spotify.com/artist/2AjeGYqAkWP7ZcD0NPPIG0) | [Life Strikes](https://open.spotify.com/album/315FnS3Df4T5t8KAiVzljJ) | 2:00 | 2022-04-22 |  |
 | [Lifetime](https://open.spotify.com/track/0jZMq6RF5LxnnadddPlCSi) | [Geórgia Neve](https://open.spotify.com/artist/7oR5FuTIzTDDGzh8c4bEsT) | [Lifetime](https://open.spotify.com/album/06TSIPLCbmb6MyRAaqNXlP) | 2:30 | 2022-04-22 |  |
@@ -70,7 +72,8 @@
 | [millions](https://open.spotify.com/track/5I20Xa98Zm3YQlSfRQgwxt) | [heading\_\_](https://open.spotify.com/artist/3aE2ahDVUX4Pd0KKkWOfmS) | [outwards](https://open.spotify.com/album/00mqlceXIbKhc7ukOv5VOk) | 1:48 | 2022-04-22 |  |
 | [minnen](https://open.spotify.com/track/09EA7muQkLpLQRFUcEBtK1) | [FREJA](https://open.spotify.com/artist/3PsElXP6TTwUalgNPiyyzH) | [minnen](https://open.spotify.com/album/66Hlh8PrfWYt81ZZsZoL3N) | 2:38 | 2022-04-22 |  |
 | [Miscellaneous](https://open.spotify.com/track/5hA8bjM7r4SyiNzngr2Edv) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Yasper](https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt), [MONODUKE](https://open.spotify.com/artist/7GMURXXNVyc1SXq3cvw197), [Floris van der Vlugt](https://open.spotify.com/artist/2s0GB9h7qb9UAum2R2Z06O) | [Miscellaneous](https://open.spotify.com/album/08zV9UWheKMDLzLAqi1oIJ) | 3:22 | 2022-04-22 |  |
-| [Morning Vibes](https://open.spotify.com/track/141d6il0lGRRMlmLuZ5GSz) | [IDO 33](https://open.spotify.com/artist/4vDjHVL28P9aMvDUEKa0yu) | [Morning Vibes](https://open.spotify.com/album/6eWlDdvNbecQdDL3tabfOw) | 2:35 | 2022-04-22 |  |
+| [Morning Vibes](https://open.spotify.com/track/0Dwo6odrEUVCNcm8IJFd5g) | [IDO 33](https://open.spotify.com/artist/4vDjHVL28P9aMvDUEKa0yu) | [Morning Vibes](https://open.spotify.com/album/7qVtOLDgRzWmoI1bMW9SXl) | 2:35 | 2022-09-16 |  |
+| [Morning Vibes](https://open.spotify.com/track/141d6il0lGRRMlmLuZ5GSz) | [IDO 33](https://open.spotify.com/artist/4vDjHVL28P9aMvDUEKa0yu) | [Morning Vibes](https://open.spotify.com/album/6eWlDdvNbecQdDL3tabfOw) | 2:35 | 2022-04-22 | 2022-11-20 |
 | [Motion](https://open.spotify.com/track/1i7pXVXPz6pxrHbJPlUVwp) | [Hybrid Vibrations](https://open.spotify.com/artist/794S31SVHKMY16hMneo3XW) | [Motion](https://open.spotify.com/album/669olmt16llkZlgDbnKGXp) | 2:47 | 2022-04-22 |  |
 | [mushroom](https://open.spotify.com/track/13d1pGkOt6G92tE2INMDkJ) | [zakori](https://open.spotify.com/artist/1yw7x5O6btobGfIvuNiXms) | [mushroom](https://open.spotify.com/album/0YT5cKKU45aDRcy79OWGFs) | 1:12 | 2022-04-22 |  |
 | [Mythical Beasts Do Yoga](https://open.spotify.com/track/6a22xSTZ90vf0wqcYpaeSP) | [C\. H\. Alice](https://open.spotify.com/artist/2vUY9u1zhTNfrfOgnbGP8a) | [Mythical Beasts Do Yoga](https://open.spotify.com/album/3eQVZdtlOxKOYiwFGSJCDX) | 3:42 | 2022-04-22 |  |
@@ -92,7 +95,8 @@
 | [petite java sip](https://open.spotify.com/track/2CilDammNAvbTU1SJISPje) | [matseruba](https://open.spotify.com/artist/0efY8bFD7Mf46WG8jYZJ7u) | [aloe vera chill](https://open.spotify.com/album/53roAMrIhrSM8A5mbTTcGw) | 2:08 | 2022-04-22 |  |
 | [Progression](https://open.spotify.com/track/5FGgQIo3AeeyqNVe7324Ey) | [Iddy P](https://open.spotify.com/artist/0JZwamLi5bDuUwYybNnFoF) | [Progression](https://open.spotify.com/album/7p6gW7y7B59rX4FKNgasGg) | 2:19 | 2022-04-22 |  |
 | [Punch Tropical](https://open.spotify.com/track/2oS6CVKvmSq7W3w1csy6jn) | [Mellowdrastic](https://open.spotify.com/artist/5iM6lzU1v2k5FbuTUG2FnV) | [The Cotton Candy Creamery](https://open.spotify.com/album/7469geWNpqJN2D3sOYZCsH) | 2:56 | 2022-04-22 |  |
-| [Rain](https://open.spotify.com/track/6Qo9rLlkAnaPSYzljIFeJ8) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x), [Nokimo](https://open.spotify.com/artist/2fjTdMf7j8dewPfWXh2Thq) | [Akademgorodok](https://open.spotify.com/album/3fhdj1IZa6mTiPQbQzKoBy) | 2:08 | 2022-04-22 |  |
+| [Rain](https://open.spotify.com/track/1DdN2w9ykZw1Pc6ig5DV8f) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x), [Nokimo](https://open.spotify.com/artist/2fjTdMf7j8dewPfWXh2Thq) | [Akademgorodok](https://open.spotify.com/album/4hxiBnBum1xzbW8e1hgo1L) | 2:08 | 2022-09-16 |  |
+| [Rain](https://open.spotify.com/track/6Qo9rLlkAnaPSYzljIFeJ8) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x), [Nokimo](https://open.spotify.com/artist/2fjTdMf7j8dewPfWXh2Thq) | [Akademgorodok](https://open.spotify.com/album/3fhdj1IZa6mTiPQbQzKoBy) | 2:08 | 2022-04-22 | 2022-11-20 |
 | [Rain On Me](https://open.spotify.com/track/0XjBGhw51yUMQMZ8ftgJdr) | [Ninjasister](https://open.spotify.com/artist/6JutOej41WIW4GaBZVuZNr) | [Rain On Me](https://open.spotify.com/album/1XC002Q49QhVnYvKhWeAY4) | 2:27 | 2022-04-22 |  |
 | [Redefine](https://open.spotify.com/track/3myirb6fcmRT8eeSZV1poe) | [alt.bin.beats](https://open.spotify.com/artist/19RtbWE9QLz3K4YW19qdos) | [Redefine](https://open.spotify.com/album/3I2ZTGS4Pqk6xPvN3MrN6Y) | 2:24 | 2022-04-22 |  |
 | [Retrospective](https://open.spotify.com/track/5BYOPUidJX9Hx0T6tv3lWA) | [Zach Jordan](https://open.spotify.com/artist/7wI6FVPuBFU5KcTSddrzK2) | [Retrospective](https://open.spotify.com/album/1hdYL4Gu453c6Ve4lGsUH1) | 2:11 | 2022-04-22 |  |

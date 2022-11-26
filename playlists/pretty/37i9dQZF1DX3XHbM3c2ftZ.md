@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XHbM3c2ftZ.md) - [plain]
 
 > Celebrate Dad with these songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 358 likes - 34 songs - 1 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 380 likes - 34 songs - 1 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Father's Day! Father's Day!](https://open.spotify.com/track/2QhuyNYE0WBPNhsGC4chR3) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Kids Pop Songs for Father's Day](https://open.spotify.com/album/4pOfhxZCAqDEiRTpgJEG4O) | 1:33 |
-| 2 | [My Daddy Song](https://open.spotify.com/track/1GIiqb0sl5AscLsypZYR0H) | [Cocomelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon I Love My Family](https://open.spotify.com/album/3YBvGGVcQfxHWYe3AdlrgU) | 2:52 |
-| 3 | [Dear Old Dad](https://open.spotify.com/track/2POHHxEXrtaoieUdXuynyA) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Rock\-O\-Matic](https://open.spotify.com/album/2s0fLhzaaSO4zOlbpA9MOD) | 2:29 |
+| 2 | [My Daddy Song](https://open.spotify.com/track/1GIiqb0sl5AscLsypZYR0H) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon I Love My Family](https://open.spotify.com/album/3YBvGGVcQfxHWYe3AdlrgU) | 2:52 |
+| 3 | [Dear Old Dad](https://open.spotify.com/track/1o4hp0Rm5xST4llL6xuXSM) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Rock\-O\-Matic](https://open.spotify.com/album/3xeaFPnwRzHEE7xQYs1P6w) | 2:30 |
 | 4 | [Dance to Your Daddy](https://open.spotify.com/track/3Q5Qi7wr74JGzcG7JRGpb4) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Taking Off!](https://open.spotify.com/album/6LxjwpJzotr71JIF2RefDm) | 1:18 |
 | 5 | [Cool Dad](https://open.spotify.com/track/6TKG8t6wMW7xwPz89IVDlF) | [Super Siah](https://open.spotify.com/artist/36s30oXmxBFCjVoJLiOY9P), [Billy B](https://open.spotify.com/artist/6q22S1wbS1Eg7NbOQVA04o) | [Cool Dad](https://open.spotify.com/album/4Gn2D9bQMnETCm9SbQrX34) | 1:36 |
 | 6 | [I Love You Daddy](https://open.spotify.com/track/0JUMkRana9MTtoyzBEIcjr) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Waiting For The Elevator](https://open.spotify.com/album/0e4v336x5GPwp8R5nTUzQd) | 1:42 |
-| 7 | [Cody's Father And Son Day](https://open.spotify.com/track/3pIr7dWddZ7x3l9u6m6VGE) | [Cocomelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [I Love My Daddy](https://open.spotify.com/album/5kHnimhvYsAw8tIiH5lM5w) | 2:54 |
+| 7 | [Cody's Father And Son Day](https://open.spotify.com/track/3pIr7dWddZ7x3l9u6m6VGE) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [I Love My Daddy](https://open.spotify.com/album/5kHnimhvYsAw8tIiH5lM5w) | 2:54 |
 | 8 | [D\-A\-D\-D\-Y](https://open.spotify.com/track/4zOYDuFm2b11YRpoZWxxUG) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Kids Pop Songs for Father's Day](https://open.spotify.com/album/4pOfhxZCAqDEiRTpgJEG4O) | 2:03 |
 | 9 | [Dad Jokes](https://open.spotify.com/track/4P2DCTzjAs1IHAD82yT3dg) | [Koo Koo Kanga Roo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Celebrate This!](https://open.spotify.com/album/5hukeI5hHKtT4qgMkL0Im6) | 2:01 |
 | 10 | [Daddy Daughter Day](https://open.spotify.com/track/2VilbTTWiFGgLFStz1n1kg) | [Pierce Freelon](https://open.spotify.com/artist/49DZXXkpkkpbrEsEaMKuKG), [J Gunn](https://open.spotify.com/artist/4YlGNqY6XyHNkQEMLlYBG9) | [Daddy Daughter Day](https://open.spotify.com/album/0YGPSOEewQPtVhygfvLCkv) | 3:15 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XHbM3c2ftZ.md) - [plain]
 | 20 | [My Dad, He's There for me](https://open.spotify.com/track/0u7jvhbm2cwcvDwkCYLiqp) | [Press Play Picture House](https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS) | [My Dad, He's There for me](https://open.spotify.com/album/2aKqsNcBlJZCMJ6irRZsGt) | 3:30 |
 | 21 | [Stay\-At\-Home Dad](https://open.spotify.com/track/57l9AeSfZCrzHQN5AZmE8Z) | [Justin Roberts](https://open.spotify.com/artist/0gPiY8YtQXCp3arXBVFUk5) | [Pop Fly](https://open.spotify.com/album/6gBUKKZ73fmFo14OPMsh8Q) | 2:33 |
 | 22 | [Daddy Loves Me \- 2015 Version](https://open.spotify.com/track/4qWiOTX8W1pjQLeyImYqef) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Mother's Day and Father's Day Songs for Kids](https://open.spotify.com/album/5Kzm0vKSwHDj1Ib3w4fVE8) | 1:49 |
-| 23 | [Daddy Daughter Beach Day](https://open.spotify.com/track/78XtqCToJJoqXo5Zu3T6hG) | [Cocomelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [I Love My Daddy](https://open.spotify.com/album/5kHnimhvYsAw8tIiH5lM5w) | 3:16 |
+| 23 | [Daddy Daughter Beach Day](https://open.spotify.com/track/78XtqCToJJoqXo5Zu3T6hG) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [I Love My Daddy](https://open.spotify.com/album/5kHnimhvYsAw8tIiH5lM5w) | 3:16 |
 | 24 | [Hugs and Kisses for Daddy \- 2015 Version](https://open.spotify.com/track/6R1NMGMuNRYrBP6Scoi9nF) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Mother's Day and Father's Day Songs for Kids](https://open.spotify.com/album/5Kzm0vKSwHDj1Ib3w4fVE8) | 1:20 |
 | 25 | [My Special Friend Is Daddy \- 2015 Version](https://open.spotify.com/track/23lD80OM6g5MnF1VPQQDrx) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Mother's Day and Father's Day Songs for Kids](https://open.spotify.com/album/5Kzm0vKSwHDj1Ib3w4fVE8) | 2:24 |
 | 26 | [Sometimes Dad Says \- 2015 Version](https://open.spotify.com/track/4sLXCebdp5NNNvwn9djEQO) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Mother's Day and Father's Day Songs for Kids](https://open.spotify.com/album/5Kzm0vKSwHDj1Ib3w4fVE8) | 1:19 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XHbM3c2ftZ.md) - [plain]
 | 33 | [That's What Dads Are For](https://open.spotify.com/track/6OGvN8SQuFS7tgEddBBA27) | [Madaline Garcia](https://open.spotify.com/artist/3TV0dL70cwRcE7VxCYCfdm), [Michael Farren](https://open.spotify.com/artist/0KL1tXshbivm72a4PAWUjF) | [That's What Dads Are For](https://open.spotify.com/album/5afeQKHZfZcRCvMcdiQles) | 4:11 |
 | 34 | [Daddy\-o](https://open.spotify.com/track/6ti6642d8YTQ7YNy7I9OD0) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Fascinating Creatures](https://open.spotify.com/album/0QNI8ietPOpLX0nrJPzrRi) | 2:03 |
 
-Snapshot ID: `MTY0OTQyNDIxOSwwMDAwMDAwMGQxNWVjNzMzYzQ5NjdiYTBjN2I0Y2YxNWYxNjQ5YzAx`
+Snapshot ID: `MTY0OTQyNDIxOSwwMDAwMDAwMGE3MjlkNDhmZDcyMjIwZWExNjFhOGEwZjU1OTYyMjkx`

@@ -27,6 +27,24 @@
     {
       "album": {
         "name": "Abby",
+        "url": "https://open.spotify.com/album/7Fc96phdrEEBlOPcTgtADd"
+      },
+      "artists": [
+        {
+          "name": "a sound for you",
+          "url": "https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137848,
+      "name": "Abby",
+      "url": "https://open.spotify.com/track/0ASns2TRZsE0V1ocDD79qJ"
+    },
+    {
+      "album": {
+        "name": "Abby",
         "url": "https://open.spotify.com/album/7fpYo14NmrothLMregmtyT"
       },
       "artists": [
@@ -37,7 +55,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 137848,
       "name": "Abby",
       "url": "https://open.spotify.com/track/0o8mGza0TMFgTf9E9DuZhs"
@@ -935,10 +953,46 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 143294,
       "name": "Each Day",
       "url": "https://open.spotify.com/track/5x8ne1bXZsp5hVcffmHv8n"
+    },
+    {
+      "album": {
+        "name": "Each Day",
+        "url": "https://open.spotify.com/album/768JMosIKgm2l7PuvLg7fV"
+      },
+      "artists": [
+        {
+          "name": "oakwhisper",
+          "url": "https://open.spotify.com/artist/1SNWW6LUqF0uJxbnSgJcQr"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143294,
+      "name": "Each Day",
+      "url": "https://open.spotify.com/track/7CLYREY7ffMNOMCAJZaBIn"
+    },
+    {
+      "album": {
+        "name": "Early Snowfall",
+        "url": "https://open.spotify.com/album/1eM3brZLPLlJ20jbUmEd1N"
+      },
+      "artists": [
+        {
+          "name": "Gryll Duncan",
+          "url": "https://open.spotify.com/artist/6exW0v9hpRoGOzULI6O4II"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122166,
+      "name": "Early Snowfall",
+      "url": "https://open.spotify.com/track/3xBRUHnjtGgbxG6U8QxLpT"
     },
     {
       "album": {
@@ -996,6 +1050,24 @@
     },
     {
       "album": {
+        "name": "Empty Heart",
+        "url": "https://open.spotify.com/album/2VXrY486fefmbp1yfEBnjv"
+      },
+      "artists": [
+        {
+          "name": "Chris Nordlinger",
+          "url": "https://open.spotify.com/artist/7jxfHriBt8rNxGMvvUfJKy"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168362,
+      "name": "Empty Heart",
+      "url": "https://open.spotify.com/track/631e9TTZsLXYEqXo0nI7RD"
+    },
+    {
+      "album": {
         "name": "Empty Sky",
         "url": "https://open.spotify.com/album/1WoTK3nCb4P4Drcj8Jekw5"
       },
@@ -1025,7 +1097,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 136499,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/2cyNPCRZwqmfZNSgb6K2d6"
@@ -1151,7 +1223,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 112592,
       "name": "Fine",
       "url": "https://open.spotify.com/track/20OtNAS1rEsQFcLaaNZzTj"
@@ -1339,6 +1411,24 @@
       "duration_ms": 117303,
       "name": "Happy Wanderer",
       "url": "https://open.spotify.com/track/6ydFYQPOnhgzkUemov3BqX"
+    },
+    {
+      "album": {
+        "name": "Brave New Promises",
+        "url": "https://open.spotify.com/album/5wgqxwzeY7WL0BbAdMliHj"
+      },
+      "artists": [
+        {
+          "name": "American Legion",
+          "url": "https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Headed to the Hillside",
+      "url": "https://open.spotify.com/track/0SRfTC8lmnaVrmzrGxkmMN"
     },
     {
       "album": {
@@ -2200,6 +2290,24 @@
     },
     {
       "album": {
+        "name": "New York",
+        "url": "https://open.spotify.com/album/3Jh7mSndEvxQOIdq18j4nh"
+      },
+      "artists": [
+        {
+          "name": "Zach Len",
+          "url": "https://open.spotify.com/artist/2yZEQrcXpn8B6Pjm4HxvhR"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145624,
+      "name": "New York",
+      "url": "https://open.spotify.com/track/31Y814r838dlqpwjwCfDqd"
+    },
+    {
+      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/7FOICAmy6YkVum07rk5tNJ"
       },
@@ -2301,7 +2409,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 136187,
       "name": "Polmont",
       "url": "https://open.spotify.com/track/3kPK9PpKFX9L49vnWJZC6f"
@@ -2377,6 +2485,24 @@
       "duration_ms": 181669,
       "name": "Readers",
       "url": "https://open.spotify.com/track/4tkACn8vZjisGUrhTzlmRX"
+    },
+    {
+      "album": {
+        "name": "The Cereal Killers: Bedtime Guitar",
+        "url": "https://open.spotify.com/album/4R57k9bpcwczFvwrnfhskU"
+      },
+      "artists": [
+        {
+          "name": "Ciaran Delany",
+          "url": "https://open.spotify.com/artist/2WuIGHkWICbZ4ZnIWWwaQE"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 181669,
+      "name": "Readers",
+      "url": "https://open.spotify.com/track/4uNnr1XfaipIG9TBFsZTt2"
     },
     {
       "album": {
@@ -2705,6 +2831,28 @@
     {
       "album": {
         "name": "Sweet Night",
+        "url": "https://open.spotify.com/album/58PcVUWjDYJm3ji9ZNiqpP"
+      },
+      "artists": [
+        {
+          "name": "Frans Bak",
+          "url": "https://open.spotify.com/artist/4KyULSYP9ZU6WBnUfvudjG"
+        },
+        {
+          "name": "Jan R\u00f8rdam",
+          "url": "https://open.spotify.com/artist/4yz330P6Salzhk36BWmfgA"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211119,
+      "name": "Sweet Night",
+      "url": "https://open.spotify.com/track/0K32rol95QOdpWtg2G7msF"
+    },
+    {
+      "album": {
+        "name": "Sweet Night",
         "url": "https://open.spotify.com/album/0F6QXaOHbcDKl3iqZdrlbv"
       },
       "artists": [
@@ -2719,7 +2867,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 211119,
       "name": "Sweet Night",
       "url": "https://open.spotify.com/track/3MqnHTCy6P5OH3Y6XIzeFj"
@@ -2791,7 +2939,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 211625,
       "name": "The Long And Winding Road",
       "url": "https://open.spotify.com/track/1txWPldboDI7OkZ5TJGt6h"
@@ -2953,7 +3101,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 141310,
       "name": "Unforced",
       "url": "https://open.spotify.com/track/56hk6GkYuk8AmUOdjPEYDb"

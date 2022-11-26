@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Holiday classics from your favorite punks. Cover: jxdn",
+  "description": "Holiday classics from your favourite punks. Cover: Neck Deep",
   "name": "Punk Christmas",
   "published_playlist_ids": [
     "0LsEqOOLiAoH7HfToPQ8Cv"
@@ -225,6 +225,24 @@
     {
       "album": {
         "name": "Angels We Have Heard On High",
+        "url": "https://open.spotify.com/album/5Vfxiz4U5upC1MURchp7nr"
+      },
+      "artists": [
+        {
+          "name": "Bayside",
+          "url": "https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 158475,
+      "name": "Angels We Have Heard On High",
+      "url": "https://open.spotify.com/track/5NDXZph9YC0ZU7PO7PPLZs"
+    },
+    {
+      "album": {
+        "name": "Angels We Have Heard On High",
         "url": "https://open.spotify.com/album/5I62hbC0Y0xxSJ8Xj9LKJ3"
       },
       "artists": [
@@ -271,7 +289,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-11-13",
       "duration_ms": 189260,
       "name": "Auld Lang Syne",
       "url": "https://open.spotify.com/track/2o8rF3D43FbniUVatDtSlz"
@@ -361,7 +379,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": "2022-11-13",
       "duration_ms": 107063,
       "name": "Carol Of The Beers",
       "url": "https://open.spotify.com/track/4G2pd7tgadvUSPLlQqOBzN"
@@ -415,7 +433,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 206000,
       "name": "Christmas (Baby Please Come Home)",
       "url": "https://open.spotify.com/track/2owWbedyDiJaXvEbW4krLl"
@@ -476,6 +494,42 @@
     },
     {
       "album": {
+        "name": "Tis The Season To Be Fearless",
+        "url": "https://open.spotify.com/album/7LEZCqGn4YQ5NsO1pj2E6a"
+      },
+      "artists": [
+        {
+          "name": "Sparks The Rescue",
+          "url": "https://open.spotify.com/artist/07DRdecWdrPljDGClOl3nL"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 201827,
+      "name": "Christmas Brings Me Down",
+      "url": "https://open.spotify.com/track/6JT5mL6HCTBIFWeYNMfexd"
+    },
+    {
+      "album": {
+        "name": "A GC Christmas, Pt. 1",
+        "url": "https://open.spotify.com/album/5lPGIDugl5Q36w6bAqq23N"
+      },
+      "artists": [
+        {
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181991,
+      "name": "Christmas by the Phone",
+      "url": "https://open.spotify.com/track/2QnFQnvjcdzFra2fxf8AlP"
+    },
+    {
+      "album": {
         "name": "A GC Christmas, Pt. 1",
         "url": "https://open.spotify.com/album/2t4N4Udqvzos6nzccOHBbl"
       },
@@ -487,7 +541,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 181991,
       "name": "Christmas by the Phone",
       "url": "https://open.spotify.com/track/5gFrG4xkgjLufrDgFHfuNF"
@@ -559,7 +613,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": "2022-11-20",
       "duration_ms": 177666,
       "name": "Christmas Day",
       "url": "https://open.spotify.com/track/52fJLPcouUhbUYY8YPjPMg"
@@ -649,7 +703,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-25",
       "duration_ms": 255400,
       "name": "Christmas Shoes",
       "url": "https://open.spotify.com/track/1jdO5CFR3dhv3OKoALywkl"
@@ -804,6 +858,24 @@
     },
     {
       "album": {
+        "name": "Life's Not Out To Get You",
+        "url": "https://open.spotify.com/album/3umOBqXWR9VnJTQoe9Qkkj"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218954,
+      "name": "December",
+      "url": "https://open.spotify.com/track/4oVdhvxZrKQTM9ZsUIZa3S"
+    },
+    {
+      "album": {
         "name": "December",
         "url": "https://open.spotify.com/album/6cAugG8D1T6q0qniM3bqsw"
       },
@@ -869,7 +941,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 184880,
       "name": "Decemberism",
       "url": "https://open.spotify.com/track/2vgsDqkE5dyAveetWyhVHk"
@@ -941,7 +1013,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": "2022-11-13",
       "duration_ms": 216609,
       "name": "Ex-Miss",
       "url": "https://open.spotify.com/track/1XjwY71f2bseVdodL3ak1Z"
@@ -1114,6 +1186,24 @@
     },
     {
       "album": {
+        "name": "Punk Goes Christmas (Deluxe)",
+        "url": "https://open.spotify.com/album/6pj3sxkEUpAOlix05HpxmF"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 223933,
+      "name": "Fool's Holiday",
+      "url": "https://open.spotify.com/track/0yj7sMoj09JD2tadRfIkY7"
+    },
+    {
+      "album": {
         "name": "Punk Goes Christmas",
         "url": "https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk"
       },
@@ -1204,6 +1294,24 @@
     },
     {
       "album": {
+        "name": "Merry Flippin' Christmas Vol. 1",
+        "url": "https://open.spotify.com/album/3Y8kaXAtVFjNucAIA9yLPJ"
+      },
+      "artists": [
+        {
+          "name": "Bowling For Soup",
+          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188720,
+      "name": "Frosty the Snowman",
+      "url": "https://open.spotify.com/track/5MDemOoy0G8IlBKfHWzlIg"
+    },
+    {
+      "album": {
         "name": "Get This Christmas Right",
         "url": "https://open.spotify.com/album/1trvEENbl7mzhG6t6FQoy1"
       },
@@ -1255,6 +1363,24 @@
       "duration_ms": 182286,
       "name": "Grandma Got Run Over By A Reindeer",
       "url": "https://open.spotify.com/track/2Vo0CHZltnh18JAPNOSfS3"
+    },
+    {
+      "album": {
+        "name": "Groovy Xmas",
+        "url": "https://open.spotify.com/album/6fplrLXf8m4APlZ1nInkXW"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133028,
+      "name": "Groovy Xmas",
+      "url": "https://open.spotify.com/track/0i1eZMzUmrYHOqRroYacfx"
     },
     {
       "album": {
@@ -1341,7 +1467,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 221040,
       "name": "Hava Nagila",
       "url": "https://open.spotify.com/track/7ybZEUwDsHGMkWGoNSgmCg"
@@ -1727,7 +1853,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 188333,
       "name": "Little Drummer Boy",
       "url": "https://open.spotify.com/track/22rBktERctuWCLmnV51Td5"
@@ -1763,7 +1889,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 206280,
       "name": "Making Christmas",
       "url": "https://open.spotify.com/track/3NgApo4U2gMHh0TKXntZRq"
@@ -1799,7 +1925,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-03",
+      "date_removed": null,
       "duration_ms": 207213,
       "name": "Making Christmas",
       "url": "https://open.spotify.com/track/2W9IyiUawRDws73eD1zsDE"
@@ -1835,7 +1961,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": "2022-11-13",
       "duration_ms": 124066,
       "name": "Merry Christmas (I Don't Wanna Fight Tonight) - 2002 Remaster",
       "url": "https://open.spotify.com/track/2T3tEaSThdC9J9mnvxJWoZ"
@@ -1914,6 +2040,24 @@
     },
     {
       "album": {
+        "name": "Merry Spidey Christmas (From \"Disney Junior Music: Marvel's Spidey and His Amazing Friends\")",
+        "url": "https://open.spotify.com/album/1vylnSfB9o5HU0Srlx5rFB"
+      },
+      "artists": [
+        {
+          "name": "Patrick Stump",
+          "url": "https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126144,
+      "name": "Merry Spidey Christmas - From \"Disney Junior Music: Marvel's Spidey and His Amazing Friends\"",
+      "url": "https://open.spotify.com/track/4sxckNpmfC1Y1j91zn1BCh"
+    },
+    {
+      "album": {
         "name": "\u2026And A Happy New Year",
         "url": "https://open.spotify.com/album/0nvXgp11ABRjr2BFuBm3rP"
       },
@@ -1979,7 +2123,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 139133,
       "name": "New Year's Revolution",
       "url": "https://open.spotify.com/track/55traEc0RnXsRFajtZZMDd"
@@ -2145,7 +2289,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 122926,
       "name": "Please Come Home for Christmas",
       "url": "https://open.spotify.com/track/2S8rCnJHO2Gbj6648CrDyf"
@@ -2181,7 +2325,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": null,
       "duration_ms": 200573,
       "name": "Punk Rawk Christmas",
       "url": "https://open.spotify.com/track/1aWd5MkGpyhqENRiilEWxe"
@@ -2343,7 +2487,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 114210,
       "name": "Santa Claus Is Coming to Town - Single Version",
       "url": "https://open.spotify.com/track/76FkKWaIxsOMzP15ACZLvt"
@@ -2433,7 +2577,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 216115,
       "name": "Snow",
       "url": "https://open.spotify.com/track/4hbBgVnirgzG4TggZhkL4U"
@@ -2541,7 +2685,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": "2022-11-13",
       "duration_ms": 144000,
       "name": "The War On Christmas Is Over (If You Buy It)",
       "url": "https://open.spotify.com/track/6F6VIAmrqiXgeAXycoHOs4"
@@ -2563,7 +2707,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": "2022-11-13",
       "duration_ms": 234893,
       "name": "Things I Want",
       "url": "https://open.spotify.com/track/7gfa6TiFiesmwQjUbIzv8c"
@@ -2707,7 +2851,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 137346,
       "name": "This Time of Year",
       "url": "https://open.spotify.com/track/6dx7fWgnbnYYP1mGMzORwm"
@@ -2952,6 +3096,24 @@
     },
     {
       "album": {
+        "name": "Holidays Are Coming",
+        "url": "https://open.spotify.com/album/59CugdPue0ig1rBmTWJ2AB"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 225933,
+      "name": "Wonderful Christmastime",
+      "url": "https://open.spotify.com/track/5aj4UEKeW7T3eI4ETaN7Me"
+    },
+    {
+      "album": {
         "name": "McCartney II (Special Edition)",
         "url": "https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV"
       },
@@ -2999,7 +3161,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 177640,
       "name": "X'Mas Time (It Sure Doesn't Feel Like It)",
       "url": "https://open.spotify.com/track/30HWEKPozyqnJ8ARfVnoT2"

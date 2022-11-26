@@ -232,6 +232,24 @@
     },
     {
       "album": {
+        "name": "Fehu (First Flight of the White Raven Live)",
+        "url": "https://open.spotify.com/album/0NKnjpBvXwcgscEcpTdxjx"
+      },
+      "artists": [
+        {
+          "name": "Wardruna",
+          "url": "https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 328240,
+      "name": "Fehu - First Flight of the White Raven LIVE",
+      "url": "https://open.spotify.com/track/7o2r2AYbKNQV1GE6Bmke6a"
+    },
+    {
+      "album": {
         "name": "Fenris",
         "url": "https://open.spotify.com/album/7LDHiI3WUZhXqh313wu87n"
       },
@@ -773,6 +791,24 @@
     {
       "album": {
         "name": "Lorn and Loath",
+        "url": "https://open.spotify.com/album/4cAXLQhqL9YpxktpvuuFTF"
+      },
+      "artists": [
+        {
+          "name": "Wolcensmen",
+          "url": "https://open.spotify.com/artist/2valAzrV6xeHL0weVnIAp8"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 455190,
+      "name": "Lorn and Loath",
+      "url": "https://open.spotify.com/track/73qYS0GZUcEwTagjlHt3Jd"
+    },
+    {
+      "album": {
+        "name": "Lorn and Loath",
         "url": "https://open.spotify.com/album/0jpbUfolUgPX3H4FKHdUSf"
       },
       "artists": [
@@ -985,6 +1021,24 @@
       "duration_ms": 292773,
       "name": "R\u00e4ven",
       "url": "https://open.spotify.com/track/6RWqj44MynFix4pFyhI9t9"
+    },
+    {
+      "album": {
+        "name": "SK\u00c1LD",
+        "url": "https://open.spotify.com/album/7IjcTZQThdCKOl7DYvX0Zu"
+      },
+      "artists": [
+        {
+          "name": "SK\u00c1LD",
+          "url": "https://open.spotify.com/artist/3uliAYf4KyTkBpVf3BiWVv"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 160400,
+      "name": "R\u00fan",
+      "url": "https://open.spotify.com/track/1MjMpqiHCPQdPUdG44P2U4"
     },
     {
       "album": {
@@ -1205,6 +1259,24 @@
       "duration_ms": 141750,
       "name": "Stay",
       "url": "https://open.spotify.com/track/3foIGbQ1FPZYJJ7RQ6v4Nj"
+    },
+    {
+      "album": {
+        "name": "Nuclear Blast Showdown Winter 2017",
+        "url": "https://open.spotify.com/album/4P6R6IRALy9NKyqTOiLKyB"
+      },
+      "artists": [
+        {
+          "name": "Enslaved",
+          "url": "https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 654413,
+      "name": "Storm Son",
+      "url": "https://open.spotify.com/track/3UVz5L4dNHmovBj7xCvDfZ"
     },
     {
       "album": {
@@ -1621,6 +1693,24 @@
     {
       "album": {
         "name": "Varjo",
+        "url": "https://open.spotify.com/album/4wqAwqEXhub8SrdidM4pYP"
+      },
+      "artists": [
+        {
+          "name": "Lost In Grey",
+          "url": "https://open.spotify.com/artist/36V2JuO5EMWTRwf8sd6ior"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 339773,
+      "name": "Varjo",
+      "url": "https://open.spotify.com/track/2Qggo2P26yyyuzdHgueQc0"
+    },
+    {
+      "album": {
+        "name": "Varjo",
         "url": "https://open.spotify.com/album/37xsrFZKpKpqDlNkKXm4wb"
       },
       "artists": [
@@ -1689,10 +1779,28 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 235331,
       "name": "Warriors",
       "url": "https://open.spotify.com/track/076NaJ29oWZdjo5Sbs0piR"
+    },
+    {
+      "album": {
+        "name": "Warriors",
+        "url": "https://open.spotify.com/album/4fGVgwLbnzFV8q6EaxxsKn"
+      },
+      "artists": [
+        {
+          "name": "I Am Your God",
+          "url": "https://open.spotify.com/artist/5jmZYC9vzvvJnN0QHExUsn"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235331,
+      "name": "Warriors",
+      "url": "https://open.spotify.com/track/3TsTOSDvHqg3rA4OWHmsea"
     },
     {
       "album": {

@@ -450,6 +450,24 @@
     },
     {
       "album": {
+        "name": "Dancing in the Wild",
+        "url": "https://open.spotify.com/album/6FJtUF1Z1FeoahCd8Lc3P3"
+      },
+      "artists": [
+        {
+          "name": "Su Lee",
+          "url": "https://open.spotify.com/artist/3fQKqN78jhKHvpI2DqecIj"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209877,
+      "name": "Dancing in the Wild",
+      "url": "https://open.spotify.com/track/2nMzoa9kEaklftvRfERJqZ"
+    },
+    {
+      "album": {
         "name": "Dancing In The Wild",
         "url": "https://open.spotify.com/album/4sxTM1Xna0jW2Fq2vRNLR0"
       },
@@ -461,7 +479,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 213243,
       "name": "Dancing In The Wild",
       "url": "https://open.spotify.com/track/7gNW84YFTWpogo5rKMR0UW"
@@ -491,6 +509,28 @@
     {
       "album": {
         "name": "DEATH TRIP",
+        "url": "https://open.spotify.com/album/6RF7gZXUtYNfLngg1ziZQJ"
+      },
+      "artists": [
+        {
+          "name": "\u00d8ZI",
+          "url": "https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD"
+        },
+        {
+          "name": "Soft Lipa",
+          "url": "https://open.spotify.com/artist/3Xp3DA50zRP4TYOtNR7k1T"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222687,
+      "name": "DEATH TRIP",
+      "url": "https://open.spotify.com/track/1cENnHoIyYcBm5ubz3h1q9"
+    },
+    {
+      "album": {
+        "name": "DEATH TRIP",
         "url": "https://open.spotify.com/album/3n4hIndd4ApUv0FUG2KbLO"
       },
       "artists": [
@@ -505,7 +545,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 222687,
       "name": "DEATH TRIP",
       "url": "https://open.spotify.com/track/77nvm4SGjSDyAjdBpBCxuO"
@@ -1265,6 +1305,32 @@
     {
       "album": {
         "name": "Nice Things",
+        "url": "https://open.spotify.com/album/6xtYWI1XN7q3siqgL1OVLW"
+      },
+      "artists": [
+        {
+          "name": "Far East Movement",
+          "url": "https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq"
+        },
+        {
+          "name": "Henry",
+          "url": "https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt"
+        },
+        {
+          "name": "AlunaGeorge",
+          "url": "https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216768,
+      "name": "Nice Things",
+      "url": "https://open.spotify.com/track/0Gfcf1RU1Q8eY8F3D0KAaz"
+    },
+    {
+      "album": {
+        "name": "Nice Things",
         "url": "https://open.spotify.com/album/1UzIHc7t8ZyEuuziBjjk0E"
       },
       "artists": [
@@ -1283,7 +1349,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 216768,
       "name": "Nice Things",
       "url": "https://open.spotify.com/track/4WPXpZVM5jcnFpf5PVF448"
@@ -1664,6 +1730,28 @@
     },
     {
       "album": {
+        "name": "Duality",
+        "url": "https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM"
+      },
+      "artists": [
+        {
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+        },
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201869,
+      "name": "Silver Into Rain",
+      "url": "https://open.spotify.com/track/1fMOg9fZ20OCJCzYiXmom7"
+    },
+    {
+      "album": {
         "name": "Silver Into Rain",
         "url": "https://open.spotify.com/album/6JlD7QPsUqPZQDoiYmENzd"
       },
@@ -1679,7 +1767,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 201869,
       "name": "Silver Into Rain",
       "url": "https://open.spotify.com/track/7IBI2S33PMaIM9pARvpIJY"

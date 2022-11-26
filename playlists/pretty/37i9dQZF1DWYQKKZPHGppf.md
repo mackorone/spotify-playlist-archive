@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYQKKZPHGppf.md) - [plain]
 
 > Le migliori tracce urban italiane del 2021! Cover: Bresh
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,647 likes - 49 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,571 likes - 49 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYQKKZPHGppf.md) - [plain]
 | 34 | [Blueface \(feat\. Izi, Tedua\)](https://open.spotify.com/track/2Ctj9DfXfh9kW3erTp907i) | [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p), [Vaz Tè](https://open.spotify.com/artist/65ddsrNChT3wol9kEIJqKY), [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Glory Days EP](https://open.spotify.com/album/2rxe8Kwyd417YSYmSXs0CI) | 3:42 |
 | 35 | [LA CANZONE NOSTRA ⟁ ︎\(con BLANCO & SALMO\)](https://open.spotify.com/track/1uXJYnCsXy2v50y0fDEEiV) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [OBE](https://open.spotify.com/album/2oT1W5fYFSfU3fz5Q55HWj) | 3:57 |
 | 36 | [TOP BOY ⨳ \(con GEOLIER\)](https://open.spotify.com/track/6sCcJIxOPP7GIKFGzDnYDu) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [OBE](https://open.spotify.com/album/2oT1W5fYFSfU3fz5Q55HWj) | 2:12 |
-| 37 | [Che me chiamme a fa?](https://open.spotify.com/track/3gDFVMotlla7EHapn0c66T) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [Rivoluzione](https://open.spotify.com/album/4Im07AiNZRmx2o0jGgEsal) | 2:41 |
+| 37 | [Che me chiamme a fa?](https://open.spotify.com/track/0cDi5T4m6ZnUtnzq9ujRk2) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [Rivoluzione](https://open.spotify.com/album/1bFodetEZ0nZP3A7COgZ9x) | 2:41 |
 | 38 | [Extendo \(feat\. Paky\)](https://open.spotify.com/track/0zBDHb3xyythPH50GGmhnL) | [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [AMBIZIONE](https://open.spotify.com/album/4Z1gtHqJwPjN0htfLDqcuV) | 2:43 |
 | 39 | [Sa7Bi](https://open.spotify.com/track/22YVrbSGjgfu4wg3zfhll7) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41), [Touché](https://open.spotify.com/artist/3sRTjuam7GJ4lA7ewD2sfb) | [Sa7Bi](https://open.spotify.com/album/0OWPmo8Om98CVRn5c8sdWl) | 3:37 |
 | 40 | [SHAWTY \(feat\. Sacky\)](https://open.spotify.com/track/6yX3lSkO4F3FKx5wDJi4J0) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN), [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS) | [SHAWTY \(feat\. Sacky\)](https://open.spotify.com/album/6FtMPLKEmsz2BsnJuCYrKQ) | 2:33 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYQKKZPHGppf.md) - [plain]
 | 48 | [Demone](https://open.spotify.com/track/6NrOoKDgQb1EcZZuCSBMEw) | [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41), [Nardi](https://open.spotify.com/artist/5Weajr5biqrfs2QaSMUhCG), [Finesse](https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY) | [Demone](https://open.spotify.com/album/3NjF5SOG10WtyLyqO1kvt2) | 2:41 |
 | 49 | [BUGIE \(feat\. Rkomi & Carl Brave\)](https://open.spotify.com/track/4DRyrGfwWACRYP9BDnEFcq) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Carl Brave](https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK) | [MADAME](https://open.spotify.com/album/7oF6ed3aSHU6aDD4MD3LIr) | 2:51 |
 
-Snapshot ID: `MTY1NDc3OTQyOSwwMDAwMDAwMGRhOWIzNjUxYTk4YzM5MDlhNmQzZGExNTZiNGZhMWQz`
+Snapshot ID: `MTY1NDc3OTQyOSwwMDAwMDAwMDVmNDRkODFiNjA5ZWQ0ZTFhOGFmYWRkNjg5YjFiM2Uw`

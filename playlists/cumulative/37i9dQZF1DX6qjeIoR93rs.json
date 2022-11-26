@@ -811,10 +811,28 @@
       ],
       "date_added": "2021-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 186411,
       "name": "Maskhara",
       "url": "https://open.spotify.com/track/1WvkTvepY16tngFkyf2HNB"
+    },
+    {
+      "album": {
+        "name": "Maskhara",
+        "url": "https://open.spotify.com/album/3js4Eghi2JL8ngc07sXBQ9"
+      },
+      "artists": [
+        {
+          "name": "Bashar Murad",
+          "url": "https://open.spotify.com/artist/2egtqAaRFGmPkiMpmSHTql"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186411,
+      "name": "Maskhara",
+      "url": "https://open.spotify.com/track/4lV2xMJsbfsva6Ldqlf0pf"
     },
     {
       "album": {
@@ -919,7 +937,7 @@
       ],
       "date_added": "2021-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 326387,
       "name": "NAS",
       "url": "https://open.spotify.com/track/6iplzAdeuc5x1TQBph25PZ"
@@ -1105,7 +1123,7 @@
       ],
       "date_added": "2021-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-27",
+      "date_removed": null,
       "duration_ms": 157800,
       "name": "Room",
       "url": "https://open.spotify.com/track/5u1ZzIFYcbEKhntyrZffO7"
@@ -1167,7 +1185,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-09",
+      "date_removed": "2022-11-19",
       "duration_ms": 260555,
       "name": "Sobo El Gahwa",
       "url": "https://open.spotify.com/track/2uegTlle9p16rqdeYroYET"

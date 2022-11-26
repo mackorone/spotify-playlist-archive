@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0nUPQhoNrmw7Kr7sOeUCQh.md) - [plain]
 
 > Enjoy the glorious summer days with these happy mood tracks full of sunshine.
 
-[Indie & Folk Radio](https://open.spotify.com/user/indiefolkradio) - 685 likes - 42 songs - 2 hr 38 min
+[Indie & Folk Radio](https://open.spotify.com/user/indiefolkradio) - 684 likes - 42 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

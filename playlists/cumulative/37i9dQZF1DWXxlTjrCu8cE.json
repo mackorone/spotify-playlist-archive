@@ -159,7 +159,7 @@
           "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         },
         {
-          "name": "BLEU",
+          "name": "Yung Bleu",
           "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
         }
       ],
@@ -826,6 +826,24 @@
     },
     {
       "album": {
+        "name": "To Wong Foo, Thanks For Everything, Julie Newmar",
+        "url": "https://open.spotify.com/album/0Q6zcL0hk3K4shD1g4JOtA"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 221960,
+      "name": "Hey Now (Girls Just Want to Have Fun)",
+      "url": "https://open.spotify.com/track/6OFB0ggdNof1Eih8ln8bM5"
+    },
+    {
+      "album": {
         "name": "Honey",
         "url": "https://open.spotify.com/album/2D37uNhXgherfImusGBKTx"
       },
@@ -841,6 +859,24 @@
       "duration_ms": 199209,
       "name": "Honey",
       "url": "https://open.spotify.com/track/5QTdOvIF2ehBMZpSIIGzIo"
+    },
+    {
+      "album": {
+        "name": "Kiss Me",
+        "url": "https://open.spotify.com/album/4GVfR3RWeSfO5AHkYCcTSW"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 250615,
+      "name": "I Don't Want It At All",
+      "url": "https://open.spotify.com/track/3NnXeidvZtBnJHGgVA82aQ"
     },
     {
       "album": {
@@ -1141,6 +1177,24 @@
       "duration_ms": 158436,
       "name": "my hair",
       "url": "https://open.spotify.com/track/6u7gmPOz7pzzaeR9xSBpsR"
+    },
+    {
+      "album": {
+        "name": "Tomando aire",
+        "url": "https://open.spotify.com/album/45YfDCDKgKlBeAA0VIDLIT"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 197191,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/3OXZCsiRD4QdLIpavbBBGX"
     },
     {
       "album": {

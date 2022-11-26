@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4muFXNJjmJvLWdHmx0PKYO.md) - [plain]
 
 > Emmabodafestivalen har sedan arrangerats sedan 1988 av den ideella föreningen Vinterbadarna\. Sommarens festival arrangeras 25 \- 28 juli\. Hitta spellistor för alla tillfällen på <a href="spottily:app:tunigo">Tunigo</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36 likes - 48 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 41 likes - 48 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

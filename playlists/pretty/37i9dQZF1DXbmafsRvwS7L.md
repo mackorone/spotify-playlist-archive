@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmafsRvwS7L.md) - [plain]
 
 > Curated by the biggest stars of the 2021 NFL Draft celebrating their journey to Draft Night!
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,448 likes - 25 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,438 likes - 25 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmafsRvwS7L.md) - [plain]
 | 2 | [La Familia](https://open.spotify.com/track/1Jz9nO8LaaZAwbRClmkL7r) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Magna Carta..\. Holy Grail](https://open.spotify.com/album/0kSJLkOtFwJoVbZu5C2BRV) | 3:33 |
 | 3 | [Return of the Mack](https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9) | [Mark Morrison](https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9) | [Return of the Mack](https://open.spotify.com/album/6plavTFCGXv5vpy0jZVtOV) | 3:33 |
 | 4 | [Comin' From Where I'm From](https://open.spotify.com/track/5P8hv9q06ZHrdMfF1omXyd) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [I'm In Love With A Church Girl](https://open.spotify.com/album/7HbOjQfJFo8ZfPqA4dyAY7) | 4:00 |
-| 5 | [One Thing Leads To Another](https://open.spotify.com/track/5B37ocpk2zxeZL1lq5F6ui) | [The Fixx](https://open.spotify.com/artist/53RkHTcl0SJZjpzqogkBf4) | [Reach The Beach](https://open.spotify.com/album/4TDnrqNEikAzVhYj948Iox) | 3:19 |
+| 5 | [One Thing Leads To Another](https://open.spotify.com/track/2d1NMaw8arIU2Fy4BnWqLs) | [The Fixx](https://open.spotify.com/artist/53RkHTcl0SJZjpzqogkBf4) | [20th Century Masters: The Millennium Collection: Best Of The '80s](https://open.spotify.com/album/5SaMVD3JhB3JU9A66Xwj0E) | 3:25 |
 | 6 | [Supersoaker](https://open.spotify.com/track/4cQIbDqCZrHknxlDUjRHZ0) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Mechanical Bull \(Expanded Edition\)](https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v) | 3:50 |
 | 7 | [Gangstas](https://open.spotify.com/track/765fiRGlmsVAoYHXHeCWtu) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Shoot For The Stars Aim For The Moon \(Deluxe\)](https://open.spotify.com/album/45HGJedVnKuOXNFW8fVuDz) | 2:40 |
 | 8 | [Christopher Walking](https://open.spotify.com/track/07BM7xLdcXIJHkqvF3e8gQ) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo 2](https://open.spotify.com/album/6whVA0JLBmjElTSXahWFlQ) | 3:10 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmafsRvwS7L.md) - [plain]
 | 24 | [All I Got](https://open.spotify.com/track/2xShtispA0L5J8SyZFQGSX) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [SoulFly](https://open.spotify.com/album/4FY0HCt6PEbOF1RqUbYVzq) | 3:13 |
 | 25 | [The Believer \- feat\. John Legend](https://open.spotify.com/track/6QtpJNlCfA091GmD2ALNri) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [The Dreamer, The Believer](https://open.spotify.com/album/17eQeA5m7DpsZ42mUAGjgG) | 3:43 |
 
-Snapshot ID: `MTYyMDA1OTgwMCwwMDAwMDAwMDgwNzNkOWE0YTExY2FhNTFiZGNjNmJkMGEzNjVjZWM0`
+Snapshot ID: `MTYyMDA1OTgwMCwwMDAwMDAwMGQ4ODFhOWYzYTg1NzdlNGMxN2YxZjkxNzg2YTNiOTg4`

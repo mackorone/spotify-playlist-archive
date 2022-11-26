@@ -236,6 +236,24 @@
     },
     {
       "album": {
+        "name": "Bahara X",
+        "url": "https://open.spotify.com/album/23TvDnvBF4D7pZrzWQ4WGm"
+      },
+      "artists": [
+        {
+          "name": "Ezu",
+          "url": "https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167272,
+      "name": "Bahara X",
+      "url": "https://open.spotify.com/track/0BlKsjU5Md37Z1CZ6UY6bT"
+    },
+    {
+      "album": {
         "name": "Bajre Da Sitta",
         "url": "https://open.spotify.com/album/2Z58gr9ZIZdHOC2tL7tbYa"
       },
@@ -373,6 +391,28 @@
       "duration_ms": 168450,
       "name": "Bijlee Bijlee",
       "url": "https://open.spotify.com/track/1iZLpuGMr4tn1F5bZu32Kb"
+    },
+    {
+      "album": {
+        "name": "Bijli (From \"Govinda Naam Mera\")",
+        "url": "https://open.spotify.com/album/3cXSO3oTliGRZG0hGugaXk"
+      },
+      "artists": [
+        {
+          "name": "Mika Singh",
+          "url": "https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13"
+        },
+        {
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Bijli",
+      "url": "https://open.spotify.com/track/3hts3cIWNG8A2063si9GLP"
     },
     {
       "album": {

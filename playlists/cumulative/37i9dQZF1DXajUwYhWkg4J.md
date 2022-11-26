@@ -2,9 +2,9 @@
 
 ### [Best of: Coke Studio Sufi ](https://open.spotify.com/playlist/37i9dQZF1DXajUwYhWkg4J)
 
-> Top Sufi tracks of Coke Studio Pakistan\. Cover: Rahat Fateh Ali Khan
+> Top Sufi tracks of Coke Studio Pakistan\. Cover: Abida Parveen
 
-56 songs - 7 hr 38 min - [published](https://open.spotify.com/playlist/0TDkgFavNJdJUa4b2z7oKf)
+58 songs - 7 hr 55 min - [published](https://open.spotify.com/playlist/0TDkgFavNJdJUa4b2z7oKf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Man Kunto Maula](https://open.spotify.com/track/5kVjlBudgNx2D98tNwOzCK) | [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ), [Ali Azmat](https://open.spotify.com/artist/38lgkItatcpCc0I9hV4nEr), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Coke Studio: Season 9](https://open.spotify.com/album/1BFQiBnV2cxrw1WFsabMcL) | 9:28 | 2022-01-16 | 2022-07-29 |
 | [Manzil\-e\-Sufi](https://open.spotify.com/track/44Az6YaqJlqzt5CtW3OcJH) | [Sanam Marvi](https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 3](https://open.spotify.com/album/1lKwPb6MbXARLx99TnhtZY) | 5:52 | 2022-01-16 |  |
 | [Maula Tera Noor](https://open.spotify.com/track/43MM7jOLwi9QQRbGXcz6Tx) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [Coke Studio Season 10: Episode 7](https://open.spotify.com/album/6N6JL68Ji3Huws0DNHlnv3) | 8:28 | 2022-01-16 |  |
+| [Maula\-E\-Kull](https://open.spotify.com/track/6u8kxnHGsj0HZQy9dB01GK) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl) | [Coke Studio: Season 9](https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ) | 9:52 | 2022-10-12 | 2022-11-13 |
 | [Maula\-E\-Kull](https://open.spotify.com/track/6uAhKs1xbzs4QIREQzHXb1) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl) | [Maula\-E\-Kull](https://open.spotify.com/album/4Gb6vs7OZiB2WDExrgRAdl) | 9:52 | 2022-01-16 |  |
 | [Maula\-E\-Kull](https://open.spotify.com/track/3zNiOIeRHP8Ag6ILRndRpo) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Coke Studio: Season 9](https://open.spotify.com/album/1BFQiBnV2cxrw1WFsabMcL) | 9:52 | 2022-01-16 | 2022-07-29 |
 | [Mein Sufi Hoon](https://open.spotify.com/track/0dhamF0vASy4g1gEpC1OKI) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl), [Ustad Raees Khan](https://open.spotify.com/artist/5Obutzzc5UZP1l6t6jmjwh) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 10:19 | 2022-01-16 |  |
@@ -59,6 +60,7 @@
 | [Tu Jhoom](https://open.spotify.com/track/2xRtXbFAmk3cW6xE1zF7ye) | [Naseebo Lal](https://open.spotify.com/artist/4sAweKU7CjDZ1bUEb6VF6a), [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl) | [Tu Jhoom](https://open.spotify.com/album/6VhS1BISA2PS23CmP0XH5M) | 6:37 | 2022-01-16 |  |
 | [Tu Kuja Man Kuja](https://open.spotify.com/track/10FMebRh92qPZdO7wLtcJL) | [Shiraz Uppal](https://open.spotify.com/artist/7DcUua74PM7MmBljTTjIyy), [Rafaqat Ali Khan](https://open.spotify.com/artist/5gb3fWXn6yqB3bztWCc3wz) | [Coke Studio: Season 9](https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ) | 8:42 | 2022-01-16 |  |
 | [Tu Kuja Man Kuja](https://open.spotify.com/track/1xiUhnLrA23Nmi9OkKkPj6) | [Shiraz Uppal](https://open.spotify.com/artist/7DcUua74PM7MmBljTTjIyy), [Rafaqat Ali Khan](https://open.spotify.com/artist/5gb3fWXn6yqB3bztWCc3wz), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Coke Studio: Season 9](https://open.spotify.com/album/1BFQiBnV2cxrw1WFsabMcL) | 8:42 | 2022-01-16 | 2022-07-29 |
+| [Uddi Ja](https://open.spotify.com/track/0diZtB5DY0NyT8bAZI1QLw) | [Mohsin Abbas Haider](https://open.spotify.com/artist/3AkuJRCDsbBy5tftVMtJOT) | [Coke Studio: Season 9](https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ) | 7:02 | 2022-10-12 | 2022-11-14 |
 | [Uddi Ja](https://open.spotify.com/track/292P5VtgDClMCzKpgSZVbt) | [Mohsin Abbas Haider](https://open.spotify.com/artist/3AkuJRCDsbBy5tftVMtJOT), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Coke Studio: Season 9](https://open.spotify.com/album/1BFQiBnV2cxrw1WFsabMcL) | 7:02 | 2022-01-16 | 2022-07-29 |
 | [Uddi Ja \(Coke Studio Season 9\)](https://open.spotify.com/track/4zppewvc7dMM9P7fwywsGR) | [Mohsin Abbas Haider](https://open.spotify.com/artist/3AkuJRCDsbBy5tftVMtJOT) | [Uddi Ja \(Coke Studio Season 9\)](https://open.spotify.com/album/3zgwUPaPsKjTvDmIetSIm3) | 7:02 | 2022-01-16 |  |
 | [Wah Jo Kalaam](https://open.spotify.com/track/7B4rv8RrlWr5qTIQ5UCrQk) | [Asrar](https://open.spotify.com/artist/2pLpp8LjPF5qJAj8T3zzPn), [Vishnu](https://open.spotify.com/artist/3C6fEluNfcYDBAy6nBQpdS), [Shamu Bai](https://open.spotify.com/artist/6ImUiMuTiMjlhRKfMCXe8Q) | [Coke Studio Season 11 \(Sound of The Nation\)](https://open.spotify.com/album/0NKhQH2b1GwucaMqnzfZri) | 5:20 | 2022-01-16 |  |

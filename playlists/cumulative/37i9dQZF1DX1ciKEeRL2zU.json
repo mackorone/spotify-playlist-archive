@@ -132,6 +132,24 @@
     },
     {
       "album": {
+        "name": "Once Upon a Time In Africa",
+        "url": "https://open.spotify.com/album/75zZ8xLGSeF0UFE5K0kMrj"
+      },
+      "artists": [
+        {
+          "name": "Cassper Nyovest",
+          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 260413,
+      "name": "Baby Girl",
+      "url": "https://open.spotify.com/track/14dcMfyhHV1vUdXXfiTuW1"
+    },
+    {
+      "album": {
         "name": "Thuto",
         "url": "https://open.spotify.com/album/5eqTNk3knYSiqlpcUT91z7"
       },
@@ -434,6 +452,28 @@
     },
     {
       "album": {
+        "name": "Evening Of Love Volume 1",
+        "url": "https://open.spotify.com/album/1YOYdJxjiUrwP4E6RktAk1"
+      },
+      "artists": [
+        {
+          "name": "La Sauce",
+          "url": "https://open.spotify.com/artist/7M2aTLre33O0Q0bcesHN9b"
+        },
+        {
+          "name": "Amanda Black",
+          "url": "https://open.spotify.com/artist/4tyWwKFEbho8Vh4qczqbIo"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 312973,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/3lSUCc7S3h0uD6yT8BnPPB"
+    },
+    {
+      "album": {
         "name": "Broken Lipstick",
         "url": "https://open.spotify.com/album/2X0MNKHlGm5L6UAaaTsabH"
       },
@@ -515,6 +555,28 @@
       "duration_ms": 286666,
       "name": "Intliziyo",
       "url": "https://open.spotify.com/track/0CZjloNcJAOdtB6tsTGUi6"
+    },
+    {
+      "album": {
+        "name": "Intliziyo",
+        "url": "https://open.spotify.com/album/0Id5RFmQfavhAxvqUs2fuB"
+      },
+      "artists": [
+        {
+          "name": "Lloyiso",
+          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
+        },
+        {
+          "name": "Langa Mavuso",
+          "url": "https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 286666,
+      "name": "Intliziyo (feat. Langa Mavuso)",
+      "url": "https://open.spotify.com/track/4ObP7D5UKOtDBBDldOfp1U"
     },
     {
       "album": {
@@ -751,6 +813,24 @@
       "duration_ms": 254466,
       "name": "Ndikuthandile",
       "url": "https://open.spotify.com/track/1Tj0262AYJa0RKh74HGB6G"
+    },
+    {
+      "album": {
+        "name": "Evening Of Love Volume 1",
+        "url": "https://open.spotify.com/album/1YOYdJxjiUrwP4E6RktAk1"
+      },
+      "artists": [
+        {
+          "name": "Vusi Nova",
+          "url": "https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 254466,
+      "name": "Ndikuthandile",
+      "url": "https://open.spotify.com/track/5dkicllD31FgPf1WoE7wfD"
     },
     {
       "album": {
@@ -1026,6 +1106,24 @@
     },
     {
       "album": {
+        "name": "S'bali",
+        "url": "https://open.spotify.com/album/4oWvJFVUbyOGg2ESInM24Y"
+      },
+      "artists": [
+        {
+          "name": "Intaba Yase Dubai",
+          "url": "https://open.spotify.com/artist/2j6fdvCneiKmXX8rsYEoU6"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 300773,
+      "name": "S'bali",
+      "url": "https://open.spotify.com/track/4Gu3XWf8SXdUM1VQzsmQlL"
+    },
+    {
+      "album": {
         "name": "Amagama",
         "url": "https://open.spotify.com/album/5iPOBiXSE3zgsZctEvp0UP"
       },
@@ -1251,10 +1349,28 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 302106,
       "name": "Turn You On",
       "url": "https://open.spotify.com/track/1Bh3o07Kfua1iTnxuWDwnp"
+    },
+    {
+      "album": {
+        "name": "Su Casa",
+        "url": "https://open.spotify.com/album/0JnhG5mHpSHvdCQnzM3egu"
+      },
+      "artists": [
+        {
+          "name": "Mi Casa",
+          "url": "https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302106,
+      "name": "Turn You On",
+      "url": "https://open.spotify.com/track/2CjxsWQv49DdO0E0UD9WSt"
     },
     {
       "album": {
@@ -1317,6 +1433,42 @@
       "duration_ms": 292280,
       "name": "Ungowami",
       "url": "https://open.spotify.com/track/3Iw3M4ajHzRV0MOQ0a0zRo"
+    },
+    {
+      "album": {
+        "name": "I Choose You",
+        "url": "https://open.spotify.com/album/6EY0zAXkb5ButcECHqqzji"
+      },
+      "artists": [
+        {
+          "name": "Semito",
+          "url": "https://open.spotify.com/artist/3OpF5sBW6Pbn073VMKKpAm"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 292280,
+      "name": "Ungowami",
+      "url": "https://open.spotify.com/track/3nnDgKZH4k2YVrpFuvXJI3"
+    },
+    {
+      "album": {
+        "name": "Sounds of Love: Side A",
+        "url": "https://open.spotify.com/album/53PGiw3oxtHwHrzi72Ypa9"
+      },
+      "artists": [
+        {
+          "name": "Kelly Khumalo",
+          "url": "https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 293120,
+      "name": "Uthando",
+      "url": "https://open.spotify.com/track/5WrnM103yLSiufFT9r1tWL"
     },
     {
       "album": {

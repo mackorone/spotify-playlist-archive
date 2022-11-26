@@ -1,15 +1,39 @@
 {
   "description": "Relax to the calming sounds of choral music.",
-  "num_followers": 190256,
-  "original_name": "Calming Choir",
+  "num_followers": 195974,
+  "original_name": "Choir Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMGZmNGUzNTU0NzdmNGRhZGZjYjA0ZGJkNTFjMTgxNWEz",
+  "snapshot_id": "MTY2ODc0NDAwMCwwMDAwMDAwMDFmMGMxNDNjNDQ5MGQ5M2JhYjk3N2ZjOWUzNmY1YTk4",
   "tracks": [
     {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-11-18 04:00:00",
+      "album": {
+        "name": "Lauridsen: O Magnum Mysterium / Lux Aeterna / Madrigali / Les Chansons Des Roses",
+        "url": "https://open.spotify.com/album/2KpDg5XbaWzQWepVfDpefT"
+      },
+      "artists": [
+        {
+          "name": "Morten Lauridsen",
+          "url": "https://open.spotify.com/artist/4EV7a9KODMBPJTCgIl9Bmk"
+        },
+        {
+          "name": "Chamber Choir Of Europe",
+          "url": "https://open.spotify.com/artist/1TQJoqACwhfrAKXA9WwO4v"
+        },
+        {
+          "name": "Nicol Matt",
+          "url": "https://open.spotify.com/artist/6yAWv145sy4X8JuioX2niU"
+        }
+      ],
+      "duration_ms": 415800,
+      "name": "O Magnum Mysterium: O magnum mysterium",
+      "url": "https://open.spotify.com/track/0S0YKiEdR9cT9pYgEaTevF"
+    },
+    {
+      "added_at": "2022-11-18 04:00:00",
       "album": {
         "name": "Light & Gold",
         "url": "https://open.spotify.com/album/2hnquPCPDsr3Srk64rdeVS"
@@ -29,31 +53,123 @@
       "url": "https://open.spotify.com/track/1ZqzUiCQICQmjtpbFZYwnt"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-11-18 04:00:00",
       "album": {
-        "name": "Light for the World",
-        "url": "https://open.spotify.com/album/5hBu1cttYYkclsdxeKzKRy"
+        "name": "Requiem - Howells & Pizzetti: Requiems / Whitacre, Grantham, Paulus & Gilkyson",
+        "url": "https://open.spotify.com/album/2JnuTQPS1i9AW2pkd7SQB6"
       },
       "artists": [
         {
-          "name": "James Morgan",
-          "url": "https://open.spotify.com/artist/7mC0zQ4J4cJPNGYFlmiQVC"
+          "name": "Stephen Paulus",
+          "url": "https://open.spotify.com/artist/4WoqkIaM67iDWsXNQM6hri"
         },
         {
-          "name": "Juliette Pochin",
-          "url": "https://open.spotify.com/artist/4UD32JlXGLthCDSEkkB5sV"
+          "name": "Conspirare",
+          "url": "https://open.spotify.com/artist/0VvrkPoertmEH3SJDw129Z"
         },
         {
-          "name": "Poor Clare Sisters Arundel",
-          "url": "https://open.spotify.com/artist/2yEndu1Rs4a7uBoFUSZPla"
+          "name": "Craig Hella Johnson",
+          "url": "https://open.spotify.com/artist/7FWsBTlD40WptG48Z5zBJp"
         }
       ],
-      "duration_ms": 133266,
-      "name": "Veni Creator Spiritus",
-      "url": "https://open.spotify.com/track/6K1z9GdRDtg4wrclq649lZ"
+      "duration_ms": 236906,
+      "name": "The Road Home",
+      "url": "https://open.spotify.com/track/3vA1AS2PWl4RePRCiR36lb"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-11-18 04:00:00",
+      "album": {
+        "name": "Media Vita",
+        "url": "https://open.spotify.com/album/21ruoumhxcMcRsD08UF9Mj"
+      },
+      "artists": [
+        {
+          "name": "Kerensa Briggs",
+          "url": "https://open.spotify.com/artist/36QRQEhytT1w0kRiF3g27b"
+        },
+        {
+          "name": "Anna Lapwood",
+          "url": "https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP"
+        },
+        {
+          "name": "The Chapel Choir of Pembroke College, Cambridge",
+          "url": "https://open.spotify.com/artist/6DPxkITuYSrDAPdhISWO35"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Media Vita",
+      "url": "https://open.spotify.com/track/4htAzv3rkpAzCjo2pW12id"
+    },
+    {
+      "added_at": "2022-11-18 04:00:00",
+      "album": {
+        "name": "Lux",
+        "url": "https://open.spotify.com/album/0sqRF0UZjwVg7ecgSwr7Wh"
+      },
+      "artists": [
+        {
+          "name": "Edward Elgar",
+          "url": "https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd"
+        },
+        {
+          "name": "Voces8",
+          "url": "https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc"
+        }
+      ],
+      "duration_ms": 232666,
+      "name": "Nimrod (Lux Aeterna)",
+      "url": "https://open.spotify.com/track/1aJcDNDrKduMegTZzOemVd"
+    },
+    {
+      "added_at": "2022-11-18 04:00:00",
+      "album": {
+        "name": "Mikrokosmos",
+        "url": "https://open.spotify.com/album/4IgVVWGMDaRNpApcJhu6zy"
+      },
+      "artists": [
+        {
+          "name": "Veljo Tormis",
+          "url": "https://open.spotify.com/artist/0Idpvxe8nO6ZOciUbB5eSa"
+        },
+        {
+          "name": "Mikrokosmos",
+          "url": "https://open.spotify.com/artist/0Q1AL26o6Z3P3oYUWyTven"
+        },
+        {
+          "name": "Lo\u00efc Pierre",
+          "url": "https://open.spotify.com/artist/27jBdILBv6ZamFSzXmnTaT"
+        }
+      ],
+      "duration_ms": 131333,
+      "name": "La Kanteletar: I. Herk\u00e4 neito",
+      "url": "https://open.spotify.com/track/0QXrJH7Whrm5xFioJtT1BV"
+    },
+    {
+      "added_at": "2022-11-18 04:00:00",
+      "album": {
+        "name": "Victoria: Requiem Mass, 1605",
+        "url": "https://open.spotify.com/album/0Tqsg5yiFRf7CyfhIjKh0W"
+      },
+      "artists": [
+        {
+          "name": "Alonso Lobo",
+          "url": "https://open.spotify.com/artist/5yaxZ5EPC1YY3viLY8tmuU"
+        },
+        {
+          "name": "Tenebrae",
+          "url": "https://open.spotify.com/artist/0vUnn6Eje2O5yxEj35touD"
+        },
+        {
+          "name": "Nigel Short",
+          "url": "https://open.spotify.com/artist/4gs13ipYIJhCcqDMOEx9eN"
+        }
+      ],
+      "duration_ms": 332440,
+      "name": "Versa est in luctum",
+      "url": "https://open.spotify.com/track/5aJ7jwNHSdudJNTZVzUElL"
+    },
+    {
+      "added_at": "2022-11-18 04:00:00",
       "album": {
         "name": "There Will Come Soft Rains",
         "url": "https://open.spotify.com/album/1o4x46Hv82vcBRuVZeMe4n"
@@ -77,7 +193,31 @@
       "url": "https://open.spotify.com/track/5KCHfR2RGdpieZoQ5NQd5g"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-11-18 04:00:00",
+      "album": {
+        "name": "A Tender Light",
+        "url": "https://open.spotify.com/album/6xSYtksjxhvLCSRqXKBw9g"
+      },
+      "artists": [
+        {
+          "name": "Paul Mealor",
+          "url": "https://open.spotify.com/artist/18B9HFuIuZ5LOk8vWtaxsG"
+        },
+        {
+          "name": "Tenebrae",
+          "url": "https://open.spotify.com/artist/0vUnn6Eje2O5yxEj35touD"
+        },
+        {
+          "name": "Nigel Short",
+          "url": "https://open.spotify.com/artist/4gs13ipYIJhCcqDMOEx9eN"
+        }
+      ],
+      "duration_ms": 197400,
+      "name": "Now Sleeps The Crimson Petal (Four Madrigals On Rose Texts): Now Sleeps The Crimson Petal",
+      "url": "https://open.spotify.com/track/53vD24j7PgGW5beqOxZska"
+    },
+    {
+      "added_at": "2022-11-18 04:00:00",
       "album": {
         "name": "Upon Your Heart",
         "url": "https://open.spotify.com/album/0VhF8ldmEdA2Fkkw9Tgo16"
@@ -105,7 +245,7 @@
       "url": "https://open.spotify.com/track/7aqgHJkQeVLId28hLNuHIN"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-11-18 04:00:00",
       "album": {
         "name": "Infinity",
         "url": "https://open.spotify.com/album/74eIgzLtcbJVr4NIajGzrb"
@@ -129,7 +269,7 @@
       "url": "https://open.spotify.com/track/1XAwBkH7vpJvNbq8yB3Rji"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-11-18 04:00:00",
       "album": {
         "name": "Cyrillus Kreek - The Suspended Harp of Babel",
         "url": "https://open.spotify.com/album/4mymYsp2fuShH5ogNWPcj7"
@@ -169,7 +309,31 @@
       "url": "https://open.spotify.com/track/4x0gTKvCwR5gn9yFw0xWWX"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-11-18 04:00:00",
+      "album": {
+        "name": "Silvestrov: Maidan 2014 / Cycle I: III. Give Rest, O Christ, to Thy Servant",
+        "url": "https://open.spotify.com/album/3qwfb2pPjyCNKHohg1Lgam"
+      },
+      "artists": [
+        {
+          "name": "Valentin Silvestrov",
+          "url": "https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6"
+        },
+        {
+          "name": "Kiev Chamber Choir",
+          "url": "https://open.spotify.com/artist/0dGQQCxO2lPSsWaUjCDpxh"
+        },
+        {
+          "name": "Mykola Hobdych",
+          "url": "https://open.spotify.com/artist/4DSpdI6IODyLdw0Wg4bUXe"
+        }
+      ],
+      "duration_ms": 124453,
+      "name": "Maidan 2014 / Cycle I: III. Give Rest, O Christ, to Thy Servant",
+      "url": "https://open.spotify.com/track/6tgo3fdEHQajqus7UdvA5J"
+    },
+    {
+      "added_at": "2022-11-18 04:00:00",
       "album": {
         "name": "momentary (choir version)",
         "url": "https://open.spotify.com/album/2Bqy8Y0KOt3leOpABhixnA"
@@ -189,7 +353,7 @@
       "url": "https://open.spotify.com/track/3Wa0N4CYjsUEzzfrrPCy5U"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-11-18 04:00:00",
       "album": {
         "name": "A Bright Star Shineth",
         "url": "https://open.spotify.com/album/3qw4BAKdjP6ce7FMbvxqXX"
@@ -209,7 +373,51 @@
       "url": "https://open.spotify.com/track/5R1sIewu1amxKBwg0BPC7V"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-11-18 04:00:00",
+      "album": {
+        "name": "Byrd: Mass for Four Voices: V. Agnus Dei",
+        "url": "https://open.spotify.com/album/2Qnw992U1fGiV0OeoCfaj1"
+      },
+      "artists": [
+        {
+          "name": "William Byrd",
+          "url": "https://open.spotify.com/artist/2j7yGPnVrdIHjHwtyLPJ2z"
+        },
+        {
+          "name": "Stile Antico",
+          "url": "https://open.spotify.com/artist/050HYLDzYAPj4f334VbaKG"
+        }
+      ],
+      "duration_ms": 243413,
+      "name": "Mass for Four Voices: V. Agnus Dei",
+      "url": "https://open.spotify.com/track/4tJTytklwv0NENMQxzKp8d"
+    },
+    {
+      "added_at": "2022-11-18 04:00:00",
+      "album": {
+        "name": "Light for the World",
+        "url": "https://open.spotify.com/album/5hBu1cttYYkclsdxeKzKRy"
+      },
+      "artists": [
+        {
+          "name": "James Morgan",
+          "url": "https://open.spotify.com/artist/7mC0zQ4J4cJPNGYFlmiQVC"
+        },
+        {
+          "name": "Juliette Pochin",
+          "url": "https://open.spotify.com/artist/4UD32JlXGLthCDSEkkB5sV"
+        },
+        {
+          "name": "Poor Clare Sisters Arundel",
+          "url": "https://open.spotify.com/artist/2yEndu1Rs4a7uBoFUSZPla"
+        }
+      ],
+      "duration_ms": 133266,
+      "name": "Veni Creator Spiritus",
+      "url": "https://open.spotify.com/track/6K1z9GdRDtg4wrclq649lZ"
+    },
+    {
+      "added_at": "2022-11-18 04:00:00",
       "album": {
         "name": "Seeing the Star",
         "url": "https://open.spotify.com/album/3N5Lknwmt35GmNVpTEAM8c"
@@ -237,7 +445,7 @@
       "url": "https://open.spotify.com/track/7pCg4v0hmeFwFo0JB2sBYm"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-11-18 04:00:00",
       "album": {
         "name": "Meditatio: Music for Mixed Choir",
         "url": "https://open.spotify.com/album/4lAMbvRhwkALVrPske1KY6"
@@ -261,31 +469,7 @@
       "url": "https://open.spotify.com/track/0hhks9bICVHvYcEK8Gr9DU"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Silvestrov: Maidan 2014 / Cycle I: III. Give Rest, O Christ, to Thy Servant",
-        "url": "https://open.spotify.com/album/3qwfb2pPjyCNKHohg1Lgam"
-      },
-      "artists": [
-        {
-          "name": "Valentin Silvestrov",
-          "url": "https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6"
-        },
-        {
-          "name": "Kiev Chamber Choir",
-          "url": "https://open.spotify.com/artist/0dGQQCxO2lPSsWaUjCDpxh"
-        },
-        {
-          "name": "Mykola Hobdych",
-          "url": "https://open.spotify.com/artist/4DSpdI6IODyLdw0Wg4bUXe"
-        }
-      ],
-      "duration_ms": 124453,
-      "name": "Maidan 2014 / Cycle I: III. Give Rest, O Christ, to Thy Servant",
-      "url": "https://open.spotify.com/track/6tgo3fdEHQajqus7UdvA5J"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-11-18 04:00:00",
       "album": {
         "name": "Hole in the Sky",
         "url": "https://open.spotify.com/album/5IWEyoaZsrskjtjEwD7MYE"
@@ -309,7 +493,31 @@
       "url": "https://open.spotify.com/track/2JKprlOn7EiSpFZPysLRBm"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-11-18 04:00:00",
+      "album": {
+        "name": "The Dale Warland Singers: Lux Aurumque",
+        "url": "https://open.spotify.com/album/4IDkSgEdONG4YLjGDAGB7D"
+      },
+      "artists": [
+        {
+          "name": "Pavel Chesnokov",
+          "url": "https://open.spotify.com/artist/0o7TvHMVIlWDZo98MCVume"
+        },
+        {
+          "name": "Dale Warland Singers",
+          "url": "https://open.spotify.com/artist/7lsn4vl91HSqb5byRmFu8I"
+        },
+        {
+          "name": "Dale Warland",
+          "url": "https://open.spotify.com/artist/70TQpK6nl0sTjoJybeEtvz"
+        }
+      ],
+      "duration_ms": 215053,
+      "name": "Spaseniye sodelal yesi posrede zemli (Salvation is Created), Op. 25, No. 5",
+      "url": "https://open.spotify.com/track/0xmyzDblNF2iyiQTdGtG9u"
+    },
+    {
+      "added_at": "2022-11-18 04:00:00",
       "album": {
         "name": "Water & Spirit",
         "url": "https://open.spotify.com/album/1xAnDJWDXOaLSJaSMAgBds"
@@ -333,111 +541,7 @@
       "url": "https://open.spotify.com/track/67vgXrVt6vPSMJuAOy2PTo"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Mikrokosmos",
-        "url": "https://open.spotify.com/album/4IgVVWGMDaRNpApcJhu6zy"
-      },
-      "artists": [
-        {
-          "name": "Veljo Tormis",
-          "url": "https://open.spotify.com/artist/0Idpvxe8nO6ZOciUbB5eSa"
-        },
-        {
-          "name": "Mikrokosmos",
-          "url": "https://open.spotify.com/artist/0Q1AL26o6Z3P3oYUWyTven"
-        },
-        {
-          "name": "Lo\u00efc Pierre",
-          "url": "https://open.spotify.com/artist/27jBdILBv6ZamFSzXmnTaT"
-        }
-      ],
-      "duration_ms": 131333,
-      "name": "La Kanteletar: I. Herk\u00e4 neito",
-      "url": "https://open.spotify.com/track/0QXrJH7Whrm5xFioJtT1BV"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Abide With Me (Arr. for Saxophone and Vocal Ensemble Christian Forshaw)",
-        "url": "https://open.spotify.com/album/4wu8iBYdcRNUBpHwBZXXOW"
-      },
-      "artists": [
-        {
-          "name": "Christian Forshaw",
-          "url": "https://open.spotify.com/artist/3hb2rYbbTMlvmd42CCH3kJ"
-        },
-        {
-          "name": "Henry Francis Lyte",
-          "url": "https://open.spotify.com/artist/1M90aRBFiBdBL1IzI4I13i"
-        },
-        {
-          "name": "William Henry Monk",
-          "url": "https://open.spotify.com/artist/61GYUvvf0liMZ5x0HC9oRk"
-        },
-        {
-          "name": "Tenebrae",
-          "url": "https://open.spotify.com/artist/0vUnn6Eje2O5yxEj35touD"
-        },
-        {
-          "name": "Nigel Short",
-          "url": "https://open.spotify.com/artist/4gs13ipYIJhCcqDMOEx9eN"
-        }
-      ],
-      "duration_ms": 247746,
-      "name": "Abide With Me (Arr. for Saxophone and Vocal Ensemble Christian Forshaw)",
-      "url": "https://open.spotify.com/track/2hsZ5e6ov7Fw86Cxe9tH50"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Media Vita",
-        "url": "https://open.spotify.com/album/21ruoumhxcMcRsD08UF9Mj"
-      },
-      "artists": [
-        {
-          "name": "Kerensa Briggs",
-          "url": "https://open.spotify.com/artist/36QRQEhytT1w0kRiF3g27b"
-        },
-        {
-          "name": "Anna Lapwood",
-          "url": "https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP"
-        },
-        {
-          "name": "The Chapel Choir of Pembroke College, Cambridge",
-          "url": "https://open.spotify.com/artist/6DPxkITuYSrDAPdhISWO35"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Media Vita",
-      "url": "https://open.spotify.com/track/4htAzv3rkpAzCjo2pW12id"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Lauridsen: O Magnum Mysterium / Lux Aeterna / Madrigali / Les Chansons Des Roses",
-        "url": "https://open.spotify.com/album/2KpDg5XbaWzQWepVfDpefT"
-      },
-      "artists": [
-        {
-          "name": "Morten Lauridsen",
-          "url": "https://open.spotify.com/artist/4EV7a9KODMBPJTCgIl9Bmk"
-        },
-        {
-          "name": "Chamber Choir Of Europe",
-          "url": "https://open.spotify.com/artist/1TQJoqACwhfrAKXA9WwO4v"
-        },
-        {
-          "name": "Nicol Matt",
-          "url": "https://open.spotify.com/artist/6yAWv145sy4X8JuioX2niU"
-        }
-      ],
-      "duration_ms": 415800,
-      "name": "O Magnum Mysterium: O magnum mysterium",
-      "url": "https://open.spotify.com/track/0S0YKiEdR9cT9pYgEaTevF"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-11-18 04:00:00",
       "album": {
         "name": "Spes",
         "url": "https://open.spotify.com/album/5LnknYLYDU0bqn5nrrBKvo"
@@ -461,7 +565,7 @@
       "url": "https://open.spotify.com/track/4rvN3alz5GV8BSfCigHeYI"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-11-18 04:00:00",
       "album": {
         "name": "The Heart's Reflection (Music of Daniel Elder)",
         "url": "https://open.spotify.com/album/1lVOWDxq9N5T5FhiaAOcvo"
@@ -489,7 +593,31 @@
       "url": "https://open.spotify.com/track/7KiV3ZJIlbrfzlAge8V4Oe"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-11-18 04:00:00",
+      "album": {
+        "name": "Teach Me Thy Statutes",
+        "url": "https://open.spotify.com/album/5lVObjwhqEWGcF8yvhUxS2"
+      },
+      "artists": [
+        {
+          "name": "Pavel Chesnokov",
+          "url": "https://open.spotify.com/artist/0o7TvHMVIlWDZo98MCVume"
+        },
+        {
+          "name": "PaTRAM Institute Male Choir",
+          "url": "https://open.spotify.com/artist/2jmIVeraMxCZ60AF1p7EVZ"
+        },
+        {
+          "name": "Vladimir Gorbik",
+          "url": "https://open.spotify.com/artist/3upykx7scPlS3x4CS52SkV"
+        }
+      ],
+      "duration_ms": 257186,
+      "name": "Salvation Is Created, Op. 25 No. 5",
+      "url": "https://open.spotify.com/track/0gWBZ2wFGLdCxZHaW4oNw4"
+    },
+    {
+      "added_at": "2022-11-18 04:00:00",
       "album": {
         "name": "You Know Me",
         "url": "https://open.spotify.com/album/624ZBZmFpq61KTZA9J6AJk"
@@ -517,31 +645,7 @@
       "url": "https://open.spotify.com/track/6FHGjrG7b7XFcrzZ4Tmbep"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Requiem - Howells & Pizzetti: Requiems / Whitacre, Grantham, Paulus & Gilkyson",
-        "url": "https://open.spotify.com/album/2JnuTQPS1i9AW2pkd7SQB6"
-      },
-      "artists": [
-        {
-          "name": "Stephen Paulus",
-          "url": "https://open.spotify.com/artist/4WoqkIaM67iDWsXNQM6hri"
-        },
-        {
-          "name": "Conspirare",
-          "url": "https://open.spotify.com/artist/0VvrkPoertmEH3SJDw129Z"
-        },
-        {
-          "name": "Craig Hella Johnson",
-          "url": "https://open.spotify.com/artist/7FWsBTlD40WptG48Z5zBJp"
-        }
-      ],
-      "duration_ms": 236906,
-      "name": "The Road Home",
-      "url": "https://open.spotify.com/track/3vA1AS2PWl4RePRCiR36lb"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-11-18 04:00:00",
       "album": {
         "name": "Flower of Beauty",
         "url": "https://open.spotify.com/album/35lSLSGdTIXCil5dJrw0aB"
@@ -565,59 +669,31 @@
       "url": "https://open.spotify.com/track/266IIxPc9AX4HsiU7OrtHY"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-11-18 04:00:00",
       "album": {
-        "name": "O Sacrum Convivium",
-        "url": "https://open.spotify.com/album/0tZIkcvLqpJRvJKom0DZXp"
+        "name": "Renaissance Masterpieces",
+        "url": "https://open.spotify.com/album/6xR6WVe00D4LVg2WhI38NX"
       },
       "artists": [
         {
-          "name": "Gabriel Jackson",
-          "url": "https://open.spotify.com/artist/5JevEERyvnakODzi6C1H10"
+          "name": "Philippe Rogier",
+          "url": "https://open.spotify.com/artist/7uI3u1RboFnrTwYdpf1oeY"
         },
         {
-          "name": "Samuel Rathbone",
-          "url": "https://open.spotify.com/artist/22N6UJrlhXQ0F7UPesXokd"
+          "name": "Oxford Camerata",
+          "url": "https://open.spotify.com/artist/1r5Se2Ts0fmLzFreCTOy2I"
         },
         {
-          "name": "The Choir of Royal Holloway",
-          "url": "https://open.spotify.com/artist/1vasMRKeTuE5wtYduxAETj"
-        },
-        {
-          "name": "Rupert Gough",
-          "url": "https://open.spotify.com/artist/5hzVruo6hza65D4Xz1iJsG"
+          "name": "Jeremy Summerly",
+          "url": "https://open.spotify.com/artist/0eaRvM9NkpTV399cyiZUwf"
         }
       ],
-      "duration_ms": 382943,
-      "name": "O Sacrum Convivium",
-      "url": "https://open.spotify.com/track/4HnlDmW3Dx80EbdC4nAta0"
+      "duration_ms": 395666,
+      "name": "Laboravi in gemitu meo",
+      "url": "https://open.spotify.com/track/7jkuE8k4fSzkh0b8UzUNC6"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Teach Me Thy Statutes",
-        "url": "https://open.spotify.com/album/5lVObjwhqEWGcF8yvhUxS2"
-      },
-      "artists": [
-        {
-          "name": "Pavel Chesnokov",
-          "url": "https://open.spotify.com/artist/0o7TvHMVIlWDZo98MCVume"
-        },
-        {
-          "name": "PaTRAM Institute Male Choir",
-          "url": "https://open.spotify.com/artist/2jmIVeraMxCZ60AF1p7EVZ"
-        },
-        {
-          "name": "Vladimir Gorbik",
-          "url": "https://open.spotify.com/artist/3upykx7scPlS3x4CS52SkV"
-        }
-      ],
-      "duration_ms": 257186,
-      "name": "Salvation Is Created, Op. 25 No. 5",
-      "url": "https://open.spotify.com/track/0gWBZ2wFGLdCxZHaW4oNw4"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-11-18 04:00:00",
       "album": {
         "name": "Om sommaren sk\u00f6na",
         "url": "https://open.spotify.com/album/7aHzsUYgBSLtctXvNHlP7b"
@@ -649,7 +725,39 @@
       "url": "https://open.spotify.com/track/27g77QGL1kbylCs5xmcgm2"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-11-18 04:00:00",
+      "album": {
+        "name": "Abide With Me (Arr. for Saxophone and Vocal Ensemble Christian Forshaw)",
+        "url": "https://open.spotify.com/album/4wu8iBYdcRNUBpHwBZXXOW"
+      },
+      "artists": [
+        {
+          "name": "Christian Forshaw",
+          "url": "https://open.spotify.com/artist/3hb2rYbbTMlvmd42CCH3kJ"
+        },
+        {
+          "name": "Henry Francis Lyte",
+          "url": "https://open.spotify.com/artist/1M90aRBFiBdBL1IzI4I13i"
+        },
+        {
+          "name": "William Henry Monk",
+          "url": "https://open.spotify.com/artist/61GYUvvf0liMZ5x0HC9oRk"
+        },
+        {
+          "name": "Tenebrae",
+          "url": "https://open.spotify.com/artist/0vUnn6Eje2O5yxEj35touD"
+        },
+        {
+          "name": "Nigel Short",
+          "url": "https://open.spotify.com/artist/4gs13ipYIJhCcqDMOEx9eN"
+        }
+      ],
+      "duration_ms": 247746,
+      "name": "Abide With Me (Arr. for Saxophone and Vocal Ensemble Christian Forshaw)",
+      "url": "https://open.spotify.com/track/2hsZ5e6ov7Fw86Cxe9tH50"
+    },
+    {
+      "added_at": "2022-11-18 04:00:00",
       "album": {
         "name": "Eric Whitacre: The Complete A Cappella Works, 1991-2001",
         "url": "https://open.spotify.com/album/2IzQJaEAATl6nJFeNUa51C"
@@ -665,55 +773,7 @@
       "url": "https://open.spotify.com/track/5a6sMOwX1QEjoqCV9FHf8K"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Victoria: Requiem Mass, 1605",
-        "url": "https://open.spotify.com/album/0Tqsg5yiFRf7CyfhIjKh0W"
-      },
-      "artists": [
-        {
-          "name": "Alonso Lobo",
-          "url": "https://open.spotify.com/artist/5yaxZ5EPC1YY3viLY8tmuU"
-        },
-        {
-          "name": "Tenebrae",
-          "url": "https://open.spotify.com/artist/0vUnn6Eje2O5yxEj35touD"
-        },
-        {
-          "name": "Nigel Short",
-          "url": "https://open.spotify.com/artist/4gs13ipYIJhCcqDMOEx9eN"
-        }
-      ],
-      "duration_ms": 332440,
-      "name": "Versa est in luctum",
-      "url": "https://open.spotify.com/track/5aJ7jwNHSdudJNTZVzUElL"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Naked Byrd Two",
-        "url": "https://open.spotify.com/album/1ADRYB9IGvAIB7sBn5uMKp"
-      },
-      "artists": [
-        {
-          "name": "Hildegard von Bingen",
-          "url": "https://open.spotify.com/artist/2xt1t3lfZ5FGaEKrs0jp0d"
-        },
-        {
-          "name": "Anna Sandstr\u00f6m",
-          "url": "https://open.spotify.com/artist/5WLfzKxErkzF9WIBh1odmi"
-        },
-        {
-          "name": "Christopher Monks",
-          "url": "https://open.spotify.com/artist/75tSsNh0EYP90xx0U4xcwu"
-        }
-      ],
-      "duration_ms": 170346,
-      "name": "Spiritus Sanctus Vivificans",
-      "url": "https://open.spotify.com/track/1VLq3dI44nVnsZMJUShINZ"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-11-18 04:00:00",
       "album": {
         "name": "The Lost Birds",
         "url": "https://open.spotify.com/album/086GpDSGHjeExlIn4avIAL"
@@ -741,31 +801,7 @@
       "url": "https://open.spotify.com/track/26TTCJUDpYSg8I95Tdno6A"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Eventide",
-        "url": "https://open.spotify.com/album/7hi6p3cpL6WtcpoaAGcMYS"
-      },
-      "artists": [
-        {
-          "name": "Karl Jenkins",
-          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
-        },
-        {
-          "name": "Voces8",
-          "url": "https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc"
-        },
-        {
-          "name": "Christian Forshaw",
-          "url": "https://open.spotify.com/artist/3hb2rYbbTMlvmd42CCH3kJ"
-        }
-      ],
-      "duration_ms": 190346,
-      "name": "Benedictus",
-      "url": "https://open.spotify.com/track/3GftQi9BSdBKZi44EGoblh"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-11-18 04:00:00",
       "album": {
         "name": "Ola Gjeilo",
         "url": "https://open.spotify.com/album/4IOXEu8EgItKI8J9JDaEr4"
@@ -805,7 +841,7 @@
       "url": "https://open.spotify.com/track/5QhtE8F6sCVmAj9hLsHfK7"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-11-18 04:00:00",
       "album": {
         "name": "F\u00f6rv\u00e5rskv\u00e4ll",
         "url": "https://open.spotify.com/album/7wKBfEi6wZlOutbgR44qxs"
@@ -829,27 +865,7 @@
       "url": "https://open.spotify.com/track/6OpyYKLF4E9COL7tXEz4PI"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Where All Roses Go, EP Vol. 2",
-        "url": "https://open.spotify.com/album/3hEehGC2lEDdqBdqfn1Vyo"
-      },
-      "artists": [
-        {
-          "name": "Michael McGlynn",
-          "url": "https://open.spotify.com/artist/6eKG1uIKALFd8eQI8JtFoD"
-        },
-        {
-          "name": "Apollo5",
-          "url": "https://open.spotify.com/artist/4dSvehv3V36ySeHEuuGMQx"
-        }
-      ],
-      "duration_ms": 298053,
-      "name": "Where All Roses Go",
-      "url": "https://open.spotify.com/track/7tsQAEJfP60qsAgJVaqWGB"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-11-18 04:00:00",
       "album": {
         "name": "Karl Jenkins: Motets",
         "url": "https://open.spotify.com/album/5yBta3BpIKstFVqwurdORg"
@@ -873,7 +889,7 @@
       "url": "https://open.spotify.com/track/2kgByDRirQSZgH9GEoJOA5"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-11-18 04:00:00",
       "album": {
         "name": "Rachmaninov: Vespers (All-Night Vigil), Op.37",
         "url": "https://open.spotify.com/album/6IC3DSM06TNJqXRZu499gx"
@@ -901,7 +917,7 @@
       "url": "https://open.spotify.com/track/7gNjN3VnFJ7Sa9upbGsNd9"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-11-18 04:00:00",
       "album": {
         "name": "Lacappella: Shimmering (Works by Ola Gjeilo, Simon Wawer, Eriks Esenvalds, Clytus Gottwald, Robert Schumann)",
         "url": "https://open.spotify.com/album/2RjDaK63dArZPmsbavZSmb"
@@ -921,7 +937,7 @@
       "url": "https://open.spotify.com/track/7JZlmBfgc2UnHwM9G8LycA"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-11-18 04:00:00",
       "album": {
         "name": "Bryars, Maskats & Silvestrov: On Photography",
         "url": "https://open.spotify.com/album/4OW04mBtQt4MmyQ8lHOquv"
@@ -945,7 +961,31 @@
       "url": "https://open.spotify.com/track/3Bilhr1bldVnL6Ro8uZzWJ"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-11-18 04:00:00",
+      "album": {
+        "name": "Eventide",
+        "url": "https://open.spotify.com/album/7hi6p3cpL6WtcpoaAGcMYS"
+      },
+      "artists": [
+        {
+          "name": "Karl Jenkins",
+          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
+        },
+        {
+          "name": "Voces8",
+          "url": "https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc"
+        },
+        {
+          "name": "Christian Forshaw",
+          "url": "https://open.spotify.com/artist/3hb2rYbbTMlvmd42CCH3kJ"
+        }
+      ],
+      "duration_ms": 190346,
+      "name": "Benedictus",
+      "url": "https://open.spotify.com/track/3GftQi9BSdBKZi44EGoblh"
+    },
+    {
+      "added_at": "2022-11-18 04:00:00",
       "album": {
         "name": "Jephte: Plorate, filii Israel",
         "url": "https://open.spotify.com/album/0Skz8EaoWqOOklkSZ9CMnu"
@@ -969,7 +1009,7 @@
       "url": "https://open.spotify.com/track/3I01wdMADxcj56fddjT7LK"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-11-18 04:00:00",
       "album": {
         "name": "Darkness Into Light: Tavener: The Bridegroom & Other Works",
         "url": "https://open.spotify.com/album/5QD438M0YnLeX6NCdmUE7k"
@@ -993,7 +1033,7 @@
       "url": "https://open.spotify.com/track/40C0dZwJnZuE0QUQtTrZVH"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-11-18 04:00:00",
       "album": {
         "name": "P\u00e4rt: Creator Spiritus",
         "url": "https://open.spotify.com/album/4Rlt8v1Vrvm0KfiMfhsfP5"
@@ -1017,7 +1057,55 @@
       "url": "https://open.spotify.com/track/1E81qx5u8U29k1S3rVxh0u"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-11-18 04:00:00",
+      "album": {
+        "name": "O Sacrum Convivium",
+        "url": "https://open.spotify.com/album/0tZIkcvLqpJRvJKom0DZXp"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Jackson",
+          "url": "https://open.spotify.com/artist/5JevEERyvnakODzi6C1H10"
+        },
+        {
+          "name": "Samuel Rathbone",
+          "url": "https://open.spotify.com/artist/22N6UJrlhXQ0F7UPesXokd"
+        },
+        {
+          "name": "The Choir of Royal Holloway",
+          "url": "https://open.spotify.com/artist/1vasMRKeTuE5wtYduxAETj"
+        },
+        {
+          "name": "Rupert Gough",
+          "url": "https://open.spotify.com/artist/5hzVruo6hza65D4Xz1iJsG"
+        }
+      ],
+      "duration_ms": 382943,
+      "name": "O Sacrum Convivium",
+      "url": "https://open.spotify.com/track/4HnlDmW3Dx80EbdC4nAta0"
+    },
+    {
+      "added_at": "2022-11-18 04:00:00",
+      "album": {
+        "name": "Where All Roses Go, EP Vol. 2",
+        "url": "https://open.spotify.com/album/3hEehGC2lEDdqBdqfn1Vyo"
+      },
+      "artists": [
+        {
+          "name": "Michael McGlynn",
+          "url": "https://open.spotify.com/artist/6eKG1uIKALFd8eQI8JtFoD"
+        },
+        {
+          "name": "Apollo5",
+          "url": "https://open.spotify.com/artist/4dSvehv3V36ySeHEuuGMQx"
+        }
+      ],
+      "duration_ms": 298053,
+      "name": "Where All Roses Go",
+      "url": "https://open.spotify.com/track/7tsQAEJfP60qsAgJVaqWGB"
+    },
+    {
+      "added_at": "2022-11-18 04:00:00",
       "album": {
         "name": "The Fruit of Silence",
         "url": "https://open.spotify.com/album/5RU0yA3J0Ce1EyqxSUmGsF"
@@ -1045,7 +1133,7 @@
       "url": "https://open.spotify.com/track/6a0XmguKnXraKpMw0GEjl4"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-11-18 04:00:00",
       "album": {
         "name": "G\u00f3recki: Miserere",
         "url": "https://open.spotify.com/album/0T8MdEPHYeBmghGAFafhAB"
@@ -1069,7 +1157,7 @@
       "url": "https://open.spotify.com/track/0aBnLtwnQVTtTrSL41Qfmb"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-11-18 04:00:00",
       "album": {
         "name": "Schubert: Gott ist mein Hirt, D. 706",
         "url": "https://open.spotify.com/album/11KX6U2MRKJesln47RX4k2"
@@ -1093,7 +1181,7 @@
       "url": "https://open.spotify.com/track/2gmuvqhU3bnoTnkaTq0eqY"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-11-18 04:00:00",
       "album": {
         "name": "An Evening of Classical: Grieg",
         "url": "https://open.spotify.com/album/6frAJCnH1IN7WIw8qvyfyX"
@@ -1117,7 +1205,31 @@
       "url": "https://open.spotify.com/track/5B6QVDIxqMSXqYqGY6ZWRJ"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-11-18 04:00:00",
+      "album": {
+        "name": "Naked Byrd Two",
+        "url": "https://open.spotify.com/album/1ADRYB9IGvAIB7sBn5uMKp"
+      },
+      "artists": [
+        {
+          "name": "Hildegard von Bingen",
+          "url": "https://open.spotify.com/artist/2xt1t3lfZ5FGaEKrs0jp0d"
+        },
+        {
+          "name": "Anna Sandstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5WLfzKxErkzF9WIBh1odmi"
+        },
+        {
+          "name": "Christopher Monks",
+          "url": "https://open.spotify.com/artist/75tSsNh0EYP90xx0U4xcwu"
+        }
+      ],
+      "duration_ms": 170346,
+      "name": "Spiritus Sanctus Vivificans",
+      "url": "https://open.spotify.com/track/1VLq3dI44nVnsZMJUShINZ"
+    },
+    {
+      "added_at": "2022-11-18 04:00:00",
       "album": {
         "name": "Blessing",
         "url": "https://open.spotify.com/album/13ff0Bw57GkN0mYj6XYtl2"
@@ -1141,7 +1253,7 @@
       "url": "https://open.spotify.com/track/685wxE2HRynbFNcyclZRmR"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-11-18 04:00:00",
       "album": {
         "name": "psalms",
         "url": "https://open.spotify.com/album/4Ktg38RHv8ILmXSjaQPqMX"
@@ -1165,7 +1277,7 @@
       "url": "https://open.spotify.com/track/74Bg9EeK0eKTWi32RCQPPV"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-11-18 04:00:00",
       "album": {
         "name": "\u00d5htul",
         "url": "https://open.spotify.com/album/22GvWZknKQ3UYoCS4XxJjh"
@@ -1181,7 +1293,7 @@
       "url": "https://open.spotify.com/track/0lvDVkvqrmEAxNd1572ijE"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-11-18 04:00:00",
       "album": {
         "name": "Cathedral Classics",
         "url": "https://open.spotify.com/album/135IgSQrW28WnU4NgQMt3w"
@@ -1197,7 +1309,7 @@
       "url": "https://open.spotify.com/track/6uM2elLuQMKe47EV5yjJKT"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-11-18 04:00:00",
       "album": {
         "name": "Lux",
         "url": "https://open.spotify.com/album/0sqRF0UZjwVg7ecgSwr7Wh"
@@ -1221,7 +1333,7 @@
       "url": "https://open.spotify.com/track/5ut7RavktHdSciT8HhaeDm"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-11-18 04:00:00",
       "album": {
         "name": "Vivancos: Requiem",
         "url": "https://open.spotify.com/album/3O6cN8aaZ8RuP9fFEx7fSv"
@@ -1245,7 +1357,7 @@
       "url": "https://open.spotify.com/track/6pPWfEuM3ixxdE0mubE3XJ"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-11-18 04:00:00",
       "album": {
         "name": "Jan\u00e1\u010dek: \u0158\u00edkadla",
         "url": "https://open.spotify.com/album/2Yc1KDCXimgzCtJ9p7waMt"
@@ -1269,7 +1381,7 @@
       "url": "https://open.spotify.com/track/7DOWK7SMEiKh9ucFh3z4mb"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-11-18 04:00:00",
       "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/3OF5H5176VONmVik8EvJC6"
@@ -1285,7 +1397,7 @@
       "url": "https://open.spotify.com/track/0vbku2VnIsrhFIfyUvekaK"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-11-18 04:00:00",
       "album": {
         "name": "Eventide",
         "url": "https://open.spotify.com/album/7hi6p3cpL6WtcpoaAGcMYS"
@@ -1305,7 +1417,7 @@
       "url": "https://open.spotify.com/track/0aY1WW1pzTUBpgUfQJ9efD"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-11-18 04:00:00",
       "album": {
         "name": "2014 American Choral Directors Association, Western Division (ACDA): University of Southern California Thornton School of Music Chamber Singers & Riverside City College Chamber Singers [Live]",
         "url": "https://open.spotify.com/album/1JXNsmEjFLD6kmYLchcvmO"
@@ -1329,7 +1441,7 @@
       "url": "https://open.spotify.com/track/6cdpTXfA1MOlzL6g0kL2ey"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-11-18 04:00:00",
       "album": {
         "name": "Life Stories: Choral Music of Eric Barnum",
         "url": "https://open.spotify.com/album/4mWy2TeGwO7DcymoWMqCr8"
@@ -1353,7 +1465,7 @@
       "url": "https://open.spotify.com/track/1ph5REj9a8JJ76dxGm42vV"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-11-18 04:00:00",
       "album": {
         "name": "Greater Love: The English Choral and Organ Tradition",
         "url": "https://open.spotify.com/album/4xF7CW5eHeh1TZFTo5TmOB"
@@ -1385,7 +1497,7 @@
       "url": "https://open.spotify.com/track/0A4QWPbRDMzJvAigeNCl8w"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-11-18 04:00:00",
       "album": {
         "name": "Catholic Classics, Vol. 11: Catholic Communion Classics",
         "url": "https://open.spotify.com/album/4WhG2ySCLtOWHj0Gz3tmHQ"
@@ -1401,7 +1513,7 @@
       "url": "https://open.spotify.com/track/6uVYUhDfJdwV5IcLRR4KpV"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-11-18 04:00:00",
       "album": {
         "name": "I Breathe",
         "url": "https://open.spotify.com/album/5278v3tdoLntTaJBDR4zJO"
@@ -1437,7 +1549,7 @@
       "url": "https://open.spotify.com/track/4QMuAiuUaX1TwfmOLyFPHN"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-11-18 04:00:00",
       "album": {
         "name": "Love Never Ends",
         "url": "https://open.spotify.com/album/39A75E0rOSWNn7SMGcSuqA"
@@ -1457,31 +1569,7 @@
       "url": "https://open.spotify.com/track/0SVE49uB6pYy9g9h7qg0Pq"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Renaissance Masterpieces",
-        "url": "https://open.spotify.com/album/6xR6WVe00D4LVg2WhI38NX"
-      },
-      "artists": [
-        {
-          "name": "Philippe Rogier",
-          "url": "https://open.spotify.com/artist/7uI3u1RboFnrTwYdpf1oeY"
-        },
-        {
-          "name": "Oxford Camerata",
-          "url": "https://open.spotify.com/artist/1r5Se2Ts0fmLzFreCTOy2I"
-        },
-        {
-          "name": "Jeremy Summerly",
-          "url": "https://open.spotify.com/artist/0eaRvM9NkpTV399cyiZUwf"
-        }
-      ],
-      "duration_ms": 395666,
-      "name": "Laboravi in gemitu meo",
-      "url": "https://open.spotify.com/track/7jkuE8k4fSzkh0b8UzUNC6"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-11-18 04:00:00",
       "album": {
         "name": "Faur\u00e9: Requiem / Messe Basse",
         "url": "https://open.spotify.com/album/33ghln9P8NJUqeK0rNQBmy"
@@ -1505,7 +1593,7 @@
       "url": "https://open.spotify.com/track/6O8Ywqpb2xBauWQAJHmyFr"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-11-18 04:00:00",
       "album": {
         "name": "Exsultate!",
         "url": "https://open.spotify.com/album/4eJteqgEM7QW87hZVTBClQ"
@@ -1521,7 +1609,7 @@
       "url": "https://open.spotify.com/track/1jRKMn2vtjRRuo1p1yrwRn"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-11-18 04:00:00",
       "album": {
         "name": "Spem in Alium - The Tallis Scholars Sing Thomas Tallis (With 3 Bonus Tracks)",
         "url": "https://open.spotify.com/album/0oP0XZoe62zQPxBNlayPmP"
@@ -1541,7 +1629,7 @@
       "url": "https://open.spotify.com/track/7kQKsxbRIgSbM1rxZi5s9V"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-11-18 04:00:00",
       "album": {
         "name": "Colourise",
         "url": "https://open.spotify.com/album/18OaP6pTpdip9DMEl3OrsL"
@@ -1569,7 +1657,7 @@
       "url": "https://open.spotify.com/track/3wfcHU7zosDEdfHbNwnmG1"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-11-18 04:00:00",
       "album": {
         "name": "A Choral Tapestry",
         "url": "https://open.spotify.com/album/7GYUPGkWZHeYqC6bZUT68x"
@@ -1589,31 +1677,7 @@
       "url": "https://open.spotify.com/track/5y41AyXVAt68eHyY2Z75sP"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "The Dale Warland Singers: Lux Aurumque",
-        "url": "https://open.spotify.com/album/4IDkSgEdONG4YLjGDAGB7D"
-      },
-      "artists": [
-        {
-          "name": "Pavel Chesnokov",
-          "url": "https://open.spotify.com/artist/0o7TvHMVIlWDZo98MCVume"
-        },
-        {
-          "name": "Dale Warland Singers",
-          "url": "https://open.spotify.com/artist/7lsn4vl91HSqb5byRmFu8I"
-        },
-        {
-          "name": "Dale Warland",
-          "url": "https://open.spotify.com/artist/70TQpK6nl0sTjoJybeEtvz"
-        }
-      ],
-      "duration_ms": 215053,
-      "name": "Spaseniye sodelal yesi posrede zemli (Salvation is Created), Op. 25, No. 5",
-      "url": "https://open.spotify.com/track/0xmyzDblNF2iyiQTdGtG9u"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-11-18 04:00:00",
       "album": {
         "name": "Traditional Swedish Songs of Spring & Summer",
         "url": "https://open.spotify.com/album/1osojsmR81Rtf2HpHo2G2z"
@@ -1637,7 +1701,7 @@
       "url": "https://open.spotify.com/track/1l1WJKJh4Rc8JcRbnIvEqD"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-11-18 04:00:00",
       "album": {
         "name": "All\u00e1 se me ponga el sol \u00e0 4",
         "url": "https://open.spotify.com/album/63GCQSLn5ST8LSG0P2yDG4"
@@ -1659,36 +1723,8 @@
       "duration_ms": 175453,
       "name": "All\u00e1 se me ponga el sol \u00e0 4",
       "url": "https://open.spotify.com/track/7A14bdlIw9CU10VMdXe8Rg"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Russian Folk Songs in Choir Arrangements",
-        "url": "https://open.spotify.com/album/6aYTx2HJhPiSmQWgPvOObP"
-      },
-      "artists": [
-        {
-          "name": "Igor Stravinsky",
-          "url": "https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE"
-        },
-        {
-          "name": "Alexandra Vlasenkova",
-          "url": "https://open.spotify.com/artist/0GAhZ40hDO1nZYEePkw2jb"
-        },
-        {
-          "name": "Lege Artis Chamber Choir",
-          "url": "https://open.spotify.com/artist/4uXWdZBS0AGq9Bu0iVEysB"
-        },
-        {
-          "name": "Boris Abalyan",
-          "url": "https://open.spotify.com/artist/11CZI2gbkBVUqC6lk3Wrjl"
-        }
-      ],
-      "duration_ms": 64693,
-      "name": "4 Russian Peasant Songs, \"Podblyudniye\": No. 2. Ovsen' (Ovsen)",
-      "url": "https://open.spotify.com/track/0pC1GIUickg2z1iCZe9fLA"
     }
   ],
-  "unique_name": "Calming Choir",
+  "unique_name": "Choir Classics",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9WxEZbyU6MA"
 }

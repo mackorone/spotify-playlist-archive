@@ -405,7 +405,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-16",
+      "date_removed": null,
       "duration_ms": 135933,
       "name": "Divorce Me C.O.D.",
       "url": "https://open.spotify.com/track/1G2h2cFriv1KMHZ1rmfWnt"
@@ -427,6 +427,24 @@
       "duration_ms": 172013,
       "name": "Don't Fence Me In",
       "url": "https://open.spotify.com/track/1YGTVZDa0E8xmHNn6Rk40I"
+    },
+    {
+      "album": {
+        "name": "An Old Cowhand",
+        "url": "https://open.spotify.com/album/5gjrYVvjgLLBfNIcsmBaR9"
+      },
+      "artists": [
+        {
+          "name": "Roy Rogers",
+          "url": "https://open.spotify.com/artist/7Fhopp9XWiqrS7oMw0BKjM"
+        }
+      ],
+      "date_added": "2022-07-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 172013,
+      "name": "Don't Fence Me In",
+      "url": "https://open.spotify.com/track/3FUL2VqnKPvpuRLvUQozn1"
     },
     {
       "album": {
@@ -549,7 +567,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 171466,
       "name": "Heavy Traffic Ahead",
       "url": "https://open.spotify.com/track/3cRYM2V4teCLpVoF0pmrNr"
@@ -687,6 +705,50 @@
       "duration_ms": 169706,
       "name": "I'm A Long Gone Daddy",
       "url": "https://open.spotify.com/track/2jZBAgwFFWTeHaXddB7317"
+    },
+    {
+      "album": {
+        "name": "The Complete Hank Williams",
+        "url": "https://open.spotify.com/album/3A125M77Q1pkNik2HvB1MN"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+        },
+        {
+          "name": "Drifting Cowboys",
+          "url": "https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml"
+        }
+      ],
+      "date_added": "2022-07-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 169706,
+      "name": "I'm A Long Gone Daddy",
+      "url": "https://open.spotify.com/track/6dAGNAqYugVK3VLfoyVWn1"
+    },
+    {
+      "album": {
+        "name": "Moanin' The Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3cusZESjkIDnDXyQwbpSsT"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+        },
+        {
+          "name": "Drifting Cowboys",
+          "url": "https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml"
+        }
+      ],
+      "date_added": "2022-07-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 172440,
+      "name": "I'm A Long Gone Daddy",
+      "url": "https://open.spotify.com/track/5SfeBRo4MLWyz2w701SJPW"
     },
     {
       "album": {
@@ -1113,7 +1175,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-04",
+      "date_removed": "2022-11-13",
       "duration_ms": 138000,
       "name": "One Kiss Too Many",
       "url": "https://open.spotify.com/track/3W4mPMAvJqIlrLMLVZSaq1"
@@ -1301,7 +1363,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 172800,
       "name": "Sioux city sue",
       "url": "https://open.spotify.com/track/0qHMIiiuMFcZD5UaxyUBzv"
@@ -1485,7 +1547,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 130506,
       "name": "Steel Guitar Rag",
       "url": "https://open.spotify.com/track/73VcBNhgfQDKCv2FC4T4UQ"
@@ -1669,7 +1731,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 135973,
       "name": "There's A New Moon Over My Shoulder",
       "url": "https://open.spotify.com/track/37wv3n0GnamPkVaO0H5OLz"
@@ -1861,7 +1923,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 169760,
       "name": "Wine, Women and Song",
       "url": "https://open.spotify.com/track/0FnC7ilW0ONEWTsu6LyPHx"

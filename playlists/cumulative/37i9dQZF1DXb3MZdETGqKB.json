@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All new, all blues. Cover: Dylan Triplett",
+  "description": "All new, all blues. Cover: Christone \"Kingfish\" Ingram",
   "name": "Nu-Blue",
   "published_playlist_ids": [
     "4T4Ls1NqL9xqUmBTXE8Kgz"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 278746,
       "name": "AIN'T ONE THING",
       "url": "https://open.spotify.com/track/0z9hvrWumlSIezJeEHCB67"
@@ -111,7 +111,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 236720,
-      "name": "All Night",
+      "name": "All Night - Edit",
       "url": "https://open.spotify.com/track/0wTcP4O2Uz0fuGYn9A0q7S"
     },
     {
@@ -185,6 +185,28 @@
       "duration_ms": 206354,
       "name": "Angels",
       "url": "https://open.spotify.com/track/3aZpkDDCKbu9WqvnyuNGyn"
+    },
+    {
+      "album": {
+        "name": "Another Life Goes By (Mississippi Mix)",
+        "url": "https://open.spotify.com/album/50ULdmZdXqCCMtxAQ2cnBH"
+      },
+      "artists": [
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        },
+        {
+          "name": "Big K.R.I.T.",
+          "url": "https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228986,
+      "name": "Another Life Goes By - Mississippi Mix",
+      "url": "https://open.spotify.com/track/3RjffU019GOzRzDsTmazDA"
     },
     {
       "album": {
@@ -558,6 +580,24 @@
     },
     {
       "album": {
+        "name": "Cheats and Liars",
+        "url": "https://open.spotify.com/album/2rZ2hqlzxMXvj2XN1i8DSZ"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 228795,
+      "name": "Cheats and Liars",
+      "url": "https://open.spotify.com/track/4PXYmSraZ4JEZsaBDJh2QG"
+    },
+    {
+      "album": {
         "name": "Shining in the Half Light",
         "url": "https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO"
       },
@@ -863,6 +903,24 @@
       "duration_ms": 220942,
       "name": "Forest Of My Soul",
       "url": "https://open.spotify.com/track/32QGqKxHi22ivxrPl4LK3n"
+    },
+    {
+      "album": {
+        "name": "Freedom on My Mind",
+        "url": "https://open.spotify.com/album/1eud6Bh9tfW68cYCw5xGqb"
+      },
+      "artists": [
+        {
+          "name": "LaBronn Conner Jr.",
+          "url": "https://open.spotify.com/artist/60s4V0w6AV0nzvqgV0xy9i"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284252,
+      "name": "Freedom on My Mind",
+      "url": "https://open.spotify.com/track/2z81pLfGo2YFPs6SEQnz2t"
     },
     {
       "album": {
@@ -1323,10 +1381,28 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 135993,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/1UCRy4AZi5T4gfRDQwel5t"
+    },
+    {
+      "album": {
+        "name": "Shout Into The Noise",
+        "url": "https://open.spotify.com/album/3HmSF21KTTO6dK3AxJpXps"
+      },
+      "artists": [
+        {
+          "name": "Ash Grunwald",
+          "url": "https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135993,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/7n8mE3JYsbwrcJf0hr6Xo1"
     },
     {
       "album": {
@@ -1717,6 +1793,24 @@
       "duration_ms": 119975,
       "name": "Need To Know Basis",
       "url": "https://open.spotify.com/track/03medhiG64fBChIiDBTNPK"
+    },
+    {
+      "album": {
+        "name": "NEVER LEAVE GOD BEHIND",
+        "url": "https://open.spotify.com/album/6VeSN4dhFnpBKyn5I2ddIc"
+      },
+      "artists": [
+        {
+          "name": "C.S. Armstrong",
+          "url": "https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201060,
+      "name": "NEVER LEAVE GOD BEHIND",
+      "url": "https://open.spotify.com/track/0Th39OTENTSQL9MMzi066T"
     },
     {
       "album": {
@@ -2431,10 +2525,28 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 200858,
       "name": "Strike Gold",
       "url": "https://open.spotify.com/track/3g3vayoe4Y10leAHdrvTnM"
+    },
+    {
+      "album": {
+        "name": "Blood Harmony",
+        "url": "https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200858,
+      "name": "Strike Gold",
+      "url": "https://open.spotify.com/track/4vuqP2NPI5QaxvBJll1kCO"
     },
     {
       "album": {
@@ -2641,6 +2753,24 @@
       "duration_ms": 272274,
       "name": "The City Streets (Ps.23)",
       "url": "https://open.spotify.com/track/3Evbh7zMfQ9thUxYjsvfAG"
+    },
+    {
+      "album": {
+        "name": "The Lows",
+        "url": "https://open.spotify.com/album/1Ifw6B8pNgYmYgB67wx93t"
+      },
+      "artists": [
+        {
+          "name": "Cochren & Co.",
+          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175412,
+      "name": "The Lows",
+      "url": "https://open.spotify.com/track/33bBjkRiZIkHdoAZlBb9KR"
     },
     {
       "album": {
@@ -3020,8 +3150,8 @@
     },
     {
       "album": {
-        "name": "Workin' Man",
-        "url": "https://open.spotify.com/album/3awKF4xhQXpiPCGNten5ts"
+        "name": "Closure",
+        "url": "https://open.spotify.com/album/4ePGSAKLrV7EyA2WIZUd8J"
       },
       "artists": [
         {
@@ -3034,7 +3164,43 @@
       "date_removed": null,
       "duration_ms": 232941,
       "name": "Workin' Man",
+      "url": "https://open.spotify.com/track/2n0RCFuqdqkrVIJqajqysX"
+    },
+    {
+      "album": {
+        "name": "Workin' Man",
+        "url": "https://open.spotify.com/album/3awKF4xhQXpiPCGNten5ts"
+      },
+      "artists": [
+        {
+          "name": "Ryan Innes",
+          "url": "https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 232941,
+      "name": "Workin' Man",
       "url": "https://open.spotify.com/track/3vlialdlumHyXrZq6Em5Tq"
+    },
+    {
+      "album": {
+        "name": "Workin' Man",
+        "url": "https://open.spotify.com/album/14cTydPBoD3SnypzbSpkRA"
+      },
+      "artists": [
+        {
+          "name": "Ryan Innes",
+          "url": "https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 232941,
+      "name": "Workin' Man",
+      "url": "https://open.spotify.com/track/4VQNKAaoBo8yHt7GwpJS7H"
     },
     {
       "album": {

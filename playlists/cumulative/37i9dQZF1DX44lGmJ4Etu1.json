@@ -215,7 +215,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": "2022-11-13",
       "duration_ms": 164184,
       "name": "Al Lau",
       "url": "https://open.spotify.com/track/1oeIC89Q2kH7pBhUnGGFi0"
@@ -357,7 +357,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 207980,
       "name": "b\u00e1ilame en los besos (with Danny Ocean & Daramola)",
       "url": "https://open.spotify.com/track/2Ux9T8N2b0GRTOSfenwxlr"
@@ -375,7 +375,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 236080,
       "name": "B\u00e9same",
       "url": "https://open.spotify.com/track/15eXfjBk8M8L0aKJXe5YnG"
@@ -1234,6 +1234,24 @@
     },
     {
       "album": {
+        "name": "Exitos de Verano",
+        "url": "https://open.spotify.com/album/2n7M96zHmPpzVbDOQEhxiO"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 205213,
+      "name": "Lim\u00f3n y Sal",
+      "url": "https://open.spotify.com/track/6Y30VoLSqUEemV50FExxvP"
+    },
+    {
+      "album": {
         "name": "Limon Y Sal",
         "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
       },
@@ -1593,6 +1611,24 @@
       "duration_ms": 245400,
       "name": "Nada - Remix",
       "url": "https://open.spotify.com/track/4pmsYmLA5xefLsXeaJqCbU"
+    },
+    {
+      "album": {
+        "name": "Baladas Rom\u00e1nticas Latinas",
+        "url": "https://open.spotify.com/album/07EhDhHjge4hEJcXzUUq0j"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 195093,
+      "name": "Nada Valgo Sin Tu Amor",
+      "url": "https://open.spotify.com/track/7pi2UDTXHtRuRpJHi0wglU"
     },
     {
       "album": {
@@ -2361,7 +2397,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": "2022-11-13",
       "duration_ms": 201034,
       "name": "Y Duele (feat. Pablo Albor\u00e1n)",
       "url": "https://open.spotify.com/track/1YlHuvmZCFIlt0O1JlReCb"
@@ -2419,7 +2455,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 162186,
       "name": "Yo No Te Olvido",
       "url": "https://open.spotify.com/track/0B1wfBxRDSUEYnzcyQYmyi"

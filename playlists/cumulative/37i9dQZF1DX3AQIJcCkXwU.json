@@ -762,6 +762,28 @@
     },
     {
       "album": {
+        "name": "Indian Ocean",
+        "url": "https://open.spotify.com/album/7wfkuCJJFfBmg55eTcDcuY"
+      },
+      "artists": [
+        {
+          "name": "Jasmon",
+          "url": "https://open.spotify.com/artist/0YJZvddTNiDjJCFjFVtqx8"
+        },
+        {
+          "name": "Slow World",
+          "url": "https://open.spotify.com/artist/7IU3IM27vQRYGiBvEkyhti"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199075,
+      "name": "Indian Ocean",
+      "url": "https://open.spotify.com/track/33mxyPXe3sKUjSxUtljWUM"
+    },
+    {
+      "album": {
         "name": "Indian Song",
         "url": "https://open.spotify.com/album/2wGJAE9NZVHEai5PsbI8IB"
       },
@@ -1008,6 +1030,24 @@
     },
     {
       "album": {
+        "name": "Lost Love of the Rabab",
+        "url": "https://open.spotify.com/album/3baiVoyNz2OCXGE69Iyo1I"
+      },
+      "artists": [
+        {
+          "name": "Palace on Wheels",
+          "url": "https://open.spotify.com/artist/0uZC41CwMO6fAbyQQzmjcv"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274427,
+      "name": "Lost Love of the Rabab",
+      "url": "https://open.spotify.com/track/7ulAelTJXZwz75syvdVx4V"
+    },
+    {
+      "album": {
         "name": "Loving-Kindness",
         "url": "https://open.spotify.com/album/0cHpCmG4oLbGPStNrpdgMD"
       },
@@ -1041,6 +1081,24 @@
       "duration_ms": 463000,
       "name": "Magnetic",
       "url": "https://open.spotify.com/track/31Wui18tjMUSmIig5fvf6o"
+    },
+    {
+      "album": {
+        "name": "Manali Sunrise",
+        "url": "https://open.spotify.com/album/1YrIS5BqUiTHZMo8PhOyZc"
+      },
+      "artists": [
+        {
+          "name": "Interspaces",
+          "url": "https://open.spotify.com/artist/2EWOWYo7on9DF7RLOLcia3"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207374,
+      "name": "Manali Sunrise",
+      "url": "https://open.spotify.com/track/4m0KL4ZBlLnhwXWGm3FvyX"
     },
     {
       "album": {
@@ -1153,6 +1211,24 @@
     {
       "album": {
         "name": "Devotion 1: Blessings of the Heart",
+        "url": "https://open.spotify.com/album/5sl94ANcRPBvU2jfOe01Ub"
+      },
+      "artists": [
+        {
+          "name": "Ben Leinbach",
+          "url": "https://open.spotify.com/artist/1bs286UUnvo0aH5N0nmZEX"
+        }
+      ],
+      "date_added": "2022-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 513546,
+      "name": "Mother's Wingspan",
+      "url": "https://open.spotify.com/track/2InC8TNlBd9N5E0leI2l8G"
+    },
+    {
+      "album": {
+        "name": "Devotion 1: Blessings of the Heart",
         "url": "https://open.spotify.com/album/3vERpdSCKMGDzreizY178B"
       },
       "artists": [
@@ -1163,7 +1239,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 513546,
       "name": "Mother's Wingspan",
       "url": "https://open.spotify.com/track/58j7x742K2P6jhthofQwBp"
@@ -1332,6 +1408,24 @@
     },
     {
       "album": {
+        "name": "Devotion 1: Blessings of the Heart",
+        "url": "https://open.spotify.com/album/5sl94ANcRPBvU2jfOe01Ub"
+      },
+      "artists": [
+        {
+          "name": "Kiran Murti",
+          "url": "https://open.spotify.com/artist/4Gwf9d7pFQVWt2PM8f3ASp"
+        }
+      ],
+      "date_added": "2022-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305120,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/0JQ0zIQxvpz8XvMphwdRZj"
+    },
+    {
+      "album": {
         "name": "Devotion Collection 1 - Blessings of the Heart",
         "url": "https://open.spotify.com/album/02CVgMWdeo6X7VfqajyEry"
       },
@@ -1361,7 +1455,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 305120,
       "name": "Peace",
       "url": "https://open.spotify.com/track/5afSZKizZ8G9PFX9FOrLCA"
@@ -2303,10 +2397,28 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 304594,
       "name": "Your Daily Practice: Yoga",
       "url": "https://open.spotify.com/track/3TJu7LDVWY1WoYxVuClXtD"
+    },
+    {
+      "album": {
+        "name": "Your Daily Practice: Yoga",
+        "url": "https://open.spotify.com/album/5ZYUi8YTn1mabqL9QjUAD0"
+      },
+      "artists": [
+        {
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
+        }
+      ],
+      "date_added": "2022-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304594,
+      "name": "Your Daily Practice: Yoga",
+      "url": "https://open.spotify.com/track/7qrYHP8c8pmHUbgtk8LBGs"
     },
     {
       "album": {

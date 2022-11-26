@@ -1,12 +1,12 @@
 {
   "description": "So smooth, so classic. Cover: George Benson",
-  "num_followers": 82087,
+  "num_followers": 87195,
   "original_name": "Smooth Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTc4MzY2MSwwMDAwMDAwMDFlNzgxMTllM2M4MDM0NDljZTNiMDQ5ZWYxZTdkMDE5",
+  "snapshot_id": "MTY2MTc4MzY2MSwwMDAwMDAwMGVmZmM5NzA2OGUzMzBjZGY1MTc3MDQzMjdhZTYxN2Ew",
   "tracks": [
     {
       "added_at": "2020-08-19 00:00:21",
@@ -43,38 +43,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Stay Awhile",
-        "url": "https://open.spotify.com/album/0BnQMPzjGWbmoAOPFs5Nsn"
-      },
-      "artists": [
-        {
-          "name": "Steve Cole",
-          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
-        }
-      ],
-      "duration_ms": 277600,
-      "name": "Where the Night Begins",
-      "url": "https://open.spotify.com/track/1XWvnO1jAnW8izUOczEdZu"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
-        "name": "The Antidote",
-        "url": "https://open.spotify.com/album/5OKMEQpUvwvkr89q9xumdx"
-      },
-      "artists": [
-        {
-          "name": "Ronny Jordan",
-          "url": "https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9"
-        }
-      ],
-      "duration_ms": 351400,
-      "name": "After Hours (The Antidote)",
-      "url": "https://open.spotify.com/track/2zAXsQFmNRcDQOSzuPrWTs"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Nightlife",
         "url": "https://open.spotify.com/album/2EnhcAGKSkoGRFiY6xd1ke"
       },
@@ -91,34 +59,34 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Smooth Sensation",
-        "url": "https://open.spotify.com/album/12tng68mKohYzlVWT1QRna"
+        "name": "Stay Awhile",
+        "url": "https://open.spotify.com/album/0BnQMPzjGWbmoAOPFs5Nsn"
       },
       "artists": [
         {
-          "name": "Ken Navarro",
-          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
+          "name": "Steve Cole",
+          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
         }
       ],
-      "duration_ms": 276506,
-      "name": "Smooth Sensation",
-      "url": "https://open.spotify.com/track/1jKOG02lqHnwYXHpyLF3Nd"
+      "duration_ms": 277600,
+      "name": "Where the Night Begins",
+      "url": "https://open.spotify.com/track/1XWvnO1jAnW8izUOczEdZu"
     },
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "A Gift For Tomorrow",
-        "url": "https://open.spotify.com/album/69AsVSIaoenj2pN7syJqHo"
+        "name": "Caravan Of Dreams",
+        "url": "https://open.spotify.com/album/55QEhe7Ecp7yZLgaVobo4X"
       },
       "artists": [
         {
-          "name": "Joe McBride",
-          "url": "https://open.spotify.com/artist/0fqABdgGiy0H0NLUb5GNWs"
+          "name": "Peter White",
+          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
         }
       ],
-      "duration_ms": 307360,
-      "name": "Walking In Rhythm",
-      "url": "https://open.spotify.com/track/4gdFN6gHpjay9QRCtuGnAq"
+      "duration_ms": 360160,
+      "name": "Caravan of Dreams",
+      "url": "https://open.spotify.com/track/6Uob2aJYqcqPv5Z2BigRg6"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -139,18 +107,50 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Caravan Of Dreams",
-        "url": "https://open.spotify.com/album/55QEhe7Ecp7yZLgaVobo4X"
+        "name": "The Antidote",
+        "url": "https://open.spotify.com/album/5OKMEQpUvwvkr89q9xumdx"
       },
       "artists": [
         {
-          "name": "Peter White",
-          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
+          "name": "Ronny Jordan",
+          "url": "https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9"
         }
       ],
-      "duration_ms": 360160,
-      "name": "Caravan of Dreams",
-      "url": "https://open.spotify.com/track/6Uob2aJYqcqPv5Z2BigRg6"
+      "duration_ms": 351400,
+      "name": "After Hours (The Antidote)",
+      "url": "https://open.spotify.com/track/2zAXsQFmNRcDQOSzuPrWTs"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "A Gift For Tomorrow",
+        "url": "https://open.spotify.com/album/69AsVSIaoenj2pN7syJqHo"
+      },
+      "artists": [
+        {
+          "name": "Joe McBride",
+          "url": "https://open.spotify.com/artist/0fqABdgGiy0H0NLUb5GNWs"
+        }
+      ],
+      "duration_ms": 307360,
+      "name": "Walking In Rhythm",
+      "url": "https://open.spotify.com/track/4gdFN6gHpjay9QRCtuGnAq"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Smooth Sensation",
+        "url": "https://open.spotify.com/album/12tng68mKohYzlVWT1QRna"
+      },
+      "artists": [
+        {
+          "name": "Ken Navarro",
+          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
+        }
+      ],
+      "duration_ms": 276506,
+      "name": "Smooth Sensation",
+      "url": "https://open.spotify.com/track/1jKOG02lqHnwYXHpyLF3Nd"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -203,38 +203,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Najee's Theme",
-        "url": "https://open.spotify.com/album/2T1cuFZTdRwShl0ksdXT6a"
-      },
-      "artists": [
-        {
-          "name": "Najee",
-          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
-        }
-      ],
-      "duration_ms": 349933,
-      "name": "Betcha Don't Know",
-      "url": "https://open.spotify.com/track/5gtNsD1eqLgfVKC9diMwgq"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/6DnOL6zVqcQh1iJQiH1KhQ"
-      },
-      "artists": [
-        {
-          "name": "Kirk Whalum",
-          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
-        }
-      ],
-      "duration_ms": 314080,
-      "name": "Ascension",
-      "url": "https://open.spotify.com/track/4qOSCREAKK2OnuDqzyTMzr"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Color Rit (Remastered)",
         "url": "https://open.spotify.com/album/2POg8hhJjfzlSm95YmYTfQ"
       },
@@ -251,18 +219,18 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Morning Dance",
-        "url": "https://open.spotify.com/album/18qf7qvyrcaGFmCB5AblaG"
+        "name": "Najee's Theme",
+        "url": "https://open.spotify.com/album/2T1cuFZTdRwShl0ksdXT6a"
       },
       "artists": [
         {
-          "name": "Spyro Gyra",
-          "url": "https://open.spotify.com/artist/1Be36RHAlqJpfUt3tsmUQD"
+          "name": "Najee",
+          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
         }
       ],
-      "duration_ms": 236466,
-      "name": "Morning Dance",
-      "url": "https://open.spotify.com/track/7oTaBk0IrTeO7dKlUIn1k1"
+      "duration_ms": 349933,
+      "name": "Betcha Don't Know",
+      "url": "https://open.spotify.com/track/5gtNsD1eqLgfVKC9diMwgq"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -283,6 +251,22 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
+        "name": "Morning Dance",
+        "url": "https://open.spotify.com/album/18qf7qvyrcaGFmCB5AblaG"
+      },
+      "artists": [
+        {
+          "name": "Spyro Gyra",
+          "url": "https://open.spotify.com/artist/1Be36RHAlqJpfUt3tsmUQD"
+        }
+      ],
+      "duration_ms": 236466,
+      "name": "Morning Dance",
+      "url": "https://open.spotify.com/track/7oTaBk0IrTeO7dKlUIn1k1"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
         "name": "From The Heart",
         "url": "https://open.spotify.com/album/4zruOfVUsfrvLZ9lkND7mW"
       },
@@ -295,22 +279,6 @@
       "duration_ms": 313066,
       "name": "After Midnight",
       "url": "https://open.spotify.com/track/3SLymEfGv5dc6gjCw3fMjL"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
-        "name": "Just Between Us",
-        "url": "https://open.spotify.com/album/6bwAkYAEZ8eA9rskEYtPoN"
-      },
-      "artists": [
-        {
-          "name": "Gerald Albright",
-          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
-        }
-      ],
-      "duration_ms": 289040,
-      "name": "So Amazing",
-      "url": "https://open.spotify.com/track/6vRfKcVF63Chfd63VQyqhT"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -331,6 +299,38 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/6DnOL6zVqcQh1iJQiH1KhQ"
+      },
+      "artists": [
+        {
+          "name": "Kirk Whalum",
+          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
+        }
+      ],
+      "duration_ms": 314080,
+      "name": "Ascension",
+      "url": "https://open.spotify.com/track/4qOSCREAKK2OnuDqzyTMzr"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Just Between Us",
+        "url": "https://open.spotify.com/album/6bwAkYAEZ8eA9rskEYtPoN"
+      },
+      "artists": [
+        {
+          "name": "Gerald Albright",
+          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
+        }
+      ],
+      "duration_ms": 289040,
+      "name": "So Amazing",
+      "url": "https://open.spotify.com/track/6vRfKcVF63Chfd63VQyqhT"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
         "name": "Love Is The Answer (Expanded)",
         "url": "https://open.spotify.com/album/5tfEMJRMXkGeDAkg8tE6h8"
       },
@@ -343,22 +343,6 @@
       "duration_ms": 241373,
       "name": "Bridge Through Time",
       "url": "https://open.spotify.com/track/3WmH2tJbogJcrVSrtdlMPO"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
-        "name": "Fourplay",
-        "url": "https://open.spotify.com/album/6k3c57IxYJVjP2shJa3TXy"
-      },
-      "artists": [
-        {
-          "name": "Fourplay",
-          "url": "https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS"
-        }
-      ],
-      "duration_ms": 356040,
-      "name": "101 Eastbound",
-      "url": "https://open.spotify.com/track/44bwIGyn4u4e1ydT4Zm1B1"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -379,18 +363,18 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Pieces Of A Dream",
-        "url": "https://open.spotify.com/album/5Klr007OlD9KfWR6miKTuC"
+        "name": "Fourplay",
+        "url": "https://open.spotify.com/album/6k3c57IxYJVjP2shJa3TXy"
       },
       "artists": [
         {
-          "name": "Pieces Of A Dream",
-          "url": "https://open.spotify.com/artist/70BRQ5tBte6kVqHviL3srE"
+          "name": "Fourplay",
+          "url": "https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS"
         }
       ],
-      "duration_ms": 246653,
-      "name": "Warm Weather - 12\" Version",
-      "url": "https://open.spotify.com/track/27IMcFJ1lv1vFSoKu0qjEJ"
+      "duration_ms": 356040,
+      "name": "101 Eastbound",
+      "url": "https://open.spotify.com/track/44bwIGyn4u4e1ydT4Zm1B1"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -411,18 +395,18 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Blue Touch",
-        "url": "https://open.spotify.com/album/6oRxJn0ULf3TFGfqiFargV"
+        "name": "Playing It Cool",
+        "url": "https://open.spotify.com/album/6TnPdiqgfQYYXdwneTbLNQ"
       },
       "artists": [
         {
-          "name": "Gregg Karukas",
-          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
+          "name": "Joyce Cooling",
+          "url": "https://open.spotify.com/artist/44GiVGTGkzAmI1OGZcypec"
         }
       ],
-      "duration_ms": 230533,
-      "name": "Fly Away (Thinking Of You)",
-      "url": "https://open.spotify.com/track/2Cvg3IXEWWMTYTvd8HqpaG"
+      "duration_ms": 265253,
+      "name": "South Of Market",
+      "url": "https://open.spotify.com/track/1LQV8yTi8XZQt35bnGGfki"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -459,22 +443,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Steppin' Out",
-        "url": "https://open.spotify.com/album/5QLCBr09jZYyJNm9OVP2fi"
-      },
-      "artists": [
-        {
-          "name": "Braxton Brothers",
-          "url": "https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw"
-        }
-      ],
-      "duration_ms": 297973,
-      "name": "Sunset Bay",
-      "url": "https://open.spotify.com/track/41e8ef0fMSC0rBDfNjpuAi"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Hidden Agenda",
         "url": "https://open.spotify.com/album/4EpH6ucX2QlCa9xlqIHdHA"
       },
@@ -491,18 +459,98 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Playing It Cool",
-        "url": "https://open.spotify.com/album/6TnPdiqgfQYYXdwneTbLNQ"
+        "name": "Pieces Of A Dream",
+        "url": "https://open.spotify.com/album/5Klr007OlD9KfWR6miKTuC"
       },
       "artists": [
         {
-          "name": "Joyce Cooling",
-          "url": "https://open.spotify.com/artist/44GiVGTGkzAmI1OGZcypec"
+          "name": "Pieces Of A Dream",
+          "url": "https://open.spotify.com/artist/70BRQ5tBte6kVqHviL3srE"
         }
       ],
-      "duration_ms": 265253,
-      "name": "South Of Market",
-      "url": "https://open.spotify.com/track/1LQV8yTi8XZQt35bnGGfki"
+      "duration_ms": 246653,
+      "name": "Warm Weather - 12\" Version",
+      "url": "https://open.spotify.com/track/27IMcFJ1lv1vFSoKu0qjEJ"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/0tg8rdfKdeKxucD3R6al9Q"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 220773,
+      "name": "Creepin'",
+      "url": "https://open.spotify.com/track/6B4h6RRIQWRgXALcOjYLPo"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Touchdown",
+        "url": "https://open.spotify.com/album/5ooWmAVLqcWvDDOid6hCC6"
+      },
+      "artists": [
+        {
+          "name": "Bob James",
+          "url": "https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ"
+        }
+      ],
+      "duration_ms": 344773,
+      "name": "Touchdown",
+      "url": "https://open.spotify.com/track/01liKzGQmuq4BRFR19YaeI"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Straight To You",
+        "url": "https://open.spotify.com/album/3op9EBV5dm6aicJFlTCAP9"
+      },
+      "artists": [
+        {
+          "name": "Brian Hughes",
+          "url": "https://open.spotify.com/artist/3mTVKCxS5jHVIh7zSggSZb"
+        }
+      ],
+      "duration_ms": 316466,
+      "name": "Pamela",
+      "url": "https://open.spotify.com/track/5SCZ6ciVRjDMXn7trnq3Np"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Classical Soul",
+        "url": "https://open.spotify.com/album/3Bw8zMOa49iNKrh5DMhY72"
+      },
+      "artists": [
+        {
+          "name": "Marc Antoine",
+          "url": "https://open.spotify.com/artist/0EpJxgZJDz8YV7MKsTr0Ls"
+        }
+      ],
+      "duration_ms": 308400,
+      "name": "Follow Your Bliss",
+      "url": "https://open.spotify.com/track/6vem3VzPJAcOKvblO5dIwY"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Blue Touch",
+        "url": "https://open.spotify.com/album/6oRxJn0ULf3TFGfqiFargV"
+      },
+      "artists": [
+        {
+          "name": "Gregg Karukas",
+          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
+        }
+      ],
+      "duration_ms": 230533,
+      "name": "Fly Away (Thinking Of You)",
+      "url": "https://open.spotify.com/track/2Cvg3IXEWWMTYTvd8HqpaG"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -539,114 +587,50 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "107 In The Shade",
-        "url": "https://open.spotify.com/album/5r23P7VKbhAr2lt7128bdF"
+        "name": "Dave Koz",
+        "url": "https://open.spotify.com/album/28dV8nGn5PWCWBvDX1SdIU"
       },
       "artists": [
         {
-          "name": "Alex Bugnon",
-          "url": "https://open.spotify.com/artist/5bDmz2qpZCbOJ4XHHYe5y1"
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
         }
       ],
-      "duration_ms": 322000,
-      "name": "107 In the Shade",
-      "url": "https://open.spotify.com/track/5ioqsF16uhzZXqKLrScHCj"
+      "duration_ms": 370040,
+      "name": "So Far From Home",
+      "url": "https://open.spotify.com/track/1AjXzYmLg24sfQE0gy4Tmb"
     },
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Straight To You",
-        "url": "https://open.spotify.com/album/3op9EBV5dm6aicJFlTCAP9"
+        "name": "Steppin' Out",
+        "url": "https://open.spotify.com/album/5QLCBr09jZYyJNm9OVP2fi"
       },
       "artists": [
         {
-          "name": "Brian Hughes",
-          "url": "https://open.spotify.com/artist/3mTVKCxS5jHVIh7zSggSZb"
+          "name": "Braxton Brothers",
+          "url": "https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw"
         }
       ],
-      "duration_ms": 316466,
-      "name": "Pamela",
-      "url": "https://open.spotify.com/track/5SCZ6ciVRjDMXn7trnq3Np"
+      "duration_ms": 297973,
+      "name": "Sunset Bay",
+      "url": "https://open.spotify.com/track/41e8ef0fMSC0rBDfNjpuAi"
     },
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Touchdown",
-        "url": "https://open.spotify.com/album/5ooWmAVLqcWvDDOid6hCC6"
+        "name": "Easy Street",
+        "url": "https://open.spotify.com/album/6eA5BYDdiYw7efNjIM6H74"
       },
       "artists": [
         {
-          "name": "Bob James",
-          "url": "https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ"
+          "name": "Eric Marienthal",
+          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
         }
       ],
-      "duration_ms": 344773,
-      "name": "Touchdown",
-      "url": "https://open.spotify.com/track/01liKzGQmuq4BRFR19YaeI"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
-        "name": "Ties That Bind",
-        "url": "https://open.spotify.com/album/0zdK7TXke1dN1lbfGFR0cW"
-      },
-      "artists": [
-        {
-          "name": "Andy Snitzer",
-          "url": "https://open.spotify.com/artist/6FaR0vA7ulJTJ1a4BRlJt7"
-        }
-      ],
-      "duration_ms": 302600,
-      "name": "You've Changed",
-      "url": "https://open.spotify.com/track/4w1HnS1633fhFKlTirinC1"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
-        "name": "Personal",
-        "url": "https://open.spotify.com/album/2pqZnilWdNRtwv5Se30hA4"
-      },
-      "artists": [
-        {
-          "name": "George Howard",
-          "url": "https://open.spotify.com/artist/0MDjU3FoGxwGH0rbkcwF2f"
-        }
-      ],
-      "duration_ms": 329826,
-      "name": "I Want You For Myself",
-      "url": "https://open.spotify.com/track/5rkVq7MwaVJHS9ZFt3uOjo"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
-        "name": "I Came To Play",
-        "url": "https://open.spotify.com/album/3281OsYyVze2o5TBGczWBO"
-      },
-      "artists": [
-        {
-          "name": "Paul Jackson, Jr.",
-          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
-        }
-      ],
-      "duration_ms": 317800,
-      "name": "Let's Wait Awhile",
-      "url": "https://open.spotify.com/track/0CDdIP9vgk3iSDH0bPGww5"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
-        "name": "Intimacy",
-        "url": "https://open.spotify.com/album/3T3epUgMPC4f34OooH2iRK"
-      },
-      "artists": [
-        {
-          "name": "Walter Beasley",
-          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
-        }
-      ],
-      "duration_ms": 256933,
-      "name": "Just Hold Me",
-      "url": "https://open.spotify.com/track/4fSHesUea71Bw48PlMROLi"
+      "duration_ms": 317133,
+      "name": "Easy Street",
+      "url": "https://open.spotify.com/track/0Rxzmm8iwt1EyqoMHMd2Gm"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -667,6 +651,22 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
+        "name": "Intimacy",
+        "url": "https://open.spotify.com/album/3T3epUgMPC4f34OooH2iRK"
+      },
+      "artists": [
+        {
+          "name": "Walter Beasley",
+          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
+        }
+      ],
+      "duration_ms": 256933,
+      "name": "Just Hold Me",
+      "url": "https://open.spotify.com/track/4fSHesUea71Bw48PlMROLi"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/3qOAwlkElkDqpZQjkSsVov"
       },
@@ -679,86 +679,6 @@
       "duration_ms": 291533,
       "name": "The Way To You",
       "url": "https://open.spotify.com/track/71KSuKGd1R316tNUSp89eP"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
-        "name": "Trust",
-        "url": "https://open.spotify.com/album/0tg8rdfKdeKxucD3R6al9Q"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 220773,
-      "name": "Creepin'",
-      "url": "https://open.spotify.com/track/6B4h6RRIQWRgXALcOjYLPo"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
-        "name": "Dave Koz",
-        "url": "https://open.spotify.com/album/28dV8nGn5PWCWBvDX1SdIU"
-      },
-      "artists": [
-        {
-          "name": "Dave Koz",
-          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
-        }
-      ],
-      "duration_ms": 370040,
-      "name": "So Far From Home",
-      "url": "https://open.spotify.com/track/1AjXzYmLg24sfQE0gy4Tmb"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
-        "name": "Classical Soul",
-        "url": "https://open.spotify.com/album/3Bw8zMOa49iNKrh5DMhY72"
-      },
-      "artists": [
-        {
-          "name": "Marc Antoine",
-          "url": "https://open.spotify.com/artist/0EpJxgZJDz8YV7MKsTr0Ls"
-        }
-      ],
-      "duration_ms": 308400,
-      "name": "Follow Your Bliss",
-      "url": "https://open.spotify.com/track/6vem3VzPJAcOKvblO5dIwY"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
-        "name": "East",
-        "url": "https://open.spotify.com/album/7Jaivw1fpoOhaCVQ9uHJKT"
-      },
-      "artists": [
-        {
-          "name": "Hiroshima",
-          "url": "https://open.spotify.com/artist/5ZoVY6c0cokQrn448eRqSc"
-        }
-      ],
-      "duration_ms": 327733,
-      "name": "Daydreamer",
-      "url": "https://open.spotify.com/track/5JIxKHTZNGtlD809RTew19"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
-        "name": "Easy Street",
-        "url": "https://open.spotify.com/album/6eA5BYDdiYw7efNjIM6H74"
-      },
-      "artists": [
-        {
-          "name": "Eric Marienthal",
-          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
-        }
-      ],
-      "duration_ms": 317133,
-      "name": "Easy Street",
-      "url": "https://open.spotify.com/track/0Rxzmm8iwt1EyqoMHMd2Gm"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -795,50 +715,34 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Voices In The Rain",
-        "url": "https://open.spotify.com/album/6OJNzlbzjFRHOevcIli9TM"
+        "name": "107 In The Shade",
+        "url": "https://open.spotify.com/album/5r23P7VKbhAr2lt7128bdF"
       },
       "artists": [
         {
-          "name": "Joe Sample",
-          "url": "https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE"
+          "name": "Alex Bugnon",
+          "url": "https://open.spotify.com/artist/5bDmz2qpZCbOJ4XHHYe5y1"
         }
       ],
-      "duration_ms": 320840,
-      "name": "Greener Grass",
-      "url": "https://open.spotify.com/track/3lrOns0djV4xYUh1sSLfbx"
+      "duration_ms": 322000,
+      "name": "107 In the Shade",
+      "url": "https://open.spotify.com/track/5ioqsF16uhzZXqKLrScHCj"
     },
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Undercover",
-        "url": "https://open.spotify.com/album/1CSrrFRXhHIPUKJY5zvfOp"
+        "name": "East",
+        "url": "https://open.spotify.com/album/7Jaivw1fpoOhaCVQ9uHJKT"
       },
       "artists": [
         {
-          "name": "Art Porter",
-          "url": "https://open.spotify.com/artist/47nj6OsTDQIuMjmsml6OLu"
+          "name": "Hiroshima",
+          "url": "https://open.spotify.com/artist/5ZoVY6c0cokQrn448eRqSc"
         }
       ],
-      "duration_ms": 309466,
-      "name": "There's Only You",
-      "url": "https://open.spotify.com/track/4PujvqHuv3ECCVJXdMazGW"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
-        "name": "Decisions",
-        "url": "https://open.spotify.com/album/5naKtNyW9NohbRH0SLSzoX"
-      },
-      "artists": [
-        {
-          "name": "Wayman Tisdale",
-          "url": "https://open.spotify.com/artist/3h25qUbua6H0dcBJgDPg5c"
-        }
-      ],
-      "duration_ms": 280306,
-      "name": "Breakfast with Tiffany",
-      "url": "https://open.spotify.com/track/4V0XiFqittbfSMH2QYZRKV"
+      "duration_ms": 327733,
+      "name": "Daydreamer",
+      "url": "https://open.spotify.com/track/5JIxKHTZNGtlD809RTew19"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -859,18 +763,82 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/02jDT0AUMqKosTjyqwHMx5"
+        "name": "Voices In The Rain",
+        "url": "https://open.spotify.com/album/6OJNzlbzjFRHOevcIli9TM"
       },
       "artists": [
         {
-          "name": "Everette Harp",
-          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
+          "name": "Joe Sample",
+          "url": "https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE"
         }
       ],
-      "duration_ms": 320973,
-      "name": "I Just Can't Stop Thinking About You",
-      "url": "https://open.spotify.com/track/1rAgECH4JpRZbYQkCQTCzm"
+      "duration_ms": 320840,
+      "name": "Greener Grass",
+      "url": "https://open.spotify.com/track/3lrOns0djV4xYUh1sSLfbx"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Ties That Bind",
+        "url": "https://open.spotify.com/album/0zdK7TXke1dN1lbfGFR0cW"
+      },
+      "artists": [
+        {
+          "name": "Andy Snitzer",
+          "url": "https://open.spotify.com/artist/6FaR0vA7ulJTJ1a4BRlJt7"
+        }
+      ],
+      "duration_ms": 302600,
+      "name": "You've Changed",
+      "url": "https://open.spotify.com/track/4w1HnS1633fhFKlTirinC1"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Decisions",
+        "url": "https://open.spotify.com/album/5naKtNyW9NohbRH0SLSzoX"
+      },
+      "artists": [
+        {
+          "name": "Wayman Tisdale",
+          "url": "https://open.spotify.com/artist/3h25qUbua6H0dcBJgDPg5c"
+        }
+      ],
+      "duration_ms": 280306,
+      "name": "Breakfast with Tiffany",
+      "url": "https://open.spotify.com/track/4V0XiFqittbfSMH2QYZRKV"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "I Came To Play",
+        "url": "https://open.spotify.com/album/3281OsYyVze2o5TBGczWBO"
+      },
+      "artists": [
+        {
+          "name": "Paul Jackson, Jr.",
+          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
+        }
+      ],
+      "duration_ms": 317800,
+      "name": "Let's Wait Awhile",
+      "url": "https://open.spotify.com/track/0CDdIP9vgk3iSDH0bPGww5"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Personal",
+        "url": "https://open.spotify.com/album/2pqZnilWdNRtwv5Se30hA4"
+      },
+      "artists": [
+        {
+          "name": "George Howard",
+          "url": "https://open.spotify.com/artist/0MDjU3FoGxwGH0rbkcwF2f"
+        }
+      ],
+      "duration_ms": 329826,
+      "name": "I Want You For Myself",
+      "url": "https://open.spotify.com/track/5rkVq7MwaVJHS9ZFt3uOjo"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -911,18 +879,34 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "A River In The Desert",
-        "url": "https://open.spotify.com/album/52mMRE71ydh5k344gaCmBX"
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/02jDT0AUMqKosTjyqwHMx5"
       },
       "artists": [
         {
-          "name": "Paul Jackson, Jr.",
-          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
+          "name": "Everette Harp",
+          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
         }
       ],
-      "duration_ms": 338933,
-      "name": "The East from the West",
-      "url": "https://open.spotify.com/track/4EBl72N2kmIvGjkCtJwf2O"
+      "duration_ms": 320973,
+      "name": "I Just Can't Stop Thinking About You",
+      "url": "https://open.spotify.com/track/1rAgECH4JpRZbYQkCQTCzm"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Undercover",
+        "url": "https://open.spotify.com/album/1CSrrFRXhHIPUKJY5zvfOp"
+      },
+      "artists": [
+        {
+          "name": "Art Porter",
+          "url": "https://open.spotify.com/artist/47nj6OsTDQIuMjmsml6OLu"
+        }
+      ],
+      "duration_ms": 309466,
+      "name": "There's Only You",
+      "url": "https://open.spotify.com/track/4PujvqHuv3ECCVJXdMazGW"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -951,6 +935,22 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
+        "name": "A River In The Desert",
+        "url": "https://open.spotify.com/album/52mMRE71ydh5k344gaCmBX"
+      },
+      "artists": [
+        {
+          "name": "Paul Jackson, Jr.",
+          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
+        }
+      ],
+      "duration_ms": 338933,
+      "name": "The East from the West",
+      "url": "https://open.spotify.com/track/4EBl72N2kmIvGjkCtJwf2O"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
         "name": "Saxtress",
         "url": "https://open.spotify.com/album/2Zf6Lb0XbvnqBaXBTFHVBj"
       },
@@ -967,18 +967,18 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Dancing In The Sun",
-        "url": "https://open.spotify.com/album/4riUrx6dAarcgrSLXRfKG9"
+        "name": "For the Love of You",
+        "url": "https://open.spotify.com/album/0ZnVjuFuNGngUDzQrP2JH9"
       },
       "artists": [
         {
-          "name": "George Howard",
-          "url": "https://open.spotify.com/artist/0MDjU3FoGxwGH0rbkcwF2f"
+          "name": "Candy Dulfer",
+          "url": "https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa"
         }
       ],
-      "duration_ms": 359600,
-      "name": "Love Will Find A Way",
-      "url": "https://open.spotify.com/track/3ylLhJHuvVBbpcW1bcKpB5"
+      "duration_ms": 300973,
+      "name": "For the Love of You",
+      "url": "https://open.spotify.com/track/4Or4bwHCtVrBFH4eLLG66j"
     }
   ],
   "unique_name": "Smooth Jazz Classics",

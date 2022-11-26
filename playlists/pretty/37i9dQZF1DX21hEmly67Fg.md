@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain]
 
 > Chill to these laid\-back classical covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,878 likes - 63 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,455 likes - 63 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain]
 | 4 | [when the party's over](https://open.spotify.com/track/6JWWuoeyToc9bBZkgWtQ9L) | [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96), [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [when the party’s over](https://open.spotify.com/album/6vyEqEM1JWBJFnzr0rMp5T) | 3:28 |
 | 5 | [drivers license \(arr\. string quartet\) \- Inspired by ‘Bridgerton’](https://open.spotify.com/track/4vy1RotKCE0qpxw3GZyLXS) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [drivers license \(arr\. string quartet\) \[Inspired by ‘Bridgerton’\]](https://open.spotify.com/album/6DYyz4hIsisHrB8VhKrWyF) | 4:02 |
 | 6 | [Fingers Crossed \(arr\. piano\)](https://open.spotify.com/track/0qoMHjrFq0g4QdMqxYhG9t) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Fingers Crossed \(arr\. piano\)](https://open.spotify.com/album/7kkjF3lRF4KtvIk95UNmpJ) | 3:07 |
-| 7 | [Blinding Lights](https://open.spotify.com/track/1e9wX7xPvovxtSyMzRCTIM) | [BAWK](https://open.spotify.com/artist/6cwnpm0nvjKlK4YayMGBl9) | [Blinding Lights](https://open.spotify.com/album/5lw6kBIgVHjRPQ1adMBiwN) | 2:53 |
+| 7 | [Blinding Lights](https://open.spotify.com/track/4qAeCVBiLVpG56P4KOL5sE) | [BAWK](https://open.spotify.com/artist/6cwnpm0nvjKlK4YayMGBl9) | [Blinding Lights](https://open.spotify.com/album/1gLQuDNomgHQQlW2oFJAfj) | 2:53 |
 | 8 | [Yellow](https://open.spotify.com/track/3v64j3vihZ9IhEewaUfIqK) | [Allen & Bright](https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y) | [Covers, Vol\. 1](https://open.spotify.com/album/0yFuG8TdMSfrTE5repnCWN) | 4:23 |
 | 9 | [Wrecking Ball \- Solo Piano Version](https://open.spotify.com/track/3sSESwCLq4g7WiXk6LJKbI) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Wrecking ball \(Solo Piano Version\)](https://open.spotify.com/album/6FxI4vC2tiRIxqbzth9zZL) | 3:24 |
 | 10 | [Iris \(arr\. piano\)](https://open.spotify.com/track/4Z1xN1J50aIn1kqDmy0RNG) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Iris \(arr\. piano\)](https://open.spotify.com/album/4bzdOlm7AWqvF4DFfJq6x9) | 2:36 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain]
 | 62 | [A Thousand Years](https://open.spotify.com/track/0E0xI4AgMNU7UkwBt3FCVN) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [The Piano Guys](https://open.spotify.com/album/6P2EwTc87RwLx2ANZVr1JY) | 4:35 |
 | 63 | [Hurt](https://open.spotify.com/track/5ssa7x1KD6XqPVqhwVgnA0) | [Holly Bowling](https://open.spotify.com/artist/71Mye1Ra0QWncFulgq354r) | [Alone Together, Vol 6 \(The Living Room Sessions\)](https://open.spotify.com/album/451tLMhR2ySWscHJiWQXs6) | 6:12 |
 
-Snapshot ID: `MTY2MjY5NjA2MCwwMDAwMDAwMGIxOGRmZmMxOTJjYjIxOWI0OTRjNzY2MTE2Yjg1YjBh`
+Snapshot ID: `MTY2OTM4Mjg5NCwwMDAwMDAwMDYxMTJjNTc2ZTM0OTBmOTY4MGJhYzBlNzZmNmM0NWFl`

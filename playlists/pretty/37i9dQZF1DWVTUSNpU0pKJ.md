@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTUSNpU0pKJ.md) - [plain]
 
 > Explore the surreal world of Satie, from serene Gymnopédies, to gothic dances and poetic songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,329 likes - 60 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,214 likes - 60 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTUSNpU0pKJ.md) - [plain]
 | 55 | [Reverie Du Pauvre](https://open.spotify.com/track/2GP8U6glUVihmIvdFRC6IR) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Klara Kormendi](https://open.spotify.com/artist/5V2ay7vEghiqgb7NFFiPEZ) | [Satie: Piano Works, Vol\. 1](https://open.spotify.com/album/49S5CzbR0igdDPkPFYKmLf) | 4:04 |
 | 56 | [Danses gothiques: IX\. Après avoir obtenu la remise de ses fautes](https://open.spotify.com/track/2MgezIYqKHMy3jvNnGbJRB) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Cristina Ariagno](https://open.spotify.com/artist/1P2QbCWRfx3t99tZSUdL18) | [Satie: Complete Piano Works, Vol\. 1/2](https://open.spotify.com/album/7s1M6SFVsxjL2v0KJIn7XX) | 0:47 |
 | 57 | [Fantaisie\-Valse](https://open.spotify.com/track/1EzM1MMDPicAGDCucTgwgt) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Roland Pöntinen](https://open.spotify.com/artist/3oob8cWQ5FMlfVZRwSSVES) | [Satie: Piano Music](https://open.spotify.com/album/2Qfs0zjdWYg5MIxmQZUtyH) | 3:23 |
-| 58 | [Je te veux](https://open.spotify.com/track/3GiF31gToQSlxPPJkSKsTU) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Patricia Petibon](https://open.spotify.com/artist/1pfkP92biveJzJLW5JGm8Z), [Susan Manoff](https://open.spotify.com/artist/3rZLeBHWIFgtzCsWobkapY), [Christian\-Pierre La Marca](https://open.spotify.com/artist/5nRDtK82lHmYRXnKjAzI9j) | [A Classical Compendium: Satie](https://open.spotify.com/album/4R1olPB974KvrbYpwHkJct) | 4:19 |
+| 58 | [Je te veux](https://open.spotify.com/track/5FqBnwjloEgHACsrXy8DLo) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Patricia Petibon](https://open.spotify.com/artist/1pfkP92biveJzJLW5JGm8Z), [Susan Manoff](https://open.spotify.com/artist/3rZLeBHWIFgtzCsWobkapY), [Christian\-Pierre La Marca](https://open.spotify.com/artist/5nRDtK82lHmYRXnKjAzI9j) | [Masters \- Satie](https://open.spotify.com/album/3JQKLCIW0iyX3AR8mp8c5g) | 4:19 |
 | 59 | [Les 3 Valses Distinguees Du Precieux Degoute: Les 3 Valses Du Precieux Degoute](https://open.spotify.com/track/7gJaQo9GINV93i6hdTzx1q) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Klara Kormendi](https://open.spotify.com/artist/5V2ay7vEghiqgb7NFFiPEZ) | [Satie: Piano Works, Vol\. 3](https://open.spotify.com/album/5aEuMjq9dlIyba38brYa4x) | 3:55 |
 | 60 | [Gnossiennes: No\. 6](https://open.spotify.com/track/48uQVaVJbUnvKNE0dPQtIB) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Satie: The Complete solo piano music](https://open.spotify.com/album/5HwlyJmJZgGjTaM1a8YENX) | 1:45 |
 
-Snapshot ID: `MTYzOTA3MDY4NiwwMDAwMDAwMDIyOGE0ZmQ3MGYyNjgzOGJkZmQ3MjZlZmZmMjg1Njhk`
+Snapshot ID: `MTYzOTA3MDY4NiwwMDAwMDAwMGNiMjU1YzQzZjliYjhhZGFlN2QxMTlhNGQ4MDRlZjc4`

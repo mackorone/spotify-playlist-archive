@@ -26,6 +26,86 @@
     },
     {
       "album": {
+        "name": "Takin' My Time",
+        "url": "https://open.spotify.com/album/6GY7TiykCTKhh9N31ROFqE"
+      },
+      "artists": [
+        {
+          "name": "After 7",
+          "url": "https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289200,
+      "name": "All About Love",
+      "url": "https://open.spotify.com/track/1BYntsgc5BA7YNoiFP6dPe"
+    },
+    {
+      "album": {
+        "name": "Anything",
+        "url": "https://open.spotify.com/album/1cw5sRjB40LxCKIh2ge1F3"
+      },
+      "artists": [
+        {
+          "name": "SWV",
+          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
+        },
+        {
+          "name": "Wu-Tang Clan",
+          "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+        },
+        {
+          "name": "Allen Gordon, Jr. aka \"ALLSTAR\"",
+          "url": "https://open.spotify.com/artist/1hGJNACUxxr1vMX3HLimGP"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295600,
+      "name": "Anything (feat. Wu-Tang Clan) - Old Skool Radio Version",
+      "url": "https://open.spotify.com/track/5gmMY8KEvBoQdBWm7iLf7A"
+    },
+    {
+      "album": {
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/6H5mxGUWguDjtQ4Uzd8veD"
+      },
+      "artists": [
+        {
+          "name": "Bell Biv DeVoe",
+          "url": "https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275106,
+      "name": "B.B.D. (I Thought It Was Me)?",
+      "url": "https://open.spotify.com/track/4oRDt0qQeY4XQOQWYOQUmt"
+    },
+    {
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best of Bel Biv DeVoe",
+        "url": "https://open.spotify.com/album/2QC1IsQIUNdEz0zgWanPkN"
+      },
+      "artists": [
+        {
+          "name": "Bell Biv DeVoe",
+          "url": "https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 275333,
+      "name": "B.B.D. (I Thought It Was Me)?",
+      "url": "https://open.spotify.com/track/26yEd8XVwJpHDERXo6rZ8X"
+    },
+    {
+      "album": {
         "name": "Blackstreet",
         "url": "https://open.spotify.com/album/26yshjRCAGf1mLJtfTrlsb"
       },
@@ -49,6 +129,24 @@
       "duration_ms": 182040,
       "name": "Baby Be Mine",
       "url": "https://open.spotify.com/track/3c2noI6hwdH2YoETIriUbX"
+    },
+    {
+      "album": {
+        "name": "Poetic Justice: Music from the Motion Picture",
+        "url": "https://open.spotify.com/album/4cexzIEP1mkthBusUZZeB3"
+      },
+      "artists": [
+        {
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Call Me A Mack",
+      "url": "https://open.spotify.com/track/32dRq8sTlXLGbDgZ3ZSKQO"
     },
     {
       "album": {
@@ -110,6 +208,42 @@
     },
     {
       "album": {
+        "name": "Don't Be Cruel",
+        "url": "https://open.spotify.com/album/44w4sVYJVQzhH2dN3IwyIK"
+      },
+      "artists": [
+        {
+          "name": "Bobby Brown",
+          "url": "https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237240,
+      "name": "Every Little Step",
+      "url": "https://open.spotify.com/track/0s6e7ZafqOAUBDoQYGmxrc"
+    },
+    {
+      "album": {
+        "name": "The Best Of Bobby Brown 20th Century Masters The Millennium Collection",
+        "url": "https://open.spotify.com/album/1T7RZdtMdC1svs3WGT15A5"
+      },
+      "artists": [
+        {
+          "name": "Bobby Brown",
+          "url": "https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 238080,
+      "name": "Every Little Step",
+      "url": "https://open.spotify.com/track/31WbCaQjJGV6lTNbDsUYXb"
+    },
+    {
+      "album": {
         "name": "Damian Dame",
         "url": "https://open.spotify.com/album/2eSIbUfDDE6JV8bpFgsb5M"
       },
@@ -129,7 +263,7 @@
       ],
       "date_added": "2021-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 299666,
       "name": "Exclusivity (Remix) - Radio Edit",
       "url": "https://open.spotify.com/track/63DGRme6rFWbHaHE8kP5ia"
@@ -436,6 +570,46 @@
     },
     {
       "album": {
+        "name": "Boomerang",
+        "url": "https://open.spotify.com/album/3hrK0o67R7x4ZcG4NMTTXh"
+      },
+      "artists": [
+        {
+          "name": "Aaron Hall",
+          "url": "https://open.spotify.com/artist/772SIFJQiXTCfxncTK1UMn"
+        },
+        {
+          "name": "Charlie Wilson",
+          "url": "https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333106,
+      "name": "It's Gonna Be Alright (feat. Charlie Wilson)",
+      "url": "https://open.spotify.com/track/6cMybQhimXpkzQdgKca80j"
+    },
+    {
+      "album": {
+        "name": "Tender Lover",
+        "url": "https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241493,
+      "name": "It's No Crime",
+      "url": "https://open.spotify.com/track/2zFqQ0xLiMHOVUuV5zw9Gq"
+    },
+    {
+      "album": {
         "name": "T.E.V.I.N.",
         "url": "https://open.spotify.com/album/7Hucjo5Y8VSidz9dKnBf6q"
       },
@@ -526,6 +700,42 @@
     },
     {
       "album": {
+        "name": "90s R&B Throwback",
+        "url": "https://open.spotify.com/album/3OaNSMbxAXWBrTTuiMij0b"
+      },
+      "artists": [
+        {
+          "name": "Al B. Sure!",
+          "url": "https://open.spotify.com/artist/1fvz0vd4P0LNMkAysF1ivk"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 267546,
+      "name": "Misunderstanding",
+      "url": "https://open.spotify.com/track/21kwxN1YSUs36hzggiGiIb"
+    },
+    {
+      "album": {
+        "name": "The Very Best Of Al B. Sure! (Remastered)",
+        "url": "https://open.spotify.com/album/04jgTYbkPoKcI2pjJ7QTt7"
+      },
+      "artists": [
+        {
+          "name": "Al B. Sure!",
+          "url": "https://open.spotify.com/artist/1fvz0vd4P0LNMkAysF1ivk"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267546,
+      "name": "Misunderstanding",
+      "url": "https://open.spotify.com/track/5q8YloejfVckSzLAABOvNG"
+    },
+    {
+      "album": {
         "name": "Cooleyhighharmony (Bonus Tracks Version)",
         "url": "https://open.spotify.com/album/3jknvlUSe6D9Oyn2E3JBLO"
       },
@@ -581,6 +791,24 @@
       "duration_ms": 295333,
       "name": "My Fantasy",
       "url": "https://open.spotify.com/track/16jT6110SdOUXEIo6HpjME"
+    },
+    {
+      "album": {
+        "name": "Gold - '80s Soul",
+        "url": "https://open.spotify.com/album/30zetsnd9mENuaA47D6wcr"
+      },
+      "artists": [
+        {
+          "name": "Bobby Brown",
+          "url": "https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 278546,
+      "name": "My Prerogative",
+      "url": "https://open.spotify.com/track/5xolIG4vdL7iSryt1xbMsk"
     },
     {
       "album": {
@@ -656,6 +884,42 @@
     },
     {
       "album": {
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/6H5mxGUWguDjtQ4Uzd8veD"
+      },
+      "artists": [
+        {
+          "name": "Bell Biv DeVoe",
+          "url": "https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261853,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/6m59VvDUi0UQsB2eZ9wVbH"
+    },
+    {
+      "album": {
+        "name": "POP INTERNACIONAL 2021 \ud83d\udd25",
+        "url": "https://open.spotify.com/album/4AoO7qsWfdRoqyOfiYb9gv"
+      },
+      "artists": [
+        {
+          "name": "Bell Biv DeVoe",
+          "url": "https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 262026,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/5iWpNCFTphXVEEBeM5eDAK"
+    },
+    {
+      "album": {
         "name": "Dangerous",
         "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
       },
@@ -689,6 +953,24 @@
       "duration_ms": 323133,
       "name": "Reminisce",
       "url": "https://open.spotify.com/track/0EWT5JnKOf6saRn4ASff3j"
+    },
+    {
+      "album": {
+        "name": "R&B Pool Party",
+        "url": "https://open.spotify.com/album/1YjF0rSWWPsYZhEpYnDjau"
+      },
+      "artists": [
+        {
+          "name": "Johnny Gill",
+          "url": "https://open.spotify.com/artist/7oHzn7edwmrYClrPRINkbn"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 330173,
+      "name": "Rub You The Right Way",
+      "url": "https://open.spotify.com/track/44WuNZGWhmW3wFeICOtsgH"
     },
     {
       "album": {
@@ -728,6 +1010,42 @@
     },
     {
       "album": {
+        "name": "Old School Hip Hop Party",
+        "url": "https://open.spotify.com/album/5QRakQ3xreZwDJKqCLPZr0"
+      },
+      "artists": [
+        {
+          "name": "Wreckx-N-Effect",
+          "url": "https://open.spotify.com/artist/6lLYZf9GpSq6Pf09g2N2xK"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 310764,
+      "name": "Rump Shaker",
+      "url": "https://open.spotify.com/track/31VhyXtutTRdFQ5ihNuLpC"
+    },
+    {
+      "album": {
+        "name": "Hard Or Smooth",
+        "url": "https://open.spotify.com/album/6xLyv6QON3hOuKiqRKvNOw"
+      },
+      "artists": [
+        {
+          "name": "Wreckx-N-Effect",
+          "url": "https://open.spotify.com/artist/6lLYZf9GpSq6Pf09g2N2xK"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312360,
+      "name": "Rump Shaker",
+      "url": "https://open.spotify.com/track/4dY4JVC0Q9CwpeZ6JAclIc"
+    },
+    {
+      "album": {
         "name": "Basic Black",
         "url": "https://open.spotify.com/album/3SoRURaEucgHEq6YmBYOdD"
       },
@@ -751,7 +1069,7 @@
       ],
       "date_added": "2021-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 230192,
       "name": "She's Mine (feat. Pete Rock, C.L. Smooth & D.J. Eddie F)",
       "url": "https://open.spotify.com/track/1Q75FxFg6LPlhtKYB9DOwc"

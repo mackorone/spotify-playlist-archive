@@ -4,7 +4,7 @@
 
 > A collection of songs from Tony Hawk's Pro Skater 1 + 2.
 
-63 songs - 3 hr 9 min - [published](https://open.spotify.com/playlist/3gnvN3gU2eit5kuCl7Hk1j)
+67 songs - 3 hr 22 min - [published](https://open.spotify.com/playlist/3gnvN3gU2eit5kuCl7Hk1j)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,13 +15,15 @@
 | [Bass \(feat\. Tech N9ne & Hopsin\)](https://open.spotify.com/track/4fX0nbOg4zoGYsngVBtq4s) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg), [Hopsin](https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos) | [Special Occasion](https://open.spotify.com/album/0m3fAxrcKWZ7S6sqWQKrUp) | 3:53 | 2020-07-28 |  |
 | [Blood Brothers](https://open.spotify.com/track/2Ll44WxlG2eiqL6NtEnf8M) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Infest](https://open.spotify.com/album/0BHa0ePkvGAVKymB4FU58m) | 3:33 | 2020-05-15 |  |
 | [bloody valentine](https://open.spotify.com/track/1bWEngw5tAF7vWByrf5Oy5) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [bloody valentine](https://open.spotify.com/album/268JRqKvCGhDrbqH74sDFz) | 3:25 | 2020-07-28 | 2022-07-29 |
+| [bloody valentine](https://open.spotify.com/track/6wQhDvk2AX6bg6Om9DDDEO) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Rock Gym Workout](https://open.spotify.com/album/3GviLEhdfqHM3qjMl3Th7F) | 3:25 | 2020-07-28 | 2022-11-14 |
 | [bloody valentine](https://open.spotify.com/track/6mADjHs6FXdroPzEGW6KVJ) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Tickets To My Downfall](https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK) | 3:25 | 2020-07-28 |  |
 | [Bomb Drop](https://open.spotify.com/track/1MAnAUtRTzqnviymxYHTAg) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Sound the Alarm](https://open.spotify.com/album/64ygJgQjUX8peOKPjGm8AX) | 3:06 | 2020-07-28 | 2022-07-29 |
 | [Bomb Drop](https://open.spotify.com/track/1U9DTcVgCPu7GEZXMeQ4Uu) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Sound the Alarm](https://open.spotify.com/album/3NbdWdzUtgijqhFldEXD61) | 3:06 | 2020-07-28 |  |
 | [Can I Kick It?](https://open.spotify.com/track/3Ti0GdlrotgwsAVBBugv0I) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [People's Instinctive Travels and the Paths of Rhythm \(25th Anniversary Edition\)](https://open.spotify.com/album/3kV0i1qqudjf0PGawJ4jck) | 4:11 | 2020-07-28 |  |
 | [Confisco](https://open.spotify.com/track/2vV3fHWrEIdDBygY35PyuY) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Transpiração Contínua Prolongada \- Edição Comemorativa](https://open.spotify.com/album/0GBMhUusSjw9soVbVFRERp) | 2:58 | 2020-07-28 |  |
 | [Confisco](https://open.spotify.com/track/68uBfK67y4ZKD45qHJYaw7) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [A Arte De Charlie Brown Jr.](https://open.spotify.com/album/2Ov5ciTOEZcvCNZQKtiye4) | 2:58 | 2020-07-28 | 2022-07-29 |
-| [Connect To Consume](https://open.spotify.com/track/5GybndUlmvM1wzM6liWsdp) | [A\. Swayze & The Ghosts](https://open.spotify.com/artist/6rbA09kzdZICoLg7sWbkGd) | [Connect To Consume](https://open.spotify.com/album/595dcTaOC9sXOIfbutmwGr) | 3:14 | 2020-07-28 |  |
+| [Connect To Consume](https://open.spotify.com/track/4AedKkOIuagtOQ6uvxWfiN) | [A\. Swayze & The Ghosts](https://open.spotify.com/artist/6rbA09kzdZICoLg7sWbkGd) | [Paid Salvation](https://open.spotify.com/album/0zAxayJBKcqXptUlvt14xH) | 3:14 | 2020-07-28 |  |
+| [Connect To Consume](https://open.spotify.com/track/5GybndUlmvM1wzM6liWsdp) | [A\. Swayze & The Ghosts](https://open.spotify.com/artist/6rbA09kzdZICoLg7sWbkGd) | [Connect To Consume](https://open.spotify.com/album/595dcTaOC9sXOIfbutmwGr) | 3:14 | 2020-07-28 | 2022-11-23 |
 | [Cyclone](https://open.spotify.com/track/2qQieiApQ1TkvkZGLkbCH0) | [Dub Pistols](https://open.spotify.com/artist/4LYX3rRdXV2l99wR5YPFoK) | [Point Blank](https://open.spotify.com/album/4IMpWiEUoJKedGQ21Nmmq4) | 3:34 | 2020-05-15 |  |
 | [Cyco Vision](https://open.spotify.com/track/3I9K8tSZRsAw7bRYfbhJEA) | [Suicidal Tendencies](https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC) | [Freedumb](https://open.spotify.com/album/272uyFl2Z35T3MPtHTg92C) | 1:49 | 2020-07-30 |  |
 | [Deathwire](https://open.spotify.com/track/68XsbWfxcvmlAVukxPVy9d) | [Rough Francis](https://open.spotify.com/artist/60uXjIudDRbL8LIWwYk2sQ) | [Deathwire](https://open.spotify.com/album/3MYhb46f5Vusrzt58E6uot) | 3:09 | 2020-07-28 |  |
@@ -37,6 +39,7 @@
 | [In Control](https://open.spotify.com/track/5xgsrlbxfmAZR8t57ljK5t) | [Baker Boy](https://open.spotify.com/artist/6Qpa8xhGsGitz4WBf4BkpK) | [In Control](https://open.spotify.com/album/6rfcQP2rywiV6reYrP9LOJ) | 3:10 | 2020-07-28 |  |
 | [IN\-TO\-IT](https://open.spotify.com/track/6PMapmhT9QjSC3X4h0tgEX) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising \(Pt\. 1\)](https://open.spotify.com/album/40t8R9VOXLSxMzUjXbtDuN) | 3:15 | 2020-07-28 |  |
 | [IN\-TO\-IT](https://open.spotify.com/track/1h2nlMzL1hFRaSMKuUHaDB) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [IN\-TO\-IT](https://open.spotify.com/album/1jjrbaOJ59IHj9fxaDy0pI) | 3:16 | 2020-07-28 | 2022-09-16 |
+| [IN\-TO\-IT](https://open.spotify.com/track/7xa2A6epfgi9NTABAGOQhi) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [IN\-TO\-IT](https://open.spotify.com/album/0YmdhKq9b7REkzdQq6LPan) | 3:16 | 2020-07-28 | 2022-11-13 |
 | [Jerry Was A Race Car Driver](https://open.spotify.com/track/19C0LKY3DCcQtuviPJNy5d) | [Primus](https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx) | [Sailing The Seas Of Cheese](https://open.spotify.com/album/2sjF68plsvYE7M3FaMf6rD) | 3:10 | 2020-05-15 |  |
 | [Let Me In](https://open.spotify.com/track/5U2djvPDRMcW4JjKuETuWa) | [Screaming Females](https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t) | [Let Me In](https://open.spotify.com/album/2whX6MD0PMqPW5De20AaU6) | 2:38 | 2020-07-28 |  |
 | [Let's Do It](https://open.spotify.com/track/1nNOWiXYARPG1eRLw134No) | [All Talk](https://open.spotify.com/artist/78GL0p300wgurWZaPO7J80) | [Let's Do It](https://open.spotify.com/album/4gue0IdUGLEnpAkVsWbQvB) | 2:16 | 2020-07-30 |  |
@@ -57,6 +60,7 @@
 | [Run It up Pt\. II](https://open.spotify.com/track/16oNPQ2sVbzZyAscp4SFHD) | [Spilt Milk](https://open.spotify.com/artist/5a4YbQRezrArmu3VxdMGao), [Relaye](https://open.spotify.com/artist/66tdy2Pn0JQDzaJFp74vya) | [Run It up Pt\. II](https://open.spotify.com/album/723LwYSgRF5wC9niD819eF) | 2:34 | 2020-07-28 |  |
 | [Same In The End](https://open.spotify.com/track/3kGt9uxpJzKTxwp2uJHrU5) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 2:36 | 2020-07-28 |  |
 | [Same In The End](https://open.spotify.com/track/4B6dMwXS6q8pw1HBWV8Cc8) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/4R3tXoorBpHji6Jdms8a4Q) | 2:36 | 2020-07-28 | 2022-07-29 |
+| [Same In The End](https://open.spotify.com/track/4vu0dC8JfMv07g0lZ9Yxh4) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime \(10th Anniversary Edition / Deluxe Edition\)](https://open.spotify.com/album/4kq4T5cWLlP8NJkMA3S6AN) | 2:36 | 2020-07-28 | 2022-11-13 |
 | [Sedona](https://open.spotify.com/track/3oQMwKCFTi3wKi9VANfTbE) | [JunkBunny](https://open.spotify.com/artist/2UdPcvUuTpvrq7flh94PaE) | [Junk Rock](https://open.spotify.com/album/1uxlk6rLTGtccpbOyv6h6J) | 3:09 | 2020-07-28 |  |
 | [She's Famous Now](https://open.spotify.com/track/3acefyyfBIV0ed0n4WAJea) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Why Do They Rock So Hard](https://open.spotify.com/album/77ONgv2XviPXVVQo7kFfmA) | 3:05 | 2020-07-28 |  |
 | [Shutdown](https://open.spotify.com/track/22okfZRLfP6hxuplYUGef6) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Shutdown](https://open.spotify.com/album/0xCAtTLLKHVXXRG3QszG7Y) | 3:08 | 2020-07-28 |  |

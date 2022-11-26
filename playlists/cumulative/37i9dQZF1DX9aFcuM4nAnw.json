@@ -477,7 +477,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-05",
       "duration_ms": 221626,
       "name": "Caermaen",
       "url": "https://open.spotify.com/track/4qkrxmPzmepaAzbxhaA6Oi"
@@ -682,6 +682,24 @@
     },
     {
       "album": {
+        "name": "Die of The Waters",
+        "url": "https://open.spotify.com/album/6uOrCnQh7r07zYvsI8lYdf"
+      },
+      "artists": [
+        {
+          "name": "Sharp Veins",
+          "url": "https://open.spotify.com/artist/3GN93MWawjP5UtkbwnOtT2"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186321,
+      "name": "Don't Forget",
+      "url": "https://open.spotify.com/track/5mZ8Uf5FH7Xp6hkolpHK7N"
+    },
+    {
+      "album": {
         "name": "Entangled Routes",
         "url": "https://open.spotify.com/album/5t1HCShqcGw9z5oWMP0EyB"
       },
@@ -747,7 +765,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-07",
       "duration_ms": 194946,
       "name": "Eleven",
       "url": "https://open.spotify.com/track/0yMaGil4yVbV6YhXXAXw83"
@@ -1162,6 +1180,24 @@
     },
     {
       "album": {
+        "name": "Coming Home by Pantha du Prince",
+        "url": "https://open.spotify.com/album/43kzl72U8vM6i4t400YoJ2"
+      },
+      "artists": [
+        {
+          "name": "William Basinski",
+          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 202338,
+      "name": "Melancholia I",
+      "url": "https://open.spotify.com/track/6GsXMqsYc6lpo6Ay0aeOMs"
+    },
+    {
+      "album": {
         "name": "Melancholia",
         "url": "https://open.spotify.com/album/2mDwgIyil7jUI192RqJ1Lm"
       },
@@ -1509,7 +1545,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": "2022-11-13",
       "duration_ms": 91994,
       "name": "Slipping Away (In a Dream)",
       "url": "https://open.spotify.com/track/7puJT8Dq180XAnVWs0wLAA"
@@ -1549,7 +1585,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 242232,
       "name": "Sticks and Stones",
       "url": "https://open.spotify.com/track/2B0IVAINVS2tD7m1P2dZPx"
@@ -1801,7 +1837,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 143880,
       "name": "This Isn't You",
       "url": "https://open.spotify.com/track/4cocLXeDOiFIPBgZCvJ3RF"

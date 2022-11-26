@@ -29,6 +29,6 @@
 | [Shine](https://open.spotify.com/track/4hIv0vg8xbxlbbde8cIkcz) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Last Smoke Before the Snowstorm](https://open.spotify.com/album/2llC1TaaFaKVDEveEq9hXW) | 3:02 | 2016-08-21 |  |
 | [The A Team](https://open.spotify.com/track/1VdZ0vKfR5jneCmWIUAMxK) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [+](https://open.spotify.com/album/0W5GGnapMz0VwemQvJDqa7) | 4:18 | 2016-08-21 |  |
 | [Wild Ones](https://open.spotify.com/track/6UrF9LIhffllzblKlEVYxm) | [Bahari](https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu) | [Wild Ones](https://open.spotify.com/album/0i38l8BvajWcN009SoRDVp) | 3:04 | 2016-08-21 |  |
-| [Wild World \- Acoustic Version](https://open.spotify.com/track/0ZWSpn7UgqAp4exbKEUD5g) | [Joanna Wang](https://open.spotify.com/artist/1km0aro5NJuoX5dE0Mub5C) | [為愛做的一切](https://open.spotify.com/album/019FOSKZXxS56quC2Wmb1K) | 3:45 | 2016-08-21 |  |
+| [Wild World \- Acoustic Version](https://open.spotify.com/track/0ZWSpn7UgqAp4exbKEUD5g) | [Joanna Wang](https://open.spotify.com/artist/1km0aro5NJuoX5dE0Mub5C) | [为爱做的一切](https://open.spotify.com/album/019FOSKZXxS56quC2Wmb1K) | 3:45 | 2016-08-21 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

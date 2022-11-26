@@ -49,6 +49,24 @@
     {
       "album": {
         "name": "A Casual Look",
+        "url": "https://open.spotify.com/album/2S8NKCht9cDIZGhcfQsW68"
+      },
+      "artists": [
+        {
+          "name": "The Six Teens",
+          "url": "https://open.spotify.com/artist/1n0PTPiHxmlkU7ND1HVFZQ"
+        }
+      ],
+      "date_added": "2021-02-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 147563,
+      "name": "A Casual Look",
+      "url": "https://open.spotify.com/track/2FBtq2g0gIqcJVTdnngIzq"
+    },
+    {
+      "album": {
+        "name": "A Casual Look",
         "url": "https://open.spotify.com/album/2ZTGmmSaSekHmAFVuT7v83"
       },
       "artists": [
@@ -203,7 +221,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 152600,
       "name": "Chapel of Dreams",
       "url": "https://open.spotify.com/track/3HgV08D7OOay214URalpnZ"
@@ -293,7 +311,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 138213,
       "name": "Could This Be Magic",
       "url": "https://open.spotify.com/track/4OkVQKZpYeuZaCJ7pjNGMc"
@@ -311,7 +329,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 188000,
       "name": "Crying In The Chapel",
       "url": "https://open.spotify.com/track/35vjuw2ttf6OL5vFXY9w5v"
@@ -351,7 +369,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 146560,
       "name": "Devil or Angel - 2007 Remaster",
       "url": "https://open.spotify.com/track/1YKj6Yx5bHj15lThWYkKCz"
@@ -553,7 +571,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": "2022-11-13",
       "duration_ms": 152200,
       "name": "Heartaches",
       "url": "https://open.spotify.com/track/3BfRMHhQlhDJYaiULVPgvS"
@@ -679,7 +697,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-03",
+      "date_removed": "2022-11-14",
       "duration_ms": 185333,
       "name": "In the Still of the Night",
       "url": "https://open.spotify.com/track/5XiWLaXiajWLXnQWN7fUWy"
@@ -701,6 +719,24 @@
       "duration_ms": 163533,
       "name": "Life Is but a Dream",
       "url": "https://open.spotify.com/track/6CJnPLGcsyFErEoJb6gHFK"
+    },
+    {
+      "album": {
+        "name": "Discover 50s One Hit Wonders",
+        "url": "https://open.spotify.com/album/2jRxBOuhGcX109foxdhWby"
+      },
+      "artists": [
+        {
+          "name": "The Harptones",
+          "url": "https://open.spotify.com/artist/3ldj7TJdwN9Ei96ZIUU3M7"
+        }
+      ],
+      "date_added": "2021-02-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 163683,
+      "name": "Life Is But a Dream",
+      "url": "https://open.spotify.com/track/1EoBy4mqDVQjSrcsuqYUv7"
     },
     {
       "album": {
@@ -769,7 +805,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 192106,
       "name": "Little Girl of Mine",
       "url": "https://open.spotify.com/track/6YI7hHSjotVuw7czjRNCBN"
@@ -877,7 +913,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 170000,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/3OQws3wO9koGb1g2QP2YsN"
@@ -992,6 +1028,24 @@
     },
     {
       "album": {
+        "name": "Life Could Be a Dream: The Sh-Boom Sound of The Chords",
+        "url": "https://open.spotify.com/album/5MPJ9H0ko7mCsfjkyrg0xE"
+      },
+      "artists": [
+        {
+          "name": "The Chords",
+          "url": "https://open.spotify.com/artist/3xXSg1WJPGJuNjQV0REAzk"
+        }
+      ],
+      "date_added": "2021-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144493,
+      "name": "Sh-Boom",
+      "url": "https://open.spotify.com/track/2drXvACELcvwryaFRiRPdA"
+    },
+    {
+      "album": {
         "name": "Cars (Versi\u00f3n de Colecci\u00f3n)",
         "url": "https://open.spotify.com/album/5fn6VH2E4CipGPG9NkBytd"
       },
@@ -1021,7 +1075,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 147266,
       "name": "Sh-Boom",
       "url": "https://open.spotify.com/track/6ZKB999ZdaFVgrYWvxkl49"
@@ -1039,7 +1093,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 169226,
       "name": "Shop Around",
       "url": "https://open.spotify.com/track/1VMncXCJ34SIAosUKhzjHy"
@@ -1187,6 +1241,24 @@
       "duration_ms": 141583,
       "name": "Speedoo",
       "url": "https://open.spotify.com/track/4UGr3S283MmxmRIq83xoWq"
+    },
+    {
+      "album": {
+        "name": "The Fabulous Cadillacs",
+        "url": "https://open.spotify.com/album/5UoyKbXmb2JNJSFMxL1VpY"
+      },
+      "artists": [
+        {
+          "name": "The Cadillacs",
+          "url": "https://open.spotify.com/artist/5ye4TzZU2L7cxiQgCZoJUH"
+        }
+      ],
+      "date_added": "2021-02-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 141253,
+      "name": "Speedoo (Alternative Take)",
+      "url": "https://open.spotify.com/track/3fy76k7I8YMUOR7bn7EcM5"
     },
     {
       "album": {
@@ -1345,7 +1417,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 177893,
       "name": "When You Dance",
       "url": "https://open.spotify.com/track/4rXndJbjTYZ4ISX3pBGxfL"
@@ -1497,7 +1569,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-09",
+      "date_removed": "2022-11-13",
       "duration_ms": 149586,
       "name": "Zoom Zoom Zoom",
       "url": "https://open.spotify.com/track/6xLW0o4fWTYbslOIDaJBOw"

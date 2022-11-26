@@ -4,7 +4,7 @@
 
 > Relaxing rain sounds for sleepy babies.
 
-235 songs - 11 hr 7 min - [published](https://open.spotify.com/playlist/1CixQdDdegNM9gkFeoMyAJ)
+239 songs - 11 hr 17 min - [published](https://open.spotify.com/playlist/1CixQdDdegNM9gkFeoMyAJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,7 +220,9 @@
 | [Sound Of Rain](https://open.spotify.com/track/2pO4VCd6vKG1XjzxlNvGPd) | [Rain ZPE](https://open.spotify.com/artist/5btXRFPLxDHay7eed3kHLd) | [Falling Clouds](https://open.spotify.com/album/6wGZLw1MBKZQVLelPdBoDJ) | 2:00 | 2022-04-07 |  |
 | [Sounds of Nature: Dripping Rain](https://open.spotify.com/track/247djZ4tbKkV0bPJ0gW5Zk) | [The Outdoor Library](https://open.spotify.com/artist/3LhW1K0Q3xRX4PzqLlEx0F) | [Sounds of Nature](https://open.spotify.com/album/0IS1qYVq8wxYS4EWBPmGMp) | 2:18 | 2022-04-07 |  |
 | [Spring Rain](https://open.spotify.com/track/3tJUPN4RceFzN6YScWnO46) | [Deszcz](https://open.spotify.com/artist/7mc60Wf7K9edgiJL0FQ6vz) | [Tea & Rainy Days](https://open.spotify.com/album/7t4DXof9s7bZIjH4ejRc03) | 3:32 | 2022-04-07 |  |
-| [starlit rainfall](https://open.spotify.com/track/7gkwTHnQ1QxWcM6HDBOqXo) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [starlit rainfall](https://open.spotify.com/album/2sknFZDDYwy2o1zlnkg4iN) | 2:41 | 2022-04-07 |  |
+| [starlit rainfall](https://open.spotify.com/track/1SKqicEoNoTQp1XEmXTlcM) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [starlit rainfall](https://open.spotify.com/album/0b4L0c4mNqezstudoXa0Uy) | 2:41 | 2022-04-07 | 2022-11-13 |
+| [starlit rainfall](https://open.spotify.com/track/7CLQUiUTBqBtjZHHkSVNuf) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [peaceful showers \(rain\)](https://open.spotify.com/album/5EmHKVBfrBkmHT4PlOd39x) | 2:41 | 2022-04-07 |  |
+| [starlit rainfall](https://open.spotify.com/track/7gkwTHnQ1QxWcM6HDBOqXo) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [starlit rainfall](https://open.spotify.com/album/2sknFZDDYwy2o1zlnkg4iN) | 2:41 | 2022-04-07 | 2022-10-14 |
 | [Starting to rain](https://open.spotify.com/track/7dkQRyEnWGmki1fGtkvGAW) | [The Wet](https://open.spotify.com/artist/2IgElvWe0O1lxnnW4XPmNE) | [Rain outside my window](https://open.spotify.com/album/4EdscJEihXupZqV6UaKAhc) | 3:32 | 2022-04-07 |  |
 | [Staycation Rain](https://open.spotify.com/track/5LGvDftuWcuR43b1nKFXIR) | [Rain Mozart](https://open.spotify.com/artist/6yc5UNveUs9xHzvSLf8NdT) | [Drip Symphony](https://open.spotify.com/album/3mMfGtP92FkXwCBFcnkp1e) | 2:01 | 2022-04-07 |  |
 | [Steady Forest Rain](https://open.spotify.com/track/1TYHz90DiG6VARt4hjopOF) | [Creatress](https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ) | [Umbrella Weather](https://open.spotify.com/album/3xItyMnVuhzJ4xZZaVabSW) | 2:35 | 2022-04-07 |  |
@@ -228,7 +230,9 @@
 | [Steady Rain](https://open.spotify.com/track/6YpIyuy5IjnTkDaaz5jJoF) | [Sleep Tight](https://open.spotify.com/artist/4t1OPRfTxUOhrGDtEN43dT) | [Steady Rain](https://open.spotify.com/album/1XmE9ZasnRE2AJjFlxzIRm) | 2:02 | 2022-04-07 |  |
 | [Steady Raining](https://open.spotify.com/track/6dVunPstQ12APTl3RivTIA) | [Bentline Peak](https://open.spotify.com/artist/6yOhpo1p2KSnaMAvHK6jo6) | [Chill Rain](https://open.spotify.com/album/2wWqahCeI8l1ZTvn3BdfTf) | 2:18 | 2022-04-07 |  |
 | [Stetiger Regen](https://open.spotify.com/track/3vwZ7YcQ24GtvvuWQTRcXO) | [Die ganze Nacht](https://open.spotify.com/artist/1OcoltzN3WhJYzAoAtf0Xl) | [Regen die ganze Nacht](https://open.spotify.com/album/1lzDK9FfV0KxJgAbOvYm1s) | 2:11 | 2022-04-07 |  |
-| [stormy hill](https://open.spotify.com/track/0st6S0yMSdcJRzjZadtDME) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [stormy hill](https://open.spotify.com/album/1M1mWNt2Fjxh7ysP0tkCyM) | 2:31 | 2022-04-07 |  |
+| [stormy hill](https://open.spotify.com/track/0st6S0yMSdcJRzjZadtDME) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [stormy hill](https://open.spotify.com/album/1M1mWNt2Fjxh7ysP0tkCyM) | 2:31 | 2022-04-07 | 2022-10-12 |
+| [stormy hill](https://open.spotify.com/track/1KpCULyLuC1NKCyNPo0n9n) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [peaceful showers \(rain\)](https://open.spotify.com/album/5EmHKVBfrBkmHT4PlOd39x) | 2:31 | 2022-04-07 |  |
+| [stormy hill](https://open.spotify.com/track/3L8Mm4pLUNUN8ladx83rUU) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [stormy hill](https://open.spotify.com/album/7DAVGaECRlp9l6s0tkW8NM) | 2:31 | 2022-04-07 | 2022-11-13 |
 | [Stormy Road](https://open.spotify.com/track/5LOUGQmqx2GCTUt0oaQcFc) | [April Shower](https://open.spotify.com/artist/2cwPMVEFK3JRfFmbStXoMD) | [Countryside Storm](https://open.spotify.com/album/3sQS3qy5lYAOuzuBoxw2eY) | 3:28 | 2022-04-07 |  |
 | [Strawberry Rain](https://open.spotify.com/track/06EYu330c8GVTs3fDGJ0pD) | [DreamDrops](https://open.spotify.com/artist/20XfshUALsTbm05gj6Ea5M) | [Strawberry Rain](https://open.spotify.com/album/2sQA6ju0ve2lCiPHJo4VC1) | 3:32 | 2022-04-07 |  |
 | [That's Real Intense](https://open.spotify.com/track/7GquG0EVY3NBr0sQmhwc1I) | [Worrysome Skies](https://open.spotify.com/artist/3bkZdtFCw7NEPaNOBTHIjn) | [After Midnight](https://open.spotify.com/album/3ZK1PT3Q5D1cwXDIEeKp2R) | 2:01 | 2022-04-07 |  |

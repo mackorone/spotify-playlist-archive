@@ -242,6 +242,24 @@
     },
     {
       "album": {
+        "name": "Collector's Series: The Duprees",
+        "url": "https://open.spotify.com/album/06F6OzmBjqLqVAL5EKp2FL"
+      },
+      "artists": [
+        {
+          "name": "The Duprees",
+          "url": "https://open.spotify.com/artist/6nYTjfJFNic9m83TROYHUS"
+        }
+      ],
+      "date_added": "2020-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 149813,
+      "name": "Have You Heard",
+      "url": "https://open.spotify.com/track/3pfT4EO3rL1p6jBBD9AuY0"
+    },
+    {
+      "album": {
         "name": "Hits Singles: Collectors Series",
         "url": "https://open.spotify.com/album/0gPMn15Lddsz0xpsxjCfcH"
       },

@@ -1420,6 +1420,28 @@
     },
     {
       "album": {
+        "name": "D\u00edas As\u00ed",
+        "url": "https://open.spotify.com/album/442h4OS4JBOjmdi8NhtaJF"
+      },
+      "artists": [
+        {
+          "name": "Eli Almic",
+          "url": "https://open.spotify.com/artist/5KXdJKZm2dVPkKmbitndiR"
+        },
+        {
+          "name": "Migue Nieto",
+          "url": "https://open.spotify.com/artist/1FvhJ1jh2W7sEutFdqPomy"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174250,
+      "name": "No Era una Pavada",
+      "url": "https://open.spotify.com/track/6cTZqcfAsLMM6GAw7Qmlh0"
+    },
+    {
+      "album": {
         "name": "No Era una Pavada",
         "url": "https://open.spotify.com/album/4Fh6W97q8UGIeIC1b1H0hw"
       },
@@ -1439,7 +1461,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 174250,
       "name": "No Era una Pavada",
       "url": "https://open.spotify.com/track/67hP1mGFH97G6J6vIB85zf"

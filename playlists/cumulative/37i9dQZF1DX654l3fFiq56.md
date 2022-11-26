@@ -4,10 +4,11 @@
 
 > 雞年生的人謙虛謹慎、端莊尊貴，而且經常是眾人的注目焦點哦！看看有哪些歌手吧！Cover: 林俊傑 \(JJ Lin\)
 
-38 songs - 2 hr 34 min - [published](https://open.spotify.com/playlist/2TEJLTWYDkfTxvlZ3EebJ4)
+39 songs - 2 hr 38 min - [published](https://open.spotify.com/playlist/2TEJLTWYDkfTxvlZ3EebJ4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Be Your Sunshine](https://open.spotify.com/track/5zvh2f3B9GPqJyg2A1ll2p) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [Be Your Sunshine](https://open.spotify.com/album/3Z1Ua9WOKPVhxhykfcnVyr) | 3:35 | 2022-01-11 | 2022-11-14 |
 | [Be Your Sunshine](https://open.spotify.com/track/4Z0x5o2SW2hm2BbvAejbuy) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [Reset](https://open.spotify.com/album/1uz1ah9nwO6YjBh3GvloWt) | 3:35 | 2022-01-11 |  |
 | [COLORFUL](https://open.spotify.com/track/4oNbnRaCAk6NNNVkvns7xV) | [婁峻碩](https://open.spotify.com/artist/40sntfyZsRwGfDgSJnxYuX) | [BOARDING](https://open.spotify.com/album/32zpkIvqSz1poGJQo1pww3) | 3:36 | 2021-01-23 | 2022-01-12 |
 | [feels like a remix](https://open.spotify.com/track/3dP1XtLiQTjMUQZcdum9XS) | [婁峻碩](https://open.spotify.com/artist/40sntfyZsRwGfDgSJnxYuX), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [feels like a remix](https://open.spotify.com/album/2OeoJixbyHMhmRzJm3ok3o) | 3:49 | 2022-01-11 |  |

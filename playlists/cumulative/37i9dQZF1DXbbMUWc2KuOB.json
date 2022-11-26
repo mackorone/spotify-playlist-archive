@@ -575,7 +575,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-03",
       "duration_ms": 254363,
       "name": "Confession (Inst.)",
       "url": "https://open.spotify.com/track/7A63UiHZvFru4yuzcZ9OW9"
@@ -665,7 +665,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-31",
+      "date_removed": null,
       "duration_ms": 229101,
       "name": "Did - Thirty-nine Instrumental Version",
       "url": "https://open.spotify.com/track/2PKuQxcVQZiyizrDfuqmtS"
@@ -795,7 +795,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 227530,
       "name": "Falling Flower (Dajung Ver.) (Inst.)",
       "url": "https://open.spotify.com/track/4sUJpzwr8AYsYtyH4xu75m"
@@ -849,7 +849,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 256680,
       "name": "Farewell In Tears - Instrumental",
       "url": "https://open.spotify.com/track/3naRPYN8jxHrUppJ8qgE6v"
@@ -1155,7 +1155,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": "2022-11-24",
       "duration_ms": 279779,
       "name": "Home Instrumental",
       "url": "https://open.spotify.com/track/5HHEhGBLhP6NAHNqXCkJeA"
@@ -1371,7 +1371,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-16",
       "duration_ms": 222786,
       "name": "I'll Take You To Tomorrow - Instrumental",
       "url": "https://open.spotify.com/track/4wD07bJUFDTNWeqqYkYgxG"
@@ -1789,7 +1789,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-05",
+      "date_removed": "2022-11-11",
       "duration_ms": 192000,
       "name": "Love, This - Instrumental",
       "url": "https://open.spotify.com/track/6cnIxIEf69ZwGgZcCmjyKm"
@@ -1825,7 +1825,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-10",
+      "date_removed": null,
       "duration_ms": 285280,
       "name": "Memories More than love - Instrumental",
       "url": "https://open.spotify.com/track/1CltdzmU5Fdaq4fe6tgfE8"
@@ -2395,7 +2395,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 170746,
       "name": "Say I Love U - Instrumental",
       "url": "https://open.spotify.com/track/253auyXWaaHMBWJXs63h5m"
@@ -2449,7 +2449,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 268438,
       "name": "So Tender - Instrumental",
       "url": "https://open.spotify.com/track/5FyAoLd523NbvHcfQu1yul"
@@ -2539,7 +2539,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 236573,
       "name": "Stay with me",
       "url": "https://open.spotify.com/track/6o3LRRdo47fH25HmN8LysW"
@@ -2597,24 +2597,6 @@
       "duration_ms": 216734,
       "name": "Sunset - Instrumental",
       "url": "https://open.spotify.com/track/6FKSuCEc4UiO8gJidJKaoz"
-    },
-    {
-      "album": {
-        "name": "Romance is a Bonus Book OST Part.1",
-        "url": "https://open.spotify.com/album/5ouASCTRr1UL6S5g9k9C1R"
-      },
-      "artists": [
-        {
-          "name": "JANNABI",
-          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
-        }
-      ],
-      "date_added": "2022-04-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 224021,
-      "name": "Take My Hand (Instrumental)",
-      "url": "https://open.spotify.com/track/2gWhI5qs1hx9VrCzmFyqbb"
     },
     {
       "album": {
@@ -3069,6 +3051,24 @@
       "duration_ms": 209482,
       "name": "\uadf8\ub300\ub77c\ub294 \uc2dc - Instrumental",
       "url": "https://open.spotify.com/track/0uG3MzYKF4ti9nZXB4Nz1P"
+    },
+    {
+      "album": {
+        "name": "\ub85c\ub9e8\uc2a4\ub294 \ubcc4\ucc45\ubd80\ub85d OST Part.1",
+        "url": "https://open.spotify.com/album/5ouASCTRr1UL6S5g9k9C1R"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224021,
+      "name": "\ub098\ub294 \ubcfc \uc218 \uc5c6\ub358 \uc774\uc57c\uae30 (Inst.) (Instrumental)",
+      "url": "https://open.spotify.com/track/2gWhI5qs1hx9VrCzmFyqbb"
     },
     {
       "album": {

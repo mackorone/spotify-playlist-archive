@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvfORzIlDQm.md) - [plain]
 
 > A collection of roots music and covers urging peace and calling for change\. Cover: Tré Burt
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,447 likes - 54 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,766 likes - 54 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvfORzIlDQm.md) - [plain]
 | 21 | [Young, Black and Beautiful](https://open.spotify.com/track/5HyHmrM9Agef0556T4qhJW) | [Chris Pierce](https://open.spotify.com/artist/559oVBc653k5TOpiwhhr3r) | [Young, Black and Beautiful](https://open.spotify.com/album/2QbJt6O1XgVZwYRXLWi4Gn) | 2:31 |
 | 22 | [I'm Going Away](https://open.spotify.com/track/1ZcBa2buf2Mx5LHTyOujri) | [Elizabeth Cotten](https://open.spotify.com/artist/1eTZGzLkukATM7FoGltyFs) | [Shake Sugaree](https://open.spotify.com/album/7t6jknbXRsm0Us3dxwcLbt) | 3:25 |
 | 23 | [What's Going On](https://open.spotify.com/track/1c1exoaNbV6w3cydNDw5wF) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH), [Jasmine Cephas\-Jones](https://open.spotify.com/artist/4H3e5t5utgPvj6Nsuda5QF) | [What's Going On](https://open.spotify.com/album/0ZgGiET6nxLm3cQTaMS3gx) | 4:27 |
-| 24 | [All You Fascists Bound To Lose](https://open.spotify.com/track/2Wi7o9PKa9kF7pZ6RvPQ18) | [Resistance Revival Chorus](https://open.spotify.com/artist/5GAZngXqtUrssaaExOGeT1), [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [All You Fascists Bound To Lose](https://open.spotify.com/album/0HjRc6KFqCrqbc0A16YmMN) | 3:21 |
+| 24 | [All You Fascists Bound To Lose](https://open.spotify.com/track/0lYykZNNBNE33o5izvZFrG) | [Resistance Revival Chorus](https://open.spotify.com/artist/5GAZngXqtUrssaaExOGeT1), [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [This Joy](https://open.spotify.com/album/7IO5HuUUAnqxLpnkHva4Ud) | 3:21 |
 | 25 | [Mississippi Goddam \(feat\. Adia Victoria & Kyshona Armstrong\)](https://open.spotify.com/track/5d02bbrSQZzjZzEfKiopHm) | [Kelsey Waldon](https://open.spotify.com/artist/6hQxXJuBnpCcS2VLTezQv1), [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl), [Kyshona](https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA) | [Mississippi Goddam / They'll Never Keep Us Down](https://open.spotify.com/album/7dn7kSgHlzwaPD8aVrh8O3) | 4:54 |
 | 26 | [Witness](https://open.spotify.com/track/7qk0JiIuL72IDeADaj1nSY) | [Benjamin Booker](https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5) | [Witness](https://open.spotify.com/album/3jkf9bFHemgq4Gt46DWBnY) | 2:57 |
 | 27 | [Cathedrals](https://open.spotify.com/track/3ix3bHsj4H8ceIuMe4T5T9) | [Ruby Amanfu](https://open.spotify.com/artist/1lpu6LF7kS0bfnu43pi2u0) | [Standing Still](https://open.spotify.com/album/5dfqwRqPagZSKyB6qRTW2X) | 3:57 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvfORzIlDQm.md) - [plain]
 | 53 | [Woodstock](https://open.spotify.com/track/1cXOxrN1qDxgjDvqcJANKc) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Woodstock](https://open.spotify.com/album/6S2lVoBmDELDPVgMtETs1I) | 5:07 |
 | 54 | [Give The People What They Want](https://open.spotify.com/track/5GSVH5qhutFR5k95UMqzTg) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Give The People What They Want](https://open.spotify.com/album/3bKA19kc24Ro0wtEO0IlCg) | 3:45 |
 
-Snapshot ID: `MTY0NDI0NDU0MSwwMDAwMDAwMDVjOGI3MDQ2YmZmYTU0MjE1ZTlkZjg5ZDEyMzE5MTY2`
+Snapshot ID: `MTY0NDI0NDU0MSwwMDAwMDAwMDQ4OTk4NDVjM2Y4OTI2N2NiZjJmMzVkOWQzY2ViMmQ4`

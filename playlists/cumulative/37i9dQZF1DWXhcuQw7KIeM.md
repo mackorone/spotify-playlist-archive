@@ -4,7 +4,7 @@
 
 > From the very deep spirit of the almighty North\. Cover: The HU
 
-103 songs - 9 hr 32 min - [published](https://open.spotify.com/playlist/1mxT9VBVPBq4KOuVH5Aq5o)
+109 songs - 10 hr 8 min - [published](https://open.spotify.com/playlist/1mxT9VBVPBq4KOuVH5Aq5o)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Ella](https://open.spotify.com/track/6QXieDRlH4Ofjg864USffV) | [Myrkur](https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa) | [Ella](https://open.spotify.com/album/4Bb09POxCDNaLQPXWO4qv9) | 3:54 | 2022-05-13 |  |
 | [Fehu \- First Flight of the White Raven LIVE](https://open.spotify.com/track/4JEFld1zyKtbLaKMwdRmTh) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Fehu \(First Flight of the White Raven LIVE\)](https://open.spotify.com/album/23ghp02cykc1CY2BWn74RR) | 5:28 | 2022-05-13 | 2022-07-29 |
 | [Fehu \- First Flight of the White Raven LIVE](https://open.spotify.com/track/6maBoD5dTSlChuGblBLc8E) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Kvitravn \- First Flight of the White Raven](https://open.spotify.com/album/7rMCly66gjyiT6KFNNAuTB) | 5:28 | 2022-07-08 |  |
+| [Fehu \- First Flight of the White Raven LIVE](https://open.spotify.com/track/7o2r2AYbKNQV1GE6Bmke6a) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Fehu \(First Flight of the White Raven Live\)](https://open.spotify.com/album/0NKnjpBvXwcgscEcpTdxjx) | 5:28 | 2022-10-07 | 2022-11-14 |
 | [Fenris](https://open.spotify.com/track/1QvKHj2NLCuJoFeoe30nLU) | [Ereb Altor](https://open.spotify.com/artist/11sL6ZJmmfutSoWopcXbFm) | [Fenris](https://open.spotify.com/album/7LDHiI3WUZhXqh313wu87n) | 5:47 | 2022-05-13 |  |
 | [Fenrisulven](https://open.spotify.com/track/0f6xnKf22Ugw6soMLJpweE) | [Ereb Altor](https://open.spotify.com/artist/11sL6ZJmmfutSoWopcXbFm) | [Eldens Boning](https://open.spotify.com/album/5kwVc4LpCnd6irdTaFR6OZ) | 5:14 | 2022-05-13 | 2022-07-29 |
 | [Fenrisulven](https://open.spotify.com/track/0lX88U7WDVsMRGLGycgrHv) | [Ereb Altor](https://open.spotify.com/artist/11sL6ZJmmfutSoWopcXbFm) | [Eldens Boning](https://open.spotify.com/album/32Bh1azfFuZM47La4mKnyP) | 5:14 | 2022-07-08 |  |
@@ -50,6 +51,7 @@
 | [Leaving Valhalla](https://open.spotify.com/track/2g0iFselHG8Tdd5UMWaobE) | [Jesper Kyd](https://open.spotify.com/artist/3m6alJyeKYSCZ8078ttfaH) | [Assassin's Creed Valhalla \(Original Game Soundtrack\)](https://open.spotify.com/album/14p9JmhV36K6jzhyqrXmUl) | 1:32 | 2022-05-13 |  |
 | [Les](https://open.spotify.com/track/4zrkDm3R7bM53Tvknv5dks) | [Theodor Bastard](https://open.spotify.com/artist/2PQ9UX4kWDE3mf2fYGRzqF) | [Volch'ya Yagoda](https://open.spotify.com/album/0UWdMPkfaHzQclhYQc43fS) | 4:09 | 2022-05-13 |  |
 | [Lorn and Loath](https://open.spotify.com/track/2fIMFAMxuJEwNBnsD1gI7l) | [Wolcensmen](https://open.spotify.com/artist/2valAzrV6xeHL0weVnIAp8) | [Fire in the White Stone](https://open.spotify.com/album/1ZSrG9WgZewjkbKTw1gwg6) | 7:35 | 2022-07-08 |  |
+| [Lorn and Loath](https://open.spotify.com/track/73qYS0GZUcEwTagjlHt3Jd) | [Wolcensmen](https://open.spotify.com/artist/2valAzrV6xeHL0weVnIAp8) | [Lorn and Loath](https://open.spotify.com/album/4cAXLQhqL9YpxktpvuuFTF) | 7:35 | 2022-10-07 | 2022-11-13 |
 | [Lorn and Loath](https://open.spotify.com/track/7dEaI9CRR47tyamPx1lBfP) | [Wolcensmen](https://open.spotify.com/artist/2valAzrV6xeHL0weVnIAp8) | [Lorn and Loath](https://open.spotify.com/album/0jpbUfolUgPX3H4FKHdUSf) | 7:35 | 2022-05-13 | 2022-07-29 |
 | [Mandara](https://open.spotify.com/track/5U0awMJOLy123ikEFUIfHt) | [Vas](https://open.spotify.com/artist/7bUGU28qbm4vGTSrha1H55) | [Feast Of Silence](https://open.spotify.com/album/1QTNlTne1hb0WHJe0sF6K4) | 6:23 | 2022-05-13 |  |
 | [Norupo](https://open.spotify.com/track/6HptVLMwjkTcwjDi4Tq6if) | [Heilung](https://open.spotify.com/artist/7sTKZr30LqC928DZ5P9mNQ) | [Norupo](https://open.spotify.com/album/2dqDsdWvvKA1CDHcD3UwFc) | 4:17 | 2022-05-13 |  |
@@ -62,6 +64,7 @@
 | [Räven](https://open.spotify.com/track/1sfAfFLr4lAuw9vEIIVoKc) | [Hedningarna](https://open.spotify.com/artist/0Y5ldP4uHArYLgHdljfmAu) | [TRÄ](https://open.spotify.com/album/0ehNjbwNSkhxgSJvUHrjOw) | 4:52 | 2022-07-08 | 2022-09-17 |
 | [Räven](https://open.spotify.com/track/1tzL0ZN9RGFPROrFikLVZk) | [Hedningarna](https://open.spotify.com/artist/0Y5ldP4uHArYLgHdljfmAu) | [TRÄ](https://open.spotify.com/album/7cdb2iO13iwekXoOlYej94) | 4:52 | 2022-08-26 |  |
 | [Räven](https://open.spotify.com/track/6RWqj44MynFix4pFyhI9t9) | [Hedningarna](https://open.spotify.com/artist/0Y5ldP4uHArYLgHdljfmAu) | [Trä](https://open.spotify.com/album/6Z6a2CiJqcvq3WXfLgjqfJ) | 4:52 | 2022-05-13 | 2022-07-29 |
+| [Rún](https://open.spotify.com/track/1MjMpqiHCPQdPUdG44P2U4) | [SKÁLD](https://open.spotify.com/artist/3uliAYf4KyTkBpVf3BiWVv) | [SKÁLD](https://open.spotify.com/album/7IjcTZQThdCKOl7DYvX0Zu) | 2:40 | 2022-10-07 | 2022-11-13 |
 | [Rún](https://open.spotify.com/track/34hYH6o60RtUv5u5UUgnd0) | [SKÁLD](https://open.spotify.com/artist/3uliAYf4KyTkBpVf3BiWVv) | [Vikings Chant \(Alfar Fagrahvél Edition\)](https://open.spotify.com/album/3yapZbvOcHcqs4vH0VPfgF) | 2:40 | 2022-07-08 |  |
 | [Rún](https://open.spotify.com/track/4YmSk5JhkXdiG0LbQgjXma) | [SKÁLD](https://open.spotify.com/artist/3uliAYf4KyTkBpVf3BiWVv) | [Vikings Chant](https://open.spotify.com/album/2lA9qxoicTpczW6FyCySzH) | 2:40 | 2022-05-13 | 2022-07-29 |
 | [Seidfylgjur](https://open.spotify.com/track/0kyH6SWNBMNnBiK8R15dwl) | [Rúnahild](https://open.spotify.com/artist/6B28AjXpmQglsDG2hHAwg3) | [Seidfylgjur](https://open.spotify.com/album/6gFf0gVsTsA1gB3d1Whj8e) | 4:20 | 2022-05-13 |  |
@@ -74,6 +77,7 @@
 | [Snake Pit Poetry](https://open.spotify.com/track/3HLTjYKY7P2O35QyPr70Xz) | [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5), [Hilda Örvarsdóttir](https://open.spotify.com/artist/6K1UpnQXOyZtQYjydqbHS1) | [Snake Pit Poetry](https://open.spotify.com/album/0Yc1J017Kb0vwAZiak3w4Z) | 7:08 | 2022-05-13 | 2022-07-29 |
 | [Spatle Ǣghwas](https://open.spotify.com/track/19SiWAlY1HyTNqgUCEOvQi) | [Sowulo](https://open.spotify.com/artist/4BkdqpIEhl0tKZ5xpAo5pR) | [Spatle Ǣghwas](https://open.spotify.com/album/18QwVgSM6Ru8A8Sc1jO6xm) | 4:20 | 2022-05-13 |  |
 | [Stay](https://open.spotify.com/track/3foIGbQ1FPZYJJ7RQ6v4Nj) | [Numenorean](https://open.spotify.com/artist/2qBGuYUZX53HN4Vk7Msjlc) | [Adore](https://open.spotify.com/album/4Yf0HZRHPCZvRteeDMLcul) | 2:21 | 2022-05-13 |  |
+| [Storm Son](https://open.spotify.com/track/3UVz5L4dNHmovBj7xCvDfZ) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD) | [Nuclear Blast Showdown Winter 2017](https://open.spotify.com/album/4P6R6IRALy9NKyqTOiLKyB) | 10:54 | 2022-10-07 | 2022-11-13 |
 | [Storm Son](https://open.spotify.com/track/4uAKoEAjpEXhwpzZfWiGhJ) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD) | [E](https://open.spotify.com/album/384vCqFNNWXumypoRHeKDN) | 10:54 | 2022-05-13 | 2022-07-29 |
 | [Storm Son](https://open.spotify.com/track/6obT3ZJ0SQLSGuFS6PWaT8) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD) | [E](https://open.spotify.com/album/4I62KutcTuOqExb7fDeJU3) | 10:54 | 2022-07-08 |  |
 | [Sven i Rosengård](https://open.spotify.com/track/1n8xLLvELDH8wmroa1hm1H) | [Garmarna](https://open.spotify.com/artist/7ED7dE68y0YZGpyXcuiRsI) | [Förbundet](https://open.spotify.com/album/6HTeDbq8HlLFE78im6CjyV) | 5:24 | 2022-05-13 |  |
@@ -96,10 +100,12 @@
 | [Urzala](https://open.spotify.com/track/6CRcyL0s068af2UWWBvaJM) | [Theodor Bastard](https://open.spotify.com/artist/2PQ9UX4kWDE3mf2fYGRzqF) | [Volch'ya Yagoda](https://open.spotify.com/album/0UWdMPkfaHzQclhYQc43fS) | 4:04 | 2022-05-13 |  |
 | [Valhalla Rising](https://open.spotify.com/track/6gSM7SxQDHbBibGoUrxWbO) | [Nytt Land](https://open.spotify.com/artist/6NQ701XGEJodDZ5lqVtrBp) | [Valhalla Rising](https://open.spotify.com/album/78glhD3Zl57f1MeXjESFKI) | 7:03 | 2022-05-13 |  |
 | [Varjo](https://open.spotify.com/track/0rBunHSvmi7ee3VSzna3er) | [Lost In Grey](https://open.spotify.com/artist/36V2JuO5EMWTRwf8sd6ior) | [Under the Surface](https://open.spotify.com/album/7srCSseLFjcDZFwip9QLwJ) | 5:39 | 2022-07-08 |  |
+| [Varjo](https://open.spotify.com/track/2Qggo2P26yyyuzdHgueQc0) | [Lost In Grey](https://open.spotify.com/artist/36V2JuO5EMWTRwf8sd6ior) | [Varjo](https://open.spotify.com/album/4wqAwqEXhub8SrdidM4pYP) | 5:39 | 2022-10-07 | 2022-11-13 |
 | [Varjo](https://open.spotify.com/track/5V7GpFS9TX3JnNJtdDxNqR) | [Lost In Grey](https://open.spotify.com/artist/36V2JuO5EMWTRwf8sd6ior) | [Varjo](https://open.spotify.com/album/37xsrFZKpKpqDlNkKXm4wb) | 5:39 | 2022-05-13 | 2022-07-29 |
 | [Vindr](https://open.spotify.com/track/6zcPcvIJ1pf9eAdrWFHdgR) | [Asynje](https://open.spotify.com/artist/42mveNsBgkZr7J2aMZQouQ), [Nanna Barslev](https://open.spotify.com/artist/5icXwn4kNVG6IZz7TmaaFI) | [Galdr](https://open.spotify.com/album/5EIujAPdoMNJepCWvKA6Tn) | 5:18 | 2022-05-13 |  |
 | [Vårvindar friska](https://open.spotify.com/track/7ED5a6srDnZM0wJnoawdg9) | [Poeta Magica](https://open.spotify.com/artist/05rF7qOxpYQLqB8UtXQ95M) | [SAGA](https://open.spotify.com/album/4awU55cC5ODqORv8CYcuZQ) | 5:31 | 2022-05-13 |  |
-| [Warriors](https://open.spotify.com/track/076NaJ29oWZdjo5Sbs0piR) | [I Am Your God](https://open.spotify.com/artist/5jmZYC9vzvvJnN0QHExUsn) | [Warriors](https://open.spotify.com/album/4nV3V4jyyLal42HZBHGNAQ) | 3:55 | 2022-10-07 |  |
+| [Warriors](https://open.spotify.com/track/076NaJ29oWZdjo5Sbs0piR) | [I Am Your God](https://open.spotify.com/artist/5jmZYC9vzvvJnN0QHExUsn) | [Warriors](https://open.spotify.com/album/4nV3V4jyyLal42HZBHGNAQ) | 3:55 | 2022-10-07 | 2022-11-24 |
+| [Warriors](https://open.spotify.com/track/3TsTOSDvHqg3rA4OWHmsea) | [I Am Your God](https://open.spotify.com/artist/5jmZYC9vzvvJnN0QHExUsn) | [Warriors](https://open.spotify.com/album/4fGVgwLbnzFV8q6EaxxsKn) | 3:55 | 2022-10-07 |  |
 | [Wolf Totem](https://open.spotify.com/track/6uCzY8MKTcLDExUR6nGl99) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [Wolf Totem](https://open.spotify.com/album/7llI8I1yBGYutWAbVob3ls) | 5:38 | 2022-05-13 | 2022-07-08 |
 | [Wulfwiga](https://open.spotify.com/track/37g06WD4w62ipxpBIbQN16) | [Sowulo](https://open.spotify.com/artist/4BkdqpIEhl0tKZ5xpAo5pR) | [Mann](https://open.spotify.com/album/7K6iSnHtArU3SaXBFseCob) | 4:16 | 2022-05-13 |  |
 | [Yggdrasil](https://open.spotify.com/track/27nlXliCG4tYCox6Ov9p40) | [Forndom](https://open.spotify.com/artist/1DO3ytbfXlJUOoy77yH7IH) | [Faþir](https://open.spotify.com/album/7cOPDPI7NelUNNmbw8pHPC) | 4:15 | 2022-07-08 |  |

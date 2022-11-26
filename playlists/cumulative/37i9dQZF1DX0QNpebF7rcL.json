@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best in blues right now. Cover: Buddy Guy",
+  "description": "The best in blues right now. Cover: Joe Louis Walker",
   "name": "Got Blues",
   "published_playlist_ids": [
     "6WXBnoSHTaV1fXgP91Rwcb"
@@ -167,6 +167,24 @@
       "duration_ms": 247478,
       "name": "Amen",
       "url": "https://open.spotify.com/track/59pMk1hZKKYQw1itapEMCI"
+    },
+    {
+      "album": {
+        "name": "American Dream",
+        "url": "https://open.spotify.com/album/6c7Ay78lDG9A3xep8taktA"
+      },
+      "artists": [
+        {
+          "name": "Darryl Jones",
+          "url": "https://open.spotify.com/artist/3AnAntOFWOdjn8Fn02sfV8"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251439,
+      "name": "American Dream",
+      "url": "https://open.spotify.com/track/0A2nLIAI5it1fRJYGJ5Qyp"
     },
     {
       "album": {
@@ -438,6 +456,42 @@
     },
     {
       "album": {
+        "name": "Wrestling Me",
+        "url": "https://open.spotify.com/album/0iVylOcZFHmsl0s4NbQfIC"
+      },
+      "artists": [
+        {
+          "name": "Sam Burchfield",
+          "url": "https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 277733,
+      "name": "Bonnie",
+      "url": "https://open.spotify.com/track/1C0dpv9j64iD0Nmg4cwsvD"
+    },
+    {
+      "album": {
+        "name": "Scoundrel",
+        "url": "https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O"
+      },
+      "artists": [
+        {
+          "name": "Sam Burchfield",
+          "url": "https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277733,
+      "name": "Bonnie",
+      "url": "https://open.spotify.com/track/1PNPixI2jwff1KZDJtStTz"
+    },
+    {
+      "album": {
         "name": "Bonnie",
         "url": "https://open.spotify.com/album/6TpMAQZqwXrU5JbT7r57EF"
       },
@@ -467,7 +521,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 277733,
       "name": "Bonnie",
       "url": "https://open.spotify.com/track/5q49F0QAhWWnIDhNOyAhfV"
@@ -627,6 +681,28 @@
       "duration_ms": 223546,
       "name": "Cornbread, Peas, Black Molasses",
       "url": "https://open.spotify.com/track/3nRr46yu7zDTd8ly3PZNXn"
+    },
+    {
+      "album": {
+        "name": "Cryin\u2019 Won\u2019t Help You",
+        "url": "https://open.spotify.com/album/7lz81CRxzCYmryRTxThLaO"
+      },
+      "artists": [
+        {
+          "name": "Paul Carrack",
+          "url": "https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz"
+        },
+        {
+          "name": "The SWR Big Band",
+          "url": "https://open.spotify.com/artist/4WnYuKbhxAKXJ8yAvvOsfW"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269816,
+      "name": "Cryin' Won\u00b4t Help You",
+      "url": "https://open.spotify.com/track/1Sfcy8w25PbenC7Xvl5LSk"
     },
     {
       "album": {
@@ -2283,10 +2359,28 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 219641,
       "name": "Mirror Blues",
       "url": "https://open.spotify.com/track/2YrssxTCneR1rjBTzoaaKS"
+    },
+    {
+      "album": {
+        "name": "Alone With Blues",
+        "url": "https://open.spotify.com/album/4zb5t7MpwxLujrl50tSPQN"
+      },
+      "artists": [
+        {
+          "name": "Diesel",
+          "url": "https://open.spotify.com/artist/4rCLXPaqaUjGa1aHDwkviR"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219641,
+      "name": "Mirror Blues",
+      "url": "https://open.spotify.com/track/4mFBpN5jyZCcYLQCw1aoRX"
     },
     {
       "album": {
@@ -2496,6 +2590,24 @@
     },
     {
       "album": {
+        "name": "Nobody's Fool",
+        "url": "https://open.spotify.com/album/6zs5N5LbUBgVQRESHqB4LV"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216893,
+      "name": "Nobody's Fool",
+      "url": "https://open.spotify.com/track/1s2I2P6bXRdQyePO016Os9"
+    },
+    {
+      "album": {
         "name": "Oh Betty",
         "url": "https://open.spotify.com/album/0K9R41oPagcN9NoH8dLq1o"
       },
@@ -2679,6 +2791,24 @@
       "duration_ms": 197281,
       "name": "Pay Day",
       "url": "https://open.spotify.com/track/1iT4ldPXWLtm6L80p0V7Yh"
+    },
+    {
+      "album": {
+        "name": "Keep on Lovin' the Blues",
+        "url": "https://open.spotify.com/album/1tMXPwrzgheCnI2QGY5Ypm"
+      },
+      "artists": [
+        {
+          "name": "John Primer",
+          "url": "https://open.spotify.com/artist/1CePnHlc38UfIQovWgyzKP"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232200,
+      "name": "Pay the Price",
+      "url": "https://open.spotify.com/track/7wWH5g020mkyhjo0zzL3ty"
     },
     {
       "album": {
@@ -3676,6 +3806,24 @@
     },
     {
       "album": {
+        "name": "The Question",
+        "url": "https://open.spotify.com/album/3I3fGqtBn1ddWKEL7aYDAd"
+      },
+      "artists": [
+        {
+          "name": "Henrik Freischlader",
+          "url": "https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447487,
+      "name": "The Question",
+      "url": "https://open.spotify.com/track/358TP1XP2PYWXM0RsLwmlY"
+    },
+    {
+      "album": {
         "name": "The Razor's Edge",
         "url": "https://open.spotify.com/album/02s5nUzMHfzimxjGf8Pokn"
       },
@@ -3691,6 +3839,24 @@
       "duration_ms": 182480,
       "name": "The Razor's Edge",
       "url": "https://open.spotify.com/track/7nTpEMGsLOfPL9ke7F2SFH"
+    },
+    {
+      "album": {
+        "name": "The Weight of the World",
+        "url": "https://open.spotify.com/album/3RQaoFuQJJNevZPJHOG0I9"
+      },
+      "artists": [
+        {
+          "name": "Joe Louis Walker",
+          "url": "https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265045,
+      "name": "The Weight of the World",
+      "url": "https://open.spotify.com/track/19WctrvueGYOWMe6eBFmBi"
     },
     {
       "album": {

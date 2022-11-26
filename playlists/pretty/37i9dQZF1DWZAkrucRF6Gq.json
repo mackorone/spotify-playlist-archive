@@ -1,15 +1,31 @@
 {
   "description": "Celebrated masters of 'French touch', This Is Daft Punk.",
-  "num_followers": 825255,
+  "num_followers": 834876,
   "original_name": "This Is Daft Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTU2ODUyMCwwMDAwMDAwMDdmMTcxZDBhZTc2Nzg1OGNlNmJmNDFhOTNhYjdkZjkw",
+  "snapshot_id": "MTY2Nzk3NDgxNywwMDAwMDAwMGNkOWE2MjQxYzAxY2M2ZWM2YzY4Mjk5MTM4YjJmZmJj",
   "tracks": [
     {
-      "added_at": "2022-02-22 22:22:00",
+      "added_at": "2022-11-09 06:20:09",
+      "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 320357,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV"
+    },
+    {
+      "added_at": "2022-11-09 06:20:09",
       "album": {
         "name": "Homework",
         "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN"
     },
     {
-      "added_at": "2022-02-22 22:22:00",
+      "added_at": "2022-11-09 06:20:09",
       "album": {
         "name": "Get Lucky (feat. Pharrell Williams & Nile Rodgers) [Radio Edit]",
         "url": "https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA"
@@ -49,23 +65,7 @@
       "url": "https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof"
     },
     {
-      "added_at": "2022-02-22 22:22:00",
-      "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 320357,
-      "name": "One More Time",
-      "url": "https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV"
-    },
-    {
-      "added_at": "2022-02-22 22:22:00",
+      "added_at": "2022-11-09 06:20:09",
       "album": {
         "name": "Homework",
         "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/0MyY4WcN7DIfbSmp5yej5z"
     },
     {
-      "added_at": "2022-02-22 22:22:00",
+      "added_at": "2022-11-09 06:20:09",
       "album": {
         "name": "Random Access Memories",
         "url": "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa"
@@ -101,7 +101,7 @@
       "url": "https://open.spotify.com/track/2cGxRwrMyEAp8dEbuZaVv6"
     },
     {
-      "added_at": "2022-02-22 22:22:00",
+      "added_at": "2022-11-09 06:20:09",
       "album": {
         "name": "Discovery",
         "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
@@ -117,7 +117,7 @@
       "url": "https://open.spotify.com/track/5W3cjX2J3tjhG8zb6u0qHn"
     },
     {
-      "added_at": "2022-02-22 22:22:00",
+      "added_at": "2022-11-09 06:20:09",
       "album": {
         "name": "Starboy",
         "url": "https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/5GXAXm5YOmYT0kL5jHvYBt"
     },
     {
-      "added_at": "2022-02-22 22:22:00",
+      "added_at": "2022-11-09 06:20:09",
       "album": {
         "name": "Discovery",
         "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/2VEZx7NWsZ1D0eJ4uv5Fym"
     },
     {
-      "added_at": "2022-02-22 22:22:00",
+      "added_at": "2022-11-09 06:20:09",
       "album": {
         "name": "Random Access Memories",
         "url": "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/0oks4FnzhNp5QPTZtoet7c"
     },
     {
-      "added_at": "2022-02-22 22:22:00",
+      "added_at": "2022-11-09 06:20:09",
       "album": {
         "name": "Discovery",
         "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
@@ -185,7 +185,7 @@
       "url": "https://open.spotify.com/track/7cMFjxhbXBpOlais7KMF3j"
     },
     {
-      "added_at": "2022-02-22 22:22:00",
+      "added_at": "2022-11-09 06:20:09",
       "album": {
         "name": "Human After All",
         "url": "https://open.spotify.com/album/1A2GTWGtFfWp7KSQTwWOyo"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/4zu9wo2FXoBSsKjO6tRB3R"
     },
     {
-      "added_at": "2022-02-22 22:22:00",
+      "added_at": "2022-11-09 06:20:09",
       "album": {
         "name": "Homework",
         "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/5pgZpHqfv4TSomtkfGZGrG"
     },
     {
-      "added_at": "2022-02-22 22:22:00",
+      "added_at": "2022-11-09 06:20:09",
       "album": {
         "name": "Starboy",
         "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
     },
     {
-      "added_at": "2022-02-22 22:22:00",
+      "added_at": "2022-11-09 06:20:09",
       "album": {
         "name": "Random Access Memories",
         "url": "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa"
@@ -257,7 +257,7 @@
       "url": "https://open.spotify.com/track/5CMjjywI0eZMixPeqNd75R"
     },
     {
-      "added_at": "2022-02-22 22:22:00",
+      "added_at": "2022-11-09 06:20:09",
       "album": {
         "name": "Discovery",
         "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
@@ -273,7 +273,7 @@
       "url": "https://open.spotify.com/track/2LD2gT7gwAurzdQDQtILds"
     },
     {
-      "added_at": "2022-02-22 22:22:00",
+      "added_at": "2022-11-09 06:20:09",
       "album": {
         "name": "Random Access Memories",
         "url": "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa"
@@ -293,7 +293,7 @@
       "url": "https://open.spotify.com/track/7oaEjLP2dTJLJsITbAxTOz"
     },
     {
-      "added_at": "2022-02-22 22:22:00",
+      "added_at": "2022-11-09 06:20:09",
       "album": {
         "name": "Discovery",
         "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
@@ -309,7 +309,7 @@
       "url": "https://open.spotify.com/track/1NeLwFETswx8Fzxl2AFl91"
     },
     {
-      "added_at": "2022-02-22 22:22:00",
+      "added_at": "2022-11-09 06:20:09",
       "album": {
         "name": "Random Access Memories",
         "url": "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa"
@@ -325,7 +325,7 @@
       "url": "https://open.spotify.com/track/7Bxv0WL7UC6WwQpk9TzdMJ"
     },
     {
-      "added_at": "2022-02-22 22:22:00",
+      "added_at": "2022-11-09 06:20:09",
       "album": {
         "name": "Human After All",
         "url": "https://open.spotify.com/album/1A2GTWGtFfWp7KSQTwWOyo"
@@ -341,7 +341,7 @@
       "url": "https://open.spotify.com/track/1WnXCfO6oIxG0TbJj29MqR"
     },
     {
-      "added_at": "2022-02-22 22:22:00",
+      "added_at": "2022-11-09 06:20:09",
       "album": {
         "name": "Random Access Memories",
         "url": "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa"
@@ -361,7 +361,7 @@
       "url": "https://open.spotify.com/track/0IedgQjjJ8Ad4B3UDQ5Lyn"
     },
     {
-      "added_at": "2022-02-22 22:22:00",
+      "added_at": "2022-11-09 06:20:09",
       "album": {
         "name": "Daft Club",
         "url": "https://open.spotify.com/album/1O5WUh9KsgHT2QaUCJeVPG"
@@ -377,7 +377,7 @@
       "url": "https://open.spotify.com/track/37YWwmlRl1GonSwjRuOiEq"
     },
     {
-      "added_at": "2022-02-22 22:22:00",
+      "added_at": "2022-11-09 06:20:09",
       "album": {
         "name": "Homework (25th Anniversary Edition)",
         "url": "https://open.spotify.com/album/6JRaPcrT3cMBEmkgSqEPhI"
@@ -397,7 +397,7 @@
       "url": "https://open.spotify.com/track/3MERln0wX0uCa8BRSbSxIz"
     },
     {
-      "added_at": "2022-02-22 22:22:00",
+      "added_at": "2022-11-09 06:20:09",
       "album": {
         "name": "Human After All",
         "url": "https://open.spotify.com/album/1A2GTWGtFfWp7KSQTwWOyo"
@@ -413,7 +413,7 @@
       "url": "https://open.spotify.com/track/0LSLM0zuWRkEYemF7JcfEE"
     },
     {
-      "added_at": "2022-02-22 22:22:00",
+      "added_at": "2022-11-09 06:20:09",
       "album": {
         "name": "Homework",
         "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
@@ -429,7 +429,7 @@
       "url": "https://open.spotify.com/track/6hgBJPTHoDJyxydmtFWHKf"
     },
     {
-      "added_at": "2022-02-22 22:22:00",
+      "added_at": "2022-11-09 06:20:09",
       "album": {
         "name": "Discovery",
         "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
@@ -445,7 +445,7 @@
       "url": "https://open.spotify.com/track/098ttCNmncrO4YvqWUNMvn"
     },
     {
-      "added_at": "2022-02-22 22:22:00",
+      "added_at": "2022-11-09 06:20:09",
       "album": {
         "name": "Musique, Vol. 1",
         "url": "https://open.spotify.com/album/4a0p1M12f7VaZWdoNSdEK4"
@@ -465,11 +465,11 @@
         }
       ],
       "duration_ms": 240533,
-      "name": "Mothership Reconnection (feat.Parliament/Funkadelic) - (Daft Punk Remix)",
+      "name": "Mothership Reconnection (feat. Parliament/Funkadelic) - (Daft Punk Remix)",
       "url": "https://open.spotify.com/track/5aWVNrjqFHCATLIhS2na3t"
     },
     {
-      "added_at": "2022-02-22 22:22:00",
+      "added_at": "2022-11-09 06:20:09",
       "album": {
         "name": "TRON: Legacy",
         "url": "https://open.spotify.com/album/4US3nmuLIKELhVZdBPiKxx"
@@ -485,7 +485,7 @@
       "url": "https://open.spotify.com/track/5X4ojuZG2mZ68EcLyBQ1D3"
     },
     {
-      "added_at": "2022-02-22 22:22:00",
+      "added_at": "2022-11-09 06:20:09",
       "album": {
         "name": "Homework",
         "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
@@ -501,7 +501,7 @@
       "url": "https://open.spotify.com/track/6nSOhDfZOulWp0pnEHFrnn"
     },
     {
-      "added_at": "2022-02-22 22:22:00",
+      "added_at": "2022-11-09 06:20:09",
       "album": {
         "name": "Random Access Memories",
         "url": "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa"
@@ -521,7 +521,7 @@
       "url": "https://open.spotify.com/track/36c4JohayB9qd64eidQMBi"
     },
     {
-      "added_at": "2022-02-22 22:22:00",
+      "added_at": "2022-11-09 06:20:09",
       "album": {
         "name": "Human After All",
         "url": "https://open.spotify.com/album/1A2GTWGtFfWp7KSQTwWOyo"
@@ -537,7 +537,7 @@
       "url": "https://open.spotify.com/track/2ABpuao3ZbTjP2cSiX9KZc"
     },
     {
-      "added_at": "2022-02-22 22:22:00",
+      "added_at": "2022-11-09 06:20:09",
       "album": {
         "name": "Discovery",
         "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
@@ -553,7 +553,7 @@
       "url": "https://open.spotify.com/track/7v9Q0dAb9t7h8gJOkcJHay"
     },
     {
-      "added_at": "2022-02-22 22:22:00",
+      "added_at": "2022-11-09 06:20:09",
       "album": {
         "name": "Da Funk",
         "url": "https://open.spotify.com/album/4iPei0ERbLxTwUd888Hv5G"
@@ -569,7 +569,7 @@
       "url": "https://open.spotify.com/track/5N3FZ8eZ2mWwSWaJRAGHfS"
     },
     {
-      "added_at": "2022-02-22 22:22:00",
+      "added_at": "2022-11-09 06:20:09",
       "album": {
         "name": "Homework",
         "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
@@ -585,7 +585,7 @@
       "url": "https://open.spotify.com/track/4ZdjCuiWBv2weLftWPJ72c"
     },
     {
-      "added_at": "2022-02-22 22:22:00",
+      "added_at": "2022-11-09 06:20:09",
       "album": {
         "name": "Discovery",
         "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
@@ -601,7 +601,7 @@
       "url": "https://open.spotify.com/track/4npMbTuxrUA3Wd7edACZ2L"
     },
     {
-      "added_at": "2022-02-22 22:22:00",
+      "added_at": "2022-11-09 06:20:09",
       "album": {
         "name": "Homework",
         "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
@@ -617,7 +617,7 @@
       "url": "https://open.spotify.com/track/1PH5Es89c1cENU8WVuWwbp"
     },
     {
-      "added_at": "2022-02-22 22:22:00",
+      "added_at": "2022-11-09 06:20:09",
       "album": {
         "name": "Human After All",
         "url": "https://open.spotify.com/album/1A2GTWGtFfWp7KSQTwWOyo"
@@ -633,7 +633,7 @@
       "url": "https://open.spotify.com/track/3aByRUC2BVL6Fs1zI723sd"
     },
     {
-      "added_at": "2022-02-22 22:22:00",
+      "added_at": "2022-11-09 06:20:09",
       "album": {
         "name": "Homework",
         "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
@@ -649,7 +649,7 @@
       "url": "https://open.spotify.com/track/78H72MElkOY9cRnaudxZFY"
     },
     {
-      "added_at": "2022-02-22 22:22:00",
+      "added_at": "2022-11-09 06:20:09",
       "album": {
         "name": "Random Access Memories",
         "url": "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa"
@@ -665,7 +665,7 @@
       "url": "https://open.spotify.com/track/0dEIca2nhcxDUV8C5QkPYb"
     },
     {
-      "added_at": "2022-02-22 22:22:00",
+      "added_at": "2022-11-09 06:20:09",
       "album": {
         "name": "Discovery",
         "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
@@ -681,7 +681,7 @@
       "url": "https://open.spotify.com/track/3zMvotMEQK3xvH01vA9wAP"
     },
     {
-      "added_at": "2022-02-22 22:22:00",
+      "added_at": "2022-11-09 06:20:09",
       "album": {
         "name": "TRON: Legacy",
         "url": "https://open.spotify.com/album/4US3nmuLIKELhVZdBPiKxx"
@@ -697,7 +697,7 @@
       "url": "https://open.spotify.com/track/1xPec5BN0Zxv77zrWKq43S"
     },
     {
-      "added_at": "2022-02-22 22:22:00",
+      "added_at": "2022-11-09 06:20:09",
       "album": {
         "name": "Random Access Memories",
         "url": "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa"
@@ -713,7 +713,7 @@
       "url": "https://open.spotify.com/track/3ctALmweZBapfBdFiIVpji"
     },
     {
-      "added_at": "2022-02-22 22:22:00",
+      "added_at": "2022-11-09 06:20:09",
       "album": {
         "name": "Daft Club",
         "url": "https://open.spotify.com/album/1O5WUh9KsgHT2QaUCJeVPG"
@@ -729,7 +729,7 @@
       "url": "https://open.spotify.com/track/1pyTJdbGVBVvKXC3MtemHA"
     },
     {
-      "added_at": "2022-02-22 22:22:00",
+      "added_at": "2022-11-09 06:20:09",
       "album": {
         "name": "Random Access Memories",
         "url": "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa"

@@ -199,7 +199,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 199573,
       "name": "Atop a Cake",
       "url": "https://open.spotify.com/track/2d4VlnTyBVserhtyH3b9BZ"
@@ -419,6 +419,24 @@
       "duration_ms": 201413,
       "name": "Cleopatra",
       "url": "https://open.spotify.com/track/2ToW7zhGCrVrLU4fiKj9U1"
+    },
+    {
+      "album": {
+        "name": "Film trifft Klassik",
+        "url": "https://open.spotify.com/album/1Jk67VV9YnH7WUmNMBlwHd"
+      },
+      "artists": [
+        {
+          "name": "B. Kudanowski",
+          "url": "https://open.spotify.com/artist/0fqa5yr6KNfunoOKAW6TcM"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 142847,
+      "name": "Comptine d'un autre \u00e9t\u00e9 l'apr\u00e8s-midi - From \"Am\u00e9lie\"",
+      "url": "https://open.spotify.com/track/2igUeMIqtLOD7sGrOzvynK"
     },
     {
       "album": {
@@ -1029,7 +1047,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 170333,
       "name": "I Thought I Saw Your Face Today",
       "url": "https://open.spotify.com/track/4B1cHpLjzKUSm7LYGmxInZ"
@@ -1101,7 +1119,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": "2022-11-13",
       "duration_ms": 98706,
       "name": "I'm In Love With A Girl Who Doesn't Know I Exist",
       "url": "https://open.spotify.com/track/5Z65BlLozYrVXTleLuvWuW"
@@ -1659,7 +1677,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-09",
+      "date_removed": "2022-11-13",
       "duration_ms": 215680,
       "name": "Rain",
       "url": "https://open.spotify.com/track/0B54qwSQBsC4U8XtVVeoDj"
@@ -2081,6 +2099,24 @@
     {
       "album": {
         "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217984,
+      "name": "The Cave",
+      "url": "https://open.spotify.com/track/3vUn7FE3ZaQgJmkhIrIirF"
+    },
+    {
+      "album": {
+        "name": "Sigh No More",
         "url": "https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo"
       },
       "artists": [
@@ -2091,7 +2127,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 217986,
       "name": "The Cave",
       "url": "https://open.spotify.com/track/7IxVWmdabNVhfLBV3JD0nJ"
@@ -2185,6 +2221,24 @@
       "duration_ms": 238413,
       "name": "The Only Living Boy in New York",
       "url": "https://open.spotify.com/track/5MbXzXGbqobR8xPVPs8OXA"
+    },
+    {
+      "album": {
+        "name": "Raised By Wolves EP",
+        "url": "https://open.spotify.com/album/5t8nDcjqlWeSg73kA5mIRr"
+      },
+      "artists": [
+        {
+          "name": "Voxtrot",
+          "url": "https://open.spotify.com/artist/7b697TI9p2abLzSo3eJTKW"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 271746,
+      "name": "The Start Of Something",
+      "url": "https://open.spotify.com/track/4RuBZPklpqvhNvNdCNy18V"
     },
     {
       "album": {
@@ -2523,10 +2577,28 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-16",
       "duration_ms": 122573,
       "name": "What's Important",
       "url": "https://open.spotify.com/track/4lCzawVrcHNxiH9qyBWAd3"
+    },
+    {
+      "album": {
+        "name": "Beat Happening",
+        "url": "https://open.spotify.com/album/2WydqvE6v9Nv06oXxM0xyA"
+      },
+      "artists": [
+        {
+          "name": "Beat Happening",
+          "url": "https://open.spotify.com/artist/1qHR9DMfOJQjvWLEfMZQlG"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122466,
+      "name": "What\u2019s Important",
+      "url": "https://open.spotify.com/track/0wHAqXzMjoAeOC2aAFNVAS"
     },
     {
       "album": {
@@ -2563,6 +2635,24 @@
       "duration_ms": 147026,
       "name": "White Winter Hymnal",
       "url": "https://open.spotify.com/track/3QVtICc8ViNOy4I5K14d8Z"
+    },
+    {
+      "album": {
+        "name": "First Collection 2006-2009",
+        "url": "https://open.spotify.com/album/6ou9sQOsIY5xIIX417L3ud"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 147026,
+      "name": "White Winter Hymnal",
+      "url": "https://open.spotify.com/track/7II56zDppy5Zyj1oJhkkZ1"
     },
     {
       "album": {

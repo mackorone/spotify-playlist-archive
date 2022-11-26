@@ -53,7 +53,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 47274,
       "name": "Ada Twist, Scientist Theme Song (From \"Ada Twist, Scientist\")",
       "url": "https://open.spotify.com/track/5fvMWOLISgdDbvm8EYuJMU"
@@ -129,7 +129,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": null,
       "duration_ms": 31476,
       "name": "Alexa & Katie Main Title Theme - A Netflix Original Series",
       "url": "https://open.spotify.com/track/5iLwDu3hzut3oj4MIfFL6j"
@@ -245,7 +245,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 146744,
       "name": "Bartleby Finnegan",
       "url": "https://open.spotify.com/track/05iojOqYgGy4SU89O5paby"
@@ -267,7 +267,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 78880,
       "name": "Better Together",
       "url": "https://open.spotify.com/track/06XmduRx6Fhod8FnjyK9lh"
@@ -293,6 +293,24 @@
     {
       "album": {
         "name": "Rockin' Ride-Along Songs",
+        "url": "https://open.spotify.com/album/6gQCF7uOLmdFvqopFRVvIS"
+      },
+      "artists": [
+        {
+          "name": "Blaze and the Monster Machines",
+          "url": "https://open.spotify.com/artist/4WVT8k6aMXbGw9KgGqTk0l"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-24",
+      "duration_ms": 31068,
+      "name": "Blaze and the Monster Machines Theme Song",
+      "url": "https://open.spotify.com/track/1GzfnrqhJFsm2UK7dHRCea"
+    },
+    {
+      "album": {
+        "name": "Rockin' Ride-Along Songs",
         "url": "https://open.spotify.com/album/1isb3iavBKHs5oXLtzkIA5"
       },
       "artists": [
@@ -303,7 +321,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 31068,
       "name": "Blaze and the Monster Machines Theme Song",
       "url": "https://open.spotify.com/track/6uaSSpEyVqcoEBLbaoiUZ6"
@@ -321,10 +339,28 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 93195,
       "name": "Blue's Clues & You Theme Song",
       "url": "https://open.spotify.com/track/25CB87HLgvGJjx28qDlUUY"
+    },
+    {
+      "album": {
+        "name": "Blue's Clues & You Theme Song",
+        "url": "https://open.spotify.com/album/1XwJGm1GcjHHufGqHobsWn"
+      },
+      "artists": [
+        {
+          "name": "Blue's Clues & You",
+          "url": "https://open.spotify.com/artist/40mye8b6PC8ef8GSFgWscG"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-25",
+      "duration_ms": 93195,
+      "name": "Blue's Clues & You Theme Song",
+      "url": "https://open.spotify.com/track/4NszfZjAmW1XLv9kljvYNi"
     },
     {
       "album": {
@@ -365,6 +401,24 @@
     {
       "album": {
         "name": "Bubble Guppies Bubble Bops!",
+        "url": "https://open.spotify.com/album/5oBOEdezn50Wgt9mv3xh9V"
+      },
+      "artists": [
+        {
+          "name": "Bubble Guppies Cast",
+          "url": "https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-24",
+      "duration_ms": 38863,
+      "name": "Bubble Guppies Theme Song",
+      "url": "https://open.spotify.com/track/6Hn6HXtFfjZM2bEoh6v9tp"
+    },
+    {
+      "album": {
+        "name": "Bubble Guppies Bubble Bops!",
         "url": "https://open.spotify.com/album/7b6l4ldOcy0FtFkI3pAgLF"
       },
       "artists": [
@@ -375,10 +429,28 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 38863,
       "name": "Bubble Guppies Theme Song",
       "url": "https://open.spotify.com/track/7u5zwVTZDkcAxu3N3z1NVI"
+    },
+    {
+      "album": {
+        "name": "Butterbean's Fairy Best Songs",
+        "url": "https://open.spotify.com/album/3rFpVT6Tb4AEJlyd1Mwai8"
+      },
+      "artists": [
+        {
+          "name": "Butterbean\u2019s Cafe",
+          "url": "https://open.spotify.com/artist/60I3eGhWjudFPD2aGoFU7D"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-25",
+      "duration_ms": 33921,
+      "name": "Butterbean\u2019s Caf\u00e9 Theme Song",
+      "url": "https://open.spotify.com/track/0THSVjku93B00R0cBT3zcC"
     },
     {
       "album": {
@@ -393,7 +465,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 33921,
       "name": "Butterbean\u2019s Caf\u00e9 Theme Song",
       "url": "https://open.spotify.com/track/1Hlxa7ovZajhyd6ClPFzdV"
@@ -773,7 +845,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-10-16",
       "duration_ms": 65549,
       "name": "It's a Beautiful Day in the Neighborhood",
       "url": "https://open.spotify.com/track/3iJWxiZFXAZodMuZdNCgVY"
@@ -867,7 +939,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 149112,
       "name": "Life Is Better Loud",
       "url": "https://open.spotify.com/track/5dN9uSVeEa8zcqBNHO41h9"
@@ -1039,7 +1111,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 68258,
       "name": "Mystery in the Sky",
       "url": "https://open.spotify.com/track/5iKZAwDvrBQMCwJ7jnZjqG"
@@ -1083,10 +1155,36 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 86939,
       "name": "Ordinary Me",
       "url": "https://open.spotify.com/track/4Wf6McIFTYEyJFPkSNHk3P"
+    },
+    {
+      "album": {
+        "name": "The Loud House Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2yVMiCrs3RVjzrYv8QwVZ0"
+      },
+      "artists": [
+        {
+          "name": "The Loud House",
+          "url": "https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB"
+        },
+        {
+          "name": "Oh, Hush!",
+          "url": "https://open.spotify.com/artist/7cpjCdauAvnZuOys36bntk"
+        },
+        {
+          "name": "graywolfe",
+          "url": "https://open.spotify.com/artist/0ZX1HJYOIIM74QLJAKnjo6"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-24",
+      "duration_ms": 86939,
+      "name": "Ordinary Me",
+      "url": "https://open.spotify.com/track/7oTWEMowWcNShU0LhOoP9z"
     },
     {
       "album": {
@@ -1119,10 +1217,100 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 48544,
       "name": "PAW Patrol on a Roll",
       "url": "https://open.spotify.com/track/2efkanyOeo0Vzkli3HfcuU"
+    },
+    {
+      "album": {
+        "name": "PAW Patrol Official Theme Song & More",
+        "url": "https://open.spotify.com/album/18OOpmlvd5nJW2Pd79yIWQ"
+      },
+      "artists": [
+        {
+          "name": "PAW Patrol",
+          "url": "https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 48544,
+      "name": "PAW Patrol on a Roll",
+      "url": "https://open.spotify.com/track/5QO4mKGgQOsrqfFkNHNi2Y"
+    },
+    {
+      "album": {
+        "name": "PAW Patrol Official Theme Song & More",
+        "url": "https://open.spotify.com/album/7uhUbu0atVJyTGGw04SeC1"
+      },
+      "artists": [
+        {
+          "name": "PAW Patrol",
+          "url": "https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-24",
+      "duration_ms": 48544,
+      "name": "PAW Patrol on a Roll",
+      "url": "https://open.spotify.com/track/5assM1ZJxva5nnj8nT44sa"
+    },
+    {
+      "album": {
+        "name": "PAW Patrol Official Theme Song & More",
+        "url": "https://open.spotify.com/album/4Ek0vdwc5JXCH0WgVedHvp"
+      },
+      "artists": [
+        {
+          "name": "PAW Patrol",
+          "url": "https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 40593,
+      "name": "PAW Patrol Opening Theme",
+      "url": "https://open.spotify.com/track/1yWYXhJCbiWHH9bLcG1ptK"
+    },
+    {
+      "album": {
+        "name": "PAW Patrol Official Theme Song & More",
+        "url": "https://open.spotify.com/album/18OOpmlvd5nJW2Pd79yIWQ"
+      },
+      "artists": [
+        {
+          "name": "PAW Patrol",
+          "url": "https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 40593,
+      "name": "PAW Patrol Opening Theme",
+      "url": "https://open.spotify.com/track/2bTc3HglsgQ8kbn1dUeo1M"
+    },
+    {
+      "album": {
+        "name": "PAW Patrol Official Theme Song & More",
+        "url": "https://open.spotify.com/album/7uhUbu0atVJyTGGw04SeC1"
+      },
+      "artists": [
+        {
+          "name": "PAW Patrol",
+          "url": "https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-24",
+      "duration_ms": 40593,
+      "name": "PAW Patrol Opening Theme",
+      "url": "https://open.spotify.com/track/6J5tBYqpU2amNkTkIPHCHE"
     },
     {
       "album": {
@@ -1137,7 +1325,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 40593,
       "name": "PAW Patrol Opening Theme",
       "url": "https://open.spotify.com/track/7n70tzvZDfdAL1j9XqsAbH"
@@ -1311,10 +1499,28 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 722323,
       "name": "Power Rangers Megamix",
       "url": "https://open.spotify.com/track/0fTQdOS8FucxBQilLTp2ha"
+    },
+    {
+      "album": {
+        "name": "Santiago's Sea Shanties",
+        "url": "https://open.spotify.com/album/06cPzokRlGLUfBxcsJbE1s"
+      },
+      "artists": [
+        {
+          "name": "Santiago of the Seas",
+          "url": "https://open.spotify.com/artist/7nd3IyYB4wMpZ2MuVjdNlu"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-24",
+      "duration_ms": 91482,
+      "name": "Santiago of the Seas Theme - Extended",
+      "url": "https://open.spotify.com/track/2fmxTrZ8Nl4nryofppxC27"
     },
     {
       "album": {
@@ -1329,7 +1535,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 91482,
       "name": "Santiago of the Seas Theme - Extended",
       "url": "https://open.spotify.com/track/7494gF82bPmJYFYQFQsGra"
@@ -1347,7 +1553,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 60102,
       "name": "Scooby Doo Theme Song",
       "url": "https://open.spotify.com/track/0g8MfCzZoj5nprV25TbPax"
@@ -1369,7 +1575,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 113245,
       "name": "Sesame Street Theme - 2019 Mix",
       "url": "https://open.spotify.com/track/0A03kYvR7okcxYmqshk7lA"
@@ -1405,10 +1611,28 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 155771,
       "name": "Shimmer and Shine Theme Song - Extended Version",
       "url": "https://open.spotify.com/track/10v3ba3brdnOTfHgjTULyC"
+    },
+    {
+      "album": {
+        "name": "Shimmer and Shine: Groove Zahramay!",
+        "url": "https://open.spotify.com/album/7hs3ZOSqQvXTOgCwJAzY2p"
+      },
+      "artists": [
+        {
+          "name": "Shimmer and Shine",
+          "url": "https://open.spotify.com/artist/6EACW7fkHHUd8wJEGUY9MR"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-24",
+      "duration_ms": 155771,
+      "name": "Shimmer and Shine Theme Song - Extended Version",
+      "url": "https://open.spotify.com/track/4EYwZTTaJ9kQJyIJnCODvM"
     },
     {
       "album": {
@@ -1549,7 +1773,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 165160,
       "name": "The Bha Bha Song - We Baby Bears Theme",
       "url": "https://open.spotify.com/track/4V8udbNRFRxdMOpAt9XhY8"
@@ -1571,10 +1795,28 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 82836,
       "name": "The Casagrandes Theme Song",
       "url": "https://open.spotify.com/track/6wvT81yLxtGnRlWfAKzYwb"
+    },
+    {
+      "album": {
+        "name": "The Loud House Theme & End Credit",
+        "url": "https://open.spotify.com/album/0DFvGS0XT58ZXHXGghIawV"
+      },
+      "artists": [
+        {
+          "name": "The Loud House",
+          "url": "https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-24",
+      "duration_ms": 80755,
+      "name": "The Loud House Theme Song",
+      "url": "https://open.spotify.com/track/0iEy24BTc5pGIQxnDlSr8R"
     },
     {
       "album": {
@@ -1589,7 +1831,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 80755,
       "name": "The Loud House Theme Song",
       "url": "https://open.spotify.com/track/3lpc0zUmr89UthmpDAycG6"
@@ -1929,7 +2171,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-25",
+      "date_removed": null,
       "duration_ms": 34592,
       "name": "We're on the Case",
       "url": "https://open.spotify.com/track/7zrf9DSawhAV7TizF05P26"

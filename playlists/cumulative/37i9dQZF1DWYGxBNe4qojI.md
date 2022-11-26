@@ -2,9 +2,9 @@
 
 ### [I Love My East Coast Classics](https://open.spotify.com/playlist/37i9dQZF1DWYGxBNe4qojI)
 
-> Where it all started\. Cover: Ja Rule
+> Where it all started\. Cover: Mase
 
-166 songs - 11 hr 45 min - [published](https://open.spotify.com/playlist/3itAObRKbEsL0P6iSCHXHF)
+167 songs - 11 hr 48 min - [published](https://open.spotify.com/playlist/3itAObRKbEsL0P6iSCHXHF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,11 +106,12 @@
 | [Nappy Heads \- Remix](https://open.spotify.com/track/0hKr166QnNZ0a37G4UO0VY) | [Fugees](https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY), [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN) | [Blunted On Reality](https://open.spotify.com/album/0SHdsrvo4oGJiUlYLaqCcu) | 5:22 | 2021-06-25 | 2022-02-02 |
 | [Next Level \- Nyte Time Mix](https://open.spotify.com/track/2mehHNForRahnPueLQAgfv) | [Showbiz & A.G.](https://open.spotify.com/artist/1U0EFT6jsUpEXAaWesmxAz) | [Goodfellas](https://open.spotify.com/album/1DKIWe0KC9j4psJ7pi7CDu) | 4:09 | 2022-02-21 |  |
 | [Nothin'](https://open.spotify.com/track/5ZKVNTG7yu7gbX4vryqS2X) | [N.O.R.E.](https://open.spotify.com/artist/4GMgdB3vwbBOc42hbXEi9p) | [God's Favorite](https://open.spotify.com/album/4Gb8Xs87uYNhBwh5wfG7qt) | 4:24 | 2021-06-25 | 2022-02-19 |
-| [Notorious Thugs \- 2014 Remaster](https://open.spotify.com/track/19FsxX4RthRMZGfXkImdCb) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Life After Death \(2014 Remastered Edition\)](https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB) | 6:06 | 2022-03-24 |  |
+| [Notorious Thugs \- 2014 Remaster](https://open.spotify.com/track/19FsxX4RthRMZGfXkImdCb) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Life After Death \(2014 Remastered Edition\)](https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB) | 6:06 | 2022-03-24 | 2022-11-26 |
 | [Nuttin' But Love](https://open.spotify.com/track/43JSZNyRzLa3nD9W0hfD48) | [Heavy D & The Boyz](https://open.spotify.com/artist/4KHdmkq99PXA6QEJ2lKpA3) | [Nuttin' But Love](https://open.spotify.com/album/3WIm2cGDu6bRWAJDFhbgeK) | 3:33 | 2021-06-25 | 2022-02-22 |
 | [Oh Boy](https://open.spotify.com/track/4gdQ8QShlC3toP9Mkc8DwB) | [Cam’ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [Juelz Santana](https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb) | [Come Home With Me](https://open.spotify.com/album/4wn9wcP2D71SyiB7KbVKMy) | 3:24 | 2022-04-29 |  |
 | [One Mic](https://open.spotify.com/track/6MMuI4k4Vs5ghtDH5i2hBg) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Stillmatic](https://open.spotify.com/album/0cLzuJG2UDa0axMQkF7JR6) | 4:28 | 2022-01-07 | 2022-02-12 |
 | [Oochie Wally \- Remix](https://open.spotify.com/track/56DPW47j6NZnRye792oACa) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Bravehearts](https://open.spotify.com/artist/16HCiYXoNdjZDdKPaH03b8) | [The Essential Nas](https://open.spotify.com/album/2iCCHHtCaJkMJllROVYDGo) | 4:57 | 2021-06-25 | 2022-02-22 |
+| [Party And Bullshit](https://open.spotify.com/track/5mqPg2dyqb1gBNyg9ycGcT) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Whos The Man ? Soundtrack](https://open.spotify.com/album/2lka9gSjkghBBSjktHnN6o) | 3:39 | 2022-10-07 |  |
 | [Party and Bullshit \- 2008 Remaster](https://open.spotify.com/track/6jCGzZn0gFeRlbqdaJhw6T) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [NOTORIOUS Music From and Inspired by the Original Motion Picture](https://open.spotify.com/album/37pqxCN5TmoEc26GWYvol4) | 3:37 | 2022-05-20 | 2022-07-29 |
 | [Proceed](https://open.spotify.com/track/6iRtbpHOfLvItuLXuGu05F) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Do You Want More?!!!??! \(Deluxe Version\)](https://open.spotify.com/album/4CUBkEbEXZnhuOjFfaWcg9) | 4:35 | 2022-02-21 | 2022-07-29 |
 | [Protect Ya Neck \(feat\. RZA, Method Man, Inspectah Deck, Raekwon, U\-God, Ol' Dirty Bastard, Ghostface Killah & GZA\)](https://open.spotify.com/track/1Sgj10byiGzPpI2IrXSFEn) | [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk), [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Inspectah Deck](https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1), [U\-God](https://open.spotify.com/artist/0G070wUUUBptmqGEKAAUVx), [Ol' Dirty Bastard](https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [GZA](https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO) | [Enter The Wu\-Tang \(36 Chambers\) \[Expanded Edition\]](https://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV) | 4:51 | 2022-02-24 |  |

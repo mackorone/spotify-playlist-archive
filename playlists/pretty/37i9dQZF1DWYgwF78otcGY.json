@@ -1,12 +1,12 @@
 {
   "description": "P\u00e5 med fj\u00e4derboan och de gyllene skorna. Nu ska vi dansa i neon!",
-  "num_followers": 23907,
+  "num_followers": 24197,
   "original_name": "Schlagerfest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU1MTM1ODY3OCwwMDAwMDAwMGRiZTdmOWY3MGZmYmVjZmZlMjI2Mzk0ZDRkOTE3YTZh",
+  "snapshot_id": "MTU1MTM1ODY3OCwwMDAwMDAwMGExZjFhOWMxNDU5YWMyMGEzMzE5ZTZmN2Y1NjRlYjJm",
   "tracks": [
     {
       "added_at": "2019-02-28 12:57:58",
@@ -55,6 +55,22 @@
       "duration_ms": 190613,
       "name": "Heroes",
       "url": "https://open.spotify.com/track/4ciaNqHWA2IzHphZaVRzHI"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "\u00c4r",
+        "url": "https://open.spotify.com/album/1nfObC0Ykmpy6vYLwlsg4Z"
+      },
+      "artists": [
+        {
+          "name": "Tommy K\u00f6rberg",
+          "url": "https://open.spotify.com/artist/6R21HSNyo7HVac8pyqY3T2"
+        }
+      ],
+      "duration_ms": 188293,
+      "name": "Stad i ljus",
+      "url": "https://open.spotify.com/track/7bVwUOySQGO2afJ0LArAMi"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -155,22 +171,6 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "\u00c4r",
-        "url": "https://open.spotify.com/album/1nfObC0Ykmpy6vYLwlsg4Z"
-      },
-      "artists": [
-        {
-          "name": "Tommy K\u00f6rberg",
-          "url": "https://open.spotify.com/artist/6R21HSNyo7HVac8pyqY3T2"
-        }
-      ],
-      "duration_ms": 188293,
-      "name": "Stad i ljus",
-      "url": "https://open.spotify.com/track/7bVwUOySQGO2afJ0LArAMi"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
         "name": "Habibi",
         "url": "https://open.spotify.com/album/5dm3yVuHd6BrGhU0VChLgW"
       },
@@ -235,86 +235,6 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "Blue Virgin Isles",
-        "url": "https://open.spotify.com/album/5xHCzowaod3845uvIfXAkg"
-      },
-      "artists": [
-        {
-          "name": "Ted G\u00e4rdestad",
-          "url": "https://open.spotify.com/artist/6zpub6jbY6CdrcqQsDq8P4"
-        }
-      ],
-      "duration_ms": 257586,
-      "name": "Satellit",
-      "url": "https://open.spotify.com/track/10AwlsmVEASSiWORkKcgRo"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
-        "name": "Alltid p\u00e5 v\u00e4g",
-        "url": "https://open.spotify.com/album/3CDoUVCjpSa2N08MBL8Ovy"
-      },
-      "artists": [
-        {
-          "name": "Nanne",
-          "url": "https://open.spotify.com/artist/0whAheccvr5O5qbQjNk4gi"
-        }
-      ],
-      "duration_ms": 182773,
-      "name": "H\u00e5ll om mig",
-      "url": "https://open.spotify.com/track/6LjXwyNIh30VWsnvT8JHhz"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
-        "name": "Ashes To Ashes",
-        "url": "https://open.spotify.com/album/3PdI7t8cuGziQ76P2ooFpR"
-      },
-      "artists": [
-        {
-          "name": "Anna Bergendahl",
-          "url": "https://open.spotify.com/artist/2QLxag7UehMTlparZcbQn9"
-        }
-      ],
-      "duration_ms": 180883,
-      "name": "Ashes To Ashes",
-      "url": "https://open.spotify.com/track/1iqxk51n6yyc6OIXu7dX8o"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
-        "name": "N\u00e4r vindarna viskar mitt namn - Single",
-        "url": "https://open.spotify.com/album/7oSqWiKS8F3GGIh6ihn50H"
-      },
-      "artists": [
-        {
-          "name": "Roger Pontare",
-          "url": "https://open.spotify.com/artist/2eo54qMMNjVgFIxwhKfijG"
-        }
-      ],
-      "duration_ms": 184786,
-      "name": "N\u00e4r vindarna viskar mitt namn",
-      "url": "https://open.spotify.com/track/1nSyBcZr8IS9wZcFyvqqE7"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
-        "name": "Greatest of the Best",
-        "url": "https://open.spotify.com/album/03wYV1m0EmBAhtgVLvGNKn"
-      },
-      "artists": [
-        {
-          "name": "\u00d6sten Med Resten",
-          "url": "https://open.spotify.com/artist/20nKo8C8M0JpIznby9Dv5p"
-        }
-      ],
-      "duration_ms": 175453,
-      "name": "Hon Kommer Med Solsken",
-      "url": "https://open.spotify.com/track/0GdHzLwAZkDcJz6cAV0Qz9"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
         "name": "Stand By For...",
         "url": "https://open.spotify.com/album/0Bt2FMVJpBg0g0fFiQjqoV"
       },
@@ -331,82 +251,18 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "Bra vibrationer",
-        "url": "https://open.spotify.com/album/6pTczERNVTTxtoFjfOIKWU"
+        "name": "Alltid p\u00e5 v\u00e4g",
+        "url": "https://open.spotify.com/album/3CDoUVCjpSa2N08MBL8Ovy"
       },
       "artists": [
         {
-          "name": "Kikki Danielsson",
-          "url": "https://open.spotify.com/artist/3ktAhWMnoYiz6UpBEKfv5i"
+          "name": "Nanne",
+          "url": "https://open.spotify.com/artist/0whAheccvr5O5qbQjNk4gi"
         }
       ],
-      "duration_ms": 186453,
-      "name": "Bra vibrationer",
-      "url": "https://open.spotify.com/track/0FSlaiuv4eBrrjz05jpxz6"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
-        "name": "Take Me To Your Heaven",
-        "url": "https://open.spotify.com/album/6fgypOA8G33QMu1Fuufn7Y"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Perrelli",
-          "url": "https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl"
-        }
-      ],
-      "duration_ms": 182800,
-      "name": "Tusen och en natt",
-      "url": "https://open.spotify.com/track/6JIwvW8ioos5KFp0Q0mS3Y"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
-        "name": "En helt vanlig Svensson",
-        "url": "https://open.spotify.com/album/5yFU2tACu1Fp4dwSLY6NAO"
-      },
-      "artists": [
-        {
-          "name": "Martin",
-          "url": "https://open.spotify.com/artist/4oOULCfbuFxwC1Bv2PSR7F"
-        }
-      ],
-      "duration_ms": 194933,
-      "name": "(Du \u00e4r s\u00e5) Yeah Yeah, Wow Wow",
-      "url": "https://open.spotify.com/track/7fsWDVy88i6gznoQtlbOio"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
-        "name": "Ingenting att f\u00f6rlora",
-        "url": "https://open.spotify.com/album/7KW1wOSzVGdWs1aA3pzT1l"
-      },
-      "artists": [
-        {
-          "name": "Linda Bengtzing",
-          "url": "https://open.spotify.com/artist/6IBNZlx6x6TbLUIJhXT4xV"
-        }
-      ],
-      "duration_ms": 169213,
-      "name": "Alla flickor",
-      "url": "https://open.spotify.com/track/6YGqMb6MmqcwIHaDSCA7Nq"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
-        "name": "As I Lay Me Down",
-        "url": "https://open.spotify.com/album/6PaokH8pvKEe116al1OyCT"
-      },
-      "artists": [
-        {
-          "name": "Wiktoria",
-          "url": "https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi"
-        }
-      ],
-      "duration_ms": 189120,
-      "name": "As I Lay Me Down",
-      "url": "https://open.spotify.com/track/5VIZcrKXPd9wL4hqE4YN8z"
+      "duration_ms": 182773,
+      "name": "H\u00e5ll om mig",
+      "url": "https://open.spotify.com/track/6LjXwyNIh30VWsnvT8JHhz"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -431,6 +287,38 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
+        "name": "Blue Virgin Isles",
+        "url": "https://open.spotify.com/album/5xHCzowaod3845uvIfXAkg"
+      },
+      "artists": [
+        {
+          "name": "Ted G\u00e4rdestad",
+          "url": "https://open.spotify.com/artist/6zpub6jbY6CdrcqQsDq8P4"
+        }
+      ],
+      "duration_ms": 257586,
+      "name": "Satellit",
+      "url": "https://open.spotify.com/track/10AwlsmVEASSiWORkKcgRo"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "Ingenting att f\u00f6rlora",
+        "url": "https://open.spotify.com/album/7KW1wOSzVGdWs1aA3pzT1l"
+      },
+      "artists": [
+        {
+          "name": "Linda Bengtzing",
+          "url": "https://open.spotify.com/artist/6IBNZlx6x6TbLUIJhXT4xV"
+        }
+      ],
+      "duration_ms": 169213,
+      "name": "Alla flickor",
+      "url": "https://open.spotify.com/track/6YGqMb6MmqcwIHaDSCA7Nq"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
         "name": "Sean den f\u00f6rste Banan",
         "url": "https://open.spotify.com/album/0rFpCQes32x4acvY6dmVOh"
       },
@@ -443,6 +331,118 @@
       "duration_ms": 183373,
       "name": "Sean den f\u00f6rste Banan",
       "url": "https://open.spotify.com/track/5J2UfqBylH8jDQZJnxby81"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "As I Lay Me Down",
+        "url": "https://open.spotify.com/album/6PaokH8pvKEe116al1OyCT"
+      },
+      "artists": [
+        {
+          "name": "Wiktoria",
+          "url": "https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi"
+        }
+      ],
+      "duration_ms": 189120,
+      "name": "As I Lay Me Down",
+      "url": "https://open.spotify.com/track/5VIZcrKXPd9wL4hqE4YN8z"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "N\u00e4r vindarna viskar mitt namn - Single",
+        "url": "https://open.spotify.com/album/7oSqWiKS8F3GGIh6ihn50H"
+      },
+      "artists": [
+        {
+          "name": "Roger Pontare",
+          "url": "https://open.spotify.com/artist/2eo54qMMNjVgFIxwhKfijG"
+        }
+      ],
+      "duration_ms": 184786,
+      "name": "N\u00e4r vindarna viskar mitt namn",
+      "url": "https://open.spotify.com/track/1nSyBcZr8IS9wZcFyvqqE7"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "Ashes To Ashes",
+        "url": "https://open.spotify.com/album/3PdI7t8cuGziQ76P2ooFpR"
+      },
+      "artists": [
+        {
+          "name": "Anna Bergendahl",
+          "url": "https://open.spotify.com/artist/2QLxag7UehMTlparZcbQn9"
+        }
+      ],
+      "duration_ms": 180883,
+      "name": "Ashes To Ashes",
+      "url": "https://open.spotify.com/track/1iqxk51n6yyc6OIXu7dX8o"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "En helt vanlig Svensson",
+        "url": "https://open.spotify.com/album/5yFU2tACu1Fp4dwSLY6NAO"
+      },
+      "artists": [
+        {
+          "name": "Martin",
+          "url": "https://open.spotify.com/artist/4oOULCfbuFxwC1Bv2PSR7F"
+        }
+      ],
+      "duration_ms": 194933,
+      "name": "(Du \u00e4r s\u00e5) Yeah Yeah, Wow Wow",
+      "url": "https://open.spotify.com/track/7fsWDVy88i6gznoQtlbOio"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "Bra vibrationer",
+        "url": "https://open.spotify.com/album/6pTczERNVTTxtoFjfOIKWU"
+      },
+      "artists": [
+        {
+          "name": "Kikki Danielsson",
+          "url": "https://open.spotify.com/artist/3ktAhWMnoYiz6UpBEKfv5i"
+        }
+      ],
+      "duration_ms": 186453,
+      "name": "Bra vibrationer",
+      "url": "https://open.spotify.com/track/0FSlaiuv4eBrrjz05jpxz6"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "I Can't Go On",
+        "url": "https://open.spotify.com/album/22O77Vq7bj0khJd5Blhjp3"
+      },
+      "artists": [
+        {
+          "name": "Robin Bengtsson",
+          "url": "https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS"
+        }
+      ],
+      "duration_ms": 183990,
+      "name": "I Can\u00b4t Go On",
+      "url": "https://open.spotify.com/track/715cD5vOTffsOR3MnNYveJ"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "En Samling 1981 - 2001",
+        "url": "https://open.spotify.com/album/0TcAev3EcjkrvhP3BoHlj9"
+      },
+      "artists": [
+        {
+          "name": "Tommy Nilsson",
+          "url": "https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq"
+        }
+      ],
+      "duration_ms": 198706,
+      "name": "En dag",
+      "url": "https://open.spotify.com/track/4y81ov9ojdBPu5eLhDKxS9"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -463,18 +463,50 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "I Can't Go On",
-        "url": "https://open.spotify.com/album/22O77Vq7bj0khJd5Blhjp3"
+        "name": "Take Me To Your Heaven",
+        "url": "https://open.spotify.com/album/6fgypOA8G33QMu1Fuufn7Y"
       },
       "artists": [
         {
-          "name": "Robin Bengtsson",
-          "url": "https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS"
+          "name": "Charlotte Perrelli",
+          "url": "https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl"
         }
       ],
-      "duration_ms": 183990,
-      "name": "I Can\u00b4t Go On",
-      "url": "https://open.spotify.com/track/715cD5vOTffsOR3MnNYveJ"
+      "duration_ms": 182800,
+      "name": "Tusen och en natt",
+      "url": "https://open.spotify.com/track/6JIwvW8ioos5KFp0Q0mS3Y"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "Greatest of the Best",
+        "url": "https://open.spotify.com/album/03wYV1m0EmBAhtgVLvGNKn"
+      },
+      "artists": [
+        {
+          "name": "\u00d6sten Med Resten",
+          "url": "https://open.spotify.com/artist/20nKo8C8M0JpIznby9Dv5p"
+        }
+      ],
+      "duration_ms": 175453,
+      "name": "Hon Kommer Med Solsken",
+      "url": "https://open.spotify.com/track/0GdHzLwAZkDcJz6cAV0Qz9"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "Masquerade",
+        "url": "https://open.spotify.com/album/29npkCplHvsX4VZ6POOwMp"
+      },
+      "artists": [
+        {
+          "name": "Eric Saade",
+          "url": "https://open.spotify.com/artist/4zGH6gaO4NohcfCXZ31bQG"
+        }
+      ],
+      "duration_ms": 180893,
+      "name": "Manboy",
+      "url": "https://open.spotify.com/track/4ut7uc5pTPixey8zomS5Ah"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -511,54 +543,6 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "Kizunguzungu",
-        "url": "https://open.spotify.com/album/5p95oQuomBWw9kZqWFsQXj"
-      },
-      "artists": [
-        {
-          "name": "SaRaha",
-          "url": "https://open.spotify.com/artist/5So3Ot8FgnAlkz4v02elso"
-        }
-      ],
-      "duration_ms": 184506,
-      "name": "Kizunguzungu",
-      "url": "https://open.spotify.com/track/54xN08hKKJvg6p5vSXM26g"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
-        "name": "En Samling 1981 - 2001",
-        "url": "https://open.spotify.com/album/0TcAev3EcjkrvhP3BoHlj9"
-      },
-      "artists": [
-        {
-          "name": "Tommy Nilsson",
-          "url": "https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq"
-        }
-      ],
-      "duration_ms": 198706,
-      "name": "En dag",
-      "url": "https://open.spotify.com/track/4y81ov9ojdBPu5eLhDKxS9"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
-        "name": "Masquerade",
-        "url": "https://open.spotify.com/album/29npkCplHvsX4VZ6POOwMp"
-      },
-      "artists": [
-        {
-          "name": "Eric Saade",
-          "url": "https://open.spotify.com/artist/4zGH6gaO4NohcfCXZ31bQG"
-        }
-      ],
-      "duration_ms": 180893,
-      "name": "Manboy",
-      "url": "https://open.spotify.com/track/4ut7uc5pTPixey8zomS5Ah"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
         "name": "Diggiloo Diggiley",
         "url": "https://open.spotify.com/album/1aeO2MJZFZhk3E57aaYGlg"
       },
@@ -575,34 +559,34 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "Give Me Your Love",
-        "url": "https://open.spotify.com/album/6iG5QUazlcxTw6Inkf6DHR"
+        "name": "Kizunguzungu",
+        "url": "https://open.spotify.com/album/5p95oQuomBWw9kZqWFsQXj"
       },
       "artists": [
         {
-          "name": "Fame",
-          "url": "https://open.spotify.com/artist/4cFizl8RUZEfXnkzw1Fiz6"
+          "name": "SaRaha",
+          "url": "https://open.spotify.com/artist/5So3Ot8FgnAlkz4v02elso"
         }
       ],
-      "duration_ms": 182320,
-      "name": "Give Me Your Love",
-      "url": "https://open.spotify.com/track/2B60fzEh2F9Ds6xFtV8LWd"
+      "duration_ms": 184506,
+      "name": "Kizunguzungu",
+      "url": "https://open.spotify.com/track/54xN08hKKJvg6p5vSXM26g"
     },
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "Everyday",
-        "url": "https://open.spotify.com/album/3H8RhX7BEs0wvFLAkZXVlW"
+        "name": "Om om och om igen",
+        "url": "https://open.spotify.com/album/34VOvxhqnb5cGsO67IO3Rd"
       },
       "artists": [
         {
-          "name": "Mendez",
-          "url": "https://open.spotify.com/artist/5z9PI0y6MRnL9BCHOI5ilL"
+          "name": "Omar Rudberg",
+          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
         }
       ],
-      "duration_ms": 185239,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/7DgXgP8rZZuIgh8vjhiQ0c"
+      "duration_ms": 167346,
+      "name": "Om om och om igen",
+      "url": "https://open.spotify.com/track/1Lg5Qf47RERQQmfYbGZB43"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -619,6 +603,22 @@
       "duration_ms": 182134,
       "name": "Dance You Off",
       "url": "https://open.spotify.com/track/0s3P5PImfDZYWIseR3b39D"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/3H8RhX7BEs0wvFLAkZXVlW"
+      },
+      "artists": [
+        {
+          "name": "Mendez",
+          "url": "https://open.spotify.com/artist/5z9PI0y6MRnL9BCHOI5ilL"
+        }
+      ],
+      "duration_ms": 185239,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/7DgXgP8rZZuIgh8vjhiQ0c"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -655,54 +655,6 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "Busy Doin' Nothin'",
-        "url": "https://open.spotify.com/album/4jfxzJriDt7pZMpzUtRhMo"
-      },
-      "artists": [
-        {
-          "name": "Ace Wilder",
-          "url": "https://open.spotify.com/artist/7F4HcalxCMC4DctguvnoFY"
-        }
-      ],
-      "duration_ms": 173346,
-      "name": "Busy Doin' Nothin'",
-      "url": "https://open.spotify.com/track/1zSXQIah3KQsjvo5sRNRq7"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
-        "name": "Om om och om igen",
-        "url": "https://open.spotify.com/album/34VOvxhqnb5cGsO67IO3Rd"
-      },
-      "artists": [
-        {
-          "name": "Omar Rudberg",
-          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
-        }
-      ],
-      "duration_ms": 167346,
-      "name": "Om om och om igen",
-      "url": "https://open.spotify.com/track/1Lg5Qf47RERQQmfYbGZB43"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
-        "name": "Live Forever - The Album (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5g18f9GEyipB2xX2d9xy5x"
-      },
-      "artists": [
-        {
-          "name": "Magnus Carlsson",
-          "url": "https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB"
-        }
-      ],
-      "duration_ms": 182626,
-      "name": "Live Forever",
-      "url": "https://open.spotify.com/track/6yk6jU3Ia33ed2XL4V9IeW"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
         "name": "A",
         "url": "https://open.spotify.com/album/6HDTuFOdtkETh4RnxIDNVm"
       },
@@ -735,18 +687,34 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "La Dolce Vita",
-        "url": "https://open.spotify.com/album/0CXSCEO8p04h1FRxFUGsIl"
+        "name": "Busy Doin' Nothin'",
+        "url": "https://open.spotify.com/album/4jfxzJriDt7pZMpzUtRhMo"
       },
       "artists": [
         {
-          "name": "After Dark",
-          "url": "https://open.spotify.com/artist/6IsSP3qzKVJziwtHkmKuRl"
+          "name": "Ace Wilder",
+          "url": "https://open.spotify.com/artist/7F4HcalxCMC4DctguvnoFY"
         }
       ],
-      "duration_ms": 180800,
-      "name": "La Dolce Vita",
-      "url": "https://open.spotify.com/track/5QQz3p0cnmlOYsfyAmgwkw"
+      "duration_ms": 173346,
+      "name": "Busy Doin' Nothin'",
+      "url": "https://open.spotify.com/track/1zSXQIah3KQsjvo5sRNRq7"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "Live Forever - The Album (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5g18f9GEyipB2xX2d9xy5x"
+      },
+      "artists": [
+        {
+          "name": "Magnus Carlsson",
+          "url": "https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB"
+        }
+      ],
+      "duration_ms": 182626,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/6yk6jU3Ia33ed2XL4V9IeW"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -767,18 +735,50 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "Projekt sega gubbar: 60-tals l\u00e5tar med Claes-G\u00f6ran Hederstr\u00f6m",
-        "url": "https://open.spotify.com/album/3k3FLzu6mlNS2PduQe1Ypy"
+        "name": "Hits",
+        "url": "https://open.spotify.com/album/1UAZLLyBwoQB9T5CIG0VSE"
       },
       "artists": [
         {
-          "name": "Claes-G\u00f6ran Hederstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3xCwhFeIUkdyi9V0skNdLi"
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
         }
       ],
-      "duration_ms": 171133,
-      "name": "Det b\u00f6rjar verka k\u00e4rlek, banne mig",
-      "url": "https://open.spotify.com/track/63jf2xCWGFcq8KyQ5sme3T"
+      "duration_ms": 178226,
+      "name": "Fr\u00e4mling",
+      "url": "https://open.spotify.com/track/1FndLKa7Gs9S8WKVZuq4RL"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "Give Me Your Love",
+        "url": "https://open.spotify.com/album/6iG5QUazlcxTw6Inkf6DHR"
+      },
+      "artists": [
+        {
+          "name": "Fame",
+          "url": "https://open.spotify.com/artist/4cFizl8RUZEfXnkzw1Fiz6"
+        }
+      ],
+      "duration_ms": 182320,
+      "name": "Give Me Your Love",
+      "url": "https://open.spotify.com/track/2B60fzEh2F9Ds6xFtV8LWd"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "La Dolce Vita",
+        "url": "https://open.spotify.com/album/0CXSCEO8p04h1FRxFUGsIl"
+      },
+      "artists": [
+        {
+          "name": "After Dark",
+          "url": "https://open.spotify.com/artist/6IsSP3qzKVJziwtHkmKuRl"
+        }
+      ],
+      "duration_ms": 180800,
+      "name": "La Dolce Vita",
+      "url": "https://open.spotify.com/track/5QQz3p0cnmlOYsfyAmgwkw"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -799,22 +799,6 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "In My Cabana",
-        "url": "https://open.spotify.com/album/117MLkbXJnYCcN1lNxDm8k"
-      },
-      "artists": [
-        {
-          "name": "Margaret",
-          "url": "https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "In My Cabana",
-      "url": "https://open.spotify.com/track/4QQNLEpCHjwovArZsDIUD6"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
         "name": "Lyssna till ditt hj\u00e4rta",
         "url": "https://open.spotify.com/album/1jWedFgADqAwwe3nP3RZlA"
       },
@@ -831,18 +815,34 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "(\u00c5h) N\u00e4r ni tar saken i egna h\u00e4nder",
-        "url": "https://open.spotify.com/album/4gkvAo6QefcyNnTkNf9vaz"
+        "name": "In My Cabana",
+        "url": "https://open.spotify.com/album/117MLkbXJnYCcN1lNxDm8k"
       },
       "artists": [
         {
-          "name": "After Dark",
-          "url": "https://open.spotify.com/artist/6IsSP3qzKVJziwtHkmKuRl"
+          "name": "Margaret",
+          "url": "https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ"
         }
       ],
-      "duration_ms": 179706,
-      "name": "(\u00c5h) N\u00e4r ni tar saken i egna h\u00e4nder",
-      "url": "https://open.spotify.com/track/4WXnFwrGkrGYzwCImeuob6"
+      "duration_ms": 172000,
+      "name": "In My Cabana",
+      "url": "https://open.spotify.com/track/4QQNLEpCHjwovArZsDIUD6"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "Hold On (D&B Version)",
+        "url": "https://open.spotify.com/album/2qQfXNZu1v5I4fjCbX6UVq"
+      },
+      "artists": [
+        {
+          "name": "Nano",
+          "url": "https://open.spotify.com/artist/48Z0MG7G6UQeWYibHpXgQe"
+        }
+      ],
+      "duration_ms": 198434,
+      "name": "Hold On - D&B Version",
+      "url": "https://open.spotify.com/track/3mXXkDfLaCN5IaZpHVJPth"
     }
   ],
   "unique_name": "Schlagerfest",

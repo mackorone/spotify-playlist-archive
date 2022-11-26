@@ -153,7 +153,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 163666,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/45kpjdeuV0YugvErFYRXYl"
@@ -265,7 +265,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-03",
+      "date_removed": "2022-10-12",
       "duration_ms": 218826,
       "name": "from",
       "url": "https://open.spotify.com/track/23gGydKm31irm5Bly0W2V7"
@@ -283,7 +283,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-10-12",
       "duration_ms": 246933,
       "name": "Gone",
       "url": "https://open.spotify.com/track/2kpXDkEoZOebZmiQXPCBdO"
@@ -603,7 +603,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 229373,
       "name": "Ringing Bells",
       "url": "https://open.spotify.com/track/5xjqIJjjrLgTD2GBHkDQtJ"
@@ -686,6 +686,24 @@
     },
     {
       "album": {
+        "name": "Hours Were the Birds",
+        "url": "https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57679,
+      "name": "To Violet",
+      "url": "https://open.spotify.com/track/3oVNHBpsS6W704YXbIoZaN"
+    },
+    {
+      "album": {
         "name": "songs",
         "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
       },
@@ -719,7 +737,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 222000,
       "name": "Wallet",
       "url": "https://open.spotify.com/track/4TdPDGn9EatH8wIMDXxPdU"

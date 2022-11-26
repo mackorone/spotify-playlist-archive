@@ -4,7 +4,7 @@
 
 > ¡Las canciones más románticas de Luismi!
 
-64 songs - 3 hr 50 min - [published](https://open.spotify.com/playlist/0oWOO4IAmiJgAGJ5owJzUV)
+68 songs - 4 hr 3 min - [published](https://open.spotify.com/playlist/0oWOO4IAmiJgAGJ5owJzUV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [De Quererte Así \(De T'Avoir Aimee\)](https://open.spotify.com/track/7JF1APL11GJVEwmsTX2KCD) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Todos Los Romances](https://open.spotify.com/album/1acqznTFsJ7ekLNp00bj1p) | 3:13 | 2022-01-25 | 2022-07-29 |
 | [Delirio](https://open.spotify.com/track/0JsCnQ0xGg6zE7WZkBD9hA) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Segundo Romance](https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0) | 4:33 | 2022-01-25 |  |
 | [El Día Que Me Quieras](https://open.spotify.com/track/3NKIbFFAioTfznWbnjAMXX) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Segundo Romance](https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0) | 4:01 | 2022-01-25 |  |
+| [El Reloj](https://open.spotify.com/track/1EZQLWMsFbBBakE3owXj0M) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mis Boleros Favoritos](https://open.spotify.com/album/0KxKUvK8sDRyvmGN8uMdx2) | 3:01 | 2022-01-25 | 2022-11-13 |
 | [El Reloj](https://open.spotify.com/track/2JiRKaA4JAHMPCqU7D74w6) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romances](https://open.spotify.com/album/5bCqJHjSlxroHQdR8i8Qvo) | 3:01 | 2022-01-25 |  |
 | [El Reloj](https://open.spotify.com/track/6BTte0lvV5phb00xaxseC4) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romances](https://open.spotify.com/album/3OdgRM6jaoh8Q1Nu3BnheU) | 3:01 | 2022-01-25 | 2022-07-29 |
 | [El tiempo que te quede libre](https://open.spotify.com/track/5lh0ANbN2FlgT05Dzs0Cym) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mis Romances](https://open.spotify.com/album/0hAqX9l2oj2RQAHLWrilLv) | 2:26 | 2022-01-25 |  |
@@ -38,6 +39,7 @@
 | [La Barca](https://open.spotify.com/track/2MkeDQiyZ8MV45IjLhCPSF) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romance](https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP) | 3:29 | 2022-01-25 |  |
 | [La Gloria Eres Tu](https://open.spotify.com/track/0toNfHRTPmbsHi63G7Vgdz) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romances](https://open.spotify.com/album/5bCqJHjSlxroHQdR8i8Qvo) | 3:22 | 2022-01-25 |  |
 | [La Gloria Eres Tu](https://open.spotify.com/track/5SPUsNcUtRUpAPj7rJq7CD) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romances](https://open.spotify.com/album/3OdgRM6jaoh8Q1Nu3BnheU) | 3:22 | 2022-01-25 | 2022-07-29 |
+| [La Gloria Eres Tu](https://open.spotify.com/track/63PQ70tKtEya0577EL39ew) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mis Boleros Favoritos](https://open.spotify.com/album/0KxKUvK8sDRyvmGN8uMdx2) | 3:22 | 2022-01-25 | 2022-11-13 |
 | [La Media Vuelta](https://open.spotify.com/track/1lKI9y1DL6QnYTZguVmACX) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Segundo Romance](https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0) | 2:41 | 2022-01-25 |  |
 | [La Mentira](https://open.spotify.com/track/3wogsSWyEEu5eVgLqUqySF) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romance](https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP) | 3:46 | 2022-01-25 |  |
 | [La Puerta](https://open.spotify.com/track/5dlNzEPBCM7HgmhfaK0xph) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romance](https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP) | 3:19 | 2022-01-25 |  |
@@ -53,9 +55,11 @@
 | [Perfidia](https://open.spotify.com/track/6deDgyezRHEFVrQqBewImr) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mis Romances](https://open.spotify.com/album/0hAqX9l2oj2RQAHLWrilLv) | 3:26 | 2022-01-25 |  |
 | [Por Debajo De La Mesa](https://open.spotify.com/track/1livAifXh1DMv25kTfFFHR) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romances](https://open.spotify.com/album/5bCqJHjSlxroHQdR8i8Qvo) | 3:04 | 2022-01-25 |  |
 | [Por Debajo De La Mesa](https://open.spotify.com/track/4FqfHVML025cwjfhAOFbfa) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romances](https://open.spotify.com/album/3OdgRM6jaoh8Q1Nu3BnheU) | 3:04 | 2022-01-25 | 2022-07-29 |
+| [Por Debajo De La Mesa](https://open.spotify.com/track/7nbBR2SdgNvu5ywLWFrhOI) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mis Boleros Favoritos](https://open.spotify.com/album/0KxKUvK8sDRyvmGN8uMdx2) | 3:04 | 2022-01-25 | 2022-11-13 |
 | [Qué sabes tú](https://open.spotify.com/track/0dcX9ATwMWpiw8crwMPrgc) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mis Romances](https://open.spotify.com/album/0hAqX9l2oj2RQAHLWrilLv) | 4:48 | 2022-01-25 |  |
 | [Sabor a Mi](https://open.spotify.com/track/5kB8WUUla9s2w7yXD7h4CQ) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romances](https://open.spotify.com/album/5bCqJHjSlxroHQdR8i8Qvo) | 3:05 | 2022-01-25 |  |
 | [Sabor a Mi](https://open.spotify.com/track/68zSzKkU28AfZvr5FkAUWT) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romances](https://open.spotify.com/album/3OdgRM6jaoh8Q1Nu3BnheU) | 3:05 | 2022-01-25 | 2022-07-29 |
+| [Sabor a Mi](https://open.spotify.com/track/6FplxvL2eaAd21QDPSp7M0) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mis Boleros Favoritos](https://open.spotify.com/album/0KxKUvK8sDRyvmGN8uMdx2) | 3:05 | 2022-01-25 | 2022-11-13 |
 | [Si Nos Dejan \- En Vivo](https://open.spotify.com/track/7nAvryV9PVCt9PQGPx7I0z) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [El Concierto](https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI) | 2:32 | 2022-01-25 |  |
 | [Sin Ti](https://open.spotify.com/track/0G8iM0Y7xbireCKILhmXAZ) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Segundo Romance](https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0) | 3:03 | 2022-01-25 |  |
 | [Solamente Una Vez](https://open.spotify.com/track/70BcjMGYixgH1GKkLS40Jr) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Segundo Romance](https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0) | 3:01 | 2022-01-25 |  |

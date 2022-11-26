@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/26yS4HN010lrCBBlCbjF2b.md) - [plain]
 
 > Hultsfredsfestivalen 2012 går av stapeln den 14:e juni och pågår t.om\. den 16:e\. Hitta spellistor för alla tillfällen på <a href="spottily:app:tunigo">Tunigo</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30 likes - 93 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 31 likes - 93 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

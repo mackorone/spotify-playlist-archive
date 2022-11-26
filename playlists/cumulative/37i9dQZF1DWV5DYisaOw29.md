@@ -4,7 +4,7 @@
 
 > DJ Minx co\-curates a list of the very best songs from LGBTQQIA+ artists and allies Motor City has to offer!
 
-42 songs - 4 hr 6 min - [published](https://open.spotify.com/playlist/623AC8Z1fYMYt9K4uN3qss)
+43 songs - 4 hr 11 min - [published](https://open.spotify.com/playlist/623AC8Z1fYMYt9K4uN3qss)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Loosing It](https://open.spotify.com/track/3GAbRB3lpvKzlb1M7lwQXu) | [Bruce Bailey](https://open.spotify.com/artist/42pW8vUOWRUD7pwRqYjfax) | [Charivari and Expressway Records Presents a FRESH Compilation](https://open.spotify.com/album/69eSCrCCBr8u13iEvaRoSl) | 6:31 | 2021-06-01 |  |
 | [Monday Madness](https://open.spotify.com/track/2yj1doDjRqnLEjVfWLtMXt) | [Gayelynn McKinney](https://open.spotify.com/artist/6glmHvIoAQIouB9dTXSyeS) | [It's About Time](https://open.spotify.com/album/7uTnjpnd9cmexbwa6iw4NJ) | 3:20 | 2021-06-01 |  |
 | [Motor](https://open.spotify.com/track/6fGpLjqqWqwhcAaatMXTLw) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [Detroit History, Pt\. 1](https://open.spotify.com/album/22mhmpP6Wrbs2hr08GTyle) | 5:08 | 2021-06-01 |  |
+| [Namesake](https://open.spotify.com/track/2snK7YVjWywLR54UaxOZ5j) | [Tunde Olaniran](https://open.spotify.com/artist/3qwKzITLJVVAo2Fn8TusjE) | [Namesake](https://open.spotify.com/album/3SBHO665sa2NJDQ5g9T6va) | 4:35 | 2021-06-01 | 2022-11-13 |
 | [Namesake](https://open.spotify.com/track/3eMPNkpiw3gtUBgALHHzfZ) | [Tunde Olaniran](https://open.spotify.com/artist/3qwKzITLJVVAo2Fn8TusjE) | [Transgressor](https://open.spotify.com/album/6FWBdyDi9p00D7LQQgUVeX) | 4:35 | 2021-06-01 |  |
 | [Namesake](https://open.spotify.com/track/5YrkOgkJsk2c7kOZuhGmpm) | [Tunde Olaniran](https://open.spotify.com/artist/3qwKzITLJVVAo2Fn8TusjE) | [Transgressor](https://open.spotify.com/album/57uo4jwBc428S0JiQru6LQ) | 4:35 | 2021-06-01 | 2022-07-29 |
 | [Parallel Shifting](https://open.spotify.com/track/2ixO74rwcwtYBywwU0lFCH) | [DJ Holographic](https://open.spotify.com/artist/4PRhpvNBYt7YURb5VhEDox), [Alex Wilcox](https://open.spotify.com/artist/7ArfNfDfLqeVEKYfzzPblu) | [Parallel Shifting](https://open.spotify.com/album/35YikyE0kgjEmbsUuhxtzn) | 8:42 | 2021-06-01 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Die beste in Afrikaanse Hip Hop Cover: <a href=\"https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA?si=w8EU1cUrSMGlI2MssXYRjA\">Jack Parow</a>\n",
+  "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl?si=fvnHAKwCQ-u8gnmqQaUJ8A\">Loufi</a>\n",
   "name": "Afrikaanse Hip Hop",
   "published_playlist_ids": [
     "2L0hHi2CI7ZbUGqYTWQUQ1"
@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 217712,
       "name": "Asemrowers",
       "url": "https://open.spotify.com/track/5gpo2x24coDr17KWjuT6Le"
@@ -63,7 +63,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 188571,
       "name": "Awe My Ma Se Kind",
       "url": "https://open.spotify.com/track/0Ht2LLaQovMRWaQSRdGD9t"
@@ -111,6 +111,24 @@
       "duration_ms": 263140,
       "name": "Breinsuiker - Remix",
       "url": "https://open.spotify.com/track/20CX51tTFlht4gXK1loswW"
+    },
+    {
+      "album": {
+        "name": "By Die See",
+        "url": "https://open.spotify.com/album/5Fspb1oAi4FQVr6csHTjz5"
+      },
+      "artists": [
+        {
+          "name": "Harry CBY",
+          "url": "https://open.spotify.com/artist/1dfJrxpx1MxeObARk7bs2l"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167190,
+      "name": "By Die See",
+      "url": "https://open.spotify.com/track/0GJrUyW2Gi3OrCdbBMl9hI"
     },
     {
       "album": {
@@ -592,7 +610,7 @@
       "artists": [
         {
           "name": "John James",
-          "url": "https://open.spotify.com/artist/5fN5sHxJksgQWx8eR3Bglv"
+          "url": "https://open.spotify.com/artist/4YSLyAh8QLYsRCMKJFVB3n"
         },
         {
           "name": "Loufi",
@@ -663,10 +681,54 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 222750,
       "name": "Meisies & Partytjies",
       "url": "https://open.spotify.com/track/2gesUnuudnlfvTFeuIF8Rw"
+    },
+    {
+      "album": {
+        "name": "Mermaid",
+        "url": "https://open.spotify.com/album/0aXpcLp49iI5h6y3MhSKDY"
+      },
+      "artists": [
+        {
+          "name": "Jack Parow",
+          "url": "https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA"
+        },
+        {
+          "name": "Loki Rothman",
+          "url": "https://open.spotify.com/artist/2dRlORRtjS7XHuCdEbHrE3"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193628,
+      "name": "Mermaid",
+      "url": "https://open.spotify.com/track/6nxQX5P9TDm2iDtH5gCIQc"
+    },
+    {
+      "album": {
+        "name": "Moola",
+        "url": "https://open.spotify.com/album/049XrxSNx2ydPbdhelP51t"
+      },
+      "artists": [
+        {
+          "name": "Loufi",
+          "url": "https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl"
+        },
+        {
+          "name": "Jayms",
+          "url": "https://open.spotify.com/artist/1reef06goIFAhuhQsLUHf5"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184407,
+      "name": "Moola",
+      "url": "https://open.spotify.com/track/3WL45hKgftF4Ffc9GUlhIZ"
     },
     {
       "album": {
@@ -699,7 +761,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 212727,
       "name": "Ongerep",
       "url": "https://open.spotify.com/track/3eXMAAp2vmVQYzau6Tr2Zy"
@@ -869,7 +931,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 194146,
       "name": "Soldaat",
       "url": "https://open.spotify.com/track/6fXD6fswA7gxaxwwxb7lsY"
@@ -971,6 +1033,46 @@
       "duration_ms": 219730,
       "name": "Ware Meddies",
       "url": "https://open.spotify.com/track/6XuX7LKxTxncK1YfQyL3YJ"
+    },
+    {
+      "album": {
+        "name": "Watch Wat Jy Praat",
+        "url": "https://open.spotify.com/album/0xjCTQeFz0rkSNSq2SsyV3"
+      },
+      "artists": [
+        {
+          "name": "Jossi-Boy",
+          "url": "https://open.spotify.com/artist/4Ewat2VC8zABVgUA0YEXvY"
+        },
+        {
+          "name": "Young K",
+          "url": "https://open.spotify.com/artist/2K1piKoDWujwiWh5pdktIV"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220150,
+      "name": "Watch Wat Jy Praat",
+      "url": "https://open.spotify.com/track/05jiDkfyoTZzhEHf7eN94t"
+    },
+    {
+      "album": {
+        "name": "The Goats Ep",
+        "url": "https://open.spotify.com/album/7gNuFZUosaLFUvWK4xJV8D"
+      },
+      "artists": [
+        {
+          "name": "Temple Boys Cpt",
+          "url": "https://open.spotify.com/artist/4xFNz56JhznT2ic3fhEg8n"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215536,
+      "name": "Werkhom 2.0 (Bonus Track)",
+      "url": "https://open.spotify.com/track/0zi0Do3nO8LtRzlau2V7DR"
     },
     {
       "album": {

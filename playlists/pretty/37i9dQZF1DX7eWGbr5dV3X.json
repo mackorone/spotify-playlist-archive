@@ -1,12 +1,12 @@
 {
   "description": "Celebrate, amplify, and support LGBTQ+ API musicians. Cover: Deb Never.",
-  "num_followers": 6637,
+  "num_followers": 7142,
   "original_name": "API Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ0MjM0NCwwMDAwMDAwMDkxZDg1ZThjNjk3NDI1NGM3ZDI2MWYwNTdjYjRlNTU0",
+  "snapshot_id": "MTY2MTQ0MjM0NCwwMDAwMDAwMGZiMjdkNTk3NmI0Y2FmYzUxZDJiZjYyNTdjNzA1ZGZi",
   "tracks": [
     {
       "added_at": "2022-08-25 15:45:44",
@@ -99,22 +99,6 @@
     {
       "added_at": "2022-08-25 15:45:44",
       "album": {
-        "name": "SAWAYAMA",
-        "url": "https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 181506,
-      "name": "Comme Des Gar\u00e7ons (Like The Boys)",
-      "url": "https://open.spotify.com/track/43bYs8QkPdCdy5esfnmU1T"
-    },
-    {
-      "added_at": "2022-08-25 15:45:44",
-      "album": {
         "name": "This Side of Paradise - EP",
         "url": "https://open.spotify.com/album/1DBeQGiRdap7iuvuxSx3bD"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 229655,
       "name": "Girls Like Girls",
       "url": "https://open.spotify.com/track/3dNjUFt6EFU4Gq6Q5vfJqf"
+    },
+    {
+      "added_at": "2022-08-25 15:45:44",
+      "album": {
+        "name": "SAWAYAMA",
+        "url": "https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 181506,
+      "name": "Comme Des Gar\u00e7ons (Like The Boys)",
+      "url": "https://open.spotify.com/track/43bYs8QkPdCdy5esfnmU1T"
     },
     {
       "added_at": "2022-08-25 15:45:44",
@@ -163,8 +163,8 @@
     {
       "added_at": "2022-08-25 15:45:44",
       "album": {
-        "name": "ok on your own",
-        "url": "https://open.spotify.com/album/2UUaWZK2WP9xhzNb0kd8rK"
+        "name": "dusk",
+        "url": "https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp"
       },
       "artists": [
         {
@@ -177,24 +177,8 @@
         }
       ],
       "duration_ms": 208333,
-      "name": "ok on your own (feat. Carly Rae Jepsen)",
-      "url": "https://open.spotify.com/track/36GBFPY75lJpxk7GugxhL7"
-    },
-    {
-      "added_at": "2022-08-25 15:45:44",
-      "album": {
-        "name": "Good Advice",
-        "url": "https://open.spotify.com/album/4azZB6gjS66sHkFaGx7RAy"
-      },
-      "artists": [
-        {
-          "name": "khai dreams",
-          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
-        }
-      ],
-      "duration_ms": 164295,
-      "name": "Good Advice",
-      "url": "https://open.spotify.com/track/4JVPw2DvZp4faUTHjfa4PM"
+      "name": "ok on your own",
+      "url": "https://open.spotify.com/track/3B3AzChR44z7JxsiWB47Xw"
     },
     {
       "added_at": "2022-08-25 15:45:44",
@@ -215,18 +199,34 @@
     {
       "added_at": "2022-08-25 15:45:44",
       "album": {
-        "name": "Chance",
-        "url": "https://open.spotify.com/album/5asOQyea3S0k6bgt2nTK9Y"
+        "name": "Rare",
+        "url": "https://open.spotify.com/album/6r8yNzbwBpa3Ftm1BxpV11"
       },
       "artists": [
         {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+          "name": "Vardaan Arora",
+          "url": "https://open.spotify.com/artist/5W2Oohe20LNWXAqq5aOaP2"
         }
       ],
-      "duration_ms": 199070,
-      "name": "chance",
-      "url": "https://open.spotify.com/track/6I1Q5mSAvXveekghOaTUoR"
+      "duration_ms": 200347,
+      "name": "Rare",
+      "url": "https://open.spotify.com/track/0zmEFpSH6KwZnBHr0cGe9a"
+    },
+    {
+      "added_at": "2022-08-25 15:45:44",
+      "album": {
+        "name": "Good Advice",
+        "url": "https://open.spotify.com/album/4azZB6gjS66sHkFaGx7RAy"
+      },
+      "artists": [
+        {
+          "name": "khai dreams",
+          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
+        }
+      ],
+      "duration_ms": 164295,
+      "name": "Good Advice",
+      "url": "https://open.spotify.com/track/4JVPw2DvZp4faUTHjfa4PM"
     },
     {
       "added_at": "2022-08-25 15:45:44",
@@ -263,18 +263,18 @@
     {
       "added_at": "2022-08-25 15:45:44",
       "album": {
-        "name": "Rare",
-        "url": "https://open.spotify.com/album/6r8yNzbwBpa3Ftm1BxpV11"
+        "name": "Chance",
+        "url": "https://open.spotify.com/album/5asOQyea3S0k6bgt2nTK9Y"
       },
       "artists": [
         {
-          "name": "Vardaan Arora",
-          "url": "https://open.spotify.com/artist/5W2Oohe20LNWXAqq5aOaP2"
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 200347,
-      "name": "Rare",
-      "url": "https://open.spotify.com/track/0zmEFpSH6KwZnBHr0cGe9a"
+      "duration_ms": 199070,
+      "name": "chance",
+      "url": "https://open.spotify.com/track/6I1Q5mSAvXveekghOaTUoR"
     },
     {
       "added_at": "2022-08-25 15:45:44",
@@ -327,18 +327,18 @@
     {
       "added_at": "2022-08-25 15:45:44",
       "album": {
-        "name": "Fix Me",
-        "url": "https://open.spotify.com/album/2coYzAJGlm6XhGdgaLgsFt"
+        "name": "Masterpiece (80s Remix)",
+        "url": "https://open.spotify.com/album/2tJRA9WA7MHc8WbmHHAE9z"
       },
       "artists": [
         {
-          "name": "Jake Zyrus",
-          "url": "https://open.spotify.com/artist/6hIZBf6t4Yy8Lrqj7vPYTr"
+          "name": "Summer Luk",
+          "url": "https://open.spotify.com/artist/7jlNTGVXBk8VsSICN3Qswd"
         }
       ],
-      "duration_ms": 205291,
-      "name": "Fix Me",
-      "url": "https://open.spotify.com/track/4UJCTSc1E7fMmNJiHvowHF"
+      "duration_ms": 238999,
+      "name": "Masterpiece (80s Remix)",
+      "url": "https://open.spotify.com/track/3LspHgoGctRuW3lccLI5gx"
     },
     {
       "added_at": "2022-08-25 15:45:44",
@@ -359,34 +359,18 @@
     {
       "added_at": "2022-08-25 15:45:44",
       "album": {
-        "name": "Stay Proud of Me",
-        "url": "https://open.spotify.com/album/5YSwTbPxb10MLaSU71w2y2"
+        "name": "Fix Me",
+        "url": "https://open.spotify.com/album/2coYzAJGlm6XhGdgaLgsFt"
       },
       "artists": [
         {
-          "name": "NoSo",
-          "url": "https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o"
+          "name": "Jake Zyrus",
+          "url": "https://open.spotify.com/artist/6hIZBf6t4Yy8Lrqj7vPYTr"
         }
       ],
-      "duration_ms": 209360,
-      "name": "Man Who Loves You",
-      "url": "https://open.spotify.com/track/68dUmGSHlVI88mej6pb418"
-    },
-    {
-      "added_at": "2022-08-25 15:45:44",
-      "album": {
-        "name": "Masterpiece (80s Remix)",
-        "url": "https://open.spotify.com/album/2tJRA9WA7MHc8WbmHHAE9z"
-      },
-      "artists": [
-        {
-          "name": "Summer Luk",
-          "url": "https://open.spotify.com/artist/7jlNTGVXBk8VsSICN3Qswd"
-        }
-      ],
-      "duration_ms": 238999,
-      "name": "Masterpiece (80s Remix)",
-      "url": "https://open.spotify.com/track/3LspHgoGctRuW3lccLI5gx"
+      "duration_ms": 205291,
+      "name": "Fix Me",
+      "url": "https://open.spotify.com/track/4UJCTSc1E7fMmNJiHvowHF"
     },
     {
       "added_at": "2022-08-25 15:45:44",
@@ -407,18 +391,18 @@
     {
       "added_at": "2022-08-25 15:45:44",
       "album": {
-        "name": "Boys Aside",
-        "url": "https://open.spotify.com/album/048AmHZqwIAfCPIBrEsSeq"
+        "name": "Stay Proud of Me",
+        "url": "https://open.spotify.com/album/5YSwTbPxb10MLaSU71w2y2"
       },
       "artists": [
         {
-          "name": "Sofya Wang",
-          "url": "https://open.spotify.com/artist/4axDBKx7Segq3j5P2VVSjx"
+          "name": "NoSo",
+          "url": "https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o"
         }
       ],
-      "duration_ms": 230000,
-      "name": "Boys Aside",
-      "url": "https://open.spotify.com/track/2aqQYoZ3FuifdW29q1SO1s"
+      "duration_ms": 209360,
+      "name": "Man Who Loves You",
+      "url": "https://open.spotify.com/track/68dUmGSHlVI88mej6pb418"
     },
     {
       "added_at": "2022-08-25 15:45:44",
@@ -439,18 +423,18 @@
     {
       "added_at": "2022-08-25 15:45:44",
       "album": {
-        "name": "NEVERLAND",
-        "url": "https://open.spotify.com/album/2y8I9aWRSnBXSUtVWVwBes"
+        "name": "Boys Aside",
+        "url": "https://open.spotify.com/album/0GlNcL9wQ1WdtXywFzKhYB"
       },
       "artists": [
         {
-          "name": "Holland",
-          "url": "https://open.spotify.com/artist/3PA9tXcZqiaBXwopM9GPZP"
+          "name": "Sofya Wang",
+          "url": "https://open.spotify.com/artist/4axDBKx7Segq3j5P2VVSjx"
         }
       ],
-      "duration_ms": 222928,
-      "name": "NEVERLAND",
-      "url": "https://open.spotify.com/track/5e9gNMrGlVblMER6iN2tnJ"
+      "duration_ms": 230000,
+      "name": "Boys Aside",
+      "url": "https://open.spotify.com/track/2FV7xvk1NeplzSxoUk6Egc"
     },
     {
       "added_at": "2022-08-25 15:45:44",
@@ -471,6 +455,22 @@
     {
       "added_at": "2022-08-25 15:45:44",
       "album": {
+        "name": "NEVERLAND",
+        "url": "https://open.spotify.com/album/2y8I9aWRSnBXSUtVWVwBes"
+      },
+      "artists": [
+        {
+          "name": "Holland",
+          "url": "https://open.spotify.com/artist/3PA9tXcZqiaBXwopM9GPZP"
+        }
+      ],
+      "duration_ms": 222928,
+      "name": "NEVERLAND",
+      "url": "https://open.spotify.com/track/5e9gNMrGlVblMER6iN2tnJ"
+    },
+    {
+      "added_at": "2022-08-25 15:45:44",
+      "album": {
         "name": "Mess",
         "url": "https://open.spotify.com/album/3RYjGPpZvBQmNHu9QUUywN"
       },
@@ -483,22 +483,6 @@
       "duration_ms": 212080,
       "name": "Mess",
       "url": "https://open.spotify.com/track/0qGy2mmBbemdvjHy1cfmrD"
-    },
-    {
-      "added_at": "2022-08-25 15:45:44",
-      "album": {
-        "name": "You Look so Good",
-        "url": "https://open.spotify.com/album/5r73WnvgjwL3ydzrtsmqpm"
-      },
-      "artists": [
-        {
-          "name": "Priyanka",
-          "url": "https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO"
-        }
-      ],
-      "duration_ms": 170728,
-      "name": "You Look so Good",
-      "url": "https://open.spotify.com/track/66tyrSjqL9P6sZAb8TQm3X"
     },
     {
       "added_at": "2022-08-25 15:45:44",
@@ -519,18 +503,18 @@
     {
       "added_at": "2022-08-25 15:45:44",
       "album": {
-        "name": "Abide",
-        "url": "https://open.spotify.com/album/3s7Np4fVlWEsQv4R8b5IOO"
+        "name": "You Look so Good",
+        "url": "https://open.spotify.com/album/5r73WnvgjwL3ydzrtsmqpm"
       },
       "artists": [
         {
-          "name": "Summer Luk",
-          "url": "https://open.spotify.com/artist/7jlNTGVXBk8VsSICN3Qswd"
+          "name": "Priyanka",
+          "url": "https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO"
         }
       ],
-      "duration_ms": 191684,
-      "name": "Abide",
-      "url": "https://open.spotify.com/track/5dBxM0ddTrg8VKEyM7BgTG"
+      "duration_ms": 170728,
+      "name": "You Look so Good",
+      "url": "https://open.spotify.com/track/66tyrSjqL9P6sZAb8TQm3X"
     },
     {
       "added_at": "2022-08-25 15:45:44",
@@ -551,38 +535,18 @@
     {
       "added_at": "2022-08-25 15:45:44",
       "album": {
-        "name": "Open up Babe (Perry twins remix)",
-        "url": "https://open.spotify.com/album/3gRtkDFfm9vNXknawgocnI"
+        "name": "Abide",
+        "url": "https://open.spotify.com/album/3s7Np4fVlWEsQv4R8b5IOO"
       },
       "artists": [
         {
-          "name": "Wils",
-          "url": "https://open.spotify.com/artist/4CVZoZcpNbLBtmK2IddbWn"
-        },
-        {
-          "name": "Perry Twins",
-          "url": "https://open.spotify.com/artist/7F125d4xYCuEndViJQmj1K"
+          "name": "Summer Luk",
+          "url": "https://open.spotify.com/artist/7jlNTGVXBk8VsSICN3Qswd"
         }
       ],
-      "duration_ms": 267000,
-      "name": "Open up Babe - Perry twins remix",
-      "url": "https://open.spotify.com/track/1S1Bg9s61Q4NDl8g6VWmOk"
-    },
-    {
-      "added_at": "2022-08-25 15:45:44",
-      "album": {
-        "name": "out!",
-        "url": "https://open.spotify.com/album/6pJwhmtkfyJ4nVsENdViPp"
-      },
-      "artists": [
-        {
-          "name": "Pyra",
-          "url": "https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9"
-        }
-      ],
-      "duration_ms": 160226,
-      "name": "out!",
-      "url": "https://open.spotify.com/track/7BB8XTZKAuFkgQavowZUxN"
+      "duration_ms": 191684,
+      "name": "Abide",
+      "url": "https://open.spotify.com/track/5dBxM0ddTrg8VKEyM7BgTG"
     },
     {
       "added_at": "2022-08-25 15:45:44",
@@ -603,34 +567,18 @@
     {
       "added_at": "2022-08-25 15:45:44",
       "album": {
-        "name": "Say My Name",
-        "url": "https://open.spotify.com/album/3GvF4miurhOMPd7Rg2Q9eL"
+        "name": "out!",
+        "url": "https://open.spotify.com/album/6pJwhmtkfyJ4nVsENdViPp"
       },
       "artists": [
         {
-          "name": "Priyanka",
-          "url": "https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO"
+          "name": "Pyra",
+          "url": "https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9"
         }
       ],
-      "duration_ms": 167026,
-      "name": "Say My Name",
-      "url": "https://open.spotify.com/track/4syAu4kgVGtLa4j1x0rKCa"
-    },
-    {
-      "added_at": "2022-08-25 15:45:44",
-      "album": {
-        "name": "Safe",
-        "url": "https://open.spotify.com/album/5G5uK5K20TSjbJkW0pVRiq"
-      },
-      "artists": [
-        {
-          "name": "Somaya",
-          "url": "https://open.spotify.com/artist/1T4lXkUsMvWaBpk4DjMrdZ"
-        }
-      ],
-      "duration_ms": 203997,
-      "name": "Safe",
-      "url": "https://open.spotify.com/track/2EGhBERtho5xqUnXiu8LgS"
+      "duration_ms": 160226,
+      "name": "out!",
+      "url": "https://open.spotify.com/track/7BB8XTZKAuFkgQavowZUxN"
     },
     {
       "added_at": "2022-08-25 15:45:44",
@@ -655,6 +603,26 @@
     {
       "added_at": "2022-08-25 15:45:44",
       "album": {
+        "name": "Open up Babe (Perry twins remix)",
+        "url": "https://open.spotify.com/album/7rYucvcu1gCVuPffMT5wmx"
+      },
+      "artists": [
+        {
+          "name": "Wils",
+          "url": "https://open.spotify.com/artist/4CVZoZcpNbLBtmK2IddbWn"
+        },
+        {
+          "name": "Perry Twins",
+          "url": "https://open.spotify.com/artist/7F125d4xYCuEndViJQmj1K"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "Open up Babe - Perry twins remix",
+      "url": "https://open.spotify.com/track/64juiILJDA5pLdP2nV0Dvz"
+    },
+    {
+      "added_at": "2022-08-25 15:45:44",
+      "album": {
         "name": "All I Have To Do Is Dream",
         "url": "https://open.spotify.com/album/0uoZnGYyRF3QWuf0RKU1mo"
       },
@@ -667,6 +635,22 @@
       "duration_ms": 221820,
       "name": "All I Have To Do Is Dream",
       "url": "https://open.spotify.com/track/3pSjlLIbZZ67aWL1DwGXoE"
+    },
+    {
+      "added_at": "2022-08-25 15:45:44",
+      "album": {
+        "name": "Safe",
+        "url": "https://open.spotify.com/album/5G5uK5K20TSjbJkW0pVRiq"
+      },
+      "artists": [
+        {
+          "name": "Somaya",
+          "url": "https://open.spotify.com/artist/1T4lXkUsMvWaBpk4DjMrdZ"
+        }
+      ],
+      "duration_ms": 203997,
+      "name": "Safe",
+      "url": "https://open.spotify.com/track/2EGhBERtho5xqUnXiu8LgS"
     },
     {
       "added_at": "2022-08-25 15:45:44",
@@ -687,18 +671,18 @@
     {
       "added_at": "2022-08-25 15:45:44",
       "album": {
-        "name": "I'm Alright",
-        "url": "https://open.spotify.com/album/0021hkIWKyizFTcZepAUfe"
+        "name": "Say My Name",
+        "url": "https://open.spotify.com/album/3GvF4miurhOMPd7Rg2Q9eL"
       },
       "artists": [
         {
-          "name": "LEADR",
-          "url": "https://open.spotify.com/artist/5MBtoGEv50nmq08tb3y38v"
+          "name": "Priyanka",
+          "url": "https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO"
         }
       ],
-      "duration_ms": 194206,
-      "name": "I'm Alright",
-      "url": "https://open.spotify.com/track/3a4RFjxPCttnbX5jgKxUuR"
+      "duration_ms": 167026,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/4syAu4kgVGtLa4j1x0rKCa"
     },
     {
       "added_at": "2022-08-25 15:45:44",
@@ -715,6 +699,22 @@
       "duration_ms": 247000,
       "name": "You Matter",
       "url": "https://open.spotify.com/track/1arOj3xVlQB9veK0piJnC4"
+    },
+    {
+      "added_at": "2022-08-25 15:45:44",
+      "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/3LOID2hbE7cWAkTpZBK0Tw"
+      },
+      "artists": [
+        {
+          "name": "LEADR",
+          "url": "https://open.spotify.com/artist/5MBtoGEv50nmq08tb3y38v"
+        }
+      ],
+      "duration_ms": 194206,
+      "name": "I'm Alright",
+      "url": "https://open.spotify.com/track/2k1R9dCYOEWKn4ZV6Tk8HD"
     }
   ],
   "unique_name": "API Pride",

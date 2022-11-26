@@ -106,6 +106,28 @@
     },
     {
       "album": {
+        "name": "Dream On",
+        "url": "https://open.spotify.com/album/4JMdo0OAYFeAT0LIhvKiHD"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        },
+        {
+          "name": "Dave Clarke",
+          "url": "https://open.spotify.com/artist/6Fr9aJBxyMOkTFF0b9JZrQ"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 313266,
+      "name": "Dream On - Dave Clarke Club Mix",
+      "url": "https://open.spotify.com/track/2kGplArPqaTLDuqzYIuOVv"
+    },
+    {
+      "album": {
         "name": "Exciter | The 12\" Singles",
         "url": "https://open.spotify.com/album/4XdincYsK4PTTbqUNauNl3"
       },

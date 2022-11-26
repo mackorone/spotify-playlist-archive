@@ -370,6 +370,24 @@
     },
     {
       "album": {
+        "name": "Musique, Vol. 1",
+        "url": "https://open.spotify.com/album/4a0p1M12f7VaZWdoNSdEK4"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 319879,
+      "name": "Human After All",
+      "url": "https://open.spotify.com/track/2FTxc9WUZcKFQtFrT1oOVd"
+    },
+    {
+      "album": {
         "name": "Human After All",
         "url": "https://open.spotify.com/album/1A2GTWGtFfWp7KSQTwWOyo"
       },
@@ -551,7 +569,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 240533,
-      "name": "Mothership Reconnection (feat.Parliament/Funkadelic) - (Daft Punk Remix)",
+      "name": "Mothership Reconnection (feat. Parliament/Funkadelic) - (Daft Punk Remix)",
       "url": "https://open.spotify.com/track/5aWVNrjqFHCATLIhS2na3t"
     },
     {
@@ -625,6 +643,24 @@
       "duration_ms": 335026,
       "name": "Revolution 909",
       "url": "https://open.spotify.com/track/5pgZpHqfv4TSomtkfGZGrG"
+    },
+    {
+      "album": {
+        "name": "Musique, Vol. 1",
+        "url": "https://open.spotify.com/album/4a0p1M12f7VaZWdoNSdEK4"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 287720,
+      "name": "Robot Rock",
+      "url": "https://open.spotify.com/track/247OK7W7ke06iripfvHDiw"
     },
     {
       "album": {
@@ -737,6 +773,28 @@
       "duration_ms": 230453,
       "name": "Starboy",
       "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
+    },
+    {
+      "album": {
+        "name": "Domingo pero ma\u00f1ana es festivo",
+        "url": "https://open.spotify.com/album/22pFfQPkbXknfFGbmVA2HF"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 230461,
+      "name": "Starboy",
+      "url": "https://open.spotify.com/track/3dVIFQ5wpepj4hYv1tdvHc"
     },
     {
       "album": {

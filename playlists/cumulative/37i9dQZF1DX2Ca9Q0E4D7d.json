@@ -84,6 +84,24 @@
     },
     {
       "album": {
+        "name": "Binaural Drift",
+        "url": "https://open.spotify.com/album/7s28ywx1Jtag67oWdFS4Gw"
+      },
+      "artists": [
+        {
+          "name": "Atoom",
+          "url": "https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "Beta Drift 22 Hz",
+      "url": "https://open.spotify.com/track/2XbdiWmGMsofgPwC7fo5Lx"
+    },
+    {
+      "album": {
         "name": "Beta Binaural Flow",
         "url": "https://open.spotify.com/album/0BbjO786iZzVcE3qeUaBYE"
       },
@@ -876,6 +894,42 @@
     },
     {
       "album": {
+        "name": "Deep Focus Beta",
+        "url": "https://open.spotify.com/album/56bkivOwmgSzt5dHVrmcRm"
+      },
+      "artists": [
+        {
+          "name": "Aerial Lakes",
+          "url": "https://open.spotify.com/artist/52GC47uinFvXuWXBqx83nt"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180960,
+      "name": "Dayspring Beta Sinus 72 Hz - 92 Hz",
+      "url": "https://open.spotify.com/track/4HmxH7v8bsEr22gy6xL33n"
+    },
+    {
+      "album": {
+        "name": "Decompress & Realign (Binaural Beta)",
+        "url": "https://open.spotify.com/album/33GGErLxSTSu4kMxN5A1qD"
+      },
+      "artists": [
+        {
+          "name": "Binaural Boy",
+          "url": "https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Decompress (Beta 118 Hz - 132 Hz)",
+      "url": "https://open.spotify.com/track/3fCxL73pqo8SRRB9a1JvlF"
+    },
+    {
+      "album": {
         "name": "Trillion",
         "url": "https://open.spotify.com/album/3BaMhE7o0DPZDcogIVoCB9"
       },
@@ -927,6 +981,60 @@
       "duration_ms": 232871,
       "name": "Memory (98.7Hz - 117.6Hz)",
       "url": "https://open.spotify.com/track/2C1ltQaRUjQC10ST5JkhGZ"
+    },
+    {
+      "album": {
+        "name": "Deep Focus Beta",
+        "url": "https://open.spotify.com/album/56bkivOwmgSzt5dHVrmcRm"
+      },
+      "artists": [
+        {
+          "name": "Aerial Lakes",
+          "url": "https://open.spotify.com/artist/52GC47uinFvXuWXBqx83nt"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176250,
+      "name": "Presence Beta Sinus 130 Hz - 146 Hz",
+      "url": "https://open.spotify.com/track/39NMPaHisCJGGODQDArsiN"
+    },
+    {
+      "album": {
+        "name": "Decompress & Realign (Binaural Beta)",
+        "url": "https://open.spotify.com/album/33GGErLxSTSu4kMxN5A1qD"
+      },
+      "artists": [
+        {
+          "name": "Binaural Boy",
+          "url": "https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Realign (Beta 130.5 Hz - 149.1 Hz)",
+      "url": "https://open.spotify.com/track/2hhOdjkHZXyNnHw4nLTFM5"
+    },
+    {
+      "album": {
+        "name": "Deep Focus Beta",
+        "url": "https://open.spotify.com/album/56bkivOwmgSzt5dHVrmcRm"
+      },
+      "artists": [
+        {
+          "name": "Aerial Lakes",
+          "url": "https://open.spotify.com/artist/52GC47uinFvXuWXBqx83nt"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193563,
+      "name": "Soaring Eagle Beta Sinus 116 Hz - 131 Hz",
+      "url": "https://open.spotify.com/track/3qR90xoCsHQceqOGhdgPbs"
     },
     {
       "album": {

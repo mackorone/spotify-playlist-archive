@@ -4,7 +4,7 @@
 
 > A collection of fairy tales and kids' stories perfect for bedtime and beyond.
 
-61 songs - 10 hr 22 min - [published](https://open.spotify.com/playlist/0fA827yboOSTe39CZBW85j)
+64 songs - 11 hr 13 min - [published](https://open.spotify.com/playlist/0fA827yboOSTe39CZBW85j)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Rip Van Winkle](https://open.spotify.com/track/35G8bOSLYZJPmsvjm2EHVf) | [The Ultimate Storyteller](https://open.spotify.com/artist/7EUAjyQlDwLUeWAG1JoyG5) | [Ultimate Kids Fairy Tales Vol\. 1](https://open.spotify.com/album/1YfBuHSOsF1RWfTmL6g5Ky) | 4:42 | 2019-03-06 |  |
 | [Rumpelstiltskin](https://open.spotify.com/track/1VLdujgPTcYwUBYwJJkcsP) | [Honor Blackman](https://open.spotify.com/artist/4sTTEheJxmjwv9TmrHOaPz) | [Funny Fables](https://open.spotify.com/album/2qrtgdi4uOULVCtK7sQre4) | 19:43 | 2019-03-06 |  |
 | [Rumpelstiltskin](https://open.spotify.com/track/7nZsQX2U5NLguIR8c7MrlL) | [Honor Blackman](https://open.spotify.com/artist/4sTTEheJxmjwv9TmrHOaPz) | [Funny Fables](https://open.spotify.com/album/3p67SbNch64MaJSPSUujYY) | 19:43 | 2019-03-06 | 2022-07-29 |
+| [Rumpelstiltskin](https://open.spotify.com/track/5XA1LiUHe9bRCA4rILwXgh) | [Honor Blackman](https://open.spotify.com/artist/4sTTEheJxmjwv9TmrHOaPz) | [Honor Blackman Reads Funny Fables](https://open.spotify.com/album/0pQeEafXxVQnv4sqgaHXeE) | 19:43 | 2019-03-06 | 2022-11-14 |
 | [Sinbad The Sailor](https://open.spotify.com/track/7vURYS7KKRlAXjXaOwFY4i) | [Fairy Tales](https://open.spotify.com/artist/1NyKett1dn0nNoZMNTTShB) | [Bedtime Stories](https://open.spotify.com/album/05XRi68zVYcNjLOkDC7FSl) | 2:49 | 2019-03-06 |  |
 | [Sleeping Beauty](https://open.spotify.com/track/5igPvKQ6hLqSVLGibysbSw) | [Cindy Robinson](https://open.spotify.com/artist/7Cky42ttadk7opBWW0yi38) | [Songs and Story: Sleeping Beauty](https://open.spotify.com/album/0g9VcAua5r6AIaQs2BINWu) | 19:03 | 2019-03-06 |  |
 | [Snow White and the Seven Dwarves](https://open.spotify.com/track/2EtluynjfnZpfbjx6MGF6C) | [Anita Harris](https://open.spotify.com/artist/0FNGM4tBuvFyljyFx5sR3O) | [Classic Children's Stories](https://open.spotify.com/album/4qStcEW11BpA9AeCmWOSs7) | 22:53 | 2019-03-06 |  |
@@ -57,12 +58,14 @@
 | [The Princess and the Frog](https://open.spotify.com/track/68dktL7vR4B95u3CruMGUt) | [Cindy Robinson](https://open.spotify.com/artist/7Cky42ttadk7opBWW0yi38) | [Songs and Story: The Princess and the Frog](https://open.spotify.com/album/1tbd2iI63LXvBon9yEP4gT) | 20:58 | 2019-03-06 |  |
 | [The Princess And The Pea](https://open.spotify.com/track/3MtDegdEkFBvwjGzZDofMa) | [Honor Blackman](https://open.spotify.com/artist/4sTTEheJxmjwv9TmrHOaPz) | [Funny Fables](https://open.spotify.com/album/2qrtgdi4uOULVCtK7sQre4) | 16:03 | 2019-03-06 |  |
 | [The Princess And The Pea](https://open.spotify.com/track/6TgBwLHDSNSNoZjTaziLxc) | [Honor Blackman](https://open.spotify.com/artist/4sTTEheJxmjwv9TmrHOaPz) | [Funny Fables](https://open.spotify.com/album/3p67SbNch64MaJSPSUujYY) | 16:03 | 2019-03-06 | 2022-07-29 |
+| [The Princess And The Pea](https://open.spotify.com/track/18mggoSWpYO8cdjXHSODJA) | [Honor Blackman](https://open.spotify.com/artist/4sTTEheJxmjwv9TmrHOaPz) | [Honor Blackman Reads Funny Fables](https://open.spotify.com/album/0pQeEafXxVQnv4sqgaHXeE) | 16:03 | 2019-03-06 | 2022-11-14 |
 | [The Snow Maiden](https://open.spotify.com/track/0ma9v8ekfhHpODXv6jTbvs) | [The Ultimate Storyteller](https://open.spotify.com/artist/7EUAjyQlDwLUeWAG1JoyG5) | [Ultimate Kids Stories Vol\. 1](https://open.spotify.com/album/0KXu1z6wfYBXVGdT71GwCJ) | 3:38 | 2019-03-06 |  |
 | [The Sun & The Moon](https://open.spotify.com/track/0AGGpnIB8IHBUn1dd19V4z) | [The Hit Crew](https://open.spotify.com/artist/76PJKS3IQsf4sSayx2taE0) | [50 Bestest Kids Stories](https://open.spotify.com/album/1Qtz7z5cytUph4DhlGiUmi) | 2:16 | 2019-03-06 |  |
 | [The Three Little Pigs](https://open.spotify.com/track/41RY9lMftUDSnWxFiwlGMB) | [Fairy Tales](https://open.spotify.com/artist/1NyKett1dn0nNoZMNTTShB) | [Bedtime Stories](https://open.spotify.com/album/05XRi68zVYcNjLOkDC7FSl) | 3:09 | 2019-03-06 |  |
 | [The Three Spinners](https://open.spotify.com/track/2Uxec2ijGqz6tM4ADEtSsN) | [The Ultimate Storyteller](https://open.spotify.com/artist/7EUAjyQlDwLUeWAG1JoyG5) | [Ultimate Kids Fairy Tales Vol\. 2](https://open.spotify.com/album/2WEOAXPbDiAhGp6eBg7Bem) | 2:31 | 2019-03-06 |  |
 | [The Tortoise and the Hare](https://open.spotify.com/track/73yeCECLym0lytowUjWvn7) | [The Ultimate Storyteller](https://open.spotify.com/artist/7EUAjyQlDwLUeWAG1JoyG5) | [Ultimate Kids Stories Vol\. 2](https://open.spotify.com/album/3ySFiawXRQ9lOTptuQI4gQ) | 1:13 | 2019-03-06 |  |
 | [The Ugly Duckling](https://open.spotify.com/track/6WYXShDrLjph0hdgf45RLQ) | [Fairy Tales](https://open.spotify.com/artist/1NyKett1dn0nNoZMNTTShB) | [Bedtime Stories](https://open.spotify.com/album/05XRi68zVYcNjLOkDC7FSl) | 2:52 | 2019-03-06 |  |
+| [The Very Sad Princess](https://open.spotify.com/track/1llfKhqHp6CYVj8aXMtxGX) | [Honor Blackman](https://open.spotify.com/artist/4sTTEheJxmjwv9TmrHOaPz) | [Honor Blackman Reads Funny Fables](https://open.spotify.com/album/0pQeEafXxVQnv4sqgaHXeE) | 15:10 | 2019-03-06 | 2022-11-13 |
 | [The Very Sad Princess](https://open.spotify.com/track/4ZdxqJIerDs2BwmaGC8RNt) | [Honor Blackman](https://open.spotify.com/artist/4sTTEheJxmjwv9TmrHOaPz) | [Funny Fables](https://open.spotify.com/album/3p67SbNch64MaJSPSUujYY) | 15:10 | 2019-03-06 | 2022-07-29 |
 | [The Very Sad Princess](https://open.spotify.com/track/5VWr8OtU9r5EYK6Kujd4ON) | [Honor Blackman](https://open.spotify.com/artist/4sTTEheJxmjwv9TmrHOaPz) | [Funny Fables](https://open.spotify.com/album/2qrtgdi4uOULVCtK7sQre4) | 15:10 | 2019-03-06 |  |
 | [Three Billy Goats Gruff](https://open.spotify.com/track/0XEa2Xtzu9ZjWfWbA7TSYH) | [The Ultimate Storyteller](https://open.spotify.com/artist/7EUAjyQlDwLUeWAG1JoyG5) | [Ultimate Kids Stories Vol\. 1](https://open.spotify.com/album/0KXu1z6wfYBXVGdT71GwCJ) | 3:57 | 2019-03-06 |  |

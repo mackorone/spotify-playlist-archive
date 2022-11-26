@@ -1,63 +1,15 @@
 {
   "description": "This is Muse. The essential tracks, all in one playlist.",
-  "num_followers": 676803,
+  "num_followers": 685364,
   "original_name": "This Is Muse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc3NTUzNzAsMDAwMDAwMDBiMGI5NDNkZDcyNDVmZTI2OGMyOGM0Nzc0ZTFlMmQ2Mg==",
+  "snapshot_id": "Mjc4MjMxMDcsMDAwMDAwMDBkODZlNWQ3ZmRjNmY3Mzk0Y2I4MGJmMjgwZWEwNWJkNg==",
   "tracks": [
     {
-      "added_at": "2022-10-09 13:30:31",
-      "album": {
-        "name": "Won\u2019t Stand Down",
-        "url": "https://open.spotify.com/album/3bbeAIMaGSW6gUMeGqw5VS"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 209061,
-      "name": "Won\u2019t Stand Down",
-      "url": "https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz"
-    },
-    {
-      "added_at": "2022-10-09 13:30:31",
-      "album": {
-        "name": "Compliance",
-        "url": "https://open.spotify.com/album/6RDo0wdixcLsAyJY6YeWm0"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 250860,
-      "name": "Compliance",
-      "url": "https://open.spotify.com/track/27hktiddJj63mK6gZAQp4q"
-    },
-    {
-      "added_at": "2022-10-09 13:30:31",
-      "album": {
-        "name": "Black Holes and Revelations",
-        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 212439,
-      "name": "Supermassive Black Hole",
-      "url": "https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9"
-    },
-    {
-      "added_at": "2022-10-09 13:30:31",
+      "added_at": "2022-11-25 14:27:14",
       "album": {
         "name": "The Resistance",
         "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
@@ -73,7 +25,23 @@
       "url": "https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ"
     },
     {
-      "added_at": "2022-10-09 13:30:31",
+      "added_at": "2022-11-25 14:27:14",
+      "album": {
+        "name": "Black Holes and Revelations",
+        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 212439,
+      "name": "Supermassive Black Hole",
+      "url": "https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9"
+    },
+    {
+      "added_at": "2022-11-25 14:27:14",
       "album": {
         "name": "Absolution",
         "url": "https://open.spotify.com/album/0HcHPBu9aaF1MxOiZmUQTl"
@@ -89,7 +57,7 @@
       "url": "https://open.spotify.com/track/7xyYsOvq5Ec3P4fr6mM9fD"
     },
     {
-      "added_at": "2022-10-09 13:30:31",
+      "added_at": "2022-11-25 14:27:14",
       "album": {
         "name": "Will Of The People",
         "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
@@ -105,55 +73,7 @@
       "url": "https://open.spotify.com/track/4k0hvjglHbcZI203QI4pF7"
     },
     {
-      "added_at": "2022-10-09 13:30:31",
-      "album": {
-        "name": "Black Holes and Revelations",
-        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 240213,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/3skn2lauGk7Dx6bVIt5DVj"
-    },
-    {
-      "added_at": "2022-10-09 13:30:31",
-      "album": {
-        "name": "Drones",
-        "url": "https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 316717,
-      "name": "Psycho",
-      "url": "https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS"
-    },
-    {
-      "added_at": "2022-10-09 13:30:31",
-      "album": {
-        "name": "Absolution",
-        "url": "https://open.spotify.com/album/0HcHPBu9aaF1MxOiZmUQTl"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 237039,
-      "name": "Time is Running Out",
-      "url": "https://open.spotify.com/track/2takcwOaAZWiXQijPHIx7B"
-    },
-    {
-      "added_at": "2022-10-09 13:30:31",
+      "added_at": "2022-11-25 14:27:14",
       "album": {
         "name": "The 2nd Law",
         "url": "https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0"
@@ -169,7 +89,7 @@
       "url": "https://open.spotify.com/track/0c4IEciLCDdXEhhKxj4ThA"
     },
     {
-      "added_at": "2022-10-09 13:30:31",
+      "added_at": "2022-11-25 14:27:14",
       "album": {
         "name": "Black Holes and Revelations",
         "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
@@ -180,15 +100,15 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 366213,
-      "name": "Knights of Cydonia",
-      "url": "https://open.spotify.com/track/7ouMYWpwJ422jRcDASZB7P"
+      "duration_ms": 240213,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/3skn2lauGk7Dx6bVIt5DVj"
     },
     {
-      "added_at": "2022-10-09 13:30:31",
+      "added_at": "2022-11-25 14:27:14",
       "album": {
-        "name": "Origin of Symmetry",
-        "url": "https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn"
+        "name": "Absolution",
+        "url": "https://open.spotify.com/album/0HcHPBu9aaF1MxOiZmUQTl"
       },
       "artists": [
         {
@@ -196,12 +116,12 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 218000,
-      "name": "Plug in Baby",
-      "url": "https://open.spotify.com/track/2UKARCqDrhkYDoVR4FN5Wi"
+      "duration_ms": 237039,
+      "name": "Time is Running Out",
+      "url": "https://open.spotify.com/track/2takcwOaAZWiXQijPHIx7B"
     },
     {
-      "added_at": "2022-10-09 13:30:31",
+      "added_at": "2022-11-25 14:27:14",
       "album": {
         "name": "Will Of The People",
         "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
@@ -217,7 +137,39 @@
       "url": "https://open.spotify.com/track/2xO0NhSt9kzKBbNjNVixfC"
     },
     {
-      "added_at": "2022-10-09 13:30:31",
+      "added_at": "2022-11-25 14:27:14",
+      "album": {
+        "name": "Origin of Symmetry",
+        "url": "https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Plug in Baby",
+      "url": "https://open.spotify.com/track/2UKARCqDrhkYDoVR4FN5Wi"
+    },
+    {
+      "added_at": "2022-11-25 14:27:14",
+      "album": {
+        "name": "Black Holes and Revelations",
+        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 366213,
+      "name": "Knights of Cydonia",
+      "url": "https://open.spotify.com/track/7ouMYWpwJ422jRcDASZB7P"
+    },
+    {
+      "added_at": "2022-11-25 14:27:14",
       "album": {
         "name": "The Resistance",
         "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
@@ -233,10 +185,10 @@
       "url": "https://open.spotify.com/track/0It6VJoMAare1zdV2wxqZq"
     },
     {
-      "added_at": "2022-10-09 13:30:31",
+      "added_at": "2022-11-25 14:27:14",
       "album": {
-        "name": "Simulation Theory (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
+        "name": "Will Of The People",
+        "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
       },
       "artists": [
         {
@@ -244,12 +196,28 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 235600,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/3eSyMBd7ERw68NVB3jlRmW"
+      "duration_ms": 209061,
+      "name": "Won\u2019t Stand Down",
+      "url": "https://open.spotify.com/track/6Wi8Byfq6xH0lEkqZbOZg9"
     },
     {
-      "added_at": "2022-10-09 13:30:31",
+      "added_at": "2022-11-25 14:27:14",
+      "album": {
+        "name": "Drones",
+        "url": "https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 316717,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS"
+    },
+    {
+      "added_at": "2022-11-25 14:27:14",
       "album": {
         "name": "Origin of Symmetry",
         "url": "https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn"
@@ -265,7 +233,23 @@
       "url": "https://open.spotify.com/track/5PK1JCSdr34gWgzYHgt3Jq"
     },
     {
-      "added_at": "2022-10-09 13:30:31",
+      "added_at": "2022-11-25 14:27:14",
+      "album": {
+        "name": "Simulation Theory (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 235600,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/3eSyMBd7ERw68NVB3jlRmW"
+    },
+    {
+      "added_at": "2022-11-25 14:27:14",
       "album": {
         "name": "Will Of The People",
         "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
@@ -276,140 +260,12 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 299060,
-      "name": "Kill Or Be Killed",
-      "url": "https://open.spotify.com/track/4scqfHWE0J9dgdbjqstjS3"
+      "duration_ms": 250860,
+      "name": "Compliance",
+      "url": "https://open.spotify.com/track/6tpl3yuDnYHAHb6dY60p5O"
     },
     {
-      "added_at": "2022-10-09 13:30:31",
-      "album": {
-        "name": "The Resistance",
-        "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 346693,
-      "name": "Resistance",
-      "url": "https://open.spotify.com/track/1C2QJNTmsTxCDBuIgai8QV"
-    },
-    {
-      "added_at": "2022-10-09 13:30:31",
-      "album": {
-        "name": "Absolution",
-        "url": "https://open.spotify.com/album/0HcHPBu9aaF1MxOiZmUQTl"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 297000,
-      "name": "Stockholm Syndrome",
-      "url": "https://open.spotify.com/track/5VVWgWH8HFLAtM8lbttvn9"
-    },
-    {
-      "added_at": "2022-10-09 13:30:31",
-      "album": {
-        "name": "The 2nd Law",
-        "url": "https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 184200,
-      "name": "Panic Station",
-      "url": "https://open.spotify.com/track/1tjHKKI0r82IB5KL29whHs"
-    },
-    {
-      "added_at": "2022-10-09 13:30:31",
-      "album": {
-        "name": "Will Of The People",
-        "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 216729,
-      "name": "We Are Fucking Fucked",
-      "url": "https://open.spotify.com/track/5IumuUJqNO7K5SvniuDrBz"
-    },
-    {
-      "added_at": "2022-10-09 13:30:31",
-      "album": {
-        "name": "Showbiz",
-        "url": "https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 233733,
-      "name": "Sunburn",
-      "url": "https://open.spotify.com/track/5wq8wceQvaFlOZovDtfr0j"
-    },
-    {
-      "added_at": "2022-10-09 13:30:31",
-      "album": {
-        "name": "Origin of Symmetry",
-        "url": "https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 363266,
-      "name": "New Born",
-      "url": "https://open.spotify.com/track/2VrJMuLt2m9HbifGrKWHqk"
-    },
-    {
-      "added_at": "2022-10-09 13:30:31",
-      "album": {
-        "name": "The 2nd Law",
-        "url": "https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 295373,
-      "name": "Supremacy",
-      "url": "https://open.spotify.com/track/40pPI2TbaYSZlKfV44HRjn"
-    },
-    {
-      "added_at": "2022-10-09 13:30:31",
-      "album": {
-        "name": "Will Of The People",
-        "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 297962,
-      "name": "Verona",
-      "url": "https://open.spotify.com/track/35E8of4u0B5PI8o4Hy0tWq"
-    },
-    {
-      "added_at": "2022-10-09 13:30:31",
+      "added_at": "2022-11-25 14:27:14",
       "album": {
         "name": "Showbiz",
         "url": "https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO"
@@ -425,10 +281,10 @@
       "url": "https://open.spotify.com/track/6kyxQuFD38mo4S3urD2Wkw"
     },
     {
-      "added_at": "2022-10-09 13:30:31",
+      "added_at": "2022-11-25 14:27:14",
       "album": {
-        "name": "Simulation Theory (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
+        "name": "The 2nd Law",
+        "url": "https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0"
       },
       "artists": [
         {
@@ -436,15 +292,15 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 206106,
-      "name": "Thought Contagion",
-      "url": "https://open.spotify.com/track/57lCa95tmjJ8EYdNTex8Kk"
+      "duration_ms": 184200,
+      "name": "Panic Station",
+      "url": "https://open.spotify.com/track/1tjHKKI0r82IB5KL29whHs"
     },
     {
-      "added_at": "2022-10-09 13:30:31",
+      "added_at": "2022-11-25 14:27:14",
       "album": {
-        "name": "Absolution",
-        "url": "https://open.spotify.com/album/0HcHPBu9aaF1MxOiZmUQTl"
+        "name": "The Resistance",
+        "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
       },
       "artists": [
         {
@@ -452,12 +308,12 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 301733,
-      "name": "Butterflies and Hurricanes",
-      "url": "https://open.spotify.com/track/0xJLcjd0gaZct43xG1UlXS"
+      "duration_ms": 346693,
+      "name": "Resistance",
+      "url": "https://open.spotify.com/track/1C2QJNTmsTxCDBuIgai8QV"
     },
     {
-      "added_at": "2022-10-09 13:30:31",
+      "added_at": "2022-11-25 14:27:14",
       "album": {
         "name": "Will Of The People",
         "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
@@ -468,12 +324,28 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 217034,
-      "name": "Ghosts (How Can I Move On)",
-      "url": "https://open.spotify.com/track/0C5U4go8KKWHmAipujRH6I"
+      "duration_ms": 216729,
+      "name": "We Are Fucking Fucked",
+      "url": "https://open.spotify.com/track/5IumuUJqNO7K5SvniuDrBz"
     },
     {
-      "added_at": "2022-10-09 13:30:31",
+      "added_at": "2022-11-25 14:27:14",
+      "album": {
+        "name": "Showbiz",
+        "url": "https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 233733,
+      "name": "Sunburn",
+      "url": "https://open.spotify.com/track/5wq8wceQvaFlOZovDtfr0j"
+    },
+    {
+      "added_at": "2022-11-25 14:27:14",
       "album": {
         "name": "Black Holes and Revelations",
         "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
@@ -489,10 +361,10 @@
       "url": "https://open.spotify.com/track/5YXr4AGfUQpLSxtFSsKUh6"
     },
     {
-      "added_at": "2022-10-09 13:30:31",
+      "added_at": "2022-11-25 14:27:14",
       "album": {
-        "name": "Drones",
-        "url": "https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ"
+        "name": "Absolution",
+        "url": "https://open.spotify.com/album/0HcHPBu9aaF1MxOiZmUQTl"
       },
       "artists": [
         {
@@ -500,15 +372,15 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 262947,
-      "name": "Dead Inside",
-      "url": "https://open.spotify.com/track/2daZovie6pc2ZK7StayD1K"
+      "duration_ms": 297000,
+      "name": "Stockholm Syndrome",
+      "url": "https://open.spotify.com/track/5VVWgWH8HFLAtM8lbttvn9"
     },
     {
-      "added_at": "2022-10-09 13:30:31",
+      "added_at": "2022-11-25 14:27:14",
       "album": {
-        "name": "Origin of Symmetry",
-        "url": "https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn"
+        "name": "Will Of The People",
+        "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
       },
       "artists": [
         {
@@ -516,15 +388,15 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 251146,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/0j3obufLXq5toSs592dX9U"
+      "duration_ms": 297962,
+      "name": "Verona",
+      "url": "https://open.spotify.com/track/35E8of4u0B5PI8o4Hy0tWq"
     },
     {
-      "added_at": "2022-10-09 13:30:31",
+      "added_at": "2022-11-25 14:27:14",
       "album": {
-        "name": "Showbiz",
-        "url": "https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO"
+        "name": "The 2nd Law",
+        "url": "https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0"
       },
       "artists": [
         {
@@ -532,12 +404,12 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 262973,
-      "name": "Muscle Museum",
-      "url": "https://open.spotify.com/track/5rupf5kRDLhhFPxH15ZmBF"
+      "duration_ms": 295373,
+      "name": "Supremacy",
+      "url": "https://open.spotify.com/track/40pPI2TbaYSZlKfV44HRjn"
     },
     {
-      "added_at": "2022-10-09 13:30:31",
+      "added_at": "2022-11-25 14:27:14",
       "album": {
         "name": "Simulation Theory (Super Deluxe)",
         "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
@@ -548,15 +420,15 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 227213,
-      "name": "The Dark Side",
-      "url": "https://open.spotify.com/track/0dMYPDqcI4ca4cjqlmp9mE"
+      "duration_ms": 206106,
+      "name": "Thought Contagion",
+      "url": "https://open.spotify.com/track/57lCa95tmjJ8EYdNTex8Kk"
     },
     {
-      "added_at": "2022-10-09 13:30:31",
+      "added_at": "2022-11-25 14:27:14",
       "album": {
-        "name": "Neutron Star Collision [Love Is Forever]",
-        "url": "https://open.spotify.com/album/2tJXza5ryx9DKIsmAI8neb"
+        "name": "Origin of Symmetry",
+        "url": "https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn"
       },
       "artists": [
         {
@@ -564,12 +436,12 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 230256,
-      "name": "Neutron Star Collision (Love Is Forever) - Soundtrack Version",
-      "url": "https://open.spotify.com/track/4AIazttPmHpd7p7pwJw692"
+      "duration_ms": 363266,
+      "name": "New Born",
+      "url": "https://open.spotify.com/track/2VrJMuLt2m9HbifGrKWHqk"
     },
     {
-      "added_at": "2022-10-09 13:30:31",
+      "added_at": "2022-11-25 14:27:14",
       "album": {
         "name": "Dead Star / In Your World",
         "url": "https://open.spotify.com/album/3kVGhOkgwIS2S0Gf1El92G"
@@ -585,7 +457,7 @@
       "url": "https://open.spotify.com/track/3Y4m9Td603gbfMB86UNafs"
     },
     {
-      "added_at": "2022-10-09 13:30:31",
+      "added_at": "2022-11-25 14:27:14",
       "album": {
         "name": "Drones",
         "url": "https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ"
@@ -596,12 +468,12 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 359520,
-      "name": "Reapers",
-      "url": "https://open.spotify.com/track/1244xKUG27TnmQhUJlo3gU"
+      "duration_ms": 262947,
+      "name": "Dead Inside",
+      "url": "https://open.spotify.com/track/2daZovie6pc2ZK7StayD1K"
     },
     {
-      "added_at": "2022-10-09 13:30:31",
+      "added_at": "2022-11-25 14:27:14",
       "album": {
         "name": "Simulation Theory (Super Deluxe)",
         "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
@@ -612,15 +484,15 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 228146,
-      "name": "Dig Down",
-      "url": "https://open.spotify.com/track/0RILico3Gbl5jxSNg3zLrJ"
+      "duration_ms": 227213,
+      "name": "The Dark Side",
+      "url": "https://open.spotify.com/track/0dMYPDqcI4ca4cjqlmp9mE"
     },
     {
-      "added_at": "2022-10-09 13:30:31",
+      "added_at": "2022-11-25 14:27:14",
       "album": {
-        "name": "The Resistance",
-        "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
+        "name": "Showbiz",
+        "url": "https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO"
       },
       "artists": [
         {
@@ -628,15 +500,15 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 414960,
-      "name": "Unnatural Selection",
-      "url": "https://open.spotify.com/track/28FJMlLUu9NHuwlZWFKDn7"
+      "duration_ms": 262973,
+      "name": "Muscle Museum",
+      "url": "https://open.spotify.com/track/5rupf5kRDLhhFPxH15ZmBF"
     },
     {
-      "added_at": "2022-10-09 13:30:31",
+      "added_at": "2022-11-25 14:27:14",
       "album": {
-        "name": "The 2nd Law",
-        "url": "https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0"
+        "name": "Origin of Symmetry",
+        "url": "https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn"
       },
       "artists": [
         {
@@ -644,12 +516,12 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 257466,
-      "name": "Survival",
-      "url": "https://open.spotify.com/track/2IFqUmfW8oQoKn6ToxKsMs"
+      "duration_ms": 251146,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/0j3obufLXq5toSs592dX9U"
     },
     {
-      "added_at": "2022-10-09 13:30:31",
+      "added_at": "2022-11-25 14:27:14",
       "album": {
         "name": "Drones",
         "url": "https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ"
@@ -665,10 +537,10 @@
       "url": "https://open.spotify.com/track/2qkmPUG7ARsRwhVICQVwQS"
     },
     {
-      "added_at": "2022-10-09 13:30:31",
+      "added_at": "2022-11-25 14:27:14",
       "album": {
-        "name": "Showbiz",
-        "url": "https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO"
+        "name": "Neutron Star Collision [Love Is Forever]",
+        "url": "https://open.spotify.com/album/2tJXza5ryx9DKIsmAI8neb"
       },
       "artists": [
         {
@@ -676,15 +548,15 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 317000,
-      "name": "Showbiz",
-      "url": "https://open.spotify.com/track/2sCFFlnYg6Lk75GCcfSXEz"
+      "duration_ms": 230256,
+      "name": "Neutron Star Collision (Love Is Forever) - Soundtrack Version",
+      "url": "https://open.spotify.com/track/4AIazttPmHpd7p7pwJw692"
     },
     {
-      "added_at": "2022-10-09 13:30:31",
+      "added_at": "2022-11-25 14:27:14",
       "album": {
-        "name": "Simulation Theory (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
+        "name": "Absolution",
+        "url": "https://open.spotify.com/album/0HcHPBu9aaF1MxOiZmUQTl"
       },
       "artists": [
         {
@@ -692,15 +564,15 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 226786,
-      "name": "Something Human",
-      "url": "https://open.spotify.com/track/1esX5rtwwssnsEQNQk0HGg"
+      "duration_ms": 301733,
+      "name": "Butterflies and Hurricanes",
+      "url": "https://open.spotify.com/track/0xJLcjd0gaZct43xG1UlXS"
     },
     {
-      "added_at": "2022-10-09 13:30:31",
+      "added_at": "2022-11-25 14:27:14",
       "album": {
-        "name": "Black Holes and Revelations",
-        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
+        "name": "The 2nd Law",
+        "url": "https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0"
       },
       "artists": [
         {
@@ -708,12 +580,12 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 211133,
-      "name": "Assassin",
-      "url": "https://open.spotify.com/track/6JnFVmPyJvjnfBag0hhIFa"
+      "duration_ms": 257466,
+      "name": "Survival",
+      "url": "https://open.spotify.com/track/2IFqUmfW8oQoKn6ToxKsMs"
     },
     {
-      "added_at": "2022-10-09 13:30:31",
+      "added_at": "2022-11-25 14:27:14",
       "album": {
         "name": "Drones",
         "url": "https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ"
@@ -729,10 +601,10 @@
       "url": "https://open.spotify.com/track/6xq3Bd7MvZVa7pda9tC4MW"
     },
     {
-      "added_at": "2022-10-09 13:30:31",
+      "added_at": "2022-11-25 14:27:14",
       "album": {
-        "name": "The Resistance",
-        "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
+        "name": "Black Holes and Revelations",
+        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
       },
       "artists": [
         {
@@ -740,15 +612,15 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 246093,
-      "name": "MK Ultra",
-      "url": "https://open.spotify.com/track/0MrkZz4D3fGlEkhebjPPrh"
+      "duration_ms": 211133,
+      "name": "Assassin",
+      "url": "https://open.spotify.com/track/6JnFVmPyJvjnfBag0hhIFa"
     },
     {
-      "added_at": "2022-10-09 13:30:31",
+      "added_at": "2022-11-25 14:27:14",
       "album": {
-        "name": "Absolution",
-        "url": "https://open.spotify.com/album/0HcHPBu9aaF1MxOiZmUQTl"
+        "name": "Simulation Theory (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
       },
       "artists": [
         {
@@ -756,60 +628,12 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 262200,
-      "name": "Blackout",
-      "url": "https://open.spotify.com/track/2nTgdpxwpXTk5x1c9yaO3W"
+      "duration_ms": 228146,
+      "name": "Dig Down",
+      "url": "https://open.spotify.com/track/0RILico3Gbl5jxSNg3zLrJ"
     },
     {
-      "added_at": "2022-10-09 13:30:31",
-      "album": {
-        "name": "The 2nd Law",
-        "url": "https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 262813,
-      "name": "Animals",
-      "url": "https://open.spotify.com/track/2raJLzvNRvipP8cJuchk6U"
-    },
-    {
-      "added_at": "2022-10-09 13:30:31",
-      "album": {
-        "name": "Origin of Symmetry",
-        "url": "https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 441093,
-      "name": "Citizen Erased",
-      "url": "https://open.spotify.com/track/177MZraDAxjRqqtZBz5Vhn"
-    },
-    {
-      "added_at": "2022-10-09 13:30:31",
-      "album": {
-        "name": "The Resistance",
-        "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 347813,
-      "name": "United States of Eurasia (+Collateral Damage)",
-      "url": "https://open.spotify.com/track/0tHbQRjL5phd8OoYl2Bdnd"
-    },
-    {
-      "added_at": "2022-10-09 13:30:31",
+      "added_at": "2022-11-25 14:27:14",
       "album": {
         "name": "Absolution",
         "url": "https://open.spotify.com/album/0HcHPBu9aaF1MxOiZmUQTl"
@@ -825,7 +649,39 @@
       "url": "https://open.spotify.com/track/1hHuyqVCZCbhYQixEkdQCo"
     },
     {
-      "added_at": "2022-10-09 13:30:31",
+      "added_at": "2022-11-25 14:27:14",
+      "album": {
+        "name": "Drones",
+        "url": "https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 359520,
+      "name": "Reapers",
+      "url": "https://open.spotify.com/track/1244xKUG27TnmQhUJlo3gU"
+    },
+    {
+      "added_at": "2022-11-25 14:27:14",
+      "album": {
+        "name": "The Resistance",
+        "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 246093,
+      "name": "MK Ultra",
+      "url": "https://open.spotify.com/track/0MrkZz4D3fGlEkhebjPPrh"
+    },
+    {
+      "added_at": "2022-11-25 14:27:14",
       "album": {
         "name": "The 2nd Law",
         "url": "https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0"
@@ -836,9 +692,121 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 299986,
-      "name": "The 2nd Law: Isolated System",
-      "url": "https://open.spotify.com/track/4nr4gSTFGmTTSbumSY3kfH"
+      "duration_ms": 230920,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/6r9tjMWLv8fNdZKKTnqCEr"
+    },
+    {
+      "added_at": "2022-11-25 14:27:14",
+      "album": {
+        "name": "Absolution",
+        "url": "https://open.spotify.com/album/0HcHPBu9aaF1MxOiZmUQTl"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 37666,
+      "name": "Interlude",
+      "url": "https://open.spotify.com/track/7gmQ329Ocmvb9OImqevFBF"
+    },
+    {
+      "added_at": "2022-11-25 14:27:14",
+      "album": {
+        "name": "Simulation Theory (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 226786,
+      "name": "Something Human",
+      "url": "https://open.spotify.com/track/1esX5rtwwssnsEQNQk0HGg"
+    },
+    {
+      "added_at": "2022-11-25 14:27:14",
+      "album": {
+        "name": "The Resistance",
+        "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 414960,
+      "name": "Unnatural Selection",
+      "url": "https://open.spotify.com/track/28FJMlLUu9NHuwlZWFKDn7"
+    },
+    {
+      "added_at": "2022-11-25 14:27:14",
+      "album": {
+        "name": "Black Holes and Revelations",
+        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 301386,
+      "name": "Invincible",
+      "url": "https://open.spotify.com/track/2zmR3FG7iOGDAdwrVPzdg9"
+    },
+    {
+      "added_at": "2022-11-25 14:27:14",
+      "album": {
+        "name": "The 2nd Law",
+        "url": "https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 262813,
+      "name": "Animals",
+      "url": "https://open.spotify.com/track/2raJLzvNRvipP8cJuchk6U"
+    },
+    {
+      "added_at": "2022-11-25 14:27:14",
+      "album": {
+        "name": "Simulation Theory (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 245960,
+      "name": "Algorithm",
+      "url": "https://open.spotify.com/track/7f0vVL3xi4i78Rv5Ptn2s1"
+    },
+    {
+      "added_at": "2022-11-25 14:27:14",
+      "album": {
+        "name": "Showbiz",
+        "url": "https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 317000,
+      "name": "Showbiz",
+      "url": "https://open.spotify.com/track/2sCFFlnYg6Lk75GCcfSXEz"
     }
   ],
   "unique_name": "This Is Muse",

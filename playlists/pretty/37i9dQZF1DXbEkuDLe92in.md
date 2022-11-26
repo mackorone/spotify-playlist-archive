@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEkuDLe92in.md) - [plain]
 
 > Beautiful classical Indian Ragas to soundtrack your Yoga session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,601 likes - 53 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,854 likes - 53 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEkuDLe92in.md) - [plain]
 | 52 | [Raag Jan Sammohini](https://open.spotify.com/track/2YslUCc6hajPui3BwhUUQs) | [Baluji Shrivastav](https://open.spotify.com/artist/6W1YoudRbtmvymApgIb238) | [Baluji Shrivastav: Shadow of the Lotus \- Classical Indian Ragas](https://open.spotify.com/album/6f5DwByARxl4O8K3danrJ5) | 10:10 |
 | 53 | [Raga Shivaranjani \(Yearning\)](https://open.spotify.com/track/0KIsFToKwuGkPALbFxatlE) | [Ustad Usman Khan](https://open.spotify.com/artist/3HywltOSu9HsE3gG7yulzq) | [Nada Yoga: Music of the Mystic](https://open.spotify.com/album/2j2Fs9jZxDeDIQqvbqxyN9) | 9:03 |
 
-Snapshot ID: `MTY2NTAzNjY2MCwwMDAwMDAwMGU3ZDcyMzI3NDUyMjZhYjk1MjhmZmI0NGMyNTk4Zjhm`
+Snapshot ID: `MTY2ODQwODU5NCwwMDAwMDAwMGU2MzZlMzY2N2NjYTlkZDFkMmJmYTYyMzM0MTgxMzQ4`

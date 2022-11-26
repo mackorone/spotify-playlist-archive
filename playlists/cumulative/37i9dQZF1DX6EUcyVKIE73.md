@@ -4,7 +4,7 @@
 
 > Selections of North Indian classical music.
 
-61 songs - 18 hr 19 min - [published](https://open.spotify.com/playlist/6KxJho2Z4Stal5h3YgTXxS)
+62 songs - 18 hr 29 min - [published](https://open.spotify.com/playlist/6KxJho2Z4Stal5h3YgTXxS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Dream \(Raag Tilak Nat\) \[Radio Edit\]](https://open.spotify.com/track/5JgyJZouTO78xhFoMKgInw) | [Niladri Kumar](https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4) | [Dream \(Raag Tilak Nat\) \[Radio Edit\]](https://open.spotify.com/album/4ngobRObogUSz9oqRn1P7R) | 7:31 | 2021-12-06 |  |
 | [Hamri Atariya](https://open.spotify.com/track/2q7bd1N2zVbZClXJRffuEc) | [Rita Dev](https://open.spotify.com/artist/1jnBR0jw8PVk11eOsjfm8E) | [Hamri Atariya](https://open.spotify.com/album/6KogqquOoLjlxLI9H8rBeg) | 10:36 | 2021-12-06 |  |
 | [Hari Dhwani \- Raga Lalit \- Alap \(Sthai\)](https://open.spotify.com/track/2nEDjd2E33WtY89cBlcGXp) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg), [Rupak Kulkarni](https://open.spotify.com/artist/629Hq4ALLZV2JwkMX6C2Ff) | [Hari Dhwani \- Raga Lalit](https://open.spotify.com/album/2x8LytN5vmjbuESvmBp27S) | 9:55 | 2021-12-06 |  |
+| [Jaagun Main Saari Raina / Maru Bihaag \- Live](https://open.spotify.com/track/4vzYYv84aa1NWM8tqGOzey) | [Prabha Atre](https://open.spotify.com/artist/4ijLHam3SGHSpOWtyUEwCg), [Ronkini Gupta](https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4), [Abhinay Ravande](https://open.spotify.com/artist/2ozeNR3NziMtnuokdpAByx), [Ashish Ragwani](https://open.spotify.com/artist/5En4yYFch66YWFTavXtuuO) | [Jaagun Main Saari Raina / Maru Bihaag \(Live\)](https://open.spotify.com/album/6bnTpxj48Ml7fzBo9EwRb8) | 10:02 | 2022-10-11 |  |
 | [Jadoo Bharey Torey Nain](https://open.spotify.com/track/5eCIqqupfqS0o6zzbIQbDo) | [Lakshmi Shankar, Aneesh Pradhan](https://open.spotify.com/artist/3C4TFbL0xDifxWQv1Xkq0I) | [Shringar: The Many Moods of Love \- Volume 3](https://open.spotify.com/album/61cPFAeHlRQz4lQFIBZ1zr) | 12:44 | 2021-12-06 |  |
 | [Jhama Jham \- Thumri](https://open.spotify.com/track/2pxyb3CvMfCyvYZcnojMZW) | [Girija Devi, Kishan Maharaj, Ramesh Mishra](https://open.spotify.com/artist/2x2lBeqwikK3oXYxtyDlmF) | [The Best Of Girija Deva](https://open.spotify.com/album/1oe93SNJ9tdqrTpkrkz5dH) | 9:02 | 2021-12-06 |  |
 | [Jin Ke Man Ram Biraaje \- Raga Malkauns \- Khayal Vilambit \- Ektaal / Angan Aaye Balama \- Raga Malakauns \- Khayal Drut \- Ektaal](https://open.spotify.com/track/0SHJokbf80YliyvxnEzlOO) | [Rajan Mishra](https://open.spotify.com/artist/5ctgUVR3rh12mXvFckKVp9), [Sajan Mishra](https://open.spotify.com/artist/4s03GMsBoEBO7LnPhawd9p) | [Rajan / Sajan Mishra](https://open.spotify.com/album/1PlXFYiSiIviftsPQ3S14m) | 10:03 | 2021-12-06 |  |

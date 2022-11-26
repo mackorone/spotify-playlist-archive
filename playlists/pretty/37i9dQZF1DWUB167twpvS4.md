@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB167twpvS4.md) - [plain]
 
 > Be an ear\-witness to the music that gave birth to Country, Pop and Rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,565 likes - 63 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,872 likes - 63 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB167twpvS4.md) - [plain]
 | 13 | [Who Slapped John?](https://open.spotify.com/track/081t37hdBbQVjWGuBd42z6) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Blue Jean Bop](https://open.spotify.com/album/28VDX5GZcFakGBuh2Uf5En) | 1:58 |
 | 14 | [Rumble Rock](https://open.spotify.com/track/2Uo5oKoHZdgnJ1pDC44AJd) | [Kip Tyler](https://open.spotify.com/artist/6SfIGvJgOsRC2mguki6OCh) | [Ooh Yeah Baby](https://open.spotify.com/album/622mprs4Ih9Oo1Pg53d0mO) | 2:13 |
 | 15 | [Folsom Prison Blues](https://open.spotify.com/track/5UMiYb0Np44O59EgCcyPuC) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [The Original Sun Recordings](https://open.spotify.com/album/7IAOE5YbqmDGImgpJEIePh) | 2:52 |
-| 16 | [Whole Lot Of Shakin' Going On \- Single Version](https://open.spotify.com/track/7Fyo9lTrk6pjT1rVW3GlBG) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [Original Golden Hits \- Volume 1 \(Vol\. 1\)](https://open.spotify.com/album/22cLZV8YJhDZzJ7lvJQXZj) | 2:53 |
-| 17 | [Dixie Fried](https://open.spotify.com/track/67a41MrXPrrSM3OeqoxMkM) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [Original Golden Hits](https://open.spotify.com/album/6UYgHKeG16ICKNm52dVnJi) | 2:24 |
+| 16 | [Whole Lot of Shakin' Going On](https://open.spotify.com/track/6wO13Xb3EdHUNixFOEJ0KV) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [The Essential Jerry Lee Lewis \[The Sun Sessions\]](https://open.spotify.com/album/6OaajpAGeNsPJFkjyQvqHf) | 2:52 |
+| 17 | [Dixie Fried](https://open.spotify.com/track/2BJtt5HqkcG4OLcbLjl7GB) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [I'm Sorry I'm Not Sorry / Dixie Fried](https://open.spotify.com/album/1SkMfz25b6W2iml8HjtJ5j) | 2:24 |
 | 18 | [Can't Hardly Stand It](https://open.spotify.com/track/3ZVOIu02drSOsMf6gLE31J) | [Charlie Feathers](https://open.spotify.com/artist/2EcNV0nlF6f6ZDtJJG2vKN) | [Kill Bill Vol\. 2 Original Soundtrack](https://open.spotify.com/album/0yrK3jKRexjtP4CRdYizjs) | 2:48 |
 | 19 | [One Cup of Coffee](https://open.spotify.com/track/5XUiqQLF5mSkBs16ohiEXQ) | [Glen Glenn](https://open.spotify.com/artist/4HA1v7Kj8foWKczaOUbxQx) | [The Glen Glenn Story / Everybody's Movin'](https://open.spotify.com/album/1F0JKGFuKdvtyzMujp3byF) | 2:03 |
 | 20 | [Rock Pretty Mama](https://open.spotify.com/track/08SmrLq3o5AE5da5RYS9Ao) | [Billy Adams](https://open.spotify.com/artist/5Td4CSGGe0oCwVHN5yLzKR), [The Rock\-A\-Teers](https://open.spotify.com/artist/6H6IG1FKsPAj4YURz8qTFb) | [Nau Voo Rock and Roll](https://open.spotify.com/album/5ANuYdTAkqfyOrr1Ex9Gyk) | 2:11 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB167twpvS4.md) - [plain]
 | 62 | [One Hand Loose](https://open.spotify.com/track/1uYlKhktrgikytcB1UQZYs) | [Charlie Feathers](https://open.spotify.com/artist/2EcNV0nlF6f6ZDtJJG2vKN) | [His Complete King Recordings](https://open.spotify.com/album/15IZgzHg7L0LNSglHIC3tC) | 2:24 |
 | 63 | [Home of the Blues](https://open.spotify.com/track/5E2Qj36FIrvGtOUl7XGBAe) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Johnny Cash at Sun](https://open.spotify.com/album/2Uu2hccRmXc9NyUNzwRpXT) | 2:38 |
 
-Snapshot ID: `MTYwMjQzNzcwNiwwMDAwMDAwMGU4NTYxZWI5MzYwOTJhZDc3MGU3MjMwNTU3NjIxMjEy`
+Snapshot ID: `MTYwMjQzNzcwNiwwMDAwMDAwMDllMDQ3MDIwMzM0ZDk0ZmQyZjJhZTI4NGUyOTgyMmNh`

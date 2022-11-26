@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": null,
       "duration_ms": 199089,
       "name": "A Beautiful Noise",
       "url": "https://open.spotify.com/track/28m84EzeAOlqrJQ3GHzs8C"
@@ -45,7 +45,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 241826,
       "name": "Already Home (with Brandi Carlile)",
       "url": "https://open.spotify.com/track/6lYOxpP2BB48oEsX06Ini0"
@@ -89,7 +89,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 236866,
       "name": "Before It Breaks",
       "url": "https://open.spotify.com/track/0UYIEnvYPaXKkFRmeHZWNF"
@@ -151,6 +151,40 @@
       "duration_ms": 233998,
       "name": "Cleanup Hitter",
       "url": "https://open.spotify.com/track/0RQT5rs8uElx7yrvhj6GMU"
+    },
+    {
+      "album": {
+        "name": "The Highwomen",
+        "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
+      },
+      "artists": [
+        {
+          "name": "The Highwomen",
+          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 217733,
+      "name": "Cocktail And A Song",
+      "url": "https://open.spotify.com/track/6sXLDERR5PP1aQlWVlaaNl"
     },
     {
       "album": {
@@ -832,6 +866,28 @@
     },
     {
       "album": {
+        "name": "Greenfields: The Gibb Brothers' Songbook (Vol. 1)",
+        "url": "https://open.spotify.com/album/3IFJ7ZGMjHErGmW9NAOdkp"
+      },
+      "artists": [
+        {
+          "name": "Barry Gibb",
+          "url": "https://open.spotify.com/artist/7Hd38PVp634oGEb9pIDs5d"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202391,
+      "name": "Run To Me (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/2IE70yrr4bynUzXi7O8Gek"
+    },
+    {
+      "album": {
         "name": "In These Silent Days (Deluxe Edition) In The Canyon Haze",
         "url": "https://open.spotify.com/album/2FOAtTMAfplWnTKf7rl12Q"
       },
@@ -1003,7 +1059,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-10-13",
       "duration_ms": 206268,
       "name": "The Things I Regret",
       "url": "https://open.spotify.com/track/2zbVdL6Htw7heJDjbBBEcs"

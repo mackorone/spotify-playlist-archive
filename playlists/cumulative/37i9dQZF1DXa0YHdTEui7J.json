@@ -632,6 +632,46 @@
     },
     {
       "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/1PEYFDbpGAOH0jUUeqlFOS"
+      },
+      "artists": [
+        {
+          "name": "Babert",
+          "url": "https://open.spotify.com/artist/2WyIaamOi8lW7R7nhGMDoe"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 416000,
+      "name": "Fresh",
+      "url": "https://open.spotify.com/track/4H2WZu9uvKb0hHl3YisWIc"
+    },
+    {
+      "album": {
+        "name": "XOXOXO 10",
+        "url": "https://open.spotify.com/album/5SqDKbe7q9X6fYBHmm1r3s"
+      },
+      "artists": [
+        {
+          "name": "Matthew Dekay",
+          "url": "https://open.spotify.com/artist/1ehDqG6bFGAurxlAJeQgNT"
+        },
+        {
+          "name": "Lee Burridge",
+          "url": "https://open.spotify.com/artist/0334oJHhRSKJRHKpE9i62h"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 531398,
+      "name": "F\u00fcr die Liebe",
+      "url": "https://open.spotify.com/track/2Fkp4OEW7BrWlaWJShaVrK"
+    },
+    {
+      "album": {
         "name": "Kehakuma (Mixed & Selected By Nick Curly)",
         "url": "https://open.spotify.com/album/5n7aBkEjF23GCSSfVzNt2O"
       },
@@ -784,6 +824,24 @@
     },
     {
       "album": {
+        "name": "Future Sounds Of Jazz, Vol. 14",
+        "url": "https://open.spotify.com/album/5cgJz6gBwo4tiWsCa35cdE"
+      },
+      "artists": [
+        {
+          "name": "Tee Mango",
+          "url": "https://open.spotify.com/artist/6rjQQtrWdRmt4y4FeqnwNQ"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 518354,
+      "name": "Into the Wild",
+      "url": "https://open.spotify.com/track/6Zxdm6bUA9q8lHwrJdBCGa"
+    },
+    {
+      "album": {
         "name": "Future Sounds Of Jazz Vol. 14 (Compiled by Permanent Vacation [Benjamin Fr\u00f6hlich & Tom Bioly])",
         "url": "https://open.spotify.com/album/48saRKY0LbrzJImIHLR9M5"
       },
@@ -795,7 +853,7 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 518355,
       "name": "Into the Wild",
       "url": "https://open.spotify.com/track/6267UX7DYUa30kmM9AZPbH"
@@ -1158,6 +1216,24 @@
     },
     {
       "album": {
+        "name": "Mobilee Rooftop Summer Vol. 1",
+        "url": "https://open.spotify.com/album/3IvGmek7EZK6sHbY8DCx82"
+      },
+      "artists": [
+        {
+          "name": "Rodriguez Jr.",
+          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 445985,
+      "name": "Ocean Drive",
+      "url": "https://open.spotify.com/track/1YeRjNP9fmGr7HGjTm5Nbj"
+    },
+    {
+      "album": {
         "name": "Totally Mobilee - Rodriguez Jr. Collection, Vol. 1",
         "url": "https://open.spotify.com/album/2wdn8bFl8vImQvFfwi4kPD"
       },
@@ -1405,10 +1481,46 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 182533,
       "name": "Sandwiches",
       "url": "https://open.spotify.com/track/4sn8WNN1joO0xEk9xrZbB8"
+    },
+    {
+      "album": {
+        "name": "Funk All Y'All",
+        "url": "https://open.spotify.com/album/6fYnlnfGEGEI67H3i36PQR"
+      },
+      "artists": [
+        {
+          "name": "Detroit Grand Pubahs",
+          "url": "https://open.spotify.com/artist/57SxomZx6rGWH3aJMAJxiu"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182533,
+      "name": "Sandwiches - Radio Edit",
+      "url": "https://open.spotify.com/track/5JwYRre2g3wFpeELRlY306"
+    },
+    {
+      "album": {
+        "name": "Muppet Anthem",
+        "url": "https://open.spotify.com/album/4LNvAckfjyAPWt4uoZzxpZ"
+      },
+      "artists": [
+        {
+          "name": "Rodriguez Jr.",
+          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 453158,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/70E5ipJ9QpGtF2XaTMAUg2"
     },
     {
       "album": {
@@ -1723,7 +1835,7 @@
     {
       "album": {
         "name": "Chicago Sunrise EP",
-        "url": "https://open.spotify.com/album/6Ufe2NurrlZTDH5GEq1HHT"
+        "url": "https://open.spotify.com/album/2nfNNNXNAG5nJ0au7QHr6I"
       },
       "artists": [
         {
@@ -1736,7 +1848,61 @@
       "date_removed": null,
       "duration_ms": 417701,
       "name": "Trojan",
+      "url": "https://open.spotify.com/track/00m6m26lE6LZlOGLesqg8g"
+    },
+    {
+      "album": {
+        "name": "Chicago Sunrise EP",
+        "url": "https://open.spotify.com/album/6Ufe2NurrlZTDH5GEq1HHT"
+      },
+      "artists": [
+        {
+          "name": "Mark Henning",
+          "url": "https://open.spotify.com/artist/5r2arxIZMtFSBFC25AynTW"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-18",
+      "duration_ms": 417701,
+      "name": "Trojan",
       "url": "https://open.spotify.com/track/2msoOJb4doUd2uBlFSXiKU"
+    },
+    {
+      "album": {
+        "name": "Flashback",
+        "url": "https://open.spotify.com/album/4HvJXFT9NASvX1vpu9kksI"
+      },
+      "artists": [
+        {
+          "name": "Mark Henning",
+          "url": "https://open.spotify.com/artist/5r2arxIZMtFSBFC25AynTW"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 417701,
+      "name": "Trojan",
+      "url": "https://open.spotify.com/track/3HYYbvXOjZuK0ekb2wlymb"
+    },
+    {
+      "album": {
+        "name": "2 Future 4 U",
+        "url": "https://open.spotify.com/album/6EQvsGSCwrxl8bp3cvWNzy"
+      },
+      "artists": [
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 486266,
+      "name": "U Don't Know Me",
+      "url": "https://open.spotify.com/track/4xKSVV3RjBs9vPyrHpuslU"
     },
     {
       "album": {
@@ -1803,7 +1969,7 @@
     {
       "album": {
         "name": "We Are Phuture (Ricardo Villalobos Phutur I - IV Remixes)",
-        "url": "https://open.spotify.com/album/7wRwpdJ5yIr0qU2oJCieap"
+        "url": "https://open.spotify.com/album/404KZZomNYBulzq0A6pvrf"
       },
       "artists": [
         {
@@ -1820,7 +1986,51 @@
       "date_removed": null,
       "duration_ms": 608847,
       "name": "We Are Phuture - Ricardo Villalobos Phutur II Remix",
+      "url": "https://open.spotify.com/track/1GY1JgiNrJ1tBEFbP1KgoR"
+    },
+    {
+      "album": {
+        "name": "We Are Phuture (Ricardo Villalobos Phutur I - IV Remixes)",
+        "url": "https://open.spotify.com/album/7wRwpdJ5yIr0qU2oJCieap"
+      },
+      "artists": [
+        {
+          "name": "Phuture",
+          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
+        },
+        {
+          "name": "Ricardo Villalobos",
+          "url": "https://open.spotify.com/artist/0s2YIpNnjdf0FY4tNrF8Y4"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-16",
+      "duration_ms": 608847,
+      "name": "We Are Phuture - Ricardo Villalobos Phutur II Remix",
       "url": "https://open.spotify.com/track/1NecUZbmNXoob3jY3kGcG5"
+    },
+    {
+      "album": {
+        "name": "Most Wanted 2018",
+        "url": "https://open.spotify.com/album/0M9pxluNO0U41vzUpTHTgR"
+      },
+      "artists": [
+        {
+          "name": "Phuture",
+          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
+        },
+        {
+          "name": "Ricardo Villalobos",
+          "url": "https://open.spotify.com/artist/0s2YIpNnjdf0FY4tNrF8Y4"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 608847,
+      "name": "We Are Phuture - Ricardo Villalobos Phutur II Remix",
+      "url": "https://open.spotify.com/track/3zFsxRfCUyjY0LvET9AWAo"
     },
     {
       "album": {
@@ -1911,10 +2121,28 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 559441,
       "name": "Yoyo",
       "url": "https://open.spotify.com/track/4XZh0TiPxsHO1x1cbRM7ue"
+    },
+    {
+      "album": {
+        "name": "YOYO EP",
+        "url": "https://open.spotify.com/album/7lTEJVnqgVgQ4sDtWq9Bvx"
+      },
+      "artists": [
+        {
+          "name": "App",
+          "url": "https://open.spotify.com/artist/1uko3MaOVMtOKrRR5LVcUs"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 559441,
+      "name": "Yoyo",
+      "url": "https://open.spotify.com/track/4bYttstgD6j3kw7EsBe5MF"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXa0YHdTEui7J"

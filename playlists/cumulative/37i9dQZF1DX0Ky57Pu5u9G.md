@@ -4,7 +4,7 @@
 
 > Listen to all of the music from the Sing movies!
 
-67 songs - 2 hr 43 min - [published](https://open.spotify.com/playlist/7iMaUD1AZumeYFpKkv2Tcx)
+68 songs - 2 hr 45 min - [published](https://open.spotify.com/playlist/7iMaUD1AZumeYFpKkv2Tcx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [The Moon Theatre / Golden Slumbers](https://open.spotify.com/track/48wUweEK0UxaC7iewb7fhS) | [Joby Talbot](https://open.spotify.com/artist/6HEynH0LkoBhVStL2cDeF5) | [Sing \(Original Motion Picture Score\)](https://open.spotify.com/album/2y9VYOpp4YPlJ3HPiRxtqa) | 2:06 | 2022-01-04 |  |
 | [The Poolhouse](https://open.spotify.com/track/0co7hiewHxh2XKSiBWO6H4) | [Joby Talbot](https://open.spotify.com/artist/6HEynH0LkoBhVStL2cDeF5) | [Sing \(Original Motion Picture Score\)](https://open.spotify.com/album/2y9VYOpp4YPlJ3HPiRxtqa) | 2:10 | 2022-01-04 |  |
 | [The Selection](https://open.spotify.com/track/1Rj6i4RsvPo69RCG4DVTsj) | [Joby Talbot](https://open.spotify.com/artist/6HEynH0LkoBhVStL2cDeF5) | [Sing \(Original Motion Picture Score\)](https://open.spotify.com/album/2y9VYOpp4YPlJ3HPiRxtqa) | 1:24 | 2022-01-04 |  |
-| [The Way I Feel Inside](https://open.spotify.com/track/2iSxljzM8Xw9EEIGBRW1CD) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Begin Here](https://open.spotify.com/album/1vWVHhniWzqyNC0UzDDGs4) | 1:48 | 2022-01-04 |  |
+| [The Way I Feel Inside](https://open.spotify.com/track/2iSxljzM8Xw9EEIGBRW1CD) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Begin Here](https://open.spotify.com/album/1vWVHhniWzqyNC0UzDDGs4) | 1:48 | 2022-01-04 | 2022-10-14 |
+| [The Way I Feel Inside](https://open.spotify.com/track/69GPTeIbtyU1Vd1NPYX95k) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Begin Here](https://open.spotify.com/album/1Sv2t548jDyfBDgvVzYJzw) | 1:48 | 2022-01-04 |  |
 | [The Way I Feel Inside \- From "Sing" Original Motion Picture Soundtrack](https://open.spotify.com/track/7FLpaXPZHwXkhgH2gK1VWb) | [Taron Egerton](https://open.spotify.com/artist/5nwjcZ87CGNRiO98nFKdOD) | [Sing \(Original Motion Picture Soundtrack / Deluxe\)](https://open.spotify.com/album/5Sdmly0VRVw0wIow5eMHAW) | 1:28 | 2022-01-04 |  |
 | [The Wind \- From "Sing" Original Motion Picture Soundtrack](https://open.spotify.com/track/5qD9xGtes8gtSrPRF6qW48) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Sing \(Original Motion Picture Soundtrack / Deluxe\)](https://open.spotify.com/album/5Sdmly0VRVw0wIow5eMHAW) | 1:43 | 2022-01-04 |  |
 | [The Winds of Change](https://open.spotify.com/track/4t9Ahnc0wQFHOsab3r2eI5) | [Joby Talbot](https://open.spotify.com/artist/6HEynH0LkoBhVStL2cDeF5) | [Sing \(Original Motion Picture Score\)](https://open.spotify.com/album/2y9VYOpp4YPlJ3HPiRxtqa) | 2:44 | 2022-01-04 |  |

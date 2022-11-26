@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": null,
       "duration_ms": 197160,
       "name": "Alfredo Galeana",
       "url": "https://open.spotify.com/track/2NG18tx27J4dBTszPLJluP"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 182026,
       "name": "Concha Del Alma",
       "url": "https://open.spotify.com/track/0fgfdMYuelVZXYkrsS9joX"
@@ -365,7 +365,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-10-13",
       "duration_ms": 181386,
       "name": "El Preso de Nuevo Le\u00f3n",
       "url": "https://open.spotify.com/track/6wxe34W9Vy8PWwlkIy0Bf4"
@@ -477,7 +477,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-10-12",
       "duration_ms": 181720,
       "name": "Es Demasiado Tarde",
       "url": "https://open.spotify.com/track/70YMp6bVrVHMhgevfAbf63"
@@ -531,7 +531,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 181933,
       "name": "Florentino Ventura",
       "url": "https://open.spotify.com/track/0rnkDN36KTqBxDX634sUi3"
@@ -549,7 +549,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": "2022-10-13",
       "duration_ms": 189093,
       "name": "Gracias Porque Volviste",
       "url": "https://open.spotify.com/track/37nblWr0bJ6aIO548pKHqg"
@@ -567,10 +567,32 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 152293,
       "name": "La Fuga Del Rojo",
       "url": "https://open.spotify.com/track/2cyH9j4rvR9Q6Zg5LZNvPZ"
+    },
+    {
+      "album": {
+        "name": "La Lloradera",
+        "url": "https://open.spotify.com/album/309Ivzn5Ygopg3ImLZ3Qeq"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes",
+          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
+        },
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163293,
+      "name": "La Lloradera",
+      "url": "https://open.spotify.com/track/5XMKMu698zpti1TwbCUrZr"
     },
     {
       "album": {
@@ -628,6 +650,28 @@
     },
     {
       "album": {
+        "name": "La Vieja Escuela",
+        "url": "https://open.spotify.com/album/1LcpnxXXFkmQ8evfFaUIXz"
+      },
+      "artists": [
+        {
+          "name": "4 de a Caballo",
+          "url": "https://open.spotify.com/artist/41JHmI3S4Jo07FN7oXyeMI"
+        },
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191232,
+      "name": "La Vieja Escuela",
+      "url": "https://open.spotify.com/track/7LCcSgOoFtUnfmG3kxzQ9F"
+    },
+    {
+      "album": {
         "name": "Aferrado Al Amor",
         "url": "https://open.spotify.com/album/6pEDYFi8ddb1yiJKF1h0yV"
       },
@@ -661,7 +705,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 191813,
       "name": "Laurita Garza",
       "url": "https://open.spotify.com/track/7a5msYrIHJ1bx7pTLKVbZ9"
@@ -715,7 +759,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": "2022-10-13",
       "duration_ms": 196306,
       "name": "Me Refiero A T\u00ed",
       "url": "https://open.spotify.com/track/5bbF1SdFGSqK7hKNAunuyc"
@@ -733,7 +777,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 174893,
       "name": "Me Sobra Llanto",
       "url": "https://open.spotify.com/track/5XmPFF0iUdWt5rbnIpZNIW"
@@ -823,7 +867,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 225266,
       "name": "Mi Linda Esposa",
       "url": "https://open.spotify.com/track/3TSjvofuOdFlXtW2Mba0yV"
@@ -1147,7 +1191,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 193133,
       "name": "Qu\u00e9 Valor De Mujer",
       "url": "https://open.spotify.com/track/4GT3fRkjpQO8uXEWe0A4oB"

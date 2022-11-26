@@ -70,6 +70,28 @@
     },
     {
       "album": {
+        "name": "A Real Hero",
+        "url": "https://open.spotify.com/album/73c34KIp08yd4Jp0mkufmV"
+      },
+      "artists": [
+        {
+          "name": "College",
+          "url": "https://open.spotify.com/artist/11TlWPqyDFLHGccTFQhcc6"
+        },
+        {
+          "name": "Electric Youth",
+          "url": "https://open.spotify.com/artist/45YbCFM0an4hsEXMdQ4k3b"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 267847,
+      "name": "A Real Hero",
+      "url": "https://open.spotify.com/track/53b1icRPhYU9dvy8p1qZkS"
+    },
+    {
+      "album": {
         "name": "Innerworld (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3xlj8UnItzJxDjn3kWezIK"
       },
@@ -165,7 +187,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 212426,
       "name": "Baby, It's Cold Outside",
       "url": "https://open.spotify.com/track/0rzY0whyLE68ENX7mvoHAN"
@@ -255,7 +277,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 249693,
       "name": "California Dreamin'",
       "url": "https://open.spotify.com/track/3rU0sziIji4mxvd39x6Z5X"
@@ -338,6 +360,24 @@
     },
     {
       "album": {
+        "name": "Nightmare Before Christmas Special Edition",
+        "url": "https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 283960,
+      "name": "Christmas Eve Montage",
+      "url": "https://open.spotify.com/track/6VNtoQ5FSWZhiGgJ3DZSUb"
+    },
+    {
+      "album": {
         "name": "Jon Schmidt Christmas",
         "url": "https://open.spotify.com/album/4fQ7LjdkJNoRp9SO7IJ7YY"
       },
@@ -410,6 +450,28 @@
     },
     {
       "album": {
+        "name": "Louis Wishes You a Cool Yule",
+        "url": "https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "The Commanders",
+          "url": "https://open.spotify.com/artist/3VrWSWV74xyECVDt2zBy4T"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176699,
+      "name": "Cool Yule",
+      "url": "https://open.spotify.com/track/33GkcZ89Aj254FaJoFwCl9"
+    },
+    {
+      "album": {
         "name": "The Decca Singles 1949-1958",
         "url": "https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1"
       },
@@ -425,7 +487,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 176800,
       "name": "Cool Yule",
       "url": "https://open.spotify.com/track/2QWKbE6GpWhRtlbRwcP7g8"
@@ -447,7 +509,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-06",
+      "date_removed": "2022-11-13",
       "duration_ms": 339444,
       "name": "Dimensions",
       "url": "https://open.spotify.com/track/1F3pzdYyCJlnQoCM9gFzaU"
@@ -469,7 +531,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 173693,
       "name": "Django",
       "url": "https://open.spotify.com/track/008wXvCVu8W8vCbq5VQDlC"
@@ -841,7 +903,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-23",
+      "date_removed": "2022-11-13",
       "duration_ms": 360312,
       "name": "Guarding The Gates - From \"Queen & Slim: The Soundtrack\"",
       "url": "https://open.spotify.com/track/0vxTKTxKoTmljpT7gb4U1h"
@@ -913,7 +975,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 219306,
       "name": "Heroes And Villains - Remastered 2001",
       "url": "https://open.spotify.com/track/7BO7ZbaEmgCSSp3znPMxN4"
@@ -985,7 +1047,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 264973,
       "name": "Hush",
       "url": "https://open.spotify.com/track/4aU82r5G2KTUh3HmPHCbM1"
@@ -1123,7 +1185,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 152546,
       "name": "I\u2019m So Humble",
       "url": "https://open.spotify.com/track/39F08AoluLGQ9F1J2bO4Pn"
@@ -1206,6 +1268,24 @@
     },
     {
       "album": {
+        "name": "Mirror Conspiracy",
+        "url": "https://open.spotify.com/album/7eH0DZ6Y9bInoU0breGFFe"
+      },
+      "artists": [
+        {
+          "name": "Thievery Corporation",
+          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288826,
+      "name": "Lebanese Blonde",
+      "url": "https://open.spotify.com/track/6k5VMHrwv7mgPpkQSRQtQr"
+    },
+    {
+      "album": {
         "name": "It Takes A Thief: The Very Best Of Thievery Corporation",
         "url": "https://open.spotify.com/album/4D1VpybqdswFG14PWzCyqC"
       },
@@ -1217,7 +1297,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-10",
+      "date_removed": "2022-11-13",
       "duration_ms": 289866,
       "name": "Lebanese Blonde",
       "url": "https://open.spotify.com/track/39U4h0IXSCndWnKfemilvG"
@@ -1235,7 +1315,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 223840,
       "name": "Let It Go - From \"Frozen\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/6kOXFFNTzraDTj6fceHenx"
@@ -1417,6 +1497,24 @@
       "duration_ms": 320293,
       "name": "Lose Yourself",
       "url": "https://open.spotify.com/track/1MWlCmgxuLIe4izcR62xBE"
+    },
+    {
+      "album": {
+        "name": "8 Mile [Music From And Inspired By The Motion Picture (Expanded Edition)]",
+        "url": "https://open.spotify.com/album/6J0h9KIXtjtoAqJnz1CDwA"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 320293,
+      "name": "Lose Yourself",
+      "url": "https://open.spotify.com/track/2w5fsswM1MlJu5rV44Qsf1"
     },
     {
       "album": {
@@ -1811,7 +1909,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 108013,
       "name": "Overture - (The Nightmare Before Christmas)",
       "url": "https://open.spotify.com/track/4r2IPR6tLBgF1dl2FqcPfF"
@@ -1941,10 +2039,28 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-09",
+      "date_removed": "2022-11-13",
       "duration_ms": 308200,
       "name": "Reunion of Friends",
       "url": "https://open.spotify.com/track/0rpSIjKSmZ2SFO6vmLJpXl"
+    },
+    {
+      "album": {
+        "name": "No\u00ebl 2020",
+        "url": "https://open.spotify.com/album/0gbWx46O7msHBOfp6fYSkk"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 162897,
+      "name": "Run Rudolph Run",
+      "url": "https://open.spotify.com/track/3CQa7Xu95cwlQVPd3UoiHB"
     },
     {
       "album": {
@@ -2013,7 +2129,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 142600,
       "name": "Santa Claus Is Back In Town",
       "url": "https://open.spotify.com/track/5b1jXYUOgAX5QAHXPVHdld"
@@ -2092,6 +2208,24 @@
     },
     {
       "album": {
+        "name": "The Definitive Vince Guaraldi",
+        "url": "https://open.spotify.com/album/1sn69oro0vmwuAu1iwCu7d"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi",
+          "url": "https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144373,
+      "name": "Skating",
+      "url": "https://open.spotify.com/track/1rGZUPEI3iq6HYmI0V6a98"
+    },
+    {
+      "album": {
         "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
         "url": "https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w"
       },
@@ -2157,7 +2291,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 63973,
       "name": "Somewhere in My Memory - Chorus & Orchestra Version",
       "url": "https://open.spotify.com/track/1WA5av9UlqPNOKcaUdWbGM"
@@ -2269,6 +2403,24 @@
       "duration_ms": 155200,
       "name": "Storytime",
       "url": "https://open.spotify.com/track/2k8gwTGsi3IwKp3xqaddbe"
+    },
+    {
+      "album": {
+        "name": "Edward Scissorhands",
+        "url": "https://open.spotify.com/album/4pv4SQkB4SXrY5bynbW0lf"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 155200,
+      "name": "Storytime",
+      "url": "https://open.spotify.com/track/4mHz1B1A0p1ItAxea0zhff"
     },
     {
       "album": {
@@ -2481,7 +2633,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-03",
+      "date_removed": "2022-11-13",
       "duration_ms": 116066,
       "name": "The Kiss",
       "url": "https://open.spotify.com/track/1s7bN2otnn6E4oLgTvRgzE"
@@ -2499,7 +2651,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-16",
+      "date_removed": null,
       "duration_ms": 203226,
       "name": "The Polar Express",
       "url": "https://open.spotify.com/track/1Gi37i20j7uydKwNnNcbkz"
@@ -2575,7 +2727,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-17",
+      "date_removed": null,
       "duration_ms": 197560,
       "name": "This Christmas",
       "url": "https://open.spotify.com/track/3W6PmtGTyLwWBWUYplSWHT"
@@ -2705,7 +2857,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 214066,
       "name": "Vitamin C - 2004 Remastered Version",
       "url": "https://open.spotify.com/track/1tzXnPndBrd2G5GXrOBc1c"
@@ -2727,6 +2879,24 @@
       "duration_ms": 218706,
       "name": "Wanksta",
       "url": "https://open.spotify.com/track/0oAZGaev2yh9ZHCc3ZwXCw"
+    },
+    {
+      "album": {
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/0OfzVAXf5aVP4W4NIOLTKj"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 219400,
+      "name": "Wanksta - From \"8 Mile\" Soundtrack",
+      "url": "https://open.spotify.com/track/5Ze7YIFfDfSk8DV261zQVt"
     },
     {
       "album": {
@@ -2781,7 +2951,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 254626,
       "name": "We Wish You a Merry Christmas / End Title - Voice",
       "url": "https://open.spotify.com/track/7FOJKfiyl1tegmYRqs7AuZ"

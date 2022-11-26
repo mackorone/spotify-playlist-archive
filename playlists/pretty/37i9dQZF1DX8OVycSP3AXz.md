@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OVycSP3AXz.md) - [plain]
 
 > Replongez dans les plus grands tubes de la période yéyé\. Photo : Françoise Hardy
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,940 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,415 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OVycSP3AXz.md) - [plain]
 | 39 | [Laisse tomber les filles](https://open.spotify.com/track/6ZIkH0yQk0E5hfOVL7CyoQ) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Best Of](https://open.spotify.com/album/4jEkUenMPRi7yNLqyRhF0u) | 2:07 |
 | 40 | [Il fait trop beau pour travailler](https://open.spotify.com/track/5ATfGq3HBnsrzLDRj8mkYL) | [Les Parisiennes](https://open.spotify.com/artist/5pUSLCL3Tsju3SPCEYsr2H) | [Cocorico](https://open.spotify.com/album/5NZezzDJYpvvQHWWXCpB05) | 2:20 |
 | 41 | [Comic Strip](https://open.spotify.com/track/4xP5cjA72WSiXNXql3glWS) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [Initials B.B.](https://open.spotify.com/album/6kU0UT8xklbfy6Z5pXDtSU) | 2:10 |
-| 42 | [7 Heure Du Mat](https://open.spotify.com/track/5sVA72TQmjb4lqIt00jAaZ) | [Jacqueline Taieb](https://open.spotify.com/artist/2gaXk926O69Od01e5CSFdH) | [The French Mademoiselle](https://open.spotify.com/album/2iFYrUwMGHs4DwAJ94RxuW) | 2:18 |
+| 42 | [7 heures du matin](https://open.spotify.com/track/4CeHrAL1fGUi94RIk3Z2H2) | [Jacqueline Taieb](https://open.spotify.com/artist/2gaXk926O69Od01e5CSFdH) | [Jacqueline Taïeb](https://open.spotify.com/album/61emYO8kHDuDFWjKS2aELG) | 2:16 |
 | 43 | [Les Champs\-Elysées](https://open.spotify.com/track/4VWbPQUPvLes814r6T11Jz) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Les Champs\-Èlysées](https://open.spotify.com/album/70VszGJ7SagYgjotM7zvrX) | 2:37 |
 | 44 | [Love Me, Please Love Me](https://open.spotify.com/track/2edyuIOPsZrZLBwnsC1u80) | [Michel Polnareff](https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT) | [Love Me Please Love Me](https://open.spotify.com/album/68clUJF0fZaWSdmcBYKxGH) | 4:20 |
 | 45 | [Céline](https://open.spotify.com/track/6IgZ9zDxJ6H0IUQ6HKBa8A) | [Hugues Aufray](https://open.spotify.com/artist/6TOGbRYHQizlf3adIyugol) | [Santiano](https://open.spotify.com/album/6onOMFxBc1HP3Oq75NF8a5) | 3:06 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OVycSP3AXz.md) - [plain]
 | 47 | [Demain tu te maries](https://open.spotify.com/track/3kTJxfzoOtGJEWI4PyVTBh) | [Patricia Carli](https://open.spotify.com/artist/4PHyWpnVszadob2b7JchO3) | [Tendres Annees](https://open.spotify.com/album/1cujiC73efahJ1w1RQ7QuG) | 2:55 |
 | 48 | [Il a le Truc](https://open.spotify.com/track/70fuO7PxNJXxtApu6Vki8e) | [Les Gam's](https://open.spotify.com/artist/5yj1bCBGvwhFRgYuKZgHqa) | [Les Gam's](https://open.spotify.com/album/6ktDHC59EX6rpC3RFjFCIW) | 2:28 |
 | 49 | [La nuit n'en finit plus](https://open.spotify.com/track/7axtIlOwGp7VqvfOQf6Mhb) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [C'est Ma Chanson](https://open.spotify.com/album/2IaUpJITUIyHRebMM2ANy1) | 2:55 |
-| 50 | [Un verre de whisky](https://open.spotify.com/track/5vZyhXFTYPEjKJ8gilY5Pt) | [Monty](https://open.spotify.com/artist/0G1ZWqdqoswVQhfZZEgl3I) | [Monty Tendres Années 60](https://open.spotify.com/album/4r1cDqQztqmJ5lpxKiTsrP) | 2:13 |
+| 50 | [Un verre de whisky](https://open.spotify.com/track/5vZyhXFTYPEjKJ8gilY5Pt) | [Monty](https://open.spotify.com/artist/4OYkihLZO32dDQHd7wUI6z) | [Monty Tendres Années 60](https://open.spotify.com/album/4r1cDqQztqmJ5lpxKiTsrP) | 2:13 |
 
-Snapshot ID: `MTY1NjQwOTU0MywwMDAwMDAwMDMxMTYwZjcyNDU4YTQ1N2ViODVhMDEzYWM3NDJmY2M2`
+Snapshot ID: `MTY1NjQwOTU0MywwMDAwMDAwMDI5OGQ4OThlZTJkMDE1NWIzY2U4ZjQ4MDgwNjJmMGY4`

@@ -1,6 +1,6 @@
 {
   "description": "100+ of the happiest songs of all time. Come on, Get Happy!",
-  "num_followers": 663,
+  "num_followers": 682,
   "original_name": "Get Happy!",
   "owner": {
     "name": "Spotify",
@@ -536,12 +536,12 @@
       },
       "artists": [
         {
-          "name": "Alexi Blue",
-          "url": "https://open.spotify.com/artist/754qtlcOAFIdkFAjxuPk34"
-        },
-        {
           "name": "Madilyn Bailey",
           "url": "https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU"
+        },
+        {
+          "name": "Alexi Blue",
+          "url": "https://open.spotify.com/artist/754qtlcOAFIdkFAjxuPk34"
         }
       ],
       "duration_ms": 226048,

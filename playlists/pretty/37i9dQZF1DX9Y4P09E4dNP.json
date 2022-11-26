@@ -1,13 +1,37 @@
 {
   "description": "A fusion of highlife and hip-hop, these hip-life jams are undeniable.",
-  "num_followers": 23477,
+  "num_followers": 23932,
   "original_name": "Hip-Life Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Mjk4OTE4OCwwMDAwMDAwMGVhMTEzODNhNDRlMTlmYzBjZTg3YmFkNTI4YmIzNGQ1",
+  "snapshot_id": "MTY1Mjk4OTE4OCwwMDAwMDAwMDQ5MTAxMDNhMWJhYTBjZDljMThhNjg3ZDMwNDcwMzgz",
   "tracks": [
+    {
+      "added_at": "2022-03-17 23:00:00",
+      "album": {
+        "name": "Connecting the Dots",
+        "url": "https://open.spotify.com/album/1q6SQV8J22Is1SsgKAh4eJ"
+      },
+      "artists": [
+        {
+          "name": "Smallgod",
+          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
+        },
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        },
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        }
+      ],
+      "duration_ms": 165142,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/3HfwFXzBr7AwLKHyLPGWHL"
+    },
     {
       "added_at": "2022-05-19 19:39:48",
       "album": {
@@ -43,30 +67,6 @@
       "duration_ms": 213870,
       "name": "CHOPLIFE (feat. Patoranking)",
       "url": "https://open.spotify.com/track/5F5OkyidOWn8gj4vQhD7QM"
-    },
-    {
-      "added_at": "2022-03-17 23:00:00",
-      "album": {
-        "name": "Connecting the Dots",
-        "url": "https://open.spotify.com/album/1q6SQV8J22Is1SsgKAh4eJ"
-      },
-      "artists": [
-        {
-          "name": "Smallgod",
-          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
-        },
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        },
-        {
-          "name": "Darkoo",
-          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
-        }
-      ],
-      "duration_ms": 165142,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/3HfwFXzBr7AwLKHyLPGWHL"
     },
     {
       "added_at": "2021-10-08 04:59:52",
@@ -191,6 +191,22 @@
     {
       "added_at": "2020-02-20 16:58:17",
       "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/36YUG83DWnCl46Xwsad6lb"
+      },
+      "artists": [
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        }
+      ],
+      "duration_ms": 204220,
+      "name": "Wish Me Well",
+      "url": "https://open.spotify.com/track/76OgQukE55wL78J77Vl5rp"
+    },
+    {
+      "added_at": "2020-02-20 16:58:17",
+      "album": {
         "name": "Ahomka Womu",
         "url": "https://open.spotify.com/album/0ZLnF0wKad2yVZl2EjOnpG"
       },
@@ -211,22 +227,6 @@
     {
       "added_at": "2020-02-20 16:58:17",
       "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/36YUG83DWnCl46Xwsad6lb"
-      },
-      "artists": [
-        {
-          "name": "Kuami Eugene",
-          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
-        }
-      ],
-      "duration_ms": 204220,
-      "name": "Wish Me Well",
-      "url": "https://open.spotify.com/track/76OgQukE55wL78J77Vl5rp"
-    },
-    {
-      "added_at": "2020-02-20 16:58:17",
-      "album": {
         "name": "Otoolege",
         "url": "https://open.spotify.com/album/3AinuC1JTj3edgaFFqTWvS"
       },
@@ -239,42 +239,6 @@
       "duration_ms": 400960,
       "name": "Otoolege",
       "url": "https://open.spotify.com/track/1osCJSONOQ0CNEKYGp7XfQ"
-    },
-    {
-      "added_at": "2020-02-20 16:58:17",
-      "album": {
-        "name": "Ultimate Classics, Vol. 1",
-        "url": "https://open.spotify.com/album/0nNcFT8sn4ljkpKvgfxkTi"
-      },
-      "artists": [
-        {
-          "name": "Daasebre Gyamenah",
-          "url": "https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12"
-        }
-      ],
-      "duration_ms": 322481,
-      "name": "Still I Love You",
-      "url": "https://open.spotify.com/track/0uzIDaIXThW4Jg5hRbsufj"
-    },
-    {
-      "added_at": "2022-02-24 23:00:00",
-      "album": {
-        "name": "Metua",
-        "url": "https://open.spotify.com/album/7q7TpogtxZn3EZ0hBJWmt3"
-      },
-      "artists": [
-        {
-          "name": "Amerado",
-          "url": "https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew"
-        },
-        {
-          "name": "Kuami Eugene",
-          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
-        }
-      ],
-      "duration_ms": 229930,
-      "name": "Metua",
-      "url": "https://open.spotify.com/track/5bExIlmqGqjAEqem7Bhg4C"
     },
     {
       "added_at": "2020-02-20 16:58:17",
@@ -295,18 +259,18 @@
     {
       "added_at": "2020-02-20 16:58:17",
       "album": {
-        "name": "Obi Ate Meso Buo",
-        "url": "https://open.spotify.com/album/0R50BVSdGAr8Tj9R8JFuF7"
+        "name": "Ultimate Classics, Vol. 1",
+        "url": "https://open.spotify.com/album/0nNcFT8sn4ljkpKvgfxkTi"
       },
       "artists": [
         {
-          "name": "Daddy Lumba",
-          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+          "name": "Daasebre Gyamenah",
+          "url": "https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12"
         }
       ],
-      "duration_ms": 339253,
-      "name": "Theresa",
-      "url": "https://open.spotify.com/track/4dqtM8dvFvK7GWE1bjDYI4"
+      "duration_ms": 322481,
+      "name": "Still I Love You",
+      "url": "https://open.spotify.com/track/0uzIDaIXThW4Jg5hRbsufj"
     },
     {
       "added_at": "2020-02-20 16:58:17",
@@ -331,22 +295,6 @@
     {
       "added_at": "2020-02-20 16:58:17",
       "album": {
-        "name": "Old School Hiplife Vol.1",
-        "url": "https://open.spotify.com/album/0wfz1F4pEmtnUG06sr8OEW"
-      },
-      "artists": [
-        {
-          "name": "Mzbel",
-          "url": "https://open.spotify.com/artist/5YUTALnG3R7Hocweh7eovn"
-        }
-      ],
-      "duration_ms": 307147,
-      "name": "16 Years",
-      "url": "https://open.spotify.com/track/2GR8KxTtzONZWPWnXmkBTg"
-    },
-    {
-      "added_at": "2020-02-20 16:58:17",
-      "album": {
         "name": "Site 15",
         "url": "https://open.spotify.com/album/4uI60dVqyZ6pVU36oUb0j2"
       },
@@ -359,6 +307,74 @@
       "duration_ms": 203773,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/2lw3bvokPAzxFWsfsWYoOH"
+    },
+    {
+      "added_at": "2020-02-20 16:58:17",
+      "album": {
+        "name": "Obi Ate Meso Buo",
+        "url": "https://open.spotify.com/album/0R50BVSdGAr8Tj9R8JFuF7"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "duration_ms": 339253,
+      "name": "Theresa",
+      "url": "https://open.spotify.com/track/4dqtM8dvFvK7GWE1bjDYI4"
+    },
+    {
+      "added_at": "2020-02-20 16:58:17",
+      "album": {
+        "name": "Nyankonton",
+        "url": "https://open.spotify.com/album/3Nu5sSuQWQX7QcZ80GD7vc"
+      },
+      "artists": [
+        {
+          "name": "Kontihene",
+          "url": "https://open.spotify.com/artist/0uKjsrSxXWqfWF2mFyehs7"
+        }
+      ],
+      "duration_ms": 311520,
+      "name": "Aketesia",
+      "url": "https://open.spotify.com/track/6D4DkmGGCliXAlqsZVgRkA"
+    },
+    {
+      "added_at": "2022-02-24 23:00:00",
+      "album": {
+        "name": "Metua",
+        "url": "https://open.spotify.com/album/7q7TpogtxZn3EZ0hBJWmt3"
+      },
+      "artists": [
+        {
+          "name": "Amerado",
+          "url": "https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew"
+        },
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        }
+      ],
+      "duration_ms": 229930,
+      "name": "Metua",
+      "url": "https://open.spotify.com/track/5bExIlmqGqjAEqem7Bhg4C"
+    },
+    {
+      "added_at": "2020-02-20 16:58:17",
+      "album": {
+        "name": "Ultimate Classics, Vol. 1",
+        "url": "https://open.spotify.com/album/0nNcFT8sn4ljkpKvgfxkTi"
+      },
+      "artists": [
+        {
+          "name": "Daasebre Gyamenah",
+          "url": "https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12"
+        }
+      ],
+      "duration_ms": 344790,
+      "name": "Wafom",
+      "url": "https://open.spotify.com/track/5BZqJbegEpkD2SjCYBxkfC"
     },
     {
       "added_at": "2022-03-10 19:14:35",
@@ -383,122 +399,6 @@
     {
       "added_at": "2020-02-20 16:58:17",
       "album": {
-        "name": "Nyankonton",
-        "url": "https://open.spotify.com/album/3Nu5sSuQWQX7QcZ80GD7vc"
-      },
-      "artists": [
-        {
-          "name": "Kontihene",
-          "url": "https://open.spotify.com/artist/0uKjsrSxXWqfWF2mFyehs7"
-        }
-      ],
-      "duration_ms": 311520,
-      "name": "Aketesia",
-      "url": "https://open.spotify.com/track/6D4DkmGGCliXAlqsZVgRkA"
-    },
-    {
-      "added_at": "2020-02-20 16:58:17",
-      "album": {
-        "name": "Old School Hiplife Vol.1",
-        "url": "https://open.spotify.com/album/0wfz1F4pEmtnUG06sr8OEW"
-      },
-      "artists": [
-        {
-          "name": "Nana Quame",
-          "url": "https://open.spotify.com/artist/4T0iQdayHVXudZvIot1Ig3"
-        }
-      ],
-      "duration_ms": 369136,
-      "name": "Atia Donko",
-      "url": "https://open.spotify.com/track/0q0vMCj9PqiHSfoY43R3xj"
-    },
-    {
-      "added_at": "2020-02-20 16:58:17",
-      "album": {
-        "name": "Ultimate Classics, Vol. 1",
-        "url": "https://open.spotify.com/album/0nNcFT8sn4ljkpKvgfxkTi"
-      },
-      "artists": [
-        {
-          "name": "Daasebre Gyamenah",
-          "url": "https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12"
-        }
-      ],
-      "duration_ms": 344790,
-      "name": "Wafom",
-      "url": "https://open.spotify.com/track/5BZqJbegEpkD2SjCYBxkfC"
-    },
-    {
-      "added_at": "2020-02-20 16:58:17",
-      "album": {
-        "name": "Old School Hiplife Vol.1",
-        "url": "https://open.spotify.com/album/0wfz1F4pEmtnUG06sr8OEW"
-      },
-      "artists": [
-        {
-          "name": "Batman",
-          "url": "https://open.spotify.com/artist/4js6LOM6yehyZOQ7LhjFlq"
-        }
-      ],
-      "duration_ms": 200176,
-      "name": "Linda",
-      "url": "https://open.spotify.com/track/1lbQ0Ry2cW1eIFQZexkiPM"
-    },
-    {
-      "added_at": "2020-02-20 16:58:17",
-      "album": {
-        "name": "Old School Hiplife Vol.1",
-        "url": "https://open.spotify.com/album/0wfz1F4pEmtnUG06sr8OEW"
-      },
-      "artists": [
-        {
-          "name": "Nkasei",
-          "url": "https://open.spotify.com/artist/2pOlf7KpOxnGoqcplYoC3I"
-        }
-      ],
-      "duration_ms": 316003,
-      "name": "Tuabodom",
-      "url": "https://open.spotify.com/track/1lj4eBXuGedWMfsh2PHReg"
-    },
-    {
-      "added_at": "2020-02-20 16:58:17",
-      "album": {
-        "name": "Dondo",
-        "url": "https://open.spotify.com/album/3N2CZfeQGWnlbuMIPodm2A"
-      },
-      "artists": [
-        {
-          "name": "Bradez",
-          "url": "https://open.spotify.com/artist/4NkWh677uYqY9rWwqThNEL"
-        },
-        {
-          "name": "Kwabena Kwabena",
-          "url": "https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr"
-        }
-      ],
-      "duration_ms": 351100,
-      "name": "Dondo",
-      "url": "https://open.spotify.com/track/6qXsfvpsehSXQqPSS22DKg"
-    },
-    {
-      "added_at": "2021-11-25 23:01:00",
-      "album": {
-        "name": "Back 2 Basics",
-        "url": "https://open.spotify.com/album/35NrBizEFZV3nxcccD42XB"
-      },
-      "artists": [
-        {
-          "name": "R2Bees",
-          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
-        }
-      ],
-      "duration_ms": 196398,
-      "name": "Sure Banker",
-      "url": "https://open.spotify.com/track/5tqUOSmsaEOGeTYrycpbuV"
-    },
-    {
-      "added_at": "2020-02-20 16:58:17",
-      "album": {
         "name": "Sradenam",
         "url": "https://open.spotify.com/album/4OrVucfAwfKvIdCL6U8Qlj"
       },
@@ -511,22 +411,6 @@
       "duration_ms": 380513,
       "name": "Sradenam",
       "url": "https://open.spotify.com/track/4u2XhLgP9zISNfkhhKNOKC"
-    },
-    {
-      "added_at": "2020-02-20 16:58:17",
-      "album": {
-        "name": "Nte Tee Pa",
-        "url": "https://open.spotify.com/album/0XC9r8JfFHVz7K9FYdEu80"
-      },
-      "artists": [
-        {
-          "name": "Obrafour",
-          "url": "https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG"
-        }
-      ],
-      "duration_ms": 300359,
-      "name": "Oye Ohene featuring Tinny",
-      "url": "https://open.spotify.com/track/5jt5Tx1dIC9BdNqaZTO0Xd"
     },
     {
       "added_at": "2020-02-20 16:58:17",
@@ -549,22 +433,6 @@
       "url": "https://open.spotify.com/track/77qXIS8MoYj6AYraubuqlI"
     },
     {
-      "added_at": "2020-02-20 16:58:17",
-      "album": {
-        "name": "Old School Hiplife Vol.1",
-        "url": "https://open.spotify.com/album/0wfz1F4pEmtnUG06sr8OEW"
-      },
-      "artists": [
-        {
-          "name": "VIP",
-          "url": "https://open.spotify.com/artist/1QD3WjCkoISjspUWbHR8Y5"
-        }
-      ],
-      "duration_ms": 305005,
-      "name": "Obaa Sweety",
-      "url": "https://open.spotify.com/track/6pgdGE0yxbrRYUOJN3fHR1"
-    },
-    {
       "added_at": "2021-11-18 23:00:00",
       "album": {
         "name": "Eboso",
@@ -583,70 +451,70 @@
     {
       "added_at": "2020-02-20 16:58:17",
       "album": {
+        "name": "Dondo",
+        "url": "https://open.spotify.com/album/3N2CZfeQGWnlbuMIPodm2A"
+      },
+      "artists": [
+        {
+          "name": "Bradez",
+          "url": "https://open.spotify.com/artist/4NkWh677uYqY9rWwqThNEL"
+        },
+        {
+          "name": "Kwabena Kwabena",
+          "url": "https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr"
+        }
+      ],
+      "duration_ms": 351100,
+      "name": "Dondo",
+      "url": "https://open.spotify.com/track/6qXsfvpsehSXQqPSS22DKg"
+    },
+    {
+      "added_at": "2020-02-20 16:58:17",
+      "album": {
+        "name": "Nte Tee Pa",
+        "url": "https://open.spotify.com/album/0XC9r8JfFHVz7K9FYdEu80"
+      },
+      "artists": [
+        {
+          "name": "Obrafour",
+          "url": "https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG"
+        }
+      ],
+      "duration_ms": 300359,
+      "name": "Oye Ohene featuring Tinny",
+      "url": "https://open.spotify.com/track/5jt5Tx1dIC9BdNqaZTO0Xd"
+    },
+    {
+      "added_at": "2020-02-20 16:58:17",
+      "album": {
+        "name": "Odo Asisi Me",
+        "url": "https://open.spotify.com/album/5Fjq8GcJbOebH4jU9CeJid"
+      },
+      "artists": [
+        {
+          "name": "Akatakyie",
+          "url": "https://open.spotify.com/artist/42HbQTIMGoswCl4CgPh45l"
+        }
+      ],
+      "duration_ms": 309733,
+      "name": "Odo Asisi Me - Remix",
+      "url": "https://open.spotify.com/track/5KRIF5cZR3XAayf98QTdZJ"
+    },
+    {
+      "added_at": "2020-02-20 16:58:17",
+      "album": {
         "name": "Abro Ne Bayie",
         "url": "https://open.spotify.com/album/5sxiyctzYIonIhjbXsOzh0"
       },
       "artists": [
         {
-          "name": "Ookomfooo Kwaaade33",
-          "url": "https://open.spotify.com/artist/7vk3ROPumwngbad4JMh3SY"
+          "name": "Okomfour Kwadee",
+          "url": "https://open.spotify.com/artist/4ELqSlk9d15aZFqVzXfSjm"
         }
       ],
       "duration_ms": 301688,
       "name": "Abrantee",
       "url": "https://open.spotify.com/track/2DnXj8yPJYcLhjPM4kHD4q"
-    },
-    {
-      "added_at": "2020-02-20 16:58:17",
-      "album": {
-        "name": "Old School Hiplife Vol.1",
-        "url": "https://open.spotify.com/album/0wfz1F4pEmtnUG06sr8OEW"
-      },
-      "artists": [
-        {
-          "name": "KK Fosu",
-          "url": "https://open.spotify.com/artist/7pPwgEQEB4AJoAHxtZdhUc"
-        }
-      ],
-      "duration_ms": 272901,
-      "name": "Sudwe Remix",
-      "url": "https://open.spotify.com/track/5WruQLyuTbbGbu5VXZVT5W"
-    },
-    {
-      "added_at": "2020-02-20 16:58:17",
-      "album": {
-        "name": "Old School Hiplife Vol.1",
-        "url": "https://open.spotify.com/album/0wfz1F4pEmtnUG06sr8OEW"
-      },
-      "artists": [
-        {
-          "name": "Deeba",
-          "url": "https://open.spotify.com/artist/2dki1aEKiMVIOZ8pOMv3M1"
-        }
-      ],
-      "duration_ms": 305972,
-      "name": "Deeba",
-      "url": "https://open.spotify.com/track/04RrKNyYkImWhZkoEDBhTO"
-    },
-    {
-      "added_at": "2020-02-20 16:58:17",
-      "album": {
-        "name": "Old School Hiplife Vol.1",
-        "url": "https://open.spotify.com/album/0wfz1F4pEmtnUG06sr8OEW"
-      },
-      "artists": [
-        {
-          "name": "ScrewFace",
-          "url": "https://open.spotify.com/artist/5mLq4zuVf6yd6uS3wrlyrc"
-        },
-        {
-          "name": "Castro",
-          "url": "https://open.spotify.com/artist/5hACxwOyI5SiMCONu6KS4L"
-        }
-      ],
-      "duration_ms": 342125,
-      "name": "BUE BUE",
-      "url": "https://open.spotify.com/track/3sEw6Qs12OG1WXVN0r4Lqd"
     },
     {
       "added_at": "2022-04-14 23:00:00",
@@ -683,8 +551,144 @@
     {
       "added_at": "2020-02-20 16:58:17",
       "album": {
+        "name": "Owo Moti",
+        "url": "https://open.spotify.com/album/5PcYQfVWxpa7WjjqGSWmYO"
+      },
+      "artists": [
+        {
+          "name": "Micheal Dwamena",
+          "url": "https://open.spotify.com/artist/6sJP5qdmdznP6PrOkdPwAB"
+        }
+      ],
+      "duration_ms": 334893,
+      "name": "Ngozi",
+      "url": "https://open.spotify.com/track/687b1ZxrRmzvodBCxrpBG4"
+    },
+    {
+      "added_at": "2020-02-20 16:58:17",
+      "album": {
+        "name": "Atadwe",
+        "url": "https://open.spotify.com/album/1RmAEbz2aviWvoa4YwUQNk"
+      },
+      "artists": [
+        {
+          "name": "Papa Sheee",
+          "url": "https://open.spotify.com/artist/0ktHlUz0hzcpJnnAJ7KDPw"
+        }
+      ],
+      "duration_ms": 360573,
+      "name": "Atadwe",
+      "url": "https://open.spotify.com/track/77szM9v9r3cQLb753RcRjW"
+    },
+    {
+      "added_at": "2021-11-25 23:01:00",
+      "album": {
+        "name": "Back 2 Basics",
+        "url": "https://open.spotify.com/album/35NrBizEFZV3nxcccD42XB"
+      },
+      "artists": [
+        {
+          "name": "R2Bees",
+          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
+        }
+      ],
+      "duration_ms": 196398,
+      "name": "Sure Banker",
+      "url": "https://open.spotify.com/track/5tqUOSmsaEOGeTYrycpbuV"
+    },
+    {
+      "added_at": "2022-03-03 23:00:00",
+      "album": {
+        "name": "MAMA",
+        "url": "https://open.spotify.com/album/08amz14qiWtlECBBBLIMSw"
+      },
+      "artists": [
+        {
+          "name": "Kwaku DMC",
+          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
+        }
+      ],
+      "duration_ms": 154343,
+      "name": "MAMA",
+      "url": "https://open.spotify.com/track/7n3q5KB6vOF5Mh3YCVtovp"
+    },
+    {
+      "added_at": "2022-03-03 23:00:00",
+      "album": {
+        "name": "DADA BA",
+        "url": "https://open.spotify.com/album/5EFW38XyXglIjFsqOcFeby"
+      },
+      "artists": [
+        {
+          "name": "Quamina Mp",
+          "url": "https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "DADA BA",
+      "url": "https://open.spotify.com/track/5lgGv9Y0i3PKtQFeHpXYXb"
+    },
+    {
+      "added_at": "2022-03-31 23:00:00",
+      "album": {
+        "name": "Money No Dey",
+        "url": "https://open.spotify.com/album/3dKx3WOSmj3uJpiTbxULPh"
+      },
+      "artists": [
+        {
+          "name": "O'baya",
+          "url": "https://open.spotify.com/artist/4LJc5Bj4D2MtepUtCTALCO"
+        },
+        {
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+        }
+      ],
+      "duration_ms": 195604,
+      "name": "Money No Dey",
+      "url": "https://open.spotify.com/track/6PQJxml8tgrJ5Il51hEze7"
+    },
+    {
+      "added_at": "2021-12-02 23:01:00",
+      "album": {
+        "name": "Burning - EP",
+        "url": "https://open.spotify.com/album/7oQTsdePfvrMkeottXJ4Go"
+      },
+      "artists": [
+        {
+          "name": "Samini",
+          "url": "https://open.spotify.com/artist/10Cql6DpInZY5O6TBw2m4l"
+        },
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        }
+      ],
+      "duration_ms": 233333,
+      "name": "Ware Me",
+      "url": "https://open.spotify.com/track/3vyBe2SDEPLhm6peMZnk3n"
+    },
+    {
+      "added_at": "2022-02-10 07:32:52",
+      "album": {
+        "name": "Made in Ghana",
+        "url": "https://open.spotify.com/album/2U7uD59hrGd7V5i1HiASD1"
+      },
+      "artists": [
+        {
+          "name": "RCEE",
+          "url": "https://open.spotify.com/artist/5aMc9Z99UvAnSOGYAlZsHb"
+        }
+      ],
+      "duration_ms": 189474,
+      "name": "Made in Ghana",
+      "url": "https://open.spotify.com/track/7dMMkof2wbprZYG6ggp8eP"
+    },
+    {
+      "added_at": "2020-02-20 16:58:17",
+      "album": {
         "name": "Yeesom Sika",
-        "url": "https://open.spotify.com/album/7I3mCsTVTJlkDqqGpHHGht"
+        "url": "https://open.spotify.com/album/1ZdQbM6DD603nNABFvAYJe"
       },
       "artists": [
         {
@@ -693,28 +697,28 @@
         },
         {
           "name": "Swanzy B",
-          "url": "https://open.spotify.com/artist/1gpzzTqs3Dk0TdIWvXrqgP"
+          "url": "https://open.spotify.com/artist/2Bg6vk2wOHQj5HJtTulISZ"
         }
       ],
-      "duration_ms": 292106,
+      "duration_ms": 292120,
       "name": "Medo",
-      "url": "https://open.spotify.com/track/2qx8A8AdgkvRaaEbQpQouA"
+      "url": "https://open.spotify.com/track/6dO8RYtvSOTr2VLXVEQRVu"
     },
     {
-      "added_at": "2020-02-20 16:58:17",
+      "added_at": "2022-05-19 19:39:48",
       "album": {
-        "name": "Old School Hiplife Vol.1",
-        "url": "https://open.spotify.com/album/0wfz1F4pEmtnUG06sr8OEW"
+        "name": "Martha Matter",
+        "url": "https://open.spotify.com/album/1ZCgErXZWyokFUHryxATW5"
       },
       "artists": [
         {
-          "name": "Buk Bak",
-          "url": "https://open.spotify.com/artist/5ARObhhC49Pa1KRykJaBzX"
+          "name": "KOFI BRUCE",
+          "url": "https://open.spotify.com/artist/3C96ARfG9uaoD9AiE86jzt"
         }
       ],
-      "duration_ms": 399124,
-      "name": "Im Going 2 Come",
-      "url": "https://open.spotify.com/track/6CfOf471V97PCem1hcUiLB"
+      "duration_ms": 194400,
+      "name": "Martha Matter",
+      "url": "https://open.spotify.com/track/7IZDdDiQqR8sPiVKWCGFuy"
     }
   ],
   "unique_name": "Hip-Life Hits",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 
 > Roots and acoustic tunes, for sun drenched days and balmy nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,158 likes - 55 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,986 likes - 55 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,14 +25,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 15 | [Stay Safe](https://open.spotify.com/track/2OyUCgOQnG9n4FZCCk0XD7) | [Husky Gawenda](https://open.spotify.com/artist/1sNJ4MiIoUC38wEPkXdW1W) | [Bedroom Ice Age](https://open.spotify.com/album/2EqclbDgaBBTn0SSQfDmcl) | 1:55 |
 | 16 | [Zombie](https://open.spotify.com/track/0LiD0XPrfp8dASlLaNKoGx) | [Lisa Mitchell](https://open.spotify.com/artist/53f2OKMfVLTsHFkGyA5dnz) | [Zombie](https://open.spotify.com/album/4kMsFylgetTOgEenaqqrUW) | 3:35 |
 | 17 | [Idiot Day](https://open.spotify.com/track/1Sizsyh5IFxCldO3vyNTn4) | [Antony Jeffares](https://open.spotify.com/artist/7iG6YfPIDZS6ZwbnCf56of) | [When Twilight Comes \(I Am Still Yearning\)](https://open.spotify.com/album/3z7s2nqsEcdmQiQzw5qaDm) | 2:36 |
-| 18 | [Kinder](https://open.spotify.com/track/3laEqX58fkjwQQeftYWtfu) | [Isaac Jensen](https://open.spotify.com/artist/2mUTW5cFUAQxpWOjq31yYb) | [Kinder](https://open.spotify.com/album/4klHqdr3ef7C3XvmUu0Cir) | 3:26 |
+| 18 | [Kinder](https://open.spotify.com/track/15qbB1N6kGsNyCJp5C282W) | [Isaac Jensen](https://open.spotify.com/artist/2mUTW5cFUAQxpWOjq31yYb) | [Kinder](https://open.spotify.com/album/7re2kB1LFDctQqwQhodsIy) | 3:26 |
 | 19 | [Fairyland](https://open.spotify.com/track/6CVtLr3bbHUYaLrgBylLXZ) | [Little Green](https://open.spotify.com/artist/0Kcz7AMOkHHye7xhLJUWTy), [Holly](https://open.spotify.com/artist/0CYjis6hfG45tEhjGMNL33) | [The Night EP](https://open.spotify.com/album/3mZWoEDVRirGx81IpkwCrT) | 3:51 |
 | 20 | [Tattoos](https://open.spotify.com/track/2FVVu9NYYJcsJZyludnA5p) | [Jack Botts](https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl) | [Slow Mornings](https://open.spotify.com/album/4klmewvkTrB4zj1NuRohTZ) | 3:35 |
 | 21 | [Life Ain’t Fine](https://open.spotify.com/track/2kpLd6FEDxATYzeve3SXZT) | [Shane Nicholson](https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t) | [Life Ain't Fine](https://open.spotify.com/album/3cGwh7qmuvXOwx49k5qsCn) | 2:27 |
 | 22 | [Love Is an Open Road](https://open.spotify.com/track/6nn3h5deAeDf0qgfOW8Hvz) | [Israel Cannan](https://open.spotify.com/artist/4EMl4Y4uEh32Jmfgi6bYZx) | [Love Is an Open Road](https://open.spotify.com/album/5YfnRr6B3SRgJvB1Wl5dC8) | 2:46 |
 | 23 | [Concentrate On Breathing](https://open.spotify.com/track/2Tme0GsTtJd8o3CqAd8o2r) | [Charm of Finches](https://open.spotify.com/artist/2vfDwM6xqZbOjg5h6VLoke) | [Concentrate On Breathing](https://open.spotify.com/album/0u2Sv2RH4Yx6MwZMUI5Omu) | 3:39 |
 | 24 | [End of the Line](https://open.spotify.com/track/4FQVyRqhQrI6QtwSpwE9bX) | [This New Light](https://open.spotify.com/artist/6A6Iy2NAlSomrHjx13YumR) | [you, all along](https://open.spotify.com/album/2JbSkrtowXyfnR89YMx3Wh) | 4:20 |
-| 25 | [Inner City Lights](https://open.spotify.com/track/5Ho9jqSETTmHIMpwWRE7Ts) | [Jack Davies and The Bush Chooks](https://open.spotify.com/artist/1a6a0hVxotITvRTjVXaT9n) | [Inner City Lights](https://open.spotify.com/album/1QkN9kDH7LUUgGuGRsGIJB) | 4:21 |
+| 25 | [Inner City Lights](https://open.spotify.com/track/7gWddNhFG1IbqNsFlnQBGQ) | [Jack Davies and The Bush Chooks](https://open.spotify.com/artist/1a6a0hVxotITvRTjVXaT9n) | [Inner City Lights](https://open.spotify.com/album/7CY4x6g4SqIOXzzAFqtdHw) | 4:21 |
 | 26 | [Meteorite](https://open.spotify.com/track/5BTHyWBG54XkPukJyIUWW6) | [Husky](https://open.spotify.com/artist/47nuMLurQsLP1gLK7gJtis) | [Meteorite](https://open.spotify.com/album/2KAsSyMMP4pySh1dWMbCj3) | 3:18 |
 | 27 | [In My Arms](https://open.spotify.com/track/13RNv4OHDHgjlHgYhzzD3O) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Life Is Strange](https://open.spotify.com/album/6ozSLuLzK71i6l4o2OiN1A) | 3:03 |
 | 28 | [Carrying](https://open.spotify.com/track/3CfVLDjFpdQxO0kHDin4En) | [Goddess911](https://open.spotify.com/artist/55qm9Rk7W6cAQa0nVIiqd8) | [Carrying](https://open.spotify.com/album/2OzYe3Dj6wxlpckkb8MGoj) | 3:01 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 36 | [The Race](https://open.spotify.com/track/2qhnDybSlDXwynRtTY2zfi) | [Make The Moon](https://open.spotify.com/artist/76i6rj2RihHAsdPAjURx1M) | [The Race](https://open.spotify.com/album/460LhAQP66yaem9mxq6yhW) | 3:25 |
 | 37 | [Hunger](https://open.spotify.com/track/0ADe9aTzgOVhEMAY80kUbp) | [Tully John & Liza\-Jane](https://open.spotify.com/artist/1hENmUFTXkckLPb7sF16nV) | [Hunger](https://open.spotify.com/album/6wXOGyDnQXfxv0v8PZfM0q) | 4:08 |
 | 38 | [Feel Like Clarity](https://open.spotify.com/track/016dLlAVQIkvND7FPAiitb) | [Gaudion](https://open.spotify.com/artist/1l0TemHJ4m9K2hhuZC9fYI) | [Feel Like Clarity](https://open.spotify.com/album/5Eb9IjtZ2mTqg7yX6vh8Sk) | 3:08 |
-| 39 | [After the Sun](https://open.spotify.com/track/3VqkvcP3j3kSr1FsKwctBp) | [Kim Churchill](https://open.spotify.com/artist/0ZmJRBCKYicwq9n4FjZpho) | [I AM](https://open.spotify.com/album/7D8yJ8artbOzMvz5Q2HZXX) | 3:33 |
+| 39 | [After the Sun](https://open.spotify.com/track/48RnhqwWJba2PMoy9ZItxL) | [Kim Churchill](https://open.spotify.com/artist/0ZmJRBCKYicwq9n4FjZpho) | [I AM](https://open.spotify.com/album/61eBjmrl0HdW6LGhcx6da0) | 3:33 |
 | 40 | [Catch Me](https://open.spotify.com/track/69iZHDveavg2RvuhevpsjW) | [Robbie Miller](https://open.spotify.com/artist/0lkWoQLsP4QWkqefjR9IH1) | [Little Love](https://open.spotify.com/album/0Fm7qXRFQORyiAXCMOecjs) | 2:57 |
 | 41 | [Love Shack](https://open.spotify.com/track/2zbuLLg1jSNhHVEBVlwcgG) | [Luke Morris](https://open.spotify.com/artist/79i6PErg0CppXj9tpcxdOi) | [Love Shack](https://open.spotify.com/album/2zJN6bhIPoTUviXdNslg8C) | 4:09 |
 | 42 | [Wasting Time](https://open.spotify.com/track/3gxRgVnfMp6AgHtaHzYeAh) | [MADDY MAY](https://open.spotify.com/artist/53ugKVVbmwpUEI42eNG9Mu), [Billy Otto](https://open.spotify.com/artist/68K7z2GTeiBnNteSfDGOzH) | [Wasting Time](https://open.spotify.com/album/0tAi1OxUfCzEuS3oh9g2Gp) | 3:12 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 54 | [Morning Light](https://open.spotify.com/track/4WTshd9xB6Y3HHd8snMMQ1) | [Dusty Boots](https://open.spotify.com/artist/4f7aac6rSCC2VopLH049zY) | [Morning Light](https://open.spotify.com/album/78DnLLGhKsf0jgegmqSja9) | 3:11 |
 | 55 | [Midsummer](https://open.spotify.com/track/0WuXqVDS9LLN41RGSAXuVe) | [Paper Cranes 折り鶴](https://open.spotify.com/artist/5YZSzTjciJAaAek3ujVhpc) | [Voices](https://open.spotify.com/album/4MR4vc3bWQwAaZdbAmH7t9) | 2:45 |
 
-Snapshot ID: `MTYzODI1MzkyNiwwMDAwMDAwMGM0NGY5MWRlODFhN2E4MmE3MDliZjY1YzNlMzM0YWNl`
+Snapshot ID: `MTYzODI1MzkyNiwwMDAwMDAwMDJmMjU4OTZmZmI5ZmI5ZDkzZGE4OTEzMWExZWM4YzQw`

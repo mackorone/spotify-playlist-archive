@@ -1,15 +1,15 @@
 {
   "description": "<a href=\"spotify:artist:1aIWC7EGIcWotOZ8LNHH9j\">Jad Halal</a>'s favorite tracks. Updated regularly. Curated by Jad Halal. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 2349,
+  "num_followers": 4838,
   "original_name": "Jad Halal track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzYwNTUzNiwwMDAwMDAwMDgyMjU1MzY3ZmRhOWYxM2ZmYjgyNzhkMmFlOWFiODkz",
+  "snapshot_id": "MTY2NTY0NjgxMSwwMDAwMDAwMDlkYTk2YWVkNTQ4YzZiMzQ0NWFiODgxNzZiNDRjN2U5",
   "tracks": [
     {
-      "added_at": "2022-09-19 16:38:56",
+      "added_at": "2022-10-13 07:40:11",
       "album": {
         "name": "Ghouroub",
         "url": "https://open.spotify.com/album/0lgaPIausGrjLHeuY6Dz8V"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/6sjje7260A90a9bOR6EbYG"
     },
     {
-      "added_at": "2022-09-19 16:38:56",
+      "added_at": "2022-10-13 07:40:11",
       "album": {
         "name": "Desert Tale",
         "url": "https://open.spotify.com/album/4yuwchv1cn57wwMe8hqW7p"
@@ -45,10 +45,10 @@
       "url": "https://open.spotify.com/track/6TdpnCDgeya8E4t6Skc60K"
     },
     {
-      "added_at": "2022-09-19 16:38:56",
+      "added_at": "2022-10-13 07:40:11",
       "album": {
-        "name": "Force EP",
-        "url": "https://open.spotify.com/album/3Vj7hxsIOeERxTr7lroS5P"
+        "name": "Force",
+        "url": "https://open.spotify.com/album/1MpLubxJBJNRaFAjahk9Hj"
       },
       "artists": [
         {
@@ -58,10 +58,10 @@
       ],
       "duration_ms": 454338,
       "name": "Force",
-      "url": "https://open.spotify.com/track/3y2b7uFFbUgtTFeh4TKHAp"
+      "url": "https://open.spotify.com/track/35bOzO8Az5C9xsAgUjr0Bq"
     },
     {
-      "added_at": "2022-09-19 16:38:56",
+      "added_at": "2022-10-13 07:40:11",
       "album": {
         "name": "Ghetto King",
         "url": "https://open.spotify.com/album/3q8v4F3zabaHlG5IVECT6r"
@@ -81,7 +81,39 @@
       "url": "https://open.spotify.com/track/0T0FIfA0AI3ELwNVBSZNS3"
     },
     {
-      "added_at": "2022-09-19 16:38:56",
+      "added_at": "2022-10-13 07:40:11",
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/6HMZO1TTb8HuJE61QP0MPz"
+      },
+      "artists": [
+        {
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+        }
+      ],
+      "duration_ms": 420025,
+      "name": "Rumor",
+      "url": "https://open.spotify.com/track/0IyZ6gCFUyGs3zP2ItaTo1"
+    },
+    {
+      "added_at": "2022-10-13 07:40:11",
+      "album": {
+        "name": "Algerian Resurrection",
+        "url": "https://open.spotify.com/album/3ZjvsoFEJSX0wKoqvf18M3"
+      },
+      "artists": [
+        {
+          "name": "K\u00d6NI",
+          "url": "https://open.spotify.com/artist/3wGOQXqAdsWkgf3PtuRY6Q"
+        }
+      ],
+      "duration_ms": 345032,
+      "name": "Algerian Resurrection",
+      "url": "https://open.spotify.com/track/3trqXz0dgBUORXtrwYTUtU"
+    },
+    {
+      "added_at": "2022-10-13 07:40:11",
       "album": {
         "name": "Anchor Point EP",
         "url": "https://open.spotify.com/album/1L8kegBtw3HkqpxTlqc1Fm"
@@ -101,10 +133,10 @@
       "url": "https://open.spotify.com/track/38VyljyWXnVxtYWSiH5Hzc"
     },
     {
-      "added_at": "2022-09-19 16:38:56",
+      "added_at": "2022-10-13 07:40:11",
       "album": {
         "name": "How Can I Resist",
-        "url": "https://open.spotify.com/album/5MjBnaVcD8NQYeXTFjcMlS"
+        "url": "https://open.spotify.com/album/4cL2WyIcSwWgRlQxrXDN2M"
       },
       "artists": [
         {
@@ -118,10 +150,10 @@
       ],
       "duration_ms": 388480,
       "name": "How Can I Resist",
-      "url": "https://open.spotify.com/track/54w3b8DMRcWWXSbnckLQq9"
+      "url": "https://open.spotify.com/track/0YnPozuKonupUAmhWinO88"
     },
     {
-      "added_at": "2022-09-19 16:38:56",
+      "added_at": "2022-10-13 07:40:11",
       "album": {
         "name": "Ghouroub",
         "url": "https://open.spotify.com/album/0lgaPIausGrjLHeuY6Dz8V"
@@ -141,7 +173,63 @@
       "url": "https://open.spotify.com/track/39NtjGMLdLBqrzJUgxpPAU"
     },
     {
-      "added_at": "2022-09-19 16:38:56",
+      "added_at": "2022-10-13 07:40:11",
+      "album": {
+        "name": "Initio",
+        "url": "https://open.spotify.com/album/57LVfnJPGPKINK5Ub19OkC"
+      },
+      "artists": [
+        {
+          "name": "Yarkin Bora",
+          "url": "https://open.spotify.com/artist/2Yj7cRMoeqgjxRmTek9AVm"
+        }
+      ],
+      "duration_ms": 324000,
+      "name": "Initio",
+      "url": "https://open.spotify.com/track/0NfTsHY1lwjMrtVnT6rf6W"
+    },
+    {
+      "added_at": "2022-10-13 07:40:11",
+      "album": {
+        "name": "Canario (Incl. Mollono.Bass Remix)",
+        "url": "https://open.spotify.com/album/0Q2MQry6VfhtmNBKoyYvYv"
+      },
+      "artists": [
+        {
+          "name": "Iman Hanzo",
+          "url": "https://open.spotify.com/artist/5ayIaDgQlMl8YcCdY70zRr"
+        },
+        {
+          "name": "PAAX (Tulum)",
+          "url": "https://open.spotify.com/artist/44f1ZKVW8Zh13oCOGGTiFd"
+        }
+      ],
+      "duration_ms": 387271,
+      "name": "Canario - PAAX (Tulum) Remix",
+      "url": "https://open.spotify.com/track/6Ragp4iHxvYs6RvqCusJr0"
+    },
+    {
+      "added_at": "2022-10-13 07:40:11",
+      "album": {
+        "name": "Tango Bar",
+        "url": "https://open.spotify.com/album/4twfkJpB5oUWVBix59JVu7"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Suarez",
+          "url": "https://open.spotify.com/artist/6zfwxQQjoCU9uSsrwckyZv"
+        },
+        {
+          "name": "Mr Doxx",
+          "url": "https://open.spotify.com/artist/5Hi7p9BIFa2GlpcGL5tfaB"
+        }
+      ],
+      "duration_ms": 438000,
+      "name": "Tango Bar - Alvaro Suarez Remix",
+      "url": "https://open.spotify.com/track/5t93cE5V3JELqsgXeBVoKG"
+    },
+    {
+      "added_at": "2022-10-13 07:40:11",
       "album": {
         "name": "Herd In Ibiza (DJ Mix)",
         "url": "https://open.spotify.com/album/7r57rslWOYskZkS0YnVTzi"
@@ -157,7 +245,31 @@
       "url": "https://open.spotify.com/track/5rofzaLo6DzoR3TUVM8yJq"
     },
     {
-      "added_at": "2022-09-19 16:38:56",
+      "added_at": "2022-10-13 07:40:11",
+      "album": {
+        "name": "Feeling Good",
+        "url": "https://open.spotify.com/album/2ONyrF5at73dk9Dbb8AD30"
+      },
+      "artists": [
+        {
+          "name": "Simone Vitullo",
+          "url": "https://open.spotify.com/artist/2DmIxLxqj5Pu1QcZxuMZOQ"
+        },
+        {
+          "name": "Liva K",
+          "url": "https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj"
+        },
+        {
+          "name": "Brigitte Wickens",
+          "url": "https://open.spotify.com/artist/7MlbbUSbXf3BDOSyFCOOeO"
+        }
+      ],
+      "duration_ms": 415399,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/4wqtlpo7xtEmuY3zJjR2EE"
+    },
+    {
+      "added_at": "2022-10-13 07:40:11",
       "album": {
         "name": "Tataki",
         "url": "https://open.spotify.com/album/2TIki9mmFhTGkyJM0Svses"
@@ -173,7 +285,7 @@
       "url": "https://open.spotify.com/track/1vdYudatKL5iRIM7i6vkvG"
     },
     {
-      "added_at": "2022-09-19 16:38:56",
+      "added_at": "2022-10-13 07:40:11",
       "album": {
         "name": "What To Do (Remixes)",
         "url": "https://open.spotify.com/album/0SQmYnktpdLsK7jypOjAHh"
@@ -193,27 +305,7 @@
       "url": "https://open.spotify.com/track/0RMQgXHIBTsAVcaS7qahLq"
     },
     {
-      "added_at": "2022-09-19 16:38:56",
-      "album": {
-        "name": "Yeke Yeke",
-        "url": "https://open.spotify.com/album/1jxV6S1BJMXHH3OltagbjH"
-      },
-      "artists": [
-        {
-          "name": "Stylo",
-          "url": "https://open.spotify.com/artist/0e8a2RTD02fJ5lmCBOR7DI"
-        },
-        {
-          "name": "Space Motion",
-          "url": "https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY"
-        }
-      ],
-      "duration_ms": 363934,
-      "name": "Yeke Yeke",
-      "url": "https://open.spotify.com/track/7LjswiwJTEq6wXKqf8Yb05"
-    },
-    {
-      "added_at": "2022-09-19 16:38:56",
+      "added_at": "2022-10-13 07:40:11",
       "album": {
         "name": "Desperado",
         "url": "https://open.spotify.com/album/1D24WkLNkBUzFWHLXBBIab"
@@ -241,7 +333,7 @@
       "url": "https://open.spotify.com/track/5SDO2GkFtXM0PD5jpymcBD"
     },
     {
-      "added_at": "2022-09-19 16:38:56",
+      "added_at": "2022-10-13 07:40:11",
       "album": {
         "name": "Ghouroub",
         "url": "https://open.spotify.com/album/0lgaPIausGrjLHeuY6Dz8V"
@@ -261,7 +353,7 @@
       "url": "https://open.spotify.com/track/5mRFwMYA9y6dk16YH8KcZA"
     },
     {
-      "added_at": "2022-09-19 16:38:56",
+      "added_at": "2022-10-13 07:40:11",
       "album": {
         "name": "Paloma + Remixes",
         "url": "https://open.spotify.com/album/5LE9oiaGprQqvFtinBA73K"
@@ -289,39 +381,7 @@
       "url": "https://open.spotify.com/track/1vxxPXB1crb7QITSqG30Zr"
     },
     {
-      "added_at": "2022-09-19 16:38:56",
-      "album": {
-        "name": "Endless Forest",
-        "url": "https://open.spotify.com/album/5EE1o6sPngmmoL68oGZcBb"
-      },
-      "artists": [
-        {
-          "name": "Zuma Dionys",
-          "url": "https://open.spotify.com/artist/7qqEqY1pR6Uj2Z41HNuszd"
-        }
-      ],
-      "duration_ms": 436857,
-      "name": "Gamora",
-      "url": "https://open.spotify.com/track/3urFlzQr5f0jlGMGt84m76"
-    },
-    {
-      "added_at": "2022-09-19 16:38:56",
-      "album": {
-        "name": "Annem",
-        "url": "https://open.spotify.com/album/4cCQiTtZbWocNmkqQWyXcI"
-      },
-      "artists": [
-        {
-          "name": "KHAIKHAN",
-          "url": "https://open.spotify.com/artist/0EhNqmWsXRucbAgAKfac75"
-        }
-      ],
-      "duration_ms": 257777,
-      "name": "Anatolia",
-      "url": "https://open.spotify.com/track/3rAXhCYxW5UIwPYmGGiHl7"
-    },
-    {
-      "added_at": "2022-09-19 16:38:56",
+      "added_at": "2022-10-13 07:40:11",
       "album": {
         "name": "Sophonisbe",
         "url": "https://open.spotify.com/album/0v9XsFBlAt1lyDuFhO1ZhM"
@@ -341,7 +401,7 @@
       "url": "https://open.spotify.com/track/44288Pd23qyQs0FyCqti8L"
     },
     {
-      "added_at": "2022-09-19 16:38:56",
+      "added_at": "2022-10-13 07:40:11",
       "album": {
         "name": "Premier Gaou (Nitefreak Remix)",
         "url": "https://open.spotify.com/album/1kfRbSlDcUF3hz3P9Zhg4c"
@@ -365,27 +425,7 @@
       "url": "https://open.spotify.com/track/57e5ib2PnvuiaTvaI4jGDp"
     },
     {
-      "added_at": "2022-09-19 16:38:56",
-      "album": {
-        "name": "Buya",
-        "url": "https://open.spotify.com/album/2ivPFRRQwivgwnh9QqfOqE"
-      },
-      "artists": [
-        {
-          "name": "Chris IDH",
-          "url": "https://open.spotify.com/artist/2z7bVSNugoW687HxM4eSa9"
-        },
-        {
-          "name": "Kwezi",
-          "url": "https://open.spotify.com/artist/5tuitM1t2STg0mAoCxIpZp"
-        }
-      ],
-      "duration_ms": 492750,
-      "name": "Buya",
-      "url": "https://open.spotify.com/track/5yXoXL2SrjM0XjFyGWPVkY"
-    },
-    {
-      "added_at": "2022-09-19 16:38:56",
+      "added_at": "2022-10-13 07:40:11",
       "album": {
         "name": "Silence & Secrets (Black Coffee Remix)",
         "url": "https://open.spotify.com/album/6yaDQvusuMpB2BqrsmhSRI"
@@ -405,7 +445,7 @@
       "url": "https://open.spotify.com/track/3ZZDwhwD6ZsFQW0IGfiKrG"
     },
     {
-      "added_at": "2022-09-19 16:38:56",
+      "added_at": "2022-10-13 07:40:11",
       "album": {
         "name": "Anka",
         "url": "https://open.spotify.com/album/6lfcXtau5zMyV2jpqD0cfH"
@@ -425,7 +465,7 @@
       "url": "https://open.spotify.com/track/3YMoU9AGxlyCQgtIsQ8Vkj"
     },
     {
-      "added_at": "2022-09-19 16:38:56",
+      "added_at": "2022-10-13 07:40:11",
       "album": {
         "name": "It's Not Right",
         "url": "https://open.spotify.com/album/5gIMusLf2Z5ECGBKCzFTGO"
@@ -449,7 +489,7 @@
       "url": "https://open.spotify.com/track/5EqWSdAZcpjZ29uKViQIGU"
     },
     {
-      "added_at": "2022-09-19 16:38:56",
+      "added_at": "2022-10-13 07:40:11",
       "album": {
         "name": "Efsun",
         "url": "https://open.spotify.com/album/29KqM9Q8hLujjg6EE1N9gS"
@@ -465,7 +505,7 @@
       "url": "https://open.spotify.com/track/75dhZ7AfOq4QNFDuiHjMDA"
     },
     {
-      "added_at": "2022-09-19 16:38:56",
+      "added_at": "2022-10-13 07:40:11",
       "album": {
         "name": "Eldorado",
         "url": "https://open.spotify.com/album/3yp6o87R2Du2CC75dw2cqc"
@@ -481,7 +521,7 @@
       "url": "https://open.spotify.com/track/50juFT8u0XDZQ5HO5khhlC"
     },
     {
-      "added_at": "2022-09-19 16:38:56",
+      "added_at": "2022-10-13 07:40:11",
       "album": {
         "name": "Summer Sol V",
         "url": "https://open.spotify.com/album/2pAEE8ppIkSaDxcCQ5J5Cp"
@@ -497,7 +537,7 @@
       "url": "https://open.spotify.com/track/3dFgpRHUx60es4nvmxw4jv"
     },
     {
-      "added_at": "2022-09-19 16:38:56",
+      "added_at": "2022-10-13 07:40:11",
       "album": {
         "name": "The Healers: The Last Chapter",
         "url": "https://open.spotify.com/album/2F3Nw7Z7Gt6ET52DosiPTH"
@@ -517,7 +557,7 @@
       "url": "https://open.spotify.com/track/24WCTSU9zrsQxBE1NIhBPM"
     },
     {
-      "added_at": "2022-09-19 16:38:56",
+      "added_at": "2022-10-13 07:40:11",
       "album": {
         "name": "Miombo",
         "url": "https://open.spotify.com/album/5GtgbyB6ATyCEAryQrTiFE"
@@ -537,7 +577,7 @@
       "url": "https://open.spotify.com/track/06Y7RRtGrgIKc7pKSJJ8oh"
     },
     {
-      "added_at": "2022-09-19 16:38:56",
+      "added_at": "2022-10-13 07:40:11",
       "album": {
         "name": "The Rain Dance",
         "url": "https://open.spotify.com/album/0TLE2OhP2Hspnn9DIJEKyb"
@@ -553,7 +593,7 @@
       "url": "https://open.spotify.com/track/4SMLbQZ9rM5BV8ZxLEOtGk"
     },
     {
-      "added_at": "2022-09-19 16:38:56",
+      "added_at": "2022-10-13 07:40:11",
       "album": {
         "name": "Try To Escape",
         "url": "https://open.spotify.com/album/6Qebev2T4obA2q6jA2ZTOD"
@@ -569,7 +609,7 @@
       "url": "https://open.spotify.com/track/6ITyiTkL7g1D2hXYeSUYkO"
     },
     {
-      "added_at": "2022-09-19 16:38:56",
+      "added_at": "2022-10-13 07:40:11",
       "album": {
         "name": "Sete",
         "url": "https://open.spotify.com/album/2dUSIzfLEgYB3QJB2Vt8j3"
@@ -593,7 +633,7 @@
       "url": "https://open.spotify.com/track/5B4gUqNKYgU38ULSWP5Bzj"
     },
     {
-      "added_at": "2022-09-19 16:38:56",
+      "added_at": "2022-10-13 07:40:11",
       "album": {
         "name": "Trinidad Dreams",
         "url": "https://open.spotify.com/album/7vkYBAyQIfEzBOUN9DnHpx"
@@ -609,7 +649,7 @@
       "url": "https://open.spotify.com/track/62F0yfVTEnjOBWKiXEEELZ"
     },
     {
-      "added_at": "2022-09-19 16:38:56",
+      "added_at": "2022-10-13 07:40:11",
       "album": {
         "name": "Chilanzar",
         "url": "https://open.spotify.com/album/6pUGx8rnnPZ1bVHVOM0EXu"
@@ -629,7 +669,7 @@
       "url": "https://open.spotify.com/track/3eRKV66fGzyDKLhZpbMPVO"
     },
     {
-      "added_at": "2022-09-19 16:38:56",
+      "added_at": "2022-10-13 07:40:11",
       "album": {
         "name": "Jinga",
         "url": "https://open.spotify.com/album/0ouAjexRNLoTp8Cbv9ZiKX"
@@ -649,7 +689,7 @@
       "url": "https://open.spotify.com/track/7FgtP833uZzS6s1FNTpy30"
     },
     {
-      "added_at": "2022-09-19 16:38:56",
+      "added_at": "2022-10-13 07:40:11",
       "album": {
         "name": "Kouame",
         "url": "https://open.spotify.com/album/7MiD4AoP6AQuI8mAVpROCh"
@@ -665,7 +705,7 @@
       "url": "https://open.spotify.com/track/55LJoGb0Rkv5tAiOQWcLYk"
     },
     {
-      "added_at": "2022-09-19 16:38:56",
+      "added_at": "2022-10-13 07:40:11",
       "album": {
         "name": "Eternal Roots",
         "url": "https://open.spotify.com/album/6k8dJjNShTIPhwU9vA5sCL"
@@ -685,7 +725,7 @@
       "url": "https://open.spotify.com/track/77JvaKaFCOvROjm2qfrfDR"
     },
     {
-      "added_at": "2022-09-19 16:38:56",
+      "added_at": "2022-10-13 07:40:11",
       "album": {
         "name": "The Sound Of Silence",
         "url": "https://open.spotify.com/album/5tG7zEHtCiDVDUDv5sgO7B"
@@ -709,7 +749,7 @@
       "url": "https://open.spotify.com/track/2pdFwbvjbixL0aprQ5bnX1"
     },
     {
-      "added_at": "2022-09-19 16:38:56",
+      "added_at": "2022-10-13 07:40:11",
       "album": {
         "name": "Libre",
         "url": "https://open.spotify.com/album/3xLfD35pFQYV5lwIURCogm"
@@ -725,7 +765,7 @@
       "url": "https://open.spotify.com/track/3XeVB8YM20IlBCjEmYc4o9"
     },
     {
-      "added_at": "2022-09-19 16:38:56",
+      "added_at": "2022-10-13 07:40:11",
       "album": {
         "name": "The Call",
         "url": "https://open.spotify.com/album/43AbiDnZdsiZmWc2ZuqMKb"
@@ -749,7 +789,7 @@
       "url": "https://open.spotify.com/track/1FNMA4Zy0o5Z6Mq7H3QRp5"
     },
     {
-      "added_at": "2022-09-19 16:38:56",
+      "added_at": "2022-10-13 07:40:11",
       "album": {
         "name": "Massai",
         "url": "https://open.spotify.com/album/4y72Kq08pt3ZWMr83qqvz8"
@@ -765,7 +805,7 @@
       "url": "https://open.spotify.com/track/1wZEEn84EPDh0DezMNq7x0"
     },
     {
-      "added_at": "2022-09-19 16:38:56",
+      "added_at": "2022-10-13 07:40:11",
       "album": {
         "name": "Asabaka 3echkoun (Deeper Remix)",
         "url": "https://open.spotify.com/album/5cwvzZK0I5ntRk3HRgpSOz"
@@ -781,7 +821,7 @@
       "url": "https://open.spotify.com/track/1WxhZX5MdFnc2KS85lpsoz"
     },
     {
-      "added_at": "2022-09-19 16:38:56",
+      "added_at": "2022-10-13 07:40:11",
       "album": {
         "name": "Asiye",
         "url": "https://open.spotify.com/album/56KA60J5UwXFlGZBYGlpEG"
@@ -805,7 +845,7 @@
       "url": "https://open.spotify.com/track/3Y5OkzfSejM3jq7Cxz6OIO"
     },
     {
-      "added_at": "2022-09-19 16:38:56",
+      "added_at": "2022-10-13 07:40:11",
       "album": {
         "name": "Summer Sol",
         "url": "https://open.spotify.com/album/6iEbxNzIjuMk3oFWveulAn"
@@ -825,7 +865,7 @@
       "url": "https://open.spotify.com/track/2qpb6nlep47oTvt9J9Ql7f"
     },
     {
-      "added_at": "2022-09-19 16:38:56",
+      "added_at": "2022-10-13 07:40:11",
       "album": {
         "name": "Anlar",
         "url": "https://open.spotify.com/album/22JM1qXMlAVy2MDKsdyN6c"
@@ -841,7 +881,7 @@
       "url": "https://open.spotify.com/track/30rDKZPuQxu8US9AVEWkE7"
     },
     {
-      "added_at": "2022-09-19 16:38:56",
+      "added_at": "2022-10-13 07:40:11",
       "album": {
         "name": "Anka",
         "url": "https://open.spotify.com/album/6lfcXtau5zMyV2jpqD0cfH"
@@ -861,7 +901,7 @@
       "url": "https://open.spotify.com/track/5e063bYxq533JpgRCHBpt5"
     },
     {
-      "added_at": "2022-09-19 16:38:56",
+      "added_at": "2022-10-13 07:40:11",
       "album": {
         "name": "Rouhi",
         "url": "https://open.spotify.com/album/6DvjdqPz3PSSCePEeuDOBl"
@@ -885,7 +925,7 @@
       "url": "https://open.spotify.com/track/55LgHMrNjkPR4GH2JrNo6A"
     },
     {
-      "added_at": "2022-09-19 16:38:56",
+      "added_at": "2022-10-13 07:40:11",
       "album": {
         "name": "Angelos Rebirth Mix",
         "url": "https://open.spotify.com/album/2KvL2S5zjJpn72vYEouq6B"
@@ -905,7 +945,7 @@
       "url": "https://open.spotify.com/track/7yr19oQ20Uo2Zq4eOzn2F6"
     },
     {
-      "added_at": "2022-09-19 16:38:56",
+      "added_at": "2022-10-13 07:40:11",
       "album": {
         "name": "Fragile",
         "url": "https://open.spotify.com/album/37abhSU412bkiwXr3ShshM"
@@ -929,7 +969,7 @@
       "url": "https://open.spotify.com/track/5Q9Ds8Q34V9ZPfi0noJ7Xe"
     },
     {
-      "added_at": "2022-09-19 16:38:56",
+      "added_at": "2022-10-13 07:40:11",
       "album": {
         "name": "Rapture Reconstruction, Platinum Edition (feat. Nadia Ali)",
         "url": "https://open.spotify.com/album/4bOu5bLJpRBNfD0fb5apQf"
@@ -949,7 +989,7 @@
       "url": "https://open.spotify.com/track/21s9uaVLfdKb1xEyiy0MBM"
     },
     {
-      "added_at": "2022-09-19 16:38:56",
+      "added_at": "2022-10-13 07:40:11",
       "album": {
         "name": "La Otra Luna",
         "url": "https://open.spotify.com/album/0ylVLQTDvLsNfyuzHHVKNr"
@@ -965,7 +1005,7 @@
       "url": "https://open.spotify.com/track/4jndfQxJh77wUc3prgMcAn"
     },
     {
-      "added_at": "2022-09-19 16:38:56",
+      "added_at": "2022-10-13 07:40:11",
       "album": {
         "name": "Before",
         "url": "https://open.spotify.com/album/4iOutBo6MtZORPul7QDBJv"
@@ -981,7 +1021,7 @@
       "url": "https://open.spotify.com/track/0J6sIxiH8kg1gIhIX1nihQ"
     },
     {
-      "added_at": "2022-09-19 16:38:56",
+      "added_at": "2022-10-13 07:40:11",
       "album": {
         "name": "Pantheon",
         "url": "https://open.spotify.com/album/1o7gHcSzZJdw1C4GFwsp4j"
@@ -997,7 +1037,7 @@
       "url": "https://open.spotify.com/track/4SqaIY6uaqMXTVm2fKvvWa"
     },
     {
-      "added_at": "2022-09-19 16:38:56",
+      "added_at": "2022-10-13 07:40:11",
       "album": {
         "name": "Won't Forget You (Remixes)",
         "url": "https://open.spotify.com/album/1nxh4FIw055vgnjMrbMryD"
@@ -1017,7 +1057,7 @@
       "url": "https://open.spotify.com/track/2zSgjUuUKVUAV0xoCjCczO"
     },
     {
-      "added_at": "2022-09-19 16:38:56",
+      "added_at": "2022-10-13 07:40:11",
       "album": {
         "name": "Your Voice",
         "url": "https://open.spotify.com/album/13czSpTI2okjVxVQxnTpK2"
@@ -1037,7 +1077,7 @@
       "url": "https://open.spotify.com/track/1PdrKQaDMQNS02ICL8DYe1"
     },
     {
-      "added_at": "2022-09-19 16:38:56",
+      "added_at": "2022-10-13 07:40:11",
       "album": {
         "name": "Madan",
         "url": "https://open.spotify.com/album/3MJa5lVzJNQsB8aH7RkGNn"
@@ -1057,10 +1097,10 @@
       "url": "https://open.spotify.com/track/6WnGITNOKFXawCwqnFuYbW"
     },
     {
-      "added_at": "2022-09-19 16:38:56",
+      "added_at": "2022-10-13 07:40:11",
       "album": {
         "name": "Aguacero",
-        "url": "https://open.spotify.com/album/4hTAp0JOofvwTrfwmWLSVD"
+        "url": "https://open.spotify.com/album/41Vp1IJHY3bHf6YS1Lc6gF"
       },
       "artists": [
         {
@@ -1070,7 +1110,7 @@
       ],
       "duration_ms": 402545,
       "name": "Aguacero",
-      "url": "https://open.spotify.com/track/3WZIbQjUkhGXVjWqPjMNvs"
+      "url": "https://open.spotify.com/track/0KCXPIaGPL1du07EW1MPVU"
     }
   ],
   "unique_name": "Jad Halal track IDs",

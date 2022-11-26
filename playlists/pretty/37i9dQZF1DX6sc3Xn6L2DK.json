@@ -1,12 +1,12 @@
 {
   "description": "Explore the stellar corners of the genre's expansive and marvelous universe.",
-  "num_followers": 27111,
+  "num_followers": 28168,
   "original_name": "Cosmic Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDBlZGRhOWQ0NmFhNDA3MTFhMjE1MjQ3OGUyZDU0ZTVj",
+  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMDM3MzhmZmUzZWJkMTY2MTBlYzk1ZDYzY2Y1ZGNkMDNh",
   "tracks": [
     {
       "added_at": "2021-12-15 16:36:26",
@@ -39,6 +39,22 @@
       "duration_ms": 246133,
       "name": "Slow Burn",
       "url": "https://open.spotify.com/track/6ET9kf9riLETWs9lePUEAI"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "El Bueno Y El Malo",
+        "url": "https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Thunderbird",
+      "url": "https://open.spotify.com/track/36gUdwmMhZXcwOSaUkTPty"
     },
     {
       "added_at": "2021-12-15 16:36:26",
@@ -75,34 +91,18 @@
     {
       "added_at": "2021-12-15 16:36:26",
       "album": {
-        "name": "The Late Great Townes Van Zandt",
-        "url": "https://open.spotify.com/album/2GkG26CJD8opQ9PDfkaEB6"
+        "name": "Western Swing & Waltzes and Other Punchy Songs",
+        "url": "https://open.spotify.com/album/1RbJr45fQ7wvjfT2poSHwI"
       },
       "artists": [
         {
-          "name": "Townes Van Zandt",
-          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
         }
       ],
-      "duration_ms": 220573,
-      "name": "Poncho & Lefty",
-      "url": "https://open.spotify.com/track/6QXtKi4TVe1458QNodE3cs"
-    },
-    {
-      "added_at": "2021-12-15 16:36:26",
-      "album": {
-        "name": "Highway Queen",
-        "url": "https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW"
-      },
-      "artists": [
-        {
-          "name": "Nikki Lane",
-          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
-        }
-      ],
-      "duration_ms": 177573,
-      "name": "Send The Sun",
-      "url": "https://open.spotify.com/track/2IUwZ8LaYyx102qKk3KQdI"
+      "duration_ms": 192626,
+      "name": "Cowpoke",
+      "url": "https://open.spotify.com/track/1FJDhcC36CbA16lMIxgT1F"
     },
     {
       "added_at": "2021-12-15 16:36:26",
@@ -121,36 +121,44 @@
       "url": "https://open.spotify.com/track/4rq928bInvxoDlfWr6nstY"
     },
     {
-      "added_at": "2021-12-15 16:36:26",
+      "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Western Swing & Waltzes and Other Punchy Songs",
-        "url": "https://open.spotify.com/album/1RbJr45fQ7wvjfT2poSHwI"
+        "name": "Foxwarren",
+        "url": "https://open.spotify.com/album/27NP9XgsqFi9sfV9RZaqOa"
       },
       "artists": [
         {
-          "name": "Colter Wall",
-          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+          "name": "Foxwarren",
+          "url": "https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV"
+        },
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        },
+        {
+          "name": "Darryl Kissick",
+          "url": "https://open.spotify.com/artist/1VbP2VbyU1Ht1wtIAMn4Gc"
         }
       ],
-      "duration_ms": 192626,
-      "name": "Cowpoke",
-      "url": "https://open.spotify.com/track/1FJDhcC36CbA16lMIxgT1F"
+      "duration_ms": 260090,
+      "name": "Sunset Canyon",
+      "url": "https://open.spotify.com/track/4YvOkz9IrldHkWiDZremSr"
     },
     {
       "added_at": "2021-12-15 16:36:26",
       "album": {
-        "name": "Room 41",
-        "url": "https://open.spotify.com/album/4ABV7fsu8iN6eAmnQhvd0a"
+        "name": "Highway Queen",
+        "url": "https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW"
       },
       "artists": [
         {
-          "name": "Paul Cauthen",
-          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
+          "name": "Nikki Lane",
+          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
         }
       ],
-      "duration_ms": 239803,
-      "name": "Holy Ghost Fire",
-      "url": "https://open.spotify.com/track/2LjvIdtY6NISb0eIB2wDJb"
+      "duration_ms": 177573,
+      "name": "Send The Sun",
+      "url": "https://open.spotify.com/track/2IUwZ8LaYyx102qKk3KQdI"
     },
     {
       "added_at": "2021-12-15 16:36:26",
@@ -183,6 +191,110 @@
       "duration_ms": 198453,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT"
+    },
+    {
+      "added_at": "2021-12-15 16:36:26",
+      "album": {
+        "name": "Colter Wall & The Scary Prairie Boys",
+        "url": "https://open.spotify.com/album/4seoK3TpuXYrvWOugMWRtw"
+      },
+      "artists": [
+        {
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+        }
+      ],
+      "duration_ms": 323853,
+      "name": "Bob Fudge",
+      "url": "https://open.spotify.com/track/2TT4xzKg0kx6qcZ7kCzlYQ"
+    },
+    {
+      "added_at": "2021-12-15 16:36:26",
+      "album": {
+        "name": "The Late Great Townes Van Zandt",
+        "url": "https://open.spotify.com/album/2GkG26CJD8opQ9PDfkaEB6"
+      },
+      "artists": [
+        {
+          "name": "Townes Van Zandt",
+          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
+        }
+      ],
+      "duration_ms": 220573,
+      "name": "Poncho & Lefty",
+      "url": "https://open.spotify.com/track/6QXtKi4TVe1458QNodE3cs"
+    },
+    {
+      "added_at": "2021-12-15 16:36:26",
+      "album": {
+        "name": "Room 41",
+        "url": "https://open.spotify.com/album/4ABV7fsu8iN6eAmnQhvd0a"
+      },
+      "artists": [
+        {
+          "name": "Paul Cauthen",
+          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
+        }
+      ],
+      "duration_ms": 239803,
+      "name": "Holy Ghost Fire",
+      "url": "https://open.spotify.com/track/2LjvIdtY6NISb0eIB2wDJb"
+    },
+    {
+      "added_at": "2021-12-15 16:36:26",
+      "album": {
+        "name": "Old Time Feeling",
+        "url": "https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT"
+      },
+      "artists": [
+        {
+          "name": "S.G. Goodman",
+          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
+        }
+      ],
+      "duration_ms": 272786,
+      "name": "Space And Time",
+      "url": "https://open.spotify.com/track/4sYhsIGQV2DRzYuTIBSoFN"
+    },
+    {
+      "added_at": "2021-12-15 16:36:26",
+      "album": {
+        "name": "Unchained Melody / You've Lost That Lovin' Feelin'",
+        "url": "https://open.spotify.com/album/2wuSSfY2acuozXaOth22B1"
+      },
+      "artists": [
+        {
+          "name": "The Unrighteous Brothers",
+          "url": "https://open.spotify.com/artist/4Q1IDfpCe7ZRhPDfqeb5dd"
+        },
+        {
+          "name": "Paul Cauthen",
+          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
+        },
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "duration_ms": 235617,
+      "name": "Unchained Melody",
+      "url": "https://open.spotify.com/track/2rhkDqUHN8qheTE1vZf7T9"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Hermosa Drive",
+        "url": "https://open.spotify.com/album/1W9chSfuRIMlDR9h1KLeO7"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "duration_ms": 234040,
+      "name": "Hermosa Drive",
+      "url": "https://open.spotify.com/track/6WysaBBSPIpoVPCbF4Rys4"
     },
     {
       "added_at": "2021-12-15 16:36:26",
@@ -223,38 +335,6 @@
     {
       "added_at": "2021-12-15 16:36:26",
       "album": {
-        "name": "Old Time Feeling",
-        "url": "https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT"
-      },
-      "artists": [
-        {
-          "name": "S.G. Goodman",
-          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
-        }
-      ],
-      "duration_ms": 272786,
-      "name": "Space And Time",
-      "url": "https://open.spotify.com/track/4sYhsIGQV2DRzYuTIBSoFN"
-    },
-    {
-      "added_at": "2021-12-15 16:36:26",
-      "album": {
-        "name": "Colter Wall & The Scary Prairie Boys",
-        "url": "https://open.spotify.com/album/4seoK3TpuXYrvWOugMWRtw"
-      },
-      "artists": [
-        {
-          "name": "Colter Wall",
-          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
-        }
-      ],
-      "duration_ms": 323853,
-      "name": "Bob Fudge",
-      "url": "https://open.spotify.com/track/2TT4xzKg0kx6qcZ7kCzlYQ"
-    },
-    {
-      "added_at": "2021-12-15 16:36:26",
-      "album": {
         "name": "Luke Bell",
         "url": "https://open.spotify.com/album/5gtzbumKYEG1Uz4BvB8hbj"
       },
@@ -271,46 +351,6 @@
     {
       "added_at": "2021-12-15 16:36:26",
       "album": {
-        "name": "Unchained Melody / You've Lost That Lovin' Feelin'",
-        "url": "https://open.spotify.com/album/2wuSSfY2acuozXaOth22B1"
-      },
-      "artists": [
-        {
-          "name": "The Unrighteous Brothers",
-          "url": "https://open.spotify.com/artist/4Q1IDfpCe7ZRhPDfqeb5dd"
-        },
-        {
-          "name": "Paul Cauthen",
-          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
-        },
-        {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
-        }
-      ],
-      "duration_ms": 235617,
-      "name": "Unchained Melody",
-      "url": "https://open.spotify.com/track/2rhkDqUHN8qheTE1vZf7T9"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Los Chicos Tristes",
-        "url": "https://open.spotify.com/album/6upoRZFXdq7bMsdDcqQ1Oa"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
-        }
-      ],
-      "duration_ms": 229400,
-      "name": "Los Chicos Tristes",
-      "url": "https://open.spotify.com/track/6X0Q2zxM4kiNDk1CY2vkZJ"
-    },
-    {
-      "added_at": "2021-12-15 16:36:26",
-      "album": {
         "name": "Trace (Remastered)",
         "url": "https://open.spotify.com/album/1SV1Fh8rLes7MeTYTXznKd"
       },
@@ -323,22 +363,6 @@
       "duration_ms": 179520,
       "name": "Windfall - 2015 Remaster",
       "url": "https://open.spotify.com/track/52iyhfd6jgU2wYB8QIYs6t"
-    },
-    {
-      "added_at": "2021-12-15 16:36:26",
-      "album": {
-        "name": "Okay, Crawdad.",
-        "url": "https://open.spotify.com/album/5YCvJeJXIaoGDXxRWMSrL9"
-      },
-      "artists": [
-        {
-          "name": "Nick Shoulders",
-          "url": "https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS"
-        }
-      ],
-      "duration_ms": 180033,
-      "name": "Rather Low",
-      "url": "https://open.spotify.com/track/2KL27kJnwxkC3AnZWTVyvq"
     },
     {
       "added_at": "2021-12-15 16:36:26",
@@ -407,22 +431,6 @@
     {
       "added_at": "2021-12-15 16:36:26",
       "album": {
-        "name": "GP",
-        "url": "https://open.spotify.com/album/1PtpuplCBaViRQsJFAdWRf"
-      },
-      "artists": [
-        {
-          "name": "Gram Parsons",
-          "url": "https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd"
-        }
-      ],
-      "duration_ms": 301266,
-      "name": "She - 2002 Remaster",
-      "url": "https://open.spotify.com/track/7DK9shWJm361lm1ks32axt"
-    },
-    {
-      "added_at": "2021-12-15 16:36:26",
-      "album": {
         "name": "All Your'n",
         "url": "https://open.spotify.com/album/3GnTjxsOBLdqm6A5yXTcaL"
       },
@@ -435,6 +443,54 @@
       "duration_ms": 218280,
       "name": "All Your'n",
       "url": "https://open.spotify.com/track/3AK75yY57gkBbSPOqzn6GW"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Los Chicos Tristes",
+        "url": "https://open.spotify.com/album/6upoRZFXdq7bMsdDcqQ1Oa"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "duration_ms": 229400,
+      "name": "Los Chicos Tristes",
+      "url": "https://open.spotify.com/track/6X0Q2zxM4kiNDk1CY2vkZJ"
+    },
+    {
+      "added_at": "2021-12-15 16:36:26",
+      "album": {
+        "name": "Okay, Crawdad",
+        "url": "https://open.spotify.com/album/1H2cJ2DDfG9WnCkEQoS1oH"
+      },
+      "artists": [
+        {
+          "name": "Nick Shoulders",
+          "url": "https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS"
+        }
+      ],
+      "duration_ms": 180033,
+      "name": "Rather Low",
+      "url": "https://open.spotify.com/track/4wgJslCrAghGakRdVwyiBr"
+    },
+    {
+      "added_at": "2021-12-15 16:36:26",
+      "album": {
+        "name": "GP",
+        "url": "https://open.spotify.com/album/1PtpuplCBaViRQsJFAdWRf"
+      },
+      "artists": [
+        {
+          "name": "Gram Parsons",
+          "url": "https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd"
+        }
+      ],
+      "duration_ms": 301266,
+      "name": "She - 2002 Remaster",
+      "url": "https://open.spotify.com/track/7DK9shWJm361lm1ks32axt"
     },
     {
       "added_at": "2021-12-15 16:36:26",
@@ -471,22 +527,6 @@
     {
       "added_at": "2021-12-15 16:36:26",
       "album": {
-        "name": "No Glory in the West",
-        "url": "https://open.spotify.com/album/24omX21r87XGrfXHSuwEjL"
-      },
-      "artists": [
-        {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
-        }
-      ],
-      "duration_ms": 253586,
-      "name": "No Glory in the West",
-      "url": "https://open.spotify.com/track/3M3A038dDopQcvGrrngcDE"
-    },
-    {
-      "added_at": "2021-12-15 16:36:26",
-      "album": {
         "name": "The Gilded Palace Of Sin",
         "url": "https://open.spotify.com/album/6VWKy5o2OcdeWa7yolazjU"
       },
@@ -499,54 +539,6 @@
       "duration_ms": 217333,
       "name": "Hot Burrito #1",
       "url": "https://open.spotify.com/track/0fRAGPWGKsntkIB2uZ9zkd"
-    },
-    {
-      "added_at": "2021-12-15 16:36:26",
-      "album": {
-        "name": "Safe at Home",
-        "url": "https://open.spotify.com/album/3FNy8Kp7h2WoUngSfCNpMM"
-      },
-      "artists": [
-        {
-          "name": "The International Submarine Band",
-          "url": "https://open.spotify.com/artist/6i8kpDUSsrOOhPHfNYhMeF"
-        }
-      ],
-      "duration_ms": 169133,
-      "name": "Miller's Cave",
-      "url": "https://open.spotify.com/track/2Zq979VWE5SG5WIcd396Ay"
-    },
-    {
-      "added_at": "2021-12-15 16:36:26",
-      "album": {
-        "name": "Singing for My Supper",
-        "url": "https://open.spotify.com/album/777Mw0hAnTtnE7YiVtJvBw"
-      },
-      "artists": [
-        {
-          "name": "Early James",
-          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
-        }
-      ],
-      "duration_ms": 187725,
-      "name": "Blue Pill Blues",
-      "url": "https://open.spotify.com/track/6mFWXPietqhGexi0hkNH1B"
-    },
-    {
-      "added_at": "2021-12-15 16:36:26",
-      "album": {
-        "name": "U Do U",
-        "url": "https://open.spotify.com/album/0GxM59RMcTXOsvp0otXaq0"
-      },
-      "artists": [
-        {
-          "name": "The Kernal",
-          "url": "https://open.spotify.com/artist/1hiClSI3M2zxypaLJfNYCu"
-        }
-      ],
-      "duration_ms": 234224,
-      "name": "U Do U",
-      "url": "https://open.spotify.com/track/6V1PghqHfdiog7XTmVgaCa"
     },
     {
       "added_at": "2021-12-15 16:36:26",
@@ -567,6 +559,38 @@
     {
       "added_at": "2021-12-15 16:36:26",
       "album": {
+        "name": "No Glory in the West",
+        "url": "https://open.spotify.com/album/24omX21r87XGrfXHSuwEjL"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "duration_ms": 253586,
+      "name": "No Glory in the West",
+      "url": "https://open.spotify.com/track/3M3A038dDopQcvGrrngcDE"
+    },
+    {
+      "added_at": "2021-12-15 16:36:26",
+      "album": {
+        "name": "Singing for My Supper",
+        "url": "https://open.spotify.com/album/777Mw0hAnTtnE7YiVtJvBw"
+      },
+      "artists": [
+        {
+          "name": "Early James",
+          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
+        }
+      ],
+      "duration_ms": 187725,
+      "name": "Blue Pill Blues",
+      "url": "https://open.spotify.com/track/6mFWXPietqhGexi0hkNH1B"
+    },
+    {
+      "added_at": "2021-12-15 16:36:26",
+      "album": {
         "name": "Walk Through Fire (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
       },
@@ -579,38 +603,6 @@
       "duration_ms": 195376,
       "name": "Ride Out In The Country",
       "url": "https://open.spotify.com/track/4FCIOhpTSqt1hjYDdLFScX"
-    },
-    {
-      "added_at": "2021-12-15 16:36:26",
-      "album": {
-        "name": "Jealous Guy",
-        "url": "https://open.spotify.com/album/5OMFZV2INE430tcKKBaKbZ"
-      },
-      "artists": [
-        {
-          "name": "Luke Bell",
-          "url": "https://open.spotify.com/artist/4D3lmUAeXE2SMsOKd2B8XQ"
-        }
-      ],
-      "duration_ms": 230702,
-      "name": "Jealous Guy",
-      "url": "https://open.spotify.com/track/1H0UI5yQg9hlue3ZIjb7fs"
-    },
-    {
-      "added_at": "2021-12-15 16:36:26",
-      "album": {
-        "name": "Home on the Rage",
-        "url": "https://open.spotify.com/album/4O4dpDZFNMWRSaJaUZcDTm"
-      },
-      "artists": [
-        {
-          "name": "Nick Shoulders",
-          "url": "https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS"
-        }
-      ],
-      "duration_ms": 262151,
-      "name": "Turn on the Dark",
-      "url": "https://open.spotify.com/track/5HV810LjKwzNg61eHL0RzH"
     },
     {
       "added_at": "2021-12-15 16:36:26",
@@ -631,34 +623,34 @@
     {
       "added_at": "2021-12-15 16:36:26",
       "album": {
-        "name": "Long Game",
-        "url": "https://open.spotify.com/album/0FbB9CA6nnPmFmz1Ka0zQy"
+        "name": "U Do U",
+        "url": "https://open.spotify.com/album/0GxM59RMcTXOsvp0otXaq0"
       },
       "artists": [
         {
-          "name": "Emily Nenni",
-          "url": "https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy"
+          "name": "The Kernal",
+          "url": "https://open.spotify.com/artist/1hiClSI3M2zxypaLJfNYCu"
         }
       ],
-      "duration_ms": 180016,
-      "name": "Long Game",
-      "url": "https://open.spotify.com/track/0fE8J2qGiRxq2ybixfBygG"
+      "duration_ms": 234224,
+      "name": "U Do U",
+      "url": "https://open.spotify.com/track/6V1PghqHfdiog7XTmVgaCa"
     },
     {
-      "added_at": "2021-12-15 16:36:26",
+      "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Southern Gentleman",
-        "url": "https://open.spotify.com/album/6ZRbVOgb2dPQRDCnXNerZp"
+        "name": "Apocalypse",
+        "url": "https://open.spotify.com/album/13VVtuvboNAaPFcKsQsjLP"
       },
       "artists": [
         {
-          "name": "Dee White",
-          "url": "https://open.spotify.com/artist/44NXXiPYo5zuLYTyMKJBNU"
+          "name": "Bill Callahan",
+          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
         }
       ],
-      "duration_ms": 200986,
-      "name": "Wherever You Go",
-      "url": "https://open.spotify.com/track/0blkm16pwu9wnnNLoHb3nM"
+      "duration_ms": 365746,
+      "name": "Riding For The Feeling",
+      "url": "https://open.spotify.com/track/6qo9HElLHUptcwpVprsS4C"
     },
     {
       "added_at": "2021-12-15 16:36:26",
@@ -695,18 +687,18 @@
     {
       "added_at": "2021-12-15 16:36:26",
       "album": {
-        "name": "U.F.O.",
-        "url": "https://open.spotify.com/album/6zaVaNAjvlN583TtOJIpZu"
+        "name": "Long Game",
+        "url": "https://open.spotify.com/album/0FbB9CA6nnPmFmz1Ka0zQy"
       },
       "artists": [
         {
-          "name": "Jim Sullivan",
-          "url": "https://open.spotify.com/artist/4U4dyH3tMYOQMZYTjsXmeJ"
+          "name": "Emily Nenni",
+          "url": "https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy"
         }
       ],
-      "duration_ms": 171053,
-      "name": "Highways",
-      "url": "https://open.spotify.com/track/0lv8vzoworXjrezBYz912U"
+      "duration_ms": 180016,
+      "name": "Long Game",
+      "url": "https://open.spotify.com/track/0fE8J2qGiRxq2ybixfBygG"
     },
     {
       "added_at": "2021-12-15 16:36:26",
@@ -727,70 +719,18 @@
     {
       "added_at": "2021-12-15 16:36:26",
       "album": {
-        "name": "Talking Dogs & Atom Bombs",
-        "url": "https://open.spotify.com/album/3UTuOx53762H0mBIfB49Ma"
+        "name": "Safe at Home",
+        "url": "https://open.spotify.com/album/3FNy8Kp7h2WoUngSfCNpMM"
       },
       "artists": [
         {
-          "name": "Darrin Bradbury",
-          "url": "https://open.spotify.com/artist/7azO8ieqy1sOm6LkfHtH9w"
+          "name": "The International Submarine Band",
+          "url": "https://open.spotify.com/artist/6i8kpDUSsrOOhPHfNYhMeF"
         }
       ],
-      "duration_ms": 186773,
-      "name": "Breakfast",
-      "url": "https://open.spotify.com/track/4FDGp2BcZSmT9dZucG4ksY"
-    },
-    {
-      "added_at": "2021-12-15 16:36:26",
-      "album": {
-        "name": "Sweet Tasting Tennessee",
-        "url": "https://open.spotify.com/album/2skp8HNem0u215ksPeKI0W"
-      },
-      "artists": [
-        {
-          "name": "Daniel Donato",
-          "url": "https://open.spotify.com/artist/0BPT9SFoQzi6Pfk387jLE8"
-        }
-      ],
-      "duration_ms": 239325,
-      "name": "Sweet Tasting Tennessee",
-      "url": "https://open.spotify.com/track/3uSD4eEDSHiNaQrWrKiHKm"
-    },
-    {
-      "added_at": "2021-12-15 16:36:26",
-      "album": {
-        "name": "Toshiba Sky",
-        "url": "https://open.spotify.com/album/54g5o5xaRVed25fqwz7QEO"
-      },
-      "artists": [
-        {
-          "name": "Dougie Poole",
-          "url": "https://open.spotify.com/artist/2GubanPI94YiSAy9uVC51y"
-        }
-      ],
-      "duration_ms": 196765,
-      "name": "Toshiba Sky",
-      "url": "https://open.spotify.com/track/0BAmbyXYoRTP0Pf9SkPUjr"
-    },
-    {
-      "added_at": "2021-12-15 16:36:26",
-      "album": {
-        "name": "Sam Amidon",
-        "url": "https://open.spotify.com/album/1Jk12pD1RaSl1SM9Ig5X8m"
-      },
-      "artists": [
-        {
-          "name": "Sam Amidon",
-          "url": "https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4"
-        },
-        {
-          "name": "Beth Orton",
-          "url": "https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC"
-        }
-      ],
-      "duration_ms": 213080,
-      "name": "Sundown (feat. Beth Orton)",
-      "url": "https://open.spotify.com/track/0HVVifb5UsoyovICBXwNOf"
+      "duration_ms": 169133,
+      "name": "Miller's Cave",
+      "url": "https://open.spotify.com/track/2Zq979VWE5SG5WIcd396Ay"
     },
     {
       "added_at": "2021-12-15 16:36:26",
@@ -815,6 +755,90 @@
     {
       "added_at": "2021-12-15 16:36:26",
       "album": {
+        "name": "U.F.O.",
+        "url": "https://open.spotify.com/album/6zaVaNAjvlN583TtOJIpZu"
+      },
+      "artists": [
+        {
+          "name": "Jim Sullivan",
+          "url": "https://open.spotify.com/artist/4U4dyH3tMYOQMZYTjsXmeJ"
+        }
+      ],
+      "duration_ms": 171053,
+      "name": "Highways",
+      "url": "https://open.spotify.com/track/0lv8vzoworXjrezBYz912U"
+    },
+    {
+      "added_at": "2021-12-15 16:36:26",
+      "album": {
+        "name": "Sam Amidon",
+        "url": "https://open.spotify.com/album/1Jk12pD1RaSl1SM9Ig5X8m"
+      },
+      "artists": [
+        {
+          "name": "Sam Amidon",
+          "url": "https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4"
+        },
+        {
+          "name": "Beth Orton",
+          "url": "https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC"
+        }
+      ],
+      "duration_ms": 213080,
+      "name": "Sundown (feat. Beth Orton)",
+      "url": "https://open.spotify.com/track/0HVVifb5UsoyovICBXwNOf"
+    },
+    {
+      "added_at": "2021-12-15 16:36:26",
+      "album": {
+        "name": "Jealous Guy",
+        "url": "https://open.spotify.com/album/5OMFZV2INE430tcKKBaKbZ"
+      },
+      "artists": [
+        {
+          "name": "Luke Bell",
+          "url": "https://open.spotify.com/artist/4D3lmUAeXE2SMsOKd2B8XQ"
+        }
+      ],
+      "duration_ms": 230702,
+      "name": "Jealous Guy",
+      "url": "https://open.spotify.com/track/1H0UI5yQg9hlue3ZIjb7fs"
+    },
+    {
+      "added_at": "2021-12-15 16:36:26",
+      "album": {
+        "name": "Southern Gentleman",
+        "url": "https://open.spotify.com/album/6ZRbVOgb2dPQRDCnXNerZp"
+      },
+      "artists": [
+        {
+          "name": "Dee White",
+          "url": "https://open.spotify.com/artist/44NXXiPYo5zuLYTyMKJBNU"
+        }
+      ],
+      "duration_ms": 200986,
+      "name": "Wherever You Go",
+      "url": "https://open.spotify.com/track/0blkm16pwu9wnnNLoHb3nM"
+    },
+    {
+      "added_at": "2021-12-15 16:36:26",
+      "album": {
+        "name": "Toshiba Sky",
+        "url": "https://open.spotify.com/album/54g5o5xaRVed25fqwz7QEO"
+      },
+      "artists": [
+        {
+          "name": "Dougie Poole",
+          "url": "https://open.spotify.com/artist/2GubanPI94YiSAy9uVC51y"
+        }
+      ],
+      "duration_ms": 196765,
+      "name": "Toshiba Sky",
+      "url": "https://open.spotify.com/track/0BAmbyXYoRTP0Pf9SkPUjr"
+    },
+    {
+      "added_at": "2021-12-15 16:36:26",
+      "album": {
         "name": "Patty Griffin",
         "url": "https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0"
       },
@@ -831,34 +855,34 @@
     {
       "added_at": "2021-12-15 16:36:26",
       "album": {
-        "name": "Bruised Orange",
-        "url": "https://open.spotify.com/album/1fW0Oyx3p2kVzo2INfW7Lb"
+        "name": "Home on the Rage",
+        "url": "https://open.spotify.com/album/0nRvOoAUtr6aoJscKOlXQS"
       },
       "artists": [
         {
-          "name": "John Prine",
-          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+          "name": "Nick Shoulders",
+          "url": "https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS"
         }
       ],
-      "duration_ms": 140506,
-      "name": "Aw Heck",
-      "url": "https://open.spotify.com/track/6AmZ17zWgqFkjD50TnzTvM"
+      "duration_ms": 262151,
+      "name": "Turn on the Dark",
+      "url": "https://open.spotify.com/track/6Dig9Jq9kH9TGw6zf3w2xG"
     },
     {
       "added_at": "2021-12-15 16:36:26",
       "album": {
-        "name": "Modern Country",
-        "url": "https://open.spotify.com/album/64esKG7wBOEr573Zp77cUT"
+        "name": "Sweet Tasting Tennessee",
+        "url": "https://open.spotify.com/album/2skp8HNem0u215ksPeKI0W"
       },
       "artists": [
         {
-          "name": "William Tyler",
-          "url": "https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py"
+          "name": "Daniel Donato",
+          "url": "https://open.spotify.com/artist/0BPT9SFoQzi6Pfk387jLE8"
         }
       ],
-      "duration_ms": 325271,
-      "name": "I\u2019m Gonna Live Forever (If It Kills Me)",
-      "url": "https://open.spotify.com/track/2aAsLnLdMdHnMi7JvF5NeK"
+      "duration_ms": 239325,
+      "name": "Sweet Tasting Tennessee",
+      "url": "https://open.spotify.com/track/3uSD4eEDSHiNaQrWrKiHKm"
     },
     {
       "added_at": "2021-12-15 16:36:26",
@@ -879,34 +903,18 @@
     {
       "added_at": "2021-12-15 16:36:26",
       "album": {
-        "name": "Jeremiah / Why\u2019d Ya Do It",
-        "url": "https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ"
+        "name": "Modern Country",
+        "url": "https://open.spotify.com/album/64esKG7wBOEr573Zp77cUT"
       },
       "artists": [
         {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+          "name": "William Tyler",
+          "url": "https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py"
         }
       ],
-      "duration_ms": 217260,
-      "name": "Why\u2019d Ya Do It",
-      "url": "https://open.spotify.com/track/0PWl6yqk7yuEooaJvrpFsY"
-    },
-    {
-      "added_at": "2021-12-15 16:36:26",
-      "album": {
-        "name": "Mendocino (feat. Duane Eddy)",
-        "url": "https://open.spotify.com/album/5QN1GDtbO2Mp3G358g84HX"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Fetzer",
-          "url": "https://open.spotify.com/artist/5Lp7RZsXfgf2qjIqCqnQ4r"
-        }
-      ],
-      "duration_ms": 238600,
-      "name": "Mendocino (feat. Duane Eddy)",
-      "url": "https://open.spotify.com/track/5gAt45dCnLedFHWRzHqi3X"
+      "duration_ms": 325271,
+      "name": "I\u2019m Gonna Live Forever (If It Kills Me)",
+      "url": "https://open.spotify.com/track/2aAsLnLdMdHnMi7JvF5NeK"
     },
     {
       "added_at": "2021-12-15 16:36:26",
@@ -927,18 +935,34 @@
     {
       "added_at": "2021-12-15 16:36:26",
       "album": {
-        "name": "That's How Rumors Get Started",
-        "url": "https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL"
+        "name": "Bruised Orange",
+        "url": "https://open.spotify.com/album/1fW0Oyx3p2kVzo2INfW7Lb"
       },
       "artists": [
         {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
         }
       ],
-      "duration_ms": 189093,
-      "name": "Stone Me",
-      "url": "https://open.spotify.com/track/41G13b0SToDtz6rIENwswT"
+      "duration_ms": 140506,
+      "name": "Aw Heck",
+      "url": "https://open.spotify.com/track/6AmZ17zWgqFkjD50TnzTvM"
+    },
+    {
+      "added_at": "2021-12-15 16:36:26",
+      "album": {
+        "name": "Jeremiah / Why\u2019d Ya Do It",
+        "url": "https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 217260,
+      "name": "Why\u2019d Ya Do It",
+      "url": "https://open.spotify.com/track/0PWl6yqk7yuEooaJvrpFsY"
     },
     {
       "added_at": "2021-12-15 16:36:26",
@@ -959,6 +983,22 @@
     {
       "added_at": "2021-12-15 16:36:26",
       "album": {
+        "name": "That's How Rumors Get Started",
+        "url": "https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL"
+      },
+      "artists": [
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "duration_ms": 189093,
+      "name": "Stone Me",
+      "url": "https://open.spotify.com/track/41G13b0SToDtz6rIENwswT"
+    },
+    {
+      "added_at": "2021-12-15 16:36:26",
+      "album": {
         "name": "Cocaine Country Dancing",
         "url": "https://open.spotify.com/album/2Pex98kXgvEKVRROOTONZL"
       },
@@ -975,34 +1015,34 @@
     {
       "added_at": "2021-12-15 16:36:26",
       "album": {
-        "name": "Love Can Find You Anywhere",
-        "url": "https://open.spotify.com/album/2nDKXMbt6lOU460Yi30M24"
+        "name": "Mendocino (feat. Duane Eddy)",
+        "url": "https://open.spotify.com/album/5QN1GDtbO2Mp3G358g84HX"
       },
       "artists": [
         {
-          "name": "Jonathan Terrell",
-          "url": "https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3"
+          "name": "Jeremy Fetzer",
+          "url": "https://open.spotify.com/artist/5Lp7RZsXfgf2qjIqCqnQ4r"
         }
       ],
-      "duration_ms": 219182,
-      "name": "Love Can Find You Anywhere",
-      "url": "https://open.spotify.com/track/7fxxqxe5EAp0dQ674C6g2b"
+      "duration_ms": 238600,
+      "name": "Mendocino (feat. Duane Eddy)",
+      "url": "https://open.spotify.com/track/5gAt45dCnLedFHWRzHqi3X"
     },
     {
-      "added_at": "2021-12-15 16:36:26",
+      "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Are You Listening?",
-        "url": "https://open.spotify.com/album/5ampvyxkZxEpNRy9dE322O"
+        "name": "Speed, Sound, Lonely KV (ep)",
+        "url": "https://open.spotify.com/album/74liwAdWZN6PljZ7COrEe6"
       },
       "artists": [
         {
-          "name": "Lera Lynn",
-          "url": "https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7"
+          "name": "Kurt Vile",
+          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
         }
       ],
-      "duration_ms": 198120,
-      "name": "Are You Listening?",
-      "url": "https://open.spotify.com/track/3ulWqq1RCWMHQlX2hrAPa7"
+      "duration_ms": 394528,
+      "name": "Dandelions",
+      "url": "https://open.spotify.com/track/15ABFJbl41BsIKFWGKfmZ7"
     },
     {
       "added_at": "2021-12-15 16:36:26",
@@ -1023,18 +1063,50 @@
     {
       "added_at": "2021-12-15 16:36:26",
       "album": {
-        "name": "How Many Times",
-        "url": "https://open.spotify.com/album/2bYiApCo4Y1wJgngiKcwmy"
+        "name": "Talking Dogs & Atom Bombs",
+        "url": "https://open.spotify.com/album/3UTuOx53762H0mBIfB49Ma"
       },
       "artists": [
         {
-          "name": "Esther Rose",
-          "url": "https://open.spotify.com/artist/2oHUiSQkf9M1TELQvNJJPs"
+          "name": "Darrin Bradbury",
+          "url": "https://open.spotify.com/artist/7azO8ieqy1sOm6LkfHtH9w"
         }
       ],
-      "duration_ms": 237586,
-      "name": "Keeps Me Running",
-      "url": "https://open.spotify.com/track/5QAcy8RQZQl0qzn7V1KavG"
+      "duration_ms": 186773,
+      "name": "Breakfast",
+      "url": "https://open.spotify.com/track/4FDGp2BcZSmT9dZucG4ksY"
+    },
+    {
+      "added_at": "2021-12-15 16:36:26",
+      "album": {
+        "name": "Are You Listening?",
+        "url": "https://open.spotify.com/album/5ampvyxkZxEpNRy9dE322O"
+      },
+      "artists": [
+        {
+          "name": "Lera Lynn",
+          "url": "https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7"
+        }
+      ],
+      "duration_ms": 198120,
+      "name": "Are You Listening?",
+      "url": "https://open.spotify.com/track/3ulWqq1RCWMHQlX2hrAPa7"
+    },
+    {
+      "added_at": "2021-12-15 16:36:26",
+      "album": {
+        "name": "Love Can Find You Anywhere",
+        "url": "https://open.spotify.com/album/2nDKXMbt6lOU460Yi30M24"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Terrell",
+          "url": "https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3"
+        }
+      ],
+      "duration_ms": 219182,
+      "name": "Love Can Find You Anywhere",
+      "url": "https://open.spotify.com/track/7fxxqxe5EAp0dQ674C6g2b"
     },
     {
       "added_at": "2021-12-15 16:36:26",
@@ -1055,18 +1127,18 @@
     {
       "added_at": "2021-12-15 16:36:26",
       "album": {
-        "name": "The Unseen In Between",
-        "url": "https://open.spotify.com/album/349hcptM7Y0HRpgrsSY570"
+        "name": "How Many Times",
+        "url": "https://open.spotify.com/album/2bYiApCo4Y1wJgngiKcwmy"
       },
       "artists": [
         {
-          "name": "Steve Gunn",
-          "url": "https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO"
+          "name": "Esther Rose",
+          "url": "https://open.spotify.com/artist/2oHUiSQkf9M1TELQvNJJPs"
         }
       ],
-      "duration_ms": 301960,
-      "name": "Vagabond",
-      "url": "https://open.spotify.com/track/4MxHAB3fHQ8oI2jRXSLQ9p"
+      "duration_ms": 237586,
+      "name": "Keeps Me Running",
+      "url": "https://open.spotify.com/track/5QAcy8RQZQl0qzn7V1KavG"
     },
     {
       "added_at": "2021-12-15 16:36:26",
@@ -1091,18 +1163,18 @@
     {
       "added_at": "2021-12-15 16:36:26",
       "album": {
-        "name": "Halcyon Days",
-        "url": "https://open.spotify.com/album/2hlMvvoBnaXybXY2qxxx8k"
+        "name": "The Unseen In Between",
+        "url": "https://open.spotify.com/album/349hcptM7Y0HRpgrsSY570"
       },
       "artists": [
         {
-          "name": "Kip Nelson",
-          "url": "https://open.spotify.com/artist/5k62M5NJX9w9TbHpUKiRTs"
+          "name": "Steve Gunn",
+          "url": "https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO"
         }
       ],
-      "duration_ms": 188677,
-      "name": "Halcyon Days",
-      "url": "https://open.spotify.com/track/7sFg1mQSgQMicsQtDNvjhD"
+      "duration_ms": 301960,
+      "name": "Vagabond",
+      "url": "https://open.spotify.com/track/4MxHAB3fHQ8oI2jRXSLQ9p"
     },
     {
       "added_at": "2021-12-15 16:36:26",
@@ -1127,22 +1199,6 @@
     {
       "added_at": "2021-12-15 16:36:26",
       "album": {
-        "name": "Wayfaring Strangers: Cosmic American Music",
-        "url": "https://open.spotify.com/album/6S9BF1Z9jl2TOCfbqVxqMB"
-      },
-      "artists": [
-        {
-          "name": "The Black Canyon Gang",
-          "url": "https://open.spotify.com/artist/4Qk3TBIbLIydpukG1TerQe"
-        }
-      ],
-      "duration_ms": 214813,
-      "name": "Lonesome City",
-      "url": "https://open.spotify.com/track/50tqBoFCN9uSV0YiqJHAUy"
-    },
-    {
-      "added_at": "2021-12-15 16:36:26",
-      "album": {
         "name": "Sam Doores",
         "url": "https://open.spotify.com/album/1SrA1hRiA8P3eKcsE5daLt"
       },
@@ -1159,18 +1215,18 @@
     {
       "added_at": "2021-12-15 16:36:26",
       "album": {
-        "name": "Neon Cross",
-        "url": "https://open.spotify.com/album/0pu04ysVICo31Ql70WGyBJ"
+        "name": "Wayfaring Strangers: Cosmic American Music",
+        "url": "https://open.spotify.com/album/6S9BF1Z9jl2TOCfbqVxqMB"
       },
       "artists": [
         {
-          "name": "Jaime Wyatt",
-          "url": "https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U"
+          "name": "The Black Canyon Gang",
+          "url": "https://open.spotify.com/artist/4Qk3TBIbLIydpukG1TerQe"
         }
       ],
-      "duration_ms": 264181,
-      "name": "Neon Cross",
-      "url": "https://open.spotify.com/track/6YKK4DWdFbBqOdUCoAgd8I"
+      "duration_ms": 214813,
+      "name": "Lonesome City",
+      "url": "https://open.spotify.com/track/50tqBoFCN9uSV0YiqJHAUy"
     },
     {
       "added_at": "2021-12-15 16:36:26",
@@ -1187,62 +1243,6 @@
       "duration_ms": 225461,
       "name": "Happy Birthday, Baby",
       "url": "https://open.spotify.com/track/34VFKmBbDY1iKejeoJZHlK"
-    },
-    {
-      "added_at": "2021-12-15 16:36:26",
-      "album": {
-        "name": "Charlie Marie",
-        "url": "https://open.spotify.com/album/1Z0wb6vPJo4TlSQs3YU9sp"
-      },
-      "artists": [
-        {
-          "name": "Charlie Marie",
-          "url": "https://open.spotify.com/artist/406fNzpPwYacXCIIExPSuj"
-        }
-      ],
-      "duration_ms": 221440,
-      "name": "Rodeo",
-      "url": "https://open.spotify.com/track/6q6czsVwoeC3mm0oJUwsgd"
-    },
-    {
-      "added_at": "2021-12-15 16:36:26",
-      "album": {
-        "name": "Isn\u2019t It",
-        "url": "https://open.spotify.com/album/1vRciHqPyPkre5uJHbCeDC"
-      },
-      "artists": [
-        {
-          "name": "Kacy & Clayton",
-          "url": "https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p"
-        },
-        {
-          "name": "Marlon Williams",
-          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
-        }
-      ],
-      "duration_ms": 124760,
-      "name": "Isn\u2019t It",
-      "url": "https://open.spotify.com/track/7jGJXnajUOnQrBO3QN7Cst"
-    },
-    {
-      "added_at": "2021-12-15 16:36:26",
-      "album": {
-        "name": "Strange Fascination",
-        "url": "https://open.spotify.com/album/5PnMwyxLM380aAXjAWn5gQ"
-      },
-      "artists": [
-        {
-          "name": "Chatham County Line",
-          "url": "https://open.spotify.com/artist/3M2LPcqyD4PxbOFvtF05R7"
-        },
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 258930,
-      "name": "Strange Fascination",
-      "url": "https://open.spotify.com/track/1RQcETFoOBuy8oPHXE8dq7"
     }
   ],
   "unique_name": "Cosmic Country",

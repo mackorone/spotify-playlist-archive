@@ -1,12 +1,12 @@
 {
   "description": "Soak up the atmosphere of a Greek taverna on a warm summer\u2019s evening.",
-  "num_followers": 87193,
+  "num_followers": 91761,
   "original_name": "Greek Taverna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTg2Njg2NCwwMDAwMDAwMDVkZjcxNzRjNDAyMDNlY2FkMjNjMmQxMWY5MWM5ZjY5",
+  "snapshot_id": "MTY2MTg2Njg2NCwwMDAwMDAwMGY4NTMzZjY2NGNmODgzNjA0ZjhmYjUxMTllZDFjMTU4",
   "tracks": [
     {
       "added_at": "2022-08-30 13:41:03",
@@ -366,10 +366,14 @@
         {
           "name": "Mimis Plessas",
           "url": "https://open.spotify.com/artist/7emTBOtoCY4wkakcYrJ21I"
+        },
+        {
+          "name": "Bouzouki Kings",
+          "url": "https://open.spotify.com/artist/4iVvG04w9XBch3kxXWMuxb"
         }
       ],
       "duration_ms": 154066,
-      "name": "I Hantres - The Beads",
+      "name": "Oi Handres (Oi Thalassies Sou Oi Handres) - Instrumental",
       "url": "https://open.spotify.com/track/1jqaiJk82MfUgTty69C3UB"
     },
     {
@@ -876,32 +880,32 @@
       "added_at": "2022-08-30 13:41:03",
       "album": {
         "name": "Best of Greece",
-        "url": "https://open.spotify.com/album/6DCGq0wZvYC5k8sWrh7ygt"
+        "url": "https://open.spotify.com/album/2KhTfhDEXMSrlW82zMvBs9"
       },
       "artists": [
         {
-          "name": "Kriteos",
-          "url": "https://open.spotify.com/artist/6P6v3M7CcDBuQAyGObFi3I"
-        },
-        {
           "name": "Romiosini",
           "url": "https://open.spotify.com/artist/1ZJgXjX7XCii5ULJPguZ9T"
+        },
+        {
+          "name": "Kriteos",
+          "url": "https://open.spotify.com/artist/6P6v3M7CcDBuQAyGObFi3I"
         }
       ],
       "duration_ms": 211493,
-      "name": "Namoun Asteri",
-      "url": "https://open.spotify.com/track/5wd7OaorCJjJyVfJWYrLPk"
+      "name": "Namoun asteri",
+      "url": "https://open.spotify.com/track/6HFAGySWieimzRnev0ZwUB"
     },
     {
       "added_at": "2022-08-30 13:41:03",
       "album": {
-        "name": "Greek Composers - Yiorgos Zambetas",
+        "name": "Greek Composers: Giorgos Zambetas",
         "url": "https://open.spotify.com/album/0DUMvG546UMaJ1KPU9EVZh"
       },
       "artists": [
         {
-          "name": "Yiorgos Zambetas",
-          "url": "https://open.spotify.com/artist/43zH1wiBmLE5aVeHzSoFjn"
+          "name": "Giorgos Zambetas",
+          "url": "https://open.spotify.com/artist/0nvVCoiYH184eR8CDXfx3r"
         }
       ],
       "duration_ms": 152200,
@@ -1041,7 +1045,7 @@
         }
       ],
       "duration_ms": 151200,
-      "name": "To Agalma - The Statue",
+      "name": "To Agalma - Instrumental",
       "url": "https://open.spotify.com/track/0Dj0CpO4FGxhkSttZbQTP4"
     },
     {

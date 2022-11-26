@@ -135,7 +135,7 @@
     {
       "album": {
         "name": "For Once In My Life",
-        "url": "https://open.spotify.com/album/4JCQdSI7bOIZ2F2z1skMXV"
+        "url": "https://open.spotify.com/album/0HfyFFJ941UMB9knoEhfpq"
       },
       "artists": [
         {
@@ -146,6 +146,24 @@
       "date_added": "2021-07-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 218571,
+      "name": "For Once In My Life",
+      "url": "https://open.spotify.com/track/6N7xMUdh2aflVmcj2RX3d4"
+    },
+    {
+      "album": {
+        "name": "For Once In My Life",
+        "url": "https://open.spotify.com/album/4JCQdSI7bOIZ2F2z1skMXV"
+      },
+      "artists": [
+        {
+          "name": "Mel B",
+          "url": "https://open.spotify.com/artist/2vJU4d2jRQb4zJJIQRkyDB"
+        }
+      ],
+      "date_added": "2021-07-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-17",
       "duration_ms": 218571,
       "name": "For Once In My Life",
       "url": "https://open.spotify.com/track/6X0RiugAou4fvzmJOQwF9y"

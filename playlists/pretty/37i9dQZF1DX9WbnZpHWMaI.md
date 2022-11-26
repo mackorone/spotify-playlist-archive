@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 
 > Celebrating women at the centre of innovation in electronic music\. Cover: TSHA
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,768 likes - 70 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,254 likes - 70 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 | 9 | [Like this](https://open.spotify.com/track/7pY3HE16Ir4ZFTEOmosP57) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [How can I](https://open.spotify.com/album/7mUyZcmorwXzHxCJZNxXKD) | 4:05 |
 | 10 | [La Femme Fantastique \(feat\. Josh Caffe\)](https://open.spotify.com/track/0RdwywlRjjR9G83T6zrsTN) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Josh Caffe](https://open.spotify.com/artist/3JOct1LuzqDQHeCHuHjpM2) | [La Femme Fantastique \(feat\. Josh Caffe\)](https://open.spotify.com/album/5berW6OHaeMB5tidLYZKsL) | 3:08 |
 | 11 | [Like My Way](https://open.spotify.com/track/4iELCZDu8BTCgP0MWNLQ9u) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [You've Got the Whole Night to Go](https://open.spotify.com/album/5xp8nj4Uji2Kr1nkm3CLFC) | 4:13 |
-| 12 | [Follow](https://open.spotify.com/track/5UsfWcP6SThHlZ4oAgx7ge) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Stay With Me](https://open.spotify.com/album/0vlWyzbAl3ff9b3zout1XQ) | 5:37 |
+| 12 | [Follow](https://open.spotify.com/track/2XGh5hmwLX517lMBSvglwS) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Stay With Me](https://open.spotify.com/album/0kI8CjLFsSKL7xA2tSBZFa) | 5:37 |
 | 13 | [All my friends know \- Anz Remix](https://open.spotify.com/track/1U6hIpPWukivILVMgkzpAp) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt) | [to hell with it \(Remixes\)](https://open.spotify.com/album/3KP55PNM7vdlrIm1LavDzb) | 5:11 |
 | 14 | [Nighthawks 01](https://open.spotify.com/track/2Oz3Tj8RbLBZFW5Adsyzyj) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Musicolours](https://open.spotify.com/album/7soM3OZShMyXvzjncV6ea5) | 6:24 |
 | 15 | [2k Garage](https://open.spotify.com/track/00X8YRar9dwc5GB6kPOv9f) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Skylines \- Citylights](https://open.spotify.com/album/2DZy15GXtChjNiM5tH2hKV) | 5:21 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 | 18 | [Poodle Power \- DJ\-Kicks](https://open.spotify.com/track/5TBec4bs5VxUy3WxL37HJY) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [DJ\-Kicks EP](https://open.spotify.com/album/1So6YhUbOoEtwFKRpW7SUz) | 6:03 |
 | 19 | [Forever Ravers \- Radio Edit](https://open.spotify.com/track/4UjxYMM2290d7KlCKVSOuQ) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [Miss Kittin](https://open.spotify.com/artist/3QhNv79NoIvarU6N57GBzL) | [Speicher 112](https://open.spotify.com/album/4W6gWw1CAqb8W1l8TiiDcp) | 3:20 |
 | 20 | [La Perla \- Edit](https://open.spotify.com/track/6CldyxMa4XuHWAhAlaPWmt) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [La Perla](https://open.spotify.com/album/4N2nM5QZXYNbWPtxOADiAw) | 3:46 |
-| 21 | [Hundred Flowers Groove](https://open.spotify.com/track/4t28S5qmj4RwzEJFEz0HOL) | [Ciel](https://open.spotify.com/artist/1Rv2Pete1cFEKlDYk0hjWl) | [Hundred Flowers](https://open.spotify.com/album/01dd4DN5bf0yvw1BXYZAIR) | 6:55 |
+| 21 | [Hundred Flowers Groove](https://open.spotify.com/track/5tW5MJ3uiziGFFgCQ2UZ8J) | [Ciel](https://open.spotify.com/artist/55ik6uFrWcJCJWieLVkksl) | [Hundred Flowers](https://open.spotify.com/album/0GJeDLGTICRJY0cjWVAu6q) | 6:55 |
 | 22 | [Tuesday \(Shy One Remix\)](https://open.spotify.com/track/109ccjDUAD8JNIzyqkR2oT) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C), [Shy One](https://open.spotify.com/artist/6FafP4LIlZnnYNacDoW7yZ) | [Once Upon A Passion Remixes](https://open.spotify.com/album/2VX6JbFBRfOvscZ8N64F1Z) | 3:33 |
 | 23 | [Change](https://open.spotify.com/track/6dMZduF6Qs2WiSzQs7gqk5) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Change](https://open.spotify.com/album/6h4CKrhhFHdF6ElBeF3hgE) | 3:09 |
 | 24 | [Gary Mission](https://open.spotify.com/track/1udH7v82zd03uUlGNhzy9f) | [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt) | [Loos In Twos \(NRG\)](https://open.spotify.com/album/6kOISrghqryTCzXFl877rx) | 5:00 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 | 65 | [Attack](https://open.spotify.com/track/1Due9XdQ9PAJ4wzBNtWoq2) | [L U C Y](https://open.spotify.com/artist/0L18KxnMWgXorB5oVDRGzR) | [Project Ghost](https://open.spotify.com/album/0rJWzZcmEdFrPokYIYPtLm) | 3:40 |
 | 66 | [Wild Chamber](https://open.spotify.com/track/64jAqN4KeoMaiX11EXvXF4) | [upsammy](https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV) | [Wild Chamber](https://open.spotify.com/album/7ow4bpiILldUbu975NRIx4) | 4:21 |
 | 67 | [Weight](https://open.spotify.com/track/3CDfX0qDBnTsYiEzmTGTFT) | [UMFANG](https://open.spotify.com/artist/1Tf0PpDLg4A8m7aidHGRG3) | [Symbolic Use Of Light](https://open.spotify.com/album/29MU5A39NfSLiCN6pjtGcn) | 4:31 |
-| 68 | [Talk Ur Talk](https://open.spotify.com/track/7EUX8OCQiiMLp4QcZLoo3X) | [LYZZA](https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B) | [Powerplay](https://open.spotify.com/album/7LUKLf5ipWFL58Y558hNly) | 3:49 |
+| 68 | [Talk Ur Talk](https://open.spotify.com/track/73Y2GXivOjrG8E5VFz52VI) | [LYZZA](https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B) | [Powerplay](https://open.spotify.com/album/1Cvn9YGFvcg46z4FG81Btr) | 3:49 |
 | 69 | [Radical Spectacular](https://open.spotify.com/track/0SMvgsGjYvbNUnLytP0VnO) | [Mor Elian](https://open.spotify.com/artist/4nLavg4nn48n7wwx2AIklZ) | [Radical Spectacular](https://open.spotify.com/album/1uXd0Gk3K9oV1TtEzjtAwo) | 6:30 |
 | 70 | [Inner Peace](https://open.spotify.com/track/0KbAf8GrFpAGdDatmTC4MJ) | [Nightwave](https://open.spotify.com/artist/21E32VFyiPAWjbOWWzZBOv) | [Inner Peace](https://open.spotify.com/album/3rFHUVsBf9FLu9q5yhA6Co) | 5:19 |
 
-Snapshot ID: `MTY0NjcyNjE4MCwwMDAwMDAwMDQyZWVlN2Q4YWU1YmNmY2RlMTcyMTY5ZDZhNzc0MDE1`
+Snapshot ID: `MTY0NjcyNjE4MCwwMDAwMDAwMDRiZmIzNzVkNWJmY2JlMTI0Njc1NDllOWZiYjQxZmM2`

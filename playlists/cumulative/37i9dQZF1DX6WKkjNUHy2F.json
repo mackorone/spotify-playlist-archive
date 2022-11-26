@@ -280,6 +280,28 @@
     },
     {
       "album": {
+        "name": "Hotel Cabana",
+        "url": "https://open.spotify.com/album/53iwAByO7wE7EqnpFPpIB3"
+      },
+      "artists": [
+        {
+          "name": "Naughty Boy",
+          "url": "https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 222200,
+      "name": "La La La",
+      "url": "https://open.spotify.com/track/1RjpMjVNCHWoltfYSBHEKg"
+    },
+    {
+      "album": {
         "name": "Hotel Cabana (Deluxe Version)",
         "url": "https://open.spotify.com/album/2SVSPhDBqChBe10hJh5owv"
       },
@@ -429,6 +451,24 @@
       "duration_ms": 255506,
       "name": "Shine",
       "url": "https://open.spotify.com/track/4Qrxdjj3nFhjrqcnUU5r6a"
+    },
+    {
+      "album": {
+        "name": "Pop Hits 2015",
+        "url": "https://open.spotify.com/album/3ZagUWHI0FtnJ4PJflqUGR"
+      },
+      "artists": [
+        {
+          "name": "Years & Years",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 255506,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/7fymo275KG2hK7SBfxf72C"
     },
     {
       "album": {

@@ -45,7 +45,7 @@
     {
       "album": {
         "name": "ABC",
-        "url": "https://open.spotify.com/album/3btVhknqDeGAEd1Qj7lL57"
+        "url": "https://open.spotify.com/album/2tukc7pH4qTuXcfaHjLIBc"
       },
       "artists": [
         {
@@ -56,6 +56,24 @@
       "date_added": "2019-06-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 174866,
+      "name": "ABC",
+      "url": "https://open.spotify.com/track/6D8kc7RO0rqBLSo2YPflJ5"
+    },
+    {
+      "album": {
+        "name": "ABC",
+        "url": "https://open.spotify.com/album/3btVhknqDeGAEd1Qj7lL57"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "date_added": "2019-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-23",
       "duration_ms": 177733,
       "name": "ABC",
       "url": "https://open.spotify.com/track/6wDviYDtmSDZ0S6TVMM9Vc"
@@ -174,6 +192,24 @@
     },
     {
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/7bPBdkx7Vm2vqDkwnfNlg8"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "date_added": "2019-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 172840,
+      "name": "Back In My Arms Again - Single Version",
+      "url": "https://open.spotify.com/track/7xLPIDoeAth9rSs6OM7QXp"
+    },
+    {
+      "album": {
         "name": "Ben",
         "url": "https://open.spotify.com/album/3xo2soey9XEBI5DlmT4KlQ"
       },
@@ -228,6 +264,24 @@
     },
     {
       "album": {
+        "name": "1960s Happy For Kids",
+        "url": "https://open.spotify.com/album/6tLdzIgDA8o7MFYUsK9YZ1"
+      },
+      "artists": [
+        {
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+        }
+      ],
+      "date_added": "2019-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 179866,
+      "name": "Bernadette - Single Version / Mono",
+      "url": "https://open.spotify.com/track/1mzZU5TBro2yu13Avje7eV"
+    },
+    {
+      "album": {
         "name": "Where Did Our Love Go",
         "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
       },
@@ -261,6 +315,24 @@
       "duration_ms": 217733,
       "name": "Don't Leave Me This Way",
       "url": "https://open.spotify.com/track/2rBBhFXtuMoGuwYTSDpAdF"
+    },
+    {
+      "album": {
+        "name": "Soul Essentials",
+        "url": "https://open.spotify.com/album/2HEREQzFsq56E8Wh66s0V7"
+      },
+      "artists": [
+        {
+          "name": "Thelma Houston",
+          "url": "https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO"
+        }
+      ],
+      "date_added": "2019-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 216720,
+      "name": "Don't Leave Me This Way - Single Version",
+      "url": "https://open.spotify.com/track/6YnHWESPWTp7XWuc25onCX"
     },
     {
       "album": {
@@ -322,6 +394,28 @@
     },
     {
       "album": {
+        "name": "Slow Dance First Dance",
+        "url": "https://open.spotify.com/album/36UsFCzYmPponsSi4Htu89"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        },
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "date_added": "2019-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 266453,
+      "name": "Endless Love - From \"The Endless Love\" Soundtrack",
+      "url": "https://open.spotify.com/track/190yqUNtC6Oe4cq5695BaD"
+    },
+    {
+      "album": {
         "name": "Back To Front",
         "url": "https://open.spotify.com/album/3oCmLDbxXc1SDZIkwGo0x5"
       },
@@ -377,6 +471,24 @@
       "duration_ms": 190213,
       "name": "Fingertips, Pt. 2 - Live/1962",
       "url": "https://open.spotify.com/track/6SvMoVRctg7Z3jDtlYIYlL"
+    },
+    {
+      "album": {
+        "name": "The Complete Motown Singles, Vol. 3: 1963",
+        "url": "https://open.spotify.com/album/3YCASsl45660L3pVU0sdZx"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2019-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 190400,
+      "name": "Fingertips, Pt. 2 - Live/1962 / Second Pressing",
+      "url": "https://open.spotify.com/track/6XbfCBRoYMvQctygBfiWpB"
     },
     {
       "album": {
@@ -539,6 +651,24 @@
       "duration_ms": 262240,
       "name": "I Just Called To Say I Love You",
       "url": "https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs"
+    },
+    {
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/5Y9QOzyolWHFORSCXEwKu6"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2019-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 260613,
+      "name": "I Just Called To Say I Love You - Single Version",
+      "url": "https://open.spotify.com/track/5Am36lyHSRoHKGxK3X9UKW"
     },
     {
       "album": {
@@ -870,6 +1000,24 @@
     },
     {
       "album": {
+        "name": "All Directions",
+        "url": "https://open.spotify.com/album/3C2NkrkMebXpfKS7XT777P"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "date_added": "2019-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 705173,
+      "name": "Papa Was A Rollin' Stone",
+      "url": "https://open.spotify.com/track/2qE2Xzdn5fUoUF7wec0BrH"
+    },
+    {
+      "album": {
         "name": "In Square Circle",
         "url": "https://open.spotify.com/album/1nLKZqTGA48v3I8dNFkvQt"
       },
@@ -942,6 +1090,24 @@
     },
     {
       "album": {
+        "name": "100 Unforgettable Love Songs",
+        "url": "https://open.spotify.com/album/6ONcF1dk7Kl5TSSwJvs554"
+      },
+      "artists": [
+        {
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+        }
+      ],
+      "date_added": "2019-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 179666,
+      "name": "Reach Out I'll Be There - Single Version / Mono",
+      "url": "https://open.spotify.com/track/76VaizWLcEzUh3qXm3BGJu"
+    },
+    {
+      "album": {
         "name": "Rhythm Of The Night",
         "url": "https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8"
       },
@@ -993,6 +1159,24 @@
       "duration_ms": 232760,
       "name": "Sir Duke",
       "url": "https://open.spotify.com/track/4pNiE4LCVV74vfIBaUHm1b"
+    },
+    {
+      "album": {
+        "name": "Lyle, Lyle, Crocodile (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2kchX1pzbXOv6VRpd7vu5G"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2019-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 234093,
+      "name": "Sir Duke",
+      "url": "https://open.spotify.com/track/08CRtqa83iHZ5wcTCXPLSB"
     },
     {
       "album": {
@@ -1122,6 +1306,24 @@
     },
     {
       "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/5gX0Oedkr1IgRO8OXhUR5k"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "date_added": "2019-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 172893,
+      "name": "The Happening",
+      "url": "https://open.spotify.com/track/0EYaJLsgcqhyAG1vc59nJx"
+    },
+    {
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/5OnA6kyXMAxx6SEPPSPcGW"
       },
@@ -1141,7 +1343,7 @@
     {
       "album": {
         "name": "ABC",
-        "url": "https://open.spotify.com/album/3btVhknqDeGAEd1Qj7lL57"
+        "url": "https://open.spotify.com/album/2tukc7pH4qTuXcfaHjLIBc"
       },
       "artists": [
         {
@@ -1152,6 +1354,24 @@
       "date_added": "2019-06-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 179306,
+      "name": "The Love You Save",
+      "url": "https://open.spotify.com/track/39SyB2NWiRlMtcKrI2rr4k"
+    },
+    {
+      "album": {
+        "name": "ABC",
+        "url": "https://open.spotify.com/album/3btVhknqDeGAEd1Qj7lL57"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "date_added": "2019-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-23",
       "duration_ms": 181426,
       "name": "The Love You Save",
       "url": "https://open.spotify.com/track/2dYdai0GywuwYq6blSwDBV"
@@ -1299,6 +1519,24 @@
       "duration_ms": 200266,
       "name": "War",
       "url": "https://open.spotify.com/track/4ZEEcEMGjkWOfZNBcIB9yE"
+    },
+    {
+      "album": {
+        "name": "70s Dance Hits",
+        "url": "https://open.spotify.com/album/1SnzyTtJauD1L9yNxe5hx6"
+      },
+      "artists": [
+        {
+          "name": "Edwin Starr",
+          "url": "https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u"
+        }
+      ],
+      "date_added": "2019-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 201946,
+      "name": "War",
+      "url": "https://open.spotify.com/track/1gPU24oTIjmxnHOr1CaCbZ"
     },
     {
       "album": {

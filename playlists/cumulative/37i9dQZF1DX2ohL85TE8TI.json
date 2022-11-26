@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Familiar hits that match your emotions while watching your favourite Korean movie or TV drama (\uc778\uae30 \uc788\ub294 \ud654\uc81c\uc758 OST\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (\ucee4\ubc84: Little Women (\uc791\uc740 \uc544\uc528\ub4e4))",
+  "description": "Familiar hits that match your emotions while watching your favourite Korean movie or TV drama (\uc778\uae30 \uc788\ub294 \ud654\uc81c\uc758 OST\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (\ucee4\ubc84: Ditto(\ub3d9\uac10))",
   "name": "Korean OSTs",
   "published_playlist_ids": [
     "05dVRqh1WO1Wgu33OmJUg0"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "1000won Lawyer (Original Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/12qdMvh1P5DxGnFlKdHVII"
+      },
+      "artists": [
+        {
+          "name": "Kim Kyung Ho",
+          "url": "https://open.spotify.com/artist/15Tra1ytu0naoNByIhZArl"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130453,
+      "name": "1000won Lawyer",
+      "url": "https://open.spotify.com/track/2PSAU5PZrNktV9fztrEWmN"
+    },
     {
       "album": {
         "name": "1second 1minute 1hour (Original Webcomic Soundtrack)",
@@ -109,10 +127,28 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 213213,
       "name": "A Sorrowful Memory",
       "url": "https://open.spotify.com/track/1OXu0ppB1dUwwKMF9Un4q9"
+    },
+    {
+      "album": {
+        "name": "Summer Strike, Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5aDe6PUvWurZOsXZLc4ia8"
+      },
+      "artists": [
+        {
+          "name": "JIHYO",
+          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234506,
+      "name": "A Strange Day",
+      "url": "https://open.spotify.com/track/1haYZ64GiDq3vU36S4BZEN"
     },
     {
       "album": {
@@ -181,7 +217,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 251000,
       "name": "Aching",
       "url": "https://open.spotify.com/track/017eGASA1dbhQOb942TuQx"
@@ -333,7 +369,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 204693,
       "name": "Always Love With You",
       "url": "https://open.spotify.com/track/0bV00a2H2qtIyMPkr5PzS8"
@@ -525,7 +561,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 196929,
       "name": "Baby I\u2032ll be there",
       "url": "https://open.spotify.com/track/6oiN6T5sXEzmydI8YpCd6g"
@@ -565,7 +601,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 216693,
       "name": "Be Forever",
       "url": "https://open.spotify.com/track/0PkaGqu0OB4MbGbizj0wAP"
@@ -601,7 +637,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 210997,
       "name": "Be my love",
       "url": "https://open.spotify.com/track/0hYEPgHB9mnNC5qs4DM1Dl"
@@ -623,6 +659,24 @@
       "duration_ms": 234397,
       "name": "Be the Light",
       "url": "https://open.spotify.com/track/61B7mbo3BAGqHmPpL29Ehf"
+    },
+    {
+      "album": {
+        "name": "The Golden Spoon (Original Television Soundtrack, Pt. 4)",
+        "url": "https://open.spotify.com/album/0si7syMtQ2dRy78dRKzy3i"
+      },
+      "artists": [
+        {
+          "name": "O.WHEN",
+          "url": "https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218066,
+      "name": "Be there - Male Ver.",
+      "url": "https://open.spotify.com/track/67iM5BSDg7tMfnGmwXDlsN"
     },
     {
       "album": {
@@ -677,6 +731,24 @@
       "duration_ms": 200460,
       "name": "Beautiful Night",
       "url": "https://open.spotify.com/track/6w5I5eJCuNSNa3FdEq4sfs"
+    },
+    {
+      "album": {
+        "name": "GAUS Electronics, Pt. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/30tbmNgt3UdNQxc0qgMOeN"
+      },
+      "artists": [
+        {
+          "name": "Kim Jong Wan of NELL",
+          "url": "https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236368,
+      "name": "Because I Love You",
+      "url": "https://open.spotify.com/track/4fa1qm8qc3RmAvjeAp06Zy"
     },
     {
       "album": {
@@ -842,6 +914,24 @@
     },
     {
       "album": {
+        "name": "Fall for you, Pt.2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5CVFVtbmc8rMKxUu9m5F3H"
+      },
+      "artists": [
+        {
+          "name": "MOOK",
+          "url": "https://open.spotify.com/artist/5Sqk710FhqXdb9YNDjM66Y"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211066,
+      "name": "Beyond Blue",
+      "url": "https://open.spotify.com/track/5RArpS0WIQincM7yYikwvy"
+    },
+    {
+      "album": {
         "name": "Extraordinary Attorney Woo (Original Television Soundtrack) Pt. 2",
         "url": "https://open.spotify.com/album/6WHeV5qrp1tAPcMJ0ieZts"
       },
@@ -857,6 +947,24 @@
       "duration_ms": 185508,
       "name": "Beyond My Dreams",
       "url": "https://open.spotify.com/track/5NVkktUlAylhk7f0t63eth"
+    },
+    {
+      "album": {
+        "name": "Bad Prosecutor (Original Television Soundtrack, Pt. 3)",
+        "url": "https://open.spotify.com/album/4b2cSq7UmDqQOCWFNzkAVw"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201946,
+      "name": "Bite",
+      "url": "https://open.spotify.com/track/5SVGGGHyZaRPwvJtVMgCgr"
     },
     {
       "album": {
@@ -919,13 +1027,13 @@
       },
       "artists": [
         {
-          "name": "\u30ad\u30e0\u30fb\u30b8\u30e7\u30f3\u30ef\u30f3 of NELL",
+          "name": "Kim Jong Wan of NELL",
           "url": "https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH"
         }
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 262143,
       "name": "Brave",
       "url": "https://open.spotify.com/track/30g5E9MteFxeG9pDvRKJNl"
@@ -1042,6 +1150,24 @@
     },
     {
       "album": {
+        "name": "Under the Queen's Umbrella, Pt. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5QXXcoX3z5mlqWMWTvUbRV"
+      },
+      "artists": [
+        {
+          "name": "ID:Earth",
+          "url": "https://open.spotify.com/artist/6pORiOGjtqK2ww7PBBQFRt"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175333,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/4G52dS74UYXEt9A2F7yNjV"
+    },
+    {
+      "album": {
         "name": "Poong, the Joseon Psychiatrist OST Part.1",
         "url": "https://open.spotify.com/album/6bAozPhiVsKID6HBJG2AQI"
       },
@@ -1132,6 +1258,24 @@
     },
     {
       "album": {
+        "name": "Behind Every Star (Original Television Soundtrack), Pt.2",
+        "url": "https://open.spotify.com/album/7C2ACjJmvMsOddvB37vYaw"
+      },
+      "artists": [
+        {
+          "name": "XIA",
+          "url": "https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225613,
+      "name": "Childhood Dreams",
+      "url": "https://open.spotify.com/track/35bkvjqWuHTg8w09yDKPy2"
+    },
+    {
+      "album": {
         "name": "Our Beloved Summer (Original Television Soundtrack), Pt. 5",
         "url": "https://open.spotify.com/album/4210mSQ3r10AsJMZEYAH5l"
       },
@@ -1147,6 +1291,42 @@
       "duration_ms": 209946,
       "name": "Christmas Tree",
       "url": "https://open.spotify.com/track/186NCtNk1tUYS7c2DxgJ7O"
+    },
+    {
+      "album": {
+        "name": "Daily JoJo (Original Webtoon Soundtrack) Pt.2",
+        "url": "https://open.spotify.com/album/0YGbevSnSPmsRyOoMAosrW"
+      },
+      "artists": [
+        {
+          "name": "KIM JAE HWAN",
+          "url": "https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176946,
+      "name": "Cinderella's Love (Daily JoJo)",
+      "url": "https://open.spotify.com/track/6nkoJCo2lwG3HBValDvApj"
+    },
+    {
+      "album": {
+        "name": "Love in Contract, Pt. 3 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/7ySPnI7trS0YQkVN0B3yMk"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228539,
+      "name": "Close to You (SEUNGMIN of Stray Kids)",
+      "url": "https://open.spotify.com/track/6JWBfjrCBDXKtFM1ViEAYU"
     },
     {
       "album": {
@@ -1226,6 +1406,42 @@
     },
     {
       "album": {
+        "name": "Cheer Up (Original Soundtrack Part.2)",
+        "url": "https://open.spotify.com/album/7quVqU9K0eqi8P7214gFIy"
+      },
+      "artists": [
+        {
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279160,
+      "name": "Confession",
+      "url": "https://open.spotify.com/track/59OQ9zPGXtzMMIz2q8INhg"
+    },
+    {
+      "album": {
+        "name": "Confession (Ditto X Chuu (LOONA))",
+        "url": "https://open.spotify.com/album/4lqmvZ7sla2GqrhOv8FMsp"
+      },
+      "artists": [
+        {
+          "name": "Chuu (LOONA)",
+          "url": "https://open.spotify.com/artist/5cFdpa8OCO9JGIOB7O8ygU"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243706,
+      "name": "Confession (Ditto X Chuu (LOONA))",
+      "url": "https://open.spotify.com/track/40wyDhO974VOe491zfVLbC"
+    },
+    {
+      "album": {
         "name": "Crush on you (Original Webtoon Soundtrack)",
         "url": "https://open.spotify.com/album/5vwF93uqQGNxV1BiDuWqqr"
       },
@@ -1245,6 +1461,24 @@
       "duration_ms": 188003,
       "name": "Crush on you (No brakes for your curves)",
       "url": "https://open.spotify.com/track/5eHVjWcQKMsTRwT6OtJd0q"
+    },
+    {
+      "album": {
+        "name": "The Empire (Original Television Soundtrack, Pt. 5)",
+        "url": "https://open.spotify.com/album/7zZSpcmkXXjuDLNyGOlBmo"
+      },
+      "artists": [
+        {
+          "name": "MINSEO",
+          "url": "https://open.spotify.com/artist/3qo507hAo0pjRj42AmioUv"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247370,
+      "name": "Crystal Castle",
+      "url": "https://open.spotify.com/track/5xLjJJPy9sNh51Qtkgzakw"
     },
     {
       "album": {
@@ -1285,6 +1519,24 @@
       "duration_ms": 181513,
       "name": "Dance Dance (from \u2033Go Go Bella\u2033, Bella Theme)",
       "url": "https://open.spotify.com/track/2Oo6DFS4KDoPIw6VR5MNHX"
+    },
+    {
+      "album": {
+        "name": "Dandelion (CURTAIN CALL OST Part.2)",
+        "url": "https://open.spotify.com/album/4dM1bUDP6AQ2C0ZK3F0unO"
+      },
+      "artists": [
+        {
+          "name": "Sumi Jo",
+          "url": "https://open.spotify.com/artist/2QJJHCdkMmlbff1beZnAz6"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194640,
+      "name": "Dandelion",
+      "url": "https://open.spotify.com/track/40TWbnz9bUENG0N8e40bCa"
     },
     {
       "album": {
@@ -1519,6 +1771,24 @@
       "duration_ms": 234016,
       "name": "Do you know",
       "url": "https://open.spotify.com/track/33hPRJMBSC13G0gkD0lJw4"
+    },
+    {
+      "album": {
+        "name": "1000won Lawyer (Original Soundtrack), Pt. 6",
+        "url": "https://open.spotify.com/album/7r6M8y77ga4L1mKbGcp4MB"
+      },
+      "artists": [
+        {
+          "name": "CHANGHA",
+          "url": "https://open.spotify.com/artist/5JIeS2L8GRcbgnzNFLdx1b"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240640,
+      "name": "Don't be late",
+      "url": "https://open.spotify.com/track/7moKmzq8aYQo9ohANhG2wv"
     },
     {
       "album": {
@@ -1785,7 +2055,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 150151,
       "name": "Every Morning",
       "url": "https://open.spotify.com/track/2j1BuRG8IB58GXVPFrS5rD"
@@ -1868,6 +2138,24 @@
     },
     {
       "album": {
+        "name": "The Golden Spoon (Original Television Soundtrack, Pt. 9)",
+        "url": "https://open.spotify.com/album/49RPhfmbjEiPdrSzzpN2YO"
+      },
+      "artists": [
+        {
+          "name": "Jeon Sang Keun",
+          "url": "https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181880,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/1cXlFn45iKoANa74LUqiCP"
+    },
+    {
+      "album": {
         "name": "Young Lady And Gentleman (Original Television Soundtrack), Pt. 6",
         "url": "https://open.spotify.com/album/0mRY8SeFynVVa2oMV3J5eW"
       },
@@ -1883,6 +2171,24 @@
       "duration_ms": 256135,
       "name": "Farewell Stopped Time",
       "url": "https://open.spotify.com/track/5tXaqGxunxzRAMSiDF0JJY"
+    },
+    {
+      "album": {
+        "name": "Behind Every Star (Original Television Soundtrack), Pt.3",
+        "url": "https://open.spotify.com/album/3ofJVo6jygV5hTdXTv7y3n"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189093,
+      "name": "Feel My Heart",
+      "url": "https://open.spotify.com/track/6UfTnJ8W97OElE8JSHu25e"
     },
     {
       "album": {
@@ -1994,6 +2300,24 @@
     },
     {
       "album": {
+        "name": "For A Long Time (CURTAIN CALL OST Part.5)",
+        "url": "https://open.spotify.com/album/4HH8pNiWSCxwK8jDAjUDfL"
+      },
+      "artists": [
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225078,
+      "name": "For A Long Time",
+      "url": "https://open.spotify.com/track/3dRfH2VxbflPsmxAY0VuDn"
+    },
+    {
+      "album": {
         "name": "For All Time (Original Soundtrack)",
         "url": "https://open.spotify.com/album/2bd6SY0j96NhgLM5jrmGv5"
       },
@@ -2057,13 +2381,13 @@
           "url": "https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5"
         },
         {
-          "name": "Lee Chan Hyuk",
+          "name": "LEE CHANHYUK",
           "url": "https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl"
         }
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 201266,
       "name": "FREE SMILE",
       "url": "https://open.spotify.com/track/1TEv7OolmCRlF8TuZiNczt"
@@ -2117,7 +2441,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 180200,
       "name": "Ghost Buster",
       "url": "https://open.spotify.com/track/71nySQ4RntwCMUFZu29m1d"
@@ -2319,7 +2643,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 228834,
       "name": "Hello",
       "url": "https://open.spotify.com/track/2XeZwMyRKG9vSvTLq7Y40Z"
@@ -2380,6 +2704,24 @@
     },
     {
       "album": {
+        "name": "Cheer Up (Original Soundtrack Part.6)",
+        "url": "https://open.spotify.com/album/3bZkd2ztBDVeJjKkmYsEaE"
+      },
+      "artists": [
+        {
+          "name": "THEIA",
+          "url": "https://open.spotify.com/artist/0WT5o9HgcJJoyKUhiHaCMP"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208760,
+      "name": "High",
+      "url": "https://open.spotify.com/track/7yRYNoUosgDPpyL5noRFQ6"
+    },
+    {
+      "album": {
         "name": "Now, We Are Breaking Up (Original Television Soundtrack), Pt. 2",
         "url": "https://open.spotify.com/album/7yfqRYBQmoNZqoeGe4kPeM"
       },
@@ -2421,6 +2763,24 @@
       "duration_ms": 192664,
       "name": "Home",
       "url": "https://open.spotify.com/track/4IYkOXspUW61nJUetcqkpJ"
+    },
+    {
+      "album": {
+        "name": "[\"Our Pictures\" Since 2018]",
+        "url": "https://open.spotify.com/album/0hw6KzjpP0uVtT966VjPwg"
+      },
+      "artists": [
+        {
+          "name": "misonyeon",
+          "url": "https://open.spotify.com/artist/3RBwHbXl5zZ2A1EzavONan"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244970,
+      "name": "How can I have you",
+      "url": "https://open.spotify.com/track/14g6VmDnjwCQfmSMMcHhQ4"
     },
     {
       "album": {
@@ -2489,7 +2849,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 235349,
       "name": "How painful it must be to forget",
       "url": "https://open.spotify.com/track/0pnBmZHznIWiv1NQktqt3S"
@@ -2507,7 +2867,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 202813,
       "name": "Howling",
       "url": "https://open.spotify.com/track/3aoxA2eTxDjhi3Gxqcs14V"
@@ -2579,7 +2939,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 213066,
       "name": "I can't love anymore",
       "url": "https://open.spotify.com/track/26TLhUe2t436udQCo2ip8i"
@@ -2849,7 +3209,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 249858,
       "name": "I'll be your side",
       "url": "https://open.spotify.com/track/4C78LrFzGnKJcHgAmtg4SB"
@@ -3199,7 +3559,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 222508,
       "name": "It's all just lies",
       "url": "https://open.spotify.com/track/4T2XFY63jsrqFx2Hc7YXEn"
@@ -3435,7 +3795,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 242213,
       "name": "Just Watching You",
       "url": "https://open.spotify.com/track/0pPl0eb7HcfwuXkFZqp4TU"
@@ -3475,6 +3835,24 @@
       "duration_ms": 182485,
       "name": "L.O.V.E",
       "url": "https://open.spotify.com/track/4cRAQZ8SzbTlqhD6jxhNFD"
+    },
+    {
+      "album": {
+        "name": "Little Women, Pt. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/2AoSgorhPk4logk3wEufL6"
+      },
+      "artists": [
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229570,
+      "name": "LA VIE",
+      "url": "https://open.spotify.com/track/0eW5FMPvIQXhMYZQhea7Hj"
     },
     {
       "album": {
@@ -3680,6 +4058,24 @@
     },
     {
       "album": {
+        "name": "Letter (Ditto X YOUNHA)",
+        "url": "https://open.spotify.com/album/0Bp0eaX0UqiJ1kvMNwJ5NX"
+      },
+      "artists": [
+        {
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265293,
+      "name": "Letter (Ditto X YOUNHA)",
+      "url": "https://open.spotify.com/track/41aK2m09u10TnlKHOyHH1C"
+    },
+    {
+      "album": {
         "name": "PLAYLIST (Original Soundtrack), Pt.1",
         "url": "https://open.spotify.com/album/1jXIHAXoA7oz18tsTh4jw4"
       },
@@ -3734,6 +4130,24 @@
     },
     {
       "album": {
+        "name": "Love is for Suckers, Pt. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0BnffjMkaKMXPjeJr01zrK"
+      },
+      "artists": [
+        {
+          "name": "THE SOLUTIONS",
+          "url": "https://open.spotify.com/artist/5fwYrHN92VR90PJQ11ybJ8"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199546,
+      "name": "Like Breeze",
+      "url": "https://open.spotify.com/track/24Da1BHW2ZIppKwM6vYBTj"
+    },
+    {
+      "album": {
         "name": "Woof &Meow Do you love me? OST",
         "url": "https://open.spotify.com/album/577AQ4CR7ara4EveBUUTNz"
       },
@@ -3785,7 +4199,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 219093,
       "name": "Link",
       "url": "https://open.spotify.com/track/6O3EdGPasHMi44JWmyi0nW"
@@ -3828,6 +4242,24 @@
     },
     {
       "album": {
+        "name": "Behind Every Star (Original Television Soundtrack), Pt.1",
+        "url": "https://open.spotify.com/album/5y3ekRLyeEbVf9biJPbQRN"
+      },
+      "artists": [
+        {
+          "name": "Bily Acoustie",
+          "url": "https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232546,
+      "name": "Looking Forward To Tomorrow",
+      "url": "https://open.spotify.com/track/5KlYz1KPuj1PX2B5Gs8gVs"
+    },
+    {
+      "album": {
         "name": "Snowdrop (Original Television Soundtrack, Pt. 3)",
         "url": "https://open.spotify.com/album/1hv6bXr0WdA4AHwWfUBTZ3"
       },
@@ -3843,6 +4275,24 @@
       "duration_ms": 182813,
       "name": "Looks like a real thing",
       "url": "https://open.spotify.com/track/7g7gSmVZdzG8ZHZF3qDvdx"
+    },
+    {
+      "album": {
+        "name": "The Golden Spoon (Original Television Soundtrack, Pt. 6)",
+        "url": "https://open.spotify.com/album/5njq9jUSKw10HsTy7ZkdhS"
+      },
+      "artists": [
+        {
+          "name": "Sondia",
+          "url": "https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220760,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/2SmLMEusGr41TShndvKjRr"
     },
     {
       "album": {
@@ -3947,7 +4397,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 219245,
       "name": "Love is you",
       "url": "https://open.spotify.com/track/0sF6QWwBws0zZynVC2ovIe"
@@ -3969,6 +4419,42 @@
       "duration_ms": 203346,
       "name": "Love Letter",
       "url": "https://open.spotify.com/track/389Xmb0GWGgcdR2kDyRkYb"
+    },
+    {
+      "album": {
+        "name": "Love Sailing (Decibel OST X Cha Eun-Woo)",
+        "url": "https://open.spotify.com/album/4MjcD0zBOqCsHXMq8BAECb"
+      },
+      "artists": [
+        {
+          "name": "Cha Eun-Woo",
+          "url": "https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190435,
+      "name": "Love Sailing",
+      "url": "https://open.spotify.com/track/5P16LnT953KPtZr54vSpkl"
+    },
+    {
+      "album": {
+        "name": "OH MY KISS, Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6KFNXaAltSnXaCf8KPPWep"
+      },
+      "artists": [
+        {
+          "name": "yewon",
+          "url": "https://open.spotify.com/artist/3cw1kWnPM3pDH7OZnMhlTp"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195071,
+      "name": "LOVE SIGN",
+      "url": "https://open.spotify.com/track/1WsgP7GRZjm6jvzZn2AS5i"
     },
     {
       "album": {
@@ -4229,7 +4715,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 176866,
       "name": "Milky Way",
       "url": "https://open.spotify.com/track/1BcokUlDjWwaTPu05OarRG"
@@ -4269,6 +4755,24 @@
       "duration_ms": 220373,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/3b4QaFrYPu9M151olXh3rD"
+    },
+    {
+      "album": {
+        "name": "The Golden Spoon (Original Television Soundtrack, Pt. 10)",
+        "url": "https://open.spotify.com/album/7xnWoJEKBmJsg5ZBpJyEkl"
+      },
+      "artists": [
+        {
+          "name": "Sojeong",
+          "url": "https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256026,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/4ogVNLLmeO8xX57MjbhTCs"
     },
     {
       "album": {
@@ -4337,7 +4841,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 252680,
       "name": "My Day (Acoustic Ver.)",
       "url": "https://open.spotify.com/track/3U5ex6nJznAHjxjQoMOe1j"
@@ -4532,6 +5036,24 @@
     },
     {
       "album": {
+        "name": "The Law Cafe (Original Television Soundtrack), Pt.9",
+        "url": "https://open.spotify.com/album/15NYQBlwX5YbqfHOt1xgNR"
+      },
+      "artists": [
+        {
+          "name": "Lee Ju Hyuk",
+          "url": "https://open.spotify.com/artist/05kWx8q5sU1MChiDfWcVRk"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201760,
+      "name": "My Romance",
+      "url": "https://open.spotify.com/track/2KqdVt3WWqNIla3lx41Nbh"
+    },
+    {
+      "album": {
         "name": "Once Upon a Small Town (Original Television Soundtrack), Pt.5",
         "url": "https://open.spotify.com/album/2TiBxxqrhlBz1HyHswBmIY"
       },
@@ -4583,7 +5105,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 219600,
       "name": "My Shadow",
       "url": "https://open.spotify.com/track/1Kxf9FrJeecsgDZrmjGaQR"
@@ -4659,6 +5181,24 @@
       "duration_ms": 195013,
       "name": "My wonderous miracle",
       "url": "https://open.spotify.com/track/2jT8FVkjW9jxyJ8fi4ssr2"
+    },
+    {
+      "album": {
+        "name": "NARIN Remake project Pt. 2 - R.P.G. Shine",
+        "url": "https://open.spotify.com/album/3mdWQZqMKMXvyUbQCUVz9Y"
+      },
+      "artists": [
+        {
+          "name": "NARIN",
+          "url": "https://open.spotify.com/artist/6j3UJ4Iq9eszJaJy454oPB"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181416,
+      "name": "NARIN Remake project Pt. 2 - R.P.G. Shine",
+      "url": "https://open.spotify.com/track/69Jfm9OEPvJr7mD5V8lLT2"
     },
     {
       "album": {
@@ -4792,6 +5332,24 @@
     },
     {
       "album": {
+        "name": "The Golden Spoon (Original Television Soundtrack, Pt. 7)",
+        "url": "https://open.spotify.com/album/5FDxf9I2I6CpEYbp4hyfZn"
+      },
+      "artists": [
+        {
+          "name": "Youngjae",
+          "url": "https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ"
+        }
+      ],
+      "date_added": "2022-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168640,
+      "name": "On My Way",
+      "url": "https://open.spotify.com/track/3cVX33dhtE55B21yWWYiLJ"
+    },
+    {
+      "album": {
         "name": "Our Blues, Pt. 10 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/0mP330aRyX4P4ZjarRKnXO"
       },
@@ -4861,7 +5419,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 233773,
       "name": "Only Longing Grows",
       "url": "https://open.spotify.com/track/2crkSPXNfENoVob10TfTTh"
@@ -4879,7 +5437,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 250466,
       "name": "Only You",
       "url": "https://open.spotify.com/track/1PrTalIGiaPcUGTRNe5eNB"
@@ -4951,7 +5509,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 230750,
       "name": "Our Season",
       "url": "https://open.spotify.com/track/0AZS7hgLM2Iv69X1ZfKebV"
@@ -5023,7 +5581,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 212093,
       "name": "Pit a Pat",
       "url": "https://open.spotify.com/track/5bmr4XB9X2QQPpnrY6PwwZ"
@@ -5041,7 +5599,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 214693,
       "name": "Please Know my feeling",
       "url": "https://open.spotify.com/track/7ETo54VuGQl4Zts6oEpnBH"
@@ -5250,6 +5808,24 @@
     },
     {
       "album": {
+        "name": "Cheer Up (Original Soundtrack Part.3)",
+        "url": "https://open.spotify.com/album/5ycHYSK1rnY4YDCPGczxYH"
+      },
+      "artists": [
+        {
+          "name": "Mi Joo Lee",
+          "url": "https://open.spotify.com/artist/0aATviqzHMSQHDengVEH74"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211760,
+      "name": "RINGING",
+      "url": "https://open.spotify.com/track/1ShTCj5B8ICnrkXyfhSWKn"
+    },
+    {
+      "album": {
         "name": "Ghost Doctor, Pt. 3 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/4toPwTrNu6DrRmXestTGzS"
       },
@@ -5369,7 +5945,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 228188,
       "name": "seep into you",
       "url": "https://open.spotify.com/track/1gI4erUG1xjcWi5Ysm8YjY"
@@ -5459,7 +6035,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 222305,
       "name": "Shining on Your Night",
       "url": "https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6"
@@ -5484,6 +6060,24 @@
     },
     {
       "album": {
+        "name": "May It Please The Court (Original Soundtrack from the Disney+ Original)",
+        "url": "https://open.spotify.com/album/5Lz4OYeBQmBEdvw7hfewpH"
+      },
+      "artists": [
+        {
+          "name": "CALi",
+          "url": "https://open.spotify.com/artist/6iwkJtb0XVezb2eDylMkaG"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212240,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/0LTcltmZVc0IRu2gkpXCqD"
+    },
+    {
+      "album": {
         "name": "Behind Cut (Original Television Soundtrack) Pt. 1",
         "url": "https://open.spotify.com/album/6wwP9FSRhL4nWCFvvciq4O"
       },
@@ -5499,6 +6093,24 @@
       "duration_ms": 185960,
       "name": "SKY",
       "url": "https://open.spotify.com/track/7JTJRkvvmy9jNIkqqsLIfB"
+    },
+    {
+      "album": {
+        "name": "Love is for Suckers, Pt.5 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/1f3HrC8d2uSztNpPyvaXDe"
+      },
+      "artists": [
+        {
+          "name": "Baek A Yeon",
+          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197666,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/2Qx73j6OHx8Im6wMrmEG9j"
     },
     {
       "album": {
@@ -5769,7 +6381,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 150080,
       "name": "Stay Awake",
       "url": "https://open.spotify.com/track/4YLdPJYRfMAYvFvCOYBtsf"
@@ -5845,6 +6457,24 @@
       "duration_ms": 157386,
       "name": "Strawberry Smoothie",
       "url": "https://open.spotify.com/track/4Fa5yirnUwGuELJ3t054mz"
+    },
+    {
+      "album": {
+        "name": "Summer Strike, Pt. 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5pjR18FQIZSGmFk7EqzdVF"
+      },
+      "artists": [
+        {
+          "name": "THE BOYZ",
+          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268853,
+      "name": "Summer Night",
+      "url": "https://open.spotify.com/track/4i52t4iun6rR5tpFpFSIBI"
     },
     {
       "album": {
@@ -6147,7 +6777,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 240266,
       "name": "The Island",
       "url": "https://open.spotify.com/track/6EvQreH8DrIwGkk50xIwir"
@@ -6219,7 +6849,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 208253,
       "name": "The Queen",
       "url": "https://open.spotify.com/track/4YR8iin9SJtZluXD0s1LoZ"
@@ -6321,16 +6951,34 @@
       },
       "artists": [
         {
-          "name": "Sujin Park",
-          "url": "https://open.spotify.com/artist/2gkonIWljjR6P00qwvv1eq"
+          "name": "Park Soo Jin",
+          "url": "https://open.spotify.com/artist/2u5C3Wks2FJrz5N86nNiXT"
         }
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 243281,
       "name": "This night",
       "url": "https://open.spotify.com/track/4TpvzMWFgeIU188OdlNhGh"
+    },
+    {
+      "album": {
+        "name": "Love is for Suckers, Pt. 4 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0cU0EtrgRpBGMULVPwd80y"
+      },
+      "artists": [
+        {
+          "name": "SORAN",
+          "url": "https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230653,
+      "name": "This Summer, Summer",
+      "url": "https://open.spotify.com/track/3RLyv1gL1jV6GhVQk6i9dK"
     },
     {
       "album": {
@@ -6367,6 +7015,24 @@
       "duration_ms": 235693,
       "name": "To the ordinary you",
       "url": "https://open.spotify.com/track/2QZKyD8R2ZtJroH3sGQdTD"
+    },
+    {
+      "album": {
+        "name": "Cheer Up (Original Soundtrack Part.5)",
+        "url": "https://open.spotify.com/album/7pJZcHrJnIMNnb1QF7zvE7"
+      },
+      "artists": [
+        {
+          "name": "YUDABINBAND",
+          "url": "https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231200,
+      "name": "Today is the day (Good Day)",
+      "url": "https://open.spotify.com/track/2Iio7YzWcoCLLWConHTfIc"
     },
     {
       "album": {
@@ -6453,7 +7119,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 128280,
       "name": "Unknown World (Prod. by Nam Hye Seung)",
       "url": "https://open.spotify.com/track/6EQpKimgfteh1hQwMfzJKC"
@@ -6550,6 +7216,24 @@
     },
     {
       "album": {
+        "name": "Waiting Fou You (CURTAIN CALL OST Part.1)",
+        "url": "https://open.spotify.com/album/3XwhlL7dKkT3PaTBlqLRZf"
+      },
+      "artists": [
+        {
+          "name": "Baek Ji Young",
+          "url": "https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246946,
+      "name": "Waiting Fou You",
+      "url": "https://open.spotify.com/track/1TWjbxRYeG0BF6TL8rVpAT"
+    },
+    {
+      "album": {
         "name": "Unicorn (Original Television Soundtrack), Pt.1",
         "url": "https://open.spotify.com/album/1ikJMpMSCQfQg0ZopQSBVZ"
       },
@@ -6569,6 +7253,24 @@
       "duration_ms": 204586,
       "name": "Wake Me Up (Feat. Meego)",
       "url": "https://open.spotify.com/track/2nWaeTFKL8JcVfpPBkfsho"
+    },
+    {
+      "album": {
+        "name": "The Law Cafe (Original Television Soundtrack), Pt.8",
+        "url": "https://open.spotify.com/album/7hjoE9fNpsXQszf6vL8wMR"
+      },
+      "artists": [
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217573,
+      "name": "Walk With Me",
+      "url": "https://open.spotify.com/track/3S5dxFnvl6viLuCAAyZG5B"
     },
     {
       "album": {
@@ -6637,7 +7339,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 222706,
       "name": "Want to be your everyday",
       "url": "https://open.spotify.com/track/1zIPRCtwsyBX0ai0mduPV8"
@@ -6882,6 +7584,24 @@
     },
     {
       "album": {
+        "name": "When You Believe",
+        "url": "https://open.spotify.com/album/6blijuFXCgZ8hPlcyim9JW"
+      },
+      "artists": [
+        {
+          "name": "Kwon Jin Ah",
+          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223266,
+      "name": "When You Believe",
+      "url": "https://open.spotify.com/track/6NXwnqGG6wAE7UP73AAor4"
+    },
+    {
+      "album": {
         "name": "Lovers of the Red Sky OST Part.4",
         "url": "https://open.spotify.com/album/7FgXKv05gGa0DMq7FPKdjh"
       },
@@ -7001,7 +7721,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 194739,
       "name": "Wicked",
       "url": "https://open.spotify.com/track/3B4u3uZGm7PCfhc18oTi1J"
@@ -7172,6 +7892,24 @@
     },
     {
       "album": {
+        "name": "Mental Coach Jegal, Pt. 5 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5fcdcwpZpn3LBTNHXQcMgh"
+      },
+      "artists": [
+        {
+          "name": "Rothy",
+          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/1x6WUoLbisdDYtJje4bFBN"
+    },
+    {
+      "album": {
         "name": "Woori The Virgin, Pt. 6 (Original Television Soundtrack) (Special Track)",
         "url": "https://open.spotify.com/album/0bDZDb3zs3Ow0Qhj1Ryodw"
       },
@@ -7255,7 +7993,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 194520,
       "name": "You are my destiny",
       "url": "https://open.spotify.com/track/5smUgcGZp3HeWvuw9Jmmnc"
@@ -7277,6 +8015,24 @@
       "duration_ms": 183998,
       "name": "You are my soul",
       "url": "https://open.spotify.com/track/6VDZHXq2dn9Uj44uak2Xsg"
+    },
+    {
+      "album": {
+        "name": "You Are The Sea (CURTAIN CALL OST Part.4)",
+        "url": "https://open.spotify.com/album/5jnmn2AEdnJvH4q2AwbFnw"
+      },
+      "artists": [
+        {
+          "name": "Kim Na Young",
+          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246106,
+      "name": "You Are The Sea",
+      "url": "https://open.spotify.com/track/5IN3ZKQDhVOewXbXKglhKv"
     },
     {
       "album": {
@@ -7482,6 +8238,24 @@
     },
     {
       "album": {
+        "name": "The Golden Spoon (Original Television Soundtrack, Pt. 3)",
+        "url": "https://open.spotify.com/album/4UaK5Qz1cN9vU8Dj5e7R5r"
+      },
+      "artists": [
+        {
+          "name": "Kevin Oh",
+          "url": "https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196746,
+      "name": "You\u2019re the only one - Male Ver.",
+      "url": "https://open.spotify.com/track/09gozpraWpfYgaptYIBDfj"
+    },
+    {
+      "album": {
         "name": "9\ubc88\ubc29\uc758 \ud569\ucc3d (Original Television Soundtrack) - \uae30\uc5b5\ud558\uc9c0 \ub9d0\uc544\uc694",
         "url": "https://open.spotify.com/album/1TVnqWX6cE2JJT2x01YhVU"
       },
@@ -7547,7 +8321,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 176000,
       "name": "\ub3c4\ud3ec\uc790\ub77d \ud718\ub0a0\ub9ac\uba70 (Original Television Soundtrack) - LOOK AT YOU!",
       "url": "https://open.spotify.com/track/7dsbpv6MfydEILF8c2NUCU"
@@ -7655,7 +8429,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 237931,
       "name": "\uc774\ub807\uac8c \uc9c0\uae08",
       "url": "https://open.spotify.com/track/0S3pZ3ihAbPiB0qr1lodFX"

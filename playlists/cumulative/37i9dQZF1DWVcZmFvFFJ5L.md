@@ -4,10 +4,11 @@
 
 > Jumping BoAs, Our Beloved BoA is here and BETTER than ever!
 
-107 songs - 6 hr 44 min - [published](https://open.spotify.com/playlist/0vyInYKvXtvOsuYvaowiIo)
+113 songs - 7 hr 3 min - [published](https://open.spotify.com/playlist/0vyInYKvXtvOsuYvaowiIo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [After Midnight](https://open.spotify.com/track/2Bujuw42Go0j1vlsHNKhDH) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Forgive Me \- The 3rd Mini Album](https://open.spotify.com/album/0vufEpmNpfB9NUPLkbIBN7) | 3:01 | 2022-11-24 |  |
 | [All That Jazz](https://open.spotify.com/track/630EmrW0DgVqPdKIWMk4YR) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [BETTER \- The 10th Album](https://open.spotify.com/album/3YXfuI3E6OxcrtXnjAgNkM) | 3:58 | 2020-12-02 |  |
 | [ALWAYS, ALL WAYS](https://open.spotify.com/track/1tHKHyxFIxipoMNHDr0QhX) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4), [Chancellor](https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx) | [ONE SHOT, TWO SHOT \- The 1st Mini Album](https://open.spotify.com/album/04gRvDvXy6ctlFxI3G7Wd5) | 3:41 | 2020-12-02 |  |
 | [ALWAYS, ALL WAYS](https://open.spotify.com/track/5HmnsPW0AfLHks9VoV9dRZ) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4), [Chancellor](https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx) | [ONE SHOT, TWO SHOT](https://open.spotify.com/album/5YLTtEcUBfBLnGc4GlWF4G) | 3:41 | 2020-12-02 | 2022-07-29 |
@@ -19,6 +20,7 @@
 | [Best Friend](https://open.spotify.com/track/3V5wP0Re5egkuRmxU5lymy) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [THE FACE](https://open.spotify.com/album/4ZNyTzXd57hAU87bb4yGCV) | 4:08 | 2020-12-02 |  |
 | [Better](https://open.spotify.com/track/2k44rKotfi2k55hwwiCImN) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [BETTER \- The 10th Album](https://open.spotify.com/album/3YXfuI3E6OxcrtXnjAgNkM) | 3:19 | 2020-12-02 |  |
 | [Black](https://open.spotify.com/track/5mJV0fXk6rRey5B1KeYbNQ) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Starry Night \- The 2nd Mini Album](https://open.spotify.com/album/0CUa2QjWUmQ65ayWwHoa4W) | 3:14 | 2020-12-02 |  |
+| [Breathe](https://open.spotify.com/track/2Y79S1WsgBZbCC3BJi1Z01) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Forgive Me \- The 3rd Mini Album](https://open.spotify.com/album/0vufEpmNpfB9NUPLkbIBN7) | 3:13 | 2022-11-24 |  |
 | [BUMP BUMP!](https://open.spotify.com/track/1tp2j8hlvjF1AfbalU6qvI) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4), [VERBAL](https://open.spotify.com/artist/6eyG54lvijivzcKqSjZTtB) | [IDENTITY](https://open.spotify.com/album/1OratIVYQdiMHffTOtnv4j) | 4:01 | 2020-12-02 |  |
 | [Butterfly](https://open.spotify.com/track/6bnf1RbzUaHRBogKfKme47) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Starry Night \- The 2nd Mini Album](https://open.spotify.com/album/0CUa2QjWUmQ65ayWwHoa4W) | 3:33 | 2020-12-02 |  |
 | [Call my name](https://open.spotify.com/track/6Z6DqvCo8pX43VVpme5XcS) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Message/Call my name](https://open.spotify.com/album/0XsIS678Sk3jhoFtOqCVLg) | 3:42 | 2020-12-02 |  |
@@ -42,6 +44,7 @@
 | [EVERYBODY KNOWS](https://open.spotify.com/track/3nts3JEnWM8CIhcsKahCvC) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [ONE SHOT, TWO SHOT \- The 1st Mini Album](https://open.spotify.com/album/04gRvDvXy6ctlFxI3G7Wd5) | 3:36 | 2020-12-02 |  |
 | [Feedback](https://open.spotify.com/track/61oYciDSVO6OvOqZf9TVPV) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4), [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB) | [Feedback](https://open.spotify.com/album/2mZVQE5xkotAwHEqLySr0h) | 3:19 | 2020-12-02 |  |
 | [First Time](https://open.spotify.com/track/5y2OdzPeFn06dnWGJLnn0Y) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [WHO'S BACK?](https://open.spotify.com/album/1HdNlqFSppUorSoYQeOcBu) | 3:45 | 2020-12-02 |  |
+| [Forgive Me](https://open.spotify.com/track/4TXo3KpvdwHSdrPJlWDfgn) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Forgive Me \- The 3rd Mini Album](https://open.spotify.com/album/0vufEpmNpfB9NUPLkbIBN7) | 2:48 | 2022-11-24 |  |
 | [Fox](https://open.spotify.com/track/50E7JEHhsqk3resRnYNcLk) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Kiss My Lips \- The 8th Album](https://open.spotify.com/album/0SmJjNGEXCMp5bTGbxmjyy) | 3:58 | 2020-12-02 |  |
 | [Girls On Top](https://open.spotify.com/track/5AjjiajghftDZd5qO5YRCQ) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Girls On Top](https://open.spotify.com/album/67YeE0goB48IGXMrlv50D6) | 3:38 | 2020-12-02 |  |
 | [Girls On Top](https://open.spotify.com/track/5CwcXW9AxmWZ5jFMl1HtQx) | [SMTOWN](https://open.spotify.com/artist/49VtaZvoqBgZHQxSqlCUyp) | [Sm Best Album 3, Vol\. 3](https://open.spotify.com/album/1OgGpsVaGKxnOrjEq9hom9) | 3:37 | 2020-12-02 | 2022-07-29 |
@@ -53,6 +56,7 @@
 | [Hey Boy,Hey Girl](https://open.spotify.com/track/7zuKKxwcxaeGPrhKoNWdMP) | [SEAMO](https://open.spotify.com/artist/1txC4MvuCHFRrtRiy4cwnR), [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [THE FACE](https://open.spotify.com/album/4ZNyTzXd57hAU87bb4yGCV) | 3:47 | 2020-12-02 |  |
 | [Home](https://open.spotify.com/track/1ocWjp09kFdbQy2oDdxJIb) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Kiss My Lips \- The 8th Album](https://open.spotify.com/album/0SmJjNGEXCMp5bTGbxmjyy) | 3:36 | 2020-12-02 |  |
 | [Honey & Diamonds](https://open.spotify.com/track/4egcGWDGRI343eOYbdXhpS) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [BETTER \- The 10th Album](https://open.spotify.com/album/3YXfuI3E6OxcrtXnjAgNkM) | 3:54 | 2020-12-02 |  |
+| [Hope](https://open.spotify.com/track/1dGqOXLgvuJK8nRI5sM7op) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Forgive Me \- The 3rd Mini Album](https://open.spotify.com/album/0vufEpmNpfB9NUPLkbIBN7) | 3:25 | 2022-11-24 |  |
 | [Hurricane Venus](https://open.spotify.com/track/2lmk1MaysnnDt4ct8M60Vr) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Hurricane Venus \- The 6th Album](https://open.spotify.com/album/2yUPfOMfABqMtTAc7p4Us2) | 3:10 | 2020-12-02 |  |
 | [I Don't Mind](https://open.spotify.com/track/5ffHoSTXIRq9ZOPdxZzUkh) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Starry Night \- The 2nd Mini Album](https://open.spotify.com/album/0CUa2QjWUmQ65ayWwHoa4W) | 3:21 | 2020-12-02 |  |
 | [ID; Peace B](https://open.spotify.com/track/5rvP5mbQ48itt4dtosn9Yf) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [ID;Peace B \- The 1st Album](https://open.spotify.com/album/1cXbNduXaQp1NqV6EvgHFx) | 3:58 | 2020-12-02 |  |
@@ -87,6 +91,7 @@
 | [Only One](https://open.spotify.com/track/3Hyl7YrOtBcnh1geON2kSO) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Only One \- The 7th Album](https://open.spotify.com/album/54xacjSt0jd9cELJc2j7UR) | 3:37 | 2020-12-02 |  |
 | [Possibility \- duet with 三浦大知](https://open.spotify.com/track/7JZVVou5Ql9v9H4he1OggE) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4), [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ) | [IDENTITY](https://open.spotify.com/album/1OratIVYQdiMHffTOtnv4j) | 4:06 | 2020-12-02 |  |
 | [Shout It Out](https://open.spotify.com/track/1mmcvCZqX24iy4iVrpKu6Y) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [WHO'S BACK?](https://open.spotify.com/album/1HdNlqFSppUorSoYQeOcBu) | 4:00 | 2020-12-02 |  |
+| [Sketch](https://open.spotify.com/track/2DTHncAFgwkjthX1TOvvzX) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Forgive Me \- The 3rd Mini Album](https://open.spotify.com/album/0vufEpmNpfB9NUPLkbIBN7) | 2:54 | 2022-11-24 |  |
 | [Spark](https://open.spotify.com/track/6QCeHBgTZPLqF6mdgh3rgp) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [My Name \- The 4th Album](https://open.spotify.com/album/3VoUpjkRS6bVaGOjSZgZyy) | 3:15 | 2020-12-02 |  |
 | [Spring Rain](https://open.spotify.com/track/7lSsi84E0g6QDGyDY1j5y6) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Spring Rain \- SM STATION](https://open.spotify.com/album/7olAhWsexMgcvhLfxeJuGC) | 3:37 | 2020-12-02 |  |
 | [Starry Night](https://open.spotify.com/track/1CyH9zoX9abqsa3xPrVUsn) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Starry Night \- The 2nd Mini Album](https://open.spotify.com/album/0CUa2QjWUmQ65ayWwHoa4W) | 3:30 | 2020-12-02 |  |
@@ -106,6 +111,7 @@
 | [Winter Love](https://open.spotify.com/track/4M3wUm1wL2zAiz9ehLXiZ5) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [MADE IN TWENTY\(20\)](https://open.spotify.com/album/0F9dZ8Cdm6Rr5tXkAZvW45) | 5:41 | 2020-12-02 |  |
 | [Woman](https://open.spotify.com/track/14rpBBTV0qi60Ex4jonuNi) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [WOMAN \- The 9th Album](https://open.spotify.com/album/68AStxkvhmfQv3A1qdW8CP) | 2:50 | 2020-12-02 |  |
 | [WOO WEEKEND](https://open.spotify.com/track/2zUCj6qgmyoHejf1uCaA9n) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [WHO'S BACK?](https://open.spotify.com/album/1HdNlqFSppUorSoYQeOcBu) | 3:54 | 2020-12-02 |  |
+| [ZIP](https://open.spotify.com/track/0IaT9XnG72sPXvUAsYdEzC) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Forgive Me \- The 3rd Mini Album](https://open.spotify.com/album/0vufEpmNpfB9NUPLkbIBN7) | 3:16 | 2022-11-24 |  |
 | [ありがとうサヨナラ](https://open.spotify.com/track/5om83SOkvb4wS8EXr3RRzZ) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [私このままでいいのかな](https://open.spotify.com/album/3aubaYePHVY5rQVtpUwf1y) | 3:22 | 2020-12-02 |  |
 | [まもりたい 〜White Wishes〜](https://open.spotify.com/track/06LeI3zQCfI9uhWyzWrME4) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [IDENTITY](https://open.spotify.com/album/1OratIVYQdiMHffTOtnv4j) | 3:30 | 2020-12-02 |  |
 | [コノヨノシルシ](https://open.spotify.com/track/1r90XF2BhACwBhXprZQu22) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [BEST OF SOUL](https://open.spotify.com/album/0gxS6h33HGI5jEAgcMsTWA) | 3:43 | 2020-12-02 |  |

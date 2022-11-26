@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "Mothership (Remastered)",
+        "url": "https://open.spotify.com/album/4wExFfncaUIqSgoxnqa3Eh"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2021-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 355893,
+      "name": "All My Love - Remaster",
+      "url": "https://open.spotify.com/track/5UdShl12E6eHEgS8lQ1bPr"
+    },
+    {
+      "album": {
         "name": "Hot Fuss",
         "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
       },
@@ -185,6 +203,24 @@
       "duration_ms": 245693,
       "name": "Beautiful Boy (Darling Boy) - Remastered 2010",
       "url": "https://open.spotify.com/track/5URfZHMlUWTWxPvvSBWcPk"
+    },
+    {
+      "album": {
+        "name": "The Best Of 1990-2000",
+        "url": "https://open.spotify.com/album/5I099NUhbRrXaxnxQagElv"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2021-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 244866,
+      "name": "Beautiful Day",
+      "url": "https://open.spotify.com/track/5t514bZ4eZPtKJbKfuZJCA"
     },
     {
       "album": {
@@ -386,6 +422,24 @@
     },
     {
       "album": {
+        "name": "Paseo en carretera (copiloto rockero)",
+        "url": "https://open.spotify.com/album/6FQmm8uBrUtEmXerEnGS6k"
+      },
+      "artists": [
+        {
+          "name": "Steppenwolf",
+          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 216693,
+      "name": "Born To Be Wild - Single Version",
+      "url": "https://open.spotify.com/track/2ZN5ytD7neLqYNTt2ROv67"
+    },
+    {
+      "album": {
         "name": "Blue Hawaii",
         "url": "https://open.spotify.com/album/7xe8VI48TxUpU1IIo0RfGi"
       },
@@ -491,6 +545,24 @@
       "duration_ms": 259946,
       "name": "Come Together - Remastered 2009",
       "url": "https://open.spotify.com/track/2EqlS6tkEnglzr7tkKAAYD"
+    },
+    {
+      "album": {
+        "name": "1 (Remastered)",
+        "url": "https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 258693,
+      "name": "Come Together - Remastered 2015",
+      "url": "https://open.spotify.com/track/3CEFDHJSiERlfwRujZ1CkJ"
     },
     {
       "album": {
@@ -1070,6 +1142,24 @@
     },
     {
       "album": {
+        "name": "Live Forever",
+        "url": "https://open.spotify.com/album/6iRlMwKBc2sGWXU3YdnzSb"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2021-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 276866,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/2txVTsXqTNbBbeFLxTBvC2"
+    },
+    {
+      "album": {
         "name": "Definitely Maybe",
         "url": "https://open.spotify.com/album/4wXjHwpYza7sCw1vKKSfOm"
       },
@@ -1214,6 +1304,24 @@
     },
     {
       "album": {
+        "name": "Yacht Rock Classics",
+        "url": "https://open.spotify.com/album/5GM9YXSwam3xB1SP6KKjQC"
+      },
+      "artists": [
+        {
+          "name": "Boston",
+          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 285133,
+      "name": "More Than a Feeling",
+      "url": "https://open.spotify.com/track/2s6OFCwx6qahq9vNIDhwxa"
+    },
+    {
+      "album": {
         "name": "Boston",
         "url": "https://open.spotify.com/album/01OahkTPRCleDjobtRk7ST"
       },
@@ -1299,7 +1407,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 212706,
-      "name": "One Way Or Another - Remastered/2001",
+      "name": "One Way Or Another - Remastered 2001",
       "url": "https://open.spotify.com/track/5Th6EdNVhxp0TPX41ZLZk6"
     },
     {
@@ -1413,6 +1521,24 @@
       "duration_ms": 269360,
       "name": "Rebel Rebel - 1999 Remaster",
       "url": "https://open.spotify.com/track/66lOpKgTyFjOrac4S1s94g"
+    },
+    {
+      "album": {
+        "name": "ChangesOneBowie",
+        "url": "https://open.spotify.com/album/3aGkjugjzDWaETRbbRafoF"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 273680,
+      "name": "Rebel Rebel - 2016 Remaster",
+      "url": "https://open.spotify.com/track/1zESgGfpyvocCGZexz3jQL"
     },
     {
       "album": {
@@ -1978,6 +2104,24 @@
     },
     {
       "album": {
+        "name": "Queen 40 Limited Edition Collector's Box Set Vol. 2",
+        "url": "https://open.spotify.com/album/1PpNIByYpOjEhXhX6JT4AL"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2021-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 122066,
+      "name": "We Will Rock You - Remastered 2011",
+      "url": "https://open.spotify.com/track/1jmX5Dojaopg8DT05Mw5Ig"
+    },
+    {
+      "album": {
         "name": "News Of The World (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/6Di4m5k1BtMJ0R44bWNutu"
       },
@@ -2011,6 +2155,24 @@
       "duration_ms": 140178,
       "name": "We're Going to Be Friends",
       "url": "https://open.spotify.com/track/13lZDbwonGhOflQLQIfdtZ"
+    },
+    {
+      "album": {
+        "name": "Jack White Acoustic Recordings 1998 - 2016",
+        "url": "https://open.spotify.com/album/3l24qLlYLoDqHskryiTioU"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2021-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 141613,
+      "name": "We're Going To Be Friends",
+      "url": "https://open.spotify.com/track/4bvLZBIbxKdB1KYklOc9pr"
     },
     {
       "album": {

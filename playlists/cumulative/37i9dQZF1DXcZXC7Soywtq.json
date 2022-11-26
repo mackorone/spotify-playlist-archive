@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "\u0645\u0644\u062a\u0642\u064a \u0623\u0635\u0648\u0627\u062a \u0627\u0644\u0646\u0633\u0627\u0621 \u0627\u0644\u0639\u0631\u0628\u064a\u0627\u062a! \u0627\u0644\u063a\u0644\u0627\u0641: \u0623\u0635\u064a\u0644 \u0647\u0645\u064a\u0645\n",
+  "description": "\u0645\u0644\u062a\u0642\u064a \u0623\u0635\u0648\u0627\u062a \u0627\u0644\u0646\u0633\u0627\u0621 \u0627\u0644\u0639\u0631\u0628\u064a\u0627\u062a! \u0627\u0644\u063a\u0644\u0627\u0641: \u0633\u0645\u064a\u0631\u0629 \u0633\u0639\u064a\u062f\n",
   "name": "\u0645\u0644\u0643\u0627\u062a \u0627\u0644\u0639\u0627\u0644\u0645 \u0627\u0644\u0639\u0631\u0628\u064a",
   "published_playlist_ids": [
     "4sPCQKTRNsZk6fb72kPu7x"
@@ -116,6 +116,24 @@
     },
     {
       "album": {
+        "name": "Aal Hob Rooh w Sallimli",
+        "url": "https://open.spotify.com/album/0M5qhGTUrD1KSN7cHIRGUt"
+      },
+      "artists": [
+        {
+          "name": "Nesreen Tafesh",
+          "url": "https://open.spotify.com/artist/4e4G7w1BJQ3qpfpsKf6wg2"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 206832,
+      "name": "Aal Hob Rooh w Sallimli",
+      "url": "https://open.spotify.com/track/0RUDIa4tOnST24USIXuyyV"
+    },
+    {
+      "album": {
         "name": "Aal Hob Rooh W Sallimli",
         "url": "https://open.spotify.com/album/78KVbthYIQhnsTksWTaHQ2"
       },
@@ -163,7 +181,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": "2022-11-13",
       "duration_ms": 198000,
       "name": "Ahki Maa Hali",
       "url": "https://open.spotify.com/track/2wiS0tTZ5QXJLZPdpg4QX9"
@@ -487,7 +505,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 236571,
       "name": "Baheb Maak",
       "url": "https://open.spotify.com/track/6u87eCMHElMpOF9XREyIQk"
@@ -1261,7 +1279,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 246341,
       "name": "Ghyabe Wagaak",
       "url": "https://open.spotify.com/track/1XePTZCLsOggdc8ABNl81J"
@@ -1967,7 +1985,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-22",
+      "date_removed": "2022-11-13",
       "duration_ms": 272727,
       "name": "Ma vie en rose",
       "url": "https://open.spotify.com/track/715kOmrDKM2vM0szYl2Ba4"
@@ -2057,7 +2075,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 264257,
       "name": "Mangelaksh Fe Haga Wehsha",
       "url": "https://open.spotify.com/track/3UQjEjar8JoOUwXpGz4ysa"
@@ -2763,10 +2781,50 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-30",
       "duration_ms": 218666,
       "name": "Ya Badr",
       "url": "https://open.spotify.com/track/0LxF8rJoGMmMfqgMd6B4wj"
+    },
+    {
+      "album": {
+        "name": "Ya Badr",
+        "url": "https://open.spotify.com/album/1vkNseVEiLz4nVj2KTmLUM"
+      },
+      "artists": [
+        {
+          "name": "Dina El Wedidi",
+          "url": "https://open.spotify.com/artist/4dejJ4Gg0YVjWRUdfpF3yA"
+        },
+        {
+          "name": "DJ Totti",
+          "url": "https://open.spotify.com/artist/6sm3nTKVNrdKN3iAo73oda"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218666,
+      "name": "Ya Badr",
+      "url": "https://open.spotify.com/track/2ZRHkBhXbvjqY7AX9o67JC"
+    },
+    {
+      "album": {
+        "name": "Ya Bakhty Beh",
+        "url": "https://open.spotify.com/album/0tFBtGwjlCel82hP0xN1hy"
+      },
+      "artists": [
+        {
+          "name": "Jannat",
+          "url": "https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195535,
+      "name": "Ya Bakhty Beh",
+      "url": "https://open.spotify.com/track/1CEYTW1P2mKpZgxouGDw8f"
     },
     {
       "album": {
@@ -2907,7 +2965,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 177000,
       "name": "Yalli Maadi",
       "url": "https://open.spotify.com/track/5EE4bsbQ0UuAMkoQbnZv5a"
@@ -2929,6 +2987,24 @@
       "duration_ms": 176905,
       "name": "Yally Meady",
       "url": "https://open.spotify.com/track/37eQa1cPMxdi79ovEElCbc"
+    },
+    {
+      "album": {
+        "name": "YAMMI",
+        "url": "https://open.spotify.com/album/7D7510MFKUTrZN96Ax5uvl"
+      },
+      "artists": [
+        {
+          "name": "Samira Said",
+          "url": "https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171230,
+      "name": "YAMMI",
+      "url": "https://open.spotify.com/track/1QHZJihSD4Ks6yNOaUJBVe"
     },
     {
       "album": {
@@ -3185,7 +3261,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 255668,
       "name": "\u062d\u0646\u064a\u062a",
       "url": "https://open.spotify.com/track/0PlZwDn5oZ7cRpwpkJkr8R"
@@ -3369,6 +3445,24 @@
       "duration_ms": 168465,
       "name": "\u0645\u0633\u064a\u0637\u0631\u0647",
       "url": "https://open.spotify.com/track/4hFNqLwpBM1WoaxrgEForT"
+    },
+    {
+      "album": {
+        "name": "\u0645\u063a\u0631\u0648\u0645\u0629 \u0628\u0645\u064a\u0646",
+        "url": "https://open.spotify.com/album/4HQ1AeGjuScD19ns8f67uM"
+      },
+      "artists": [
+        {
+          "name": "Carole Samaha",
+          "url": "https://open.spotify.com/artist/0CSSBwiYmYF569NxdQedQ3"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191927,
+      "name": "\u0645\u063a\u0631\u0648\u0645\u0629 \u0628\u0645\u064a\u0646",
+      "url": "https://open.spotify.com/track/3fLW5dX5FfnZ2g3Rmp4Cpr"
     },
     {
       "album": {

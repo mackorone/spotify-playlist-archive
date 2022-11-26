@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "La playlist id\u00e9ale pour vos f\u00eates cette ann\u00e9e! Photo: Alexandra Streliski",
+  "description": "La playlist id\u00e9ale pour vos f\u00eates cette ann\u00e9e! ",
   "name": "No\u00ebl, No\u00ebl, No\u00ebl",
   "published_playlist_ids": [
     "0SxZxNJ9FKXL8tKafplut8"
@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "No\u00ebl Fran\u00e7aise",
+        "url": "https://open.spotify.com/album/1pzCdYBct3TOxLDPDTCqgF"
+      },
+      "artists": [
+        {
+          "name": "Beau Dommage",
+          "url": "https://open.spotify.com/artist/2cdnxq3gRcJudFLmWhDTQp"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 137640,
+      "name": "23 Decembre - 2008 Digital Remaster",
+      "url": "https://open.spotify.com/track/2TELDK7mphrSirin7JLNYi"
+    },
+    {
+      "album": {
         "name": "Le Rythme de No\u00ebl",
         "url": "https://open.spotify.com/album/4sQqmvczfwEgV1fCirUCYT"
       },
@@ -41,6 +59,24 @@
       "duration_ms": 136746,
       "name": "23 d\u00e9cembre",
       "url": "https://open.spotify.com/track/5rLIykWwyP4LJeH1UFYi75"
+    },
+    {
+      "album": {
+        "name": "Cosy Christmas Tunes",
+        "url": "https://open.spotify.com/album/7IrygJtjkpJj6z7lWm0vAr"
+      },
+      "artists": [
+        {
+          "name": "Burl Ives",
+          "url": "https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 133839,
+      "name": "A Holly Jolly Christmas",
+      "url": "https://open.spotify.com/track/25ZZFXh8j7299tDrcRFXZv"
     },
     {
       "album": {
@@ -109,7 +145,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 184853,
       "name": "All I Want For Christmas Is You",
       "url": "https://open.spotify.com/track/6r7dQe9qCH3ag5orO2WnJw"
@@ -242,6 +278,24 @@
     },
     {
       "album": {
+        "name": "Au Royaume de Bonhomme Hiver",
+        "url": "https://open.spotify.com/album/0bWkK8GLsvjOaawg6LFd85"
+      },
+      "artists": [
+        {
+          "name": "Carol Welsman",
+          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 151594,
+      "name": "Au Royaume de Bonhomme Hiver",
+      "url": "https://open.spotify.com/track/3xzjWsVxspvyGefnsPlUn9"
+    },
+    {
+      "album": {
         "name": "C'est l'hiver",
         "url": "https://open.spotify.com/album/1QSJ7lhyUQcQ2dV5bEHdPl"
       },
@@ -353,7 +407,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 166146,
-      "name": "Baby It's Cold Outside (duet with Michael Bubl\u00e9)",
+      "name": "Baby It's Cold Outside (with Michael Bubl\u00e9)",
       "url": "https://open.spotify.com/track/0Ie5uiv54KgCr7P4sYDTHl"
     },
     {
@@ -463,7 +517,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 206226,
       "name": "Bonjour, No\u00ebl!",
       "url": "https://open.spotify.com/track/4LkwLFS4dwvFxU06IUFMbY"
@@ -485,6 +539,24 @@
       "duration_ms": 191600,
       "name": "Bons baisers de Fort de France",
       "url": "https://open.spotify.com/track/1qWbqrU5pC9gsPcxtn3ZMw"
+    },
+    {
+      "album": {
+        "name": "Les plus belles chansons de La Compagnie Cr\u00e9ole",
+        "url": "https://open.spotify.com/album/5Pj2OMZaoKh5ez9hFLpnR1"
+      },
+      "artists": [
+        {
+          "name": "La Compagnie Cr\u00e9ole",
+          "url": "https://open.spotify.com/artist/4GFqys2YA5hdCl4P2pdX3h"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 189600,
+      "name": "Bons baisers de Fort-De-France",
+      "url": "https://open.spotify.com/track/79i8YVf6LzRJ9kGaCCyofu"
     },
     {
       "album": {
@@ -805,7 +877,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 252222,
       "name": "Christmas Ain't Enough",
       "url": "https://open.spotify.com/track/6VxjrRPMV0OUXIsKatkusi"
@@ -845,7 +917,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": "2022-11-12",
       "duration_ms": 264277,
       "name": "Christmas Calling (en duo avec Marie-Mai) (v.f.)",
       "url": "https://open.spotify.com/track/62Pil5FPefGmHVmw5C21ch"
@@ -943,6 +1015,24 @@
       "duration_ms": 242495,
       "name": "Christmas Lights",
       "url": "https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL"
+    },
+    {
+      "album": {
+        "name": "Christmas on My Mind",
+        "url": "https://open.spotify.com/album/74wMlK9OHpQVJrFOmGsmMD"
+      },
+      "artists": [
+        {
+          "name": "Elliot Maginot",
+          "url": "https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227368,
+      "name": "Christmas on My Mind",
+      "url": "https://open.spotify.com/track/4fF3Vo7XYnHFXvyWD7sv2k"
     },
     {
       "album": {
@@ -1051,6 +1141,24 @@
       "duration_ms": 229453,
       "name": "Do They Know It's Christmas?",
       "url": "https://open.spotify.com/track/6Z7nSvnAhMasviVPmdEZKC"
+    },
+    {
+      "album": {
+        "name": "Christmas Rock Music",
+        "url": "https://open.spotify.com/album/7abCyFIJQ5R85d1O6pBrfe"
+      },
+      "artists": [
+        {
+          "name": "Band Aid",
+          "url": "https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 221560,
+      "name": "Do They Know It's Christmas? - 1984 Version",
+      "url": "https://open.spotify.com/track/7IbB9ccl3nkSGof0K5tMd2"
     },
     {
       "album": {
@@ -1180,6 +1288,24 @@
     },
     {
       "album": {
+        "name": "Weihnachtslieder zum Kochen",
+        "url": "https://open.spotify.com/album/3YBEFjNxVfvKwKGnQJqxza"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Feliciano",
+          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 182066,
+      "name": "Feliz Navidad",
+      "url": "https://open.spotify.com/track/5lZgpy1koAXPoB6OIQf1Gg"
+    },
+    {
+      "album": {
         "name": "The Definite Best",
         "url": "https://open.spotify.com/album/4E8tfxh5YBsHLtTHA1tMTv"
       },
@@ -1294,6 +1420,54 @@
     },
     {
       "album": {
+        "name": "No\u00ebl 2020",
+        "url": "https://open.spotify.com/album/0gbWx46O7msHBOfp6fYSkk"
+      },
+      "artists": [
+        {
+          "name": "Lara Fabian",
+          "url": "https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20"
+        },
+        {
+          "name": "Marc Dupr\u00e9",
+          "url": "https://open.spotify.com/artist/6JhWoD4lxBqIkSYfhrWMDx"
+        },
+        {
+          "name": "\u00c9ric Lapointe",
+          "url": "https://open.spotify.com/artist/3fzExoQtGmGs8w7ba2nTJc"
+        },
+        {
+          "name": "Alex Nevsky",
+          "url": "https://open.spotify.com/artist/0SIFfM1SbfMzDXpzZZ8PVc"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 152426,
+      "name": "For Me\u2026 formidable",
+      "url": "https://open.spotify.com/track/7j0LYhzwJ5E5g2vBs9hWUh"
+    },
+    {
+      "album": {
+        "name": "Holiday 2020",
+        "url": "https://open.spotify.com/album/23UAHj0aCS6hTsEcV2hDaW"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 131733,
+      "name": "Frosty The Snowman",
+      "url": "https://open.spotify.com/track/5RLrpUxEjyjkBPsWR2QysQ"
+    },
+    {
+      "album": {
         "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
         "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
       },
@@ -1327,6 +1501,32 @@
       "duration_ms": 133773,
       "name": "Frosty The Snowman",
       "url": "https://open.spotify.com/track/6MPpnJDLk37GEIM0iGGITd"
+    },
+    {
+      "album": {
+        "name": "Cozy Christmas",
+        "url": "https://open.spotify.com/album/4qMWHviG4RoJGal19Kvh0M"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        },
+        {
+          "name": "The Plastic Ono Band",
+          "url": "https://open.spotify.com/artist/4m2kfAHEnK7Z7qLGxeWtro"
+        },
+        {
+          "name": "The Harlem Community Choir",
+          "url": "https://open.spotify.com/artist/0vneleczrRRNPF1vj0x0vy"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 212040,
+      "name": "Happy Xmas (War Is Over)",
+      "url": "https://open.spotify.com/track/0MV4MLZVeP4JvYVt3djxOX"
     },
     {
       "album": {
@@ -1469,7 +1669,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 278946,
       "name": "I Wish It Could Be Christmas Everyday",
       "url": "https://open.spotify.com/track/1mH6tZC6iXIHPI6EixCwxw"
@@ -1617,7 +1817,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 193413,
       "name": "J'ai vu maman",
       "url": "https://open.spotify.com/track/7C2rBix360wLA61Al61APh"
@@ -1682,6 +1882,28 @@
     },
     {
       "album": {
+        "name": "No\u00ebl \u00e0 deux",
+        "url": "https://open.spotify.com/album/0r6b4y7D20hyhozvOci7nv"
+      },
+      "artists": [
+        {
+          "name": "Marie Eve Janvier",
+          "url": "https://open.spotify.com/artist/3jfG98eZ52LwCzKNfa9Nch"
+        },
+        {
+          "name": "Jean-Fran\u00e7ois Breau",
+          "url": "https://open.spotify.com/artist/6TQdhArWgJCZTAHu9V2gdu"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 196295,
+      "name": "Je t'offre mon c\u0153ur",
+      "url": "https://open.spotify.com/track/5e9Rr0cC3a6zs04w7a4RFs"
+    },
+    {
+      "album": {
         "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
         "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
       },
@@ -1715,6 +1937,24 @@
       "duration_ms": 131546,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/2wCPMWR3y4xclijuCcLJv7"
+    },
+    {
+      "album": {
+        "name": "Natale 2020",
+        "url": "https://open.spotify.com/album/000t7Ge3vazfHDgDwYV8dZ"
+      },
+      "artists": [
+        {
+          "name": "Bobby Helms",
+          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 130973,
+      "name": "Jingle Bell Rock - Single Version",
+      "url": "https://open.spotify.com/track/0t97lL3ZMyuxbABB0dgYhf"
     },
     {
       "album": {
@@ -1805,7 +2045,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 147080,
       "name": "Joyeux no\u00ebl et bonne ann\u00e9e",
       "url": "https://open.spotify.com/track/10chugYLrW9d5HzLcpm0w2"
@@ -1827,6 +2067,24 @@
       "duration_ms": 180041,
       "name": "Joyeux No\u00ebl \u00e0 toi mon coeur",
       "url": "https://open.spotify.com/track/7hXETOkibmEro2iXlmaIhg"
+    },
+    {
+      "album": {
+        "name": "Sainte Nuit",
+        "url": "https://open.spotify.com/album/6EZsh8EPb6Hckb4Gi5D0Cc"
+      },
+      "artists": [
+        {
+          "name": "Johanne Blouin",
+          "url": "https://open.spotify.com/artist/1f8PCpHKhzkLb2y7wnijjd"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174866,
+      "name": "L'enfant au tambour",
+      "url": "https://open.spotify.com/track/1xN0wrHJula3KfpgAs7eVc"
     },
     {
       "album": {
@@ -2152,6 +2410,24 @@
     },
     {
       "album": {
+        "name": "It's Magic !",
+        "url": "https://open.spotify.com/album/4IXbtanyMTYwRtM3NnzJYH"
+      },
+      "artists": [
+        {
+          "name": "Garou",
+          "url": "https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 158826,
+      "name": "Le bonhomme de neige",
+      "url": "https://open.spotify.com/track/25fHCdVi19d8M8peXUtA3a"
+    },
+    {
+      "album": {
         "name": "Xmas Blues",
         "url": "https://open.spotify.com/album/1fa1AicDFzi44PwRJK0IVP"
       },
@@ -2369,7 +2645,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 152134,
       "name": "Le P\u00e8re No\u00ebl c't'un qu\u00e9b\u00e9cois",
       "url": "https://open.spotify.com/track/50UiWq1BJChAKQ0nhXl88O"
@@ -2441,7 +2717,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 186376,
       "name": "Le sentier de neige",
       "url": "https://open.spotify.com/track/0wj09A1u592qYVeOYJYaji"
@@ -2503,6 +2779,24 @@
       "duration_ms": 177586,
       "name": "Les soeurs crevette",
       "url": "https://open.spotify.com/track/1ELX43S4uTTUavCNWQ1Bgx"
+    },
+    {
+      "album": {
+        "name": "Christmas Hits (Le pi\u00f9 belle melodie di Natale)",
+        "url": "https://open.spotify.com/album/2nqEvAeRRLZo8GZHG6M0Ta"
+      },
+      "artists": [
+        {
+          "name": "Coro e solisti di Offegna",
+          "url": "https://open.spotify.com/artist/6F4jR8Izn97hzu2Vk8su88"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 156502,
+      "name": "Let It Snow",
+      "url": "https://open.spotify.com/track/3KlE3KONZwdK4rXxzlCD7i"
     },
     {
       "album": {
@@ -2655,7 +2949,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 221293,
       "name": "Maman, Papa",
       "url": "https://open.spotify.com/track/5SfR5iR5KLfWIyRxDa99ns"
@@ -2761,6 +3055,28 @@
       "duration_ms": 208546,
       "name": "Merry Christmas",
       "url": "https://open.spotify.com/track/3bH2Eu9A9ymI4UnGHRmoXg"
+    },
+    {
+      "album": {
+        "name": "Family Christmas",
+        "url": "https://open.spotify.com/album/6Qqq1nymtanZY6ILleDZpO"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 208546,
+      "name": "Merry Christmas",
+      "url": "https://open.spotify.com/track/5SFvJnEwfkm6a96A73XTa6"
     },
     {
       "album": {
@@ -2901,7 +3217,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": "2022-11-12",
       "duration_ms": 189666,
       "name": "Mon Beau Sapin",
       "url": "https://open.spotify.com/track/11hdqrF9lIy8OaoRxGVuYf"
@@ -3197,10 +3513,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 255327,
       "name": "No\u00ebl brun",
       "url": "https://open.spotify.com/track/3b27vkCsStP9LIAiRWa8bj"
+    },
+    {
+      "album": {
+        "name": "No\u00ebl c'est l'amour",
+        "url": "https://open.spotify.com/album/1rBndYStrSp2EztKPUI4hh"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e8le Arsenault",
+          "url": "https://open.spotify.com/artist/5CuuZ2ZYcRmrb40SLP3nTe"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 185704,
+      "name": "No\u00ebl c'est l'amour",
+      "url": "https://open.spotify.com/track/1aUn8DVuCk3CqyX46cepkS"
     },
     {
       "album": {
@@ -3601,7 +3935,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 202962,
       "name": "No\u00ebl ensemble",
       "url": "https://open.spotify.com/track/7tCtp4xw5vvXqM7UrlRrQD"
@@ -3844,6 +4178,24 @@
     },
     {
       "album": {
+        "name": "No\u00ebl sur la 40",
+        "url": "https://open.spotify.com/album/3AbtsGf9hJCS5ibXhqqduU"
+      },
+      "artists": [
+        {
+          "name": "Funambule",
+          "url": "https://open.spotify.com/artist/6XwCy7IIhLGlzxdjyNH4LE"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168360,
+      "name": "No\u00ebl sur la 40",
+      "url": "https://open.spotify.com/track/6qFElyl2Eidg58D6FYWvrU"
+    },
+    {
+      "album": {
         "name": "No\u00ebl sur Terre",
         "url": "https://open.spotify.com/album/223EBKe30FAE6NboeQpy3z"
       },
@@ -3889,7 +4241,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 189474,
       "name": "No\u00ebl tout blanc - D\u00e9cembre : le No\u00ebl de Qu\u00e9bec Issime",
       "url": "https://open.spotify.com/track/4jnuZMjF2nvBWTdA3MtTbX"
@@ -3907,7 +4259,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": "2022-11-15",
       "duration_ms": 233066,
       "name": "No\u00ebl \u00e0 J\u00e9rusalem",
       "url": "https://open.spotify.com/track/1Plw3Q3u83XBDH6Z2uSt79"
@@ -4156,6 +4508,24 @@
     },
     {
       "album": {
+        "name": "Classic Christmas Hits 2022",
+        "url": "https://open.spotify.com/album/7ILcxLRAchjzznQVoD0ESK"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 309386,
+      "name": "O Tannenbaum",
+      "url": "https://open.spotify.com/track/5IYTUm06pUdo1DHjtijVRW"
+    },
+    {
+      "album": {
         "name": "On attendait No\u00ebl",
         "url": "https://open.spotify.com/album/4WusiC2tPI65QpMbqUQ6GN"
       },
@@ -4189,6 +4559,24 @@
       "duration_ms": 239586,
       "name": "One More Sleep",
       "url": "https://open.spotify.com/track/78pn8k7RogKo2oxl0DyX6d"
+    },
+    {
+      "album": {
+        "name": "Parfait No\u00ebl",
+        "url": "https://open.spotify.com/album/75s3hI6IoIHTYEwY2v6P3y"
+      },
+      "artists": [
+        {
+          "name": "C\u0153ur De Pirate",
+          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242013,
+      "name": "Parfait No\u00ebl",
+      "url": "https://open.spotify.com/track/3MLbNzADggPivatXQneiHw"
     },
     {
       "album": {
@@ -4275,7 +4663,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 179160,
       "name": "Please Come Home For Christmas",
       "url": "https://open.spotify.com/track/4sXg2Nd58C4pQp9reilr2R"
@@ -4315,6 +4703,24 @@
       "duration_ms": 177440,
       "name": "Please Come Home for Christmas - 2013 Remaster",
       "url": "https://open.spotify.com/track/5WT7czkl5fzyFAdAFjAPmg"
+    },
+    {
+      "album": {
+        "name": "The Very Best of the Eagles (2013 Remaster)",
+        "url": "https://open.spotify.com/album/5J0VCIp4TTsZBKOqWdbBSa"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 177440,
+      "name": "Please Come Home for Christmas - 2013 Remaster",
+      "url": "https://open.spotify.com/track/60e4x4V1ElCjukbAteZdZn"
     },
     {
       "album": {
@@ -4654,7 +5060,7 @@
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 205266,
+      "duration_ms": 206539,
       "name": "Santa's Coming for Us",
       "url": "https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv"
     },
@@ -4751,10 +5157,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 168400,
       "name": "Six heures d'avion nous s\u00e9parent",
       "url": "https://open.spotify.com/track/5ZsUTZKuiU8dcZOBnUwDcp"
+    },
+    {
+      "album": {
+        "name": "Mistletoe",
+        "url": "https://open.spotify.com/album/7sKPWXzptrLG6Lt3HZXrds"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 175986,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/0JHDUV7GqkDz3vX8V7GJdc"
     },
     {
       "album": {
@@ -4806,7 +5230,7 @@
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 165906,
+      "duration_ms": 165900,
       "name": "Snowman",
       "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
     },
@@ -5108,6 +5532,24 @@
     },
     {
       "album": {
+        "name": "Christmas Songs",
+        "url": "https://open.spotify.com/album/0EpoPC0mlAGna8H08tkXoI"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 229640,
+      "name": "Underneath the Tree",
+      "url": "https://open.spotify.com/track/4R9DGZjme5DCgHlmLvXYkQ"
+    },
+    {
+      "album": {
         "name": "Joyeux No\u00ebl",
         "url": "https://open.spotify.com/album/3rXFr1d41AbHmCAl59aPwT"
       },
@@ -5177,6 +5619,24 @@
       "duration_ms": 140266,
       "name": "Voici le p\u00e8re No\u00ebl",
       "url": "https://open.spotify.com/track/7xndwWf5CYFfC3cN4KMhlV"
+    },
+    {
+      "album": {
+        "name": "We'll Be Alright",
+        "url": "https://open.spotify.com/album/4MEHD7eRexeF3cpIlauzM1"
+      },
+      "artists": [
+        {
+          "name": "dee holt",
+          "url": "https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134511,
+      "name": "We'll Be Alright",
+      "url": "https://open.spotify.com/track/4AXX2fes8GOdvuCUjadbmT"
     },
     {
       "album": {
@@ -5268,6 +5728,24 @@
     },
     {
       "album": {
+        "name": "Holidays Are Coming",
+        "url": "https://open.spotify.com/album/59CugdPue0ig1rBmTWJ2AB"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 225933,
+      "name": "Wonderful Christmastime",
+      "url": "https://open.spotify.com/track/5aj4UEKeW7T3eI4ETaN7Me"
+    },
+    {
+      "album": {
         "name": "Now That's What I Call Christmas",
         "url": "https://open.spotify.com/album/2S4v9bMfAM13mpnXYsgUAi"
       },
@@ -5315,7 +5793,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 189916,
       "name": "\u00c0 la fin d\u00e9cembre",
       "url": "https://open.spotify.com/track/3N46SoPdsLRzjAc5JVaPhV"

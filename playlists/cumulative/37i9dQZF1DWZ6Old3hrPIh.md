@@ -4,7 +4,7 @@
 
 > Presenting the queens of Coke Studio Pakistan\. Cover: Arooj Aftab
 
-71 songs - 8 hr 8 min - [published](https://open.spotify.com/playlist/5OPuv8t0U96mr43jJvOFgd)
+72 songs - 8 hr 16 min - [published](https://open.spotify.com/playlist/5OPuv8t0U96mr43jJvOFgd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Anbhol](https://open.spotify.com/track/2gir9LeSGzGVCheXQSF9Qq) | [Sanam Marvi](https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5) | [Anbhol](https://open.spotify.com/album/1yRMz8PbFkXrknB1DQ4DdK) | 8:14 | 2022-03-07 |  |
 | [Baazi](https://open.spotify.com/track/1jjwcee83tvrgLRcNUQNuD) | [Aima Baig](https://open.spotify.com/artist/2MNI4W0Pblx8NF4WvutxgA), [Sahir Ali Bagga](https://open.spotify.com/artist/4cxl9RcyEbY0koslSaEKLY) | [Coke Studio Season 10: Episode 3](https://open.spotify.com/album/61z99blDk5uZf5Im8xT4Lx) | 7:14 | 2022-03-07 | 2022-07-29 |
 | [Baazi](https://open.spotify.com/track/21jdKUCgXSukh8jRRxIObL) | [Aima Baig](https://open.spotify.com/artist/2MNI4W0Pblx8NF4WvutxgA), [Sahir Ali Bagga](https://open.spotify.com/artist/4cxl9RcyEbY0koslSaEKLY) | [Coke Studio Season 10 \- Episode 3](https://open.spotify.com/album/38RPDZ3avBF2kuw9K9SI3z) | 7:14 | 2022-03-07 |  |
+| [Baliye \(Laung Gawacha\)](https://open.spotify.com/track/0iPR8H2UgvQuKcU245NC5J) | [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q), [Haroon Shahid](https://open.spotify.com/artist/4OasZ0m66s8HZzsyQAYCGJ) | [Coke Studio: Season 9](https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ) | 7:34 | 2022-03-07 | 2022-11-13 |
 | [Baliye \(Laung Gawacha\)](https://open.spotify.com/track/7g0uleT45wucL3CAeWRVSx) | [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q), [Haroon Shahid](https://open.spotify.com/artist/4OasZ0m66s8HZzsyQAYCGJ), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Coke Studio: Season 9](https://open.spotify.com/album/1BFQiBnV2cxrw1WFsabMcL) | 7:34 | 2022-03-07 | 2022-07-29 |
 | [Baliye \(Laung Gawacha\) \[Coke Studio Season 9\]](https://open.spotify.com/track/63LTVXh5TujgeB202CbqGa) | [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q), [Haroon Shahid](https://open.spotify.com/artist/4OasZ0m66s8HZzsyQAYCGJ) | [Baliye \(Laung Gawacha\) \[Coke Studio Season 9\]](https://open.spotify.com/album/5GapIc38IFHkRJG7tjan1X) | 7:34 | 2022-03-07 |  |
 | [Beparwah](https://open.spotify.com/track/1BkYDk1hrLKkPi10OVSrhR) | [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV) | [Beparwah](https://open.spotify.com/album/5AntNs7eAxvw6zn9YZeP6J) | 4:32 | 2022-03-07 |  |

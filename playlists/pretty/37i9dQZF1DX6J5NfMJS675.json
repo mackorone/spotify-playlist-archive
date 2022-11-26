@@ -1,15 +1,319 @@
 {
   "description": "Welcome to the dark side of the club.",
-  "num_followers": 2024810,
+  "num_followers": 2070809,
   "original_name": "Techno Bunker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTE2MTYyMCwwMDAwMDAwMDA5NmEwNDg4MzRhN2Y5ZGM2MjFiMmY3Yzg3YmNiOTk3",
+  "snapshot_id": "MTY2OTM4NTI3MywwMDAwMDAwMGM3MzA3ZGVlY2NiNmJiMDcwZmM4ZTAyZjY5ZmNkYTg1",
   "tracks": [
     {
-      "added_at": "2022-10-07 16:53:40",
+      "added_at": "2022-11-25 14:07:52",
+      "album": {
+        "name": "Apollo EP",
+        "url": "https://open.spotify.com/album/6h4f0Fq4di449j06qjBt3O"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        }
+      ],
+      "duration_ms": 420684,
+      "name": "Apollo - Original Mix",
+      "url": "https://open.spotify.com/track/50OKS8aOeuiegMnJuPKUeN"
+    },
+    {
+      "added_at": "2022-11-25 14:07:52",
+      "album": {
+        "name": "The Captain",
+        "url": "https://open.spotify.com/album/0hc4lRGEKpOzSdd2KXZ47j"
+      },
+      "artists": [
+        {
+          "name": "HIJCKD",
+          "url": "https://open.spotify.com/artist/4oFuOElyTlMdZMXMQBSdVq"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "The Captain",
+      "url": "https://open.spotify.com/track/4NGwhkwJzROYFJKNFmFHus"
+    },
+    {
+      "added_at": "2022-11-25 14:07:52",
+      "album": {
+        "name": "Heute Nacht",
+        "url": "https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        }
+      ],
+      "duration_ms": 204444,
+      "name": "Heute Nacht",
+      "url": "https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH"
+    },
+    {
+      "added_at": "2022-11-25 14:07:52",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/61z68AIEA7ByGsgtUD9HEv"
+      },
+      "artists": [
+        {
+          "name": "Kaspar",
+          "url": "https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC"
+        }
+      ],
+      "duration_ms": 321777,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/3auek7MSZUmpBNdA8vArVL"
+    },
+    {
+      "added_at": "2022-11-25 14:07:52",
+      "album": {
+        "name": "Colonia EP",
+        "url": "https://open.spotify.com/album/3ICAjodGpPbA4VWC1CFYN0"
+      },
+      "artists": [
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        }
+      ],
+      "duration_ms": 234546,
+      "name": "Colonia",
+      "url": "https://open.spotify.com/track/0eJInRAV3YR0xRNGsk5Ty7"
+    },
+    {
+      "added_at": "2022-11-25 14:07:52",
+      "album": {
+        "name": "Sound Of Space EP",
+        "url": "https://open.spotify.com/album/0CW5qDbO13Ax7GxwWNaeUT"
+      },
+      "artists": [
+        {
+          "name": "Enrico Sangiuliano",
+          "url": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
+        }
+      ],
+      "duration_ms": 498461,
+      "name": "The Sound Of Space",
+      "url": "https://open.spotify.com/track/7CYS0ibZaJm201ZKonnqih"
+    },
+    {
+      "added_at": "2022-11-25 14:07:52",
+      "album": {
+        "name": "Pills (Deborah de Luca Remix)",
+        "url": "https://open.spotify.com/album/77SPhAF3TWsIn3Kc8z9cI3"
+      },
+      "artists": [
+        {
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+        },
+        {
+          "name": "ShortRound",
+          "url": "https://open.spotify.com/artist/1ujyB2Dmn2EFyVmjDBjGGK"
+        },
+        {
+          "name": "Deborah de Luca",
+          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
+        }
+      ],
+      "duration_ms": 351955,
+      "name": "Pills - Deborah de Luca Remix",
+      "url": "https://open.spotify.com/track/7kXnFFxdau1mKmTHs4CYt3"
+    },
+    {
+      "added_at": "2022-11-25 14:07:52",
+      "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/2gwA0bOrpxqNwx8zI9PzRT"
+      },
+      "artists": [
+        {
+          "name": "The YellowHeads",
+          "url": "https://open.spotify.com/artist/3SEw2qamdOWyVZtzKxWTTg"
+        },
+        {
+          "name": "HLGRMS",
+          "url": "https://open.spotify.com/artist/1EtIq8lnoAOKoVf8ryhcmQ"
+        }
+      ],
+      "duration_ms": 383471,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/6Rh7Z7HgjzxouMzlXMN75U"
+    },
+    {
+      "added_at": "2022-11-25 14:07:52",
+      "album": {
+        "name": "Mandala",
+        "url": "https://open.spotify.com/album/7K0OIp52OOMImGGjHFBLht"
+      },
+      "artists": [
+        {
+          "name": "Jay Lumen",
+          "url": "https://open.spotify.com/artist/6rxmj7vNEofe96g84qMWoV"
+        }
+      ],
+      "duration_ms": 420000,
+      "name": "Mandala",
+      "url": "https://open.spotify.com/track/4zRPvp6MSPCSAmaOJJgkFU"
+    },
+    {
+      "added_at": "2022-11-25 14:07:52",
+      "album": {
+        "name": "We All Unite",
+        "url": "https://open.spotify.com/album/00QtrIgqvR574TbpsEjhax"
+      },
+      "artists": [
+        {
+          "name": "Patrick Scuro",
+          "url": "https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB"
+        },
+        {
+          "name": "Celic",
+          "url": "https://open.spotify.com/artist/0BhjRlNZHbZskFsNNpdNOf"
+        },
+        {
+          "name": "Sylvie Miles",
+          "url": "https://open.spotify.com/artist/4uPM7QLSNGVm5MncolABqE"
+        }
+      ],
+      "duration_ms": 244615,
+      "name": "We All Unite",
+      "url": "https://open.spotify.com/track/3RuegyAnJON9JSi916xbQY"
+    },
+    {
+      "added_at": "2022-11-25 14:07:52",
+      "album": {
+        "name": "Resonate",
+        "url": "https://open.spotify.com/album/2rvovGXmXLiwIbX4i2lTKn"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "duration_ms": 221669,
+      "name": "Resonate",
+      "url": "https://open.spotify.com/track/0mXFXApXwB0dlP1Adh9ne7"
+    },
+    {
+      "added_at": "2022-11-25 14:07:52",
+      "album": {
+        "name": "In From The Night (Reworks & Edits)",
+        "url": "https://open.spotify.com/album/1jz8GumlTHOsApMmmSVaQH"
+      },
+      "artists": [
+        {
+          "name": "Planetary Assault Systems",
+          "url": "https://open.spotify.com/artist/7umQgFrDu3yrchEbFfJd60"
+        },
+        {
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        },
+        {
+          "name": "Wehbba",
+          "url": "https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri"
+        }
+      ],
+      "duration_ms": 440301,
+      "name": "In From The Night - Adam Beyer & Wehbba Remix",
+      "url": "https://open.spotify.com/track/0I7ggM44AhOpWIZCM02HtP"
+    },
+    {
+      "added_at": "2022-11-25 14:07:52",
+      "album": {
+        "name": "FJAAK 008",
+        "url": "https://open.spotify.com/album/1ISmPiZjXY199Z8OPQpJv7"
+      },
+      "artists": [
+        {
+          "name": "FJAAK",
+          "url": "https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV"
+        }
+      ],
+      "duration_ms": 342773,
+      "name": "Plan of Escape",
+      "url": "https://open.spotify.com/track/216VaEa5u8Z90Ql8WrySsZ"
+    },
+    {
+      "added_at": "2022-11-25 14:07:52",
+      "album": {
+        "name": "Rf1",
+        "url": "https://open.spotify.com/album/1q6vPrcAmGbLFsYikTLGfG"
+      },
+      "artists": [
+        {
+          "name": "Franck",
+          "url": "https://open.spotify.com/artist/3XGGc2cdg65V8AOXGfdHwb"
+        }
+      ],
+      "duration_ms": 373489,
+      "name": "Hear The Sound",
+      "url": "https://open.spotify.com/track/276lQAZfUAXTvlzpPiSFTw"
+    },
+    {
+      "added_at": "2022-11-25 14:07:52",
+      "album": {
+        "name": "Goldener Strom Remixes 1",
+        "url": "https://open.spotify.com/album/2Oa9B5Rlku6LgDvKahNhSj"
+      },
+      "artists": [
+        {
+          "name": "Rosa Ansch\u00fctz",
+          "url": "https://open.spotify.com/artist/1kjoxeQwJmoCfXT6j58MTm"
+        },
+        {
+          "name": "Ellen Allien",
+          "url": "https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up"
+        }
+      ],
+      "duration_ms": 313976,
+      "name": "Their Blood - Ellen Allien Remix",
+      "url": "https://open.spotify.com/track/4VSV8oyD0wSDWZ36IcaP0i"
+    },
+    {
+      "added_at": "2022-11-25 14:07:52",
+      "album": {
+        "name": "Finding Yourself",
+        "url": "https://open.spotify.com/album/0BUH4QNv6gUzQssrp8sPMw"
+      },
+      "artists": [
+        {
+          "name": "D72",
+          "url": "https://open.spotify.com/artist/6LwMT7S1AQrvSORZshZ9gt"
+        }
+      ],
+      "duration_ms": 222352,
+      "name": "Finding Yourself",
+      "url": "https://open.spotify.com/track/4ZXWpDKSJBcnWG8Q6iVjT7"
+    },
+    {
+      "added_at": "2022-11-25 14:07:52",
+      "album": {
+        "name": "You Are Mine EP",
+        "url": "https://open.spotify.com/album/7FpzZ4YR2MyNwcN8uQYaX8"
+      },
+      "artists": [
+        {
+          "name": "Mha Iri",
+          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
+        }
+      ],
+      "duration_ms": 414545,
+      "name": "You Are Mine - Original Mix",
+      "url": "https://open.spotify.com/track/3P1U26uNScZlDt2QD02YS5"
+    },
+    {
+      "added_at": "2022-11-25 14:07:52",
       "album": {
         "name": "Mercury",
         "url": "https://open.spotify.com/album/5q2bsjSrluBoWf3F61Fofp"
@@ -33,23 +337,39 @@
       "url": "https://open.spotify.com/track/25dFcH5EsCJLMSmFDDJLT3"
     },
     {
-      "added_at": "2022-10-07 16:53:40",
+      "added_at": "2022-11-25 14:07:52",
       "album": {
-        "name": "The Captain",
-        "url": "https://open.spotify.com/album/0hc4lRGEKpOzSdd2KXZ47j"
+        "name": "Sector Unu",
+        "url": "https://open.spotify.com/album/3Z5rHq4zdx88C67xdmaY9G"
       },
       "artists": [
         {
-          "name": "HIJCKD",
-          "url": "https://open.spotify.com/artist/4oFuOElyTlMdZMXMQBSdVq"
+          "name": "Simina Grigoriu",
+          "url": "https://open.spotify.com/artist/1PjzNHCXycxUqsP2yqFqhU"
         }
       ],
-      "duration_ms": 192000,
-      "name": "The Captain",
-      "url": "https://open.spotify.com/track/4NGwhkwJzROYFJKNFmFHus"
+      "duration_ms": 317538,
+      "name": "Sector Unu",
+      "url": "https://open.spotify.com/track/2FF5J77Rienbt1gh44npLa"
     },
     {
-      "added_at": "2022-10-07 16:53:40",
+      "added_at": "2022-11-25 14:07:52",
+      "album": {
+        "name": "Acid Voices",
+        "url": "https://open.spotify.com/album/3xRbKryQ74XoKuqabTyx3E"
+      },
+      "artists": [
+        {
+          "name": "Denise Schneider",
+          "url": "https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI"
+        }
+      ],
+      "duration_ms": 375986,
+      "name": "Acid Voices",
+      "url": "https://open.spotify.com/track/2LBa1pXDA014OjMj51mKA3"
+    },
+    {
+      "added_at": "2022-11-25 14:07:52",
       "album": {
         "name": "10.2.5.",
         "url": "https://open.spotify.com/album/4waZrGGjCz8tZJ1hlyry0k"
@@ -65,107 +385,163 @@
       "url": "https://open.spotify.com/track/5tXmO8vouyWoyWt8WvOvIA"
     },
     {
-      "added_at": "2022-10-07 16:53:40",
+      "added_at": "2022-11-25 14:07:52",
       "album": {
         "name": "Affection",
-        "url": "https://open.spotify.com/album/0Q62ehvfJy5DN51XOIVvfP"
+        "url": "https://open.spotify.com/album/7iEmfai44TVKtcTu2N03mc"
       },
       "artists": [
         {
-          "name": "Felix Kr\u00f6cher",
-          "url": "https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ"
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
         }
       ],
-      "duration_ms": 271729,
-      "name": "Affection - Radio Edit",
-      "url": "https://open.spotify.com/track/7dQWBRCRBhgbaRATAI6OqD"
+      "duration_ms": 421818,
+      "name": "Affection",
+      "url": "https://open.spotify.com/track/5bAmqp96l9YO7V8LW5sUjZ"
     },
     {
-      "added_at": "2022-10-07 16:53:40",
+      "added_at": "2022-11-25 14:07:52",
       "album": {
-        "name": "Elysium",
-        "url": "https://open.spotify.com/album/524kHwv2rSFladLRO8ipCw"
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/5SBYcUgDbjQNxILy4xvhop"
       },
       "artists": [
         {
-          "name": "Clap Codex",
-          "url": "https://open.spotify.com/artist/56e9JiuPAOzwsOa8TDe3xj"
+          "name": "Belocca",
+          "url": "https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN"
         },
         {
-          "name": "Patrick Scuro",
-          "url": "https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB"
+          "name": "Nusha",
+          "url": "https://open.spotify.com/artist/5jsGnMw1mnU4FfhhcXUR6Q"
         }
       ],
-      "duration_ms": 253242,
-      "name": "Elysium",
-      "url": "https://open.spotify.com/track/0VmJzhgE3LmfzJa1FdYHkl"
+      "duration_ms": 415522,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/24ODAgW6PvaHTl7QUgaoqk"
     },
     {
-      "added_at": "2022-10-07 16:53:40",
+      "added_at": "2022-11-25 14:07:52",
       "album": {
-        "name": "Sound Of Space EP",
-        "url": "https://open.spotify.com/album/0CW5qDbO13Ax7GxwWNaeUT"
+        "name": "Rave Harder Techno Bass",
+        "url": "https://open.spotify.com/album/0GbjMnAZAeoHabYDB4IMYe"
       },
       "artists": [
         {
-          "name": "Enrico Sangiuliano",
-          "url": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
+          "name": "Mark Dekoda",
+          "url": "https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8"
         }
       ],
-      "duration_ms": 498461,
-      "name": "The Sound Of Space",
-      "url": "https://open.spotify.com/track/7CYS0ibZaJm201ZKonnqih"
+      "duration_ms": 360000,
+      "name": "Rave Harder Techno Bass",
+      "url": "https://open.spotify.com/track/1tkS8yt5NwTZkqFvZMxM0F"
     },
     {
-      "added_at": "2022-10-07 16:53:40",
+      "added_at": "2022-11-25 14:07:52",
       "album": {
-        "name": "Colonia EP",
-        "url": "https://open.spotify.com/album/3ICAjodGpPbA4VWC1CFYN0"
+        "name": "Charon",
+        "url": "https://open.spotify.com/album/6k83IqtW7gMBKhr8Pqge7T"
       },
       "artists": [
         {
-          "name": "Space 92",
-          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+          "name": "Ben Dust",
+          "url": "https://open.spotify.com/artist/4smTLJEoRPULdc4QuG7JGo"
+        },
+        {
+          "name": "Markus Weigelt",
+          "url": "https://open.spotify.com/artist/2rMiCAbbUX2ywySQCSZRbI"
         }
       ],
-      "duration_ms": 234546,
-      "name": "Colonia",
-      "url": "https://open.spotify.com/track/0eJInRAV3YR0xRNGsk5Ty7"
+      "duration_ms": 388235,
+      "name": "Charon",
+      "url": "https://open.spotify.com/track/0E5UoxYXwkmMwbKRpaEhAY"
     },
     {
-      "added_at": "2022-10-07 16:53:40",
+      "added_at": "2022-11-25 14:07:52",
       "album": {
-        "name": "You Are Mine EP",
-        "url": "https://open.spotify.com/album/7FpzZ4YR2MyNwcN8uQYaX8"
+        "name": "Full of Fire",
+        "url": "https://open.spotify.com/album/0amwnQiFCSS6hS92fCMrsi"
       },
       "artists": [
         {
-          "name": "Mha Iri",
-          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
+          "name": "Kobosil",
+          "url": "https://open.spotify.com/artist/2ZvIFwl0BuQgHqWvDE80hC"
         }
       ],
-      "duration_ms": 414545,
-      "name": "You Are Mine - Original Mix",
-      "url": "https://open.spotify.com/track/3P1U26uNScZlDt2QD02YS5"
+      "duration_ms": 324465,
+      "name": "Full of Fire",
+      "url": "https://open.spotify.com/track/1WgyirbL3CSFD9CUktHoEU"
     },
     {
-      "added_at": "2022-10-07 16:53:40",
+      "added_at": "2022-11-25 14:07:52",
       "album": {
-        "name": "On the Wire",
-        "url": "https://open.spotify.com/album/7GppjA0l1zP3O92zdKRzoj"
+        "name": "Tonight EP",
+        "url": "https://open.spotify.com/album/5NpM4yflQB8uDiymMbmgBv"
       },
       "artists": [
         {
-          "name": "Julien Riess",
-          "url": "https://open.spotify.com/artist/2qmoexIy9YzYFb0xmjzh4N"
+          "name": "Drunken Kong",
+          "url": "https://open.spotify.com/artist/2c8K7cdY2IU2jBacPOxYqk"
         }
       ],
-      "duration_ms": 348091,
-      "name": "On the Wire",
-      "url": "https://open.spotify.com/track/7j1PrKIG74gMuXlfEZl295"
+      "duration_ms": 344136,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/3kEESvip59Vvej6YtzG2HO"
     },
     {
-      "added_at": "2022-10-07 16:53:40",
+      "added_at": "2022-11-25 14:07:52",
+      "album": {
+        "name": "Format",
+        "url": "https://open.spotify.com/album/6vPE1otLpg2ntcjEhdrS0O"
+      },
+      "artists": [
+        {
+          "name": "The Advent",
+          "url": "https://open.spotify.com/artist/2viciQWa7lV7FrogoaDvk8"
+        }
+      ],
+      "duration_ms": 305777,
+      "name": "Format",
+      "url": "https://open.spotify.com/track/6SXDCetQJ7sJoofdSUVTFA"
+    },
+    {
+      "added_at": "2022-11-25 14:07:52",
+      "album": {
+        "name": "Sonic Texture x Desolate",
+        "url": "https://open.spotify.com/album/6LjAsXMdbZaxnZeUwRBOwv"
+      },
+      "artists": [
+        {
+          "name": "Alan Fitzpatrick",
+          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+        },
+        {
+          "name": "Reset Robot",
+          "url": "https://open.spotify.com/artist/7hmPLllWGkE1X101Wv4vb3"
+        }
+      ],
+      "duration_ms": 360438,
+      "name": "Acid Texture",
+      "url": "https://open.spotify.com/track/1XHpCFTzRZi9zD0aY7SYy1"
+    },
+    {
+      "added_at": "2022-11-25 14:07:52",
+      "album": {
+        "name": "Retro Future, Vol. 3",
+        "url": "https://open.spotify.com/album/05t0v1yS6XFup4zH1VjR7U"
+      },
+      "artists": [
+        {
+          "name": "T78",
+          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
+        }
+      ],
+      "duration_ms": 304000,
+      "name": "Humans Love Me",
+      "url": "https://open.spotify.com/track/13YWp1iozoy7YACZsRqRnK"
+    },
+    {
+      "added_at": "2022-11-25 14:07:52",
       "album": {
         "name": "Into the Night",
         "url": "https://open.spotify.com/album/2XYrKWUIPFZFaAVcsYFDOM"
@@ -185,87 +561,23 @@
       "url": "https://open.spotify.com/track/0rRktaJzIA6OYB82s6r8jz"
     },
     {
-      "added_at": "2022-10-07 16:53:40",
+      "added_at": "2022-11-25 14:07:52",
       "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/61z68AIEA7ByGsgtUD9HEv"
+        "name": "On the Wire",
+        "url": "https://open.spotify.com/album/7GppjA0l1zP3O92zdKRzoj"
       },
       "artists": [
         {
-          "name": "Kaspar",
-          "url": "https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC"
+          "name": "Julien Riess",
+          "url": "https://open.spotify.com/artist/2qmoexIy9YzYFb0xmjzh4N"
         }
       ],
-      "duration_ms": 321777,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/3auek7MSZUmpBNdA8vArVL"
+      "duration_ms": 348091,
+      "name": "On the Wire",
+      "url": "https://open.spotify.com/track/7j1PrKIG74gMuXlfEZl295"
     },
     {
-      "added_at": "2022-10-07 16:53:40",
-      "album": {
-        "name": "Rave Harder Techno Bass",
-        "url": "https://open.spotify.com/album/0GbjMnAZAeoHabYDB4IMYe"
-      },
-      "artists": [
-        {
-          "name": "Mark Dekoda",
-          "url": "https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8"
-        }
-      ],
-      "duration_ms": 360000,
-      "name": "Rave Harder Techno Bass",
-      "url": "https://open.spotify.com/track/1tkS8yt5NwTZkqFvZMxM0F"
-    },
-    {
-      "added_at": "2022-10-07 16:53:40",
-      "album": {
-        "name": "Retro Future, Vol. 3",
-        "url": "https://open.spotify.com/album/05t0v1yS6XFup4zH1VjR7U"
-      },
-      "artists": [
-        {
-          "name": "T78",
-          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
-        }
-      ],
-      "duration_ms": 304000,
-      "name": "Humans Love Me",
-      "url": "https://open.spotify.com/track/13YWp1iozoy7YACZsRqRnK"
-    },
-    {
-      "added_at": "2022-10-07 16:53:40",
-      "album": {
-        "name": "Say It Again",
-        "url": "https://open.spotify.com/album/6qmP3e4qPHcnj0576IRaV6"
-      },
-      "artists": [
-        {
-          "name": "Will Sparks",
-          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
-        }
-      ],
-      "duration_ms": 207272,
-      "name": "Say It Again",
-      "url": "https://open.spotify.com/track/0dDGl66J8riMFyp2yUn88W"
-    },
-    {
-      "added_at": "2022-10-07 16:53:40",
-      "album": {
-        "name": "Mandala",
-        "url": "https://open.spotify.com/album/7K0OIp52OOMImGGjHFBLht"
-      },
-      "artists": [
-        {
-          "name": "Jay Lumen",
-          "url": "https://open.spotify.com/artist/6rxmj7vNEofe96g84qMWoV"
-        }
-      ],
-      "duration_ms": 420000,
-      "name": "Mandala",
-      "url": "https://open.spotify.com/track/4zRPvp6MSPCSAmaOJJgkFU"
-    },
-    {
-      "added_at": "2022-10-07 16:53:40",
+      "added_at": "2022-11-25 14:07:52",
       "album": {
         "name": "Inside My Head",
         "url": "https://open.spotify.com/album/4hviWBBIv5SqDae4nljvEc"
@@ -281,7 +593,59 @@
       "url": "https://open.spotify.com/track/3YR7XdHKPA21815NjqWZeB"
     },
     {
-      "added_at": "2022-10-07 16:53:40",
+      "added_at": "2022-11-25 14:07:52",
+      "album": {
+        "name": "Anytime",
+        "url": "https://open.spotify.com/album/0t27wEKOc7V1RKMRQUemPE"
+      },
+      "artists": [
+        {
+          "name": "Lampe",
+          "url": "https://open.spotify.com/artist/7hvD2Cs8fbF3HvhQCmV3xq"
+        }
+      ],
+      "duration_ms": 365163,
+      "name": "Anytime",
+      "url": "https://open.spotify.com/track/71kWlO1RX3LoRTrIJgbDwA"
+    },
+    {
+      "added_at": "2022-11-25 14:07:52",
+      "album": {
+        "name": "Affection",
+        "url": "https://open.spotify.com/album/0Q62ehvfJy5DN51XOIVvfP"
+      },
+      "artists": [
+        {
+          "name": "Felix Kr\u00f6cher",
+          "url": "https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ"
+        }
+      ],
+      "duration_ms": 271729,
+      "name": "Affection - Radio Edit",
+      "url": "https://open.spotify.com/track/7dQWBRCRBhgbaRATAI6OqD"
+    },
+    {
+      "added_at": "2022-11-25 14:07:52",
+      "album": {
+        "name": "Elysium",
+        "url": "https://open.spotify.com/album/524kHwv2rSFladLRO8ipCw"
+      },
+      "artists": [
+        {
+          "name": "Clap Codex",
+          "url": "https://open.spotify.com/artist/56e9JiuPAOzwsOa8TDe3xj"
+        },
+        {
+          "name": "Patrick Scuro",
+          "url": "https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB"
+        }
+      ],
+      "duration_ms": 253242,
+      "name": "Elysium",
+      "url": "https://open.spotify.com/track/0VmJzhgE3LmfzJa1FdYHkl"
+    },
+    {
+      "added_at": "2022-11-25 14:07:52",
       "album": {
         "name": "Delirium",
         "url": "https://open.spotify.com/album/5hpp87ZHVaYJWzM5ysScBN"
@@ -301,7 +665,7 @@
       "url": "https://open.spotify.com/track/19MYFJHlTK4bUn3wYEl3TO"
     },
     {
-      "added_at": "2022-10-07 16:53:40",
+      "added_at": "2022-11-25 14:07:52",
       "album": {
         "name": "Lonely Traveller",
         "url": "https://open.spotify.com/album/4i9RkTe3UWHPknzuGLHHit"
@@ -317,7 +681,7 @@
       "url": "https://open.spotify.com/track/2tfiF1GUsv0z78VraiNU5A"
     },
     {
-      "added_at": "2022-10-07 16:53:40",
+      "added_at": "2022-11-25 14:07:52",
       "album": {
         "name": "Digital Age",
         "url": "https://open.spotify.com/album/1FS174VHssFFCmZajvmQ6t"
@@ -333,7 +697,23 @@
       "url": "https://open.spotify.com/track/6ohzW6SWk4erB5DWFGUPaK"
     },
     {
-      "added_at": "2022-10-07 16:53:40",
+      "added_at": "2022-11-25 14:07:52",
+      "album": {
+        "name": "Rosso Profondo",
+        "url": "https://open.spotify.com/album/5ABj3AqPtraY5zeMjymw0k"
+      },
+      "artists": [
+        {
+          "name": "Anfisa Letyago",
+          "url": "https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq"
+        }
+      ],
+      "duration_ms": 333134,
+      "name": "Rosso Profondo",
+      "url": "https://open.spotify.com/track/6M9VBE2zlGQa3cT6VNzgeB"
+    },
+    {
+      "added_at": "2022-11-25 14:07:52",
       "album": {
         "name": "Silence EP",
         "url": "https://open.spotify.com/album/0jk2PButBmv8Kqvu5x9Yys"
@@ -349,23 +729,23 @@
       "url": "https://open.spotify.com/track/3dwDBE5AMcHLxemIAEp2xb"
     },
     {
-      "added_at": "2022-10-07 16:53:40",
+      "added_at": "2022-11-25 14:07:52",
       "album": {
-        "name": "Welcome to My World",
-        "url": "https://open.spotify.com/album/7wPqfJhYxRIS8qA1YxlNCQ"
+        "name": "Bring It On Down",
+        "url": "https://open.spotify.com/album/07zJQUXucc05agVKLqhcNE"
       },
       "artists": [
         {
-          "name": "Carl Cox",
-          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+          "name": "Ramon Tapia",
+          "url": "https://open.spotify.com/artist/5BFl4h5TXYSSJsCteTX3s1"
         }
       ],
-      "duration_ms": 264725,
-      "name": "World Gone Mad",
-      "url": "https://open.spotify.com/track/40tYY6O9fgxJVp4DFMkJ0Y"
+      "duration_ms": 432657,
+      "name": "Bring It On Down",
+      "url": "https://open.spotify.com/track/42BajmF7S541Gl8eUELqKl"
     },
     {
-      "added_at": "2022-10-07 16:53:40",
+      "added_at": "2022-11-25 14:07:52",
       "album": {
         "name": "Rave the Planet: Supporter Series, Vol. 009",
         "url": "https://open.spotify.com/album/6grK3BlB8R5rUPQ4027YH8"
@@ -385,7 +765,7 @@
       "url": "https://open.spotify.com/track/3w5ugWaYMy17jjyUXNA7yq"
     },
     {
-      "added_at": "2022-10-07 16:53:40",
+      "added_at": "2022-11-25 14:07:52",
       "album": {
         "name": "Bring Me Up EP",
         "url": "https://open.spotify.com/album/76SdE7SogrA4DjCj15ISHN"
@@ -401,23 +781,23 @@
       "url": "https://open.spotify.com/track/2dOdWpX2Bipo5suEnchffo"
     },
     {
-      "added_at": "2022-10-07 16:53:40",
+      "added_at": "2022-11-25 14:07:52",
       "album": {
-        "name": "Bring It On Down",
-        "url": "https://open.spotify.com/album/07zJQUXucc05agVKLqhcNE"
+        "name": "Simplicity",
+        "url": "https://open.spotify.com/album/6Rtax07UP7eAWbL97dC8fB"
       },
       "artists": [
         {
-          "name": "Ramon Tapia",
-          "url": "https://open.spotify.com/artist/5BFl4h5TXYSSJsCteTX3s1"
+          "name": "Anahit Vardanyan",
+          "url": "https://open.spotify.com/artist/3B0Z2WunAUciyiCc3DsnAa"
         }
       ],
-      "duration_ms": 432657,
-      "name": "Bring It On Down",
-      "url": "https://open.spotify.com/track/42BajmF7S541Gl8eUELqKl"
+      "duration_ms": 401784,
+      "name": "Simplicity",
+      "url": "https://open.spotify.com/track/4pM9FUA8bvHMc3VuL9GgUT"
     },
     {
-      "added_at": "2022-10-07 16:53:40",
+      "added_at": "2022-11-25 14:07:52",
       "album": {
         "name": "Choir Of Spirits",
         "url": "https://open.spotify.com/album/7yGPNpwNMQmMb6ufCztgnd"
@@ -437,23 +817,23 @@
       "url": "https://open.spotify.com/track/0V6GWgubCBR8955ZWtJ4WR"
     },
     {
-      "added_at": "2022-10-07 16:53:40",
+      "added_at": "2022-11-25 14:07:52",
       "album": {
-        "name": "Here We Go",
-        "url": "https://open.spotify.com/album/45g34pO040lSS6mKtrxRmG"
+        "name": "Follow",
+        "url": "https://open.spotify.com/album/7CB2cNckoeR1JcBvEBdc4u"
       },
       "artists": [
         {
-          "name": "Jay Lumen",
-          "url": "https://open.spotify.com/artist/6rxmj7vNEofe96g84qMWoV"
+          "name": "Luna Lucci",
+          "url": "https://open.spotify.com/artist/2YDL5wHehd2wcAC9eBKmtp"
         }
       ],
-      "duration_ms": 416000,
-      "name": "Here We Go",
-      "url": "https://open.spotify.com/track/6GoOF1Ao8tu8BFwBGSbwdV"
+      "duration_ms": 342459,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/4WvfqOcx8jQEeJVKnZ9KgG"
     },
     {
-      "added_at": "2022-10-07 16:53:40",
+      "added_at": "2022-11-25 14:07:52",
       "album": {
         "name": "Rave (Remix)",
         "url": "https://open.spotify.com/album/5zd1ybE8kkj5OEkfRdHJW6"
@@ -477,7 +857,7 @@
       "url": "https://open.spotify.com/track/1kMObCQiYe5opqybH7ZNPD"
     },
     {
-      "added_at": "2022-10-07 16:53:40",
+      "added_at": "2022-11-25 14:07:52",
       "album": {
         "name": "Deep Down",
         "url": "https://open.spotify.com/album/6qLxGWZeEO8XcScqKQ7tqZ"
@@ -493,23 +873,7 @@
       "url": "https://open.spotify.com/track/5CTd3hqGRzb8FYu7M2j9JE"
     },
     {
-      "added_at": "2022-10-07 16:53:40",
-      "album": {
-        "name": "In Trance",
-        "url": "https://open.spotify.com/album/2kbVZWawvUewEVkbuNhri7"
-      },
-      "artists": [
-        {
-          "name": "Dominik Saltevski",
-          "url": "https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN"
-        }
-      ],
-      "duration_ms": 357305,
-      "name": "In Trance",
-      "url": "https://open.spotify.com/track/3YcuaBQ6HJGwPPmiJ2UEiL"
-    },
-    {
-      "added_at": "2022-10-07 16:53:40",
+      "added_at": "2022-11-25 14:07:52",
       "album": {
         "name": "Dust2",
         "url": "https://open.spotify.com/album/0JMayIqWFUZbGsNBPj3XvW"
@@ -525,43 +889,7 @@
       "url": "https://open.spotify.com/track/73TeOQxZq4VMxooPmZ4KEr"
     },
     {
-      "added_at": "2022-10-07 16:53:40",
-      "album": {
-        "name": "Little Hero",
-        "url": "https://open.spotify.com/album/0iwVgKvRzzYRLDNgfalW4H"
-      },
-      "artists": [
-        {
-          "name": "Cosmic Boys",
-          "url": "https://open.spotify.com/artist/2jvTYwyzxK1FVYGEoKfZLQ"
-        },
-        {
-          "name": "T78",
-          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
-        }
-      ],
-      "duration_ms": 390000,
-      "name": "Little Hero",
-      "url": "https://open.spotify.com/track/73Z9bB6pDnpj4pQhzScrWm"
-    },
-    {
-      "added_at": "2022-10-07 16:53:40",
-      "album": {
-        "name": "Zulu",
-        "url": "https://open.spotify.com/album/49qQ08O2n3E1QqH9hRBEgF"
-      },
-      "artists": [
-        {
-          "name": "A.D.H.S.",
-          "url": "https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl"
-        }
-      ],
-      "duration_ms": 298181,
-      "name": "Zulu",
-      "url": "https://open.spotify.com/track/2N0F739pJcD6b4uQe6NxDr"
-    },
-    {
-      "added_at": "2022-10-07 16:53:40",
+      "added_at": "2022-11-25 14:07:52",
       "album": {
         "name": "ME/AN",
         "url": "https://open.spotify.com/album/501Goc9jbp4cFU1PN7HRVR"
@@ -581,23 +909,7 @@
       "url": "https://open.spotify.com/track/1SyfZAsQpy1ITVx96ZCjZy"
     },
     {
-      "added_at": "2022-10-07 16:53:40",
-      "album": {
-        "name": "You Can't Stop Us",
-        "url": "https://open.spotify.com/album/2ysLpJ6RrQzrZQU3ZpO5rM"
-      },
-      "artists": [
-        {
-          "name": "Denise Schneider",
-          "url": "https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI"
-        }
-      ],
-      "duration_ms": 142153,
-      "name": "You Can't Stop Us",
-      "url": "https://open.spotify.com/track/39stAgopu3xQH0ZpEiNNw3"
-    },
-    {
-      "added_at": "2022-10-07 16:53:40",
+      "added_at": "2022-11-25 14:07:52",
       "album": {
         "name": "Flying Octopus",
         "url": "https://open.spotify.com/album/1QlX9KsPeTDvPdozDwJn1F"
@@ -621,23 +933,7 @@
       "url": "https://open.spotify.com/track/2XWBbVold8LNroIDyeockI"
     },
     {
-      "added_at": "2022-10-07 16:53:40",
-      "album": {
-        "name": "Hydro",
-        "url": "https://open.spotify.com/album/2CYt7WOUAFdAOBYwPuJGLL"
-      },
-      "artists": [
-        {
-          "name": "Filterheadz",
-          "url": "https://open.spotify.com/artist/6XqUjMGrl5jFwwyQ6hheit"
-        }
-      ],
-      "duration_ms": 405737,
-      "name": "Hydro",
-      "url": "https://open.spotify.com/track/0nmNR0KNc1in7qBGXmzEZY"
-    },
-    {
-      "added_at": "2022-10-07 16:53:40",
+      "added_at": "2022-11-25 14:07:52",
       "album": {
         "name": "Reality",
         "url": "https://open.spotify.com/album/2XLz2MXZcs10dMSHvYFNse"
@@ -653,27 +949,7 @@
       "url": "https://open.spotify.com/track/14QvBZPWC0ztCfiEnQRS6T"
     },
     {
-      "added_at": "2022-10-07 16:53:40",
-      "album": {
-        "name": "The Bigger Picture",
-        "url": "https://open.spotify.com/album/2YTB8fa0VwjrmmwOg6jxyG"
-      },
-      "artists": [
-        {
-          "name": "Karim Alkhayat",
-          "url": "https://open.spotify.com/artist/1Jawgv4EJ23ap4WO59CE25"
-        },
-        {
-          "name": "RooneyNasr",
-          "url": "https://open.spotify.com/artist/5JyUxCGRmiZRB2m3gmeIkL"
-        }
-      ],
-      "duration_ms": 410909,
-      "name": "The Bigger Picture",
-      "url": "https://open.spotify.com/track/54n7lhRoNg7WrlFU1mMTWp"
-    },
-    {
-      "added_at": "2022-10-07 16:53:40",
+      "added_at": "2022-11-25 14:07:52",
       "album": {
         "name": "Together One Time",
         "url": "https://open.spotify.com/album/3lj2pp5dJlBCLS1rHD2MHM"
@@ -689,39 +965,23 @@
       "url": "https://open.spotify.com/track/5J7b7SmcTkhmO31mF0tEja"
     },
     {
-      "added_at": "2022-10-07 16:53:40",
+      "added_at": "2022-11-25 14:07:52",
       "album": {
-        "name": "Sex and the Machine",
-        "url": "https://open.spotify.com/album/6atDj6WJcP84s9nY88mkYe"
+        "name": "Electric Acid",
+        "url": "https://open.spotify.com/album/470I5Tw4LgAe5ah3kUQBSq"
       },
       "artists": [
         {
-          "name": "Pleasurekraft",
-          "url": "https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4"
+          "name": "Mark Dekoda",
+          "url": "https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8"
         }
       ],
-      "duration_ms": 240123,
-      "name": "Sex and the Machine",
-      "url": "https://open.spotify.com/track/2H4l11D1fsfJ3WfyZ6XGe1"
+      "duration_ms": 343880,
+      "name": "Electric Acid",
+      "url": "https://open.spotify.com/track/10OXHKcZZA1KBWbPYB1x90"
     },
     {
-      "added_at": "2022-10-07 16:53:40",
-      "album": {
-        "name": "We Control",
-        "url": "https://open.spotify.com/album/5VgrFAxkLmF6xAfgY6ByeW"
-      },
-      "artists": [
-        {
-          "name": "Lilly Palmer",
-          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
-        }
-      ],
-      "duration_ms": 206625,
-      "name": "We Control",
-      "url": "https://open.spotify.com/track/7K3OyIuvYF1qcwr4xqILeu"
-    },
-    {
-      "added_at": "2022-10-07 16:53:40",
+      "added_at": "2022-11-25 14:07:52",
       "album": {
         "name": "Pulse",
         "url": "https://open.spotify.com/album/2POEND23KcLg9y4zzPSSuO"
@@ -741,39 +1001,23 @@
       "url": "https://open.spotify.com/track/0rUd34miBQcQTzevrULn3G"
     },
     {
-      "added_at": "2022-10-07 16:53:40",
+      "added_at": "2022-11-25 14:07:52",
       "album": {
-        "name": "FJAAK 008",
-        "url": "https://open.spotify.com/album/1ISmPiZjXY199Z8OPQpJv7"
+        "name": "Subconscious Reset",
+        "url": "https://open.spotify.com/album/403sFbl2LmE5bY75KjQlfk"
       },
       "artists": [
         {
-          "name": "FJAAK",
-          "url": "https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV"
+          "name": "Juliet Fox",
+          "url": "https://open.spotify.com/artist/7zH0EpzFgwmwpnEprtvDig"
         }
       ],
-      "duration_ms": 342773,
-      "name": "Plan of Escape",
-      "url": "https://open.spotify.com/track/216VaEa5u8Z90Ql8WrySsZ"
+      "duration_ms": 425044,
+      "name": "Subconscious Reset",
+      "url": "https://open.spotify.com/track/3mlkpFLHRHmVUho7xJcKit"
     },
     {
-      "added_at": "2022-10-07 16:53:40",
-      "album": {
-        "name": "You're Toxic",
-        "url": "https://open.spotify.com/album/5xMufmAVskrZV4Llusco8r"
-      },
-      "artists": [
-        {
-          "name": "Deborah de Luca",
-          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
-        }
-      ],
-      "duration_ms": 371555,
-      "name": "You're Toxic",
-      "url": "https://open.spotify.com/track/5Ig2RPAPLrkAkFpyr8uAPj"
-    },
-    {
-      "added_at": "2022-10-07 16:53:40",
+      "added_at": "2022-11-25 14:07:52",
       "album": {
         "name": "False Love",
         "url": "https://open.spotify.com/album/1s02WyF3oGtWQtlZtsfbLW"
@@ -789,71 +1033,7 @@
       "url": "https://open.spotify.com/track/5VOlgrZaSeoGPAZxOjmHiO"
     },
     {
-      "added_at": "2022-10-07 16:53:40",
-      "album": {
-        "name": "Electric Acid",
-        "url": "https://open.spotify.com/album/470I5Tw4LgAe5ah3kUQBSq"
-      },
-      "artists": [
-        {
-          "name": "Mark Dekoda",
-          "url": "https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8"
-        }
-      ],
-      "duration_ms": 343880,
-      "name": "Electric Acid",
-      "url": "https://open.spotify.com/track/10OXHKcZZA1KBWbPYB1x90"
-    },
-    {
-      "added_at": "2022-10-07 16:53:40",
-      "album": {
-        "name": "Universal Consciousness EP",
-        "url": "https://open.spotify.com/album/4hLx8gxka0a3rYc2sBN3fQ"
-      },
-      "artists": [
-        {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        }
-      ],
-      "duration_ms": 400624,
-      "name": "Universal Consciousness",
-      "url": "https://open.spotify.com/track/6cKTcheUC3OHDMI8QMKp08"
-    },
-    {
-      "added_at": "2022-10-07 16:53:40",
-      "album": {
-        "name": "Subconscious Reset",
-        "url": "https://open.spotify.com/album/06hak41yJv9og1C7sKUTrM"
-      },
-      "artists": [
-        {
-          "name": "Juliet Fox",
-          "url": "https://open.spotify.com/artist/7zH0EpzFgwmwpnEprtvDig"
-        }
-      ],
-      "duration_ms": 425044,
-      "name": "Subconscious Reset",
-      "url": "https://open.spotify.com/track/2QQdfhookRmHNa4BSX6xPb"
-    },
-    {
-      "added_at": "2022-10-07 16:53:40",
-      "album": {
-        "name": "Adrenaline",
-        "url": "https://open.spotify.com/album/6LLsf3g5lH1Up0v09IXajh"
-      },
-      "artists": [
-        {
-          "name": "Deborah de Luca",
-          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
-        }
-      ],
-      "duration_ms": 413538,
-      "name": "Adrenaline",
-      "url": "https://open.spotify.com/track/110oOecgIEMdjl5kOLtPCd"
-    },
-    {
-      "added_at": "2022-10-07 16:53:40",
+      "added_at": "2022-11-25 14:07:52",
       "album": {
         "name": "Back for Rave",
         "url": "https://open.spotify.com/album/4UrzT4RqWT6yLzcy66yHGE"
@@ -869,39 +1049,7 @@
       "url": "https://open.spotify.com/track/3XZOviqLQTQdVrLlCOH8Ji"
     },
     {
-      "added_at": "2022-10-07 16:53:40",
-      "album": {
-        "name": "Sense EP",
-        "url": "https://open.spotify.com/album/6Jg01D0r46MbjuerQTRyp5"
-      },
-      "artists": [
-        {
-          "name": "Drunken Kong",
-          "url": "https://open.spotify.com/artist/2c8K7cdY2IU2jBacPOxYqk"
-        }
-      ],
-      "duration_ms": 415077,
-      "name": "Sense",
-      "url": "https://open.spotify.com/track/76543PV6WgeJ3RAZiY9XIk"
-    },
-    {
-      "added_at": "2022-10-07 16:53:40",
-      "album": {
-        "name": "1981",
-        "url": "https://open.spotify.com/album/4XJv3sgIdEP3vCaaZeDReQ"
-      },
-      "artists": [
-        {
-          "name": "Simina Grigoriu",
-          "url": "https://open.spotify.com/artist/1PjzNHCXycxUqsP2yqFqhU"
-        }
-      ],
-      "duration_ms": 371134,
-      "name": "1981",
-      "url": "https://open.spotify.com/track/63iBv67DSrEao8sDW3byIe"
-    },
-    {
-      "added_at": "2022-10-07 16:53:40",
+      "added_at": "2022-11-25 14:07:52",
       "album": {
         "name": "Gilgamesh",
         "url": "https://open.spotify.com/album/5vjiZbJumXYEWM9d9Qouol"
@@ -919,134 +1067,6 @@
       "duration_ms": 284651,
       "name": "Gilgamesh",
       "url": "https://open.spotify.com/track/7vmXmhia1MFqu8t3IAYOkP"
-    },
-    {
-      "added_at": "2022-10-07 16:53:40",
-      "album": {
-        "name": "Toxic People",
-        "url": "https://open.spotify.com/album/3RaHkhI4pg1nM0q7AmMqL7"
-      },
-      "artists": [
-        {
-          "name": "Jil Tanner",
-          "url": "https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK"
-        }
-      ],
-      "duration_ms": 413376,
-      "name": "Toxic People",
-      "url": "https://open.spotify.com/track/75p7aD6YTSBpR3hN6R59E6"
-    },
-    {
-      "added_at": "2022-10-07 16:53:40",
-      "album": {
-        "name": "Black Spider",
-        "url": "https://open.spotify.com/album/3QxgbaYVhUacALkPasXSa0"
-      },
-      "artists": [
-        {
-          "name": "Harvey McKay",
-          "url": "https://open.spotify.com/artist/6qB9lDPQ6tFbI1gZcSawCS"
-        }
-      ],
-      "duration_ms": 335883,
-      "name": "Black Spider",
-      "url": "https://open.spotify.com/track/6DPSVTLOjfyGQ6OrhFl9hA"
-    },
-    {
-      "added_at": "2022-10-07 16:53:40",
-      "album": {
-        "name": "Dark Matter / Dust & Gas",
-        "url": "https://open.spotify.com/album/5CVhm2OmgHQ7v83oZ32b32"
-      },
-      "artists": [
-        {
-          "name": "Dubfire",
-          "url": "https://open.spotify.com/artist/3bVYqr2NfmwmL4YJisWhJI"
-        }
-      ],
-      "duration_ms": 530496,
-      "name": "Dark Matter",
-      "url": "https://open.spotify.com/track/3oJaIce9FdZyKlpQ22jxp5"
-    },
-    {
-      "added_at": "2022-10-07 16:53:40",
-      "album": {
-        "name": "The Greatest Question EP",
-        "url": "https://open.spotify.com/album/2dWxRvuUgNDQAnzz7jzqBp"
-      },
-      "artists": [
-        {
-          "name": "Belocca",
-          "url": "https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN"
-        }
-      ],
-      "duration_ms": 411304,
-      "name": "The Greatest Question",
-      "url": "https://open.spotify.com/track/1aTSDt9gINC9fuMMNKGmcN"
-    },
-    {
-      "added_at": "2022-10-07 16:53:40",
-      "album": {
-        "name": "Light + Shadow Remixes, Vol. 1",
-        "url": "https://open.spotify.com/album/7aBnqZdnNzK0xvQ53vKpkO"
-      },
-      "artists": [
-        {
-          "name": "Sam Paganini",
-          "url": "https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl"
-        },
-        {
-          "name": "Z\u00f8e",
-          "url": "https://open.spotify.com/artist/35GfziDKCTh1aPNFDPuSft"
-        },
-        {
-          "name": "Marco Faraone",
-          "url": "https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3"
-        }
-      ],
-      "duration_ms": 370750,
-      "name": "Flash - Marco Faraone Remix",
-      "url": "https://open.spotify.com/track/49xmmvP2Meu4Da3867lA0v"
-    },
-    {
-      "added_at": "2022-10-07 16:53:40",
-      "album": {
-        "name": "The Heights EP",
-        "url": "https://open.spotify.com/album/0LuQtYC1zbDQAO6Tw4qkSX"
-      },
-      "artists": [
-        {
-          "name": "Drumcell",
-          "url": "https://open.spotify.com/artist/3b9LxiX2zs6VCevlXRBCP8"
-        },
-        {
-          "name": "Chris Liebing",
-          "url": "https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI"
-        },
-        {
-          "name": "Truncate",
-          "url": "https://open.spotify.com/artist/1JxLnEvBPdm9baryEFzE50"
-        }
-      ],
-      "duration_ms": 353684,
-      "name": "DTL",
-      "url": "https://open.spotify.com/track/3mcW3ed7lIyuvfznDp5AD7"
-    },
-    {
-      "added_at": "2022-10-07 16:53:40",
-      "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/2G1zDCzWRHxouEiscYuz6D"
-      },
-      "artists": [
-        {
-          "name": "Horisone",
-          "url": "https://open.spotify.com/artist/4QK6kc57qNZNCb8DZ68tOr"
-        }
-      ],
-      "duration_ms": 412498,
-      "name": "Aura",
-      "url": "https://open.spotify.com/track/1fg0Cj0VYuMue9IWcEKtVP"
     }
   ],
   "unique_name": "Techno Bunker",

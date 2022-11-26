@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmxXDRgAKVq.md) - [plain]
 
 > Curated by A$AP Mob in honor of A$AP Yams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,794 likes - 51 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,268 likes - 51 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

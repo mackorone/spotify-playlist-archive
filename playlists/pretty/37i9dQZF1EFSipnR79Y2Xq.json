@@ -1,15 +1,31 @@
 {
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/7m03aDw5dqfBpheQEDSYGp\">Nathan Galante</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
-  "num_followers": 68,
+  "num_followers": 196,
   "original_name": "Written By Nathan Galante",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc3NTYwODksMDAwMDAwMDA3NmM1NDcyNGUxMDYyYjUwM2FhNmI5NzcyZDFlZWQxZA==",
+  "snapshot_id": "Mjc4MjM3NjgsMDAwMDAwMDAwMWYyZDdkYWM5NTFlOWExMGFjNmYzNTFjZjYxZDNkNg==",
   "tracks": [
     {
-      "added_at": "2022-10-09 01:29:49",
+      "added_at": "2022-11-25 01:28:01",
+      "album": {
+        "name": "Sin Miedo Al \u00c9xito (Deluxe)",
+        "url": "https://open.spotify.com/album/06RNnPXzGC23bqQiCDTotI"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes",
+          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
+        }
+      ],
+      "duration_ms": 186706,
+      "name": "Modo Inc\u00f3gnito",
+      "url": "https://open.spotify.com/track/7h1KxwCRPI9WC3hJyLuF8g"
+    },
+    {
+      "added_at": "2022-11-25 01:28:01",
       "album": {
         "name": "Con Toda La Actitud",
         "url": "https://open.spotify.com/album/03GA53bmUWFhRW7j0V0wuO"
@@ -29,23 +45,7 @@
       "url": "https://open.spotify.com/track/6J6UUsCUZTDEnfsRjlx204"
     },
     {
-      "added_at": "2022-10-09 01:29:49",
-      "album": {
-        "name": "Sin Miedo Al \u00c9xito (Deluxe)",
-        "url": "https://open.spotify.com/album/06RNnPXzGC23bqQiCDTotI"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes",
-          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
-        }
-      ],
-      "duration_ms": 186706,
-      "name": "Modo Inc\u00f3gnito",
-      "url": "https://open.spotify.com/track/7h1KxwCRPI9WC3hJyLuF8g"
-    },
-    {
-      "added_at": "2022-10-09 01:29:49",
+      "added_at": "2022-11-25 01:28:01",
       "album": {
         "name": "Tiempo Fuera",
         "url": "https://open.spotify.com/album/3ofYz6uyOpKbp8DHnCefh3"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/01gAbqtPWVRLzHKZjqbtwM"
     },
     {
-      "added_at": "2022-10-09 01:29:49",
+      "added_at": "2022-11-25 01:28:01",
       "album": {
         "name": "D\u00eda De Baj\u00f3n",
         "url": "https://open.spotify.com/album/3u6jVCx2tYFPRQtzKpUyaM"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/3iZFmfp6v6u4sldfg7HgRo"
     },
     {
-      "added_at": "2022-10-09 01:29:49",
+      "added_at": "2022-11-25 01:28:01",
       "album": {
         "name": "Top Songs 2022",
         "url": "https://open.spotify.com/album/52kJMVI7KXoWQLcz6p0twI"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/5RlNv7SVUz96curwoPe3zy"
     },
     {
-      "added_at": "2022-10-09 01:29:49",
+      "added_at": "2022-11-25 01:28:01",
       "album": {
         "name": "Como Antes",
         "url": "https://open.spotify.com/album/4dXvaYgS1eGbZCMa41lSrr"
@@ -109,7 +109,23 @@
       "url": "https://open.spotify.com/track/1dyDEkhjJ0T3Qmbio4LpqX"
     },
     {
-      "added_at": "2022-10-09 01:29:49",
+      "added_at": "2022-11-25 01:28:01",
+      "album": {
+        "name": "As\u00ed (En Vivo)",
+        "url": "https://open.spotify.com/album/0PZeRC7Xtc9n29XEzKbsFx"
+      },
+      "artists": [
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        }
+      ],
+      "duration_ms": 146026,
+      "name": "As\u00ed - En Vivo",
+      "url": "https://open.spotify.com/track/42VytKp0lKpe2r8Yc9AQ4A"
+    },
+    {
+      "added_at": "2022-11-25 01:28:01",
       "album": {
         "name": "Salud Por Eso",
         "url": "https://open.spotify.com/album/5rhp0Kg67gEvo7qsq3saFR"
@@ -133,23 +149,7 @@
       "url": "https://open.spotify.com/track/44aafvQtAsQ8FcVDne725k"
     },
     {
-      "added_at": "2022-10-09 01:29:49",
-      "album": {
-        "name": "T\u00fa Y Mi Ex",
-        "url": "https://open.spotify.com/album/4g7nDlkHIw3kZ9TovWje5u"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes",
-          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
-        }
-      ],
-      "duration_ms": 155453,
-      "name": "T\u00fa Y Mi Ex",
-      "url": "https://open.spotify.com/track/4H3vMhKCS8wn1lJdcwYiBV"
-    },
-    {
-      "added_at": "2022-10-09 01:29:49",
+      "added_at": "2022-11-25 01:28:01",
       "album": {
         "name": "Cu\u00e9ntales",
         "url": "https://open.spotify.com/album/1Ktc4MmcSCn0ddnT8Uin9D"
@@ -169,23 +169,27 @@
       "url": "https://open.spotify.com/track/6PPtVe7mYShJD9wIie5MKa"
     },
     {
-      "added_at": "2022-10-09 01:29:49",
+      "added_at": "2022-11-25 01:28:01",
       "album": {
-        "name": "As\u00ed (En Vivo)",
-        "url": "https://open.spotify.com/album/0PZeRC7Xtc9n29XEzKbsFx"
+        "name": "Una Cerveza M\u00e1s",
+        "url": "https://open.spotify.com/album/7q35s381xW8eW6n6d0twtC"
       },
       "artists": [
         {
-          "name": "Nathan Galante",
-          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+          "name": "Fuerza de Tijuana",
+          "url": "https://open.spotify.com/artist/0OtCwdMEGIi0GCeLGCO2tQ"
+        },
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
         }
       ],
-      "duration_ms": 146026,
-      "name": "As\u00ed - En Vivo",
-      "url": "https://open.spotify.com/track/42VytKp0lKpe2r8Yc9AQ4A"
+      "duration_ms": 170440,
+      "name": "Una Cerveza M\u00e1s",
+      "url": "https://open.spotify.com/track/0l8Ai0UPJ1hYOMQcaDa9Vr"
     },
     {
-      "added_at": "2022-10-09 01:29:49",
+      "added_at": "2022-11-25 01:28:01",
       "album": {
         "name": "Por Ejemplo",
         "url": "https://open.spotify.com/album/2hPh0n7Rf4pk5lrgsiTLCM"
@@ -201,7 +205,23 @@
       "url": "https://open.spotify.com/track/53PxyMdMIFOG4VhuA1N1bC"
     },
     {
-      "added_at": "2022-10-09 01:29:49",
+      "added_at": "2022-11-25 01:28:01",
+      "album": {
+        "name": "Confirmo (En Vivo)",
+        "url": "https://open.spotify.com/album/6TSpDvl2aa6W5XRX2pWyfs"
+      },
+      "artists": [
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        }
+      ],
+      "duration_ms": 160173,
+      "name": "Confirmo - En Vivo",
+      "url": "https://open.spotify.com/track/0P4qrOO0kk7lru6WQV4qIt"
+    },
+    {
+      "added_at": "2022-11-25 01:28:01",
       "album": {
         "name": "Porque Sigo Vivo",
         "url": "https://open.spotify.com/album/75AAhtE3Tff60VDqsQ8hOf"
@@ -221,7 +241,7 @@
       "url": "https://open.spotify.com/track/1sWJERxemKdTKXVGL4zFrJ"
     },
     {
-      "added_at": "2022-10-09 01:29:49",
+      "added_at": "2022-11-25 01:28:01",
       "album": {
         "name": "Voy A Superarte (En Vivo)",
         "url": "https://open.spotify.com/album/6tMFnDvudKXUOlsfkefgdx"
@@ -237,7 +257,7 @@
       "url": "https://open.spotify.com/track/4j0gW8CD4w9qiX3JBvVcei"
     },
     {
-      "added_at": "2022-10-09 01:29:49",
+      "added_at": "2022-11-25 01:28:01",
       "album": {
         "name": "Casi Algo",
         "url": "https://open.spotify.com/album/6xSYTJWevYBfj3ss9Jciuv"
@@ -253,23 +273,7 @@
       "url": "https://open.spotify.com/track/3x27kK7eSGhxc6PzSgPoeh"
     },
     {
-      "added_at": "2022-10-09 01:29:49",
-      "album": {
-        "name": "Confirmo (En Vivo)",
-        "url": "https://open.spotify.com/album/6TSpDvl2aa6W5XRX2pWyfs"
-      },
-      "artists": [
-        {
-          "name": "Nathan Galante",
-          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
-        }
-      ],
-      "duration_ms": 160173,
-      "name": "Confirmo - En Vivo",
-      "url": "https://open.spotify.com/track/0P4qrOO0kk7lru6WQV4qIt"
-    },
-    {
-      "added_at": "2022-10-09 01:29:49",
+      "added_at": "2022-11-25 01:28:01",
       "album": {
         "name": "Tragos En Mi Mesa",
         "url": "https://open.spotify.com/album/4YXv1lZBaFinDMRgfgktjN"
@@ -285,7 +289,27 @@
       "url": "https://open.spotify.com/track/4642EXxwNH8Z3WamZeoD2X"
     },
     {
-      "added_at": "2022-10-09 01:29:49",
+      "added_at": "2022-11-25 01:28:01",
+      "album": {
+        "name": "Esto Es As\u00ed",
+        "url": "https://open.spotify.com/album/32ZX00cqoOq3l8c2iwZ88x"
+      },
+      "artists": [
+        {
+          "name": "Sim\u00f3n Le\u00f3n",
+          "url": "https://open.spotify.com/artist/4mTHBSlYMRCM1c22vaQjh0"
+        },
+        {
+          "name": "Los Buitres De Culiacan Sinaloa",
+          "url": "https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB"
+        }
+      ],
+      "duration_ms": 176199,
+      "name": "Esto Es As\u00ed",
+      "url": "https://open.spotify.com/track/4t9EQ2mAXzPZLpMPwDAGIM"
+    },
+    {
+      "added_at": "2022-11-25 01:28:01",
       "album": {
         "name": "A Darle Con Todo (En Vivo)",
         "url": "https://open.spotify.com/album/0sE8OAlzBJE2bRd96WTj1H"
@@ -301,7 +325,23 @@
       "url": "https://open.spotify.com/track/7kMnOMAVYzFnJXRqU6cvqD"
     },
     {
-      "added_at": "2022-10-09 01:29:49",
+      "added_at": "2022-11-25 01:28:01",
+      "album": {
+        "name": "XVII ANIVERSARIO",
+        "url": "https://open.spotify.com/album/4cnDNI7pytSivupozFsMi7"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        }
+      ],
+      "duration_ms": 186461,
+      "name": "Primero Tu",
+      "url": "https://open.spotify.com/track/1Ia0J3DtOitPrvYVnjT4Ob"
+    },
+    {
+      "added_at": "2022-11-25 01:28:01",
       "album": {
         "name": "Siempre Te Voy A Extra\u00f1ar",
         "url": "https://open.spotify.com/album/1NBLHCYkm4hgrh7BeSXWBP"
@@ -317,7 +357,23 @@
       "url": "https://open.spotify.com/track/0ckp8hGuGLcG5wpJaIgU3b"
     },
     {
-      "added_at": "2022-10-09 01:29:49",
+      "added_at": "2022-11-25 01:28:01",
+      "album": {
+        "name": "Corrido a Sal S\u00e1nchez",
+        "url": "https://open.spotify.com/album/7rfsbU64lcWoAbxraGmeBW"
+      },
+      "artists": [
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        }
+      ],
+      "duration_ms": 146573,
+      "name": "Corrido a Sal S\u00e1nchez",
+      "url": "https://open.spotify.com/track/2gAFOnxgXE7KZ1L3CU3Mtr"
+    },
+    {
+      "added_at": "2022-11-25 01:28:01",
       "album": {
         "name": "Mi Toxica",
         "url": "https://open.spotify.com/album/2ZjnBZPrdxIiJmYnJEc1Wi"
@@ -331,6 +387,22 @@
       "duration_ms": 202860,
       "name": "Mi Toxica",
       "url": "https://open.spotify.com/track/2cyoeBgg53OnFhL2oE0EGZ"
+    },
+    {
+      "added_at": "2022-11-25 01:28:01",
+      "album": {
+        "name": "\u00bfQu\u00e9 Vas A Hacer Sin M\u00ed?",
+        "url": "https://open.spotify.com/album/65yyiSr8XiQrLoUyUPGfZ4"
+      },
+      "artists": [
+        {
+          "name": "Las Mar\u00edas",
+          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
+        }
+      ],
+      "duration_ms": 199773,
+      "name": "\u00bfQu\u00e9 Vas A Hacer Sin M\u00ed?",
+      "url": "https://open.spotify.com/track/3Ebp9mbcQRPeItbcccvx4Y"
     }
   ],
   "unique_name": "Written By Nathan Galante",

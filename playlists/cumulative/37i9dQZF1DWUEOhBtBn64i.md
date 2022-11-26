@@ -4,11 +4,13 @@
 
 > <a href="https://www.vitalvoices.org/">Women changing the world</a> \| Cover: MILCK
 
-37 songs - 2 hr 25 min - [published](https://open.spotify.com/playlist/69H7M07MFvoBvjW4Ce7pgW)
+39 songs - 2 hr 37 min - [published](https://open.spotify.com/playlist/69H7M07MFvoBvjW4Ce7pgW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [32 Flavors](https://open.spotify.com/track/6oipWwDsUB0XCoZfZeRBvW) | [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [Not A Pretty Girl](https://open.spotify.com/album/5HkAhOC4QT6SYmlzuBqFdb) | 6:07 | 2022-03-08 |  |
+| [32 Flavors](https://open.spotify.com/track/1nUn5yFnGi9ZxVYv84KtdF) | [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [Not A Pretty Girl](https://open.spotify.com/album/5zzcq9uCthg3vyGxMPYoxm) | 6:07 | 2022-03-08 |  |
+| [32 Flavors](https://open.spotify.com/track/6oipWwDsUB0XCoZfZeRBvW) | [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [Not A Pretty Girl](https://open.spotify.com/album/5HkAhOC4QT6SYmlzuBqFdb) | 6:07 | 2022-03-08 | 2022-11-03 |
+| [32 Flavors](https://open.spotify.com/track/3MeBmIf2CYc1YLYHlscbAt) | [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [iTunes Original Session](https://open.spotify.com/album/3IXuAt2cfriD3hTnCK5GdE) | 6:09 | 2022-03-08 | 2022-11-13 |
 | [Better in Time](https://open.spotify.com/track/2iXBZ32Fz5VDCLeE0JIdX5) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5) | 3:54 | 2022-03-08 |  |
 | [Born This Way](https://open.spotify.com/track/6r2BECwMgEoRb5yLfp0Hca) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 4:20 | 2022-03-08 |  |
 | [Express Yourself](https://open.spotify.com/track/6ioBgySxoeQKALvAeLEmId) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 3:59 | 2022-03-08 |  |

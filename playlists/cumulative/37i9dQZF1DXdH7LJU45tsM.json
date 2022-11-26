@@ -8,6 +8,28 @@
   "tracks": [
     {
       "album": {
+        "name": "A Mi Modo",
+        "url": "https://open.spotify.com/album/5ieqS1Hv44JfmKTyNnWjV2"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "La Ventaja",
+          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189751,
+      "name": "A Mi Modo",
+      "url": "https://open.spotify.com/track/4yTTya8odDhObFpaoUL23T"
+    },
+    {
+      "album": {
         "name": "A Ti Te Conviene (En Vivo)",
         "url": "https://open.spotify.com/album/23UCjNDCllX0fTFIVxe4Iw"
       },
@@ -133,7 +155,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 170714,
       "name": "Asi Es La Vida",
       "url": "https://open.spotify.com/track/3ppRhFagqz5sGQMLOQkhwJ"
@@ -367,7 +389,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 210383,
       "name": "Don (En Vivo)",
       "url": "https://open.spotify.com/track/3T8fM36Q8KLkGlZKVMmy0G"
@@ -819,6 +841,28 @@
       "duration_ms": 202005,
       "name": "Juro por Dios - En Vivo",
       "url": "https://open.spotify.com/track/6ya4Hq3twTffkM15X389KY"
+    },
+    {
+      "album": {
+        "name": "La Bailadora",
+        "url": "https://open.spotify.com/album/71xDJEFLh2ud9bMWNi9wLI"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208125,
+      "name": "La Bailadora",
+      "url": "https://open.spotify.com/track/1kKfwNFyWF2qN3vjE4H58p"
     },
     {
       "album": {

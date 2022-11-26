@@ -4,11 +4,12 @@
 
 > These artists changed the world by changing their tune\.  Their music not only grooved but moved the world with personal and political messages.
 
-28 songs - 1 hr 52 min - [published](https://open.spotify.com/playlist/1V8WWR5ROjEXfGUfw3HRgC)
+32 songs - 2 hr 6 min - [published](https://open.spotify.com/playlist/1V8WWR5ROjEXfGUfw3HRgC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Ball Of Confusion \(That's What The World Is Today\)](https://open.spotify.com/track/7gWBXNYoKH7jLZx0MgZCfl) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [My Girl](https://open.spotify.com/album/5IdbJSrVUOScGmNxCMjHUM) | 4:01 | 2019-06-18 | 2022-07-29 |
+| [Ball Of Confusion \(That's What The World Is Today\) \- Single Version/Mono](https://open.spotify.com/track/6jgiZygyAJ9mebZwhRnZyr) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Motown: The Revolution](https://open.spotify.com/album/3uTpxAjAxFu7mW2hh4okbq) | 4:05 | 2019-06-18 | 2022-11-13 |
 | [Ball Of Confusion \(That's What The World Is Today\) \- Single Version/Mono](https://open.spotify.com/track/6SN51pk4UOfKa9Q9DoXEtF) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol\. 2 \- The '70s, '80s, '90s](https://open.spotify.com/album/2kzUxFepw1uLjbgqV537eP) | 4:06 | 2019-06-18 |  |
 | [Black Maybe](https://open.spotify.com/track/1sod6MCxrE8QaGsT7AdbeO) | [Syreeta](https://open.spotify.com/artist/594LqcHtMvKoR0URmSiYJB) | [Syreeta](https://open.spotify.com/album/6U4UAwqd7pbDloRFSwuWLY) | 4:34 | 2019-06-18 |  |
 | [Black Maybe](https://open.spotify.com/track/6tO7l18wFdc88kteJNsmHt) | [Syreeta](https://open.spotify.com/artist/594LqcHtMvKoR0URmSiYJB) | [Syreeta](https://open.spotify.com/album/3n1xzSodX4xbPpXCclA5if) | 4:34 | 2019-06-18 | 2022-07-29 |
@@ -20,6 +21,7 @@
 | [I Should Be Proud](https://open.spotify.com/track/2nxSAQBvF6gDIwZmG6B9nO) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Natural Resources](https://open.spotify.com/album/2LVHRojdrMALUMJpXX4aFJ) | 2:56 | 2019-06-18 |  |
 | [It’s Nation Time](https://open.spotify.com/track/51YTMo5liOoytxQSMTRurI) | [Amiri Baraka](https://open.spotify.com/artist/7KYqj72JjHmay1VKYjC5c4) | [It's Nation Time \- African Visionary Music](https://open.spotify.com/album/7nFEkgNDRnjVP1hUvBCf5k) | 3:08 | 2019-06-18 |  |
 | [Mercy Mercy Me \(The Ecology\)](https://open.spotify.com/track/3IDc87lrpEHWFBASmgTgFV) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B) | 3:13 | 2019-06-18 |  |
+| [Mercy Mercy Me \(The Ecology\)](https://open.spotify.com/track/5dtab4o0NqDeeymFjg0RfK) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Black History Month](https://open.spotify.com/album/32ngS0LPwYA1OqO59sCP6z) | 3:16 | 2019-06-18 | 2022-11-13 |
 | [Mercy Mercy Me \(The Ecology\)](https://open.spotify.com/track/1dnTzkUEdwm9jrmdpKSfWU) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/1tIrtPivfbpXp1Fp9fdhsg) | 3:16 | 2019-06-18 | 2022-07-29 |
 | [Message From A Black Man \- Stereo](https://open.spotify.com/track/7uwymVAAwqC5VI5IUkGt6s) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Psychedelic Soul](https://open.spotify.com/album/5zPOHYH3syqB7vMfo6hs6G) | 6:04 | 2019-06-18 |  |
 | [My People...Hold On](https://open.spotify.com/track/5zKAlrdrdEkBkylhwT3cqH) | [Eddie Kendricks](https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn) | [People..\. Hold On](https://open.spotify.com/album/56H0s8mDvyhVZOWn3vEBgS) | 5:40 | 2019-06-18 |  |
@@ -28,6 +30,7 @@
 | [Smiling Faces Sometimes](https://open.spotify.com/track/5Vdg4tP25ffeGEC5GGmCwm) | [The Undisputed Truth](https://open.spotify.com/artist/2tkwWmcZOQPNbbIdknfBsw) | [The Undisputed Truth](https://open.spotify.com/album/0HHW9b70iZmfWNcFfjOFEz) | 3:18 | 2019-06-18 |  |
 | [Standing In The Shadows Of Love](https://open.spotify.com/track/2sD2XkPogLt7keXttj7F9o) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Reach Out](https://open.spotify.com/album/4Jw0RycAqlXeAoymbc0CYp) | 2:37 | 2019-06-18 |  |
 | [Standing In The Shadows Of Love](https://open.spotify.com/track/410S5c6jdjG5TyGZUvlqx1) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [20th Century Masters – The Millennium Collection: The Best Of](https://open.spotify.com/album/3dfUrPJtFPlqZxoxD2f0Kb) | 2:38 | 2019-06-18 | 2022-07-29 |
+| [Standing In The Shadows Of Love](https://open.spotify.com/track/1mpBEnhwDEGepVVuOLPP7u) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [20th Century Masters: The Millennium Collection: Best Of The Four Tops](https://open.spotify.com/album/0OsqdLxQpBWI2Fw6Ztxc0D) | 2:41 | 2019-06-18 | 2022-11-13 |
 | [Stoned Love \- Single Version](https://open.spotify.com/track/03IOfDZjjJNG8lDrpEB0ZS) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Gold](https://open.spotify.com/album/7bPBdkx7Vm2vqDkwnfNlg8) | 2:57 | 2019-06-18 |  |
 | [Village Ghetto Land](https://open.spotify.com/track/1xZv5HMOdnP1V4pfDFHdA1) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 3:25 | 2019-06-18 |  |
 | [Village Ghetto Land](https://open.spotify.com/track/0dG7mCPPLmwf1HQ1svKA5c) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/7CHbtqCFJhRwQ6I3Smf74c) | 3:25 | 2019-06-18 | 2022-07-29 |
@@ -35,6 +38,7 @@
 | [What The World Needs Now Is Love/Abraham, Martin And John](https://open.spotify.com/track/706CvlhWdQi3hmCEas3iBN) | [Tom Clay](https://open.spotify.com/artist/07PipPbqSffwUKRCQ5AcC6) | [The Complete Motown Singles Vol\. 11A: 1971](https://open.spotify.com/album/7B8AZ5Vx6quCCl5sDX6TaZ) | 6:19 | 2019-06-18 |  |
 | [What's Going On](https://open.spotify.com/track/3Um9toULmYFGCpvaIPFw7l) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B) | 3:53 | 2019-06-18 |  |
 | [What's Going On](https://open.spotify.com/track/4RNHbYuRaZesMODlihhsUG) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/3OpydOJywRIIozfItYnQlr) | 3:56 | 2019-06-18 | 2022-07-29 |
+| [What's Going On](https://open.spotify.com/track/263r3yt2PU9kLeGJZB8nwU) | [Profyle](https://open.spotify.com/artist/4WC2Edj7Ruq94JH2jkC5hB) | [Marvin Is 60: A Tribute Album](https://open.spotify.com/album/3SX6I8EJMwO2GAvlv3mC4h) | 3:58 | 2019-06-18 | 2022-11-13 |
 | [Zoom](https://open.spotify.com/track/14Tj6yYXItEhy466a0yeR0) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Commodores](https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl) | 6:44 | 2019-06-18 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

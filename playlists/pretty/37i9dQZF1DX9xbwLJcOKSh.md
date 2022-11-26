@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xbwLJcOKSh.md) - [plain]
 
 > 作曲、編曲、プロデュースワークを中心に活動。ジャンルを超えた表現で三木鶏郎広告音楽賞等、数々のアワードを受賞。
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,338 likes - 70 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,747 likes - 70 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xbwLJcOKSh.md) - [plain]
 | 38 | [Shine \-未来へかざす火のように\-](https://open.spotify.com/track/4yTLOJVd24fgt20yt0GyX3) | [Ayaka Hirahara](https://open.spotify.com/artist/0AzJGufY9eXWy5wHZWQ71H) | [What I am](https://open.spotify.com/album/4IGFw3TSI042ngF2gIZpuR) | 4:15 |
 | 39 | [愛してるのに Piano version](https://open.spotify.com/track/61SOOWxYCc8WHiFOhBU7Tl) | [Kome Kome Club](https://open.spotify.com/artist/5lTGqFmlTng9jPrs7c2dRA) | [ICTL no.2](https://open.spotify.com/album/61ynUPJZ4xCmxWPiNf7wNn) | 3:23 |
 | 40 | [恵みの雨](https://open.spotify.com/track/4OeAsBUmDCMwmLxG5fD1LJ) | [Chitose Hajime](https://open.spotify.com/artist/0ii3SuIwfRs4pRH2sQ1J0U) | [カッシーニ](https://open.spotify.com/album/6tquAUs8bW10pP2xLggb5f) | 5:43 |
-| 41 | [約束はいらない](https://open.spotify.com/track/0DU2Iw0OYOYPX4kMOZo2dl) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [グレープフルーツ](https://open.spotify.com/album/3DoNxjRSTZnR4NLrQZhTFO) | 3:32 |
-| 42 | [Flying Dragon](https://open.spotify.com/track/7J5E5BotnQlI6K2rxUQ4tJ) | [Yoko Kanno](https://open.spotify.com/artist/0lbYsAt8JNKNjttbncKg8i) | [The Vision of Escaflowne \(Original Motion Picture Soundtrack 1\)](https://open.spotify.com/album/4zBOySfThJ2wF4ZLhYroCR) | 2:39 |
+| 41 | [Yakusoku wa Iranai](https://open.spotify.com/track/2EZWkcGFyjVtVhP3ksGyHX) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [The Vision of Escaflowne \(Original Motion Picture Soundtrack 1\)](https://open.spotify.com/album/4zBOySfThJ2wF4ZLhYroCR) | 3:35 |
+| 42 | [Flying Dragon](https://open.spotify.com/track/7J5E5BotnQlI6K2rxUQ4tJ) | [Warsaw Philharmonic Orchestra](https://open.spotify.com/artist/3Wqs5ZgX7Orq4YKtPhHdED) | [The Vision of Escaflowne \(Original Motion Picture Soundtrack 1\)](https://open.spotify.com/album/4zBOySfThJ2wF4ZLhYroCR) | 2:39 |
 | 43 | [What Planet Is This.](https://open.spotify.com/track/5kGuWgZTWqroIArQQqttqV) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [COWBOY BEBOP Tank! the! Best!](https://open.spotify.com/album/2RQPHIImcaZaJBmptZAY9A) | 2:44 |
 | 44 | [Moon](https://open.spotify.com/track/77VKOwdGGp2ObwIIUVlosT) | [Gabriela Robin](https://open.spotify.com/artist/1KvNXSn0FKGELFRpfm3ONi) | [Turn a Gundam Original Motion Picture Soundtrack Ⅰ](https://open.spotify.com/album/0eQvZKz4BZSlqcifV0iFyL) | 5:15 |
 | 45 | [覚醒](https://open.spotify.com/track/1dPG9yEByXqXrU7cdQC3Or) | [Gabriela Robin](https://open.spotify.com/artist/1KvNXSn0FKGELFRpfm3ONi) | [アルジュナ into the another world](https://open.spotify.com/album/49uGwPXsVfNO8jtV5Hp4dU) | 7:57 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xbwLJcOKSh.md) - [plain]
 | 69 | [Ranka to Bobby no SMS Shoutai no Uta](https://open.spotify.com/track/4Z2UGK0tmXr4R0iUtQVh4X) | [Ranka Lee with Bobby Margo](https://open.spotify.com/artist/3zxmHKGd8fsi8XXYDaYgaK) | [MACROSS FRONTIER Ranka to Bobby no SMS Shoutai no Uta Nado.](https://open.spotify.com/album/09TpsQuLrcuECkeQaurAd3) | 1:00 |
 | 70 | [おてもやん](https://open.spotify.com/track/19kZmy3DQQxLbsHdAot5I6) | [Sayuri Ishikawa](https://open.spotify.com/artist/1tYbvS6Nkq4Rxvx8ZRTzJP) | [民 \~Tami\~](https://open.spotify.com/album/7fOVjAaS7rqZFoVpyr6wZK) | 3:36 |
 
-Snapshot ID: `MTY0NjA2MDQwMCwwMDAwMDAwMDY4ZjI2MGE4Mzk3M2I1NDllMmIxOGNkOGQyYjcyYTUw`
+Snapshot ID: `MTY0NjA2MDQwMCwwMDAwMDAwMDg5MmQwZmM5NTUyZThkNDcwZDRiNGNjZjU4OGQ0ZjFm`

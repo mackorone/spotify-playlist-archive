@@ -631,7 +631,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 423376,
       "name": "Hallelujah Here Below",
       "url": "https://open.spotify.com/track/5PY5NbWxkAUkVQuvIuTHkz"
@@ -955,7 +955,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 300373,
       "name": "I Will Rise",
       "url": "https://open.spotify.com/track/7j1e730A8K1my1mM4knYmr"
@@ -1145,6 +1145,24 @@
       "duration_ms": 212466,
       "name": "Lift Me Up",
       "url": "https://open.spotify.com/track/0i08LLgnQSCIVAXdKztzZ8"
+    },
+    {
+      "album": {
+        "name": "The Beginning & Everything After",
+        "url": "https://open.spotify.com/album/30Cu7H7abvkKw8EuWckmG0"
+      },
+      "artists": [
+        {
+          "name": "The Afters",
+          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 214733,
+      "name": "Lift Me Up",
+      "url": "https://open.spotify.com/track/4UQA7EZ8gy25ibL2dfMqMG"
     },
     {
       "album": {
@@ -1456,6 +1474,24 @@
     },
     {
       "album": {
+        "name": "One Day / Heart and Soul",
+        "url": "https://open.spotify.com/album/6l8KK7bbN0YnmZuNbFdPYZ"
+      },
+      "artists": [
+        {
+          "name": "Cochren & Co.",
+          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 207784,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/3oSuWKvHUkNb3AUm6kd2y1"
+    },
+    {
+      "album": {
         "name": "Order",
         "url": "https://open.spotify.com/album/00U0qNjkTvcy9GFg7Z2Xkk"
       },
@@ -1485,7 +1521,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 259399,
       "name": "PEACE",
       "url": "https://open.spotify.com/track/4qHVQTNhEKyCty4Edqn33c"
@@ -1637,7 +1673,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 217799,
       "name": "Rise",
       "url": "https://open.spotify.com/track/49Z7hZgb3LzDy8RogfApYr"
@@ -1673,7 +1709,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 261399,
       "name": "Scars (Come With Livin')",
       "url": "https://open.spotify.com/track/5CYMOjWrVWZqHGv2ObF5mr"
@@ -1689,13 +1725,13 @@
           "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
         },
         {
-          "name": "Benjamin Hastings",
-          "url": "https://open.spotify.com/artist/4Pd7dTx8E1vKJL5TT7RVyX"
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
         }
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 274386,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/6dQAlNaiqvRFb3fCyn8Qf2"
@@ -1825,7 +1861,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-22",
+      "date_removed": null,
       "duration_ms": 238946,
       "name": "Strong Tower",
       "url": "https://open.spotify.com/track/6YP6bn1Id1DgGkX5IB7zuh"

@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 254773,
       "name": "Ain't It The Life",
       "url": "https://open.spotify.com/track/2ifYUfvMNbXQDPJEyk68rP"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-09",
+      "date_removed": "2022-11-13",
       "duration_ms": 317186,
       "name": "All In One Night",
       "url": "https://open.spotify.com/track/5JZdu2fK7qvJgg0DfVmJe5"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 241821,
       "name": "All You're Dreaming Of",
       "url": "https://open.spotify.com/track/17Xof0GRZZfS7ZgjUJ27pH"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 222266,
       "name": "Ana's Song (Open Fire)",
       "url": "https://open.spotify.com/track/2VL5StiQKN8tNYSSDbjvIc"
@@ -275,7 +275,7 @@
       ],
       "date_added": "2021-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-22",
+      "date_removed": "2022-11-13",
       "duration_ms": 252293,
       "name": "Chasing Birds",
       "url": "https://open.spotify.com/track/2jKnUcyrCADkeSy6gcN1qa"
@@ -311,10 +311,28 @@
       ],
       "date_added": "2021-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-22",
+      "date_removed": "2022-11-14",
       "duration_ms": 299253,
       "name": "Conversation Piece",
       "url": "https://open.spotify.com/track/6qV3OEpN6uFCZnzNSslbn1"
+    },
+    {
+      "album": {
+        "name": "Screaming Bloody Murder",
+        "url": "https://open.spotify.com/album/1rqIeDLxDNH5wTVwiklzip"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 199920,
+      "name": "Crash",
+      "url": "https://open.spotify.com/track/20x1lxz8foqlzvMct4cPYT"
     },
     {
       "album": {
@@ -331,7 +349,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 196905,
-      "name": "Disarm - Remastered",
+      "name": "Disarm - 2011 Remaster",
       "url": "https://open.spotify.com/track/6YIggUJW3ttAAPRdnki8RM"
     },
     {
@@ -419,7 +437,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-27",
+      "date_removed": "2022-11-14",
       "duration_ms": 171800,
       "name": "Ever (Foreign Flag)",
       "url": "https://open.spotify.com/track/6lj90SlDI7l1xDLVuxEFDH"
@@ -455,7 +473,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-22",
+      "date_removed": "2022-11-14",
       "duration_ms": 185200,
       "name": "Everything We Need",
       "url": "https://open.spotify.com/track/5oKBOiiJceLlAEQ4VaVe8p"
@@ -491,7 +509,7 @@
       ],
       "date_added": "2021-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": "2022-11-14",
       "duration_ms": 272586,
       "name": "Fly Like an Eagle",
       "url": "https://open.spotify.com/track/0SiS1Iud2fNazdtccUxE7m"
@@ -599,7 +617,7 @@
       ],
       "date_added": "2021-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-02",
+      "date_removed": "2022-11-13",
       "duration_ms": 196146,
       "name": "Gone Away - 2021",
       "url": "https://open.spotify.com/track/01mRJG8JVQnzGpVnGhNQKC"
@@ -678,6 +696,24 @@
     },
     {
       "album": {
+        "name": "Chocolate Starfish And The Hot Dog Flavored Water",
+        "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 347573,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/4u4gi3VbzXQopL8VatxoPV"
+    },
+    {
+      "album": {
         "name": "Echoes, Silence, Patience & Grace",
         "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
       },
@@ -743,7 +779,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": "2022-11-13",
       "duration_ms": 206573,
       "name": "If I Get High",
       "url": "https://open.spotify.com/track/15I2gq8Nill5zwxabTFD6f"
@@ -1002,6 +1038,24 @@
     },
     {
       "album": {
+        "name": "Entertainment",
+        "url": "https://open.spotify.com/album/0DUGIaBZCKKPCqIBsRs9pV"
+      },
+      "artists": [
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 175198,
+      "name": "Lucky People",
+      "url": "https://open.spotify.com/track/7EJw4qOq9wtJw0FoU3GeBq"
+    },
+    {
+      "album": {
         "name": "Puzzle",
         "url": "https://open.spotify.com/album/6XVx5wCqkpSZRCOHslBVK6"
       },
@@ -1056,6 +1110,24 @@
     },
     {
       "album": {
+        "name": "Chill Rock",
+        "url": "https://open.spotify.com/album/59FeguL6eopJ0hgCq1LX1K"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 290493,
+      "name": "Make It Wit Chu",
+      "url": "https://open.spotify.com/track/6ul6m38lfKYXJKE63MjeXF"
+    },
+    {
+      "album": {
         "name": "Morning View",
         "url": "https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY"
       },
@@ -1067,7 +1139,7 @@
       ],
       "date_added": "2021-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-21",
+      "date_removed": "2022-11-13",
       "duration_ms": 258306,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/53qf90GmWQ70MH7LNzJHZb"
@@ -1164,6 +1236,24 @@
     },
     {
       "album": {
+        "name": "OK Computer OKNOTOK 1997 2017",
+        "url": "https://open.spotify.com/album/0tzfI6NFJqcJkWb23R3lRZ"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 228386,
+      "name": "No Surprises - Remastered",
+      "url": "https://open.spotify.com/track/39UJG380DXNHAa07pGdVgI"
+    },
+    {
+      "album": {
         "name": "Pretty. Odd.",
         "url": "https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw"
       },
@@ -1175,7 +1265,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-10",
+      "date_removed": null,
       "duration_ms": 247773,
       "name": "Northern Downpour",
       "url": "https://open.spotify.com/track/49SL9f1Kz73p0bzsNPTY4l"
@@ -1359,6 +1449,24 @@
       "duration_ms": 173853,
       "name": "Polly",
       "url": "https://open.spotify.com/track/3tlXDvaNrrOmdvG0XVUOcv"
+    },
+    {
+      "album": {
+        "name": "Victorious",
+        "url": "https://open.spotify.com/album/2dwb86bhTK0Nr9ClfXQbZA"
+      },
+      "artists": [
+        {
+          "name": "Wolfmother",
+          "url": "https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 229000,
+      "name": "Pretty Peggy",
+      "url": "https://open.spotify.com/track/5jCp5A9hMitx5zeo5Djofm"
     },
     {
       "album": {
@@ -1704,6 +1812,24 @@
     },
     {
       "album": {
+        "name": "Stop The Clocks",
+        "url": "https://open.spotify.com/album/1zaPsC8dBFfesoY62MwMFa"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 259786,
+      "name": "Talk Tonight",
+      "url": "https://open.spotify.com/track/7F7Jz6NRdruilcKQipjAOy"
+    },
+    {
+      "album": {
         "name": "The Masterplan",
         "url": "https://open.spotify.com/album/6tgQeTZ3893n3c3MvlPzi7"
       },
@@ -1830,6 +1956,24 @@
     },
     {
       "album": {
+        "name": "A Thousand Suns",
+        "url": "https://open.spotify.com/album/113yjuFZEqkkbuLi4sEBxo"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 181893,
+      "name": "The Messenger",
+      "url": "https://open.spotify.com/track/45CFyww2OsnABfrBg6FzRY"
+    },
+    {
+      "album": {
         "name": "Brand New Eyes",
         "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
       },
@@ -1949,7 +2093,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": "2022-11-13",
       "duration_ms": 236653,
       "name": "Two People",
       "url": "https://open.spotify.com/track/0htjtrOVbQpWoDYYwPIrWY"
@@ -2151,6 +2295,24 @@
       "duration_ms": 258906,
       "name": "Wonderwall",
       "url": "https://open.spotify.com/track/7JrUo70YjhU4S7flcJtK0k"
+    },
+    {
+      "album": {
+        "name": "Wonderwall",
+        "url": "https://open.spotify.com/album/3ezI4EtsobNEhV0WSEsCGn"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 258906,
+      "name": "Wonderwall",
+      "url": "https://open.spotify.com/track/7dPd3dx4ipBe10xKuhj9eY"
     },
     {
       "album": {

@@ -163,7 +163,7 @@
       ],
       "date_added": "2021-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 310441,
       "name": "Cicada",
       "url": "https://open.spotify.com/track/6mJdEWVOaCayMo8eaSl3Xw"
@@ -530,6 +530,24 @@
     },
     {
       "album": {
+        "name": "The Time of Grunge",
+        "url": "https://open.spotify.com/album/0vyFfU2FIQEzyjpuj6XOqp"
+      },
+      "artists": [
+        {
+          "name": "Silverchair",
+          "url": "https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 253506,
+      "name": "One Way Mule",
+      "url": "https://open.spotify.com/track/4zQxhT6MAP3ry40yCGXVY0"
+    },
+    {
+      "album": {
         "name": "Diorama (U.S. Version)",
         "url": "https://open.spotify.com/album/0Zq85Us1Vyb4BhbjvIx9VN"
       },
@@ -793,7 +811,7 @@
       ],
       "date_added": "2021-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 142626,
       "name": "Surfin' Bird",
       "url": "https://open.spotify.com/track/5HyAFzA2XJgeBc5UBJIpY1"
@@ -944,6 +962,24 @@
     },
     {
       "album": {
+        "name": "Grunge Ballads",
+        "url": "https://open.spotify.com/album/3qHHW8MjwoASvLV9QpaHav"
+      },
+      "artists": [
+        {
+          "name": "Silverchair",
+          "url": "https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 339826,
+      "name": "Tuna In the Brine",
+      "url": "https://open.spotify.com/track/6pnV9NKOoKYrdcbrOuN5lV"
+    },
+    {
+      "album": {
         "name": "Diorama",
         "url": "https://open.spotify.com/album/6Bef401qUtLZTVGXByUycq"
       },
@@ -1049,6 +1085,24 @@
       "duration_ms": 319133,
       "name": "Without You",
       "url": "https://open.spotify.com/track/6zCgvb5Js1s7C3kVERduKs"
+    },
+    {
+      "album": {
+        "name": "Diorama (U.S. Version)",
+        "url": "https://open.spotify.com/album/0Zq85Us1Vyb4BhbjvIx9VN"
+      },
+      "artists": [
+        {
+          "name": "Silverchair",
+          "url": "https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276133,
+      "name": "World Upon Your Shoulders",
+      "url": "https://open.spotify.com/track/3tCvj7xraydixVUIYcNCtr"
     },
     {
       "album": {

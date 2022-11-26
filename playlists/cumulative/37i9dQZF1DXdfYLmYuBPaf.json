@@ -41,10 +41,28 @@
       ],
       "date_added": "2021-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 255600,
       "name": "Alladin Dub",
       "url": "https://open.spotify.com/track/2nx1z24jfU0GlxZRla9ZG9"
+    },
+    {
+      "album": {
+        "name": "Arabadub",
+        "url": "https://open.spotify.com/album/4hZHrfd5gUsmfuM8npYu4X"
+      },
+      "artists": [
+        {
+          "name": "The Spy From Cairo",
+          "url": "https://open.spotify.com/artist/36C73GYwgP8rqwCjUyswoS"
+        }
+      ],
+      "date_added": "2021-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255600,
+      "name": "Alladin Dub",
+      "url": "https://open.spotify.com/track/5TDO53RXRn8fuB1xo47Hrk"
     },
     {
       "album": {
@@ -182,6 +200,24 @@
     },
     {
       "album": {
+        "name": "Subhana (Habibi Funk 012)",
+        "url": "https://open.spotify.com/album/53dT1l75UAQQlqCRl2IZRY"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Ben Ali",
+          "url": "https://open.spotify.com/artist/6Gej8kFQeKbjY7dS9HXu1w"
+        }
+      ],
+      "date_added": "2021-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256250,
+      "name": "Dameek Majeb",
+      "url": "https://open.spotify.com/track/5T2fEj5W670f2PfDtz1k8V"
+    },
+    {
+      "album": {
         "name": "Dameek Majeb (Habibi Funk 012)",
         "url": "https://open.spotify.com/album/5tlK5RVjThB6u2SZlcadcw"
       },
@@ -211,7 +247,7 @@
       ],
       "date_added": "2021-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 256250,
       "name": "Dameek Majeb",
       "url": "https://open.spotify.com/track/7rAL1ZoOYJPm99eEXirsdW"
@@ -403,7 +439,7 @@
     {
       "album": {
         "name": "El Mutakallim\u00fbn",
-        "url": "https://open.spotify.com/album/5iqydn2GwqvYMFyzUv2G22"
+        "url": "https://open.spotify.com/album/3obSjSc8Qljp8szZDgnxrb"
       },
       "artists": [
         {
@@ -414,6 +450,24 @@
       "date_added": "2021-08-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 230746,
+      "name": "Hadari",
+      "url": "https://open.spotify.com/track/2YDgEdu3uJdUYVh5FpjpzQ"
+    },
+    {
+      "album": {
+        "name": "El Mutakallim\u00fbn",
+        "url": "https://open.spotify.com/album/5iqydn2GwqvYMFyzUv2G22"
+      },
+      "artists": [
+        {
+          "name": "Souad Massi",
+          "url": "https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k"
+        }
+      ],
+      "date_added": "2021-08-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
       "duration_ms": 230746,
       "name": "Hadari",
       "url": "https://open.spotify.com/track/5Cqvq0TJINqcWseUgjNde1"
@@ -907,6 +961,24 @@
     {
       "album": {
         "name": "Subhana (Habibi Funk 012)",
+        "url": "https://open.spotify.com/album/53dT1l75UAQQlqCRl2IZRY"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Ben Ali",
+          "url": "https://open.spotify.com/artist/6Gej8kFQeKbjY7dS9HXu1w"
+        }
+      ],
+      "date_added": "2021-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300500,
+      "name": "Subhana",
+      "url": "https://open.spotify.com/track/28pnHNZWzhn2HJ13zatziE"
+    },
+    {
+      "album": {
+        "name": "Subhana (Habibi Funk 012)",
         "url": "https://open.spotify.com/album/3siDndXTdBZqnO8mJiV3uY"
       },
       "artists": [
@@ -935,7 +1007,7 @@
       ],
       "date_added": "2021-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 300500,
       "name": "Subhana",
       "url": "https://open.spotify.com/track/6sDmNtyDHv4WModGvSiRSd"

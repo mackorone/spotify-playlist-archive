@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Free your mind and let your thoughts flow to the sounds of guitar.",
-  "name": "Focus Guitar",
+  "description": "Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.",
+  "name": "Study Guitar",
   "published_playlist_ids": [
     "4HU2Rw6bNgsjgvEsWWL6e8"
   ],
@@ -131,6 +131,24 @@
       "duration_ms": 197542,
       "name": "Arbonne",
       "url": "https://open.spotify.com/track/39lP6wfJd0sADo8QQVNuPo"
+    },
+    {
+      "album": {
+        "name": "Arrival at Eight",
+        "url": "https://open.spotify.com/album/6wRfEhLfpsIBuHVPDofp0E"
+      },
+      "artists": [
+        {
+          "name": "Andreas Heuser",
+          "url": "https://open.spotify.com/artist/1TPRvsNV32KEuCAYTh9mg6"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218480,
+      "name": "Arrival at Eight",
+      "url": "https://open.spotify.com/track/3kxSndcN8vYmIJiZvyhj8J"
     },
     {
       "album": {
@@ -296,6 +314,54 @@
     },
     {
       "album": {
+        "name": "A Place To Call Home",
+        "url": "https://open.spotify.com/album/1cMd7URSyipZLbHSxiXM5G"
+      },
+      "artists": [
+        {
+          "name": "Kyle McEvoy",
+          "url": "https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft"
+        },
+        {
+          "name": "Moriah Wolfe",
+          "url": "https://open.spotify.com/artist/0CYYj8G2owqzuC8Ysa8u2t"
+        },
+        {
+          "name": "Luis \u00c1lvarez",
+          "url": "https://open.spotify.com/artist/3zowTYcPBFKlG4Hi98bPpq"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72987,
+      "name": "Canopy",
+      "url": "https://open.spotify.com/track/0jHu8QbSuwABUWnf1nQxFd"
+    },
+    {
+      "album": {
+        "name": "Classic Williams -- Romance of the Guitar",
+        "url": "https://open.spotify.com/album/3lXBNgLzlsHOP9lLbepn6b"
+      },
+      "artists": [
+        {
+          "name": "Stanley Myers",
+          "url": "https://open.spotify.com/artist/6l6NgkV6IWYKlRN7jHCQmt"
+        },
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/6mBYeMZZUhJKEvRXagJYzY"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188666,
+      "name": "Cavatina",
+      "url": "https://open.spotify.com/track/28W5lTZMClVz9fLt6iiaJN"
+    },
+    {
+      "album": {
         "name": "Acoustic Journey",
         "url": "https://open.spotify.com/album/4At2sTH7tL2Ovys5npBy7g"
       },
@@ -326,7 +392,7 @@
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 151944,
+      "duration_ms": 151949,
       "name": "Cheese and Wine",
       "url": "https://open.spotify.com/track/2tjM3I6MKoiggjXcupqR3s"
     },
@@ -440,6 +506,42 @@
     },
     {
       "album": {
+        "name": "Cradle",
+        "url": "https://open.spotify.com/album/6L684rP3Pe8ChjjYQJTUTu"
+      },
+      "artists": [
+        {
+          "name": "Verona Cassidy",
+          "url": "https://open.spotify.com/artist/6yDAXIdSTIU3nLU6MeYIz0"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142925,
+      "name": "Cradle",
+      "url": "https://open.spotify.com/track/6cEC34q3A0RQNSthy6UtwK"
+    },
+    {
+      "album": {
+        "name": "Currer Bell",
+        "url": "https://open.spotify.com/album/7Fes7QyLJptB1xdfzTJmPK"
+      },
+      "artists": [
+        {
+          "name": "Georg Gardner",
+          "url": "https://open.spotify.com/artist/6f0loscSdyOfbHMWJSV9Pv"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151309,
+      "name": "Currer Bell",
+      "url": "https://open.spotify.com/track/2FhRsngrjvqDFGT94BX7vu"
+    },
+    {
+      "album": {
         "name": "Cuyutlan",
         "url": "https://open.spotify.com/album/7HhrRiyLX4MJ9m3brNjQ0H"
       },
@@ -548,6 +650,24 @@
     },
     {
       "album": {
+        "name": "Droplets",
+        "url": "https://open.spotify.com/album/3hgVEb5uOhSbwPnosbYMZt"
+      },
+      "artists": [
+        {
+          "name": "Mino Lawrence",
+          "url": "https://open.spotify.com/artist/7HHsz4iMR3pWHCusoe8Yyb"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142874,
+      "name": "Droplets",
+      "url": "https://open.spotify.com/track/5dqXVZIkN8zzWQTStYGr0i"
+    },
+    {
+      "album": {
         "name": "Dulces Sue\u00f1os",
         "url": "https://open.spotify.com/album/0Z0MbM8YTWu2BzoqZymHff"
       },
@@ -620,6 +740,24 @@
     },
     {
       "album": {
+        "name": "Salzburger Winter",
+        "url": "https://open.spotify.com/album/5vYvjK1qarprGS6dmqb8xr"
+      },
+      "artists": [
+        {
+          "name": "Camilo Branca",
+          "url": "https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184540,
+      "name": "Erwachen der Berge",
+      "url": "https://open.spotify.com/track/05VGUOV68jMyJEc2iTRId8"
+    },
+    {
+      "album": {
         "name": "Etude",
         "url": "https://open.spotify.com/album/6tgFS8XA8GXQswzyNHS6jf"
       },
@@ -635,6 +773,24 @@
       "duration_ms": 147268,
       "name": "Etude",
       "url": "https://open.spotify.com/track/3b0fiwh8g5UubvOVlEWJSx"
+    },
+    {
+      "album": {
+        "name": "Eventide",
+        "url": "https://open.spotify.com/album/0KLP3M9mwfduSGbhX1ypyB"
+      },
+      "artists": [
+        {
+          "name": "Denver Paige",
+          "url": "https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154500,
+      "name": "Eventide",
+      "url": "https://open.spotify.com/track/63Zw5WXjM3OWMu0m6wRtk8"
     },
     {
       "album": {
@@ -1034,6 +1190,42 @@
     },
     {
       "album": {
+        "name": "Is It Worth The Sacrifice",
+        "url": "https://open.spotify.com/album/3acE1KO951uFGG7x2Z7WzQ"
+      },
+      "artists": [
+        {
+          "name": "Francisco Chavez",
+          "url": "https://open.spotify.com/artist/0UIFk9rZStMSw1dx7MKBXD"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226001,
+      "name": "Is It Worth The Sacrifice",
+      "url": "https://open.spotify.com/track/1sEQxb89LCu1u1WtjSOxNL"
+    },
+    {
+      "album": {
+        "name": "Junto Contigo",
+        "url": "https://open.spotify.com/album/0CQXxwOMNTzGvnvtX54HuL"
+      },
+      "artists": [
+        {
+          "name": "Non\u00f4 Ferreira",
+          "url": "https://open.spotify.com/artist/1BHWBUxqmSIEyToEj6Wews"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134466,
+      "name": "Junto Contigo",
+      "url": "https://open.spotify.com/track/5Hb0hG9ulwZBV7FuTnQMia"
+    },
+    {
+      "album": {
         "name": "Kind & Generous",
         "url": "https://open.spotify.com/album/0RYH3vRRJP2wY0IZnhxg8R"
       },
@@ -1121,6 +1313,24 @@
       "duration_ms": 185848,
       "name": "Larghetto",
       "url": "https://open.spotify.com/track/3NvvbRZxy4yis6QTaHyVMx"
+    },
+    {
+      "album": {
+        "name": "Largo",
+        "url": "https://open.spotify.com/album/6uN9lAKq2SWb9NKeyVuZWG"
+      },
+      "artists": [
+        {
+          "name": "Leandra Costa",
+          "url": "https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125273,
+      "name": "Largo",
+      "url": "https://open.spotify.com/track/0kyoafwrCw1YoY1vy8ULWI"
     },
     {
       "album": {
@@ -1290,6 +1500,64 @@
     },
     {
       "album": {
+        "name": "Minore Sostenuto, Op. 107",
+        "url": "https://open.spotify.com/album/3AegI4cYed4MJCAF39DqQC"
+      },
+      "artists": [
+        {
+          "name": "Mauro Giuliani",
+          "url": "https://open.spotify.com/artist/4qXtGiJP51BsAIi4bJNeir"
+        },
+        {
+          "name": "Bill Russell",
+          "url": "https://open.spotify.com/artist/7ilKUFoBWbdNujwb6t0PKe"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196607,
+      "name": "Minore Sostenuto, Op. 107",
+      "url": "https://open.spotify.com/track/7xyK7jldqjNERe6RP0DWuZ"
+    },
+    {
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/4SEJYvpvBcKwRGS83ihp2f"
+      },
+      "artists": [
+        {
+          "name": "Sergio Sorrentino",
+          "url": "https://open.spotify.com/artist/2hV0tEHHlVNNr8qxpBr1qN"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/5gaAuySZEHflS9lLLIEXkG"
+    },
+    {
+      "album": {
+        "name": "My Lily",
+        "url": "https://open.spotify.com/album/4hOTsk6CmC7ND7WLccFf7N"
+      },
+      "artists": [
+        {
+          "name": "Astrid Everdahl",
+          "url": "https://open.spotify.com/artist/3Qj9pNM2oNE8oSVjw6KBOz"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143489,
+      "name": "My Lily",
+      "url": "https://open.spotify.com/track/6CK7lYN56EyRiNbBCJd5MH"
+    },
+    {
+      "album": {
         "name": "Everybody Loves You",
         "url": "https://open.spotify.com/album/5CbsLK7qbFYtYsGrUTwy3L"
       },
@@ -1305,6 +1573,24 @@
       "duration_ms": 210906,
       "name": "Night After Sidewalk",
       "url": "https://open.spotify.com/track/0JUa8PNsS6fvWz2Keb5KLq"
+    },
+    {
+      "album": {
+        "name": "Nocturne Op. 4 No. 2",
+        "url": "https://open.spotify.com/album/4WadMNopzoXjhz6T4IHq7l"
+      },
+      "artists": [
+        {
+          "name": "Pacific Strings",
+          "url": "https://open.spotify.com/artist/5rMCidkAPpXFooZbVUrbuZ"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137000,
+      "name": "Nocturne Op. 4 No. 2",
+      "url": "https://open.spotify.com/track/4iK7z42CWaijzImqMHMlwY"
     },
     {
       "album": {
@@ -1470,6 +1756,46 @@
     },
     {
       "album": {
+        "name": "Guitar Night",
+        "url": "https://open.spotify.com/album/4f1TGN1XlNUFsB6jLPmvvy"
+      },
+      "artists": [
+        {
+          "name": "Brad Rau",
+          "url": "https://open.spotify.com/artist/6Xjsd6nZrHRWQawUbGpkgZ"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320521,
+      "name": "Prelude 1 by Heitor Villa-Lobos",
+      "url": "https://open.spotify.com/track/2ps8YRrepQ0SIDk9iVEnPu"
+    },
+    {
+      "album": {
+        "name": "Georg Guly\u00e1s Plays Barrios",
+        "url": "https://open.spotify.com/album/1mYz7NymOSukKdtbhOrw6V"
+      },
+      "artists": [
+        {
+          "name": "Agust\u00edn Barrios Mangor\u00e9",
+          "url": "https://open.spotify.com/artist/5cOuSl6E1SSG9oPcOYRZQR"
+        },
+        {
+          "name": "Georg Guly\u00e1s",
+          "url": "https://open.spotify.com/artist/2lh2SgZKvD8KiJxZ2vomJC"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143253,
+      "name": "Preludio Saudade: La Catedral",
+      "url": "https://open.spotify.com/track/3IvSvGAOVVMFwjdvnaNC7n"
+    },
+    {
+      "album": {
         "name": "Primrose",
         "url": "https://open.spotify.com/album/5Gh7vqOzgceuNfyFBzR4nT"
       },
@@ -1539,6 +1865,28 @@
       "duration_ms": 137614,
       "name": "Raconteur",
       "url": "https://open.spotify.com/track/06qPEPcQwF1tZWWxRvDVPI"
+    },
+    {
+      "album": {
+        "name": "In The Spanish Style",
+        "url": "https://open.spotify.com/album/2ylRlmfvJD3TZ3t6kt9Rkw"
+      },
+      "artists": [
+        {
+          "name": "Francisco T\u00e1rrega",
+          "url": "https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t"
+        },
+        {
+          "name": "Christopher Parkening",
+          "url": "https://open.spotify.com/artist/2e3OImB8yCNVk1SppFne96"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236106,
+      "name": "Recuerdos De La Alhambra",
+      "url": "https://open.spotify.com/track/7Ahed5NrDuiMeq16Y7LxvI"
     },
     {
       "album": {
@@ -2061,6 +2409,24 @@
       "duration_ms": 150446,
       "name": "To Be Loved",
       "url": "https://open.spotify.com/track/3nrcRpG5QBCXITQMs2i5FL"
+    },
+    {
+      "album": {
+        "name": "Treasure Hunt",
+        "url": "https://open.spotify.com/album/1KK15fZl2o3TzAUC0Q5wf0"
+      },
+      "artists": [
+        {
+          "name": "Fabian Lombardi",
+          "url": "https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166047,
+      "name": "Treasure Hunt",
+      "url": "https://open.spotify.com/track/4gbVPKc38sBEMUUyhnO9JU"
     },
     {
       "album": {

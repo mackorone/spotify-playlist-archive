@@ -4,7 +4,7 @@
 
 > What you really, really want.
 
-44 songs - 2 hr 58 min - [published](https://open.spotify.com/playlist/4pTpjsSxh6QLPsabX0uTEN)
+45 songs - 3 hr 2 min - [published](https://open.spotify.com/playlist/4pTpjsSxh6QLPsabX0uTEN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Feels So Good](https://open.spotify.com/track/6LEJhui7NhqihZwA8kgiHs) | [Mel B](https://open.spotify.com/artist/2vJU4d2jRQb4zJJIQRkyDB) | [Feels So Good](https://open.spotify.com/album/4J9sxXaNAeL903x5GXW2PX) | 4:03 | 2021-07-07 |  |
 | [First Day Of My Life](https://open.spotify.com/track/5R2CW58tHNMbCRxxw5Czkw) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Carolyna \(Edited Version\)](https://open.spotify.com/album/4cSsmBCDVoi8lVUsQYuVdE) | 4:03 | 2021-07-07 |  |
 | [First Day Of My Life](https://open.spotify.com/track/3Uw1TQp2KyidoZUAMbFqRA) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [This Time](https://open.spotify.com/album/2rd04W6HYnxgkQcMyuVsCe) | 4:03 | 2021-07-07 | 2022-07-29 |
-| [For Once In My Life](https://open.spotify.com/track/6X0RiugAou4fvzmJOQwF9y) | [Mel B](https://open.spotify.com/artist/2vJU4d2jRQb4zJJIQRkyDB) | [For Once In My Life](https://open.spotify.com/album/4JCQdSI7bOIZ2F2z1skMXV) | 3:38 | 2021-07-07 |  |
+| [For Once In My Life](https://open.spotify.com/track/6N7xMUdh2aflVmcj2RX3d4) | [Mel B](https://open.spotify.com/artist/2vJU4d2jRQb4zJJIQRkyDB) | [For Once In My Life](https://open.spotify.com/album/0HfyFFJ941UMB9knoEhfpq) | 3:38 | 2021-07-07 |  |
+| [For Once In My Life](https://open.spotify.com/track/6X0RiugAou4fvzmJOQwF9y) | [Mel B](https://open.spotify.com/artist/2vJU4d2jRQb4zJJIQRkyDB) | [For Once In My Life](https://open.spotify.com/album/4JCQdSI7bOIZ2F2z1skMXV) | 3:38 | 2021-07-07 | 2022-10-17 |
 | [Goodbye](https://open.spotify.com/track/6ZNw9Cnc85OeHZrjMAZJfY) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Forever](https://open.spotify.com/album/4jbWZmf7kRxCBD6tgVepYh) | 4:35 | 2021-07-07 |  |
 | [Headlines \(Friendship Never Ends\) \- Radio Version](https://open.spotify.com/track/4ll3zqElfObKDVSIitAIga) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Headlines \(Friendship Never Ends\)](https://open.spotify.com/album/57lvVchSIRneTpEjwdlKdi) | 3:29 | 2021-07-07 |  |
 | [Holler](https://open.spotify.com/track/1NwDWbpg9dPH12xBd2ibrv) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Forever](https://open.spotify.com/album/4jbWZmf7kRxCBD6tgVepYh) | 4:15 | 2021-07-07 |  |

@@ -8,6 +8,46 @@
   "tracks": [
     {
       "album": {
+        "name": "The Spirit of Light",
+        "url": "https://open.spotify.com/album/1grxa0bu0S0u98pDXNnFSg"
+      },
+      "artists": [
+        {
+          "name": "Tope Alabi",
+          "url": "https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU"
+        },
+        {
+          "name": "Ty Bello",
+          "url": "https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-05",
+      "duration_ms": 250360,
+      "name": "Alayo",
+      "url": "https://open.spotify.com/track/6C3VOdOfte4tMLFZT3fOeH"
+    },
+    {
+      "album": {
+        "name": "Koinonia Phase I",
+        "url": "https://open.spotify.com/album/6MdmJ0FsRgpgq3pv1wwtTX"
+      },
+      "artists": [
+        {
+          "name": "MOGmusic",
+          "url": "https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 606941,
+      "name": "Almighty God",
+      "url": "https://open.spotify.com/track/6QqMh9HOshOWh1yhsdcrXv"
+    },
+    {
+      "album": {
         "name": "Always Win (Solo Version)",
         "url": "https://open.spotify.com/album/0BMA6uBobzAh7FD0CNi2FU"
       },
@@ -23,6 +63,36 @@
       "duration_ms": 300562,
       "name": "Always Win (Solo Version)",
       "url": "https://open.spotify.com/track/30c1AtDneDSix6vuRoUdD7"
+    },
+    {
+      "album": {
+        "name": "We Are Fire",
+        "url": "https://open.spotify.com/album/1MBjBNMOTSu2ikfJlt3SIY"
+      },
+      "artists": [
+        {
+          "name": "Ty Bello",
+          "url": "https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J"
+        },
+        {
+          "name": "Sinmidele",
+          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
+        },
+        {
+          "name": "Ore Macaulay",
+          "url": "https://open.spotify.com/artist/2yK1FYSA1D1hTNFD0rFhrD"
+        },
+        {
+          "name": "121 Selah",
+          "url": "https://open.spotify.com/artist/0FjCYT4l6k77uJhK7arnh5"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-05",
+      "duration_ms": 387749,
+      "name": "Amen Amen",
+      "url": "https://open.spotify.com/track/45beXwi0eSva0HfDDZJhjR"
     },
     {
       "album": {
@@ -262,6 +332,24 @@
     },
     {
       "album": {
+        "name": "Come & See",
+        "url": "https://open.spotify.com/album/2jt2SWpIkCZ8ECPo2Y9f6k"
+      },
+      "artists": [
+        {
+          "name": "Moses Akoh",
+          "url": "https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-05",
+      "duration_ms": 447166,
+      "name": "Come & See",
+      "url": "https://open.spotify.com/track/3Mvw1n1cbjNvyH4QRvaj09"
+    },
+    {
+      "album": {
         "name": "Grace (Live/Deluxe)",
         "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
       },
@@ -277,6 +365,24 @@
       "duration_ms": 374706,
       "name": "Confidence - Live",
       "url": "https://open.spotify.com/track/5J0TvJIdYrybgk6SINgieR"
+    },
+    {
+      "album": {
+        "name": "The Expression",
+        "url": "https://open.spotify.com/album/1DTO9Qm1Cx2nVKzMbuwrMm"
+      },
+      "artists": [
+        {
+          "name": "Glowreeyah Braimah",
+          "url": "https://open.spotify.com/artist/4xn29UFDYZE3V9knQ2JSh1"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-05",
+      "duration_ms": 232020,
+      "name": "Covenant Keeper",
+      "url": "https://open.spotify.com/track/3oHMTQYoGL1eEAqFDK4bRh"
     },
     {
       "album": {
@@ -328,6 +434,24 @@
     },
     {
       "album": {
+        "name": "Elohim Adonai",
+        "url": "https://open.spotify.com/album/3u20aiiz0pNhRvOWiXuvvN"
+      },
+      "artists": [
+        {
+          "name": "David Dam",
+          "url": "https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-05",
+      "duration_ms": 227998,
+      "name": "Elohim Adonai",
+      "url": "https://open.spotify.com/track/5dIj0tNjsEeF1h2QfnrGDo"
+    },
+    {
+      "album": {
         "name": "The King Is Coming",
         "url": "https://open.spotify.com/album/1zi8tByoRTWt088vDbI6OG"
       },
@@ -372,6 +496,24 @@
     },
     {
       "album": {
+        "name": "Names of God",
+        "url": "https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-05",
+      "duration_ms": 456029,
+      "name": "Exalted",
+      "url": "https://open.spotify.com/track/5fzrSMisZDfevOeNYX3a7j"
+    },
+    {
+      "album": {
         "name": "Eze Ebube II",
         "url": "https://open.spotify.com/album/79Mo9c2Nw15CQVfePk7IWh"
       },
@@ -383,7 +525,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 432288,
       "name": "Eze Ebube II",
       "url": "https://open.spotify.com/track/4fRi4MMb7bB1nRny2BpqMd"
@@ -401,10 +543,28 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-10-15",
       "duration_ms": 320294,
       "name": "Finally",
       "url": "https://open.spotify.com/track/1SM0jKwjVaAMgVAX7LKgNi"
+    },
+    {
+      "album": {
+        "name": "Finger of God",
+        "url": "https://open.spotify.com/album/2UUEEh4jFo36T6nDf6Hpbh"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-05",
+      "duration_ms": 629019,
+      "name": "Finger of God",
+      "url": "https://open.spotify.com/track/0PzVi2LFRDKt7jKB2ZJg2l"
     },
     {
       "album": {
@@ -546,6 +706,24 @@
     },
     {
       "album": {
+        "name": "Hymns Vol. 1",
+        "url": "https://open.spotify.com/album/432apueG2d09mb1LPrChN6"
+      },
+      "artists": [
+        {
+          "name": "Run51",
+          "url": "https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-11",
+      "duration_ms": 225026,
+      "name": "Great Is Thy Faithfulness",
+      "url": "https://open.spotify.com/track/0BNHjL2jAVYuFfHpPCMcME"
+    },
+    {
+      "album": {
         "name": "Great is Your Faithfulness",
         "url": "https://open.spotify.com/album/60NUOnCVQ28gul1cqFo1hl"
       },
@@ -587,6 +765,24 @@
       "duration_ms": 1373616,
       "name": "Have Your Way - Extended Version",
       "url": "https://open.spotify.com/track/03eLLtNoCSQwYBRBqglw2p"
+    },
+    {
+      "album": {
+        "name": "He\u2019s Here (Acoustic Live Version)",
+        "url": "https://open.spotify.com/album/7hu9MzBVuIvzRcPeKRbPKf"
+      },
+      "artists": [
+        {
+          "name": "kaestrings",
+          "url": "https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-05",
+      "duration_ms": 364538,
+      "name": "He\u2019s Here (Acoustic Live Version)",
+      "url": "https://open.spotify.com/track/7vICvbajavcYKgm9xjLwnk"
     },
     {
       "album": {
@@ -772,6 +968,28 @@
     },
     {
       "album": {
+        "name": "The Bridge",
+        "url": "https://open.spotify.com/album/0hpcHJ05OUYD81SFjR2odm"
+      },
+      "artists": [
+        {
+          "name": "Chingtok Ishaku",
+          "url": "https://open.spotify.com/artist/1lwlqct7jFtSjSvId0bxOQ"
+        },
+        {
+          "name": "Firstlove",
+          "url": "https://open.spotify.com/artist/6JYa5mchuanBIFD4QDTg84"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-05",
+      "duration_ms": 674000,
+      "name": "Kaunar Ka, Oh Ya Yesu - Live",
+      "url": "https://open.spotify.com/track/07yKdaV1fiTDgiZKOcTp13"
+    },
+    {
+      "album": {
         "name": "Greatest Lord",
         "url": "https://open.spotify.com/album/4lBzS3jh7CsoijvRlWhT9r"
       },
@@ -813,6 +1031,24 @@
       "duration_ms": 218506,
       "name": "Know You Will",
       "url": "https://open.spotify.com/track/5PrA5flawVAz8XTBsli1JV"
+    },
+    {
+      "album": {
+        "name": "Koseunti",
+        "url": "https://open.spotify.com/album/5VfphiFcALVuNvfscznY4Z"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-05",
+      "duration_ms": 263575,
+      "name": "Koseunti",
+      "url": "https://open.spotify.com/track/2crS3DOA1Gmf7Y8cXVrvas"
     },
     {
       "album": {
@@ -914,6 +1150,24 @@
     },
     {
       "album": {
+        "name": "Most High",
+        "url": "https://open.spotify.com/album/4DmICvVxirmdQzjbuXEfzS"
+      },
+      "artists": [
+        {
+          "name": "Joepraize",
+          "url": "https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-05",
+      "duration_ms": 367013,
+      "name": "More than the world",
+      "url": "https://open.spotify.com/track/60m6IGnuQ5RGKJhfrGtGmy"
+    },
+    {
+      "album": {
         "name": "The Glory Experience (Live In Houston)",
         "url": "https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ"
       },
@@ -983,6 +1237,32 @@
       "duration_ms": 415920,
       "name": "Nara Testimony",
       "url": "https://open.spotify.com/track/4XNERMODQosvkyZwRh0rNg"
+    },
+    {
+      "album": {
+        "name": "NEVER FORGET",
+        "url": "https://open.spotify.com/album/4hrg22mA1U6Jae5LRPNkgq"
+      },
+      "artists": [
+        {
+          "name": "King Dareal",
+          "url": "https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY"
+        },
+        {
+          "name": "K3ndrick",
+          "url": "https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5"
+        },
+        {
+          "name": "Nolly",
+          "url": "https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217959,
+      "name": "NEVER FORGET",
+      "url": "https://open.spotify.com/track/1ijxBrziPh6sxVk45tlZT8"
     },
     {
       "album": {
@@ -1080,6 +1360,36 @@
     },
     {
       "album": {
+        "name": "O De (He's Here)",
+        "url": "https://open.spotify.com/album/102OKbemB8VGg6OGjBRAba"
+      },
+      "artists": [
+        {
+          "name": "HHPG",
+          "url": "https://open.spotify.com/artist/2aoTlgNAkhR2yHzNvfC1pM"
+        },
+        {
+          "name": "Tobi Walker",
+          "url": "https://open.spotify.com/artist/5lWnHXLsUJDZ9gfcvovpxW"
+        },
+        {
+          "name": "BUKOLA BEKES",
+          "url": "https://open.spotify.com/artist/2dNXRI4NkBERMYl4x5dcxR"
+        },
+        {
+          "name": "Uwana Etuk",
+          "url": "https://open.spotify.com/artist/1vUtm6BcZuvgWqlhCUF2M3"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-05",
+      "duration_ms": 261474,
+      "name": "O De (He's Here)",
+      "url": "https://open.spotify.com/track/6rkjS1nefV5SMIZOLD9I5D"
+    },
+    {
+      "album": {
         "name": "To Yahweh's Delight",
         "url": "https://open.spotify.com/album/779P4ZNqRzXiiw2sIRTXva"
       },
@@ -1095,6 +1405,46 @@
       "duration_ms": 552855,
       "name": "Obinigwe",
       "url": "https://open.spotify.com/track/1zyQByOXDyQlFYzqTuax5l"
+    },
+    {
+      "album": {
+        "name": "Obinigwe",
+        "url": "https://open.spotify.com/album/71H5Wwi06SnNDDJG2XnVoF"
+      },
+      "artists": [
+        {
+          "name": "Minister GUC",
+          "url": "https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 552855,
+      "name": "Obinigwe",
+      "url": "https://open.spotify.com/track/5RvkS0NNUkOoYnDK6xf8xt"
+    },
+    {
+      "album": {
+        "name": "Okemmuo (The Spirit of the Spirit)",
+        "url": "https://open.spotify.com/album/6BIkUGVK0K4LRoebCTGG6s"
+      },
+      "artists": [
+        {
+          "name": "Chioma Jesus",
+          "url": "https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4"
+        },
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-05",
+      "duration_ms": 354986,
+      "name": "Okemmuo - The Spirit of the Spirit",
+      "url": "https://open.spotify.com/track/1sK5xKa8ewU1g6oPngoAeq"
     },
     {
       "album": {
@@ -1147,6 +1497,42 @@
       "duration_ms": 438744,
       "name": "Olorun Agbaye - You Are Mighty",
       "url": "https://open.spotify.com/track/05o0RoSQ1pQFvHe54uFUZf"
+    },
+    {
+      "album": {
+        "name": "Omo Baba",
+        "url": "https://open.spotify.com/album/4bup49mjtfuz6vRg1a2Uw2"
+      },
+      "artists": [
+        {
+          "name": "Spirit of Prophecy",
+          "url": "https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-05",
+      "duration_ms": 195446,
+      "name": "Omo Baba",
+      "url": "https://open.spotify.com/track/6Cq9fb1yZMQ7ZljGQLkkSJ"
+    },
+    {
+      "album": {
+        "name": "Future Now",
+        "url": "https://open.spotify.com/album/4vcO7GRBDd8zYwZEkzSLIJ"
+      },
+      "artists": [
+        {
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-05",
+      "duration_ms": 345077,
+      "name": "Only You Jesus",
+      "url": "https://open.spotify.com/track/4FlcVpYoYw84TFQyIr7oH8"
     },
     {
       "album": {
@@ -1208,6 +1594,64 @@
     },
     {
       "album": {
+        "name": "Out Of My Belly",
+        "url": "https://open.spotify.com/album/5Ro7tNG0TSpe3E1ynWvKRx"
+      },
+      "artists": [
+        {
+          "name": "Prospa Ochimana",
+          "url": "https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-05",
+      "duration_ms": 380040,
+      "name": "Out Of My Belly",
+      "url": "https://open.spotify.com/track/19OhFys7Cga8g5sHHSY7hE"
+    },
+    {
+      "album": {
+        "name": "Overflow",
+        "url": "https://open.spotify.com/album/6HTnAGRH2XzNOd0jaO482B"
+      },
+      "artists": [
+        {
+          "name": "Chingtok Ishaku",
+          "url": "https://open.spotify.com/artist/1lwlqct7jFtSjSvId0bxOQ"
+        },
+        {
+          "name": "First Love",
+          "url": "https://open.spotify.com/artist/5NvCvGYLahLQcc7s5AqMfJ"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-05",
+      "duration_ms": 752216,
+      "name": "Overflow - Live",
+      "url": "https://open.spotify.com/track/5fGEWpEGRbeqiSx0BFM4ri"
+    },
+    {
+      "album": {
+        "name": "Shouts of Grace",
+        "url": "https://open.spotify.com/album/4SLDYrRz9OuqqY9ZoC0izS"
+      },
+      "artists": [
+        {
+          "name": "Eno Michael",
+          "url": "https://open.spotify.com/artist/4gG4TRziJfH2Tjo5fUqqdk"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-05",
+      "duration_ms": 498791,
+      "name": "Shouts of Grace",
+      "url": "https://open.spotify.com/track/5mNRAl8irEpB8Nuq04UqSG"
+    },
+    {
+      "album": {
         "name": "Heal Our Land (Live)",
         "url": "https://open.spotify.com/album/67zMsfA2nQXycWFOe6CzGC"
       },
@@ -1219,7 +1663,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 461003,
       "name": "Spontaneous Worship 1 - Live",
       "url": "https://open.spotify.com/track/1Ttb0Ex4Tyt8fPwWyCvAAi"
@@ -1284,6 +1728,24 @@
     },
     {
       "album": {
+        "name": "Songs of the Spirit",
+        "url": "https://open.spotify.com/album/4VT477X1Zs9XZkevo0dVEf"
+      },
+      "artists": [
+        {
+          "name": "Elijah Oyelade",
+          "url": "https://open.spotify.com/artist/2oRaSHeT9xVpXFvon3U4ak"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-05",
+      "duration_ms": 311133,
+      "name": "Thank You Jesus",
+      "url": "https://open.spotify.com/track/0ckaJapxvZXRheLq71K2bC"
+    },
+    {
+      "album": {
         "name": "These Same Skies (Live)",
         "url": "https://open.spotify.com/album/08skyG33WqHITgFg6S09LR"
       },
@@ -1324,6 +1786,24 @@
     },
     {
       "album": {
+        "name": "The Only God",
+        "url": "https://open.spotify.com/album/0oCDl8tXWW4izMRgXnTzNf"
+      },
+      "artists": [
+        {
+          "name": "Mairo Ese",
+          "url": "https://open.spotify.com/artist/78QoE7x1Wt8whxsUItnwm9"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-05",
+      "duration_ms": 443612,
+      "name": "The Only God",
+      "url": "https://open.spotify.com/track/6jriZl0MvIiURIS64fSqfO"
+    },
+    {
+      "album": {
         "name": "There's an Overflow",
         "url": "https://open.spotify.com/album/7bCb9oOr3rwnZ5YHJbwTBm"
       },
@@ -1339,6 +1819,28 @@
       "duration_ms": 490000,
       "name": "There's an Overflow",
       "url": "https://open.spotify.com/track/5pccP1TA1WGNrYXAHF8xNU"
+    },
+    {
+      "album": {
+        "name": "Unlimited God, Vol. 4",
+        "url": "https://open.spotify.com/album/4MnjOxY34Yi4NrIYPb2V1V"
+      },
+      "artists": [
+        {
+          "name": "Olumide Iyun",
+          "url": "https://open.spotify.com/artist/7s4JPpeVPMOGeS3eODEheL"
+        },
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-05",
+      "duration_ms": 312558,
+      "name": "Unlimited God",
+      "url": "https://open.spotify.com/track/15KX1ukuGFhPVhziOMzmxs"
     },
     {
       "album": {
@@ -1397,6 +1899,64 @@
       "duration_ms": 303553,
       "name": "Way\u03b5 Me Yie",
       "url": "https://open.spotify.com/track/7zWTmSyDPBGYHC3vex49jI"
+    },
+    {
+      "album": {
+        "name": "We Raise A Sound",
+        "url": "https://open.spotify.com/album/6IKqbpqiyP91QFtvKTKLEU"
+      },
+      "artists": [
+        {
+          "name": "Nosa",
+          "url": "https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4"
+        },
+        {
+          "name": "121SELAH",
+          "url": "https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-05",
+      "duration_ms": 432185,
+      "name": "We Raise A Sound",
+      "url": "https://open.spotify.com/track/7zwSMMJkrRJNvxFO9w42nA"
+    },
+    {
+      "album": {
+        "name": "Truth in Sounds",
+        "url": "https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq"
+      },
+      "artists": [
+        {
+          "name": "Victoria Orenze",
+          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-05",
+      "duration_ms": 913079,
+      "name": "We Receive",
+      "url": "https://open.spotify.com/track/4kGAazr7iKd4ZXOtbR1mW7"
+    },
+    {
+      "album": {
+        "name": "The Glory Experience (Songs of Zion)",
+        "url": "https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-05",
+      "duration_ms": 778895,
+      "name": "When God Walks In",
+      "url": "https://open.spotify.com/track/38NkJdwVwSzezWnenSYR4A"
     },
     {
       "album": {
@@ -1491,10 +2051,50 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 1885751,
       "name": "Worship Medley",
       "url": "https://open.spotify.com/track/33uzJMAazub75TIKdsEQIV"
+    },
+    {
+      "album": {
+        "name": "Kos'oluwa Laye",
+        "url": "https://open.spotify.com/album/59mTp41rtwoWJG1oIZ9l7v"
+      },
+      "artists": [
+        {
+          "name": "Toluwani",
+          "url": "https://open.spotify.com/artist/43ANlDUE9h33tYuIQCmHj5"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-05",
+      "duration_ms": 527280,
+      "name": "Worship Medley",
+      "url": "https://open.spotify.com/track/7HkX83YLeW3kh0qHnOshsJ"
+    },
+    {
+      "album": {
+        "name": "Overflow",
+        "url": "https://open.spotify.com/album/6O7bLJ0d9fXFfsK2JQ7I4h"
+      },
+      "artists": [
+        {
+          "name": "Worshippers' Circle",
+          "url": "https://open.spotify.com/artist/0ifftjfVRe5U2xnyKXVUpd"
+        },
+        {
+          "name": "Jakes Hinjari",
+          "url": "https://open.spotify.com/artist/0vHke5zDphp49XceKxztGu"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-05",
+      "duration_ms": 392000,
+      "name": "Yabo Da Sujada (Remake)",
+      "url": "https://open.spotify.com/track/23RE8EyR2GHxgh5ndXAJ65"
     },
     {
       "album": {
@@ -1594,6 +2194,28 @@
     },
     {
       "album": {
+        "name": "You Are Good",
+        "url": "https://open.spotify.com/album/0T0KinelR7KZar1y6JiQPn"
+      },
+      "artists": [
+        {
+          "name": "David Nkennor",
+          "url": "https://open.spotify.com/artist/4IunI41jLkKQaKyb3dYESN"
+        },
+        {
+          "name": "Emeka Madubata",
+          "url": "https://open.spotify.com/artist/7vFHoTAS5vHsxPg6z8eJDk"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-05",
+      "duration_ms": 362661,
+      "name": "You Are Good",
+      "url": "https://open.spotify.com/track/6qLxoas1ij6wB5IQfGRfbb"
+    },
+    {
+      "album": {
         "name": "Yes And Amen",
         "url": "https://open.spotify.com/album/2FEhibjz3n9PCtrwNiC1fH"
       },
@@ -1627,6 +2249,50 @@
       "duration_ms": 317840,
       "name": "Your Majesty - Live",
       "url": "https://open.spotify.com/track/72Ze5s3QOwK6g7r0qULokJ"
+    },
+    {
+      "album": {
+        "name": "Your Name",
+        "url": "https://open.spotify.com/album/2LxSXk05DNpcYZfJzBF1y3"
+      },
+      "artists": [
+        {
+          "name": "M'ViTim",
+          "url": "https://open.spotify.com/artist/5Yfi09XNJW2XCdbFZZhLMO"
+        },
+        {
+          "name": "GRACELYNE",
+          "url": "https://open.spotify.com/artist/2moloLNsTmL1NPphDdgIsS"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 506749,
+      "name": "Your Name",
+      "url": "https://open.spotify.com/track/50OdYCrgXjemzCDZ110bQn"
+    },
+    {
+      "album": {
+        "name": "Your Presence",
+        "url": "https://open.spotify.com/album/4jvUvzmRzwUWu74HtHYrLW"
+      },
+      "artists": [
+        {
+          "name": "Israel Odebode",
+          "url": "https://open.spotify.com/artist/5OI7lbxEo6Aful1qsoBlnk"
+        },
+        {
+          "name": "JayMikee",
+          "url": "https://open.spotify.com/artist/1If5luzGOiRqMAlwPchSS2"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-05",
+      "duration_ms": 535228,
+      "name": "Your Presence",
+      "url": "https://open.spotify.com/track/6aqzwVVsawK5WSmlqleua4"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXbqtyDNQsEFL"

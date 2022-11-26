@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/52rJQYDn9Q5dufvGPqqzgf.md) - [plain]
 
 > Celebrate your baby girl and spread the good news!
 
-[Spotify](https://open.spotify.com/user/spotify) - 219 likes - 25 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 222 likes - 25 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

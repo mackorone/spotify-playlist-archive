@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qNE4zrflL7.md) - [plain]
 
 > The songs that influenced everything that has happened since\. Cover: Jimi Hendrix
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,701 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,350 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qNE4zrflL7.md) - [plain]
 | 2 | [All Along the Watchtower](https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 4:00 |
 | 3 | [Fortunate Son](https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Willy And The Poor Boys \(Expanded Edition\)](https://open.spotify.com/album/31q47gQszFt0CddSyMksgO) | 2:20 |
 | 4 | [All Day and All of the Night](https://open.spotify.com/track/78JmElAFmrPNhLjovDR9Jm) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Kinks \(Deluxe\)](https://open.spotify.com/album/08G3mGQXuHItbbsFAz50gJ) | 2:21 |
-| 5 | [She's Not There](https://open.spotify.com/track/3dzW0SoVNyJTWWJimX8stj) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Begin Here](https://open.spotify.com/album/1vWVHhniWzqyNC0UzDDGs4) | 2:25 |
+| 5 | [She's Not There](https://open.spotify.com/track/4Wzt8Dm4xpO3LjWDecP4bA) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Begin Here](https://open.spotify.com/album/1Sv2t548jDyfBDgvVzYJzw) | 2:25 |
 | 6 | [House Of The Rising Sun](https://open.spotify.com/track/7BY005dacJkbO6EPiOh2wb) | [The Animals](https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP) | [The Animals](https://open.spotify.com/album/0Xwkx2TLFwRcoK0OWQ0Msa) | 4:31 |
 | 7 | [White Rabbit](https://open.spotify.com/track/4vpeKl0vMGdAXpZiQB2Dtd) | [Jefferson Airplane](https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF) | [Surrealistic Pillow](https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a) | 2:30 |
 | 8 | [Send Me A Postcard](https://open.spotify.com/track/6EXOSA4BWBM1AUsXxKwYDT) | [Shocking Blue](https://open.spotify.com/artist/5WimOFbBnCU5wI6t5PPpEk) | [Scorpio's Dance](https://open.spotify.com/album/0JqylHtd5MjYXBG2zypr0T) | 2:40 |
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qNE4zrflL7.md) - [plain]
 | 54 | [You're Gonna Miss Me \(2008 Remastered Original Mono LP Version\)](https://open.spotify.com/track/34miSNKQ0xN7EG8zzzaFzI) | [13th Floor Elevators](https://open.spotify.com/artist/7xYxgSJaIf7yOFLmknYX38) | [The Psychedelic Sounds of the 13th Floor Elevators \- 2008 Remaster](https://open.spotify.com/album/2afQ7u8n1CzNBAHjl6OQCG) | 2:26 |
 | 55 | [Crimson & Clover \- Single Version; Mono](https://open.spotify.com/track/1qTfHUVPsZTnrmvwQrAQdW) | [Tommy James & The Shondells](https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI) | [Crimson & Clover / Some Kind of Love](https://open.spotify.com/album/7D5t5lcmEzFyZcr8a1avmL) | 3:28 |
 | 56 | [Waitin' Around to Die](https://open.spotify.com/track/5PHkCHXokZY9u29qLHlgGV) | [Townes Van Zandt](https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof) | [For the Sake of the Song](https://open.spotify.com/album/197FVfctDJPLLqTI48OJBs) | 2:25 |
-| 57 | [A Whiter Shade of Pale \- Original Single Version](https://open.spotify.com/track/78ZqE2tjAxbqEGGlvGnQfT) | [Procol Harum](https://open.spotify.com/artist/0GbqW5TJr7n4is453VOY4C) | [Hits'n'Flips](https://open.spotify.com/album/4fKEheMhcigQBenkttp5CU) | 4:08 |
+| 57 | [A Whiter Shade of Pale \- Original Single Version](https://open.spotify.com/track/1cmjxqobVTrgAiJ0btAleN) | [Procol Harum](https://open.spotify.com/artist/0GbqW5TJr7n4is453VOY4C) | [A Whiter Shade of Pale](https://open.spotify.com/album/16cvzyvunqoYiyr6j34ICO) | 4:08 |
 | 58 | [Telstar](https://open.spotify.com/track/2rtaHm5SkgFzVa5Gr8oTW6) | [The Tornados](https://open.spotify.com/artist/3SblTU11ZKURsHhWGwPpt9) | [Telstar](https://open.spotify.com/album/75gluO7f8LULnkoHouCwqe) | 3:15 |
 | 59 | [Surfin' Bird](https://open.spotify.com/track/2Mik4RyMTMGXscX9QGiDoX) | [The Trashmen](https://open.spotify.com/artist/5QEA3sofVt5QckQA6QX2nN) | [Surfin' Bird](https://open.spotify.com/album/0Jd1JEB052GzXxma58o1nX) | 2:23 |
 | 60 | [Johnny Remember Me](https://open.spotify.com/track/1PmLQePsJbx0n4JjX9RFUj) | [John Leyton](https://open.spotify.com/artist/7oht1HPKaMDnuALYWZHgtV) | [Presenting John Leyton](https://open.spotify.com/album/0q4lFrlaWyQBgiWGiTAmDI) | 2:40 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qNE4zrflL7.md) - [plain]
 | 79 | [The Hedgehog's Song \- 2010 Remaster](https://open.spotify.com/track/7IyDLBtIXS2EKZEt8trS03) | [The Incredible String Band](https://open.spotify.com/artist/0tQzBYPjAardhWpGkqVdNW) | [The 5000 Spirits Or The Layers Of The Onion](https://open.spotify.com/album/3htu0UsV5JuouSfugMHNgS) | 3:27 |
 | 80 | [Philosophy of the World](https://open.spotify.com/track/2WhRJwrsy57H5Mm1P3lykJ) | [The Shaggs](https://open.spotify.com/artist/5ixdD9E7P9r51AOcSInQbl) | [Philosophy of the World](https://open.spotify.com/album/0TzI1YcMAQVdQ4yUZuy7fA) | 2:57 |
 
-Snapshot ID: `MTYzMzQ5MTc5MiwwMDAwMDAwMDIwMzJiZjlmMDFlN2Q2YzdjMWUzMGRiY2YxMGYwNzg4`
+Snapshot ID: `MTYzMzQ5MTc5MiwwMDAwMDAwMDY1YzEwZDk3MmI5ZWQxOWViMDBiZTY1NTc4Y2MzOTFm`

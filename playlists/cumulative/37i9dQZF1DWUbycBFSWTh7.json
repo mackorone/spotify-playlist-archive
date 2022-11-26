@@ -118,6 +118,24 @@
     },
     {
       "album": {
+        "name": "Heavy Tangled",
+        "url": "https://open.spotify.com/album/7fCra7Gxf34kyyr8bo8frX"
+      },
+      "artists": [
+        {
+          "name": "Etur Usheo",
+          "url": "https://open.spotify.com/artist/5cHZZkVwn3o4NGj7XJ1Cxg"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 460800,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/4HxxVwV18v5yIzHtmgBlfB"
+    },
+    {
+      "album": {
         "name": "Aqui Conmigo E.P.",
         "url": "https://open.spotify.com/album/0HX7nQolcrzsoeAXdw99WZ"
       },
@@ -328,6 +346,28 @@
     },
     {
       "album": {
+        "name": "The Tiny House of Delusion (REMIXES)",
+        "url": "https://open.spotify.com/album/7JNnB7EaDlJC23S6NQN4Fu"
+      },
+      "artists": [
+        {
+          "name": "Frivolous",
+          "url": "https://open.spotify.com/artist/3YlS5XmI6AzoEPSLe0tCZj"
+        },
+        {
+          "name": "Oliver Schories",
+          "url": "https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400903,
+      "name": "Daughters - Oliver Schories Remix",
+      "url": "https://open.spotify.com/track/3XJRsEt8YMsLPXZNsLBVtU"
+    },
+    {
+      "album": {
         "name": "Dive",
         "url": "https://open.spotify.com/album/1mwiBmnAqfntxCXACaIjot"
       },
@@ -343,6 +383,24 @@
       "duration_ms": 297103,
       "name": "Descend",
       "url": "https://open.spotify.com/track/5UKeDBuyUvMAbxTgbdohBB"
+    },
+    {
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/0T9t94ZmiwFdMybdAi213o"
+      },
+      "artists": [
+        {
+          "name": "Etur Usheo",
+          "url": "https://open.spotify.com/artist/5cHZZkVwn3o4NGj7XJ1Cxg"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352011,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/7BFEDDCUYqYXnVH5ItVvOo"
     },
     {
       "album": {
@@ -456,6 +514,24 @@
     },
     {
       "album": {
+        "name": "Extassy / In A Distorted Galaxy",
+        "url": "https://open.spotify.com/album/7ik3JfNXlgGFLqeEtgzWS0"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9bastien L\u00e9ger",
+          "url": "https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 583278,
+      "name": "Extassy",
+      "url": "https://open.spotify.com/track/2uK3ghC7nVXanDzeTL22Zw"
+    },
+    {
+      "album": {
         "name": "Closure",
         "url": "https://open.spotify.com/album/2tQMlxXnIuH9bdnytpKZCz"
       },
@@ -485,10 +561,28 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 246446,
       "name": "feel it yah",
       "url": "https://open.spotify.com/track/2dqmfG8IwZwbLfOBq0FkwS"
+    },
+    {
+      "album": {
+        "name": "feel it yah",
+        "url": "https://open.spotify.com/album/2CzGwKbrawnjD37y7HTrL9"
+      },
+      "artists": [
+        {
+          "name": "warner case",
+          "url": "https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246446,
+      "name": "feel it yah",
+      "url": "https://open.spotify.com/track/5qc24f2cFSzQybTHdnq6NQ"
     },
     {
       "album": {
@@ -587,6 +681,24 @@
       "duration_ms": 371822,
       "name": "For The People",
       "url": "https://open.spotify.com/track/4rHcrEa2KGBka5qLmJQUKX"
+    },
+    {
+      "album": {
+        "name": "Trembala",
+        "url": "https://open.spotify.com/album/3ZqhaGJ43PmogKRdwOX3w2"
+      },
+      "artists": [
+        {
+          "name": "Tom Trago",
+          "url": "https://open.spotify.com/artist/2vUpX2Zq1DBdCHuoEnmzkK"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 470427,
+      "name": "Forever Whatever",
+      "url": "https://open.spotify.com/track/1XMqiASp1EugE2Vzc7UmuH"
     },
     {
       "album": {
@@ -994,6 +1106,24 @@
     },
     {
       "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/0Z1WHrjtdt8oCjEQrgIf1e"
+      },
+      "artists": [
+        {
+          "name": "Vesin",
+          "url": "https://open.spotify.com/artist/16bt4x9EfkHTAvJsaz9wh5"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/67OC6FNZ7gfQ0FsXUr5gnI"
+    },
+    {
+      "album": {
         "name": "Holy Sun EP",
         "url": "https://open.spotify.com/album/7iNiSkKg5xuNoaPo2IlfEi"
       },
@@ -1223,6 +1353,24 @@
     {
       "album": {
         "name": "Nine O Nine",
+        "url": "https://open.spotify.com/album/4wM0efpVUJ0P8rGfVhEdxW"
+      },
+      "artists": [
+        {
+          "name": "Dutchican Soul",
+          "url": "https://open.spotify.com/artist/4N3bEmG3H0UjxBI0PNhDTB"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Nine O Nine",
+      "url": "https://open.spotify.com/track/4crwNn1Wsq9ukwC0k99z7e"
+    },
+    {
+      "album": {
+        "name": "Nine O Nine",
         "url": "https://open.spotify.com/album/3IlhSayycfkGlctTf9xvz2"
       },
       "artists": [
@@ -1233,7 +1381,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 196000,
       "name": "Nine O Nine",
       "url": "https://open.spotify.com/track/69AqhrS5e4snOxqLvoplPW"
@@ -1255,6 +1403,28 @@
       "duration_ms": 178000,
       "name": "Noemie",
       "url": "https://open.spotify.com/track/0WcwBpZZ0CLBz47Z1fEqfy"
+    },
+    {
+      "album": {
+        "name": "NY Disco",
+        "url": "https://open.spotify.com/album/4ZpUokSb2Jf6c6J6PV0sHY"
+      },
+      "artists": [
+        {
+          "name": "Seb Skalski",
+          "url": "https://open.spotify.com/artist/1TMuRToXVLIjYsYYg3jmp1"
+        },
+        {
+          "name": "Dave Mayer",
+          "url": "https://open.spotify.com/artist/0WCGrh6RDVagRm473Iwlan"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331699,
+      "name": "NY Disco",
+      "url": "https://open.spotify.com/track/63yOUifcWAb8ijGT0uPWXd"
     },
     {
       "album": {
@@ -1658,6 +1828,24 @@
     },
     {
       "album": {
+        "name": "H2O",
+        "url": "https://open.spotify.com/album/3NnIy6ztlNs1iSoRFOCEH2"
+      },
+      "artists": [
+        {
+          "name": "Relmer",
+          "url": "https://open.spotify.com/artist/2hxnHvKjsAHCGzsXTCKuvy"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297567,
+      "name": "Strange Movement",
+      "url": "https://open.spotify.com/track/0Uiixt84V1yXi45RSMF7VG"
+    },
+    {
+      "album": {
         "name": "Stretch Out Like The World (Timmy Regisford Instrumental Mix)",
         "url": "https://open.spotify.com/album/1INRl1q8mqtP1R09JGjGDC"
       },
@@ -1753,6 +1941,28 @@
       "duration_ms": 305683,
       "name": "The Bang",
       "url": "https://open.spotify.com/track/3rrFrL5DP2VCW95bAs3xWT"
+    },
+    {
+      "album": {
+        "name": "The Compass Jawn",
+        "url": "https://open.spotify.com/album/3GRkliKarE23yqJyW1aBky"
+      },
+      "artists": [
+        {
+          "name": "Charlie Soul Clap",
+          "url": "https://open.spotify.com/artist/4R1FbGcLzUd1poeNQXIb8o"
+        },
+        {
+          "name": "Tom Trago",
+          "url": "https://open.spotify.com/artist/2vUpX2Zq1DBdCHuoEnmzkK"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364329,
+      "name": "The Compass Jawn - Studio Version",
+      "url": "https://open.spotify.com/track/442z2BjwXdn4DlQdqPsmX5"
     },
     {
       "album": {
@@ -1908,6 +2118,90 @@
     },
     {
       "album": {
+        "name": "Time To Smoke",
+        "url": "https://open.spotify.com/album/7Fmb71wkVvWzNToQpklYu4"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "Sebastian Kamae",
+          "url": "https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-15",
+      "duration_ms": 526415,
+      "name": "Time To Smoke",
+      "url": "https://open.spotify.com/track/2UwqX2RbyolszDlJnyqfWG"
+    },
+    {
+      "album": {
+        "name": "The Reset",
+        "url": "https://open.spotify.com/album/4CYp809RvpYL1gVuOvpfiV"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "Sebastian Kamae",
+          "url": "https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 526416,
+      "name": "Time To Smoke",
+      "url": "https://open.spotify.com/track/0nXIRF7CP1a6pQocggvnDu"
+    },
+    {
+      "album": {
+        "name": "The Reset",
+        "url": "https://open.spotify.com/album/37b8oZGEqxo6EUcOLnx9TG"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "Sebastian Kamae",
+          "url": "https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 526416,
+      "name": "Time To Smoke",
+      "url": "https://open.spotify.com/track/0yyjkRWv0FwNEDYiHZzJYn"
+    },
+    {
+      "album": {
+        "name": "First Contact",
+        "url": "https://open.spotify.com/album/4ULoeeCtktRn9rs6nf19jo"
+      },
+      "artists": [
+        {
+          "name": "Luuk Van Dijk",
+          "url": "https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274015,
+      "name": "Together We Rise",
+      "url": "https://open.spotify.com/track/4sHYIG3VE8ZZKnf7lC5nFT"
+    },
+    {
+      "album": {
         "name": "Channel Tres",
         "url": "https://open.spotify.com/album/01Vvrmisrvr1YOIGRn4brG"
       },
@@ -1981,6 +2275,24 @@
       "duration_ms": 446079,
       "name": "ut i rommet",
       "url": "https://open.spotify.com/track/633TwVIHey0bKHskRkDxqV"
+    },
+    {
+      "album": {
+        "name": "Vaal",
+        "url": "https://open.spotify.com/album/7FuSN7H620KARGtXqV9LK6"
+      },
+      "artists": [
+        {
+          "name": "Crouwel",
+          "url": "https://open.spotify.com/artist/1VeS9qe7asGQH9s5J5fjZE"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228818,
+      "name": "Vaal",
+      "url": "https://open.spotify.com/track/1VwrgkMDeccLvOdX9q5QJs"
     },
     {
       "album": {
@@ -2074,6 +2386,24 @@
     },
     {
       "album": {
+        "name": "When I Think Of You",
+        "url": "https://open.spotify.com/album/78M3oJHH65ZP4V03QoEf04"
+      },
+      "artists": [
+        {
+          "name": "Michel De Hey",
+          "url": "https://open.spotify.com/artist/4BY4HaWussT44zj9RiCGzh"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442263,
+      "name": "When I Think Of You",
+      "url": "https://open.spotify.com/track/2vi0ybMrsarWaxKFamBt1k"
+    },
+    {
+      "album": {
         "name": "Without You",
         "url": "https://open.spotify.com/album/2JzfY0rPZuMF108kh8uB43"
       },
@@ -2133,6 +2463,24 @@
       "duration_ms": 347108,
       "name": "Yipalo",
       "url": "https://open.spotify.com/track/1soxvPNeBojuyZIMFmpDZz"
+    },
+    {
+      "album": {
+        "name": "You (Edit)",
+        "url": "https://open.spotify.com/album/1g0z09fYWlrT1oekKW0jnY"
+      },
+      "artists": [
+        {
+          "name": "Dam Swindle",
+          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238065,
+      "name": "You - Edit",
+      "url": "https://open.spotify.com/track/1jH7hiI0cpqofP2yI0dihS"
     },
     {
       "album": {

@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 233093,
       "name": "Bad From Mi Born",
       "url": "https://open.spotify.com/track/5G2KNJJWiG9YELRwDrGbJ5"
@@ -160,6 +160,28 @@
     },
     {
       "album": {
+        "name": "Beautiful",
+        "url": "https://open.spotify.com/album/5RMEm6Ot1GCwwp7Bw5kzFz"
+      },
+      "artists": [
+        {
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+        },
+        {
+          "name": "Bobby Brown",
+          "url": "https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 287800,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/4UDTa7Oqp67A1UyadKyAiw"
+    },
+    {
+      "album": {
         "name": "IT (Incomparable Talent)",
         "url": "https://open.spotify.com/album/0L0sXJEat24OuHrAFRyBqd"
       },
@@ -207,7 +229,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 189013,
       "name": "Bend Ova",
       "url": "https://open.spotify.com/track/7LC5sCPdYJPgKiUXdnIlYe"
@@ -369,7 +391,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": "2022-11-13",
       "duration_ms": 171003,
       "name": "Bruck It Down",
       "url": "https://open.spotify.com/track/3dkyEOVeime8KWl1WicuPM"
@@ -493,6 +515,24 @@
     {
       "album": {
         "name": "Ragga Ragga Ragga 2012",
+        "url": "https://open.spotify.com/album/4Sbct6JwWOmeuItClJ3aw6"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 151893,
+      "name": "Clean",
+      "url": "https://open.spotify.com/track/3OQv29BsNx3dHxxxaty0Ya"
+    },
+    {
+      "album": {
+        "name": "Ragga Ragga Ragga 2012",
         "url": "https://open.spotify.com/album/7ufL2iHy3KiLPTpzqEXeLF"
       },
       "artists": [
@@ -561,7 +601,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": "2022-11-13",
       "duration_ms": 204413,
       "name": "Dancehall Queen (feat. Chevelle Franklyn)",
       "url": "https://open.spotify.com/track/6LGTXFy9KNQeBjUHT9fPFh"
@@ -648,6 +688,24 @@
     },
     {
       "album": {
+        "name": "Best Of Greensleeves: From Dubplate To Download",
+        "url": "https://open.spotify.com/album/60loZfjpshy3dXkZlQunTG"
+      },
+      "artists": [
+        {
+          "name": "Tony Matterhorn",
+          "url": "https://open.spotify.com/artist/6taesTUSevB9eK8bm5Y7b9"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 171173,
+      "name": "Dutty Wine",
+      "url": "https://open.spotify.com/track/5fCUtC3cEoIIONqsCJeeJs"
+    },
+    {
+      "album": {
         "name": "Dutty Wine",
         "url": "https://open.spotify.com/album/7n4bzCw5PPdLJsxhtbrSnv"
       },
@@ -677,7 +735,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 186265,
       "name": "Dye Dye (Raw)",
       "url": "https://open.spotify.com/track/0xWrs2bY4UyaQ3uRm71goW"
@@ -735,6 +793,24 @@
       "duration_ms": 217053,
       "name": "Frenzy",
       "url": "https://open.spotify.com/track/0uihaAV3Pq9jqb5EtCLHnO"
+    },
+    {
+      "album": {
+        "name": "Reggae Gold 2012",
+        "url": "https://open.spotify.com/album/6ZETpi6qYuaLSvgs57jbVS"
+      },
+      "artists": [
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 211106,
+      "name": "Gal A Bubble",
+      "url": "https://open.spotify.com/track/7et4Uio4Aj12NS9TRIojb7"
     },
     {
       "album": {
@@ -821,10 +897,28 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 236906,
       "name": "Ganja Farmer",
       "url": "https://open.spotify.com/track/2zAJvh4y1DBXo7KIqQjumc"
+    },
+    {
+      "album": {
+        "name": "Unconditional Love",
+        "url": "https://open.spotify.com/album/6vCafqC9POiyyLxqC4kdpf"
+      },
+      "artists": [
+        {
+          "name": "Marlon Asher",
+          "url": "https://open.spotify.com/artist/4DeCJnS3fuqohKk4FCVl0y"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236906,
+      "name": "Ganja Farmer",
+      "url": "https://open.spotify.com/track/4IPQwZBtK0B2DabP0rQvV0"
     },
     {
       "album": {
@@ -879,6 +973,24 @@
       "duration_ms": 210280,
       "name": "Get Busy",
       "url": "https://open.spotify.com/track/2PAur5UdDtOOYq234rqZRD"
+    },
+    {
+      "album": {
+        "name": "Happy at Home",
+        "url": "https://open.spotify.com/album/30ZBDSwohb5ccKIm8gREDg"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 211520,
+      "name": "Get Busy",
+      "url": "https://open.spotify.com/track/46jn2cZC7LihghZZosipy2"
     },
     {
       "album": {
@@ -1052,6 +1164,42 @@
     },
     {
       "album": {
+        "name": "123 EP",
+        "url": "https://open.spotify.com/album/483JiX4ZWY8w1TS2EyaaFM"
+      },
+      "artists": [
+        {
+          "name": "Alkaline",
+          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 161041,
+      "name": "Gyal Bruk Out",
+      "url": "https://open.spotify.com/track/3oeicU1vhOHoySeNBhSUFv"
+    },
+    {
+      "album": {
+        "name": "Raw as Eva",
+        "url": "https://open.spotify.com/album/3WWCe11tMBN6nM26gMIeha"
+      },
+      "artists": [
+        {
+          "name": "Alkaline",
+          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-23",
+      "duration_ms": 162377,
+      "name": "Gyal Bruk Out",
+      "url": "https://open.spotify.com/track/6aHhMN1QoYiDttlyOoa9Ck"
+    },
+    {
+      "album": {
         "name": "Gyal You A Party Animal (Remix)",
         "url": "https://open.spotify.com/album/5z2c6YpV0jFcPCsvUN2h6J"
       },
@@ -1146,6 +1294,42 @@
     },
     {
       "album": {
+        "name": "Out Of Many - 50 Years Of Reggae Music",
+        "url": "https://open.spotify.com/album/0Nn2tXLCRQCDBHi510pE1a"
+      },
+      "artists": [
+        {
+          "name": "Gyptian",
+          "url": "https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 233253,
+      "name": "Hold You - Hold Yuh",
+      "url": "https://open.spotify.com/track/48xfw4QT4ufduinmWzEVYD"
+    },
+    {
+      "album": {
+        "name": "The Biggest Ragga Dancehall Anthems 2006",
+        "url": "https://open.spotify.com/album/6LTU2skcIAUHuBSzoX89gh"
+      },
+      "artists": [
+        {
+          "name": "Mr. Vegas",
+          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 167560,
+      "name": "Hot Fuk / Hot Wuk",
+      "url": "https://open.spotify.com/track/0igaj0ZbOAHqhV67znw9Bp"
+    },
+    {
+      "album": {
         "name": "Mr Vegas: The Hits",
         "url": "https://open.spotify.com/album/2ImQoEEg93DwKIIBtb5RLg"
       },
@@ -1157,7 +1341,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-06",
+      "date_removed": null,
       "duration_ms": 167560,
       "name": "Hot Fuk / Hot Wuk",
       "url": "https://open.spotify.com/track/1aoq8ZJBdrqdM1FSzciy4G"
@@ -1293,6 +1477,46 @@
       "duration_ms": 227720,
       "name": "It Wasn't Me",
       "url": "https://open.spotify.com/track/4i387P9kogblRBfjFi3NaX"
+    },
+    {
+      "album": {
+        "name": "Viral Hits Volume 1",
+        "url": "https://open.spotify.com/album/19ziLGUdSx7l3QxPoTgKxY"
+      },
+      "artists": [
+        {
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+        },
+        {
+          "name": "Rik Rok",
+          "url": "https://open.spotify.com/artist/67wCYxOq4A1ohAs7jWYaOJ"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 229194,
+      "name": "It Wasn't Me",
+      "url": "https://open.spotify.com/track/2EhmgdXQeWIqB9ws0ldlBu"
+    },
+    {
+      "album": {
+        "name": "Jeans & Fitted",
+        "url": "https://open.spotify.com/album/2zNOvSefnY5WTy5PyhE2XI"
+      },
+      "artists": [
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-22",
+      "duration_ms": 183293,
+      "name": "Jeans & Fitted",
+      "url": "https://open.spotify.com/track/7uYEwBpZDtVSpdKkUZsGZT"
     },
     {
       "album": {
@@ -1503,6 +1727,24 @@
       "duration_ms": 165026,
       "name": "Love Yuh Everything",
       "url": "https://open.spotify.com/track/0Bhgvv9rPEAGkh8SA5TAtR"
+    },
+    {
+      "album": {
+        "name": "Love Yuh Everything",
+        "url": "https://open.spotify.com/album/32CHNFFfNt5l2bc3vmaPcT"
+      },
+      "artists": [
+        {
+          "name": "Alkaline",
+          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 165026,
+      "name": "Love Yuh Everything - Radio",
+      "url": "https://open.spotify.com/track/3hwAt57KI4hi7qxQWIJWAY"
     },
     {
       "album": {
@@ -1798,6 +2040,28 @@
     },
     {
       "album": {
+        "name": "Adidjaheim Records Presents Introducing Vanessa Bling As Gaza Slim (feat. Vybz Kartel)",
+        "url": "https://open.spotify.com/album/1tv5fSb2eEdGZsFk5qEl0u"
+      },
+      "artists": [
+        {
+          "name": "Gaza Slim",
+          "url": "https://open.spotify.com/artist/7mPRzTE0BI6QMFmWhevSog"
+        },
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 176587,
+      "name": "One Man - Raw",
+      "url": "https://open.spotify.com/track/3Ixu8v1mkMjhCrwIBKxax7"
+    },
+    {
+      "album": {
         "name": "One Man / Moving On",
         "url": "https://open.spotify.com/album/5fSvT6n4ZP4AK401c5xq7b"
       },
@@ -1813,7 +2077,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": "2022-11-13",
       "duration_ms": 176587,
       "name": "One Man / Moving On - Raw",
       "url": "https://open.spotify.com/track/4zmzJgtsV1oPnp1a7Ryi6L"
@@ -1889,6 +2153,24 @@
       "duration_ms": 221194,
       "name": "Ova Dweet",
       "url": "https://open.spotify.com/track/0RQEpWykgNyAMCeuZJDKJt"
+    },
+    {
+      "album": {
+        "name": "Summer Dancehall Jammz",
+        "url": "https://open.spotify.com/album/2xx3A7djBVHOIb1MRQHMQO"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 230391,
+      "name": "Party Shot",
+      "url": "https://open.spotify.com/track/0KGtoNI8useRh4SGxlAvPi"
     },
     {
       "album": {
@@ -1979,6 +2261,24 @@
       "duration_ms": 246960,
       "name": "Pon de Replay",
       "url": "https://open.spotify.com/track/4TsmezEQVSZNNPv5RJ65Ov"
+    },
+    {
+      "album": {
+        "name": "Reggae Gold 2003",
+        "url": "https://open.spotify.com/album/0SFA15LcitRvgBM5SeHQ4v"
+      },
+      "artists": [
+        {
+          "name": "Elephant Man",
+          "url": "https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 239786,
+      "name": "Pon De River Pon De Bank",
+      "url": "https://open.spotify.com/track/1tCWnejv08195hF9ZSS3X3"
     },
     {
       "album": {
@@ -2139,7 +2439,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": "2022-11-22",
       "duration_ms": 231400,
       "name": "Punanny Medley",
       "url": "https://open.spotify.com/track/5GEid99RgStd0cQIhAlGHQ"
@@ -2204,6 +2504,24 @@
     },
     {
       "album": {
+        "name": "Kartel & Spice - Romping Shop",
+        "url": "https://open.spotify.com/album/02mbkRuRMeQNGh0lAcpqRg"
+      },
+      "artists": [
+        {
+          "name": "Vybz Kartel & Spice",
+          "url": "https://open.spotify.com/artist/2dUwcIrsCiTn8EwI9kKBTw"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212597,
+      "name": "Romping Shop (Clean)",
+      "url": "https://open.spotify.com/track/1kKFMi0q6O4xurPGDVYJKl"
+    },
+    {
+      "album": {
         "name": "Salty Tic Toc",
         "url": "https://open.spotify.com/album/64R2rPPNSGSVm7ymfkBHNj"
       },
@@ -2219,6 +2537,24 @@
       "duration_ms": 207491,
       "name": "Salty Tic Toc",
       "url": "https://open.spotify.com/track/3pYhnleytseeXteG94ywqR"
+    },
+    {
+      "album": {
+        "name": "Overproof Riddim",
+        "url": "https://open.spotify.com/album/2W7JoNjlEjtXab5bebno72"
+      },
+      "artists": [
+        {
+          "name": "Mavado",
+          "url": "https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 189821,
+      "name": "Settle Down",
+      "url": "https://open.spotify.com/track/3Az2bI97XNMgYZu98wrQ77"
     },
     {
       "album": {
@@ -2359,7 +2695,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 157400,
       "name": "Stukie",
       "url": "https://open.spotify.com/track/2G55si1hdJpWe9XgaeRV25"
@@ -2377,10 +2713,28 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 167053,
       "name": "Summer Tiime",
       "url": "https://open.spotify.com/track/2aULMaE3NgcnVluZCvxFmT"
+    },
+    {
+      "album": {
+        "name": "The Gaza Don",
+        "url": "https://open.spotify.com/album/5mZSxVXC2BpS8xH0o7vu0H"
+      },
+      "artists": [
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167053,
+      "name": "Summer Tiime",
+      "url": "https://open.spotify.com/track/4jGE3Ct8rgMZQgJshj5Bdp"
     },
     {
       "album": {
@@ -2413,7 +2767,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 95133,
       "name": "Suspense",
       "url": "https://open.spotify.com/track/6PKJhovmnRMA6UJDu3sYwS"
@@ -2449,7 +2803,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 176453,
       "name": "Tek Weh Yuhself",
       "url": "https://open.spotify.com/track/6PWhaGqUfwAXX7MyRluOAu"
@@ -2485,7 +2839,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 177834,
       "name": "Text Message",
       "url": "https://open.spotify.com/track/4u63rBIcBRmEXArgnwMoaa"
@@ -2503,10 +2857,32 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 206582,
       "name": "Things Mi Love",
       "url": "https://open.spotify.com/track/5pUR6ZtoAJ6RZ1NY7EIAZh"
+    },
+    {
+      "album": {
+        "name": "Things Mi Love",
+        "url": "https://open.spotify.com/album/2Ultkk4UOH342Elt4y1dDT"
+      },
+      "artists": [
+        {
+          "name": "Alkaline",
+          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
+        },
+        {
+          "name": "Notnice",
+          "url": "https://open.spotify.com/artist/3xE5Mbgql6pnTTaTifw8UX"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-22",
+      "duration_ms": 207047,
+      "name": "Things Mi Love",
+      "url": "https://open.spotify.com/track/0ANTPHMeOjPIyfGHiKDGU9"
     },
     {
       "album": {
@@ -2575,7 +2951,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": "2022-11-13",
       "duration_ms": 192106,
       "name": "Turn Me On",
       "url": "https://open.spotify.com/track/0RmXtDH1cBMGImRrmn5xL6"
@@ -2629,7 +3005,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": "2022-11-13",
       "duration_ms": 145776,
       "name": "Walk Like a Dog",
       "url": "https://open.spotify.com/track/4w8PtJqCBiggVmXyIgv3u8"
@@ -2745,7 +3121,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 194386,
       "name": "Wine Pon Di Edge",
       "url": "https://open.spotify.com/track/2nDStKSqTRrWF7vyrvvodA"
@@ -2781,7 +3157,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-15",
       "duration_ms": 162373,
       "name": "Worthless Bwoy",
       "url": "https://open.spotify.com/track/2m1vofswv8bhNwFpO5DD1j"

@@ -518,6 +518,28 @@
     },
     {
       "album": {
+        "name": "Check Yourself",
+        "url": "https://open.spotify.com/album/7HlM6tx37YlyZtIBIdsjFl"
+      },
+      "artists": [
+        {
+          "name": "909",
+          "url": "https://open.spotify.com/artist/1BGPK5MFxGtMlDfMym8fQF"
+        },
+        {
+          "name": "Dread MC",
+          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207619,
+      "name": "Check Yourself",
+      "url": "https://open.spotify.com/track/3CBdMIBhkAffORLkygycWR"
+    },
+    {
+      "album": {
         "name": "Images / Closer",
         "url": "https://open.spotify.com/album/0zRA2049WBLpWo0m90Fb6B"
       },
@@ -711,7 +733,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 215282,
       "name": "Don't You Know",
       "url": "https://open.spotify.com/track/3gArWjWhVzXjHDTDhArTVE"
@@ -843,7 +865,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 195558,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/0GES2nyDZvfxIaJmFLmtvz"
@@ -879,7 +901,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 193384,
       "name": "Fallout",
       "url": "https://open.spotify.com/track/0HhugGmV2QI2vUTq8lzm2I"
@@ -955,7 +977,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 198882,
       "name": "Feel So Free",
       "url": "https://open.spotify.com/track/2LXv7VRCHmtusc6B9FfkVW"
@@ -1039,7 +1061,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-01",
+      "date_removed": "2022-11-14",
       "duration_ms": 267272,
       "name": "Forever",
       "url": "https://open.spotify.com/track/3pTc4kmOx7sMJFc9hHxpbm"
@@ -1151,10 +1173,32 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 271602,
       "name": "Got A Groove",
       "url": "https://open.spotify.com/track/1kbGFz4dZDnjtSyjiZvMHC"
+    },
+    {
+      "album": {
+        "name": "Gully",
+        "url": "https://open.spotify.com/album/540DGYXSZ8c1MOMlxug0QQ"
+      },
+      "artists": [
+        {
+          "name": "Solex",
+          "url": "https://open.spotify.com/artist/4sEjCapdcBsTMA0lj1Ep4G"
+        },
+        {
+          "name": "Fugzi",
+          "url": "https://open.spotify.com/artist/7bxrsA8nztT5Gf4E3dRLWc"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210461,
+      "name": "Gully",
+      "url": "https://open.spotify.com/track/4XpseHcAaQbfUugViy1oav"
     },
     {
       "album": {
@@ -1169,7 +1213,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 217142,
       "name": "Hard Baller",
       "url": "https://open.spotify.com/track/6qjIc90us2mKdFNEr6qdZo"
@@ -1479,6 +1523,28 @@
       "duration_ms": 252000,
       "name": "Inside",
       "url": "https://open.spotify.com/track/6y83sAg5Mx81YSzKSUw36j"
+    },
+    {
+      "album": {
+        "name": "Feel So Free Mixtape",
+        "url": "https://open.spotify.com/album/4dHbS7oUzTsbkc0SPRhTWB"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        },
+        {
+          "name": "COUCOU CHLOE",
+          "url": "https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219687,
+      "name": "It's Just This Thing",
+      "url": "https://open.spotify.com/track/1PzMiuvUMQRKfxxNsPAjZR"
     },
     {
       "album": {
@@ -1924,6 +1990,24 @@
     },
     {
       "album": {
+        "name": "No Clip",
+        "url": "https://open.spotify.com/album/12spfrxeApDAVNV3ul5DmF"
+      },
+      "artists": [
+        {
+          "name": "Bushbaby",
+          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254769,
+      "name": "No Clip",
+      "url": "https://open.spotify.com/track/19djX580zpwpDHDAbGnaul"
+    },
+    {
+      "album": {
         "name": "No Fear",
         "url": "https://open.spotify.com/album/7KQ1QH0fvvbSoOZhgELddK"
       },
@@ -2072,6 +2156,28 @@
     },
     {
       "album": {
+        "name": "Over / Holding On",
+        "url": "https://open.spotify.com/album/6JsTt3BENeBQSdVhEfj5TH"
+      },
+      "artists": [
+        {
+          "name": "Penfld",
+          "url": "https://open.spotify.com/artist/0ZcCXqoqA3t1pJiK3kiFbZ"
+        },
+        {
+          "name": "Joshua Blu",
+          "url": "https://open.spotify.com/artist/1HF6XJU6BW3gu4vL4rxkd5"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273245,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/3hctz1DZDroVD2i26nGtLQ"
+    },
+    {
+      "album": {
         "name": "Over You",
         "url": "https://open.spotify.com/album/2CGESyjnHOzZiisdclbMLr"
       },
@@ -2131,7 +2237,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-10-29",
       "duration_ms": 210001,
       "name": "Perfect Crime",
       "url": "https://open.spotify.com/track/3F4LO2MlLyZ5oAJjpsw89J"
@@ -2245,6 +2351,24 @@
       "duration_ms": 249448,
       "name": "Redlight",
       "url": "https://open.spotify.com/track/2vJ707HOqiCUmvuk2OsdDo"
+    },
+    {
+      "album": {
+        "name": "Renegade",
+        "url": "https://open.spotify.com/album/0HlsaMsBjldN8ilQkkF4G8"
+      },
+      "artists": [
+        {
+          "name": "Bad Boy Chiller Crew",
+          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154650,
+      "name": "Renegade",
+      "url": "https://open.spotify.com/track/2QWXmgMXYp1UM3LyHVaAFe"
     },
     {
       "album": {
@@ -2405,6 +2529,28 @@
       "duration_ms": 223725,
       "name": "Shutdown",
       "url": "https://open.spotify.com/track/4gIm8QiIZrLb4UAn4JUXdP"
+    },
+    {
+      "album": {
+        "name": "Signal / Have You Over",
+        "url": "https://open.spotify.com/album/1i685TMCvqmUHQc9ZcGqf4"
+      },
+      "artists": [
+        {
+          "name": "Axel Boy",
+          "url": "https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ"
+        },
+        {
+          "name": "Ruth Royall",
+          "url": "https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253181,
+      "name": "Signal",
+      "url": "https://open.spotify.com/track/2pdswR1p29SsJNP6Zl7d05"
     },
     {
       "album": {
@@ -2759,7 +2905,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 322206,
       "name": "U Get Me",
       "url": "https://open.spotify.com/track/2FvAuESuB9bAlTiZh9bXvG"

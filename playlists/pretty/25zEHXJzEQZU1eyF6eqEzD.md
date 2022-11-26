@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/25zEHXJzEQZU1eyF6eqEzD.md) - [plain]
 
 > A rich, mellow blend of hits to see you through your most productive days and cozy nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110 likes - 65 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 109 likes - 65 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

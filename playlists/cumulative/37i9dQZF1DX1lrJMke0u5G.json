@@ -362,6 +362,24 @@
     },
     {
       "album": {
+        "name": "Rock Nacional Vol. 1",
+        "url": "https://open.spotify.com/album/3TjNMXsM0HSrMkHEJkbDRZ"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 328800,
+      "name": "Ciudad De Pobres Corazones",
+      "url": "https://open.spotify.com/track/10DUFNzLhIInwcCfO6r8SA"
+    },
+    {
+      "album": {
         "name": "Ciudad De Pobres Corazones",
         "url": "https://open.spotify.com/album/4GGCNfkWRUgyu6UjstHlJj"
       },
@@ -505,8 +523,8 @@
           "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
         },
         {
-          "name": "Adan Jodorowsky",
-          "url": "https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag"
+          "name": "Adanowsky",
+          "url": "https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063"
         }
       ],
       "date_added": "2022-02-07",
@@ -637,7 +655,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-12",
+      "date_removed": "2022-11-13",
       "duration_ms": 271400,
       "name": "El Tesoro",
       "url": "https://open.spotify.com/track/0l6LVRTDNFSHVBsqQvMR62"
@@ -1302,6 +1320,24 @@
     },
     {
       "album": {
+        "name": "\u00a1Argentina Rockea!",
+        "url": "https://open.spotify.com/album/1EohtenmD0BmhkAfbTDBDD"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 238733,
+      "name": "Paisano De Hurlingham",
+      "url": "https://open.spotify.com/track/1AG0EiThHYcwIreCtPjocD"
+    },
+    {
+      "album": {
         "name": "La Era De La Boludez",
         "url": "https://open.spotify.com/album/4D1aIzUYKG6jytRjgT0QIx"
       },
@@ -1335,10 +1371,32 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 232226,
       "name": "Paranoia Pop",
       "url": "https://open.spotify.com/track/5BOg9CZMk1nWNMkklZ0Boy"
+    },
+    {
+      "album": {
+        "name": "Paranoia Pop",
+        "url": "https://open.spotify.com/album/7oKpkZ7JZqjK4GP5cyKCyV"
+      },
+      "artists": [
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        },
+        {
+          "name": "LOUTA",
+          "url": "https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232373,
+      "name": "Paranoia Pop",
+      "url": "https://open.spotify.com/track/13WCGJKAWrgZgz6grLryE4"
     },
     {
       "album": {
@@ -1375,6 +1433,24 @@
       "duration_ms": 211493,
       "name": "Partenaire",
       "url": "https://open.spotify.com/track/1qch36rOUF2ZDjLrsBF5LV"
+    },
+    {
+      "album": {
+        "name": "Partenaire",
+        "url": "https://open.spotify.com/album/2Zx68KCUvlTYMviQh1hGHp"
+      },
+      "artists": [
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 211493,
+      "name": "Partenaire",
+      "url": "https://open.spotify.com/track/6gMAAE58nkP0mJduJSZBFd"
     },
     {
       "album": {
@@ -1765,6 +1841,24 @@
       "duration_ms": 256440,
       "name": "S\u00e1bado",
       "url": "https://open.spotify.com/track/5Kb8sH6dJTnjI9ZJaRWheS"
+    },
+    {
+      "album": {
+        "name": "Activ\u00e1 el paseo",
+        "url": "https://open.spotify.com/album/7tLVpzGupUnQvyhBl7BVH2"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 256440,
+      "name": "S\u00e1bado",
+      "url": "https://open.spotify.com/track/73KvV9HBYW2PaYG4cB3oWp"
     },
     {
       "album": {

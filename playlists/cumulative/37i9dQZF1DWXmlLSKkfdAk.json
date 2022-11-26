@@ -71,6 +71,28 @@
     {
       "album": {
         "name": "Why Not",
+        "url": "https://open.spotify.com/album/6EewmAh99YpSBvAfC8nV8o"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        },
+        {
+          "name": "Jack Johnson with Paula Fuga",
+          "url": "https://open.spotify.com/artist/6C2EeNTJVptYpWFqeh6ifU"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 256466,
+      "name": "A Place In The Sun",
+      "url": "https://open.spotify.com/track/6bihRFJEMi8nDcC2zIwQKp"
+    },
+    {
+      "album": {
+        "name": "Why Not",
         "url": "https://open.spotify.com/album/5u6B01T3unVu8ZuHUxGiID"
       },
       "artists": [
@@ -1081,10 +1103,28 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 232049,
       "name": "Don't Dream It's Over",
       "url": "https://open.spotify.com/track/6QArEKofNPvQcI1bWn9MAS"
+    },
+    {
+      "album": {
+        "name": "Don't Dream It's Over",
+        "url": "https://open.spotify.com/album/7gCk3DHHivlyObqAfOwPGH"
+      },
+      "artists": [
+        {
+          "name": "Ainslie Wills",
+          "url": "https://open.spotify.com/artist/6pOtVlJugMBAdUU8OU1xDe"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232049,
+      "name": "Don't Dream It's Over",
+      "url": "https://open.spotify.com/track/6irzQ68l0WZxY4SHMAZSK9"
     },
     {
       "album": {
@@ -1143,6 +1183,28 @@
       "duration_ms": 199426,
       "name": "Don't You Want Me",
       "url": "https://open.spotify.com/track/0bmDpMruiJpzV5eQ92W0Lq"
+    },
+    {
+      "album": {
+        "name": "Acustic Hits 2020",
+        "url": "https://open.spotify.com/album/0TE1Oc5OANq645xPnBrm64"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        },
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 199426,
+      "name": "Don't You Want Me",
+      "url": "https://open.spotify.com/track/6KUqD4ARwYd4HKBge53mla"
     },
     {
       "album": {
@@ -2049,7 +2111,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 184000,
       "name": "I Believe in a Thing Called Love",
       "url": "https://open.spotify.com/track/6YdSvvnhkppxBNZgdFB301"
@@ -2071,6 +2133,24 @@
       "duration_ms": 184000,
       "name": "I Believe in a Thing Called Love",
       "url": "https://open.spotify.com/track/6mEeutpoC30B6yALroRlFW"
+    },
+    {
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/3gWZlMKDGLdB36OQjOo4fZ"
+      },
+      "artists": [
+        {
+          "name": "Branches",
+          "url": "https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "I Believe in a Thing Called Love",
+      "url": "https://open.spotify.com/track/7kcAK7HvIuHHDHJoGXlSPv"
     },
     {
       "album": {
@@ -3938,6 +4018,24 @@
     },
     {
       "album": {
+        "name": "Judah & The Lion (Unplugged)",
+        "url": "https://open.spotify.com/album/5wyJZFkxAJEshBtXnsUZi7"
+      },
+      "artists": [
+        {
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251805,
+      "name": "Soak up the Sun - Unplugged",
+      "url": "https://open.spotify.com/track/19EQenvo8RhidHzEbblHT1"
+    },
+    {
+      "album": {
         "name": "Judah & the Lion (Unplugged)",
         "url": "https://open.spotify.com/album/0ftg0MdGcyRwB8Zzt624BS"
       },
@@ -3949,7 +4047,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-16",
       "duration_ms": 251805,
       "name": "Soak Up The Sun - Unplugged",
       "url": "https://open.spotify.com/track/7xfz6i5AvB1GwccEcIrb7k"
@@ -4594,6 +4692,24 @@
     },
     {
       "album": {
+        "name": "The Only Exception",
+        "url": "https://open.spotify.com/album/6ssR342wWYZwPjYG35AWbG"
+      },
+      "artists": [
+        {
+          "name": "Katelyn Tarver",
+          "url": "https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262066,
+      "name": "The Only Exception",
+      "url": "https://open.spotify.com/track/6yBVp6DFh899CRaKww95Hr"
+    },
+    {
+      "album": {
         "name": "The Sweet Escape",
         "url": "https://open.spotify.com/album/3jCd27MDogNResJz6axMOP"
       },
@@ -5028,6 +5144,24 @@
     },
     {
       "album": {
+        "name": "B-Sides & Rarities",
+        "url": "https://open.spotify.com/album/46B44Qrb9ygNblwoVAbktf"
+      },
+      "artists": [
+        {
+          "name": "Said The Whale",
+          "url": "https://open.spotify.com/artist/0QTnH6UEP2jbZEVO6g6Vfe"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "When U Love Somebody",
+      "url": "https://open.spotify.com/track/399jCSLjZlWdJ7fFGe1iHr"
+    },
+    {
+      "album": {
         "name": "Jess Delgado RAWsession - 5.25.10",
         "url": "https://open.spotify.com/album/0ECa20b3UM57SWWLc9MTLV"
       },
@@ -5100,7 +5234,7 @@
     },
     {
       "album": {
-        "name": "\u70ba\u611b\u505a\u7684\u4e00\u5207",
+        "name": "\u4e3a\u7231\u505a\u7684\u4e00\u5207",
         "url": "https://open.spotify.com/album/019FOSKZXxS56quC2Wmb1K"
       },
       "artists": [

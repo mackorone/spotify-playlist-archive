@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf6bvyXShR3.md) - [plain]
 
 > <a href="spotify:artist:5mIowAJMp7RKNheelruV5z">&ME</a>'s favorite tracks\. Updated regularly\. Curated by &ME\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,601 likes - 69 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,522 likes - 69 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Situation \(&ME Remix\)](https://open.spotify.com/track/3yYGuKdw55woyHYfgnsCJd) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [Play With The Changes \(Remixed\)](https://open.spotify.com/album/3fMIqhERSssKur9QOqa5X1) | 5:28 |
 | 2 | [Heat Waves \- Logic1000 Remix](https://open.spotify.com/track/0BzTTI21m2LuYusiy0TOTr) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq), [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Heat Waves \(Logic1000 Remix\)](https://open.spotify.com/album/2yWZRt7NiE5QgrRpqviLx8) | 3:58 |
-| 3 | [Vertigo](https://open.spotify.com/track/1doFagKIgn2FOATKzUkbyi) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Vertigo](https://open.spotify.com/album/6PLiavXQv8JeNW2HBIl18X) | 4:14 |
+| 3 | [Vertigo](https://open.spotify.com/track/1doFagKIgn2FOATKzUkbyi) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Vertigo](https://open.spotify.com/album/6PLiavXQv8JeNW2HBIl18X) | 4:16 |
 | 4 | [Les Gout](https://open.spotify.com/track/0ko0sZ5hNieT3LRq2lOGl3) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [chuala](https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Les Gout](https://open.spotify.com/album/6zBJ3YyqKZTRTRudbhCpeV) | 5:44 |
 | 5 | [Kunitamale](https://open.spotify.com/track/446T86UmUBOvGnzYYCCttb) | [Aero Manyelo](https://open.spotify.com/artist/637OrGlmcAsqUNdFQPj79Z), [Thee Suka](https://open.spotify.com/artist/0UKxhX9dIF8XkLRbKrQcoN) | [Kunitamale](https://open.spotify.com/album/5df09cDBAMKQ7rMKzZ1b0S) | 7:24 |
 | 6 | [Mi Alma](https://open.spotify.com/track/6EjoH5rmbTr2jNm1S0IW4k) | [Teison](https://open.spotify.com/artist/7fd9Cb5382mcEQwTvXzdor) | [Mi Alma](https://open.spotify.com/album/75WDaLy5oIqM3l8AipjHQ2) | 4:01 |
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf6bvyXShR3.md) - [plain]
 | 28 | [Last Night \- 1981 Version](https://open.spotify.com/track/4VaiYbCLC7PCdwIZbb9lEC) | [Jet Hammer](https://open.spotify.com/artist/5QnH8g5VaGI7wPFDgH4UKV) | [Last Night EP](https://open.spotify.com/album/5JgIaaM0G5mCsNyEtlDpfj) | 5:11 |
 | 29 | [Two Dots](https://open.spotify.com/track/3NcOlyaj8fEPbVfvNOKeaD) | [Lusine](https://open.spotify.com/artist/2fMe9lZs5HGGOwh8cMSIub) | [A Certain Distance](https://open.spotify.com/album/46mWSylF7wmYKSACYkkjNf) | 4:38 |
 | 30 | [IZA](https://open.spotify.com/track/1WcsPISsw8pbbcnVmLMA5D) | [Map.ache](https://open.spotify.com/artist/2enNMBArUbDhmTopWMVWHr) | [IZA](https://open.spotify.com/album/4iRWnszxMSmGBcx8zl08Zn) | 7:42 |
-| 31 | [Make It Stay \- Boris Dlugosch Remix](https://open.spotify.com/track/4TbrpwvwOV2S2Wsu5K0C9z) | [Lauer](https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4), [Dena](https://open.spotify.com/artist/3qQ6mF4KyHTuOLcZjunAD4), [Boris Dlugosch](https://open.spotify.com/artist/5mrwZhvK7J8K34cWeFG3ru) | [Answers 2 Trouble Remixes](https://open.spotify.com/album/3fAo7LNq9anrsZDxy9zXXn) | 5:25 |
+| 31 | [Make It Stay \- Boris Dlugosch Remix](https://open.spotify.com/track/0E8YKGyZVKz5tkYftHRrWV) | [Lauer](https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4), [Dena](https://open.spotify.com/artist/3qQ6mF4KyHTuOLcZjunAD4), [Boris Dlugosch](https://open.spotify.com/artist/5mrwZhvK7J8K34cWeFG3ru) | [Answers 2 Trouble Remixes](https://open.spotify.com/album/037auvS0B06iq59Jy1Ck22) | 5:25 |
 | 32 | [Something Unique feat\. Zoot Woman](https://open.spotify.com/track/5y6IeLPd9DUPNibjleRxee) | [Iron Curtis](https://open.spotify.com/artist/3SxSMKGboN9d8DxDRIB7pH), [Johannes Albert](https://open.spotify.com/artist/5FMcKm7A4LRwIJnkzuKZFt), [Zoot Woman](https://open.spotify.com/artist/25w2vpqq7dYleBAqMx7Ijx) | [Moon III](https://open.spotify.com/album/27iqJdbf0OjVwFyDdw4nq4) | 3:15 |
-| 33 | [La Danse Heureuse \- Edit](https://open.spotify.com/track/4xBgLDhsLY14YB2rKd87p2) | [Sound Support](https://open.spotify.com/artist/4m837NfydgrNAAeZJHFpxn), [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [La Danse Heureuse](https://open.spotify.com/album/2TfI3C8cINRiaNTQxLN7Bu) | 3:27 |
+| 33 | [La Danse Heureuse \- Edit](https://open.spotify.com/track/6oF0ZOAKaMxlRVYYHPGgiH) | [Sound Support](https://open.spotify.com/artist/4m837NfydgrNAAeZJHFpxn), [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [La Danse Heureuse \(Edit\)](https://open.spotify.com/album/29E6YSbwlIx8nyI7wjFaJb) | 3:27 |
 | 34 | [Love Tender](https://open.spotify.com/track/34ZM9aIIid4hAyCOAah5NB) | [Laurent Wood](https://open.spotify.com/artist/6EH61vIvEkWng4dKEa2WQX) | [Cross Vault 09: Laurent Wood](https://open.spotify.com/album/7A0Jf0s21MUEMxsVQJh3x2) | 5:54 |
 | 35 | [Have It](https://open.spotify.com/track/1ZsUDsKOvAEJ0yIr2s9sLr) | [K1ng](https://open.spotify.com/artist/1D6noORj1vkzlaq4CWexna) | [Have It](https://open.spotify.com/album/1xgHfAk9T40Qjn3lVBOd4s) | 3:42 |
 | 36 | [La Perla](https://open.spotify.com/track/4pNlEl7y5pT9f9zFy0oxXb) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [La Perla](https://open.spotify.com/album/4N2nM5QZXYNbWPtxOADiAw) | 5:27 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf6bvyXShR3.md) - [plain]
 | 68 | [Fade Into Black \(Acoustic Version\)](https://open.spotify.com/track/6Dfl3X4P0HqpLauVPNnaq1) | [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Fade Into Black](https://open.spotify.com/album/0jjUv8TvssKqGhpDRpXfiR) | 4:01 |
 | 69 | [A Keeper](https://open.spotify.com/track/0nAZGkBGKQCXyaoSJfRhC1) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 2:53 |
 
-Snapshot ID: `MTY2MzMyNDU3NywwMDAwMDAwMGVmODUyNjE2NDQ5NjJlN2U2NTRkZDcwYjI3YmRlZjQw`
+Snapshot ID: `MTY2MzMyNDU3NywwMDAwMDAwMGQwOGUwNGI1MTI1YjJiZjA3MmJjNjAyM2M5ZGZmMmM2`

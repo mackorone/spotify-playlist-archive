@@ -286,6 +286,28 @@
     },
     {
       "album": {
+        "name": "Celia",
+        "url": "https://open.spotify.com/album/2xBaORsHP0AqtXhjTaXFai"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 229373,
+      "name": "C\u00facala",
+      "url": "https://open.spotify.com/track/0O4krq7bi4e5Lq4Zsi2try"
+    },
+    {
+      "album": {
         "name": "Tremendo Cache",
         "url": "https://open.spotify.com/album/1Wbmg5TqfFELODTlgeihcN"
       },
@@ -402,6 +424,28 @@
     },
     {
       "album": {
+        "name": "Leyendas De La Fania Vol. 5",
+        "url": "https://open.spotify.com/album/7qbn4CVgIDuykU8IbCdGE1"
+      },
+      "artists": [
+        {
+          "name": "Ray Barretto",
+          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 275813,
+      "name": "El Chisme",
+      "url": "https://open.spotify.com/track/2xM4huWOWtvFyMD6AN13Mj"
+    },
+    {
+      "album": {
         "name": "Ritmo en el Coraz\u00f3n",
         "url": "https://open.spotify.com/album/2Ei3gt0jWaAbbDn6k8rYpA"
       },
@@ -446,6 +490,28 @@
     },
     {
       "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/057a4rFQGjDyyPaEQAmmrZ"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 239853,
+      "name": "El Guab\u00e1",
+      "url": "https://open.spotify.com/track/0CPmjH0yfxwsVVHd6BKdRC"
+    },
+    {
+      "album": {
         "name": "La Candela",
         "url": "https://open.spotify.com/album/1ZKQhL5PnDYRRQUAKUMOIq"
       },
@@ -465,6 +531,36 @@
       "duration_ms": 243859,
       "name": "El Guab\u00e1",
       "url": "https://open.spotify.com/track/5N2qXP1223XwTkvBxmBKyz"
+    },
+    {
+      "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/057a4rFQGjDyyPaEQAmmrZ"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        },
+        {
+          "name": "Justo Betancourt",
+          "url": "https://open.spotify.com/artist/1Mq5Rgvn4D37tQdwuFL689"
+        },
+        {
+          "name": "Papo Lucca",
+          "url": "https://open.spotify.com/artist/1KbyKzIyGQig2K7sP5E7gv"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 274826,
+      "name": "El Yerberito Moderno",
+      "url": "https://open.spotify.com/track/3sV3vr7CzD5ruUM5SBmX2Y"
     },
     {
       "album": {
@@ -584,6 +680,32 @@
     },
     {
       "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/057a4rFQGjDyyPaEQAmmrZ"
+      },
+      "artists": [
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Pete \"El Conde\" Rodriguez",
+          "url": "https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 351480,
+      "name": "La Dicha M\u00eda",
+      "url": "https://open.spotify.com/track/2ov4WN93psTYPcFv4SuZ86"
+    },
+    {
+      "album": {
         "name": "Celia, Johnny, And Pete",
         "url": "https://open.spotify.com/album/03NIcOwe2QNrqWvyrM80CT"
       },
@@ -683,6 +805,24 @@
       "duration_ms": 278866,
       "name": "La Vida Es Un Carnaval",
       "url": "https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8"
+    },
+    {
+      "album": {
+        "name": "Festej\u00e1 con ritmos latinos",
+        "url": "https://open.spotify.com/album/3nnjSxO8sva22SJQgOwKYL"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 278866,
+      "name": "La Vida Es Un Carnaval",
+      "url": "https://open.spotify.com/track/7HL0P35A96wkutKopiovaX"
     },
     {
       "album": {
@@ -797,6 +937,32 @@
       "duration_ms": 230260,
       "name": "Mi Vida Es Cantar",
       "url": "https://open.spotify.com/track/6NdveLsJbCOtkra0P2yJgY"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3zHl7v8SJjqKoHZWCszzzn"
+      },
+      "artists": [
+        {
+          "name": "Ray Barretto",
+          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
+        },
+        {
+          "name": "Adalberto Santiago",
+          "url": "https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 347893,
+      "name": "Nadie Se Salva De La Rumba",
+      "url": "https://open.spotify.com/track/4XwbQXaDumi48MswNxVurA"
     },
     {
       "album": {
@@ -1012,6 +1178,28 @@
     },
     {
       "album": {
+        "name": "Ritmo Caribe\u00f1o",
+        "url": "https://open.spotify.com/album/7beu0bWppHClu8MsESwfp7"
+      },
+      "artists": [
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 291946,
+      "name": "Quimbara",
+      "url": "https://open.spotify.com/track/7snc111QpjSGEpXTfzOpg7"
+    },
+    {
+      "album": {
         "name": "Boleros",
         "url": "https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj"
       },
@@ -1160,6 +1348,24 @@
     },
     {
       "album": {
+        "name": "M\u00fasica para Brindar",
+        "url": "https://open.spotify.com/album/4BWbxMic3ljDOvzARZDOho"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 249120,
+      "name": "Te Busco",
+      "url": "https://open.spotify.com/track/7GNPcuNddnUxSu6ve0LlCC"
+    },
+    {
+      "album": {
         "name": "Historia De La Salsa",
         "url": "https://open.spotify.com/album/2hi1q0YI3z5W2i8bjzOw4p"
       },
@@ -1219,6 +1425,28 @@
       "duration_ms": 301880,
       "name": "Tu Voz",
       "url": "https://open.spotify.com/track/58lScp6uPaORVpKoMriUw4"
+    },
+    {
+      "album": {
+        "name": "Cocinar y Cantar",
+        "url": "https://open.spotify.com/album/6Bp4EoszmnTvPSZwjBfiYz"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 255317,
+      "name": "Usted Abus\u00f3",
+      "url": "https://open.spotify.com/track/4PVWX7hULw7iaZqfzmjg8u"
     },
     {
       "album": {

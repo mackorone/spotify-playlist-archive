@@ -4,14 +4,16 @@
 
 > congrats class of 2021, you crushed it this year \\m/ Cover: WILLOW
 
-55 songs - 2 hr 39 min - [published](https://open.spotify.com/playlist/0gRbgPGo5N1a8Os2Z8btid)
+59 songs - 2 hr 51 min - [published](https://open.spotify.com/playlist/0gRbgPGo5N1a8Os2Z8btid)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Again](https://open.spotify.com/track/14gw6qQSrs9pEf8ADJuHo1) | [Casper The Ghost](https://open.spotify.com/artist/2FympPk5bcBe37Sp4VIs4L) | [Again](https://open.spotify.com/album/0dCsvVuNZ9yudIkRsHfSmV) | 2:38 | 2021-12-01 |  |
 | [Big Cat Judgement Day](https://open.spotify.com/track/3zRrr0SS4saZOfihrSvlqy) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [With Confidence](https://open.spotify.com/album/0nVyJYOVvS1Trsphx7KPxp) | 2:31 | 2021-12-01 |  |
 | [Boring](https://open.spotify.com/track/3FfxSDPqcaUuisrMQmiheD) | [Daisy Brain](https://open.spotify.com/artist/5WuDKeWph4EKsyy9e56Mz4) | [Boring](https://open.spotify.com/album/6ScocnQZ8S77TH9iOKPY1o) | 3:28 | 2021-12-01 |  |
-| [Chillthefuckout.](https://open.spotify.com/track/5IaL7Dft0IRhwaz4royvg7) | [ROMES](https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g) | [Chillthefuckout.](https://open.spotify.com/album/35iLKz1x1VW4q6mt6Zfk3u) | 2:47 | 2021-12-01 |  |
+| [Chillthefuckout.](https://open.spotify.com/track/4FIcnNm6gSUf7Styfbmye0) | [ROMES](https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g) | [Alittle.](https://open.spotify.com/album/5CspsuaFlX9oo7zOEaoh4u) | 2:47 | 2021-12-01 | 2022-11-13 |
+| [Chillthefuckout.](https://open.spotify.com/track/4WiRsBAUd4fqHmIqrSoznL) | [ROMES](https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g) | [My Demons Are Still My Best Friends](https://open.spotify.com/album/2ZGQb6w08t7rlmfHGHzPci) | 2:47 | 2021-12-01 |  |
+| [Chillthefuckout.](https://open.spotify.com/track/5IaL7Dft0IRhwaz4royvg7) | [ROMES](https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g) | [Chillthefuckout.](https://open.spotify.com/album/35iLKz1x1VW4q6mt6Zfk3u) | 2:47 | 2021-12-01 | 2022-10-15 |
 | [congratulations](https://open.spotify.com/track/2ad0hTq75JpcB4JzmZPCbC) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [how u stop hating urself \(pt 1.5\)](https://open.spotify.com/album/7vHfgHVoXFsx5ysSpKEHvQ) | 2:12 | 2021-12-01 |  |
 | [Crash and Burn](https://open.spotify.com/track/4wFK5ESRSBrmVDjOkOSa7g) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [PARANOIA](https://open.spotify.com/album/5CEcwEyL9wMG4TygYNTFgw) | 2:39 | 2021-12-01 |  |
 | [death wish](https://open.spotify.com/track/7rT8JOfCiu2wCdP2NuS0zd) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [death wish](https://open.spotify.com/album/3aKgYlLsngJ6itEvTVWnwf) | 3:17 | 2021-12-01 |  |
@@ -53,6 +55,7 @@
 | [STUPID](https://open.spotify.com/track/7xzvOITcgfgEQ4KBzSmoRO) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [STUFF FROM MY BRAIN](https://open.spotify.com/album/6bp0uG3VH0S2x7z9WyAruw) | 2:35 | 2021-12-01 |  |
 | [t r a n s p a r e n t s o u l feat\. Travis Barker](https://open.spotify.com/track/5JKnYZOhSP7rOK0jPYcCjV) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [lately I feel EVERYTHING](https://open.spotify.com/album/1dg0gmrCaEbENVXpPIvi1m) | 2:48 | 2021-12-01 |  |
 | [The Eulogy of You and Me](https://open.spotify.com/track/0FPfkAGl5xLLZ8kIl7eDYi) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [Teenage Heartbreak](https://open.spotify.com/album/6J3MyFpk3rKOlthkLrW7q9) | 3:03 | 2021-12-01 |  |
+| [The Eulogy of You and Me](https://open.spotify.com/track/1R7VJhnaAm3qgIrNMxC2GI) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [Teenage Heartbreak](https://open.spotify.com/album/5MWhVu8KugFEG1lgZXw3QL) | 3:03 | 2021-12-01 | 2022-11-13 |
 | [The Eulogy of You and Me](https://open.spotify.com/track/6yGsqEtwfrS2tktEYcuPKd) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [The Eulogy of You and Me](https://open.spotify.com/album/35lHDQRsVVl2IbLGU28jdT) | 3:03 | 2021-12-01 | 2022-07-29 |
 | [The Feel](https://open.spotify.com/track/3IZNH7dCYI4qc2pFJrhMWg) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [XFOREVER](https://open.spotify.com/album/6WJB3ie2QvOhlLj4sqcK1n) | 2:35 | 2021-12-01 |  |
 | [There For Me](https://open.spotify.com/track/0dP3c8P3SDmDeiQ7GTBIa5) | [Chad Tepper](https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3), [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [There For Me](https://open.spotify.com/album/24t1qkjhGCiWBoTqoG6TaU) | 3:17 | 2021-12-01 | 2022-07-29 |
@@ -63,5 +66,6 @@
 | [WTF Do I Know](https://open.spotify.com/track/37PJvlIfYWqEX6fgjHlnTf) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 2:51 | 2021-12-01 |  |
 | [You'd Be Paranoid Too \(If Everyone Was Out To Get You\)](https://open.spotify.com/track/323w4DImgXQfDeG52lCuHg) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [Greatest Hits](https://open.spotify.com/album/7bMXp3NDoTyW645vGJj7jY) | 2:31 | 2021-12-01 | 2022-07-29 |
 | [You’d Be Paranoid Too \(If Everyone Was Out To Get You\)](https://open.spotify.com/track/02Lki714RZrfUS65pzJ2lj) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [Greatest Hits](https://open.spotify.com/album/6Em0b24eKa7vVf6sUYxOdI) | 2:31 | 2021-12-01 |  |
+| [You’d Be Paranoid Too \(If Everyone Was Out To Get You\)](https://open.spotify.com/track/0SApp0ojWxr4koQGO9Btzn) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [Violet!](https://open.spotify.com/album/4Lq7qgesAt6nhTLrYOugLH) | 2:31 | 2021-12-01 | 2022-11-14 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

@@ -752,6 +752,24 @@
     },
     {
       "album": {
+        "name": "This Is Us - Season 2 (Music From The Series)",
+        "url": "https://open.spotify.com/album/5tj7T18XPCZOvArkrxASfI"
+      },
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 233000,
+      "name": "Where Do The Children Play?",
+      "url": "https://open.spotify.com/track/2tDCxk1CwgwdpLRHA0PJfH"
+    },
+    {
+      "album": {
         "name": "Drastic Fantastic",
         "url": "https://open.spotify.com/album/4XpXkww6Q6KLFOaFmZ6IxX"
       },

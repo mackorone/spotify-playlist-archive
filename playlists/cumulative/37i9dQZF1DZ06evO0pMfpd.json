@@ -120,6 +120,28 @@
     },
     {
       "album": {
+        "name": "Dale Fondo",
+        "url": "https://open.spotify.com/album/7asLWlNrHhBKQDvp6QxBOD"
+      },
+      "artists": [
+        {
+          "name": "Sergio Hernandez y Su Maverick Show",
+          "url": "https://open.spotify.com/artist/1likoE8lTd2g6Br7PtwtzO"
+        },
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191936,
+      "name": "Dale Fondo",
+      "url": "https://open.spotify.com/track/3PhCYyHoHjR5NHn6HeUnfw"
+    },
+    {
+      "album": {
         "name": "Fuera de Serie",
         "url": "https://open.spotify.com/album/6ETwpYUJD00AlKGErRAqEy"
       },
@@ -243,7 +265,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 225930,
       "name": "Es Lupe",
       "url": "https://open.spotify.com/track/1JcR3u5aYIhDC2flFAHYeQ"
@@ -297,7 +319,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 197299,
       "name": "Florecilla Del Campo",
       "url": "https://open.spotify.com/track/6IfR3khaeLoBiZZKYuBTL0"
@@ -445,7 +467,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 171230,
       "name": "La Flaca",
       "url": "https://open.spotify.com/track/1ch4u7n3GCyUYuLfRi8NAd"
@@ -463,7 +485,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 173819,
       "name": "La Flaca",
       "url": "https://open.spotify.com/track/314bx0T8avvO9TqBTXYd4o"
@@ -557,7 +579,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 150987,
       "name": "Libro Abierto",
       "url": "https://open.spotify.com/track/2NtCzG7rsTeDjeFUVqcF4D"

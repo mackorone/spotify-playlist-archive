@@ -4,7 +4,7 @@
 
 > bringing in NYFW w/ designers, No Sesso
 
-291 songs - 17 hr 47 min - [published](https://open.spotify.com/playlist/6R9HPbNN64wdiHcaYefrSn)
+292 songs - 17 hr 53 min - [published](https://open.spotify.com/playlist/6R9HPbNN64wdiHcaYefrSn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,7 +216,8 @@
 | [Rich Spirit](https://open.spotify.com/track/6kYGOFNUMxpab09L5Ukoke) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:22 | 2022-05-27 | 2022-06-01 |
 | [Right On](https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Right On](https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p) | 3:33 | 2022-05-20 | 2022-06-01 |
 | [Road Rage](https://open.spotify.com/track/4rMRWTyCqdXz4UD5RFGJoG) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Punk](https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW) | 2:32 | 2022-04-29 | 2022-05-07 |
-| [Robyn](https://open.spotify.com/track/40BvDslaoDBzqKjexjlFXr) | [cktrl](https://open.spotify.com/artist/2eO4klJg324zroGqnBkqk3) | [Robyn](https://open.spotify.com/album/1KA0TZkPZSbi8COxiZGxkO) | 5:30 | 2022-09-06 |  |
+| [Robyn](https://open.spotify.com/track/2QUXnZuZYqc5RAgSJILpb6) | [cktrl](https://open.spotify.com/artist/2eO4klJg324zroGqnBkqk3) | [Robyn](https://open.spotify.com/album/1UYhf9jWeeOuEpwt2VjwUP) | 5:30 | 2022-09-06 |  |
+| [Robyn](https://open.spotify.com/track/40BvDslaoDBzqKjexjlFXr) | [cktrl](https://open.spotify.com/artist/2eO4klJg324zroGqnBkqk3) | [Robyn](https://open.spotify.com/album/1KA0TZkPZSbi8COxiZGxkO) | 5:30 | 2022-09-06 | 2022-10-22 |
 | [Rock The Bells](https://open.spotify.com/track/4F4neui0edP1ozygvFiCi7) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Radio](https://open.spotify.com/album/4sevefzBUFvJYAzijVBQ2a) | 4:00 | 2022-08-22 | 2022-09-07 |
 | [Rocket Love](https://open.spotify.com/track/5bYjwooathsSjgVaMCpHEp) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Hotter Than July](https://open.spotify.com/album/2tO3rrZ6q3OjHJMGVo13dh) | 4:39 | 2022-08-22 | 2022-09-07 |
 | [Rocket Ship](https://open.spotify.com/track/4HfaOznGhHYWqPtpLYz2PB) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Future Hndrxx Presents: The WIZRD](https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x) | 1:56 | 2022-04-29 | 2022-06-01 |

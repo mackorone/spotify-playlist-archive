@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 58973,
       "name": "(Untitled)",
       "url": "https://open.spotify.com/track/3MwpovqVaWbXT80JRiDZ93"
@@ -45,6 +45,24 @@
     {
       "album": {
         "name": "Things Will Matter",
+        "url": "https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252253,
+      "name": "Black Mire",
+      "url": "https://open.spotify.com/track/41TpGLxHszelYWCBZklrsJ"
+    },
+    {
+      "album": {
+        "name": "Things Will Matter",
         "url": "https://open.spotify.com/album/3dZLb3nLd8vn9JcSN7afcB"
       },
       "artists": [
@@ -55,10 +73,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 252253,
       "name": "Black Mire",
       "url": "https://open.spotify.com/track/6CCLJ76iRqM0ERHv15ntjX"
+    },
+    {
+      "album": {
+        "name": "Dust & Bones",
+        "url": "https://open.spotify.com/album/3GHMDiFyBUSZWhLBiBiHK4"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187257,
+      "name": "Bottled Time",
+      "url": "https://open.spotify.com/track/5AOTvul1pG5guRXeWvq1Za"
     },
     {
       "album": {
@@ -73,7 +109,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 187257,
       "name": "Bottled Time",
       "url": "https://open.spotify.com/track/6S3jt0KW7ZAxUOP360WEDE"
@@ -127,7 +163,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 333053,
       "name": "Call of Horses",
       "url": "https://open.spotify.com/track/6v8FKws7OnXpmuafTQpH9X"
@@ -145,7 +181,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-10-22",
       "duration_ms": 234800,
       "name": "Chasing Knives",
       "url": "https://open.spotify.com/track/0vVAoUccmbNieQB9YNirV1"
@@ -163,10 +199,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 188106,
       "name": "Collider",
       "url": "https://open.spotify.com/track/3YXJiuIDgdL020cRiF0mK2"
+    },
+    {
+      "album": {
+        "name": "Collider",
+        "url": "https://open.spotify.com/album/4kzEdKsDeBsZDJc29ruaWs"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188106,
+      "name": "Collider",
+      "url": "https://open.spotify.com/track/4igWyJcAt9X5oXaBiqtuk2"
     },
     {
       "album": {
@@ -181,10 +235,46 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 379103,
       "name": "Comfortably Numb",
       "url": "https://open.spotify.com/track/4ZkWXW2OtGj1a6XHMX0OOd"
+    },
+    {
+      "album": {
+        "name": "Comfortably Numb",
+        "url": "https://open.spotify.com/album/446Mbnz7IvnGi90uZdc5de"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379103,
+      "name": "Comfortably Numb",
+      "url": "https://open.spotify.com/track/6SVUDu857QbuF1O6qKjCqc"
+    },
+    {
+      "album": {
+        "name": "The Day's War (Victory Edition)",
+        "url": "https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198186,
+      "name": "Deserter",
+      "url": "https://open.spotify.com/track/0T7UxrsKjmTnkBLKs4o3Ah"
     },
     {
       "album": {
@@ -199,10 +289,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 228093,
       "name": "Diamond Days",
       "url": "https://open.spotify.com/track/1mjrOKGU9XQT3tozfyRQXt"
+    },
+    {
+      "album": {
+        "name": "Things Will Matter",
+        "url": "https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228093,
+      "name": "Diamond Days",
+      "url": "https://open.spotify.com/track/49b0ahtMJNiQXNjIvMbwKX"
     },
     {
       "album": {
@@ -243,6 +351,24 @@
     {
       "album": {
         "name": "Things Will Matter",
+        "url": "https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214013,
+      "name": "Dust & Bones",
+      "url": "https://open.spotify.com/track/11VMKvo0PUGzNwngQ5Ebvn"
+    },
+    {
+      "album": {
+        "name": "Things Will Matter",
         "url": "https://open.spotify.com/album/3dZLb3nLd8vn9JcSN7afcB"
       },
       "artists": [
@@ -253,7 +379,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 214013,
       "name": "Dust & Bones",
       "url": "https://open.spotify.com/track/3N7w9YAUm1QW4HpZ28SZBP"
@@ -271,7 +397,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 179000,
       "name": "Islands",
       "url": "https://open.spotify.com/track/1bUEiRDcKTPSVhqVUtZyiP"
@@ -293,6 +419,24 @@
       "duration_ms": 213986,
       "name": "Keeper",
       "url": "https://open.spotify.com/track/1CHVMZOzCUr7ytuyM3Mclb"
+    },
+    {
+      "album": {
+        "name": "The Day's War (Victory Edition)",
+        "url": "https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260786,
+      "name": "Kings of the Mountain",
+      "url": "https://open.spotify.com/track/6pOvCv7rA3gkTFtpyDGyiI"
     },
     {
       "album": {
@@ -325,7 +469,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": "2022-10-13",
       "duration_ms": 227973,
       "name": "Open Door",
       "url": "https://open.spotify.com/track/0faniz2pjwuzt16kQnSZnn"
@@ -343,10 +487,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 178588,
       "name": "Place Isn't Lost",
       "url": "https://open.spotify.com/track/1rQPIRmI5TbCwL3uXvCpjQ"
+    },
+    {
+      "album": {
+        "name": "Place Isn't Lost",
+        "url": "https://open.spotify.com/album/2GKb0jadpaGEzqyFfxomTk"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178588,
+      "name": "Place Isn't Lost",
+      "url": "https://open.spotify.com/track/26h24NAtgkferYRxAgUX0c"
     },
     {
       "album": {
@@ -361,10 +523,64 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 233000,
       "name": "Radar - Redux",
       "url": "https://open.spotify.com/track/1ncOAqP2tJ6sHcPPn6NOAg"
+    },
+    {
+      "album": {
+        "name": "Things Will Matter (Redux)",
+        "url": "https://open.spotify.com/album/5j7moHdW1BoUtjHYjM8FTm"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "Radar - Redux",
+      "url": "https://open.spotify.com/track/2hq4lskxMTho1REmBrGLmG"
+    },
+    {
+      "album": {
+        "name": "Things Will Matter",
+        "url": "https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208480,
+      "name": "Rattlesnakes",
+      "url": "https://open.spotify.com/track/13IILXc2B0KUsIjbaXXudE"
+    },
+    {
+      "album": {
+        "name": "Things Will Matter",
+        "url": "https://open.spotify.com/album/3dZLb3nLd8vn9JcSN7afcB"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-17",
+      "duration_ms": 208480,
+      "name": "Rattlesnakes",
+      "url": "https://open.spotify.com/track/4c3BGa7Epnb2X2t5jLRU0x"
     },
     {
       "album": {
@@ -379,7 +595,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": null,
       "duration_ms": 252733,
       "name": "Something I Said",
       "url": "https://open.spotify.com/track/00FXop2LfX8GdbHm5BL1tq"
@@ -397,7 +613,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-30",
       "duration_ms": 260000,
       "name": "Tank Wave",
       "url": "https://open.spotify.com/track/4zy4pghyBzcwv3G5hsYLIg"
@@ -441,6 +657,24 @@
     {
       "album": {
         "name": "The Rat",
+        "url": "https://open.spotify.com/album/7xfgBU8oYPEJ3zuyhBmoJ5"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260120,
+      "name": "The Rat",
+      "url": "https://open.spotify.com/track/2aEAQBRKqAImOF9rzALVxR"
+    },
+    {
+      "album": {
+        "name": "The Rat",
         "url": "https://open.spotify.com/album/4iABt7PWRQpWhLP7W3WCWO"
       },
       "artists": [
@@ -451,10 +685,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 260120,
       "name": "The Rat",
       "url": "https://open.spotify.com/track/62qLvdb28WxRYxNAZ0UZlk"
+    },
+    {
+      "album": {
+        "name": "Things Will Matter (Redux)",
+        "url": "https://open.spotify.com/album/5j7moHdW1BoUtjHYjM8FTm"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174729,
+      "name": "Things Will Matter",
+      "url": "https://open.spotify.com/track/3yFZ2FNf3RZMw5e1sJYZve"
     },
     {
       "album": {
@@ -469,7 +721,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 174729,
       "name": "Things Will Matter",
       "url": "https://open.spotify.com/track/5xAnCH2WR1UMwQDQpgBUB4"
@@ -549,6 +801,24 @@
     {
       "album": {
         "name": "Things Will Matter",
+        "url": "https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220920,
+      "name": "Wait in the Car",
+      "url": "https://open.spotify.com/track/0fm9CqVDMAFiVBvCcBBJo0"
+    },
+    {
+      "album": {
+        "name": "Things Will Matter",
         "url": "https://open.spotify.com/album/3dZLb3nLd8vn9JcSN7afcB"
       },
       "artists": [
@@ -559,7 +829,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 220920,
       "name": "Wait in the Car",
       "url": "https://open.spotify.com/track/7mbFHs6TntthnhNEEFHo4m"
@@ -577,10 +847,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 314866,
       "name": "What If You Fall In",
       "url": "https://open.spotify.com/track/251AzOLaomMJ24QdX5BvxC"
+    },
+    {
+      "album": {
+        "name": "Things Will Matter",
+        "url": "https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314866,
+      "name": "What If You Fall In",
+      "url": "https://open.spotify.com/track/5CWar6bZXCrEmU4C4n7eDX"
     },
     {
       "album": {

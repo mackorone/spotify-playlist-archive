@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "Slow down and relax with a mix of calming music.",
+  "description": "Slow down and relax with a mix of calming piano music.",
   "name": "Calm",
   "published_playlist_ids": [
     "0sIE9FQkVbWlp9u6z9Quwo"
@@ -188,6 +188,24 @@
     },
     {
       "album": {
+        "name": "Absence",
+        "url": "https://open.spotify.com/album/3PLBke5XtxhEDQ57DpP8uC"
+      },
+      "artists": [
+        {
+          "name": "Narelle Dane",
+          "url": "https://open.spotify.com/artist/2tUmApwmWcZGro1Key17fG"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180750,
+      "name": "Absence",
+      "url": "https://open.spotify.com/track/605vPvBlmE54bJUiT8BKm0"
+    },
+    {
+      "album": {
         "name": "Aegean Fantaisie",
         "url": "https://open.spotify.com/album/21ZN0QPPbLoBOesZZBIGr7"
       },
@@ -311,6 +329,24 @@
       "duration_ms": 171971,
       "name": "Agonize",
       "url": "https://open.spotify.com/track/3FeGZb9pg7ws79UhhZP8lv"
+    },
+    {
+      "album": {
+        "name": "Agonize",
+        "url": "https://open.spotify.com/album/0UhDXcyKJTmhdKQXJHxm4d"
+      },
+      "artists": [
+        {
+          "name": "A. Blomqvist",
+          "url": "https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 171971,
+      "name": "Agonize",
+      "url": "https://open.spotify.com/track/47QI1Wamg93qBYV60nSjUn"
     },
     {
       "album": {
@@ -2537,6 +2573,24 @@
       "duration_ms": 189968,
       "name": "In This Way",
       "url": "https://open.spotify.com/track/677mAMd1eOH1pltC797UYs"
+    },
+    {
+      "album": {
+        "name": "In Those Years",
+        "url": "https://open.spotify.com/album/2YLWbPKyE27RsWLdpTnht3"
+      },
+      "artists": [
+        {
+          "name": "Ray Hutchcraft",
+          "url": "https://open.spotify.com/artist/1COhhQQfq4nVKDEBi3JU7R"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140296,
+      "name": "In Those Years",
+      "url": "https://open.spotify.com/track/1arB0eICekrhg2CAj2bGfR"
     },
     {
       "album": {
@@ -4836,6 +4890,24 @@
     },
     {
       "album": {
+        "name": "Recovery Day",
+        "url": "https://open.spotify.com/album/7cr1WgH3tKd4I6kbiyaieZ"
+      },
+      "artists": [
+        {
+          "name": "Hearth Mason",
+          "url": "https://open.spotify.com/artist/5AOB5inMqu92bUZuE6q9L7"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230823,
+      "name": "Recovery Day",
+      "url": "https://open.spotify.com/track/37hUtRe16kZtSfUd9c33jv"
+    },
+    {
+      "album": {
         "name": "Remembrance",
         "url": "https://open.spotify.com/album/7J0DCHHTGozed1GpKmge8J"
       },
@@ -5157,6 +5229,24 @@
       "duration_ms": 137819,
       "name": "Scenery",
       "url": "https://open.spotify.com/track/4P5jSwg9Zx6DxKb5u7TfmG"
+    },
+    {
+      "album": {
+        "name": "Scenery",
+        "url": "https://open.spotify.com/album/4rxV7w5hW3PxrW5npvzn4O"
+      },
+      "artists": [
+        {
+          "name": "Alavilla Mailla",
+          "url": "https://open.spotify.com/artist/7w44AhUBks0lqRO3bToPWa"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 137819,
+      "name": "Scenery",
+      "url": "https://open.spotify.com/track/6geWKrtpXjDTp32yEDW8cs"
     },
     {
       "album": {
@@ -5736,6 +5826,24 @@
     },
     {
       "album": {
+        "name": "Stay In Yesterday",
+        "url": "https://open.spotify.com/album/68GR3IKpucg2wwvYVDjIwH"
+      },
+      "artists": [
+        {
+          "name": "Emanuel Driesen",
+          "url": "https://open.spotify.com/artist/1VknQzlayUN0eDkWEJCsBU"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Stay In Yesterday",
+      "url": "https://open.spotify.com/track/68gOBP9twtrWZUOlwt6wZ6"
+    },
+    {
+      "album": {
         "name": "Stolen Moments",
         "url": "https://open.spotify.com/album/2Meli6G9X3R09ZJgwB1fM4"
       },
@@ -6155,6 +6263,24 @@
       "duration_ms": 168000,
       "name": "The Farewell",
       "url": "https://open.spotify.com/track/0rIILfeK7DEyWgCqUtvH0z"
+    },
+    {
+      "album": {
+        "name": "The Fishermans daughter",
+        "url": "https://open.spotify.com/album/4MBVnPAKIiOY0iL5XiqTuu"
+      },
+      "artists": [
+        {
+          "name": "Delaney & Delaney",
+          "url": "https://open.spotify.com/artist/6ypSxIupxGZQdQdv0ESPwW"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171789,
+      "name": "the fishermans daughter",
+      "url": "https://open.spotify.com/track/4zGivzfk4ZSzwALLylGAMc"
     },
     {
       "album": {
@@ -6842,6 +6968,24 @@
     },
     {
       "album": {
+        "name": "Viva Valeriana",
+        "url": "https://open.spotify.com/album/5c8qEdjduemMVmUxuMKp8n"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00eblle Mei",
+          "url": "https://open.spotify.com/artist/109jb0FywTHrzudz9XfX4L"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112046,
+      "name": "Viva Valeriana",
+      "url": "https://open.spotify.com/track/4k8AC9xUl0o7JG7qlVQBZi"
+    },
+    {
+      "album": {
         "name": "Volga",
         "url": "https://open.spotify.com/album/4E7hFmTDF1eyBIxdXyREiF"
       },
@@ -7004,6 +7148,28 @@
     },
     {
       "album": {
+        "name": "We Contain Multitudes \u2014 piano reworks",
+        "url": "https://open.spotify.com/album/4vtunVFmIlrxIrkOobdfDH"
+      },
+      "artists": [
+        {
+          "name": "Yiruma",
+          "url": "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
+        },
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264052,
+      "name": "We Contain Multitudes \u2014 piano reworks",
+      "url": "https://open.spotify.com/track/1rpF77jsLBMG2QjCuhe0Sr"
+    },
+    {
+      "album": {
         "name": "Weightless",
         "url": "https://open.spotify.com/album/7xkqit6sN8sKvCfT62uw3s"
       },
@@ -7149,6 +7315,24 @@
       "duration_ms": 202250,
       "name": "Wide Skies",
       "url": "https://open.spotify.com/track/7dgAZemjrAuLHTOikyWtbA"
+    },
+    {
+      "album": {
+        "name": "Winter (Ambient Mix)",
+        "url": "https://open.spotify.com/album/2kmzeCtSXl8N7ODN94r3RM"
+      },
+      "artists": [
+        {
+          "name": "Ola Gjeilo",
+          "url": "https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252160,
+      "name": "Winter - Ambient Mix",
+      "url": "https://open.spotify.com/track/59xDPiJXRjFptEUIKmagDn"
     },
     {
       "album": {

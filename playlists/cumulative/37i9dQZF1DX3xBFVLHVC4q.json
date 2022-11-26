@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 353093,
       "name": "1STAR",
       "url": "https://open.spotify.com/track/71WkT8jdbJeb5mgNhzo8oU"
@@ -71,8 +71,8 @@
           "url": "https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV"
         },
         {
-          "name": "\u521d\u97f3\u30df\u30af",
-          "url": "https://open.spotify.com/artist/4uMfWEy05Ba85u9fEl1yTz"
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
         }
       ],
       "date_added": "2022-10-04",
@@ -263,8 +263,8 @@
           "url": "https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV"
         },
         {
-          "name": "\u521d\u97f3\u30df\u30af",
-          "url": "https://open.spotify.com/artist/4uMfWEy05Ba85u9fEl1yTz"
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
         }
       ],
       "date_added": "2022-10-04",
@@ -341,7 +341,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 237693,
       "name": "Main theme of Lovelive! Sunshine!!",
       "url": "https://open.spotify.com/track/4vuY0yDpiLv517pZacpYOQ"
@@ -623,7 +623,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-22",
       "duration_ms": 291240,
       "name": "\u3068\u304d\u3081\u304d\u5206\u985e\u5b66",
       "url": "https://open.spotify.com/track/5JvsOjJvozyfkeyGJo3y5x"
@@ -663,6 +663,24 @@
       "duration_ms": 229426,
       "name": "\u3082\u3063\u3068\u306d!",
       "url": "https://open.spotify.com/track/3vXJrJULk98bQ4dG4WvqNY"
+    },
+    {
+      "album": {
+        "name": "\u308f\u30fc\u3044\u308f\u3044\u308f\u3044 \u308f\u3044\u308f\u3044\u308f\u3044!",
+        "url": "https://open.spotify.com/album/2OHTwcMbvQRnUkWeZSbDe4"
+      },
+      "artists": [
+        {
+          "name": "\u308f\u3044\u308f\u3044\u308f\u3044",
+          "url": "https://open.spotify.com/artist/2KkZ1TSYd3qY6cdB3RpKz6"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193224,
+      "name": "\u308f\u30fc\u3044\u308f\u3044\u308f\u3044 \u308f\u3044\u308f\u3044\u308f\u3044!",
+      "url": "https://open.spotify.com/track/23Fqi9wj9HeaQAzPIypZdR"
     },
     {
       "album": {
@@ -724,6 +742,32 @@
     },
     {
       "album": {
+        "name": "\u6c7a\u3081\u305f\u3088Hand in Hand/\u30c0\u30a4\u30b9\u30ad\u3060\u3063\u305f\u3089\u30c0\u30a4\u30b8\u30e7\u30a6\u30d6!",
+        "url": "https://open.spotify.com/album/5Ssi8gxeAfX6INMNyYKIuL"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u6d77\u5343\u6b4c (CV.\u4f0a\u6ce2\u674f\u6a39)",
+          "url": "https://open.spotify.com/artist/6plej5RLgqzBFny1o6uODr"
+        },
+        {
+          "name": "\u685c\u5185\u68a8\u5b50 (CV.\u9022\u7530\u68a8\u9999\u5b50)",
+          "url": "https://open.spotify.com/artist/0yF5feBSqKd4frxmdkft3O"
+        },
+        {
+          "name": "\u6e21\u8fba \u66dc (CV.\u6589\u85e4\u6731\u590f)",
+          "url": "https://open.spotify.com/artist/0tfFouX7e1G86zdxkzBlRB"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272266,
+      "name": "\u30c0\u30a4\u30b9\u30ad\u3060\u3063\u305f\u3089\u30c0\u30a4\u30b8\u30e7\u30a6\u30d6!",
+      "url": "https://open.spotify.com/track/51118cg0D9k0F952AGtNou"
+    },
+    {
+      "album": {
         "name": "\u30c8\u30ea\u30b3\u30ea\u30b3PLEASE!!",
         "url": "https://open.spotify.com/album/4ZHvPOI0ckze6XmO5KCbs3"
       },
@@ -739,6 +783,24 @@
       "duration_ms": 227120,
       "name": "\u30c8\u30ea\u30b3\u30ea\u30b3PLEASE!!",
       "url": "https://open.spotify.com/track/6d3G58cEHrqIMyDKaMuRu3"
+    },
+    {
+      "album": {
+        "name": "\u308f\u30fc\u3044\u308f\u3044\u308f\u3044 \u308f\u3044\u308f\u3044\u308f\u3044!",
+        "url": "https://open.spotify.com/album/2OHTwcMbvQRnUkWeZSbDe4"
+      },
+      "artists": [
+        {
+          "name": "\u308f\u3044\u308f\u3044\u308f\u3044",
+          "url": "https://open.spotify.com/artist/2KkZ1TSYd3qY6cdB3RpKz6"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216750,
+      "name": "\u30d5\u30a1\u30dc\u30bf\u30fc\u30b8\u30e5",
+      "url": "https://open.spotify.com/track/2psUQr8PonQhzP4t7XHv8G"
     },
     {
       "album": {
@@ -897,7 +959,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 334440,
       "name": "\u5922\u3067\u591c\u7a7a\u3092\u7167\u3089\u3057\u305f\u3044",
       "url": "https://open.spotify.com/track/0x89IEs0NJHOULPx4wgPPB"
@@ -1093,7 +1155,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 302506,
       "name": "\u7a7a\u3082\u5fc3\u3082\u6674\u308c\u308b\u304b\u3089",
       "url": "https://open.spotify.com/track/6XXu1HySrCSd25li37RADe"

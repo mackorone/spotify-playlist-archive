@@ -80,6 +80,42 @@
     },
     {
       "album": {
+        "name": "Akitai",
+        "url": "https://open.spotify.com/album/2HNm4TUulw9oTAyX3Wl4hZ"
+      },
+      "artists": [
+        {
+          "name": "Polydora",
+          "url": "https://open.spotify.com/artist/0bOWZ1PEGNLA3kJTnkKTiT"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192457,
+      "name": "Akitai",
+      "url": "https://open.spotify.com/track/1nhygEpFiytaSNKmnj3QNp"
+    },
+    {
+      "album": {
+        "name": "Alpha",
+        "url": "https://open.spotify.com/album/24iln1loly7XtwB6qsfBVy"
+      },
+      "artists": [
+        {
+          "name": "River Zomnia",
+          "url": "https://open.spotify.com/artist/3dkf1Aj7lFgshUMWmIgcX6"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185324,
+      "name": "Alpha",
+      "url": "https://open.spotify.com/track/3rZhO9sRiOj2iC0g8UlxBr"
+    },
+    {
+      "album": {
         "name": "always",
         "url": "https://open.spotify.com/album/1Zqgnlwg96XIvVOrvYATK4"
       },
@@ -95,6 +131,24 @@
       "duration_ms": 176500,
       "name": "always",
       "url": "https://open.spotify.com/track/5Nusgvqw46McIdfuqrvM4c"
+    },
+    {
+      "album": {
+        "name": "Amethelia",
+        "url": "https://open.spotify.com/album/4wOAyPFSTLlEVB6hn5fe79"
+      },
+      "artists": [
+        {
+          "name": "Polydora",
+          "url": "https://open.spotify.com/artist/0bOWZ1PEGNLA3kJTnkKTiT"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215063,
+      "name": "Amethelia",
+      "url": "https://open.spotify.com/track/5vLKYUd7N8TPZ1KoYWH07I"
     },
     {
       "album": {
@@ -116,6 +170,24 @@
     },
     {
       "album": {
+        "name": "Anachronic",
+        "url": "https://open.spotify.com/album/4xvH0fR97sPN1K2NXajyLB"
+      },
+      "artists": [
+        {
+          "name": "Jeila Sander",
+          "url": "https://open.spotify.com/artist/1AhX9oQWyvwH5cYYSQbqUZ"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Anachronic",
+      "url": "https://open.spotify.com/track/28BhahBC2qOpui6ryXoCev"
+    },
+    {
+      "album": {
         "name": "Pan Flute Sessions 1",
         "url": "https://open.spotify.com/album/3AchEUirca9Quy6RBg32qs"
       },
@@ -131,6 +203,24 @@
       "duration_ms": 250214,
       "name": "Angel Dust",
       "url": "https://open.spotify.com/track/6SXEIHzo9REiTw88SX18kR"
+    },
+    {
+      "album": {
+        "name": "Apaisantes",
+        "url": "https://open.spotify.com/album/4aQuLGuuYxdFj4gjl7I2TB"
+      },
+      "artists": [
+        {
+          "name": "Pierrette Tremblay",
+          "url": "https://open.spotify.com/artist/34npnHx3CSOPsmeshdfqQY"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134310,
+      "name": "Apaisantes",
+      "url": "https://open.spotify.com/track/3713Dlm0BpTyUr1UmIhpk7"
     },
     {
       "album": {
@@ -332,6 +422,24 @@
     },
     {
       "album": {
+        "name": "Bothain",
+        "url": "https://open.spotify.com/album/4zxWNIQwykrTOJ7cPVPosB"
+      },
+      "artists": [
+        {
+          "name": "Peaceful Village",
+          "url": "https://open.spotify.com/artist/2BFpVYblz5isZ4eTnMXUQI"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142702,
+      "name": "Bothain",
+      "url": "https://open.spotify.com/track/01dutwUQJ4Yc79OKfejVuQ"
+    },
+    {
+      "album": {
         "name": "Bright Lights",
         "url": "https://open.spotify.com/album/03hxhv179JxuT0J98k5djH"
       },
@@ -530,6 +638,24 @@
     },
     {
       "album": {
+        "name": "Snow Berries",
+        "url": "https://open.spotify.com/album/13nTRdiXmI29GzOv0x0fJs"
+      },
+      "artists": [
+        {
+          "name": "Prescient Liquids",
+          "url": "https://open.spotify.com/artist/7KoToKBUpived2ez8gxKT1"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199700,
+      "name": "Companion",
+      "url": "https://open.spotify.com/track/1FgtKAO4lPSU7C83CLIOqu"
+    },
+    {
+      "album": {
         "name": "Con Ojos Cerrados",
         "url": "https://open.spotify.com/album/3w3zoZE8H5efdPfUv3vt4b"
       },
@@ -599,6 +725,24 @@
       "duration_ms": 222986,
       "name": "Constellation",
       "url": "https://open.spotify.com/track/4nxiVXO8GJcHZMIb0UJMxv"
+    },
+    {
+      "album": {
+        "name": "Crepuscular Light",
+        "url": "https://open.spotify.com/album/0XmxSLDO7hmFDkQNt6DLer"
+      },
+      "artists": [
+        {
+          "name": "Casiamty",
+          "url": "https://open.spotify.com/artist/4MkWDFm702DiQ6TYCdFyh0"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159141,
+      "name": "Crepuscular Light",
+      "url": "https://open.spotify.com/track/22Gxnq14IyFZgPcoohx5qQ"
     },
     {
       "album": {
@@ -710,6 +854,24 @@
     },
     {
       "album": {
+        "name": "Djupet",
+        "url": "https://open.spotify.com/album/7heZwQ3Yua1lr3XCYJzhbK"
+      },
+      "artists": [
+        {
+          "name": "Owen Meyers",
+          "url": "https://open.spotify.com/artist/3pTw5Y5aUfDyTD1OQVojEM"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223010,
+      "name": "Djupet",
+      "url": "https://open.spotify.com/track/4G7eckq0cn40VWV05gTJia"
+    },
+    {
+      "album": {
         "name": "Mystic Peru",
         "url": "https://open.spotify.com/album/19kg8qpfYZa2VwkVAX9jos"
       },
@@ -779,6 +941,24 @@
       "duration_ms": 193918,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/07HyW4lru1xdPooGfX3s6x"
+    },
+    {
+      "album": {
+        "name": "Drommenes Verden",
+        "url": "https://open.spotify.com/album/3c79pszHaQH1pCys52fp7j"
+      },
+      "artists": [
+        {
+          "name": "Casper Bjerke",
+          "url": "https://open.spotify.com/artist/2txNKTOHpcXh0tC1wZ2FD4"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199200,
+      "name": "Drommenes Verden",
+      "url": "https://open.spotify.com/track/3ztpmZj6p47tlck3NVQrV7"
     },
     {
       "album": {
@@ -901,7 +1081,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 276768,
       "name": "Exhale",
       "url": "https://open.spotify.com/track/49lHDhDMadb0YXVMsLs0gy"
@@ -941,6 +1121,24 @@
       "duration_ms": 192168,
       "name": "Feathers",
       "url": "https://open.spotify.com/track/5zafrD1Ovmh2XiuoX3IuUa"
+    },
+    {
+      "album": {
+        "name": "Finally Home",
+        "url": "https://open.spotify.com/album/2cp4SZMOwKu7SbPbtT0w49"
+      },
+      "artists": [
+        {
+          "name": "Keely Bain",
+          "url": "https://open.spotify.com/artist/2ueoP3YsFTlMOO2Y2Co9Ad"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172200,
+      "name": "Finally Home",
+      "url": "https://open.spotify.com/track/6ggz7xBE6dTOAiSe7RNaF3"
     },
     {
       "album": {
@@ -1121,6 +1319,24 @@
       "duration_ms": 193714,
       "name": "Green Hills",
       "url": "https://open.spotify.com/track/7CMjapGW35s2nSmXO8mB6W"
+    },
+    {
+      "album": {
+        "name": "Handwritten",
+        "url": "https://open.spotify.com/album/0kL551QkBCd4F33sAnnXKj"
+      },
+      "artists": [
+        {
+          "name": "Gabby Laurent",
+          "url": "https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203606,
+      "name": "Handwritten",
+      "url": "https://open.spotify.com/track/1Yf6Ai3nlvtlvELD2IguA8"
     },
     {
       "album": {
@@ -1506,6 +1722,24 @@
     },
     {
       "album": {
+        "name": "Nova",
+        "url": "https://open.spotify.com/album/1rvBfxWsbgqQKg0UHdTTeT"
+      },
+      "artists": [
+        {
+          "name": "Julian Nema",
+          "url": "https://open.spotify.com/artist/1Q6EETJLIdmRFA2OVj97HS"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155780,
+      "name": "Lana",
+      "url": "https://open.spotify.com/track/3MGCNZbekjphNk5SKVCdme"
+    },
+    {
+      "album": {
         "name": "Lasai",
         "url": "https://open.spotify.com/album/7kYXPNnP4j96kO0FzCfYjb"
       },
@@ -1625,7 +1859,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 225818,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/0mhg4wkvEjgVUu3P0vBlyA"
@@ -1719,6 +1953,24 @@
       "duration_ms": 203500,
       "name": "Mother Earth",
       "url": "https://open.spotify.com/track/6jY40kWdeOSljYG5VqXDo5"
+    },
+    {
+      "album": {
+        "name": "Moving Slow",
+        "url": "https://open.spotify.com/album/626tC0NRDHsPdPBB8hrKLc"
+      },
+      "artists": [
+        {
+          "name": "Russel Jace",
+          "url": "https://open.spotify.com/artist/6GwgVH86t9xt98l4RSoMbP"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Moving Slow",
+      "url": "https://open.spotify.com/track/479TAluzixIctz5AiwnrA1"
     },
     {
       "album": {
@@ -1985,10 +2237,28 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 220507,
       "name": "Peaceful Wanderer",
       "url": "https://open.spotify.com/track/6EHrTWnHax9In83uWjgmO3"
+    },
+    {
+      "album": {
+        "name": "Peaks",
+        "url": "https://open.spotify.com/album/2xv2cURnTpq0NdL39xJsCw"
+      },
+      "artists": [
+        {
+          "name": "Yves Alija",
+          "url": "https://open.spotify.com/artist/6pUJ81I1hkjgVQ6TW448Lw"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168180,
+      "name": "Peaks",
+      "url": "https://open.spotify.com/track/08ZVl6IBiPemNOsVfkoIyv"
     },
     {
       "album": {
@@ -2136,6 +2406,24 @@
     },
     {
       "album": {
+        "name": "Quiet Melodies",
+        "url": "https://open.spotify.com/album/2IgwM3tlFn7HtNfvdO6Nmc"
+      },
+      "artists": [
+        {
+          "name": "Jolene Cedar",
+          "url": "https://open.spotify.com/artist/41pIg33NrVsSkXuvOcG9Vs"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163800,
+      "name": "Quiet Melodies",
+      "url": "https://open.spotify.com/track/1GSVC5GkI5L1YbQIBZQHUh"
+    },
+    {
+      "album": {
         "name": "Quiet Stars",
         "url": "https://open.spotify.com/album/1160mTTHoFxFl3wFuIkUGX"
       },
@@ -2245,6 +2533,24 @@
       "duration_ms": 277348,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/3Y0a2d0xewXPTmziRlvBwm"
+    },
+    {
+      "album": {
+        "name": "Regreso",
+        "url": "https://open.spotify.com/album/4NynEaNsMqhoOAWjxP2c6v"
+      },
+      "artists": [
+        {
+          "name": "Yestize",
+          "url": "https://open.spotify.com/artist/6Q7kUyZyeap1NroAeY39R1"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178227,
+      "name": "Regreso",
+      "url": "https://open.spotify.com/track/0xbwOBfj9VQzrixeUrkbv5"
     },
     {
       "album": {
@@ -2680,6 +2986,24 @@
     },
     {
       "album": {
+        "name": "Southward Bound",
+        "url": "https://open.spotify.com/album/3i5u5gnGKkgEH6eiqMcYjr"
+      },
+      "artists": [
+        {
+          "name": "Halcyon Wings",
+          "url": "https://open.spotify.com/artist/1bMx6u2wXC3Ox3Cld6zyGQ"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154423,
+      "name": "Southward Bound (432 Hz)",
+      "url": "https://open.spotify.com/track/4kVJriKGhf4s47EnbfIloH"
+    },
+    {
+      "album": {
         "name": "Spiritus",
         "url": "https://open.spotify.com/album/0125MofrFOkqFXpLE7cTkm"
       },
@@ -2824,6 +3148,24 @@
     },
     {
       "album": {
+        "name": "Through The Self",
+        "url": "https://open.spotify.com/album/4QUK3vdURh2byRlf6YSXQV"
+      },
+      "artists": [
+        {
+          "name": "Nima Noi",
+          "url": "https://open.spotify.com/artist/16FXG6RNdKhKWL12WRvBZy"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199663,
+      "name": "Through The Self",
+      "url": "https://open.spotify.com/track/2uUsM8gmp9HHToPcehe9Zl"
+    },
+    {
+      "album": {
         "name": "Echoes of Water",
         "url": "https://open.spotify.com/album/42l3J84qQWgIcToLFBAJr1"
       },
@@ -2878,6 +3220,24 @@
     },
     {
       "album": {
+        "name": "Andrum",
+        "url": "https://open.spotify.com/album/3DEAYz5dCigP164kUJU53M"
+      },
+      "artists": [
+        {
+          "name": "Signe Golin",
+          "url": "https://open.spotify.com/artist/3CBETDmJHF7pJ4ENoSfs3Z"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144097,
+      "name": "Vakna",
+      "url": "https://open.spotify.com/track/6GFBrLr4HbsKqra7MSiluq"
+    },
+    {
+      "album": {
         "name": "Velvetine",
         "url": "https://open.spotify.com/album/1BD35jazKq9rYZlKhoM7xM"
       },
@@ -2925,7 +3285,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 260000,
       "name": "Water's Spirit",
       "url": "https://open.spotify.com/track/0yGdf5S95BJaZGgBWCHC5z"
@@ -3004,6 +3364,42 @@
     },
     {
       "album": {
+        "name": "Yonder",
+        "url": "https://open.spotify.com/album/6X6DVdhuR1Ajws0GwFgjHD"
+      },
+      "artists": [
+        {
+          "name": "Nathalie J",
+          "url": "https://open.spotify.com/artist/54gLxB9PQp26E1NsXCPsOb"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200669,
+      "name": "Yonder",
+      "url": "https://open.spotify.com/track/6eIaNamCwzTfJr4SrFypu5"
+    },
+    {
+      "album": {
+        "name": "You're Filled With Courage",
+        "url": "https://open.spotify.com/album/3lkh1bioKa9l6mBFgqm2Y2"
+      },
+      "artists": [
+        {
+          "name": "Genevi\u00e8ve Corin",
+          "url": "https://open.spotify.com/artist/2OZcj5SwwY93YZWnNdzD38"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157200,
+      "name": "You're Filled With Courage",
+      "url": "https://open.spotify.com/track/1yXCViJlRh40uDDaA3xOl0"
+    },
+    {
+      "album": {
         "name": "Zeit zu schlafen",
         "url": "https://open.spotify.com/album/2imLIpOy9hSqRx2SAszBoa"
       },
@@ -3019,6 +3415,24 @@
       "duration_ms": 107076,
       "name": "Zeit zu schlafen",
       "url": "https://open.spotify.com/track/6BDciTeYRejg7wi9F63k4H"
+    },
+    {
+      "album": {
+        "name": "\u00c9quilibre",
+        "url": "https://open.spotify.com/album/3ue6f4Rru74OH3ozKrFnU3"
+      },
+      "artists": [
+        {
+          "name": "Nuit Pluie",
+          "url": "https://open.spotify.com/artist/6fPF7rV8SX0fysuJVs7mZb"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201565,
+      "name": "\u00c9quilibre",
+      "url": "https://open.spotify.com/track/1kY64LDhpgy30XGXj5c7Qa"
     },
     {
       "album": {

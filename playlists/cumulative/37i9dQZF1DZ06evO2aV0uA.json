@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 224093,
       "name": "11th Hour",
       "url": "https://open.spotify.com/track/6WDJv2slxzc6Xu7CVonDBM"
@@ -145,10 +145,28 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-16",
       "duration_ms": 233466,
       "name": "Broken Hands",
       "url": "https://open.spotify.com/track/1vSXIfAsN3AGa4H1pPHKVj"
+    },
+    {
+      "album": {
+        "name": "Wrath (Special Edition)",
+        "url": "https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233466,
+      "name": "Broken Hands",
+      "url": "https://open.spotify.com/track/3WJaypEGPAc0GH4l9ouoww"
     },
     {
       "album": {
@@ -257,10 +275,28 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 157878,
       "name": "Denial Mechanism",
       "url": "https://open.spotify.com/track/0cnDVHPSFnpw17rXs6yTSP"
+    },
+    {
+      "album": {
+        "name": "Omens",
+        "url": "https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
+      "duration_ms": 157878,
+      "name": "Denial Mechanism",
+      "url": "https://open.spotify.com/track/2VjgDMPac8RDAaz2JH3UBs"
     },
     {
       "album": {
@@ -329,10 +365,28 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 217606,
       "name": "Ditch",
       "url": "https://open.spotify.com/track/0IcUCRcLXR9S8OGFt0iT1L"
+    },
+    {
+      "album": {
+        "name": "Omens",
+        "url": "https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217606,
+      "name": "Ditch",
+      "url": "https://open.spotify.com/track/6V4k01Xr3HsVrfqUyQSIqt"
     },
     {
       "album": {
@@ -387,7 +441,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": "2022-10-12",
       "duration_ms": 308546,
       "name": "Erase This",
       "url": "https://open.spotify.com/track/6y0PbQqNdZ5uxXuFAhDBJD"
@@ -441,7 +495,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 264693,
       "name": "Footprints",
       "url": "https://open.spotify.com/track/5EP7CdqAOvhOs6LJWw69sA"
@@ -459,7 +513,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": null,
       "duration_ms": 223466,
       "name": "For Your Malice",
       "url": "https://open.spotify.com/track/3jH1c9em3bdzwkc2JjYJwY"
@@ -538,6 +592,24 @@
     },
     {
       "album": {
+        "name": "Omens",
+        "url": "https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252125,
+      "name": "Gomorrah",
+      "url": "https://open.spotify.com/track/1rnsFy41deoAFKeTTsNjNU"
+    },
+    {
+      "album": {
         "name": "Wrath",
         "url": "https://open.spotify.com/album/4j5zQAcdn9hWdP9H8BH0jX"
       },
@@ -585,7 +657,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 239940,
       "name": "Grayscale",
       "url": "https://open.spotify.com/track/3v2u6vEUgHiFdQA4PsIpoE"
@@ -603,10 +675,28 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 217480,
       "name": "Hit The Wall",
       "url": "https://open.spotify.com/track/4IPEqUgslMB8nfEFdY5Lpm"
+    },
+    {
+      "album": {
+        "name": "Hit The Wall",
+        "url": "https://open.spotify.com/album/2rrS6PtERBdfxpSZgSj1mp"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219480,
+      "name": "Hit The Wall",
+      "url": "https://open.spotify.com/track/6scoTGUpzO46Su9TW0NQiR"
     },
     {
       "album": {
@@ -639,10 +729,28 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 221309,
       "name": "Ill Designs",
       "url": "https://open.spotify.com/track/3qqWr8YhkMVVj9uD0yGgWM"
+    },
+    {
+      "album": {
+        "name": "Omens",
+        "url": "https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221309,
+      "name": "Ill Designs",
+      "url": "https://open.spotify.com/track/7sJbCv83nl2S94j8ZJz2WP"
     },
     {
       "album": {
@@ -675,7 +783,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 324666,
       "name": "In Your Words",
       "url": "https://open.spotify.com/track/7lVrIjVb0ctSCo00X7cDOk"
@@ -711,7 +819,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": "2022-10-12",
       "duration_ms": 395640,
       "name": "King Me",
       "url": "https://open.spotify.com/track/2YEOckiFPxRlCqr4yjFVSw"
@@ -772,6 +880,24 @@
     },
     {
       "album": {
+        "name": "Omens",
+        "url": "https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 275924,
+      "name": "Nevermore",
+      "url": "https://open.spotify.com/track/0YHuruiHL4Vzna7jeOdfJt"
+    },
+    {
+      "album": {
         "name": "Nevermore",
         "url": "https://open.spotify.com/album/5p1LbatHrPZWLggtFukn75"
       },
@@ -783,7 +909,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 275924,
       "name": "Nevermore",
       "url": "https://open.spotify.com/track/2XRiUuCH5neBnqublHpmNw"
@@ -863,6 +989,24 @@
     {
       "album": {
         "name": "Omens",
+        "url": "https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227899,
+      "name": "Omens",
+      "url": "https://open.spotify.com/track/2calJdlU1JseiOf7c5jXwP"
+    },
+    {
+      "album": {
+        "name": "Omens",
         "url": "https://open.spotify.com/album/7lFikUc9FbXgTrL2YGR1Zy"
       },
       "artists": [
@@ -873,7 +1017,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 227899,
       "name": "Omens",
       "url": "https://open.spotify.com/track/4hswIIoErwEhIwtuFxN40R"
@@ -945,7 +1089,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-10-12",
       "duration_ms": 190533,
       "name": "Purified",
       "url": "https://open.spotify.com/track/1cQS0BcV8HIVSWLeWunEp4"
@@ -981,7 +1125,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 427040,
       "name": "Reclamation",
       "url": "https://open.spotify.com/track/57JvwdRmUxwt4zi2Kk4OLC"
@@ -1017,10 +1161,28 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 299557,
       "name": "Resurrection Man",
       "url": "https://open.spotify.com/track/520RXauS1LLY6sTUUOO7h4"
+    },
+    {
+      "album": {
+        "name": "Lamb of God",
+        "url": "https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299557,
+      "name": "Resurrection Man",
+      "url": "https://open.spotify.com/track/53xXTqz8QfadLsXbs411si"
     },
     {
       "album": {
@@ -1053,7 +1215,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": null,
       "duration_ms": 226493,
       "name": "Set To Fail",
       "url": "https://open.spotify.com/track/0FgblIvvlYsXEAlEOPbaFJ"
@@ -1096,6 +1258,24 @@
     },
     {
       "album": {
+        "name": "Resolution",
+        "url": "https://open.spotify.com/album/5rMKS2tqK818wfwr4zWQzX"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148653,
+      "name": "Straight For The Sun",
+      "url": "https://open.spotify.com/track/32LDIhVVsYEksBPoyfeKRo"
+    },
+    {
+      "album": {
         "name": "Resolution (Exclusive Edition)",
         "url": "https://open.spotify.com/album/4ziMCfnsGVmOIaVjHzcPMk"
       },
@@ -1107,7 +1287,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 261440,
       "name": "Terminally Unique",
       "url": "https://open.spotify.com/track/6GHN2naulatxJhZOUulxEu"
@@ -1197,7 +1377,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 321546,
       "name": "The Number Six",
       "url": "https://open.spotify.com/track/6Mr2g708NoGLVChCjuA9yc"
@@ -1233,7 +1413,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 118106,
       "name": "The Passing",
       "url": "https://open.spotify.com/track/3IwA4T9dOzC15CGnUDDEWy"
@@ -1305,10 +1485,64 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 223661,
       "name": "To The Grave",
       "url": "https://open.spotify.com/track/16itsMCWyAoz1rOVbWQUXI"
+    },
+    {
+      "album": {
+        "name": "Omens",
+        "url": "https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223661,
+      "name": "To The Grave",
+      "url": "https://open.spotify.com/track/6Q88Xw5D2syb9X5rZd3TLz"
+    },
+    {
+      "album": {
+        "name": "Omens",
+        "url": "https://open.spotify.com/album/6GCmzQESAIPAXbPsIMic3x"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 288657,
+      "name": "Vanishing",
+      "url": "https://open.spotify.com/track/34AImX0fVaRq5YXv2O0dwx"
+    },
+    {
+      "album": {
+        "name": "Omens",
+        "url": "https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288657,
+      "name": "Vanishing",
+      "url": "https://open.spotify.com/track/7jrkBLvhjeNs7X86wL3jKf"
     },
     {
       "album": {
@@ -1349,7 +1583,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 223413,
       "name": "Wake up Dead (feat. Dave Mustaine)",
       "url": "https://open.spotify.com/track/4v3Iyw1DP578eRpoQPpcv9"

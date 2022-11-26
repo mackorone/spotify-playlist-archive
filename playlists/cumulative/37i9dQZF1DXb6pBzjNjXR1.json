@@ -1,11 +1,33 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "AfroTech was born in South Africa and it is travelling the world's dancefloors. Listen to the best in AfroTech here. Cover: <a href=\"https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq?si=fL7CTy28SFGBIYnIc779cg\">Dr Feel</a>",
+  "description": "AfroTech was born in South Africa and it is travelling the world's dancefloors. Listen to the best in AfroTech here.",
   "name": "AfroTech Now",
   "published_playlist_ids": [
     "2tRmuLmE2qlwUjvVj1bq1z"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "Soul Awakening",
+        "url": "https://open.spotify.com/album/6xGXv8qccrPr6GSKt6q7wG"
+      },
+      "artists": [
+        {
+          "name": "DJ LESOUL",
+          "url": "https://open.spotify.com/artist/5C6dZk6xmSCgrYWjje5zPm"
+        },
+        {
+          "name": "NayB",
+          "url": "https://open.spotify.com/artist/5ZVZt7lQUWeCxCcrJNByr1"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366968,
+      "name": "Abalaleli",
+      "url": "https://open.spotify.com/track/2HfjIixRwnaOd6m3BFxl2V"
+    },
     {
       "album": {
         "name": "Abaphansi (KeysGroove Remix)",
@@ -111,10 +133,28 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 487804,
       "name": "Amathole",
       "url": "https://open.spotify.com/track/6wZ6TRdwuvLhKQF5gEyHwx"
+    },
+    {
+      "album": {
+        "name": "AMAZWI",
+        "url": "https://open.spotify.com/album/1KygMxVjnXbnuqqKlDx3f4"
+      },
+      "artists": [
+        {
+          "name": "Skye Wanda",
+          "url": "https://open.spotify.com/artist/7BwrJs4E8L2r4FiavhNFa1"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268000,
+      "name": "AMAZWI",
+      "url": "https://open.spotify.com/track/2q92nuY3WtRGtlvxAaPNz0"
     },
     {
       "album": {
@@ -137,7 +177,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 507116,
       "name": "Ancestor's Calling - Saint Evo Extended Mix",
       "url": "https://open.spotify.com/track/231Jki1MhgGaEV2JrAUA1Q"
@@ -163,7 +203,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 313026,
       "name": "Andifuni Ngawe",
       "url": "https://open.spotify.com/track/5owaEYXYYnTvw15uOl5E6S"
@@ -196,6 +236,32 @@
     },
     {
       "album": {
+        "name": "Asanda",
+        "url": "https://open.spotify.com/album/6vCt7Qg2q1ayRZd8vL1IOn"
+      },
+      "artists": [
+        {
+          "name": "Kususa",
+          "url": "https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ"
+        },
+        {
+          "name": "Argento Dust",
+          "url": "https://open.spotify.com/artist/4k5ekCq3lqokDeY3JifNjt"
+        },
+        {
+          "name": "Zakes Bantwini",
+          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322400,
+      "name": "Asanda",
+      "url": "https://open.spotify.com/track/4iq6mQd3Hkj1BUYC09t3rP"
+    },
+    {
+      "album": {
         "name": "Ascension",
         "url": "https://open.spotify.com/album/1vRpUch8iE9h7JZeW6aLaQ"
       },
@@ -219,7 +285,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 454000,
       "name": "Ascension - Club Mix",
       "url": "https://open.spotify.com/track/7yOx1vZmg8davDfpKdiANa"
@@ -347,7 +413,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 574940,
       "name": "Femi",
       "url": "https://open.spotify.com/track/5MzqWUhPBnpp57hI7Qd0Oc"
@@ -376,6 +442,24 @@
     },
     {
       "album": {
+        "name": "Figo",
+        "url": "https://open.spotify.com/album/2BvgYRixw4oWlFJ75fe2Zh"
+      },
+      "artists": [
+        {
+          "name": "Eyama",
+          "url": "https://open.spotify.com/artist/1eWJoMYZJZHfPhXTxodWbd"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381000,
+      "name": "Figo",
+      "url": "https://open.spotify.com/track/6UjeI3QRwqOwSUQXkTnsdk"
+    },
+    {
+      "album": {
         "name": "HAYII",
         "url": "https://open.spotify.com/album/73IrTAOufu4VMnQqcKw1za"
       },
@@ -395,6 +479,28 @@
       "duration_ms": 459661,
       "name": "HAYII",
       "url": "https://open.spotify.com/track/3NdtOKVyuOO5GwhU7Ts4iI"
+    },
+    {
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/4x1aCpqT679anIgHX9n9hW"
+      },
+      "artists": [
+        {
+          "name": "Leo Guardo",
+          "url": "https://open.spotify.com/artist/2TpIgakorrUFzS3pOUgCzD"
+        },
+        {
+          "name": "Sobantwana",
+          "url": "https://open.spotify.com/artist/0DoNVl96ZWKJ1hbnKGaj93"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348020,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/1o0nfthgnLpDkpChnvta9s"
     },
     {
       "album": {
@@ -457,7 +563,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 390519,
       "name": "Iminathi",
       "url": "https://open.spotify.com/track/7omZhK4thI7xrGUCKRcaTe"
@@ -516,6 +622,32 @@
     },
     {
       "album": {
+        "name": "IQHAWE",
+        "url": "https://open.spotify.com/album/4FxgWaDxIrMGItb5cc5ur4"
+      },
+      "artists": [
+        {
+          "name": "Kreative Nativez",
+          "url": "https://open.spotify.com/artist/4s2DjPiXzoh6KErcgfMl6G"
+        },
+        {
+          "name": "Dr Feel",
+          "url": "https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq"
+        },
+        {
+          "name": "Philasande",
+          "url": "https://open.spotify.com/artist/3hxC69P9B55P0PDDye6iqi"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 449964,
+      "name": "IQHAWE",
+      "url": "https://open.spotify.com/track/30RylevGyD4EFyV4VYbPj3"
+    },
+    {
+      "album": {
         "name": "iThemba (Radio Edit)",
         "url": "https://open.spotify.com/album/7wXIm0d8WwdMQGf8ahwTAA"
       },
@@ -561,6 +693,24 @@
     {
       "album": {
         "name": "Jika EP",
+        "url": "https://open.spotify.com/album/620uN2e9ilPg65f7hDSJBr"
+      },
+      "artists": [
+        {
+          "name": "Thandi Draai",
+          "url": "https://open.spotify.com/artist/5YOTbvFffpPKwdMKEyKIcG"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-11",
+      "duration_ms": 370639,
+      "name": "Jika",
+      "url": "https://open.spotify.com/track/3YHmg8KZYgKnj0Z6jqyyOy"
+    },
+    {
+      "album": {
+        "name": "Jika EP",
         "url": "https://open.spotify.com/album/3PHBGOYUSYCUczVqnaDmga"
       },
       "artists": [
@@ -571,7 +721,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 370639,
       "name": "Jika",
       "url": "https://open.spotify.com/track/4DByodhCD8rykLsxgiCXt8"
@@ -593,7 +743,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 503606,
       "name": "Karma",
       "url": "https://open.spotify.com/track/5Po3stEOmRMz7PFWTcJlA1"
@@ -619,7 +769,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 392000,
       "name": "Like A Dream - Enoo Napa Remix",
       "url": "https://open.spotify.com/track/6OvK413r6gXm4MCuvzXbND"
@@ -645,7 +795,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 256782,
       "name": "Little Thing",
       "url": "https://open.spotify.com/track/60OtCQpCOk0FGlvVlGYZkz"
@@ -726,6 +876,24 @@
     },
     {
       "album": {
+        "name": "Maya",
+        "url": "https://open.spotify.com/album/2hfNUwkRhfw7VjCWIQU4hZ"
+      },
+      "artists": [
+        {
+          "name": "Pierre Johnson",
+          "url": "https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399661,
+      "name": "Maya",
+      "url": "https://open.spotify.com/track/37aSg02eKxZMSueTi5qE89"
+    },
+    {
+      "album": {
         "name": "MISAVA",
         "url": "https://open.spotify.com/album/6Qs01I9CWfP5gitMZrOQPd"
       },
@@ -785,7 +953,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 421692,
       "name": "Nefarious - Atmospheric Mix",
       "url": "https://open.spotify.com/track/2zRynSzo4zMUtpvgodmeBl"
@@ -807,10 +975,32 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 239040,
       "name": "Ngilinde",
       "url": "https://open.spotify.com/track/0xeoiu2UtZNx0AQPDULxzT"
+    },
+    {
+      "album": {
+        "name": "Ngilinde (feat. Mango SA)",
+        "url": "https://open.spotify.com/album/0n0qkaAvQKWrQwwzJuLNWQ"
+      },
+      "artists": [
+        {
+          "name": "YANII",
+          "url": "https://open.spotify.com/artist/06e5v5ceaBo1dD8G9moem7"
+        },
+        {
+          "name": "Mango SA",
+          "url": "https://open.spotify.com/artist/25hbfaO27EZSGQTymk96D9"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239000,
+      "name": "Ngilinde (feat. Mango SA)",
+      "url": "https://open.spotify.com/track/7nLwR3QysknGglnJ3zxe83"
     },
     {
       "album": {
@@ -925,10 +1115,58 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 377225,
       "name": "Psilocybin",
       "url": "https://open.spotify.com/track/5cdZZrSBhorr0BZBGFUfIy"
+    },
+    {
+      "album": {
+        "name": "Reasons (Andrea Oliva Remix)",
+        "url": "https://open.spotify.com/album/0ZVMnMR0dTUWHk8BtDFFPc"
+      },
+      "artists": [
+        {
+          "name": "Black Circle",
+          "url": "https://open.spotify.com/artist/3f9ttFig9YeqVKerYRPX1M"
+        },
+        {
+          "name": "Bobbi Fallon",
+          "url": "https://open.spotify.com/artist/2iGBTGNxBGp36zT37zvpHB"
+        },
+        {
+          "name": "Andrea Oliva",
+          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197419,
+      "name": "Reasons - Andrea Oliva Remix",
+      "url": "https://open.spotify.com/track/7zwmPye7GEgHouNGGFOG8R"
+    },
+    {
+      "album": {
+        "name": "Sfede",
+        "url": "https://open.spotify.com/album/73QpLmYkPfXgX5cd2eey93"
+      },
+      "artists": [
+        {
+          "name": "Drega",
+          "url": "https://open.spotify.com/artist/1Gj6W2RfGpl6ebJGle93VG"
+        },
+        {
+          "name": "Thandi Draai",
+          "url": "https://open.spotify.com/artist/5YOTbvFffpPKwdMKEyKIcG"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357950,
+      "name": "Sfede",
+      "url": "https://open.spotify.com/track/6OFb2fIb9MLO9MFalHAv2O"
     },
     {
       "album": {
@@ -981,7 +1219,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 351935,
       "name": "Sikelela (feat. Bukeka)",
       "url": "https://open.spotify.com/track/44cXNeeTCwuco12b9r2K7n"
@@ -1029,10 +1267,28 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 379387,
       "name": "Suka",
       "url": "https://open.spotify.com/track/4ETqxUieEXrUru8B1fiXKk"
+    },
+    {
+      "album": {
+        "name": "The Republic of Atmofrika",
+        "url": "https://open.spotify.com/album/6Yv3Pc9Wq9muZCdi9aRHHh"
+      },
+      "artists": [
+        {
+          "name": "Atmos Blaq",
+          "url": "https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412032,
+      "name": "T.R.O.A",
+      "url": "https://open.spotify.com/track/1iaF44Uh61Non8nnHxDphC"
     },
     {
       "album": {
@@ -1055,7 +1311,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 245716,
       "name": "The Balance",
       "url": "https://open.spotify.com/track/0ltqfzMQMK0eVmzPpl6pmt"
@@ -1085,6 +1341,50 @@
       "duration_ms": 422957,
       "name": "Thunderstorm - Kususa Remix",
       "url": "https://open.spotify.com/track/1lf0fNau1vyhuwadJz8k2h"
+    },
+    {
+      "album": {
+        "name": "Tout S'en Va",
+        "url": "https://open.spotify.com/album/0Z7HOg9bzgDMrRL2jPSmNv"
+      },
+      "artists": [
+        {
+          "name": "Le Croque",
+          "url": "https://open.spotify.com/artist/4hTAcu1A9geS3saiPClAn4"
+        },
+        {
+          "name": "Coco",
+          "url": "https://open.spotify.com/artist/0NMq0jrmfJeEiJtjywE1Xl"
+        },
+        {
+          "name": "Echo Deep",
+          "url": "https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 454634,
+      "name": "Tout S'en Va - Echo Deep Remix",
+      "url": "https://open.spotify.com/track/2yIbj1FlRfhD60bydLCfog"
+    },
+    {
+      "album": {
+        "name": "Turmoil",
+        "url": "https://open.spotify.com/album/28wN2o412xOVYXOWFyn85y"
+      },
+      "artists": [
+        {
+          "name": "DJ LESOUL",
+          "url": "https://open.spotify.com/artist/5C6dZk6xmSCgrYWjje5zPm"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393464,
+      "name": "Turmoil",
+      "url": "https://open.spotify.com/track/4Yk9WHAIpHTBREPJzYfUsR"
     },
     {
       "album": {
@@ -1209,7 +1509,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 423366,
       "name": "Walk on the Moon",
       "url": "https://open.spotify.com/track/4bVEmJRL6ATykJS7Qwdjw6"
@@ -1231,7 +1531,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 438442,
       "name": "Weh Baba",
       "url": "https://open.spotify.com/track/0ILcrL9V6bMD797mmWvej5"
@@ -1249,10 +1549,50 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 428171,
       "name": "White Noise",
       "url": "https://open.spotify.com/track/7ts1EPMjAOz1NtXqOxFj3g"
+    },
+    {
+      "album": {
+        "name": "XX XX (Enoo Napa Remix)",
+        "url": "https://open.spotify.com/album/7nQpcH4F26cgvGeYfkKO9D"
+      },
+      "artists": [
+        {
+          "name": "Enoo Napa",
+          "url": "https://open.spotify.com/artist/5KPid3HkjjnBN4PeUqllHC"
+        },
+        {
+          "name": "Chukku",
+          "url": "https://open.spotify.com/artist/7tsGLSY4SLPBUJcw1DwhGa"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421512,
+      "name": "XX XX - Enoo Napa Remix",
+      "url": "https://open.spotify.com/track/5ulVDD2bMcqMd4MgBAKYr6"
+    },
+    {
+      "album": {
+        "name": "Yoruba",
+        "url": "https://open.spotify.com/album/5S65Qudj7Jk2YLiDUsWBJ9"
+      },
+      "artists": [
+        {
+          "name": "Yamil",
+          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427627,
+      "name": "Yoruba",
+      "url": "https://open.spotify.com/track/6VNWwYYl9jCCIZD224ALSD"
     },
     {
       "album": {
@@ -1275,7 +1615,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 504000,
       "name": "Zamekile - Club Edit",
       "url": "https://open.spotify.com/track/6lK80e4t6CNBlSCMKbrXfi"

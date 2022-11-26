@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "Electronic + Dance making waves, every month. Cover: Austin Millz.",
+  "description": "Electronic + Dance making waves, every month. Cover: Wajeed.",
   "name": "Electronic + Dance Frequency",
   "published_playlist_ids": [
     "2TNmeY42vrKnq2dfH2dCEO"
@@ -84,6 +84,24 @@
     },
     {
       "album": {
+        "name": "6am",
+        "url": "https://open.spotify.com/album/2pyGNsIfsvhBLb2GrQ9Orm"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221748,
+      "name": "6am",
+      "url": "https://open.spotify.com/track/1lx452Y4CLMvIois88vwBr"
+    },
+    {
+      "album": {
         "name": "Classics II",
         "url": "https://open.spotify.com/album/2oCs1zkolJFbWmjEIqJFQn"
       },
@@ -99,6 +117,28 @@
       "duration_ms": 250775,
       "name": "A Pimp Named Slickback",
       "url": "https://open.spotify.com/track/69IzWtMP6VAEr5kpA5tURl"
+    },
+    {
+      "album": {
+        "name": "A Walk In The Park (Seth Troxler Cruising Remix)",
+        "url": "https://open.spotify.com/album/1lhwvgyb8kbJ7QHVz91FEt"
+      },
+      "artists": [
+        {
+          "name": "DJ Minx",
+          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
+        },
+        {
+          "name": "Seth Troxler",
+          "url": "https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376826,
+      "name": "A Walk In The Park - Seth Troxler Cruising Remix",
+      "url": "https://open.spotify.com/track/4stegoRgdLrI4H72VvzOPp"
     },
     {
       "album": {
@@ -241,6 +281,28 @@
       "duration_ms": 120779,
       "name": "Always Be My Baby - Austin Millz Remix",
       "url": "https://open.spotify.com/track/0S0ezG92vQDS5VbX12GC3g"
+    },
+    {
+      "album": {
+        "name": "Capricorn Sun",
+        "url": "https://open.spotify.com/album/5maY5nikux4eBxcRCThzrA"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207840,
+      "name": "Anxious Mind",
+      "url": "https://open.spotify.com/track/2302Z0DrnuYan1AfNO04bz"
     },
     {
       "album": {
@@ -709,6 +771,42 @@
     {
       "album": {
         "name": "Dance",
+        "url": "https://open.spotify.com/album/7q65VftPY7x1F8bHHnKvvw"
+      },
+      "artists": [
+        {
+          "name": "Jay Safari",
+          "url": "https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-21",
+      "duration_ms": 165485,
+      "name": "Dance",
+      "url": "https://open.spotify.com/track/0h20OvcHKLzhEiQBY4Xgqe"
+    },
+    {
+      "album": {
+        "name": "Bad Decisions",
+        "url": "https://open.spotify.com/album/1gfhCvXKKGLGCRfdf02GiU"
+      },
+      "artists": [
+        {
+          "name": "Jay Safari",
+          "url": "https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165485,
+      "name": "Dance",
+      "url": "https://open.spotify.com/track/1U4yfIDARp95wtUGOZZW51"
+    },
+    {
+      "album": {
+        "name": "Dance",
         "url": "https://open.spotify.com/album/0Rkl5rosO2RGnoKz5Cw6j5"
       },
       "artists": [
@@ -737,7 +835,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 165485,
       "name": "Dance",
       "url": "https://open.spotify.com/track/7AYYU5KQb4yjWyLEemiDc9"
@@ -755,7 +853,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 310153,
       "name": "Dancin In The D",
       "url": "https://open.spotify.com/track/4IakwcfKlaDeSqeZB4xko7"
@@ -777,7 +875,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 277432,
       "name": "Dancing In The Shadows",
       "url": "https://open.spotify.com/track/2edB8M0PPZCoYKm8ohDaNm"
@@ -839,7 +937,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 245601,
       "name": "Dindon",
       "url": "https://open.spotify.com/track/6qPNkMZwvdlUUD3s1fXDQs"
@@ -865,6 +963,24 @@
       "duration_ms": 252720,
       "name": "Do It All Night - Honey Dijon Remix [Radio Edit]",
       "url": "https://open.spotify.com/track/2H39iFssrfIvFm66Bm43AR"
+    },
+    {
+      "album": {
+        "name": "Do you miss me?",
+        "url": "https://open.spotify.com/album/3Mp1zB42F2yqqOMEep7R3k"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128853,
+      "name": "Do you miss me?",
+      "url": "https://open.spotify.com/track/67r7ZHxVxONN9ZQk05AQVL"
     },
     {
       "album": {
@@ -1113,7 +1229,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 244262,
       "name": "Follow You",
       "url": "https://open.spotify.com/track/0QiIiiGroBqnleILFsPUuc"
@@ -1445,7 +1561,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": "2022-11-13",
       "duration_ms": 221733,
       "name": "Got Em (Sango Remix)",
       "url": "https://open.spotify.com/track/52b5Bl2zPRRfZi7uinhGZR"
@@ -1614,6 +1730,28 @@
     },
     {
       "album": {
+        "name": "Ima Be That",
+        "url": "https://open.spotify.com/album/56vNWQcgv0Xo2e6GY8SxDQ"
+      },
+      "artists": [
+        {
+          "name": "The APX",
+          "url": "https://open.spotify.com/artist/4FcDSQOUJabW2HEHGofJOM"
+        },
+        {
+          "name": "UNIIQU3",
+          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230880,
+      "name": "Ima Be That",
+      "url": "https://open.spotify.com/track/6g9VTPdexgvQNEM8YM0Q9a"
+    },
+    {
+      "album": {
         "name": "Intimidated",
         "url": "https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g"
       },
@@ -1651,6 +1789,28 @@
       "duration_ms": 188983,
       "name": "It Ain't Right",
       "url": "https://open.spotify.com/track/2EQUQFcCuiLdPOjmwkklER"
+    },
+    {
+      "album": {
+        "name": "Black Girl Magic",
+        "url": "https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN"
+      },
+      "artists": [
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        {
+          "name": "Dope Earth Alien",
+          "url": "https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182750,
+      "name": "It's Quiet Now (feat. Dope Earth Alien)",
+      "url": "https://open.spotify.com/track/1mpD4bXO4r3xilu12Kaf5Q"
     },
     {
       "album": {
@@ -1745,10 +1905,32 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 283304,
       "name": "Keep You Close",
       "url": "https://open.spotify.com/track/3xYWczqcz54jMm3K7vD9zu"
+    },
+    {
+      "album": {
+        "name": "Kiss It Better",
+        "url": "https://open.spotify.com/album/7b3D4oZOXrhYv04WU6yd3m"
+      },
+      "artists": [
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        },
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257055,
+      "name": "Kiss It Better",
+      "url": "https://open.spotify.com/track/78VvdxcfXAYBhdzuLFFvSK"
     },
     {
       "album": {
@@ -1888,6 +2070,28 @@
     },
     {
       "album": {
+        "name": "Show Me Some Love (feat. Sadie Walker)",
+        "url": "https://open.spotify.com/album/2eWGZxSgyBoixLT4t76AXI"
+      },
+      "artists": [
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        {
+          "name": "Ramona Renea",
+          "url": "https://open.spotify.com/artist/4rgCSBhGOFMm7d8HJsA4j3"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193859,
+      "name": "Love Is A State Of Mind (feat. Ramona Renea)",
+      "url": "https://open.spotify.com/track/0f6V5OeM1gu6gAt77nfMqk"
+    },
+    {
+      "album": {
         "name": "Love Me",
         "url": "https://open.spotify.com/album/1PdFlqzfgz8oqbHwGFdrBC"
       },
@@ -1903,7 +2107,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 174580,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/6fgfoT5DB6f4IOgzPRJm0n"
@@ -1979,7 +2183,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 238167,
       "name": "Microdosing",
       "url": "https://open.spotify.com/track/6JtT4a0Z406dz7A2f2vGBe"
@@ -2021,16 +2225,16 @@
           "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
         },
         {
-          "name": "Inner City",
-          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
-        },
-        {
           "name": "Kevin Saunderson",
           "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
         },
         {
           "name": "Dantiez Saunderson",
           "url": "https://open.spotify.com/artist/7rymtwVS1IAIF9D4APLnOI"
+        },
+        {
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
         }
       ],
       "date_added": "2022-07-08",
@@ -2061,6 +2265,28 @@
       "duration_ms": 207754,
       "name": "More Than A Feeling (feat. Grace Tither)",
       "url": "https://open.spotify.com/track/55dEeQaniZNKnePkzZNJGg"
+    },
+    {
+      "album": {
+        "name": "Motor City Madness (Underground Resistance Remixes)",
+        "url": "https://open.spotify.com/album/7qNHKB9TRtmybrm0h7ipEb"
+      },
+      "artists": [
+        {
+          "name": "Waajeed",
+          "url": "https://open.spotify.com/artist/4dXRZcf1AdzvwZ9AiRIsmT"
+        },
+        {
+          "name": "Underground Resistance",
+          "url": "https://open.spotify.com/artist/0tbuVFxbrGx2oiNbpetUGc"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391342,
+      "name": "Motor City Madness - Underground Resistance Remix",
+      "url": "https://open.spotify.com/track/1S22d1qYyURkfSakbFXyjC"
     },
     {
       "album": {
@@ -2199,10 +2425,28 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 282640,
       "name": "Natives",
       "url": "https://open.spotify.com/track/4MEgPSYPPBEyW10WLsHKkq"
+    },
+    {
+      "album": {
+        "name": "Natives",
+        "url": "https://open.spotify.com/album/3pMT1NMsRVQYuiN9mxrMsc"
+      },
+      "artists": [
+        {
+          "name": "Pot\u00e9",
+          "url": "https://open.spotify.com/artist/4mHvZlo1KyW4kW3F1FE1q5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282640,
+      "name": "Natives",
+      "url": "https://open.spotify.com/track/6jtYFspv3oFdy6zwt8sKDb"
     },
     {
       "album": {
@@ -2383,7 +2627,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 164464,
       "name": "NYCE",
       "url": "https://open.spotify.com/track/5hU9asdarIOC0eposo4uge"
@@ -2852,6 +3096,24 @@
     },
     {
       "album": {
+        "name": "So Tell Me\u2026",
+        "url": "https://open.spotify.com/album/4BH2rFhaoB6HBgX8fSeeyb"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227426,
+      "name": "So Tell Me\u2026",
+      "url": "https://open.spotify.com/track/3GJbXOYweOltxSiOsCNkMd"
+    },
+    {
+      "album": {
         "name": "Soared Straight Through Me",
         "url": "https://open.spotify.com/album/6ulFRqgLTeLMiSSo1OB6US"
       },
@@ -3224,6 +3486,24 @@
     },
     {
       "album": {
+        "name": "To Last",
+        "url": "https://open.spotify.com/album/00RMnS3psKLla6O7sYp8mB"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176283,
+      "name": "To Last",
+      "url": "https://open.spotify.com/track/10aCY2jJFNYGf9qpiN2LZy"
+    },
+    {
+      "album": {
         "name": "Tukuntazo (Austin Millz Remix)",
         "url": "https://open.spotify.com/album/5yEc7JEGFUFl4TZ0vSQXqY"
       },
@@ -3383,7 +3663,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 185109,
       "name": "Unknown Party (UnknownVibes)",
       "url": "https://open.spotify.com/track/6Z6TBLPEQbQBWH7H5pnsKv"
@@ -3449,7 +3729,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 145379,
       "name": "Vibe for Me - Famba Remix",
       "url": "https://open.spotify.com/track/4wID2wXMDMxykwOW0Qpw7V"
@@ -3471,7 +3751,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 109714,
       "name": "Violin",
       "url": "https://open.spotify.com/track/4se25yP3bMpaMAlcxvyJ5Q"
@@ -3779,6 +4059,24 @@
     {
       "album": {
         "name": "Frame of a Fauna",
+        "url": "https://open.spotify.com/album/3LPiHM4N1vvRyXYTo1oUB2"
+      },
+      "artists": [
+        {
+          "name": "Ouri",
+          "url": "https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-19",
+      "duration_ms": 246458,
+      "name": "Wrong Breed",
+      "url": "https://open.spotify.com/track/0a8eV4f7SRViOMwqGYyQai"
+    },
+    {
+      "album": {
+        "name": "Frame of a Fauna",
         "url": "https://open.spotify.com/album/0ifU4vmffYR8nMs3DJ9elw"
       },
       "artists": [
@@ -3789,7 +4087,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 246458,
       "name": "Wrong Breed",
       "url": "https://open.spotify.com/track/3XFQEMEaKwU6MOm9JFdw5B"
@@ -3903,6 +4201,24 @@
       "duration_ms": 227706,
       "name": "YOU'RE THE ONE",
       "url": "https://open.spotify.com/track/70kdJnm1X6eEM8DbWa8Mnc"
+    },
+    {
+      "album": {
+        "name": "ZAZA",
+        "url": "https://open.spotify.com/album/4hklCiWYHkGeRqgCGs7wRB"
+      },
+      "artists": [
+        {
+          "name": "Cookiee Kawaii",
+          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149516,
+      "name": "ZAZA",
+      "url": "https://open.spotify.com/track/64y0NPZeOIewgF413KARfy"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXa1pcUVlBhYz"

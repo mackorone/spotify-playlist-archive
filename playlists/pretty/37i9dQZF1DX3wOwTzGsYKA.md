@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wOwTzGsYKA.md) - [plain]
 
 > "This is a 'FEEL IT ALL' playlist\. When I got pregnant & sober, I was so afraid that actually feeling all of the feelings I’d been numbing for so long would kill me\. I needed to practice feeling in manageable bits\. Each night, I’d lay in bed, play a song, listen, and feel." Cover: Glennon Doyle
 
-[Spotify](https://open.spotify.com/user/spotify) - 383 likes - 20 songs - 1 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 517 likes - 20 songs - 1 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [We Can Do Hard Things](https://open.spotify.com/track/2GhZ6OFTzasUwOrI32zS4P) | [Tish Melton](https://open.spotify.com/artist/4r0G11Ag5P3qXSaIlskMvW) | [We Can Do Hard Things](https://open.spotify.com/album/0UtLMHAZcGbK8I1qzGEGzP) | 4:26 |
 | 2 | [I Am Here](https://open.spotify.com/track/32j279x3imcBWBu9OaHX2n) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Beautiful Trauma](https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz) | 4:06 |
 | 3 | [Virginia Woolf](https://open.spotify.com/track/3yFMUU2lbBDD7F1hDUnH74) | [Indigo Girls](https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG) | [Rites Of Passage \(Expanded Edition\)](https://open.spotify.com/album/7Bpm8RN7CWTEH2Os4vw3Po) | 5:28 |
-| 4 | [Medicine](https://open.spotify.com/track/4TxJQDtvYHJcOBH6ONi6q2) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Wild Youth](https://open.spotify.com/album/3k1RJDh4AnciWhtXm8fymT) | 4:18 |
+| 4 | [Medicine](https://open.spotify.com/track/1ujiHGg5p9SVrNIV4jumQK) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Wild Youth](https://open.spotify.com/album/6BxQ7IyCBbx4CeB7BHQwet) | 4:18 |
 | 5 | [Talkin' Bout a Revolution](https://open.spotify.com/track/0YMFcrMtBowDdD5bPz0cgy) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 2:41 |
 | 6 | [Mama Werewolf](https://open.spotify.com/track/3prWmTfS6HnvkKgezSQFJO) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 3:41 |
 | 7 | [Halo](https://open.spotify.com/track/4JehYebiI9JE8sR8MisGVb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7) | 4:21 |
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wOwTzGsYKA.md) - [plain]
 | 19 | [Walking On Sunshine](https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0) | [Katrina & The Waves](https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3) | [Katrina & The Waves](https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7) | 3:58 |
 | 20 | [Faith \- Remastered](https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 3:13 |
 
-Snapshot ID: `MTY2NDkxOTc4MywwMDAwMDAwMDIyMGI3YjZkOTZhZjlhN2JmOWNiNTM5YTM4NGEzZjlj`
+Snapshot ID: `MTY2NDkxOTc4MywwMDAwMDAwMDA2ZmNlYzAyZTFkNzFhMzA4M2E0NTZiNGQxMGVlZmY1`

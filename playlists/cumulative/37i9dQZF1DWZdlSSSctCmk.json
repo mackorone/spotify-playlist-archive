@@ -55,10 +55,28 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 424930,
       "name": "Agave Harvest",
       "url": "https://open.spotify.com/track/2DjkmfxsTS03NaCzbaYSEC"
+    },
+    {
+      "album": {
+        "name": "First Light",
+        "url": "https://open.spotify.com/album/3a6XBCyE4t6WhZpfJtUWOE"
+      },
+      "artists": [
+        {
+          "name": "Manuel Darquart",
+          "url": "https://open.spotify.com/artist/0mumYdYeqKkr99t3iDEHGS"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 424930,
+      "name": "Agave Harvest",
+      "url": "https://open.spotify.com/track/6RxcQgpLCg7p7GHBp5xvuf"
     },
     {
       "album": {
@@ -196,6 +214,24 @@
     },
     {
       "album": {
+        "name": "Smokers Delight (Digital Deluxe)",
+        "url": "https://open.spotify.com/album/1papIBvEjjXA80q6eW7Gtw"
+      },
+      "artists": [
+        {
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376981,
+      "name": "Aquaself",
+      "url": "https://open.spotify.com/track/1ZgrhT1NfwUt2cNdZG0wHC"
+    },
+    {
+      "album": {
         "name": "Around The Sun",
         "url": "https://open.spotify.com/album/2l6iKC0utkn2ADXNN8KpyB"
       },
@@ -233,7 +269,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-10",
+      "date_removed": null,
       "duration_ms": 460949,
       "name": "Atoms Song",
       "url": "https://open.spotify.com/track/5GkmYAsDo9mWAEBrxfQo5j"
@@ -320,6 +356,24 @@
     },
     {
       "album": {
+        "name": "Sketches From An Island 2",
+        "url": "https://open.spotify.com/album/4if4XobtYvNk6rf7c4pJZ9"
+      },
+      "artists": [
+        {
+          "name": "Mark Barrott",
+          "url": "https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-21",
+      "duration_ms": 224428,
+      "name": "Brunch With Suki",
+      "url": "https://open.spotify.com/track/4FeGoquZz4ShR280GEtUyY"
+    },
+    {
+      "album": {
         "name": "Wandering",
         "url": "https://open.spotify.com/album/0otC2s8AupBtfGUe0UUhYg"
       },
@@ -361,7 +415,7 @@
     {
       "album": {
         "name": "Soft Power",
-        "url": "https://open.spotify.com/album/6em6BXIsCYjP1JOhaU4Bm6"
+        "url": "https://open.spotify.com/album/787rB0eyQAaqCFn7LI0GVQ"
       },
       "artists": [
         {
@@ -376,6 +430,28 @@
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 262281,
+      "name": "Caf\u00e9 Com Leite",
+      "url": "https://open.spotify.com/track/0icCp5ScnBbKdyvLNLMx3N"
+    },
+    {
+      "album": {
+        "name": "Soft Power",
+        "url": "https://open.spotify.com/album/6em6BXIsCYjP1JOhaU4Bm6"
+      },
+      "artists": [
+        {
+          "name": "Poirier",
+          "url": "https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4"
+        },
+        {
+          "name": "Flavia Coelho",
+          "url": "https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
       "duration_ms": 262281,
       "name": "Caf\u00e9 Com Leite",
       "url": "https://open.spotify.com/track/4Qr7jxogVZA4rglb4IPyGD"
@@ -397,10 +473,32 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 505453,
       "name": "Caf\u00e9 de Flore",
       "url": "https://open.spotify.com/track/3GyEeD1p5I2TahbhjxCxUU"
+    },
+    {
+      "album": {
+        "name": "Indoor Fireworks (Re-Release)",
+        "url": "https://open.spotify.com/album/7CKn2PMMpKU2XXR8F9Qgzj"
+      },
+      "artists": [
+        {
+          "name": "Doctor Rockit",
+          "url": "https://open.spotify.com/artist/2dxfrIXDVz9vrggJPRuJrZ"
+        },
+        {
+          "name": "Matthew Herbert",
+          "url": "https://open.spotify.com/artist/0zdn1nNmOZXHZ9K28FvcFp"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 505453,
+      "name": "Caf\u00e9 de Flore",
+      "url": "https://open.spotify.com/track/5tOd8Y5zNe8cEu2eCsJgpR"
     },
     {
       "album": {
@@ -473,6 +571,24 @@
       "duration_ms": 325489,
       "name": "Coconut Mango",
       "url": "https://open.spotify.com/track/6VRgvci0hYokJguaBzGZmj"
+    },
+    {
+      "album": {
+        "name": "Corsica '80",
+        "url": "https://open.spotify.com/album/0TW4O57pYbKTXblJlctE1u"
+      },
+      "artists": [
+        {
+          "name": "Kraak & Smaak",
+          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 263493,
+      "name": "Corsica '80",
+      "url": "https://open.spotify.com/track/29ciyzjusw1w1UL22GKS67"
     },
     {
       "album": {
@@ -698,6 +814,28 @@
     },
     {
       "album": {
+        "name": "Give It To You",
+        "url": "https://open.spotify.com/album/1igCm1p286pDmWPgoYC5nP"
+      },
+      "artists": [
+        {
+          "name": "Ralf Gum",
+          "url": "https://open.spotify.com/artist/2XE7Kskh4TLEcxIyNSoCwN"
+        },
+        {
+          "name": "Paula",
+          "url": "https://open.spotify.com/artist/0ONShQYbM9pQ4LaC7sLMHK"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228159,
+      "name": "Give It To You - Ralf GUM Radio Edit",
+      "url": "https://open.spotify.com/track/4Jlibu79z626cTAfJJlqdK"
+    },
+    {
+      "album": {
         "name": "Midnight Voyage",
         "url": "https://open.spotify.com/album/5uaAVhppungH8fzCbBc6ji"
       },
@@ -716,6 +854,24 @@
     },
     {
       "album": {
+        "name": "Hablame",
+        "url": "https://open.spotify.com/album/1mzMF0AB5CBiwaNOIq6tZS"
+      },
+      "artists": [
+        {
+          "name": "Carlo",
+          "url": "https://open.spotify.com/artist/4Ip5zlFraFIrxciG5Luxlo"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-15",
+      "duration_ms": 379972,
+      "name": "Hablame",
+      "url": "https://open.spotify.com/track/5zOUieF8uLE90U0cJDn2pL"
+    },
+    {
+      "album": {
         "name": "Happy Music / Something on My Mind",
         "url": "https://open.spotify.com/album/4D78IEl2Nl3ywiu254VOVn"
       },
@@ -723,10 +879,24 @@
         {
           "name": "Supershy",
           "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
-        },
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-19",
+      "duration_ms": 232625,
+      "name": "Happy Music",
+      "url": "https://open.spotify.com/track/3rh495Z2rIRwD316blea4f"
+    },
+    {
+      "album": {
+        "name": "Happy Music / Something on My Mind",
+        "url": "https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR"
+      },
+      "artists": [
         {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
         }
       ],
       "date_added": "2022-09-05",
@@ -734,7 +904,7 @@
       "date_removed": null,
       "duration_ms": 232625,
       "name": "Happy Music",
-      "url": "https://open.spotify.com/track/3rh495Z2rIRwD316blea4f"
+      "url": "https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C"
     },
     {
       "album": {
@@ -814,6 +984,24 @@
     },
     {
       "album": {
+        "name": "Intimate Fantasy - EP",
+        "url": "https://open.spotify.com/album/5gkN7t6aczEdOCwKxGeYkW"
+      },
+      "artists": [
+        {
+          "name": "Chaos In The CBD",
+          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 493000,
+      "name": "Intimate Fantasy",
+      "url": "https://open.spotify.com/track/6plKjqeFQ30GbfAbvS3srq"
+    },
+    {
+      "album": {
         "name": "Intimate Fantasy",
         "url": "https://open.spotify.com/album/0GHOsdfrpoTotkc5atzmJ9"
       },
@@ -825,7 +1013,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 493000,
       "name": "Intimate Fantasy",
       "url": "https://open.spotify.com/track/7MQE5Gx0g0DkHvH2PwgOgs"
@@ -901,7 +1089,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 342000,
       "name": "Kasoto - Noche Espa\u00f1ola Remix",
       "url": "https://open.spotify.com/track/3zoWsC5mGgYua60WGWM5fK"
@@ -959,6 +1147,24 @@
       "duration_ms": 426614,
       "name": "La femme d'argent",
       "url": "https://open.spotify.com/track/6tEaLXZlN8b71vWV1SSsRf"
+    },
+    {
+      "album": {
+        "name": "La Fille aux Cheveux de Lin (Model Man Rework)",
+        "url": "https://open.spotify.com/album/6gydvdUe3QkrhxPG2Uf7QB"
+      },
+      "artists": [
+        {
+          "name": "Model Man",
+          "url": "https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 230605,
+      "name": "La Fille aux Cheveux de Lin - Model Man Rework",
+      "url": "https://open.spotify.com/track/4mjcIL4i2NnwPKt7OxfNSd"
     },
     {
       "album": {
@@ -1071,7 +1277,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 257321,
       "name": "Me at the Zoo - Cody Currie Remix",
       "url": "https://open.spotify.com/track/1fHuXpoTKwt52hIZWuEhr7"
@@ -1306,6 +1512,24 @@
     },
     {
       "album": {
+        "name": "Okay",
+        "url": "https://open.spotify.com/album/4AotBgSoOhRJuJkMLwgyHZ"
+      },
+      "artists": [
+        {
+          "name": "DJ Island",
+          "url": "https://open.spotify.com/artist/0B8uvQRg70TpBi26MKtJxY"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 352758,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/1HxZr4GP3BtpsLeEuZu7hD"
+    },
+    {
+      "album": {
         "name": "Old Graffiti",
         "url": "https://open.spotify.com/album/40phn9ROeEnZZYBRRc8DoZ"
       },
@@ -1454,6 +1678,24 @@
     },
     {
       "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 216066,
+      "name": "Paradise - Remastered Version",
+      "url": "https://open.spotify.com/track/0vhyCB8RvI8Ruvy324USy5"
+    },
+    {
+      "album": {
         "name": "Time out of Mind",
         "url": "https://open.spotify.com/album/3XS2DDdGE8dPdtfQy4gQxb"
       },
@@ -1512,6 +1754,46 @@
     },
     {
       "album": {
+        "name": "Quiet Night",
+        "url": "https://open.spotify.com/album/0Krte8XWMkSHu5tne7epQF"
+      },
+      "artists": [
+        {
+          "name": "Hugo",
+          "url": "https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos"
+        },
+        {
+          "name": "wielandwieland",
+          "url": "https://open.spotify.com/artist/5Lz8NfVK4TCVMmRTfaak6n"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-20",
+      "duration_ms": 212000,
+      "name": "Quiet Night",
+      "url": "https://open.spotify.com/track/5s5c9ZMpC8WyuiM8Sg4R2Z"
+    },
+    {
+      "album": {
+        "name": "Overworld",
+        "url": "https://open.spotify.com/album/5I4w85SAzHx1ZApr0ddtzH"
+      },
+      "artists": [
+        {
+          "name": "A.R.T. Wilson",
+          "url": "https://open.spotify.com/artist/3Ml899ULPFArc5T9GpwgRp"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 276308,
+      "name": "Rebecca's Theme (Water)",
+      "url": "https://open.spotify.com/track/5JA1wMXh6C072LePIqWTdR"
+    },
+    {
+      "album": {
         "name": "Flashlight EP",
         "url": "https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR"
       },
@@ -1549,7 +1831,7 @@
     {
       "album": {
         "name": "Sacred",
-        "url": "https://open.spotify.com/album/4DEhXZRlriX0ZRJvE5dU9i"
+        "url": "https://open.spotify.com/album/1FKnoGi6vRMvNZCY3Xbx2Y"
       },
       "artists": [
         {
@@ -1560,6 +1842,24 @@
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 347317,
+      "name": "Sacred",
+      "url": "https://open.spotify.com/track/1z3roU3y19kIFTQDCBUeZ8"
+    },
+    {
+      "album": {
+        "name": "Sacred",
+        "url": "https://open.spotify.com/album/4DEhXZRlriX0ZRJvE5dU9i"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-18",
       "duration_ms": 347317,
       "name": "Sacred",
       "url": "https://open.spotify.com/track/3scH3LfC2eyoX4zd5sp759"
@@ -1585,7 +1885,7 @@
     {
       "album": {
         "name": "Single Malt",
-        "url": "https://open.spotify.com/album/304HTgYzQp1V2S4R9CqQtO"
+        "url": "https://open.spotify.com/album/2xdMECfJOl1V2UX89NCITX"
       },
       "artists": [
         {
@@ -1596,6 +1896,24 @@
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 169180,
+      "name": "Single Malt - Radio Edit",
+      "url": "https://open.spotify.com/track/2S0s4DaWQ1suo0kL8Hk3em"
+    },
+    {
+      "album": {
+        "name": "Single Malt",
+        "url": "https://open.spotify.com/album/304HTgYzQp1V2S4R9CqQtO"
+      },
+      "artists": [
+        {
+          "name": "TOSZ",
+          "url": "https://open.spotify.com/artist/2LCQPp6WYfZVDySyehHIJM"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-17",
       "duration_ms": 169180,
       "name": "Single Malt - Radio Edit",
       "url": "https://open.spotify.com/track/7ffLRzH8j7689iiiXsaf2c"
@@ -1653,7 +1971,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 354365,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/5sS4svCxwZw2vPUJUdMw6z"
@@ -1740,6 +2058,50 @@
     },
     {
       "album": {
+        "name": "Through Your Hands Love Can Shine (Turbotito Remix)",
+        "url": "https://open.spotify.com/album/5jUS71e4s4HKwW030YrfMh"
+      },
+      "artists": [
+        {
+          "name": "Giorgio Tuma",
+          "url": "https://open.spotify.com/artist/4JiOObzTWLYWJwH65qgfFK"
+        },
+        {
+          "name": "Laetitia Sadier",
+          "url": "https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb"
+        },
+        {
+          "name": "Turbotito",
+          "url": "https://open.spotify.com/artist/7KDd0UFR6IpSRnZmvu1CM5"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 349565,
+      "name": "Through Your Hands Love Can Shine - Turbotito Remix",
+      "url": "https://open.spotify.com/track/2M8eaC2IWg5ZBwsA9UqqQr"
+    },
+    {
+      "album": {
+        "name": "Tiefer",
+        "url": "https://open.spotify.com/album/4lz9XAbb1eRlrQ4uAvh6eg"
+      },
+      "artists": [
+        {
+          "name": "Boozoo Bajou",
+          "url": "https://open.spotify.com/artist/2I36EjIVz3vDfROgj1MfZ3"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-20",
+      "duration_ms": 214014,
+      "name": "Tiefer - Edit",
+      "url": "https://open.spotify.com/track/3G7SL29sPxI9Nyw96Awvdt"
+    },
+    {
+      "album": {
         "name": "Bar Mediterraneo",
         "url": "https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS"
       },
@@ -1787,10 +2149,46 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 332820,
       "name": "Tropicololo",
       "url": "https://open.spotify.com/track/3oHpnrupsyl38Q1QL1fc66"
+    },
+    {
+      "album": {
+        "name": "True Romance",
+        "url": "https://open.spotify.com/album/58tCpMNdFARg5tvBW9H2E5"
+      },
+      "artists": [
+        {
+          "name": "Bella Boo",
+          "url": "https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230748,
+      "name": "True Romance (Maja Edit)",
+      "url": "https://open.spotify.com/track/5TvthuUWOhQZYtXGpE66uu"
+    },
+    {
+      "album": {
+        "name": "Trying to Make it Home",
+        "url": "https://open.spotify.com/album/51mdZ0LmdmesB6Tcdk7nJi"
+      },
+      "artists": [
+        {
+          "name": "Session Victim",
+          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 342111,
+      "name": "Trying to Make it Home",
+      "url": "https://open.spotify.com/track/3Hht1URCb1TqwcZAwU4pXK"
     },
     {
       "album": {

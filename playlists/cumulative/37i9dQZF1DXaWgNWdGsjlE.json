@@ -276,6 +276,28 @@
     },
     {
       "album": {
+        "name": "Believe the Hype",
+        "url": "https://open.spotify.com/album/4LrLxDQQA1MoxU9ZRyL95Q"
+      },
+      "artists": [
+        {
+          "name": "Alice Longyu Gao",
+          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
+        },
+        {
+          "name": "Oli Sykes",
+          "url": "https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167834,
+      "name": "Believe the Hype",
+      "url": "https://open.spotify.com/track/0YunvVUK70XaDeeTrOUcCt"
+    },
+    {
+      "album": {
         "name": "Believe the Hype (feat. Oli Sykes)",
         "url": "https://open.spotify.com/album/4YNUo0hHtFFlZztIDWzD4u"
       },
@@ -291,7 +313,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 167834,
       "name": "Believe the Hype (feat. Oli Sykes)",
       "url": "https://open.spotify.com/track/0B8f2tTSavL7PzDy2X9jnB"
@@ -379,6 +401,28 @@
       "duration_ms": 256812,
       "name": "Brainfreeze",
       "url": "https://open.spotify.com/track/6kwaYcQCLqWRYlG7Vpffsg"
+    },
+    {
+      "album": {
+        "name": "XVOTO",
+        "url": "https://open.spotify.com/album/6muUIRODfshZYZLD52K5Va"
+      },
+      "artists": [
+        {
+          "name": "XVOTO",
+          "url": "https://open.spotify.com/artist/61Tcgk1noIrzpU5cgetCql"
+        },
+        {
+          "name": "Remi Martin",
+          "url": "https://open.spotify.com/artist/54pZFL48mCwQB43MBUZSmK"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 256812,
+      "name": "Brainfreeze",
+      "url": "https://open.spotify.com/track/7pDH3MNeFLhDYJMsqHPhCF"
     },
     {
       "album": {
@@ -651,10 +695,28 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 157565,
       "name": "Dead",
       "url": "https://open.spotify.com/track/3z4bbV92bY6K2A5EMXpLhI"
+    },
+    {
+      "album": {
+        "name": "Dead",
+        "url": "https://open.spotify.com/album/3hKxNaxs2oVPewk04LDuBI"
+      },
+      "artists": [
+        {
+          "name": "Baby Jane",
+          "url": "https://open.spotify.com/artist/3scHMUcB85BflinC8FclbI"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157565,
+      "name": "Dead",
+      "url": "https://open.spotify.com/track/6O2QJqa6hgF0uzj9mcDq4p"
     },
     {
       "album": {
@@ -749,10 +811,28 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 207141,
       "name": "DiE4u",
       "url": "https://open.spotify.com/track/2gT72HL4Y84K2Mle3miAMJ"
+    },
+    {
+      "album": {
+        "name": "UNDER THE FLOOR",
+        "url": "https://open.spotify.com/album/6IGooPMTgWHzDjS1QLHRkM"
+      },
+      "artists": [
+        {
+          "name": "Johnny Goth",
+          "url": "https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126760,
+      "name": "DON'T FEAR THE END",
+      "url": "https://open.spotify.com/track/6DomJhYiDYWH73XWX6yiTj"
     },
     {
       "album": {
@@ -797,6 +877,28 @@
     {
       "album": {
         "name": "Falling",
+        "url": "https://open.spotify.com/album/6s01oJfNMzklI98wT7YgDU"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209411,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/2jy15HYKNtWQ0STN9ZOw8v"
+    },
+    {
+      "album": {
+        "name": "Falling",
         "url": "https://open.spotify.com/album/1wzpIeYxCGjZ7yze3IHCJE"
       },
       "artists": [
@@ -811,10 +913,32 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 209411,
       "name": "Falling",
       "url": "https://open.spotify.com/track/6DaNlUMdwiidZbFSebVcIy"
+    },
+    {
+      "album": {
+        "name": "Beyond the Senses",
+        "url": "https://open.spotify.com/album/1vR6M9v7mA6vwm47LgBbWP"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 209411,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/76wQ671soYkMWo9dOWcH2e"
     },
     {
       "album": {
@@ -1019,10 +1143,46 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 210564,
       "name": "Gravedigger",
       "url": "https://open.spotify.com/track/4zo6O0UO5Kz6ZT0CpTCCb3"
+    },
+    {
+      "album": {
+        "name": "Gravedigger",
+        "url": "https://open.spotify.com/album/6QawVhtF8UkiA78NUbVFGr"
+      },
+      "artists": [
+        {
+          "name": "MXMS",
+          "url": "https://open.spotify.com/artist/385fK73L7PCt3RMlZQOu6t"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210564,
+      "name": "Gravedigger",
+      "url": "https://open.spotify.com/track/640WAiBLYvKmUBtskbfEYG"
+    },
+    {
+      "album": {
+        "name": "We Are: the Guard, Vol. 2",
+        "url": "https://open.spotify.com/album/0Rs9PSrI1xLSQpWr04TWGV"
+      },
+      "artists": [
+        {
+          "name": "MXMS",
+          "url": "https://open.spotify.com/artist/385fK73L7PCt3RMlZQOu6t"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 210564,
+      "name": "Gravedigger",
+      "url": "https://open.spotify.com/track/7BVjEyP3YVzOzfVBWC4IrN"
     },
     {
       "album": {
@@ -1066,6 +1226,24 @@
     },
     {
       "album": {
+        "name": "HEARTSTOPPER",
+        "url": "https://open.spotify.com/album/4twfTWkuCk9FLlRE4JaXjd"
+      },
+      "artists": [
+        {
+          "name": "Kent Osborne",
+          "url": "https://open.spotify.com/artist/7A15q1iSA5BitDh0WeK7ta"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "HEARTSTOPPER",
+      "url": "https://open.spotify.com/track/4YDATcqz2STt6QpMVWtj5Q"
+    },
+    {
+      "album": {
         "name": "The Atlas Underground Fire",
         "url": "https://open.spotify.com/album/7kAxJWvGXcU2zebMMvaxFp"
       },
@@ -1088,6 +1266,58 @@
     },
     {
       "album": {
+        "name": "HTIS",
+        "url": "https://open.spotify.com/album/5dyhUIvWHSq974a0MUVrc5"
+      },
+      "artists": [
+        {
+          "name": "Meg Myers",
+          "url": "https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ"
+        },
+        {
+          "name": "Luna Shadows",
+          "url": "https://open.spotify.com/artist/55SUpsj027epu8yi663EKZ"
+        },
+        {
+          "name": "Carmen Vandenberg",
+          "url": "https://open.spotify.com/artist/2Zc5QLd6oXX67boj5GGfdS"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195133,
+      "name": "HTIS",
+      "url": "https://open.spotify.com/track/5pAfHXMg9s3MzGDPyxjRCH"
+    },
+    {
+      "album": {
+        "name": "CHILDREN OF LIGHT II",
+        "url": "https://open.spotify.com/album/4ju7VhYQ892SQ7gEmMViW4"
+      },
+      "artists": [
+        {
+          "name": "Meg Myers",
+          "url": "https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ"
+        },
+        {
+          "name": "Luna Shadows",
+          "url": "https://open.spotify.com/artist/55SUpsj027epu8yi663EKZ"
+        },
+        {
+          "name": "Carmen Vandenberg",
+          "url": "https://open.spotify.com/artist/2Zc5QLd6oXX67boj5GGfdS"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 195133,
+      "name": "HTIS",
+      "url": "https://open.spotify.com/track/6ZL9yaWzZtyjksUXwqncAZ"
+    },
+    {
+      "album": {
         "name": "HTIS (feat. Luna Shadows & Carmen Vandenberg)",
         "url": "https://open.spotify.com/album/5XnTBxVlabGBGoMxw9b1PA"
       },
@@ -1107,7 +1337,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 195133,
       "name": "HTIS (feat. Luna Shadows & Carmen Vandenberg)",
       "url": "https://open.spotify.com/track/3gbagPtR7WT8reMyyGXPl0"
@@ -1132,6 +1362,24 @@
     },
     {
       "album": {
+        "name": "BLOODMONEY",
+        "url": "https://open.spotify.com/album/4xhGP233PzyUnwdUyIqAKd"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 193499,
+      "name": "I Disagree",
+      "url": "https://open.spotify.com/track/2QsMNgdcmEWkoIiFrpW17V"
+    },
+    {
+      "album": {
         "name": "I Disagree",
         "url": "https://open.spotify.com/album/4LgpVx8efQT7SRXGRq5Tze"
       },
@@ -1143,10 +1391,28 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 193499,
       "name": "I Disagree",
       "url": "https://open.spotify.com/track/5E09pgezFesGrk4ZL9T2cc"
+    },
+    {
+      "album": {
+        "name": "I Disagree",
+        "url": "https://open.spotify.com/album/4uTce2w80loIu3oLnW0irN"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193499,
+      "name": "I Disagree",
+      "url": "https://open.spotify.com/track/5M1OSRePFJzlQCTJRKVGQQ"
     },
     {
       "album": {
@@ -1445,6 +1711,24 @@
       "duration_ms": 254269,
       "name": "Last Resort & Spa",
       "url": "https://open.spotify.com/track/0XTF9X6GQuH44vh4K0bdps"
+    },
+    {
+      "album": {
+        "name": "Gen:Lock, Season 1 (Music from the Rooster Teeth Series)",
+        "url": "https://open.spotify.com/album/0XAhHNaehG7E1Bqw3toRfs"
+      },
+      "artists": [
+        {
+          "name": "Battle Tapes",
+          "url": "https://open.spotify.com/artist/2TdEIqWbLnZZHYRDWvVj67"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 254269,
+      "name": "Last Resort & Spa",
+      "url": "https://open.spotify.com/track/3BKizNABT4tb6F0wSpoAt5"
     },
     {
       "album": {
@@ -1751,6 +2035,24 @@
     {
       "album": {
         "name": "My Eyes",
+        "url": "https://open.spotify.com/album/59IsfO40V1emIqykYrBpFr"
+      },
+      "artists": [
+        {
+          "name": "The Anix",
+          "url": "https://open.spotify.com/artist/6nFvVbL2RN5czSm7NZjE51"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 312324,
+      "name": "My Eyes",
+      "url": "https://open.spotify.com/track/7bsshVqFu8ybiu6VgIChUb"
+    },
+    {
+      "album": {
+        "name": "My Eyes",
         "url": "https://open.spotify.com/album/0o0QcBLeAhIGGwURLTDsEr"
       },
       "artists": [
@@ -1765,6 +2067,24 @@
       "duration_ms": 315150,
       "name": "My Eyes",
       "url": "https://open.spotify.com/track/1HM3k9oiGCQwNqG8kP35bt"
+    },
+    {
+      "album": {
+        "name": "Brass Against III",
+        "url": "https://open.spotify.com/album/2n8KXe2C9BNPSDAOOe8RVV"
+      },
+      "artists": [
+        {
+          "name": "Brass Against",
+          "url": "https://open.spotify.com/artist/25uPlxGvXMDy9eUX7oeDei"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 216540,
+      "name": "My Own Summer",
+      "url": "https://open.spotify.com/track/1RJQu4Pq5tZUJEJpo5zqOf"
     },
     {
       "album": {
@@ -2002,7 +2322,7 @@
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 172346,
+      "duration_ms": 171013,
       "name": "PORN ACTING*",
       "url": "https://open.spotify.com/track/1lu1qW0KFaYUv2cQJl71ok"
     },
@@ -2019,10 +2339,28 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 175153,
       "name": "Potluck Lunch for Cannibals",
       "url": "https://open.spotify.com/track/1RhwmWCuBpIDDrYXUGwtPH"
+    },
+    {
+      "album": {
+        "name": "Potluck Lunch for Cannibals",
+        "url": "https://open.spotify.com/album/7AKENeiYrnaY8ehleUx01C"
+      },
+      "artists": [
+        {
+          "name": "ZILLION",
+          "url": "https://open.spotify.com/artist/3pDWTeyjUZ0742NHsyUFjl"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175153,
+      "name": "Potluck Lunch for Cannibals",
+      "url": "https://open.spotify.com/track/6u4Yl1YjcgkHjr6mzKxtx1"
     },
     {
       "album": {
@@ -2503,7 +2841,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 143551,
       "name": "VAMPIR (feat. Oli Sykes of Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/3FQOmo61pO1ZnBT26d6WLQ"
@@ -2569,6 +2907,24 @@
       "duration_ms": 180000,
       "name": "W W Y D F",
       "url": "https://open.spotify.com/track/61oG7DvhBOvdXBALpVY9VG"
+    },
+    {
+      "album": {
+        "name": "WDYT",
+        "url": "https://open.spotify.com/album/7c1Q6dQHN1lrHwUPnu4uO9"
+      },
+      "artists": [
+        {
+          "name": "Contracult Collective",
+          "url": "https://open.spotify.com/artist/6bIdpjyGpps6a0CJT4hTGW"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 220408,
+      "name": "WDYT",
+      "url": "https://open.spotify.com/track/1texcnnCNO0MYoroUqVRsg"
     },
     {
       "album": {
@@ -2703,6 +3059,24 @@
       "duration_ms": 146900,
       "name": "Word Vomit",
       "url": "https://open.spotify.com/track/579Toef3RjBEXfFMXvwkqp"
+    },
+    {
+      "album": {
+        "name": "WWYDF",
+        "url": "https://open.spotify.com/album/3U1JCsxOmikZWVPqSTgQhE"
+      },
+      "artists": [
+        {
+          "name": "Zero 9:36",
+          "url": "https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 175586,
+      "name": "WWYDF",
+      "url": "https://open.spotify.com/track/4gRiFYMQSqpqHnBdjE0zmq"
     },
     {
       "album": {

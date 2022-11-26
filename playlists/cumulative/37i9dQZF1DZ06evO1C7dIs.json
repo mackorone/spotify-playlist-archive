@@ -117,6 +117,24 @@
     {
       "album": {
         "name": "Dark Passion Play",
+        "url": "https://open.spotify.com/album/33knvUBRR5ekNBrtLqQVTD"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254615,
+      "name": "Bye Bye Beautiful",
+      "url": "https://open.spotify.com/track/6K03JHEberhdFjgZvFYcfs"
+    },
+    {
+      "album": {
+        "name": "Dark Passion Play",
         "url": "https://open.spotify.com/album/23DKEup8CZAYeGdjtwnpEE"
       },
       "artists": [
@@ -127,7 +145,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 254615,
       "name": "Bye Bye Beautiful",
       "url": "https://open.spotify.com/track/6uwjUM0Y0NfPmLBKVAbUXW"
@@ -145,7 +163,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 274426,
       "name": "Come Cover Me",
       "url": "https://open.spotify.com/track/0OdY66m0hkI0P45EsDmW2C"
@@ -235,7 +253,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 237466,
       "name": "Deep Silent Complete",
       "url": "https://open.spotify.com/track/3G4Y8kAQlO6vmZ8vkH5Tw1"
@@ -271,7 +289,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-10-13",
       "duration_ms": 277866,
       "name": "Elvenpath - Remastered",
       "url": "https://open.spotify.com/track/1mRilVsFhkqCgUK44g9bB2"
@@ -296,6 +314,24 @@
     },
     {
       "album": {
+        "name": "Endless Forms Most Beautiful (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1tVEWlyn2nsAke3Lp7HoZ0"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308002,
+      "name": "Endless Forms Most Beautiful",
+      "url": "https://open.spotify.com/track/6HkXeYMyASSvLnPNeYDoCD"
+    },
+    {
+      "album": {
         "name": "Dark Passion Play",
         "url": "https://open.spotify.com/album/23DKEup8CZAYeGdjtwnpEE"
       },
@@ -307,7 +343,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 265769,
       "name": "Eva",
       "url": "https://open.spotify.com/track/2HvpDl7hp6JLH4UtKp3fTp"
@@ -541,10 +577,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 443120,
       "name": "Music",
       "url": "https://open.spotify.com/track/49LQq6RoFTWFk5d6hBGEKt"
+    },
+    {
+      "album": {
+        "name": "Endless Forms Most Beautiful (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1tVEWlyn2nsAke3Lp7HoZ0"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279004,
+      "name": "My Walden",
+      "url": "https://open.spotify.com/track/3LgWFCHW1eZLZyfylrn88p"
     },
     {
       "album": {
@@ -595,7 +649,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 398984,
       "name": "Our Decades in the Sun",
       "url": "https://open.spotify.com/track/4ACKwaUN9klaKLnay8eZjf"
@@ -685,7 +739,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 339680,
       "name": "Romanticide - Live, at Wacken, 2013",
       "url": "https://open.spotify.com/track/7gKZSUpLRgX9wP4IhEVJhA"
@@ -775,7 +829,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 350466,
       "name": "Slow, Love, Slow",
       "url": "https://open.spotify.com/track/5CkTPzrJLbvuCRo8owNSx5"
@@ -793,7 +847,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 268226,
       "name": "Stargazers",
       "url": "https://open.spotify.com/track/2G3trbcEHjjrLVP5lzqdPy"
@@ -829,10 +883,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-06",
       "duration_ms": 284533,
       "name": "Swanheart",
       "url": "https://open.spotify.com/track/5NULYChw0sL9RUVAxKkTQP"
+    },
+    {
+      "album": {
+        "name": "Imaginaerum",
+        "url": "https://open.spotify.com/album/7lUxbRgHGomu4raRe59qTK"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250386,
+      "name": "The Crow, the Owl and the Dove",
+      "url": "https://open.spotify.com/track/6udzPCAaSWZ1dIE8VwX67z"
     },
     {
       "album": {
@@ -847,7 +919,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 364009,
       "name": "The Eyes of Sharbat Gula",
       "url": "https://open.spotify.com/track/7qapfDbyifDAqSUvG477Za"
@@ -865,7 +937,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 1441002,
       "name": "The Greatest Show on Earth",
       "url": "https://open.spotify.com/track/2TMBnZlhLEzMIpFBLlDdTh"
@@ -919,7 +991,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": null,
       "duration_ms": 238973,
       "name": "The Kinslayer",
       "url": "https://open.spotify.com/track/0ePxSaJJbDpH7Bavz3gucs"
@@ -955,10 +1027,46 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 834690,
       "name": "The Poet and the Pendulum",
       "url": "https://open.spotify.com/track/5sDDSdsBa15i2IDhJ7HsYV"
+    },
+    {
+      "album": {
+        "name": "Once",
+        "url": "https://open.spotify.com/album/2wM6svkNOCsYP8sr9gP2zc"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285226,
+      "name": "The Siren",
+      "url": "https://open.spotify.com/track/0OVMtCCfQvkO1oXigmM2d8"
+    },
+    {
+      "album": {
+        "name": "HUMAN. :II: NATURE.",
+        "url": "https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236764,
+      "name": "Tribal",
+      "url": "https://open.spotify.com/track/5tN4bKhtt6klkkB0GVt9i1"
     },
     {
       "album": {
@@ -991,7 +1099,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 230573,
       "name": "Two For Tragedy",
       "url": "https://open.spotify.com/track/4zce33RFRR2rZfAhOBFahg"
@@ -1013,6 +1121,24 @@
       "duration_ms": 290400,
       "name": "Wanderlust",
       "url": "https://open.spotify.com/track/5ZL7XCYicDTmqXjS7MNEep"
+    },
+    {
+      "album": {
+        "name": "Endless Forms Most Beautiful (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1tVEWlyn2nsAke3Lp7HoZ0"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324986,
+      "name": "Weak Fantasy",
+      "url": "https://open.spotify.com/track/3POMZFPzYbV6rYXJN1ozXW"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > A collection of Motown classics for the whole family.
 
-61 songs - 3 hr 19 min - [published](https://open.spotify.com/playlist/0la4NIXzJwCAFXOJTs9Tbe)
+64 songs - 3 hr 30 min - [published](https://open.spotify.com/playlist/0la4NIXzJwCAFXOJTs9Tbe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,9 +21,11 @@
 | [Dancing On The Ceiling](https://open.spotify.com/track/6QueWxs5YJnRtqIdsH0EGR) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [The Definitive Collection](https://open.spotify.com/album/1W1b52vaEcE3wfWk4WQH6q) | 4:35 | 2021-04-20 |  |
 | [Do You Love Me](https://open.spotify.com/track/4TuS29oERAnYEvokiCYUkI) | [The Contours](https://open.spotify.com/artist/2ugPdplEWBmyU6EcIzlcY1) | [NOW That's What I Call Motown](https://open.spotify.com/album/4oE29r8F2noxVV9VmzdIL4) | 2:53 | 2021-04-20 |  |
 | [Don't Leave Me This Way](https://open.spotify.com/track/2rBBhFXtuMoGuwYTSDpAdF) | [Thelma Houston](https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO) | [The Best Of](https://open.spotify.com/album/3npGGvmS0VJrBukG2PcgP4) | 3:37 | 2021-04-20 |  |
+| [Don't Leave Me This Way \- Single Version](https://open.spotify.com/track/6YnHWESPWTp7XWuc25onCX) | [Thelma Houston](https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO) | [Soul Essentials](https://open.spotify.com/album/2HEREQzFsq56E8Wh66s0V7) | 3:36 | 2021-04-20 | 2022-11-13 |
 | [Don't Leave Me This Way \- Single Version](https://open.spotify.com/track/6OYlE1SrosD9Swah1Rxkdt) | [Thelma Houston](https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO) | [Hitsville USA, The Motown Collection 1972\-1992](https://open.spotify.com/album/2e6N9mz4kFIR1sM9givKpK) | 3:38 | 2021-04-20 | 2022-07-29 |
 | [Easy](https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Commodores](https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl) | 4:16 | 2021-04-20 |  |
 | [Endless Love](https://open.spotify.com/track/4GBPZmnLHEMdthyo2RDolF) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl), [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Love's Greatest Hits](https://open.spotify.com/album/6VrgfU55RZBu5EMsfnGDaF) | 4:25 | 2022-01-10 | 2022-07-29 |
+| [Endless Love \- From "The Endless Love" Soundtrack](https://open.spotify.com/track/190yqUNtC6Oe4cq5695BaD) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl), [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Slow Dance First Dance](https://open.spotify.com/album/36UsFCzYmPponsSi4Htu89) | 4:26 | 2022-01-10 | 2022-11-13 |
 | [Endless Love \- From "The Endless Love" Soundtrack](https://open.spotify.com/track/0rt0dZ11FVsvprbarag5tk) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl), [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Back To Front](https://open.spotify.com/album/3oCmLDbxXc1SDZIkwGo0x5) | 4:28 | 2022-01-10 |  |
 | [Get Ready \- Single Version](https://open.spotify.com/track/5F6XsffCcDXwJmJXiuPRle) | [Rare Earth](https://open.spotify.com/artist/6eEsIl4wosvhuWI0mfXxAF) | [Fill Your Head: The Studio Albums 1969\-1974](https://open.spotify.com/album/4hQkBc4Nq3fOYpie0WhK2s) | 2:46 | 2021-04-20 |  |
 | [Higher Ground](https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 3:42 | 2021-04-20 |  |
@@ -63,6 +65,7 @@
 | [What Becomes Of The Brokenhearted \- Single Version](https://open.spotify.com/track/0YJvN0CZyGDmP5YHwKrcQh) | [Jimmy Ruffin](https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy) | [The Motown Anthology](https://open.spotify.com/album/1fjkvzSRhpyznCG75yG3zx) | 3:01 | 2022-01-10 |  |
 | [Where Did Our Love Go](https://open.spotify.com/track/69RH84na5iUNwrwxpgjC5j) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Where Did Our Love Go](https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV) | 2:33 | 2021-04-20 |  |
 | [You Are](https://open.spotify.com/track/41xY0XOmX8DF8GKoPi4oF3) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [The Definitive Collection](https://open.spotify.com/album/1W1b52vaEcE3wfWk4WQH6q) | 4:06 | 2021-04-20 |  |
+| [You Are The Sunshine Of My Life](https://open.spotify.com/track/1U64mXSOAvEaz4sRyQPNpb) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Soulklassiker](https://open.spotify.com/album/55lqkJnXgVUl1mZcnU52zY) | 2:57 | 2021-04-20 | 2022-11-13 |
 | [You Are The Sunshine Of My Life](https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Talking Book](https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw) | 2:58 | 2021-04-20 |  |
 | [You Are The Sunshine Of My Life](https://open.spotify.com/track/1xKvdXVMW2J6HAAyjLYbJo) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Talking Book](https://open.spotify.com/album/67Pt0fZCow0Dw3qNjAUV2Y) | 3:00 | 2021-04-20 | 2022-08-18 |
 | [You Can't Hurry Love](https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [The Supremes A' Go\-Go \(Expanded Edition\)](https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6) | 2:47 | 2021-04-20 |  |

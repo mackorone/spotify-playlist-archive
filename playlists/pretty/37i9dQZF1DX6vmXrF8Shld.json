@@ -1,12 +1,12 @@
 {
   "description": "The best and finest '60s Funk. Cover: The Meters.",
-  "num_followers": 49173,
+  "num_followers": 51996,
   "original_name": "I Love My '60s Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTYwNjIxMCwwMDAwMDAwMGNkMWUyZWQxN2RiNzE3NjcwYWFiMmIzNzAyNDRjZDZl",
+  "snapshot_id": "MTY2NTU4MDIxMSwwMDAwMDAwMGNjZWU5M2I3NjEyZmQwZWY5MTM4ODdlYTY4ZjZjNTdm",
   "tracks": [
     {
       "added_at": "2020-12-01 11:15:17",
@@ -23,6 +23,38 @@
       "duration_ms": 139733,
       "name": "Think",
       "url": "https://open.spotify.com/track/4yQw7FR9lcvL6RHtegbJBh"
+    },
+    {
+      "added_at": "2020-12-01 11:15:17",
+      "album": {
+        "name": "King Size Soul",
+        "url": "https://open.spotify.com/album/10oWkzpDsLfD1lq21m6RPr"
+      },
+      "artists": [
+        {
+          "name": "King Curtis",
+          "url": "https://open.spotify.com/artist/0WxOgeRxUt0MwPrI7A5atQ"
+        }
+      ],
+      "duration_ms": 179413,
+      "name": "Memphis Soul Stew",
+      "url": "https://open.spotify.com/track/6MqfTP3OwngywVTOS5OAFt"
+    },
+    {
+      "added_at": "2020-12-01 11:15:17",
+      "album": {
+        "name": "Tell Mama",
+        "url": "https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Tell Mama",
+      "url": "https://open.spotify.com/track/6eFgjBTF91pOZTQ8t7xBHv"
     },
     {
       "added_at": "2020-12-01 11:15:17",
@@ -75,22 +107,6 @@
     {
       "added_at": "2020-12-01 11:15:17",
       "album": {
-        "name": "King Size Soul",
-        "url": "https://open.spotify.com/album/10oWkzpDsLfD1lq21m6RPr"
-      },
-      "artists": [
-        {
-          "name": "King Curtis",
-          "url": "https://open.spotify.com/artist/0WxOgeRxUt0MwPrI7A5atQ"
-        }
-      ],
-      "duration_ms": 179413,
-      "name": "Memphis Soul Stew",
-      "url": "https://open.spotify.com/track/6MqfTP3OwngywVTOS5OAFt"
-    },
-    {
-      "added_at": "2020-12-01 11:15:17",
-      "album": {
         "name": "It's Our Thing",
         "url": "https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF"
       },
@@ -119,22 +135,6 @@
       "duration_ms": 139493,
       "name": "Love Man",
       "url": "https://open.spotify.com/track/16dz1n3ctolQbuZPtvHVqH"
-    },
-    {
-      "added_at": "2020-12-01 11:15:17",
-      "album": {
-        "name": "Tell Mama",
-        "url": "https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Tell Mama",
-      "url": "https://open.spotify.com/track/6eFgjBTF91pOZTQ8t7xBHv"
     },
     {
       "added_at": "2020-12-01 11:15:17",

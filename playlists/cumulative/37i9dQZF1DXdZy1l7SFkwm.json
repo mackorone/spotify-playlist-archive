@@ -48,6 +48,24 @@
     },
     {
       "album": {
+        "name": "Feelgood Klassiker",
+        "url": "https://open.spotify.com/album/3E4WGUFoaa08YekZx2sNR9"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 128785,
+      "name": "(What A) Wonderful World - Mono",
+      "url": "https://open.spotify.com/track/7K99Vc7CcTIHI0C1VISKS0"
+    },
+    {
+      "album": {
         "name": "The Wonderful World Of Sam Cooke",
         "url": "https://open.spotify.com/album/11qEWtxwrKQUgOBPsff4op"
       },
@@ -77,7 +95,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 144893,
       "name": "1, 2, 3, Balan\u00e7ou",
       "url": "https://open.spotify.com/track/5tp6jCtWdutojO7egr75b5"
@@ -232,6 +250,24 @@
     },
     {
       "album": {
+        "name": "La Onda de Elia y Elizabeth",
+        "url": "https://open.spotify.com/album/3oMbEphQxALHNPilVcs8YX"
+      },
+      "artists": [
+        {
+          "name": "Elia y Elizabeth",
+          "url": "https://open.spotify.com/artist/6R6PqKFwzVPIePSH8BCKvf"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 241946,
+      "name": "Alegr\u00eda",
+      "url": "https://open.spotify.com/track/57NbelD7NoWpb6dXVcOEbM"
+    },
+    {
+      "album": {
         "name": "A Toda Cuba Le Gusta",
         "url": "https://open.spotify.com/album/3mjwCWLCCtHiEv0Ttek5zT"
       },
@@ -322,6 +358,24 @@
     },
     {
       "album": {
+        "name": "Sing (Original Motion Picture Soundtrack / Deluxe)",
+        "url": "https://open.spotify.com/album/5Sdmly0VRVw0wIow5eMHAW"
+      },
+      "artists": [
+        {
+          "name": "Se\u00f1or Coconut",
+          "url": "https://open.spotify.com/artist/6rATWMhuTXfhBqtB3IQRWd"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 166506,
+      "name": "Around The World - From \"Sing\" Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/4agvT9MqlrNydXof6DRzrN"
+    },
+    {
+      "album": {
         "name": "Around the World With Se\u00f1or Coconut and His Orchestra",
         "url": "https://open.spotify.com/album/3Z4k93OCoXs2UcT695ynNG"
       },
@@ -358,6 +412,24 @@
     },
     {
       "album": {
+        "name": "Imprescindibles",
+        "url": "https://open.spotify.com/album/4gazhG0BdBhnNYg5vVYv3Q"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1a La Negra",
+          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 198138,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/2mLkqQfVka3xbJthv1C5mk"
+    },
+    {
+      "album": {
         "name": "Inmortales de To\u00f1a la Negra",
         "url": "https://open.spotify.com/album/4UlE2kIAik6pcM15aztAhs"
       },
@@ -387,7 +459,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 180426,
       "name": "Bacubufo no Caterefofo",
       "url": "https://open.spotify.com/track/4qYPghBgWQe3ho7wgcuWuw"
@@ -520,6 +592,24 @@
     },
     {
       "album": {
+        "name": "From the Foundations (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0tvm3lygYS8TWU0x8nBKmc"
+      },
+      "artists": [
+        {
+          "name": "The Foundations",
+          "url": "https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177519,
+      "name": "Build Me Up Buttercup",
+      "url": "https://open.spotify.com/track/4eGlvsFXmFqdJrVXe9FbgD"
+    },
+    {
+      "album": {
         "name": "The Foundations",
         "url": "https://open.spotify.com/album/3j1kw5l2mEeKCUuXXwjhWp"
       },
@@ -531,10 +621,28 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 177533,
-      "name": "Build Me Up Buttercup - Mono",
+      "name": "Build Me Up Buttercup",
       "url": "https://open.spotify.com/track/6sPOmDulFtLzfX25zICNrC"
+    },
+    {
+      "album": {
+        "name": "The Screamin' Sixties",
+        "url": "https://open.spotify.com/album/60iGcFOQW1pEtQpYCwspmQ"
+      },
+      "artists": [
+        {
+          "name": "The Foundations",
+          "url": "https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 174640,
+      "name": "Build Me Up Buttercup (Re-Recording)",
+      "url": "https://open.spotify.com/track/4wUQPYUs1Lx5ABQ3R1Ifz1"
     },
     {
       "album": {
@@ -603,7 +711,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-14",
+      "date_removed": "2022-11-13",
       "duration_ms": 92533,
       "name": "Canoeiro",
       "url": "https://open.spotify.com/track/5vGjcafbPf55xNWI5pP9cy"
@@ -715,10 +823,40 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-08",
+      "date_removed": "2022-11-16",
       "duration_ms": 218373,
       "name": "Com qualquer dois mil r\u00e9is",
       "url": "https://open.spotify.com/track/7x4RlD4cgBUUnxh6k35kaE"
+    },
+    {
+      "album": {
+        "name": "Bossa Nova Vibes",
+        "url": "https://open.spotify.com/album/2z2AT6pkmHu8NzRTP3HbEy"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        },
+        {
+          "name": "Astrud Gilberto",
+          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 139986,
+      "name": "Corcovado (Quiet Nights Of Quiet Stars) - Single Version",
+      "url": "https://open.spotify.com/track/4DrIUA2msEUXzFkWpfsqrE"
     },
     {
       "album": {
@@ -836,6 +974,24 @@
     },
     {
       "album": {
+        "name": "Samba Verao 2021",
+        "url": "https://open.spotify.com/album/6oZqu9wqEd32SBoJ5d2UzE"
+      },
+      "artists": [
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 275466,
+      "name": "Deixa A Vida Me Levar",
+      "url": "https://open.spotify.com/track/0vJKl0Dgbj7htTc5n10rsH"
+    },
+    {
+      "album": {
         "name": "Zeca Pagodinho Em Casa",
         "url": "https://open.spotify.com/album/0ihjlZ6pyIMNly2O2OLIm0"
       },
@@ -851,6 +1007,24 @@
       "duration_ms": 275466,
       "name": "Deixa A Vida Me Levar",
       "url": "https://open.spotify.com/track/3cVSl7SF1BNnCYUR3WYKd8"
+    },
+    {
+      "album": {
+        "name": "Desafinado",
+        "url": "https://open.spotify.com/album/2NobVmwcICN4yL6DyTnYhM"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 116571,
+      "name": "Desafinado",
+      "url": "https://open.spotify.com/track/15cBS2FALvyNT9wSJTP1nJ"
     },
     {
       "album": {
@@ -1021,7 +1195,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-10",
+      "date_removed": null,
       "duration_ms": 147000,
       "name": "Fly Me To The Moon (In Other Words)",
       "url": "https://open.spotify.com/track/5b7OgznPJJr1vHNYGyvxau"
@@ -1043,7 +1217,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 147520,
       "name": "Fly Me To The Moon - 2008 Remastered",
       "url": "https://open.spotify.com/track/7FXj7Qg3YorUxdrzvrcY25"
@@ -1061,7 +1235,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 155066,
       "name": "Foi Um Rio Que Passou Em Minha Vida",
       "url": "https://open.spotify.com/track/5imExyjCnN2GFuz0zve6bq"
@@ -1083,6 +1257,24 @@
       "duration_ms": 150613,
       "name": "Garota de Ipanema",
       "url": "https://open.spotify.com/track/7CzWvXHsAFAJeXAEHNXRdf"
+    },
+    {
+      "album": {
+        "name": "Brasil Bossa Nova Grandes Autores Vinicius Toquinho Tom Jobim",
+        "url": "https://open.spotify.com/album/7wupCWd8SoA62cSCgaUakx"
+      },
+      "artists": [
+        {
+          "name": "Paulo S\u00e9rgio",
+          "url": "https://open.spotify.com/artist/40sdgsuMffswmqJpbSqUKu"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 150613,
+      "name": "Garota De Ipanema",
+      "url": "https://open.spotify.com/track/0m4P80pIVGAqfTFjjUGhNb"
     },
     {
       "album": {
@@ -1137,7 +1329,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-12",
       "duration_ms": 151106,
       "name": "Guardei Minha Viola",
       "url": "https://open.spotify.com/track/1YwIo9Rs7ptTQHQyWDKdfS"
@@ -1216,6 +1408,24 @@
     },
     {
       "album": {
+        "name": "Salsa Para Bailar",
+        "url": "https://open.spotify.com/album/6wvR5bZpsbsLLoK2xz0x4K"
+      },
+      "artists": [
+        {
+          "name": "Pete Rodriguez",
+          "url": "https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 265080,
+      "name": "I Like It Like That",
+      "url": "https://open.spotify.com/track/6qHK2nKOH3b87WU8BnOXP5"
+    },
+    {
+      "album": {
         "name": "Chef (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5wXB3JnWbBotktSeTuy1E2"
       },
@@ -1270,6 +1480,24 @@
     },
     {
       "album": {
+        "name": "Anthology: Israelites 1963-1999",
+        "url": "https://open.spotify.com/album/4uuRzNd7cWVoM3d44W7X6J"
+      },
+      "artists": [
+        {
+          "name": "Desmond Dekker",
+          "url": "https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 154880,
+      "name": "Israelites",
+      "url": "https://open.spotify.com/track/3gYDV1bpDZNSivqDyaL3ts"
+    },
+    {
+      "album": {
         "name": "The Israelites",
         "url": "https://open.spotify.com/album/46BSjIgwm2NarXXFM8fEjX"
       },
@@ -1299,7 +1527,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 174266,
       "name": "It's Time To Sing",
       "url": "https://open.spotify.com/track/23LF8upBOTnL0LxOhFtE3q"
@@ -1321,6 +1549,32 @@
       "duration_ms": 333520,
       "name": "La Murga",
       "url": "https://open.spotify.com/track/1IemDh2zNGpqVeMD3MghW0"
+    },
+    {
+      "album": {
+        "name": "Mix Latinos",
+        "url": "https://open.spotify.com/album/1CN9y1QYYbvDBcJyTh2hXy"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Yomo Toro",
+          "url": "https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 333520,
+      "name": "La Murga",
+      "url": "https://open.spotify.com/track/19H2WWw0j6t0gEuWPLbdq9"
     },
     {
       "album": {
@@ -1404,6 +1658,24 @@
     },
     {
       "album": {
+        "name": "Festej\u00e1 con ritmos latinos",
+        "url": "https://open.spotify.com/album/3nnjSxO8sva22SJQgOwKYL"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 278866,
+      "name": "La Vida Es Un Carnaval",
+      "url": "https://open.spotify.com/track/7HL0P35A96wkutKopiovaX"
+    },
+    {
+      "album": {
         "name": "The Vintage Series",
         "url": "https://open.spotify.com/album/79trt5vU4vqyna7znhWjqD"
       },
@@ -1437,6 +1709,24 @@
       "duration_ms": 80458,
       "name": "Lobo Bobo",
       "url": "https://open.spotify.com/track/1hwFKqDGLoRqpQHDLrPze4"
+    },
+    {
+      "album": {
+        "name": "Chega de Saudade (Remastered Edition)",
+        "url": "https://open.spotify.com/album/7zBrALWkq4ccTLQzFD1zfE"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 80840,
+      "name": "Lobo Bobo",
+      "url": "https://open.spotify.com/track/5ZW0IHJS8CFyqIvh8JMS7s"
     },
     {
       "album": {
@@ -1512,6 +1802,24 @@
     },
     {
       "album": {
+        "name": "Jazz Pasi\u00f2n Oriental Vol. 2",
+        "url": "https://open.spotify.com/album/1FTqU6xbToBiSyBoQc6uwS"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 166000,
+      "name": "Mais Que Nada",
+      "url": "https://open.spotify.com/track/2Dc3sbKzhN6vF5UA2jBM0x"
+    },
+    {
+      "album": {
         "name": "The New Sound Of Brazil / Piano Of Jo\u00e3o Donato",
         "url": "https://open.spotify.com/album/64UoZw5GAHgZjO463vdgGH"
       },
@@ -1566,6 +1874,24 @@
     },
     {
       "album": {
+        "name": "Best Of / 20th Century Masters",
+        "url": "https://open.spotify.com/album/1HkG5JC2RNtrBl4Zq97qgA"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 163453,
+      "name": "Many Rivers To Cross",
+      "url": "https://open.spotify.com/track/4hHGirIgXzCaPaTPrsR9RQ"
+    },
+    {
+      "album": {
         "name": "Wonderful World, Beautiful People",
         "url": "https://open.spotify.com/album/3RiXb242oLrGNRtc0Va4Fd"
       },
@@ -1581,6 +1907,42 @@
       "duration_ms": 164066,
       "name": "Many Rivers To Cross",
       "url": "https://open.spotify.com/track/1dZxI6OuzwJ283y3gOU1Kq"
+    },
+    {
+      "album": {
+        "name": "Maracangalha",
+        "url": "https://open.spotify.com/album/1lAdoQ5iqnk5UTo4felj51"
+      },
+      "artists": [
+        {
+          "name": "Dorival Caymmi",
+          "url": "https://open.spotify.com/artist/7zsxdMsODmHKTbTB00t9wS"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 166022,
+      "name": "Maracangalha",
+      "url": "https://open.spotify.com/track/6BMMJ4yneWdJRbuGPtFYbb"
+    },
+    {
+      "album": {
+        "name": "Para Sempre",
+        "url": "https://open.spotify.com/album/5e2HXBdSKE8VtNUTSVzeWs"
+      },
+      "artists": [
+        {
+          "name": "Dorival Caymmi",
+          "url": "https://open.spotify.com/artist/7zsxdMsODmHKTbTB00t9wS"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 166200,
+      "name": "Maracangalha",
+      "url": "https://open.spotify.com/track/2cP4EP3v6I5UYcmixnEroX"
     },
     {
       "album": {
@@ -1638,8 +2000,26 @@
     },
     {
       "album": {
+        "name": "WonderWorld: 10 Years of Painting Outside the Lines",
+        "url": "https://open.spotify.com/album/0c9bzJeM1cLRdgp4C0F3at"
+      },
+      "artists": [
+        {
+          "name": "Nickodemus",
+          "url": "https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-16",
+      "duration_ms": 222920,
+      "name": "Mi Swing Es Tropical",
+      "url": "https://open.spotify.com/track/5eUdif4B91mqx5cCTUhDul"
+    },
+    {
+      "album": {
         "name": "Endangered Species (Bonus Edition)",
-        "url": "https://open.spotify.com/album/5QAwzwTSEcpwnbEE2NvzqD"
+        "url": "https://open.spotify.com/album/0CoLMsQMDv7pSbLaJHF0mJ"
       },
       "artists": [
         {
@@ -1660,7 +2040,63 @@
       "date_removed": null,
       "duration_ms": 222920,
       "name": "Mi Swing es Tropical",
+      "url": "https://open.spotify.com/track/0KTbezuHAJkcsiHewSuR1y"
+    },
+    {
+      "album": {
+        "name": "Endangered Species (Bonus Edition)",
+        "url": "https://open.spotify.com/album/5QAwzwTSEcpwnbEE2NvzqD"
+      },
+      "artists": [
+        {
+          "name": "Nickodemus",
+          "url": "https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3"
+        },
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        },
+        {
+          "name": "Tempo",
+          "url": "https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
+      "duration_ms": 222920,
+      "name": "Mi Swing es Tropical",
       "url": "https://open.spotify.com/track/3z2aHQwr9MJ5g7DA19tpha"
+    },
+    {
+      "album": {
+        "name": "Brazilution (5.6)",
+        "url": "https://open.spotify.com/album/6zIEQjLOh2016UhhmaMoJh"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        },
+        {
+          "name": "Nickodemus",
+          "url": "https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3"
+        },
+        {
+          "name": "Tempo",
+          "url": "https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn"
+        },
+        {
+          "name": "The Candela Allstars",
+          "url": "https://open.spotify.com/artist/3jNA6s9uYZGYZpGXbS3dyn"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 234146,
+      "name": "Mi Swing Es Tropical",
+      "url": "https://open.spotify.com/track/2RdvX8uw4DKROEDlmr90BR"
     },
     {
       "album": {
@@ -1697,6 +2133,24 @@
       "duration_ms": 192013,
       "name": "Na Tonga Da Mironga Do Kabulete",
       "url": "https://open.spotify.com/track/7lSuOz8LjZ73RPzZKZCHaH"
+    },
+    {
+      "album": {
+        "name": "Bossa Nova For Beginners",
+        "url": "https://open.spotify.com/album/1pcnT4wosrH8uUmKZBtozX"
+      },
+      "artists": [
+        {
+          "name": "Wilson Simonal",
+          "url": "https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 151911,
+      "name": "Nem Vem Que N\u00e3o Tem",
+      "url": "https://open.spotify.com/track/4SbvQTh5gpBhapUoYB3Ytp"
     },
     {
       "album": {
@@ -1809,7 +2263,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 123173,
       "name": "O Namorado Da Vi\u00fava",
       "url": "https://open.spotify.com/track/0iM2mFz8ijP7Ngm5BXcRo2"
@@ -1852,6 +2306,28 @@
     },
     {
       "album": {
+        "name": "Doce MPB",
+        "url": "https://open.spotify.com/album/2XAc4keBjM6sGyrVAsiLhW"
+      },
+      "artists": [
+        {
+          "name": "Jorge Ben",
+          "url": "https://open.spotify.com/artist/0Kl4OTnin2VOkJV360fsT4"
+        },
+        {
+          "name": "Trio Mocoto",
+          "url": "https://open.spotify.com/artist/5nriuBVz6NDh6k8gTU5WgP"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 252506,
+      "name": "Oba, L\u00e1 Vem Ela",
+      "url": "https://open.spotify.com/track/1o60EW97NdtvYJiIlZSLOG"
+    },
+    {
+      "album": {
         "name": "For\u00e7a Bruta",
         "url": "https://open.spotify.com/album/12G0eYu3u8ZwdstT1flUXw"
       },
@@ -1871,6 +2347,24 @@
       "duration_ms": 252506,
       "name": "Oba, L\u00e1 Vem Ela",
       "url": "https://open.spotify.com/track/6MCaOLDl0epJPRN76H5S4N"
+    },
+    {
+      "album": {
+        "name": "Capuccino latino",
+        "url": "https://open.spotify.com/album/0hONOfMpnB8BF9p8WyvrJX"
+      },
+      "artists": [
+        {
+          "name": "Cafe Latino",
+          "url": "https://open.spotify.com/artist/2rwjH586e46aRRBKEJCTTU"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 310700,
+      "name": "On Line",
+      "url": "https://open.spotify.com/track/3ovSKdR8teEa3reuW22OLb"
     },
     {
       "album": {
@@ -1921,7 +2415,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 115266,
       "name": "Outra Vez",
       "url": "https://open.spotify.com/track/2Ci1wKycW15sG9tYFadSqa"
@@ -1943,6 +2437,24 @@
       "duration_ms": 274018,
       "name": "Oye C\u00f3mo Va",
       "url": "https://open.spotify.com/track/73uEbChpBB29ttwVnwuNVE"
+    },
+    {
+      "album": {
+        "name": "Quando O Carnaval Chegar",
+        "url": "https://open.spotify.com/album/26R6zNTNeeinc7bqqt0Lwh"
+      },
+      "artists": [
+        {
+          "name": "MPB4",
+          "url": "https://open.spotify.com/artist/3SKTkAUNa3oUa2rkd8DAyM"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 207466,
+      "name": "Partido Alto",
+      "url": "https://open.spotify.com/track/1IShOhCBfP7ePVNuK1L7cP"
     },
     {
       "album": {
@@ -2134,6 +2646,24 @@
     },
     {
       "album": {
+        "name": "Que Beleza",
+        "url": "https://open.spotify.com/album/7q8wtnNTBNzKQswMJTAluK"
+      },
+      "artists": [
+        {
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 208573,
+      "name": "Que Beleza",
+      "url": "https://open.spotify.com/track/5flYFbJweqUHlQjle7uRlI"
+    },
+    {
+      "album": {
         "name": "Gal (S\u00e9rie Grandes Nomes Vol. 1)",
         "url": "https://open.spotify.com/album/2DD6bhACUzrpNF2tRH4rzX"
       },
@@ -2265,7 +2795,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": "2022-11-13",
       "duration_ms": 196440,
       "name": "Rapaz Do Viol\u00e3o",
       "url": "https://open.spotify.com/track/1BIxpdpbOgELhYOoBYael5"
@@ -2381,7 +2911,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 125253,
       "name": "Samba do Carioca",
       "url": "https://open.spotify.com/track/77ZXnEcwNRoZBx601vq54k"
@@ -2627,7 +3157,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 113466,
       "name": "S\u00f3 Dan\u00e7o Samba",
       "url": "https://open.spotify.com/track/6jJrEyRWPaURJbPh4P4ybz"
@@ -2700,6 +3230,32 @@
     },
     {
       "album": {
+        "name": "Bossa Nova Para Cozinhar",
+        "url": "https://open.spotify.com/album/1nTkscJLBN2GV3FHX8FQCW"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 220373,
+      "name": "S\u00f3 Dan\u00e7o Samba - Stereo Version",
+      "url": "https://open.spotify.com/track/07Z69phcpCPIF9gJsR319o"
+    },
+    {
+      "album": {
         "name": "Jorge Ben",
         "url": "https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf"
       },
@@ -2755,6 +3311,24 @@
       "duration_ms": 219906,
       "name": "The Harder They Come",
       "url": "https://open.spotify.com/track/2XIr0KTybGQsC1SFfeaZhI"
+    },
+    {
+      "album": {
+        "name": "Black History Month: ICONS",
+        "url": "https://open.spotify.com/album/0OdkrAsOUyl8razi50RgPW"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 219906,
+      "name": "The Harder They Come - From \"The Harder They Come\" Soundtrack",
+      "url": "https://open.spotify.com/track/5xYc0ryhR1cDQAaApqj7QX"
     },
     {
       "album": {
@@ -2993,7 +3567,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": "2022-11-13",
       "duration_ms": 219493,
       "name": "Zazueira (with Stanley Turrentine)",
       "url": "https://open.spotify.com/track/4Asm2SGig47qpAePl8Wj8r"
@@ -3019,6 +3593,28 @@
       "duration_ms": 138013,
       "name": "\u00c1gua de Beber",
       "url": "https://open.spotify.com/track/3QKJELWORZZ7rUZDWeMWSA"
+    },
+    {
+      "album": {
+        "name": "Hits tranquilos para el coraz\u00f3n",
+        "url": "https://open.spotify.com/album/6mjAB6IGm2hwv8GcmcHzez"
+      },
+      "artists": [
+        {
+          "name": "Astrud Gilberto",
+          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 138560,
+      "name": "\u00c1gua de Beber",
+      "url": "https://open.spotify.com/track/5Yzrf7ivq7TsXAunuNsUYe"
     },
     {
       "album": {
@@ -3059,6 +3655,28 @@
       "duration_ms": 212400,
       "name": "\u00c1guas De Mar\u00e7o",
       "url": "https://open.spotify.com/track/1zKgDX6cFrdPkNF5Z04snQ"
+    },
+    {
+      "album": {
+        "name": "Mulheres da MPB",
+        "url": "https://open.spotify.com/album/5xmXt1N4JJU6oupEeC2z2B"
+      },
+      "artists": [
+        {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 214866,
+      "name": "\u00c1guas De Mar\u00e7o",
+      "url": "https://open.spotify.com/track/3PzD3zi0UeNw3dTYGbAZCy"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdZy1l7SFkwm"

@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "Ain't No Grave",
+        "url": "https://open.spotify.com/album/599qJxheGI6EVVZE2LD2nj"
+      },
+      "artists": [
+        {
+          "name": "Crooked Still",
+          "url": "https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 201506,
+      "name": "Ain't No Grave",
+      "url": "https://open.spotify.com/track/4H4B97UMURWsNybgJWhQBo"
+    },
+    {
+      "album": {
         "name": "Shaken by a Low Sound",
         "url": "https://open.spotify.com/album/6uFn0hAG96lR9aINZ1N8y8"
       },
@@ -91,10 +109,28 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 292112,
       "name": "All The World Is Green - Live",
       "url": "https://open.spotify.com/track/0FD1tOUxkiOXgR9d9uy9ou"
+    },
+    {
+      "album": {
+        "name": "Blood Money (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/34jdCKLIC2rmMyACRTKZNG"
+      },
+      "artists": [
+        {
+          "name": "Tom Waits",
+          "url": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292112,
+      "name": "All The World Is Green - Live",
+      "url": "https://open.spotify.com/track/3vjbT3AQnw4iKXAs2Nb6Xn"
     },
     {
       "album": {
@@ -343,7 +379,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-22",
+      "date_removed": "2022-11-13",
       "duration_ms": 184466,
       "name": "Barley",
       "url": "https://open.spotify.com/track/0h7329EnhfoaUEu2sN8o1U"
@@ -379,10 +415,28 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 187558,
       "name": "Bartholomew",
       "url": "https://open.spotify.com/track/2fzp6ojPHvZaz4uHXxpJVk"
+    },
+    {
+      "album": {
+        "name": "Common Faults (Remastered Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ZrsOwdFsAWSnIjlVvKgOE"
+      },
+      "artists": [
+        {
+          "name": "The Silent Comedy",
+          "url": "https://open.spotify.com/artist/4s7QvzBMTW4BKWI5pVO2mY"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187558,
+      "name": "Bartholomew",
+      "url": "https://open.spotify.com/track/44CXyv6wcKCfoRIAY5r99s"
     },
     {
       "album": {
@@ -487,7 +541,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 202000,
       "name": "Black Dog Sin",
       "url": "https://open.spotify.com/track/7h0TNtloK2rFT1DwErSbYn"
@@ -631,7 +685,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-26",
+      "date_removed": "2022-11-14",
       "duration_ms": 194493,
       "name": "Cadillac Dust",
       "url": "https://open.spotify.com/track/6EqH6OTtC3KMxRsU2OGF9A"
@@ -739,7 +793,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 200497,
       "name": "Country Blues",
       "url": "https://open.spotify.com/track/5ScqgAxMZQSB2ubp9OOAD2"
@@ -757,7 +811,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": "2022-11-12",
       "duration_ms": 203546,
       "name": "Country Blues",
       "url": "https://open.spotify.com/track/4902sigaZA0IflQ6FdWmtk"
@@ -847,7 +901,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 174240,
       "name": "Dead Man's Pocket",
       "url": "https://open.spotify.com/track/1SbnUcfbqd0EdkczKJbEDK"
@@ -1273,6 +1327,24 @@
       "duration_ms": 177306,
       "name": "Fault Line",
       "url": "https://open.spotify.com/track/20hLTXbjj0jhiyOQFwIqa0"
+    },
+    {
+      "album": {
+        "name": "Filthy Dirty South",
+        "url": "https://open.spotify.com/album/5o4cfFDhtA8GMYGMsHXLiZ"
+      },
+      "artists": [
+        {
+          "name": "Rising Appalachia",
+          "url": "https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346333,
+      "name": "Filthy Dirty South",
+      "url": "https://open.spotify.com/track/2VifjGJJ8d0yGUk1LHn81y"
     },
     {
       "album": {
@@ -1889,7 +1961,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 245070,
       "name": "Ireland",
       "url": "https://open.spotify.com/track/2RSenaqtDSbjwLWkVdngHW"
@@ -2037,7 +2109,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-05",
+      "date_removed": null,
       "duration_ms": 88293,
       "name": "Long Time Travelin'",
       "url": "https://open.spotify.com/track/2oYGqILoEyt0cTncwjEHk2"
@@ -2145,7 +2217,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 245693,
       "name": "Maggie May",
       "url": "https://open.spotify.com/track/4qWfC3YqUVlJSOpyOvqBU0"
@@ -2552,6 +2624,24 @@
     },
     {
       "album": {
+        "name": "Lovely Creatures - The Best of Nick Cave and The Bad Seeds (1984-2014) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/05hXano83YIfeLyfdOoMIf"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 370573,
+      "name": "Red Right Hand - 2011 Remastered Version",
+      "url": "https://open.spotify.com/track/0TiYwuMsemJ0Q9JLWxTjSx"
+    },
+    {
+      "album": {
         "name": "Let Love In (2011 Remastered Version)",
         "url": "https://open.spotify.com/album/0Ewp4PEIzkcAyrC463a5xF"
       },
@@ -2831,6 +2921,28 @@
     {
       "album": {
         "name": "Hawk",
+        "url": "https://open.spotify.com/album/4X4QDTg9KAvDBwdrHvntus"
+      },
+      "artists": [
+        {
+          "name": "Isobel Campbell",
+          "url": "https://open.spotify.com/artist/55dlp5I9jyc4UjzlrcKMnq"
+        },
+        {
+          "name": "Mark Lanegan",
+          "url": "https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 168066,
+      "name": "Snake Song",
+      "url": "https://open.spotify.com/track/3jc4jAmJuYXE2pPEgZ2pNS"
+    },
+    {
+      "album": {
+        "name": "Hawk",
         "url": "https://open.spotify.com/album/4vPZUSwLbvknOOo9UJZQVs"
       },
       "artists": [
@@ -2935,7 +3047,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-13",
+      "date_removed": "2022-11-13",
       "duration_ms": 187186,
       "name": "Stuck In The South",
       "url": "https://open.spotify.com/track/7gCQxWpBtMg2tpEdqGUQa8"
@@ -3449,7 +3561,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 213590,
       "name": "You Don't Fool Me",
       "url": "https://open.spotify.com/track/5QJ5ICpA44RUm2l6mJtwGD"

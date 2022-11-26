@@ -4,7 +4,7 @@
 
 > Beachy, acoustic tunes for lazy summer days.
 
-120 songs - 6 hr 3 min - [published](https://open.spotify.com/playlist/0JCaMOE91Ef3xMfUpqyDsa)
+123 songs - 6 hr 15 min - [published](https://open.spotify.com/playlist/0JCaMOE91Ef3xMfUpqyDsa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Kahakai](https://open.spotify.com/track/2cX6M5AO0xQAaZtXtHgwYj) | [Wave Catchers](https://open.spotify.com/artist/666Y0fEHAFWPzV1iznA7RA) | [Kahakai](https://open.spotify.com/album/0fTMgwOLelHGCctAZYUfzR) | 2:21 | 2022-03-10 |  |
 | [Kalena Kai](https://open.spotify.com/track/491T7mr4TMQoGNDgceIIAo) | [Keola Beamer](https://open.spotify.com/artist/3HH77UShAG2WJW5nBSjFdY) | [Wooden Boat](https://open.spotify.com/album/5zMsw0HrRHbUI2sbPB28Ku) | 4:22 | 2022-07-26 |  |
 | [Kalena Kai](https://open.spotify.com/track/42ZtKeVuYhMZRvnByfxX2M) | [Keola Beamer](https://open.spotify.com/artist/3HH77UShAG2WJW5nBSjFdY) | [Wooden Boat](https://open.spotify.com/album/0RYdFktBJKdNLh8rRAYvAp) | 4:25 | 2022-03-10 | 2022-07-29 |
+| [Kalena Kai](https://open.spotify.com/track/60kmRexBGemg7K5vrBJHFR) | [Keola Beamer](https://open.spotify.com/artist/3HH77UShAG2WJW5nBSjFdY), [George Winston](https://open.spotify.com/artist/3jdODvx7rIdq0UGU7BOVR3) | [Hawaiian Slack Key Guitar Masters: Instrumental Collection, Vol\. 1](https://open.spotify.com/album/2EOjWFzzACQ0Q21rlTNu56) | 4:21 | 2022-09-08 | 2022-11-13 |
 | [Kanakamana](https://open.spotify.com/track/4yu0FGVE719GKtyJjb9DCA) | [Diana Hindle](https://open.spotify.com/artist/6NaesNkw56y6RyJ4NzXg8L) | [Kanakamana](https://open.spotify.com/album/6qnaddCx1I2QVHPeStCfOZ) | 2:37 | 2022-03-10 | 2022-08-04 |
 | [Ke Kali Nei Au](https://open.spotify.com/track/0tBRc2STeBIcBpTsNgKoKX) | [Glenn Johnston](https://open.spotify.com/artist/5ziVZBrfaiY7QR9HTsDQZT) | [Ke Kali Nei Au](https://open.spotify.com/album/6JIMGGlCTdN4BhIDoMQnN6) | 2:51 | 2022-03-10 |  |
 | [Ku U I Po](https://open.spotify.com/track/6LNrHG2e2B5ugSG0kZKnyY) | [Mele Malu](https://open.spotify.com/artist/1j0UFRQZPUHRCU1wn0j6Ep) | [Ku\-U\-I\-Po](https://open.spotify.com/album/66l49ZPKngpfNtXaWMxKFW) | 2:15 | 2022-03-10 | 2022-08-04 |
@@ -76,6 +77,7 @@
 | [La Frase Importante](https://open.spotify.com/track/6W4kU5OcSgSsn0e0yrZ6Na) | [El Equipo Del Norte](https://open.spotify.com/artist/3NlkrQ9iKKw6VZlWr0lk0U) | [La Frase Importante](https://open.spotify.com/album/7IGHlC1Vf7aOa5i4OaeVCu) | 3:02 | 2022-03-10 |  |
 | [Lei 'Awapuhi](https://open.spotify.com/track/1dVyAJFUCAD5TjbWTKzpk0) | [Bob Brozman](https://open.spotify.com/artist/0rbQ6RnCd7jkHUr9zof16V), [Ledward Kaapana](https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K) | [Kīkā Kila Meets Kī Hō'alu](https://open.spotify.com/album/66dhjYbfLwwC4r87dSFYl6) | 4:42 | 2022-03-10 | 2022-07-29 |
 | [Lei 'Awapuhi \- Yellow Ginger Lei](https://open.spotify.com/track/7jVT5ATucVf0V2R5ztUnYJ) | [Bob Brozman](https://open.spotify.com/artist/0rbQ6RnCd7jkHUr9zof16V), [Ledward Kaapana](https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K) | [Kīkā Kila Meets Kī Hō'alu](https://open.spotify.com/album/3lD6160vY7QdfYnjTh4tid) | 4:39 | 2022-07-26 |  |
+| [Lei 'Awapuhi \- Yellow Ginger Lei](https://open.spotify.com/track/10sYxXLdFfPn93JPVBUBfL) | [Ledward Kaapana](https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K), [Bob Brozman](https://open.spotify.com/artist/0rbQ6RnCd7jkHUr9zof16V) | [Hawaiian Slack Key Guitar Masters, Vol\. 2](https://open.spotify.com/album/5qXmNWu8kCLrce2EkbkPrr) | 4:38 | 2022-09-08 | 2022-11-13 |
 | [Lejos De Ti](https://open.spotify.com/track/7fpdfABPSZoTSrv6CSYIsw) | [Las Tres Abejas](https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi) | [Lejos De Ti](https://open.spotify.com/album/66vBj0KWsYEQUthU4gLmHO) | 3:11 | 2022-03-10 |  |
 | [Let It Be](https://open.spotify.com/track/5R9dK5Ia3ZFjPtZZbVLWwI) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Don't Worry Be Happy / Let It Be](https://open.spotify.com/album/1ydxRAszbsOi1V9SMWsoP8) | 4:59 | 2022-03-10 |  |
 | [Lights Down Low](https://open.spotify.com/track/2KCrTGdKGGDd6QIHlHeaCV) | [Michelle Turtle](https://open.spotify.com/artist/4VkmY9OKeXpPeW0RmgbfBi) | [Plays the Uke](https://open.spotify.com/album/0sDBEaJsaY5Ayw6gzgNWhn) | 3:36 | 2022-05-05 |  |
@@ -99,6 +101,7 @@
 | [Pua Aloalo](https://open.spotify.com/track/6XYg0aRQUhvvL2MHRNYazl) | [Kaikane](https://open.spotify.com/artist/23f4uXdf9I7nMXo3Aaxsp7) | [Pua Aloalo](https://open.spotify.com/album/7JRFB0T6eMqObY6yxGUF4E) | 1:45 | 2022-03-10 |  |
 | [Pumped Up Kicks](https://open.spotify.com/track/58b0omCJozdH06nY5riZfI) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [Pumped Up Kicks](https://open.spotify.com/album/6WKc0Y5OfMShB2Wywfaqpu) | 3:22 | 2022-08-03 |  |
 | [Punahele](https://open.spotify.com/track/6bRq9im0RhzqjgxevINdID) | [Ray Kane](https://open.spotify.com/artist/6d2Ey5tgCEGpFd8fzoKhIR) | [Hawaiian Slack Key Guitar Masters, Vol\. 1](https://open.spotify.com/album/53hJB0xPGms7KJxRZsWE0I) | 3:36 | 2022-03-10 | 2022-05-06 |
+| [Radio Hula](https://open.spotify.com/track/6xyNinAi6Bx44z7e95VZDT) | [Ledward Kaapana](https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K) | [Hawaiian Slack Key Guitar Masters, Vol\. 2](https://open.spotify.com/album/5qXmNWu8kCLrce2EkbkPrr) | 3:32 | 2022-09-08 | 2022-11-13 |
 | [Radio Hula](https://open.spotify.com/track/0ucKNafOslGlsuxPB0H6Ck) | [Ledward Kaapana](https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K) | [Waltz of the Wind](https://open.spotify.com/album/4TF9XpVgoymaVHAXD7eTw0) | 3:33 | 2022-07-26 |  |
 | [Radio Hula \- Instrumental](https://open.spotify.com/track/6Ix3gDxTKEfaNQqcqsTaWe) | [Ledward Kaapana](https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K) | [Hawaiian Slack Key Guitar Masters, Vol\. 2](https://open.spotify.com/album/6bwChwiwN9rexZRQmXfdAb) | 3:35 | 2022-03-10 | 2022-07-29 |
 | [Rancho](https://open.spotify.com/track/46BVf0OGrdgbuowxPpwviH) | [Joana Ema](https://open.spotify.com/artist/2W1k5KydRQg7MsOSgGEm9u) | [Rancho](https://open.spotify.com/album/5NWhm7lJDMiKryYAWeW2U9) | 2:49 | 2022-03-10 |  |

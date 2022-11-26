@@ -4,7 +4,7 @@
 
 > Luísa Sonza e os hits do pop nacional em 2021!
 
-54 songs - 2 hr 38 min - [published](https://open.spotify.com/playlist/67KWFJphEdCzKRICjRpC7e)
+55 songs - 2 hr 40 min - [published](https://open.spotify.com/playlist/67KWFJphEdCzKRICjRpC7e)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Tranquilita](https://open.spotify.com/track/6laODVkprSL1Z3mbzRV8h8) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [Virginia](https://open.spotify.com/artist/0KjEperrzm0FRTsxnH9xv4) | [Tranquilita](https://open.spotify.com/album/4ccYnK4ulW5XnTdMZo0e2y) | 2:30 | 2021-12-10 |  |
 | [Triste com T](https://open.spotify.com/track/0L8nJt3b5LjXvFfDt7x2pP) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN) | 2:12 | 2021-12-10 | 2022-07-29 |
 | [Triste com T](https://open.spotify.com/track/34mhUL0A8oPJbg1DWe1HMK) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/5kH6l7hx5ZJJHLiwt7LILj) | 2:12 | 2021-12-10 |  |
+| [Triste com T](https://open.spotify.com/track/7iTpnFZWdEEgpU6QHvrsvS) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Triste com T](https://open.spotify.com/album/6Zb7J5sbItur7GcEBcNzEs) | 2:12 | 2021-12-10 | 2022-11-13 |
 | [TU](https://open.spotify.com/track/1xf9CnMUBqQA2kKqvT5xFp) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [TU](https://open.spotify.com/album/0Q3XPS2WcsbcFIVomTZTQo) | 2:41 | 2021-12-10 |  |
 | [Tô Preocupada \(Calma Amiga\) \(feat\. Anitta\)](https://open.spotify.com/track/70jrNdP6R9AKHazjaurG3Z) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr), [DJ Will22](https://open.spotify.com/artist/4WrL8YBVkibeodZIhBLjsn), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Tô Preocupada \(Calma Amiga\) \(feat\. Anitta\)](https://open.spotify.com/album/4uBj6yxHhzeEau2ZQt52uZ) | 2:00 | 2021-12-10 |  |
 | [VIP \*\-\*](https://open.spotify.com/track/2upubCYkDvATo6ZZwHqrp9) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 2:56 | 2021-12-10 |  |

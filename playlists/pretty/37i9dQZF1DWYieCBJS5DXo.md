@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYieCBJS5DXo.md) - [plain]
 
 > Serving up your favorite songs about snacks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,032 likes - 35 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,158 likes - 35 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [My Favorite Snack](https://open.spotify.com/track/16fs8Zn53hURmvswqPxHOc) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Good Ideas](https://open.spotify.com/album/1Uz91yvWTiomeFibfqP761) | 2:09 |
+| 1 | [My Favorite Snack](https://open.spotify.com/track/27FtRxsXJxxzuxYMC4eJo4) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Juice Box Heroes](https://open.spotify.com/album/2AQwQmEdTsVDEzuOeQ4Pna) | 2:09 |
 | 2 | [Pineapple](https://open.spotify.com/track/391UWftWHqUopTUSkBm8zS) | [fleaBITE](https://open.spotify.com/artist/6rfo4U1CM0NDIuikxFYDJW), [Itty Bitty Beats](https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo) | [Snakes Alive \(It's Fleabite 5\)](https://open.spotify.com/album/4sOTyPW3UH85SwPM8jzk2w) | 2:42 |
 | 3 | [The Pretzel Store](https://open.spotify.com/track/7iGp6dI0fl4ECsOeIkfg7Q) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner's Food Songs](https://open.spotify.com/album/1wQoxA5ERdJj7VNn25amOO) | 2:09 |
 | 4 | [Fruit Salad](https://open.spotify.com/track/7cRLSuOaw8RzS5avx30uOQ) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [The Best of The Wiggles](https://open.spotify.com/album/1uh7RZLKvq5muRFJ5U0Fzf) | 2:09 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYieCBJS5DXo.md) - [plain]
 | 19 | [Are You Hungry?](https://open.spotify.com/track/3gsvzQe3KjPdsNA5ufI6lc) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Old MacDonald Had a Farm & More Kids Songs](https://open.spotify.com/album/2Sivlm6GK4dr21Ucf1UKV8) | 1:53 |
 | 20 | [Snappy Snacks](https://open.spotify.com/track/0Mh5zappoVaOF7vVG0yRq6) | [Bobs & Lolo](https://open.spotify.com/artist/23hMSJlSk68cUMqC9tzJv7) | [Action Packed](https://open.spotify.com/album/4jHqXFTP4MNYDlLDF8hvup) | 1:48 |
 | 21 | [Popcorn Calling Me](https://open.spotify.com/track/3C5udcs2yXK7uireCnMSJc) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner's Food Songs](https://open.spotify.com/album/1wQoxA5ERdJj7VNn25amOO) | 1:40 |
-| 22 | [Snackin' ABCs](https://open.spotify.com/track/0TIVHOr1SANDQgcUwE4X4J) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Good Ideas](https://open.spotify.com/album/1Uz91yvWTiomeFibfqP761) | 2:08 |
+| 22 | [Snackin' Abcs](https://open.spotify.com/track/1Jl95zr9ybVGQztCSXQeIG) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Good Ideas](https://open.spotify.com/album/1i8TZqSzAGr0IfHRhvkP1b) | 2:09 |
 | 23 | [Halo\-Halo](https://open.spotify.com/track/6C7jV3ooKAYhB1DNjun4Ho) | [Mista Cookie Jar](https://open.spotify.com/artist/0HL2EVwbtbmTaUirGt9hWt), [Little Miss Ann](https://open.spotify.com/artist/0G7JrLPvqOjHcv891aUiUb) | [Don't Gotta Be Cool](https://open.spotify.com/album/7Dmkj0ruoRevuG1gKXRpfy) | 2:30 |
 | 24 | [Peanut Butter Toast](https://open.spotify.com/track/6NohpfYGyT8JzHNRlFYtjY) | [Peanut Butter Jams](https://open.spotify.com/artist/2kvrXvmS6qLg14n8Z9WZZq) | [Kitchen Dance Party](https://open.spotify.com/album/7Kc3AF4vCj9Dl1tqRmt4U6) | 3:30 |
 | 25 | [Eatin' Animal Crackers](https://open.spotify.com/track/0m0R0kTsHn88Ya6iEgNZ4t) | [Brady Rymer and the Little Band That Could](https://open.spotify.com/artist/2q0R0ObitsBJIp1sMtfHz6) | [I Found It!](https://open.spotify.com/album/10h2NbahLm1oQlkFaqt2m1) | 4:14 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYieCBJS5DXo.md) - [plain]
 | 34 | [Cookie Boogie](https://open.spotify.com/track/4Wge8h9SAbSl9h1ru2dDPR) | [GoNoodle](https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f), [Awesome Sauce](https://open.spotify.com/artist/4rF4SqHjG4ZNy3k6aJjru1) | [Best Of GoNoodle](https://open.spotify.com/album/17qQDHKvpjpMkeZzLgxRrt) | 1:02 |
 | 35 | [Ice Cream Song](https://open.spotify.com/track/1lrTu8P1TrX3IzRlc4Zcn0) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Kids Songs](https://open.spotify.com/album/0iSrS0QaUXaJjR5GXDncC2) | 2:02 |
 
-Snapshot ID: `MTYzNDU3NjQ2MywwMDAwMDAwMGE4OWVmOTk2MDUyZjYxNGRiNzE4NTdhYThlYWI5MmY3`
+Snapshot ID: `MTYzNDU3NjQ2MywwMDAwMDAwMDhjYWQyNjY5M2Q0OTJmZWJjOTc2ZThhYTBkYjkzM2Nj`

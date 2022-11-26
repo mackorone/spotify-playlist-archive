@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 197613,
       "name": "Across the Universe",
       "url": "https://open.spotify.com/track/0EOo4bO2Oiido5FnB7mVFN"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 343706,
       "name": "Alien Nation",
       "url": "https://open.spotify.com/track/6fNGyaXIolVXwKH9C1Ew8k"
@@ -77,6 +77,42 @@
       "duration_ms": 357306,
       "name": "Animal Magnetism",
       "url": "https://open.spotify.com/track/139vGPQ7UFWjP0ou6Vf68z"
+    },
+    {
+      "album": {
+        "name": "Love At First Sting",
+        "url": "https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236133,
+      "name": "Bad Boys Running Wild",
+      "url": "https://open.spotify.com/track/6UWWzTU1NgKf7vHbOeO17p"
+    },
+    {
+      "album": {
+        "name": "Savage Amusement",
+        "url": "https://open.spotify.com/album/3iYSGTBKc5DDUQV1lwvhgl"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324160,
+      "name": "Believe In Love",
+      "url": "https://open.spotify.com/track/3T8I6Fdb6sUvIQqCaXK98b"
     },
     {
       "album": {
@@ -145,7 +181,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 213386,
       "name": "Children of the Revolution",
       "url": "https://open.spotify.com/track/4D3er4MMJDsRR2Oj6ESWM1"
@@ -181,7 +217,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 295626,
       "name": "Don't Believe Her",
       "url": "https://open.spotify.com/track/6mPsYhcy0UIScC4YyekLr0"
@@ -217,7 +253,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 252168,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/07DwrW1JxiMkEF4scxwdSa"
@@ -289,7 +325,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 224079,
       "name": "Hammersmith - UK Bonus Track",
       "url": "https://open.spotify.com/track/6k9LUdX6Tf4ZY8xqb2cE1q"
@@ -325,7 +361,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 252807,
       "name": "Hot And Cold",
       "url": "https://open.spotify.com/track/2DxARJkZfLNNlXkmro2jIw"
@@ -404,6 +440,24 @@
     },
     {
       "album": {
+        "name": "Acoustica",
+        "url": "https://open.spotify.com/album/6VOsm3ABkYoOnJFHo4iG6q"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315600,
+      "name": "Life Is Too Short - Live",
+      "url": "https://open.spotify.com/track/2XBhU3UcOQUGFKAY7s4Jm1"
+    },
+    {
+      "album": {
         "name": "Sting in the Tail",
         "url": "https://open.spotify.com/album/3n2WzsBMJtfoV1kYIQZOLj"
       },
@@ -433,7 +487,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 270786,
       "name": "Love Is the Answer (Rudolf Solo) - MTV Unplugged",
       "url": "https://open.spotify.com/track/2TNsNH1y4Y8mTgGLLEx71a"
@@ -469,7 +523,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 338160,
       "name": "Loving You Sunday Morning",
       "url": "https://open.spotify.com/track/3cP1PTtWpmft6mIXeZaRpS"
@@ -487,7 +541,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 262600,
       "name": "Lust Or Love",
       "url": "https://open.spotify.com/track/5hK124LRx0p5MVtvSLlyP6"
@@ -577,7 +631,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 176107,
       "name": "Peacemaker",
       "url": "https://open.spotify.com/track/1YjOclLzSa0IhjGmjgDseT"
@@ -613,7 +667,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 347133,
       "name": "Restless Nights",
       "url": "https://open.spotify.com/track/6zmFoe68ejOMgw0XHDh9db"
@@ -685,10 +739,28 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 197041,
       "name": "Roots In My Boots",
       "url": "https://open.spotify.com/track/4LWxZ4E5BPimogTZdi5CrB"
+    },
+    {
+      "album": {
+        "name": "Comeblack",
+        "url": "https://open.spotify.com/album/4vQ96yyyYbaeTQujH3iTtd"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 235306,
+      "name": "Ruby Tuesday",
+      "url": "https://open.spotify.com/track/7utyUj2Clh0t5M77IA78u0"
     },
     {
       "album": {
@@ -719,9 +791,27 @@
           "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
         }
       ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330717,
+      "name": "Seventh Sun",
+      "url": "https://open.spotify.com/track/5RN6lrv6esmnuN9F62VQ2F"
+    },
+    {
+      "album": {
+        "name": "Rock Believer (Deluxe)",
+        "url": "https://open.spotify.com/album/3buy6DvCMUseqKyEC4RI4g"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 237600,
       "name": "Shining Of Your Soul",
       "url": "https://open.spotify.com/track/3D0JskXs8rv4NGAO6nhkI3"
@@ -779,6 +869,24 @@
       "duration_ms": 285400,
       "name": "Tease Me Please Me",
       "url": "https://open.spotify.com/track/2QpY0RaiEsfiguZZRcMWo0"
+    },
+    {
+      "album": {
+        "name": "Sting in the Tail",
+        "url": "https://open.spotify.com/album/3n2WzsBMJtfoV1kYIQZOLj"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273560,
+      "name": "The Best Is Yet to Come",
+      "url": "https://open.spotify.com/track/4Fw2KBPSaSoZgmqwtqrGIl"
     },
     {
       "album": {
@@ -937,10 +1045,28 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-10-12",
       "duration_ms": 187960,
       "name": "When I Lay My Bones To Rest",
       "url": "https://open.spotify.com/track/58hNqg1Odj9xm76jt4cjT4"
+    },
+    {
+      "album": {
+        "name": "Acoustica",
+        "url": "https://open.spotify.com/album/6VOsm3ABkYoOnJFHo4iG6q"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-24",
+      "duration_ms": 293826,
+      "name": "When Love Kills Love - Live",
+      "url": "https://open.spotify.com/track/0AyyJowMxulbgEQpcn9xVK"
     },
     {
       "album": {
@@ -1017,6 +1143,24 @@
       "duration_ms": 233386,
       "name": "Where the River Flows (feat. Ina M\u00fcller) - Studio Edit",
       "url": "https://open.spotify.com/track/0uAaH1DhDFg2rumxVT2X1q"
+    },
+    {
+      "album": {
+        "name": "Live Bites",
+        "url": "https://open.spotify.com/album/7CJ59CBDycdjun1rBbSKlK"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260066,
+      "name": "White Dove",
+      "url": "https://open.spotify.com/track/3C5OACv4JfvLAmUdxVugrk"
     },
     {
       "album": {

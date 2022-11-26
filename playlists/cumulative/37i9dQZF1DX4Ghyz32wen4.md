@@ -4,7 +4,7 @@
 
 > Una selección de temas de amor y desamor, con mucho feeling\. Foto: Paulo Londra
 
-75 songs - 4 hr 8 min - [published](https://open.spotify.com/playlist/7tURDhchLm4ApuqHMwUzSU)
+76 songs - 4 hr 10 min - [published](https://open.spotify.com/playlist/7tURDhchLm4ApuqHMwUzSU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [No Fui Capaz](https://open.spotify.com/track/6BPh0b1180nZsN3C9LJ8PN) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [NIÑXS ROTXS](https://open.spotify.com/album/1XLeW2s0YvZSomXynkBKgm) | 3:33 | 2022-07-23 |  |
 | [No Inventes](https://open.spotify.com/track/2AU1zlNbI0GcxeWPG04eLU) | [Peps Milflores](https://open.spotify.com/artist/4L5GEUMr41snQ1eTlbLNwo), [Geovanni Leon](https://open.spotify.com/artist/0XvbQt3qMLLJw8jDES1x9D), [Jizz](https://open.spotify.com/artist/74VBh3o2WAWbQjsQrle0Ab) | [Lealtad](https://open.spotify.com/album/5jwMSAfyCpV5sNkp7eXPnb) | 3:16 | 2022-04-25 |  |
 | [No Sabe Igual](https://open.spotify.com/track/6EOtXcUQza8Ct4R2gyLWFl) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [No Sabe Igual](https://open.spotify.com/album/4hU6NEWq45slvWt16hEgX3) | 2:16 | 2022-04-25 |  |
+| [Not The One](https://open.spotify.com/track/34OTrVKZbPuSIy7uDASKVQ) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Not The One](https://open.spotify.com/album/1p2anSkCqxuOvoDoZka7ih) | 2:24 | 2022-10-26 |  |
 | [Notificación](https://open.spotify.com/track/3LYn6oi29ACxuEFCKd0xBN) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d), [Nana Bersa](https://open.spotify.com/artist/7IzUZBSNYIuW7R5neM3AVq) | [Notificación](https://open.spotify.com/album/1vyegcdMUHlSJrUNDYb07d) | 3:42 | 2022-07-23 |  |
 | [Notificación](https://open.spotify.com/track/62SKI7ByCAOwSbuUa7B0A5) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d), [Nana Bersa](https://open.spotify.com/artist/7IzUZBSNYIuW7R5neM3AVq) | [Notificación](https://open.spotify.com/album/6mZCJgPgr9WytD7jrl56nB) | 3:42 | 2022-04-25 | 2022-08-15 |
 | [NOW](https://open.spotify.com/track/5gJuYaon5zaZahQyAd0LVx) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [NOW](https://open.spotify.com/album/5uLwxrxExey2DMjxYTEnMC) | 3:12 | 2022-04-25 |  |

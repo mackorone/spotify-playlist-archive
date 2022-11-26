@@ -171,7 +171,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 170624,
       "name": "All With Me",
       "url": "https://open.spotify.com/track/7D23uHGIu3lK2LMGQXPgng"
@@ -363,7 +363,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 228000,
       "name": "As Long As We Stay",
       "url": "https://open.spotify.com/track/34uhrPCTuIez9sRuuuYkBm"
@@ -509,7 +509,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-18",
       "duration_ms": 153087,
       "name": "Be My Ocean",
       "url": "https://open.spotify.com/track/6CsbniEMwV9GizQBujF7HJ"
@@ -1034,6 +1034,24 @@
     },
     {
       "album": {
+        "name": "daydream",
+        "url": "https://open.spotify.com/album/07yuPYTf3qC2d5Olk0xYwf"
+      },
+      "artists": [
+        {
+          "name": "lost spaces",
+          "url": "https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206785,
+      "name": "daydream",
+      "url": "https://open.spotify.com/track/5QsaZbHC7scH5i7UdCYNip"
+    },
+    {
+      "album": {
         "name": "Daylight Blows into One Door",
         "url": "https://open.spotify.com/album/1tLvlUp7uEBV9U1KaKQhr6"
       },
@@ -1323,7 +1341,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 286080,
       "name": "Fall into Place",
       "url": "https://open.spotify.com/track/42qYpMYGhgkhagwKi0MnOg"
@@ -1603,7 +1621,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 199601,
       "name": "Friends (with Pamungkas)",
       "url": "https://open.spotify.com/track/2A8GaaJgqP0TcW6wmhly7n"
@@ -2453,7 +2471,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 203737,
       "name": "Little Secret",
       "url": "https://open.spotify.com/track/7tDzqePofShLjSsFlWfHHp"
@@ -2619,7 +2637,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 139714,
       "name": "Make Me Wanna",
       "url": "https://open.spotify.com/track/3spheePAIR3lvJ5ljJ1BV0"
@@ -2786,6 +2804,24 @@
     },
     {
       "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/1GoPGMUac5hoSm6A7UF819"
+      },
+      "artists": [
+        {
+          "name": "YA\u00d8",
+          "url": "https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186088,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/54EWwXt6RCv5Err39SHUxK"
+    },
+    {
+      "album": {
         "name": "Morning Blue",
         "url": "https://open.spotify.com/album/2ewGI2tIH2rBS0j5avcEfG"
       },
@@ -2855,6 +2891,28 @@
       "duration_ms": 167000,
       "name": "my name is...",
       "url": "https://open.spotify.com/track/0YtHynJOwxbo4MiFU1XvyA"
+    },
+    {
+      "album": {
+        "name": "my only",
+        "url": "https://open.spotify.com/album/77THIeUyd2AAlIt6WKryGu"
+      },
+      "artists": [
+        {
+          "name": "yedira",
+          "url": "https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq"
+        },
+        {
+          "name": "yuji",
+          "url": "https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173841,
+      "name": "my only",
+      "url": "https://open.spotify.com/track/15T6FzdI9TMOwKA0iTO44O"
     },
     {
       "album": {
@@ -3007,7 +3065,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 169130,
       "name": "No Expectations",
       "url": "https://open.spotify.com/track/255DXKzTMcHZTpqZTNN5mB"
@@ -3033,6 +3091,24 @@
     {
       "album": {
         "name": "To Let A Good Thing Die",
+        "url": "https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz"
+      },
+      "artists": [
+        {
+          "name": "Bruno Major",
+          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162797,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/1lORkxEMmsCZqhoxcmk3A3"
+    },
+    {
+      "album": {
+        "name": "To Let A Good Thing Die",
         "url": "https://open.spotify.com/album/5ON0EY1YuVEJPwj17yYtwO"
       },
       "artists": [
@@ -3043,7 +3119,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 162797,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/2IAR0DziHCjSu16gR4ihvy"
@@ -3083,6 +3159,28 @@
       "duration_ms": 205552,
       "name": "Oh It's You",
       "url": "https://open.spotify.com/track/1Z751eJbWWLUzgp9hpmELA"
+    },
+    {
+      "album": {
+        "name": "Old Love (Stripped)",
+        "url": "https://open.spotify.com/album/3PZ2XdG3dVMamV6E7Dr1KU"
+      },
+      "artists": [
+        {
+          "name": "yuji",
+          "url": "https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW"
+        },
+        {
+          "name": "putri dahlia",
+          "url": "https://open.spotify.com/artist/54nGORfHS6Uldjlr4QeN7g"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260642,
+      "name": "Old Love (Stripped)",
+      "url": "https://open.spotify.com/track/6WMbbSonBub9Rlv64hG6aH"
     },
     {
       "album": {
@@ -3209,7 +3307,7 @@
       ],
       "date_added": "2022-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 166480,
       "name": "Pager",
       "url": "https://open.spotify.com/track/5MlvAB51sadP8tIIhdXEkQ"
@@ -3390,6 +3488,28 @@
     },
     {
       "album": {
+        "name": "Pulang",
+        "url": "https://open.spotify.com/album/0dFuagEe4bOXBkIIs9mNW3"
+      },
+      "artists": [
+        {
+          "name": "K-Clique",
+          "url": "https://open.spotify.com/artist/06RrXcTszCm5il0HKCD3Dh"
+        },
+        {
+          "name": "Aj",
+          "url": "https://open.spotify.com/artist/22d6nqxq33gYU50eC0YV37"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Pulang",
+      "url": "https://open.spotify.com/track/4XIs2mOTfd5pzTw5zlCbJc"
+    },
+    {
+      "album": {
         "name": "Better With You",
         "url": "https://open.spotify.com/album/1EJeyxh3t7ZlkmFi5ttQoC"
       },
@@ -3481,6 +3601,24 @@
       "duration_ms": 249905,
       "name": "rain on mars",
       "url": "https://open.spotify.com/track/617L7CvDz5fz9WbDzYx5fM"
+    },
+    {
+      "album": {
+        "name": "Raincloud",
+        "url": "https://open.spotify.com/album/3kCzqoleAPWwg2sSd5YXEA"
+      },
+      "artists": [
+        {
+          "name": "liesl-mae",
+          "url": "https://open.spotify.com/artist/2PSBYmtNWEm9f8VOSCFFX0"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Raincloud",
+      "url": "https://open.spotify.com/track/5LAMww4MkUMihbOlKPFr09"
     },
     {
       "album": {
@@ -3589,7 +3727,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": "2022-11-14",
       "duration_ms": 230098,
       "name": "Restless Love",
       "url": "https://open.spotify.com/track/6upgCPd0Z70zA0PNdfoHOc"
@@ -3643,7 +3781,7 @@
       ],
       "date_added": "2022-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 218048,
       "name": "Risk It All",
       "url": "https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg"
@@ -3683,6 +3821,28 @@
       "duration_ms": 234000,
       "name": "Rumble Under My Toes (feat. Kwak Pureunhaneul)",
       "url": "https://open.spotify.com/track/0JBDFmwpzyOBNO0IhQVypP"
+    },
+    {
+      "album": {
+        "name": "Sakit",
+        "url": "https://open.spotify.com/album/5uP44qzAYjTUveb8iNJccy"
+      },
+      "artists": [
+        {
+          "name": "Zynakal",
+          "url": "https://open.spotify.com/artist/3Cs5QQYz6pMhbEKaBNCtfi"
+        },
+        {
+          "name": "Yonnyboii",
+          "url": "https://open.spotify.com/artist/13rJ1RvOkiAEQnvbt9SlXR"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221700,
+      "name": "Sakit",
+      "url": "https://open.spotify.com/track/2rAJy2WSlQOINaWi0kydkr"
     },
     {
       "album": {
@@ -3802,6 +3962,24 @@
     },
     {
       "album": {
+        "name": "Shortcut To Heaven",
+        "url": "https://open.spotify.com/album/1LzCyAXs0MWStAaFkFc4QJ"
+      },
+      "artists": [
+        {
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184343,
+      "name": "Shortcut To Heaven",
+      "url": "https://open.spotify.com/track/0zL5fdl4CvAAYUG3dJVMqS"
+    },
+    {
+      "album": {
         "name": "Shouldn't Have To Run",
         "url": "https://open.spotify.com/album/5B7i5oZI5Ztda9IxBGANAV"
       },
@@ -3817,7 +3995,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": null,
       "duration_ms": 165971,
       "name": "Shouldn't Have To Run",
       "url": "https://open.spotify.com/track/1sD6rUEzcFqEYsZlwcxIBk"
@@ -3875,7 +4053,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-11-23",
       "duration_ms": 166415,
       "name": "Smile For Me",
       "url": "https://open.spotify.com/track/49z2kxEp9AzpDY66YuD1jJ"
@@ -4063,7 +4241,7 @@
       ],
       "date_added": "2022-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": null,
       "duration_ms": 209205,
       "name": "Stay Where You Are",
       "url": "https://open.spotify.com/track/68GFZFc2Fa5HLdv6TXziSD"
@@ -4136,6 +4314,28 @@
     },
     {
       "album": {
+        "name": "Take Me Back",
+        "url": "https://open.spotify.com/album/22DduBRoSrDkcDF3i2ofNP"
+      },
+      "artists": [
+        {
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+        },
+        {
+          "name": "Yonnyboii",
+          "url": "https://open.spotify.com/artist/13rJ1RvOkiAEQnvbt9SlXR"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-19",
+      "duration_ms": 149000,
+      "name": "Take Me Back ft. Yonnyboii",
+      "url": "https://open.spotify.com/track/68Yc9ylRZZPtsuVgtrxcDj"
+    },
+    {
+      "album": {
         "name": "relationshit",
         "url": "https://open.spotify.com/album/2VeUxfOnzVKks0UEX681m2"
       },
@@ -4165,7 +4365,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": null,
       "duration_ms": 225833,
       "name": "Teenage Dream",
       "url": "https://open.spotify.com/track/3cr8XcChCFSkZogQnCNGXl"
@@ -4415,7 +4615,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 228965,
       "name": "Today I Miss You",
       "url": "https://open.spotify.com/track/5qdMBYgZdicuxs6U18Co5g"
@@ -4552,7 +4752,7 @@
     },
     {
       "album": {
-        "name": "W.H.U.T",
+        "name": "W.H.U.T (Wanna Hold U Tight)",
         "url": "https://open.spotify.com/album/33hKzdCUtE6qkQJrJaDuck"
       },
       "artists": [
@@ -4599,10 +4799,40 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 225747,
       "name": "WANT",
       "url": "https://open.spotify.com/track/7hqlbKbYWLnoIEg9GxyfWu"
+    },
+    {
+      "album": {
+        "name": "We'll Be Alright",
+        "url": "https://open.spotify.com/album/4pEpNaS8Bwu0ok9fmWIh8r"
+      },
+      "artists": [
+        {
+          "name": "2OFU",
+          "url": "https://open.spotify.com/artist/3nk2jAog2zO4LNboEhMXaa"
+        },
+        {
+          "name": "Rangga Jones",
+          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
+        },
+        {
+          "name": "Shye",
+          "url": "https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T"
+        },
+        {
+          "name": "Yung Lee Records",
+          "url": "https://open.spotify.com/artist/4GozvPZO3g0cI5I2TEDovw"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163166,
+      "name": "We'll Be Alright",
+      "url": "https://open.spotify.com/track/0TV78fjZAVcsO2Q31feAxd"
     },
     {
       "album": {
@@ -4769,7 +4999,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 220814,
       "name": "Wild Child",
       "url": "https://open.spotify.com/track/0ncdLrRwDcIULjIwyrOoB3"

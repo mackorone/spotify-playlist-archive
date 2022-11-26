@@ -30,6 +30,28 @@
     },
     {
       "album": {
+        "name": "Debussy: Complete Works for Piano",
+        "url": "https://open.spotify.com/album/4GhW2WNxCn55Vp1UjXDYtK"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Jean-Efflam Bavouzet",
+          "url": "https://open.spotify.com/artist/4BcOHdtzeyl8hX3zUId6hZ"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 244106,
+      "name": "2 Arabesques, L. 66: No. 1 in E Major",
+      "url": "https://open.spotify.com/track/2mS2F4fD8rCOdD7uCCUkV3"
+    },
+    {
+      "album": {
         "name": "Schubert",
         "url": "https://open.spotify.com/album/073hIhdGDDOfOXDiYvO0kC"
       },
@@ -567,6 +589,24 @@
       "duration_ms": 433666,
       "name": "Piano Concerto No. 21 in C Major, K. 467: II. Andante",
       "url": "https://open.spotify.com/track/429GaRIWKJ3EU1GAQPbLcr"
+    },
+    {
+      "album": {
+        "name": "Rough Guide: Mozart",
+        "url": "https://open.spotify.com/album/71DtUOetgyyKaFpJ4Pru2q"
+      },
+      "artists": [
+        {
+          "name": "Howard Shelley & London Mozart Players",
+          "url": "https://open.spotify.com/artist/1VfkB9kSnN6rf45OpMuWkt"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 432666,
+      "name": "Piano Concerto No. 21 in C major, KV467: II. Andante",
+      "url": "https://open.spotify.com/track/4tsOiEUx7dOxFtOxJjSjPU"
     },
     {
       "album": {

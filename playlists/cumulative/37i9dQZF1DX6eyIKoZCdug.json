@@ -329,10 +329,32 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 288000,
       "name": "Dig Dig",
       "url": "https://open.spotify.com/track/2adtZMj7MVTG9AcV4Z0hxS"
+    },
+    {
+      "album": {
+        "name": "Lagos to Jozi",
+        "url": "https://open.spotify.com/album/5dTXVRytErS1hYzu1H0iNp"
+      },
+      "artists": [
+        {
+          "name": "Niniola",
+          "url": "https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ"
+        },
+        {
+          "name": "GuiltyBeatz",
+          "url": "https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em"
+        }
+      ],
+      "date_added": "2021-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Dig Dig",
+      "url": "https://open.spotify.com/track/7ilCVsvni3DcYP7V1K4amh"
     },
     {
       "album": {
@@ -527,7 +549,7 @@
     {
       "album": {
         "name": "I Did It (Bum Bum)",
-        "url": "https://open.spotify.com/album/4m6MOPc6pbMx98u5Vn36rJ"
+        "url": "https://open.spotify.com/album/7E1fYgJc0JPn19Rj1dOj7G"
       },
       "artists": [
         {
@@ -544,7 +566,51 @@
       "date_removed": null,
       "duration_ms": 223651,
       "name": "I Did It (Bum Bum)",
+      "url": "https://open.spotify.com/track/0Y1DdSpkxR1YX1lOxk1V6Z"
+    },
+    {
+      "album": {
+        "name": "I Did It (Bum Bum)",
+        "url": "https://open.spotify.com/album/4m6MOPc6pbMx98u5Vn36rJ"
+      },
+      "artists": [
+        {
+          "name": "Niniola",
+          "url": "https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ"
+        },
+        {
+          "name": "Lady Du",
+          "url": "https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x"
+        }
+      ],
+      "date_added": "2021-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
+      "duration_ms": 223651,
+      "name": "I Did It (Bum Bum)",
       "url": "https://open.spotify.com/track/4CCBGUW3NnmrLKC661awnM"
+    },
+    {
+      "album": {
+        "name": "Lagos to Jozi",
+        "url": "https://open.spotify.com/album/5dTXVRytErS1hYzu1H0iNp"
+      },
+      "artists": [
+        {
+          "name": "Niniola",
+          "url": "https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ"
+        },
+        {
+          "name": "Lady Du",
+          "url": "https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x"
+        }
+      ],
+      "date_added": "2021-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 223651,
+      "name": "I Did It (Bum Bum)",
+      "url": "https://open.spotify.com/track/5BjWsMcUj81j4Ly58yQVP2"
     },
     {
       "album": {
@@ -841,10 +907,32 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 266829,
       "name": "Jika - Lemon & Herb Remix",
       "url": "https://open.spotify.com/track/1wNOP1On9dLevIskfrd26I"
+    },
+    {
+      "album": {
+        "name": "Jika EP",
+        "url": "https://open.spotify.com/album/620uN2e9ilPg65f7hDSJBr"
+      },
+      "artists": [
+        {
+          "name": "Thandi Draai",
+          "url": "https://open.spotify.com/artist/5YOTbvFffpPKwdMKEyKIcG"
+        },
+        {
+          "name": "Lemon & Herb",
+          "url": "https://open.spotify.com/artist/0YbodxZ8dsnWW002EWS51w"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266829,
+      "name": "Jika - Lemon & Herb Remix",
+      "url": "https://open.spotify.com/track/7LdrWWVy38G7G8B9Bv2ixW"
     },
     {
       "album": {
@@ -1184,6 +1272,28 @@
     },
     {
       "album": {
+        "name": "Africa Gets Physical, Vol. 4",
+        "url": "https://open.spotify.com/album/3EYT5rRhfYfz4ttOl2ILEr"
+      },
+      "artists": [
+        {
+          "name": "Thandi Draai",
+          "url": "https://open.spotify.com/artist/5YOTbvFffpPKwdMKEyKIcG"
+        },
+        {
+          "name": "Candy Man",
+          "url": "https://open.spotify.com/artist/6jeexjc4jgw4TN9Ql7Ccor"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 453338,
+      "name": "Out of Africa",
+      "url": "https://open.spotify.com/track/1LQgm4SnlgeNriEJdEd9AE"
+    },
+    {
+      "album": {
         "name": "Out of Africa",
         "url": "https://open.spotify.com/album/7yLiwC4leVxILTgFXJfxYX"
       },
@@ -1199,7 +1309,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 453338,
       "name": "Out of Africa",
       "url": "https://open.spotify.com/track/7F9ilCsP3fM0hCggluGRcO"
@@ -1439,7 +1549,7 @@
     {
       "album": {
         "name": "Too Sweet (O Dun)",
-        "url": "https://open.spotify.com/album/6nFnihntbchDVH2ZkjNB7S"
+        "url": "https://open.spotify.com/album/253e0DnC2BETCzs8ukwBkn"
       },
       "artists": [
         {
@@ -1450,6 +1560,42 @@
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 216842,
+      "name": "Too Sweet (O Dun)",
+      "url": "https://open.spotify.com/track/1EX1Pke2k6d2ry5XLbDtqE"
+    },
+    {
+      "album": {
+        "name": "Lagos to Jozi",
+        "url": "https://open.spotify.com/album/5dTXVRytErS1hYzu1H0iNp"
+      },
+      "artists": [
+        {
+          "name": "Niniola",
+          "url": "https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ"
+        }
+      ],
+      "date_added": "2021-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 216842,
+      "name": "Too Sweet (O Dun)",
+      "url": "https://open.spotify.com/track/2cddUAysuPylQ5wVtdAUWy"
+    },
+    {
+      "album": {
+        "name": "Too Sweet (O Dun)",
+        "url": "https://open.spotify.com/album/6nFnihntbchDVH2ZkjNB7S"
+      },
+      "artists": [
+        {
+          "name": "Niniola",
+          "url": "https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ"
+        }
+      ],
+      "date_added": "2021-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-15",
       "duration_ms": 216842,
       "name": "Too Sweet (O Dun)",
       "url": "https://open.spotify.com/track/2mfWkv1pXb95OtgGDufSSR"

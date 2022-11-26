@@ -4,7 +4,7 @@
 
 > Remembering the voices that have always spoken truth to power.
 
-44 songs - 3 hr 58 min - [published](https://open.spotify.com/playlist/7vAfmpBAVQyXweFVmlW8iX)
+46 songs - 4 hr 5 min - [published](https://open.spotify.com/playlist/7vAfmpBAVQyXweFVmlW8iX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,8 +46,10 @@
 | [We Shall Overcome](https://open.spotify.com/track/5pTwWOOMfTOU2FOw89U5ua) | [Mahalia Jackson](https://open.spotify.com/artist/6QBUIuGCAJSAtefEY1EEdB) | [Sings the Best\-Loved Hymns of Dr\. Martin Luther King, Jr.](https://open.spotify.com/album/7vbdNHLadnywl3ofFp0nIE) | 2:47 | 2021-04-16 |  |
 | [What's Going On](https://open.spotify.com/track/34b3a3Pz9Jlz0092LMyNAB) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On \- 40th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/3P9Pzn7O4Zsr3tsCSsx7Uk) | 3:52 | 2021-04-16 | 2022-07-29 |
 | [What's Going On](https://open.spotify.com/track/3Um9toULmYFGCpvaIPFw7l) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B) | 3:53 | 2021-04-16 |  |
+| [What's Going On](https://open.spotify.com/track/263r3yt2PU9kLeGJZB8nwU) | [Profyle](https://open.spotify.com/artist/4WC2Edj7Ruq94JH2jkC5hB) | [Marvin Is 60: A Tribute Album](https://open.spotify.com/album/3SX6I8EJMwO2GAvlv3mC4h) | 3:58 | 2021-04-16 | 2022-11-13 |
 | [What's Happening Brother](https://open.spotify.com/track/3B1K9cOissM5S7zUBwd8TZ) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On \- 40th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/3P9Pzn7O4Zsr3tsCSsx7Uk) | 2:43 | 2021-04-16 | 2022-07-29 |
 | [What's Happening Brother](https://open.spotify.com/track/4ihykcy9d9SSC5qxHIhPcf) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B) | 2:43 | 2021-04-16 |  |
+| [What's Happening Brother](https://open.spotify.com/track/1US2d1b6xkWkR3ch2nMxBn) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [The Complete Collection](https://open.spotify.com/album/65YcebOsM0lahPajqszFQw) | 2:44 | 2021-04-16 | 2022-11-13 |
 | [When Ure Heart Turns Cold](https://open.spotify.com/track/2xCCw5DcCQ0QVfjCfiTyBT) | [Sonia Sanchez](https://open.spotify.com/artist/0hvH9P1nlB5xrNdlXwZ22P) | [The Rose That Grew From Concrete](https://open.spotify.com/album/17v0WKUfqS4lRiWslYyVWh) | 1:37 | 2021-04-16 |  |
 | [Why are the Panthers So Provocative?](https://open.spotify.com/track/2fq0KcqINDwPWoTICTdmxA) | [Huey P\. Newton](https://open.spotify.com/artist/2SMi8AArIjUwlhY9TVxkZ7) | [Huey Newton Speaks](https://open.spotify.com/album/4yOtfYeRNDMJ3RRTWZAQnN) | 1:29 | 2021-04-16 |  |
 | [Why? \(The King of Love Is Dead\) \- Live at Westbury Music Fair, Westbury, NY \- April 1968](https://open.spotify.com/track/4gmeLpDeLk9Y2pTWJPjiG2) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | ['Nuff Said \(Expanded Edition\)](https://open.spotify.com/album/1ZRMX4V4gDAJzRmwUfjMYg) | 12:51 | 2021-04-16 |  |

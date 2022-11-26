@@ -165,7 +165,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": "2022-11-13",
       "duration_ms": 181623,
       "name": "Bickenhead",
       "url": "https://open.spotify.com/track/17Yq72h0p15OhCbZ5lJ5gd"
@@ -781,7 +781,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 173752,
       "name": "Female Goat",
       "url": "https://open.spotify.com/track/3GvtfWTRoialUPNCbDjdtI"
@@ -1107,7 +1107,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": "2022-11-13",
       "duration_ms": 121386,
       "name": "Jobs",
       "url": "https://open.spotify.com/track/2fHXAuXRcCDXbZYJIUZCGW"
@@ -1455,7 +1455,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 140920,
       "name": "No More Parties",
       "url": "https://open.spotify.com/track/3R6wLBD4oU6op8L4YfMho9"
@@ -1539,6 +1539,24 @@
       "duration_ms": 236796,
       "name": "One Percent (feat. Kap G)",
       "url": "https://open.spotify.com/track/0QE5OugWlDVOLe1rV8MOqE"
+    },
+    {
+      "album": {
+        "name": "OOOUUU",
+        "url": "https://open.spotify.com/album/0o7QxqeqhALehCfm0kpJJo"
+      },
+      "artists": [
+        {
+          "name": "Young M.A",
+          "url": "https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 234525,
+      "name": "OOOUUU",
+      "url": "https://open.spotify.com/track/0D21XvHcVsIvJM6FcGY2BT"
     },
     {
       "album": {
@@ -1967,7 +1985,7 @@
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         },
         {
-          "name": "BLEU",
+          "name": "Yung Bleu",
           "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
         }
       ],
@@ -2035,6 +2053,28 @@
       "duration_ms": 121927,
       "name": "Wat U Need",
       "url": "https://open.spotify.com/track/5K4zdrXD3WuDVBRsAIGCO9"
+    },
+    {
+      "album": {
+        "name": "Unrestricted",
+        "url": "https://open.spotify.com/album/6O6Ljcn3hIcxMw3eSLD811"
+      },
+      "artists": [
+        {
+          "name": "Da Brat",
+          "url": "https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf"
+        },
+        {
+          "name": "Tyrese",
+          "url": "https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 221160,
+      "name": "What'chu Like (feat. Tyrese)",
+      "url": "https://open.spotify.com/track/5d8woPn6sHRA6yPnnHnqSt"
     },
     {
       "album": {

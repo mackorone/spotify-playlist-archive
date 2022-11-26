@@ -555,6 +555,24 @@
     {
       "album": {
         "name": "Lush Life",
+        "url": "https://open.spotify.com/album/3YelTkVhlEXydToO9cCDjS"
+      },
+      "artists": [
+        {
+          "name": "Billy Strayhorn",
+          "url": "https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143531,
+      "name": "Clementine",
+      "url": "https://open.spotify.com/track/1DkbJhQlmCvXe4ieTwecEC"
+    },
+    {
+      "album": {
+        "name": "Lush Life",
         "url": "https://open.spotify.com/album/43x4d2Sq1mUl2X5VBWa0Ve"
       },
       "artists": [
@@ -565,7 +583,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 143531,
       "name": "Clementine",
       "url": "https://open.spotify.com/track/5OVFmjIZkM2EBjW8T0v0V7"
@@ -791,6 +809,24 @@
       "duration_ms": 146506,
       "name": "Elysee",
       "url": "https://open.spotify.com/track/05Phfs2CroaIG0SBzv7tCU"
+    },
+    {
+      "album": {
+        "name": "Mellomjul jazz 2022",
+        "url": "https://open.spotify.com/album/7iSNn22fdETlTFyC5ikyAv"
+      },
+      "artists": [
+        {
+          "name": "Bill Charlap",
+          "url": "https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg"
+        }
+      ],
+      "date_added": "2022-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-21",
+      "duration_ms": 155106,
+      "name": "Fantastic Rhythm",
+      "url": "https://open.spotify.com/track/2XJwPVsQ7iDLDopNIbhtUs"
     },
     {
       "album": {
@@ -2566,6 +2602,24 @@
     },
     {
       "album": {
+        "name": "Black Moonlight Vol. 5",
+        "url": "https://open.spotify.com/album/2ItDs63YW6pRY08EjXLb7j"
+      },
+      "artists": [
+        {
+          "name": "Victor Young",
+          "url": "https://open.spotify.com/artist/3HqN7Sq7rmpOEI9UV5ERuz"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191346,
+      "name": "Too Late",
+      "url": "https://open.spotify.com/track/1r5kJWlDcyCp6KS9Y9HA9m"
+    },
+    {
+      "album": {
         "name": "Portraits By Ellington",
         "url": "https://open.spotify.com/album/0LIkxSapjR9etoqmQ0gLNq"
       },
@@ -2599,10 +2653,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 323198,
       "name": "Triple Play",
       "url": "https://open.spotify.com/track/0WXLbhRZmZ8BuqGW9kqN0a"
+    },
+    {
+      "album": {
+        "name": "Lush Life",
+        "url": "https://open.spotify.com/album/3YelTkVhlEXydToO9cCDjS"
+      },
+      "artists": [
+        {
+          "name": "Billy Strayhorn",
+          "url": "https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323198,
+      "name": "Triple Play",
+      "url": "https://open.spotify.com/track/4LHvcUgH4uw2HvYCnlPMC3"
     },
     {
       "album": {
@@ -2635,10 +2707,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 186992,
       "name": "U.M.M.G. (Upper Manhattan Medical Group)",
       "url": "https://open.spotify.com/track/5sJpQV6iIInQ4DqL3Jfqzc"
+    },
+    {
+      "album": {
+        "name": "Lush Life-The Music Of Billy Strayhorn",
+        "url": "https://open.spotify.com/album/79ih1hMMqaYaMXhdlXDxku"
+      },
+      "artists": [
+        {
+          "name": "Joe Henderson",
+          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300133,
+      "name": "U.M.M.G. (Upper Manhattan Medical Group)",
+      "url": "https://open.spotify.com/track/5nZ3cWYXLM6exMFCweubmL"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > This playlist will sing your little ones to sleep.
 
-93 songs - 4 hr 27 min - [published](https://open.spotify.com/playlist/02w0VB2lrFWIf9k97cl9CY)
+97 songs - 4 hr 41 min - [published](https://open.spotify.com/playlist/02w0VB2lrFWIf9k97cl9CY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Forever](https://open.spotify.com/track/4EquGweLLkXhLyBujLigtK) | [Etheral Point](https://open.spotify.com/artist/3uL7S8B8ZS8ugRU2qVfsWw) | [Forever](https://open.spotify.com/album/0yciN1JcmuzoXq4isgF4wS) | 3:10 | 2019-10-29 |  |
 | [Going Home](https://open.spotify.com/track/0EK2R1LzlH51tRFWAmodXo) | [Izumi Tanaka](https://open.spotify.com/artist/53odzhqrxC4LMAwW26ODLl) | [Time For Reflection](https://open.spotify.com/album/3jn32u4R1RnnPEdQB8ZAk9) | 2:54 | 2019-10-29 | 2022-07-29 |
 | [Going Home](https://open.spotify.com/track/0qRGPTsjcMT9EpxgMTOl1P) | [Izumi Tanaka](https://open.spotify.com/artist/53odzhqrxC4LMAwW26ODLl) | [Rikyu Garden](https://open.spotify.com/album/1kxINx1cb6J6rGY9DjzA52) | 2:54 | 2019-10-29 |  |
+| [Going Home](https://open.spotify.com/track/6pTnENq16nbEmWGlNImohz) | [Izumi Tanaka](https://open.spotify.com/artist/53odzhqrxC4LMAwW26ODLl) | [Time For Reflection](https://open.spotify.com/album/5OewMGijMVWGyfH9NjBcsn) | 2:54 | 2019-10-29 | 2022-11-14 |
 | [Golden Slumbers](https://open.spotify.com/track/553aXMKRk0Kh41QpvbuuFt) | [Erik Söderlind](https://open.spotify.com/artist/299uBqkrkdHLIcVLOUa9U6) | [Plays McCartney](https://open.spotify.com/album/7Fo8n4zfC54z0Yjgv8qVKY) | 2:43 | 2019-10-29 |  |
 | [Heading West](https://open.spotify.com/track/1KDGb7d3PHIOI6bLWgLFfV) | [Luna Meguise](https://open.spotify.com/artist/44iKmwaKZGgsGDVVzjKIMV) | [Heading West](https://open.spotify.com/album/5JvZw6XCzqzELAYzeBRCIp) | 2:37 | 2019-10-29 |  |
 | [Hello from the Edge of the Earth](https://open.spotify.com/track/0NxlgdHCjvD0FeTzRP9HQd) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Hundreds of Days](https://open.spotify.com/album/3htG3vw3Y9SZuoKFEvQ9FI) | 3:34 | 2019-10-29 |  |
@@ -46,6 +47,7 @@
 | [Holding on to Forever](https://open.spotify.com/track/0CYn7dOi4SC9Eyd7CUpAd2) | [Goratie](https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD) | [Holding on to Forever](https://open.spotify.com/album/5amcCjE91x6i7liBT9IwMr) | 2:05 | 2019-10-29 |  |
 | [Hopefull](https://open.spotify.com/track/1pMY02UghJHHv0DXv0ZmmK) | [Enzo](https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz) | [Sunrise](https://open.spotify.com/album/4OqOKmqpBvfAw1NF68Vd83) | 4:18 | 2019-10-29 |  |
 | [Hopefull](https://open.spotify.com/track/3T9YBqJEpy7IZsIo89SYVm) | [Enzo](https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz) | [Hopefull](https://open.spotify.com/album/4bpCA9wD3IapewaQ7clEMm) | 4:18 | 2019-10-29 | 2022-07-29 |
+| [Hopefull](https://open.spotify.com/track/5cPyC2nWvhSQBg92xY9Mzx) | [Enzo](https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz) | [Hopefull](https://open.spotify.com/album/7yujKM283pooTDd9bNEP6B) | 4:18 | 2019-10-29 | 2022-11-14 |
 | [In the Far Away Distance](https://open.spotify.com/track/1oHDNBIxtHai4IcMQ4mJuL) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [In the Far Away Distance](https://open.spotify.com/album/6hxNWvBvsKr4mV1YAjz9HS) | 2:56 | 2019-10-29 |  |
 | [Jocelyn](https://open.spotify.com/track/1Vv5St0rzB3054EvkADdQi) | [Lost Wings](https://open.spotify.com/artist/5GneKGEamDH29m9tE0zzwo) | [Jocelyn](https://open.spotify.com/album/4WBRH5wwDwGnIHbuVHA1dO) | 2:26 | 2019-10-29 |  |
 | [Judith](https://open.spotify.com/track/6GsOj1QAdG1XIhbFilnj77) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Omkuld](https://open.spotify.com/album/3R8LbIPY4wuop5VHWEWrGk) | 2:55 | 2019-10-29 | 2022-07-29 |
@@ -65,6 +67,7 @@
 | [Origami](https://open.spotify.com/track/5MIyzgrAUZ5TryLLF30hcY) | [Berlioz](https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar) | [Origami](https://open.spotify.com/album/689hMeFt2wAkXJjLNsPfQF) | 1:46 | 2019-10-29 |  |
 | [Peaceful Steps](https://open.spotify.com/track/0aYMZokpkck2E0q0tahWXX) | [Enzo](https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz) | [Sunrise](https://open.spotify.com/album/4OqOKmqpBvfAw1NF68Vd83) | 3:22 | 2019-10-29 |  |
 | [Peaceful Steps](https://open.spotify.com/track/0uQp5uVoeiERuDd9ld0eqw) | [Enzo](https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz) | [My Promise](https://open.spotify.com/album/7LQpg0w7maGxH5uzSMi1Jm) | 3:22 | 2019-10-29 | 2022-07-29 |
+| [Peaceful Steps](https://open.spotify.com/track/5gtXdxVPbcskjvWk39Hxwi) | [Enzo](https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz) | [Calm Evening \(Vol 1\)](https://open.spotify.com/album/0owL5Cz469wE4tQlz3WLRJ) | 3:22 | 2019-10-29 | 2022-11-14 |
 | [Pensamiento \(Variacion 1\)](https://open.spotify.com/track/1XjmvMlHQeXqXqbIiphr7L) | [Night Effects](https://open.spotify.com/artist/3LYasSAMIunoZHkV2FC7WB) | [Night Effects](https://open.spotify.com/album/6YAH0vPQGXSSWdXv4ENVzU) | 1:42 | 2019-10-29 |  |
 | [Pollux](https://open.spotify.com/track/3R0TQ0CK1KPse8hizZz476) | [S.A\. Karl](https://open.spotify.com/artist/5wvtkvwPR6pF2h7H6f08tM) | [Castor / Pollux](https://open.spotify.com/album/6P0cJjPi0SSUPXX8rv3s9t) | 2:22 | 2019-10-29 |  |
 | [Postojna Cave](https://open.spotify.com/track/2wmDt99ctDHWmv90eCUmha) | [Goran Sveic](https://open.spotify.com/artist/6IKG997m7bF9OUAGkkdFtL) | [Postojna Cave](https://open.spotify.com/album/4yBH7PEvcVyTzbfBL0Gkr7) | 2:02 | 2019-10-29 |  |
@@ -73,6 +76,7 @@
 | [Purple](https://open.spotify.com/track/5C0SsvmgrhMkqwdvhc4jEC) | [Dilaz](https://open.spotify.com/artist/0TOvt96p0iReJMOGxtV5ub) | [Colors](https://open.spotify.com/album/7Dt87s0vmIHISzEMTuDAbE) | 3:28 | 2019-10-29 |  |
 | [Purple Heart](https://open.spotify.com/track/2anhOZpTaoB2Ej5ULsHZ5Q) | [Izumi Tanaka](https://open.spotify.com/artist/53odzhqrxC4LMAwW26ODLl) | [Rikyu Garden](https://open.spotify.com/album/1kxINx1cb6J6rGY9DjzA52) | 3:38 | 2019-10-29 |  |
 | [Purple Heart](https://open.spotify.com/track/41hfLPgLlHIBPaiPw2q8tV) | [Izumi Tanaka](https://open.spotify.com/artist/53odzhqrxC4LMAwW26ODLl) | [Purple Heart](https://open.spotify.com/album/3eQzl4B4D6gS5gCkaEU4vL) | 3:38 | 2019-10-29 | 2022-07-29 |
+| [Purple Heart](https://open.spotify.com/track/5vYX5z2dbNtisqSyceBHly) | [Izumi Tanaka](https://open.spotify.com/artist/53odzhqrxC4LMAwW26ODLl) | [Purple Heart](https://open.spotify.com/album/3lJEfJLe7HVcaRHLKlPNNc) | 3:38 | 2019-10-29 | 2022-11-13 |
 | [Quiet Dreams](https://open.spotify.com/track/6jJkW2RUsOHCe4hiIk1tED) | [MVS](https://open.spotify.com/artist/2iPiEjvpiyVOYH7JSRgqfW) | [Quiet Dreams](https://open.spotify.com/album/5Xxn5Iuq8NGJ3pYzMxov60) | 3:24 | 2019-10-29 |  |
 | [Rasung Consciousness](https://open.spotify.com/track/1IfsSgpOy1pLK7NfxMkn0k) | [Arlen Ness](https://open.spotify.com/artist/45OB7boHqRPhkwMEsPPiT0) | [Lullaby Moods](https://open.spotify.com/album/7kD4T5Fl7A9YaSeDqxRLh9) | 2:20 | 2019-10-29 |  |
 | [Scintilla](https://open.spotify.com/track/69sPwFCc8ztlWFMQJnuS3n) | [Mino Monterosso](https://open.spotify.com/artist/528WOUREknwtSsfI7Nj7Zl) | [Scintilla](https://open.spotify.com/album/2Gwv9ptZ8XEK95Gk7M0LNf) | 2:34 | 2019-10-29 |  |

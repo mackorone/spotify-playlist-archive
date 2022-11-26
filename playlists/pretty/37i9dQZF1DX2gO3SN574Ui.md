@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gO3SN574Ui.md) - [plain]
 
 > <a href="spotify:artist:0P2bZXPyjHYRW4guHVAFl1">ARMNHMR</a> Duo brings us a mix full of energy and heart\-pounding drops that will get you moving!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,875 likes - 30 songs - 59 min 6 sec
+[Spotify](https://open.spotify.com/user/spotify) - 2,052 likes - 30 songs - 59 min 6 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gO3SN574Ui.md) - [plain]
 | 16 | [Nirvana \- Mixed](https://open.spotify.com/track/6SZ1s4M9DFQWG4E1SrMaR8) | [Candyland](https://open.spotify.com/artist/3wzxasxU7kQxHPr0ky5rJq) | [Nirvana \(Mixed\)](https://open.spotify.com/album/6zw4zyjkeLGJ1I9p6tt0LE) | 1:44 |
 | 17 | [THE DROP \- Darren Styles Remix \- Mixed](https://open.spotify.com/track/0c6Dm1F4f1n4bYvMaBGPDo) | [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY), [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm) | [THE DROP \- Darren Styles Remix \(Mixed\)](https://open.spotify.com/album/6vygFAWAwweIguzn7oSLEA) | 1:04 |
 | 18 | [Can't Let You Go \- Mixed](https://open.spotify.com/track/22qcvFMqcyifihHjXJwu3l) | [Abandoned](https://open.spotify.com/artist/1qs72LBhNBAQGwxFAnlo0x), [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Rynn](https://open.spotify.com/artist/4aOOnr90lZUhyGcEgmtgcl) | [Can't Let You Go \(Mixed\)](https://open.spotify.com/album/1oYVekPiI96uHg0WHPBQEe) | 3:23 |
-| 19 | [Phoenix \- Mixed](https://open.spotify.com/track/16reOZg7E6RVzAcBHZtqU2) | [Skyler Madison](https://open.spotify.com/artist/6niUPn9Tqcb6KdXkGvbMR9), [GLNNA](https://open.spotify.com/artist/3X4wc5UBBeJBehpL1E8hQG) | [Phoenix \(Mixed\)](https://open.spotify.com/album/5NzZdtiVpUmSW1pY53X00k) | 1:26 |
+| 19 | [Phoenix \- Mixed](https://open.spotify.com/track/16reOZg7E6RVzAcBHZtqU2) | [SKYLER](https://open.spotify.com/artist/6niUPn9Tqcb6KdXkGvbMR9), [GLNNA](https://open.spotify.com/artist/3X4wc5UBBeJBehpL1E8hQG) | [Phoenix \(Mixed\)](https://open.spotify.com/album/5NzZdtiVpUmSW1pY53X00k) | 1:26 |
 | 20 | [Enter REM \- Mixed](https://open.spotify.com/track/2SGSkteDBzdzzN9RHLHNH5) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF) | [Enter REM \(Mixed\)](https://open.spotify.com/album/2SDm097X7sPBr6aAgGs3jA) | 1:01 |
 | 21 | [Over You \- Mixed](https://open.spotify.com/track/2gjkR5SlCgMvUYCBM3B6UB) | [soupandreas](https://open.spotify.com/artist/5dPMuKQtWLLl1Thw1Bf8h9) | [Over You \(Mixed\)](https://open.spotify.com/album/424ldI7tVy7z6mzdFSENCG) | 1:21 |
 | 22 | [Lonely Nights \- Mixed](https://open.spotify.com/track/6LWe213MmceHAtm58VSl4N) | [Medyk](https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL), [Synymata](https://open.spotify.com/artist/6mLoXZQPyVJgzOqKLkJQoC), [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1) | [Lonely Nights \(Mixed\)](https://open.spotify.com/album/2UKFAyLw3m8BxXVj6wQQ9E) | 3:34 |

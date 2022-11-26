@@ -316,6 +316,32 @@
     },
     {
       "album": {
+        "name": "L'Arpeggiata, Christina Pluhar: The Complete Alpha Recordings",
+        "url": "https://open.spotify.com/album/2TnwfMgIz41Q9WNuuzJMOT"
+      },
+      "artists": [
+        {
+          "name": "Maurizio Cazzati",
+          "url": "https://open.spotify.com/artist/0RmIi9D8DWjiyivNnp0IPW"
+        },
+        {
+          "name": "Christina Pluhar",
+          "url": "https://open.spotify.com/artist/7xB7TQUAeFWgqdkhGiArgZ"
+        },
+        {
+          "name": "L'Arpeggiata",
+          "url": "https://open.spotify.com/artist/3kC7VaScP8y69rzg0vsswQ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 232626,
+      "name": "Ciaccona (I)",
+      "url": "https://open.spotify.com/track/28wd6znS35wQOE2YCLFZs2"
+    },
+    {
+      "album": {
         "name": "Vivaldi: 14 Concertos (for Mandolin, Flute, Trumpet, Violin, etc.) [2 CDs]",
         "url": "https://open.spotify.com/album/4Nb5uTBdRSIgY6kxw4jj2S"
       },
@@ -369,10 +395,70 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 152733,
       "name": "Concerto for Lute, 2 Violins and Continuo in D major, RV 93: 3. Allegro",
       "url": "https://open.spotify.com/track/1k3wTfLRwUpnrILdUKZIrn"
+    },
+    {
+      "album": {
+        "name": "Vivaldi For The Brain",
+        "url": "https://open.spotify.com/album/51NnvSlpr3A1agc6a1OUXa"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Tom Finucane",
+          "url": "https://open.spotify.com/artist/6HgoMAFsW8DLgv7RUaqzDy"
+        },
+        {
+          "name": "New London Consort",
+          "url": "https://open.spotify.com/artist/1aqZE6rtaBWlipoD3Cj8HB"
+        },
+        {
+          "name": "Philip Pickett",
+          "url": "https://open.spotify.com/artist/28exjH55NHlMdsQFf64Zrt"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 152733,
+      "name": "Concerto for Lute, 2 Violins and Continuo in D major, RV 93: 3. Allegro",
+      "url": "https://open.spotify.com/track/4io00PN4VL1bkzYM25cIuP"
+    },
+    {
+      "album": {
+        "name": "Driving Classics: Vivaldi",
+        "url": "https://open.spotify.com/album/2CjCpylLuz0ZB1LlxFfjKi"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Tom Finucane",
+          "url": "https://open.spotify.com/artist/6HgoMAFsW8DLgv7RUaqzDy"
+        },
+        {
+          "name": "New London Consort",
+          "url": "https://open.spotify.com/artist/1aqZE6rtaBWlipoD3Cj8HB"
+        },
+        {
+          "name": "Philip Pickett",
+          "url": "https://open.spotify.com/artist/28exjH55NHlMdsQFf64Zrt"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152733,
+      "name": "Concerto for Lute, 2 Violins and Continuo in D major, RV 93: 3. Allegro",
+      "url": "https://open.spotify.com/track/5AvugEaSO6U63G6mJYh3yf"
     },
     {
       "album": {
@@ -399,7 +485,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-11-14",
       "duration_ms": 152733,
       "name": "Concerto for Lute, 2 Violins and Continuo in D major, RV 93: 3. Allegro",
       "url": "https://open.spotify.com/track/7H2DUUv8jWob66vA9yXMeh"
@@ -489,6 +575,40 @@
       "duration_ms": 131560,
       "name": "Concerto In G Major TWV 40:201, For 4 Violins Without Basso Continuo: 1. Largo e staccato",
       "url": "https://open.spotify.com/track/0LWHku6CeveGybTW8tNdlb"
+    },
+    {
+      "album": {
+        "name": "Musiqua Antiqua K\u00f6ln Great Recordings",
+        "url": "https://open.spotify.com/album/22EuMTHEQa1XxemFWlNvZf"
+      },
+      "artists": [
+        {
+          "name": "Georg Philipp Telemann",
+          "url": "https://open.spotify.com/artist/2fg5h5pzleqI4RjFopWroj"
+        },
+        {
+          "name": "Reinhard Goebel",
+          "url": "https://open.spotify.com/artist/6aZcT9sJMlL0yUOrEWa74E"
+        },
+        {
+          "name": "Stephan Schardt",
+          "url": "https://open.spotify.com/artist/7enY64ktybr5iSiQE2Q54K"
+        },
+        {
+          "name": "Julia Huber-Warzecha",
+          "url": "https://open.spotify.com/artist/6DHycNv3bpUD48A1PjWcaG"
+        },
+        {
+          "name": "Mary Utiger",
+          "url": "https://open.spotify.com/artist/2IKneocNFe1WR3rTYXHF0r"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 131560,
+      "name": "Concerto In G Major TWV 40:201, For 4 Violins Without Basso Continuo: 1. Largo e staccato",
+      "url": "https://open.spotify.com/track/0zJbLFXOrRIZPkVjshjfMP"
     },
     {
       "album": {
@@ -669,6 +789,32 @@
       "duration_ms": 321066,
       "name": "Goldberg Variations, BWV 988: Aria",
       "url": "https://open.spotify.com/track/4GFuyvrYOQYDS497hffJXT"
+    },
+    {
+      "album": {
+        "name": "Eternal Heaven - Handel: Suite No. 4 in D Minor: III. Sarabande",
+        "url": "https://open.spotify.com/album/62vVr1NM52Ml0FgR8iH15S"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Jupiter",
+          "url": "https://open.spotify.com/artist/3lJVQgWgaTtaIQxlNEHTpE"
+        },
+        {
+          "name": "Thomas Dunford",
+          "url": "https://open.spotify.com/artist/7ICHkzLMTkSFuLwyzXI5i1"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343680,
+      "name": "Handel: Suite No. 4 in D Minor, HWV 437: III. Sarabande",
+      "url": "https://open.spotify.com/track/5Mwvwi4Zb4CbQAExqLsz5f"
     },
     {
       "album": {
@@ -865,6 +1011,36 @@
       "duration_ms": 139337,
       "name": "Marche pour la c\u00e9r\u00e9monie des Turcs (Jean-Baptiste Lully)",
       "url": "https://open.spotify.com/track/5UO0mq9xiBiwwfA91u8YQn"
+    },
+    {
+      "album": {
+        "name": "Yo-Yo Ma Plays Bach & Boccherini",
+        "url": "https://open.spotify.com/album/357HpmaNigKV7C0JkzGqAN"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Ton Koopman",
+          "url": "https://open.spotify.com/artist/7Fu8GId2mQkNzqDbZbcDWM"
+        },
+        {
+          "name": "Amsterdam Baroque Orchestra",
+          "url": "https://open.spotify.com/artist/2CMg8J0WjftvFR5zFbufVA"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 440133,
+      "name": "Matth\u00e4us-Passion, BWV 244: Erbarme dich mein Gott",
+      "url": "https://open.spotify.com/track/7C4RJO4MT2cPi7b9l4LUCC"
     },
     {
       "album": {
@@ -1328,6 +1504,32 @@
     },
     {
       "album": {
+        "name": "Archiv Produktion - Telemann",
+        "url": "https://open.spotify.com/album/6xF8QIuaES7TH6E35Zkdw5"
+      },
+      "artists": [
+        {
+          "name": "Georg Philipp Telemann",
+          "url": "https://open.spotify.com/artist/2fg5h5pzleqI4RjFopWroj"
+        },
+        {
+          "name": "Musica Antiqua K\u00f6ln",
+          "url": "https://open.spotify.com/artist/3KYehrHWNpYfNMpJe0kBML"
+        },
+        {
+          "name": "Reinhard Goebel",
+          "url": "https://open.spotify.com/artist/6aZcT9sJMlL0yUOrEWa74E"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 498889,
+      "name": "Tafelmusik - Banquet Music In 3 Parts / Production 1 - 3. Concert In A Major, TWV 53:A2: 2. Allegro",
+      "url": "https://open.spotify.com/track/2IjRoLGeBjULnQDw8GNL4T"
+    },
+    {
+      "album": {
         "name": "Rameau, \u00d3lafsson: The Arts and the Hours",
         "url": "https://open.spotify.com/album/4omnRCjOvnHa3ETQlqZpd1"
       },
@@ -1403,10 +1605,44 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 175173,
       "name": "Trio Sonata for 2 Violins and Continuo in G Minor, HWV 393 \"Dresden\" No. 2: III. Largo (Arr. for Oboe, Violin, Harpsichord and Orchestra by Andreas Tarkmann)",
       "url": "https://open.spotify.com/track/244wyQY55kuwTIFa1CGaLS"
+    },
+    {
+      "album": {
+        "name": "Handel - A Classical Morning",
+        "url": "https://open.spotify.com/album/6AwWceiZdd11I67l6l6uPq"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Albrecht Mayer",
+          "url": "https://open.spotify.com/artist/1Mbvbes7vW2Pg3bWD9aDgW"
+        },
+        {
+          "name": "Sinfonia Varsovia",
+          "url": "https://open.spotify.com/artist/4vPl9qrPOZ1pMJNPXIPAzk"
+        },
+        {
+          "name": "Jakub Haufa",
+          "url": "https://open.spotify.com/artist/0D1ATNY4F1idBehqwqCoYH"
+        },
+        {
+          "name": "Monika Razynska",
+          "url": "https://open.spotify.com/artist/2uWiFtRGSmpMXFvaEEEd1z"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 175173,
+      "name": "Trio Sonata for 2 Violins and Continuo in G Minor, HWV 393 \"Dresden\" No. 2: III. Largo (Arr. for Oboe, Violin, Harpsichord and Orchestra by Andreas Tarkmann)",
+      "url": "https://open.spotify.com/track/26Sm1QoIcAq6Y1HOJXRRyG"
     },
     {
       "album": {
@@ -1437,10 +1673,44 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": "2022-11-15",
       "duration_ms": 175173,
       "name": "Trio Sonata for 2 Violins and Continuo in G Minor, HWV 393 \"Dresden\" No. 2: III. Largo (Arr. for Oboe, Violin, Harpsichord and Orchestra by Andreas Tarkmann)",
       "url": "https://open.spotify.com/track/492xOpyuUiVZ74qhKc2e2w"
+    },
+    {
+      "album": {
+        "name": "100 Top Composers - Handel",
+        "url": "https://open.spotify.com/album/5OtWCmvSOADWzARlf2KufG"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Albrecht Mayer",
+          "url": "https://open.spotify.com/artist/1Mbvbes7vW2Pg3bWD9aDgW"
+        },
+        {
+          "name": "Sinfonia Varsovia",
+          "url": "https://open.spotify.com/artist/4vPl9qrPOZ1pMJNPXIPAzk"
+        },
+        {
+          "name": "Jakub Haufa",
+          "url": "https://open.spotify.com/artist/0D1ATNY4F1idBehqwqCoYH"
+        },
+        {
+          "name": "Monika Razynska",
+          "url": "https://open.spotify.com/artist/2uWiFtRGSmpMXFvaEEEd1z"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175173,
+      "name": "Trio Sonata for 2 Violins and Continuo in G Minor, HWV 393 \"Dresden\" No. 2: III. Largo (Arr. for Oboe, Violin, Harpsichord and Orchestra by Andreas Tarkmann)",
+      "url": "https://open.spotify.com/track/6cbvlWe26Dd5nsiIfAPJ8o"
     },
     {
       "album": {

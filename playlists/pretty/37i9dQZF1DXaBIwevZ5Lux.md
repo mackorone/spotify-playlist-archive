@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBIwevZ5Lux.md) - [plain]
 
 > Spend an afternoon jamming to this curated playlist of all Asian and Pacific Islander musicians across genres and geographies!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,229 likes - 40 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,439 likes - 40 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBIwevZ5Lux.md) - [plain]
 | 35 | [In a River](https://open.spotify.com/track/5eum0L07wuKd7Agse5Lgy1) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [In a River](https://open.spotify.com/album/1dmgv74ZmRNaeju9S2rjeA) | 3:43 |
 | 36 | [Mind Over Matter](https://open.spotify.com/track/5Az8KU81g2aLBbJN67F2CI) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Mind Over Matter](https://open.spotify.com/album/3cSzKBfylctgJwqorcNEo2) | 4:04 |
 | 37 | [O Vai \(Who Am I\)](https://open.spotify.com/track/35rxZp3ZdbxMrPaV2x7DBw) | [Boris Way](https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis), [Vaiteani](https://open.spotify.com/artist/4lQP2uFkQMLlWxTfNrqEkP) | [O Vai \(Who Am I\)](https://open.spotify.com/album/1i0oXRu3T8To32BOAB4hde) | 2:28 |
-| 38 | [Like the Movies](https://open.spotify.com/track/4crdHmkZQmNd2hucSIk7dA) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Typical of Me EP](https://open.spotify.com/album/6gGP0HuDvAzkZQk9wQOwdo) | 2:42 |
-| 39 | [Afterglow](https://open.spotify.com/track/661ahmgEHrphIbXHYqxq5n) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Duality](https://open.spotify.com/album/10P8sK3sWqq3IIleoguOmC) | 3:18 |
+| 38 | [Like the Movies](https://open.spotify.com/track/1hUXDEqjNIIbfjTcaz3jzb) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Typical of Me EP](https://open.spotify.com/album/7pooeoqY4uJkTaW70qxm3z) | 2:42 |
+| 39 | [Afterglow](https://open.spotify.com/track/5AOfrE1Sw9wWYfTkL2C7uP) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Duality](https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM) | 3:18 |
 | 40 | [This Is A Life \- Extended](https://open.spotify.com/track/2YDj0uV5P7kKN4gGcUMEJT) | [Son Lux](https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe) | [Everything Everywhere All at Once \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6dJKjotJRGEE9rmGgmxDWu) | 3:35 |
 
-Snapshot ID: `MTY1MTUwOTQ1NCwwMDAwMDAwMDU0MzE4MTUzYWU2MmVhNTE0MGZkOTRjYjM4ZGIyMmYz`
+Snapshot ID: `MTY1MTUwOTQ1NCwwMDAwMDAwMDc2MGRiYzU0NWZmZTI2M2JlNWMyODk2NzdhYTI3ZTU4`

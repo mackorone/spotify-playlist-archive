@@ -4,7 +4,7 @@
 
 > Relax to the sound of a storm setting in.
 
-339 songs - 15 hr 13 min - [published](https://open.spotify.com/playlist/07pEfKM7v7h9efPFw1GRWE)
+341 songs - 15 hr 19 min - [published](https://open.spotify.com/playlist/07pEfKM7v7h9efPFw1GRWE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,7 +269,9 @@
 | [Soothing Rainstorm](https://open.spotify.com/track/5PEATiUtV0CSiIczAYLSUx) | [Selectrodynamic](https://open.spotify.com/artist/1j033u02dVCxPIy3yXkAAB) | [Relaxation Storm](https://open.spotify.com/album/6YGgvY6PR6WN4Go2sm5BfK) | 2:18 | 2021-11-10 |  |
 | [Soothing White Noise](https://open.spotify.com/track/1T0C4DveHbOHeRPpkhRsRx) | [Complete Effects](https://open.spotify.com/artist/4iLKASNsDZRymGoeg3MmSX) | [Complete Effects](https://open.spotify.com/album/7ILOuL88QvAP5YEbBhVbWQ) | 2:24 | 2021-11-10 |  |
 | [Sound Of Rain](https://open.spotify.com/track/2pO4VCd6vKG1XjzxlNvGPd) | [Rain ZPE](https://open.spotify.com/artist/5btXRFPLxDHay7eed3kHLd) | [Falling Clouds](https://open.spotify.com/album/6wGZLw1MBKZQVLelPdBoDJ) | 2:00 | 2021-11-10 |  |
-| [starlit rainfall](https://open.spotify.com/track/7gkwTHnQ1QxWcM6HDBOqXo) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [starlit rainfall](https://open.spotify.com/album/2sknFZDDYwy2o1zlnkg4iN) | 2:41 | 2021-11-10 |  |
+| [starlit rainfall](https://open.spotify.com/track/1SKqicEoNoTQp1XEmXTlcM) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [starlit rainfall](https://open.spotify.com/album/0b4L0c4mNqezstudoXa0Uy) | 2:41 | 2022-07-18 | 2022-11-13 |
+| [starlit rainfall](https://open.spotify.com/track/7CLQUiUTBqBtjZHHkSVNuf) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [peaceful showers \(rain\)](https://open.spotify.com/album/5EmHKVBfrBkmHT4PlOd39x) | 2:41 | 2022-07-18 |  |
+| [starlit rainfall](https://open.spotify.com/track/7gkwTHnQ1QxWcM6HDBOqXo) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [starlit rainfall](https://open.spotify.com/album/2sknFZDDYwy2o1zlnkg4iN) | 2:41 | 2021-11-10 | 2022-10-14 |
 | [Starting to rain](https://open.spotify.com/track/7dkQRyEnWGmki1fGtkvGAW) | [The Wet](https://open.spotify.com/artist/2IgElvWe0O1lxnnW4XPmNE) | [Rain outside my window](https://open.spotify.com/album/4EdscJEihXupZqV6UaKAhc) | 3:32 | 2021-11-10 |  |
 | [Stetiger Regen](https://open.spotify.com/track/3vwZ7YcQ24GtvvuWQTRcXO) | [Die ganze Nacht](https://open.spotify.com/artist/1OcoltzN3WhJYzAoAtf0Xl) | [Regen die ganze Nacht](https://open.spotify.com/album/1lzDK9FfV0KxJgAbOvYm1s) | 2:11 | 2021-11-10 |  |
 | [Storm Ahead](https://open.spotify.com/track/4kHA1o1prccwstvGjPAUkP) | [Taranis](https://open.spotify.com/artist/1NJVAyxYtsmOu8aiWyVpaH) | [Celtic Storm](https://open.spotify.com/album/5CFVwpOfT7S8GZ5stbFQbn) | 3:12 | 2021-11-10 |  |

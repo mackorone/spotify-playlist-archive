@@ -175,6 +175,28 @@
     {
       "album": {
         "name": "ELDOVAR - A Story of Darkness & Light",
+        "url": "https://open.spotify.com/album/3598rImSp7s7aaOkQZFGme"
+      },
+      "artists": [
+        {
+          "name": "Kadavar",
+          "url": "https://open.spotify.com/artist/0FfuujZJUa7Z2JzhhiPI2z"
+        },
+        {
+          "name": "Elder",
+          "url": "https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 664413,
+      "name": "Blood Moon Night",
+      "url": "https://open.spotify.com/track/2KHMoCEEB4ILFrjIufKKMK"
+    },
+    {
+      "album": {
+        "name": "ELDOVAR - A Story of Darkness & Light",
         "url": "https://open.spotify.com/album/2SN8LGMcmauPEAr4BLiT6e"
       },
       "artists": [
@@ -189,7 +211,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 664413,
       "name": "Blood Moon Night",
       "url": "https://open.spotify.com/track/4Z4RfWMnxsBG7Fs5KvEVGY"
@@ -229,6 +251,24 @@
       "duration_ms": 407999,
       "name": "Broken",
       "url": "https://open.spotify.com/track/0ptQlbSYNp8yKAtHWKRB3f"
+    },
+    {
+      "album": {
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/1xYzQiyuN22148NQClXDd0"
+      },
+      "artists": [
+        {
+          "name": "The Flower Kings",
+          "url": "https://open.spotify.com/artist/0BI5vXwUl4lZMtARfXQ0No"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 407999,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/54vAjEj8qRM4cwYCCQWb31"
     },
     {
       "album": {
@@ -340,6 +380,28 @@
     },
     {
       "album": {
+        "name": "Remember That You Will Die",
+        "url": "https://open.spotify.com/album/1BJtoy1VgHMMvotBwvylJ5"
+      },
+      "artists": [
+        {
+          "name": "Polyphia",
+          "url": "https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ"
+        },
+        {
+          "name": "Steve Vai",
+          "url": "https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350085,
+      "name": "Ego Death (feat. Steve Vai)",
+      "url": "https://open.spotify.com/track/7xyvWSVkxaoLdSuEdgdhBe"
+    },
+    {
+      "album": {
         "name": "THE FUTURE BITES",
         "url": "https://open.spotify.com/album/76hVw7WdMkDylaMlW0X8Ol"
       },
@@ -355,6 +417,24 @@
       "duration_ms": 232928,
       "name": "EMINENT SLEAZE",
       "url": "https://open.spotify.com/track/0eAdGn6Eltul066nbNPpua"
+    },
+    {
+      "album": {
+        "name": "THE FUTURE BITES (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0tHQTsZepeMpMqgtBdaFRx"
+      },
+      "artists": [
+        {
+          "name": "Steven Wilson",
+          "url": "https://open.spotify.com/artist/4X42BfuhWCAZ2swiVze9O0"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 232928,
+      "name": "EMINENT SLEAZE",
+      "url": "https://open.spotify.com/track/4S9n0DUrSZWzBL3fooRlDD"
     },
     {
       "album": {
@@ -387,7 +467,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 292560,
       "name": "Eyes",
       "url": "https://open.spotify.com/track/1k4I5nWbRFlaQgSbH8oLZ3"
@@ -405,10 +485,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-10-21",
       "duration_ms": 292560,
       "name": "Eyes",
       "url": "https://open.spotify.com/track/2Aynxq3QreZhoS58B7WU27"
+    },
+    {
+      "album": {
+        "name": "Radiant Bloom",
+        "url": "https://open.spotify.com/album/5ByR2W7N4vZlpsdkZOahIS"
+      },
+      "artists": [
+        {
+          "name": "Astronoid",
+          "url": "https://open.spotify.com/artist/2S13OV7nLeciVigE0Wxo7E"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292560,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/4aiHWfoe3Z3dwIvR7uNAGo"
     },
     {
       "album": {
@@ -463,6 +561,24 @@
       "duration_ms": 221080,
       "name": "Fountainhead",
       "url": "https://open.spotify.com/track/2ThzCmB4XAQs1IKn7YCQuJ"
+    },
+    {
+      "album": {
+        "name": "Escapades (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6IIGmXZ78EtQTakhXh66k0"
+      },
+      "artists": [
+        {
+          "name": "The Omnific",
+          "url": "https://open.spotify.com/artist/5yn8jrJH5Z5PaGFStNUvgR"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 221080,
+      "name": "Fountainhead",
+      "url": "https://open.spotify.com/track/51n85McBXIxLCKCUWvakYc"
     },
     {
       "album": {
@@ -628,6 +744,24 @@
     },
     {
       "album": {
+        "name": "Immunity",
+        "url": "https://open.spotify.com/album/12uUup39GCE3ZFTUvbp3ob"
+      },
+      "artists": [
+        {
+          "name": "Long Distance Calling",
+          "url": "https://open.spotify.com/artist/3SiCxhceGZgzusCLHd4Zz6"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 340146,
+      "name": "Immunity",
+      "url": "https://open.spotify.com/track/4vfOgcDgNfKJZZlDyQObPQ"
+    },
+    {
+      "album": {
         "name": "How Do We Want to Live?",
         "url": "https://open.spotify.com/album/248Nx17GVrcWKjDH8JKqGm"
       },
@@ -769,6 +903,24 @@
       "duration_ms": 246026,
       "name": "KING GHOST",
       "url": "https://open.spotify.com/track/1sNEW5TWdN1Et70SwaTi7o"
+    },
+    {
+      "album": {
+        "name": "THE FUTURE BITES (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0tHQTsZepeMpMqgtBdaFRx"
+      },
+      "artists": [
+        {
+          "name": "Steven Wilson",
+          "url": "https://open.spotify.com/artist/4X42BfuhWCAZ2swiVze9O0"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 246026,
+      "name": "KING GHOST",
+      "url": "https://open.spotify.com/track/42c46DbtEW7AKJijbfhZmd"
     },
     {
       "album": {
@@ -1006,6 +1158,24 @@
     },
     {
       "album": {
+        "name": "Raining Hard in Heaven",
+        "url": "https://open.spotify.com/album/58wt8eVfJX3Hr9B9HrlWHt"
+      },
+      "artists": [
+        {
+          "name": "Pattern-Seeking Animals",
+          "url": "https://open.spotify.com/artist/3X2gxHjnxuXGLgs0nrqMuW"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 511088,
+      "name": "Raining Hard in Heaven",
+      "url": "https://open.spotify.com/track/1cWjXUH01GLNqv338A69Od"
+    },
+    {
+      "album": {
         "name": "Prehensile Tales",
         "url": "https://open.spotify.com/album/77hPi3aKn8PRfcyh7GUjqY"
       },
@@ -1071,10 +1241,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 231179,
       "name": "Right Way Back",
       "url": "https://open.spotify.com/track/0GWtq4OpB8fylZWRnrYuwS"
+    },
+    {
+      "album": {
+        "name": "Discover Crown Lands",
+        "url": "https://open.spotify.com/album/2H8QnNAriPg1S0X5R45Itq"
+      },
+      "artists": [
+        {
+          "name": "Crown Lands",
+          "url": "https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231179,
+      "name": "Right Way Back",
+      "url": "https://open.spotify.com/track/3ErQbRuLdafRrhIf8Ceefa"
     },
     {
       "album": {
@@ -1096,8 +1284,44 @@
     },
     {
       "album": {
+        "name": "Love Me & Love Me",
+        "url": "https://open.spotify.com/album/7ELqN2yBpbH9ToLbmFVeXA"
+      },
+      "artists": [
+        {
+          "name": "Crown Lands",
+          "url": "https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 231179,
+      "name": "Right Way Back",
+      "url": "https://open.spotify.com/track/6zbBYMUZHrURYziUfFVgJw"
+    },
+    {
+      "album": {
         "name": "Rise, Naianasha (Cut The Cord)",
         "url": "https://open.spotify.com/album/2zGZlGvfC5yrZO6YXhIF8p"
+      },
+      "artists": [
+        {
+          "name": "Coheed and Cambria",
+          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
+      "duration_ms": 319114,
+      "name": "Rise, Naianasha (Cut The Cord)",
+      "url": "https://open.spotify.com/track/1wjRnRqstnMDmO3CbOL6AL"
+    },
+    {
+      "album": {
+        "name": "Vaxis II: A Window of the Waking Mind",
+        "url": "https://open.spotify.com/album/5YRtvIMApwxnUTcWUBcaON"
       },
       "artists": [
         {
@@ -1110,7 +1334,7 @@
       "date_removed": null,
       "duration_ms": 319114,
       "name": "Rise, Naianasha (Cut The Cord)",
-      "url": "https://open.spotify.com/track/1wjRnRqstnMDmO3CbOL6AL"
+      "url": "https://open.spotify.com/track/4N5o8PH1oxWVMbCDZqABqe"
     },
     {
       "album": {
@@ -1129,6 +1353,24 @@
       "duration_ms": 397981,
       "name": "Roulette Dares (The Haunt Of) - Unfinished Original Recordings Of De-Loused In The Comatorium",
       "url": "https://open.spotify.com/track/72n2oDjYMs6kK9jKIIkY5k"
+    },
+    {
+      "album": {
+        "name": "Head First",
+        "url": "https://open.spotify.com/album/7EEhufz4k2e5Vvhe94QSl8"
+      },
+      "artists": [
+        {
+          "name": "Head First",
+          "url": "https://open.spotify.com/artist/0afcetY24N4RXaaw7KgNaG"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315240,
+      "name": "Sand Castles",
+      "url": "https://open.spotify.com/track/1veybHpjhAehZ9tM2ftDVD"
     },
     {
       "album": {
@@ -1161,7 +1403,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 315240,
       "name": "Sand Castles",
       "url": "https://open.spotify.com/track/6OnldEmtrkeWxgPrkPhxwQ"
@@ -1222,6 +1464,24 @@
     },
     {
       "album": {
+        "name": "Vaxis II: A Window of the Waking Mind",
+        "url": "https://open.spotify.com/album/5YRtvIMApwxnUTcWUBcaON"
+      },
+      "artists": [
+        {
+          "name": "Coheed and Cambria",
+          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204408,
+      "name": "Shoulders",
+      "url": "https://open.spotify.com/track/18sNKn7b6TePLS8ufyc17y"
+    },
+    {
+      "album": {
         "name": "Shoulders",
         "url": "https://open.spotify.com/album/1foAheWx5434SZa2TxIkxO"
       },
@@ -1233,7 +1493,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 205205,
       "name": "Shoulders",
       "url": "https://open.spotify.com/track/4o7yTUS7EFgYOcFDyN8U27"
@@ -1587,6 +1847,24 @@
       "duration_ms": 439874,
       "name": "The Siren",
       "url": "https://open.spotify.com/track/7iZ3bfgcXOfdteVX4q97ro"
+    },
+    {
+      "album": {
+        "name": "The Siren",
+        "url": "https://open.spotify.com/album/1ORb5QUdzt3oeaaJ9fBTVo"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rn Riis",
+          "url": "https://open.spotify.com/artist/0itkMtdd5OVeG2FFDE7J6z"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 439874,
+      "name": "The Siren",
+      "url": "https://open.spotify.com/track/7johOBc0316B5vEvbGidf1"
     },
     {
       "album": {

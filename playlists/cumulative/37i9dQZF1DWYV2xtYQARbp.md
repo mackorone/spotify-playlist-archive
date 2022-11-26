@@ -4,7 +4,7 @@
 
 > That fuzzy, noisy punk\-blues hybrid
 
-59 songs - 3 hr 15 min - [published](https://open.spotify.com/playlist/1p2RiftJCMyvTVNCgyg4PN)
+60 songs - 3 hr 22 min - [published](https://open.spotify.com/playlist/1p2RiftJCMyvTVNCgyg4PN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [I'll Wait](https://open.spotify.com/track/2iQiWJRPlCV0nC9AgenOkU) | [The Dirtbombs](https://open.spotify.com/artist/4wPKtZH8mW0PdLeWPneweb) | [Ultraglide In Black](https://open.spotify.com/album/5dUbfMC2mz6nB9mIZlTV4z) | 3:00 | 2022-03-28 |  |
 | [Ida Honey \(Tell Me You'll Be Mine\)](https://open.spotify.com/track/1cvo2lJ0ui4OQ0n5y3ZUZV) | [The Milkshakes](https://open.spotify.com/artist/02jy0SdsT0bP4Hn0QkQTeG) | [Nothing Can Stop These Men](https://open.spotify.com/album/7KZAq0y0mk1uCx69axAzO7) | 2:15 | 2022-03-28 |  |
 | [Insylum](https://open.spotify.com/track/644lYw5mjg4Ja1saKnpIXK) | [Oxbow](https://open.spotify.com/artist/4m47y2u5lJBKbakAv5YAh1) | [Serenade in Red](https://open.spotify.com/album/6KmMuPrapXIwvYobrSrlKh) | 6:10 | 2022-03-28 |  |
+| [Insylum](https://open.spotify.com/track/7zoYk1BYN3xhUv3LBa75Yr) | [Oxbow](https://open.spotify.com/artist/4m47y2u5lJBKbakAv5YAh1) | [Love That's Last: A Wholly Hypnographic and Disturbing Work Regarding Oxbow](https://open.spotify.com/album/4vNufyxmoWUWnbxcYehLix) | 6:12 | 2022-03-28 | 2022-11-13 |
 | [Isolation](https://open.spotify.com/track/5WQVHv1Vw8VRE904vPsLsL) | [Heavy Trash](https://open.spotify.com/artist/1EDKHddaLUxX4ueVGJOGUr) | [Midnight Soul Serenade](https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS) | 3:24 | 2022-03-28 |  |
 | [Juice To Get Loose](https://open.spotify.com/track/22iRJyuVt7nm19ww7pRHKu) | [Left Lane Cruiser](https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf) | [Rock Them Back to Hell](https://open.spotify.com/album/69r2ctILSEOWoln10Cv7pL) | 2:23 | 2022-03-28 |  |
 | [Just One More](https://open.spotify.com/track/4rkGGnL3BM7t6JEsb2cw5G) | [Gallon Drunk](https://open.spotify.com/artist/1Stl5FcIQtQcRv30wlnH2b) | [You, The Night… and The Music](https://open.spotify.com/album/1OpcN4cNMDl8O0y5tPftwP) | 3:55 | 2022-03-28 |  |

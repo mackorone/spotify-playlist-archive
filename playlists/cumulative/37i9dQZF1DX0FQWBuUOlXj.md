@@ -4,7 +4,7 @@
 
 > The official playlist for After Life, curated by Ricky Gervais\. Watch on Netflix.
 
-53 songs - 4 hr 10 min - [published](https://open.spotify.com/playlist/4inUUkb748ZVOhsVuP6XCq)
+55 songs - 4 hr 18 min - [published](https://open.spotify.com/playlist/4inUUkb748ZVOhsVuP6XCq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,8 @@
 | [We Try to Make Sense of It All](https://open.spotify.com/track/3ktYqSOe2lpIZ7pLP8YLr3) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Silencia](https://open.spotify.com/album/5g9CwdPva16mAs8ZBOexI4) | 3:56 | 2022-01-13 |  |
 | [Will You Ever Love Yourself?](https://open.spotify.com/track/4R3GdFZdmY2ase6ULLCVtW) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Raising Your Voice..\. Trying to Stop an Echo \(Deluxe Edition\)](https://open.spotify.com/album/2AbCfihy80zuR1mPwN5yLl) | 5:46 | 2022-01-13 |  |
 | [You've Got a Friend](https://open.spotify.com/track/5ONuwMIXAukbMNQCCSjjm0) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Greatest Hits](https://open.spotify.com/album/2L4U4JjEADYaVltkvDrkCC) | 4:28 | 2022-01-13 |  |
-| [Youth](https://open.spotify.com/track/4AmcmraFjVzFb9SQDNTRyl) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/31LehqnrVyTuEBEKeXeqVx) | 4:13 | 2022-01-13 |  |
+| [Youth](https://open.spotify.com/track/6qLLFgywJ33KvxXAQIf6Xt) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [A Long Way Down \- Original Motion Picture Soundtrack](https://open.spotify.com/album/2fpTGzqv5Cl2L590tw08zE) | 4:08 | 2022-01-13 | 2022-11-13 |
+| [Youth](https://open.spotify.com/track/0UPMxtinlgA1dkne9PAKTW) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM) | 4:13 | 2022-01-13 |  |
+| [Youth](https://open.spotify.com/track/4AmcmraFjVzFb9SQDNTRyl) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/31LehqnrVyTuEBEKeXeqVx) | 4:13 | 2022-01-13 | 2022-10-14 |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

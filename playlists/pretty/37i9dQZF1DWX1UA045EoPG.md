@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1UA045EoPG.md) - [plain]
 
 > Sunny beats and the latest heat to soundtrack your summer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,276 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,941 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1UA045EoPG.md) - [plain]
 | 34 | [Ladders](https://open.spotify.com/track/39NDBdU5Xkm5pCFGa5kZtI) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Swimming](https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk) | 4:47 |
 | 35 | [Way Out](https://open.spotify.com/track/3CiBI1yRg9oUygxCOXlxUq) | [ABIR](https://open.spotify.com/artist/3QUOtWgmuxFyae4C0Q0thd) | [Way Out](https://open.spotify.com/album/0mZWmkD3zpDu8qEnGHl5oI) | 3:19 |
 | 36 | [Goodbyes \(feat\. Method Man\)](https://open.spotify.com/track/1YItRRQXVa3GtFSZ0RmgXA) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Goodbyes \(feat\. Method Man\)](https://open.spotify.com/album/4mo8TcrCcCfn4bjZmpgyIC) | 3:21 |
-| 37 | [Changed](https://open.spotify.com/track/1eqUhiAigR4rtx5EmZkiNl) | [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU) | [Changed](https://open.spotify.com/album/1PyVw5kgM8EZGH0BABIvTK) | 3:50 |
-| 38 | [Disco Yes](https://open.spotify.com/track/61Ivix5DTnDPVjp1dgLyov) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 4:40 |
+| 37 | [Changed](https://open.spotify.com/track/1eqUhiAigR4rtx5EmZkiNl) | [iamalex](https://open.spotify.com/artist/1VGj7BaUru5Te0iAl36oXm), [Hip Dozer](https://open.spotify.com/artist/4MtoPS2GV2hUxacTHz9J6p) | [Changed](https://open.spotify.com/album/1PyVw5kgM8EZGH0BABIvTK) | 3:50 |
+| 38 | [Disco Yes](https://open.spotify.com/track/2fvdQ1Uq04qE4RLN5zKBXS) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [Geography](https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW) | 4:40 |
 | 39 | [MPH](https://open.spotify.com/track/7tzRTFrsbmx9M4O8iQug7H) | [MIKNNA](https://open.spotify.com/artist/53htGvuREf9YT5LYk5HEvb) | [MPH](https://open.spotify.com/album/7MBwB6nRv4cikVJEWevUHU) | 3:33 |
 | 40 | [Change](https://open.spotify.com/track/7HPoNHUAZaXkMFoKUL8Dah) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Joy, Ease, Lightness](https://open.spotify.com/album/5ybMFVNupOM0QpV9d8hciD) | 4:35 |
 | 41 | [Someone That You Love](https://open.spotify.com/track/3S2LNcyJre3hvJbPTcoghO) | [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW), [Olivia Nelson](https://open.spotify.com/artist/4QJrAwNc5j17E5N2PxpqGj) | [Someone That You Love](https://open.spotify.com/album/3luWrggbv1wxvfwB7mxHtR) | 2:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1UA045EoPG.md) - [plain]
 | 49 | [Getaway](https://open.spotify.com/track/0SOg0VldvpnbaPZfS4ZXgJ) | [Shibo](https://open.spotify.com/artist/73BkLU3tOvi55IkQXWGFFy) | [Getaway](https://open.spotify.com/album/1RcahBHAZTy2HroE7F4F1f) | 2:16 |
 | 50 | [Left & Right](https://open.spotify.com/track/5N6d8ri3KFmAhVIXGydnLN) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs), [Aréna](https://open.spotify.com/artist/7tVzCaZxXnF83cqVVcJ15j) | [Left & Right](https://open.spotify.com/album/7ELdoHPpEJ9uOdM02EzBXL) | 3:08 |
 
-Snapshot ID: `MTY2NDI2OTY3NCwwMDAwMDAwMGQwYTA1Y2EyYTc2NGEwMTZkYTdiOGRkNDMzOTJiMTRk`
+Snapshot ID: `MTY2NDI2OTY3NCwwMDAwMDAwMDNhODEzZGRkZTA3ZjkxNDRhZjUyMzhiNzE4NjY0ZGQz`

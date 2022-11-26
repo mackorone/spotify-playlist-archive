@@ -4,7 +4,7 @@
 
 > Experience the best of live worship here\. Cover: Hillsong Worship
 
-184 songs - 19 hr 14 min - [published](https://open.spotify.com/playlist/0s8QQefwdwJjE5Nq6dWGT4)
+185 songs - 19 hr 18 min - [published](https://open.spotify.com/playlist/0s8QQefwdwJjE5Nq6dWGT4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [This Is the Kingdom \(feat\. Pat Barrett\)](https://open.spotify.com/track/09nZs5kd1OqEhCRxyweUXr) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [This Is the Kingdom \(feat\. Pat Barrett\)](https://open.spotify.com/album/2iaZTJa0PTUnfBOmTvSAmd) | 9:57 | 2022-02-19 | 2022-03-21 |
 | [To Be Known](https://open.spotify.com/track/3UHZO7O6BIeZI3cmXPsuBl) | [Tekoa](https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI), [Rory Mckenna](https://open.spotify.com/artist/3nfMxP6LLKjO9D6BfSmg2c), [Shady Gendy](https://open.spotify.com/artist/7theWETX3Dtvm23jQVDtHp) | [To Be Known](https://open.spotify.com/album/6mJ9AmbqYdjhi4Xgb4PHEx) | 4:19 | 2022-03-19 | 2022-07-29 |
 | [To Be Known](https://open.spotify.com/track/4tTzvoeIC5Xts0FeFKgmCB) | [Tekoa](https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI), [Rory Mckenna](https://open.spotify.com/artist/3nfMxP6LLKjO9D6BfSmg2c), [Shady Gendy](https://open.spotify.com/artist/7theWETX3Dtvm23jQVDtHp) | [To Be Known](https://open.spotify.com/album/3p36MULLWPQRmTzAsZtAd6) | 4:19 | 2022-03-19 |  |
+| [To Be Known](https://open.spotify.com/track/7yLM6nhfm42Z3OGQThZ2N1) | [Tekoa](https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI), [Rory Mckenna](https://open.spotify.com/artist/3nfMxP6LLKjO9D6BfSmg2c), [Shady Gendy](https://open.spotify.com/artist/7theWETX3Dtvm23jQVDtHp) | [Hymns + Disparity](https://open.spotify.com/album/2HWxsVil1BGXvWhSZ55M8f) | 4:19 | 2022-09-17 | 2022-11-13 |
 | [To The One Who Is Seated On The Throne \- Live](https://open.spotify.com/track/3zc8HnAS2WJ7VNsV1OEt13) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Toma Tu Lugar](https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h), [Elyssa Smith](https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF), [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I), [Lucas Conslie](https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1) | [To The One Who Is Seated On The Throne \(Live\)](https://open.spotify.com/album/2ByngD9J0kQSo9tUgiPiZh) | 11:08 | 2022-03-19 |  |
 | [Trust You \- Live](https://open.spotify.com/track/6K5AjBfyrCFN757OpBsi7f) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1) | [Trust You \(Live\)](https://open.spotify.com/album/79zZa2uuAp0PaHFWRj8tCK) | 4:58 | 2022-09-11 |  |
 | [Unforgettable Love \- Live](https://open.spotify.com/track/4J5LZvU1CK1rdlxi77znkg) | [Victory Worship](https://open.spotify.com/artist/5xoFIcjRRy0KJV4U1yWrrs), [Jeremiah Mateola](https://open.spotify.com/artist/0ZfNmKnIS3AkQNqf4HFQTY), [Rozanne Hodgetts](https://open.spotify.com/artist/14fiyawUXDIsruSLGvFHgl) | [Unforgettable Love \(Live\)](https://open.spotify.com/album/62K3S76Jml8pmINYjgABVO) | 4:10 | 2022-02-19 | 2022-09-12 |

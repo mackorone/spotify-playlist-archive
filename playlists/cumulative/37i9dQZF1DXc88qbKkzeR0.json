@@ -618,6 +618,24 @@
     },
     {
       "album": {
+        "name": "#1's",
+        "url": "https://open.spotify.com/album/4ikTC4M0HHUnbViQn1NfEU"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 227906,
+      "name": "Jumpin', Jumpin'",
+      "url": "https://open.spotify.com/track/7tY0cefVOJWQkZ9Xt65KCp"
+    },
+    {
+      "album": {
         "name": "The Writing's On The Wall",
         "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
       },

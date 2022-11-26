@@ -4,7 +4,7 @@
 
 > Essential kids songs to add to your family's collection.
 
-115 songs - 5 hr 31 min - [published](https://open.spotify.com/playlist/3HIzMT3q1KCJeS8LLq1zbk)
+118 songs - 5 hr 40 min - [published](https://open.spotify.com/playlist/3HIzMT3q1KCJeS8LLq1zbk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Happy](https://open.spotify.com/track/4eIcJB2WLB3zO9DQhFfPMi) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Happy](https://open.spotify.com/album/5189p9yylbMmBdzbMUtH09) | 2:03 | 2022-04-15 |  |
 | [Hello World \- from "Back to the Outback" soundtrack](https://open.spotify.com/track/3O4FgcbCzg3Wm7Pg0ezMzM) | [Evie Irie](https://open.spotify.com/artist/2ReivzVeWl6GawKNyVTLmK) | [Hello World \(from "Back to the Outback" soundtrack\)](https://open.spotify.com/album/7obvzZVywrczcOAnSaOS91) | 2:36 | 2022-04-15 |  |
 | [Hey Little Heart](https://open.spotify.com/track/2ZJVZ8DSgcyz5qAqpkhmJv) | [Little Ripples](https://open.spotify.com/artist/4GucBSEcHamouGFsjPnAbZ) | [In My Garden](https://open.spotify.com/album/18p9FPbUlOrXgquY9xucjs) | 2:41 | 2022-04-15 | 2022-07-29 |
+| [Hey Little Heart](https://open.spotify.com/track/4tNfOvzC709Jjw20H0VBv2) | [Little Ripples](https://open.spotify.com/artist/4GucBSEcHamouGFsjPnAbZ) | [Hey Little Heart](https://open.spotify.com/album/0BVkMt0XuRNRU2SXdSOxVo) | 2:41 | 2022-10-07 | 2022-11-13 |
 | [Hey Little Heart](https://open.spotify.com/track/7lNWxEfi2bySX6IaPwX4GE) | [Little Ripples](https://open.spotify.com/artist/4GucBSEcHamouGFsjPnAbZ) | [In My Garden](https://open.spotify.com/album/2D8ZsWo3AN7YzzmUYVbAA3) | 2:41 | 2022-07-25 |  |
 | [Hide and Seek](https://open.spotify.com/track/0x8qnlBomm4AaM4U0CYMsK) | [The Zing Zangs](https://open.spotify.com/artist/2SWcpBbgCZbpKV3FtGafez), [Mista Cookie Jar](https://open.spotify.com/artist/0HL2EVwbtbmTaUirGt9hWt) | [Hide and Seek](https://open.spotify.com/album/186DtJ2hwhU7n0zCkc7URN) | 2:40 | 2022-04-15 |  |
 | [I Am a Loose Balloon](https://open.spotify.com/track/28E1knyhQfRiNTxmBIk3Wr) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n) | [Easy Breezy!](https://open.spotify.com/album/6eresS8fJq05Eg8bpztUv2) | 2:40 | 2022-04-15 |  |
@@ -105,7 +106,8 @@
 | [That's My Jam](https://open.spotify.com/track/7CB3LgsiVtE8cSyvPvgcVA) | [Gabe Bondoc](https://open.spotify.com/artist/6YloMIsWjpHzIRK8s5tzAr) | [That's My Jam](https://open.spotify.com/album/58FLYqIhOzYMgxN8MRCfaq) | 3:13 | 2022-04-15 |  |
 | [The Coolest Person](https://open.spotify.com/track/2m7NtrQMIghZEUgsRVwjQV) | [Koo Koo Kanga Roo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Whoopty Whoop](https://open.spotify.com/album/6ophnm6Vp3brWGK8NvldMT) | 3:14 | 2022-04-15 |  |
 | [The Loud Mouse Song](https://open.spotify.com/track/5WZJikNC4n12C5iQ11hn7X) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [The Loud Mouse Song](https://open.spotify.com/album/0s8Cx1aQq0AGYX2XTwYG1T) | 3:13 | 2022-09-27 |  |
-| [The Lucky One](https://open.spotify.com/track/48rA2haWWYLdLIlsPMck1k) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [The Lucky One](https://open.spotify.com/album/1haZSJC7WyeclZe3Hes4UX) | 3:39 | 2022-07-25 |  |
+| [The Lucky One](https://open.spotify.com/track/48rA2haWWYLdLIlsPMck1k) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [The Lucky One](https://open.spotify.com/album/1haZSJC7WyeclZe3Hes4UX) | 3:39 | 2022-07-25 | 2022-10-13 |
+| [The Lucky One](https://open.spotify.com/track/56H7ChmRXYt092T3qwjARD) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [The Lucky One](https://open.spotify.com/album/2Qjp6JMCIVm3582SkJMere) | 3:39 | 2022-10-07 |  |
 | [The Road to Gettin' Better \(Is Not a Straight Line\)](https://open.spotify.com/track/6Pyfervdg8n1gKIoodYvjd) | [Peanut Butter Jams](https://open.spotify.com/artist/2kvrXvmS6qLg14n8Z9WZZq) | [The Road to Gettin' Better](https://open.spotify.com/album/0qlhy1LzuxFCPdOsXfKxgC) | 2:52 | 2022-04-15 |  |
 | [The Word is Love](https://open.spotify.com/track/7lqd7pWvJgsCdyecGibcAy) | [Alphabet Rockers](https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04), [Mista Cookie Jar](https://open.spotify.com/artist/0HL2EVwbtbmTaUirGt9hWt) | [The Word is Love](https://open.spotify.com/album/47FJMtS7LjWDAUD1r7ErEr) | 3:29 | 2022-04-15 |  |
 | [They're My Best Friend](https://open.spotify.com/track/76e4Y6ZjidFjQxqGHbwBgY) | [Ants on a Log](https://open.spotify.com/artist/6FhfWrn7f8y6OI8JZV2P3g) | [They're My Best Friend](https://open.spotify.com/album/77NL4EMlY4zMUn3OnhmmLL) | 2:12 | 2022-04-15 |  |
@@ -113,6 +115,7 @@
 | [This Song Belongs to You](https://open.spotify.com/track/54kCoe6ix7rXjFym0nqiHh) | [YolanDa](https://open.spotify.com/artist/4hm4WFGcx2tbuHgHkGGLjq), [YolanDa Brown](https://open.spotify.com/artist/4VGGxAkrs07Y4vyCdiaxq0) | [YolanDa's Band Jam](https://open.spotify.com/album/5ao41Lw4krw6XAn8KI0jbc) | 3:10 | 2022-04-15 |  |
 | [Tiny Dino](https://open.spotify.com/track/5eYOfJIwuKCdBEqTtCVK2f) | [Andrew & Polly](https://open.spotify.com/artist/49jFRUETZfd3qMb92TcWda) | [Ear Snacks: Songs from the Podcast](https://open.spotify.com/album/1SAuvDHBx9WMa3Vo2c6VTu) | 2:18 | 2022-04-15 |  |
 | [Tomorrow](https://open.spotify.com/track/36q9e2bci1iIm9e1zlJ8y0) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tomorrow](https://open.spotify.com/album/32J3TIXdYC4fQpK8IFhTDX) | 2:43 | 2022-04-15 |  |
+| [Under My Nose](https://open.spotify.com/track/6xZbvUXNxKEBCDsFrCDNTJ) | [Willow City](https://open.spotify.com/artist/6uD8hO8znBlZOnmSLpMadV) | [Under My Nose](https://open.spotify.com/album/20wXwI3kIxW7QL0YsI8h3S) | 3:04 | 2022-11-14 |  |
 | [Way of Looking at the World](https://open.spotify.com/track/7GbJKpbxlUIqnQZ2a0yHxr) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Way of Looking at the World](https://open.spotify.com/album/6hoUQ7E6ptjW7KNRZHsT9j) | 2:45 | 2022-04-15 |  |
 | [We Go Together Very Well](https://open.spotify.com/track/4RhmeK90NGyJ5bplwVjj0u) | [Little Miss Ann](https://open.spotify.com/artist/0G7JrLPvqOjHcv891aUiUb) | [28 Days](https://open.spotify.com/album/2p5QfPVnqGhJDtrntQpX7Z) | 3:04 | 2022-04-15 |  |
 | [We Got This](https://open.spotify.com/track/6WDR423psynPi9xh6DrGAD) | [Erica Rabner](https://open.spotify.com/artist/3u7iISrtnnqsAGE8gIovMg) | [We Got This](https://open.spotify.com/album/3muDxQozNwlTlj4lMbPiSq) | 2:50 | 2022-04-15 |  |

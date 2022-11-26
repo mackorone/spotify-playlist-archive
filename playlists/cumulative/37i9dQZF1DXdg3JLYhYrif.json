@@ -267,7 +267,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": "2022-10-12",
       "duration_ms": 176933,
       "name": "Aquele 1% (feat. Wesley Safad\u00e3o)",
       "url": "https://open.spotify.com/track/3m8Ndnhd8u1VuSlu75hy7D"
@@ -467,7 +467,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-18",
+      "date_removed": null,
       "duration_ms": 190280,
       "name": "Bang",
       "url": "https://open.spotify.com/track/1Cml3fnCNLZUC1EEtkcgVb"
@@ -706,6 +706,28 @@
     },
     {
       "album": {
+        "name": "Gustavo Mioto Ao Vivo Em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/7LTRGI9fTyJjXxYIuGjGQy"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170506,
+      "name": "Coladinha Em Mim - Ao Vivo",
+      "url": "https://open.spotify.com/track/3JagAY5Y8YzEJDXNPcR5gZ"
+    },
+    {
+      "album": {
         "name": "Ao Vivo em S\u00e3o Paulo / SP",
         "url": "https://open.spotify.com/album/2xTPxjRdVrHHLAUQNBSIET"
       },
@@ -809,7 +831,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-01",
+      "date_removed": "2022-11-15",
       "duration_ms": 166410,
       "name": "Deixa Ela Beijar",
       "url": "https://open.spotify.com/track/2KxHe4qxNgeFcKpE2r2aBt"
@@ -1053,7 +1075,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 243020,
       "name": "Embrasa",
       "url": "https://open.spotify.com/track/4iANxSIDT3kGekiquMSAgT"
@@ -1633,7 +1655,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 215169,
       "name": "Loka",
       "url": "https://open.spotify.com/track/4rMTRPQcWIcZAlKR8bygRY"
@@ -2555,7 +2577,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-22",
       "duration_ms": 164157,
       "name": "Ta Tum Tum",
       "url": "https://open.spotify.com/track/6etab3UBCo5GOTMZqUvRka"

@@ -8,6 +8,32 @@
   "tracks": [
     {
       "album": {
+        "name": "Party 2019",
+        "url": "https://open.spotify.com/album/5SbMB5xPFwrifMoTHLEGnU"
+      },
+      "artists": [
+        {
+          "name": "Fergie",
+          "url": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
+        },
+        {
+          "name": "Q-Tip",
+          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
+        },
+        {
+          "name": "GoonRock",
+          "url": "https://open.spotify.com/artist/53sIBaVjXQhfH89Vu6nEGh"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 240733,
+      "name": "A Little Party Never Killed Nobody (All We Got)",
+      "url": "https://open.spotify.com/track/1Mq6nWFfXgqpkeuoLG3JIl"
+    },
+    {
+      "album": {
         "name": "Music From Baz Luhrmann's Film The Great Gatsby",
         "url": "https://open.spotify.com/album/6JCgdZOAX8K6SgBw3Oanwd"
       },
@@ -57,6 +83,24 @@
       "duration_ms": 241306,
       "name": "A Little Party Never Killed Nobody (All We Got)",
       "url": "https://open.spotify.com/track/36482hNESSwELpr9sS3NbE"
+    },
+    {
+      "album": {
+        "name": "THIS IS... ICONA POP",
+        "url": "https://open.spotify.com/album/3VjHE97WECKh54AZydUO79"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 187026,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/0ikZ64LUN4bwii2pD5dI75"
     },
     {
       "album": {
@@ -173,6 +217,54 @@
       "duration_ms": 284400,
       "name": "Big Pimpin'",
       "url": "https://open.spotify.com/track/4m1B88bynbZIVnrDsUINYc"
+    },
+    {
+      "album": {
+        "name": "The Hits Collection Volume One (Explicit Version)",
+        "url": "https://open.spotify.com/album/58O1BkRgemkyhm8onpQwBb"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "UGK",
+          "url": "https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 284400,
+      "name": "Big Pimpin'",
+      "url": "https://open.spotify.com/track/5VYkcDWIPJjhTnnckVm1sN"
+    },
+    {
+      "album": {
+        "name": "Girls Party Fun",
+        "url": "https://open.spotify.com/album/4s2xZPfAVODAibPYcosiEW"
+      },
+      "artists": [
+        {
+          "name": "Robin Thicke",
+          "url": "https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP"
+        },
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "name": "Pharrell",
+          "url": "https://open.spotify.com/artist/04lYHhZffeTajUZfUF5mCx"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 263826,
+      "name": "Blurred Lines",
+      "url": "https://open.spotify.com/track/3ykGQCyN9sJGJ4HYvYwl0U"
     },
     {
       "album": {
@@ -374,6 +466,24 @@
     },
     {
       "album": {
+        "name": "It's No Big Deal - 2010s Pop Throwbacks",
+        "url": "https://open.spotify.com/album/6gB36zWBmVc1etQrBe3GKg"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 257092,
+      "name": "Hey Brother",
+      "url": "https://open.spotify.com/track/2BspkzBPHQvh35Z0MlPjCY"
+    },
+    {
+      "album": {
         "name": "Nothing Was The Same (Deluxe)",
         "url": "https://open.spotify.com/album/2gXTTQ713nCELgPOS0qWyt"
       },
@@ -393,6 +503,28 @@
       "duration_ms": 227880,
       "name": "Hold On, We're Going Home",
       "url": "https://open.spotify.com/track/14Rcq31SafFBHNEwXrtR2B"
+    },
+    {
+      "album": {
+        "name": "Nothing Was The Same (Deluxe)",
+        "url": "https://open.spotify.com/album/3s8Lsh6OjP2uWK6UYaTzEv"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 227880,
+      "name": "Hold On, We're Going Home",
+      "url": "https://open.spotify.com/track/19Lq7xvNJA6vJUrSLHsPdD"
     },
     {
       "album": {
@@ -516,6 +648,28 @@
     },
     {
       "album": {
+        "name": "Summer Pop",
+        "url": "https://open.spotify.com/album/0j2BgYYJRRtvJVetZIzDeD"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 256040,
+      "name": "Latch",
+      "url": "https://open.spotify.com/track/1ePV5iixf6X6YzTHjdbrTv"
+    },
+    {
+      "album": {
         "name": "Latch",
         "url": "https://open.spotify.com/album/02OPsiIr8adBH3SqL5SDSI"
       },
@@ -571,6 +725,24 @@
       "duration_ms": 185186,
       "name": "Live Till I Die",
       "url": "https://open.spotify.com/track/3Jauu3MzVAw652B2LSgOVI"
+    },
+    {
+      "album": {
+        "name": "Live Till I Die",
+        "url": "https://open.spotify.com/album/3B4noDiK4FancnHdxXbnak"
+      },
+      "artists": [
+        {
+          "name": "Elliphant",
+          "url": "https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 185197,
+      "name": "Live Till I Die",
+      "url": "https://open.spotify.com/track/0aGs5pQ1f8Ls2QkAWWAfVy"
     },
     {
       "album": {
@@ -672,6 +844,24 @@
     },
     {
       "album": {
+        "name": "Happy Morning",
+        "url": "https://open.spotify.com/album/1P2qhDeq4RJCbsAujcfaWe"
+      },
+      "artists": [
+        {
+          "name": "John Newman",
+          "url": "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 240288,
+      "name": "Love Me Again",
+      "url": "https://open.spotify.com/track/0KXeAa7gr7nRdUOmoywsh8"
+    },
+    {
+      "album": {
         "name": "Love Me Again",
         "url": "https://open.spotify.com/album/7bCDE4ddc9T8Zkw588bN73"
       },
@@ -708,6 +898,24 @@
     },
     {
       "album": {
+        "name": "Pop Anthems",
+        "url": "https://open.spotify.com/album/4wVAqedzv4wLdM0sapmB98"
+      },
+      "artists": [
+        {
+          "name": "MIKA",
+          "url": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 235173,
+      "name": "Love Today",
+      "url": "https://open.spotify.com/track/1oxWxuYfSrxBX8T9BmK0A5"
+    },
+    {
+      "album": {
         "name": "Life in Cartoon Motion",
         "url": "https://open.spotify.com/album/4wKkXYJXQWDa9sndBSx0gI"
       },
@@ -723,6 +931,24 @@
       "duration_ms": 235173,
       "name": "Love Today",
       "url": "https://open.spotify.com/track/6ZBJFWDYJSTQg54eDsqnkJ"
+    },
+    {
+      "album": {
+        "name": "Royal",
+        "url": "https://open.spotify.com/album/4o7rdd2fYeSEXcTJLzpvsg"
+      },
+      "artists": [
+        {
+          "name": "The Royal Concept",
+          "url": "https://open.spotify.com/artist/7LAucJAvbQa7ZIA0qP8YI2"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 193853,
+      "name": "On Our Way",
+      "url": "https://open.spotify.com/track/3GTXok0dIm0mMqBiVklBYS"
     },
     {
       "album": {
@@ -795,6 +1021,24 @@
       "duration_ms": 189840,
       "name": "On Top Of The World",
       "url": "https://open.spotify.com/track/6KuHjfXHkfnIjdmcIvt9r0"
+    },
+    {
+      "album": {
+        "name": "4 ALL AGES: Fun Sing-a-Long Music",
+        "url": "https://open.spotify.com/album/6jvRW9TMq36Pa91hBINOLq"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 192800,
+      "name": "On Top Of The World",
+      "url": "https://open.spotify.com/track/1I8gUi9ZQTuGdZcWvwB8qu"
     },
     {
       "album": {
@@ -879,6 +1123,24 @@
       "duration_ms": 235493,
       "name": "Only Girl (In The World)",
       "url": "https://open.spotify.com/track/2ENexcMEMsYk0rVJigVD3i"
+    },
+    {
+      "album": {
+        "name": "Loud",
+        "url": "https://open.spotify.com/album/35dJsQDEr549O5DTFUy3uM"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 235520,
+      "name": "Only Girl (In The World)",
+      "url": "https://open.spotify.com/track/6jAsmDJI8iPhGWtS27kZ67"
     },
     {
       "album": {
@@ -972,6 +1234,24 @@
     },
     {
       "album": {
+        "name": "Dinner with the Fam",
+        "url": "https://open.spotify.com/album/39Y1tFTTANWGZczgmJ0QNC"
+      },
+      "artists": [
+        {
+          "name": "Capital Cities",
+          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 192789,
+      "name": "Safe And Sound",
+      "url": "https://open.spotify.com/track/2xJwrObFMYUuumisKeesRm"
+    },
+    {
+      "album": {
         "name": "In A Tidal Wave Of Mystery (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3WrufJir7I61NkvkDwxero"
       },
@@ -1031,6 +1311,28 @@
       "duration_ms": 284413,
       "name": "Scream & Shout",
       "url": "https://open.spotify.com/track/7n6ibfsRHhCb1Ccl9Fg2CZ"
+    },
+    {
+      "album": {
+        "name": "Boxing workout music 2020",
+        "url": "https://open.spotify.com/album/7MawaenOFJRETzCCmO05Sv"
+      },
+      "artists": [
+        {
+          "name": "will.i.am",
+          "url": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
+        },
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 285320,
+      "name": "Scream & Shout",
+      "url": "https://open.spotify.com/track/0EU2TpWyxOrQXld7eGGU81"
     },
     {
       "album": {
@@ -1106,6 +1408,28 @@
     },
     {
       "album": {
+        "name": "Sweet but Psycho - Hit Mix",
+        "url": "https://open.spotify.com/album/2cRrHIkKIoCsNmefuJZ9Ts"
+      },
+      "artists": [
+        {
+          "name": "fun.",
+          "url": "https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0"
+        },
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 250626,
+      "name": "We Are Young",
+      "url": "https://open.spotify.com/track/1COmrHBpdhIR36e7VpVWce"
+    },
+    {
+      "album": {
         "name": "We Are Young (feat. Janelle Mon\u00e1e)",
         "url": "https://open.spotify.com/album/7dXu1oLf9VPkCsBvXxz4Oe"
       },
@@ -1151,6 +1475,28 @@
     {
       "album": {
         "name": "Talk That Talk",
+        "url": "https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 215226,
+      "name": "We Found Love",
+      "url": "https://open.spotify.com/track/0U10zFw4GlBacOy9VDGfGL"
+    },
+    {
+      "album": {
+        "name": "Talk That Talk",
         "url": "https://open.spotify.com/album/2g1EakEaW7fPTZC6vBmBCn"
       },
       "artists": [
@@ -1191,6 +1537,24 @@
       "duration_ms": 215760,
       "name": "We Found Love",
       "url": "https://open.spotify.com/track/14fmbvjYLqRZEXz1VZdM2M"
+    },
+    {
+      "album": {
+        "name": "Let's Dance",
+        "url": "https://open.spotify.com/album/4silLPOhYilJ0RuXW5Xy1i"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 283705,
+      "name": "When A Fire Starts To Burn",
+      "url": "https://open.spotify.com/track/4WQ3Eqgy6ouMRRrgsFmysW"
     },
     {
       "album": {
@@ -1263,6 +1627,24 @@
       "duration_ms": 246600,
       "name": "Young Blood",
       "url": "https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL"
+    },
+    {
+      "album": {
+        "name": "Electro Indie",
+        "url": "https://open.spotify.com/album/3z16itv1TlBS2xRMiH5Uqb"
+      },
+      "artists": [
+        {
+          "name": "The Naked And Famous",
+          "url": "https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 246600,
+      "name": "Young Blood",
+      "url": "https://open.spotify.com/track/5vThU83E2yfrtKLRFi44Vf"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX1ZrmwZWFpDG"

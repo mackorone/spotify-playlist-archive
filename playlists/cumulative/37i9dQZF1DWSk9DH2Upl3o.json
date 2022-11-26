@@ -142,6 +142,28 @@
     },
     {
       "album": {
+        "name": "Adult Entertainment",
+        "url": "https://open.spotify.com/album/4XBDWweRR7036JySp1V0rV"
+      },
+      "artists": [
+        {
+          "name": "WOLF!",
+          "url": "https://open.spotify.com/artist/4Xp09N3LwGCuUqyXNRHaVR"
+        },
+        {
+          "name": "Scott Metzger",
+          "url": "https://open.spotify.com/artist/0ZILxKPM8Y2vYZ1UToHidc"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207150,
+      "name": "Cottonmouth",
+      "url": "https://open.spotify.com/track/05ai1Lup5CO5qLFuytjHVX"
+    },
+    {
+      "album": {
         "name": "Microdosio",
         "url": "https://open.spotify.com/album/2tlqeiRrUFcqGK4JILK8VZ"
       },
@@ -211,7 +233,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 354127,
       "name": "Don't Say Goodnight Just Yet",
       "url": "https://open.spotify.com/track/2w04CcDEqzLwsc5hhZ0KRQ"
@@ -745,7 +767,7 @@
       },
       "artists": [
         {
-          "name": "Tauk",
+          "name": "TAUK",
           "url": "https://open.spotify.com/artist/6qauwCj8W2mTcDGbyDGo6O"
         }
       ],
@@ -902,6 +924,24 @@
     },
     {
       "album": {
+        "name": "Outer Boroughs",
+        "url": "https://open.spotify.com/album/1D31I5VNHglxOfY2QKQCok"
+      },
+      "artists": [
+        {
+          "name": "Circles Around The Sun",
+          "url": "https://open.spotify.com/artist/4Aixcj6XBhqbdEHDKS7QcH"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448540,
+      "name": "Outer Boroughs",
+      "url": "https://open.spotify.com/track/5EzcAEZEjRBT6BplnklT1Y"
+    },
+    {
+      "album": {
         "name": "I Am The Moon: II. Ascension",
         "url": "https://open.spotify.com/album/1kAOpSgqnN3ya5cFIeZMbM"
       },
@@ -949,7 +989,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 485880,
       "name": "Random Company",
       "url": "https://open.spotify.com/track/6eOzmeLU3lJD7dw5kJ46EX"
@@ -1169,7 +1209,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 471093,
       "name": "The Freeman Massacre",
       "url": "https://open.spotify.com/track/5MmG7mZHhwHVRFsupNjACT"
@@ -1209,6 +1249,36 @@
       "duration_ms": 433720,
       "name": "The Road",
       "url": "https://open.spotify.com/track/3F2SdHEBSOZZPDKfkiP0k8"
+    },
+    {
+      "album": {
+        "name": "The Saga of Milly and Fee Part I - Peruvian Love Song",
+        "url": "https://open.spotify.com/album/2qF9GzUH5M7k5fvj4Rq1bB"
+      },
+      "artists": [
+        {
+          "name": "Ari Joshua",
+          "url": "https://open.spotify.com/artist/3C9Z1YhnRr08CKRSZ7nEuV"
+        },
+        {
+          "name": "Russ Lawton",
+          "url": "https://open.spotify.com/artist/2C4UBATq8DBVT4HBy4UBNE"
+        },
+        {
+          "name": "Ray Paczkowski",
+          "url": "https://open.spotify.com/artist/5RCKLpu3QFZbFSagy35QcO"
+        },
+        {
+          "name": "Soule Monde",
+          "url": "https://open.spotify.com/artist/7sag5QujhVfDU0hGeGDl3x"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 70436,
+      "name": "The Saga of Milly and Fee Part I - Peruvian Love Song",
+      "url": "https://open.spotify.com/track/69m1VanYi7q6ZiDLuMucWJ"
     },
     {
       "album": {
@@ -1307,10 +1377,28 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 160157,
       "name": "Waltz of a Thousand Stars",
       "url": "https://open.spotify.com/track/4k3QVmtqLh2fu7sE5zfJeU"
+    },
+    {
+      "album": {
+        "name": "Arise",
+        "url": "https://open.spotify.com/album/4gpAq0kaZMRURC4mn8zBGm"
+      },
+      "artists": [
+        {
+          "name": "SunSquabi",
+          "url": "https://open.spotify.com/artist/1CLLPNftraxuTDyTd6hn3J"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369476,
+      "name": "Water Level",
+      "url": "https://open.spotify.com/track/5w8pjWJBU0rvimt284Qk24"
     },
     {
       "album": {
@@ -1329,7 +1417,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 449133,
       "name": "Weeknight Revival",
       "url": "https://open.spotify.com/track/5GrPSvu8FuPiYITxj3LDOW"
@@ -1390,6 +1478,24 @@
     },
     {
       "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/5XGhSLj9gm7t7SygAbGk5S"
+      },
+      "artists": [
+        {
+          "name": "Tommy Kaelin",
+          "url": "https://open.spotify.com/artist/7xa6AoVY6TOYK7Zbtwch1p"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290150,
+      "name": "Wishing Well",
+      "url": "https://open.spotify.com/track/5ju62GuABsAvpTtoAkM9Zy"
+    },
+    {
+      "album": {
         "name": "Yes We Can Can",
         "url": "https://open.spotify.com/album/471new68y9IZShdxJHtCUT"
       },
@@ -1405,6 +1511,24 @@
       "duration_ms": 283299,
       "name": "Yes We Can Can",
       "url": "https://open.spotify.com/track/0KOYauWfZId5BWZDBGOkOA"
+    },
+    {
+      "album": {
+        "name": "Zoom Out",
+        "url": "https://open.spotify.com/album/45iOI3SakDgddbyhObA3LC"
+      },
+      "artists": [
+        {
+          "name": "Papadosio",
+          "url": "https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262805,
+      "name": "Zoom Out",
+      "url": "https://open.spotify.com/track/4zVwDHjHraUBJiTuU8SRAv"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSk9DH2Upl3o"

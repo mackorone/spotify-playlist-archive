@@ -4,7 +4,7 @@
 
 > Flute and fiddle, drums and drops.
 
-88 songs - 6 hr 29 min - [published](https://open.spotify.com/playlist/2xJUsXL10xTMGcRnqRGJHk)
+91 songs - 6 hr 43 min - [published](https://open.spotify.com/playlist/2xJUsXL10xTMGcRnqRGJHk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Day One](https://open.spotify.com/track/1PwJhD1Y652UbAqbNVjQef) | [Rura](https://open.spotify.com/artist/4kKrVjWrGR3f0MfYakhaH8) | [In Praise of Home](https://open.spotify.com/album/2Iy1tDgJBIHS96KOQ9pjl4) | 3:22 | 2020-11-11 |  |
 | [Deep Blue](https://open.spotify.com/track/65OZx87QPkV2aUejnqAwXr) | [Ímar](https://open.spotify.com/artist/0BdsizQXvwb1BPeEKqfuVs) | [Avalanche](https://open.spotify.com/album/4ffKraZegxQwhKvK69zuk5) | 4:59 | 2020-11-11 |  |
 | [Deep Blue](https://open.spotify.com/track/78M4hy7uAXClDiw0l17VZy) | [Ímar](https://open.spotify.com/artist/0BdsizQXvwb1BPeEKqfuVs) | [Avalanche](https://open.spotify.com/album/4iCSh2UuEXmr77K8klL9Ta) | 4:59 | 2020-11-11 | 2022-07-29 |
+| [Deep Blue](https://open.spotify.com/track/7Ar3epMysZVc1b2uHgCXXl) | [Ímar](https://open.spotify.com/artist/0BdsizQXvwb1BPeEKqfuVs) | [Deep Blue](https://open.spotify.com/album/7rfiHzh7hFQXL1X3fk4C0J) | 4:59 | 2020-11-11 | 2022-11-13 |
 | [Dizzy Blue](https://open.spotify.com/track/029m3I0WPSGMpAnLpo3mOI) | [Duncan Chisholm](https://open.spotify.com/artist/63JJ2jJttIr23DTX1UeDCq) | [Sandwood](https://open.spotify.com/album/1LFHmWrvRQeoZJatu7QLed) | 4:01 | 2020-11-11 | 2022-07-29 |
 | [Dizzy Blue](https://open.spotify.com/track/0nAzhbAFIhNmfw6xMxDZRX) | [Duncan Chisholm](https://open.spotify.com/artist/63JJ2jJttIr23DTX1UeDCq) | [Sandwood](https://open.spotify.com/album/7FYV5bUhaVCM8wBjCCs0wA) | 4:01 | 2020-11-11 |  |
 | [Duck Egg](https://open.spotify.com/track/6ZxEfnpt6fd0Be1JzdhHp1) | [This is How we Fly](https://open.spotify.com/artist/0zppS0FCwxOAiY4DqL7Sx5) | [Foreign Fields](https://open.spotify.com/album/2A9dbLuuHxL240fqAirIZC) | 3:17 | 2020-11-11 |  |
@@ -41,6 +42,7 @@
 | [Into the Light](https://open.spotify.com/track/4CRFusPzKiPpRr7hWOoaUk) | [Ímar](https://open.spotify.com/artist/0BdsizQXvwb1BPeEKqfuVs) | [Afterlight](https://open.spotify.com/album/43DarYsvUv9ljGzt666wqr) | 3:57 | 2020-11-11 |  |
 | [Kadisha](https://open.spotify.com/track/02FrlgjziTVbewcolGVdrI) | [The Trials of Cato](https://open.spotify.com/artist/4IeC7nJG3VMbzXlObCCsYC) | [Hide and Hair](https://open.spotify.com/album/4tzSvK1Mo2GsW9jcIXrBd0) | 5:05 | 2020-11-11 |  |
 | [Kings](https://open.spotify.com/track/2t6dq7278w9vxw0PDqz8OE) | [Ross Ainslie](https://open.spotify.com/artist/5qP1QgTFbxBrG4WXN0gRrq), [Ali Hutton](https://open.spotify.com/artist/72zr6hTSr85kBmNqaCMtwh) | [Symbiosis II](https://open.spotify.com/album/3EpS355iRGU2E2CFG0HMoq) | 6:29 | 2020-11-11 |  |
+| [Knees Up](https://open.spotify.com/track/0lkkDlHWpgpPWWQOQqvQjx) | [Breabach](https://open.spotify.com/artist/1HyT0AtzTH5lVzlm8yQgbI) | [Knees Up](https://open.spotify.com/album/2mDsVuMML0onkMQCY8A71X) | 3:27 | 2020-11-11 | 2022-11-13 |
 | [Knees Up](https://open.spotify.com/track/0w9DLBvg5p0sl16z0Qn8Ry) | [Breabach](https://open.spotify.com/artist/1HyT0AtzTH5lVzlm8yQgbI) | [Frenzy of the Meeting](https://open.spotify.com/album/1dKru5DafMfAT372Ps1V8R) | 3:27 | 2020-11-11 | 2022-07-29 |
 | [Knees Up](https://open.spotify.com/track/49RXdBY5e5w0iutd2OwloU) | [Breabach](https://open.spotify.com/artist/1HyT0AtzTH5lVzlm8yQgbI) | [Frenzy of the Meeting](https://open.spotify.com/album/2sywyHAUIELn9C4XNbVG7g) | 3:27 | 2020-11-11 |  |
 | [Let Ramensky Go](https://open.spotify.com/track/0jwwsNQKAZIMYXr9kh00Fe) | [Claire Hastings](https://open.spotify.com/artist/61AuimKILFw6yaMHOwwfTh) | [Between River and Railway](https://open.spotify.com/album/60rYkVRoKbS0yZwaPIs648) | 3:57 | 2020-11-11 | 2022-07-29 |
@@ -92,7 +94,8 @@
 | [Trois blizzards](https://open.spotify.com/track/1abwz0UqwN8J4QyGMcFJjt) | [Vishtèn](https://open.spotify.com/artist/5EjAi7ZO8Ios2JF5esNoEf) | [Terre rouge](https://open.spotify.com/album/3Ib5KmR8NKnwYPFiN6VzsO) | 3:51 | 2020-11-11 | 2022-07-29 |
 | [Trois Blizzards](https://open.spotify.com/track/2j3M1i5HV6tzQQlUxisU3L) | [Vishtèn](https://open.spotify.com/artist/5EjAi7ZO8Ios2JF5esNoEf) | [Terre Rouge](https://open.spotify.com/album/0PHCsRqofKZzYeEA0mDq7x) | 3:51 | 2020-11-11 |  |
 | [Tuttle's Reel](https://open.spotify.com/track/55T8dngArgGkHMA5a46jK6) | [Lorkin O'Reilly](https://open.spotify.com/artist/4NQg2mwGxphbDjrkc1Rb6l) | [Heaven Depends](https://open.spotify.com/album/3TZjNSWnlMnNiQGJtwoGp5) | 1:18 | 2020-11-11 |  |
-| [Tyagarah](https://open.spotify.com/track/2ntxq2PElCRIeRL07tTfd2) | [Elephant Sessions](https://open.spotify.com/artist/1C4qzAoWeKRKYqm26fKvWq) | [What Makes You](https://open.spotify.com/album/2uYClsymv40FZmo9WdPpP3) | 5:21 | 2020-11-11 |  |
+| [Tyagarah](https://open.spotify.com/track/2ntxq2PElCRIeRL07tTfd2) | [Elephant Sessions](https://open.spotify.com/artist/1C4qzAoWeKRKYqm26fKvWq) | [What Makes You](https://open.spotify.com/album/2uYClsymv40FZmo9WdPpP3) | 5:21 | 2020-11-11 | 2022-10-19 |
+| [Tyagarah](https://open.spotify.com/track/4suttSnLJtpU7CdF8h9kjo) | [Elephant Sessions](https://open.spotify.com/artist/1C4qzAoWeKRKYqm26fKvWq) | [What Makes You](https://open.spotify.com/album/5RTIGPvlegfeFtTFMmNP6m) | 5:21 | 2020-11-11 |  |
 | [Uncle Leo’s Jigs](https://open.spotify.com/track/2fuXOf6NMSgNFvb6qWoNBR) | [Còig](https://open.spotify.com/artist/14wzbXrXfprztP82yWdetC) | [Ashlar](https://open.spotify.com/album/3KdOfNMb7diwJuBK78hmVD) | 4:09 | 2020-11-11 |  |
 | [Wet Field Day](https://open.spotify.com/track/2M48LrC7HjICls1T6gcLnP) | [Elephant Sessions](https://open.spotify.com/artist/1C4qzAoWeKRKYqm26fKvWq) | [All We Have Is Now](https://open.spotify.com/album/36uqZhmDUmhpUL3wWuOJY5) | 4:54 | 2020-11-11 |  |
 | [Wet Field Day](https://open.spotify.com/track/6rGZSWD3J3Rt6RimdPYNil) | [Elephant Sessions](https://open.spotify.com/artist/1C4qzAoWeKRKYqm26fKvWq) | [All We Have Is Now](https://open.spotify.com/album/1HnBMbNwnG7umKoIx4U77B) | 4:54 | 2020-11-11 | 2022-07-29 |

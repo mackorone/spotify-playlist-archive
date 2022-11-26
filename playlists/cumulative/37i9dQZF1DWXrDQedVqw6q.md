@@ -4,7 +4,7 @@
 
 > Calm music to help you focus on your reading.
 
-152 songs - 7 hr 7 min - [published](https://open.spotify.com/playlist/3ZGPhyEiXz7uhWF13D0N9j)
+155 songs - 7 hr 18 min - [published](https://open.spotify.com/playlist/3ZGPhyEiXz7uhWF13D0N9j)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Calling](https://open.spotify.com/track/0BY0tUd1MNhONkZwNyMCVg) | [Monaxia](https://open.spotify.com/artist/5oSOrrskSneqhw8bwpkb1v) | [Calling](https://open.spotify.com/album/6DuVMjQuRjgYKmKZNQs1bu) | 2:26 | 2022-03-21 |  |
 | [Calm](https://open.spotify.com/track/4CK6vuYb4BaaQ2oYbkASuB) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Calm](https://open.spotify.com/album/68XXJLCevHtMqzrnKPobT9) | 1:49 | 2022-03-21 |  |
 | [Castaway](https://open.spotify.com/track/3BUiTyv4rgWL1GfVoBPwNH) | [Enzo](https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz) | [Endless](https://open.spotify.com/album/6KdAlVq1oJu7uaA8eAYJf6) | 4:15 | 2022-03-21 | 2022-07-29 |
+| [Castaway](https://open.spotify.com/track/69zBh0kdUlx0qN0W4trzcp) | [Enzo](https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz) | [Endless](https://open.spotify.com/album/6VPGoZbNiZv3e8Ym7tgMMt) | 4:15 | 2022-10-15 | 2022-11-14 |
 | [Castaway](https://open.spotify.com/track/6HUD7q1WnnVbZ7W29y0V3c) | [Enzo](https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz) | [Sunrise](https://open.spotify.com/album/4OqOKmqpBvfAw1NF68Vd83) | 4:15 | 2022-07-08 |  |
 | [Cedar Tree](https://open.spotify.com/track/3eGM7i0W651ugxqdKx9kJj) | [Ishitani](https://open.spotify.com/artist/7l5MAuQW3tchqPDTn4vo0i) | [Cedar Tree](https://open.spotify.com/album/6qOdM0nwzdD6vFt2OiTsZn) | 4:11 | 2022-03-21 |  |
 | [Changes Within](https://open.spotify.com/track/4hdZ8pWXvypfP0FrQTVwCs) | [Momento](https://open.spotify.com/artist/2HD6u9F4pocPtFgmev72AK) | [A Moment of Peace](https://open.spotify.com/album/5tmAu34wwfkAzZrQZZqa3M) | 2:55 | 2022-03-21 |  |
@@ -44,6 +45,7 @@
 | [Drifting](https://open.spotify.com/track/6ZPr9b4odEGaYIFdYDRGM4) | [Will Kaufman](https://open.spotify.com/artist/1qw4AAqrPMSwFoEc1RBRLU) | [Drifting](https://open.spotify.com/album/7rb1ZtyB3i3h9pCdMJRZr6) | 3:00 | 2022-03-21 |  |
 | [Eau Rouge](https://open.spotify.com/track/0H9dq2PB8RxswjJaECzwoC) | [Neil Mansella](https://open.spotify.com/artist/6R6OzpQPL5Mh9ulcQy6CET) | [Eau Rouge](https://open.spotify.com/album/3BC8lAsB5VUcdgIVhCdmZh) | 3:38 | 2022-03-21 |  |
 | [Echoes](https://open.spotify.com/track/5pJiOBUlMmk3dv1kx2rqPu) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Echoes](https://open.spotify.com/album/3NdcsDmGYs9Xa3L4D5Re33) | 4:20 | 2022-03-21 | 2022-08-13 |
+| [Efflorescence](https://open.spotify.com/track/4iaZYHsfo1yuZmM9IlTl9g) | [Zhou Thiemo](https://open.spotify.com/artist/3melX7nvzHoJ9w8pCvpTRK) | [Efflorescence](https://open.spotify.com/album/1B6egnIEsekK1eGnNr7yLC) | 3:00 | 2022-11-11 |  |
 | [Empathy](https://open.spotify.com/track/6VJP2WKOkybliacQhLzYQN) | [Ricardo Gardner](https://open.spotify.com/artist/5BTXzlOGp7C0zkY3y5rHkT) | [Empathy](https://open.spotify.com/album/1HMzKY4ZxTVOoz3ycrkF5w) | 2:29 | 2022-03-21 |  |
 | [Equipoise](https://open.spotify.com/track/0Ij8KeRUVRRAOjJceqt6FF) | [September Meredyth](https://open.spotify.com/artist/1fFlzIR8vrvwW9wEvqoY7P) | [Equipoise](https://open.spotify.com/album/54epGztbs8gWarb8ChOzgj) | 2:56 | 2022-03-21 |  |
 | [Eternity](https://open.spotify.com/track/0ZTkd15cwmZiOmtb8Gg3q5) | [String Astronauts](https://open.spotify.com/artist/3uesHPllAYmqsy4sdQqFJr) | [Eternity](https://open.spotify.com/album/5F9HeSB4R2MUHZ9IUPC0ry) | 2:50 | 2022-03-21 |  |
@@ -63,6 +65,7 @@
 | [In the Past](https://open.spotify.com/track/7BGQQE0Xgic9Bvk7BlRumP) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Acceptance](https://open.spotify.com/album/5TifGwgK5S9VTApf5z4Qfx) | 1:56 | 2022-03-21 |  |
 | [Infinite Sustain](https://open.spotify.com/track/5AciiCKJKTLKRrAPSrKQy5) | [Amaranth Cove](https://open.spotify.com/artist/1Gt39QnTBTndeyiJ5SO04q) | [Infinite Sustain](https://open.spotify.com/album/4bLXZwh88rBBy6bgFFBhVg) | 2:29 | 2022-03-21 |  |
 | [Inner Sphere](https://open.spotify.com/track/3mLoP1rCssKM4aeRAUpiOj) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Inner Sphere](https://open.spotify.com/album/3xdSCmp1G4ikQqKLFgACrP) | 3:25 | 2022-03-21 |  |
+| [Jokk](https://open.spotify.com/track/3CPAzMHcgaaUt66dYJMveo) | [Fjellet](https://open.spotify.com/artist/4S0x628hBw2YQyh0hCQAf8) | [Jokk](https://open.spotify.com/album/5V3CTeIa4IKNIBpDNU5BjA) | 3:04 | 2022-10-15 |  |
 | [Keeping Secrets](https://open.spotify.com/track/1AsnXOdPvQMuUmTl9hBPvD) | [Lucas Delphy](https://open.spotify.com/artist/5bgAHbDkNceLzoE0bFMeVr) | [Keeping Secrets](https://open.spotify.com/album/1hnIKHQ7XZ1Q7YBAIjCeCE) | 2:40 | 2022-03-21 |  |
 | [Latitude](https://open.spotify.com/track/1BMuBZVM8iuYu5bhVMmaID) | [Antonin Luthar](https://open.spotify.com/artist/04pS81HPxt768ZxxeJY36Z) | [Latitude](https://open.spotify.com/album/4nt53fqQh4PzVtWIHI7qMG) | 3:18 | 2022-03-21 | 2022-08-13 |
 | [Lilting Fields](https://open.spotify.com/track/6QayqmOU37gap6xzt1geL8) | [Genevieve Harding](https://open.spotify.com/artist/5bQclaUyw221JG0BsDceAS) | [Whole Breaths](https://open.spotify.com/album/2qHWi9gDsue0bh7C490ENt) | 2:55 | 2022-03-21 | 2022-09-07 |

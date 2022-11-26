@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
   "description": "Relax to the calming sounds of choral music.",
-  "name": "Calming Choir",
+  "name": "Choir Classics",
   "published_playlist_ids": [
     "1kZsP2YcL77b9nhWoq6gQJ"
   ],
@@ -87,7 +87,7 @@
       ],
       "date_added": "2021-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 64693,
       "name": "4 Russian Peasant Songs, \"Podblyudniye\": No. 2. Ovsen' (Ovsen)",
       "url": "https://open.spotify.com/track/0pC1GIUickg2z1iCZe9fLA"
@@ -354,6 +354,32 @@
     },
     {
       "album": {
+        "name": "Christmas Carol",
+        "url": "https://open.spotify.com/album/68oYrarfkvOD6G9r7ITRUo"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Gabrieli",
+          "url": "https://open.spotify.com/artist/3DhMjqRNtH4A1Ap3dIosgS"
+        },
+        {
+          "name": "Paul McCreesh",
+          "url": "https://open.spotify.com/artist/27suxyOypRvjbQgoRw1oF7"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 202800,
+      "name": "Ave Maris Stella",
+      "url": "https://open.spotify.com/track/7qihU2mdjB04CMuRzy0vMq"
+    },
+    {
+      "album": {
         "name": "Love Never Ends - Sacred Music by Philip Stopford",
         "url": "https://open.spotify.com/album/2r7pP840ZL4j9zk4DfyV5F"
       },
@@ -425,6 +451,32 @@
       "duration_ms": 190346,
       "name": "Benedictus",
       "url": "https://open.spotify.com/track/16EpFmtDYyQkaOXbDA4V8g"
+    },
+    {
+      "album": {
+        "name": "Work from Home with Chilled Choir",
+        "url": "https://open.spotify.com/album/3k5bWKITwAZF4dsbG5Zi2E"
+      },
+      "artists": [
+        {
+          "name": "Karl Jenkins",
+          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
+        },
+        {
+          "name": "Voces8",
+          "url": "https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc"
+        },
+        {
+          "name": "Christian Forshaw",
+          "url": "https://open.spotify.com/artist/3hb2rYbbTMlvmd42CCH3kJ"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 190346,
+      "name": "Benedictus",
+      "url": "https://open.spotify.com/track/26SmzgTzdqFjLbSm5BpKL4"
     },
     {
       "album": {
@@ -934,6 +986,28 @@
     },
     {
       "album": {
+        "name": "Byrd: Mass for Four Voices: V. Agnus Dei",
+        "url": "https://open.spotify.com/album/2Qnw992U1fGiV0OeoCfaj1"
+      },
+      "artists": [
+        {
+          "name": "William Byrd",
+          "url": "https://open.spotify.com/artist/2j7yGPnVrdIHjHwtyLPJ2z"
+        },
+        {
+          "name": "Stile Antico",
+          "url": "https://open.spotify.com/artist/050HYLDzYAPj4f334VbaKG"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243413,
+      "name": "Mass for Four Voices: V. Agnus Dei",
+      "url": "https://open.spotify.com/track/4tJTytklwv0NENMQxzKp8d"
+    },
+    {
+      "album": {
         "name": "Media Vita",
         "url": "https://open.spotify.com/album/21ruoumhxcMcRsD08UF9Mj"
       },
@@ -1057,6 +1131,76 @@
       "duration_ms": 181200,
       "name": "Nachtlied, Op. 138, No. 3",
       "url": "https://open.spotify.com/track/67vgXrVt6vPSMJuAOy2PTo"
+    },
+    {
+      "album": {
+        "name": "Queen Elizabeth II: Music in Memoriam",
+        "url": "https://open.spotify.com/album/27lXOHP44F5JhiCjgNqycI"
+      },
+      "artists": [
+        {
+          "name": "Edward Elgar",
+          "url": "https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd"
+        },
+        {
+          "name": "Voces8",
+          "url": "https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 230005,
+      "name": "Nimrod (Lux Aeterna)",
+      "url": "https://open.spotify.com/track/5GKUI9Az2rkSC7O1z8TBCD"
+    },
+    {
+      "album": {
+        "name": "Lux",
+        "url": "https://open.spotify.com/album/0sqRF0UZjwVg7ecgSwr7Wh"
+      },
+      "artists": [
+        {
+          "name": "Edward Elgar",
+          "url": "https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd"
+        },
+        {
+          "name": "Voces8",
+          "url": "https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232666,
+      "name": "Nimrod (Lux Aeterna)",
+      "url": "https://open.spotify.com/track/1aJcDNDrKduMegTZzOemVd"
+    },
+    {
+      "album": {
+        "name": "A Tender Light",
+        "url": "https://open.spotify.com/album/6xSYtksjxhvLCSRqXKBw9g"
+      },
+      "artists": [
+        {
+          "name": "Paul Mealor",
+          "url": "https://open.spotify.com/artist/18B9HFuIuZ5LOk8vWtaxsG"
+        },
+        {
+          "name": "Tenebrae",
+          "url": "https://open.spotify.com/artist/0vUnn6Eje2O5yxEj35touD"
+        },
+        {
+          "name": "Nigel Short",
+          "url": "https://open.spotify.com/artist/4gs13ipYIJhCcqDMOEx9eN"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197400,
+      "name": "Now Sleeps The Crimson Petal (Four Madrigals On Rose Texts): Now Sleeps The Crimson Petal",
+      "url": "https://open.spotify.com/track/53vD24j7PgGW5beqOxZska"
     },
     {
       "album": {
@@ -1231,6 +1375,28 @@
       "duration_ms": 238684,
       "name": "Scene Suspended (Arr. Lawson)",
       "url": "https://open.spotify.com/track/7x7Q3hlDD5ogcxztavyIxu"
+    },
+    {
+      "album": {
+        "name": "Ambient Focus",
+        "url": "https://open.spotify.com/album/0qqX7dkOe7FIwO8XueRHrm"
+      },
+      "artists": [
+        {
+          "name": "Voces8",
+          "url": "https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc"
+        },
+        {
+          "name": "Eleanor Turner",
+          "url": "https://open.spotify.com/artist/2iWdlFp0AxoJNj3QH18at4"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 238173,
+      "name": "Scene Suspended (Arr. Lawson)",
+      "url": "https://open.spotify.com/track/2GBt4i5xZqpbJPlmnYFFOC"
     },
     {
       "album": {

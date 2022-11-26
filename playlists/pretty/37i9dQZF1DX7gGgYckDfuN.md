@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gGgYckDfuN.md) - [plain]
 
 > Enjoy Music From "JoJo's Bizarre Adventure" series! ジョジョの歴代関連楽曲が一堂に会した公式プレイリスト！©LUCKY LAND COMMUNICATIONS/集英社・ジョジョの奇妙な冒険SO製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,211 likes - 44 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,038 likes - 44 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gGgYckDfuN.md) - [plain]
 | 10 | [STONE OCEAN \- English Ver.](https://open.spotify.com/track/37jKhtJXXIEMBt7FDe0ldB) | [ichigo from 岸田教団&THE明星ロケッツ](https://open.spotify.com/artist/01jPgSPIsFQgE0QnYeT3cm) | [STONE OCEAN](https://open.spotify.com/album/5oi3REKib6gbSmPjigEEOB) | 3:29 |
 | 11 | [JOJO SONO CHINO SADAME](https://open.spotify.com/track/08q2CrXYf1ZaMbcKViPdVA) | [Hiroaki Tommy Tominaga](https://open.spotify.com/artist/3Pp8OVTOM4HoXf7Vysq2dZ) | [JOJO SONO CHINO SADAME](https://open.spotify.com/album/0t9GYCbtohYvtA60qUBCHa) | 4:22 |
 | 12 | [BLOODY STREAM](https://open.spotify.com/track/3BSPKTravgBDjmuG1rIXvw) | [Coda](https://open.spotify.com/artist/2xcKG6XtsW4NV5zMXWuL6n) | [BLOODY STREAM](https://open.spotify.com/album/3Jyv6ZSMdzPKSd83r75dLW) | 4:21 |
-| 13 | [Roundabout \- 2003 Remaster](https://open.spotify.com/track/0YveezON7jpiaHA8fnUHxN) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [Fragile \(Deluxe Edition\)](https://open.spotify.com/album/0dZF93WHyOhTWjz5EWM7yG) | 8:30 |
+| 13 | [Roundabout](https://open.spotify.com/track/6KIFja6dizWkI7IpY0vmr8) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [Ultimate Yes: 35th Anniversary Collection](https://open.spotify.com/album/37GBIGYhZlXUZA0NZ4ifHl) | 8:32 |
 | 14 | [Freek'n You](https://open.spotify.com/track/43sNw9nvGYGLYnNiwI8oMZ) | [Jodeci](https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK) | [The Show, The After Party, The Hotel](https://open.spotify.com/album/5tincGtQaRD1QoXAT0PELz) | 6:19 |
 | 15 | [Diamond is unbreakable \- Main Theme](https://open.spotify.com/track/6GqMQUzxuTG88y5WZ0HYLr) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [JOJO'S BIZARRE ADVENTURE \-Diamond is unbreakable O.S.T Vol.1 \-Good Morning Morioh Cho\- Music by Yugo Kanno](https://open.spotify.com/album/047NzKZzhHtLaaedoKi0Cy) | 4:07 |
 | 16 | [STAND PROUD](https://open.spotify.com/track/3OqPSJsqe4LvcaVl7G6vV3) | [Jin Hashimoto](https://open.spotify.com/artist/01djLeQ0nZvRhEPjn5Wdw0) | [STAND PROUD](https://open.spotify.com/album/4p5qdQrjYGuVwakXJ1hB4k) | 4:38 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gGgYckDfuN.md) - [plain]
 | 43 | [Koukatsuna Nezumi](https://open.spotify.com/track/7GOcaGMgjXCQtJf8TMAu75) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [JOJO'S BIZARRE ADVENTURE \-Stardust Crusaders O.S.T \~Nightwalk\~](https://open.spotify.com/album/6lzPBA2THFUoWnboi85aQC) | 3:15 |
 | 44 | [Canzoni preferite](https://open.spotify.com/track/5aanhLobXHQ8ODj2LBJ077) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [JOJO'S BIZARRE ADVENTURE \-Golden Wind O.S.T vol.1 Overture](https://open.spotify.com/album/0SLGYonJPgxa7qRDxqtraX) | 2:24 |
 
-Snapshot ID: `MTY0MDk2NjIxNSwwMDAwMDAwMDA3MDJjZTFhN2QxYzU5MTczNWFiYTgyNTg3M2MyOWE1`
+Snapshot ID: `MTY0MDk2NjIxNSwwMDAwMDAwMGEzNzY5YTljNDE5YjAzZDYwY2U4ZGMwOTMwNmY4NDRj`

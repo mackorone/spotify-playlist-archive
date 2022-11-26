@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 
 > Meet the lineup & LIVE EXPERIENCE of Busan International Rock Festival, the longest\-running rock festival in Korea! \(한국 최장수 국제 록 페스티벌인 부산 록 페스티벌의 라인업과 현장 경험을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,382 likes - 225 songs - 12 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,922 likes - 225 songs - 12 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 | 34 | [Boowhal\(부활\) \- Stage Comment 6](https://open.spotify.com/track/4KD74zcYQGc4cm1bn2Gm6Q) | [Boowhal](https://open.spotify.com/artist/3FhvgB7cIvT7kMV6ON5USS) | [BUSAN INTERNATIONAL ROCK FESTIVAL](https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa) | 3:19 |
 | 35 | [Never Ending Story](https://open.spotify.com/track/31wYm3i0uTz0GF94DohUME) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF) | [20th Anniversary Live In 2005](https://open.spotify.com/album/4INEvHrcuER5r0znFZ7fW0) | 4:11 |
 | 36 | [Boowhal\(부활\) \- Stage Comment 7](https://open.spotify.com/track/2MGdJKGEN9mireV7hudDDP) | [Boowhal](https://open.spotify.com/artist/3FhvgB7cIvT7kMV6ON5USS) | [BUSAN INTERNATIONAL ROCK FESTIVAL](https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa) | 0:58 |
-| 37 | [비와 당신의 이야기](https://open.spotify.com/track/4YvWV2TfZkrUYS6Th28iKB) | [부활](https://open.spotify.com/artist/1aQ0ylOjvfZSuvUjTRGfha) | [The Best Of Born Again](https://open.spotify.com/album/4rvxxZJ12vnJgPLCsIM2AN) | 6:01 |
+| 37 | [비와 당신의 이야기](https://open.spotify.com/track/4YvWV2TfZkrUYS6Th28iKB) | [BOOHWAL](https://open.spotify.com/artist/2LtEDRKi75vGtsfdy205jX) | [The Best Of Born Again](https://open.spotify.com/album/4rvxxZJ12vnJgPLCsIM2AN) | 6:01 |
 | 38 | [Boowhal\(부활\) \- Stage Comment 8](https://open.spotify.com/track/66c3C1YCJgma9P4DoengeQ) | [Boowhal](https://open.spotify.com/artist/3FhvgB7cIvT7kMV6ON5USS) | [BUSAN INTERNATIONAL ROCK FESTIVAL](https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa) | 0:07 |
 | 39 | [Crying Nut\(크라잉넛\) \- Stage Comment 1](https://open.spotify.com/track/6YPf8MeNsKxqyuStlII7Vz) | [Crying Nut](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [BUSAN INTERNATIONAL ROCK FESTIVAL](https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa) | 0:11 |
 | 40 | [Luxembourg \- 25th Anniversary Version](https://open.spotify.com/track/14gxdvmpmIn00fik2aJZJM) | [Crying Nut](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [CRYING NUT 25th Anniversary Best Album](https://open.spotify.com/album/3LCvmUeoynudUbGfTCPkko) | 2:51 |
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 | 93 | [MINSU\(민수\) \- Stage Comment 5](https://open.spotify.com/track/70co5wX0kLuHshucmLYXLk) | [MINSU](https://open.spotify.com/artist/6bZ2pW1vt2NJ1XfP3Jwb29) | [BUSAN INTERNATIONAL ROCK FESTIVAL](https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa) | 0:30 |
 | 94 | [Friendzone \(feat\. BIG Naughty\)](https://open.spotify.com/track/2rX3swM25DhNwg7mTjnzbG) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Friendzone](https://open.spotify.com/album/4WLwRi2w6XzOnCQfupjl2Q) | 3:42 |
 | 95 | [MINSU\(민수\) \- Stage Comment 6](https://open.spotify.com/track/35tTCKVGjzTfUjYUyRIa81) | [MINSU](https://open.spotify.com/artist/6bZ2pW1vt2NJ1XfP3Jwb29) | [BUSAN INTERNATIONAL ROCK FESTIVAL](https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa) | 0:29 |
-| 96 | [I Like Me](https://open.spotify.com/track/4WNWEl66OnjTcMP0WL0NZ5) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta) | [I Like Me](https://open.spotify.com/album/4AQz2u4cY5AC2DLgcwhrDg) | 3:12 |
+| 96 | [I Like Me \- Instrumental](https://open.spotify.com/track/0Oh2AkCB68jE8I0d3FS0b3) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta) | [minsu X innisfree I Like Me](https://open.spotify.com/album/39ZMi8KIbJ4tFBAaXkcXHW) | 3:12 |
 | 97 | [Sister](https://open.spotify.com/track/7b0138EzonYCs1Ytsk6SvQ) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Silica Gel](https://open.spotify.com/album/4BzGxha8bh9u2I2nEyUeE9) | 5:21 |
 | 98 | [Everybody Does](https://open.spotify.com/track/7s5Ow4bsVkU0eUlp71o8yn) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Silica Gel](https://open.spotify.com/album/4BzGxha8bh9u2I2nEyUeE9) | 4:54 |
 | 99 | [실리카겔\(Silica Gel\) \- Stage Comment 1](https://open.spotify.com/track/4DdrNOYcdjRI7J8naGp99n) | [실리카겔](https://open.spotify.com/artist/5b8FRX78ua1KgccYUyGhkI) | [BUSAN INTERNATIONAL ROCK FESTIVAL](https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa) | 2:16 |
@@ -144,7 +144,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 | 134 | [PLAY](https://open.spotify.com/track/0ddSLVdbpKFO1FtIYpYnw9) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Childhood](https://open.spotify.com/album/6Nb2vk4KMl2TH12CXc6YAb) | 3:46 |
 | 135 | [Hero](https://open.spotify.com/track/3jfkavi0DplCgF687ce9Md) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [INSIDE](https://open.spotify.com/album/38ifcco3lQ2JhSpU5JLMGW) | 3:16 |
 | 136 | [Flowering](https://open.spotify.com/track/1ygmHMAn6HYtCrQ4fHqD0x) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [DEAR.](https://open.spotify.com/album/70J3PvQ7lVT5YWswgcSwWt) | 4:11 |
-| 137 | [Time Walking on Memories](https://open.spotify.com/track/6XkrfYmgPGSvgufoivTQgj) | [NELL](https://open.spotify.com/artist/5WY88tCMFA6J6vqSN3MmDZ) | [Let’s Part](https://open.spotify.com/album/1gtx8gQjltBxIWjmk87QpB) | 6:29 |
+| 137 | [The time of walking on remembrance](https://open.spotify.com/track/0LSmb1eo894EJ7eIWPaAgQ) | [NELL](https://open.spotify.com/artist/5WY88tCMFA6J6vqSN3MmDZ) | [Separation Anxiety](https://open.spotify.com/album/4qQ0t1Feq5AjdT8tw1C73h) | 5:12 |
 | 138 | [Stay](https://open.spotify.com/track/0FKCn2juc9oNNAwrdFaanq) | [NELL](https://open.spotify.com/artist/5WY88tCMFA6J6vqSN3MmDZ) | [Let It Rain](https://open.spotify.com/album/6t1raUERDLYB8Xk0vc4HKY) | 3:39 |
 | 139 | [Ocean of Light](https://open.spotify.com/track/3OMAINkoHuBJcLu7R39Q6P) | [NELL](https://open.spotify.com/artist/5WY88tCMFA6J6vqSN3MmDZ) | [Escaping Gravity](https://open.spotify.com/album/0jnaBGk3e6LxiFjh2Sa1rO) | 4:58 |
 | 140 | [Grace](https://open.spotify.com/track/6hpWk3kV9phxtzxbzzXmIF) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [CATNIP](https://open.spotify.com/album/66DrcdGAs9lGvTbsf5Tgdh) | 4:05 |
@@ -225,7 +225,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 | 215 | [普通人類](https://open.spotify.com/track/5rn3NO1vtp9Ph96caHuVHl) | [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78) | [普通人類](https://open.spotify.com/album/67oS4pQ31kmSwAFCMGiM2b) | 4:35 |
 | 216 | [Nightfall](https://open.spotify.com/track/6y0m2ZqxryJvRtjSlW2Uw0) | [SKIPJACK](https://open.spotify.com/artist/3eqel93sPqKCJfZsgi1uHp) | [Nightfall](https://open.spotify.com/album/4XKHSscld4s0dTFovtcb0l) | 4:12 |
 | 217 | [WINDFALL](https://open.spotify.com/track/4vDQif49Q72QYDvv6wY3Jm) | [Batu](https://open.spotify.com/artist/46KDmhUlDVGGuku0s3n06t) | [EMOTION AND HARMONY](https://open.spotify.com/album/03ikfIg0GxnNMlFl6wlKLi) | 4:43 |
-| 218 | [생각없는생각에털썩머무르자 Mindless mind](https://open.spotify.com/track/5oKr4zxLZxe4rNj2SrzWYR) | [Jisokury](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [생각없는생각에털썩머무르자 Mindless mind](https://open.spotify.com/album/7lGC2tpIRttYuRWGazMQP2) | 4:15 |
+| 218 | [생각없는생각에털썩머무르자 Mindless mind](https://open.spotify.com/track/5oKr4zxLZxe4rNj2SrzWYR) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [생각없는생각에털썩머무르자 Mindless mind](https://open.spotify.com/album/7lGC2tpIRttYuRWGazMQP2) | 4:15 |
 | 219 | [Evening Glow](https://open.spotify.com/track/1Yuua9AnSRDl0taHxpVNzM) | [Dayangsung](https://open.spotify.com/artist/3nVkLQWe6gkgmqia9kl89z) | [A World Full Of Paper Planes & Balloons](https://open.spotify.com/album/5QlrdfNsruHMELFrb9xEDd) | 3:41 |
 | 220 | [Continent of Mu](https://open.spotify.com/track/4v2IhNJLpJ3DPVbTZoEO77) | [Oah!](https://open.spotify.com/artist/5SH8ZbsJIqONusEcizNep3) | [PANORAMA](https://open.spotify.com/album/1kVaKFcXxNM6LPkJlDVGCE) | 3:26 |
 | 221 | [Beautiful days](https://open.spotify.com/track/20aQQG44sUAjvVIhwAn5ES) | [밴드기린](https://open.spotify.com/artist/1eIXaK6EOhmMncTZ2L1SWG) | [Beautiful days](https://open.spotify.com/album/38b0Ivf0z7RQcT01oiuFqd) | 3:40 |
@@ -234,4 +234,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 | 224 | [In My Mind](https://open.spotify.com/track/0lXhyCQBqlEbperz8Ot6aZ) | [828](https://open.spotify.com/artist/0TWjYNZU7pTssEBPuMiyXA) | [Suffering Repetition, But Tomorrow](https://open.spotify.com/album/6tlEfSXtuiRUXjzAcpzlSe) | 4:57 |
 | 225 | [Taxi](https://open.spotify.com/track/0ahGmXLKdNeji12zTQYp0T) | [Hwanho](https://open.spotify.com/artist/3PIsLQ22l4FXjkpyua0L3n) | [Taxi](https://open.spotify.com/album/0NcUqsLQjkVQfIQGOXbyjB) | 3:50 |
 
-Snapshot ID: `MTY2NTE1NzQwNCwwMDAwMDAwMDJlNjJiNDg3NGI4NWE5MDMwZjljZjE1MGVhMjZlNjU2`
+Snapshot ID: `MTY2NjEwMTQ4MywwMDAwMDAwMDM0NjJmNDFlZTQ2ZTBkN2ZlZjUxMTExMGNkOTM2YTFl`

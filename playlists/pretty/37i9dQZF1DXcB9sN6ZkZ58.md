@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcB9sN6ZkZ58.md) - [plain]
 
 > Food sing\-a\-longs for breakfast, lunch, or snack time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,905 likes - 98 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,897 likes - 98 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcB9sN6ZkZ58.md) - [plain]
 | 15 | [Don't Yuck My Yum](https://open.spotify.com/track/3073TDRBWJU4oDuwAvc8FU) | [Shine and the Moonbeams](https://open.spotify.com/artist/5IwCPV7WRS7rIQN41cur1q) | [I Am](https://open.spotify.com/album/4ST8f5iI7KoSvYGYma4Yjp) | 2:59 |
 | 16 | [Blueberries](https://open.spotify.com/track/3kJ1HeCowScG4q35toItTF) | [Music with Michal](https://open.spotify.com/artist/0yWkbyIrjncjW6FdtfgRSc) | [Can You Make Music?](https://open.spotify.com/album/5NZgvrWTdnPLkJDt7FBgBd) | 2:31 |
 | 17 | [Pancakes for Breakfast](https://open.spotify.com/track/7kRTWwrPgRCtwftX2oTRF4) | [Ginalina](https://open.spotify.com/artist/06QOnJaT57H3lQcrx3B1kP) | [Forest Friends' Nature Club Album](https://open.spotify.com/album/6e79AwZQO9nJYq6qb7SL16) | 1:38 |
-| 18 | [My Favorite Snack](https://open.spotify.com/track/16fs8Zn53hURmvswqPxHOc) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Good Ideas](https://open.spotify.com/album/1Uz91yvWTiomeFibfqP761) | 2:09 |
-| 19 | [Trying New Foods](https://open.spotify.com/track/7KlXmSL2CAk3qGBxUjqOyc) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams Vol\. 4](https://open.spotify.com/album/5DVi5E1sWfntwlsAqs4Vya) | 2:20 |
+| 18 | [My Favorite Snack](https://open.spotify.com/track/27FtRxsXJxxzuxYMC4eJo4) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Juice Box Heroes](https://open.spotify.com/album/2AQwQmEdTsVDEzuOeQ4Pna) | 2:09 |
+| 19 | [Trying New Foods](https://open.spotify.com/track/7Go2RKeKgTkwhZ7i2r931R) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams Vol\. 4](https://open.spotify.com/album/6HNhpLhni1sQwajwDBT0RT) | 2:20 |
 | 20 | [Farmer's Market](https://open.spotify.com/track/2ajPDldJr8RicylhXAwbnh) | [Laura Doherty](https://open.spotify.com/artist/7bVSBw7ZOfKRyPBzTjEIoG) | [Kids In The City](https://open.spotify.com/album/0u6Q3uQTy7aqQ7DVKpGltt) | 2:37 |
 | 21 | [I Take My Lunch to School](https://open.spotify.com/track/4OUrLIGnPLeaq0VB1SjFca) | [Kath Bee](https://open.spotify.com/artist/5pYeD8r1vE9mMyA9qAs7qk) | [I Take My Lunch to School](https://open.spotify.com/album/3ybZmFqFJ3N81pwzfPQFoQ) | 2:21 |
 | 22 | [What Makes the Breakfast?](https://open.spotify.com/track/5SAonAPaOCBYgFyCT15I9l) | [Mike Phirman](https://open.spotify.com/artist/4RXwlvGvt3VjfVJjVIFQTJ) | [Songs to Sing at Children](https://open.spotify.com/album/58SHDR5ORDlCe909wOZeD8) | 3:27 |
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcB9sN6ZkZ58.md) - [plain]
 | 51 | [A Healthy Meal](https://open.spotify.com/track/3Qy8BN2lRFY61MLVGlCTlc) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Healthy Habits \(Pt\. 1\-3\)](https://open.spotify.com/album/57aoBY63rXYvnherisZpdh) | 1:09 |
 | 52 | [1, 2 What Shall We Do? \(Pancakes\)](https://open.spotify.com/track/3xSOh4Xj9uLhAnIC2NxLdy) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Dance, Sing & Laugh](https://open.spotify.com/album/6TINDB2CCxmNG5S95S6LEV) | 1:59 |
 | 53 | [Dessert First](https://open.spotify.com/track/3ZL8p6pos3EO0xarQIaLUh) | [Macaroni Birthday](https://open.spotify.com/artist/1VXYt4oC9gZCsYKMkguRZx) | [Dessert First](https://open.spotify.com/album/4Rg3JYKqMjgLiKpjdwFVOA) | 1:30 |
-| 54 | [Healthy Eating](https://open.spotify.com/track/359M3tiY30lcBM2UO2pXoX) | [Cocomelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Fun Learning](https://open.spotify.com/album/68pllW49tJvjL0TPwGpQIM) | 1:56 |
+| 54 | [Healthy Eating](https://open.spotify.com/track/359M3tiY30lcBM2UO2pXoX) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Fun Learning](https://open.spotify.com/album/68pllW49tJvjL0TPwGpQIM) | 1:56 |
 | 55 | [Dance, Little Meatball, Dance](https://open.spotify.com/track/69WrOpLyGJHRR5S2GL96QU) | [Mike Phirman](https://open.spotify.com/artist/4RXwlvGvt3VjfVJjVIFQTJ) | [Songs to Sing at Children](https://open.spotify.com/album/58SHDR5ORDlCe909wOZeD8) | 3:59 |
 | 56 | [A Pizza Pie](https://open.spotify.com/track/4zgJR2A0iGC3MeLZVxgfQJ) | [Rolie Polie Guacamole](https://open.spotify.com/artist/5B7XLUnkpg3TQYgP088xqT) | [Avocado](https://open.spotify.com/album/548o11z8WtjhmKLFRzajvz) | 3:16 |
 | 57 | [Try a New Food, It Might Taste Good!](https://open.spotify.com/track/2f6XgxjybNg1sz8haqiBaf) | [Daniel Tiger’s Neighborhood](https://open.spotify.com/artist/0T91UD2v3byVXh8aSP8oHG) | [Daniel Tiger's Neighborhood: Life's Little Lessons](https://open.spotify.com/album/4inXPDlLGoSV1DdxEIc4Vq) | 1:02 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcB9sN6ZkZ58.md) - [plain]
 | 93 | [Food Songs](https://open.spotify.com/track/6bjWN0h8PH2hso2JUvK7hG) | [Alphabet Rockers](https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04) | [Go!](https://open.spotify.com/album/6o2B1S43upwy3y1eBDvbSl) | 2:22 |
 | 94 | [10 Fat Sausages](https://open.spotify.com/track/3Qnsxavk66i1M1G6ZQqXa7) | [Pre\-Teens](https://open.spotify.com/artist/53y0JudctNqoyg3uMVPTka) | [Activity Time](https://open.spotify.com/album/3EtRvuANnyYg1ZGHhs8seE) | 1:24 |
 | 95 | [Beans and Weenies](https://open.spotify.com/track/4OVJqV9Qur5mmzIITiYBTu) | [Trout Fishing in America](https://open.spotify.com/artist/5gAy9e3RXVsKUbZvmydkR6) | [My World](https://open.spotify.com/album/7eVTOjYvPv6uekXpjeDSss) | 2:05 |
-| 96 | [I'd Eat It Anyway](https://open.spotify.com/track/0qGjCWPtmI8epcV6aeLALB) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Good Ideas](https://open.spotify.com/album/1Uz91yvWTiomeFibfqP761) | 2:24 |
+| 96 | [I'd Eat It Anyway](https://open.spotify.com/track/4pNSUTNUmVicSriWSCoGDY) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Good Ideas](https://open.spotify.com/album/1i8TZqSzAGr0IfHRhvkP1b) | 2:25 |
 | 97 | [Pat\-a\-Cake, Pat\-a\-Cake](https://open.spotify.com/track/5W3cEk3UQTFeq9Tl4hrpAX) | [The Montreal Children's Workshop](https://open.spotify.com/artist/0NAOoExRWvbLIrFuPzMz5x) | [Kids Songs! Fun Children's Music from Sesame Street, Phineas and Ferb and More!](https://open.spotify.com/album/30CMD4AQlK6F83q96ntZA7) | 2:22 |
 | 98 | [Sour Pickle Face](https://open.spotify.com/track/4TGEiXt5kJ0zUUJNpzuShL) | [Barney](https://open.spotify.com/artist/4rB5wLJLaXdMrXaYsOYLmK) | [Barney Rocks!](https://open.spotify.com/album/2smtpdsWQdu87DNcNC1xCw) | 1:34 |
 
-Snapshot ID: `MTY0OTE5MzI5NywwMDAwMDAwMGQ0MGEyMWEwN2U2MTgwNGM4NWQ4MjY0YmZkNGM1MjVl`
+Snapshot ID: `MTY0OTE5MzI5NywwMDAwMDAwMDIxMTViOGYzMWZiOGExOTE4ZmMzNWY1Zjk2MzRmNjRj`

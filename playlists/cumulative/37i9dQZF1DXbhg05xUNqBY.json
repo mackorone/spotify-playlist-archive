@@ -41,7 +41,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": null,
       "duration_ms": 187943,
       "name": "Be My Shalom",
       "url": "https://open.spotify.com/track/6eGFb1mib8IH3F6QGirRIG"
@@ -389,7 +389,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 220454,
       "name": "Help Is on the Way",
       "url": "https://open.spotify.com/track/6XKKR2EK2L6MV6zRQQuVxe"
@@ -465,7 +465,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 222642,
       "name": "In Christ Alone (En J\u00e9sus Seul)",
       "url": "https://open.spotify.com/track/6Qn5PXBQQxfTeu7QT742MQ"
@@ -1059,6 +1059,24 @@
     {
       "album": {
         "name": "So Well",
+        "url": "https://open.spotify.com/album/7tDMDC5zHGdawFHfFrKpwj"
+      },
+      "artists": [
+        {
+          "name": "Caleb and Kelsey",
+          "url": "https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg"
+        }
+      ],
+      "date_added": "2021-10-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-21",
+      "duration_ms": 289111,
+      "name": "So Well",
+      "url": "https://open.spotify.com/track/6oEH8lhWAcFZUJZRpakBpB"
+    },
+    {
+      "album": {
+        "name": "So Well",
         "url": "https://open.spotify.com/album/4fTsqC23xThgybhDfyjKry"
       },
       "artists": [
@@ -1193,6 +1211,24 @@
       "duration_ms": 280120,
       "name": "The Gospel is Rest",
       "url": "https://open.spotify.com/track/4s6Dhz3qSe4ziHCVQ0UvtA"
+    },
+    {
+      "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/7ebIxlhEADsL5NNiWmRRuk"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+        }
+      ],
+      "date_added": "2021-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156270,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/0I5r1VOxCdRdmAnBkTcBFS"
     },
     {
       "album": {

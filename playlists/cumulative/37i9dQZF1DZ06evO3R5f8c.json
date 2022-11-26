@@ -75,6 +75,28 @@
     {
       "album": {
         "name": "Su Casa",
+        "url": "https://open.spotify.com/album/0JnhG5mHpSHvdCQnzM3egu"
+      },
+      "artists": [
+        {
+          "name": "Mi Casa",
+          "url": "https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326586,
+      "name": "Africa Shine",
+      "url": "https://open.spotify.com/track/2OQkQAJk9NEotTdt0DmIUS"
+    },
+    {
+      "album": {
+        "name": "Su Casa",
         "url": "https://open.spotify.com/album/4Dey5FtFdBPkU1uxJ45DL8"
       },
       "artists": [
@@ -89,7 +111,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 326586,
       "name": "Africa Shine",
       "url": "https://open.spotify.com/track/7uld2wN7GThO54ryAS0ezL"
@@ -155,10 +177,32 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 515010,
       "name": "Buya",
       "url": "https://open.spotify.com/track/5HoVd9a4C9Lu5xvkJ2iWXU"
+    },
+    {
+      "album": {
+        "name": "Buya",
+        "url": "https://open.spotify.com/album/6MmO8KpXWEyz4qh41tnzhU"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Toshi",
+          "url": "https://open.spotify.com/artist/6G621T2CmHyx5LCvd8QE63"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 515010,
+      "name": "Buya",
+      "url": "https://open.spotify.com/track/7xZj6OXBXA274dQUMnbU06"
     },
     {
       "album": {
@@ -224,6 +268,28 @@
     },
     {
       "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/08sFjhTbcwCDDCiU9KdnKH"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Thiwe",
+          "url": "https://open.spotify.com/artist/0iUfURNTBS7ScaEajv9Uve"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 466375,
+      "name": "Crazy - Quentin Harris Remix",
+      "url": "https://open.spotify.com/track/3Rfki9RUi1LpONeXvH1o5v"
+    },
+    {
+      "album": {
         "name": "Crazy (The Remixes)",
         "url": "https://open.spotify.com/album/7yjLZJERrZNHb2OojbmqBO"
       },
@@ -243,7 +309,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 466375,
       "name": "Crazy - Quentin Harris Remix",
       "url": "https://open.spotify.com/track/6iqdyQpUgpO2dYXlqDoi5s"
@@ -283,7 +349,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 3302560,
       "name": "DJ Mix",
       "url": "https://open.spotify.com/track/0HPsuZ8rZbBf71J34uhYKA"
@@ -647,7 +713,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": "2022-10-13",
       "duration_ms": 290533,
       "name": "Ilala",
       "url": "https://open.spotify.com/track/6mbcIiKVptYN6dD7MuTTJS"
@@ -811,7 +877,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-07",
+      "date_removed": null,
       "duration_ms": 217214,
       "name": "LaLaLa",
       "url": "https://open.spotify.com/track/7qgzhAClZwyz2uEA43lMwg"
@@ -855,7 +921,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 364951,
       "name": "Lost (with Angelos feat. Jinadu)",
       "url": "https://open.spotify.com/track/4MjW0jp8b9hAe1dmzJIBCG"
@@ -1585,7 +1651,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 373640,
       "name": "You Turn Me On",
       "url": "https://open.spotify.com/track/1aqL3jlruipLsSZV9OvgTv"

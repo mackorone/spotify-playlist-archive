@@ -99,7 +99,7 @@
     {
       "album": {
         "name": "Party Favors",
-        "url": "https://open.spotify.com/album/08VQWx0GZFqmUgRtGPntdg"
+        "url": "https://open.spotify.com/album/0Vcu9I1RkUF1VYSVeYwLhR"
       },
       "artists": [
         {
@@ -110,6 +110,24 @@
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 160518,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/2RZWiishrE4Tygv9R7zuZe"
+    },
+    {
+      "album": {
+        "name": "Party Favors",
+        "url": "https://open.spotify.com/album/08VQWx0GZFqmUgRtGPntdg"
+      },
+      "artists": [
+        {
+          "name": "Sir Chloe",
+          "url": "https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-10",
       "duration_ms": 160518,
       "name": "Animal",
       "url": "https://open.spotify.com/track/42Rb5FxBg53gSib0MMACQs"
@@ -145,10 +163,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 219638,
       "name": "bad idea!",
       "url": "https://open.spotify.com/track/1M4Ud66z18wuIq3oOxqVHa"
+    },
+    {
+      "album": {
+        "name": "bad idea!",
+        "url": "https://open.spotify.com/album/4AEKKY9Sny3Uj6U3ELK4Sl"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219638,
+      "name": "bad idea!",
+      "url": "https://open.spotify.com/track/57j65yC2HggQfmYNc6rdOK"
     },
     {
       "album": {
@@ -275,7 +311,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 134116,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt"
@@ -455,7 +491,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-04",
+      "date_removed": null,
       "duration_ms": 157000,
       "name": "For the Damaged Coda",
       "url": "https://open.spotify.com/track/6lvJDlBrtabJWiBlMTGxKs"
@@ -683,7 +719,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-14",
       "duration_ms": 116550,
       "name": "i wanna slam my head against the wall",
       "url": "https://open.spotify.com/track/4dVR8jBG0RQ7jbdi8GRkyd"

@@ -2,7 +2,7 @@
 
 ### [TeamSupreme Selects](https://open.spotify.com/playlist/4A01B3wh6uv7yOpzYdVLR3)
 
-> Weekly Selects of the best music chosen by the TeamSupremeCrew themselves..\. Turn the Volume up to 100.
+> 
 
 40 songs - 2 hr 28 min - [published](https://open.spotify.com/playlist/0Hwzpuhf8n2GEACKtavKdB)
 

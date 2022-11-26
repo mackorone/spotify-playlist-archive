@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 219333,
       "name": "A Heart Like Yours",
       "url": "https://open.spotify.com/track/75Zi4UtjmA481WbpT0nXjA"
@@ -287,7 +287,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 250266,
       "name": "Hallelujah Praise (The Highest Praise)",
       "url": "https://open.spotify.com/track/4YTCoAFZ03GBHCdoZh0KGl"
@@ -305,7 +305,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 69200,
       "name": "Hallelujah To The King - Intro",
       "url": "https://open.spotify.com/track/76NJYRHzTRjBqkS87nBCQv"
@@ -431,7 +431,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 377026,
       "name": "How Great Thou Art!",
       "url": "https://open.spotify.com/track/0rJhS2Mw9ozyCnxzducYi4"
@@ -467,7 +467,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 299333,
       "name": "I Promise (Wedding Song)",
       "url": "https://open.spotify.com/track/3pTA6tD4Xv25EJrAeCjBp6"
@@ -561,6 +561,28 @@
       "duration_ms": 212053,
       "name": "Just To Be Close To You - Live",
       "url": "https://open.spotify.com/track/4YUK1HEfd7DqcCLP561VjF"
+    },
+    {
+      "album": {
+        "name": "Awaken: The Surrounded Experience",
+        "url": "https://open.spotify.com/album/7ABTyGBo7jkcRjLwA03Kqa"
+      },
+      "artists": [
+        {
+          "name": "Michael W. Smith",
+          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
+        },
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344413,
+      "name": "King of Glory",
+      "url": "https://open.spotify.com/track/070zy0czmO8UahOkPlXtIX"
     },
     {
       "album": {
@@ -719,7 +741,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": "2022-10-13",
       "duration_ms": 522973,
       "name": "No Greater - Live",
       "url": "https://open.spotify.com/track/5PcQV7HNDr2c1mpSoRirgt"
@@ -889,10 +911,36 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 287906,
       "name": "Throne Room",
       "url": "https://open.spotify.com/track/6qZe7re42jfoHPEU916WgS"
+    },
+    {
+      "album": {
+        "name": "A Billy Graham Music Homecoming (Vol. 2 / Live)",
+        "url": "https://open.spotify.com/album/0Gn8LSdxzYGqXhTs91kWx8"
+      },
+      "artists": [
+        {
+          "name": "Gaither",
+          "url": "https://open.spotify.com/artist/1rKNroS04wbR4kgHIGBghY"
+        },
+        {
+          "name": "Andrae Crouch",
+          "url": "https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7"
+        },
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243373,
+      "name": "Through It All - Live",
+      "url": "https://open.spotify.com/track/5zDIg5nO5TxvEnGUJBiw45"
     },
     {
       "album": {

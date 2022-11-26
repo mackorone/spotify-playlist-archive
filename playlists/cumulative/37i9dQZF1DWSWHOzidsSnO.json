@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "\u00a1Bad Milk y m\u00e1s mujeres, a todo volumen!",
+  "description": "\u00a1Las Villa y m\u00e1s mujeres, a todo volumen!",
   "name": "EQUAL Colombia",
   "published_playlist_ids": [
     "4BjclhMki5D8Bs9ZwTy9s8"
@@ -290,6 +290,28 @@
     },
     {
       "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/5Etz4hHQKyjwMBNQ2A0G4i"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        },
+        {
+          "name": "Nidia Gongora",
+          "url": "https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 243680,
+      "name": "Balada Borracha",
+      "url": "https://open.spotify.com/track/4NPgATaM6E5lmf9iCSfu2L"
+    },
+    {
+      "album": {
         "name": "Voy Pa All\u00e1",
         "url": "https://open.spotify.com/album/2VkO77Wpc5HF312r8Itfa4"
       },
@@ -413,6 +435,28 @@
       "duration_ms": 205998,
       "name": "Carmen de Bol\u00edvar",
       "url": "https://open.spotify.com/track/08KKrMkUXIXa5dvdyab0y1"
+    },
+    {
+      "album": {
+        "name": "Coraz\u00f3n Cruzado",
+        "url": "https://open.spotify.com/album/2YYfpE23VaR71QdKbJZUid"
+      },
+      "artists": [
+        {
+          "name": "Las Villa",
+          "url": "https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM"
+        },
+        {
+          "name": "Nicole Zignago",
+          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153760,
+      "name": "Coraz\u00f3n Cruzado",
+      "url": "https://open.spotify.com/track/0n4bTZeW7B9wAqcr5EffZe"
     },
     {
       "album": {
@@ -723,7 +767,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 210700,
       "name": "Florence",
       "url": "https://open.spotify.com/track/5ZBumKfXdJ84jIbCrKTo7Y"
@@ -933,6 +977,24 @@
     {
       "album": {
         "name": "La Golondrina",
+        "url": "https://open.spotify.com/album/5Z5sMwjSx1sWjfDF3k4vdu"
+      },
+      "artists": [
+        {
+          "name": "Sara Acero",
+          "url": "https://open.spotify.com/artist/6W6fsqgVlpnVT4hRA4eAA3"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189978,
+      "name": "La Golondrina",
+      "url": "https://open.spotify.com/track/3Cl33QcFC9RYKaCSgofRLR"
+    },
+    {
+      "album": {
+        "name": "La Golondrina",
         "url": "https://open.spotify.com/album/4JduN8steJ6xSfzLPHFIHr"
       },
       "artists": [
@@ -943,10 +1005,28 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 189978,
       "name": "La Golondrina",
       "url": "https://open.spotify.com/track/6C844QxMDqREFU36dK2JOd"
+    },
+    {
+      "album": {
+        "name": "SOY",
+        "url": "https://open.spotify.com/album/1MT2fFeo1P43UdB7eOBn0H"
+      },
+      "artists": [
+        {
+          "name": "Sara Acero",
+          "url": "https://open.spotify.com/artist/6W6fsqgVlpnVT4hRA4eAA3"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 189978,
+      "name": "La Golondrina",
+      "url": "https://open.spotify.com/track/77jpUw61GGfLvV2leJ71re"
     },
     {
       "album": {
@@ -1152,6 +1232,24 @@
     },
     {
       "album": {
+        "name": "Ma\u00f1ana Sale el Sol",
+        "url": "https://open.spotify.com/album/6OOZcZT4nMUHSYWu7MkANQ"
+      },
+      "artists": [
+        {
+          "name": "Sabi Satiz\u00e1bal",
+          "url": "https://open.spotify.com/artist/3hkSIfiborsBV1wzOqe2qX"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192391,
+      "name": "Ma\u00f1ana Sale el Sol",
+      "url": "https://open.spotify.com/track/2Ow881dT1aqqHsyBQtLxOQ"
+    },
+    {
+      "album": {
         "name": "Me Duele",
         "url": "https://open.spotify.com/album/5rnykaeDDoPwOTG0e6PuKN"
       },
@@ -1313,6 +1411,24 @@
       "duration_ms": 180165,
       "name": "Muri\u00f3 El Amor",
       "url": "https://open.spotify.com/track/2D6SrlLoIjmDX8xhCBA06n"
+    },
+    {
+      "album": {
+        "name": "Muri\u00f3 El Amor",
+        "url": "https://open.spotify.com/album/4JgfiwhiBdF6RCmyrrdu6I"
+      },
+      "artists": [
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 180165,
+      "name": "Muri\u00f3 El Amor",
+      "url": "https://open.spotify.com/track/55MDapQ9XrghnRPUCoSvQh"
     },
     {
       "album": {
@@ -1565,7 +1681,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 184693,
       "name": "No Soy de Callar",
       "url": "https://open.spotify.com/track/47U6WT9IaozynJQQn4cfHb"
@@ -1699,7 +1815,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 249035,
       "name": "Ovarios",
       "url": "https://open.spotify.com/track/2gC9hVnERFu46pSYh3xNST"
@@ -2097,6 +2213,24 @@
       "duration_ms": 171904,
       "name": "Ubalauka",
       "url": "https://open.spotify.com/track/0BjB9sSJtvQdmoMGieswNw"
+    },
+    {
+      "album": {
+        "name": "Uh yeah",
+        "url": "https://open.spotify.com/album/1ofnoofcnmiI5N1cGeXqJD"
+      },
+      "artists": [
+        {
+          "name": "Mabiland",
+          "url": "https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212141,
+      "name": "Uh yeah",
+      "url": "https://open.spotify.com/track/1PaH6xUsycYE68nsXL4j3I"
     },
     {
       "album": {

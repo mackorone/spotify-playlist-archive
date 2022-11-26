@@ -1,18 +1,54 @@
 {
-  "description": "Die beste in Afrikaanse Hip Hop Cover: <a href=\"https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA?si=w8EU1cUrSMGlI2MssXYRjA\">Jack Parow</a>\n",
-  "num_followers": 151,
+  "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl?si=fvnHAKwCQ-u8gnmqQaUJ8A\">Loufi</a>\n",
+  "num_followers": 293,
   "original_name": "Afrikaanse Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDI4Mzg5NCwwMDAwMDAwMGVhNmI0MzZhZjIwMDVjZGQ1MzJkMzFiMDhlMzc2MDI4",
+  "snapshot_id": "MTY2ODcyMjM0MCwwMDAwMDAwMDhkZDVhYWM3MTQ4MmU0YjBlMzBlODJkMjBjYjhhNmMz",
   "tracks": [
     {
-      "added_at": "2022-09-22 21:59:00",
+      "added_at": "2022-11-17 21:59:00",
       "album": {
-        "name": "Happy Family",
-        "url": "https://open.spotify.com/album/578wRRxJyUWvqtvZTQ2V21"
+        "name": "Moola",
+        "url": "https://open.spotify.com/album/049XrxSNx2ydPbdhelP51t"
+      },
+      "artists": [
+        {
+          "name": "Loufi",
+          "url": "https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl"
+        },
+        {
+          "name": "Jayms",
+          "url": "https://open.spotify.com/artist/1reef06goIFAhuhQsLUHf5"
+        }
+      ],
+      "duration_ms": 184407,
+      "name": "Moola",
+      "url": "https://open.spotify.com/track/3WL45hKgftF4Ffc9GUlhIZ"
+    },
+    {
+      "added_at": "2022-09-08 21:59:00",
+      "album": {
+        "name": "Grammadoelas",
+        "url": "https://open.spotify.com/album/1J34TIvVyMaThKgphKhHd5"
+      },
+      "artists": [
+        {
+          "name": "KRO-Barz",
+          "url": "https://open.spotify.com/artist/6goTSFa3mfHHZwybNGIQEq"
+        }
+      ],
+      "duration_ms": 123333,
+      "name": "Grammadoelas",
+      "url": "https://open.spotify.com/track/6NTJdN3XkNb7ZSFD0ulNHK"
+    },
+    {
+      "added_at": "2022-10-27 21:59:00",
+      "album": {
+        "name": "Mermaid",
+        "url": "https://open.spotify.com/album/0aXpcLp49iI5h6y3MhSKDY"
       },
       "artists": [
         {
@@ -20,17 +56,65 @@
           "url": "https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA"
         },
         {
-          "name": "Early B",
-          "url": "https://open.spotify.com/artist/5TPAUNFxyxSe1eyIeY5sQd"
-        },
-        {
-          "name": "Bliksemstraal",
-          "url": "https://open.spotify.com/artist/3o16GHS46wYhqaie5gphhJ"
+          "name": "Loki Rothman",
+          "url": "https://open.spotify.com/artist/2dRlORRtjS7XHuCdEbHrE3"
         }
       ],
-      "duration_ms": 244956,
-      "name": "Happy Family",
-      "url": "https://open.spotify.com/track/48dgyAaCvCVEL7V1wCa7ir"
+      "duration_ms": 193628,
+      "name": "Mermaid",
+      "url": "https://open.spotify.com/track/6nxQX5P9TDm2iDtH5gCIQc"
+    },
+    {
+      "added_at": "2022-10-13 21:59:00",
+      "album": {
+        "name": "The Goats Ep",
+        "url": "https://open.spotify.com/album/7gNuFZUosaLFUvWK4xJV8D"
+      },
+      "artists": [
+        {
+          "name": "Temple Boys Cpt",
+          "url": "https://open.spotify.com/artist/4xFNz56JhznT2ic3fhEg8n"
+        }
+      ],
+      "duration_ms": 215536,
+      "name": "Werkhom 2.0 (Bonus Track)",
+      "url": "https://open.spotify.com/track/0zi0Do3nO8LtRzlau2V7DR"
+    },
+    {
+      "added_at": "2022-09-08 21:59:00",
+      "album": {
+        "name": "Aangename Kennis",
+        "url": "https://open.spotify.com/album/3rSgGMWq1S2Xipr0kKYfq4"
+      },
+      "artists": [
+        {
+          "name": "Early B",
+          "url": "https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG"
+        }
+      ],
+      "duration_ms": 187480,
+      "name": "Cerebellum",
+      "url": "https://open.spotify.com/track/0RITqRIAaeqTkH69haD3SN"
+    },
+    {
+      "added_at": "2022-11-10 21:59:00",
+      "album": {
+        "name": "Watch Wat Jy Praat",
+        "url": "https://open.spotify.com/album/0xjCTQeFz0rkSNSq2SsyV3"
+      },
+      "artists": [
+        {
+          "name": "Jossi-Boy",
+          "url": "https://open.spotify.com/artist/4Ewat2VC8zABVgUA0YEXvY"
+        },
+        {
+          "name": "Young K",
+          "url": "https://open.spotify.com/artist/2K1piKoDWujwiWh5pdktIV"
+        }
+      ],
+      "duration_ms": 220150,
+      "name": "Watch Wat Jy Praat",
+      "url": "https://open.spotify.com/track/05jiDkfyoTZzhEHf7eN94t"
     },
     {
       "added_at": "2022-09-08 21:59:00",
@@ -51,22 +135,6 @@
       "duration_ms": 309003,
       "name": "Is Dope",
       "url": "https://open.spotify.com/track/2gG5sulAvu3IFeXQTzNxQL"
-    },
-    {
-      "added_at": "2022-09-08 21:59:00",
-      "album": {
-        "name": "Grammadoelas",
-        "url": "https://open.spotify.com/album/1J34TIvVyMaThKgphKhHd5"
-      },
-      "artists": [
-        {
-          "name": "KRO-Barz",
-          "url": "https://open.spotify.com/artist/6goTSFa3mfHHZwybNGIQEq"
-        }
-      ],
-      "duration_ms": 123333,
-      "name": "Grammadoelas",
-      "url": "https://open.spotify.com/track/6NTJdN3XkNb7ZSFD0ulNHK"
     },
     {
       "added_at": "2022-09-08 21:59:00",
@@ -107,22 +175,6 @@
     {
       "added_at": "2022-09-08 21:59:00",
       "album": {
-        "name": "Aangename Kennis",
-        "url": "https://open.spotify.com/album/3rSgGMWq1S2Xipr0kKYfq4"
-      },
-      "artists": [
-        {
-          "name": "Early B",
-          "url": "https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG"
-        }
-      ],
-      "duration_ms": 187480,
-      "name": "Cerebellum",
-      "url": "https://open.spotify.com/track/0RITqRIAaeqTkH69haD3SN"
-    },
-    {
-      "added_at": "2022-09-08 21:59:00",
-      "album": {
         "name": "Raak Taatie",
         "url": "https://open.spotify.com/album/27kJwioZA3Px66PosIdQuy"
       },
@@ -135,6 +187,22 @@
       "duration_ms": 245969,
       "name": "Raak Taatie",
       "url": "https://open.spotify.com/track/53iOtIBVhJwizCcfWWfCRb"
+    },
+    {
+      "added_at": "2022-11-03 21:59:00",
+      "album": {
+        "name": "By Die See",
+        "url": "https://open.spotify.com/album/5Fspb1oAi4FQVr6csHTjz5"
+      },
+      "artists": [
+        {
+          "name": "Harry CBY",
+          "url": "https://open.spotify.com/artist/1dfJrxpx1MxeObARk7bs2l"
+        }
+      ],
+      "duration_ms": 167190,
+      "name": "By Die See",
+      "url": "https://open.spotify.com/track/0GJrUyW2Gi3OrCdbBMl9hI"
     },
     {
       "added_at": "2022-09-22 21:59:00",
@@ -269,6 +337,30 @@
       "url": "https://open.spotify.com/track/2vQlEG2lcO9xcw5t1Gzgtv"
     },
     {
+      "added_at": "2022-09-22 21:59:00",
+      "album": {
+        "name": "Happy Family",
+        "url": "https://open.spotify.com/album/578wRRxJyUWvqtvZTQ2V21"
+      },
+      "artists": [
+        {
+          "name": "Jack Parow",
+          "url": "https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA"
+        },
+        {
+          "name": "Early B",
+          "url": "https://open.spotify.com/artist/5TPAUNFxyxSe1eyIeY5sQd"
+        },
+        {
+          "name": "Bliksemstraal",
+          "url": "https://open.spotify.com/artist/3o16GHS46wYhqaie5gphhJ"
+        }
+      ],
+      "duration_ms": 244956,
+      "name": "Happy Family",
+      "url": "https://open.spotify.com/track/48dgyAaCvCVEL7V1wCa7ir"
+    },
+    {
       "added_at": "2022-09-08 21:59:00",
       "album": {
         "name": "Zomer '17",
@@ -391,26 +483,6 @@
       "duration_ms": 197725,
       "name": "Syfers",
       "url": "https://open.spotify.com/track/0ZpttaASCFswJdD8sJprbJ"
-    },
-    {
-      "added_at": "2022-09-08 21:59:00",
-      "album": {
-        "name": "There It Is",
-        "url": "https://open.spotify.com/album/3lSkOBovZW9Ex1crkCF54B"
-      },
-      "artists": [
-        {
-          "name": "Jack Parow",
-          "url": "https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA"
-        },
-        {
-          "name": "Angie oeh",
-          "url": "https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY"
-        }
-      ],
-      "duration_ms": 222750,
-      "name": "Meisies & Partytjies",
-      "url": "https://open.spotify.com/track/2gesUnuudnlfvTFeuIF8Rw"
     },
     {
       "added_at": "2022-09-08 21:59:00",
@@ -639,22 +711,6 @@
     {
       "added_at": "2022-09-08 21:59:00",
       "album": {
-        "name": "Asemrowers",
-        "url": "https://open.spotify.com/album/1qkUI57JztayVSb6ReQkTv"
-      },
-      "artists": [
-        {
-          "name": "Bittereinder",
-          "url": "https://open.spotify.com/artist/5x7rnGctpbwn7srAYLDD0F"
-        }
-      ],
-      "duration_ms": 217712,
-      "name": "Asemrowers",
-      "url": "https://open.spotify.com/track/5gpo2x24coDr17KWjuT6Le"
-    },
-    {
-      "added_at": "2022-09-08 21:59:00",
-      "album": {
         "name": "Rare Steak",
         "url": "https://open.spotify.com/album/5fyfK8q6TANWOXxrL7i7Fe"
       },
@@ -709,7 +765,7 @@
       "artists": [
         {
           "name": "John James",
-          "url": "https://open.spotify.com/artist/5fN5sHxJksgQWx8eR3Bglv"
+          "url": "https://open.spotify.com/artist/4YSLyAh8QLYsRCMKJFVB3n"
         },
         {
           "name": "Loufi",
@@ -755,22 +811,6 @@
       "duration_ms": 183405,
       "name": "Level Up",
       "url": "https://open.spotify.com/track/5cSoFnlKff1cC7IU1tOLq8"
-    },
-    {
-      "added_at": "2022-09-08 21:59:00",
-      "album": {
-        "name": "Ongerep",
-        "url": "https://open.spotify.com/album/5Q9qa3yXeuPfgDBBKrD7W5"
-      },
-      "artists": [
-        {
-          "name": "Jaak",
-          "url": "https://open.spotify.com/artist/7xPfiz8ANL69EeDuLNS8hm"
-        }
-      ],
-      "duration_ms": 212727,
-      "name": "Ongerep",
-      "url": "https://open.spotify.com/track/3eXMAAp2vmVQYzau6Tr2Zy"
     },
     {
       "added_at": "2022-09-08 21:59:00",
@@ -879,26 +919,6 @@
     {
       "added_at": "2022-09-08 21:59:00",
       "album": {
-        "name": "Awe My Ma Se Kind",
-        "url": "https://open.spotify.com/album/40nAWEdpwiLQLdzqWTQB17"
-      },
-      "artists": [
-        {
-          "name": "Pret Kadet",
-          "url": "https://open.spotify.com/artist/6HViHb4IhV0UAMVV1KMUIk"
-        },
-        {
-          "name": "Foksie Konyn",
-          "url": "https://open.spotify.com/artist/12VZK2SvbJyoOw5OYKee5a"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "Awe My Ma Se Kind",
-      "url": "https://open.spotify.com/track/0Ht2LLaQovMRWaQSRdGD9t"
-    },
-    {
-      "added_at": "2022-09-08 21:59:00",
-      "album": {
         "name": "Ghetto Boi",
         "url": "https://open.spotify.com/album/0L8k4lMOBdc3DNusEDEXRw"
       },
@@ -911,22 +931,6 @@
       "duration_ms": 123402,
       "name": "Ghetto Boi",
       "url": "https://open.spotify.com/track/68OnCNxAld3VHwCqdqhBRK"
-    },
-    {
-      "added_at": "2022-09-08 21:59:00",
-      "album": {
-        "name": "Longjevity",
-        "url": "https://open.spotify.com/album/7gOn06YJr6NTt5cwHmC2Y8"
-      },
-      "artists": [
-        {
-          "name": "Niko10long",
-          "url": "https://open.spotify.com/artist/5AcApmewreZ8Rk8eXWvX2v"
-        }
-      ],
-      "duration_ms": 194146,
-      "name": "Soldaat",
-      "url": "https://open.spotify.com/track/6fXD6fswA7gxaxwwxb7lsY"
     }
   ],
   "unique_name": "Afrikaanse Hip Hop",

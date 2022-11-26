@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/43rSnXFDoctqiZxvEqH14P.md) - [plain]
 
 > Your go\-to collection for just hanging out and doing nothing..\. or whatever.
 
-[Spotify](https://open.spotify.com/user/spotify) - 721 likes - 56 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 722 likes - 56 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

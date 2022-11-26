@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 675280,
       "name": "Amamos Tu Presencia",
       "url": "https://open.spotify.com/track/0WQIkqhtJBYnHBE3xMg9M7"
@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 98702,
       "name": "Asombrado Estoy De Ti\u0301",
       "url": "https://open.spotify.com/track/3wj8VGnWpF7OrvrCxcNuwO"
@@ -151,7 +151,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 274161,
       "name": "Canto Danzo Salto",
       "url": "https://open.spotify.com/track/5FXALCzOPuLhX07GRnrooO"
@@ -176,6 +176,28 @@
     },
     {
       "album": {
+        "name": "Proezas",
+        "url": "https://open.spotify.com/album/3tGDxfvq1cBSlBFr302jMU"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Juan Carlos Alvarado",
+          "url": "https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87466,
+      "name": "Cristo No Est\u00e1 Muerto (feat. Juan Carlos Alvarado)",
+      "url": "https://open.spotify.com/track/6bDHJjWEiWux7haSU8r4g5"
+    },
+    {
+      "album": {
         "name": "Pentecost\u00e9s (En Vivo)",
         "url": "https://open.spotify.com/album/7zyFQuz3nZmzpfRstmXZO0"
       },
@@ -187,7 +209,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": "2022-10-12",
       "duration_ms": 145760,
       "name": "Cuando Pienso (En Vivo)",
       "url": "https://open.spotify.com/track/0FMCuTrcs0ZmPjez4cIc34"
@@ -325,7 +347,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 259255,
       "name": "El Santo De Israel",
       "url": "https://open.spotify.com/track/2ugLJRJQWip01Kymf9XGgB"
@@ -365,10 +387,32 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 255628,
       "name": "Eres Mi Escudo",
       "url": "https://open.spotify.com/track/0vujY1TZglxCttCtELth5n"
+    },
+    {
+      "album": {
+        "name": "Pentecost\u00e9s (En Vivo)",
+        "url": "https://open.spotify.com/album/7zyFQuz3nZmzpfRstmXZO0"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Danilo Montero",
+          "url": "https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105080,
+      "name": "Eres Todopoderoso (En Vivo)",
+      "url": "https://open.spotify.com/track/6O7y9cPLTZd7nycusbRc5P"
     },
     {
       "album": {
@@ -391,7 +435,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 295874,
       "name": "Es por Amor",
       "url": "https://open.spotify.com/track/7qxtwOk7ePRURULyXarzcY"
@@ -511,7 +555,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 200613,
       "name": "Grande Y Fuerte",
       "url": "https://open.spotify.com/track/03sCmgb8PsB4vOH1jrkCGS"
@@ -613,7 +657,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 621407,
       "name": "J\u00fabilo",
       "url": "https://open.spotify.com/track/5Pu8Ug7xIQsm6eRSaYC8IC"
@@ -671,7 +715,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-10-12",
       "duration_ms": 251826,
       "name": "Lev\u00e1ntate Guate",
       "url": "https://open.spotify.com/track/44jaI2hbNmBHAQXpreResb"
@@ -696,6 +740,24 @@
     },
     {
       "album": {
+        "name": "Proezas",
+        "url": "https://open.spotify.com/album/3tGDxfvq1cBSlBFr302jMU"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174346,
+      "name": "Lleg\u00f3 El Tiempo",
+      "url": "https://open.spotify.com/track/5xOdXiAQl8b9OAedNfeI8o"
+    },
+    {
+      "album": {
         "name": "Los Momentos",
         "url": "https://open.spotify.com/album/47lwNt04IjKhtt3tkca0jW"
       },
@@ -711,7 +773,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 311386,
       "name": "Los Momentos",
       "url": "https://open.spotify.com/track/0uiIr4j8np66FGibPwLmVU"
@@ -987,7 +1049,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 473742,
       "name": "Poderoso Dios (Grande y Fiel) - En Vivo",
       "url": "https://open.spotify.com/track/43kj9K6lV6TgvEbPEMtD87"
@@ -1031,7 +1093,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-10-12",
       "duration_ms": 344737,
       "name": "Recibo Mi Milagro feat. Josh Morales \"Miel San Marcos\" (En Vivo)",
       "url": "https://open.spotify.com/track/0E3z3U8GjuxRWhLuhHICVg"
@@ -1049,7 +1111,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 173450,
       "name": "Regoci\u0301jate Oh Moradora De Sio\u0301n",
       "url": "https://open.spotify.com/track/6aSJ4pf8B5gzAFV5XF6gF2"
@@ -1100,6 +1162,28 @@
     },
     {
       "album": {
+        "name": "Sobre La Roca",
+        "url": "https://open.spotify.com/album/2b8BeXIEru1tgbGnOFMAYR"
+      },
+      "artists": [
+        {
+          "name": "Linaje Escogido",
+          "url": "https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216864,
+      "name": "Sobre La Roca (con Miel San Marcos)",
+      "url": "https://open.spotify.com/track/4B131o1HkP5WvJDnJQrCTK"
+    },
+    {
+      "album": {
         "name": "Su Poder",
         "url": "https://open.spotify.com/album/3CTS3cRwUso9FkNqxY4pEV"
       },
@@ -1137,7 +1221,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 352941,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/4b8RrQABoHbJWHCddCeAGp"
@@ -1177,7 +1261,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 287026,
       "name": "Tu Nombre (feat. Coalo Zamorano)",
       "url": "https://open.spotify.com/track/5SMyRgHJ9ZfM97ZffH0Tsl"
@@ -1261,7 +1345,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 260600,
       "name": "Viento Recio (En Vivo)",
       "url": "https://open.spotify.com/track/6jBHRJLPqC90s97aj7TWxV"
@@ -1279,7 +1363,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-25",
+      "date_removed": null,
       "duration_ms": 183854,
       "name": "Vino Celestial",
       "url": "https://open.spotify.com/track/2Idfgbdvy9O1Ii6KpHB3kV"
@@ -1301,6 +1385,28 @@
       "duration_ms": 225127,
       "name": "Vivo Para Adorarte",
       "url": "https://open.spotify.com/track/7tMF8vNNCch6Fxbxex4ewn"
+    },
+    {
+      "album": {
+        "name": "Yeshua el Sonido de Libertad",
+        "url": "https://open.spotify.com/album/30TlihsK5Z82paAmsorcB0"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323365,
+      "name": "Yeshua el Sonido de Libertad",
+      "url": "https://open.spotify.com/track/0LDQ2ouudjOH7d8ECeFAyn"
     },
     {
       "album": {
@@ -1341,7 +1447,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 468578,
       "name": "Yo Vencer\u00e9",
       "url": "https://open.spotify.com/track/6q8gNL44VMVDo4rx6wF8nC"
@@ -1363,7 +1469,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": null,
       "duration_ms": 101866,
       "name": "\u00d3leo De Alegr\u00eda (feat. Ovidio Barrios)",
       "url": "https://open.spotify.com/track/56W5sxRrdEjCgAO0ZrWWVK"

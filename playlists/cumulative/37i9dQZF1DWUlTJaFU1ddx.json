@@ -344,6 +344,24 @@
     },
     {
       "album": {
+        "name": "Summer Ragers 2021",
+        "url": "https://open.spotify.com/album/3YFGjlsIn8bHeFBS9WpfFE"
+      },
+      "artists": [
+        {
+          "name": "Issam Alnajjar",
+          "url": "https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 209684,
+      "name": "Hadal Ahbek",
+      "url": "https://open.spotify.com/track/4KlMXCYiuyUgfYhv65T137"
+    },
+    {
+      "album": {
         "name": "BAREE?",
         "url": "https://open.spotify.com/album/1gZW7IiLxwvWx0VAR9HK3X"
       },

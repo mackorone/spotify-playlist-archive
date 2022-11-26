@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2EsohEQHsGn1LWNgOxnuoI.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 337 likes - 61 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 340 likes - 61 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/2EsohEQHsGn1LWNgOxnuoI.md) - [plain]
 | 13 | [Djiriyo](https://open.spotify.com/track/0gjn0NAKDKWNgBCYe2CRsl) | [Abdoulaye Diabaté](https://open.spotify.com/artist/6SferzHRUVZYD8ik3BwbrL) | [Djiriyo](https://open.spotify.com/album/77Nqn4echAi90cMNiKpvLn) | 5:37 |
 | 14 | [Lufuala Ndonga](https://open.spotify.com/track/4HGafTZk65vezbglD1BMJ6) | [Konono N°1](https://open.spotify.com/artist/6Sr77iisVrcSg7bQfqqRHk) | [Congotronics](https://open.spotify.com/album/2zcyIXaD6h9Mmmhw7CY9oM) | 9:27 |
 | 15 | [La Drogue](https://open.spotify.com/track/1tr4fnIBewxG2ikhoDm0wV) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Red & Green](https://open.spotify.com/album/0yA2fo2cfYJbbiIQN8UVTZ) | 5:36 |
-| 16 | [Fado Português](https://open.spotify.com/track/0fzYtbrlvjnw3rXbxAyUZp) | [Amália Rodrigues](https://open.spotify.com/artist/1ZSqIqDh1C6JWfATm66PrJ) | [The Art of Amália Rodrigues Vol\. I](https://open.spotify.com/album/6vlBFxsmBV0BDsdOL8rDrx) | 4:58 |
+| 16 | [Fado Português](https://open.spotify.com/track/0fzYtbrlvjnw3rXbxAyUZp) | [Amália Rodrigues](https://open.spotify.com/artist/0DBF33ctUe4yhxKP3eTcCt) | [The Art of Amália Rodrigues Vol\. I](https://open.spotify.com/album/6vlBFxsmBV0BDsdOL8rDrx) | 4:58 |
 | 17 | [Ja Funmi](https://open.spotify.com/track/7LLyEy0GVYBpziR5O06ZZv) | [King Sunny Ade](https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1) | [Juju Music](https://open.spotify.com/album/4BsMW0J2DUx9R9fP5TAEYs) | 7:08 |
 | 18 | [Indosiko anao](https://open.spotify.com/track/3Z2oW60MoTeFZ8UjXVVcgI) | [Jaojoby](https://open.spotify.com/artist/5KL2vJiSdNo1rrkhurd6St) | [Malagasy](https://open.spotify.com/album/1OtOcgQ20I2jK7qXsv0F4k) | 3:22 |
 | 19 | [Doninké](https://open.spotify.com/track/7kFw52bLwE3Okwfrmftnet) | [Kandia Kouyate](https://open.spotify.com/artist/5360uOindw6F5DjT5y1m0k) | [Kita Kan](https://open.spotify.com/album/5viIBmxx2h4cK3vPxxJxSV) | 7:16 |

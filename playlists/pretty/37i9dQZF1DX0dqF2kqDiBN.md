@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dqF2kqDiBN.md) - [plain]
 
 > Blues with a lighter, up\-beat feel\. Cover: Taj Mahal & Keb' Mo'
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,337 likes - 45 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,701 likes - 45 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dqF2kqDiBN.md) - [plain]
 | 17 | [Slipped, Tripped And Fell In Love](https://open.spotify.com/track/7mt1H6ndG323VvjxgAM09e) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Southern Avenue](https://open.spotify.com/album/2bP8zitRYEmT1mISjibQfL) | 3:22 |
 | 18 | [Love Light Shine](https://open.spotify.com/track/1V7LEnad3oABKUTADZxtqL) | [Guy Verlinde](https://open.spotify.com/artist/1T4NREhwBrKGyMSMTQY8yn), [The Mighty Gators](https://open.spotify.com/artist/3VzoKJ1XixszFXANQgh8I9) | [X](https://open.spotify.com/album/3kiwdnLoJUlzX3dBxWs5qX) | 4:17 |
 | 19 | [Good Time](https://open.spotify.com/track/41PprdpECRjIzJJX5BKd07) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Middle of the Road](https://open.spotify.com/album/7egwxXjYLZsui8rZb5cUFL) | 2:52 |
-| 20 | [Deeper](https://open.spotify.com/track/3aMEGGdLIbKTajQdsFt03q) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Road I Call Home](https://open.spotify.com/album/7rooTZehVu9pdUIirCwA0a) | 3:59 |
+| 20 | [Deeper](https://open.spotify.com/track/3Wx0KhDyNLXmygOhEpMz2S) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Road I Call Home](https://open.spotify.com/album/3isKOTZKofEvSaMmYUgkCT) | 3:59 |
 | 21 | [Queen Bee](https://open.spotify.com/track/4DxM8kI9DUFig4JkWiWxYr) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Evolution \(The Most Recent\)](https://open.spotify.com/album/3TiJzhz6bELDjmTdnwOq9a) | 4:28 |
 | 22 | [You Better Believe It](https://open.spotify.com/track/7BoIAhe5LAH6gn173aDkX1) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [The Bomb Shelter Sessions](https://open.spotify.com/album/3OfyDcQy6XHkxMMGLrSJHT) | 4:10 |
 | 23 | [So Excited](https://open.spotify.com/track/3mrrWFfuesBi5fswdz1Xxf) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Completely Well](https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1) | 5:34 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dqF2kqDiBN.md) - [plain]
 | 44 | [Hooked On Your Love](https://open.spotify.com/track/2BNHEQAzAJAkWr2555Hsbp) | [Kenny Neal](https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ) | [Hooked On Your Love](https://open.spotify.com/album/53zsMq7ZaqjdF46y42ctJ1) | 4:45 |
 | 45 | [World Of Love](https://open.spotify.com/track/78E77b3kMt9NQAlcuqZzIT) | [Lil Ed & The Blues Imperials](https://open.spotify.com/artist/3Rb0PWL2XJTCKrhZ2FSd5E) | [Jump Start](https://open.spotify.com/album/06UMQMztopw3oyrWF5RjHz) | 4:00 |
 
-Snapshot ID: `MTYwNjc5ODg2MCwwMDAwMDAwMGEzYjdjMDI0MmIxNzhkMWFhMGVjMzFlNWFlYzY3NjBh`
+Snapshot ID: `MTYwNjc5ODg2MCwwMDAwMDAwMDIxODRhMjJhMmUxZjVhNzZlOTY2NzViOTE3MzkzOTAz`

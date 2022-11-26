@@ -3058,6 +3058,24 @@
     },
     {
       "album": {
+        "name": "Acoustic Favourites",
+        "url": "https://open.spotify.com/album/3HrMtl0ZYK194zU8sfcpZx"
+      },
+      "artists": [
+        {
+          "name": "Sofia's Choice",
+          "url": "https://open.spotify.com/artist/6CXWg7xfVjOtwgILyQZZ20"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 241227,
+      "name": "Soul Blanket",
+      "url": "https://open.spotify.com/track/3udiwLxQnr2lr0higOdi8Z"
+    },
+    {
+      "album": {
         "name": "Into The Stillness",
         "url": "https://open.spotify.com/album/1flvmX3ZrUV6I4XPXugSJ6"
       },

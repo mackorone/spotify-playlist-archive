@@ -4,7 +4,7 @@
 
 > Good people, message and great music from the U.K\. to the world! Cover: Jonathan Ogden of Rivers & Robots
 
-40 songs - 2 hr 53 min - [published](https://open.spotify.com/playlist/4hDvOtNBPtENQ0F2BShsbQ)
+41 songs - 2 hr 59 min - [published](https://open.spotify.com/playlist/4hDvOtNBPtENQ0F2BShsbQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Time's Not Wasted](https://open.spotify.com/track/0XdzaCzzEpASkqj2NZmQ8L) | [Josh Gauton](https://open.spotify.com/artist/4PLDTXCudiHDay44OSM79M) | [Time's Not Wasted](https://open.spotify.com/album/1Pghzlycv8NWOQf4gf5PFT) | 5:20 | 2018-09-14 |  |
 | [Waterfall \(feat\. Lucy Grimble\)](https://open.spotify.com/track/6nnNPkofokKxTRDwL748CT) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7), [Lucy Grimble](https://open.spotify.com/artist/0d0ICZg8jE6D2RkDHCTIVq) | [Spring](https://open.spotify.com/album/0aT8MMYx6r4tN1W0ipTgOs) | 3:29 | 2018-09-14 |  |
 | [Weightless](https://open.spotify.com/track/6TBDSrE9o2QzcBXUswrDm6) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [WWJD](https://open.spotify.com/album/1cRVHT6fWzQdEUSjlQkmma) | 3:31 | 2018-09-14 |  |
+| [When You Come](https://open.spotify.com/track/0bVG0Obxu75OsazUa8XByu) | [Samuel Lane](https://open.spotify.com/artist/7gjXbYoKHoNcdxVCBWpEKo) | [Discover Vineyard Worship: Kyrie Eleison](https://open.spotify.com/album/1KD2MlGX5kinV6LaIsvJwe) | 5:09 | 2018-09-14 | 2022-11-13 |
 | [When You Come](https://open.spotify.com/track/5lCcaj4dWLTGqEEkT5peyt) | [Samuel Lane](https://open.spotify.com/artist/7gjXbYoKHoNcdxVCBWpEKo) | [The Difference](https://open.spotify.com/album/44LjyuIfhsMZ5kpOqgvE5R) | 5:09 | 2018-09-14 |  |
 | [Wide Place](https://open.spotify.com/track/1qFmMmrBHzQUqyJJdzw8dM) | [Laity](https://open.spotify.com/artist/4K2tvMk8OdoG0Lo3PHir41) | [Wide Place](https://open.spotify.com/album/7crZBLTSSyZruPHligC2sp) | 4:22 | 2018-09-14 |  |
 

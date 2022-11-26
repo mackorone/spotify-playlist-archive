@@ -8,6 +8,60 @@
   "tracks": [
     {
       "album": {
+        "name": "(They Long To Be) Close To You",
+        "url": "https://open.spotify.com/album/4siaxr50PMSkm8BlBvUP3b"
+      },
+      "artists": [
+        {
+          "name": "Jen\u00e9 Martins",
+          "url": "https://open.spotify.com/artist/6ivuOAayX7AMI5dMc32BHo"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "(They Long To Be) Close To You",
+      "url": "https://open.spotify.com/track/2PJPNp8iKywuI1Pq1Vs9EW"
+    },
+    {
+      "album": {
+        "name": "2 Be Loved",
+        "url": "https://open.spotify.com/album/2sTiHHGGy1Le13cNYEnWta"
+      },
+      "artists": [
+        {
+          "name": "Gayle Michelle",
+          "url": "https://open.spotify.com/artist/4J6JppkXRxpF6zfqAK9g1I"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167792,
+      "name": "2 Be Loved",
+      "url": "https://open.spotify.com/track/23BLITTCvIUxhiUmP7dCii"
+    },
+    {
+      "album": {
+        "name": "Piano Stories",
+        "url": "https://open.spotify.com/album/4KlPbXSlaW03DnUXr4EqqR"
+      },
+      "artists": [
+        {
+          "name": "Sam Pellegrino",
+          "url": "https://open.spotify.com/artist/77KLCgIKmA4UiRzQaY4ke5"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163500,
+      "name": "7 Years - Piano Version",
+      "url": "https://open.spotify.com/track/7HumU69n9DlGp6UdMkGw7W"
+    },
+    {
+      "album": {
         "name": "Piano Stories",
         "url": "https://open.spotify.com/album/5iPmyMQet31uMvDLGPo9xf"
       },
@@ -19,7 +73,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 163500,
       "name": "7 Years - Piano Version",
       "url": "https://open.spotify.com/track/7h6t8EeriVNnB0TUAsBPFh"
@@ -44,6 +98,42 @@
     },
     {
       "album": {
+        "name": "Famous Songs on Piano 1",
+        "url": "https://open.spotify.com/album/2v5hcKlCisxBRszKsSUzOe"
+      },
+      "artists": [
+        {
+          "name": "Arden Brooks",
+          "url": "https://open.spotify.com/artist/1u0BwfDCRUJ9WlO9YVpZ1m"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215968,
+      "name": "A Sky Full Of Stars - Piano Version",
+      "url": "https://open.spotify.com/track/04z54hp55CLR6XLqhSjctF"
+    },
+    {
+      "album": {
+        "name": "A Thousand Years",
+        "url": "https://open.spotify.com/album/0SO2tmZiqgP598lHIoWHI5"
+      },
+      "artists": [
+        {
+          "name": "Benji Noor",
+          "url": "https://open.spotify.com/artist/2mOREdC2cTAtN4ErgjQcHC"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205543,
+      "name": "A Thousand Years",
+      "url": "https://open.spotify.com/track/76UpEg41caDocHgeJKVBFw"
+    },
+    {
+      "album": {
         "name": "A Thousand Years",
         "url": "https://open.spotify.com/album/0utb7TeZbh3M2NeXLzCL48"
       },
@@ -59,10 +149,28 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 108068,
       "name": "A Thousand Years",
       "url": "https://open.spotify.com/track/5xWD5Oy72pgn54R5ERwyr8"
+    },
+    {
+      "album": {
+        "name": "Against All Odds",
+        "url": "https://open.spotify.com/album/7JOXfnth0eVk5yUFMGGHHX"
+      },
+      "artists": [
+        {
+          "name": "Danielle Quenoil",
+          "url": "https://open.spotify.com/artist/4nr0yQbnbBCUqUSqQV53l0"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Against All Odds",
+      "url": "https://open.spotify.com/track/4OBmALwPgbECSorfD0gn0I"
     },
     {
       "album": {
@@ -77,7 +185,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 228009,
       "name": "Against All Odds",
       "url": "https://open.spotify.com/track/35BLTLHdlD60LAk90bTUmE"
@@ -120,6 +228,24 @@
     },
     {
       "album": {
+        "name": "Always On My Mind",
+        "url": "https://open.spotify.com/album/7jH2myKPGQobKHSRHkTZN2"
+      },
+      "artists": [
+        {
+          "name": "Diego Dumas",
+          "url": "https://open.spotify.com/artist/7lhYdashTGE8O0urnHyWdB"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Always On My Mind",
+      "url": "https://open.spotify.com/track/4UhT0Dxxm0cX6P2NBxCp5t"
+    },
+    {
+      "album": {
         "name": "Piano Cover",
         "url": "https://open.spotify.com/album/5JImxehtOINJnpAEIVGbJi"
       },
@@ -131,10 +257,28 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 209626,
       "name": "Always On My Mind",
       "url": "https://open.spotify.com/track/1AR9USfVJ58Bg5LsjErido"
+    },
+    {
+      "album": {
+        "name": "Timeless Classics On Piano - Part IV",
+        "url": "https://open.spotify.com/album/2kqhwuZNdKS2LMckmMGdLf"
+      },
+      "artists": [
+        {
+          "name": "Alec Dufner",
+          "url": "https://open.spotify.com/artist/6rcLXQVBq8vXaXDoatwCsz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202318,
+      "name": "Another Day In Paradise - Piano Version",
+      "url": "https://open.spotify.com/track/1gszdjke9WnJU4TOKEl9eI"
     },
     {
       "album": {
@@ -203,10 +347,46 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 217412,
       "name": "As It Was (Piano Version)",
       "url": "https://open.spotify.com/track/6qTNkxuUcTvqEzIkD84VXF"
+    },
+    {
+      "album": {
+        "name": "Bad Habits & Hey Jude (Piano)",
+        "url": "https://open.spotify.com/album/6Je7JdE3y16Y6mysHv2MWJ"
+      },
+      "artists": [
+        {
+          "name": "The Lullaby Guys",
+          "url": "https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Bad Habits - Piano",
+      "url": "https://open.spotify.com/track/377j3AdjXdy6LAqyyEfjGb"
+    },
+    {
+      "album": {
+        "name": "Calm Piano Covers no 1",
+        "url": "https://open.spotify.com/album/1e92hWodKmzfDtXDaAyEiP"
+      },
+      "artists": [
+        {
+          "name": "Vincent Fanguro",
+          "url": "https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257729,
+      "name": "Bed of Roses - Piano Version",
+      "url": "https://open.spotify.com/track/6Naow8IG97ZDZfHOFCrXFe"
     },
     {
       "album": {
@@ -322,6 +502,24 @@
     },
     {
       "album": {
+        "name": "Calm Piano Covers no 1",
+        "url": "https://open.spotify.com/album/1e92hWodKmzfDtXDaAyEiP"
+      },
+      "artists": [
+        {
+          "name": "Vincent Fanguro",
+          "url": "https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229007,
+      "name": "Bridge Over Troubled Water - Piano Version",
+      "url": "https://open.spotify.com/track/6Bhp4KBC5US8YbnIDX29kX"
+    },
+    {
+      "album": {
         "name": "Can't Help Falling In Love",
         "url": "https://open.spotify.com/album/26gRNrHNzMjrzNBqWxGyCn"
       },
@@ -351,7 +549,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 259292,
       "name": "Chasing Cars",
       "url": "https://open.spotify.com/track/5aXyuXE032sbomMTGxGYig"
@@ -427,6 +625,42 @@
       "duration_ms": 218715,
       "name": "Dancing on my own",
       "url": "https://open.spotify.com/track/3x85o71j8PyDEhvnQJEtUn"
+    },
+    {
+      "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/3vH4vxMmOITNPGaORvzGdT"
+      },
+      "artists": [
+        {
+          "name": "Joseph Vaux",
+          "url": "https://open.spotify.com/artist/3xeLXw1KYDFIZlod0XGHr1"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250428,
+      "name": "Dancing queen",
+      "url": "https://open.spotify.com/track/2Ms4SBm3AnznOBX0n4Wrr8"
+    },
+    {
+      "album": {
+        "name": "Days go By",
+        "url": "https://open.spotify.com/album/3sTJQCVLcCDRpcKlxpaSYW"
+      },
+      "artists": [
+        {
+          "name": "Brand Nor",
+          "url": "https://open.spotify.com/artist/6K82W353kltBs93MJIf2Qq"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Days go By",
+      "url": "https://open.spotify.com/track/0d3EGgegMoXW20DTbrNjL7"
     },
     {
       "album": {
@@ -517,6 +751,24 @@
       "duration_ms": 260048,
       "name": "Drivers License",
       "url": "https://open.spotify.com/track/1PgXOzu9gBTlDwuHBrS4gR"
+    },
+    {
+      "album": {
+        "name": "Forever Young",
+        "url": "https://open.spotify.com/album/2adgiBmCa5DHpfuXNyrexX"
+      },
+      "artists": [
+        {
+          "name": "Heather Riley",
+          "url": "https://open.spotify.com/artist/3HhS9TOcCQKFAGLpe2uByV"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195966,
+      "name": "Easy on me",
+      "url": "https://open.spotify.com/track/5Qxt1qqgNGaoXUb0lSvaJJ"
     },
     {
       "album": {
@@ -625,10 +877,100 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 142597,
       "name": "Fix You",
       "url": "https://open.spotify.com/track/5UVh8KvLkObml6Je0mkEeC"
+    },
+    {
+      "album": {
+        "name": "Piano Covers Part I",
+        "url": "https://open.spotify.com/album/0WXTylU55NFcO4gLH2e4JP"
+      },
+      "artists": [
+        {
+          "name": "Figgy Malone",
+          "url": "https://open.spotify.com/artist/0MeNDWmyEBS65fk2Vihetl"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254090,
+      "name": "Fix You - Piano Version",
+      "url": "https://open.spotify.com/track/7gQ07Bd21vrDAiBgxcP4o6"
+    },
+    {
+      "album": {
+        "name": "Forever Young",
+        "url": "https://open.spotify.com/album/2adgiBmCa5DHpfuXNyrexX"
+      },
+      "artists": [
+        {
+          "name": "Heather Riley",
+          "url": "https://open.spotify.com/artist/3HhS9TOcCQKFAGLpe2uByV"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183947,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/5Gypv4ajIJEZGTDVJuvv4D"
+    },
+    {
+      "album": {
+        "name": "Timeless Classics On Piano - Part IV",
+        "url": "https://open.spotify.com/album/2kqhwuZNdKS2LMckmMGdLf"
+      },
+      "artists": [
+        {
+          "name": "Alec Dufner",
+          "url": "https://open.spotify.com/artist/6rcLXQVBq8vXaXDoatwCsz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226802,
+      "name": "Forever Young - Piano Version",
+      "url": "https://open.spotify.com/track/6X2gdN9y4Y6PmX5hypLpJu"
+    },
+    {
+      "album": {
+        "name": "Forget Me",
+        "url": "https://open.spotify.com/album/5C4bS73ywngd9kdgu9LUKi"
+      },
+      "artists": [
+        {
+          "name": "Patrick Walker-Stiggs",
+          "url": "https://open.spotify.com/artist/3xmMXkcixRYDZpSKT8oLPf"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Forget Me",
+      "url": "https://open.spotify.com/track/5rMhBhSAFfGcfwkEHHejRK"
+    },
+    {
+      "album": {
+        "name": "Glimpse of Us",
+        "url": "https://open.spotify.com/album/3X5wz8QMdsBu1jEOni8xAL"
+      },
+      "artists": [
+        {
+          "name": "Missy Styles",
+          "url": "https://open.spotify.com/artist/0vWkhydunTgnAEyMOV2NFj"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191827,
+      "name": "Glimpse of Us",
+      "url": "https://open.spotify.com/track/65XhsRgziVdrFepq8HxMWv"
     },
     {
       "album": {
@@ -643,7 +985,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 142000,
       "name": "Glimpse Of Us",
       "url": "https://open.spotify.com/track/3abibsY2agRmaw2lAHC7Cu"
@@ -668,6 +1010,42 @@
     },
     {
       "album": {
+        "name": "Somewhere only we know",
+        "url": "https://open.spotify.com/album/7sTmrR8KKOUvFIM1RgeSbx"
+      },
+      "artists": [
+        {
+          "name": "Anissa Henderson",
+          "url": "https://open.spotify.com/artist/7hWN9tSQOmj0pafX5UWsjE"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182832,
+      "name": "Go your own way",
+      "url": "https://open.spotify.com/track/16pcdSTB0XzKh0fDa2bqHt"
+    },
+    {
+      "album": {
+        "name": "Groovy Kind Of Love",
+        "url": "https://open.spotify.com/album/6swG5Fj4XarYTsnOm3CVAk"
+      },
+      "artists": [
+        {
+          "name": "Peque\u00f1o Casero",
+          "url": "https://open.spotify.com/artist/78lsXTokMcrytsGHc6jtf9"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Groovy Kind Of Love",
+      "url": "https://open.spotify.com/track/6faVa20KtdwfyzsJ6PaohE"
+    },
+    {
+      "album": {
         "name": "Piano and Light",
         "url": "https://open.spotify.com/album/0X03bt3jajm7DMCZ2L2SAl"
       },
@@ -679,10 +1057,46 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 251936,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/4YZwWfva9YsKx2Xoo5eCBK"
+    },
+    {
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/38alZxIo99eD19U9ldrQSl"
+      },
+      "artists": [
+        {
+          "name": "William Chu",
+          "url": "https://open.spotify.com/artist/1OMbaqIBBz86y7FdoMcwMv"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-19",
+      "duration_ms": 164919,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/4vXkT1Dgel9Y3W9V3IvM74"
+    },
+    {
+      "album": {
+        "name": "Calm Piano Covers no 1",
+        "url": "https://open.spotify.com/album/1e92hWodKmzfDtXDaAyEiP"
+      },
+      "artists": [
+        {
+          "name": "Vincent Fanguro",
+          "url": "https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215781,
+      "name": "Hallelujah - Piano Version",
+      "url": "https://open.spotify.com/track/7tW7bfj8kHzZREXxNXzCG5"
     },
     {
       "album": {
@@ -740,6 +1154,24 @@
     },
     {
       "album": {
+        "name": "Calm Piano Covers no 1",
+        "url": "https://open.spotify.com/album/1e92hWodKmzfDtXDaAyEiP"
+      },
+      "artists": [
+        {
+          "name": "Vincent Fanguro",
+          "url": "https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243843,
+      "name": "Heaven - Piano Version",
+      "url": "https://open.spotify.com/track/1iKyA97IkuVGM5ncc5cvM0"
+    },
+    {
+      "album": {
         "name": "Here comes the sun",
         "url": "https://open.spotify.com/album/5f6Qq5sg3NwF74LGc5hgPF"
       },
@@ -755,6 +1187,24 @@
       "duration_ms": 213489,
       "name": "Here comes the sun",
       "url": "https://open.spotify.com/track/4pEQKbooMLwdyqQ13gTQfx"
+    },
+    {
+      "album": {
+        "name": "Bad Habits & Hey Jude (Piano)",
+        "url": "https://open.spotify.com/album/6Je7JdE3y16Y6mysHv2MWJ"
+      },
+      "artists": [
+        {
+          "name": "The Lullaby Guys",
+          "url": "https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189091,
+      "name": "Hey Jude - Piano",
+      "url": "https://open.spotify.com/track/04HZn55ZWEdksrHmM1REW5"
     },
     {
       "album": {
@@ -776,6 +1226,42 @@
     },
     {
       "album": {
+        "name": "Hold Me Closer",
+        "url": "https://open.spotify.com/album/2SrfBzKsI9JmhZ6YPLWAh6"
+      },
+      "artists": [
+        {
+          "name": "Macey Clark",
+          "url": "https://open.spotify.com/artist/0n5zpFOM2xi6mg5pxjfdSV"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181565,
+      "name": "Hold Me Closer",
+      "url": "https://open.spotify.com/track/5P0j2h3b7nDXO3FkEqJift"
+    },
+    {
+      "album": {
+        "name": "Hold my hand",
+        "url": "https://open.spotify.com/album/2ksR2QZgzIhoaqf8KHMi9V"
+      },
+      "artists": [
+        {
+          "name": "Susan Suarez",
+          "url": "https://open.spotify.com/artist/7zXgNwttTYAgW38YUb2eon"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Hold my hand",
+      "url": "https://open.spotify.com/track/5UI1e8uQ6PYubk3n3PHtpS"
+    },
+    {
+      "album": {
         "name": "Holy",
         "url": "https://open.spotify.com/album/5Zrfscw6w38zpd0AYGfW27"
       },
@@ -791,6 +1277,24 @@
       "duration_ms": 161095,
       "name": "Holy",
       "url": "https://open.spotify.com/track/39iUn2KhFa7aKiI0mJrrv5"
+    },
+    {
+      "album": {
+        "name": "Numb & I Ain't Worried (Piano)",
+        "url": "https://open.spotify.com/album/2H6UhZkk0YaZ5lr8Vt15O5"
+      },
+      "artists": [
+        {
+          "name": "The Bedtime Orchestra",
+          "url": "https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160577,
+      "name": "I Ain't Worried - Piano",
+      "url": "https://open.spotify.com/track/3WIu5NaDdoGCuYJS6QyQuA"
     },
     {
       "album": {
@@ -866,6 +1370,24 @@
     },
     {
       "album": {
+        "name": "Piano Covers Part I",
+        "url": "https://open.spotify.com/album/0WXTylU55NFcO4gLH2e4JP"
+      },
+      "artists": [
+        {
+          "name": "Figgy Malone",
+          "url": "https://open.spotify.com/artist/0MeNDWmyEBS65fk2Vihetl"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225382,
+      "name": "I Still Haven't Found What I'm Looking For - Piano Version",
+      "url": "https://open.spotify.com/track/4lPMv8xyxDTx2iLk9hwOHb"
+    },
+    {
+      "album": {
         "name": "I Want It That Way (Piano)",
         "url": "https://open.spotify.com/album/6Sjse4JmBxoNchc9FMhhSs"
       },
@@ -899,6 +1421,24 @@
       "duration_ms": 223872,
       "name": "I Will Wait",
       "url": "https://open.spotify.com/track/3EiU5qZUHJhQFpavXkO2F7"
+    },
+    {
+      "album": {
+        "name": "I'm Good (Blue)",
+        "url": "https://open.spotify.com/album/3f3Mho7fXcTS7nIqHQwcoL"
+      },
+      "artists": [
+        {
+          "name": "Morgan Fleich",
+          "url": "https://open.spotify.com/artist/0fA5ejVShbNdZWiw5CB1l1"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145965,
+      "name": "I'm Good (Blue)",
+      "url": "https://open.spotify.com/track/1NoqgdbmwW0qM1KFPW8C7o"
     },
     {
       "album": {
@@ -1039,10 +1579,28 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 195306,
       "name": "Just The Way You Are",
       "url": "https://open.spotify.com/track/4yGO88bDsNyDloCxc8CVpP"
+    },
+    {
+      "album": {
+        "name": "Piano Favorites 4",
+        "url": "https://open.spotify.com/album/1qHmg3HEV4zNKOO54X6H4X"
+      },
+      "artists": [
+        {
+          "name": "Mark Benson",
+          "url": "https://open.spotify.com/artist/1IaIpFqqzozfCnPECU9vOb"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214928,
+      "name": "Just The Way You Are - Piano Version",
+      "url": "https://open.spotify.com/track/6uB5Gj9U1DBGtOTKIUVMT6"
     },
     {
       "album": {
@@ -1079,6 +1637,42 @@
       "duration_ms": 198666,
       "name": "Kiss From A Rose",
       "url": "https://open.spotify.com/track/1bXpC6d1HeFKiboBnWChfq"
+    },
+    {
+      "album": {
+        "name": "Leave The Door Open",
+        "url": "https://open.spotify.com/album/2wYXx1QLit8JRC9LB7QbHv"
+      },
+      "artists": [
+        {
+          "name": "Vidar Arvidsson",
+          "url": "https://open.spotify.com/artist/7wtRK2lUYTMFcVSYzdNAXp"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Kiss Me More",
+      "url": "https://open.spotify.com/track/5CP4T8EAeg1wcWMvKWpTN1"
+    },
+    {
+      "album": {
+        "name": "Leave The Door Open",
+        "url": "https://open.spotify.com/album/2wYXx1QLit8JRC9LB7QbHv"
+      },
+      "artists": [
+        {
+          "name": "Vidar Arvidsson",
+          "url": "https://open.spotify.com/artist/7wtRK2lUYTMFcVSYzdNAXp"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260385,
+      "name": "Leave The Door Open",
+      "url": "https://open.spotify.com/track/0Pd8UT4ZfD24bAL61D7DTC"
     },
     {
       "album": {
@@ -1136,6 +1730,24 @@
     },
     {
       "album": {
+        "name": "Love theme from The Godfather",
+        "url": "https://open.spotify.com/album/1v9W79VRpBsBrSR2JGZWYo"
+      },
+      "artists": [
+        {
+          "name": "Nova Natale",
+          "url": "https://open.spotify.com/artist/5jEQHHhbzEhqLEXOINws1f"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161142,
+      "name": "Love theme from The Godfather",
+      "url": "https://open.spotify.com/track/2KC8Z17ndhFsKNxK0J3qZA"
+    },
+    {
+      "album": {
         "name": "All of me",
         "url": "https://open.spotify.com/album/5uMn4dATqQx38OCji41pYu"
       },
@@ -1169,6 +1781,114 @@
       "duration_ms": 240000,
       "name": "Memories",
       "url": "https://open.spotify.com/track/2SfvU9NbPAiYgLHWjp5Xqc"
+    },
+    {
+      "album": {
+        "name": "Memory",
+        "url": "https://open.spotify.com/album/3HOiwKAEH7XRZQThMUm6yZ"
+      },
+      "artists": [
+        {
+          "name": "Alva N\u00f8rgaard",
+          "url": "https://open.spotify.com/artist/7HIFfx126uBOqh9lGH8z2b"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223569,
+      "name": "Memory",
+      "url": "https://open.spotify.com/track/39NCTTGsonWEzH0UjuYQsx"
+    },
+    {
+      "album": {
+        "name": "Middle of the Night (Piano)",
+        "url": "https://open.spotify.com/album/4xjraR8hKCk9hmUAQt5ipb"
+      },
+      "artists": [
+        {
+          "name": "Teddy Knight",
+          "url": "https://open.spotify.com/artist/0fOXXu7hSPOCnufvtl9xd7"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176982,
+      "name": "Middle of the Night - Piano",
+      "url": "https://open.spotify.com/track/2K97GriUyHINnzuDsmTfkP"
+    },
+    {
+      "album": {
+        "name": "Save Your Tears",
+        "url": "https://open.spotify.com/album/7j3YmhL0zAnbh7jKxHPqei"
+      },
+      "artists": [
+        {
+          "name": "Loftet",
+          "url": "https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Mood",
+      "url": "https://open.spotify.com/track/7FqtfUDu66w8sGA61GXDyq"
+    },
+    {
+      "album": {
+        "name": "Moral Of The Story",
+        "url": "https://open.spotify.com/album/62uE56qivExWUDjBJnzpwj"
+      },
+      "artists": [
+        {
+          "name": "Dani Mezzo",
+          "url": "https://open.spotify.com/artist/6zRcJmTuAiLb7AHX7WLB1n"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Moral Of The Story",
+      "url": "https://open.spotify.com/track/6vb4cTyfOUuNUUNEaVICNj"
+    },
+    {
+      "album": {
+        "name": "More Than Words",
+        "url": "https://open.spotify.com/album/47wXrjLN0MlwWwptEi1JHE"
+      },
+      "artists": [
+        {
+          "name": "Elisa Couvez",
+          "url": "https://open.spotify.com/artist/6wTOHmwrxnusgajauHkJ6s"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "More Than Words",
+      "url": "https://open.spotify.com/track/1L0jNfvlHUmlsZ9jZKQ16p"
+    },
+    {
+      "album": {
+        "name": "Morning Has Broken",
+        "url": "https://open.spotify.com/album/4VfjuDo8r7kVuyqQPN9fdG"
+      },
+      "artists": [
+        {
+          "name": "Noah Jacob",
+          "url": "https://open.spotify.com/artist/4Z5swVp8qC7FbtzOkNaChH"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175357,
+      "name": "Morning Has Broken",
+      "url": "https://open.spotify.com/track/0jLoULVwUgZkrqNC7JlSeE"
     },
     {
       "album": {
@@ -1241,6 +1961,24 @@
       "duration_ms": 187375,
       "name": "No One - Piano Version",
       "url": "https://open.spotify.com/track/58l2B5WJj36xsc0yLYrRTm"
+    },
+    {
+      "album": {
+        "name": "Numb & I Ain't Worried (Piano)",
+        "url": "https://open.spotify.com/album/2H6UhZkk0YaZ5lr8Vt15O5"
+      },
+      "artists": [
+        {
+          "name": "The Bedtime Orchestra",
+          "url": "https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130641,
+      "name": "Numb - Piano",
+      "url": "https://open.spotify.com/track/0K7yOelIWqEZhn3YUZU70M"
     },
     {
       "album": {
@@ -1320,6 +2058,24 @@
     },
     {
       "album": {
+        "name": "Save Your Tears",
+        "url": "https://open.spotify.com/album/7j3YmhL0zAnbh7jKxHPqei"
+      },
+      "artists": [
+        {
+          "name": "Loftet",
+          "url": "https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198214,
+      "name": "Peaches",
+      "url": "https://open.spotify.com/track/4txDrc8nQYtJToljhONZIe"
+    },
+    {
+      "album": {
         "name": "Photograph",
         "url": "https://open.spotify.com/album/594EnYAyrySJMStySwj1id"
       },
@@ -1356,6 +2112,78 @@
     },
     {
       "album": {
+        "name": "Save Your Tears",
+        "url": "https://open.spotify.com/album/7j3YmhL0zAnbh7jKxHPqei"
+      },
+      "artists": [
+        {
+          "name": "Loftet",
+          "url": "https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Positions",
+      "url": "https://open.spotify.com/track/7iBm5kL2A8up9UfqoQLVhg"
+    },
+    {
+      "album": {
+        "name": "Timeless Classics On Piano - Part IV",
+        "url": "https://open.spotify.com/album/2kqhwuZNdKS2LMckmMGdLf"
+      },
+      "artists": [
+        {
+          "name": "Alec Dufner",
+          "url": "https://open.spotify.com/artist/6rcLXQVBq8vXaXDoatwCsz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220696,
+      "name": "Purple Rain - Piano Version",
+      "url": "https://open.spotify.com/track/1ty7L5N7si6ly9YQLZpD8J"
+    },
+    {
+      "album": {
+        "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
+        "url": "https://open.spotify.com/album/5aPnVfapJqOcOxv5zuxXzS"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Acin",
+          "url": "https://open.spotify.com/artist/4STKN0PPPmsqSziBVaT0Rm"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156946,
+      "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
+      "url": "https://open.spotify.com/track/4nWcu20r0jBRl7ucCdlTQd"
+    },
+    {
+      "album": {
+        "name": "Christmas Lights",
+        "url": "https://open.spotify.com/album/0AArO6paluj1u7vrmEBATx"
+      },
+      "artists": [
+        {
+          "name": "Alana Westwood",
+          "url": "https://open.spotify.com/artist/47zZi1jCukxxJhWcg39xVb"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250891,
+      "name": "River",
+      "url": "https://open.spotify.com/track/5Jbp8J5xuVv6gd3TBR1Zvk"
+    },
+    {
+      "album": {
         "name": "Ruin My Life",
         "url": "https://open.spotify.com/album/2qYtTfyhjIOrudRZWE34xv"
       },
@@ -1374,6 +2202,24 @@
     },
     {
       "album": {
+        "name": "Running Up That Hill",
+        "url": "https://open.spotify.com/album/5Cp0n8oPyxo44D96n3ZKfN"
+      },
+      "artists": [
+        {
+          "name": "Ian Nordberg",
+          "url": "https://open.spotify.com/artist/3J9JfdTaSIyWIabsqIX6El"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162263,
+      "name": "Running Up That Hill",
+      "url": "https://open.spotify.com/track/0888bDPARDMEWbEGtVJOhY"
+    },
+    {
+      "album": {
         "name": "Running Up That Hill (A Deal With God)",
         "url": "https://open.spotify.com/album/76ieDu7oVMGeogIQswDVC6"
       },
@@ -1385,7 +2231,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 233020,
       "name": "Running Up That Hill (A Deal With God)",
       "url": "https://open.spotify.com/track/3Jp8pqj7e7DPDtjhezJGZT"
@@ -1403,7 +2249,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 178924,
       "name": "Running Up That Hill (A Deal with God) - Pure Piano",
       "url": "https://open.spotify.com/track/0kUqGFiFX5jQFvbBIwbpdv"
@@ -1464,6 +2310,24 @@
     },
     {
       "album": {
+        "name": "Say You Won't Let Go",
+        "url": "https://open.spotify.com/album/3Dqn7GN7hKSu4YjIl2136Y"
+      },
+      "artists": [
+        {
+          "name": "Casera Boccia",
+          "url": "https://open.spotify.com/artist/7DgH7GnXGesoyCnXLHKt1q"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181755,
+      "name": "Say You Won't Let Go",
+      "url": "https://open.spotify.com/track/0TEAy0uFDmnOMAvilts9f7"
+    },
+    {
+      "album": {
         "name": "Senorita",
         "url": "https://open.spotify.com/album/4Hbj5OAjuH2wP140oohhmo"
       },
@@ -1497,6 +2361,24 @@
       "duration_ms": 188145,
       "name": "Shallow",
       "url": "https://open.spotify.com/track/71MLdZtvy7QJq9XH2hbDf1"
+    },
+    {
+      "album": {
+        "name": "Piano Covers Part I",
+        "url": "https://open.spotify.com/album/0WXTylU55NFcO4gLH2e4JP"
+      },
+      "artists": [
+        {
+          "name": "Figgy Malone",
+          "url": "https://open.spotify.com/artist/0MeNDWmyEBS65fk2Vihetl"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236618,
+      "name": "Shallow - Piano Version",
+      "url": "https://open.spotify.com/track/5zqW1M5Tkl07Nl2kGznE7F"
     },
     {
       "album": {
@@ -1536,6 +2418,42 @@
     },
     {
       "album": {
+        "name": "Sign Of The Times",
+        "url": "https://open.spotify.com/album/0zlNupUFmgK7jFCC5LhgWy"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Pirlo",
+          "url": "https://open.spotify.com/artist/7KiohRn8uUjyrxcn8cfKxB"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222500,
+      "name": "Sign Of The Times",
+      "url": "https://open.spotify.com/track/2noRYyj5apVtjNY9fW7QOI"
+    },
+    {
+      "album": {
+        "name": "SNAP",
+        "url": "https://open.spotify.com/album/75wTUsZ315n5eIet6UpELs"
+      },
+      "artists": [
+        {
+          "name": "Catherine Collert",
+          "url": "https://open.spotify.com/artist/0ZdVzP37pzMKNBnHiKodTc"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190086,
+      "name": "SNAP",
+      "url": "https://open.spotify.com/track/2Stqf14WZNFK9QwC3OHWFu"
+    },
+    {
+      "album": {
         "name": "Truth Hurts",
         "url": "https://open.spotify.com/album/2YuLURbRt081gFcXO6p7w2"
       },
@@ -1554,6 +2472,42 @@
     },
     {
       "album": {
+        "name": "Somewhere only we know",
+        "url": "https://open.spotify.com/album/7sTmrR8KKOUvFIM1RgeSbx"
+      },
+      "artists": [
+        {
+          "name": "Anissa Henderson",
+          "url": "https://open.spotify.com/artist/7hWN9tSQOmj0pafX5UWsjE"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222695,
+      "name": "Somewhere only we know",
+      "url": "https://open.spotify.com/track/3TQrrmZ4vQBoBNK6Hymkph"
+    },
+    {
+      "album": {
+        "name": "Somewhere Over The Rainbow",
+        "url": "https://open.spotify.com/album/7iQ7cBmw7nsBfzDtXck59m"
+      },
+      "artists": [
+        {
+          "name": "Fallegur Tonn",
+          "url": "https://open.spotify.com/artist/0cMr9nPgyN7bdo1xYugyNB"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171279,
+      "name": "Somewhere Over The Rainbow",
+      "url": "https://open.spotify.com/track/0eHW2eFgqkMS0HtoWHQSsv"
+    },
+    {
+      "album": {
         "name": "Songbird",
         "url": "https://open.spotify.com/album/0uScauUyfKmQhAIckBMERn"
       },
@@ -1569,6 +2523,42 @@
       "duration_ms": 203875,
       "name": "Songbird",
       "url": "https://open.spotify.com/track/0x3AueQ6AKh6xjMMuUrt0s"
+    },
+    {
+      "album": {
+        "name": "Piano Favorites 4",
+        "url": "https://open.spotify.com/album/1qHmg3HEV4zNKOO54X6H4X"
+      },
+      "artists": [
+        {
+          "name": "Mark Benson",
+          "url": "https://open.spotify.com/artist/1IaIpFqqzozfCnPECU9vOb"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213883,
+      "name": "Summer Of '69 - Piano Version",
+      "url": "https://open.spotify.com/track/4qQaGERlp7y1Uhe8B6rQIk"
+    },
+    {
+      "album": {
+        "name": "Sunroof (Piano)",
+        "url": "https://open.spotify.com/album/6zTeSMLxgbU7nwv5wABYyH"
+      },
+      "artists": [
+        {
+          "name": "Teddy Knight",
+          "url": "https://open.spotify.com/artist/0fOXXu7hSPOCnufvtl9xd7"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Sunroof - Piano",
+      "url": "https://open.spotify.com/track/2hNUsP1vEQ5E5qx5QefQ71"
     },
     {
       "album": {
@@ -1619,7 +2609,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 192833,
       "name": "Sweet Child of Mine",
       "url": "https://open.spotify.com/track/2VXu2KAwVH5CIRqQPEADQw"
@@ -1756,6 +2746,24 @@
     },
     {
       "album": {
+        "name": "The Sound Of Silence",
+        "url": "https://open.spotify.com/album/4KFbcrnL9jdzeTHraMYfQH"
+      },
+      "artists": [
+        {
+          "name": "Noah Jacob",
+          "url": "https://open.spotify.com/artist/4Z5swVp8qC7FbtzOkNaChH"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "The Sound Of Silence",
+      "url": "https://open.spotify.com/track/661cehcbDB8Ye74RBORdQa"
+    },
+    {
+      "album": {
         "name": "Rolling Stone Top 500 Greatest Hits 151-200",
         "url": "https://open.spotify.com/album/4S13HMYNhDspVwHJUs83iI"
       },
@@ -1767,7 +2775,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 185000,
       "name": "The Sounds of Silence",
       "url": "https://open.spotify.com/track/63FbZYajzXwQd4blIyAA0H"
@@ -1789,6 +2797,42 @@
       "duration_ms": 257594,
       "name": "The Winner Takes It All",
       "url": "https://open.spotify.com/track/2xwQ6EXa9JNwxCNev9Uzuw"
+    },
+    {
+      "album": {
+        "name": "Piano Favorites 4",
+        "url": "https://open.spotify.com/album/1qHmg3HEV4zNKOO54X6H4X"
+      },
+      "artists": [
+        {
+          "name": "Mark Benson",
+          "url": "https://open.spotify.com/artist/1IaIpFqqzozfCnPECU9vOb"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254029,
+      "name": "This I Promise You - Piano Version",
+      "url": "https://open.spotify.com/track/1S6ml085sYS4rrHgTrsR90"
+    },
+    {
+      "album": {
+        "name": "Time After Time",
+        "url": "https://open.spotify.com/album/6cjrLvyi1OzHrgioiMY3IN"
+      },
+      "artists": [
+        {
+          "name": "Clairetone",
+          "url": "https://open.spotify.com/artist/5WUeyUXg7LtVFvkR9awzRv"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192820,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/2wjMv9svLp1NmaBk5OLhGD"
     },
     {
       "album": {
@@ -1828,6 +2872,24 @@
     },
     {
       "album": {
+        "name": "Total Eclipse of the Heart",
+        "url": "https://open.spotify.com/album/7C1Ml2tE0e4AdxokNnv6RH"
+      },
+      "artists": [
+        {
+          "name": "Dalby",
+          "url": "https://open.spotify.com/artist/5ai5w9rMxwvqSY4rrDof73"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106406,
+      "name": "Total Eclipse of the Heart",
+      "url": "https://open.spotify.com/track/0LW4aSbvelf7hxSrWyPWKp"
+    },
+    {
+      "album": {
         "name": "Timeless Classics On Piano - Part I",
         "url": "https://open.spotify.com/album/1oAIunhTkzflIbFknRJKaO"
       },
@@ -1843,6 +2905,24 @@
       "duration_ms": 175118,
       "name": "True Colors - Piano Version",
       "url": "https://open.spotify.com/track/047B5xypjW3iozKNgJgHMK"
+    },
+    {
+      "album": {
+        "name": "Timeless Classics On Piano - Part IV",
+        "url": "https://open.spotify.com/album/2kqhwuZNdKS2LMckmMGdLf"
+      },
+      "artists": [
+        {
+          "name": "Alec Dufner",
+          "url": "https://open.spotify.com/artist/6rcLXQVBq8vXaXDoatwCsz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186604,
+      "name": "Un-Break My Heart - Piano Version",
+      "url": "https://open.spotify.com/track/0BzvsmMbasJqL2UQQWISjm"
     },
     {
       "album": {
@@ -1864,6 +2944,42 @@
     },
     {
       "album": {
+        "name": "Unholy",
+        "url": "https://open.spotify.com/album/2mXDmRXOqw0ZSO0Hfxlrn5"
+      },
+      "artists": [
+        {
+          "name": "Mica Stromberg",
+          "url": "https://open.spotify.com/artist/4yyxz7bc0tROTIRMaTKnnK"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197758,
+      "name": "Unholy",
+      "url": "https://open.spotify.com/track/48y6yD5FxqqaeKNUJ1tYdP"
+    },
+    {
+      "album": {
+        "name": "Until I Found You",
+        "url": "https://open.spotify.com/album/41NiXyPSiRAoVPJQUw9CR8"
+      },
+      "artists": [
+        {
+          "name": "Eva Witzell",
+          "url": "https://open.spotify.com/artist/0A3DJSJYUBT9R1G9Z4zIS6"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162517,
+      "name": "Until I Found You",
+      "url": "https://open.spotify.com/track/2yIXvAOhIvWZz7wzYTQIdB"
+    },
+    {
+      "album": {
         "name": "Piano Covers",
         "url": "https://open.spotify.com/album/7KNA6W2HKiiaSyijxB4oaz"
       },
@@ -1875,10 +2991,46 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 144935,
       "name": "Wake Me Up",
       "url": "https://open.spotify.com/track/4G5Cz0dVjnrzGqgYQYQLtu"
+    },
+    {
+      "album": {
+        "name": "Piano Covers Part I",
+        "url": "https://open.spotify.com/album/0WXTylU55NFcO4gLH2e4JP"
+      },
+      "artists": [
+        {
+          "name": "Figgy Malone",
+          "url": "https://open.spotify.com/artist/0MeNDWmyEBS65fk2Vihetl"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261273,
+      "name": "Wake me up - Piano Version",
+      "url": "https://open.spotify.com/track/1dA7RxuoV343ur4o4OMQ1B"
+    },
+    {
+      "album": {
+        "name": "We Don't Need Another Hero",
+        "url": "https://open.spotify.com/album/0FzChdtV0Xt18jAAhuB9Jd"
+      },
+      "artists": [
+        {
+          "name": "Jorelyn Ariza",
+          "url": "https://open.spotify.com/artist/6eSynFyqk6TbDwoodngL5w"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176170,
+      "name": "We Don't Need Another Hero",
+      "url": "https://open.spotify.com/track/73SFXFqWBlrwN8gLWLrqmS"
     },
     {
       "album": {
@@ -1919,6 +3071,24 @@
       "duration_ms": 181298,
       "name": "When We Were Young",
       "url": "https://open.spotify.com/track/1BJ1tfLa2reIcql4Xt4l9J"
+    },
+    {
+      "album": {
+        "name": "Famous Songs on Piano 1",
+        "url": "https://open.spotify.com/album/2v5hcKlCisxBRszKsSUzOe"
+      },
+      "artists": [
+        {
+          "name": "Arden Brooks",
+          "url": "https://open.spotify.com/artist/1u0BwfDCRUJ9WlO9YVpZ1m"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203221,
+      "name": "When You Say Nothing At All - Piano Version",
+      "url": "https://open.spotify.com/track/3FcI3mILAwzhFPXs01QCQ1"
     },
     {
       "album": {
@@ -1994,6 +3164,114 @@
     },
     {
       "album": {
+        "name": "Without you",
+        "url": "https://open.spotify.com/album/1zyivnqvuiBNnVS8YoAmtK"
+      },
+      "artists": [
+        {
+          "name": "Leona Boyd",
+          "url": "https://open.spotify.com/artist/7jEJ0zKV57ryzZm5tEVGJe"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191226,
+      "name": "Without you",
+      "url": "https://open.spotify.com/track/1Pplkqiz45fRq73OxgrHQL"
+    },
+    {
+      "album": {
+        "name": "Woke Up in Love",
+        "url": "https://open.spotify.com/album/64Pan695xJqJcya0LiFsQU"
+      },
+      "artists": [
+        {
+          "name": "Pia Plonner",
+          "url": "https://open.spotify.com/artist/42HyEtsQzXNdX6aBjxdOaO"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176896,
+      "name": "Woke Up in Love",
+      "url": "https://open.spotify.com/track/00VGDS10lKLKXyKCrvcj53"
+    },
+    {
+      "album": {
+        "name": "Wonderful Tonight",
+        "url": "https://open.spotify.com/album/0O80wSJC001dU86jB8OKUR"
+      },
+      "artists": [
+        {
+          "name": "Saken Ball",
+          "url": "https://open.spotify.com/artist/20APR8hr4zLQDIqGRCBZs9"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131134,
+      "name": "Wonderful Tonight",
+      "url": "https://open.spotify.com/track/2dx7u7nfi5Z5o8HqUbLtX9"
+    },
+    {
+      "album": {
+        "name": "Leave The Door Open",
+        "url": "https://open.spotify.com/album/2wYXx1QLit8JRC9LB7QbHv"
+      },
+      "artists": [
+        {
+          "name": "Vidar Arvidsson",
+          "url": "https://open.spotify.com/artist/7wtRK2lUYTMFcVSYzdNAXp"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151484,
+      "name": "Words",
+      "url": "https://open.spotify.com/track/6HWTR9SN6kjWSirXAq9tXI"
+    },
+    {
+      "album": {
+        "name": "Without you",
+        "url": "https://open.spotify.com/album/1zyivnqvuiBNnVS8YoAmtK"
+      },
+      "artists": [
+        {
+          "name": "Leona Boyd",
+          "url": "https://open.spotify.com/artist/7jEJ0zKV57ryzZm5tEVGJe"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191459,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/6L6OwV5VpL1pVETRcTmt7B"
+    },
+    {
+      "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/0Ct4wtaDMViZzeyhjJozpc"
+      },
+      "artists": [
+        {
+          "name": "Chris Island",
+          "url": "https://open.spotify.com/artist/2ul9XiZKBUguKSAl2b1His"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-19",
+      "duration_ms": 190024,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/0EDfjeCbmClKsJF4GSZHlS"
+    },
+    {
+      "album": {
         "name": "Yesterday",
         "url": "https://open.spotify.com/album/3IhdJhaQo8m3B1oCaISRYe"
       },
@@ -2005,10 +3283,64 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 125662,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/3psEWMmcmnFmqozquzigAu"
+    },
+    {
+      "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/2CAb5Xj5R1fJKIa2V2VnvY"
+      },
+      "artists": [
+        {
+          "name": "Lars Friedel",
+          "url": "https://open.spotify.com/artist/2Ijos9bTxh8DwNBeIp6emj"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208825,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/5yR3kLPnoS7L2sMYgOAPDs"
+    },
+    {
+      "album": {
+        "name": "Famous Songs on Piano 1",
+        "url": "https://open.spotify.com/album/2v5hcKlCisxBRszKsSUzOe"
+      },
+      "artists": [
+        {
+          "name": "Arden Brooks",
+          "url": "https://open.spotify.com/artist/1u0BwfDCRUJ9WlO9YVpZ1m"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239026,
+      "name": "You Are The Reason - Piano Version",
+      "url": "https://open.spotify.com/track/2F05YYG6v1eYXMRlJrPBLX"
+    },
+    {
+      "album": {
+        "name": "Piano Favorites 4",
+        "url": "https://open.spotify.com/album/1qHmg3HEV4zNKOO54X6H4X"
+      },
+      "artists": [
+        {
+          "name": "Mark Benson",
+          "url": "https://open.spotify.com/artist/1IaIpFqqzozfCnPECU9vOb"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192305,
+      "name": "You're Still The One - Piano Version",
+      "url": "https://open.spotify.com/track/2hzdCCDGr12HqseY5JijuX"
     },
     {
       "album": {

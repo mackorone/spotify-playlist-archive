@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "Ain't No Grave",
+        "url": "https://open.spotify.com/album/599qJxheGI6EVVZE2LD2nj"
+      },
+      "artists": [
+        {
+          "name": "Crooked Still",
+          "url": "https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU"
+        }
+      ],
+      "date_added": "2018-04-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 201506,
+      "name": "Ain't No Grave",
+      "url": "https://open.spotify.com/track/4H4B97UMURWsNybgJWhQBo"
+    },
+    {
+      "album": {
         "name": "Shaken By A Low Sound",
         "url": "https://open.spotify.com/album/2f0KG8RWA1NamceKkZEJsR"
       },
@@ -145,10 +163,28 @@
       ],
       "date_added": "2018-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 187558,
       "name": "Bartholomew",
       "url": "https://open.spotify.com/track/2fzp6ojPHvZaz4uHXxpJVk"
+    },
+    {
+      "album": {
+        "name": "Common Faults (Remastered Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ZrsOwdFsAWSnIjlVvKgOE"
+      },
+      "artists": [
+        {
+          "name": "The Silent Comedy",
+          "url": "https://open.spotify.com/artist/4s7QvzBMTW4BKWI5pVO2mY"
+        }
+      ],
+      "date_added": "2018-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187558,
+      "name": "Bartholomew",
+      "url": "https://open.spotify.com/track/44CXyv6wcKCfoRIAY5r99s"
     },
     {
       "album": {
@@ -185,6 +221,24 @@
       "duration_ms": 225760,
       "name": "Beat The Devil's Tattoo",
       "url": "https://open.spotify.com/track/466LASOuTbWDkrwZ3Ylxvv"
+    },
+    {
+      "album": {
+        "name": "Beat the Devil's Tattoo",
+        "url": "https://open.spotify.com/album/7tSapn3n98ZkK3B1EXEGII"
+      },
+      "artists": [
+        {
+          "name": "Black Rebel Motorcycle Club",
+          "url": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
+        }
+      ],
+      "date_added": "2018-04-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 225760,
+      "name": "Beat the Devil's Tattoo",
+      "url": "https://open.spotify.com/track/61OOEzfcJvTLHhFiLZOGRN"
     },
     {
       "album": {

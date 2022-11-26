@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3qUY4KDZRH.md) - [plain]
 
 > MUNA co\-curate a list of the very best songs from LGBTQQIA+ artists and allies that L.A\. has to offer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,428 likes - 29 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,440 likes - 29 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3qUY4KDZRH.md) - [plain]
 | 14 | [Sissy That Walk](https://open.spotify.com/track/5PHPENfE3RVmHGAA2A7Hfx) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Born Naked](https://open.spotify.com/album/3stAjHtCDSCavGtkxzvYE7) | 3:32 |
 | 15 | [I Know A Place](https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:32 |
 | 16 | [Bite](https://open.spotify.com/track/5lTvjNZxoK2BDB4mXxYnfh) | [Lou Roy](https://open.spotify.com/artist/4SXS92sCu5twnCUx4Dy44H) | [Bite](https://open.spotify.com/album/48aFV8ITVEtoktd7rsuLKJ) | 3:03 |
-| 17 | [Pin\-Up Daddy \- Brian Robert Jones Remix](https://open.spotify.com/track/0B1R5NOFuh8I6sFzGMrwiS) | [Rett Madison](https://open.spotify.com/artist/2uvAzG565dP2oXartAqh1F), [Brian Robert Jones](https://open.spotify.com/artist/11HU5b0t0QkmZpYfpUgmvm) | [Pin\-Up Daddy \(Brian Robert Jones Remix\)](https://open.spotify.com/album/6qqpS52p4mvhI8sgYoxrSE) | 3:40 |
+| 17 | [Pin\-Up Daddy \- Brian Robert Jones Remix](https://open.spotify.com/track/33Lbb17TYpo2v2NnixiaJP) | [Rett Madison](https://open.spotify.com/artist/2uvAzG565dP2oXartAqh1F), [Brian Robert Jones](https://open.spotify.com/artist/11HU5b0t0QkmZpYfpUgmvm) | [Pin\-Up Daddy \(Brian Robert Jones Remix\)](https://open.spotify.com/album/3VcHTCLTR4BaIYSxAksjEx) | 3:40 |
 | 18 | [this is the part](https://open.spotify.com/track/1BHz6ma7Ssw2XWWHsNFgAP) | [J.Scott](https://open.spotify.com/artist/2N2byM1MBqV19c73r7XKVr) | [adoration](https://open.spotify.com/album/10ilBzsKJMVgWRWE35j6Xg) | 3:25 |
 | 19 | [Guard Down](https://open.spotify.com/track/3vR3cB13aUgTyZJ23zrnMA) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Super Monster](https://open.spotify.com/album/0QPFWBu8oVVNtekmNzlVvW) | 3:26 |
 | 20 | [Taken](https://open.spotify.com/track/1DCf4TQUJdWWXLM8LOIWA7) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Saves The World](https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz) | 4:05 |
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3qUY4KDZRH.md) - [plain]
 | 28 | [Cut To The Feeling](https://open.spotify.com/track/6EJiVf7U0p1BBfs0qqeb1f) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Cut To The Feeling](https://open.spotify.com/album/6S9qcfPMsqtYQXVyeC7Hip) | 3:27 |
 | 29 | [BILL$](https://open.spotify.com/track/0H6CZCG2F1N3XZWNZAVqE7) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [COLORWAY](https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy) | 2:23 |
 
-Snapshot ID: `MTYyNDU0NDg2MiwwMDAwMDAwMDc3NjExNzUxMDhhM2M5YTI4ODg2NTQ5NWI2NTNmNWE3`
+Snapshot ID: `MTYyNDU0NDg2MiwwMDAwMDAwMDRjYjc0OTdlZGNkN2I5MzY4ZTlmYzk2Zjg3NjZiNzc2`

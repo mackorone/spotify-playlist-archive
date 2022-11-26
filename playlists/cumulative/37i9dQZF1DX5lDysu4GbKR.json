@@ -254,6 +254,28 @@
     },
     {
       "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197746,
+      "name": "Bad Life (feat. Kali Uchis)",
+      "url": "https://open.spotify.com/track/0K02o2ZV5UCJbbCw67FtaY"
+    },
+    {
+      "album": {
         "name": "Bad Life (feat. Kali Uchis)",
         "url": "https://open.spotify.com/album/5MBSSSfF904m3GaUapgRIs"
       },
@@ -269,7 +291,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 197746,
       "name": "Bad Life (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/6RT5ir7all6RgZEAupLNlO"
@@ -621,6 +643,24 @@
     {
       "album": {
         "name": "Hues",
+        "url": "https://open.spotify.com/album/1amj52SgnV7kq8TtDSrq09"
+      },
+      "artists": [
+        {
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174195,
+      "name": "Desert Flower",
+      "url": "https://open.spotify.com/track/3do3tKMN4LJO6G0kBZThtm"
+    },
+    {
+      "album": {
+        "name": "Hues",
         "url": "https://open.spotify.com/album/3CU1TMUl0c6XzIVWPvzPv0"
       },
       "artists": [
@@ -631,7 +671,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 174195,
       "name": "Desert Flower",
       "url": "https://open.spotify.com/track/4fT4kJxP3QfmktqB6hxDhE"
@@ -1084,6 +1124,24 @@
     },
     {
       "album": {
+        "name": "Something To Feel",
+        "url": "https://open.spotify.com/album/39MCSCwQlqT6xm28UpGz39"
+      },
+      "artists": [
+        {
+          "name": "TEEKS",
+          "url": "https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 269413,
+      "name": "Here Before",
+      "url": "https://open.spotify.com/track/4NVDb2IBFPZaM2YgIaQQKC"
+    },
+    {
+      "album": {
         "name": "High Stakes",
         "url": "https://open.spotify.com/album/3jRhDfVPGPSw7A8jODjbLB"
       },
@@ -1348,6 +1406,24 @@
     },
     {
       "album": {
+        "name": "Is This Love",
+        "url": "https://open.spotify.com/album/49R4sdFgr1sHH6RXXRdhPU"
+      },
+      "artists": [
+        {
+          "name": "Allen Stone",
+          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 244617,
+      "name": "Is This Love",
+      "url": "https://open.spotify.com/track/0fBJCJyrMSnX7vZrvXKovG"
+    },
+    {
+      "album": {
         "name": "APART",
         "url": "https://open.spotify.com/album/6dqcqprGk1KMEwKJ0P3RdZ"
       },
@@ -1464,6 +1540,24 @@
     },
     {
       "album": {
+        "name": "Live in Concert",
+        "url": "https://open.spotify.com/album/3Dfg8TnkdNHm1WdPEW64Vh"
+      },
+      "artists": [
+        {
+          "name": "Lorr\u00e8n",
+          "url": "https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323173,
+      "name": "Land Of Possibilities - Live at Bitterzoet",
+      "url": "https://open.spotify.com/track/7Kh1vJGY0z3BCfDKsgpkAm"
+    },
+    {
+      "album": {
         "name": "Learn to Love",
         "url": "https://open.spotify.com/album/2g7lu7csvYm3EtX1hwtVgo"
       },
@@ -1547,10 +1641,28 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 248181,
       "name": "Listen - Acoustic Version",
       "url": "https://open.spotify.com/track/0T1G4VdmWe9rX37ekFNFJi"
+    },
+    {
+      "album": {
+        "name": "Listen (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2pMR3D19EeE4juhM4bSwNA"
+      },
+      "artists": [
+        {
+          "name": "Tana\u00eb",
+          "url": "https://open.spotify.com/artist/5a4jgwRzY0q9KopqjYrIe1"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248181,
+      "name": "Listen - Acoustic Version",
+      "url": "https://open.spotify.com/track/1ydwuEvDlCNt1IzDvTJI55"
     },
     {
       "album": {
@@ -1569,6 +1681,24 @@
       "duration_ms": 179564,
       "name": "Little Runaway",
       "url": "https://open.spotify.com/track/12GVuNDjD80UjEmkO46Hd8"
+    },
+    {
+      "album": {
+        "name": "Love Is A Losing Game (Live at Stebbing Studio)",
+        "url": "https://open.spotify.com/album/2jN0f3GV5cy6FONlqFkv6O"
+      },
+      "artists": [
+        {
+          "name": "TEEKS",
+          "url": "https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198693,
+      "name": "Love Is A Losing Game - Live at Stebbing Studio",
+      "url": "https://open.spotify.com/track/36m5Fi9MUE98AtYnOjsYJp"
     },
     {
       "album": {
@@ -1623,6 +1753,28 @@
       "duration_ms": 263317,
       "name": "Loyalty - Acoustic",
       "url": "https://open.spotify.com/track/6FTpo3Ji9LOFC5Iv3MFxuF"
+    },
+    {
+      "album": {
+        "name": "Our Time Our Music",
+        "url": "https://open.spotify.com/album/6Us1exWgXEYOBrmKGacJwi"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Starke",
+          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
+        },
+        {
+          "name": "Julia Zahra",
+          "url": "https://open.spotify.com/artist/57QuHq7IzyUgZsgl0g5fMI"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282520,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/0hNa2G3CxcEFD1iG0GM2rY"
     },
     {
       "album": {
@@ -1717,10 +1869,28 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 132122,
       "name": "my dear",
       "url": "https://open.spotify.com/track/3P9FzuL9eYOX152OFt4Rni"
+    },
+    {
+      "album": {
+        "name": "my dear",
+        "url": "https://open.spotify.com/album/5oJXHbrcbTpww5UMaBMXFC"
+      },
+      "artists": [
+        {
+          "name": "SOLOMON",
+          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132122,
+      "name": "my dear",
+      "url": "https://open.spotify.com/track/6gt1hp6vmwR45wC67Zu4rx"
     },
     {
       "album": {
@@ -1735,10 +1905,28 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 169184,
       "name": "Myself",
       "url": "https://open.spotify.com/track/0bLbPaF1ep7eVCEVemvYeV"
+    },
+    {
+      "album": {
+        "name": "Myself",
+        "url": "https://open.spotify.com/album/0Cc8lcgSAIfCXazniLOFCc"
+      },
+      "artists": [
+        {
+          "name": "Marvin Brooks",
+          "url": "https://open.spotify.com/artist/2sAw6jGqa4He0kki8mXmU6"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169184,
+      "name": "Myself",
+      "url": "https://open.spotify.com/track/2T4f9d9bO2rIZUVS5ZJnT8"
     },
     {
       "album": {
@@ -1833,6 +2021,24 @@
       "duration_ms": 212690,
       "name": "None For You",
       "url": "https://open.spotify.com/track/2mcWClBQk8SbJpL9aMMNir"
+    },
+    {
+      "album": {
+        "name": "Work From Home Pop",
+        "url": "https://open.spotify.com/album/71B6JFECrt71pbjPR5k3R1"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 212690,
+      "name": "None For You",
+      "url": "https://open.spotify.com/track/3vuFeyaLYJgfJKqUHDHyOr"
     },
     {
       "album": {
@@ -1966,6 +2172,24 @@
     },
     {
       "album": {
+        "name": "Chill Hits",
+        "url": "https://open.spotify.com/album/3jjQUZkrzqOtfwHBKa5uoz"
+      },
+      "artists": [
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 298720,
+      "name": "Paper Thin",
+      "url": "https://open.spotify.com/track/7lrsiXMsUzWsqofMaL3U8e"
+    },
+    {
+      "album": {
         "name": "Lies About The War",
         "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
       },
@@ -1995,10 +2219,28 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 245945,
       "name": "pass you by",
       "url": "https://open.spotify.com/track/4NVwMupCTfITPXetR5aozp"
+    },
+    {
+      "album": {
+        "name": "the voicenotes",
+        "url": "https://open.spotify.com/album/0u0XemQDEsApGFSI1Yr379"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245945,
+      "name": "pass you by",
+      "url": "https://open.spotify.com/track/6idG4unPt6ROA9BSusQ9Me"
     },
     {
       "album": {
@@ -2195,8 +2437,8 @@
           "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
         },
         {
-          "name": "Jojo",
-          "url": "https://open.spotify.com/artist/47jSEDskKC531gbRU67cvf"
+          "name": "JoJo",
+          "url": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
         }
       ],
       "date_added": "2021-12-09",
@@ -2408,6 +2650,24 @@
     },
     {
       "album": {
+        "name": "SULA",
+        "url": "https://open.spotify.com/album/1u6YYtjNLMP87kjDH33V3K"
+      },
+      "artists": [
+        {
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 255906,
+      "name": "SULA (Paperback)",
+      "url": "https://open.spotify.com/track/26kFP6TwarrLpmXO86PH5k"
+    },
+    {
+      "album": {
         "name": "Talk In The Morning (Acoustic)",
         "url": "https://open.spotify.com/album/1ZboNHs3k8AGSjAOgCNYLC"
       },
@@ -2441,6 +2701,24 @@
       "duration_ms": 189149,
       "name": "The Reason Why - Guitar Acoustic",
       "url": "https://open.spotify.com/track/45X6MX8ja2Mbq4vzJuDZCj"
+    },
+    {
+      "album": {
+        "name": "This Life (Live)",
+        "url": "https://open.spotify.com/album/1CmqQ9XsMDvDmttlu68YeV"
+      },
+      "artists": [
+        {
+          "name": "Kendra Morris",
+          "url": "https://open.spotify.com/artist/7rtM2wPKQlFpsm0C4qJlDk"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246685,
+      "name": "This Life - Live",
+      "url": "https://open.spotify.com/track/7dWA7OAWKjooN1sUNSCLjt"
     },
     {
       "album": {
@@ -2503,6 +2781,24 @@
       "duration_ms": 198053,
       "name": "Traingazing - Acoustic",
       "url": "https://open.spotify.com/track/2dOBsJnZHmGAr0yQgDo56E"
+    },
+    {
+      "album": {
+        "name": "Trust in You",
+        "url": "https://open.spotify.com/album/6C4xpz6DTzUBpu2l5udCrg"
+      },
+      "artists": [
+        {
+          "name": "Antoine Bradford",
+          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 189510,
+      "name": "Trust in You",
+      "url": "https://open.spotify.com/track/0IkYVycXDkR8MajBTvu90Q"
     },
     {
       "album": {
@@ -2629,6 +2925,24 @@
       "duration_ms": 274285,
       "name": "Wait for You",
       "url": "https://open.spotify.com/track/0jjsLGCJmUzYRu6GKQqlR4"
+    },
+    {
+      "album": {
+        "name": "AUTUMN BOON",
+        "url": "https://open.spotify.com/album/24Gu4tv2kH4rtNc795TNYF"
+      },
+      "artists": [
+        {
+          "name": "vAn",
+          "url": "https://open.spotify.com/artist/31zEC5Veeh3aoNFfiv1poC"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304000,
+      "name": "WAVER (Till it All Makes Sense)",
+      "url": "https://open.spotify.com/track/1xfNozfur1x0R12FzSeEIl"
     },
     {
       "album": {

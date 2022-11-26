@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Alternative Arabic songs. Cover: Bigsam.",
+  "description": "Alternative Arabic songs. Cover: Adonis.",
   "name": "Arab Indie",
   "published_playlist_ids": [
     "5Kcna48CrV8fuYA6mNyZOZ"
@@ -416,6 +416,24 @@
     },
     {
       "album": {
+        "name": "Hadis El Layl",
+        "url": "https://open.spotify.com/album/01Gq3fakZdS0h4sk6pKwea"
+      },
+      "artists": [
+        {
+          "name": "Adonis",
+          "url": "https://open.spotify.com/artist/6LfzZtIFWlA5YdsVrAu8Xv"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221412,
+      "name": "Estesna'i",
+      "url": "https://open.spotify.com/track/2ZR3Vb01kfWlNDQ6P16Qjv"
+    },
+    {
+      "album": {
         "name": "Etnaset",
         "url": "https://open.spotify.com/album/5nE6ovXOMjYZ1UG695iIkU"
       },
@@ -431,6 +449,24 @@
       "duration_ms": 195598,
       "name": "Etnaset",
       "url": "https://open.spotify.com/track/5hiQSNo6jQbQ2m2gBZs7bU"
+    },
+    {
+      "album": {
+        "name": "Faqat Ala Bali",
+        "url": "https://open.spotify.com/album/3q8zNHHfUUAMrNgDIan35P"
+      },
+      "artists": [
+        {
+          "name": "Gharam Electric",
+          "url": "https://open.spotify.com/artist/7bSZexnmG19HNWsNh1xok7"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403861,
+      "name": "Faqat Ala Bali",
+      "url": "https://open.spotify.com/track/1wuVpWw54aPEeTrr95uRjp"
     },
     {
       "album": {
@@ -1677,7 +1713,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": null,
       "duration_ms": 238561,
       "name": "\u063a\u0627\u064a\u0628",
       "url": "https://open.spotify.com/track/3KntmeYoXY9wFr0vMslHnM"
@@ -1695,7 +1731,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 238561,
       "name": "\u063a\u0627\u064a\u0628",
       "url": "https://open.spotify.com/track/6murO5dlAsmNoxv8JjlRYJ"

@@ -27,6 +27,28 @@
     {
       "album": {
         "name": "Not For Kids Only",
+        "url": "https://open.spotify.com/album/04Pcnr0XxfUjABKJGesMnb"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        },
+        {
+          "name": "David Grisman",
+          "url": "https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 184906,
+      "name": "A Horse Named Bill",
+      "url": "https://open.spotify.com/track/3Du452g205ZZfxGMWlyoRx"
+    },
+    {
+      "album": {
+        "name": "Not For Kids Only",
         "url": "https://open.spotify.com/album/4aHVExUb9ZqOppOMAdp5aw"
       },
       "artists": [
@@ -720,6 +742,24 @@
     },
     {
       "album": {
+        "name": "Kell Smith",
+        "url": "https://open.spotify.com/album/0XN0Ml1SMmIgyX8IAXMchz"
+      },
+      "artists": [
+        {
+          "name": "Kell Smith",
+          "url": "https://open.spotify.com/artist/74WDLxBsm1TLxV6WVwD994"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 224000,
+      "name": "Era uma Vez",
+      "url": "https://open.spotify.com/track/4jadi3XVifPdv5vzaoTll6"
+    },
+    {
+      "album": {
         "name": "Nossa Hist\u00f3ria (Ao Vivo)",
         "url": "https://open.spotify.com/album/4qEeyIC0z30gL0se5SxBYx"
       },
@@ -731,7 +771,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-10",
+      "date_removed": "2022-11-14",
       "duration_ms": 88954,
       "name": "Era Uma Vez - Ao Vivo",
       "url": "https://open.spotify.com/track/67v2dYsKI0g4qOPfS23ePG"
@@ -947,7 +987,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 141133,
       "name": "Have a Happy",
       "url": "https://open.spotify.com/track/0ZHU70DESs5rz0wdTJiUAr"
@@ -1005,7 +1045,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": "2022-11-13",
       "duration_ms": 171333,
       "name": "I Got a Boy and His Name Is John (with June Carter Cash)",
       "url": "https://open.spotify.com/track/2HCxr7MRt7iTevb58uwd9o"
@@ -1469,7 +1509,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": "2022-11-13",
       "duration_ms": 167568,
       "name": "O Sal da Terra",
       "url": "https://open.spotify.com/track/374SHBJGZL3oaArhIi2GFi"
@@ -1613,7 +1653,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-12",
       "duration_ms": 140080,
       "name": "One and One Makes Two",
       "url": "https://open.spotify.com/track/14hfHTtZCp3xkD68IeQAEr"
@@ -1635,6 +1675,24 @@
       "duration_ms": 195266,
       "name": "Os Alquimistas Est\u00e3o Chegando Os Alquimistas",
       "url": "https://open.spotify.com/track/6WohVJvZ6RYmYN8Nxl9VHa"
+    },
+    {
+      "album": {
+        "name": "Vinicius: Sucessos do Poeta",
+        "url": "https://open.spotify.com/album/2iyPgENBxrb7Em6aCtXLzW"
+      },
+      "artists": [
+        {
+          "name": "Vin\u00edcius de Moraes",
+          "url": "https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 122066,
+      "name": "Pela Luz Dos Olhos Teus",
+      "url": "https://open.spotify.com/track/17RazUjuedPH44SoWaRTGI"
     },
     {
       "album": {
@@ -2010,6 +2068,24 @@
     },
     {
       "album": {
+        "name": "Hopeful Music",
+        "url": "https://open.spotify.com/album/2KLYTP6Lm6Sgsc4oCxWYO4"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 180800,
+      "name": "Three Little Birds",
+      "url": "https://open.spotify.com/track/7G50pcN2iGxpJGVY34otOK"
+    },
+    {
+      "album": {
         "name": "Odessey & Oracle_ 30th Anniversary Edition",
         "url": "https://open.spotify.com/album/4f1WyuUDKJsfFMjUytsbA3"
       },
@@ -2061,6 +2137,24 @@
       "duration_ms": 214026,
       "name": "Time of the Season - Mono Version",
       "url": "https://open.spotify.com/track/6hleUCx3E4gB2urwRvx1QT"
+    },
+    {
+      "album": {
+        "name": "The Original Studio Recordings, Vol. 4",
+        "url": "https://open.spotify.com/album/0s2PMsWqj8BUaPr5PyhcCu"
+      },
+      "artists": [
+        {
+          "name": "The Zombies",
+          "url": "https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 214026,
+      "name": "Time of the Season - Mono Version",
+      "url": "https://open.spotify.com/track/7Cs1pwjAhDtUms7QfBrwJR"
     },
     {
       "album": {
@@ -2253,6 +2347,28 @@
       "duration_ms": 179268,
       "name": "Voc\u00ea mentiu",
       "url": "https://open.spotify.com/track/2GsvXMAz16fKroAmaCxLfL"
+    },
+    {
+      "album": {
+        "name": "Kisses",
+        "url": "https://open.spotify.com/album/5yV6JVfsLGdi3QMclVkvMW"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 179268,
+      "name": "Voc\u00ea mentiu",
+      "url": "https://open.spotify.com/track/51RD9ZadNXepSPBdDrAmNa"
     },
     {
       "album": {

@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 174921,
       "name": "Auld Lang Syne (Smooth Jazz Version)",
       "url": "https://open.spotify.com/track/4G6jzemWcZcSNiuf9422b7"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 224773,
       "name": "Candles",
       "url": "https://open.spotify.com/track/4LBOStx3RgmDRT6qo0sAbe"
@@ -293,6 +293,24 @@
       "duration_ms": 363226,
       "name": "Christmas Time Is Here",
       "url": "https://open.spotify.com/track/7aEjsTKJKspp01vkeVgeRr"
+    },
+    {
+      "album": {
+        "name": "Jazz Christmas",
+        "url": "https://open.spotify.com/album/0y3izjwJZz8J7elmHC4okC"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 366213,
+      "name": "Christmas Time Is Here - Instrumental",
+      "url": "https://open.spotify.com/track/2ztql3V1VjjItFjgElEdNw"
     },
     {
       "album": {
@@ -462,6 +480,78 @@
     },
     {
       "album": {
+        "name": "It's Christmas in New York",
+        "url": "https://open.spotify.com/album/2DmDhBWAZQXULbEPjCtUKI"
+      },
+      "artists": [
+        {
+          "name": "Roddy Doyle Trio",
+          "url": "https://open.spotify.com/artist/2NpfQuA1kHiGx9LHgDx4p3"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136800,
+      "name": "Greensleeves",
+      "url": "https://open.spotify.com/track/3yUhFUj9GsId8yqwNIMndK"
+    },
+    {
+      "album": {
+        "name": "Happy Christmas, Little Friend",
+        "url": "https://open.spotify.com/album/66xxXSW7xjV4bLQwj3FXtF"
+      },
+      "artists": [
+        {
+          "name": "Paul Moretti Trio",
+          "url": "https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151999,
+      "name": "Happy Christmas, Little Friend",
+      "url": "https://open.spotify.com/track/4k9rdBjThAkWE6dkGRT3a2"
+    },
+    {
+      "album": {
+        "name": "A Jazzy Christmas",
+        "url": "https://open.spotify.com/album/5Ov8mmEM065VnF8glNLZUH"
+      },
+      "artists": [
+        {
+          "name": "Zander Jazz Trio",
+          "url": "https://open.spotify.com/artist/5QBHt7kiJsvbsdJx30kMhl"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307711,
+      "name": "Happy Holiday",
+      "url": "https://open.spotify.com/track/2Zmibx9TsizyFYCJFWnJXc"
+    },
+    {
+      "album": {
+        "name": "Hark! The Herald Angels Sing",
+        "url": "https://open.spotify.com/album/4lnAUFKMnMf7m1a8DlrA0t"
+      },
+      "artists": [
+        {
+          "name": "Graydon Poole",
+          "url": "https://open.spotify.com/artist/3CXnbwsLsa3i13StMUzT37"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147032,
+      "name": "Hark! The Herald Angels Sing",
+      "url": "https://open.spotify.com/track/4RzVqpmyoVlRGSLPuPhm5u"
+    },
+    {
+      "album": {
         "name": "Traditional Christmas: Jazz Versions",
         "url": "https://open.spotify.com/album/5z45Sva7XDllFlf2CkSWUC"
       },
@@ -473,7 +563,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 199854,
       "name": "Hark! The Herald Angels Sing (Smooth Jazz Version)",
       "url": "https://open.spotify.com/track/3CtCdVoPoB3IALr4erTZr8"
@@ -617,10 +707,46 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 154000,
       "name": "I'll Be Home For Christmas",
       "url": "https://open.spotify.com/track/6SlcxJo8k3JvrVCeJMiR54"
+    },
+    {
+      "album": {
+        "name": "I'll Be Home For Christmas",
+        "url": "https://open.spotify.com/album/3JFeZMiH5g3cXfrxpNkXtS"
+      },
+      "artists": [
+        {
+          "name": "Kyle Mendes Jazz Trio",
+          "url": "https://open.spotify.com/artist/0KZqPiOKt79SlPR6kzZUm2"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176245,
+      "name": "I'll Be Home For Christmas",
+      "url": "https://open.spotify.com/track/2s77QtuUY02DggvJbX4dtR"
+    },
+    {
+      "album": {
+        "name": "It's Snowing on My Piano",
+        "url": "https://open.spotify.com/album/2GVRqMDD7XThNuI6pxqlAX"
+      },
+      "artists": [
+        {
+          "name": "Bugge Wesseltoft",
+          "url": "https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365906,
+      "name": "In Dulce Jubilo",
+      "url": "https://open.spotify.com/track/7j2B1yYjSxVg9MGEQLIBqn"
     },
     {
       "album": {
@@ -747,10 +873,28 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 161511,
       "name": "O Come All Ye Faithful (Bornl\u00f6f Piano Version)",
       "url": "https://open.spotify.com/track/2xHCs5TFxAmOCo3lR6r7D3"
+    },
+    {
+      "album": {
+        "name": "O Come, All Ye Faithful",
+        "url": "https://open.spotify.com/album/1UsbNMO5iRcpE0ByR3iZfA"
+      },
+      "artists": [
+        {
+          "name": "Grayville Trio",
+          "url": "https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177874,
+      "name": "O Come, All Ye Faithful",
+      "url": "https://open.spotify.com/track/4dCXTJhIjUlSMPwIFGeZlt"
     },
     {
       "album": {
@@ -769,6 +913,42 @@
       "duration_ms": 129348,
       "name": "O Come, O Come, Emanuel",
       "url": "https://open.spotify.com/track/1vx0XNUpmrALy5N9SN4GP5"
+    },
+    {
+      "album": {
+        "name": "O Holy Night",
+        "url": "https://open.spotify.com/album/2H8X72tUBjkUEn97HGzjx8"
+      },
+      "artists": [
+        {
+          "name": "Steve Luke & Holloway",
+          "url": "https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238862,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/2RCvNuag0gdN0lmywnVxTu"
+    },
+    {
+      "album": {
+        "name": "Julmusik Jazz 2021",
+        "url": "https://open.spotify.com/album/3XwFtMdoX1SmWVemrBGoLE"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 196200,
+      "name": "O Little Town of Bethlehem",
+      "url": "https://open.spotify.com/track/068eyQO6YsRTAtYW6L1pun"
     },
     {
       "album": {
@@ -803,7 +983,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 196200,
-      "name": "O Little Town of Bethlehem",
+      "name": "O Little Town Of Bethlehem",
       "url": "https://open.spotify.com/track/7mN5Va59eJwb5fRTuOmuUb"
     },
     {
@@ -837,7 +1017,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 173701,
       "name": "Oh Christmas Tree",
       "url": "https://open.spotify.com/track/2pYXmds8IjEUvg1hFVYygg"
@@ -873,7 +1053,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 210938,
       "name": "Oh Holy Night",
       "url": "https://open.spotify.com/track/1sCwaLpoN8VitJIYHgWZei"
@@ -927,10 +1107,28 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 255733,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/27N4Y24PdcXZtR4IJ40Fhz"
+    },
+    {
+      "album": {
+        "name": "I Saw Mommy Kissing Santa Claus",
+        "url": "https://open.spotify.com/album/5P0WsqOfG5viZpxVpqIuaI"
+      },
+      "artists": [
+        {
+          "name": "Sydney Taylor Band",
+          "url": "https://open.spotify.com/artist/2M3GH9JFk7Z62j2XarUJ1g"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174634,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/2QRzVMpP0v8RqmHctJ6yCH"
     },
     {
       "album": {
@@ -970,6 +1168,24 @@
     },
     {
       "album": {
+        "name": "I'll Be Home For Christmas",
+        "url": "https://open.spotify.com/album/3JFeZMiH5g3cXfrxpNkXtS"
+      },
+      "artists": [
+        {
+          "name": "Kyle Mendes Jazz Trio",
+          "url": "https://open.spotify.com/artist/0KZqPiOKt79SlPR6kzZUm2"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141466,
+      "name": "Still, Still, Still",
+      "url": "https://open.spotify.com/track/1L0op2aXXuCnWsGT8ltTMW"
+    },
+    {
+      "album": {
         "name": "Have Yourself a Merry Little Christmas",
         "url": "https://open.spotify.com/album/3owNP9iL5Db7iKu7JEyWEg"
       },
@@ -988,6 +1204,24 @@
     },
     {
       "album": {
+        "name": "It's Christmas Jazz Time",
+        "url": "https://open.spotify.com/album/5JR94Jt73E9NuIAWksIoKR"
+      },
+      "artists": [
+        {
+          "name": "Barry Snyder Band",
+          "url": "https://open.spotify.com/artist/5xmw30TV4tlHFIOH6HmPnd"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312808,
+      "name": "The Christmas Song",
+      "url": "https://open.spotify.com/track/0GV5Du6sVdokEA5Xd1Cs8a"
+    },
+    {
+      "album": {
         "name": "The Christmas Song",
         "url": "https://open.spotify.com/album/4tAD85fBWxNxfI1VjoermN"
       },
@@ -999,7 +1233,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 206624,
       "name": "The Christmas Song",
       "url": "https://open.spotify.com/track/0QxOpxLx8FEVOYDtnLbS3U"
@@ -1021,7 +1255,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 209692,
       "name": "The Christmas Waltz",
       "url": "https://open.spotify.com/track/7o2tVlkdxa178FviUjEfG8"
@@ -1061,6 +1295,24 @@
       "duration_ms": 217141,
       "name": "The Holly and the Ivy",
       "url": "https://open.spotify.com/track/0F8ZbcUtitZnH2b9E2azZa"
+    },
+    {
+      "album": {
+        "name": "Feliz Navidad",
+        "url": "https://open.spotify.com/album/0OYWQmZW2kvyBeQ5ANypyK"
+      },
+      "artists": [
+        {
+          "name": "Rudy Snow",
+          "url": "https://open.spotify.com/artist/3bBZZ3bsQwZ6DmUH51cabg"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158042,
+      "name": "The Little Drummer Boy",
+      "url": "https://open.spotify.com/track/4rJLWRjJvtMlXatjjzaEAr"
     },
     {
       "album": {
@@ -1115,6 +1367,42 @@
       "duration_ms": 179166,
       "name": "Three Kings",
       "url": "https://open.spotify.com/track/2KwzZRHYlsFzGDk1yhMs7Q"
+    },
+    {
+      "album": {
+        "name": "Tis the season",
+        "url": "https://open.spotify.com/album/02lApfaX6ADtpenYYHS3nC"
+      },
+      "artists": [
+        {
+          "name": "Wonder Eve",
+          "url": "https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214596,
+      "name": "Tis the season",
+      "url": "https://open.spotify.com/track/7lA5vslbewlQUi7gRiAbOJ"
+    },
+    {
+      "album": {
+        "name": "Happy Christmas",
+        "url": "https://open.spotify.com/album/0vaiiGYLM0VxFC0Krfd1zq"
+      },
+      "artists": [
+        {
+          "name": "Eli Starr Trio",
+          "url": "https://open.spotify.com/artist/5oITtTq61bt7N9ZvaJf7G7"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233127,
+      "name": "Toyland",
+      "url": "https://open.spotify.com/track/3frljinYzzUNd5YRIF6xhj"
     },
     {
       "album": {
@@ -1194,6 +1482,24 @@
     },
     {
       "album": {
+        "name": "Winter Wonderland",
+        "url": "https://open.spotify.com/album/74pI1XqEAgFfo1T2UGDEZs"
+      },
+      "artists": [
+        {
+          "name": "Lyla Lee Band",
+          "url": "https://open.spotify.com/artist/44QGQt033sUjbeecDPn791"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153720,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/6uVCqvznAx7pOYHTNlxulb"
+    },
+    {
+      "album": {
         "name": "A Slow Jams Jazz Christmas",
         "url": "https://open.spotify.com/album/7CVYLI6ozhkfiV8Lken1OQ"
       },
@@ -1205,7 +1511,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 232986,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/2dvU6xGERLJVghYFioPgmf"
@@ -1227,6 +1533,24 @@
       "duration_ms": 167302,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/09hSLe9VWIOT5uiMDufJZF"
+    },
+    {
+      "album": {
+        "name": "Happy Christmas, Little Friend",
+        "url": "https://open.spotify.com/album/66xxXSW7xjV4bLQwj3FXtF"
+      },
+      "artists": [
+        {
+          "name": "Paul Moretti Trio",
+          "url": "https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320071,
+      "name": "You're All I Want For Christmas",
+      "url": "https://open.spotify.com/track/3TKli016N6D1XnU0Jz8xVx"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWU0r6G8OGirN"

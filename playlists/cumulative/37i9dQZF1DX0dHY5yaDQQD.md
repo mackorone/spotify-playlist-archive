@@ -4,7 +4,7 @@
 
 > TECHNO / GABBER / RAVE / APOCALYPSE
 
-166 songs - 12 hr 24 min - [published](https://open.spotify.com/playlist/29PkKU4dABal1uW4g9jRz9)
+167 songs - 12 hr 28 min - [published](https://open.spotify.com/playlist/29PkKU4dABal1uW4g9jRz9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Balap Liar \- Exclusive Bonus](https://open.spotify.com/track/59dFUvogvadU9MA3VirWq4) | [Gabber Modus Operandi](https://open.spotify.com/artist/4z8y2MjTFwLa73dABYP1io) | [PUXXXIMAXXX \(2021 Reissue\)](https://open.spotify.com/album/388G1WUjQyeQ9EYON6nOQs) | 4:03 | 2022-02-18 |  |
 | [Ballast](https://open.spotify.com/track/26UfYyC9eZyavP1oJ4Dpsg) | [Objekt](https://open.spotify.com/artist/44z1nVVXZE8d4njcQmQLWc) | [Objekt \#5](https://open.spotify.com/album/7g6AaylaH6MMPVYfX8QWqj) | 4:57 | 2022-07-29 |  |
 | [Birdcrash](https://open.spotify.com/track/3vAi41rXqpeYXTZpLLFD1Q) | [Sense Fracture](https://open.spotify.com/artist/1izZ6suiYhavcv4x9GJXMJ) | [United Ravers Against Fascism](https://open.spotify.com/album/0jgAlYslfHrkGslHOpnYz4) | 4:26 | 2022-02-18 | 2022-07-29 |
-| [Black Ops 2 \- umru Remix](https://open.spotify.com/track/0o9BiuhZ8FSr3G1M3AgRup) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX), [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx) | [Unlimited Ammo: Infinity \(Remix\)](https://open.spotify.com/album/0hRCrpv98LWp86pYFGg1G9) | 3:01 | 2022-07-29 |  |
+| [Black Ops 2 \(umru Remix\)](https://open.spotify.com/track/0o9BiuhZ8FSr3G1M3AgRup) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX), [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx) | [Unlimited Ammo: Infinity \(Remix\)](https://open.spotify.com/album/0hRCrpv98LWp86pYFGg1G9) | 3:01 | 2022-07-29 |  |
 | [Blika](https://open.spotify.com/track/4xKV4wJS3u2ozJGPspw7pZ) | [Blawan](https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI) | [Blika](https://open.spotify.com/album/7mygxwoNaCiqZr7Ltrk03M) | 4:03 | 2022-02-18 | 2022-07-29 |
 | [Blika](https://open.spotify.com/track/5Jo4Y3kS3o6uXmtw5gHI2Z) | [Blawan](https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI) | [Woke Up Right Handed](https://open.spotify.com/album/6aK9NotwcbuNOwn6i6aUdH) | 4:03 | 2022-05-23 |  |
 | [Blood For Tears](https://open.spotify.com/track/4Tp7bWQcVZddJ74vOQEo7y) | [Dirrek](https://open.spotify.com/artist/3XBCrAGxXQOATQN8v7CRK6) | [Blood For Tears](https://open.spotify.com/album/6vF8s4FcZtn9o1xkOaGC7E) | 4:17 | 2022-02-18 | 2022-07-25 |
@@ -81,7 +81,8 @@
 | [HYPER4ID](https://open.spotify.com/track/1TMBNQ57XR9Ppck1yj6w75) | [t+pazolite](https://open.spotify.com/artist/4Y345wfGiorcB2NXcsJxOt) | [HYPER4ID](https://open.spotify.com/album/3eweCWExmgx6NjwuS6yflO) | 3:39 | 2022-02-18 | 2022-07-28 |
 | [HYPER4ID](https://open.spotify.com/track/2JkbSo34dkY5XZpxX2Yx0d) | [t+pazolite](https://open.spotify.com/artist/4Y345wfGiorcB2NXcsJxOt) | [HYPER4ID](https://open.spotify.com/album/1zhnkiftYigvcEeIENQ7Gc) | 3:39 | 2022-05-23 | 2022-07-30 |
 | [I'm Waiting For It \(all the time\)](https://open.spotify.com/track/3EEpPBdaVRcyZRz3ERyzYJ) | [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy), [Mini Esco](https://open.spotify.com/artist/4wORgo0zGbtfNHLJVsqO6K) | [YEAR0001 \- RIFT One](https://open.spotify.com/album/3BoTGjBVSF9fTMXuq8z8MI) | 5:36 | 2022-02-18 | 2022-07-30 |
-| [in my closet](https://open.spotify.com/track/3AZto3MZaVePHEXvt0Me9V) | [Catnapp](https://open.spotify.com/artist/2W47Nby5KFaS1pdUt7qmCU), [Modeselektor](https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ) | [TRUST](https://open.spotify.com/album/1bvrpTqzbfMe4HvdbzwGu2) | 3:32 | 2022-05-23 |  |
+| [in my closet](https://open.spotify.com/track/2Tyz2yalMYgk9evio4Pc8W) | [Catnapp](https://open.spotify.com/artist/2W47Nby5KFaS1pdUt7qmCU), [Modeselektor](https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ) | [TRUST](https://open.spotify.com/album/558F6R7m4TZSKYb4xnANuF) | 3:32 | 2022-09-16 |  |
+| [in my closet](https://open.spotify.com/track/3AZto3MZaVePHEXvt0Me9V) | [Catnapp](https://open.spotify.com/artist/2W47Nby5KFaS1pdUt7qmCU), [Modeselektor](https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ) | [TRUST](https://open.spotify.com/album/1bvrpTqzbfMe4HvdbzwGu2) | 3:32 | 2022-05-23 | 2022-11-20 |
 | [Inner Fire](https://open.spotify.com/track/0DvAzYHZiEo5vMwnWOdPLL) | [Inquisitive](https://open.spotify.com/artist/6K4XQXfV7Gill2ULeRu6fw), [Alby Loud](https://open.spotify.com/artist/2LAMUtUpLsPEEBsfGTRRUx) | [Inner Fire](https://open.spotify.com/album/5SdVDheSxfyBcZDQyOHVQ3) | 3:40 | 2022-02-18 | 2022-07-27 |
 | [Inner Space](https://open.spotify.com/track/0C7TKUi4Tjfept2pkesS1e) | [Batu](https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr) | [Inner Space](https://open.spotify.com/album/4i70IT51TDRRPl47id6hqC) | 4:54 | 2022-02-18 |  |
 | [Issa Revenge](https://open.spotify.com/track/0ehrDpPGhgKJgZjtCeOG5j) | [CRYSTALLMESS](https://open.spotify.com/artist/5b4g39OmFtyQcwYLSHCvsC), [Nadsat](https://open.spotify.com/artist/234fDLEWLwgINiSqe7Pk2J) | [Issa Revenge](https://open.spotify.com/album/4BBO41wG3Z1DTJ3ndJDAGB) | 4:22 | 2022-02-18 |  |

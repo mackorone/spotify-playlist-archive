@@ -550,6 +550,24 @@
     },
     {
       "album": {
+        "name": "Music of the World: Slide Guitar Blues",
+        "url": "https://open.spotify.com/album/45CrV9b8StUZ26CnPJnESa"
+      },
+      "artists": [
+        {
+          "name": "Johnny Winter",
+          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+        }
+      ],
+      "date_added": "2020-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 250866,
+      "name": "It's My Life, Baby",
+      "url": "https://open.spotify.com/track/5yLDFTpBHKDdaC1IiKAwNS"
+    },
+    {
+      "album": {
         "name": "Guitar Slinger",
         "url": "https://open.spotify.com/album/2y4i1Oo4Kgj1NRz2wfPz5c"
       },

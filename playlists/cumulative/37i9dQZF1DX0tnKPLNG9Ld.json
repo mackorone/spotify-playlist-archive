@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 211480,
       "name": "'S Wonderful",
       "url": "https://open.spotify.com/track/4qrNDqLkVXz7t5fJnGqr6B"
@@ -362,6 +362,24 @@
     },
     {
       "album": {
+        "name": "Paul Desmond: The Best of the Complete RCA Victor Recordings",
+        "url": "https://open.spotify.com/album/0KowjFC1x1qBFKVpc9RbXP"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 285640,
+      "name": "Bossa Antigua",
+      "url": "https://open.spotify.com/track/641OktsOvVkwt59DOisKZM"
+    },
+    {
+      "album": {
         "name": "Don't Go To Strangers (Rudy Van Gelder Remaster)",
         "url": "https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt"
       },
@@ -413,6 +431,24 @@
       "duration_ms": 124560,
       "name": "Call Me Irresponsible",
       "url": "https://open.spotify.com/track/0Juciz8gOjrO89qw5KwQV5"
+    },
+    {
+      "album": {
+        "name": "Love Songs That Swing",
+        "url": "https://open.spotify.com/album/2XwURNeyG6HLKSL2aIyN4d"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 124560,
+      "name": "Call Me Irresponsible",
+      "url": "https://open.spotify.com/track/6pG0UJyctY7pSjIncNv1zM"
     },
     {
       "album": {
@@ -521,7 +557,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 132144,
       "name": "Cocktails For Two",
       "url": "https://open.spotify.com/track/12Iu4hfFdWbKE6nfVi1zKK"
@@ -543,6 +579,24 @@
       "duration_ms": 133480,
       "name": "Cocktails for Two",
       "url": "https://open.spotify.com/track/2LKQVRrrXW7cN34JJYmzC1"
+    },
+    {
+      "album": {
+        "name": "Anthology: The Definitive Collection (Remastered)",
+        "url": "https://open.spotify.com/album/0yejhvXnslX5hPBdMI2O3P"
+      },
+      "artists": [
+        {
+          "name": "Toots Thielemans",
+          "url": "https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 136475,
+      "name": "Cocktails for Two - Remastered",
+      "url": "https://open.spotify.com/track/0uWHc4r9i72JkQqy2il8PE"
     },
     {
       "album": {
@@ -756,6 +810,28 @@
     },
     {
       "album": {
+        "name": "Es wird scho glei dumpa",
+        "url": "https://open.spotify.com/album/67Uq3OnYDYvQBRVoenXv7Z"
+      },
+      "artists": [
+        {
+          "name": "Jazzrausch Bigband",
+          "url": "https://open.spotify.com/artist/2pYHY1BQbcGFSW18EoXdkw"
+        },
+        {
+          "name": "Julian Hesse",
+          "url": "https://open.spotify.com/artist/50s70RZ1etLUykkYClPs9U"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "Es wird scho glei dumpa",
+      "url": "https://open.spotify.com/track/7N37Qn9wKn2f6EoRiKqTNe"
+    },
+    {
+      "album": {
         "name": "Improvisations for the Human Voice",
         "url": "https://open.spotify.com/album/6VztBHhA1uzWKMYo2QarJd"
       },
@@ -767,7 +843,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 166280,
       "name": "Farmer's Market",
       "url": "https://open.spotify.com/track/0ajHKnwJuMptJqbhtxSuxU"
@@ -829,7 +905,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-10",
+      "date_removed": null,
       "duration_ms": 147000,
       "name": "Fly Me To The Moon (In Other Words)",
       "url": "https://open.spotify.com/track/5b7OgznPJJr1vHNYGyvxau"
@@ -851,7 +927,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 147520,
       "name": "Fly Me To The Moon - 2008 Remastered",
       "url": "https://open.spotify.com/track/7FXj7Qg3YorUxdrzvrcY25"
@@ -873,7 +949,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": "2022-11-13",
       "duration_ms": 147200,
       "name": "Four Brothers",
       "url": "https://open.spotify.com/track/4eduZPo0PdAhlWRLEiOlSb"
@@ -1289,7 +1365,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 195106,
       "name": "I'm In The Mood For Love",
       "url": "https://open.spotify.com/track/3HYAO6bacg5rW3hVH2qoHF"
@@ -1477,6 +1553,24 @@
       "duration_ms": 216026,
       "name": "Jersey Bounce",
       "url": "https://open.spotify.com/track/6oM7OrLeTlTqz7m7Q6tFvr"
+    },
+    {
+      "album": {
+        "name": "That's All - Autumn Jazz",
+        "url": "https://open.spotify.com/album/2tTChkbyHYp1q3lABfzTzI"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 251093,
+      "name": "Jive At Six",
+      "url": "https://open.spotify.com/track/0dTL1Z59zGmYDk7unJlqkP"
     },
     {
       "album": {
@@ -1697,7 +1791,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 149346,
       "name": "Lullaby of Birdland",
       "url": "https://open.spotify.com/track/5EnAlrMmygDNpm6ReZC3ED"
@@ -1737,7 +1831,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-05",
+      "date_removed": "2022-11-13",
       "duration_ms": 187040,
       "name": "Lulu's Back In Town",
       "url": "https://open.spotify.com/track/6YMbGEs68Nc9B17N5gmGXP"
@@ -1795,7 +1889,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 188594,
       "name": "Nice Work If You Can Get It",
       "url": "https://open.spotify.com/track/7gczaB86KEDi6D6Uic4vtM"
@@ -2256,6 +2350,24 @@
     },
     {
       "album": {
+        "name": "The Ultimate",
+        "url": "https://open.spotify.com/album/7FAu65eXZrds9zcezKtYhl"
+      },
+      "artists": [
+        {
+          "name": "Jo Stafford",
+          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 144533,
+      "name": "The Best Things In Life Are Free",
+      "url": "https://open.spotify.com/track/7BQeX2e4FhQjxIwfRON1Qp"
+    },
+    {
+      "album": {
         "name": "Autumn In New York",
         "url": "https://open.spotify.com/album/6hM8Vc45AcGKa6XR5yqv14"
       },
@@ -2343,7 +2455,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-13",
+      "date_removed": "2022-11-12",
       "duration_ms": 234066,
       "name": "The Song Is You",
       "url": "https://open.spotify.com/track/3Cm5dmc7D8b49sa567pQwX"
@@ -2369,6 +2481,24 @@
       "duration_ms": 305960,
       "name": "Them There Eyes",
       "url": "https://open.spotify.com/track/0zvEaTWTllcMVWNlOqMnk0"
+    },
+    {
+      "album": {
+        "name": "Twentysomething",
+        "url": "https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201400,
+      "name": "These Are The Days",
+      "url": "https://open.spotify.com/track/1eWgwHZXvYG6Odpx7QwJmT"
     },
     {
       "album": {
@@ -2401,7 +2531,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-12",
+      "date_removed": "2022-11-25",
       "duration_ms": 174960,
       "name": "Till the Clouds Roll By - 2015 Remastered Version",
       "url": "https://open.spotify.com/track/14HvYxFV80IzpbKXc1EaDG"
@@ -2651,7 +2781,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": "2022-11-06",
       "duration_ms": 142466,
       "name": "You Make Me Feel So Young",
       "url": "https://open.spotify.com/track/3p5mDu81tQj8YF6gV4iu9h"

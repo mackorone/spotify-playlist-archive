@@ -4,14 +4,16 @@
 
 > Blues with a lighter, up\-beat feel\. Cover: Taj Mahal & Keb' Mo'
 
-52 songs - 3 hr 18 min - [published](https://open.spotify.com/playlist/4ymcSSyDhMzAQTgzdnWUwO)
+54 songs - 3 hr 26 min - [published](https://open.spotify.com/playlist/4ymcSSyDhMzAQTgzdnWUwO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [All Around The World](https://open.spotify.com/track/07ZuuDjwtyMzKVnayq0tEr) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [TajMo](https://open.spotify.com/album/3NF642glRZZKf3Ng96eMfX) | 3:22 | 2020-12-01 |  |
 | [All That I Need](https://open.spotify.com/track/4kHbSR48fWeGf7zQTOMdwu) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Made Up Mind](https://open.spotify.com/album/41qVSZezrAYJ8zXZvoyLGA) | 5:11 | 2020-12-01 |  |
 | [Better Together](https://open.spotify.com/track/2Hi5Vmg9pEE79rlc8euV8K) | [Joey Landreth](https://open.spotify.com/artist/1n5S81eeVtaFs2vvo7p234) | [Whiskey](https://open.spotify.com/album/5e26fKhSFeYXxCVAlCwMdQ) | 3:30 | 2020-12-01 |  |
-| [Deeper](https://open.spotify.com/track/3aMEGGdLIbKTajQdsFt03q) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Road I Call Home](https://open.spotify.com/album/7rooTZehVu9pdUIirCwA0a) | 3:59 | 2020-12-01 |  |
+| [Deeper](https://open.spotify.com/track/3Wx0KhDyNLXmygOhEpMz2S) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Road I Call Home](https://open.spotify.com/album/3isKOTZKofEvSaMmYUgkCT) | 3:59 | 2020-12-01 |  |
+| [Deeper](https://open.spotify.com/track/3aMEGGdLIbKTajQdsFt03q) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Road I Call Home](https://open.spotify.com/album/7rooTZehVu9pdUIirCwA0a) | 3:59 | 2020-12-01 | 2022-10-16 |
+| [Deeper](https://open.spotify.com/track/4i3RkBecFpzy80taLWI1VF) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Deeper](https://open.spotify.com/album/1wFn28AuqA8PnDzl2OXmzZ) | 3:59 | 2020-12-01 | 2022-11-13 |
 | [Doin' What You Were Doin'](https://open.spotify.com/track/1OBfDqOeDZoyz5aMsXpVXh) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [1 Hopeful Rd.](https://open.spotify.com/album/7hEZhkFjaW8bH1cI1D6Dsd) | 4:02 | 2020-12-01 |  |
 | [Drinkin' Wine](https://open.spotify.com/track/0aTYDSglGbfhv1Zoj9PAR6) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [The Juice](https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL) | 4:13 | 2020-12-01 |  |
 | [Easy Street](https://open.spotify.com/track/1JbHMSiZowEjVrRhXh3XjZ) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP) | 2:17 | 2020-12-01 |  |

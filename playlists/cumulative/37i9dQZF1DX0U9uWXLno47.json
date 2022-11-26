@@ -307,7 +307,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 189108,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/30c3pxlLWPx3eRaMjvBQ1c"
@@ -351,7 +351,7 @@
     {
       "album": {
         "name": "true colors (from Life is Strange)",
-        "url": "https://open.spotify.com/album/6wplPsthY2RZExLI73Gclg"
+        "url": "https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h"
       },
       "artists": [
         {
@@ -362,6 +362,24 @@
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 210600,
+      "name": "creep",
+      "url": "https://open.spotify.com/track/1CSue9uoEXv1w2YwfSjaCY"
+    },
+    {
+      "album": {
+        "name": "true colors (from Life is Strange)",
+        "url": "https://open.spotify.com/album/6wplPsthY2RZExLI73Gclg"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
       "duration_ms": 210600,
       "name": "creep",
       "url": "https://open.spotify.com/track/7aHKcqM6ooNnM122ydEyGq"
@@ -433,7 +451,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-14",
+      "date_removed": "2022-11-13",
       "duration_ms": 304845,
       "name": "Don't Look Back in Anger - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/7HtrKGoFZybzudx2hPOwct"
@@ -451,7 +469,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-11-13",
       "duration_ms": 261000,
       "name": "Everybody Wants to Rule the World",
       "url": "https://open.spotify.com/track/75lEtKX3MoBmnUSmXn75E2"
@@ -631,10 +649,32 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 274285,
       "name": "Golden Years",
       "url": "https://open.spotify.com/track/34PRFgMjpf1mTiIDIve6Sz"
+    },
+    {
+      "album": {
+        "name": "Gentlewoman, Ruby Man",
+        "url": "https://open.spotify.com/album/6CNgs4YV5rxsOjADfpUCg3"
+      },
+      "artists": [
+        {
+          "name": "Flo Morrissey",
+          "url": "https://open.spotify.com/artist/3qM2kgxt87sXgP2ytxZZv2"
+        },
+        {
+          "name": "Matthew E. White",
+          "url": "https://open.spotify.com/artist/58mMrwemoGIcDpvfHe46u4"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261384,
+      "name": "Grease",
+      "url": "https://open.spotify.com/track/0fJleeHFEPJaPQLQYw5DT5"
     },
     {
       "album": {
@@ -653,7 +693,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 261384,
       "name": "Grease",
       "url": "https://open.spotify.com/track/2a2apdi8RxYyUgMkHWIbM6"
@@ -1140,6 +1180,24 @@
     },
     {
       "album": {
+        "name": "Everything You've Come To Expect (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6q1ZuWCnYTQb7KhXHZo947"
+      },
+      "artists": [
+        {
+          "name": "The Last Shadow Puppets",
+          "url": "https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200673,
+      "name": "Les Cactus",
+      "url": "https://open.spotify.com/track/4Wg7fFccdDBL1sJGiu14w7"
+    },
+    {
+      "album": {
         "name": "Aladdin Sane (2013 Remaster)",
         "url": "https://open.spotify.com/album/3HZKOk1knxrUU3y5ZIOdbz"
       },
@@ -1151,7 +1209,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 190751,
       "name": "Let's Spend the Night Together - 2013 Remaster",
       "url": "https://open.spotify.com/track/0Mxo6w8hWMwDN2C0eygceO"
@@ -1856,6 +1914,24 @@
     },
     {
       "album": {
+        "name": "MTV Unplugged In New York (25th Anniversary)",
+        "url": "https://open.spotify.com/album/1tsNAUQqofHrnlezRK8D5R"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 261133,
+      "name": "The Man Who Sold The World - Live Version",
+      "url": "https://open.spotify.com/track/2BfEmIGA7VB0QJywPC1uF9"
+    },
+    {
+      "album": {
         "name": "MTV Unplugged In New York (25th Anniversary \u2013 Live)",
         "url": "https://open.spotify.com/album/5TjzZz2sp3wkZJfCaD79zv"
       },
@@ -2159,10 +2235,28 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 224560,
       "name": "Where Is My Mind? - XFM Live Version",
       "url": "https://open.spotify.com/track/3fR6HdcPn0VHjMBnbGvCQc"
+    },
+    {
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/7kTsa1wUFrahJJf1cJEOpZ"
+      },
+      "artists": [
+        {
+          "name": "Placebo",
+          "url": "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224560,
+      "name": "Where Is My Mind? - XFM Live Version",
+      "url": "https://open.spotify.com/track/6Yg3J1OkP45uNcboiUg2Rw"
     },
     {
       "album": {

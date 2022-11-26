@@ -145,7 +145,7 @@
       ],
       "date_added": "2021-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": null,
       "duration_ms": 298333,
       "name": "Daddy",
       "url": "https://open.spotify.com/track/5pv5vddJx34hzRT9wI0wK2"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 132426,
       "name": "Daddy's Little Girl",
       "url": "https://open.spotify.com/track/2XDxDUxTOMWRoeyl322oG8"
@@ -599,7 +599,7 @@
       ],
       "date_added": "2021-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 203680,
       "name": "I Learned From You",
       "url": "https://open.spotify.com/track/3qhIhyu9Sl8lyF43vNt9Dv"
@@ -639,6 +639,24 @@
       "duration_ms": 212880,
       "name": "I Loved Her First",
       "url": "https://open.spotify.com/track/0vZvEE9c2bmA6H8hVKxXEZ"
+    },
+    {
+      "album": {
+        "name": "Just As I Am",
+        "url": "https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198026,
+      "name": "I'm Her Daddy",
+      "url": "https://open.spotify.com/track/4Z5C9LDf5S5pWFAoPWN4ej"
     },
     {
       "album": {
@@ -808,6 +826,42 @@
     },
     {
       "album": {
+        "name": "Pilgrim",
+        "url": "https://open.spotify.com/album/4zWJPA1aq4IBdLk1QbWD63"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323440,
+      "name": "My Father's Eyes",
+      "url": "https://open.spotify.com/track/2GGskYwS4j8LDMSDUJ8vrl"
+    },
+    {
+      "album": {
+        "name": "Complete Clapton",
+        "url": "https://open.spotify.com/album/28Cz12vvLOxYkqzXNwAbnl"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-24",
+      "duration_ms": 323440,
+      "name": "My Father's Eyes",
+      "url": "https://open.spotify.com/track/3faolvgrl8JeE6iTCNJn7Y"
+    },
+    {
+      "album": {
         "name": "Clapton Chronicles: The Best of Eric Clapton",
         "url": "https://open.spotify.com/album/6FCakQJ6z6TF0y0qkHYKgy"
       },
@@ -837,7 +891,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 323440,
       "name": "My Father's Eyes",
       "url": "https://open.spotify.com/track/7zXqmgoZNRHNFgFAOoxhx6"
@@ -891,7 +945,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": "2022-11-13",
       "duration_ms": 234873,
       "name": "My Old Man - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6hJ7gAxu3QqYBfvaTV3ZOQ"
@@ -1021,7 +1075,7 @@
       ],
       "date_added": "2021-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-14",
+      "date_removed": "2022-11-13",
       "duration_ms": 236453,
       "name": "Song For Dad",
       "url": "https://open.spotify.com/track/0l2G2yxjpE9zgUA8rJlAMu"

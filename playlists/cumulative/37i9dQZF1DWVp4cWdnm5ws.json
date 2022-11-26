@@ -88,6 +88,24 @@
     },
     {
       "album": {
+        "name": "Another Day",
+        "url": "https://open.spotify.com/album/13EhQoTZsk8mfqwbGPG2E8"
+      },
+      "artists": [
+        {
+          "name": "dia mat\u00e9",
+          "url": "https://open.spotify.com/artist/4UcpNyDTbuLdGygQNjuXfd"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268000,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/4rCpSyxdUIXPvPsK77p7wE"
+    },
+    {
+      "album": {
         "name": "Ayoko Pa",
         "url": "https://open.spotify.com/album/0Ke3mRgrGs6GM7Q8FQJdLZ"
       },
@@ -432,6 +450,24 @@
     },
     {
       "album": {
+        "name": "3rd Eye",
+        "url": "https://open.spotify.com/album/4AD7IVbMSuXMZWES5pZCKg"
+      },
+      "artists": [
+        {
+          "name": "Lesha",
+          "url": "https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142162,
+      "name": "Eleven: Eleven",
+      "url": "https://open.spotify.com/track/6AIX4p3MIsNw1ESu5UtITG"
+    },
+    {
+      "album": {
         "name": "Eleven:Eleven",
         "url": "https://open.spotify.com/album/6zHBS4tfhaCbt3MtpIh88I"
       },
@@ -443,7 +479,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 142162,
       "name": "Eleven:Eleven",
       "url": "https://open.spotify.com/track/5DqYDCnrEsn1XwcvgFnzuY"
@@ -1078,6 +1114,24 @@
     },
     {
       "album": {
+        "name": "Magnet",
+        "url": "https://open.spotify.com/album/1nWk5TI1nkvqIBKhEinUFM"
+      },
+      "artists": [
+        {
+          "name": "BGYO",
+          "url": "https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Magnet",
+      "url": "https://open.spotify.com/track/1geSghgZOCPrcjN2GvGJHS"
+    },
+    {
+      "album": {
         "name": "Mahika",
         "url": "https://open.spotify.com/album/3WaVt2pLL12vKhAwQgKld4"
       },
@@ -1245,6 +1299,24 @@
       "duration_ms": 190537,
       "name": "Ngayon Lang 'To",
       "url": "https://open.spotify.com/track/0V4mByDGbFjeKQ2ufzq2OI"
+    },
+    {
+      "album": {
+        "name": "Pasahili",
+        "url": "https://open.spotify.com/album/1ap5tsIDusVksftqQzTSQL"
+      },
+      "artists": [
+        {
+          "name": "Arthur Miguel",
+          "url": "https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196428,
+      "name": "Pagbilang Ng Tatlo",
+      "url": "https://open.spotify.com/track/6qLfX65ENPhm38xQruqoVP"
     },
     {
       "album": {
@@ -1437,6 +1509,24 @@
       "duration_ms": 277619,
       "name": "Rest",
       "url": "https://open.spotify.com/track/3M3Uw8SisAcJoZs4mdHJVC"
+    },
+    {
+      "album": {
+        "name": "Risk It",
+        "url": "https://open.spotify.com/album/6krLZc8jaKDnq62ppngT4m"
+      },
+      "artists": [
+        {
+          "name": "Alisson Shore",
+          "url": "https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225250,
+      "name": "Risk It",
+      "url": "https://open.spotify.com/track/5JsHoy0q0mZutMW27kFq5n"
     },
     {
       "album": {
@@ -1749,10 +1839,36 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 218720,
       "name": "Twin Flames",
       "url": "https://open.spotify.com/track/0l0m2RjO5KtBl2fZ4CgmiT"
+    },
+    {
+      "album": {
+        "name": "3rd Eye",
+        "url": "https://open.spotify.com/album/4AD7IVbMSuXMZWES5pZCKg"
+      },
+      "artists": [
+        {
+          "name": "Lesha",
+          "url": "https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi"
+        },
+        {
+          "name": "Lewis Maxwell",
+          "url": "https://open.spotify.com/artist/5OsuXDA4kXucz8ZFujKr5T"
+        },
+        {
+          "name": "Ghauri",
+          "url": "https://open.spotify.com/artist/43EGUEg0Wg5ahrwhW38qlv"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218720,
+      "name": "Twin Flames",
+      "url": "https://open.spotify.com/track/3vYyA9bj5lVknfqY0PDIEb"
     },
     {
       "album": {

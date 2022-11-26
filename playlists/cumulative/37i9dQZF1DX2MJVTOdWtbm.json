@@ -573,7 +573,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 201230,
       "name": "Cerquita del Mar",
       "url": "https://open.spotify.com/track/5l6VAepfKDFDa2sR0fAELo"
@@ -1851,7 +1851,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": "2022-11-07",
       "duration_ms": 210560,
       "name": "la que calla",
       "url": "https://open.spotify.com/track/5KHkcJbmQXRmWj7JaXzXHj"
@@ -2163,7 +2163,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 172421,
       "name": "me piensas ;)",
       "url": "https://open.spotify.com/track/15o9c1gTVDxkGxq74lrgO9"
@@ -2827,7 +2827,7 @@
     {
       "album": {
         "name": "Para Ti No",
-        "url": "https://open.spotify.com/album/4EapkHVCYFicbJrMFriCUn"
+        "url": "https://open.spotify.com/album/2xGJoSFiRndCEdIMd815j9"
       },
       "artists": [
         {
@@ -2838,6 +2838,24 @@
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 199046,
+      "name": "Para Ti No",
+      "url": "https://open.spotify.com/track/4pD2EDopSOZl4ojChPFddV"
+    },
+    {
+      "album": {
+        "name": "Para Ti No",
+        "url": "https://open.spotify.com/album/4EapkHVCYFicbJrMFriCUn"
+      },
+      "artists": [
+        {
+          "name": "ANGEL22",
+          "url": "https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
       "duration_ms": 199046,
       "name": "Para Ti No",
       "url": "https://open.spotify.com/track/5SpueQHv3xgumn1fHbtRZY"

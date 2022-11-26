@@ -199,7 +199,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-10-16",
       "duration_ms": 165653,
       "name": "Creeping out Sara",
       "url": "https://open.spotify.com/track/6w8BMvIEGU1JYkR1mdIGJt"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": null,
       "duration_ms": 211666,
       "name": "Eat The Meek",
       "url": "https://open.spotify.com/track/1nROHtrrwFTvT0TuvFr91D"
@@ -347,6 +347,42 @@
       "duration_ms": 145466,
       "name": "Franco Un-American",
       "url": "https://open.spotify.com/track/180jsAPdTdsP31LyuYdGan"
+    },
+    {
+      "album": {
+        "name": "Single Album",
+        "url": "https://open.spotify.com/album/7clMEugC4qJ1ApbscpXsaL"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134581,
+      "name": "Fuck Euphemism",
+      "url": "https://open.spotify.com/track/2GBrJjTBrCDY10chjDi4sJ"
+    },
+    {
+      "album": {
+        "name": "Wolves in Wolves' Clothing",
+        "url": "https://open.spotify.com/album/0bb9iLMHdUJhFIVwOars3P"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 73933,
+      "name": "Getting High on the Down Low",
+      "url": "https://open.spotify.com/track/1VYCjvOWb3Xy9CcMKLxKK1"
     },
     {
       "album": {
@@ -433,7 +469,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 77066,
       "name": "I'm Telling Tim",
       "url": "https://open.spotify.com/track/2zQX7Sakdph6PcI3oTHuhI"
@@ -563,7 +599,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": "2022-11-07",
       "duration_ms": 199781,
       "name": "Linewleum (feat. Avenged Sevenfold)",
       "url": "https://open.spotify.com/track/0LIfpDM2OVNy2acS0aghJi"
@@ -617,7 +653,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-10-17",
       "duration_ms": 109640,
       "name": "Louise",
       "url": "https://open.spotify.com/track/6JV3drSaqeGAcKjglOtopa"
@@ -635,7 +671,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 148960,
       "name": "Mattersville",
       "url": "https://open.spotify.com/track/05IpaSItsMpDT4TRDg4zht"
@@ -750,6 +786,24 @@
     },
     {
       "album": {
+        "name": "Punk Rock Clich\u00e9",
+        "url": "https://open.spotify.com/album/5hfLFZaRWTnYl0kcXeCSWE"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202447,
+      "name": "Punk Rock Clich\u00e9",
+      "url": "https://open.spotify.com/track/4s0DdV6CwjzFaZuIVKuj9x"
+    },
+    {
+      "album": {
         "name": "So Long & Thanks For All The Shoes",
         "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
       },
@@ -761,10 +815,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-10-13",
       "duration_ms": 98293,
       "name": "Quart In Session",
       "url": "https://open.spotify.com/track/35L8JI1o2llRWMuc8NK3pN"
+    },
+    {
+      "album": {
+        "name": "45 or 46 Songs That Weren't Good Enough to Go on Our Other Records",
+        "url": "https://open.spotify.com/album/63jEOTmpfVTKYzeJ6hvIAn"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 31573,
+      "name": "See Her Pee",
+      "url": "https://open.spotify.com/track/4civZE6DnycEynRO2VeK5u"
     },
     {
       "album": {
@@ -797,7 +869,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 176666,
       "name": "She's Gone",
       "url": "https://open.spotify.com/track/4UorLuTcNNjQ67w8rFF3V8"
@@ -905,7 +977,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 348055,
       "name": "The Big Drag",
       "url": "https://open.spotify.com/track/79FLRV9bif83LXWIMDYEC4"
@@ -1031,7 +1103,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 146933,
       "name": "The Moron Brothers",
       "url": "https://open.spotify.com/track/7B0XWr4O3lvYjNHSXPLsbI"
@@ -1071,6 +1143,24 @@
       "duration_ms": 189733,
       "name": "The Separation of Church and Skate",
       "url": "https://open.spotify.com/track/1NVjbk3Q06lEvAPUlTauzr"
+    },
+    {
+      "album": {
+        "name": "Ribbed",
+        "url": "https://open.spotify.com/album/1zSh4dywDdr83HQGpvOwCQ"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72373,
+      "name": "Together On The Sand",
+      "url": "https://open.spotify.com/track/7wyuKMQjuII5e1mr59iiKV"
     },
     {
       "album": {
@@ -1121,7 +1211,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": "2022-10-13",
       "duration_ms": 123506,
       "name": "We Got Two Jealous Agains",
       "url": "https://open.spotify.com/track/2tahr8bIxTlu2jpO8kj8Gi"

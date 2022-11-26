@@ -9182,7 +9182,7 @@
       "artists": [
         {
           "name": "Felix Tanguy",
-          "url": "https://open.spotify.com/artist/5QzzsfAU8urvcZpr5OVeng"
+          "url": "https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW"
         }
       ],
       "date_added": "2022-07-20",
@@ -14427,10 +14427,28 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 199866,
       "name": "Nothing's Real",
       "url": "https://open.spotify.com/track/1eCHZw5HTuItbSDXlpukGQ"
+    },
+    {
+      "album": {
+        "name": "Nothing's Real",
+        "url": "https://open.spotify.com/album/1ckiVQVtzGBPg1YXeZ9tch"
+      },
+      "artists": [
+        {
+          "name": "Eddie Jenkins",
+          "url": "https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199866,
+      "name": "Nothing's Real",
+      "url": "https://open.spotify.com/track/25Uvq61rPUod0X8L02LNTT"
     },
     {
       "album": {
@@ -14633,6 +14651,42 @@
     {
       "album": {
         "name": "Old Flame",
+        "url": "https://open.spotify.com/album/2Ghtml0EN6GDcy896wqkMO"
+      },
+      "artists": [
+        {
+          "name": "Eddie Jenkins",
+          "url": "https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128146,
+      "name": "Old Flame",
+      "url": "https://open.spotify.com/track/4zUOnBrIEKo9D70FelAthz"
+    },
+    {
+      "album": {
+        "name": "EP.1",
+        "url": "https://open.spotify.com/album/3BbHU0suLHeL0a56KaCIsK"
+      },
+      "artists": [
+        {
+          "name": "Eddie Jenkins",
+          "url": "https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 128146,
+      "name": "Old Flame",
+      "url": "https://open.spotify.com/track/5wfZrIFYtl93BOMeS464rB"
+    },
+    {
+      "album": {
+        "name": "Old Flame",
         "url": "https://open.spotify.com/album/7sN26SlOzcl1ey6NuPPQfg"
       },
       "artists": [
@@ -14643,7 +14697,7 @@
       ],
       "date_added": "2021-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 128146,
       "name": "Old Flame",
       "url": "https://open.spotify.com/track/64th3RAbJNNkh96S3lcMRZ"
@@ -17841,6 +17895,24 @@
       "duration_ms": 137819,
       "name": "Scenery",
       "url": "https://open.spotify.com/track/4P5jSwg9Zx6DxKb5u7TfmG"
+    },
+    {
+      "album": {
+        "name": "Scenery",
+        "url": "https://open.spotify.com/album/4rxV7w5hW3PxrW5npvzn4O"
+      },
+      "artists": [
+        {
+          "name": "Alavilla Mailla",
+          "url": "https://open.spotify.com/artist/7w44AhUBks0lqRO3bToPWa"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 137819,
+      "name": "Scenery",
+      "url": "https://open.spotify.com/track/6geWKrtpXjDTp32yEDW8cs"
     },
     {
       "album": {

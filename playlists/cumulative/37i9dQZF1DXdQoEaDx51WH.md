@@ -4,7 +4,7 @@
 
 > All\-new tracks by Coke Studio Pakistan Season 14, updated live.
 
-16 songs - 1 hr 14 min - [published](https://open.spotify.com/playlist/34aS3Tdje9r8UhBZj8WUc1)
+17 songs - 1 hr 16 min - [published](https://open.spotify.com/playlist/34aS3Tdje9r8UhBZj8WUc1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Sajan Das Na](https://open.spotify.com/track/4TNzipbkHuhp5DtHcZ9osE) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV) | [Sajan Das Na](https://open.spotify.com/album/3yTNiZtxLJMpOKc5dZJf9w) | 3:56 | 2022-03-23 |  |
 | [Shuru Karein](https://open.spotify.com/track/19DH8oyJuWXX8RAWS8QK0z) | [Romail Ali Khan](https://open.spotify.com/artist/1RhkYKt3R7Jv9wyunsdBQl) | [Shuru Karein](https://open.spotify.com/album/44q7Lygf65CE45WtnkaAnV) | 2:26 | 2022-03-23 | 2022-07-29 |
 | [Shuru Karein](https://open.spotify.com/track/3yqoD9SYDfwvNEdU2NEpFx) | [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Shuru Karein](https://open.spotify.com/album/1MxsE2k1buYRltVVXfcivf) | 2:26 | 2022-03-23 |  |
+| [Shuru Karein](https://open.spotify.com/track/5q7YPRbhsEglQUBacUCTlP) | [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Coke Studio \(Season 14\)](https://open.spotify.com/album/6A9M0zgEwr15R3kUehBzRl) | 2:26 | 2022-10-06 | 2022-11-13 |
 | [Thagyan](https://open.spotify.com/track/6KdTA6s7zmqLyB5ZNvVta0) | [Zain Zohaib](https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP), [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q) | [Thagyan](https://open.spotify.com/album/0tcyDiVe5YVzXXocO1nk1m) | 5:07 | 2022-03-23 |  |
 | [Tu Jhoom](https://open.spotify.com/track/0X5jMLCYWZjuXHRc1zp0G6) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl), [Naseebo Lal](https://open.spotify.com/artist/4sAweKU7CjDZ1bUEb6VF6a) | [Tu Jhoom](https://open.spotify.com/album/61yLyqdz6hdZiAHMk4Bxxi) | 6:37 | 2022-03-23 | 2022-07-29 |
 | [Tu Jhoom](https://open.spotify.com/track/2xRtXbFAmk3cW6xE1zF7ye) | [Naseebo Lal](https://open.spotify.com/artist/4sAweKU7CjDZ1bUEb6VF6a), [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl) | [Tu Jhoom](https://open.spotify.com/album/6VhS1BISA2PS23CmP0XH5M) | 6:37 | 2022-03-23 |  |

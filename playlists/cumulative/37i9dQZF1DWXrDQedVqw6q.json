@@ -260,6 +260,24 @@
     },
     {
       "album": {
+        "name": "Endless",
+        "url": "https://open.spotify.com/album/6VPGoZbNiZv3e8Ym7tgMMt"
+      },
+      "artists": [
+        {
+          "name": "Enzo",
+          "url": "https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 255500,
+      "name": "Castaway",
+      "url": "https://open.spotify.com/track/69zBh0kdUlx0qN0W4trzcp"
+    },
+    {
+      "album": {
         "name": "Sunrise",
         "url": "https://open.spotify.com/album/4OqOKmqpBvfAw1NF68Vd83"
       },
@@ -656,6 +674,24 @@
     },
     {
       "album": {
+        "name": "Efflorescence",
+        "url": "https://open.spotify.com/album/1B6egnIEsekK1eGnNr7yLC"
+      },
+      "artists": [
+        {
+          "name": "Zhou Thiemo",
+          "url": "https://open.spotify.com/artist/3melX7nvzHoJ9w8pCvpTRK"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180432,
+      "name": "Efflorescence",
+      "url": "https://open.spotify.com/track/4iaZYHsfo1yuZmM9IlTl9g"
+    },
+    {
+      "album": {
         "name": "Empathy",
         "url": "https://open.spotify.com/album/1HMzKY4ZxTVOoz3ycrkF5w"
       },
@@ -995,6 +1031,24 @@
       "duration_ms": 205440,
       "name": "Inner Sphere",
       "url": "https://open.spotify.com/track/3mLoP1rCssKM4aeRAUpiOj"
+    },
+    {
+      "album": {
+        "name": "Jokk",
+        "url": "https://open.spotify.com/album/5V3CTeIa4IKNIBpDNU5BjA"
+      },
+      "artists": [
+        {
+          "name": "Fjellet",
+          "url": "https://open.spotify.com/artist/4S0x628hBw2YQyh0hCQAf8"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184253,
+      "name": "Jokk",
+      "url": "https://open.spotify.com/track/3CPAzMHcgaaUt66dYJMveo"
     },
     {
       "album": {

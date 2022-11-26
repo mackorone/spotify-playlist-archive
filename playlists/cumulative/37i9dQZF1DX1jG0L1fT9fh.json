@@ -152,6 +152,54 @@
     },
     {
       "album": {
+        "name": "The Anthems",
+        "url": "https://open.spotify.com/album/3IN2b696fNjU1amGL72mGX"
+      },
+      "artists": [
+        {
+          "name": "BAD HOP",
+          "url": "https://open.spotify.com/artist/3FCZbxRcaSgYfklG2HCFh2"
+        },
+        {
+          "name": "Yzer",
+          "url": "https://open.spotify.com/artist/6ddEkqVqLpfgQwaGQGMXCQ"
+        },
+        {
+          "name": "Vingo",
+          "url": "https://open.spotify.com/artist/7s0XITv7PpvCkdr0rKWQqH"
+        },
+        {
+          "name": "Bark",
+          "url": "https://open.spotify.com/artist/2Bcv6wxg5utKznPPCiOxvm"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 167933,
+      "name": "Born This Way",
+      "url": "https://open.spotify.com/track/7nTUrBZ75T323NFQUIAUjC"
+    },
+    {
+      "album": {
+        "name": "Best of Instrumental",
+        "url": "https://open.spotify.com/album/7eEkSQIKWauNBGMuHDlbSa"
+      },
+      "artists": [
+        {
+          "name": "Rie a.k.a. Suzaku",
+          "url": "https://open.spotify.com/artist/4fK9DBwFEOUlBeAGpsf317"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 218773,
+      "name": "Cyber Moon",
+      "url": "https://open.spotify.com/track/2sYlD3j9d9c1BOctT2BuYz"
+    },
+    {
+      "album": {
         "name": "Kingdom of the Sun",
         "url": "https://open.spotify.com/album/01z8YeW6P5smczs2o6v5tw"
       },
@@ -427,6 +475,24 @@
       },
       "artists": [
         {
+          "name": "MY FIRST STORY",
+          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 204813,
+      "name": "King & Ashley",
+      "url": "https://open.spotify.com/track/6Es6em3IFz10fiXsoz7VSG"
+    },
+    {
+      "album": {
+        "name": "The Anthems",
+        "url": "https://open.spotify.com/album/3IN2b696fNjU1amGL72mGX"
+      },
+      "artists": [
+        {
           "name": "Kiji (kyosokarma)",
           "url": "https://open.spotify.com/artist/1i21yMnYVUPNt1P11KgL7Q"
         }
@@ -599,6 +665,24 @@
       "duration_ms": 191600,
       "name": "Sorrow Like Lightning / Ai-shiden-issen",
       "url": "https://open.spotify.com/track/6je3xFNqYLYLUp12JX8b8o"
+    },
+    {
+      "album": {
+        "name": "Aishidenissen",
+        "url": "https://open.spotify.com/album/4kv18tu0MEWXpzIz5WDmQO"
+      },
+      "artists": [
+        {
+          "name": "Happy Heads NANIYORI",
+          "url": "https://open.spotify.com/artist/6jkKuw4J4SWKrPQCcPGEYl"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 194649,
+      "name": "Sorrow Like Lightning / Ai-shiden-issen",
+      "url": "https://open.spotify.com/track/5UnQWHa6w10et1huDEtoII"
     },
     {
       "album": {

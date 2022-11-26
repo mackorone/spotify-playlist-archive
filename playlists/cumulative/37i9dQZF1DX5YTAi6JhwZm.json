@@ -106,6 +106,24 @@
     },
     {
       "album": {
+        "name": "Jazz Dinner",
+        "url": "https://open.spotify.com/album/5f0Nbo8Ih7cOFR15fnprEK"
+      },
+      "artists": [
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 239533,
+      "name": "Au Privave",
+      "url": "https://open.spotify.com/track/1751FZhDYecAN3xLPXL4BP"
+    },
+    {
+      "album": {
         "name": "Sonny Stitt Sits In With The Oscar Peterson Trio",
         "url": "https://open.spotify.com/album/1wOXBNVlNBZKqr9SPZ8VDu"
       },
@@ -362,6 +380,24 @@
     },
     {
       "album": {
+        "name": "Concentration Music: Jazz",
+        "url": "https://open.spotify.com/album/5XFrkw8RTzFpiWM5LynHtx"
+      },
+      "artists": [
+        {
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 204173,
+      "name": "Crazy Rhythm",
+      "url": "https://open.spotify.com/track/0OwK9PZq50pOHW5Lm0A0Fx"
+    },
+    {
+      "album": {
         "name": "Further Definitions",
         "url": "https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k"
       },
@@ -600,6 +636,24 @@
     },
     {
       "album": {
+        "name": "On Contemporary: Art Pepper",
+        "url": "https://open.spotify.com/album/5BPXepXoJpfXD3gzrUgQOt"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 180715,
+      "name": "Four Brothers",
+      "url": "https://open.spotify.com/track/1EXbbgXrb2zK4dwXaejFr6"
+    },
+    {
+      "album": {
         "name": "Jazz Sax - Verve 50",
         "url": "https://open.spotify.com/album/4zx6NfgviTklWmEsNgwNsI"
       },
@@ -771,7 +825,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 142106,
       "name": "Honey Dripper",
       "url": "https://open.spotify.com/track/0V75nAVrYddcZA41d8MtKn"
@@ -1363,7 +1417,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 306086,
       "name": "Let Me Take You for a Walk",
       "url": "https://open.spotify.com/track/1zcCvJeGmcLQFfYHlcDnf1"
@@ -1403,6 +1457,24 @@
       "duration_ms": 354106,
       "name": "Libra",
       "url": "https://open.spotify.com/track/2RvTzd612ENOe4V7YaHzxI"
+    },
+    {
+      "album": {
+        "name": "Cannonball Adderley's Finest Hour",
+        "url": "https://open.spotify.com/album/5A2yEKeGLhotbTCpugMIEq"
+      },
+      "artists": [
+        {
+          "name": "The Cannonball Adderley Quintet",
+          "url": "https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 279733,
+      "name": "Limehouse Blues",
+      "url": "https://open.spotify.com/track/0IjM1kO4TWfnZwUmbGSMsx"
     },
     {
       "album": {
@@ -1673,7 +1745,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 327146,
       "name": "New Bromance",
       "url": "https://open.spotify.com/track/0BMQBzqD8ywT5gSQFmXpHp"
@@ -2143,7 +2215,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 299973,
       "name": "Strollin' - Remastered",
       "url": "https://open.spotify.com/track/2hsXwyZuy9CjzKqikRMZvr"
@@ -2215,7 +2287,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 762666,
       "name": "Tenor madness",
       "url": "https://open.spotify.com/track/3FbVaUe0hFeLKun8dHAOls"
@@ -2781,7 +2853,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 192626,
       "name": "You're the Cream in My Coffee",
       "url": "https://open.spotify.com/track/7qknVmDKIi9ml9qhyatq8g"

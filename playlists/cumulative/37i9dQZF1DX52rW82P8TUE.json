@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 329840,
       "name": "A B\u00edblia",
       "url": "https://open.spotify.com/track/2MlMPbEM8qbDxsEBV6vkYw"
@@ -93,6 +93,42 @@
       "duration_ms": 234720,
       "name": "A Hist\u00f3ria dos Animais",
       "url": "https://open.spotify.com/track/54p1PR4nMkq495gv1LIQxO"
+    },
+    {
+      "album": {
+        "name": "A Tua Gra\u00e7a",
+        "url": "https://open.spotify.com/album/2gcCOA0Zi0ntszohuIbxVj"
+      },
+      "artists": [
+        {
+          "name": "3 Palavrinhas",
+          "url": "https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145466,
+      "name": "A Tua Gra\u00e7a",
+      "url": "https://open.spotify.com/track/58PgmYUic0mM7Qwi297ZG3"
+    },
+    {
+      "album": {
+        "name": "Ao Orarmos",
+        "url": "https://open.spotify.com/album/2bax4vbgz2FjqaV6kJDExx"
+      },
+      "artists": [
+        {
+          "name": "3 Palavrinhas",
+          "url": "https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189386,
+      "name": "Ao Orarmos",
+      "url": "https://open.spotify.com/track/0OCSLWbLai3RpfM4kjo5Ne"
     },
     {
       "album": {
@@ -143,7 +179,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 220653,
       "name": "Bella",
       "url": "https://open.spotify.com/track/36NbDqHBejqD2grPynmlWl"
@@ -397,6 +433,24 @@
     {
       "album": {
         "name": "Eu Canto pra Jesus",
+        "url": "https://open.spotify.com/album/6iU37mu4rSSCnrUhjnhrWJ"
+      },
+      "artists": [
+        {
+          "name": "Rayne Almeida",
+          "url": "https://open.spotify.com/artist/2WtIzFKxQniqeliHt4vIVj"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181458,
+      "name": "Eu Canto pra Jesus",
+      "url": "https://open.spotify.com/track/6dWRzM5A2KxgYtzfZozviQ"
+    },
+    {
+      "album": {
+        "name": "Eu Canto pra Jesus",
         "url": "https://open.spotify.com/album/2WHmaYUFvRDjwnlm43omei"
       },
       "artists": [
@@ -407,7 +461,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 182910,
       "name": "Eu Canto pra Jesus",
       "url": "https://open.spotify.com/track/2xsZveD2EsMMjp7JbIVu3h"
@@ -602,6 +656,24 @@
     },
     {
       "album": {
+        "name": "Na Trilha da Cria\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/7L2eWc0MQm3Da6L80gd6jW"
+      },
+      "artists": [
+        {
+          "name": "Margem Norte Kids",
+          "url": "https://open.spotify.com/artist/7MqM27ki9IN3dGwGttHIYa"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158282,
+      "name": "Na Trilha da Cria\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/2AeUTBwpPLpEJbu6T7I335"
+    },
+    {
+      "album": {
         "name": "Minha Vida \u00c9 uma Viagem 5",
         "url": "https://open.spotify.com/album/2DCbdwhK6SoBW9XawSSrbK"
       },
@@ -675,10 +747,28 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 234893,
       "name": "Oceanos",
       "url": "https://open.spotify.com/track/1IAuelibP1msP0p6ztsLpV"
+    },
+    {
+      "album": {
+        "name": "Oceanos",
+        "url": "https://open.spotify.com/album/3vt5PFQ9JUQbeL7AnfsK2j"
+      },
+      "artists": [
+        {
+          "name": "Rayne Almeida",
+          "url": "https://open.spotify.com/artist/2WtIzFKxQniqeliHt4vIVj"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234893,
+      "name": "Oceanos",
+      "url": "https://open.spotify.com/track/2Ehjl2vMGZhWsNwRco3hMu"
     },
     {
       "album": {
@@ -841,7 +931,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 244850,
       "name": "Se Tiveres F\u00e9",
       "url": "https://open.spotify.com/track/0oVkVpb179YlBZponywS0O"
@@ -925,7 +1015,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 197731,
       "name": "Todo Olho o Ver\u00e1",
       "url": "https://open.spotify.com/track/5ObzGyGLgiOhAv0etKoboF"

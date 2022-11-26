@@ -698,6 +698,28 @@
     },
     {
       "album": {
+        "name": "Funk",
+        "url": "https://open.spotify.com/album/6BcLKqcXk4Da5qkojpSMUZ"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 189600,
+      "name": "Funk",
+      "url": "https://open.spotify.com/track/1Pp2kd23lBQj3Gf9uBFSNj"
+    },
+    {
+      "album": {
         "name": "Sentio",
         "url": "https://open.spotify.com/album/45gsxfnJ5Nt2RZp82SQenc"
       },
@@ -2005,6 +2027,28 @@
       "duration_ms": 258440,
       "name": "The Only Way Is Up",
       "url": "https://open.spotify.com/track/1V0Zy7533bjXFSVtn3crzY"
+    },
+    {
+      "album": {
+        "name": "Club Life, Vol. 4 - New York City",
+        "url": "https://open.spotify.com/album/2XuubqlDwvySO4Xn7acM68"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 258440,
+      "name": "The Only Way Is Up",
+      "url": "https://open.spotify.com/track/2SmCu3r71QerMlxbOopdQX"
     },
     {
       "album": {

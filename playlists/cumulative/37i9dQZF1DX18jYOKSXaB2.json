@@ -174,6 +174,32 @@
     },
     {
       "album": {
+        "name": "Bad and Boujee",
+        "url": "https://open.spotify.com/album/33FfluAHOTnk36bi6gheDp"
+      },
+      "artists": [
+        {
+          "name": "Murphy Mccarthy",
+          "url": "https://open.spotify.com/artist/3PkbUErriBaMqrzyy6783I"
+        },
+        {
+          "name": "Victor AD",
+          "url": "https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N"
+        },
+        {
+          "name": "Jaywillz",
+          "url": "https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215437,
+      "name": "Bad and Boujee",
+      "url": "https://open.spotify.com/track/0sy1phpDCCy7DB7N03iZEW"
+    },
+    {
+      "album": {
         "name": "Black Love",
         "url": "https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct"
       },
@@ -273,7 +299,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 189785,
       "name": "Dollar On You",
       "url": "https://open.spotify.com/track/6ftfTiJhWNZskedEv5ZYM0"
@@ -291,7 +317,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 212000,
       "name": "Duro",
       "url": "https://open.spotify.com/track/4t59zVbRoCgnvyQ9hM3xP1"
@@ -397,7 +423,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 165668,
       "name": "Flex",
       "url": "https://open.spotify.com/track/1mZBFDxLjiBjWBZHIdumGc"
@@ -441,6 +467,24 @@
       "duration_ms": 188937,
       "name": "Hard to Find",
       "url": "https://open.spotify.com/track/2DEfBwqL5U7OP3UFKQJ0cq"
+    },
+    {
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/0iDVxjbymqT0aOno6Vkg4x"
+      },
+      "artists": [
+        {
+          "name": "Wendy Shay",
+          "url": "https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146938,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/2sRdEMg7VOFVkmL8KSPC2g"
     },
     {
       "album": {
@@ -495,7 +539,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 171764,
       "name": "Infinity (feat. Omah Lay)",
       "url": "https://open.spotify.com/track/5DS9LiyEdw2zY8bM6kjjgM"
@@ -808,6 +852,24 @@
     },
     {
       "album": {
+        "name": "Twice As Tall",
+        "url": "https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 202146,
+      "name": "Onyeka (Baby)",
+      "url": "https://open.spotify.com/track/398G0odwKJ892uyEYDlMBh"
+    },
+    {
+      "album": {
         "name": "Open Gate",
         "url": "https://open.spotify.com/album/1KzYxd51HBeLtJ3ZW2w3TY"
       },
@@ -1072,6 +1134,28 @@
     },
     {
       "album": {
+        "name": "Southy Love",
+        "url": "https://open.spotify.com/album/5WxvR0zKlBEULW3DFKlXZS"
+      },
+      "artists": [
+        {
+          "name": "Peruzzi",
+          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 210048,
+      "name": "Southy Love",
+      "url": "https://open.spotify.com/track/6onjI16E1H5E9BKP7T0V1f"
+    },
+    {
+      "album": {
         "name": "Life is Eazi, Vol. 2 - Lagos to London",
         "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
       },
@@ -1116,6 +1200,28 @@
     },
     {
       "album": {
+        "name": "A Piece Of Me",
+        "url": "https://open.spotify.com/album/0enq2ODADHlUOmFWjxatEj"
+      },
+      "artists": [
+        {
+          "name": "Ugoccie",
+          "url": "https://open.spotify.com/artist/23NKFSnR8yAUDQdub4vnIN"
+        },
+        {
+          "name": "King Perryy",
+          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156700,
+      "name": "Whenever",
+      "url": "https://open.spotify.com/track/0yOviZhkPwCUtOfWRRP6nd"
+    },
+    {
+      "album": {
         "name": "The Brother's Keeper",
         "url": "https://open.spotify.com/album/0g7K5tuXiGzf5K6umuzCRX"
       },
@@ -1131,6 +1237,24 @@
       "duration_ms": 188000,
       "name": "Winner",
       "url": "https://open.spotify.com/track/0Bmw1fmFi01PvyIKT0akqt"
+    },
+    {
+      "album": {
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/673wWns8iuEBeBLRAQU68A"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 168742,
+      "name": "woman",
+      "url": "https://open.spotify.com/track/1IU8Sx9ZEKa3tuowb8R3ut"
     },
     {
       "album": {

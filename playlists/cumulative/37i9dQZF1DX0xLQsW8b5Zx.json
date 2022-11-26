@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": "2022-11-14",
       "duration_ms": 160466,
       "name": "Another Sunday Morning",
       "url": "https://open.spotify.com/track/2apLwonKTtSflF9U5SNuD0"
@@ -469,10 +469,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-04",
+      "date_removed": null,
       "duration_ms": 142560,
       "name": "Bluejean Bop",
       "url": "https://open.spotify.com/track/2BgekYyyiCcvina0Ihoii9"
+    },
+    {
+      "album": {
+        "name": "Rockin' up a Storm",
+        "url": "https://open.spotify.com/album/6v48EoORm1AOXp1V7Z5KUS"
+      },
+      "artists": [
+        {
+          "name": "Snakebite",
+          "url": "https://open.spotify.com/artist/1CHz4uPXCOAXMmjWXzPcJj"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 183573,
+      "name": "Born to Rock",
+      "url": "https://open.spotify.com/track/499VJAdpojyV97QI6f0GSd"
     },
     {
       "album": {
@@ -703,7 +721,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-11-12",
       "duration_ms": 138813,
       "name": "Come on Little Mama",
       "url": "https://open.spotify.com/track/11OqzAcT8jMaNZAt6kdpvR"
@@ -739,7 +757,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": "2022-11-14",
       "duration_ms": 149159,
       "name": "Daddy Cool / The Girl Can't Help It",
       "url": "https://open.spotify.com/track/10b9TrZBf0uP1EtAZHcKNh"
@@ -757,7 +775,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 133693,
       "name": "Debt With the Devil",
       "url": "https://open.spotify.com/track/1HJx9hfIu9Ud26NBpDmy9Q"
@@ -775,7 +793,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 157426,
       "name": "Devil On My Shoulder",
       "url": "https://open.spotify.com/track/3UZo90wgkXdNPtSVIMYfdu"
@@ -833,7 +851,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 132400,
       "name": "Drinking Wine Spo-Dee-O-Dee - Single Version",
       "url": "https://open.spotify.com/track/2kfSF4imGkVpJXR4MSKccm"
@@ -855,6 +873,24 @@
       "duration_ms": 127239,
       "name": "Drugstore Rock and Roll",
       "url": "https://open.spotify.com/track/3QfhbXUTf5hlFAEbn0jbeP"
+    },
+    {
+      "album": {
+        "name": "Presenting Janis Martin",
+        "url": "https://open.spotify.com/album/5abkpFt631EzDivxIIzm7E"
+      },
+      "artists": [
+        {
+          "name": "Janis Martin",
+          "url": "https://open.spotify.com/artist/4pjH9s7TgSke527nRDcgqq"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 129052,
+      "name": "Drugstore Rock'n'roll",
+      "url": "https://open.spotify.com/track/2CSc9piC2paA385jhFIXcR"
     },
     {
       "album": {
@@ -923,10 +959,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": "2022-11-13",
       "duration_ms": 149053,
       "name": "Favourite Song",
       "url": "https://open.spotify.com/track/1R5aCMXj3rYVL1tAaKF9Ra"
+    },
+    {
+      "album": {
+        "name": "Signs & Signifiers",
+        "url": "https://open.spotify.com/album/3j260hiD8MJJBO0gbF6BTQ"
+      },
+      "artists": [
+        {
+          "name": "JD McPherson",
+          "url": "https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 137813,
+      "name": "Fire Bug",
+      "url": "https://open.spotify.com/track/7r5V7GyOhmcHWAv5D9YYPn"
     },
     {
       "album": {
@@ -959,7 +1013,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": "2022-11-13",
       "duration_ms": 161508,
       "name": "Forever",
       "url": "https://open.spotify.com/track/7yCG9FU5CGdghkdX5xPYIw"
@@ -1057,7 +1111,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 126500,
       "name": "Go Go Go",
       "url": "https://open.spotify.com/track/6ZKzfBr8vejFODLh8w2wTV"
@@ -1237,7 +1291,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-14",
       "duration_ms": 129493,
       "name": "Hip Shakin' Baby",
       "url": "https://open.spotify.com/track/2UhkB6rKxTdWJj3wiYkcyx"
@@ -1255,7 +1309,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": "2022-11-13",
       "duration_ms": 159146,
       "name": "Hit Me Up",
       "url": "https://open.spotify.com/track/5KqiNRi6S6QCpBZNrctsB3"
@@ -1316,6 +1370,24 @@
     },
     {
       "album": {
+        "name": "Hellbilly Boys",
+        "url": "https://open.spotify.com/album/45fO2ERwfGc69by0oxaVAi"
+      },
+      "artists": [
+        {
+          "name": "Hellbilly Boys",
+          "url": "https://open.spotify.com/artist/5bCy5EywKFmYnkKrYnOnL5"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 183373,
+      "name": "Honky Tonk Train",
+      "url": "https://open.spotify.com/track/5Hiig8bBkvu3OmtY2ozHCQ"
+    },
+    {
+      "album": {
         "name": "Killer Taco Stomp",
         "url": "https://open.spotify.com/album/3QYbB8adrSwTCVbsy5qUYc"
       },
@@ -1331,6 +1403,24 @@
       "duration_ms": 190240,
       "name": "How You Want It Done",
       "url": "https://open.spotify.com/track/3y2I4D8IrJNuZoUFC7cKNF"
+    },
+    {
+      "album": {
+        "name": "Today, Tomorrow And Forever - 20 Classics (Original Gusto Recordings)",
+        "url": "https://open.spotify.com/album/0Fy5ifXfJvQhICrKpPNp1V"
+      },
+      "artists": [
+        {
+          "name": "Patsy Cline",
+          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 141893,
+      "name": "I Got A Lot Of Rhythm In My Soul - Original Gusto Recordings",
+      "url": "https://open.spotify.com/track/4ZwNjuuUxTMBjRtGocNJCQ"
     },
     {
       "album": {
@@ -1385,6 +1475,24 @@
       "duration_ms": 173004,
       "name": "I Had A Real Good Time",
       "url": "https://open.spotify.com/track/0i5krOajl7V5Str18ABwZU"
+    },
+    {
+      "album": {
+        "name": "I Need a Man / No Matter Who's to Blame",
+        "url": "https://open.spotify.com/album/0FNgqfF6DWJYYikq77x9MD"
+      },
+      "artists": [
+        {
+          "name": "Barbara Pittman",
+          "url": "https://open.spotify.com/artist/6YxcziBo2zwsKgwdgdkve2"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 172140,
+      "name": "I Need a Man",
+      "url": "https://open.spotify.com/track/55TGQizDZ60NgydRBPUws3"
     },
     {
       "album": {
@@ -1561,10 +1669,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": "2022-11-13",
       "duration_ms": 125840,
       "name": "Lip Lickin' Lou",
       "url": "https://open.spotify.com/track/74hKkSJTY4Z6P6BRV1641u"
+    },
+    {
+      "album": {
+        "name": "Pure Rockabilly Party",
+        "url": "https://open.spotify.com/album/27bRg3xAYrn3TnGrNSB5GY"
+      },
+      "artists": [
+        {
+          "name": "Tupelo Highshots",
+          "url": "https://open.spotify.com/artist/4EEszmAzpx5YvyJZhpTH1D"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 167132,
+      "name": "Little Ol\u00b4 You",
+      "url": "https://open.spotify.com/track/1zphxbVR8JcBLx9uufxd5F"
     },
     {
       "album": {
@@ -1763,7 +1889,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-14",
       "duration_ms": 165293,
       "name": "My Little Sister Gotta Motorbike",
       "url": "https://open.spotify.com/track/3jdD1a7GJXh3Q9pMYxLagY"
@@ -1807,6 +1933,24 @@
     {
       "album": {
         "name": "Signs & Signifiers",
+        "url": "https://open.spotify.com/album/3j260hiD8MJJBO0gbF6BTQ"
+      },
+      "artists": [
+        {
+          "name": "JD McPherson",
+          "url": "https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151493,
+      "name": "North Side Gal",
+      "url": "https://open.spotify.com/track/5WLS5Fz6pW8AUwio6BGJJ2"
+    },
+    {
+      "album": {
+        "name": "Signs & Signifiers",
         "url": "https://open.spotify.com/album/4TcPbpUi60PaJ2QX5scH69"
       },
       "artists": [
@@ -1817,7 +1961,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 151493,
       "name": "North Side Gal",
       "url": "https://open.spotify.com/track/6VqC5gNL532RfgdlGzNAv0"
@@ -1857,7 +2001,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": "2022-11-12",
       "duration_ms": 210186,
       "name": "Northern Girl",
       "url": "https://open.spotify.com/track/3ddovtNdDK3nrseLGpI4hV"
@@ -1883,6 +2027,24 @@
       "duration_ms": 211948,
       "name": "Northern Girl",
       "url": "https://open.spotify.com/track/6gldKmiWRakgio6WSudzq2"
+    },
+    {
+      "album": {
+        "name": "In the Middle of the Night",
+        "url": "https://open.spotify.com/album/0mzGxSTlxqczktknG4hSVd"
+      },
+      "artists": [
+        {
+          "name": "Top Cats",
+          "url": "https://open.spotify.com/artist/6HUvBmbZkhq6uGfpRKZ1Zy"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 160286,
+      "name": "Oh Baby",
+      "url": "https://open.spotify.com/track/3IwbsIPJ9e7cv9FbNaCvGq"
     },
     {
       "album": {
@@ -2311,7 +2473,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-14",
       "duration_ms": 121253,
       "name": "Rock-a-Cha",
       "url": "https://open.spotify.com/track/33G6G0xbQmKm9uQuBTW6sK"
@@ -2354,6 +2516,24 @@
     },
     {
       "album": {
+        "name": "Rockabilly Cats",
+        "url": "https://open.spotify.com/album/2FYlqHuVW1L4jnyU8eYJO2"
+      },
+      "artists": [
+        {
+          "name": "The Polecats",
+          "url": "https://open.spotify.com/artist/0ySLj2XiEOFtixInK1GAD4"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 152026,
+      "name": "Rockabilly Guy",
+      "url": "https://open.spotify.com/track/3vrRAugNjfi7UkW4Ktxxyl"
+    },
+    {
+      "album": {
         "name": "Hollywood Cats",
         "url": "https://open.spotify.com/album/4p0KnYi1AI7t7VnK3nPptK"
       },
@@ -2372,6 +2552,24 @@
     },
     {
       "album": {
+        "name": "The Hollywood Cats",
+        "url": "https://open.spotify.com/album/1VdfOWvihZbRkJGy34NXkk"
+      },
+      "artists": [
+        {
+          "name": "Ray Campi",
+          "url": "https://open.spotify.com/artist/1dCuGaCG60TlWCLjFJ69N3"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 116426,
+      "name": "Rockabilly Music",
+      "url": "https://open.spotify.com/track/4xYBy6RwEKICh1uOF4btL1"
+    },
+    {
+      "album": {
         "name": "Our Brand",
         "url": "https://open.spotify.com/album/2x4X3CEv2XmPvNBVd309pz"
       },
@@ -2383,7 +2581,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": "2022-11-13",
       "duration_ms": 149293,
       "name": "Rockabilly Rebel",
       "url": "https://open.spotify.com/track/2x8crqLADWUdP27pFsF8JT"
@@ -2405,6 +2603,24 @@
       "duration_ms": 167040,
       "name": "Rockabilly Rebel",
       "url": "https://open.spotify.com/track/47fBL9Hqjq2kFIrg8c1wQi"
+    },
+    {
+      "album": {
+        "name": "Sun Collector Classics - Rockabilly",
+        "url": "https://open.spotify.com/album/0T8bNZn4Gy55Sz0PIeaMEv"
+      },
+      "artists": [
+        {
+          "name": "Orion",
+          "url": "https://open.spotify.com/artist/4k7v8UC7BAe31BeADfuAQU"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 163960,
+      "name": "Rockabilly Rebel",
+      "url": "https://open.spotify.com/track/0CKYAhx3EzIg19GUkXhJWA"
     },
     {
       "album": {
@@ -2643,7 +2859,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-14",
       "duration_ms": 217853,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/1e1p5hTzbfLDDjumMOzl9w"
@@ -2697,7 +2913,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": "2022-11-13",
       "duration_ms": 207568,
       "name": "Tempo Tantrum",
       "url": "https://open.spotify.com/track/6iEk06fyAxeR7YKu2D2AV2"
@@ -2719,6 +2935,28 @@
       "duration_ms": 150133,
       "name": "That'll Be The Day",
       "url": "https://open.spotify.com/track/50RwvvEKX5Q7AZt8FTAwIF"
+    },
+    {
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/1tTTDe47X0rTO4q7RidIan"
+      },
+      "artists": [
+        {
+          "name": "Buddy Holly",
+          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
+        },
+        {
+          "name": "The Crickets",
+          "url": "https://open.spotify.com/artist/4r7JUeiYy24L7BuzCq9EjR"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 135066,
+      "name": "That'll Be The Day",
+      "url": "https://open.spotify.com/track/69F1iyhE7ef4iRCaeCzjeT"
     },
     {
       "album": {
@@ -2823,7 +3061,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-25",
+      "date_removed": "2022-11-13",
       "duration_ms": 187533,
       "name": "Umbrella",
       "url": "https://open.spotify.com/track/0BGFXKfJ8Dpjxfn86HLhYz"
@@ -2902,6 +3140,24 @@
     },
     {
       "album": {
+        "name": "The Essential Jerry Lee Lewis [The Sun Sessions]",
+        "url": "https://open.spotify.com/album/6OaajpAGeNsPJFkjyQvqHf"
+      },
+      "artists": [
+        {
+          "name": "Jerry Lee Lewis",
+          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172400,
+      "name": "Whole Lot of Shakin' Going On",
+      "url": "https://open.spotify.com/track/6wO13Xb3EdHUNixFOEJ0KV"
+    },
+    {
+      "album": {
         "name": "Original Golden Hits - Volume 1 (Vol. 1)",
         "url": "https://open.spotify.com/album/22cLZV8YJhDZzJ7lvJQXZj"
       },
@@ -2913,7 +3169,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 173158,
       "name": "Whole Lot Of Shakin' Going On - Single Version",
       "url": "https://open.spotify.com/track/7Fyo9lTrk6pjT1rVW3GlBG"
@@ -2949,7 +3205,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-14",
       "duration_ms": 109500,
       "name": "Wild One",
       "url": "https://open.spotify.com/track/1IzdDoX6afO75QGfISsc9U"
@@ -2967,7 +3223,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": "2022-11-13",
       "duration_ms": 181493,
       "name": "Wild Saxophone",
       "url": "https://open.spotify.com/track/31K9keedgi9MaFaLRkvJJU"

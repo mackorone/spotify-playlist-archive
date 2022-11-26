@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaky0wMRgvaj.md) - [plain]
 
 > A collection of Psalms set to relaxing classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,115 likes - 63 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,681 likes - 63 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaky0wMRgvaj.md) - [plain]
 | 59 | [Brahms: Ein deutsches Requiem, Op\. 45: IV\. Wie lieblich sind deine Wohnungen](https://open.spotify.com/track/4BYNXRoFzJ8btMRHU31hCm) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Lynne Dawson](https://open.spotify.com/artist/43XANdhJ0X9qTH14fT51TL), [Olaf Bär](https://open.spotify.com/artist/5JBjcnHu4vz2ENaF34qOTq), [Sir Roger Norrington](https://open.spotify.com/artist/2nXNvTKpp7LSEXNUMFOd1t), [Schütz Choir of London](https://open.spotify.com/artist/5Uqy8K8fn9JMJ6d4KOIrnj), [London Classical Players](https://open.spotify.com/artist/5j1y9VGOCjyufKkXJYZLrY) | [Brahms Mozart Requiem](https://open.spotify.com/album/4vUJGuUAehWymgQEYBoY8m) | 5:39 |
 | 60 | [Psalm 85, 'Lord, Thou art become gracious unto thy land'](https://open.spotify.com/track/6991JU1H1eN5CQt7cvc8wz) | [Charles Harford Lloyd](https://open.spotify.com/artist/3uvIYrhIMN3gWuEXvVqEU5), [The Choir Of Westminster Abbey](https://open.spotify.com/artist/1dDKUFwinr4kwEjiznLwdm), [Martin Neary](https://open.spotify.com/artist/3jmWcWAykr5IzE2K2jaZwk) | [Psalms](https://open.spotify.com/album/3WOIKl6XpBUbOVEAq9POch) | 3:22 |
 | 61 | [My Heart Is Inditing \(Psalm 45\)](https://open.spotify.com/track/1V6mgBajla5aaHSzr1DWkT) | [Choir of King's College, Cambridge](https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl) | [The Psalms Of David Vol.3](https://open.spotify.com/album/4Hk8ei02ttSktFrdYAukxS) | 5:26 |
-| 62 | [Exultate Deo, FP 109](https://open.spotify.com/track/0lpeDxY5NeUvhSFRSNyMbP) | [Francis Poulenc](https://open.spotify.com/artist/4IAWVxo2fpTBPn6k7GZ3eY), [RIAS Kammerchor](https://open.spotify.com/artist/2UVXU77knJMYOM6Avvw6Yx), [Marcus Creed](https://open.spotify.com/artist/2jyy7Q6sbWfKNCCwbu14oB) | [Poulenc: Sacred Music for Unaccompanied Mixed Chorus](https://open.spotify.com/album/48OkO8twMmlVPjWm7egOFS) | 3:04 |
+| 62 | [Exultate Deo, FP 109](https://open.spotify.com/track/0lpeDxY5NeUvhSFRSNyMbP) | [Francis Poulenc](https://open.spotify.com/artist/4IAWVxo2fpTBPn6k7GZ3eY), [RIAS Kammerchor](https://open.spotify.com/artist/2UVXU77knJMYOM6Avvw6Yx), [Marcus Creed](https://open.spotify.com/artist/2jyy7Q6sbWfKNCCwbu14oB) | [Poulenc: Sacred Music for Unaccompanied Mixed Chorus](https://open.spotify.com/album/48OkO8twMmlVPjWm7egOFS) | 2:58 |
 | 63 | [Psalm 125, " Die auf den Herren hoffen"](https://open.spotify.com/track/2yrj057DqyOtSN6su4vPci) | [Johann Schelle](https://open.spotify.com/artist/6T60GdAifM2mFu1VKFFLIP), [Capella Ducale](https://open.spotify.com/artist/6ul4PfOleuA1zoxE8Zg0fR), [Musica Fiata](https://open.spotify.com/artist/5dNyzMWGdMRBdgCY3iwhEY), [Roland Wilson](https://open.spotify.com/artist/11z3L2Ifoxnu2AMp7EizS9) | [Schelle: Sacred Concertos & Cantatas](https://open.spotify.com/album/4goPSVCmfV78p5Y7piCZKd) | 7:25 |
 
 Snapshot ID: `MTY2MzY4MDk0MCwwMDAwMDAwMDlhMTk5ODJiYmI3OWIzNWQxN2U3YWQ3YWI0NzhiMmZh`

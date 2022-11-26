@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5cdRxEiQmawJaraYYEF7Di.md) - [plain]
 
 > Infectiously happy hits from years past blended with the best of today's chart toppers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 676 likes - 53 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 678 likes - 53 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3ZKiuF24g4.md) - [plain]
 
 > The perfect soundtrack for when you're having fun in the sun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,003 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,055 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3ZKiuF24g4.md) - [plain]
 | 20 | [Beach Ball](https://open.spotify.com/track/7cD1t11YSnEtvZbLJLllD4) | [Recess Monkey](https://open.spotify.com/artist/0oXrvAp6NnKeWz1qnKrNLb) | [Deep Sea Diver](https://open.spotify.com/album/36XrVhfFQBakUcrnWOsuo8) | 2:44 |
 | 21 | [\(Sittin' On\) the Dock of the Bay](https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Dock of the Bay \(Mono\)](https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU) | 2:43 |
 | 22 | [Amber](https://open.spotify.com/track/51UtgWS4z1eMPuLQOzPtNH) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Greatest Hits '93 \- '03](https://open.spotify.com/album/0OsjlbBaSZFbZnXGAUysMG) | 3:31 |
-| 23 | [Sunscreen](https://open.spotify.com/track/69Kf8wQ91FpKltMUuDruBL) | [Noggin](https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn) | [Let's Dance](https://open.spotify.com/album/6SHJk0npY3mr7SXFX6fcps) | 1:23 |
+| 23 | [Sunscreen](https://open.spotify.com/track/3NDYpgUKtlEREDJLQ1WDl4) | [Noggin](https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn) | [Let's Dance](https://open.spotify.com/album/48lHFP0hYmSgR2Bdc2uocH) | 1:23 |
 | 24 | [Steal My Sunshine](https://open.spotify.com/track/4agp6oHofabdUedr0B1krj) | [LEN](https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ) | [You Can't Stop The Bum Rush](https://open.spotify.com/album/5NndKV7nc18qRQfFvLgZ1k) | 4:25 |
 | 25 | [On the Beach](https://open.spotify.com/track/2WXKBIFUj7NO103uqsWXN7) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi Tunes, Vol\. 3](https://open.spotify.com/album/4yXRgaXo2hTMr4aRPCL21b) | 1:55 |
 | 26 | [Surf City \- Remastered 1990/Stereo Remix](https://open.spotify.com/track/4ZzXPeOfMXk0iKNQGdlzDq) | [Jan & Dean](https://open.spotify.com/artist/0pqGj6vO9YHsXuZmaJaP2Y) | [Surf City: The Best Of Jan & Dean](https://open.spotify.com/album/1q3jhhU1DSw1zNAoeyhCsE) | 2:43 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3ZKiuF24g4.md) - [plain]
 | 43 | [Mr\. Sun](https://open.spotify.com/track/2VaNzOnn2kzyZbXVxiTL9k) | [Rolie Polie Guacamole](https://open.spotify.com/artist/5B7XLUnkpg3TQYgP088xqT) | [Live on the Fourth of July](https://open.spotify.com/album/1b6zeDLID2xClNInu6SapM) | 1:15 |
 | 44 | [One Love / People Get Ready \- Medley](https://open.spotify.com/track/6SR0dDuXH2vtgBfMLrivKV) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 2:52 |
 | 45 | [Summertime!](https://open.spotify.com/track/1gAaCOTfapa9tB4nWkUWP2) | [The Aquabats!](https://open.spotify.com/artist/0WgiEOrXlaXJGHKhkd9s4s) | [The Aquabats! Super Show! \(Television Soundtrack\), Vol\. 1](https://open.spotify.com/album/2zfV24Z3J5tYbbITneW2Ju) | 1:19 |
-| 46 | [Surfin' And Sunnin'](https://open.spotify.com/track/4abQIptzx1pXZBDq8PF71o) | [Sunny Day](https://open.spotify.com/artist/4KqqosG1rMSwHl0AyLeatP) | [Keep Styling, Keep Singing](https://open.spotify.com/album/7cgGVrEHEiJLhjzWfMfItx) | 0:49 |
+| 46 | [Surfin' And Sunnin'](https://open.spotify.com/track/4vLm0SMd4p9OGMuk42R2fh) | [Sunny Day](https://open.spotify.com/artist/7vbp1MtEikhcZYIr751zDk) | [Keep Styling, Keep Singing](https://open.spotify.com/album/1uxwtl3M3vwzaZDL5Pg9n6) | 0:49 |
 | 47 | [Enjoy Yourself](https://open.spotify.com/track/2gXudOFrHDzj7D2JqbcFWm) | [Prince Buster](https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB) | [Tutti Frutti](https://open.spotify.com/album/0ozlC9XMnxo9ksxV8MsHVm) | 3:05 |
 | 48 | [Seagull](https://open.spotify.com/track/33tOziCAipYKTpARr3imte) | [Recess Monkey](https://open.spotify.com/artist/0oXrvAp6NnKeWz1qnKrNLb) | [Deep Sea Diver](https://open.spotify.com/album/36XrVhfFQBakUcrnWOsuo8) | 2:23 |
 | 49 | [Jamming](https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:31 |
 | 50 | [Coastal](https://open.spotify.com/track/22ejspKqayOvA7eCzUjFlk) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Hemingway's Whiskey](https://open.spotify.com/album/0EJVUQGqNRxYBBCS0OLqY7) | 2:39 |
 
-Snapshot ID: `MTYyMTk2ODU0OSwwMDAwMDAwMGZlY2VlZjU1YTE3MGFlNGIwYmY5ZDA5Y2Y5Y2YwNDBi`
+Snapshot ID: `MTYyMTk2ODU0OSwwMDAwMDAwMGEzYmI0YmIzYjY1ZGNlNmNjYzk2MjI5OWRhMTA2ZjVh`

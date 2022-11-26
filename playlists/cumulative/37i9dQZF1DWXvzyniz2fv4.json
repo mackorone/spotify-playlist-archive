@@ -370,6 +370,28 @@
     },
     {
       "album": {
+        "name": "De Volta",
+        "url": "https://open.spotify.com/album/46H9YGkAhQNNBcoW67ZwFQ"
+      },
+      "artists": [
+        {
+          "name": "CT",
+          "url": "https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV"
+        },
+        {
+          "name": "Jef Rodriguez",
+          "url": "https://open.spotify.com/artist/2W964lXNPqsQoUu1xzEKNo"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154455,
+      "name": "De Volta",
+      "url": "https://open.spotify.com/track/2Pe37qEd4Ds7QuuFyyRKgn"
+    },
+    {
+      "album": {
         "name": "Elementar",
         "url": "https://open.spotify.com/album/5ovrFL7jWNeZo4G60HlOAq"
       },
@@ -468,7 +490,7 @@
       "artists": [
         {
           "name": "DOM7NICO",
-          "url": "https://open.spotify.com/artist/620szMALjTzToFTwfdGlFc"
+          "url": "https://open.spotify.com/artist/2oGllwBi30E8506gcLUohv"
         }
       ],
       "date_added": "2022-06-17",
@@ -749,6 +771,28 @@
       "duration_ms": 209378,
       "name": "Jeito Bom #2",
       "url": "https://open.spotify.com/track/4eCqCBFrINfSySeSQyXsEs"
+    },
+    {
+      "album": {
+        "name": "Jogador Caro",
+        "url": "https://open.spotify.com/album/2ZSkGBOi0tmMYaFRczuON0"
+      },
+      "artists": [
+        {
+          "name": "VICTIN",
+          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202989,
+      "name": "Jogador Caro",
+      "url": "https://open.spotify.com/track/0bnoK8bzj5qUEZEFut5gud"
     },
     {
       "album": {
@@ -1415,7 +1459,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 167718,
       "name": "Reggaezin Do LotHzin",
       "url": "https://open.spotify.com/track/7DMbWO0qRvliv85AneFv2M"
@@ -1553,10 +1597,32 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-16",
       "duration_ms": 197052,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/141aDylSO3dyhM4hQerg9K"
+    },
+    {
+      "album": {
+        "name": "Saudade",
+        "url": "https://open.spotify.com/album/1XVjWWFBWVvoAbneaETMDC"
+      },
+      "artists": [
+        {
+          "name": "Rap Box",
+          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
+        },
+        {
+          "name": "O Real",
+          "url": "https://open.spotify.com/artist/1une4a81AwLBbrYmzsEtbr"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197052,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/1YDs0mBrM5hNruhCrF0fbE"
     },
     {
       "album": {
@@ -1775,6 +1841,32 @@
       "duration_ms": 169409,
       "name": "Vento Bom",
       "url": "https://open.spotify.com/track/3TstCrqLn3542vXjNKCpV2"
+    },
+    {
+      "album": {
+        "name": "Voc\u00ea \u00c9 Meu Love",
+        "url": "https://open.spotify.com/album/6iS7icor7jV49DRk1bfbQQ"
+      },
+      "artists": [
+        {
+          "name": "MC Kekel",
+          "url": "https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf"
+        },
+        {
+          "name": "Cabrera",
+          "url": "https://open.spotify.com/artist/0f8YWLcN51Um9z8C1fbEr2"
+        },
+        {
+          "name": "Joey Montana",
+          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144624,
+      "name": "Voc\u00ea \u00c9 Meu Love",
+      "url": "https://open.spotify.com/track/5Rnjrn6iOQlQHowaohN1Xh"
     },
     {
       "album": {

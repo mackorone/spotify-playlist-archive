@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXkZolmAsKx.md) - [plain]
 
 > The best Ambient tracks from 2010 to 2019.
 
-[Spotify](https://open.spotify.com/user/spotify) - 778 likes - 104 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,376 likes - 104 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Reflection \(Excerpt\)](https://open.spotify.com/track/53KkH2GHmt77WtAOxo2J36) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Reflection \(Excerpt\)](https://open.spotify.com/album/69GAIqkIkxLuh4bruF01Av) | 4:20 |
 | 2 | [Calamus](https://open.spotify.com/track/204GTh8baiHsw4dM97xkmJ) | [Chuck Johnson](https://open.spotify.com/artist/5lRVe4YjX70hurTNtjek0f) | [Balsams](https://open.spotify.com/album/2rWkvguXepRyMmxIe8Brx3) | 5:10 |
 | 3 | [Space 21 \(petrichor\)](https://open.spotify.com/track/5bpmEsR82Yg8x82zNQ9MDD) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Ben Russell](https://open.spotify.com/artist/5BG0gerrHZFHPaIEi43FHB), [Yuki Numata Resnick](https://open.spotify.com/artist/2TVn6PQxnrxlIq4F2Vz3Qs), [Caleb Burhans](https://open.spotify.com/artist/3962g9Dfd93mJSVy1D37LF), [Brian Snow](https://open.spotify.com/artist/2ESi6tlKQpAqymfpcmBmYi), [Clarice Jensen](https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a) | [From Sleep](https://open.spotify.com/album/7tP7WLxusDpTi1gf1JFsrT) | 4:47 |
-| 4 | [Origin of the World](https://open.spotify.com/track/3qcUvbvX4Gddb7YeFT4AAf) | [Erik Truffaz](https://open.spotify.com/artist/6U3cvMmHIab0CAGtC5tRY3), [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Being Human Being](https://open.spotify.com/album/2DajKa7EKnrc7zqegcBjcL) | 5:36 |
+| 4 | [Origin of the World](https://open.spotify.com/track/7CIDv4jWLpY00nxzg4HivM) | [Erik Truffaz](https://open.spotify.com/artist/6U3cvMmHIab0CAGtC5tRY3), [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Being Human Being](https://open.spotify.com/album/4jitIHLQK0NOQHWunyIy6Z) | 5:36 |
 | 5 | [Weightless Part 1](https://open.spotify.com/track/2UZZtkoLOg7IHxeTAdPFvd) | [Marconi Union](https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H) | [Weightless \(Ambient Transmission Vol\. 2\)](https://open.spotify.com/album/3d8apQ32ZVRDPFtllVTKGR) | 8:06 |
 | 6 | [Chonchos](https://open.spotify.com/track/58B9gtBLbeQG55l8whZz2R) | [Bing & Ruth](https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0) | [No Home of the Mind](https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA) | 4:58 |
 | 7 | [Amethyst Deceiver](https://open.spotify.com/track/5sNqlkPf0m5Fa0Kum9JyAP) | [David Lord](https://open.spotify.com/artist/7FS3zyzxKRE3CBKHS3Bp42), [Chad Taylor](https://open.spotify.com/artist/0o8c17fdXpsDbQez6drlmt), [Devin Hoff](https://open.spotify.com/artist/5N4xtDKoiC1Px300ozCTcp), [Chris Schlarb](https://open.spotify.com/artist/3kZAEwPEGGOaHMYRbNK7m1) | [Forest Standards, Vol\. 1](https://open.spotify.com/album/4tZvAREA7W7SpGnQ49cr0I) | 3:15 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXkZolmAsKx.md) - [plain]
 | 30 | [A Sea Of Love](https://open.spotify.com/track/7feFMZxaNV6km5QZAXYyv0) | [Huerco S.](https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy) | [For Those Of You Who Have Never \(And Also Those Who Have\)](https://open.spotify.com/album/57o6rhS5v8qPeRPzrNRWF9) | 7:17 |
 | 31 | [Simulacra I](https://open.spotify.com/track/3jKFYmkiSh8gvll1mlzuFo) | [Ben Frost](https://open.spotify.com/artist/6qEM4txXHvfMbOUOK9L7pl), [Daníel Bjarnason](https://open.spotify.com/artist/5kUBSTaVz7OFpuyHDSbQon) | [Sólaris](https://open.spotify.com/album/1ZdCibjLTQFL9SULO8Lfk9) | 5:35 |
 | 32 | [Before Meaning Comes](https://open.spotify.com/track/1T8YONUfkmHPqmUueSYq0V) | [Ian William Craig](https://open.spotify.com/artist/0romFcKJdf5jOe6S8row0Q) | [A Turn of Breath \- Extended](https://open.spotify.com/album/67ngwhDY2gWbP6MQugUnKJ) | 3:12 |
-| 33 | [Luotasi](https://open.spotify.com/track/5AvyV92PXzkpQ6k1ggKME7) | [Vladislav Delay](https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9) | [vantaa](https://open.spotify.com/album/6Sa8QE7vYI9imRgQz8IVzB) | 8:10 |
+| 33 | [Luotasi](https://open.spotify.com/track/68Eikbn8ceLITopH0JDKqx) | [Vladislav Delay](https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9) | [Vantaa](https://open.spotify.com/album/0BkzBQPjWNStV6pdt45inP) | 8:10 |
 | 34 | [Walking in a spiral towards the house: Side C](https://open.spotify.com/track/6VAQq0NST9DpWDc7zretjm) | [Nivhek](https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl) | [After its own death / Walking in a spiral towards the house](https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB) | 8:37 |
 | 35 | [Without Motion \- Leandro Fresco Remix](https://open.spotify.com/track/4i2ihtWmnw8ixJePZEVuzY) | [The Sight Below](https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY), [Leandro Fresco](https://open.spotify.com/artist/0gJgTQEVl62dN80lQbOBK5) | [Glider 10: Reworks](https://open.spotify.com/album/6TyK7H8NrVyaVQ3EYQc2kF) | 7:44 |
 | 36 | [Huit](https://open.spotify.com/track/6VvOYb9aPWQnpFyvKKsYZW) | [Sky H1](https://open.spotify.com/artist/4PWm0R7GT00XJa3TIFoUT4) | [Mono No Aware](https://open.spotify.com/album/1YbSlMGiAAaTfR9Kk9HNxk) | 3:50 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXkZolmAsKx.md) - [plain]
 | 103 | [Analog Paralysis, 1978](https://open.spotify.com/track/3guEVTjNJHoR5D7GJRZMs5) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Ravedeath, 1972](https://open.spotify.com/album/6Iu8toVsvCc3I4INxYiVIy) | 3:51 |
 | 104 | [Weightless Part 6](https://open.spotify.com/track/1Mua0g96hUldJWj00GDsel) | [Marconi Union](https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H) | [Weightless \(Ambient Transmission Vol\. 2\)](https://open.spotify.com/album/3d8apQ32ZVRDPFtllVTKGR) | 5:10 |
 
-Snapshot ID: `MTY2MzY4OTA2NiwwMDAwMDAwMDA0MmQxYzgyNWYzYTE5NTNkMjU2MTA2MDVlZjI4Zjk0`
+Snapshot ID: `MTY2MzY4OTA2NiwwMDAwMDAwMDBiZmFhZmI5M2JmMTNkNTNiMjYyOTE2NDJkZmQ0ZTI4`

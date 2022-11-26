@@ -253,7 +253,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 440464,
       "name": "Darkest Hour",
       "url": "https://open.spotify.com/track/01n8OBPVoR4dotXQxwhnH6"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 243754,
       "name": "Days Of Future Past",
       "url": "https://open.spotify.com/track/2L42uB1e5wuanTTPEWVe64"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 565026,
       "name": "For the Greater Good of God - 2015 Remaster",
       "url": "https://open.spotify.com/track/7kocq12UHSZ2S4U8P71RXo"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 218133,
       "name": "From Here to Eternity - 2015 Remaster",
       "url": "https://open.spotify.com/track/6uXD7ywanNw6sGatkT9uVw"
@@ -433,7 +433,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-06",
       "duration_ms": 214360,
       "name": "Iron Maiden - 2015 Remaster",
       "url": "https://open.spotify.com/track/21wB3DaIk112Ry3mEzqfit"
@@ -620,6 +620,24 @@
     },
     {
       "album": {
+        "name": "Somewhere in Time (2015 Remaster)",
+        "url": "https://open.spotify.com/album/0OEg65hPhgP7B0Dy9TqP2L"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344026,
+      "name": "Sea of Madness - 2015 Remaster",
+      "url": "https://open.spotify.com/track/6GROdBUD0tIT9muEfnXQUz"
+    },
+    {
+      "album": {
         "name": "Senjutsu",
         "url": "https://open.spotify.com/album/3TymcPWXqsCRA5oSL0TkPU"
       },
@@ -631,7 +649,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": null,
       "duration_ms": 500170,
       "name": "Senjutsu",
       "url": "https://open.spotify.com/track/5aCPxXIBHYa2t6BXhKA6o7"
@@ -685,7 +703,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 301745,
       "name": "Speed of Light",
       "url": "https://open.spotify.com/track/1smvmwmbrQiBwgJZMxVtup"
@@ -703,7 +721,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-10-13",
       "duration_ms": 297013,
       "name": "Still Life - 2015 Remaster",
       "url": "https://open.spotify.com/track/48ShNhzz3tueJ5g55usma7"
@@ -739,7 +757,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": null,
       "duration_ms": 299946,
       "name": "Stratego",
       "url": "https://open.spotify.com/track/7BOLGsgOMicS0GLmsX940c"
@@ -797,6 +815,24 @@
       "duration_ms": 274213,
       "name": "The Evil That Men Do - 2015 Remaster",
       "url": "https://open.spotify.com/track/0S90LE5Z8FOdbui3tLak6t"
+    },
+    {
+      "album": {
+        "name": "Somewhere in Time (2015 Remaster)",
+        "url": "https://open.spotify.com/album/0OEg65hPhgP7B0Dy9TqP2L"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393293,
+      "name": "The Loneliness of the Long Distance Runner - 2015 Remaster",
+      "url": "https://open.spotify.com/track/5ttrHRvvbegTmsCevibnFR"
     },
     {
       "album": {
@@ -865,7 +901,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 813713,
       "name": "The Red and the Black",
       "url": "https://open.spotify.com/track/3KqYcqLk7YUyNIxr9jCNhC"
@@ -883,7 +919,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 429443,
       "name": "The Time Machine",
       "url": "https://open.spotify.com/track/2orfmTbBQtEI1wpukVt40z"

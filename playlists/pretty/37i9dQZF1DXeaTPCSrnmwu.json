@@ -1,29 +1,13 @@
 {
   "description": "Disfruta de tu velada en la sedosa compa\u00f1\u00eda de las 88 teclas del piano.",
-  "num_followers": 18694,
+  "num_followers": 19407,
   "original_name": "Cena con Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMDk4NTQzNSwwMDAwMDAwMDUzYzA3MzZmYWRjMDUwMzE4NjBiNDhhN2JjZWU2NGVi",
+  "snapshot_id": "MTYxMDk4NTQzNSwwMDAwMDAwMGM0ZmM5MWM5MTU4OWEyZDIwY2I1Yjc0ZTFmZDllYjEw",
   "tracks": [
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
-        "name": "Today And Tomorrow",
-        "url": "https://open.spotify.com/album/6MinQE3GG7Xb9GWrOoAWEz"
-      },
-      "artists": [
-        {
-          "name": "McCoy Tyner",
-          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
-        }
-      ],
-      "duration_ms": 282320,
-      "name": "When Sunny Gets Blue",
-      "url": "https://open.spotify.com/track/1J9iVCaEriyoMXpj2XszhU"
-    },
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 146093,
       "name": "Blue And Sentimental",
       "url": "https://open.spotify.com/track/78ntGe4xyecZHg9exQWwK6"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
+        "name": "Today And Tomorrow",
+        "url": "https://open.spotify.com/album/6MinQE3GG7Xb9GWrOoAWEz"
+      },
+      "artists": [
+        {
+          "name": "McCoy Tyner",
+          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
+        }
+      ],
+      "duration_ms": 282320,
+      "name": "When Sunny Gets Blue",
+      "url": "https://open.spotify.com/track/1J9iVCaEriyoMXpj2XszhU"
     },
     {
       "added_at": "2021-01-18 15:57:14",
@@ -123,6 +123,22 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
+        "name": "Work From Home with Oscar Peterson",
+        "url": "https://open.spotify.com/album/0ORKsWALEps4PNvnM78dM7"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Stormy Weather",
+      "url": "https://open.spotify.com/track/5PocwBP4qm33W4eQSZyVBZ"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
         "name": "This Is The Time",
         "url": "https://open.spotify.com/album/7jLYwN5WoR3ysYdA9xz6SU"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 159599,
       "name": "This Is The Time",
       "url": "https://open.spotify.com/track/5WlGbaNBwa8cClh21SVhXp"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
-        "name": "When You Wish Upon a Star",
-        "url": "https://open.spotify.com/album/7fsSv3ak7BZdLx6L94bc2W"
-      },
-      "artists": [
-        {
-          "name": "Mounia Abraham",
-          "url": "https://open.spotify.com/artist/5vZm6KOKPOk2Pooo9NHt1h"
-        }
-      ],
-      "duration_ms": 161891,
-      "name": "When You Wish Upon a Star",
-      "url": "https://open.spotify.com/track/4oC2OjhMIebaOtUXyqw4P8"
     },
     {
       "added_at": "2021-01-18 15:57:14",
@@ -171,18 +171,18 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
-        "name": "Work From Home with Oscar Peterson",
-        "url": "https://open.spotify.com/album/0ORKsWALEps4PNvnM78dM7"
+        "name": "When You Wish Upon a Star",
+        "url": "https://open.spotify.com/album/7fsSv3ak7BZdLx6L94bc2W"
       },
       "artists": [
         {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+          "name": "Mounia Abraham",
+          "url": "https://open.spotify.com/artist/5vZm6KOKPOk2Pooo9NHt1h"
         }
       ],
-      "duration_ms": 214000,
-      "name": "Stormy Weather",
-      "url": "https://open.spotify.com/track/5PocwBP4qm33W4eQSZyVBZ"
+      "duration_ms": 161891,
+      "name": "When You Wish Upon a Star",
+      "url": "https://open.spotify.com/track/4oC2OjhMIebaOtUXyqw4P8"
     },
     {
       "added_at": "2021-01-18 15:57:14",
@@ -203,34 +203,18 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
-        "name": "Contra La Indecisi\u00f3n",
-        "url": "https://open.spotify.com/album/3e1D8PXvjboQnZY8o9vNgo"
+        "name": "Amalfi Moon",
+        "url": "https://open.spotify.com/album/1DuAYHyITCrrQVGGVMt8Fz"
       },
       "artists": [
         {
-          "name": "Bobo Stenson Trio",
-          "url": "https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV"
+          "name": "Ana Olgica",
+          "url": "https://open.spotify.com/artist/29nLvGubwGVV9I4kF3nldc"
         }
       ],
-      "duration_ms": 252773,
-      "name": "Canci\u00f3n Contra La Indecisi\u00f3n",
-      "url": "https://open.spotify.com/track/6fTs9vrso7u7spinTkiauE"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
-        "name": "Moon Over Brooklyn",
-        "url": "https://open.spotify.com/album/3cdgdzfuIoOWbMbemo7OGM"
-      },
-      "artists": [
-        {
-          "name": "Stephen Rogerson",
-          "url": "https://open.spotify.com/artist/5xXnBmVrb708VQBBjG59Gk"
-        }
-      ],
-      "duration_ms": 140432,
-      "name": "Don't Know Why",
-      "url": "https://open.spotify.com/track/7e9e6hczmTaB9bYrTJMcHe"
+      "duration_ms": 151693,
+      "name": "Amalfi Moon",
+      "url": "https://open.spotify.com/track/3qE1HsdBOfXyZmCfRfT8Jc"
     },
     {
       "added_at": "2021-01-18 15:57:14",
@@ -251,6 +235,22 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
+        "name": "Moon Over Brooklyn",
+        "url": "https://open.spotify.com/album/3cdgdzfuIoOWbMbemo7OGM"
+      },
+      "artists": [
+        {
+          "name": "Stephen Rogerson",
+          "url": "https://open.spotify.com/artist/5xXnBmVrb708VQBBjG59Gk"
+        }
+      ],
+      "duration_ms": 140432,
+      "name": "Don't Know Why",
+      "url": "https://open.spotify.com/track/7e9e6hczmTaB9bYrTJMcHe"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
         "name": "Um Dia No Mar",
         "url": "https://open.spotify.com/album/4QrobV7gNlPPVdJ6MY8Y2U"
       },
@@ -267,18 +267,34 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
-        "name": "Amalfi Moon",
-        "url": "https://open.spotify.com/album/1DuAYHyITCrrQVGGVMt8Fz"
+        "name": "Fin de l'\u00e9t\u00e9",
+        "url": "https://open.spotify.com/album/5NQ7mu7ifo8HTpsg9eIc42"
       },
       "artists": [
         {
-          "name": "Ana Olgica",
-          "url": "https://open.spotify.com/artist/29nLvGubwGVV9I4kF3nldc"
+          "name": "Falerina Paquet",
+          "url": "https://open.spotify.com/artist/2EVyOTY6DUVsMpLzqcCZ8B"
         }
       ],
-      "duration_ms": 151693,
-      "name": "Amalfi Moon",
-      "url": "https://open.spotify.com/track/3qE1HsdBOfXyZmCfRfT8Jc"
+      "duration_ms": 113000,
+      "name": "Fin de l'\u00e9t\u00e9",
+      "url": "https://open.spotify.com/track/6jm8T38DHANT7c2xvIZpx6"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
+        "name": "Contra La Indecisi\u00f3n",
+        "url": "https://open.spotify.com/album/3e1D8PXvjboQnZY8o9vNgo"
+      },
+      "artists": [
+        {
+          "name": "Bobo Stenson Trio",
+          "url": "https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV"
+        }
+      ],
+      "duration_ms": 252773,
+      "name": "Canci\u00f3n Contra La Indecisi\u00f3n",
+      "url": "https://open.spotify.com/track/6fTs9vrso7u7spinTkiauE"
     },
     {
       "added_at": "2021-01-18 15:57:14",
@@ -303,34 +319,18 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
-        "name": "Fin de l'\u00e9t\u00e9",
-        "url": "https://open.spotify.com/album/5NQ7mu7ifo8HTpsg9eIc42"
+        "name": "Seymour Reads the Constitution!",
+        "url": "https://open.spotify.com/album/2lPb2KYIudWUQcaL0vAlUm"
       },
       "artists": [
         {
-          "name": "Falerina Paquet",
-          "url": "https://open.spotify.com/artist/2EVyOTY6DUVsMpLzqcCZ8B"
+          "name": "Brad Mehldau Trio",
+          "url": "https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX"
         }
       ],
-      "duration_ms": 113000,
-      "name": "Fin de l'\u00e9t\u00e9",
-      "url": "https://open.spotify.com/track/6jm8T38DHANT7c2xvIZpx6"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
-        "name": "Se\u00f1orita",
-        "url": "https://open.spotify.com/album/44npgAVFU1zNqEEC3iwKpf"
-      },
-      "artists": [
-        {
-          "name": "Tony Soleno",
-          "url": "https://open.spotify.com/artist/2jh4IR3Rp6dRMQIpU9gFHd"
-        }
-      ],
-      "duration_ms": 201996,
-      "name": "Se\u00f1orita",
-      "url": "https://open.spotify.com/track/3Tr1go8VXvaqy9FDPyB2CB"
+      "duration_ms": 495360,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/3hQw2tdAeD9v94KJyFChKB"
     },
     {
       "added_at": "2021-01-18 15:57:14",
@@ -351,22 +351,6 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
-        "name": "Manh\u00e3 de Carnaval",
-        "url": "https://open.spotify.com/album/6PmJeevy0quqp79eYVeVXb"
-      },
-      "artists": [
-        {
-          "name": "Pedro Santos",
-          "url": "https://open.spotify.com/artist/3iCY5pdGYEDsC7TiZ2Pqy4"
-        }
-      ],
-      "duration_ms": 192220,
-      "name": "Desafinado",
-      "url": "https://open.spotify.com/track/5ZZt6lI6O7DkJ0QNR9nqS0"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
         "name": "Grandes Boleros En Piano Y Ritmo (Instrumental)",
         "url": "https://open.spotify.com/album/19D3ge8HWiNwh8jtiydYKp"
       },
@@ -383,18 +367,34 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
-        "name": "Seymour Reads the Constitution!",
-        "url": "https://open.spotify.com/album/2lPb2KYIudWUQcaL0vAlUm"
+        "name": "Manh\u00e3 de Carnaval",
+        "url": "https://open.spotify.com/album/6PmJeevy0quqp79eYVeVXb"
       },
       "artists": [
         {
-          "name": "Brad Mehldau Trio",
-          "url": "https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX"
+          "name": "Pedro Santos",
+          "url": "https://open.spotify.com/artist/3iCY5pdGYEDsC7TiZ2Pqy4"
         }
       ],
-      "duration_ms": 495360,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/3hQw2tdAeD9v94KJyFChKB"
+      "duration_ms": 192220,
+      "name": "Desafinado",
+      "url": "https://open.spotify.com/track/5ZZt6lI6O7DkJ0QNR9nqS0"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
+        "name": "Se\u00f1orita",
+        "url": "https://open.spotify.com/album/44npgAVFU1zNqEEC3iwKpf"
+      },
+      "artists": [
+        {
+          "name": "Tony Soleno",
+          "url": "https://open.spotify.com/artist/2jh4IR3Rp6dRMQIpU9gFHd"
+        }
+      ],
+      "duration_ms": 201996,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/3Tr1go8VXvaqy9FDPyB2CB"
     },
     {
       "added_at": "2021-01-18 15:57:14",
@@ -411,6 +411,54 @@
       "duration_ms": 91994,
       "name": "Las colinas del priorato",
       "url": "https://open.spotify.com/track/5mu1VAQqud9UHFLsk0u01q"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
+        "name": "Ev'rything I Love",
+        "url": "https://open.spotify.com/album/5jinjBFLM6HuPMbVUiFDZh"
+      },
+      "artists": [
+        {
+          "name": "Petra Britton",
+          "url": "https://open.spotify.com/artist/5o3FN7dWw31Y92A9gp56m2"
+        }
+      ],
+      "duration_ms": 138777,
+      "name": "How Insensitive",
+      "url": "https://open.spotify.com/track/6sLdpUMlsSe1TT7c3DPZbE"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
+        "name": "Tropicana",
+        "url": "https://open.spotify.com/album/2LyLyjwKUPGxggZ1DMnvAP"
+      },
+      "artists": [
+        {
+          "name": "Trio From Rio",
+          "url": "https://open.spotify.com/artist/4KoFxfBb0kw05Odd05UktH"
+        }
+      ],
+      "duration_ms": 212614,
+      "name": "Tropicana",
+      "url": "https://open.spotify.com/track/4e8rnF7O2uQJOACAwuGKCX"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
+        "name": "Grandes Boleros En Piano Y Ritmo (Instrumental)",
+        "url": "https://open.spotify.com/album/19D3ge8HWiNwh8jtiydYKp"
+      },
+      "artists": [
+        {
+          "name": "Luis Siu Riveron",
+          "url": "https://open.spotify.com/artist/6vshvvqO8e8oXHDC0RBXpE"
+        }
+      ],
+      "duration_ms": 195120,
+      "name": "La Paloma - Yradier",
+      "url": "https://open.spotify.com/track/5z9sMwPllzSNYvac81Hdup"
     },
     {
       "added_at": "2021-01-18 15:57:14",
@@ -435,6 +483,22 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
+        "name": "Z\u00e9phyrine",
+        "url": "https://open.spotify.com/album/7gkIQOtmCDJbNCGaF89S58"
+      },
+      "artists": [
+        {
+          "name": "Elliot Ziegler",
+          "url": "https://open.spotify.com/artist/0Wh30jSV0ZQf0IzHkEddBY"
+        }
+      ],
+      "duration_ms": 140374,
+      "name": "Z\u00e9phyrine",
+      "url": "https://open.spotify.com/track/3WZLdoZGzlSWEUXnmqUq26"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
         "name": "Manh\u00e3 de Carnaval",
         "url": "https://open.spotify.com/album/6PmJeevy0quqp79eYVeVXb"
       },
@@ -447,22 +511,6 @@
       "duration_ms": 296106,
       "name": "Corcovado (Quiet Nights Of Quiet Stars)",
       "url": "https://open.spotify.com/track/0VSzD0w1GEkSBYY0HaknRy"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
-        "name": "Grandes Boleros En Piano Y Ritmo (Instrumental)",
-        "url": "https://open.spotify.com/album/19D3ge8HWiNwh8jtiydYKp"
-      },
-      "artists": [
-        {
-          "name": "Luis Siu Riveron",
-          "url": "https://open.spotify.com/artist/6vshvvqO8e8oXHDC0RBXpE"
-        }
-      ],
-      "duration_ms": 195120,
-      "name": "La Paloma - Yradier",
-      "url": "https://open.spotify.com/track/5z9sMwPllzSNYvac81Hdup"
     },
     {
       "added_at": "2021-01-18 15:57:14",
@@ -487,34 +535,18 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
-        "name": "Tropicana",
-        "url": "https://open.spotify.com/album/2LyLyjwKUPGxggZ1DMnvAP"
+        "name": "Piano Jondo",
+        "url": "https://open.spotify.com/album/1SsRBNFSz1ediZjZ756qu4"
       },
       "artists": [
         {
-          "name": "Trio From Rio",
-          "url": "https://open.spotify.com/artist/4KoFxfBb0kw05Odd05UktH"
+          "name": "Diego Amador",
+          "url": "https://open.spotify.com/artist/7E17VU9B2y56KC2kRedIZT"
         }
       ],
-      "duration_ms": 212614,
-      "name": "Tropicana",
-      "url": "https://open.spotify.com/track/4e8rnF7O2uQJOACAwuGKCX"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
-        "name": "Ev'rything I Love",
-        "url": "https://open.spotify.com/album/5jinjBFLM6HuPMbVUiFDZh"
-      },
-      "artists": [
-        {
-          "name": "Petra Britton",
-          "url": "https://open.spotify.com/artist/5o3FN7dWw31Y92A9gp56m2"
-        }
-      ],
-      "duration_ms": 138777,
-      "name": "How Insensitive",
-      "url": "https://open.spotify.com/track/6sLdpUMlsSe1TT7c3DPZbE"
+      "duration_ms": 286933,
+      "name": "El Llanto de la Lluvia",
+      "url": "https://open.spotify.com/track/0vGx46vNX5rySadM42qXmW"
     },
     {
       "added_at": "2021-01-18 15:57:14",
@@ -535,54 +567,18 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
-        "name": "Z\u00e9phyrine",
-        "url": "https://open.spotify.com/album/7gkIQOtmCDJbNCGaF89S58"
+        "name": "Orobroy",
+        "url": "https://open.spotify.com/album/4TD9tBWKjRCWa2xZnvG8Wt"
       },
       "artists": [
         {
-          "name": "Elliot Ziegler",
-          "url": "https://open.spotify.com/artist/0Wh30jSV0ZQf0IzHkEddBY"
+          "name": "Dorantes",
+          "url": "https://open.spotify.com/artist/0YlJWz6Mt1zIKdMTxBNzDu"
         }
       ],
-      "duration_ms": 140374,
-      "name": "Z\u00e9phyrine",
-      "url": "https://open.spotify.com/track/3WZLdoZGzlSWEUXnmqUq26"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
-        "name": "Piano Jondo",
-        "url": "https://open.spotify.com/album/1SsRBNFSz1ediZjZ756qu4"
-      },
-      "artists": [
-        {
-          "name": "Diego Amador",
-          "url": "https://open.spotify.com/artist/7E17VU9B2y56KC2kRedIZT"
-        }
-      ],
-      "duration_ms": 286933,
-      "name": "El Llanto de la Lluvia",
-      "url": "https://open.spotify.com/track/0vGx46vNX5rySadM42qXmW"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
-        "name": "Juntos para Siempre",
-        "url": "https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76"
-      },
-      "artists": [
-        {
-          "name": "Bebo Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj"
-        },
-        {
-          "name": "Chucho Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
-        }
-      ],
-      "duration_ms": 209813,
-      "name": "Son de la Loma",
-      "url": "https://open.spotify.com/track/7K9t3K9SLBzV1HhVYhmXuz"
+      "duration_ms": 232720,
+      "name": "Ventanales",
+      "url": "https://open.spotify.com/track/4mXXKiOiWQvdBYf92ufELB"
     },
     {
       "added_at": "2021-01-18 15:57:14",
@@ -619,34 +615,38 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
-        "name": "Bossa Nova EP",
-        "url": "https://open.spotify.com/album/0Eb5CwXAUx0p3IkHsWAlBs"
+        "name": "Jazz Bat\u00e1 2",
+        "url": "https://open.spotify.com/album/2qNItLdcFnSId2094fNe3A"
       },
       "artists": [
         {
-          "name": "Vin\u00edcius",
-          "url": "https://open.spotify.com/artist/1k8aIB0NA92A8rVKA4HnaM"
+          "name": "Chucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
         }
       ],
-      "duration_ms": 220413,
-      "name": "Wave",
-      "url": "https://open.spotify.com/track/0kLvYpWHgCozYu6lM95eYk"
+      "duration_ms": 293020,
+      "name": "Luces",
+      "url": "https://open.spotify.com/track/4fVzIqfRv3VC1doIk9JLnt"
     },
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
-        "name": "Orobroy",
-        "url": "https://open.spotify.com/album/4TD9tBWKjRCWa2xZnvG8Wt"
+        "name": "Juntos para Siempre",
+        "url": "https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76"
       },
       "artists": [
         {
-          "name": "Dorantes",
-          "url": "https://open.spotify.com/artist/0YlJWz6Mt1zIKdMTxBNzDu"
+          "name": "Bebo Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj"
+        },
+        {
+          "name": "Chucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
         }
       ],
-      "duration_ms": 232720,
-      "name": "Ventanales",
-      "url": "https://open.spotify.com/track/4mXXKiOiWQvdBYf92ufELB"
+      "duration_ms": 209813,
+      "name": "Son de la Loma",
+      "url": "https://open.spotify.com/track/7K9t3K9SLBzV1HhVYhmXuz"
     },
     {
       "added_at": "2021-01-18 15:57:14",
@@ -667,18 +667,18 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
-        "name": "Jazz Bat\u00e1 2",
-        "url": "https://open.spotify.com/album/2qNItLdcFnSId2094fNe3A"
+        "name": "Bossa Nova EP",
+        "url": "https://open.spotify.com/album/0Eb5CwXAUx0p3IkHsWAlBs"
       },
       "artists": [
         {
-          "name": "Chucho Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
+          "name": "Vin\u00edcius",
+          "url": "https://open.spotify.com/artist/1k8aIB0NA92A8rVKA4HnaM"
         }
       ],
-      "duration_ms": 293020,
-      "name": "Luces",
-      "url": "https://open.spotify.com/track/4fVzIqfRv3VC1doIk9JLnt"
+      "duration_ms": 220413,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/0kLvYpWHgCozYu6lM95eYk"
     },
     {
       "added_at": "2021-01-18 15:57:14",
@@ -695,38 +695,6 @@
       "duration_ms": 290555,
       "name": "God Bless The Child",
       "url": "https://open.spotify.com/track/3YOXIat0EGuZ626MHh4WsU"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
-        "name": "Green In Blue EP",
-        "url": "https://open.spotify.com/album/7l6ZiMVmNuPZQ5Zs3pF4VZ"
-      },
-      "artists": [
-        {
-          "name": "Sara Florence",
-          "url": "https://open.spotify.com/artist/4qA1WfwP7qdDF0IGSfuWR8"
-        }
-      ],
-      "duration_ms": 312266,
-      "name": "Pensativa",
-      "url": "https://open.spotify.com/track/4rc7E9z2tn20daQb49JXmw"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
-        "name": "Boleros Inolvidables, Vol. 1",
-        "url": "https://open.spotify.com/album/7M8untsZpxy9aLD2MAq56O"
-      },
-      "artists": [
-        {
-          "name": "Piano Magico",
-          "url": "https://open.spotify.com/artist/0WTPr7HY88nFBbBZ8RiaV6"
-        }
-      ],
-      "duration_ms": 143386,
-      "name": "Palabras De Mujer-Hojas Secas",
-      "url": "https://open.spotify.com/track/6mBClBGac5YzqnVuXe37EN"
     },
     {
       "added_at": "2021-01-18 15:57:14",
@@ -751,6 +719,38 @@
       "duration_ms": 548600,
       "name": "Al Latin",
       "url": "https://open.spotify.com/track/0eoyBmi8Zrg9clYB9P4ZXO"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
+        "name": "Boleros Inolvidables, Vol. 1",
+        "url": "https://open.spotify.com/album/7M8untsZpxy9aLD2MAq56O"
+      },
+      "artists": [
+        {
+          "name": "Piano Magico",
+          "url": "https://open.spotify.com/artist/0WTPr7HY88nFBbBZ8RiaV6"
+        }
+      ],
+      "duration_ms": 143386,
+      "name": "Palabras De Mujer-Hojas Secas",
+      "url": "https://open.spotify.com/track/6mBClBGac5YzqnVuXe37EN"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
+        "name": "Gran Pilastro",
+        "url": "https://open.spotify.com/album/1z6Y4hwez7v5aTWldwrtOa"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9onie Deval",
+          "url": "https://open.spotify.com/artist/7bryNa0PlcBGmHpXFEJxni"
+        }
+      ],
+      "duration_ms": 65000,
+      "name": "Gran Pilastro",
+      "url": "https://open.spotify.com/track/6JgzK0yZN5H5LsQR67Ct5L"
     },
     {
       "added_at": "2021-01-18 15:57:14",
@@ -795,22 +795,6 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
-        "name": "Gran Pilastro",
-        "url": "https://open.spotify.com/album/1z6Y4hwez7v5aTWldwrtOa"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9onie Deval",
-          "url": "https://open.spotify.com/artist/7bryNa0PlcBGmHpXFEJxni"
-        }
-      ],
-      "duration_ms": 65000,
-      "name": "Gran Pilastro",
-      "url": "https://open.spotify.com/track/6JgzK0yZN5H5LsQR67Ct5L"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
         "name": "La mariposa",
         "url": "https://open.spotify.com/album/7L1I2d8HsB8J9RmphxKlUj"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 137659,
       "name": "Bossa Nova Piano Jazz",
       "url": "https://open.spotify.com/track/2FszWCVt8Vk5gZfC5et22N"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
+        "name": "Green In Blue EP",
+        "url": "https://open.spotify.com/album/7l6ZiMVmNuPZQ5Zs3pF4VZ"
+      },
+      "artists": [
+        {
+          "name": "Sara Florence",
+          "url": "https://open.spotify.com/artist/4qA1WfwP7qdDF0IGSfuWR8"
+        }
+      ],
+      "duration_ms": 312266,
+      "name": "Pensativa",
+      "url": "https://open.spotify.com/track/4rc7E9z2tn20daQb49JXmw"
     }
   ],
   "unique_name": "Cena con Piano",

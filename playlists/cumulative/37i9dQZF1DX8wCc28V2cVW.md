@@ -4,7 +4,7 @@
 
 > FFVII REMAKE O.S.Tから楽曲追加！ 緻密な映像美と豊かな物語性で世界中から愛されている最高峰RPGシリーズ、ファイナルファンタジーの珠玉の名曲集。©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 
-145 songs - 8 hr 25 min - [published](https://open.spotify.com/playlist/3qOfVSEpSo7k19vrRoavNS)
+147 songs - 8 hr 32 min - [published](https://open.spotify.com/playlist/3qOfVSEpSo7k19vrRoavNS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Something to Protect](https://open.spotify.com/track/1Q8r1VpWANopsO29Mx2vcq) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY IX Original Soundtrack](https://open.spotify.com/album/61z0CTrR8zhxdyOoieyMJi) | 2:21 | 2021-05-21 |  |
 | [Somnus \- Instrumental Version](https://open.spotify.com/track/6pJKvyxxpZhgPdySOWYRDD) | [Yoko Shimomura](https://open.spotify.com/artist/2uDsUIyCIqk9wKj17I8WAH) | [FINAL FANTASY XV Original Soundtrack](https://open.spotify.com/album/28udaDlNCgDXcMcSBQhgTv) | 2:29 | 2021-05-21 | 2022-07-29 |
 | [Somnus \- Instrumental Version](https://open.spotify.com/track/7fxzqLLTXObxIoTfI3FA0l) | [Yoko Shimomura](https://open.spotify.com/artist/2uDsUIyCIqk9wKj17I8WAH) | [FINAL FANTASY XV Original Soundtrack](https://open.spotify.com/album/2zKqD5DUNUE4isjGLixU8v) | 2:29 | 2021-05-21 |  |
+| [Somnus \- Instrumental Version](https://open.spotify.com/track/6b1n2ORIYdDD5zrbUS0z1H) | [Yoko Shimomura](https://open.spotify.com/artist/2uDsUIyCIqk9wKj17I8WAH) | [KINGSGLAIVE FINAL FANTASY XV Original Soundtrack](https://open.spotify.com/album/345ixvSOx8iXoy1DonTYcI) | 2:32 | 2021-05-21 | 2022-11-13 |
 | [SUTEKI DA NE \(Isn't It Wonderful?\)](https://open.spotify.com/track/3H39xh0GOrFkp0cjwazaXx) | [RIKKI](https://open.spotify.com/artist/6dpDHCzVviITtfGiB7S5HG) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 5:34 | 2021-05-21 |  |
 | [Terra's Theme](https://open.spotify.com/track/5vkzFLlswC4stmL1aKfAPD) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY VI Original Soundtrack](https://open.spotify.com/album/76XVjMzhQNv2pOQF3WVmeY) | 3:52 | 2021-05-21 |  |
 | [The Dalmasca Estersand](https://open.spotify.com/track/0J3xaF18seu4K8ULB7qHc4) | [崎元仁](https://open.spotify.com/artist/5IgtFW3mCaIGAuPbx7qE04) | [FINAL FANTASY XII Original Soundtrack](https://open.spotify.com/album/6BUaUV4g19n1zwF6iwkh4C) | 4:02 | 2021-05-21 |  |
@@ -107,6 +108,7 @@
 | [Welcome Home \- Journey's End](https://open.spotify.com/track/3ZVxYtrVRxQ4Om1BTprcAV) | [柴田 徹也](https://open.spotify.com/artist/52I37y2UE48RmajyAG2LMG) | [FINAL FANTASY XV Original Soundtrack \(Volume 2【2/2】\)](https://open.spotify.com/album/5QbqDDyMFltIvMZaMnUyH9) | 3:19 | 2021-05-21 | 2022-07-29 |
 | [Welcome Home \- Journey's End](https://open.spotify.com/track/74rgO4P5sXSmL2Cohs5l69) | [柴田 徹也](https://open.spotify.com/artist/52I37y2UE48RmajyAG2LMG) | [FINAL FANTASY XV Original Soundtrack \(Volume 2【2/2】\)](https://open.spotify.com/album/74zIzz2axfAFkEXeNozoau) | 3:19 | 2021-05-21 |  |
 | [Zanarkand](https://open.spotify.com/track/5NP9bhvIp2XGY3Xl0ICAub) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 3:04 | 2021-05-21 |  |
+| [「Ronfaure」 from FINAL FANTASY XI \- original](https://open.spotify.com/track/0eaqUYX8ZYE76PU7hioyw4) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [DISSIDIA 012\[duodecim\] FINAL FANTASY Original Soundtrack](https://open.spotify.com/album/0SefPud8XFXsUWQ5Sz6t8B) | 4:57 | 2021-05-21 | 2022-11-14 |
 | [あの丘を越えて](https://open.spotify.com/track/3ln6vrO3Ovi57Zxi2CmEQ8) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY IX Original Soundtrack](https://open.spotify.com/album/3aMjbkNLCvOi1gr7uRxNJx) | 2:38 | 2021-05-21 | 2022-07-29 |
 | [いつか帰るところ](https://open.spotify.com/track/5tWihjy6lCJ7kDNNc3Udw3) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY IX Original Soundtrack](https://open.spotify.com/album/3aMjbkNLCvOi1gr7uRxNJx) | 2:08 | 2021-05-21 | 2022-07-29 |
 | [いつか終わる夢](https://open.spotify.com/track/2SNGyPItX2EdYD8uL4fMUA) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/048whvs4EZL7Epsl0matoi) | 4:24 | 2021-05-21 | 2022-07-29 |

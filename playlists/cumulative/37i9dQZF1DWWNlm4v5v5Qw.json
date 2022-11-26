@@ -2011,7 +2011,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 200493,
-      "name": "Happy",
+      "name": "happy",
       "url": "https://open.spotify.com/track/4eK8QL4amHv3o8f4lNtce8"
     },
     {
@@ -2561,10 +2561,28 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 152164,
       "name": "LECTRIC SLIDE",
       "url": "https://open.spotify.com/track/2BkBkdAZ2fWnwkSndad1kt"
+    },
+    {
+      "album": {
+        "name": "PRESCRIBED OVERDOSE",
+        "url": "https://open.spotify.com/album/1gMvkEF8Iw9ub7yrRqtwMl"
+      },
+      "artists": [
+        {
+          "name": "Al-Doms",
+          "url": "https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152164,
+      "name": "LECTRIC SLIDE",
+      "url": "https://open.spotify.com/track/2Cw6qLeiePD8OgSLvl39PO"
     },
     {
       "album": {
@@ -3245,10 +3263,32 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 282352,
       "name": "Much More",
       "url": "https://open.spotify.com/track/0TQN1eNAZUJ8dRtcGvASXV"
+    },
+    {
+      "album": {
+        "name": "Sound Is Like Water",
+        "url": "https://open.spotify.com/album/5qAluQa0RZyGiHObyOvA6i"
+      },
+      "artists": [
+        {
+          "name": "dreamcastmoe",
+          "url": "https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9"
+        },
+        {
+          "name": "ZDBT",
+          "url": "https://open.spotify.com/artist/68KFHlDFncH62HCfIdH2tj"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282352,
+      "name": "Much More",
+      "url": "https://open.spotify.com/track/4wYTTvOrC56pRkqjGIDq5b"
     },
     {
       "album": {
@@ -4363,10 +4403,28 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 184186,
       "name": "SINCERELY",
       "url": "https://open.spotify.com/track/31N4z5XiavBEOjPiliJss7"
+    },
+    {
+      "album": {
+        "name": "PRESCRIBED OVERDOSE",
+        "url": "https://open.spotify.com/album/1gMvkEF8Iw9ub7yrRqtwMl"
+      },
+      "artists": [
+        {
+          "name": "Al-Doms",
+          "url": "https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184186,
+      "name": "SINCERELY",
+      "url": "https://open.spotify.com/track/3LdKYGCsaYEkUdMsmSLvEa"
     },
     {
       "album": {
@@ -5222,7 +5280,7 @@
     },
     {
       "album": {
-        "name": "Wicked",
+        "name": "wicked",
         "url": "https://open.spotify.com/album/7ohqrhLykiF5AddwBzGdPs"
       },
       "artists": [
@@ -5235,7 +5293,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 127894,
-      "name": "Wicked",
+      "name": "wicked",
       "url": "https://open.spotify.com/track/3EhGkHOfcJ0ltSDht5vMRg"
     },
     {

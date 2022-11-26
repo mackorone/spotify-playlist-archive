@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3sgVVFFM7mom04OAR0eNCL">DEAS</a>'s favorite tracks\. Updated regularly\. Curated by DEAS\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-32 songs - 3 hr 8 min - [published](https://open.spotify.com/playlist/249MwJEM4bstqPP1gN80wa)
+33 songs - 3 hr 13 min - [published](https://open.spotify.com/playlist/249MwJEM4bstqPP1gN80wa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Beyond Redemption \- Original Mix](https://open.spotify.com/track/1fR8MqzYlAla5jOPYUZ7FL) | [Vågh](https://open.spotify.com/artist/4CCDoIlomaVNquOackuAtd) | [Insight EP](https://open.spotify.com/album/1gkPYaySVRbkVgQ3DZj3db) | 6:42 | 2022-07-25 |  |
 | [Contain \(In Key\)](https://open.spotify.com/track/7741k8FIhIzCt1gTA0F42J) | [Richie Hawtin](https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy), [Plastikman](https://open.spotify.com/artist/7GoFQNOTX0suC6Tn59qx8n), [Chilly Gonzales](https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83) | [Contain \(In Key\)](https://open.spotify.com/album/3juMh8Hi5Mo0t9MlkacYAo) | 8:08 | 2022-07-25 |  |
 | [Dogma Day \- Original Mix](https://open.spotify.com/track/1tFxHgQEMcYgVKc5Tp05z6) | [Remco Beekwilder](https://open.spotify.com/artist/093To89xljIKjuy5VguaP4) | [Moortgat EP](https://open.spotify.com/album/197d3lHadEvxXy0IzPl4xi) | 6:07 | 2022-07-25 |  |
+| [Dream On \- Dave Clarke Club Mix](https://open.spotify.com/track/2kGplArPqaTLDuqzYIuOVv) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Dave Clarke](https://open.spotify.com/artist/6Fr9aJBxyMOkTFF0b9JZrQ) | [Dream On](https://open.spotify.com/album/4JMdo0OAYFeAT0LIhvKiHD) | 5:13 | 2022-07-25 | 2022-11-13 |
 | [Dream On \- Dave Clarke Remix](https://open.spotify.com/track/2s0uLSllP4eg0NvFcSXFoy) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Dave Clarke](https://open.spotify.com/artist/6Fr9aJBxyMOkTFF0b9JZrQ) | [Exciter \| The 12" Singles](https://open.spotify.com/album/4XdincYsK4PTTbqUNauNl3) | 5:15 | 2022-07-25 | 2022-07-29 |
 | [Dream On \- Dave Clarke Remix](https://open.spotify.com/track/3okwFPtam8870RcteOp4sJ) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Dave Clarke](https://open.spotify.com/artist/19fQzdHD7BofK7Ka0x036V) | [Exciter \| The 12" Singles](https://open.spotify.com/album/79c0vqXP9tsIv83gFYz4nm) | 5:15 | 2022-07-25 |  |
 | [Engine 1 \- Unsubscribe Remix](https://open.spotify.com/track/2qBtaWanqZiyFWnq4qLbeO) | [Black Asteroid](https://open.spotify.com/artist/4O955Sa65L8MfJa8hg8q0F), [Dave Clarke](https://open.spotify.com/artist/6Fr9aJBxyMOkTFF0b9JZrQ), [Mr\. Jones](https://open.spotify.com/artist/5qSTSgxz3HaDOOSuFhNLIt) | [Engine 1 \(The Remixes\)](https://open.spotify.com/album/4oY4kcQ2vNOqjibD6FObfW) | 7:43 | 2022-07-25 |  |

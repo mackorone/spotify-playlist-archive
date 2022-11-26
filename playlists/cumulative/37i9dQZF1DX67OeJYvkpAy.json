@@ -116,6 +116,24 @@
     },
     {
       "album": {
+        "name": "4am",
+        "url": "https://open.spotify.com/album/0AcMKNScocSogFjaZ41LRy"
+      },
+      "artists": [
+        {
+          "name": "JBee",
+          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 193747,
+      "name": "4am",
+      "url": "https://open.spotify.com/track/1yWQYwTDGsn93JGCjPXEbO"
+    },
+    {
+      "album": {
         "name": "5 AM",
         "url": "https://open.spotify.com/album/0xySLyC4aVMfDdrbp8hpiy"
       },
@@ -221,10 +239,28 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 134193,
       "name": "Again",
       "url": "https://open.spotify.com/track/3AaVZnhCa0yMWnZmnSeCh4"
+    },
+    {
+      "album": {
+        "name": "Again",
+        "url": "https://open.spotify.com/album/2VPnkehP5dgUJ2UDaQswKO"
+      },
+      "artists": [
+        {
+          "name": "L24",
+          "url": "https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134234,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/0oBMJ4PEkiU6jSabrP3Z82"
     },
     {
       "album": {
@@ -297,6 +333,24 @@
       "duration_ms": 195200,
       "name": "Alone with You",
       "url": "https://open.spotify.com/track/7AK01WpnqURCRFbOX4LOHa"
+    },
+    {
+      "album": {
+        "name": "Top Hits 2022",
+        "url": "https://open.spotify.com/album/5DcOnril6UTwLbqJQ9wLEd"
+      },
+      "artists": [
+        {
+          "name": "Arz",
+          "url": "https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 195200,
+      "name": "Alone With You",
+      "url": "https://open.spotify.com/track/7yqOPCHVd7DCzcZX9LQJl6"
     },
     {
       "album": {
@@ -449,7 +503,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 167128,
       "name": "Broken Hearted Crook",
       "url": "https://open.spotify.com/track/0WQhEX03KEWDKi14HKr23H"
@@ -471,6 +525,24 @@
       "duration_ms": 167653,
       "name": "Broken Hearted Crook",
       "url": "https://open.spotify.com/track/5NZFqe9zArfB2WRxpGp4Vj"
+    },
+    {
+      "album": {
+        "name": "Broken Hearted Crook",
+        "url": "https://open.spotify.com/album/4uUlH56l3S2AehDBiFiVjP"
+      },
+      "artists": [
+        {
+          "name": "K1",
+          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168182,
+      "name": "Broken Hearted Crook",
+      "url": "https://open.spotify.com/track/4SyXN06wxmCIulGCXSud0c"
     },
     {
       "album": {
@@ -497,7 +569,7 @@
       },
       "artists": [
         {
-          "name": "Sainte",
+          "name": "Saint\u00e9",
           "url": "https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6"
         }
       ],
@@ -622,6 +694,24 @@
     },
     {
       "album": {
+        "name": "Day and Night",
+        "url": "https://open.spotify.com/album/6f0CmOgIRoUFipHtcT3oP5"
+      },
+      "artists": [
+        {
+          "name": "Otis Lloyid",
+          "url": "https://open.spotify.com/artist/0us4QqkjwND1o2fDahODKk"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191611,
+      "name": "Day and Night",
+      "url": "https://open.spotify.com/track/4foQk41zscf2ya3sDW7sDx"
+    },
+    {
+      "album": {
         "name": "Day and Night (Prodbyjak)",
         "url": "https://open.spotify.com/album/5W31gIjDIhWeNBG7AT2Rap"
       },
@@ -633,7 +723,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 192052,
       "name": "Day and Night (Prodbyjak)",
       "url": "https://open.spotify.com/track/3Goa3sQx9cwGIk67iP1Mqf"
@@ -651,7 +741,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 174545,
       "name": "Deeper Than Drill",
       "url": "https://open.spotify.com/track/0AaFp8J9BS17oH4xIybF5n"
@@ -673,6 +763,24 @@
       "duration_ms": 174545,
       "name": "Deeper Than Drill",
       "url": "https://open.spotify.com/track/0aA0NgRHcV0mVKyTE5wjGq"
+    },
+    {
+      "album": {
+        "name": "Deeper Than Drill",
+        "url": "https://open.spotify.com/album/1tSvHyoAQUPXrzbBdzBIAA"
+      },
+      "artists": [
+        {
+          "name": "Ronzo",
+          "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180047,
+      "name": "Deeper Than Drill",
+      "url": "https://open.spotify.com/track/3DSJEZhKvNL4QDYN4ntbhc"
     },
     {
       "album": {
@@ -897,10 +1005,46 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 138110,
       "name": "Frozen Gold",
       "url": "https://open.spotify.com/track/0yKiMguQ0krHIg1mnZxHaC"
+    },
+    {
+      "album": {
+        "name": "Frozen Gold",
+        "url": "https://open.spotify.com/album/0mdcVQyvW9bXKydpQA5Bz3"
+      },
+      "artists": [
+        {
+          "name": "MKAY",
+          "url": "https://open.spotify.com/artist/4syLia9OumKwAqv3PQjNej"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138135,
+      "name": "Frozen Gold",
+      "url": "https://open.spotify.com/track/0c0V2jXzEvEPRKKNdPHVk6"
+    },
+    {
+      "album": {
+        "name": "A R&B Halloween",
+        "url": "https://open.spotify.com/album/75Ll9oQcvPx7aMwNK5CMWe"
+      },
+      "artists": [
+        {
+          "name": "Isong",
+          "url": "https://open.spotify.com/artist/1v73SfOVR7QnGw7FEnhe5Z"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 245034,
+      "name": "Have You Ever Heard A Love Song On Drill?",
+      "url": "https://open.spotify.com/track/32aiwuXt7o4oAk6jGG6S3h"
     },
     {
       "album": {
@@ -1005,10 +1149,28 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 187402,
       "name": "Hoods Hottest",
       "url": "https://open.spotify.com/track/1ZX0LUTVpuh8YzbQe7WbvU"
+    },
+    {
+      "album": {
+        "name": "Hoods Hottest",
+        "url": "https://open.spotify.com/album/7jfU23U2RFLjYQVLq7PDN2"
+      },
+      "artists": [
+        {
+          "name": "COMFY",
+          "url": "https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187617,
+      "name": "Hoods Hottest",
+      "url": "https://open.spotify.com/track/2S3H7E5e3AWrMQPj8bsac5"
     },
     {
       "album": {
@@ -1207,10 +1369,50 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 97436,
       "name": "Late Night Trips",
       "url": "https://open.spotify.com/track/0hVvkB1j1SC9FQHShpQoYU"
+    },
+    {
+      "album": {
+        "name": "Late Night Trips",
+        "url": "https://open.spotify.com/album/30CXaXM9pfJKYtTZ2kV7T1"
+      },
+      "artists": [
+        {
+          "name": "Alex1",
+          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97477,
+      "name": "Late Night Trips",
+      "url": "https://open.spotify.com/track/3L39OdJrfnGfy3XSZA10Yd"
+    },
+    {
+      "album": {
+        "name": "Left Back (Remix)",
+        "url": "https://open.spotify.com/album/0jUIULN8y7PJ6jIMgE94y1"
+      },
+      "artists": [
+        {
+          "name": "Ronzo",
+          "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
+        },
+        {
+          "name": "COMFY",
+          "url": "https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174846,
+      "name": "Left Back - Remix",
+      "url": "https://open.spotify.com/track/1sRe7j48EAAJcr3uHAb6Z5"
     },
     {
       "album": {
@@ -1229,7 +1431,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 180413,
       "name": "Left Back - Remix",
       "url": "https://open.spotify.com/track/43IYnqZj6slsFqPTmBNS4E"
@@ -1255,6 +1457,28 @@
     {
       "album": {
         "name": "Losing Interest",
+        "url": "https://open.spotify.com/album/3p7UyKo0CDHbOhGycdtjzq"
+      },
+      "artists": [
+        {
+          "name": "Kstan",
+          "url": "https://open.spotify.com/artist/1ZYHfzTiCuGSs3zJqKa57i"
+        },
+        {
+          "name": "WiTTZ SG",
+          "url": "https://open.spotify.com/artist/0XgsAUBAg2UrPFpR4aHDFx"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159753,
+      "name": "Losing Interest",
+      "url": "https://open.spotify.com/track/5ofyjvBIKa8VeP1nb3U7Kp"
+    },
+    {
+      "album": {
+        "name": "Losing Interest",
         "url": "https://open.spotify.com/album/4ea2vWlwximLGKvkvwArSr"
       },
       "artists": [
@@ -1269,7 +1493,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 159764,
       "name": "Losing Interest",
       "url": "https://open.spotify.com/track/1OVkxs6N32KszTbvWRftjj"
@@ -1442,7 +1666,7 @@
       "artists": [
         {
           "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+          "url": "https://open.spotify.com/artist/52iJWJJfz31W1mLZ9gXmt5"
         }
       ],
       "date_added": "2022-04-05",
@@ -1519,10 +1743,28 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 153045,
       "name": "My Girl (Gemini)",
       "url": "https://open.spotify.com/track/5rRWBRjLeIv9BwKgpeLrQb"
+    },
+    {
+      "album": {
+        "name": "My Girl (Gemini)",
+        "url": "https://open.spotify.com/album/0kDX44qFjCF9l2bBnNflKN"
+      },
+      "artists": [
+        {
+          "name": "Stan",
+          "url": "https://open.spotify.com/artist/6EQXzOyzX6qAviHQ4npk6v"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153089,
+      "name": "My Girl (Gemini)",
+      "url": "https://open.spotify.com/track/7EhL87rPmietx4XPlTnWVb"
     },
     {
       "album": {
@@ -2086,6 +2328,24 @@
     },
     {
       "album": {
+        "name": "take the risk",
+        "url": "https://open.spotify.com/album/5vqqu6b8M6WRj6I8jhJgAZ"
+      },
+      "artists": [
+        {
+          "name": "bxnz",
+          "url": "https://open.spotify.com/artist/1RsFzgSg6mEHj2Fp3tulgp"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200039,
+      "name": "take the risk",
+      "url": "https://open.spotify.com/track/6A4zgs4IsEi3iglTBF2RUL"
+    },
+    {
+      "album": {
         "name": "Take The Risk",
         "url": "https://open.spotify.com/album/1N7bpX6cuyZqZvcgdVcIld"
       },
@@ -2097,10 +2357,32 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 200888,
       "name": "Take The Risk",
       "url": "https://open.spotify.com/track/4sK7NBL0YVl9fTHrVAYaNi"
+    },
+    {
+      "album": {
+        "name": "Take The Risk",
+        "url": "https://open.spotify.com/album/6bf4swql2jvA6zq1jvND9H"
+      },
+      "artists": [
+        {
+          "name": "OB",
+          "url": "https://open.spotify.com/artist/2OX5wdYLYtr3KluIVqvhTj"
+        },
+        {
+          "name": "King K b\u00cbAtZ",
+          "url": "https://open.spotify.com/artist/6a8kfrURNaarwQrjgtdJqr"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-21",
+      "duration_ms": 200888,
+      "name": "Take The Risk",
+      "url": "https://open.spotify.com/track/1JI8vPuCzjOePCx8Dx51Zr"
     },
     {
       "album": {
@@ -2133,10 +2415,28 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 194148,
       "name": "The Talking Stage Game",
       "url": "https://open.spotify.com/track/14tu1tKyRNKh7xvAIOQViJ"
+    },
+    {
+      "album": {
+        "name": "The Talking Stage Game",
+        "url": "https://open.spotify.com/album/390DNattBVGkTxvaTVAW6o"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195558,
+      "name": "The Talking Stage Game",
+      "url": "https://open.spotify.com/track/75FaJdvovFsDgzm5pjvE6X"
     },
     {
       "album": {
@@ -2199,6 +2499,24 @@
     {
       "album": {
         "name": "Two Years Clear",
+        "url": "https://open.spotify.com/album/5STWBf3rfPdW1Z759G5gqD"
+      },
+      "artists": [
+        {
+          "name": "Idi Akz",
+          "url": "https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203128,
+      "name": "Two Years Clear",
+      "url": "https://open.spotify.com/track/3URoC0bjXO9bH8DHKZaSB8"
+    },
+    {
+      "album": {
+        "name": "Two Years Clear",
         "url": "https://open.spotify.com/album/3zuZlK5ZyVobKnA5m0KFcX"
       },
       "artists": [
@@ -2209,7 +2527,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 205053,
       "name": "Two Years Clear",
       "url": "https://open.spotify.com/track/0wCWfjqo0FV1CDseDGD0cV"
@@ -2227,10 +2545,28 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 161232,
       "name": "Up all night",
       "url": "https://open.spotify.com/track/2nbBENXAayuNvr3kQmBAzt"
+    },
+    {
+      "album": {
+        "name": "Up all night",
+        "url": "https://open.spotify.com/album/5hRXQWmzDZiFPdt878nWF4"
+      },
+      "artists": [
+        {
+          "name": "LBSZN",
+          "url": "https://open.spotify.com/artist/0f4fUl6px5XFPGW9FXi5Ff"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161425,
+      "name": "Up all night",
+      "url": "https://open.spotify.com/track/76ldXW0puAk2q8YhpFASxH"
     },
     {
       "album": {

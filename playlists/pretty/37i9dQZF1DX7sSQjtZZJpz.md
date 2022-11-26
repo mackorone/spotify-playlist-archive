@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sSQjtZZJpz.md) - [plain]
 
 > Songs to help your kids learn in English and Spanish!
 
-[Spotify](https://open.spotify.com/user/spotify) - 654 likes - 65 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 670 likes - 65 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sSQjtZZJpz.md) - [plain]
 | 33 | [El Tío McDonald Tenía una Granja](https://open.spotify.com/track/4PQHPHrY05iVfWnloiUuQf) | [Felix Canales](https://open.spotify.com/artist/023KBSapQrYaQEs8EgN0vx) | [Ronda Musical Infantil](https://open.spotify.com/album/0sJyrcUs0wpott1tvJvNXj) | 3:10 |
 | 34 | [Learn Numbers and Colours Song \- Bus, Cars and Trucks](https://open.spotify.com/track/2L8Q1XArhm968SXREBLeMb) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Wheels on the Bus & More Vehicle Songs!](https://open.spotify.com/album/5rMGKINa45CmYXC7y7EQni) | 1:53 |
 | 35 | [Contar Vehículos de Colores](https://open.spotify.com/track/6t6yDRUkINj1RZEi4Fu74h) | [Little Baby Bum Rima Niños Amigos](https://open.spotify.com/artist/4jxICVokHTn2J2VwTCvPxm) | [Las Ruedas del Autobús y Más Canciones de Vehículos](https://open.spotify.com/album/5WpnQFRViLxLjxOqXWzODf) | 1:53 |
-| 36 | [At the Zoo](https://open.spotify.com/track/7G7x8nNHG5WKbNh0FQ2WOB) | [Bubble Guppies Cast](https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99) | [Bubble Guppies Bubble Bops!](https://open.spotify.com/album/7b6l4ldOcy0FtFkI3pAgLF) | 1:48 |
+| 36 | [At the Zoo](https://open.spotify.com/track/57ocGtdjzazXaV0HRxTug1) | [Bubble Guppies Cast](https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99) | [Bubble Guppies Bubble Bops!](https://open.spotify.com/album/0u9yhBGC9a8wyNUDilI0QT) | 1:48 |
 | 37 | [Escuela de Perritos](https://open.spotify.com/track/1xaIfPBnOV3aWKx2nrEMBM) | [Cri\-Cri](https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4) | [Las 100 Clásicas de Cri Cri, Vol\. 2](https://open.spotify.com/album/4JuhGXNzdIBau0Rte4mwCX) | 2:29 |
 | 38 | [The Spanish Numba Rumba](https://open.spotify.com/track/34f4sXOY5Wh3tjx1vsXE0d) | [Big Bird](https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE), [Count Von Count](https://open.spotify.com/artist/1oDbLbJSRUBBOp9SU6NOjI) | [Sesame Street: Fiesta Songs!](https://open.spotify.com/album/2UtAsfNPW51sH75UhlcFtS) | 1:47 |
 | 39 | [ABC\-DEF\-GHI](https://open.spotify.com/track/7f0kigcXF0041AyUGbMdkk) | [Big Bird](https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [All\-Time Favorites 1](https://open.spotify.com/album/4NrLPZaAgx6XWXlAnjdYFD) | 1:46 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sSQjtZZJpz.md) - [plain]
 | 64 | [Con Cada Letra](https://open.spotify.com/track/2QYYHtyHys1DyAwrHkm5Kk) | [Jorge Lan](https://open.spotify.com/artist/02v5zrGrbnMBgl4pIWVHe0) | [Letras y Numeros](https://open.spotify.com/album/4Ndl4dSNXW090qohHFlNUE) | 1:04 |
 | 65 | [If You Know All the Seasons \- 2012 Version](https://open.spotify.com/track/4tBZMSnovDVNBlDxZklNh5) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Learning Songs](https://open.spotify.com/album/05xhT2X7yGBhVsMWkv45Ly) | 1:46 |
 
-Snapshot ID: `MTYxNDAyMTE4NywwMDAwMDAwMGEzYjZjODAxZTk0YWRmMDdkMmJiMzQxYjQ2MWRiZGU3`
+Snapshot ID: `MTYxNDAyMTE4NywwMDAwMDAwMDdkYTFkMDhmZWQzNDk3OWEwZTI3OTZkYjIzZjBiZDY5`

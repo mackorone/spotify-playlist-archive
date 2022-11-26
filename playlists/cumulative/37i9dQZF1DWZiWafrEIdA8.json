@@ -70,6 +70,24 @@
     },
     {
       "album": {
+        "name": "Giraffe",
+        "url": "https://open.spotify.com/album/7wFuShttHLTGCoVbqmgWf7"
+      },
+      "artists": [
+        {
+          "name": "Bassagong",
+          "url": "https://open.spotify.com/artist/7j1lNIjZY1E1drWIgJloMs"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 250374,
+      "name": "Almost there",
+      "url": "https://open.spotify.com/track/7FHOV2Uq8KYAAoFskYaRhu"
+    },
+    {
+      "album": {
         "name": "Giraffe \uae30\ub9b0",
         "url": "https://open.spotify.com/album/7lILQLIRM5WJtY39TW9qTx"
       },
@@ -929,7 +947,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": "2022-11-23",
       "duration_ms": 238965,
       "name": "Going Home",
       "url": "https://open.spotify.com/track/4eZRWCGNDv0AJAIb5douAe"
@@ -1759,6 +1777,10 @@
         {
           "name": "GARY",
           "url": "https://open.spotify.com/artist/5myBH2YqzOgyWoTKCsydAi"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
         }
       ],
       "date_added": "2022-05-23",
@@ -2471,7 +2493,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-10-25",
       "duration_ms": 231023,
       "name": "RUN DAMOIM",
       "url": "https://open.spotify.com/track/69tNPP4pKkRmXGqFAMxlyE"
@@ -2525,8 +2547,8 @@
           "url": "https://open.spotify.com/artist/7Aj5YhBa3fybV1CotHRftv"
         },
         {
-          "name": "\ub2e4\uc774\ub098\ubbf9 \ub4c0\uc624",
-          "url": "https://open.spotify.com/artist/16cRWWcs7lg0DxKweabRhf"
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
         }
       ],
       "date_added": "2022-06-18",
@@ -2691,7 +2713,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-04",
       "duration_ms": 229463,
       "name": "sleep tight",
       "url": "https://open.spotify.com/track/3W2PPFdSBQeK96qQwKBnhH"
@@ -3287,7 +3309,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 131180,
       "name": "winter night (Feat. DUT2)",
       "url": "https://open.spotify.com/track/6gIFRFKWuwF0J8maUzh54d"
@@ -3437,7 +3459,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 186533,
       "name": "Y earned (Feat. Gaeko, SOLE) (Prod. Primary, plusNONE)",
       "url": "https://open.spotify.com/track/5HbN3PIXPQiHRb3MKuqGO5"

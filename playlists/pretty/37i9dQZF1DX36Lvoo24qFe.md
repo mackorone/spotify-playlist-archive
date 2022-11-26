@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36Lvoo24qFe.md) - [plain]
 
 > The ultimate playlist to water your plants to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,027 likes - 27 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,010 likes - 27 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,10 +30,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36Lvoo24qFe.md) - [plain]
 | 20 | [Apple Pie](https://open.spotify.com/track/6scpNkWEmUxmKY7nYjVLsX) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Rodeo \(Expanded Edition\)](https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg) | 3:39 |
 | 21 | [Bucktown](https://open.spotify.com/track/5fyRqeycMofUoGmDis5Gu6) | [Smif\-N\-Wessun](https://open.spotify.com/artist/2p0Hf0MF8Nw8lwAXokczf0) | [Dah Shinin'](https://open.spotify.com/album/0TaYPOKCUDyvZU2APQ7kPM) | 3:57 |
 | 22 | [Nights](https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 5:07 |
-| 23 | [Are You All Good?](https://open.spotify.com/track/5GCarc6IOkTIMGEVQ2YOQ4) | [breathe.](https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE) | [Breathe.](https://open.spotify.com/album/71QcIcoDf84hU8CVrBNInN) | 3:11 |
+| 23 | [Are You All Good?](https://open.spotify.com/track/7I5tV3ZQVLRav2PADoFbb9) | [breathe.](https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE) | [Breathe.](https://open.spotify.com/album/5w5bwL9qRsIQn58XqVhzO5) | 3:11 |
 | 24 | [it's ok, you're ok](https://open.spotify.com/track/26WAJZIwv0D1kkG7521PlO) | [Bonjr](https://open.spotify.com/artist/10dzW1PpkEFPkeQSqvgXvw) | [it's ok, you're ok](https://open.spotify.com/album/0VsgtAta0KqSIodZfDnziG) | 3:35 |
-| 25 | [september rain](https://open.spotify.com/track/1XREfGfPZGBoGP6KIKy8QR) | [Jinsang](https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt) | [Confessions](https://open.spotify.com/album/0f4ZcRoYPzppioLoB70vYc) | 2:15 |
-| 26 | [jasmine \- Demo](https://open.spotify.com/track/1BYc1M6fuvRA9s9wSugS2h) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [jasmine \(Demo\)](https://open.spotify.com/album/6Uc6j2mDKpCAd01eu21evb) | 4:13 |
+| 25 | [september rain](https://open.spotify.com/track/59dBnabeKp9oMKpl4K194C) | [Jinsang](https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt) | [Confessions](https://open.spotify.com/album/0ObtoFpjzJwwDeUeb8Ejyt) | 2:15 |
+| 26 | [Jasmine \- Demo](https://open.spotify.com/track/1BYc1M6fuvRA9s9wSugS2h) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Jasmine \(Demo\)](https://open.spotify.com/album/6Uc6j2mDKpCAd01eu21evb) | 4:13 |
 | 27 | [The Fall](https://open.spotify.com/track/4aoUYp6DBRT2JjDw9qOFO5) | [Blake Leyh](https://open.spotify.com/artist/2gKgSA1quoNlsq2RnNIQu8) | [...and all the pieces matter, Five Years of Music from The Wire \(deluxe version\)](https://open.spotify.com/album/6BPxysOQGjfI9pwei72Njl) | 1:50 |
 
-Snapshot ID: `MTYyMTI5NDAzMCwwMDAwMDAwMGJjM2VkN2M2Mzk4NzJjOWU3YWZlYjc1YTA0OGZmNWMy`
+Snapshot ID: `MTYyMTI5NDAzMCwwMDAwMDAwMGJiN2M3Nzg2YzMwMGQyYzU3YWZkZTlhZjVmZWQ5NGQ5`

@@ -4,7 +4,7 @@
 
 > Traditional Ethiopian nostalgic Tezeta music, soul and Afro\-funk.
 
-61 songs - 4 hr 25 min - [published](https://open.spotify.com/playlist/2swQv4ikd7ynpg9c5SZWLm)
+64 songs - 4 hr 39 min - [published](https://open.spotify.com/playlist/2swQv4ikd7ynpg9c5SZWLm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Yemewded Neger](https://open.spotify.com/track/3BJYgF9HqosnP6CgP6kn2s) | [Badume's Band](https://open.spotify.com/artist/6wTwIiZckwj2EQ3g43pPH3) | [Qelemewa](https://open.spotify.com/album/4UDeVOsaWESg690fXrsMq0) | 4:40 | 2018-10-05 |  |
 | [Yene hassab gwadegna](https://open.spotify.com/track/7upS7x0ywH5blOkOKBryty) | [Getatchew Mekurya](https://open.spotify.com/artist/3BJKbr8p7ED6GzAf1OeExO) | [Ethiopiques, Vol\. 14: Negus of Ethiopian Sax](https://open.spotify.com/album/2cqmpOhJfwWvTAJzpbdgnl) | 5:35 | 2018-10-05 |  |
 | [Yesega Wat](https://open.spotify.com/track/6C9A8cLSvIBrVn0p5GMnJL) | [Debre Damo Dining Orchestra](https://open.spotify.com/artist/25OKPMrd9F9UzjEk600Og2) | [Beyond Addis 02 \(Modern Ethiopian Dance Grooves Inspired By Swinging Addis\)](https://open.spotify.com/album/0h6TpRuK6ysFLQDXPDM4yT) | 2:56 | 2018-10-05 |  |
+| [Yègellé Tezeta](https://open.spotify.com/track/3aoq49JkaA7UIYw4Scr1GT) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv) | [Afrobeat Experience, Vol.1](https://open.spotify.com/album/4wlCSu49JOHgOT4xAPlLto) | 3:13 | 2022-09-26 | 2022-11-14 |
 | [Yègellé Tezeta](https://open.spotify.com/track/0fxjsll9jmmRgMFbwdp4Xg) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv) | [New York \- Addis \- London: The Story of Ethio Jazz 1965\-1975](https://open.spotify.com/album/3MHdUsf9wX9WffvOP59RBz) | 3:14 | 2018-10-05 |  |
 | [Yègellé Tezeta](https://open.spotify.com/track/7k3YrlUP1DxGe802jjuT1L) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv) | [New York \- Addis \- London: The Story of Ethio Jazz 1965\-1975](https://open.spotify.com/album/1YaUAkNsLKXtJfb0FVZcyu) | 3:14 | 2018-10-05 | 2022-07-29 |
 | [Yèkatit](https://open.spotify.com/track/1WfCKZAsNM5Tyk7THmf6pp) | [Akalé Wubé](https://open.spotify.com/artist/2jjVw1rNPydSwqfJc5uSdn) | [Akalé Wubé](https://open.spotify.com/album/4XxXVnUEQHHLFj0X4rK4gg) | 5:12 | 2018-10-05 |  |
@@ -67,7 +68,9 @@
 | [Yèkèrmo Sèw](https://open.spotify.com/track/3JaItn4OtIhEx9Qwc8rzGe) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv) | [New York \- Addis \- LondonThe Story of Ethio Jazz 1965\-1975](https://open.spotify.com/album/3Ur3CbXxpigUHLY0laZOIU) | 4:13 | 2018-10-05 | 2022-07-29 |
 | [Yèkèrmo Sèw](https://open.spotify.com/track/4CwAgkBoKAGT6UMas89F0v) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv) | [New York \- Addis \- London: The Story of Ethio Jazz 1965\-1975](https://open.spotify.com/album/3MHdUsf9wX9WffvOP59RBz) | 4:13 | 2018-10-05 |  |
 | [Yèkèrmo Sèw](https://open.spotify.com/track/4cGYXOl7T3q7oLFj4loAUc) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv) | [New York \- Addis \- London: The Story of Ethio Jazz 1965\-1975](https://open.spotify.com/album/1YaUAkNsLKXtJfb0FVZcyu) | 4:13 | 2018-10-05 | 2022-07-29 |
-| [Yèshèga Lidj Nègèr](https://open.spotify.com/track/6WUxsY20XPP4bKaprOYHoq) | [Mahmoud Ahmed](https://open.spotify.com/artist/1QrSgIS6RU4dgNPxLQMoha) | [Live In Paris](https://open.spotify.com/album/0kGmTDYh6sYO9EmeTWYiAv) | 6:00 | 2018-10-05 |  |
+| [Yèkèrmo Sèw \(A Man of Experience and Wisdom\)](https://open.spotify.com/track/6eNOgE9gdpOx8Tztf4tbCF) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv) | [Ethiopiques, Vol\. 4: Ethio Jazz 1969\-1974](https://open.spotify.com/album/5VKvVk4gaPAJyXjof8NnzX) | 4:15 | 2022-09-26 | 2022-11-13 |
+| [Yèshèga Lidj Nègèr](https://open.spotify.com/track/2MRcFnDYNBKE34jF3NjJLe) | [Mahmoud Ahmed](https://open.spotify.com/artist/1QrSgIS6RU4dgNPxLQMoha) | [Live In Paris](https://open.spotify.com/album/7hRfo6CmgWCk8ekWnG2zpR) | 6:00 | 2022-09-26 |  |
+| [Yèshèga Lidj Nègèr](https://open.spotify.com/track/6WUxsY20XPP4bKaprOYHoq) | [Mahmoud Ahmed](https://open.spotify.com/artist/1QrSgIS6RU4dgNPxLQMoha) | [Live In Paris](https://open.spotify.com/album/0kGmTDYh6sYO9EmeTWYiAv) | 6:00 | 2018-10-05 | 2022-10-15 |
 | [Zilzil](https://open.spotify.com/track/2fNdD5FgvZQqtTjaQ0w44q) | [Les Frères Smith](https://open.spotify.com/artist/2DsPD1Xb7F2oukRHmrkEqQ) | [Beyond Addis 02 \(Modern Ethiopian Dance Grooves Inspired By Swinging Addis\)](https://open.spotify.com/album/0h6TpRuK6ysFLQDXPDM4yT) | 7:21 | 2018-10-05 |  |
 
 \*This playlist was first scraped on 2021-12-29. Prior content cannot be recovered.

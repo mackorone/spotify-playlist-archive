@@ -4,7 +4,7 @@
 
 > Reach inner tranquility with peaceful Hang and ambient.
 
-76 songs - 5 hr 2 min - [published](https://open.spotify.com/playlist/5gpuoAqwEPxVmBsNt9nypB)
+78 songs - 5 hr 8 min - [published](https://open.spotify.com/playlist/5gpuoAqwEPxVmBsNt9nypB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Dream](https://open.spotify.com/track/0dWwpUf92x3NIO7EGNiTe1) | [Handpan Paradise](https://open.spotify.com/artist/3SUdfJgl34LM3ual6dkXE6) | [Paradise](https://open.spotify.com/album/4akdB5BgbeG6uvszCIWbDG) | 1:46 | 2022-09-08 |  |
 | [Drishti](https://open.spotify.com/track/1nzf2NBv5Yvdkc7EcvqgXQ) | [Hang Drum Player](https://open.spotify.com/artist/6iEUfmAL9SUMhxpWHwzIHb) | [Purity](https://open.spotify.com/album/5uZ9dMjQ7WYbQngdA33vET) | 2:45 | 2022-09-08 |  |
 | [Duerme](https://open.spotify.com/track/0yYcH4WBishYhqLUQFdBFu) | [Azure Lilly](https://open.spotify.com/artist/2CQgGsLubijMyj1ANswVeo) | [Hang Drums](https://open.spotify.com/album/7IGTotJEFgwoM5F8zSzBLM) | 4:05 | 2022-09-08 |  |
+| [Echoes](https://open.spotify.com/track/0COyAv0TaxxVlDqMfedV15) | [Svaha.](https://open.spotify.com/artist/35wl6gVa66JYBP8FejyJ82), [Mono Handpan](https://open.spotify.com/artist/4rJpumsl8NbIJhoKYKgvxu) | [Echoes](https://open.spotify.com/album/3I8K5xf5xqERLrGET1A2gy) | 2:32 | 2022-11-11 |  |
 | [Focus One](https://open.spotify.com/track/3XbLt09x1IBDMPYDTFRZXM) | [Yoro Kobuto](https://open.spotify.com/artist/21TAVdB21U8rAixr2sANtf) | [Focus One](https://open.spotify.com/album/7pPXleKmHlZ8YPkQTxetQ1) | 3:31 | 2022-09-08 |  |
 | [Focus Two](https://open.spotify.com/track/1QzxDJFcLRkin1CYdtFip1) | [Yoro Kobuto](https://open.spotify.com/artist/21TAVdB21U8rAixr2sANtf) | [Focus Two](https://open.spotify.com/album/7oi4c1vozIIOMlIyntsTX5) | 3:10 | 2022-09-08 |  |
 | [Follow The Sun \- Osmosis Version](https://open.spotify.com/track/0MlYCFWI0oduT11W6O8ptJ) | [Yatao](https://open.spotify.com/artist/4BYqP4YTwWGpi4q94QkW2x), [Alexander Mercks](https://open.spotify.com/artist/1GykWQWG7xcdwxdLiX40jL) | [Osmosis](https://open.spotify.com/album/5EekI9jcgWfjPITMAHWEnh) | 4:03 | 2022-09-08 |  |
@@ -73,6 +74,7 @@
 | [Stress Relief](https://open.spotify.com/track/67QljIQJUbSx3KOJeADxex) | [Spiritual Meditation Vibes](https://open.spotify.com/artist/1ZxiigDh7uW74TuFXlb5WP) | [Hang Drum Music \- Relaxing Ambient for Meditation Yoga and Relax](https://open.spotify.com/album/7pptSJSIxXsiAWFVeOl6kh) | 3:23 | 2022-09-08 |  |
 | [Strings of Light](https://open.spotify.com/track/7pLqzJr6EA7gFm6hAeYxD9) | [Surrounding Life](https://open.spotify.com/artist/7x0g29FUOlzLsQrKB0NioF) | [Rivers of Relief](https://open.spotify.com/album/08i8VU7ZL1rBE9dNhf6ldr) | 4:55 | 2022-09-08 |  |
 | [Sunrise Glory](https://open.spotify.com/track/1jAENgcKZknON4aQSvr4Be) | [Laksmi Sand](https://open.spotify.com/artist/7H5gwCLGNCQ8guLmXFdoJy) | [Laksmi Sand](https://open.spotify.com/album/4zERgFjOw6RNdbpGBeI4EO) | 2:32 | 2022-09-08 |  |
+| [Sunshine](https://open.spotify.com/track/3Mw806oScJ2C07uLn73vwK) | [Hangimba Boy](https://open.spotify.com/artist/1Fv4aj9ojTsR3lz2RwYEKM) | [Everything But](https://open.spotify.com/album/4buD9eE8dpFa3aIy9fHgcM) | 3:15 | 2022-11-11 |  |
 | [Surrounding Life](https://open.spotify.com/track/7L5sWFYOj612vnU8mKRSjz) | [Surrounding Life](https://open.spotify.com/artist/7x0g29FUOlzLsQrKB0NioF) | [Rivers of Relief](https://open.spotify.com/album/08i8VU7ZL1rBE9dNhf6ldr) | 3:23 | 2022-09-08 |  |
 | [The Best Hang Drum Music](https://open.spotify.com/track/2M89Lw45DLt9PnDyyFyCZM) | [Hang Drum Music](https://open.spotify.com/artist/6EYGpvp2j9oenkXCw3oJJO), [The Hang Drum Project](https://open.spotify.com/artist/0O1fF1CEBxcnf0vo9bVaGq), [Spa](https://open.spotify.com/artist/4LUYOHM73gVlfY5TzRbIgX) | [Hang Drum Relaxation Music For Spa, Massage, Sleep, Yoga, Meditation and Spa Music](https://open.spotify.com/album/2RWIlV0VSshZmDx7uozJzg) | 1:50 | 2022-09-08 |  |
 | [The Mountains Within](https://open.spotify.com/track/5tlJypzaF9RBrZp4gGavf4) | [Yatao](https://open.spotify.com/artist/4BYqP4YTwWGpi4q94QkW2x), [Alexander Mercks](https://open.spotify.com/artist/1GykWQWG7xcdwxdLiX40jL) | [Osmosis](https://open.spotify.com/album/5EekI9jcgWfjPITMAHWEnh) | 5:44 | 2022-09-08 |  |

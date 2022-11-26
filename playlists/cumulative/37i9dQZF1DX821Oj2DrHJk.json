@@ -153,6 +153,24 @@
     {
       "album": {
         "name": "Razamanaz",
+        "url": "https://open.spotify.com/album/0qdXvUUZQ8kUaNDFdEit90"
+      },
+      "artists": [
+        {
+          "name": "Nazareth",
+          "url": "https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 237333,
+      "name": "Bad Bad Boy",
+      "url": "https://open.spotify.com/track/0UIpa8py2QChTdE1KB4yKa"
+    },
+    {
+      "album": {
+        "name": "Razamanaz",
         "url": "https://open.spotify.com/album/19kMBEeYJUwXUI92KPCGeg"
       },
       "artists": [
@@ -183,8 +201,26 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 313026,
-      "name": "Band On The Run - Remastered 2010",
+      "name": "Band On The Run - 2010 Remaster",
       "url": "https://open.spotify.com/track/1H4idkmruFoJBg1DvUv2tY"
+    },
+    {
+      "album": {
+        "name": "Bang a Gong (Get It On) / Raw Ramp [45 Version]",
+        "url": "https://open.spotify.com/album/4r3r9eOPhjXVMTIEvNGw8N"
+      },
+      "artists": [
+        {
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 264493,
+      "name": "Bang a Gong (Get It On)",
+      "url": "https://open.spotify.com/track/0ayyOT6Qf86os2BkVfH7kO"
     },
     {
       "album": {
@@ -271,7 +307,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 229626,
       "name": "Brown Sugar - 2005 Digital Remaster",
       "url": "https://open.spotify.com/track/7bdBuquSmLkOR81YMSuRV5"
@@ -329,6 +365,24 @@
       "duration_ms": 168826,
       "name": "Can't Stand Losing You",
       "url": "https://open.spotify.com/track/4scS449npSaFolwj9b4RJD"
+    },
+    {
+      "album": {
+        "name": "The Very Best Of Sting And The Police",
+        "url": "https://open.spotify.com/album/0psHZUD4dKFmxEfEmGRCLB"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 178573,
+      "name": "Can't Stand Losing You",
+      "url": "https://open.spotify.com/track/1po5LLTU8N62MCjysmaedr"
     },
     {
       "album": {
@@ -458,6 +512,24 @@
     },
     {
       "album": {
+        "name": "Houses of the Holy (Remaster)",
+        "url": "https://open.spotify.com/album/0GqpoHJREPp0iuXK3HzrHk"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 262748,
+      "name": "D'yer Mak'er - Remaster",
+      "url": "https://open.spotify.com/track/5uUhS7XDkyycNa5FaNfPGT"
+    },
+    {
+      "album": {
         "name": "Bad Reputation (Expanded Edition)",
         "url": "https://open.spotify.com/album/0DHKadXfnYCAXp28F3HI8U"
       },
@@ -473,6 +545,24 @@
       "duration_ms": 204653,
       "name": "Dancing In The Moonlight (It's Caught Me In It's Spotlight)",
       "url": "https://open.spotify.com/track/6BmzbaB08O0FjHXeS0cR5b"
+    },
+    {
+      "album": {
+        "name": "Watch",
+        "url": "https://open.spotify.com/album/2uSmnaASa15RBkp3wKqMmk"
+      },
+      "artists": [
+        {
+          "name": "Manfred Mann's Earth Band",
+          "url": "https://open.spotify.com/artist/2utNxkLhreF1oIfO8kQT3q"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 354933,
+      "name": "Davy's On The Road Again",
+      "url": "https://open.spotify.com/track/0AYhsErBaLgKL2qYNhHTZj"
     },
     {
       "album": {
@@ -667,7 +757,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 230173,
       "name": "Get Down and Get With It",
       "url": "https://open.spotify.com/track/3rEUXKfkeb6kPH6NCxkgCo"
@@ -703,7 +793,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-27",
+      "date_removed": "2022-11-13",
       "duration_ms": 205440,
       "name": "Girls Talk",
       "url": "https://open.spotify.com/track/7vjs7IWQlxfhlxSYsKbKB6"
@@ -782,6 +872,24 @@
     },
     {
       "album": {
+        "name": "Let It Roll - Songs Of George Harrison",
+        "url": "https://open.spotify.com/album/1aswOMHGBTkp0MsSVIn2YU"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 215266,
+      "name": "Give Me Love (Give Me Peace On Earth) - 2009 Mix",
+      "url": "https://open.spotify.com/track/09VtDFWlxC9v9tyRnmpGPl"
+    },
+    {
+      "album": {
         "name": "Rumours",
         "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
       },
@@ -833,6 +941,24 @@
       "duration_ms": 173173,
       "name": "Good Old-Fashioned Lover Boy - Remastered 2011",
       "url": "https://open.spotify.com/track/1n7xFAY4xoPeqRvrkzAtsw"
+    },
+    {
+      "album": {
+        "name": "\u795e\u66f2\u5927\u767e\u79d1 Vol.1",
+        "url": "https://open.spotify.com/album/7HApNyWLjGtGbSyhPK0JrT"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 173173,
+      "name": "Good Old-Fashioned Lover Boy - Remastered 2011",
+      "url": "https://open.spotify.com/track/60GOx8U8PkkVlIG9LlVNNZ"
     },
     {
       "album": {
@@ -919,7 +1045,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 135666,
       "name": "I Love To Boogie",
       "url": "https://open.spotify.com/track/7dc8lqKS2P4Zq59g0yThvH"
@@ -1214,6 +1340,24 @@
     },
     {
       "album": {
+        "name": "Wings Greatest",
+        "url": "https://open.spotify.com/album/3ukVviHMHQj6H1tMjRjrY5"
+      },
+      "artists": [
+        {
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 193840,
+      "name": "Live And Let Die",
+      "url": "https://open.spotify.com/track/6AbaUu4XtHu7pGkPE94Tat"
+    },
+    {
+      "album": {
         "name": "Red Rose Speedway (Archive Collection)",
         "url": "https://open.spotify.com/album/1RzrSgWinUzgsnw3oQDXOy"
       },
@@ -1283,6 +1427,24 @@
       "duration_ms": 241991,
       "name": "Lola - 2020 Stereo Remaster",
       "url": "https://open.spotify.com/track/4ZKgPZ9d4V5WW6H2s4qMD3"
+    },
+    {
+      "album": {
+        "name": "Chart Toppers",
+        "url": "https://open.spotify.com/album/6LhXcT9U6igze3sgwi1sbJ"
+      },
+      "artists": [
+        {
+          "name": "The Kinks",
+          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 241991,
+      "name": "Lola - 2020 Stereo Remaster",
+      "url": "https://open.spotify.com/track/6oric9Y2FfCpI0VFWYIi69"
     },
     {
       "album": {
@@ -1394,6 +1556,24 @@
     },
     {
       "album": {
+        "name": "Pure McCartney (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5ikljNZWFHqZP2M0kKvEWb"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 231573,
+      "name": "Maybe I\u2019m Amazed",
+      "url": "https://open.spotify.com/track/70B7IGHu2yer9GhnVSLRsK"
+    },
+    {
+      "album": {
         "name": "McCartney (Archive Collection)",
         "url": "https://open.spotify.com/album/2lOll0xAGw8FPjwmwopAKT"
       },
@@ -1407,7 +1587,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 229826,
-      "name": "Maybe I\u2019m Amazed - Remastered 2011",
+      "name": "Maybe I\u2019m Amazed - 2011 Remaster",
       "url": "https://open.spotify.com/track/1Qa0Y05al633fG8f9Peytc"
     },
     {
@@ -1499,6 +1679,24 @@
       "duration_ms": 382834,
       "name": "Money",
       "url": "https://open.spotify.com/track/0vFOzaXqZHahrZp6enQwQb"
+    },
+    {
+      "album": {
+        "name": "A Foot in the Door: The Best of Pink Floyd",
+        "url": "https://open.spotify.com/album/53eu9AgHyg3eQNUiePWRHD"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 394159,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/6uPL2Ue1sJKc5tWOrZP3K6"
     },
     {
       "album": {
@@ -1643,6 +1841,24 @@
       "duration_ms": 290933,
       "name": "Over the Hills and Far Away - Remaster",
       "url": "https://open.spotify.com/track/2eDdFHgqNJltzlvlZFVDWd"
+    },
+    {
+      "album": {
+        "name": "An Introduction to Led Zeppelin",
+        "url": "https://open.spotify.com/album/2cqzFuaX52BSIPQT3w05Vm"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 290933,
+      "name": "Over the Hills and Far Away - Remaster",
+      "url": "https://open.spotify.com/track/4SdlPJtSEk4md0qh3BAkMu"
     },
     {
       "album": {
@@ -1819,10 +2035,28 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 318853,
       "name": "Rubber Bullets",
       "url": "https://open.spotify.com/track/1QQgSUKCG8GakzMOwi4lFS"
+    },
+    {
+      "album": {
+        "name": "10cc",
+        "url": "https://open.spotify.com/album/2IGC9reJ6sjS4v5GkifnGt"
+      },
+      "artists": [
+        {
+          "name": "10cc",
+          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318853,
+      "name": "Rubber Bullets",
+      "url": "https://open.spotify.com/track/4Mv4X4ecNuQU7XScbnKJwa"
     },
     {
       "album": {
@@ -1931,6 +2165,24 @@
       "duration_ms": 342173,
       "name": "Smoke on the Water",
       "url": "https://open.spotify.com/track/5SAUIWdZ04OxYfJFDchC7S"
+    },
+    {
+      "album": {
+        "name": "Machine Head (2016 Version)",
+        "url": "https://open.spotify.com/album/3vf9XhG5wL3J0kVZhCEumf"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 339946,
+      "name": "Smoke on the Water - 2012 Remaster",
+      "url": "https://open.spotify.com/track/5JbsyfzMUtqXKgx9s4oqn1"
     },
     {
       "album": {
@@ -2111,7 +2363,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 195973,
       "name": "Take Me Bak 'Ome",
       "url": "https://open.spotify.com/track/6IctRzzSyMt5OtAjPaXgd4"
@@ -2223,6 +2475,24 @@
       "duration_ms": 241426,
       "name": "The Six Teens",
       "url": "https://open.spotify.com/track/46xrHRC88Cg7DquXDvafzw"
+    },
+    {
+      "album": {
+        "name": "Tenology",
+        "url": "https://open.spotify.com/album/5FPOXQ7ssVwLwSxqL4rGYa"
+      },
+      "artists": [
+        {
+          "name": "10cc",
+          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231146,
+      "name": "The Wall Street Shuffle",
+      "url": "https://open.spotify.com/track/4ZREMqESEEloSWGdxJySKC"
     },
     {
       "album": {
@@ -2439,6 +2709,24 @@
       "duration_ms": 170800,
       "name": "You're My Best Friend - Remastered 2011",
       "url": "https://open.spotify.com/track/4OKf7CcYuw5H2HptkcKxcP"
+    },
+    {
+      "album": {
+        "name": "For you, Mom",
+        "url": "https://open.spotify.com/album/4396tmV0CSybeAxn1twvLU"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 172760,
+      "name": "You're My Best Friend - Remastered 2011",
+      "url": "https://open.spotify.com/track/23S8Zh5khUmPc27Zm182iw"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX821Oj2DrHJk"

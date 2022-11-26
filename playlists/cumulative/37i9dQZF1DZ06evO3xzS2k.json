@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 346282,
       "name": "A Fabricated Life",
       "url": "https://open.spotify.com/track/4yIUZfyWZ5T6NiiV0khwzw"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 318813,
       "name": "B&E",
       "url": "https://open.spotify.com/track/3ISyXQ2lSec1yltnvBbEEY"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 177216,
       "name": "Bent Nail",
       "url": "https://open.spotify.com/track/7l3ccltGPIkcICT4u3Cko6"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 323160,
       "name": "Dirty White Glove - DOTB B Side",
       "url": "https://open.spotify.com/track/6TQ6PF2QeAFbIISlYOw0FR"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 263567,
       "name": "Guilty of Everything",
       "url": "https://open.spotify.com/track/4X02SJMsjb6KZkH5QaAXGS"
@@ -422,6 +422,24 @@
     },
     {
       "album": {
+        "name": "The Great Dismal",
+        "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318709,
+      "name": "In Blueberry Memories",
+      "url": "https://open.spotify.com/track/3wjWNCX6ADU9NaOSoRZhSQ"
+    },
+    {
+      "album": {
         "name": "Whirr & Nothing (Split Version)",
         "url": "https://open.spotify.com/album/2wi2jzTXYzL8ospHR52IVo"
       },
@@ -469,7 +487,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 250903,
       "name": "Micha: Those Who Fear Tomorrow",
       "url": "https://open.spotify.com/track/69NyDmiOB8lfgtd1hH3l2S"
@@ -577,7 +595,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 270565,
       "name": "Somersault",
       "url": "https://open.spotify.com/track/1X3RzfQtAcsj3K6QE9l9IO"
@@ -667,7 +685,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 342334,
       "name": "The Great Dismal",
       "url": "https://open.spotify.com/track/6F0PDcBcQuf2zq0EXU9iz6"
@@ -739,7 +757,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 184072,
       "name": "Vapour Trail - Live WKDU Philly 2011",
       "url": "https://open.spotify.com/track/0raKnTjJ0hvTqEpN8Folvh"

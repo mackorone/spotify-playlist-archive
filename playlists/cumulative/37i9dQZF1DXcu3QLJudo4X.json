@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-14",
       "duration_ms": 183800,
       "name": "(I Think) Drowning on Dry Land",
       "url": "https://open.spotify.com/track/4QdQM3OufepusXfhtPL26z"
@@ -221,7 +221,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-04",
+      "date_removed": "2022-11-13",
       "duration_ms": 174560,
       "name": "Caldonia",
       "url": "https://open.spotify.com/track/5E5j6R646UhSlyahYReXwU"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-11-14",
       "duration_ms": 206933,
       "name": "Driftin' Blues",
       "url": "https://open.spotify.com/track/6NjhuVXxEjSsJRqKhVEdFv"
@@ -401,10 +401,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 287933,
       "name": "Five Long Years",
       "url": "https://open.spotify.com/track/6rTKHtkWjoe7pRuyFSwwfX"
+    },
+    {
+      "album": {
+        "name": "From the Cradle",
+        "url": "https://open.spotify.com/album/5P2ZoNb6NJL7P5VexrQOeg"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287933,
+      "name": "Five Long Years",
+      "url": "https://open.spotify.com/track/7mdznHVGqPbcviLMxTJwti"
     },
     {
       "album": {
@@ -441,7 +459,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": "2022-11-13",
       "duration_ms": 281773,
       "name": "Goin' Down Slow",
       "url": "https://open.spotify.com/track/4DIg6Cu5kWVQA3KO2NQpAM"
@@ -863,7 +881,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-02",
+      "date_removed": "2022-11-13",
       "duration_ms": 147840,
       "name": "One Night - Remastered",
       "url": "https://open.spotify.com/track/1FysXGpNQQIf2yhlOoSFfH"
@@ -971,7 +989,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": "2022-11-15",
       "duration_ms": 216106,
       "name": "Sitting On Top Of The World",
       "url": "https://open.spotify.com/track/2YOgkdUHyhEFeYObo3pYHx"

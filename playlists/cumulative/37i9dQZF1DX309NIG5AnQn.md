@@ -4,7 +4,7 @@
 
 > Hay otro sonido y lo encontrás acá\. <br/>Foto: Buenos Vampiros.
 
-86 songs - 4 hr 47 min - [published](https://open.spotify.com/playlist/5FP3dwk8hADhOl8RSWpO0T)
+87 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/5FP3dwk8hADhOl8RSWpO0T)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Soñé](https://open.spotify.com/track/2d6R7kgl5nhJLn71ErZAtv) | [Anthrés](https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4) | [Soñé](https://open.spotify.com/album/5Fq4RZOFCKPFWBete3tCJM) | 2:50 | 2022-03-25 |  |
 | [SSS](https://open.spotify.com/track/65oZKir6ny5i3WSfvb0sYu) | [Adolescentes Sin Edad](https://open.spotify.com/artist/6HBntxIY4gRjp8syM0IEYV) | [SSS](https://open.spotify.com/album/37jCf1bbH4ObPuODgrgrSI) | 2:55 | 2022-03-25 |  |
 | [Todo el Mal](https://open.spotify.com/track/7knGtNtfz5FOPEpBHtxn4h) | [Buenos Vampiros](https://open.spotify.com/artist/3zJriU41e7xy7PVHIhflBo) | [Todo el Mal](https://open.spotify.com/album/0dfayvjKUsbOs8ghUixZpY) | 3:14 | 2022-03-25 |  |
+| [Toxi](https://open.spotify.com/track/2LsDtdyR8SlNWVsRoxADK8) | [Las Luces Primeras](https://open.spotify.com/artist/0jKnrNiJL0MkKtjfOQXNEY) | [Toxi](https://open.spotify.com/album/2q4SXmZTr90weHmEIN8mEa) | 2:33 | 2022-03-25 | 2022-11-14 |
 | [Toxi](https://open.spotify.com/track/2zQFcTriw8DV1ZlajAUWpy) | [Las Luces Primeras](https://open.spotify.com/artist/0jKnrNiJL0MkKtjfOQXNEY) | [Savia Roja](https://open.spotify.com/album/56QgvZNpKS8L7sVkDQyfYW) | 2:33 | 2022-03-25 | 2022-07-29 |
 | [Toxi](https://open.spotify.com/track/3FcI2Prz1qgwXO8CDlGZwF) | [Las Luces Primeras](https://open.spotify.com/artist/0jKnrNiJL0MkKtjfOQXNEY) | [Savia Roja](https://open.spotify.com/album/2bNa2V8YVJKz1gFHUW0t7B) | 2:33 | 2022-03-25 |  |
 | [Transparente \- Lt Session](https://open.spotify.com/track/0z5Grn58q81DPgnQXyoU7b) | [Bicicletas](https://open.spotify.com/artist/1JwKBAe8O6J3z8knUBBIM1) | [Los Transparentes](https://open.spotify.com/album/0bD4ErLB6Z4H05LryfyqeJ) | 5:03 | 2022-03-25 |  |

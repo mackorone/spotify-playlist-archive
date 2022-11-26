@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXau0XrWZpT93.md) - [plain]
 
 > Start your day with these beautiful scores.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,134 likes - 78 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,487 likes - 78 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXau0XrWZpT93.md) - [plain]
 | 8 | [A String in the Night](https://open.spotify.com/track/7dZ3v5DM5NvdviQ66NTcK4) | [Duo Romanza](https://open.spotify.com/artist/4c5bDKFZPlbp3EqDLyk4Hn) | [A String in the Night](https://open.spotify.com/album/2sMWuQaCwsvRsjhc5KIIfH) | 2:02 |
 | 9 | [Rays of light](https://open.spotify.com/track/111YqYUFNPFN75J6qDhT1b) | [Naomi Young](https://open.spotify.com/artist/3i3Kwm6kFNGXpnnJfy8U1r) | [Adagio](https://open.spotify.com/album/7tafxsyYN332LgoNUKDZqh) | 2:28 |
 | 10 | [Under The Stars](https://open.spotify.com/track/0V0w0j63zyFlZTeKsjHF7e) | [Cinespacial](https://open.spotify.com/artist/2Z6ZkwaWC7kYWhQcift8d4) | [Under The Stars](https://open.spotify.com/album/0RyHnHgWSqhXO95qvByvUm) | 3:10 |
-| 11 | [How to Be Invisible](https://open.spotify.com/track/6GEX4BBT1EHwIiO6qkYSUR) | [Thrupence](https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9) | [Piano Works](https://open.spotify.com/album/6k6xZ06qceVGxE3NLPrj5x) | 3:06 |
+| 11 | [How to Be Invisible](https://open.spotify.com/track/4Xfi7e0KgofJ5PgCBBauGf) | [Thrupence](https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9) | [Piano Works](https://open.spotify.com/album/6CNfqzu5WvgJeS2GegpHnp) | 3:06 |
 | 12 | [Quiet](https://open.spotify.com/track/2UcVa056va7cCBfVfw9nm1) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Crossing the Rubicon](https://open.spotify.com/album/5cYUwcGiSuMUBKf7ykzO04) | 2:45 |
 | 13 | [Riposo](https://open.spotify.com/track/2nfCGwzsOxPJPl16g74I5I) | [Calma Flow](https://open.spotify.com/artist/19ImXdXZLbAXcDGgIpN56k) | [Riposo](https://open.spotify.com/album/4QDiZv3kD08DOYlAlzQcPm) | 2:17 |
 | 14 | [Sincerity](https://open.spotify.com/track/3fQdsoPpWz3sbwlvlMfBF3) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Sentient](https://open.spotify.com/album/0tAguXAg4RwGUtle2ngQaQ) | 2:24 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXau0XrWZpT93.md) - [plain]
 | 77 | [Frankenthaler](https://open.spotify.com/track/6fZyNWUtqDD9CXZI4Llh7G) | [Bromeliad](https://open.spotify.com/artist/3XlQzOKje7lZLZhMDnKZz3) | [Frankenthaler](https://open.spotify.com/album/2l8wc98B9kwJpXiQaZ4l35) | 1:45 |
 | 78 | [After the Storm](https://open.spotify.com/track/5NOfvyC7EmTHLlM8jCnDYr) | [HILMA](https://open.spotify.com/artist/5cfA35ok9YlWE032xcI423) | [Echo](https://open.spotify.com/album/4B2lXu2ZUFvgzJt6s7hPY1) | 2:56 |
 
-Snapshot ID: `MTY2MjY4MTYwMCwwMDAwMDAwMDViMDA2OTBkNGFlNzdkMWQxZDlmYjQ4ZjM4YmEyOGE5`
+Snapshot ID: `MTY2MjY4MTYwMCwwMDAwMDAwMDRlYzkyMTk5OWJjMzY0YjBkNWNjMzUzMmNhNjAyOTJh`

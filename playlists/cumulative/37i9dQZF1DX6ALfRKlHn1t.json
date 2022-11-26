@@ -401,7 +401,7 @@
       ],
       "date_added": "2021-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 205226,
       "name": "Bad News",
       "url": "https://open.spotify.com/track/4jsaqIdJ3P6lJ68jRdDVyZ"
@@ -617,7 +617,7 @@
       ],
       "date_added": "2021-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": "2022-11-13",
       "duration_ms": 243173,
       "name": "Celebrate",
       "url": "https://open.spotify.com/track/26IEVYmeFletNA10cOkdBb"
@@ -639,6 +639,24 @@
       "duration_ms": 211226,
       "name": "Changes",
       "url": "https://open.spotify.com/track/1OJg6070T1v5dVZoU8uj0m"
+    },
+    {
+      "album": {
+        "name": "Under The Shade of Green",
+        "url": "https://open.spotify.com/album/7zDlksfOktU7vodm08KPsb"
+      },
+      "artists": [
+        {
+          "name": "The Happy Fits",
+          "url": "https://open.spotify.com/artist/73rPcaYEhBd0UuVZBqqyQJ"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211226,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/5RdHkLxnVnj1RZndX1Sj1T"
     },
     {
       "album": {
@@ -921,7 +939,7 @@
       ],
       "date_added": "2021-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 227053,
       "name": "Day Dreaming",
       "url": "https://open.spotify.com/track/5NbyidjQ7pvTWdEVOUFcT3"
@@ -1199,7 +1217,7 @@
       ],
       "date_added": "2021-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": "2022-11-13",
       "duration_ms": 221640,
       "name": "Firebird",
       "url": "https://open.spotify.com/track/29UccmEOSp9Zb4YTdPk8Ks"
@@ -1314,6 +1332,32 @@
     },
     {
       "album": {
+        "name": "True Colour",
+        "url": "https://open.spotify.com/album/1cyOlB789kiQTJtkkv1Htn"
+      },
+      "artists": [
+        {
+          "name": "The Terrys",
+          "url": "https://open.spotify.com/artist/4quStFmDD9EH5uSJQz4oLS"
+        },
+        {
+          "name": "Esoterik",
+          "url": "https://open.spotify.com/artist/09NAbswyxDbzblZovO1XcQ"
+        },
+        {
+          "name": "Scraps",
+          "url": "https://open.spotify.com/artist/4xKRehjx1as1IPImlKDta8"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 188304,
+      "name": "Good Day",
+      "url": "https://open.spotify.com/track/2zwmQwHIlwDBbzMkdrG8rw"
+    },
+    {
+      "album": {
         "name": "Follow Your Heart",
         "url": "https://open.spotify.com/album/5ASwxssTkz7SW7WdaGviYR"
       },
@@ -1365,6 +1409,24 @@
       "duration_ms": 203912,
       "name": "Good Feeling",
       "url": "https://open.spotify.com/track/69mUNSadIZmIlrpAqss2oB"
+    },
+    {
+      "album": {
+        "name": "Big Mess",
+        "url": "https://open.spotify.com/album/6OTry12C08dF4Snq4rcE6E"
+      },
+      "artists": [
+        {
+          "name": "Grouplove",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 219560,
+      "name": "Good Morning",
+      "url": "https://open.spotify.com/track/1lbWbnWiEbAya5FlCzfsrq"
     },
     {
       "album": {
@@ -1505,7 +1567,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 176761,
       "name": "Heavy as Lead",
       "url": "https://open.spotify.com/track/59HQVKZfaKycUzRTtp1zDO"
@@ -1705,6 +1767,24 @@
     {
       "album": {
         "name": "Jungle (Radio Edit)",
+        "url": "https://open.spotify.com/album/0O6n01xArsUl4MTRAwTxLX"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 236876,
+      "name": "Jungle (Radio Edit)",
+      "url": "https://open.spotify.com/track/7dEGgbP5Ld5mQfbpiwDjoe"
+    },
+    {
+      "album": {
+        "name": "Jungle (Radio Edit)",
         "url": "https://open.spotify.com/album/2peYRO0S43aoxn8N3E4qAU"
       },
       "artists": [
@@ -1733,7 +1813,7 @@
       ],
       "date_added": "2021-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": "2022-11-13",
       "duration_ms": 230738,
       "name": "Levitate",
       "url": "https://open.spotify.com/track/6nlA3j4n3KAY8AgEGmos2o"
@@ -1921,7 +2001,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 243373,
       "name": "Mama Please Don't Worry",
       "url": "https://open.spotify.com/track/1uB095Io7q4aYT2BOhYjWA"
@@ -1957,7 +2037,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 197200,
       "name": "Memory",
       "url": "https://open.spotify.com/track/21kvruyJddCLQguDk9oklX"
@@ -2137,7 +2217,7 @@
       ],
       "date_added": "2021-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-03",
+      "date_removed": "2022-11-23",
       "duration_ms": 213797,
       "name": "No Type",
       "url": "https://open.spotify.com/track/4fxtYgcIOqjCq9Ix1pvrzn"
@@ -2173,7 +2253,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 253165,
       "name": "Only the Wild Ones",
       "url": "https://open.spotify.com/track/0ErpHxNt1kTyCQGlh43wr1"
@@ -2195,6 +2275,24 @@
       "duration_ms": 253165,
       "name": "Only the Wild Ones",
       "url": "https://open.spotify.com/track/2acbW2I3x82OmRfKdV4hZq"
+    },
+    {
+      "album": {
+        "name": "America, Location 12",
+        "url": "https://open.spotify.com/album/4aWKSKDk0EKPuyv3IsTrsw"
+      },
+      "artists": [
+        {
+          "name": "DISPATCH",
+          "url": "https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253165,
+      "name": "Only the Wild Ones",
+      "url": "https://open.spotify.com/track/3LwjMORRPuf7j7WiFHW350"
     },
     {
       "album": {
@@ -2267,7 +2365,7 @@
       ],
       "date_added": "2021-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 243413,
       "name": "Painting (Masterpiece)",
       "url": "https://open.spotify.com/track/7kmSIKAk4VHP4QUjpBPbGg"
@@ -2600,6 +2698,42 @@
     },
     {
       "album": {
+        "name": "In The Wind",
+        "url": "https://open.spotify.com/album/7tSccVmXBn6RyHKoeKgKIv"
+      },
+      "artists": [
+        {
+          "name": "MAGIC GIANT",
+          "url": "https://open.spotify.com/artist/7eaa5bidliPI0djFYv166f"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215653,
+      "name": "Set On Fire",
+      "url": "https://open.spotify.com/track/49YNXgHWiNSxz2wGtXCVZ7"
+    },
+    {
+      "album": {
+        "name": "Noise in the Forest",
+        "url": "https://open.spotify.com/album/5RmlPHpfwvI64T3tXk5crf"
+      },
+      "artists": [
+        {
+          "name": "Ripe",
+          "url": "https://open.spotify.com/artist/19lQ2rJLlP71FOKESiMNJT"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 188316,
+      "name": "Settling",
+      "url": "https://open.spotify.com/track/5s91AbQ7z3mE3tT9J0l5my"
+    },
+    {
+      "album": {
         "name": "Settling",
         "url": "https://open.spotify.com/album/6ZWVafX159Z2jQP3UW5PsR"
       },
@@ -2723,6 +2857,24 @@
       "duration_ms": 243146,
       "name": "Sit Next to Me",
       "url": "https://open.spotify.com/track/4BdGO1CaObRD4La9l5Zanz"
+    },
+    {
+      "album": {
+        "name": "Future Shine",
+        "url": "https://open.spotify.com/album/39Cn6MAkfo6qIKehVcZrdX"
+      },
+      "artists": [
+        {
+          "name": "flor",
+          "url": "https://open.spotify.com/artist/0szWPxzzE8DVEfXFRCLBUb"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 173363,
+      "name": "Skate",
+      "url": "https://open.spotify.com/track/0TMP3bNq86pf0wBS06GlAA"
     },
     {
       "album": {
@@ -3001,7 +3153,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 211040,
       "name": "Sunshine Time",
       "url": "https://open.spotify.com/track/08ag3RWt1LlRWDFU44XSss"
@@ -3351,7 +3503,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": "2022-11-13",
       "duration_ms": 198840,
       "name": "U&ME",
       "url": "https://open.spotify.com/track/1jyN2jROkI3dR6UbnkDPrp"
@@ -3373,7 +3525,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-22",
+      "date_removed": "2022-11-14",
       "duration_ms": 161068,
       "name": "Upgrade",
       "url": "https://open.spotify.com/track/0kr277qNoo4QBUDjzPiSe2"
@@ -3537,6 +3689,24 @@
     {
       "album": {
         "name": "Tourist History",
+        "url": "https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191706,
+      "name": "What You Know",
+      "url": "https://open.spotify.com/track/3GBApU0NuzH4hKZq4NOSdA"
+    },
+    {
+      "album": {
+        "name": "Tourist History",
         "url": "https://open.spotify.com/album/0SD7kwnJEC2oDzQBKEHQnH"
       },
       "artists": [
@@ -3547,7 +3717,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 191706,
       "name": "What You Know",
       "url": "https://open.spotify.com/track/3UjtIALeg72qmJiKPWBvM3"

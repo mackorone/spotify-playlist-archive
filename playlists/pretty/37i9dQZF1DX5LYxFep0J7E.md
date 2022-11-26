@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LYxFep0J7E.md) - [plain]
 
 > Jazz favorites from 2021\. Cover: Julius Rodriguez
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,654 likes - 62 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,015 likes - 62 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LYxFep0J7E.md) - [plain]
 | 58 | [Sweet Shop](https://open.spotify.com/track/20HMqgKY9meQbTRdPo4dhS) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Kaidi & NK\-OK](https://open.spotify.com/artist/7jDA84G7dkwJAGstQhFbhd), [NK\-OK](https://open.spotify.com/artist/0X4mN9O6iEpMyA0O1WrQLn), [Kaidi Akinnibi](https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ) | [The Sounds of Afrotronica](https://open.spotify.com/album/0NP9PKuMhqFWiVl6fpZlKI) | 3:50 |
 | 59 | [Ethiopian Sunshower](https://open.spotify.com/track/0Qy5s2UYXWSbejiIxsTRtV) | [Brian Jackson](https://open.spotify.com/artist/2UXhlYaVdXWvO950p0wwrU), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Brian Jackson JID008](https://open.spotify.com/album/4LxaxgNi6hr38oYW1GGYNA) | 3:07 |
 | 60 | [Letter for Paul \(feat\. Chris Potter, Jon Cowherd, Marcus Gilmore & Rogerio Boccato\)](https://open.spotify.com/track/3stEH9HPia2bpfoZ6LhOaR) | [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH), [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB), [Jon Cowherd](https://open.spotify.com/artist/1CfUXWkyKLaI4IyJ6ul9NE), [Marcus Gilmore](https://open.spotify.com/artist/1caVPl46Ta6C8DYns5AAuo), [Rogerio Boccato](https://open.spotify.com/artist/4o7gEQWwzhUvcepiz3klAe) | [Letter for Paul \(feat\. Chris Potter, Jon Cowherd, Marcus Gilmore & Rogerio Boccato\)](https://open.spotify.com/album/4oz7MSG5MJrIlxDLW7fF75) | 5:30 |
-| 61 | [Dumb People](https://open.spotify.com/track/0bLLEb8lkYeyK7gqiilVy4) | [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr), [Harry Pope](https://open.spotify.com/artist/6HEABwt9mukkCM55kzNhV0) | [Dumb People](https://open.spotify.com/album/1iEOCeBsOTXhzHALELmghm) | 2:56 |
+| 61 | [Dumb People](https://open.spotify.com/track/2IxW3yFjt06I0g1tTLqBgD) | [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr), [Harry Pope](https://open.spotify.com/artist/6HEABwt9mukkCM55kzNhV0) | [Travels in a Confined Space](https://open.spotify.com/album/5cFixhDPlvQ6IFX1XKyDZ2) | 2:56 |
 | 62 | [Nascentia Suite: All Up in It \(feat\. Jeremy Pelt & Clark Gayton\)](https://open.spotify.com/track/4HgeqSM6txLTsaneFrfDNU) | [Steve Slagle](https://open.spotify.com/artist/4VzhvQxwHNiqdCnUHZsprs), [Jeremy Pelt](https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX), [Clark Gayton](https://open.spotify.com/artist/4pNVrj94ZiFangbDh50OlI) | [Nascentia Suite: All up in It \(feat\. Jeremy Pelt & Clark Gayton\)](https://open.spotify.com/album/7N21V8876vqUT8vmlD8SdL) | 8:14 |
 
-Snapshot ID: `MTYzODM2NjQ4MCwwMDAwMDAwMDgxOGYzZWI1MmIwNjA3MmY2NGZjNzBiYjY3ZWZiNDI1`
+Snapshot ID: `MTYzODM2NjQ4MCwwMDAwMDAwMDczMzk2ZTY0MTExZjk5YTBjMWNlYjA1NGE5ZmZmNDcx`

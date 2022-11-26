@@ -62,6 +62,28 @@
     },
     {
       "album": {
+        "name": "Refe Matla",
+        "url": "https://open.spotify.com/album/3GaxO1raa0cySNEF0ZnCC8"
+      },
+      "artists": [
+        {
+          "name": "Pure Gold",
+          "url": "https://open.spotify.com/artist/3EDFeCAmLSVbMJZJBZj05z"
+        },
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296733,
+      "name": "Dikonyana",
+      "url": "https://open.spotify.com/track/2v3m71lnJIB8GPeMdnjVlx"
+    },
+    {
+      "album": {
         "name": "Legends",
         "url": "https://open.spotify.com/album/0RDdkzqoqSDVle30Cn4csO"
       },
@@ -77,6 +99,28 @@
       "duration_ms": 308880,
       "name": "Duma Duma",
       "url": "https://open.spotify.com/track/5n0eOWrxigMiLqaSdUJIk9"
+    },
+    {
+      "album": {
+        "name": "Hamba Sathane",
+        "url": "https://open.spotify.com/album/1mNSmtT55yrOH4TFCdQJtJ"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        },
+        {
+          "name": "Pure Gold",
+          "url": "https://open.spotify.com/artist/3EDFeCAmLSVbMJZJBZj05z"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-31",
+      "duration_ms": 279866,
+      "name": "Elakho Likhona (La Hao Le Teng)",
+      "url": "https://open.spotify.com/track/1oLm476hsQ2fEBx468IukC"
     },
     {
       "album": {
@@ -257,7 +301,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 304133,
       "name": "Kutheni",
       "url": "https://open.spotify.com/track/0qrJ1ifPy3j0pUhYx6Lsfh"
@@ -336,6 +380,24 @@
     },
     {
       "album": {
+        "name": "Myekeleni",
+        "url": "https://open.spotify.com/album/7chQEP3pHqRHTnm3egstPL"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263093,
+      "name": "Mama I'm Sorry",
+      "url": "https://open.spotify.com/track/1Tuh0lfagSr2ggyZXyWofx"
+    },
+    {
+      "album": {
         "name": "Gimme Some Volume",
         "url": "https://open.spotify.com/album/0mZUadtsJA1ax3WHtX8oAO"
       },
@@ -383,7 +445,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 265866,
       "name": "Memeza",
       "url": "https://open.spotify.com/track/3PCKM1x8qKIMjApmC6u2Ze"
@@ -761,7 +823,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 292440,
       "name": "Shoot Them Before They Grow",
       "url": "https://open.spotify.com/track/7zpKc24gsz4QrNSbl70B32"
@@ -879,7 +941,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 348893,
-      "name": "The Lord Is My Sheperd",
+      "name": "The Lord Is My Shepherd",
       "url": "https://open.spotify.com/track/2oaBWSFWKd5Nc3c0cE2pLE"
     },
     {
@@ -895,7 +957,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 226000,
       "name": "The Lord Is My Shepherd - Live From South Africa/2009 / Remix",
       "url": "https://open.spotify.com/track/2DsqX7kQXv60ALp6jHVF0R"

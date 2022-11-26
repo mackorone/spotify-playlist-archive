@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "A Foggy Day",
+        "url": "https://open.spotify.com/album/5kuWXsGJ1R1BNXzUwl6MIS"
+      },
+      "artists": [
+        {
+          "name": "Michael Reiss",
+          "url": "https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303479,
+      "name": "A Foggy Day",
+      "url": "https://open.spotify.com/track/4UtGtDJpkscJil25b273Vu"
+    },
+    {
+      "album": {
         "name": "Uptown Groove",
         "url": "https://open.spotify.com/album/1b49v9x3oQNtGv3NBI3Rjq"
       },
@@ -196,6 +214,24 @@
     },
     {
       "album": {
+        "name": "Blue Nights",
+        "url": "https://open.spotify.com/album/0vhl5DqH30xs6lj7V1QzNO"
+      },
+      "artists": [
+        {
+          "name": "Jonnie Snoilsky",
+          "url": "https://open.spotify.com/artist/5ycCOf6NSQtvIFdrscOuU4"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158568,
+      "name": "Blue Nights",
+      "url": "https://open.spotify.com/track/4nQkcnKRluoyu2UfanfqWX"
+    },
+    {
+      "album": {
         "name": "Guitar",
         "url": "https://open.spotify.com/album/1k1BDnn6ynbeFG5ts58NRI"
       },
@@ -211,6 +247,24 @@
       "duration_ms": 294413,
       "name": "Blues 'Fore Dawn - Instrumental",
       "url": "https://open.spotify.com/track/3zVx7964ROy15h1lC7fhzD"
+    },
+    {
+      "album": {
+        "name": "Blues Masters: Pee Wee Crayton",
+        "url": "https://open.spotify.com/album/3fZa1iAXkV4fPH91EdBmTM"
+      },
+      "artists": [
+        {
+          "name": "Pee Wee Crayton",
+          "url": "https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 309185,
+      "name": "Blues After Hours",
+      "url": "https://open.spotify.com/track/3leJdx93IHBZilIUu4ROEp"
     },
     {
       "album": {
@@ -450,6 +504,24 @@
     },
     {
       "album": {
+        "name": "Desert Flower Blues",
+        "url": "https://open.spotify.com/album/2nLCI1N0Ftgvd0EdNupPV4"
+      },
+      "artists": [
+        {
+          "name": "Atacustico",
+          "url": "https://open.spotify.com/artist/0rvubIwf5v5p5KqyCuVZmk"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175231,
+      "name": "Desert Flower Blues",
+      "url": "https://open.spotify.com/track/6eT8Gtpe0T2Q79CTCYGiWe"
+    },
+    {
+      "album": {
         "name": "Essential Blues",
         "url": "https://open.spotify.com/album/13I1hgOYUQTqPLpk0sGnO5"
       },
@@ -469,6 +541,24 @@
     {
       "album": {
         "name": "I Feel Like Goin' On",
+        "url": "https://open.spotify.com/album/1bL29VZ8p2Q7ZYG0QTJAQL"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Earl",
+          "url": "https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443360,
+      "name": "Donna",
+      "url": "https://open.spotify.com/track/23ozU0cVhWspGJpd84NQHi"
+    },
+    {
+      "album": {
+        "name": "I Feel Like Goin' On",
         "url": "https://open.spotify.com/album/3U9o8VvSeoHjydNyvoJF9K"
       },
       "artists": [
@@ -479,7 +569,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 443360,
       "name": "Donna",
       "url": "https://open.spotify.com/track/2pypgWd8ZbLYwyMsPXPai1"
@@ -639,6 +729,24 @@
     {
       "album": {
         "name": "Deep in the Pocket",
+        "url": "https://open.spotify.com/album/5biMirupjO0D7M8lOetEid"
+      },
+      "artists": [
+        {
+          "name": "Pablo Queu",
+          "url": "https://open.spotify.com/artist/6unlzVywR1plttUTcFVltU"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119208,
+      "name": "Guitar Interlude in Bb",
+      "url": "https://open.spotify.com/track/2Ou90Hssj1tD2k2rintpgE"
+    },
+    {
+      "album": {
+        "name": "Deep in the Pocket",
         "url": "https://open.spotify.com/album/2PXYPnt5dgNToCoASzy9ii"
       },
       "artists": [
@@ -649,7 +757,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 119208,
       "name": "Guitar Interlude in Bb",
       "url": "https://open.spotify.com/track/3KTfFNKOAHsFhuKNX90tbT"
@@ -671,6 +779,24 @@
       "duration_ms": 176748,
       "name": "Home Alone",
       "url": "https://open.spotify.com/track/1IWK7wCyYkUiTbY78KE0jr"
+    },
+    {
+      "album": {
+        "name": "The Route Home",
+        "url": "https://open.spotify.com/album/1YUBztLYPkoYS0RuIJpPfn"
+      },
+      "artists": [
+        {
+          "name": "Joey Michels",
+          "url": "https://open.spotify.com/artist/3qUyntPn9GxNrskcMrDaaQ"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133891,
+      "name": "Howlin' For You",
+      "url": "https://open.spotify.com/track/66YQ2ghOLvlI2s8B4SqgzY"
     },
     {
       "album": {
@@ -1006,6 +1132,24 @@
     },
     {
       "album": {
+        "name": "Purple Skies",
+        "url": "https://open.spotify.com/album/6GzaE8sjbYXbUKEKYurLiY"
+      },
+      "artists": [
+        {
+          "name": "Val Monroe",
+          "url": "https://open.spotify.com/artist/3R4gAfhxiN6cGlyueGErFo"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133683,
+      "name": "Purple Skies",
+      "url": "https://open.spotify.com/track/0TM2u2DKglzh1RYTarLjOt"
+    },
+    {
+      "album": {
         "name": "Blue Fix",
         "url": "https://open.spotify.com/album/2P6Fu4EqitlskRVpyosR16"
       },
@@ -1240,6 +1384,24 @@
     },
     {
       "album": {
+        "name": "Song for Larry",
+        "url": "https://open.spotify.com/album/5dZ5QbU90PkLlK3wFMftoR"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Wallace",
+          "url": "https://open.spotify.com/artist/4HMISu0fTx7P2ScxS4v9bz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75964,
+      "name": "Song for Larry",
+      "url": "https://open.spotify.com/track/2ooG0w8m3yAcGpY77bPbdC"
+    },
+    {
+      "album": {
         "name": "Ein Blick",
         "url": "https://open.spotify.com/album/7rjXWcL9kIqmAMsa9aWRel"
       },
@@ -1251,10 +1413,28 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 340389,
       "name": "Soo Soo",
       "url": "https://open.spotify.com/track/0EzT3qO62R3kFqQGpctHcM"
+    },
+    {
+      "album": {
+        "name": "Ein Blick",
+        "url": "https://open.spotify.com/album/7x4IzBaABfeN8i6OD7NnJN"
+      },
+      "artists": [
+        {
+          "name": "El\u00e8nne",
+          "url": "https://open.spotify.com/artist/5bv2uGb0NPkGoYRa5m82Wv"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340389,
+      "name": "Soo Soo",
+      "url": "https://open.spotify.com/track/2sZxRxTAZIIWqBQzbWNSrf"
     },
     {
       "album": {
@@ -1294,6 +1474,24 @@
     },
     {
       "album": {
+        "name": "South Bound",
+        "url": "https://open.spotify.com/album/167ijXAsdSVBFkQdl679kB"
+      },
+      "artists": [
+        {
+          "name": "Joey Michels",
+          "url": "https://open.spotify.com/artist/3qUyntPn9GxNrskcMrDaaQ"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139166,
+      "name": "South Bound",
+      "url": "https://open.spotify.com/track/7llVeNGB92oOl4xeooJGq0"
+    },
+    {
+      "album": {
         "name": "Bad Habits",
         "url": "https://open.spotify.com/album/5i3UxTh2U1lcAxpspXmxDG"
       },
@@ -1327,6 +1525,60 @@
       "duration_ms": 258773,
       "name": "Speechless",
       "url": "https://open.spotify.com/track/1DOf7lJ4tKA4qNUwehfjFI"
+    },
+    {
+      "album": {
+        "name": "Still Got The Blues",
+        "url": "https://open.spotify.com/album/6KNEue6nASqNeY5nqxopqo"
+      },
+      "artists": [
+        {
+          "name": "Josh Henning",
+          "url": "https://open.spotify.com/artist/3E7euSFqjyYvuAzF69w1Zk"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145224,
+      "name": "Still Got The Blues",
+      "url": "https://open.spotify.com/track/3FoR0WRuAfkyST4XFJaxXh"
+    },
+    {
+      "album": {
+        "name": "Stormy Sea",
+        "url": "https://open.spotify.com/album/6WSj8xhmmO7riEXhzvGE4p"
+      },
+      "artists": [
+        {
+          "name": "Val Monroe",
+          "url": "https://open.spotify.com/artist/3R4gAfhxiN6cGlyueGErFo"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164191,
+      "name": "Stormy Sea",
+      "url": "https://open.spotify.com/track/5sRBN3gSOlHizpDLn7hLJo"
+    },
+    {
+      "album": {
+        "name": "Sturdy Star",
+        "url": "https://open.spotify.com/album/1F8EXbWYAq1NHR9Y9aGZYQ"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Wallace",
+          "url": "https://open.spotify.com/artist/4HMISu0fTx7P2ScxS4v9bz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152374,
+      "name": "Sturdy Star",
+      "url": "https://open.spotify.com/track/5baWJQIakBdVLrBUBKWyER"
     },
     {
       "album": {
@@ -1406,6 +1658,24 @@
     },
     {
       "album": {
+        "name": "The Route Home",
+        "url": "https://open.spotify.com/album/1YUBztLYPkoYS0RuIJpPfn"
+      },
+      "artists": [
+        {
+          "name": "Joey Michels",
+          "url": "https://open.spotify.com/artist/3qUyntPn9GxNrskcMrDaaQ"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176550,
+      "name": "The Route Home",
+      "url": "https://open.spotify.com/track/1DdyCpQHozMxfuQnV0Nkvc"
+    },
+    {
+      "album": {
         "name": "Blues Ain't a Color",
         "url": "https://open.spotify.com/album/2zMqZ4gu3kmRZAY1l8XpxO"
       },
@@ -1439,6 +1709,42 @@
       "duration_ms": 181840,
       "name": "Tracks and Lines - 2000 Remaster",
       "url": "https://open.spotify.com/track/2E5QCoyvDTM7oLJpF6K2wc"
+    },
+    {
+      "album": {
+        "name": "Train Ride",
+        "url": "https://open.spotify.com/album/2IJcIF95WPnyh0CAwqDBcI"
+      },
+      "artists": [
+        {
+          "name": "Josh Henning",
+          "url": "https://open.spotify.com/artist/3E7euSFqjyYvuAzF69w1Zk"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176200,
+      "name": "Train Ride",
+      "url": "https://open.spotify.com/track/2kuGJ5Dfda4zr6j3AtSU4m"
+    },
+    {
+      "album": {
+        "name": "Stormy Sea",
+        "url": "https://open.spotify.com/album/6WSj8xhmmO7riEXhzvGE4p"
+      },
+      "artists": [
+        {
+          "name": "Val Monroe",
+          "url": "https://open.spotify.com/artist/3R4gAfhxiN6cGlyueGErFo"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122924,
+      "name": "Twin Cities Blues",
+      "url": "https://open.spotify.com/track/5QTNOAonSo9nw9mYNjb07R"
     },
     {
       "album": {

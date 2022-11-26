@@ -84,6 +84,24 @@
     },
     {
       "album": {
+        "name": "Animal Remixes",
+        "url": "https://open.spotify.com/album/1QR3ok2BgBhCicv4DQOhuH"
+      },
+      "artists": [
+        {
+          "name": "Miike Snow",
+          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
+        }
+      ],
+      "date_added": "2021-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 271106,
+      "name": "Animal - Mark Ronson Remix",
+      "url": "https://open.spotify.com/track/1jsdtlKxAPYSVKwqsIJGLb"
+    },
+    {
+      "album": {
         "name": "Miike Snow",
         "url": "https://open.spotify.com/album/1AMTbO4k2kPRAn6udg9qJz"
       },
@@ -403,7 +421,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-04",
+      "date_removed": null,
       "duration_ms": 260106,
       "name": "I Shall Be Released",
       "url": "https://open.spotify.com/track/2fBj4QAaXUcx9EL3bPzwGt"
@@ -483,6 +501,24 @@
       "duration_ms": 211000,
       "name": "Jamming",
       "url": "https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl"
+    },
+    {
+      "album": {
+        "name": "Legend (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/04VRfesff9bgDA2Q8J2oDo"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2021-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 212640,
+      "name": "Jamming",
+      "url": "https://open.spotify.com/track/0NDJeqkaT4a7WlC3Uj2ig5"
     },
     {
       "album": {
@@ -653,7 +689,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-06",
+      "date_removed": "2022-11-13",
       "duration_ms": 238576,
       "name": "Pressure (feat. Buju Banton) - Remix",
       "url": "https://open.spotify.com/track/3mjsWpaYzIWJQcYgO7VtUA"
@@ -671,7 +707,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 173493,
       "name": "Pressure Drop - Single Version",
       "url": "https://open.spotify.com/track/2GImcOxFZ0GP49rmPnPOjT"

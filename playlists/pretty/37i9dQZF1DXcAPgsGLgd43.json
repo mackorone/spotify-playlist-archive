@@ -1,12 +1,12 @@
 {
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
-  "num_followers": 1871,
+  "num_followers": 2174,
   "original_name": "Alma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTU4OTc5NCwwMDAwMDAwMGFkYWRmNzZhYTMzZTNmMDE3NTdjZjNkMmVjNWFhNDZk",
+  "snapshot_id": "MTY1MTU4OTc5NCwwMDAwMDAwMDcxZWU5MWQ5ZGRhMzE4MDMxZGE4NTliZmY1MzE1MjA5",
   "tracks": [
     {
       "added_at": "2022-02-11 17:33:41",
@@ -195,26 +195,6 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Venezuela",
-        "url": "https://open.spotify.com/album/3acHknTBxqObDuCc4IMbu9"
-      },
-      "artists": [
-        {
-          "name": "Tom Budin",
-          "url": "https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt"
-        },
-        {
-          "name": "Rave Radio",
-          "url": "https://open.spotify.com/artist/7JrHNXd3zMD7xTFFhvnoyN"
-        }
-      ],
-      "duration_ms": 156272,
-      "name": "Venezuela",
-      "url": "https://open.spotify.com/track/0ZnMzSoVfqDRzXgagCOlKZ"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
         "name": "Mi Casa",
         "url": "https://open.spotify.com/album/1CLz2LKEShUpzhylJcaEHt"
       },
@@ -235,6 +215,26 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
+        "name": "Venezuela",
+        "url": "https://open.spotify.com/album/3acHknTBxqObDuCc4IMbu9"
+      },
+      "artists": [
+        {
+          "name": "Tom Budin",
+          "url": "https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt"
+        },
+        {
+          "name": "Rave Radio",
+          "url": "https://open.spotify.com/artist/7JrHNXd3zMD7xTFFhvnoyN"
+        }
+      ],
+      "duration_ms": 156272,
+      "name": "Venezuela",
+      "url": "https://open.spotify.com/track/0ZnMzSoVfqDRzXgagCOlKZ"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
         "name": "Puerto Rico",
         "url": "https://open.spotify.com/album/5uAyqWPXo6H3fpWa9T433G"
       },
@@ -249,24 +249,20 @@
       "url": "https://open.spotify.com/track/4AOCixIsN5aoszu3dcwalf"
     },
     {
-      "added_at": "2021-10-08 15:53:55",
+      "added_at": "2021-12-03 21:38:02",
       "album": {
-        "name": "Tuyo",
-        "url": "https://open.spotify.com/album/53ZzWR211mpgiMr6usGH4W"
+        "name": "Overtime / Physically",
+        "url": "https://open.spotify.com/album/5Y3RzD6ncjJQ8TKh1PKIED"
       },
       "artists": [
         {
-          "name": "Jack Villa",
-          "url": "https://open.spotify.com/artist/0l7O0oybr784STfyacus4o"
-        },
-        {
-          "name": "George Z",
-          "url": "https://open.spotify.com/artist/5IewgFvCqYIYpf660mYVqo"
+          "name": "JADED",
+          "url": "https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf"
         }
       ],
-      "duration_ms": 190987,
-      "name": "Tuyo",
-      "url": "https://open.spotify.com/track/0FrP64eh0yTC3uDVsq0wG4"
+      "duration_ms": 168501,
+      "name": "Overtime",
+      "url": "https://open.spotify.com/track/3hOWWujfSbRwkxgpW1WXYy"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -295,22 +291,42 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Party's Jumpin",
-        "url": "https://open.spotify.com/album/0ipSLNiyPij1uJ8mbcRyFy"
+        "name": "Tuyo",
+        "url": "https://open.spotify.com/album/53ZzWR211mpgiMr6usGH4W"
       },
       "artists": [
         {
-          "name": "Joshwa",
-          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+          "name": "Jack Villa",
+          "url": "https://open.spotify.com/artist/0l7O0oybr784STfyacus4o"
         },
         {
-          "name": "Ossey James",
-          "url": "https://open.spotify.com/artist/5Krv6spDHbLWdNMtyTdRpX"
+          "name": "George Z",
+          "url": "https://open.spotify.com/artist/5IewgFvCqYIYpf660mYVqo"
         }
       ],
-      "duration_ms": 175238,
-      "name": "Party's Jumpin",
-      "url": "https://open.spotify.com/track/11mmDbwTvh67lHK8jEv53i"
+      "duration_ms": 190987,
+      "name": "Tuyo",
+      "url": "https://open.spotify.com/track/0FrP64eh0yTC3uDVsq0wG4"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "Witch Doctor",
+        "url": "https://open.spotify.com/album/7etpucnkFPkpi89M5CCdu4"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Nic Fanciulli",
+          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Witch Doctor",
+      "url": "https://open.spotify.com/track/4lWGhzUW3dTPDMX9EII1Fc"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -331,6 +347,26 @@
       "duration_ms": 139047,
       "name": "Mamacita",
       "url": "https://open.spotify.com/track/0JhRhQYoZKUG3WxKiLpt2k"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "Party's Jumpin",
+        "url": "https://open.spotify.com/album/0ipSLNiyPij1uJ8mbcRyFy"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        },
+        {
+          "name": "Ossey James",
+          "url": "https://open.spotify.com/artist/5Krv6spDHbLWdNMtyTdRpX"
+        }
+      ],
+      "duration_ms": 175238,
+      "name": "Party's Jumpin",
+      "url": "https://open.spotify.com/track/11mmDbwTvh67lHK8jEv53i"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -367,38 +403,22 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Witch Doctor",
-        "url": "https://open.spotify.com/album/7etpucnkFPkpi89M5CCdu4"
+        "name": "Bailar Riddim",
+        "url": "https://open.spotify.com/album/3L07N9QtjRLysBgtx8aesx"
       },
       "artists": [
         {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+          "name": "Simon Fava",
+          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
         },
         {
-          "name": "Nic Fanciulli",
-          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+          "name": "Yvvan Back",
+          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
         }
       ],
-      "duration_ms": 186666,
-      "name": "Witch Doctor",
-      "url": "https://open.spotify.com/track/4lWGhzUW3dTPDMX9EII1Fc"
-    },
-    {
-      "added_at": "2021-12-03 21:38:02",
-      "album": {
-        "name": "Overtime / Physically",
-        "url": "https://open.spotify.com/album/5Y3RzD6ncjJQ8TKh1PKIED"
-      },
-      "artists": [
-        {
-          "name": "JADED",
-          "url": "https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf"
-        }
-      ],
-      "duration_ms": 168501,
-      "name": "Overtime",
-      "url": "https://open.spotify.com/track/3hOWWujfSbRwkxgpW1WXYy"
+      "duration_ms": 211200,
+      "name": "Bailar Riddim",
+      "url": "https://open.spotify.com/track/4jvCYgzFijnYGxqQcJgRnu"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -421,60 +441,48 @@
       "url": "https://open.spotify.com/track/5gx7iehGnlJZbogyzw7RI6"
     },
     {
-      "added_at": "2021-10-08 15:53:55",
+      "added_at": "2021-11-26 07:27:00",
       "album": {
-        "name": "Dirty Spanish",
-        "url": "https://open.spotify.com/album/3H8M3pxnpGqjf1faPwowEf"
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/1swFMuQMyNIKrR3ywxQYVk"
       },
       "artists": [
         {
           "name": "Sam Blans",
           "url": "https://open.spotify.com/artist/3aqsqogSTXrUJdcnFySUMi"
+        },
+        {
+          "name": "Jayson Alanzo",
+          "url": "https://open.spotify.com/artist/6RpWxHyYKaMf59DRdgbCg5"
         }
       ],
-      "duration_ms": 274833,
-      "name": "Dirty Spanish",
-      "url": "https://open.spotify.com/track/102vO4p4OoHWe7JO2OAzQw"
+      "duration_ms": 175252,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/7k7dPK1j1yRW4qW3WfwoZy"
     },
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Bailar Riddim",
-        "url": "https://open.spotify.com/album/3L07N9QtjRLysBgtx8aesx"
+        "name": "Alma Roja (DJ CHUS Remix)",
+        "url": "https://open.spotify.com/album/5wJgKF4QlNNcsLX0xsxS8w"
       },
       "artists": [
         {
-          "name": "Simon Fava",
-          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
+          "name": "Roger Sanchez",
+          "url": "https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ"
         },
         {
-          "name": "Yvvan Back",
-          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Bailar Riddim",
-      "url": "https://open.spotify.com/track/4jvCYgzFijnYGxqQcJgRnu"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
-        "name": "Quiribi (Yamil Remix)",
-        "url": "https://open.spotify.com/album/14vA1aUbS1VAl99DurxZXL"
-      },
-      "artists": [
-        {
-          "name": "Rosalinda de la Espada",
-          "url": "https://open.spotify.com/artist/1rORrFKQT8vxvmb8gIAqwl"
+          "name": "Oba Frank Lords",
+          "url": "https://open.spotify.com/artist/5JZJF4dsiH01QVSoJpReDM"
         },
         {
-          "name": "Yamil",
-          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
+          "name": "DJ Chus",
+          "url": "https://open.spotify.com/artist/7kxOVclB0zQamtBR0syCrg"
         }
       ],
-      "duration_ms": 366093,
-      "name": "Quiribi - Yamil Remix",
-      "url": "https://open.spotify.com/track/0orz2g3pXj7q9meh8ccGzA"
+      "duration_ms": 184320,
+      "name": "Alma Roja - DJ Chus Remix",
+      "url": "https://open.spotify.com/track/0MlIalMAtTaIhOjmSFmCgW"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -511,6 +519,26 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
+        "name": "Quiribi (Yamil Remix)",
+        "url": "https://open.spotify.com/album/14vA1aUbS1VAl99DurxZXL"
+      },
+      "artists": [
+        {
+          "name": "Rosalinda de la Espada",
+          "url": "https://open.spotify.com/artist/1rORrFKQT8vxvmb8gIAqwl"
+        },
+        {
+          "name": "Yamil",
+          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
+        }
+      ],
+      "duration_ms": 366093,
+      "name": "Quiribi - Yamil Remix",
+      "url": "https://open.spotify.com/track/0orz2g3pXj7q9meh8ccGzA"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
         "name": "Jaleo",
         "url": "https://open.spotify.com/album/1ZdmmuqN2FXZrSvR4bvu0C"
       },
@@ -531,42 +559,22 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Alma Roja (DJ CHUS Remix)",
-        "url": "https://open.spotify.com/album/5wJgKF4QlNNcsLX0xsxS8w"
+        "name": "Vagabundos",
+        "url": "https://open.spotify.com/album/3MRvGXMfy0mVQ4hzvhzr9j"
       },
       "artists": [
         {
-          "name": "Roger Sanchez",
-          "url": "https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ"
+          "name": "Simon Fava",
+          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
         },
         {
-          "name": "Oba Frank Lords",
-          "url": "https://open.spotify.com/artist/5JZJF4dsiH01QVSoJpReDM"
-        },
-        {
-          "name": "DJ Chus",
-          "url": "https://open.spotify.com/artist/7kxOVclB0zQamtBR0syCrg"
+          "name": "Yvvan Back",
+          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
         }
       ],
-      "duration_ms": 184320,
-      "name": "Alma Roja - DJ Chus Remix",
-      "url": "https://open.spotify.com/track/0MlIalMAtTaIhOjmSFmCgW"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
-        "name": "Libre",
-        "url": "https://open.spotify.com/album/0arqdWadUzAgi4OImNKHjs"
-      },
-      "artists": [
-        {
-          "name": "Bart B More",
-          "url": "https://open.spotify.com/artist/1eOOXqRHILTxqrEUAYyQU0"
-        }
-      ],
-      "duration_ms": 201720,
-      "name": "Libre",
-      "url": "https://open.spotify.com/track/6mCu7S5fBIlaF81L17ZDoM"
+      "duration_ms": 157530,
+      "name": "Vagabundos",
+      "url": "https://open.spotify.com/track/0DYJ1yBwVhiuppTmBd8ZLy"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -589,24 +597,52 @@
       "url": "https://open.spotify.com/track/3KYgsHPXp1pOywoYkUmh6k"
     },
     {
-      "added_at": "2021-11-26 07:27:00",
+      "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Diamonds",
-        "url": "https://open.spotify.com/album/1swFMuQMyNIKrR3ywxQYVk"
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/0arqdWadUzAgi4OImNKHjs"
+      },
+      "artists": [
+        {
+          "name": "Bart B More",
+          "url": "https://open.spotify.com/artist/1eOOXqRHILTxqrEUAYyQU0"
+        }
+      ],
+      "duration_ms": 201720,
+      "name": "Libre",
+      "url": "https://open.spotify.com/track/6mCu7S5fBIlaF81L17ZDoM"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "Di Nobo / Shonuff",
+        "url": "https://open.spotify.com/album/7kmo0jxMyOnX35nBMaEuzB"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Di Nobo",
+      "url": "https://open.spotify.com/track/7dWz63Qt1CFhg8nnlCMwk8"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "Dirty Spanish",
+        "url": "https://open.spotify.com/album/3H8M3pxnpGqjf1faPwowEf"
       },
       "artists": [
         {
           "name": "Sam Blans",
           "url": "https://open.spotify.com/artist/3aqsqogSTXrUJdcnFySUMi"
-        },
-        {
-          "name": "Jayson Alanzo",
-          "url": "https://open.spotify.com/artist/6RpWxHyYKaMf59DRdgbCg5"
         }
       ],
-      "duration_ms": 175252,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/7k7dPK1j1yRW4qW3WfwoZy"
+      "duration_ms": 274833,
+      "name": "Dirty Spanish",
+      "url": "https://open.spotify.com/track/102vO4p4OoHWe7JO2OAzQw"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -635,26 +671,6 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Vagabundos",
-        "url": "https://open.spotify.com/album/3MRvGXMfy0mVQ4hzvhzr9j"
-      },
-      "artists": [
-        {
-          "name": "Simon Fava",
-          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
-        },
-        {
-          "name": "Yvvan Back",
-          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
-        }
-      ],
-      "duration_ms": 157530,
-      "name": "Vagabundos",
-      "url": "https://open.spotify.com/track/0DYJ1yBwVhiuppTmBd8ZLy"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
         "name": "La Remontada (feat. Tot\u00f3 La Momposina)",
         "url": "https://open.spotify.com/album/6BFacrgHy3c6n1JJYDT0UH"
       },
@@ -677,38 +693,6 @@
       "url": "https://open.spotify.com/track/1hllxtk5yhDY9PJF42iYGn"
     },
     {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
-        "name": "Di Nobo / Shonuff",
-        "url": "https://open.spotify.com/album/7kmo0jxMyOnX35nBMaEuzB"
-      },
-      "artists": [
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Di Nobo",
-      "url": "https://open.spotify.com/track/7dWz63Qt1CFhg8nnlCMwk8"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
-        "name": "Me Duele el Alma",
-        "url": "https://open.spotify.com/album/7wvDYeqSsbcGI0mjE63Udy"
-      },
-      "artists": [
-        {
-          "name": "Jesse Garcia",
-          "url": "https://open.spotify.com/artist/6dTCOIQmUy1FlxNhITQhLn"
-        }
-      ],
-      "duration_ms": 303240,
-      "name": "Me Duele el Alma",
-      "url": "https://open.spotify.com/track/3bfX8IHLcbE10AYhTMnMNi"
-    },
-    {
       "added_at": "2021-10-15 05:57:00",
       "album": {
         "name": "Ecua",
@@ -727,18 +711,18 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Copacabana",
-        "url": "https://open.spotify.com/album/5hFScv2YAaIOFBBk035cUt"
+        "name": "Me Duele el Alma",
+        "url": "https://open.spotify.com/album/7wvDYeqSsbcGI0mjE63Udy"
       },
       "artists": [
         {
-          "name": "H\u00c4WK",
-          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
+          "name": "Jesse Garcia",
+          "url": "https://open.spotify.com/artist/6dTCOIQmUy1FlxNhITQhLn"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Copacabana",
-      "url": "https://open.spotify.com/track/1Z11FDEfDhpGnDSmeASq1J"
+      "duration_ms": 303240,
+      "name": "Me Duele el Alma",
+      "url": "https://open.spotify.com/track/3bfX8IHLcbE10AYhTMnMNi"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -755,6 +739,22 @@
       "duration_ms": 188732,
       "name": "Umoja",
       "url": "https://open.spotify.com/track/0FfzWykvVPkB3f8ZcCoWVH"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "Copacabana",
+        "url": "https://open.spotify.com/album/5hFScv2YAaIOFBBk035cUt"
+      },
+      "artists": [
+        {
+          "name": "H\u00c4WK",
+          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Copacabana",
+      "url": "https://open.spotify.com/track/1Z11FDEfDhpGnDSmeASq1J"
     },
     {
       "added_at": "2021-11-05 06:05:00",
@@ -817,38 +817,6 @@
       "url": "https://open.spotify.com/track/6alU7gZpSPKGy1VD2gCnPb"
     },
     {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
-        "name": "Bandolera",
-        "url": "https://open.spotify.com/album/714MZUZdQNlqxM2fkM7Brw"
-      },
-      "artists": [
-        {
-          "name": "Joan Cases",
-          "url": "https://open.spotify.com/artist/0fPtHhRntsy2ZAcs9aURCL"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "Bandolera",
-      "url": "https://open.spotify.com/track/0KXcutfBJQKPaIumj3IMZf"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
-        "name": "La Fiesta",
-        "url": "https://open.spotify.com/album/7IoX8LwlcVMZzqvbYhVqOy"
-      },
-      "artists": [
-        {
-          "name": "Good Times Ahead",
-          "url": "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
-        }
-      ],
-      "duration_ms": 266666,
-      "name": "La Fiesta",
-      "url": "https://open.spotify.com/track/53xMyPShokgna72KTlwsXO"
-    },
-    {
       "added_at": "2021-10-15 05:57:00",
       "album": {
         "name": "La Vida",
@@ -887,6 +855,22 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/7IoX8LwlcVMZzqvbYhVqOy"
+      },
+      "artists": [
+        {
+          "name": "Good Times Ahead",
+          "url": "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
+        }
+      ],
+      "duration_ms": 266666,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/53xMyPShokgna72KTlwsXO"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
         "name": "Ay Papi",
         "url": "https://open.spotify.com/album/1JcwtK5OXj8916nJVIdoES"
       },
@@ -903,18 +887,34 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Can't Have It",
-        "url": "https://open.spotify.com/album/65EAWbqxyp9658YllENyER"
+        "name": "Bandolera",
+        "url": "https://open.spotify.com/album/714MZUZdQNlqxM2fkM7Brw"
       },
       "artists": [
         {
-          "name": "SWAYL\u00d3",
-          "url": "https://open.spotify.com/artist/6UrFs6kJkQTO9k2rKzfqEv"
+          "name": "Joan Cases",
+          "url": "https://open.spotify.com/artist/0fPtHhRntsy2ZAcs9aURCL"
         }
       ],
-      "duration_ms": 230322,
-      "name": "Can't Have It",
-      "url": "https://open.spotify.com/track/1TwJ9U24E9WtfUngEpadMf"
+      "duration_ms": 168960,
+      "name": "Bandolera",
+      "url": "https://open.spotify.com/track/0KXcutfBJQKPaIumj3IMZf"
+    },
+    {
+      "added_at": "2021-11-05 06:05:00",
+      "album": {
+        "name": "Cumbia Tropical",
+        "url": "https://open.spotify.com/album/1AB9MImjBERGHTLNwhUnUn"
+      },
+      "artists": [
+        {
+          "name": "Ilary Montanari",
+          "url": "https://open.spotify.com/artist/5hSt4Q5c4lReEZr6Uaz8BA"
+        }
+      ],
+      "duration_ms": 381899,
+      "name": "Cumbia Tropical",
+      "url": "https://open.spotify.com/track/1H8sxtzrwWhFGiGamurqnW"
     },
     {
       "added_at": "2021-10-29 16:47:33",

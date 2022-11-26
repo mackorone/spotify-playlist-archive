@@ -207,7 +207,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 234496,
       "name": "Alt slik det var laga",
       "url": "https://open.spotify.com/track/3nfuXqTSLAAyVDMgZgjHpc"
@@ -376,6 +376,24 @@
     },
     {
       "album": {
+        "name": "Hjarteskjell",
+        "url": "https://open.spotify.com/album/5LrKrBAJdrfrqdv6kFnugC"
+      },
+      "artists": [
+        {
+          "name": "Ingebj\u00f8rg Bratland",
+          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195906,
+      "name": "Bror",
+      "url": "https://open.spotify.com/track/1585fzVgMIK5BzPXA5a2iS"
+    },
+    {
+      "album": {
         "name": "Bru over m\u00f8rke b\u00f8lger",
         "url": "https://open.spotify.com/album/6XUfS1htXyTvLsxZDKLyY4"
       },
@@ -495,7 +513,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 178760,
       "name": "Den Fyrste Song",
       "url": "https://open.spotify.com/track/2enwSZWWEhMxCoGaWke2Qe"
@@ -643,7 +661,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 254380,
       "name": "Det Hainnle Om \u00c5 Leve",
       "url": "https://open.spotify.com/track/53EbOd2bdKu4oNEkCKAfOX"
@@ -989,7 +1007,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 267321,
       "name": "En tv-serie",
       "url": "https://open.spotify.com/track/2ZqechT3vdSHZxrQXqy8rJ"
@@ -1275,7 +1293,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 248303,
       "name": "God morgen, min kj\u00e6re",
       "url": "https://open.spotify.com/track/5umEvtxcXt8FOguVU8jeKV"
@@ -1315,6 +1333,28 @@
       "duration_ms": 288078,
       "name": "God Natt Oslo",
       "url": "https://open.spotify.com/track/39cEoZCXgx4SFYxnxp3ECu"
+    },
+    {
+      "album": {
+        "name": "Inn i skogen",
+        "url": "https://open.spotify.com/album/6IMNPChZ6uTdewFHcbv9Wq"
+      },
+      "artists": [
+        {
+          "name": "Odd Nordstoga",
+          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
+        },
+        {
+          "name": "Sigrid Aase",
+          "url": "https://open.spotify.com/artist/2mq4hucx5aRIPYrZbYgdYK"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236640,
+      "name": "Godt nok",
+      "url": "https://open.spotify.com/track/534GzSVJHfkIWPNkwobLAi"
     },
     {
       "album": {
@@ -1643,7 +1683,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 338866,
       "name": "I g\u00e5r",
       "url": "https://open.spotify.com/track/6U9GnMuoiUJnsw1JIMrTi1"
@@ -1679,7 +1719,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 173798,
       "name": "I ungdommen",
       "url": "https://open.spotify.com/track/5XPqE4SyHOXygx8vLFmV8p"
@@ -2005,6 +2045,24 @@
       "duration_ms": 257786,
       "name": "Kongen Av Ingenting",
       "url": "https://open.spotify.com/track/7i9MaELeXg5h6AZVLHkgTM"
+    },
+    {
+      "album": {
+        "name": "Ved Sengekanten",
+        "url": "https://open.spotify.com/album/32hQouZsr5n9bcFbqKiNbf"
+      },
+      "artists": [
+        {
+          "name": "Inger Lise Rypdal",
+          "url": "https://open.spotify.com/artist/1lvXjNoyEprcUc0Cb2N0QH"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113400,
+      "name": "Kvelden Lister Seg P\u00e5 T\u00e5",
+      "url": "https://open.spotify.com/track/05VWAlqAeLSMuwTED7O0Fu"
     },
     {
       "album": {
@@ -2358,6 +2416,42 @@
     },
     {
       "album": {
+        "name": "Sanger du skal f\u00e5 med KORK",
+        "url": "https://open.spotify.com/album/5ss1h2s0lkcXkydRUzIqeA"
+      },
+      "artists": [
+        {
+          "name": "Trygve Skaug",
+          "url": "https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322826,
+      "name": "Novemberdag novembernatt",
+      "url": "https://open.spotify.com/track/2pnrk0bjGIhgsklVVrKz1v"
+    },
+    {
+      "album": {
+        "name": "N\u00e5 er jeg inspirert av Veronica Maggio",
+        "url": "https://open.spotify.com/album/0u0bXmYCu6kuGzuZnKN8TZ"
+      },
+      "artists": [
+        {
+          "name": "deLillos",
+          "url": "https://open.spotify.com/artist/5gsErkGsLeCYCSK0Pxj01N"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213146,
+      "name": "N\u00e5 er jeg inspirert av Veronica Maggio",
+      "url": "https://open.spotify.com/track/6aeoCU2Ub7S82JJ152ROUz"
+    },
+    {
+      "album": {
         "name": "N\u00e5r det er natt",
         "url": "https://open.spotify.com/album/6edLhz29gflzs0AFYiWqoC"
       },
@@ -2561,7 +2655,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 300280,
       "name": "Siste reis",
       "url": "https://open.spotify.com/track/3zEYZy5WKMCAiQ1A19KAm0"
@@ -2662,6 +2756,24 @@
     },
     {
       "album": {
+        "name": "N\u00e6rmere",
+        "url": "https://open.spotify.com/album/3EOALbGIuyGFVKVusRlC7W"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288678,
+      "name": "Stilla",
+      "url": "https://open.spotify.com/track/3yovkhHZU1GfUptqdu3K4w"
+    },
+    {
+      "album": {
         "name": "Alle Snakker Sant",
         "url": "https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3"
       },
@@ -2673,7 +2785,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": "2022-11-13",
       "duration_ms": 181413,
       "name": "Stille Vann",
       "url": "https://open.spotify.com/track/6EbPwM0nNa6T3Hy1pDBvl0"
@@ -2691,7 +2803,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 216911,
       "name": "Stormens \u00d8ye",
       "url": "https://open.spotify.com/track/6NUSlWdJJXjtZK4rUmzlyu"
@@ -2781,7 +2893,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-06",
       "duration_ms": 229209,
       "name": "S\u00e5 lett som ingenting",
       "url": "https://open.spotify.com/track/0yscIkhw37rF1gDK0LfwJ9"
@@ -2965,7 +3077,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-17",
+      "date_removed": null,
       "duration_ms": 179533,
       "name": "Togsang",
       "url": "https://open.spotify.com/track/5qSJ6zAlnBXmIQc8vBE72R"
@@ -3253,6 +3365,24 @@
       "duration_ms": 230480,
       "name": "Veien tilbake",
       "url": "https://open.spotify.com/track/4ymTQjGfZyJm3MDzjY5GK0"
+    },
+    {
+      "album": {
+        "name": "Vi M\u00f8ttes I En Soloppgang",
+        "url": "https://open.spotify.com/album/1aPBFbIRtY9TttO1eIfflK"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195680,
+      "name": "Vi M\u00f8ttes I En Soloppgang",
+      "url": "https://open.spotify.com/track/1nCIRz2gS5f5QA6Qnm0wBs"
     },
     {
       "album": {

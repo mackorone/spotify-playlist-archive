@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuw9ZO9Mfq5.md) - [plain]
 
 > The 52nd Annual nominees are here! Tune in to TBN on Oct\. 22nd 8/7 PM Central to watch this year's celebration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,772 likes - 60 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,625 likes - 60 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Another In The Fire \- Live](https://open.spotify.com/track/5PmHmU5AaBy9ld3bdQkD96) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM) | [People \(Live\)](https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD) | 6:33 |
+| 1 | [Another In The Fire \- Live](https://open.spotify.com/track/5PmHmU5AaBy9ld3bdQkD96) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Chris Davenport](https://open.spotify.com/artist/6Lu7A9Om0rGL9dgzDLR1ed) | [People \(Live\)](https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD) | 6:33 |
 | 2 | [Famous For \(I Believe\)](https://open.spotify.com/track/2RuUAwOz2vyArTaiMQUL7j) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [Citizen of Heaven](https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us) | 4:02 |
 | 3 | [Graves Into Gardens \(Live\)](https://open.spotify.com/track/4wc8FpW9XCUaoxtii3CiCf) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Graves Into Gardens \(Live\)](https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6) | 7:32 |
 | 4 | [Speak To Me](https://open.spotify.com/track/0CZmy9ctYRi2Ux5uFLGqSr) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [I AM](https://open.spotify.com/album/7sp7t59cny1pmM0JImzODg) | 2:46 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuw9ZO9Mfq5.md) - [plain]
 | 32 | [Wake Up](https://open.spotify.com/track/3E2hqslxAV6v6yZmlitNPS) | [Ernie Haase & Signature Sound](https://open.spotify.com/artist/3Qp9Qtdb5G8QYHWfe5qxi0) | [Keeping On](https://open.spotify.com/album/6BqmmNMV9YLf9BdOeq1jcb) | 3:40 |
 | 33 | [Because He Lives](https://open.spotify.com/track/4V5dQ0bZ75SSHMKt8W9RKh) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [Alone With My Faith](https://open.spotify.com/album/7gMSKwzQlQMV55DTf2mYbU) | 3:33 |
 | 34 | [Better Off There](https://open.spotify.com/track/40Rpg0pzoaVsFzHgCREvcx) | [The Browns](https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb) | [Brave](https://open.spotify.com/album/1uJ4rjuZy4xwZ8ccYTPbmg) | 4:09 |
-| 35 | [Go Rest High On That Mountain](https://open.spotify.com/track/5f2AJLUMjy6jBQYZy2RmQZ) | [Fortune/Walker/Rogers/Isaacs](https://open.spotify.com/artist/61ZPatRwS09QE7KQ5ufPJI) | [Brotherly Love](https://open.spotify.com/album/5kpJWPBsLldYiX808pQHF5) | 4:12 |
+| 35 | [Go Rest High On That Mountain](https://open.spotify.com/track/7lnadJU9bHl09fMoXuaL7l) | [Brothers of the Heart](https://open.spotify.com/artist/1avG1diqhx83QehJoAbHL5) | [Brotherly Love](https://open.spotify.com/album/6Y4AfyJXDmjcEzRZmzYxIn) | 4:12 |
 | 36 | [Great God Almighty](https://open.spotify.com/track/5U8hXWb7NmHHiw1X066zE4) | [The Sound](https://open.spotify.com/artist/3bsZZ1rEW7u6BqsIorxUPy) | [Make It Count](https://open.spotify.com/album/0Fe4YmNCYibI8T5sQsvr8G) | 2:47 |
 | 37 | [If God Pulled Back The Curtain](https://open.spotify.com/track/2Rk4cVGZ4MM2y7ClZFtaOM) | [The Nelons](https://open.spotify.com/artist/6qL6hgjCwgoC8VG7MuY7wn) | [Peace At Last](https://open.spotify.com/album/1PATvPSNkCt3CP5J31PjWx) | 3:26 |
 | 38 | [I Got It \- Bonus Track](https://open.spotify.com/track/6y8ZVdDFBly8GJhFJAM97L) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [I Got It: Singles Ministry, Vol\. 1](https://open.spotify.com/album/5jxxVFeOULCVZR5K3n9Zwa) | 4:07 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuw9ZO9Mfq5.md) - [plain]
 | 59 | [Jireh \(feat\. Chandler Moore & Naomi Raine\)](https://open.spotify.com/track/1goiRWxiG3GTlODrdDZ7NR) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Old Church Basement](https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg) | 9:58 |
 | 60 | [Peace Be Still](https://open.spotify.com/track/4epvekncJds5DpsOOjBT9B) | [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [Peace Be Still](https://open.spotify.com/album/5NB3XmeK1ICymTWKPEWnSt) | 5:20 |
 
-Snapshot ID: `MTY1ODAxNzA2OSwwMDAwMDAwMDgwNmZhOGU4ZGY2MDU4MDYwNGVkNzEzZGYyNmIwMTZj`
+Snapshot ID: `MTY1ODAxNzA2OSwwMDAwMDAwMGUyNGY0ZGIzNTA3M2NhYTZkOTk0NjlhYTEwZDU2Mzdh`

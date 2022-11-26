@@ -254,6 +254,24 @@
     },
     {
       "album": {
+        "name": "Soul Essentials",
+        "url": "https://open.spotify.com/album/2HEREQzFsq56E8Wh66s0V7"
+      },
+      "artists": [
+        {
+          "name": "Thelma Houston",
+          "url": "https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO"
+        }
+      ],
+      "date_added": "2021-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 216720,
+      "name": "Don't Leave Me This Way - Single Version",
+      "url": "https://open.spotify.com/track/6YnHWESPWTp7XWuc25onCX"
+    },
+    {
+      "album": {
         "name": "Hitsville USA, The Motown Collection 1972-1992",
         "url": "https://open.spotify.com/album/2e6N9mz4kFIR1sM9givKpK"
       },
@@ -309,6 +327,28 @@
       "duration_ms": 265613,
       "name": "Endless Love",
       "url": "https://open.spotify.com/track/4GBPZmnLHEMdthyo2RDolF"
+    },
+    {
+      "album": {
+        "name": "Slow Dance First Dance",
+        "url": "https://open.spotify.com/album/36UsFCzYmPponsSi4Htu89"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        },
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 266453,
+      "name": "Endless Love - From \"The Endless Love\" Soundtrack",
+      "url": "https://open.spotify.com/track/190yqUNtC6Oe4cq5695BaD"
     },
     {
       "album": {
@@ -1015,6 +1055,24 @@
       "duration_ms": 246786,
       "name": "You Are",
       "url": "https://open.spotify.com/track/41xY0XOmX8DF8GKoPi4oF3"
+    },
+    {
+      "album": {
+        "name": "Soulklassiker",
+        "url": "https://open.spotify.com/album/55lqkJnXgVUl1mZcnU52zY"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2021-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 177306,
+      "name": "You Are The Sunshine Of My Life",
+      "url": "https://open.spotify.com/track/1U64mXSOAvEaz4sRyQPNpb"
     },
     {
       "album": {

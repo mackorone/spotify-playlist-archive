@@ -326,6 +326,32 @@
     },
     {
       "album": {
+        "name": "Jama",
+        "url": "https://open.spotify.com/album/4sAc7tRe15p3J3VV4Uu77A"
+      },
+      "artists": [
+        {
+          "name": "David Hopperman",
+          "url": "https://open.spotify.com/artist/0VAX7m33WhAKE1Q5b8Mq7q"
+        },
+        {
+          "name": "Savage Roses",
+          "url": "https://open.spotify.com/artist/0K7YbgQP1R1qPt3ZMXxzcl"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-18",
+      "duration_ms": 330491,
+      "name": "Jama",
+      "url": "https://open.spotify.com/track/4p1ypYoh4DugiJjBBJhnym"
+    },
+    {
+      "album": {
         "name": "Kamweretho",
         "url": "https://open.spotify.com/album/1yV5WlSsJQGBnFynhpNG4i"
       },
@@ -433,7 +459,7 @@
     {
       "album": {
         "name": "Let's Pretend (Remixes)",
-        "url": "https://open.spotify.com/album/1amhFmHKiaNXQZ3AtW9AcJ"
+        "url": "https://open.spotify.com/album/7uV160vuTXhZ1PZr2Oa95l"
       },
       "artists": [
         {
@@ -450,7 +476,51 @@
       "date_removed": null,
       "duration_ms": 492175,
       "name": "Let's Pretend - Tube & Berger Remix",
+      "url": "https://open.spotify.com/track/6jJPEJMMbtAubg5ro9b6QV"
+    },
+    {
+      "album": {
+        "name": "Let's Pretend (Remixes)",
+        "url": "https://open.spotify.com/album/1amhFmHKiaNXQZ3AtW9AcJ"
+      },
+      "artists": [
+        {
+          "name": "Helsloot",
+          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
+        },
+        {
+          "name": "Tube & Berger",
+          "url": "https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-16",
+      "duration_ms": 492175,
+      "name": "Let's Pretend - Tube & Berger Remix",
       "url": "https://open.spotify.com/track/7I5hO1FqD2GyscnY3cQZpC"
+    },
+    {
+      "album": {
+        "name": "Pyramids",
+        "url": "https://open.spotify.com/album/4Imc9qg3fBn0KuusJYydSb"
+      },
+      "artists": [
+        {
+          "name": "Caiiro",
+          "url": "https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY"
+        },
+        {
+          "name": "Pixie L",
+          "url": "https://open.spotify.com/artist/38qnDEjuo43UZMmxZRcK6G"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272030,
+      "name": "Lwandle",
+      "url": "https://open.spotify.com/track/28Wq5lknJHU4p4vlKOyXKX"
     },
     {
       "album": {
@@ -597,7 +667,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 214000,
       "name": "Mwizi I",
       "url": "https://open.spotify.com/track/5a63J7bbhFrVvMBra0Gsne"
@@ -777,7 +847,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 252295,
       "name": "PAMOJA",
       "url": "https://open.spotify.com/track/4LNtR0RYh9Ewgfqlr11sgZ"
@@ -1004,6 +1074,32 @@
     },
     {
       "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/4Geze587DB67GHfSz0WG1B"
+      },
+      "artists": [
+        {
+          "name": "Moise",
+          "url": "https://open.spotify.com/artist/1QMWPzIxcd1bLmuOyM6XM1"
+        },
+        {
+          "name": "Lucien",
+          "url": "https://open.spotify.com/artist/5qmHB3aI1CfoYudcfOdgod"
+        },
+        {
+          "name": "Frequent Sea",
+          "url": "https://open.spotify.com/artist/0kcn0qQX3hkKvCIPjWmy5a"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167547,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/1BEKaR7CJZTw0Yv4e845jc"
+    },
+    {
+      "album": {
         "name": "Take A Chance",
         "url": "https://open.spotify.com/album/5L3ZDYPpWNnxjST6k8pq8O"
       },
@@ -1040,7 +1136,7 @@
         },
         {
           "name": "Ricardo",
-          "url": "https://open.spotify.com/artist/4aNbVHYo8CVwkN4UUt44C3"
+          "url": "https://open.spotify.com/artist/1QFkERAzKnyz7FUo6GmlYL"
         }
       ],
       "date_added": "2022-08-01",
@@ -1049,6 +1145,32 @@
       "duration_ms": 450491,
       "name": "Thaai - Dj Tomer & Ricardo's Voodoo Tribe Remix",
       "url": "https://open.spotify.com/track/5ILQd8soax1ekqFfv9Psrj"
+    },
+    {
+      "album": {
+        "name": "The Fall",
+        "url": "https://open.spotify.com/album/51iGkp2i5zQCPXsVYZoh0w"
+      },
+      "artists": [
+        {
+          "name": "Lucien",
+          "url": "https://open.spotify.com/artist/5qmHB3aI1CfoYudcfOdgod"
+        },
+        {
+          "name": "BNHM",
+          "url": "https://open.spotify.com/artist/5Dbey2rYHmx0fZWywHiO2N"
+        },
+        {
+          "name": "ELSKA",
+          "url": "https://open.spotify.com/artist/19GrDxe2EKSgGiYmztcHha"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147426,
+      "name": "The Fall",
+      "url": "https://open.spotify.com/track/0VKmRGnrho53kJpvW5DJHO"
     },
     {
       "album": {
@@ -1129,7 +1251,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 448915,
       "name": "Tsona",
       "url": "https://open.spotify.com/track/3KfXeIDf3TEwMxove1U5YG"

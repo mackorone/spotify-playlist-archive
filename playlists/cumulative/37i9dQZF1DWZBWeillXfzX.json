@@ -513,7 +513,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 197237,
       "name": "Gettin Old",
       "url": "https://open.spotify.com/track/706ZgJOItrsyuJFLvh2JKl"
@@ -610,6 +610,24 @@
     },
     {
       "album": {
+        "name": "It Was a Time",
+        "url": "https://open.spotify.com/album/1TZBvdUstlgTmKAm5KvpFS"
+      },
+      "artists": [
+        {
+          "name": "TrackTribe",
+          "url": "https://open.spotify.com/artist/4YKdSLESMOqzq5QSMAjCmv"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237765,
+      "name": "It Was a Time",
+      "url": "https://open.spotify.com/track/2GxMwz9lPseQX7i50M3zXX"
+    },
+    {
+      "album": {
         "name": "Keep It Up",
         "url": "https://open.spotify.com/album/7zKBDolt5SBR9L61zJySRu"
       },
@@ -647,7 +665,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 174892,
       "name": "Keep Your Light on Mama",
       "url": "https://open.spotify.com/track/0VCWM2PMWWUEyiNYBmYvWn"
@@ -701,7 +719,7 @@
       ],
       "date_added": "2021-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 200973,
       "name": "Out Of My Head",
       "url": "https://open.spotify.com/track/4NSUSn0ypWV9tnB88Loygy"
@@ -737,7 +755,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 388893,
       "name": "Pusher",
       "url": "https://open.spotify.com/track/6eN0XgXvdEr27mVjbodO9x"
@@ -881,7 +899,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 262536,
       "name": "Shufflin' West Coast",
       "url": "https://open.spotify.com/track/35znJMAm3GhjLwY9o3KiSG"
@@ -1163,7 +1181,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 216552,
       "name": "Uprising",
       "url": "https://open.spotify.com/track/5XXZm9gKlhJYXONpvzPWQ1"
@@ -1199,7 +1217,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": "2022-11-02",
       "duration_ms": 258426,
       "name": "What You\u2019re Made Of",
       "url": "https://open.spotify.com/track/1RxSQxCQKSInGZREvUPjWn"
@@ -1271,7 +1289,7 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 353684,
       "name": "White Rock Beer...8 cents",
       "url": "https://open.spotify.com/track/1dA1yyrPmoqKfqXxMX2brl"

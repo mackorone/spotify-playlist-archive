@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "La nueva ola del rock argentino. Foto: El Plan De La Mariposa + Pedro Pastor",
+  "description": "La nueva ola del rock argentino. Foto: Riel",
   "name": "Rockola",
   "published_playlist_ids": [
     "0MtUXUcZ7oflfCxYvMhlyV"
@@ -326,6 +326,24 @@
     },
     {
       "album": {
+        "name": "Batalla Naval",
+        "url": "https://open.spotify.com/album/7ir1j0acIgaSxNj2oJqbMh"
+      },
+      "artists": [
+        {
+          "name": "Nina Su\u00e1rez",
+          "url": "https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203186,
+      "name": "Batalla Naval",
+      "url": "https://open.spotify.com/track/2kXaFBuF8o0SpELClw5skx"
+    },
+    {
+      "album": {
         "name": "Blanco & Negro",
         "url": "https://open.spotify.com/album/4wG2YePvIfmyUN61cFXSzO"
       },
@@ -395,6 +413,24 @@
       "duration_ms": 229305,
       "name": "Canci\u00f3n de Flora",
       "url": "https://open.spotify.com/track/4wE4VCSYSNJEjCjr4jGIiB"
+    },
+    {
+      "album": {
+        "name": "\u00bfQu\u00e9 Hacemos Con Todo Este Dinero?",
+        "url": "https://open.spotify.com/album/4WOB6QazFzRe1bDopMFfjX"
+      },
+      "artists": [
+        {
+          "name": "Terapia",
+          "url": "https://open.spotify.com/artist/5sIea266s3izLKCqmH1SRk"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181059,
+      "name": "Cara-Cola",
+      "url": "https://open.spotify.com/track/7vWuIocPwLv0UYTREZwIFo"
     },
     {
       "album": {
@@ -471,6 +507,24 @@
       "duration_ms": 236426,
       "name": "Coleccionando cicatrices",
       "url": "https://open.spotify.com/track/2Ug1MOeq7WsZI3e3RmIXIQ"
+    },
+    {
+      "album": {
+        "name": "Coleccionando Cicatrices",
+        "url": "https://open.spotify.com/album/732rZ7r8CfbcxZt7kiXpug"
+      },
+      "artists": [
+        {
+          "name": "Cruzando El Charco",
+          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 238806,
+      "name": "Coleccionando Cicatrices",
+      "url": "https://open.spotify.com/track/0nFNXj5EVrMR4q2Qm74CtP"
     },
     {
       "album": {
@@ -901,7 +955,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 155136,
       "name": "El Canto de los Pumas",
       "url": "https://open.spotify.com/track/2hISA6NTHJWby9sJcbylcd"
@@ -1473,7 +1527,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 237108,
       "name": "Hombre Perro",
       "url": "https://open.spotify.com/track/1Cu7htY6hFXkI0B0mZtzwD"
@@ -1495,10 +1549,28 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 197142,
       "name": "Horizonte",
       "url": "https://open.spotify.com/track/6CcsDzWLl2YHX5N5vqnlxc"
+    },
+    {
+      "album": {
+        "name": "Idolos Ca\u00eddos",
+        "url": "https://open.spotify.com/album/2jS2IzVRyghflxNfjJxPLi"
+      },
+      "artists": [
+        {
+          "name": "Martes 13",
+          "url": "https://open.spotify.com/artist/4yQad4h1S2VKZbiEYlnFKy"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170051,
+      "name": "Idolos Ca\u00eddos",
+      "url": "https://open.spotify.com/track/0ibNGr3XiHcVV5mJd1tuib"
     },
     {
       "album": {
@@ -1535,7 +1607,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 335400,
       "name": "Incandescente",
       "url": "https://open.spotify.com/track/4BLvKLjhvH6UU5aTyBe3bt"
@@ -1918,6 +1990,24 @@
     },
     {
       "album": {
+        "name": "Buenas Noches Terr\u00edcolas",
+        "url": "https://open.spotify.com/album/2JMMzWW3FcrPSEseYLhEuD"
+      },
+      "artists": [
+        {
+          "name": "Vale Acevedo",
+          "url": "https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247970,
+      "name": "MANIQU\u00cd",
+      "url": "https://open.spotify.com/track/51kIOy4U7wxwhV8Ys697zH"
+    },
+    {
+      "album": {
         "name": "Isla de Oro",
         "url": "https://open.spotify.com/album/2WsKLQLu05HwbbGSIFOQsH"
       },
@@ -1973,7 +2063,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 183328,
       "name": "Me Dijiste Tu Nombre",
       "url": "https://open.spotify.com/track/6V2WUdjJeJ6rBEFLLKy3Mc"
@@ -2204,6 +2294,24 @@
     },
     {
       "album": {
+        "name": "No Est\u00e1 Mal Volar",
+        "url": "https://open.spotify.com/album/6thHooDl6fbhY7eA81TPNJ"
+      },
+      "artists": [
+        {
+          "name": "T'Shine",
+          "url": "https://open.spotify.com/artist/4d3XBHv7pvLOtkJBwQqMrm"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196434,
+      "name": "No Est\u00e1 Mal Volar",
+      "url": "https://open.spotify.com/track/5lQCyblY4iqtuAxDCxxOfd"
+    },
+    {
+      "album": {
         "name": "No Juego M\u00e1s",
         "url": "https://open.spotify.com/album/669jETLtDfGSYKZFNASzli"
       },
@@ -2280,6 +2388,24 @@
     },
     {
       "album": {
+        "name": "Nuevo Comienzo",
+        "url": "https://open.spotify.com/album/3t9n5vhwmuQU14VJZfCAmg"
+      },
+      "artists": [
+        {
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186202,
+      "name": "Nuevo Comienzo",
+      "url": "https://open.spotify.com/track/67tXLMcNhEfTYBsuBQ8aHE"
+    },
+    {
+      "album": {
         "name": "Olimpica",
         "url": "https://open.spotify.com/album/0anKYBfwCQZYPYM6qKmr7n"
       },
@@ -2295,7 +2421,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-21",
+      "date_removed": "2022-11-13",
       "duration_ms": 225423,
       "name": "Olimpica",
       "url": "https://open.spotify.com/track/79vYITnn1EeHIcHXD7XsG9"
@@ -2461,7 +2587,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 204336,
       "name": "Preguntame",
       "url": "https://open.spotify.com/track/3dMYfIeVVdaY9U9GLTG9PK"
@@ -2537,7 +2663,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 196760,
       "name": "Radio de la ma\u00f1ana",
       "url": "https://open.spotify.com/track/1NgZYkt0KGPrkROQdRxDmo"
@@ -2617,6 +2743,24 @@
       "duration_ms": 234915,
       "name": "Royal Surf",
       "url": "https://open.spotify.com/track/6NFpSOagciiNbJoM91kjSq"
+    },
+    {
+      "album": {
+        "name": "Sarna",
+        "url": "https://open.spotify.com/album/2eOrh2YvhDlt8DMNh1mS4e"
+      },
+      "artists": [
+        {
+          "name": "Las Vin Up",
+          "url": "https://open.spotify.com/artist/1GKl38LwDLslERfIvZqUXO"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196475,
+      "name": "Sarna",
+      "url": "https://open.spotify.com/track/1SQl1g1V9faUqgMvkI8Fjl"
     },
     {
       "album": {
@@ -2830,6 +2974,24 @@
     },
     {
       "album": {
+        "name": "Tan Capaz",
+        "url": "https://open.spotify.com/album/0XxiIUxCsCmnhoUBNAiVS4"
+      },
+      "artists": [
+        {
+          "name": "Los L\u00e1tigos",
+          "url": "https://open.spotify.com/artist/4gQjSrUccdskocfsE4L1MF"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247246,
+      "name": "Tan Capaz",
+      "url": "https://open.spotify.com/track/7rfTrFMb6pHxYZE8HpkSVe"
+    },
+    {
+      "album": {
         "name": "Lapso",
         "url": "https://open.spotify.com/album/2CBql5YfVAaFq8GuDSu1KU"
       },
@@ -2863,7 +3025,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 170309,
       "name": "Temporal",
       "url": "https://open.spotify.com/track/2HaEWrHRPZ2mG06Rdlngbu"
@@ -2885,6 +3047,24 @@
       "duration_ms": 192075,
       "name": "Tiempo",
       "url": "https://open.spotify.com/track/6MifdTQLwM8PQEzM9S2TRb"
+    },
+    {
+      "album": {
+        "name": "TKM",
+        "url": "https://open.spotify.com/album/2Qi4p3mBPmfTSyx6bCAEEX"
+      },
+      "artists": [
+        {
+          "name": "Riel",
+          "url": "https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154548,
+      "name": "TKM",
+      "url": "https://open.spotify.com/track/3IojTR6Zm6U9hnToRnW55L"
     },
     {
       "album": {
@@ -2961,6 +3141,28 @@
       "duration_ms": 280197,
       "name": "Un Documental Sobre M\u00ed",
       "url": "https://open.spotify.com/track/1zaSe09Z9HQQBSj3SjzSZj"
+    },
+    {
+      "album": {
+        "name": "Una Canci\u00f3n",
+        "url": "https://open.spotify.com/album/4AR7pIVOrcS7KYeVJF9BpG"
+      },
+      "artists": [
+        {
+          "name": "El Club Audiovisual",
+          "url": "https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7"
+        },
+        {
+          "name": "ODD MAMI",
+          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162730,
+      "name": "Una Canci\u00f3n",
+      "url": "https://open.spotify.com/track/6uEZio7p3zHhIPSUiTFnLC"
     },
     {
       "album": {
@@ -3083,7 +3285,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 236451,
       "name": "Vienen Bajando - Versi\u00f3n 2021",
       "url": "https://open.spotify.com/track/4T8fellDyfDz4PeMp6nQsM"

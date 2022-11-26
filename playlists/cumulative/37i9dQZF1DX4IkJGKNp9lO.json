@@ -642,6 +642,24 @@
     },
     {
       "album": {
+        "name": "Den H\u00e4r \u00c4r Till Er",
+        "url": "https://open.spotify.com/album/3l1A9HHdfzlRg6O4hdQ8OE"
+      },
+      "artists": [
+        {
+          "name": "Asta Kask",
+          "url": "https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 263973,
+      "name": "Den H\u00e4r \u00c4r Till Er",
+      "url": "https://open.spotify.com/track/4FU7skLnl1FpRIbFezJ0j1"
+    },
+    {
+      "album": {
         "name": "Automatiskt",
         "url": "https://open.spotify.com/album/5Z7SWe9qj63UOVQu6cJCqU"
       },
@@ -1343,7 +1361,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 214592,
       "name": "Grabbarna p\u00e5 stan",
       "url": "https://open.spotify.com/track/4Cvp01XRJtsBa2d8iLPQBg"
@@ -1770,6 +1788,24 @@
     },
     {
       "album": {
+        "name": "Bakom ljuset",
+        "url": "https://open.spotify.com/album/08RgYPSeJy5g9JBInnyLei"
+      },
+      "artists": [
+        {
+          "name": "Norra Hospitalet",
+          "url": "https://open.spotify.com/artist/45GsgqL3hY5YIJ0FTq7DDM"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 136944,
+      "name": "Kaos",
+      "url": "https://open.spotify.com/track/7C5vwqLlWULrV4aaigbHKX"
+    },
+    {
+      "album": {
         "name": "Kollektivt sj\u00e4lvmord",
         "url": "https://open.spotify.com/album/4LlnSAm75vQ0hD1PSPLY6L"
       },
@@ -1803,6 +1839,24 @@
       "duration_ms": 180550,
       "name": "Kom och dansa lite",
       "url": "https://open.spotify.com/track/3ojMPfMkEHaFdMu3C2Olh6"
+    },
+    {
+      "album": {
+        "name": "Alderland",
+        "url": "https://open.spotify.com/album/4ucaMCI586k92aFtZvLRcG"
+      },
+      "artists": [
+        {
+          "name": "Mimikry",
+          "url": "https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 180573,
+      "name": "Kom och dansa lite",
+      "url": "https://open.spotify.com/track/0WJwf0lJbVtS7Qz2gkoaje"
     },
     {
       "album": {
@@ -2231,7 +2285,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": "2022-11-13",
       "duration_ms": 136068,
       "name": "Martin I Skitlandet",
       "url": "https://open.spotify.com/track/21BF181yxyzkT8QbHvc16W"
@@ -2249,7 +2303,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": "2022-11-14",
       "duration_ms": 156656,
       "name": "Masspsykos",
       "url": "https://open.spotify.com/track/5ae5eUFZPTUhtIhXAnXtSu"
@@ -2321,7 +2375,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 243680,
       "name": "Meningsl\u00f6sa M\u00e5ndag",
       "url": "https://open.spotify.com/track/0UzFvtPaF7mlnV4d3WynM4"
@@ -2411,7 +2465,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": "2022-11-12",
       "duration_ms": 167266,
       "name": "Mitt Sista Andetag",
       "url": "https://open.spotify.com/track/1nKyiaTNzhUUYBTCqgxzUa"
@@ -2555,7 +2609,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-16",
+      "date_removed": "2022-11-13",
       "duration_ms": 219146,
       "name": "N\u00e5gon form av svar",
       "url": "https://open.spotify.com/track/1stF6GJvw36GjBrVnJmW7t"
@@ -2663,7 +2717,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-10",
+      "date_removed": null,
       "duration_ms": 151800,
       "name": "Pappa Betalar",
       "url": "https://open.spotify.com/track/6Z8nFhmIrtcWNYhwLb8qZB"
@@ -3059,7 +3113,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": "2022-11-13",
       "duration_ms": 156800,
       "name": "Sid & Nancy",
       "url": "https://open.spotify.com/track/7feyAI2f6JtCKmucVJOgWB"
@@ -3261,6 +3315,24 @@
       "duration_ms": 204132,
       "name": "St\u00e4ll Dig Upp",
       "url": "https://open.spotify.com/track/0s5ek8dVFie1ILTVSbT22s"
+    },
+    {
+      "album": {
+        "name": "Mvh Grannen",
+        "url": "https://open.spotify.com/album/3sTZbgkB9ffVceA3RAIifb"
+      },
+      "artists": [
+        {
+          "name": "Pastoratet",
+          "url": "https://open.spotify.com/artist/5S2B2ftvKw03xrAB0SgpWI"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 204132,
+      "name": "St\u00e4ll dig upp",
+      "url": "https://open.spotify.com/track/3jvZ5ypCXvlDbqVkK3bx5C"
     },
     {
       "album": {
@@ -3498,6 +3570,24 @@
     },
     {
       "album": {
+        "name": "Vill Ha Mer",
+        "url": "https://open.spotify.com/album/5l8T868Wp8zvutcvqjSTZV"
+      },
+      "artists": [
+        {
+          "name": "Varnagel",
+          "url": "https://open.spotify.com/artist/6YaAj5Os3Dm33h2Ks2ugpH"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 173406,
+      "name": "Trall Punkt Nu",
+      "url": "https://open.spotify.com/track/4CdeAsmF57SR4s8RssAviz"
+    },
+    {
+      "album": {
         "name": "Gryningstid",
         "url": "https://open.spotify.com/album/1xHfxbBMgFsSwZ5y7HNYdW"
       },
@@ -3725,7 +3815,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 121510,
       "name": "Va\u0308gra",
       "url": "https://open.spotify.com/track/1xKkbE6TAk0fw982WRofnl"
@@ -3743,7 +3833,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": "2022-11-13",
       "duration_ms": 190026,
       "name": "Vem s\u00e4tter m\u00e4rket",
       "url": "https://open.spotify.com/track/6n6bwxNTBMhqzxlDcK6Gm7"

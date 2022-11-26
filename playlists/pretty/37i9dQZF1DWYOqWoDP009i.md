@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOqWoDP009i.md) - [plain]
 
 > The best and finest '70s Funk\. Cover: Kool & The Gang.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,288 likes - 100 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,031 likes - 100 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOqWoDP009i.md) - [plain]
 | 51 | [Family Tree](https://open.spotify.com/track/26ugarT7QUKgYO4vpAKPOc) | [Family Tree](https://open.spotify.com/artist/4gHOxcbbiAL2a560mYe1qt), [Sharon Brown](https://open.spotify.com/artist/5kpZHJtnWFKx8bvyvVgDdS) | [Family Tree](https://open.spotify.com/album/0vXkKhMMruiG4ATko8p2oJ) | 2:58 |
 | 52 | [Bump and Hustle Music](https://open.spotify.com/track/1c3IcwpIsIn7RmP8p8KBI8) | [Tommy Stewart](https://open.spotify.com/artist/45aq6v1UQb6h7XOAqDgq9h) | [Luv N' Haight: Edit Series, Vol\. 2](https://open.spotify.com/album/4yKhdgQ0f68CUVqZS12nZZ) | 5:03 |
 | 53 | [Stella](https://open.spotify.com/track/5toCGMeGM6SNSXZWrvE5YV) | [Bridge](https://open.spotify.com/artist/4PpzoPLf3OsCHtcmp2nWgD) | [Crying for Love](https://open.spotify.com/album/0zu2QK68l2znILZ6tTXxB3) | 3:36 |
-| 54 | [ABC](https://open.spotify.com/track/6wDviYDtmSDZ0S6TVMM9Vc) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [ABC](https://open.spotify.com/album/3btVhknqDeGAEd1Qj7lL57) | 2:57 |
+| 54 | [ABC](https://open.spotify.com/track/6D8kc7RO0rqBLSo2YPflJ5) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [ABC](https://open.spotify.com/album/2tukc7pH4qTuXcfaHjLIBc) | 2:54 |
 | 55 | [Under the Influence of a Groove](https://open.spotify.com/track/2pedYJdZaM9gyyHEPr1UIH) | [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [This Boot Is Made For Fonk\-N](https://open.spotify.com/album/5rNtC4AU5oXXY8N2CneWCW) | 8:39 |
 | 56 | [Open Sesame \- Part 1](https://open.spotify.com/track/2wsVvmGSp46TlbTeGt7EGo) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Open Sesame \(Expanded Edition\)](https://open.spotify.com/album/1W97hgeJQ5c9DyX1PvNXXn) | 3:46 |
 | 57 | [Mighty Mighty](https://open.spotify.com/track/3wBQZHjzqHBW5pamM09tyX) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Open Our Eyes](https://open.spotify.com/album/5cXtmT9ap3avo2lz9kEYbg) | 3:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOqWoDP009i.md) - [plain]
 | 99 | [Patience](https://open.spotify.com/track/4pMG2a3r1AeVbV4FOJwuRn) | [Rokk](https://open.spotify.com/artist/7bLOOtxBWLOpBmhGX3cp0S) | [Eccentric Soul: Omnibus](https://open.spotify.com/album/35IxeM8FWncBSFRH9soSTa) | 4:39 |
 | 100 | [Music Has the Power](https://open.spotify.com/track/2xcxqTg21JxE6zPjT6xswd) | [Ingram](https://open.spotify.com/artist/4wKxcGIfyMyTAucXYUHzGw) | [That's All!](https://open.spotify.com/album/5MRu2NKaMYjIvi7K2RMRGF) | 3:57 |
 
-Snapshot ID: `MTY2NDUzMzQ5OSwwMDAwMDAwMDI5YWRhMjNhNGJhZDBiYzk2YmE1MWM1ZmU2MzVkMjM2`
+Snapshot ID: `MTY2NDUzMzQ5OSwwMDAwMDAwMDNiZDhiZTZiNjA4MTNjMDRmODViZDQ3NDZhZWM4YmY5`

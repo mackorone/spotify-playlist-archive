@@ -4,7 +4,7 @@
 
 > Easter songs for the whole family.
 
-107 songs - 5 hr 40 min - [published](https://open.spotify.com/playlist/3QrEQk8Sp836cpwikrDWjx)
+108 songs - 5 hr 41 min - [published](https://open.spotify.com/playlist/3QrEQk8Sp836cpwikrDWjx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Tell The World](https://open.spotify.com/track/3uaJqtBGtSJl1e52GcQVR2) | [North Point Kids](https://open.spotify.com/artist/3nH0HVHrZoS3pEjkb2orWB), [Lizi Bailey](https://open.spotify.com/artist/5GpEbkMyIIGAcELqA7N3LO) | [Shine!](https://open.spotify.com/album/7s4Vo4wBqLcqUOyaZaVXhd) | 3:33 | 2021-04-01 |  |
 | [The Best Thing About Easter \(Jesus Is Alive!\)](https://open.spotify.com/track/6u76bJ9FiwihesMlBmUONu) | [Colin Buchanan](https://open.spotify.com/artist/10EDEcSwzdTCLhI3hTNG5T) | [Boss of the Cross](https://open.spotify.com/album/07rrPVnGBOIw9c7ma8cACK) | 0:58 | 2021-03-24 | 2022-07-29 |
 | [The Best Thing About Easter \(Jesus is Alive!\)](https://open.spotify.com/track/2ywhjnLZRvIvzbYMByhuMq) | [Colin Buchanan](https://open.spotify.com/artist/10EDEcSwzdTCLhI3hTNG5T) | [Boss of the Cross](https://open.spotify.com/album/54GHJVVB77PyoJRAuazmfo) | 0:58 | 2021-03-24 |  |
+| [The Best Thing About Easter \(Jesus Is Alive\)](https://open.spotify.com/track/27Z6U7PqbudhUMaXXQiigw) | [Colin Buchanan](https://open.spotify.com/artist/10EDEcSwzdTCLhI3hTNG5T) | [Colin's Crackers \(Favourites, Vol\. 2\)](https://open.spotify.com/album/3OV4asQNDfkw7wbBS3l21K) | 0:58 | 2021-03-24 | 2022-11-13 |
 | [The Blessing](https://open.spotify.com/track/62MIyeR42atsXPWWSon90Q) | [Elevation Church Kids](https://open.spotify.com/artist/0ZGQ1XnxB8h4eiAjtIhNx5) | [Living Color](https://open.spotify.com/album/5R2pbzaWxfGNX8ar41wjkf) | 4:27 | 2021-04-01 |  |
 | [The Easter Bunny Parade](https://open.spotify.com/track/0dkextwm106FDaSMFkfGwh) | [The Wonder Kids](https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI), [Mr\. Steve](https://open.spotify.com/artist/6zO8I3N6qSLXrQ39Ht0Gxu) | [Easter Bunny Songs!](https://open.spotify.com/album/0oGAsQqWZh5MIxFgs3UST7) | 1:53 | 2021-03-24 |  |
 | [The Easter Song](https://open.spotify.com/track/0utns5xbl185C8Xqgwn9Nw) | [VeggieTales](https://open.spotify.com/artist/4QKx7KohkWZAOkO4sI3GRx) | [A Very Veggie Easter](https://open.spotify.com/album/5a1G1mo2BhpX6Xdgt6BRZ0) | 3:37 | 2021-04-01 |  |

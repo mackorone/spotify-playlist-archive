@@ -153,7 +153,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-10-13",
       "duration_ms": 241146,
       "name": "Black Is the Soul",
       "url": "https://open.spotify.com/track/1wYXIhJXqlIAGS6sbzpTL6"
@@ -510,6 +510,24 @@
     },
     {
       "album": {
+        "name": "The Paradigm Shift (World Tour Edition)",
+        "url": "https://open.spotify.com/album/14gKIvHuVsbf3cQVRxDOu1"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233389,
+      "name": "Hater",
+      "url": "https://open.spotify.com/track/1vlgn36Bko8wbMBwzS4Mdr"
+    },
+    {
+      "album": {
         "name": "Untouchables",
         "url": "https://open.spotify.com/album/1MqmDK2xw4isOPhiUb9eXO"
       },
@@ -539,7 +557,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 278925,
       "name": "Idiosyncrasy",
       "url": "https://open.spotify.com/track/324feiafM58soZXlBMVT1u"
@@ -647,7 +665,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 230013,
       "name": "Lost In The Grandeur",
       "url": "https://open.spotify.com/track/4frc8rYiPP7oHmxEMh3LHR"
@@ -665,7 +683,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 243106,
       "name": "Love & Meth",
       "url": "https://open.spotify.com/track/1Y74SC05mNh4jS6XLjxh1X"
@@ -727,7 +745,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 200560,
       "name": "Penance To Sorrow",
       "url": "https://open.spotify.com/track/22fTnFLkgHmV1qGLP1cihy"
@@ -835,7 +853,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": null,
       "duration_ms": 208053,
       "name": "Start The Healing",
       "url": "https://open.spotify.com/track/3DRSkg7t5Jpa86TPIFGxBr"
@@ -947,7 +965,7 @@
       ],
       "date_added": "2022-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 240546,
       "name": "Wicked (feat. Chino Moreno)",
       "url": "https://open.spotify.com/track/2PeLrcfqn5agneKc3S2HMu"
@@ -1001,10 +1019,40 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": "2022-11-21",
       "duration_ms": 243560,
       "name": "Worst Is On Its Way",
       "url": "https://open.spotify.com/track/4mvAZT5CKaKZjvNGmjoHRA"
+    },
+    {
+      "album": {
+        "name": "Worst Is On Its Way (HEALTH Remix)",
+        "url": "https://open.spotify.com/album/7d5mOgDZ2kKE9x2hJR2Qcv"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        },
+        {
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        },
+        {
+          "name": "Danny Brown",
+          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+        },
+        {
+          "name": "Meechy Darko",
+          "url": "https://open.spotify.com/artist/5QRlmTynCos8JyojtmgNq6"
+        }
+      ],
+      "date_added": "2022-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271431,
+      "name": "Worst Is On Its Way [Feat. Danny Brown & Meechy Darko] - HEALTH Remix",
+      "url": "https://open.spotify.com/track/6m5bseSyKNEasHC6y49fgX"
     },
     {
       "album": {

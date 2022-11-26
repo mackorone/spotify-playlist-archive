@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY53P9WxRUop.md) - [plain]
 
 > Summer fun for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,880 likes - 76 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,002 likes - 76 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY53P9WxRUop.md) - [plain]
 | 2 | [1\-2\-3 Fun Camp!](https://open.spotify.com/track/1fIjjOyu3ftxRUvCmwoNLj) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [1\-2\-3 Fun Camp!](https://open.spotify.com/album/2SxkoAjwKwE5G7PpRgvnb1) | 1:39 |
 | 3 | [Wake Up](https://open.spotify.com/track/750gu0SlvvJ5lGhkjM9bKs) | [Recess Monkey](https://open.spotify.com/artist/0oXrvAp6NnKeWz1qnKrNLb) | [Family Photo Album](https://open.spotify.com/album/5ReK6CXisDMoAfz8dKf1nD) | 2:30 |
 | 4 | [Let's Go Outside](https://open.spotify.com/track/5gwhvjQvq5CudsONgBJB9c) | [Sarah Pirtle](https://open.spotify.com/artist/5G0zt4pPtUa8KW6QIHedRa) | [Pocketful of Wonder](https://open.spotify.com/album/0TkEqgYEwPXCSki5NFUSnE) | 2:25 |
-| 5 | [Sunscreen](https://open.spotify.com/track/69Kf8wQ91FpKltMUuDruBL) | [Noggin](https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn) | [Let's Dance](https://open.spotify.com/album/6SHJk0npY3mr7SXFX6fcps) | 1:23 |
+| 5 | [Sunscreen](https://open.spotify.com/track/3NDYpgUKtlEREDJLQ1WDl4) | [Noggin](https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn) | [Let's Dance](https://open.spotify.com/album/48lHFP0hYmSgR2Bdc2uocH) | 1:23 |
 | 6 | [Backyard Swimsuit](https://open.spotify.com/track/2b7pVukPLhe7PkzapD4sMy) | [Koo Koo Kanga Roo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb), [Sims](https://open.spotify.com/artist/3REPW9qXSD6VjeAHr0OENv) | [Backyard Swimsuit](https://open.spotify.com/album/21W8fov6jwV3Y8TCFo2SNz) | 3:04 |
 | 7 | [Lemonade Stand](https://open.spotify.com/track/5f6LCqqqP2JJ3LhHiR7SFq) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [A Potluck](https://open.spotify.com/album/4uBGyDlwFP7tlfLma1DDJk) | 2:41 |
 | 8 | [Chillin'](https://open.spotify.com/track/14nJsemfxPFCNfKZ3Pse0o) | [Mista Cookie Jar](https://open.spotify.com/artist/0HL2EVwbtbmTaUirGt9hWt), [Uncle Dox](https://open.spotify.com/artist/2f9WUsP1fUz3QLcbPUkiw9) | [Don't Gotta Be Cool](https://open.spotify.com/album/7Dmkj0ruoRevuG1gKXRpfy) | 3:28 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY53P9WxRUop.md) - [plain]
 | 26 | [Pool Safely](https://open.spotify.com/track/4ESxF1E8egs2Z8JNCzk8Eu) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Superhero](https://open.spotify.com/album/7FKsCQprYp5p6veybFbXr4) | 2:03 |
 | 27 | [Riding the Waves](https://open.spotify.com/track/5hXDPy8wqd1O9ypkCTjtqa) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Imagination Movers: In a Big Warehouse](https://open.spotify.com/album/2MmbI5cNJ2twmLFWBTUcNq) | 2:14 |
 | 28 | [Playground Day](https://open.spotify.com/track/3BhXUY80wTA1bqekwYpBKV) | [Nanny Nikki](https://open.spotify.com/artist/4PpVyNXXqA5P9e7letrpAx) | [All One Tribe](https://open.spotify.com/album/1EEVSonqRIjEB0DapNIRs8) | 3:52 |
-| 29 | [Surfin' And Sunnin'](https://open.spotify.com/track/4abQIptzx1pXZBDq8PF71o) | [Sunny Day](https://open.spotify.com/artist/4KqqosG1rMSwHl0AyLeatP) | [Keep Styling, Keep Singing](https://open.spotify.com/album/7cgGVrEHEiJLhjzWfMfItx) | 0:49 |
+| 29 | [Surfin' And Sunnin'](https://open.spotify.com/track/4vLm0SMd4p9OGMuk42R2fh) | [Sunny Day](https://open.spotify.com/artist/7vbp1MtEikhcZYIr751zDk) | [Keep Styling, Keep Singing](https://open.spotify.com/album/1uxwtl3M3vwzaZDL5Pg9n6) | 0:49 |
 | 30 | [Hot Nights \(feat\. Pat Sansone\)](https://open.spotify.com/track/4lysmuayuw7MrjxNECdhQs) | [Gustafer Yellowgold](https://open.spotify.com/artist/5sGtc7Y69V5jslrvAzSYxK) | [Brighter Side](https://open.spotify.com/album/5t7evB9uKy03DvgWKnIOOZ) | 2:55 |
 | 31 | [Dancing in the Summertime](https://open.spotify.com/track/19AWv57sKz9q5tzltSFKlx) | [Piccolo Music](https://open.spotify.com/artist/1JYuWmfI1YsWKxb050RxRI) | [Sing Yourself a Smile](https://open.spotify.com/album/6SrFFzym0Z7pieo4kLYFSF) | 2:19 |
 | 32 | [Best Day Ever](https://open.spotify.com/track/1JGUj6Cjj3pJHle2QSixMf) | [SaulPaul](https://open.spotify.com/artist/0WLNaHsTTp6sWxaL7KykCu) | [Best Day Ever](https://open.spotify.com/album/7DdIJ7bu3xrpsUT2JKy8C5) | 2:30 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY53P9WxRUop.md) - [plain]
 | 75 | [Let's Go Fly a Kite](https://open.spotify.com/track/0E13OCGuZX4pWcbAttmRpb) | [Wendy and DB](https://open.spotify.com/artist/2DA994szci8jCCBDsPFbpM) | [Hey Big World](https://open.spotify.com/album/7qrmKYtBMFrc7iwhe1I5xR) | 2:05 |
 | 76 | [Summer Sunshine](https://open.spotify.com/track/0QfYy4pgfxQ2Af3ScScLWY) | [Rebecca Frezza & Big Truck](https://open.spotify.com/artist/1SeulqPitSZkVs2NChVAlO) | [Special Kind Of Day](https://open.spotify.com/album/50P0yHZsEryCZ8Uy98b5ET) | 2:42 |
 
-Snapshot ID: `MTY1NDY4OTg4NSwwMDAwMDAwMDk3ODcyNzk0NjY4ZTYyMGM0ZTBhOWEyZWIyMTlhZWYz`
+Snapshot ID: `MTY1NDY4OTg4NSwwMDAwMDAwMDRhOTAyZTNmZjM0MDc3M2Q2MzBkY2UyMzE2ZjMwYmIz`

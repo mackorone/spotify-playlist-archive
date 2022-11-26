@@ -4,7 +4,7 @@
 
 > Beautiful and serene harp music for relaxation, meditation and unwinding from the day.
 
-96 songs - 4 hr 48 min - [published](https://open.spotify.com/playlist/4Vkd1lM4f47tYYTnIGCNNj)
+97 songs - 4 hr 52 min - [published](https://open.spotify.com/playlist/4Vkd1lM4f47tYYTnIGCNNj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Marsh of Rhudlands](https://open.spotify.com/track/4VcJfNEKOuqWgj32L4yn4u) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Margie Butler](https://open.spotify.com/artist/78sAgFtzkqS9AsapvytY7z) | [Margie Butler: Carolan's Draught \- Celtic Harp](https://open.spotify.com/album/5juxWbAu431jd0NqDlklHh) | 3:11 | 2022-05-11 | 2022-07-29 |
 | [Mary, You Were Wrong](https://open.spotify.com/track/7cAjwU15bF9O81UjiC1HpH) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Mary, You Were Wrong](https://open.spotify.com/album/1QumBx2mlFuTfFu8zR2sM7) | 4:58 | 2022-05-11 |  |
 | [Maryanne's Song](https://open.spotify.com/track/62EvyXd17LzHEBXPZurMHj) | [Lola Fiennes](https://open.spotify.com/artist/2AxgpeDAr8BILZvsEO445F) | [Maryanne's Song](https://open.spotify.com/album/4C5NJRe1QDXvyKQrP3hbKR) | 1:18 | 2022-05-11 |  |
+| [Medley : Limerick Is Beautiful / Kilcash](https://open.spotify.com/track/3VbAEIOn8oV2BnBimhPbFo) | [Margie Butler](https://open.spotify.com/artist/78sAgFtzkqS9AsapvytY7z) | [Festival De Musiques Irlandaises Vol\. 3 \(Musiques Celtiques\)](https://open.spotify.com/album/6yyPVxSc8tvq8ZA9l01xZX) | 3:55 | 2022-08-10 | 2022-11-13 |
 | [Music For Growing Flowers \- Pt\. 5](https://open.spotify.com/track/1HoCiBasSm8HLDQ6TIyZlL) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/4ivhFfoUuBby0JKvbAuOeE) | 2:44 | 2022-08-10 | 2022-08-25 |
 | [Music For Growing Flowers \- Pt\. 5](https://open.spotify.com/track/6Ud2eoIWr1PlHZjBulf0fG) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/7nlNFxFHuJxLHtfGM2mAkD) | 2:44 | 2022-08-10 |  |
 | [Music of Spey](https://open.spotify.com/track/0ecznKoNRZ07IK0VUFPIBB) | [Aryeh Frankfurter](https://open.spotify.com/artist/2SJAELt6ygyUmDglWepUoJ) | [Aryeh Frankfurter: Celtic Harp \- Tunes From Ireland, Scotland and Scandinavia](https://open.spotify.com/album/2gUUuHz0ZTGPfV97oZDv7N) | 5:09 | 2022-07-18 |  |

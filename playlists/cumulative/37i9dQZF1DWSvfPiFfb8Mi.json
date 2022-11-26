@@ -470,6 +470,24 @@
     },
     {
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/5dVLxKHRqppIumWNp5Crzb"
+      },
+      "artists": [
+        {
+          "name": "Daniel Bortz",
+          "url": "https://open.spotify.com/artist/23B2qxOv4x5uzlyhfEuNQi"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308877,
+      "name": "Holding You",
+      "url": "https://open.spotify.com/track/3EDM7KO0QY9np171q2RhHx"
+    },
+    {
+      "album": {
         "name": "Holding You",
         "url": "https://open.spotify.com/album/6uMnvI7PP9J0S3tpQJf625"
       },
@@ -481,7 +499,7 @@
       ],
       "date_added": "2021-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 308877,
       "name": "Holding You",
       "url": "https://open.spotify.com/track/5XkXjjM3TCqi6k1N4vSH2G"
@@ -521,6 +539,24 @@
       "duration_ms": 254072,
       "name": "Hot Summer Love",
       "url": "https://open.spotify.com/track/5dVoFQZwySXrBDd3AszUIe"
+    },
+    {
+      "album": {
+        "name": "The Moment",
+        "url": "https://open.spotify.com/album/08tD174VfZEDisYlcp0mfX"
+      },
+      "artists": [
+        {
+          "name": "Jordan Astra",
+          "url": "https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 254072,
+      "name": "Hot Summer Love",
+      "url": "https://open.spotify.com/track/7jkNyMn9RQErk40hZlvVM9"
     },
     {
       "album": {
@@ -601,6 +637,24 @@
       "duration_ms": 174985,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/2oUhuL5XRBFeEUTHTS9WWJ"
+    },
+    {
+      "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/4tYpdAAF6oJaxJ3fuzboHX"
+      },
+      "artists": [
+        {
+          "name": "Mangabey",
+          "url": "https://open.spotify.com/artist/0IySrk0S2gbAoxaYyPHEZD"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 344111,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/0H6aRi7rGgHJulopiLFgvm"
     },
     {
       "album": {
@@ -1138,6 +1192,24 @@
     },
     {
       "album": {
+        "name": "This Is House, Vol. 1",
+        "url": "https://open.spotify.com/album/0XNQ1bQRX7M37TUGeoeLji"
+      },
+      "artists": [
+        {
+          "name": "Black Loops",
+          "url": "https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 383500,
+      "name": "NYC Dirty Talks - Original Mix",
+      "url": "https://open.spotify.com/track/4WRrZknAyG38JPLFL2Sej0"
+    },
+    {
+      "album": {
         "name": "Out The Fire (At The Hotel)",
         "url": "https://open.spotify.com/album/7n456SX833Pv7NyjcZoLis"
       },
@@ -1246,15 +1318,37 @@
         },
         {
           "name": "Sano",
-          "url": "https://open.spotify.com/artist/6DbQX2GURCMS7mNyXR5Ndj"
+          "url": "https://open.spotify.com/artist/0kCcPUZQeVQrqBLJfgoGb1"
         }
       ],
       "date_added": "2021-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 299776,
       "name": "Ritmo 6",
       "url": "https://open.spotify.com/track/1vJsWeFVitz10PLxpvCTOo"
+    },
+    {
+      "album": {
+        "name": "Tannin",
+        "url": "https://open.spotify.com/album/0IEN4CV0eoh0CnsFXIIC9P"
+      },
+      "artists": [
+        {
+          "name": "Christian S",
+          "url": "https://open.spotify.com/artist/0GQQT1VBcDpqgy4qJsRUqo"
+        },
+        {
+          "name": "Sano",
+          "url": "https://open.spotify.com/artist/0kCcPUZQeVQrqBLJfgoGb1"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299776,
+      "name": "Ritmo 6",
+      "url": "https://open.spotify.com/track/6KGQ8HUfPdrGVmQAMLlNtI"
     },
     {
       "album": {
@@ -1295,6 +1389,24 @@
       "duration_ms": 227317,
       "name": "Sarita Colonia - Edit",
       "url": "https://open.spotify.com/track/0VNtKhOQZConLZc1GjQckk"
+    },
+    {
+      "album": {
+        "name": "Satisfy Your Fantasy",
+        "url": "https://open.spotify.com/album/41P47wN7Z6L02O52OQSw3j"
+      },
+      "artists": [
+        {
+          "name": "CINTHIE",
+          "url": "https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 424119,
+      "name": "Satisfy Your Fantasy",
+      "url": "https://open.spotify.com/track/2awksO3qqWBWDnJuBJdQaC"
     },
     {
       "album": {
@@ -1519,6 +1631,24 @@
     {
       "album": {
         "name": "On a Different Page",
+        "url": "https://open.spotify.com/album/2xswfjdRu4tJ3bQTlpWVmo"
+      },
+      "artists": [
+        {
+          "name": "1000 Beasts",
+          "url": "https://open.spotify.com/artist/3gFKwhL6BbxCd4Meqm2AH9"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235752,
+      "name": "Tokyo",
+      "url": "https://open.spotify.com/track/04kqFUNkLsqiGBdzeXDqGJ"
+    },
+    {
+      "album": {
+        "name": "On a Different Page",
         "url": "https://open.spotify.com/album/1tVCrfSA85W4NAeo5vgATR"
       },
       "artists": [
@@ -1533,7 +1663,7 @@
       ],
       "date_added": "2021-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 235752,
       "name": "Tokyo",
       "url": "https://open.spotify.com/track/5ZSqGX8UtroLgLwdvcihmg"

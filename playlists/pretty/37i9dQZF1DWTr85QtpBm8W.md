@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 
 > Immerse yourself in Ambient from the first decade of the 21st century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,982 likes - 103 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,352 likes - 103 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 | 55 | [Further Away](https://open.spotify.com/track/7aCpRDsOpjtBOYECwpdsDv) | [The Sight Below](https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY) | [Glider](https://open.spotify.com/album/3NI2Qzk6pVI88VSzgR78aI) | 5:57 |
 | 56 | [Thunderbird Road](https://open.spotify.com/track/4T5LHqEJI344VvCf2xlKcQ) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC) | [Imperial](https://open.spotify.com/album/1bkRR3zou4x1vYBjwuEzFH) | 6:27 |
 | 57 | [Raamat](https://open.spotify.com/track/4xzjlz31M7YI9g6MqnEdP5) | [Vladislav Delay](https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9) | [MP3 Collection](https://open.spotify.com/album/6UufZoGprTMwK78k4sEjjg) | 7:18 |
-| 58 | [The Sun Is Scheduled to Come Out Tomorrow](https://open.spotify.com/track/08OiY4KLXsohk1HOVzJH5D) | [Chris Zabriskie](https://open.spotify.com/artist/4e1c0g0L9diwIpBeyfV8ka) | [I Am a Man Who Will Fight for Your Honor](https://open.spotify.com/album/5FhTurkBSxWbfg1Y3LJPXx) | 7:04 |
+| 58 | [The Sun Is Scheduled to Come Out Tomorrow](https://open.spotify.com/track/5E62oQ051vOnn6UDVthTot) | [Chris Zabriskie](https://open.spotify.com/artist/4e1c0g0L9diwIpBeyfV8ka) | [I Am a Man Who Will Fight for Your Honor](https://open.spotify.com/album/6loc604vNMnAaCwxgl8G85) | 7:04 |
 | 59 | [01 Ghosts I](https://open.spotify.com/track/3M17PrywlQbpMskEKvdaea) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Ghosts I\-IV](https://open.spotify.com/album/0lOn8nKk4dzzRfnCCCRbwp) | 2:48 |
 | 60 | [Cold Out There](https://open.spotify.com/track/0c0ZVPQPNOfoW16dSa891N) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Opalescent](https://open.spotify.com/album/7wPJ4V3ueggJxvaYscV9Ou) | 3:54 |
 | 61 | [From The Same Hill \- Remastered 2005](https://open.spotify.com/track/6KXkRnKRmVes2BfNzN7bnX) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Music For Films](https://open.spotify.com/album/1ISvymGGbUmHY01eJ8EF07) | 3:00 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 | 102 | [Woe Is the Transgression I](https://open.spotify.com/track/2zpTolaAqlsIauPX764rMs) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Betrayed in the Octagon](https://open.spotify.com/album/63Gy5cxnjLWYpxbcjEezgj) | 8:44 |
 | 103 | [Don't Bother They're Here](https://open.spotify.com/track/477naywDON3t1iAF4COlOV) | [Stars Of The Lid](https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc) | [And Their Refinement of the Decline](https://open.spotify.com/album/6cHPEbPryLpH5VX5Eb1Vvo) | 10:10 |
 
-Snapshot ID: `MTY2NDg4NzY1MiwwMDAwMDAwMDFmZDU0ZDdiNmRiYzUwNjFmMWMzZTQ3NmYwNTY4YjA1`
+Snapshot ID: `MTY2NDg4NzY1MiwwMDAwMDAwMGVmZDNhN2JkNmU4YjQ0NzQxMjRkOGY3ZGY3ZGYwNDcz`

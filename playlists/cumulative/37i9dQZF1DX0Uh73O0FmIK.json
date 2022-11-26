@@ -273,7 +273,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 282947,
       "name": "Business Class",
       "url": "https://open.spotify.com/track/6562NxLaKG87YFbsUHFBKu"
@@ -309,7 +309,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 236800,
       "name": "Core",
       "url": "https://open.spotify.com/track/6Knx4Tp8hE7IlYtde2dCYI"
@@ -345,7 +345,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 214130,
       "name": "Crow (DJ-Kicks) - Mixed",
       "url": "https://open.spotify.com/track/4s5zfEwFuufmA9KLDHF8ft"
@@ -532,6 +532,28 @@
     },
     {
       "album": {
+        "name": "Eveningpol",
+        "url": "https://open.spotify.com/album/6UySJRBKHW19DYB8jx9dlY"
+      },
+      "artists": [
+        {
+          "name": "R. Missing",
+          "url": "https://open.spotify.com/artist/4EVSMYb2zBDoSHSGEqeztu"
+        },
+        {
+          "name": "Levingtquatre",
+          "url": "https://open.spotify.com/artist/1mksa9q8wjMTdaOzxtoOlA"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168960,
+      "name": "Eveningpol",
+      "url": "https://open.spotify.com/track/2etXkxlwIPZyFLfUpfaFHO"
+    },
+    {
+      "album": {
         "name": "Fantasy Special Edition",
         "url": "https://open.spotify.com/album/0WzgtSoa9ktjOCa8DKI3lJ"
       },
@@ -695,7 +717,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 275520,
       "name": "Hacker",
       "url": "https://open.spotify.com/track/7y8X0Z04gJCKtfrnSAMywJ"
@@ -789,10 +811,54 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 292524,
       "name": "Hypnocurrency",
       "url": "https://open.spotify.com/track/3evAUkYDPeLX5kn0LbvGz4"
+    },
+    {
+      "album": {
+        "name": "Hypnocurrency",
+        "url": "https://open.spotify.com/album/42JmDtuxBI5cOjCojXkf2P"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        }
+      ],
+      "date_added": "2022-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292524,
+      "name": "Hypnocurrency",
+      "url": "https://open.spotify.com/track/6H3uEl6cwtz6w8w1vTbAxE"
+    },
+    {
+      "album": {
+        "name": "Cyberpunk 2077: Radio, Vol. 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A"
+      },
+      "artists": [
+        {
+          "name": "Rosa Walton",
+          "url": "https://open.spotify.com/artist/1X0HaTcdkHW7LviblBiEeq"
+        },
+        {
+          "name": "Hallie Coggins",
+          "url": "https://open.spotify.com/artist/5JNkPX6dYGLeEm4cUjHNGc"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246652,
+      "name": "I Really Want to Stay at Your House",
+      "url": "https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm"
     },
     {
       "album": {
@@ -847,7 +913,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 296770,
       "name": "In Motion",
       "url": "https://open.spotify.com/track/50CgC2wKmbWm4WLQKY87oP"
@@ -865,7 +931,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 212581,
       "name": "Itchy",
       "url": "https://open.spotify.com/track/3nuqSXnU3YUUpZ4yBdNlOG"
@@ -1171,7 +1237,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 214187,
       "name": "Peroxide",
       "url": "https://open.spotify.com/track/1fbmkoREwP13dkXJI5YGfn"
@@ -1333,7 +1399,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 151520,
       "name": "Roygbiv",
       "url": "https://open.spotify.com/track/2XQSgmtEY2titXhfY414dy"
@@ -1409,7 +1475,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 344258,
       "name": "Someday",
       "url": "https://open.spotify.com/track/7LA4E5n1SvGb2Srzh6bCZ8"
@@ -1431,6 +1497,24 @@
       "duration_ms": 288000,
       "name": "Spaced",
       "url": "https://open.spotify.com/track/4dz8WzdifDQPWqHq2jWRKA"
+    },
+    {
+      "album": {
+        "name": "Always Outnumbered, Never Outgunned",
+        "url": "https://open.spotify.com/album/6kjD6MJ95xECin1kxGeAlM"
+      },
+      "artists": [
+        {
+          "name": "The Prodigy",
+          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307800,
+      "name": "Spitfire",
+      "url": "https://open.spotify.com/track/0ERv9Zf4AJJdQ1sIztb15v"
     },
     {
       "album": {
@@ -1569,7 +1653,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 144200,
       "name": "TASTY",
       "url": "https://open.spotify.com/track/4XqpRH4wcNna6H1fEaSghG"
@@ -1717,7 +1801,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 299000,
       "name": "Tribulations",
       "url": "https://open.spotify.com/track/5JOO8UMaEpOfhhatQQsAqm"

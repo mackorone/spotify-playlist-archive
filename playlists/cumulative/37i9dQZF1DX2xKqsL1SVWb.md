@@ -4,7 +4,7 @@
 
 > Folk tan dulce como la miel.
 
-96 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/51PGtygMYuoHpiALaPK8vx)
+97 songs - 5 hr 31 min - [published](https://open.spotify.com/playlist/51PGtygMYuoHpiALaPK8vx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,12 +36,13 @@
 | [Cuánto Tiempo Sin Verte](https://open.spotify.com/track/6jjQY90GmwJoQtxl7GOkIM) | [Erich](https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU) | [Cuánto Tiempo Sin Verte](https://open.spotify.com/album/0tsKYJ93msFYW1F4yYBxm5) | 2:58 | 2022-04-20 | 2022-08-15 |
 | [Dejar Ir](https://open.spotify.com/track/2a7gTBqzipCCuSQzgOSHl6) | [Carope](https://open.spotify.com/artist/4TCGau2PjdwNpyEOPVtdPs) | [Dejar Ir](https://open.spotify.com/album/7joqDQGlL3HEbX4uuaR8tA) | 4:49 | 2022-06-27 |  |
 | [Dime](https://open.spotify.com/track/4nVXw2k8sRREEK4w4akSXd) | [Nicoletta Spinelli](https://open.spotify.com/artist/69hYMQ2gjsvpxbOwUNzwLj) | [Al Amor](https://open.spotify.com/album/1vefYbawyvYoFEzvw8kVUB) | 3:28 | 2022-04-20 |  |
+| [Dulce Veneno \- Sigues Aquí](https://open.spotify.com/track/0LoI3j520Qk59LGE9SSGes) | [David de la Luz](https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3), [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [Dulce Veneno \(Sigues Aquí\)](https://open.spotify.com/album/6ATlr7ZZQSIsUbLt9iq0yO) | 4:18 | 2022-09-02 | 2022-11-13 |
 | [Dulce Veneno \- Sigues Aquí](https://open.spotify.com/track/2u0bUWgV8Ac8O3gnnA5xI0) | [David de la Luz](https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3), [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [De Todo un Poco](https://open.spotify.com/album/28FDFSEkA2zhVB5q6GL6CS) | 4:18 | 2022-06-27 |  |
 | [Dulce Veneno \- Sigues Aquí](https://open.spotify.com/track/6YGphaWg7H7sJ8zXfryMfU) | [David de la Luz](https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3), [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [Dulce Veneno \(Sigues Aquí\)](https://open.spotify.com/album/5w5ok7kj8Qvorr7LpCMpp4) | 4:18 | 2022-04-20 | 2022-07-29 |
 | [El Fin](https://open.spotify.com/track/0tMZaa09HA20lbBvKEkd8N) | [Karla Cruise](https://open.spotify.com/artist/1lDvMKVfuYM3tO8iAIlYrs) | [El Fin](https://open.spotify.com/album/36zytWk6zIaTL5hcrPplY8) | 2:57 | 2022-04-20 |  |
 | [Enamorado de tu sonrisa](https://open.spotify.com/track/3pTcdaWpEZ5FqAaHoNAjQD) | [Juan Cirerol](https://open.spotify.com/artist/0zipD52jhXFlSyN84URtCm) | [Enamorado de tu sonrisa](https://open.spotify.com/album/5Kj2k4AEIi5WLlxYqa6Wei) | 2:47 | 2022-04-20 | 2022-09-03 |
 | [Espejismo](https://open.spotify.com/track/4IGyfqJTFRcrEQ0i8MTlhK) | [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [Espejismo](https://open.spotify.com/album/43dQczypj91ERC5AjSl5bd) | 2:58 | 2022-04-20 | 2022-09-03 |
-| [Está Dañada \- Remix](https://open.spotify.com/track/2HFrlVZI1PHNwfNiIC8mkb) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Está Dañada \(Remix\)](https://open.spotify.com/album/1dEd2iGVdXJXmQdhNklAOO) | 3:59 | 2022-04-20 |  |
+| [Está Dañada \- Remix](https://open.spotify.com/track/2HFrlVZI1PHNwfNiIC8mkb) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Está Dañada \(Remix\)](https://open.spotify.com/album/1dEd2iGVdXJXmQdhNklAOO) | 3:59 | 2022-04-20 |  |
 | [Euforia](https://open.spotify.com/track/2hHaDesv4GPrUFALA10p0B) | [Paola Meza](https://open.spotify.com/artist/5njFdXuFrH8HzkBpoEFHy0) | [Euforia](https://open.spotify.com/album/0UkJCJOyqXSUVAaJriabB6) | 3:21 | 2022-04-20 |  |
 | [Herido :\(](https://open.spotify.com/track/3nOVioPlgs8GxvCVQJ0jKV) | [SHAO](https://open.spotify.com/artist/6rGxc2bEuNfj8aNtGh7TQS) | [Terciopelo](https://open.spotify.com/album/0uOOazj0IXyUab4OVT9rIz) | 3:43 | 2022-04-20 |  |
 | [Hoy Es Hoy](https://open.spotify.com/track/3H4XQcBxCptMYEou4tsjVd) | [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [Hoy Es Hoy](https://open.spotify.com/album/3iU8y5kOdMIPMdaRaHyhmF) | 2:54 | 2022-04-20 |  |

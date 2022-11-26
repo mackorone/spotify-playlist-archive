@@ -4,7 +4,7 @@
 
 > All the essentials, one playlist.
 
-67 songs - 5 hr 13 min - [published](https://open.spotify.com/playlist/7neakOR61Ym3UnE4uzFRQx)
+70 songs - 5 hr 25 min - [published](https://open.spotify.com/playlist/7neakOR61Ym3UnE4uzFRQx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,11 +44,13 @@
 | [I Stand In Awe](https://open.spotify.com/track/1tlyPIx6lL2g4Em8JbHDcR) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Nicole Serrano](https://open.spotify.com/artist/1Q3Bf69OLRJEZBigSjtUs5) | [Holy Roar](https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq) | 4:17 | 2021-03-17 |  |
 | [I Will Follow](https://open.spotify.com/track/6kpAhNL6CYs3NSbFs3tHwf) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [And If Our God Is For Us...](https://open.spotify.com/album/2xwFfH8fO1MRmWZbNKZVqt) | 3:40 | 2021-03-17 |  |
 | [I Will Rise](https://open.spotify.com/track/7j1e730A8K1my1mM4knYmr) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Great Is Our God: The Essential Collection](https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu) | 5:00 | 2021-03-17 |  |
+| [Impact](https://open.spotify.com/track/7hY2Hik7g5zdpPdy67S7NH) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Nobody Loves Me Like You \- EP](https://open.spotify.com/album/1pav0KeTGmO1o0TabiYg6s) | 4:14 | 2021-03-17 | 2022-11-14 |
 | [Impact](https://open.spotify.com/track/1FTInStxJsbzQp75jrsxsI) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Roar](https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq) | 4:14 | 2021-03-17 |  |
 | [Impossible Things](https://open.spotify.com/track/5KmmiVOsTjzJhuPxXxpeGt) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Never Lose Sight \(Deluxe Edition\)](https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F) | 4:27 | 2021-03-17 |  |
 | [Indescribable \- Arriving Album Version](https://open.spotify.com/track/1GoE6xwwZ20NbxCKVA5nz2) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Great Is Our God: The Essential Collection](https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu) | 3:58 | 2021-03-17 |  |
 | [Is He Worthy?](https://open.spotify.com/track/4E43YlwUlpYDJIxcMjt0S7) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Roar](https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq) | 4:31 | 2021-03-17 |  |
 | [Jesus](https://open.spotify.com/track/7CNINxlyvWE15Dees3X5zC) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Never Lose Sight \(Deluxe Edition\)](https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F) | 4:05 | 2021-03-17 |  |
+| [Jesus](https://open.spotify.com/track/2y1Z3XFdUmizDFpgNXTeya) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [What A Beautiful Name](https://open.spotify.com/album/6098c8KBcKuDEBKcOBmxSv) | 4:09 | 2021-03-17 | 2022-11-14 |
 | [Jesus Loves Me](https://open.spotify.com/track/1uYzjO9kztEi2KVSS5rDgE) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Love Ran Red](https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY) | 3:31 | 2021-03-17 |  |
 | [Lay Me Down](https://open.spotify.com/track/3SpEJEJtn8EE0EzGY6xDdD) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Burning Lights](https://open.spotify.com/album/3tSSB1DofuOXRnNXPDjwiW) | 4:45 | 2021-03-17 |  |
 | [Lay Me Down \- Live](https://open.spotify.com/track/090yW5nfZqCi8jVtf9WxvP) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Passion: White Flag](https://open.spotify.com/album/1xuZPjUaD8wODDfpWbJH9e) | 5:25 | 2021-03-17 |  |
@@ -60,6 +62,7 @@
 | [Praise Is The Highway](https://open.spotify.com/track/3ZCDz9QVHABW1N39XfgJBf) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Roar](https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq) | 4:56 | 2021-03-17 |  |
 | [Resurrection Power](https://open.spotify.com/track/2MxWMPW8E1p8B0Wcc5ypfU) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Roar](https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq) | 4:10 | 2021-03-17 |  |
 | [Resurrection Power](https://open.spotify.com/track/20bD4lkiXkxl5VVg0Y7Tjz) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Resurrection Power](https://open.spotify.com/album/2YhFqn45YFhsEup9Av0lrh) | 4:11 | 2021-03-17 |  |
+| [Satisfied](https://open.spotify.com/track/4MZDtkNtB4qv7Is6uaBEbH) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Nobody Loves Me Like You \- EP](https://open.spotify.com/album/1pav0KeTGmO1o0TabiYg6s) | 3:32 | 2021-03-17 | 2022-11-13 |
 | [Satisfied](https://open.spotify.com/track/3WVDGjwLYHdtIFYcfyUkgM) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Roar](https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq) | 3:33 | 2021-03-17 |  |
 | [Sing \(feat\. Russell Dickerson, Florida Georgia Line\)](https://open.spotify.com/track/4bKkUZX9OlAh8fE5KsaE0G) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Chris Tomlin & Friends](https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP) | 2:46 | 2021-03-17 |  |
 | [Sing, Sing, Sing](https://open.spotify.com/track/198MQwd4SASt2PPGbtHu2I) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Hello Love](https://open.spotify.com/album/4Rxm4YPcHyohRXoIM8GWMk) | 3:49 | 2021-03-17 |  |

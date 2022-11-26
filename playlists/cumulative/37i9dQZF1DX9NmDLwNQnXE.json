@@ -4707,6 +4707,42 @@
     {
       "album": {
         "name": "starlit rainfall",
+        "url": "https://open.spotify.com/album/0b4L0c4mNqezstudoXa0Uy"
+      },
+      "artists": [
+        {
+          "name": "oh, the joy.",
+          "url": "https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 161000,
+      "name": "starlit rainfall",
+      "url": "https://open.spotify.com/track/1SKqicEoNoTQp1XEmXTlcM"
+    },
+    {
+      "album": {
+        "name": "peaceful showers (rain)",
+        "url": "https://open.spotify.com/album/5EmHKVBfrBkmHT4PlOd39x"
+      },
+      "artists": [
+        {
+          "name": "oh, the joy.",
+          "url": "https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "starlit rainfall",
+      "url": "https://open.spotify.com/track/7CLQUiUTBqBtjZHHkSVNuf"
+    },
+    {
+      "album": {
+        "name": "starlit rainfall",
         "url": "https://open.spotify.com/album/2sknFZDDYwy2o1zlnkg4iN"
       },
       "artists": [
@@ -4717,7 +4753,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 161000,
       "name": "starlit rainfall",
       "url": "https://open.spotify.com/track/7gkwTHnQ1QxWcM6HDBOqXo"

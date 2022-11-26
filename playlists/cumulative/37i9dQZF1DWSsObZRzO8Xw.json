@@ -243,6 +243,24 @@
     {
       "album": {
         "name": "The Occident",
+        "url": "https://open.spotify.com/album/11jPIR10T2GX93P5rsy4Mi"
+      },
+      "artists": [
+        {
+          "name": "Town Portal",
+          "url": "https://open.spotify.com/artist/1yYkeH8fDEJY4bJtlUseKK"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187026,
+      "name": "Bonus Trigger",
+      "url": "https://open.spotify.com/track/2SDtTQfwz93RMCGsgTuvPr"
+    },
+    {
+      "album": {
+        "name": "The Occident",
         "url": "https://open.spotify.com/album/5ZVY96PXe98i1LfYLFGvzP"
       },
       "artists": [
@@ -253,7 +271,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 187026,
       "name": "Bonus Trigger",
       "url": "https://open.spotify.com/track/5XaNG4xBlu7aWomscrTugX"
@@ -297,7 +315,7 @@
     {
       "album": {
         "name": "Twin Galaxies",
-        "url": "https://open.spotify.com/album/3LAcYg3sLwKhtGZXp0JWtj"
+        "url": "https://open.spotify.com/album/1bcWJMGRvDhvKHNmQmTTCd"
       },
       "artists": [
         {
@@ -308,6 +326,24 @@
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 189828,
+      "name": "Camp Adventure",
+      "url": "https://open.spotify.com/track/1zvAP1uHLSDblWvv25rtad"
+    },
+    {
+      "album": {
+        "name": "Twin Galaxies",
+        "url": "https://open.spotify.com/album/3LAcYg3sLwKhtGZXp0JWtj"
+      },
+      "artists": [
+        {
+          "name": "Delta Sleep",
+          "url": "https://open.spotify.com/artist/05MlomiA9La0OiNIAGqECk"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-09",
       "duration_ms": 189828,
       "name": "Camp Adventure",
       "url": "https://open.spotify.com/track/6fUrCQF7gXzs84FNWj6zPm"
@@ -948,6 +984,24 @@
     },
     {
       "album": {
+        "name": "Apples",
+        "url": "https://open.spotify.com/album/4CUlo6PBFube5mFtmfZk97"
+      },
+      "artists": [
+        {
+          "name": "Tangled Hair",
+          "url": "https://open.spotify.com/artist/15apg2MS107wZD0LvXnkMw"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 237740,
+      "name": "I'm Calmer Than You Are",
+      "url": "https://open.spotify.com/track/4siyioIjCbxbAdpEBlttbn"
+    },
+    {
+      "album": {
         "name": "Two Eps",
         "url": "https://open.spotify.com/album/2mvec1eyAYGf9sfZJgufBb"
       },
@@ -1175,10 +1229,28 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 268333,
       "name": "Never Meant",
       "url": "https://open.spotify.com/track/51R5mPcJjOnfv9lKY1u5sW"
+    },
+    {
+      "album": {
+        "name": "American Football",
+        "url": "https://open.spotify.com/album/70OkRXiiwdTCtZ9YiPBzPp"
+      },
+      "artists": [
+        {
+          "name": "American Football",
+          "url": "https://open.spotify.com/artist/5FwydyGVcsQllnM4xM6jw4"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268333,
+      "name": "Never Meant",
+      "url": "https://open.spotify.com/track/6kZqCqD1r08sJAQ1TjuEpM"
     },
     {
       "album": {
@@ -1547,6 +1619,24 @@
     {
       "album": {
         "name": "Horizons / Rapture",
+        "url": "https://open.spotify.com/album/5dcX51nu4mtE7vu3tNJyTN"
+      },
+      "artists": [
+        {
+          "name": "The Physics House Band",
+          "url": "https://open.spotify.com/artist/30EilmonVXftR1pWoALezP"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385360,
+      "name": "Teratology",
+      "url": "https://open.spotify.com/track/5xF88xyWRwEMVq3waLRcah"
+    },
+    {
+      "album": {
+        "name": "Horizons / Rapture",
         "url": "https://open.spotify.com/album/6g3H4Su4jES5zbfY4av4Tt"
       },
       "artists": [
@@ -1557,7 +1647,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 385360,
       "name": "Teratology",
       "url": "https://open.spotify.com/track/7e27JuhzIHIN2p2C6PpGU1"

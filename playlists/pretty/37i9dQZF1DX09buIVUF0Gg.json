@@ -1,15 +1,35 @@
 {
   "description": "For time with family + friends.",
-  "num_followers": 1474,
+  "num_followers": 1647,
   "original_name": "Thankful",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNzc4MTI4MCwwMDAwMDAwMDQxYjVmMzFhZjIyZjcxYjRhNTgwNTEzZDcyNWY1NTgx",
+  "snapshot_id": "MTY2OTIzODQ1NiwwMDAwMDAwMDY2MmYwOTg2ODYyZTkxMWY1OWE3NjI5N2Q3MWJlM2Qz",
   "tracks": [
     {
-      "added_at": "2021-11-24 19:14:40",
+      "added_at": "2022-11-22 23:06:49",
+      "album": {
+        "name": "Yamz",
+        "url": "https://open.spotify.com/album/5BICne3tfhmbtGhJ01vgyJ"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        },
+        {
+          "name": "Devin Morrison",
+          "url": "https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW"
+        }
+      ],
+      "duration_ms": 245071,
+      "name": "Yamz",
+      "url": "https://open.spotify.com/track/0IQ3KOas5wGRregqoMb9HF"
+    },
+    {
+      "added_at": "2022-11-22 23:06:49",
       "album": {
         "name": "70's Pop Gems",
         "url": "https://open.spotify.com/album/1L96ZF7AUTQTPRQBiOPmm6"
@@ -25,23 +45,7 @@
       "url": "https://open.spotify.com/track/3PrqRBsMdy8eZkbDqDb32p"
     },
     {
-      "added_at": "2021-11-24 19:14:40",
-      "album": {
-        "name": "Be Alive (Original Song from the Motion Picture \"King Richard\")",
-        "url": "https://open.spotify.com/album/5a73HUmrKIebjmafM1QuFS"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 220253,
-      "name": "Be Alive (Original Song from the Motion Picture \"King Richard\")",
-      "url": "https://open.spotify.com/track/1RI4YQVFh7onQD07QuL8ND"
-    },
-    {
-      "added_at": "2021-11-24 19:14:40",
+      "added_at": "2022-11-22 23:06:49",
       "album": {
         "name": "Songs In The Key Of Life",
         "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
@@ -57,7 +61,7 @@
       "url": "https://open.spotify.com/track/13toFl1UwJPsRxDiD9jgtn"
     },
     {
-      "added_at": "2021-11-24 19:14:40",
+      "added_at": "2022-11-22 23:06:49",
       "album": {
         "name": "You Want My Love",
         "url": "https://open.spotify.com/album/2GGcfPODdGZ3m6riQU4rNq"
@@ -77,7 +81,7 @@
       "url": "https://open.spotify.com/track/5BQf3eyCsoSP5jNGx9sPdD"
     },
     {
-      "added_at": "2021-11-24 19:14:40",
+      "added_at": "2022-11-22 23:06:49",
       "album": {
         "name": "An Evening With Silk Sonic",
         "url": "https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk"
@@ -101,7 +105,7 @@
       "url": "https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T"
     },
     {
-      "added_at": "2021-11-24 19:14:40",
+      "added_at": "2022-11-22 23:06:49",
       "album": {
         "name": "Back To Me",
         "url": "https://open.spotify.com/album/402GbEXo2D1adrT8ZkQoHh"
@@ -117,7 +121,7 @@
       "url": "https://open.spotify.com/track/7MFYcmfPkJ095X0Y5FF6ny"
     },
     {
-      "added_at": "2021-11-24 19:14:40",
+      "added_at": "2022-11-22 23:06:49",
       "album": {
         "name": "The Best So Far",
         "url": "https://open.spotify.com/album/1MXR2vMRldZITKc1Zk6bLe"
@@ -137,7 +141,7 @@
       "url": "https://open.spotify.com/track/3wDPJD0Ay9MLaHHRTWdGXJ"
     },
     {
-      "added_at": "2021-11-24 19:14:40",
+      "added_at": "2022-11-22 23:06:49",
       "album": {
         "name": "You're All I Need",
         "url": "https://open.spotify.com/album/1i1HqvvJk7zGpNDygYlXQd"
@@ -157,7 +161,7 @@
       "url": "https://open.spotify.com/track/6Ndauo9gCxNjTfklsFYS7b"
     },
     {
-      "added_at": "2021-11-24 19:14:40",
+      "added_at": "2022-11-22 23:06:49",
       "album": {
         "name": "It's Time For Love",
         "url": "https://open.spotify.com/album/7KPObGCC5DigQINHNKwvTV"
@@ -173,7 +177,7 @@
       "url": "https://open.spotify.com/track/3KvnF95wCJkQlCxUumLEDe"
     },
     {
-      "added_at": "2021-11-24 19:14:40",
+      "added_at": "2022-11-22 23:06:49",
       "album": {
         "name": "Just As I Am",
         "url": "https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo"
@@ -189,7 +193,39 @@
       "url": "https://open.spotify.com/track/1qfDfZAvrkSAFrAR2FTQDv"
     },
     {
-      "added_at": "2021-11-24 19:14:40",
+      "added_at": "2022-11-23 21:20:56",
+      "album": {
+        "name": "I'm Still in Love with You",
+        "url": "https://open.spotify.com/album/7hI0QCwcx9GB8MZK24IfTT"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 307062,
+      "name": "Love and Happiness",
+      "url": "https://open.spotify.com/track/6SMHgPgNkhe9lneNTbgtel"
+    },
+    {
+      "added_at": "2022-11-23 21:20:56",
+      "album": {
+        "name": "Comin' From Where I'm From",
+        "url": "https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em"
+      },
+      "artists": [
+        {
+          "name": "Anthony Hamilton",
+          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
+        }
+      ],
+      "duration_ms": 273893,
+      "name": "Cornbread, Fish & Collard Greens",
+      "url": "https://open.spotify.com/track/7km1tntASwmtyzGr8vaT0e"
+    },
+    {
+      "added_at": "2022-11-22 23:06:49",
       "album": {
         "name": "Gumbo Unplugged (Live)",
         "url": "https://open.spotify.com/album/6au0qzMOjqEgc79ntU2bf6"
@@ -209,7 +245,23 @@
       "url": "https://open.spotify.com/track/3SjAiqAQ6sMmsJBeVw0nMf"
     },
     {
-      "added_at": "2021-11-24 19:14:40",
+      "added_at": "2022-11-23 21:20:56",
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 370213,
+      "name": "Music",
+      "url": "https://open.spotify.com/track/6Watx1YhBZeISowqXK3YGq"
+    },
+    {
+      "added_at": "2022-11-22 23:06:49",
       "album": {
         "name": "Love Alive IV",
         "url": "https://open.spotify.com/album/54D2RsYSwVIS6QIpKclaOd"
@@ -225,7 +277,7 @@
       "url": "https://open.spotify.com/track/3mhfZz57Xbt7rBuTcxSR3p"
     },
     {
-      "added_at": "2021-11-24 19:14:40",
+      "added_at": "2022-11-22 23:06:49",
       "album": {
         "name": "The Essential Hezekiah Walker",
         "url": "https://open.spotify.com/album/2JiAo61bWiLtsaeQY7YPEg"
@@ -245,7 +297,7 @@
       "url": "https://open.spotify.com/track/0vtvtxjSKV02DeQJNW217U"
     },
     {
-      "added_at": "2021-11-24 19:14:40",
+      "added_at": "2022-11-22 23:06:49",
       "album": {
         "name": "Thankful",
         "url": "https://open.spotify.com/album/2CW02evpO85vRxOSYx7zcP"
@@ -261,7 +313,7 @@
       "url": "https://open.spotify.com/track/1zxCbt2G7rxOgIqghYRFIV"
     },
     {
-      "added_at": "2021-11-24 19:14:40",
+      "added_at": "2022-11-22 23:06:49",
       "album": {
         "name": "The Power Of One",
         "url": "https://open.spotify.com/album/3RhvKY1NOvbqT2xsa24PWe"
@@ -277,7 +329,7 @@
       "url": "https://open.spotify.com/track/2bHFrxFb9Gjf8gl5tYk7UL"
     },
     {
-      "added_at": "2021-11-24 19:14:40",
+      "added_at": "2022-11-22 23:06:49",
       "album": {
         "name": "The Best Of Lionel Richie 20th Century Masters The Millennium Collection",
         "url": "https://open.spotify.com/album/6UaOmeGGHUSHyy3F4ngAwa"
@@ -293,7 +345,7 @@
       "url": "https://open.spotify.com/track/52i3VeUFbCRk3z8YgBFM7N"
     },
     {
-      "added_at": "2021-11-24 19:14:40",
+      "added_at": "2022-11-22 23:06:49",
       "album": {
         "name": "Mountain High Valley Low",
         "url": "https://open.spotify.com/album/6i3sZ5fdBwlPD9b1LVRD6M"
@@ -309,7 +361,7 @@
       "url": "https://open.spotify.com/track/4cNbCWPJjLHP5ijow5LbVg"
     },
     {
-      "added_at": "2021-11-24 19:14:40",
+      "added_at": "2022-11-22 23:06:49",
       "album": {
         "name": "Aijuswanaseing",
         "url": "https://open.spotify.com/album/2RmMKj20xouC3Mqq1CyZ3c"
@@ -325,7 +377,7 @@
       "url": "https://open.spotify.com/track/6uSa5iCMwPr10Ftpz8w09b"
     },
     {
-      "added_at": "2021-11-24 19:14:40",
+      "added_at": "2022-11-22 23:06:49",
       "album": {
         "name": "Freudian",
         "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
@@ -345,7 +397,7 @@
       "url": "https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux"
     },
     {
-      "added_at": "2021-11-24 19:14:40",
+      "added_at": "2022-11-22 23:06:49",
       "album": {
         "name": "Bring it on Home to Me (feat. Charlie Bereal)",
         "url": "https://open.spotify.com/album/54tJsoenzgUlUokisFrWVA"
@@ -373,7 +425,7 @@
       "url": "https://open.spotify.com/track/578ziqCj8ieyz7NLrZ31km"
     },
     {
-      "added_at": "2021-11-24 19:14:40",
+      "added_at": "2022-11-22 23:06:49",
       "album": {
         "name": "Get Lifted",
         "url": "https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J"
@@ -393,7 +445,7 @@
       "url": "https://open.spotify.com/track/3e1PfBYUcfikMd2oyhBKKl"
     },
     {
-      "added_at": "2021-11-24 19:14:40",
+      "added_at": "2022-11-22 23:06:49",
       "album": {
         "name": "Greatest Slow Jams",
         "url": "https://open.spotify.com/album/5bnLsmE5xb2EzTbq7JMoeG"
@@ -413,7 +465,7 @@
       "url": "https://open.spotify.com/track/6VS8OqAY0yOQPQeMPjK60X"
     },
     {
-      "added_at": "2021-11-24 19:14:40",
+      "added_at": "2022-11-22 23:06:49",
       "album": {
         "name": "The Mississippi Mass Choir",
         "url": "https://open.spotify.com/album/0k4D7v1TImrWqiZCPzpvDw"
@@ -429,7 +481,7 @@
       "url": "https://open.spotify.com/track/2k2Ug3702qWJxFO9jwlVb4"
     },
     {
-      "added_at": "2021-11-24 19:14:40",
+      "added_at": "2022-11-22 23:06:49",
       "album": {
         "name": "Encourage Yourself: The Music, The Ministry, The Message",
         "url": "https://open.spotify.com/album/0N8cz0BZS5lUiWvJwsq37O"
@@ -445,7 +497,7 @@
       "url": "https://open.spotify.com/track/77ZuMHh4Jim1Ry7ahmQlS6"
     },
     {
-      "added_at": "2021-11-24 19:14:40",
+      "added_at": "2022-11-22 23:06:49",
       "album": {
         "name": "I AM",
         "url": "https://open.spotify.com/album/7sp7t59cny1pmM0JImzODg"
@@ -461,7 +513,7 @@
       "url": "https://open.spotify.com/track/0CZmy9ctYRi2Ux5uFLGqSr"
     },
     {
-      "added_at": "2021-11-24 19:14:40",
+      "added_at": "2022-11-22 23:06:49",
       "album": {
         "name": "The Best Things",
         "url": "https://open.spotify.com/album/1RIxAcFlv6TwaBoCkq0Z0t"
@@ -477,27 +529,7 @@
       "url": "https://open.spotify.com/track/2IebZ0AjurvrRGdxnnL2oI"
     },
     {
-      "added_at": "2021-11-24 19:14:40",
-      "album": {
-        "name": "Yamz",
-        "url": "https://open.spotify.com/album/5BICne3tfhmbtGhJ01vgyJ"
-      },
-      "artists": [
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        },
-        {
-          "name": "Devin Morrison",
-          "url": "https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW"
-        }
-      ],
-      "duration_ms": 245071,
-      "name": "Yamz",
-      "url": "https://open.spotify.com/track/0IQ3KOas5wGRregqoMb9HF"
-    },
-    {
-      "added_at": "2021-11-24 19:14:40",
+      "added_at": "2022-11-22 23:06:49",
       "album": {
         "name": "Black On Both Sides",
         "url": "https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6"
@@ -513,7 +545,7 @@
       "url": "https://open.spotify.com/track/5Ru9OjtEw5htfnVKpYsIcv"
     },
     {
-      "added_at": "2021-11-24 19:14:40",
+      "added_at": "2022-11-22 23:06:49",
       "album": {
         "name": "Favorites",
         "url": "https://open.spotify.com/album/4cRB1vYHEoasDzu5HN5k2D"
@@ -529,7 +561,7 @@
       "url": "https://open.spotify.com/track/4JmZyfkzXWN7pHJsJpN6XP"
     },
     {
-      "added_at": "2021-11-24 19:14:40",
+      "added_at": "2022-11-22 23:06:49",
       "album": {
         "name": "Epiphany: The Best of Chaka Khan, Vol. 1",
         "url": "https://open.spotify.com/album/3qeheeurjW0lNtf9d7hJLe"
@@ -545,7 +577,7 @@
       "url": "https://open.spotify.com/track/2bd08DhkZxgfKy7A4zZVa0"
     },
     {
-      "added_at": "2021-11-24 19:14:40",
+      "added_at": "2022-11-22 23:06:49",
       "album": {
         "name": "My Life",
         "url": "https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC"
@@ -561,7 +593,7 @@
       "url": "https://open.spotify.com/track/5X82VFLvjpeWQlTSShqqj0"
     },
     {
-      "added_at": "2021-11-24 19:14:40",
+      "added_at": "2022-11-22 23:06:49",
       "album": {
         "name": "Best Days",
         "url": "https://open.spotify.com/album/16Ljgzu7nBDSjTXJkCgBaJ"
@@ -581,7 +613,7 @@
       "url": "https://open.spotify.com/track/6fG46PUotZMTgcAzAtFLOk"
     },
     {
-      "added_at": "2021-11-24 19:14:40",
+      "added_at": "2022-11-22 23:06:49",
       "album": {
         "name": "Thank You For It All",
         "url": "https://open.spotify.com/album/4lbpO1M91NwQnMihAr3nEl"
@@ -597,7 +629,7 @@
       "url": "https://open.spotify.com/track/1uA4YKtkUT8wvFobwTtonp"
     },
     {
-      "added_at": "2021-11-24 19:14:40",
+      "added_at": "2022-11-22 23:06:49",
       "album": {
         "name": "Better Than I Imagined (Feat. H.E.R. & Meshell Ndegeocello)",
         "url": "https://open.spotify.com/album/2AS4H3CIUtrIzrK1UbsvWW"
@@ -621,7 +653,7 @@
       "url": "https://open.spotify.com/track/04vYVsWbhkQaTLx2kgVNks"
     },
     {
-      "added_at": "2021-11-24 19:14:40",
+      "added_at": "2022-11-22 23:06:49",
       "album": {
         "name": "The Other Side",
         "url": "https://open.spotify.com/album/0QsUa6r50W8EDZKHjNdxgD"

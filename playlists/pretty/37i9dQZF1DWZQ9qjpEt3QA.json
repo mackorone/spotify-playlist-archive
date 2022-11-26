@@ -1,111 +1,51 @@
 {
   "description": "Cruising through a shimmering night with the current City Pop wave from Asia.",
-  "num_followers": 66682,
+  "num_followers": 68358,
   "original_name": "Neon Lights",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTgzOTI4NSwwMDAwMDAwMDE0NzNiMjY3YzEzZTgxNDBkNmE5Zjc2NTgxZDNmMDcx",
+  "snapshot_id": "MTY2ODU2OTY4MSwwMDAwMDAwMGRjYjM2ODI4ODVhYWYwZjE4YTVlNGUyMzYzNjRmMjEy",
   "tracks": [
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
-        "name": "\u771f\u591c\u4e2d\u306e\u30c9\u30a2 / STAY WITH ME",
-        "url": "https://open.spotify.com/album/410VVfLKnd8YjwPRCZi4hI"
+        "name": "Last Train",
+        "url": "https://open.spotify.com/album/4XVsm1ov9k7FLTotdBG82G"
       },
       "artists": [
         {
-          "name": "Rainych",
-          "url": "https://open.spotify.com/artist/3dTzeO0QCd86cXSgQ04Y3r"
+          "name": "Ink Waruntorn",
+          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+        },
+        {
+          "name": "THREE1989",
+          "url": "https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn"
         }
       ],
-      "duration_ms": 311381,
-      "name": "\u771f\u591c\u4e2d\u306e\u30c9\u30a2 / STAY WITH ME",
-      "url": "https://open.spotify.com/track/7pFNLw96R1V5Yxwu0Pw3ie"
+      "duration_ms": 217000,
+      "name": "Last Train",
+      "url": "https://open.spotify.com/track/3QnxZYQmOOvIRtVj3i9Ipa"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
-        "name": "CLAPCLAPCLAP!",
-        "url": "https://open.spotify.com/album/5mGR6qKnpILzSzq1yyAUXk"
+        "name": "Miki Matsubara Best Collection",
+        "url": "https://open.spotify.com/album/1ANaxJNBcbOvvycNL4MCL5"
       },
       "artists": [
         {
-          "name": "IV Of Spades",
-          "url": "https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG"
+          "name": "Miki Matsubara",
+          "url": "https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1"
         }
       ],
-      "duration_ms": 246396,
-      "name": "Come Inside Of My Heart",
-      "url": "https://open.spotify.com/track/3Eb5sztvEMa0Mqnb8DUAlU"
+      "duration_ms": 223920,
+      "name": "It's so Creamy",
+      "url": "https://open.spotify.com/track/5wxTRe4L7bdHyrF3Nm11lO"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
-      "album": {
-        "name": "Through the Tunnel",
-        "url": "https://open.spotify.com/album/1AGVQTchxNPR1BCLzK83CI"
-      },
-      "artists": [
-        {
-          "name": "The Yangbans",
-          "url": "https://open.spotify.com/artist/2YnwThp48Nrhtf7JIBCpbu"
-        }
-      ],
-      "duration_ms": 288240,
-      "name": "Through the Tunnel",
-      "url": "https://open.spotify.com/track/0yuCGyf9UYFjoxQuJqJTm3"
-    },
-    {
-      "added_at": "2022-08-30 06:01:25",
-      "album": {
-        "name": "Killer",
-        "url": "https://open.spotify.com/album/1PAYLLRK9lMJQVZlWpPkjr"
-      },
-      "artists": [
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        }
-      ],
-      "duration_ms": 198612,
-      "name": "Killer",
-      "url": "https://open.spotify.com/track/0skOmSnfoOEOjCvkkvymhz"
-    },
-    {
-      "added_at": "2022-08-30 06:01:25",
-      "album": {
-        "name": "MASA MUDA",
-        "url": "https://open.spotify.com/album/53E46YfYxg4Wbogp1ihzSV"
-      },
-      "artists": [
-        {
-          "name": "Laura Pradipta",
-          "url": "https://open.spotify.com/artist/3DjOjSvtE3thRSMBeBR4kH"
-        }
-      ],
-      "duration_ms": 278318,
-      "name": "MASA MUDA",
-      "url": "https://open.spotify.com/track/0eSwUxNz2EFlGC7Wn5Lsra"
-    },
-    {
-      "added_at": "2022-08-30 06:01:25",
-      "album": {
-        "name": "Hello Ocean",
-        "url": "https://open.spotify.com/album/4kl4SGRxJut7Lk069v2DPb"
-      },
-      "artists": [
-        {
-          "name": "Rattana",
-          "url": "https://open.spotify.com/artist/3cvn81dfHNBsjPglcn9XeL"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Hello Ocean",
-      "url": "https://open.spotify.com/track/31f410ElY7WUXOs51HVtmx"
-    },
-    {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "Serenata Jiwa Lara",
         "url": "https://open.spotify.com/album/3nDWFZkpTnxeyAHs4348DQ"
@@ -125,7 +65,87 @@
       "url": "https://open.spotify.com/track/7ivFVBVYH5akFOtOAyeJ4j"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
+      "album": {
+        "name": "CLAPCLAPCLAP!",
+        "url": "https://open.spotify.com/album/5mGR6qKnpILzSzq1yyAUXk"
+      },
+      "artists": [
+        {
+          "name": "IV Of Spades",
+          "url": "https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG"
+        }
+      ],
+      "duration_ms": 246396,
+      "name": "Come Inside Of My Heart",
+      "url": "https://open.spotify.com/track/3Eb5sztvEMa0Mqnb8DUAlU"
+    },
+    {
+      "added_at": "2022-11-16 03:34:41",
+      "album": {
+        "name": "Through the Tunnel",
+        "url": "https://open.spotify.com/album/1AGVQTchxNPR1BCLzK83CI"
+      },
+      "artists": [
+        {
+          "name": "The Yangbans",
+          "url": "https://open.spotify.com/artist/2YnwThp48Nrhtf7JIBCpbu"
+        }
+      ],
+      "duration_ms": 288240,
+      "name": "Through the Tunnel",
+      "url": "https://open.spotify.com/track/0yuCGyf9UYFjoxQuJqJTm3"
+    },
+    {
+      "added_at": "2022-11-16 03:34:41",
+      "album": {
+        "name": "Killer",
+        "url": "https://open.spotify.com/album/1PAYLLRK9lMJQVZlWpPkjr"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "duration_ms": 198612,
+      "name": "Killer",
+      "url": "https://open.spotify.com/track/0skOmSnfoOEOjCvkkvymhz"
+    },
+    {
+      "added_at": "2022-11-16 03:34:41",
+      "album": {
+        "name": "MASA MUDA",
+        "url": "https://open.spotify.com/album/53E46YfYxg4Wbogp1ihzSV"
+      },
+      "artists": [
+        {
+          "name": "Laura Pradipta",
+          "url": "https://open.spotify.com/artist/3DjOjSvtE3thRSMBeBR4kH"
+        }
+      ],
+      "duration_ms": 278318,
+      "name": "MASA MUDA",
+      "url": "https://open.spotify.com/track/0eSwUxNz2EFlGC7Wn5Lsra"
+    },
+    {
+      "added_at": "2022-11-16 03:34:41",
+      "album": {
+        "name": "Hello Ocean",
+        "url": "https://open.spotify.com/album/4kl4SGRxJut7Lk069v2DPb"
+      },
+      "artists": [
+        {
+          "name": "Rattana",
+          "url": "https://open.spotify.com/artist/3cvn81dfHNBsjPglcn9XeL"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Hello Ocean",
+      "url": "https://open.spotify.com/track/31f410ElY7WUXOs51HVtmx"
+    },
+    {
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "Sweet Escape (feat. \u3072\u304b\u308a)",
         "url": "https://open.spotify.com/album/6QWulBLmOcERqXcs2tSxh6"
@@ -145,7 +165,23 @@
       "url": "https://open.spotify.com/track/6Whj4AAx1Y2xSCJhpRvTpt"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
+      "album": {
+        "name": "\u771f\u591c\u4e2d\u306e\u30c9\u30a2 / STAY WITH ME",
+        "url": "https://open.spotify.com/album/410VVfLKnd8YjwPRCZi4hI"
+      },
+      "artists": [
+        {
+          "name": "Rainych",
+          "url": "https://open.spotify.com/artist/3dTzeO0QCd86cXSgQ04Y3r"
+        }
+      ],
+      "duration_ms": 311381,
+      "name": "\u771f\u591c\u4e2d\u306e\u30c9\u30a2 / STAY WITH ME",
+      "url": "https://open.spotify.com/track/7pFNLw96R1V5Yxwu0Pw3ie"
+    },
+    {
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "Essential",
         "url": "https://open.spotify.com/album/6WdkSCs0MlShCNo8FQTNC0"
@@ -161,7 +197,7 @@
       "url": "https://open.spotify.com/track/5jtEduKSyyJXEE6IbZFLJR"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "Go Higher",
         "url": "https://open.spotify.com/album/1e1tDPUR08v96ZT7RPV7eb"
@@ -177,7 +213,7 @@
       "url": "https://open.spotify.com/track/350MlI4iDtv6fYwM4PKSA4"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "Coffee's on Me",
         "url": "https://open.spotify.com/album/0dFsQp0ZUhABhxJX0eeBeD"
@@ -193,7 +229,7 @@
       "url": "https://open.spotify.com/track/3P2bJaakq9DyvGCco9Ddhx"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "80 Kisses",
         "url": "https://open.spotify.com/album/4z8dyovQ2XGFESeEeRam95"
@@ -209,7 +245,7 @@
       "url": "https://open.spotify.com/track/05WHgjtWx32x40VmFkLnOd"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "Lover Boy",
         "url": "https://open.spotify.com/album/6q6pANmFQbMk7KzlzNeBep"
@@ -225,7 +261,7 @@
       "url": "https://open.spotify.com/track/2rd4FH1cSaWGc0ZiUaMbX9"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "Mejikuhibiniu",
         "url": "https://open.spotify.com/album/5ErP3mluV25TH2ncKKcWM4"
@@ -245,7 +281,7 @@
       "url": "https://open.spotify.com/track/0wBdb4pmz0hyyI0M6ilZTy"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "Step in Step in",
         "url": "https://open.spotify.com/album/43riaF3pwPBkCthmadVPu4"
@@ -265,7 +301,7 @@
       "url": "https://open.spotify.com/track/0qzFZw1TWpnc2XyGM8lhKs"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "Sunkissed (feat. Ch\u00e2u B\u00f9i)",
         "url": "https://open.spotify.com/album/2greZVau20V2fjDYKe7PcK"
@@ -285,7 +321,7 @@
       "url": "https://open.spotify.com/track/1HQcB17Uevy4vdHlsuqCqe"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "Moonset with KozyPop",
         "url": "https://open.spotify.com/album/1XULv2rBeMhr16Pq3HFP19"
@@ -305,7 +341,7 @@
       "url": "https://open.spotify.com/track/1fQrmSaN8EOxbZQrFcihQZ"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "Plastic Love",
         "url": "https://open.spotify.com/album/0r4h34q8ZTo1LvtXb1fIG6"
@@ -321,7 +357,7 @@
       "url": "https://open.spotify.com/track/0K9rIsZfdlzAoOEWyeFQYM"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "Ladies In The City",
         "url": "https://open.spotify.com/album/4aq2qIVPFSS5mkKKKKKSO7"
@@ -341,7 +377,7 @@
       "url": "https://open.spotify.com/track/3HxDFhicGXxE5hlvypryCU"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "GPS",
         "url": "https://open.spotify.com/album/1dabh9kedSOCHQSXE1cYsN"
@@ -369,7 +405,7 @@
       "url": "https://open.spotify.com/track/7mSXu1Q76JGPLYolCKp3Xw"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "not alright",
         "url": "https://open.spotify.com/album/4UrsL2atzrnEEeVeSxlfRB"
@@ -385,7 +421,7 @@
       "url": "https://open.spotify.com/track/3qvK5qHvwP1mX6g9lOF2dJ"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "City Drive",
         "url": "https://open.spotify.com/album/2oAZ4ieVQt9DWutbX2jKB1"
@@ -401,7 +437,7 @@
       "url": "https://open.spotify.com/track/1lKA6Qy1QbzSeF0Ec7iolp"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "Summer Love Story",
         "url": "https://open.spotify.com/album/1rw8tou2EeehTwI6oGhsJV"
@@ -417,7 +453,7 @@
       "url": "https://open.spotify.com/track/6ybC10sFcKQMi6TdC4Ejsv"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "Yth: NAIF",
         "url": "https://open.spotify.com/album/4nANc60JTeBPqn2j2ZvJZl"
@@ -445,7 +481,7 @@
       "url": "https://open.spotify.com/track/0YuZ7HexTHIw6Dm2n9ZDab"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "Days Are Nights",
         "url": "https://open.spotify.com/album/7fxotoulbnoQ3r5z5MztBM"
@@ -461,7 +497,7 @@
       "url": "https://open.spotify.com/track/2zSpr0FRXXuXzUtwK80bPF"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "METRO (XL Middleton Remix)",
         "url": "https://open.spotify.com/album/4QAelJ3mjmDtK9tkGOblvV"
@@ -481,7 +517,7 @@
       "url": "https://open.spotify.com/track/52QdtRrirgHtZJ6JLSbpD8"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "The Midnight Flight",
         "url": "https://open.spotify.com/album/5h87AL0dOom7DOBgmFkgCK"
@@ -501,7 +537,7 @@
       "url": "https://open.spotify.com/track/5dkRhWKooE7u39PHvke1i2"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "Just because of the sudden wind",
         "url": "https://open.spotify.com/album/5xiBNgDcroZnam0CXegDOu"
@@ -517,7 +553,7 @@
       "url": "https://open.spotify.com/track/3GlQyFwsP9SbqDbLws67FO"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "Pop diKota (SRM 10th Anniversary)",
         "url": "https://open.spotify.com/album/200pEAgk87ajUpHGty4MDJ"
@@ -533,7 +569,7 @@
       "url": "https://open.spotify.com/track/1ABvISIP8cNOF3T8krbYC7"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "Lagu Baru Dari Masa Lalu, Vol. 1",
         "url": "https://open.spotify.com/album/5b2swSWZfAc8EZ5v0VTzSi"
@@ -553,7 +589,7 @@
       "url": "https://open.spotify.com/track/0mLvVZ14uhcPI7dbOJ69Un"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "Still Good",
         "url": "https://open.spotify.com/album/4qBbqh8QtYLOHyRbpQ2nZx"
@@ -569,7 +605,7 @@
       "url": "https://open.spotify.com/track/0Dhd8t73mR5sqwDOO21ag2"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "Password",
         "url": "https://open.spotify.com/album/4rgVJF3Omwi23EJ0Nvc8ec"
@@ -585,7 +621,7 @@
       "url": "https://open.spotify.com/track/3Th1HFNWilrRJyIvjBxNj5"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "Cassa Nova",
         "url": "https://open.spotify.com/album/7qDgQiJVHJwOiFtYCBYIxn"
@@ -601,7 +637,7 @@
       "url": "https://open.spotify.com/track/1i0GPOOiWudGbWlApdADbp"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "East Shore",
         "url": "https://open.spotify.com/album/3haGGKVIiuJ8wlJBriAhPP"
@@ -621,7 +657,7 @@
       "url": "https://open.spotify.com/track/5v7RICydLLBV5AKoCRmfrG"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "\u4e0d\u6a19\u6e96\u60c5\u4eba",
         "url": "https://open.spotify.com/album/5ue5bCo48QRPUOi7y8Egj1"
@@ -641,23 +677,7 @@
       "url": "https://open.spotify.com/track/5TlQjk6LfvsGbnNOR555va"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
-      "album": {
-        "name": "BLISS",
-        "url": "https://open.spotify.com/album/4mdc1YH7aJo13ZgvihEkOa"
-      },
-      "artists": [
-        {
-          "name": "Ink Waruntorn",
-          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
-        }
-      ],
-      "duration_ms": 254375,
-      "name": "\u0e40\u0e01\u0e35\u0e48\u0e22\u0e27\u0e01\u0e31\u0e19\u0e44\u0e2b\u0e21 (You)",
-      "url": "https://open.spotify.com/track/2IuZlsxVbaDpYvfkZyWvnN"
-    },
-    {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "The Noir Scene and The White Sheep Before I Sleep",
         "url": "https://open.spotify.com/album/551bI1L2hl1saZBLyALX0t"
@@ -677,7 +697,7 @@
       "url": "https://open.spotify.com/track/79s8CsG6AxcfPxyLVvlFqf"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "no-vacancy",
         "url": "https://open.spotify.com/album/5DrKVvCMN1ail6mAmnobXq"
@@ -697,7 +717,7 @@
       "url": "https://open.spotify.com/track/7x7CRaBCFtmKFAbc9N3iwx"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "Manila",
         "url": "https://open.spotify.com/album/0W2sFOFR8ZRKjJ520qFyR6"
@@ -713,7 +733,7 @@
       "url": "https://open.spotify.com/track/32OLhhBNdDypGemTbxDavN"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "\u90fd\u5e02\u722c\u884c",
         "url": "https://open.spotify.com/album/6OXwU2yLe6IAKTlK4qMgmS"
@@ -729,7 +749,7 @@
       "url": "https://open.spotify.com/track/1HOSSdZd96ZdBrLGsngL13"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "Dan Bila (80'S Version)",
         "url": "https://open.spotify.com/album/6A48UOi3IqLK6R3S8TcQc2"
@@ -749,10 +769,10 @@
       "url": "https://open.spotify.com/track/5lev02UnV726JTgVEfgudy"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
-        "name": "Sunday Seoul Ep.1",
-        "url": "https://open.spotify.com/album/6ZW5WYi1P6odIEMJDH4xBC"
+        "name": "\uc120\ub370\uc774\uc11c\uc6b8 Ep.1 Sunday Seoul Ep.1",
+        "url": "https://open.spotify.com/album/0e1xGcRS9hvmVjfDRaFK6V"
       },
       "artists": [
         {
@@ -761,11 +781,11 @@
         }
       ],
       "duration_ms": 190363,
-      "name": "Give Me The Light",
-      "url": "https://open.spotify.com/track/63K56gwJ3ALMJsIwiOq4CF"
+      "name": "\ubd88\uc744 \ubc1d\ud600\uc918 Give Me The Light",
+      "url": "https://open.spotify.com/track/1kTFcaOrSmY4XqneDu3oRm"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "Have You Ever",
         "url": "https://open.spotify.com/album/5Zc4mgLhFNdsjzqeIdPvIv"
@@ -781,7 +801,7 @@
       "url": "https://open.spotify.com/track/6lMcbUMHMDkGCiuj8Dm5BL"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "timeabout,",
         "url": "https://open.spotify.com/album/1cBAfX0otvkoIOI6HtOrAc"
@@ -797,7 +817,7 @@
       "url": "https://open.spotify.com/track/0AAEFC3RGirgzRFhi44Y79"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "Lagu Baru Dari Masa Lalu, Vol. 1",
         "url": "https://open.spotify.com/album/5b2swSWZfAc8EZ5v0VTzSi"
@@ -813,7 +833,7 @@
       "url": "https://open.spotify.com/track/0YtWMWrO3A5urhzDFAzTgx"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "Anything Goes",
         "url": "https://open.spotify.com/album/1i8cyjNDcIzXTKznYzfF9a"
@@ -829,7 +849,7 @@
       "url": "https://open.spotify.com/track/7h9y9f4gE9u3NmC89d0Flb"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "City Love",
         "url": "https://open.spotify.com/album/44G2reK3LwLKagXmoDx8H7"
@@ -845,7 +865,7 @@
       "url": "https://open.spotify.com/track/74dVN7rzRYU9R8RDkpVxNU"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "RIDE ON TIME",
         "url": "https://open.spotify.com/album/5nS4tUBMNOf9ZX8bd5bgbl"
@@ -865,7 +885,7 @@
       "url": "https://open.spotify.com/track/7a6Gj71tooMRmxcZwdGNnh"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "C.H.R.I.S.Y.E.",
         "url": "https://open.spotify.com/album/3CVNmMgqfF8Rr3tiOqFvkH"
@@ -889,7 +909,7 @@
       "url": "https://open.spotify.com/track/42si4ikg5dh732gPuQ0xHb"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "The Feeling",
         "url": "https://open.spotify.com/album/0nQTMDFUcsoxCHsSUoO2J9"
@@ -905,7 +925,7 @@
       "url": "https://open.spotify.com/track/4fGRVDUgCCAtPkZAy6E7T9"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "Softboi",
         "url": "https://open.spotify.com/album/4d7cclZUEfdz0fHFPg0GRG"
@@ -921,7 +941,7 @@
       "url": "https://open.spotify.com/track/6vhnz5MiMTbk42oUoYnCh7"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "Brunch Time",
         "url": "https://open.spotify.com/album/2ZOl7gmy5ShGP0yLESQu6Q"
@@ -937,7 +957,7 @@
       "url": "https://open.spotify.com/track/7uCA0lY4vsR98wcAwATSCO"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "MOONLIGHT",
         "url": "https://open.spotify.com/album/2awLWuhPKSgSJWrqSSWS1j"
@@ -953,7 +973,7 @@
       "url": "https://open.spotify.com/track/3R65jxrYZy7oRvmrBnox7J"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "Chords & Melodies",
         "url": "https://open.spotify.com/album/0AXZJQdtYuxOqn50svT1eB"
@@ -969,7 +989,7 @@
       "url": "https://open.spotify.com/track/20AYTqY5fkCDvNN1EJytyh"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "\u5225\u6025\u8457\u8aaa\u611b\u6211\u5230\u5929\u9577\u5730\u4e45 20",
         "url": "https://open.spotify.com/album/0vKhnsFBuItT2ufOlX9RAi"
@@ -985,7 +1005,7 @@
       "url": "https://open.spotify.com/track/1BhjeUl8YkY20lfmpmwfAj"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "Monthly Project 2020 Yoon Jong Shin",
         "url": "https://open.spotify.com/album/0aQdWBzoZP9MFmYW9N68FK"
@@ -1001,7 +1021,7 @@
       "url": "https://open.spotify.com/track/2UnKYBjiwH3AK14PXJRWzv"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "Cinta Yang Baru",
         "url": "https://open.spotify.com/album/4VY2hVNomWfL1TDgVCoVp8"
@@ -1017,7 +1037,7 @@
       "url": "https://open.spotify.com/track/60B0QJiu537CpR271O0ael"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "7942",
         "url": "https://open.spotify.com/album/6fURT60sqPccrtfa0bhgpO"
@@ -1033,7 +1053,7 @@
       "url": "https://open.spotify.com/track/0xzKYFkaAz6ghf4b5DFWNb"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "Offshore Music, Vol. 1",
         "url": "https://open.spotify.com/album/26oMuuJGRoanfk3lyUOoHs"
@@ -1049,7 +1069,7 @@
       "url": "https://open.spotify.com/track/1XCAAVAfZQYnNymGIf87Ci"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "Toy Boy",
         "url": "https://open.spotify.com/album/2GlRBipf5fOYz9gSGICgyG"
@@ -1065,7 +1085,7 @@
       "url": "https://open.spotify.com/track/33DSizc0awGwq4MEBX7vYg"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "Papansin",
         "url": "https://open.spotify.com/album/3p1jcWloxr38uAQKB1AiHf"
@@ -1081,7 +1101,7 @@
       "url": "https://open.spotify.com/track/3cdVZ0zqOHl8cS0bR06oKZ"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "Super Serious",
         "url": "https://open.spotify.com/album/4QCpZmpuRq2ulKKBeHxNfa"
@@ -1097,7 +1117,7 @@
       "url": "https://open.spotify.com/track/77yWW5kFvEnOknfGeKSl6I"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "Sungguh Terlalu",
         "url": "https://open.spotify.com/album/1TDcayS0iX7Ky7O0a6qvEs"
@@ -1113,7 +1133,7 @@
       "url": "https://open.spotify.com/track/2ooOtbd0mJ27xhwwGCnnkb"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "U D D",
         "url": "https://open.spotify.com/album/1soFNLmLx08oNlhgBtQB5g"
@@ -1129,7 +1149,7 @@
       "url": "https://open.spotify.com/track/4XCFHies3PCuxqzGJaKsu6"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "LAYERS",
         "url": "https://open.spotify.com/album/1DS9Xblo2wodlneXD9nXYw"
@@ -1145,7 +1165,7 @@
       "url": "https://open.spotify.com/track/5RiDkhVXWyMlh51wSGV8tU"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "Venus \uc0db\ubcc4",
         "url": "https://open.spotify.com/album/70zQXUoP3iBxwdGxTFM5ya"
@@ -1161,7 +1181,7 @@
       "url": "https://open.spotify.com/track/000j3FwREid2RIpm6nTLn9"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "The Yearbook",
         "url": "https://open.spotify.com/album/6Zqb6O4wNqSwUe6uR6Bdpo"
@@ -1177,7 +1197,7 @@
       "url": "https://open.spotify.com/track/0QhWeC7nAvAOyKNA279gRT"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "The One",
         "url": "https://open.spotify.com/album/1mHIev96eFTEdby7dAoT67"
@@ -1193,23 +1213,7 @@
       "url": "https://open.spotify.com/track/3ToRoy9OQHoiz662kJvTTu"
     },
     {
-      "added_at": "2022-08-30 06:01:25",
-      "album": {
-        "name": "Amusement Park",
-        "url": "https://open.spotify.com/album/25IDIVfQRGihHQswzbgfL0"
-      },
-      "artists": [
-        {
-          "name": "ikkubaru",
-          "url": "https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx"
-        }
-      ],
-      "duration_ms": 252444,
-      "name": "City Hunter",
-      "url": "https://open.spotify.com/track/3r7IlRaVffevh2JkhIF0Vj"
-    },
-    {
-      "added_at": "2022-08-30 06:01:25",
+      "added_at": "2022-11-16 03:34:41",
       "album": {
         "name": "Your Love Is My Morning Sun",
         "url": "https://open.spotify.com/album/2Mf8sJl6JHdep4HXFvfeMH"

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VCBlAzi9Ve.md) - [plain]
 
 > Let it simmer with some smooth R&amp;B.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,465 likes - 25 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,748 likes - 25 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Feeling](https://open.spotify.com/track/19mZZ1RIVf7lB6DgDAEEVN) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [The Feeling](https://open.spotify.com/album/6fwKAVMsqcYKWjCVUrfFoh) | 3:37 |
 | 2 | [NRG \- Radio Edit](https://open.spotify.com/track/7HwPsSt2Pjs5sKIdBfCSkx) | [Duck Sauce](https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [NRG](https://open.spotify.com/album/6ZutbrcxBGepaw53OpKJo8) | 3:15 |
-| 3 | [Do What You Like](https://open.spotify.com/track/1Tv1NuaM2jnCrGUE1cVaG6) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Do What You Like](https://open.spotify.com/album/04zgNiSQl0PiOG85BNHwFP) | 3:20 |
+| 3 | [Do What You Like](https://open.spotify.com/track/7rvGF77zKLQ6Z8AxBiWhnt) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Do What You Like](https://open.spotify.com/album/1JJDtUAw0hbuaq6mo4N4zy) | 3:20 |
 | 4 | [Uncle ACE](https://open.spotify.com/track/0Cn4UhpHhgf88eWaS9nn5u) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Cupid Deluxe](https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB) | 4:16 |
 | 5 | [My Type](https://open.spotify.com/track/2Iq6HhIquO7JKr0KfTNLzU) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [My Type EP](https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr) | 3:24 |
 | 6 | [Daffodils \(feat\. Kevin Parker\)](https://open.spotify.com/track/1v0ufp7FLTFcykUGOmFZKa) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Kevin Parker](https://open.spotify.com/artist/2Lt4GKzyW3WOMf3wvPDszQ) | [Uptown Special](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) | 4:58 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VCBlAzi9Ve.md) - [plain]
 | 24 | [Fiona Coyne](https://open.spotify.com/track/6XkEIIZs0oMUNwaVwHXSZ0) | [Skylar Spence](https://open.spotify.com/artist/0x0u0jCVf5Jf4DNh45XPXL) | [Prom King](https://open.spotify.com/album/7dR9fq3NnKFZDBDU44DTXv) | 4:09 |
 | 25 | [Go Bang](https://open.spotify.com/track/5bnBF6QS1kZj3WOVZ8KqOB) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Go Bang](https://open.spotify.com/album/6Cd6ifsiUF0A2PVr8aJTeX) | 11:04 |
 
-Snapshot ID: `MTUyNTkwMjI5NCwwMDAwMDAwMDIwNDg2ZmQ2ZWQ0M2ZkNzcwZWM0NzQ5Nzg5ZWFjYjcz`
+Snapshot ID: `MTUyNTkwMjI5NCwwMDAwMDAwMDk1YzViOTMyODk4YzY1YjdlZjkzODNjMTYyZTcyOGVj`

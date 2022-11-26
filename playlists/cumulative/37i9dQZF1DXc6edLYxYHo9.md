@@ -4,7 +4,7 @@
 
 > Soundtrack your 2022 resolutions with Corey Calliet.
 
-61 songs - 3 hr 39 min - [published](https://open.spotify.com/playlist/71iiAy84h7BLNDLGpturJS)
+62 songs - 3 hr 42 min - [published](https://open.spotify.com/playlist/71iiAy84h7BLNDLGpturJS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [9MM](https://open.spotify.com/track/2K6FYgz38Kzih6BGJzfD0H) | [David Banner](https://open.spotify.com/artist/7jFaoqWPhYLrKzjzlpXmUO), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [The Greatest Story Ever Told](https://open.spotify.com/album/4dlnbBnFH9CE6sbyrPP2aR) | 4:07 | 2022-01-12 |  |
 | [Avalanche](https://open.spotify.com/track/3BaDbRcCoK46B2ifLj6mcx) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture III \(Deluxe\)](https://open.spotify.com/album/3Irz7UWmZX0rSE0WR63lRq) | 3:26 | 2022-01-12 | 2022-07-29 |
 | [Avalanche](https://open.spotify.com/track/4KD0lLJ4OGonZhBeKtct9I) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 3:26 | 2022-01-12 |  |
+| [Avalanche](https://open.spotify.com/track/7MPZAgVQfYfBAvqDNAh5Ua) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture III \(Quavo's Way\)](https://open.spotify.com/album/0b4adjowyWWFk4NhRfNWpq) | 3:26 | 2022-01-12 | 2022-11-14 |
 | [BIG](https://open.spotify.com/track/0wRpsc7jtLA8V0COFkwtYG) | [Kendra Jae](https://open.spotify.com/artist/1KcnqRVBBJ2FUZMQUn3k5P) | [BIG](https://open.spotify.com/album/4mYgWeJ39gMlXqTPOUzASz) | 2:40 | 2022-01-12 |  |
 | [Bless Em \(Takeoff feat\. Travis Scott\)](https://open.spotify.com/track/3aaRK3htdVkK2pqOI64FEb) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Quality Control: Control The Streets Volume 2](https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9) | 3:00 | 2022-01-12 |  |
 | [BM J.R.](https://open.spotify.com/track/3AmVUYa0BTGd1AhrWWj4Gz) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter](https://open.spotify.com/album/5POcKy926GgzFHZpGptJac) | 4:58 | 2022-01-12 |  |

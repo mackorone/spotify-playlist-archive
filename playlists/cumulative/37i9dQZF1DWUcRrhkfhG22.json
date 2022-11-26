@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "Friends And Other Necessities",
+        "url": "https://open.spotify.com/album/5ECnPA9o4D8IlJRBBaC1fe"
+      },
+      "artists": [
+        {
+          "name": "Swatkins",
+          "url": "https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209515,
+      "name": "100 Percent",
+      "url": "https://open.spotify.com/track/2EhAOc7H0qXKBK9SDTCcKu"
+    },
+    {
+      "album": {
         "name": "All Yours",
         "url": "https://open.spotify.com/album/0dgErgADgR9uDN5dSaP29f"
       },
@@ -80,6 +98,24 @@
     },
     {
       "album": {
+        "name": "25 Compost Records - Overture 4",
+        "url": "https://open.spotify.com/album/578byiKGJlCaQF9XqhHZwz"
+      },
+      "artists": [
+        {
+          "name": "Lorenz Rhode",
+          "url": "https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF"
+        }
+      ],
+      "date_added": "2020-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310412,
+      "name": "Back",
+      "url": "https://open.spotify.com/track/3VpzfeLGVlnFkhJyt4gwSL"
+    },
+    {
+      "album": {
         "name": "Shake It",
         "url": "https://open.spotify.com/album/2zJajyObpMy1kyKQCC8XC6"
       },
@@ -91,10 +127,28 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 310413,
       "name": "Back",
       "url": "https://open.spotify.com/track/0P7iti2eENyzPjWjvGaRzs"
+    },
+    {
+      "album": {
+        "name": "Shake It",
+        "url": "https://open.spotify.com/album/5h3omMgMw42o9lNiNPpXIw"
+      },
+      "artists": [
+        {
+          "name": "Lorenz Rhode",
+          "url": "https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF"
+        }
+      ],
+      "date_added": "2020-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-24",
+      "duration_ms": 310413,
+      "name": "Back",
+      "url": "https://open.spotify.com/track/5b1eWh22jn5CfJAGtWTbUe"
     },
     {
       "album": {
@@ -197,7 +251,7 @@
     {
       "album": {
         "name": "The Voyage Never Ends...",
-        "url": "https://open.spotify.com/album/04lEKdwK89i6kS8dhZZ54e"
+        "url": "https://open.spotify.com/album/2FzPLZyS7d7g6GneVKT4Kx"
       },
       "artists": [
         {
@@ -208,6 +262,24 @@
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 304521,
+      "name": "Closer to You",
+      "url": "https://open.spotify.com/track/174JRizws7VqM3oCF8zruo"
+    },
+    {
+      "album": {
+        "name": "The Voyage Never Ends...",
+        "url": "https://open.spotify.com/album/04lEKdwK89i6kS8dhZZ54e"
+      },
+      "artists": [
+        {
+          "name": "Captain Supernova",
+          "url": "https://open.spotify.com/artist/4BnBLvVYiuGjT6hNpZRzCH"
+        }
+      ],
+      "date_added": "2020-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-03",
       "duration_ms": 304521,
       "name": "Closer to You",
       "url": "https://open.spotify.com/track/6QrSDXeYLtd67Qv05QekuL"
@@ -1119,7 +1191,7 @@
     {
       "album": {
         "name": "Shake It",
-        "url": "https://open.spotify.com/album/2zJajyObpMy1kyKQCC8XC6"
+        "url": "https://open.spotify.com/album/5h3omMgMw42o9lNiNPpXIw"
       },
       "artists": [
         {
@@ -1130,6 +1202,24 @@
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 423013,
+      "name": "Shake It (Extended)",
+      "url": "https://open.spotify.com/track/318AONjmfz3gTrcKXCjMIi"
+    },
+    {
+      "album": {
+        "name": "Shake It",
+        "url": "https://open.spotify.com/album/2zJajyObpMy1kyKQCC8XC6"
+      },
+      "artists": [
+        {
+          "name": "Lorenz Rhode",
+          "url": "https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF"
+        }
+      ],
+      "date_added": "2020-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-21",
       "duration_ms": 423013,
       "name": "Shake It (Extended)",
       "url": "https://open.spotify.com/track/7qJ4aBgsLOVtLppmCDjf9w"
@@ -1231,6 +1321,24 @@
       "duration_ms": 248800,
       "name": "Superman",
       "url": "https://open.spotify.com/track/31XzTmTkP3yQAzCbZ2uz8A"
+    },
+    {
+      "album": {
+        "name": "Westcoast Pioneers",
+        "url": "https://open.spotify.com/album/4ozmLwrsmz9GQnkXn4Q9tG"
+      },
+      "artists": [
+        {
+          "name": "Funkmaster Ozone",
+          "url": "https://open.spotify.com/artist/34AGOPbiy3xFk6irkjYyuu"
+        }
+      ],
+      "date_added": "2020-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 381413,
+      "name": "Talkbox Fever",
+      "url": "https://open.spotify.com/track/2g4uko7dEjgIqkUPTiSOQ0"
     },
     {
       "album": {
@@ -1480,6 +1588,24 @@
     },
     {
       "album": {
+        "name": "With the Music",
+        "url": "https://open.spotify.com/album/4h465iyTznZQouao9JLwif"
+      },
+      "artists": [
+        {
+          "name": "Matt Johnson",
+          "url": "https://open.spotify.com/artist/5gFCOJYoKgxTx0KUXISEAS"
+        }
+      ],
+      "date_added": "2020-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 378800,
+      "name": "With the Music",
+      "url": "https://open.spotify.com/track/5so4fWOUupeEepFqixqdMt"
+    },
+    {
+      "album": {
         "name": "Contrast",
         "url": "https://open.spotify.com/album/41jrWLM0K9x7F3Ux7OJGgv"
       },
@@ -1499,7 +1625,43 @@
     {
       "album": {
         "name": "Velvet Portraits",
+        "url": "https://open.spotify.com/album/4PCIOf8X75vWdD1PbLpg3c"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        }
+      ],
+      "date_added": "2020-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 248634,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/079mLSjKkiSnpcSueMrNtQ"
+    },
+    {
+      "album": {
+        "name": "Velvet Portraits",
         "url": "https://open.spotify.com/album/4tfomAZjkkF736D6WTK7tC"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        }
+      ],
+      "date_added": "2020-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-06",
+      "duration_ms": 248634,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/34RnMx1hRtypnn03BkTkHV"
+    },
+    {
+      "album": {
+        "name": "Velvet Portraits",
+        "url": "https://open.spotify.com/album/2oCzMde3oNEsr2Mz8OBv8P"
       },
       "artists": [
         {
@@ -1512,7 +1674,7 @@
       "date_removed": null,
       "duration_ms": 248634,
       "name": "With You",
-      "url": "https://open.spotify.com/track/34RnMx1hRtypnn03BkTkHV"
+      "url": "https://open.spotify.com/track/40NCmCoLUqL62ZaUWBI2Qv"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWUcRrhkfhG22"

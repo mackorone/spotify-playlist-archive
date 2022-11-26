@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnmlNqZsMNa.md) - [plain]
 
 > The nature has a lot to say\. Come, talk a walk!
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,301 likes - 53 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,669 likes - 53 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnmlNqZsMNa.md) - [plain]
 | 52 | [Soft Relaxation in the Woods](https://open.spotify.com/track/2d9q05yS1n1DcPE1z6YzEr) | [Hi Freq Samples](https://open.spotify.com/artist/6DMErYWlNweJ8rNY62Q6jw) | [Cozy Forest Samples](https://open.spotify.com/album/34k7ietjCtgJttd6kkHxAK) | 2:50 |
 | 53 | [Calm Pouring Ocean](https://open.spotify.com/track/6AiW2dz9mOgsZjsEKwAhIv) | [Microdynamic Recordings](https://open.spotify.com/artist/3zG3fwEK20npYHIYooztq9) | [Sunday Night Waves](https://open.spotify.com/album/5Lu8V4pKtLpaS8Q6OwABjs) | 3:00 |
 
-Snapshot ID: `MTY2MzY5MTU0MiwwMDAwMDAwMDUzMDBhZjI2NDdkOTY0ZmM5NmZlOTdlYzM5NDQ2MTM5`
+Snapshot ID: `MTY2ODQwOTYxNywwMDAwMDAwMGQ2OWZjZTNhODM3NTdmOWYzMDdhYzc0MzdhYzJhNGY5`

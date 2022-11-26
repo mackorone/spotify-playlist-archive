@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 480706,
       "name": "A Little Piece of Heaven",
       "url": "https://open.spotify.com/track/1BLfQ6dPXmuDrFmbdfW7Jl"
@@ -440,6 +440,28 @@
     },
     {
       "album": {
+        "name": "Single Album",
+        "url": "https://open.spotify.com/album/7clMEugC4qJ1ApbscpXsaL"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        },
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199781,
+      "name": "Linewleum (feat. Avenged Sevenfold)",
+      "url": "https://open.spotify.com/track/0LIfpDM2OVNy2acS0aghJi"
+    },
+    {
+      "album": {
         "name": "City of Evil",
         "url": "https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA"
       },
@@ -473,6 +495,24 @@
       "duration_ms": 303746,
       "name": "Mad Hatter",
       "url": "https://open.spotify.com/track/06ccOZxagoqk4oc0cGaJw7"
+    },
+    {
+      "album": {
+        "name": "The Stage (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0OJ2cB135AqvHEtfXifM5D"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254984,
+      "name": "Malague\u00f1a Salerosa",
+      "url": "https://open.spotify.com/track/2oZSBEtzUtq70iQwpNjrnk"
     },
     {
       "album": {
@@ -530,6 +570,24 @@
     },
     {
       "album": {
+        "name": "Diamonds in the Rough",
+        "url": "https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162690,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/53pWOzRC9DI6LixasJEdZZ"
+    },
+    {
+      "album": {
         "name": "Waking The Fallen",
         "url": "https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk"
       },
@@ -563,6 +621,24 @@
       "duration_ms": 300361,
       "name": "Roman Sky",
       "url": "https://open.spotify.com/track/5QAYgWH077T3F8kAcVtQs7"
+    },
+    {
+      "album": {
+        "name": "Avenged Sevenfold",
+        "url": "https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288520,
+      "name": "Scream",
+      "url": "https://open.spotify.com/track/297d7PwfSFHQXCjqqDXQT2"
     },
     {
       "album": {
@@ -656,6 +732,24 @@
     },
     {
       "album": {
+        "name": "Diamonds in the Rough",
+        "url": "https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302400,
+      "name": "St. James",
+      "url": "https://open.spotify.com/track/2n8rY6H6u2AnUe6Fi8M6P6"
+    },
+    {
+      "album": {
         "name": "The Stage (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0OJ2cB135AqvHEtfXifM5D"
       },
@@ -739,7 +833,7 @@
       ],
       "date_added": "2022-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 285613,
       "name": "Until the End",
       "url": "https://open.spotify.com/track/5NJTJElk0ArSxQtYjA0rYR"

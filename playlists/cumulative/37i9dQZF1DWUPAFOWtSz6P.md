@@ -4,7 +4,7 @@
 
 > Set your intentions and guide your practice with these mindful, meditative lyrics.
 
-73 songs - 4 hr 52 min - [published](https://open.spotify.com/playlist/5SjLeW9rbn4LmmpPiQxmTZ)
+75 songs - 5 hr 0 min - [published](https://open.spotify.com/playlist/5SjLeW9rbn4LmmpPiQxmTZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Girls Just Want to Have Fun](https://open.spotify.com/track/2Ti3vVLSg8zMLSErHazbFM) | [The Harmaleighs](https://open.spotify.com/artist/0JpiOyzO3e8FYCsDe8EaUN) | [Girls Just Want to Have Fun](https://open.spotify.com/album/1B1uQ88RJeaIieCk2UsMBG) | 2:37 | 2020-05-12 |  |
 | [Girls Just Want to Have Fun](https://open.spotify.com/track/6AMEC67bMX4EsJTpkozQ1r) | [The Harmaleighs](https://open.spotify.com/artist/0JpiOyzO3e8FYCsDe8EaUN) | [Girls Just Want to Have Fun](https://open.spotify.com/album/6cgwMTtbl2gvlAQ1vdcJR3) | 2:37 | 2020-05-12 | 2022-07-29 |
 | [Golden Embers](https://open.spotify.com/track/3fOETmGlFv8nCmZSMIPfmL) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Tides of a Teardrop](https://open.spotify.com/album/3Z2WGCFNGlAJgiyG2tOkjs) | 4:45 | 2020-05-12 | 2022-07-29 |
+| [Golden Embers](https://open.spotify.com/track/4Cj5yOIUpFWSbPqICA07Fc) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Golden Embers](https://open.spotify.com/album/4kCQSdMOQaw1FoY96UEFNa) | 4:45 | 2020-05-12 | 2022-11-13 |
 | [Golden Embers](https://open.spotify.com/track/7fdwZ9ShF56daUOBH02U7S) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Tides of a Teardrop](https://open.spotify.com/album/09NM7gTdr3ij71aksxr4Qs) | 4:45 | 2020-05-12 |  |
 | [Here Too Far](https://open.spotify.com/track/383MxeoXVw7bdeBKEz68Po) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Colony of Bees](https://open.spotify.com/album/22ydepp9MkmGOVOG89v9DU) | 0:55 | 2020-05-12 |  |
 | [Homeless Child \- Acoustic](https://open.spotify.com/track/1I14oKNk5Cyt3erLwovaWv) | [Anna Tivel](https://open.spotify.com/artist/112l2WmZaTlJcl13f4iFAs) | [Homeless Child \(Acoustic\)](https://open.spotify.com/album/18kuCvlhOvrfGZHriHxgbs) | 3:44 | 2020-05-12 |  |
@@ -56,6 +57,7 @@
 | [Novels of Acquaintance](https://open.spotify.com/track/6JCQzKq9I3xnKikQqxVVvP) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Wider Circles](https://open.spotify.com/album/6GceR7waO0fdFRVMlT6VY0) | 6:28 | 2020-05-12 |  |
 | [Old Friend](https://open.spotify.com/track/5v2nPcapVA5eXClN6pSKCy) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Extralife](https://open.spotify.com/album/5OK6JHJhkSwle7EIeZZQ2E) | 2:28 | 2020-05-12 |  |
 | [People Change](https://open.spotify.com/track/1iepnn71MidOJZ7Y3vfgE4) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Edges Run](https://open.spotify.com/album/2lkaT5goLtwJKxW4EM7Ou4) | 3:32 | 2020-05-12 | 2022-07-29 |
+| [People Change](https://open.spotify.com/track/3X8nisFKqIo9JyCgRXyKZL) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [People Change](https://open.spotify.com/album/381HJLxqIIyyXIOM3S3P9f) | 3:32 | 2020-05-12 | 2022-11-13 |
 | [People Change](https://open.spotify.com/track/5VYOUBkObeGOnCt30YDTJ3) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Edges Run](https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk) | 3:32 | 2020-05-12 |  |
 | [Permanent Way](https://open.spotify.com/track/04BGOF5G8ztSjRkhhM0SmE) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Permanent Way](https://open.spotify.com/album/1x3aGPQ0dqSY0fzljjB9VD) | 4:12 | 2020-05-12 | 2022-07-29 |
 | [Permanent Way](https://open.spotify.com/track/4ewgXAEfRGjay6kmYSfbfW) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Permanent Way](https://open.spotify.com/album/4SJv0ML9KXGtEk6YdPK9Sv) | 4:12 | 2020-05-12 |  |

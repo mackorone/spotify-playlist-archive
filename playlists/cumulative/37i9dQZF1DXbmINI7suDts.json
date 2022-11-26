@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "4 U",
+        "url": "https://open.spotify.com/album/1MgRMCqug76YT5f3dMp4vk"
+      },
+      "artists": [
+        {
+          "name": "Ceee",
+          "url": "https://open.spotify.com/artist/2lLAmI8Hqtx7lvD9tDSFgT"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135965,
+      "name": "4 U",
+      "url": "https://open.spotify.com/track/1sZFtAyyx16gmGz2wnp7ve"
+    },
+    {
+      "album": {
         "name": "1947",
         "url": "https://open.spotify.com/album/7i5YB5dRHsoKsPHM6AL17U"
       },
@@ -59,6 +77,24 @@
       "duration_ms": 212786,
       "name": "Aluru",
       "url": "https://open.spotify.com/track/2cVZ1TxQaFHG7B6tNM0JoC"
+    },
+    {
+      "album": {
+        "name": "WATERSHED",
+        "url": "https://open.spotify.com/album/2gOc1mcXCepbRTMtXlmoKJ"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195652,
+      "name": "Angel of Mine",
+      "url": "https://open.spotify.com/track/0UoH7Il9Ns8puNMo73R4r7"
     },
     {
       "album": {
@@ -324,6 +360,24 @@
     },
     {
       "album": {
+        "name": "I Have a Dream",
+        "url": "https://open.spotify.com/album/7DBV6VBPBqU6FG9DU7iYsf"
+      },
+      "artists": [
+        {
+          "name": "Sheebah",
+          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255764,
+      "name": "I Have a Dream",
+      "url": "https://open.spotify.com/track/6C3hJMzXPspSPRSMTZ640O"
+    },
+    {
+      "album": {
         "name": "After The Pain",
         "url": "https://open.spotify.com/album/2UldGFRlxpHh12VjkuEajQ"
       },
@@ -415,7 +469,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 204814,
       "name": "Kiisa",
       "url": "https://open.spotify.com/track/6shA8gHbr9tWQ7awaTaKQN"
@@ -576,6 +630,28 @@
     },
     {
       "album": {
+        "name": "WATERSHED",
+        "url": "https://open.spotify.com/album/2gOc1mcXCepbRTMtXlmoKJ"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "Lagum the Rapper",
+          "url": "https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137333,
+      "name": "Mama I Made It (feat. Lagum the Rapper)",
+      "url": "https://open.spotify.com/track/6JRGCGnNluJkVVa3lb7MkQ"
+    },
+    {
+      "album": {
         "name": "Mpulira",
         "url": "https://open.spotify.com/album/0AdUYa3CWWfdYWSNMrexxl"
       },
@@ -649,6 +725,28 @@
       "duration_ms": 258405,
       "name": "Mulisa Omusubbawa",
       "url": "https://open.spotify.com/track/5Efm581hRW2myabSJPwFba"
+    },
+    {
+      "album": {
+        "name": "Muunda",
+        "url": "https://open.spotify.com/album/2ImbElVQUItrSNaWJB5VMG"
+      },
+      "artists": [
+        {
+          "name": "A Pass",
+          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
+        },
+        {
+          "name": "King Saha",
+          "url": "https://open.spotify.com/artist/3JQTIErs7TXtmo3HIv3yJa"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214838,
+      "name": "Muunda",
+      "url": "https://open.spotify.com/track/2Ce8M6T6HihuA8m0I17GlZ"
     },
     {
       "album": {
@@ -779,7 +877,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 173075,
       "name": "Omukwano",
       "url": "https://open.spotify.com/track/2ssKMZuANIm0fFMrofWovC"
@@ -1159,6 +1257,24 @@
       "duration_ms": 259082,
       "name": "Webale",
       "url": "https://open.spotify.com/track/2iPSEJ6JfWEcDgInwFQrci"
+    },
+    {
+      "album": {
+        "name": "Your Number (Acoustic)",
+        "url": "https://open.spotify.com/album/2FdncIyOvj86vjyVYXmvmp"
+      },
+      "artists": [
+        {
+          "name": "Kohen Jaycee",
+          "url": "https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136818,
+      "name": "Your Number",
+      "url": "https://open.spotify.com/track/0z25xuFIkmaAiOT5WekhGO"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXbmINI7suDts"

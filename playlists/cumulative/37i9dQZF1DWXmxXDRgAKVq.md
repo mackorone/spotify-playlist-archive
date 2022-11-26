@@ -4,7 +4,7 @@
 
 > Curated by A$AP Mob in honor of A$AP Yams.
 
-61 songs - 3 hr 20 min - [published](https://open.spotify.com/playlist/0c7Y7egNGDVU2Jrz0lG5Ob)
+62 songs - 3 hr 24 min - [published](https://open.spotify.com/playlist/0c7Y7egNGDVU2Jrz0lG5Ob)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Wavybone \(feat\. Juicy J & UGK\)](https://open.spotify.com/track/5cYZm4KeDKM8Pw8z5XRKJt) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [UGK](https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw) | [AT.LONG.LAST.A$AP](https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc) | 5:03 | 2018-04-02 |  |
 | [Wigs \(feat\. Asian Doll & Antha Pantha\)](https://open.spotify.com/track/5mCk85oB2HAPriLqo1R3Jq) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Asian Doll](https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J), [Antha Pantha](https://open.spotify.com/artist/5bQLHZXLiVPxi2Suodt3wV) | [Floor Seats](https://open.spotify.com/album/6bI4IQKBcLX0KsTjQ9NR97) | 3:39 | 2019-08-27 |  |
 | [Wigs \(feat\. Asian Doll\)](https://open.spotify.com/track/4UyN7m30nQQmhyzfhAwNjH) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Asian Doll](https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J) | [Floor Seats](https://open.spotify.com/album/0Q3h1Bm5T7QPo8lI1S9mT6) | 3:39 | 2019-08-27 | 2022-07-29 |
+| [Wigs \(feat\. Asian Doll\)](https://open.spotify.com/track/4lCyyCa0JsIVeP7jbKWlJo) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Asian Doll](https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J) | [Wigs \(feat\. Asian Doll\)](https://open.spotify.com/album/0XLFXhashQVtfchnQ6GiQR) | 3:40 | 2022-09-23 | 2022-11-13 |
 | [Work REMIX \(feat\. A$AP Rocky, French Montana, Trinidad James & ScHoolboy Q\)](https://open.spotify.com/track/7xVLFuuYdAvcTfcP3IG3dS) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Trinidad James](https://open.spotify.com/artist/0I5HubncQ8E1MFZOlPDY4J), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Trap Lord](https://open.spotify.com/album/3smlfAmejcKMmAPg1G2Kki) | 4:43 | 2018-04-02 |  |
 | [Yamborghini High \(feat\. Juicy J\)](https://open.spotify.com/track/2rqUblDWJKlMVwh9uJc0Vv) | [A$AP Mob](https://open.spotify.com/artist/7yO4IdJjCEPz7YgZMe25iS), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Yamborghini High \(feat\. Juicy J\)](https://open.spotify.com/album/788rHiWVrWzM8dF7IiumCB) | 5:02 | 2018-04-02 |  |
 | [Young N\*\*\*a Living \(feat\. A$AP Ferg, A$AP Ant & A$AP Twelvyy\)](https://open.spotify.com/track/3u9HxfcMCFYwJ2R0nkpDWV) | [A$AP Mob](https://open.spotify.com/artist/7yO4IdJjCEPz7YgZMe25iS), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [A$AP ANT](https://open.spotify.com/artist/45m1IiS45uD1HcPlYkNWKj), [A$AP Twelvyy](https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P) | [Cozy Tapes: Vol\. 1 Friends \-](https://open.spotify.com/album/3RaACfwYTY9uiDy3VSWLLc) | 4:18 | 2018-04-02 |  |

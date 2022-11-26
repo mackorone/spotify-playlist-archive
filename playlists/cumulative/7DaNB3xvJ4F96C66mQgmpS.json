@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The best workout playlist is here. Listen to rap and electronic bangers from Nicki Minaj, DJ Snake, and more.",
+  "description": "The best workout playlist is here. Listen to rap, rock, and electronic bangers from a variety of artists, and discover new favorite tracks to power you through.",
   "name": "Workout Bangers",
   "published_playlist_ids": [
     "7g7wPnfrY0sMCexNWzHf2K"
@@ -53,8 +53,8 @@
           "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
         },
         {
-          "name": "Nitti",
-          "url": "https://open.spotify.com/artist/5jx1ZcYEEgdi86Gzc4T7Jq"
+          "name": "NITTI",
+          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
         },
         {
           "name": "Megan Thee Stallion",
@@ -125,7 +125,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 162954,
       "name": "BLOOD SWEAT & TEARS",
       "url": "https://open.spotify.com/track/2sGHNzT76rKbSmAGs8ENH2"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 134116,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt"
@@ -362,6 +362,32 @@
     },
     {
       "album": {
+        "name": "Cinematic Songs (Vol. 6)",
+        "url": "https://open.spotify.com/album/5a2ea5hbnSiGjluplzuq0v"
+      },
+      "artists": [
+        {
+          "name": "Tommee Profitt",
+          "url": "https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU"
+        },
+        {
+          "name": "Beacon Light",
+          "url": "https://open.spotify.com/artist/2qAgO1fmg936BPG08NvxPk"
+        },
+        {
+          "name": "Sam Tinnesz",
+          "url": "https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190200,
+      "name": "Enemy",
+      "url": "https://open.spotify.com/track/5X3T8jHNIJSXviiDmiBdz0"
+    },
+    {
+      "album": {
         "name": "Enemy (with JID) [from the series Arcane League of Legends]",
         "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
       },
@@ -423,6 +449,28 @@
       "duration_ms": 248053,
       "name": "Enzo (with Sheck Wes, feat. Offset, 21 Savage & Gucci Mane)",
       "url": "https://open.spotify.com/track/16qyARqmuyJ6Dvb9LWa7AO"
+    },
+    {
+      "album": {
+        "name": "Feeling Good (Austin Millz Remix)",
+        "url": "https://open.spotify.com/album/0eTPfsYOTE2BTta03N3CM6"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150789,
+      "name": "Feeling Good - Austin Millz Remix",
+      "url": "https://open.spotify.com/track/5DQFUDNNpdu2l3ZyE8GHON"
     },
     {
       "album": {
@@ -998,6 +1046,36 @@
     },
     {
       "album": {
+        "name": "MEMPHIS MASSACRE III",
+        "url": "https://open.spotify.com/album/6zpMySpRlvtUlFhl3TkZ7k"
+      },
+      "artists": [
+        {
+          "name": "Duke Deuce",
+          "url": "https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW"
+        },
+        {
+          "name": "Lil Thad",
+          "url": "https://open.spotify.com/artist/2YpTaAHmS8mK36GhjIF0pW"
+        },
+        {
+          "name": "Dubba G",
+          "url": "https://open.spotify.com/artist/3q6LWVdiXXVKUWUgfIfXta"
+        },
+        {
+          "name": "Glockianna",
+          "url": "https://open.spotify.com/artist/56JcMPQpx5pfbKnDfaqqfd"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188407,
+      "name": "RESPECT (feat. Lil Thad, Dubba G & Glockianna)",
+      "url": "https://open.spotify.com/track/21Ba7pnsiV6GqsGJtCRBYN"
+    },
+    {
+      "album": {
         "name": "Rich and Raw",
         "url": "https://open.spotify.com/album/4IKZietJgrE6tBFwMGjPFf"
       },
@@ -1255,7 +1333,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 200013,
       "name": "Super Bass",
       "url": "https://open.spotify.com/track/3hlksXnvbKogFdPbpO9vel"

@@ -162,6 +162,24 @@
     },
     {
       "album": {
+        "name": "Baby Queen",
+        "url": "https://open.spotify.com/album/6WHjLRAwmnJv2cHqVZrmOt"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220105,
+      "name": "Baby Queen",
+      "url": "https://open.spotify.com/track/0dFwiyWPwC2yML3ZH7B56V"
+    },
+    {
+      "album": {
         "name": "Beep",
         "url": "https://open.spotify.com/album/07O2V3ZkE26SHpBhhTrHCZ"
       },
@@ -261,7 +279,7 @@
     {
       "album": {
         "name": "Bricks in the Wall",
-        "url": "https://open.spotify.com/album/7htEwl4XfIWCnAE9ENgZqU"
+        "url": "https://open.spotify.com/album/3VfeTjPyKjBr1s4gyeu0w4"
       },
       "artists": [
         {
@@ -272,6 +290,24 @@
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 207414,
+      "name": "Bricks in the Wall",
+      "url": "https://open.spotify.com/track/3pWb38JvPPqIvIZYewEaDn"
+    },
+    {
+      "album": {
+        "name": "Bricks in the Wall",
+        "url": "https://open.spotify.com/album/7htEwl4XfIWCnAE9ENgZqU"
+      },
+      "artists": [
+        {
+          "name": "Hak Baker",
+          "url": "https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
       "duration_ms": 207414,
       "name": "Bricks in the Wall",
       "url": "https://open.spotify.com/track/79OIgwVIAyRyONl4r5JDD9"
@@ -471,10 +507,28 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 208106,
       "name": "Drive",
       "url": "https://open.spotify.com/track/54ARgdtJz0bkmTxGsJnR5t"
+    },
+    {
+      "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/5RWjMHB1dicwuZIi8fCdE5"
+      },
+      "artists": [
+        {
+          "name": "moa moa",
+          "url": "https://open.spotify.com/artist/1VC1fSNmQ7dzRFMYlEuurc"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208106,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/5OTZXDxcrbRqv6DzI1R2mm"
     },
     {
       "album": {
@@ -623,10 +677,28 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 186903,
       "name": "FIX YOUR FACE",
       "url": "https://open.spotify.com/track/14LbLNzYGpdL9pbUvvPaD5"
+    },
+    {
+      "album": {
+        "name": "HZLIKEHELL",
+        "url": "https://open.spotify.com/album/5UVEFi6wgeWexY88Kka9AD"
+      },
+      "artists": [
+        {
+          "name": "seeyousoon",
+          "url": "https://open.spotify.com/artist/2QFne35yv8Kjaey8tbYiT1"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186903,
+      "name": "FIX YOUR FACE",
+      "url": "https://open.spotify.com/track/5KAO2QUiNjO3uM12aexykO"
     },
     {
       "album": {
@@ -810,6 +882,28 @@
     },
     {
       "album": {
+        "name": "Hela V\u00e4gen Upp",
+        "url": "https://open.spotify.com/album/5d313T0tvzEEZrsibsdvjP"
+      },
+      "artists": [
+        {
+          "name": "Silvana Imam",
+          "url": "https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g"
+        },
+        {
+          "name": "Jaqe",
+          "url": "https://open.spotify.com/artist/6GFNszjoVtonHtwNFGUABT"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181448,
+      "name": "Hela V\u00e4gen Upp",
+      "url": "https://open.spotify.com/track/7CgPoYEwEFp4w71sECwFou"
+    },
+    {
+      "album": {
         "name": "Hela V\u00e4gen Upp (feat. Jaqe)",
         "url": "https://open.spotify.com/album/7KTvVRwWzKe85EDEdMBrsl"
       },
@@ -825,7 +919,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 181448,
       "name": "Hela V\u00e4gen Upp (feat. Jaqe)",
       "url": "https://open.spotify.com/track/5PfBWTtklToHiwR6ykNfmE"
@@ -909,10 +1003,28 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 203573,
       "name": "Hurt Me",
       "url": "https://open.spotify.com/track/2u2nlJGXbc4cFCOSaSB0rL"
+    },
+    {
+      "album": {
+        "name": "Icarus",
+        "url": "https://open.spotify.com/album/2VNYTjbqZ3rc3AZ4TrKFJw"
+      },
+      "artists": [
+        {
+          "name": "Cryalot",
+          "url": "https://open.spotify.com/artist/5MAbo7Vj1N532cmkSN4YIY"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203573,
+      "name": "Hurt Me",
+      "url": "https://open.spotify.com/track/4o4iusqhnZGGBruQ8cp8ZA"
     },
     {
       "album": {
@@ -927,7 +1039,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 167893,
       "name": "I'm Gon' Get You",
       "url": "https://open.spotify.com/track/3HcZq5T4OW6nSL0iUs4t9s"
@@ -1011,10 +1123,32 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 177287,
       "name": "Kuku Kee Me - Remix",
       "url": "https://open.spotify.com/track/0TsZ0Y4rTdQ19A9xbHj1SZ"
+    },
+    {
+      "album": {
+        "name": "Kuku Kee Me (Remix)",
+        "url": "https://open.spotify.com/album/42j4mil8EJDT9ekyFWRYE2"
+      },
+      "artists": [
+        {
+          "name": "Seun Kuti",
+          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
+        },
+        {
+          "name": "Black Thought",
+          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177287,
+      "name": "Kuku Kee Me - Remix",
+      "url": "https://open.spotify.com/track/4MNgW7UNCnIsxyz7D411GH"
     },
     {
       "album": {
@@ -1033,6 +1167,28 @@
       "duration_ms": 235136,
       "name": "Kuzola",
       "url": "https://open.spotify.com/track/2aDPkl4GCO2b53goL5Ia4W"
+    },
+    {
+      "album": {
+        "name": "Leader Of The Pack",
+        "url": "https://open.spotify.com/album/6U2V6suDmD5MxMnUYgSxP4"
+      },
+      "artists": [
+        {
+          "name": "Eliza Legzdina",
+          "url": "https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op"
+        },
+        {
+          "name": "Ruckspin",
+          "url": "https://open.spotify.com/artist/4xVxQGaT49dkkLwlcayoXg"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
+      "duration_ms": 219512,
+      "name": "Leader Of The Pack",
+      "url": "https://open.spotify.com/track/1e33JEiunjKdNTVxISYpb6"
     },
     {
       "album": {
@@ -1145,10 +1301,28 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 183609,
       "name": "Madan (King)",
       "url": "https://open.spotify.com/track/0wKfshpKa7P8eUiFdNM5oS"
+    },
+    {
+      "album": {
+        "name": "Madan (King)",
+        "url": "https://open.spotify.com/album/17nQWgqiyuKwi5Oku7BDAl"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183609,
+      "name": "Madan (King)",
+      "url": "https://open.spotify.com/track/5EGAY1Txvi5A3hFkYYGsXx"
     },
     {
       "album": {
@@ -1462,6 +1636,24 @@
     },
     {
       "album": {
+        "name": "Mani/Pedi",
+        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125312,
+      "name": "Pedi",
+      "url": "https://open.spotify.com/track/4W302qkLfaNUiqkkV6E6HT"
+    },
+    {
+      "album": {
         "name": "Pedi",
         "url": "https://open.spotify.com/album/0sy5zTEXULEyswNOxnAoLU"
       },
@@ -1473,7 +1665,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 125312,
       "name": "Pedi",
       "url": "https://open.spotify.com/track/718LR2LTJEjk61pTBn2cOo"
@@ -1844,6 +2036,28 @@
     },
     {
       "album": {
+        "name": "Cool It Down",
+        "url": "https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        },
+        {
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257746,
+      "name": "Spitting Off the Edge of the World",
+      "url": "https://open.spotify.com/track/0JX23XA8E7aN1Chj32kgVn"
+    },
+    {
+      "album": {
         "name": "Spitting Off the Edge of the World",
         "url": "https://open.spotify.com/album/1Jkvi8YFy8FpDK23tTlrhG"
       },
@@ -1859,7 +2073,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 257746,
       "name": "Spitting Off the Edge of the World",
       "url": "https://open.spotify.com/track/3kBBjItT7JnKi28k68dGkr"
@@ -2105,7 +2319,7 @@
     {
       "album": {
         "name": "Waterfall",
-        "url": "https://open.spotify.com/album/2f1wxCMX4KoS2DwTeagrNO"
+        "url": "https://open.spotify.com/album/2GDxorOmiV0k1LnoAoiTIi"
       },
       "artists": [
         {
@@ -2120,6 +2334,28 @@
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 232120,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/3X2Aw6bQ7TfMMKsTzjTlDg"
+    },
+    {
+      "album": {
+        "name": "Waterfall",
+        "url": "https://open.spotify.com/album/2f1wxCMX4KoS2DwTeagrNO"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
       "duration_ms": 232120,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/3a1CcF94xavoweGG1GWT0m"

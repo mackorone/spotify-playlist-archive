@@ -4,7 +4,7 @@
 
 > Soothing songs for family yoga time.
 
-207 songs - 10 hr 44 min - [published](https://open.spotify.com/playlist/6vVBPBjLNPSY1UgPYvJnVN)
+208 songs - 10 hr 48 min - [published](https://open.spotify.com/playlist/6vVBPBjLNPSY1UgPYvJnVN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Soft Meadow](https://open.spotify.com/track/2rMvml0pdO4mZYPDtIc1JQ) | [Dilaz](https://open.spotify.com/artist/0TOvt96p0iReJMOGxtV5ub) | [Green Space](https://open.spotify.com/album/7gLMuKgLpebst9bnhZnK8D) | 2:51 | 2021-05-14 |  |
 | [Soft Soul](https://open.spotify.com/track/7Ic3ORg6yG4XbqdfdxyOCM) | [Ella Drake](https://open.spotify.com/artist/0O76d5oDfMqnPoxRN29bpx) | [Newborn](https://open.spotify.com/album/6hSiNwlyOFDSpS3Xl28zU8) | 2:56 | 2021-05-14 |  |
 | [Soon my dear](https://open.spotify.com/track/5g7NMH1xXhjZsjqz268Vny) | [Edna Lyles](https://open.spotify.com/artist/4VmIM4MrXi2N7C5apFApwz) | [Soon my dear](https://open.spotify.com/album/5iZNSYBVqRXKoa5oAhhZlD) | 3:13 | 2021-05-14 |  |
+| [Soul Blanket](https://open.spotify.com/track/3udiwLxQnr2lr0higOdi8Z) | [Sofia's Choice](https://open.spotify.com/artist/6CXWg7xfVjOtwgILyQZZ20) | [Acoustic Favourites](https://open.spotify.com/album/3HrMtl0ZYK194zU8sfcpZx) | 4:01 | 2021-05-14 | 2022-11-13 |
 | [Soul Blanket](https://open.spotify.com/track/44McOkwrQvgCzDxd5NZV6a) | [Sofia's Choice](https://open.spotify.com/artist/6CXWg7xfVjOtwgILyQZZ20) | [Into The Stillness](https://open.spotify.com/album/1flvmX3ZrUV6I4XPXugSJ6) | 4:01 | 2021-05-14 | 2022-07-29 |
 | [Soul Blanket](https://open.spotify.com/track/7xgCM9MkPIJ0MWFJqGGKQD) | [Sofia's Choice](https://open.spotify.com/artist/6CXWg7xfVjOtwgILyQZZ20) | [Into The Stillness](https://open.spotify.com/album/0FQWkQhEOXL0IuICFw4XaE) | 4:01 | 2021-05-14 |  |
 | [Spaces](https://open.spotify.com/track/3ihG28Sd7TNFsUQ7pu7f7P) | [Gus Cleese](https://open.spotify.com/artist/5vCyUIqN5rujUkzGq5iJq2) | [Mountains](https://open.spotify.com/album/57R4gLdl1jbaEZuyYzhI3n) | 3:25 | 2021-05-14 |  |

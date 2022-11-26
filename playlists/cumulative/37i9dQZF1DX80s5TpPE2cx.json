@@ -243,7 +243,7 @@
     {
       "album": {
         "name": "Enjoy Your Life",
-        "url": "https://open.spotify.com/album/1tbGvVPTxiB6eZUbDjbSvv"
+        "url": "https://open.spotify.com/album/4ApwOkW9QSC5B0O4UyuVUS"
       },
       "artists": [
         {
@@ -254,6 +254,24 @@
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 187714,
+      "name": "Cash",
+      "url": "https://open.spotify.com/track/1q5RcxOiYjedF2mORWVkej"
+    },
+    {
+      "album": {
+        "name": "Enjoy Your Life",
+        "url": "https://open.spotify.com/album/1tbGvVPTxiB6eZUbDjbSvv"
+      },
+      "artists": [
+        {
+          "name": "Lady Donli",
+          "url": "https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-18",
       "duration_ms": 187714,
       "name": "Cash",
       "url": "https://open.spotify.com/track/24Du4ldzPI7PVfuaB45JHV"
@@ -1320,6 +1338,24 @@
     },
     {
       "album": {
+        "name": "Squad",
+        "url": "https://open.spotify.com/album/5JkLkqbbeXbSTbI0XA9XBA"
+      },
+      "artists": [
+        {
+          "name": "Idris King",
+          "url": "https://open.spotify.com/artist/72RaYOqPyRGRgaXP5XNXR1"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-21",
+      "duration_ms": 192026,
+      "name": "Squad",
+      "url": "https://open.spotify.com/track/1J3W4aYJO2d3C90rnkX2gD"
+    },
+    {
+      "album": {
         "name": "Cruise",
         "url": "https://open.spotify.com/album/4ueg8Xn74iH3sY4MRc7MYJ"
       },
@@ -1331,10 +1367,28 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 192026,
       "name": "Squad",
       "url": "https://open.spotify.com/track/3S99N747IJomX6CrZHZ9ho"
+    },
+    {
+      "album": {
+        "name": "Squad",
+        "url": "https://open.spotify.com/album/6iCd662RxmzQtMdEvInl88"
+      },
+      "artists": [
+        {
+          "name": "Idris King",
+          "url": "https://open.spotify.com/artist/72RaYOqPyRGRgaXP5XNXR1"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192052,
+      "name": "Squad",
+      "url": "https://open.spotify.com/track/48KxNEn76nPC6Tq08tRGFW"
     },
     {
       "album": {
@@ -1451,10 +1505,32 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 171000,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/4JP3dHzz9RwACJZePm2vqL"
+    },
+    {
+      "album": {
+        "name": "Enjoy Your Life",
+        "url": "https://open.spotify.com/album/4ApwOkW9QSC5B0O4UyuVUS"
+      },
+      "artists": [
+        {
+          "name": "Lady Donli",
+          "url": "https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG"
+        },
+        {
+          "name": "BenjiFlow",
+          "url": "https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/4RbhOqxDhVedWUAJeYTn7b"
     },
     {
       "album": {
@@ -1637,6 +1713,24 @@
       "duration_ms": 205395,
       "name": "Whoa!",
       "url": "https://open.spotify.com/track/23j9rRRZ04w0Do8maFAkyf"
+    },
+    {
+      "album": {
+        "name": "Nigeria Chill Afrobeats",
+        "url": "https://open.spotify.com/album/43O73p3plnSJKOd5Gpwgvq"
+      },
+      "artists": [
+        {
+          "name": "WurlD",
+          "url": "https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 84346,
+      "name": "Wishes And Butterflies",
+      "url": "https://open.spotify.com/track/16p52wkCAmPke4havm9H8M"
     },
     {
       "album": {

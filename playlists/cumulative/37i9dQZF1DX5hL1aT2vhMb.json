@@ -182,6 +182,32 @@
     },
     {
       "album": {
+        "name": "Clara Schumann & Great Female Composers",
+        "url": "https://open.spotify.com/album/5tQnMeWkq4MvYc7Y9KVlcr"
+      },
+      "artists": [
+        {
+          "name": "Ruth Crawford Seeger",
+          "url": "https://open.spotify.com/artist/1xw2D0SqXA6qm7akRYJCMg"
+        },
+        {
+          "name": "Sch\u00f6nberg Ensemble",
+          "url": "https://open.spotify.com/artist/0DaTIuJO6PFg5OaMBEwkDm"
+        },
+        {
+          "name": "Oliver Knussen",
+          "url": "https://open.spotify.com/artist/3m4IJPdirkdwwxa8hK55QN"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 238000,
+      "name": "Andante for Strings",
+      "url": "https://open.spotify.com/track/6lbEZYoCrgRyHNmdCSh6Mm"
+    },
+    {
+      "album": {
         "name": "Julia Wolfe: Anthracite Fields",
         "url": "https://open.spotify.com/album/3IQeodV04d0ZD2gIf2PGgB"
       },
@@ -518,6 +544,32 @@
     },
     {
       "album": {
+        "name": "Deux Morceaux: I. Nocturne (Arr. for Cello & Piano by Julian Riem)",
+        "url": "https://open.spotify.com/album/5RtTTPb3WYFmVIIBmS91ie"
+      },
+      "artists": [
+        {
+          "name": "Lili Boulanger",
+          "url": "https://open.spotify.com/artist/2ryY5UTorD1MXmnOcC7jCi"
+        },
+        {
+          "name": "Raphaela Gromes",
+          "url": "https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50"
+        },
+        {
+          "name": "Julian Riem",
+          "url": "https://open.spotify.com/artist/7xblEPvRNj5mqQ1vzV0g2D"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179890,
+      "name": "Deux Morceaux: I. Nocturne (Arr. for Cello & Piano by Julian Riem)",
+      "url": "https://open.spotify.com/track/6x5Vjt2sc2X5lCuy6fGbIK"
+    },
+    {
+      "album": {
         "name": "Dolmen Music",
         "url": "https://open.spotify.com/album/6XE64M0IdnyjddyZxAIVDh"
       },
@@ -701,6 +753,28 @@
       "duration_ms": 269013,
       "name": "Flight",
       "url": "https://open.spotify.com/track/6Wn3TQhCt3HEQVpw8fXRwJ"
+    },
+    {
+      "album": {
+        "name": "For A Moment",
+        "url": "https://open.spotify.com/album/6EdK9G30Mc7lyxSnfAuq0c"
+      },
+      "artists": [
+        {
+          "name": "Isobel Waller-Bridge",
+          "url": "https://open.spotify.com/artist/1Iy8JKDTXo8e9HmyTCaTOZ"
+        },
+        {
+          "name": "12 Ensemble",
+          "url": "https://open.spotify.com/artist/2em3FOAFG3NssO0tWItWuj"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156333,
+      "name": "For A Moment",
+      "url": "https://open.spotify.com/track/3ZS8mhkBb8JcO57NurUpGF"
     },
     {
       "album": {
@@ -951,7 +1025,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 183040,
       "name": "Nocturne",
       "url": "https://open.spotify.com/track/5n73Qx3es6qrFG67IKwNUA"
@@ -977,6 +1051,36 @@
       "duration_ms": 307893,
       "name": "Nonet in E-Flat Major, Op. 38: III. Scherzo. Vivace",
       "url": "https://open.spotify.com/track/2z7iDr3N4NbW4VmwpQWbTS"
+    },
+    {
+      "album": {
+        "name": "Gipps: Orchestral Works, Vol. 2",
+        "url": "https://open.spotify.com/album/69TIEmLBEQ0xXqo6Hz5UTR"
+      },
+      "artists": [
+        {
+          "name": "Ruth Gipps",
+          "url": "https://open.spotify.com/artist/44y69SILC0SORBI76pBuuW"
+        },
+        {
+          "name": "Juliana Koch",
+          "url": "https://open.spotify.com/artist/4NYAtbtGjoARss1qcUp4hw"
+        },
+        {
+          "name": "BBC Philharmonic",
+          "url": "https://open.spotify.com/artist/1z9u3vLr7gw6IBS8CP8c2X"
+        },
+        {
+          "name": "Rumon Gamba",
+          "url": "https://open.spotify.com/artist/0WXSfWdvqdhG76X1icKUVy"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255373,
+      "name": "Oboe Concerto, Op. 20: II. Andante",
+      "url": "https://open.spotify.com/track/0L1E4gOGIbBimN7FTHun3g"
     },
     {
       "album": {

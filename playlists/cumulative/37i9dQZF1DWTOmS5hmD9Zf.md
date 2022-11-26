@@ -4,11 +4,12 @@
 
 > Cause I'm a person just like you but I got better things to do.
 
-128 songs - 4 hr 23 min - [published](https://open.spotify.com/playlist/5NtBv1IdltVmxVho4kFItt)
+129 songs - 4 hr 25 min - [published](https://open.spotify.com/playlist/5NtBv1IdltVmxVho4kFItt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Thousand Ways](https://open.spotify.com/track/0TkdGi68fV8S1hMaDWoQnz) | [Foundation](https://open.spotify.com/artist/5KFe7ACxRpoEA9rzHsRWI2) | [At Your Mercy](https://open.spotify.com/album/6TcAmDKICSdru5qAxNmPvd) | 1:58 | 2021-07-09 | 2022-07-29 |
+| [A Thousand Ways](https://open.spotify.com/track/15AQz9qOOvoFGb95a2dX9v) | [Foundation](https://open.spotify.com/artist/5KFe7ACxRpoEA9rzHsRWI2) | [At Your Mercy](https://open.spotify.com/album/05miYlNCYtBciD9q76GiLg) | 1:58 | 2021-07-09 | 2022-11-13 |
 | [A Thousand Ways](https://open.spotify.com/track/3hyVqlYYsUhGriDTjdTW3H) | [Foundation](https://open.spotify.com/artist/5KFe7ACxRpoEA9rzHsRWI2) | [When The Smoke Clears](https://open.spotify.com/album/0vOBTDSbiN77sUyz7hhkE4) | 1:58 | 2021-07-09 |  |
 | [Actions Fall Short](https://open.spotify.com/track/5bANO42Ftgxya5On2DN2fP) | [In My Eyes](https://open.spotify.com/artist/2pH43cVCDgQrcO1ZPeVtD6) | [The Difference Between](https://open.spotify.com/album/2y9rU6C9MjWE9rV8Ekrs87) | 1:44 | 2021-07-09 |  |
 | [Arms of the Few](https://open.spotify.com/track/37LRW2fqwhh445fpKyaCDl) | [Strife](https://open.spotify.com/artist/68qsduRCs8caw95bbF4IDD) | [One Truth](https://open.spotify.com/album/6viLzSwVRbpyu2wVDI5AOf) | 2:09 | 2021-07-09 | 2022-07-29 |

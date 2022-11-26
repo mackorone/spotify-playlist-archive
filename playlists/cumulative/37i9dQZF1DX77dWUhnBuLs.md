@@ -4,7 +4,7 @@
 
 > Los grandes éxitos de Emmanuel y Mijares en un mismo lugar.
 
-54 songs - 3 hr 49 min - [published](https://open.spotify.com/playlist/4pUdPRJ82aSf9CL08DxeEW)
+57 songs - 4 hr 1 min - [published](https://open.spotify.com/playlist/4pUdPRJ82aSf9CL08DxeEW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [El Día Que Puedas](https://open.spotify.com/track/5eHMSmVfVni0JW1nZ15pUH) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Solo Exitos](https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1) | 4:07 | 2022-01-10 |  |
 | [El Privilegio De Amar](https://open.spotify.com/track/3NGG1do9lT815M5REcCzzm) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [El Privilegio De Amar](https://open.spotify.com/album/6Gz4ADhuPTy6CeyL52Ks2f) | 3:56 | 2022-01-10 |  |
 | [El Rey Azul \- En Vivo Los Estudios Churubusco México DF/2011](https://open.spotify.com/track/1Kecio0HXknkdeMdQYD4pv) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Acústico En Vivo](https://open.spotify.com/album/21W89hohyAUqNiLMKGYiZn) | 4:08 | 2022-01-10 |  |
+| [El Rey Azul \- En Vivo Los Estudios Churubusco México DF/2011](https://open.spotify.com/track/1zyzsdSrueFp8U72dTxnEp) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Momento feliz](https://open.spotify.com/album/6RKg7jkWRxyPzUcX4O1vgf) | 4:08 | 2022-01-10 | 2022-11-13 |
 | [El Rey Azul \- En Vivo Los Estudios Churubusco México DF/2011](https://open.spotify.com/track/6wquN6L5vXzZEdYilNZChP) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Acústico En Vivo Edición Especial](https://open.spotify.com/album/3UT78KFaMa9cr1hdSSWUUl) | 4:08 | 2022-01-10 | 2022-07-29 |
 | [Ella](https://open.spotify.com/track/2GnKCOGsFQpQrjkxM2sFYY) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Inédito](https://open.spotify.com/album/12IL7y0wXdRgACaBfV7Ts4) | 3:24 | 2022-01-10 |  |
 | [En Otra Vida \- En Vivo Los Estudios Churubusco México DF/2011](https://open.spotify.com/track/0xi11udkxLviLO8FTZ5432) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576), [Gian Marco](https://open.spotify.com/artist/2gDqGAadPIPiA7LtmNn74g) | [Acústico En Vivo Edición Especial](https://open.spotify.com/album/3UT78KFaMa9cr1hdSSWUUl) | 3:39 | 2022-01-10 | 2022-07-29 |
@@ -29,6 +30,7 @@
 | [Este Terco Corazon](https://open.spotify.com/track/1iN1knAnE9tgY3FipGocKX) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Diez Años Cantandole Al Amor](https://open.spotify.com/album/7m0U4kGO3H4QUw5W75HsQ8) | 3:42 | 2022-01-10 |  |
 | [Insoportablemente Bella](https://open.spotify.com/track/24jLRb0lLtk4U3F2xPh2AH) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Intimamente](https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY) | 3:37 | 2022-01-10 | 2022-07-29 |
 | [Insoportablemente Bella](https://open.spotify.com/track/5OAGFH0ezPr3jXSfQbMUpJ) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/5SLdkbTxNK4lMPtEhmU3Jw) | 3:38 | 2022-01-10 |  |
+| [Insoportablemente Bella](https://open.spotify.com/track/770WtiN253bEeNHl4WWF15) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Lo Esencial](https://open.spotify.com/album/4yMRNXFOQbvL9qydygVklg) | 3:38 | 2022-01-10 | 2022-11-13 |
 | [La Chica De Humo \- MTV Unplugged](https://open.spotify.com/track/4ozSZEX79T7QuDaifobXLO) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [MTV Unplugged: Con El Alma Desnuda](https://open.spotify.com/album/6w9N3RfyhAXpelVnAyrH2J) | 4:58 | 2022-01-10 |  |
 | [La Noche Arde](https://open.spotify.com/track/6JxYmYS0N7aNxzTTWXwKqZ) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Entre Lunas](https://open.spotify.com/album/5lhFbxGcPBzleQ9NNg0e1M) | 4:05 | 2022-01-10 |  |
 | [La Última Luna](https://open.spotify.com/track/5y5REf9y44dGuMAHHN3R2L) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Entre Lunas](https://open.spotify.com/album/5lhFbxGcPBzleQ9NNg0e1M) | 5:54 | 2022-01-10 |  |
@@ -53,6 +55,7 @@
 | [Tan Solo](https://open.spotify.com/track/5BL1jTvEv0C9Pak2gyaLJ8) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Exitos De la A a la Z](https://open.spotify.com/album/3MohFuhHCn5BZpu4cpiMZd) | 3:59 | 2022-01-10 |  |
 | [Te extraño \- En vivo](https://open.spotify.com/track/2WGjTH7IErhIH05SNKo4qz) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Sinfónico Desde el Palacio de Bellas Artes \(En Vivo\)](https://open.spotify.com/album/2SyOyd1McFv5i3m58pU1iD) | 5:16 | 2022-01-10 |  |
 | [Te Prometí](https://open.spotify.com/track/2xJxJdR7elaHDpTGZbyH3J) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [No Se Me Acaba El Alma](https://open.spotify.com/album/4WZUYXYUTWU0VcMLPa0wwx) | 3:20 | 2022-01-10 |  |
+| [Tengo Mucho Que Aprender de Ti](https://open.spotify.com/track/1NBBMEhFjhzCMokhv0mJRd) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Serie Platino](https://open.spotify.com/album/2l4VfuJE77hCUPBtUmA92W) | 3:44 | 2022-01-10 | 2022-11-13 |
 | [Tengo Mucho Que Aprender de Ti](https://open.spotify.com/track/4oGUe2drMP0QGkSeOHc0Ro) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Intimamente](https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY) | 3:44 | 2022-01-10 | 2022-07-29 |
 | [Tengo Mucho Que Aprender de Ti](https://open.spotify.com/track/2Vo8J9dFz2mzJLbdfKCHXJ) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/5SLdkbTxNK4lMPtEhmU3Jw) | 3:44 | 2022-01-10 |  |
 | [Toda La Vida \- MTV Unplugged](https://open.spotify.com/track/3ldtYU2YTeuwWYkMFicLxW) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576), [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [MTV Unplugged: Con El Alma Desnuda](https://open.spotify.com/album/6w9N3RfyhAXpelVnAyrH2J) | 4:41 | 2022-01-10 |  |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3HEOMXFtAAadlud1rklphC">JonTheProducer</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-78 songs - 4 hr 10 min - [published](https://open.spotify.com/playlist/3nLRwtPCNrDqChh2HtzKxE)
+79 songs - 4 hr 13 min - [published](https://open.spotify.com/playlist/3nLRwtPCNrDqChh2HtzKxE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [Lento](https://open.spotify.com/track/31dIPeytivJSNsEqeyVyfW) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Valiente](https://open.spotify.com/album/2vcyOtFtWOYuQ6j4AH2FIG) | 3:36 | 2022-06-04 |  |
 | [Llorar y Llorar \- con Carin Leon](https://open.spotify.com/track/4YF13O2n16dcTyGgVmiGvN) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Llorar y Llorar \(con Carin Leon\)](https://open.spotify.com/album/3FytBDr6KeYhwstN8yanrn) | 2:49 | 2022-08-12 |  |
 | [Lo Que Me Dé la Gana](https://open.spotify.com/track/78jD6JCzohCt21a3rc26FB) | [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [Lo Que Me Dé la Gana](https://open.spotify.com/album/7wtZmmV9IngZcM71QUBUgL) | 3:04 | 2022-06-04 |  |
-| [Loca Crazy](https://open.spotify.com/track/3HcnF7SQgTL6PG5UGGPnyv) | [Patricia Zavala](https://open.spotify.com/artist/6phtBAYwDEdv1xOcaVCbus), [Budu](https://open.spotify.com/artist/7n0qv6tQpogYMmeLs0nYAD) | [Loca Crazy](https://open.spotify.com/album/4pzkeNg3MARIDjJkEWDX8u) | 2:36 | 2022-06-04 |  |
+| [Loca Crazy](https://open.spotify.com/track/0VZTJGFXYAARxaO27DkE9W) | [Patricia Zavala](https://open.spotify.com/artist/6phtBAYwDEdv1xOcaVCbus), [Budu](https://open.spotify.com/artist/7n0qv6tQpogYMmeLs0nYAD) | [Loca Crazy](https://open.spotify.com/album/6lwo9KQ5ZC5glyaaYUpWwD) | 2:36 | 2022-10-13 |  |
+| [Loca Crazy](https://open.spotify.com/track/3HcnF7SQgTL6PG5UGGPnyv) | [Patricia Zavala](https://open.spotify.com/artist/6phtBAYwDEdv1xOcaVCbus), [Budu](https://open.spotify.com/artist/7n0qv6tQpogYMmeLs0nYAD) | [Loca Crazy](https://open.spotify.com/album/4pzkeNg3MARIDjJkEWDX8u) | 2:36 | 2022-06-04 | 2022-10-14 |
 | [Madrugada](https://open.spotify.com/track/4L9gOtI2Cy10mqlwKGn9KX) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Montaner](https://open.spotify.com/album/50k6VtZQku8LJncGUzgBBG) | 4:06 | 2022-06-04 |  |
 | [Mal Acompañados](https://open.spotify.com/track/2RIXpANfxOuaj5FssIA7LJ) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Para Aventuras y Curiosidades](https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff) | 3:04 | 2022-06-04 |  |
 | [Mal de la Cabeza](https://open.spotify.com/track/62mmVqtsiY2dob1EMxC5W2) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Para Aventuras y Curiosidades](https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff) | 4:02 | 2022-06-04 |  |

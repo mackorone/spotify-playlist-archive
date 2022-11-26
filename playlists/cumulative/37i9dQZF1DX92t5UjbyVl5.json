@@ -202,7 +202,7 @@
       "artists": [
         {
           "name": "Jaeger",
-          "url": "https://open.spotify.com/artist/77PxY9mItIkmEo8D2fbfco"
+          "url": "https://open.spotify.com/artist/3vWZ7hGW88wyByViyiwf8L"
         }
       ],
       "date_added": "2022-02-07",
@@ -593,6 +593,24 @@
     {
       "album": {
         "name": "Harajuku Style",
+        "url": "https://open.spotify.com/album/12Z4j3pe23QvErapS6dF2S"
+      },
+      "artists": [
+        {
+          "name": "Natsu Fuji",
+          "url": "https://open.spotify.com/artist/5r2d1vMFtAGUsUOvH6WiSy"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 216857,
+      "name": "Egg Reverie (Kawaii Trap Ver.)",
+      "url": "https://open.spotify.com/track/5MHxyIziBiXnrQmJ0Pk4Xw"
+    },
+    {
+      "album": {
+        "name": "Harajuku Style",
         "url": "https://open.spotify.com/album/6LS8MGht2B6yazRdwoulTi"
       },
       "artists": [
@@ -979,10 +997,36 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 155458,
       "name": "Laif Is Tu Short - Instrumental",
       "url": "https://open.spotify.com/track/10W6cSzVxb5Pn17y2Ll90Z"
+    },
+    {
+      "album": {
+        "name": "Laif Is Tu Short",
+        "url": "https://open.spotify.com/album/2osIjJPyOPli3uUgNfbslN"
+      },
+      "artists": [
+        {
+          "name": "Brous One",
+          "url": "https://open.spotify.com/artist/1B8h9tQRqagUQ7XcHRvh3k"
+        },
+        {
+          "name": "Matiah Chinaski",
+          "url": "https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F"
+        },
+        {
+          "name": "DJ Pere",
+          "url": "https://open.spotify.com/artist/0OHe56BrinIZV4Xqu4EEbP"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155458,
+      "name": "Laif Is Tu Short - Instrumental",
+      "url": "https://open.spotify.com/track/4a60fGnWygEx4njLHZK4n8"
     },
     {
       "album": {
@@ -1337,6 +1381,24 @@
     {
       "album": {
         "name": "Mind Shook Dreams",
+        "url": "https://open.spotify.com/album/6tSVy7KGYsGF3Ru6CzVcOV"
+      },
+      "artists": [
+        {
+          "name": "Inmune Beats",
+          "url": "https://open.spotify.com/artist/2QDJbuxkHXoDuwYcC1CBQz"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118166,
+      "name": "Shook",
+      "url": "https://open.spotify.com/track/2GWu06oCNg4OxGIoj5FuE5"
+    },
+    {
+      "album": {
+        "name": "Mind Shook Dreams",
         "url": "https://open.spotify.com/album/0g7DUcA4cRwxhYYktCZITL"
       },
       "artists": [
@@ -1347,7 +1409,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 118166,
       "name": "Shook",
       "url": "https://open.spotify.com/track/7uw2RLrljWUpO0eM7lxSIS"

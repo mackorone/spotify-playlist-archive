@@ -103,13 +103,17 @@
         {
           "name": "Kelsey Kuan",
           "url": "https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9"
+        },
+        {
+          "name": "prettyhappy",
+          "url": "https://open.spotify.com/artist/3doCkojWogBLg7PlYwaiG5"
         }
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 167454,
-      "name": "About Time (feat. Kelsey Kuan)",
+      "name": "About Time (feat. Kelsey Kuan & prettyhappy)",
       "url": "https://open.spotify.com/track/3J7hHQpqeaAcjJfSwMtRyG"
     },
     {
@@ -355,6 +359,32 @@
     {
       "album": {
         "name": "BTBT",
+        "url": "https://open.spotify.com/album/6z2Ij8op0iB16BnmrCy0vH"
+      },
+      "artists": [
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        },
+        {
+          "name": "Soulja Boy",
+          "url": "https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS"
+        },
+        {
+          "name": "DeVita",
+          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219549,
+      "name": "BTBT",
+      "url": "https://open.spotify.com/track/4XcxgZSriCYamtIA7BgT7V"
+    },
+    {
+      "album": {
+        "name": "BTBT",
         "url": "https://open.spotify.com/album/3KFvIKBPy0SciyKwrebvpO"
       },
       "artists": [
@@ -373,7 +403,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 219549,
       "name": "BTBT",
       "url": "https://open.spotify.com/track/7nthiiDfS9WHNHDMwmAz98"
@@ -756,6 +786,24 @@
     },
     {
       "album": {
+        "name": "\u5b9a\u3081",
+        "url": "https://open.spotify.com/album/58Rn6sczqcudAs9bryXXBv"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180226,
+      "name": "Future Perfect (Pass the MIC) - Japanese Ver.",
+      "url": "https://open.spotify.com/track/3lwif0ky1b6llUB5p4uulL"
+    },
+    {
+      "album": {
         "name": "Galipette (BIBI Remix)",
         "url": "https://open.spotify.com/album/1x5eiXeq1m6KQxfYFKWQus"
       },
@@ -797,6 +845,32 @@
       "duration_ms": 179333,
       "name": "Gotta Get Back (feat. Pink Sweat$)",
       "url": "https://open.spotify.com/track/5760o7vIytByWNmmf115wj"
+    },
+    {
+      "album": {
+        "name": "How Do You Know (with HA:TFELT)",
+        "url": "https://open.spotify.com/album/1XOosvS2hJIq8byIY5eT5T"
+      },
+      "artists": [
+        {
+          "name": "Paul Oakenfold",
+          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
+        },
+        {
+          "name": "Willim",
+          "url": "https://open.spotify.com/artist/5bp5XaFz8Py4UFEhQ6FZRk"
+        },
+        {
+          "name": "HA:TFELT",
+          "url": "https://open.spotify.com/artist/3Mrp5B6JdfoiObgY0WR8lF"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163902,
+      "name": "How Do You Know (with HA:TFELT)",
+      "url": "https://open.spotify.com/track/6nkFrBPgN5SHZMnS1ErITt"
     },
     {
       "album": {
@@ -1103,6 +1177,24 @@
       "duration_ms": 205226,
       "name": "LUNATIC (English Ver.)",
       "url": "https://open.spotify.com/track/6iQQ9sg5NSauLU4TzKFOsY"
+    },
+    {
+      "album": {
+        "name": "Make the change",
+        "url": "https://open.spotify.com/album/2wJfsH5ol2YVGq2biNphzY"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Make the change",
+      "url": "https://open.spotify.com/track/3nV2Yjy2aJjUl74p0tEfWf"
     },
     {
       "album": {
@@ -1833,7 +1925,7 @@
       },
       "artists": [
         {
-          "name": "T1419",
+          "name": "TFN",
           "url": "https://open.spotify.com/artist/3uT0R5PsjP0k7NJ565Nqs4"
         }
       ],

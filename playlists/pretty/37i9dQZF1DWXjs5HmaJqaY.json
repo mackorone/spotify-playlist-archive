@@ -1,18 +1,70 @@
 {
   "description": "<a href=\"spotify:artist:6caPJFLv1wesmM7gwK1ACy\">Boris Brejcha</a>'s favorite tracks. Updated regularly. Curated by Boris Brejcha. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 114083,
+  "num_followers": 121238,
   "original_name": "Boris Brejcha's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTEzNDIwOCwwMDAwMDAwMGY4N2Y3M2VmMjkzNTdkY2Q4OTM5YzEzN2QzODhlMWEy",
+  "snapshot_id": "MTY2ODc4MDY1MSwwMDAwMDAwMDc1Zjg5YmYyZjYyYTNmMDYwOGI5MmY5MGVjOWI1YzM5",
   "tracks": [
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
-        "name": "Six For Gold",
-        "url": "https://open.spotify.com/album/3CbIAm371uRIjuo9pfeSYd"
+        "name": "Porcupine EP",
+        "url": "https://open.spotify.com/album/06OzwkhkR0MPA4mT2SUdBD"
+      },
+      "artists": [
+        {
+          "name": "Co-Fusion",
+          "url": "https://open.spotify.com/artist/54lOUDySWQlDC4tb81wjDT"
+        }
+      ],
+      "duration_ms": 465120,
+      "name": "Kinematic Motion",
+      "url": "https://open.spotify.com/track/4rUhhO3Ztf1Ij9gjumbz8W"
+    },
+    {
+      "added_at": "2022-11-18 14:10:51",
+      "album": {
+        "name": "KOMMIT",
+        "url": "https://open.spotify.com/album/3jjmGtJT3ZHFV272azCeYl"
+      },
+      "artists": [
+        {
+          "name": "Der Dritte Raum",
+          "url": "https://open.spotify.com/artist/5RZGHff3PE1rPUKOpDIqaO"
+        }
+      ],
+      "duration_ms": 440624,
+      "name": "Echodeltaalfaxray",
+      "url": "https://open.spotify.com/track/4dDCPZhr8fCiCIMKEXZYnk"
+    },
+    {
+      "added_at": "2022-11-18 14:10:51",
+      "album": {
+        "name": "Timelapse",
+        "url": "https://open.spotify.com/album/0nAbT1dKYuAMJrME1nmfKy"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        },
+        {
+          "name": "Ginger",
+          "url": "https://open.spotify.com/artist/5b0sKzG9NeO7OjbZJ61ZBN"
+        }
+      ],
+      "duration_ms": 478080,
+      "name": "Darkness",
+      "url": "https://open.spotify.com/track/65YXrDsZER1jlPAqFS9GDH"
+    },
+    {
+      "added_at": "2022-11-18 14:10:51",
+      "album": {
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/3Hm5FFYt2DLjqWDFR3acCB"
       },
       "artists": [
         {
@@ -20,12 +72,12 @@
           "url": "https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong"
         }
       ],
-      "duration_ms": 301440,
-      "name": "Six For Gold",
-      "url": "https://open.spotify.com/track/5x7FKrpE3JBVbOSQ9O7cSn"
+      "duration_ms": 295680,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/3iFMV4VhTXINenfrLNWAiy"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "Elektronenschwungdynamik",
         "url": "https://open.spotify.com/album/7DLN31hXu37rDh3EuksFME"
@@ -41,43 +93,7 @@
       "url": "https://open.spotify.com/track/6TEAfm3Hh7JYNDHHj6MKHn"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
-      "album": {
-        "name": "I Want You",
-        "url": "https://open.spotify.com/album/1QziaajVxVFMQKs0vyqH4Y"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        },
-        {
-          "name": "Ginger",
-          "url": "https://open.spotify.com/artist/5b0sKzG9NeO7OjbZJ61ZBN"
-        }
-      ],
-      "duration_ms": 207360,
-      "name": "I Want You - Edit",
-      "url": "https://open.spotify.com/track/5VzsokRZMpEDLTaXBPfUdJ"
-    },
-    {
-      "added_at": "2022-10-07 09:16:48",
-      "album": {
-        "name": "KOMMIT",
-        "url": "https://open.spotify.com/album/3jjmGtJT3ZHFV272azCeYl"
-      },
-      "artists": [
-        {
-          "name": "Der Dritte Raum",
-          "url": "https://open.spotify.com/artist/5RZGHff3PE1rPUKOpDIqaO"
-        }
-      ],
-      "duration_ms": 475766,
-      "name": "Andromeda Mission",
-      "url": "https://open.spotify.com/track/7EKpyfbmopbXMaMLW9QEd3"
-    },
-    {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "OK, OK",
         "url": "https://open.spotify.com/album/0TERygqKJpDLNi8zwfyCzZ"
@@ -93,7 +109,39 @@
       "url": "https://open.spotify.com/track/6FaOYioHDoL3Tt1c1Zn9EZ"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
+      "album": {
+        "name": "Zeitgeist",
+        "url": "https://open.spotify.com/album/6opqQmqgQs8UNLeCQlSMPS"
+      },
+      "artists": [
+        {
+          "name": "Thomas Helmich",
+          "url": "https://open.spotify.com/artist/5TK5jKewjDuQuXXRAguEml"
+        }
+      ],
+      "duration_ms": 155978,
+      "name": "Zeitgeist - Edit",
+      "url": "https://open.spotify.com/track/7DAaK0FTmMhFHPdaxaNxew"
+    },
+    {
+      "added_at": "2022-11-18 14:10:51",
+      "album": {
+        "name": "Your Eyes",
+        "url": "https://open.spotify.com/album/1CuL8wEn70rVlgsRz6AuQC"
+      },
+      "artists": [
+        {
+          "name": "Moritz Hofbauer",
+          "url": "https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE"
+        }
+      ],
+      "duration_ms": 232200,
+      "name": "Your Eyes",
+      "url": "https://open.spotify.com/track/1CAaDJOqduOgx6CwazkMBH"
+    },
+    {
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "Dualism",
         "url": "https://open.spotify.com/album/0pQ00YF0S5Xj68eJlWxwAN"
@@ -109,39 +157,23 @@
       "url": "https://open.spotify.com/track/5BOR3weDfPrKSU01sHiaY9"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
-        "name": "Victoria",
-        "url": "https://open.spotify.com/album/77xt4VI6PKWacDLscctnhk"
+        "name": "Known",
+        "url": "https://open.spotify.com/album/2xnS4KlBwyc8sYKPJ5kmpk"
       },
       "artists": [
         {
-          "name": "Moritz Hofbauer",
-          "url": "https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE"
+          "name": "Visual Impact",
+          "url": "https://open.spotify.com/artist/4x6uqIBNtjpOK15euwKiVI"
         }
       ],
-      "duration_ms": 268157,
-      "name": "Victoria",
-      "url": "https://open.spotify.com/track/2ayJnyzml6TAtXRBIYwG2B"
+      "duration_ms": 266666,
+      "name": "Known",
+      "url": "https://open.spotify.com/track/7HifJr6sXlPCtnfPnMC0Rg"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
-      "album": {
-        "name": "Subconscious",
-        "url": "https://open.spotify.com/album/5GuHgCcoVrDmGYnpPprN0S"
-      },
-      "artists": [
-        {
-          "name": "Theydream",
-          "url": "https://open.spotify.com/artist/5dNuHnFp9DGGOxoQx1WB5v"
-        }
-      ],
-      "duration_ms": 339262,
-      "name": "Subconscious",
-      "url": "https://open.spotify.com/track/5R8PgzKg69PUSLxb2CDgzT"
-    },
-    {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "Human Element",
         "url": "https://open.spotify.com/album/77sbAXerqRqJe1GqJYHlAx"
@@ -157,7 +189,43 @@
       "url": "https://open.spotify.com/track/0u2k5ZReAHv0Et3Gu8jqdn"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
+      "album": {
+        "name": "Club Vibes Part 03",
+        "url": "https://open.spotify.com/album/7JSJ48rBBgpLqPfUkxcUuE"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 487680,
+      "name": "In The Shadows",
+      "url": "https://open.spotify.com/track/3I72hk46KJ6MFDtNBjJ99P"
+    },
+    {
+      "added_at": "2022-11-18 14:10:51",
+      "album": {
+        "name": "On The Verge",
+        "url": "https://open.spotify.com/album/2ItxgDNKdIqCuTDiDPr6ip"
+      },
+      "artists": [
+        {
+          "name": "DJ Lion",
+          "url": "https://open.spotify.com/artist/0ZwTI7HIWqX7mz1KwdZSoq"
+        },
+        {
+          "name": "Tony Mac",
+          "url": "https://open.spotify.com/artist/4WO5mje9DtK4ACbNOMvbb4"
+        }
+      ],
+      "duration_ms": 203809,
+      "name": "On The Verge - Radio Mix",
+      "url": "https://open.spotify.com/track/4zsjBsKQEJhD0VivNDDXCq"
+    },
+    {
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "Nahar",
         "url": "https://open.spotify.com/album/49UofVTgrdjTpAW931oCix"
@@ -173,26 +241,10 @@
       "url": "https://open.spotify.com/track/6Mr9RKIgliPnqBUDGeLUOg"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
-        "name": "Co-Fu3.0",
-        "url": "https://open.spotify.com/album/5c1OFamBd5J7yJol5eiJje"
-      },
-      "artists": [
-        {
-          "name": "Co-Fusion",
-          "url": "https://open.spotify.com/artist/54lOUDySWQlDC4tb81wjDT"
-        }
-      ],
-      "duration_ms": 357600,
-      "name": "iStart",
-      "url": "https://open.spotify.com/track/61x77gza6h1eDDCBCPe6W9"
-    },
-    {
-      "added_at": "2022-10-07 09:16:48",
-      "album": {
-        "name": "Since we met",
-        "url": "https://open.spotify.com/album/0VoNfJMeiTcWO6AwHQgbrG"
+        "name": "IAM ALFRED HEINRICHS feat. Haexxa",
+        "url": "https://open.spotify.com/album/1Cr9a95UD5guifadqpth5N"
       },
       "artists": [
         {
@@ -204,28 +256,28 @@
           "url": "https://open.spotify.com/artist/0GY1LiRaEjFG0n8rP8wvrC"
         }
       ],
-      "duration_ms": 379832,
-      "name": "Since we met - Club Mix",
-      "url": "https://open.spotify.com/track/37XgAvXPSzS8lKQkmYyI6b"
+      "duration_ms": 359816,
+      "name": "F\u00fcr die Seele feat. Haexxa",
+      "url": "https://open.spotify.com/track/2fKUMYknbSWF7WOKwMQUZE"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
-        "name": "Club Vibes Part 02",
-        "url": "https://open.spotify.com/album/2wdfP8ZepuYBjNC3mDBb73"
+        "name": "Subconscious",
+        "url": "https://open.spotify.com/album/5GuHgCcoVrDmGYnpPprN0S"
       },
       "artists": [
         {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+          "name": "Theydream",
+          "url": "https://open.spotify.com/artist/5dNuHnFp9DGGOxoQx1WB5v"
         }
       ],
-      "duration_ms": 470400,
-      "name": "Bumblebee",
-      "url": "https://open.spotify.com/track/10twrq4TUN6ThYX8fHTlab"
+      "duration_ms": 339262,
+      "name": "Subconscious",
+      "url": "https://open.spotify.com/track/5R8PgzKg69PUSLxb2CDgzT"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "Hot Dance",
         "url": "https://open.spotify.com/album/5yMkfxICTfooagFb48dMUX"
@@ -245,7 +297,7 @@
       "url": "https://open.spotify.com/track/43yw8iDqEh75DUvk8pwXWz"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "Shift Sequence Remixes Part 4",
         "url": "https://open.spotify.com/album/6jj2HwPNT9aeeydW2x0fTo"
@@ -265,7 +317,7 @@
       "url": "https://open.spotify.com/track/0rfFvNRcfEYdOCdxL6F2bz"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "Dawn of Man",
         "url": "https://open.spotify.com/album/6ygNkqCX4Ud8CwRtzf700V"
@@ -281,7 +333,7 @@
       "url": "https://open.spotify.com/track/1eKXY9F9BZzDHraaFCajoh"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "Telluric",
         "url": "https://open.spotify.com/album/76Nl2NpAkxHJrKUH2Jb7DJ"
@@ -305,27 +357,7 @@
       "url": "https://open.spotify.com/track/2wb3Sf2Py8y4Ak05f8b7ka"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
-      "album": {
-        "name": "Boavista Remixes",
-        "url": "https://open.spotify.com/album/0veMfwPekRVWazQ0YVGLPa"
-      },
-      "artists": [
-        {
-          "name": "Stephan Bodzin",
-          "url": "https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7"
-        },
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 495020,
-      "name": "Astronautin - Boris Brejcha Remix",
-      "url": "https://open.spotify.com/track/4Z9JnhS9cd1Qd0BJ7nii4D"
-    },
-    {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "Massive Bells",
         "url": "https://open.spotify.com/album/5cqpAi3BPkcNuUWbRzsgoT"
@@ -345,7 +377,7 @@
       "url": "https://open.spotify.com/track/7w8M9HRuLI36enKabMRdzD"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "Adventures of Dama 2022",
         "url": "https://open.spotify.com/album/4nZ4TdGq90n6M6CW0a7oG8"
@@ -365,7 +397,7 @@
       "url": "https://open.spotify.com/track/2IhAnVqvBv2JWvMsh3zPES"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "Patterns",
         "url": "https://open.spotify.com/album/2UxYojBKGpTT9IKmKL130T"
@@ -381,7 +413,7 @@
       "url": "https://open.spotify.com/track/1Wrgevw8ryE5ygjDBa9f10"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "Up Down Jumper",
         "url": "https://open.spotify.com/album/77gAd4MCswYYXswGlBaLbv"
@@ -397,7 +429,7 @@
       "url": "https://open.spotify.com/track/0evYoPRWnnQ6ACNC0LJPul"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "KOMMIT",
         "url": "https://open.spotify.com/album/3jjmGtJT3ZHFV272azCeYl"
@@ -413,7 +445,7 @@
       "url": "https://open.spotify.com/track/7F6T8NsGPnQn8GdYRkTblw"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "Freedom Remixes",
         "url": "https://open.spotify.com/album/0mvihIyrSPWeVF7zCpJPtv"
@@ -433,7 +465,7 @@
       "url": "https://open.spotify.com/track/4vl5XHDOzZfFSxh5kFC7A7"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "Love And Forgive",
         "url": "https://open.spotify.com/album/03SCD6AOiVJEeA6GkvfY2N"
@@ -449,7 +481,7 @@
       "url": "https://open.spotify.com/track/6Qy9lpJM7rvPJ6edx9gYbI"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "Revolt",
         "url": "https://open.spotify.com/album/7h5XiTCsy80QsqI0oVDdkT"
@@ -465,7 +497,7 @@
       "url": "https://open.spotify.com/track/5UAjSVD66PU0VJVDjf0wzj"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "Pictureoftheday - Marco Faraone Remix",
         "url": "https://open.spotify.com/album/4BtmVqZMhKF4qqo7lpIUAv"
@@ -485,7 +517,7 @@
       "url": "https://open.spotify.com/track/4VxbQKewmC9zm1qYDVx64W"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "It's Our Future - The Rico Puestel Remixes",
         "url": "https://open.spotify.com/album/7MIZ7x31D9tsW8foA4dBlJ"
@@ -505,7 +537,7 @@
       "url": "https://open.spotify.com/track/7mYCPswhMcmhsEzQ7L4pii"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "So Cold",
         "url": "https://open.spotify.com/album/2OG9njNHJha0rvltAhAX4N"
@@ -521,7 +553,7 @@
       "url": "https://open.spotify.com/track/3wxiYRkslAAy8XtjvZTIxy"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "Cedes",
         "url": "https://open.spotify.com/album/7vqjuCQYlcv1LRMqNmXJxl"
@@ -537,7 +569,7 @@
       "url": "https://open.spotify.com/track/3gCqPq2W4Soe7v8QTor0mN"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "Are Am Eye? Roger Shah & Cores Remix",
         "url": "https://open.spotify.com/album/1sdYiS8ZuS0NmT6o9uyezT"
@@ -561,7 +593,7 @@
       "url": "https://open.spotify.com/track/6SoOlvrcw4GhmQoq9araKD"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "Shift Sequence",
         "url": "https://open.spotify.com/album/4MeMM1mQNBMUlrJtDV8WXn"
@@ -577,23 +609,7 @@
       "url": "https://open.spotify.com/track/5rKd7CRzESI68mH6eWmmTp"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
-      "album": {
-        "name": "Bella Mar 08",
-        "url": "https://open.spotify.com/album/5yiTh9hbFRyF4jp7bAiZQn"
-      },
-      "artists": [
-        {
-          "name": "Einmusik",
-          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
-        }
-      ],
-      "duration_ms": 483962,
-      "name": "Shinsetsu",
-      "url": "https://open.spotify.com/track/76aEsWbH7zSLICnB1YM049"
-    },
-    {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "On Off / Fast Forward",
         "url": "https://open.spotify.com/album/4FfB3ih0ergiHNHpSxzJR9"
@@ -609,7 +625,7 @@
       "url": "https://open.spotify.com/track/4scUsV40AYlpiXCb4s7UnN"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "Shift Sequence",
         "url": "https://open.spotify.com/album/4MeMM1mQNBMUlrJtDV8WXn"
@@ -625,7 +641,7 @@
       "url": "https://open.spotify.com/track/5Ek7y6nNqZaQaC8s005K5O"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "The Fire",
         "url": "https://open.spotify.com/album/3Fe4a70NPiblcAadRnUXcv"
@@ -641,7 +657,7 @@
       "url": "https://open.spotify.com/track/02xvpUN3o4BegUDrfqv5ao"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "SEX",
         "url": "https://open.spotify.com/album/3MvKaCc5pZCi7PrNt1S2Zd"
@@ -661,7 +677,7 @@
       "url": "https://open.spotify.com/track/72BS1ZITFhGIuc2sglMwYs"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "Jupiter",
         "url": "https://open.spotify.com/album/2bNG8S7nPGtCWAYVLnDh6m"
@@ -677,7 +693,7 @@
       "url": "https://open.spotify.com/track/57szAdxfyg37GXI3t4ECgr"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "Another Day",
         "url": "https://open.spotify.com/album/0vrJ2GjVQ9lavv0u74PHJn"
@@ -697,7 +713,7 @@
       "url": "https://open.spotify.com/track/4SKkLIyC381iLFbjt0dIWM"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "WooW",
         "url": "https://open.spotify.com/album/4a7p2hB9yRUQHpyinOhVeV"
@@ -713,7 +729,7 @@
       "url": "https://open.spotify.com/track/2zQJxkF4ikrCpUIVAMDgsu"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "Watergate 27 EP #1",
         "url": "https://open.spotify.com/album/0ZD1D7rbIEFtfkzyZouLtp"
@@ -733,7 +749,7 @@
       "url": "https://open.spotify.com/track/7lqdOVhUoKnjRyjipj4Z9k"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "Global Underground: Select #6 (Unmixed)",
         "url": "https://open.spotify.com/album/73RcWGhmonTvHLdN5iuVwn"
@@ -753,7 +769,7 @@
       "url": "https://open.spotify.com/track/1rzg4NUtl1hbo08uqWtAO4"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "Katermukke Playground XI",
         "url": "https://open.spotify.com/album/3AEn2yhRRCVW3CqzBrke8k"
@@ -773,7 +789,7 @@
       "url": "https://open.spotify.com/track/2EsImRV5hldowTEVn7ll7h"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "Pictureoftheday - Breitenstein Remix",
         "url": "https://open.spotify.com/album/6du7BevPmXnj3oHFwiwD6f"
@@ -793,7 +809,7 @@
       "url": "https://open.spotify.com/track/7FwnbicTkdRzrzwWc8hkHp"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "Bending the End",
         "url": "https://open.spotify.com/album/07SvgpFWSvAEreX8Zq3GqX"
@@ -813,7 +829,7 @@
       "url": "https://open.spotify.com/track/78Bj94zrq8DgvjcZffBNS7"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "Extra Welt Hits",
         "url": "https://open.spotify.com/album/3XKvUkeeuxTcKAKBrzR4lE"
@@ -829,7 +845,7 @@
       "url": "https://open.spotify.com/track/0tZFL2LU8XSThRttMJif6Q"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "Black Ice (Boris Brejcha Remix)",
         "url": "https://open.spotify.com/album/75COllS7axLZDroQCGWCFb"
@@ -849,7 +865,7 @@
       "url": "https://open.spotify.com/track/4oKpdNCActjFU2kDbY3iLi"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "Hungry 5 (The Best of 5 Years)",
         "url": "https://open.spotify.com/album/6cjXNVPvBuQdrCbllisAbD"
@@ -869,7 +885,7 @@
       "url": "https://open.spotify.com/track/1uXUZfJykefWuwj9VtyxIq"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "Mesopotamia",
         "url": "https://open.spotify.com/album/1bJJ1flQQjW6hWPGSjG4b6"
@@ -889,7 +905,7 @@
       "url": "https://open.spotify.com/track/24wkID8UHARIJLeKAkcjq6"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "Puls",
         "url": "https://open.spotify.com/album/5x7HlzUrvG4KxSrGjDEcBO"
@@ -905,7 +921,7 @@
       "url": "https://open.spotify.com/track/0PkwtUYZiNpGtbkVYZkvMZ"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "Marionette",
         "url": "https://open.spotify.com/album/4jB9tDebyvYZHEhfAnYV8E"
@@ -921,7 +937,7 @@
       "url": "https://open.spotify.com/track/0LG0XwV3KdCgHsGrqN1u4u"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "30 Years EP",
         "url": "https://open.spotify.com/album/7H8d96hgtZ7Q44M5ZtJMhZ"
@@ -941,7 +957,7 @@
       "url": "https://open.spotify.com/track/5oHZkmXPUVU9nX0b9xW2iL"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "LFO",
         "url": "https://open.spotify.com/album/7a2ja1S9hGEDBTO91uoj6n"
@@ -957,7 +973,7 @@
       "url": "https://open.spotify.com/track/0BELfOcufjLMZkfPu2p7K5"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "The Blame (Helsloot Remix)",
         "url": "https://open.spotify.com/album/6CER3OrpXoQlZxr9rAiGNj"
@@ -977,7 +993,7 @@
       "url": "https://open.spotify.com/track/4HiowIhpREOxQ3reSVLQ8n"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "Typerope EP",
         "url": "https://open.spotify.com/album/7GeBsbuHAU7CfzNmCMaotz"
@@ -993,7 +1009,7 @@
       "url": "https://open.spotify.com/track/6EEcPi3jwGYlG7BdMlnf42"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "6 A.M. / Maurader",
         "url": "https://open.spotify.com/album/7p5TSQFCw8yYPI2FqjE98d"
@@ -1009,7 +1025,7 @@
       "url": "https://open.spotify.com/track/4oiMLvhZYMov0BjrTU2jyK"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "Ego Rave",
         "url": "https://open.spotify.com/album/1FZjqtGarKJCB38L042Vdw"
@@ -1025,10 +1041,10 @@
       "url": "https://open.spotify.com/track/1PhMiQKoYQr0jX0XZbh3sb"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "Philly",
-        "url": "https://open.spotify.com/album/7pdcKXEVHGRdF2sE4w5Nx0"
+        "url": "https://open.spotify.com/album/1tNdETUVwKwr0Ur02zAEm4"
       },
       "artists": [
         {
@@ -1038,10 +1054,10 @@
       ],
       "duration_ms": 495946,
       "name": "Philly",
-      "url": "https://open.spotify.com/track/5WmWTKaOjVRLdTtZXHMzoH"
+      "url": "https://open.spotify.com/track/1yjHf4kssDAt3AsJVzIx1w"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "Plastic City Radio Show Season Eight (Hosted by Youen & Patrick Podage)",
         "url": "https://open.spotify.com/album/7zriMCKAlPVXZtZdTQgv9l"
@@ -1057,7 +1073,7 @@
       "url": "https://open.spotify.com/track/4GqKpBcN60ozJc1r1rSkxT"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "Dominator (Reb\u016bke Remix)",
         "url": "https://open.spotify.com/album/7n6n1dLOtrxPa3HV29b1Vr"
@@ -1077,7 +1093,7 @@
       "url": "https://open.spotify.com/track/6cKvyvg3sMnyZZsi8tgXMP"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "Silence",
         "url": "https://open.spotify.com/album/0btwONgCRI9Hu05O2vXsrE"
@@ -1093,7 +1109,7 @@
       "url": "https://open.spotify.com/track/0Zir3bjDg1G2GYI0ODkE6C"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "Make Noize",
         "url": "https://open.spotify.com/album/61HNZs91hJFkariSZTulnH"
@@ -1109,7 +1125,7 @@
       "url": "https://open.spotify.com/track/1nDoesWvttKVaXzQqOEemh"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "While Waiting For Something To Care About / Now Here No Where",
         "url": "https://open.spotify.com/album/0CNv7rjS4MtaFWrCUtgDaU"
@@ -1125,7 +1141,7 @@
       "url": "https://open.spotify.com/track/6RghttTzB1OsbSEDuNfvSW"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "The House Of House",
         "url": "https://open.spotify.com/album/6wz1BxyLMqtnziouqFnFtp"
@@ -1141,7 +1157,7 @@
       "url": "https://open.spotify.com/track/1afHl4iHfqeQ5U0vnWYRCh"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "Return to Consciousness",
         "url": "https://open.spotify.com/album/0xSqwS47kEg7mkD9b3k25S"
@@ -1157,7 +1173,7 @@
       "url": "https://open.spotify.com/track/6sNki8IYe6xTErgHgYLI3K"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "Buenos Aires",
         "url": "https://open.spotify.com/album/2uMcxU5GmZR8D9Fg0O324C"
@@ -1173,7 +1189,7 @@
       "url": "https://open.spotify.com/track/0FH3BmyADV6h7UzaVx2I4k"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "Sinner",
         "url": "https://open.spotify.com/album/4AG9M2nwdpNWi365BGaGu8"
@@ -1189,7 +1205,7 @@
       "url": "https://open.spotify.com/track/35t7T8LuKoCrjjAu0niN7M"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "This Is a Dream",
         "url": "https://open.spotify.com/album/5KpV9ITrp6tRkR1Qp9DEaM"
@@ -1209,7 +1225,7 @@
       "url": "https://open.spotify.com/track/7AfMHMKIg9MKMN7rePjukN"
     },
     {
-      "added_at": "2022-10-07 09:16:48",
+      "added_at": "2022-11-18 14:10:51",
       "album": {
         "name": "1992 - 2012",
         "url": "https://open.spotify.com/album/68wdXsJmyuDfbozV2rDjXq"

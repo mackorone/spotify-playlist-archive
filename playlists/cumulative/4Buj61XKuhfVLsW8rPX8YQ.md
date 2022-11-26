@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [22](https://open.spotify.com/track/1L3kS9vJM1cYa4QB2nI3MQ) | [Alexi Blue](https://open.spotify.com/artist/754qtlcOAFIdkFAjxuPk34), [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU) | [The Covers, Vol\. 6](https://open.spotify.com/album/3UeQky60klTQg4svlsc0yT) | 3:46 | 2015-05-03 |  |
+| [22](https://open.spotify.com/track/1L3kS9vJM1cYa4QB2nI3MQ) | [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU), [Alexi Blue](https://open.spotify.com/artist/754qtlcOAFIdkFAjxuPk34) | [The Covers, Vol\. 6](https://open.spotify.com/album/3UeQky60klTQg4svlsc0yT) | 3:46 | 2015-05-03 |  |
 | [99 Luftballons](https://open.spotify.com/track/6HA97v4wEGQ5TUClRM0XLc) | [Nena](https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV) | [99 Luftballons](https://open.spotify.com/album/0V8ETNFjMiaCoG45ZPWsUs) | 3:53 | 2015-05-03 |  |
 | [ABC](https://open.spotify.com/track/01gwPP2h3ajRnqiIphUtR7) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Anthology: Jackson 5](https://open.spotify.com/album/0EwhxzV0N61hu3S3PkB2Ku) | 2:57 | 2015-04-23 |  |
 | [Ain't It Fun](https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 4:56 | 2015-05-03 |  |

@@ -2,9 +2,9 @@
 
 ### [Ultimate Christian Alternative](https://open.spotify.com/playlist/37i9dQZF1DX3XfcfEnrDRE)
 
-> The ever\-evolving sound of Alt! Cover: Switchfoot
+> The ever\-evolving sound of Alt! Cover: Gable Price and Friends
 
-136 songs - 8 hr 52 min - [published](https://open.spotify.com/playlist/1NSGD7171i0HygYQPY0WUi)
+137 songs - 8 hr 55 min - [published](https://open.spotify.com/playlist/1NSGD7171i0HygYQPY0WUi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,12 +70,13 @@
 | [Hurricane](https://open.spotify.com/track/3nLnyUoJEOPISomgrVqJw7) | [Whitefield](https://open.spotify.com/artist/3Bl7IsHkpS3ccNug2A8txP) | [Hurricane](https://open.spotify.com/album/4EFGJxZDk9XF6WuOd5IjNW) | 4:29 | 2022-07-17 |  |
 | [I Believe It \- Radio Version](https://open.spotify.com/track/6Lee2y4s3r46RVjsYxdMsE) | [Billy Ballenger](https://open.spotify.com/artist/3MWi1gukTtaCmUQyvjSmIN) | [I Believe It \(Radio Version\)](https://open.spotify.com/album/7siKwggsLfMhJNkj9ViiTp) | 3:48 | 2022-02-27 | 2022-07-18 |
 | [I Believe It Now](https://open.spotify.com/track/1tfjjxTZZhNeiAAsgWtlNe) | [Sidewalk Prophets](https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U), [Olivia Lane](https://open.spotify.com/artist/3Og5as5vV5n1iTR5iaNNZ6) | [I Believe It Now](https://open.spotify.com/album/4jiACLAncMZpfDbGuMkYkk) | 3:48 | 2022-02-27 |  |
+| [I Don't Wanna Live Like This](https://open.spotify.com/track/1srAm9ubDjmaNkACrQKtdN) | [Gable Price and Friends](https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp) | [The Consequence Of Being Alive](https://open.spotify.com/album/18lesZi0aFfIUMClfCK1l7) | 2:57 | 2022-11-11 |  |
 | [i love You](https://open.spotify.com/track/3SV5If35apkALd51Z5ChYu) | [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Aaron Moses](https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7) | [i love You](https://open.spotify.com/album/3B5lVoHjcviiME7o1qgmHj) | 4:30 | 2022-02-27 | 2022-07-18 |
 | [I Might Not Be Breathing](https://open.spotify.com/track/4YJcjLWnuUtIdBDvpnN6Df) | [Corey Wise](https://open.spotify.com/artist/6vIEpnoY5ajDIcFQdbzz2j), [OnBeatMusic](https://open.spotify.com/artist/19DgE5CQNujdohCwPmYddj), [Outatime!](https://open.spotify.com/artist/4v8xBaNwna8BMYcvjwXmlN) | [I Might Not Be Breathing](https://open.spotify.com/album/5FF3iZ2Yxr3nF2UqYmfqRg) | 2:58 | 2022-02-27 |  |
 | [I Need You](https://open.spotify.com/track/4iMdwbHXjURvXplh7Vg4fA) | [Gable Price and Friends](https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp) | [If I'm Being Honest...](https://open.spotify.com/album/6tqmBqthBvbXdhWT5qCcaw) | 4:04 | 2022-02-27 | 2022-07-18 |
 | [i need you \(to be wrong\)](https://open.spotify.com/track/6eJqKWCZOl2bEWp9nZHpcj) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [I need you \(to be wrong\)](https://open.spotify.com/album/5tTKoNao7iso4Xz33oB1sY) | 3:33 | 2022-02-27 | 2022-03-12 |
 | [i need you \(to be wrong\) \- lovelytheband remix](https://open.spotify.com/track/3COH4Ecm10uKkFp1hHD8Lw) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu), [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [i need you \(to be wrong\) \[lovelytheband remix\]](https://open.spotify.com/album/1TcidDGk2dzELKzIGM8Kel) | 3:05 | 2022-07-17 |  |
-| [I Need You \- Live In Nashville](https://open.spotify.com/track/3wNKltgkmuSlwojnzK0Bd4) | [Gable Price and Friends](https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp) | [If I'm Being Honest...](https://open.spotify.com/album/3I7IfHfd9T6FM4NInwQ94W) | 4:51 | 2022-07-17 |  |
+| [I Need You \- Live In Nashville](https://open.spotify.com/track/3wNKltgkmuSlwojnzK0Bd4) | [Gable Price and Friends](https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp) | [If I'm Being Honest...](https://open.spotify.com/album/3I7IfHfd9T6FM4NInwQ94W) | 4:51 | 2022-07-17 | 2022-11-12 |
 | [if i were you](https://open.spotify.com/track/7dg4BNS7fiD9AZlAl7Unb9) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [if i were you](https://open.spotify.com/album/2sLVevMPCbbJTLJDpLMau8) | 3:48 | 2022-02-27 | 2022-07-18 |
 | [Imagination](https://open.spotify.com/track/02spa6OzWWL8tludrb8hPg) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Imagination](https://open.spotify.com/album/02agWXzHUBYG9YBeyJV0Cl) | 3:20 | 2022-07-17 |  |
 | [interrobang \- b\-side](https://open.spotify.com/track/3Cm4p2gwDTsZM9yqBhJ8z4) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [interrobang](https://open.spotify.com/album/2eCj0PMfseKwgIWhckMwSY) | 3:48 | 2022-07-17 |  |

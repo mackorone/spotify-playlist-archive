@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 
 > The official playlist for Outer Banks now\. Watch now only on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,403 likes - 81 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,572 likes - 81 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,14 +13,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 | 3 | [Blood from a Stone](https://open.spotify.com/track/4Hk2eSKnWqwimFlSVbCxmT) | [Greg Humphreys Electric Trio](https://open.spotify.com/artist/0RDTYsBKxXbpvqowB0IATm) | [Haymaker](https://open.spotify.com/album/5WNH6eTenhL4iVWltJaq8d) | 3:34 |
 | 4 | [Bad Kids](https://open.spotify.com/track/7wexq2QIYnZPVoZIJ4qvR4) | [Black Lips](https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG) | [Good Bad Not Evil](https://open.spotify.com/album/6sDyIpIg0vjpKOR9VrvagJ) | 2:08 |
 | 5 | [John B Sail \(The Wreck of the John B\)](https://open.spotify.com/track/2zGdoeMBdeWlQeINKvHWdF) | [The Royal Victoria Hotel Calypsos](https://open.spotify.com/artist/2lbAmEkwTeWMeHBfPIS1Xp), [Blind Blake](https://open.spotify.com/artist/49KZvkEWchga5D1uhNo1yd) | [Calypsonians \(1930 \- 1960\), Vol.3](https://open.spotify.com/album/4GmO9Pe5sQ7lkhnkdQlMNL) | 2:56 |
-| 6 | [Sandman](https://open.spotify.com/track/4UuL6goVDXswWgRGQiYHki) | [BRONCHO](https://open.spotify.com/artist/6Lll1MPPak4m4vZKuJB264) | [Bad Behavior](https://open.spotify.com/album/7nfhqcOW8XRHZvvocev5ZF) | 3:12 |
+| 6 | [Sandman](https://open.spotify.com/track/28I0KNqOmkvzzz7SghMhfu) | [BRONCHO](https://open.spotify.com/artist/6Lll1MPPak4m4vZKuJB264) | [Bad Behavior](https://open.spotify.com/album/1wJMfWm97AQEJqz70orTU8) | 3:12 |
 | 7 | [Fun](https://open.spotify.com/track/4v7prkc928rArBPIwxGJKa) | [Melodiesinfonie](https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd) | [Fragments](https://open.spotify.com/album/0sr9FWHQ3ckzVkFYk3NPrL) | 3:17 |
 | 8 | [Morning Song](https://open.spotify.com/track/02BHrZuoTz32hlaXRbbvge) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Today](https://open.spotify.com/album/0AVCRrmv8zuENn81egH8F2) | 3:24 |
 | 9 | [Wiya Waist](https://open.spotify.com/track/4lVHvQoC3VMvF0fVpj7c3k) | [the Garifuna Collective](https://open.spotify.com/artist/24OmLPZEq6dYiGJbPCAFVm) | [Aban](https://open.spotify.com/album/2KlF5Rk0eZZbOIwLThaiU1) | 3:13 |
 | 10 | [Baby Why](https://open.spotify.com/track/7lTLHyXU0OvDf0Es0PffpS) | [The Cables](https://open.spotify.com/artist/7w8k2o1qnc2FXFq5o48ZJV) | [What Kind of World](https://open.spotify.com/album/76PUXnKLSKNPLih9haUnau) | 5:14 |
 | 11 | [Never in My Wildest Dreams](https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Waiting on a Song](https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F) | 2:56 |
 | 12 | [Not Another Drop](https://open.spotify.com/track/0lIZwOOHDL1eNr45rbrrKH) | [Ikebe Shakedown](https://open.spotify.com/artist/5ABBZoXY5r0UL1txACjinb) | [Kings Left Behind](https://open.spotify.com/album/3xtjT9ABeqldfL6SysRIoI) | 3:56 |
-| 13 | [Crashed My Bike](https://open.spotify.com/track/4Kqa4GdRQux0hEXtHzfd6x) | [Sun Room](https://open.spotify.com/artist/4ANMwDtqwfkzPgFoUoLZ3Y) | [Crashed My Bike](https://open.spotify.com/album/7txeejhG7IZECo9VLTNO8b) | 3:03 |
+| 13 | [Crashed My Bike](https://open.spotify.com/track/0DX6TehELIsI9N3wKAM0fV) | [Sun Room](https://open.spotify.com/artist/4ANMwDtqwfkzPgFoUoLZ3Y) | [Crashed My Bike](https://open.spotify.com/album/2pRVYKpvfRzCCGCEImrvTr) | 3:03 |
 | 14 | [Come On](https://open.spotify.com/track/5pc6PL2JYnJ8tvyW2ciinU) | [The 4th Coming](https://open.spotify.com/artist/1CeSvNOGIf68AZ9MH1zwhr) | [Strange Things \(The Complete Works, 1970 \- 1974\)](https://open.spotify.com/album/4kwIasWUTsii5bSXUFFlDT) | 2:57 |
 | 15 | [Let it Burn](https://open.spotify.com/track/3QH0vAK0h4L9pOZZdHX5YY) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP) | [Let it Burn](https://open.spotify.com/album/5A3Pw3CQl7DSX26vMeOTCC) | 6:03 |
 | 16 | [After After](https://open.spotify.com/track/2MVypWL5Lbz5lOKmB2wyRj) | [Little Barrie](https://open.spotify.com/artist/5ozUXaDjc4mfVyDIWCJH4E), [Malcolm Catto](https://open.spotify.com/artist/799SiIngfx9kQtEC1jcert) | [Quatermass Seven](https://open.spotify.com/album/0XEty5HBu5XeQGuSQcezxI) | 8:10 |
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 | 54 | [Sabina](https://open.spotify.com/track/1dp5tXL7hVHsvXtzZcHFvi) | [Sugar Fed Leopards](https://open.spotify.com/artist/6HLiQWOzcEJnXU221EPLSD) | [Sweet Spots](https://open.spotify.com/album/2SKnD5LUr5wOf3xVRItGY6) | 2:39 |
 | 55 | [Pub Feed](https://open.spotify.com/track/6Rz6yXr3RWpYdGst26tSYF) | [The Chats](https://open.spotify.com/artist/1aQ7P3HtKOQFW16ebjiks1) | [High Risk Behaviour](https://open.spotify.com/album/0MHGKVzf6jX0hJ1gfgDwF7) | 2:25 |
 | 56 | [I'm the One](https://open.spotify.com/track/2yV2uQ6uxbdF9JbbKhfuTY) | [Sister John](https://open.spotify.com/artist/7zzr8XDzaXjmHUcwwNgEt5) | [Sister John](https://open.spotify.com/album/6eZ2LX4Aqyu6cOPN4VaXa0) | 3:42 |
-| 57 | [Something That You're Missing](https://open.spotify.com/track/24QqUt4VHZIYg5LYnl4MeA) | [Sun Room](https://open.spotify.com/artist/4ANMwDtqwfkzPgFoUoLZ3Y) | [Sol Del Sur](https://open.spotify.com/album/24tZ8bH69NK3fmxSuQ10UO) | 2:50 |
+| 57 | [Something That You're Missing](https://open.spotify.com/track/2uYozG9El78dWTKLReHMI2) | [Sun Room](https://open.spotify.com/artist/4ANMwDtqwfkzPgFoUoLZ3Y) | [Sol Del Sur](https://open.spotify.com/album/5Lw6V8cz834Wa097FaphAn) | 2:50 |
 | 58 | [I Have Got No Money](https://open.spotify.com/track/7pcNgV4TOctgEErMh0ozNq) | [Peace](https://open.spotify.com/artist/5004yOPsD3IERvvTtaRM9h) | [Black Power](https://open.spotify.com/album/5apqfs9GaJvTa0MGXFbtWU) | 4:05 |
 | 59 | [Boys in the Better Land](https://open.spotify.com/track/0iJX82OGewFWpyRtB8zzo4) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Dogrel](https://open.spotify.com/album/7wMhg0YqDuqylEVnLQQ02R) | 5:00 |
 | 60 | [Lake Song](https://open.spotify.com/track/3jlyPvK2T1UYigUIaR3u7K) | [Deeper](https://open.spotify.com/artist/2OdkcNnvSRbVRcziM3OK2S) | [Auto\-Pain](https://open.spotify.com/album/7sM244G1DwSq9Cqvv59xxz) | 3:25 |
@@ -85,9 +85,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 | 75 | [Borrowed World](https://open.spotify.com/track/2bhKJw0EreRC8kKq8Oktmm) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [All Yours](https://open.spotify.com/album/3Q3xd77C966yd3RbQXBGAc) | 3:57 |
 | 76 | [Continents](https://open.spotify.com/track/2XxUxNGLh4rQppREz9lMK9) | [Hembree](https://open.spotify.com/artist/0NTqSkdyIji6DuHVac7ROJ) | [House on Fire](https://open.spotify.com/album/6Wxo89c6cczQFhH8i8YDTH) | 3:08 |
 | 77 | [The W.A.N.D.](https://open.spotify.com/track/2frHiHPVkiNCBMPkYF83Jr) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [At War with the Mystics](https://open.spotify.com/album/6oVaKzODiXqew6MScEd7T4) | 3:42 |
-| 78 | [December](https://open.spotify.com/track/34WYAjF4l7fx3l97DmKgPM) | [Killimanjaro](https://open.spotify.com/artist/3HQ7qP6FF9Qpgc8OCsDaBH) | [Hook](https://open.spotify.com/album/2QNw7unWsqcNwdXExn73zD) | 4:32 |
+| 78 | [December](https://open.spotify.com/track/0ahzhr6YIQO8dQk9dK08Uj) | [Killimanjaro](https://open.spotify.com/artist/3HQ7qP6FF9Qpgc8OCsDaBH) | [Hook](https://open.spotify.com/album/7eoVwBSxUdBpdcBERzlrGG) | 4:32 |
 | 79 | [Megaton Mile](https://open.spotify.com/track/6BwR8E925bOoGHFPS5tEOE) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Violet Street](https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY) | 4:26 |
 | 80 | [Never Gonna Let You Go](https://open.spotify.com/track/2Im4WHEm20ByCq5AhgshXr) | [Michael Miglio](https://open.spotify.com/artist/0aWCcfZbLCP2iqA8YHtlJF) | [Seafaring Strangers: Private Yacht](https://open.spotify.com/album/2Ab9XyK05zjxrxQpl2YBqD) | 2:31 |
 | 81 | [The Raft](https://open.spotify.com/track/34WtaNeWz7O2W9ivsCGAt1) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [Dr\. Boondigga & The Big BW](https://open.spotify.com/album/5ynDiqo0C63GVjc9q1ijAO) | 7:11 |
 
-Snapshot ID: `MTY1MTc4MTEzNywwMDAwMDAwMDQxOTA4NjAzNWI3MTFiOWM5MjVlYWMxM2Y0NzRiZjgz`
+Snapshot ID: `MTY1MTc4MTEzNywwMDAwMDAwMDFhZjgxZDEzYmIxOTJmNmNhYzc1Njc3ZmIyZmIzYjZl`

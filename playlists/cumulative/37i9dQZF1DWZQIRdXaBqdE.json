@@ -354,6 +354,24 @@
     },
     {
       "album": {
+        "name": "Detroit City and Other Hits by Bobby Bare",
+        "url": "https://open.spotify.com/album/4fu0jSGbb0JWeczuo2oIP5"
+      },
+      "artists": [
+        {
+          "name": "Bobby Bare",
+          "url": "https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 168066,
+      "name": "Detroit City",
+      "url": "https://open.spotify.com/track/6zBHtuqVP7CAx26XQRZnb6"
+    },
+    {
+      "album": {
         "name": "Storms of Life",
         "url": "https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf"
       },
@@ -716,6 +734,28 @@
     },
     {
       "album": {
+        "name": "Get Rhythm / I Walk the Line",
+        "url": "https://open.spotify.com/album/1ybcnccmuEwjwx9Y8NzvRH"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "The Tennessee Two",
+          "url": "https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163045,
+      "name": "I Walk The Line - Single Version",
+      "url": "https://open.spotify.com/track/0e1mMD6Pkn7zd9mhCQnrsY"
+    },
+    {
+      "album": {
         "name": "The Family's Fine, But This One's All Mine!",
         "url": "https://open.spotify.com/album/1YPDFisVWQgtb8NNS4r469"
       },
@@ -1059,14 +1099,36 @@
         {
           "name": "Waylon Jennings",
           "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 200640,
-      "name": "Luckenbach, Texas (Back to the Basics of Love)",
+      "name": "Luckenbach, Texas (Back to the Basics of Love) (feat. Willie Nelson)",
       "url": "https://open.spotify.com/track/5pdKPY4O9CHuzDDp557j4N"
+    },
+    {
+      "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/2AuHUprHzZOXDyJSinNdwE"
+      },
+      "artists": [
+        {
+          "name": "Eddy Arnold",
+          "url": "https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 161533,
+      "name": "Make the World Go Away",
+      "url": "https://open.spotify.com/track/6drEsDrLJEeRJwGwgPgmJU"
     },
     {
       "album": {
@@ -1577,7 +1639,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-11-13",
       "duration_ms": 241026,
       "name": "Sunday In the South",
       "url": "https://open.spotify.com/track/4txNtoBnQ3OgazfeTS8iGP"
@@ -1667,7 +1729,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 168333,
       "name": "The Auctioneer",
       "url": "https://open.spotify.com/track/6dlti8kcKyzkkPrnGp7FN7"
@@ -1869,7 +1931,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": "2022-11-13",
       "duration_ms": 182493,
       "name": "What's Your Mama's Name Child",
       "url": "https://open.spotify.com/track/0J6dezPhTa0ePaN87kphCs"

@@ -4,7 +4,7 @@
 
 > Listen to the brand new album 'Ignorance is Bliss' and all his biggest tracks, all in one place.
 
-90 songs - 4 hr 59 min - [published](https://open.spotify.com/playlist/2BsWLVOJc324RnAzltg4Bg)
+93 songs - 5 hr 8 min - [published](https://open.spotify.com/playlist/2BsWLVOJc324RnAzltg4Bg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Coming Soon](https://open.spotify.com/track/2Sq5o76vCkVue1DyWV3R5f) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Makonnen](https://open.spotify.com/artist/1LGU29jQdFERqwn0UnN8tu), [Céon](https://open.spotify.com/artist/5V2c72KIkwgZ34KV8LtHHx) | [Coming Soon](https://open.spotify.com/album/0qncKIN282DH3lUiJeVt06) | 3:40 | 2019-05-30 | 2022-07-29 |
 | [Coming Soon](https://open.spotify.com/track/7F52tArntesgjZT9t8rp6L) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Makonnen & Ceon](https://open.spotify.com/artist/0r7BTt9apQmeFMiFM10CYn) | [Coming Soon](https://open.spotify.com/album/5SRuNtAVE7SZ0GgUHvbIQC) | 3:40 | 2019-05-30 |  |
 | [Cross My Heart](https://open.spotify.com/track/3Ly0Z5HdVlPGDFDHYkfSGU) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Preeya Kalidas](https://open.spotify.com/artist/7paXnMpu5BlEa5lAbYr3YF) | [Cross My Heart](https://open.spotify.com/album/1YW5Tke18D5g4zOA3B46Pa) | 2:53 | 2019-05-30 |  |
+| [Doin It Again](https://open.spotify.com/track/2bYObLbaQMA2rW22GF8QsR) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [I Love Grime](https://open.spotify.com/album/513UafOnlE2RUe7TAsZWJ3) | 3:43 | 2019-05-30 | 2022-11-13 |
 | [Doin' It Again](https://open.spotify.com/track/3HfuA3A2vddN5EEqO4QaOg) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Greatest Hits](https://open.spotify.com/album/5SRPTU4NoyRreqvijYeWss) | 3:49 | 2019-05-30 | 2022-07-29 |
 | [Doin' It Again](https://open.spotify.com/track/3PdX0E7WTju71Y9Jpinvw4) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Greatest Hits](https://open.spotify.com/album/0AyaZjU2ofiBtPlJXk0Epv) | 3:49 | 2019-05-30 |  |
 | [Don't Get Rude](https://open.spotify.com/track/40sGu8woIEXEX0C0xQaNnn) | [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [History:](https://open.spotify.com/album/1pO9i61idriAHcRWmPByBZ) | 3:28 | 2019-05-30 | 2022-07-29 |
@@ -51,6 +52,8 @@
 | [Love Me Not](https://open.spotify.com/track/57FYmXLG6tuXkBuYDSB74C) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Cheb Rabi](https://open.spotify.com/artist/16vsJyquMnS2V05J78aO45), [B Live](https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U) | [Ignorance is Bliss](https://open.spotify.com/album/22zpCX6Nb9ppOVklalvGec) | 3:23 | 2019-05-30 |  |
 | [Lush](https://open.spotify.com/track/29UcBXrnY3sOsj7Rk9i8NC) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H) | [Lush](https://open.spotify.com/album/3IohPToAbg1vSgsX6BnIg6) | 2:46 | 2019-05-30 |  |
 | [Lush](https://open.spotify.com/track/3DzcVFQ9rKeLRDyKal3ztj) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H) | [Lush \(feat\. Jay Sean\)](https://open.spotify.com/album/6QwotVe71xiB9U1ITVUs5h) | 2:48 | 2019-05-30 | 2022-07-29 |
+| [Lush](https://open.spotify.com/track/7aqXyUkthMNteQz3bm1QCq) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H) | [Lush](https://open.spotify.com/album/3ECz7PCncaV9aWNA9XVWVv) | 2:48 | 2019-05-30 | 2022-11-14 |
+| [Lyrics](https://open.spotify.com/track/78ZuWOhSr5ZirG2Jk5tp31) | [Novelist](https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Grime 2016](https://open.spotify.com/album/5PABUQID3hpBnJPF6FJGPH) | 2:36 | 2019-05-30 | 2022-11-13 |
 | [Lyrics](https://open.spotify.com/track/5kzHkRmphRbt6ZwEmgd7RQ) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Novelist](https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc) | [Konnichiwa](https://open.spotify.com/album/6s4vWWWxNrGcKhrOFYRZzk) | 2:36 | 2019-05-30 |  |
 | [Lyrics](https://open.spotify.com/track/5m862WssDq7xBWWG6RBxzY) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Novelist](https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc) | [Konnichiwa](https://open.spotify.com/album/2yegc4SUhhXxUXUavLHUqL) | 2:36 | 2019-05-30 | 2022-07-29 |
 | [Make Peace Not War](https://open.spotify.com/track/1YHC7vYpLhkUMftjYJFUat) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Make Peace Not War](https://open.spotify.com/album/1TMGC0h58KA11cE9yZfq9b) | 3:14 | 2019-05-30 |  |

@@ -99,7 +99,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": "2022-11-13",
       "duration_ms": 203425,
       "name": "All Along",
       "url": "https://open.spotify.com/track/3RPHlHhb6g0rqcMVwwfxcF"
@@ -183,7 +183,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 330579,
       "name": "All Love",
       "url": "https://open.spotify.com/track/5CYtyWsyAEmPfn6OcbG921"
@@ -448,6 +448,24 @@
     },
     {
       "album": {
+        "name": "31 Minutes of Relaxing ASMR",
+        "url": "https://open.spotify.com/album/2VvFwQE6pBR9KnRgS80TZk"
+      },
+      "artists": [
+        {
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275131,
+      "name": "Chilli Heatwave",
+      "url": "https://open.spotify.com/track/5je0T2mebgdBzniXtS4A9Y"
+    },
+    {
+      "album": {
         "name": "Square Peg, Round Hole",
         "url": "https://open.spotify.com/album/2g0xz5c4IF1CDqVs03dSKE"
       },
@@ -495,10 +513,28 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 250862,
       "name": "Closer",
       "url": "https://open.spotify.com/track/2uRCNWP7u6JSo1ypJ7qJMx"
+    },
+    {
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/2wONkDvCwXWSIw4SGz36pZ"
+      },
+      "artists": [
+        {
+          "name": "Aevion",
+          "url": "https://open.spotify.com/artist/6y5Fs04MNlsUCyAgvXkSxg"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250862,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/5s3UTdgdjBnkRKmPeBEnyk"
     },
     {
       "album": {
@@ -521,6 +557,24 @@
     {
       "album": {
         "name": "Come Back",
+        "url": "https://open.spotify.com/album/2TbxuBCoWx2x5gQE6bW44R"
+      },
+      "artists": [
+        {
+          "name": "NIMMO",
+          "url": "https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277600,
+      "name": "Come Back",
+      "url": "https://open.spotify.com/track/0jnfcPhR4K98OgIwih63Wk"
+    },
+    {
+      "album": {
+        "name": "Come Back",
         "url": "https://open.spotify.com/album/1cXkPZuXwZLqHZdGBlKgWi"
       },
       "artists": [
@@ -531,7 +585,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 277600,
       "name": "Come Back",
       "url": "https://open.spotify.com/track/1l0MYkKzmFoBzlS9iZmvAu"
@@ -889,7 +943,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 189000,
       "name": "Everything Happens for a Reason",
       "url": "https://open.spotify.com/track/4lquVanY9QPfUzlKhJe299"
@@ -1065,7 +1119,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-15",
+      "date_removed": null,
       "duration_ms": 182950,
       "name": "Ghetto Rock",
       "url": "https://open.spotify.com/track/0CPP8Ln8Rl87Fl96zm9il8"
@@ -1157,7 +1211,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 162000,
       "name": "Good For Me",
       "url": "https://open.spotify.com/track/2wxdmzjFaMfNgbPjCJQRo7"
@@ -1215,7 +1269,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 192581,
       "name": "GULLIBLE",
       "url": "https://open.spotify.com/track/44PsdY8x0Z2LpsS4duJrS7"
@@ -1583,10 +1637,28 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 187194,
       "name": "Keep Me In The Dark (feat. Jim Junior)",
       "url": "https://open.spotify.com/track/5Fl1yyPJsMDV6n1if3LQVc"
+    },
+    {
+      "album": {
+        "name": "Loving In Stereo",
+        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240880,
+      "name": "Keep Moving",
+      "url": "https://open.spotify.com/track/4rf0IVQDFjr27T4sgah5Pf"
     },
     {
       "album": {
@@ -1619,7 +1691,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 240880,
       "name": "Keep Moving",
       "url": "https://open.spotify.com/track/6mfQHV1tPWUpme1qi9vYpI"
@@ -1923,7 +1995,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 202051,
       "name": "Lover 4 Now (feat. Todd Edwards) - Edit",
       "url": "https://open.spotify.com/track/6ud7H9UWSMUf9MwUs70LW7"
@@ -2201,10 +2273,28 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": "2022-10-23",
       "duration_ms": 206447,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/0Ret48IIcgcQdB54orjZKS"
+    },
+    {
+      "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/1fzuUk3cUSc8OZTp3C7GZa"
+      },
+      "artists": [
+        {
+          "name": "Tom Everett",
+          "url": "https://open.spotify.com/artist/3cqEzT9Vye9tH2wlY2pAZK"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206447,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/6T8m7PxHhJb25OZmgWXSej"
     },
     {
       "album": {
@@ -2481,6 +2571,28 @@
       "duration_ms": 178560,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/1arLMdJJwuyaGdDM1FWEvc"
+    },
+    {
+      "album": {
+        "name": "Real Love",
+        "url": "https://open.spotify.com/album/6LtfmL7LdiJqXjZ3OJVIdp"
+      },
+      "artists": [
+        {
+          "name": "Sam Dexter",
+          "url": "https://open.spotify.com/artist/7pxQky3WoeLE6evetlJ3Ty"
+        },
+        {
+          "name": "Elliotte Williams N'Dure",
+          "url": "https://open.spotify.com/artist/77i43ZsRsl95w8GalimJPw"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-25",
+      "duration_ms": 178560,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/2BXEdsakM0T1uvzqwVYykF"
     },
     {
       "album": {
@@ -3089,7 +3201,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-03",
+      "date_removed": "2022-10-25",
       "duration_ms": 192260,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/4BerEwKV2FDiw50F7014Ik"
@@ -3267,7 +3379,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": "2022-11-13",
       "duration_ms": 260256,
       "name": "What Ya Here For?",
       "url": "https://open.spotify.com/track/27rjwJcRIohIoNI4GNewxo"
@@ -3289,7 +3401,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": "2022-11-23",
       "duration_ms": 273230,
       "name": "What's Your World (feat. Gloria Ann Taylor)",
       "url": "https://open.spotify.com/track/7ir78RK7dikfhptUV0S6kC"
@@ -3439,7 +3551,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": "2022-11-20",
       "duration_ms": 408889,
       "name": "You Are the Sun - Sun Up Mix",
       "url": "https://open.spotify.com/track/7LE9T4XBDParc9tDvNf29H"
@@ -3483,7 +3595,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 156190,
       "name": "You Can Not Hold Back (feat. Koffee) - [Edit]",
       "url": "https://open.spotify.com/track/5hECCXn5TAixa5WkwTbv2i"

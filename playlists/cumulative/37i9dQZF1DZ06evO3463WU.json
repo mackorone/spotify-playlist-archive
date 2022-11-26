@@ -219,7 +219,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 186038,
       "name": "Dejate Querer",
       "url": "https://open.spotify.com/track/32DvELW4Q2jkrEmPvuzeFz"
@@ -259,7 +259,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 178189,
       "name": "Dos Gotas De Agua",
       "url": "https://open.spotify.com/track/1pQFw81rRvhmkxkC9ntDeq"
@@ -277,7 +277,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 145786,
       "name": "El Vagabundo Que Te Ama",
       "url": "https://open.spotify.com/track/4WtQNRxMmkyQUwhFVvpQoe"
@@ -477,7 +477,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-10-13",
       "duration_ms": 172895,
       "name": "Las Llaves De Mi Alma",
       "url": "https://open.spotify.com/track/6vvBP49CrNlSBEV0tsTo8V"
@@ -495,7 +495,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 200504,
       "name": "Llorando Una Pena",
       "url": "https://open.spotify.com/track/5CawfH4wFANfiOQU4wMW2S"
@@ -513,7 +513,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": null,
       "duration_ms": 208399,
       "name": "Los Amantes",
       "url": "https://open.spotify.com/track/0h43pLYpldnoNwESdxnoDI"
@@ -553,7 +553,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-10-13",
       "duration_ms": 218360,
       "name": "Me Haces Falta Pap\u00e1",
       "url": "https://open.spotify.com/track/4pnJfqCFduVTCKveD7VCCq"
@@ -666,6 +666,24 @@
     },
     {
       "album": {
+        "name": "Una Noche Cualquiera",
+        "url": "https://open.spotify.com/album/69gdI8NQ0yB8nfP6eoj4lC"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215446,
+      "name": "Mi Gran Problema",
+      "url": "https://open.spotify.com/track/41biWbuI9FIa4Kk3d53q1Z"
+    },
+    {
+      "album": {
         "name": "Cien Por Ciento",
         "url": "https://open.spotify.com/album/4Wm2IxN5wuPAvBALzbF7Tt"
       },
@@ -747,7 +765,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-10-12",
       "duration_ms": 200810,
       "name": "Ni El Dinero Ni Nada - En Vivo",
       "url": "https://open.spotify.com/track/0O6BWkzIBc6JdsAiNoJDoK"
@@ -825,7 +843,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 251994,
       "name": "No Llores Mis Recuerdos",
       "url": "https://open.spotify.com/track/0rUYYUjhjxQDE2Zc6tDK5A"
@@ -1043,7 +1061,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 213774,
       "name": "Por Amor Y Fe",
       "url": "https://open.spotify.com/track/6VD5k9j9LmtxyK4BbrIOV7"
@@ -1061,7 +1079,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 181765,
       "name": "Por Una Sonrisa",
       "url": "https://open.spotify.com/track/1Bbf3b3q6g8ycctLHCVDZA"
@@ -1079,7 +1097,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-22",
       "duration_ms": 214320,
       "name": "Porque",
       "url": "https://open.spotify.com/track/4hHLcpYdCXA9nlnES0gkA4"
@@ -1097,7 +1115,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 157431,
       "name": "Que Te Paso",
       "url": "https://open.spotify.com/track/5DsX6k1XSBuKj3GxHItIZV"
@@ -1177,7 +1195,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 158200,
       "name": "Te Deseo Lo Mejor - Versi\u00f3n Mariachi",
       "url": "https://open.spotify.com/track/4JmJUdY5z9NhJYDdRx6cuC"
@@ -1213,7 +1231,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 252693,
       "name": "Un Hombre Diferente",
       "url": "https://open.spotify.com/track/1x6hdO613h1Br7CYIxxFyU"
@@ -1333,7 +1351,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 218493,
       "name": "Ya No Vives En M\u00ed (\u00bfCu\u00e1l Adi\u00f3s?) - Banda",
       "url": "https://open.spotify.com/track/2asLjAakW5V1kdgZnbf5UZ"

@@ -98,6 +98,28 @@
     },
     {
       "album": {
+        "name": "Are You All Good",
+        "url": "https://open.spotify.com/album/66nJ57hBwiExB3vfjWx6lA"
+      },
+      "artists": [
+        {
+          "name": "MDSH Coffee House",
+          "url": "https://open.spotify.com/artist/2ApjT0W9xDPdaYWlbTR2sy"
+        },
+        {
+          "name": "breathe.",
+          "url": "https://open.spotify.com/artist/465mUUqEU9N2OGa85eZS5W"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-10",
+      "duration_ms": 192052,
+      "name": "Are You All Good",
+      "url": "https://open.spotify.com/track/1z0wo0mMyQILrrQZBzKCoO"
+    },
+    {
+      "album": {
         "name": "London",
         "url": "https://open.spotify.com/album/191t2Rd7QU3NbupbMbjgUP"
       },
@@ -127,10 +149,28 @@
       ],
       "date_added": "2021-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 191974,
       "name": "Are You All Good?",
       "url": "https://open.spotify.com/track/5GCarc6IOkTIMGEVQ2YOQ4"
+    },
+    {
+      "album": {
+        "name": "Breathe.",
+        "url": "https://open.spotify.com/album/5w5bwL9qRsIQn58XqVhzO5"
+      },
+      "artists": [
+        {
+          "name": "breathe.",
+          "url": "https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191974,
+      "name": "Are You All Good?",
+      "url": "https://open.spotify.com/track/7I5tV3ZQVLRav2PADoFbb9"
     },
     {
       "album": {
@@ -322,7 +362,7 @@
     },
     {
       "album": {
-        "name": "jasmine (Demo)",
+        "name": "Jasmine (Demo)",
         "url": "https://open.spotify.com/album/6Uc6j2mDKpCAd01eu21evb"
       },
       "artists": [
@@ -335,7 +375,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 253080,
-      "name": "jasmine - Demo",
+      "name": "Jasmine - Demo",
       "url": "https://open.spotify.com/track/1BYc1M6fuvRA9s9wSugS2h"
     },
     {
@@ -549,10 +589,28 @@
       ],
       "date_added": "2021-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 135415,
       "name": "september rain",
       "url": "https://open.spotify.com/track/1XREfGfPZGBoGP6KIKy8QR"
+    },
+    {
+      "album": {
+        "name": "Confessions",
+        "url": "https://open.spotify.com/album/0ObtoFpjzJwwDeUeb8Ejyt"
+      },
+      "artists": [
+        {
+          "name": "Jinsang",
+          "url": "https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135415,
+      "name": "september rain",
+      "url": "https://open.spotify.com/track/59dBnabeKp9oMKpl4K194C"
     },
     {
       "album": {

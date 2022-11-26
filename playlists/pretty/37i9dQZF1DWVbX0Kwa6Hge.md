@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbX0Kwa6Hge.md) - [plain]
 
 > Some of Barack Obama's favorite songs of the summer\. A mix of genres & eras made with everyone in mind!
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,087 likes - 44 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,132 likes - 44 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbX0Kwa6Hge.md) - [plain]
 | 7 | [SAOKO](https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:17 |
 | 8 | [Split/Whole Time](https://open.spotify.com/track/2PozSNCtnBaFZ5Kf8aMrPc) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Lil Boat 3](https://open.spotify.com/album/1CdQfJpbkl2Ai4JkcRYkyl) | 3:59 |
 | 9 | [Let's Go Crazy](https://open.spotify.com/track/0QeI79sp1vS8L3JgpEO7mD) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 4:40 |
-| 10 | [That's Where I Am](https://open.spotify.com/track/4f1KkbXHnfIVZ9vmIExByJ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [That's Where I Am](https://open.spotify.com/album/1gBMpfSlQWoMIsR48U7DLr) | 4:12 |
+| 10 | [That's Where I Am](https://open.spotify.com/track/49EXOlUTFBGdI098L6SXDh) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) | 4:12 |
 | 11 | [I Can't Get Next to You](https://open.spotify.com/track/2UclV6Lu93Ssh1spktn0Fp) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Gets Next to You](https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC) | 3:48 |
 | 12 | [More Than You Know](https://open.spotify.com/track/5NCbLiZLwjQV5SqkGqtHtA) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [In A Sentimental Mood](https://open.spotify.com/album/6bqVbJc4p9foiS8tQy1tow) | 4:40 |
 | 13 | [Blue In Green](https://open.spotify.com/track/5o6PkOAAwHvdkkOBGPxi20) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [The Jazz Masters \- 27 Classic Performances From The Columbia Masterpieces Series](https://open.spotify.com/album/4s1vbvX3vZsjAqhDVxv8tE) | 5:24 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbX0Kwa6Hge.md) - [plain]
 | 43 | [MAGIC](https://open.spotify.com/track/6yIbOjZve4NIZXccZ0dui4) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [MAGIC](https://open.spotify.com/album/662UfTtnwM01ukAlJMC7Jq) | 3:46 |
 | 44 | [keep lookin’ up](https://open.spotify.com/track/06tKb2aBA9sma7Sftu7kSw) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 2:46 |
 
-Snapshot ID: `MTY1ODg2NTg2NSwwMDAwMDAwMDcwY2UwMmJkOTMzMTQyYWEyNDVjODY1NzY1YjBiNWM0`
+Snapshot ID: `MTY1ODg2NTg2NSwwMDAwMDAwMGY0Y2U4YjdjNWI4ZTc0MzIwYmYzY2VlZWRlNDAyNTYx`

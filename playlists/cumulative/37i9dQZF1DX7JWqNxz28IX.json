@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "\ud83e\ude79 (in cover, i lost kids)",
+  "description": "\ud83e\ude79 (in cover, chiello)",
   "name": "ragazzo triste",
   "published_playlist_ids": [
     "7fBkDuj9jj7rj8liyTLX4S"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "FARSI MALE A NOI VA BENE 2.0",
+        "url": "https://open.spotify.com/album/3V5mL95C6ca2X7UoQAwGpo"
+      },
+      "artists": [
+        {
+          "name": "bnkr44",
+          "url": "https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 116933,
+      "name": "(SEMBRA BELLO)",
+      "url": "https://open.spotify.com/track/0VJviTvPozCb9E7jLWLtvJ"
+    },
     {
       "album": {
         "name": "FARSI MALE A NOI",
@@ -63,6 +81,46 @@
       "duration_ms": 110750,
       "name": "14",
       "url": "https://open.spotify.com/track/1veUzOYyrblgIzylvPzkAZ"
+    },
+    {
+      "album": {
+        "name": "Acqua salata",
+        "url": "https://open.spotify.com/album/08yGuN1G7NZ2go5RTHbycv"
+      },
+      "artists": [
+        {
+          "name": "chiello",
+          "url": "https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229175,
+      "name": "Acqua salata",
+      "url": "https://open.spotify.com/track/0OghnnKcBKwlKlGdNVhbXS"
+    },
+    {
+      "album": {
+        "name": "ALESSIA",
+        "url": "https://open.spotify.com/album/2vcA80mMkhOmL3hi2xrMo2"
+      },
+      "artists": [
+        {
+          "name": "Sally Cruz",
+          "url": "https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc"
+        },
+        {
+          "name": "Mike Defunto",
+          "url": "https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144187,
+      "name": "ALESSIA",
+      "url": "https://open.spotify.com/track/4q0yteddAlr8X9MAv1GDXQ"
     },
     {
       "album": {
@@ -317,6 +375,28 @@
       "duration_ms": 230000,
       "name": "Cicatrici",
       "url": "https://open.spotify.com/track/7t8s9YRj6sQwTDECF0lT0d"
+    },
+    {
+      "album": {
+        "name": "Cicatrici",
+        "url": "https://open.spotify.com/album/1ONUeIv6IR6ECQB00q3gLL"
+      },
+      "artists": [
+        {
+          "name": "Zeta",
+          "url": "https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP"
+        },
+        {
+          "name": "Tenth Sky",
+          "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 148714,
+      "name": "Cicatrici",
+      "url": "https://open.spotify.com/track/18xRjW5ARD2ivfMkA807fw"
     },
     {
       "album": {
@@ -848,6 +928,32 @@
     },
     {
       "album": {
+        "name": "Frammenti",
+        "url": "https://open.spotify.com/album/6NWQ0k8vTixMoWBLtHgabI"
+      },
+      "artists": [
+        {
+          "name": "Icaroh",
+          "url": "https://open.spotify.com/artist/4Y2hOocG9EAJPPGJn5S3QW"
+        },
+        {
+          "name": "Polvere",
+          "url": "https://open.spotify.com/artist/3NKj5gr7FA8TAdXgH6ZS3Z"
+        },
+        {
+          "name": "22rocky",
+          "url": "https://open.spotify.com/artist/0PcBtpEEaEaRGkzTDZGPdD"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156719,
+      "name": "Frammenti",
+      "url": "https://open.spotify.com/track/3jk5i3YK8YlQF2rqJa1EMm"
+    },
+    {
+      "album": {
         "name": "frantumi",
         "url": "https://open.spotify.com/album/24x1yXLHqq5T8lNh78SbuU"
       },
@@ -1284,7 +1390,7 @@
         },
         {
           "name": "3D",
-          "url": "https://open.spotify.com/artist/4GYQvU9WiBi4NkA0ZpPpsp"
+          "url": "https://open.spotify.com/artist/5K92J8NwWAlu6fRN2uoHVN"
         }
       ],
       "date_added": "2022-05-30",
@@ -1576,6 +1682,24 @@
     },
     {
       "album": {
+        "name": "Non Mi Passa",
+        "url": "https://open.spotify.com/album/4hDPcR2QtJ6o9uAh2UEmxh"
+      },
+      "artists": [
+        {
+          "name": "Zeta",
+          "url": "https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136265,
+      "name": "Non Mi Passa",
+      "url": "https://open.spotify.com/track/1ZukPve2ImtM1f1ZbD9ATQ"
+    },
+    {
+      "album": {
         "name": "NON PIANGERE",
         "url": "https://open.spotify.com/album/60rupYxX1cyqiXYltdInJl"
       },
@@ -1642,6 +1766,24 @@
     },
     {
       "album": {
+        "name": "Non Sar\u00e0 Uguale",
+        "url": "https://open.spotify.com/album/5JLlWPE1rQ1sDVEsBjpVlf"
+      },
+      "artists": [
+        {
+          "name": "Poet",
+          "url": "https://open.spotify.com/artist/0vhFnK8A5YPnVWLlwu2IHs"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143550,
+      "name": "Non Sar\u00e0 Uguale",
+      "url": "https://open.spotify.com/track/0JpKsj1vVqq0NqYyNrQQdt"
+    },
+    {
+      "album": {
         "name": "nostalgia",
         "url": "https://open.spotify.com/album/39DvGGAGYEeXvR1Tvvd7F6"
       },
@@ -1660,6 +1802,24 @@
     },
     {
       "album": {
+        "name": "Notre Dame",
+        "url": "https://open.spotify.com/album/19h0scD8R1YD7UWNL75x5B"
+      },
+      "artists": [
+        {
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192272,
+      "name": "Notre Dame",
+      "url": "https://open.spotify.com/track/6eaGeLT6gaZ5Elz47wET2o"
+    },
+    {
+      "album": {
         "name": "Notti Sbagliate",
         "url": "https://open.spotify.com/album/6FkMcHq9A51wDuUlOQCTpg"
       },
@@ -1671,7 +1831,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 130285,
       "name": "Notti Sbagliate",
       "url": "https://open.spotify.com/track/5Nx5sc8gzP2xHckhw3bWSL"
@@ -2023,6 +2183,28 @@
       "duration_ms": 163392,
       "name": "Punti di vista",
       "url": "https://open.spotify.com/track/5zi9PcOcGBQNbYGOquC4Lt"
+    },
+    {
+      "album": {
+        "name": "Quando tu mi baci",
+        "url": "https://open.spotify.com/album/3i8BJ5YnNat8a8zzUiM8gd"
+      },
+      "artists": [
+        {
+          "name": "chiello",
+          "url": "https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h"
+        },
+        {
+          "name": "Powv_fsk",
+          "url": "https://open.spotify.com/artist/0IPhGUowAYS8nr7nT9synf"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198461,
+      "name": "Quando tu mi baci",
+      "url": "https://open.spotify.com/track/1SPbN6ppUSIcOTZAO2HoCf"
     },
     {
       "album": {

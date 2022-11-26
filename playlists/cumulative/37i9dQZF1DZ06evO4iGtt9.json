@@ -177,7 +177,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": null,
       "duration_ms": 241712,
       "name": "Amen (feat. Timaya)",
       "url": "https://open.spotify.com/track/126nB4UhmyQ6d35khxQQ2i"
@@ -351,7 +351,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 204680,
       "name": "Bow Down",
       "url": "https://open.spotify.com/track/4qa7gYSpbGV4UKYuq20qB3"
@@ -373,6 +373,24 @@
       "duration_ms": 218826,
       "name": "Bum Bum",
       "url": "https://open.spotify.com/track/2khTwf0sIaNkodJRHRgk6s"
+    },
+    {
+      "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-05",
+      "duration_ms": 158320,
+      "name": "Buru",
+      "url": "https://open.spotify.com/track/5UMeJsvUGhBPKaRQehLWd5"
     },
     {
       "album": {
@@ -449,7 +467,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 249312,
       "name": "Dem Mama",
       "url": "https://open.spotify.com/track/5dFakr97SUs0pcVMYY6a3c"
@@ -606,6 +624,28 @@
     },
     {
       "album": {
+        "name": "Hip Hop Mafia",
+        "url": "https://open.spotify.com/album/10fn5C8XnQ46Lt3aas7VI0"
+      },
+      "artists": [
+        {
+          "name": "Obesere",
+          "url": "https://open.spotify.com/artist/3zCVI8q382lEWM4JwLJ8P9"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262478,
+      "name": "Gbo Se Wo (feat. Timaya)",
+      "url": "https://open.spotify.com/track/0boSTKIwz0fuPrWegoMqXs"
+    },
+    {
+      "album": {
         "name": "Get My Money Right",
         "url": "https://open.spotify.com/album/0qcfLCEkFZqXz6yOwLPy5Z"
       },
@@ -665,7 +705,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-09",
+      "date_removed": "2022-11-16",
       "duration_ms": 154616,
       "name": "Givin Dem",
       "url": "https://open.spotify.com/track/4HDdq1RWhIBgAm5xOrqN32"
@@ -763,7 +803,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 167746,
       "name": "Hold Me Now (Bonus)",
       "url": "https://open.spotify.com/track/5ldHBe4cfQMNtH8mcITJmR"
@@ -887,7 +927,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-25",
+      "date_removed": null,
       "duration_ms": 135186,
       "name": "Inside",
       "url": "https://open.spotify.com/track/6hoUqY7KzLKbS5y8FE6dAz"
@@ -953,7 +993,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 223426,
       "name": "Lai Lai",
       "url": "https://open.spotify.com/track/7Iibw3MdViIx13i5gLHD4U"
@@ -1059,7 +1099,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-03",
+      "date_removed": null,
       "duration_ms": 196413,
       "name": "No Limit",
       "url": "https://open.spotify.com/track/5mkwf1vdNtFVFjJX44o4sV"
@@ -1099,7 +1139,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Number One",
       "url": "https://open.spotify.com/track/6J9IXMtzTf6ZtcispHHnJr"
@@ -1165,7 +1205,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 244052,
       "name": "One Chance (feat. Timaya)",
       "url": "https://open.spotify.com/track/7E51qlKkIS4DJEoieDDM2A"
@@ -1263,7 +1303,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 216920,
       "name": "Sexy Ladies",
       "url": "https://open.spotify.com/track/7eEsqGqIlG8dliuPYEg89g"
@@ -1303,7 +1343,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 171186,
       "name": "Sili-Kon",
       "url": "https://open.spotify.com/track/4U9RIKgLeaANDbEFOZLcqT"
@@ -1343,7 +1383,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-10",
+      "date_removed": null,
       "duration_ms": 186013,
       "name": "Something Must to Kill a Man",
       "url": "https://open.spotify.com/track/4Yy4zBe6F5qMFTlRWZOUSq"
@@ -1365,6 +1405,24 @@
       "duration_ms": 200727,
       "name": "Stoopid",
       "url": "https://open.spotify.com/track/4VssiQZ9g8eUa3d22eYBcW"
+    },
+    {
+      "album": {
+        "name": "SWEET US",
+        "url": "https://open.spotify.com/album/0nATH3H1PvnLT1TZBWRgo6"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "SWEET US",
+      "url": "https://open.spotify.com/track/1mSci6u4udZB5rtU6tGMma"
     },
     {
       "album": {
@@ -1423,7 +1481,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 238158,
       "name": "Timaya",
       "url": "https://open.spotify.com/track/7JP7ibFI7Sk70ahn5ZOzBy"
@@ -1459,7 +1517,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": "2022-10-13",
       "duration_ms": 265404,
       "name": "True Story",
       "url": "https://open.spotify.com/track/154wqt2t7LYUHFEjjjgfhI"
@@ -1531,7 +1589,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 218826,
       "name": "Yankulu Ya (Dem Mama Remix)",
       "url": "https://open.spotify.com/track/2BSINTT3Xoyxoo9aBeJtx8"

@@ -4,7 +4,7 @@
 
 > 国民的アイドルやビッグアーティストへの楽曲提供、作詞、編曲、レコーディングディレクションをこなす稀代のクリエイター。2010年5月 にヒャダイン＝前山田健一であることを発表。彼の多岐に渡る活動はお茶の間〜コアなリスナーまで、幅広い世代を魅了している。
 
-120 songs - 8 hr 8 min - [published](https://open.spotify.com/playlist/4uy9VQ5xFYSsl9GqZlixae)
+124 songs - 8 hr 27 min - [published](https://open.spotify.com/playlist/4uy9VQ5xFYSsl9GqZlixae)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [GETUP! GETLIVE!](https://open.spotify.com/track/6SOz8fATPD8ln6UzbyVGVU) | [上原淳也 \(CV.花江夏樹\)](https://open.spotify.com/artist/332AD9pDagCIxk2VsjXbyG), [東沢 楓 \(CV.西山宏太朗\)](https://open.spotify.com/artist/6bdMLRTtvz06sXJ4Lahkv6), [町田瀬那 \(CV.豊永利行\)](https://open.spotify.com/artist/0Hl9gqptIt5WKbRPxHZwqI), [大野虎之助 \(CV.石川界人\)](https://open.spotify.com/artist/0Tgy1QbgwzpkCuvCz4ZIlr), [喜多見 蓮 \(CV.阿座上洋平\)](https://open.spotify.com/artist/2PxFmTVd5ZtVFlw8l56Qhr), [狛江一馬 \(CV.熊谷健太郎\)](https://open.spotify.com/artist/7uBma6fLieKj42Vh2GIqn3) | [GETUP! GETLIVE! Steam Rising](https://open.spotify.com/album/5WFXpEgfLFMzD4ac3UWQOI) | 4:01 | 2022-07-12 |  |
 | [Gifu Me Chance](https://open.spotify.com/track/7sOoTm3v0SCIbZmp1uXDjt) | [Nagareboshi](https://open.spotify.com/artist/7w9QTvKp59PCHa4fkL3NZ6) | [Gifu Me Chance](https://open.spotify.com/album/0NZQ4ZVCUzF6Q1Pg8FLjGF) | 4:29 | 2022-07-12 |  |
 | [Home Sweet Home !](https://open.spotify.com/track/71t4iyi0NqFcHU1hcYojjH) | [Yutaro Miura](https://open.spotify.com/artist/4NV9z38H7a9yNJCzu5Pnp3) | [FLOWERS](https://open.spotify.com/album/0bKTvirykWz7P04Tx4F6FZ) | 4:01 | 2022-03-08 |  |
+| [Hyouriittai](https://open.spotify.com/track/5oTkVrnbUnDQpQ5o7XjWyN) | [YUZU](https://open.spotify.com/artist/7lNFzeAXmSIKexINNgO6bu) | [Hyouriittai \(HunterxHunter Ver.\)](https://open.spotify.com/album/0NgnybaNNz1WleLYRIUEro) | 5:36 | 2022-08-04 | 2022-11-13 |
 | [Hyouriittai](https://open.spotify.com/track/0v1vufjir4OE4iRckLMoLd) | [YUZU](https://open.spotify.com/artist/7lNFzeAXmSIKexINNgO6bu) | [Shinsekai](https://open.spotify.com/album/2R5uRvmQGlvwYDzpl7pK63) | 5:36 | 2022-07-12 |  |
 | [I'm a Voice Actor](https://open.spotify.com/track/6pJydKTV4bvypoYEDBESXp) | [Wataru Hatano](https://open.spotify.com/artist/01vVQFcDbtkS4TbHyttdoT) | [W](https://open.spotify.com/album/5pEbeVGscrAW9AjHSJgKLm) | 4:38 | 2022-03-08 |  |
 | [IDOL SONG](https://open.spotify.com/track/6EoyldhOKbX5ZqxJMy3yZm) | [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr) | [kitixxxgaia](https://open.spotify.com/album/4afqsde3xfgxujmPzbnwOO) | 4:13 | 2022-03-08 |  |
@@ -31,7 +32,9 @@
 | [It's Show Time!!](https://open.spotify.com/track/4n7Mb9iYt9SupLc4Wai39M) | [福原 遥](https://open.spotify.com/artist/1Iemsg3wz7BPY2ZEQ9lKRc), [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [It's Show Time!!](https://open.spotify.com/album/5WjWjow9jIxIQR3XGNgOrJ) | 4:36 | 2022-03-08 |  |
 | [JOY](https://open.spotify.com/track/5XpeOzPh8mzTnh0SHiYdLi) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [Joyful Monster](https://open.spotify.com/album/7q7PwTvocTRkcCrEk6RG8y) | 4:29 | 2022-03-08 |  |
 | [L.O.K.F](https://open.spotify.com/track/3VkrkT7l5fOCtZzS4Nhg0j) | [きつね](https://open.spotify.com/artist/0FZILnNXcTtqbz9nWPwLh5), [EXIT](https://open.spotify.com/artist/2Xd13ljEIqUxHvVcvfWytd) | [L.O.K.F](https://open.spotify.com/album/0oeKhSzgjslbdczbkASG63) | 3:48 | 2022-03-08 |  |
-| [Life is Hard DAME DINERO](https://open.spotify.com/track/0HT5Fk82g9f8nUAVKwyzAt) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [生活こんきゅーダメディネロ](https://open.spotify.com/album/5XJ87OMDc5amKH9rUbkGI5) | 4:06 | 2022-07-12 |  |
+| [Life is Hard DAME DINERO](https://open.spotify.com/track/0HT5Fk82g9f8nUAVKwyzAt) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [生活こんきゅーダメディネロ](https://open.spotify.com/album/5XJ87OMDc5amKH9rUbkGI5) | 4:06 | 2022-07-12 | 2022-10-19 |
+| [Life is Hard DAME DINERO](https://open.spotify.com/track/5RjnIa5tjhpUDT2Q0brHv5) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [Life is Hard DAME DINERO](https://open.spotify.com/album/5rYgHLNiJFyp1GWzvV9ORe) | 4:06 | 2022-08-04 | 2022-11-13 |
+| [Life Is Hard DAME DINERO](https://open.spotify.com/track/5U403777CGVqKK61XreyEV) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [ANTHOLOGY & DESTINY](https://open.spotify.com/album/2uBuVNcF7UUpKpOhBIIgwq) | 4:06 | 2022-08-04 |  |
 | [Life's The Party Time!!](https://open.spotify.com/track/1krMMx1aJoMEU6Sh0d9HA0) | [中島愛](https://open.spotify.com/artist/4S6CGCwYKyStOwGV4IS8mI) | [Curiosity](https://open.spotify.com/album/1Iid4Xm44JxBfBv9jLfkR6) | 4:12 | 2022-03-08 |  |
 | [Link](https://open.spotify.com/track/4HOZQQ1cDRi6gimI4CSLPM) | [RYUCHELL](https://open.spotify.com/artist/69B2I8O3kvspdJVrBc2toJ) | [Link](https://open.spotify.com/album/7uAnOnRPCXNjvfde9zvfP0) | 4:11 | 2022-03-08 |  |
 | [LinQuest 〜やがて伝説へ・・・](https://open.spotify.com/track/1xz7gYwUTADRKhJc6UjGSo) | [LinQ](https://open.spotify.com/artist/05I84aat6qTGKBQM9P4Ynz) | [FRONTIER〜LinQ 第三楽章〜](https://open.spotify.com/album/4Ucb8SJJIfwQIvHX05k4H0) | 4:32 | 2022-03-08 |  |
@@ -42,6 +45,7 @@
 | [Owaranai Uta](https://open.spotify.com/track/2OxXrvNPvi5Re4BIazEuqV) | [YUZU](https://open.spotify.com/artist/7lNFzeAXmSIKexINNgO6bu) | [Towa](https://open.spotify.com/album/0SJZLC4rrnMg4YgdWvUK9J) | 3:41 | 2022-07-12 |  |
 | [Perfect\-area complete!](https://open.spotify.com/track/0mbUCoZHwCFPAyUsEEWXK7) | [麻生夏子](https://open.spotify.com/artist/1DDZtVeKCSNTVs2EupUsQ1) | [Movement of magic](https://open.spotify.com/album/0V6EFjSPBXudBEZ13Bt7iZ) | 4:01 | 2022-03-08 |  |
 | [PizzzzzzzA!!!!!!!](https://open.spotify.com/track/7F77MUUU6ZktlkcpYYDWg6) | [Aya Hirano](https://open.spotify.com/artist/3i2cfgYBlN8krGOtCqEYHj) | [FRAGMENTS](https://open.spotify.com/album/2V6BmKPiNL4nBHpJXzydJw) | 3:47 | 2022-03-08 |  |
+| [Reason](https://open.spotify.com/track/51ZKt9BFcqugXCVr34kSQy) | [YUZU](https://open.spotify.com/artist/7lNFzeAXmSIKexINNgO6bu) | [Yuzuiroha1997\-2017](https://open.spotify.com/album/7p4Dp51xDYSRRE46UIyQec) | 5:03 | 2022-08-04 | 2022-11-13 |
 | [REASON](https://open.spotify.com/track/3ERIqXHoQnhhiRuQxyjXcL) | [YUZU](https://open.spotify.com/artist/7lNFzeAXmSIKexINNgO6bu) | [LAND](https://open.spotify.com/album/6HFINxP6sxXmWkzEVMye3F) | 5:04 | 2022-03-08 | 2022-07-29 |
 | [Reason](https://open.spotify.com/track/4YgEwanzISFU4xa27saTux) | [YUZU](https://open.spotify.com/artist/7lNFzeAXmSIKexINNgO6bu) | [Land](https://open.spotify.com/album/36F64mAQOMrCR0DVAn8jUD) | 5:04 | 2022-07-12 |  |
 | [RED BLAZE : BLUE FLAME](https://open.spotify.com/track/20M5MWt8cLxaeHWEMvHLZ7) | [鈴木愛奈](https://open.spotify.com/artist/5h7WdhT6aUg1SMMklKJHHV) | [Belle révolte](https://open.spotify.com/album/7iJPRedEjkEwmI0cNPWV8X) | 4:08 | 2022-07-12 |  |

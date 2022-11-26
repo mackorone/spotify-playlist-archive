@@ -163,7 +163,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": "2022-11-21",
       "duration_ms": 257440,
       "name": "Amores extra\u00f1os - Versi\u00f3n 2001",
       "url": "https://open.spotify.com/track/25NjrLbcrjU4TiI5BZQirh"
@@ -399,7 +399,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 308560,
       "name": "Cuando nadie me ve",
       "url": "https://open.spotify.com/track/0bfPmBR6iN2cyJQJUUQOG0"
@@ -828,6 +828,24 @@
     },
     {
       "album": {
+        "name": "Hasta Ahora",
+        "url": "https://open.spotify.com/album/1YETjeIkkvMlKq427v6LWH"
+      },
+      "artists": [
+        {
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 222040,
+      "name": "Kil\u00f3metros",
+      "url": "https://open.spotify.com/track/2MhvuVw1suKyGjLR7vGI6v"
+    },
+    {
+      "album": {
         "name": "El Viaje de Copperpot",
         "url": "https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu"
       },
@@ -1149,7 +1167,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": "2022-11-12",
       "duration_ms": 238360,
       "name": "No Me Doy Por Vencido",
       "url": "https://open.spotify.com/track/6ztMOMCtWcKZgMTiNfP9bC"
@@ -1395,7 +1413,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-09",
+      "date_removed": "2022-11-13",
       "duration_ms": 343813,
       "name": "Pra Voc\u00ea Guardei O Amor",
       "url": "https://open.spotify.com/track/6ZBcSFnH5j8OPwRNY2pQOg"
@@ -1489,7 +1507,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": "2022-11-13",
       "duration_ms": 236946,
       "name": "Quiero Perderme En Tu Cuerpo",
       "url": "https://open.spotify.com/track/0fifvkrdqqIAZcQUD5o6Gk"
@@ -1881,7 +1899,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-10",
+      "date_removed": "2022-11-14",
       "duration_ms": 193626,
       "name": "Te Vi Venir",
       "url": "https://open.spotify.com/track/3jGGQIDuo8atu7d7iMzWCW"
@@ -2185,6 +2203,24 @@
     {
       "album": {
         "name": "Cruce de Caminos",
+        "url": "https://open.spotify.com/album/5AwLil0ISb4xv118YW3QVW"
+      },
+      "artists": [
+        {
+          "name": "Santiago Cruz",
+          "url": "https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218146,
+      "name": "Y Si Te Quedas, \u00bfQu\u00e9?",
+      "url": "https://open.spotify.com/track/0Y9c9SRQgswjlt4BzCsJv4"
+    },
+    {
+      "album": {
+        "name": "Cruce de Caminos",
         "url": "https://open.spotify.com/album/4dGETE1CGn2ZTZq4Sxrng3"
       },
       "artists": [
@@ -2195,7 +2231,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 218146,
       "name": "Y Si Te Quedas, \u00bfQu\u00e9?",
       "url": "https://open.spotify.com/track/2CMXO9bnTzOss5Fc6LhND2"

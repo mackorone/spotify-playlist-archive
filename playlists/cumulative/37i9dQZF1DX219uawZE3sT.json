@@ -135,7 +135,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": "2022-11-13",
       "duration_ms": 219453,
       "name": "Al Diablo Con Los Guapos aka No Me Supiste Querer",
       "url": "https://open.spotify.com/track/4bxUPG9Z6km505nHcfCdT4"
@@ -297,7 +297,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": "2022-11-13",
       "duration_ms": 207226,
       "name": "Amantes Prohibidos",
       "url": "https://open.spotify.com/track/21WYyyjovbDtf8Sa2DSdfZ"
@@ -817,7 +817,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": null,
       "duration_ms": 274906,
       "name": "El Amor De Mi Vida",
       "url": "https://open.spotify.com/track/6Byf7nRNKYLuqXsWf80ahI"
@@ -1732,6 +1732,24 @@
     },
     {
       "album": {
+        "name": "Jerem\u00edas",
+        "url": "https://open.spotify.com/album/11S1C5Cmq83DilIsvSDWo1"
+      },
+      "artists": [
+        {
+          "name": "Jerem\u00edas",
+          "url": "https://open.spotify.com/artist/1QWZE0CuKISG4P68ykP56E"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263184,
+      "name": "Poco A Poco",
+      "url": "https://open.spotify.com/track/2ecvmWhx9hAqzg6VhBTNSO"
+    },
+    {
+      "album": {
         "name": "Enrique Iglesias",
         "url": "https://open.spotify.com/album/2NwF2C2Z9sSgePRArAA5cl"
       },
@@ -1909,7 +1927,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": "2022-11-13",
       "duration_ms": 244600,
       "name": "Quisiera",
       "url": "https://open.spotify.com/track/1XDsjhMHi3jwEWmwTHQPWl"
@@ -2131,7 +2149,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 302453,
       "name": "S\u00f3lo Importas T\u00fa",
       "url": "https://open.spotify.com/track/4dCj8lsb7xO4Wlz4P8RcMb"
@@ -2341,7 +2359,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 220706,
       "name": "Un Alma en Pena",
       "url": "https://open.spotify.com/track/19a0LWL0uI0ggevU7QpzpG"

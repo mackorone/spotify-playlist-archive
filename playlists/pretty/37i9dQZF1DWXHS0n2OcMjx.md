@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHS0n2OcMjx.md) - [plain]
 
 > Cool beats for homework time!
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,041 likes - 147 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,270 likes - 147 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHS0n2OcMjx.md) - [plain]
 | 5 | [Wavy Gravy](https://open.spotify.com/track/5LnlrBspSm1uBdOcei7vVN) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [Wavy Gravy](https://open.spotify.com/album/5eZtTgkN1mOuCmPICJpuuS) | 3:30 |
 | 6 | [Delicious Deeds](https://open.spotify.com/track/6Ck6Tv3EopH6L33sH2I47y) | [Master Haratt](https://open.spotify.com/artist/4xXJGTAfTfLq9HqksgZHBT) | [Delicious Deeds](https://open.spotify.com/album/6WBaVg8k0w6hKYPsWHCy7L) | 3:05 |
 | 7 | [Midnight Set](https://open.spotify.com/track/2SXFyO8D10xlpvKkyGWZrJ) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Midnight Set](https://open.spotify.com/album/1RX90FoRauEfhOjlmXSgZ0) | 2:43 |
-| 8 | [Out The Blue \- Beat Edit](https://open.spotify.com/track/0C0YfH9QJ0vh0p4yQyjZyU) | [Slim.](https://open.spotify.com/artist/61KbmY6DzskmM3MnXLanpH), [Summers Sons](https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z) | [Out The Blue \(Beat Edit\)](https://open.spotify.com/album/4cjeF3pTkT8til7510bCSp) | 1:30 |
+| 8 | [Out The Blue \- Beat Edit](https://open.spotify.com/track/30FDtTJlx9N9LizWnZr5GA) | [Slim.](https://open.spotify.com/artist/61KbmY6DzskmM3MnXLanpH), [Summers Sons](https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z) | [Nostalgia \(Beat Edits\)](https://open.spotify.com/album/4CMU0oe6wIUWp30V8EYdHO) | 1:30 |
 | 9 | [Thousand Islands](https://open.spotify.com/track/0PkaVMW00sCAeiXd5mKIVb) | [Odd Shapes](https://open.spotify.com/artist/7A0I9hUuQHuonQhfYw3HrU) | [Thousand Islands](https://open.spotify.com/album/1xYOX8UICuZXSwo1e7vLVy) | 3:23 |
 | 10 | [Spraytan](https://open.spotify.com/track/73fwCt5oobtmrRsUgGESNk) | [Chillide](https://open.spotify.com/artist/6k0mhNZbwZiBIXcihGHwn9) | [Spraytan](https://open.spotify.com/album/2f5Su2fNCqu1gzHH4YK61J) | 2:00 |
 | 11 | [Pyramid Hands](https://open.spotify.com/track/3akR3qgQ7PIRcNAxEmf37L) | [Blue Cousins](https://open.spotify.com/artist/5xTmsiaHwO4F5BolRtmvCY) | [Pyramid Hands](https://open.spotify.com/album/7vpMvEpPKdo6iG5D3Mp7GT) | 2:12 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHS0n2OcMjx.md) - [plain]
 | 40 | [Horizon mind](https://open.spotify.com/track/0KxU1WQidDDjwDbTm0YW4b) | [Jolly Jordan](https://open.spotify.com/artist/4lpUkhOmmsVncY2vxf2UuZ) | [Horizon mind](https://open.spotify.com/album/4DPxwX7Ixo2SMiIQdUSXwE) | 3:16 |
 | 41 | [Long Walks](https://open.spotify.com/track/4CUcBdtk6vfz1AEantq8Yh) | [Joi Casette](https://open.spotify.com/artist/00HEKt0f42LmgnoabKX3Ok) | [Long Walks](https://open.spotify.com/album/3UtFxXCfwdy9ZPzs5fWVzK) | 2:04 |
 | 42 | [!Sunshine!](https://open.spotify.com/track/5v4j4LiqW49SnYAwnJugw5) | [Camden Clown](https://open.spotify.com/artist/56yn1U5TaMjH6ENhDdlWfM) | [Seven Hours](https://open.spotify.com/album/35tjstca6Mawcst5DoeXMN) | 3:03 |
-| 43 | [nightbefore](https://open.spotify.com/track/0jHMnNlipupeMqodQ4CT2j) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb) | [ili](https://open.spotify.com/album/3D8ATLRSxBxi5qIAmNEJM2) | 1:32 |
+| 43 | [nightbefore](https://open.spotify.com/track/3zT3IP0oKCCC3y053oTxfq) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb) | [ili](https://open.spotify.com/album/0XYhq9IUqFfBsHpTyZfEmi) | 1:32 |
 | 44 | [Sunsets](https://open.spotify.com/track/1VCL1t2CmukUubF5gWVrw1) | [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [Endless Sunday Vol\. 1](https://open.spotify.com/album/6VBlQ6xCwGJ5SXp5q3dpU2) | 2:57 |
 | 45 | [Late Night Jam](https://open.spotify.com/track/73yXOxZAK9FymtlXDfLVnR) | [Wasted Glitter](https://open.spotify.com/artist/0dNux2V8fLK0d4fyqwU5iZ) | [Late Night Jam](https://open.spotify.com/album/09VmKc1VmrrFGMVc3SvXd4) | 2:27 |
 | 46 | [Golden Vibe](https://open.spotify.com/track/5e0wGPEIDVmhPMYFkzzDkn) | [Beatnugget](https://open.spotify.com/artist/2B8sGSf7Jr54GidHeizE8E) | [Golden Vibe](https://open.spotify.com/album/22ZsrLpobwUNTUfWCRAl0Q) | 2:42 |
@@ -82,10 +82,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHS0n2OcMjx.md) - [plain]
 | 72 | [Trumpet On The Street](https://open.spotify.com/track/24mMhupEYd9fMpKM60MjVp) | [Turn.](https://open.spotify.com/artist/0EWNopBCU1Smyzg0IhiKVV) | [Trumpet On The Street](https://open.spotify.com/album/62uuJcDaUDeXUIXUbVMDKo) | 1:49 |
 | 73 | [At My Own Pace](https://open.spotify.com/track/3DEjPUcxqT9kA1ubD7l9CQ) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [At My Own Pace](https://open.spotify.com/album/5xPikCMHXQpGjFsergUTrr) | 2:25 |
 | 74 | [Summer Haze](https://open.spotify.com/track/7sTB4R9y1hyAxxA2mixs3L) | [Flimbo](https://open.spotify.com/artist/0kqL9mr7IkoVgzLpIvfUhp) | [Summer Haze](https://open.spotify.com/album/3MQOnybwcpMFWWpHfO8n7X) | 1:44 |
-| 75 | [Río Ocho](https://open.spotify.com/track/1cpPta2P0aGxUn6F6Up96n) | [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr), [young.vishnu](https://open.spotify.com/artist/13ktebtZo4NRbX3uThOmP2) | [Río Ocho](https://open.spotify.com/album/3bdzsVb0iRXvXbjlH78Dd5) | 2:16 |
+| 75 | [Río Ocho](https://open.spotify.com/track/0e9xM4RryKxxN0m4Eyn5g2) | [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr), [young.vishnu](https://open.spotify.com/artist/13ktebtZo4NRbX3uThOmP2) | [Río Ocho](https://open.spotify.com/album/5WTFbBNGHd7f2npsdUX99s) | 2:16 |
 | 76 | [Dive In](https://open.spotify.com/track/1ZANGntZPUTTPR0P6n6upr) | [Low Lions](https://open.spotify.com/artist/2mUm5cFEahwt8CtctiwIor) | [Dive In](https://open.spotify.com/album/0F851oU5m8Mh3pqD0ZqWns) | 3:17 |
 | 77 | [strolling](https://open.spotify.com/track/1d4ZvL8uuUPTEAnocC3zEa) | [!nvite](https://open.spotify.com/artist/6KJtK1U4TEYXQgg65JYAJI) | [strolling](https://open.spotify.com/album/6AxCT4NDfeK3WCzmQnZ2fF) | 2:18 |
-| 78 | [Train Ride](https://open.spotify.com/track/4mHEsCjfyA1vKlIIgsMDrU) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [High Jazz](https://open.spotify.com/album/1DdWGJ2V6GhO6cgaBx9WNj) | 2:31 |
+| 78 | [Train Ride](https://open.spotify.com/track/5hCXtdsOhwWCG6zX0ivfYg) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [High Jazz](https://open.spotify.com/album/0NKeDOv1E57bjmFusvxqiE) | 2:31 |
 | 79 | [Mental Acupuncture](https://open.spotify.com/track/34KMYyUvfpXboR9wLwrocX) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi) | [Mental Acupuncture](https://open.spotify.com/album/2dtSQyB2dVecMmnDlU9qYn) | 2:32 |
 | 80 | [Load Game \(Stardew Valley\)](https://open.spotify.com/track/35C8hj4I6JNY2nYbTrFrrc) | [Coffee Date](https://open.spotify.com/artist/74ZWzuwsxGAt05s2sWtq0j), [Dj Cutman](https://open.spotify.com/artist/1IwzmBTWI4CzUNsZM7Zqd8), [GameChops](https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp) | [Load Game \(Stardew Valley\)](https://open.spotify.com/album/6amw5ydhWMZJ68Hnw5CmNd) | 2:27 |
 | 81 | [future retro](https://open.spotify.com/track/4W0VbKOx9nIMl822qQHef1) | [stonefold](https://open.spotify.com/artist/1jCsCfZCxNohxXdoE3Rw4f) | [future retro](https://open.spotify.com/album/3mJhmdDs83sGZfpr9pYpgN) | 2:01 |
@@ -120,7 +120,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHS0n2OcMjx.md) - [plain]
 | 110 | [Carvings](https://open.spotify.com/track/6z4JNDNIHHrLz79QET2jrA) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Disque Magique](https://open.spotify.com/album/58LvwpDLLsRGNwJN160DWU) | 2:36 |
 | 111 | [Wonderfool](https://open.spotify.com/track/02M3N0e0a6srBlevdm62LZ) | [Type.Raw](https://open.spotify.com/artist/5esWbbDTsZQ6mM3OHd4fSg) | [Loungin'](https://open.spotify.com/album/7IvMUT6TmGUblqzpuRLA1S) | 3:00 |
 | 112 | [Authentic](https://open.spotify.com/track/6ibi48DPWz04U2lTWp3G8o) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [Soul City](https://open.spotify.com/album/0d5CHBsRYdHel2EiaFkk5p) | 1:23 |
-| 113 | [Chilled.](https://open.spotify.com/track/3fVo647lcGZ2lnWBxnCjnY) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Chilled.](https://open.spotify.com/album/5ixF5wx5FwPceBSl7iv4ta) | 1:34 |
+| 113 | [Chilled.](https://open.spotify.com/track/1EU15pwaX4T8xrHD3w5ove) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Chilled.](https://open.spotify.com/album/1HYraiL1W5J9idv5RgidTr) | 1:34 |
 | 114 | [Color Code](https://open.spotify.com/track/6ZnnfBbGg3OzhAm6G1aGXe) | [Dazik69](https://open.spotify.com/artist/7zZd3vsuMLI5VbBYxGZBvA) | [Color Code](https://open.spotify.com/album/0pFkWTWSTo2hNqC4gfbYlP) | 1:52 |
 | 115 | [Inside All Day](https://open.spotify.com/track/6SM9wXpzMbD0Sivei8dOUm) | [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [Inside All Day](https://open.spotify.com/album/2lBQBS5DqOboX9CrD0rSjc) | 2:26 |
 | 116 | [Hollow Park](https://open.spotify.com/track/05ULKBGbXdbVpqqokRTkEp) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [The Field Tapes](https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym) | [Hollow Park](https://open.spotify.com/album/0O0bs1ShYyAYFuJaqIuNur) | 2:06 |
@@ -142,7 +142,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHS0n2OcMjx.md) - [plain]
 | 132 | [Do Some Real](https://open.spotify.com/track/4xx8doH9tVSvTd7i8s5tKi) | [Mono:Massive](https://open.spotify.com/artist/2M3T0t1HvVr5Lz3MtdygpS), [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs) | [Monothrope](https://open.spotify.com/album/5EyUxvviTCMStig7V4pnvw) | 2:56 |
 | 133 | [Snake Plant](https://open.spotify.com/track/4c62KxdplU5lFoc90cieVl) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [English Breakfast](https://open.spotify.com/album/6bqFWuCzfQjP3pvL5LtsP1) | 2:11 |
 | 134 | [The Ceremony](https://open.spotify.com/track/3oQ8b6m5S531gvqZV9wEOY) | [Bertholet](https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Masters of the Lodge](https://open.spotify.com/album/1bx6nmknADHJvaxcvlO4go) | 1:35 |
-| 135 | [Sunny.](https://open.spotify.com/track/5oVsXNnT4i7oDrNtzPA5ky) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Sunny.](https://open.spotify.com/album/2W1R8hIJVxRMOP5aCSgE8S) | 1:41 |
+| 135 | [Sunny.](https://open.spotify.com/track/7cKh8PHBwZJwY5JsmLGhSQ) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Sunny.](https://open.spotify.com/album/384a8GfDuhJ7Tu91qjz10C) | 1:41 |
 | 136 | [Morning Sweetness](https://open.spotify.com/track/5XaohMu79GaUzXEKVLJdrE) | [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs), [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [Morning Sweetness](https://open.spotify.com/album/12GXoeM9z30czVZyWtkoag) | 2:54 |
 | 137 | [Marbles](https://open.spotify.com/track/5Gc0CM7a83XeqbrW5O5a6S) | [tusken.](https://open.spotify.com/artist/43P02sF00xAIa3d9mp1n24), [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Complex Channel Collective Tapes Vol\. 3](https://open.spotify.com/album/3I51mayU1aBAzUdTFQ3SrR) | 1:50 |
 | 138 | [Ekans](https://open.spotify.com/track/7etPnsz665GchBQlo9xoTs) | [Molife](https://open.spotify.com/artist/5evuJYN1sgxxSQWs9mw1e3) | [Beet Tape](https://open.spotify.com/album/4TSN6CGuxQKxsG8dFgBreC) | 2:21 |
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHS0n2OcMjx.md) - [plain]
 | 146 | [Personal](https://open.spotify.com/track/1Jas2WQLIJM6GNaHm7d6pi) | [Densky9](https://open.spotify.com/artist/2FzImqc6MWD57A5yR5KXz0) | [Panda Talk](https://open.spotify.com/album/4F3Z82DPFRp0PHJCQkpiKt) | 3:42 |
 | 147 | [Hello Friend](https://open.spotify.com/track/2pEj9K2VWulm0nyTrDYond) | [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE) | [Chillhop Daydreams](https://open.spotify.com/album/5Tv8LWNku2lmWXxAy4xYhI) | 2:01 |
 
-Snapshot ID: `MTY1NzI5NDE3MCwwMDAwMDAwMDUyNWU4NzA2YjUyNzMwN2Q2MzJhOTBhMzU4YjFlOTE3`
+Snapshot ID: `MTY1NzI5NDE3MCwwMDAwMDAwMDJmNDY5MmJlMTAzZGRjYTIwYjkwZDkyOGM4ZWQxNDI4`

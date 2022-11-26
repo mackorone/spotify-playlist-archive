@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 
 > Classic cuts from the alternative country music scene\. Cover: Uncle Tupelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,591 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,402 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 | 22 | [Brady](https://open.spotify.com/track/42FrunKt2Ad5bDW2fVrRIj) | [Backyard Tire Fire](https://open.spotify.com/artist/3OvUCYn1LXlIffYy9HSxT0) | [Good to Be](https://open.spotify.com/album/3g1s5N9mNDd8ZV2GlOJ8NX) | 4:06 |
 | 23 | [No More Buffalo](https://open.spotify.com/track/7fyi9AWHCum1tXzUacFYro) | [James McMurtry](https://open.spotify.com/artist/52BKc9OtCbQstAAPTIvLGH) | [It Had To Happen](https://open.spotify.com/album/3l7cwOKo22Jw2YfuT9hP3q) | 7:19 |
 | 24 | [Radio King](https://open.spotify.com/track/3C46CEeM0ltNQwOtPN8jRg) | [Golden Smog](https://open.spotify.com/artist/0BLh5cn4nqfqoVUREx3hLj) | [Down By The Old Mainstream](https://open.spotify.com/album/3JN6iTnWyTYFULRijpCtTY) | 3:09 |
-| 25 | [The Asp and the Albatross](https://open.spotify.com/track/0yC5J6p9L0FEFgLtT3okwg) | [Freakwater](https://open.spotify.com/artist/6JjE9yVvCNV5EbUpvS7JcQ) | [Scheherazade](https://open.spotify.com/album/5hI8Yg8s5j7r4OAsohNIQ8) | 3:10 |
+| 25 | [The Asp and the Albatross](https://open.spotify.com/track/1ybxT91p0y92dHZZUW5CZm) | [Freakwater](https://open.spotify.com/artist/6JjE9yVvCNV5EbUpvS7JcQ) | [Scheherarade](https://open.spotify.com/album/5K2EDfhJXYzol3W17Jfasx) | 3:10 |
 | 26 | [Sweet Old World](https://open.spotify.com/track/72cC7aXgTx3us9bTOBbLUF) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Wrecking Ball](https://open.spotify.com/album/3S2rjqCFfpvZKqGcVkHjDP) | 5:05 |
 | 27 | [The Dreaming Dead](https://open.spotify.com/track/7vnAgnnk9FW4gBy3W2gj3q) | [Jesse Sykes & The Sweet Hereafter](https://open.spotify.com/artist/02ojXsd1103Qc2uU5uhJHZ) | [Oh, My Girl](https://open.spotify.com/album/08024Yl9vqP9YR1Jf4OOrA) | 6:03 |
 | 28 | [Love Is Just A Wrecking Ball](https://open.spotify.com/track/3uj5B8qhKQbMxtXGGG5V3w) | [Del Barber](https://open.spotify.com/artist/596XrMi1b7txL6jMiyb1yk) | [Where The City Ends](https://open.spotify.com/album/5ZXpVBRxmYSP7f2gG01aFY) | 4:20 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 | 74 | [Chickamauga](https://open.spotify.com/track/3pnfc7f0fix6C6HcOLYxzH) | [Uncle Tupelo](https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc) | [Anodyne](https://open.spotify.com/album/5DQRAlGAFTpHsXGEg5zw9V) | 3:42 |
 | 75 | [Hasn't Hit Me Yet \- 2012 Remaster](https://open.spotify.com/track/4MgPAPoNsUpJrVhKf1dCxz) | [Blue Rodeo](https://open.spotify.com/artist/4M1fxLs3K8DkyCaTEpdfo0) | [Five Days in July](https://open.spotify.com/album/38xKbwxuitwGAgjTPoEnWm) | 5:13 |
 
-Snapshot ID: `MTYwMjYwNDIxMSwwMDAwMDAwMDc5MWExZjAyOWExOTdhMTIxODMzMTRjYTIzZmZhZDEw`
+Snapshot ID: `MTYwMjYwNDIxMSwwMDAwMDAwMDZhZTVmYWRjNTAwZGM3YTViZTIyMWMzZTBlZDUxMDg0`

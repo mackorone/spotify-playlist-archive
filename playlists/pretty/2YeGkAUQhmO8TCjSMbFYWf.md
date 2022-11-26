@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2YeGkAUQhmO8TCjSMbFYWf.md) - [plain]
 
 > Honor your body, fuel your mind\. Love Life\. Live Yoga.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,470 likes - 22 songs - 1 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,453 likes - 22 songs - 1 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/2YeGkAUQhmO8TCjSMbFYWf.md) - [plain]
 | 17 | [Knots](https://open.spotify.com/track/1zs5jBlcacxuzXmYtKVA2O) | [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [Passenger](https://open.spotify.com/album/6VdbyUUY36ua2oEOVlCqgj) | 3:31 |
 | 18 | [Messengers](https://open.spotify.com/track/2hRBqxdkYuFySfyEkcsPOp) | [Jared & The Mill](https://open.spotify.com/artist/0GklSybv01PPje5GlXFq2i) | [Life We Chose](https://open.spotify.com/album/05ClOtBf37SmOjM6fC9R21) | 4:37 |
 | 19 | [The A Team](https://open.spotify.com/track/1VdZ0vKfR5jneCmWIUAMxK) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [+](https://open.spotify.com/album/0W5GGnapMz0VwemQvJDqa7) | 4:18 |
-| 20 | [Wild World \- Acoustic Version](https://open.spotify.com/track/0ZWSpn7UgqAp4exbKEUD5g) | [Joanna Wang](https://open.spotify.com/artist/1km0aro5NJuoX5dE0Mub5C) | [為愛做的一切](https://open.spotify.com/album/019FOSKZXxS56quC2Wmb1K) | 3:45 |
+| 20 | [Wild World \- Acoustic Version](https://open.spotify.com/track/0ZWSpn7UgqAp4exbKEUD5g) | [Joanna Wang](https://open.spotify.com/artist/1km0aro5NJuoX5dE0Mub5C) | [为爱做的一切](https://open.spotify.com/album/019FOSKZXxS56quC2Wmb1K) | 3:45 |
 | 21 | [Boardwalks](https://open.spotify.com/track/3jDF66ZATb0FcHNnOqeyDK) | [Little May](https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH) | [Little May](https://open.spotify.com/album/00UxqHa2736DcXKCZGF4i9) | 3:15 |
 | 22 | [Naked As We Came](https://open.spotify.com/track/2gUSIsapdX6jEJ0DvjqTt2) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days](https://open.spotify.com/album/20OPxsW0aYB6InxDImJRdt) | 2:32 |
 

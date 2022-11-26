@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4LmOnbOmtMUyQQjo6L9mct.md) - [plain]
 
 > Enjoy the sweet rhythms of bossa nova \- the perfect marriage of samba and jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,486 likes - 41 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,485 likes - 41 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

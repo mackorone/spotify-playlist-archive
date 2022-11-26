@@ -447,7 +447,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-22",
+      "date_removed": null,
       "duration_ms": 192400,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/5DZdCgnX9xAj59X6X7cQBs"
@@ -465,7 +465,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 192400,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/7ehFSpcDs3PBExiLPwXQP9"
@@ -1408,6 +1408,24 @@
     },
     {
       "album": {
+        "name": "NEW KIDS REPACKAGE : THE NEW KIDS",
+        "url": "https://open.spotify.com/album/6RZYa7F18bu7mmeT8qxWqh"
+      },
+      "artists": [
+        {
+          "name": "iKON",
+          "url": "https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 209648,
+      "name": "LOVE SCENARIO",
+      "url": "https://open.spotify.com/track/3bUw9o4pis3Z5rOeJZJgDS"
+    },
+    {
+      "album": {
         "name": "Return",
         "url": "https://open.spotify.com/album/7th9VLudqM04TpG8hNE1pb"
       },
@@ -1441,6 +1459,24 @@
       "duration_ms": 209648,
       "name": "LOVE SCENARIO",
       "url": "https://open.spotify.com/track/6qAzAmPBUpGrk7XADZHR5k"
+    },
+    {
+      "album": {
+        "name": "&ME Edition",
+        "url": "https://open.spotify.com/album/0LvabrCTm7KthUKX7Ny8d0"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 217486,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/0n92ByvQ6uLY7nUG0G9xmO"
     },
     {
       "album": {
@@ -1844,6 +1880,24 @@
     },
     {
       "album": {
+        "name": "Reincarnation",
+        "url": "https://open.spotify.com/album/6A2ahWJPDQl2n7bAtftT51"
+      },
+      "artists": [
+        {
+          "name": "VIXX",
+          "url": "https://open.spotify.com/artist/5BkB3rXc0qIdUtuEnhbK0A"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 187066,
+      "name": "Scentist",
+      "url": "https://open.spotify.com/track/1HybeCid417lV9ldlKGenl"
+    },
+    {
+      "album": {
         "name": "SEE SEA",
         "url": "https://open.spotify.com/album/1t3IRZpNvtOD1tXfFLrLOe"
       },
@@ -1877,6 +1931,24 @@
       "duration_ms": 200125,
       "name": "SEE SEA",
       "url": "https://open.spotify.com/track/481yYUbtfs67PaKYKxJOeF"
+    },
+    {
+      "album": {
+        "name": "SAY MY NAME",
+        "url": "https://open.spotify.com/album/0ZqsXIBaGGO8I1AbCxAdyt"
+      },
+      "artists": [
+        {
+          "name": "Hyolyn",
+          "url": "https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 200125,
+      "name": "SEE SEA",
+      "url": "https://open.spotify.com/track/6UMAXSwjuP9YPlObKugTO9"
     },
     {
       "album": {
@@ -2140,6 +2212,24 @@
     },
     {
       "album": {
+        "name": "LOVE SHOT\u2013 The 5th Album Repackage",
+        "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 224482,
+      "name": "Tempo",
+      "url": "https://open.spotify.com/track/1iifBZFQbZlO1BbeaO3KGi"
+    },
+    {
+      "album": {
         "name": "LOVE SHOT",
         "url": "https://open.spotify.com/album/2eVmKC7YaC0WmA0NRACVFD"
       },
@@ -2355,6 +2445,24 @@
       "duration_ms": 181161,
       "name": "We Young",
       "url": "https://open.spotify.com/track/0eilxZjVwGfcgzzDEbcFJP"
+    },
+    {
+      "album": {
+        "name": "What Is Love",
+        "url": "https://open.spotify.com/album/5o5cJ6yZmcyy4y4hK0J6de"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 208226,
+      "name": "What is Love",
+      "url": "https://open.spotify.com/track/54mnwt3kO0uYsy0ceg14JP"
     },
     {
       "album": {

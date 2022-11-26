@@ -695,6 +695,24 @@
     {
       "album": {
         "name": "Hearing Music",
+        "url": "https://open.spotify.com/album/2XGxxHwdnmQBLPJEDISC8k"
+      },
+      "artists": [
+        {
+          "name": "Joanna Brouk",
+          "url": "https://open.spotify.com/artist/3yITaOTDcBPYNnYxlxQuUt"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 399306,
+      "name": "Maggi's Flute - Mary's Watch, Pt. 1",
+      "url": "https://open.spotify.com/track/78MiXBsmHTgAJHtQus02WY"
+    },
+    {
+      "album": {
+        "name": "Hearing Music",
         "url": "https://open.spotify.com/album/58gzJUm5d9qzbv2LckicoZ"
       },
       "artists": [

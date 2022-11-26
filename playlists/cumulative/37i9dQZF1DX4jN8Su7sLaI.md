@@ -4,7 +4,7 @@
 
 > Music from "Yowamushi Pedal", a series of cycle road race manga\. /自転車ロードレースアニメの金字塔、<a href="http://yowapeda.com/">『弱虫ペダル』</a>公式プレイリスト！©渡辺航（週刊少年チャンピオン）／弱虫ペダル04製作委員会
 
-37 songs - 2 hr 19 min - [published](https://open.spotify.com/playlist/2ClVyCrdlSlyiFCMCh0S7S)
+39 songs - 2 hr 27 min - [published](https://open.spotify.com/playlist/2ClVyCrdlSlyiFCMCh0S7S)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,9 @@
 | [Link](https://open.spotify.com/track/6RoYQ8xtnD0iQLX91tjW7B) | [LASTGASP](https://open.spotify.com/artist/6DtWvcsqUEaxfTrEdGyXmS) | [弱虫ペダル テーマソングアルバム](https://open.spotify.com/album/10ySnvOAqlHznO85JSuGBW) | 4:29 | 2022-09-27 |  |
 | [Long Way to Go](https://open.spotify.com/track/6I8XESMBinf8pxLcfWEk31) | [巻島裕介\(CV:森久保祥太郎\)](https://open.spotify.com/artist/1s7XJw4YW4yEqowfVbC1QL) | [TVアニメ「弱虫ペダル」キャラクターソングアルバム](https://open.spotify.com/album/683Mu9sf42JaD3oetQexMy) | 3:54 | 2022-09-27 |  |
 | [Over the Limit](https://open.spotify.com/track/1cGcCVpNh8p3PeGeS2Z97L) | [ROUTE85\(真波山岳/泉田塔一郎/黒田雪成/葦木場拓斗/銅橋正清/新開悠人\)](https://open.spotify.com/artist/691RXcHdtcohJu0SBo7L3B) | [TVアニメ「弱虫ペダル GLORY LINE」第2クールED主題歌「Over the Limit」](https://open.spotify.com/album/3CO6YdjWm9J4MZr546Y1QS) | 4:12 | 2022-09-27 |  |
+| [PRIDE](https://open.spotify.com/track/4w1J2ejTHgtxRR6IvFoB8n) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [PRIDE](https://open.spotify.com/album/7A0ixTAOm6k9iyuYVX7lBb) | 3:37 | 2022-11-08 |  |
 | [Ride On](https://open.spotify.com/track/6fwf7NQucrVPviDoxFL9pz) | [小野田坂道\(CV:山下大輝\)](https://open.spotify.com/artist/2sluA9dqqWRKhFdNl7Y7pZ) | [TVアニメ「弱虫ペダル」キャラクターソングアルバム](https://open.spotify.com/album/683Mu9sf42JaD3oetQexMy) | 3:44 | 2022-09-27 |  |
+| [はじまりの日々](https://open.spotify.com/track/60z9F2a52fM1PJcmQOdpx6) | [MAGIC OF LiFE](https://open.spotify.com/artist/0QGg16GFoyYl8yEODlSxpQ) | [『弱虫ペダル SPARE BIKE』主題歌「はじまりの日々」/『BSスカパー! オリジナル連続ドラマ「弱虫ペダル」』主題歌「スキルフラワー」](https://open.spotify.com/album/2vQIZICXv3DpHWs6b8v9xJ) | 3:39 | 2022-11-08 | 2022-11-14 |
 | [はじまりの日々](https://open.spotify.com/track/0NEhEFk3CrVeoYtCSfgBlJ) | [MAGIC OF LiFE](https://open.spotify.com/artist/0QGg16GFoyYl8yEODlSxpQ) | [Niemeyer](https://open.spotify.com/album/1Sh5Yv0oTXifF8oXgyOFme) | 3:41 | 2022-09-27 |  |
 | [もう少し、あと少し](https://open.spotify.com/track/2XVtzdar3sZnFi39YJxrwW) | [小野田坂道\(CV:山下大輝\)](https://open.spotify.com/artist/2sluA9dqqWRKhFdNl7Y7pZ), [巻島裕介\(CV:森久保祥太郎\)](https://open.spotify.com/artist/1s7XJw4YW4yEqowfVbC1QL) | [TVアニメ「弱虫ペダル」キャラクターソングアルバム](https://open.spotify.com/album/683Mu9sf42JaD3oetQexMy) | 3:50 | 2022-09-27 |  |
 | [ケイデンス](https://open.spotify.com/track/2llVdRrltHCLKcIO8Vmleb) | [夏代孝明](https://open.spotify.com/artist/0fhTFborEMzRFyZIaVgz9r) | [TVアニメ「弱虫ペダル NEW GENERATION」オープニングテーマ「ケイデンス」](https://open.spotify.com/album/1gKsHNFY8OIEJUHp0yeBuc) | 4:17 | 2022-09-27 |  |

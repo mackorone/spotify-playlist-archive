@@ -4,7 +4,7 @@
 
 > Las mejores canciones de pop latino durante el 2020\. En portada: Camilo
 
-62 songs - 3 hr 19 min - [published](https://open.spotify.com/playlist/6oNWuGyfGKegYHcwL7cuh4)
+63 songs - 3 hr 22 min - [published](https://open.spotify.com/playlist/6oNWuGyfGKegYHcwL7cuh4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [ADMV](https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [ADMV](https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa) | 3:13 | 2020-12-01 |  |
 | [Agua \(with J Balvin\)](https://open.spotify.com/track/7CtbxAGq2P0jtYh6SH9DMR) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [The SpongeBob Movie: Sponge On The Run \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ojjiN0aOkWA15XONyCnA7) | 2:39 | 2020-12-01 |  |
 | [Agua \(with J Balvin\) \- Music From "Sponge On The Run" Movie](https://open.spotify.com/track/1pqnQ41XbfKjaFu6M0eGJp) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Agua \(with J Balvin\) \[Music From "Sponge On The Run" Movie\]](https://open.spotify.com/album/6PVN0rvVbQE21VoEgmtDRS) | 2:37 | 2020-12-01 | 2022-07-29 |
+| [Agua \- Music From "Sponge On The Run" Movie](https://open.spotify.com/track/2JQ9vkNVyrHPH6aTE3oOtL) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Reggaeton De Impacto Vol\. 2](https://open.spotify.com/album/0BZGDrWZTc5Lc9hECNMVAl) | 2:37 | 2020-12-01 | 2022-11-13 |
 | [Amor Tóxico](https://open.spotify.com/track/5LPlvbxA6bJQHvUW12Mr22) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [AYAYAY!](https://open.spotify.com/album/4In6hAxpuu07JqkzY8cjtg) | 2:10 | 2020-12-01 |  |
 | [Ay, DiOs Mío!](https://open.spotify.com/track/7x4ASXYEKfQBCewcZhK776) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Ay, DiOs Mío!](https://open.spotify.com/album/1mMUBQXa70gHyUjK0Q0u63) | 3:09 | 2020-12-01 |  |
 | [Ayer Me Llamó Mi Ex \(feat\. Lenny Santos\)](https://open.spotify.com/track/6C6mUonH6MNdSg5pw7kOc9) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Lenny Santos](https://open.spotify.com/artist/4bODqflR0Wo3i3fCwwCIPq) | [Ayer Me Llamó Mi Ex \(feat\. Lenny Santos\)](https://open.spotify.com/album/0H01i14lrDJtgGU2LFImWL) | 3:26 | 2020-12-01 |  |

@@ -167,7 +167,7 @@
       ],
       "date_added": "2020-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 170026,
       "name": "Bigger Love",
       "url": "https://open.spotify.com/track/4kcJsfPTr7RCrLQRvW7cyj"
@@ -275,7 +275,7 @@
       ],
       "date_added": "2020-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 267200,
       "name": "Can't Believe The Way We Flow",
       "url": "https://open.spotify.com/track/6voR6zsWIn7vgZYGOFKYSZ"
@@ -649,7 +649,7 @@
       ],
       "date_added": "2020-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-14",
+      "date_removed": "2022-11-14",
       "duration_ms": 287321,
       "name": "I Can't Breathe",
       "url": "https://open.spotify.com/track/4CPszpSnlbgnQLIQYyzIR2"
@@ -714,6 +714,24 @@
     },
     {
       "album": {
+        "name": "Blood Harmony",
+        "url": "https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "date_added": "2020-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190348,
+      "name": "Let's Fall in Love for the Night",
+      "url": "https://open.spotify.com/track/6I0KEvFfWszVJiCy5hum4V"
+    },
+    {
+      "album": {
         "name": "Let\u2019s Fall In Love For The Night",
         "url": "https://open.spotify.com/album/3LONldJV06J1AHEph6lopK"
       },
@@ -725,7 +743,7 @@
       ],
       "date_added": "2020-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 190348,
       "name": "Let's Fall in Love for the Night",
       "url": "https://open.spotify.com/track/7kQkmyoHCEqwe7QwDbkSXM"
@@ -1337,7 +1355,7 @@
       ],
       "date_added": "2020-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-14",
       "duration_ms": 252728,
       "name": "The Bigger Picture",
       "url": "https://open.spotify.com/track/4sDMiX1n4kfXgJd9nOXGpt"
@@ -1456,6 +1474,24 @@
     },
     {
       "album": {
+        "name": "Melhores M\u00fasicas Internacionais 2022",
+        "url": "https://open.spotify.com/album/44mM4AULWBACBm7CQnFi3R"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "date_added": "2020-08-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 208207,
+      "name": "Underdog",
+      "url": "https://open.spotify.com/track/64hFA0izhdwZKH3SRUNGCr"
+    },
+    {
+      "album": {
         "name": "Wasted On You",
         "url": "https://open.spotify.com/album/0M2nZca4uqtlmP9ujd7Yas"
       },
@@ -1489,6 +1525,24 @@
       "duration_ms": 264312,
       "name": "Wasted On You",
       "url": "https://open.spotify.com/track/6SeiHTSmnC6CJ9tGvVLdMR"
+    },
+    {
+      "album": {
+        "name": "Songs From The Bitter Truth",
+        "url": "https://open.spotify.com/album/7sQN6pVY3NokHmFcdNA094"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "date_added": "2020-08-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 264312,
+      "name": "Wasted On You",
+      "url": "https://open.spotify.com/track/6xP7wg1cz09H5mGnabltWY"
     },
     {
       "album": {

@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": "2022-11-15",
       "duration_ms": 139818,
       "name": "7 Oaks",
       "url": "https://open.spotify.com/track/2dJz8zc30GvBOVV1rXhaaE"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 245451,
       "name": "9 elms over river eno (channel 9)",
       "url": "https://open.spotify.com/track/36BI2fXvlLxVoJKF9csjE9"
@@ -182,6 +182,28 @@
     },
     {
       "album": {
+        "name": "The Heavens",
+        "url": "https://open.spotify.com/album/2bTeiXCBjfsKnGnezvw7DB"
+      },
+      "artists": [
+        {
+          "name": "Sedibus",
+          "url": "https://open.spotify.com/artist/1lUshJ8UbLawZ3bH85qgA4"
+        },
+        {
+          "name": "The Orb",
+          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 547699,
+      "name": "Afterlife Aftershave",
+      "url": "https://open.spotify.com/track/1dDNKj2teFS6D3lSTqKrcz"
+    },
+    {
+      "album": {
         "name": "Alpine",
         "url": "https://open.spotify.com/album/2aRIXuVdStO3RgqEco9JeF"
       },
@@ -215,7 +237,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": null,
       "duration_ms": 85896,
       "name": "Ashes",
       "url": "https://open.spotify.com/track/1SFuW1Sh6V9JJf0ezWIPbJ"
@@ -245,7 +267,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": "2022-10-12",
       "duration_ms": 221367,
       "name": "Assassin - 7\" Mix",
       "url": "https://open.spotify.com/track/5WEvbsbM847PuXY9rN2oXK"
@@ -321,7 +343,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 271333,
       "name": "Bedouin",
       "url": "https://open.spotify.com/track/0D657mUEeTbY2nmeNyU2Vq"
@@ -411,10 +433,54 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 420200,
       "name": "Delta Mk II",
       "url": "https://open.spotify.com/track/7dAkSURilbmrPTDf6UysJV"
+    },
+    {
+      "album": {
+        "name": "Enter the Kettle",
+        "url": "https://open.spotify.com/album/6ijPm9fn5hVPo5II2IZOod"
+      },
+      "artists": [
+        {
+          "name": "OSS",
+          "url": "https://open.spotify.com/artist/4rDMVGigxANzIctI89hCeH"
+        },
+        {
+          "name": "The Orb",
+          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-16",
+      "duration_ms": 423440,
+      "name": "Delta River",
+      "url": "https://open.spotify.com/track/05FTGePPdhJYpU3LgeWiaE"
+    },
+    {
+      "album": {
+        "name": "Enter the Kettle",
+        "url": "https://open.spotify.com/album/6ijPm9fn5hVPo5II2IZOod"
+      },
+      "artists": [
+        {
+          "name": "OSS",
+          "url": "https://open.spotify.com/artist/4rDMVGigxANzIctI89hCeH"
+        },
+        {
+          "name": "The Orb",
+          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377139,
+      "name": "Digital Bicycle Clips",
+      "url": "https://open.spotify.com/track/4VMiDTMd2pDCTFjBAZoGrA"
     },
     {
       "album": {
@@ -469,7 +535,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": "2022-10-21",
       "duration_ms": 101676,
       "name": "Drift",
       "url": "https://open.spotify.com/track/0yxjWgKXPMt9xls7P3e63e"
@@ -549,7 +615,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 329360,
       "name": "Go Down Evil",
       "url": "https://open.spotify.com/track/79AofcxiLVPQ2E0t8JgBSJ"
@@ -567,7 +633,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-10-13",
       "duration_ms": 884200,
       "name": "God's Mirrorball",
       "url": "https://open.spotify.com/track/1AiexVTC5gIpLkIxhCX4sw"
@@ -611,7 +677,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 253544,
       "name": "H. O. O",
       "url": "https://open.spotify.com/track/1dcKekvRNoO7tP1KwowdUQ"
@@ -651,7 +717,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-11-25",
       "duration_ms": 261141,
       "name": "Hold Me Upsetter",
       "url": "https://open.spotify.com/track/3bMR9NyBHxt1pZadTvGbRs"
@@ -687,7 +753,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": "2022-10-13",
       "duration_ms": 367733,
       "name": "House of Narcotics - Opium Wars Mix",
       "url": "https://open.spotify.com/track/2NAFoD9GIibDSEWofqtSxW"
@@ -763,7 +829,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-10-16",
       "duration_ms": 261984,
       "name": "Just Because I Really Really Luv Ya",
       "url": "https://open.spotify.com/track/197qEq8OyjaWcHQvGkiwNJ"
@@ -857,7 +923,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": "2022-10-13",
       "duration_ms": 244311,
       "name": "Man in the Moon",
       "url": "https://open.spotify.com/track/2IdEhAIOQS0T6d79DBaTr6"
@@ -879,7 +945,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 1721786,
       "name": "Metallic Side (feat. David Gilmour) - Stereo Version",
       "url": "https://open.spotify.com/track/1ogszJGyiYSlrVGpHtoNMm"
@@ -937,7 +1003,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 641533,
       "name": "Montagne D'Or (Der Gute Berg)",
       "url": "https://open.spotify.com/track/5DRapdJgelwzIP7wWcXWj1"
@@ -973,7 +1039,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-10-13",
       "duration_ms": 784173,
       "name": "Moonbuilding 2703 AD",
       "url": "https://open.spotify.com/track/2Bzo7YPDd1s0n9VDVKxAOU"
@@ -1009,7 +1075,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-10-13",
       "duration_ms": 834533,
       "name": "Occidental",
       "url": "https://open.spotify.com/track/7cTPTSaSWMpeL2Ea8gdAuF"
@@ -1031,6 +1097,24 @@
       "duration_ms": 260026,
       "name": "Once More",
       "url": "https://open.spotify.com/track/1kzhbwCEbpHPw74AZf9sqc"
+    },
+    {
+      "album": {
+        "name": "Baghdad Batteries (Orbsessions Volume 3)",
+        "url": "https://open.spotify.com/album/6pTjkBOxkrhJ4WPD37gMG0"
+      },
+      "artists": [
+        {
+          "name": "The Orb",
+          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212440,
+      "name": "Orban Tumbleweed",
+      "url": "https://open.spotify.com/track/0lB2DD7k0Jb3UdNQeEEHbd"
     },
     {
       "album": {
@@ -1117,7 +1201,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": null,
       "duration_ms": 250960,
       "name": "Pervitin - Empire Culling & The Hemlock Stone Version",
       "url": "https://open.spotify.com/track/6KCulEFcEZ0LvPfWul3n7T"
@@ -1309,7 +1393,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 327400,
       "name": "Say Cheese - Siberian Tiger Cookie Mix",
       "url": "https://open.spotify.com/track/6aWUSS1czLVNMASHk84XNV"
@@ -1421,7 +1505,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 362234,
       "name": "Soulman",
       "url": "https://open.spotify.com/track/1RaWh6yydQyNMVjxhUwSWV"
@@ -1461,7 +1545,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 1208120,
       "name": "Spheres Side (feat. David Gilmour) - Stereo Version",
       "url": "https://open.spotify.com/track/4B18MaOudRkiTmaGO3pTN3"
@@ -1483,7 +1567,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": "2022-10-14",
       "duration_ms": 425454,
       "name": "Squirrels in Jumpsuits",
       "url": "https://open.spotify.com/track/5Z6KB3zOCuKRcy2scNdtDi"
@@ -1519,7 +1603,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 50400,
       "name": "Sticky End",
       "url": "https://open.spotify.com/track/5OSSD6jXQBMnvjMuGyp0UC"
@@ -1541,7 +1625,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": "2022-10-12",
       "duration_ms": 418560,
       "name": "Strong Man's Variations of a Camel Party",
       "url": "https://open.spotify.com/track/5Yxq6XoSEM0nPb1991W7Sn"
@@ -1581,7 +1665,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 283000,
       "name": "Switch on Leon",
       "url": "https://open.spotify.com/track/5YYjzjQKL32k7pqJmaJRQn"
@@ -1621,7 +1705,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-10-12",
       "duration_ms": 335866,
       "name": "The Cult Of Youth Ambient Mix Parts 1 & 2 (feat. David Gilmour) - Edit",
       "url": "https://open.spotify.com/track/4iPCa0uM1gkpDkkdP8VCdi"
@@ -1657,7 +1741,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 305560,
       "name": "The Queen of Hearts - Princess of Clubs Mix",
       "url": "https://open.spotify.com/track/2xDbv8rllgzq8Be9XjetKE"
@@ -1697,7 +1781,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-01",
+      "date_removed": null,
       "duration_ms": 320000,
       "name": "Toi 1338b - Edit",
       "url": "https://open.spotify.com/track/5Cyl770vOUPdfxSTBPOdJ8"
@@ -1849,7 +1933,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-11-10",
       "duration_ms": 341254,
       "name": "Wireless MK2",
       "url": "https://open.spotify.com/track/7xF48L0fjSDWAlZxsY5Et6"
@@ -1867,7 +1951,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-30",
       "duration_ms": 304630,
       "name": "Wish I Had a Pretty Dog",
       "url": "https://open.spotify.com/track/6Uum9KIYa73OLiFZDRUWPZ"

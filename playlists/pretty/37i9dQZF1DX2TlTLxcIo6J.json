@@ -1,13 +1,29 @@
 {
-  "description": "From across the globe. New Songwriters on the horizon. Cover: <a href=\"https://artists.spotify.com/songwriter/7m03aDw5dqfBpheQEDSYGp\"> Nathan Galante.</a>",
-  "num_followers": 649,
+  "description": "From across the globe. New Songwriters on the horizon. Cover: <a href=\"spotify:artist:2YqJwmohaNjg9lg51flSax\"> Chiild.</a>",
+  "num_followers": 828,
   "original_name": "RADAR Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mjk5ODQwMCwwMDAwMDAwMDA5YWU2ODFiMjE4ZGY1ZjI2NWRjN2UyNzJkYjNiZWNh",
+  "snapshot_id": "MTY2ODY4ODk1MCwwMDAwMDAwMDE1Njc1YzgyZTUxYmM0ZjhkZWU0NDE3M2ZjNTY5YmZk",
   "tracks": [
+    {
+      "added_at": "2022-11-11 05:01:00",
+      "album": {
+        "name": "Bon Voyage",
+        "url": "https://open.spotify.com/album/4RNIu9tWTSeyO7FvDet105"
+      },
+      "artists": [
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        }
+      ],
+      "duration_ms": 167979,
+      "name": "Bon Voyage",
+      "url": "https://open.spotify.com/track/4fwuSvvoxTClVM4QYQGA6C"
+    },
     {
       "added_at": "2022-09-12 16:00:00",
       "album": {
@@ -112,7 +128,7 @@
       "added_at": "2022-05-27 04:01:00",
       "album": {
         "name": "No Romeo EP",
-        "url": "https://open.spotify.com/album/09ItArIl88LxU5InoksUTo"
+        "url": "https://open.spotify.com/album/6dpPmjQADL8JE813YWKfQ3"
       },
       "artists": [
         {
@@ -122,7 +138,7 @@
       ],
       "duration_ms": 191026,
       "name": "No Romeo",
-      "url": "https://open.spotify.com/track/2GNH6YhM2rBaJoxYKy0iF8"
+      "url": "https://open.spotify.com/track/2n4U8Qf9vkpl6rFQnXtLK5"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -139,6 +155,26 @@
       "duration_ms": 141081,
       "name": "love you more than me",
       "url": "https://open.spotify.com/track/3jc0jdopFsv3dYz5uo8OCr"
+    },
+    {
+      "added_at": "2022-11-11 05:01:00",
+      "album": {
+        "name": "Hope For Sale",
+        "url": "https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi"
+      },
+      "artists": [
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        },
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 226733,
+      "name": "Awake",
+      "url": "https://open.spotify.com/track/5XMtZsNkezcv695DQSZo0L"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -313,6 +349,22 @@
       "url": "https://open.spotify.com/track/1jL1WlEx5i1mLxrNpYxN8Y"
     },
     {
+      "added_at": "2022-11-11 05:01:00",
+      "album": {
+        "name": "Synthetic Soul",
+        "url": "https://open.spotify.com/album/3ZTUu9z3rxEC4MA9N4ZOzl"
+      },
+      "artists": [
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        }
+      ],
+      "duration_ms": 177226,
+      "name": "Pirouette",
+      "url": "https://open.spotify.com/track/5BfvUt5ztFuAyhWjgWzjr1"
+    },
+    {
       "added_at": "2022-07-22 04:01:00",
       "album": {
         "name": "Mala Man\u00eda",
@@ -435,8 +487,8 @@
     {
       "added_at": "2022-05-27 04:01:00",
       "album": {
-        "name": "Things You Said",
-        "url": "https://open.spotify.com/album/4Clwks3ojJZkBakCQGqeW9"
+        "name": "Weak Teeth",
+        "url": "https://open.spotify.com/album/1vRRpWjoj8bSCOY28wGWDy"
       },
       "artists": [
         {
@@ -446,7 +498,23 @@
       ],
       "duration_ms": 203140,
       "name": "Things You Said",
-      "url": "https://open.spotify.com/track/5MYAjxYvtSkUQzOgtnntTH"
+      "url": "https://open.spotify.com/track/6CJQts0D5UNDV1i2Q7Vdso"
+    },
+    {
+      "added_at": "2022-11-11 05:01:00",
+      "album": {
+        "name": "Hope For Sale",
+        "url": "https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi"
+      },
+      "artists": [
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        }
+      ],
+      "duration_ms": 184906,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/39ctmPVTtAMKeVJhMq5dS5"
     }
   ],
   "unique_name": "RADAR Songwriters",

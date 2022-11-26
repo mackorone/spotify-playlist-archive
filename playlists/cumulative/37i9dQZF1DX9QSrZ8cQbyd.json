@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 88328,
       "name": "A Little Lullaby",
       "url": "https://open.spotify.com/track/2ewmYhJp7ArgmJNHeToCs1"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 175996,
       "name": "Baby Schlaf",
       "url": "https://open.spotify.com/track/6lPOEtDEp60TrJgsNdsIw5"
@@ -365,6 +365,24 @@
       "duration_ms": 93041,
       "name": "Brahms Lullaby",
       "url": "https://open.spotify.com/track/3A9y8LdotnXHsvTJDpALbU"
+    },
+    {
+      "album": {
+        "name": "Brevet Fr\u00e5n Lillan",
+        "url": "https://open.spotify.com/album/68gTMIX1qtfW4hgmCY4MaQ"
+      },
+      "artists": [
+        {
+          "name": "Philip Underwood",
+          "url": "https://open.spotify.com/artist/13sNPmjdlpABLkWPJV2Z0J"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81078,
+      "name": "Brevet Fr\u00e5n Lillan - Music Box Version",
+      "url": "https://open.spotify.com/track/1EDDksXKRhBNWyXwyDyBjs"
     },
     {
       "album": {
@@ -973,7 +991,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 185644,
       "name": "Gymnop\u00e9die",
       "url": "https://open.spotify.com/track/0v7kquV0jG7radH78bvBgi"
@@ -1466,6 +1484,24 @@
     },
     {
       "album": {
+        "name": "Mors Lilla Olle",
+        "url": "https://open.spotify.com/album/6T95pqyEwi7mdO2jTwSuuz"
+      },
+      "artists": [
+        {
+          "name": "Algot Malkolmsson",
+          "url": "https://open.spotify.com/artist/4BV3JZZRbxITWwgpbgZHtQ"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50541,
+      "name": "Mors Lilla Olle \u2013 Music Box Version",
+      "url": "https://open.spotify.com/track/2lrGJeAQfdK8krGwwRLGUQ"
+    },
+    {
+      "album": {
         "name": "My Best Friend (Music Box)",
         "url": "https://open.spotify.com/album/2HVBSZTbSpTlS3MFHWyyuL"
       },
@@ -1700,6 +1736,24 @@
     },
     {
       "album": {
+        "name": "My Soft Pillow",
+        "url": "https://open.spotify.com/album/1b2l4jY7spYDBdmp0NqqJj"
+      },
+      "artists": [
+        {
+          "name": "Grady Spears",
+          "url": "https://open.spotify.com/artist/2GXt9sALXllpAl8Ywqc90Q"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97043,
+      "name": "My Soft Pillow",
+      "url": "https://open.spotify.com/track/1PBhznHauDIkiJYudOLlio"
+    },
+    {
+      "album": {
         "name": "Night In Time",
         "url": "https://open.spotify.com/album/0n8Oac4PcnBzbv1coiF2EW"
       },
@@ -1715,6 +1769,24 @@
       "duration_ms": 89907,
       "name": "Night In Time",
       "url": "https://open.spotify.com/track/6RJFYivvwI8BYVeslSwoM7"
+    },
+    {
+      "album": {
+        "name": "Norwegian Wood",
+        "url": "https://open.spotify.com/album/4IAqwqxzbFdz6S3auazPvW"
+      },
+      "artists": [
+        {
+          "name": "Orson's Library",
+          "url": "https://open.spotify.com/artist/5n0BuzcgaUOeZFWxetkykT"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93637,
+      "name": "Norwegian Wood - Music Box Version",
+      "url": "https://open.spotify.com/track/5Kv6c6VlHo8nCK5F9HOf7T"
     },
     {
       "album": {
@@ -1841,6 +1913,24 @@
       "duration_ms": 101500,
       "name": "Puppy Love",
       "url": "https://open.spotify.com/track/2yJmL5g8rcKi9qviTS2yQA"
+    },
+    {
+      "album": {
+        "name": "Raindrops Falling Down",
+        "url": "https://open.spotify.com/album/13VtBSodqgCU45yayCCC0W"
+      },
+      "artists": [
+        {
+          "name": "Russ Pettigrew",
+          "url": "https://open.spotify.com/artist/3f3dcPeDuB6DxuypFvvguG"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106486,
+      "name": "Raindrops Falling Down",
+      "url": "https://open.spotify.com/track/2wE0sOl5mLNz8qwLOzS2Z8"
     },
     {
       "album": {
@@ -1988,6 +2078,24 @@
     },
     {
       "album": {
+        "name": "Sleepy Eyes",
+        "url": "https://open.spotify.com/album/4YtEguKm1Xv9k39LzmdBP7"
+      },
+      "artists": [
+        {
+          "name": "Wright Priestley",
+          "url": "https://open.spotify.com/artist/0LaG9s5wrLFkfJNSQGwOwp"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101621,
+      "name": "Sleepy Eyes",
+      "url": "https://open.spotify.com/track/53mfvorO6wNhT0isp1gbE9"
+    },
+    {
+      "album": {
         "name": "Sleepy Pony",
         "url": "https://open.spotify.com/album/4ogJez3t6b71R4wetU5UBq"
       },
@@ -2003,6 +2111,24 @@
       "duration_ms": 82434,
       "name": "Sleepy Pony",
       "url": "https://open.spotify.com/track/0gcNpnplQquN7kAhIRV94O"
+    },
+    {
+      "album": {
+        "name": "Squirrels Dancing",
+        "url": "https://open.spotify.com/album/2QFk3E4Jpl1CyCFOfzIGhU"
+      },
+      "artists": [
+        {
+          "name": "Miss Goleta",
+          "url": "https://open.spotify.com/artist/4gSHS9XFrN73A6cBEbhSG8"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99691,
+      "name": "Squirrels Dancing",
+      "url": "https://open.spotify.com/track/7b6hFe41niNm2aUcTcgR60"
     },
     {
       "album": {
@@ -2402,6 +2528,24 @@
     },
     {
       "album": {
+        "name": "Tus primeros pasos",
+        "url": "https://open.spotify.com/album/3hgC8lKzHwTttPMOm10uzC"
+      },
+      "artists": [
+        {
+          "name": "Hermosa N\u00fa\u00f1ez",
+          "url": "https://open.spotify.com/artist/3Ra0Vdc2E07tJed3reKTwR"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89709,
+      "name": "Tus primeros pasos",
+      "url": "https://open.spotify.com/track/29cKxmS4PiBAF0GykKpS8L"
+    },
+    {
+      "album": {
         "name": "Twinkle Twinkle Little Star",
         "url": "https://open.spotify.com/album/5tqLaaETd1BYq5muZoirC8"
       },
@@ -2420,6 +2564,24 @@
     },
     {
       "album": {
+        "name": "Var Bor Du Lilla R\u00e5tta?",
+        "url": "https://open.spotify.com/album/7rbBgeI6yjKUsyGXanmt38"
+      },
+      "artists": [
+        {
+          "name": "Algot Malkolmsson",
+          "url": "https://open.spotify.com/artist/4BV3JZZRbxITWwgpbgZHtQ"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57971,
+      "name": "Vad Bor Du Lilla R\u00e5tta? - Music Box Version",
+      "url": "https://open.spotify.com/track/2HpXVgkbwLzyyW9zv1vRJa"
+    },
+    {
+      "album": {
         "name": "Visit the Rabbit",
         "url": "https://open.spotify.com/album/4gyPnrjegVhy1sNeljFU7n"
       },
@@ -2435,6 +2597,24 @@
       "duration_ms": 75130,
       "name": "Visit the Rabbit",
       "url": "https://open.spotify.com/track/1EBqHgwneHELPC9t5NCmeX"
+    },
+    {
+      "album": {
+        "name": "Waterfalls In The Paradise",
+        "url": "https://open.spotify.com/album/4GMFOj6VggPF1PwjREF5xX"
+      },
+      "artists": [
+        {
+          "name": "Sullivan Warwick",
+          "url": "https://open.spotify.com/artist/5OAkBWyxIwtaruygkronaF"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101621,
+      "name": "Waterfalls In The Paradise",
+      "url": "https://open.spotify.com/track/4oo3zhbO8fjDhxXI3wbBKZ"
     },
     {
       "album": {
@@ -2489,6 +2669,24 @@
       "duration_ms": 83785,
       "name": "When You Say Goodnight",
       "url": "https://open.spotify.com/track/79NuT2YtlM18mndrxJ07dN"
+    },
+    {
+      "album": {
+        "name": "Where is Teddy Mittens?",
+        "url": "https://open.spotify.com/album/78wOFvEEMh6igTRMoxdBYp"
+      },
+      "artists": [
+        {
+          "name": "Kaleb Terrell",
+          "url": "https://open.spotify.com/artist/0oiz2oryJ2DOvJAA98fPIJ"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94054,
+      "name": "Where is Teddy Mittens?",
+      "url": "https://open.spotify.com/track/4asWNTDsITcBTa7spbnpMU"
     },
     {
       "album": {

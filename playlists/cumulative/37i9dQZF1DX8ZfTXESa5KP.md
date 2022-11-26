@@ -2,7 +2,7 @@
 
 ### [CMA Awards 2022 Nominees](https://open.spotify.com/playlist/37i9dQZF1DX8ZfTXESa5KP)
 
-> Congratulations to all of the CMA Awards nominees! Watch the ceremony live on November 9th at 8/7c on ABC.
+> Congratulations to all of the CMA Awards nominees and winners!
 
 97 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/2baFyIMor5pPe6Ix610XeA)
 

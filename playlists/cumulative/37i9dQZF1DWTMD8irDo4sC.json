@@ -827,7 +827,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-10",
+      "date_removed": "2022-11-08",
       "duration_ms": 266175,
       "name": "Mishwar\u202b \u202c - Live",
       "url": "https://open.spotify.com/track/6S850blEnGG1CS6ehAi4Dk"
@@ -899,7 +899,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-28",
+      "date_removed": "2022-10-18",
       "duration_ms": 219560,
       "name": "No Longer Mine",
       "url": "https://open.spotify.com/track/2m7cnexJsp4w560WX86dDr"
@@ -1075,7 +1075,7 @@
     {
       "album": {
         "name": "Oumniya",
-        "url": "https://open.spotify.com/album/6GQNw3LhEnt6mekhNDafAK"
+        "url": "https://open.spotify.com/album/6q0t1SQ8v2P0rfTG2nN9xb"
       },
       "artists": [
         {
@@ -1086,6 +1086,24 @@
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 264506,
+      "name": "Salam",
+      "url": "https://open.spotify.com/track/2NHbmvLriduIB96qXrO3yr"
+    },
+    {
+      "album": {
+        "name": "Oumniya",
+        "url": "https://open.spotify.com/album/6GQNw3LhEnt6mekhNDafAK"
+      },
+      "artists": [
+        {
+          "name": "Souad Massi",
+          "url": "https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
       "duration_ms": 264506,
       "name": "Salam",
       "url": "https://open.spotify.com/track/79QnKnXkgvONM0Y3HlNA9K"
@@ -1317,10 +1335,28 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 290733,
       "name": "Wakfa",
       "url": "https://open.spotify.com/track/2rFOK6Wat6QKb3uqsXURgq"
+    },
+    {
+      "album": {
+        "name": "Oumniya",
+        "url": "https://open.spotify.com/album/6q0t1SQ8v2P0rfTG2nN9xb"
+      },
+      "artists": [
+        {
+          "name": "Souad Massi",
+          "url": "https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290733,
+      "name": "Wakfa",
+      "url": "https://open.spotify.com/track/39u6elNoM6r2ZwjHJ2q5rx"
     },
     {
       "album": {

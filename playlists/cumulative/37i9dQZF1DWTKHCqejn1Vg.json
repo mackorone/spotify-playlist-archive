@@ -273,6 +273,28 @@
     {
       "album": {
         "name": "Be there",
+        "url": "https://open.spotify.com/album/6odwfXAYu7AxHXpKRTKuGf"
+      },
+      "artists": [
+        {
+          "name": "DAVII",
+          "url": "https://open.spotify.com/artist/7qvsi3nQ5V6Np0MdEpdmoc"
+        },
+        {
+          "name": "PUN",
+          "url": "https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-21",
+      "duration_ms": 223008,
+      "name": "Be there",
+      "url": "https://open.spotify.com/track/5RAfPVfHgdSiIzQy0DHzyg"
+    },
+    {
+      "album": {
+        "name": "Be there",
         "url": "https://open.spotify.com/album/7AWQVSj3AYCK7kBdrf5ICJ"
       },
       "artists": [
@@ -495,7 +517,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 276186,
       "name": "Change (feat. sogumm)",
       "url": "https://open.spotify.com/track/5SVyk4OuhHUPg7uCAOB37f"
@@ -543,6 +565,24 @@
       "duration_ms": 231401,
       "name": "Choppy",
       "url": "https://open.spotify.com/track/6aCZBRe2y8fdKGehzthtzj"
+    },
+    {
+      "album": {
+        "name": "MaRz&B",
+        "url": "https://open.spotify.com/album/1j0f8acKHeC5DXhr7XSn93"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185169,
+      "name": "Chrome Hearts",
+      "url": "https://open.spotify.com/track/6HhLzoBF9T9Umq1PSn808Z"
     },
     {
       "album": {
@@ -781,7 +821,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 193844,
       "name": "Dawn Call",
       "url": "https://open.spotify.com/track/1e9JncQXdjM4DtFpyZrlU7"
@@ -865,6 +905,28 @@
       "duration_ms": 123829,
       "name": "Door To The Room",
       "url": "https://open.spotify.com/track/4xaMA6LgSXSJyJv4q5odqy"
+    },
+    {
+      "album": {
+        "name": "MaRz&B",
+        "url": "https://open.spotify.com/album/1j0f8acKHeC5DXhr7XSn93"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "DUT2",
+          "url": "https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213282,
+      "name": "Down (Feat. DUT2)",
+      "url": "https://open.spotify.com/track/37pJVBNb9B6LknUHU0Gh9K"
     },
     {
       "album": {
@@ -1319,7 +1381,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-11-06",
       "duration_ms": 193882,
       "name": "Get That Money",
       "url": "https://open.spotify.com/track/1Hmj4hRlzSfs7RA1jCkU5m"
@@ -1337,7 +1399,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": "2022-11-23",
       "duration_ms": 208740,
       "name": "glass",
       "url": "https://open.spotify.com/track/5AFRf43aEAoPzbF8UfQjbN"
@@ -1427,7 +1489,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 176126,
       "name": "Gunner",
       "url": "https://open.spotify.com/track/2s6mnu51NafM2OLVgdRhlF"
@@ -1485,6 +1547,28 @@
       "duration_ms": 183896,
       "name": "Hate this love",
       "url": "https://open.spotify.com/track/216Q6SYsRfTCU5FOZWedT0"
+    },
+    {
+      "album": {
+        "name": "Hated you",
+        "url": "https://open.spotify.com/album/58WbJyS4P3hjtwRcovgRRm"
+      },
+      "artists": [
+        {
+          "name": "entoy",
+          "url": "https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj"
+        },
+        {
+          "name": "suru",
+          "url": "https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209433,
+      "name": "Hated you",
+      "url": "https://open.spotify.com/track/4JHa3jIYMsdVuMpr6SpACx"
     },
     {
       "album": {
@@ -2400,6 +2484,28 @@
     },
     {
       "album": {
+        "name": "SOULBYSEL Compilation 03",
+        "url": "https://open.spotify.com/album/290gHiDTfO5EEP1j4VX7za"
+      },
+      "artists": [
+        {
+          "name": "SOULBYSEL",
+          "url": "https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp"
+        },
+        {
+          "name": "I.M",
+          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153686,
+      "name": "nvrmnd",
+      "url": "https://open.spotify.com/track/0xxtbKIRlFwQ8bZ16u7wJ4"
+    },
+    {
+      "album": {
         "name": "Conquest",
         "url": "https://open.spotify.com/album/0dL4MSbt5EwFdAXrLZOGTm"
       },
@@ -2771,7 +2877,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 163531,
       "name": "Replay",
       "url": "https://open.spotify.com/track/08PZbZWEUQJXjF6n5jyRT0"
@@ -3233,7 +3339,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-11-23",
       "duration_ms": 198000,
       "name": "Sunrise (Feat. EunBii)",
       "url": "https://open.spotify.com/track/0RLqnVxt7xUw9squmxCqkN"
@@ -3393,7 +3499,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 186600,
       "name": "Therapy (feat. MRSHLL)",
       "url": "https://open.spotify.com/track/7mSrPHeHxpxnIkc7M1k4pT"
@@ -3459,6 +3565,28 @@
       "duration_ms": 187716,
       "name": "Too Many",
       "url": "https://open.spotify.com/track/7pgxBn7bwuMXjVL0R8agyQ"
+    },
+    {
+      "album": {
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "ELO",
+          "url": "https://open.spotify.com/artist/33fY1P5TsAeEK2VgATvz1A"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243492,
+      "name": "Turn Off Your Phone (Feat. ELO) - Remix",
+      "url": "https://open.spotify.com/track/4AtDiqnMxDt8crflZWgZG5"
     },
     {
       "album": {

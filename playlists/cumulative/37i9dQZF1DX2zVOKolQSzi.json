@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Billionaire - 10's Most Upbeat Pop",
+        "url": "https://open.spotify.com/album/7CVsVD2xyKRlOTLnNvCD90"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2021-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 225983,
+      "name": "24K Magic",
+      "url": "https://open.spotify.com/track/3bO7y94nEH5eIhC1licVVa"
+    },
+    {
+      "album": {
         "name": "24K Magic",
         "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
       },
@@ -55,10 +73,28 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 169804,
       "name": "Alcool",
       "url": "https://open.spotify.com/track/61QDPNx0lMqM1pC9Bx8K6o"
+    },
+    {
+      "album": {
+        "name": "Alcool",
+        "url": "https://open.spotify.com/album/0yzYRvOYlV5ryYCAXUZAsG"
+      },
+      "artists": [
+        {
+          "name": "Brother Zulu",
+          "url": "https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw"
+        }
+      ],
+      "date_added": "2021-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169804,
+      "name": "Alcool",
+      "url": "https://open.spotify.com/track/6c6XMB1tD84ldzSBrbhHvA"
     },
     {
       "album": {
@@ -179,6 +215,24 @@
       "duration_ms": 169636,
       "name": "Call You Back",
       "url": "https://open.spotify.com/track/18IaulJ5ITzyQdDFyIsK1P"
+    },
+    {
+      "album": {
+        "name": "NOW That's What I Call Music, Vol. 59",
+        "url": "https://open.spotify.com/album/7Dt2L4GbuzNlvCJ09M6McQ"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "date_added": "2021-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 233946,
+      "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+      "url": "https://open.spotify.com/track/0j12Gr44QXICpHG970RbR7"
     },
     {
       "album": {
@@ -308,7 +362,7 @@
         },
         {
           "name": "Vulf",
-          "url": "https://open.spotify.com/artist/3zN4g0kL9VJNTVo5Woh5BL"
+          "url": "https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv"
         }
       ],
       "date_added": "2021-05-05",
@@ -518,7 +572,7 @@
         },
         {
           "name": "Vulf",
-          "url": "https://open.spotify.com/artist/3zN4g0kL9VJNTVo5Woh5BL"
+          "url": "https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv"
         }
       ],
       "date_added": "2021-05-05",
@@ -767,6 +821,24 @@
       "duration_ms": 252253,
       "name": "Jax",
       "url": "https://open.spotify.com/track/39PRMLzu72Nz6lSOCF3bWN"
+    },
+    {
+      "album": {
+        "name": "Electronic Summer",
+        "url": "https://open.spotify.com/album/5rOOEA8GedOU74lP05LUdc"
+      },
+      "artists": [
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        }
+      ],
+      "date_added": "2021-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 228026,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/0nixvV9CYUbjFozKKiQ8oa"
     },
     {
       "album": {

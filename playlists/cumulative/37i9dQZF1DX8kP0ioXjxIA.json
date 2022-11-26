@@ -1102,6 +1102,24 @@
     },
     {
       "album": {
+        "name": "The Future Is Female",
+        "url": "https://open.spotify.com/album/5hbJ2lUh2tAmrWMSAX3AYa"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 169566,
+      "name": "SOLO",
+      "url": "https://open.spotify.com/track/6ITEzSECbETYVnHG76yj3B"
+    },
+    {
+      "album": {
         "name": "Sour Candy (with BLACKPINK)",
         "url": "https://open.spotify.com/album/6y6lP1WRfqEhv8RLy4ufZB"
       },

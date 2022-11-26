@@ -163,7 +163,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 265224,
       "name": "Alone with You",
       "url": "https://open.spotify.com/track/3jLj7HQNl4LXc9vNuwcFyw"
@@ -675,7 +675,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": "2022-11-13",
       "duration_ms": 187371,
       "name": "Broken Heart",
       "url": "https://open.spotify.com/track/64kDGEpOWlkv2l6x4TVNOs"
@@ -863,7 +863,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": "2022-11-13",
       "duration_ms": 170600,
       "name": "Circles",
       "url": "https://open.spotify.com/track/14mBmB265dJ0UHPLXbbM6v"
@@ -1079,7 +1079,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": "2022-11-13",
       "duration_ms": 195520,
       "name": "Dead!",
       "url": "https://open.spotify.com/track/3262RRKqFC1oJXFwCMqgM0"
@@ -1263,7 +1263,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 196464,
       "name": "Down To Hell",
       "url": "https://open.spotify.com/track/3qKSl5qLMN1iBkUMmu32yX"
@@ -1393,7 +1393,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 204114,
       "name": "Everything You Want Me to Be",
       "url": "https://open.spotify.com/track/44DORmYYzUfVP1YKFgkLZn"
@@ -1415,6 +1415,24 @@
       "duration_ms": 201625,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/0jUb48UMAdHwmNeeg1ZpN0"
+    },
+    {
+      "album": {
+        "name": "Familiar Drugs",
+        "url": "https://open.spotify.com/album/6Cvt8vsgpxQ5DRG0nqW25B"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "date_added": "2020-11-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 258718,
+      "name": "Familiar Drugs",
+      "url": "https://open.spotify.com/track/5s3bk38b50O6LfZRwV8ApE"
     },
     {
       "album": {
@@ -1761,6 +1779,24 @@
       "duration_ms": 167041,
       "name": "Getaway Green",
       "url": "https://open.spotify.com/track/3pUJI1a0oZNHj9wRtZOf5O"
+    },
+    {
+      "album": {
+        "name": "Wake Up, Sunshine",
+        "url": "https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "date_added": "2020-11-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 167041,
+      "name": "Getaway Green",
+      "url": "https://open.spotify.com/track/6lMPUipRF49L8AxLW3F40B"
     },
     {
       "album": {
@@ -2135,7 +2171,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-11-13",
       "duration_ms": 239237,
       "name": "Hit Like A Girl",
       "url": "https://open.spotify.com/track/3kfghhJVXyT2W2TlP2Vsw9"
@@ -2304,6 +2340,24 @@
     },
     {
       "album": {
+        "name": "One Foot out the Door",
+        "url": "https://open.spotify.com/album/2obrFk3sGcVAE85Z9LCZJT"
+      },
+      "artists": [
+        {
+          "name": "SecondShot",
+          "url": "https://open.spotify.com/artist/1ZImVuFIqvP8USz3OVfxw9"
+        }
+      ],
+      "date_added": "2020-11-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 193560,
+      "name": "I Just Died in Your Arms",
+      "url": "https://open.spotify.com/track/1qfyKQeFz6l6h4caVLmNCW"
+    },
+    {
+      "album": {
         "name": "One Foot Out The Door",
         "url": "https://open.spotify.com/album/5uzCd2bpYjeUrgMr03JuTU"
       },
@@ -2333,10 +2387,32 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 193560,
       "name": "I Just Died in Your Arms",
       "url": "https://open.spotify.com/track/6M4FDzgFwe4FWq0rg8F6yC"
+    },
+    {
+      "album": {
+        "name": "i luv that u hate me",
+        "url": "https://open.spotify.com/album/0ry0pZr2APTC3hwSZuOk65"
+      },
+      "artists": [
+        {
+          "name": "Story Untold",
+          "url": "https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z"
+        },
+        {
+          "name": "Kellin Quinn",
+          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
+        }
+      ],
+      "date_added": "2020-11-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 221573,
+      "name": "i luv that u hate me",
+      "url": "https://open.spotify.com/track/4yqasUJVWKsy3sUr3fDFzx"
     },
     {
       "album": {
@@ -2405,7 +2481,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-23",
+      "date_removed": "2022-11-14",
       "duration_ms": 151521,
       "name": "If You Say So",
       "url": "https://open.spotify.com/track/4hxA5dS3eIAm4jkOLVfQDZ"
@@ -2639,7 +2715,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": "2022-11-13",
       "duration_ms": 177011,
       "name": "Like That",
       "url": "https://open.spotify.com/track/6FxIFdX1jeJYwPozaeqaZj"
@@ -2845,7 +2921,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": null,
       "duration_ms": 164485,
       "name": "My Town (feat. Joe Talbot)",
       "url": "https://open.spotify.com/track/2gxYf0Tdnn65M6HKzFU1ye"
@@ -2961,6 +3037,24 @@
       "duration_ms": 169427,
       "name": "Never Looked Better",
       "url": "https://open.spotify.com/track/1j5ekdnaFOw9ZC2otQd3MU"
+    },
+    {
+      "album": {
+        "name": "Lost Touch",
+        "url": "https://open.spotify.com/album/768qzd6dkobekdNcDtw8np"
+      },
+      "artists": [
+        {
+          "name": "We Were Sharks",
+          "url": "https://open.spotify.com/artist/5VJPxda81cx3ZGltjWM36I"
+        }
+      ],
+      "date_added": "2020-11-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 169427,
+      "name": "Never Looked Better",
+      "url": "https://open.spotify.com/track/3J7EQBETsamG1kWbaDsxNU"
     },
     {
       "album": {
@@ -3281,7 +3375,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": "2022-11-13",
       "duration_ms": 209826,
       "name": "Playing Dead",
       "url": "https://open.spotify.com/track/4KuwjTOfniivWFKJz3p1yW"
@@ -3483,6 +3577,24 @@
       "duration_ms": 204076,
       "name": "Reckless Paradise",
       "url": "https://open.spotify.com/track/3hjCqnOScnTmhv2Xvvv8Mq"
+    },
+    {
+      "album": {
+        "name": "Crisis Of Faith",
+        "url": "https://open.spotify.com/album/3PvuvoZpz2XWzVKMOi52hW"
+      },
+      "artists": [
+        {
+          "name": "Billy Talent",
+          "url": "https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg"
+        }
+      ],
+      "date_added": "2020-11-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 204076,
+      "name": "Reckless Paradise",
+      "url": "https://open.spotify.com/track/6sQD8a5zZ09yA60YkeqDRS"
     },
     {
       "album": {
@@ -3965,7 +4077,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 244564,
       "name": "Strain Your Memory",
       "url": "https://open.spotify.com/track/1d1az3MIWrJvcNrgNMJTYA"
@@ -4304,6 +4416,24 @@
     },
     {
       "album": {
+        "name": "Emo 2000s",
+        "url": "https://open.spotify.com/album/6YLLFMlYzwDiKTKeqIHMvQ"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2020-11-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 166040,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/67PzNQl5EyyrNBmFIM917G"
+    },
+    {
+      "album": {
         "name": "Bleed American (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4ZqTPNXU0MBXs2iCcwjOPe"
       },
@@ -4466,6 +4596,24 @@
     },
     {
       "album": {
+        "name": "20/20",
+        "url": "https://open.spotify.com/album/6m42SrPLrdXkjN3BT3UIlP"
+      },
+      "artists": [
+        {
+          "name": "Knuckle Puck",
+          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
+        }
+      ],
+      "date_added": "2020-11-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 178605,
+      "name": "Tune You Out",
+      "url": "https://open.spotify.com/track/2omnjJxsVxa75mlSMvLRac"
+    },
+    {
+      "album": {
         "name": "Underground",
         "url": "https://open.spotify.com/album/5odlFX6q0PglF7dGhsLzkf"
       },
@@ -4495,7 +4643,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 176893,
       "name": "Victory Lap",
       "url": "https://open.spotify.com/track/1p40MAvOzGAO07icf3MuAl"
@@ -4531,7 +4679,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-05",
+      "date_removed": "2022-11-14",
       "duration_ms": 211100,
       "name": "Want Me Around",
       "url": "https://open.spotify.com/track/1hWlZxzZWiXRkQy7ywSAmh"
@@ -4585,7 +4733,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 173600,
       "name": "What Are We Standing For",
       "url": "https://open.spotify.com/track/0TilqqFE4PTarkBCsx3udk"
@@ -4729,7 +4877,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-14",
       "duration_ms": 143808,
       "name": "Worries",
       "url": "https://open.spotify.com/track/5YtpGJgS6vBDMMaguVeRDG"

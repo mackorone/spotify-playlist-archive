@@ -482,6 +482,24 @@
     },
     {
       "album": {
+        "name": "El Flamenco es... Paco De Lucia",
+        "url": "https://open.spotify.com/album/4EtA69YGY0HJdIluqGUKGP"
+      },
+      "artists": [
+        {
+          "name": "Paco de Luc\u00eda",
+          "url": "https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 362093,
+      "name": "Entre Dos Aguas",
+      "url": "https://open.spotify.com/track/1VvRKrSSsTBctlbilgKHmm"
+    },
+    {
+      "album": {
         "name": "Fuente Y Caudal",
         "url": "https://open.spotify.com/album/1qJn2EkYTIIeq3wwvmbf7d"
       },
@@ -605,6 +623,24 @@
       "duration_ms": 250200,
       "name": "Gavil\u00e1n o Paloma",
       "url": "https://open.spotify.com/track/4Wg6Ggb6DY8OmlFQvvHO9b"
+    },
+    {
+      "album": {
+        "name": "M\u00fasica Argentina",
+        "url": "https://open.spotify.com/album/2PYXFKe2K01rtbLgV9XH85"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 263080,
+      "name": "Gracias A La Vida",
+      "url": "https://open.spotify.com/track/2rafEy8d80dJh7uUmk5r24"
     },
     {
       "album": {
@@ -1703,7 +1739,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 180733,
-      "name": "Volver Volver",
+      "name": "Volver, Volver",
       "url": "https://open.spotify.com/track/4Fvnz1ZJ86IdqDAepWYPAh"
     },
     {

@@ -55,7 +55,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 179706,
       "name": "(\u00c5h) N\u00e4r ni tar saken i egna h\u00e4nder",
       "url": "https://open.spotify.com/track/4WXnFwrGkrGYzwCImeuob6"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": "2022-11-13",
       "duration_ms": 239453,
       "name": "Avundsjuk",
       "url": "https://open.spotify.com/track/0cH3Fk2FKjblnoSwAaB1Mw"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": "2022-11-13",
       "duration_ms": 183466,
       "name": "Bara Hon \u00c4lskar Mig",
       "url": "https://open.spotify.com/track/5dEHUYf0NkT1pZeEJOCMsW"
@@ -505,7 +505,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 171133,
       "name": "Det b\u00f6rjar verka k\u00e4rlek, banne mig",
       "url": "https://open.spotify.com/track/63jf2xCWGFcq8KyQ5sme3T"
@@ -599,7 +599,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": "2022-11-14",
       "duration_ms": 169783,
       "name": "E' de' det h\u00e4r du kallar k\u00e4rlek",
       "url": "https://open.spotify.com/track/5MBBQ7P9AozcQ8lF7So1B3"
@@ -732,6 +732,24 @@
     },
     {
       "album": {
+        "name": "Fairytale",
+        "url": "https://open.spotify.com/album/6EWWmTEOXI58PL13vNk67S"
+      },
+      "artists": [
+        {
+          "name": "Alexander Rybak",
+          "url": "https://open.spotify.com/artist/3LLNDXrxL4uxXtnUJS5XWM"
+        }
+      ],
+      "date_added": "2019-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 182600,
+      "name": "Fairytale",
+      "url": "https://open.spotify.com/track/3MnAsEBBsEj86d03RgO4EM"
+    },
+    {
+      "album": {
         "name": "Fairytales",
         "url": "https://open.spotify.com/album/7k1b8wzjRsSTmIBuRlBrxp"
       },
@@ -801,6 +819,24 @@
       "duration_ms": 177893,
       "name": "Fr\u00e4mling",
       "url": "https://open.spotify.com/track/17zFOtbuquEAAxSttpfWWl"
+    },
+    {
+      "album": {
+        "name": "Hits",
+        "url": "https://open.spotify.com/album/1UAZLLyBwoQB9T5CIG0VSE"
+      },
+      "artists": [
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
+        }
+      ],
+      "date_added": "2019-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178226,
+      "name": "Fr\u00e4mling",
+      "url": "https://open.spotify.com/track/1FndLKa7Gs9S8WKVZuq4RL"
     },
     {
       "album": {
@@ -923,7 +959,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": "2022-11-13",
       "duration_ms": 181133,
       "name": "Groupie",
       "url": "https://open.spotify.com/track/4ldXgqnQ9jJ1mYRTmg9O9B"
@@ -1049,7 +1085,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 198434,
       "name": "Hold On - D&B Version",
       "url": "https://open.spotify.com/track/3mXXkDfLaCN5IaZpHVJPth"
@@ -1193,7 +1229,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-26",
+      "date_removed": "2022-11-13",
       "duration_ms": 163263,
       "name": "I Do Me",
       "url": "https://open.spotify.com/track/3dlu81sbakUxdtEHFnTJmz"
@@ -1247,7 +1283,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": "2022-11-13",
       "duration_ms": 166346,
       "name": "In The Club",
       "url": "https://open.spotify.com/track/3GbgOBpbw71zpy7lCnU6N6"
@@ -1301,7 +1337,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 182721,
       "name": "Jag vill om du v\u00e5gar",
       "url": "https://open.spotify.com/track/6BhB2xdAzeH8PWqr7qNeUw"
@@ -1319,7 +1355,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": "2022-11-13",
       "duration_ms": 181560,
       "name": "Jalla dansa sawa",
       "url": "https://open.spotify.com/track/6mn9gln5HdtYE11FOjQdxN"
@@ -1524,6 +1560,24 @@
     },
     {
       "album": {
+        "name": "La Det Swinge",
+        "url": "https://open.spotify.com/album/0R1rwfjIEAx03Pi41JZxRa"
+      },
+      "artists": [
+        {
+          "name": "Bobbysocks",
+          "url": "https://open.spotify.com/artist/7DNARXXVHkEPeSE1efUqfs"
+        }
+      ],
+      "date_added": "2019-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 173960,
+      "name": "La Det Swinge",
+      "url": "https://open.spotify.com/track/3IgpWvgCqZjqhsiKwzw1Q7"
+    },
+    {
+      "album": {
         "name": "Bobbysocks / Let It Swing - The Best Of Bobbysocks",
         "url": "https://open.spotify.com/album/1Y5N3dPwHgubECWrFqpG5T"
       },
@@ -1593,6 +1647,28 @@
       "duration_ms": 177013,
       "name": "La Voix",
       "url": "https://open.spotify.com/track/4eOtl9eGcrK5asFl2S1HPZ"
+    },
+    {
+      "album": {
+        "name": "La voix du nord",
+        "url": "https://open.spotify.com/album/0h8iIqw8uv8Rif7zPK8iml"
+      },
+      "artists": [
+        {
+          "name": "Malena Ernman",
+          "url": "https://open.spotify.com/artist/0muluUHym4N0wB62sD0MPo"
+        },
+        {
+          "name": "Fredrik Kempe",
+          "url": "https://open.spotify.com/artist/5a3wjp9dcWyJitaiwXIsC7"
+        }
+      ],
+      "date_added": "2019-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 177013,
+      "name": "La Voix",
+      "url": "https://open.spotify.com/track/7Kz4f9CgtAfbmPBMX5q2ZV"
     },
     {
       "album": {
@@ -1737,7 +1813,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": "2022-11-13",
       "duration_ms": 196013,
       "name": "Michelangelo (Men s\u00e5 svara d\u00e5!)",
       "url": "https://open.spotify.com/track/3qChO81Z9r3KDyIj4w1m4T"
@@ -1813,7 +1889,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-04",
+      "date_removed": "2022-11-20",
       "duration_ms": 182727,
       "name": "M\u00f6t mig i Gamla Stan",
       "url": "https://open.spotify.com/track/5uYkCI6EcIKq4EGlah4NLu"
@@ -1849,7 +1925,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-11-13",
       "duration_ms": 182306,
       "name": "Never Let It Go",
       "url": "https://open.spotify.com/track/28ihA2Fp5zRmcmi8hpfWiC"
@@ -2227,7 +2303,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": "2022-11-13",
       "duration_ms": 169120,
       "name": "Tempo",
       "url": "https://open.spotify.com/track/0yeg0NZmcZu6y6G9sdJliL"

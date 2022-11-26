@@ -358,6 +358,24 @@
     },
     {
       "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/7sv8d8tHuZTRzEmEOQFeoj"
+      },
+      "artists": [
+        {
+          "name": "The Gulls",
+          "url": "https://open.spotify.com/artist/2n0FlGHc3OxI0x2WI39BEc"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180340,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/3VpiTc2hSR4X5VUYQ5Td4Y"
+    },
+    {
+      "album": {
         "name": "Harlekin Dreams",
         "url": "https://open.spotify.com/album/1tiDmCVwb0zg46BADCJ4fQ"
       },
@@ -520,6 +538,24 @@
     },
     {
       "album": {
+        "name": "Here it Comes",
+        "url": "https://open.spotify.com/album/0BPIg1qCg8BVVQKTwYLOOU"
+      },
+      "artists": [
+        {
+          "name": "TrackTribe",
+          "url": "https://open.spotify.com/artist/4YKdSLESMOqzq5QSMAjCmv"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186333,
+      "name": "Here it Comes",
+      "url": "https://open.spotify.com/track/6h8p747HBdGCua6nTVpnYg"
+    },
+    {
+      "album": {
         "name": "Brother",
         "url": "https://open.spotify.com/album/2fX9niq6mAumSozu4KnPmB"
       },
@@ -568,7 +604,7 @@
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 172706,
+      "duration_ms": 173360,
       "name": "Honey",
       "url": "https://open.spotify.com/track/4gvttoQ87qNDYrtVX5TlHG"
     },
@@ -665,7 +701,7 @@
     {
       "album": {
         "name": "I Will Not Fall",
-        "url": "https://open.spotify.com/album/5WwQrLbHFyYbNUOCZZOKJc"
+        "url": "https://open.spotify.com/album/4FF8p2iHolmxGXmkWpEBdJ"
       },
       "artists": [
         {
@@ -676,6 +712,24 @@
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 209760,
+      "name": "I Will Not Fall",
+      "url": "https://open.spotify.com/track/0YLdPhWCwvYk3olzObwcZW"
+    },
+    {
+      "album": {
+        "name": "I Will Not Fall",
+        "url": "https://open.spotify.com/album/5WwQrLbHFyYbNUOCZZOKJc"
+      },
+      "artists": [
+        {
+          "name": "King King",
+          "url": "https://open.spotify.com/artist/4SXsNXgRundFdewI58vbZT"
+        }
+      ],
+      "date_added": "2020-08-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-09",
       "duration_ms": 209760,
       "name": "I Will Not Fall",
       "url": "https://open.spotify.com/track/1tTOz7GLFSObMxWJiCv8xx"
@@ -881,7 +935,7 @@
     {
       "album": {
         "name": "New World Arisin'",
-        "url": "https://open.spotify.com/album/6bMpIJaXWgVooTHrL29YLj"
+        "url": "https://open.spotify.com/album/2Kf2bhjzeCBhv2oT7ErMD4"
       },
       "artists": [
         {
@@ -892,6 +946,24 @@
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 231760,
+      "name": "Long Coal Train",
+      "url": "https://open.spotify.com/track/0S9mn8M7ZTfwXxPLxsdLOJ"
+    },
+    {
+      "album": {
+        "name": "New World Arisin'",
+        "url": "https://open.spotify.com/album/6bMpIJaXWgVooTHrL29YLj"
+      },
+      "artists": [
+        {
+          "name": "Big Head Todd and The Monsters",
+          "url": "https://open.spotify.com/artist/1lOQRP0UJWmpoDWBa8PB0B"
+        }
+      ],
+      "date_added": "2020-08-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-21",
       "duration_ms": 231760,
       "name": "Long Coal Train",
       "url": "https://open.spotify.com/track/2geemXTDk9V6Dazk9RyCfw"
@@ -1349,7 +1421,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 224773,
       "name": "Soul On Fire",
       "url": "https://open.spotify.com/track/2w7Lhu2qyIcqkBveFELEOT"
@@ -1371,6 +1443,24 @@
       "duration_ms": 224773,
       "name": "Soul On Fire",
       "url": "https://open.spotify.com/track/4Ebvh7oe6LJ0QdLtIOiaU5"
+    },
+    {
+      "album": {
+        "name": "Diary of a Soul Fiend",
+        "url": "https://open.spotify.com/album/5doTWaDPG8coY3SR6SQQc3"
+      },
+      "artists": [
+        {
+          "name": "Saint Jude",
+          "url": "https://open.spotify.com/artist/5bk7jL6NrCWUqdtZ6t9m8z"
+        }
+      ],
+      "date_added": "2020-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224773,
+      "name": "Soul On Fire",
+      "url": "https://open.spotify.com/track/4Qq0xEgR45Lf7iGpv6t0vD"
     },
     {
       "album": {

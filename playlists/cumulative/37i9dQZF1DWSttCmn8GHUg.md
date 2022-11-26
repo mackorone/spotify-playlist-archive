@@ -4,7 +4,7 @@
 
 > Patriotic country songs celebrating the land of the free and the home of the brave.
 
-120 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/2OfGSsRQrmUhNpqr9RXiRv)
+125 songs - 7 hr 38 min - [published](https://open.spotify.com/playlist/2OfGSsRQrmUhNpqr9RXiRv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Fifty Stars](https://open.spotify.com/track/36e3bRXpco1F7R0F0CyKLz) | [Brennley Brown](https://open.spotify.com/artist/4NNo3cmxrg4Z4ROBXfuEf8) | [Fifty Stars](https://open.spotify.com/album/5qzhN3KFkqnHvzhZ4f3bw4) | 3:28 | 2021-11-12 |  |
 | [Fly Over States](https://open.spotify.com/track/17X2tSzibD9n9QRjdExcWT) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [My Kinda Party](https://open.spotify.com/album/6gYk1JlSSmlUZGs1Lef1BI) | 3:38 | 2021-11-12 |  |
 | [For You](https://open.spotify.com/track/64bWFjtzBRVSllQz9H2RAY) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Act Of Valor](https://open.spotify.com/album/4DYnaZCZ0vvnBG67E8zTJn) | 4:49 | 2021-11-12 |  |
+| [Free](https://open.spotify.com/track/5t3aFNzwIEl8mxiR5abgJG) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [I Love Rock 'N' Roll: Anthems for Hard Times](https://open.spotify.com/album/3tnfZZT3fglzc62rC4R0zv) | 3:48 | 2022-07-01 | 2022-11-13 |
 | [Free](https://open.spotify.com/track/4BaAxwS4VoeCYk9TuXQs7f) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Foundation](https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT) | 3:48 | 2022-07-01 |  |
 | [Free](https://open.spotify.com/track/4bWlAEbGHhPKQNjhTstN2p) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Foundation](https://open.spotify.com/album/0Im5nUhAuNDSYVjfPh7RyS) | 3:48 | 2021-11-12 | 2022-07-29 |
 | [Free And Easy \(Down The Road I Go\)](https://open.spotify.com/track/4Ng7hGdPwpINleVecBWiOO) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Greatest Hits / Every Mile A Memory 2003 \- 2008](https://open.spotify.com/album/4iUwiEhZk4bbaoA6qiZSy6) | 3:21 | 2021-11-12 |  |
@@ -107,6 +108,7 @@
 | [The Dash](https://open.spotify.com/track/4F9pqprfOvnv4r2B1LjG9l) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [See You Tonight](https://open.spotify.com/album/4WzDgE5rtzgdklKFoDvUcw) | 3:44 | 2021-11-12 |  |
 | [The House That Built Me](https://open.spotify.com/track/02eD9ymfJOJOhM97HYp5R9) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Revolution](https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA) | 3:56 | 2021-11-12 |  |
 | [The Ones That Didn’t Make It Back Home](https://open.spotify.com/track/20vIaD2DFOxGqDvN0dlMEH) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [The Ones That Didn’t Make It Back Home](https://open.spotify.com/album/6dHn1cTLJ4CAlN2AyR3a1O) | 3:11 | 2021-11-12 | 2022-07-29 |
+| [The Ones That Didn’t Make It Back Home](https://open.spotify.com/track/5FuRFQ9pP3ftNZT4hgSqyw) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Late Nights And Longnecks \(Big Machine Radio Release Special\)](https://open.spotify.com/album/7zWRRC8wHbEVsFYEfQVqR8) | 3:11 | 2022-07-01 | 2022-11-13 |
 | [The Ones That Didn’t Make It Back Home](https://open.spotify.com/track/6Vmb8Ru0BvjWGozOVGApRd) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Late Nights And Longnecks](https://open.spotify.com/album/6k7PNoooJpFHVVd2ZE9t2K) | 3:11 | 2022-07-01 |  |
 | [The Weight Of The Badge](https://open.spotify.com/track/0sfbpQvVZ3Omt5M8dtONwH) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Honky Tonk Time Machine](https://open.spotify.com/album/1IwWcySO6hKQ8dsFVtJfz4) | 3:46 | 2021-11-12 |  |
 | [Til The Last Shot's Fired](https://open.spotify.com/track/5NA5FmzfDQPl6HWX4cYrh7) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Trace Adkins "X"](https://open.spotify.com/album/6aCFYxUYpZuhh6nXHSUerx) | 4:59 | 2021-11-12 |  |
@@ -116,11 +118,14 @@
 | [Unsung Heroes](https://open.spotify.com/track/2MZ3g4ISokDM6nVGxrCOFe) | [Darryl Worley](https://open.spotify.com/artist/4zIBkSJcqRp4ADuFI94WvO) | [Unsung Heroes](https://open.spotify.com/album/2fv3mG9eGbc7lpCEUKaTbB) | 3:47 | 2021-11-12 |  |
 | [USA](https://open.spotify.com/track/1Od5RPOmHmDoZ2HYct1IDg) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [USA](https://open.spotify.com/album/3c4FhI6rs61ojVXezxTrRn) | 2:55 | 2022-07-01 |  |
 | [We Didn't Have Much](https://open.spotify.com/track/0Iuw6WPws324i7G7sCejTX) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Straight Outta The Country](https://open.spotify.com/album/1rW4SdSGRziYMzyteohUwP) | 2:54 | 2022-07-01 |  |
+| [We Didn't Have Much](https://open.spotify.com/track/4WUJBgEvVaNyDnfmG2bpaQ) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [New Country Hits: January 2022](https://open.spotify.com/album/1zWgzrN2EaChN5QPgxdFca) | 2:54 | 2022-07-01 | 2022-11-14 |
 | [We Didn't Have Much](https://open.spotify.com/track/5v9jrgFC0zbE9Dagn1gg0G) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [We Didn't Have Much](https://open.spotify.com/album/1tuZaAJxEWDLVfqLTabteL) | 2:54 | 2021-11-12 | 2022-07-29 |
 | [We Were Rich \- New Version](https://open.spotify.com/track/3Lp2u6JS7yK45JtGlHLLCJ) | [Runaway June](https://open.spotify.com/artist/7yPbJOX7olhT3ynAyuj3Zl) | [We Were Rich \(New Version\)](https://open.spotify.com/album/3wnVc8g6CcliodnvrNmZTz) | 3:37 | 2021-11-12 |  |
+| [Where I Find God](https://open.spotify.com/track/1kczRjh9aT7N82jtCYbkqF) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw) | [4th of July](https://open.spotify.com/album/78gK94dhgh6ol8WkfX0L6f) | 4:09 | 2022-07-01 | 2022-11-13 |
 | [Where I Find God](https://open.spotify.com/track/6eQePEKwbt1y9CkCE6faYi) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw) | [Where I Find God](https://open.spotify.com/album/26pbiUILSs4FA7boHlB3QY) | 4:09 | 2021-11-12 | 2022-07-29 |
 | [Where I Find God](https://open.spotify.com/track/6jhLdxpo93lXFaJwX7znaa) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw) | [Stack of Records](https://open.spotify.com/album/7AzZB0UHZtWu7Ya8yQN3iW) | 4:09 | 2022-07-01 |  |
 | [Where The Green Grass Grows](https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Everywhere](https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9) | 3:21 | 2022-07-01 |  |
+| [Where The Green Grass Grows](https://open.spotify.com/track/6ppz9qjSVcrkZgPr1jtF6Y) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [McGRAW \(The Ultimate Collection\)](https://open.spotify.com/album/3ytKtBtqdHsj6XzNu0sMCT) | 3:22 | 2022-07-01 | 2022-11-13 |
 | [Where The Green Grass Grows](https://open.spotify.com/track/6MyusyuU2WhmXtraQXImIw) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Number One Hits](https://open.spotify.com/album/2H2XBOxn7GzKRcXpeYKUIn) | 3:22 | 2021-11-12 | 2022-07-29 |
 | [Where The Stars And Stripes And The Eagle Fly](https://open.spotify.com/track/1tTZM7LUDkxcykOVVIGW4W) | [Aaron Tippin](https://open.spotify.com/artist/4XwKU420OWVk38vz1KvH3M) | [Stars And Stripes](https://open.spotify.com/album/1mSzw5lUy0z6iIjBwkBmCK) | 3:48 | 2021-11-12 |  |
 | [Where Were You \(When the World Stopped Turning\)](https://open.spotify.com/track/3eSwvMfSA0Fyku6Ak5JEw0) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [34 Number Ones](https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN) | 5:05 | 2021-11-12 |  |

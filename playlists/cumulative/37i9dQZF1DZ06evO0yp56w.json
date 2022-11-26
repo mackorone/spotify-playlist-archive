@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-28",
+      "date_removed": null,
       "duration_ms": 245960,
       "name": "Algorithm",
       "url": "https://open.spotify.com/track/7f0vVL3xi4i78Rv5Ptn2s1"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 262200,
       "name": "Blackout",
       "url": "https://open.spotify.com/track/2nTgdpxwpXTk5x1c9yaO3W"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 441093,
       "name": "Citizen Erased",
       "url": "https://open.spotify.com/track/177MZraDAxjRqqtZBz5Vhn"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": "2022-10-13",
       "duration_ms": 288266,
       "name": "City of Delusion",
       "url": "https://open.spotify.com/track/3Sno9FE8r2uz8QP0MtnTPL"
@@ -199,10 +199,28 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 250860,
       "name": "Compliance",
       "url": "https://open.spotify.com/track/27hktiddJj63mK6gZAQp4q"
+    },
+    {
+      "album": {
+        "name": "Will Of The People",
+        "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250860,
+      "name": "Compliance",
+      "url": "https://open.spotify.com/track/6tpl3yuDnYHAHb6dY60p5O"
     },
     {
       "album": {
@@ -289,7 +307,7 @@
       ],
       "date_added": "2022-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": "2022-11-07",
       "duration_ms": 203177,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/5PCNd6UnT4y9Ygz0KFmIMC"
@@ -325,7 +343,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 230920,
       "name": "Follow Me",
       "url": "https://open.spotify.com/track/6r9tjMWLv8fNdZKKTnqCEr"
@@ -343,7 +361,7 @@
       ],
       "date_added": "2022-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 217034,
       "name": "Ghosts (How Can I Move On)",
       "url": "https://open.spotify.com/track/0C5U4go8KKWHmAipujRH6I"
@@ -422,6 +440,42 @@
     },
     {
       "album": {
+        "name": "Absolution",
+        "url": "https://open.spotify.com/album/0HcHPBu9aaF1MxOiZmUQTl"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 37666,
+      "name": "Interlude",
+      "url": "https://open.spotify.com/track/7gmQ329Ocmvb9OImqevFBF"
+    },
+    {
+      "album": {
+        "name": "Black Holes and Revelations",
+        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301386,
+      "name": "Invincible",
+      "url": "https://open.spotify.com/track/2zmR3FG7iOGDAdwrVPzdg9"
+    },
+    {
+      "album": {
         "name": "Kill Or Be Killed",
         "url": "https://open.spotify.com/album/7tg11V9qhF2C9OoJgB1fnX"
       },
@@ -451,7 +505,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 299060,
       "name": "Kill Or Be Killed",
       "url": "https://open.spotify.com/track/4scqfHWE0J9dgdbjqstjS3"
@@ -901,7 +955,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 299986,
       "name": "The 2nd Law: Isolated System",
       "url": "https://open.spotify.com/track/4nr4gSTFGmTTSbumSY3kfH"
@@ -1027,7 +1081,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 347813,
       "name": "United States of Eurasia (+Collateral Damage)",
       "url": "https://open.spotify.com/track/0tHbQRjL5phd8OoYl2Bdnd"
@@ -1142,6 +1196,24 @@
     },
     {
       "album": {
+        "name": "Will Of The People",
+        "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209061,
+      "name": "Won\u2019t Stand Down",
+      "url": "https://open.spotify.com/track/6Wi8Byfq6xH0lEkqZbOZg9"
+    },
+    {
+      "album": {
         "name": "Won\u2019t Stand Down",
         "url": "https://open.spotify.com/album/3bbeAIMaGSW6gUMeGqw5VS"
       },
@@ -1153,7 +1225,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 209061,
       "name": "Won\u2019t Stand Down",
       "url": "https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz"

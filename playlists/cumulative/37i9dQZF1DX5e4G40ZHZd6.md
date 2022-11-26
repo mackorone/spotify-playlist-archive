@@ -4,7 +4,7 @@
 
 > The very best Blues out of the heart of Northern Mississippi\. Cover: R.L\. Burnside
 
-57 songs - 3 hr 54 min - [published](https://open.spotify.com/playlist/12p7yPNty8Ri63ExFtFGMS)
+60 songs - 4 hr 4 min - [published](https://open.spotify.com/playlist/12p7yPNty8Ri63ExFtFGMS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Crawling Kingsnake \- Edit](https://open.spotify.com/track/1JM1iGpu8HqprmrKi1ukuP) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Delta Kream](https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki) | 3:52 | 2021-06-24 |  |
 | [Crawling Kingsnake \- Edit](https://open.spotify.com/track/6ReF4Cn3aG4ehqC4NdrLrV) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Crawling Kingsnake](https://open.spotify.com/album/2nK8Pcq0cWqWC0lPapfEcL) | 3:52 | 2021-06-24 | 2022-07-29 |
 | [Cut You Loose](https://open.spotify.com/track/59ColbZ3X09ijVX5awG8jQ) | [T\-Model Ford](https://open.spotify.com/artist/6UPc3Hp8YHwIF00yq46kwN) | [Pee\-Wee Get My Gun](https://open.spotify.com/album/2SD5yMagI9ODvFVtfS9ymi) | 3:25 | 2021-06-24 |  |
+| [Don't Let The Devil Ride](https://open.spotify.com/track/5FAyOBPm74r9Sr53YeeO4g) | [Leo "Bud" Welch](https://open.spotify.com/artist/5UWSCmjMiTImIru9iAvNFd) | [Don't Let The Devil Ride](https://open.spotify.com/album/0gvbQM86z3R4wvGsCRKUY0) | 2:45 | 2021-06-24 | 2022-11-13 |
 | [Don't Let the Devil Ride](https://open.spotify.com/track/5RUJ4EFMAaWdtvso1j8kLT) | [Leo "Bud" Welch](https://open.spotify.com/artist/5UWSCmjMiTImIru9iAvNFd) | [The Angels in Heaven Done Signed My Name](https://open.spotify.com/album/5qiokBP05cRxwpCLqocWn7) | 2:45 | 2021-06-24 | 2022-07-29 |
 | [Don't Let The Devil Ride](https://open.spotify.com/track/5ZwVWdXaJSMnqduVaDXKrn) | [Leo "Bud" Welch](https://open.spotify.com/artist/5UWSCmjMiTImIru9iAvNFd) | [The Angels In Heaven Done Signed My Name](https://open.spotify.com/album/1NJxrv2i8o2eOuRHS6kRxa) | 2:45 | 2021-06-24 |  |
 | [Dough Roller Blues](https://open.spotify.com/track/5WASqpXmOdscBihwSp8gHF) | [Ranie Burnette](https://open.spotify.com/artist/7oBXyO32Jye8fDiyzFdrPU) | [Ranie Burnette](https://open.spotify.com/album/3Tg4j9RP1V2SB6bNXsvO4B) | 5:44 | 2021-06-24 |  |
@@ -37,6 +38,7 @@
 | [Let My Baby Ride](https://open.spotify.com/track/7tokOMPzSHbLJVZh8an2Nq) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [Come on In](https://open.spotify.com/album/6QyepVbPWpjsQZAEgqmDsJ) | 3:00 | 2021-06-24 |  |
 | [Levee Camp Blues](https://open.spotify.com/track/1xiz50DILQDPFtYspLGMyk) | [Mississippi Fred McDowell](https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ) | [This Ain't No Rock N' Roll](https://open.spotify.com/album/3Bxk6XdUbr21yE0YgzwcUo) | 5:34 | 2021-06-24 | 2022-07-29 |
 | [Levee Camp Blues](https://open.spotify.com/track/2w2qoVTeh5uDOKy1pLMmTp) | [Mississippi Fred McDowell](https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ) | [This Ain't No Rock n' Roll](https://open.spotify.com/album/3Y9ZhOXORSmzayPHuyLAFl) | 5:34 | 2021-06-24 |  |
+| [Levee Camp Blues](https://open.spotify.com/track/2KjU7RHXVbDN5xsWGVMZjt) | [Mississippi Fred McDowell](https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ) | [The Best of Mississippi Fred Mcdowell](https://open.spotify.com/album/7eFEq28tRcPVgjTpWEfH2c) | 5:35 | 2021-06-24 | 2022-11-13 |
 | [Louise](https://open.spotify.com/track/6tuTSXsYierm7sJbF65QMD) | [Mississippi Fred McDowell](https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ) | [You Gotta Move](https://open.spotify.com/album/5nJz88Bfi3okSgLuLLDfX1) | 3:58 | 2021-06-24 |  |
 | [Mama, Look at Sis](https://open.spotify.com/track/3GtaAwcdUL5GsEQtoZVUZb) | [Uncle Ben and His Nephews](https://open.spotify.com/artist/0O7wYLouQjRKeiouwS8OZB) | [Deep South Blues](https://open.spotify.com/album/29N0NCZ4mgMxsprB61U1sQ) | 3:48 | 2021-06-24 |  |
 | [Meet Me in the City](https://open.spotify.com/track/5LmmZgxFg1sSfxENxsdtak) | [Junior Kimbrough](https://open.spotify.com/artist/03HEHGJoLPdARs4nrtUidr) | [First Recordings](https://open.spotify.com/album/5OfjjEzy7ofCj2EZDOKZ87) | 2:31 | 2021-06-24 |  |
@@ -62,6 +64,7 @@
 | [Station Blues](https://open.spotify.com/track/4UitJ6h1WHDJGHxOieVEIn) | [Otha Turner & The Afrossippi Allstars](https://open.spotify.com/artist/6ybv0R1RyZrDLZYeKRm8FD) | [From Senegal to Senatobia](https://open.spotify.com/album/4C1iDQOYYRgXD2Cxpp4G91) | 4:55 | 2021-06-24 |  |
 | [Step In](https://open.spotify.com/track/1b44sEBiYyl35EbYDgNGfk) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [I Be Trying](https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY) | 2:35 | 2021-06-24 |  |
 | [Step In](https://open.spotify.com/track/3NG5DtW4VQT7DjNzWtVNTy) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Step In](https://open.spotify.com/album/3Ia0YigWnUyqgjoLgSnFCg) | 2:35 | 2021-06-24 | 2022-07-29 |
+| [Step In](https://open.spotify.com/track/3RI449DPz5BeY9927KWYlH) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Step In](https://open.spotify.com/album/0VhKwExkg99sIQA9xwBCbD) | 2:35 | 2021-06-24 | 2022-11-13 |
 | [We Made It](https://open.spotify.com/track/4tYceKEtQBXxRQfLxuDRYb) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Benton County Relic](https://open.spotify.com/album/6N2kgU28H4AZWrsnw8IVeu) | 3:34 | 2021-06-24 |  |
 | [We Made It](https://open.spotify.com/track/7grmdH9UkWas0f6R7tycoB) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Benton County Relic](https://open.spotify.com/album/2qwusH3jkwaQepmNSLR8rO) | 3:34 | 2021-06-24 | 2022-07-29 |
 | [Write Me a Few Lines](https://open.spotify.com/track/7wBkT3b1nMXfPH7OKji5yj) | [Mississippi Fred McDowell](https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ) | [You Gotta Move](https://open.spotify.com/album/5nJz88Bfi3okSgLuLLDfX1) | 3:37 | 2021-06-24 |  |

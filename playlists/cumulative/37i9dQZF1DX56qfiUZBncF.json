@@ -81,7 +81,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": null,
       "duration_ms": 246409,
       "name": "A Million Times - HONNE remix",
       "url": "https://open.spotify.com/track/4jl8EJQFGQ5sdYmgJp5p9v"
@@ -179,7 +179,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 213936,
       "name": "Arcadia",
       "url": "https://open.spotify.com/track/30AeH6saju8WPJo73cKZyH"
@@ -233,7 +233,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": "2022-11-14",
       "duration_ms": 135601,
       "name": "Atmosphere",
       "url": "https://open.spotify.com/track/35Q2DPpgCjiDJlkruwfTWe"
@@ -349,7 +349,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": "2022-11-13",
       "duration_ms": 220298,
       "name": "Behind",
       "url": "https://open.spotify.com/track/6ydBCO7odHKV6OXZFVeo6f"
@@ -761,7 +761,7 @@
       ],
       "date_added": "2021-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-04",
+      "date_removed": null,
       "duration_ms": 236338,
       "name": "Cold Blood",
       "url": "https://open.spotify.com/track/59q3NPvBNdLYNFijAZcwAK"
@@ -881,7 +881,7 @@
     {
       "album": {
         "name": "true colors (from Life is Strange)",
-        "url": "https://open.spotify.com/album/6wplPsthY2RZExLI73Gclg"
+        "url": "https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h"
       },
       "artists": [
         {
@@ -892,6 +892,24 @@
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 210600,
+      "name": "creep",
+      "url": "https://open.spotify.com/track/1CSue9uoEXv1w2YwfSjaCY"
+    },
+    {
+      "album": {
+        "name": "true colors (from Life is Strange)",
+        "url": "https://open.spotify.com/album/6wplPsthY2RZExLI73Gclg"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
       "duration_ms": 210600,
       "name": "creep",
       "url": "https://open.spotify.com/track/7aHKcqM6ooNnM122ydEyGq"
@@ -1064,6 +1082,24 @@
     },
     {
       "album": {
+        "name": "Far From Here",
+        "url": "https://open.spotify.com/album/0Mi6vGX45V3NRMY981idqZ"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260338,
+      "name": "Edge Of The Dark",
+      "url": "https://open.spotify.com/track/5OLec5tme4i5o5pUXpiGop"
+    },
+    {
+      "album": {
         "name": "Emotion feat. Wild Nothing",
         "url": "https://open.spotify.com/album/2p6O1yfG7YGebBhfUBD3LH"
       },
@@ -1137,10 +1173,28 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 280055,
       "name": "Fading",
       "url": "https://open.spotify.com/track/2fKEunM0KZVpVLwlvmVlDZ"
+    },
+    {
+      "album": {
+        "name": "Fading",
+        "url": "https://open.spotify.com/album/7GCPAZQCDwH0jF731PGq0I"
+      },
+      "artists": [
+        {
+          "name": "Vallis Alps",
+          "url": "https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282701,
+      "name": "Fading",
+      "url": "https://open.spotify.com/track/1H8qj01KxNgHyKHsF5QHXB"
     },
     {
       "album": {
@@ -1155,7 +1209,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-16",
+      "date_removed": "2022-11-14",
       "duration_ms": 240108,
       "name": "Fallss",
       "url": "https://open.spotify.com/track/3rO7acmvb3TTaFBUD9jI1i"
@@ -1278,6 +1332,28 @@
     },
     {
       "album": {
+        "name": "Polydans Remixes",
+        "url": "https://open.spotify.com/album/277wPb0R66H8K90bJMksyG"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        },
+        {
+          "name": "Gerd Janson",
+          "url": "https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 239788,
+      "name": "Feels Right - Gerd Janson Remix - Radio Edit",
+      "url": "https://open.spotify.com/track/0x7IgG3pJHBUoULcsaPFpr"
+    },
+    {
+      "album": {
         "name": "Feels Right (Gerd Janson Remix)",
         "url": "https://open.spotify.com/album/5iamscXb0VlnJmEkBi33uP"
       },
@@ -1359,6 +1435,28 @@
       "duration_ms": 207499,
       "name": "Fluff",
       "url": "https://open.spotify.com/track/0dIjXvuRcRJKMqiofuFeyc"
+    },
+    {
+      "album": {
+        "name": "are we?",
+        "url": "https://open.spotify.com/album/4tl1xL2MeyURq8Vk3enaze"
+      },
+      "artists": [
+        {
+          "name": "slenderbodies",
+          "url": "https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA"
+        },
+        {
+          "name": "Tim Atlas",
+          "url": "https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 207118,
+      "name": "focus (with Tim Atlas)",
+      "url": "https://open.spotify.com/track/24np6zeKNIU28oY3CAvQCh"
     },
     {
       "album": {
@@ -1493,7 +1591,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": "2022-11-13",
       "duration_ms": 223001,
       "name": "Give Me Space (feat. The Kite String Tangle)",
       "url": "https://open.spotify.com/track/1eJaHVCXkDnZcB9yB8buJ9"
@@ -1587,7 +1685,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 203768,
       "name": "Gone",
       "url": "https://open.spotify.com/track/20aUwrJ5GXdwFW5YgEyUiP"
@@ -1791,7 +1889,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": true,
-      "date_removed": "2021-10-20",
+      "date_removed": "2022-11-13",
       "duration_ms": 201223,
       "name": "Holy Soul",
       "url": "https://open.spotify.com/track/3iRIduYS85sZeCE66yPODE"
@@ -2247,7 +2345,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 196000,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/0q6BSDsaOryg8o396XTC8g"
@@ -2327,6 +2425,24 @@
       "duration_ms": 164330,
       "name": "lockdown",
       "url": "https://open.spotify.com/track/652CTaKzVGhRewB8BfCCPk"
+    },
+    {
+      "album": {
+        "name": "Lose Your Head",
+        "url": "https://open.spotify.com/album/3GVvY4JcpKJcGt7yawKiAl"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 199996,
+      "name": "Lose Your Head",
+      "url": "https://open.spotify.com/track/0lTNcrrVOlHJSuDXYNSkOH"
     },
     {
       "album": {
@@ -2698,6 +2814,32 @@
     },
     {
       "album": {
+        "name": "Never Gonna Forget (with Diplo feat. Elderbrook)",
+        "url": "https://open.spotify.com/album/0GqBHBdVgx0H48cON75KE4"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 199768,
+      "name": "Never Gonna Forget (with Diplo feat. Elderbrook)",
+      "url": "https://open.spotify.com/track/12aAoKT43mVGdW1ofZVCwr"
+    },
+    {
+      "album": {
         "name": "Nighttime Hunger",
         "url": "https://open.spotify.com/album/5FHk81rWbbh4hNGnbnNNvm"
       },
@@ -2908,6 +3050,24 @@
     },
     {
       "album": {
+        "name": "Letter Blue",
+        "url": "https://open.spotify.com/album/2EfIa1JzzYjckiiEbtM7g3"
+      },
+      "artists": [
+        {
+          "name": "Wet",
+          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-18",
+      "duration_ms": 248406,
+      "name": "On Your Side",
+      "url": "https://open.spotify.com/track/7eibB2Fznm06VctGGJnYd9"
+    },
+    {
+      "album": {
         "name": "One & Only",
         "url": "https://open.spotify.com/album/1yggNykuBhJfkYibz3hmhN"
       },
@@ -2919,7 +3079,7 @@
       ],
       "date_added": "2021-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 246750,
       "name": "One & Only",
       "url": "https://open.spotify.com/track/7pOYphM23vrb84EESH2cN7"
@@ -3150,6 +3310,24 @@
     },
     {
       "album": {
+        "name": "Size of Relief",
+        "url": "https://open.spotify.com/album/0DdOMiD6kPE0Kv119dNZCI"
+      },
+      "artists": [
+        {
+          "name": "Young & Sick",
+          "url": "https://open.spotify.com/artist/3pQXFWbvLit77NpvNmOo3k"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 246118,
+      "name": "Queen of the Valley",
+      "url": "https://open.spotify.com/track/164PqKYitMXTrr8nMt7owN"
+    },
+    {
+      "album": {
         "name": "Queen of the Valley",
         "url": "https://open.spotify.com/album/4BvUzGeo3jxhyz44CfVRnU"
       },
@@ -3187,7 +3365,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": true,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 244158,
       "name": "Rebound",
       "url": "https://open.spotify.com/track/5VhqfEogUz8FvBZrFK8I4M"
@@ -3292,6 +3470,24 @@
     },
     {
       "album": {
+        "name": "Can You Afford To Lose Me?",
+        "url": "https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196226,
+      "name": "Scarlett",
+      "url": "https://open.spotify.com/track/5UqTWnG7YZAbj1SYMvnGsU"
+    },
+    {
+      "album": {
         "name": "Scarlett",
         "url": "https://open.spotify.com/album/3Ib4FYFZTU0cmLZJRNUBkh"
       },
@@ -3321,7 +3517,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 196226,
       "name": "Scarlett",
       "url": "https://open.spotify.com/track/6dIU41Lx5NqUncAnPOJDco"
@@ -3525,7 +3721,7 @@
       ],
       "date_added": "2020-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 178426,
       "name": "Something Has Changed",
       "url": "https://open.spotify.com/track/5ZHPjF87Mcry4c78EXOipS"
@@ -4127,7 +4323,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 240000,
       "name": "Trouble to Share",
       "url": "https://open.spotify.com/track/2Z4TNNcJCzsEmecTUQdE2B"
@@ -4185,7 +4381,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": true,
-      "date_removed": "2021-10-20",
+      "date_removed": "2022-11-13",
       "duration_ms": 251294,
       "name": "Tunnels and Planes",
       "url": "https://open.spotify.com/track/4yjfM171SimZyctF5W3yoX"
@@ -4305,6 +4501,24 @@
       "duration_ms": 151733,
       "name": "Who Knows",
       "url": "https://open.spotify.com/track/5y3bKiKKRKEeuPPwuxMyUA"
+    },
+    {
+      "album": {
+        "name": "Bless You",
+        "url": "https://open.spotify.com/album/1IOyct7shyBK5fwXUajCIr"
+      },
+      "artists": [
+        {
+          "name": "Cool Company",
+          "url": "https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151733,
+      "name": "Who Knows",
+      "url": "https://open.spotify.com/track/6FwgXgeoZkzn5iUcppWK3a"
     },
     {
       "album": {
@@ -4541,7 +4755,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": true,
-      "date_removed": "2021-10-20",
+      "date_removed": "2022-11-13",
       "duration_ms": 197447,
       "name": "Youth",
       "url": "https://open.spotify.com/track/3bfZPCm4UrEEmrayPyxtbU"

@@ -241,12 +241,38 @@
     {
       "album": {
         "name": "People (Live)",
+        "url": "https://open.spotify.com/album/2YRlXTl0heTfVc5oWmGLsg"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "Chris Davenport",
+          "url": "https://open.spotify.com/artist/4nethjIvc2RFvmhvssVdAD"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 393346,
+      "name": "Another In The Fire - Live",
+      "url": "https://open.spotify.com/track/33zmnhKQpbGq73yKcLP9El"
+    },
+    {
+      "album": {
+        "name": "People (Live)",
         "url": "https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD"
       },
       "artists": [
         {
           "name": "Hillsong UNITED",
           "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "Chris Davenport",
+          "url": "https://open.spotify.com/artist/6Lu7A9Om0rGL9dgzDLR1ed"
         }
       ],
       "date_added": "2021-07-30",
@@ -510,6 +536,24 @@
     },
     {
       "album": {
+        "name": "The All Sons & Daughters Collection",
+        "url": "https://open.spotify.com/album/3Z0ByqDlZa1julfE0Gt9mk"
+      },
+      "artists": [
+        {
+          "name": "All Sons & Daughters",
+          "url": "https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 355239,
+      "name": "Called Me Higher",
+      "url": "https://open.spotify.com/track/4QpqJ4AzFGV0gTqvOaIFCK"
+    },
+    {
+      "album": {
         "name": "The Longing",
         "url": "https://open.spotify.com/album/5eGkHTfJHgDOsF7KbcZfNc"
       },
@@ -528,8 +572,8 @@
     },
     {
       "album": {
-        "name": "The All Sons & Daughters Collection",
-        "url": "https://open.spotify.com/album/3Z0ByqDlZa1julfE0Gt9mk"
+        "name": "The Longing EP No. 3",
+        "url": "https://open.spotify.com/album/6FtPavcTVLGwBth2axzR9I"
       },
       "artists": [
         {
@@ -548,9 +592,9 @@
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 355239,
+      "duration_ms": 355320,
       "name": "Called Me Higher",
-      "url": "https://open.spotify.com/track/4QpqJ4AzFGV0gTqvOaIFCK"
+      "url": "https://open.spotify.com/track/23AX1TW2CCpmqXtktvYe42"
     },
     {
       "album": {
@@ -685,8 +729,8 @@
       },
       "artists": [
         {
-          "name": "Kings (MHM)",
-          "url": "https://open.spotify.com/artist/64bkd3Cql2VeQBIfl5tjCC"
+          "name": "Kings Kaleidoscope",
+          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
         }
       ],
       "date_added": "2021-07-30",
@@ -829,7 +873,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-31",
+      "date_removed": "2022-11-13",
       "duration_ms": 264617,
       "name": "Dancing on the Moon",
       "url": "https://open.spotify.com/track/7w0JJqemxICJVhhZn2i8ut"
@@ -955,7 +999,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 42373,
       "name": "Doxology",
       "url": "https://open.spotify.com/track/475fggJIgGaM2dgjZrsPnL"
@@ -995,7 +1039,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-11",
+      "date_removed": "2022-11-20",
       "duration_ms": 124311,
       "name": "Doxology (feat. Selah)",
       "url": "https://open.spotify.com/track/7eDggDAqjNLmvPsWR4W4LY"
@@ -1031,7 +1075,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-31",
+      "date_removed": "2022-11-13",
       "duration_ms": 279253,
       "name": "Doxology//Amen",
       "url": "https://open.spotify.com/track/4cQkz0txDhGT7Y321gfGho"
@@ -1137,7 +1181,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-28",
+      "date_removed": null,
       "duration_ms": 264480,
       "name": "Far Kingdom",
       "url": "https://open.spotify.com/track/0FqK5zRZm46125vbLR7K6v"
@@ -1677,6 +1721,24 @@
     {
       "album": {
         "name": "Songs For Christmas",
+        "url": "https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230013,
+      "name": "Holy, Holy, Holy",
+      "url": "https://open.spotify.com/track/4NTab2bmkCKaCB4F2qvDdg"
+    },
+    {
+      "album": {
+        "name": "Songs For Christmas",
         "url": "https://open.spotify.com/album/6ZCbYO3B5eslkY3zHdss4A"
       },
       "artists": [
@@ -1723,7 +1785,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 303946,
       "name": "How Deep",
       "url": "https://open.spotify.com/track/2aeu7z7IAokrS2uowbiNkq"
@@ -1799,7 +1861,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 185080,
       "name": "How Deep The Father's Love For Us",
       "url": "https://open.spotify.com/track/0HHFjgCLYoc1KUxGaJAWt1"
@@ -1987,7 +2049,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 282706,
       "name": "I'll Fly Away",
       "url": "https://open.spotify.com/track/3Ibqth7iNwWwM28ZWcLk3Q"
@@ -2005,7 +2067,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-10",
+      "date_removed": null,
       "duration_ms": 297333,
       "name": "In Christ Alone / The Solid Rock - Medley",
       "url": "https://open.spotify.com/track/7lFVnw9VGXTxUcjlrSH4g6"
@@ -2373,7 +2435,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-04",
+      "date_removed": null,
       "duration_ms": 319960,
       "name": "Man of Sorrows",
       "url": "https://open.spotify.com/track/2ok2FRBdJTClHUN68whaEE"
@@ -3279,7 +3341,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-06",
       "duration_ms": 297125,
       "name": "The Stand",
       "url": "https://open.spotify.com/track/2JwkJmy6oO38biks4DHDfK"
@@ -3575,7 +3637,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 229373,
       "name": "Turn Your Eyes Upon Jesus",
       "url": "https://open.spotify.com/track/3yMbyjwBb3kJyBnA0UXy65"
@@ -3788,6 +3850,24 @@
     },
     {
       "album": {
+        "name": "Prepare Him Room: Celebrating the Birth of Jesus in Song",
+        "url": "https://open.spotify.com/album/3HouSjml2OClLww1sAKA0W"
+      },
+      "artists": [
+        {
+          "name": "Sovereign Grace Music",
+          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232506,
+      "name": "Who Would Have Dreamed",
+      "url": "https://open.spotify.com/track/4jTuubX6rorxTmB2sAz6qf"
+    },
+    {
+      "album": {
         "name": "Hear (Live)",
         "url": "https://open.spotify.com/album/2lEAHW9pdH9fWTbIgngkqK"
       },
@@ -3861,7 +3941,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 318566,
       "name": "You Are My All In All",
       "url": "https://open.spotify.com/track/28WU7koB2YsCtoTfsGwOb9"

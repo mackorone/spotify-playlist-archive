@@ -98,6 +98,24 @@
     },
     {
       "album": {
+        "name": "Corridos",
+        "url": "https://open.spotify.com/album/2fWw0YNDXjCSJs8rjWMKqg"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-22",
+      "duration_ms": 193720,
+      "name": "Carretera 585",
+      "url": "https://open.spotify.com/track/0EciRjAjJDFoQ14Zy4EVBk"
+    },
+    {
+      "album": {
         "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Ram\u00f3n Ayala y Sus Bravos del Norte",
         "url": "https://open.spotify.com/album/7uLhxdfPeAkZ9BmfRHJTiN"
       },
@@ -253,7 +271,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 214520,
       "name": "Debajo De Aquel \u00c1rbol",
       "url": "https://open.spotify.com/track/36KaZfJWJnupwYWgKFReQy"
@@ -289,10 +307,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 207506,
       "name": "Donde Estas - (En Vivo)",
       "url": "https://open.spotify.com/track/2EUD3y0s05HTyxex8m9Sah"
+    },
+    {
+      "album": {
+        "name": "DOS HOJAS SIN RUMBO / ENS\u00c9\u00d1AME A OLVIDAR (Grabaci\u00f3n Original Remasterizada)",
+        "url": "https://open.spotify.com/album/5igh7OUbG6jyg5yXVWnTQk"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207701,
+      "name": "Dos Hojas Sin Rumbo",
+      "url": "https://open.spotify.com/track/6yWXKiGLhagm6f9biSM7Bk"
     },
     {
       "album": {
@@ -307,7 +343,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 203562,
       "name": "Dos Monedas",
       "url": "https://open.spotify.com/track/7eVY9hPDlrY6M23hiR239q"
@@ -433,7 +469,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 183586,
       "name": "Florita Del Alma",
       "url": "https://open.spotify.com/track/1mqYLkiDrFo2YM7EUBTfyT"
@@ -505,7 +541,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 180880,
       "name": "Hay Unos Ojos",
       "url": "https://open.spotify.com/track/6sz8xJn16194T5KAIVqrnF"
@@ -613,7 +649,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 183000,
       "name": "Linda Chiquilla - (En Vivo)",
       "url": "https://open.spotify.com/track/3P1s3K8V03Dhwq4o6LDAWH"
@@ -667,7 +703,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 190733,
       "name": "Los Ojitos De Mi Elena",
       "url": "https://open.spotify.com/track/1DXMAe1PCJrXt6ZYYQFOpO"
@@ -919,7 +955,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": "2022-10-13",
       "duration_ms": 172306,
       "name": "Pero Ya No Puedo M\u00e1s",
       "url": "https://open.spotify.com/track/5FOUvS4T19gUE0wHrWO5sd"
@@ -1178,6 +1214,24 @@
     },
     {
       "album": {
+        "name": "RECORDANDO A LOS RELAMPAGOS (Grabaci\u00f3n Original Remasterizada)",
+        "url": "https://open.spotify.com/album/4FulDas7jKIV4h7JS4ay7x"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172333,
+      "name": "Tengo Miedo",
+      "url": "https://open.spotify.com/track/3ecmw1gIHba4NGkifXwkdv"
+    },
+    {
+      "album": {
         "name": "Tragos Amargos",
         "url": "https://open.spotify.com/album/3bY0J2yoFogW28oX2mwQyo"
       },
@@ -1243,7 +1297,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 136693,
       "name": "Una Carta",
       "url": "https://open.spotify.com/track/5FQ3QnqgmDQABJRQvpS6UT"

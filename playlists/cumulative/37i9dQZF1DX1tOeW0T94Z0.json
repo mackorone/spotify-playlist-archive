@@ -150,6 +150,24 @@
     },
     {
       "album": {
+        "name": "Back For More",
+        "url": "https://open.spotify.com/album/6sG9BpyHGpCC3xZgU1JNZz"
+      },
+      "artists": [
+        {
+          "name": "Glenn Lewis",
+          "url": "https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234666,
+      "name": "Back For More (featuring Kardinal Offishall)",
+      "url": "https://open.spotify.com/track/2UBTQWYASPvWU1FAJ5pUjx"
+    },
+    {
+      "album": {
         "name": "Quest For Fire: Firestarter Vol. 1",
         "url": "https://open.spotify.com/album/37hfyOQ5XtPYS3vmKhNXSu"
       },
@@ -342,6 +360,28 @@
     },
     {
       "album": {
+        "name": "2Rude (Rudimental 2K Remastered)",
+        "url": "https://open.spotify.com/album/1EVrrsLa9ZezXXhJ5kXrZD"
+      },
+      "artists": [
+        {
+          "name": "2rude",
+          "url": "https://open.spotify.com/artist/4Iidg3Dx7YDYjhsScQWr50"
+        },
+        {
+          "name": "Glenn Lewis",
+          "url": "https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-16",
+      "duration_ms": 236000,
+      "name": "Bout Your Love",
+      "url": "https://open.spotify.com/track/0ayhuUaQaJ4dT3PyIrw42k"
+    },
+    {
+      "album": {
         "name": "Bad Dreams",
         "url": "https://open.spotify.com/album/1CGFeeLL6owKpbxTuZ8Rje"
       },
@@ -365,6 +405,24 @@
       "duration_ms": 194600,
       "name": "Bring It Home",
       "url": "https://open.spotify.com/track/5yI6BchTdUhyXpAoYvM4aR"
+    },
+    {
+      "album": {
+        "name": "Forgotten 90's Alternative",
+        "url": "https://open.spotify.com/album/29GT9SJbhWcq4FFSalkwRT"
+      },
+      "artists": [
+        {
+          "name": "Dream Warriors",
+          "url": "https://open.spotify.com/artist/0Hh2eQ8oBmRR5iL5NVO1Fk"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 304680,
+      "name": "California Dreamin'",
+      "url": "https://open.spotify.com/track/5B3YiEvNhNPGG5O0dSiev1"
     },
     {
       "album": {
@@ -546,6 +604,24 @@
     },
     {
       "album": {
+        "name": "Don't Call Me Baby (US Top 40 Mix)",
+        "url": "https://open.spotify.com/album/7nICk1ja0WQ3637XO5BlOg"
+      },
+      "artists": [
+        {
+          "name": "Kreesha Turner",
+          "url": "https://open.spotify.com/artist/5jrXeH1yhdshRakLMBtkdO"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 201533,
+      "name": "Don't Call Me Baby",
+      "url": "https://open.spotify.com/track/23vxbLPQbgqsBlti0Xn53r"
+    },
+    {
+      "album": {
         "name": "World Outside My Window",
         "url": "https://open.spotify.com/album/42xHDcAyEnhKzLPCrdnBud"
       },
@@ -659,6 +735,24 @@
     {
       "album": {
         "name": "Ecology",
+        "url": "https://open.spotify.com/album/7flLLFOfhJ2zGXiyPzCJnJ"
+      },
+      "artists": [
+        {
+          "name": "Mathematik",
+          "url": "https://open.spotify.com/artist/2Kixa46IDOKcm9T5LeBZ1H"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242976,
+      "name": "Formation",
+      "url": "https://open.spotify.com/track/1ohNGsQ3anAsAywqjFvUMA"
+    },
+    {
+      "album": {
+        "name": "Ecology",
         "url": "https://open.spotify.com/album/3SmCf0tlQgpr3QPoZOaTGo"
       },
       "artists": [
@@ -669,7 +763,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 242976,
       "name": "Formation",
       "url": "https://open.spotify.com/track/5esKOdkdkkD51sT7S9YiOY"
@@ -999,10 +1093,28 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 226733,
       "name": "La force de comprendre",
       "url": "https://open.spotify.com/track/6qwAZau93JWbbiiuLn38dn"
+    },
+    {
+      "album": {
+        "name": "Down Ta Erf",
+        "url": "https://open.spotify.com/album/3HqA9RciaaTNAuGgrLYtLY"
+      },
+      "artists": [
+        {
+          "name": "Down Ta Erf",
+          "url": "https://open.spotify.com/artist/5hznMGOJndBNISavtIs0Cs"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228674,
+      "name": "Learn to Earn",
+      "url": "https://open.spotify.com/track/1GNw15qPGChP3OkeVpagNG"
     },
     {
       "album": {
@@ -1017,7 +1129,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 228674,
       "name": "Learn to Earn",
       "url": "https://open.spotify.com/track/5pnb7gH2FdlgQYJr7z55a4"
@@ -1039,10 +1151,32 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 203666,
       "name": "Legal - feat. Alex Metcalf; Explicit",
       "url": "https://open.spotify.com/track/5BMHuTjHYqBHkiHRGLxVZb"
+    },
+    {
+      "album": {
+        "name": "Let Me",
+        "url": "https://open.spotify.com/album/1D3SvZpse0qZ8CBiNtQvAj"
+      },
+      "artists": [
+        {
+          "name": "Melanie Durrant",
+          "url": "https://open.spotify.com/artist/24ugOdZDzBvFLq5MGOZhGg"
+        },
+        {
+          "name": "Kardinal Offishall",
+          "url": "https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220026,
+      "name": "Let Me f/ KARDINAL OFFISHALL - Radio Edit",
+      "url": "https://open.spotify.com/track/21ufU0oFWoqQzOBcY58gLk"
     },
     {
       "album": {
@@ -1141,6 +1275,24 @@
       "duration_ms": 275090,
       "name": "Live at the Barbeque - 2017 Remastered Version",
       "url": "https://open.spotify.com/track/1tfG2xbt0ChyClVTf8imjP"
+    },
+    {
+      "album": {
+        "name": "Breaking Atoms",
+        "url": "https://open.spotify.com/album/2N3iLgnskfrIgGeSc13Ofl"
+      },
+      "artists": [
+        {
+          "name": "Main Source",
+          "url": "https://open.spotify.com/artist/0zi2OowIfzNqUQiuUVyGLs"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249706,
+      "name": "Looking At The Front Door",
+      "url": "https://open.spotify.com/track/3gb5bGKt38kfetqZ35DlLp"
     },
     {
       "album": {
@@ -1501,7 +1653,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 239653,
       "name": "Nowhere No More ft. Ms. Davis",
       "url": "https://open.spotify.com/track/6ku8DzJtvqqaL6YKHvMKVL"
@@ -1633,7 +1785,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 202422,
       "name": "Prince Of The North",
       "url": "https://open.spotify.com/track/7gs1uAugnKVDWPlZ6TH1Dv"
@@ -1824,6 +1976,24 @@
     },
     {
       "album": {
+        "name": "Shawn Desman",
+        "url": "https://open.spotify.com/album/0LgImGjtNUnBfhItlG3wAw"
+      },
+      "artists": [
+        {
+          "name": "Shawn Desman",
+          "url": "https://open.spotify.com/artist/4LOZt2Vt1xqIWRCVG4v6tV"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212440,
+      "name": "Shook",
+      "url": "https://open.spotify.com/track/0T4hkk9ZRabGrNhLfrsbii"
+    },
+    {
+      "album": {
         "name": "Massari",
         "url": "https://open.spotify.com/album/52O0aB268Q9aMJfMCmBOdE"
       },
@@ -1905,6 +2075,28 @@
       "duration_ms": 262480,
       "name": "Smile For Me",
       "url": "https://open.spotify.com/track/525X9t8doCdiFVpsAIScX7"
+    },
+    {
+      "album": {
+        "name": "Massari",
+        "url": "https://open.spotify.com/album/6hA9k65u8PpAM3iLBKfbYz"
+      },
+      "artists": [
+        {
+          "name": "Massari",
+          "url": "https://open.spotify.com/artist/0Jzbm3ifxDNLxxS8M4BS51"
+        },
+        {
+          "name": "Loon",
+          "url": "https://open.spotify.com/artist/2gie1bU1LwnxdFAJoTLjzT"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 262480,
+      "name": "Smile For Me",
+      "url": "https://open.spotify.com/track/6diekKLoLFrDavNOdNmUez"
     },
     {
       "album": {
@@ -2098,6 +2290,24 @@
     },
     {
       "album": {
+        "name": "Best Drinking Songs Ever",
+        "url": "https://open.spotify.com/album/0oUqqKL6tROmngZlEysoF3"
+      },
+      "artists": [
+        {
+          "name": "K-OS",
+          "url": "https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 231946,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/2KkXmo1V83sHTfLGTvbzmR"
+    },
+    {
+      "album": {
         "name": "Corduroy Boogie",
         "url": "https://open.spotify.com/album/326EQJeyBJOhrMvSX6uMAB"
       },
@@ -2189,6 +2399,36 @@
       "duration_ms": 254106,
       "name": "The Things You Do",
       "url": "https://open.spotify.com/track/7tWFRBo5EOdbYK10EQ9h9k"
+    },
+    {
+      "album": {
+        "name": "2Rude (Rudimental 2K Remastered)",
+        "url": "https://open.spotify.com/album/1EVrrsLa9ZezXXhJ5kXrZD"
+      },
+      "artists": [
+        {
+          "name": "2rude",
+          "url": "https://open.spotify.com/artist/4Iidg3Dx7YDYjhsScQWr50"
+        },
+        {
+          "name": "Latoya & Miranda",
+          "url": "https://open.spotify.com/artist/3C7A9mDljV6eGQ9HAHdDU3"
+        },
+        {
+          "name": "Snow",
+          "url": "https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1"
+        },
+        {
+          "name": "Smoothe Da'hustler",
+          "url": "https://open.spotify.com/artist/5RT4FJsehaXq57F9lYdJDH"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Thinkin' About You",
+      "url": "https://open.spotify.com/track/1a9LoNwmEosWHvTxF1SCy8"
     },
     {
       "album": {
@@ -2309,7 +2549,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 197720,
       "name": "Valentine 4 Life",
       "url": "https://open.spotify.com/track/1gFDNfa5ig5RDkfm3LHdSt"

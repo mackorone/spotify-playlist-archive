@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the electric, amplified sound that is Chicago Blues.\u00a0",
-  "num_followers": 115584,
+  "num_followers": 117997,
   "original_name": "Chicago Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTcyOCwwMDAwMDAwMDA2MDQzMzJkMzI4MzUwZTdkOTM2NDNlMzQ0ODdiNzA2",
+  "snapshot_id": "MTY0ODQ5OTcyOCwwMDAwMDAwMGExMjI0Yjg4MGMwM2VmZTk3NmI3ODhmYjI2ZTFiZTJi",
   "tracks": [
     {
       "added_at": "2016-03-21 20:31:35",
@@ -91,6 +91,22 @@
     {
       "added_at": "2016-03-21 20:31:35",
       "album": {
+        "name": "King Of The Electric Blues",
+        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 238533,
+      "name": "I'm Your Hoochie Coochie Man",
+      "url": "https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX"
+    },
+    {
+      "added_at": "2016-03-21 20:31:35",
+      "album": {
         "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
         "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
       },
@@ -119,22 +135,6 @@
       "duration_ms": 259760,
       "name": "Two Bugs and a Roach",
       "url": "https://open.spotify.com/track/79lwbvYgFFw3eNbBx4bBRw"
-    },
-    {
-      "added_at": "2016-03-21 20:31:35",
-      "album": {
-        "name": "King Of The Electric Blues",
-        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 238533,
-      "name": "I'm Your Hoochie Coochie Man",
-      "url": "https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX"
     },
     {
       "added_at": "2016-03-21 20:31:35",
@@ -185,20 +185,36 @@
       "url": "https://open.spotify.com/track/5Mpt8MfB3OUJIERUnjOGum"
     },
     {
-      "added_at": "2018-02-27 18:08:29",
+      "added_at": "2016-03-21 20:31:35",
       "album": {
-        "name": "Two Bugs and a Roach",
-        "url": "https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho"
+        "name": "Howlin' Wolf",
+        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
       },
       "artists": [
         {
-          "name": "Earl Hooker",
-          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 316666,
-      "name": "You Don't Want Me",
-      "url": "https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3"
+      "duration_ms": 173533,
+      "name": "Back Door Man",
+      "url": "https://open.spotify.com/track/10HdfEE0sausAJu8HJD3Dp"
+    },
+    {
+      "added_at": "2016-03-21 20:31:35",
+      "album": {
+        "name": "The Sonet Blues Story",
+        "url": "https://open.spotify.com/album/59KEdgFnT3QYxd3GYoGJQY"
+      },
+      "artists": [
+        {
+          "name": "Mighty Joe Young",
+          "url": "https://open.spotify.com/artist/3s5c2rjSE7v4KbMsGb5qaL"
+        }
+      ],
+      "duration_ms": 238626,
+      "name": "Rock Me Baby",
+      "url": "https://open.spotify.com/track/0P1NVWntMal7tHrLG1HxEC"
     },
     {
       "added_at": "2016-03-21 20:31:35",
@@ -219,18 +235,18 @@
     {
       "added_at": "2016-03-21 20:31:35",
       "album": {
-        "name": "The Sonet Blues Story",
-        "url": "https://open.spotify.com/album/59KEdgFnT3QYxd3GYoGJQY"
+        "name": "Whose Muddy Shoes",
+        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
       },
       "artists": [
         {
-          "name": "Mighty Joe Young",
-          "url": "https://open.spotify.com/artist/3s5c2rjSE7v4KbMsGb5qaL"
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
         }
       ],
-      "duration_ms": 238626,
-      "name": "Rock Me Baby",
-      "url": "https://open.spotify.com/track/0P1NVWntMal7tHrLG1HxEC"
+      "duration_ms": 142813,
+      "name": "Madison Blues",
+      "url": "https://open.spotify.com/track/6ZFqJbqlCmFCEKepLo97FX"
     },
     {
       "added_at": "2018-02-27 18:08:29",
@@ -251,50 +267,34 @@
     {
       "added_at": "2018-02-27 18:08:29",
       "album": {
-        "name": "They call me the snake",
-        "url": "https://open.spotify.com/album/6iWOfKBUyJjqc0kAx20DuU"
+        "name": "I Am The Blues",
+        "url": "https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N"
       },
       "artists": [
         {
-          "name": "Luther \"Snake Boy\" Johnson",
-          "url": "https://open.spotify.com/artist/0K2EuGHCPWyC0UK91mapEM"
+          "name": "Willie Dixon",
+          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
         }
       ],
-      "duration_ms": 337600,
-      "name": "They call me the snake",
-      "url": "https://open.spotify.com/track/7lbC5pd1ahrDiIf9gLUhxx"
-    },
-    {
-      "added_at": "2016-03-21 20:31:35",
-      "album": {
-        "name": "Howlin' Wolf",
-        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 173533,
-      "name": "Back Door Man",
-      "url": "https://open.spotify.com/track/10HdfEE0sausAJu8HJD3Dp"
+      "duration_ms": 400760,
+      "name": "I Can't Quit You, Baby",
+      "url": "https://open.spotify.com/track/4iKp3icJChjTFQBYbydH43"
     },
     {
       "added_at": "2018-02-27 18:08:29",
       "album": {
-        "name": "Shake My Hand",
-        "url": "https://open.spotify.com/album/0FqH7CwavZR5SGVq76HCPm"
+        "name": "Two Bugs and a Roach",
+        "url": "https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho"
       },
       "artists": [
         {
-          "name": "Snooky Pryor",
-          "url": "https://open.spotify.com/artist/2mGsLcgVJSfpUTgrMuPxt3"
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
         }
       ],
-      "duration_ms": 258399,
-      "name": "Work With Me Annie",
-      "url": "https://open.spotify.com/track/75ZXx6ysguj5afBRtZ8tGR"
+      "duration_ms": 316666,
+      "name": "You Don't Want Me",
+      "url": "https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3"
     },
     {
       "added_at": "2016-03-21 20:31:35",
@@ -313,36 +313,68 @@
       "url": "https://open.spotify.com/track/1TVtYIucWI5fqdQwwlZFR3"
     },
     {
-      "added_at": "2016-03-21 20:31:35",
+      "added_at": "2018-02-27 18:08:29",
       "album": {
-        "name": "Whose Muddy Shoes",
-        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
+        "name": "They call me the snake",
+        "url": "https://open.spotify.com/album/6iWOfKBUyJjqc0kAx20DuU"
       },
       "artists": [
         {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+          "name": "Luther \"Snake Boy\" Johnson",
+          "url": "https://open.spotify.com/artist/0K2EuGHCPWyC0UK91mapEM"
         }
       ],
-      "duration_ms": 142813,
-      "name": "Madison Blues",
-      "url": "https://open.spotify.com/track/6ZFqJbqlCmFCEKepLo97FX"
+      "duration_ms": 337600,
+      "name": "They call me the snake",
+      "url": "https://open.spotify.com/track/7lbC5pd1ahrDiIf9gLUhxx"
+    },
+    {
+      "added_at": "2016-03-21 20:31:35",
+      "album": {
+        "name": "Someday",
+        "url": "https://open.spotify.com/album/1E7OQUKXxK5qCX1Hy2O7j9"
+      },
+      "artists": [
+        {
+          "name": "Otis Spann",
+          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
+        }
+      ],
+      "duration_ms": 206800,
+      "name": "Someday (Electric)",
+      "url": "https://open.spotify.com/track/5ZUxxja3WzBZUFF6P9M9HN"
     },
     {
       "added_at": "2018-02-27 18:08:29",
       "album": {
-        "name": "I Am The Blues",
-        "url": "https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N"
+        "name": "Shake My Hand",
+        "url": "https://open.spotify.com/album/0FqH7CwavZR5SGVq76HCPm"
       },
       "artists": [
         {
-          "name": "Willie Dixon",
-          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
+          "name": "Snooky Pryor",
+          "url": "https://open.spotify.com/artist/2mGsLcgVJSfpUTgrMuPxt3"
         }
       ],
-      "duration_ms": 400760,
-      "name": "I Can't Quit You, Baby",
-      "url": "https://open.spotify.com/track/4iKp3icJChjTFQBYbydH43"
+      "duration_ms": 258399,
+      "name": "Work With Me Annie",
+      "url": "https://open.spotify.com/track/75ZXx6ysguj5afBRtZ8tGR"
+    },
+    {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
+        "name": "Come Back Baby",
+        "url": "https://open.spotify.com/album/1j7FMsDxZQUKhanMXgRsdb"
+      },
+      "artists": [
+        {
+          "name": "Linsey Alexander",
+          "url": "https://open.spotify.com/artist/3Em6TiK664KLJAnWovmvan"
+        }
+      ],
+      "duration_ms": 287640,
+      "name": "Call My Wife",
+      "url": "https://open.spotify.com/track/4t9IqVoxJN5F9aWj1YYlQ1"
     },
     {
       "added_at": "2018-02-27 18:08:29",
@@ -375,86 +407,6 @@
       "duration_ms": 233333,
       "name": "Driving Wheel",
       "url": "https://open.spotify.com/track/7M8XGHJQPYZcYftZyQLmMC"
-    },
-    {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
-        "name": "Come Back Baby",
-        "url": "https://open.spotify.com/album/1j7FMsDxZQUKhanMXgRsdb"
-      },
-      "artists": [
-        {
-          "name": "Linsey Alexander",
-          "url": "https://open.spotify.com/artist/3Em6TiK664KLJAnWovmvan"
-        }
-      ],
-      "duration_ms": 287640,
-      "name": "Call My Wife",
-      "url": "https://open.spotify.com/track/4t9IqVoxJN5F9aWj1YYlQ1"
-    },
-    {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
-        "name": "Whose Muddy Shoes",
-        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
-      },
-      "artists": [
-        {
-          "name": "John Brim",
-          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
-        }
-      ],
-      "duration_ms": 164080,
-      "name": "Ice Cream Man",
-      "url": "https://open.spotify.com/track/7fFKM10IEtZubmfF0L5elV"
-    },
-    {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
-        "name": "Living Chicago Blues, Vol. 4",
-        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
-      },
-      "artists": [
-        {
-          "name": "Luther \"Guitar Junior\" Johnson",
-          "url": "https://open.spotify.com/artist/2uti5VYcw9CSKw9gYx639x"
-        }
-      ],
-      "duration_ms": 185773,
-      "name": "Somebody Have Mercy",
-      "url": "https://open.spotify.com/track/4MUh1QHWGu6QWFJdwbmKmt"
-    },
-    {
-      "added_at": "2016-03-21 20:31:35",
-      "album": {
-        "name": "Someday",
-        "url": "https://open.spotify.com/album/1E7OQUKXxK5qCX1Hy2O7j9"
-      },
-      "artists": [
-        {
-          "name": "Otis Spann",
-          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
-        }
-      ],
-      "duration_ms": 206800,
-      "name": "Someday (Electric)",
-      "url": "https://open.spotify.com/track/5ZUxxja3WzBZUFF6P9M9HN"
-    },
-    {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
-        "name": "Blowin' Like Hell",
-        "url": "https://open.spotify.com/album/6V9vz3rCyZg93CIaALPizp"
-      },
-      "artists": [
-        {
-          "name": "William Clarke",
-          "url": "https://open.spotify.com/artist/2eECVTTCHnDwsBirJPiDke"
-        }
-      ],
-      "duration_ms": 345666,
-      "name": "Lonesome Bedroom Blues",
-      "url": "https://open.spotify.com/track/6a2GFiWodKXdHDFPcaCRdL"
     },
     {
       "added_at": "2016-03-21 20:31:35",
@@ -491,34 +443,18 @@
     {
       "added_at": "2018-02-27 18:08:29",
       "album": {
-        "name": "Living Chicago Blues, Vol. 3",
-        "url": "https://open.spotify.com/album/6l9iPFb3IBKZxrCwphkvH4"
+        "name": "Whose Muddy Shoes",
+        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
       },
       "artists": [
         {
-          "name": "Lacy Gibson",
-          "url": "https://open.spotify.com/artist/54sySc5ynnkqxkG2dEMLQe"
+          "name": "John Brim",
+          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
         }
       ],
-      "duration_ms": 280573,
-      "name": "Drown In My Own Tears",
-      "url": "https://open.spotify.com/track/4bdbkXLaoccDNp6lLsZWRG"
-    },
-    {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
-        "name": "West Side Strut",
-        "url": "https://open.spotify.com/album/7g3FhubXyKNZIFnlVEz73k"
-      },
-      "artists": [
-        {
-          "name": "Eddy Clearwater",
-          "url": "https://open.spotify.com/artist/24k7DQG3asoxeOERUfa4JS"
-        }
-      ],
-      "duration_ms": 280440,
-      "name": "Gotta Move On",
-      "url": "https://open.spotify.com/track/7fP4SqRROudOtgaOeR72lg"
+      "duration_ms": 164080,
+      "name": "Ice Cream Man",
+      "url": "https://open.spotify.com/track/7fFKM10IEtZubmfF0L5elV"
     },
     {
       "added_at": "2016-03-21 20:31:35",
@@ -539,18 +475,18 @@
     {
       "added_at": "2018-02-27 18:08:29",
       "album": {
-        "name": "Hot Wire 81 (feat. Richard Kirch, Sylvester Boines, Jimmy Schutte) [Blues Power]",
-        "url": "https://open.spotify.com/album/3yuhq2f5yW9DiYCweCFNGS"
+        "name": "Living Chicago Blues, Vol. 4",
+        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
       },
       "artists": [
         {
-          "name": "Jimmy Dawkins",
-          "url": "https://open.spotify.com/artist/69mMUlfVNVGQsw733rBShc"
+          "name": "Luther \"Guitar Junior\" Johnson",
+          "url": "https://open.spotify.com/artist/2uti5VYcw9CSKw9gYx639x"
         }
       ],
-      "duration_ms": 437573,
-      "name": "Kold Actions",
-      "url": "https://open.spotify.com/track/0VQqkF65MjElD99dsky0hi"
+      "duration_ms": 185773,
+      "name": "Somebody Have Mercy",
+      "url": "https://open.spotify.com/track/4MUh1QHWGu6QWFJdwbmKmt"
     },
     {
       "added_at": "2018-02-27 18:08:29",
@@ -571,6 +507,54 @@
     {
       "added_at": "2018-02-27 18:08:29",
       "album": {
+        "name": "Blowin' Like Hell",
+        "url": "https://open.spotify.com/album/6V9vz3rCyZg93CIaALPizp"
+      },
+      "artists": [
+        {
+          "name": "William Clarke",
+          "url": "https://open.spotify.com/artist/2eECVTTCHnDwsBirJPiDke"
+        }
+      ],
+      "duration_ms": 345666,
+      "name": "Lonesome Bedroom Blues",
+      "url": "https://open.spotify.com/track/6a2GFiWodKXdHDFPcaCRdL"
+    },
+    {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
+        "name": "Hot Wire 81 (feat. Richard Kirch, Sylvester Boines, Jimmy Schutte) [Blues Power]",
+        "url": "https://open.spotify.com/album/3yuhq2f5yW9DiYCweCFNGS"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Dawkins",
+          "url": "https://open.spotify.com/artist/69mMUlfVNVGQsw733rBShc"
+        }
+      ],
+      "duration_ms": 437573,
+      "name": "Kold Actions",
+      "url": "https://open.spotify.com/track/0VQqkF65MjElD99dsky0hi"
+    },
+    {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
+        "name": "Living Chicago Blues, Vol. 3",
+        "url": "https://open.spotify.com/album/6l9iPFb3IBKZxrCwphkvH4"
+      },
+      "artists": [
+        {
+          "name": "Lacy Gibson",
+          "url": "https://open.spotify.com/artist/54sySc5ynnkqxkG2dEMLQe"
+        }
+      ],
+      "duration_ms": 280573,
+      "name": "Drown In My Own Tears",
+      "url": "https://open.spotify.com/track/4bdbkXLaoccDNp6lLsZWRG"
+    },
+    {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
         "name": "Aron Burton Live",
         "url": "https://open.spotify.com/album/7h72Z9ynR6pYW7zhGlbChV"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 378493,
       "name": "Little Red Rooster",
       "url": "https://open.spotify.com/track/3dwWMDLZlZxtkvTjVA5J1Z"
+    },
+    {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
+        "name": "West Side Strut",
+        "url": "https://open.spotify.com/album/7g3FhubXyKNZIFnlVEz73k"
+      },
+      "artists": [
+        {
+          "name": "Eddy Clearwater",
+          "url": "https://open.spotify.com/artist/24k7DQG3asoxeOERUfa4JS"
+        }
+      ],
+      "duration_ms": 280440,
+      "name": "Gotta Move On",
+      "url": "https://open.spotify.com/track/7fP4SqRROudOtgaOeR72lg"
     },
     {
       "added_at": "2018-02-27 18:08:29",
@@ -659,22 +659,6 @@
     {
       "added_at": "2018-02-27 18:08:29",
       "album": {
-        "name": "Living Chicago Blues, Vol. 2",
-        "url": "https://open.spotify.com/album/43C63zjLcEuvFP1XTaT87R"
-      },
-      "artists": [
-        {
-          "name": "Johnny \"Big Moose\" Walker",
-          "url": "https://open.spotify.com/artist/0a4xVWpLoNjWN8NbMqE6tU"
-        }
-      ],
-      "duration_ms": 256466,
-      "name": "Worry, Worry",
-      "url": "https://open.spotify.com/track/5wBx2WLtOOeWl56AVWABM3"
-    },
-    {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
         "name": "Change My Blues",
         "url": "https://open.spotify.com/album/6U3s4tNpNDKygphGvQnmye"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 288880,
       "name": "Night Life",
       "url": "https://open.spotify.com/track/6tbhUMSYaqy5Enl0XDkJkO"
+    },
+    {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
+        "name": "Living Chicago Blues, Vol. 2",
+        "url": "https://open.spotify.com/album/43C63zjLcEuvFP1XTaT87R"
+      },
+      "artists": [
+        {
+          "name": "Johnny \"Big Moose\" Walker",
+          "url": "https://open.spotify.com/artist/0a4xVWpLoNjWN8NbMqE6tU"
+        }
+      ],
+      "duration_ms": 256466,
+      "name": "Worry, Worry",
+      "url": "https://open.spotify.com/track/5wBx2WLtOOeWl56AVWABM3"
     },
     {
       "added_at": "2018-02-27 18:08:29",

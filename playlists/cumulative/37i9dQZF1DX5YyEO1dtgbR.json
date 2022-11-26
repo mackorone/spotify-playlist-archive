@@ -9,6 +9,24 @@
     {
       "album": {
         "name": "2nd Round / FFBH",
+        "url": "https://open.spotify.com/album/7cjAjQbz0Rdh7UnGFLXQE5"
+      },
+      "artists": [
+        {
+          "name": "Jim-E Stack",
+          "url": "https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150718,
+      "name": "2nd Round",
+      "url": "https://open.spotify.com/track/0lrsCibEGQd7uP0eJ7T2bk"
+    },
+    {
+      "album": {
+        "name": "2nd Round / FFBH",
         "url": "https://open.spotify.com/album/7nreaITfEOxOavaPVm16an"
       },
       "artists": [
@@ -19,10 +37,28 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 150718,
       "name": "2nd Round",
       "url": "https://open.spotify.com/track/47aIlnjYCoc2JOEOCe2AXy"
+    },
+    {
+      "album": {
+        "name": "Promotional Only",
+        "url": "https://open.spotify.com/album/7shRGtt7yoMC1Y6M2QA54K"
+      },
+      "artists": [
+        {
+          "name": "Jim-E Stack",
+          "url": "https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 150718,
+      "name": "2nd Round",
+      "url": "https://open.spotify.com/track/5YEgPSHT3p15YLKEH3XvLc"
     },
     {
       "album": {
@@ -153,7 +189,7 @@
     {
       "album": {
         "name": "C Tactile Afferent",
-        "url": "https://open.spotify.com/album/5krbsO1rn41ZxoepTT1Se2"
+        "url": "https://open.spotify.com/album/1CWNJ9shSWo3196zTfcIrK"
       },
       "artists": [
         {
@@ -164,6 +200,42 @@
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 216102,
+      "name": "C Tactile Afferent",
+      "url": "https://open.spotify.com/track/2dU5DUznREcTPqYWAJ9Tfr"
+    },
+    {
+      "album": {
+        "name": "EP3",
+        "url": "https://open.spotify.com/album/1RHgnWKIh4AKnz1iTfxgVt"
+      },
+      "artists": [
+        {
+          "name": "Ola Szmidt",
+          "url": "https://open.spotify.com/artist/7xwfXQXRpZH0QOzzM5U4bw"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 216102,
+      "name": "C Tactile Afferent",
+      "url": "https://open.spotify.com/track/4Y5JEE4eCZMLHLabFnYRlZ"
+    },
+    {
+      "album": {
+        "name": "C Tactile Afferent",
+        "url": "https://open.spotify.com/album/5krbsO1rn41ZxoepTT1Se2"
+      },
+      "artists": [
+        {
+          "name": "Ola Szmidt",
+          "url": "https://open.spotify.com/artist/7xwfXQXRpZH0QOzzM5U4bw"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-09",
       "duration_ms": 216102,
       "name": "C Tactile Afferent",
       "url": "https://open.spotify.com/track/5dSqT8JFlqCWMoFKQrUJHa"
@@ -239,6 +311,24 @@
       "duration_ms": 269076,
       "name": "Clumsy",
       "url": "https://open.spotify.com/track/1WuRMsjGs2uGJmjfRNvQfU"
+    },
+    {
+      "album": {
+        "name": "Clumsy",
+        "url": "https://open.spotify.com/album/0CrtdlPF3A3UEnElA8RjN1"
+      },
+      "artists": [
+        {
+          "name": "Oli XL",
+          "url": "https://open.spotify.com/artist/3L3ejltt5dmjXkES4YSGKX"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 269076,
+      "name": "Clumsy",
+      "url": "https://open.spotify.com/track/1z8lDUdjkvPD2qQ77eyk58"
     },
     {
       "album": {
@@ -718,6 +808,24 @@
     },
     {
       "album": {
+        "name": "Hoshikuzu Tenboudai",
+        "url": "https://open.spotify.com/album/6ULKihwZta7tDvqryGAotl"
+      },
+      "artists": [
+        {
+          "name": "foodman",
+          "url": "https://open.spotify.com/artist/4e8VeCyfFRBL1e06oGg1dR"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 155600,
+      "name": "Hoshikuzu Tenboudai",
+      "url": "https://open.spotify.com/track/7Iuyi6oEYvNvTmLVtGUf4e"
+    },
+    {
+      "album": {
         "name": "Hyperpassive",
         "url": "https://open.spotify.com/album/6bLfNCqiiePc600uTbJpV5"
       },
@@ -751,6 +859,24 @@
       "duration_ms": 241506,
       "name": "Hyperpassive",
       "url": "https://open.spotify.com/track/4xDFHb4CBzCqYCRnADRouJ"
+    },
+    {
+      "album": {
+        "name": "A Million Pieces of You EP",
+        "url": "https://open.spotify.com/album/4assU0dSZqhKwuGAAcEJQ0"
+      },
+      "artists": [
+        {
+          "name": "Lee Gamble",
+          "url": "https://open.spotify.com/artist/7rAD9Ws0ihREeDmgPS2ZL8"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 241506,
+      "name": "Hyperpassive",
+      "url": "https://open.spotify.com/track/626bqbuBzETdlnTMF97crX"
     },
     {
       "album": {
@@ -952,6 +1078,24 @@
     },
     {
       "album": {
+        "name": "LP2",
+        "url": "https://open.spotify.com/album/55sCnDa3AJX3CeSM0pSO8e"
+      },
+      "artists": [
+        {
+          "name": "Jerome",
+          "url": "https://open.spotify.com/artist/2nBW1boUyewDzaMao8BrtJ"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254571,
+      "name": "Life's Eye",
+      "url": "https://open.spotify.com/track/3zqINXbmbLNmp7uO6gXOtj"
+    },
+    {
+      "album": {
         "name": "Life's Eye",
         "url": "https://open.spotify.com/album/58IHisBAnBd1yi2UTivpGr"
       },
@@ -963,7 +1107,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 254571,
       "name": "Life's Eye",
       "url": "https://open.spotify.com/track/42P7N4JchhebdIP85o1J9H"
@@ -1271,6 +1415,24 @@
       "duration_ms": 365214,
       "name": "Pomisea",
       "url": "https://open.spotify.com/track/5ZTLEuxMIVieBhFD4nBIsY"
+    },
+    {
+      "album": {
+        "name": "SOS MUSIC VOLUME 1",
+        "url": "https://open.spotify.com/album/2sW21vXlX1MNW0VyJLo4LM"
+      },
+      "artists": [
+        {
+          "name": "rRoxymore",
+          "url": "https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 368404,
+      "name": "Price of Highest Consciousness",
+      "url": "https://open.spotify.com/track/1LqkejkhJzZ01dAO5lH0iS"
     },
     {
       "album": {

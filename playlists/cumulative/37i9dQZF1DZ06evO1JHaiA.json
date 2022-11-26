@@ -207,7 +207,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-10-13",
       "duration_ms": 188866,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/6eIdVrBE1hHBIIsH9sDFdO"
@@ -511,7 +511,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 166133,
       "name": "I Didn't Know",
       "url": "https://open.spotify.com/track/61j8TzAwSBSiSwHpJRuo68"
@@ -653,7 +653,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": "2022-10-24",
       "duration_ms": 224118,
       "name": "If You Don't Know Me By Now - Live",
       "url": "https://open.spotify.com/track/2sWyHjB0BFSCxoVYuSyarY"
@@ -725,7 +725,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 151866,
       "name": "Jefferies Rock",
       "url": "https://open.spotify.com/track/7nunGSSMVd4wx8GnKAckXr"
@@ -765,6 +765,24 @@
       "duration_ms": 130946,
       "name": "Let Me In Your Mind",
       "url": "https://open.spotify.com/track/41DND20SkuBYgcvjlE7Xdh"
+    },
+    {
+      "album": {
+        "name": "Ben-Lee Recordings 1963-65",
+        "url": "https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-01",
+      "duration_ms": 144800,
+      "name": "Let's Try It Again",
+      "url": "https://open.spotify.com/track/2aPvrQet8EzBFwwO1RZsg1"
     },
     {
       "album": {

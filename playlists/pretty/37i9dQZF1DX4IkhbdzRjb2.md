@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkhbdzRjb2.md) - [plain]
 
 > Since 1962, <a href="https://www.casitadelcampo.net/">Casita Del Campo</a> has been a refuge to Los Angeles' LGTBQQIA+ community\. Like their environment, the songs picked are original, energetic, and diverse just like their patrons!
 
-[Spotify](https://open.spotify.com/user/spotify) - 712 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 711 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkhbdzRjb2.md) - [plain]
 | 15 | [Lost in Music \- 1995 Remaster](https://open.spotify.com/track/47eSFHsPDVJwssTTG62Af3) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [We Are Family \(1995 Remaster\)](https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT) | 4:47 |
 | 16 | [Leave The Door Open](https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 4:02 |
 | 17 | [Haven't You Heard](https://open.spotify.com/track/1AAanCnoJF7USJKG9dEjey) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Pizzazz](https://open.spotify.com/album/38I3cIZowVjtksvYrpQIJf) | 6:45 |
-| 18 | [Volver Volver](https://open.spotify.com/track/4Fvnz1ZJ86IdqDAepWYPAh) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Arriba Huentitan](https://open.spotify.com/album/5C4hWSmiBTcTKbBGB4ILx9) | 3:00 |
+| 18 | [Volver, Volver](https://open.spotify.com/track/4Fvnz1ZJ86IdqDAepWYPAh) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Arriba Huentitan](https://open.spotify.com/album/5C4hWSmiBTcTKbBGB4ILx9) | 3:00 |
 | 19 | [La Madrugada](https://open.spotify.com/track/5Tv2c46ko42HV4kU22z5Wf) | [Mariachi Cobre](https://open.spotify.com/artist/0BlBCNf7s8Ua8CeX1VKXZQ) | [Mariachi Cobre: Este Es Mi Mariachi](https://open.spotify.com/album/3nvfqq53rJB9lzBKVQQC2z) | 2:40 |
 | 20 | [La Bamba](https://open.spotify.com/track/6alwDGEm2A6iVXCitnwFzf) | [Sones Jarochos](https://open.spotify.com/artist/19wDbhvttV6xZQWf8pmxux), [Los Nacionales De Jacinto Gatica](https://open.spotify.com/artist/03evbzgK4Uoo1IpSm551pr) | [Sones Jarochos \- Los Nacionales De Jacinto Gatica \- Feria Mexicana](https://open.spotify.com/album/5I2AhtiDpEUVWjeYn2DpyS) | 2:26 |
 | 21 | [All Night Long \(All Night\) \- Single Version](https://open.spotify.com/track/2Wb9ejnmy27DUTUe9YF5Ew) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [The Definitive Collection](https://open.spotify.com/album/1W1b52vaEcE3wfWk4WQH6q) | 4:20 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkhbdzRjb2.md) - [plain]
 | 31 | [Freedom! '90](https://open.spotify.com/track/1SKApv6ZfJ9bkUxeRObJEF) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies And Gentlemen..\. The Best Of George Michael](https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl) | 6:28 |
 | 32 | [Better Love](https://open.spotify.com/track/1QzCnfF0AxZ3veY9tOw0h7) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Forever, For Always, For Love](https://open.spotify.com/album/3oG1ai7tyPHOm2w2ZkjpLi) | 6:24 |
 | 33 | [Don't Forget](https://open.spotify.com/track/04jkk9HM7mTlCNTYhWUZBx) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Something to Say](https://open.spotify.com/album/3Hz4JSR7mxab24T8K8jQOx) | 2:49 |
-| 34 | [Barké](https://open.spotify.com/track/7oEm0xVisvkbIbQEzWBuD0) | [Falle Nioke](https://open.spotify.com/artist/2WIUWjEtviW09sdJlb2G1J), [Ghost Culture](https://open.spotify.com/artist/4M6Kt4GVjpLYpygyNOHwdt) | [Barké](https://open.spotify.com/album/6YEzV4Axar91INmSZmaAJq) | 4:32 |
+| 34 | [Barké](https://open.spotify.com/track/2quOK4iKHMgrLTU6DXoBV4) | [Falle Nioke](https://open.spotify.com/artist/2WIUWjEtviW09sdJlb2G1J), [Ghost Culture](https://open.spotify.com/artist/4M6Kt4GVjpLYpygyNOHwdt) | [Barké](https://open.spotify.com/album/5gQj1pNijPoZlrqR7hJ2at) | 4:32 |
 | 35 | [Changüí en Yateras \(from the Changüí: The Sound of Guantánamo Collection\)](https://open.spotify.com/track/6alddKK0YnvOLmp1o2fpJi) | [Grupo Estrellas Campesinas](https://open.spotify.com/artist/57Uk8lmpqDsu1ULyRPslG2) | [Changüí en Yateras \(from the Changüí: The Sound of Guantánamo Collection\)](https://open.spotify.com/album/3DnEPxorzbZtTczaNV93oT) | 4:52 |
 | 36 | [Tiene Sabor, Tiene Sazón](https://open.spotify.com/track/7CPu17eltuCnWj3QZtlI8Z) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Ondatrópica](https://open.spotify.com/album/7yjJJnG1eUZRJkwHcjqg8Y) | 4:33 |
 | 37 | [Sunshine](https://open.spotify.com/track/4JaUTzskkF6DnHmUvZmPnH) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Gratitude](https://open.spotify.com/album/7AqOsJkpKZdkiap6CmIJ3Z) | 4:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkhbdzRjb2.md) - [plain]
 | 49 | [Déjame Soñar](https://open.spotify.com/track/5cBEkcTbmPI6b24O7nJipw) | [Isidro Infante](https://open.spotify.com/artist/6JP0KRVKNawvRfkFA4mxtD), [Yumurí](https://open.spotify.com/artist/3qmRy8D4hwGKywvQx3xnxo), [Mayito Rivera](https://open.spotify.com/artist/1S0Og7sspn3YyJmEcE43zD), [Elindiomusik](https://open.spotify.com/artist/3gSXsqE30hXrQMSGxYOTSH) | [Isidro Infante Presenta Cuba y Puerto Rico "Un Abrazo Musical Salsero"](https://open.spotify.com/album/3JgWMmWDZeR6AOHJdydvhJ) | 5:04 |
 | 50 | [Dancin' & Prancin'](https://open.spotify.com/track/5mLH2SnrW7cpJmxeBYc53T) | [Candido](https://open.spotify.com/artist/6PyAzOON3Toc5MPZrZMA5i) | [Dancin' & Prancin'](https://open.spotify.com/album/4Sc4zx50DRyl0Wb1YmMNej) | 6:52 |
 
-Snapshot ID: `MTYyMzM0NDUyOCwwMDAwMDAwMGU0NzNiNDVkNWNiZWYyODVhOTQ2MjljN2ZjNTQ5ZDk5`
+Snapshot ID: `MTYyMzM0NDUyOCwwMDAwMDAwMGFhYTU2YjM0OWViNjY4M2UxMjNjOGY4OTdiMDcyODBl`

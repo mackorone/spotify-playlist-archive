@@ -95,7 +95,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 82602,
       "name": "Amar & Gayathri - Background Score",
       "url": "https://open.spotify.com/track/6YtHohwPmsWkr3hSCzX7uA"
@@ -793,7 +793,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 83174,
       "name": "Manmadhan Theme Music",
       "url": "https://open.spotify.com/track/3v3a6pzDuXm1FBvbEf0XgL"
@@ -1563,6 +1563,44 @@
       "duration_ms": 87600,
       "name": "Valimai Motion Poster Theme (From \"Valimai\")",
       "url": "https://open.spotify.com/track/7rto8ANj8esy1YSfDekGSL"
+    },
+    {
+      "album": {
+        "name": "Veeram (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5ikewHaQ3vBVEY9ASjPHTA"
+      },
+      "artists": [
+        {
+          "name": "Anand",
+          "url": "https://open.spotify.com/artist/53kVUvxYgxcYwhbUjqm9X6"
+        },
+        {
+          "name": "Koushik",
+          "url": "https://open.spotify.com/artist/7v78lEL8XMOgWod6Cp5Jya"
+        },
+        {
+          "name": "Deepak",
+          "url": "https://open.spotify.com/artist/2f1w7WdCu6ePA67yFTlLM3"
+        },
+        {
+          "name": "Jagadish",
+          "url": "https://open.spotify.com/artist/5tUZe5gKJc12KkH5MZHnoE"
+        },
+        {
+          "name": "Santhosh",
+          "url": "https://open.spotify.com/artist/1iZxszouU60Y4iU7STKgkj"
+        },
+        {
+          "name": "Senbagaraj",
+          "url": "https://open.spotify.com/artist/6s9TSMCK36wxGo9CuJnhPu"
+        }
+      ],
+      "date_added": "2021-11-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 167994,
+      "name": "Veeram",
+      "url": "https://open.spotify.com/track/43tQTZ0Pg6TuaUS3Y7QX33"
     },
     {
       "album": {

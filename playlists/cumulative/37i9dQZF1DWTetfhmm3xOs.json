@@ -908,6 +908,24 @@
     },
     {
       "album": {
+        "name": "I know a secret",
+        "url": "https://open.spotify.com/album/1tD6EUliMH0tw0fW9b9eOS"
+      },
+      "artists": [
+        {
+          "name": "Chris Lukas",
+          "url": "https://open.spotify.com/artist/2PYNWD01lteVriJrx1nzz9"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202727,
+      "name": "I Know A Secret",
+      "url": "https://open.spotify.com/track/3yaKNCPHtIDunZKRi0x6Qf"
+    },
+    {
+      "album": {
         "name": "In the Far Away Distance",
         "url": "https://open.spotify.com/album/6hxNWvBvsKr4mV1YAjz9HS"
       },
@@ -977,6 +995,28 @@
       "duration_ms": 254041,
       "name": "Lidia's Song",
       "url": "https://open.spotify.com/track/2cPfYDD11tZSALRgFBrAtK"
+    },
+    {
+      "album": {
+        "name": "FLOW",
+        "url": "https://open.spotify.com/album/6Qyo5vztyRzMvYCHap6Yyb"
+      },
+      "artists": [
+        {
+          "name": "Luke Howard",
+          "url": "https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf"
+        },
+        {
+          "name": "Shards",
+          "url": "https://open.spotify.com/artist/0ATldWSJILH1tS2H87szDU"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 167237,
+      "name": "Light Ascending",
+      "url": "https://open.spotify.com/track/3J8zS0bx3RBPlPYJ44F6aH"
     },
     {
       "album": {
@@ -1817,6 +1857,24 @@
       "duration_ms": 112311,
       "name": "Untitled",
       "url": "https://open.spotify.com/track/3tCBeat5YZBwLf61yoQJ9v"
+    },
+    {
+      "album": {
+        "name": "Winds Of Hope",
+        "url": "https://open.spotify.com/album/1gyAC884ugq8i5PRPwagYv"
+      },
+      "artists": [
+        {
+          "name": "Euryn",
+          "url": "https://open.spotify.com/artist/3gZqDSLp1atN62BEKtHMyS"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173918,
+      "name": "Winds Of Hope",
+      "url": "https://open.spotify.com/track/0tj3CpLK4pgG0Yk13D8hxs"
     },
     {
       "album": {

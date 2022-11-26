@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUtjhu2IHar.md) - [plain]
 
 > congrats class of 2021, you crushed it this year \\m/ Cover: WILLOW
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,175 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,194 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUtjhu2IHar.md) - [plain]
 | 34 | [There For Me](https://open.spotify.com/track/53R8kuDLB4gkxqWeyTEzaY) | [Chad Tepper](https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3), [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [There For Me](https://open.spotify.com/album/6jb64xBTpHW4Lbtx7kQlVL) | 3:17 |
 | 35 | [WITHOUT YOU](https://open.spotify.com/track/4NDffVrm7zr0vJSzakrBbw) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Pegasus: Neon Shark vs Pegasus Presented By Travis Barker \(Deluxe\)](https://open.spotify.com/album/4Sj1MJMO2jaIZyr00ipCkl) | 3:09 |
 | 36 | [nightmare](https://open.spotify.com/track/4ELpTiWFYUgFBzrjqt5Q8e) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [Trauma Factory](https://open.spotify.com/album/16rbUsslYCC9NnKIwLQUnY) | 2:54 |
-| 37 | [Chillthefuckout.](https://open.spotify.com/track/5IaL7Dft0IRhwaz4royvg7) | [ROMES](https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g) | [Chillthefuckout.](https://open.spotify.com/album/35iLKz1x1VW4q6mt6Zfk3u) | 2:47 |
+| 37 | [Chillthefuckout.](https://open.spotify.com/track/4WiRsBAUd4fqHmIqrSoznL) | [ROMES](https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g) | [My Demons Are Still My Best Friends](https://open.spotify.com/album/2ZGQb6w08t7rlmfHGHzPci) | 2:47 |
 | 38 | [drivers license](https://open.spotify.com/track/6H7RUDjmjiGV4I9hE24Kk5) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [drivers license](https://open.spotify.com/album/0Hi8bTOS35xZM0zZ6S89hT) | 3:57 |
 | 39 | [idk why i try](https://open.spotify.com/track/3wNJ2XMvz1DznBf5CVZbsj) | [Misplaced](https://open.spotify.com/artist/4LD3UeboJl9wKM6WyaaRMu) | [fell in love with a lie](https://open.spotify.com/album/7m9wfRDxzEXAsQugb5xd93) | 3:07 |
 | 40 | [Palm Reader \- All Time Low Remix](https://open.spotify.com/track/6Mc6Q1r8iTpmpYzSkUsAYD) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A), [Big Boi](https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9), [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Palm Reader \(All Time Low Remix\)](https://open.spotify.com/album/588sbvotnDb1Cx6AHMvBbQ) | 2:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUtjhu2IHar.md) - [plain]
 | 49 | [Meant to be](https://open.spotify.com/track/4ePuicjF5iE9ZBS8Rz6kRm) | [idkjack](https://open.spotify.com/artist/5KpPvlBtQQCf0Jt836PyJX), [ylm shwty](https://open.spotify.com/artist/3jUsUXS7J4xR3UbHUuy7th) | [Meant to be](https://open.spotify.com/album/5Fpq5kAfeuNJHbMeDXlof8) | 2:39 |
 | 50 | [Who Set Us On Fire](https://open.spotify.com/track/1WLQimMOCeqW2rWgFEESWZ) | [CADE](https://open.spotify.com/artist/0CEK8AzyeD5ZUdUloB6yQV) | [Who Set Us On Fire](https://open.spotify.com/album/7z9TGnRj5le6f2bT2efFFl) | 3:13 |
 
-Snapshot ID: `MTYzODM2NjQ4MCwwMDAwMDAwMGYwM2MxMjA0NGY5MzI4ZDBlZTY1YWVjODNkYjY3NWVk`
+Snapshot ID: `MTYzODM2NjQ4MCwwMDAwMDAwMDlhZjY2MzUzNjJiZjY4MTY0NGVhOWZiNDI0ZjBiNGRi`

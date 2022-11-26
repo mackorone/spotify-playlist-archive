@@ -27,6 +27,42 @@
     {
       "album": {
         "name": "ABC",
+        "url": "https://open.spotify.com/album/2tukc7pH4qTuXcfaHjLIBc"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174866,
+      "name": "ABC",
+      "url": "https://open.spotify.com/track/6D8kc7RO0rqBLSo2YPflJ5"
+    },
+    {
+      "album": {
+        "name": "2021 Mega Hits",
+        "url": "https://open.spotify.com/album/7N2zEEZBWKARZnDtRNkX9v"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 177386,
+      "name": "ABC",
+      "url": "https://open.spotify.com/track/3kRmEuIJSgAs2xabcFt7j3"
+    },
+    {
+      "album": {
+        "name": "ABC",
         "url": "https://open.spotify.com/album/3btVhknqDeGAEd1Qj7lL57"
       },
       "artists": [
@@ -37,7 +73,7 @@
       ],
       "date_added": "2019-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 177733,
       "name": "ABC",
       "url": "https://open.spotify.com/track/6wDviYDtmSDZ0S6TVMM9Vc"
@@ -167,6 +203,24 @@
       "duration_ms": 258040,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/1OOtq8tRnDM8kG2gqUPjAj"
+    },
+    {
+      "album": {
+        "name": "Good Music Only",
+        "url": "https://open.spotify.com/album/2DYNHP7s9rui72TFdNr4EU"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 165133,
+      "name": "Ben - Single Version",
+      "url": "https://open.spotify.com/track/5QYDZDprfmhGaU2eORfBjZ"
     },
     {
       "album": {
@@ -650,6 +704,24 @@
     },
     {
       "album": {
+        "name": "Best Wedding Music",
+        "url": "https://open.spotify.com/album/3AwViWMmXi0oxspOLyfs7Q"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 178493,
+      "name": "I Want You Back",
+      "url": "https://open.spotify.com/track/0weUhEhHSv3wDbwDcntcAt"
+    },
+    {
+      "album": {
         "name": "The Very Best Of Michael Jackson With The Jackson 5",
         "url": "https://open.spotify.com/album/119TC8Ww6LYJm8uarhzvgQ"
       },
@@ -942,6 +1014,24 @@
     },
     {
       "album": {
+        "name": "Christmas Songs",
+        "url": "https://open.spotify.com/album/6SitlgAoOBv1tpYmVC4Mvu"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 151840,
+      "name": "Rockin' Robin",
+      "url": "https://open.spotify.com/track/4yPzZZsTJdv5lmvdb6ZMX1"
+    },
+    {
+      "album": {
         "name": "The Essential Michael Jackson",
         "url": "https://open.spotify.com/album/77dNyQA0z8dV33M4so4eRY"
       },
@@ -1054,6 +1144,60 @@
     },
     {
       "album": {
+        "name": "Happy Haunted Halloween Tunes",
+        "url": "https://open.spotify.com/album/0Imh8AJGlHc3S0hHy8fImK"
+      },
+      "artists": [
+        {
+          "name": "Rockwell",
+          "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-17",
+      "duration_ms": 236480,
+      "name": "Somebody's Watching Me - Single Version",
+      "url": "https://open.spotify.com/track/30W04PUt6gHISFbrtFYkp0"
+    },
+    {
+      "album": {
+        "name": "Kids Songs: Halloween Party!",
+        "url": "https://open.spotify.com/album/3ieg9cbiq6SacHVpPFQo14"
+      },
+      "artists": [
+        {
+          "name": "Rockwell",
+          "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-07",
+      "duration_ms": 236480,
+      "name": "Somebody's Watching Me - Single Version",
+      "url": "https://open.spotify.com/track/4P0UmzUN00aoPLrgnqfZUX"
+    },
+    {
+      "album": {
+        "name": "Halloween for Kids",
+        "url": "https://open.spotify.com/album/7oYdF4y0Djq4nQpyHlcfYq"
+      },
+      "artists": [
+        {
+          "name": "Rockwell",
+          "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 236480,
+      "name": "Somebody's Watching Me - Single Version",
+      "url": "https://open.spotify.com/track/6tUEdj7qGKPN3rV6GpBwuc"
+    },
+    {
+      "album": {
         "name": "Scream",
         "url": "https://open.spotify.com/album/2X8UOIkZQdcz2Hi5Ynt2uk"
       },
@@ -1087,6 +1231,24 @@
       "duration_ms": 238773,
       "name": "Somebody's Watching Me - Single Version",
       "url": "https://open.spotify.com/track/6hci8n9UowepjRmCc6CKTv"
+    },
+    {
+      "album": {
+        "name": "Thriller 40",
+        "url": "https://open.spotify.com/album/57TzZhbqvYoUBzJSVKFVlG"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303773,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/4WGwTL5HIiaw5OIFnwgCR9"
     },
     {
       "album": {
@@ -1149,6 +1311,24 @@
     {
       "album": {
         "name": "ABC",
+        "url": "https://open.spotify.com/album/2tukc7pH4qTuXcfaHjLIBc"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179306,
+      "name": "The Love You Save",
+      "url": "https://open.spotify.com/track/39SyB2NWiRlMtcKrI2rr4k"
+    },
+    {
+      "album": {
+        "name": "ABC",
         "url": "https://open.spotify.com/album/3btVhknqDeGAEd1Qj7lL57"
       },
       "artists": [
@@ -1159,10 +1339,28 @@
       ],
       "date_added": "2019-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 181426,
       "name": "The Love You Save",
       "url": "https://open.spotify.com/track/2dYdai0GywuwYq6blSwDBV"
+    },
+    {
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/2DKJWh4uNozTDpuaSKb1oK"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 183133,
+      "name": "The Love You Save",
+      "url": "https://open.spotify.com/track/3yb2xnMU7Os24q7ZdyaY1f"
     },
     {
       "album": {
@@ -1271,6 +1469,24 @@
       "duration_ms": 358053,
       "name": "Thriller",
       "url": "https://open.spotify.com/track/7azo4rpSUh8nXgtonC6Pkq"
+    },
+    {
+      "album": {
+        "name": "Thriller 40",
+        "url": "https://open.spotify.com/album/57TzZhbqvYoUBzJSVKFVlG"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 553087,
+      "name": "Thriller (Megamix)",
+      "url": "https://open.spotify.com/track/2I5o2Znqz37AibPdyg824v"
     },
     {
       "album": {

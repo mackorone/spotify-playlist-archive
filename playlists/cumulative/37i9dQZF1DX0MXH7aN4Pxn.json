@@ -177,7 +177,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-23",
+      "date_removed": "2022-11-26",
       "duration_ms": 164975,
       "name": "After Hours",
       "url": "https://open.spotify.com/track/6qLkMLUIkdtX34gHF9sPFL"
@@ -693,7 +693,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 166742,
       "name": "Black Hole - Goodboys Remix",
       "url": "https://open.spotify.com/track/7FWDL4IevECW4AFWeovlOG"
@@ -955,7 +955,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-23",
+      "date_removed": null,
       "duration_ms": 245927,
       "name": "Children",
       "url": "https://open.spotify.com/track/3PUnmXpIRfLa8yI9wfgJPC"
@@ -1799,7 +1799,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 216000,
       "name": "Foolish (feat. Tom Zanetti)",
       "url": "https://open.spotify.com/track/2CXSRpNHd9zVSWKSFp1wQ3"
@@ -2269,7 +2269,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-10",
+      "date_removed": "2022-11-13",
       "duration_ms": 174649,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/14agcnE3UapOnnxYufVMZZ"
@@ -2951,7 +2951,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 214560,
       "name": "Last Time",
       "url": "https://open.spotify.com/track/54zJ1SxDe0CQhWRij7E0no"
@@ -3601,7 +3601,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-25",
+      "date_removed": null,
       "duration_ms": 168091,
       "name": "Make Luv",
       "url": "https://open.spotify.com/track/0X0jMAZeR8xSlghtq5s4Ol"
@@ -4509,7 +4509,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-23",
+      "date_removed": null,
       "duration_ms": 189120,
       "name": "Physical - Claptone Remix",
       "url": "https://open.spotify.com/track/4KKaV1zUcpDecobqLjwIkB"
@@ -4960,6 +4960,24 @@
     },
     {
       "album": {
+        "name": "Sextacy",
+        "url": "https://open.spotify.com/album/6QxRE7g3LRK8EW4DKw2nO6"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "date_added": "2022-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Sextacy",
+      "url": "https://open.spotify.com/track/7Fbx8mVJy36dsVq9IYTRXu"
+    },
+    {
+      "album": {
         "name": "Shine On",
         "url": "https://open.spotify.com/album/0DqzU9iwqxhNVn4fezhIaw"
       },
@@ -5041,7 +5059,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 151436,
       "name": "So Sick",
       "url": "https://open.spotify.com/track/6ee7GQEkmWld8pGIl0E19Z"
@@ -5063,6 +5081,28 @@
       "duration_ms": 159375,
       "name": "Somebody To Love",
       "url": "https://open.spotify.com/track/6hzWWZjqHcoI2KIWpldo9v"
+    },
+    {
+      "album": {
+        "name": "Soon Not Later",
+        "url": "https://open.spotify.com/album/3f4YNeAQaTx8FLgzsVQDqf"
+      },
+      "artists": [
+        {
+          "name": "Lady Bee",
+          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
+        },
+        {
+          "name": "Dame1",
+          "url": "https://open.spotify.com/artist/6CKoF1L9fyzl1PsbnevRZh"
+        }
+      ],
+      "date_added": "2022-08-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 158095,
+      "name": "Soon Not Later",
+      "url": "https://open.spotify.com/track/1aUqnyTzGI4eXauiBxdpaJ"
     },
     {
       "album": {
@@ -5665,7 +5705,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 188636,
       "name": "Too Many Nights (with JC Stewart)",
       "url": "https://open.spotify.com/track/13YIDpKrL2caqJ3YF52uzJ"
@@ -6363,7 +6403,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 172258,
       "name": "You & I - Emily Nash Remix",
       "url": "https://open.spotify.com/track/6Mxaum98mQ7PySB9jvunYL"

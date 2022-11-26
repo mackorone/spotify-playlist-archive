@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2lOMjzyPMlcIvcaWlaF6MB.md) - [plain]
 
 > Transport yourself to the "Mother Church of Country Music" with these live cuts from the Ryman.
 
-[Spotify](https://open.spotify.com/user/spotify) - 253 likes - 26 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 254 likes - 26 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

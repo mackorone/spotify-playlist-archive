@@ -4,7 +4,7 @@
 
 > The Mills Brothers, The Andrews Sisters and other classic vocal groups.
 
-49 songs - 2 hr 17 min - [published](https://open.spotify.com/playlist/4VNtJxCUbu1xvFUfPr4tsA)
+50 songs - 2 hr 20 min - [published](https://open.spotify.com/playlist/4VNtJxCUbu1xvFUfPr4tsA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [For Sentimental Reasons](https://open.spotify.com/track/5t5S4nyn6OWZRpSo260sjo) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [The Delta Rhythm Boys](https://open.spotify.com/artist/7jn7alb8SBq8VAukeFkPcF) | [The War Years \(1941\-1947\)](https://open.spotify.com/album/3xseO3iLY7v7dL7VP6jpsH) | 3:08 | 2020-08-17 |  |
 | [Fun And Fancy Free](https://open.spotify.com/track/7AcHnYTB2t17ZWjkgBeQsJ) | [The Dinning Sisters](https://open.spotify.com/artist/7lGYu24LHAMZYqarrWHz8h) | [The Very Best Of](https://open.spotify.com/album/6t0ktrofZCI38hxO9c37Tz) | 2:40 | 2020-08-17 |  |
 | [Give Me Time](https://open.spotify.com/track/22McLEDE7FIJDSNUhYqnKz) | [The De Castro Sisters](https://open.spotify.com/artist/1OCPhFtvkZDLUJJkrJfD2G) | [Teach Me Tonight](https://open.spotify.com/album/3WbxZUc3ukR1BEz3SgOgbJ) | 2:39 | 2020-08-17 |  |
+| [Have You Heard](https://open.spotify.com/track/3pfT4EO3rL1p6jBBD9AuY0) | [The Duprees](https://open.spotify.com/artist/6nYTjfJFNic9m83TROYHUS) | [Collector's Series: The Duprees](https://open.spotify.com/album/06F6OzmBjqLqVAL5EKp2FL) | 2:29 | 2020-08-17 | 2022-11-14 |
 | [Have You Heard](https://open.spotify.com/track/1fsWE3xBbvORHHPqICzTyR) | [The Duprees](https://open.spotify.com/artist/6nYTjfJFNic9m83TROYHUS) | [Hits Singles: Collectors Series](https://open.spotify.com/album/0gPMn15Lddsz0xpsxjCfcH) | 2:31 | 2020-08-17 |  |
 | [Have You Heard \(feat\. Joey Vann\)](https://open.spotify.com/track/6mYzrb44QFhcNQKBKRJ4cl) | [The Duprees](https://open.spotify.com/artist/6nYTjfJFNic9m83TROYHUS), [Joey Vann](https://open.spotify.com/artist/2gwyU5YjHiip6iUeUXt8AB) | [The Coed Singles](https://open.spotify.com/album/5QqmvqhSefdfFRn6MLfZGL) | 2:31 | 2020-08-17 | 2022-07-29 |
 | [I'm Forever Blowing Bubbles](https://open.spotify.com/track/5UhPIWJk8x5YuzoXelnfQi) | [The Merry Macs](https://open.spotify.com/artist/1GdTErb29TNkiEGWrNGAeH) | [The Merry Macs Sing Mairzy Doats](https://open.spotify.com/album/2mDsfD127OI1Lem0XolFXr) | 2:36 | 2020-08-17 |  |

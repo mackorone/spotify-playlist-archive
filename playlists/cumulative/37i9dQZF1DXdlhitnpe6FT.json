@@ -257,7 +257,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 161773,
       "name": "Andalucia",
       "url": "https://open.spotify.com/track/61wVl3WPpGKHlCvChWkSXY"
@@ -275,7 +275,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": "2022-11-13",
       "duration_ms": 228213,
       "name": "Aria on Air",
       "url": "https://open.spotify.com/track/1UCSEeOXBxzcssGvMfusiz"
@@ -430,6 +430,24 @@
     },
     {
       "album": {
+        "name": "At Home With Richard Clayderman",
+        "url": "https://open.spotify.com/album/4mOXN1GTf0nMIusZ6872rS"
+      },
+      "artists": [
+        {
+          "name": "Richard Clayderman",
+          "url": "https://open.spotify.com/artist/0h885xmyK9xHfhyXQr37L6"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 158000,
+      "name": "Ballade pour Adeline - Piano et orchestre",
+      "url": "https://open.spotify.com/track/5O3KHKGuxoCVLHESLm7AaZ"
+    },
+    {
+      "album": {
         "name": "The Big Bands Collection, Vol. 18/23: Andr\u00e9 Popp - Delirium in Hi-Fi",
         "url": "https://open.spotify.com/album/1AlBfGcQSHZMAGvVo42l0X"
       },
@@ -459,7 +477,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": "2022-11-13",
       "duration_ms": 160826,
       "name": "Beer Barrel Polka",
       "url": "https://open.spotify.com/track/7afv0isT1k1KXFtawmE6t3"
@@ -607,7 +625,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-04",
+      "date_removed": null,
       "duration_ms": 135360,
       "name": "Boum",
       "url": "https://open.spotify.com/track/1ByDvF2eKOGlybrLYqUzFE"
@@ -759,6 +777,24 @@
       "duration_ms": 211208,
       "name": "Chariots Of Fire",
       "url": "https://open.spotify.com/track/3hBgVOpgET0AGtdwc5D8Qy"
+    },
+    {
+      "album": {
+        "name": "Movie Classics",
+        "url": "https://open.spotify.com/album/4G0HMsjgtjSKR0JIkaR4Bw"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 202805,
+      "name": "Chariots Of Fire - Edit",
+      "url": "https://open.spotify.com/track/0cuMG4T85rAA6thMORW0dX"
     },
     {
       "album": {
@@ -1057,7 +1093,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 199213,
       "name": "El Mundial - Instrumental",
       "url": "https://open.spotify.com/track/3ot35nXnnTewSLf2k57Sga"
@@ -1255,7 +1291,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": "2022-11-13",
       "duration_ms": 174666,
       "name": "Gefangenenchor aus \"Nabucco\"",
       "url": "https://open.spotify.com/track/4FLfAjRMQeNbqgwbdUMja6"
@@ -1615,7 +1651,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": "2022-11-13",
       "duration_ms": 124240,
       "name": "Last Waltz",
       "url": "https://open.spotify.com/track/1OpaScCsFlq4tihFLEIZhu"
@@ -1669,7 +1705,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": "2022-11-11",
       "duration_ms": 165200,
       "name": "Lazy Bones",
       "url": "https://open.spotify.com/track/7ETQAzzsYGQd9mH2MELz1Q"
@@ -1835,7 +1871,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 135993,
       "name": "Look for a Star",
       "url": "https://open.spotify.com/track/3MDPMyycA17IoF6XaC4XIM"
@@ -1896,6 +1932,24 @@
     },
     {
       "album": {
+        "name": "Disco Top 50",
+        "url": "https://open.spotify.com/album/5MfJRfKlfNIRPJx7i4AkPm"
+      },
+      "artists": [
+        {
+          "name": "The Love Unlimited Orchestra",
+          "url": "https://open.spotify.com/artist/457yGSZecENoIuNWelRHhH"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 248266,
+      "name": "Love's Theme",
+      "url": "https://open.spotify.com/track/36OHqyLbHA31su1Reakz4e"
+    },
+    {
+      "album": {
         "name": "The Best Of Love Unlimited Orchestra",
         "url": "https://open.spotify.com/album/7rUZRoEDIcsRXSB86xFMBk"
       },
@@ -1943,7 +1997,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 147453,
       "name": "Mademoiselle de Paris",
       "url": "https://open.spotify.com/track/3cGMK5oIwTvy4IZNVtWSxc"
@@ -2109,6 +2163,24 @@
       "duration_ms": 192360,
       "name": "Music Box Dancer",
       "url": "https://open.spotify.com/track/5NdzToomqRRxNSR0F0nUHg"
+    },
+    {
+      "album": {
+        "name": "A Very Special Christmas with Frank Mills",
+        "url": "https://open.spotify.com/album/6labTeRFwbkmiHstypPO9W"
+      },
+      "artists": [
+        {
+          "name": "Frank Mills",
+          "url": "https://open.spotify.com/artist/1rlNSO7W5SWGspO6fgrHPS"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 192600,
+      "name": "Music Box Dancer",
+      "url": "https://open.spotify.com/track/4uLFmjWhVPqtj2esRi8gq9"
     },
     {
       "album": {
@@ -2563,7 +2635,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": "2022-11-13",
       "duration_ms": 180373,
       "name": "Saute-Mouton",
       "url": "https://open.spotify.com/track/2NVfqbSEFDT6CmDA2DQMpZ"
@@ -2635,7 +2707,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": "2022-11-13",
       "duration_ms": 149360,
       "name": "Siempre en mi corazon",
       "url": "https://open.spotify.com/track/5Al2fsmsCmUSVnBvM1FJDv"
@@ -2747,6 +2819,24 @@
       "duration_ms": 167440,
       "name": "Something for Sellers",
       "url": "https://open.spotify.com/track/4Co9m7SzabppimfOHMFZKp"
+    },
+    {
+      "album": {
+        "name": "Martinis With Mancini",
+        "url": "https://open.spotify.com/album/0s6hs4iFh5wZwjsOAZIb1f"
+      },
+      "artists": [
+        {
+          "name": "Henry Mancini",
+          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 168200,
+      "name": "Something for Sellers - From the Mirisch-G & E Production \"The Pink Panther\"",
+      "url": "https://open.spotify.com/track/6ilhwuaJDBhbexELtY9CJE"
     },
     {
       "album": {
@@ -2891,7 +2981,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 157010,
       "name": "Star Dust",
       "url": "https://open.spotify.com/track/36JolOfhgRcjujpMuH37Fj"
@@ -3385,7 +3475,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 165666,
       "name": "Yellow Bird",
       "url": "https://open.spotify.com/track/7uJQUtgOzvSlVM3oyY012O"

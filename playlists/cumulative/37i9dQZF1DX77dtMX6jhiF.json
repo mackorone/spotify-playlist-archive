@@ -322,6 +322,24 @@
     },
     {
       "album": {
+        "name": "Legend (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/04VRfesff9bgDA2Q8J2oDo"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 212640,
+      "name": "Jamming",
+      "url": "https://open.spotify.com/track/0NDJeqkaT4a7WlC3Uj2ig5"
+    },
+    {
+      "album": {
         "name": "Promise",
         "url": "https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae"
       },
@@ -729,6 +747,32 @@
       "duration_ms": 328826,
       "name": "The Blacker The Berry",
       "url": "https://open.spotify.com/track/5Mtt6tZSZA9cXTHGSGpyh0"
+    },
+    {
+      "album": {
+        "name": "Producers Choice, Vol. 6 (Feat. Jordan McClure & David Hayle)",
+        "url": "https://open.spotify.com/album/5eFqZdhjxUhwslHnFez95D"
+      },
+      "artists": [
+        {
+          "name": "Mavado",
+          "url": "https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu"
+        },
+        {
+          "name": "Jordan Mcclure",
+          "url": "https://open.spotify.com/artist/7KoVMFdL4ElB1nMlBug2Pa"
+        },
+        {
+          "name": "David Hayle",
+          "url": "https://open.spotify.com/artist/5Pv0COZlHqBONbLmnsPFRB"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 177013,
+      "name": "The Messiah",
+      "url": "https://open.spotify.com/track/5wnTy8q2pU3nEVe4PwILXe"
     },
     {
       "album": {

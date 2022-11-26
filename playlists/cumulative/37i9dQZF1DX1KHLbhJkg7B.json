@@ -272,6 +272,24 @@
     },
     {
       "album": {
+        "name": "Anti-Hero (Country Version)",
+        "url": "https://open.spotify.com/album/2oBYZQh1jUxidkpVHK3vsW"
+      },
+      "artists": [
+        {
+          "name": "Josiah and the Bonnevilles",
+          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190470,
+      "name": "Anti-Hero (Country Version)",
+      "url": "https://open.spotify.com/track/3d8XudkDMa3bH7SnEdpwDF"
+    },
+    {
+      "album": {
         "name": "Anymore",
         "url": "https://open.spotify.com/album/5DfR3WXx0ior8OriOD9cK1"
       },
@@ -287,6 +305,24 @@
       "duration_ms": 245000,
       "name": "Anymore",
       "url": "https://open.spotify.com/track/74iNoeAILH4cxEEHbVE8p5"
+    },
+    {
+      "album": {
+        "name": "Anyone",
+        "url": "https://open.spotify.com/album/3SZjxYfXYl3LWNI3VVV4NC"
+      },
+      "artists": [
+        {
+          "name": "Spencer Crandall",
+          "url": "https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202921,
+      "name": "Anyone",
+      "url": "https://open.spotify.com/track/6LwOHSi4IoJtivi221knNa"
     },
     {
       "album": {
@@ -417,6 +453,24 @@
       "duration_ms": 338121,
       "name": "Bleeding Love",
       "url": "https://open.spotify.com/track/55zTNpfdbGivevXhRqSfq8"
+    },
+    {
+      "album": {
+        "name": "Bless the Broken Road",
+        "url": "https://open.spotify.com/album/6iKcEtNDnjXaPtHGL9Vnwo"
+      },
+      "artists": [
+        {
+          "name": "Dylan Brady",
+          "url": "https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186560,
+      "name": "Bless the Broken Road",
+      "url": "https://open.spotify.com/track/1EeCCbgSTeusyCCswMNvyc"
     },
     {
       "album": {
@@ -742,6 +796,42 @@
     },
     {
       "album": {
+        "name": "Dangerous: The Double Album (Bonus)",
+        "url": "https://open.spotify.com/album/6LBPsXUjVuNe9ywLY4xgvX"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 293706,
+      "name": "Cover Me Up",
+      "url": "https://open.spotify.com/track/6xcLEasRqROfaDf3Iom5nW"
+    },
+    {
+      "album": {
+        "name": "if i ever get there: a day at blackbird studio",
+        "url": "https://open.spotify.com/album/4N6uVFBQiz6x4UqRmClANc"
+      },
+      "artists": [
+        {
+          "name": "Brittney Spencer",
+          "url": "https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276650,
+      "name": "cowboy take me away",
+      "url": "https://open.spotify.com/track/46Qrlkk74beV2EUTmGKLRg"
+    },
+    {
+      "album": {
         "name": "Cowboy Take Me Away",
         "url": "https://open.spotify.com/album/1aobWPjcsTxSPjYpPXTTBm"
       },
@@ -894,6 +984,28 @@
     },
     {
       "album": {
+        "name": "Don't Laugh at Me",
+        "url": "https://open.spotify.com/album/1Z8x8uSkl5LXCNWlPFCKJ6"
+      },
+      "artists": [
+        {
+          "name": "Home Free",
+          "url": "https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7"
+        },
+        {
+          "name": "Mark Wills",
+          "url": "https://open.spotify.com/artist/0dlwjJe4kg9TgOMN184bJF"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 209164,
+      "name": "Don't Laugh at Me",
+      "url": "https://open.spotify.com/track/1zJfRinnh3lnteu6kKED6e"
+    },
+    {
+      "album": {
         "name": "Don't Start Now",
         "url": "https://open.spotify.com/album/5vhFIgwblQZlHDvTOAS3OX"
       },
@@ -995,7 +1107,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 202988,
       "name": "Drivers License",
       "url": "https://open.spotify.com/track/5kP970YG6XuXHfXZiTW5sk"
@@ -1593,7 +1705,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-22",
       "duration_ms": 225632,
       "name": "Happier - Recorded At Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/57DVaIfWIKSx3zW9mcVFhc"
@@ -1828,6 +1940,24 @@
     },
     {
       "album": {
+        "name": "How's It Going To Be",
+        "url": "https://open.spotify.com/album/5i12HkZB9nh38tRvFXmyxS"
+      },
+      "artists": [
+        {
+          "name": "The Roads Below",
+          "url": "https://open.spotify.com/artist/4gTxZRVdDpwAZCpSaXy7fI"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231818,
+      "name": "How's It Going To Be",
+      "url": "https://open.spotify.com/track/7na30RWB0zAMrXanGSaXCJ"
+    },
+    {
+      "album": {
         "name": "American IV: The Man Comes Around",
         "url": "https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9"
       },
@@ -1951,7 +2081,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 191258,
       "name": "I Wanna Dance with Somebody",
       "url": "https://open.spotify.com/track/0gfWDWiib6CeXZk6nUSh5z"
@@ -2045,6 +2175,24 @@
       "duration_ms": 88001,
       "name": "I'll Be Seeing You",
       "url": "https://open.spotify.com/track/3QVRs5pzioADVwn7v8NGC1"
+    },
+    {
+      "album": {
+        "name": "I'm A Ram",
+        "url": "https://open.spotify.com/album/4xjepYZE6XEVmilmR20ixm"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239040,
+      "name": "I'm A Ram",
+      "url": "https://open.spotify.com/track/2dETiUOY9D2SrD7Buqt6oQ"
     },
     {
       "album": {
@@ -2175,6 +2323,24 @@
       "duration_ms": 244906,
       "name": "If I Were A Boy",
       "url": "https://open.spotify.com/track/31ULoPWd5SMnGsLEL9YQgh"
+    },
+    {
+      "album": {
+        "name": "If It Makes You Happy",
+        "url": "https://open.spotify.com/album/7ldbJFeq7hcpCJjQxYhZFd"
+      },
+      "artists": [
+        {
+          "name": "Joey Hyde",
+          "url": "https://open.spotify.com/artist/6zAROtrmmahss9R8KCCWRo"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299711,
+      "name": "If It Makes You Happy",
+      "url": "https://open.spotify.com/track/30gZwjtb11DhFSnMYYeoZc"
     },
     {
       "album": {
@@ -2356,6 +2522,28 @@
     },
     {
       "album": {
+        "name": "It's Only Rock 'N' Roll (But I Like It)",
+        "url": "https://open.spotify.com/album/6g7AqmtgaMi9JCV7HbJNbS"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        },
+        {
+          "name": "The War and Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322346,
+      "name": "It's Only Rock 'N' Roll (But I Like It)",
+      "url": "https://open.spotify.com/track/0aSiH0zALY5KFZNSvbJePh"
+    },
+    {
+      "album": {
         "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
         "url": "https://open.spotify.com/album/58ho3We8TBDCQYMLyNetqN"
       },
@@ -2411,6 +2599,24 @@
       "duration_ms": 180493,
       "name": "Jambalaya (On The Bayou)",
       "url": "https://open.spotify.com/track/0A3YvB4Go1S8kJnLiQEWPs"
+    },
+    {
+      "album": {
+        "name": "Jersey Giant",
+        "url": "https://open.spotify.com/album/6g0TVq73ck6OaG5hOEmeFO"
+      },
+      "artists": [
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266320,
+      "name": "Jersey Giant",
+      "url": "https://open.spotify.com/track/1tyw50Pcn8A5X17Ojus9cr"
     },
     {
       "album": {
@@ -2649,7 +2855,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 169317,
       "name": "Lord, I Hope This Day Is Good",
       "url": "https://open.spotify.com/track/4cFvCa5PLr7HTVosmwX4iL"
@@ -3195,7 +3401,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 243545,
       "name": "Outskirts of Heaven",
       "url": "https://open.spotify.com/track/7H3EzoWKPRcagDVhJU4WxI"
@@ -3615,7 +3821,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 271771,
       "name": "Simple Man",
       "url": "https://open.spotify.com/track/57bSzHwlhpD6N6vS81P0DV"
@@ -3825,7 +4031,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-06",
       "duration_ms": 203813,
       "name": "Straight Tequila Night",
       "url": "https://open.spotify.com/track/6rM6byRRxL2BZEKJ4UMNBl"
@@ -4003,6 +4209,28 @@
       "duration_ms": 241263,
       "name": "Take Me Back to Tulsa (feat. George Strait and Willie Nelson)",
       "url": "https://open.spotify.com/track/6ggNjeHvyMtEMSe7Es3EUB"
+    },
+    {
+      "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/1qP5WX9ynLx93VQadyYuN0"
+      },
+      "artists": [
+        {
+          "name": "Chris Ruediger",
+          "url": "https://open.spotify.com/artist/0MLe1DKmSKbDXw5zw45rJ7"
+        },
+        {
+          "name": "The 615 House",
+          "url": "https://open.spotify.com/artist/2CjBXcTF8Jd9WHHA2rOg0q"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217200,
+      "name": "Teenage Dream",
+      "url": "https://open.spotify.com/track/26lrynwoaN6Bz8oVU5VdO8"
     },
     {
       "album": {
@@ -4305,7 +4533,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 194778,
       "name": "Three Wooden Crosses - The Bootlegger Sessions",
       "url": "https://open.spotify.com/track/2mhU8jchJbM4u164c2CQ1z"
@@ -4471,7 +4699,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 267802,
       "name": "Versace On the Floor - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4PiQApOUbCc8sBb0ibobRJ"
@@ -4583,6 +4811,24 @@
       "duration_ms": 257733,
       "name": "Walking In Memphis",
       "url": "https://open.spotify.com/track/3c9WJhG3QvTtHmwKb5wz3i"
+    },
+    {
+      "album": {
+        "name": "Wasting All These Tears",
+        "url": "https://open.spotify.com/album/5Z2ubQ6PRRFJ3smuU2YTLe"
+      },
+      "artists": [
+        {
+          "name": "Austin Snell",
+          "url": "https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195200,
+      "name": "Wasting All These Tears",
+      "url": "https://open.spotify.com/track/53F09zoZSMdnUex1VjnMPj"
     },
     {
       "album": {
@@ -4767,7 +5013,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 371448,
       "name": "Wicked Game",
       "url": "https://open.spotify.com/track/7hQ9bSd1lU9yQkykhkKsMs"
@@ -4803,7 +5049,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 240224,
       "name": "Wide Open Spaces - Spotify Singles",
       "url": "https://open.spotify.com/track/5ZO6g6fEK9tsXNn2yqlzIr"

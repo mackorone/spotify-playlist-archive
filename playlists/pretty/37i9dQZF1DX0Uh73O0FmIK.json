@@ -1,13 +1,49 @@
 {
   "description": "01110000 01101100 01100001 01111001 01101100 01101001 01110011 01110100",
-  "num_followers": 90954,
+  "num_followers": 103784,
   "original_name": "metaverses",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDgyODQwOSwwMDAwMDAwMDkyYTQ0NTZlODYxYzllNTEyMTk2OWVkN2U3NjBjZTAx",
+  "snapshot_id": "MTY2OTM5NTE4MCwwMDAwMDAwMDQxMDgzNTY1NmI4OGQzNjYzMzc2YmQ4MGIxNTQ1ODJm",
   "tracks": [
+    {
+      "added_at": "2022-10-24 14:09:12",
+      "album": {
+        "name": "Cyberpunk 2077: Radio, Vol. 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A"
+      },
+      "artists": [
+        {
+          "name": "Rosa Walton",
+          "url": "https://open.spotify.com/artist/1X0HaTcdkHW7LviblBiEeq"
+        },
+        {
+          "name": "Hallie Coggins",
+          "url": "https://open.spotify.com/artist/5JNkPX6dYGLeEm4cUjHNGc"
+        }
+      ],
+      "duration_ms": 246652,
+      "name": "I Really Want to Stay at Your House",
+      "url": "https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm"
+    },
+    {
+      "added_at": "2022-09-03 16:10:45",
+      "album": {
+        "name": "Nightcall",
+        "url": "https://open.spotify.com/album/07nBld9enf1PyRysZAVSqJ"
+      },
+      "artists": [
+        {
+          "name": "Kavinsky",
+          "url": "https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV"
+        }
+      ],
+      "duration_ms": 258413,
+      "name": "Nightcall",
+      "url": "https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j"
+    },
     {
       "added_at": "2022-09-03 16:10:45",
       "album": {
@@ -39,22 +75,6 @@
       "duration_ms": 259146,
       "name": "After Dark",
       "url": "https://open.spotify.com/track/2LKOHdMsL0K9KwcPRlJK2v"
-    },
-    {
-      "added_at": "2022-09-03 16:10:45",
-      "album": {
-        "name": "Nightcall",
-        "url": "https://open.spotify.com/album/07nBld9enf1PyRysZAVSqJ"
-      },
-      "artists": [
-        {
-          "name": "Kavinsky",
-          "url": "https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV"
-        }
-      ],
-      "duration_ms": 258413,
-      "name": "Nightcall",
-      "url": "https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j"
     },
     {
       "added_at": "2022-09-03 16:10:45",
@@ -177,6 +197,22 @@
       "url": "https://open.spotify.com/track/3TjliM0xQ3fkza0RpINRrq"
     },
     {
+      "added_at": "2022-10-24 14:09:12",
+      "album": {
+        "name": "Always Outnumbered, Never Outgunned",
+        "url": "https://open.spotify.com/album/6kjD6MJ95xECin1kxGeAlM"
+      },
+      "artists": [
+        {
+          "name": "The Prodigy",
+          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
+        }
+      ],
+      "duration_ms": 307800,
+      "name": "Spitfire",
+      "url": "https://open.spotify.com/track/0ERv9Zf4AJJdQ1sIztb15v"
+    },
+    {
       "added_at": "2022-09-03 16:10:45",
       "album": {
         "name": "Odyssey",
@@ -191,6 +227,26 @@
       "duration_ms": 212881,
       "name": "Resonance",
       "url": "https://open.spotify.com/track/65r94rVdiMwqXyQFEr3tqT"
+    },
+    {
+      "added_at": "2022-11-25 16:53:00",
+      "album": {
+        "name": "Eveningpol",
+        "url": "https://open.spotify.com/album/6UySJRBKHW19DYB8jx9dlY"
+      },
+      "artists": [
+        {
+          "name": "R. Missing",
+          "url": "https://open.spotify.com/artist/4EVSMYb2zBDoSHSGEqeztu"
+        },
+        {
+          "name": "Levingtquatre",
+          "url": "https://open.spotify.com/artist/1mksa9q8wjMTdaOzxtoOlA"
+        }
+      ],
+      "duration_ms": 168960,
+      "name": "Eveningpol",
+      "url": "https://open.spotify.com/track/2etXkxlwIPZyFLfUpfaFHO"
     },
     {
       "added_at": "2022-09-03 16:10:45",
@@ -576,7 +632,7 @@
       "added_at": "2022-09-03 16:10:45",
       "album": {
         "name": "Hypnocurrency",
-        "url": "https://open.spotify.com/album/28WW07Sx0IrAXAb1xDDnD3"
+        "url": "https://open.spotify.com/album/42JmDtuxBI5cOjCojXkf2P"
       },
       "artists": [
         {
@@ -590,7 +646,7 @@
       ],
       "duration_ms": 292524,
       "name": "Hypnocurrency",
-      "url": "https://open.spotify.com/track/3evAUkYDPeLX5kn0LbvGz4"
+      "url": "https://open.spotify.com/track/6H3uEl6cwtz6w8w1vTbAxE"
     },
     {
       "added_at": "2022-09-03 16:10:45",
@@ -703,26 +759,6 @@
       "duration_ms": 294360,
       "name": "Deicide",
       "url": "https://open.spotify.com/track/2qMIhahrpJUksR0MuigQV6"
-    },
-    {
-      "added_at": "2022-09-03 16:10:45",
-      "album": {
-        "name": "Business Class",
-        "url": "https://open.spotify.com/album/6Q73cei1BLUT7RdFR7dDvX"
-      },
-      "artists": [
-        {
-          "name": "See You Next Year",
-          "url": "https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv"
-        },
-        {
-          "name": "MIKE DEAN",
-          "url": "https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc"
-        }
-      ],
-      "duration_ms": 282947,
-      "name": "Business Class",
-      "url": "https://open.spotify.com/track/6562NxLaKG87YFbsUHFBKu"
     },
     {
       "added_at": "2022-09-03 16:10:45",
@@ -931,38 +967,6 @@
     {
       "added_at": "2022-09-03 16:10:45",
       "album": {
-        "name": "The Social Network",
-        "url": "https://open.spotify.com/album/1ijkFiMeHopKkHyvQCWxUa"
-      },
-      "artists": [
-        {
-          "name": "Trent Reznor and Atticus Ross",
-          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
-        }
-      ],
-      "duration_ms": 296770,
-      "name": "In Motion",
-      "url": "https://open.spotify.com/track/50CgC2wKmbWm4WLQKY87oP"
-    },
-    {
-      "added_at": "2022-09-03 16:10:45",
-      "album": {
-        "name": "LCD Soundsystem",
-        "url": "https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL"
-      },
-      "artists": [
-        {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
-        }
-      ],
-      "duration_ms": 299000,
-      "name": "Tribulations",
-      "url": "https://open.spotify.com/track/5JOO8UMaEpOfhhatQQsAqm"
-    },
-    {
-      "added_at": "2022-09-03 16:10:45",
-      "album": {
         "name": "In Decay",
         "url": "https://open.spotify.com/album/6M4kfVR0hxL1zXfoANKP0q"
       },
@@ -1103,22 +1107,6 @@
     {
       "added_at": "2022-09-03 16:10:45",
       "album": {
-        "name": "Music Has The Right To Children",
-        "url": "https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 151520,
-      "name": "Roygbiv",
-      "url": "https://open.spotify.com/track/2XQSgmtEY2titXhfY414dy"
-    },
-    {
-      "added_at": "2022-09-03 16:10:45",
-      "album": {
         "name": "Synrise (10 Year Anniversary Edition)",
         "url": "https://open.spotify.com/album/50bwcjkUxwqx6GS3pP5Cvb"
       },
@@ -1251,22 +1239,6 @@
     {
       "added_at": "2022-09-03 16:10:45",
       "album": {
-        "name": "The Money Store",
-        "url": "https://open.spotify.com/album/1PQDjdBpHPikAodJqjzm6a"
-      },
-      "artists": [
-        {
-          "name": "Death Grips",
-          "url": "https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH"
-        }
-      ],
-      "duration_ms": 275520,
-      "name": "Hacker",
-      "url": "https://open.spotify.com/track/7y8X0Z04gJCKtfrnSAMywJ"
-    },
-    {
-      "added_at": "2022-09-03 16:10:45",
-      "album": {
         "name": "Player Of Games",
         "url": "https://open.spotify.com/album/1WdV2sVtRWpiaPAxyvq51r"
       },
@@ -1315,54 +1287,6 @@
     {
       "added_at": "2022-09-03 16:10:45",
       "album": {
-        "name": "TASTY",
-        "url": "https://open.spotify.com/album/7zp2TBTMWbmiDWAVh8yfpB"
-      },
-      "artists": [
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        }
-      ],
-      "duration_ms": 144200,
-      "name": "TASTY",
-      "url": "https://open.spotify.com/track/4XqpRH4wcNna6H1fEaSghG"
-    },
-    {
-      "added_at": "2022-09-03 16:10:45",
-      "album": {
-        "name": "DJ-Kicks (Forest Swords) [DJ Mix]",
-        "url": "https://open.spotify.com/album/3YCh0CPUNvjvnuaJ459MZv"
-      },
-      "artists": [
-        {
-          "name": "Forest Swords",
-          "url": "https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP"
-        }
-      ],
-      "duration_ms": 214130,
-      "name": "Crow (DJ-Kicks) - Mixed",
-      "url": "https://open.spotify.com/track/4s5zfEwFuufmA9KLDHF8ft"
-    },
-    {
-      "added_at": "2022-09-03 16:10:45",
-      "album": {
-        "name": "E",
-        "url": "https://open.spotify.com/album/443fOM9A1XN8A0HImpYKVT"
-      },
-      "artists": [
-        {
-          "name": "Ecco2k",
-          "url": "https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX"
-        }
-      ],
-      "duration_ms": 214187,
-      "name": "Peroxide",
-      "url": "https://open.spotify.com/track/1fbmkoREwP13dkXJI5YGfn"
-    },
-    {
-      "added_at": "2022-09-03 16:10:45",
-      "album": {
         "name": "Idealism",
         "url": "https://open.spotify.com/album/50MnC37ZrDB6U94K6M1do8"
       },
@@ -1375,38 +1299,6 @@
       "duration_ms": 226466,
       "name": "Pogo",
       "url": "https://open.spotify.com/track/67y8hDBlt0p74eeRwKz1KJ"
-    },
-    {
-      "added_at": "2022-09-03 16:10:45",
-      "album": {
-        "name": "The Weight",
-        "url": "https://open.spotify.com/album/5zB9HVERRys2UNiyNszxIP"
-      },
-      "artists": [
-        {
-          "name": "Weval",
-          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
-        }
-      ],
-      "duration_ms": 344258,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/7LA4E5n1SvGb2Srzh6bCZ8"
-    },
-    {
-      "added_at": "2022-09-03 16:10:45",
-      "album": {
-        "name": "Enthusiast",
-        "url": "https://open.spotify.com/album/7B6rBkpEo0yYgVUgKbcAHU"
-      },
-      "artists": [
-        {
-          "name": "Siriusmo",
-          "url": "https://open.spotify.com/artist/22680B8sUdq6bL6nQaJfwg"
-        }
-      ],
-      "duration_ms": 212581,
-      "name": "Itchy",
-      "url": "https://open.spotify.com/track/3nuqSXnU3YUUpZ4yBdNlOG"
     },
     {
       "added_at": "2022-09-03 16:10:45",
@@ -1427,22 +1319,6 @@
       "duration_ms": 263764,
       "name": "Some Minds (feat. Andrew Wyatt)",
       "url": "https://open.spotify.com/track/65oGVYJfdT6mYIdmmb6q3c"
-    },
-    {
-      "added_at": "2022-09-03 16:10:45",
-      "album": {
-        "name": "VOID",
-        "url": "https://open.spotify.com/album/5UWAfUBImV6jcswkXkXZOs"
-      },
-      "artists": [
-        {
-          "name": "RL Grime",
-          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
-        }
-      ],
-      "duration_ms": 236800,
-      "name": "Core",
-      "url": "https://open.spotify.com/track/6Knx4Tp8hE7IlYtde2dCYI"
     },
     {
       "added_at": "2022-09-03 16:10:45",

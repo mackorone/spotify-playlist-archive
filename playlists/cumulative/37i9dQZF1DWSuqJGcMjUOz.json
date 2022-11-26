@@ -185,7 +185,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 177413,
       "name": "Amy",
       "url": "https://open.spotify.com/track/6cjoFnCGY5bBlcxu0W7gvq"
@@ -279,7 +279,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 185913,
       "name": "Beau beam",
       "url": "https://open.spotify.com/track/6ua2eIv3IxLvuxPqYn9dFV"
@@ -297,7 +297,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-12",
+      "date_removed": null,
       "duration_ms": 223266,
       "name": "Bonsa\u00ef",
       "url": "https://open.spotify.com/track/6LzREVOgZqgUhHkfuj209f"
@@ -333,7 +333,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 123000,
       "name": "Br\u00fbler des condos",
       "url": "https://open.spotify.com/track/3o4iZUEJHGlx9JKE8qePm1"
@@ -721,6 +721,42 @@
     {
       "album": {
         "name": "OCTEMBRE",
+        "url": "https://open.spotify.com/album/3Njv7LsQ4QBCYrtAvexhdO"
+      },
+      "artists": [
+        {
+          "name": "Hubert Lenoir",
+          "url": "https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 189712,
+      "name": "DIMANCHE SOIR",
+      "url": "https://open.spotify.com/track/0R7qTLkd6VR3QJeEmdG2by"
+    },
+    {
+      "album": {
+        "name": "OCTEMBRE",
+        "url": "https://open.spotify.com/album/6U0usnBvoliJcfq7xxmEZA"
+      },
+      "artists": [
+        {
+          "name": "Hubert Lenoir",
+          "url": "https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 189712,
+      "name": "DIMANCHE SOIR",
+      "url": "https://open.spotify.com/track/1xTasIo5MGbmSi792apTaz"
+    },
+    {
+      "album": {
+        "name": "OCTEMBRE",
         "url": "https://open.spotify.com/album/0K0qvDRwlR3XcVDuJy4Jqx"
       },
       "artists": [
@@ -811,7 +847,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-03",
+      "date_removed": "2022-11-13",
       "duration_ms": 209306,
       "name": "Espoir",
       "url": "https://open.spotify.com/track/6wUL2qBFXtycEgsoMrRjce"
@@ -999,7 +1035,7 @@
     {
       "album": {
         "name": "Equilibre",
-        "url": "https://open.spotify.com/album/0z1AllM1nbO8X3F7KKYy2t"
+        "url": "https://open.spotify.com/album/05i1g2VNkI7hBdIADta182"
       },
       "artists": [
         {
@@ -1010,6 +1046,24 @@
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 201573,
+      "name": "Il n'y a que toi",
+      "url": "https://open.spotify.com/track/1RqiVKbXmMpa5w70ebmCds"
+    },
+    {
+      "album": {
+        "name": "Equilibre",
+        "url": "https://open.spotify.com/album/0z1AllM1nbO8X3F7KKYy2t"
+      },
+      "artists": [
+        {
+          "name": "The Pirouettes",
+          "url": "https://open.spotify.com/artist/1Jp2BVxy67R0OaudOV9lm1"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-26",
       "duration_ms": 201573,
       "name": "Il n'y a que toi",
       "url": "https://open.spotify.com/track/437SZweapEV4CPxYc6OHi2"
@@ -1893,10 +1947,32 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 232786,
       "name": "Mezcal",
       "url": "https://open.spotify.com/track/2jMl3KEBFAS0DUH3BvKtWX"
+    },
+    {
+      "album": {
+        "name": "Mezcal",
+        "url": "https://open.spotify.com/album/3C1VzCBBwR29j8w65cKsf8"
+      },
+      "artists": [
+        {
+          "name": "Hansom \u0112li",
+          "url": "https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh"
+        },
+        {
+          "name": "Mike Clay",
+          "url": "https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232786,
+      "name": "Mezcal",
+      "url": "https://open.spotify.com/track/73R2AFv1uvr6mNgjmz36wx"
     },
     {
       "album": {
@@ -2099,6 +2175,24 @@
       "duration_ms": 204343,
       "name": "Nouveau monde",
       "url": "https://open.spotify.com/track/0OSJ5W0WTd6zfUn3fi2zFt"
+    },
+    {
+      "album": {
+        "name": "Nouveau monde",
+        "url": "https://open.spotify.com/album/0RB3ssBIsJwmBeLezYBCXv"
+      },
+      "artists": [
+        {
+          "name": "Corneille",
+          "url": "https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 204343,
+      "name": "Nouveau monde",
+      "url": "https://open.spotify.com/track/2njmoIaPd0hKIlCFtyGHUZ"
     },
     {
       "album": {
@@ -2640,6 +2734,24 @@
     },
     {
       "album": {
+        "name": "La Force d'\u00c9ros",
+        "url": "https://open.spotify.com/album/5a26SnsK7DduKfPoK3Xy3U"
+      },
+      "artists": [
+        {
+          "name": "Gab Paquet",
+          "url": "https://open.spotify.com/artist/6RQFfAmeNqrEaTaFWitpOp"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212509,
+      "name": "Sexy",
+      "url": "https://open.spotify.com/track/7F1EI4ZSFNOXm1jVl1clsE"
+    },
+    {
+      "album": {
         "name": "En bref",
         "url": "https://open.spotify.com/album/4snZcUlbCHJNMpcsr06XrH"
       },
@@ -2849,7 +2961,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 229413,
       "name": "Sweet Mont\u00e9r\u00e9gie",
       "url": "https://open.spotify.com/track/622Po4YytbjATQ1B9J6xid"
@@ -2983,6 +3095,24 @@
       "duration_ms": 233986,
       "name": "Un \u00e9t\u00e9 chez nous",
       "url": "https://open.spotify.com/track/6k9i6yRP8UIxKhHJviALZQ"
+    },
+    {
+      "album": {
+        "name": "Un singe sur l'\u00e9paule",
+        "url": "https://open.spotify.com/album/1EET3eGh9diFTxDBew3tjo"
+      },
+      "artists": [
+        {
+          "name": "Julia Daigle",
+          "url": "https://open.spotify.com/artist/2rO9smzz3qf6qGNoKIbE6x"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254926,
+      "name": "Usage domestique",
+      "url": "https://open.spotify.com/track/2ZppabBSZY0rorfI5yxdln"
     },
     {
       "album": {

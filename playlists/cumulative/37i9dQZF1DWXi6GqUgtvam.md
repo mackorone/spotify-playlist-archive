@@ -4,7 +4,7 @@
 
 > medieval tunes for board gaming, roleplay or some historical chill.
 
-72 songs - 3 hr 53 min - [published](https://open.spotify.com/playlist/5zqZQ0RHU2SaSCukHbFI9b)
+74 songs - 3 hr 56 min - [published](https://open.spotify.com/playlist/5zqZQ0RHU2SaSCukHbFI9b)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Fantasia \- Instrumental](https://open.spotify.com/track/3hYHCMkZG7ImrgChQi5PwU) | [Alonso Mudarra](https://open.spotify.com/artist/7vAEvCZlKOLpLqHzfAPdej), [Lutz Kirchhof](https://open.spotify.com/artist/22dMjgcNzSEmrWEtU8JBVH) | [NPR Milestones of the Millennium: The Renaissance in Music](https://open.spotify.com/album/3Q8GxkzDXMIBtynAbYnqdO) | 1:34 | 2022-01-25 |  |
 | [Festival and Faire](https://open.spotify.com/track/1t15ZwSoumPAgRGZhrVH4h) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ) | [The Sims Medieval, Vol\. 1 \(Original Score Soundtrack\)](https://open.spotify.com/album/49qqOOK7Ah3FBeGwP3Lg7A) | 2:08 | 2022-01-25 | 2022-07-05 |
 | [Franchino Gaffurio: Virgo Dei](https://open.spotify.com/track/48mfwjuHKOvsiqPpibXxW1) | [Franchino Gaffurio](https://open.spotify.com/artist/2ZJvSHi1S50xnYzcH2jtOh), [Massimo Lonardi](https://open.spotify.com/artist/71CjcsnnbUxQG9N4BkOkg5) | [La musica a Milano al tempo di Leonardo da Vinci: La figurazione delle cose invisibili \(1452 \- 1519\)](https://open.spotify.com/album/2QAG7XWQJiRx7snMZZyS7H) | 2:37 | 2022-01-25 |  |
+| [Frogg galliard](https://open.spotify.com/track/6xNHV1MLHrlRPlPx7UDA3x) | [Hopkinson Smith](https://open.spotify.com/artist/7zcQ4msi1fjUPlCYypzkNy), [John Dowland](https://open.spotify.com/artist/1mhwtKvBm1ncoOrUtnQUgk) | [A Portrait](https://open.spotify.com/album/32noSvMP3rjFYhOvazJoHQ) | 2:44 | 2022-10-03 | 2022-11-13 |
 | [Frogg Galliard](https://open.spotify.com/track/4uswqnBI5LjRIcTr3LgFcF) | [Hopkinson Smith](https://open.spotify.com/artist/7zcQ4msi1fjUPlCYypzkNy), [John Dowland](https://open.spotify.com/artist/1mhwtKvBm1ncoOrUtnQUgk) | [Dowland \- A Dream](https://open.spotify.com/album/03DIodWT7tCGMsNEUsTi5M) | 2:44 | 2022-07-11 |  |
 | [Frogg Galliard](https://open.spotify.com/track/6Z7E4Qk7NTmtgSxPrWUpqG) | [John Dowland](https://open.spotify.com/artist/1mhwtKvBm1ncoOrUtnQUgk), [Hopkinson Smith](https://open.spotify.com/artist/7zcQ4msi1fjUPlCYypzkNy) | [Dowland: A Dream](https://open.spotify.com/album/7kdDoVzaabzaaqCv5zDiGi) | 2:44 | 2022-01-25 | 2022-07-29 |
 | [Gloriana: Courtly Dances: Galliard](https://open.spotify.com/track/0qaw30WDhtinR04AeHpe2x) | [Benjamin Britten](https://open.spotify.com/artist/7MJ1pB5d6Vjmzep2zQlorn), [The Julian Bream Consort](https://open.spotify.com/artist/0Tq7RIzkJrCoFwolOKMxSM), [Julian Bream](https://open.spotify.com/artist/6vjF8XdNoqVRj5G021FBM6) | [Rodrigo: Concierto de Aranjuez \- Britten: The Courtly Dances from Gloriana \- Vivaldi: Concerto for Lute in D Major, RV 93](https://open.spotify.com/album/1cFkk7HDMgK099aukr6GRv) | 2:36 | 2022-07-11 |  |
@@ -80,5 +81,6 @@
 | [Welscher Tantz](https://open.spotify.com/track/3oytASoqTiWj4BVkEcAZk9) | [Anonymous](https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y), [Early Music Consort Of London](https://open.spotify.com/artist/3KJWGEUmYDVD1BIzFjd0kd), [David Munrow](https://open.spotify.com/artist/3g42bvWbvi723weXdEiROz) | [The Triumphs of Maximilian](https://open.spotify.com/album/6DYJVAo5Q3qJQq2VxiZLpC) | 1:59 | 2022-07-11 | 2022-08-31 |
 | [Wild Boar Inn](https://open.spotify.com/track/0J5dQaraExlSRVtny0u7UB) | [Celestial Aeon Project](https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO) | [Inns & Taverns](https://open.spotify.com/album/7MVPWVTAhypYmu6NjTH05u) | 0:50 | 2022-07-11 |  |
 | [Wild Boar Inn](https://open.spotify.com/track/2QTP9Tf3j2fxjFKkrqArNu) | [Celestial Aeon Project](https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO) | [Inns & Taverns](https://open.spotify.com/album/7hFwvU7bZHmH3DY25rlz1s) | 0:50 | 2022-01-25 | 2022-07-29 |
+| [Wild Boar Inn](https://open.spotify.com/track/6IMlRZyvY1CBm56E9PJtJg) | [Celestial Aeon Project](https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO) | [Wild Boar Inn](https://open.spotify.com/album/3eJ9y2YBpfhrjFrKJFozBQ) | 0:50 | 2022-10-03 | 2022-11-14 |
 
 \*This playlist was first scraped on 2022-04-19. Prior content cannot be recovered.

@@ -27,7 +27,7 @@
     {
       "album": {
         "name": "ABC",
-        "url": "https://open.spotify.com/album/3btVhknqDeGAEd1Qj7lL57"
+        "url": "https://open.spotify.com/album/2tukc7pH4qTuXcfaHjLIBc"
       },
       "artists": [
         {
@@ -38,6 +38,24 @@
       "date_added": "2019-06-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 174866,
+      "name": "ABC",
+      "url": "https://open.spotify.com/track/6D8kc7RO0rqBLSo2YPflJ5"
+    },
+    {
+      "album": {
+        "name": "ABC",
+        "url": "https://open.spotify.com/album/3btVhknqDeGAEd1Qj7lL57"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "date_added": "2019-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-23",
       "duration_ms": 177733,
       "name": "ABC",
       "url": "https://open.spotify.com/track/6wDviYDtmSDZ0S6TVMM9Vc"
@@ -258,6 +276,24 @@
     },
     {
       "album": {
+        "name": "R&B for Kids",
+        "url": "https://open.spotify.com/album/0GPT4DKn3vdUxjIVIg5dVD"
+      },
+      "artists": [
+        {
+          "name": "India.Arie",
+          "url": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
+        }
+      ],
+      "date_added": "2019-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 209200,
+      "name": "Little Things - Main Edit",
+      "url": "https://open.spotify.com/track/3pfjaxbnMKRMcAJye5YdRT"
+    },
+    {
+      "album": {
         "name": "The Little Things",
         "url": "https://open.spotify.com/album/0xzVyQw1IBs4KeHoO7fTLk"
       },
@@ -402,6 +438,24 @@
     },
     {
       "album": {
+        "name": "A Collection Of 16 Original Big Hits Vol. 5",
+        "url": "https://open.spotify.com/album/2uPn55DVq4sZhcFLjVrPlS"
+      },
+      "artists": [
+        {
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+        }
+      ],
+      "date_added": "2019-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 175840,
+      "name": "Nowhere To Run - \"16 Big Hits\" Stereo Version",
+      "url": "https://open.spotify.com/track/1O7F1Mx4L4bSPi1j1pnjuy"
+    },
+    {
+      "album": {
         "name": "50th Anniversary | The Singles Collection | 1962-1972",
         "url": "https://open.spotify.com/album/0zwMKAZ1rc28juVDDWVtI9"
       },
@@ -489,6 +543,24 @@
       "duration_ms": 176626,
       "name": "Shotgun",
       "url": "https://open.spotify.com/track/6VzM9C7CXyn1BQdgTJVqDx"
+    },
+    {
+      "album": {
+        "name": "Motown Party",
+        "url": "https://open.spotify.com/album/1iNRf0nkYYB4zBTv34zF0x"
+      },
+      "artists": [
+        {
+          "name": "Jr. Walker & The All Stars",
+          "url": "https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd"
+        }
+      ],
+      "date_added": "2019-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 179800,
+      "name": "Shotgun",
+      "url": "https://open.spotify.com/track/1ZfxCQmXWYmTWwBgCy48Os"
     },
     {
       "album": {

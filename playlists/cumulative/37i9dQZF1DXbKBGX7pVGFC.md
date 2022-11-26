@@ -4,7 +4,7 @@
 
 > Shout\. Strut\. Unite\. Riot Grrrl classics and other feminist staples.
 
-75 songs - 3 hr 48 min - [published](https://open.spotify.com/playlist/3eskUlqxPCMMZOE5csh3l5)
+77 songs - 3 hr 56 min - [published](https://open.spotify.com/playlist/3eskUlqxPCMMZOE5csh3l5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Fairytale in the Supermarket](https://open.spotify.com/track/5oXm58OdnsRPy2wyz3ES5u) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [The Raincoats](https://open.spotify.com/album/190Tx9jPHndq0qUlq79BJJ) | 3:00 | 2019-08-21 |  |
 | [Feels Blind](https://open.spotify.com/track/3VKly1IGagrEfPAAyw96M4) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [Kill Rock Stars](https://open.spotify.com/album/5TZM8FoHBlbqXBKCllJH8i) | 3:36 | 2019-08-21 |  |
 | [Feels Blind](https://open.spotify.com/track/6PJhl2R4g80X0D8snFZb94) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [Kill Rock Stars](https://open.spotify.com/album/5H86xPRxAdyVP1b3RzCIjn) | 3:36 | 2019-08-21 | 2022-07-29 |
+| [Fuck the Pain Away](https://open.spotify.com/track/0AAjPLcJQAiEtrdkxA9kHE) | [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [PAY CLOSE ATTENTION: XL Recordings](https://open.spotify.com/album/3D9vUf511saEHLua6NcOLw) | 4:10 | 2019-08-21 | 2022-11-13 |
 | [Fuck the Pain Away](https://open.spotify.com/track/0NWWDumjD2TCrR6iV6ZFgR) | [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [The Teaches of Peaches](https://open.spotify.com/album/6gFOrIOM2TwzoRvobkpn1a) | 4:10 | 2019-08-21 |  |
 | [Fuck the Pain Away](https://open.spotify.com/track/1XHFob24QklIXtLRopKirJ) | [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [The Teaches of Peaches](https://open.spotify.com/album/5sgLqGnrMemtvQ5c4GUhab) | 4:10 | 2019-08-21 | 2022-07-29 |
 | [Gimme Brains](https://open.spotify.com/track/2ICGarWJwQiIGMl07os7sQ) | [Bratmobile](https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L) | [Ladies, Women and Girls](https://open.spotify.com/album/7J5Dh22aIS2NeMGXQ3LPN4) | 2:16 | 2019-08-21 |  |
@@ -72,6 +73,7 @@
 | [Survive](https://open.spotify.com/track/1aqzOmRuquglv3UAEi8Rte) | [The Bags](https://open.spotify.com/artist/5ARrP3PUwmseLT5FTqHqS1) | [Alright, This Time Just the Girls](https://open.spotify.com/album/6Ai8DyROkDYINkMfjTb0iO) | 2:45 | 2019-08-21 | 2022-07-29 |
 | [Sweet '69](https://open.spotify.com/track/55oE1XL7HceNY7VR7Nz4yu) | [Babes In Toyland ](https://open.spotify.com/artist/3Xdna5z74yNICNKqdaNX9z) | [Nemesisters](https://open.spotify.com/album/7KGRLGS0Bwc494GS7awFsL) | 4:04 | 2019-08-21 |  |
 | [Teenage Whore](https://open.spotify.com/track/5L3H63sBURBch3bUJ2acIJ) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Pretty On The Inside](https://open.spotify.com/album/335Wo8YySOsJdc0QV9ANvK) | 2:57 | 2019-08-21 |  |
+| [Too Many Creeps](https://open.spotify.com/track/7HvV02ekQiFZZASkTb3gm4) | [Bush Tetras](https://open.spotify.com/artist/2X2Q1fpEwW7WtZxXb4acYb) | [Soul Jazz Records Presents New York Noise: Dance Music From The New York Underground 1977\-1982](https://open.spotify.com/album/2kcJVlUxVnroZhZFtYIdpy) | 4:01 | 2019-08-21 | 2022-11-14 |
 | [Too Many Creeps](https://open.spotify.com/track/1B6CMzRedPLSt4KMzq3DfA) | [Bush Tetras](https://open.spotify.com/artist/2X2Q1fpEwW7WtZxXb4acYb) | [Boom In The Night](https://open.spotify.com/album/3MtfTbUQULHVAwv9v3g1pY) | 4:02 | 2019-08-21 | 2022-07-29 |
 | [Too Many Creeps](https://open.spotify.com/track/17yxzUcZSu3S9KyoGF0ckI) | [Bush Tetras](https://open.spotify.com/artist/2X2Q1fpEwW7WtZxXb4acYb) | [Rhythm and Paranoia: The Best of Bush Tetras](https://open.spotify.com/album/1N88J8RmLwvapgXTbuZe79) | 4:03 | 2019-08-21 |  |
 | [Typical Girls](https://open.spotify.com/track/395kSI564E2Rl1Nh5kGOxQ) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Cut \(Deluxe Edition\)](https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0) | 3:55 | 2019-08-21 |  |

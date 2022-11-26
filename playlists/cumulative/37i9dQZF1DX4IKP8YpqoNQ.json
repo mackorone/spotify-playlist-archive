@@ -535,6 +535,28 @@
     {
       "album": {
         "name": "Black Pumas (Expanded Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1gn89OoC81JmZk95TMmOux"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        },
+        {
+          "name": "Hypnotic Brass Ensemble",
+          "url": "https://open.spotify.com/artist/4wvPcMJk7L9Rbw9Qh4kBeH"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 269300,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/5MRB560kWM0Zr9evG1YQ4t"
+    },
+    {
+      "album": {
+        "name": "Black Pumas (Expanded Deluxe Edition)",
         "url": "https://open.spotify.com/album/3dgyglN3wrQu131OIjkdh7"
       },
       "artists": [
@@ -1053,10 +1075,28 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 182117,
       "name": "Grow - Live",
       "url": "https://open.spotify.com/track/6pIka0SZY51UfSPnxuuBps"
+    },
+    {
+      "album": {
+        "name": "Grow (Live)",
+        "url": "https://open.spotify.com/album/6FzSw4Dgm0W32Fl9kqJ2iL"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182117,
+      "name": "Grow - Live",
+      "url": "https://open.spotify.com/track/781fdksygYiSUmabvlqKQQ"
     },
     {
       "album": {
@@ -1575,7 +1615,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-09",
+      "date_removed": "2022-11-23",
       "duration_ms": 206600,
       "name": "Keep the Home Fire Burnin' - Live",
       "url": "https://open.spotify.com/track/3nVbQp2oSkQa0CRiiVubZp"
@@ -1695,7 +1735,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-20",
       "duration_ms": 232706,
       "name": "Let's Stay Together - Live",
       "url": "https://open.spotify.com/track/474iAHLvDbXAQnEI82i4RW"
@@ -2005,7 +2045,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 333577,
       "name": "No Love Dying - Live At The Royal Albert Hall / 02 April 2018",
       "url": "https://open.spotify.com/track/5zqOcGH3Is5EvPoMG9rBtx"
@@ -2803,7 +2843,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 210666,
       "name": "These Arms Of Mine",
       "url": "https://open.spotify.com/track/03pSPi9O3N1CkZ12M6Av44"
@@ -3008,6 +3048,24 @@
     },
     {
       "album": {
+        "name": "At The BBC",
+        "url": "https://open.spotify.com/album/741JhzvIOudONDzRg6wuWJ"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 231066,
+      "name": "Valerie - Live Jo Whiley, BBC Live Lounge Session / 2007",
+      "url": "https://open.spotify.com/track/4ml8AFICctVaeDXoZyhp42"
+    },
+    {
+      "album": {
         "name": "Authorized Bootleg/Warfield Theatre, San Francisco, CA, February 27, 1989",
         "url": "https://open.spotify.com/album/6EieVX7Wx9Bugz2AFBBZc3"
       },
@@ -3163,7 +3221,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 598533,
       "name": "Woman Of The Ghetto - Live From The Montreux Jazz Festival,Switzerland/1973",
       "url": "https://open.spotify.com/track/3BykBzEvJtKzlUAzlRaxky"
@@ -3351,7 +3409,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": "2022-11-13",
       "duration_ms": 413413,
       "name": "You're Gonna Miss Your Candy Man - Live",
       "url": "https://open.spotify.com/track/4lHfktTRWq6a3pjq2Km8Xb"

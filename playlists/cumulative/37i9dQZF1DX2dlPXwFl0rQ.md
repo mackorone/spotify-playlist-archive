@@ -4,7 +4,7 @@
 
 > Estas son las indomables del Regional Mexicano\. Dueto Eleval en portada.
 
-229 songs - 12 hr 22 min - [published](https://open.spotify.com/playlist/0i8T7w20lOXAWefxMbsjZ0)
+231 songs - 12 hr 30 min - [published](https://open.spotify.com/playlist/0i8T7w20lOXAWefxMbsjZ0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,8 +179,10 @@
 | [Qué Lindo Es Zapopan](https://open.spotify.com/track/4l0Y4U9h8IpDijghZLFKF6) | [Alejandra Orozco](https://open.spotify.com/artist/4xG7HHi0auDk7vPhOqGPR3) | [Qué Lindo Es Zapopan](https://open.spotify.com/album/7dPQm3SfgiOkteKW3Au5SV) | 3:02 | 2022-01-28 | 2022-03-04 |
 | [Qué Me Vas a Dar](https://open.spotify.com/track/1dqURLZC3n4EL6lPUF2DHx) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Parrandera, Rebelde y Atrevida](https://open.spotify.com/album/2I50wzYim7XrZhBSrolmzs) | 3:15 | 2021-12-17 |  |
 | [Qué Tanto Es Tantito?](https://open.spotify.com/track/3XhWQiIm58FolG13hJyzVE) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Qué Tanto Es Tantito?](https://open.spotify.com/album/3PWvvcSA1xFwXwy8fyO83F) | 3:41 | 2022-01-28 | 2022-03-18 |
+| [Quítame Ese Hombre Del Corazón \- Norteña Version](https://open.spotify.com/track/2NhJiVCrZgPZHHkDylN9EB) | [Pilar Montenegro](https://open.spotify.com/artist/5CSbKdrAQne1Jaen7pMkPF) | [Finde Retro](https://open.spotify.com/album/6lhBVHsuMJYSm0rZICtTZA) | 4:00 | 2022-09-23 | 2022-11-13 |
 | [Quítame Ese Hombre Del Corazón \- Norteña Version](https://open.spotify.com/track/2ifO8rsiW6HB5IyJqK1OsU) | [Pilar Montenegro](https://open.spotify.com/artist/5CSbKdrAQne1Jaen7pMkPF) | [Antigua Locura](https://open.spotify.com/album/7t2ZjUdMddxXioVCLq4y2t) | 4:00 | 2022-06-08 | 2022-08-23 |
 | [Quítame Ese Hombre Del Corazón \- Norteña Version](https://open.spotify.com/track/4M2g9eUZc3gpZRdZmSd8Cx) | [Pilar Montenegro](https://open.spotify.com/artist/5CSbKdrAQne1Jaen7pMkPF) | [Corazón Mexicano](https://open.spotify.com/album/5EeZoBgXcOMiSlDWrIY4zo) | 4:00 | 2021-12-17 | 2022-07-29 |
+| [Quítame Ese Hombre Del Corazón \- Norteña Version](https://open.spotify.com/track/4aV078HVjd2S1KD15slT63) | [Pilar Montenegro](https://open.spotify.com/artist/5CSbKdrAQne1Jaen7pMkPF) | [The Best Grupero Hits](https://open.spotify.com/album/0VGioiuARfPS0edIkalNoD) | 4:00 | 2022-09-23 | 2022-11-07 |
 | [Quítame Ese Hombre Del Corazón \- Norteña Version](https://open.spotify.com/track/51nRQic7PFMD4NsdRj6soX) | [Pilar Montenegro](https://open.spotify.com/artist/5CSbKdrAQne1Jaen7pMkPF) | [La Historia De Los Exitos Pop A La Mexicana](https://open.spotify.com/album/3pfJEAn0WEGXs2SkeJ2CKh) | 4:00 | 2022-06-08 |  |
 | [Recaer](https://open.spotify.com/track/3cONWvEXMdgERGKSfo1zH1) | [Griss Romero](https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA) | [Recaer](https://open.spotify.com/album/4YCWGUH5Ey4vB9k4vtKofJ) | 3:06 | 2022-04-08 | 2022-06-09 |
 | [Relatos de Mi Vida](https://open.spotify.com/track/4ticv8spDUKZtBoohfHHW0) | [Ana Kali](https://open.spotify.com/artist/72WBix9zVIa1wjF0GClyk9) | [Relatos de Mi Vida](https://open.spotify.com/album/1WrmBGURKmtFfpisHDoRyw) | 3:28 | 2021-12-17 | 2022-03-09 |

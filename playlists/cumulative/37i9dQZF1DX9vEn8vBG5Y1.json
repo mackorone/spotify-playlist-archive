@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "The Best Of 1990-2000",
+        "url": "https://open.spotify.com/album/5I099NUhbRrXaxnxQagElv"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 244866,
+      "name": "Beautiful Day",
+      "url": "https://open.spotify.com/track/5t514bZ4eZPtKJbKfuZJCA"
+    },
+    {
+      "album": {
         "name": "All That You Can't Leave Behind",
         "url": "https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g"
       },
@@ -333,7 +351,7 @@
       ],
       "date_added": "2020-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": "2022-11-13",
       "duration_ms": 248826,
       "name": "Chemistry",
       "url": "https://open.spotify.com/track/6JZYxCV6Fu5edOZYeptlck"
@@ -387,7 +405,7 @@
       ],
       "date_added": "2020-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 202026,
       "name": "Crazy for This Girl",
       "url": "https://open.spotify.com/track/2gdt70w8DOCWGq1HdkgSUd"
@@ -769,7 +787,7 @@
       ],
       "date_added": "2020-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-04",
+      "date_removed": "2022-11-14",
       "duration_ms": 280000,
       "name": "Her Diamonds",
       "url": "https://open.spotify.com/track/3LtwmK1OfN0dGs9jf3qSjn"
@@ -881,7 +899,7 @@
       ],
       "date_added": "2020-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 255253,
       "name": "Home",
       "url": "https://open.spotify.com/track/7KPTwEENcZ5r4KJ6FHmhLP"
@@ -942,6 +960,24 @@
     },
     {
       "album": {
+        "name": "Day & Age (Bonus Tracks)",
+        "url": "https://open.spotify.com/album/0Ug5scDXUIgGN8yanDBLQw"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "date_added": "2020-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 185360,
+      "name": "I Can't Stay",
+      "url": "https://open.spotify.com/track/2zdpz8sk3rkh0fLYabLjmj"
+    },
+    {
+      "album": {
         "name": "Chariot - Stripped",
         "url": "https://open.spotify.com/album/0Fm4Qx8IVHEEBYPeRzNUGI"
       },
@@ -989,7 +1025,7 @@
       ],
       "date_added": "2020-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 226173,
       "name": "I'll Keep Your Memory Vague",
       "url": "https://open.spotify.com/track/1RYy00jUPPA8Dr8nTuRb05"
@@ -1342,6 +1378,24 @@
     },
     {
       "album": {
+        "name": "Eyes Open",
+        "url": "https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3"
+      },
+      "artists": [
+        {
+          "name": "Snow Patrol",
+          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
+        }
+      ],
+      "date_added": "2020-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 347373,
+      "name": "Make This Go On Forever",
+      "url": "https://open.spotify.com/track/33Hgpos7EfwgEQOLrF8U30"
+    },
+    {
+      "album": {
         "name": "You Gotta Go There To Come Back",
         "url": "https://open.spotify.com/album/65ekRZTdz7ufM6yULqgjo8"
       },
@@ -1411,6 +1465,24 @@
       "duration_ms": 211533,
       "name": "Never Be Lonely",
       "url": "https://open.spotify.com/track/5q2qiluA3VVlCJVGG5gYVX"
+    },
+    {
+      "album": {
+        "name": "Twelve Stops And Home (Deluxe)",
+        "url": "https://open.spotify.com/album/5Ai60Vctzaepu3zjS0NDaE"
+      },
+      "artists": [
+        {
+          "name": "The Feeling",
+          "url": "https://open.spotify.com/artist/4AksvCnkZaQoTu1nJr62Db"
+        }
+      ],
+      "date_added": "2020-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 211573,
+      "name": "Never Be Lonely",
+      "url": "https://open.spotify.com/track/6EU03ZqHP5PQnyGsDYLOYJ"
     },
     {
       "album": {
@@ -1501,6 +1573,24 @@
       "duration_ms": 258533,
       "name": "Only The Young",
       "url": "https://open.spotify.com/track/4pOnY9Cbr16N3w0yDkUae8"
+    },
+    {
+      "album": {
+        "name": "How To Dismantle An Atomic Bomb",
+        "url": "https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2020-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 274120,
+      "name": "Original Of The Species",
+      "url": "https://open.spotify.com/track/6ml01NkC9AfM4OICOtRxEY"
     },
     {
       "album": {
@@ -1702,6 +1792,24 @@
     },
     {
       "album": {
+        "name": "00s Party Mixtape",
+        "url": "https://open.spotify.com/album/6uEj5L8M2kF3TrxjcnH5q0"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "date_added": "2020-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 188960,
+      "name": "Since U Been Gone",
+      "url": "https://open.spotify.com/track/3E8dcdAkVT1v7CAf02NwHW"
+    },
+    {
+      "album": {
         "name": "Breakaway",
         "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
       },
@@ -1803,7 +1911,7 @@
       ],
       "date_added": "2020-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 181613,
       "name": "So Long Goodbye",
       "url": "https://open.spotify.com/track/3Burs1JDgHMNXZ7wAMwe8u"
@@ -1933,6 +2041,24 @@
       "duration_ms": 236160,
       "name": "Somewhere Only We Know",
       "url": "https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg"
+    },
+    {
+      "album": {
+        "name": "2000s Songs",
+        "url": "https://open.spotify.com/album/0HvKpKZAJYcvfdKoD8UIoE"
+      },
+      "artists": [
+        {
+          "name": "Keane",
+          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
+        }
+      ],
+      "date_added": "2020-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 236160,
+      "name": "Somewhere Only We Know",
+      "url": "https://open.spotify.com/track/7jxu1xilREQM8KAZlvr2iG"
     },
     {
       "album": {
@@ -2134,6 +2260,24 @@
     },
     {
       "album": {
+        "name": "The Blessed Hellride",
+        "url": "https://open.spotify.com/album/2AO7lfXXz1nHfCJiETaxHo"
+      },
+      "artists": [
+        {
+          "name": "Black Label Society",
+          "url": "https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5"
+        }
+      ],
+      "date_added": "2020-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 272360,
+      "name": "The Blessed Hellride",
+      "url": "https://open.spotify.com/track/3SwUqAno7BWDUVov8ae8Vb"
+    },
+    {
+      "album": {
         "name": "The First Cut Is The Deepest",
         "url": "https://open.spotify.com/album/2zBc7QlIkKDrKwzhiCfMc5"
       },
@@ -2293,7 +2437,7 @@
       ],
       "date_added": "2020-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-13",
+      "date_removed": "2022-11-14",
       "duration_ms": 278493,
       "name": "The World We Live In",
       "url": "https://open.spotify.com/track/6QFjg371WnvjbBVCK1QBJ1"

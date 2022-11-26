@@ -221,6 +221,28 @@
     {
       "album": {
         "name": "Chandler",
+        "url": "https://open.spotify.com/album/36WR1CVqqG3peDsLtF8kmK"
+      },
+      "artists": [
+        {
+          "name": "Ebi Soda",
+          "url": "https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU"
+        },
+        {
+          "name": "Yazz Ahmed",
+          "url": "https://open.spotify.com/artist/1srvW9AP2k4GLhS3hlC3IN"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 221129,
+      "name": "Chandler",
+      "url": "https://open.spotify.com/track/3YgD8B3jAUSv3ak4KmRFj8"
+    },
+    {
+      "album": {
+        "name": "Chandler",
         "url": "https://open.spotify.com/album/5bjD58Laoek1OMbf0rS8C8"
       },
       "artists": [
@@ -583,7 +605,7 @@
     {
       "album": {
         "name": "Miles Deep",
-        "url": "https://open.spotify.com/album/0b9y44xDN6yxnAS9rtDDp9"
+        "url": "https://open.spotify.com/album/1eyG2lpsmDFIfPAXXZuP7z"
       },
       "artists": [
         {
@@ -598,6 +620,28 @@
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 389693,
+      "name": "Miles Deep",
+      "url": "https://open.spotify.com/track/18OP3a6pS4Xeqy0r6hbqxN"
+    },
+    {
+      "album": {
+        "name": "Miles Deep",
+        "url": "https://open.spotify.com/album/0b9y44xDN6yxnAS9rtDDp9"
+      },
+      "artists": [
+        {
+          "name": "Adibanti",
+          "url": "https://open.spotify.com/artist/3bXDOLmSQHIP7zAyY633kT"
+        },
+        {
+          "name": "Jackson Mathod",
+          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-18",
       "duration_ms": 389693,
       "name": "Miles Deep",
       "url": "https://open.spotify.com/track/3NstAPM2r3xsGHAhN7ty8p"
@@ -827,10 +871,28 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 191344,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/68MMwBzzkkO5RzZsptWhao"
+    },
+    {
+      "album": {
+        "name": "MAINS",
+        "url": "https://open.spotify.com/album/4ffYTuxsKPUVL5eFJWjVHS"
+      },
+      "artists": [
+        {
+          "name": "J3PO",
+          "url": "https://open.spotify.com/artist/0lSFr65zkY254m1qbHAb5k"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191344,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/6byGwMitvQ9qyidOlSa8ug"
     },
     {
       "album": {
@@ -1068,6 +1130,28 @@
     },
     {
       "album": {
+        "name": "The Whales",
+        "url": "https://open.spotify.com/album/0gNl31ArACtMFvw8aChFd4"
+      },
+      "artists": [
+        {
+          "name": "Mahealane",
+          "url": "https://open.spotify.com/artist/5MIIsfUJhLH8TzJyTGCCq5"
+        },
+        {
+          "name": "PRNDL",
+          "url": "https://open.spotify.com/artist/7lSHLl0pD4rZ1vrBZ0yVPU"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "The Whales",
+      "url": "https://open.spotify.com/track/4UDwsQO8RFMoEzSUpboslN"
+    },
+    {
+      "album": {
         "name": "Space Jams",
         "url": "https://open.spotify.com/album/5qy2VMCYitGsGpGSKRzIwf"
       },
@@ -1083,7 +1167,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 148000,
       "name": "The Whales",
       "url": "https://open.spotify.com/track/5iehZDjs2sn4Z4FbgDjNpQ"
@@ -1131,6 +1215,28 @@
     {
       "album": {
         "name": "SHEEESH",
+        "url": "https://open.spotify.com/album/2qZgdOJBiJya3nTfV5YF9s"
+      },
+      "artists": [
+        {
+          "name": "MXXWLL",
+          "url": "https://open.spotify.com/artist/2KAcGNHkwCFJb7w19oaqmU"
+        },
+        {
+          "name": "JD Beck",
+          "url": "https://open.spotify.com/artist/2APVc83SqqVOHrVm4dkGZF"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87076,
+      "name": "UHHH",
+      "url": "https://open.spotify.com/track/1xgdTvPbscOAIvJnBomt2y"
+    },
+    {
+      "album": {
+        "name": "SHEEESH",
         "url": "https://open.spotify.com/album/5wNnktpNWZH4W4BxpB7nN5"
       },
       "artists": [
@@ -1145,7 +1251,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 87076,
       "name": "UHHH",
       "url": "https://open.spotify.com/track/4qb7gDVi5je7MLDCRClqmX"

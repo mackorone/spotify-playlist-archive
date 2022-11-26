@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Handwritten",
+        "url": "https://open.spotify.com/album/1gsyJWUvwjnsNgYUxpOfLR"
+      },
+      "artists": [
+        {
+          "name": "The Gaslight Anthem",
+          "url": "https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-18",
+      "duration_ms": 202493,
+      "name": "\"45\"",
+      "url": "https://open.spotify.com/track/25Sd73fleKUVPNqITPZkn1"
+    },
+    {
+      "album": {
         "name": "Handwritten (Deluxe Version)",
         "url": "https://open.spotify.com/album/3et3fAEh76eTu4O99WTtfY"
       },
@@ -235,7 +253,7 @@
       ],
       "date_added": "2022-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": "2022-11-13",
       "duration_ms": 188653,
       "name": "Back Foot",
       "url": "https://open.spotify.com/track/6geuGKb1jKb6TV8sGE5eaC"
@@ -271,7 +289,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 225786,
       "name": "Beautiful Way",
       "url": "https://open.spotify.com/track/0W3g9YcnBlaQZzhLTpPEAM"
@@ -685,10 +703,28 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 230026,
       "name": "Empty Walls",
       "url": "https://open.spotify.com/track/16pmJwwNFVCqdXWPZtwZzh"
+    },
+    {
+      "album": {
+        "name": "Elect the Dead (Deluxe)",
+        "url": "https://open.spotify.com/album/6lEk9mHyHXxINEhTyFuYrz"
+      },
+      "artists": [
+        {
+          "name": "Serj Tankian",
+          "url": "https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230026,
+      "name": "Empty Walls",
+      "url": "https://open.spotify.com/track/6Y2kW1mdHE0znPCjtOdt5m"
     },
     {
       "album": {
@@ -919,7 +955,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 168333,
       "name": "Fireman & Dancer",
       "url": "https://open.spotify.com/track/5Ylm93lRkYCLo6jUeF1VnG"
@@ -955,7 +991,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-10",
+      "date_removed": "2022-11-14",
       "duration_ms": 222214,
       "name": "Had Enough",
       "url": "https://open.spotify.com/track/5eJRh54QRcvBsYuqJV3ST1"
@@ -991,7 +1027,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 217159,
       "name": "Heart and Soul",
       "url": "https://open.spotify.com/track/7CskFQLRb7IdIEdnAnjMDV"
@@ -1045,7 +1081,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-11-13",
       "duration_ms": 222840,
       "name": "Hold My Hand",
       "url": "https://open.spotify.com/track/0iWZd4aBNd3vNUF6crMiOp"
@@ -1153,7 +1189,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-11-13",
       "duration_ms": 198668,
       "name": "James Dean",
       "url": "https://open.spotify.com/track/3KYA5PWMNOHa7ouykwXMgx"
@@ -1359,6 +1395,24 @@
     {
       "album": {
         "name": "The Spark",
+        "url": "https://open.spotify.com/album/6i96oOlC1X5vz2XBE5fL3V"
+      },
+      "artists": [
+        {
+          "name": "Enter Shikari",
+          "url": "https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 220446,
+      "name": "Live Outside",
+      "url": "https://open.spotify.com/track/4gFBRNM2w934WZMOINd49G"
+    },
+    {
+      "album": {
+        "name": "The Spark",
         "url": "https://open.spotify.com/album/5DluHsIvF63TIRwOwm247N"
       },
       "artists": [
@@ -1448,6 +1502,24 @@
     },
     {
       "album": {
+        "name": "Peace Love Death Metal",
+        "url": "https://open.spotify.com/album/1lFroSL8x6KELMkLOS07DT"
+      },
+      "artists": [
+        {
+          "name": "Eagles Of Death Metal",
+          "url": "https://open.spotify.com/artist/02uYdhMhCgdB49hZlYRm9o"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 158600,
+      "name": "Miss Alissa",
+      "url": "https://open.spotify.com/track/1dlgaGdQXmsYKMRuewIZkF"
+    },
+    {
+      "album": {
         "name": "What\u2019s It Like Over There?",
         "url": "https://open.spotify.com/album/75HYUZI2d0FDMlsIEfp6Kj"
       },
@@ -1463,6 +1535,24 @@
       "duration_ms": 202838,
       "name": "Movies",
       "url": "https://open.spotify.com/track/1SoW6gSGu8dZDIYQQDHONU"
+    },
+    {
+      "album": {
+        "name": "What's It Like Over There?",
+        "url": "https://open.spotify.com/album/5pQd4CjocXnv5aLizqHCMu"
+      },
+      "artists": [
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-21",
+      "duration_ms": 202838,
+      "name": "Movies",
+      "url": "https://open.spotify.com/track/3D8jabgtmZtDibyb6gqZOT"
     },
     {
       "album": {
@@ -1596,6 +1686,24 @@
     },
     {
       "album": {
+        "name": "Relationship Of Command",
+        "url": "https://open.spotify.com/album/0x6Y2eA8Boakdrq9x2agdF"
+      },
+      "artists": [
+        {
+          "name": "At the Drive-In",
+          "url": "https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 260306,
+      "name": "One Armed Scissor",
+      "url": "https://open.spotify.com/track/1lg8iruuIfdRL20TMmHRzJ"
+    },
+    {
+      "album": {
         "name": "Royal Blood",
         "url": "https://open.spotify.com/album/0BFzNaeaNv4mahOzwZFGHK"
       },
@@ -1611,6 +1719,24 @@
       "duration_ms": 240572,
       "name": "Out of the Black",
       "url": "https://open.spotify.com/track/1INksmStBpxdNlBzwGUvsg"
+    },
+    {
+      "album": {
+        "name": "Royal Blood",
+        "url": "https://open.spotify.com/album/7DJijwZ2wqJrgLpcRMxs3G"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 240572,
+      "name": "Out of the Black",
+      "url": "https://open.spotify.com/track/2nIulsLMiP2SMTDrtxfQXX"
     },
     {
       "album": {
@@ -1949,7 +2075,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 227200,
       "name": "State of Love and Trust",
       "url": "https://open.spotify.com/track/0KEhlgtlk0HuqBIqfGCGdF"
@@ -2093,7 +2219,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 190573,
       "name": "The Bitter End",
       "url": "https://open.spotify.com/track/3WBPiogtVDBSXK7uOpxJ6m"
@@ -2237,7 +2363,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": "2022-11-13",
       "duration_ms": 209000,
       "name": "The Small Print",
       "url": "https://open.spotify.com/track/6mPJvjjx7pcfZuI57Dh95o"
@@ -2277,6 +2403,24 @@
       "duration_ms": 265613,
       "name": "This Modern Love",
       "url": "https://open.spotify.com/track/5jFMzYXf0IIApEJBCAoaaL"
+    },
+    {
+      "album": {
+        "name": "Silent Alarm",
+        "url": "https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t"
+      },
+      "artists": [
+        {
+          "name": "Bloc Party",
+          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 265706,
+      "name": "This Modern Love",
+      "url": "https://open.spotify.com/track/2PAhcPwab2sJz340QHtunD"
     },
     {
       "album": {
@@ -2417,7 +2561,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": "2022-11-13",
       "duration_ms": 225731,
       "name": "White Flag",
       "url": "https://open.spotify.com/track/0Sie4zIpI18dBZ0ptyo0SP"
@@ -2471,7 +2615,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 191213,
       "name": "You're Gonna Say Yeah",
       "url": "https://open.spotify.com/track/3rWNmpZM3vPiRwbFToDLoO"

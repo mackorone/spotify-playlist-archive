@@ -44,7 +44,7 @@
     },
     {
       "album": {
-        "name": "2 Times",
+        "name": "2 Times (Full Package)",
         "url": "https://open.spotify.com/album/0pAY6od68ZZOgxNWwSOHlv"
       },
       "artists": [
@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 230933,
       "name": "2 Times - Original",
       "url": "https://open.spotify.com/track/4IiKITgHYaHrF1zUlcTyVH"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-13",
+      "date_removed": "2022-11-13",
       "duration_ms": 238160,
       "name": "All or Nothing",
       "url": "https://open.spotify.com/track/4yWeYfdw5FR0vAMjtFfddA"
@@ -282,6 +282,24 @@
     },
     {
       "album": {
+        "name": "Dance into the Light (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1Qchu0DOadzKxJyfHYA4p4"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 264826,
+      "name": "Dance into the Light - 2016 Remaster",
+      "url": "https://open.spotify.com/track/6JRBGmf5T7QjFQPWTwBdbs"
+    },
+    {
+      "album": {
         "name": "Discography - Complete Singles Collection",
         "url": "https://open.spotify.com/album/0Jt2LzWgtGxy3GZH5i2Kcy"
       },
@@ -311,7 +329,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 224960,
       "name": "Everybody (Backstreet's Back) - Radio Edit",
       "url": "https://open.spotify.com/track/4rTeOSYqwXNz5qPR2DUTFZ"
@@ -383,7 +401,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 293105,
       "name": "Free Your Mind",
       "url": "https://open.spotify.com/track/2vG1yrWSMiL6egg6w4e9ma"
@@ -419,7 +437,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 265200,
       "name": "Give It Up",
       "url": "https://open.spotify.com/track/1Hh5gDiXZGhtKfHzJYYhSJ"
@@ -715,7 +733,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-13",
+      "date_removed": "2022-11-13",
       "duration_ms": 255373,
       "name": "Killer / Papa Was a Rollin' Stone",
       "url": "https://open.spotify.com/track/3EMwCbvaeyWVZb3ae0roHt"
@@ -769,7 +787,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 262000,
       "name": "Let Me Entertain You",
       "url": "https://open.spotify.com/track/0SLtqCrXBRrnkxSOMA3X4W"
@@ -975,7 +993,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": "2022-11-13",
       "duration_ms": 271266,
       "name": "Mar\u00eda - Pablo Flores Spanglish Radio Edit",
       "url": "https://open.spotify.com/track/4bNqBlJkoueiFla9YsyNg9"
@@ -1321,7 +1339,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 278000,
       "name": "The Animal Song",
       "url": "https://open.spotify.com/track/5TuzQ44lPWTCKbfXbNIEXg"
@@ -1429,7 +1447,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 243069,
       "name": "Think of You - Radio Edit",
       "url": "https://open.spotify.com/track/4cjHy6TwppuNZ05yrP8Fic"
@@ -1451,6 +1469,24 @@
       "duration_ms": 301200,
       "name": "Together Again",
       "url": "https://open.spotify.com/track/1GrikfH0jDejDvrxo84n4P"
+    },
+    {
+      "album": {
+        "name": "The Velvet Rope",
+        "url": "https://open.spotify.com/album/1uFp52Q9EXLNA6DTRYnpTj"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301200,
+      "name": "Together Again",
+      "url": "https://open.spotify.com/track/1aJnGme5ZRltYTp8FJ52eZ"
     },
     {
       "album": {

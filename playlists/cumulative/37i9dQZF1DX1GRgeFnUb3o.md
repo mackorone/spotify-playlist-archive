@@ -4,7 +4,7 @@
 
 > Releases from the legendary label.
 
-117 songs - 7 hr 0 min - [published](https://open.spotify.com/playlist/1q9H5yFMGnsma81bGiKxVe)
+120 songs - 7 hr 13 min - [published](https://open.spotify.com/playlist/1q9H5yFMGnsma81bGiKxVe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,13 +53,15 @@
 | [Let's Fuck](https://open.spotify.com/track/2dWg9qLNiuSBs4hft8ZIVI) | [Dwarves](https://open.spotify.com/artist/4D9H6CaKzDTaN1EbAHypYg) | [Blood, Guts & Pussy](https://open.spotify.com/album/5mOU3fEIptDSeCatcK9Enw) | 1:01 | 2019-10-02 |  |
 | [Let's Fuck](https://open.spotify.com/track/4Q7OJ2sZBVvqk3yENtvuEs) | [Dwarves](https://open.spotify.com/artist/4D9H6CaKzDTaN1EbAHypYg) | [Blood Guts & Pussy](https://open.spotify.com/album/0Dw4Yjd8zeAfDiaQKS9riI) | 1:01 | 2019-10-02 | 2022-07-29 |
 | [Lo Boob Oscillator](https://open.spotify.com/track/5DILJYk31ZXENMY26k3br1) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Lo Boob Oscillator](https://open.spotify.com/album/5plHekIiphgTChKLttY5P4) | 6:36 | 2019-10-02 |  |
+| [Lo Boob Oscillator](https://open.spotify.com/track/6sRnQajHnGZa2mHXrUdKly) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Refried Ectoplasm \[Switched On Volume 2\]](https://open.spotify.com/album/6grZsNH92wnHOtj4VDBEeY) | 6:36 | 2019-10-02 | 2022-11-14 |
 | [Lo Boob Oscillator](https://open.spotify.com/track/2GBHOI99bnVDozc6wCI5XX) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Lo Boob Oscillator](https://open.spotify.com/album/2rBU852Q7cWZgDNxnz6JNm) | 6:36 | 2019-10-02 | 2022-07-29 |
 | [Loud Love](https://open.spotify.com/track/1UIZd9Xwvuv7aoYHTC4irP) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Louder Than Love](https://open.spotify.com/album/4Q1HXCFg84PfQRZlPCA4SH) | 4:57 | 2019-10-02 |  |
 | [Loud Love](https://open.spotify.com/track/5qrWbVOAMQhnHo4dtDiKmI) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Louder Than Love](https://open.spotify.com/album/54ixXSRt1COToZvPK2YMqF) | 4:57 | 2019-10-02 | 2022-07-29 |
+| [Love Buzz](https://open.spotify.com/track/4AkFvW4VdNDNmVXehylmrr) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach \(Deluxe Edition\)](https://open.spotify.com/album/0CqchZDaOxckvjnKKfJh1w) | 3:35 | 2019-10-02 | 2022-11-13 |
 | [Love Buzz](https://open.spotify.com/track/5muVpPu8Fj9fXfDbbqDdrZ) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach](https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7) | 3:35 | 2019-10-02 |  |
 | [Love Buzz \- Remastered](https://open.spotify.com/track/150eNdHgoV9hYBUjsQXSVM) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach: Deluxe Edition](https://open.spotify.com/album/4vEqluvGq8AC9Xx2Fx4cZ3) | 3:35 | 2019-10-02 | 2022-07-29 |
-| [Mantrap](https://open.spotify.com/track/5DBHVP9DpADDU3d3bCOLVG) | [Thee Headcoats](https://open.spotify.com/artist/69C0pRNo5qCmYlKS9Lctfe) | [Heavens to Murgatroyd, Even! It's Thee Headcoats! \(Already\)](https://open.spotify.com/album/406w7Txtb1rpZsk7rEYaT1) | 1:50 | 2019-10-02 |  |
-| [Mantrap](https://open.spotify.com/track/6slOJmjugBOsa6ljMnNm74) | [Thee Headcoats](https://open.spotify.com/artist/69C0pRNo5qCmYlKS9Lctfe) | [Heavens to Murgatroyd, Even! It's Thee Headcoats! \(Already\)](https://open.spotify.com/album/1Pf4eOiycm196Hdrfw68Vo) | 1:50 | 2019-10-02 | 2022-07-29 |
+| [Mantrap](https://open.spotify.com/track/5DBHVP9DpADDU3d3bCOLVG) | [Thee Headcoats](https://open.spotify.com/artist/69C0pRNo5qCmYlKS9Lctfe) | [Heavens to Murgatroyd, Even! It's Thee Headcoats! \(Already\)](https://open.spotify.com/album/406w7Txtb1rpZsk7rEYaT1) | 1:50 | 2019-10-02 | 2022-10-25 |
+| [Mantrap](https://open.spotify.com/track/6slOJmjugBOsa6ljMnNm74) | [Thee Headcoats](https://open.spotify.com/artist/69C0pRNo5qCmYlKS9Lctfe) | [Heavens to Murgatroyd, Even! It's Thee Headcoats! \(Already\)](https://open.spotify.com/album/1Pf4eOiycm196Hdrfw68Vo) | 1:50 | 2019-10-02 |  |
 | [Marijuana](https://open.spotify.com/track/2eTUrr93UBSj7qcZcUOKuw) | [The Reverend Horton Heat](https://open.spotify.com/artist/4byZW0sEv5RUoyQBfv7CPw) | [Smoke 'em if You Got 'em](https://open.spotify.com/album/1kg7rs0ZaIECwU2WCLS58w) | 4:49 | 2019-10-02 |  |
 | [Marijuana](https://open.spotify.com/track/61bdPPJFoRLK4zrmOALWdh) | [The Reverend Horton Heat](https://open.spotify.com/artist/4byZW0sEv5RUoyQBfv7CPw) | [Smoke 'em if You Got 'em](https://open.spotify.com/album/0L6bVkOPxVbkBvjTRTT7jz) | 4:49 | 2019-10-02 | 2022-07-29 |
 | [Meet Me At The Movies](https://open.spotify.com/track/5yQnwk9aak8xmbOceWyskW) | [The Go](https://open.spotify.com/artist/2m0xdXsYglZKSzqVkZtFi8) | [Whatcha Doin'](https://open.spotify.com/album/76ioQYsj2LjKW7hewrz9uX) | 3:23 | 2019-10-02 |  |
@@ -70,6 +72,7 @@
 | [Mockingbirds](https://open.spotify.com/track/72oybe0kQQLV3ZyvbhyPjB) | [Mark Lanegan](https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ) | [The Winding Sheet](https://open.spotify.com/album/2E5V2nKKKSWtK5ebpa6MsO) | 2:30 | 2019-10-02 | 2022-07-29 |
 | [Motherfucker](https://open.spotify.com/track/00F9LiolJIUlkDNknhaVJM) | [Dwarves](https://open.spotify.com/artist/4D9H6CaKzDTaN1EbAHypYg) | [Blood, Guts & Pussy](https://open.spotify.com/album/5mOU3fEIptDSeCatcK9Enw) | 1:23 | 2019-10-02 |  |
 | [Motherfucker](https://open.spotify.com/track/5UKhGvGKdGh6ZV7kpVa4ZR) | [Dwarves](https://open.spotify.com/artist/4D9H6CaKzDTaN1EbAHypYg) | [Blood Guts & Pussy](https://open.spotify.com/album/0Dw4Yjd8zeAfDiaQKS9riI) | 1:23 | 2019-10-02 | 2022-07-29 |
+| [Negative Creep](https://open.spotify.com/track/59CuTexkhnoSCBSwjqYE2a) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach \(Deluxe Edition\)](https://open.spotify.com/album/0CqchZDaOxckvjnKKfJh1w) | 2:55 | 2019-10-02 | 2022-11-13 |
 | [Negative Creep](https://open.spotify.com/track/5IeTFRymTDiza7DciBD1Gk) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach](https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7) | 2:55 | 2019-10-02 |  |
 | [Negative Creep \- Remastered](https://open.spotify.com/track/4zIsMAQASzCg6XK7WExT54) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach: Deluxe Edition](https://open.spotify.com/album/4vEqluvGq8AC9Xx2Fx4cZ3) | 2:55 | 2019-10-02 | 2022-07-29 |
 | [Nothing to Prove](https://open.spotify.com/track/350KDuUQBQWOntj6ULgpiB) | [Wipers](https://open.spotify.com/artist/0sTTw3dw3EA0c7NaZnrJd2) | [Rarities](https://open.spotify.com/album/2QQmpJEVqlSshdxY0aU1gG) | 2:03 | 2019-10-02 |  |

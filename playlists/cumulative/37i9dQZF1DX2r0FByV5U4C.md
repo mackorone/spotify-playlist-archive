@@ -4,12 +4,13 @@
 
 > Saluting the songs and artists that have filled us with pride.
 
-31 songs - 1 hr 33 min - [published](https://open.spotify.com/playlist/7oBtRO88pL251qtAnj0xY5)
+32 songs - 1 hr 37 min - [published](https://open.spotify.com/playlist/7oBtRO88pL251qtAnj0xY5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Adulthood](https://open.spotify.com/track/0eg1fvlZkRx115i95XVHy0) | [Suli Breaks](https://open.spotify.com/artist/5XnwG6JFrOMlVGOZfy54ck) | [Adulthood](https://open.spotify.com/album/64FLOlR1JB20A49iu9LJpF) | 2:58 | 2021-03-16 | 2022-07-29 |
 | [Adulthood](https://open.spotify.com/track/1WQ5ADSmZVPEK7j71hxn8f) | [Suli Breaks](https://open.spotify.com/artist/5XnwG6JFrOMlVGOZfy54ck) | [Adulthood](https://open.spotify.com/album/7xqf7idexm8P5MoLzZbMd2) | 2:58 | 2022-02-10 |  |
+| [Africa](https://open.spotify.com/track/0ubXZ4MkT71sCkGMssg90b) | [Maya Angelou](https://open.spotify.com/artist/4YgS09y0GhtNSu2ZLruk89) | [Caged Bird Songs \(Deluxe Edition\)](https://open.spotify.com/album/3uOosas8GVTyqJIDc5mOER) | 3:28 | 2022-02-10 | 2022-11-13 |
 | [Africa](https://open.spotify.com/track/2J8yVtzNqgO40QDKhuNeQm) | [Maya Angelou](https://open.spotify.com/artist/4YgS09y0GhtNSu2ZLruk89) | [Caged Bird Songs](https://open.spotify.com/album/4PF18WekUteo4wMepPE8rv) | 3:28 | 2022-02-10 |  |
 | [Africa](https://open.spotify.com/track/4rU1Cunyeg7JNdNM3mP8BL) | [Maya Angelou](https://open.spotify.com/artist/4YgS09y0GhtNSu2ZLruk89) | [Caged Bird Songs](https://open.spotify.com/album/1VmP4cahFDmehEWhXvnYbc) | 3:28 | 2021-03-16 | 2022-07-29 |
 | [Ballad for Phyllis Wheatley](https://open.spotify.com/track/0Awv8At3U3JlrUbs2je2ap) | [Margaret Walker](https://open.spotify.com/artist/4H2657mM3Y4j6ITcmHOf21) | [The Poetry of Margaret Walker](https://open.spotify.com/album/5lUuig2p8Yuc539idomNGT) | 2:24 | 2021-03-16 |  |

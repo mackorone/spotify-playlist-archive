@@ -4,7 +4,7 @@
 
 > Music from "BLEACH" !「BLEACH」の楽曲を1つのプレイリストで。Ⓒ久保帯人／集英社・テレビ東京・ｄｅｎｔｓｕ・ぴえろ
 
-86 songs - 5 hr 12 min - not published yet
+90 songs - 5 hr 27 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [going home](https://open.spotify.com/track/2ND8SkQ3Rav1x4zpmTwA3E) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 1](https://open.spotify.com/album/7Bm7S7pnSetysRgACOpWtD) | 2:33 | 2022-10-06 |  |
 | [HANABI](https://open.spotify.com/track/42NuI6ghNzx6dctpMIuptn) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [HANABI](https://open.spotify.com/album/3ylqm2z6GrWFhPIqQIIPbk) | 4:27 | 2022-10-06 |  |
 | [happypeople](https://open.spotify.com/track/4K8eSyKrx3KyS4GltSZkyT) | [Skoop On Somebody](https://open.spotify.com/artist/0h4DzoOz1OlX7uJ8itsBIw) | [Singles 2002\-2006](https://open.spotify.com/album/4EAib6okgPvzlgs3kCLrTo) | 3:43 | 2022-10-06 |  |
+| [happypeople](https://open.spotify.com/track/6pXikUvuUL4V1RXiS5EH8a) | [Skoop On Somebody](https://open.spotify.com/artist/0h4DzoOz1OlX7uJ8itsBIw) | [Happy People](https://open.spotify.com/album/4Y6iNUjEXLMeoKinDhEzDP) | 3:47 | 2022-10-21 | 2022-11-13 |
 | [HARUKAZE](https://open.spotify.com/track/3JmGjD1CvAlGHCRNaIvxzu) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [HARUKAZE\[初回盤B\]](https://open.spotify.com/album/7IBREg7fthhMXXgN1H5x9e) | 4:38 | 2022-10-06 |  |
 | [here to stay](https://open.spotify.com/track/1wlXoXzUuwQP67zATlqt4E) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 2](https://open.spotify.com/album/7mBXCZN24RI8iWDkpWooag) | 3:00 | 2022-10-06 |  |
 | [Into The Fire](https://open.spotify.com/track/10xPIeghCJh727kuIF9r0L) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [劇場版BLEACH MEMORIES OF NOBODY Original Soundtrack](https://open.spotify.com/album/1MmE3q7RvR68CPYb5hdNrf) | 4:38 | 2022-10-06 |  |
@@ -51,6 +52,7 @@
 | [POWER TO STRIVE](https://open.spotify.com/track/6oJfbR19mNWigjpCYBfuwY) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 4](https://open.spotify.com/album/4Ts2JxoesNxryyiBGphX6a) | 2:19 | 2022-10-06 |  |
 | [Principio de lucha](https://open.spotify.com/track/2L5qMBCehiabKLwRs2Cp8b) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 3](https://open.spotify.com/album/7m0ZA9T4Uk5y6FOdLvj5sL) | 2:29 | 2022-10-06 |  |
 | [quincy's craft](https://open.spotify.com/track/0tnqNundeaHkwHWFegIUDu) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 3](https://open.spotify.com/album/7m0ZA9T4Uk5y6FOdLvj5sL) | 2:15 | 2022-10-06 |  |
+| [Rapport](https://open.spotify.com/track/0e4HssKedndIhLoDpkwBNH) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [Rapport](https://open.spotify.com/album/3nxLlpubxwp8tMN8Dttupm) | 3:37 | 2022-10-14 |  |
 | [raw breath of danger](https://open.spotify.com/track/4yeMdLoSA4QYKb6J4wcnbW) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 1](https://open.spotify.com/album/7Bm7S7pnSetysRgACOpWtD) | 2:17 | 2022-10-06 |  |
 | [Re:pray](https://open.spotify.com/track/0aNaeyNx5RP95NwUmoH45s) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Re:pray/寂しくて眠れない夜は](https://open.spotify.com/album/5zBBgsa30uX7qrtaMWeX2T) | 5:07 | 2022-10-06 |  |
 | [Rolling star](https://open.spotify.com/track/2Z4850ifGB2hDXtnoicpzd) | [YUI](https://open.spotify.com/artist/5WBO8UyOuJ1l7ZBqqBimpO) | [Rolling star](https://open.spotify.com/album/0TAU4czk8somNU9Ms6tT08) | 3:10 | 2022-10-06 |  |
@@ -78,6 +80,7 @@
 | [オレンジ](https://open.spotify.com/track/3DwuVMXAsA4iVyE42f752B) | [Lil'B](https://open.spotify.com/artist/73RYTxKqVXkXo52SYyFJAC) | [オレンジ](https://open.spotify.com/album/1iXMIQLZAKbR5TDBUyogWT) | 5:06 | 2022-10-06 |  |
 | [ギャロップ](https://open.spotify.com/track/6WllIZ5BpLQLZ7o9kRwTsg) | [pe'zmoku](https://open.spotify.com/artist/2anqC7AHApDWCTCxBqMnHo) | [ギャロップ](https://open.spotify.com/album/7F3b6J99LduAJFYk4dFw6l) | 4:53 | 2022-10-06 |  |
 | [サンキュー!!](https://open.spotify.com/track/1gfuwVIBY117gPgpmsLUiy) | [Home Made Kazoku](https://open.spotify.com/artist/2KnTQRef7hcVlK7vO9wPzI) | [サンキュー!!](https://open.spotify.com/album/0Koe1vDstYuSZXtI8yDlPy) | 4:13 | 2022-10-06 |  |
+| [スカー](https://open.spotify.com/track/5WQAussByRFjUWYQDowtHE) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [スカー](https://open.spotify.com/album/4qHbR7z8zMoUFOukvg7KXd) | 4:19 | 2022-10-21 |  |
 | [ハルカカナタ](https://open.spotify.com/track/4pVkZJQtDCNgeBv7Lf4IJk) | [UNLIMITS](https://open.spotify.com/artist/79J1fd1c3x60MVdSkBMGoX) | [ハルカカナタ](https://open.spotify.com/album/2DEOIQFfsDtfByqp8TIRh8) | 3:31 | 2022-10-06 |  |
 | [ヒトヒラのハナビラ](https://open.spotify.com/track/4GiGrLtTEf3z0iqO2fDFhO) | [Stereopony](https://open.spotify.com/artist/35VNJ4BFDvs9XkLf6ghUi6) | [ヒトヒラのハナビラ](https://open.spotify.com/album/52BAVwUU6V9E0RCzksuAEh) | 3:35 | 2022-10-06 |  |
 | [マイペース](https://open.spotify.com/track/6CpWkr7H0bnpAUexThcRey) | [SunSet Swish](https://open.spotify.com/artist/6BP2pX1i8U6yZHXRvStQ74) | [マイペース](https://open.spotify.com/album/5WqPeHtrQ7S54vcKQkQ1ph) | 4:25 | 2022-10-06 |  |
@@ -90,6 +93,7 @@
 | [少女S](https://open.spotify.com/track/52h36YHQlTnwRh3ChfJstO) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [少女S\[通常盤\]](https://open.spotify.com/album/3HtH55kg3nfkrsWug40v91) | 3:14 | 2022-10-06 |  |
 | [感謝。](https://open.spotify.com/track/1w3BRAv9eIyG1QOD33u1Sa) | [RSP](https://open.spotify.com/artist/5O2mC2Qd9HSGuisFTl1FM8) | [感謝。](https://open.spotify.com/album/2d0SEQ8MwNsZBHgdRtDoSN) | 5:13 | 2022-10-06 |  |
 | [旅立つキミへ](https://open.spotify.com/track/30ek6jhxOGgxewmUlxU4SW) | [RSP](https://open.spotify.com/artist/5O2mC2Qd9HSGuisFTl1FM8) | [旅立つキミへ](https://open.spotify.com/album/09Qg9klz2C17gzYfroKE7z) | 4:03 | 2022-10-06 |  |
+| [最果て](https://open.spotify.com/track/0GiepUHAIfTH1WzpHqtVXT) | [SennaRin](https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D) | [最果て](https://open.spotify.com/album/6JffqDdgFVwPOjHmLte6kC) | 3:00 | 2022-10-21 |  |
 | [桜日和](https://open.spotify.com/track/4owPAvxLodyUXwtv2IDray) | [Mai Hoshimura](https://open.spotify.com/artist/5nTM618Y9OIjwVwOKOATvC) | [桜日和](https://open.spotify.com/album/00WdxRziikiiIvgtxH9chY) | 4:22 | 2022-10-06 |  |
 | [橙](https://open.spotify.com/track/6OWJHb4xcFoDtsIPn7eUXi) | [Chatmonchy](https://open.spotify.com/artist/0GtBUVp1cWdIUKwm2GHTHc) | [橙](https://open.spotify.com/album/10HOtqMUc3B8o8p0XBgluc) | 3:22 | 2022-10-06 |  |
 | [爪先](https://open.spotify.com/track/3UYMGyBW0HUK6Hsik5Ytci) | [ORESKABAND](https://open.spotify.com/artist/56OQWVhAWYw1yRxD0R2HSR) | [WAO!!](https://open.spotify.com/album/0dyEtIksUU6PYFBsttExjk) | 3:55 | 2022-10-06 |  |

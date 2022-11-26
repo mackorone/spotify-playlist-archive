@@ -4,7 +4,7 @@
 
 > Releases from the legendary label.
 
-56 songs - 4 hr 5 min - [published](https://open.spotify.com/playlist/0FU9aLhSryPXFeMYV4JWNb)
+57 songs - 4 hr 9 min - [published](https://open.spotify.com/playlist/0FU9aLhSryPXFeMYV4JWNb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [If Trouble Was Money](https://open.spotify.com/track/63t31Qj7dDoNxeo5UTrEBL) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Alligator Records 45th Anniversary Collection](https://open.spotify.com/album/6kpeOuu1Z7cbasKOurTs0B) | 8:00 | 2020-09-21 |  |
 | [If You Love Me Like You Say](https://open.spotify.com/track/0t3BTxJpdQnnS52cz0ciw9) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Frostbite](https://open.spotify.com/album/7C64occ2ChtDhSH5Wsj8mV) | 4:08 | 2020-09-21 |  |
 | [It's My Life Baby \- Remastered](https://open.spotify.com/track/5glbZffXF1GNtPCMB7uVek) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [Guitar Slinger](https://open.spotify.com/album/2rwEAdpLYZEOuze2uukn7x) | 4:10 | 2020-09-21 |  |
+| [It's My Life, Baby](https://open.spotify.com/track/5yLDFTpBHKDdaC1IiKAwNS) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [Music of the World: Slide Guitar Blues](https://open.spotify.com/album/45CrV9b8StUZ26CnPJnESa) | 4:10 | 2020-09-21 | 2022-11-13 |
 | [It's My Life, Baby](https://open.spotify.com/track/2FYMDZQN3ExwEkcJx7gnKL) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [Guitar Slinger](https://open.spotify.com/album/2y4i1Oo4Kgj1NRz2wfPz5c) | 4:10 | 2020-09-21 | 2022-07-29 |
 | [It's You, Baby](https://open.spotify.com/track/5VTgqXioNW6GJIRr1YQYla) | [Elvin Bishop](https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11) | [Elvin Bishop's Big Fun Trio](https://open.spotify.com/album/1JeZBxuDWHDFcF4ZsrIu1J) | 2:11 | 2020-09-21 |  |
 | [Keep On Lovin' Me Baby](https://open.spotify.com/track/3jtaWKCISJEDBNl83CV9pw) | [The Paladins](https://open.spotify.com/artist/5ecJGNE48l8ut59qMbP7ZF) | [Let's Buzz](https://open.spotify.com/album/3ECx5ku37cBY69C594AJEz) | 4:02 | 2020-09-21 |  |

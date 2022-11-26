@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "The ever-evolving sound of Alt! Cover: Switchfoot",
+  "description": "The ever-evolving sound of Alt! Cover: Gable Price and Friends",
   "name": "Ultimate Christian Alternative",
   "published_playlist_ids": [
     "1NSGD7171i0HygYQPY0WUi"
@@ -1200,6 +1200,24 @@
     },
     {
       "album": {
+        "name": "The Consequence Of Being Alive",
+        "url": "https://open.spotify.com/album/18lesZi0aFfIUMClfCK1l7"
+      },
+      "artists": [
+        {
+          "name": "Gable Price and Friends",
+          "url": "https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177800,
+      "name": "I Don't Wanna Live Like This",
+      "url": "https://open.spotify.com/track/1srAm9ubDjmaNkACrQKtdN"
+    },
+    {
+      "album": {
         "name": "i love You",
         "url": "https://open.spotify.com/album/3B5lVoHjcviiME7o1qgmHj"
       },
@@ -1321,7 +1339,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 291177,
       "name": "I Need You - Live In Nashville",
       "url": "https://open.spotify.com/track/3wNKltgkmuSlwojnzK0Bd4"

@@ -382,6 +382,28 @@
     },
     {
       "album": {
+        "name": "Don't Say You Love Me",
+        "url": "https://open.spotify.com/album/5hGvwPfeqjW2wgOnPRcWn7"
+      },
+      "artists": [
+        {
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        },
+        {
+          "name": "OBS",
+          "url": "https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184266,
+      "name": "Don't Say You Love Me",
+      "url": "https://open.spotify.com/track/0UaV0TmHdXvihhsbZeeIG4"
+    },
+    {
+      "album": {
         "name": "Famous for a Day",
         "url": "https://open.spotify.com/album/6GmcBZbFsGYXBEKLYb5o6M"
       },
@@ -848,6 +870,24 @@
     },
     {
       "album": {
+        "name": "Never Let You Go",
+        "url": "https://open.spotify.com/album/7aGJUHI9MDCEabog2n4B3O"
+      },
+      "artists": [
+        {
+          "name": "DJ Licious",
+          "url": "https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174197,
+      "name": "Never Let You Go",
+      "url": "https://open.spotify.com/track/195rIaxn3j8SysVOs2UaOJ"
+    },
+    {
+      "album": {
         "name": "NYC",
         "url": "https://open.spotify.com/album/2UaIgK5kTsX38Q9p9RnqRC"
       },
@@ -973,6 +1013,24 @@
     {
       "album": {
         "name": "Peace of Mind",
+        "url": "https://open.spotify.com/album/2hrhHhcevl0g70FBgynmIh"
+      },
+      "artists": [
+        {
+          "name": "Flynn",
+          "url": "https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177750,
+      "name": "Peace of Mind",
+      "url": "https://open.spotify.com/track/4K0d1T6SUO9Ji9vyXl657d"
+    },
+    {
+      "album": {
+        "name": "Peace of Mind",
         "url": "https://open.spotify.com/album/6D0GK3nbND87zH81x0Unqr"
       },
       "artists": [
@@ -983,7 +1041,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 177750,
       "name": "Peace of Mind",
       "url": "https://open.spotify.com/track/7eAwdGGl9sihvZtvomgz9l"
@@ -1019,10 +1077,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 204176,
       "name": "React",
       "url": "https://open.spotify.com/track/0GWYApQBwErVPkyXYCTJjI"
+    },
+    {
+      "album": {
+        "name": "React",
+        "url": "https://open.spotify.com/album/1kApiZqAxZ1xwJQNwwyl7T"
+      },
+      "artists": [
+        {
+          "name": "The Pussycat Dolls",
+          "url": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204176,
+      "name": "React",
+      "url": "https://open.spotify.com/track/2KHWuIEL5peYokB3HoLY4m"
     },
     {
       "album": {
@@ -1183,6 +1259,28 @@
     {
       "album": {
         "name": "State of Love",
+        "url": "https://open.spotify.com/album/3OaqTfrMtHmCRHwF6qenQR"
+      },
+      "artists": [
+        {
+          "name": "Coco Morier",
+          "url": "https://open.spotify.com/artist/0wGJRytej6eabFy1c6huF6"
+        },
+        {
+          "name": "Lula The Beat",
+          "url": "https://open.spotify.com/artist/63FOxu3a3g8tOIFaaGOUZ4"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203525,
+      "name": "State of Love",
+      "url": "https://open.spotify.com/track/45DsD814Bmk110GzaglxXP"
+    },
+    {
+      "album": {
+        "name": "State of Love",
         "url": "https://open.spotify.com/album/6U0tCHP4Mfe9a3HTXz3IPA"
       },
       "artists": [
@@ -1197,7 +1295,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 203525,
       "name": "State of Love",
       "url": "https://open.spotify.com/track/65FYT2bXZO3ORrQHPjzORZ"
@@ -1341,10 +1439,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 220657,
       "name": "What I've Become",
       "url": "https://open.spotify.com/track/25kTc4hobHWuF7dZM2Yobf"
+    },
+    {
+      "album": {
+        "name": "What I've Become",
+        "url": "https://open.spotify.com/album/0QyjzJf0UMjXFuk9tnq2TS"
+      },
+      "artists": [
+        {
+          "name": "Anna Pancaldi",
+          "url": "https://open.spotify.com/artist/6om1oTl0iSZGBRs52bJEqI"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220657,
+      "name": "What I've Become",
+      "url": "https://open.spotify.com/track/5rWoMBT1apWvmR9oB7rDps"
     },
     {
       "album": {

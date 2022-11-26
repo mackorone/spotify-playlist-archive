@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3fqSEmStIKS8s3mCCRQFid.md) - [plain]
 
 > Enjoy a sun\-dappled stroll to these folksy, mid\-tempo gems.
 
-[Spotify](https://open.spotify.com/user/spotify) - 945 likes - 22 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 944 likes - 22 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

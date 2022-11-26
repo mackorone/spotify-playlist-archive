@@ -4,7 +4,7 @@
 
 > The bluesy side of jazz
 
-54 songs - 6 hr 7 min - [published](https://open.spotify.com/playlist/5d4L5WZMIwXxHiSkUOaRA8)
+58 songs - 6 hr 36 min - [published](https://open.spotify.com/playlist/5d4L5WZMIwXxHiSkUOaRA8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,12 +28,14 @@
 | [Cool Struttin'](https://open.spotify.com/track/7CnOzCWGrTINcDExG6u99y) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [Cool Struttin' \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/38ERGmBgDAsCTb4KNeopsX) | 9:23 | 2020-10-12 |  |
 | [Dig Dis \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/10kVwPSRjUYja0EtdqmXHe) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Soul Station](https://open.spotify.com/album/731OW49heGHCMrMOREHYlY) | 6:09 | 2020-10-12 |  |
 | [Doodlin'](https://open.spotify.com/track/2KJ2lr5rI6eNsEj7jGTY5g) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [The Sensational Horace Silver](https://open.spotify.com/album/2Xc18SHJZDs3Z9a6Lsr5l0) | 6:45 | 2020-10-12 | 2022-07-29 |
+| [Doodlin'](https://open.spotify.com/track/2bTpQRq7smeOaRCcIPX2uR) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5), [The Jazz Messengers](https://open.spotify.com/artist/4oMI5jKhAOEg3T8HIY3HxI) | [Horace Silver And The Jazz Messengers](https://open.spotify.com/album/4aycxunOM6d6eoRMNSm7Ua) | 6:45 | 2020-10-12 | 2022-11-13 |
 | [Doodlin' \- Remastered](https://open.spotify.com/track/5TMVNGCCHS01ub7oOLzyFW) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Horace Silver And The Jazz Messengers](https://open.spotify.com/album/6ChBNNT405wL5eQz8be9Q9) | 6:45 | 2020-10-12 |  |
 | [Equinox](https://open.spotify.com/track/56elAIX47Q7vSQ1bpKNhHo) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Naima](https://open.spotify.com/album/4N6QrNl4RvEjyaPtUilwRD) | 8:07 | 2020-10-12 |  |
 | [Freddie Freeloader](https://open.spotify.com/track/1UOH2i8z5xitX8PgVUH6nU) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [The Complete Miles Davis Featuring John Coltrane](https://open.spotify.com/album/1sR0Ymo55UT2tkcOn05Qur) | 9:43 | 2020-10-12 |  |
 | [Freight Trane](https://open.spotify.com/track/4AkebkAOIiVfpmQj8LDpAy) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Coltrane '58: The Prestige Recordings](https://open.spotify.com/album/04sQeDrLHPx83hfP9A6S22) | 7:20 | 2020-10-12 |  |
 | [Isotope \- Rudy Van Gelder Edition / 2004 Digital Remaster](https://open.spotify.com/track/4tmApkhSLqUAE7x70CVI2L) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Inner Urge \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/2Amg9J3U9jEUUJUxCW5OgI) | 9:16 | 2020-10-12 |  |
 | [Kelly Blue](https://open.spotify.com/track/2w2S61Es3uLMVHE41u1pev) | [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0) | [Kelly Blue \(Keepnews Collection\)](https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B) | 10:50 | 2020-10-12 |  |
+| [Mr\. P.C.](https://open.spotify.com/track/46UcCHA5FSUsFu7aa5JiZN) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Piano Jazz Classics](https://open.spotify.com/album/5NI7MD98NP4ReMR86f070I) | 6:58 | 2020-10-12 | 2022-11-13 |
 | [Mr\. P.C.](https://open.spotify.com/track/5ytXSrCiSO8UWL4f6rAOJy) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Giant Steps \(Deluxe Edition\)](https://open.spotify.com/album/3kxiL93hCFCIXkXJBLcYDi) | 7:03 | 2020-10-12 | 2022-07-29 |
 | [Mr\. P.C\. \- Mono](https://open.spotify.com/track/1Z6Yxm3WpEJRkE0tGLr31y) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Giant Steps \(Mono\)](https://open.spotify.com/album/7MBQWjukLxXZYvQ8vzEH7t) | 6:58 | 2020-10-12 |  |
 | [Now's The Time](https://open.spotify.com/track/0cvA7oe0YMEOl5L017P9lq) | [Charlie Parker Quartet](https://open.spotify.com/artist/5GBe2GMfPm3IFagD5XuKKs) | [Now’s The Time: The Genius Of Charlie Parker \#3](https://open.spotify.com/album/7KLwxAG5safFwMgxd0XlH3) | 3:01 | 2020-10-12 |  |
@@ -48,7 +50,9 @@
 | [Sandu](https://open.spotify.com/track/7iOTBeLm5qR9N23fjQy8Kl) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach Quintet](https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3) | [Study In Brown](https://open.spotify.com/album/3158RZskTkHMhPvQICUeQ1) | 4:57 | 2020-10-12 |  |
 | [Senor Blues](https://open.spotify.com/track/3MiHG7FiEk56qiHNuWaZiz) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [The Very Best](https://open.spotify.com/album/4xuegUilqM4eMcAH9FdxRR) | 7:01 | 2020-10-12 |  |
 | [Senor Blues](https://open.spotify.com/track/7MpR13JCgWsEJe3iJzax5B) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [The History of Blue Note, 70th Anniversary](https://open.spotify.com/album/1vklN7S5RaL03pw3foEt4F) | 7:02 | 2020-10-12 | 2022-07-29 |
+| [Señor Blues](https://open.spotify.com/track/71V8WY9QqgUw2Om6DHgrSW) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [The Best of Horace Silver](https://open.spotify.com/album/1WQUIpkJL5AbQlG2xGIHet) | 6:58 | 2020-10-12 | 2022-11-13 |
 | [Sonnymoon For Two](https://open.spotify.com/track/58auzrd6rwCLuWleG4bCAy) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [The Freelance Years](https://open.spotify.com/album/7DcaNJJvSm4m9POLPopa8x) | 9:06 | 2020-10-12 |  |
+| [Stolen Moments](https://open.spotify.com/track/3K52l1kbtOffT3uRRICAAj) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN) | [Late Night Jazz Jams](https://open.spotify.com/album/2fRhiVqfTXVJWtK3XzFPVL) | 8:45 | 2020-10-12 | 2022-11-13 |
 | [Stolen Moments](https://open.spotify.com/track/1sce5VJvCOYYDAR9rp9KdG) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN) | [The Blues And The Abstract Truth](https://open.spotify.com/album/6lxRA8Rl9a9XoZDCVWBzBY) | 8:45 | 2020-10-12 |  |
 | [Stolen Moments](https://open.spotify.com/track/4ow1XH4hwe3yOGXG2eTTTY) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN) | [The Blues and the Abstract Truth](https://open.spotify.com/album/7BSQKjtu7YjBkTuhBK2tIJ) | 8:45 | 2020-10-12 | 2022-07-29 |
 | [Straight, No Chaser](https://open.spotify.com/track/6YYu8qFzcY1ZyzzsJIQM12) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Straight, No Chaser](https://open.spotify.com/album/1BHwJqnHhuIryphXMZ0PMQ) | 11:28 | 2020-10-12 |  |

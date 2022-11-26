@@ -125,7 +125,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 318669,
       "name": "Bayside Groove",
       "url": "https://open.spotify.com/track/64pPRNi9JLagq9RVYvInVu"
@@ -586,6 +586,28 @@
     },
     {
       "album": {
+        "name": "Find Your Way",
+        "url": "https://open.spotify.com/album/4wDEWSRuqO6k4RgOolYy2h"
+      },
+      "artists": [
+        {
+          "name": "Pola & Bryson",
+          "url": "https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr"
+        },
+        {
+          "name": "Charlotte Haining",
+          "url": "https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-23",
+      "duration_ms": 328033,
+      "name": "Find Your Way",
+      "url": "https://open.spotify.com/track/0HbW183P72KHki0wJsv99I"
+    },
+    {
+      "album": {
         "name": "Garden (Calibre Remix)",
         "url": "https://open.spotify.com/album/6xPaNRGXlr2L0brkk8ab8N"
       },
@@ -838,6 +860,24 @@
     },
     {
       "album": {
+        "name": "Journey Inwards",
+        "url": "https://open.spotify.com/album/5wZngiW5puuoM0QGajqBoY"
+      },
+      "artists": [
+        {
+          "name": "LTJ Bukem",
+          "url": "https://open.spotify.com/artist/5Wfn5sc1w3DhMTpU7oPJZL"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 314000,
+      "name": "Journey Inwards",
+      "url": "https://open.spotify.com/track/3iLyAY6mucjT2lxrtincYz"
+    },
+    {
+      "album": {
         "name": "Sick Music",
         "url": "https://open.spotify.com/album/5m7RGCRrbEhHCrCkNsRPN5"
       },
@@ -927,7 +967,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 246896,
       "name": "Long as You Can",
       "url": "https://open.spotify.com/track/4DP59Vpv73jNlpGiWOV8m8"
@@ -997,6 +1037,28 @@
       "duration_ms": 245173,
       "name": "Maximum Style (Lover To Lover)",
       "url": "https://open.spotify.com/track/5aqLROQOpWX2H8Q3b0IB6b"
+    },
+    {
+      "album": {
+        "name": "messy in heaven",
+        "url": "https://open.spotify.com/album/0a9uNlopPXGg37OC20qDk6"
+      },
+      "artists": [
+        {
+          "name": "venbee",
+          "url": "https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1"
+        },
+        {
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170437,
+      "name": "messy in heaven",
+      "url": "https://open.spotify.com/track/5RobAV5ROH5KARimi7n3cO"
     },
     {
       "album": {
@@ -1118,6 +1180,32 @@
     },
     {
       "album": {
+        "name": "Only One (Remix) - EP",
+        "url": "https://open.spotify.com/album/7vfwJISGoPZuKgVmmPiqP1"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "Digital Farm Animals",
+          "url": "https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh"
+        },
+        {
+          "name": "Brookes Brothers",
+          "url": "https://open.spotify.com/artist/2FPeVdIIXD9Wb9Kbn1Hyz6"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
+      "duration_ms": 237186,
+      "name": "Only One - Brookes Brothers Remix",
+      "url": "https://open.spotify.com/track/3eSD4F6Y47EHatykwASvHX"
+    },
+    {
+      "album": {
         "name": "Open Page",
         "url": "https://open.spotify.com/album/6fmfcUWI0g4HqXrqdNlfzq"
       },
@@ -1133,7 +1221,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": null,
       "duration_ms": 344440,
       "name": "Open Page",
       "url": "https://open.spotify.com/track/0iqT5BeQEHBds5RSsJDMJL"

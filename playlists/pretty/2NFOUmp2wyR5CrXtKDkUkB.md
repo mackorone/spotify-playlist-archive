@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2NFOUmp2wyR5CrXtKDkUkB.md) - [plain]
 
 > Those were the days, this was the music...
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,007 likes - 67 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,986 likes - 67 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/2NFOUmp2wyR5CrXtKDkUkB.md) - [plain]
 | 35 | [My Favorite Things](https://open.spotify.com/track/4IGXfhZYM3gFQVcNtWQ9pB) | [Julie Andrews](https://open.spotify.com/artist/5RdqZVi36tpDPYNPw8jJbO) | [The Sound of Music \- Original Soundtrack Recording](https://open.spotify.com/album/583SgyGBxtEzsk9J8zBqiy) | 2:18 |
 | 36 | [Massachusetts \(2008 Remastered LP Version\)](https://open.spotify.com/track/1mBPlknQe00PCd7R9g34ix) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Best Of Bee Gees, Vol\. 1](https://open.spotify.com/album/0YD5pkRnCzXeCM2z8YlvjU) | 2:25 |
 | 37 | [Girl from the North Country](https://open.spotify.com/track/4K1imZQQ0yKtJ40vGmUajS) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Nashville Skyline](https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN) | 3:40 |
-| 38 | [Build Me Up Buttercup \- Re\-Recording](https://open.spotify.com/track/34iG5zmeF6LFTWmucL3i57) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [The Wonderful World of the 60's \- 100 Hit Songs](https://open.spotify.com/album/2g6zIUb6GvP0k5KtLpWOEQ) | 2:54 |
+| 38 | [Build Me Up Buttercup \(Re\-Recording\)](https://open.spotify.com/track/34iG5zmeF6LFTWmucL3i57) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [The Wonderful World of the 60's \- 100 Hit Songs](https://open.spotify.com/album/2g6zIUb6GvP0k5KtLpWOEQ) | 2:54 |
 | 39 | [Blue Rondo à la Turk](https://open.spotify.com/track/3cYHFvUYDVY9loQQ0LalJc) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [Dave Brubeck's Greatest Hits](https://open.spotify.com/album/425dVE44lkA2a0FBI7MGLE) | 6:43 |
 | 40 | [Strange Brew](https://open.spotify.com/track/3ET8TZWF5sP4SPfJK1lKun) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Disraeli Gears](https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY) | 2:46 |
 | 41 | [Footsteps In the Dark \- Pt\. 1 & 2](https://open.spotify.com/track/5cDylrPWlV0A3XbX5fRTrd) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [It's Your Thing: The Story Of The Isley Brothers](https://open.spotify.com/album/21O10zQ7YrFOTgfyRmopHs) | 5:05 |

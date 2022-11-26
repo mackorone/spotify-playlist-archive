@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzHfIcEruXw.md) - [plain]
 
 > The hottest Anime hits of the 10s\. 2010年代のアニメシーンを特集！Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,717 likes - 66 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,715 likes - 66 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzHfIcEruXw.md) - [plain]
 | 27 | [Dramatic Market Ride](https://open.spotify.com/track/4XVdyXUBYR70qhHSKUgZL9) | [Kitashirakawa Tamako \(CV: Aya Suzaki\)](https://open.spotify.com/artist/0aElBIWdrU7d9yJHSAFSbn) | [Dramatic Market Ride](https://open.spotify.com/album/3Qn1FGT5fVX03YsHYILUZM) | 4:20 |
 | 28 | [最Ψ最好調!](https://open.spotify.com/track/1OWkxXIoqLbGCZ5gMYow3x) | [Dempagumi.Inc](https://open.spotify.com/artist/2jAtwNClGACPlYgR1QFAIq) | [最Ψ最好調!](https://open.spotify.com/album/0SlDfpYIf3zYENuCBrImCL) | 4:28 |
 | 29 | [ニッポン笑顔百景](https://open.spotify.com/track/7HvLwBlGXvaWJZpg1IqwbS) | [Momokurotei Ichimon](https://open.spotify.com/artist/5YWCISv1Tkhx9fUlp10w46), [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN) | [ニッポン笑顔百景](https://open.spotify.com/album/3xafGKlmb5CcZsqWInSU7d) | 3:54 |
-| 30 | [Make it!](https://open.spotify.com/track/4NhJWyPv20hIvs5oDP0Jga) | [i☆Ris](https://open.spotify.com/artist/5AT0jKTq4D7IVlXsDscmQ1) | [Make it!](https://open.spotify.com/album/00qBnGSGC1qtAWPVys6cxB) | 4:12 |
+| 30 | [Make it!](https://open.spotify.com/track/5d1ElKPz3XIOJnU9h7zh6t) | [i☆Ris](https://open.spotify.com/artist/5AT0jKTq4D7IVlXsDscmQ1) | [10th Anniversary Best Album 〜Best i☆Rist〜](https://open.spotify.com/album/0WfFLFywmHvtexaH2fwLFQ) | 4:12 |
 | 31 | [名前のない怪物](https://open.spotify.com/track/7ebceNRVeFRFpd4qLENYpO) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [名前のない怪物](https://open.spotify.com/album/7f7ca0HGWNd2UJDmaV7dUG) | 5:17 |
 | 32 | [crossing field](https://open.spotify.com/track/4BvuZVf9KyBN3QiPfeI9hw) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LANDSPACE](https://open.spotify.com/album/5HFUxDJPT23Q2VN32WPi3c) | 4:08 |
 | 33 | [打上花火](https://open.spotify.com/track/7pcTLUekZJQnzDOUDuExVJ) | [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC), [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [打上花火](https://open.spotify.com/album/1zIM9xHEOKU0rDCH6nIXQS) | 4:49 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzHfIcEruXw.md) - [plain]
 | 65 | [ぼくのフレンド](https://open.spotify.com/track/5AH0F230K1ab9TPYUA3wR5) | [mewhan](https://open.spotify.com/artist/13tttiaoECFPQKEigVnYU6) | [自己スキーマ](https://open.spotify.com/album/7qCWMC5KQ3SDii2P3u2Z7M) | 4:11 |
 | 66 | [ヒャダインのカカカタ☆カタオモイ\-C](https://open.spotify.com/track/3MpAKiHm0dzxRBSBwJ3PBC) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2) | [20112012](https://open.spotify.com/album/3DW6bLcegm87OVIDKCVnZ8) | 3:54 |
 
-Snapshot ID: `MTY2MzI1NDAwMCwwMDAwMDAwMDk4M2Y4ZjEzNzQwNjIzMGNkZWFjOWZiNDgzMTAwMTY0`
+Snapshot ID: `MTY2MzI1NDAwMCwwMDAwMDAwMDgwOGM2MzA1YWE1YWU1ZWM0ZTIwODI0ZGY5YjEwODNi`

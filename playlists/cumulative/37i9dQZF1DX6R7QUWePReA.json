@@ -43,7 +43,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 162333,
-      "name": "(Everybody's Waitin' For) The Man With The Bag - Remastered 1996",
+      "name": "(Everybody's Waitin' For) The Man With The Bag",
       "url": "https://open.spotify.com/track/7azp0ySqPkkXHi9M9aeg3T"
     },
     {
@@ -380,6 +380,24 @@
     },
     {
       "album": {
+        "name": "Christmas With Bing Crosby",
+        "url": "https://open.spotify.com/album/3ZwCmfkGjrOTgfrc7f9cQQ"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 139333,
+      "name": "God Rest Ye Merry Gentlemen",
+      "url": "https://open.spotify.com/track/0mOUZEuB4zHZKiGph6NjU3"
+    },
+    {
+      "album": {
         "name": "The Andy Williams Christmas Album",
         "url": "https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch"
       },
@@ -506,6 +524,24 @@
     },
     {
       "album": {
+        "name": "Christmas Favorites",
+        "url": "https://open.spotify.com/album/2g61qZYcJbhI4p5GLHp2nw"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 181360,
+      "name": "I Saw Mommy Kissing Santa Claus",
+      "url": "https://open.spotify.com/track/3SLGEzmbQErTvFpPAtiSc7"
+    },
+    {
+      "album": {
         "name": "White Christmas",
         "url": "https://open.spotify.com/album/14TY9gKgbCeJeezD8uGnD4"
       },
@@ -521,6 +557,24 @@
       "duration_ms": 175173,
       "name": "I'll Be Home For Christmas",
       "url": "https://open.spotify.com/track/3tTpegNWYZFhkymRT2xhgF"
+    },
+    {
+      "album": {
+        "name": "This Christmas",
+        "url": "https://open.spotify.com/album/7LH4zb9sqLr8hX3SzwkmDq"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 173893,
+      "name": "I'll Be Home For Christmas - Single Version",
+      "url": "https://open.spotify.com/track/4x9RxveiWUlDahke6MKvrt"
     },
     {
       "album": {
@@ -644,6 +698,32 @@
     },
     {
       "album": {
+        "name": "Last Christmas",
+        "url": "https://open.spotify.com/album/3zQEGRinB79bznHdOYx1Sj"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        },
+        {
+          "name": "Ralph Carmichael",
+          "url": "https://open.spotify.com/artist/4hdd6WRlN1EcACmO8ft0HZ"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 86760,
+      "name": "Joy To The World",
+      "url": "https://open.spotify.com/track/2SmGhUW6Rnwf5q5a158fJn"
+    },
+    {
+      "album": {
         "name": "The Christmas Song (Expanded Edition)",
         "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
       },
@@ -680,6 +760,24 @@
     },
     {
       "album": {
+        "name": "A Winter Romance",
+        "url": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117146,
+      "name": "Let It Snow! Let It Snow! Let It Snow!",
+      "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
+    },
+    {
+      "album": {
         "name": "Christmas Songs by Sinatra",
         "url": "https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU"
       },
@@ -695,7 +793,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 155453,
       "name": "Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet)",
       "url": "https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts"
@@ -753,6 +851,24 @@
       "duration_ms": 185453,
       "name": "Linus And Lucy",
       "url": "https://open.spotify.com/track/0MmNrhvLcoWjo7AOr0vgka"
+    },
+    {
+      "album": {
+        "name": "Christmas Party",
+        "url": "https://open.spotify.com/album/4iWKUX8N6qZoSZSW2y1zsi"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 186133,
+      "name": "Linus And Lucy",
+      "url": "https://open.spotify.com/track/1VAUUvvR6lSVtmnhvtm7m5"
     },
     {
       "album": {
@@ -815,6 +931,28 @@
       "duration_ms": 174000,
       "name": "Mele Kalikimaka - Single Version",
       "url": "https://open.spotify.com/track/20emy72iC2fMojujwCI6MN"
+    },
+    {
+      "album": {
+        "name": "Pop Christmas 2022",
+        "url": "https://open.spotify.com/album/1UKMpoHAZlywEwEQFs46wj"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        {
+          "name": "The Andrews Sisters",
+          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 175333,
+      "name": "Mele Kalikimaka - Single Version",
+      "url": "https://open.spotify.com/track/50SpLO86DRvSPfMaIlatL2"
     },
     {
       "album": {
@@ -998,6 +1136,24 @@
     },
     {
       "album": {
+        "name": "Classic Christmas Hits 2022",
+        "url": "https://open.spotify.com/album/7ILcxLRAchjzznQVoD0ESK"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 309386,
+      "name": "O Tannenbaum",
+      "url": "https://open.spotify.com/track/5IYTUm06pUdo1DHjtijVRW"
+    },
+    {
+      "album": {
         "name": "Please Come Home for Christmas / Funky New Year (2013 Remaster)",
         "url": "https://open.spotify.com/album/4QxtDUU3U7gCCyT9Lm3bg5"
       },
@@ -1049,6 +1205,24 @@
       "duration_ms": 130026,
       "name": "Rudolph The Red-Nosed Reindeer",
       "url": "https://open.spotify.com/track/47otoIkhx3fkdivEXL5OB6"
+    },
+    {
+      "album": {
+        "name": "No\u00ebl 2020",
+        "url": "https://open.spotify.com/album/0gbWx46O7msHBOfp6fYSkk"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 162897,
+      "name": "Run Rudolph Run",
+      "url": "https://open.spotify.com/track/3CQa7Xu95cwlQVPd3UoiHB"
     },
     {
       "album": {
@@ -1142,6 +1316,24 @@
     },
     {
       "album": {
+        "name": "Weihnachtssongs",
+        "url": "https://open.spotify.com/album/2ShvJ5qGxzgHD7u2Ukj1Wq"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 144080,
+      "name": "Santa Claus Is Coming To Town",
+      "url": "https://open.spotify.com/track/3eqD8kifaVLMNJS1zRk73b"
+    },
+    {
+      "album": {
         "name": "Jackson Five Christmas Album",
         "url": "https://open.spotify.com/album/6J7kk80VywP59lPn8E5Cal"
       },
@@ -1193,6 +1385,24 @@
       "duration_ms": 201040,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/0i7lZhEMEheehKyCtBJIIL"
+    },
+    {
+      "album": {
+        "name": "Christmas 2022",
+        "url": "https://open.spotify.com/album/7z5iN24rkE5hOk2amN8d61"
+      },
+      "artists": [
+        {
+          "name": "Carpenters",
+          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 201040,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/0vnKFdbs3NTHnIB7530Rny"
     },
     {
       "album": {
@@ -1344,6 +1554,24 @@
     },
     {
       "album": {
+        "name": "Christmas Past & Present",
+        "url": "https://open.spotify.com/album/1MuSgih5nWRTUDrxnNwEXq"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 105346,
+      "name": "The Happiest Christmas Tree - Remastered 2009",
+      "url": "https://open.spotify.com/track/5w2qYjJFRpAQjtXgbPOrhq"
+    },
+    {
+      "album": {
         "name": "Bing Crosby - Christmas Classics",
         "url": "https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A"
       },
@@ -1425,6 +1653,28 @@
       "duration_ms": 203746,
       "name": "Twelve Days Of Christmas",
       "url": "https://open.spotify.com/track/0cAhE2iDJApegDnVRx6fCK"
+    },
+    {
+      "album": {
+        "name": "This Christmas",
+        "url": "https://open.spotify.com/album/7LH4zb9sqLr8hX3SzwkmDq"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        {
+          "name": "The Andrews Sisters",
+          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 203733,
+      "name": "Twelve Days Of Christmas - Single Version",
+      "url": "https://open.spotify.com/track/5PB6Ik7TkYMoIOGXypukRo"
     },
     {
       "album": {

@@ -117,7 +117,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 435975,
       "name": "Body Language",
       "url": "https://open.spotify.com/track/2Q7DRtNo4Hc5AjmV0Xx8mf"
@@ -254,6 +254,68 @@
     },
     {
       "album": {
+        "name": "First Album (2009 Reissue)",
+        "url": "https://open.spotify.com/album/4YSmNOiY47nx2VodZ8N1I8"
+      },
+      "artists": [
+        {
+          "name": "Miss Kittin",
+          "url": "https://open.spotify.com/artist/3QhNv79NoIvarU6N57GBzL"
+        },
+        {
+          "name": "The Hacker",
+          "url": "https://open.spotify.com/artist/763V8ZisRsw5kCoquzKTUp"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 235933,
+      "name": "Frank Sinatra",
+      "url": "https://open.spotify.com/track/3mK7ll5qJEKgsV3IQtpJJP"
+    },
+    {
+      "album": {
+        "name": "Club Epic - A Collection Of Classic Dance Mixes: Volume 4",
+        "url": "https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW"
+      },
+      "artists": [
+        {
+          "name": "Lil' Louis",
+          "url": "https://open.spotify.com/artist/5A16TE7083RJq3yzpdsQWs"
+        },
+        {
+          "name": "The World",
+          "url": "https://open.spotify.com/artist/62ltJFdLVl9JUrdhzWqp0F"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 591733,
+      "name": "French Kiss - The Original Underground Mix",
+      "url": "https://open.spotify.com/track/7hnqJYCKZFW7vMoykaraZG"
+    },
+    {
+      "album": {
+        "name": "Moby",
+        "url": "https://open.spotify.com/album/1slROdhMf4S9kwLHGfMrSk"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217240,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/0e8C9dPERvvARURkNOFrrC"
+    },
+    {
+      "album": {
         "name": "Moby",
         "url": "https://open.spotify.com/album/0KfKzsskBe8a8Cf3JheeSm"
       },
@@ -265,7 +327,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 217240,
       "name": "Go",
       "url": "https://open.spotify.com/track/6bzV0xGO4dROmmL9GmVkjM"
@@ -464,6 +526,50 @@
     },
     {
       "album": {
+        "name": "Let Me Think About It (Remixes)",
+        "url": "https://open.spotify.com/album/0em4Q3loArIZYCdXcRrygg"
+      },
+      "artists": [
+        {
+          "name": "Ida Corr",
+          "url": "https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh"
+        },
+        {
+          "name": "Fedde Le Grand",
+          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 153360,
+      "name": "Let Me Think About It - Radio Edit",
+      "url": "https://open.spotify.com/track/53rQM3LpXLf2hyClva3jiz"
+    },
+    {
+      "album": {
+        "name": "Housemusic.De",
+        "url": "https://open.spotify.com/album/1Y1ejuQvNlSQXKA7Ef5qzW"
+      },
+      "artists": [
+        {
+          "name": "Milk & Sugar",
+          "url": "https://open.spotify.com/artist/159cwGtgCzNpyHWY6tzihH"
+        },
+        {
+          "name": "Lizzy Pattinson",
+          "url": "https://open.spotify.com/artist/1rxn6ryjjQGlWB6onfUZyG"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 213813,
+      "name": "Let the Sun Shine - Terrace Vocal Radio Edit",
+      "url": "https://open.spotify.com/track/18wQx3mWVM5qBVckrLZjj3"
+    },
+    {
+      "album": {
         "name": "Night Works",
         "url": "https://open.spotify.com/album/7a25FtnvBLOmW6BA9444Wn"
       },
@@ -527,7 +633,7 @@
     {
       "album": {
         "name": "Play & Play: B Sides",
-        "url": "https://open.spotify.com/album/3wRlU7n3LULfjL0e9RtB5Q"
+        "url": "https://open.spotify.com/album/724hO8VLcKOz9b0y18wA8c"
       },
       "artists": [
         {
@@ -538,6 +644,24 @@
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 253760,
+      "name": "Natural Blues",
+      "url": "https://open.spotify.com/track/19aUcBFBrXbsAcucaVFBjW"
+    },
+    {
+      "album": {
+        "name": "Play & Play: B Sides",
+        "url": "https://open.spotify.com/album/3wRlU7n3LULfjL0e9RtB5Q"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
       "duration_ms": 253760,
       "name": "Natural Blues",
       "url": "https://open.spotify.com/track/5MIOomJuCJkfuf6mrHJu9H"
@@ -649,10 +773,28 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 241173,
       "name": "Porcelain",
       "url": "https://open.spotify.com/track/2UKYMN7VnsQo40n0qCt6Sa"
+    },
+    {
+      "album": {
+        "name": "Play & Play: B Sides",
+        "url": "https://open.spotify.com/album/724hO8VLcKOz9b0y18wA8c"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241173,
+      "name": "Porcelain",
+      "url": "https://open.spotify.com/track/5fJAYWoFgXm26HLNViFiUh"
     },
     {
       "album": {
@@ -794,6 +936,24 @@
     },
     {
       "album": {
+        "name": "Innovator (Mayday)",
+        "url": "https://open.spotify.com/album/2DtFJsPFDFp8b8AebiZmIL"
+      },
+      "artists": [
+        {
+          "name": "Derrick May",
+          "url": "https://open.spotify.com/artist/0v6N0xV7AfHHKVcgUOjC51"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 362946,
+      "name": "Strings of Life",
+      "url": "https://open.spotify.com/track/7N3FfUFMud1rjI6Vgw71mm"
+    },
+    {
+      "album": {
         "name": "Goodbye Country (Hello Nightclub)",
         "url": "https://open.spotify.com/album/1bS1J4OVGrpu6e2U2pHge6"
       },
@@ -845,6 +1005,28 @@
       "duration_ms": 255200,
       "name": "That's the Way Love Is - Underground Mix; Edit",
       "url": "https://open.spotify.com/track/5eFCFpmDbqGqpdOVE9CXCh"
+    },
+    {
+      "album": {
+        "name": "The Age Of Love",
+        "url": "https://open.spotify.com/album/1lvQv4KLgECYj4jPkwGPh5"
+      },
+      "artists": [
+        {
+          "name": "Age Of Love",
+          "url": "https://open.spotify.com/artist/03tes5RhEvH2dX2eDeGnRn"
+        },
+        {
+          "name": "Jam & Spoon",
+          "url": "https://open.spotify.com/artist/2MIKLLJyOv1o5u49KRbfH7"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-22",
+      "duration_ms": 408773,
+      "name": "The Age Of Love - Jam & Spoon Watch Out For Stella Mix",
+      "url": "https://open.spotify.com/track/0rgQp5Pi4C2G8vQrhaTS7b"
     },
     {
       "album": {

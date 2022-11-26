@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cbNxuNYT3d.md) - [plain]
 
 > Some of the biggest french touch classics! Cover: Daft Punk
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,485 likes - 50 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,415 likes - 50 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cbNxuNYT3d.md) - [plain]
 | 28 | [The Man With the Red Face \- Video Edit](https://open.spotify.com/track/2TNAP0cq2IZkeSUx2Zbzrw) | [Laurent Garnier](https://open.spotify.com/artist/3y1SoTOdrmRNTBVph5T0VZ) | [The Man With the Red Face](https://open.spotify.com/album/2z7OqIfgvL7xrOtYAj2Qzl) | 9:10 |
 | 29 | [DVNO \- Radio Edit](https://open.spotify.com/track/1wVBZxnCo8ZkGaFqPJEmz2) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [DVNO](https://open.spotify.com/album/10y4ioZQOQoIEkFOMxElJr) | 3:11 |
 | 30 | [Poison Lips](https://open.spotify.com/track/1NJ1jm3uNRrF4JZHpaX1CD) | [Vitalic](https://open.spotify.com/artist/4M84umUNRbZy1mJleyyRM9) | [Flashmob](https://open.spotify.com/album/2RlP2H89edcTGhVcpGPINj) | 3:54 |
-| 31 | [Mothership Reconnection \(feat.Parliament/Funkadelic\) \- \(Daft Punk Remix\)](https://open.spotify.com/track/5aWVNrjqFHCATLIhS2na3t) | [Scott Grooves](https://open.spotify.com/artist/7hwWjHjLHvhSDngoe2Pkbe), [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH), [Funkadelic](https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru) | [Musique, Vol\. 1](https://open.spotify.com/album/4a0p1M12f7VaZWdoNSdEK4) | 4:00 |
+| 31 | [Mothership Reconnection \(feat\. Parliament/Funkadelic\) \- \(Daft Punk Remix\)](https://open.spotify.com/track/5aWVNrjqFHCATLIhS2na3t) | [Scott Grooves](https://open.spotify.com/artist/7hwWjHjLHvhSDngoe2Pkbe), [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH), [Funkadelic](https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru) | [Musique, Vol\. 1](https://open.spotify.com/album/4a0p1M12f7VaZWdoNSdEK4) | 4:00 |
 | 32 | [Gym tonic \- Original](https://open.spotify.com/track/4DgPcCPpxVN28ZOQBZBhu4) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Paradise](https://open.spotify.com/album/2ZHeCVucwVH7H3qC4abtTd) | 6:12 |
 | 33 | [Feeling for You](https://open.spotify.com/track/0UHhtA7tNKZaEPh7hYZVGP) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy) | [1999 \(Deluxe Edition\)](https://open.spotify.com/album/2HKgnzlGIJddpRwDlxit43) | 4:37 |
 | 34 | [Pocket Piano](https://open.spotify.com/track/4oyQ6vDzJMFYhmO9p5qrjE) | [DJ Mehdi](https://open.spotify.com/artist/5ffMSKGQRhetAjBjEgkRun) | [Pocket Piano](https://open.spotify.com/album/5dMTP9ZttPAmkLpgYR18Ax) | 4:34 |

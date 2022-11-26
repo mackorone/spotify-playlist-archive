@@ -4,11 +4,11 @@
 
 > All of the best Celtic punk tracks\. Cover: The Dreadnoughts
 
-98 songs - 5 hr 31 min - [published](https://open.spotify.com/playlist/65HxUQh37oq5Eems1crT9A)
+99 songs - 5 hr 34 min - [published](https://open.spotify.com/playlist/65HxUQh37oq5Eems1crT9A)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [36 Barrels](https://open.spotify.com/track/4VQJ2EROhC6aTe72oZCdG0) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [Beer and Loathing](https://open.spotify.com/album/7Lt36zggZgLxpiglpKHpiF) | 3:34 | 2022-03-18 | 2022-08-01 |
+| [36 Barrels](https://open.spotify.com/track/4VQJ2EROhC6aTe72oZCdG0) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [Beer and Loathing](https://open.spotify.com/album/7Lt36zggZgLxpiglpKHpiF) | 3:34 | 2022-03-18 |  |
 | [A Fistful O' Roses](https://open.spotify.com/track/34m9v482iwNV9QHWfzNFq0) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Sleepin' Rough](https://open.spotify.com/album/11gXkG9RdZCEuJwIOZ7OPW) | 4:47 | 2022-03-18 |  |
 | [A Fistful O' Roses](https://open.spotify.com/track/0luBzUkwlfRGQKfUwDVwVe) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [A Fistful O' Roses](https://open.spotify.com/album/54ildx6MHioyvqGTAFASOe) | 4:52 | 2022-03-18 | 2022-07-29 |
 | [Arrive On St\. Patrick's Day](https://open.spotify.com/track/0E4tTwpmHQTXQbI9Ov7V2S) | [Sir Reg](https://open.spotify.com/artist/0ircDsEvOEB5iDlGl2lT63) | [SIR REG](https://open.spotify.com/album/5WCydhGEqbdCoZBgaVGvfE) | 3:16 | 2022-03-18 |  |
@@ -38,7 +38,7 @@
 | [Giving It Up \(The Drink\)](https://open.spotify.com/track/5hUyDIqCOt8oZqqs7W1PPP) | [Sir Reg](https://open.spotify.com/artist/0ircDsEvOEB5iDlGl2lT63) | [The Underdogs](https://open.spotify.com/album/1kdh75Ql8j44IdYNeSxSXQ) | 3:02 | 2022-03-18 | 2022-07-16 |
 | [Glad to See the Back of You](https://open.spotify.com/track/37JVPMsOsY6tvG2pn0jI0e) | [The Peelers](https://open.spotify.com/artist/4DBvYJsCp7nHAz3Y7evwuD) | [Down and out in the City of Saints](https://open.spotify.com/album/2gpS86odPTUcZV6ENCmM5L) | 2:53 | 2022-03-18 | 2022-07-29 |
 | [Grace O'malley](https://open.spotify.com/track/7BxuW1u779q9orjpmbNlxF) | [The Rumpled](https://open.spotify.com/artist/1KBTFIV3DLMDZlnQzoQUw6) | [Grace O'malley](https://open.spotify.com/album/2ioktS4K96jpk7Q5McGouo) | 3:36 | 2022-03-18 | 2022-07-15 |
-| [Haul Away, Joe](https://open.spotify.com/track/1aW6Tir7Q7qSPaD7ZQS9hC) | [Fiddler's Green](https://open.spotify.com/artist/3EDllPZzA7Ipj53OWeArLe) | [3 Cheers for 30 Years](https://open.spotify.com/album/4RhmgxIRCzuo9fyF2SZAVh) | 3:21 | 2022-03-18 | 2022-07-29 |
+| [Haul Away, Joe](https://open.spotify.com/track/1aW6Tir7Q7qSPaD7ZQS9hC) | [Fiddler's Green](https://open.spotify.com/artist/3EDllPZzA7Ipj53OWeArLe) | [3 Cheers for 30 Years](https://open.spotify.com/album/4RhmgxIRCzuo9fyF2SZAVh) | 3:21 | 2022-03-18 | 2022-11-13 |
 | [I'll Fly Away](https://open.spotify.com/track/7b1C6mz6egDlaZWavyKJv6) | [Flatfoot 56](https://open.spotify.com/artist/7eQrNqwmiIvFKEMvHRvPLB) | [Toil](https://open.spotify.com/album/301aLfcteHHAyyJUyC6ysY) | 2:44 | 2022-03-18 |  |
 | [I'll Fly Away](https://open.spotify.com/track/60xc3fnob8DL9NkGFmJxyv) | [Flatfoot 56](https://open.spotify.com/artist/7eQrNqwmiIvFKEMvHRvPLB) | [Toil](https://open.spotify.com/album/51b4dHUjtNFqMHVt6jx7Xi) | 2:46 | 2022-03-18 | 2022-07-25 |
 | [I'm Shipping Up To Boston](https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Warrior's Code](https://open.spotify.com/album/2sZGDqHfU884z3iFris122) | 2:33 | 2022-03-18 |  |
@@ -48,9 +48,10 @@
 | [Join the Riot](https://open.spotify.com/track/0ywLxPIfElvmPjYTwVIryT) | [Paddy And The Rats](https://open.spotify.com/artist/3XquRQYlB1gXQkYdOV7S2x) | [Riot City Outlaws](https://open.spotify.com/album/6sJs55Ph5KQrQ8maznQSBw) | 3:08 | 2022-03-18 |  |
 | [Join the Riot](https://open.spotify.com/track/6iJoFhzoWhytbtg7H7kQ5a) | [Paddy And The Rats](https://open.spotify.com/artist/3XquRQYlB1gXQkYdOV7S2x) | [Riot City Outlaws](https://open.spotify.com/album/5K8Slbeyr5qy7U5qudDHOM) | 3:08 | 2022-03-18 | 2022-07-29 |
 | [Karma Killer](https://open.spotify.com/track/0Js21h5mZmJ9tJchPQ33zg) | [Pipes And Pints](https://open.spotify.com/artist/4OqDoxT2t5pP2S7C1VkoGB) | [Karma Killer](https://open.spotify.com/album/0GaneqwiDOaqyUFCMfoQJY) | 3:18 | 2022-03-18 | 2022-06-10 |
-| [Katie Bar the Door](https://open.spotify.com/track/66nrk0r8Jv1IhNQUol0u6R) | [The Peelers](https://open.spotify.com/artist/4DBvYJsCp7nHAz3Y7evwuD) | [Liquordale](https://open.spotify.com/album/2OMw9EbAk5K0oVhmmUZY9e) | 3:13 | 2022-03-18 |  |
+| [Katie Bar the Door](https://open.spotify.com/track/66nrk0r8Jv1IhNQUol0u6R) | [The Peelers](https://open.spotify.com/artist/4DBvYJsCp7nHAz3Y7evwuD) | [Liquordale](https://open.spotify.com/album/2OMw9EbAk5K0oVhmmUZY9e) | 3:13 | 2022-03-18 | 2022-10-20 |
 | [Kick Out The Scum](https://open.spotify.com/track/7gm131f9EwoBasQT5Fcqua) | [Sir Reg](https://open.spotify.com/artist/0ircDsEvOEB5iDlGl2lT63) | [Kick Out The Scum](https://open.spotify.com/album/0zMhFOgj0wLZIXbilDbF7Q) | 3:35 | 2022-03-18 | 2022-07-25 |
 | [Mick Jones Nicked My Pudding](https://open.spotify.com/track/2iD8GXpQJlYEgWwiCyXoW2) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Mick Jones Nicked My Pudding](https://open.spotify.com/album/19oSImQhM6RbBuzbL6AZp9) | 2:40 | 2022-03-18 | 2022-07-29 |
+| [Middle Finger](https://open.spotify.com/track/5YDSdt8rLCiUmc2BbNtCLe) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Turn Up That Dial \(Expanded Version\)](https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd) | 2:35 | 2022-03-18 |  |
 | [Middle Finger](https://open.spotify.com/track/6fKymBc5tF2uMbQhyRaezA) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Middle Finger](https://open.spotify.com/album/74KJL8Xmwr8EcYPY22jN5M) | 2:35 | 2022-03-18 | 2022-07-29 |
 | [Mud](https://open.spotify.com/track/3PLyelbjEqiV9YykUcaZoa) | [Flatfoot 56](https://open.spotify.com/artist/7eQrNqwmiIvFKEMvHRvPLB) | [Mud](https://open.spotify.com/album/2328yoKVtISkOGIcjIn7ou) | 4:46 | 2022-03-18 | 2022-07-29 |
 | [My Dark Foamy Friend](https://open.spotify.com/track/3O1AZJjf5p6U079v6ZRhTQ) | [Paddy Murphy](https://open.spotify.com/artist/2hbw7tsQv6Ejqc8kBDoFIK) | [My Dark Foamy Friend](https://open.spotify.com/album/4jDDvx41vbQMLiAAUjXYTg) | 5:07 | 2022-03-18 | 2022-06-01 |
@@ -105,6 +106,6 @@
 | [Walk the Plank Again](https://open.spotify.com/track/6EiQJaVP4JLBDVhKTG8tZ3) | [Brick Top Blaggers](https://open.spotify.com/artist/5NfRMlxntptF6CoAVVnpe2) | [Two Years Enough](https://open.spotify.com/album/78aNC6N1fhpbXRBbgLsMiE) | 2:40 | 2022-03-18 | 2022-07-19 |
 | [Whiskey and Gin](https://open.spotify.com/track/5Z86P3a0reCE58nhDZDCgk) | [The Killigans](https://open.spotify.com/artist/6EnFVB7au1aUyNvdhIzXPB) | [Honor](https://open.spotify.com/album/5q7liZNAS6nQ2gST7wGMmJ) | 2:46 | 2022-03-18 |  |
 | [Wreck Head Wedding](https://open.spotify.com/track/59Yc6uN8UjlhF7XXWAxxoH) | [The Gallowgate Murders](https://open.spotify.com/artist/6pCJCybLgbksMuS4vki2s0) | [Wreckhead Wedding](https://open.spotify.com/album/3s26yNHeTMOhxPGHzWEM0v) | 2:56 | 2022-03-18 | 2022-07-16 |
-| [Yesterday's Rebel](https://open.spotify.com/track/4CORTiFsG6MgUTnyNNTlvW) | [The O'Reillys and the Paddyhats](https://open.spotify.com/artist/5rY2KJh3KVITvw9bAz74pQ) | [Green Blood](https://open.spotify.com/album/4vyVIxudWxYavhsRSjJoIa) | 2:54 | 2022-03-18 |  |
+| [Yesterday's Rebel](https://open.spotify.com/track/4CORTiFsG6MgUTnyNNTlvW) | [The O'Reillys and the Paddyhats](https://open.spotify.com/artist/5rY2KJh3KVITvw9bAz74pQ) | [Green Blood](https://open.spotify.com/album/4vyVIxudWxYavhsRSjJoIa) | 2:54 | 2022-03-18 | 2022-11-20 |
 
 \*This playlist was first scraped on 2022-05-15. Prior content cannot be recovered.

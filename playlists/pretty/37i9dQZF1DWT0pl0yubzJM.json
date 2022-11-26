@@ -1,12 +1,12 @@
 {
   "description": "Entre estrellas pop y el auge del grunge, en Argentina, detr\u00e1s de Dynamo floreci\u00f3 el nuevo rock argentino. Sonido alternativo y vanguardista. Foto: <a href=\"spotify:user:spotify:playlist:37i9dQZF1DXas2oQWNGMlz\">Babas\u00f3nicos</a>",
-  "num_followers": 11926,
+  "num_followers": 12165,
   "original_name": "Rock S\u00f3nico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4NDEwNTY4OCwwMDAwMDAwMDhlYzgxZjFhMjAzMTk4ZThjOGQwNzdlYjdhZGUzM2Uy",
+  "snapshot_id": "MTU4NDEwNTY4OCwwMDAwMDAwMGVmZDQzZWJkYzA0ZjA2YjI0MzBmNDIxZmIzMzJhYmJk",
   "tracks": [
     {
       "added_at": "2020-03-13 13:21:28",
@@ -91,22 +91,6 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Dale Aborigen",
-        "url": "https://open.spotify.com/album/212ondLs1xEcRuSM0iu70X"
-      },
-      "artists": [
-        {
-          "name": "Todos Tus Muertos",
-          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
-        }
-      ],
-      "duration_ms": 140960,
-      "name": "Trece",
-      "url": "https://open.spotify.com/track/5aVlOkWLnXtFGeoTQxv48E"
-    },
-    {
-      "added_at": "2020-03-13 13:21:28",
-      "album": {
         "name": "Dynamo (Remastered)",
         "url": "https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ"
       },
@@ -123,18 +107,18 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Peligrosos Gorriones",
-        "url": "https://open.spotify.com/album/2CT63e7WwSrHiEPpLcn41S"
+        "name": "Dale Aborigen",
+        "url": "https://open.spotify.com/album/212ondLs1xEcRuSM0iu70X"
       },
       "artists": [
         {
-          "name": "Peligrosos Gorriones",
-          "url": "https://open.spotify.com/artist/6po2f29ob2NrxTHXbsSS9i"
+          "name": "Todos Tus Muertos",
+          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
         }
       ],
-      "duration_ms": 224893,
-      "name": "Siempre Acampa",
-      "url": "https://open.spotify.com/track/1o1EKep0fZJGlSyL6oAuLp"
+      "duration_ms": 140960,
+      "name": "Trece",
+      "url": "https://open.spotify.com/track/5aVlOkWLnXtFGeoTQxv48E"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -151,6 +135,22 @@
       "duration_ms": 188639,
       "name": "R\u00edo Paran\u00e1",
       "url": "https://open.spotify.com/track/3ErnpA5sFpJbCQTkwp7CEK"
+    },
+    {
+      "added_at": "2020-03-13 13:21:28",
+      "album": {
+        "name": "Peligrosos Gorriones",
+        "url": "https://open.spotify.com/album/2CT63e7WwSrHiEPpLcn41S"
+      },
+      "artists": [
+        {
+          "name": "Peligrosos Gorriones",
+          "url": "https://open.spotify.com/artist/6po2f29ob2NrxTHXbsSS9i"
+        }
+      ],
+      "duration_ms": 224893,
+      "name": "Siempre Acampa",
+      "url": "https://open.spotify.com/track/1o1EKep0fZJGlSyL6oAuLp"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -175,22 +175,6 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Emporio Bizarro",
-        "url": "https://open.spotify.com/album/4zDPNXUEKor41wMycCTzpC"
-      },
-      "artists": [
-        {
-          "name": "Santos Inocentes",
-          "url": "https://open.spotify.com/artist/5fs9bxwPJ4ofGlFFY67U8I"
-        }
-      ],
-      "duration_ms": 169026,
-      "name": "Desaparecedor",
-      "url": "https://open.spotify.com/track/6ohy3zxxhD0G7Fcj7PGqjw"
-    },
-    {
-      "added_at": "2020-03-13 13:21:28",
-      "album": {
         "name": "Vida Modelo",
         "url": "https://open.spotify.com/album/7AHZl3Y5Y76pObzW9s8SSZ"
       },
@@ -207,34 +191,34 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Peligrosos Gorriones",
-        "url": "https://open.spotify.com/album/2CT63e7WwSrHiEPpLcn41S"
+        "name": "Emporio Bizarro",
+        "url": "https://open.spotify.com/album/4zDPNXUEKor41wMycCTzpC"
       },
       "artists": [
         {
-          "name": "Peligrosos Gorriones",
-          "url": "https://open.spotify.com/artist/6po2f29ob2NrxTHXbsSS9i"
+          "name": "Santos Inocentes",
+          "url": "https://open.spotify.com/artist/5fs9bxwPJ4ofGlFFY67U8I"
         }
       ],
-      "duration_ms": 173293,
-      "name": "Escafandra",
-      "url": "https://open.spotify.com/track/09XkPoMOoWRiwMkwMMcCN1"
+      "duration_ms": 169026,
+      "name": "Desaparecedor",
+      "url": "https://open.spotify.com/track/6ohy3zxxhD0G7Fcj7PGqjw"
     },
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Dale Aborigen",
-        "url": "https://open.spotify.com/album/212ondLs1xEcRuSM0iu70X"
+        "name": "A Un Mill\u00f3n De A\u00f1os Blues",
+        "url": "https://open.spotify.com/album/3MCGoXzDyQPl6rvbFwerHI"
       },
       "artists": [
         {
-          "name": "Todos Tus Muertos",
-          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
+          "name": "Carca",
+          "url": "https://open.spotify.com/artist/2IepsVr1DGAWIy15lh6sxC"
         }
       ],
-      "duration_ms": 191000,
-      "name": "Mate",
-      "url": "https://open.spotify.com/track/2E0qictodRb0Y5ChkZ7e4w"
+      "duration_ms": 167133,
+      "name": "Pr\u00edncipe Oscuro",
+      "url": "https://open.spotify.com/track/42tVa3K9P6LrWxCStRlVXL"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -251,6 +235,22 @@
       "duration_ms": 231386,
       "name": "Viva Satana",
       "url": "https://open.spotify.com/track/0loEmNQULerxi9kzWW2g6L"
+    },
+    {
+      "added_at": "2020-03-13 13:21:28",
+      "album": {
+        "name": "San Cipriano",
+        "url": "https://open.spotify.com/album/12iVcnNuzN4LQNu8G5Tbv9"
+      },
+      "artists": [
+        {
+          "name": "Los Brujos",
+          "url": "https://open.spotify.com/artist/3DnlTB4No4W6fO6Qvghnm4"
+        }
+      ],
+      "duration_ms": 163626,
+      "name": "La Bomba",
+      "url": "https://open.spotify.com/track/0IjJ1dAp6J9uPo2lKfYyyk"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -275,82 +275,34 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "A Un Mill\u00f3n De A\u00f1os Blues",
-        "url": "https://open.spotify.com/album/3MCGoXzDyQPl6rvbFwerHI"
+        "name": "Dale Aborigen",
+        "url": "https://open.spotify.com/album/212ondLs1xEcRuSM0iu70X"
       },
       "artists": [
         {
-          "name": "Carca",
-          "url": "https://open.spotify.com/artist/2IepsVr1DGAWIy15lh6sxC"
+          "name": "Todos Tus Muertos",
+          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
         }
       ],
-      "duration_ms": 167133,
-      "name": "Pr\u00edncipe Oscuro",
-      "url": "https://open.spotify.com/track/42tVa3K9P6LrWxCStRlVXL"
+      "duration_ms": 191000,
+      "name": "Mate",
+      "url": "https://open.spotify.com/track/2E0qictodRb0Y5ChkZ7e4w"
     },
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "San Cipriano",
-        "url": "https://open.spotify.com/album/12iVcnNuzN4LQNu8G5Tbv9"
+        "name": "Peligrosos Gorriones",
+        "url": "https://open.spotify.com/album/2CT63e7WwSrHiEPpLcn41S"
       },
       "artists": [
         {
-          "name": "Los Brujos",
-          "url": "https://open.spotify.com/artist/3DnlTB4No4W6fO6Qvghnm4"
+          "name": "Peligrosos Gorriones",
+          "url": "https://open.spotify.com/artist/6po2f29ob2NrxTHXbsSS9i"
         }
       ],
-      "duration_ms": 163626,
-      "name": "La Bomba",
-      "url": "https://open.spotify.com/track/0IjJ1dAp6J9uPo2lKfYyyk"
-    },
-    {
-      "added_at": "2020-03-13 13:21:28",
-      "album": {
-        "name": "Los 7 Delfines",
-        "url": "https://open.spotify.com/album/1c8bV0QDLCW2XQJquWEw9t"
-      },
-      "artists": [
-        {
-          "name": "Los Siete Delfines",
-          "url": "https://open.spotify.com/artist/2xLKT7jhQNGm4lmivpjc1h"
-        }
-      ],
-      "duration_ms": 228466,
-      "name": "Post Crucifixion",
-      "url": "https://open.spotify.com/track/1ewTI8EOJeLFxPM4v2i9Hh"
-    },
-    {
-      "added_at": "2020-03-13 13:21:28",
-      "album": {
-        "name": "Excursiones",
-        "url": "https://open.spotify.com/album/4snJPKc4DWPKigaOSJpsKx"
-      },
-      "artists": [
-        {
-          "name": "Suarez",
-          "url": "https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n"
-        }
-      ],
-      "duration_ms": 248706,
-      "name": "Tarde de Cansancio",
-      "url": "https://open.spotify.com/track/5KjdESqDmt86SLyergPpQX"
-    },
-    {
-      "added_at": "2020-03-13 13:21:28",
-      "album": {
-        "name": "Fabrico Cuero",
-        "url": "https://open.spotify.com/album/2yhZr7ec4SsHMRmkvAgQ7B"
-      },
-      "artists": [
-        {
-          "name": "Illya Kuryaki & The Valderramas",
-          "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
-        }
-      ],
-      "duration_ms": 178493,
-      "name": "Fabrico Cuero",
-      "url": "https://open.spotify.com/track/6N2wExoJG3MQe331rSTPAT"
+      "duration_ms": 173293,
+      "name": "Escafandra",
+      "url": "https://open.spotify.com/track/09XkPoMOoWRiwMkwMMcCN1"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -371,18 +323,50 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Emporio Bizarro",
-        "url": "https://open.spotify.com/album/4zDPNXUEKor41wMycCTzpC"
+        "name": "Excursiones",
+        "url": "https://open.spotify.com/album/4snJPKc4DWPKigaOSJpsKx"
       },
       "artists": [
         {
-          "name": "Santos Inocentes",
-          "url": "https://open.spotify.com/artist/5fs9bxwPJ4ofGlFFY67U8I"
+          "name": "Suarez",
+          "url": "https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n"
         }
       ],
-      "duration_ms": 234613,
-      "name": "Microman",
-      "url": "https://open.spotify.com/track/4YPzD1BIdoPdblMUth4yzj"
+      "duration_ms": 248706,
+      "name": "Tarde de Cansancio",
+      "url": "https://open.spotify.com/track/5KjdESqDmt86SLyergPpQX"
+    },
+    {
+      "added_at": "2020-03-13 13:21:28",
+      "album": {
+        "name": "Los 7 Delfines",
+        "url": "https://open.spotify.com/album/1c8bV0QDLCW2XQJquWEw9t"
+      },
+      "artists": [
+        {
+          "name": "Los Siete Delfines",
+          "url": "https://open.spotify.com/artist/2xLKT7jhQNGm4lmivpjc1h"
+        }
+      ],
+      "duration_ms": 228466,
+      "name": "Post Crucifixion",
+      "url": "https://open.spotify.com/track/1ewTI8EOJeLFxPM4v2i9Hh"
+    },
+    {
+      "added_at": "2020-03-13 13:21:28",
+      "album": {
+        "name": "Fabrico Cuero",
+        "url": "https://open.spotify.com/album/2yhZr7ec4SsHMRmkvAgQ7B"
+      },
+      "artists": [
+        {
+          "name": "Illya Kuryaki & The Valderramas",
+          "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
+        }
+      ],
+      "duration_ms": 178493,
+      "name": "Fabrico Cuero",
+      "url": "https://open.spotify.com/track/6N2wExoJG3MQe331rSTPAT"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -403,6 +387,22 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
+        "name": "Emporio Bizarro",
+        "url": "https://open.spotify.com/album/4zDPNXUEKor41wMycCTzpC"
+      },
+      "artists": [
+        {
+          "name": "Santos Inocentes",
+          "url": "https://open.spotify.com/artist/5fs9bxwPJ4ofGlFFY67U8I"
+        }
+      ],
+      "duration_ms": 234613,
+      "name": "Microman",
+      "url": "https://open.spotify.com/track/4YPzD1BIdoPdblMUth4yzj"
+    },
+    {
+      "added_at": "2020-03-13 13:21:28",
+      "album": {
         "name": "Modelo 96",
         "url": "https://open.spotify.com/album/2ZwjZRXvyLPqhXLM4vkB5b"
       },
@@ -415,22 +415,6 @@
       "duration_ms": 203612,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/6cXpVhsp9Ssfg9XuoqwjRK"
-    },
-    {
-      "added_at": "2020-03-13 13:21:28",
-      "album": {
-        "name": "Fabrico Cuero",
-        "url": "https://open.spotify.com/album/2yhZr7ec4SsHMRmkvAgQ7B"
-      },
-      "artists": [
-        {
-          "name": "Illya Kuryaki & The Valderramas",
-          "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
-        }
-      ],
-      "duration_ms": 199146,
-      "name": "Jubilados Violentos",
-      "url": "https://open.spotify.com/track/7nDdswfFGTIw3Fa4Pu2K9V"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -499,6 +483,22 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
+        "name": "Fabrico Cuero",
+        "url": "https://open.spotify.com/album/2yhZr7ec4SsHMRmkvAgQ7B"
+      },
+      "artists": [
+        {
+          "name": "Illya Kuryaki & The Valderramas",
+          "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
+        }
+      ],
+      "duration_ms": 199146,
+      "name": "Jubilados Violentos",
+      "url": "https://open.spotify.com/track/7nDdswfFGTIw3Fa4Pu2K9V"
+    },
+    {
+      "added_at": "2020-03-13 13:21:28",
+      "album": {
         "name": "Manzana de Metal",
         "url": "https://open.spotify.com/album/3eXS2iglmCZJ9feMoyX7dm"
       },
@@ -563,18 +563,18 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Nada Es Exacto Salvo la Medida de los Sue\u00f1os",
-        "url": "https://open.spotify.com/album/1n2cKxKtxlIRvzTIkShvNM"
+        "name": "Chaco (Serie Rock Nacional 2004)",
+        "url": "https://open.spotify.com/album/45O6oTq4UxCeBcrccGPWDi"
       },
       "artists": [
         {
-          "name": "Altocamet",
-          "url": "https://open.spotify.com/artist/0ZqTqI2yIMAtxEfDi0ZODe"
+          "name": "Illya Kuryaki & The Valderramas",
+          "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
         }
       ],
-      "duration_ms": 318453,
-      "name": "Manzana de Metal",
-      "url": "https://open.spotify.com/track/34o7cYPQGPVxSfsSk5w6lE"
+      "duration_ms": 202800,
+      "name": "Remisero",
+      "url": "https://open.spotify.com/track/3JoVclmCif9FgcaAbTLORJ"
     }
   ],
   "unique_name": "Rock S\u00f3nico",

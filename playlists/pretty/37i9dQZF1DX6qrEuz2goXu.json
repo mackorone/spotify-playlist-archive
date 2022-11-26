@@ -1,18 +1,86 @@
 {
   "description": "Listen to family-favorite tunes from the hit series.",
-  "num_followers": 667,
+  "num_followers": 994,
   "original_name": "Storybots Super Songs Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ1ODg4MywwMDAwMDAwMDcxNjI3MzA3NGYwN2VkM2QyZjc5NGE4YjVmMTJhYjhi",
+  "snapshot_id": "MTY2OTAyNjE3OSwwMDAwMDAwMDgxNmNjMzc3OTdlNjNkODMxOTJiNjhmOTllNzNiNzZl",
   "tracks": [
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
+      "album": {
+        "name": "StoryBots: Answer Time (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1UJPF4R1hjKpXkyj9BrYnM"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "duration_ms": 17531,
+      "name": "Answer Time: Theme",
+      "url": "https://open.spotify.com/track/5qE7mAh37CQBnOcTWiHEqE"
+    },
+    {
+      "added_at": "2022-11-21 10:22:59",
+      "album": {
+        "name": "StoryBots: Answer Time (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1UJPF4R1hjKpXkyj9BrYnM"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        },
+        {
+          "name": "\"Weird Al\" Yankovic",
+          "url": "https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG"
+        }
+      ],
+      "duration_ms": 140997,
+      "name": "Glue",
+      "url": "https://open.spotify.com/track/2ixGa0QWItWw1GMVPaqCWE"
+    },
+    {
+      "added_at": "2022-11-21 10:22:59",
+      "album": {
+        "name": "StoryBots: Answer Time (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1UJPF4R1hjKpXkyj9BrYnM"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "duration_ms": 78524,
+      "name": "Budgets",
+      "url": "https://open.spotify.com/track/1hkVaG2NLBU6IekZ1ew1RY"
+    },
+    {
+      "added_at": "2022-11-21 10:22:59",
+      "album": {
+        "name": "StoryBots: Answer Time (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1UJPF4R1hjKpXkyj9BrYnM"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "duration_ms": 58547,
+      "name": "GPS",
+      "url": "https://open.spotify.com/track/5SsBgTXZfRIAj1QRuSqJrf"
+    },
+    {
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "Laugh, Learn, Sing: Learn To Read (Soundtrack From The Netflix Series)",
-        "url": "https://open.spotify.com/album/4x3njfVC3kHQKwY4h7qBbs"
+        "url": "https://open.spotify.com/album/1NtKcKE3YS9InnDy5zBBmG"
       },
       "artists": [
         {
@@ -22,10 +90,10 @@
       ],
       "duration_ms": 66870,
       "name": "Homophones",
-      "url": "https://open.spotify.com/track/4O6evBaK0KOsEMKB7faT5e"
+      "url": "https://open.spotify.com/track/02GQZVIcHw22XGMPoO53Ix"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "Ask The StoryBots: Season 1 (Music From The Original Series)",
         "url": "https://open.spotify.com/album/1SKApykupjLWWole4UiXoT"
@@ -41,7 +109,23 @@
       "url": "https://open.spotify.com/track/1JaN2fP2SeMc0B8vYCkbRm"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
+      "album": {
+        "name": "StoryBots: Answer Time (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1UJPF4R1hjKpXkyj9BrYnM"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "duration_ms": 62791,
+      "name": "Dizzy",
+      "url": "https://open.spotify.com/track/6tso5oK7KIyyuu5FSKOh2g"
+    },
+    {
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "StoryBots Dinosaurs Songs",
         "url": "https://open.spotify.com/album/6SOJ7P1HeZFSAyX6CXr5FK"
@@ -57,7 +141,23 @@
       "url": "https://open.spotify.com/track/5hAafNnf54qxm1jNX9nLZ0"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
+      "album": {
+        "name": "StoryBots: Answer Time (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1UJPF4R1hjKpXkyj9BrYnM"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "duration_ms": 61544,
+      "name": "Concrete",
+      "url": "https://open.spotify.com/track/2H39OjeCxlwnttiNhd0uDc"
+    },
+    {
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "StoryBots Outer Space",
         "url": "https://open.spotify.com/album/08m7XiPnd4Q1qRqZAUB4s4"
@@ -73,10 +173,26 @@
       "url": "https://open.spotify.com/track/2ELPm0STSDhcrxaCxbepXy"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
+      "album": {
+        "name": "StoryBots: Answer Time (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1UJPF4R1hjKpXkyj9BrYnM"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "duration_ms": 61367,
+      "name": "Bears",
+      "url": "https://open.spotify.com/track/1B1IIy1WNHV3pp0Y2DA6S4"
+    },
+    {
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "Laugh, Learn, Sing: Learn To Read (Soundtrack From The Netflix Series)",
-        "url": "https://open.spotify.com/album/4x3njfVC3kHQKwY4h7qBbs"
+        "url": "https://open.spotify.com/album/1NtKcKE3YS9InnDy5zBBmG"
       },
       "artists": [
         {
@@ -86,13 +202,13 @@
       ],
       "duration_ms": 58430,
       "name": "Long A, Short A",
-      "url": "https://open.spotify.com/track/6spEuWjJ9uowNyRZQXhvwm"
+      "url": "https://open.spotify.com/track/0ngdWXhCLnorZ5Lba4jzLs"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "Laugh, Learn, Sing: Learn To Read (Soundtrack From The Netflix Series)",
-        "url": "https://open.spotify.com/album/4x3njfVC3kHQKwY4h7qBbs"
+        "url": "https://open.spotify.com/album/1NtKcKE3YS9InnDy5zBBmG"
       },
       "artists": [
         {
@@ -102,13 +218,29 @@
       ],
       "duration_ms": 70195,
       "name": "Long E, Short E",
-      "url": "https://open.spotify.com/track/3ZDqCU5lg8avzLeqyFTXUy"
+      "url": "https://open.spotify.com/track/20UUw80eNbsA9AqJSfT1xc"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
+      "album": {
+        "name": "StoryBots: Answer Time (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1UJPF4R1hjKpXkyj9BrYnM"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "duration_ms": 88670,
+      "name": "Baby Teeth",
+      "url": "https://open.spotify.com/track/5kzn8e1QGb17OM8SWnuaZh"
+    },
+    {
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "Laugh, Learn, Sing: Learn To Read (Soundtrack From The Netflix Series)",
-        "url": "https://open.spotify.com/album/4x3njfVC3kHQKwY4h7qBbs"
+        "url": "https://open.spotify.com/album/1NtKcKE3YS9InnDy5zBBmG"
       },
       "artists": [
         {
@@ -118,13 +250,13 @@
       ],
       "duration_ms": 62035,
       "name": "Long I, Short I",
-      "url": "https://open.spotify.com/track/0SfSjP3rUgtO9lyBNZ2KR3"
+      "url": "https://open.spotify.com/track/63WSiYW49jMMP2vkvsVTyz"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "Laugh, Learn, Sing: Learn To Read (Soundtrack From The Netflix Series)",
-        "url": "https://open.spotify.com/album/4x3njfVC3kHQKwY4h7qBbs"
+        "url": "https://open.spotify.com/album/1NtKcKE3YS9InnDy5zBBmG"
       },
       "artists": [
         {
@@ -134,13 +266,13 @@
       ],
       "duration_ms": 65879,
       "name": "Long O, Short O",
-      "url": "https://open.spotify.com/track/4l7eJHscg5dXFHkcvv4Kn0"
+      "url": "https://open.spotify.com/track/6l9Yj8fuDsNgjmLWX4uHSj"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "Laugh, Learn, Sing: Learn To Read (Soundtrack From The Netflix Series)",
-        "url": "https://open.spotify.com/album/4x3njfVC3kHQKwY4h7qBbs"
+        "url": "https://open.spotify.com/album/1NtKcKE3YS9InnDy5zBBmG"
       },
       "artists": [
         {
@@ -150,10 +282,10 @@
       ],
       "duration_ms": 66741,
       "name": "Long U, Short U",
-      "url": "https://open.spotify.com/track/508v2rlhoEKX3DuYtmrIDp"
+      "url": "https://open.spotify.com/track/2Kz0bx1MZAwMQdTxBgOCMj"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "StoryBots ABC Jamboree",
         "url": "https://open.spotify.com/album/6UnVVc428Wv2DfkDC1lTit"
@@ -169,7 +301,39 @@
       "url": "https://open.spotify.com/track/13HH6tvt6HZDlr9wbk8vhm"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
+      "album": {
+        "name": "StoryBots: Answer Time (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1UJPF4R1hjKpXkyj9BrYnM"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "duration_ms": 76998,
+      "name": "Shapes",
+      "url": "https://open.spotify.com/track/2W2IAWQAzCI1e5S3auJERO"
+    },
+    {
+      "added_at": "2022-11-21 10:22:59",
+      "album": {
+        "name": "StoryBots: Answer Time (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1UJPF4R1hjKpXkyj9BrYnM"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "duration_ms": 68470,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/2w7xULmVl7ole0VdEbEAlp"
+    },
+    {
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "Ask The StoryBots: Season 3 (Music From The Netflix Original Series)",
         "url": "https://open.spotify.com/album/51GT17yuHO7LjfxsCv5Ycl"
@@ -185,7 +349,7 @@
       "url": "https://open.spotify.com/track/6T6reDGarkisz8OraafLRy"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "StoryBots Animals",
         "url": "https://open.spotify.com/album/0GJyeC8pHZiH1dXQlf3ceh"
@@ -201,7 +365,23 @@
       "url": "https://open.spotify.com/track/5beNJ1G7fFrGdFVuzGbY1i"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
+      "album": {
+        "name": "StoryBots: Answer Time (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1UJPF4R1hjKpXkyj9BrYnM"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "duration_ms": 71231,
+      "name": "Keys",
+      "url": "https://open.spotify.com/track/7h2oLJtajGygP6JJjcrzEy"
+    },
+    {
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "StoryBots Number Songs",
         "url": "https://open.spotify.com/album/12qiCs4mfr5VBcBdPZGdZs"
@@ -217,10 +397,10 @@
       "url": "https://open.spotify.com/track/3od7ScpSzUrHJUZhFrsItx"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "Laugh, Learn, Sing: Learn To Read (Soundtrack From The Netflix Series)",
-        "url": "https://open.spotify.com/album/4x3njfVC3kHQKwY4h7qBbs"
+        "url": "https://open.spotify.com/album/1NtKcKE3YS9InnDy5zBBmG"
       },
       "artists": [
         {
@@ -230,13 +410,29 @@
       ],
       "duration_ms": 65918,
       "name": "TH Song",
-      "url": "https://open.spotify.com/track/4GlYnnfEOpaoC4uPWKdJKp"
+      "url": "https://open.spotify.com/track/7fISEDFqkcp0kmZcLf1K1n"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
+      "album": {
+        "name": "StoryBots: Answer Time (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1UJPF4R1hjKpXkyj9BrYnM"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "duration_ms": 73332,
+      "name": "Lasers",
+      "url": "https://open.spotify.com/track/3tly37GV3QG1Hou5tRGqI5"
+    },
+    {
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "Laugh, Learn, Sing: Learn To Read (Soundtrack From The Netflix Series)",
-        "url": "https://open.spotify.com/album/4x3njfVC3kHQKwY4h7qBbs"
+        "url": "https://open.spotify.com/album/1NtKcKE3YS9InnDy5zBBmG"
       },
       "artists": [
         {
@@ -246,10 +442,10 @@
       ],
       "duration_ms": 63386,
       "name": "PH Song",
-      "url": "https://open.spotify.com/track/6pATWA5ni629WR3f8K2Wvn"
+      "url": "https://open.spotify.com/track/3lmzChu8fzHzJ3AXrk2rJ1"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "StoryBots Animals",
         "url": "https://open.spotify.com/album/0GJyeC8pHZiH1dXQlf3ceh"
@@ -265,7 +461,23 @@
       "url": "https://open.spotify.com/track/2QOMKKlrxxJIiQBilxov0B"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
+      "album": {
+        "name": "StoryBots: Answer Time (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1UJPF4R1hjKpXkyj9BrYnM"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "duration_ms": 62766,
+      "name": "Fruit Rot",
+      "url": "https://open.spotify.com/track/4pr3nBxnOmRaUqvmfNYAI5"
+    },
+    {
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "StoryBots Outer Space",
         "url": "https://open.spotify.com/album/08m7XiPnd4Q1qRqZAUB4s4"
@@ -281,7 +493,7 @@
       "url": "https://open.spotify.com/track/09U5srVCG0hdZefpsM1Jr0"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "StoryBots Dinosaurs Songs",
         "url": "https://open.spotify.com/album/6SOJ7P1HeZFSAyX6CXr5FK"
@@ -297,7 +509,23 @@
       "url": "https://open.spotify.com/track/3ETv7fjrubVIMxu8aatLBj"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
+      "album": {
+        "name": "StoryBots: Answer Time (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1UJPF4R1hjKpXkyj9BrYnM"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "duration_ms": 40420,
+      "name": "Rainbows",
+      "url": "https://open.spotify.com/track/20ek85oBSTLMfSj8KOcrCC"
+    },
+    {
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "StoryBots Professions",
         "url": "https://open.spotify.com/album/1LMhHcOYoUimpVAby72f5J"
@@ -313,7 +541,23 @@
       "url": "https://open.spotify.com/track/6SSUZcwwIDlJ0SGHnngSkj"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
+      "album": {
+        "name": "StoryBots: Answer Time (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1UJPF4R1hjKpXkyj9BrYnM"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "duration_ms": 75764,
+      "name": "Multiplication",
+      "url": "https://open.spotify.com/track/0HRMukxAb6irMigitU0aTR"
+    },
+    {
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "StoryBots Animals",
         "url": "https://open.spotify.com/album/0GJyeC8pHZiH1dXQlf3ceh"
@@ -329,7 +573,7 @@
       "url": "https://open.spotify.com/track/7wkL9MuSWXtfONvbqALCcw"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "StoryBots Dinosaurs Songs",
         "url": "https://open.spotify.com/album/6SOJ7P1HeZFSAyX6CXr5FK"
@@ -345,7 +589,23 @@
       "url": "https://open.spotify.com/track/3YByapIh6SR6jZakRrseOP"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
+      "album": {
+        "name": "StoryBots: Answer Time (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1UJPF4R1hjKpXkyj9BrYnM"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "duration_ms": 68326,
+      "name": "Ice",
+      "url": "https://open.spotify.com/track/4NNbMfglrNh5KQjtQ9tlAc"
+    },
+    {
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "StoryBots Color Songs",
         "url": "https://open.spotify.com/album/15W6dyNox3oZIf82HhkIXG"
@@ -361,7 +621,7 @@
       "url": "https://open.spotify.com/track/5RYxaVG5IZBTF3Zd1AK6Fd"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "StoryBots Outer Space",
         "url": "https://open.spotify.com/album/08m7XiPnd4Q1qRqZAUB4s4"
@@ -377,7 +637,7 @@
       "url": "https://open.spotify.com/track/1mjv8YY2ZYcaqS4IsFJWMo"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "StoryBots Dinosaurs Songs",
         "url": "https://open.spotify.com/album/6SOJ7P1HeZFSAyX6CXr5FK"
@@ -393,7 +653,7 @@
       "url": "https://open.spotify.com/track/17Q5Po9UgjUyGawbPaXy2M"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "StoryBots Animals",
         "url": "https://open.spotify.com/album/0GJyeC8pHZiH1dXQlf3ceh"
@@ -409,7 +669,23 @@
       "url": "https://open.spotify.com/track/2oh3CZe4mGLUiogSUD4dTk"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
+      "album": {
+        "name": "StoryBots: Answer Time (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1UJPF4R1hjKpXkyj9BrYnM"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "duration_ms": 119023,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/2GTCz5E5l5WGxSMRl9FN2K"
+    },
+    {
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "StoryBots Professions",
         "url": "https://open.spotify.com/album/1LMhHcOYoUimpVAby72f5J"
@@ -425,7 +701,7 @@
       "url": "https://open.spotify.com/track/2wkorvy9udtNjAsQ02RGBM"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "StoryBots Vehicles",
         "url": "https://open.spotify.com/album/55RgkhMyjodXLW6eEAx59A"
@@ -441,7 +717,7 @@
       "url": "https://open.spotify.com/track/72SQo2VeGIHfsGWYbb2JmV"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "A StoryBots Halloween",
         "url": "https://open.spotify.com/album/6Fya0QRFElZjleIrEX7M0N"
@@ -457,7 +733,7 @@
       "url": "https://open.spotify.com/track/0dpdd8Nk2bSGbCMtigGwxj"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "StoryBots Dinosaurs Songs",
         "url": "https://open.spotify.com/album/6SOJ7P1HeZFSAyX6CXr5FK"
@@ -473,7 +749,23 @@
       "url": "https://open.spotify.com/track/6hr4CT61aYlY942OnhB2cL"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
+      "album": {
+        "name": "StoryBots: Answer Time (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1UJPF4R1hjKpXkyj9BrYnM"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "duration_ms": 67923,
+      "name": "Plants",
+      "url": "https://open.spotify.com/track/3nl5FrykEohu7yMthwTEg5"
+    },
+    {
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "StoryBots Animals",
         "url": "https://open.spotify.com/album/0GJyeC8pHZiH1dXQlf3ceh"
@@ -489,7 +781,7 @@
       "url": "https://open.spotify.com/track/2PW6N8ca9Wh1BiBNrEna7A"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "StoryBots Professions",
         "url": "https://open.spotify.com/album/1LMhHcOYoUimpVAby72f5J"
@@ -505,7 +797,7 @@
       "url": "https://open.spotify.com/track/7F5weLKqeL2l4Pq30EmDSy"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "StoryBots Outer Space",
         "url": "https://open.spotify.com/album/08m7XiPnd4Q1qRqZAUB4s4"
@@ -521,7 +813,7 @@
       "url": "https://open.spotify.com/track/3Af3myBJMUHpqvejIoyHRH"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "StoryBots ABC Jamboree",
         "url": "https://open.spotify.com/album/6UnVVc428Wv2DfkDC1lTit"
@@ -537,7 +829,7 @@
       "url": "https://open.spotify.com/track/7wiUQy1H0HHHG2GZU1FWGw"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "StoryBots Professions",
         "url": "https://open.spotify.com/album/1LMhHcOYoUimpVAby72f5J"
@@ -553,7 +845,7 @@
       "url": "https://open.spotify.com/track/6bKwFJeAmA4qjarjx4dSB0"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "Ask The StoryBots: Season 1 (Music From The Original Series)",
         "url": "https://open.spotify.com/album/1SKApykupjLWWole4UiXoT"
@@ -569,7 +861,7 @@
       "url": "https://open.spotify.com/track/1WM37alvId4gYIFQKeq2bg"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "StoryBots Animals",
         "url": "https://open.spotify.com/album/0GJyeC8pHZiH1dXQlf3ceh"
@@ -585,7 +877,7 @@
       "url": "https://open.spotify.com/track/6yT1bNbc7dJKqX6vRE4w1u"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "Ask The StoryBots: Season 3 (Music From The Netflix Original Series)",
         "url": "https://open.spotify.com/album/51GT17yuHO7LjfxsCv5Ycl"
@@ -601,7 +893,7 @@
       "url": "https://open.spotify.com/track/5jqiq9Zlcc387VuJieuDlC"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "StoryBots Vehicles",
         "url": "https://open.spotify.com/album/55RgkhMyjodXLW6eEAx59A"
@@ -617,7 +909,7 @@
       "url": "https://open.spotify.com/track/1VDP9kpBG7nL6hAjTfKqVH"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "StoryBots Professions",
         "url": "https://open.spotify.com/album/1LMhHcOYoUimpVAby72f5J"
@@ -633,7 +925,7 @@
       "url": "https://open.spotify.com/track/53zcNGVglP3QX0H7TSZhJH"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "ABC Jamboree - The Song!",
         "url": "https://open.spotify.com/album/1NcT4IhqIp11iphw5Yhdbr"
@@ -649,7 +941,7 @@
       "url": "https://open.spotify.com/track/2cT8nPdYiQYywM4yjqpXsI"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "Ask The StoryBots: Season 3 (Music From The Netflix Original Series)",
         "url": "https://open.spotify.com/album/51GT17yuHO7LjfxsCv5Ycl"
@@ -665,7 +957,7 @@
       "url": "https://open.spotify.com/track/6t6mbHaTrsrROqAZFXo8Nb"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "StoryBots Animals",
         "url": "https://open.spotify.com/album/0GJyeC8pHZiH1dXQlf3ceh"
@@ -681,7 +973,7 @@
       "url": "https://open.spotify.com/track/3AZaIjZUaNZC8Og3Kc9zbf"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "StoryBots Body Songs",
         "url": "https://open.spotify.com/album/5EwcTpfp4MmtrBdmYEP95p"
@@ -697,7 +989,7 @@
       "url": "https://open.spotify.com/track/72jHUzKGcL5rTpZN8UysSU"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "Ask The StoryBots: Season 1 (Music From The Original Series)",
         "url": "https://open.spotify.com/album/1SKApykupjLWWole4UiXoT"
@@ -713,7 +1005,7 @@
       "url": "https://open.spotify.com/track/4ji7lmdG4Fubyn5APo5kHc"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "Ask The StoryBots: Season 3 (Music From The Netflix Original Series)",
         "url": "https://open.spotify.com/album/51GT17yuHO7LjfxsCv5Ycl"
@@ -729,7 +1021,7 @@
       "url": "https://open.spotify.com/track/44k13ajlAran4hYnlMNOoM"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "StoryBots Color Songs",
         "url": "https://open.spotify.com/album/15W6dyNox3oZIf82HhkIXG"
@@ -745,7 +1037,7 @@
       "url": "https://open.spotify.com/track/3PqRPJgK6RKYRzavTgVeS9"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "Ask The StoryBots: Season 2 (Music From The Original Series)",
         "url": "https://open.spotify.com/album/1gBVScuQu3oYi98AchR0WR"
@@ -761,7 +1053,23 @@
       "url": "https://open.spotify.com/track/49YIcFFaph06MhL5w5Z5iB"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
+      "album": {
+        "name": "StoryBots: Answer Time (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1UJPF4R1hjKpXkyj9BrYnM"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "duration_ms": 51157,
+      "name": "Dogs Pant",
+      "url": "https://open.spotify.com/track/5WWiQD2eysrVlCYA6OnoB1"
+    },
+    {
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "StoryBots Professions",
         "url": "https://open.spotify.com/album/1LMhHcOYoUimpVAby72f5J"
@@ -777,7 +1085,7 @@
       "url": "https://open.spotify.com/track/6uGFjU2uULYhIdIZEi6Suf"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "Ask The StoryBots: Season 1 (Music From The Original Series)",
         "url": "https://open.spotify.com/album/1SKApykupjLWWole4UiXoT"
@@ -793,7 +1101,23 @@
       "url": "https://open.spotify.com/track/6lu4tbfeZdT2e7mME0GtHV"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
+      "album": {
+        "name": "StoryBots: Answer Time (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1UJPF4R1hjKpXkyj9BrYnM"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "duration_ms": 66702,
+      "name": "Sand",
+      "url": "https://open.spotify.com/track/2BL3f5ApvNQc5RIbu1ZRC4"
+    },
+    {
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "Ask The StoryBots: Season 2 (Music From The Original Series)",
         "url": "https://open.spotify.com/album/1gBVScuQu3oYi98AchR0WR"
@@ -809,7 +1133,7 @@
       "url": "https://open.spotify.com/track/4iiTCRH5nnR1QPNgEtJdC5"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "StoryBots ABC Jamboree",
         "url": "https://open.spotify.com/album/6UnVVc428Wv2DfkDC1lTit"
@@ -825,7 +1149,7 @@
       "url": "https://open.spotify.com/track/7CI9n4Su8YzvF6S7SVuEhe"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "StoryBots Animals",
         "url": "https://open.spotify.com/album/0GJyeC8pHZiH1dXQlf3ceh"
@@ -841,7 +1165,7 @@
       "url": "https://open.spotify.com/track/5K7Xi3WjGERoutGi9Bn4lw"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "Ask The StoryBots: Season 1 (Music From The Original Series)",
         "url": "https://open.spotify.com/album/1SKApykupjLWWole4UiXoT"
@@ -857,7 +1181,7 @@
       "url": "https://open.spotify.com/track/675Lx9RiqLP5HmJkqRoTp3"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "StoryBots Professions",
         "url": "https://open.spotify.com/album/1LMhHcOYoUimpVAby72f5J"
@@ -873,7 +1197,7 @@
       "url": "https://open.spotify.com/track/4s08577ugVHO7Aik0d0T1f"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "StoryBots Color Songs",
         "url": "https://open.spotify.com/album/15W6dyNox3oZIf82HhkIXG"
@@ -889,7 +1213,7 @@
       "url": "https://open.spotify.com/track/5M1hBSNWSitIcEhcgqSVg1"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "Ask The StoryBots: Season 3 (Music From The Netflix Original Series)",
         "url": "https://open.spotify.com/album/51GT17yuHO7LjfxsCv5Ycl"
@@ -905,7 +1229,7 @@
       "url": "https://open.spotify.com/track/578xv6W1w7SsIAUJ31mNEH"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "StoryBots Professions",
         "url": "https://open.spotify.com/album/1LMhHcOYoUimpVAby72f5J"
@@ -921,7 +1245,7 @@
       "url": "https://open.spotify.com/track/1TCulIcrnTbqVXmtRF9umA"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "StoryBots ABC Jamboree",
         "url": "https://open.spotify.com/album/6UnVVc428Wv2DfkDC1lTit"
@@ -937,7 +1261,7 @@
       "url": "https://open.spotify.com/track/0GZPhYq8yMy1o9PCO063rx"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "StoryBots Shapes",
         "url": "https://open.spotify.com/album/32Rrb075QMj8tU4eRl3zkB"
@@ -953,7 +1277,7 @@
       "url": "https://open.spotify.com/track/5Rm9qG0jcoGa2HEuQlf7hK"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "StoryBots Color Songs",
         "url": "https://open.spotify.com/album/15W6dyNox3oZIf82HhkIXG"
@@ -969,7 +1293,7 @@
       "url": "https://open.spotify.com/track/0t2df3irD7HAnIMpPxLeCo"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "Ask The StoryBots: Season 3 (Music From The Netflix Original Series)",
         "url": "https://open.spotify.com/album/51GT17yuHO7LjfxsCv5Ycl"
@@ -985,7 +1309,7 @@
       "url": "https://open.spotify.com/track/1J0L2WkFtUaX9DH2Al6a1G"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "StoryBots ABC Jamboree",
         "url": "https://open.spotify.com/album/6UnVVc428Wv2DfkDC1lTit"
@@ -1001,7 +1325,7 @@
       "url": "https://open.spotify.com/track/3sifBzdYSMr6ZTNyudRokI"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "StoryBots Barnyard Animals",
         "url": "https://open.spotify.com/album/403tzoAnsEj45HS4eyNUIZ"
@@ -1017,7 +1341,7 @@
       "url": "https://open.spotify.com/track/3CxS8PnW6GtamJwQ6igupR"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "StoryBots Professions",
         "url": "https://open.spotify.com/album/1LMhHcOYoUimpVAby72f5J"
@@ -1033,7 +1357,7 @@
       "url": "https://open.spotify.com/track/5p87ldmwNAP4l4NjqMwwbH"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "StoryBots Color Songs",
         "url": "https://open.spotify.com/album/15W6dyNox3oZIf82HhkIXG"
@@ -1049,7 +1373,7 @@
       "url": "https://open.spotify.com/track/0B87MO9qlSwJhQxbp6fOgj"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "StoryBots Number Songs",
         "url": "https://open.spotify.com/album/12qiCs4mfr5VBcBdPZGdZs"
@@ -1065,7 +1389,7 @@
       "url": "https://open.spotify.com/track/4oa1vD3MM9DkklwGc8bQCD"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "StoryBots ABC Jamboree",
         "url": "https://open.spotify.com/album/6UnVVc428Wv2DfkDC1lTit"
@@ -1081,7 +1405,23 @@
       "url": "https://open.spotify.com/track/1l4HPf06DnqLKp0OhaUCj2"
     },
     {
-      "added_at": "2022-08-02 16:48:03",
+      "added_at": "2022-11-21 10:22:59",
+      "album": {
+        "name": "StoryBots: Answer Time (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1UJPF4R1hjKpXkyj9BrYnM"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "duration_ms": 65517,
+      "name": "Pterodactylus",
+      "url": "https://open.spotify.com/track/1jXlu02dqoOe1R67ro4uGe"
+    },
+    {
+      "added_at": "2022-11-21 10:22:59",
       "album": {
         "name": "StoryBots Barnyard Animals",
         "url": "https://open.spotify.com/album/403tzoAnsEj45HS4eyNUIZ"
@@ -1095,6 +1435,22 @@
       "duration_ms": 80250,
       "name": "Pig",
       "url": "https://open.spotify.com/track/73uVWxBoBHFxTag6M3yhJx"
+    },
+    {
+      "added_at": "2022-11-21 10:22:59",
+      "album": {
+        "name": "StoryBots: Answer Time (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1UJPF4R1hjKpXkyj9BrYnM"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "duration_ms": 51462,
+      "name": "Venom",
+      "url": "https://open.spotify.com/track/5DcheD8GmT0baBYQN9omga"
     }
   ],
   "unique_name": "Storybots Super Songs Official Playlist",

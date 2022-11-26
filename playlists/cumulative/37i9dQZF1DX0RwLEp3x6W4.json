@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "The Essential Collection",
+        "url": "https://open.spotify.com/album/4yoRGOx7QTGiMftU2ap1sv"
+      },
+      "artists": [
+        {
+          "name": "Bill Monroe & His Blue Grass Boys",
+          "url": "https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 127906,
+      "name": "Blue Moon Of Kentucky",
+      "url": "https://open.spotify.com/track/2e0elbkEZi7EW0jlHIK4YY"
+    },
+    {
+      "album": {
         "name": "Columbia Historic Edition",
         "url": "https://open.spotify.com/album/2pFMceiLK1uzEo9uDYPp5l"
       },
@@ -120,6 +138,24 @@
     },
     {
       "album": {
+        "name": "I Ain't Gonna Work Tomorrow",
+        "url": "https://open.spotify.com/album/5cmMGRDHxa1ci8z5yfxFtN"
+      },
+      "artists": [
+        {
+          "name": "The Stanley Brothers",
+          "url": "https://open.spotify.com/artist/0qqGnmHBX2yVvCITRAvuRD"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 144120,
+      "name": "Bury Me Beneath The Weeping Willow",
+      "url": "https://open.spotify.com/track/1nwjk7kcMMG3erc0wciRlF"
+    },
+    {
+      "album": {
         "name": "Childish Love",
         "url": "https://open.spotify.com/album/3xDpIztajZaXLs3EKoUxc0"
       },
@@ -175,6 +211,24 @@
       "duration_ms": 138466,
       "name": "Clinch Mountain Backstep",
       "url": "https://open.spotify.com/track/2m3VfLjVwHahsiDrCdDQJv"
+    },
+    {
+      "album": {
+        "name": "The Best Of King And Starday Bluegrass - Volume 2",
+        "url": "https://open.spotify.com/album/7CNYvqFSdSRcvN4Di5S96a"
+      },
+      "artists": [
+        {
+          "name": "The Stanley Brothers",
+          "url": "https://open.spotify.com/artist/0qqGnmHBX2yVvCITRAvuRD"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 138786,
+      "name": "Clinch Mountain Backstep",
+      "url": "https://open.spotify.com/track/1JF6S7ZP0nmYo18qbsgPSF"
     },
     {
       "album": {
@@ -298,6 +352,24 @@
     },
     {
       "album": {
+        "name": "20th Century Masters: The Best Of Bill Monroe - The Millennium Collection",
+        "url": "https://open.spotify.com/album/6LUw1YumPZBJzjuDeLhwjh"
+      },
+      "artists": [
+        {
+          "name": "Bill Monroe & His Blue Grass Boys",
+          "url": "https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 160466,
+      "name": "Footprints In The Snow",
+      "url": "https://open.spotify.com/track/147HKtMUZf5zQInU9sxCed"
+    },
+    {
+      "album": {
         "name": "Winning Combinations",
         "url": "https://open.spotify.com/album/7LGRimdS3Luv7CBis7g3CM"
       },
@@ -403,10 +475,28 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 204682,
       "name": "Home to the Mountains",
       "url": "https://open.spotify.com/track/57sK732mNfISkoPhiHVlfc"
+    },
+    {
+      "album": {
+        "name": "Smiling Faces & Different Places",
+        "url": "https://open.spotify.com/album/6jqh9xProzlkcBe2KEtNR7"
+      },
+      "artists": [
+        {
+          "name": "Betty Fisher",
+          "url": "https://open.spotify.com/artist/37JcV5BAEqxOfKkeKQf9pr"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204682,
+      "name": "Home to the Mountains",
+      "url": "https://open.spotify.com/track/7MXx4m8ZMEK1lY5rhNlIkJ"
     },
     {
       "album": {
@@ -425,6 +515,24 @@
       "duration_ms": 127373,
       "name": "How Mountain Girls Can Love",
       "url": "https://open.spotify.com/track/3h4ZRO4FPpK53fOYLVZOxJ"
+    },
+    {
+      "album": {
+        "name": "Best Of The Best",
+        "url": "https://open.spotify.com/album/3VI5iieIzI6cSQdPmb9JJW"
+      },
+      "artists": [
+        {
+          "name": "The Stanley Brothers",
+          "url": "https://open.spotify.com/artist/0qqGnmHBX2yVvCITRAvuRD"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 128106,
+      "name": "How Mountain Girls Can Love",
+      "url": "https://open.spotify.com/track/5Q8WL1D8GwJThft1zogNQB"
     },
     {
       "album": {
@@ -497,6 +605,24 @@
       "duration_ms": 157640,
       "name": "I Know You're Married",
       "url": "https://open.spotify.com/track/2occZs95OdLL3jRwEcFfAB"
+    },
+    {
+      "album": {
+        "name": "Early Years 1951-1959 - Volume 3",
+        "url": "https://open.spotify.com/album/40q8wKevGnGNUA809PYkmZ"
+      },
+      "artists": [
+        {
+          "name": "Reno & Smiley",
+          "url": "https://open.spotify.com/artist/3dj0KjG7ZqNbMfbe2BVI4H"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 161000,
+      "name": "I Know You're Married",
+      "url": "https://open.spotify.com/track/4ZqvPeaQ7CYz6WqmznAzh7"
     },
     {
       "album": {
@@ -631,6 +757,24 @@
       "duration_ms": 118733,
       "name": "Little Birdie",
       "url": "https://open.spotify.com/track/0uBR0TbY5U2sLjElO7dmpL"
+    },
+    {
+      "album": {
+        "name": "All Time Greatest Hits",
+        "url": "https://open.spotify.com/album/55RfWDpcLEYeIQ17x8bJKG"
+      },
+      "artists": [
+        {
+          "name": "The Stanley Brothers",
+          "url": "https://open.spotify.com/artist/0qqGnmHBX2yVvCITRAvuRD"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 118733,
+      "name": "Little Birdie",
+      "url": "https://open.spotify.com/track/3G1dyfEv1xk4jsSaZVsYaC"
     },
     {
       "album": {
@@ -841,6 +985,28 @@
     {
       "album": {
         "name": "Your Requests",
+        "url": "https://open.spotify.com/album/0FAkZu0ecJAIBvbx744YIK"
+      },
+      "artists": [
+        {
+          "name": "Hubert Cox",
+          "url": "https://open.spotify.com/artist/1LJXQEhFipR0ECM0cVCIGQ"
+        },
+        {
+          "name": "The Southern Grass",
+          "url": "https://open.spotify.com/artist/4zud2hUuAzziOpICB4cwjr"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Old Home Place",
+      "url": "https://open.spotify.com/track/25EjMRIvbEaKLsiVKPHOom"
+    },
+    {
+      "album": {
+        "name": "Your Requests",
         "url": "https://open.spotify.com/album/1VDe4RTsD9IefuLu5aAoqc"
       },
       "artists": [
@@ -855,7 +1021,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 170000,
       "name": "Old Home Place",
       "url": "https://open.spotify.com/track/27NYrTdi2Xch1tT9rPtTeX"
@@ -1000,6 +1166,32 @@
     },
     {
       "album": {
+        "name": "Original Theme From Bonnie & Clyde",
+        "url": "https://open.spotify.com/album/5qqgWOZq2pjDTPurbrC5Gx"
+      },
+      "artists": [
+        {
+          "name": "Lester Flatt",
+          "url": "https://open.spotify.com/artist/4UEb5ZsSyDWMAiBuOeKA6W"
+        },
+        {
+          "name": "Earl Scruggs",
+          "url": "https://open.spotify.com/artist/4NEA48c6ajydrRzCbyll3M"
+        },
+        {
+          "name": "The Foggy Mountain Boys",
+          "url": "https://open.spotify.com/artist/1pZEySHHPm2IBX9kFY6o94"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 159920,
+      "name": "Roll In My Sweet Baby's Arms",
+      "url": "https://open.spotify.com/track/3Wj2evCO1X1Z9rlpLrBNtX"
+    },
+    {
+      "album": {
         "name": "Country Songs, Old and New",
         "url": "https://open.spotify.com/album/523u4foCjynMuGfgZAHKZK"
       },
@@ -1051,6 +1243,24 @@
       "duration_ms": 129360,
       "name": "She Left Me Standing On the Mountain",
       "url": "https://open.spotify.com/track/4hloQEApxIXnB66RSrdtXn"
+    },
+    {
+      "album": {
+        "name": "Best of the Best",
+        "url": "https://open.spotify.com/album/1BQYYKH5IPhrWQJJqmVlHs"
+      },
+      "artists": [
+        {
+          "name": "The Stanley Brothers",
+          "url": "https://open.spotify.com/artist/0qqGnmHBX2yVvCITRAvuRD"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 126426,
+      "name": "That Home Far Away",
+      "url": "https://open.spotify.com/track/3rRcj6Pi1ONmd0WVCRov3W"
     },
     {
       "album": {
@@ -1206,6 +1416,24 @@
     },
     {
       "album": {
+        "name": "The Best Of The Best Of The Stanley Brothers (Original Gusto Recordings)",
+        "url": "https://open.spotify.com/album/28jjeWAraz1Sm8TcWdbHFi"
+      },
+      "artists": [
+        {
+          "name": "The Stanley Brothers",
+          "url": "https://open.spotify.com/artist/0qqGnmHBX2yVvCITRAvuRD"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 127626,
+      "name": "Think Of What You've Done - Original Gusto Recordings",
+      "url": "https://open.spotify.com/track/46xJ1L8BnaglIjkosHa0Bp"
+    },
+    {
+      "album": {
         "name": "Choo Choo Coming",
         "url": "https://open.spotify.com/album/7Lxyzmm9LFsfi8GnHN905n"
       },
@@ -1239,6 +1467,24 @@
       "duration_ms": 138706,
       "name": "Trail Of Sorrow",
       "url": "https://open.spotify.com/track/0T01gCG2TnqBllWh1ohvnF"
+    },
+    {
+      "album": {
+        "name": "16 Greatest Hits",
+        "url": "https://open.spotify.com/album/2TKhTZX3zVdyycpCnmRdiu"
+      },
+      "artists": [
+        {
+          "name": "Reno & Smiley",
+          "url": "https://open.spotify.com/artist/3dj0KjG7ZqNbMfbe2BVI4H"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 138706,
+      "name": "Trail Of Sorrow",
+      "url": "https://open.spotify.com/track/5auPuadXQe10VNd2eGa5AO"
     },
     {
       "album": {

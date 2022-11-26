@@ -109,7 +109,7 @@
       ],
       "date_added": "2020-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": "2022-11-21",
       "duration_ms": 244986,
       "name": "Brooklyn",
       "url": "https://open.spotify.com/track/5UEPGKnRkwZxYB8wch5Hxp"
@@ -289,10 +289,28 @@
       ],
       "date_added": "2020-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 323400,
       "name": "Dans les airs",
       "url": "https://open.spotify.com/track/1H42q82sVhPcGE7kneM7Iq"
+    },
+    {
+      "album": {
+        "name": "Sur quelle plan\u00e8te",
+        "url": "https://open.spotify.com/album/73i0S5bK1UMFP8zPpKAfNB"
+      },
+      "artists": [
+        {
+          "name": "V\u00e9nus 3",
+          "url": "https://open.spotify.com/artist/3tpM1Cxh88vORchHhDZmIU"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323400,
+      "name": "Dans les airs",
+      "url": "https://open.spotify.com/track/1owMekL4FP43xxlLpUSk7I"
     },
     {
       "album": {
@@ -944,6 +962,24 @@
     },
     {
       "album": {
+        "name": "Les belles ann\u00e9es : L'anthologie",
+        "url": "https://open.spotify.com/album/5pRpQH9bLCUqmB7mjdYQ9D"
+      },
+      "artists": [
+        {
+          "name": "Vilain Pingouin",
+          "url": "https://open.spotify.com/artist/7lS2jO7gRXSOtMYlhfjtbi"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 241960,
+      "name": "Le train",
+      "url": "https://open.spotify.com/track/3ZlwPpbhy6sodaMMps52Jr"
+    },
+    {
+      "album": {
         "name": "L'acad\u00e9mie du massacre",
         "url": "https://open.spotify.com/album/6OULjgJloRJUYlWctThGkF"
       },
@@ -1413,7 +1449,7 @@
       ],
       "date_added": "2020-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": "2022-11-09",
       "duration_ms": 186666,
       "name": "Touche pas",
       "url": "https://open.spotify.com/track/1T3vIR5SmlUt0pkm1huM2V"

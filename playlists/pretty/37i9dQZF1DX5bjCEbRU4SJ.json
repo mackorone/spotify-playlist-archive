@@ -1,12 +1,12 @@
 {
   "description": "Calm Down with this chilled out playlist. For when it's time to just sit and bask in the afterglow.",
-  "num_followers": 562139,
+  "num_followers": 562678,
   "original_name": "Calm Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU0NDU2NDk1MSwwMDAwMDAwMDgzNjc2NDQwMWVjZWVlZmUyYjk3ODAzY2QxNDFiZjFl",
+  "snapshot_id": "MTU0NDU2NDk1MSwwMDAwMDAwMGVhYzk2NjExZmUyZGIwYjg0YmEzYjgxODU5MDRmOGMy",
   "tracks": [
     {
       "added_at": "2018-12-11 21:48:39",
@@ -123,6 +123,22 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 215011,
+      "name": "Mad Sounds",
+      "url": "https://open.spotify.com/track/75n7mraeMycQOl2sDGYaTe"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
         "name": "McCartney (Archive Collection)",
         "url": "https://open.spotify.com/album/2lOll0xAGw8FPjwmwopAKT"
       },
@@ -133,24 +149,8 @@
         }
       ],
       "duration_ms": 229826,
-      "name": "Maybe I\u2019m Amazed - Remastered 2011",
+      "name": "Maybe I\u2019m Amazed - 2011 Remaster",
       "url": "https://open.spotify.com/track/1Qa0Y05al633fG8f9Peytc"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "Transformer",
-        "url": "https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St"
-      },
-      "artists": [
-        {
-          "name": "Lou Reed",
-          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Perfect Day",
-      "url": "https://open.spotify.com/track/4TOMI010Sd4ZAX4aZ5TS85"
     },
     {
       "added_at": "2018-12-11 21:48:39",
@@ -175,22 +175,6 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 215011,
-      "name": "Mad Sounds",
-      "url": "https://open.spotify.com/track/75n7mraeMycQOl2sDGYaTe"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
         "name": "Paradise Valley",
         "url": "https://open.spotify.com/album/712VoD72K500yLhhgqCyVe"
       },
@@ -211,6 +195,22 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
+        "name": "Transformer",
+        "url": "https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St"
+      },
+      "artists": [
+        {
+          "name": "Lou Reed",
+          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Perfect Day",
+      "url": "https://open.spotify.com/track/4TOMI010Sd4ZAX4aZ5TS85"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
         "name": "Veneer",
         "url": "https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl"
       },
@@ -223,134 +223,6 @@
       "duration_ms": 161680,
       "name": "Heartbeats",
       "url": "https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "Yankee Hotel Foxtrot",
-        "url": "https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Jesus, Etc.",
-      "url": "https://open.spotify.com/track/4wd09wCccmxUB7XVJp0RNn"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "I And Love And You",
-        "url": "https://open.spotify.com/album/2PPFtYUnnqMYflIEn3b7ON"
-      },
-      "artists": [
-        {
-          "name": "The Avett Brothers",
-          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
-        }
-      ],
-      "duration_ms": 300840,
-      "name": "I And Love And You",
-      "url": "https://open.spotify.com/track/7CEV9VwA8XO9wwxTXgYKvY"
-    },
-    {
-      "added_at": "2018-12-11 21:49:11",
-      "album": {
-        "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
-        "url": "https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 248964,
-      "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
-      "url": "https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "Fear Fun",
-        "url": "https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 234160,
-      "name": "Nancy From Now On",
-      "url": "https://open.spotify.com/track/77RNVzAVwqWiZrZuWqMV2i"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "Leave Before The Lights Come On",
-        "url": "https://open.spotify.com/album/7zGAOSaUjqWdwyYtQvnqWy"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 152613,
-      "name": "Baby I'm Yours",
-      "url": "https://open.spotify.com/track/6FLqFu1ApSkUddZ9P4H6Io"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "The Velvet Underground (45th Anniversary)",
-        "url": "https://open.spotify.com/album/2HOf3Nb44Us8U9oEtKLSrX"
-      },
-      "artists": [
-        {
-          "name": "The Velvet Underground",
-          "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
-        }
-      ],
-      "duration_ms": 339533,
-      "name": "Pale Blue Eyes",
-      "url": "https://open.spotify.com/track/11VwZwNF29HrqwalYUMitb"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "Closing Time (Remastered)",
-        "url": "https://open.spotify.com/album/67F2ya9fonXH0jVVgLa7sb"
-      },
-      "artists": [
-        {
-          "name": "Tom Waits",
-          "url": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
-        }
-      ],
-      "duration_ms": 233533,
-      "name": "I Hope That I Don't Fall In Love With You",
-      "url": "https://open.spotify.com/track/23Uv9xqLumDqEBNIdHhCcO"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "This Old Dog",
-        "url": "https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 150546,
-      "name": "This Old Dog",
-      "url": "https://open.spotify.com/track/2RwOqicYzwMSuzKzHx78jm"
     },
     {
       "added_at": "2018-12-11 21:49:11",
@@ -371,18 +243,98 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv"
+        "name": "I And Love And You",
+        "url": "https://open.spotify.com/album/2PPFtYUnnqMYflIEn3b7ON"
       },
       "artists": [
         {
-          "name": "RY X",
-          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+          "name": "The Avett Brothers",
+          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
         }
       ],
-      "duration_ms": 174172,
-      "name": "Berlin",
-      "url": "https://open.spotify.com/track/7BSMSvK0WxrDeI98bswYa8"
+      "duration_ms": 300840,
+      "name": "I And Love And You",
+      "url": "https://open.spotify.com/track/7CEV9VwA8XO9wwxTXgYKvY"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "This Old Dog",
+        "url": "https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 150546,
+      "name": "This Old Dog",
+      "url": "https://open.spotify.com/track/2RwOqicYzwMSuzKzHx78jm"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "The Velvet Underground (45th Anniversary)",
+        "url": "https://open.spotify.com/album/2HOf3Nb44Us8U9oEtKLSrX"
+      },
+      "artists": [
+        {
+          "name": "The Velvet Underground",
+          "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+        }
+      ],
+      "duration_ms": 339533,
+      "name": "Pale Blue Eyes",
+      "url": "https://open.spotify.com/track/11VwZwNF29HrqwalYUMitb"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Leave Before The Lights Come On",
+        "url": "https://open.spotify.com/album/7zGAOSaUjqWdwyYtQvnqWy"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 152613,
+      "name": "Baby I'm Yours",
+      "url": "https://open.spotify.com/track/6FLqFu1ApSkUddZ9P4H6Io"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Fear Fun",
+        "url": "https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 234160,
+      "name": "Nancy From Now On",
+      "url": "https://open.spotify.com/track/77RNVzAVwqWiZrZuWqMV2i"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Closing Time (Remastered)",
+        "url": "https://open.spotify.com/album/67F2ya9fonXH0jVVgLa7sb"
+      },
+      "artists": [
+        {
+          "name": "Tom Waits",
+          "url": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
+        }
+      ],
+      "duration_ms": 233533,
+      "name": "I Hope That I Don't Fall In Love With You",
+      "url": "https://open.spotify.com/track/23Uv9xqLumDqEBNIdHhCcO"
     },
     {
       "added_at": "2018-12-11 21:48:39",
@@ -399,6 +351,54 @@
       "duration_ms": 155240,
       "name": "Whole Wide World",
       "url": "https://open.spotify.com/track/3e5eR2DBoHD2qR4HN3YmTv"
+    },
+    {
+      "added_at": "2018-12-11 21:49:11",
+      "album": {
+        "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
+        "url": "https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 248964,
+      "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
+      "url": "https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Yankee Hotel Foxtrot",
+        "url": "https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Jesus, Etc.",
+      "url": "https://open.spotify.com/track/4wd09wCccmxUB7XVJp0RNn"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv"
+      },
+      "artists": [
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        }
+      ],
+      "duration_ms": 174172,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/7BSMSvK0WxrDeI98bswYa8"
     },
     {
       "added_at": "2018-12-11 21:48:39",
@@ -451,6 +451,22 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
+        "name": "Doolittle 25: B-Sides, Peel Sessions And Demos",
+        "url": "https://open.spotify.com/album/65X4N0kyi2BEk2YR0ndoAz"
+      },
+      "artists": [
+        {
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+        }
+      ],
+      "duration_ms": 180133,
+      "name": "Wave of Mutilation - UK Surf",
+      "url": "https://open.spotify.com/track/3UDa3HRIwS4scBYom5K0zl"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
         "name": "Coming From Reality",
         "url": "https://open.spotify.com/album/2X0L9mwLuMqAK8rf965Vmi"
       },
@@ -483,22 +499,6 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "Blake Mills",
-        "url": "https://open.spotify.com/album/5DGnrJSx7nuDC8WrD2EOyu"
-      },
-      "artists": [
-        {
-          "name": "Blake Mills",
-          "url": "https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR"
-        }
-      ],
-      "duration_ms": 256442,
-      "name": "Wintersong",
-      "url": "https://open.spotify.com/track/4yXl4ddCMdM7TTDcylRzLP"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
         "name": "Sing Into My Mouth",
         "url": "https://open.spotify.com/album/0jMBAo2pk2cEE0aJ3WseMl"
       },
@@ -519,6 +519,22 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
+        "name": "Five Leaves Left",
+        "url": "https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "duration_ms": 258680,
+      "name": "River Man",
+      "url": "https://open.spotify.com/track/3Uh7rAb7F0XGVpEEDwfH1k"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
         "name": "Magnolia Electric Co. (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5MqGZZtQ36zsETrTK2uy04"
       },
@@ -535,34 +551,18 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "Under The Blacklight (Standard Version)",
-        "url": "https://open.spotify.com/album/2f9RsTZpsYMLRVZBtW7En8"
+        "name": "Blake Mills",
+        "url": "https://open.spotify.com/album/5DGnrJSx7nuDC8WrD2EOyu"
       },
       "artists": [
         {
-          "name": "Rilo Kiley",
-          "url": "https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA"
+          "name": "Blake Mills",
+          "url": "https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR"
         }
       ],
-      "duration_ms": 216973,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/0ieqq1wbtso2UjJWPqJ5Xc"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "Five Leaves Left",
-        "url": "https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2"
-      },
-      "artists": [
-        {
-          "name": "Nick Drake",
-          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
-        }
-      ],
-      "duration_ms": 258680,
-      "name": "River Man",
-      "url": "https://open.spotify.com/track/3Uh7rAb7F0XGVpEEDwfH1k"
+      "duration_ms": 256442,
+      "name": "Wintersong",
+      "url": "https://open.spotify.com/track/4yXl4ddCMdM7TTDcylRzLP"
     },
     {
       "added_at": "2018-12-11 21:48:39",
@@ -583,6 +583,22 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
+        "name": "Under The Blacklight (Standard Version)",
+        "url": "https://open.spotify.com/album/2f9RsTZpsYMLRVZBtW7En8"
+      },
+      "artists": [
+        {
+          "name": "Rilo Kiley",
+          "url": "https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA"
+        }
+      ],
+      "duration_ms": 216973,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/0ieqq1wbtso2UjJWPqJ5Xc"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
         "name": "Wildewoman (Expanded Edition)",
         "url": "https://open.spotify.com/album/2CphcTXBge3BKqAHeuNUUK"
       },
@@ -599,22 +615,6 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "Doolittle 25: B-Sides, Peel Sessions And Demos",
-        "url": "https://open.spotify.com/album/65X4N0kyi2BEk2YR0ndoAz"
-      },
-      "artists": [
-        {
-          "name": "Pixies",
-          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
-        }
-      ],
-      "duration_ms": 180133,
-      "name": "Wave of Mutilation - UK Surf",
-      "url": "https://open.spotify.com/track/3UDa3HRIwS4scBYom5K0zl"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
         "name": "Only in Dreams",
         "url": "https://open.spotify.com/album/5AeNEoouOMNiWvDwpKzVml"
       },
@@ -627,6 +627,22 @@
       "duration_ms": 389035,
       "name": "Coming Down",
       "url": "https://open.spotify.com/track/62o5ETvaR1U8CqxVYancy4"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "The Party",
+        "url": "https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM"
+      },
+      "artists": [
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        }
+      ],
+      "duration_ms": 231838,
+      "name": "The Magician",
+      "url": "https://open.spotify.com/track/3dsd09qrt34YuS6NPbQtYq"
     },
     {
       "added_at": "2018-12-11 21:48:39",
@@ -663,34 +679,18 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "Where Will We Go, Pt. 2",
-        "url": "https://open.spotify.com/album/0bBNzY4QWzJQeINFVoum9v"
+        "name": "Ashes & Fire",
+        "url": "https://open.spotify.com/album/6embeY4aFzhjb25UbR8RU6"
       },
       "artists": [
         {
-          "name": "Nick Hakim",
-          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 299839,
-      "name": "I Don't Know",
-      "url": "https://open.spotify.com/track/6ejOqrr7r2LcUDxIqZyygp"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "Coles Corner",
-        "url": "https://open.spotify.com/album/3Gm6V4tzZaYFbnhrvubylJ"
-      },
-      "artists": [
-        {
-          "name": "Richard Hawley",
-          "url": "https://open.spotify.com/artist/1ZsnHGOLYFg8CAHQQBc1ut"
-        }
-      ],
-      "duration_ms": 336560,
-      "name": "The Ocean",
-      "url": "https://open.spotify.com/track/1Xm7HoeUAd75qGEyDvLBtQ"
+      "duration_ms": 172186,
+      "name": "Lucky Now",
+      "url": "https://open.spotify.com/track/1xLiOXTkAetjRqmPQwELn4"
     },
     {
       "added_at": "2018-12-11 21:48:39",
@@ -711,18 +711,34 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "Ashes & Fire",
-        "url": "https://open.spotify.com/album/6embeY4aFzhjb25UbR8RU6"
+        "name": "Coles Corner",
+        "url": "https://open.spotify.com/album/3Gm6V4tzZaYFbnhrvubylJ"
       },
       "artists": [
         {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+          "name": "Richard Hawley",
+          "url": "https://open.spotify.com/artist/1ZsnHGOLYFg8CAHQQBc1ut"
         }
       ],
-      "duration_ms": 172186,
-      "name": "Lucky Now",
-      "url": "https://open.spotify.com/track/1xLiOXTkAetjRqmPQwELn4"
+      "duration_ms": 336560,
+      "name": "The Ocean",
+      "url": "https://open.spotify.com/track/1Xm7HoeUAd75qGEyDvLBtQ"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Where Will We Go, Pt. 2",
+        "url": "https://open.spotify.com/album/045GmXzU5nxXkpeD3w1eHc"
+      },
+      "artists": [
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "duration_ms": 299839,
+      "name": "I Don't Know",
+      "url": "https://open.spotify.com/track/0otN4xqX87CxYFtbzQEPkS"
     },
     {
       "added_at": "2018-12-11 21:48:39",
@@ -759,22 +775,6 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "Swing Lo Magellan",
-        "url": "https://open.spotify.com/album/5zQgu9qi6mK8KuleuzM22C"
-      },
-      "artists": [
-        {
-          "name": "Dirty Projectors",
-          "url": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
-        }
-      ],
-      "duration_ms": 157800,
-      "name": "Swing Lo Magellan",
-      "url": "https://open.spotify.com/track/2JtL0a3NHcGkFQ7kfDLKUT"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
         "name": "Keep It Hid",
         "url": "https://open.spotify.com/album/2KQn93GMsH7IoOvQ0Hlqzx"
       },
@@ -807,18 +807,34 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "The Essential Paul Simon",
-        "url": "https://open.spotify.com/album/4kdOH3s9cRL9YykvHFpSlD"
+        "name": "Swing Lo Magellan",
+        "url": "https://open.spotify.com/album/5zQgu9qi6mK8KuleuzM22C"
       },
       "artists": [
         {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+          "name": "Dirty Projectors",
+          "url": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
         }
       ],
-      "duration_ms": 208160,
-      "name": "50 Ways to Leave Your Lover",
-      "url": "https://open.spotify.com/track/7bdDULyOUqNyWu6XPeAnSO"
+      "duration_ms": 157800,
+      "name": "Swing Lo Magellan",
+      "url": "https://open.spotify.com/track/2JtL0a3NHcGkFQ7kfDLKUT"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Helplessness Blues",
+        "url": "https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 185293,
+      "name": "Blue Spotted Tail",
+      "url": "https://open.spotify.com/track/7DVVuEwuBOx7fcUvYwqngv"
     },
     {
       "added_at": "2018-12-11 21:48:39",
@@ -855,34 +871,18 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "Sometimes I Wish We Were An Eagle",
-        "url": "https://open.spotify.com/album/4bKHXqEVmt32YU7u51GIHB"
+        "name": "The Essential Paul Simon",
+        "url": "https://open.spotify.com/album/4kdOH3s9cRL9YykvHFpSlD"
       },
       "artists": [
         {
-          "name": "Bill Callahan",
-          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
         }
       ],
-      "duration_ms": 327146,
-      "name": "Too Many Birds",
-      "url": "https://open.spotify.com/track/7ydapdmQ4oivP54X29q7Af"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "Helplessness Blues",
-        "url": "https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 185293,
-      "name": "Blue Spotted Tail",
-      "url": "https://open.spotify.com/track/7DVVuEwuBOx7fcUvYwqngv"
+      "duration_ms": 208160,
+      "name": "50 Ways to Leave Your Lover",
+      "url": "https://open.spotify.com/track/7bdDULyOUqNyWu6XPeAnSO"
     },
     {
       "added_at": "2018-12-11 21:48:39",
@@ -903,6 +903,22 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
+        "name": "Sometimes I Wish We Were An Eagle",
+        "url": "https://open.spotify.com/album/4bKHXqEVmt32YU7u51GIHB"
+      },
+      "artists": [
+        {
+          "name": "Bill Callahan",
+          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
+        }
+      ],
+      "duration_ms": 327146,
+      "name": "Too Many Birds",
+      "url": "https://open.spotify.com/track/7ydapdmQ4oivP54X29q7Af"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
         "name": "Hot Dreams",
         "url": "https://open.spotify.com/album/2U1BUKvsYIkUik7xEhAP0C"
       },
@@ -915,118 +931,6 @@
       "duration_ms": 293213,
       "name": "Hot Dreams",
       "url": "https://open.spotify.com/track/3kpRgTtMnArQ5Gay0JxElf"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "Arms",
-        "url": "https://open.spotify.com/album/3yXgDtquomtcp1AnU41fLs"
-      },
-      "artists": [
-        {
-          "name": "Bell X1",
-          "url": "https://open.spotify.com/artist/2fGa9song5Gee8UEGf6W7I"
-        }
-      ],
-      "duration_ms": 299853,
-      "name": "The Upswing",
-      "url": "https://open.spotify.com/track/2W0bzuej3umee9qrmJ9oYL"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "Good Grief (Expanded Edition)",
-        "url": "https://open.spotify.com/album/04AoJc9Z5y2fwSjmMBmGXj"
-      },
-      "artists": [
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        }
-      ],
-      "duration_ms": 264040,
-      "name": "Dusty Trails",
-      "url": "https://open.spotify.com/track/1nKQHAv7zGcDoGJGqB0qFk"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "Vestiges & Claws",
-        "url": "https://open.spotify.com/album/3mDpDgTVy3Lo6fdqoTr215"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 293880,
-      "name": "Leaf Off / The Cave",
-      "url": "https://open.spotify.com/track/2XMiyGBbIOLEcCdGnHGoq5"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "Life Is People",
-        "url": "https://open.spotify.com/album/4OPjodaA5Uo5DReCKIp1rb"
-      },
-      "artists": [
-        {
-          "name": "Bill Fay",
-          "url": "https://open.spotify.com/artist/3Wok7FweiLrlia97LMCJh1"
-        }
-      ],
-      "duration_ms": 314200,
-      "name": "The Healing Day",
-      "url": "https://open.spotify.com/track/4oObNo6gbtVdFmC9SVPGHF"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "Ape in Pink Marble",
-        "url": "https://open.spotify.com/album/4B1W5FeDz8Z1jsYAZV4MdU"
-      },
-      "artists": [
-        {
-          "name": "Devendra Banhart",
-          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
-        }
-      ],
-      "duration_ms": 208773,
-      "name": "Middle Names",
-      "url": "https://open.spotify.com/track/4ewGoo3c885Ipyn57KlPV3"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "Bahamas Is Afie",
-        "url": "https://open.spotify.com/album/2UqlVTULRPG2qm8Bico9CK"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 190826,
-      "name": "Can't Take You With Me",
-      "url": "https://open.spotify.com/track/0sWuU0uDypaZ5rwUGqSKtS"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "Swimming Away",
-        "url": "https://open.spotify.com/album/7F5pXAeJQw8wbKow2u9quE"
-      },
-      "artists": [
-        {
-          "name": "Great Lake Swimmers",
-          "url": "https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR"
-        }
-      ],
-      "duration_ms": 188480,
-      "name": "Swimming Away",
-      "url": "https://open.spotify.com/track/48vwyJNYbkxmRomS1V53IK"
     },
     {
       "added_at": "2018-12-11 21:48:39",
@@ -1047,34 +951,114 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "Incorruptible Heart",
-        "url": "https://open.spotify.com/album/6hsjNIJ0QJJvUzMjzU4TGa"
+        "name": "Arms",
+        "url": "https://open.spotify.com/album/3yXgDtquomtcp1AnU41fLs"
       },
       "artists": [
         {
-          "name": "Lavender Diamond",
-          "url": "https://open.spotify.com/artist/2Z1N9zMrbKe6emt3mhc6Kw"
+          "name": "Bell X1",
+          "url": "https://open.spotify.com/artist/2fGa9song5Gee8UEGf6W7I"
         }
       ],
-      "duration_ms": 180906,
-      "name": "I Don't Recall",
-      "url": "https://open.spotify.com/track/1BlvDzR1MwebVS7f5uw5dw"
+      "duration_ms": 299853,
+      "name": "The Upswing",
+      "url": "https://open.spotify.com/track/2W0bzuej3umee9qrmJ9oYL"
     },
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "A Different Ship",
-        "url": "https://open.spotify.com/album/50hvTlCGJo45dPG0E87bOa"
+        "name": "Vestiges & Claws",
+        "url": "https://open.spotify.com/album/3mDpDgTVy3Lo6fdqoTr215"
       },
       "artists": [
         {
-          "name": "Here We Go Magic",
-          "url": "https://open.spotify.com/artist/4WxjrOJGIngO2hJnlCeK7f"
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
         }
       ],
-      "duration_ms": 266306,
-      "name": "Over The Ocean",
-      "url": "https://open.spotify.com/track/0S5Rhu8BNrhiOlJ4oNJYBy"
+      "duration_ms": 293880,
+      "name": "Leaf Off / The Cave",
+      "url": "https://open.spotify.com/track/2XMiyGBbIOLEcCdGnHGoq5"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Good Grief (Expanded Edition)",
+        "url": "https://open.spotify.com/album/04AoJc9Z5y2fwSjmMBmGXj"
+      },
+      "artists": [
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "duration_ms": 264040,
+      "name": "Dusty Trails",
+      "url": "https://open.spotify.com/track/1nKQHAv7zGcDoGJGqB0qFk"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Ape in Pink Marble",
+        "url": "https://open.spotify.com/album/4B1W5FeDz8Z1jsYAZV4MdU"
+      },
+      "artists": [
+        {
+          "name": "Devendra Banhart",
+          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+        }
+      ],
+      "duration_ms": 208773,
+      "name": "Middle Names",
+      "url": "https://open.spotify.com/track/4ewGoo3c885Ipyn57KlPV3"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Swimming Away",
+        "url": "https://open.spotify.com/album/7F5pXAeJQw8wbKow2u9quE"
+      },
+      "artists": [
+        {
+          "name": "Great Lake Swimmers",
+          "url": "https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR"
+        }
+      ],
+      "duration_ms": 188480,
+      "name": "Swimming Away",
+      "url": "https://open.spotify.com/track/48vwyJNYbkxmRomS1V53IK"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Bahamas Is Afie",
+        "url": "https://open.spotify.com/album/2UqlVTULRPG2qm8Bico9CK"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 190826,
+      "name": "Can't Take You With Me",
+      "url": "https://open.spotify.com/track/0sWuU0uDypaZ5rwUGqSKtS"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Life Is People",
+        "url": "https://open.spotify.com/album/4OPjodaA5Uo5DReCKIp1rb"
+      },
+      "artists": [
+        {
+          "name": "Bill Fay",
+          "url": "https://open.spotify.com/artist/3Wok7FweiLrlia97LMCJh1"
+        }
+      ],
+      "duration_ms": 314200,
+      "name": "The Healing Day",
+      "url": "https://open.spotify.com/track/4oObNo6gbtVdFmC9SVPGHF"
     },
     {
       "added_at": "2018-12-11 21:48:39",
@@ -1115,6 +1099,38 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
+        "name": "A Different Ship",
+        "url": "https://open.spotify.com/album/50hvTlCGJo45dPG0E87bOa"
+      },
+      "artists": [
+        {
+          "name": "Here We Go Magic",
+          "url": "https://open.spotify.com/artist/4WxjrOJGIngO2hJnlCeK7f"
+        }
+      ],
+      "duration_ms": 266306,
+      "name": "Over The Ocean",
+      "url": "https://open.spotify.com/track/0S5Rhu8BNrhiOlJ4oNJYBy"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Incorruptible Heart",
+        "url": "https://open.spotify.com/album/6hsjNIJ0QJJvUzMjzU4TGa"
+      },
+      "artists": [
+        {
+          "name": "Lavender Diamond",
+          "url": "https://open.spotify.com/artist/2Z1N9zMrbKe6emt3mhc6Kw"
+        }
+      ],
+      "duration_ms": 180906,
+      "name": "I Don't Recall",
+      "url": "https://open.spotify.com/track/1BlvDzR1MwebVS7f5uw5dw"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
         "name": "Blood from a Stone",
         "url": "https://open.spotify.com/album/2OMMQdI71h7sWqkhis2ZkT"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 266804,
       "name": "When the Day Comes",
       "url": "https://open.spotify.com/track/1KXwXf9Cr9tixpqXWBMcMu"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "Boxer",
-        "url": "https://open.spotify.com/album/2pwNkShhY1uip80rLMHUgX"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 269200,
-      "name": "Gospel",
-      "url": "https://open.spotify.com/track/5SA1pmhLHV02cWxPm1t6q3"
     }
   ],
   "unique_name": "Calm Down",

@@ -584,6 +584,24 @@
     },
     {
       "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/6O9oaYFECfRRBV5z2g0fbV"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Knapp",
+          "url": "https://open.spotify.com/artist/2yAjgPqGeURdgCHPzuDeYi"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 184066,
+      "name": "Into You",
+      "url": "https://open.spotify.com/track/1pTxEo8B3eHM0befpib0Yc"
+    },
+    {
+      "album": {
         "name": "Lay It Down",
         "url": "https://open.spotify.com/album/1iCXn3d2XYNAZ8eE6eiCoD"
       },
@@ -725,6 +743,24 @@
       "duration_ms": 381600,
       "name": "Lord I Lift Your Name On High",
       "url": "https://open.spotify.com/track/4YGyH585tBURMPnryf3OpV"
+    },
+    {
+      "album": {
+        "name": "The Ultimate Collection: Worship",
+        "url": "https://open.spotify.com/album/4TOWBYWhX0juUikLgFpc3B"
+      },
+      "artists": [
+        {
+          "name": "Sonicflood",
+          "url": "https://open.spotify.com/artist/1lPSXeZw9i7js7PdFJXEJI"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 381626,
+      "name": "Lord I Lift Your Name On High",
+      "url": "https://open.spotify.com/track/5uDZy78ASEbX2uMqR69BwT"
     },
     {
       "album": {
@@ -1367,6 +1403,24 @@
       "duration_ms": 203133,
       "name": "Undo Me",
       "url": "https://open.spotify.com/track/6XxaPcDid3vhKTSam6HTfz"
+    },
+    {
+      "album": {
+        "name": "Kansas (Gold Edition)",
+        "url": "https://open.spotify.com/album/6OejXqpZlyma8T1pze079y"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Knapp",
+          "url": "https://open.spotify.com/artist/2yAjgPqGeURdgCHPzuDeYi"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 204333,
+      "name": "Undo Me",
+      "url": "https://open.spotify.com/track/5xUatgmxfTpQ3TogRB87jm"
     },
     {
       "album": {

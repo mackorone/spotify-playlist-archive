@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX57hHpm3vGiU.md) - [plain]
 
 > Respira y medita con los sonidos de este ancestral instrumento.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,461 likes - 77 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,547 likes - 77 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX57hHpm3vGiU.md) - [plain]
 | 18 | [Tibetan Bowls](https://open.spotify.com/track/3IaD5xs67Tpw3cNpWIf4WD) | [The Forest Escape](https://open.spotify.com/artist/63nWC8U7RxoOnCLl3b6AK4) | [Tibetan Bowls](https://open.spotify.com/album/7HFa56kymErwhHiIMuRZfT) | 2:57 |
 | 19 | [Crystal Bowl Soundbath](https://open.spotify.com/track/4RK7ebcJcY5b71aGYiF9FS) | [The Forest Escape](https://open.spotify.com/artist/63nWC8U7RxoOnCLl3b6AK4) | [Crystal Bowl Tranquility](https://open.spotify.com/album/2eOJnGIAQA6NkUUDdE4NWQ) | 3:29 |
 | 20 | [Serene Singing Bowls](https://open.spotify.com/track/7kY7MRu1KpEbFMf0sJkIV5) | [Relaxing Tibetan Singing Bowls](https://open.spotify.com/artist/7eWhSlk1SPRRFkt9l6QE7R) | [Serene Singing Bowls](https://open.spotify.com/album/1kbWnC6BQS3wgxYBe9YN2O) | 2:54 |
-| 21 | [Universal Energy Healing](https://open.spotify.com/track/4FVqhXsgWPyo3pnl5QtyvB) | [Healing Music Studio](https://open.spotify.com/artist/3slkAZjNjou8jXczSnZ51u), [Meditación Chakra](https://open.spotify.com/artist/623eXZaRv6YsYpILhkDTtT) | [417 Hz Undoing Situations and Facilitating Change](https://open.spotify.com/album/5J4f7lqt7i7dl8cGgM4G2K) | 3:24 |
+| 21 | [Universal Energy Healing](https://open.spotify.com/track/08GAV65HlXdgVGIrA0JmGM) | [Healing Music Studio](https://open.spotify.com/artist/3slkAZjNjou8jXczSnZ51u) | [417 Hz Undoing Situations and Facilitating Change](https://open.spotify.com/album/5EJ6ANuXXrCXfvUs6QvfqS) | 3:24 |
 | 22 | [Relieve Stress](https://open.spotify.com/track/4D7s9uFRhQGeF0gPOjJPdC) | [The Tibetan Singing Bowls](https://open.spotify.com/artist/4gZYpXjnmCFu1Qzxz947v9) | [Singing Bowls in Nature](https://open.spotify.com/album/6oiXg3npUhIWScCT9sz8wm) | 3:00 |
 | 23 | [Soul Shower](https://open.spotify.com/track/3RCLYLBaVc2vSjSof1phdk) | [Larrek](https://open.spotify.com/artist/6VFekblOut967g4jD8w46E) | [Soul Shower](https://open.spotify.com/album/7c7bUDAMlzqPhgtyr6FL0V) | 3:32 |
 | 24 | [Aum Meditate](https://open.spotify.com/track/4w3TPh10uapmoxwbfgt6D6) | [Bah Zen](https://open.spotify.com/artist/6WOLPTN3uKvcpJUYHkRb6k) | [Positive Thinking](https://open.spotify.com/album/2lMNGjVYdKvRG5DosyhjOi) | 2:22 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX57hHpm3vGiU.md) - [plain]
 | 76 | [528 Hz Singing Tibetan Bowl](https://open.spotify.com/track/5FlSEkinQuGnXatiZIs4XD) | [Chakra Shack](https://open.spotify.com/artist/3SeXI5wCsQRDEoReZONV4d) | [Awareness](https://open.spotify.com/album/6Sl36AMtt07HX5LVE6WG4a) | 2:15 |
 | 77 | [August](https://open.spotify.com/track/4ZbqtWFkXzlJS7HlmDmOrB) | [Tibetan Singing Bowl Sounds](https://open.spotify.com/artist/4JwZIdOOQe0KsFr5AENBUR) | [Relaxing Tibetan Bowls](https://open.spotify.com/album/32WNC35kd87Lai664eZvwP) | 2:54 |
 
-Snapshot ID: `MTY2MjQ3NTc1MiwwMDAwMDAwMGIwOTQyNmI0OWI2NTIzYjkzOGNhNDkyZWE3OTU2NmQ1`
+Snapshot ID: `MTY2MjQ3NTc1MiwwMDAwMDAwMDRiNTNiODQ5MzRlNTEzOTZiZDMyMzNkNzYxMTE5MmUw`

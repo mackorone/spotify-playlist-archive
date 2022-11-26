@@ -4,7 +4,7 @@
 
 > Stories from the world of Peppa Pig!
 
-37 songs - 2 hr 58 min - [published](https://open.spotify.com/playlist/2ipshZDU9na0eERMIoB8NL)
+49 songs - 3 hr 55 min - [published](https://open.spotify.com/playlist/2ipshZDU9na0eERMIoB8NL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,13 +13,19 @@
 | [Bedtime Story](https://open.spotify.com/track/3otVu4YB9YM5yc81lUzWdQ) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Bedtime Story](https://open.spotify.com/album/1d0Kk6LZgGIcQ8dk98cLMl) | 4:39 | 2021-12-03 |  |
 | [Canyon Country](https://open.spotify.com/track/3hx01GuaZb7S1Hdj18fZR5) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Canyon Country](https://open.spotify.com/album/0QR6cTMDu4kWRszUVNwsRl) | 5:03 | 2021-12-03 |  |
 | [Champion Daddy Pig](https://open.spotify.com/track/5iMgLwRqO1EpALBabpQmvp) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Champion Daddy Pig](https://open.spotify.com/album/4drhK7QL3MvfBRd2WRuvIL) | 4:40 | 2021-12-03 |  |
+| [Children's Fete](https://open.spotify.com/track/1FeMD4VehSx5GKeH1n1F9F) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Children's Fete](https://open.spotify.com/album/2nNO6QaqDR6IOzVirT1slG) | 4:35 | 2022-10-24 |  |
+| [Clubhouse Adventure](https://open.spotify.com/track/72UkvnWZqE7XZSPcW9Of1R) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Clubhouse Adventure](https://open.spotify.com/album/242MfWPQzeb1b3V4P1n71n) | 4:37 | 2022-10-24 |  |
+| [Clubhouse Shop](https://open.spotify.com/track/6nBJJEayxZoIgANJXLHJQM) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Clubhouse Shop](https://open.spotify.com/album/5znscvtFr36731u36ivOiB) | 4:36 | 2022-10-24 |  |
+| [Detective Club](https://open.spotify.com/track/4JisnwjbfA7f9QQzRaQHef) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Detective Club](https://open.spotify.com/album/0rh9nHl31jvE3pvjKg3QfT) | 4:33 | 2022-10-24 |  |
 | [Families](https://open.spotify.com/track/5WNNUyLMCuu7msTVtRVpyk) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Families](https://open.spotify.com/album/23kISPLUiyxM3TGIzx7ehV) | 4:56 | 2022-07-21 |  |
+| [Fruit](https://open.spotify.com/track/2ZOcUG7jvxFFrLduwdJu91) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Fruit](https://open.spotify.com/album/1xCRsVQMNRjNhCbw5NRFFo) | 4:49 | 2022-10-24 |  |
 | [Funny Music](https://open.spotify.com/track/6rrFkC5yrI5slYxhY0iHR5) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Funny Music](https://open.spotify.com/album/2pvsYjh6BWOjllE8FuEcsH) | 5:18 | 2021-12-03 |  |
 | [George's New Dinosaur](https://open.spotify.com/track/2emZTR4wbbE4vMKkb8lnUV) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [George's New Dinosaur](https://open.spotify.com/album/0XO6Nc7vMiXoh7OdM8eOVK) | 5:00 | 2021-12-03 |  |
 | [Goldie the Fish](https://open.spotify.com/track/11cSlsmHGtGELKOznBTyQk) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Goldie the Fish](https://open.spotify.com/album/2ywnxffXgxjphXx7iXwJaL) | 5:05 | 2022-08-12 |  |
 | [Grandpa Pig's Greenhouse](https://open.spotify.com/track/5dtUmR3YwpQ8OK4pKri9Zg) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Grandpa Pig's Greenhouse](https://open.spotify.com/album/0INJJ0vLQXZpUclqlbSUgB) | 4:52 | 2021-12-03 |  |
 | [Grandpa Pig's Train to the Rescue](https://open.spotify.com/track/7M8T9iv6w49bOxpchiSVCR) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Grandpa Pig's Train to the Rescue](https://open.spotify.com/album/4pFmnBH9HhbCCuTn2MZfk8) | 4:50 | 2022-07-21 |  |
 | [Granny Pig’s Chickens](https://open.spotify.com/track/6q6nOzvbUfmqcRwTEdMYbO) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Granny Pig’s Chickens](https://open.spotify.com/album/3tWn2MhXTiFRnnVY5Tvovk) | 4:43 | 2021-12-03 | 2022-06-17 |
+| [Hippies](https://open.spotify.com/track/3XxccRconlNd4bGVJ6aJ7f) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Hippies](https://open.spotify.com/album/02eHaAuZyUQo3C2ptTTFyP) | 5:13 | 2022-10-24 |  |
 | [Hollywood](https://open.spotify.com/track/5xF9VNk1hnBFhNXJa3C8DL) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Hollywood](https://open.spotify.com/album/48hErmlP8p0NT3PGYu9bY3) | 4:50 | 2021-12-03 |  |
 | [In the Future](https://open.spotify.com/track/2vBceP1h2dyvpzZeGH9NNU) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [In the Future](https://open.spotify.com/album/5FkRKUHzmODVgv3WhTwrBx) | 4:24 | 2022-08-12 |  |
 | [Mandy Mouse](https://open.spotify.com/track/3plR4Br6f2QpxnPaQokXzH) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Mandy Mouse](https://open.spotify.com/album/5WYoSMuqhb4P5IhLoxQN9Z) | 4:45 | 2021-12-03 |  |
@@ -27,6 +33,7 @@
 | [Mr Potato’s Fruit and Vegetable Quiz](https://open.spotify.com/track/7KskEdVJK6i1T1rL0YnmeU) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Mr Potato’s Fruit and Vegetable Quiz](https://open.spotify.com/album/4tPzxulpQr0eD0scth53hR) | 5:02 | 2021-12-03 |  |
 | [Mr\. Bull’s New Road](https://open.spotify.com/track/0GarqL5SGXuARB5gmyJcNz) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Mr\. Bull’s New Road](https://open.spotify.com/album/28F7Qyh5kegevu1NSWPaO7) | 4:40 | 2021-12-03 |  |
 | [Numbers](https://open.spotify.com/track/2GFjGY9lcKkt1CsrQu6MJM) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Numbers](https://open.spotify.com/album/1F5lXNSKE3pXV6KaiEIRae) | 5:04 | 2021-12-03 |  |
+| [Pedro the Cowboy](https://open.spotify.com/track/0nT3WCawEtgSr9Kmmok3uQ) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Pedro the Cowboy](https://open.spotify.com/album/0cGi30LcmBw9xpeSQjmLeX) | 4:37 | 2022-10-24 |  |
 | [Peppa's Diary](https://open.spotify.com/track/5GvBsY9pVnqxNFCEkgbaLx) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Peppa's Diary](https://open.spotify.com/album/2Qbqtrggsk6f48Aejd6Qqn) | 4:58 | 2021-12-03 |  |
 | [Pirate Treasure](https://open.spotify.com/track/5HbS4avLoZIYTVcElQmtmE) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Pirate Treasure](https://open.spotify.com/album/3hfnU4gXOokoXNh9zzesoO) | 5:00 | 2021-12-03 |  |
 | [Please and Thank You](https://open.spotify.com/track/65Pe1SrcTnhMgWKcTnwe6o) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Please and Thank You](https://open.spotify.com/album/5OJ1xJqd0jHQR2Fm2wBaCu) | 5:08 | 2021-12-03 |  |
@@ -37,13 +44,18 @@
 | [Sea Treasure](https://open.spotify.com/track/3RbNHTQgPshnCxpta49bqp) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Sea Treasure](https://open.spotify.com/album/7EEJGwwnVXmNXvp5vgLNoi) | 4:49 | 2022-07-21 |  |
 | [Sea, Sun and Snow](https://open.spotify.com/track/1cm49rUMUA8c2LwPFGTCLq) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Sea, Sun and Snow](https://open.spotify.com/album/6cSUdAlg7z3NGroFa1wnYy) | 4:53 | 2021-12-03 |  |
 | [Shake, Rattle and Bang](https://open.spotify.com/track/3HYbGT89Qw1eTu6uupE6mz) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Shake, Rattle and Bang](https://open.spotify.com/album/38cxq9QLrImHqvopW6TYa7) | 5:04 | 2021-12-03 |  |
+| [Stamps](https://open.spotify.com/track/65Mv5BtFFOd4zElAJLfGbv) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Stamps](https://open.spotify.com/album/0Pi0sVIqpuk4t7UFdlOYij) | 5:09 | 2022-10-24 |  |
+| [Suzy Goes Away](https://open.spotify.com/track/2dH1QEKZpZbV3o3PsYfPet) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Suzy Goes Away](https://open.spotify.com/album/2QGsdvIitiEGH2MiY9xBFO) | 4:35 | 2022-10-24 |  |
 | [Talent Day](https://open.spotify.com/track/2LLlH12XHOZjv9gFA9ibax) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Talent Day](https://open.spotify.com/album/0lJqL5GWW0JF9ptafbhBKC) | 4:40 | 2021-12-03 |  |
 | [The Aquarium](https://open.spotify.com/track/4vlO8Ul9BRrFe9Tm35prMS) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [The Aquarium](https://open.spotify.com/album/1jMwGVtAL1z213xcIKZxIH) | 4:52 | 2022-08-12 |  |
+| [The Clubhouse](https://open.spotify.com/track/3zJXXCikv7U39IWXFNK2WT) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [The Clubhouse](https://open.spotify.com/album/7mciRu1ImlY5Ac5Tbrl0Bh) | 4:44 | 2022-10-24 |  |
 | [The Diner](https://open.spotify.com/track/65pAgzaSTTz9K92UJ0voMM) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [The Diner](https://open.spotify.com/album/5YwKoIQPdAFUHk4HILFEFj) | 4:51 | 2021-12-03 |  |
 | [The Market](https://open.spotify.com/track/4G2Qswzk6xldWWX5sGQXId) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [The Market](https://open.spotify.com/album/3B8mE99K2j8RAlYXZw4fMg) | 4:51 | 2021-12-03 |  |
 | [The Noisy Night](https://open.spotify.com/track/76fYm2twdIR0V1JWI2pz4b) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [The Noisy Night](https://open.spotify.com/album/1DhGPaGfuzgqfcQ6qBx485) | 4:19 | 2021-12-03 |  |
+| [The Police](https://open.spotify.com/track/59ePSqa0c34JYeZgQjIgxH) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [The Police](https://open.spotify.com/album/6q4LJiw4pQrtVMp2hF4V2z) | 4:35 | 2022-10-24 |  |
 | [The Secret Club](https://open.spotify.com/track/3JXfwrh1eukIff5S2q4Wtn) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [The Secret Club](https://open.spotify.com/album/6YAIkMdVO9D3kzEQZmPQ4m) | 4:32 | 2021-12-03 |  |
 | [When I Grow Up](https://open.spotify.com/track/7o3EmAAZuhyCv4LwRtnNcB) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [When I Grow Up](https://open.spotify.com/album/7K6voj7FOEOBfPlk5PGX0A) | 4:20 | 2022-07-21 |  |
 | [Whistling](https://open.spotify.com/track/3eTV8uv5sxrFvpGMDEwKpb) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Whistling](https://open.spotify.com/album/4mYj1TrcCkA9tzOS2P7Jt5) | 4:51 | 2021-12-03 |  |
+| [Woodland Club](https://open.spotify.com/track/386dcPQsLsyLSV7d0gBxfS) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Woodland Club](https://open.spotify.com/album/1U9dTYl4a98KT9QsaE45Ar) | 4:54 | 2022-10-24 |  |
 
 \*This playlist was first scraped on 2022-04-19. Prior content cannot be recovered.

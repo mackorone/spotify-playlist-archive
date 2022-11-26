@@ -1,11 +1,47 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The biggest rock songs of the last decade. Cover: Twenty One Pilots",
+  "description": "The biggest rock songs of the last decade. Cover: Arctic Monkeys",
   "name": "10s Rock Anthems",
   "published_playlist_ids": [
     "71Ge9gWFFaxmVIwGcXczH8"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "Handwritten",
+        "url": "https://open.spotify.com/album/1gsyJWUvwjnsNgYUxpOfLR"
+      },
+      "artists": [
+        {
+          "name": "The Gaslight Anthem",
+          "url": "https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202493,
+      "name": "\"45\"",
+      "url": "https://open.spotify.com/track/25Sd73fleKUVPNqITPZkn1"
+    },
+    {
+      "album": {
+        "name": "Handwritten",
+        "url": "https://open.spotify.com/album/2HwaN9tZMGWfrJDsDGKPLM"
+      },
+      "artists": [
+        {
+          "name": "The Gaslight Anthem",
+          "url": "https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 203320,
+      "name": "\"45\"",
+      "url": "https://open.spotify.com/track/1RzDsaqi6EMM8j7dBnxVSo"
+    },
     {
       "album": {
         "name": "Handwritten (Deluxe Version)",
@@ -91,10 +127,46 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 296520,
       "name": "Ain't It Fun",
       "url": "https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa"
+    },
+    {
+      "album": {
+        "name": "Paramore (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7J2hXOVq8FZ367dTczV7oH"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296520,
+      "name": "Ain't It Fun",
+      "url": "https://open.spotify.com/track/3yrvQHw6pQemsrCQEpMnKv"
+    },
+    {
+      "album": {
+        "name": "A/B",
+        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269893,
+      "name": "All the Pretty Girls",
+      "url": "https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6"
     },
     {
       "album": {
@@ -207,6 +279,24 @@
       "duration_ms": 239450,
       "name": "Black Honey",
       "url": "https://open.spotify.com/track/5OeY5LebIOzD9Zvat1Dikf"
+    },
+    {
+      "album": {
+        "name": "Dance Monkey - 10's All Out",
+        "url": "https://open.spotify.com/album/4mLKJKA718bklMVI91jQJq"
+      },
+      "artists": [
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 214520,
+      "name": "Blood // Water",
+      "url": "https://open.spotify.com/track/0p2IkjLztsjp6OKu4twrGJ"
     },
     {
       "album": {
@@ -444,6 +534,24 @@
     },
     {
       "album": {
+        "name": "So F**kInG cOoL - Alternative Hits",
+        "url": "https://open.spotify.com/album/3W8va9bsPnWq2Ohph6Nqs8"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 184053,
+      "name": "Figure It Out",
+      "url": "https://open.spotify.com/track/0QdNZ4eqC6FMa7xZ7rYplc"
+    },
+    {
+      "album": {
         "name": "Outrage! Is Now",
         "url": "https://open.spotify.com/album/4kKKH6cFBtNd9etSJzkMjZ"
       },
@@ -498,6 +606,24 @@
     },
     {
       "album": {
+        "name": "The Attractions Of Youth",
+        "url": "https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl"
+      },
+      "artists": [
+        {
+          "name": "Barns Courtney",
+          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176093,
+      "name": "Glitter & Gold",
+      "url": "https://open.spotify.com/track/1Mf27cnAF1Q6Ko83XTM5d1"
+    },
+    {
+      "album": {
         "name": "El Camino",
         "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
       },
@@ -545,7 +671,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 217159,
       "name": "Heart and Soul",
       "url": "https://open.spotify.com/track/7CskFQLRb7IdIEdnAnjMDV"
@@ -830,6 +956,24 @@
     },
     {
       "album": {
+        "name": "Lazaretto",
+        "url": "https://open.spotify.com/album/6Fjr6WmxRcWW8GZpU5ciKE"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 220040,
+      "name": "Lazaretto",
+      "url": "https://open.spotify.com/track/6zmuuKlnCHYjZVcmAEUlp0"
+    },
+    {
+      "album": {
         "name": "ATLAS",
         "url": "https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz"
       },
@@ -899,6 +1043,42 @@
       "duration_ms": 236426,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/1060gzllf4b0UETAXisR5l"
+    },
+    {
+      "album": {
+        "name": "00s Rock Hits",
+        "url": "https://open.spotify.com/album/0fD0l461uWJxxW1eed5A5T"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 212309,
+      "name": "Little Monster",
+      "url": "https://open.spotify.com/track/2jJj97TVaKnVADqSQ12jAS"
+    },
+    {
+      "album": {
+        "name": "Royal Blood",
+        "url": "https://open.spotify.com/album/76fT51C9WtCgCcRJlt3PnG"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212309,
+      "name": "Little Monster",
+      "url": "https://open.spotify.com/track/3cuxZTcxBj7AL3bgSCIuWL"
     },
     {
       "album": {
@@ -1010,6 +1190,42 @@
     },
     {
       "album": {
+        "name": "Dance Monkey - 10's All Out",
+        "url": "https://open.spotify.com/album/4mLKJKA718bklMVI91jQJq"
+      },
+      "artists": [
+        {
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 244293,
+      "name": "Mountain at My Gates",
+      "url": "https://open.spotify.com/track/7gKVmuXbyweJz2BPKXBECl"
+    },
+    {
+      "album": {
+        "name": "Boom Boom Room (Side A)",
+        "url": "https://open.spotify.com/album/7BVwY2MSyuSq0DctezzVXr"
+      },
+      "artists": [
+        {
+          "name": "Palaye Royale",
+          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244586,
+      "name": "Mr. Doctor Man",
+      "url": "https://open.spotify.com/track/0vI2m662QiemSccfCoN9gR"
+    },
+    {
+      "album": {
         "name": "Boom Boom Room (Side A)",
         "url": "https://open.spotify.com/album/3N9J3rnfoDQmYLHTcRm1VB"
       },
@@ -1021,7 +1237,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 244586,
       "name": "Mr. Doctor Man",
       "url": "https://open.spotify.com/track/1yIMrzF45Ven2FzPFAr0Gg"
@@ -1061,6 +1277,42 @@
       "duration_ms": 205960,
       "name": "Na Na Na (Na Na Na Na Na Na Na Na Na)",
       "url": "https://open.spotify.com/track/5BB0Jzw60KyfSTyjJqtely"
+    },
+    {
+      "album": {
+        "name": "10 Years of Mom+Pop",
+        "url": "https://open.spotify.com/album/2xd8agIjiL0SNqZvkKyv1B"
+      },
+      "artists": [
+        {
+          "name": "Alice Merton",
+          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 235813,
+      "name": "No Roots",
+      "url": "https://open.spotify.com/track/5729UPWFdOy3rCfJP1OOwR"
+    },
+    {
+      "album": {
+        "name": "Mint",
+        "url": "https://open.spotify.com/album/18KUlnsMtCS3W67CLyk0Fp"
+      },
+      "artists": [
+        {
+          "name": "Alice Merton",
+          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235813,
+      "name": "No Roots",
+      "url": "https://open.spotify.com/track/6gqW48WKOxrBEG2KfShI8W"
     },
     {
       "album": {
@@ -1208,6 +1460,24 @@
     },
     {
       "album": {
+        "name": "Car Songs",
+        "url": "https://open.spotify.com/album/2n9seCBtupHlk3m2ruv6A1"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 188000,
+      "name": "Radioactive",
+      "url": "https://open.spotify.com/track/33DPHYA8bJstGIMXkz1lFt"
+    },
+    {
+      "album": {
         "name": "Wonderful Wonderful",
         "url": "https://open.spotify.com/album/72ZfMxLCPG8mlWC0TXfZQi"
       },
@@ -1298,6 +1568,24 @@
     },
     {
       "album": {
+        "name": "Something's Gotta Give",
+        "url": "https://open.spotify.com/album/2c853c6qTRPsbTCdjSOv8L"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 189384,
+      "name": "Something's Gotta Give",
+      "url": "https://open.spotify.com/track/0ezRIpvr6J0OlGgg7pCHYt"
+    },
+    {
+      "album": {
         "name": "Future Hearts",
         "url": "https://open.spotify.com/album/712X8QUI6uWg1JxHmz0l4I"
       },
@@ -1334,6 +1622,24 @@
     },
     {
       "album": {
+        "name": "Broken Machine (Deluxe)",
+        "url": "https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214706,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/6rAXHPd18PZ6W8m9EectzH"
+    },
+    {
+      "album": {
         "name": "Revolution Radio",
         "url": "https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV"
       },
@@ -1363,10 +1669,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 216013,
       "name": "Still into You",
       "url": "https://open.spotify.com/track/1yjY7rpaAQvKwpdUliHx0d"
+    },
+    {
+      "album": {
+        "name": "Paramore (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7J2hXOVq8FZ367dTczV7oH"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216013,
+      "name": "Still into You",
+      "url": "https://open.spotify.com/track/3SXXFIZel1VQQ4ENiqozxi"
     },
     {
       "album": {
@@ -1399,7 +1723,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-03",
+      "date_removed": null,
       "duration_ms": 181216,
       "name": "Summer Is a Curse",
       "url": "https://open.spotify.com/track/5WzgYEfub2pFJAAZfrOult"
@@ -1457,6 +1781,24 @@
       "duration_ms": 194288,
       "name": "T-Shirt Weather",
       "url": "https://open.spotify.com/track/1uNH7kknB8MVkmh6FfDb6W"
+    },
+    {
+      "album": {
+        "name": "Cabin Fever",
+        "url": "https://open.spotify.com/album/5N5q1BjX8YE0hjhBnwJRMq"
+      },
+      "artists": [
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 194288,
+      "name": "T-Shirt Weather",
+      "url": "https://open.spotify.com/track/6l8pPKvto2yAeIc4DXLFlb"
     },
     {
       "album": {
@@ -1568,6 +1910,24 @@
     },
     {
       "album": {
+        "name": "That's The Spirit",
+        "url": "https://open.spotify.com/album/49dRYUEg8iPbeKAYQKp1eA"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 191520,
+      "name": "Throne",
+      "url": "https://open.spotify.com/track/0TLM2RUQxaQpwdaRtl16i6"
+    },
+    {
+      "album": {
         "name": "Brothers (Deluxe Remastered Anniversary Edition)",
         "url": "https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj"
       },
@@ -1597,7 +1957,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 181146,
       "name": "Trip Switch",
       "url": "https://open.spotify.com/track/13QI6bq0U8HMK7gUpAwFBK"
@@ -1727,6 +2087,24 @@
       "duration_ms": 213706,
       "name": "Way down We Go",
       "url": "https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6"
+    },
+    {
+      "album": {
+        "name": "Hypersonic Missiles",
+        "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162600,
+      "name": "Will We Talk?",
+      "url": "https://open.spotify.com/track/5g0HSob4PEq7M8blV6y70i"
     },
     {
       "album": {

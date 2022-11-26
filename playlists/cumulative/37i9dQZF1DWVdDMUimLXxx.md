@@ -4,7 +4,7 @@
 
 > Add dramatic flair to your strategy game.
 
-76 songs - 3 hr 55 min - [published](https://open.spotify.com/playlist/7chXrYGnaDM6wXcboPhu0N)
+77 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/7chXrYGnaDM6wXcboPhu0N)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Papuk](https://open.spotify.com/track/54eSAFrT7YqBxitvqZJIgc) | [Julian Luger](https://open.spotify.com/artist/6PxHwSZFaidQkagrCE3LlA) | [Pool of Thoughts](https://open.spotify.com/album/082ENN7CJl15GNseXv8B2F) | 2:06 | 2022-04-22 |  |
 | [Partners in Crime](https://open.spotify.com/track/0MC5OUFlsS6wn3tuOYLF5I) | [Christoffer Moe Ditlevsen](https://open.spotify.com/artist/1byqtZiN0rWjNg7kXy5j3S) | [Partners in Crime](https://open.spotify.com/album/0ntMgYnq6D9hswNnEwy3PP) | 3:27 | 2022-04-22 |  |
 | [Petricor](https://open.spotify.com/track/4XWqS8UGO5x4ClB2yH0nbW) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur) | [Elements \(Deluxe\)](https://open.spotify.com/album/5jzohQ50TA36qTumAG1rEA) | 6:34 | 2022-07-08 |  |
+| [Petricor](https://open.spotify.com/track/5Hdv2ubFZAp1tWdWamf90B) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur) | [Cinema](https://open.spotify.com/album/2zMtXfGkXIlc3dWXxHmSEX) | 6:35 | 2022-09-16 | 2022-11-13 |
 | [Petricor](https://open.spotify.com/track/33M9AgCbkCRyC97NjJgITh) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [Amsterdam Sinfonietta](https://open.spotify.com/artist/2qx7K1T3gw9J0JTQnaGnBD) | [Elements \(Deluxe Edition\)](https://open.spotify.com/album/1lJ0A9ZCqs83Rrp1YIpZgT) | 6:34 | 2022-04-22 | 2022-07-29 |
 | [Prescient](https://open.spotify.com/track/6QjRTaRBhYM6odBtNT0vP8) | [Howard Harper\-Barnes](https://open.spotify.com/artist/447ceX8wMVdX94yevKZFDe) | [The Light from Within](https://open.spotify.com/album/5DeBurv4zuboaQM1uqDgYK) | 2:48 | 2022-04-22 |  |
 | [Progressive Progress](https://open.spotify.com/track/6Marmee2WT50icMbZP31EU) | [Howard Harper\-Barnes](https://open.spotify.com/artist/447ceX8wMVdX94yevKZFDe) | [The Light from Within](https://open.spotify.com/album/5DeBurv4zuboaQM1uqDgYK) | 2:30 | 2022-04-22 |  |

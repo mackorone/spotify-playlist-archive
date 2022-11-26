@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82z3m3RyeLu.md) - [plain]
 
 > Listen BAEKHYUN's all solo tracks here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,035 likes - 38 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,657 likes - 38 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82z3m3RyeLu.md) - [plain]
 | 16 | [Ghost](https://open.spotify.com/track/4pulHxja8nTUiojRtfwgTv) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Delight \- The 2nd Mini Album](https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc) | 3:24 |
 | 17 | [Love Again](https://open.spotify.com/track/4dYODiAYvJHWQJtNganYCY) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Delight \- The 2nd Mini Album](https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc) | 3:25 |
 | 18 | [The Day](https://open.spotify.com/track/3MNJzWgUmu0X9tQxRuww8N) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl), [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [The Day \- SM STATION](https://open.spotify.com/album/5i0PmE4iiLVoQX8xc4UOJP) | 3:50 |
-| 19 | [happy](https://open.spotify.com/track/0D9AvynVM5S1cbNgOl06l8) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Do You Like Brahms? OST Part.11](https://open.spotify.com/album/6Qz4OdgSKxM7Rq0ds2g9EJ) | 3:52 |
+| 19 | [happy](https://open.spotify.com/track/42vjv9XG4joOCBajzAFRaN) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [브람스를 좋아하세요? \(Original Television Soundtrack\) Pt\. 11](https://open.spotify.com/album/1Fq3Vz0CDiKw2tMBPetQxR) | 3:52 |
 | 20 | [Every second](https://open.spotify.com/track/1k555u88NiaBJH6AWlf5rA) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Record of Youth \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/1l3oUdtu9GYbNzSFgPW8p1) | 3:32 |
 | 21 | [너에게 가는 이 길 위에서 \(너.이.길\)](https://open.spotify.com/track/6NyEYh3xw55B8d5WK5kSrf) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [HYENA \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/5PUCfHi8hSo2wrH2W79Kbs) | 3:58 |
 | 22 | [너를 사랑하고 있어](https://open.spotify.com/track/2KhNgn4w8LHxn3ybLoofh4) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [낭만닥터 김사부 2 \(Original Television Soundtrack\) Pt.1](https://open.spotify.com/album/1nuRFmSFwmnh9AVxvfgLJT) | 3:13 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82z3m3RyeLu.md) - [plain]
 | 33 | [For You](https://open.spotify.com/track/7rLvsAO1yb7ElxPhkz60qh) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl), [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6) | [Moonlovers \- Scarlet Heart Ryeo \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/6Ws1NetwWwXXK50IrNvs7R) | 3:16 |
 | 34 | [Every second](https://open.spotify.com/track/50eMP4iy5qLxcK7mHalDZw) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Record of Youth \(Original Television Soundtrack\)](https://open.spotify.com/album/7MmdJZrkNew5jymkmAOTq4) | 3:32 |
 | 35 | [너를 사랑하고 있어](https://open.spotify.com/track/2KhNgn4w8LHxn3ybLoofh4) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [낭만닥터 김사부 2 \(Original Television Soundtrack\) Pt.1](https://open.spotify.com/album/1nuRFmSFwmnh9AVxvfgLJT) | 3:13 |
-| 36 | [happy](https://open.spotify.com/track/4ktpGEOe6hPwlowhoOU6IN) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Do You Like Brahms? OST](https://open.spotify.com/album/2foGQCPi7r51K42QsxTbYq) | 3:52 |
+| 36 | [happy](https://open.spotify.com/track/42vjv9XG4joOCBajzAFRaN) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [브람스를 좋아하세요? \(Original Television Soundtrack\) Pt\. 11](https://open.spotify.com/album/1Fq3Vz0CDiKw2tMBPetQxR) | 3:52 |
 | 37 | [비처럼 음악처럼](https://open.spotify.com/track/28XlJkvSn8Dq99UkThmoeQ) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [2015 가요대전 Limited Edition](https://open.spotify.com/album/5QxeSMFLJ70kPLHzRiL2Nx) | 3:01 |
 | 38 | [On the road](https://open.spotify.com/track/0i5rdCbqhk6Iao4bwI4B9J) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [HYENA \(Original Television Soundtrack\)](https://open.spotify.com/album/1ps9C9hsH6eT2W46d9r68D) | 3:58 |
 
-Snapshot ID: `MTYxNzA5NDg2MCwwMDAwMDAwMDdiZTBkODQ0YzNhODJkYzI2NWZkOWJjY2EzMWU5ODhm`
+Snapshot ID: `MTYxNzA5NDg2MCwwMDAwMDAwMDZkZjkzZWE4ZmU0MWNmNWQ5NzhkODBlNDZjMDQ2ZTEx`

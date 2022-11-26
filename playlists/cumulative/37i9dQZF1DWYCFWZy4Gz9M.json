@@ -263,7 +263,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 179640,
       "name": "Bambala",
       "url": "https://open.spotify.com/track/1qTqSAyzkJwo1rIGOowx9x"
@@ -457,7 +457,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-04",
+      "date_removed": null,
       "duration_ms": 569226,
       "name": "Bilaji",
       "url": "https://open.spotify.com/track/6Ozohbpy5mYF0pX8HxfIxv"
@@ -1211,10 +1211,28 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 530803,
       "name": "Shaba Kouria",
       "url": "https://open.spotify.com/track/0eLQZtoejBfpa6H7iiWo6i"
+    },
+    {
+      "album": {
+        "name": "Colours of the Night",
+        "url": "https://open.spotify.com/album/73B5ghcGOwmrl3J3Yw2mxA"
+      },
+      "artists": [
+        {
+          "name": "Mahmoud Guinia",
+          "url": "https://open.spotify.com/artist/0pvLXdsgWnpJClomaQ41JQ"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 530803,
+      "name": "Shaba Kouria",
+      "url": "https://open.spotify.com/track/6tghScpQTCpuhlhkrVztdO"
     },
     {
       "album": {

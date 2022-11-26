@@ -170,6 +170,24 @@
     },
     {
       "album": {
+        "name": "At Day's End/Small Hours",
+        "url": "https://open.spotify.com/album/1lfOwDCvWL6rorNWNbtfoY"
+      },
+      "artists": [
+        {
+          "name": "Haruhisa Tanaka",
+          "url": "https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "At Day's End",
+      "url": "https://open.spotify.com/track/3Jt5IZqpG4VeV2LpFRhj5O"
+    },
+    {
+      "album": {
         "name": "Canadian Love Letters",
         "url": "https://open.spotify.com/album/5MqeWE0BF5TkOjr4YHRRcr"
       },
@@ -225,6 +243,42 @@
     {
       "album": {
         "name": "Blue Drizzling",
+        "url": "https://open.spotify.com/album/5Jsb727GVJfMCuvQKaMOGO"
+      },
+      "artists": [
+        {
+          "name": "Nami Sato",
+          "url": "https://open.spotify.com/artist/6e9uRUfWhvz2P3fI8EZGOb"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 496813,
+      "name": "Blue Drizzling",
+      "url": "https://open.spotify.com/track/2sMjaKpPoNabmStJizd2hw"
+    },
+    {
+      "album": {
+        "name": "World Sketch Monologue",
+        "url": "https://open.spotify.com/album/5n9ur47UO8zWyuhRo6zaj7"
+      },
+      "artists": [
+        {
+          "name": "Nami Sato",
+          "url": "https://open.spotify.com/artist/6e9uRUfWhvz2P3fI8EZGOb"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 496813,
+      "name": "Blue Drizzling",
+      "url": "https://open.spotify.com/track/3tePjDdzSunNH67I2dXY5F"
+    },
+    {
+      "album": {
+        "name": "Blue Drizzling",
         "url": "https://open.spotify.com/album/7sRW4vIDLZKM4p74RnV88Z"
       },
       "artists": [
@@ -235,7 +289,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 496813,
       "name": "Blue Drizzling",
       "url": "https://open.spotify.com/track/49FxWH10zFICH8HPAuNtsY"
@@ -275,6 +329,28 @@
       "duration_ms": 163426,
       "name": "Breaking Dawn",
       "url": "https://open.spotify.com/track/7axrDVwVVxAHolvnddXG71"
+    },
+    {
+      "album": {
+        "name": "\uc794\ubb3c\uacb0 (janmulgyeol)",
+        "url": "https://open.spotify.com/album/1jIKfpjeGejpLvmkQFId1i"
+      },
+      "artists": [
+        {
+          "name": "P3PPER",
+          "url": "https://open.spotify.com/artist/0iq9s28aS7Tzobq9Yznwnj"
+        },
+        {
+          "name": "Milkoi",
+          "url": "https://open.spotify.com/artist/1k5UEOU4igPC0NoHjEekha"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194204,
+      "name": "Brook",
+      "url": "https://open.spotify.com/track/3QiwoxBNSq5Cpn0pgCCq2H"
     },
     {
       "album": {
@@ -563,10 +639,28 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 312749,
       "name": "flow",
       "url": "https://open.spotify.com/track/4PfX6YNf0Mw9iDf9CCaPK6"
+    },
+    {
+      "album": {
+        "name": "Yolo",
+        "url": "https://open.spotify.com/album/3PRhSzJAtheNUhYNFJ6gKL"
+      },
+      "artists": [
+        {
+          "name": "Tetsu Inoue",
+          "url": "https://open.spotify.com/artist/48xy52hexfHntZtDNtIoNy"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312749,
+      "name": "flow",
+      "url": "https://open.spotify.com/track/6a5wu7YrwPzhPFbVvHE01G"
     },
     {
       "album": {
@@ -887,10 +981,28 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 355555,
       "name": "K\u00f6rper",
       "url": "https://open.spotify.com/track/22FN9G9qwPwABohAaYzcAg"
+    },
+    {
+      "album": {
+        "name": "Raum",
+        "url": "https://open.spotify.com/album/1CPBp6tHWeEUM87bEBCpxS"
+      },
+      "artists": [
+        {
+          "name": "H.Takahashi",
+          "url": "https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355555,
+      "name": "K\u00f6rper",
+      "url": "https://open.spotify.com/track/5LoatYCsraVXB08X6bhpzO"
     },
     {
       "album": {
@@ -1301,10 +1413,28 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 470094,
       "name": "Pollen",
       "url": "https://open.spotify.com/track/1jcyEOv0oyOGxI7pvVmKzp"
+    },
+    {
+      "album": {
+        "name": "Sonne und Wasser",
+        "url": "https://open.spotify.com/album/7fNiI99gYGhMzn3HAqQ2le"
+      },
+      "artists": [
+        {
+          "name": "H.Takahashi",
+          "url": "https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 470094,
+      "name": "Pollen",
+      "url": "https://open.spotify.com/track/78SrgFOU9fDxx4gOWc1ypx"
     },
     {
       "album": {
@@ -1442,6 +1572,24 @@
     },
     {
       "album": {
+        "name": "Signal",
+        "url": "https://open.spotify.com/album/6Hyis4NZ5UUXohlXaB2ia6"
+      },
+      "artists": [
+        {
+          "name": "Koshun Nakao",
+          "url": "https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244800,
+      "name": "Signal",
+      "url": "https://open.spotify.com/track/5CcPj0blox3jKcKagc3ljI"
+    },
+    {
+      "album": {
         "name": "Holy",
         "url": "https://open.spotify.com/album/1lfZhvhyyBiKOctE1lKVMY"
       },
@@ -1514,6 +1662,24 @@
     },
     {
       "album": {
+        "name": "At Day's End/Small Hours",
+        "url": "https://open.spotify.com/album/1lfOwDCvWL6rorNWNbtfoY"
+      },
+      "artists": [
+        {
+          "name": "Haruhisa Tanaka",
+          "url": "https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207173,
+      "name": "Small Hours",
+      "url": "https://open.spotify.com/track/79T8Mwqagb44Amwk7xgNW4"
+    },
+    {
+      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/29uYtZzhSRS2aaVVefeStL"
       },
@@ -1550,6 +1716,42 @@
     },
     {
       "album": {
+        "name": "Snow",
+        "url": "https://open.spotify.com/album/6tVa2yj1F0i9sDi52q0dkU"
+      },
+      "artists": [
+        {
+          "name": "Otomizu",
+          "url": "https://open.spotify.com/artist/0dMku1KNzCNGOIgZCsZhYT"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 187636,
+      "name": "Snow",
+      "url": "https://open.spotify.com/track/61IWRP0FihTO66yaJhDFnh"
+    },
+    {
+      "album": {
+        "name": "Yolo",
+        "url": "https://open.spotify.com/album/3PRhSzJAtheNUhYNFJ6gKL"
+      },
+      "artists": [
+        {
+          "name": "Tetsu Inoue",
+          "url": "https://open.spotify.com/artist/48xy52hexfHntZtDNtIoNy"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156084,
+      "name": "sour cloud",
+      "url": "https://open.spotify.com/track/1U719Rddu9fOErpdmtfLBV"
+    },
+    {
+      "album": {
         "name": "Yolo",
         "url": "https://open.spotify.com/album/1Vuv5R0WLEsksBxRZW7kyb"
       },
@@ -1561,7 +1763,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 156084,
       "name": "sour cloud",
       "url": "https://open.spotify.com/track/4UlHvguF9t6KpdCXq24qEP"
@@ -1619,6 +1821,42 @@
       "duration_ms": 312272,
       "name": "The buzz of the forest",
       "url": "https://open.spotify.com/track/7INHRFTJ8ZrXjomdjYjadN"
+    },
+    {
+      "album": {
+        "name": "Healing music for Deep sleep",
+        "url": "https://open.spotify.com/album/2GRhflYTCsUmzrCvvReaXU"
+      },
+      "artists": [
+        {
+          "name": "CROIX HEALING",
+          "url": "https://open.spotify.com/artist/39HJmpxQWml7ofyV5jxluG"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 307882,
+      "name": "The buzz of the forest - Remaster",
+      "url": "https://open.spotify.com/track/42a6hlKyKTHf9bqtP9C3kg"
+    },
+    {
+      "album": {
+        "name": "The Goldfish",
+        "url": "https://open.spotify.com/album/1lVOLpPJ69jxkeKcnQKaT7"
+      },
+      "artists": [
+        {
+          "name": "kita kouhei",
+          "url": "https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285600,
+      "name": "The Goldfish",
+      "url": "https://open.spotify.com/track/4ctQ2nQO1IqWsTE0tpXzWX"
     },
     {
       "album": {
@@ -1878,6 +2116,28 @@
     },
     {
       "album": {
+        "name": "Unexpected",
+        "url": "https://open.spotify.com/album/3T1YzxxMKpRbyGmmJhJw52"
+      },
+      "artists": [
+        {
+          "name": "Kazuma Okabayashi",
+          "url": "https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa"
+        },
+        {
+          "name": "Genfukei",
+          "url": "https://open.spotify.com/artist/4e2us7hvY13KNElojgrW0Y"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Unexpected",
+      "url": "https://open.spotify.com/track/4dEaEf5BHeVegBLSjDxz6s"
+    },
+    {
+      "album": {
         "name": "Uprise",
         "url": "https://open.spotify.com/album/4KZAgayKyBYJaD4ZQ9cxH2"
       },
@@ -1893,6 +2153,28 @@
       "duration_ms": 495583,
       "name": "Uprise",
       "url": "https://open.spotify.com/track/6Irafr3hWhoQOgWkNUQXIr"
+    },
+    {
+      "album": {
+        "name": "\uc794\ubb3c\uacb0 (janmulgyeol)",
+        "url": "https://open.spotify.com/album/1jIKfpjeGejpLvmkQFId1i"
+      },
+      "artists": [
+        {
+          "name": "P3PPER",
+          "url": "https://open.spotify.com/artist/0iq9s28aS7Tzobq9Yznwnj"
+        },
+        {
+          "name": "Milkoi",
+          "url": "https://open.spotify.com/artist/1k5UEOU4igPC0NoHjEekha"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186562,
+      "name": "Veil",
+      "url": "https://open.spotify.com/track/59fyg6qoudEnDdbZFTnifW"
     },
     {
       "album": {

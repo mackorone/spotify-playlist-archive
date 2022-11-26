@@ -117,7 +117,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 260218,
       "name": "All Night",
       "url": "https://open.spotify.com/track/0T0xi59ZujZejjm1jMJW71"
@@ -244,6 +244,28 @@
     },
     {
       "album": {
+        "name": "Blckdrss (Wann Remix)",
+        "url": "https://open.spotify.com/album/00paMSsFcxDvWGYJeABk0g"
+      },
+      "artists": [
+        {
+          "name": "Ruben Anthony",
+          "url": "https://open.spotify.com/artist/3k3iJjCQ4pq301YFvPS3iF"
+        },
+        {
+          "name": "WANN",
+          "url": "https://open.spotify.com/artist/2x98SUBoz7bmcSOuT9HfxU"
+        }
+      ],
+      "date_added": "2022-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213391,
+      "name": "Blckdrss (Wann Remix)",
+      "url": "https://open.spotify.com/track/6GaMRFAqCQ9aRBbpuJEEKU"
+    },
+    {
+      "album": {
         "name": "Blue Essay",
         "url": "https://open.spotify.com/album/5CeAYLrZSYs57HRvNYhkxk"
       },
@@ -339,7 +361,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 485006,
       "name": "Blues On",
       "url": "https://open.spotify.com/track/3DEU62sc5nQrgunfkT6Tck"
@@ -546,6 +568,42 @@
     },
     {
       "album": {
+        "name": "The Island",
+        "url": "https://open.spotify.com/album/7Lq4U7ZWU1Xm7u9OKoHKU9"
+      },
+      "artists": [
+        {
+          "name": "Godblesscomputers",
+          "url": "https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247933,
+      "name": "Float",
+      "url": "https://open.spotify.com/track/2U6OKVqexxZKLwQe7purlV"
+    },
+    {
+      "album": {
+        "name": "Float",
+        "url": "https://open.spotify.com/album/0VT6v6yIjICbZRsqJJ9LLO"
+      },
+      "artists": [
+        {
+          "name": "Godblesscomputers",
+          "url": "https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 247933,
+      "name": "Float",
+      "url": "https://open.spotify.com/track/7mj2TROxaQSpRH1IKaTeMO"
+    },
+    {
+      "album": {
         "name": "Float",
         "url": "https://open.spotify.com/album/7wNrgLd06nnEGKmN41nXYI"
       },
@@ -557,7 +615,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 247933,
       "name": "Float",
       "url": "https://open.spotify.com/track/7omCw0COR7xdEqGdAo15Qs"
@@ -829,10 +887,54 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 466398,
       "name": "Keep Me Satisfied",
       "url": "https://open.spotify.com/track/47uHKBfsct67tjtU4cXn8o"
+    },
+    {
+      "album": {
+        "name": "Cosmic Breeze 003",
+        "url": "https://open.spotify.com/album/7j6WWLDq1XvZX4LJmhwlYq"
+      },
+      "artists": [
+        {
+          "name": "Toolate Groove",
+          "url": "https://open.spotify.com/artist/2ztp3GKsaGp6ZWLzs12OEN"
+        },
+        {
+          "name": "Reda",
+          "url": "https://open.spotify.com/artist/73gK6cuWHbh5kUPwvKd4im"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-19",
+      "duration_ms": 466398,
+      "name": "Keep Me Satisfied",
+      "url": "https://open.spotify.com/track/4YNHbvr4RfxsAWXIwSxyYs"
+    },
+    {
+      "album": {
+        "name": "Ltdblbl008",
+        "url": "https://open.spotify.com/album/7rAE32SE0JvYkrHHS3CpQ9"
+      },
+      "artists": [
+        {
+          "name": "Retromigration",
+          "url": "https://open.spotify.com/artist/52A6LhXGESSKtx5TIa2Kar"
+        },
+        {
+          "name": "Nephews",
+          "url": "https://open.spotify.com/artist/34Ky5XufX81eJrO9vYjbXQ"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396501,
+      "name": "Kindness",
+      "url": "https://open.spotify.com/track/0DYlUhlu0vXWpAE13TojzN"
     },
     {
       "album": {
@@ -851,7 +953,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 396501,
       "name": "Kindness",
       "url": "https://open.spotify.com/track/5AkRnos2tu8HKPX7ES0ohJ"
@@ -939,7 +1041,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 224400,
       "name": "Looking Up",
       "url": "https://open.spotify.com/track/46qdT0wtTVMsPvpQnqdzPN"
@@ -1081,7 +1183,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 131764,
       "name": "Midnight - Ambient Edit",
       "url": "https://open.spotify.com/track/6zWkS1HDW9k91fSvYsBheY"
@@ -1106,6 +1208,24 @@
     },
     {
       "album": {
+        "name": "Mr. Magic",
+        "url": "https://open.spotify.com/album/3ThYrWOxW8L6qdwwMBZBtk"
+      },
+      "artists": [
+        {
+          "name": "Baka G",
+          "url": "https://open.spotify.com/artist/7CfH9Pe1z2V3OuUCIH9ru4"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345534,
+      "name": "Mr. Magic",
+      "url": "https://open.spotify.com/track/0dSoodH9dHclkP2kMec21H"
+    },
+    {
+      "album": {
         "name": "No Color (Reimagined)",
         "url": "https://open.spotify.com/album/1uDWCY3t0JATslapdFavnK"
       },
@@ -1121,7 +1241,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": "2022-11-08",
       "duration_ms": 179969,
       "name": "No Color (Reimagined)",
       "url": "https://open.spotify.com/track/3j7JyIQECpvg3UB6LAwu4m"
@@ -1263,7 +1383,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 399788,
       "name": "One 4 the Dreamers",
       "url": "https://open.spotify.com/track/2TXzAr3G4t3Ojh8udkFDiW"
@@ -1321,6 +1441,24 @@
       "duration_ms": 268474,
       "name": "Parrot Fever",
       "url": "https://open.spotify.com/track/1oFLxZDxOVThs5gjWIFlrN"
+    },
+    {
+      "album": {
+        "name": "Lo-Fi Beats: House",
+        "url": "https://open.spotify.com/album/3lHhEDBnztBWcFrZ5v6gUO"
+      },
+      "artists": [
+        {
+          "name": "Kazam",
+          "url": "https://open.spotify.com/artist/5DjLsaAyJZ1jFz1azbJ0ha"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 268474,
+      "name": "Parrot Fever",
+      "url": "https://open.spotify.com/track/2wqaCHxbJ4HVQzGcQQMwKE"
     },
     {
       "album": {
@@ -1485,7 +1623,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 221564,
       "name": "Riviera",
       "url": "https://open.spotify.com/track/2OahtOhFTTHkq7111ZmGYi"
@@ -1503,7 +1641,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 439626,
       "name": "Schijn",
       "url": "https://open.spotify.com/track/0BqIlgXl5N353o0wXseQkp"
@@ -1586,6 +1724,28 @@
     },
     {
       "album": {
+        "name": "So High (Ron Carroll Late Nite Tweak Dub)",
+        "url": "https://open.spotify.com/album/7egfMkINOCQyCl55FCAkDn"
+      },
+      "artists": [
+        {
+          "name": "Gregor Salto",
+          "url": "https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew"
+        },
+        {
+          "name": "Ron Carroll",
+          "url": "https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-08",
+      "duration_ms": 314271,
+      "name": "So High - Ron Carroll Late Nite Tweak Dub",
+      "url": "https://open.spotify.com/track/70z3t4iKWlXnqxpYYKlWjJ"
+    },
+    {
+      "album": {
         "name": "Socorro & J\u00fcpiter",
         "url": "https://open.spotify.com/album/67qEFDPztO2MNCmuDtwp84"
       },
@@ -1601,6 +1761,24 @@
       "duration_ms": 415527,
       "name": "Socorro & J\u00fcpiter",
       "url": "https://open.spotify.com/track/4RNDmizeTDGJVqbX4nKSM1"
+    },
+    {
+      "album": {
+        "name": "Someday",
+        "url": "https://open.spotify.com/album/6dR05ScZ3MY5FUaURLYLt1"
+      },
+      "artists": [
+        {
+          "name": "Aydin Genchsoy",
+          "url": "https://open.spotify.com/artist/0or5imSn4LjbK0dBtmYyVK"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/1wiX35MJoiLaMrFx2Peg5O"
     },
     {
       "album": {
@@ -1736,6 +1914,24 @@
     },
     {
       "album": {
+        "name": "Tell Me Who I Am",
+        "url": "https://open.spotify.com/album/0CWxAlJ9ov32aFcMZJJjn7"
+      },
+      "artists": [
+        {
+          "name": "Mike D' Jais",
+          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217948,
+      "name": "Tell Me Who I Am",
+      "url": "https://open.spotify.com/track/1OtO771VNXXuuijjFU0mbr"
+    },
+    {
+      "album": {
         "name": "Tempranillo",
         "url": "https://open.spotify.com/album/2wJKMd7MSk2KB3JmlYfc4J"
       },
@@ -1747,10 +1943,28 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 377060,
       "name": "Tempranillo",
       "url": "https://open.spotify.com/track/48KcLnGPfXDikD5Snv7q16"
+    },
+    {
+      "album": {
+        "name": "Caf\u00e9 del Mar Chillhouse Mix XI (DJ Mix)",
+        "url": "https://open.spotify.com/album/3Xgc8kJPLq8Ck7a1BULNjf"
+      },
+      "artists": [
+        {
+          "name": "Allen French",
+          "url": "https://open.spotify.com/artist/7IMSmMHDPpZL0ZjOr8ssOj"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 246580,
+      "name": "The Whistle Song - House Kitsun\u00e9 America",
+      "url": "https://open.spotify.com/track/7ENAbf0QGKnXWTy6gddq0G"
     },
     {
       "album": {
@@ -1907,7 +2121,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 194440,
       "name": "twenty eight",
       "url": "https://open.spotify.com/track/2bBtXBTYsEkJnyNg8dtvrc"
@@ -1929,7 +2143,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 231920,
       "name": "Uncrazy",
       "url": "https://open.spotify.com/track/6IW8l6Uq0232scKqo1rLeR"

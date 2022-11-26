@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcRZAcc2QFU.md) - [plain]
 
 > ‘90s melodies that hit the right spot! Cover: Udit Narayan
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,032 likes - 50 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,198 likes - 50 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcRZAcc2QFU.md) - [plain]
 | 19 | [Deewana Main Chala](https://open.spotify.com/track/025Y9d4a1rtJcfB8XInzRc) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Pyaar Kiya To Darna Kya](https://open.spotify.com/album/1qvXEHskZGV4XZVBFd7lFP) | 5:30 |
 | 20 | [Shahar Ki Ladki](https://open.spotify.com/track/2WmGFoIng0Wdx6XXJGucBc) | [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj), [Chandra Dixit](https://open.spotify.com/artist/7yO17B2aZWbkuTh5kpgee4) | [Rakshak](https://open.spotify.com/album/1WR6LNez0oAfwd0oPowVcq) | 5:53 |
 | 21 | [Ye Kaali Kaali Aankhen](https://open.spotify.com/track/0kGackDOW4tY8WZrUtQDHG) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Anu Malik](https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00) | [Baazigar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm) | 7:48 |
-| 22 | [Kagaz Kalam Davaat](https://open.spotify.com/track/6vWo9DUKqQv87oh8r3B141) | [Mohammed Aziz](https://open.spotify.com/artist/3vXBH4XwXSLM1YIrRBt98k), [Shobha Joshi](https://open.spotify.com/artist/6YlyaZCgCOH4EpUgMeY8ZP) | [Hum \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7l8A4AdQy1pjkRmW78IEMF) | 6:07 |
+| 22 | [Kagaz Kalam Davaat](https://open.spotify.com/track/6vWo9DUKqQv87oh8r3B141) | [Mohammed Aziz](https://open.spotify.com/artist/3vXBH4XwXSLM1YIrRBt98k), [Shobha Joshi](https://open.spotify.com/artist/0arll9CtoKDxVRfMz1S1Sd) | [Hum \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7l8A4AdQy1pjkRmW78IEMF) | 6:07 |
 | 23 | [Oonchi Hai Building](https://open.spotify.com/track/5rQLRMzIHjhjD0vtsEA5Ge) | [Poornima](https://open.spotify.com/artist/6lpXKoHUzxZc5PwyS6cu4C), [Anu Malik](https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00) | [Judwaa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5zFiPUXuvWvj01BpwH3Vi2) | 5:11 |
 | 24 | [Didi Tera Devar Deewana \(From "Hum Aapke Hain Koun"\)](https://open.spotify.com/track/5lnxK8H9ccEkliW73ksgW0) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8) | [Diamonds Forever \- Lata Mangeshkar](https://open.spotify.com/album/7cmbUR0oPLKzrP6j6303Ad) | 8:05 |
 | 25 | [Chandi Ki Daal Par](https://open.spotify.com/track/6oHNgSch467ChjJwSMlIsw) | [Salman Khan](https://open.spotify.com/artist/68ePdYvtRgq9CiPzv6fapI), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Hello Brother \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0BkkwJ8uGVGTP47Sg2HXhN) | 6:07 |

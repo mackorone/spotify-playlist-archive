@@ -66,6 +66,24 @@
     },
     {
       "album": {
+        "name": "Feelgood Klassiker",
+        "url": "https://open.spotify.com/album/3E4WGUFoaa08YekZx2sNR9"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 128785,
+      "name": "(What A) Wonderful World - Mono",
+      "url": "https://open.spotify.com/track/7K99Vc7CcTIHI0C1VISKS0"
+    },
+    {
+      "album": {
         "name": "The Best Of The Decca Years Volume One: The Singer",
         "url": "https://open.spotify.com/album/1Xa31VhfS5VtLsQ1LLa39k"
       },
@@ -185,7 +203,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": "2022-11-12",
       "duration_ms": 301320,
       "name": "A Time For Love",
       "url": "https://open.spotify.com/track/0Oho1Elt6nNyiHZyZR8OaG"
@@ -225,7 +243,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": "2022-11-13",
       "duration_ms": 174373,
       "name": "After Hours",
       "url": "https://open.spotify.com/track/7HTv5iPtAdyES2QRbZn8Lt"
@@ -528,6 +546,24 @@
     },
     {
       "album": {
+        "name": "Love Songs From The 60's",
+        "url": "https://open.spotify.com/album/7k5rHilcFOYXOyji6NzPfJ"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 182533,
+      "name": "At Last",
+      "url": "https://open.spotify.com/track/3f8V9qPxrPZozXlwnRdsFb"
+    },
+    {
+      "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/2pBhXw3Hi1hBf8FpAtE101"
       },
@@ -561,6 +597,24 @@
       "duration_ms": 210693,
       "name": "Baby I'm A Fool",
       "url": "https://open.spotify.com/track/3XZN4wXwG2o0OadHWExzPr"
+    },
+    {
+      "album": {
+        "name": "\u7235\u7f8e\u5973\u8072 Jazz Diva",
+        "url": "https://open.spotify.com/album/4dlVOuJbPT0NazbwAvc5pn"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 210693,
+      "name": "Baby I'm A Fool",
+      "url": "https://open.spotify.com/track/6zNwOt5hcU4siu94ylXxJ3"
     },
     {
       "album": {
@@ -665,7 +719,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 185186,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/3Pi8eMeDLEUMH729CyQMP9"
@@ -777,7 +831,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 190160,
       "name": "Don't Sit Under The Apple Tree (With Anyone Else But Me)",
       "url": "https://open.spotify.com/track/2yH6SQ70OdjDKrtxcunVZp"
@@ -853,10 +907,32 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": null,
       "duration_ms": 195626,
       "name": "Dream A Little Dream Of Me - 1998 Remaster",
       "url": "https://open.spotify.com/track/50zTR9gR9NGol94nv0rZXf"
+    },
+    {
+      "album": {
+        "name": "pov: ur the main character",
+        "url": "https://open.spotify.com/album/1Akd6N20A4tOzelzqwprlb"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 187693,
+      "name": "Dream A Little Dream Of Me - Single Version",
+      "url": "https://open.spotify.com/track/2AJLubYVpLPeqnelHslNPK"
     },
     {
       "album": {
@@ -1185,7 +1261,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": "2022-11-13",
       "duration_ms": 165800,
       "name": "I Let a Song Go out of My Heart",
       "url": "https://open.spotify.com/track/1DgQyMa4f1myDWa21BwgVq"
@@ -1261,7 +1337,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 132466,
       "name": "I've Got The World On A String",
       "url": "https://open.spotify.com/track/2bksvLO7cIYbVxe6HcSS8Q"
@@ -1413,7 +1489,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": "2022-11-13",
       "duration_ms": 354493,
       "name": "Jim",
       "url": "https://open.spotify.com/track/1cxBehMLI8smC0EAx0I0Ut"
@@ -1673,7 +1749,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": "2022-11-13",
       "duration_ms": 162360,
       "name": "Love Is Here To Stay - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4ehAqz41dlWdLbBBIubIla"
@@ -1691,7 +1767,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": "2022-11-13",
       "duration_ms": 275576,
       "name": "Luck Be A Lady",
       "url": "https://open.spotify.com/track/6WAoKqfh8CAqTbjiLkM4q1"
@@ -1709,7 +1785,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 184333,
       "name": "Mack the Knife",
       "url": "https://open.spotify.com/track/3E5ndyOfO6vFDEIE42HA8o"
@@ -1731,6 +1807,24 @@
       "duration_ms": 170626,
       "name": "Mad About The Boy",
       "url": "https://open.spotify.com/track/4eByri8JfhjBK25aCnwSNF"
+    },
+    {
+      "album": {
+        "name": "The Fabulous Miss D! The Keynote, Decca And Mercury Singles 1943-1953",
+        "url": "https://open.spotify.com/album/19hwtbpzGfEQ95lQsU9qjM"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 178920,
+      "name": "Mad About The Boy",
+      "url": "https://open.spotify.com/track/6XYpbdGZ4GLecalJnVrwVW"
     },
     {
       "album": {
@@ -1763,10 +1857,28 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 179373,
       "name": "Misty",
       "url": "https://open.spotify.com/track/7gHFBNy0Qn86xGKJ9OdFTw"
+    },
+    {
+      "album": {
+        "name": "Vaughan And Violins",
+        "url": "https://open.spotify.com/album/2AF2R3VOH6dSunwgKXdnHl"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182640,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/1f0Wfl3eLCLKv72SdkpviC"
     },
     {
       "album": {
@@ -2196,6 +2308,24 @@
     },
     {
       "album": {
+        "name": "The Greatest Love Songs",
+        "url": "https://open.spotify.com/album/0PwJ5ErU4UIdNOMXX6LNgL"
+      },
+      "artists": [
+        {
+          "name": "Elvis Costello",
+          "url": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 186266,
+      "name": "She",
+      "url": "https://open.spotify.com/track/2FS5w8ubWSHzwyNN1R3MgV"
+    },
+    {
+      "album": {
         "name": "Notting Hill",
         "url": "https://open.spotify.com/album/6PcgVPzMx4kr63zEgPb505"
       },
@@ -2391,7 +2521,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-28",
+      "date_removed": "2022-11-13",
       "duration_ms": 199240,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/33rhFjtqI16a5Q0qI4VHaO"
@@ -2431,6 +2561,24 @@
       "duration_ms": 187666,
       "name": "Stormy Weather",
       "url": "https://open.spotify.com/track/2IdwQxhJn9ZE4zIotcCefR"
+    },
+    {
+      "album": {
+        "name": "Jazz Cafe",
+        "url": "https://open.spotify.com/album/25XD5giGFuOxixhsipiXLe"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 187773,
+      "name": "Stormy Weather",
+      "url": "https://open.spotify.com/track/0tzSCa11JIg9ZhaKrwck91"
     },
     {
       "album": {
@@ -2561,6 +2709,28 @@
       "duration_ms": 198493,
       "name": "Taking a Chance on Love",
       "url": "https://open.spotify.com/track/1ahnyRMBhh9H9d8v8JIyYF"
+    },
+    {
+      "album": {
+        "name": "Count Basie Swings - Joe Williams Sings",
+        "url": "https://open.spotify.com/album/4ZNICkebqBbvXNZmBTUcq5"
+      },
+      "artists": [
+        {
+          "name": "Joe Williams",
+          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
+        },
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 181933,
+      "name": "Teach Me Tonight",
+      "url": "https://open.spotify.com/track/1pDC3iEuDRNedRODlsNUAi"
     },
     {
       "album": {
@@ -2720,6 +2890,24 @@
     },
     {
       "album": {
+        "name": "All Time Jazz",
+        "url": "https://open.spotify.com/album/4zNqy339ADVfnF3Sy7hr8C"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 285264,
+      "name": "The Look Of Love",
+      "url": "https://open.spotify.com/track/29VbNRAMAVSSbMWtsQB4Wr"
+    },
+    {
+      "album": {
         "name": "Unforgettable: With Love",
         "url": "https://open.spotify.com/album/4ilUfGGQXin7hr1srDDXF0"
       },
@@ -2803,7 +2991,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": null,
       "duration_ms": 208133,
       "name": "There's A Lull In My Life",
       "url": "https://open.spotify.com/track/4Op0c1VSCGMsGX47Mh8wj8"
@@ -2897,6 +3085,24 @@
       "duration_ms": 154800,
       "name": "Turn Me On",
       "url": "https://open.spotify.com/track/1qzHqfvKrZWo6dVHM1dXrj"
+    },
+    {
+      "album": {
+        "name": "Sunrise Music 2020",
+        "url": "https://open.spotify.com/album/3MRWqWJIMs9ySiM909xwpQ"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 154800,
+      "name": "Turn Me On",
+      "url": "https://open.spotify.com/track/1ujrk4yPeKyJ3OxNLht8um"
     },
     {
       "album": {
@@ -3157,7 +3363,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": "2022-11-13",
       "duration_ms": 179493,
       "name": "You Make Me Feel So Young",
       "url": "https://open.spotify.com/track/3BvRGVwn9sBfbxGClUEvD3"

@@ -34,6 +34,54 @@
     },
     {
       "album": {
+        "name": "Agatha",
+        "url": "https://open.spotify.com/album/1Nq7QBJAcE1wq0BS79YRs5"
+      },
+      "artists": [
+        {
+          "name": "Nsc",
+          "url": "https://open.spotify.com/artist/634YtRDQnLxKrKJUBurK6B"
+        },
+        {
+          "name": "Ciprian Iordache",
+          "url": "https://open.spotify.com/artist/4HgsCYrFaSez39qwd75leN"
+        },
+        {
+          "name": "Adrian Eftimie",
+          "url": "https://open.spotify.com/artist/6wEntiBaR8mQEjbuFHAOWW"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
+      "duration_ms": 416132,
+      "name": "Agatha - Calavera & Manya Remix",
+      "url": "https://open.spotify.com/track/5i3iYBOnshfvs9v0gwjwzW"
+    },
+    {
+      "album": {
+        "name": "Ajarif",
+        "url": "https://open.spotify.com/album/2J2obyZsyURopJhdmWT253"
+      },
+      "artists": [
+        {
+          "name": "Stranger Souma",
+          "url": "https://open.spotify.com/artist/7FkbbDfyJiSCenRToRKbBp"
+        },
+        {
+          "name": "Nukad",
+          "url": "https://open.spotify.com/artist/2UWbjvhLv8mZjANlA2ACs9"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365280,
+      "name": "Ajarif",
+      "url": "https://open.spotify.com/track/5uDvwQ9dTcGVucH5q8ngsw"
+    },
+    {
+      "album": {
         "name": "Alesta",
         "url": "https://open.spotify.com/album/53Hqt6SONfBWTGzwQi11xI"
       },
@@ -366,6 +414,28 @@
     },
     {
       "album": {
+        "name": "Smooved - Deep House Collection, Vol. 67",
+        "url": "https://open.spotify.com/album/4a7gzwkhlZePF1wHCaeUek"
+      },
+      "artists": [
+        {
+          "name": "Panuma",
+          "url": "https://open.spotify.com/artist/3YvNtTSaJ2YAt1RhaE9eiH"
+        },
+        {
+          "name": "Nina Carr",
+          "url": "https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 229041,
+      "name": "Birdcall",
+      "url": "https://open.spotify.com/track/0sb9RPtYKV9SjtRdQoO3F7"
+    },
+    {
+      "album": {
         "name": "Borealis",
         "url": "https://open.spotify.com/album/7GJzsBX2cIrYaZbwtOjlbM"
       },
@@ -381,7 +451,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 256000,
       "name": "Borealis",
       "url": "https://open.spotify.com/track/7opM0UdIFdCMbSOCIibLAr"
@@ -568,6 +638,36 @@
     },
     {
       "album": {
+        "name": "Demedim Mi?",
+        "url": "https://open.spotify.com/album/0wXfKxgecoVfuN6b1bIAMW"
+      },
+      "artists": [
+        {
+          "name": "Aliye Mutlu",
+          "url": "https://open.spotify.com/artist/4d6HLW1woZHaPab3eJpiyA"
+        },
+        {
+          "name": "Majnoon",
+          "url": "https://open.spotify.com/artist/1eeh7aqCuDjuEvPXhQSF1h"
+        },
+        {
+          "name": "Erdi Arslan",
+          "url": "https://open.spotify.com/artist/1m7nqWkenNyuzsBFWpNmth"
+        },
+        {
+          "name": "Billy Esteban",
+          "url": "https://open.spotify.com/artist/0nyKVqkATGrYXA98ieTJr0"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 318720,
+      "name": "Demedim Mi? - Billy Esteban Remix",
+      "url": "https://open.spotify.com/track/5ZFz49ewCbvqUIsfiSoCRV"
+    },
+    {
+      "album": {
         "name": "Ethno Trip",
         "url": "https://open.spotify.com/album/3pNmsQTC4s1IcxlaRAYoGJ"
       },
@@ -708,6 +808,28 @@
     },
     {
       "album": {
+        "name": "Soul Of Winds",
+        "url": "https://open.spotify.com/album/7pqvYMZ3Mno03S7wSpkddG"
+      },
+      "artists": [
+        {
+          "name": "Omary",
+          "url": "https://open.spotify.com/artist/48GVswDvtF7GVEfiAg5KLs"
+        },
+        {
+          "name": "Roxteel",
+          "url": "https://open.spotify.com/artist/0xCictaICMnerRvsyLeisS"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330635,
+      "name": "Duduk",
+      "url": "https://open.spotify.com/track/5hkEwaKH0APo8nyWO2BT6n"
+    },
+    {
+      "album": {
         "name": "D\u00fcN",
         "url": "https://open.spotify.com/album/0hQnHGP8TLX88RnLDTx9SB"
       },
@@ -723,6 +845,24 @@
       "duration_ms": 415953,
       "name": "D\u00fcN",
       "url": "https://open.spotify.com/track/2Q8eKyLWsmdmNBKrgdWVf6"
+    },
+    {
+      "album": {
+        "name": "Elya",
+        "url": "https://open.spotify.com/album/4eggQ1mmUdI3o0QYdx7eVv"
+      },
+      "artists": [
+        {
+          "name": "Satori",
+          "url": "https://open.spotify.com/artist/5nri3hyKmKBGAfvjBi0mK0"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392297,
+      "name": "Elya",
+      "url": "https://open.spotify.com/track/3BMyGkAvosGkqTquzNAiEr"
     },
     {
       "album": {
@@ -1132,6 +1272,28 @@
     },
     {
       "album": {
+        "name": "I Still",
+        "url": "https://open.spotify.com/album/4eV9uFMNWicgEMeIyUrkS6"
+      },
+      "artists": [
+        {
+          "name": "DJ Gomi",
+          "url": "https://open.spotify.com/artist/1cKbeR3hJRlWFlAd3BJxGz"
+        },
+        {
+          "name": "Walid Martinez",
+          "url": "https://open.spotify.com/artist/1JRdXMJIEbwd3vVl0cnxY6"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421473,
+      "name": "I Still",
+      "url": "https://open.spotify.com/track/38U70XapOx0kexSOsX03gC"
+    },
+    {
+      "album": {
         "name": "Buddy System Remixed",
         "url": "https://open.spotify.com/album/6Gf49JLKqif309cvHlTOe2"
       },
@@ -1245,6 +1407,24 @@
     {
       "album": {
         "name": "Izvor",
+        "url": "https://open.spotify.com/album/7zfqQQ0mzEutNin8LTuW71"
+      },
+      "artists": [
+        {
+          "name": "Tebra",
+          "url": "https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400000,
+      "name": "Izvor",
+      "url": "https://open.spotify.com/track/4z7tWC9yzgcCD23hY8uQaV"
+    },
+    {
+      "album": {
+        "name": "Izvor",
         "url": "https://open.spotify.com/album/4Ux7Cor1Xscar6eXzk760P"
       },
       "artists": [
@@ -1255,7 +1435,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-16",
       "duration_ms": 400000,
       "name": "Izvor",
       "url": "https://open.spotify.com/track/7yI1wSdqxwtVBoIsxsMJzG"
@@ -1642,6 +1822,28 @@
     },
     {
       "album": {
+        "name": "Mykonos",
+        "url": "https://open.spotify.com/album/1suGVIujM6SWlo0HktXH23"
+      },
+      "artists": [
+        {
+          "name": "Fantasi",
+          "url": "https://open.spotify.com/artist/3hA7JQHjqkT82wssjqG3uK"
+        },
+        {
+          "name": "Meric Again",
+          "url": "https://open.spotify.com/artist/2muaKB2dAVbfGrPySPiZqF"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226115,
+      "name": "Mykonos",
+      "url": "https://open.spotify.com/track/6xM5J6zi05edZeo06y524g"
+    },
+    {
+      "album": {
         "name": "Helem",
         "url": "https://open.spotify.com/album/6hsfOW3mF5VGwLL3tEpsig"
       },
@@ -1888,6 +2090,28 @@
     },
     {
       "album": {
+        "name": "Aciga Vurma",
+        "url": "https://open.spotify.com/album/1czFwH6AT4vgOvYdDUL3U0"
+      },
+      "artists": [
+        {
+          "name": "Jack Essek",
+          "url": "https://open.spotify.com/artist/6nDOWOY45vBCj8zb1JocP4"
+        },
+        {
+          "name": "Stephane Salerno",
+          "url": "https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 453596,
+      "name": "Reshetka",
+      "url": "https://open.spotify.com/track/6e4FB9K0gSOV98htH4Fn6k"
+    },
+    {
+      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/1J9KsdksTLNcUCj8xK8MAk"
       },
@@ -1921,6 +2145,24 @@
       "duration_ms": 318545,
       "name": "Sabali",
       "url": "https://open.spotify.com/track/7pSCO1Uf22BPMvFSzSiFmw"
+    },
+    {
+      "album": {
+        "name": "Oriental Fashion and Ethnosphere Mixed (DJ Mix)",
+        "url": "https://open.spotify.com/album/1Eu4Dg2iX3HsoGHwQ1nbTQ"
+      },
+      "artists": [
+        {
+          "name": "Professor",
+          "url": "https://open.spotify.com/artist/6CVlmc2tvzoff758MgvAT5"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 318545,
+      "name": "Sabali - Mixed",
+      "url": "https://open.spotify.com/track/5JLEpTkJBMCjjEBeXFPfZY"
     },
     {
       "album": {
@@ -2199,6 +2441,24 @@
     {
       "album": {
         "name": "Sunsets in Marrakech",
+        "url": "https://open.spotify.com/album/4FYCKpFao26D6pirX7A5Nk"
+      },
+      "artists": [
+        {
+          "name": "BluePaper",
+          "url": "https://open.spotify.com/artist/6nlIMudcLyn65DpF3jsUOB"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378392,
+      "name": "Sunsets in Marrakech",
+      "url": "https://open.spotify.com/track/3C1Dn6K7TGnSmPYhmqh5x3"
+    },
+    {
+      "album": {
+        "name": "Sunsets in Marrakech",
         "url": "https://open.spotify.com/album/7swsGEp5WBVi8B4whrKwnd"
       },
       "artists": [
@@ -2209,10 +2469,32 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 378392,
       "name": "Sunsets in Marrakech",
       "url": "https://open.spotify.com/track/3X9tSrJQbdWH2lwGyyv1cn"
+    },
+    {
+      "album": {
+        "name": "10 Years of NuLu, Vol. 03",
+        "url": "https://open.spotify.com/album/7MiBzqoyUPI8080qlER3wH"
+      },
+      "artists": [
+        {
+          "name": "Walid Martinez",
+          "url": "https://open.spotify.com/artist/1JRdXMJIEbwd3vVl0cnxY6"
+        },
+        {
+          "name": "Soufiane Az",
+          "url": "https://open.spotify.com/artist/28Q2uRWOQJHFGUy1VBCY04"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480057,
+      "name": "Swahili",
+      "url": "https://open.spotify.com/track/5PX4qYdnCAsUHPcXUGo2ko"
     },
     {
       "album": {
@@ -2407,6 +2689,24 @@
     {
       "album": {
         "name": "Tuhan",
+        "url": "https://open.spotify.com/album/3kbl5YDfVIUDXlbIY5XTYm"
+      },
+      "artists": [
+        {
+          "name": "Saint Evo",
+          "url": "https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 464660,
+      "name": "Tuhan",
+      "url": "https://open.spotify.com/track/0CEfUQZtt5I45nkXZIzExz"
+    },
+    {
+      "album": {
+        "name": "Tuhan",
         "url": "https://open.spotify.com/album/7sp35saegKeFRy2MXQJpQY"
       },
       "artists": [
@@ -2417,7 +2717,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 464660,
       "name": "Tuhan",
       "url": "https://open.spotify.com/track/3iAveahTfg2T3whfN8h2gb"
@@ -2509,6 +2809,24 @@
       "duration_ms": 251865,
       "name": "Whale Song",
       "url": "https://open.spotify.com/track/13gdVLikvhINVLSwsf9jvN"
+    },
+    {
+      "album": {
+        "name": "XP",
+        "url": "https://open.spotify.com/album/5tQTtuAYhnDoBNfcuf1Lcd"
+      },
+      "artists": [
+        {
+          "name": "BluePaper",
+          "url": "https://open.spotify.com/artist/6nlIMudcLyn65DpF3jsUOB"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399433,
+      "name": "XP",
+      "url": "https://open.spotify.com/track/3gPI8ddrbwIILGD7Bm9NEg"
     },
     {
       "album": {

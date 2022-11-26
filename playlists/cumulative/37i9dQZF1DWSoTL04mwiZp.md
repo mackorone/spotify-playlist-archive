@@ -4,7 +4,7 @@
 
 > Special songs for mothers of all kinds.
 
-77 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/1a0fGDCELopfNoDFPZZy5y)
+83 songs - 5 hr 9 min - [published](https://open.spotify.com/playlist/1a0fGDCELopfNoDFPZZy5y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Gabriel And Me](https://open.spotify.com/track/0Ct4eTeTYKYsCHCaz8Whel) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Blessed Are...](https://open.spotify.com/album/7q86S3pRwfE5sWVWa8x1ye) | 3:31 | 2021-05-06 |  |
 | [Girl, You'll Be A Woman Soon](https://open.spotify.com/track/1BmVQ5RGqqtF5cnsv6cQYu) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [The Bang Years 1966\-1968 \(The 23 Original Mono Recordings\)](https://open.spotify.com/album/512ipXtdhwJF52NTT2yryo) | 3:00 | 2022-05-06 |  |
 | [Happy Mother's Day](https://open.spotify.com/track/2k8QF9KF5PYAYDQmqVoonx) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Happy Mother's Day](https://open.spotify.com/album/0Uo2XFLfrcXifLsliDyw0h) | 1:53 | 2021-05-06 | 2022-07-29 |
+| [Happy Mother's Day](https://open.spotify.com/track/3VkZYB9UYzvK5SVJm2Dqwv) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Happy Mother's Day](https://open.spotify.com/album/2EXhbxhfsVQ1BzeJji92wH) | 1:53 | 2022-05-03 | 2022-11-14 |
 | [Happy Mother’s Day](https://open.spotify.com/track/5mZsnQgc8TRzXuqX7tgcb6) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Boots No\. 2: The Lost Songs, Vol\. 2](https://open.spotify.com/album/6yhpvD3T1rlfsGUAoYcIeL) | 1:52 | 2022-05-03 |  |
 | [Her](https://open.spotify.com/track/2GjQ5KNXggsIRpx5ZUj2zX) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Her](https://open.spotify.com/album/2RewEjwnjhUnDlGpFnaBNx) | 2:57 | 2021-05-06 |  |
 | [Hero](https://open.spotify.com/track/4FCb4CUbFCMNRkI6lYc1zI) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box](https://open.spotify.com/album/2NKxb7pk04CuZab5udkGUl) | 4:17 | 2021-05-06 |  |
@@ -36,16 +37,19 @@
 | [In My Daughter's Eyes](https://open.spotify.com/track/7LkQBDAiS0GVSO5JQuYDzY) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Martina](https://open.spotify.com/album/3xtQSAQgeAV6TcvzyF4iDd) | 3:13 | 2021-05-06 |  |
 | [In My Life \- Remastered 2009](https://open.spotify.com/track/3KfbEIOC7YIv90FIfNSZpo) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered\)](https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm) | 2:26 | 2021-05-06 |  |
 | [Lullaby](https://open.spotify.com/track/5GWyNA4n9hx5rhkK0KvQ83) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Taking The Long Way](https://open.spotify.com/album/2NeJdEWras0uSuzLPlJZk5) | 5:50 | 2022-05-03 |  |
+| [Lullaby](https://open.spotify.com/track/1ZLgPA7AN0KJpn5XDKMHL5) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [The Essential The Chicks](https://open.spotify.com/album/31St5diPbTZoCjOwWXSMWD) | 5:51 | 2022-05-03 | 2022-11-14 |
 | [Lullaby](https://open.spotify.com/track/6AWWwc1oTP2MzuedEYip4R) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Taking The Long Way](https://open.spotify.com/album/23lhO6xpHkEe2kOJULRcKI) | 5:51 | 2021-05-06 | 2022-07-29 |
 | [Lullaby For Wyatt](https://open.spotify.com/track/0wZsSaaEpLEycIQ03h7rTE) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Detours](https://open.spotify.com/album/6apXTwMlDLoTWhlkaR2rDw) | 4:07 | 2021-05-06 | 2022-07-29 |
 | [Lullaby For Wyatt](https://open.spotify.com/track/6g7ZJZrLi9DOJVvbKtRoiO) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Detours](https://open.spotify.com/album/245704RhuUXj2ty55RKoJh) | 4:07 | 2022-05-03 |  |
 | [Make You Feel My Love](https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0) | 3:32 | 2022-05-03 |  |
 | [Make You Feel My Love](https://open.spotify.com/track/6P7tTFzn6oNa0GL8w8oazE) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/1ydnyXPdmHrWXqXDgtQCPf) | 3:32 | 2021-05-06 | 2022-07-29 |
+| [Make You Feel My Love](https://open.spotify.com/track/6otXN6h5J6e49Lvse5yCwD) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Make You Feel My Love](https://open.spotify.com/album/4K1tS9SCKWJX4NQCcMUcUx) | 3:32 | 2022-05-03 | 2022-11-13 |
 | [Mama](https://open.spotify.com/track/3dNv3OuX6ol9si6PZ9KSAh) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 5:04 | 2021-05-06 |  |
 | [Mama Hold My Hand](https://open.spotify.com/track/1Jr3iY4H5dmhqDgmr3K14d) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Good Things](https://open.spotify.com/album/6G9PvX9f6Dq26JzsiVHIdl) | 5:07 | 2022-05-03 |  |
 | [Mama Hold My Hand](https://open.spotify.com/track/591Acw5868YL4VCFMXGEdp) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Good Things](https://open.spotify.com/album/0fLkfeej5toC9uVtrOH8uS) | 5:08 | 2021-05-06 | 2022-07-29 |
 | [Mama Said](https://open.spotify.com/track/1SN5fcUZyWFktGbEoHdHOm) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Remember When](https://open.spotify.com/album/6m8QVjXat9WFfyZPBSe0y8) | 2:04 | 2022-05-03 |  |
 | [Mama Said](https://open.spotify.com/track/3mqBLq3IsXUafucX57ERho) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Sing to Trumpets and Strings](https://open.spotify.com/album/7a4GLBaDqImx1f079aiYVn) | 2:07 | 2022-05-03 | 2022-07-29 |
+| [Mama Said](https://open.spotify.com/track/5SDJ46BCOznAtoW2q4g3Qc) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Twist And Shout](https://open.spotify.com/album/48T0Om5iIU72c94VwrOL5T) | 2:08 | 2022-05-03 | 2022-11-13 |
 | [Mama's Song](https://open.spotify.com/track/0m8Ta268d1kBBG7lxMyWqa) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Play On](https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u) | 4:00 | 2022-05-03 |  |
 | [Mom \(feat\. Kelli Trainor\)](https://open.spotify.com/track/3PYZWh5KZ6VlXHDlwDVJUt) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Kelli Trainor](https://open.spotify.com/artist/1pW0NUJuJSLcLNW1JTlqiP) | [Thank You \(Deluxe Version\)](https://open.spotify.com/album/08eweM0IZoZPCCxODbrMoL) | 3:14 | 2022-05-03 |  |
 | [Mom \(feat\. Kelli Trainor\)](https://open.spotify.com/track/7DCmHP3gX1PvlQNm0ia8Cf) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Kelli Trainor](https://open.spotify.com/artist/1pW0NUJuJSLcLNW1JTlqiP) | [Thank You \(Deluxe\)](https://open.spotify.com/album/5nkgosKhWt1yXRzmjXNV2d) | 3:14 | 2022-05-03 | 2022-07-29 |
@@ -61,6 +65,7 @@
 | [Oh! My Mama](https://open.spotify.com/track/1cqVLq0ZAuJ8xVTqygJZJ4) | [Alela Diane](https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7) | [The Pirate's Gospel](https://open.spotify.com/album/4cbZ94wBTQCvivwA7VxKdb) | 3:14 | 2021-05-06 |  |
 | [Secret](https://open.spotify.com/track/34uHZgYc8LNN3iDv5JskUb) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Secret](https://open.spotify.com/album/2uK2i63leQLKuDpfvHcszh) | 3:21 | 2021-05-06 | 2022-07-29 |
 | [Secret](https://open.spotify.com/track/4Py8X1NUwQjpwpOzsOqBAW) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [6: Commitment](https://open.spotify.com/album/6oO1IOd0bM6Bzk0Kzpi2v6) | 3:21 | 2022-05-03 |  |
+| [Secret](https://open.spotify.com/track/4uwYNnstKzowAVD4pbqDRY) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [10's Ballads](https://open.spotify.com/album/4ce3VjMCB8wKOWEtGQvKqt) | 3:21 | 2022-05-03 | 2022-11-13 |
 | [She's Always a Woman](https://open.spotify.com/track/5RgFlk1fcClZd0Y4SGYhqH) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 3:21 | 2022-05-03 |  |
 | [Somebody's Hero](https://open.spotify.com/track/2iVkOIwx8qzVGlju9Hy4yY) | [Jamie O'Neal](https://open.spotify.com/artist/6sQVeggRv1AhrMzuCjhCZe) | [Brave](https://open.spotify.com/album/2Xkv3hze4Ext0BO0FDyjOs) | 3:41 | 2021-05-06 |  |
 | [Superwoman](https://open.spotify.com/track/0r5u9i2GzrqzU2Pv0eIvVq) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [As I Am](https://open.spotify.com/album/0neqylYFL6s6Ikdf3UFmUo) | 4:34 | 2021-05-06 | 2022-07-29 |
@@ -83,6 +88,7 @@
 | [Where You Lead I Will Follow](https://open.spotify.com/track/5htNlXFlMI6RMBHhJuGJJm) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Love Makes the World](https://open.spotify.com/album/1F2U0WSicgaB8PwxBk3Tzo) | 3:27 | 2021-05-06 |  |
 | [Wish for You](https://open.spotify.com/track/7wDV6VoKGEWLRmIAU4e8gC) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Fireflies](https://open.spotify.com/album/7dtjpzbhRH1dc2gM0FLrqh) | 3:28 | 2021-05-06 |  |
 | [You & The 6](https://open.spotify.com/track/2YaDRtIlQiZ5WDDB2YuEOC) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [If You're Reading This It's Too Late](https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I) | 4:24 | 2021-05-06 |  |
+| [You Are The Sunshine Of My Life](https://open.spotify.com/track/1U64mXSOAvEaz4sRyQPNpb) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Soulklassiker](https://open.spotify.com/album/55lqkJnXgVUl1mZcnU52zY) | 2:57 | 2022-05-03 | 2022-11-13 |
 | [You Are The Sunshine Of My Life](https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Talking Book](https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw) | 2:58 | 2022-05-03 |  |
 | [You Are The Sunshine Of My Life](https://open.spotify.com/track/13mXFvyRyjfIjnag95Rnug) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Talking Book \(Reissue\)](https://open.spotify.com/album/7vgpBNK5xPmS3Mu2Hl9O0D) | 2:58 | 2022-05-03 | 2022-07-29 |
 

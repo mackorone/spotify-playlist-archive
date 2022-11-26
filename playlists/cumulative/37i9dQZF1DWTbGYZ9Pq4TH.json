@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 230693,
       "name": "22 settembre",
       "url": "https://open.spotify.com/track/15RRpHBNzv0gvjIry4jyOs"
@@ -661,7 +661,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 228480,
       "name": "Del verde",
       "url": "https://open.spotify.com/track/5jT6gl92pmDlKy9689oZSX"
@@ -957,6 +957,28 @@
     {
       "album": {
         "name": "Soundtrack '96 - 06 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6K4obGZEeum2rpPmMEDRXW"
+      },
+      "artists": [
+        {
+          "name": "Elisa",
+          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
+        },
+        {
+          "name": "Ligabue",
+          "url": "https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz"
+        }
+      ],
+      "date_added": "2021-09-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-09",
+      "duration_ms": 266746,
+      "name": "Gli Ostacoli Del Cuore",
+      "url": "https://open.spotify.com/track/4WMMIrXdbO5WoOAFqbYnTx"
+    },
+    {
+      "album": {
+        "name": "Soundtrack '96 - 06 (Deluxe Version)",
         "url": "https://open.spotify.com/album/00NzMobGESLy9zbrJD8FUw"
       },
       "artists": [
@@ -1047,7 +1069,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 227466,
       "name": "Hola (I Say) (feat. Tom Walker)",
       "url": "https://open.spotify.com/track/42LrSpEHmXHfjEH8NeiQQi"
@@ -1275,7 +1297,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 296040,
       "name": "Infinito",
       "url": "https://open.spotify.com/track/7KyPP4IenVDrKeewWlAp5L"
@@ -1531,7 +1553,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 279706,
       "name": "La donna cannone",
       "url": "https://open.spotify.com/track/2T2t1DXwzdilKF3BQPHREo"
@@ -2490,6 +2512,24 @@
     },
     {
       "album": {
+        "name": "Rimmel",
+        "url": "https://open.spotify.com/album/5c1TMPBpOc4qJebACcOm7K"
+      },
+      "artists": [
+        {
+          "name": "Francesco De Gregori",
+          "url": "https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul"
+        }
+      ],
+      "date_added": "2021-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220640,
+      "name": "Rimmel",
+      "url": "https://open.spotify.com/track/515XcapFOMtOOiGU31UqNp"
+    },
+    {
+      "album": {
         "name": "Colpa Delle Favole",
         "url": "https://open.spotify.com/album/7ynNnkdYfFsjMxvfecxAWy"
       },
@@ -3128,6 +3168,24 @@
     },
     {
       "album": {
+        "name": "Post Punk",
+        "url": "https://open.spotify.com/album/1oYTq4dC52TYMw2xoKr4kb"
+      },
+      "artists": [
+        {
+          "name": "Gazzelle",
+          "url": "https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN"
+        }
+      ],
+      "date_added": "2021-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185173,
+      "name": "Una canzone che non so",
+      "url": "https://open.spotify.com/track/6pDqB2dlzxB2i9Inu4h3wC"
+    },
+    {
+      "album": {
         "name": "Una Canzone D'Amore Buttata Via",
         "url": "https://open.spotify.com/album/2dFdW3uioaAxAoRgSbhYBT"
       },
@@ -3277,7 +3335,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-02",
+      "date_removed": null,
       "duration_ms": 253626,
       "name": "Vieni A Vedere Perch\u00e8",
       "url": "https://open.spotify.com/track/7LYUIppHHkuKeIyfWwUEvj"

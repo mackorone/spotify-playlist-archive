@@ -454,6 +454,24 @@
     },
     {
       "album": {
+        "name": "As The River Flows",
+        "url": "https://open.spotify.com/album/5SbuAZ7Klkiz8QuVik3Ptm"
+      },
+      "artists": [
+        {
+          "name": "Wallis Bird",
+          "url": "https://open.spotify.com/artist/0aogyPVqx5tlIkR0BHAehX"
+        }
+      ],
+      "date_added": "2022-04-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 231390,
+      "name": "As The River Flows",
+      "url": "https://open.spotify.com/track/1LvRSLxKzEWeGTnGLJexLC"
+    },
+    {
+      "album": {
         "name": "Atlantis",
         "url": "https://open.spotify.com/album/06qhhCoujBxJBRZ5zvmswD"
       },
@@ -581,7 +599,7 @@
     {
       "album": {
         "name": "You're Fine",
-        "url": "https://open.spotify.com/album/7AnOsuntfZx3d3Vrnt2z3B"
+        "url": "https://open.spotify.com/album/3LCCg30JxlBYnoym6eUA3J"
       },
       "artists": [
         {
@@ -592,6 +610,24 @@
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 198800,
+      "name": "Before I Do",
+      "url": "https://open.spotify.com/track/1boVXkkZMBJaziXMLXCiFG"
+    },
+    {
+      "album": {
+        "name": "You're Fine",
+        "url": "https://open.spotify.com/album/7AnOsuntfZx3d3Vrnt2z3B"
+      },
+      "artists": [
+        {
+          "name": "Barbra Lica",
+          "url": "https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D"
+        }
+      ],
+      "date_added": "2022-04-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-27",
       "duration_ms": 198800,
       "name": "Before I Do",
       "url": "https://open.spotify.com/track/2oSH6sOAP0YOq6qMuO0ZMK"
@@ -1436,6 +1472,28 @@
     },
     {
       "album": {
+        "name": "Live at The Cafe Carpe",
+        "url": "https://open.spotify.com/album/17LG2iTmuVc1xacAu8a9gB"
+      },
+      "artists": [
+        {
+          "name": "Peter Mulvey",
+          "url": "https://open.spotify.com/artist/0HPmghHJKFdMOxSkXzsm0h"
+        },
+        {
+          "name": "SistaStrings",
+          "url": "https://open.spotify.com/artist/6fDOr1LBuzVBZ2l9C4nynf"
+        }
+      ],
+      "date_added": "2022-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166914,
+      "name": "Don't You Ever Change",
+      "url": "https://open.spotify.com/track/51JX3y8j9ElKyKSP7FVvu7"
+    },
+    {
+      "album": {
         "name": "Don't You Ever Change",
         "url": "https://open.spotify.com/album/1iPi9KGq4x7oNH49tPoZC5"
       },
@@ -1458,7 +1516,7 @@
     },
     {
       "album": {
-        "name": "Live at the Cafe Carpe",
+        "name": "Live at The Cafe Carpe",
         "url": "https://open.spotify.com/album/6PxVagudUXGBHXN7KEp2Dv"
       },
       "artists": [
@@ -1473,7 +1531,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 166914,
       "name": "Don't You Ever Change",
       "url": "https://open.spotify.com/track/5dRCfWzZPSKfmoDwGGrilX"
@@ -1603,6 +1661,24 @@
       "duration_ms": 277633,
       "name": "Eurydice",
       "url": "https://open.spotify.com/track/2DlaXlHWzpleZVbjxHFriJ"
+    },
+    {
+      "album": {
+        "name": "Eurydice",
+        "url": "https://open.spotify.com/album/4qlcqjpeAsuyQgeuXU3FKc"
+      },
+      "artists": [
+        {
+          "name": "Katherine Priddy",
+          "url": "https://open.spotify.com/artist/102dPAntS5rtgPwkSZPB41"
+        }
+      ],
+      "date_added": "2022-04-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 277633,
+      "name": "Eurydice",
+      "url": "https://open.spotify.com/track/2dxq3U31qBd10DmoK2NIaI"
     },
     {
       "album": {
@@ -4665,7 +4741,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-26",
       "duration_ms": 296706,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/6lI6ygpmnhxiVWc2pqsYUq"
@@ -5147,10 +5223,46 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 162019,
       "name": "The It Girl",
       "url": "https://open.spotify.com/track/04Tk8Bp1n4PPRFJGTNCooO"
+    },
+    {
+      "album": {
+        "name": "Woman in Color",
+        "url": "https://open.spotify.com/album/1VFybOfoUaQexs9OTabswg"
+      },
+      "artists": [
+        {
+          "name": "Raye Zaragoza",
+          "url": "https://open.spotify.com/artist/14w8BJMukAOb1KQuY3d5Jc"
+        }
+      ],
+      "date_added": "2022-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162019,
+      "name": "The It Girl",
+      "url": "https://open.spotify.com/track/3v2Zzn2Dh5QpVCiV2jkHsa"
+    },
+    {
+      "album": {
+        "name": "The It Girl",
+        "url": "https://open.spotify.com/album/4qOJiOFQcGwQ97sIONUWXN"
+      },
+      "artists": [
+        {
+          "name": "Raye Zaragoza",
+          "url": "https://open.spotify.com/artist/14w8BJMukAOb1KQuY3d5Jc"
+        }
+      ],
+      "date_added": "2022-04-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 162019,
+      "name": "The It Girl",
+      "url": "https://open.spotify.com/track/6tZmwrFzANQW9AoSZBMmb8"
     },
     {
       "album": {
@@ -5510,6 +5622,24 @@
     },
     {
       "album": {
+        "name": "Bootleg (Live From Austin, Texas)",
+        "url": "https://open.spotify.com/album/2zp40MVQUYXRc9GKMyjdfy"
+      },
+      "artists": [
+        {
+          "name": "Jess Klein",
+          "url": "https://open.spotify.com/artist/2KDZ8Vb3dZnQ8jnptHBdzD"
+        }
+      ],
+      "date_added": "2022-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366680,
+      "name": "Travelin' Woman - Live",
+      "url": "https://open.spotify.com/track/2lty75qPKft6GAZV038SKg"
+    },
+    {
+      "album": {
         "name": "Bootleg",
         "url": "https://open.spotify.com/album/3qEnkEbtsJmstbsgu9raBd"
       },
@@ -5521,7 +5651,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 366680,
       "name": "Travelin' Woman - Live",
       "url": "https://open.spotify.com/track/7vv9La4RcTE4bYUmWw0AKf"

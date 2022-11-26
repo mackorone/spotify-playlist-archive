@@ -4,7 +4,7 @@
 
 > It's all of your family's favorite boy bands in one chart\-topping playlist!
 
-58 songs - 3 hr 23 min - [published](https://open.spotify.com/playlist/0geTX7fV4AMKpKy8QFPXC3)
+62 songs - 3 hr 36 min - [published](https://open.spotify.com/playlist/0geTX7fV4AMKpKy8QFPXC3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,16 +16,19 @@
 | [Back Here](https://open.spotify.com/track/4D6bsg0MqGF0PIZLgDydWp) | [BBMAK](https://open.spotify.com/artist/7y1GT7SdgGiFLWoktv2TSw) | [Sooner or Later](https://open.spotify.com/album/64tUoD5uNiXPRFqLkykqQB) | 3:41 | 2022-03-11 | 2022-07-29 |
 | [Best Song Ever](https://open.spotify.com/track/35BZx3KqY1MCjWEFle4YwH) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories](https://open.spotify.com/album/3XTK1sQfPaaTwQvsO0o5mY) | 3:20 | 2022-03-11 | 2022-07-29 |
 | [Best Song Ever](https://open.spotify.com/track/5T7ZFtCcOgkpjxcuaeZbw0) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 3:20 | 2022-03-11 |  |
+| [Big Plans](https://open.spotify.com/track/0BkaqZUwQfOfaVcSKSGvB6) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [On the Radio: Pop](https://open.spotify.com/album/05a2Y9NdgvcB0UzpXHBKmR) | 2:59 | 2022-03-11 | 2022-11-14 |
 | [Big Plans](https://open.spotify.com/track/448hSkxDU1sUQQauBWZVcC) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Big Plans](https://open.spotify.com/album/55qkK5QfwfwUOMjye419s3) | 2:59 | 2022-03-11 |  |
 | [Big Plans](https://open.spotify.com/track/6Yx181fZzA0YE2EkUsYruq) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Big Plans](https://open.spotify.com/album/4XSRrYHawXjGuQ6qEk3Kk5) | 2:59 | 2022-03-11 | 2022-07-29 |
 | [Boy With Luv \(feat\. Halsey\)](https://open.spotify.com/track/4a9tbd947vo9K8Vti9JwcI) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [MAP OF THE SOUL : PERSONA](https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6) | 3:49 | 2022-03-11 |  |
 | [Boy With Luv \(feat\. Halsey\)](https://open.spotify.com/track/5KawlOMHjWeUjQtnuRs22c) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [MAP OF THE SOUL : PERSONA](https://open.spotify.com/album/1AvXa8xFEXtR3hb4bgihIK) | 3:49 | 2022-03-11 | 2022-07-29 |
 | [Boyfriend](https://open.spotify.com/track/1rKBOL9kJfX1Y4C3QaOvRH) | [Big Time Rush](https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd) | [BTR](https://open.spotify.com/album/2RjFzASjHZG1lUbCKqUahx) | 3:21 | 2022-03-11 |  |
 | [Burnin' Up](https://open.spotify.com/track/2VEsmoek0sol9MnJFyoG9e) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [A Little Bit Longer](https://open.spotify.com/album/4jcRw4qVurxoZcfIYPKDpz) | 2:55 | 2022-03-11 |  |
+| [Bye Bye Bye](https://open.spotify.com/track/3iMmPeDuCBw8h6t1ZQFn4t) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [The Essential \*NSYNC](https://open.spotify.com/album/3bhFoH4PFnY4ifK4981U8X) | 3:20 | 2022-03-11 | 2022-11-13 |
 | [Bye Bye Bye](https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) | 3:20 | 2022-03-11 |  |
 | [Bye Bye Bye](https://open.spotify.com/track/4r8lRYnoOGdEi6YyI5OC1o) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/5hMd4vAfSUT1cbYCnRUako) | 3:20 | 2022-03-11 | 2022-07-29 |
 | [Chasing The Sun](https://open.spotify.com/track/4b4c0oH7PtrPsI86drzgFs) | [The Wanted](https://open.spotify.com/artist/2NhdGz9EDv2FeUw6udu2g1) | [The Wanted \(Special Edition\)](https://open.spotify.com/album/6FftnKauTntTYF5PBI0yOm) | 3:18 | 2022-03-11 |  |
 | [Cool](https://open.spotify.com/track/7yfi8B8opXjnRh4VZnOkz9) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 2:47 | 2022-03-11 |  |
+| [Easier](https://open.spotify.com/track/0gvoxgYKDroxlwP55cXcAx) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [NOW That's What I Call Music, Vol\. 71](https://open.spotify.com/album/6Xo8vxClsqZvYUXCgPuEcB) | 2:36 | 2022-03-11 | 2022-11-13 |
 | [Easier](https://open.spotify.com/track/4tNXntkAzQ5A2dfYRYGIIQ) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Easier](https://open.spotify.com/album/0puSqXoH0dMgimvyi5slCt) | 2:37 | 2022-03-11 | 2022-07-29 |
 | [Easier](https://open.spotify.com/track/2bjUEg4jBtKBlPdNrTAppI) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [CALM](https://open.spotify.com/album/46K4raQPIGem3N031upNj9) | 2:38 | 2022-03-11 |  |
 | [Easy](https://open.spotify.com/track/156QgQpZ4z9tKSeucOLIPy) | [Next Town Down](https://open.spotify.com/artist/2jJCk4fs0irQjjrG0Yo4I9) | [Easy](https://open.spotify.com/album/62lSpThmG3IDdieVfrzQA6) | 3:02 | 2022-03-11 |  |
@@ -55,6 +58,7 @@
 | [Story of My Life](https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 4:05 | 2022-03-11 |  |
 | [Summer Girls](https://open.spotify.com/track/7uYroF9RRrhRJBrigRvB6H) | [LFO](https://open.spotify.com/artist/1FizW0swe8ODtXvEOHXbHX) | [LFO](https://open.spotify.com/album/6DZdRerOCdaQyBLwntH2cX) | 4:17 | 2022-03-11 |  |
 | [Talk](https://open.spotify.com/track/6rsm9NTgl9kKPatf7S1yCS) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [8 Letters](https://open.spotify.com/album/2qIbHfs93z6eDwGoAdCkXA) | 3:10 | 2022-03-11 |  |
+| [Tattoo \(How 'Bout You\)](https://open.spotify.com/track/3J2rUk9FXadxIsoY856jZj) | [In Real Life](https://open.spotify.com/artist/09fEeGYqb3MUeV1c9BJgDI) | [Teen Hits](https://open.spotify.com/album/08fAbFEPgylA9oosEnP5ed) | 3:49 | 2022-03-11 | 2022-11-13 |
 | [Tattoo \(How 'Bout You\)](https://open.spotify.com/track/70EN8Pffupcsua0Lt1hTYb) | [In Real Life](https://open.spotify.com/artist/09fEeGYqb3MUeV1c9BJgDI) | [She Do](https://open.spotify.com/album/7KnSdU7mu0fvU1M4gl8Ct7) | 3:49 | 2022-03-11 |  |
 | [Tattoo \(How 'Bout You\)](https://open.spotify.com/track/7pueVHUwKar1JqWnqlKCf0) | [In Real Life](https://open.spotify.com/artist/09fEeGYqb3MUeV1c9BJgDI) | [Tattoo \(How 'Bout You\)](https://open.spotify.com/album/7eEdEB51wwksaSY6YoXkBu) | 3:49 | 2022-03-11 | 2022-07-29 |
 | [The Call](https://open.spotify.com/track/1mxTCArq9EhSg4QPGqhjhT) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Black & Blue](https://open.spotify.com/album/41zXjyVr6dzmchWf8tv3UO) | 3:24 | 2022-03-11 |  |

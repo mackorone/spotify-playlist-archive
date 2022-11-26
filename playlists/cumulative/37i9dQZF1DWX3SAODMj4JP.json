@@ -98,6 +98,32 @@
     },
     {
       "album": {
+        "name": "Al\u00e9m do Que Se V\u00ea",
+        "url": "https://open.spotify.com/album/4ysGU8xBKFVw1aB1kowUQ2"
+      },
+      "artists": [
+        {
+          "name": "Pedro Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7"
+        },
+        {
+          "name": "Paula Schneider",
+          "url": "https://open.spotify.com/artist/5Kt0ujNgqacGJGPZAsWwoS"
+        },
+        {
+          "name": "Ventania",
+          "url": "https://open.spotify.com/artist/4ZgHby6oTRKwiGbf38dPs1"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301704,
+      "name": "Al\u00e9m do Que Se V\u00ea",
+      "url": "https://open.spotify.com/track/0x8YDLkajRloMiTP8UO9uM"
+    },
+    {
+      "album": {
         "name": "Al\u00edvio",
         "url": "https://open.spotify.com/album/2hOdw9Pcm4J5ROCiQKm9Nr"
       },
@@ -335,7 +361,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 280760,
       "name": "Corpo I",
       "url": "https://open.spotify.com/track/7tU7sxEqyLoguEGbjiiiRl"
@@ -451,7 +477,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 211416,
       "name": "Ele Far\u00e1",
       "url": "https://open.spotify.com/track/5RI306qvVfFeOrc0Gly2Zr"
@@ -709,7 +735,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": null,
       "duration_ms": 292788,
       "name": "Louvor IV",
       "url": "https://open.spotify.com/track/6MMr4Yqk7Oa8NsoksmxACf"
@@ -931,7 +957,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 297293,
       "name": "Peace",
       "url": "https://open.spotify.com/track/2Gpk1rtu5wVUCMQH86kErs"
@@ -1007,6 +1033,28 @@
       "duration_ms": 120170,
       "name": "Quando A Gente Voltar",
       "url": "https://open.spotify.com/track/03wotmqx2qpMxH1NrQH6fi"
+    },
+    {
+      "album": {
+        "name": "Quando Ningu\u00e9m Me V\u00ea",
+        "url": "https://open.spotify.com/album/6ImaEJL8fL6CqEeEhvfpLM"
+      },
+      "artists": [
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        },
+        {
+          "name": "Three Voices",
+          "url": "https://open.spotify.com/artist/7mMXVPgjGcXDIizoH1KYLm"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251122,
+      "name": "Quando Ningu\u00e9m Me V\u00ea",
+      "url": "https://open.spotify.com/track/30pihAQ6IGOKJlIX9kUdZj"
     },
     {
       "album": {

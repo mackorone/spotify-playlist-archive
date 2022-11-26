@@ -235,7 +235,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 243200,
       "name": "Are You Out There",
       "url": "https://open.spotify.com/track/6TN8WHj5iZZRmmjbnJNOOt"
@@ -297,6 +297,24 @@
       "duration_ms": 147299,
       "name": "Backwaters",
       "url": "https://open.spotify.com/track/6RlmoIqcWkSrIEjCW4Co13"
+    },
+    {
+      "album": {
+        "name": "Memory Canvas",
+        "url": "https://open.spotify.com/album/5k803G97CKyWSiClt8UMnF"
+      },
+      "artists": [
+        {
+          "name": "Kilometre Club",
+          "url": "https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215418,
+      "name": "Becker's",
+      "url": "https://open.spotify.com/track/4HPiuEOyFCBZzp5mugj0o7"
     },
     {
       "album": {
@@ -437,7 +455,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": "2022-11-14",
       "duration_ms": 202680,
       "name": "Conifer",
       "url": "https://open.spotify.com/track/6gVrAqhSIPSh9iVRa6lgPH"
@@ -527,7 +545,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 240000,
       "name": "Divine Light - Studio Edit",
       "url": "https://open.spotify.com/track/76b4OvaMSGspOtxlQ7v7Eh"
@@ -563,7 +581,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-22",
       "duration_ms": 189346,
       "name": "Elder From Sabha",
       "url": "https://open.spotify.com/track/71pxVmA8KLRan0jiy8wQOM"
@@ -603,10 +621,28 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 253000,
       "name": "Enter Stillness - Studio Edit",
       "url": "https://open.spotify.com/track/0jeANkHM2w3JzKS7kx39yN"
+    },
+    {
+      "album": {
+        "name": "Handwritten",
+        "url": "https://open.spotify.com/album/0kL551QkBCd4F33sAnnXKj"
+      },
+      "artists": [
+        {
+          "name": "Gabby Laurent",
+          "url": "https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192309,
+      "name": "Entirely",
+      "url": "https://open.spotify.com/track/252UulLr0Pnwb7adch2Vha"
     },
     {
       "album": {
@@ -790,6 +826,24 @@
     },
     {
       "album": {
+        "name": "Frozen Sunlight",
+        "url": "https://open.spotify.com/album/585o7QhQ8LporxUlnbMR8b"
+      },
+      "artists": [
+        {
+          "name": "Sun Echo",
+          "url": "https://open.spotify.com/artist/4jhzzWw1hUD1WeZT73WW4D"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210277,
+      "name": "Frozen Sunlight - Music Only",
+      "url": "https://open.spotify.com/track/4IG0iveYAR1U0WL1YW60ad"
+    },
+    {
+      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/25SUYXz9bAwVFt4BZ5my5B"
       },
@@ -873,7 +927,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 243750,
       "name": "Heaven like",
       "url": "https://open.spotify.com/track/7DgGJTm2pA8tLjEp2TIh2B"
@@ -1129,7 +1183,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-13",
+      "date_removed": null,
       "duration_ms": 165755,
       "name": "Kalapas",
       "url": "https://open.spotify.com/track/24DMnKgG21XIzf4XVTM119"
@@ -1219,7 +1273,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 192000,
       "name": "Lost For Words",
       "url": "https://open.spotify.com/track/6BFmIFysuR7WZBXd28jQlG"
@@ -1417,7 +1471,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 167522,
       "name": "Mysterium",
       "url": "https://open.spotify.com/track/50zj8Ry2UH4x55kAjlQQZm"
@@ -1453,7 +1507,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 225110,
       "name": "Notes On Leave Taking",
       "url": "https://open.spotify.com/track/7t7nxvsTW4bUSkLifauz2i"
@@ -1640,6 +1694,24 @@
     },
     {
       "album": {
+        "name": "432 hz Frequency of Universe",
+        "url": "https://open.spotify.com/album/5Xmwq5a06b8ZybYqX5fO8O"
+      },
+      "artists": [
+        {
+          "name": "Binaural Landscapes",
+          "url": "https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160345,
+      "name": "Precious 432 hz",
+      "url": "https://open.spotify.com/track/2Wq1C9dtftnI5OSMKJsie0"
+    },
+    {
+      "album": {
         "name": "Prism",
         "url": "https://open.spotify.com/album/2NnXGaOmsxE2nFjUxK2WbL"
       },
@@ -1677,6 +1749,24 @@
       "duration_ms": 242400,
       "name": "Purity 432hz",
       "url": "https://open.spotify.com/track/60kuRpoUHGfYmVswKdvcO0"
+    },
+    {
+      "album": {
+        "name": "Quiet Motions",
+        "url": "https://open.spotify.com/album/7JycG0PMs6yxJBgSmx1Cmr"
+      },
+      "artists": [
+        {
+          "name": "Spheres",
+          "url": "https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02"
+        }
+      ],
+      "date_added": "2022-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195600,
+      "name": "Quiet Motions",
+      "url": "https://open.spotify.com/track/5G5T4D1uFd2mjhuM5O7bXu"
     },
     {
       "album": {
@@ -1749,7 +1839,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-11-13",
       "duration_ms": 221525,
       "name": "Sentiments in Emptiness",
       "url": "https://open.spotify.com/track/1rSrcxldbRRpwt6vu5kbEU"
@@ -1875,7 +1965,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 251428,
       "name": "Spaces in Serenity",
       "url": "https://open.spotify.com/track/6ivdFVK29qRdsKezUln44y"
@@ -2181,7 +2271,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 102300,
       "name": "The Art of Subtlety",
       "url": "https://open.spotify.com/track/42VUDVOwj9wUafDjvGJcGt"
@@ -2257,6 +2347,24 @@
       "duration_ms": 118600,
       "name": "The Shortest Flight",
       "url": "https://open.spotify.com/track/0eRujTuQz5mwL54tcZrNKN"
+    },
+    {
+      "album": {
+        "name": "Through The Mist",
+        "url": "https://open.spotify.com/album/3PctoISWbdLaP1LLaK8K6C"
+      },
+      "artists": [
+        {
+          "name": "The Sleep Crew",
+          "url": "https://open.spotify.com/artist/2cwhQMikUipIptLocoKOMn"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Through The Mist",
+      "url": "https://open.spotify.com/track/77J5YZNzyRlIfmfx1iYGRE"
     },
     {
       "album": {
@@ -2455,6 +2563,24 @@
       "duration_ms": 143529,
       "name": "Yalmi",
       "url": "https://open.spotify.com/track/4vbpZqfVsIz1lPEsMT0IkE"
+    },
+    {
+      "album": {
+        "name": "You're Filled With Courage",
+        "url": "https://open.spotify.com/album/3lkh1bioKa9l6mBFgqm2Y2"
+      },
+      "artists": [
+        {
+          "name": "Genevi\u00e8ve Corin",
+          "url": "https://open.spotify.com/artist/2OZcj5SwwY93YZWnNdzD38"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157200,
+      "name": "You're Filled With Courage",
+      "url": "https://open.spotify.com/track/1yXCViJlRh40uDDaA3xOl0"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdbkmlag2h7b"

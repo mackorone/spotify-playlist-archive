@@ -289,10 +289,28 @@
       ],
       "date_added": "2020-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-22",
       "duration_ms": 318453,
       "name": "Manzana de Metal",
       "url": "https://open.spotify.com/track/34o7cYPQGPVxSfsSk5w6lE"
+    },
+    {
+      "album": {
+        "name": "Manzana de Metal",
+        "url": "https://open.spotify.com/album/3eXS2iglmCZJ9feMoyX7dm"
+      },
+      "artists": [
+        {
+          "name": "Altocamet",
+          "url": "https://open.spotify.com/artist/0ZqTqI2yIMAtxEfDi0ZODe"
+        }
+      ],
+      "date_added": "2020-03-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 319120,
+      "name": "Manzana de Metal",
+      "url": "https://open.spotify.com/track/3wDNC8NU4gYgF3tTqbJ27m"
     },
     {
       "album": {
@@ -427,6 +445,24 @@
       "duration_ms": 191000,
       "name": "Mate",
       "url": "https://open.spotify.com/track/38qMdBT2CM35RT35f5FOUE"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0a03syBke2aEXcFJfkIuPl"
+      },
+      "artists": [
+        {
+          "name": "Todos Tus Muertos",
+          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
+        }
+      ],
+      "date_added": "2020-03-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 194986,
+      "name": "Mate",
+      "url": "https://open.spotify.com/track/4P8jmtTh7Uff7vcUCXsNaY"
     },
     {
       "album": {
@@ -593,7 +629,7 @@
       ],
       "date_added": "2020-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-06",
+      "date_removed": null,
       "duration_ms": 202800,
       "name": "Remisero",
       "url": "https://open.spotify.com/track/3JoVclmCif9FgcaAbTLORJ"

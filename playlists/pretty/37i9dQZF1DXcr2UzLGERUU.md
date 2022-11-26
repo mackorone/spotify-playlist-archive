@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcr2UzLGERUU.md) - [plain]
 
 > Wind down in moments of stress with these chilled songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,660 likes - 113 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,785 likes - 113 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcr2UzLGERUU.md) - [plain]
 | 53 | [Beautiful Thing](https://open.spotify.com/track/4P3LBZjsWULnAS08KebYfW) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Perfectly Imperfect](https://open.spotify.com/album/5K62EruZjeXbwE72zPppoU) | 3:44 |
 | 54 | [Fly, Shine, Soar](https://open.spotify.com/track/6Rnd2ta4fMK7ZheE5TXxAM) | [123 Andrés](https://open.spotify.com/artist/1KrkVZFQx2EadAriogq5T9), [Little Miss Ann](https://open.spotify.com/artist/0G7JrLPvqOjHcv891aUiUb) | [Hola, Amigo: Songs of Friendship](https://open.spotify.com/album/0V5TLnYXWxNFZ0Bmy5bOza) | 2:03 |
 | 55 | [What Will You Be](https://open.spotify.com/track/6s4JhPW2vesedW9obEBhUO) | [Loren Ryan](https://open.spotify.com/artist/7feL5IApbaRD52R2efI9NG) | [Songs for Charlie](https://open.spotify.com/album/1uvvolXhAoaH0OjhL2byva) | 3:22 |
-| 56 | [I'll Always Love You](https://open.spotify.com/track/6xY7CmImqIfHHlesaUg2oO) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH), [Winter River](https://open.spotify.com/artist/3qbipbZdbYVPJUroZzAoLA) | [Netflix Jr\. Jams: Vol\. 3](https://open.spotify.com/album/2TUshFZxuXqiX6KOKoj6CP) | 2:53 |
+| 56 | [I'll Always Love You](https://open.spotify.com/track/7nZf4oOrYSOnlDSPiObea9) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH), [Winter River](https://open.spotify.com/artist/3qbipbZdbYVPJUroZzAoLA) | [Netflix Jr\. Jams: Vol\. 3](https://open.spotify.com/album/2Zc0nzqLHanTAqcnlltkEz) | 2:53 |
 | 57 | [Lego House](https://open.spotify.com/track/3PEb2ARloVhBrffWcS8hyy) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [Lego House \- Single](https://open.spotify.com/album/66ea8tadxoqqcT2Ad5ynRR) | 3:31 |
 | 58 | [Rainbow](https://open.spotify.com/track/79qxwHypONUt3AFq0WPpT9) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:34 |
 | 59 | [til there was you](https://open.spotify.com/track/7fmVIBMLYiXRtTFOlxv90i) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [songs for carmella: lullabies & sing\-a\-longs](https://open.spotify.com/album/3xl0OvcSlc9Mwe5ToaFtD3) | 2:07 |
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcr2UzLGERUU.md) - [plain]
 | 77 | [Colors](https://open.spotify.com/track/72SPsHheqN6J3sI520jT9E) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Amos Lee](https://open.spotify.com/album/0hPXaSKyujqCej452raazD) | 2:40 |
 | 78 | [XO](https://open.spotify.com/track/0oa6d6Nz5BmP7jquxEoyMm) | [Anna Elizabeth Laube](https://open.spotify.com/artist/6O0rWDT0LuZk9Cpe45kbcx) | [Tree](https://open.spotify.com/album/3pALJvtTxIm5i1aYlaZDnA) | 3:55 |
 | 79 | [Thinking out Loud](https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:41 |
-| 80 | [Little Willow \- Remastered 2020](https://open.spotify.com/track/7yx52w4rHycV4mLZhhAdYP) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Jeff Lynne](https://open.spotify.com/artist/3bTAaMx9nf237AkBnGw3vL) | [Flaming Pie \(Archive Collection\)](https://open.spotify.com/album/3F4cHaIJDFBWdTdlZPGRmO) | 2:58 |
+| 80 | [Little Willow \- 2020 Remaster](https://open.spotify.com/track/7yx52w4rHycV4mLZhhAdYP) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Jeff Lynne](https://open.spotify.com/artist/3bTAaMx9nf237AkBnGw3vL) | [Flaming Pie \(Archive Collection\)](https://open.spotify.com/album/3F4cHaIJDFBWdTdlZPGRmO) | 2:58 |
 | 81 | [momma told me imma be](https://open.spotify.com/track/5oFhakk58OBApacdBhYDkW) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:13 |
 | 82 | [Dancing On My Own](https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 4:20 |
 | 83 | [Free](https://open.spotify.com/track/1OO4WRqPN9XlkcnjQzIYKr) | [Aaron Espe](https://open.spotify.com/artist/11nbBcaBk8uXBPQsc3Sq9p) | [Free](https://open.spotify.com/album/5AnKO6sCuaEqkOtFesYiBQ) | 3:11 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcr2UzLGERUU.md) - [plain]
 | 112 | [Rest Your Head On My Shoulder](https://open.spotify.com/track/07jFL6Z173J4zH2R2SGGRM) | [Seeker Lover Keeper](https://open.spotify.com/artist/18E9agcfYi1KIQlJivdEcX) | [Seeker Lover Keeper](https://open.spotify.com/album/1uEWX9bX1dnHFY4WUN5r9F) | 3:31 |
 | 113 | [If You Can't Sleep](https://open.spotify.com/track/7o2T5dYOjQf7qpmavRerQE) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Volume Two](https://open.spotify.com/album/47A8zr0CzKLILnYcrXh2Rc) | 2:48 |
 
-Snapshot ID: `MTY2MDIyNzkxOSwwMDAwMDAwMGM5ZTBhMDhlN2RiYTBmMjM3Mzk0ZTRjYjIyZjY0YTEy`
+Snapshot ID: `MTY2MDIyNzkxOSwwMDAwMDAwMGIxOWFjOGQ2MzhmOTM3YjQ4MmY3NTZhNjkwNjQ3MzEy`

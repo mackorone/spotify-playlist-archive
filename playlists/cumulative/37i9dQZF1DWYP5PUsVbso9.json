@@ -278,6 +278,24 @@
     },
     {
       "album": {
+        "name": "Happy Mother's Day Y'all",
+        "url": "https://open.spotify.com/album/7de0tgPmcZOZmxQ5DwyT4B"
+      },
+      "artists": [
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 178253,
+      "name": "Coal Miner's Daughter - Single Version",
+      "url": "https://open.spotify.com/track/48YTGYDGj7sJv7Gj0b5DrZ"
+    },
+    {
+      "album": {
         "name": "Coal Miner's Daughter",
         "url": "https://open.spotify.com/album/2SayIIdZkrtb9I4BbdnyOr"
       },
@@ -549,7 +567,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-11",
+      "date_removed": null,
       "duration_ms": 167706,
       "name": "East Bound and Down",
       "url": "https://open.spotify.com/track/7rLaJmjANgWaHEys3p6SDu"
@@ -1025,7 +1043,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": "2022-11-14",
       "duration_ms": 192040,
       "name": "If I Said You Had A Beautiful Body Would You Hold It Against Me",
       "url": "https://open.spotify.com/track/7pRKbx3PYJmz36cp92hDIE"
@@ -1065,7 +1083,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 196000,
       "name": "If We're Not Back In Love By Monday",
       "url": "https://open.spotify.com/track/3jghFUSMqVsvbIqxW6VIdM"
@@ -1447,13 +1465,17 @@
         {
           "name": "Waylon Jennings",
           "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 202026,
-      "name": "Luckenbach, Texas (Back to the Basics of Love)",
+      "name": "Luckenbach, Texas (Back to the Basics of Love) (feat. Willie Nelson)",
       "url": "https://open.spotify.com/track/4WScDSwAa9m48pgHugVkCo"
     },
     {
@@ -1531,7 +1553,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 190773,
       "name": "Marie Laveau",
       "url": "https://open.spotify.com/track/7nIcb2zJj0HPNws3PRCl7k"
@@ -1845,7 +1867,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 146800,
       "name": "Rub It In",
       "url": "https://open.spotify.com/track/6q014fQ3SqLy180KPuCTG1"
@@ -1971,7 +1993,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 179586,
       "name": "Southern Nights",
       "url": "https://open.spotify.com/track/2sd8p89DvYBzJFWo97knsd"
@@ -2461,7 +2483,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 166000,
       "name": "Till the End",
       "url": "https://open.spotify.com/track/7pwA0yTkSFYDiiplqmy8KE"

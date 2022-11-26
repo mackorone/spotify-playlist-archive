@@ -4,7 +4,7 @@
 
 > Your queens are here Pink Panda!
 
-220 songs - 13 hr 6 min - [published](https://open.spotify.com/playlist/1onWEIUsTX0j63OpOE7Wos)
+222 songs - 13 hr 13 min - [published](https://open.spotify.com/playlist/1onWEIUsTX0j63OpOE7Wos)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [I Need You](https://open.spotify.com/track/449PKQf3Eh8Ty9TkaJb7hv) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Secret Garden](https://open.spotify.com/album/03GKVqpdr6Fi24DeAbgDRs) | 3:48 | 2022-04-20 |  |
 | [I PRAY 4 YOU](https://open.spotify.com/track/4XwW7LHHmQilz4gLISOQXX) | [Apink BnN](https://open.spotify.com/artist/74FhUVHWfjvC4NVw5MmyX6) | [School 2017 Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/1APuSx8wJm615bNJPzn7uY) | 3:50 | 2022-07-12 |  |
 | [I Pray 4 You](https://open.spotify.com/track/7kmk3A9Qt3hQH1uJjDkAX4) | [Apink BnN](https://open.spotify.com/artist/74FhUVHWfjvC4NVw5MmyX6) | [School 2017, Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/3AJIBqG99Uq1Lgg08EAEl6) | 3:50 | 2022-04-20 | 2022-07-29 |
+| [I Pray 4 You](https://open.spotify.com/track/0r0awKG0EeVkEawitHErOM) | [Kim Nam Joo](https://open.spotify.com/artist/4cHMW4DkVD7XZ04YvsJIkI), [Bomi](https://open.spotify.com/artist/1f8WhWpusN7MtCkedZWpck) | [School 2017 \(Orignial Television Soundtrack\)](https://open.spotify.com/album/4TZOMc6w0nzSFyKx8mDquD) | 3:50 | 2022-07-12 | 2022-11-13 |
 | [I want you to be happy](https://open.spotify.com/track/3VaPpNx6tSFotl2NywDpiy) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [I want you to be happy](https://open.spotify.com/album/3G6X4oBhIf8Xqgg8vxirjv) | 3:47 | 2022-04-20 |  |
 | [I'm Not An Angel](https://open.spotify.com/track/1VfdzdysDdgbd0sbLGq7Sw) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Pink LUV + Blossom](https://open.spotify.com/album/2EHA3up6S0LpzQLZ7XlRsb) | 3:26 | 2022-04-20 | 2022-07-29 |
 | [I'm not an angel](https://open.spotify.com/track/6bfQtzENE9Nkz7ugFLowx3) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Pink LUV](https://open.spotify.com/album/7BV2JxBA453SWGGe6ije4K) | 3:26 | 2022-07-12 |  |
@@ -194,6 +195,7 @@
 | [Stay](https://open.spotify.com/track/07DtMQtRiP5vEAFWzKq82g) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Simple](https://open.spotify.com/album/3UM9M1xTkqU6Df6Cciui5J) | 4:10 | 2022-07-12 |  |
 | [Stay](https://open.spotify.com/track/0h97ifrfhz1jpWvB5yggXw) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Simple](https://open.spotify.com/album/7uvuwOqhgNfNY9nBVcTZ0b) | 4:10 | 2022-04-20 | 2022-07-29 |
 | [STEP](https://open.spotify.com/track/4eYY4v9AHh0tbeBlxVpUcN) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [UNE ANNEE](https://open.spotify.com/album/5vR2VgZoh5ONYUABC9xdtF) | 3:37 | 2022-04-20 |  |
+| [Strange](https://open.spotify.com/track/3aZBXslvI53xTvcaWeiu4D) | [Apink BnN](https://open.spotify.com/artist/74FhUVHWfjvC4NVw5MmyX6) | [I Hate You Juliet \(Original Television Soundtrack\)](https://open.spotify.com/album/0HzYxSwjuPsLCVsmPi1yNB) | 3:18 | 2022-07-12 | 2022-11-13 |
 | [Strange](https://open.spotify.com/track/5tRk2bmw4SGYNchKrprYRZ) | [Apink BnN](https://open.spotify.com/artist/74FhUVHWfjvC4NVw5MmyX6) | [I Hate You Juliet \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/694a8URn9rniVXNyGS14w4) | 3:18 | 2022-07-12 |  |
 | [Sunday Monday](https://open.spotify.com/track/1dpixaJ9toPeLL2AXm86ox) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Pink LUV + Blossom](https://open.spotify.com/album/2EHA3up6S0LpzQLZ7XlRsb) | 3:34 | 2022-04-20 | 2022-07-29 |
 | [SUNDAY MONDAY](https://open.spotify.com/track/6Z6lMNbl4SxxBVYLNS5ihz) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Pink Blossom](https://open.spotify.com/album/5BrUPvAXYFeCqLKoTjSw3o) | 3:34 | 2022-07-12 |  |

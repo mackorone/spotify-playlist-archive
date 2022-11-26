@@ -305,7 +305,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-16",
+      "date_removed": "2022-11-13",
       "duration_ms": 245200,
       "name": "Bones",
       "url": "https://open.spotify.com/track/2DEuJwJSQJ7CuFeWQcfJsP"
@@ -453,7 +453,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-03",
+      "date_removed": "2022-11-13",
       "duration_ms": 237165,
       "name": "California Girl",
       "url": "https://open.spotify.com/track/5EAW4A7wuZQxdrZkBQp3NR"
@@ -471,7 +471,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 214000,
       "name": "Can Someone Take Me Home?",
       "url": "https://open.spotify.com/track/2xwdBMuWwjtEOQ1amOjI6V"
@@ -525,7 +525,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 271880,
       "name": "Clorox Wipe",
       "url": "https://open.spotify.com/track/3SkDCAsph6e4ExoUQ1dVW0"
@@ -645,7 +645,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 222250,
       "name": "Come With Me",
       "url": "https://open.spotify.com/track/6MM83CZc1Vj1VaP410sL6S"
@@ -789,7 +789,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": null,
       "duration_ms": 218451,
       "name": "DEEP END",
       "url": "https://open.spotify.com/track/4oXgYIpKj7qMCJ2U0xvR6y"
@@ -861,7 +861,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 258482,
       "name": "doyouwannabemine?",
       "url": "https://open.spotify.com/track/5xw1Bl7FMkQeQHFhpj7imK"
@@ -977,7 +977,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-14",
       "duration_ms": 200351,
       "name": "Everything",
       "url": "https://open.spotify.com/track/7htpUANwMWFNWxSLPLNYuF"
@@ -1042,6 +1042,24 @@
     },
     {
       "album": {
+        "name": "TECHNICOLOR",
+        "url": "https://open.spotify.com/album/6tVteBwrmcuOCe3HT7ToCb"
+      },
+      "artists": [
+        {
+          "name": "Josh Fudge",
+          "url": "https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188143,
+      "name": "FEEL LIKE",
+      "url": "https://open.spotify.com/track/3OEWE9trIOubK63fNhjKk1"
+    },
+    {
+      "album": {
         "name": "FEEL LIKE",
         "url": "https://open.spotify.com/album/1eIaahZPGk6xyVETQmZ8pu"
       },
@@ -1061,6 +1079,24 @@
     {
       "album": {
         "name": "Feels Like I'm Flying",
+        "url": "https://open.spotify.com/album/7Kwkp5g082UgcpJtXVOEh7"
+      },
+      "artists": [
+        {
+          "name": "Yeek",
+          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155142,
+      "name": "Feels Like I'm Flying",
+      "url": "https://open.spotify.com/track/0rOoY7stMHi3T7J2KmkNdV"
+    },
+    {
+      "album": {
+        "name": "Feels Like I'm Flying",
         "url": "https://open.spotify.com/album/6qjchU3qtiwl1TJfM2Pgru"
       },
       "artists": [
@@ -1071,7 +1107,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 155142,
       "name": "Feels Like I'm Flying",
       "url": "https://open.spotify.com/track/4241yTRttQpIbbP5w45k8p"
@@ -1089,7 +1125,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 217245,
       "name": "Fiire",
       "url": "https://open.spotify.com/track/0Lsdnv0bZyvuji8Y9fxnn0"
@@ -1404,6 +1440,24 @@
     },
     {
       "album": {
+        "name": "TECHNICOLOR",
+        "url": "https://open.spotify.com/album/6tVteBwrmcuOCe3HT7ToCb"
+      },
+      "artists": [
+        {
+          "name": "Josh Fudge",
+          "url": "https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162135,
+      "name": "HELLO",
+      "url": "https://open.spotify.com/track/3HwOQx5ROlGQjQgu0YByuL"
+    },
+    {
+      "album": {
         "name": "HELLO",
         "url": "https://open.spotify.com/album/7ENTmmB50lQi4pvn0w6v25"
       },
@@ -1415,7 +1469,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 162135,
       "name": "HELLO",
       "url": "https://open.spotify.com/track/6fvNZQoTK4eOfNg8MGzoiY"
@@ -1629,6 +1683,28 @@
       "duration_ms": 191335,
       "name": "I'm Thru",
       "url": "https://open.spotify.com/track/0cIrhTtBUXE4HVoJ24K14Q"
+    },
+    {
+      "album": {
+        "name": "I'm Thru",
+        "url": "https://open.spotify.com/album/2vhF7msOOZ8QcwXReET5YP"
+      },
+      "artists": [
+        {
+          "name": "Luke Gomm",
+          "url": "https://open.spotify.com/artist/5n1DsrQDgo9Dqav2BZUeuB"
+        },
+        {
+          "name": "Cover art by Hasworld",
+          "url": "https://open.spotify.com/artist/4HaqOBtirZ4ArjpCAMCRGB"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191335,
+      "name": "I'm Thru",
+      "url": "https://open.spotify.com/track/4ufWGDUgfZ0IHuDQsqAVMd"
     },
     {
       "album": {
@@ -1849,7 +1925,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-26",
       "duration_ms": 156818,
       "name": "Last Laugh",
       "url": "https://open.spotify.com/track/2cMbR3st2EFMvznwB0ogjj"
@@ -1885,10 +1961,28 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 235263,
       "name": "Losing Touch",
       "url": "https://open.spotify.com/track/2b5e6kL0n4jOGfwhRVITig"
+    },
+    {
+      "album": {
+        "name": "House of FM",
+        "url": "https://open.spotify.com/album/4WilCpAY0oHk9Gxmki8wOI"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235263,
+      "name": "Losing Touch",
+      "url": "https://open.spotify.com/track/6EshmnAdZGBCA2LYCCX2Uy"
     },
     {
       "album": {
@@ -1987,7 +2081,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 154893,
       "name": "MICHELLE",
       "url": "https://open.spotify.com/track/25CsbJSuItQQnhyC02vnnk"
@@ -2059,10 +2153,28 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 285440,
       "name": "Most Really Pretty Girls Have Pretty Ugly Feet",
       "url": "https://open.spotify.com/track/0SwAOdc4C2kWUMbsXG4ztz"
+    },
+    {
+      "album": {
+        "name": "If This Is House I Want My Money Back 3",
+        "url": "https://open.spotify.com/album/5hFiYTq5w37WmW7Bx2mwHh"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285440,
+      "name": "Most Really Pretty Girls Have Pretty Ugly Feet",
+      "url": "https://open.spotify.com/track/1kgHjcE0F72RDkaA8adtXG"
     },
     {
       "album": {
@@ -2081,6 +2193,24 @@
       "duration_ms": 163087,
       "name": "Mushrooms",
       "url": "https://open.spotify.com/track/5q5oNwAs28k9dtnkAliFdX"
+    },
+    {
+      "album": {
+        "name": "My Demise",
+        "url": "https://open.spotify.com/album/2Z1R0wuI23MhyEsi5Go4ot"
+      },
+      "artists": [
+        {
+          "name": "Porsh Bet$",
+          "url": "https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 136363,
+      "name": "My Demise",
+      "url": "https://open.spotify.com/track/4FLlFDUpEVUM1M8YjAFzMD"
     },
     {
       "album": {
@@ -2334,6 +2464,28 @@
     },
     {
       "album": {
+        "name": "PIE",
+        "url": "https://open.spotify.com/album/6glFEczFwAjeB16GvQBoJ5"
+      },
+      "artists": [
+        {
+          "name": "Luke Wild",
+          "url": "https://open.spotify.com/artist/1K39EPBZGfaTe2433SFmL8"
+        },
+        {
+          "name": "Deb Never",
+          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176552,
+      "name": "PIE",
+      "url": "https://open.spotify.com/track/69W17RttaPLLzfZKc5g1ey"
+    },
+    {
+      "album": {
         "name": "Pixel Bath",
         "url": "https://open.spotify.com/album/121Hqnfr9tMBdL0LJuIstL"
       },
@@ -2461,7 +2613,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 225600,
       "name": "Rich Girl",
       "url": "https://open.spotify.com/track/0ixGQPZSCRllfWBNrG2E31"
@@ -2573,7 +2725,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 182479,
       "name": "Settle",
       "url": "https://open.spotify.com/track/4mf7qJmN4RwCGMZoMQ0IlX"
@@ -2591,7 +2743,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 183569,
       "name": "she calls me daddy",
       "url": "https://open.spotify.com/track/4nBsvvjN134KFVcvFMLWwK"
@@ -2653,7 +2805,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 177538,
       "name": "Silver and Gold (feat. Sam Fischer & Pink Sweat$)",
       "url": "https://open.spotify.com/track/1QVTgEwKTkuKkA3UDyxGDX"
@@ -2679,6 +2831,24 @@
     {
       "album": {
         "name": "Dream in Colour",
+        "url": "https://open.spotify.com/album/3TaQ5k2QKdRly0pjMPZF6e"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183896,
+      "name": "Skin on Skin",
+      "url": "https://open.spotify.com/track/3OGSGJCdO1nbOrByhEuDus"
+    },
+    {
+      "album": {
+        "name": "Dream in Colour",
         "url": "https://open.spotify.com/album/21z7E0MTyBXzjvuvsVt2Av"
       },
       "artists": [
@@ -2689,7 +2859,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 183896,
       "name": "Skin on Skin",
       "url": "https://open.spotify.com/track/5enKTHTO3V8qFrsyCtXwRF"
@@ -3023,7 +3193,7 @@
           "url": "https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex"
         }
       ],
-      "date_added": "2022-10-07",
+      "date_added": "2022-10-06",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 188869,
@@ -3189,6 +3359,24 @@
     {
       "album": {
         "name": "VOCES",
+        "url": "https://open.spotify.com/album/0AbXWJGEy8k6hBxZPVGCJW"
+      },
+      "artists": [
+        {
+          "name": "MATVE\u00cf",
+          "url": "https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-17",
+      "duration_ms": 202041,
+      "name": "VOCES",
+      "url": "https://open.spotify.com/track/4GPrUV2O7u9bL5VsTh3RrB"
+    },
+    {
+      "album": {
+        "name": "VOCES",
         "url": "https://open.spotify.com/album/2MWf4eWrRmV39ju55H9FMQ"
       },
       "artists": [
@@ -3311,10 +3499,28 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 188380,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/4Zc6fjadh1ONHDtec9poAD"
+    },
+    {
+      "album": {
+        "name": "Are We Going Too Slow?",
+        "url": "https://open.spotify.com/album/5xIG1uX52BQikNOdXtL10N"
+      },
+      "artists": [
+        {
+          "name": "Clubhouse",
+          "url": "https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188380,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/7zFtgo8QMmJQj6dWKrtQwM"
     },
     {
       "album": {
@@ -3445,6 +3651,24 @@
     {
       "album": {
         "name": "Winona",
+        "url": "https://open.spotify.com/album/2WVb9SfnuZ2gRIjGRBUHbx"
+      },
+      "artists": [
+        {
+          "name": "Miloe",
+          "url": "https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145186,
+      "name": "Winona",
+      "url": "https://open.spotify.com/track/3VQYvYIL5KwHVz7tMLdr1n"
+    },
+    {
+      "album": {
+        "name": "Winona",
         "url": "https://open.spotify.com/album/29HNHTBfCETetrohUBXJxY"
       },
       "artists": [
@@ -3455,7 +3679,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 145186,
       "name": "Winona",
       "url": "https://open.spotify.com/track/50CrMqvVH178XRNNhhXfTy"
@@ -3509,10 +3733,28 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 118363,
       "name": "\u200erubber \u200echecks",
       "url": "https://open.spotify.com/track/2KiziPinruARpIvC05NTqJ"
+    },
+    {
+      "album": {
+        "name": "\u200erubber \u200echecks",
+        "url": "https://open.spotify.com/album/22yEH7dzROVoUerLqNZy7Z"
+      },
+      "artists": [
+        {
+          "name": "maxime.",
+          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118363,
+      "name": "\u200erubber \u200echecks",
+      "url": "https://open.spotify.com/track/2VJ40dmMMmZCxZkeEbPKpo"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8OR0U4UGusN"

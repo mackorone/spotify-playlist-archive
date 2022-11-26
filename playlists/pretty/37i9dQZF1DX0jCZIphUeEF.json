@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:artist:4Jh6PxSFH7CrZrQpDivlYf\">Amine K</a>'s favorite tracks. Updated regularly. Curated by Amine K. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 1975,
+  "num_followers": 3112,
   "original_name": "Amine K's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjYzNTgwNiwwMDAwMDAwMDYzMTQwMDRiZWY4ZmI4Mzc4ZGI5YWRkNDYyOGE0OWZm",
+  "snapshot_id": "MTY2NzgwMzY0NywwMDAwMDAwMGE5NzhlM2NmZjA4ZTc0ZGNmNGU0NmNhYTM4NTE5MmQ5",
   "tracks": [
     {
       "added_at": "2022-09-08 11:16:46",
@@ -29,9 +29,189 @@
       "url": "https://open.spotify.com/track/6NOJswDL08HluDGQPc8WXY"
     },
     {
+      "added_at": "2022-11-07 06:47:27",
+      "album": {
+        "name": "Switch EP",
+        "url": "https://open.spotify.com/album/5QHo598Fn2lzsCUjzHPgdF"
+      },
+      "artists": [
+        {
+          "name": "Martin Waslewski",
+          "url": "https://open.spotify.com/artist/3qk4AowZhFKoYHocPk6l06"
+        }
+      ],
+      "duration_ms": 296585,
+      "name": "Switch",
+      "url": "https://open.spotify.com/track/27OHNB09536noXha5o0M2b"
+    },
+    {
+      "added_at": "2022-11-07 06:47:27",
+      "album": {
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/3tqxbagniKI9O28YVKUiKo"
+      },
+      "artists": [
+        {
+          "name": "DJ Chus",
+          "url": "https://open.spotify.com/artist/7kxOVclB0zQamtBR0syCrg"
+        }
+      ],
+      "duration_ms": 216393,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/5VkBNt0nUlQoPkg0APK5Ep"
+    },
+    {
+      "added_at": "2022-11-07 06:47:27",
+      "album": {
+        "name": "Show Me Love (Remixed by Emmaculate)",
+        "url": "https://open.spotify.com/album/3POv2LmAO0VZuUl4ExX6rC"
+      },
+      "artists": [
+        {
+          "name": "Robin S",
+          "url": "https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3"
+        },
+        {
+          "name": "Emmaculate",
+          "url": "https://open.spotify.com/artist/773IYSUSNH4RFefjVVogGB"
+        }
+      ],
+      "duration_ms": 361974,
+      "name": "Show Me Love - Emmaculate Remix",
+      "url": "https://open.spotify.com/track/1Uh50JCkzmtXUZKBMAshYO"
+    },
+    {
+      "added_at": "2022-11-07 06:47:27",
+      "album": {
+        "name": "Mantra / Trumpets Are Back",
+        "url": "https://open.spotify.com/album/0EXK1efujpKOoGUZMhEv7R"
+      },
+      "artists": [
+        {
+          "name": "Danny Serrano",
+          "url": "https://open.spotify.com/artist/3kerdbIX1DaNMNBcgvKtDR"
+        }
+      ],
+      "duration_ms": 241920,
+      "name": "Trumpets Are Back",
+      "url": "https://open.spotify.com/track/6dm3dc3rvODxGrvHqPougj"
+    },
+    {
+      "added_at": "2022-11-07 06:47:27",
+      "album": {
+        "name": "If Only You Knew (feat. Joy Farrukh)",
+        "url": "https://open.spotify.com/album/4oLboNW38je1RoDqCKhR3n"
+      },
+      "artists": [
+        {
+          "name": "Steve Lawler",
+          "url": "https://open.spotify.com/artist/0NDuRCSLSH0Ii5An4U6HME"
+        },
+        {
+          "name": "Marco Lys",
+          "url": "https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1"
+        },
+        {
+          "name": "Joy Farrukh",
+          "url": "https://open.spotify.com/artist/6bYeMHJHXkOurzcYC2vkPC"
+        }
+      ],
+      "duration_ms": 167639,
+      "name": "If Only You Knew (feat. Joy Farrukh)",
+      "url": "https://open.spotify.com/track/1eVrJXGAisfB41oeubH3xK"
+    },
+    {
+      "added_at": "2022-11-07 06:47:27",
+      "album": {
+        "name": "Tell Me Something Good",
+        "url": "https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4"
+      },
+      "artists": [
+        {
+          "name": "Ewan McVicar",
+          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
+        }
+      ],
+      "duration_ms": 249678,
+      "name": "Tell Me Something Good",
+      "url": "https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM"
+    },
+    {
+      "added_at": "2022-11-07 06:47:27",
+      "album": {
+        "name": "Dance With Me EP",
+        "url": "https://open.spotify.com/album/4s6yX6gWHCSuI9M67i3qUC"
+      },
+      "artists": [
+        {
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+        }
+      ],
+      "duration_ms": 391590,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/7i08AhQcrdD4GLlr2Pmamg"
+    },
+    {
+      "added_at": "2022-11-07 06:47:27",
+      "album": {
+        "name": "Da Fonk (feat. Joni)",
+        "url": "https://open.spotify.com/album/5t3QAcFlAa6hB08H976naz"
+      },
+      "artists": [
+        {
+          "name": "Mochakk",
+          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
+        },
+        {
+          "name": "Joni",
+          "url": "https://open.spotify.com/artist/6nZ4pcLtZYblB2ZwD7qvwe"
+        }
+      ],
+      "duration_ms": 366141,
+      "name": "Da Fonk (feat. Joni)",
+      "url": "https://open.spotify.com/track/6ryPKHgiz6MSGJ1wYqn28b"
+    },
+    {
+      "added_at": "2022-11-07 06:47:27",
+      "album": {
+        "name": "Vader",
+        "url": "https://open.spotify.com/album/6d4jmHcF77LQbSSTzbEX2j"
+      },
+      "artists": [
+        {
+          "name": "Ejeca",
+          "url": "https://open.spotify.com/artist/0tSC9Vot7WlR1MsLBqQ9HX"
+        }
+      ],
+      "duration_ms": 211653,
+      "name": "Vader",
+      "url": "https://open.spotify.com/track/3JligMCYcd31OhGD93doZy"
+    },
+    {
+      "added_at": "2022-11-07 06:47:27",
+      "album": {
+        "name": "Pliva",
+        "url": "https://open.spotify.com/album/4EATgaagFfAx7fynhS2gdh"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
+        {
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        }
+      ],
+      "duration_ms": 244570,
+      "name": "Pliva",
+      "url": "https://open.spotify.com/track/5tfqO6elC42ZwXfIN1aSDk"
+    },
+    {
       "added_at": "2022-09-08 11:16:46",
       "album": {
-        "name": "He Is",
+        "name": "He Is (feat. Song Williamson)",
         "url": "https://open.spotify.com/album/51gAjOsqdrk7lOt9aCXjwp"
       },
       "artists": [
@@ -232,7 +412,7 @@
       "added_at": "2022-09-08 11:16:46",
       "album": {
         "name": "Cruel Summer (Musumeci Remixes)",
-        "url": "https://open.spotify.com/album/5NW7vGBRGv5BvxvuKh7e6p"
+        "url": "https://open.spotify.com/album/5q34nsGcAr0ElZVbq9wgMP"
       },
       "artists": [
         {
@@ -249,8 +429,8 @@
         }
       ],
       "duration_ms": 289025,
-      "name": "Cruel Summer - Musumeci Wax Off Remix",
-      "url": "https://open.spotify.com/track/0UbxjF0H8hEf8r5KsfKnp3"
+      "name": "Cruel Summer - Musumeci Wax off Remix",
+      "url": "https://open.spotify.com/track/15PJHoA91oxrgYkwVa3TVZ"
     },
     {
       "added_at": "2022-09-08 11:16:46",
@@ -416,7 +596,7 @@
       "added_at": "2022-09-08 11:16:46",
       "album": {
         "name": "I Feel Love (Monkey Safari Remix)",
-        "url": "https://open.spotify.com/album/2o8I77Z1HsMqCKAdEcTT6o"
+        "url": "https://open.spotify.com/album/4qJPPQ2dIJ9MOnVfGG2PN7"
       },
       "artists": [
         {
@@ -424,17 +604,17 @@
           "url": "https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU"
         },
         {
-          "name": "Chic Loren",
-          "url": "https://open.spotify.com/artist/3jMsCseQv7XvuJ9LJQN5dM"
-        },
-        {
           "name": "Monkey Safari",
           "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        },
+        {
+          "name": "Chic Loren",
+          "url": "https://open.spotify.com/artist/3jMsCseQv7XvuJ9LJQN5dM"
         }
       ],
       "duration_ms": 556908,
       "name": "I Feel Love - Monkey Safari Remix",
-      "url": "https://open.spotify.com/track/4O7rsawCxBlcrYSz6ZHmMM"
+      "url": "https://open.spotify.com/track/37nppJzOgypngu1szTRD06"
     },
     {
       "added_at": "2022-09-08 11:16:46",
@@ -872,7 +1052,7 @@
       "added_at": "2022-09-08 11:16:46",
       "album": {
         "name": "Mi Pena",
-        "url": "https://open.spotify.com/album/28yEiaLt8HAtzE3qTrQBlX"
+        "url": "https://open.spotify.com/album/0Jk1DzW10G0u6MYlBWuCyr"
       },
       "artists": [
         {
@@ -882,7 +1062,7 @@
       ],
       "duration_ms": 346237,
       "name": "Mi Pena",
-      "url": "https://open.spotify.com/track/29q0bUyU7TO83cY3oP7rMp"
+      "url": "https://open.spotify.com/track/4H1WX8N0IRyPn2kG1TrJEI"
     },
     {
       "added_at": "2022-09-08 11:16:46",

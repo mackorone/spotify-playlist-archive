@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 269320,
       "name": "432 - Suzanne Ciani Rework",
       "url": "https://open.spotify.com/track/1ApcdqaszE4EpOp50FinUy"
@@ -95,7 +95,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-25",
+      "date_removed": null,
       "duration_ms": 235015,
       "name": "A Higher Place - Live",
       "url": "https://open.spotify.com/track/2deGGE7ZjGD0Wd4T48bXJc"
@@ -153,10 +153,28 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-16",
+      "date_removed": "2022-10-25",
       "duration_ms": 195365,
       "name": "A Sonic Womb Pt. 3",
       "url": "https://open.spotify.com/track/5cuoT2PzaEPjfnPjoaIt2K"
+    },
+    {
+      "album": {
+        "name": "A Sonic Womb: Live Buchla Performance at Lapsus",
+        "url": "https://open.spotify.com/album/0gsVKXimgT760p9OzIbT2K"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174162,
+      "name": "A Sonic Womb Pt. 5",
+      "url": "https://open.spotify.com/track/775eFKdL4tIK5x53RJd1u4"
     },
     {
       "album": {
@@ -225,7 +243,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 261800,
       "name": "Andalusian Dream",
       "url": "https://open.spotify.com/track/0xAe35lAnTKENUi5VgO2Hk"
@@ -279,7 +297,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 123666,
       "name": "Bel Canto",
       "url": "https://open.spotify.com/track/2AoTWMO8PyX6kyUHVcIxxH"
@@ -333,7 +351,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": "2022-10-12",
       "duration_ms": 213706,
       "name": "Capri",
       "url": "https://open.spotify.com/track/2M5QxNMs83xjGeKba51o4w"
@@ -351,7 +369,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 273000,
       "name": "Celtic Nights",
       "url": "https://open.spotify.com/track/2xMUE2MRptR7uc8r8i2brq"
@@ -391,7 +409,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 1200519,
       "name": "Concert at Phil Niblock's Loft",
       "url": "https://open.spotify.com/track/0t7H4g6R10lDoGMvM9Vt5n"
@@ -409,7 +427,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 1189141,
       "name": "Concert at Wbai Free Music Store",
       "url": "https://open.spotify.com/track/1SrKUJ1r6wNGSqaF7aKvzv"
@@ -481,7 +499,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": "2022-10-12",
       "duration_ms": 247960,
       "name": "Eagle",
       "url": "https://open.spotify.com/track/5qSxp12DHTXYyqeDlOnMr9"
@@ -679,7 +697,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 248733,
       "name": "Inverness",
       "url": "https://open.spotify.com/track/1xeHo019QG0x1zh3Hob3tX"
@@ -733,7 +751,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 258000,
       "name": "La Mer",
       "url": "https://open.spotify.com/track/3h8kKBk7Chy2LXzUhLmVAP"
@@ -787,7 +805,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-10-13",
       "duration_ms": 229466,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/59bx2QqW0p8P3g4OsEwssd"
@@ -877,7 +895,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-11-16",
       "duration_ms": 218973,
       "name": "Megan's Dream",
       "url": "https://open.spotify.com/track/3ALDShaf3QEX1OcfvwLURW"
@@ -985,7 +1003,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 254600,
       "name": "Ocean Avenue",
       "url": "https://open.spotify.com/track/3bqA2pghklVzvAn4U04qLO"
@@ -1021,7 +1039,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 216666,
       "name": "Open Seas",
       "url": "https://open.spotify.com/track/51PQWtxQ9doTVToh33gi94"
@@ -1147,7 +1165,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-03",
+      "date_removed": "2022-10-12",
       "duration_ms": 251226,
       "name": "Riding Heaven's Wave: Eulogy to a Surfer",
       "url": "https://open.spotify.com/track/0bgUeNfG2l4STlnn2CBV59"
@@ -1165,7 +1183,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 342760,
       "name": "Sailing To Byzantium - (New)",
       "url": "https://open.spotify.com/track/4VujPCSGU7lUU6QOIpxAs8"
@@ -1201,7 +1219,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": "2022-11-21",
       "duration_ms": 229080,
       "name": "Silver Ship",
       "url": "https://open.spotify.com/track/3sWBvGaYnq0cDN6lNNNAIt"
@@ -1255,7 +1273,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-05",
+      "date_removed": "2022-11-24",
       "duration_ms": 196333,
       "name": "Sogno Agitato",
       "url": "https://open.spotify.com/track/3vuYkYDHb4mSJfP0ewpBUh"
@@ -1273,7 +1291,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 246293,
       "name": "Stromboli",
       "url": "https://open.spotify.com/track/7ijPcZ54DGNPRfu5DXQBc5"
@@ -1291,7 +1309,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-31",
+      "date_removed": "2022-11-21",
       "duration_ms": 244866,
       "name": "Summer's Day",
       "url": "https://open.spotify.com/track/11xXOsfjQTOUtpp0Db633j"
@@ -1309,7 +1327,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 207640,
       "name": "Terra Mesa",
       "url": "https://open.spotify.com/track/5vhLS9WUO8KndhHqfCPwoD"
@@ -1345,7 +1363,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "The Enchantress",
       "url": "https://open.spotify.com/track/2rjR6HcLE20PXToShdF1QP"
@@ -1435,7 +1453,7 @@
       ],
       "date_added": "2022-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": "2022-10-13",
       "duration_ms": 396826,
       "name": "The Seventh Wave - Sailing Away",
       "url": "https://open.spotify.com/track/3mIudsQ5RoTpT6FgGMKhfj"
@@ -1525,7 +1543,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 252333,
       "name": "Time Stops",
       "url": "https://open.spotify.com/track/3r3nBeuWpbhrA0UyROJ5VS"
@@ -1543,7 +1561,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": "2022-10-13",
       "duration_ms": 215360,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/5voa2qWyVFrcjihOdFq4hF"
@@ -1579,7 +1597,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 218333,
       "name": "Tuscany",
       "url": "https://open.spotify.com/track/7MKHnn1icO9Ce7FRHPY2pv"
@@ -1597,7 +1615,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 243733,
       "name": "Waltz For Julia",
       "url": "https://open.spotify.com/track/7orVWspB20r4L2975OkwF5"
@@ -1633,7 +1651,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-10-13",
       "duration_ms": 255866,
       "name": "Wine Dark Sea",
       "url": "https://open.spotify.com/track/6fx3pLWTbmyaCo8z64LrPI"
@@ -1651,7 +1669,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 201426,
       "name": "Yang Ming Shen",
       "url": "https://open.spotify.com/track/144VOxc6bRJTg0AiWQnhBj"

@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 204461,
       "name": "911",
       "url": "https://open.spotify.com/track/4xr5M4pgpUYpkeTN08Qwo1"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 178173,
       "name": "Corrido de la Hermana",
       "url": "https://open.spotify.com/track/5X9rrWWiacx19R8iIovft7"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2022-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 153013,
       "name": "En toda la chapa",
       "url": "https://open.spotify.com/track/2bYFjXeMwQ9S17ZUbUQ9gq"
@@ -397,7 +397,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 174866,
       "name": "Gracias mujer",
       "url": "https://open.spotify.com/track/6ky62QbRkQK6zYNuHexica"
@@ -451,7 +451,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 123306,
       "name": "Ingratos ojos m\u00edos",
       "url": "https://open.spotify.com/track/34XdmETpQ8dw17dfyA9znG"
@@ -523,7 +523,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 159106,
       "name": "La Ni\u00f1a Fresa",
       "url": "https://open.spotify.com/track/68ZWi4vyv2Xo8u0FkstaZv"
@@ -541,7 +541,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 191266,
       "name": "La noche que Chicago muri\u00f3",
       "url": "https://open.spotify.com/track/2fz0tjz7uUMY9jIxIUTd4H"
@@ -631,7 +631,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": "2022-10-12",
       "duration_ms": 155906,
       "name": "Las ma\u00f1anitas",
       "url": "https://open.spotify.com/track/7FVYW5IyR8vcDQkXmPOLJQ"
@@ -836,6 +836,24 @@
     },
     {
       "album": {
+        "name": "Rancheras de oro",
+        "url": "https://open.spotify.com/album/4aPS74SgbMHdVmhcfHEsXD"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141533,
+      "name": "No compro amores",
+      "url": "https://open.spotify.com/track/3RFaoL5rTwLJN0SgG6ERdq"
+    },
+    {
+      "album": {
         "name": "25 Bandazos de Machos (Vol. 2) [USA]",
         "url": "https://open.spotify.com/album/6AO0JgrAWIRkLGtkPeJ1vv"
       },
@@ -955,7 +973,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 195199,
       "name": "Sigues Siendo La Reina",
       "url": "https://open.spotify.com/track/3rQxUDGge46zQq37oQXvHe"
@@ -973,7 +991,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 176093,
       "name": "Te Lavaste la Cara y el Mono No (El Mono de Marciana)",
       "url": "https://open.spotify.com/track/6oJBFXFuovJM9bYyIWf9QH"
@@ -1063,7 +1081,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 181106,
       "name": "Tu otro dios - Tu dios de poder",
       "url": "https://open.spotify.com/track/60UOcLgASgH7nfjckAHadn"
@@ -1081,7 +1099,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 169386,
       "name": "Un indio quiere llorar",
       "url": "https://open.spotify.com/track/2EiI77Zus1qAINPOxFTcyK"
@@ -1099,7 +1117,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-25",
+      "date_removed": null,
       "duration_ms": 169386,
       "name": "Un indio quiere llorar",
       "url": "https://open.spotify.com/track/4cnm9F3YGOW6ydiyo3LdrW"
@@ -1117,7 +1135,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-01",
+      "date_removed": null,
       "duration_ms": 172666,
       "name": "Usted",
       "url": "https://open.spotify.com/track/4jUwjtLbWMKG3vwUDiEADY"

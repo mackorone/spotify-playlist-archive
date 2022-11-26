@@ -4,7 +4,7 @@
 
 > A playlist of Christian summer camp favorites, past and present.
 
-60 songs - 3 hr 50 min - [published](https://open.spotify.com/playlist/4zi31rdXvldSXq3voUeFgF)
+63 songs - 4 hr 5 min - [published](https://open.spotify.com/playlist/4zi31rdXvldSXq3voUeFgF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,8 +22,10 @@
 | [Fear Get Out of Here](https://open.spotify.com/track/4eBEZDnYDOrCJqBLg6JobM) | [Orange Kids Music](https://open.spotify.com/artist/5Xszvj310qgS7Fwn91Wvhu) | [All Good](https://open.spotify.com/album/1vVS1HB8nkk0jn2rcyfHdS) | 2:40 | 2021-06-29 |  |
 | [Give Me Faith](https://open.spotify.com/track/0Iahiy5y1VEmuwTFb65tG8) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Kingdom Come](https://open.spotify.com/album/1wnfwokJAwNET0FZ4X2KCH) | 4:54 | 2021-06-29 |  |
 | [Great Big God](https://open.spotify.com/track/4vLiBeWve4L9llDzGdpWsM) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Vineyard Kids](https://open.spotify.com/artist/2PwunoNd5k6WstyyC67xhH) | [Great Big God](https://open.spotify.com/album/0Y36IFn8h2NS5afQZXpnTT) | 2:51 | 2021-06-29 |  |
+| [Here I Am To Worship](https://open.spotify.com/track/1jJGsbNUHIx56LERqyJrah) | [Tim Hughes](https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh) | [Simply Worship](https://open.spotify.com/album/3tTXAa3g7P8iA5fphqeHpW) | 5:15 | 2021-06-29 | 2022-11-13 |
 | [Here I Am To Worship](https://open.spotify.com/track/0uOd48gTo5pVFzk6Yrba6Y) | [Tim Hughes](https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh) | [Ultimate Collection](https://open.spotify.com/album/5sDGZt6F7nKvUpigtTSepn) | 5:17 | 2021-06-29 |  |
 | [Here I Am To Worship \- Mission Worship \- In Christ Alone Album Version](https://open.spotify.com/track/6CWg6OxlJE72TOLNja5vqh) | [Tim Hughes](https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh) | [In Christ Alone](https://open.spotify.com/album/0v4hMZok1tOdMGPRlcKXOC) | 5:16 | 2021-06-29 | 2022-07-29 |
+| [Here We Go](https://open.spotify.com/track/0A32dbMVBWsk1y0ewKWvkx) | [Grits](https://open.spotify.com/artist/6aUgzC0cMh0StjV7LyFEDr) | [Gotee Hits](https://open.spotify.com/album/4dm9eudoPrZgupGdfOSrzG) | 3:19 | 2021-06-29 | 2022-11-13 |
 | [Here We Go](https://open.spotify.com/track/56Dfc7SRXmLVUH2Dx4Soa2) | [Grits](https://open.spotify.com/artist/6aUgzC0cMh0StjV7LyFEDr) | [The Art of Translation](https://open.spotify.com/album/2DtNX7KFKsCf1CNJt5gvif) | 3:19 | 2021-06-29 | 2022-07-29 |
 | [Here We Go](https://open.spotify.com/track/5E0d1I8UAe7sleydsGgp4Q) | [Grits](https://open.spotify.com/artist/6aUgzC0cMh0StjV7LyFEDr) | [The Art of Translation](https://open.spotify.com/album/3SNV12s5lZN3puLp5Vft8w) | 3:19 | 2021-06-29 |  |
 | [Holy Spirit \- Revisited](https://open.spotify.com/track/4Jvq8lCTo5shqoqeDTQ9F7) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Majestic \(Revisited\)](https://open.spotify.com/album/3gWb1UHZunO0Gz28KIyH6w) | 5:05 | 2021-06-29 |  |
@@ -37,6 +39,7 @@
 | [Living in Freedom](https://open.spotify.com/track/0exZQ7G2AuvDaUnpNMpQDK) | [Stephen Witt](https://open.spotify.com/artist/3G14FwuoYRc81zwkSFQqkg) | [Living in Freedom](https://open.spotify.com/album/3JeN6zZsjrwk3s8gra1bOG) | 4:26 | 2021-06-29 |  |
 | [Lord I Lift Your Name on High](https://open.spotify.com/track/1TIZNu7zA2EiixLFmrmsyF) | [Sonicflood](https://open.spotify.com/artist/1lPSXeZw9i7js7PdFJXEJI) | [Sonicpraise](https://open.spotify.com/album/5uzmXNAOurQhBSA4QUx4eq) | 6:21 | 2021-06-29 |  |
 | [Lord I Lift Your Name On High](https://open.spotify.com/track/4YGyH585tBURMPnryf3OpV) | [Sonicflood](https://open.spotify.com/artist/1lPSXeZw9i7js7PdFJXEJI) | [SonicPraise](https://open.spotify.com/album/2v1fOkMUrvzIeGPqAtAxN0) | 6:21 | 2021-06-29 | 2022-07-29 |
+| [Lord I Lift Your Name On High](https://open.spotify.com/track/5uDZy78ASEbX2uMqR69BwT) | [Sonicflood](https://open.spotify.com/artist/1lPSXeZw9i7js7PdFJXEJI) | [The Ultimate Collection: Worship](https://open.spotify.com/album/4TOWBYWhX0juUikLgFpc3B) | 6:21 | 2021-06-29 | 2022-11-13 |
 | [Lord, I Need You](https://open.spotify.com/track/4EHWldZTas5KUyFtT0rQlY) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [All The People Said Amen](https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu) | 3:25 | 2021-06-29 |  |
 | [Louder](https://open.spotify.com/track/64ev1jINEWjZPxq61hhiVb) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1) | [Louder](https://open.spotify.com/album/30iuX3rXL5jwbgUJnFUaTf) | 3:02 | 2021-06-29 |  |
 | [Love Like You \(Laudr8 Remix\)](https://open.spotify.com/track/2WFOLhpZmDGhl1xmwIIZrJ) | [N + I](https://open.spotify.com/artist/2W8wysjBNC2z0U87dTzGpm), [Laudr8](https://open.spotify.com/artist/6lemZqDbBHWop31eZGxX8i) | [Love Like You \(Laudr8 Remix\)](https://open.spotify.com/album/5JsuVLJIXwJcC1b0QG086M) | 2:41 | 2021-06-29 |  |

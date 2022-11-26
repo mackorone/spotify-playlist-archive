@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/4A01B3wh6uv7yOpzYdVLR3.md) - [plain]
 
 ### [TeamSupreme Selects](https://open.spotify.com/playlist/4A01B3wh6uv7yOpzYdVLR3)
 
-> Weekly Selects of the best music chosen by the TeamSupremeCrew themselves..\. Turn the Volume up to 100.
+> 
 
-[beatteamsupreme](https://open.spotify.com/user/beatteamsupreme) - 12,851 likes - 40 songs - 2 hr 28 min
+[beatteamsupreme](https://open.spotify.com/user/beatteamsupreme) - 12,832 likes - 40 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/4A01B3wh6uv7yOpzYdVLR3.md) - [plain]
 | 39 | [Driveway](https://open.spotify.com/track/3NvsdOUYnbDKcTVmIwzCQV) | [Luvabstract](https://open.spotify.com/artist/6p4lS61UQx3lTGsQrELT9R) | [Driveway](https://open.spotify.com/album/67P1zubcL6pLoyoXeSVmkj) | 3:44 |
 | 40 | [JUST LIKE WE NEVER SAID GOODBYE](https://open.spotify.com/track/2cGvUvoFSpczQL25DerV7T) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [JUST LIKE WE NEVER SAID GOODBYE](https://open.spotify.com/album/2X6MX6lzwDmFupGBHfQwJk) | 3:08 |
 
-Snapshot ID: `NiwxMTc4MmIxZjRkMGE3MjM5ZTliYjI5OGFhODk3OTcxOGYxMThjMTM1`
+Snapshot ID: `Nyw0MTgxZDM4NDdjZGZiY2E1NzYxOTkxYmI2YmFkN2RiZTk2MTU0Nzhk`

@@ -296,6 +296,24 @@
     },
     {
       "album": {
+        "name": "Dance Layan Dance",
+        "url": "https://open.spotify.com/album/0Ry9xPX8V0oG3IXcJgmayP"
+      },
+      "artists": [
+        {
+          "name": "Dhafer Youssef",
+          "url": "https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx"
+        }
+      ],
+      "date_added": "2021-02-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 276679,
+      "name": "Dance Layan Dance",
+      "url": "https://open.spotify.com/track/0XunFJIsl3MVDjikiekSJo"
+    },
+    {
+      "album": {
         "name": "Sounds Of Mirrors",
         "url": "https://open.spotify.com/album/4RgbDDGwmTiA8ypNDSoEc6"
       },
@@ -605,7 +623,7 @@
       ],
       "date_added": "2021-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-05",
+      "date_removed": "2022-10-28",
       "duration_ms": 224360,
       "name": "Hob\u00e2b",
       "url": "https://open.spotify.com/track/5JfJrjh3nd5eOjFjPfV0c4"
@@ -689,10 +707,32 @@
       ],
       "date_added": "2021-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 223986,
       "name": "Ikarus' Dream",
       "url": "https://open.spotify.com/track/0qgmSm0xhQo8hR5OVvu2ff"
+    },
+    {
+      "album": {
+        "name": "Flying Carpet",
+        "url": "https://open.spotify.com/album/1Vep08NRl8GxaFy2BZrYxm"
+      },
+      "artists": [
+        {
+          "name": "Quadro Nuevo",
+          "url": "https://open.spotify.com/artist/02VSzyVA68par8UGNNRbAN"
+        },
+        {
+          "name": "Cairo Steps",
+          "url": "https://open.spotify.com/artist/2vplyVvtElnBqkZuftPVow"
+        }
+      ],
+      "date_added": "2021-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223986,
+      "name": "Ikarus' Dream",
+      "url": "https://open.spotify.com/track/4rgIn7tE7ZyC9HrxPYrQAz"
     },
     {
       "album": {
@@ -1239,7 +1279,7 @@
     {
       "album": {
         "name": "Silt",
-        "url": "https://open.spotify.com/album/4aeGmrILBa4zvOb3wt2x3G"
+        "url": "https://open.spotify.com/album/0g2aAVujd0puM9wGzW9T8Y"
       },
       "artists": [
         {
@@ -1250,6 +1290,24 @@
       "date_added": "2021-02-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 155371,
+      "name": "Oud Solo",
+      "url": "https://open.spotify.com/track/1VznWczEVtpXeVHXSjaWO2"
+    },
+    {
+      "album": {
+        "name": "Silt",
+        "url": "https://open.spotify.com/album/4aeGmrILBa4zvOb3wt2x3G"
+      },
+      "artists": [
+        {
+          "name": "Alsarah & The Nubatones",
+          "url": "https://open.spotify.com/artist/7xGVP8NTuOKRVkNMl2fv7n"
+        }
+      ],
+      "date_added": "2021-02-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
       "duration_ms": 155371,
       "name": "Oud Solo",
       "url": "https://open.spotify.com/track/5cgMhpKwX4f1tDK4AV46jJ"
@@ -1369,10 +1427,32 @@
       ],
       "date_added": "2021-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 211586,
       "name": "Rain Drops",
       "url": "https://open.spotify.com/track/3NI3Cc0IbCZuDsNQrC4sxf"
+    },
+    {
+      "album": {
+        "name": "Scheherazade Quartet",
+        "url": "https://open.spotify.com/album/4AOuBnQErE1hg2XBTCPH2W"
+      },
+      "artists": [
+        {
+          "name": "Shardad Rohani",
+          "url": "https://open.spotify.com/artist/3riIYGDJMkjK1OenmRUMrW"
+        },
+        {
+          "name": "Scheherazade Quartet",
+          "url": "https://open.spotify.com/artist/4YuORJGHaZw7VCi8ENOqcD"
+        }
+      ],
+      "date_added": "2021-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211586,
+      "name": "Rain Drops",
+      "url": "https://open.spotify.com/track/3xPV50kbAn5sU1fhCJd4zZ"
     },
     {
       "album": {

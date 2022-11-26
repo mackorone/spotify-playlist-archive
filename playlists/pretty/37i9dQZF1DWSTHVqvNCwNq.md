@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTHVqvNCwNq.md) - [plain]
 
 > Born in the Mississippi Delta \- at the turn of the 20th century \- the Delta Blues is one of the earliest and most influential styles of blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,240 likes - 46 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,677 likes - 46 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTHVqvNCwNq.md) - [plain]
 | 13 | [Saturday Blues](https://open.spotify.com/track/46BA5xsc2MFgFef2wgT8G2) | [Ishman Bracey](https://open.spotify.com/artist/6jAZ0Vg8P52hUomLqMPXcS) | [Suitcase Full of Blues 1928\-1929](https://open.spotify.com/album/2oBd93fHMsEh2eA3ovOIJ5) | 3:29 |
 | 14 | [Devil Got My Woman](https://open.spotify.com/track/1bWh9hOkQGahfQ0rEqvaGR) | [Skip James](https://open.spotify.com/artist/2zlMeTjA7szCmqcJjBzYXJ) | [Legends Of Country Blues: The Complete Pre\-War Recordings Of Skip James \(Disc A\)](https://open.spotify.com/album/2KNRkv1h7OYErPyhVIDQiV) | 3:01 |
 | 15 | [Whoopee Blues](https://open.spotify.com/track/6ylESybqWnIu8Qtm0XyGos) | [King Solomon Hill](https://open.spotify.com/artist/5fJqKIhjv3fatslXWyKysG) | [Presenting King Solomon Hill](https://open.spotify.com/album/1qtKb7yeGIGerPcGfJMAQY) | 3:11 |
-| 16 | [Where Did You Sleep Last Night](https://open.spotify.com/track/3XdnNX0cPynrR7KdRoyjwa) | [Lead Belly](https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC) | [Absolutely The Best](https://open.spotify.com/album/6I0A1EwU5SP9HCwweaWJIq) | 3:01 |
+| 16 | [Where Did You Sleep Last Night](https://open.spotify.com/track/13U0E6CXh2dnEi6eDzNyK0) | [Lead Belly](https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC) | [Tradition Masters Series](https://open.spotify.com/album/0G2QwqUV2Xt73bJAUi8PUv) | 3:01 |
 | 17 | [Good Morning Little Schoolgirl](https://open.spotify.com/track/2LtpyfWWnr5V96l3Js7LLX) | [Mississippi Fred McDowell](https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ) | [Good Morning Little School Girl](https://open.spotify.com/album/3yYBnIVUvJrM6a0z8HNHOl) | 3:21 |
 | 18 | [Canned Heat Blues](https://open.spotify.com/track/1Uk2MppskA0wnHUj8JwYfC) | [Tommy Johnson](https://open.spotify.com/artist/6n4r5eMU2ZUiHPPWhFDcHq) | [Tommy Johnson 1928 \- 1929](https://open.spotify.com/album/1BrjO0ZJTNZliuhAi9Orf7) | 3:39 |
 | 19 | [Coffee Blues](https://open.spotify.com/track/16GdiwewBf99MhUSVsxUBe) | [Mississippi John Hurt](https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA) | [Complete Studio Recordings](https://open.spotify.com/album/5cwghugVHA8qva7hYvMPVJ) | 3:47 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTHVqvNCwNq.md) - [plain]
 | 45 | [Come On In My Kitchen](https://open.spotify.com/track/10W125nMbncRGcXRBoACOx) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [King Of The Delta Blues Singers](https://open.spotify.com/album/2IWaNq5o4tG1w6yxve5BMU) | 2:52 |
 | 46 | [Mississippi Bottom Blues](https://open.spotify.com/track/0trDFIYb4jdj9HOICf9dJc) | [Kid Bailey](https://open.spotify.com/artist/4yPQvmHuBCWokkEvXIvPUD) | [Son House & Great Delta Blues Singers 1928 \- 1930](https://open.spotify.com/album/2fLEYffzYZrGXm0NIfKBfO) | 2:49 |
 
-Snapshot ID: `MTYzOTcxNzI2MCwwMDAwMDAwMGEzNWQ4Y2JkNmVjMWQ4Yzc2OWU2ODBmNmEyYjA4NjUw`
+Snapshot ID: `MTYzOTcxNzI2MCwwMDAwMDAwMDU2NDA5NWRmNWJlMThiYTgxMDYyZGQ5MDU1NGQ5M2Uz`

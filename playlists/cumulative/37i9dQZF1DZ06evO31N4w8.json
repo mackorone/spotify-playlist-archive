@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 181773,
       "name": "A Punto De Llorar",
       "url": "https://open.spotify.com/track/37L9WDAl7Y81QYhkgoxJBQ"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 159373,
       "name": "Como Piedra En Pozo",
       "url": "https://open.spotify.com/track/1AIN8gEZXRwTJ30YYZsGjo"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 146413,
       "name": "Dulces Mentiras",
       "url": "https://open.spotify.com/track/1s90RxawZmkzRvL17uQbYP"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 188880,
       "name": "El Columpio",
       "url": "https://open.spotify.com/track/6W4HG5QGnDy4NYbveYjtKt"
@@ -581,7 +581,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-10-12",
       "duration_ms": 171106,
       "name": "La Ech\u00e9 En Un Carrito",
       "url": "https://open.spotify.com/track/0fJh2z8ZrYNYPtgErkqBZ5"
@@ -657,7 +657,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 243095,
       "name": "Lo Siento Amigo - Mariachi",
       "url": "https://open.spotify.com/track/25lwn5YDaP9Tp80HyvJTsX"
@@ -675,7 +675,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-10-13",
       "duration_ms": 183600,
       "name": "Me Lo Contaron Ayer",
       "url": "https://open.spotify.com/track/0lWHxgeKgWiNpUHKD7Y8QW"
@@ -736,6 +736,28 @@
     },
     {
       "album": {
+        "name": "No Digas Mentiras",
+        "url": "https://open.spotify.com/album/2gIFbMCEIcu2p7yf4NFPt0"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Rio Grande",
+          "url": "https://open.spotify.com/artist/2Ro0uSqcQMG6L3ZRyoDEsG"
+        },
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170713,
+      "name": "No Digas Mentiras",
+      "url": "https://open.spotify.com/track/23e6dU25FC7HSLxAQntHF5"
+    },
+    {
+      "album": {
         "name": "15 Exitos: La Maquina Musical Numero Uno",
         "url": "https://open.spotify.com/album/1zROvL56Rc1Ginre3mWSgD"
       },
@@ -769,6 +791,24 @@
       "duration_ms": 217373,
       "name": "No Me Hagas Menos",
       "url": "https://open.spotify.com/track/5CpAD6mT0lOdUkZHIqPGCq"
+    },
+    {
+      "album": {
+        "name": "Lo Mejor De...",
+        "url": "https://open.spotify.com/album/4qXhBQtBKHJwwK91QLPVoJ"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177306,
+      "name": "No Volver\u00e9",
+      "url": "https://open.spotify.com/track/14rY0Ie4e2XqpHot0vWcaL"
     },
     {
       "album": {
@@ -957,6 +997,24 @@
     {
       "album": {
         "name": "De Coraz\u00f3n Norte\u00f1o",
+        "url": "https://open.spotify.com/album/2OU5N16ujMgsEehujn2eUe"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203440,
+      "name": "Te Quiero Mucho",
+      "url": "https://open.spotify.com/track/6PyD9wjBeQB2pFZJl14KsM"
+    },
+    {
+      "album": {
+        "name": "De Coraz\u00f3n Norte\u00f1o",
         "url": "https://open.spotify.com/album/2LrllvMkfrhnWqJHXrPsOb"
       },
       "artists": [
@@ -967,7 +1025,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 203853,
       "name": "Te Quiero Mucho",
       "url": "https://open.spotify.com/track/5G5TAfojJWd6sMmHchXdQu"
@@ -1075,7 +1133,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 198066,
       "name": "Voy A Dejarte",
       "url": "https://open.spotify.com/track/1P7iWhnMV5gY8jpxaEMNWW"

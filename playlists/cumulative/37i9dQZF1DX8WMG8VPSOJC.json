@@ -77,7 +77,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-22",
+      "date_removed": "2022-10-17",
       "duration_ms": 268423,
       "name": "All I Need to See",
       "url": "https://open.spotify.com/track/1nggCj00NY7GRx0CyWcMKY"
@@ -167,10 +167,28 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 188014,
       "name": "Another",
       "url": "https://open.spotify.com/track/16ayXVtAftZYobyrNsZUQv"
+    },
+    {
+      "album": {
+        "name": "Baby I Am",
+        "url": "https://open.spotify.com/album/5bg19JZRGPWA2ubmplCSt2"
+      },
+      "artists": [
+        {
+          "name": "Dalton Dover",
+          "url": "https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176573,
+      "name": "Baby I Am",
+      "url": "https://open.spotify.com/track/3pD2qgImjXbfepb5mksDp3"
     },
     {
       "album": {
@@ -315,7 +333,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 169019,
       "name": "Between You & Me (feat. Ashley Cooke)",
       "url": "https://open.spotify.com/track/2OqlfzJ5w5NHkcjXJm5997"
@@ -989,7 +1007,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 242186,
       "name": "How Do I Live",
       "url": "https://open.spotify.com/track/1PJ1JyZJg3aZgZQfg3ciWn"
@@ -1043,7 +1061,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 192680,
       "name": "I Don't Remember Me (Before You)",
       "url": "https://open.spotify.com/track/6xrREPyyC5KESDhWfwqHiN"
@@ -1068,7 +1086,7 @@
     },
     {
       "album": {
-        "name": "I Don't Wanna Go To Heaven",
+        "name": "I Don\u2019t Want to Go To Heaven (with Tenille Townes)",
         "url": "https://open.spotify.com/album/4tlqBwe5F8ch75CtWhoqDp"
       },
       "artists": [
@@ -1085,7 +1103,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 205671,
-      "name": "I Don't Wanna Go To Heaven",
+      "name": "I Don\u2019t Want to Go To Heaven (with Tenille Townes)",
       "url": "https://open.spotify.com/track/6HknB8gsOZDaPkJbtuSLp5"
     },
     {
@@ -2107,7 +2125,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": null,
       "duration_ms": 224986,
       "name": "Take Me Away",
       "url": "https://open.spotify.com/track/5UaJtNAZJcN9pWpIuVMnN2"
@@ -2497,7 +2515,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-11-13",
       "duration_ms": 226226,
       "name": "We Danced",
       "url": "https://open.spotify.com/track/79DjV1vsU6yVoCbrQNNDdI"
@@ -2681,7 +2699,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-26",
       "duration_ms": 204604,
       "name": "You Did",
       "url": "https://open.spotify.com/track/2zObw9MePQ17Csq3IqWizy"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Country music making waves. Cover: Tanner Adell",
+  "description": "Country music making waves. Cover: Shaboozey",
   "name": "Country Frequency",
   "published_playlist_ids": [
     "2oo6Fd5OoiJz8X71tS41jA"
@@ -518,6 +518,24 @@
     },
     {
       "album": {
+        "name": "Best Country Valentine's Day 2022",
+        "url": "https://open.spotify.com/album/7IrYsuVvc201LLeuzLP85g"
+      },
+      "artists": [
+        {
+          "name": "Tiera Kennedy",
+          "url": "https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 194766,
+      "name": "Found It In You - Demo",
+      "url": "https://open.spotify.com/track/3fxdDyb210do0g53rbJ0tW"
+    },
+    {
+      "album": {
         "name": "Tiera",
         "url": "https://open.spotify.com/album/50jNCjQGuhYEG5z6iVmzRC"
       },
@@ -765,10 +783,28 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-10",
+      "date_removed": "2022-11-14",
       "duration_ms": 180136,
       "name": "Hold My Horses",
       "url": "https://open.spotify.com/track/2b42Ji4pWoTYnh0nxjnASa"
+    },
+    {
+      "album": {
+        "name": "Crashlanded",
+        "url": "https://open.spotify.com/album/0x2OmXAe36pO4S5Ygiurk4"
+      },
+      "artists": [
+        {
+          "name": "Madeline Edwards",
+          "url": "https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180136,
+      "name": "Hold My Horses",
+      "url": "https://open.spotify.com/track/2n6YMK1vCr5xkDVJ7MdQHw"
     },
     {
       "album": {
@@ -819,7 +855,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-07",
       "duration_ms": 180136,
       "name": "Hold My Horses",
       "url": "https://open.spotify.com/track/6JNxXz032aM8zcSHQAWiVv"
@@ -1846,6 +1882,28 @@
     },
     {
       "album": {
+        "name": "Trap Still Bumpin",
+        "url": "https://open.spotify.com/album/732Y6EuDkkhk3MC3YJIX8g"
+      },
+      "artists": [
+        {
+          "name": "Blanco Brown",
+          "url": "https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i"
+        },
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164448,
+      "name": "Trap Still Bumpin",
+      "url": "https://open.spotify.com/track/3ek3HsC97ny1IklOZQC88G"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25"
       },
@@ -2155,6 +2213,24 @@
       "duration_ms": 168743,
       "name": "Wrecked",
       "url": "https://open.spotify.com/track/14utDIRjqZIp00XPn6ixVx"
+    },
+    {
+      "album": {
+        "name": "Red Dirt Cursed",
+        "url": "https://open.spotify.com/album/6ZJaKkfHx5nfEkXXjq3Ond"
+      },
+      "artists": [
+        {
+          "name": "Rodell Duff",
+          "url": "https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 168743,
+      "name": "Wrecked",
+      "url": "https://open.spotify.com/track/4lWGy4jl5j7UYjjp4imcuP"
     },
     {
       "album": {

@@ -153,7 +153,7 @@
     {
       "album": {
         "name": "Gorgeous George",
-        "url": "https://open.spotify.com/album/4gIHBmLBXUnDJgWhcPzNDG"
+        "url": "https://open.spotify.com/album/4HBLunZ4GQjnraimqR77Ir"
       },
       "artists": [
         {
@@ -164,6 +164,24 @@
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 236583,
+      "name": "A Girl Like You",
+      "url": "https://open.spotify.com/track/0MteK167vtyb6hoJNC3Uz3"
+    },
+    {
+      "album": {
+        "name": "Gorgeous George",
+        "url": "https://open.spotify.com/album/4gIHBmLBXUnDJgWhcPzNDG"
+      },
+      "artists": [
+        {
+          "name": "Edwyn Collins",
+          "url": "https://open.spotify.com/artist/5Qlt3zQ63Z99mNhuun0JAT"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-09",
       "duration_ms": 236583,
       "name": "A Girl Like You",
       "url": "https://open.spotify.com/track/6XOINCZBv8Q7RXgNNiTwIN"
@@ -199,7 +217,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-14",
       "duration_ms": 294693,
       "name": "Believe",
       "url": "https://open.spotify.com/track/6x9t21Gl6bRhOrgigur7wK"
@@ -1146,6 +1164,24 @@
     },
     {
       "album": {
+        "name": "Power Ballads",
+        "url": "https://open.spotify.com/album/46wt0JPAHXI00ui28lbyR5"
+      },
+      "artists": [
+        {
+          "name": "Extreme",
+          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 337828,
+      "name": "More Than Words",
+      "url": "https://open.spotify.com/track/6M6IJtlG6UzEROamNOwVWk"
+    },
+    {
+      "album": {
         "name": "August And Everything After",
         "url": "https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ"
       },
@@ -1427,7 +1463,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": "2022-11-13",
       "duration_ms": 318200,
       "name": "Seeing Things",
       "url": "https://open.spotify.com/track/6UdxvBmdrSa0Xksp0LdwrJ"
@@ -1557,7 +1593,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-11-14",
       "duration_ms": 220306,
       "name": "Spaceman",
       "url": "https://open.spotify.com/track/2AiUFAeAsSR9lcpGxdc2Sj"
@@ -1726,6 +1762,24 @@
     },
     {
       "album": {
+        "name": "No Need To Argue (The Complete Sessions 1994-1995)",
+        "url": "https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
+      "duration_ms": 187849,
+      "name": "Twenty One",
+      "url": "https://open.spotify.com/track/3ZTO8o61SH2xmdVACrGaUk"
+    },
+    {
+      "album": {
         "name": "No Need To Argue",
         "url": "https://open.spotify.com/album/5GugLrmYMl5VRoe2zNgLGp"
       },
@@ -1809,7 +1863,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 263653,
       "name": "Where Have All the Cowboys Gone?",
       "url": "https://open.spotify.com/track/2ck13qfgRZ1msyEJlDqzvk"
@@ -1935,7 +1989,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 215533,
       "name": "You And Me",
       "url": "https://open.spotify.com/track/6jEcFhllWB0clBHFylomJZ"

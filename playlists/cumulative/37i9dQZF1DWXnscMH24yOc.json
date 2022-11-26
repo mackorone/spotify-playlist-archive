@@ -98,6 +98,24 @@
     },
     {
       "album": {
+        "name": "Indie Covers",
+        "url": "https://open.spotify.com/album/5eHZZDVSgFtZdjXkwW8sdQ"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "date_added": "2022-03-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 199386,
+      "name": "Addicted To Love",
+      "url": "https://open.spotify.com/track/24ZpgHPAL3N8036KDgjfBx"
+    },
+    {
+      "album": {
         "name": "Lungs (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
       },
@@ -289,7 +307,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 259749,
       "name": "Avant Gardener",
       "url": "https://open.spotify.com/track/6JZH57Qi4g0DgdB8wTeDGS"
@@ -307,7 +325,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": "2022-11-13",
       "duration_ms": 153500,
       "name": "Bang Bang (My Baby Shot Me Down)",
       "url": "https://open.spotify.com/track/7nghYGsh54yEir2qzPxqyk"
@@ -469,7 +487,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 178658,
       "name": "Bones",
       "url": "https://open.spotify.com/track/0hGO3Ws99t05Iboxcve9DC"
@@ -535,7 +553,7 @@
     {
       "album": {
         "name": "California Airport Love",
-        "url": "https://open.spotify.com/album/4a8neICiUnSWTBd5SP2sn9"
+        "url": "https://open.spotify.com/album/02OgL5XHVxJvXqZMpaqWkB"
       },
       "artists": [
         {
@@ -546,6 +564,24 @@
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 188345,
+      "name": "California Dreamin'",
+      "url": "https://open.spotify.com/track/2gMIw3s1WT1jEMplHwD4e2"
+    },
+    {
+      "album": {
+        "name": "California Airport Love",
+        "url": "https://open.spotify.com/album/4a8neICiUnSWTBd5SP2sn9"
+      },
+      "artists": [
+        {
+          "name": "Amason",
+          "url": "https://open.spotify.com/artist/4cJKxS7uOPhwb5UQ70sYpN"
+        }
+      ],
+      "date_added": "2022-03-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
       "duration_ms": 188345,
       "name": "California Dreamin'",
       "url": "https://open.spotify.com/track/41uHv2ZIT0YDUHoyNzvRQ1"
@@ -921,7 +957,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": "2022-11-13",
       "duration_ms": 220500,
       "name": "Desperado",
       "url": "https://open.spotify.com/track/3fR9wnaW7Cpg8DsUL1CvGS"
@@ -1261,7 +1297,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 222222,
       "name": "Every Breath You Take (Re:Imagined)",
       "url": "https://open.spotify.com/track/1sz0fuWEAcPkCfG5o7D9KP"
@@ -1297,10 +1333,28 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 234753,
       "name": "Everytime - Spotify Singles",
       "url": "https://open.spotify.com/track/3zMii5HJl31nRBgcuvwHcf"
+    },
+    {
+      "album": {
+        "name": "Everytime - Spotify Singles",
+        "url": "https://open.spotify.com/album/6h8HbKDzWHULV3lmmEMYt6"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "date_added": "2022-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234753,
+      "name": "Everytime - Spotify Singles",
+      "url": "https://open.spotify.com/track/6NX2uPsnjyEVaHo3x3GSSR"
     },
     {
       "album": {
@@ -1413,7 +1467,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 236129,
       "name": "Feel Good Inc.",
       "url": "https://open.spotify.com/track/5qeuUnuxiYzdkXZkcWD5gb"
@@ -1673,7 +1727,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": "2022-11-13",
       "duration_ms": 247879,
       "name": "Harvest Moon",
       "url": "https://open.spotify.com/track/4C9rhLT37Gv6VMVtFCb7O1"
@@ -1865,6 +1919,24 @@
     {
       "album": {
         "name": "Hotline Bling",
+        "url": "https://open.spotify.com/album/1iwGdRdfiOWULmprxkZnMD"
+      },
+      "artists": [
+        {
+          "name": "SRNO",
+          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
+        }
+      ],
+      "date_added": "2022-03-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 175124,
+      "name": "Hotline Bling",
+      "url": "https://open.spotify.com/track/6Y2c7nqkwa5n2vykfdwDIE"
+    },
+    {
+      "album": {
+        "name": "Hotline Bling",
         "url": "https://open.spotify.com/album/7uQG2oZz8Vih52tkQH7QzJ"
       },
       "artists": [
@@ -1905,6 +1977,24 @@
       "duration_ms": 218285,
       "name": "How Deep is Your Love",
       "url": "https://open.spotify.com/track/1HIj1pIcx7lLPojZwl621A"
+    },
+    {
+      "album": {
+        "name": "Undercover Bros.",
+        "url": "https://open.spotify.com/album/4EjpYG3pot0QPqjxx1BVRT"
+      },
+      "artists": [
+        {
+          "name": "The Bros. Landreth",
+          "url": "https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL"
+        }
+      ],
+      "date_added": "2022-03-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 248590,
+      "name": "How Deep is Your Love",
+      "url": "https://open.spotify.com/track/1JPgqiQrBREyuJTnbL7ON0"
     },
     {
       "album": {
@@ -2161,7 +2251,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 154360,
       "name": "I'm On Fire - From \"Fifty Shades Of Grey\" Soundtrack",
       "url": "https://open.spotify.com/track/5mOmBubZnYIy9EgMZFlDlZ"
@@ -2467,10 +2557,28 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 170399,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/6P8CsMuJCaqrlr4FDqELUQ"
+    },
+    {
+      "album": {
+        "name": "Robyn Sherwell",
+        "url": "https://open.spotify.com/album/1yYNauQukGjifaFLMsPdDO"
+      },
+      "artists": [
+        {
+          "name": "Robyn Sherwell",
+          "url": "https://open.spotify.com/artist/6vjYF7rDvsWBtHnPgBmJvs"
+        }
+      ],
+      "date_added": "2022-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170399,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/7KqIH50NWpcqdZ2768gxiy"
     },
     {
       "album": {
@@ -2521,7 +2629,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 209819,
       "name": "Latch",
       "url": "https://open.spotify.com/track/2d1tlBbyST4TWmZ7xwdAXH"
@@ -3051,7 +3159,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-07",
+      "date_removed": "2022-11-13",
       "duration_ms": 197864,
       "name": "Nothing's Gonna Hurt You Baby - From \"Promising Young Woman\" Soundtrack",
       "url": "https://open.spotify.com/track/0DNJCBqcgQaBndHYHbx57y"
@@ -3073,6 +3181,24 @@
       "duration_ms": 200191,
       "name": "Ocean Eyes",
       "url": "https://open.spotify.com/track/21vCVeinc9agpAM7scu3Tx"
+    },
+    {
+      "album": {
+        "name": "Ocean Eyes",
+        "url": "https://open.spotify.com/album/5voqYP3p9vT3oRgJiliv8q"
+      },
+      "artists": [
+        {
+          "name": "The Darcys",
+          "url": "https://open.spotify.com/artist/1kmnMzV27S3bXALqYnoGwH"
+        }
+      ],
+      "date_added": "2022-03-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 200191,
+      "name": "Ocean Eyes",
+      "url": "https://open.spotify.com/track/6asiEFpicAsykncnpjbxKZ"
     },
     {
       "album": {
@@ -3206,6 +3332,24 @@
     },
     {
       "album": {
+        "name": "NOW That's What I Call Music, Vol. 77",
+        "url": "https://open.spotify.com/album/3P2f6BPhDskUbM5hnvzkLQ"
+      },
+      "artists": [
+        {
+          "name": "Ritt Momney",
+          "url": "https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka"
+        }
+      ],
+      "date_added": "2022-03-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 204293,
+      "name": "Put Your Records On",
+      "url": "https://open.spotify.com/track/4Wd48CF1H2DvhpETlcFrbN"
+    },
+    {
+      "album": {
         "name": "Put Your Records On",
         "url": "https://open.spotify.com/album/48UWtRgO3MWkhUINPy3DjM"
       },
@@ -3333,7 +3477,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 232493,
       "name": "Savior Complex",
       "url": "https://open.spotify.com/track/5cTlo1j9rEKQWRBynDcywn"
@@ -3565,7 +3709,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 222500,
       "name": "Somebody to Love",
       "url": "https://open.spotify.com/track/0L9fWUcLnPIf5Z7rljJ8Mm"
@@ -3713,10 +3857,28 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 149250,
       "name": "Tainted Love",
       "url": "https://open.spotify.com/track/0veEsZjFQOLS0H0xXVyrtu"
+    },
+    {
+      "album": {
+        "name": "Rebox",
+        "url": "https://open.spotify.com/album/22ZihqEwCSdZhBphWYleEz"
+      },
+      "artists": [
+        {
+          "name": "Hannah Peel",
+          "url": "https://open.spotify.com/artist/3LRldYGJpCAQT5cZKQyi7o"
+        }
+      ],
+      "date_added": "2022-03-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 149250,
+      "name": "Tainted Love",
+      "url": "https://open.spotify.com/track/3s5HZY2OntlppCPeWQfzp0"
     },
     {
       "album": {
@@ -3807,6 +3969,24 @@
       "duration_ms": 205786,
       "name": "The Greatest",
       "url": "https://open.spotify.com/track/2wlhm9q8AaZbWEtczeTi2M"
+    },
+    {
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/0DGxizS2jb1tTYimUJdQ15"
+      },
+      "artists": [
+        {
+          "name": "Roses & Revolutions",
+          "url": "https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l"
+        }
+      ],
+      "date_added": "2022-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243209,
+      "name": "The Night We Met",
+      "url": "https://open.spotify.com/track/55cFWjs1LPFOeBl4gLuD4M"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Calm and soothing strings to help you get a good night's rest.
 
-100 songs - 4 hr 32 min - [published](https://open.spotify.com/playlist/3Z0IuotzjWfeTQs2UgGRVV)
+102 songs - 4 hr 40 min - [published](https://open.spotify.com/playlist/3Z0IuotzjWfeTQs2UgGRVV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Frankenthaler](https://open.spotify.com/track/6fZyNWUtqDD9CXZI4Llh7G) | [Bromeliad](https://open.spotify.com/artist/3XlQzOKje7lZLZhMDnKZz3) | [Frankenthaler](https://open.spotify.com/album/2l8wc98B9kwJpXiQaZ4l35) | 1:45 | 2022-01-06 |  |
 | [From Here We Can See](https://open.spotify.com/track/1UORK90Ieik1sVMKK1CdH6) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Weightless Again](https://open.spotify.com/album/66ZFnHFTZ1NcORTEAGX0dG) | 2:57 | 2022-01-06 |  |
 | [Go Back To Sleep](https://open.spotify.com/track/0hbJ9nWzf0El9Cdn4oUOMu) | [Susan Shelby](https://open.spotify.com/artist/16ZOKXusUareHIqIPDehTi) | [Go Back To Sleep](https://open.spotify.com/album/4BdIkPLeSEwh8LdnQmG6C4) | 1:54 | 2022-01-06 |  |
-| [How to Be Invisible](https://open.spotify.com/track/6GEX4BBT1EHwIiO6qkYSUR) | [Thrupence](https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9) | [Piano Works](https://open.spotify.com/album/6k6xZ06qceVGxE3NLPrj5x) | 3:06 | 2022-01-06 |  |
+| [How to Be Invisible](https://open.spotify.com/track/4Xfi7e0KgofJ5PgCBBauGf) | [Thrupence](https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9) | [Piano Works](https://open.spotify.com/album/6CNfqzu5WvgJeS2GegpHnp) | 3:06 | 2022-08-05 |  |
+| [How to Be Invisible](https://open.spotify.com/track/6GEX4BBT1EHwIiO6qkYSUR) | [Thrupence](https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9) | [Piano Works](https://open.spotify.com/album/6k6xZ06qceVGxE3NLPrj5x) | 3:06 | 2022-01-06 | 2022-10-23 |
 | [Il Confine Del Dolore \- feat: Ensemble Cordes De La Mer](https://open.spotify.com/track/307JdSdFWDM2u0H5JoIixw) | [Nora Maddox](https://open.spotify.com/artist/5yZabwuaVYo86cGVx0BzUX) | [Il Confine Del Dolore](https://open.spotify.com/album/1zTtByo8f2pVkZPhVvapWk) | 1:58 | 2022-01-06 |  |
 | [Illumination \- Cello Version](https://open.spotify.com/track/6HCSFrtixjnkkqTnBkIOFp) | [Lunaire](https://open.spotify.com/artist/1sC8iJ3MHkk4VMunZm8jbc) | [Illumination](https://open.spotify.com/album/3GpMctefgkHRdCUjjb0SNY) | 3:02 | 2022-01-06 |  |
 | [Improvisation In B\-Flat Minor](https://open.spotify.com/track/2D3Q2JAhSPZxfPksXeroW6) | [Ensemble Montes](https://open.spotify.com/artist/4GM5KhP1WJaeGIzPOxbd5j) | [Improvisation In B\-Flat Minor](https://open.spotify.com/album/3VeSmSzUHxutPzx4ibdyYo) | 2:11 | 2022-06-10 |  |
@@ -65,6 +66,7 @@
 | [Monograph](https://open.spotify.com/track/1BwRS8CwrK6UDegEmG1p3K) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [Echoes](https://open.spotify.com/album/0UfVxKV6IKokR2drwFMDii) | 2:27 | 2022-01-06 |  |
 | [Mountain Air](https://open.spotify.com/track/54LsIqgJOq467bsDXbiWmQ) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Inertia](https://open.spotify.com/album/3xndhuJEb6m6IkSMMJ6myo) | 3:33 | 2022-01-06 |  |
 | [Moviente](https://open.spotify.com/track/350a3WXUZomHtuJE7CZE5n) | [Cuarteto El Huenoa](https://open.spotify.com/artist/5xDfmx38ewoEqGS9Yqg0fh) | [Moviente](https://open.spotify.com/album/2zeMdNMdmCJieRB9EOUYzA) | 1:58 | 2022-01-06 |  |
+| [Music For Growing Flowers \- Pt\. 4](https://open.spotify.com/track/0dj9xrtRk4fNSwq9qpmLJj) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/15xCuPMi8UqL86dH6FCykt) | 5:34 | 2022-08-05 | 2022-11-13 |
 | [Music For Growing Flowers \- Pt\. 4](https://open.spotify.com/track/0iMFw7AbmYbQS1KwdeFHgW) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/0L51mBkDmhgzIUvRtogtGw) | 5:34 | 2022-06-03 | 2022-08-11 |
 | [Music For Growing Flowers \- Pt\. 4](https://open.spotify.com/track/0kY5iUcL7JGqGLz3t2hhCL) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/7nlNFxFHuJxLHtfGM2mAkD) | 5:34 | 2022-08-05 |  |
 | [Music For Growing Flowers \- Pt\. 4](https://open.spotify.com/track/3kSKcgJ0FYz7t2k4p71jiy) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/4ivhFfoUuBby0JKvbAuOeE) | 5:34 | 2022-08-05 | 2022-08-26 |

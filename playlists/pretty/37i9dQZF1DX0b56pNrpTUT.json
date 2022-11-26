@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: Eve Fairley-Chickwe",
-  "num_followers": 222,
+  "num_followers": 1389,
   "original_name": "Eve Fairley-Chickwe's Taste ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMGNkMWQxMTBiNTQ5ZTZlZjJhNGJjZGNiYjNjOTFiZTE0",
+  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMDUzOWU1ZDljODc3OGM1NThmMDlhYWEyOTdmOGNmNzk5",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -107,8 +107,28 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Heaux Tales",
+        "url": "https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9"
+      },
+      "artists": [
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 224880,
+      "name": "Girl Like Me (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/2sXydP9vPEYUH4uAWotuGu"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Sometimes I Might Be Introvert",
-        "url": "https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj"
+        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
       },
       "artists": [
         {
@@ -122,27 +142,7 @@
       ],
       "duration_ms": 269413,
       "name": "Woman",
-      "url": "https://open.spotify.com/track/2ruY7BpsZRwr6UUzLeDSk1"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Insecure",
-        "url": "https://open.spotify.com/album/7hhWPFOdpmA1R9pUM5iUwe"
-      },
-      "artists": [
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 218072,
-      "name": "Insecure",
-      "url": "https://open.spotify.com/track/360NCp4XoQ0sFi5jgu5Ww7"
+      "url": "https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -159,6 +159,22 @@
       "duration_ms": 177720,
       "name": "LOST YOU",
       "url": "https://open.spotify.com/track/26aJMMLBSOQmiC4JenVjjl"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "AZEB - EP",
+        "url": "https://open.spotify.com/album/0HvQdKEGTs0l1fV5feEYDi"
+      },
+      "artists": [
+        {
+          "name": "Mereba",
+          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
+        }
+      ],
+      "duration_ms": 165186,
+      "name": "Rider",
+      "url": "https://open.spotify.com/track/7BUnSvQPU5m830Et7fLAZt"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -199,38 +215,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "AZEB - EP",
-        "url": "https://open.spotify.com/album/0HvQdKEGTs0l1fV5feEYDi"
-      },
-      "artists": [
-        {
-          "name": "Mereba",
-          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
-        }
-      ],
-      "duration_ms": 165186,
-      "name": "Rider",
-      "url": "https://open.spotify.com/track/7BUnSvQPU5m830Et7fLAZt"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Wickedest",
-        "url": "https://open.spotify.com/album/5tnnQsnZmgGqIbTQH6MqLy"
-      },
-      "artists": [
-        {
-          "name": "Tamera",
-          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
-        }
-      ],
-      "duration_ms": 192880,
-      "name": "Wickedest",
-      "url": "https://open.spotify.com/track/0IbJBhAkIFqTHoYjWYxpzZ"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Touch Me (feat. Kehlani) [Remix]",
         "url": "https://open.spotify.com/album/4ICez0IybCtHZbAXl5ENWJ"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 187951,
       "name": "Touch Me (feat. Kehlani) - Remix",
       "url": "https://open.spotify.com/track/5kAm2Y5ygQtsVfE5dQQfGy"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Try Me",
+        "url": "https://open.spotify.com/album/6aitMhXvJwSRR6xD23Gqmk"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 213658,
+      "name": "Try Me",
+      "url": "https://open.spotify.com/track/2DYp6Gfu2JguZra6xL8IAV"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -271,8 +271,8 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Heaux Tales",
-        "url": "https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9"
+        "name": "Insecure",
+        "url": "https://open.spotify.com/album/7hhWPFOdpmA1R9pUM5iUwe"
       },
       "artists": [
         {
@@ -280,13 +280,13 @@
           "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
         },
         {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
         }
       ],
-      "duration_ms": 224880,
-      "name": "Girl Like Me (feat. H.E.R.)",
-      "url": "https://open.spotify.com/track/2sXydP9vPEYUH4uAWotuGu"
+      "duration_ms": 218072,
+      "name": "Insecure",
+      "url": "https://open.spotify.com/track/360NCp4XoQ0sFi5jgu5Ww7"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -311,18 +311,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Try Me",
-        "url": "https://open.spotify.com/album/6aitMhXvJwSRR6xD23Gqmk"
+        "name": "Wickedest",
+        "url": "https://open.spotify.com/album/6ksJ2GuWsid065x77nx6Cr"
       },
       "artists": [
         {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
         }
       ],
-      "duration_ms": 213658,
-      "name": "Try Me",
-      "url": "https://open.spotify.com/track/2DYp6Gfu2JguZra6xL8IAV"
+      "duration_ms": 192880,
+      "name": "Wickedest",
+      "url": "https://open.spotify.com/track/2nAOiwTa3qvuzawrwN7gaA"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -343,54 +343,6 @@
       "duration_ms": 204453,
       "name": "Collide - From \"Queen & Slim: The Soundtrack\"",
       "url": "https://open.spotify.com/track/6mDz3yFi4hJeL2mP4lmg51"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Out the Way",
-        "url": "https://open.spotify.com/album/2mspUbKzrsZXINyUXBfMhA"
-      },
-      "artists": [
-        {
-          "name": "Samaria",
-          "url": "https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku"
-        }
-      ],
-      "duration_ms": 155414,
-      "name": "Out the Way",
-      "url": "https://open.spotify.com/track/4gT03zyHBC3ushZZ16gGFK"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Flipside",
-        "url": "https://open.spotify.com/album/2c0TD1qSLFsAhKoAXb7qZd"
-      },
-      "artists": [
-        {
-          "name": "Tamera",
-          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
-        }
-      ],
-      "duration_ms": 191453,
-      "name": "Flipside",
-      "url": "https://open.spotify.com/track/6PBVyALVJlwRK97115oiED"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Heaux Tales",
-        "url": "https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9"
-      },
-      "artists": [
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        }
-      ],
-      "duration_ms": 229413,
-      "name": "Pick Up Your Feelings",
-      "url": "https://open.spotify.com/track/4k2cAUUPp3VZdK4gwG9pxy"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -427,6 +379,22 @@
       "duration_ms": 205700,
       "name": "Whenever You're Ready",
       "url": "https://open.spotify.com/track/16Km3GR6GYMrIyVPk31DAe"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Heaux Tales",
+        "url": "https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9"
+      },
+      "artists": [
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        }
+      ],
+      "duration_ms": 229413,
+      "name": "Pick Up Your Feelings",
+      "url": "https://open.spotify.com/track/4k2cAUUPp3VZdK4gwG9pxy"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -511,6 +479,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Flipside",
+        "url": "https://open.spotify.com/album/5wlLGEGHLCR6IGwPa5T8Jg"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        }
+      ],
+      "duration_ms": 191453,
+      "name": "Flipside",
+      "url": "https://open.spotify.com/track/3h1ivCOHhZXtR77nCaJLSl"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Cashmere",
         "url": "https://open.spotify.com/album/3MSWBNsXCTc7U3lE8FDtY1"
       },
@@ -543,8 +527,24 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Out the Way",
+        "url": "https://open.spotify.com/album/3qv5Lk9jafOUsBLApCvxcJ"
+      },
+      "artists": [
+        {
+          "name": "Samaria",
+          "url": "https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku"
+        }
+      ],
+      "duration_ms": 155414,
+      "name": "Out the Way",
+      "url": "https://open.spotify.com/track/0sS74W9MTGGJkhAnT8JsR8"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Serial",
-        "url": "https://open.spotify.com/album/4eSxIjJeG94DnoC2Nk1xAy"
+        "url": "https://open.spotify.com/album/6q1MjscDVoN75ap0etkyW2"
       },
       "artists": [
         {
@@ -554,7 +554,27 @@
       ],
       "duration_ms": 227535,
       "name": "Serial",
-      "url": "https://open.spotify.com/track/5RRl7Hio98AB5JsGo9acb0"
+      "url": "https://open.spotify.com/track/1HPYnKkSjOkkC8tm9S97rb"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "November (feat. Hak Baker)",
+        "url": "https://open.spotify.com/album/2EaIOXi8ylfZoJXti1EN8v"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        },
+        {
+          "name": "Hak Baker",
+          "url": "https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j"
+        }
+      ],
+      "duration_ms": 195937,
+      "name": "November (feat. Hak Baker)",
+      "url": "https://open.spotify.com/track/6QKFXwI5cQ8D4xl6os8T1J"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -575,22 +595,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Ready is Always Too Late",
-        "url": "https://open.spotify.com/album/5qhT4VwBKqLS3dUqRgBK0g"
+        "name": "Syrup",
+        "url": "https://open.spotify.com/album/2nNBzYIjt0Y9wnmXsRmIu4"
       },
       "artists": [
         {
-          "name": "Sin\u00e9ad Harnett",
-          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
         }
       ],
-      "duration_ms": 196786,
-      "name": "Anymore (feat. Lucky Daye)",
-      "url": "https://open.spotify.com/track/1RoMaS8tLOyCGpTzJvP4vS"
+      "duration_ms": 145964,
+      "name": "Syrup",
+      "url": "https://open.spotify.com/track/5nzX0GtmuW03QGb2l9Hw0C"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -631,22 +647,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "November (feat. Hak Baker)",
-        "url": "https://open.spotify.com/album/2EaIOXi8ylfZoJXti1EN8v"
+        "name": "Ready is Always Too Late",
+        "url": "https://open.spotify.com/album/5qhT4VwBKqLS3dUqRgBK0g"
       },
       "artists": [
         {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+          "name": "Sin\u00e9ad Harnett",
+          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
         },
         {
-          "name": "Hak Baker",
-          "url": "https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j"
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
         }
       ],
-      "duration_ms": 195937,
-      "name": "November (feat. Hak Baker)",
-      "url": "https://open.spotify.com/track/6QKFXwI5cQ8D4xl6os8T1J"
+      "duration_ms": 196786,
+      "name": "Anymore (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/1RoMaS8tLOyCGpTzJvP4vS"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -667,22 +683,6 @@
       "duration_ms": 210184,
       "name": "Peng Black Girls",
       "url": "https://open.spotify.com/track/3Xhj7ZZAfQwPUxKZHQdw3y"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Syrup",
-        "url": "https://open.spotify.com/album/2nNBzYIjt0Y9wnmXsRmIu4"
-      },
-      "artists": [
-        {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
-        }
-      ],
-      "duration_ms": 145964,
-      "name": "Syrup",
-      "url": "https://open.spotify.com/track/5nzX0GtmuW03QGb2l9Hw0C"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -808,13 +808,13 @@
       },
       "artists": [
         {
-          "name": "Shaybo",
-          "url": "https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy"
+          "name": "Sharna Bass",
+          "url": "https://open.spotify.com/artist/42A3nZSj9sLXPKpB4YgzSs"
         }
       ],
-      "duration_ms": 138857,
-      "name": "Anger",
-      "url": "https://open.spotify.com/track/5UJ0nJKwbBfYbnPyCfRlaD"
+      "duration_ms": 200800,
+      "name": "Buss A 9",
+      "url": "https://open.spotify.com/track/0bXiuDO0JuiIV8eWsiC9JX"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -824,13 +824,13 @@
       },
       "artists": [
         {
-          "name": "Sharna Bass",
-          "url": "https://open.spotify.com/artist/42A3nZSj9sLXPKpB4YgzSs"
+          "name": "Shaybo",
+          "url": "https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy"
         }
       ],
-      "duration_ms": 200800,
-      "name": "Buss A 9",
-      "url": "https://open.spotify.com/track/0bXiuDO0JuiIV8eWsiC9JX"
+      "duration_ms": 138857,
+      "name": "Anger",
+      "url": "https://open.spotify.com/track/5UJ0nJKwbBfYbnPyCfRlaD"
     }
   ],
   "unique_name": "Eve Fairley-Chickwe's Taste ",

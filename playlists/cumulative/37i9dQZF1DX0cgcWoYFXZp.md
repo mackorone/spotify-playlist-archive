@@ -4,7 +4,7 @@
 
 > Cruise through Japanese “Neo” City Pop from the ’00s./ 渋谷系の系譜から、ボーダーレスに多様化に向かっていった’00年代。ネオ・シティポップ新時代の波はすぐそこに。
 
-67 songs - 5 hr 35 min - [published](https://open.spotify.com/playlist/5yyWojYBZhg2uafZai4AOr)
+68 songs - 5 hr 40 min - [published](https://open.spotify.com/playlist/5yyWojYBZhg2uafZai4AOr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Summer Magic](https://open.spotify.com/track/1I2k6TAEK2oTnLeEWnUBpk) | [JiLL\-Decoy association](https://open.spotify.com/artist/4j0lMBCAWtaFqEboLZp8Xe) | [Jill Decoy 2](https://open.spotify.com/album/1dckrHdGJKBJDUSNT5Ca1i) | 4:36 | 2021-08-01 |  |
 | [SUMMER MAGIC](https://open.spotify.com/track/3wba4zxsmsf3ztqclVh5AX) | [JiLL\-Decoy association](https://open.spotify.com/artist/4j0lMBCAWtaFqEboLZp8Xe) | [ジルデコ2](https://open.spotify.com/album/5q66IhxM41xp2oxkXQgtFs) | 4:36 | 2021-08-01 | 2022-07-29 |
 | [Timeless](https://open.spotify.com/track/4SxR8CXGR9WsgORWTf98vR) | [Hiroshi Takano](https://open.spotify.com/artist/1Z3tfBrHfzbWjvnOQh9GnO) | [Rainbow Magic](https://open.spotify.com/album/2tSHIJ6527UQsNZUr5dElH) | 4:22 | 2021-08-01 |  |
+| [Yoru no Melody](https://open.spotify.com/track/3dDFklJ58LBZLuZJFMKkh9) | [Sunny Day Service](https://open.spotify.com/artist/4cSyPcpldERtF4eL3NB9dn) | [SUNNY DAY SERVICE BEST 1995\-2018](https://open.spotify.com/album/2BSKH8Yw2J79qmPs4USDXz) | 4:38 | 2021-08-01 | 2022-11-13 |
 | [Yoru no Melody](https://open.spotify.com/track/4N3i9n9Hl50KosMceQSGX3) | [Sunny Day Service](https://open.spotify.com/artist/4cSyPcpldERtF4eL3NB9dn) | [BEST SKY](https://open.spotify.com/album/6NGBmz6MkGlAVq2jtADTRm) | 4:41 | 2021-08-01 |  |
 | [あれから](https://open.spotify.com/track/2p88nkbBzmJLXpUdsp1BgG) | [bird](https://open.spotify.com/artist/5gn3mKyq8QM4TxKNX2nxXi) | [オアシス](https://open.spotify.com/album/1mDa5GUbu5jNDemBUJubux) | 5:47 | 2021-08-01 |  |
 | [いつか晴れた日に](https://open.spotify.com/track/22WFRMB0NEKHNTfr0C4y6F) | [Junpei Shiina](https://open.spotify.com/artist/5uf7EvW4352mAFNNN9IOZT) | [discover](https://open.spotify.com/album/6CN51DFfuqjKTV4n5DwduJ) | 5:33 | 2021-08-01 |  |

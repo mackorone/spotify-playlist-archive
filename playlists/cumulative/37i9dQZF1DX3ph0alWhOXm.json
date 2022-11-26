@@ -363,7 +363,7 @@
       ],
       "date_added": "2021-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 156306,
       "name": "Beer Thirty",
       "url": "https://open.spotify.com/track/1F3s1BbWYoCBa8I84GhzZB"
@@ -594,6 +594,24 @@
     },
     {
       "album": {
+        "name": "Spring Break 2022: Country Favourites",
+        "url": "https://open.spotify.com/album/1uhNDQ24SrZf0PyTzGaFv8"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 225560,
+      "name": "Country Girl (Shake It For Me)",
+      "url": "https://open.spotify.com/track/2QPk0d8rW7fI8HTwn0p2A3"
+    },
+    {
+      "album": {
         "name": "Dates In Pickup Trucks",
         "url": "https://open.spotify.com/album/6zE2YtMcQHpgK2HQKr86UK"
       },
@@ -677,7 +695,7 @@
       ],
       "date_added": "2021-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 189773,
       "name": "Drank Like Hank",
       "url": "https://open.spotify.com/track/0R3vFnJYuPSrUHypRexQzn"
@@ -789,7 +807,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 219213,
       "name": "Drunk Last Night",
       "url": "https://open.spotify.com/track/4hnK8P3v7kE7T4PMBYwRhu"
@@ -843,7 +861,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 213546,
       "name": "Drunk On You",
       "url": "https://open.spotify.com/track/3kv6omImmKEfOVJWjstusF"
@@ -937,7 +955,7 @@
       ],
       "date_added": "2021-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 200306,
       "name": "Fuzzy",
       "url": "https://open.spotify.com/track/03KvM5ZGtTvl1qaK73g5wN"
@@ -1013,10 +1031,32 @@
       ],
       "date_added": "2021-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 306773,
       "name": "Good Time",
       "url": "https://open.spotify.com/track/6lyKOW0FNW6aAZdKVgoM8m"
+    },
+    {
+      "album": {
+        "name": "Where We Started",
+        "url": "https://open.spotify.com/album/794M3R461sLnY042CsB3xW"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183026,
+      "name": "Half Of Me",
+      "url": "https://open.spotify.com/track/11kskoMyNDumaR30CI6rRv"
     },
     {
       "album": {
@@ -1089,6 +1129,24 @@
       "duration_ms": 205200,
       "name": "Heartache On The Dance Floor",
       "url": "https://open.spotify.com/track/0w3Q14i073jLoew1hgJkwD"
+    },
+    {
+      "album": {
+        "name": "Throw Down",
+        "url": "https://open.spotify.com/album/2e8aXfcC4AduBW6D1fY4OO"
+      },
+      "artists": [
+        {
+          "name": "Tim Hicks",
+          "url": "https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 184106,
+      "name": "Hell Raisin' Good Time",
+      "url": "https://open.spotify.com/track/3hLT408HlZIXaDYwTqsiE7"
     },
     {
       "album": {
@@ -1273,7 +1331,7 @@
       ],
       "date_added": "2021-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 195426,
       "name": "I Feel Good",
       "url": "https://open.spotify.com/track/4vLRCGOBz4zIS8nEHk5v9j"
@@ -1295,7 +1353,7 @@
       ],
       "date_added": "2021-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-03",
+      "date_removed": null,
       "duration_ms": 130733,
       "name": "I Gotta Get Drunk (with Willie Nelson)",
       "url": "https://open.spotify.com/track/2uUhWqoiyp1wKJC81vKaJ4"
@@ -1443,7 +1501,7 @@
       ],
       "date_added": "2021-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 202010,
       "name": "Long After Last Call",
       "url": "https://open.spotify.com/track/1F8IjCSpU2i2JuBaAjasOJ"
@@ -1715,7 +1773,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-24",
+      "date_removed": "2022-11-14",
       "duration_ms": 304764,
       "name": "Pour Whiskey on My Grave",
       "url": "https://open.spotify.com/track/3fHhEDmEFKI8BlZMlrcHgT"
@@ -1733,7 +1791,7 @@
       ],
       "date_added": "2021-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 210920,
       "name": "Power of Positive Drinkin'",
       "url": "https://open.spotify.com/track/3yww2zhTK6xJuVGtn6oHNY"
@@ -1751,7 +1809,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 152000,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/7sGULdccMGSggXDq7ZjT3w"
@@ -1841,7 +1899,7 @@
       ],
       "date_added": "2021-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 214053,
       "name": "Round Here",
       "url": "https://open.spotify.com/track/1XPMs9Qm63aOGZ7l0vYgy5"
@@ -1931,7 +1989,7 @@
       ],
       "date_added": "2021-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": "2022-11-13",
       "duration_ms": 165773,
       "name": "Save Water, Drink Beer",
       "url": "https://open.spotify.com/track/1mvl4McrgpDUwusRRrn7UU"
@@ -2339,7 +2397,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-27",
+      "date_removed": null,
       "duration_ms": 188106,
       "name": "Waste of Lime",
       "url": "https://open.spotify.com/track/59Y2VUXjLa5j6rQbV0ROWW"

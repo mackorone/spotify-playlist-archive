@@ -4,7 +4,7 @@
 
 > 
 
-40 songs - 3 hr 19 min - [published](https://open.spotify.com/playlist/3kNh10DqsuZ2pCoKdDPmQr)
+40 songs - 3 hr 17 min - [published](https://open.spotify.com/playlist/3kNh10DqsuZ2pCoKdDPmQr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [O Rang Rasiya](https://open.spotify.com/track/5Ft9JrP0K4YFPeDWFM201J) | [Lalitya Munshaw](https://open.spotify.com/artist/3e23DvNuM4Z78nPsX8P1D9), [Kishore Manraja](https://open.spotify.com/artist/3ZFpN9rFHLxElJpqyABkMt) | [Non Stop Raas Garba by Lalitya Munshaw](https://open.spotify.com/album/1TU9rbZnCwB8n0NQrYHFbF) | 1:10 | 2022-01-12 |  |
 | [Odhani Odhu](https://open.spotify.com/track/2OLCnQP512OpkAdvJltKXD) | [Rupal Doshi](https://open.spotify.com/artist/0OOE5E66pjnINTv2x46oiA), [Kishore Manraja](https://open.spotify.com/artist/3ZFpN9rFHLxElJpqyABkMt) | [Odhani Odhu](https://open.spotify.com/album/3owSlhhK0dR5ZslQlnFeZ4) | 1:56 | 2022-01-12 |  |
 | [Odhni Mari](https://open.spotify.com/track/4qteerZCEWp98htNqzNrop) | [Kinjal Dave](https://open.spotify.com/artist/26qILArN7gTOjFRTbOTKbJ) | [Kinjal Dave Nonstop Garba](https://open.spotify.com/album/1apcRYE1gt5wIDJy9L8bb5) | 9:04 | 2022-01-12 |  |
-| [Oonchi Talavdi Ni Kor](https://open.spotify.com/track/51oobd7oWxbBOD8YFHNs0J) | [Rupal Doshi](https://open.spotify.com/artist/0OOE5E66pjnINTv2x46oiA) | [Chhel Chhabilo \- Khelaiya, Vol\. 4](https://open.spotify.com/album/3NJJVnPMz0OdAK0CPL9lXV) | 6:58 | 2022-01-12 |  |
+| [Oonchi Talavdi Ni Kor](https://open.spotify.com/track/51oobd7oWxbBOD8YFHNs0J) | [Rupal Doshi](https://open.spotify.com/artist/0OOE5E66pjnINTv2x46oiA) | [Chhel Chhabilo \- Khelaiya, Vol\. 4](https://open.spotify.com/album/3NJJVnPMz0OdAK0CPL9lXV) | 4:54 | 2022-01-12 |  |
 | [Range Rame Anande Rame](https://open.spotify.com/track/6xsmAWK6oCiUKuPbkKu8PJ) | [Pamela Jain](https://open.spotify.com/artist/4BBdp811wrWrr1zk9dENUE), [Kirtidan Gadhvi](https://open.spotify.com/artist/7odYFkW15De3A7aAuk5x9h) | [Thanganat \(Non Stop Garba, Vol\. 16\)](https://open.spotify.com/album/0g3DifkCMaMswIooOllfCK) | 1:00 | 2022-01-12 |  |
 | [Saachi Re Mhari Sat](https://open.spotify.com/track/4cP5w97t7XxogJzssIGtt1) | [Rupal Doshi](https://open.spotify.com/artist/0OOE5E66pjnINTv2x46oiA) | [Bamboo Beats \(Disco Dandiya Hits\)](https://open.spotify.com/album/7hyZTOovgclhqA7iQdoUMl) | 9:19 | 2022-01-12 | 2022-09-24 |
 | [Saachi Re Mhari Sat](https://open.spotify.com/track/5ffYti5Q3NkKrdpgmAwHwG) | [Rupal Doshi](https://open.spotify.com/artist/0OOE5E66pjnINTv2x46oiA) | [Chhel Chhabilo \- Khelaiya, Vol\. 4](https://open.spotify.com/album/3NJJVnPMz0OdAK0CPL9lXV) | 9:19 | 2022-06-08 |  |

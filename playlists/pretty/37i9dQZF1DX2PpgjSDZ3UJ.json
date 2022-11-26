@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de indie/alternativo durante el 2020. En portada: Ela Minus",
-  "num_followers": 18624,
+  "num_followers": 19016,
   "original_name": "Lo Mejor del Indie/Alternativo 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjg4NTczMSwwMDAwMDAwMDcyNjE0YWUzZjllY2E4ZGFjZjVjMzU1MTcxMmU1Mjdi",
+  "snapshot_id": "MTYwNjg4NTczMSwwMDAwMDAwMDVhOWY5ZTgxNGE5YTgyNjZlNzg0MDBmMTIzYzM5YTQ0",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -119,6 +119,22 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "Depresi\u00f3n Sonora",
+        "url": "https://open.spotify.com/album/2Kd0xv0iBYynM0on7es48j"
+      },
+      "artists": [
+        {
+          "name": "Depresi\u00f3n Sonora",
+          "url": "https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO"
+        }
+      ],
+      "duration_ms": 174666,
+      "name": "Ya No Hay Verano",
+      "url": "https://open.spotify.com/track/2VyMyqR2ona9yAFk7WsJNW"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "Tropical Jesus",
         "url": "https://open.spotify.com/album/1hNj4AB6pbahegd5dBYPV7"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 188222,
       "name": "Todo Estaba Bien",
       "url": "https://open.spotify.com/track/0qRE2t4scDRFsBgBXsQIH9"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "Depresi\u00f3n Sonora",
-        "url": "https://open.spotify.com/album/2Kd0xv0iBYynM0on7es48j"
-      },
-      "artists": [
-        {
-          "name": "Depresi\u00f3n Sonora",
-          "url": "https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO"
-        }
-      ],
-      "duration_ms": 174666,
-      "name": "Ya No Hay Verano",
-      "url": "https://open.spotify.com/track/2VyMyqR2ona9yAFk7WsJNW"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -208,7 +208,7 @@
       "added_at": "2020-12-01 05:03:00",
       "album": {
         "name": "Paranoia Pop",
-        "url": "https://open.spotify.com/album/6C64Uw0fiwqH3aUPZr9Hsv"
+        "url": "https://open.spotify.com/album/7oKpkZ7JZqjK4GP5cyKCyV"
       },
       "artists": [
         {
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3"
         }
       ],
-      "duration_ms": 232226,
+      "duration_ms": 232373,
       "name": "Paranoia Pop",
-      "url": "https://open.spotify.com/track/5BOg9CZMk1nWNMkklZ0Boy"
+      "url": "https://open.spotify.com/track/13WCGJKAWrgZgz6grLryE4"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -327,22 +327,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Everlasting",
-        "url": "https://open.spotify.com/album/1p0B0yZhc04KInnikui2gQ"
-      },
-      "artists": [
-        {
-          "name": "Los Retros",
-          "url": "https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG"
-        }
-      ],
-      "duration_ms": 206437,
-      "name": "Sweet Honey",
-      "url": "https://open.spotify.com/track/6o7rsXLvLgx2gmKLGDNe0g"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "La Pared",
         "url": "https://open.spotify.com/album/01IGc70ZlPLU5ot3oG7fUa"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 289762,
       "name": "La Pared",
       "url": "https://open.spotify.com/track/6k436htnE7M4QXXWOjhTYZ"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Everlasting",
+        "url": "https://open.spotify.com/album/1p0B0yZhc04KInnikui2gQ"
+      },
+      "artists": [
+        {
+          "name": "Los Retros",
+          "url": "https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG"
+        }
+      ],
+      "duration_ms": 206437,
+      "name": "Sweet Honey",
+      "url": "https://open.spotify.com/track/6o7rsXLvLgx2gmKLGDNe0g"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -423,6 +423,22 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "Todas las Flores de Enero",
+        "url": "https://open.spotify.com/album/1PuUdFenRJ41IMROlqP41a"
+      },
+      "artists": [
+        {
+          "name": "Indios",
+          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+        }
+      ],
+      "duration_ms": 134888,
+      "name": "Todas las Flores de Enero",
+      "url": "https://open.spotify.com/track/1hewNRg4E4KU8r7LV2eu9x"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "Hice Todo Mal",
         "url": "https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb"
       },
@@ -471,38 +487,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Todas las Flores de Enero",
-        "url": "https://open.spotify.com/album/1PuUdFenRJ41IMROlqP41a"
-      },
-      "artists": [
-        {
-          "name": "Indios",
-          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
-        }
-      ],
-      "duration_ms": 134888,
-      "name": "Todas las Flores de Enero",
-      "url": "https://open.spotify.com/track/1hewNRg4E4KU8r7LV2eu9x"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "PSILOCIBINA",
-        "url": "https://open.spotify.com/album/1BcPj1Wvt5tvVGD1o7bj99"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 197493,
-      "name": "PSILOCIBINA",
-      "url": "https://open.spotify.com/track/1Grn6fk4cXX55XoimiQ6iL"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "MILLONES",
         "url": "https://open.spotify.com/album/5ZPDl7OMRFK0TwV3syXaGA"
       },
@@ -535,22 +519,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Las Monta\u00f1as",
-        "url": "https://open.spotify.com/album/1vLTjn72rGfaaR6AnoVxUj"
-      },
-      "artists": [
-        {
-          "name": "Delaporte",
-          "url": "https://open.spotify.com/artist/1GDip5phlxYzeZ36vnf9kJ"
-        }
-      ],
-      "duration_ms": 225834,
-      "name": "Clap Clap",
-      "url": "https://open.spotify.com/track/4vUIReErgckFJjhncayvWI"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Bellavista",
         "url": "https://open.spotify.com/album/307m411JDgwF4UW2NuEJ3g"
       },
@@ -567,18 +535,50 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Tri\u00e1ngulo de Amor Bizarro",
-        "url": "https://open.spotify.com/album/5g6VFGlvYtGIOuIVy4zU8m"
+        "name": "Mandinga Times",
+        "url": "https://open.spotify.com/album/2s9A3VNum5BpETQR6GQkY6"
       },
       "artists": [
         {
-          "name": "Tri\u00e1ngulo de Amor Bizarro",
-          "url": "https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e"
+          "name": "Rita Indiana",
+          "url": "https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp"
         }
       ],
-      "duration_ms": 202216,
-      "name": "Vigilantes del Espejo",
-      "url": "https://open.spotify.com/track/6I3Og9oU3qNKMyjBBRsJKB"
+      "duration_ms": 170673,
+      "name": "Como un Drag\u00f3n",
+      "url": "https://open.spotify.com/track/4wRSPGwvz47YVOABxXJoAN"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Las Monta\u00f1as",
+        "url": "https://open.spotify.com/album/1vLTjn72rGfaaR6AnoVxUj"
+      },
+      "artists": [
+        {
+          "name": "Delaporte",
+          "url": "https://open.spotify.com/artist/1GDip5phlxYzeZ36vnf9kJ"
+        }
+      ],
+      "duration_ms": 225834,
+      "name": "Clap Clap",
+      "url": "https://open.spotify.com/track/4vUIReErgckFJjhncayvWI"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "PSILOCIBINA",
+        "url": "https://open.spotify.com/album/4waUPRkFL1OD8mRDM6dBM1"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 197493,
+      "name": "PSILOCIBINA",
+      "url": "https://open.spotify.com/track/4s89QYq2NW7CvrdGGRXnjg"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -595,22 +595,6 @@
       "duration_ms": 186106,
       "name": "Chico Pum",
       "url": "https://open.spotify.com/track/77qAr1xle5fDEGQOVUde6f"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "Mandinga Times",
-        "url": "https://open.spotify.com/album/2s9A3VNum5BpETQR6GQkY6"
-      },
-      "artists": [
-        {
-          "name": "Rita Indiana",
-          "url": "https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp"
-        }
-      ],
-      "duration_ms": 170673,
-      "name": "Como un Drag\u00f3n",
-      "url": "https://open.spotify.com/track/4wRSPGwvz47YVOABxXJoAN"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -647,18 +631,18 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Serenidad",
-        "url": "https://open.spotify.com/album/4iVFdQFYtLNTzmyxtqLVhs"
+        "name": "Tri\u00e1ngulo de Amor Bizarro",
+        "url": "https://open.spotify.com/album/5g6VFGlvYtGIOuIVy4zU8m"
       },
       "artists": [
         {
-          "name": "Feli Colina",
-          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+          "name": "Tri\u00e1ngulo de Amor Bizarro",
+          "url": "https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e"
         }
       ],
-      "duration_ms": 208250,
-      "name": "Serenidad",
-      "url": "https://open.spotify.com/track/1bZwFCKn9tpefTvl6mQ6Xb"
+      "duration_ms": 202216,
+      "name": "Vigilantes del Espejo",
+      "url": "https://open.spotify.com/track/6I3Og9oU3qNKMyjBBRsJKB"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -683,38 +667,18 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "D\u00edas Negros",
-        "url": "https://open.spotify.com/album/5aAukLeOUD7CH1qE36t7mt"
+        "name": "Serenidad",
+        "url": "https://open.spotify.com/album/4iVFdQFYtLNTzmyxtqLVhs"
       },
       "artists": [
         {
-          "name": "Chango Menas",
-          "url": "https://open.spotify.com/artist/02JOH3JikydGzqOEI7WzA9"
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
         }
       ],
-      "duration_ms": 182320,
-      "name": "D\u00edas Negros",
-      "url": "https://open.spotify.com/track/7GggClJIZhrWpNYfFt5RAQ"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "N\u00f3mada",
-        "url": "https://open.spotify.com/album/4tUaCFfhnftL5Eg6li46K6"
-      },
-      "artists": [
-        {
-          "name": "La Banda del Bisonte",
-          "url": "https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD"
-        },
-        {
-          "name": "La Muchacha",
-          "url": "https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV"
-        }
-      ],
-      "duration_ms": 287701,
-      "name": "N\u00f3mada",
-      "url": "https://open.spotify.com/track/2J4drmgsDr6u7EP3DvyN9A"
+      "duration_ms": 208250,
+      "name": "Serenidad",
+      "url": "https://open.spotify.com/track/1bZwFCKn9tpefTvl6mQ6Xb"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -751,50 +715,38 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Petr\u00f3leo",
-        "url": "https://open.spotify.com/album/1nL346oiQcGOx91bEe3JQ0"
+        "name": "N\u00f3mada",
+        "url": "https://open.spotify.com/album/4tUaCFfhnftL5Eg6li46K6"
       },
       "artists": [
         {
-          "name": "Fiebre",
-          "url": "https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro"
+          "name": "La Banda del Bisonte",
+          "url": "https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD"
+        },
+        {
+          "name": "La Muchacha",
+          "url": "https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV"
         }
       ],
-      "duration_ms": 195652,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/5DwrfmCwc7ZtRl9vfYKOuv"
+      "duration_ms": 287701,
+      "name": "N\u00f3mada",
+      "url": "https://open.spotify.com/track/2J4drmgsDr6u7EP3DvyN9A"
     },
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Cristales",
-        "url": "https://open.spotify.com/album/6jfAYLekcHR4qF3c39d6xK"
+        "name": "D\u00edas Negros",
+        "url": "https://open.spotify.com/album/5aAukLeOUD7CH1qE36t7mt"
       },
       "artists": [
         {
-          "name": "HOLOGRAMMA",
-          "url": "https://open.spotify.com/artist/7akSnRWtc7SsxdZSq0Evkm"
+          "name": "Chango Menas",
+          "url": "https://open.spotify.com/artist/02JOH3JikydGzqOEI7WzA9"
         }
       ],
-      "duration_ms": 225362,
-      "name": "Cristales",
-      "url": "https://open.spotify.com/track/3fl8Pm4eN1q1wbIMScw7em"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "No Sentir Nada",
-        "url": "https://open.spotify.com/album/4hquSaJKohf2oE50JgOBo3"
-      },
-      "artists": [
-        {
-          "name": "Marem Ladson",
-          "url": "https://open.spotify.com/artist/2Fzkri1PNqc9DsXUbRrNa0"
-        }
-      ],
-      "duration_ms": 224608,
-      "name": "No Sentir Nada",
-      "url": "https://open.spotify.com/track/5yO08ego5Exs0acRhxs6tn"
+      "duration_ms": 182320,
+      "name": "D\u00edas Negros",
+      "url": "https://open.spotify.com/track/7GggClJIZhrWpNYfFt5RAQ"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -815,6 +767,22 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "No Sentir Nada",
+        "url": "https://open.spotify.com/album/4hquSaJKohf2oE50JgOBo3"
+      },
+      "artists": [
+        {
+          "name": "Marem Ladson",
+          "url": "https://open.spotify.com/artist/2Fzkri1PNqc9DsXUbRrNa0"
+        }
+      ],
+      "duration_ms": 224608,
+      "name": "No Sentir Nada",
+      "url": "https://open.spotify.com/track/5yO08ego5Exs0acRhxs6tn"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "\u00danica",
         "url": "https://open.spotify.com/album/6Abzs1QKczzZ2vVLSf1bH9"
       },
@@ -827,22 +795,6 @@
       "duration_ms": 200869,
       "name": "\u00danica",
       "url": "https://open.spotify.com/track/3BmtYNRAzVoKjfOccz83Es"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "Lo Que Vales (Para M\u00ed)",
-        "url": "https://open.spotify.com/album/60ki1aJySUjzhFLLnYMpJW"
-      },
-      "artists": [
-        {
-          "name": "Pepe Pecas",
-          "url": "https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq"
-        }
-      ],
-      "duration_ms": 211022,
-      "name": "Lo Que Vales (Para M\u00ed)",
-      "url": "https://open.spotify.com/track/03If5wA0g4z8C9qSw6hDK8"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -879,6 +831,38 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "Petr\u00f3leo",
+        "url": "https://open.spotify.com/album/1nL346oiQcGOx91bEe3JQ0"
+      },
+      "artists": [
+        {
+          "name": "Fiebre",
+          "url": "https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro"
+        }
+      ],
+      "duration_ms": 195652,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/5DwrfmCwc7ZtRl9vfYKOuv"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Cristales",
+        "url": "https://open.spotify.com/album/6jfAYLekcHR4qF3c39d6xK"
+      },
+      "artists": [
+        {
+          "name": "HOLOGRAMMA",
+          "url": "https://open.spotify.com/artist/7akSnRWtc7SsxdZSq0Evkm"
+        }
+      ],
+      "duration_ms": 225362,
+      "name": "Cristales",
+      "url": "https://open.spotify.com/track/3fl8Pm4eN1q1wbIMScw7em"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "Joderlo Todo",
         "url": "https://open.spotify.com/album/3a5u1dS9MeqrQtSLqrXxrs"
       },
@@ -895,34 +879,18 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Sentimiento Mundial",
-        "url": "https://open.spotify.com/album/5l42UGler5fwv207TkXYtI"
+        "name": "Lo Que Vales (Para M\u00ed)",
+        "url": "https://open.spotify.com/album/60ki1aJySUjzhFLLnYMpJW"
       },
       "artists": [
         {
-          "name": "Mint Field",
-          "url": "https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz"
+          "name": "Pepe Pecas",
+          "url": "https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq"
         }
       ],
-      "duration_ms": 178146,
-      "name": "Delicadeza",
-      "url": "https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "La Flor",
-        "url": "https://open.spotify.com/album/3KHUWqXRqY1F8Fh9MzbjmH"
-      },
-      "artists": [
-        {
-          "name": "Francisca y Los Exploradores",
-          "url": "https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf"
-        }
-      ],
-      "duration_ms": 186474,
-      "name": "La Flor",
-      "url": "https://open.spotify.com/track/36zwjrHtrOTS593mZiQz24"
+      "duration_ms": 211022,
+      "name": "Lo Que Vales (Para M\u00ed)",
+      "url": "https://open.spotify.com/track/03If5wA0g4z8C9qSw6hDK8"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -947,6 +915,22 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "Sentimiento Mundial",
+        "url": "https://open.spotify.com/album/5l42UGler5fwv207TkXYtI"
+      },
+      "artists": [
+        {
+          "name": "Mint Field",
+          "url": "https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz"
+        }
+      ],
+      "duration_ms": 178146,
+      "name": "Delicadeza",
+      "url": "https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "Ay Coraz\u00f3n (Silencio)",
         "url": "https://open.spotify.com/album/6O6QViA34eNzHl5WAwUES2"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 232478,
       "name": "Ay Coraz\u00f3n (Silencio)",
       "url": "https://open.spotify.com/track/4g4kww73ZByg6RDDfo4uuC"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "La Flor",
+        "url": "https://open.spotify.com/album/3KHUWqXRqY1F8Fh9MzbjmH"
+      },
+      "artists": [
+        {
+          "name": "Francisca y Los Exploradores",
+          "url": "https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf"
+        }
+      ],
+      "duration_ms": 186474,
+      "name": "La Flor",
+      "url": "https://open.spotify.com/track/36zwjrHtrOTS593mZiQz24"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -987,38 +987,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "The Prettiest Curse",
-        "url": "https://open.spotify.com/album/7mBtzjnzUXnaDk9LtBrjZx"
-      },
-      "artists": [
-        {
-          "name": "Hinds",
-          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
-        }
-      ],
-      "duration_ms": 198546,
-      "name": "Good Bad Times",
-      "url": "https://open.spotify.com/track/2YY6BmV3FAsCPXj3RK28H3"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "Panoramas",
-        "url": "https://open.spotify.com/album/1ny9ec75rSo3SOg1EiDRRW"
-      },
-      "artists": [
-        {
-          "name": "Klaatu Suuns",
-          "url": "https://open.spotify.com/artist/4W11PtvmueLMalojlR0qgr"
-        }
-      ],
-      "duration_ms": 304901,
-      "name": "Yours Truly",
-      "url": "https://open.spotify.com/track/7h9bpmFb7knrg8rc0inU9j"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Chocadito",
         "url": "https://open.spotify.com/album/1U2hMdtzxdLE82QxEVd6c2"
       },
@@ -1031,6 +999,22 @@
       "duration_ms": 285942,
       "name": "Los Dem\u00e1s",
       "url": "https://open.spotify.com/track/3q1hA7KOkM8Xm48PKikJxM"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "The Prettiest Curse",
+        "url": "https://open.spotify.com/album/7mBtzjnzUXnaDk9LtBrjZx"
+      },
+      "artists": [
+        {
+          "name": "Hinds",
+          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
+        }
+      ],
+      "duration_ms": 198546,
+      "name": "Good Bad Times",
+      "url": "https://open.spotify.com/track/2YY6BmV3FAsCPXj3RK28H3"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1051,6 +1035,22 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "Panoramas",
+        "url": "https://open.spotify.com/album/1ny9ec75rSo3SOg1EiDRRW"
+      },
+      "artists": [
+        {
+          "name": "Klaatu Suuns",
+          "url": "https://open.spotify.com/artist/4W11PtvmueLMalojlR0qgr"
+        }
+      ],
+      "duration_ms": 304901,
+      "name": "Yours Truly",
+      "url": "https://open.spotify.com/track/7h9bpmFb7knrg8rc0inU9j"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "Como Rei Ayanami",
         "url": "https://open.spotify.com/album/30LJvOyd3yd4Otb6LLuQCW"
       },
@@ -1063,6 +1063,22 @@
       "duration_ms": 177354,
       "name": "Como Rei Ayanami",
       "url": "https://open.spotify.com/track/0tYNvkWztbz331kXOHXf8n"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Yo Nunca Aprend\u00ed a Cantar (Pero Con Mis Amigos Nos Jugamos Buenos Cotejos)",
+        "url": "https://open.spotify.com/album/0q4oUtLynNJ9npqvIKJIsP"
+      },
+      "artists": [
+        {
+          "name": "Higuita en Chanclas",
+          "url": "https://open.spotify.com/artist/6KxEb5gHvWvxrplWIe6rcO"
+        }
+      ],
+      "duration_ms": 267964,
+      "name": "La \u00daltima 10",
+      "url": "https://open.spotify.com/track/1cV5rooswGe7QRB8GOrzOP"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1103,18 +1119,18 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Yo Nunca Aprend\u00ed a Cantar (Pero Con Mis Amigos Nos Jugamos Buenos Cotejos)",
-        "url": "https://open.spotify.com/album/0q4oUtLynNJ9npqvIKJIsP"
+        "name": "Mundos",
+        "url": "https://open.spotify.com/album/04IsLcbwfDd5Y7fwdaGML6"
       },
       "artists": [
         {
-          "name": "Higuita en Chanclas",
-          "url": "https://open.spotify.com/artist/6KxEb5gHvWvxrplWIe6rcO"
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
         }
       ],
-      "duration_ms": 267964,
-      "name": "La \u00daltima 10",
-      "url": "https://open.spotify.com/track/1cV5rooswGe7QRB8GOrzOP"
+      "duration_ms": 192000,
+      "name": "Y Ahora",
+      "url": "https://open.spotify.com/track/5bfOcYeiVE8yy6EWpwYduo"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1135,38 +1151,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Mundos",
-        "url": "https://open.spotify.com/album/04IsLcbwfDd5Y7fwdaGML6"
-      },
-      "artists": [
-        {
-          "name": "Mula",
-          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Y Ahora",
-      "url": "https://open.spotify.com/track/5bfOcYeiVE8yy6EWpwYduo"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "Texas",
-        "url": "https://open.spotify.com/album/6opu23ikoXvGYXI9BIrATP"
-      },
-      "artists": [
-        {
-          "name": "Superlitio",
-          "url": "https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB"
-        }
-      ],
-      "duration_ms": 258946,
-      "name": "Texas",
-      "url": "https://open.spotify.com/track/3si9cjEp9d37zE4IqpFbZK"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Cara De Idiota",
         "url": "https://open.spotify.com/album/1mjEYQfRUPROm5rLgPUeae"
       },
@@ -1179,22 +1163,6 @@
       "duration_ms": 153302,
       "name": "Cara De Idiota",
       "url": "https://open.spotify.com/track/6iHbLjuZudv2uD6pTWZSjp"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "Too Bad",
-        "url": "https://open.spotify.com/album/5cNLXghCrrmNHRBski3fMC"
-      },
-      "artists": [
-        {
-          "name": "Chlo\u00e9 Silva",
-          "url": "https://open.spotify.com/artist/58NvZS9y8CUo1VUEyGdcKc"
-        }
-      ],
-      "duration_ms": 200250,
-      "name": "Stuck on You",
-      "url": "https://open.spotify.com/track/2p7g3PDq8PGgyD79Tzpvez"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1215,6 +1183,38 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "Too Bad",
+        "url": "https://open.spotify.com/album/5cNLXghCrrmNHRBski3fMC"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Silva",
+          "url": "https://open.spotify.com/artist/58NvZS9y8CUo1VUEyGdcKc"
+        }
+      ],
+      "duration_ms": 200250,
+      "name": "Stuck on You",
+      "url": "https://open.spotify.com/track/2p7g3PDq8PGgyD79Tzpvez"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Texas",
+        "url": "https://open.spotify.com/album/6opu23ikoXvGYXI9BIrATP"
+      },
+      "artists": [
+        {
+          "name": "Superlitio",
+          "url": "https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB"
+        }
+      ],
+      "duration_ms": 258946,
+      "name": "Texas",
+      "url": "https://open.spotify.com/track/3si9cjEp9d37zE4IqpFbZK"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "Perdidos en Pantitl\u00e1n",
         "url": "https://open.spotify.com/album/7aIjw8NNEqqUiSnwiEMncd"
       },
@@ -1227,22 +1227,6 @@
       "duration_ms": 152000,
       "name": "Perdidos en Pantitl\u00e1n",
       "url": "https://open.spotify.com/track/0Timp3zrA5PZg9qPoUCVfR"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "Eternos",
-        "url": "https://open.spotify.com/album/5Ch3VsbQLxLmsewBpNKs8U"
-      },
-      "artists": [
-        {
-          "name": "Hay Un Dinosaurio",
-          "url": "https://open.spotify.com/artist/6EarpkLGAtCbNZcKJ0WnGe"
-        }
-      ],
-      "duration_ms": 223308,
-      "name": "Eternos",
-      "url": "https://open.spotify.com/track/0BRQB84vP5k2XOeAMEkw74"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1267,34 +1251,34 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Azulmagenta",
-        "url": "https://open.spotify.com/album/4NMpBN4NunLm6hINDVh5Lw"
+        "name": "En Transmisi\u00f3n Perpetua",
+        "url": "https://open.spotify.com/album/7waXpt8GJxXs9pS1bLxzCe"
       },
       "artists": [
         {
-          "name": "Ev",
-          "url": "https://open.spotify.com/artist/21EczEifDKebasemX58Jp8"
+          "name": "Cometa Sucre",
+          "url": "https://open.spotify.com/artist/3kFFYxvTZaBCm0q04WPlqK"
         }
       ],
-      "duration_ms": 218354,
-      "name": "Azulmagenta",
-      "url": "https://open.spotify.com/track/0BWXCS8fU8Y4Rj2ng4fIsu"
+      "duration_ms": 259000,
+      "name": "Caminos Extran\u0303os",
+      "url": "https://open.spotify.com/track/75bf2scFyzrtEZrt6xEAiM"
     },
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Diciembre",
-        "url": "https://open.spotify.com/album/2CaTs90sNVNUxcNhVDfjzt"
+        "name": "Eternos",
+        "url": "https://open.spotify.com/album/5Ch3VsbQLxLmsewBpNKs8U"
       },
       "artists": [
         {
-          "name": "Encarta 98",
-          "url": "https://open.spotify.com/artist/28Am1s75o5KAGaAwCQ22mv"
+          "name": "Hay Un Dinosaurio",
+          "url": "https://open.spotify.com/artist/6EarpkLGAtCbNZcKJ0WnGe"
         }
       ],
-      "duration_ms": 278453,
-      "name": "Diciembre",
-      "url": "https://open.spotify.com/track/0HWHBcKEk8aT82oHLUJ1IE"
+      "duration_ms": 223308,
+      "name": "Eternos",
+      "url": "https://open.spotify.com/track/0BRQB84vP5k2XOeAMEkw74"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1315,34 +1299,34 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "En Transmisi\u00f3n Perpetua",
-        "url": "https://open.spotify.com/album/7waXpt8GJxXs9pS1bLxzCe"
+        "name": "Diciembre",
+        "url": "https://open.spotify.com/album/2CaTs90sNVNUxcNhVDfjzt"
       },
       "artists": [
         {
-          "name": "Cometa Sucre",
-          "url": "https://open.spotify.com/artist/3kFFYxvTZaBCm0q04WPlqK"
+          "name": "Encarta 98",
+          "url": "https://open.spotify.com/artist/28Am1s75o5KAGaAwCQ22mv"
         }
       ],
-      "duration_ms": 259000,
-      "name": "Caminos Extran\u0303os",
-      "url": "https://open.spotify.com/track/75bf2scFyzrtEZrt6xEAiM"
+      "duration_ms": 278453,
+      "name": "Diciembre",
+      "url": "https://open.spotify.com/track/0HWHBcKEk8aT82oHLUJ1IE"
     },
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Buenos Tiempos",
-        "url": "https://open.spotify.com/album/0oj2LzYjVhWmshX8dSDg2m"
+        "name": "Azulmagenta",
+        "url": "https://open.spotify.com/album/4NMpBN4NunLm6hINDVh5Lw"
       },
       "artists": [
         {
-          "name": "Paraisso",
-          "url": "https://open.spotify.com/artist/3s5dsJWkL6dAGsvY4r5cyi"
+          "name": "Ev",
+          "url": "https://open.spotify.com/artist/21EczEifDKebasemX58Jp8"
         }
       ],
-      "duration_ms": 217002,
-      "name": "Momento de Escapar",
-      "url": "https://open.spotify.com/track/19YD7AIpHqbObWPzvS3B0n"
+      "duration_ms": 218354,
+      "name": "Azulmagenta",
+      "url": "https://open.spotify.com/track/0BWXCS8fU8Y4Rj2ng4fIsu"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1363,6 +1347,22 @@
       "duration_ms": 306321,
       "name": "My America Is Not Your America",
       "url": "https://open.spotify.com/track/0NYtyAkJBCE6cnlvCd5a7E"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Buenos Tiempos",
+        "url": "https://open.spotify.com/album/0oj2LzYjVhWmshX8dSDg2m"
+      },
+      "artists": [
+        {
+          "name": "Paraisso",
+          "url": "https://open.spotify.com/artist/3s5dsJWkL6dAGsvY4r5cyi"
+        }
+      ],
+      "duration_ms": 217002,
+      "name": "Momento de Escapar",
+      "url": "https://open.spotify.com/track/19YD7AIpHqbObWPzvS3B0n"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Se Parece A",
-        "url": "https://open.spotify.com/album/3IYROUym8NgqWWQCX7ifr9"
+        "name": "Puede Ser Mortal",
+        "url": "https://open.spotify.com/album/7ssdUA4nhK1P9Fvz9zSxr2"
       },
       "artists": [
         {
-          "name": "Mabe Fratti",
-          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
+          "name": "Feroe",
+          "url": "https://open.spotify.com/artist/404eCbMqcGFfsXfrQtzi9a"
         }
       ],
-      "duration_ms": 228574,
-      "name": "Alguien Detra\u0301s de Mi",
-      "url": "https://open.spotify.com/track/386O3o4TbBhoasmd97QQIJ"
+      "duration_ms": 254834,
+      "name": "Puede Ser Mortal",
+      "url": "https://open.spotify.com/track/38fXO2P0O838i1ahIiWVWo"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "Se Parece A",
+        "url": "https://open.spotify.com/album/3IYROUym8NgqWWQCX7ifr9"
+      },
+      "artists": [
+        {
+          "name": "Mabe Fratti",
+          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
+        }
+      ],
+      "duration_ms": 228574,
+      "name": "Alguien Detra\u0301s de Mi",
+      "url": "https://open.spotify.com/track/386O3o4TbBhoasmd97QQIJ"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "Corte Superior",
         "url": "https://open.spotify.com/album/07LYLQ1wwl1sjSZTebfpDG"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 236000,
       "name": "Corte Superior",
       "url": "https://open.spotify.com/track/15ydTyKE48KnZlAbJRQdMJ"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "Puede Ser Mortal",
-        "url": "https://open.spotify.com/album/7ssdUA4nhK1P9Fvz9zSxr2"
-      },
-      "artists": [
-        {
-          "name": "Feroe",
-          "url": "https://open.spotify.com/artist/404eCbMqcGFfsXfrQtzi9a"
-        }
-      ],
-      "duration_ms": 254834,
-      "name": "Puede Ser Mortal",
-      "url": "https://open.spotify.com/track/38fXO2P0O838i1ahIiWVWo"
     },
     {
       "added_at": "2020-12-01 05:03:00",

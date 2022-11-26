@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 204600,
       "name": "Dale Biberon",
       "url": "https://open.spotify.com/track/4Ld6hcn4xMtetpzPEMD3Jt"
@@ -185,6 +185,24 @@
       "duration_ms": 203426,
       "name": "El Chango Lloron",
       "url": "https://open.spotify.com/track/3wBuwyiOOn3SDWJASq4bHR"
+    },
+    {
+      "album": {
+        "name": "Pura Pachanga",
+        "url": "https://open.spotify.com/album/3gGXqROt966AxFB6rZZFjr"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149493,
+      "name": "El Loco Bailar\u00edn",
+      "url": "https://open.spotify.com/track/2r2DOim3Av355zPCaeTHmx"
     },
     {
       "album": {
@@ -343,7 +361,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 188400,
       "name": "La Chica Se Mueve Bien",
       "url": "https://open.spotify.com/track/73g8SmEP2ACdxwzdJVLYwA"
@@ -379,7 +397,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 207226,
       "name": "La Gloria",
       "url": "https://open.spotify.com/track/1kYPGM806I2hx95bQw11GF"
@@ -577,7 +595,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 187093,
       "name": "Mejor Me Pongo A Bailar",
       "url": "https://open.spotify.com/track/6u2yxD1YRqC8YBn3ri8eYY"

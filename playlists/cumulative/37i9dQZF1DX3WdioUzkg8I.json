@@ -134,6 +134,24 @@
     },
     {
       "album": {
+        "name": "Absence",
+        "url": "https://open.spotify.com/album/3PLBke5XtxhEDQ57DpP8uC"
+      },
+      "artists": [
+        {
+          "name": "Narelle Dane",
+          "url": "https://open.spotify.com/artist/2tUmApwmWcZGro1Key17fG"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180750,
+      "name": "Absence",
+      "url": "https://open.spotify.com/track/605vPvBlmE54bJUiT8BKm0"
+    },
+    {
+      "album": {
         "name": "Affection",
         "url": "https://open.spotify.com/album/6LpNCVlqshM81DVYhRktLd"
       },
@@ -509,7 +527,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 134666,
       "name": "beaches",
       "url": "https://open.spotify.com/track/5IzsYLBnHRwMa81Uy9i3wz"
@@ -1236,6 +1254,24 @@
     },
     {
       "album": {
+        "name": "dreaming",
+        "url": "https://open.spotify.com/album/0AOyxRx5Qt29XWMuQZzP6w"
+      },
+      "artists": [
+        {
+          "name": "33rain",
+          "url": "https://open.spotify.com/artist/6KWON7NvYb3KI5m5U1Xyv2"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114098,
+      "name": "dreaming",
+      "url": "https://open.spotify.com/track/4bcyi361pjcrmOd1nqkUu9"
+    },
+    {
+      "album": {
         "name": "drifting",
         "url": "https://open.spotify.com/album/43XZAnWowTdkO2jEoDxmB8"
       },
@@ -1247,10 +1283,28 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 165142,
       "name": "drifting",
       "url": "https://open.spotify.com/track/0Bkuw9iTcI7JGHnLDcYDiR"
+    },
+    {
+      "album": {
+        "name": "drifting",
+        "url": "https://open.spotify.com/album/32DMNUC6JSKp2XzKv5WUyq"
+      },
+      "artists": [
+        {
+          "name": "oh, the joy.",
+          "url": "https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165142,
+      "name": "drifting",
+      "url": "https://open.spotify.com/track/3TMENYMNJbzGlxD48gK1Qz"
     },
     {
       "album": {
@@ -1499,10 +1553,46 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 148767,
       "name": "First Sunlight",
       "url": "https://open.spotify.com/track/1GbQ0l3BRFOpYc1K7Xm5LM"
+    },
+    {
+      "album": {
+        "name": "First Sunlight",
+        "url": "https://open.spotify.com/album/2Lb2OqB6ghrhlnoOR3zNO6"
+      },
+      "artists": [
+        {
+          "name": "Ros Gilman",
+          "url": "https://open.spotify.com/artist/4encGefmC48XGvJod2eBr2"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148767,
+      "name": "First Sunlight",
+      "url": "https://open.spotify.com/track/7oVzg7PHNE9fepPdHJVq6f"
+    },
+    {
+      "album": {
+        "name": "Fj\u00e4derl\u00e4tt",
+        "url": "https://open.spotify.com/album/6zSNVshWnIEmrJX9dkLHZw"
+      },
+      "artists": [
+        {
+          "name": "Farsj\u00f6n",
+          "url": "https://open.spotify.com/artist/1JVGbsUCqcTgrQP6qc3LEe"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151721,
+      "name": "Fj\u00e4derl\u00e4tt",
+      "url": "https://open.spotify.com/track/2FV0bpajGSlVU21kZEiaEw"
     },
     {
       "album": {
@@ -1517,7 +1607,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 197230,
       "name": "Floating Rocks",
       "url": "https://open.spotify.com/track/5dfAYR9ljONPCU8OABdBZq"
@@ -1535,7 +1625,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 178500,
       "name": "Forever",
       "url": "https://open.spotify.com/track/0PDPU0FvLXuOWRHN0uOV7t"
@@ -1830,6 +1920,24 @@
     },
     {
       "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/4kA1zuJMBYhC7DfAtwoN2L"
+      },
+      "artists": [
+        {
+          "name": "DREAMY charlie",
+          "url": "https://open.spotify.com/artist/1UBUvukXhNixw4V7h4r808"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148684,
+      "name": "In a distance",
+      "url": "https://open.spotify.com/track/0CK6eCztxc3uUZcnl0TZmN"
+    },
+    {
+      "album": {
         "name": "Quiet Conversation",
         "url": "https://open.spotify.com/album/4U8TIDkfNdGeuKcFw8SgoB"
       },
@@ -1985,7 +2093,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 258549,
       "name": "Kv\u00e4llshimmel",
       "url": "https://open.spotify.com/track/06dcHFDNhqqAscjqqRXBl5"
@@ -2039,7 +2147,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 167500,
       "name": "Laredo",
       "url": "https://open.spotify.com/track/4T9ej7a6gtJyQ5yFRO1vXc"
@@ -2568,6 +2676,24 @@
     },
     {
       "album": {
+        "name": "Moments of Joy",
+        "url": "https://open.spotify.com/album/4SWWC5aBtfZtVkZOozZ7Gf"
+      },
+      "artists": [
+        {
+          "name": "Noel Oliver",
+          "url": "https://open.spotify.com/artist/60XMGyggu8Xe0jhOQMgXbE"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135101,
+      "name": "Moments of Joy",
+      "url": "https://open.spotify.com/track/4xaWRbNi9BNSCNxNgVUepd"
+    },
+    {
+      "album": {
         "name": "Majestic Dream",
         "url": "https://open.spotify.com/album/6BrhzPox0p0uumdK466Vc9"
       },
@@ -2741,7 +2867,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 181247,
       "name": "Nocturne",
       "url": "https://open.spotify.com/track/0poBmYwvWSP2nZYJYbaOu6"
@@ -2939,7 +3065,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 133874,
       "name": "Peace",
       "url": "https://open.spotify.com/track/1wVGlAEohNLnz29Iojl2BI"
@@ -3414,6 +3540,24 @@
     },
     {
       "album": {
+        "name": "Shu\u01d0",
+        "url": "https://open.spotify.com/album/0KlHKpgm9zU0UMAShB1VPG"
+      },
+      "artists": [
+        {
+          "name": "Zoe Rei",
+          "url": "https://open.spotify.com/artist/6edzT8AseYcyi1yGJZXHdq"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141974,
+      "name": "Shu\u01d0",
+      "url": "https://open.spotify.com/track/0JkStI9AnkeDIniaKn2akO"
+    },
+    {
+      "album": {
         "name": "Sibylline",
         "url": "https://open.spotify.com/album/5lo1m7awiXG4tBi5RQCDBJ"
       },
@@ -3735,10 +3879,28 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 135969,
       "name": "Survivor",
       "url": "https://open.spotify.com/track/6goPA6XgFxqaIhaIk1IXhY"
+    },
+    {
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/4kA1zuJMBYhC7DfAtwoN2L"
+      },
+      "artists": [
+        {
+          "name": "DREAMY charlie",
+          "url": "https://open.spotify.com/artist/1UBUvukXhNixw4V7h4r808"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143421,
+      "name": "Sweet dreams",
+      "url": "https://open.spotify.com/track/5HbJrEwvAPRiISORiKAaXI"
     },
     {
       "album": {
@@ -3987,7 +4149,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 162000,
       "name": "Une chambre",
       "url": "https://open.spotify.com/track/1yLwh6aAl8wA0e9bhiAUcu"
@@ -4228,6 +4390,28 @@
     },
     {
       "album": {
+        "name": "We Contain Multitudes \u2014 piano reworks",
+        "url": "https://open.spotify.com/album/4vtunVFmIlrxIrkOobdfDH"
+      },
+      "artists": [
+        {
+          "name": "Yiruma",
+          "url": "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
+        },
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264052,
+      "name": "We Contain Multitudes \u2014 piano reworks",
+      "url": "https://open.spotify.com/track/1rpF77jsLBMG2QjCuhe0Sr"
+    },
+    {
+      "album": {
         "name": "What She Said",
         "url": "https://open.spotify.com/album/4b6MJlepYeFPi7MYuaRUiT"
       },
@@ -4347,7 +4531,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 144500,
       "name": "Wild Dandelion - Solo Piano",
       "url": "https://open.spotify.com/track/0K1g45Vb0qdmVufrYX8tHx"

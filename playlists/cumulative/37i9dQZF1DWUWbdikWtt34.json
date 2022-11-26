@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Dendang Dangdut teratas. Cover: Via Vallen",
+  "description": "Dendang Dangdut teratas. Cover: Woro Widowati",
   "name": "Dangdut Top",
   "published_playlist_ids": [
     "1yAqlhTjbO2NhUlQfp8LqL"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 307555,
       "name": "Balungan Kere",
       "url": "https://open.spotify.com/track/7kmkGZEE6KSciuxQYDcKTV"
@@ -135,6 +135,28 @@
       "duration_ms": 194750,
       "name": "Bertepuk Sebelah Tangan",
       "url": "https://open.spotify.com/track/76IJq5eOqctxtHGyuEwF5Y"
+    },
+    {
+      "album": {
+        "name": "Cinta Dalam Khayalan",
+        "url": "https://open.spotify.com/album/75MaREwGLzVsd5kqHhdVnO"
+      },
+      "artists": [
+        {
+          "name": "Rhoma Irama",
+          "url": "https://open.spotify.com/artist/4rlC2lgVD1tfilqgJxEPIW"
+        },
+        {
+          "name": "Elvy Sukaesih",
+          "url": "https://open.spotify.com/artist/0yXW1N9QI9cp5Lw2Wdle8Q"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298509,
+      "name": "Cinta Dalam Khayalan",
+      "url": "https://open.spotify.com/track/7A42dJ9KKGtRGE4s3xTzjv"
     },
     {
       "album": {
@@ -416,6 +438,24 @@
     },
     {
       "album": {
+        "name": "Ikhlas Ngenteni",
+        "url": "https://open.spotify.com/album/3S1X1t6OSQB7CAYIIBY3qG"
+      },
+      "artists": [
+        {
+          "name": "Woro Widowati",
+          "url": "https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265111,
+      "name": "Ikhlas Ngenteni",
+      "url": "https://open.spotify.com/track/4zbeozbK1z1OM8p8EzG310"
+    },
+    {
+      "album": {
         "name": "Indah Pada Waktunya",
         "url": "https://open.spotify.com/album/3aVuf3v7nr5qlcrNpFJ6D2"
       },
@@ -650,6 +690,24 @@
     },
     {
       "album": {
+        "name": "Mendung Tanpo Udan",
+        "url": "https://open.spotify.com/album/71G3sO1tdp632dquXZFMNE"
+      },
+      "artists": [
+        {
+          "name": "Ndarboy Genk",
+          "url": "https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305213,
+      "name": "Mendung Tanpo Udan",
+      "url": "https://open.spotify.com/track/0Z54rUZ81Vn0qphFR3jXUb"
+    },
+    {
+      "album": {
         "name": "Guyon Waton",
         "url": "https://open.spotify.com/album/1Or1VyBgYsWqszX54hhEu3"
       },
@@ -679,10 +737,28 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 274285,
       "name": "Milik Orang",
       "url": "https://open.spotify.com/track/0dWWC789aUr6pP3wjcKrn7"
+    },
+    {
+      "album": {
+        "name": "DANGDUT TERBAIK HAPPY ASMARA",
+        "url": "https://open.spotify.com/album/1Jo6c8Zuw6FUvuHyREYTFG"
+      },
+      "artists": [
+        {
+          "name": "Happy Asmara",
+          "url": "https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274285,
+      "name": "Milik Orang",
+      "url": "https://open.spotify.com/track/3ZYBj5Dt4gfDA5BdjJep2R"
     },
     {
       "album": {
@@ -719,6 +795,24 @@
       "duration_ms": 251520,
       "name": "Mundur Alon Alon",
       "url": "https://open.spotify.com/track/79mIVkf9j6wtG23QNkKfxZ"
+    },
+    {
+      "album": {
+        "name": "Ojo Dibandingke",
+        "url": "https://open.spotify.com/album/1R0NoljKSKaY6Pc025aRam"
+      },
+      "artists": [
+        {
+          "name": "Abah Lala",
+          "url": "https://open.spotify.com/artist/6BkCOBTVHP3E2FoLnEKauW"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318482,
+      "name": "Ojo Dibandingke",
+      "url": "https://open.spotify.com/track/2BIQGFkSLWl0SPRxaPR48Z"
     },
     {
       "album": {
@@ -1137,6 +1231,24 @@
       "duration_ms": 337714,
       "name": "Wegah Kelangan",
       "url": "https://open.spotify.com/track/3FtPcb4xIlwsGkX3PWIhtf"
+    },
+    {
+      "album": {
+        "name": "Wes Tatas",
+        "url": "https://open.spotify.com/album/4Ar7OycNonjvKxrlG6Tqbu"
+      },
+      "artists": [
+        {
+          "name": "Happy Asmara",
+          "url": "https://open.spotify.com/artist/34gYdObZcKonPinzlnE8gK"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 247328,
+      "name": "Wes Tatas",
+      "url": "https://open.spotify.com/track/4BuCCdzxWtVgNQkJxpKhkP"
     },
     {
       "album": {

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajUwYhWkg4J.md) - [plain]
 
 ### [Best of: Coke Studio Sufi ](https://open.spotify.com/playlist/37i9dQZF1DXajUwYhWkg4J)
 
-> Top Sufi tracks of Coke Studio Pakistan\. Cover: Rahat Fateh Ali Khan
+> Top Sufi tracks of Coke Studio Pakistan\. Cover: Abida Parveen
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,421 likes - 46 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,933 likes - 46 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajUwYhWkg4J.md) - [plain]
 | 45 | [Husn\-e\-Haqiqi](https://open.spotify.com/track/2Qry5LiUPVW4KBumqJo4Df) | [Arieb Azhar](https://open.spotify.com/artist/0IuKvmIDo3KrY937MVh08P), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 2](https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu) | 5:21 |
 | 46 | [Alif Allah \- Live](https://open.spotify.com/track/5LBsnmhdWSvHtmqybXJEOm) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ), [Saeen Tufail](https://open.spotify.com/artist/7mrsIV55fNrtgoPDB5aNL1), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio: Season 1](https://open.spotify.com/album/61RMEU4YQreHmbWY43cJIm) | 7:43 |
 
-Snapshot ID: `MTY0MjM1NzgyOCwwMDAwMDAwMGY4MGUwODFkMjEyZWNhZTI5ZGIxNGQ2N2YwMTFlNGYz`
+Snapshot ID: `MTY2NTU4ODAxNywwMDAwMDAwMDQzMmVmOWVmZDRiZjQzMWEzMWZhZTBlOThjMDc0ZmVj`

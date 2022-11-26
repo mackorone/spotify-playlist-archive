@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars.",
+  "description": "Celebrating the release of Live Forever: A Tribute to Billy Joe Shaver. Cover: Billy Joe Shaver",
   "name": "Heart Of Texas",
   "published_playlist_ids": [
     "4xIGgN9sUn8w5WjNECj4E7"
@@ -664,6 +664,24 @@
     },
     {
       "album": {
+        "name": "Billy Joe Shaver",
+        "url": "https://open.spotify.com/album/2fkWfYbsj2safWkNU2PCT9"
+      },
+      "artists": [
+        {
+          "name": "Billy Joe Shaver",
+          "url": "https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176973,
+      "name": "I Been to Georgia on a Fast Train",
+      "url": "https://open.spotify.com/track/2UicNzPoIwYvu08vVFzRTP"
+    },
+    {
+      "album": {
         "name": "I Believe In You",
         "url": "https://open.spotify.com/album/5FG0ZnaPrdDqlHpu9dAspG"
       },
@@ -946,6 +964,24 @@
     },
     {
       "album": {
+        "name": "Tramp On Your Street",
+        "url": "https://open.spotify.com/album/4VZK4PLoIdugyfsg3ZHon0"
+      },
+      "artists": [
+        {
+          "name": "Billy Joe Shaver",
+          "url": "https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169440,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/4f2K09ZZra4gK8Cyuf6yW6"
+    },
+    {
+      "album": {
         "name": "Greatest Hits (& Some That Will Be)",
         "url": "https://open.spotify.com/album/7oRkZF4ysrOnGThgSiUtUC"
       },
@@ -1123,6 +1159,28 @@
       "duration_ms": 244797,
       "name": "Pretty Heart",
       "url": "https://open.spotify.com/track/6vC90OOjZR165Hw8CpsqEm"
+    },
+    {
+      "album": {
+        "name": "Ragged Old Truck",
+        "url": "https://open.spotify.com/album/0huPK5t9hSCURDDBEk935f"
+      },
+      "artists": [
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        },
+        {
+          "name": "Joshua Hedley",
+          "url": "https://open.spotify.com/artist/6OJg4GNkAEtu0cfDVRbnjh"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253803,
+      "name": "Ragged Old Truck (feat. Joshua Hedley)",
+      "url": "https://open.spotify.com/track/1iJ7Yi9Nx1F74WSHhNk38x"
     },
     {
       "album": {
@@ -1347,6 +1405,24 @@
       "duration_ms": 207773,
       "name": "Sunrise Tells The Story",
       "url": "https://open.spotify.com/track/1fCl1BY97PPNnac9oewVBJ"
+    },
+    {
+      "album": {
+        "name": "Soundtrack To Summer 2022 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/73LCw8JcSH3lhN1up371Ry"
+      },
+      "artists": [
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 207773,
+      "name": "Sunrise Tells The Story",
+      "url": "https://open.spotify.com/track/2aMoypBlGDP7uVRLFFTCNf"
     },
     {
       "album": {
@@ -1683,6 +1759,24 @@
       "duration_ms": 246320,
       "name": "Wish You Were Here",
       "url": "https://open.spotify.com/track/3Os22J3L2km0aRaR0JpEYG"
+    },
+    {
+      "album": {
+        "name": "Live Forever: A Tribute To Billy Joe Shaver",
+        "url": "https://open.spotify.com/album/357DuDjcyqJ0wHxX4uPPL4"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff",
+          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171480,
+      "name": "You Asked Me To",
+      "url": "https://open.spotify.com/track/3REizsPkpELxQkvl9EZNiE"
     },
     {
       "album": {

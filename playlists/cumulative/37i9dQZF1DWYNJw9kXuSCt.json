@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-09-22",
-  "description": "These are the nominees for the 2022 Latin GRAMMYs.",
-  "name": "The 2022 Latin GRAMMYs Nominees",
+  "description": "The 2022 nominees.",
+  "name": "The Nominees",
   "published_playlist_ids": [
     "0dCZWjdvmpZmHTm4DVGHGv"
   ],
@@ -519,6 +519,24 @@
     {
       "album": {
         "name": "Angela Alvarez",
+        "url": "https://open.spotify.com/album/04esNzQGGw8nrIIimriH0W"
+      },
+      "artists": [
+        {
+          "name": "Angela Alvarez",
+          "url": "https://open.spotify.com/artist/10JqA8e5aUTHSsdK6zRvoV"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242280,
+      "name": "Camino Sin Rumbo",
+      "url": "https://open.spotify.com/track/3lQ7QfmhD8bFxGpOZaiJvq"
+    },
+    {
+      "album": {
+        "name": "Angela Alvarez",
         "url": "https://open.spotify.com/album/3vfKoRXHpoDFBCpvVbsQin"
       },
       "artists": [
@@ -529,7 +547,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 242280,
       "name": "Camino Sin Rumbo",
       "url": "https://open.spotify.com/track/4sBmZReoyxYZLRYOd9tp2J"
@@ -729,6 +747,46 @@
     {
       "album": {
         "name": "AGUILERA",
+        "url": "https://open.spotify.com/album/1yzGdDRVUtPRGWATYs7J35"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206480,
+      "name": "Cuando Me D\u00e9 la Gana",
+      "url": "https://open.spotify.com/track/1zvtSTLTx66rmGP6yNu1cJ"
+    },
+    {
+      "album": {
+        "name": "AGUILERA",
+        "url": "https://open.spotify.com/album/1yzGdDRVUtPRGWATYs7J35"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 206542,
+      "name": "Cuando Me D\u00e9 la Gana",
+      "url": "https://open.spotify.com/track/054rVEFJSFyS9tHbZp1Pwz"
+    },
+    {
+      "album": {
+        "name": "AGUILERA",
         "url": "https://open.spotify.com/album/52SJvDHaFAC3IE4a29UOIa"
       },
       "artists": [
@@ -743,7 +801,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 206542,
       "name": "Cuando Me D\u00e9 la Gana",
       "url": "https://open.spotify.com/track/2joHNbSdBZtZC5NlEQDUkZ"
@@ -1903,7 +1961,7 @@
           "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
         },
         {
-          "name": "Nathy Peluso",
+          "name": "NATHY PELUSO",
           "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
         }
       ],

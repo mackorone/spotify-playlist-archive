@@ -962,6 +962,24 @@
     },
     {
       "album": {
+        "name": "Delta Sleep (110Hz - 112Hz)",
+        "url": "https://open.spotify.com/album/7EYzYzLZqLROiMFk6DoOj3"
+      },
+      "artists": [
+        {
+          "name": "8D Spheres",
+          "url": "https://open.spotify.com/artist/6PQZnRaF4PpSSUryfJMQjf"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "Delta Sleep (110Hz - 112Hz)",
+      "url": "https://open.spotify.com/track/5II3JR3SauFzQbO16esuSp"
+    },
+    {
+      "album": {
         "name": "Delta Sleep (Binaural 277hz/280hz)",
         "url": "https://open.spotify.com/album/0p0QgKOab4ZHTTrpjIGGMJ"
       },

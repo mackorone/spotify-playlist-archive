@@ -1,12 +1,12 @@
 {
   "description": "Because bass. Cover: Victor Wooten",
-  "num_followers": 113142,
+  "num_followers": 116378,
   "original_name": "Bottoms Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzc3NTkxMCwwMDAwMDAwMDZhMDQxZDE2ZDk1NTVkMjI2YWJhNjVjM2I1MDNjZjU2",
+  "snapshot_id": "MTY2ODEzOTIwMCwwMDAwMDAwMDg2ODU4Yjc2ZTg1M2NlNzRiN2UwMjc3MGEwNmRiZTYy",
   "tracks": [
     {
       "added_at": "2021-05-06 21:09:12",
@@ -73,20 +73,24 @@
       "url": "https://open.spotify.com/track/4IDdUssauEYJ9kTit6tOU6"
     },
     {
-      "added_at": "2021-05-06 21:09:12",
+      "added_at": "2022-11-11 04:00:00",
       "album": {
-        "name": "Doug's Party Mix",
-        "url": "https://open.spotify.com/album/525qzct3ZHrfnWMsGyJmT3"
+        "name": "The Seed",
+        "url": "https://open.spotify.com/album/4PFKs4k84A1sMcUPKEQ5kE"
       },
       "artists": [
         {
-          "name": "Doug Johns",
-          "url": "https://open.spotify.com/artist/3kl3akpVRNZiwNn3L9Hllk"
+          "name": "Aron",
+          "url": "https://open.spotify.com/artist/3ik0tThzh3jWDLIYezRXMr"
+        },
+        {
+          "name": "Derrick Hodge",
+          "url": "https://open.spotify.com/artist/1jvBVqm4g5Jk8tEmKoYoes"
         }
       ],
-      "duration_ms": 89333,
-      "name": "Just Play",
-      "url": "https://open.spotify.com/track/4rYhksNrzm7mjsP0IqAvAw"
+      "duration_ms": 194209,
+      "name": "The Peace Song",
+      "url": "https://open.spotify.com/track/4mcl5y8bBP14UwlSDz7GBN"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -159,6 +163,38 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
+        "name": "Dr Hypenstein",
+        "url": "https://open.spotify.com/album/1YVisujm1TssXD7TZCTT0P"
+      },
+      "artists": [
+        {
+          "name": "Redtenbacher's Funkestra",
+          "url": "https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA"
+        }
+      ],
+      "duration_ms": 187276,
+      "name": "Funktionality",
+      "url": "https://open.spotify.com/track/2CCzZYCwAJ8l147yQRNMC6"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "Doug's Party Mix",
+        "url": "https://open.spotify.com/album/525qzct3ZHrfnWMsGyJmT3"
+      },
+      "artists": [
+        {
+          "name": "Doug Johns",
+          "url": "https://open.spotify.com/artist/3kl3akpVRNZiwNn3L9Hllk"
+        }
+      ],
+      "duration_ms": 89333,
+      "name": "Just Play",
+      "url": "https://open.spotify.com/track/4rYhksNrzm7mjsP0IqAvAw"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
         "name": "Laid Black",
         "url": "https://open.spotify.com/album/3REq2IkHZ1fo8BNWnfGGNc"
       },
@@ -195,6 +231,78 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
+        "name": "Ostinato Bass",
+        "url": "https://open.spotify.com/album/5a1EmamjgzVgnoOgL9MMjz"
+      },
+      "artists": [
+        {
+          "name": "Cristiano Parato",
+          "url": "https://open.spotify.com/artist/0snU3Xa97Sq9l2RLuCdWIP"
+        },
+        {
+          "name": "Scott Henderson",
+          "url": "https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn"
+        },
+        {
+          "name": "Lele Melotti",
+          "url": "https://open.spotify.com/artist/2LVUVfQksPpfSEcCvU8WaR"
+        }
+      ],
+      "duration_ms": 253400,
+      "name": "Inside My Memory",
+      "url": "https://open.spotify.com/track/3gaGmRxUQ8n2vMC4BmDXSE"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "What Did He Say? (Remastered)",
+        "url": "https://open.spotify.com/album/5WbTfCHnFWp2pKiRkUU78D"
+      },
+      "artists": [
+        {
+          "name": "Victor Wooten",
+          "url": "https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj"
+        }
+      ],
+      "duration_ms": 282946,
+      "name": "What You Won't Do for Love",
+      "url": "https://open.spotify.com/track/0vPIxkes0dlATamjuRJdcb"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "UFO Tofu",
+        "url": "https://open.spotify.com/album/5ORewDyq7lUTyzoDali0SO"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Fleck and the Flecktones",
+          "url": "https://open.spotify.com/artist/5Zmur9D9gpr6tXyDrpnbOe"
+        }
+      ],
+      "duration_ms": 214373,
+      "name": "Sex in a Pan",
+      "url": "https://open.spotify.com/track/5HIpvnJea0u6rsdrfWCv3w"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "It Is What It Is",
+        "url": "https://open.spotify.com/album/2kN0INHqkk9rUUVgYJpbat"
+      },
+      "artists": [
+        {
+          "name": "Brian Bromberg",
+          "url": "https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h"
+        }
+      ],
+      "duration_ms": 401320,
+      "name": "Elephants On Ice Skates",
+      "url": "https://open.spotify.com/track/0K6pSQ1hwpkIi73on3rqJ6"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
         "name": "A Dark Light",
         "url": "https://open.spotify.com/album/4Awbl4MQAZnfdfKf98lpbn"
       },
@@ -212,7 +320,7 @@
       "added_at": "2021-05-06 21:09:12",
       "album": {
         "name": "Alone",
-        "url": "https://open.spotify.com/album/3EOqo3Cdf0MnqWpDXtnpUH"
+        "url": "https://open.spotify.com/album/3n97LxQTiIk9QBZWdzZggl"
       },
       "artists": [
         {
@@ -220,41 +328,73 @@
           "url": "https://open.spotify.com/artist/5tYE3ViKxF5APISuBhET9y"
         }
       ],
-      "duration_ms": 259386,
+      "duration_ms": 259385,
       "name": "Actualize",
-      "url": "https://open.spotify.com/track/4V8MJ9W3DfxSWDTpmDXHD5"
+      "url": "https://open.spotify.com/track/1NENL1nGSuAnJhZz8xZd6N"
     },
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "Dr Hypenstein",
-        "url": "https://open.spotify.com/album/1YVisujm1TssXD7TZCTT0P"
+        "name": "Le Band",
+        "url": "https://open.spotify.com/album/0CMnXccmvvCB5YVYNeyJsQ"
       },
       "artists": [
         {
-          "name": "Redtenbacher's Funkestra",
-          "url": "https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA"
+          "name": "Alain Caron",
+          "url": "https://open.spotify.com/artist/1jonOyRkfkvgd1MUyZtPgj"
         }
       ],
-      "duration_ms": 187276,
-      "name": "Funktionality",
-      "url": "https://open.spotify.com/track/2CCzZYCwAJ8l147yQRNMC6"
+      "duration_ms": 324533,
+      "name": "No Way",
+      "url": "https://open.spotify.com/track/21insAWTe5rKqvBWkTfvkO"
     },
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "UFO Tofu",
-        "url": "https://open.spotify.com/album/5ORewDyq7lUTyzoDali0SO"
+        "name": "Transformation",
+        "url": "https://open.spotify.com/album/07f02dGYUGK8zYZx9m1qcS"
       },
       "artists": [
         {
-          "name": "B\u00e9la Fleck and the Flecktones",
-          "url": "https://open.spotify.com/artist/5Zmur9D9gpr6tXyDrpnbOe"
+          "name": "Tal Wilkenfeld",
+          "url": "https://open.spotify.com/artist/3XzPQsdtlMMHxKERG8a1Bu"
         }
       ],
-      "duration_ms": 214373,
-      "name": "Sex in a Pan",
-      "url": "https://open.spotify.com/track/5HIpvnJea0u6rsdrfWCv3w"
+      "duration_ms": 381786,
+      "name": "BC",
+      "url": "https://open.spotify.com/track/5z9YuyOeX4RPKk0dIAJWle"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "Way Up!",
+        "url": "https://open.spotify.com/album/5vapjGGzuB67f9Ye1TBsHm"
+      },
+      "artists": [
+        {
+          "name": "Wayman Tisdale",
+          "url": "https://open.spotify.com/artist/3h25qUbua6H0dcBJgDPg5c"
+        }
+      ],
+      "duration_ms": 258360,
+      "name": "Get Down On It",
+      "url": "https://open.spotify.com/track/41BisXehQCshqh06t1is99"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "Fable",
+        "url": "https://open.spotify.com/album/4PqhzQqYinxZBm6ZXB6pQk"
+      },
+      "artists": [
+        {
+          "name": "Charles Berthoud",
+          "url": "https://open.spotify.com/artist/2ja5lXz6NdhSjtDlbYIE91"
+        }
+      ],
+      "duration_ms": 138791,
+      "name": "Beyond The Rift",
+      "url": "https://open.spotify.com/track/64o9hhM3zNTVQpEnav9sib"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -283,8 +423,8 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "What Did He Say? (Remastered)",
-        "url": "https://open.spotify.com/album/5WbTfCHnFWp2pKiRkUU78D"
+        "name": "A Show of Hands 15",
+        "url": "https://open.spotify.com/album/3TUlnfqz2PyHIzKdAjPwz2"
       },
       "artists": [
         {
@@ -292,97 +432,9 @@
           "url": "https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj"
         }
       ],
-      "duration_ms": 282946,
-      "name": "What You Won't Do for Love",
-      "url": "https://open.spotify.com/track/0vPIxkes0dlATamjuRJdcb"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
-        "name": "It Is What It Is",
-        "url": "https://open.spotify.com/album/2kN0INHqkk9rUUVgYJpbat"
-      },
-      "artists": [
-        {
-          "name": "Brian Bromberg",
-          "url": "https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h"
-        }
-      ],
-      "duration_ms": 401320,
-      "name": "Elephants On Ice Skates",
-      "url": "https://open.spotify.com/track/0K6pSQ1hwpkIi73on3rqJ6"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
-        "name": "Fable",
-        "url": "https://open.spotify.com/album/4PqhzQqYinxZBm6ZXB6pQk"
-      },
-      "artists": [
-        {
-          "name": "Charles Berthoud",
-          "url": "https://open.spotify.com/artist/2ja5lXz6NdhSjtDlbYIE91"
-        }
-      ],
-      "duration_ms": 138791,
-      "name": "Beyond The Rift",
-      "url": "https://open.spotify.com/track/64o9hhM3zNTVQpEnav9sib"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
-        "name": "Way Up!",
-        "url": "https://open.spotify.com/album/5vapjGGzuB67f9Ye1TBsHm"
-      },
-      "artists": [
-        {
-          "name": "Wayman Tisdale",
-          "url": "https://open.spotify.com/artist/3h25qUbua6H0dcBJgDPg5c"
-        }
-      ],
-      "duration_ms": 258360,
-      "name": "Get Down On It",
-      "url": "https://open.spotify.com/track/41BisXehQCshqh06t1is99"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
-        "name": "Ostinato Bass",
-        "url": "https://open.spotify.com/album/5a1EmamjgzVgnoOgL9MMjz"
-      },
-      "artists": [
-        {
-          "name": "Cristiano Parato",
-          "url": "https://open.spotify.com/artist/0snU3Xa97Sq9l2RLuCdWIP"
-        },
-        {
-          "name": "Scott Henderson",
-          "url": "https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn"
-        },
-        {
-          "name": "Lele Melotti",
-          "url": "https://open.spotify.com/artist/2LVUVfQksPpfSEcCvU8WaR"
-        }
-      ],
-      "duration_ms": 253400,
-      "name": "Inside My Memory",
-      "url": "https://open.spotify.com/track/3gaGmRxUQ8n2vMC4BmDXSE"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
-        "name": "Transformation",
-        "url": "https://open.spotify.com/album/07f02dGYUGK8zYZx9m1qcS"
-      },
-      "artists": [
-        {
-          "name": "Tal Wilkenfeld",
-          "url": "https://open.spotify.com/artist/3XzPQsdtlMMHxKERG8a1Bu"
-        }
-      ],
-      "duration_ms": 381786,
-      "name": "BC",
-      "url": "https://open.spotify.com/track/5z9YuyOeX4RPKk0dIAJWle"
+      "duration_ms": 279693,
+      "name": "Classical Thump",
+      "url": "https://open.spotify.com/track/3l3lCbzWLXi9FS4tQ3HSzZ"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -403,22 +455,6 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "Pocket Fulla Nasty",
-        "url": "https://open.spotify.com/album/0YSybrBdEaK0S2XyR2HGjC"
-      },
-      "artists": [
-        {
-          "name": "Doug Johns",
-          "url": "https://open.spotify.com/artist/3kl3akpVRNZiwNn3L9Hllk"
-        }
-      ],
-      "duration_ms": 265946,
-      "name": "Chump Suey",
-      "url": "https://open.spotify.com/track/1TTbSC0v0D0jWMDPxJrIsI"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
         "name": "Not of This World",
         "url": "https://open.spotify.com/album/4C87JqBspjnIVCAFqq5JoY"
       },
@@ -431,38 +467,6 @@
       "duration_ms": 397640,
       "name": "Cosmic Underground",
       "url": "https://open.spotify.com/track/35vrAaOvThXxvHwpbwrmng"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
-        "name": "The Gift Psychobass2",
-        "url": "https://open.spotify.com/album/6uCTfpl8HRgQHkhQlcDOjf"
-      },
-      "artists": [
-        {
-          "name": "Byron Miller",
-          "url": "https://open.spotify.com/artist/7xIWaSpdL5oIEZw5QCZ84Y"
-        }
-      ],
-      "duration_ms": 240933,
-      "name": "Soldier of the Groove",
-      "url": "https://open.spotify.com/track/71I9xt9tXZ5BM5S1j9WZ2b"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
-        "name": "A Show of Hands 15",
-        "url": "https://open.spotify.com/album/3TUlnfqz2PyHIzKdAjPwz2"
-      },
-      "artists": [
-        {
-          "name": "Victor Wooten",
-          "url": "https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj"
-        }
-      ],
-      "duration_ms": 279693,
-      "name": "Classical Thump",
-      "url": "https://open.spotify.com/track/3l3lCbzWLXi9FS4tQ3HSzZ"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -483,38 +487,6 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "The Message",
-        "url": "https://open.spotify.com/album/6DtroRg76chWowQn2hXF4x"
-      },
-      "artists": [
-        {
-          "name": "The Stanley Clarke Band",
-          "url": "https://open.spotify.com/artist/6M9ohMNccb79LCYSCfzdOH"
-        }
-      ],
-      "duration_ms": 118739,
-      "name": "And Ya Know We're Missing You: Dedicated to Leon NDUGU Chancler, Darryl Brown, Al Jarreau, Tom Petty, Chuck Berry & my good friend Larry Coryell",
-      "url": "https://open.spotify.com/track/4yKpVDfezBjtyThrWEgTij"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
-        "name": "Le Band",
-        "url": "https://open.spotify.com/album/0CMnXccmvvCB5YVYNeyJsQ"
-      },
-      "artists": [
-        {
-          "name": "Alain Caron",
-          "url": "https://open.spotify.com/artist/1jonOyRkfkvgd1MUyZtPgj"
-        }
-      ],
-      "duration_ms": 324533,
-      "name": "No Way",
-      "url": "https://open.spotify.com/track/21insAWTe5rKqvBWkTfvkO"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
         "name": "The Second",
         "url": "https://open.spotify.com/album/70NkOwCX9ZudoecixbtENx"
       },
@@ -531,18 +503,18 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "At The Jazz Base",
-        "url": "https://open.spotify.com/album/1pPAok1LQpSnl6IDYdugSU"
+        "name": "The Gift Psychobass2",
+        "url": "https://open.spotify.com/album/6uCTfpl8HRgQHkhQlcDOjf"
       },
       "artists": [
         {
-          "name": "Gerald Veasley",
-          "url": "https://open.spotify.com/artist/3YCLJVZoYJ2sgtAaNt9HPE"
+          "name": "Byron Miller",
+          "url": "https://open.spotify.com/artist/7xIWaSpdL5oIEZw5QCZ84Y"
         }
       ],
-      "duration_ms": 315360,
-      "name": "Valdez In The Country",
-      "url": "https://open.spotify.com/track/71Rf5dOGsVfBGPuWgWYA0V"
+      "duration_ms": 240933,
+      "name": "Soldier of the Groove",
+      "url": "https://open.spotify.com/track/71I9xt9tXZ5BM5S1j9WZ2b"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -559,6 +531,54 @@
       "duration_ms": 354533,
       "name": "Lifecycle",
       "url": "https://open.spotify.com/track/6UeV69QaXrzISZ5MdeX6Xs"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "The Message",
+        "url": "https://open.spotify.com/album/6DtroRg76chWowQn2hXF4x"
+      },
+      "artists": [
+        {
+          "name": "The Stanley Clarke Band",
+          "url": "https://open.spotify.com/artist/6M9ohMNccb79LCYSCfzdOH"
+        }
+      ],
+      "duration_ms": 118739,
+      "name": "And Ya Know We're Missing You: Dedicated to Leon NDUGU Chancler, Darryl Brown, Al Jarreau, Tom Petty, Chuck Berry & my good friend Larry Coryell",
+      "url": "https://open.spotify.com/track/4yKpVDfezBjtyThrWEgTij"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "Pocket Fulla Nasty",
+        "url": "https://open.spotify.com/album/0YSybrBdEaK0S2XyR2HGjC"
+      },
+      "artists": [
+        {
+          "name": "Doug Johns",
+          "url": "https://open.spotify.com/artist/3kl3akpVRNZiwNn3L9Hllk"
+        }
+      ],
+      "duration_ms": 265946,
+      "name": "Chump Suey",
+      "url": "https://open.spotify.com/track/1TTbSC0v0D0jWMDPxJrIsI"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "Laid Black",
+        "url": "https://open.spotify.com/album/3REq2IkHZ1fo8BNWnfGGNc"
+      },
+      "artists": [
+        {
+          "name": "Marcus Miller",
+          "url": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
+        }
+      ],
+      "duration_ms": 336066,
+      "name": "No Limit",
+      "url": "https://open.spotify.com/track/2hHAjvHx7gZL3zSPHYMEwn"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -583,22 +603,6 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "Slippin' N' Trippin'",
-        "url": "https://open.spotify.com/album/5GRTkxq12ZgkGQU52izAXj"
-      },
-      "artists": [
-        {
-          "name": "Victor Bailey",
-          "url": "https://open.spotify.com/artist/1aTPRuTpqvuPpAps3FhBhe"
-        }
-      ],
-      "duration_ms": 146306,
-      "name": "Countdown",
-      "url": "https://open.spotify.com/track/3nbHF2EX8IQwNGMlp9EviS"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
         "name": "A Show of Hands 15",
         "url": "https://open.spotify.com/album/3TUlnfqz2PyHIzKdAjPwz2"
       },
@@ -615,34 +619,18 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "Laid Black",
-        "url": "https://open.spotify.com/album/3REq2IkHZ1fo8BNWnfGGNc"
+        "name": "Slippin' N' Trippin'",
+        "url": "https://open.spotify.com/album/5GRTkxq12ZgkGQU52izAXj"
       },
       "artists": [
         {
-          "name": "Marcus Miller",
-          "url": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
+          "name": "Victor Bailey",
+          "url": "https://open.spotify.com/artist/1aTPRuTpqvuPpAps3FhBhe"
         }
       ],
-      "duration_ms": 336066,
-      "name": "No Limit",
-      "url": "https://open.spotify.com/track/2hHAjvHx7gZL3zSPHYMEwn"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
-        "name": "A Ray of Hope",
-        "url": "https://open.spotify.com/album/3XfZzTCgMyKVdeVC1deRR1"
-      },
-      "artists": [
-        {
-          "name": "Michael Manson",
-          "url": "https://open.spotify.com/artist/6Eun8Hnz1EAIrVoWvGVF5v"
-        }
-      ],
-      "duration_ms": 279480,
-      "name": "Straight Up",
-      "url": "https://open.spotify.com/track/4h7gihBubPqrGCBGZ4kJjL"
+      "duration_ms": 146306,
+      "name": "Countdown",
+      "url": "https://open.spotify.com/track/3nbHF2EX8IQwNGMlp9EviS"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -659,90 +647,6 @@
       "duration_ms": 384653,
       "name": "Porky & Beans",
       "url": "https://open.spotify.com/track/6LcZLOWOzQGFQzRDtqefSq"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
-        "name": "We Are All You (Extended Edition)",
-        "url": "https://open.spotify.com/album/71E0HQ4rIZfwmA07vxqVUr"
-      },
-      "artists": [
-        {
-          "name": "Evan Marien",
-          "url": "https://open.spotify.com/artist/7j3WzD4hWEZ0CL4dDH9d6H"
-        }
-      ],
-      "duration_ms": 146750,
-      "name": "Aeon",
-      "url": "https://open.spotify.com/track/7437o7VmWq62ibaGLLu4bb"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
-        "name": "Multiple Faces",
-        "url": "https://open.spotify.com/album/1H6WkzaF10oay25cWVtkkB"
-      },
-      "artists": [
-        {
-          "name": "Alain Caron",
-          "url": "https://open.spotify.com/artist/1jonOyRkfkvgd1MUyZtPgj"
-        }
-      ],
-      "duration_ms": 413266,
-      "name": "Right After 4",
-      "url": "https://open.spotify.com/track/0Xcd7ELzTQjVaNAOG23Jco"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
-        "name": "Thicker Than Water",
-        "url": "https://open.spotify.com/album/7GTWVyB9UwiibcbA6Ykpfx"
-      },
-      "artists": [
-        {
-          "name": "Brian Bromberg",
-          "url": "https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h"
-        }
-      ],
-      "duration_ms": 335588,
-      "name": "Is That the Best You Can Do?",
-      "url": "https://open.spotify.com/track/3WQdJiq9896W9Zw7jjIBI7"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
-        "name": "Epiphany",
-        "url": "https://open.spotify.com/album/5uGgz6J40Kwm77V8Lyl827"
-      },
-      "artists": [
-        {
-          "name": "Charles Berthoud",
-          "url": "https://open.spotify.com/artist/2ja5lXz6NdhSjtDlbYIE91"
-        }
-      ],
-      "duration_ms": 192361,
-      "name": "Don't Look Back Again",
-      "url": "https://open.spotify.com/track/66MsmmOc0dIhqYuhVobax7"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
-        "name": "Cerulean Blue",
-        "url": "https://open.spotify.com/album/3bThtHCv0o3pe6f8KqYiK3"
-      },
-      "artists": [
-        {
-          "name": "Blair Bryant",
-          "url": "https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq"
-        },
-        {
-          "name": "Darren Rahn",
-          "url": "https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u"
-        }
-      ],
-      "duration_ms": 246692,
-      "name": "Sun Chaser",
-      "url": "https://open.spotify.com/track/4ZbDihSwE41c6jYCHeMOWj"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -767,6 +671,70 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
+        "name": "Thicker Than Water",
+        "url": "https://open.spotify.com/album/7GTWVyB9UwiibcbA6Ykpfx"
+      },
+      "artists": [
+        {
+          "name": "Brian Bromberg",
+          "url": "https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h"
+        }
+      ],
+      "duration_ms": 335588,
+      "name": "Is That the Best You Can Do?",
+      "url": "https://open.spotify.com/track/3WQdJiq9896W9Zw7jjIBI7"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "Letter for Paul (feat. Chris Potter, Jon Cowherd, Marcus Gilmore & Rogerio Boccato)",
+        "url": "https://open.spotify.com/album/4oz7MSG5MJrIlxDLW7fF75"
+      },
+      "artists": [
+        {
+          "name": "John Patitucci",
+          "url": "https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH"
+        },
+        {
+          "name": "Chris Potter",
+          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
+        },
+        {
+          "name": "Jon Cowherd",
+          "url": "https://open.spotify.com/artist/1CfUXWkyKLaI4IyJ6ul9NE"
+        },
+        {
+          "name": "Marcus Gilmore",
+          "url": "https://open.spotify.com/artist/1caVPl46Ta6C8DYns5AAuo"
+        },
+        {
+          "name": "Rogerio Boccato",
+          "url": "https://open.spotify.com/artist/4o7gEQWwzhUvcepiz3klAe"
+        }
+      ],
+      "duration_ms": 330969,
+      "name": "Letter for Paul (feat. Chris Potter, Jon Cowherd, Marcus Gilmore & Rogerio Boccato)",
+      "url": "https://open.spotify.com/track/3stEH9HPia2bpfoZ6LhOaR"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "Epiphany",
+        "url": "https://open.spotify.com/album/5uGgz6J40Kwm77V8Lyl827"
+      },
+      "artists": [
+        {
+          "name": "Charles Berthoud",
+          "url": "https://open.spotify.com/artist/2ja5lXz6NdhSjtDlbYIE91"
+        }
+      ],
+      "duration_ms": 192361,
+      "name": "Don't Look Back Again",
+      "url": "https://open.spotify.com/track/66MsmmOc0dIhqYuhVobax7"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
         "name": "M2",
         "url": "https://open.spotify.com/album/1xyfptnTlG1u1fzVxYJm6d"
       },
@@ -783,18 +751,70 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "Romancing the Bass",
-        "url": "https://open.spotify.com/album/1hbDdA4rK8dIj05pefvCGJ"
+        "name": "Multiple Faces",
+        "url": "https://open.spotify.com/album/1H6WkzaF10oay25cWVtkkB"
       },
       "artists": [
         {
-          "name": "Tony Saunders",
-          "url": "https://open.spotify.com/artist/5OLFOdnwdWsZry0VUo3b2Q"
+          "name": "Alain Caron",
+          "url": "https://open.spotify.com/artist/1jonOyRkfkvgd1MUyZtPgj"
         }
       ],
-      "duration_ms": 309839,
-      "name": "Just Letting Go",
-      "url": "https://open.spotify.com/track/0Y4SEMAHZpGp9UyTrMcVTW"
+      "duration_ms": 413266,
+      "name": "Right After 4",
+      "url": "https://open.spotify.com/track/0Xcd7ELzTQjVaNAOG23Jco"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "A Ray of Hope",
+        "url": "https://open.spotify.com/album/3XfZzTCgMyKVdeVC1deRR1"
+      },
+      "artists": [
+        {
+          "name": "Michael Manson",
+          "url": "https://open.spotify.com/artist/6Eun8Hnz1EAIrVoWvGVF5v"
+        }
+      ],
+      "duration_ms": 279480,
+      "name": "Straight Up",
+      "url": "https://open.spotify.com/track/4h7gihBubPqrGCBGZ4kJjL"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "We Are All You (Extended Edition)",
+        "url": "https://open.spotify.com/album/71E0HQ4rIZfwmA07vxqVUr"
+      },
+      "artists": [
+        {
+          "name": "Evan Marien",
+          "url": "https://open.spotify.com/artist/7j3WzD4hWEZ0CL4dDH9d6H"
+        }
+      ],
+      "duration_ms": 146750,
+      "name": "Aeon",
+      "url": "https://open.spotify.com/track/7437o7VmWq62ibaGLLu4bb"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "Cerulean Blue",
+        "url": "https://open.spotify.com/album/3bThtHCv0o3pe6f8KqYiK3"
+      },
+      "artists": [
+        {
+          "name": "Blair Bryant",
+          "url": "https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq"
+        },
+        {
+          "name": "Darren Rahn",
+          "url": "https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u"
+        }
+      ],
+      "duration_ms": 246692,
+      "name": "Sun Chaser",
+      "url": "https://open.spotify.com/track/4ZbDihSwE41c6jYCHeMOWj"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -815,6 +835,22 @@
       "duration_ms": 240339,
       "name": "Love on the Run",
       "url": "https://open.spotify.com/track/5qxN363wsERfecdjGiReyy"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "At The Jazz Base",
+        "url": "https://open.spotify.com/album/1pPAok1LQpSnl6IDYdugSU"
+      },
+      "artists": [
+        {
+          "name": "Gerald Veasley",
+          "url": "https://open.spotify.com/artist/3YCLJVZoYJ2sgtAaNt9HPE"
+        }
+      ],
+      "duration_ms": 315360,
+      "name": "Valdez In The Country",
+      "url": "https://open.spotify.com/track/71Rf5dOGsVfBGPuWgWYA0V"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -851,22 +887,6 @@
       "duration_ms": 258312,
       "name": "Trust and Faith",
       "url": "https://open.spotify.com/track/7jiYIbR4hSHHZAsy58NpJ3"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
-        "name": "Time 2 Stop Worrying (Bout the Weird Stuff)",
-        "url": "https://open.spotify.com/album/4DrZmRj1deGY9MpW2dBjVJ"
-      },
-      "artists": [
-        {
-          "name": "Ida Nielsen",
-          "url": "https://open.spotify.com/artist/0LNUSuufEzNpI4nPIVThW3"
-        }
-      ],
-      "duration_ms": 223895,
-      "name": "F.U.NKWHY",
-      "url": "https://open.spotify.com/track/08Xt9rwQXMqW2QF8ngLM8J"
     }
   ],
   "unique_name": "Bottoms Up",

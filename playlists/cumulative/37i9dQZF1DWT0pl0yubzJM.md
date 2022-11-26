@@ -4,7 +4,7 @@
 
 > Entre estrellas pop y el auge del grunge, en Argentina, detrás de Dynamo floreció el nuevo rock argentino\. Sonido alternativo y vanguardista\. Foto: <a href="spotify:user:spotify:playlist:37i9dQZF1DXas2oQWNGMlz">Babasónicos</a>
 
-47 songs - 2 hr 54 min - [published](https://open.spotify.com/playlist/2e072V24f2kqnrQhzBz6B5)
+49 songs - 3 hr 3 min - [published](https://open.spotify.com/playlist/2e072V24f2kqnrQhzBz6B5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [La Bomba](https://open.spotify.com/track/0IjJ1dAp6J9uPo2lKfYyyk) | [Los Brujos](https://open.spotify.com/artist/3DnlTB4No4W6fO6Qvghnm4) | [San Cipriano](https://open.spotify.com/album/12iVcnNuzN4LQNu8G5Tbv9) | 2:43 | 2020-03-13 |  |
 | [Lo Que Se Ve No Es Lo Real](https://open.spotify.com/track/2zop3NXKZxAoW5Z724yQzt) | [Pez](https://open.spotify.com/artist/00demsNI1p5KmzWGlrnrdh) | [Cabeza](https://open.spotify.com/album/6nvkqhyt32VZWrouHtbF6F) | 4:00 | 2020-03-13 |  |
 | [Lo Que Se Ve No Es Lo Real](https://open.spotify.com/track/3dz2hN0enx1NSqmkEwNXgI) | [Pez](https://open.spotify.com/artist/00demsNI1p5KmzWGlrnrdh) | [Cabeza](https://open.spotify.com/album/30McmK2Ryuw8kg427h39pf) | 4:00 | 2020-03-13 | 2022-07-29 |
-| [Manzana de Metal](https://open.spotify.com/track/34o7cYPQGPVxSfsSk5w6lE) | [Altocamet](https://open.spotify.com/artist/0ZqTqI2yIMAtxEfDi0ZODe) | [Nada Es Exacto Salvo la Medida de los Sueños](https://open.spotify.com/album/1n2cKxKtxlIRvzTIkShvNM) | 5:18 | 2020-03-13 |  |
+| [Manzana de Metal](https://open.spotify.com/track/34o7cYPQGPVxSfsSk5w6lE) | [Altocamet](https://open.spotify.com/artist/0ZqTqI2yIMAtxEfDi0ZODe) | [Nada Es Exacto Salvo la Medida de los Sueños](https://open.spotify.com/album/1n2cKxKtxlIRvzTIkShvNM) | 5:18 | 2020-03-13 | 2022-11-22 |
+| [Manzana de Metal](https://open.spotify.com/track/3wDNC8NU4gYgF3tTqbJ27m) | [Altocamet](https://open.spotify.com/artist/0ZqTqI2yIMAtxEfDi0ZODe) | [Manzana de Metal](https://open.spotify.com/album/3eXS2iglmCZJ9feMoyX7dm) | 5:19 | 2020-03-13 | 2022-11-13 |
 | [Manzana De Metal](https://open.spotify.com/track/438wP6tJqpmSBLyJ1sK6k0) | [Altocamet](https://open.spotify.com/artist/0ZqTqI2yIMAtxEfDi0ZODe) | [Manzana De Metal](https://open.spotify.com/album/3NzIeLgS5p4zsUe57ySoPj) | 5:19 | 2020-03-13 | 2022-07-29 |
 | [Marea de Venus](https://open.spotify.com/track/0SPPSkIttUSFTmHbyLmLUG) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W), [Daniel Melero](https://open.spotify.com/artist/5ohM2ZA35IpUZNIAiK4RoY) | [Colores Santos](https://open.spotify.com/album/51R5xJIi26jma8Bsr4rsZ2) | 4:22 | 2020-03-13 |  |
 | [Marea de Venus](https://open.spotify.com/track/7okWsNhHC4LEaK9jqnSK9V) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W), [Daniel Melero](https://open.spotify.com/artist/5ohM2ZA35IpUZNIAiK4RoY) | [Colores Santos](https://open.spotify.com/album/4erCMQs14Tol0V6EyaR5du) | 4:22 | 2020-03-13 | 2022-07-29 |
@@ -31,6 +32,7 @@
 | [Marmota](https://open.spotify.com/track/60i7zzErAk7saXLo9YVHpL) | [Jaime Sin Tierra](https://open.spotify.com/artist/4KzLzaLD6kJcOElGcQplR5) | [El Avión Ya Se Estrelló Y Yo Sigo Volando](https://open.spotify.com/album/3KqOKuyjoZO6Ypng9STafB) | 4:42 | 2020-03-13 |  |
 | [Mate](https://open.spotify.com/track/2E0qictodRb0Y5ChkZ7e4w) | [Todos Tus Muertos](https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy) | [Dale Aborigen](https://open.spotify.com/album/212ondLs1xEcRuSM0iu70X) | 3:11 | 2020-03-13 |  |
 | [Mate](https://open.spotify.com/track/38qMdBT2CM35RT35f5FOUE) | [Todos Tus Muertos](https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy) | [Dale Aborigen](https://open.spotify.com/album/6TAMJC8XUIxWIKaWBIgn8h) | 3:11 | 2020-03-13 | 2022-07-29 |
+| [Mate](https://open.spotify.com/track/4P8jmtTh7Uff7vcUCXsNaY) | [Todos Tus Muertos](https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy) | [Greatest Hits](https://open.spotify.com/album/0a03syBke2aEXcFJfkIuPl) | 3:14 | 2020-03-13 | 2022-11-14 |
 | [Microman](https://open.spotify.com/track/4YPzD1BIdoPdblMUth4yzj) | [Santos Inocentes](https://open.spotify.com/artist/5fs9bxwPJ4ofGlFFY67U8I) | [Emporio Bizarro](https://open.spotify.com/album/4zDPNXUEKor41wMycCTzpC) | 3:54 | 2020-03-13 |  |
 | [Montañas de Agua](https://open.spotify.com/track/0zwHOcDekNtzpTbQ81dK7G) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Trance Zomba](https://open.spotify.com/album/67kcVCT0DElUimIfyZ2MyS) | 3:29 | 2020-03-13 |  |
 | [Post Crucifixion](https://open.spotify.com/track/1ewTI8EOJeLFxPM4v2i9Hh) | [Los Siete Delfines](https://open.spotify.com/artist/2xLKT7jhQNGm4lmivpjc1h) | [Los 7 Delfines](https://open.spotify.com/album/1c8bV0QDLCW2XQJquWEw9t) | 3:48 | 2020-03-13 |  |
@@ -39,7 +41,7 @@
 | [Pudo Ser](https://open.spotify.com/track/26lEheREspOWbnNdHyXYp9) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W), [Daniel Melero](https://open.spotify.com/artist/5ohM2ZA35IpUZNIAiK4RoY) | [Colores Santos](https://open.spotify.com/album/4erCMQs14Tol0V6EyaR5du) | 5:23 | 2020-03-13 | 2022-07-29 |
 | [Pudo Ser](https://open.spotify.com/track/7wpwbzqjAsqqsrgps37ugy) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W), [Daniel Melero](https://open.spotify.com/artist/5ohM2ZA35IpUZNIAiK4RoY) | [Colores Santos](https://open.spotify.com/album/51R5xJIi26jma8Bsr4rsZ2) | 5:23 | 2020-03-13 |  |
 | [Pulsar](https://open.spotify.com/track/1wKVB62P4Lmk7aI7GL2EXK) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Amor Amarillo](https://open.spotify.com/album/75onhE4ne52iMHlVcpHUKR) | 4:54 | 2020-03-13 |  |
-| [Remisero](https://open.spotify.com/track/3JoVclmCif9FgcaAbTLORJ) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg) | [Chaco \(Serie Rock Nacional 2004\)](https://open.spotify.com/album/45O6oTq4UxCeBcrccGPWDi) | 3:22 | 2020-03-13 | 2022-09-06 |
+| [Remisero](https://open.spotify.com/track/3JoVclmCif9FgcaAbTLORJ) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg) | [Chaco \(Serie Rock Nacional 2004\)](https://open.spotify.com/album/45O6oTq4UxCeBcrccGPWDi) | 3:22 | 2020-03-13 |  |
 | [Rockstar](https://open.spotify.com/track/7sUYCPMAKQFGn05M7bpTMz) | [Santos Inocentes](https://open.spotify.com/artist/5fs9bxwPJ4ofGlFFY67U8I) | [Megaton](https://open.spotify.com/album/5OEbnIMia7htVVS2xscmg6) | 4:27 | 2020-03-13 |  |
 | [Rockstar](https://open.spotify.com/track/3wcqKfSbekpAc0j3zUDb2c) | [Santos Inocentes](https://open.spotify.com/artist/5fs9bxwPJ4ofGlFFY67U8I) | [Megaton](https://open.spotify.com/album/6uunmDcnq6AuMnJuqA4Wgn) | 4:29 | 2020-03-13 | 2022-07-29 |
 | [Río Paraná](https://open.spotify.com/track/3ErnpA5sFpJbCQTkwp7CEK) | [Suarez](https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n) | [Excursiones](https://open.spotify.com/album/4snJPKc4DWPKigaOSJpsKx) | 3:08 | 2020-03-13 |  |

@@ -265,6 +265,24 @@
     {
       "album": {
         "name": "Crashed My Bike",
+        "url": "https://open.spotify.com/album/2pRVYKpvfRzCCGCEImrvTr"
+      },
+      "artists": [
+        {
+          "name": "Sun Room",
+          "url": "https://open.spotify.com/artist/4ANMwDtqwfkzPgFoUoLZ3Y"
+        }
+      ],
+      "date_added": "2021-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183200,
+      "name": "Crashed My Bike",
+      "url": "https://open.spotify.com/track/0DX6TehELIsI9N3wKAM0fV"
+    },
+    {
+      "album": {
+        "name": "Crashed My Bike",
         "url": "https://open.spotify.com/album/72FchzzTvWhylxrFSR7Y8l"
       },
       "artists": [
@@ -293,7 +311,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 183200,
       "name": "Crashed My Bike",
       "url": "https://open.spotify.com/track/4Kqa4GdRQux0hEXtHzfd6x"
@@ -337,7 +355,7 @@
     {
       "album": {
         "name": "Hook",
-        "url": "https://open.spotify.com/album/2QNw7unWsqcNwdXExn73zD"
+        "url": "https://open.spotify.com/album/7eoVwBSxUdBpdcBERzlrGG"
       },
       "artists": [
         {
@@ -348,6 +366,24 @@
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 272863,
+      "name": "December",
+      "url": "https://open.spotify.com/track/0ahzhr6YIQO8dQk9dK08Uj"
+    },
+    {
+      "album": {
+        "name": "Hook",
+        "url": "https://open.spotify.com/album/2QNw7unWsqcNwdXExn73zD"
+      },
+      "artists": [
+        {
+          "name": "Killimanjaro",
+          "url": "https://open.spotify.com/artist/3HQ7qP6FF9Qpgc8OCsDaBH"
+        }
+      ],
+      "date_added": "2021-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-20",
       "duration_ms": 272863,
       "name": "December",
       "url": "https://open.spotify.com/track/34WYAjF4l7fx3l97DmKgPM"
@@ -513,6 +549,24 @@
       "duration_ms": 148607,
       "name": "Heybb!",
       "url": "https://open.spotify.com/track/3sN85u5M7FoMmHa8E2aViO"
+    },
+    {
+      "album": {
+        "name": "Music from Drinking Buddies, a film by Joe Swanberg",
+        "url": "https://open.spotify.com/album/4c9OOImfG98Oki4bnirgDi"
+      },
+      "artists": [
+        {
+          "name": "Cayucas",
+          "url": "https://open.spotify.com/artist/7LLcRttKjV6PeJOlCNCYon"
+        }
+      ],
+      "date_added": "2021-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 218533,
+      "name": "High School Lover",
+      "url": "https://open.spotify.com/track/5f0xE4MbRJjPXTqKGezWNX"
     },
     {
       "album": {
@@ -917,6 +971,24 @@
       "duration_ms": 259079,
       "name": "Man On Fire",
       "url": "https://open.spotify.com/track/6Kn5yzAyOw3jf4Y5a6d1Oq"
+    },
+    {
+      "album": {
+        "name": "Maria Tambi\u00e9n",
+        "url": "https://open.spotify.com/album/1pLpoKKOOY0PhsMVOFQ2wG"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "date_added": "2021-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 190999,
+      "name": "Maria Tambi\u00e9n",
+      "url": "https://open.spotify.com/track/2VeN8QhJEjzaI639qKEyBb"
     },
     {
       "album": {
@@ -1328,6 +1400,24 @@
     },
     {
       "album": {
+        "name": "Self Discovery for Social Survival",
+        "url": "https://open.spotify.com/album/7FfRted2sZrQGqBU0Bpw0m"
+      },
+      "artists": [
+        {
+          "name": "Allah-Las",
+          "url": "https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp"
+        }
+      ],
+      "date_added": "2021-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 228306,
+      "name": "Raspberry Jam",
+      "url": "https://open.spotify.com/track/73wHgYAe6ASiFrX4Qc8edX"
+    },
+    {
+      "album": {
         "name": "Quatermass Seven",
         "url": "https://open.spotify.com/album/0XEty5HBu5XeQGuSQcezxI"
       },
@@ -1369,7 +1459,7 @@
     {
       "album": {
         "name": "Bad Behavior",
-        "url": "https://open.spotify.com/album/7nfhqcOW8XRHZvvocev5ZF"
+        "url": "https://open.spotify.com/album/1wJMfWm97AQEJqz70orTU8"
       },
       "artists": [
         {
@@ -1380,6 +1470,24 @@
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 192255,
+      "name": "Sandman",
+      "url": "https://open.spotify.com/track/28I0KNqOmkvzzz7SghMhfu"
+    },
+    {
+      "album": {
+        "name": "Bad Behavior",
+        "url": "https://open.spotify.com/album/7nfhqcOW8XRHZvvocev5ZF"
+      },
+      "artists": [
+        {
+          "name": "BRONCHO",
+          "url": "https://open.spotify.com/artist/6Lll1MPPak4m4vZKuJB264"
+        }
+      ],
+      "date_added": "2021-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-18",
       "duration_ms": 192255,
       "name": "Sandman",
       "url": "https://open.spotify.com/track/4UuL6goVDXswWgRGQiYHki"
@@ -1415,10 +1523,28 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 170411,
       "name": "Something That You're Missing",
       "url": "https://open.spotify.com/track/24QqUt4VHZIYg5LYnl4MeA"
+    },
+    {
+      "album": {
+        "name": "Sol Del Sur",
+        "url": "https://open.spotify.com/album/5Lw6V8cz834Wa097FaphAn"
+      },
+      "artists": [
+        {
+          "name": "Sun Room",
+          "url": "https://open.spotify.com/artist/4ANMwDtqwfkzPgFoUoLZ3Y"
+        }
+      ],
+      "date_added": "2021-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170411,
+      "name": "Something That You're Missing",
+      "url": "https://open.spotify.com/track/2uYozG9El78dWTKLReHMI2"
     },
     {
       "album": {

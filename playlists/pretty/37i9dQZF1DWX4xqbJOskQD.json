@@ -1,12 +1,12 @@
 {
   "description": "The Mills Brothers, The Andrews Sisters and other classic vocal groups.",
-  "num_followers": 1263,
+  "num_followers": 1356,
   "original_name": "Close Harmony Vocals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5NTc0OSwwMDAwMDAwMDE2YzJhNDg5MjQ2MGQ4ZjUyMzRlNGI3ODJjMTE2ZjIy",
+  "snapshot_id": "MTY0ODQ5NTc0OSwwMDAwMDAwMDQ1ZWFlMWJjOWU0OGUxOTE5MjMxNDZjZTdmNzkwMTAx",
   "tracks": [
     {
       "added_at": "2020-08-17 22:49:59",
@@ -75,6 +75,22 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
+        "name": "The Manhattan Transfer",
+        "url": "https://open.spotify.com/album/2xpz9Rm7NSVyOGN5zBODNx"
+      },
+      "artists": [
+        {
+          "name": "The Manhattan Transfer",
+          "url": "https://open.spotify.com/artist/2dogRElUKV20C2khRHqjRc"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Tuxedo Junction",
+      "url": "https://open.spotify.com/track/3NMvVmKyjNGs91aSYje0RZ"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
         "name": "The Four Aces' Greatest Hits",
         "url": "https://open.spotify.com/album/6GfLyMNLMpMayW8kqBDUaL"
       },
@@ -91,22 +107,6 @@
       "duration_ms": 180840,
       "name": "Three Coins In The Fountain",
       "url": "https://open.spotify.com/track/2vZNvA8PEvBdeWr4EkZjLG"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
-        "name": "The Manhattan Transfer",
-        "url": "https://open.spotify.com/album/2xpz9Rm7NSVyOGN5zBODNx"
-      },
-      "artists": [
-        {
-          "name": "The Manhattan Transfer",
-          "url": "https://open.spotify.com/artist/2dogRElUKV20C2khRHqjRc"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Tuxedo Junction",
-      "url": "https://open.spotify.com/track/3NMvVmKyjNGs91aSYje0RZ"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -136,9 +136,81 @@
           "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
         }
       ],
-      "duration_ms": 178066,
-      "name": "May You Always",
-      "url": "https://open.spotify.com/track/3VNjiS6wrDpESHRMvmqTYM"
+      "duration_ms": 178800,
+      "name": "Sincerely",
+      "url": "https://open.spotify.com/track/50AhgOXYVm9ASB6PlKdKk0"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "Bing-His Legendary Years 1931-1957",
+        "url": "https://open.spotify.com/album/2KDC9MOVhSPFY3ANMB6aDw"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        {
+          "name": "The Andrews Sisters",
+          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
+        },
+        {
+          "name": "Vic Schoen & His Orchestra",
+          "url": "https://open.spotify.com/artist/5wHn4S5C2d5fqXIPnJWe42"
+        }
+      ],
+      "duration_ms": 162506,
+      "name": "Ac-Cent-Tchu-Ate The Positive - Single Version",
+      "url": "https://open.spotify.com/track/7kjhZR3dESBnn0GoHf3tVI"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "50th Anniversary Collection (Vol. 2)",
+        "url": "https://open.spotify.com/album/4ro3pENrSK5JrlsTr1RS7L"
+      },
+      "artists": [
+        {
+          "name": "The Andrews Sisters",
+          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
+        },
+        {
+          "name": "Vic Schoen & His Orchestra",
+          "url": "https://open.spotify.com/artist/5wHn4S5C2d5fqXIPnJWe42"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "Straighten Up And Fly Right - Single Version",
+      "url": "https://open.spotify.com/track/2FZZZ3L1wj9xTgQzMlQEed"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "America's Bandleader",
+        "url": "https://open.spotify.com/album/31DxnMa6Do5GPZzz1JoMKT"
+      },
+      "artists": [
+        {
+          "name": "Glenn Miller",
+          "url": "https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc"
+        },
+        {
+          "name": "Ernie Caceres",
+          "url": "https://open.spotify.com/artist/5wazyKBgk8KDzdmHIhuhvc"
+        },
+        {
+          "name": "Marion Hutton",
+          "url": "https://open.spotify.com/artist/3laQbbBvyhDMtrSHPyk4My"
+        },
+        {
+          "name": "The Modernaires",
+          "url": "https://open.spotify.com/artist/3qKEtH1zoLm2ofNZivYevw"
+        }
+      ],
+      "duration_ms": 183213,
+      "name": "Let's Have Another Cup Of Coffee (From \"Face The Music\") - 2002 Remastered",
+      "url": "https://open.spotify.com/track/5DMTreJFLW0tzLdqIC7OtZ"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -175,58 +247,6 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "America's Bandleader",
-        "url": "https://open.spotify.com/album/31DxnMa6Do5GPZzz1JoMKT"
-      },
-      "artists": [
-        {
-          "name": "Glenn Miller",
-          "url": "https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc"
-        },
-        {
-          "name": "Ernie Caceres",
-          "url": "https://open.spotify.com/artist/5wazyKBgk8KDzdmHIhuhvc"
-        },
-        {
-          "name": "Marion Hutton",
-          "url": "https://open.spotify.com/artist/3laQbbBvyhDMtrSHPyk4My"
-        },
-        {
-          "name": "The Modernaires",
-          "url": "https://open.spotify.com/artist/3qKEtH1zoLm2ofNZivYevw"
-        }
-      ],
-      "duration_ms": 183213,
-      "name": "Let's Have Another Cup Of Coffee (From \"Face The Music\") - 2002 Remastered",
-      "url": "https://open.spotify.com/track/5DMTreJFLW0tzLdqIC7OtZ"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
-        "name": "Bing-His Legendary Years 1931-1957",
-        "url": "https://open.spotify.com/album/2KDC9MOVhSPFY3ANMB6aDw"
-      },
-      "artists": [
-        {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        },
-        {
-          "name": "The Andrews Sisters",
-          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
-        },
-        {
-          "name": "Vic Schoen & His Orchestra",
-          "url": "https://open.spotify.com/artist/5wHn4S5C2d5fqXIPnJWe42"
-        }
-      ],
-      "duration_ms": 162506,
-      "name": "Ac-Cent-Tchu-Ate The Positive - Single Version",
-      "url": "https://open.spotify.com/track/7kjhZR3dESBnn0GoHf3tVI"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
         "name": "Voices In Modern",
         "url": "https://open.spotify.com/album/6kckztjIdIEv1gLYa9Wyn8"
       },
@@ -243,26 +263,6 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "50th Anniversary Collection (Vol. 2)",
-        "url": "https://open.spotify.com/album/4ro3pENrSK5JrlsTr1RS7L"
-      },
-      "artists": [
-        {
-          "name": "The Andrews Sisters",
-          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
-        },
-        {
-          "name": "Vic Schoen & His Orchestra",
-          "url": "https://open.spotify.com/artist/5wHn4S5C2d5fqXIPnJWe42"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "Straighten Up And Fly Right - Single Version",
-      "url": "https://open.spotify.com/track/2FZZZ3L1wj9xTgQzMlQEed"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
         "name": "The Anthology",
         "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
       },
@@ -272,41 +272,9 @@
           "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
         }
       ],
-      "duration_ms": 178800,
-      "name": "Sincerely",
-      "url": "https://open.spotify.com/track/50AhgOXYVm9ASB6PlKdKk0"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
-        "name": "Hits Singles: Collectors Series",
-        "url": "https://open.spotify.com/album/0gPMn15Lddsz0xpsxjCfcH"
-      },
-      "artists": [
-        {
-          "name": "The Duprees",
-          "url": "https://open.spotify.com/artist/6nYTjfJFNic9m83TROYHUS"
-        }
-      ],
-      "duration_ms": 151768,
-      "name": "Have You Heard",
-      "url": "https://open.spotify.com/track/1fsWE3xBbvORHHPqICzTyR"
-    },
-    {
-      "added_at": "2022-03-28 19:29:09",
-      "album": {
-        "name": "16 Most Requested Songs",
-        "url": "https://open.spotify.com/album/0PHOqv81FzFx8PSVqEa0NE"
-      },
-      "artists": [
-        {
-          "name": "The Four Lads",
-          "url": "https://open.spotify.com/artist/3stlWzoChlEtbdZAz6CNC3"
-        }
-      ],
-      "duration_ms": 195133,
-      "name": "Moments To Remember",
-      "url": "https://open.spotify.com/track/3M6vVP9wlbGC10xZ654SDb"
+      "duration_ms": 178066,
+      "name": "May You Always",
+      "url": "https://open.spotify.com/track/3VNjiS6wrDpESHRMvmqTYM"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -347,34 +315,18 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "50 Best Hits",
-        "url": "https://open.spotify.com/album/7eugEzpVGg4umQRaFD4ocg"
+        "name": "Hits Singles: Collectors Series",
+        "url": "https://open.spotify.com/album/0gPMn15Lddsz0xpsxjCfcH"
       },
       "artists": [
         {
-          "name": "The Five Satins",
-          "url": "https://open.spotify.com/artist/2YP02JRa1JLejrg3XTssJS"
+          "name": "The Duprees",
+          "url": "https://open.spotify.com/artist/6nYTjfJFNic9m83TROYHUS"
         }
       ],
-      "duration_ms": 164511,
-      "name": "To the Aisle",
-      "url": "https://open.spotify.com/track/08KiBWh7EreFKWKSv8SIrh"
-    },
-    {
-      "added_at": "2022-03-28 19:29:09",
-      "album": {
-        "name": "The Anthology",
-        "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
-      },
-      "artists": [
-        {
-          "name": "The McGuire Sisters",
-          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
-        }
-      ],
-      "duration_ms": 185200,
-      "name": "Teach Me Tonight",
-      "url": "https://open.spotify.com/track/2ARoWEBWZGyGSoHY1Clo1g"
+      "duration_ms": 151768,
+      "name": "Have You Heard",
+      "url": "https://open.spotify.com/track/1fsWE3xBbvORHHPqICzTyR"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -409,6 +361,22 @@
       "url": "https://open.spotify.com/track/5m1bCro6fYB2Vl6aRGCMpJ"
     },
     {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "50 Best Hits",
+        "url": "https://open.spotify.com/album/7eugEzpVGg4umQRaFD4ocg"
+      },
+      "artists": [
+        {
+          "name": "The Five Satins",
+          "url": "https://open.spotify.com/artist/2YP02JRa1JLejrg3XTssJS"
+        }
+      ],
+      "duration_ms": 164511,
+      "name": "To the Aisle",
+      "url": "https://open.spotify.com/track/08KiBWh7EreFKWKSv8SIrh"
+    },
+    {
       "added_at": "2022-03-28 19:29:09",
       "album": {
         "name": "16 Most Requested Songs",
@@ -420,9 +388,25 @@
           "url": "https://open.spotify.com/artist/3stlWzoChlEtbdZAz6CNC3"
         }
       ],
-      "duration_ms": 171733,
-      "name": "Standing On the Corner",
-      "url": "https://open.spotify.com/track/4DDuqcRrjG1XBma3hvaFFq"
+      "duration_ms": 195133,
+      "name": "Moments To Remember",
+      "url": "https://open.spotify.com/track/3M6vVP9wlbGC10xZ654SDb"
+    },
+    {
+      "added_at": "2022-03-28 19:29:09",
+      "album": {
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
+      },
+      "artists": [
+        {
+          "name": "The McGuire Sisters",
+          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
+        }
+      ],
+      "duration_ms": 185200,
+      "name": "Teach Me Tonight",
+      "url": "https://open.spotify.com/track/2ARoWEBWZGyGSoHY1Clo1g"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -439,6 +423,22 @@
       "duration_ms": 164600,
       "name": "Mairzy Doats",
       "url": "https://open.spotify.com/track/3jMP8VYsS7mt9ZeqLlnr3m"
+    },
+    {
+      "added_at": "2022-03-28 19:29:09",
+      "album": {
+        "name": "The Amazing Ames Brothers",
+        "url": "https://open.spotify.com/album/4Mb59LfU7RrMOZTh6qx8IP"
+      },
+      "artists": [
+        {
+          "name": "The Ames Brothers",
+          "url": "https://open.spotify.com/artist/4oXaAEofJFedGweFqy5qiv"
+        }
+      ],
+      "duration_ms": 179146,
+      "name": "Undecided",
+      "url": "https://open.spotify.com/track/1bDzspMSL17XQokxAxAe22"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -461,22 +461,6 @@
       "url": "https://open.spotify.com/track/49Xc60AAQc6NIFAa1DikVo"
     },
     {
-      "added_at": "2022-03-28 19:29:09",
-      "album": {
-        "name": "The Amazing Ames Brothers",
-        "url": "https://open.spotify.com/album/4Mb59LfU7RrMOZTh6qx8IP"
-      },
-      "artists": [
-        {
-          "name": "The Ames Brothers",
-          "url": "https://open.spotify.com/artist/4oXaAEofJFedGweFqy5qiv"
-        }
-      ],
-      "duration_ms": 179146,
-      "name": "Undecided",
-      "url": "https://open.spotify.com/track/1bDzspMSL17XQokxAxAe22"
-    },
-    {
       "added_at": "2020-08-17 22:49:59",
       "album": {
         "name": "The Board Of Directors",
@@ -497,20 +481,20 @@
       "url": "https://open.spotify.com/track/2tdciiLh3jZSzWBXaxo5oH"
     },
     {
-      "added_at": "2020-08-17 22:49:59",
+      "added_at": "2022-03-28 19:29:09",
       "album": {
-        "name": "Blue Velvet / The Ultimate Collection",
-        "url": "https://open.spotify.com/album/3qOZok4QE0NLDJEWNuasPS"
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/0PHOqv81FzFx8PSVqEa0NE"
       },
       "artists": [
         {
-          "name": "The Moonglows",
-          "url": "https://open.spotify.com/artist/1sZwQg2rvSlGhkG218SouM"
+          "name": "The Four Lads",
+          "url": "https://open.spotify.com/artist/3stlWzoChlEtbdZAz6CNC3"
         }
       ],
-      "duration_ms": 169000,
-      "name": "Secret Love",
-      "url": "https://open.spotify.com/track/6IwT48KRXox8R29kUBuYrr"
+      "duration_ms": 171733,
+      "name": "Standing On the Corner",
+      "url": "https://open.spotify.com/track/4DDuqcRrjG1XBma3hvaFFq"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -535,6 +519,22 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
+        "name": "Blue Velvet / The Ultimate Collection",
+        "url": "https://open.spotify.com/album/3qOZok4QE0NLDJEWNuasPS"
+      },
+      "artists": [
+        {
+          "name": "The Moonglows",
+          "url": "https://open.spotify.com/artist/1sZwQg2rvSlGhkG218SouM"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Secret Love",
+      "url": "https://open.spotify.com/track/6IwT48KRXox8R29kUBuYrr"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
         "name": "The Bachelors - The Decca Years",
         "url": "https://open.spotify.com/album/6fPWamZmTK0d03dzR0S2ab"
       },
@@ -547,6 +547,38 @@
       "duration_ms": 139840,
       "name": "Marie",
       "url": "https://open.spotify.com/track/6MGqxb12oR5TC6lIwQsANT"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "The Best Of The Ames",
+        "url": "https://open.spotify.com/album/2Yvca6unTMt1DYTgXToJn0"
+      },
+      "artists": [
+        {
+          "name": "The Ames Brothers",
+          "url": "https://open.spotify.com/artist/4oXaAEofJFedGweFqy5qiv"
+        }
+      ],
+      "duration_ms": 166520,
+      "name": "Rag Mop",
+      "url": "https://open.spotify.com/track/7z03paoXvhCzN22twdfPHR"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "The Merry Macs Sing Mairzy Doats",
+        "url": "https://open.spotify.com/album/2mDsfD127OI1Lem0XolFXr"
+      },
+      "artists": [
+        {
+          "name": "The Merry Macs",
+          "url": "https://open.spotify.com/artist/1GdTErb29TNkiEGWrNGAeH"
+        }
+      ],
+      "duration_ms": 156733,
+      "name": "I'm Forever Blowing Bubbles",
+      "url": "https://open.spotify.com/track/5UhPIWJk8x5YuzoXelnfQi"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -615,38 +647,6 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "The Merry Macs Sing Mairzy Doats",
-        "url": "https://open.spotify.com/album/2mDsfD127OI1Lem0XolFXr"
-      },
-      "artists": [
-        {
-          "name": "The Merry Macs",
-          "url": "https://open.spotify.com/artist/1GdTErb29TNkiEGWrNGAeH"
-        }
-      ],
-      "duration_ms": 156733,
-      "name": "I'm Forever Blowing Bubbles",
-      "url": "https://open.spotify.com/track/5UhPIWJk8x5YuzoXelnfQi"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
-        "name": "The Best Of The Ames",
-        "url": "https://open.spotify.com/album/2Yvca6unTMt1DYTgXToJn0"
-      },
-      "artists": [
-        {
-          "name": "The Ames Brothers",
-          "url": "https://open.spotify.com/artist/4oXaAEofJFedGweFqy5qiv"
-        }
-      ],
-      "duration_ms": 166520,
-      "name": "Rag Mop",
-      "url": "https://open.spotify.com/track/7z03paoXvhCzN22twdfPHR"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
         "name": "The Hi-Lo's \"Summertime\"",
         "url": "https://open.spotify.com/album/3QOukFMGivyjt86gRBdi9G"
       },
@@ -679,22 +679,6 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "Teach Me Tonight",
-        "url": "https://open.spotify.com/album/3WbxZUc3ukR1BEz3SgOgbJ"
-      },
-      "artists": [
-        {
-          "name": "The De Castro Sisters",
-          "url": "https://open.spotify.com/artist/1OCPhFtvkZDLUJJkrJfD2G"
-        }
-      ],
-      "duration_ms": 159666,
-      "name": "Give Me Time",
-      "url": "https://open.spotify.com/track/22McLEDE7FIJDSNUhYqnKz"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
         "name": "Jump & Jive 'Til One O'Clock - Anthology, Vol. 2",
         "url": "https://open.spotify.com/album/3csDnkhImGwBZBgDuYkZr9"
       },
@@ -711,18 +695,18 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "The Very Best Of",
-        "url": "https://open.spotify.com/album/6t0ktrofZCI38hxO9c37Tz"
+        "name": "The Kirby Stone Touch",
+        "url": "https://open.spotify.com/album/2BeXXbbvUL4qzsm8A6W9pA"
       },
       "artists": [
         {
-          "name": "The Dinning Sisters",
-          "url": "https://open.spotify.com/artist/7lGYu24LHAMZYqarrWHz8h"
+          "name": "Kirby Stone Four",
+          "url": "https://open.spotify.com/artist/2lxCXV18FLswPAuCO0OeR9"
         }
       ],
-      "duration_ms": 173133,
-      "name": "Love On A Greyhound Bus",
-      "url": "https://open.spotify.com/track/4wam2im1dxbWFVU5TjxF8C"
+      "duration_ms": 129866,
+      "name": "Lullaby of Birdland",
+      "url": "https://open.spotify.com/track/4ZQebNut4njSuTIJe7l3UH"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -739,22 +723,6 @@
       "duration_ms": 139520,
       "name": "My One Sin",
       "url": "https://open.spotify.com/track/0gWKRxc5ncnS3wxXF1E9jV"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
-        "name": "The Kirby Stone Touch",
-        "url": "https://open.spotify.com/album/2BeXXbbvUL4qzsm8A6W9pA"
-      },
-      "artists": [
-        {
-          "name": "Kirby Stone Four",
-          "url": "https://open.spotify.com/artist/2lxCXV18FLswPAuCO0OeR9"
-        }
-      ],
-      "duration_ms": 129866,
-      "name": "Lullaby of Birdland",
-      "url": "https://open.spotify.com/track/4ZQebNut4njSuTIJe7l3UH"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -787,6 +755,38 @@
       "duration_ms": 159973,
       "name": "Swing High Swing Low",
       "url": "https://open.spotify.com/track/6a0f0Kz6PXKinTaiF1N6sO"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "Teach Me Tonight",
+        "url": "https://open.spotify.com/album/3WbxZUc3ukR1BEz3SgOgbJ"
+      },
+      "artists": [
+        {
+          "name": "The De Castro Sisters",
+          "url": "https://open.spotify.com/artist/1OCPhFtvkZDLUJJkrJfD2G"
+        }
+      ],
+      "duration_ms": 159666,
+      "name": "Give Me Time",
+      "url": "https://open.spotify.com/track/22McLEDE7FIJDSNUhYqnKz"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "The Very Best Of",
+        "url": "https://open.spotify.com/album/6t0ktrofZCI38hxO9c37Tz"
+      },
+      "artists": [
+        {
+          "name": "The Dinning Sisters",
+          "url": "https://open.spotify.com/artist/7lGYu24LHAMZYqarrWHz8h"
+        }
+      ],
+      "duration_ms": 173133,
+      "name": "Love On A Greyhound Bus",
+      "url": "https://open.spotify.com/track/4wam2im1dxbWFVU5TjxF8C"
     },
     {
       "added_at": "2020-08-17 22:49:59",

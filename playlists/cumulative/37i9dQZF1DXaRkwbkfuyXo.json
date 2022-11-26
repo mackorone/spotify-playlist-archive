@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "Los corridos m\u00e1s alterados y arremangados. R\u00e9gulo Caro en portada.",
+  "description": "Seguimos arremangados, pariente. R\u00e9gulo Caro en portada.",
   "name": "Corridos Alterados",
   "published_playlist_ids": [
     "6WRQ2rQiGlhp2WfZktq7QQ"
@@ -77,6 +77,28 @@
       "duration_ms": 129973,
       "name": "Ajustes Inzunza",
       "url": "https://open.spotify.com/track/4bbgGODjQQbmTuROuclcUH"
+    },
+    {
+      "album": {
+        "name": "Mi Estilo De Vida",
+        "url": "https://open.spotify.com/album/4XTRnTF9TtsioXH69brAYW"
+      },
+      "artists": [
+        {
+          "name": "Saul El Jaguar Alarc\u00f3n",
+          "url": "https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro"
+        },
+        {
+          "name": "Banda Clave Nueva",
+          "url": "https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147693,
+      "name": "Al Estilo Mafia",
+      "url": "https://open.spotify.com/track/4YeZzfKYGy8f25pxC7IzlP"
     },
     {
       "album": {
@@ -225,7 +247,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 186812,
       "name": "Cien vidas Antrax",
       "url": "https://open.spotify.com/track/6KHrhw2BMo3L9rNhEPDyq6"
@@ -312,6 +334,46 @@
     },
     {
       "album": {
+        "name": "Corridos De Alto Calibre",
+        "url": "https://open.spotify.com/album/56lZXvNZ84mRq5gn85Fuki"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 164320,
+      "name": "Corrido Del Invalido",
+      "url": "https://open.spotify.com/track/4CQGilIvA3AKUlDM2GsDjw"
+    },
+    {
+      "album": {
+        "name": "El Movimiento Alterado - Grandes Exitos",
+        "url": "https://open.spotify.com/album/58B6nJm896OlSmn86qrzyv"
+      },
+      "artists": [
+        {
+          "name": "Los Buitres De Culiacan Sinaloa",
+          "url": "https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB"
+        },
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 142933,
+      "name": "Corrido del Tamarindo (Feat. El Komander)",
+      "url": "https://open.spotify.com/track/6t7RQGzGSMGtRxbCH2EpTv"
+    },
+    {
+      "album": {
         "name": "Belico",
         "url": "https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY"
       },
@@ -377,7 +439,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 158533,
       "name": "Del Zapotal Al Recodo",
       "url": "https://open.spotify.com/track/13Tl0I0SGDE7wJ2XVqfCNk"
@@ -399,6 +461,24 @@
       "duration_ms": 147278,
       "name": "Demonios Empecherados",
       "url": "https://open.spotify.com/track/0rJqRo2gZrY1ThBVrxINE5"
+    },
+    {
+      "album": {
+        "name": "Movimiento Alterado Vol. 4",
+        "url": "https://open.spotify.com/album/1ZzrY7hbIiDQlV5i5uqJJt"
+      },
+      "artists": [
+        {
+          "name": "Los Buitres",
+          "url": "https://open.spotify.com/artist/6652LtwYxWQCzFBvvBkTF9"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 147278,
+      "name": "Demonios Empecherados",
+      "url": "https://open.spotify.com/track/7JGr3zbN5voH7dDtO5CzPe"
     },
     {
       "album": {
@@ -431,7 +511,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 151960,
       "name": "Desmadre en el Bano",
       "url": "https://open.spotify.com/track/639HHMIvPddNffAgYylJcL"
@@ -634,6 +714,24 @@
     },
     {
       "album": {
+        "name": "Corridos Con Banda",
+        "url": "https://open.spotify.com/album/6t0RoJRFAW9eiZsrkVRUGQ"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152120,
+      "name": "El Corrido CP-3 AKA El Corrido Del Talib\u00e1n",
+      "url": "https://open.spotify.com/track/1WTnFa5oFYInFV4aX3sHpv"
+    },
+    {
+      "album": {
         "name": "Me Dan Celos",
         "url": "https://open.spotify.com/album/3xE8t0KYA1jmAjjMNxid2Y"
       },
@@ -742,6 +840,46 @@
     },
     {
       "album": {
+        "name": "El Escudo Del Chavo (feat. Grupo 360) - Single",
+        "url": "https://open.spotify.com/album/5XPWJD0KD92cOIbu1pnO2b"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        },
+        {
+          "name": "Grupo 360",
+          "url": "https://open.spotify.com/artist/2h9VgLswbVrXfdjW8UVqHC"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160853,
+      "name": "El Escudo Del Chavo (feat. Grupo 360)",
+      "url": "https://open.spotify.com/track/67EbM56Rb147GoRQYPO0qB"
+    },
+    {
+      "album": {
+        "name": "El Movimiento Alterado - Grandes Exitos",
+        "url": "https://open.spotify.com/album/58B6nJm896OlSmn86qrzyv"
+      },
+      "artists": [
+        {
+          "name": "Oscar Garcia",
+          "url": "https://open.spotify.com/artist/1uy0dqC43A0d7K6yXTH7eP"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144973,
+      "name": "El Fp",
+      "url": "https://open.spotify.com/track/6cVd6YSo03kPrxThzlPtj6"
+    },
+    {
+      "album": {
         "name": "Movimiento Alterado, Vol. 1",
         "url": "https://open.spotify.com/album/3nYkEmbJZfanyB16oEX2lx"
       },
@@ -757,6 +895,24 @@
       "duration_ms": 164306,
       "name": "El Invalido",
       "url": "https://open.spotify.com/track/6slyAwU92H8O6OdknGDj6D"
+    },
+    {
+      "album": {
+        "name": "Jerarquia de Corridos con Power Sinaloense! (Edited Version)",
+        "url": "https://open.spotify.com/album/760dpWpOhMO2dcbqR6cNoA"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181146,
+      "name": "El Mensaje",
+      "url": "https://open.spotify.com/track/5KCqnvbmpJt4E8LiojzPCM"
     },
     {
       "album": {
@@ -793,6 +949,24 @@
       "duration_ms": 188653,
       "name": "El Mini 6",
       "url": "https://open.spotify.com/track/09Js78HEZtObjYURe3tO58"
+    },
+    {
+      "album": {
+        "name": "Los Reyes del Movimiento Alterado [Explicit]",
+        "url": "https://open.spotify.com/album/5SJqYFPqPGWZIZpNC9nbct"
+      },
+      "artists": [
+        {
+          "name": "Buknas De Culiacan",
+          "url": "https://open.spotify.com/artist/45hYVfD7CFus8HDkcFnUvH"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 190653,
+      "name": "El Mini 6 [Explicit]",
+      "url": "https://open.spotify.com/track/5pL17O8VxcpmsKrEuCySER"
     },
     {
       "album": {
@@ -861,7 +1035,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 162280,
       "name": "El Popeye",
       "url": "https://open.spotify.com/track/6wamcZCfpr0tALIr1e5jXu"
@@ -883,6 +1057,24 @@
       "duration_ms": 186413,
       "name": "El Prostipirugolfo",
       "url": "https://open.spotify.com/track/48rJQa3TdMfnPJxh1oPxsZ"
+    },
+    {
+      "album": {
+        "name": "Movimiento Alterado Vol. 1",
+        "url": "https://open.spotify.com/album/5yJdyrzgdboYN3nF2YSOnM"
+      },
+      "artists": [
+        {
+          "name": "Los Nuevos Elegantes",
+          "url": "https://open.spotify.com/artist/3RtWK9v7X0AvL18T3LeC7i"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167933,
+      "name": "El Sinaloense Americano",
+      "url": "https://open.spotify.com/track/3pjsT7agqnrM8Y3b3zx9g9"
     },
     {
       "album": {
@@ -1048,6 +1240,46 @@
     },
     {
       "album": {
+        "name": "Movimiento Alterado Vol. 1",
+        "url": "https://open.spotify.com/album/5yJdyrzgdboYN3nF2YSOnM"
+      },
+      "artists": [
+        {
+          "name": "Los 2 Primos",
+          "url": "https://open.spotify.com/artist/2fcdtCvdYIYSNM8ywXHOua"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172706,
+      "name": "Escuela De Rancho",
+      "url": "https://open.spotify.com/track/0JmnQ5TRO3wEfnyNhaVx0D"
+    },
+    {
+      "album": {
+        "name": "Las Que Les Gustan A Los Viejones",
+        "url": "https://open.spotify.com/album/5ON2UoS7EGthERLkiiVp7Z"
+      },
+      "artists": [
+        {
+          "name": "Revolver Cannabis",
+          "url": "https://open.spotify.com/artist/7a3g8JUF8iipgP1BCEsm4I"
+        },
+        {
+          "name": "Grupo Escolta",
+          "url": "https://open.spotify.com/artist/4ZBmQM7663rZsb4Ir96awl"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206226,
+      "name": "Esta de Parranda el Jefe",
+      "url": "https://open.spotify.com/track/3rJZRKrtwgtQqI9bft94Zj"
+    },
+    {
+      "album": {
         "name": "Musica, Polvora y Sangre",
         "url": "https://open.spotify.com/album/1EoN3U7I9CrVgLDUbEHEJV"
       },
@@ -1156,6 +1388,42 @@
     },
     {
       "album": {
+        "name": "20 Kilates",
+        "url": "https://open.spotify.com/album/47S1emlbNiRY4ARoUWTE5C"
+      },
+      "artists": [
+        {
+          "name": "Larry Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 174866,
+      "name": "Gente VIP",
+      "url": "https://open.spotify.com/track/7wfZOo4FX9wpXt4DXA7JbV"
+    },
+    {
+      "album": {
+        "name": "Con El Pie Derecho",
+        "url": "https://open.spotify.com/album/7tfTfzVmVrplYDru65lUbP"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212133,
+      "name": "Herencia Mexicana",
+      "url": "https://open.spotify.com/track/3f8abMz2JItGW28m5k9CGk"
+    },
+    {
+      "album": {
         "name": "Corridos",
         "url": "https://open.spotify.com/album/0dAb8o8AA2xIaFrXJ0skzy"
       },
@@ -1167,7 +1435,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 180040,
       "name": "Hombre De Negocios",
       "url": "https://open.spotify.com/track/02NULVNun0GWLpE1saMP2F"
@@ -1189,6 +1457,32 @@
       "duration_ms": 145360,
       "name": "J. Walker",
       "url": "https://open.spotify.com/track/59sVHAfxiIX1uAKXjFksAI"
+    },
+    {
+      "album": {
+        "name": "La Fuga del Dorian",
+        "url": "https://open.spotify.com/album/5JTve2kpwniH9fmvXiwO0z"
+      },
+      "artists": [
+        {
+          "name": "Grupo Fernandez",
+          "url": "https://open.spotify.com/artist/3iwHYNyKCKBDsa4QFCj8Ik"
+        },
+        {
+          "name": "Ariel Camacho",
+          "url": "https://open.spotify.com/artist/5s31VTVh96lZBPphv51mIH"
+        },
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277421,
+      "name": "La Fuga del Dorian (feat. Ariel Camacho & Regulo Caro)",
+      "url": "https://open.spotify.com/track/0aKMglFhqmZzJXiNdT0BGK"
     },
     {
       "album": {
@@ -1265,7 +1559,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 159840,
       "name": "La Sorpresa Del Katch",
       "url": "https://open.spotify.com/track/7bHwSRvgGlwQXR8gangQ4H"
@@ -1301,7 +1595,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 126082,
       "name": "La Vida Mafiosa",
       "url": "https://open.spotify.com/track/4YYFiNN2NAwv2Tp6MMVNyf"
@@ -1323,6 +1617,24 @@
       "duration_ms": 217546,
       "name": "Leyenda Caro Quintero",
       "url": "https://open.spotify.com/track/6wUIrNOTjodEu5JqxSZy7F"
+    },
+    {
+      "album": {
+        "name": "El Movimiento Alterado Vol. 7",
+        "url": "https://open.spotify.com/album/7bGQrDRhvbs2InGsFbC4eO"
+      },
+      "artists": [
+        {
+          "name": "Los 2 Primos",
+          "url": "https://open.spotify.com/artist/2fcdtCvdYIYSNM8ywXHOua"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222400,
+      "name": "Leyenda Viviente",
+      "url": "https://open.spotify.com/track/3tgGSqtSgI0kZcZATjmED0"
     },
     {
       "album": {
@@ -1391,7 +1703,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 187803,
       "name": "Los Minions",
       "url": "https://open.spotify.com/track/46djErCjkUOYtC9uvZyV6A"
@@ -1435,7 +1747,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 150733,
       "name": "Los Tres Mandos",
       "url": "https://open.spotify.com/track/0wS4OuuXKAXN8aUCG6f3tE"
@@ -1489,7 +1801,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 167160,
       "name": "Nacimos Pa' Ser Patrones",
       "url": "https://open.spotify.com/track/6RqOESctoRJDqkXbYBYlqg"
@@ -1543,7 +1855,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 163133,
       "name": "Pa'l Terre",
       "url": "https://open.spotify.com/track/1nRMRdloHa9MU0jRjaGE6r"
@@ -1694,6 +2006,24 @@
     },
     {
       "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/3OQyUgoSKy4anHKQqkswVy"
+      },
+      "artists": [
+        {
+          "name": "Adan Romero",
+          "url": "https://open.spotify.com/artist/1gkGKzeXQYnVPI76yDlOqz"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174506,
+      "name": "Termina La Temporada",
+      "url": "https://open.spotify.com/track/79F6Rw4EP623GyG2FIndnD"
+    },
+    {
+      "album": {
         "name": "Los Corridos De Mis Amigos",
         "url": "https://open.spotify.com/album/6frN8k9lkbXBpZLWA1g83K"
       },
@@ -1705,7 +2035,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 192402,
       "name": "Un Corrido Pa' Joaquin",
       "url": "https://open.spotify.com/track/6ZMbFg2l9Nu6xfDwfiXUtb"

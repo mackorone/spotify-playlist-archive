@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/25wn6E4IiaAaTH6HBnGJ8y.md) - [plain]
 
 > bangers
 
-[Carson Howard](https://open.spotify.com/user/21yj6grazxctqzqdtvfi7nkzy) - 6,239 likes - 245 songs - 15 hr 15 min
+[Carson Howard](https://open.spotify.com/user/21yj6grazxctqzqdtvfi7nkzy) - 6,221 likes - 245 songs - 15 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,9 +93,9 @@ pretty - [cumulative](/playlists/cumulative/25wn6E4IiaAaTH6HBnGJ8y.md) - [plain]
 | 83 | [Until the Sun Needs to Rise](https://open.spotify.com/track/062wtUiIbPTivGLQxrA8X9) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/0gIAWTyvnOntQSd3yxyiW5) | 4:52 |
 | 84 | [Save Your Tears](https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:35 |
 | 85 | [In Your Eyes](https://open.spotify.com/track/7szuecWAPwGoV1e5vGu8tl) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:57 |
-| 86 | [Dissolve](https://open.spotify.com/track/7pBrj5rt4SSxXwFKOyZfHR) | [Absofacto](https://open.spotify.com/artist/7gAYvcQFmAruyvwGjxrSUr) | [Thousand Peaces](https://open.spotify.com/album/79mdn7airf7jJw1dhV1PCI) | 3:44 |
+| 86 | [Dissolve](https://open.spotify.com/track/7pBrj5rt4SSxXwFKOyZfHR) | [Absofacto](https://open.spotify.com/artist/7gAYvcQFmAruyvwGjxrSUr), [NITESHIFT](https://open.spotify.com/artist/31aY8MVhn7ZKrobYTLssax) | [Thousand Peaces](https://open.spotify.com/album/79mdn7airf7jJw1dhV1PCI) | 3:44 |
 | 87 | [One Last Night On Earth \- Speaker Of The House Remix](https://open.spotify.com/track/5auepChUKwbHO1NWBwqGBN) | [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9) | [One Last Night On Earth \(Remixes\)](https://open.spotify.com/album/6EAROQtS16YckG2Iw0g4I9) | 3:39 |
-| 88 | [The Veldt \- Radio Edit](https://open.spotify.com/track/5H0CfA9GaNg0wROR9K3X3K) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Chris James](https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp) | [The Veldt \(feat\. Chris James\)](https://open.spotify.com/album/0WanInStsKUQQ22o8TzJEK) | 2:50 |
+| 88 | [The Veldt \- Radio Edit](https://open.spotify.com/track/5H0CfA9GaNg0wROR9K3X3K) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Chris James](https://open.spotify.com/artist/74b7GmA2oW8OcG5lZorMFj) | [The Veldt \(feat\. Chris James\)](https://open.spotify.com/album/0WanInStsKUQQ22o8TzJEK) | 2:50 |
 | 89 | [I've Been Waiting \(w/ ILoveMakonnen & Fall Out Boy\)](https://open.spotify.com/track/2v5JTeM6hSmi5wWy7jiwrI) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [ILOVEMAKONNEN](https://open.spotify.com/artist/3aGFCoR8xGN6DKwvdzeSja), [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [I've Been Waiting \(w/ ILoveMakonnen & Fall Out Boy\)](https://open.spotify.com/album/4BQUTZlR3OMrBorJo1ahoY) | 3:53 |
 | 90 | [Catch Me Outside](https://open.spotify.com/track/4rgwri7LajWVZvdj2N81SS) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [You Will Regret \(Reloaded\)](https://open.spotify.com/album/2pTyjuQ1d1d79Chhknoa2h) | 2:25 |
 | 91 | [Money In The Bank \(feat\. AJ Tracey\)](https://open.spotify.com/track/3EvIW2rx7uL8KsdK82d2eX) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Midnight Sparks](https://open.spotify.com/album/0m9j6YvN0PR00WIj4EgP65) | 2:41 |

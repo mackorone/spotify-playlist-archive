@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "VSQ Performs the Hits of 2014, Vol. 2",
+        "url": "https://open.spotify.com/album/3kXPzEHhPKArQtzlQmPR9N"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 246200,
+      "name": "A Sky Full of Stars",
+      "url": "https://open.spotify.com/track/25pt0oRs4Y8ZRXK6sdi8Pn"
+    },
+    {
+      "album": {
         "name": "The Piano Guys",
         "url": "https://open.spotify.com/album/6P2EwTc87RwLx2ANZVr1JY"
       },
@@ -142,6 +160,24 @@
     },
     {
       "album": {
+        "name": "Anti-Hero",
+        "url": "https://open.spotify.com/album/3KwmgUnyK4ogjXVM5tF5GG"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 199896,
+      "name": "Anti-Hero",
+      "url": "https://open.spotify.com/track/63kM4CbosJ70v25kZv19xc"
+    },
+    {
+      "album": {
         "name": "Bad Habits (Piano Version)",
         "url": "https://open.spotify.com/album/7qmcWjavQC8OlHP6D8IGvP"
       },
@@ -272,6 +308,24 @@
     },
     {
       "album": {
+        "name": "Classical Guitar",
+        "url": "https://open.spotify.com/album/7xr6iPbVQlSyNomtK7c0QF"
+      },
+      "artists": [
+        {
+          "name": "Milo\u0161 Karadagli\u0107",
+          "url": "https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 152115,
+      "name": "Blackbird",
+      "url": "https://open.spotify.com/track/7olIEWixVn0RSZS4SAy70t"
+    },
+    {
+      "album": {
         "name": "Brooklyn Sessions",
         "url": "https://open.spotify.com/album/7hBwTnRSuuOisqubNG4lwv"
       },
@@ -301,10 +355,100 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 173666,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/1e9wX7xPvovxtSyMzRCTIM"
+    },
+    {
+      "album": {
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/1gLQuDNomgHQQlW2oFJAfj"
+      },
+      "artists": [
+        {
+          "name": "BAWK",
+          "url": "https://open.spotify.com/artist/6cwnpm0nvjKlK4YayMGBl9"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173666,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/4qAeCVBiLVpG56P4KOL5sE"
+    },
+    {
+      "album": {
+        "name": "VSQ Performs the Hits of 2020, Vol. 2 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4r4RPtmQBIHxmMrK7pwbyw"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 232440,
+      "name": "cardigan - Bonus Track",
+      "url": "https://open.spotify.com/track/2zxv5woj8aMPkAhGsHDxI5"
+    },
+    {
+      "album": {
+        "name": "Vitamin String Quartet Performs Coldplay's Viva La Vida",
+        "url": "https://open.spotify.com/album/6QIK648ES8MNvYpqZF8Zy3"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 188013,
+      "name": "Cemeteries of London",
+      "url": "https://open.spotify.com/track/3VYqUFO5rtWrcQe9XxW4OJ"
+    },
+    {
+      "album": {
+        "name": "Beaucoup de VSQ",
+        "url": "https://open.spotify.com/album/5XoLTlMq0WJ1eykXG6kQTn"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 234413,
+      "name": "Cherry Blossom Girl",
+      "url": "https://open.spotify.com/track/5kJ5KtrdAkYeRi2ObZ4ecZ"
+    },
+    {
+      "album": {
+        "name": "VSQ Performs the Hits of 2019, Vol. 2",
+        "url": "https://open.spotify.com/album/2ZCnNqYX39bthmtd2I9IKB"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 212560,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/1ftNzNvPPIxdo3QDfq8h2A"
     },
     {
       "album": {
@@ -380,6 +524,42 @@
     },
     {
       "album": {
+        "name": "VSQ Performs the Rock Hits of 2016",
+        "url": "https://open.spotify.com/album/5lNn9yKy0QHZpJOM9eYiLN"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 366948,
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/7eyofqtirJUi7bae1HaX7E"
+    },
+    {
+      "album": {
+        "name": "VSQ Performs the Hits of 2020",
+        "url": "https://open.spotify.com/album/0F5JNuFJ9AcZnKdNRjWFeN"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 163866,
+      "name": "death bed (coffee for your head)",
+      "url": "https://open.spotify.com/track/3ecktnbNRZujmDisEq9C7O"
+    },
+    {
+      "album": {
         "name": "Defying Gravity",
         "url": "https://open.spotify.com/album/0r4vtNHBSL4ksyonK1Itbb"
       },
@@ -395,6 +575,42 @@
       "duration_ms": 172025,
       "name": "Defying Gravity",
       "url": "https://open.spotify.com/track/28cY40buH89cMkAMxdMznk"
+    },
+    {
+      "album": {
+        "name": "VSQ Performs the Hits of 2014, Vol. 1",
+        "url": "https://open.spotify.com/album/2nXsjLHluXH1EDCGaI4Uf9"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 261600,
+      "name": "Do I Wanna Know?",
+      "url": "https://open.spotify.com/track/2LeC0NaJmwC49JvuQsHtLO"
+    },
+    {
+      "album": {
+        "name": "Vitamin String Quartet Performs the Flaming Lips' Do You Realize?? and All We Have is Now",
+        "url": "https://open.spotify.com/album/7gexROsunplskcUZRIMuoy"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 210480,
+      "name": "Do You Realize??",
+      "url": "https://open.spotify.com/track/5LMQkt9cgMPc5FDZzWpch2"
     },
     {
       "album": {
@@ -416,6 +632,24 @@
     },
     {
       "album": {
+        "name": "VSQ Performs the Hits of 2021, Vol. 1",
+        "url": "https://open.spotify.com/album/6La6D0hm5BAJt7Ce6OOoFr"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 213680,
+      "name": "driver's license",
+      "url": "https://open.spotify.com/track/3IG7pa9dwz2yuGhgXk6tXS"
+    },
+    {
+      "album": {
         "name": "drivers license (arr. string quartet) [Inspired by \u2018Bridgerton\u2019]",
         "url": "https://open.spotify.com/album/6DYyz4hIsisHrB8VhKrWyF"
       },
@@ -431,6 +665,24 @@
       "duration_ms": 242003,
       "name": "drivers license (arr. string quartet) - Inspired by \u2018Bridgerton\u2019",
       "url": "https://open.spotify.com/track/4vy1RotKCE0qpxw3GZyLXS"
+    },
+    {
+      "album": {
+        "name": "VSQ Performs the Weeknd",
+        "url": "https://open.spotify.com/album/42uXnfr69zoPYoudG0wBNc"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 215252,
+      "name": "Earned It",
+      "url": "https://open.spotify.com/track/2PoEsGyvkuyQQA03W5rdAL"
     },
     {
       "album": {
@@ -452,6 +704,24 @@
     },
     {
       "album": {
+        "name": "Vitamin String Quartet Performs the Hits of 2019",
+        "url": "https://open.spotify.com/album/56EI9Mhw87g3NADBYQNQac"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 172906,
+      "name": "Eastside",
+      "url": "https://open.spotify.com/track/37MspE4lVtZzAvvYknWKdp"
+    },
+    {
+      "album": {
         "name": "Easy On Me",
         "url": "https://open.spotify.com/album/6DgzorRqPflcNX5Gip8ta3"
       },
@@ -467,6 +737,42 @@
       "duration_ms": 196000,
       "name": "Easy On Me",
       "url": "https://open.spotify.com/track/2W6AJAQi1lQU8wrZCnaZTy"
+    },
+    {
+      "album": {
+        "name": "VSQ Performs the Hits of 2021, Vol. 2",
+        "url": "https://open.spotify.com/album/0hCaA5SF1Xolv0hBJVUuPa"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 220520,
+      "name": "Easy On Me",
+      "url": "https://open.spotify.com/track/53sI71bFwGU3p2RBeRxWcC"
+    },
+    {
+      "album": {
+        "name": "Vitamin String Quartet Performs Alternative Hits of the 80s and 90s Vol. 2",
+        "url": "https://open.spotify.com/album/2yOUlxABRL88pBm9W5RuHL"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 315280,
+      "name": "Fade into You",
+      "url": "https://open.spotify.com/track/6x3QipqRZrUC2q5bETyyGf"
     },
     {
       "album": {
@@ -524,6 +830,42 @@
     },
     {
       "album": {
+        "name": "Vitamin String Quartet Performs Owl City's Fireflies",
+        "url": "https://open.spotify.com/album/3igoQSJBfxk4FHtJatKToG"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 177346,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/18b2wZBDyaiQzRitdYOuXg"
+    },
+    {
+      "album": {
+        "name": "Piano EP1",
+        "url": "https://open.spotify.com/album/2qt5TL7O3Bo4AiGrnYGKxr"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 329906,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/5tX811j5HONCKNTE3pux6d"
+    },
+    {
+      "album": {
         "name": "Piano EP1",
         "url": "https://open.spotify.com/album/10Gvmhuqt3zXhtAAnM41Nu"
       },
@@ -560,6 +902,24 @@
     },
     {
       "album": {
+        "name": "Vitamin String Quartet Performs Daft Punk's Random Access Memories",
+        "url": "https://open.spotify.com/album/4kRcTnhismcDg7nicWGAKB"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 166933,
+      "name": "Fragments of Time",
+      "url": "https://open.spotify.com/track/53adoODXmH7iY9g7YquSNT"
+    },
+    {
+      "album": {
         "name": "Popsongs",
         "url": "https://open.spotify.com/album/0Od9iGE0VH3ISl3dJwYJ7z"
       },
@@ -593,6 +953,24 @@
       "duration_ms": 133986,
       "name": "Gatekeeper",
       "url": "https://open.spotify.com/track/3NpymsA5tpDNj26CLM7FuN"
+    },
+    {
+      "album": {
+        "name": "VSQ Performs the Hits of 2018",
+        "url": "https://open.spotify.com/album/3mg5bKwAv9VmWE1mrxLj31"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 143106,
+      "name": "God's Plan",
+      "url": "https://open.spotify.com/track/0u3JkMF1s1fbKt3FyIEBdq"
     },
     {
       "album": {
@@ -665,6 +1043,60 @@
       "duration_ms": 231526,
       "name": "Happier Than Ever",
       "url": "https://open.spotify.com/track/6YdoHXpaoC41PACP5q6VSu"
+    },
+    {
+      "album": {
+        "name": "VSQ Performs the Hits of 2015, Vol. 3",
+        "url": "https://open.spotify.com/album/2nrvMKV3Ulz6e1Okjs2HhD"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 202613,
+      "name": "Here",
+      "url": "https://open.spotify.com/track/2sJqQqodYHAv9gHhSbFVo2"
+    },
+    {
+      "album": {
+        "name": "VSQ Performs The Decemberists",
+        "url": "https://open.spotify.com/album/6H2zbBBOWSTxiat8AhpO1R"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 285040,
+      "name": "Here I Dreamt I Was an Architect",
+      "url": "https://open.spotify.com/track/3raq8Hy4VIHlj9k5Chsfmp"
+    },
+    {
+      "album": {
+        "name": "Vitamin String Quartet Performs Sigur R\u00f3s",
+        "url": "https://open.spotify.com/album/38e7K18t8g1sSeYbBdG08o"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 251560,
+      "name": "Hopp\u00edpolla",
+      "url": "https://open.spotify.com/track/2CuDFSFwIy2pwpXNHPLwZ3"
     },
     {
       "album": {
@@ -798,6 +1230,42 @@
     },
     {
       "album": {
+        "name": "VSQ Performs Arcade Fire's Funeral",
+        "url": "https://open.spotify.com/album/1h9qdv1DW59qUFj4kNx3qY"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 331120,
+      "name": "In the Backseat",
+      "url": "https://open.spotify.com/track/3zGQHvq4qqRa77Mst3RF8f"
+    },
+    {
+      "album": {
+        "name": "VSQ Performs the Hits of 2020",
+        "url": "https://open.spotify.com/album/0F5JNuFJ9AcZnKdNRjWFeN"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 211093,
+      "name": "Intentions",
+      "url": "https://open.spotify.com/track/4foUpkmdBE9IGKMgWvx3rD"
+    },
+    {
+      "album": {
         "name": "Iris (arr. piano)",
         "url": "https://open.spotify.com/album/4bzdOlm7AWqvF4DFfJq6x9"
       },
@@ -816,6 +1284,60 @@
     },
     {
       "album": {
+        "name": "VSQ Performs the Cure",
+        "url": "https://open.spotify.com/album/61kwUPXYy2ZUEIPBttwxvl"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 182600,
+      "name": "Just Like Heaven",
+      "url": "https://open.spotify.com/track/1FoV6wB83NNrTQyDWXf2lB"
+    },
+    {
+      "album": {
+        "name": "Geek Wedding Forever, Vol. 3",
+        "url": "https://open.spotify.com/album/7HeIpr2afiUilGq9acQx5u"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 287560,
+      "name": "Kiss From a Rose",
+      "url": "https://open.spotify.com/track/3cEDAxI3xPhb829MlH1VJi"
+    },
+    {
+      "album": {
+        "name": "VSQ Performs the Hits of 2016, Vol. 2",
+        "url": "https://open.spotify.com/album/10WHTghh38mVQRKNlk4rx8"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 260853,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/1pQtiUNaBpjcspLcqetigX"
+    },
+    {
+      "album": {
         "name": "The Bowie Variations",
         "url": "https://open.spotify.com/album/2UsgTX8YO2eagUwhdDnHlR"
       },
@@ -831,6 +1353,78 @@
       "duration_ms": 328306,
       "name": "Life on Mars?",
       "url": "https://open.spotify.com/track/63Pm0kIqaIVINrO96TNUzv"
+    },
+    {
+      "album": {
+        "name": "VSQ Performs the Music from the Films of Wes Anderson",
+        "url": "https://open.spotify.com/album/3RkE0u5OCmNEdPiiHuanbd"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 219026,
+      "name": "Life on Mars?",
+      "url": "https://open.spotify.com/track/6HoVFd8SJYyxD5cRUVD56M"
+    },
+    {
+      "album": {
+        "name": "VSQ Performs the Hits of 2015, Vol. 3",
+        "url": "https://open.spotify.com/album/2nrvMKV3Ulz6e1Okjs2HhD"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 224000,
+      "name": "Like I'm Gonna Lose You",
+      "url": "https://open.spotify.com/track/2WU5ezRzy3mJO4d9MdqW5X"
+    },
+    {
+      "album": {
+        "name": "VSQ Performs the Hits of 2015, Vol. 1",
+        "url": "https://open.spotify.com/album/60cEfy1gNvNLktg5UAlf36"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 197128,
+      "name": "Love Me Like You Do",
+      "url": "https://open.spotify.com/track/1D7gsXVvw3TShPsODTbYmZ"
+    },
+    {
+      "album": {
+        "name": "VSQ Performs the Hits of 2016, Vol. 1",
+        "url": "https://open.spotify.com/album/22bGVJ3OITsYg6IfBNjfKw"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 234026,
+      "name": "Love Yourself",
+      "url": "https://open.spotify.com/track/28NnTNYumoVjjrGq9UIF9m"
     },
     {
       "album": {
@@ -867,6 +1461,114 @@
       "duration_ms": 191700,
       "name": "Make You Feel My Love",
       "url": "https://open.spotify.com/track/5PwH7G4wPhk11QKx85j5uL"
+    },
+    {
+      "album": {
+        "name": "Songbirds: VSQ Celebrates the Women of Modern Rock",
+        "url": "https://open.spotify.com/album/7msqnm8LfMD88A3dnKrYcu"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 206920,
+      "name": "Maps",
+      "url": "https://open.spotify.com/track/1WWgAxgMDRNrSi26x4weoR"
+    },
+    {
+      "album": {
+        "name": "VSQ Performs Modern Rock Hits 2011 Vol. 2",
+        "url": "https://open.spotify.com/album/2GF8X4yqyIqazuGB40zoO5"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 238266,
+      "name": "Midnight City",
+      "url": "https://open.spotify.com/track/2lYLFwtSnahWTXZqqNiIFy"
+    },
+    {
+      "album": {
+        "name": "VSQ Performs the Hits of 2017",
+        "url": "https://open.spotify.com/album/2BMSgGCgF7q9OdtobRwhP1"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 206626,
+      "name": "Million Reasons",
+      "url": "https://open.spotify.com/track/6iqc5uXMFI87x4aoyk3RsV"
+    },
+    {
+      "album": {
+        "name": "VSQ Performs the Hits of 2018",
+        "url": "https://open.spotify.com/album/3mg5bKwAv9VmWE1mrxLj31"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 132973,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/48JM5ZeFDq8fT90UWQoqlm"
+    },
+    {
+      "album": {
+        "name": "VSQ Performs Deftones",
+        "url": "https://open.spotify.com/album/4Us0cxN1m9rBykK1es9tw9"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 213373,
+      "name": "Minerva",
+      "url": "https://open.spotify.com/track/0WBYXkgh8c40tU8kpHuCg5"
+    },
+    {
+      "album": {
+        "name": "Westworld: Season 1 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/43pttVYo7IjBvive3uebVF"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 162151,
+      "name": "Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/7CrSqDlyBY0kl9nJEKpmbq"
     },
     {
       "album": {
@@ -924,6 +1626,24 @@
     },
     {
       "album": {
+        "name": "VSQ Performs the Beatles' Norwegian Wood",
+        "url": "https://open.spotify.com/album/3kVjXxjeoWSanIECpV7b2W"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 127694,
+      "name": "Norwegian Wood",
+      "url": "https://open.spotify.com/track/2bh6efWH0r9tFHa42PG5hv"
+    },
+    {
+      "album": {
         "name": "Nothing Compares To You",
         "url": "https://open.spotify.com/album/6pfu6QZu1gPxpzUXr73HzN"
       },
@@ -942,6 +1662,42 @@
     },
     {
       "album": {
+        "name": "VSQ Performs Alternative Hits of the 90s",
+        "url": "https://open.spotify.com/album/3M5lwpG7B3HuKhyYcBLfkn"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 135933,
+      "name": "Novocaine for the Soul",
+      "url": "https://open.spotify.com/track/3DtqQPayLqTqcnDuMqRcCQ"
+    },
+    {
+      "album": {
+        "name": "VSQ Performs the Hits of 2016, Vol. 2",
+        "url": "https://open.spotify.com/album/10WHTghh38mVQRKNlk4rx8"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 131986,
+      "name": "One Dance",
+      "url": "https://open.spotify.com/track/684mcUkgIA1OQwy5VpvHD1"
+    },
+    {
+      "album": {
         "name": "Papa, Can You Hear Me?",
         "url": "https://open.spotify.com/album/0s8h7hCUsE7sXp9ZtV4FFK"
       },
@@ -957,6 +1713,24 @@
       "duration_ms": 281053,
       "name": "Papa, Can You Hear Me?",
       "url": "https://open.spotify.com/track/3ZfBUAzlJwJzctLtxykX5b"
+    },
+    {
+      "album": {
+        "name": "VSQ Performs the Hits of 2015, Vol. 2",
+        "url": "https://open.spotify.com/album/26472YwdcI0EnYbAavmn3d"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 257893,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/6B2PImXAkSXyPZOAhFmXHh"
     },
     {
       "album": {
@@ -979,6 +1753,132 @@
       "duration_ms": 203727,
       "name": "Rainbow - Instrumental",
       "url": "https://open.spotify.com/track/77fsaToe6geS16GLiwBzlm"
+    },
+    {
+      "album": {
+        "name": "VSQ Performs the Hits of 2014, Vol. 3",
+        "url": "https://open.spotify.com/album/55GWGl6XdbV5M9OfhiGtMN"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 207440,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/7dEjQAnaMlb1oikHOXaTUO"
+    },
+    {
+      "album": {
+        "name": "VSQ Performs the Hits of 2013, Vol. 2",
+        "url": "https://open.spotify.com/album/47UJihi0AVkgdfNvRNVUlF"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 203426,
+      "name": "Royals",
+      "url": "https://open.spotify.com/track/5cPxFYTRLgv9rHxaVZ67po"
+    },
+    {
+      "album": {
+        "name": "Vitamin String Quartet Performs the Hits of 2018, Vol. 2",
+        "url": "https://open.spotify.com/album/2hk3pnDS8W2zp7QXgwTb4u"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 171133,
+      "name": "SAD!",
+      "url": "https://open.spotify.com/track/22QfL13HHu4ryuIksT4Fkj"
+    },
+    {
+      "album": {
+        "name": "Vitamin String Quartet Performs Regina Spektor",
+        "url": "https://open.spotify.com/album/1LzX7qSVoKMGmmARb2DYbb"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 178320,
+      "name": "Samson",
+      "url": "https://open.spotify.com/track/3QEYwF3sQ8TFrJd4lGt1uM"
+    },
+    {
+      "album": {
+        "name": "VSQ Performs BTS",
+        "url": "https://open.spotify.com/album/2mWJADpEak5CNXxMevndVI"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 200480,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/4xeZFxASZR1MdL6DVrp54b"
+    },
+    {
+      "album": {
+        "name": "VSQ Performs the Hits of 2014, Vol. 1",
+        "url": "https://open.spotify.com/album/2nXsjLHluXH1EDCGaI4Uf9"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 230266,
+      "name": "Say Something",
+      "url": "https://open.spotify.com/track/3lDVrC13oxt1IMvBbqT1Es"
+    },
+    {
+      "album": {
+        "name": "VSQ Performs the Hits of 2017 Vol. 2",
+        "url": "https://open.spotify.com/album/41p4FJy6Y6BvuZymMfHrxE"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 201920,
+      "name": "Scarecrow in the Garden",
+      "url": "https://open.spotify.com/track/6CHgoOm1x4XPSDPd1jNMDi"
     },
     {
       "album": {
@@ -1018,6 +1918,24 @@
     },
     {
       "album": {
+        "name": "Vitamin String Quartet Performs the Hits of 2019",
+        "url": "https://open.spotify.com/album/56EI9Mhw87g3NADBYQNQac"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 215440,
+      "name": "Shallow",
+      "url": "https://open.spotify.com/track/6JTRAVwH9ahy1l9NGkt64s"
+    },
+    {
+      "album": {
         "name": "Shape of My Heart",
         "url": "https://open.spotify.com/album/6rpczEJb2gH66izQHWYLNj"
       },
@@ -1033,6 +1951,60 @@
       "duration_ms": 344703,
       "name": "Shape of My Heart",
       "url": "https://open.spotify.com/track/1snRw3CQImnuTq7UaX6Are"
+    },
+    {
+      "album": {
+        "name": "VSQ Power Ballads",
+        "url": "https://open.spotify.com/album/1RGdqBZNNmAqL6jfu6HYEz"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 214080,
+      "name": "Silent Lucidity",
+      "url": "https://open.spotify.com/track/405UQdWBjsxAjYyHRPVaDM"
+    },
+    {
+      "album": {
+        "name": "Vitamin String Quartet Performs Bon Iver",
+        "url": "https://open.spotify.com/album/6UAIWIcYacQ7saZDNvk0Gs"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 232666,
+      "name": "Skinny Love",
+      "url": "https://open.spotify.com/track/4m11ClVp23KZpJl7dnunv7"
+    },
+    {
+      "album": {
+        "name": "Vitamin String Quartet Performs Gotye's Somebody That I Used to Know",
+        "url": "https://open.spotify.com/album/6ItDt8bkHreshCqpX3zDhF"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 244960,
+      "name": "Somebody That I Used to Know",
+      "url": "https://open.spotify.com/track/4C0prnOdpjkYh0cpay5sXj"
     },
     {
       "album": {
@@ -1146,6 +2118,24 @@
     },
     {
       "album": {
+        "name": "VSQ Performs Smashing Pumpkins",
+        "url": "https://open.spotify.com/album/1QAHaP5KYmqmZJu88FxMEF"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 190133,
+      "name": "Stand Inside Your Love",
+      "url": "https://open.spotify.com/track/7s04KoVEsVuCOIvf3TocBj"
+    },
+    {
+      "album": {
         "name": "VSQ Performs the Hits of 2014, Vol. 2",
         "url": "https://open.spotify.com/album/3kXPzEHhPKArQtzlQmPR9N"
       },
@@ -1161,6 +2151,46 @@
       "duration_ms": 175240,
       "name": "Stay with Me",
       "url": "https://open.spotify.com/track/4lWYROZtRMgHmDpdUtTI22"
+    },
+    {
+      "album": {
+        "name": "Vitamin String Quartet Performs the Hits of 2019",
+        "url": "https://open.spotify.com/album/56EI9Mhw87g3NADBYQNQac"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        },
+        {
+          "name": "ThatViolaKid",
+          "url": "https://open.spotify.com/artist/4NUssuHyRMkU7AM6bDU1OC"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 164573,
+      "name": "Sunflower (feat. ThatViolaKid)",
+      "url": "https://open.spotify.com/track/4imin3mUFfFvbU9vbjZRSu"
+    },
+    {
+      "album": {
+        "name": "VSQ Performs the Hits of 2013, Vol. 1",
+        "url": "https://open.spotify.com/album/4x6udqqWCNOeLqsw6aUnAo"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 245322,
+      "name": "Sweater Weather",
+      "url": "https://open.spotify.com/track/5ipHEp72ur3hB8WVM0hzOX"
     },
     {
       "album": {
@@ -1200,6 +2230,24 @@
     },
     {
       "album": {
+        "name": "VSQ Performs the Music from the Films of Wes Anderson",
+        "url": "https://open.spotify.com/album/3RkE0u5OCmNEdPiiHuanbd"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 208760,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/5yhAp5zikhraHkUJgsUYHN"
+    },
+    {
+      "album": {
         "name": "Thinking Out Loud",
         "url": "https://open.spotify.com/album/21XWenQjwMhNKalE2gLxZE"
       },
@@ -1236,6 +2284,24 @@
     },
     {
       "album": {
+        "name": "Vitamin String Quartet Performs the Hits of 2018, Vol. 2",
+        "url": "https://open.spotify.com/album/2hk3pnDS8W2zp7QXgwTb4u"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 189706,
+      "name": "Thunderclouds",
+      "url": "https://open.spotify.com/track/4XmcsuS2UKmE0mGexrUXBo"
+    },
+    {
+      "album": {
         "name": "Time After Time",
         "url": "https://open.spotify.com/album/7v1uoa4uquxWy6t92wGSLU"
       },
@@ -1254,6 +2320,60 @@
     },
     {
       "album": {
+        "name": "VSQ Performs Death Cab for Cutie: Ghost",
+        "url": "https://open.spotify.com/album/4xz9AD7qZEyVoE2Q99551Z"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 238280,
+      "name": "Transatlanticism",
+      "url": "https://open.spotify.com/track/50tq3zkWA7yLEmdKE0kmt5"
+    },
+    {
+      "album": {
+        "name": "Vitamin String Quartet Performs Radiohead's \"True Love Waits\" and \"Burn the Witch\"",
+        "url": "https://open.spotify.com/album/7lHx4M8wxfrSKJQGRoXOoc"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 275510,
+      "name": "True Love Waits",
+      "url": "https://open.spotify.com/track/0JFVqqRU2Cm3oKAs3DyGbT"
+    },
+    {
+      "album": {
+        "name": "VSQ Performs Music from Dazed and Confused",
+        "url": "https://open.spotify.com/album/2iIlIEHKjwleMaeeG83Rib"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 244000,
+      "name": "Tuesday's Gone",
+      "url": "https://open.spotify.com/track/2Aw5U9y7uTE9jDo2O6u8Iw"
+    },
+    {
+      "album": {
         "name": "Un-break My Heart (arr. piano)",
         "url": "https://open.spotify.com/album/5OZmuatP2xhw1bqr2mdsw8"
       },
@@ -1269,6 +2389,78 @@
       "duration_ms": 163268,
       "name": "Un-break My Heart (arr. piano)",
       "url": "https://open.spotify.com/track/1wBkkzmmI89hiSAvEhKsFO"
+    },
+    {
+      "album": {
+        "name": "Vitamin String Quartet Performs Sigur R\u00f3s",
+        "url": "https://open.spotify.com/album/38e7K18t8g1sSeYbBdG08o"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 422200,
+      "name": "Untitled 4 (aka Nj\u00f3snav\u00e9lin)",
+      "url": "https://open.spotify.com/track/3ds1kgDCu5z8223fX1FWIN"
+    },
+    {
+      "album": {
+        "name": "Vitamin String Quartet Performs Bjork",
+        "url": "https://open.spotify.com/album/0JL6wzlO2S9sPwdDiBkawB"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 173600,
+      "name": "Venus As a Boy",
+      "url": "https://open.spotify.com/track/5Ccu4rB501CNiuZYI1sJAW"
+    },
+    {
+      "album": {
+        "name": "VSQ Performs Lana Del Rey",
+        "url": "https://open.spotify.com/album/3HuXseIKWFC5Pwg0oMuNFT"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 279520,
+      "name": "Video Games - 2020 Version",
+      "url": "https://open.spotify.com/track/0RXFGoIYK7w64zkYZ3IR4w"
+    },
+    {
+      "album": {
+        "name": "Vsq Film School: Cult Classics & Indie Faves",
+        "url": "https://open.spotify.com/album/56rhaqWDLMw6wG5Flbr72W"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 257560,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/4R5pCOhqXDaXKdRQ3LIQFr"
     },
     {
       "album": {
@@ -1312,6 +2504,42 @@
     },
     {
       "album": {
+        "name": "Our Flashback Wedding",
+        "url": "https://open.spotify.com/album/7EjVc5O5g56nKL6RrAilPo"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 204386,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/1fzP9TiMOq4FHKmnGaKVAE"
+    },
+    {
+      "album": {
+        "name": "Vsq Film School: Cult Classics & Indie Faves",
+        "url": "https://open.spotify.com/album/56rhaqWDLMw6wG5Flbr72W"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 205706,
+      "name": "Wise Up",
+      "url": "https://open.spotify.com/track/66VOEjxqwAXhVAMQytWTOo"
+    },
+    {
+      "album": {
         "name": "Wrecking ball (Solo Piano Version)",
         "url": "https://open.spotify.com/album/6FxI4vC2tiRIxqbzth9zZL"
       },
@@ -1345,6 +2573,60 @@
       "duration_ms": 263863,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/3v64j3vihZ9IhEewaUfIqK"
+    },
+    {
+      "album": {
+        "name": "The Modern Wedding Collection, Vol. 2",
+        "url": "https://open.spotify.com/album/2XwUsjzSF4Qxd7cHcFSCsm"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 267346,
+      "name": "You and Me",
+      "url": "https://open.spotify.com/track/6yoNRCtmcgAqKUJ9hvLaqT"
+    },
+    {
+      "album": {
+        "name": "VSQ Performs Lana Del Rey",
+        "url": "https://open.spotify.com/album/3HuXseIKWFC5Pwg0oMuNFT"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 216266,
+      "name": "Young and Beautiful",
+      "url": "https://open.spotify.com/track/1CNgRdKyiVXhdBtD0DGMtP"
+    },
+    {
+      "album": {
+        "name": "VSQ Performs the Hits of 2017 Vol. 2",
+        "url": "https://open.spotify.com/album/41p4FJy6Y6BvuZymMfHrxE"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 202640,
+      "name": "Young Dumb and Broke",
+      "url": "https://open.spotify.com/track/1uUf3j1JanarEIsAcX6NGd"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX21hEmly67Fg"

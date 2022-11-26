@@ -78,6 +78,28 @@
     },
     {
       "album": {
+        "name": "Back To Where We Started",
+        "url": "https://open.spotify.com/album/4Oe7H10BsC7n7hiAFruhQa"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Afrojack",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "date_added": "2022-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209776,
+      "name": "Back To Where We Started",
+      "url": "https://open.spotify.com/track/3Xkf0dPNJbLMzi2BuGmbDo"
+    },
+    {
+      "album": {
         "name": "Back To You",
         "url": "https://open.spotify.com/album/5MuuG7O578wt7v4fwLwkrs"
       },
@@ -89,7 +111,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": "2022-10-30",
       "duration_ms": 185812,
       "name": "Back To You",
       "url": "https://open.spotify.com/track/1eZXJrEbdGSuST1f8NY5Qk"
@@ -171,7 +193,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 180937,
       "name": "Burning",
       "url": "https://open.spotify.com/track/0ovADiujzL4nfAhEtZ8WVc"
@@ -337,7 +359,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 148124,
       "name": "Everybody Clap",
       "url": "https://open.spotify.com/track/6lMNMaq2OaE7UIQiBevauB"
@@ -388,6 +410,28 @@
     },
     {
       "album": {
+        "name": "For The People",
+        "url": "https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Third Party",
+          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219345,
+      "name": "For The People",
+      "url": "https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8"
+    },
+    {
+      "album": {
         "name": "Harmony",
         "url": "https://open.spotify.com/album/4SnEzerWvY2jHhNiMu0iKE"
       },
@@ -421,7 +465,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 209078,
       "name": "Hear Me Now",
       "url": "https://open.spotify.com/track/2RENEC1I3hpe1PXVbqSvr6"
@@ -601,7 +645,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 154687,
       "name": "I See",
       "url": "https://open.spotify.com/track/3IOvs8528ie9laMQO4PLPD"
@@ -623,7 +667,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 179047,
       "name": "Iconic",
       "url": "https://open.spotify.com/track/4sYCPbTRo0AKvFt7RD4ljp"
@@ -693,7 +737,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 195704,
       "name": "Legacy - Radio Edit",
       "url": "https://open.spotify.com/track/3SGebd91gbpKanqQ2Yg9F1"
@@ -719,7 +763,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 202541,
       "name": "Let Me Feel - Radio Edit",
       "url": "https://open.spotify.com/track/5EbITZyzQ51x4y5vgTCoGw"
@@ -763,7 +807,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 200156,
       "name": "Like Home - Radio Edit",
       "url": "https://open.spotify.com/track/5FV75TYvdP3UzXHzE2veFL"
@@ -785,7 +829,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 200156,
       "name": "Like Home - Radio Mix",
       "url": "https://open.spotify.com/track/2RBq5Dl68WQXwWNpP77FQY"
@@ -803,7 +847,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 187320,
       "name": "Lose My Mind",
       "url": "https://open.spotify.com/track/7vTaAwEWxj5vhhQpuWZpFm"
@@ -821,7 +865,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-13",
+      "date_removed": null,
       "duration_ms": 175161,
       "name": "Love Me Better",
       "url": "https://open.spotify.com/track/5gs8HdtvlvLyVKCWQQ4mbl"
@@ -869,7 +913,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 196222,
       "name": "Me On You",
       "url": "https://open.spotify.com/track/3nD6hpOexPDS1LHtoL7bPM"
@@ -917,10 +961,28 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-23",
+      "date_removed": null,
       "duration_ms": 181147,
       "name": "My Way - Marcus Santoro Remix",
       "url": "https://open.spotify.com/track/4j5oym5wl44NwTOVT9ERhS"
+    },
+    {
+      "album": {
+        "name": "Myriad",
+        "url": "https://open.spotify.com/album/4I2XNQakcuBrCmvPb9VSDc"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207358,
+      "name": "Myriad",
+      "url": "https://open.spotify.com/track/1bsWsraQlfDz6kk2o0SnDm"
     },
     {
       "album": {
@@ -1105,7 +1167,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-22",
+      "date_removed": "2022-10-17",
       "duration_ms": 156377,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/5pF92bDyufEHqAOEf2Dtuu"
@@ -1127,7 +1189,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 165714,
       "name": "Pyramid - Nicky Romero Remix",
       "url": "https://open.spotify.com/track/3UcR8sUTURoNzhYrjeSI0q"
@@ -1149,7 +1211,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 170494,
       "name": "Ring The Alarm",
       "url": "https://open.spotify.com/track/2RnZau79qB9ZAtOqZRAGDd"
@@ -1175,7 +1237,7 @@
       ],
       "date_added": "2022-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 200573,
       "name": "Rise (ft. Matluck)",
       "url": "https://open.spotify.com/track/51hjtoMJE53TzJsKlOOoG1"
@@ -1227,7 +1289,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 194285,
       "name": "See You On The Dancefloor",
       "url": "https://open.spotify.com/track/7CAKhC9pd2xM5mBg7HtJbr"
@@ -1297,10 +1359,36 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 182950,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/1MqBckcnN45W32KSSHnylW"
+    },
+    {
+      "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/1vuWqrCgIqeiaTUJnbAF40"
+      },
+      "artists": [
+        {
+          "name": "DallasK",
+          "url": "https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "XYL\u00d8",
+          "url": "https://open.spotify.com/artist/6ioOEWNNGK40H8xrGj6XPW"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182950,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/4Ld9Wvjpj1IOAIbnNy07AP"
     },
     {
       "album": {
@@ -1397,6 +1485,24 @@
       "duration_ms": 200791,
       "name": "The Moment (Novell)",
       "url": "https://open.spotify.com/track/5s2Ck1iBxZ1eP3WMT5Ie8r"
+    },
+    {
+      "album": {
+        "name": "Redefine EP",
+        "url": "https://open.spotify.com/album/7tpXMYDfo95hIG6AAbCMrJ"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/1uTqxBGvEiffBv41ih1nYB"
     },
     {
       "album": {
@@ -1595,7 +1701,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 223874,
       "name": "World Through Your Eyes",
       "url": "https://open.spotify.com/track/2kP8XBdhI9NRQkbDxye43P"
@@ -1635,7 +1741,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": "2022-11-21",
       "duration_ms": 174720,
       "name": "You Used To",
       "url": "https://open.spotify.com/track/0NMhB5jf4SJhzqnx6pBHNh"

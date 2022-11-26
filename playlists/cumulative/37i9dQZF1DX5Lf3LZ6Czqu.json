@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Instrumental guitar shreddery. Cover: TORA",
+  "description": "Instrumental guitar shreddery. Cover: Polyphia",
   "name": "String Theory",
   "published_playlist_ids": [
     "0bu5PNgzpzDIKLJOSeiugj"
@@ -23,6 +23,24 @@
       "duration_ms": 397236,
       "name": "A Cure Promised",
       "url": "https://open.spotify.com/track/45RTzFWWGXLZHPzxvjvl1H"
+    },
+    {
+      "album": {
+        "name": "A Dragon's Tail",
+        "url": "https://open.spotify.com/album/2mWEs1yGYsOc20QL78Pnk3"
+      },
+      "artists": [
+        {
+          "name": "Robben Ford",
+          "url": "https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy"
+        }
+      ],
+      "date_added": "2021-08-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 293749,
+      "name": "A Dragon's Tail",
+      "url": "https://open.spotify.com/track/3xsCEM590oLEq116t1cGqb"
     },
     {
       "album": {
@@ -203,7 +221,7 @@
       ],
       "date_added": "2021-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 347840,
       "name": "Android",
       "url": "https://open.spotify.com/track/1Fu3mNtJYa8wroSw6AsuCd"
@@ -275,10 +293,66 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 227814,
       "name": "Big Rock",
       "url": "https://open.spotify.com/track/6zj3GgamevCXncxB9E0GLI"
+    },
+    {
+      "album": {
+        "name": "Far More",
+        "url": "https://open.spotify.com/album/2yt2ezg0pwAQwDfkT4TqAw"
+      },
+      "artists": [
+        {
+          "name": "Lari Basilio",
+          "url": "https://open.spotify.com/artist/74cXaGQVjndcGMGcxWz7j0"
+        },
+        {
+          "name": "Vinnie Colaiuta",
+          "url": "https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO"
+        },
+        {
+          "name": "Nathan East",
+          "url": "https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ"
+        },
+        {
+          "name": "Greg Phillinganes",
+          "url": "https://open.spotify.com/artist/6WOxIudswU8kNC2LrpeiWu"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233600,
+      "name": "California Waves",
+      "url": "https://open.spotify.com/track/40GKKivAkAwgM0rTibvNmn"
+    },
+    {
+      "album": {
+        "name": "Guitar Heroes",
+        "url": "https://open.spotify.com/album/5KqwEjfur240inzWyd32Hu"
+      },
+      "artists": [
+        {
+          "name": "Jan Cyrka",
+          "url": "https://open.spotify.com/artist/1UA7iIS5ui7PypnfhzJjJU"
+        },
+        {
+          "name": "James Graydon",
+          "url": "https://open.spotify.com/artist/6spqPpkPxVBtTSn2LOKnvz"
+        },
+        {
+          "name": "Alex Hutchings",
+          "url": "https://open.spotify.com/artist/1qgI5ZUZuPXqVDylA1vt4j"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99036,
+      "name": "Carefree Summer",
+      "url": "https://open.spotify.com/track/1LR6dmXvaKluTM4q3CElzN"
     },
     {
       "album": {
@@ -311,7 +385,7 @@
       ],
       "date_added": "2021-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 440853,
       "name": "Church of Xotic Dance",
       "url": "https://open.spotify.com/track/66eqvxloPSUswzFxgcyR9d"
@@ -333,6 +407,28 @@
       "duration_ms": 166880,
       "name": "Circus Song",
       "url": "https://open.spotify.com/track/0rMZ3nVMzQQGfgtPVgCBlU"
+    },
+    {
+      "album": {
+        "name": "Power Station",
+        "url": "https://open.spotify.com/album/5SBfou3NNkuYL0LeU004xy"
+      },
+      "artists": [
+        {
+          "name": "Cory Wong",
+          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
+        },
+        {
+          "name": "Mark Lettieri",
+          "url": "https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294269,
+      "name": "Concrete",
+      "url": "https://open.spotify.com/track/6yAnVsBfrw3mf40jBZiQX7"
     },
     {
       "album": {
@@ -614,6 +710,28 @@
     },
     {
       "album": {
+        "name": "Flight Mode",
+        "url": "https://open.spotify.com/album/4hAUsySEtN8LtIyC3hzeTC"
+      },
+      "artists": [
+        {
+          "name": "Mr. Fastfinger",
+          "url": "https://open.spotify.com/artist/2EwvEoMSkP2QHZfLoN7AVd"
+        },
+        {
+          "name": "Mika Tyysk\u00e4",
+          "url": "https://open.spotify.com/artist/7I3GNszuWihe6wYylLTuie"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254038,
+      "name": "Flight Mode",
+      "url": "https://open.spotify.com/track/4X7Jsy8kRkRz7LHrrtFunn"
+    },
+    {
+      "album": {
         "name": "Four Day Weekend",
         "url": "https://open.spotify.com/album/4BJ2bEGlgs2EMv6GoDLLLt"
       },
@@ -871,6 +989,24 @@
       "duration_ms": 153362,
       "name": "I Don't Funk with You",
       "url": "https://open.spotify.com/track/2eiK5sjccZJdNTq8Qej596"
+    },
+    {
+      "album": {
+        "name": "Rock Candy",
+        "url": "https://open.spotify.com/album/1PTQRv4S9laI9rIt99d1RV"
+      },
+      "artists": [
+        {
+          "name": "Orianthi",
+          "url": "https://open.spotify.com/artist/0yNy8fi1yBBq526E6mx4Zs"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124405,
+      "name": "Illuminate, Pt. II",
+      "url": "https://open.spotify.com/track/2CGdWIMOBsgUmgiwS5rMvN"
     },
     {
       "album": {
@@ -1136,6 +1272,24 @@
     },
     {
       "album": {
+        "name": "Planetary Lockdown",
+        "url": "https://open.spotify.com/album/4zV7IgwIYGcWyWsdRytXW8"
+      },
+      "artists": [
+        {
+          "name": "Bumblefoot",
+          "url": "https://open.spotify.com/artist/1KGFAcP7ovMYuoQuloDhOj"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316479,
+      "name": "Planetary Lockdown",
+      "url": "https://open.spotify.com/track/3cAEGkFwSdX1bBQsI3efgv"
+    },
+    {
+      "album": {
         "name": "Playing God",
         "url": "https://open.spotify.com/album/3rHwz3EQwsQXdsXvSWE1N4"
       },
@@ -1172,6 +1326,24 @@
     },
     {
       "album": {
+        "name": "Pop-Alicious",
+        "url": "https://open.spotify.com/album/4PKT4YsAtbs4SSjjfOqocv"
+      },
+      "artists": [
+        {
+          "name": "Neil Zaza",
+          "url": "https://open.spotify.com/artist/4FzEKhLeEN58Mu7JzUHdHF"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234497,
+      "name": "Pop-Alicious",
+      "url": "https://open.spotify.com/track/6Jn9KO0gb3X5mgHu3fxKP6"
+    },
+    {
+      "album": {
         "name": "Primal Feels",
         "url": "https://open.spotify.com/album/6Vn52SWI9Ymftd9Ml6nWYV"
       },
@@ -1201,7 +1373,7 @@
       ],
       "date_added": "2021-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 416786,
       "name": "Primary Location",
       "url": "https://open.spotify.com/track/4vDvf90QYWjK4dhYCaMdZY"
@@ -1280,6 +1452,24 @@
     },
     {
       "album": {
+        "name": "Remember That You Will Die",
+        "url": "https://open.spotify.com/album/1BJtoy1VgHMMvotBwvylJ5"
+      },
+      "artists": [
+        {
+          "name": "Polyphia",
+          "url": "https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242693,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/1W5zSvAeIXlw6odInPE4m5"
+    },
+    {
+      "album": {
         "name": "Celestial Desire",
         "url": "https://open.spotify.com/album/6yHsXLT981Lxq675nClwrJ"
       },
@@ -1295,6 +1485,24 @@
       "duration_ms": 305506,
       "name": "Riverside Cake",
       "url": "https://open.spotify.com/track/2srAO5RpA2itSztEfbhRsR"
+    },
+    {
+      "album": {
+        "name": "The Elephants of Mars",
+        "url": "https://open.spotify.com/album/5H7fMVvjyesjzHqRM5GujF"
+      },
+      "artists": [
+        {
+          "name": "Joe Satriani",
+          "url": "https://open.spotify.com/artist/2yzxX2DI9LFK8VFTyW2zZ8"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276440,
+      "name": "Sahara",
+      "url": "https://open.spotify.com/track/1IyZMP5uZjbk8sbGOC98CG"
     },
     {
       "album": {
@@ -1365,10 +1573,28 @@
       ],
       "date_added": "2021-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 225603,
       "name": "Sedosa",
       "url": "https://open.spotify.com/track/4hqhLISxsGGBRosF4v46pO"
+    },
+    {
+      "album": {
+        "name": "Eikasia",
+        "url": "https://open.spotify.com/album/0ihSg4rBDSE9aSJbsTrU7z"
+      },
+      "artists": [
+        {
+          "name": "Mest\u00eds",
+          "url": "https://open.spotify.com/artist/3adhzSHzVWN1ICfxIqO9Cn"
+        }
+      ],
+      "date_added": "2021-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225603,
+      "name": "Sedosa",
+      "url": "https://open.spotify.com/track/7CTV76FQ3TA6vHmwjvkblf"
     },
     {
       "album": {
@@ -1391,6 +1617,28 @@
       "duration_ms": 345520,
       "name": "shibuya (feat. San Holo)",
       "url": "https://open.spotify.com/track/7BsPyswBtiM1PbPnUnuNzE"
+    },
+    {
+      "album": {
+        "name": "SkyBluePink",
+        "url": "https://open.spotify.com/album/4300q4yRsvBxrZlr64K42v"
+      },
+      "artists": [
+        {
+          "name": "Jack Gardiner",
+          "url": "https://open.spotify.com/artist/68xIMmJbS8ic51vrpfxkSo"
+        },
+        {
+          "name": "Owane",
+          "url": "https://open.spotify.com/artist/2LkMP01m9PIf5r87iC0HI2"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325500,
+      "name": "SkyBluePink",
+      "url": "https://open.spotify.com/track/7epiIQqEvELiXG9YOG5Nj6"
     },
     {
       "album": {
@@ -1526,6 +1774,42 @@
     },
     {
       "album": {
+        "name": "Inviolate",
+        "url": "https://open.spotify.com/album/084PBfKRx4oXa6xQyPAold"
+      },
+      "artists": [
+        {
+          "name": "Steve Vai",
+          "url": "https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312536,
+      "name": "Teeth of the Hydra",
+      "url": "https://open.spotify.com/track/4mGigKCuAXQot4xkmhate9"
+    },
+    {
+      "album": {
+        "name": "Tellicherry",
+        "url": "https://open.spotify.com/album/3P2MhHAKj7iZfdHEzInBdM"
+      },
+      "artists": [
+        {
+          "name": "St. Barbe",
+          "url": "https://open.spotify.com/artist/67ykMebIGuLMYDPqXo2A6v"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290409,
+      "name": "Tellicherry",
+      "url": "https://open.spotify.com/track/16rsNa8Olqgyo6ALWgySLo"
+    },
+    {
+      "album": {
         "name": "Wheelhouse",
         "url": "https://open.spotify.com/album/1JkBVjeznFK9Bb3xasp6un"
       },
@@ -1616,6 +1900,32 @@
     },
     {
       "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/77ya30BnZ7Kat4yD8KCEN4"
+      },
+      "artists": [
+        {
+          "name": "Sterfry",
+          "url": "https://open.spotify.com/artist/2ZRvR99Cg42zMNIfEnP5HK"
+        },
+        {
+          "name": "Go Yama",
+          "url": "https://open.spotify.com/artist/4Gbw8LGu071GAshE7dqqum"
+        },
+        {
+          "name": "Jason Leech",
+          "url": "https://open.spotify.com/artist/1RPNr9u1LyyIjFVrXdIq1G"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167446,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/23R5kepMliUvCaq5hsug04"
+    },
+    {
+      "album": {
         "name": "All's Well That Ends Well",
         "url": "https://open.spotify.com/album/0MUOKjKpJOWr9PFwgt4OtN"
       },
@@ -1663,7 +1973,7 @@
       ],
       "date_added": "2021-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 297546,
       "name": "Undoing",
       "url": "https://open.spotify.com/track/2TtKJKiZmP54qgcKS56BSy"
@@ -1750,6 +2060,28 @@
     },
     {
       "album": {
+        "name": "Blossoms",
+        "url": "https://open.spotify.com/album/2JeTEgwVR74F3OUd1QPhCE"
+      },
+      "artists": [
+        {
+          "name": "Martin Gonzalez",
+          "url": "https://open.spotify.com/artist/5JM8caNvIgCqRWYtLYxxNg"
+        },
+        {
+          "name": "Lechuga",
+          "url": "https://open.spotify.com/artist/2SDcND6iKTDeQtHYV7OmoB"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213413,
+      "name": "When I Met You",
+      "url": "https://open.spotify.com/track/0qLSej5O1b7IviLseDChHk"
+    },
+    {
+      "album": {
         "name": "Seventeen",
         "url": "https://open.spotify.com/album/6MjtsP8KTYhasnb1sdrUkZ"
       },
@@ -1783,6 +2115,24 @@
       "duration_ms": 309973,
       "name": "When Words Fail...",
       "url": "https://open.spotify.com/track/3mQ06QA9KD996YAAjb8TBe"
+    },
+    {
+      "album": {
+        "name": "Onomatomani[a]kus",
+        "url": "https://open.spotify.com/album/674sTwV33EPpt0WC5zlI21"
+      },
+      "artists": [
+        {
+          "name": "Marmalade butcher",
+          "url": "https://open.spotify.com/artist/0NqMZ0EDrPSG9ysXDiWkSi"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179840,
+      "name": "XXXphobia",
+      "url": "https://open.spotify.com/track/6kDHSMUvrnRyiRjo6axbb1"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "The official playlist of JTBC Begin Again, which contains the busking live soundtracks of the best musicians in Korea. (\uad6d\ub0b4 \ucd5c\uc815\uc0c1 \ubba4\uc9c0\uc158\ub4e4\uc758 \ubc84\uc2a4\ud0b9 \ub77c\uc774\ube0c \uc74c\uc6d0\ub4e4\uc774 \ub2f4\uae34 JTBC \ube44\uae34\uc5b4\uac8c\uc778\uc758 \uacf5\uc2dd \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\uc785\ub2c8\ub2e4.)",
-  "num_followers": 26389,
+  "num_followers": 28007,
   "original_name": "Begin Again (\ube44\uae34\uc5b4\uac8c\uc778)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjI1MTk3OSwwMDAwMDAwMDE1MTI2MTUyZDE0MjA1MzkyZTUwNTljNjM3Zjk1NWE4",
+  "snapshot_id": "MTY1MjI1MTk3OSwwMDAwMDAwMDk0ZjE2OWMwM2NjNDBjZjM4ODk0MWU2MjFhNDZiNWQz",
   "tracks": [
     {
       "added_at": "2022-05-11 06:52:59",
@@ -52,7 +52,7 @@
       },
       "artists": [
         {
-          "name": "Lim Kim",
+          "name": "LIM KIM",
           "url": "https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv"
         },
         {
@@ -83,22 +83,22 @@
     {
       "added_at": "2022-05-11 06:52:59",
       "album": {
-        "name": "Imagine",
-        "url": "https://open.spotify.com/album/3NaDUkOgBqIjZiRsVRRBbP"
+        "name": "Begin Again Open Mic Episode.19",
+        "url": "https://open.spotify.com/album/1jTBZ8SWpQ5S3ziV2iXyXV"
       },
       "artists": [
         {
-          "name": "Ha Dong Qn",
-          "url": "https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ"
+          "name": "LIM KIM",
+          "url": "https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv"
         },
         {
-          "name": "Lim Kim",
-          "url": "https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv"
+          "name": "Ha Dong Qn",
+          "url": "https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ"
         }
       ],
       "duration_ms": 198017,
       "name": "Imagine",
-      "url": "https://open.spotify.com/track/6Zp6FBGVX8ImV87avj0CNx"
+      "url": "https://open.spotify.com/track/2HtEpIeH7UlvHULbuo3I5M"
     },
     {
       "added_at": "2022-05-11 06:52:59",
@@ -340,8 +340,8 @@
           "url": "https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg"
         },
         {
-          "name": "Shin Yong Jae",
-          "url": "https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR"
+          "name": "\uc2e0\uc6a9\uc7ac (2F)",
+          "url": "https://open.spotify.com/artist/3F41NA4lCodjllMP4uxM5l"
         }
       ],
       "duration_ms": 229725,
@@ -500,8 +500,8 @@
       },
       "artists": [
         {
-          "name": "\uc81c\uc774\ubbf8",
-          "url": "https://open.spotify.com/artist/3TKBiBhfaWg5buTbBsreNk"
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
         }
       ],
       "duration_ms": 179972,
@@ -896,12 +896,20 @@
       },
       "artists": [
         {
+          "name": "Henry",
+          "url": "https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt"
+        },
+        {
           "name": "\ubc15\uc815\ud604",
           "url": "https://open.spotify.com/artist/5Wi87ZV4pZ5gi5XBPkShX0"
         },
         {
-          "name": "\ud5e8\ub9ac",
-          "url": "https://open.spotify.com/artist/0lZNfUHK4sFzO9aeCCvVcw"
+          "name": "\ud558\ub9bc",
+          "url": "https://open.spotify.com/artist/0iggfisDKuoQUP95u61sXo"
+        },
+        {
+          "name": "\uc784\ud5cc\uc77c",
+          "url": "https://open.spotify.com/artist/5ywKSh5qiIrm603AanHlzO"
         }
       ],
       "duration_ms": 211060,
@@ -968,20 +976,32 @@
       },
       "artists": [
         {
+          "name": "Henry",
+          "url": "https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt"
+        },
+        {
           "name": "\ubc15\uc815\ud604",
           "url": "https://open.spotify.com/artist/5Wi87ZV4pZ5gi5XBPkShX0"
         },
         {
-          "name": "\ud5e8\ub9ac",
-          "url": "https://open.spotify.com/artist/0lZNfUHK4sFzO9aeCCvVcw"
+          "name": "\uc774\uc218\ud604",
+          "url": "https://open.spotify.com/artist/1fFhebE0Xp9u5pUKXIh87a"
         },
         {
-          "name": "\uc218\ud604",
-          "url": "https://open.spotify.com/artist/6RR1f03RomUjsgBYqDk70T"
+          "name": "Kim Feel",
+          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
+        },
+        {
+          "name": "\ud558\ub9bc",
+          "url": "https://open.spotify.com/artist/0iggfisDKuoQUP95u61sXo"
+        },
+        {
+          "name": "\uc784\ud5cc\uc77c",
+          "url": "https://open.spotify.com/artist/5ywKSh5qiIrm603AanHlzO"
         }
       ],
       "duration_ms": 151683,
-      "name": "There's Nothing holding me back",
+      "name": "There's Nothing Holdin' Me Back (\ub77c\ubca8\ub85c \ubc84\uc2a4\ud0b9 Ver.)",
       "url": "https://open.spotify.com/track/2emXJZPP0MieQ3TmaL4xUB"
     },
     {
@@ -1044,8 +1064,20 @@
       },
       "artists": [
         {
-          "name": "\ud5e8\ub9ac",
-          "url": "https://open.spotify.com/artist/0lZNfUHK4sFzO9aeCCvVcw"
+          "name": "Henry",
+          "url": "https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt"
+        },
+        {
+          "name": "Kim Feel",
+          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
+        },
+        {
+          "name": "\ud558\ub9bc",
+          "url": "https://open.spotify.com/artist/0iggfisDKuoQUP95u61sXo"
+        },
+        {
+          "name": "\uc784\ud5cc\uc77c",
+          "url": "https://open.spotify.com/artist/5ywKSh5qiIrm603AanHlzO"
         }
       ],
       "duration_ms": 172131,
@@ -1170,6 +1202,10 @@
         {
           "name": "Paul Kim",
           "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        },
+        {
+          "name": "\uc801\uc7ac",
+          "url": "https://open.spotify.com/artist/4wP35nFKx9S9YVSbnteuOd"
         }
       ],
       "duration_ms": 157654,

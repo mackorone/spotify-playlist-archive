@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "1000 Rosas",
+        "url": "https://open.spotify.com/album/5rLW6XwLgtoA2isL3mKYDE"
+      },
+      "artists": [
+        {
+          "name": "Will Kevin",
+          "url": "https://open.spotify.com/artist/29Aluk4XkIrlZzUi15cqoG"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198997,
+      "name": "1000 Rosas",
+      "url": "https://open.spotify.com/track/4GaOnNm5S193W7lkghjBhf"
+    },
+    {
+      "album": {
         "name": "10Min",
         "url": "https://open.spotify.com/album/3kqgJR1MqCuziuY65f5XaK"
       },
@@ -31,6 +49,32 @@
       "duration_ms": 172439,
       "name": "10Min",
       "url": "https://open.spotify.com/track/4o7Eankd4tED31C2Bkw3U3"
+    },
+    {
+      "album": {
+        "name": "111",
+        "url": "https://open.spotify.com/album/1y6ac0icJ80lpV4wIADU7U"
+      },
+      "artists": [
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "Yas",
+          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
+        },
+        {
+          "name": "JnrBeats",
+          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-19",
+      "duration_ms": 201818,
+      "name": "111",
+      "url": "https://open.spotify.com/track/1KSl3fjYahx3NizZXO8jwE"
     },
     {
       "album": {
@@ -79,6 +123,14 @@
         {
           "name": "Enzo Cello",
           "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
+        },
+        {
+          "name": "Thomie",
+          "url": "https://open.spotify.com/artist/5UkeFCuymumzsQizZ1xzsW"
+        },
+        {
+          "name": "prodbyeros",
+          "url": "https://open.spotify.com/artist/2VykmpwjNmZuVWKiKnqonz"
         }
       ],
       "date_added": "2022-08-22",
@@ -169,10 +221,36 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 150020,
       "name": "A.P",
       "url": "https://open.spotify.com/track/1BRrmSdjTjHgCMSGtIT0Za"
+    },
+    {
+      "album": {
+        "name": "ABC",
+        "url": "https://open.spotify.com/album/7DDPh4XqYjdH8NH9f3DsVf"
+      },
+      "artists": [
+        {
+          "name": "Belato",
+          "url": "https://open.spotify.com/artist/1j0b8QZNoluRO17A2PJh62"
+        },
+        {
+          "name": "Dj Nb",
+          "url": "https://open.spotify.com/artist/2GZUy5017hx1rotZruGpee"
+        },
+        {
+          "name": "Original Quality",
+          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 159214,
+      "name": "ABC",
+      "url": "https://open.spotify.com/track/0t0oL0zLgHtH8SZXyuzYgb"
     },
     {
       "album": {
@@ -441,6 +519,32 @@
       "duration_ms": 187882,
       "name": "Beijo Com Trap",
       "url": "https://open.spotify.com/track/70jMUCcZRPSbUxeKLHHKKp"
+    },
+    {
+      "album": {
+        "name": "Brisad\u00e3o Na Dela",
+        "url": "https://open.spotify.com/album/4J7L0qoNu50abjycZIB9DC"
+      },
+      "artists": [
+        {
+          "name": "Bonde R300",
+          "url": "https://open.spotify.com/artist/5rhznZjKfSxtKVqB0JZtpC"
+        },
+        {
+          "name": "biel bolado",
+          "url": "https://open.spotify.com/artist/1FzYgKqku5kSPqyGawSbQr"
+        },
+        {
+          "name": "mayklove",
+          "url": "https://open.spotify.com/artist/3ViPtN67C4po5HoqLgJy9m"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 143999,
+      "name": "Brisad\u00e3o Na Dela",
+      "url": "https://open.spotify.com/track/52sMjvkxL9Sz8LdLTeL9RS"
     },
     {
       "album": {
@@ -967,6 +1071,40 @@
       "duration_ms": 161345,
       "name": "Foge Comigo",
       "url": "https://open.spotify.com/track/3jhkAmFUVIA0MuRAaE1gLO"
+    },
+    {
+      "album": {
+        "name": "Geme Bem Baixinho",
+        "url": "https://open.spotify.com/album/3PiRz1OXROF3gIBOQCYpHi"
+      },
+      "artists": [
+        {
+          "name": "Dj Cabide",
+          "url": "https://open.spotify.com/artist/6liy2XyeKhIfj6dfSG1gCu"
+        },
+        {
+          "name": "PVHITS",
+          "url": "https://open.spotify.com/artist/3HokfPZXqlOaKtLrCWz0gb"
+        },
+        {
+          "name": "Dj Loss do Beats",
+          "url": "https://open.spotify.com/artist/3oS0fqfhdaLVQQOTD3h4QM"
+        },
+        {
+          "name": "Maluquinho MC",
+          "url": "https://open.spotify.com/artist/0tYzpCJctHZkPgERNrtsTU"
+        },
+        {
+          "name": "Jot47",
+          "url": "https://open.spotify.com/artist/07B30fHpngAiyRth22iJ9L"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192031,
+      "name": "Geme Bem Baixinho",
+      "url": "https://open.spotify.com/track/1h6wqa0AMxKa6PV2ThkLTB"
     },
     {
       "album": {
@@ -2155,10 +2293,32 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 152009,
       "name": "Tira Roupa",
       "url": "https://open.spotify.com/track/0woJpVZkFHMhJNdJ0OupYP"
+    },
+    {
+      "album": {
+        "name": "T\u00f4 Querendo Voc\u00ea",
+        "url": "https://open.spotify.com/album/25ew32UgKSh25FIvtNqERZ"
+      },
+      "artists": [
+        {
+          "name": "Ya Malb",
+          "url": "https://open.spotify.com/artist/4TQQfni0Ql808AhLVD7Tdo"
+        },
+        {
+          "name": "TheBosh",
+          "url": "https://open.spotify.com/artist/7bJoIB2yzey1U3xx3j7tYG"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 138181,
+      "name": "T\u00f4 Querendo Voc\u00ea",
+      "url": "https://open.spotify.com/track/0GyrFrplaA63u4Elo1yBdE"
     },
     {
       "album": {
@@ -2251,7 +2411,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 196571,
       "name": "Vinho & Sexo - Prod. Papatinho",
       "url": "https://open.spotify.com/track/0Lou5GSyISEjhtmbCgKGVI"

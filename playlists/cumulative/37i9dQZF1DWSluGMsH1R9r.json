@@ -6472,6 +6472,24 @@
     },
     {
       "album": {
+        "name": "Cooling Down",
+        "url": "https://open.spotify.com/album/7vuY4vwcjMQIDcG4OcgOmc"
+      },
+      "artists": [
+        {
+          "name": "Maxence Cyrin",
+          "url": "https://open.spotify.com/artist/3NcPjvA2rp9FPj1JBAXwOS"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 120406,
+      "name": "Salon musique",
+      "url": "https://open.spotify.com/track/51xoSbJvMA83GVglthhPqL"
+    },
+    {
+      "album": {
         "name": "Salt Skin",
         "url": "https://open.spotify.com/album/5uDgyEcwgosiV7lf9n2f40"
       },
@@ -7274,7 +7292,7 @@
       "artists": [
         {
           "name": "Felix Tanguy",
-          "url": "https://open.spotify.com/artist/5QzzsfAU8urvcZpr5OVeng"
+          "url": "https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW"
         }
       ],
       "date_added": "2022-04-07",

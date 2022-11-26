@@ -683,7 +683,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 254666,
       "name": "Night Time",
       "url": "https://open.spotify.com/track/216Fc22fWQxAxlTxjtO8P2"
@@ -1311,6 +1311,24 @@
     {
       "album": {
         "name": "Monday Morning",
+        "url": "https://open.spotify.com/album/3AXCgA9qtAcTM3zatEKkje"
+      },
+      "artists": [
+        {
+          "name": "Bread And Butter",
+          "url": "https://open.spotify.com/artist/3OldswvDMARe1uWLYSrdEz"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265800,
+      "name": "\u30af\u30eb\u30fc\u30b8\u30f3\u30b0\u30fb\u30aa\u30f3",
+      "url": "https://open.spotify.com/track/2MQUTZtyF7azClmtcbQwFB"
+    },
+    {
+      "album": {
+        "name": "Monday Morning",
         "url": "https://open.spotify.com/album/5dAeCq2fjxzoUSX8HlJrPa"
       },
       "artists": [
@@ -1685,7 +1703,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": "2022-11-13",
       "duration_ms": 189466,
       "name": "\u611f\u3058\u308b\u307e\u307e\u306b",
       "url": "https://open.spotify.com/track/5XPeE6Nf7Lt5onFGhqeRci"

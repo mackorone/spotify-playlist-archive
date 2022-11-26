@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 
 > Descubre los nuevos talentos de Argentina, Chile y Uruguay\. <br/>Foto: Zoe Gotusso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,060 likes - 70 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,172 likes - 70 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 | 37 | [AMAME](https://open.spotify.com/track/3ynkDyWXMgspdVxrp022vu) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [2030](https://open.spotify.com/album/2BBBxM35Iz9XG9cARYDqlr) | 3:39 |
 | 38 | [Tuyo](https://open.spotify.com/track/4NiqCP7CvELNJDd1sue38b) | [Romeo El Santo](https://open.spotify.com/artist/7b2GRLYNoKPanoqh7lzsbT) | [Tuyo](https://open.spotify.com/album/0I0JpmGYWTNFVOLcRlY8wR) | 2:52 |
 | 39 | [Apasionadamente](https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Apasionadamente](https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks) | 3:00 |
-| 40 | [No Era una Pavada](https://open.spotify.com/track/67hP1mGFH97G6J6vIB85zf) | [Eli Almic](https://open.spotify.com/artist/5KXdJKZm2dVPkKmbitndiR), [Migue Nieto](https://open.spotify.com/artist/1FvhJ1jh2W7sEutFdqPomy), [DJ RC](https://open.spotify.com/artist/1J7pdNpxrWQJyJlfV5gMoW) | [No Era una Pavada](https://open.spotify.com/album/4Fh6W97q8UGIeIC1b1H0hw) | 2:54 |
+| 40 | [No Era una Pavada](https://open.spotify.com/track/6cTZqcfAsLMM6GAw7Qmlh0) | [Eli Almic](https://open.spotify.com/artist/5KXdJKZm2dVPkKmbitndiR), [Migue Nieto](https://open.spotify.com/artist/1FvhJ1jh2W7sEutFdqPomy) | [Días Así](https://open.spotify.com/album/442h4OS4JBOjmdi8NhtaJF) | 2:54 |
 | 41 | [1990](https://open.spotify.com/track/1GSK7npbQEdKiclB49ANwT) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [1990](https://open.spotify.com/album/5r6b3rdja0d8jaYZYFpGyd) | 3:27 |
 | 42 | [FLOTANDO](https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [FLOTANDO](https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY) | 2:42 |
 | 43 | [Shake It Up](https://open.spotify.com/track/4IqBzJpsbE7fb8ocdX4ZZP) | [Kiddtetoon](https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF), [Nico Baby](https://open.spotify.com/artist/523Q3hgqV3zr00ephVSfKX) | [Shake It Up](https://open.spotify.com/album/4DrsFB79n1wTqZ6e0wPT1C) | 2:46 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 | 69 | [ME QUIERO QUEDAR \- morko remix](https://open.spotify.com/track/6sHrSoKOTHwlZTJ9Pewwej) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY), [Morko](https://open.spotify.com/artist/7ECK6zVWsnoTS1k3kH7mzt) | [NO VAYA A LA FIESTA REMIX](https://open.spotify.com/album/4rUFwIVoRO3shvDEs5N7ek) | 2:29 |
 | 70 | [malo](https://open.spotify.com/track/76U4q9ZuZAtk1BPN96H6Zz) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [GÉNESIS](https://open.spotify.com/album/4blQHdDuBVjZRVdLzwcVl5) | 3:03 |
 
-Snapshot ID: `MTY2MjAwMTIwMCwwMDAwMDAwMGFiYzEwZTY1ZjA2ZTAzOWNmM2M5YThmZWExMzUyODEx`
+Snapshot ID: `MTY2MjAwMTIwMCwwMDAwMDAwMDgzODEyZDRiMGUxNTE4ZTJjMTIwYTJlMzAxODk0MjBl`

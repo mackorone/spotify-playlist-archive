@@ -4,7 +4,7 @@
 
 > Meditative tones for clarity and healing.
 
-79 songs - 5 hr 41 min - [published](https://open.spotify.com/playlist/1wcoY7hOzprWoSsRPIyjVD)
+81 songs - 5 hr 47 min - [published](https://open.spotify.com/playlist/1wcoY7hOzprWoSsRPIyjVD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Healing Bowls](https://open.spotify.com/track/67DxDlLod2unLLBwdIBmDn) | [Sound of Muses](https://open.spotify.com/artist/5l9VrNt92FCVro9qeWKBwi) | [Healing Tibetan Singing Bowls](https://open.spotify.com/album/5NmADUzrobLLRJ271n2Q9W) | 2:54 | 2022-05-13 |  |
 | [Healing Tibetan Bowls](https://open.spotify.com/track/27R2tfIn7bS4Hvq14AelZI) | [The Tibetan Singing Bowls](https://open.spotify.com/artist/4gZYpXjnmCFu1Qzxz947v9) | [Sound Bath Escape](https://open.spotify.com/album/3rL8zuwDNsmKcOBCRgaXCb) | 3:45 | 2022-05-13 |  |
 | [Himalayan Bowls](https://open.spotify.com/track/54fOvKvdGylK3KdcR8gz2Z) | [Tibetan Meditation](https://open.spotify.com/artist/5UAgX4YftBF7I3DqNKazf5) | [Tibetan Singing Bowls](https://open.spotify.com/album/3zD1ESqCyJGPpeJDX0DBj9) | 2:25 | 2022-05-13 |  |
-| [I Am Alive](https://open.spotify.com/track/49MRwkWqwnCatZhVm3t9nu) | [Meditación Trascendental](https://open.spotify.com/artist/7GBcK0tbzmq32W05O4V3gA) | [I Am Alive](https://open.spotify.com/album/5DzlpnpV0bHkMNgheu9zxr) | 3:00 | 2022-08-10 |  |
+| [I Am Alive](https://open.spotify.com/track/26mUDTAcPtiLeAiUKBNcEz) | [Meditación Trascendental](https://open.spotify.com/artist/7GBcK0tbzmq32W05O4V3gA) | [I Am Alive](https://open.spotify.com/album/1nF9MGNCyfkYPqUnTcUn7Y) | 3:00 | 2022-09-06 |  |
+| [I Am Alive](https://open.spotify.com/track/49MRwkWqwnCatZhVm3t9nu) | [Meditación Trascendental](https://open.spotify.com/artist/7GBcK0tbzmq32W05O4V3gA) | [I Am Alive](https://open.spotify.com/album/5DzlpnpV0bHkMNgheu9zxr) | 3:00 | 2022-08-10 | 2022-11-05 |
 | [Immortal Grounds \(Tibetan Bowls\)](https://open.spotify.com/track/6YnrlA0CTrkrjLVToXK0Eq) | [Relaxing Tibetan Singing Bowls](https://open.spotify.com/artist/7eWhSlk1SPRRFkt9l6QE7R) | [Immortal Grounds \(Tibetan Bowls\)](https://open.spotify.com/album/7mNJ2OhKnOiIuOAa61YzAb) | 2:53 | 2022-07-15 |  |
 | [Inharmonic](https://open.spotify.com/track/4dBF8Rb7rTZP08ndwnNZ4p) | [Zibra Inguzu](https://open.spotify.com/artist/1LNciO7hxkWoSQ3V8OWNQF) | [Yoga Gong Karma](https://open.spotify.com/album/1T9xagnSXjguJIoXiidlly) | 3:21 | 2022-05-13 |  |
 | [Lamrim](https://open.spotify.com/track/0x8k5gECEEFCJV5x29S8z3) | [Dakpa Nepali](https://open.spotify.com/artist/6ehZfyyber5F5KyAUtlYob) | [Dakpa Nepali](https://open.spotify.com/album/0Dg7fosaqmafdKYLWiDp0m) | 5:08 | 2022-05-13 | 2022-07-16 |
@@ -83,7 +84,8 @@
 | [Total Zen](https://open.spotify.com/track/7FcouZsGNhXqHaOy4RlkNz) | [The Tibetan Singing Bowls](https://open.spotify.com/artist/4gZYpXjnmCFu1Qzxz947v9) | [Total Zen](https://open.spotify.com/album/44RX9xPZeQxUf4MrpbbYn6) | 2:48 | 2022-05-13 |  |
 | [Transcend](https://open.spotify.com/track/4bbvU1EWM2r6SDKGC6Ql9t) | [Sun Prayers](https://open.spotify.com/artist/5ooYkvBXhXVAVuoTQTTscC) | [Relax in the Sound Bath](https://open.spotify.com/album/0estXKpvmUY8ZZM9yjC8aG) | 6:53 | 2022-05-13 |  |
 | [Two Buddhas](https://open.spotify.com/track/5nswj67iqjMehDWatDDd1v) | [Xumantra](https://open.spotify.com/artist/0VEyOGSIOChZJa2Di3auGm) | [Singing Bowls](https://open.spotify.com/album/15k2UpQBzV2oHMIlYfBAFl) | 5:25 | 2022-05-13 |  |
-| [Universal Energy Healing](https://open.spotify.com/track/4FVqhXsgWPyo3pnl5QtyvB) | [Healing Music Studio](https://open.spotify.com/artist/3slkAZjNjou8jXczSnZ51u), [Meditación Chakra](https://open.spotify.com/artist/623eXZaRv6YsYpILhkDTtT) | [417 Hz Undoing Situations and Facilitating Change](https://open.spotify.com/album/5J4f7lqt7i7dl8cGgM4G2K) | 3:24 | 2022-05-13 |  |
+| [Universal Energy Healing](https://open.spotify.com/track/08GAV65HlXdgVGIrA0JmGM) | [Healing Music Studio](https://open.spotify.com/artist/3slkAZjNjou8jXczSnZ51u) | [417 Hz Undoing Situations and Facilitating Change](https://open.spotify.com/album/5EJ6ANuXXrCXfvUs6QvfqS) | 3:24 | 2022-09-06 |  |
+| [Universal Energy Healing](https://open.spotify.com/track/4FVqhXsgWPyo3pnl5QtyvB) | [Healing Music Studio](https://open.spotify.com/artist/3slkAZjNjou8jXczSnZ51u), [Meditación Chakra](https://open.spotify.com/artist/623eXZaRv6YsYpILhkDTtT) | [417 Hz Undoing Situations and Facilitating Change](https://open.spotify.com/album/5J4f7lqt7i7dl8cGgM4G2K) | 3:24 | 2022-05-13 | 2022-11-05 |
 | [Zen](https://open.spotify.com/track/4bQ3PmIJwDaxbrB2zzI6Wm) | [Tibetan Singing Bowl Sounds](https://open.spotify.com/artist/4JwZIdOOQe0KsFr5AENBUR) | [Chakra Healing Bowls](https://open.spotify.com/album/5mANLf5MKCQpmPinlPPSXG) | 3:13 | 2022-05-13 |  |
 | [Zen Tibetan Singing Bowls III](https://open.spotify.com/track/1t1JpR9dFGkoPaPemHT6My) | [Tibetan Singing Bowl Sounds](https://open.spotify.com/artist/4JwZIdOOQe0KsFr5AENBUR) | [Zen Tibetan Singing Bowls](https://open.spotify.com/album/7fzlNnPVTaxRJSTnoo5UzM) | 4:26 | 2022-07-15 |  |
 | [संस्कृतम्](https://open.spotify.com/track/6EbrUXsMQwQbtPdW9uCDlC) | [Elof Sunflower](https://open.spotify.com/artist/6BncFvDvMh4Z9JZ04ujVpa) | [Mindful Meditation](https://open.spotify.com/album/14NggUSq5mr6Zyo8Wovpw6) | 3:34 | 2022-05-13 |  |

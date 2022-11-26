@@ -4,7 +4,7 @@
 
 > Pushing the boundaries of instrumental Folk and Americana.
 
-72 songs - 4 hr 55 min - [published](https://open.spotify.com/playlist/0aQjrq4EoXUS7jLQajURnf)
+74 songs - 5 hr 4 min - [published](https://open.spotify.com/playlist/0aQjrq4EoXUS7jLQajURnf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Pagoda](https://open.spotify.com/track/0pwMGBX9miS0M5AKWILj23) | [Tomáš Niesner](https://open.spotify.com/artist/2HWIXFTcVPVuXasYaauMlW) | [Aurora](https://open.spotify.com/album/7oUX2Z9Bp6BywRQGVG5wY9) | 4:24 | 2022-02-10 |  |
 | [Paris, Texas](https://open.spotify.com/track/1idiifjTcCoGfBeZiYOdim) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Music by Ry Cooder](https://open.spotify.com/album/0gLaTb6BP8pySUWwkiZjdD) | 2:54 | 2022-02-10 |  |
 | [Rivers That You Cannot See](https://open.spotify.com/track/26bA7q3YUyxrGwftjN1Z7K) | [North Americans](https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S) | [Roped In](https://open.spotify.com/album/2TWvHZBa5cru4yanQijv5I) | 3:55 | 2022-04-22 |  |
+| [Rivers That You Cannot See](https://open.spotify.com/track/3FtbB9OOYaoxnn18aezZRh) | [North Americans](https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S) | [Rivers That You Cannot See](https://open.spotify.com/album/35iioCINJwSsujHf6csIMy) | 3:55 | 2022-09-30 | 2022-11-13 |
 | [Rivers That You Cannot See](https://open.spotify.com/track/1vcUEZRzVuin9vrRimeJh5) | [North Americans](https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S), [Joel Ford](https://open.spotify.com/artist/5XiDsZ4MdTGfZvUEVBGfiA) | [Rivers That You Cannot See](https://open.spotify.com/album/214aKLtpQeQQ4XT13YYGjE) | 3:55 | 2022-02-10 | 2022-07-29 |
 | [Rocks on Rainbow](https://open.spotify.com/track/2tdLYfGjdOdk73VGfLuB7D) | [Ryley Walker](https://open.spotify.com/artist/7xwppARWdjgnJSKLhbGzFc) | [Deafman Glance](https://open.spotify.com/album/3OK32MaMXRDNRgdDzBJikw) | 1:45 | 2022-04-22 |  |
 | [Rocks on Rainbow](https://open.spotify.com/track/3ESUgBQUTOiOGOO8e0fKs4) | [Ryley Walker](https://open.spotify.com/artist/7xwppARWdjgnJSKLhbGzFc) | [Deafman Glance](https://open.spotify.com/album/5JQsspSJeFq8YePC8xLyBt) | 1:45 | 2022-02-10 | 2022-07-29 |
@@ -76,6 +77,7 @@
 | [Twins](https://open.spotify.com/track/0SeCA3vPHuXGP6sizB05ZA) | [Matt Kivel](https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w) | [Days of Being Wild](https://open.spotify.com/album/4OUF3bDg60cOEqlHLsLDA0) | 0:50 | 2022-02-10 |  |
 | [Ugly Orange](https://open.spotify.com/track/4O2JBu39WoNet8tz3xOS2P) | [yes/and](https://open.spotify.com/artist/7IxiRbidPWbGcs1K14lf98) | [Ugly Orange](https://open.spotify.com/album/5nRm1J2j9EqyHZrYVFCnho) | 4:19 | 2022-02-10 |  |
 | [Ursa Major](https://open.spotify.com/track/7jMmgzKA33wNfqwW99it4P) | [SUSS](https://open.spotify.com/artist/3qb5O9pLE0urqttdq4CqLS) | [High Line](https://open.spotify.com/album/4p5LlAKeW83lehTf5sUCUo) | 4:10 | 2022-02-10 |  |
+| [What Does It Matter Now?](https://open.spotify.com/track/4DpNmLojUrA9RqvdGLTr2M) | [Micah P\. Hinson](https://open.spotify.com/artist/6M5FR3JkFFVDkgwtO6Vtz6) | [What Does It Matter Now?](https://open.spotify.com/album/6MoxDbETwqsHJHg0T3GTmR) | 4:35 | 2022-11-18 |  |
 | [What Must Be Done](https://open.spotify.com/track/3buV0hT4g8GOIa8l2OJIJN) | [Nick Cave](https://open.spotify.com/artist/1RM5gp0RFfjpJhCYFPB30p), [Warren Ellis](https://open.spotify.com/artist/0A8tch4LePxVn1Cn60wGXu) | [The Assassination of Jesse James By the Coward Robert Ford](https://open.spotify.com/album/6RzRjlvdLSDwkx8bMHyPLs) | 1:57 | 2022-02-10 |  |
 | [With News About Heaven](https://open.spotify.com/track/5AlvG6En5wNwVQRzxkgXyF) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [New Vanitas](https://open.spotify.com/album/6Y9i01k1rGe69qVjWsGWNM) | 4:31 | 2022-02-10 | 2022-07-29 |
 | [With News About Heaven](https://open.spotify.com/track/74QHxzRk23oaNMsMtOw5GE) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [New Vanitas](https://open.spotify.com/album/5EZWB44UxQvTllmmOvarXw) | 4:31 | 2022-04-22 |  |

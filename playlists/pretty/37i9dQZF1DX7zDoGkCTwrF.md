@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7zDoGkCTwrF.md) - [plain]
 
 > This is Uptown Records\. The essential tracks, all in one playlist\. Rest in peace, Andre O'Neal Harrell!
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,492 likes - 38 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,039 likes - 38 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

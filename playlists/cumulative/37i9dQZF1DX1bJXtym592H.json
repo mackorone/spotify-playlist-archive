@@ -405,6 +405,24 @@
     {
       "album": {
         "name": "Cruisin",
+        "url": "https://open.spotify.com/album/0ElJODIKCD7IMk1qx6g5YD"
+      },
+      "artists": [
+        {
+          "name": "Oilix",
+          "url": "https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Cruisin",
+      "url": "https://open.spotify.com/track/10bEN2SCU2gelIp3UkaVOd"
+    },
+    {
+      "album": {
+        "name": "Cruisin",
         "url": "https://open.spotify.com/album/01DGzYPUkJ7cN7ek3GlGEV"
       },
       "artists": [
@@ -415,7 +433,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 171000,
       "name": "Cruisin",
       "url": "https://open.spotify.com/track/5mvrMYNZvxj7GPcS66XemB"
@@ -895,6 +913,24 @@
     {
       "album": {
         "name": "la donna e la chitarra",
+        "url": "https://open.spotify.com/album/7nYLq5Mq6zbO4Zuzdxy7Ka"
+      },
+      "artists": [
+        {
+          "name": "Wun Two",
+          "url": "https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105205,
+      "name": "la donna e la chitarra",
+      "url": "https://open.spotify.com/track/06F8Fnl3zIJ8Fy4IlKJSz3"
+    },
+    {
+      "album": {
+        "name": "la donna e la chitarra",
         "url": "https://open.spotify.com/album/6soofQydUlYQbMl16Mbs2f"
       },
       "artists": [
@@ -905,7 +941,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 105205,
       "name": "la donna e la chitarra",
       "url": "https://open.spotify.com/track/5goDbdYkF4ogWljlBSqoKb"
@@ -1145,6 +1181,24 @@
     {
       "album": {
         "name": "Morning Vibes",
+        "url": "https://open.spotify.com/album/7qVtOLDgRzWmoI1bMW9SXl"
+      },
+      "artists": [
+        {
+          "name": "IDO 33",
+          "url": "https://open.spotify.com/artist/4vDjHVL28P9aMvDUEKa0yu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Morning Vibes",
+      "url": "https://open.spotify.com/track/0Dwo6odrEUVCNcm8IJFd5g"
+    },
+    {
+      "album": {
+        "name": "Morning Vibes",
         "url": "https://open.spotify.com/album/6eWlDdvNbecQdDL3tabfOw"
       },
       "artists": [
@@ -1155,7 +1209,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 155000,
       "name": "Morning Vibes",
       "url": "https://open.spotify.com/track/141d6il0lGRRMlmLuZ5GSz"
@@ -1545,6 +1599,28 @@
     {
       "album": {
         "name": "Akademgorodok",
+        "url": "https://open.spotify.com/album/4hxiBnBum1xzbW8e1hgo1L"
+      },
+      "artists": [
+        {
+          "name": "Oilix",
+          "url": "https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x"
+        },
+        {
+          "name": "Nokimo",
+          "url": "https://open.spotify.com/artist/2fjTdMf7j8dewPfWXh2Thq"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128780,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/1DdN2w9ykZw1Pc6ig5DV8f"
+    },
+    {
+      "album": {
+        "name": "Akademgorodok",
         "url": "https://open.spotify.com/album/3fhdj1IZa6mTiPQbQzKoBy"
       },
       "artists": [
@@ -1559,7 +1635,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 128780,
       "name": "Rain",
       "url": "https://open.spotify.com/track/6Qo9rLlkAnaPSYzljIFeJ8"

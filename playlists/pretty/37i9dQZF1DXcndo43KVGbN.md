@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcndo43KVGbN.md) - [plain]
 
 > The harmony between beautiful Ambient and tape manipulation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,248 likes - 101 songs - 9 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,625 likes - 101 songs - 9 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcndo43KVGbN.md) - [plain]
 | 46 | [Great Lakes](https://open.spotify.com/track/5TRO29klRrOunwmiU6ej6k) | [Sailcloth](https://open.spotify.com/artist/3LMjQj2ObPaIwoyX3I9DJL) | [Great Lakes](https://open.spotify.com/album/1ypubdMSYePWglqnZULrCm) | 2:53 |
 | 47 | [The Edges](https://open.spotify.com/track/2x4K92FhxeJAmTiptxMijO) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [Our Hands Against the Dusk](https://open.spotify.com/album/0m89bXpdmBFJzyIA4j6ZWH) | 5:07 |
 | 48 | [Siblings](https://open.spotify.com/track/3ExkbOfWgrL78xCyTOTeJT) | [Tomat](https://open.spotify.com/artist/7Ck8FJaW9VeG2SpWuhvOsa) | [Diistemi](https://open.spotify.com/album/3CKzdrXuBAPfQgUU3uYqr5) | 2:57 |
-| 49 | [capitOl pt\. 2](https://open.spotify.com/track/4pzTjCyzDTCJHwqg8GIQCo) | [Brady Cohan](https://open.spotify.com/artist/6HLiUGOcX8sVjmmxuEeCi6) | [Studies, Vol\. 2](https://open.spotify.com/album/2hJSbSTpW1GwZRciuKTIGK) | 6:21 |
+| 49 | [capitOl pt\. 2](https://open.spotify.com/track/6MId6n0sbFkOLAxTz7r5oy) | [Brady Cohan](https://open.spotify.com/artist/6HLiUGOcX8sVjmmxuEeCi6) | [Studies, Vol\. 2](https://open.spotify.com/album/0yHDNx4hs4hd09YfpyEetZ) | 6:21 |
 | 50 | [Moiré \- Piano & Organ](https://open.spotify.com/track/0R6sHxjN04nAgEW0jgqLbU) | [Jan Jelinek](https://open.spotify.com/artist/6Bpr6Jvb2Ic7WlzPD9EPJT) | [Loop\-Finding\-Jazz\-Records](https://open.spotify.com/album/6UK4EMYa7by9xwU4eeAoE4) | 6:54 |
 | 51 | [Capable](https://open.spotify.com/track/0VseOhxcpj5FZmX6PvJGFu) | [The Arteries of New York City](https://open.spotify.com/artist/1WplPnixjEsV4JmRmBl72V), [The Last Dinosaur](https://open.spotify.com/artist/69sFt37arbuC0hGSFAoWqZ), [Alex Kozobolis](https://open.spotify.com/artist/6fsUe68biDsnK9f8G41rNO) | [Capable](https://open.spotify.com/album/4xtpYNmgwfmQ27W5Go8Eve) | 2:39 |
 | 52 | [Ruby Lights](https://open.spotify.com/track/6kOgyouykoatyTDUUHqkeb) | [Vanity Productions](https://open.spotify.com/artist/05mBiI86tCefGxbtQZnnDI) | [Eyes Like Angels](https://open.spotify.com/album/3peNyjBArdVRwfMNCY5UOP) | 6:39 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcndo43KVGbN.md) - [plain]
 | 100 | [Kogarashi, Postcard Five](https://open.spotify.com/track/4joej1hfb433p1mgpNQFdd) | [Carlos Ferreira](https://open.spotify.com/artist/7J6KXAg6cV2B2BKGYZJhEB) | [Six Postcards & Other Stories](https://open.spotify.com/album/3Q4Mj2ui2oGXdZPMiylMY3) | 7:25 |
 | 101 | [Champagne Smoke](https://open.spotify.com/track/0gzwDzpe5eoD1lwJdTPeU4) | [Lisa Lerkenfeldt](https://open.spotify.com/artist/3famB97koyRfo502IWQjFL) | [Collagen](https://open.spotify.com/album/5DCzCJxAkCrd011i8CgZgx) | 4:28 |
 
-Snapshot ID: `MTY2NDg5NDY0OSwwMDAwMDAwMDMwNmNjYjQ5MTlhYmYyOGM1ZTdkZjc4ODQyNzE5ZDVm`
+Snapshot ID: `MTY2NDg5NDY0OSwwMDAwMDAwMDgxYzZjNjUxMDJlNWFlNTIyZWVlYjZkMGZmMjIxNmYy`

@@ -4,7 +4,7 @@
 
 > Help your baby drift off to sleep with this soothing playlist of Disney favorites, including Frozen 2.
 
-177 songs - 8 hr 38 min - [published](https://open.spotify.com/playlist/5JyRbd7E5Uxc95UIUxdfrc)
+178 songs - 8 hr 39 min - [published](https://open.spotify.com/playlist/5JyRbd7E5Uxc95UIUxdfrc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Man or Muppet](https://open.spotify.com/track/1w18QEME2WDke5CCiI0Pws) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Break Time](https://open.spotify.com/album/3bpgROclnnWm7clCFgmweI) | 2:46 | 2022-04-15 |  |
 | [Man or Muppet](https://open.spotify.com/track/0MYd36Y7EsybTbufyNRKAn) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Blissful](https://open.spotify.com/album/6Pgzg6yw1ULylVOaPXzAiK) | 3:14 | 2022-04-15 |  |
 | [Meg's Garden](https://open.spotify.com/track/1OkdPo7U61GS697VFzmXTI) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ) | [Hercules \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7z46fPkl9344yv05HT1Uoq) | 1:14 | 2022-04-15 | 2022-07-29 |
+| [Meg's Garden](https://open.spotify.com/track/1xzhwKbHLhOLwCzIyZnJyW) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Hercules \(Original Motion Picture Soundtrack/Japanese Version\)](https://open.spotify.com/album/7EmZAi08IILcveityNOOg7) | 1:12 | 2022-08-16 | 2022-11-13 |
 | [Meg's Garden](https://open.spotify.com/track/3CZ6dewgB5uzSfIgj05xe8) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Hercules \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1wbY6VUchNsZLaDi22eD3J) | 1:14 | 2022-06-28 |  |
 | [Mickey Mouse Clubhouse Theme](https://open.spotify.com/track/6PsshaEg0aa2OgB4xiD01b) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music: Lullabies Vol\. 1](https://open.spotify.com/album/6CPPr8LjolXUFAiEMiLQgb) | 1:25 | 2022-04-15 |  |
 | [Muppet Babies Theme 2018](https://open.spotify.com/track/2nvNhtBQmzW1SfclVIsvqG) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music: Lullabies Vol\. 1](https://open.spotify.com/album/6CPPr8LjolXUFAiEMiLQgb) | 1:26 | 2022-04-15 |  |

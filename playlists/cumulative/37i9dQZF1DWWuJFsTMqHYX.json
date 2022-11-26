@@ -192,6 +192,24 @@
     },
     {
       "album": {
+        "name": "Arghane Manine",
+        "url": "https://open.spotify.com/album/6x5dQHzmvNohax3P2kqLHP"
+      },
+      "artists": [
+        {
+          "name": "Tinariwen",
+          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300186,
+      "name": "Arghane Manine",
+      "url": "https://open.spotify.com/track/1WiTAUE8gMPKRTuE4zt4vc"
+    },
+    {
+      "album": {
         "name": "El Aaiun Egdat",
         "url": "https://open.spotify.com/album/1M46BfgAnMu8p5P8DjUQ1p"
       },
@@ -914,6 +932,24 @@
     },
     {
       "album": {
+        "name": "Mariama",
+        "url": "https://open.spotify.com/album/0Byaou7HBAyyOsoSGpp2hI"
+      },
+      "artists": [
+        {
+          "name": "Boubacar Traor\u00e9",
+          "url": "https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338933,
+      "name": "Mariama Kaba",
+      "url": "https://open.spotify.com/track/5bnDe8MjKs8mQnNTXq2yNJ"
+    },
+    {
+      "album": {
         "name": "The Sahara Sessions",
         "url": "https://open.spotify.com/album/0z8AQ0l95AM4DzQDBJLTzX"
       },
@@ -1027,6 +1063,28 @@
       "duration_ms": 498971,
       "name": "Mimoun Marhaba",
       "url": "https://open.spotify.com/track/68tS8zt1kpPHxunJ7Xq4PI"
+    },
+    {
+      "album": {
+        "name": "Sequana",
+        "url": "https://open.spotify.com/album/64Uwr6ZmYrBNABToF47PRN"
+      },
+      "artists": [
+        {
+          "name": "Souad Massi",
+          "url": "https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k"
+        },
+        {
+          "name": "Piers Faccini",
+          "url": "https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257972,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/3b45LikcYpvV5YQE4XcnZI"
     },
     {
       "album": {
@@ -1167,7 +1225,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 212306,
       "name": "Soubour",
       "url": "https://open.spotify.com/track/6myCSm2QEXMrgtUxVN313f"
@@ -1221,7 +1279,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 250453,
       "name": "Taguebarbt",
       "url": "https://open.spotify.com/track/3Z0pzENlADpDPqWW4Lb2Kw"
@@ -1347,7 +1405,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-10-26",
       "duration_ms": 224400,
       "name": "Tiw\u00e0yyen",
       "url": "https://open.spotify.com/track/30A3vEsySPkeXzXeMITvwE"
@@ -1463,7 +1521,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 225651,
       "name": "Zalina",
       "url": "https://open.spotify.com/track/7LFTVgFCNdNghawWIfN3OX"

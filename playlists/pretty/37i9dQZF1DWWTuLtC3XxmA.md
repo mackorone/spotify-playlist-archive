@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTuLtC3XxmA.md) - [plain]
 
 > A collection of traditional carols and new classics by the biggest, brightest stars! Cover: Kristin Chenoweth
 
-[Spotify](https://open.spotify.com/user/spotify) - 63 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 107 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTuLtC3XxmA.md) - [plain]
 | 76 | [I Saw Three Ships](https://open.spotify.com/track/53i5I7QLle3nFjp4VNCiqU) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [A Very Special Christmas 3](https://open.spotify.com/album/1Esu95dAPjDnjQi9KrlQ45) | 1:43 |
 | 77 | [Peace \- First Sessions Demo](https://open.spotify.com/track/2FJKQdIBrHf89QIrPuSmoo) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:51 |
 | 78 | [Grown\-Up Christmas List](https://open.spotify.com/track/0WM8eYITp3QsohsYwwn4ME) | [David Foster](https://open.spotify.com/artist/0SgQK24WzZf2pXBXYqHJYF) | [River Of Love](https://open.spotify.com/album/6OYoB8jXriChJIhleVc3Yl) | 3:33 |
-| 79 | [That Spirit of Christmas](https://open.spotify.com/track/13lde8UEEgE4GRTagH2paS) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Today Is Christmas](https://open.spotify.com/album/2P4jHpHDEBsvnHN1htI824) | 4:52 |
+| 79 | [That Spirit of Christmas](https://open.spotify.com/track/5qCRwHgVObT892gl0hH0Kj) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Today Is Christmas](https://open.spotify.com/album/4p1Qw5G8LHuiV7Iz1cAyAj) | 4:52 |
 | 80 | [Merry Christmas](https://open.spotify.com/track/6B8tOwbbbvRkGBrFw2PJB1) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Merry Christmas](https://open.spotify.com/album/4e4Amgi25FhDCFIYhbyuEh) | 2:30 |
 | 81 | [Please Come Home for Christmas \- 2013 Remaster](https://open.spotify.com/track/60e4x4V1ElCjukbAteZdZn) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Very Best of the Eagles \(2013 Remaster\)](https://open.spotify.com/album/5J0VCIp4TTsZBKOqWdbBSa) | 2:57 |
 | 82 | [Christmas All Over Again](https://open.spotify.com/track/30SNjazZhzunhAWCjhdyyD) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [A Very Special Christmas 2](https://open.spotify.com/album/2GNgVTfKQEKi4k5RMjoQkM) | 4:14 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTuLtC3XxmA.md) - [plain]
 | 92 | [Jingle Bell Rock \- Daryl's Version](https://open.spotify.com/track/2qeBRZ9HYNz6W6XfeZJ5Jn) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Coming Home For Christmas](https://open.spotify.com/album/4aC3n1XklqpPvyr2A1Qwsz) | 2:04 |
 | 93 | [Little Drummer Boy](https://open.spotify.com/track/38NX2vnOMxwn9ZXIVY0WHU) | [Sister Hazel](https://open.spotify.com/artist/7m60UAnbgFFNuJbmS6OxTk) | [Santa's Playlist](https://open.spotify.com/album/3Usi3cuKzn3AGmUU3Um3Wx) | 3:30 |
 | 94 | [Home for the Holidays](https://open.spotify.com/track/1UaJU1iRJoH32kAIUZouOi) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Home for the Holidays](https://open.spotify.com/album/7xZ62z1tAPB4pNcPM9CqIw) | 3:04 |
-| 95 | [I Saw Three Ships](https://open.spotify.com/track/6VzAK6UZ7kjw8KssxOMwzP) | [Perrin Lamb](https://open.spotify.com/artist/7CfcrGoabPfkAToFD8oBF3) | [Sorted Noise Records: A Holiday Album, Vol\. 2](https://open.spotify.com/album/18GWTfG4zqCiTR3mxtDwqY) | 3:12 |
+| 95 | [I Saw Three Ships](https://open.spotify.com/track/3A6vKBC4EV4LKOY8QKgUtP) | [Perrin Lamb](https://open.spotify.com/artist/7CfcrGoabPfkAToFD8oBF3) | [Sorted Noise Records: A Holiday Album, Vol\. 2](https://open.spotify.com/album/5Mj8SnxH6mYUdEIV7w6sbT) | 3:12 |
 | 96 | [Grown\-Up Christmas List \(feat\. Kelly Clarkson\)](https://open.spotify.com/track/47qXmZMqUZDXSnP5zONlwY) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Christmas Is Here!](https://open.spotify.com/album/6thZNGX8hUVSjUrqJgPB9b) | 4:41 |
 | 97 | [Oh Holy Night](https://open.spotify.com/track/0WILpCr7gw89SERgM2Vr41) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [A Very Special Christmas 25th Anniversary](https://open.spotify.com/album/4hj1YWhD0NfnO22F8rm21b) | 4:50 |
 | 98 | [Who Comes This Night](https://open.spotify.com/track/3aO9lZalu1G9br6g1VsPPd) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [James Taylor At Christmas \(Bonus Track Version\)](https://open.spotify.com/album/0K3xxBQ1IdjrGGo9qhLIwf) | 4:11 |
 | 99 | [Merry Christmas Baby](https://open.spotify.com/track/2AazSmeOckrWcJjbeGSlJx) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [A Neighborly Christmas](https://open.spotify.com/album/0ajvkNhkYG7yGdq0iQP4Z2) | 3:22 |
 | 100 | [I'll Be Home For Christmas](https://open.spotify.com/track/4riPMXBJX7DLcuxuGtTMGm) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Home For Christmas](https://open.spotify.com/album/4knfTM4vliB04OibXqaRnK) | 3:40 |
 
-Snapshot ID: `MTY2NDIwMzU4MywwMDAwMDAwMGQzZWVjNTIwNTEwOGE2Yjg1MjBiNmRmYmM5MjM2MzNh`
+Snapshot ID: `MTY2NDIwMzU4MywwMDAwMDAwMDY5NThkYzE2ZmMzMTdiZGIzM2ZjYjM3MDY0MDlhNjg2`

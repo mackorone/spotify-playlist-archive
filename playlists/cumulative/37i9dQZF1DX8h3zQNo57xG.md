@@ -4,7 +4,7 @@
 
 > Put yourself to sleep with delta frequencies.
 
-103 songs - 5 hr 37 min - [published](https://open.spotify.com/playlist/4S2R2HqBmqVbrqPIypTgWG)
+104 songs - 5 hr 41 min - [published](https://open.spotify.com/playlist/4S2R2HqBmqVbrqPIypTgWG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Delta Sinus 160 Hz \- L 161 Hz \- R \- Drone](https://open.spotify.com/track/7jQiYVASBtUmgD7zN2wQhk) | [Back 2 Sleep](https://open.spotify.com/artist/1mbXts9rQTQvSfO4wN6HiY) | [Delta Brainwaves For Deep Sleep](https://open.spotify.com/album/2T3TcvujzYCxkqwxhJkAL6) | 3:30 | 2021-12-22 |  |
 | [Delta Sinus 160 Hz \- L 165 Hz \- R \- Drone](https://open.spotify.com/track/69V8WWWQCX7aFd2uVWml3x) | [Back 2 Sleep](https://open.spotify.com/artist/1mbXts9rQTQvSfO4wN6HiY) | [Delta Brainwaves For Deep Sleep](https://open.spotify.com/album/2T3TcvujzYCxkqwxhJkAL6) | 3:33 | 2021-12-22 |  |
 | [Delta Sinus Noise Pad](https://open.spotify.com/track/7sKPbqAPAP4llKXGEXqCaH) | [Wiser Noise](https://open.spotify.com/artist/0AVjqSe7ExlC8YpGYMXVfn) | [Delta Sinus Noise Pad](https://open.spotify.com/album/4tpiv36su2Y9b9BPAJgPNH) | 2:04 | 2021-12-22 |  |
+| [Delta Sleep \(110Hz \- 112Hz\)](https://open.spotify.com/track/5II3JR3SauFzQbO16esuSp) | [8D Spheres](https://open.spotify.com/artist/6PQZnRaF4PpSSUryfJMQjf) | [Delta Sleep \(110Hz \- 112Hz\)](https://open.spotify.com/album/7EYzYzLZqLROiMFk6DoOj3) | 3:31 | 2022-11-23 |  |
 | [Delta Sleep \(Binaural 277hz/280hz\)](https://open.spotify.com/track/2BS1ddzTY1BI0DqiGkXgt6) | [Binaural Astro Lab](https://open.spotify.com/artist/3m4WGElodCVhxTVNuIjbWY) | [Delta Sleep \(Binaural 277hz/280hz\)](https://open.spotify.com/album/0p0QgKOab4ZHTTrpjIGGMJ) | 2:22 | 2022-08-22 |  |
 | [Delta Sleep 1.2Hz Binaural 79.5Hz \- 80.7Hz](https://open.spotify.com/track/0upYBpSKHQWFVNNLZRWaL7) | [Triangular Prism III](https://open.spotify.com/artist/0SxMFbx9jy8q9pGSJoopmf) | [Delta Sleep 1.2Hz Binaural 79.5Hz \- 80.7Hz](https://open.spotify.com/album/5PC8Ju5jmPyCHLECu338k8) | 3:22 | 2022-08-22 |  |
 | [Delta Texture](https://open.spotify.com/track/6mOIw0WpfWuPck0t9fxNsn) | [DreamDeeper](https://open.spotify.com/artist/5OyM0rVbelDv6mU0FEjdNL) | [Textures](https://open.spotify.com/album/3vIYI9geHSqDN9LkIvXXuk) | 3:27 | 2021-12-22 |  |

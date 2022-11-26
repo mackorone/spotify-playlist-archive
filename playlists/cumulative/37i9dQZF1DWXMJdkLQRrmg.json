@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-14",
+      "date_removed": "2022-11-14",
       "duration_ms": 201186,
       "name": "Behind Your Walls - Acoustic",
       "url": "https://open.spotify.com/track/6j64GT8KPQE1AaLkjXNyMV"
@@ -351,7 +351,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 198400,
       "name": "Elderly Woman Behind the Counter in a Small Town - Acoustic Version",
       "url": "https://open.spotify.com/track/4vTMqyyH2X6Te9BWrgmLIp"
@@ -823,7 +823,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-13",
+      "date_removed": "2022-11-13",
       "duration_ms": 259188,
       "name": "Like A Stone (feat. Tom Morello) - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/6bbEWtu7bQtl5a5cZStE0z"
@@ -1486,6 +1486,24 @@
     },
     {
       "album": {
+        "name": "MTV Unplugged In New York (25th Anniversary)",
+        "url": "https://open.spotify.com/album/1tsNAUQqofHrnlezRK8D5R"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 306000,
+      "name": "Where Did You Sleep Last Night - Live Version",
+      "url": "https://open.spotify.com/track/5M1CMZk3IExKHH4Pz7WjtI"
+    },
+    {
+      "album": {
         "name": "Come What(ever) May [Special Edition]",
         "url": "https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV"
       },
@@ -1497,7 +1515,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 267253,
       "name": "Wicked Game - Acoustic; Live",
       "url": "https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4"
@@ -1519,6 +1537,24 @@
       "duration_ms": 347493,
       "name": "Wild Horses - Acoustic Version",
       "url": "https://open.spotify.com/track/1ufaNhO1DPlSiynfO2OtIj"
+    },
+    {
+      "album": {
+        "name": "Sticky Fingers (Super Deluxe)",
+        "url": "https://open.spotify.com/album/0ucOpNNckY0op5B1yfW6pv"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 347493,
+      "name": "Wild Horses - Acoustic Version",
+      "url": "https://open.spotify.com/track/3PNiuskxaIowPmVDAKr8mU"
     },
     {
       "album": {

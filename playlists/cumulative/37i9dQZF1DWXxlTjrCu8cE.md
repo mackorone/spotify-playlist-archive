@@ -4,7 +4,7 @@
 
 > A Luiza preparou uma playlist especial pro momento de autocuidado <3
 
-91 songs - 5 hr 0 min - [published](https://open.spotify.com/playlist/41vYaKONxsf6dvUNFH56lw)
+94 songs - 5 hr 11 min - [published](https://open.spotify.com/playlist/41vYaKONxsf6dvUNFH56lw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Ambrosia](https://open.spotify.com/track/5C9hTtQ6BAqwGu5T1bmRK4) | [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA), [Kiana V](https://open.spotify.com/artist/1DZGAZcaTA32eLJELEsjXY), [SATICA](https://open.spotify.com/artist/1cD70wZHi8HMyLYVDSV9We) | [Ambrosia](https://open.spotify.com/album/3PFgFl8LOB10P0zx6B1Ywe) | 3:23 | 2022-05-30 |  |
 | [angel](https://open.spotify.com/track/5exEU6LbxN4T4sY1nV5NfV) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [TO FEEL ALIVE EP](https://open.spotify.com/album/2qn5Z50z9x2qAIyWV5lt9E) | 2:23 | 2021-11-30 | 2022-05-31 |
 | [Anything](https://open.spotify.com/track/0336UwEBwBBao8uWCuugYr) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 2:29 | 2022-05-30 |  |
-| [Aye Yai Yai \(with Yung Bleu\)](https://open.spotify.com/track/2QODQZUTSvhdAdXvQO418e) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [BLEU](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Trendsetter](https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx) | 3:03 | 2022-05-30 |  |
+| [Aye Yai Yai \(with Yung Bleu\)](https://open.spotify.com/track/2QODQZUTSvhdAdXvQO418e) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Trendsetter](https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx) | 3:03 | 2022-05-30 |  |
 | [Bad Girls](https://open.spotify.com/track/6nzXkCBOhb2mxctNihOqbb) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Matangi](https://open.spotify.com/album/3dAxXNscIj0p53lBMEziYR) | 3:47 | 2022-05-30 |  |
 | [Be Natural](https://open.spotify.com/track/41qLzxymjkp0R5vl3REb1S) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM), [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm) | [Be Natural \- The 2nd Single](https://open.spotify.com/album/4OeQ9nilS4Sy3efzt0hVFi) | 4:40 | 2022-05-30 |  |
 | [Best Part \(feat\. H.E.R.\)](https://open.spotify.com/track/4OBZT9EnhYIV17t4pGw7ig) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [H.E.R.](https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY) | 3:29 | 2022-05-30 |  |
@@ -49,7 +49,9 @@
 | [Good Days](https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Good Days](https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7) | 4:39 | 2021-11-30 | 2022-05-31 |
 | [Good In Bed](https://open.spotify.com/track/6uAFJ75WDAoAPyCWJAtvks) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:38 | 2021-11-30 | 2022-05-31 |
 | [Green Eggs & Ham](https://open.spotify.com/track/5J9SUxDPv2nYyWQy0BfnAA) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Everything is Beautiful](https://open.spotify.com/album/53uhBqvPad79nqxsGmVyiv) | 1:46 | 2021-11-30 | 2022-05-31 |
+| [Hey Now \(Girls Just Want to Have Fun\)](https://open.spotify.com/track/6OFB0ggdNof1Eih8ln8bM5) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [To Wong Foo, Thanks For Everything, Julie Newmar](https://open.spotify.com/album/0Q6zcL0hk3K4shD1g4JOtA) | 3:41 | 2022-05-30 | 2022-11-13 |
 | [Honey](https://open.spotify.com/track/5QTdOvIF2ehBMZpSIIGzIo) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Honey](https://open.spotify.com/album/2D37uNhXgherfImusGBKTx) | 3:19 | 2022-05-30 |  |
+| [I Don't Want It At All](https://open.spotify.com/track/3NnXeidvZtBnJHGgVA82aQ) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Kiss Me](https://open.spotify.com/album/4GVfR3RWeSfO5AHkYCcTSW) | 4:10 | 2022-05-30 | 2022-11-13 |
 | [I Don't Want It At All](https://open.spotify.com/track/4qexD6ObR5nzpFJNpvQxIr) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [I Don't Want It At All](https://open.spotify.com/album/6rx35EFa5H8vMAlva3T95C) | 4:10 | 2022-05-30 | 2022-07-29 |
 | [I Don't Want It At All](https://open.spotify.com/track/4xhYxKvAxtrRd83MiqOy29) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [I Don't Want It At All](https://open.spotify.com/album/6TreAlV1VSMi8UmHl7byC4) | 4:10 | 2022-05-30 |  |
 | [I Forgot That You Existed](https://open.spotify.com/track/43rA71bccXFGD4C8GOpIlN) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:50 | 2021-11-30 | 2022-05-31 |
@@ -66,6 +68,7 @@
 | [Missed Calls \(feat\. Hayley Kiyoko\)](https://open.spotify.com/track/7oFpSsfjl8ElUesHJPT8Cv) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Missed Calls \(feat\. Hayley Kiyoko\)](https://open.spotify.com/album/3tZEt4VTy1IzCDZpX5XXoI) | 2:34 | 2021-11-30 | 2022-05-31 |
 | [Morning Glory](https://open.spotify.com/track/0kas95RruYRVqrOb07rgkh) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [While We Wait](https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW) | 2:59 | 2022-05-30 |  |
 | [my hair](https://open.spotify.com/track/6u7gmPOz7pzzaeR9xSBpsR) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 2:38 | 2021-11-30 | 2022-05-31 |
+| [Naked](https://open.spotify.com/track/3OXZCsiRD4QdLIpavbBBGX) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Tomando aire](https://open.spotify.com/album/45YfDCDKgKlBeAA0VIDLIT) | 3:17 | 2022-05-30 | 2022-11-13 |
 | [Naked](https://open.spotify.com/track/4E3FwGMzfnpG5TScXYUiaZ) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Naked](https://open.spotify.com/album/7eya0F4XVH0Te1lBMYeXch) | 3:17 | 2022-05-30 | 2022-07-29 |
 | [Naked \- Bonus Track](https://open.spotify.com/track/0SbOpoBzBBCqWIcvo94JeD) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Ella Mai](https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0) | 3:17 | 2022-05-30 |  |
 | [Naughty](https://open.spotify.com/track/0P8lbWigAHXPKxUG60xh79) | [Red Velvet \- IRENE & SEULGI](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl) | [Naughty](https://open.spotify.com/album/2lkUE2gkw5sX0fGzZZCs0N) | 3:18 | 2022-05-30 |  |

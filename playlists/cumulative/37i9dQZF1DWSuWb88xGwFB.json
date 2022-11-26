@@ -599,6 +599,10 @@
           "url": "https://open.spotify.com/artist/5jECo0kFu5FyMq8Rxx3XMN"
         },
         {
+          "name": "Tara Mcdonald",
+          "url": "https://open.spotify.com/artist/2yWER4vAftcZCFPc7ednct"
+        },
+        {
           "name": "Kenny Dope",
           "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
         },
@@ -609,10 +613,6 @@
         {
           "name": "Terry Hunter",
           "url": "https://open.spotify.com/artist/7BFWNTcqqibf1TP0hAHSdu"
-        },
-        {
-          "name": "Tara Mcdonald",
-          "url": "https://open.spotify.com/artist/2yWER4vAftcZCFPc7ednct"
         }
       ],
       "date_added": "2022-03-03",
@@ -689,7 +689,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 258906,
       "name": "Give It All To You - 92 Remix",
       "url": "https://open.spotify.com/track/49RSvh6silwveTzfQwSbLj"
@@ -1159,7 +1159,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-29",
+      "date_removed": "2022-11-14",
       "duration_ms": 417466,
       "name": "Let's Groove",
       "url": "https://open.spotify.com/track/2amYO9uSLjsHfLSUZVh5Wq"
@@ -1235,6 +1235,28 @@
       "duration_ms": 406131,
       "name": "Love Trax - Love Izz",
       "url": "https://open.spotify.com/track/6Aiahrv9IoKgTb7OqOaqp5"
+    },
+    {
+      "album": {
+        "name": "Strictly Rhythm The Definitive 30",
+        "url": "https://open.spotify.com/album/1hs7oHuZlbzkFQFCUjU5sa"
+      },
+      "artists": [
+        {
+          "name": "Underground Solution",
+          "url": "https://open.spotify.com/artist/5npk2VWFPRppHeqXqQVFw8"
+        },
+        {
+          "name": "Jasmine",
+          "url": "https://open.spotify.com/artist/57m79UlpS9CrJrmwBOTGWB"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 497665,
+      "name": "Luv Dancin' (feat. Jasmine) - In Deep Mix",
+      "url": "https://open.spotify.com/track/7w1gzwvOC3ZAXWPKCrd5CO"
     },
     {
       "album": {
@@ -1405,7 +1427,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": "2022-11-13",
       "duration_ms": 342621,
       "name": "My People - My People Mix",
       "url": "https://open.spotify.com/track/0Wf3Ko5HwW390Y08KWh90L"
@@ -1459,7 +1481,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-09",
+      "date_removed": "2022-11-13",
       "duration_ms": 856038,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/50KrhiQqf9YSFI9qms1Bbf"
@@ -1499,6 +1521,24 @@
       "duration_ms": 472043,
       "name": "Reach - Little \"More\" Mix",
       "url": "https://open.spotify.com/track/0Vz1JPyRqJu4JFpJB6Ygm4"
+    },
+    {
+      "album": {
+        "name": "Reach (The Ultimate Remixes)",
+        "url": "https://open.spotify.com/album/1RaWr3vlHNnFsVqBS9Wanx"
+      },
+      "artists": [
+        {
+          "name": "Lil' Mo' Yin Yang",
+          "url": "https://open.spotify.com/artist/631eaalga2JEGnouXxVkYT"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 472453,
+      "name": "Reach - Little \"More\" Mix",
+      "url": "https://open.spotify.com/track/4nLBwHxRIcNIwqCXEL8wOE"
     },
     {
       "album": {
@@ -1937,7 +1977,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": "2022-11-13",
       "duration_ms": 554971,
       "name": "The Sound - The Studio 54 Mix",
       "url": "https://open.spotify.com/track/3NYlKhLDWNe99VXWspYFIO"
@@ -2103,7 +2143,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-07",
+      "date_removed": "2022-11-13",
       "duration_ms": 334220,
       "name": "We Can Make It - The 'I Believe' Dub",
       "url": "https://open.spotify.com/track/01kNH1gcD00UXdzroGFOxg"

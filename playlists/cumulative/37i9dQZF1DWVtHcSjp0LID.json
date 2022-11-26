@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-26",
       "duration_ms": 381406,
       "name": "Ars Vivendi",
       "url": "https://open.spotify.com/track/6KQesAONxYMlSrcmapTqDm"
@@ -561,7 +561,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 423586,
       "name": "Clock",
       "url": "https://open.spotify.com/track/6N6jCOPR4kEczFBMrgun5A"
@@ -659,7 +659,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 406000,
       "name": "Confiscate - Drumcomplex Remix",
       "url": "https://open.spotify.com/track/4DbaGKcHx7WHdgHwTsNQ8P"
@@ -771,7 +771,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 381453,
       "name": "Deep Blues - Session Victim Remix",
       "url": "https://open.spotify.com/track/3IRF31C4uQOiT9oqEE8UjX"
@@ -879,10 +879,28 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-22",
       "duration_ms": 345387,
       "name": "Epoch",
       "url": "https://open.spotify.com/track/18xvedQqps2lWmU3PKsBoY"
+    },
+    {
+      "album": {
+        "name": "Epoch (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1aiREFtQHpZTglHRw9r1xg"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345387,
+      "name": "Epoch",
+      "url": "https://open.spotify.com/track/2NUiXYNB58RqRvETWEjJp7"
     },
     {
       "album": {
@@ -915,7 +933,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 478373,
       "name": "Everything",
       "url": "https://open.spotify.com/track/0UYh6IZU6VI8xTvupNWdWh"
@@ -1067,7 +1085,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 401084,
       "name": "Godt Begyndt",
       "url": "https://open.spotify.com/track/2g7kwYBHS4lQ7ZBeFVOFSD"
@@ -1925,7 +1943,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 439160,
       "name": "Rebirth",
       "url": "https://open.spotify.com/track/4appx9msZbhhFpSrKOlVz1"
@@ -1965,6 +1983,24 @@
       "duration_ms": 295049,
       "name": "Red Giant",
       "url": "https://open.spotify.com/track/5V4fxT6U5kOuERIJM7Atgk"
+    },
+    {
+      "album": {
+        "name": "Patterns & Light",
+        "url": "https://open.spotify.com/album/77W2sLDuzAH07zhYpx0AQ5"
+      },
+      "artists": [
+        {
+          "name": "Kodomo",
+          "url": "https://open.spotify.com/artist/57BliIwnAIqKeI4dbAWwaU"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295049,
+      "name": "Red Giant",
+      "url": "https://open.spotify.com/track/66qXeOxetftqPPJSOznljQ"
     },
     {
       "album": {
@@ -2225,7 +2261,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": null,
       "duration_ms": 391680,
       "name": "Take Your Place",
       "url": "https://open.spotify.com/track/0za5G50kbPJNA8wyqodYWT"
@@ -2261,7 +2297,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-18",
+      "date_removed": null,
       "duration_ms": 397894,
       "name": "The Ganga river unpolluted once more",
       "url": "https://open.spotify.com/track/4eFT4z7SXuDNzU9erIH9Ki"
@@ -2507,7 +2543,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 308576,
       "name": "VIEW FROM MY BALCONY AT NIGHT",
       "url": "https://open.spotify.com/track/5wOcV21lFPwIL8XbpWy6WF"

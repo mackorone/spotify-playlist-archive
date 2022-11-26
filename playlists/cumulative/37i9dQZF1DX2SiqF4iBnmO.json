@@ -210,6 +210,28 @@
     },
     {
       "album": {
+        "name": "The Hits",
+        "url": "https://open.spotify.com/album/2pPNC9cSF3mhMZcT7t3iw7"
+      },
+      "artists": [
+        {
+          "name": "Kelis",
+          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
+        },
+        {
+          "name": "Too $hort",
+          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 272360,
+      "name": "Bossy Featuring Too $hort (feat. Too $hort)",
+      "url": "https://open.spotify.com/track/4dPsNgPv3ne2A3map82xhK"
+    },
+    {
+      "album": {
         "name": "Kelis Was Here",
         "url": "https://open.spotify.com/album/4WJoghWxyWEYtVNDn1eFYl"
       },
@@ -512,6 +534,28 @@
     },
     {
       "album": {
+        "name": "Double Cup",
+        "url": "https://open.spotify.com/album/21dsgJBSUM6IvAGFjfotgF"
+      },
+      "artists": [
+        {
+          "name": "DJ Rashad",
+          "url": "https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V"
+        },
+        {
+          "name": "DJ Spinn",
+          "url": "https://open.spotify.com/artist/0ZGOz1bQgvsT4KSzHB1dg9"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 216475,
+      "name": "Drank, Kush, Barz (feat. Spinn)",
+      "url": "https://open.spotify.com/track/6F6CrMKMgZeDah2JF2cizZ"
+    },
+    {
+      "album": {
         "name": "BEYONC\u00c9 [Platinum Edition]",
         "url": "https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu"
       },
@@ -780,6 +824,24 @@
     },
     {
       "album": {
+        "name": "Girl You Know It's True - The Best Of Milli Vanilli",
+        "url": "https://open.spotify.com/album/67QUZa2DQaBdeQvPQGfSkL"
+      },
+      "artists": [
+        {
+          "name": "Milli Vanilli",
+          "url": "https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 238840,
+      "name": "I'm Gonna Miss You",
+      "url": "https://open.spotify.com/track/1ffAMndLMFbKHpXuIDBwc1"
+    },
+    {
+      "album": {
         "name": "Shake It Up",
         "url": "https://open.spotify.com/album/4lDlCfyIhAXwP3hO2GVUaw"
       },
@@ -791,10 +853,28 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": "2022-11-14",
       "duration_ms": 254066,
       "name": "I'm Not the One",
       "url": "https://open.spotify.com/track/6eRLUjHubf9tlO7ZCc04Da"
+    },
+    {
+      "album": {
+        "name": "Invisible Touch",
+        "url": "https://open.spotify.com/album/7jYfZ6i2taKDkiuxncR8P1"
+      },
+      "artists": [
+        {
+          "name": "Genesis",
+          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 296920,
+      "name": "In Too Deep",
+      "url": "https://open.spotify.com/track/6sawhOATOEe0cGzXJfMJQE"
     },
     {
       "album": {
@@ -853,6 +933,24 @@
       "duration_ms": 306231,
       "name": "Jack Your Body - 1986 Club Mix",
       "url": "https://open.spotify.com/track/10QGhgqQm0I2Y9maxrM7T6"
+    },
+    {
+      "album": {
+        "name": "Tha Carter III",
+        "url": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 309000,
+      "name": "Let The Beat Build",
+      "url": "https://open.spotify.com/track/0bdabO15YOj0iZPg2OujAw"
     },
     {
       "album": {
@@ -1059,7 +1157,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": "2022-11-13",
       "duration_ms": 372924,
       "name": "Peace of Mind (Electrosoul)",
       "url": "https://open.spotify.com/track/4qoa6zOFpSuuwSwJ0SMmFD"
@@ -1281,7 +1379,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 325226,
       "name": "Sanctified Lady",
       "url": "https://open.spotify.com/track/4qGgCG44YaybkBZtVJZ2bo"
@@ -1491,7 +1589,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-03",
+      "date_removed": "2022-11-13",
       "duration_ms": 218293,
       "name": "Touch",
       "url": "https://open.spotify.com/track/4YzbdSB5YcnRq47rdY7dD4"

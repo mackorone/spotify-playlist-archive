@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 272640,
       "name": "Dancing in the velvet moon",
       "url": "https://open.spotify.com/track/28dDBhBG9O6MheKdPvbFp8"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 217915,
       "name": "DNA -Dance 'n' Amuse-",
       "url": "https://open.spotify.com/track/5N63S5oVtO9yECKuekiTGr"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 254253,
       "name": "FEARLESS HERO",
       "url": "https://open.spotify.com/track/6aSOAkhrHgGv4hzDhnIm50"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 235175,
       "name": "glitch",
       "url": "https://open.spotify.com/track/41Ynbqwr59G7IqKztzZkNP"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-16",
       "duration_ms": 232666,
       "name": "GLORIA",
       "url": "https://open.spotify.com/track/2LZGtWalfH0jc2cYGv3PF2"
@@ -415,7 +415,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 230269,
       "name": "Go Live!",
       "url": "https://open.spotify.com/track/6fPmnIyjD5Gq9G4IVJ8ThE"
@@ -451,7 +451,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 238328,
       "name": "HOLY TALE",
       "url": "https://open.spotify.com/track/2mM3EpaWr850L0hsZ5enND"
@@ -559,7 +559,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 255026,
       "name": "MASSIVE WONDERS",
       "url": "https://open.spotify.com/track/193WAoYb9MkQtsm25oOiAd"
@@ -613,7 +613,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 273133,
       "name": "METRO BAROQUE",
       "url": "https://open.spotify.com/track/3DJWi9sgQLFdhhUkyt7KTN"
@@ -631,7 +631,7 @@
       ],
       "date_added": "2022-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 260941,
       "name": "MY ENTERTAINMENT",
       "url": "https://open.spotify.com/track/4McoK7F5MGfam7ENQVaJle"
@@ -649,7 +649,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 294986,
       "name": "Necessary",
       "url": "https://open.spotify.com/track/3xdxqxt1QjEyxOkAoBxGO4"
@@ -728,6 +728,24 @@
     },
     {
       "album": {
+        "name": "THE MUSEUM II",
+        "url": "https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268506,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/41ZrtLrBLLlwpucuNJ9WuF"
+    },
+    {
+      "album": {
         "name": "GEISHA BOY -ANIME SONG EXPERIENCE-",
         "url": "https://open.spotify.com/album/69ly56BCOHEVC3Q3UAlJzf"
       },
@@ -761,7 +779,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 191942,
       "name": "Reboot!",
       "url": "https://open.spotify.com/track/3RpRwAz6fZV5f9m6TMFulk"
@@ -797,7 +815,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": "2022-10-14",
       "duration_ms": 272779,
       "name": "Red Breeze",
       "url": "https://open.spotify.com/track/0O8snDCXDEnK10SPvSvMS0"
@@ -869,7 +887,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 271957,
       "name": "Stand by you",
       "url": "https://open.spotify.com/track/4LXraG9aZEKp0eeIFxs1zU"
@@ -887,7 +905,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 208520,
       "name": "STARTING NOW!",
       "url": "https://open.spotify.com/track/3hAyDY3024JUVmiIaBpcz0"
@@ -1103,7 +1121,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-10-13",
       "duration_ms": 239189,
       "name": "\u30b9\u30c8\u30e9\u30c8\u30b9\u30d5\u30a3\u30a2",
       "url": "https://open.spotify.com/track/5Xb7Xp3EyRr0RuRau3fFO3"
@@ -1193,7 +1211,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 212499,
       "name": "\u5168\u529bDREAMER",
       "url": "https://open.spotify.com/track/1aIdOv8ouABjERE1nIrjKB"
@@ -1359,7 +1377,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 254840,
       "name": "\u7d50\u754c",
       "url": "https://open.spotify.com/track/5i4Z1BDoVoL8D8sczmwhmu"
@@ -1377,7 +1395,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 278640,
       "name": "\u7d76\u5bfe\u7684\u5e78\u798f\u8ad6",
       "url": "https://open.spotify.com/track/7xUn19Rgau7DnWwi1fSrie"

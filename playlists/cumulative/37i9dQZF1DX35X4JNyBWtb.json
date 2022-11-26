@@ -652,6 +652,28 @@
     },
     {
       "album": {
+        "name": "Be Right There",
+        "url": "https://open.spotify.com/album/6XKPE44gfP58IM9PD28YBB"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Sleepy Tom",
+          "url": "https://open.spotify.com/artist/1D9XQXqh4YQfJwX7hyLWwr"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 237051,
+      "name": "Be Right There",
+      "url": "https://open.spotify.com/track/2egKQvoHiCJyHXn8lRlsrl"
+    },
+    {
+      "album": {
         "name": "Beautiful Heartbeat (feat. Frida Sundemo)",
         "url": "https://open.spotify.com/album/0Uq7Tio1XcTXuD3hf8MiQt"
       },
@@ -693,7 +715,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 192402,
       "name": "Better When You're Gone",
       "url": "https://open.spotify.com/track/4Tvw0lweq9l2JPQKFbpbBQ"
@@ -715,7 +737,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-11-13",
       "duration_ms": 182146,
       "name": "Big Jet Plane",
       "url": "https://open.spotify.com/track/1xd3OqTbx17HutN7RfJOTj"
@@ -978,6 +1000,32 @@
     },
     {
       "album": {
+        "name": "Booyah",
+        "url": "https://open.spotify.com/album/0Dix8CfvtZEHUyJGnmPnaB"
+      },
+      "artists": [
+        {
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        },
+        {
+          "name": "We Are Loud",
+          "url": "https://open.spotify.com/artist/2INDI0xc49oGYTZC7fBZjX"
+        },
+        {
+          "name": "Sonny Wilson",
+          "url": "https://open.spotify.com/artist/3gTl4XARdQR2Sy59osG0Ia"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 215295,
+      "name": "Booyah - Radio Edit",
+      "url": "https://open.spotify.com/track/2EpS5TgdngSISM63rhBsnK"
+    },
+    {
+      "album": {
         "name": "Boyfriend (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/4x7whh3CrAeZ5fF7WdraNN"
       },
@@ -1051,12 +1099,12 @@
           "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
         },
         {
-          "name": "Lujavo",
-          "url": "https://open.spotify.com/artist/5QCGlnijOcNxsXXNzZkcWL"
-        },
-        {
           "name": "Lunis",
           "url": "https://open.spotify.com/artist/1YjaVTeHBlVRRxbk7H30HN"
+        },
+        {
+          "name": "Lujavo",
+          "url": "https://open.spotify.com/artist/5QCGlnijOcNxsXXNzZkcWL"
         }
       ],
       "date_added": "2022-06-17",
@@ -1215,7 +1263,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 204000,
       "name": "Castles - Sam Feldt Remix",
       "url": "https://open.spotify.com/track/0AZJDOGsRHnR9GEMWqzOiP"
@@ -1517,7 +1565,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 179047,
       "name": "Cutting Shapes",
       "url": "https://open.spotify.com/track/3hENlPbIlUZXQ3MiosF87Q"
@@ -1539,7 +1587,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": "2022-11-13",
       "duration_ms": 253770,
       "name": "Dancing Alone",
       "url": "https://open.spotify.com/track/5xzzxWj8a1YBbNZhNLqWuQ"
@@ -1705,7 +1753,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": "2022-11-13",
       "duration_ms": 204374,
       "name": "Do Bad Well (feat. Nevve)",
       "url": "https://open.spotify.com/track/7zHrHnVSQwI95FGHewXDl8"
@@ -2023,7 +2071,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-02",
+      "date_removed": "2022-11-13",
       "duration_ms": 155864,
       "name": "Epic - Garmiani Remix",
       "url": "https://open.spotify.com/track/4D5uw4lzpyBIwA54NmjFND"
@@ -2049,7 +2097,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 168289,
       "name": "Everybody Dance (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/2KP2670rcQA5XRZyQcVhDK"
@@ -2075,6 +2123,28 @@
       "duration_ms": 250226,
       "name": "Faded - Tiesto's Northern Lights Remix",
       "url": "https://open.spotify.com/track/4jvJPG5YNwenlOmyLWSqaq"
+    },
+    {
+      "album": {
+        "name": "Faded (Remixes)",
+        "url": "https://open.spotify.com/album/1iyzvyJg2grVy8cMdRSL08"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 250280,
+      "name": "Faded - Tiesto's Northern Lights Remix",
+      "url": "https://open.spotify.com/track/7MDobIiZKLbDDibHDA1fl8"
     },
     {
       "album": {
@@ -2273,7 +2343,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-11-13",
       "duration_ms": 148242,
       "name": "Fogo (feat. Julimar Santos)",
       "url": "https://open.spotify.com/track/7uKjjI2a4Ia8nHKzgdya1y"
@@ -2295,7 +2365,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": "2022-11-13",
       "duration_ms": 218437,
       "name": "Forever",
       "url": "https://open.spotify.com/track/5EwwwdsQfKI8ZnFG93j5Zu"
@@ -2449,6 +2519,28 @@
       "duration_ms": 165440,
       "name": "Gecko (Overdrive) - Radio Edit",
       "url": "https://open.spotify.com/track/483XiZ5o13Cc1zoWV7jGml"
+    },
+    {
+      "album": {
+        "name": "Get Up (Rattle)",
+        "url": "https://open.spotify.com/album/7atvI5BIhbfq7sGp6jjCz3"
+      },
+      "artists": [
+        {
+          "name": "Bingo Players",
+          "url": "https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK"
+        },
+        {
+          "name": "Far East Movement",
+          "url": "https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 166760,
+      "name": "Get Up (Rattle)",
+      "url": "https://open.spotify.com/track/1zYsvExrADZ5L7Epqd5J6D"
     },
     {
       "album": {
@@ -2906,7 +2998,7 @@
     },
     {
       "album": {
-        "name": "How Deep is Your Love (feat. Disciples)",
+        "name": "How Deep is Your Love",
         "url": "https://open.spotify.com/album/3cG32DOXJoYlOHMmJIaQsm"
       },
       "artists": [
@@ -2923,8 +3015,26 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 212640,
-      "name": "How Deep is Your Love (feat. Disciples)",
+      "name": "How Deep is Your Love",
       "url": "https://open.spotify.com/track/22mek4IiqubGD9ctzxc69s"
+    },
+    {
+      "album": {
+        "name": "Hungry (For Love)",
+        "url": "https://open.spotify.com/album/2VhVESPvETnPjoM9XOoeRA"
+      },
+      "artists": [
+        {
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129375,
+      "name": "Hungry (For Love)",
+      "url": "https://open.spotify.com/track/4Uz7te06snSlkmcIwwAvkw"
     },
     {
       "album": {
@@ -3421,6 +3531,24 @@
     {
       "album": {
         "name": "Let Me Love You",
+        "url": "https://open.spotify.com/album/078kjH79SQ5BlhirDxdHOE"
+      },
+      "artists": [
+        {
+          "name": "John Gibbons",
+          "url": "https://open.spotify.com/artist/72luDUYRlE8N8lPSgyhiwo"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 186788,
+      "name": "Let Me Love You",
+      "url": "https://open.spotify.com/track/7wv7QHjICh5DoqJupFVYR0"
+    },
+    {
+      "album": {
+        "name": "Let Me Love You",
         "url": "https://open.spotify.com/album/247DAQfRMhRrWYIqscvwbA"
       },
       "artists": [
@@ -3728,6 +3856,28 @@
     },
     {
       "album": {
+        "name": "Louder",
+        "url": "https://open.spotify.com/album/7IdKpXiJU049bx6jqbERFc"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "VINAI",
+          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 153784,
+      "name": "Louder - Radio Edit",
+      "url": "https://open.spotify.com/track/1jTKIuhvCHygnnY4QnUvyv"
+    },
+    {
+      "album": {
         "name": "Love Again (feat. Alida)",
         "url": "https://open.spotify.com/album/5S8QFORgv9orFYCqSVSjzq"
       },
@@ -3853,10 +4003,32 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 160183,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/0DhkTGjEaIHaSxTfC14BFm"
+    },
+    {
+      "album": {
+        "name": "The Wave",
+        "url": "https://open.spotify.com/album/0rh1evgP4UJxDK333EI7l5"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160183,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/73S01tHC14mqoMvSr83PSo"
     },
     {
       "album": {
@@ -4457,7 +4629,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-06",
+      "date_removed": null,
       "duration_ms": 280853,
       "name": "New Rules - KREAM Remix",
       "url": "https://open.spotify.com/track/4NkgQJFG0aDHXyylIGnmJ4"
@@ -4757,7 +4929,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 148095,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/1lXyxleB814ehGUXzsWNXu"
@@ -5493,7 +5665,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": "2022-11-13",
       "duration_ms": 237472,
       "name": "Ritual (feat. Wrabel)",
       "url": "https://open.spotify.com/track/04AYgtKFrpldRXe5y0LNGQ"
@@ -5515,7 +5687,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-11-13",
       "duration_ms": 175238,
       "name": "Riverside (Reloaded)",
       "url": "https://open.spotify.com/track/4yn4T3wztHmguBIeSVwWie"
@@ -5595,7 +5767,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 190312,
       "name": "Sao Paulo",
       "url": "https://open.spotify.com/track/6XubRj327VPMQCUgJJpCub"
@@ -5957,7 +6129,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-13",
+      "date_removed": "2022-11-13",
       "duration_ms": 202153,
       "name": "Silence - Ti\u00ebsto's Big Room Remix",
       "url": "https://open.spotify.com/track/3AUW7mAGx1BICBWqsuFgh4"
@@ -6207,7 +6379,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 164516,
       "name": "SOS - Laidback Luke Tribute Remix / Radio Edit",
       "url": "https://open.spotify.com/track/3eLdNmnRWr9gIyBcqTSSti"
@@ -6405,7 +6577,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 255238,
       "name": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy) - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/55nMnifaQWKe3f9cbwOXwx"
@@ -6853,6 +7025,24 @@
       "duration_ms": 218506,
       "name": "Taped Up Heart (feat. Clara Mae)",
       "url": "https://open.spotify.com/track/26hcyzSE154xMZCbFdtInA"
+    },
+    {
+      "album": {
+        "name": "The Kick",
+        "url": "https://open.spotify.com/album/67pewze4MZDEHJiHdUH4sZ"
+      },
+      "artists": [
+        {
+          "name": "Maurice West",
+          "url": "https://open.spotify.com/artist/1qF8DC6uIBjskqP0hyw1Gk"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 176250,
+      "name": "The Kick",
+      "url": "https://open.spotify.com/track/3EuU1VWTQsxlXttEFvif0C"
     },
     {
       "album": {
@@ -7333,7 +7523,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 213000,
       "name": "We Got That Cool (feat. Afrojack & Icona Pop)",
       "url": "https://open.spotify.com/track/2cFK03sObtI6AK3QKeOT5g"
@@ -7623,7 +7813,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 197647,
       "name": "Would I Lie to You - Radio Edit",
       "url": "https://open.spotify.com/track/4PdJSsESm34djLfBde9Pr2"
@@ -7685,7 +7875,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 203909,
       "name": "You Make Me Feel",
       "url": "https://open.spotify.com/track/4z2ZZU3skkejktx83PbKiR"

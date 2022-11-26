@@ -4,7 +4,7 @@
 
 > The sweet sounds of Lebanon.
 
-68 songs - 4 hr 3 min - [published](https://open.spotify.com/playlist/3skYynXq74xJS0Zs0H7gwt)
+73 songs - 4 hr 21 min - [published](https://open.spotify.com/playlist/3skYynXq74xJS0Zs0H7gwt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Helm Btada](https://open.spotify.com/track/0KAS9sc44tzZSlLvM3MizM) | [Ghada Shbeir](https://open.spotify.com/artist/15CpMdJps6zQElgzHLU2Mg) | [Helm Btada](https://open.spotify.com/album/5QMVekrK7qmzzhxyjfBBOC) | 4:45 | 2021-09-10 |  |
 | [Hkayti](https://open.spotify.com/track/0s3DYIv29lpbYU3XspNF6y) | [Jean\-Marie Riachi](https://open.spotify.com/artist/3BEhzj32z2DGb1gPINNZwc), [Nedaa Shrara](https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI) | [Hkayti](https://open.spotify.com/album/1bfeUPx2VgAupNyQGT2YGM) | 3:21 | 2021-09-10 |  |
 | [Ishtaktilak Wallah](https://open.spotify.com/track/1zPzRQQhhpZLSBQfss1kMZ) | [Rouba Khoury](https://open.spotify.com/artist/2imCWk5nD5dmXsrvczXMqu) | [Ishtaktilak Wallah](https://open.spotify.com/album/2vkUC79BiGoHfHvRFeGjXz) | 2:18 | 2021-09-10 | 2022-07-29 |
+| [Ishtaktilak Wallah](https://open.spotify.com/track/2fgc1lflVq3fDJZFyN5gwh) | [Rouba Khoury](https://open.spotify.com/artist/2imCWk5nD5dmXsrvczXMqu) | [100% Lebanese Vol 2](https://open.spotify.com/album/52gHMLYmQjYNAyC5mIWc2Q) | 2:18 | 2022-08-26 | 2022-11-14 |
 | [Ishtaktilak Wallah](https://open.spotify.com/track/65l3L3vZD4hDyNAe55dNxq) | [Rouba Khoury](https://open.spotify.com/artist/2imCWk5nD5dmXsrvczXMqu) | [Ishtaktilak Wallah](https://open.spotify.com/album/45ZM28kpEYZ7qBX0hN7MaS) | 2:18 | 2022-04-12 |  |
 | [Jayi Twadaani](https://open.spotify.com/track/0s9zNzQwbvVBKOz59waIn8) | [Michel Azzi](https://open.spotify.com/artist/0OGecBiSJW5Bqnx76w3uQC) | [Jayi Twadaani](https://open.spotify.com/album/2qEnwq70xXdHj9dlWXUQ4Z) | 3:43 | 2022-04-12 |  |
 | [Jayi Twadaani](https://open.spotify.com/track/4nXaJZ44cYmrqw3wEcLO0P) | [Michel Azzi](https://open.spotify.com/artist/0OGecBiSJW5Bqnx76w3uQC) | [Jayi Twadaani](https://open.spotify.com/album/7BK4jT9WCvrh6QxVcikKFA) | 3:43 | 2021-09-10 | 2022-07-29 |
@@ -44,6 +45,7 @@
 | [Khserna Baad](https://open.spotify.com/track/2UOopL3Y405ruJyMzJcdWD) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz), [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [Khserna Baad](https://open.spotify.com/album/5NMUAheYIMftIgJtAlPIcE) | 3:07 | 2022-04-12 |  |
 | [Khserna Baad](https://open.spotify.com/track/2yfVl1v7wf54k9bOAY9mjd) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj), [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [Khserna Baad](https://open.spotify.com/album/1dPEbDDxEC6GU5u7B9zlqE) | 3:07 | 2021-09-10 | 2022-07-29 |
 | [La Ouyounak El Helwin](https://open.spotify.com/track/38qtGskHRVnyGyqWzFMfnG) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [La Ouyounak El Helwin](https://open.spotify.com/album/2ImEgj0cbjbbi5JR3mAsKA) | 3:42 | 2021-09-10 | 2022-07-29 |
+| [La Ouyounik El Helwin](https://open.spotify.com/track/3Zpnjq0t8pwlWkhptgqm7V) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [End of Summer Hits 2019](https://open.spotify.com/album/6Kg5OKceUsS1JuZxSt4plB) | 3:42 | 2022-08-26 | 2022-11-13 |
 | [La Ouyounik El Helwin](https://open.spotify.com/track/54PiwwEBUU3HANCnSFgDLM) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [La Ouyounik El Helwin](https://open.spotify.com/album/0HUfzmbrXGPAOOKxn2RbD2) | 3:42 | 2022-04-12 |  |
 | [Le Beirut](https://open.spotify.com/track/3JO3CNuCxwuwlpEjjCnDZN) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Maarifti Feek](https://open.spotify.com/album/3MgbAO1v05g0eanxlyz922) | 4:13 | 2021-09-10 |  |
 | [Maaleish](https://open.spotify.com/track/2UmMhiOyqkHkDQwlQD1nTH) | [Rima Yussef](https://open.spotify.com/artist/44AnhJxSH9AE3b6KpO5rZl) | [Maaleish](https://open.spotify.com/album/2eaaJ7UvHSTAwIZ85PUhyi) | 3:27 | 2021-09-10 |  |
@@ -54,6 +56,7 @@
 | [Mawtini](https://open.spotify.com/track/31mjcdNDbnLa91PiqI0tiq) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [To Beirut with Love](https://open.spotify.com/album/7g9ztH73f7JjYEMnDbiNMP) | 4:36 | 2021-09-10 |  |
 | [Mesh Taye'](https://open.spotify.com/track/57MzJQAKcizIPuwcUBgyQ2) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [Mesh Taye'](https://open.spotify.com/album/5RNSMpD6G7GGt4maIdDu1F) | 2:54 | 2021-09-10 | 2022-07-29 |
 | [Mesh Taye'](https://open.spotify.com/track/7DpZ7SqHYZtJISK1hN91OM) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [Mesh Taye'](https://open.spotify.com/album/0Wc8dCvKifmuFe1IWzxjI3) | 2:54 | 2022-04-12 |  |
+| [Metlak Ma Fi](https://open.spotify.com/track/1WKPiPxwV6nrngpfK7Pk8I) | [George Nehme](https://open.spotify.com/artist/3DT7l7a2sCveCEerSrjgQu) | [Summer Hits 2019](https://open.spotify.com/album/2EUuhww32Gcnl7M66d8zUj) | 4:05 | 2022-08-26 | 2022-11-14 |
 | [Metlak Ma Fi](https://open.spotify.com/track/4nSfTAygr8Vl0AtvS8AJ4a) | [George Nehme](https://open.spotify.com/artist/3DT7l7a2sCveCEerSrjgQu) | [Metlak Ma Fi](https://open.spotify.com/album/1M4JshjAUpkHouLBGN7Xys) | 4:05 | 2022-04-12 |  |
 | [Metlak Ma Fi](https://open.spotify.com/track/6tSmvuuBYkj4JSYoRU8y0x) | [George Nehme](https://open.spotify.com/artist/3DT7l7a2sCveCEerSrjgQu) | [Metlak Ma Fi](https://open.spotify.com/album/4B1QbOUYzP1GlPEf3Mls7x) | 4:05 | 2021-09-10 | 2022-07-29 |
 | [Midri](https://open.spotify.com/track/1yOlhO1ejjlNSyV83ImGLW) | [Malek El Yaman](https://open.spotify.com/artist/10bHG6pbiXXIT63inPNyCI), [Carole Aoun](https://open.spotify.com/artist/5eo1Obe1OnCuklPbWBIMMM) | [Midri](https://open.spotify.com/album/5dkJWG1lsaGl03VaivzqIs) | 4:35 | 2021-09-10 |  |
@@ -63,9 +66,11 @@
 | [Nehna Sawa](https://open.spotify.com/track/6vtvZ8XWCMpZu5e99Gyk8u) | [Adam](https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz) | [Nehna Sawa](https://open.spotify.com/album/3toWTCcHZV03p4PG2aXzxr) | 3:35 | 2021-09-10 |  |
 | [Sabah El Kheer Ya Lebnan](https://open.spotify.com/track/6FNqHsMLo0M9xh5zAygqRo) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Sabah El Kheer Ya Lebnan](https://open.spotify.com/album/3C5WDsRahXqn1rCMj7Rm5e) | 1:31 | 2021-09-10 |  |
 | [Sakat El Warak](https://open.spotify.com/track/6WVXAAOsu7Jg37jBTp1gJl) | [Melhem Zein](https://open.spotify.com/artist/3pCdpK2DVRSs77L9RtxFy0) | [Sakat El Warak](https://open.spotify.com/album/3pm7fVcs0XheAw7HqOik6O) | 3:59 | 2021-09-10 |  |
+| [Shou Helou](https://open.spotify.com/track/0JzTRm2vmB8IawpzeKNbl2) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [Dance Arabia](https://open.spotify.com/album/2wjTBxg2bN0ZdVyYp1UozW) | 3:31 | 2022-08-26 | 2022-11-13 |
 | [Shou Helou](https://open.spotify.com/track/51hN3ScR3uO358mhvpYJ8F) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [Shou Helou](https://open.spotify.com/album/20U2djwMNxfe8iQzHp2KdG) | 3:31 | 2021-09-10 | 2022-07-29 |
 | [Shou Helou](https://open.spotify.com/track/5tlP8y3s1iMDKOoDlN1xQT) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [Shou Helou](https://open.spotify.com/album/2WKCgrvvYrEoxrmvdZPebP) | 3:31 | 2022-04-12 |  |
 | [Show Me How You Dabke](https://open.spotify.com/track/6Bl5QgVb73Tnnu6Zymlh46) | [Anthony Touma](https://open.spotify.com/artist/7q4O5KTgHKdsT15BWNr0M7), [Roy Chalach](https://open.spotify.com/artist/3GiWqQCncrMxAUUUbZ80Ov) | [Show Me How You Dabke](https://open.spotify.com/album/6kbOhJkqe2Hgcdra2IrJk5) | 3:09 | 2021-09-10 |  |
+| [Shukran Al Azimi](https://open.spotify.com/track/1MyidauIXGOGLnBofG144s) | [Adonis](https://open.spotify.com/artist/6LfzZtIFWlA5YdsVrAu8Xv) | [Shukran Al Azimi](https://open.spotify.com/album/5VYPNhTrzle09iOTmbHmLv) | 3:34 | 2022-08-26 | 2022-11-13 |
 | [Shukran Al Azimi](https://open.spotify.com/track/71zge5rSChnbvlrTDKxPGJ) | [Adonis](https://open.spotify.com/artist/6LfzZtIFWlA5YdsVrAu8Xv) | [12 Sa'a](https://open.spotify.com/album/0XyZg6l3LAHV9XBoZ6rQ1O) | 3:34 | 2022-04-12 |  |
 | [Shukran Al Azimi](https://open.spotify.com/track/3nEjEnNRyXNcN6nWoalMvp) | [Adonis](https://open.spotify.com/artist/6LfzZtIFWlA5YdsVrAu8Xv) | [12 Sa'a](https://open.spotify.com/album/7yWLsrNU17dhFesO9R7EZa) | 3:34 | 2021-09-10 | 2022-07-29 |
 | [Tango El Hob](https://open.spotify.com/track/0MiQdhtcbj2LyXLpRGThL6) | [Gabriel Abdel Nour](https://open.spotify.com/artist/4IMFj5lZtKrcR5xEWmB9ZR) | [Tango El Hob](https://open.spotify.com/album/0YqXhIByqAbo6bzbnxIhMW) | 5:19 | 2021-09-10 |  |

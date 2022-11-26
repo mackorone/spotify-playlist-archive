@@ -549,7 +549,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 212000,
       "name": "Dimly",
       "url": "https://open.spotify.com/track/1Pnek7frHF95HQewENySXW"
@@ -943,7 +943,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 210581,
       "name": "Feel Better",
       "url": "https://open.spotify.com/track/630DurQdVH55GWLiCEv9CR"
@@ -1247,6 +1247,24 @@
     {
       "album": {
         "name": "How Can I Live Without You",
+        "url": "https://open.spotify.com/album/3Z8pAXoh1RbOLaLia5Y1wz"
+      },
+      "artists": [
+        {
+          "name": "Juho",
+          "url": "https://open.spotify.com/artist/4iVd8OOKGx0eT2Uo2nEpfH"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224280,
+      "name": "How Can I Live Without You",
+      "url": "https://open.spotify.com/track/2WU6qcQohr7YTygqaE1A0J"
+    },
+    {
+      "album": {
+        "name": "How Can I Live Without You",
         "url": "https://open.spotify.com/album/4ToOcySEVsN3ZEpKtd4nvO"
       },
       "artists": [
@@ -1279,7 +1297,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-04",
+      "date_removed": "2022-10-25",
       "duration_ms": 251240,
       "name": "How could you",
       "url": "https://open.spotify.com/track/49vI2GkYDR5sKmINKsQd96"
@@ -1665,7 +1683,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-16",
       "duration_ms": 278727,
       "name": "It hurts to love you",
       "url": "https://open.spotify.com/track/2GxG8MBqH9UnCTvb3WP8E3"
@@ -2121,13 +2139,13 @@
       },
       "artists": [
         {
-          "name": "\uaddc\ub9ac",
+          "name": "gyuri",
           "url": "https://open.spotify.com/artist/75zSvIw1eMx70OqNk89sCb"
         }
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 216973,
       "name": "Memory of You",
       "url": "https://open.spotify.com/track/2Hy6Ajz4Unt8tlBdB8rkk1"
@@ -3259,7 +3277,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-10",
+      "date_removed": "2022-11-26",
       "duration_ms": 193280,
       "name": "The Walking Dead (Feat. Kim Feel)",
       "url": "https://open.spotify.com/track/1LBNTcVnGw8eJ5oQQmmMZZ"
@@ -3472,6 +3490,24 @@
     },
     {
       "album": {
+        "name": "\uce5c\uad6c\ubcf4\ub2e4 \ub354 \ubabb\ud55c \uc0ac\uc774",
+        "url": "https://open.spotify.com/album/2JsY4V9OqKbQRXezTHhj76"
+      },
+      "artists": [
+        {
+          "name": "Jeong Dong Won",
+          "url": "https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-18",
+      "duration_ms": 239813,
+      "name": "Worse than friends",
+      "url": "https://open.spotify.com/track/4OfeoCwjK4xFGn5XQ0dbfu"
+    },
+    {
+      "album": {
         "name": "written on a leaf",
         "url": "https://open.spotify.com/album/5EbUl4ypzZl5YmRfqIdjin"
       },
@@ -3487,6 +3523,24 @@
       "duration_ms": 225085,
       "name": "written on a leaf",
       "url": "https://open.spotify.com/track/4DdynawjdYLn81mdfaqZKM"
+    },
+    {
+      "album": {
+        "name": "You Are The Sea (CURTAIN CALL OST Part.4)",
+        "url": "https://open.spotify.com/album/5jnmn2AEdnJvH4q2AwbFnw"
+      },
+      "artists": [
+        {
+          "name": "Kim Na Young",
+          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246106,
+      "name": "You Are The Sea",
+      "url": "https://open.spotify.com/track/5IN3ZKQDhVOewXbXKglhKv"
     },
     {
       "album": {

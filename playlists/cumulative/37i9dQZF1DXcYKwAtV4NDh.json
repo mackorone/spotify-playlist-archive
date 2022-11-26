@@ -188,6 +188,24 @@
     },
     {
       "album": {
+        "name": "Blue Yodel",
+        "url": "https://open.spotify.com/album/7eTvW6NveYIh0YLJoHX56k"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Rodgers",
+          "url": "https://open.spotify.com/artist/0Y0ZlznP6vzTS1qAm5dvTN"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 206733,
+      "name": "Blue Yodel (T For Texas)",
+      "url": "https://open.spotify.com/track/5lfSe4rCb3p6d4Yl2v8Wy1"
+    },
+    {
+      "album": {
         "name": "The Blues Vol 2",
         "url": "https://open.spotify.com/album/3jhJslfOxzjjWK2AgrEdUV"
       },
@@ -712,6 +730,24 @@
     },
     {
       "album": {
+        "name": "Mountain Memories From Pigeon Forge",
+        "url": "https://open.spotify.com/album/2gYkp6IGDcTuWSvSvh9bL1"
+      },
+      "artists": [
+        {
+          "name": "Grandpa Jones",
+          "url": "https://open.spotify.com/artist/2UtCcZQl7xzvEao4vWBSOD"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 161533,
+      "name": "Good Old Mountain Dew",
+      "url": "https://open.spotify.com/track/4pnnHhts4jx1TJO8S1JC90"
+    },
+    {
+      "album": {
         "name": "The King of Country",
         "url": "https://open.spotify.com/album/5IL280VXMuFzpMiIIdSESH"
       },
@@ -763,6 +799,24 @@
       "duration_ms": 194400,
       "name": "Harper Valley P.T.A.",
       "url": "https://open.spotify.com/track/2sZIclzhHlH8tzf7wry9hK"
+    },
+    {
+      "album": {
+        "name": "Country Classics",
+        "url": "https://open.spotify.com/album/3HdxiOn9XC1J06WDjCWB1A"
+      },
+      "artists": [
+        {
+          "name": "Jeannie C. Riley",
+          "url": "https://open.spotify.com/artist/3MIwMeYV8vmgQFbbRiJTp2"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 194515,
+      "name": "Harper Valley P.T.A.",
+      "url": "https://open.spotify.com/track/6HuCFnYlEGmxV4Vojfnnff"
     },
     {
       "album": {
@@ -932,6 +986,24 @@
     },
     {
       "album": {
+        "name": "The Very Best of Dwight Yoakam",
+        "url": "https://open.spotify.com/album/6R9VSmUIjTy9CMro0ZIoeY"
+      },
+      "artists": [
+        {
+          "name": "Dwight Yoakam",
+          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 168360,
+      "name": "Honky Tonk Man - 2002 Remaster",
+      "url": "https://open.spotify.com/track/3My3aGaNqWugMNLmuo5AE2"
+    },
+    {
+      "album": {
         "name": "Lovesick Blues (August 1947-December 1948)",
         "url": "https://open.spotify.com/album/6vskY4scqdIcqqJCBV6fUp"
       },
@@ -947,6 +1019,24 @@
       "duration_ms": 165680,
       "name": "Honky Tonkin'",
       "url": "https://open.spotify.com/track/060t6chRq0DIRuZfcporgB"
+    },
+    {
+      "album": {
+        "name": "The Original Singles Collection . . . Plus",
+        "url": "https://open.spotify.com/album/2ofo3NZKdLxM3SBspKmXfV"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 167240,
+      "name": "Honky Tonkin'",
+      "url": "https://open.spotify.com/track/5rTZqQdydAEK4Gv5OfPy4n"
     },
     {
       "album": {
@@ -1787,8 +1877,30 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 157893,
-      "name": "Stand By Your Man",
+      "name": "Stand By Your Man - Official Audio",
       "url": "https://open.spotify.com/track/2Cb2l4UoXynCHCeCYHRZN8"
+    },
+    {
+      "album": {
+        "name": "Country Rebels",
+        "url": "https://open.spotify.com/album/593THJIJwnUr3E6cuLgoO3"
+      },
+      "artists": [
+        {
+          "name": "Buck Owens",
+          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
+        },
+        {
+          "name": "Dwight Yoakam",
+          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 169333,
+      "name": "Streets of Bakersfield",
+      "url": "https://open.spotify.com/track/4mjGfjlNPfdV6qbg8FXDSS"
     },
     {
       "album": {
@@ -1901,6 +2013,24 @@
       "duration_ms": 228893,
       "name": "Texas Cookin'",
       "url": "https://open.spotify.com/track/6uhBxmlfzIbxpIBRteQUQL"
+    },
+    {
+      "album": {
+        "name": "Country Music - A Film by Ken Burns (The Soundtrack) [Deluxe]",
+        "url": "https://open.spotify.com/album/3ZAFnRYQRAiBplISQFj7nC"
+      },
+      "artists": [
+        {
+          "name": "Roy Acuff",
+          "url": "https://open.spotify.com/artist/7heUyuJw3gZftFZRa1rV6M"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 160226,
+      "name": "The Great Speckled Bird",
+      "url": "https://open.spotify.com/track/1fPynWV3ANbzISOdT8gi1h"
     },
     {
       "album": {

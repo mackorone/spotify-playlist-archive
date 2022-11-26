@@ -4,7 +4,7 @@
 
 > スクウェア・エニックスの多彩な楽曲から、お出かけのお供にぴったりなアップテンポチューンをお届け。A variety/selection of up\-tempo tracks from SQUARE ENX to hit the town\. © 2022 SQUARE ENIX CO., LTD\. All Rights Reserved\. Illustration: TOSHIYUKI ITAHANA
 
-28 songs - 1 hr 34 min - [published](https://open.spotify.com/playlist/2PK0pOWXpS4Hc2roO5tmdC)
+30 songs - 1 hr 40 min - [published](https://open.spotify.com/playlist/2PK0pOWXpS4Hc2roO5tmdC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,10 +22,12 @@
 | [FFVII REMAKE: シンク・オア・スイム \(Sync or Swim\)](https://open.spotify.com/track/4nMfIV0wwInFtocDHlKsst) | [鈴木 光人](https://open.spotify.com/artist/0NCvengLgu4uTKTeC7z2Eg) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 1:01 | 2022-09-07 |  |
 | [FFVII REMAKE: ミグルミ ミグルミ \(Due Recompense\)](https://open.spotify.com/track/3ciAqfAdxkw5ctwPyg9OOi) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 5:24 | 2022-09-07 |  |
 | [FFVII REMAKE: 闘う者達 \-なんでも屋の仕事\- \(Let the Battles Begin! \- A Merc's Job\)](https://open.spotify.com/track/43SHYfEdVPCIag9L3xtUVm) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 2:53 | 2022-09-07 |  |
+| [Flash of Steel](https://open.spotify.com/track/3PBAMEP4kyiqTqn9aY4vIF) | [Masayoshi Soken](https://open.spotify.com/artist/6NtwaHZLhTUvERKFbFqu8S) | [STORMBLOOD: FINAL FANTASY XIV Original SoundtrackVolume 2【1/2】](https://open.spotify.com/album/7q7Zkp7Hvq0iEhrLCVTTbA) | 2:40 | 2022-09-07 | 2022-11-13 |
 | [Flash of Steel](https://open.spotify.com/track/4MHCn1wGPZATqox7wDyhVS) | [崎元仁](https://open.spotify.com/artist/5IgtFW3mCaIGAuPbx7qE04) | [FINAL FANTASY XII Original Soundtrack](https://open.spotify.com/album/6BUaUV4g19n1zwF6iwkh4C) | 2:35 | 2022-09-07 |  |
 | [Main Theme of FINAL FANTASY VII \- Jazz Arrangement](https://open.spotify.com/track/65yrpEvk6RlGkIQWVnCJis) | [植松 伸夫](https://open.spotify.com/artist/6pzh5XF6c5q7eCZK8JYYs8) | [SQUARE ENIX JAZZ \-FINAL FANTASY VII\-](https://open.spotify.com/album/0npDaNHkvKMiwaGN0mghXa) | 6:43 | 2022-09-07 |  |
 | [Octopath Traveler \-Main Theme\-](https://open.spotify.com/track/0LmbmsBNz2rMyP0rpECbwD) | [Yasunori Nishiki](https://open.spotify.com/artist/0Ph31fnwwrbxz5d7mEE1Zv) | [OCTOPATH TRAVELER Original Soundtrack](https://open.spotify.com/album/7CY5mNBTBbHs1a4apdKCq6) | 2:34 | 2022-09-07 |  |
 | [Otherworld](https://open.spotify.com/track/094ROwNMso3g8wHYg89dAV) | [Bill Xtillidiex Muir](https://open.spotify.com/artist/1sshOKBw5a0pPxCfyRbULD) | [DISSIDIA FINAL FANTASY Original Soundtrack](https://open.spotify.com/album/5YAyjZBLHRwUGoijvobtCw) | 3:14 | 2022-09-07 |  |
+| [Otherworld](https://open.spotify.com/track/6WGtQKmXCKzvPAFtXOGmNv) | [Bill Xtillidiex Muir](https://open.spotify.com/artist/1sshOKBw5a0pPxCfyRbULD) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 3:15 | 2022-09-07 | 2022-11-13 |
 | [Paradigm Shift](https://open.spotify.com/track/2vWEcYBAFGf3PxPl6B7Sem) | [Naoshi Mizuta](https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 3:49 | 2022-09-07 |  |
 | [Parallel Worlds \- Aggressive Mix](https://open.spotify.com/track/78twuJpTk8PXjfelEIzOO4) | [鈴木光人](https://open.spotify.com/artist/3d72A9fpAQyib60DkaqAIM) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 3:16 | 2022-09-07 |  |
 | [Re:BirthⅡ\-SEN\- The Sewers](https://open.spotify.com/track/4hcSfZOU9ZIyTRmaNGljDP) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [Re:BirthⅡ \-SEN\- / ”Saga” Battle Tracks Arrangement Album](https://open.spotify.com/album/4iScTUR1JGFEJvzevnMpKv) | 4:08 | 2022-09-07 |  |

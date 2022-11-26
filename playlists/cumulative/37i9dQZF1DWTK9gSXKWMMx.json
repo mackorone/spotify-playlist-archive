@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "Amazing Grace",
+        "url": "https://open.spotify.com/album/2UMQn9XEV8y75UJ5pjrbDI"
+      },
+      "artists": [
+        {
+          "name": "The Reverend",
+          "url": "https://open.spotify.com/artist/0tZbykhCR3hUa19XhTOsoG"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150320,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/3Xc6lFGNhHb31BJpj0bGy4"
+    },
+    {
+      "album": {
         "name": "Back Alley Blues",
         "url": "https://open.spotify.com/album/0G2mdy68fvOMjNszsGLuA8"
       },
@@ -260,6 +278,24 @@
     },
     {
       "album": {
+        "name": "Blues Piano",
+        "url": "https://open.spotify.com/album/3EFQ3EAe9LZnwMmGSS5RZ1"
+      },
+      "artists": [
+        {
+          "name": "Alan Baratieri",
+          "url": "https://open.spotify.com/artist/1FbUxr0wVOPPMFPq9qjv0w"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Boogies",
+      "url": "https://open.spotify.com/track/26DY6PwAh2BHagNyEzcldn"
+    },
+    {
+      "album": {
         "name": "Down In Pianorleans - Blues Gumbo",
         "url": "https://open.spotify.com/album/5IXB69TZ7HTr7NfMc6nzLP"
       },
@@ -275,6 +311,42 @@
       "duration_ms": 257880,
       "name": "Buddy Bolden Blues",
       "url": "https://open.spotify.com/track/3ERqgrgOFiYgMMIzq6fhc3"
+    },
+    {
+      "album": {
+        "name": "Solo Piano",
+        "url": "https://open.spotify.com/album/79hPlit22yH2TfyeW1a32K"
+      },
+      "artists": [
+        {
+          "name": "Chilly Gonzales",
+          "url": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272733,
+      "name": "C.M. Blues",
+      "url": "https://open.spotify.com/track/2l8voBWRaYxvDNkzVim7p6"
+    },
+    {
+      "album": {
+        "name": "Blues Piano",
+        "url": "https://open.spotify.com/album/3EFQ3EAe9LZnwMmGSS5RZ1"
+      },
+      "artists": [
+        {
+          "name": "Alan Baratieri",
+          "url": "https://open.spotify.com/artist/1FbUxr0wVOPPMFPq9qjv0w"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251741,
+      "name": "Calm Blue",
+      "url": "https://open.spotify.com/track/7fwJy2821G1RkhPGIKmBrg"
     },
     {
       "album": {
@@ -481,7 +553,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 269000,
       "name": "Instrumental Relaxing Blues",
       "url": "https://open.spotify.com/track/4SAU8yF37ELPRR698YhF6x"
@@ -735,7 +807,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 250741,
       "name": "Relaxing and Calm Blues",
       "url": "https://open.spotify.com/track/1ptfhDtqGF7FMVKtha6lNI"

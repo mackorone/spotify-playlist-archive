@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5wPUMOWXlhmk9XmGO4RtKz.md) - [plain]
 
 > Some nice little jams to make the ride smooth\. To quote Dom Kennedy &quot;Pleeze Make It Home Safe&quot; \(also closing song\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,642 likes - 40 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,600 likes - 40 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/5wPUMOWXlhmk9XmGO4RtKz.md) - [plain]
 | 7 | [Trap Niggas](https://open.spotify.com/track/6elNeXUhiuHPD9hH5rocQi) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [DS2 \(Deluxe\)](https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl) | 3:03 |
 | 8 | [March Madness](https://open.spotify.com/track/3gRr7XB6MERbGvzkH9RLZu) | [DJ ESCO](https://open.spotify.com/artist/2J0JN7EFN10G1Tty6hX0AN), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [56 Nights](https://open.spotify.com/album/7bAX1gKZb0y9Vm4B6wkS3w) | 4:04 |
 | 9 | [Energy](https://open.spotify.com/track/79XrkTOfV1AqySNjVlygpW) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [If You're Reading This It's Too Late](https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I) | 3:01 |
-| 10 | [Nothing but Trouble \- Instagram Models](https://open.spotify.com/track/7rdjfrTBMNt3KaaGvSv3YG) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Nothing but Trouble \(Instagram Models\)](https://open.spotify.com/album/11e5zCxCAmhFTG5nnnZibS) | 3:37 |
+| 10 | [Nothing but Trouble \- Instagram Models](https://open.spotify.com/track/7rdjfrTBMNt3KaaGvSv3YG) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Nothing but Trouble \(Instagram Models\) \[From 808: The Music\]](https://open.spotify.com/album/11e5zCxCAmhFTG5nnnZibS) | 3:37 |
 | 11 | [Tied Up \(feat\. DeJ Loaf\)](https://open.spotify.com/track/1uIjsJMh5wiWJ3K71eshdr) | [Casey Veggies](https://open.spotify.com/artist/0uFc6StTmJBvdHPZFDkdJy), [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [Tied Up \(feat\. DeJ Loaf\)](https://open.spotify.com/album/67hIR9UEmLeugp5NzdVPug) | 3:13 |
 | 12 | [Back Up \(feat\. Big Sean\)](https://open.spotify.com/track/5zBqPjh3vfttJScml99szD) | [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Back Up \(feat\. Big Sean\)](https://open.spotify.com/album/2iddYIK2mKu5DSpIGZCuAC) | 4:01 |
 | 13 | [100 \(feat\. Drake\)](https://open.spotify.com/track/1hZ13x9jzNpcSXd6hWtqsw) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [100 \(feat\. Drake\)](https://open.spotify.com/album/28p2PovJC3eJ40qk5MeAAK) | 5:43 |

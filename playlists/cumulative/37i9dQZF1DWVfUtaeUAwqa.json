@@ -235,7 +235,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 232489,
       "name": "Carry Me Back to Old Virginia",
       "url": "https://open.spotify.com/track/2BrcPZPjjLBS9y04floMD5"
@@ -545,7 +545,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 213626,
       "name": "Jazz Me Blues",
       "url": "https://open.spotify.com/track/08T0MQg5rUtP72lZWfR7yB"
@@ -925,7 +925,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": "2022-11-22",
       "duration_ms": 189074,
       "name": "Semper Fidelis",
       "url": "https://open.spotify.com/track/2xWLN4RW1XR7nYXZLBaRzG"
@@ -1149,6 +1149,24 @@
       "duration_ms": 274808,
       "name": "Walkin' The Dog",
       "url": "https://open.spotify.com/track/28OtBc3ImfLCHi3GVdZrrL"
+    },
+    {
+      "album": {
+        "name": "The Masters of Jazz: 33 Best of Edmond Hall & Johnny Dodds",
+        "url": "https://open.spotify.com/album/0drhNnUzPS95tBIjsERz6w"
+      },
+      "artists": [
+        {
+          "name": "Edmond Hall",
+          "url": "https://open.spotify.com/artist/0ObFsHKsujQRFXqEL6Q0Jc"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 274808,
+      "name": "Walkin' the Dog",
+      "url": "https://open.spotify.com/track/6xss1Q8ohRmdyOQxCT7rI7"
     },
     {
       "album": {

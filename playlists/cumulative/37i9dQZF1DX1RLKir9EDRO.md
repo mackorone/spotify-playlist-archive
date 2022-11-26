@@ -4,7 +4,7 @@
 
 > Bağımsız yerli sahneden en taze keşifler\. Kapak: Eve Dönüş Yok Çizim: Isu Kim
 
-242 songs - 14 hr 41 min - [published](https://open.spotify.com/playlist/2SD1ylRiXJ4kfEeC2aTpUY)
+243 songs - 14 hr 43 min - [published](https://open.spotify.com/playlist/2SD1ylRiXJ4kfEeC2aTpUY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Anı Defteri](https://open.spotify.com/track/1LUm2l6xWdMmQwfqpTFc3v) | [Yasin Yıldıran](https://open.spotify.com/artist/6YoHkcuEl6lxnxK7O0qcPd) | [Anı Defteri](https://open.spotify.com/album/2aG99pScXiC5Rb0SPbxbyR) | 4:27 | 2022-04-19 |  |
 | [Aramaktan Yorulmuşsun](https://open.spotify.com/track/2k2KHXE4RG9DlGavJV4VzN) | [Herhangi Bir Evren](https://open.spotify.com/artist/7cKKeROsJYXkHE9k3C69hB) | [Aramaktan Yorulmuşsun](https://open.spotify.com/album/4bM1IhGorOw65qhKq4FJjN) | 3:24 | 2021-12-03 | 2022-01-20 |
 | [Ardıma Bakmadan](https://open.spotify.com/track/4duVeF2yq5CsdXbAaLQJve) | [Vedat Kaner](https://open.spotify.com/artist/3HezubVVhW5FG2830elaGJ) | [Ardıma Bakmadan](https://open.spotify.com/album/5QcRa4Wo9lAbYAnNN7c7Ts) | 3:41 | 2021-12-03 | 2022-01-20 |
-| [Artık](https://open.spotify.com/track/6tR7FZx5ipHwTfZPd2ieBd) | [B4TU INC.](https://open.spotify.com/artist/0JVl2O7TNYlEc6Lc2jHW3o) | [Ben Değilim](https://open.spotify.com/album/1qcjNRs5VALERgxd88sLgA) | 2:08 | 2022-04-01 |  |
+| [Artık](https://open.spotify.com/track/2rL0ZM7i8hqI2jp3RTk1S0) | [B4TU INC.](https://open.spotify.com/artist/0JVl2O7TNYlEc6Lc2jHW3o) | [Ben Değilim](https://open.spotify.com/album/7xPjYtjmkv0fH55iTfErdI) | 2:08 | 2022-09-20 |  |
+| [Artık](https://open.spotify.com/track/6tR7FZx5ipHwTfZPd2ieBd) | [B4TU INC.](https://open.spotify.com/artist/0JVl2O7TNYlEc6Lc2jHW3o) | [Ben Değilim](https://open.spotify.com/album/1qcjNRs5VALERgxd88sLgA) | 2:08 | 2022-04-01 | 2022-11-05 |
 | [Aylak Gündönümü](https://open.spotify.com/track/6jGqXRzCtncoLSTH5UgVxJ) | [Doğuş Kökarttı](https://open.spotify.com/artist/0b2XQh9oiCduFUb4N6Tv21) | [Aylak Gündönümü](https://open.spotify.com/album/0CUmmQBSjZDzcsACmZW4fk) | 4:21 | 2021-12-03 | 2022-01-20 |
 | [Aç Gözünü](https://open.spotify.com/track/347h2wkNfovaTd9ZsFCDg2) | [Lena Beste](https://open.spotify.com/artist/4O93HGT5qcjBhcNvkTzqa5) | [Aç Gözünü](https://open.spotify.com/album/6qL7zzKyF09cszCJeLfCQp) | 2:23 | 2022-03-03 |  |
 | [Açsın Yapraklarım](https://open.spotify.com/track/5EHwomjMfv30hxCMPlHNoz) | [Baran İmamoğlu](https://open.spotify.com/artist/2aGYP0fT4Ygw4FPua8AZnm) | [Açsın Yapraklarım](https://open.spotify.com/album/1N0EuubkqHzeLMV6OpBCUu) | 5:00 | 2022-04-29 |  |

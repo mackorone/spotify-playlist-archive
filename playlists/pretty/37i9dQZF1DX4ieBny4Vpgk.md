@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ieBny4Vpgk.md) - [plain]
 
 > Vocal jazz favorites from 2021\. Cover: Veronica Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,528 likes - 54 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,134 likes - 54 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ieBny4Vpgk.md) - [plain]
 | 22 | [I Don't Know Anything](https://open.spotify.com/track/4VDHfpObfOrut2GvkCOu6V) | [Alan Hsiao](https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG) | [Little Songs: If I Was the President](https://open.spotify.com/album/0hdbjk6GX9mwhyYCz9WF5E) | 4:18 |
 | 23 | [All Or Nothing At All](https://open.spotify.com/track/0j6BoHPikfrtJFYZdVnIT8) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [All Or Nothing At All](https://open.spotify.com/album/0Y9LX6aX9SxXZnvd1K0HAz) | 3:44 |
 | 24 | [Skylight](https://open.spotify.com/track/7u8bCAh4UxNS4GktedpMJ2) | [Kazemde George](https://open.spotify.com/artist/0mjn2eKGdewXxLTXLyYuYj), [Sami Stevens](https://open.spotify.com/artist/2e80FKVlWGy3J55Mh2rlRS), [Isaac Wilson](https://open.spotify.com/artist/6tCY1GkdUm8s72g36FQzCc), [Tyrone Allen II](https://open.spotify.com/artist/6E1lT9oTUWdzh4umlYPFMV), [Adam Arruda](https://open.spotify.com/artist/34bXEECuAdI9QCkJfe3byB) | [I Insist](https://open.spotify.com/album/7fQe5ruzoP0TOVutU9SkMS) | 6:36 |
-| 25 | [Like the Movies](https://open.spotify.com/track/4crdHmkZQmNd2hucSIk7dA) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Typical of Me EP](https://open.spotify.com/album/6gGP0HuDvAzkZQk9wQOwdo) | 2:42 |
+| 25 | [Like the Movies](https://open.spotify.com/track/1hUXDEqjNIIbfjTcaz3jzb) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Typical of Me EP](https://open.spotify.com/album/7pooeoqY4uJkTaW70qxm3z) | 2:42 |
 | 26 | [Love For Sale](https://open.spotify.com/track/4biVNJdcVpAljZjpiO9B4Z) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Love For Sale \(Deluxe\)](https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs) | 3:40 |
 | 27 | [Always Be Right](https://open.spotify.com/track/3MaqRAszvV2ZQFJHICWdUA) | [Georgia Cécile](https://open.spotify.com/artist/0KjGICUAvAWs6qev5iovJa) | [Only The Lover Sings](https://open.spotify.com/album/68NeZkYzPFAQLjS2z8sEZZ) | 3:18 |
 | 28 | [I Wish I Could Go Travelling Again \- Special Edition](https://open.spotify.com/track/19tnUlGTXmwOYFqlDnvigH) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [Songs From Other Places \(Special Edition\)](https://open.spotify.com/album/4HZ7gRidkAp1iL8qDgtJy1) | 4:28 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ieBny4Vpgk.md) - [plain]
 | 30 | [My Baby Just Cares for Me](https://open.spotify.com/track/63GvtdKbAbi2feQxp0DBpA) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI) | [Ledisi Sings Nina](https://open.spotify.com/album/0uRNGjcdUeOG9aekGr1cvc) | 3:39 |
 | 31 | [You Don't Know Me](https://open.spotify.com/track/7o8q6PWBhavXyOSsDMQOhO) | [Steve Tyrell](https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B) | [You Don't Know Me](https://open.spotify.com/album/5cV8S9D9OGM8nxzUKjLfwy) | 3:26 |
 | 32 | [Most of the Time](https://open.spotify.com/track/7e24GhiKpJF41P3gZLz0GZ) | [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Most of the Time](https://open.spotify.com/album/6pc1rk5fKEg0RQgFwHKmTz) | 3:49 |
-| 33 | [Let You Break My Heart Again](https://open.spotify.com/track/3oX7VxSz6EHHnxKGUjk9sx) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY) | [Let You Break My Heart Again](https://open.spotify.com/album/0UTQmhcsGE1eqCLTwvGAcR) | 4:29 |
+| 33 | [Let You Break My Heart Again](https://open.spotify.com/track/709p9UGPAuyImWf1Z3vjRo) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY) | [Let You Break My Heart Again](https://open.spotify.com/album/2YkyuQGoMV2FlG7mFprnRf) | 4:29 |
 | 34 | [Forget Me](https://open.spotify.com/track/7ooca2m8QsakFrzeLG0M30) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Eric Wheeler](https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5), [Joe Dyson](https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS), [Marquis Hill](https://open.spotify.com/artist/5QI54xb4Ovm8DwDkmmHbez), [Sullivan Fortner](https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5) | [Musa](https://open.spotify.com/album/5jeSkpB4Ntk9q3mt6eNCY0) | 4:21 |
 | 35 | [Because He Lives](https://open.spotify.com/track/4V5dQ0bZ75SSHMKt8W9RKh) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [Alone With My Faith](https://open.spotify.com/album/7gMSKwzQlQMV55DTf2mYbU) | 3:33 |
 | 36 | [Making Room](https://open.spotify.com/track/5QRfxsSpzpWqzw4v3vKTCH) | [Kelly Schenk](https://open.spotify.com/artist/3kHGDGEmX8EWocacdi5Ijk) | [Making Room](https://open.spotify.com/album/4Dca3AwituUnPJFqTMTolt) | 4:19 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ieBny4Vpgk.md) - [plain]
 | 53 | [Finis](https://open.spotify.com/track/6aX8v48UL54ghg6KgCaTvi) | [Amanda Tosoff](https://open.spotify.com/artist/6YqsZpf1iDyUBvvVtiPLaR), [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Earth Voices](https://open.spotify.com/album/6QHyaqpkhH0J0qqtd3AVRW) | 5:51 |
 | 54 | [Last Happy Hour \(feat\. Martin Bejerano\)](https://open.spotify.com/track/4Vv73WKOQzQ9LxgpWyJ6nx) | [Roxana Amed](https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n), [Martin Bejerano](https://open.spotify.com/artist/4VMKrj6BdulOiKFPbRVqgb) | [ONTOLOGY](https://open.spotify.com/album/2Orbo9LLzUgeGYLv7Y13ZS) | 5:50 |
 
-Snapshot ID: `MTYzODM4MzIzMiwwMDAwMDAwMDE0NDdiZDNhZTIzZDEyZWY1NzM3N2E4MDkxMzEzMTdl`
+Snapshot ID: `MTYzODM4MzIzMiwwMDAwMDAwMDJlMmVjMGFlZTY0MWM1MzllNjZiNWRlZTkyZTM4MDg2`

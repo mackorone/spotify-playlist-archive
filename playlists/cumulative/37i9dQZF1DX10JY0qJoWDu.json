@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "A Little More",
+        "url": "https://open.spotify.com/album/6jx4akSZu1hcJVADH1JUZd"
+      },
+      "artists": [
+        {
+          "name": "Jessica Darrow",
+          "url": "https://open.spotify.com/artist/4vdAAzZBUKbsrvHi6UR7B7"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186726,
+      "name": "A Little More",
+      "url": "https://open.spotify.com/track/3iQyxNq8TnhYimIMrKbEwa"
+    },
+    {
+      "album": {
         "name": "Rockin' Holiday",
         "url": "https://open.spotify.com/album/2yKCih4uWRew4GFBpWDdTA"
       },
@@ -135,6 +153,32 @@
       "duration_ms": 190226,
       "name": "Celebrate (It's Christmas)",
       "url": "https://open.spotify.com/track/12blByfqH50AD5VZnRZukS"
+    },
+    {
+      "album": {
+        "name": "High School Musical: The Musical: The Holiday Special (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/389VFKfgX6qu3L25ctkEFj"
+      },
+      "artists": [
+        {
+          "name": "Dara Rene\u00e9",
+          "url": "https://open.spotify.com/artist/7BtVR5EyH1mjLM5bjXUD5s"
+        },
+        {
+          "name": "Joshua Bassett",
+          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
+        },
+        {
+          "name": "Matt Cornett",
+          "url": "https://open.spotify.com/artist/61lrTfBVPrE3DOTu9MGmhQ"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138827,
+      "name": "Christmas (Baby Please Come Home)",
+      "url": "https://open.spotify.com/track/3xnbm32H80upWWCEY20RQd"
     },
     {
       "album": {
@@ -326,6 +370,24 @@
     },
     {
       "album": {
+        "name": "Elves Just Wanna Have Fun (From \"The Santa Clauses\")",
+        "url": "https://open.spotify.com/album/1s0YL7lVhIeAP7912Ly0XU"
+      },
+      "artists": [
+        {
+          "name": "The Santa Clauses - Cast",
+          "url": "https://open.spotify.com/artist/1fcqHgM7myURz9HBW2jEQU"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85718,
+      "name": "Elves Just Wanna Have Fun - From \"The Santa Clauses\"",
+      "url": "https://open.spotify.com/track/3VtNPlYZPNALshmbvb31He"
+    },
+    {
+      "album": {
         "name": "Noelle (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7GZR54Ir7Aq5T34aRhJQfw"
       },
@@ -429,6 +491,24 @@
       "duration_ms": 146106,
       "name": "Frosty the Snowman (Recorded as \"Perry Saves Christmas\")",
       "url": "https://open.spotify.com/track/35RR0sUJtfdTVWi98cGMCg"
+    },
+    {
+      "album": {
+        "name": "Disney Channel Holiday",
+        "url": "https://open.spotify.com/album/1A7xeEQISORj0aNqjIdUdv"
+      },
+      "artists": [
+        {
+          "name": "Aly & AJ",
+          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218466,
+      "name": "Greatest Time Of Year",
+      "url": "https://open.spotify.com/track/6zOxBHvtYKy43AeeUlurBR"
     },
     {
       "album": {
@@ -619,6 +699,24 @@
       "duration_ms": 146600,
       "name": "I Wish I Could Be Santa Claus",
       "url": "https://open.spotify.com/track/1IL3cX5wKaahkzLvIxvgpj"
+    },
+    {
+      "album": {
+        "name": "Edward Scissorhands",
+        "url": "https://open.spotify.com/album/4pv4SQkB4SXrY5bynbW0lf"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104973,
+      "name": "Ice Dance",
+      "url": "https://open.spotify.com/track/6HH8ZoDIe5qw8EYTTHVZh7"
     },
     {
       "album": {
@@ -814,6 +912,24 @@
     },
     {
       "album": {
+        "name": "Last Christmas (From \"The Santa Clauses\")",
+        "url": "https://open.spotify.com/album/0gCWN3e105Yl2K9v4Su8OD"
+      },
+      "artists": [
+        {
+          "name": "The Santa Clauses - Cast",
+          "url": "https://open.spotify.com/artist/1fcqHgM7myURz9HBW2jEQU"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110000,
+      "name": "Last Christmas - From \"The Santa Clauses\"",
+      "url": "https://open.spotify.com/track/4X1briUG2VKKO1oP582NRT"
+    },
+    {
+      "album": {
         "name": "Let It Glow (From \"Frozen Northern Lights\")",
         "url": "https://open.spotify.com/album/4dPtBNViH8bSO5Xe6MRsfF"
       },
@@ -931,6 +1047,46 @@
       "duration_ms": 162752,
       "name": "Love Runs Deeper - Disney supporting Make-A-Wish",
       "url": "https://open.spotify.com/track/4rZM46K4uu9rTAwkS5KSNr"
+    },
+    {
+      "album": {
+        "name": "Home Alone (Original Motion Picture Soundtrack) [Anniversary Edition]",
+        "url": "https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "Boston Pops Orchestra",
+          "url": "https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293533,
+      "name": "Main Title \"Somewhere in My Memory\" (From \"Home Alone\") - Voice",
+      "url": "https://open.spotify.com/track/1FlxqJmoZWS2q1uRlyZVur"
+    },
+    {
+      "album": {
+        "name": "Father Of The Bride (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/3cXfo1Qhssl2vgPaSzoJxa"
+      },
+      "artists": [
+        {
+          "name": "Alan Silvestri",
+          "url": "https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149440,
+      "name": "Main Title - From \"Father Of The Bride\"",
+      "url": "https://open.spotify.com/track/0i30bPPakybjqfAkxApcLM"
     },
     {
       "album": {
@@ -1609,6 +1765,24 @@
       "duration_ms": 222360,
       "name": "The Twelve Days of Christmas - Princess Version",
       "url": "https://open.spotify.com/track/4IZ9TrRe76ysqUeCpvL8to"
+    },
+    {
+      "album": {
+        "name": "High School Musical: The Musical: The Holiday Special (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/389VFKfgX6qu3L25ctkEFj"
+      },
+      "artists": [
+        {
+          "name": "Sofia Wylie",
+          "url": "https://open.spotify.com/artist/0K0YUvOFH3TVILvIPBfeYN"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160922,
+      "name": "This Christmas (Hang All the Mistletoe)",
+      "url": "https://open.spotify.com/track/1DJG5QEDHGMnVeOeBRKPTG"
     },
     {
       "album": {

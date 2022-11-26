@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "Star Of Love",
+        "url": "https://open.spotify.com/album/00v21bgN2da5KonMWEAMec"
+      },
+      "artists": [
+        {
+          "name": "Crystal Fighters",
+          "url": "https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 306440,
+      "name": "At Home",
+      "url": "https://open.spotify.com/track/3dXNrqnhNUPdrkvnj8TjvX"
+    },
+    {
+      "album": {
         "name": "Baby I'm Yours",
         "url": "https://open.spotify.com/album/0sCktPXUOt19W503or8h9b"
       },
@@ -192,6 +210,24 @@
     },
     {
       "album": {
+        "name": "Philharmonics",
+        "url": "https://open.spotify.com/album/1hOKjrormSHpyOw0BREwEx"
+      },
+      "artists": [
+        {
+          "name": "Agnes Obel",
+          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-03",
+      "duration_ms": 238800,
+      "name": "Brother Sparrow",
+      "url": "https://open.spotify.com/track/6VkeSWmjyB3wN5SOnISK5S"
+    },
+    {
+      "album": {
         "name": "Body Talk",
         "url": "https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns"
       },
@@ -211,7 +247,7 @@
     {
       "album": {
         "name": "Tourist History",
-        "url": "https://open.spotify.com/album/0SD7kwnJEC2oDzQBKEHQnH"
+        "url": "https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa"
       },
       "artists": [
         {
@@ -222,6 +258,24 @@
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 214253,
+      "name": "Cigarettes In the Theatre",
+      "url": "https://open.spotify.com/track/1pdbW0f7avXN6Uwj9JroFY"
+    },
+    {
+      "album": {
+        "name": "Tourist History",
+        "url": "https://open.spotify.com/album/0SD7kwnJEC2oDzQBKEHQnH"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-02",
       "duration_ms": 214253,
       "name": "Cigarettes In the Theatre",
       "url": "https://open.spotify.com/track/2Vfbf60Ujpom3Bcljzw7Dd"
@@ -246,8 +300,52 @@
     },
     {
       "album": {
+        "name": "Down to Earth",
+        "url": "https://open.spotify.com/album/04GVpETpPlXbSs83NcmBUJ"
+      },
+      "artists": [
+        {
+          "name": "Flight Facilities",
+          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
+        },
+        {
+          "name": "Giselle",
+          "url": "https://open.spotify.com/artist/5cxol8ruhBU1QpUick7A42"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 234786,
+      "name": "Crave You",
+      "url": "https://open.spotify.com/track/2BtImFZlm7U8a2Cr9sEbaW"
+    },
+    {
+      "album": {
         "name": "Down To Earth",
         "url": "https://open.spotify.com/album/5V8798yQx7GwVCXQTyIOJz"
+      },
+      "artists": [
+        {
+          "name": "Flight Facilities",
+          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
+        },
+        {
+          "name": "Giselle",
+          "url": "https://open.spotify.com/artist/5cxol8ruhBU1QpUick7A42"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-02",
+      "duration_ms": 234786,
+      "name": "Crave You",
+      "url": "https://open.spotify.com/track/4ESWJepzBtY2lR9oZDYVaP"
+    },
+    {
+      "album": {
+        "name": "Down To Earth",
+        "url": "https://open.spotify.com/album/1FQyS2AHgEQB6F5Jh1ymGb"
       },
       "artists": [
         {
@@ -264,7 +362,7 @@
       "date_removed": null,
       "duration_ms": 234786,
       "name": "Crave You",
-      "url": "https://open.spotify.com/track/4ESWJepzBtY2lR9oZDYVaP"
+      "url": "https://open.spotify.com/track/5mdzg7ZwebXNb90LPRusAs"
     },
     {
       "album": {
@@ -301,6 +399,24 @@
       "duration_ms": 536471,
       "name": "Dance Yrself Clean",
       "url": "https://open.spotify.com/track/2cmRpmO04TLaKPzmAzySYZ"
+    },
+    {
+      "album": {
+        "name": "2010 Top Hits",
+        "url": "https://open.spotify.com/album/7pIncnQH1oj8FEKzTs3noB"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 288670,
+      "name": "Dancing On My Own",
+      "url": "https://open.spotify.com/track/1aQzWpzJ1uAhb1yM7UAiP7"
     },
     {
       "album": {
@@ -387,10 +503,28 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 303653,
       "name": "Down in the Valley",
       "url": "https://open.spotify.com/track/7B2yGUDt0aHGP0YuP4c2iG"
+    },
+    {
+      "album": {
+        "name": "The Head And The Heart",
+        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303653,
+      "name": "Down in the Valley",
+      "url": "https://open.spotify.com/track/7IcKs2XXHnQBtBJtzEyqqS"
     },
     {
       "album": {
@@ -431,6 +565,24 @@
       "duration_ms": 283573,
       "name": "Empire Ants (feat. Little Dragon)",
       "url": "https://open.spotify.com/track/3a6PN6BRB8PP3ms48s7kU1"
+    },
+    {
+      "album": {
+        "name": "High Violet (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0ZHwBlV4OAweXWwbUemkmT"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 340186,
+      "name": "England",
+      "url": "https://open.spotify.com/track/2C0xQEQPtwDc9yhx3UtUsB"
     },
     {
       "album": {
@@ -506,6 +658,46 @@
     },
     {
       "album": {
+        "name": "Rope & Summit EP",
+        "url": "https://open.spotify.com/album/6reDXT9sAge6HzdmE350tG"
+      },
+      "artists": [
+        {
+          "name": "Junip",
+          "url": "https://open.spotify.com/artist/7HcipAIJatVGT4U6HQrnFW"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 166200,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/3eYqU6kYLsN67CYz1CvSds"
+    },
+    {
+      "album": {
+        "name": "Death of a Superhero (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5VAQC0kA7MU5roI1LLX6LX"
+      },
+      "artists": [
+        {
+          "name": "Angus",
+          "url": "https://open.spotify.com/artist/2y9Q8D5KMKF3n5W8ep3sBe"
+        },
+        {
+          "name": "Julia Stone",
+          "url": "https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 321653,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/4HOcQyjWXaWkZYFa9kzzFX"
+    },
+    {
+      "album": {
         "name": "Down the Way",
         "url": "https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ"
       },
@@ -539,6 +731,24 @@
       "duration_ms": 202589,
       "name": "Get Some",
       "url": "https://open.spotify.com/track/5LbCx9z3eq83JVoJ74tnmt"
+    },
+    {
+      "album": {
+        "name": "Wounded Rhymes (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/19ms2xSmphDqfhx2dp11Tl"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 202589,
+      "name": "Get Some",
+      "url": "https://open.spotify.com/track/77xik5R8pJqWIdZoYTeWV3"
     },
     {
       "album": {
@@ -705,7 +915,7 @@
     {
       "album": {
         "name": "Tourist History",
-        "url": "https://open.spotify.com/album/0SD7kwnJEC2oDzQBKEHQnH"
+        "url": "https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa"
       },
       "artists": [
         {
@@ -716,6 +926,24 @@
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 177426,
+      "name": "I Can Talk",
+      "url": "https://open.spotify.com/track/2OqI9fjaLeXnphj1Vcs1bi"
+    },
+    {
+      "album": {
+        "name": "Tourist History",
+        "url": "https://open.spotify.com/album/0SD7kwnJEC2oDzQBKEHQnH"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-02",
       "duration_ms": 177426,
       "name": "I Can Talk",
       "url": "https://open.spotify.com/track/5R34yWuK4EWjy3l6IAfMFJ"
@@ -787,10 +1015,28 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 225233,
       "name": "Journal of Ardency",
       "url": "https://open.spotify.com/track/3vc0dm7NHZTProvlYlkhmh"
+    },
+    {
+      "album": {
+        "name": "Journal of Ardency",
+        "url": "https://open.spotify.com/album/7twFekZ3zmVFkbChsA42bG"
+      },
+      "artists": [
+        {
+          "name": "Class Actress",
+          "url": "https://open.spotify.com/artist/4nZbOHYEypqHtWwTPQu8Fl"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225306,
+      "name": "Journal of Ardency",
+      "url": "https://open.spotify.com/track/6GEIpzW14NtOjqHejbcSRE"
     },
     {
       "album": {
@@ -809,6 +1055,24 @@
       "duration_ms": 206186,
       "name": "King of Spain",
       "url": "https://open.spotify.com/track/7nf794AzR4NDuhNOnkJoOd"
+    },
+    {
+      "album": {
+        "name": "King of Spain",
+        "url": "https://open.spotify.com/album/0OMR85nZdzXwU5v5v225kC"
+      },
+      "artists": [
+        {
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 207946,
+      "name": "King of Spain",
+      "url": "https://open.spotify.com/track/3wTFSdatTjW8VmYNPtIiHk"
     },
     {
       "album": {
@@ -903,10 +1167,64 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 259120,
       "name": "Lost in My Mind",
       "url": "https://open.spotify.com/track/2A4eOWCeNZHFQnLEEJKuZX"
+    },
+    {
+      "album": {
+        "name": "The Head And The Heart",
+        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259120,
+      "name": "Lost in My Mind",
+      "url": "https://open.spotify.com/track/3n263SWk3jGYfGMxHIRukn"
+    },
+    {
+      "album": {
+        "name": "This Will All Blow Over In Time",
+        "url": "https://open.spotify.com/album/7mbnjdQ71PNVZ7VqIyhTLv"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 162935,
+      "name": "Louder Than Ever",
+      "url": "https://open.spotify.com/track/61xc3SlEw9wRpePDz87ryd"
+    },
+    {
+      "album": {
+        "name": "Mine Is Yours",
+        "url": "https://open.spotify.com/album/69Kgl92Q1X2n7ERDX4me1r"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 164280,
+      "name": "Louder Than Ever",
+      "url": "https://open.spotify.com/track/5j08C17ks3onk4i4g7XRJi"
     },
     {
       "album": {
@@ -943,6 +1261,24 @@
       "duration_ms": 271720,
       "name": "Lucidity",
       "url": "https://open.spotify.com/track/4EC81w5nKG5tZlkHyKT2vO"
+    },
+    {
+      "album": {
+        "name": "Meyrin Fields EP",
+        "url": "https://open.spotify.com/album/74Duvq6GksnldghnjwYRdB"
+      },
+      "artists": [
+        {
+          "name": "Broken Bells",
+          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 166906,
+      "name": "Meyrin Fields",
+      "url": "https://open.spotify.com/track/0Em7kYMP9LGyRNc7KroJTZ"
     },
     {
       "album": {
@@ -1162,6 +1498,24 @@
     },
     {
       "album": {
+        "name": "Subiza",
+        "url": "https://open.spotify.com/album/6jhoK83VIkt8Yr5L3Hcnsi"
+      },
+      "artists": [
+        {
+          "name": "Delorean",
+          "url": "https://open.spotify.com/artist/4llqCChMq4zPzCB84OrTck"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 366146,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/6SAtB7zpZ209gCDxU4i9oG"
+    },
+    {
+      "album": {
         "name": "Halcyon Digest",
         "url": "https://open.spotify.com/album/3a3Yp0PRguSTH3dBOeWRyZ"
       },
@@ -1198,6 +1552,24 @@
     },
     {
       "album": {
+        "name": "10 Years of Mom+Pop",
+        "url": "https://open.spotify.com/album/2xd8agIjiL0SNqZvkKyv1B"
+      },
+      "artists": [
+        {
+          "name": "Sleigh Bells",
+          "url": "https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 229893,
+      "name": "Rill Rill",
+      "url": "https://open.spotify.com/track/0DG2104AFWwy8mkJFwO5fk"
+    },
+    {
+      "album": {
         "name": "Treats",
         "url": "https://open.spotify.com/album/1IWkF6zpOq73txmrYpljIT"
       },
@@ -1227,10 +1599,28 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 284000,
       "name": "Rivers and Roads",
       "url": "https://open.spotify.com/track/3nzXs8ynjIwQvmxjogvCYx"
+    },
+    {
+      "album": {
+        "name": "The Head And The Heart",
+        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284000,
+      "name": "Rivers and Roads",
+      "url": "https://open.spotify.com/track/3z7kvwJVRfA4HCOfm9ngog"
     },
     {
       "album": {
@@ -1249,6 +1639,24 @@
       "duration_ms": 228546,
       "name": "Riverside",
       "url": "https://open.spotify.com/track/4vJ2nNBA6sxAUN5kLGPq3Q"
+    },
+    {
+      "album": {
+        "name": "Philharmonics (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3Mj2AdZblvorS19tdG95hZ"
+      },
+      "artists": [
+        {
+          "name": "Agnes Obel",
+          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 228546,
+      "name": "Riverside",
+      "url": "https://open.spotify.com/track/7idJS1YOV1eABaJE8iQsEK"
     },
     {
       "album": {
@@ -1343,7 +1751,7 @@
     {
       "album": {
         "name": "Tourist History",
-        "url": "https://open.spotify.com/album/0SD7kwnJEC2oDzQBKEHQnH"
+        "url": "https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa"
       },
       "artists": [
         {
@@ -1356,7 +1764,43 @@
       "date_removed": null,
       "duration_ms": 164186,
       "name": "Something Good Can Work",
+      "url": "https://open.spotify.com/track/59kNaCxnyX7Ezt1m6KxGLY"
+    },
+    {
+      "album": {
+        "name": "Tourist History",
+        "url": "https://open.spotify.com/album/0SD7kwnJEC2oDzQBKEHQnH"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-02",
+      "duration_ms": 164186,
+      "name": "Something Good Can Work",
       "url": "https://open.spotify.com/track/5yDX0yhtLyf0zEXEqXqyAa"
+    },
+    {
+      "album": {
+        "name": "Kitsun\u00e9 Maison Compilation 7",
+        "url": "https://open.spotify.com/album/0IoQT8SLSAIYS3kBPF4rBg"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 165320,
+      "name": "Something Good Can Work",
+      "url": "https://open.spotify.com/track/2Sk6M1FAJq0ftXRnNJxAXf"
     },
     {
       "album": {
@@ -1371,7 +1815,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 205213,
       "name": "Sorrow",
       "url": "https://open.spotify.com/track/30YMGz5pjtRaIjtQcpjn01"
@@ -1556,6 +2000,24 @@
     },
     {
       "album": {
+        "name": "High Violet (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0ZHwBlV4OAweXWwbUemkmT"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 279760,
+      "name": "Terrible Love",
+      "url": "https://open.spotify.com/track/6gIgCC8fMTYW7D3cdrMlIs"
+    },
+    {
+      "album": {
         "name": "High Violet",
         "url": "https://open.spotify.com/album/3mX8oKajxXEBNNATCKLLPd"
       },
@@ -1567,7 +2029,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 279760,
       "name": "Terrible Love",
       "url": "https://open.spotify.com/track/6pUAg3OgdO2kQ4lub9Tb5m"
@@ -1664,8 +2126,44 @@
     },
     {
       "album": {
+        "name": "Brothers (Deluxe Remastered Anniversary Edition)",
+        "url": "https://open.spotify.com/album/29bmuSuw3vsPILoexZy6MH"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 211336,
+      "name": "Tighten Up",
+      "url": "https://open.spotify.com/track/2sNNsyQ605b7OfDP8kkvaX"
+    },
+    {
+      "album": {
         "name": "Tourist History",
         "url": "https://open.spotify.com/album/0SD7kwnJEC2oDzQBKEHQnH"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-02",
+      "duration_ms": 167773,
+      "name": "Undercover Martyn",
+      "url": "https://open.spotify.com/track/0Hrd6CSafHHqKptyFppmqH"
+    },
+    {
+      "album": {
+        "name": "Tourist History",
+        "url": "https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa"
       },
       "artists": [
         {
@@ -1678,7 +2176,7 @@
       "date_removed": null,
       "duration_ms": 167773,
       "name": "Undercover Martyn",
-      "url": "https://open.spotify.com/track/0Hrd6CSafHHqKptyFppmqH"
+      "url": "https://open.spotify.com/track/0bePGTDjn0XuEKoN7rOMvV"
     },
     {
       "album": {
@@ -1719,7 +2217,7 @@
     {
       "album": {
         "name": "Tourist History",
-        "url": "https://open.spotify.com/album/0SD7kwnJEC2oDzQBKEHQnH"
+        "url": "https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa"
       },
       "artists": [
         {
@@ -1730,6 +2228,24 @@
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 191706,
+      "name": "What You Know",
+      "url": "https://open.spotify.com/track/3GBApU0NuzH4hKZq4NOSdA"
+    },
+    {
+      "album": {
+        "name": "Tourist History",
+        "url": "https://open.spotify.com/album/0SD7kwnJEC2oDzQBKEHQnH"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-02",
       "duration_ms": 191706,
       "name": "What You Know",
       "url": "https://open.spotify.com/track/3UjtIALeg72qmJiKPWBvM3"
@@ -1769,6 +2285,24 @@
       "duration_ms": 178666,
       "name": "White Sky",
       "url": "https://open.spotify.com/track/1QdVwO5xqAI88pNn2qfNjU"
+    },
+    {
+      "album": {
+        "name": "White Sky",
+        "url": "https://open.spotify.com/album/0JS3ey7Ayv5iL2NBeBDyK0"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 178666,
+      "name": "White Sky",
+      "url": "https://open.spotify.com/track/362rO6fBWBJ1WUJgEjTLcQ"
     },
     {
       "album": {

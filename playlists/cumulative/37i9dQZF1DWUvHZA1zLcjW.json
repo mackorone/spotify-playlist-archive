@@ -1174,6 +1174,32 @@
     },
     {
       "album": {
+        "name": "The Art of Bach",
+        "url": "https://open.spotify.com/album/0e8yrpux49X2XcsUqn2bWx"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "M\u00e1rta Kurt\u00e1g",
+          "url": "https://open.spotify.com/artist/1S7UUjCyXGTB8L2TYVIhcX"
+        },
+        {
+          "name": "Gy\u00f6rgy Kurt\u00e1g",
+          "url": "https://open.spotify.com/artist/1ygboTdafDwlY7TUYEj37E"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 138840,
+      "name": "Gottes Zeit ist die allerbeste Zeit, Sonatina az \"Actus tragicus\"-b\u00f3l, BWV 106",
+      "url": "https://open.spotify.com/track/7G1EFxYUfb4CM4FKCjzH9N"
+    },
+    {
+      "album": {
         "name": "Bach Eternal",
         "url": "https://open.spotify.com/album/3D7QDPIZdKkCbpS1msH6Mw"
       },
@@ -1386,6 +1412,46 @@
     },
     {
       "album": {
+        "name": "Liszt, Chopin, Silvestrov: Der Bote - Elegies For Piano",
+        "url": "https://open.spotify.com/album/0dMFIMkCauD3vTDGoHWMyw"
+      },
+      "artists": [
+        {
+          "name": "John Cage",
+          "url": "https://open.spotify.com/artist/1Z3fF5lZdCM0ZHugkGoH8s"
+        },
+        {
+          "name": "Alexei Lubimov",
+          "url": "https://open.spotify.com/artist/0604Eow92EXTCLStZOUNlG"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 531826,
+      "name": "In A Landscape",
+      "url": "https://open.spotify.com/track/7KatGCgCU3NKInegEPCskB"
+    },
+    {
+      "album": {
+        "name": "In Retrospect",
+        "url": "https://open.spotify.com/album/013HlaUbtTEYInYdESDJIi"
+      },
+      "artists": [
+        {
+          "name": "Jacob M\u00fchlrad",
+          "url": "https://open.spotify.com/artist/0P9g1ss8CfLwU62fzm8Ldf"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127786,
+      "name": "In Retrospect",
+      "url": "https://open.spotify.com/track/01yKVn4gVNu3pKrDiFzIdT"
+    },
+    {
+      "album": {
         "name": "Schumann: Kinderszenen; Kreisleriana",
         "url": "https://open.spotify.com/album/6sxH5yHob34qbhbYjYWjsX"
       },
@@ -1489,10 +1555,32 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 211578,
       "name": "Le Musicien",
       "url": "https://open.spotify.com/track/0p7eGj7iQWV2471jXeMyit"
+    },
+    {
+      "album": {
+        "name": "Blue Landscapes III: Frontiers (Music from a Quieter Place)",
+        "url": "https://open.spotify.com/album/6OAl3vN0bIULFGDvv22V4V"
+      },
+      "artists": [
+        {
+          "name": "Damjan Krajacic",
+          "url": "https://open.spotify.com/artist/48XnG6WkLWkpww5oIJib0X"
+        },
+        {
+          "name": "Robert Thies",
+          "url": "https://open.spotify.com/artist/3JGu3awfnadacdeNLJ9AfI"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211578,
+      "name": "Le Musicien",
+      "url": "https://open.spotify.com/track/1SzTivReEYHIkPfBxnP5u6"
     },
     {
       "album": {
@@ -1603,6 +1691,32 @@
       "duration_ms": 218133,
       "name": "Look Inside Yourself",
       "url": "https://open.spotify.com/track/4UoQyXltWDTbKhz839QILK"
+    },
+    {
+      "album": {
+        "name": "African American Voices",
+        "url": "https://open.spotify.com/album/4f6XPe8F6DWVrPx3dwcFny"
+      },
+      "artists": [
+        {
+          "name": "George Walker",
+          "url": "https://open.spotify.com/artist/2pPbwLIL97jlqzsKlzVdzz"
+        },
+        {
+          "name": "Kellen Gray",
+          "url": "https://open.spotify.com/artist/2B3W9IVheD4omk92orPHwt"
+        },
+        {
+          "name": "Royal Scottish National Orchestra",
+          "url": "https://open.spotify.com/artist/5xBSsPfZtPItmn72C2EHVf"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322596,
+      "name": "Lyric for Strings",
+      "url": "https://open.spotify.com/track/1baQcdtRay9WntS5ySAkOZ"
     },
     {
       "album": {
@@ -1721,6 +1835,32 @@
       "duration_ms": 177226,
       "name": "Melodies of the Upper Worlds (Arr. M. Ayrapetyan for Piano): XIII. To Proclaim in the Morning About Your Mercy",
       "url": "https://open.spotify.com/track/7qfUR1g5efZUh7Vf3fY8fh"
+    },
+    {
+      "album": {
+        "name": "Chill With Satie",
+        "url": "https://open.spotify.com/album/5alBq6M27UNiLQICjblXsJ"
+      },
+      "artists": [
+        {
+          "name": "Erik Satie",
+          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+        },
+        {
+          "name": "Orchestre Symphonique et Lyrique de Nancy",
+          "url": "https://open.spotify.com/artist/0g4p5Yus79xwJKf9co2RCR"
+        },
+        {
+          "name": "Jerome Kaltenbach",
+          "url": "https://open.spotify.com/artist/3jK1IVWV4t4FTXjCiobeE2"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 80640,
+      "name": "Mercure - Poses plastiques en trois tableaux: La Nuit",
+      "url": "https://open.spotify.com/track/4uPoKGJ1QRJF8QmsHztfYI"
     },
     {
       "album": {

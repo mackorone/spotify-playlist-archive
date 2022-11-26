@@ -247,10 +247,46 @@
       ],
       "date_added": "2018-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 265973,
       "name": "Endumisweni",
       "url": "https://open.spotify.com/track/1UGcDqgMa0H0p8vODceY86"
+    },
+    {
+      "album": {
+        "name": "Gospel Hits",
+        "url": "https://open.spotify.com/album/2ABlTWUAfKDPnUThVIM614"
+      },
+      "artists": [
+        {
+          "name": "Bhekumuzi Luthuli",
+          "url": "https://open.spotify.com/artist/2olZnrkMJFY0BnGZM7vWMV"
+        }
+      ],
+      "date_added": "2018-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265973,
+      "name": "Endumisweni",
+      "url": "https://open.spotify.com/track/3IPrZBtgOikNvhiUGQ8K4x"
+    },
+    {
+      "album": {
+        "name": "Igazi Lami",
+        "url": "https://open.spotify.com/album/5x72PkBa1vuzcaOj03qE4y"
+      },
+      "artists": [
+        {
+          "name": "Bhekumuzi Luthuli",
+          "url": "https://open.spotify.com/artist/2olZnrkMJFY0BnGZM7vWMV"
+        }
+      ],
+      "date_added": "2018-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 265973,
+      "name": "Endumisweni",
+      "url": "https://open.spotify.com/track/4uFD0tUSdPcG4XsHic6tCY"
     },
     {
       "album": {
@@ -402,6 +438,24 @@
     },
     {
       "album": {
+        "name": "Grand Masters Collection: African Roots",
+        "url": "https://open.spotify.com/album/3TZZsyFNPwYd6U7HngzQ0R"
+      },
+      "artists": [
+        {
+          "name": "Phuzekhemisi No Khethani",
+          "url": "https://open.spotify.com/artist/6bhmRXAWbMM1oYuoSNCR1f"
+        }
+      ],
+      "date_added": "2018-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 238026,
+      "name": "Imbizo",
+      "url": "https://open.spotify.com/track/2UZruglT1zTqdfT1RffTjZ"
+    },
+    {
+      "album": {
         "name": "Imbizo",
         "url": "https://open.spotify.com/album/33HOA4xP6hyXlm1CcUy5Ce"
       },
@@ -453,6 +507,24 @@
       "duration_ms": 251560,
       "name": "Imikhuba",
       "url": "https://open.spotify.com/track/26ShN8gJb3wLqgLAA9dUSD"
+    },
+    {
+      "album": {
+        "name": "The Ultimate Collection: Phuzekhemisi",
+        "url": "https://open.spotify.com/album/4abzxM3Cy35Dg5Mmjwg8ud"
+      },
+      "artists": [
+        {
+          "name": "Phuzekhemisi",
+          "url": "https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP"
+        }
+      ],
+      "date_added": "2018-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 251560,
+      "name": "Imikhuba",
+      "url": "https://open.spotify.com/track/4SlVGHwa8dQDr8hAa8ZiDf"
     },
     {
       "album": {
@@ -1193,6 +1265,24 @@
     {
       "album": {
         "name": "Sikhokha Njalo",
+        "url": "https://open.spotify.com/album/2qwRr5I8KMzkiPDuc2eLYU"
+      },
+      "artists": [
+        {
+          "name": "Phuzekhemisi",
+          "url": "https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP"
+        }
+      ],
+      "date_added": "2020-08-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 257754,
+      "name": "Sikhokha Njalo",
+      "url": "https://open.spotify.com/track/3C2Tft3NEV550RHHG7UqFS"
+    },
+    {
+      "album": {
+        "name": "Sikhokha Njalo",
         "url": "https://open.spotify.com/album/5ysSoX3cp4ZJE0pHykOfop"
       },
       "artists": [
@@ -1376,6 +1466,24 @@
     },
     {
       "album": {
+        "name": "Tshath' Ugodo, Vol. 1",
+        "url": "https://open.spotify.com/album/7u3878BCzhCvrWLHtmSvYF"
+      },
+      "artists": [
+        {
+          "name": "Mfaz' Omnyama",
+          "url": "https://open.spotify.com/artist/0JQAeDYaigl5nor0kUP44X"
+        }
+      ],
+      "date_added": "2018-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 294706,
+      "name": "Ukuganwa",
+      "url": "https://open.spotify.com/track/65tm6Jze8PbRRIwUgJt5HF"
+    },
+    {
+      "album": {
         "name": "Angiseyona Itype Yakho",
         "url": "https://open.spotify.com/album/4N6uYvCf4TgK5kAopt1RqQ"
       },
@@ -1391,6 +1499,24 @@
       "duration_ms": 340976,
       "name": "Ukuthanda Izinto",
       "url": "https://open.spotify.com/track/2DqL1bQTQVvVDnT16iQq7z"
+    },
+    {
+      "album": {
+        "name": "Grand Masters Collection: Sound Offerings from South Africa",
+        "url": "https://open.spotify.com/album/1spoGR5KDLCuNZY6FM7RNE"
+      },
+      "artists": [
+        {
+          "name": "Thokozani Langa",
+          "url": "https://open.spotify.com/artist/27f92EUPQigI8IqwB00286"
+        }
+      ],
+      "date_added": "2018-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 317303,
+      "name": "Usale Kanjani",
+      "url": "https://open.spotify.com/track/6owkaZSiybyT7eEN9BUSmZ"
     },
     {
       "album": {

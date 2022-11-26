@@ -4,7 +4,7 @@
 
 > 30 has landed, alongside all her biggest hits!
 
-65 songs - 4 hr 41 min - [published](https://open.spotify.com/playlist/25iPwofyuEhxNXtcvJMrYl)
+71 songs - 5 hr 3 min - [published](https://open.spotify.com/playlist/25iPwofyuEhxNXtcvJMrYl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,8 +12,10 @@
 | [All I Ask](https://open.spotify.com/track/6HbI4e2Y2f6HYVV6r04M4W) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/7uwTHXmFa1Ebi5flqBosig) | 4:31 | 2021-11-19 | 2022-07-29 |
 | [All Night Parking \(with Erroll Garner\) Interlude](https://open.spotify.com/track/496vIKS2INz840xZaKncvR) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 2:41 | 2021-11-19 |  |
 | [Can I Get It](https://open.spotify.com/track/6w8ZPYdnGajyfPddTWdthN) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:30 | 2021-11-19 |  |
+| [Chasing Pavements](https://open.spotify.com/track/3fLT97x5VBTi09GZeZbqwf) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Chasing Pavements](https://open.spotify.com/album/5Kclo2Kmw2v94UqKwZam8F) | 3:30 | 2021-11-19 | 2022-11-14 |
 | [Chasing Pavements](https://open.spotify.com/track/4YoGMmUJJ9dZpQ2CLOmPl2) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/3uftDqGs13LsE1s8nn5XSe) | 3:30 | 2021-11-19 | 2022-07-29 |
 | [Chasing Pavements](https://open.spotify.com/track/56pHllZT7QOacB0bP56ofx) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0) | 3:30 | 2021-11-19 |  |
+| [Cold Shoulder](https://open.spotify.com/track/4EBRcXw782MB7GGJKoKTW5) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Cold Shoulder](https://open.spotify.com/album/4JjVwFhBHZTMJTSAIACvn4) | 3:11 | 2021-11-19 | 2022-11-13 |
 | [Cold Shoulder](https://open.spotify.com/track/78foNmu2hGDPwm3cJVlikF) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/3uftDqGs13LsE1s8nn5XSe) | 3:11 | 2021-11-19 | 2022-07-29 |
 | [Cold Shoulder](https://open.spotify.com/track/7qxPZTCgQaAe76yhl06vik) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0) | 3:11 | 2021-11-19 |  |
 | [Crazy For You](https://open.spotify.com/track/2Mu0WHDu931jSNOC6GDIp5) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/3uftDqGs13LsE1s8nn5XSe) | 3:28 | 2021-11-19 | 2022-07-29 |
@@ -24,6 +26,7 @@
 | [Don't You Remember](https://open.spotify.com/track/48s4feNgV243gbAGTTBIrc) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/7n3QJc7TBOxXtlYh4Ssll8) | 4:03 | 2021-11-19 | 2022-07-29 |
 | [Don't You Remember](https://open.spotify.com/track/4RyjMERDcCJHTkFpXzgUw4) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 4:03 | 2021-11-19 |  |
 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 | 2021-11-19 |  |
+| [Hello](https://open.spotify.com/track/3AuzZHPlohKLpildLyORSM) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Hello](https://open.spotify.com/album/5givPbMFm0AMPUYWulmbzg) | 4:55 | 2021-11-19 | 2022-11-14 |
 | [Hello](https://open.spotify.com/track/4aebBr4JAihzJQR0CiIZJv) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/7uwTHXmFa1Ebi5flqBosig) | 4:55 | 2021-11-19 | 2022-07-29 |
 | [Hello](https://open.spotify.com/track/62PaSfnXSMyLshYJrlTuL3) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 4:55 | 2021-11-19 |  |
 | [Hold On](https://open.spotify.com/track/6bGMSP3H9YqkmaLnaJTIoF) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:06 | 2021-11-19 |  |
@@ -38,6 +41,7 @@
 | [Love In The Dark](https://open.spotify.com/track/7B5Npv8NjjTCzk8PLpU66h) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 4:45 | 2021-11-19 |  |
 | [Love Is A Game](https://open.spotify.com/track/2j3GxEsbNYNeEzz86wDY4J) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:43 | 2021-11-19 |  |
 | [Make You Feel My Love](https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0) | 3:32 | 2021-11-19 |  |
+| [Make You Feel My Love](https://open.spotify.com/track/6otXN6h5J6e49Lvse5yCwD) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Make You Feel My Love](https://open.spotify.com/album/4K1tS9SCKWJX4NQCcMUcUx) | 3:32 | 2021-11-19 | 2022-11-13 |
 | [Make You Feel My Love](https://open.spotify.com/track/7rPLZ8Krm6CZIbraFUlnWZ) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/6Pb3K1oPXdhsqFXtzKe3Z1) | 3:32 | 2021-11-19 | 2022-07-29 |
 | [Many Shades of Black](https://open.spotify.com/track/1nX4VLG50VzERLthNEXWtY) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY), [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [19](https://open.spotify.com/album/2YO1F9DHVEzXPriA1JHoOQ) | 4:28 | 2021-11-19 |  |
 | [Melt My Heart To Stone](https://open.spotify.com/track/1Ty11iX5DIhZRRD9zCHP3l) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/3uftDqGs13LsE1s8nn5XSe) | 3:23 | 2021-11-19 | 2022-07-29 |
@@ -51,10 +55,12 @@
 | [River Lea](https://open.spotify.com/track/0NJNQdvwxZTylydofoF76s) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/7uwTHXmFa1Ebi5flqBosig) | 3:45 | 2021-11-19 | 2022-07-29 |
 | [River Lea](https://open.spotify.com/track/3hwu7jZD2TjvWCeHzNlgSE) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 3:45 | 2021-11-19 |  |
 | [Rolling in the Deep](https://open.spotify.com/track/1c8gk2PeTE04A1pIDH9YMk) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 3:48 | 2021-11-19 |  |
+| [Rolling in the Deep](https://open.spotify.com/track/3GkqnS8Lt8LDZV565ITUwh) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Rolling in the Deep](https://open.spotify.com/album/636ekSSKYrhxvQEHCY07jv) | 3:48 | 2021-11-19 | 2022-11-13 |
 | [Rolling in the Deep](https://open.spotify.com/track/5xPazRvyrkVootu8pM9vUG) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Rolling In The Deep](https://open.spotify.com/album/6cw6QU9pF7FyQtSyJjzMua) | 3:48 | 2021-11-19 | 2022-07-29 |
 | [Rumour Has It](https://open.spotify.com/track/2A73XBDBQgmdXO8VsXPWIs) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 3:43 | 2021-11-19 |  |
 | [Rumour Has It](https://open.spotify.com/track/50yHVBbU6M4iIfqBI1bxWx) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/7n3QJc7TBOxXtlYh4Ssll8) | 3:43 | 2021-11-19 | 2022-07-29 |
 | [Send My Love \(To Your New Lover\)](https://open.spotify.com/track/0t7fVeEJxO2Xi4H2K5Svc9) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 3:43 | 2021-11-19 |  |
+| [Send My Love \(To Your New Lover\)](https://open.spotify.com/track/5GltPAIcCUULOIAglW6R4l) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Send My Love \(To Your New Lover\)](https://open.spotify.com/album/7hplTHLU8PAVs1forXE2NU) | 3:43 | 2021-11-19 | 2022-11-13 |
 | [Send My Love \(To Your New Lover\)](https://open.spotify.com/track/4BHzQ9C00ceJxfG16AlNWb) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/0K4pIOOsfJ9lK8OjrZfXzd) | 3:43 | 2021-11-19 | 2022-07-29 |
 | [Set Fire to the Rain](https://open.spotify.com/track/3CKCZ9pfwAfoMZlMncA1Nc) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/1azUkThwd2HfUDdeNeT147) | 4:01 | 2021-11-19 | 2022-07-29 |
 | [Set Fire to the Rain](https://open.spotify.com/track/73CMRj62VK8nUS4ezD2wvi) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 4:02 | 2021-11-19 |  |

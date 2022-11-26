@@ -4,7 +4,7 @@
 
 > Guess who's back? Get into the Inner Circle with us!
 
-107 songs - 6 hr 10 min - [published](https://open.spotify.com/playlist/4yXRq7PeOl3Nvb4y3CkIaE)
+109 songs - 6 hr 17 min - [published](https://open.spotify.com/playlist/4yXRq7PeOl3Nvb4y3CkIaE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,12 +59,14 @@
 | [I'M YOUNG](https://open.spotify.com/track/6CZN1rzi0UPPebOafqF5jl) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [EXIT : E](https://open.spotify.com/album/3b9Tzv22EZaAApyoafYo5Q) | 3:33 | 2022-03-14 | 2022-07-29 |
 | [IMMATURE](https://open.spotify.com/track/4MKADX60Z5h7WAfaDVbTAS) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [EXIT MOVEMENT:E \(JAPAN EDITION\)](https://open.spotify.com/album/6DOmD0SufB8lZ2fQFRV08b) | 3:12 | 2022-03-14 |  |
 | [ISLAND](https://open.spotify.com/track/43Y6XibvJzLJj3GyVQaEFJ) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [OUR TWENTY FOR](https://open.spotify.com/album/3s5LEazLAxgYZSFdG98rHw) | 3:27 | 2022-03-14 | 2022-07-29 |
+| [ISLAND](https://open.spotify.com/track/6xZbRSkdowxgRj6U8qQF1b) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [OUR TWENTY FOR](https://open.spotify.com/album/6lkXJykDmEjdCWX4auOIjE) | 3:27 | 2022-03-14 | 2022-11-13 |
 | [ISLAND \- JP Ver.](https://open.spotify.com/track/2LBIZOuS8wD1g0TUMzH3Fq) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [WINNER THE BEST "SONG 4 U"](https://open.spotify.com/album/1OOoxLYJtQry4GGDQ4P95n) | 3:29 | 2022-03-14 |  |
 | [IYAH](https://open.spotify.com/track/3EC9jQuk4yPP3IhKOJvbPw) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 3:45 | 2022-03-14 |  |
 | [Just dance](https://open.spotify.com/track/1fjqodgVEzZmbCEMha5OnK) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [Remember](https://open.spotify.com/album/5VnB3wqkqy6bcf9eKGTFOo) | 3:20 | 2022-03-14 | 2022-07-29 |
 | [Just dance](https://open.spotify.com/track/1tLJ8C8Bs6gG1DKLerJ4CR) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [Remember](https://open.spotify.com/album/2EegWUxYA83XnbwlFf7HEn) | 3:20 | 2022-03-14 |  |
 | [LITTLE FINGER](https://open.spotify.com/track/5DH5BqrQXjfTd9I0aEtPAQ) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [HOLIDAY](https://open.spotify.com/album/6DuGgrykXd5DVx3aznyYqH) | 3:22 | 2022-07-05 |  |
 | [LOVE ME LOVE ME](https://open.spotify.com/track/5hlqtwCuRf3QchUjjw9iua) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [OUR TWENTY FOR](https://open.spotify.com/album/4mvbi1jkr0RaEMA2QucYPv) | 3:37 | 2022-03-14 |  |
+| [MILLIONS](https://open.spotify.com/track/4ayr28xOK5Jp5Ag1vNMopT) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [MILLIONS](https://open.spotify.com/album/4DfTjPhhTGnJJLSouxFrd1) | 3:28 | 2022-03-14 | 2022-11-14 |
 | [MILLIONS](https://open.spotify.com/track/5wIMMlbIGCNAXnGy0ijojN) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [MILLIONS](https://open.spotify.com/album/1qBFnXYzALfwnIvsknOEKK) | 3:28 | 2022-03-14 | 2022-07-29 |
 | [MILLIONS](https://open.spotify.com/track/1mNprAwCQaw9xRQItl1J2q) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [WE](https://open.spotify.com/album/1cxfi0rCA6ZaOvlNsLLtYs) | 3:30 | 2022-03-14 |  |
 | [MOLA](https://open.spotify.com/track/0vnuToVffsQ29Ge51sr5qy) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [WE](https://open.spotify.com/album/35kSd7Y6cojcwxuW10dOuU) | 3:54 | 2022-03-14 |  |

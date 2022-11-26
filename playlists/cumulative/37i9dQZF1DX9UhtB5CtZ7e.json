@@ -999,6 +999,24 @@
     {
       "album": {
         "name": "FEELS",
+        "url": "https://open.spotify.com/album/6ptDNtROqkFn0kNvtMIIHz"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "date_added": "2020-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194303,
+      "name": "Fool For You",
+      "url": "https://open.spotify.com/track/0GGSPe4DC0qkKyFb9Erao5"
+    },
+    {
+      "album": {
+        "name": "FEELS",
         "url": "https://open.spotify.com/album/4FKCroUOb0VCWrU7ClYtWR"
       },
       "artists": [
@@ -1027,7 +1045,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 194303,
       "name": "Fool For You",
       "url": "https://open.spotify.com/track/3pEGNvJWWAfDSuUrQjEpEV"
@@ -1323,7 +1341,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 217746,
       "name": "I Live For You - Remastered 2014",
       "url": "https://open.spotify.com/track/1Ifka4pq7ruw9DO15hk9ni"
@@ -1995,7 +2013,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": "2022-10-14",
       "duration_ms": 258665,
       "name": "Outta Time",
       "url": "https://open.spotify.com/track/3usFKA7XXOtaIqDdH6mUx9"
@@ -2335,6 +2353,24 @@
       "duration_ms": 221397,
       "name": "Sweetest Thing on This Side of Heaven",
       "url": "https://open.spotify.com/track/6O69NGPST8QReoHAplv9OL"
+    },
+    {
+      "album": {
+        "name": "Tell It Like It Is - The Par Lo Years",
+        "url": "https://open.spotify.com/album/1kUKkxMjMVZRw6yK34l37g"
+      },
+      "artists": [
+        {
+          "name": "Aaron Neville",
+          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
+        }
+      ],
+      "date_added": "2020-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165960,
+      "name": "Tell It Like It Is",
+      "url": "https://open.spotify.com/track/7GSRH3L0HAM3StkAkYVamC"
     },
     {
       "album": {

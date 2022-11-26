@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvfPiFfb8Mi.md) - [plain]
 
 > Disco, house, funk and soul for the good times.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,363 likes - 70 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,369 likes - 70 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvfPiFfb8Mi.md) - [plain]
 | 31 | [You've Got That Sound](https://open.spotify.com/track/6XBap7RZKz8fnJ8H7ChGLz) | [Dan Shake](https://open.spotify.com/artist/7wxLYZxFPf1HWPIaGesxAg) | [You've Got That Sound](https://open.spotify.com/album/7CgaGa73tHombkMeXLyyNV) | 6:05 |
 | 32 | [Break My Heart / Cosmic Girl \(Dimitri From Paris Edit\) \[Mixed\]](https://open.spotify.com/track/6oCGHGu19poEz8iF3ZXHrj) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid), [Dimitri From Paris](https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo) | [Club Future Nostalgia \(DJ Mix\)](https://open.spotify.com/album/3W04W2HfQ5kVeByxfjbu2C) | 3:00 |
 | 33 | [Bamboo Mask](https://open.spotify.com/track/23xJy8COmTLKWsUcj3ng74) | [Boyoca](https://open.spotify.com/artist/2UZMTPwwvwD24gmqjX3OSE) | [Bamboo Mask](https://open.spotify.com/album/2MIf4ISMBARDWX8F5gZ9oz) | 3:43 |
-| 34 | [Holding You](https://open.spotify.com/track/5XkXjjM3TCqi6k1N4vSH2G) | [Daniel Bortz](https://open.spotify.com/artist/23B2qxOv4x5uzlyhfEuNQi) | [Holding You](https://open.spotify.com/album/6uMnvI7PP9J0S3tpQJf625) | 5:08 |
+| 34 | [Holding You](https://open.spotify.com/track/3EDM7KO0QY9np171q2RhHx) | [Daniel Bortz](https://open.spotify.com/artist/23B2qxOv4x5uzlyhfEuNQi) | [Stay](https://open.spotify.com/album/5dVLxKHRqppIumWNp5Crzb) | 5:08 |
 | 35 | [Piano House](https://open.spotify.com/track/2gA7k44EociDoPIuu96bS9) | [Salary Boy](https://open.spotify.com/artist/597dcoBBKCzpVkbD3CLuG7) | [Piano House](https://open.spotify.com/album/2fFJ05NEdDY261h5pHky1K) | 5:37 |
 | 36 | [Street Swimming](https://open.spotify.com/track/1E1kJlXTfjl3WT1iyRq718) | [Adelphi Music Factory](https://open.spotify.com/artist/27cAR2QA0zM5v0KL9JNWwe) | [Street Swimming](https://open.spotify.com/album/5CDlK2UulC69TCPGX26rT4) | 3:02 |
 | 37 | [Jump Into The Light \- 7" Mix](https://open.spotify.com/track/6wzNR3WjL6LY41lB6o83HB) | [Horse Meat Disco](https://open.spotify.com/artist/5MnToV7aAt2Zy9ag3DAsna), [Kathy Sledge](https://open.spotify.com/artist/1uSgUZ6BhPQycUUc6Wo30K) | [Jump Into The Light](https://open.spotify.com/album/6vTp71Na0MLcAQ9UheLHhy) | 3:36 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvfPiFfb8Mi.md) - [plain]
 | 42 | [Out The Fire \(At The Hotel\) \- Radio Edit](https://open.spotify.com/track/1xZOYV0Z6i7z0nAnyL1zmT) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl), [Ros T](https://open.spotify.com/artist/4sG0aI4xrubRmrdWBIn4RO), [Eunice Collins](https://open.spotify.com/artist/0gr9XCDIeAGLE77V58XLyN) | [Out The Fire \(At The Hotel\)](https://open.spotify.com/album/7n456SX833Pv7NyjcZoLis) | 3:34 |
 | 43 | [I Miss Having Someone To Talk To](https://open.spotify.com/track/0y5D6gtFl3WNx06rOXLWJ6) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [I Miss Having Someone To Talk To](https://open.spotify.com/album/17PBUuvBGmmwD0L6CtKtPR) | 3:43 |
 | 44 | [Move Out the Way \- Radio Edit](https://open.spotify.com/track/4q5O14RoZXNF8hTZxKpsd9) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU), [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Coffee in the Morning EP](https://open.spotify.com/album/5THT3dLSH2Wb5o4bpJ1ZtS) | 3:49 |
-| 45 | [Tokyo](https://open.spotify.com/track/5ZSqGX8UtroLgLwdvcihmg) | [1000 Beasts](https://open.spotify.com/artist/3gFKwhL6BbxCd4Meqm2AH9), [Kayleigh Noble](https://open.spotify.com/artist/5t5cteO6lFQ506pSuFXARH) | [On a Different Page](https://open.spotify.com/album/1tVCrfSA85W4NAeo5vgATR) | 3:55 |
+| 45 | [Tokyo](https://open.spotify.com/track/04kqFUNkLsqiGBdzeXDqGJ) | [1000 Beasts](https://open.spotify.com/artist/3gFKwhL6BbxCd4Meqm2AH9) | [On a Different Page](https://open.spotify.com/album/2xswfjdRu4tJ3bQTlpWVmo) | 3:55 |
 | 46 | [Spice Run](https://open.spotify.com/track/0chAFMgYUeaiZ5Z0C3X6JQ) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Spice Run](https://open.spotify.com/album/34fLn0Jy7bi8bpkJRT0Pqm) | 5:49 |
 | 47 | [19 \- Josh Butler Remix](https://open.spotify.com/track/5GiM1m00X51F9MpREgqy23) | [Piem](https://open.spotify.com/artist/08st4VKj9jjZJ5eKzAOHq8), [ANNNA](https://open.spotify.com/artist/6paIiBu0X4cvePrfNpD2QY), [Josh Butler](https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX) | [19](https://open.spotify.com/album/1ZUfDvXGzk8AQCrZl1g5Dv) | 3:06 |
 | 48 | [So Sweet](https://open.spotify.com/track/0UXqqOq4p6ycJXBBrOLjJ9) | [Thomaz Krauze](https://open.spotify.com/artist/2vYp24qYifgpdEUR2ebhDE) | [So Sweet](https://open.spotify.com/album/4fVj0O6kjlCv6eW3j6q4WG) | 6:22 |
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvfPiFfb8Mi.md) - [plain]
 | 63 | [For A Fool](https://open.spotify.com/track/2QqV8LqVK6lpw0ZXdIe3vL) | [Storm Queen](https://open.spotify.com/artist/0DgsuiMZylmPOYkrVOqNYQ) | [For A Fool](https://open.spotify.com/album/70vLcV2gvMiSUIrfNMI45J) | 3:00 |
 | 64 | [Give You Up](https://open.spotify.com/track/54mgp55eYtG2n1rClelVwy) | [Bantum](https://open.spotify.com/artist/3PcfymOgMHBSp3T5YvSDiS) | [New Leaf](https://open.spotify.com/album/1pFGvzLqXa50s6svabO6Wv) | 4:43 |
 | 65 | [Satisfy Your Fantasy](https://open.spotify.com/track/7uEcwJ33XVgYJC9dif3ZlK) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Skylines \- Citylights](https://open.spotify.com/album/2DZy15GXtChjNiM5tH2hKV) | 7:04 |
-| 66 | [Ritmo 6](https://open.spotify.com/track/1vJsWeFVitz10PLxpvCTOo) | [Christian S](https://open.spotify.com/artist/0GQQT1VBcDpqgy4qJsRUqo), [Sano](https://open.spotify.com/artist/6DbQX2GURCMS7mNyXR5Ndj) | [Tannin](https://open.spotify.com/album/3zUhds2roiqMd53y36uc62) | 4:59 |
+| 66 | [Ritmo 6](https://open.spotify.com/track/6KGQ8HUfPdrGVmQAMLlNtI) | [Christian S](https://open.spotify.com/artist/0GQQT1VBcDpqgy4qJsRUqo), [Sano](https://open.spotify.com/artist/0kCcPUZQeVQrqBLJfgoGb1) | [Tannin](https://open.spotify.com/album/0IEN4CV0eoh0CnsFXIIC9P) | 4:59 |
 | 67 | [Illusion](https://open.spotify.com/track/2hDnhOt4pn1uEP1N4YQUT6) | [Mangabey](https://open.spotify.com/artist/0IySrk0S2gbAoxaYyPHEZD) | [Illusion](https://open.spotify.com/album/2Li9ODcatpUeJ9S3DZHWD9) | 5:44 |
 | 68 | [Cruel Summer \- Part I \(feat\. Zampera & Muttofunk\)](https://open.spotify.com/track/4YTO9Z4RSkQRfCoX6kYNrz) | [North of Loreto](https://open.spotify.com/artist/6FZ6p42HnE0rs0GRRmXuLo), [Zampera & Muttofunk](https://open.spotify.com/artist/1DeIegb677snMXzU6LMLMQ) | [Cruel Summer \(feat\. Zampera & Muttofunk\)](https://open.spotify.com/album/0nrCAUDPvtB9w4p7BAZX3a) | 3:05 |
 | 69 | [LoMhlaba \- Original Mix](https://open.spotify.com/track/2dbHZpfVKLsd0YqNEWtUbG) | [Cee ElAssaad](https://open.spotify.com/artist/1bzZEjHZUxOb0WvFsRfeKH), [Thandi Draai](https://open.spotify.com/artist/5YOTbvFffpPKwdMKEyKIcG) | [LoMhlaba EP](https://open.spotify.com/album/2Pkf27kgfSNPs71Jy4iWRp) | 7:52 |
 | 70 | [Lela And Mari](https://open.spotify.com/track/35G6DJGmimKwIVhr6xeCLb) | [Tilman](https://open.spotify.com/artist/7aFxKbiPGJHNrcrGuKW5X9) | [Travel Stories](https://open.spotify.com/album/0Kb6SRz55D3nyaXwM0ugzU) | 6:12 |
 
-Snapshot ID: `MTY1NTczNDQ4MiwwMDAwMDAwMGMyZTBlYjUwNTYyNGNhYzc1MWNkNWE4N2RlNjRhYWNm`
+Snapshot ID: `MTY1NTczNDQ4MiwwMDAwMDAwMDIzNmVhMmVkMjFlZTk3MGJhNzZkMjQ1MjZmOWExMDVk`

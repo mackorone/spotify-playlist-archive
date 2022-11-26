@@ -1,35 +1,63 @@
 {
   "description": "Listen to <a href=\"spotify:artist:3ABaec4jjl95VqmG1iD4k2\">Green Velvet</a>'s favorite tracks. Updated regularly. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 42412,
+  "num_followers": 43978,
   "original_name": "Green Velvet's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMyMzk1NiwwMDAwMDAwMDRiNmI5ZTAwZDEwNDQwNGZlNjY3NjY0OTc4YTViNjhj",
+  "snapshot_id": "MTY2Nzg0NTU1NCwwMDAwMDAwMGY0OTEwNDEzZWE3M2I5OTdlNjdhNjEwZmQ0NDc0OGFh",
   "tracks": [
     {
-      "added_at": "2022-08-12 17:05:56",
+      "added_at": "2022-11-07 18:25:54",
       "album": {
-        "name": "Dance Or Die",
-        "url": "https://open.spotify.com/album/02dDeBJv14dvvF6p4kXVlR"
+        "name": "Brighter Days (30 Year Anniversary Remixes)",
+        "url": "https://open.spotify.com/album/27khu5BAQkUgYxqlYFwRLB"
       },
       "artists": [
         {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+          "name": "Cajmere",
+          "url": "https://open.spotify.com/artist/7lIBLhQHKay3r1xtO3VtWT"
         },
         {
-          "name": "Green Velvet",
-          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+          "name": "Dajae",
+          "url": "https://open.spotify.com/artist/79Gg0tmzETfnVrOUjgXPeE"
+        },
+        {
+          "name": "Marco Lys",
+          "url": "https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1"
         }
       ],
-      "duration_ms": 376794,
-      "name": "Dance Or Die",
-      "url": "https://open.spotify.com/track/0bf5Jsf2DzO8TXuV5eEDPE"
+      "duration_ms": 382857,
+      "name": "Brighter Days - Marco Lys Remix",
+      "url": "https://open.spotify.com/track/7IJP1vVnqU5mV2hYUbZrlX"
     },
     {
-      "added_at": "2022-08-12 17:05:56",
+      "added_at": "2022-11-07 18:25:54",
+      "album": {
+        "name": "Could Heaven Ever Be Like This (Walker & Royce and Chris Lorenzo Remix)",
+        "url": "https://open.spotify.com/album/6kOLMQtok9ETuuNCN6LByQ"
+      },
+      "artists": [
+        {
+          "name": "Idris Muhammad",
+          "url": "https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN"
+        },
+        {
+          "name": "Walker & Royce",
+          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
+        },
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        }
+      ],
+      "duration_ms": 221202,
+      "name": "Could Heaven Ever Be Like This - Walker & Royce and Chris Lorenzo Remix",
+      "url": "https://open.spotify.com/track/7lhNCZG9JWxhoJSGkJa2AS"
+    },
+    {
+      "added_at": "2022-11-07 18:25:54",
       "album": {
         "name": "Tainted Love",
         "url": "https://open.spotify.com/album/74yyERVgVHnnIlbCBck3Ji"
@@ -49,7 +77,63 @@
       "url": "https://open.spotify.com/track/6k1jw66OFxNVTu07ii1Yqi"
     },
     {
-      "added_at": "2022-08-12 17:05:56",
+      "added_at": "2022-11-07 18:25:54",
+      "album": {
+        "name": "Testimony",
+        "url": "https://open.spotify.com/album/000z99zZbT9Gfabqyw1THb"
+      },
+      "artists": [
+        {
+          "name": "Prok & Fitch",
+          "url": "https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys"
+        }
+      ],
+      "duration_ms": 401844,
+      "name": "Testimony",
+      "url": "https://open.spotify.com/track/702TT2q83VQlC75h807I1J"
+    },
+    {
+      "added_at": "2022-11-07 18:25:54",
+      "album": {
+        "name": "Penguin Hit Squad",
+        "url": "https://open.spotify.com/album/3SjYDcQKpLPlhb4hGPMmsx"
+      },
+      "artists": [
+        {
+          "name": "Mike Kerrigan",
+          "url": "https://open.spotify.com/artist/6SptiYBeyJucEFIJfH8dIE"
+        },
+        {
+          "name": "n808",
+          "url": "https://open.spotify.com/artist/4pzJW4dAwRMnyDdJXQhOFf"
+        }
+      ],
+      "duration_ms": 406752,
+      "name": "Penguin Hit Squad",
+      "url": "https://open.spotify.com/track/0BInMeLs6MQ1qlMdyWLzkb"
+    },
+    {
+      "added_at": "2022-11-07 18:25:54",
+      "album": {
+        "name": "These Notes In This Order (VNSSA Remix)",
+        "url": "https://open.spotify.com/album/4FUXU0h94i7H2oid7hi9MF"
+      },
+      "artists": [
+        {
+          "name": "Claude VonStroke",
+          "url": "https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd"
+        },
+        {
+          "name": "VNSSA",
+          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
+        }
+      ],
+      "duration_ms": 362773,
+      "name": "These Notes In This Order - VNSSA Remix",
+      "url": "https://open.spotify.com/track/0Ud1Go000DF2ZvPnFAdV7R"
+    },
+    {
+      "added_at": "2022-11-07 18:25:54",
       "album": {
         "name": "Snatch! OFF 071",
         "url": "https://open.spotify.com/album/1DVCoT2C4LRHfuTJj3qxjg"
@@ -73,7 +157,47 @@
       "url": "https://open.spotify.com/track/0Ph74XX0SkUkarkGgqJHnw"
     },
     {
-      "added_at": "2022-08-12 17:05:56",
+      "added_at": "2022-11-07 18:25:54",
+      "album": {
+        "name": "Dance Or Die",
+        "url": "https://open.spotify.com/album/02dDeBJv14dvvF6p4kXVlR"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        },
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        }
+      ],
+      "duration_ms": 376794,
+      "name": "Dance Or Die",
+      "url": "https://open.spotify.com/track/0bf5Jsf2DzO8TXuV5eEDPE"
+    },
+    {
+      "added_at": "2022-11-07 18:25:54",
+      "album": {
+        "name": "Boys Rules",
+        "url": "https://open.spotify.com/album/6B69bOKjKXiuO6pznyBDwa"
+      },
+      "artists": [
+        {
+          "name": "Angel Heredia",
+          "url": "https://open.spotify.com/artist/6CQEcdCb4eIWDQPxCFfFRN"
+        },
+        {
+          "name": "Mendo",
+          "url": "https://open.spotify.com/artist/0Vg2GA2WmLIPXILz95CS03"
+        }
+      ],
+      "duration_ms": 361874,
+      "name": "Makes Me",
+      "url": "https://open.spotify.com/track/4oPDfq61Qjt2iC6qaH5snO"
+    },
+    {
+      "added_at": "2022-11-07 18:25:54",
       "album": {
         "name": "Baba Yaga",
         "url": "https://open.spotify.com/album/1YluyjcXdOaYsjVOSLVyQG"
@@ -89,7 +213,27 @@
       "url": "https://open.spotify.com/track/6P96fhT3iUNcDfgwfLOqX1"
     },
     {
-      "added_at": "2022-08-12 17:05:56",
+      "added_at": "2022-11-07 18:25:54",
+      "album": {
+        "name": "<<rewind<<",
+        "url": "https://open.spotify.com/album/6kXzYOQTJIiZJijHSScLOz"
+      },
+      "artists": [
+        {
+          "name": "Front 242",
+          "url": "https://open.spotify.com/artist/2tyMOS8xKREgpEwHnLc6EX"
+        },
+        {
+          "name": "Terence Fixmer",
+          "url": "https://open.spotify.com/artist/54yHcfvcrKO91U46rnzHkc"
+        }
+      ],
+      "duration_ms": 382976,
+      "name": "No Shuffle - Terence Fixmer Remix",
+      "url": "https://open.spotify.com/track/6iL13eNGVv2m5kiowX7fMR"
+    },
+    {
+      "added_at": "2022-11-07 18:25:54",
       "album": {
         "name": "Rendez-Vu (Remixes)",
         "url": "https://open.spotify.com/album/2FgroWn0lOTtBOnBls3CgQ"
@@ -109,7 +253,51 @@
       "url": "https://open.spotify.com/track/2fUkcyLhxm8AVT4v7vsjlI"
     },
     {
-      "added_at": "2022-08-12 17:05:56",
+      "added_at": "2022-11-07 18:25:54",
+      "album": {
+        "name": "Ballroom",
+        "url": "https://open.spotify.com/album/3pKvEE95kPUM0ysZ5FC96R"
+      },
+      "artists": [
+        {
+          "name": "Escapade",
+          "url": "https://open.spotify.com/artist/1vhPtnpJjByJXh4S0EFHXm"
+        },
+        {
+          "name": "Walker & Royce",
+          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
+        },
+        {
+          "name": "Ardalan",
+          "url": "https://open.spotify.com/artist/21j2G9IPn9QLHII7faCOsw"
+        }
+      ],
+      "duration_ms": 303750,
+      "name": "Ballroom",
+      "url": "https://open.spotify.com/track/3dok2BteRgxI2czCkDh0PQ"
+    },
+    {
+      "added_at": "2022-11-07 18:25:54",
+      "album": {
+        "name": "Rivalda",
+        "url": "https://open.spotify.com/album/4EuCFfi9dDiWrg5agVLQDL"
+      },
+      "artists": [
+        {
+          "name": "Mulya",
+          "url": "https://open.spotify.com/artist/2PPUUxTpjYJxG3pCQDpDzg"
+        },
+        {
+          "name": "Joyce Muniz",
+          "url": "https://open.spotify.com/artist/2V5PoybhNfFnNEs0NKv44L"
+        }
+      ],
+      "duration_ms": 377603,
+      "name": "Rivalda - Joyce Muniz Remix",
+      "url": "https://open.spotify.com/track/3zTUehiPkOy0EMkWthENI7"
+    },
+    {
+      "added_at": "2022-11-07 18:25:54",
       "album": {
         "name": "The Attention Deficit EP",
         "url": "https://open.spotify.com/album/06M16f7RQtJ2nw3654fjDP"
@@ -129,23 +317,7 @@
       "url": "https://open.spotify.com/track/25qyEczKFcqsOTm6lgRGrH"
     },
     {
-      "added_at": "2022-08-12 17:05:56",
-      "album": {
-        "name": "Moody Fuse",
-        "url": "https://open.spotify.com/album/7KCjICJnDLfwOvGOLZZRlh"
-      },
-      "artists": [
-        {
-          "name": "Claude VonStroke",
-          "url": "https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd"
-        }
-      ],
-      "duration_ms": 411877,
-      "name": "Moody Fuse",
-      "url": "https://open.spotify.com/track/6MDaMEgEVbKk5POEdY3TN5"
-    },
-    {
-      "added_at": "2022-08-12 17:05:56",
+      "added_at": "2022-11-07 18:25:54",
       "album": {
         "name": "Mind Dimension 2022 (Ben Sterling Remix)",
         "url": "https://open.spotify.com/album/0Y0ZfAeXS1CBaWTvFCFMd4"
@@ -165,23 +337,7 @@
       "url": "https://open.spotify.com/track/0TaDQnUX1RjbCv3liKFqWP"
     },
     {
-      "added_at": "2022-08-12 17:05:56",
-      "album": {
-        "name": "Sveva EP",
-        "url": "https://open.spotify.com/album/0fGAU94OsmmupGmSj4Gg7h"
-      },
-      "artists": [
-        {
-          "name": "Malandra Jr.",
-          "url": "https://open.spotify.com/artist/7KgVyMfGnLuYLLbftkfVNQ"
-        }
-      ],
-      "duration_ms": 440935,
-      "name": "Sveva",
-      "url": "https://open.spotify.com/track/5eFE3pKNlfwG717FEOT9j8"
-    },
-    {
-      "added_at": "2022-08-12 17:05:56",
+      "added_at": "2022-11-07 18:25:54",
       "album": {
         "name": "Wurk",
         "url": "https://open.spotify.com/album/2k0pwGmrqosMNaoDo01yp8"
@@ -205,26 +361,10 @@
       "url": "https://open.spotify.com/track/4Ynibk8PO978n4voJ1Uzby"
     },
     {
-      "added_at": "2022-08-12 17:05:56",
-      "album": {
-        "name": "Corte Ficha EP",
-        "url": "https://open.spotify.com/album/53k4wkeoPn6nKv4Qm0cSKz"
-      },
-      "artists": [
-        {
-          "name": "Aldo Cadiz",
-          "url": "https://open.spotify.com/artist/2YyLzorqYHHeyyBXBy4Yqv"
-        }
-      ],
-      "duration_ms": 423442,
-      "name": "Solid Drink",
-      "url": "https://open.spotify.com/track/2XY4jq8gTLjNTptPoRfjaL"
-    },
-    {
-      "added_at": "2022-08-12 17:05:56",
+      "added_at": "2022-11-07 18:25:54",
       "album": {
         "name": "I Don't Know (Oscar L Remix)",
-        "url": "https://open.spotify.com/album/2gxMGEFPByDGDeaUvHRCH6"
+        "url": "https://open.spotify.com/album/2jEaEC1xC2OOc5I7P0fNAh"
       },
       "artists": [
         {
@@ -238,10 +378,10 @@
       ],
       "duration_ms": 422495,
       "name": "I Don't Know - Oscar L Remix",
-      "url": "https://open.spotify.com/track/6myY7jAG2B6k8LMWI2c0JM"
+      "url": "https://open.spotify.com/track/5VsP5bT40qa0o5gyEazaYV"
     },
     {
-      "added_at": "2022-08-12 17:05:56",
+      "added_at": "2022-11-07 18:25:54",
       "album": {
         "name": "The Brain / The Rhythm",
         "url": "https://open.spotify.com/album/5k9sPeS9pQ3QWFNvsx6t5l"
@@ -257,7 +397,7 @@
       "url": "https://open.spotify.com/track/4I74YwKvYBy2xMBrxWfDXZ"
     },
     {
-      "added_at": "2022-08-12 17:05:56",
+      "added_at": "2022-11-07 18:25:54",
       "album": {
         "name": "Room Service (24 Hour Mix)",
         "url": "https://open.spotify.com/album/4szJFSdN1sKUjJxOcqgg7L"
@@ -273,7 +413,7 @@
       "url": "https://open.spotify.com/track/4CxSd4uDRGbuYMDEuOfXHr"
     },
     {
-      "added_at": "2022-08-12 17:05:56",
+      "added_at": "2022-11-07 18:25:54",
       "album": {
         "name": "Love Quake",
         "url": "https://open.spotify.com/album/1lMJRwaSdvVe4Lry9WNeDQ"
@@ -289,23 +429,7 @@
       "url": "https://open.spotify.com/track/0DpiCM66nctcCvy8G3G3cZ"
     },
     {
-      "added_at": "2022-08-12 17:05:56",
-      "album": {
-        "name": "Wake Up EP",
-        "url": "https://open.spotify.com/album/6V0lRrfD8pXLJSzfbe4SA5"
-      },
-      "artists": [
-        {
-          "name": "The Bongo Man",
-          "url": "https://open.spotify.com/artist/2pBVJLkrOeSpjMzCSBQNMI"
-        }
-      ],
-      "duration_ms": 399360,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/3ZLt4qrsnA9zZYBNjDceZv"
-    },
-    {
-      "added_at": "2022-08-12 17:05:56",
+      "added_at": "2022-11-07 18:25:54",
       "album": {
         "name": "Lone Traveller",
         "url": "https://open.spotify.com/album/3asZnJNY3vw7vBLfmpWOoe"
@@ -321,7 +445,7 @@
       "url": "https://open.spotify.com/track/2xMRar8Kb7VwlqICHgtKe2"
     },
     {
-      "added_at": "2022-08-12 17:05:56",
+      "added_at": "2022-11-07 18:25:54",
       "album": {
         "name": "Magic Moment",
         "url": "https://open.spotify.com/album/4EPidCv1ztlKwUWct8A3CQ"
@@ -337,27 +461,23 @@
       "url": "https://open.spotify.com/track/0KhPmfbekOqnxePzkT6g6q"
     },
     {
-      "added_at": "2022-08-12 17:05:56",
+      "added_at": "2022-11-07 18:25:54",
       "album": {
-        "name": "Discoteca Exotica",
-        "url": "https://open.spotify.com/album/2I6LwiCQv4pAEI2VDBZIk0"
+        "name": "Jax",
+        "url": "https://open.spotify.com/album/3rrklYrGNr3uhyw321oB8t"
       },
       "artists": [
         {
-          "name": "W.O.L.F.",
-          "url": "https://open.spotify.com/artist/5OCKaLRwZLyIEmrzz9RhqC"
-        },
-        {
-          "name": "Climbers",
-          "url": "https://open.spotify.com/artist/1IGl1k7lAgsIhTJaR8Vnrc"
+          "name": "Mr Joe",
+          "url": "https://open.spotify.com/artist/79FhvDnJD146q8X3kYtXmG"
         }
       ],
-      "duration_ms": 386000,
-      "name": "Discoteca Exotica",
-      "url": "https://open.spotify.com/track/3yIlfK9UxOCsXlbk9vLZ14"
+      "duration_ms": 436767,
+      "name": "Jax",
+      "url": "https://open.spotify.com/track/6AvmOcewNFMHRCFXP8NmDU"
     },
     {
-      "added_at": "2022-08-12 17:05:56",
+      "added_at": "2022-11-07 18:25:54",
       "album": {
         "name": "Offweek 2022",
         "url": "https://open.spotify.com/album/3EMmYQ8fdRn6YgOyfHnsg6"
@@ -373,7 +493,7 @@
       "url": "https://open.spotify.com/track/6TWctzftXtuTy923tnqAdE"
     },
     {
-      "added_at": "2022-08-12 17:05:56",
+      "added_at": "2022-11-07 18:25:54",
       "album": {
         "name": "Thoughts (Reb\u016bke Remix)",
         "url": "https://open.spotify.com/album/53Lw6bLxSXxo36KsWQZJfq"
@@ -393,55 +513,7 @@
       "url": "https://open.spotify.com/track/1g8ZYuTgbNJBvycYFyep0b"
     },
     {
-      "added_at": "2022-08-12 17:05:56",
-      "album": {
-        "name": "Wanyama EP",
-        "url": "https://open.spotify.com/album/0R3Xwd3EsMls3XjYKsg1RI"
-      },
-      "artists": [
-        {
-          "name": "Fhaken",
-          "url": "https://open.spotify.com/artist/2w6nD6Hc2uvxqDdbrQFkDK"
-        }
-      ],
-      "duration_ms": 180478,
-      "name": "Wanyama",
-      "url": "https://open.spotify.com/track/1RPC1AZLtafrjIBrSvuoE2"
-    },
-    {
-      "added_at": "2022-08-12 17:05:56",
-      "album": {
-        "name": "Perception EP",
-        "url": "https://open.spotify.com/album/7lB0BeuCQeU4RY7K1uwlcB"
-      },
-      "artists": [
-        {
-          "name": "John Monkman",
-          "url": "https://open.spotify.com/artist/61wk5KcJO2a9mZFzkmOe0f"
-        }
-      ],
-      "duration_ms": 379354,
-      "name": "Impulse",
-      "url": "https://open.spotify.com/track/2RxDjKBtUA7GtZ4LvFDhja"
-    },
-    {
-      "added_at": "2022-08-12 17:05:56",
-      "album": {
-        "name": "Jungle Rumble, Seasons, Tank (Original Mixes)",
-        "url": "https://open.spotify.com/album/7IrLPYtl5A7vqB9CHFjA0p"
-      },
-      "artists": [
-        {
-          "name": "Mr Joe",
-          "url": "https://open.spotify.com/artist/79FhvDnJD146q8X3kYtXmG"
-        }
-      ],
-      "duration_ms": 313548,
-      "name": "Jungle Rumble",
-      "url": "https://open.spotify.com/track/5Zps2YxHKIefCSGoTPnoQO"
-    },
-    {
-      "added_at": "2022-08-12 17:05:56",
+      "added_at": "2022-11-07 18:25:54",
       "album": {
         "name": "Free Love / Silk",
         "url": "https://open.spotify.com/album/2HGmNysGT3fifYOFeD6gB1"
@@ -457,7 +529,7 @@
       "url": "https://open.spotify.com/track/7EhFJ5xpMQHsrX0a6yOZeW"
     },
     {
-      "added_at": "2022-08-12 17:05:56",
+      "added_at": "2022-11-07 18:25:54",
       "album": {
         "name": "Full of Courage (Wild Dark Remix)",
         "url": "https://open.spotify.com/album/21g3y9fSCjBman1JZLchT4"
@@ -477,23 +549,7 @@
       "url": "https://open.spotify.com/track/7s3wkX5wPS8PiEOHkdEpM8"
     },
     {
-      "added_at": "2022-08-12 17:05:56",
-      "album": {
-        "name": "Just Sayin'",
-        "url": "https://open.spotify.com/album/6tK9CEkgbvGKQ1LzAiZZi4"
-      },
-      "artists": [
-        {
-          "name": "Affani",
-          "url": "https://open.spotify.com/artist/76JOGdYzmIgt9SlMfYiSrc"
-        }
-      ],
-      "duration_ms": 215657,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/5Z4Yevn2CQeC3m5hc056fy"
-    },
-    {
-      "added_at": "2022-08-12 17:05:56",
+      "added_at": "2022-11-07 18:25:54",
       "album": {
         "name": "Woman-Hood Chapter 1 EP",
         "url": "https://open.spotify.com/album/1ZdVzluYo79Nd2mE7W4z1s"
@@ -509,7 +565,7 @@
       "url": "https://open.spotify.com/track/4CQzv0PS56QeObidW3EnXf"
     },
     {
-      "added_at": "2022-08-12 17:05:56",
+      "added_at": "2022-11-07 18:25:54",
       "album": {
         "name": "Wormhole",
         "url": "https://open.spotify.com/album/0xKStQRWOfYN8CebSyHGX1"
@@ -525,10 +581,10 @@
       "url": "https://open.spotify.com/track/4IDUZtryCyknQNNa9D61Rb"
     },
     {
-      "added_at": "2022-08-12 17:05:56",
+      "added_at": "2022-11-07 18:25:54",
       "album": {
         "name": "NOW / U EP",
-        "url": "https://open.spotify.com/album/0RUz5ob12l6PTAuhLpFsh3"
+        "url": "https://open.spotify.com/album/2ImB6nHT9iOIYulayn7eUx"
       },
       "artists": [
         {
@@ -538,10 +594,10 @@
       ],
       "duration_ms": 323600,
       "name": "NOW",
-      "url": "https://open.spotify.com/track/41S2wSrdsGja0BZUYSkT9U"
+      "url": "https://open.spotify.com/track/0RXiRzh1i5xjZJW4WV5PpN"
     },
     {
-      "added_at": "2022-08-12 17:05:56",
+      "added_at": "2022-11-07 18:25:54",
       "album": {
         "name": "Benja",
         "url": "https://open.spotify.com/album/2zTBzwH7yMZTSzImj9jehk"
@@ -557,7 +613,7 @@
       "url": "https://open.spotify.com/track/2cgmmdRAw4nLSA0fZEPA2s"
     },
     {
-      "added_at": "2022-08-12 17:05:56",
+      "added_at": "2022-11-07 18:25:54",
       "album": {
         "name": "Talking Walls",
         "url": "https://open.spotify.com/album/6DN8nBL2ftOAMxiyaIUD3J"
@@ -577,23 +633,7 @@
       "url": "https://open.spotify.com/track/0CEui1Dh1RtgE3kVHEvS4J"
     },
     {
-      "added_at": "2022-08-12 17:05:56",
-      "album": {
-        "name": "Machine Talk",
-        "url": "https://open.spotify.com/album/1lf4TuoflIur8L61OuOfKL"
-      },
-      "artists": [
-        {
-          "name": "Joyce Muniz",
-          "url": "https://open.spotify.com/artist/2V5PoybhNfFnNEs0NKv44L"
-        }
-      ],
-      "duration_ms": 363169,
-      "name": "Machine Talk",
-      "url": "https://open.spotify.com/track/6Q5q4oJVMRaDbOLPGBIdG3"
-    },
-    {
-      "added_at": "2022-08-12 17:05:56",
+      "added_at": "2022-11-07 18:25:54",
       "album": {
         "name": "The Rave Scene",
         "url": "https://open.spotify.com/album/40XvAnZUA6f6YS4U0TwquU"
@@ -609,7 +649,7 @@
       "url": "https://open.spotify.com/track/60DIP24xwaYeHV55LbgGUs"
     },
     {
-      "added_at": "2022-08-12 17:05:56",
+      "added_at": "2022-11-07 18:25:54",
       "album": {
         "name": "Bon Voyage / Movement",
         "url": "https://open.spotify.com/album/4hQfK8bS6oiVVyAKqoVFtk"
@@ -625,39 +665,27 @@
       "url": "https://open.spotify.com/track/34e4xSwDLeTv2VRbAmbxgE"
     },
     {
-      "added_at": "2022-08-12 17:05:56",
+      "added_at": "2022-11-07 18:25:54",
       "album": {
-        "name": "I Can Live - EP",
-        "url": "https://open.spotify.com/album/74ka7gy9hv8FnuRw1JCKpM"
+        "name": "Mode EP",
+        "url": "https://open.spotify.com/album/7d6UzEtMcgtLzTczhuaMk1"
       },
       "artists": [
         {
-          "name": "Rogerio Vegas",
-          "url": "https://open.spotify.com/artist/28KmIkCtMwca12vjiFg1Xo"
-        }
-      ],
-      "duration_ms": 406884,
-      "name": "I Can Live - Original mix",
-      "url": "https://open.spotify.com/track/0DXvZ6caxlYFYlJZnWfju6"
-    },
-    {
-      "added_at": "2022-08-12 17:05:56",
-      "album": {
-        "name": "Secret Weapons Part 13",
-        "url": "https://open.spotify.com/album/4OxzociP4bWIvXdACPq9Uq"
-      },
-      "artists": [
+          "name": "Jansons",
+          "url": "https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY"
+        },
         {
-          "name": "Skatman",
-          "url": "https://open.spotify.com/artist/79K6YRpx6Q5HZJfxxcDq58"
+          "name": "Richy Ahmed",
+          "url": "https://open.spotify.com/artist/1ac5NUFh98sMs0DGX4xlSt"
         }
       ],
-      "duration_ms": 444187,
-      "name": "All Is Vanity",
-      "url": "https://open.spotify.com/track/0NbUQDk5HqHBs6CCeiJrYT"
+      "duration_ms": 440106,
+      "name": "Mode - Richy Ahmed Remix",
+      "url": "https://open.spotify.com/track/7LNBV0CoqYKjZUTbyGJH6v"
     },
     {
-      "added_at": "2022-08-12 17:05:56",
+      "added_at": "2022-11-07 18:25:54",
       "album": {
         "name": "Locus of Control Vol. 3",
         "url": "https://open.spotify.com/album/363QD08C7rDt239njPDIaI"
@@ -673,7 +701,7 @@
       "url": "https://open.spotify.com/track/0fWWIW8hAC4d6TTUIQRVOn"
     },
     {
-      "added_at": "2022-08-12 17:05:56",
+      "added_at": "2022-11-07 18:25:54",
       "album": {
         "name": "Prayer",
         "url": "https://open.spotify.com/album/3GydW4vAlw2pCGe8BZC5Fa"
@@ -693,7 +721,7 @@
       "url": "https://open.spotify.com/track/6sSjMJC4C04SKjrHbxKi39"
     },
     {
-      "added_at": "2022-08-12 17:05:56",
+      "added_at": "2022-11-07 18:25:54",
       "album": {
         "name": "BARBEE",
         "url": "https://open.spotify.com/album/4zIFoe714x6cD9zLr5NLfn"
@@ -713,7 +741,7 @@
       "url": "https://open.spotify.com/track/2oOmtxMfTI3ZvxSdqlMnbS"
     },
     {
-      "added_at": "2022-08-12 17:05:56",
+      "added_at": "2022-11-07 18:25:54",
       "album": {
         "name": "Shake It Shake It",
         "url": "https://open.spotify.com/album/4tEbLLSHSm96FBArZUjh5u"
@@ -729,7 +757,7 @@
       "url": "https://open.spotify.com/track/1G9AW7LKj1JhX4JVMRZeWN"
     },
     {
-      "added_at": "2022-08-12 17:05:56",
+      "added_at": "2022-11-07 18:25:54",
       "album": {
         "name": "Invert Drift",
         "url": "https://open.spotify.com/album/1AKYPOmxoOQEhUDEuCOHfB"
@@ -745,7 +773,7 @@
       "url": "https://open.spotify.com/track/68nhhAKNAt09d5NOglXD0K"
     },
     {
-      "added_at": "2022-08-12 17:05:56",
+      "added_at": "2022-11-07 18:25:54",
       "album": {
         "name": "Soldier March",
         "url": "https://open.spotify.com/album/0hNAm3uBkWcpqwJr6TaMOV"
@@ -761,7 +789,7 @@
       "url": "https://open.spotify.com/track/4icPhVxzQ098r5eyywM4cf"
     },
     {
-      "added_at": "2022-08-12 17:05:56",
+      "added_at": "2022-11-07 18:25:54",
       "album": {
         "name": "Housepital EP",
         "url": "https://open.spotify.com/album/1uK6sIUfVfLmclOUUvurga"
@@ -781,7 +809,7 @@
       "url": "https://open.spotify.com/track/7CyShw7Ll5E5dGIF9N2Fve"
     },
     {
-      "added_at": "2022-08-12 17:05:56",
+      "added_at": "2022-11-07 18:25:54",
       "album": {
         "name": "Remixes From The Other Side",
         "url": "https://open.spotify.com/album/4JlKhvgS86NmWsQlQ5BGq0"
@@ -805,7 +833,7 @@
       "url": "https://open.spotify.com/track/14sXAzJk59scwHtuQjOIlM"
     },
     {
-      "added_at": "2022-08-12 17:05:56",
+      "added_at": "2022-11-07 18:25:54",
       "album": {
         "name": "Acamar EP",
         "url": "https://open.spotify.com/album/04m5xYrkOmtW3jDyvrfxwa"
@@ -821,7 +849,7 @@
       "url": "https://open.spotify.com/track/2o9fz1ALwGI65oMzueYMUI"
     },
     {
-      "added_at": "2022-08-12 17:05:56",
+      "added_at": "2022-11-07 18:25:54",
       "album": {
         "name": "The Biggest Heart / Halomot",
         "url": "https://open.spotify.com/album/1Uwd9aK3LKSVz5ECsCLvhW"
@@ -837,7 +865,23 @@
       "url": "https://open.spotify.com/track/22Sh3XuGWd2kGbMJgSpE5T"
     },
     {
-      "added_at": "2022-08-12 17:05:56",
+      "added_at": "2022-11-07 18:25:54",
+      "album": {
+        "name": "Love E.P.",
+        "url": "https://open.spotify.com/album/0giOgdsRSZagxBoLnFNQ8n"
+      },
+      "artists": [
+        {
+          "name": "LEON (Italy)",
+          "url": "https://open.spotify.com/artist/3AgApIQmn0rlEycZpYcGKn"
+        }
+      ],
+      "duration_ms": 323161,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/31EEwI8KmW7gZUrCHvsmyL"
+    },
+    {
+      "added_at": "2022-11-07 18:25:54",
       "album": {
         "name": "Soul Clap Social Experiment Sampler Part 2",
         "url": "https://open.spotify.com/album/31glV4B2Xhgkeo99Q7ZGPv"
@@ -853,7 +897,7 @@
       "url": "https://open.spotify.com/track/3kWwoy7YplmupGFwxTk192"
     },
     {
-      "added_at": "2022-08-12 17:05:56",
+      "added_at": "2022-11-07 18:25:54",
       "album": {
         "name": "The Chapters of Green Velvet",
         "url": "https://open.spotify.com/album/1hn0CRNZw1u16Jd2Vvopt4"
@@ -869,7 +913,7 @@
       "url": "https://open.spotify.com/track/3PW35Q7BLZ4xoHgCRxUZ4f"
     },
     {
-      "added_at": "2022-08-12 17:05:56",
+      "added_at": "2022-11-07 18:25:54",
       "album": {
         "name": "Throw (Slam's RTM Remix)",
         "url": "https://open.spotify.com/album/6HJxnK1kaSc5KNONkdZAuX"
@@ -889,7 +933,7 @@
       "url": "https://open.spotify.com/track/5Az5ZI6idNY1JbcIGVoBKE"
     },
     {
-      "added_at": "2022-08-12 17:05:56",
+      "added_at": "2022-11-07 18:25:54",
       "album": {
         "name": "Satellite",
         "url": "https://open.spotify.com/album/1ZocCJ1c4V46xAAFJa7DIs"
@@ -905,7 +949,7 @@
       "url": "https://open.spotify.com/track/5YDbSfN5oKWBoeyf9nBA38"
     },
     {
-      "added_at": "2022-08-12 17:05:56",
+      "added_at": "2022-11-07 18:25:54",
       "album": {
         "name": "Paradise Garage: Inspirations",
         "url": "https://open.spotify.com/album/7dTbTFJlJ1xzjnoXKxIKeC"
@@ -921,7 +965,7 @@
       "url": "https://open.spotify.com/track/3xxARypr8NdEMesYUHSsGK"
     },
     {
-      "added_at": "2022-08-12 17:05:56",
+      "added_at": "2022-11-07 18:25:54",
       "album": {
         "name": "Lazer Beams",
         "url": "https://open.spotify.com/album/2DH7d27xhTHcJ9o0PPn0lf"
@@ -941,7 +985,7 @@
       "url": "https://open.spotify.com/track/25z3WiJSmNFxLg9qpiannU"
     },
     {
-      "added_at": "2022-08-12 17:05:56",
+      "added_at": "2022-11-07 18:25:54",
       "album": {
         "name": "The Voice",
         "url": "https://open.spotify.com/album/6gB0dlUcco2nXIIrmEeTtb"
@@ -957,7 +1001,39 @@
       "url": "https://open.spotify.com/track/1T63iv1GOvngDdBOEm8UIk"
     },
     {
-      "added_at": "2022-08-12 17:05:56",
+      "added_at": "2022-11-07 18:25:54",
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/1qToiTMk8Gakk4iRiUQRQN"
+      },
+      "artists": [
+        {
+          "name": "ACID MONDAYS",
+          "url": "https://open.spotify.com/artist/2WDeKY1V6t4APg95ywXJjS"
+        },
+        {
+          "name": "Ali Love",
+          "url": "https://open.spotify.com/artist/5XJp0gYotUfFraS626GSge"
+        },
+        {
+          "name": "The Show",
+          "url": "https://open.spotify.com/artist/7Df4TPixHIcmK8bpz37Ccc"
+        },
+        {
+          "name": "Wolfgang Haffner",
+          "url": "https://open.spotify.com/artist/4if1U9RYhAJN9msYzpsfwh"
+        },
+        {
+          "name": "The Martinez Brothers",
+          "url": "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
+        }
+      ],
+      "duration_ms": 346472,
+      "name": "Everything - The Martinez Brothers Mix",
+      "url": "https://open.spotify.com/track/6ybLHccLu0q2pS8uMX1UK2"
+    },
+    {
+      "added_at": "2022-11-07 18:25:54",
       "album": {
         "name": "Sume Sigh Say (Ultimate Remixes)",
         "url": "https://open.spotify.com/album/7AbcNqT60ieT4xJOin2lBc"
@@ -989,7 +1065,7 @@
       "url": "https://open.spotify.com/track/6J64NE5Ip9QQ8pn0ibtQlK"
     },
     {
-      "added_at": "2022-08-12 17:05:56",
+      "added_at": "2022-11-07 18:25:54",
       "album": {
         "name": "It's Time",
         "url": "https://open.spotify.com/album/4C0vF98YQZ2DJF3nG36vGl"
@@ -1009,7 +1085,7 @@
       "url": "https://open.spotify.com/track/09IT6ZbPsY5EioVEqeyq4j"
     },
     {
-      "added_at": "2022-08-12 17:05:56",
+      "added_at": "2022-11-07 18:25:54",
       "album": {
         "name": "Too Underground For The Main Stage",
         "url": "https://open.spotify.com/album/28smuNBpHVM4Ezqg1MB94J"
@@ -1033,7 +1109,7 @@
       "url": "https://open.spotify.com/track/0RPXHiLI9JBLOcUOeocvqZ"
     },
     {
-      "added_at": "2022-08-12 17:05:56",
+      "added_at": "2022-11-07 18:25:54",
       "album": {
         "name": "Like This (House Mix / Ddd Dub)",
         "url": "https://open.spotify.com/album/5xC7mvUqeScBXku4RxDDE4"
@@ -1061,7 +1137,7 @@
       "url": "https://open.spotify.com/track/1dobNCqp13CpgV7xW6m8o6"
     },
     {
-      "added_at": "2022-08-12 17:05:56",
+      "added_at": "2022-11-07 18:25:54",
       "album": {
         "name": "Give Me Every Little Thing",
         "url": "https://open.spotify.com/album/3OKc556xr2Tzbn9p5EOxgj"
@@ -1077,23 +1153,7 @@
       "url": "https://open.spotify.com/track/1US8bGeclUcs21XOVbH4ac"
     },
     {
-      "added_at": "2022-08-12 17:05:56",
-      "album": {
-        "name": "OK Cowboy",
-        "url": "https://open.spotify.com/album/3FbISaAK2oqQeLZACLifbo"
-      },
-      "artists": [
-        {
-          "name": "Vitalic",
-          "url": "https://open.spotify.com/artist/4M84umUNRbZy1mJleyyRM9"
-        }
-      ],
-      "duration_ms": 326040,
-      "name": "La Rock 01",
-      "url": "https://open.spotify.com/track/2NNljOKFmhMxsfK8J5z4eF"
-    },
-    {
-      "added_at": "2022-08-12 17:05:56",
+      "added_at": "2022-11-07 18:25:54",
       "album": {
         "name": "Jolean",
         "url": "https://open.spotify.com/album/3IuM6CZV1zSyZIKl2tbbpj"
@@ -1115,6 +1175,26 @@
       "duration_ms": 193602,
       "name": "Jolean",
       "url": "https://open.spotify.com/track/2ng0DafMn7xw3JnzF1Zzmi"
+    },
+    {
+      "added_at": "2022-11-07 18:25:54",
+      "album": {
+        "name": "Enjoy The Day",
+        "url": "https://open.spotify.com/album/6W6PXpiLO5GKjMvrIsnQpE"
+      },
+      "artists": [
+        {
+          "name": "Phil Kieran",
+          "url": "https://open.spotify.com/artist/7fVBYlm65H50HLNLAQHBt5"
+        },
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        }
+      ],
+      "duration_ms": 340659,
+      "name": "Enjoy The Day - Vocal",
+      "url": "https://open.spotify.com/track/5PSGcb5x12NYNaOkmZeXAc"
     }
   ],
   "unique_name": "Green Velvet's track IDs",

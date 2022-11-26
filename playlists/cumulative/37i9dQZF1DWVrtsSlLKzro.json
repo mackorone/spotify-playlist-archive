@@ -475,7 +475,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 184038,
       "name": "Be Ok",
       "url": "https://open.spotify.com/track/1xe8rWI6ZToSgKdZ0HMNrO"
@@ -610,6 +610,24 @@
     },
     {
       "album": {
+        "name": "Actual Life 3 (January 1 - September 9 2022)",
+        "url": "https://open.spotify.com/album/6vN8o7jyIAJvFPqC0vxxmm"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
+      "duration_ms": 196965,
+      "name": "Bleu (better with time)",
+      "url": "https://open.spotify.com/track/1VqS6b1NqGRTkO3NzQpJG7"
+    },
+    {
+      "album": {
         "name": "Bleu (better with time)",
         "url": "https://open.spotify.com/album/15vlMi5OpGkF6JSxwUTYjF"
       },
@@ -621,10 +639,50 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 196965,
       "name": "Bleu (better with time)",
       "url": "https://open.spotify.com/track/42RIuav2MTQs3TEelnQDa3"
+    },
+    {
+      "album": {
+        "name": "Bleu (better with time)",
+        "url": "https://open.spotify.com/album/25sSADe7gpt7dNYnuMaHUY"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 196965,
+      "name": "Bleu (better with time)",
+      "url": "https://open.spotify.com/track/4xSMh9BWWf2ChhowpplGdR"
+    },
+    {
+      "album": {
+        "name": "Actual Life 3 (January 1 - September 9 2022)",
+        "url": "https://open.spotify.com/album/4O0noIPlmEkVFvyj7TOKpA"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196965,
+      "name": "Bleu (better with time)",
+      "url": "https://open.spotify.com/track/7mRD0qvI5y0SZ4DPhpejdd"
     },
     {
       "album": {
@@ -885,6 +943,28 @@
     {
       "album": {
         "name": "For You",
+        "url": "https://open.spotify.com/album/5H6qeMqv8UxMxvBTHzZ7Hc"
+      },
+      "artists": [
+        {
+          "name": "Vincent",
+          "url": "https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB"
+        },
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280125,
+      "name": "Can't Help Myself",
+      "url": "https://open.spotify.com/track/5j1Hz9qgKAYdMSlD592Vks"
+    },
+    {
+      "album": {
+        "name": "For You",
         "url": "https://open.spotify.com/album/5PfEtYfR13izbJCJZe3pj0"
       },
       "artists": [
@@ -899,7 +979,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 280125,
       "name": "Can't Help Myself",
       "url": "https://open.spotify.com/track/64UQKc7huxeIY227ELVYMp"
@@ -939,6 +1019,24 @@
       "duration_ms": 192160,
       "name": "Chemicals",
       "url": "https://open.spotify.com/track/3MhzrKptQyWZCIQC4yZNu3"
+    },
+    {
+      "album": {
+        "name": "Chemicals (VNSSA Remix)",
+        "url": "https://open.spotify.com/album/46FfOOBpEtPbuTbKRGx8Ra"
+      },
+      "artists": [
+        {
+          "name": "Peking Duk",
+          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 192160,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/4pQcd3hi4TLoebQ4BeFBWa"
     },
     {
       "album": {
@@ -1155,7 +1253,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 235012,
       "name": "Dark Places",
       "url": "https://open.spotify.com/track/3EPyTBUgWMA2Ib2vT6XHIt"
@@ -1319,6 +1417,46 @@
       "duration_ms": 170620,
       "name": "Don't Wait For Me",
       "url": "https://open.spotify.com/track/1C6qilcpgci5bJSBB6qSK4"
+    },
+    {
+      "album": {
+        "name": "Down The Line",
+        "url": "https://open.spotify.com/album/2aBppqWbkkARYjUW6VoTxs"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208440,
+      "name": "Down The Line",
+      "url": "https://open.spotify.com/track/23ntTt28Gi43YbexAyAP8K"
+    },
+    {
+      "album": {
+        "name": "Drifting Away",
+        "url": "https://open.spotify.com/album/3WgmH7tOlVlAmGtRRlQpl7"
+      },
+      "artists": [
+        {
+          "name": "Audien",
+          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
+        },
+        {
+          "name": "Joe Jury",
+          "url": "https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer"
+        }
+      ],
+      "date_added": "2022-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198750,
+      "name": "Drifting Away",
+      "url": "https://open.spotify.com/track/6nbXYLeP21ksEQNFrHl2a2"
     },
     {
       "album": {
@@ -1664,6 +1802,28 @@
     },
     {
       "album": {
+        "name": "FOREVER (REMIXES)",
+        "url": "https://open.spotify.com/album/0EiPFlY9qDofbUrMPkr6oa"
+      },
+      "artists": [
+        {
+          "name": "Flight Facilities",
+          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
+        },
+        {
+          "name": "BROODS",
+          "url": "https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 228534,
+      "name": "FOREVER",
+      "url": "https://open.spotify.com/track/1XgAv3tthu0YgILylps7az"
+    },
+    {
+      "album": {
         "name": "FOREVER",
         "url": "https://open.spotify.com/album/6kzRU9QtsTrhlObao5Eb3t"
       },
@@ -1797,6 +1957,24 @@
     {
       "album": {
         "name": "Gone",
+        "url": "https://open.spotify.com/album/6ZHedelUpByxH6pYV3tCok"
+      },
+      "artists": [
+        {
+          "name": "Blake Rose",
+          "url": "https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205462,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/2dPT9UxyHm71quNyj3C4YE"
+    },
+    {
+      "album": {
+        "name": "Gone",
         "url": "https://open.spotify.com/album/6o34olfBCXjvDTckpxl09t"
       },
       "artists": [
@@ -1807,7 +1985,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 205462,
       "name": "Gone",
       "url": "https://open.spotify.com/track/6sHxpnCerm9M6A5zaFFNfs"
@@ -1858,6 +2036,28 @@
     },
     {
       "album": {
+        "name": "EDC Las Vegas 2021",
+        "url": "https://open.spotify.com/album/5IBne83Up06sVwVAacqzTc"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "The Moth & The Flame",
+          "url": "https://open.spotify.com/artist/6Fk18HpdnXUsKWpN9mPb9R"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 298829,
+      "name": "Haunt Me V.2",
+      "url": "https://open.spotify.com/track/0p1ZGE1Y7OWADp1UNIGTvy"
+    },
+    {
+      "album": {
         "name": "Haunt Me V.2",
         "url": "https://open.spotify.com/album/5zzz3bqkSSoU9nOnpigjTM"
       },
@@ -1873,10 +2073,32 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 298829,
       "name": "Haunt Me V.2",
       "url": "https://open.spotify.com/track/2USVsdlxRntLqOROwO422o"
+    },
+    {
+      "album": {
+        "name": "Haunt Me V.2",
+        "url": "https://open.spotify.com/album/6h8qLhlJHVIMTnhRzfk9Ya"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "The Moth & The Flame",
+          "url": "https://open.spotify.com/artist/6Fk18HpdnXUsKWpN9mPb9R"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298829,
+      "name": "Haunt Me V.2",
+      "url": "https://open.spotify.com/track/6nnWFXD31Cfzek7Lli9ehd"
     },
     {
       "album": {
@@ -1999,7 +2221,7 @@
           "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
         },
         {
-          "name": "Hazel",
+          "name": "hazel",
           "url": "https://open.spotify.com/artist/4rkgDx09bDtVCllN0MJR1J"
         }
       ],
@@ -2071,6 +2293,24 @@
       "duration_ms": 328275,
       "name": "Homesick (feat. SOUNDR)",
       "url": "https://open.spotify.com/track/1lypBFGiKyft1PVgNp358Y"
+    },
+    {
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/4xiFocLVSRz0H1hxizkWOT"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193420,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/6klB3i7WPg51WX78i3t9yQ"
     },
     {
       "album": {
@@ -2203,6 +2443,24 @@
       "duration_ms": 180522,
       "name": "I Don't Wanna Know",
       "url": "https://open.spotify.com/track/0hHcQSdtwycNOec82X2QId"
+    },
+    {
+      "album": {
+        "name": "I Don't Wanna Know (LOWES Acoustic Mix)",
+        "url": "https://open.spotify.com/album/6e7JY1kVRRwihqh5YdkJ2a"
+      },
+      "artists": [
+        {
+          "name": "Silience",
+          "url": "https://open.spotify.com/artist/7yk8lN0B2B5wBdb4DJfQLI"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 180522,
+      "name": "I Don't Wanna Know",
+      "url": "https://open.spotify.com/track/2r02W5rL1vgregWKJMlqlx"
     },
     {
       "album": {
@@ -2349,7 +2607,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 216000,
       "name": "in between",
       "url": "https://open.spotify.com/track/67DzbAQrdvHvUg0GXlPwnh"
@@ -2495,6 +2753,24 @@
     {
       "album": {
         "name": "Keep Waiting",
+        "url": "https://open.spotify.com/album/5Q4LP9N6cYMgSrwbvzwjK6"
+      },
+      "artists": [
+        {
+          "name": "King Henry",
+          "url": "https://open.spotify.com/artist/4IbUky1dWqlyVlMMTJXPI5"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289071,
+      "name": "Keep Waiting",
+      "url": "https://open.spotify.com/track/13dbtZmlAnKZlSgJApiESy"
+    },
+    {
+      "album": {
+        "name": "Keep Waiting",
         "url": "https://open.spotify.com/album/1rziHNYox20wX97i4mJmOR"
       },
       "artists": [
@@ -2523,7 +2799,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 289071,
       "name": "Keep Waiting",
       "url": "https://open.spotify.com/track/1GzVJMwepmBdnqTEfyQhl5"
@@ -2681,7 +2957,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 214153,
       "name": "Long Way Home",
       "url": "https://open.spotify.com/track/4RdZfdkgW1OmkajhvcOxA1"
@@ -2979,6 +3255,28 @@
       "duration_ms": 181200,
       "name": "Messin' Me Up",
       "url": "https://open.spotify.com/track/1BaDqqGjB415IBUfR22NFC"
+    },
+    {
+      "album": {
+        "name": "Messin\u2019 Me Up (Ardalan Remixes)",
+        "url": "https://open.spotify.com/album/2vhYGMhPLbRKfrfPKOxjli"
+      },
+      "artists": [
+        {
+          "name": "What So Not",
+          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
+        },
+        {
+          "name": "EVAN GIIA",
+          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 181200,
+      "name": "Messin' Me Up",
+      "url": "https://open.spotify.com/track/1RZmiE1Jlk4pd1ZqGokuFQ"
     },
     {
       "album": {
@@ -3590,6 +3888,24 @@
     },
     {
       "album": {
+        "name": "Digital Dreamscape (Deluxe)",
+        "url": "https://open.spotify.com/album/1sZfrNrXrkhxjAXcRHEFHQ"
+      },
+      "artists": [
+        {
+          "name": "ayokay",
+          "url": "https://open.spotify.com/artist/4BzCdhJTyTS3gumq9xmymb"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199407,
+      "name": "Right For You",
+      "url": "https://open.spotify.com/track/0HKumeK6is7Q970OOCrGPc"
+    },
+    {
+      "album": {
         "name": "Sail Away (feat. Jay Mason)",
         "url": "https://open.spotify.com/album/6UEOL9j71DS5c7yvHV5xUW"
       },
@@ -4084,6 +4400,24 @@
     },
     {
       "album": {
+        "name": "To Last",
+        "url": "https://open.spotify.com/album/00RMnS3psKLla6O7sYp8mB"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176283,
+      "name": "To Last",
+      "url": "https://open.spotify.com/track/10aCY2jJFNYGf9qpiN2LZy"
+    },
+    {
+      "album": {
         "name": "Treading Water",
         "url": "https://open.spotify.com/album/20ZPAqgm26vHBDt3S6oRLu"
       },
@@ -4473,6 +4807,42 @@
     {
       "album": {
         "name": "Where Did You Go",
+        "url": "https://open.spotify.com/album/3MUSaPmwfJ2ourwzUwcuDA"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224865,
+      "name": "Where Did You Go",
+      "url": "https://open.spotify.com/track/0KMLrTIhAcMfd8qsCbPXrM"
+    },
+    {
+      "album": {
+        "name": "Redux EP 005",
+        "url": "https://open.spotify.com/album/4TDpnU6BpjTz7ffghMwgvq"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 224865,
+      "name": "Where Did You Go",
+      "url": "https://open.spotify.com/track/2Kv0ZWjR7jiReO1dyEyTDe"
+    },
+    {
+      "album": {
+        "name": "Where Did You Go",
         "url": "https://open.spotify.com/album/5DYxA2kmNLhwiGauOOFtPK"
       },
       "artists": [
@@ -4483,7 +4853,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 224865,
       "name": "Where Did You Go",
       "url": "https://open.spotify.com/track/69UhNEZfdWZ2e1nmIaJtUa"
@@ -4775,10 +5145,28 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 175568,
       "name": "You're Not Mine",
       "url": "https://open.spotify.com/track/0hiUJCgkKNkmMSgSCttvyR"
+    },
+    {
+      "album": {
+        "name": "You're Not Mine",
+        "url": "https://open.spotify.com/album/0DkMxW0zWrw76OJyYO5F9Q"
+      },
+      "artists": [
+        {
+          "name": "Borgeous",
+          "url": "https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175568,
+      "name": "You're Not Mine",
+      "url": "https://open.spotify.com/track/3L170JRykNjmZ6yT7VqVz0"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWVrtsSlLKzro"

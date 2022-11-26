@@ -4,7 +4,7 @@
 
 > O melhor do trance feito na América Latina / Lo mejor del trance latino\. Foto: Henrique Camacho
 
-71 songs - 7 hr 4 min - [published](https://open.spotify.com/playlist/0YKwThAgsj7nOJs08LIQIc)
+73 songs - 7 hr 14 min - [published](https://open.spotify.com/playlist/0YKwThAgsj7nOJs08LIQIc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Lokura](https://open.spotify.com/track/70lb6njaDkc8HUvtJHIP0w) | [Chapeleiro](https://open.spotify.com/artist/5M5NrRoOEBa49sW1hzKkuH) | [Lokura](https://open.spotify.com/album/6yP88QdkmSgZTt6pVYnwwy) | 5:56 | 2022-03-04 |  |
 | [Makeup \- Blazy Remix](https://open.spotify.com/track/3uPJHAv7ZjWfXBJwvGBUIi) | [Neelix](https://open.spotify.com/artist/5X3rdmEE2Mif6kFQkb2PxB), [Caroline Harrison](https://open.spotify.com/artist/43Cmg6YqnuPEHxe7TQLOk7), [Blazy](https://open.spotify.com/artist/0ASqieRgSFzYlNmf1VkBVC) | [Makeup \(Blazy Remix\)](https://open.spotify.com/album/4JaFh2A52RbWRehhXjKOli) | 7:46 | 2022-03-04 |  |
 | [Making Me Nervous](https://open.spotify.com/track/6zE17ubF5geqiXUuY7gCRd) | [Sighter](https://open.spotify.com/artist/3CfrCyWR2mGwc2ADmr30RM), [Konaefiz](https://open.spotify.com/artist/7d2PyJyMVaEv9R4Uq3bzOr) | [Making Me Nervous](https://open.spotify.com/album/0g3PEuQCiLD3UpbuDUHmka) | 5:29 | 2022-03-04 | 2022-07-29 |
+| [Making Me Nervous \- Sighter & Konaefiz Remix](https://open.spotify.com/track/4ob0K49lFdDlwfZxYrBg2u) | [Brad Sucks](https://open.spotify.com/artist/13yy1c4aDXIWu2zfvtvGLn), [Sighter](https://open.spotify.com/artist/3CfrCyWR2mGwc2ADmr30RM), [Konaefiz](https://open.spotify.com/artist/7d2PyJyMVaEv9R4Uq3bzOr) | [Making Me Nervous \(Sighter & Konaefiz Remix\)](https://open.spotify.com/album/3lrBWI41Fa8FEMZeyIPK8m) | 5:29 | 2022-03-04 | 2022-11-13 |
 | [Making Me Nervous \- Sighter & Konaefiz Remix](https://open.spotify.com/track/5r8IOZiUR3jwXzhAlYkwPH) | [Brad Sucks](https://open.spotify.com/artist/13yy1c4aDXIWu2zfvtvGLn), [Sighter](https://open.spotify.com/artist/3CfrCyWR2mGwc2ADmr30RM), [Konaefiz](https://open.spotify.com/artist/7d2PyJyMVaEv9R4Uq3bzOr) | [Making Me Nervous \(Sighter & Konaefiz Remix\)](https://open.spotify.com/album/373BRwEkG5RGippR3xWAqP) | 5:29 | 2022-03-04 |  |
 | [Mariachi](https://open.spotify.com/track/7E8JUCRny3bL3jM70Hf8bT) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22) | [Mariachi EP](https://open.spotify.com/album/5Hqg40DAVVoEaB6dvH2P4z) | 2:42 | 2022-03-04 |  |
 | [Melody](https://open.spotify.com/track/2uy5qL4iIhNkgjalA5gDyF) | [Fresh Drop](https://open.spotify.com/artist/6wlfDafUCKXnI1czm6uXZi) | [Melody](https://open.spotify.com/album/13DFtxpliDD89yQcBbuQEK) | 6:12 | 2022-03-04 |  |
@@ -63,7 +64,8 @@
 | [Noise Casting](https://open.spotify.com/track/7C8LL5w3G3ncNIAwy4lzHs) | [Hypnoise](https://open.spotify.com/artist/0q4dv8TKspFmOvFfsmnrTO), [Mental Broadcast](https://open.spotify.com/artist/1uYzpQdXFPoAlplMQrAsSv) | [Noise Casting](https://open.spotify.com/album/7fecLpRuGAjqcg2aBpffga) | 7:16 | 2022-03-04 |  |
 | [Out There](https://open.spotify.com/track/0kh3tTHz3K7iop1tV4RRwI) | [Reverence](https://open.spotify.com/artist/5iXp3W5x3XiBU55AGhfEYl) | [Out There](https://open.spotify.com/album/0D4Bdip4BhTnmOB9Cd19Cs) | 6:05 | 2022-03-04 |  |
 | [Pina Colada](https://open.spotify.com/track/1921iEr6Xx017QU7WVcB5C) | [Stratil](https://open.spotify.com/artist/3fVNHjlFZ4DUkqL7wz9CTy) | [Next Levels](https://open.spotify.com/album/1fFMVitqbtayubq5kcgvR1) | 6:41 | 2022-03-04 |  |
-| [Pólvora](https://open.spotify.com/track/3NZsaDrILzOwEbvvitf1D2) | [Chapeleiro](https://open.spotify.com/artist/5M5NrRoOEBa49sW1hzKkuH) | [Acelero](https://open.spotify.com/album/3IaWvLz87jDi6thZNB2pU1) | 4:16 | 2022-03-04 |  |
+| [Pólvora](https://open.spotify.com/track/3gIMWNKpWj4d8aTeA6xUoT) | [Chapeleiro](https://open.spotify.com/artist/5M5NrRoOEBa49sW1hzKkuH) | [Acelero](https://open.spotify.com/album/1HYeTdgTn7FhtrAvJgVsCc) | 4:12 | 2022-03-04 |  |
+| [Pólvora](https://open.spotify.com/track/3NZsaDrILzOwEbvvitf1D2) | [Chapeleiro](https://open.spotify.com/artist/5M5NrRoOEBa49sW1hzKkuH) | [Acelero](https://open.spotify.com/album/3IaWvLz87jDi6thZNB2pU1) | 4:16 | 2022-03-04 | 2022-10-16 |
 | [Quebra Queixo](https://open.spotify.com/track/4lUMNAN9T2irVxlaLNehem) | [Vegas \(Brazil\)](https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z), [Tijah](https://open.spotify.com/artist/5Y4eYnpmmmLdYaLH6dSGyB) | [Quebra Queixo](https://open.spotify.com/album/2ZDKtIOh7v9jt0Kc2wU8Mi) | 6:12 | 2022-03-04 |  |
 | [Red Eagle](https://open.spotify.com/track/4QCKZtXp4l5NyelhtbOUjC) | [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [LaCrème](https://open.spotify.com/artist/3ppxoCtKBAAnaAxQd4WAPn) | [Red Eagle](https://open.spotify.com/album/1dxFzhWkEVG1TrfhPguAy6) | 2:43 | 2022-03-04 |  |
 | [Revolt](https://open.spotify.com/track/4tbZ8DNmFxSMjw7gDuSCoq) | [Sajanka](https://open.spotify.com/artist/2VkquxQ6H8d3eGK5ClilOf), [Barsha](https://open.spotify.com/artist/3oMKIj359dmAMAzCung5U5) | [Revolt](https://open.spotify.com/album/5DUfitxhpm7D3xcjcCMkWp) | 6:30 | 2022-03-04 |  |

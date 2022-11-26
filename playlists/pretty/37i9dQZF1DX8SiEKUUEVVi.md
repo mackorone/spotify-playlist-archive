@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SiEKUUEVVi.md) - [plain]
 
 > Intoxicating, joyful pop captures the Pride spirit for the Austrian drag queen and Eurovision Song Contest 2014 winner.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,978 likes - 29 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,977 likes - 29 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

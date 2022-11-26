@@ -1,15 +1,31 @@
 {
   "description": "Bathe in Ambient and nature sounds and reconnect to nature, with the Japanese practice of shinrin yoku.",
-  "num_followers": 183,
+  "num_followers": 912,
   "original_name": "Forest Bathing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTE1OTk1NCwwMDAwMDAwMDcxNzM3ODVhYWVmMGEwMDI4MGYyNzg4ZWJhNzE3NmM4",
+  "snapshot_id": "MTY2OTEzOTMzMCwwMDAwMDAwMDdjZGE2ZDkzM2UzY2NiZTZjN2ZjZjNmODdjZTgxNmJj",
   "tracks": [
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
+      "album": {
+        "name": "Kokyu",
+        "url": "https://open.spotify.com/album/3YVRQ3pYpeyTqZlkQ9g8hZ"
+      },
+      "artists": [
+        {
+          "name": "Sayuri Hayashi Egnell",
+          "url": "https://open.spotify.com/artist/1pW8cCL6NXZeIFavTetTVF"
+        }
+      ],
+      "duration_ms": 246124,
+      "name": "Kokyu",
+      "url": "https://open.spotify.com/track/4eVodNiAOrJr4fmTxQ3PDK"
+    },
+    {
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Asha",
         "url": "https://open.spotify.com/album/3oOt8cLuvB7sdnb75HaI5k"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/6xLtuBNPyD7fBS1XzlSKE2"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Forest Sleep",
         "url": "https://open.spotify.com/album/6sNHszYiVNe3hLvWC7f5HN"
@@ -41,7 +57,7 @@
       "url": "https://open.spotify.com/track/5OWfVkHNd4tMTMZPXfk9wv"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Horizon",
         "url": "https://open.spotify.com/album/3x2d2u4oJ8Ip0Ucq7oZdlp"
@@ -57,7 +73,7 @@
       "url": "https://open.spotify.com/track/3ifemXqhR8ap2nIVvoeYyV"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Eternal Forest",
         "url": "https://open.spotify.com/album/6FhvOH8TzkOWyvWRXFCk5A"
@@ -73,7 +89,7 @@
       "url": "https://open.spotify.com/track/1lR9VEaW8mD2SXuAtr4d9w"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Spiritualizer",
         "url": "https://open.spotify.com/album/1CnFJVEozeGpXtd6ih5ldP"
@@ -89,7 +105,7 @@
       "url": "https://open.spotify.com/track/5Nl0Uy3C5GhECu1wePK0Ty"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Forest Flowers",
         "url": "https://open.spotify.com/album/5qgrCLlPi1VKF1d5P19inO"
@@ -105,7 +121,7 @@
       "url": "https://open.spotify.com/track/6BtENACq8EIL1oeqEJVbdR"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Emberly Path",
         "url": "https://open.spotify.com/album/2E7vitCgw71paDzGHMukLQ"
@@ -121,7 +137,7 @@
       "url": "https://open.spotify.com/track/6LQiwabLqjy1jEJEACKcyj"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Invitado De La Naturaleza",
         "url": "https://open.spotify.com/album/5p2lBL3zw0Ga9L9WskiXJk"
@@ -137,7 +153,7 @@
       "url": "https://open.spotify.com/track/4BsGi3xKuLzJ5rIOnOPwYN"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Paddling",
         "url": "https://open.spotify.com/album/51MINJirySns0EC825x26Y"
@@ -153,7 +169,7 @@
       "url": "https://open.spotify.com/track/6ArermgdPUH5Iu4ZXG9QgN"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Catchacoma Lake",
         "url": "https://open.spotify.com/album/7fTupqeF42aDgxnwxZ4XAj"
@@ -169,7 +185,23 @@
       "url": "https://open.spotify.com/track/0KBDOOB3rmySzqcqIet1wp"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
+      "album": {
+        "name": "Nature's Serenade",
+        "url": "https://open.spotify.com/album/4vLm6LVhLLSMJ1o1XjgHby"
+      },
+      "artists": [
+        {
+          "name": "Jourado Sky",
+          "url": "https://open.spotify.com/artist/5QY48b9fOopYTVlgfkcBqp"
+        }
+      ],
+      "duration_ms": 159724,
+      "name": "Nature's Serenade (432 Hz)",
+      "url": "https://open.spotify.com/track/7iv8k4zVh3KREyGS36c1Ej"
+    },
+    {
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/3RdB7JUZymsf7iWvonsUAo"
@@ -185,7 +217,39 @@
       "url": "https://open.spotify.com/track/1z2QFjVmDqQYyriK5q7DzS"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
+      "album": {
+        "name": "Calm Forest",
+        "url": "https://open.spotify.com/album/3shOyi6D4SFu1LG27tSyO4"
+      },
+      "artists": [
+        {
+          "name": "Human Is Alive",
+          "url": "https://open.spotify.com/artist/7dTbMBySbElMEZs1RfUYO7"
+        }
+      ],
+      "duration_ms": 192409,
+      "name": "Calm Forest",
+      "url": "https://open.spotify.com/track/0lC8zT7WHcpDfY4nXly46Y"
+    },
+    {
+      "added_at": "2022-11-22 17:48:50",
+      "album": {
+        "name": "Ambi Sant",
+        "url": "https://open.spotify.com/album/4qHJC9flkExlbRs27mOEwy"
+      },
+      "artists": [
+        {
+          "name": "Priy",
+          "url": "https://open.spotify.com/artist/0EXInuJq3g2Gz8pvxZCxer"
+        }
+      ],
+      "duration_ms": 217250,
+      "name": "Ambi Sant",
+      "url": "https://open.spotify.com/track/6V8Nug0E9yzNkPVqwNhdXQ"
+    },
+    {
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Call of the Sea",
         "url": "https://open.spotify.com/album/7orgE1tuvFQoWVQpxgh9ep"
@@ -201,7 +265,7 @@
       "url": "https://open.spotify.com/track/4aB1CV3jThJqcdCvoh70ZT"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Angelic Waves",
         "url": "https://open.spotify.com/album/52fu5J6B5UztithHQhrcXY"
@@ -217,7 +281,7 @@
       "url": "https://open.spotify.com/track/3uj0rDeSdN9xWN3GXQ53DS"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Anhinga Trail Soundwalk",
         "url": "https://open.spotify.com/album/0DUA9cfK1KPrAesBQzzG7A"
@@ -233,7 +297,27 @@
       "url": "https://open.spotify.com/track/018IBzMQ9x0xR6nC3sld9Z"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
+      "album": {
+        "name": "In Early Autumn",
+        "url": "https://open.spotify.com/album/1vvGTNlVzcxZ51VPjr8pIz"
+      },
+      "artists": [
+        {
+          "name": "Sun Echo",
+          "url": "https://open.spotify.com/artist/4jhzzWw1hUD1WeZT73WW4D"
+        },
+        {
+          "name": "Whispering Landscapes",
+          "url": "https://open.spotify.com/artist/7myvpdTsqwTbYbdaFcR5r9"
+        }
+      ],
+      "duration_ms": 186375,
+      "name": "In Early Autumn",
+      "url": "https://open.spotify.com/track/5JqHpCJecMueZXSzgCPzQp"
+    },
+    {
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Chromabaths",
         "url": "https://open.spotify.com/album/3COfB16rn7vwZ49mNj6Puk"
@@ -249,7 +333,23 @@
       "url": "https://open.spotify.com/track/1o2AMc7LXyell5edk3rpYG"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
+      "album": {
+        "name": "Dreamwalking",
+        "url": "https://open.spotify.com/album/37ZnhjPhruA4YzrNnmLaOy"
+      },
+      "artists": [
+        {
+          "name": "Atmospheric Lights",
+          "url": "https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX"
+        }
+      ],
+      "duration_ms": 233478,
+      "name": "Dreamwalking",
+      "url": "https://open.spotify.com/track/730N7FLjGbW4R98k2a4tq5"
+    },
+    {
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Pristine Serenity",
         "url": "https://open.spotify.com/album/6AcVoBF3DeDJyDy8OrQXEM"
@@ -265,7 +365,7 @@
       "url": "https://open.spotify.com/track/2CttcShYdFruE99bOglV8x"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Nature's Drone 432Hz",
         "url": "https://open.spotify.com/album/0dxeNYb0H4Mu9Wkdad2LPA"
@@ -281,7 +381,7 @@
       "url": "https://open.spotify.com/track/0t4H5P4RqjlO7GjmqmoRCm"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Spacious",
         "url": "https://open.spotify.com/album/105C3Mcfk9K94SliSGOJTh"
@@ -297,7 +397,7 @@
       "url": "https://open.spotify.com/track/34JC7pSpTBs2vIcracU2ED"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Self Empathy 2",
         "url": "https://open.spotify.com/album/53IJTj3ETsfT3W9I45aS53"
@@ -313,7 +413,23 @@
       "url": "https://open.spotify.com/track/1HXPzjfK4hYiIPYJchH1k2"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
+      "album": {
+        "name": "Sentiment - Sound Bath",
+        "url": "https://open.spotify.com/album/4iRyKexSdcfqJIff3i1W5j"
+      },
+      "artists": [
+        {
+          "name": "Ara Amar",
+          "url": "https://open.spotify.com/artist/6YWZXgJnIkhmLN7GYX3sF4"
+        }
+      ],
+      "duration_ms": 162060,
+      "name": "Sentiment - Sound Bath",
+      "url": "https://open.spotify.com/track/6NCBhoJxrycWkrkjM3TgFP"
+    },
+    {
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Forest Awakens",
         "url": "https://open.spotify.com/album/1CLoQedetRmKO3z1N43wPi"
@@ -329,7 +445,99 @@
       "url": "https://open.spotify.com/track/5byEWvYqXJvyvIthJtIpHn"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
+      "album": {
+        "name": "Radiance",
+        "url": "https://open.spotify.com/album/4bzmUK9MSQoKeQZk4VzpZQ"
+      },
+      "artists": [
+        {
+          "name": "Coherent Energy",
+          "url": "https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP"
+        }
+      ],
+      "duration_ms": 133229,
+      "name": "Radiance",
+      "url": "https://open.spotify.com/track/09j78GCloYLj0f1MG1V6h0"
+    },
+    {
+      "added_at": "2022-11-22 17:48:50",
+      "album": {
+        "name": "As I Dream",
+        "url": "https://open.spotify.com/album/3rzsB1SKf06JVz94jRszfY"
+      },
+      "artists": [
+        {
+          "name": "Tranquil Journeys",
+          "url": "https://open.spotify.com/artist/54FHbjddYi2zgSZ1QNgkPn"
+        }
+      ],
+      "duration_ms": 206059,
+      "name": "As I Dream",
+      "url": "https://open.spotify.com/track/0sWE39QKRcEFzEkd4fiBDZ"
+    },
+    {
+      "added_at": "2022-11-22 17:48:50",
+      "album": {
+        "name": "Frozen Sunlight",
+        "url": "https://open.spotify.com/album/585o7QhQ8LporxUlnbMR8b"
+      },
+      "artists": [
+        {
+          "name": "Sun Echo",
+          "url": "https://open.spotify.com/artist/4jhzzWw1hUD1WeZT73WW4D"
+        },
+        {
+          "name": "Whispering Landscapes",
+          "url": "https://open.spotify.com/artist/7myvpdTsqwTbYbdaFcR5r9"
+        }
+      ],
+      "duration_ms": 210277,
+      "name": "Frozen Sunlight",
+      "url": "https://open.spotify.com/track/02tb4HZydiOwErys8qitIc"
+    },
+    {
+      "added_at": "2022-11-22 17:48:50",
+      "album": {
+        "name": "Self Empathy",
+        "url": "https://open.spotify.com/album/0F9UrVkjArSjtuLEpg4qiw"
+      },
+      "artists": [
+        {
+          "name": "Raf21",
+          "url": "https://open.spotify.com/artist/5fzZ93Y7teAEqppKqLAlR8"
+        },
+        {
+          "name": "Raphael Beaudon",
+          "url": "https://open.spotify.com/artist/4XbEtxj5AxINGaASuk3KD6"
+        }
+      ],
+      "duration_ms": 158822,
+      "name": "Self Empathy - Night Version",
+      "url": "https://open.spotify.com/track/3M1zoke7AguNqJls0YVIGz"
+    },
+    {
+      "added_at": "2022-11-22 17:48:50",
+      "album": {
+        "name": "Ethereal Waves",
+        "url": "https://open.spotify.com/album/5fwzhmDCKPrdkDDQgidmqY"
+      },
+      "artists": [
+        {
+          "name": "The Quiet Path",
+          "url": "https://open.spotify.com/artist/2qaVQa8FpiSBGzWIsFwhkD"
+        },
+        {
+          "name": "The Slumbering One",
+          "url": "https://open.spotify.com/artist/6zFp0HHOylks3A1Dv15j4e"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Ethereal Waves",
+      "url": "https://open.spotify.com/track/2yeN8GlhSig74nUe3KFKOx"
+    },
+    {
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Yoru",
         "url": "https://open.spotify.com/album/19KxJBqNupp2VPFOg3ZgaH"
@@ -345,7 +553,7 @@
       "url": "https://open.spotify.com/track/5qjMM52Ija5FTDP3NKsRNI"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Magical Forest",
         "url": "https://open.spotify.com/album/3yMaEUpzkY2oQxfAbzsp1E"
@@ -361,7 +569,7 @@
       "url": "https://open.spotify.com/track/609XrJO5zvw5K1H2l4NtwW"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "close to nature",
         "url": "https://open.spotify.com/album/4wcX5mi1m1EDBtK3Yuecq3"
@@ -377,7 +585,7 @@
       "url": "https://open.spotify.com/track/36ZHnIzeY7Iq079ZLPQMSC"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Forest Sleep",
         "url": "https://open.spotify.com/album/6sNHszYiVNe3hLvWC7f5HN"
@@ -393,7 +601,7 @@
       "url": "https://open.spotify.com/track/31YItqOU3GQsHAL8nQoIpj"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Above The Trees",
         "url": "https://open.spotify.com/album/2fsy6gg50jg2yqzDUHYkyX"
@@ -409,7 +617,7 @@
       "url": "https://open.spotify.com/track/4qzxepc9e8IRuqmknRIeAN"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Essence",
         "url": "https://open.spotify.com/album/5OAJ05tD9LeiJTAUcThnUL"
@@ -425,7 +633,7 @@
       "url": "https://open.spotify.com/track/5k4d2aTb3iv6SyPFM2ThRt"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Forest Symphony",
         "url": "https://open.spotify.com/album/4aiuc9wKH99sGi7EO4W7LY"
@@ -441,7 +649,7 @@
       "url": "https://open.spotify.com/track/2BH393CXcxt4c8KgA77WZK"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "My Pace (Remix)",
         "url": "https://open.spotify.com/album/3NmlnEt8dF1oGVuEsBUe8j"
@@ -457,7 +665,23 @@
       "url": "https://open.spotify.com/track/14q3zVXljoHZ7DqDyF3kQl"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
+      "album": {
+        "name": "Being",
+        "url": "https://open.spotify.com/album/2XuXdx0PWF9MRZ6jI1jJrR"
+      },
+      "artists": [
+        {
+          "name": "Astral Wonder",
+          "url": "https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G"
+        }
+      ],
+      "duration_ms": 201896,
+      "name": "Being",
+      "url": "https://open.spotify.com/track/1EEDHsrBnIEwgv3Tx0f4mU"
+    },
+    {
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "You are a miracle",
         "url": "https://open.spotify.com/album/0eZSO9dRfHPub2fkBev7nE"
@@ -473,7 +697,7 @@
       "url": "https://open.spotify.com/track/3OIg6QE59Pye3cK1oRCp54"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Everwoods",
         "url": "https://open.spotify.com/album/4p4Kv6WhDa0ZgJsTGZX7RK"
@@ -489,7 +713,7 @@
       "url": "https://open.spotify.com/track/0Ny6iToeNH1UGeYko2Hfmx"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Tributary Balance",
         "url": "https://open.spotify.com/album/0jeMzKkXb7a3vVLn2EbBkX"
@@ -505,7 +729,7 @@
       "url": "https://open.spotify.com/track/6iCoaYHHA82MZZnxi6nt9h"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Leaves Breathing",
         "url": "https://open.spotify.com/album/0c9RZQfZNbk4TdqJFQDbT5"
@@ -521,7 +745,7 @@
       "url": "https://open.spotify.com/track/04b4ZyKr2YbUGruDUWG3wa"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Breath Of The Wilderness",
         "url": "https://open.spotify.com/album/4WiJ4NAttKpGAYkdT2TnTK"
@@ -537,7 +761,7 @@
       "url": "https://open.spotify.com/track/7lVRii95o1sRkanRZTNVOk"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Song for Milkweed (asclepias, a genus of herbaceous, perennial, flowering plants)",
         "url": "https://open.spotify.com/album/3QnE3ye7yScDPQLdjN9UGr"
@@ -557,7 +781,7 @@
       "url": "https://open.spotify.com/track/6kiL320opeuGmB8d4O7a3c"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Holy",
         "url": "https://open.spotify.com/album/1lfZhvhyyBiKOctE1lKVMY"
@@ -573,7 +797,7 @@
       "url": "https://open.spotify.com/track/6U2i3F04fsnPau8RnL59ib"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Calihue",
         "url": "https://open.spotify.com/album/4E0BbqjU0J9EU3aIPtwkp6"
@@ -589,7 +813,7 @@
       "url": "https://open.spotify.com/track/1DLvqCj6UGzQcPoXzH6wMM"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "The Chilled Forest",
         "url": "https://open.spotify.com/album/2Fg4b6c1Qk8xWjJBKrT9P1"
@@ -605,7 +829,7 @@
       "url": "https://open.spotify.com/track/54rhDr2tqu5HGEJxTbn8d7"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Morning Birds",
         "url": "https://open.spotify.com/album/5ckeXbLDEZNLgxavmsj00B"
@@ -621,7 +845,7 @@
       "url": "https://open.spotify.com/track/6RLN4bPw3Z8I7HAbY6mD37"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Golden Sky",
         "url": "https://open.spotify.com/album/57F1Vi6HQ24RkweWm87Yyt"
@@ -637,7 +861,7 @@
       "url": "https://open.spotify.com/track/7244jlCIRFqRp8yhMaklLN"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Espira",
         "url": "https://open.spotify.com/album/2lnksrCViusZPlkyVbxDJJ"
@@ -653,7 +877,7 @@
       "url": "https://open.spotify.com/track/4rpZd4h0WnZqDr67kLE3KR"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "In Terra",
         "url": "https://open.spotify.com/album/45CJ4LhQDf4eHyfyrFvo29"
@@ -669,7 +893,7 @@
       "url": "https://open.spotify.com/track/5KuUhoDmQ6NvwHUAHhVmHB"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Little Forest",
         "url": "https://open.spotify.com/album/3EsZZo9Cfd9L3bhRk2F9D1"
@@ -685,7 +909,7 @@
       "url": "https://open.spotify.com/track/23hjS0VaLqeb4ZU3CcKJPV"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Forest Dwelling",
         "url": "https://open.spotify.com/album/0jNWQHzzYcS1fPjzNsTAGE"
@@ -701,7 +925,7 @@
       "url": "https://open.spotify.com/track/0n7atpg512cdKCTxkVi2nR"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Ancient Rainforest",
         "url": "https://open.spotify.com/album/00rkvNXq3KIytVhbEVWIpY"
@@ -717,7 +941,7 @@
       "url": "https://open.spotify.com/track/6MjrUU71pjTyp1khZr0ZVh"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Above The Trees",
         "url": "https://open.spotify.com/album/5A02FmfjCW12ChMUxc3PXn"
@@ -733,7 +957,7 @@
       "url": "https://open.spotify.com/track/6vUWjoUSF92bxEXheAQwPg"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "The Bird's World",
         "url": "https://open.spotify.com/album/0ojjQ4QirOH5kQbtbOzLdW"
@@ -749,7 +973,7 @@
       "url": "https://open.spotify.com/track/44sYTwlTFZ9R9V2dGmfd4v"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Miracle Sleep",
         "url": "https://open.spotify.com/album/6c2udN2pA555wHEp3oaehQ"
@@ -765,7 +989,7 @@
       "url": "https://open.spotify.com/track/2D0wO44Z2VUSMrAdryCa9I"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Backwood Recline",
         "url": "https://open.spotify.com/album/2n2onOGsIkuUaD3192y8u4"
@@ -781,7 +1005,7 @@
       "url": "https://open.spotify.com/track/2PFy9vF3sK1J736Dw55Yt8"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Warming Monsoon",
         "url": "https://open.spotify.com/album/01DfqCMqdEVwH2DMAwJdyX"
@@ -797,7 +1021,7 @@
       "url": "https://open.spotify.com/track/3CCIKQyd1AyQykIHKubvsg"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Silent Mind",
         "url": "https://open.spotify.com/album/45La9VqG8XymSR0sul7XAp"
@@ -813,7 +1037,7 @@
       "url": "https://open.spotify.com/track/04cZKVBULr2VKl7VwquEUF"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Somos Tierra",
         "url": "https://open.spotify.com/album/6xGYEZBKtcLC7KIKJOrXSM"
@@ -829,7 +1053,7 @@
       "url": "https://open.spotify.com/track/7AVLKd5agjTZWrfjxBTMHX"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Insomnia Tamer",
         "url": "https://open.spotify.com/album/1XELmRwGmVDmehuINfxmZ2"
@@ -845,7 +1069,7 @@
       "url": "https://open.spotify.com/track/5uUKuVWqa2xF1TqNaBqJkw"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Lost in the Clouds (Sound Bath)",
         "url": "https://open.spotify.com/album/1CnH4T6q1i3MkGn5BoUJnC"
@@ -861,7 +1085,7 @@
       "url": "https://open.spotify.com/track/2uyqItZyU24m0CAtqud0Qk"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Key Of Dreams",
         "url": "https://open.spotify.com/album/6i1MxZzJdaNH47m5AUaPX3"
@@ -877,7 +1101,7 @@
       "url": "https://open.spotify.com/track/4oeL93F47KEHwqVb1DNJmS"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Comfortable under the Surface",
         "url": "https://open.spotify.com/album/0AzrK9ejFOS16BOM2feyHg"
@@ -893,7 +1117,7 @@
       "url": "https://open.spotify.com/track/3W63szGlVtLFTkmrA8dgXJ"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Forest Meditation",
         "url": "https://open.spotify.com/album/3xkbtsbWXCVPsuJCORRtTO"
@@ -909,7 +1133,7 @@
       "url": "https://open.spotify.com/track/7rbdKNARg0eWP3H1bvkZbi"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Fleuriste",
         "url": "https://open.spotify.com/album/5bOxFicaz7OXLdRoXOsIWa"
@@ -925,7 +1149,7 @@
       "url": "https://open.spotify.com/track/69f7nyk91VrWuNXjAOENML"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Silent Forest",
         "url": "https://open.spotify.com/album/4o58Zvl3itrlAyARSNIotq"
@@ -941,7 +1165,7 @@
       "url": "https://open.spotify.com/track/4RJ7NLf74ZcQwvVVSB29WO"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Holy",
         "url": "https://open.spotify.com/album/1lfZhvhyyBiKOctE1lKVMY"
@@ -957,7 +1181,7 @@
       "url": "https://open.spotify.com/track/0IsnhN1xPrCDCl0m5rSW39"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Through the Trees",
         "url": "https://open.spotify.com/album/5Ccx70brRfGHXQIfOmEn3Z"
@@ -973,7 +1197,7 @@
       "url": "https://open.spotify.com/track/1akogVH6M2mv6LfHUJjCLz"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Secrets of the Forest",
         "url": "https://open.spotify.com/album/1MMXk8aJ4rCi8tBrKXa433"
@@ -989,7 +1213,7 @@
       "url": "https://open.spotify.com/track/7rVg5IaSVhulVdXpIUbZcR"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Clarity",
         "url": "https://open.spotify.com/album/6Zfm4chfknuDbhHbwrmWZf"
@@ -1005,7 +1229,7 @@
       "url": "https://open.spotify.com/track/2SEFRp8tsRpHMDuoOLDySR"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "twentieth-night moon",
         "url": "https://open.spotify.com/album/2N0jLRcc26Bdph24mVNwHK"
@@ -1021,7 +1245,7 @@
       "url": "https://open.spotify.com/track/58Slfe4cHE4uqvPIFyTEbx"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Alleviation (Sound Bath)",
         "url": "https://open.spotify.com/album/7nYnglb5XofsK3mTfvfZQk"
@@ -1037,7 +1261,7 @@
       "url": "https://open.spotify.com/track/0NTIQy3ISe4CoWGoMTUOL8"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Mane Fluctus",
         "url": "https://open.spotify.com/album/3J8JWYo4kC156FlaI3uc15"
@@ -1053,7 +1277,7 @@
       "url": "https://open.spotify.com/track/15CHR9OtnnMp4bS2qhN47G"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Izza Bella",
         "url": "https://open.spotify.com/album/0n9ruQ1Lw3qLfUDKKMkJwR"
@@ -1069,7 +1293,7 @@
       "url": "https://open.spotify.com/track/04SBXh7gAhybrSgCADK81Y"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Forest Dreams",
         "url": "https://open.spotify.com/album/1FEt78mhUImIJ7UAVD2CsO"
@@ -1085,7 +1309,7 @@
       "url": "https://open.spotify.com/track/70zia32aU9S7zvTdymWhCP"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Deep Blue",
         "url": "https://open.spotify.com/album/0iqpQ0FHOu8oFzmRyFuVtZ"
@@ -1105,7 +1329,7 @@
       "url": "https://open.spotify.com/track/66XGxK7oj3XzAkhVbqSYpb"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Natuurlijk",
         "url": "https://open.spotify.com/album/4NUMUE1zC63L8XIndUip2e"
@@ -1121,7 +1345,7 @@
       "url": "https://open.spotify.com/track/2BqSwsKNtp7gTAmH479Jmj"
     },
     {
-      "added_at": "2022-10-07 16:25:54",
+      "added_at": "2022-11-22 17:48:50",
       "album": {
         "name": "Atmospheres For Yoga And Meditation",
         "url": "https://open.spotify.com/album/0UzCrJH14dmIujSR2uynv8"

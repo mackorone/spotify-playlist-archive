@@ -246,6 +246,46 @@
     },
     {
       "album": {
+        "name": "Trialog",
+        "url": "https://open.spotify.com/album/25aj5x75VPuZ9NWz36ZT6v"
+      },
+      "artists": [
+        {
+          "name": "HVOB",
+          "url": "https://open.spotify.com/artist/6RAx8RRxoHeJIqD2d0EjOa"
+        }
+      ],
+      "date_added": "2019-03-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 383213,
+      "name": "Cool Melt",
+      "url": "https://open.spotify.com/track/7AkSOSJdUvNTcPsJhogee8"
+    },
+    {
+      "album": {
+        "name": "Creep (mint Singles)",
+        "url": "https://open.spotify.com/album/5naSz7p9D3O9y4lkbj7OUz"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "GATT\u00dcSO",
+          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
+        }
+      ],
+      "date_added": "2020-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161190,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/056LTDaNpFigGkeN5q8H57"
+    },
+    {
+      "album": {
         "name": "Creep (mint Singles)",
         "url": "https://open.spotify.com/album/31LEjqDdP0TyZgiuse84cf"
       },
@@ -261,7 +301,7 @@
       ],
       "date_added": "2020-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 161190,
       "name": "Creep - mint Singles",
       "url": "https://open.spotify.com/track/5LRxdeykOfvKb1aWGrrGyo"
@@ -396,6 +436,24 @@
     },
     {
       "album": {
+        "name": "Hey Hey",
+        "url": "https://open.spotify.com/album/3hsd4yQ7Bk7k2OpRyGTtF1"
+      },
+      "artists": [
+        {
+          "name": "Dennis Ferrer",
+          "url": "https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi"
+        }
+      ],
+      "date_added": "2019-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190053,
+      "name": "Hey Hey",
+      "url": "https://open.spotify.com/track/0R8dsqbzcoHoqUN5MLWyOi"
+    },
+    {
+      "album": {
         "name": "Home (feat. Bonn)",
         "url": "https://open.spotify.com/album/1cL51Zp86zgzMDTXRiq8w9"
       },
@@ -418,7 +476,7 @@
     },
     {
       "album": {
-        "name": "How Deep is Your Love (feat. Disciples)",
+        "name": "How Deep is Your Love",
         "url": "https://open.spotify.com/album/3cG32DOXJoYlOHMmJIaQsm"
       },
       "artists": [
@@ -435,7 +493,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 212640,
-      "name": "How Deep is Your Love (feat. Disciples)",
+      "name": "How Deep is Your Love",
       "url": "https://open.spotify.com/track/22mek4IiqubGD9ctzxc69s"
     },
     {
@@ -484,6 +542,28 @@
     },
     {
       "album": {
+        "name": "J'adore",
+        "url": "https://open.spotify.com/album/4XMXX49JGGjeQmTj6bPjpw"
+      },
+      "artists": [
+        {
+          "name": "Four7",
+          "url": "https://open.spotify.com/artist/47rjPnYCVxWRWpkJy6dOVT"
+        },
+        {
+          "name": "Tiffany",
+          "url": "https://open.spotify.com/artist/5RNVaSXkAsve6d2bfZmB0F"
+        }
+      ],
+      "date_added": "2019-02-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 308341,
+      "name": "J'adore",
+      "url": "https://open.spotify.com/track/2ULz7EuDpQ9iifrbHLmpbx"
+    },
+    {
+      "album": {
         "name": "Neon Future III",
         "url": "https://open.spotify.com/album/2XLdhcA2xQy2Iw74Cly9QL"
       },
@@ -529,6 +609,28 @@
       "duration_ms": 162461,
       "name": "L'amour toujours (feat. Delaney Jane) - Ti\u00ebsto Edit",
       "url": "https://open.spotify.com/track/4UutBLYMby6whu2bMYh9Oa"
+    },
+    {
+      "album": {
+        "name": "LIES",
+        "url": "https://open.spotify.com/album/4FFUfSYqKjyp2X63FMYUVC"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "date_added": "2020-09-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 167419,
+      "name": "LIES",
+      "url": "https://open.spotify.com/track/3Shi5fUIeuoNQWV0hjYXNs"
     },
     {
       "album": {
@@ -587,10 +689,32 @@
       ],
       "date_added": "2019-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 160183,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/4BLEnHP1FInl1u3xAbgI4n"
+    },
+    {
+      "album": {
+        "name": "The Wave",
+        "url": "https://open.spotify.com/album/0rh1evgP4UJxDK333EI7l5"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+        }
+      ],
+      "date_added": "2019-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160183,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/73S01tHC14mqoMvSr83PSo"
     },
     {
       "album": {
@@ -609,6 +733,24 @@
       "duration_ms": 192866,
       "name": "Million Voices - Radio Edit",
       "url": "https://open.spotify.com/track/0MOiv7WTXCqvm89lVCf9C8"
+    },
+    {
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/4GegfM4wqwCq7FmcDwQQt7"
+      },
+      "artists": [
+        {
+          "name": "Gaullin",
+          "url": "https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K"
+        }
+      ],
+      "date_added": "2019-04-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 173215,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/7COq4g77Lk81xC5vZwfnIs"
     },
     {
       "album": {
@@ -726,6 +868,24 @@
     },
     {
       "album": {
+        "name": "Old Friend",
+        "url": "https://open.spotify.com/album/3EWFbpqL5iBAL9L7Zoydxj"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "date_added": "2018-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-18",
+      "duration_ms": 199915,
+      "name": "Old Friend",
+      "url": "https://open.spotify.com/track/7l1NMHXBISVLarwGyfgmFP"
+    },
+    {
+      "album": {
         "name": "On Hold (Jamie xx Remix)",
         "url": "https://open.spotify.com/album/1KwcjMbLdbmGBvHFRjNWCo"
       },
@@ -805,7 +965,7 @@
       ],
       "date_added": "2018-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 204654,
       "name": "Particula",
       "url": "https://open.spotify.com/track/0e8fTfa0ZKCwOi2UdULooT"
@@ -948,6 +1108,28 @@
     },
     {
       "album": {
+        "name": "SBCNCSLY",
+        "url": "https://open.spotify.com/album/1uaZVqFa2S1skSpLNZ0oHp"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+        }
+      ],
+      "date_added": "2020-09-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 384555,
+      "name": "SBCNCSLY",
+      "url": "https://open.spotify.com/track/0DWIaEumpHd41vATkCGUK2"
+    },
+    {
+      "album": {
         "name": "Scared to Be Lonely",
         "url": "https://open.spotify.com/album/2v9rQe4F8fVSh5v8bAq0jF"
       },
@@ -967,6 +1149,28 @@
       "duration_ms": 220883,
       "name": "Scared to Be Lonely",
       "url": "https://open.spotify.com/track/3ebXMykcMXOcLeJ9xZ17XH"
+    },
+    {
+      "album": {
+        "name": "Spiritual (Mriya) [feat. Brooke Tomlinson]",
+        "url": "https://open.spotify.com/album/1WWroqRJpueMR97aNxQXtp"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        },
+        {
+          "name": "Brooke Tomlinson",
+          "url": "https://open.spotify.com/artist/5spaLjG6DJVXfqlYSskx9C"
+        }
+      ],
+      "date_added": "2019-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 198750,
+      "name": "Spiritual (Mriya) [feat. Brooke Tomlinson]",
+      "url": "https://open.spotify.com/track/1GYW5YnYuoWiPw4ZB4V1lD"
     },
     {
       "album": {
@@ -1129,6 +1333,28 @@
       "duration_ms": 325520,
       "name": "Walking with Elephants",
       "url": "https://open.spotify.com/track/6wPMapHawG4uns1R3vHzUG"
+    },
+    {
+      "album": {
+        "name": "Who's Got Your Love",
+        "url": "https://open.spotify.com/album/2ddicfthS1XeBDkhDqnWI3"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Daniel Blume",
+          "url": "https://open.spotify.com/artist/7pbay7w0V7OdIr3jzSRkHj"
+        }
+      ],
+      "date_added": "2019-03-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 157000,
+      "name": "Who's Got Your Love",
+      "url": "https://open.spotify.com/track/5EpR6BqAnwR9PPl6sIrzGy"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5GlvQwPgTc8"

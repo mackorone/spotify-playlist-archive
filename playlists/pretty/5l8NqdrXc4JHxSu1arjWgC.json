@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 3699,
+  "num_followers": 3754,
   "original_name": "Red Vox Recent Favorites",
   "owner": {
     "name": "Red Vox",
     "url": "https://open.spotify.com/user/vinnyvinesauce"
   },
-  "snapshot_id": "MTY3OCwzN2RjMzA2ZDk4OWJhZmE3MDNjNTE5YWY3NjA4Zjk4N2M2ZWY1OWY4",
+  "snapshot_id": "MTY4MSw3OWZjMDhkNzY1NzMyYWZkYjYwNmFmNWJjZGVkNmU4Y2JmYjE5M2Qy",
   "tracks": [
     {
       "added_at": "2022-03-23 01:58:53",
@@ -989,7 +989,7 @@
         }
       ],
       "duration_ms": 298253,
-      "name": "Cherub Rock - Remastered 2011",
+      "name": "Cherub Rock - 2011 Remaster",
       "url": "https://open.spotify.com/track/3ow0TQVttXQF8rLckmXgRx"
     },
     {
@@ -7730,14 +7730,6 @@
         {
           "name": "The Last Shadow Puppets",
           "url": "https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf"
-        },
-        {
-          "name": "Alex Turner",
-          "url": "https://open.spotify.com/artist/1ctkBmvz80MGyi72Ix055S"
-        },
-        {
-          "name": "Miles Kane",
-          "url": "https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn"
         }
       ],
       "duration_ms": 193865,
@@ -8106,14 +8098,6 @@
         {
           "name": "The Last Shadow Puppets",
           "url": "https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf"
-        },
-        {
-          "name": "Alex Turner",
-          "url": "https://open.spotify.com/artist/1ctkBmvz80MGyi72Ix055S"
-        },
-        {
-          "name": "Miles Kane",
-          "url": "https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn"
         }
       ],
       "duration_ms": 171351,
@@ -9539,7 +9523,7 @@
     {
       "added_at": "2018-11-16 06:42:06",
       "album": {
-        "name": "The Modern Lovers",
+        "name": "The Modern Lovers (Expanded Version)",
         "url": "https://open.spotify.com/album/5BPCP7WSGBG4br2o4WRmd8"
       },
       "artists": [
@@ -10631,6 +10615,58 @@
       "duration_ms": 164400,
       "name": "Mobius Trip",
       "url": "https://open.spotify.com/track/1bgTHTsCYkQVzZEJUks8la"
+    },
+    {
+      "added_at": "2022-10-10 02:48:22",
+      "album": {
+        "name": "9 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1OPNyMf1xQGDLE1PEwdkgs"
+      },
+      "artists": [
+        {
+          "name": "Pond",
+          "url": "https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s"
+        },
+        {
+          "name": "Cowboy John",
+          "url": "https://open.spotify.com/artist/5m3zenzxU6mfbi5HwVBgR4"
+        }
+      ],
+      "duration_ms": 285314,
+      "name": "Hang a Cross on Me",
+      "url": "https://open.spotify.com/track/3WbDe3G6zK798x8J0YUxOR"
+    },
+    {
+      "added_at": "2022-10-24 19:18:44",
+      "album": {
+        "name": "Post Animal Perform the Most Curious Water Activities",
+        "url": "https://open.spotify.com/album/6Uw9scOB4zagR04P2YBQYp"
+      },
+      "artists": [
+        {
+          "name": "Post Animal",
+          "url": "https://open.spotify.com/artist/4iaDWP59Z3e62DW7YWDbIE"
+        }
+      ],
+      "duration_ms": 324000,
+      "name": "Goggles",
+      "url": "https://open.spotify.com/track/4ynX5irsZTPYHjWUOwrREQ"
+    },
+    {
+      "added_at": "2022-11-11 18:30:42",
+      "album": {
+        "name": "Back To The Egg",
+        "url": "https://open.spotify.com/album/3zMRSD0zUqopFPaoER2ODc"
+      },
+      "artists": [
+        {
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+        }
+      ],
+      "duration_ms": 216693,
+      "name": "Arrow Through Me - Remastered 1993",
+      "url": "https://open.spotify.com/track/3NiYvMjp5A3FZmP3dojS8k"
     }
   ],
   "unique_name": "Red Vox Recent Favorites",

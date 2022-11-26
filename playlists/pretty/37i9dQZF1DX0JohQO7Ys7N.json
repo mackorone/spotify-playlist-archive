@@ -1,13 +1,33 @@
 {
-  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: <a href=\"https://open.spotify.com/artist/6x42DjzrK28UZZzKsKGvVE?si=K80DPqPTTe-OVydeyfGsQA\">Wanja Wohoro</a> ",
-  "num_followers": 8516,
+  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: <a href=\"https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ?si=tdUrYs62R-Wn4tBZJfT2hQ\">Ukweli</a> and <a href=\"https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86?si=yszItYT6R8Sl7BDM5wXqpA\">Xenia Manasseh </a>",
+  "num_followers": 10400,
   "original_name": "NairoBae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTA4OTk0MCwwMDAwMDAwMGUyN2NjNGJmYjMyZWEzZGE1NzYwMzVlM2U5ODlhNDBj",
+  "snapshot_id": "MTY2OTMyMzU0MCwwMDAwMDAwMDBlODU5YmQxNzY3NDEyMTA0OTNmZDYzNDBjYWY5Njlh",
   "tracks": [
+    {
+      "added_at": "2022-11-24 20:59:00",
+      "album": {
+        "name": "Maybe",
+        "url": "https://open.spotify.com/album/0MpZuzKe0xHwbLOnDiyCqt"
+      },
+      "artists": [
+        {
+          "name": "Ukweli",
+          "url": "https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ"
+        },
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        }
+      ],
+      "duration_ms": 205601,
+      "name": "Love Me or Leave Me",
+      "url": "https://open.spotify.com/track/4K5F02hRfBL8m1s0QXs6bO"
+    },
     {
       "added_at": "2021-12-28 14:30:06",
       "album": {
@@ -25,26 +45,26 @@
       "url": "https://open.spotify.com/track/2imfnSWBgaAccQZvUISwly"
     },
     {
-      "added_at": "2022-09-22 20:59:00",
+      "added_at": "2021-12-28 14:30:06",
       "album": {
-        "name": "Everywhere (Original Recording)",
-        "url": "https://open.spotify.com/album/6Y3P6vyFq4PFQVObr83u33"
+        "name": "Qwarantunes",
+        "url": "https://open.spotify.com/album/3cg69VcGmpzSHxSV1OA1E5"
       },
       "artists": [
         {
-          "name": "Wanja Wohoro",
-          "url": "https://open.spotify.com/artist/6x42DjzrK28UZZzKsKGvVE"
+          "name": "Bensoul",
+          "url": "https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE"
         }
       ],
-      "duration_ms": 265144,
-      "name": "Everywhere (Original Recording)",
-      "url": "https://open.spotify.com/track/277dO6aTPlt9aBGunY04iD"
+      "duration_ms": 262798,
+      "name": "Forget You",
+      "url": "https://open.spotify.com/track/0xXSC3gjbYZUpOFsXVtp0Y"
     },
     {
-      "added_at": "2022-07-29 05:22:25",
+      "added_at": "2022-11-10 20:59:00",
       "album": {
-        "name": "Last Name",
-        "url": "https://open.spotify.com/album/5tUXmCXcOyqRO7lLeWrMHR"
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/7M0ZgZyJUYIG6RCHud7Xa6"
       },
       "artists": [
         {
@@ -52,9 +72,41 @@
           "url": "https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X"
         }
       ],
-      "duration_ms": 121544,
-      "name": "Last Name",
-      "url": "https://open.spotify.com/track/4BwHxEsR5SFJJKGBzrjMGN"
+      "duration_ms": 201348,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/0lZxPIkeXHFYsMousts9TZ"
+    },
+    {
+      "added_at": "2022-11-10 20:59:00",
+      "album": {
+        "name": "Nitangoja",
+        "url": "https://open.spotify.com/album/1gKLgM7RsLrCf3rx3Vh2ex"
+      },
+      "artists": [
+        {
+          "name": "Kinoti",
+          "url": "https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm"
+        }
+      ],
+      "duration_ms": 158479,
+      "name": "Nitangoja",
+      "url": "https://open.spotify.com/track/21eRcBcsRtuHjL2jSeMu7A"
+    },
+    {
+      "added_at": "2022-11-03 20:59:00",
+      "album": {
+        "name": "Asali",
+        "url": "https://open.spotify.com/album/0fe0T3nNaWpMcdOr4ss9bw"
+      },
+      "artists": [
+        {
+          "name": "Maya Amolo",
+          "url": "https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H"
+        }
+      ],
+      "duration_ms": 176100,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/13m6zDeYjp1lwMlyo0xsUR"
     },
     {
       "added_at": "2022-07-07 20:59:00",
@@ -77,6 +129,66 @@
       "url": "https://open.spotify.com/track/08MoSv9F2ZzT3B1GJR3OD6"
     },
     {
+      "added_at": "2022-10-21 07:24:41",
+      "album": {
+        "name": "TURN IT OFF",
+        "url": "https://open.spotify.com/album/4ylxBzU0yxcLNsDGkBQnVS"
+      },
+      "artists": [
+        {
+          "name": "Colossal Music",
+          "url": "https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520"
+        },
+        {
+          "name": "Amara Tari",
+          "url": "https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd"
+        },
+        {
+          "name": "Mbithi",
+          "url": "https://open.spotify.com/artist/3M8x29mEaZklQcMDwHMgKH"
+        }
+      ],
+      "duration_ms": 222545,
+      "name": "Turn It Off",
+      "url": "https://open.spotify.com/track/1juwVlJ15TZZXFo4vIEexs"
+    },
+    {
+      "added_at": "2022-09-22 20:59:00",
+      "album": {
+        "name": "Everywhere (Original Recording)",
+        "url": "https://open.spotify.com/album/6Y3P6vyFq4PFQVObr83u33"
+      },
+      "artists": [
+        {
+          "name": "Wanja Wohoro",
+          "url": "https://open.spotify.com/artist/6x42DjzrK28UZZzKsKGvVE"
+        }
+      ],
+      "duration_ms": 265144,
+      "name": "Everywhere (Original Recording)",
+      "url": "https://open.spotify.com/track/277dO6aTPlt9aBGunY04iD"
+    },
+    {
+      "added_at": "2022-10-27 20:59:00",
+      "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/1trH6Lu0maC1H9e0UBkQx8"
+      },
+      "artists": [
+        {
+          "name": "Hiribae",
+          "url": "https://open.spotify.com/artist/1WqYHHRmIP1FduEtaEicL3"
+        },
+        {
+          "name": "Tugi",
+          "url": "https://open.spotify.com/artist/66RQGuKdIdvRrU3vxIfbc5"
+        }
+      ],
+      "duration_ms": 211086,
+      "name": "Different",
+      "url": "https://open.spotify.com/track/1rh9ejTFlDxhfcrGftrJXz"
+    },
+    {
       "added_at": "2022-03-03 20:59:00",
       "album": {
         "name": "Love Letters II",
@@ -95,18 +207,34 @@
     {
       "added_at": "2021-12-28 14:30:06",
       "album": {
-        "name": "Qwarantunes",
-        "url": "https://open.spotify.com/album/3cg69VcGmpzSHxSV1OA1E5"
+        "name": "Aki Wewe",
+        "url": "https://open.spotify.com/album/3zW32TzDG8V20HM7A8NdOO"
       },
       "artists": [
         {
-          "name": "Bensoul",
-          "url": "https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE"
+          "name": "Kwame R\u00edg\u00edi",
+          "url": "https://open.spotify.com/artist/2YBmXbjqDbsGjTB9vMbuNf"
         }
       ],
-      "duration_ms": 262798,
-      "name": "Forget You",
-      "url": "https://open.spotify.com/track/0xXSC3gjbYZUpOFsXVtp0Y"
+      "duration_ms": 267692,
+      "name": "Aki Wewe",
+      "url": "https://open.spotify.com/track/2ee6ViIobYyu2rLwiVmNIA"
+    },
+    {
+      "added_at": "2022-07-29 05:22:25",
+      "album": {
+        "name": "Last Name",
+        "url": "https://open.spotify.com/album/5tUXmCXcOyqRO7lLeWrMHR"
+      },
+      "artists": [
+        {
+          "name": "Nikita Kering'",
+          "url": "https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X"
+        }
+      ],
+      "duration_ms": 121544,
+      "name": "Last Name",
+      "url": "https://open.spotify.com/track/4BwHxEsR5SFJJKGBzrjMGN"
     },
     {
       "added_at": "2022-09-22 20:59:00",
@@ -143,22 +271,6 @@
       "duration_ms": 174193,
       "name": "What I See",
       "url": "https://open.spotify.com/track/7jDkmNjxPQ0F2b7D4agmTG"
-    },
-    {
-      "added_at": "2021-12-28 14:30:06",
-      "album": {
-        "name": "Aki Wewe",
-        "url": "https://open.spotify.com/album/3zW32TzDG8V20HM7A8NdOO"
-      },
-      "artists": [
-        {
-          "name": "Kwame R\u00edg\u00edi",
-          "url": "https://open.spotify.com/artist/2YBmXbjqDbsGjTB9vMbuNf"
-        }
-      ],
-      "duration_ms": 267692,
-      "name": "Aki Wewe",
-      "url": "https://open.spotify.com/track/2ee6ViIobYyu2rLwiVmNIA"
     },
     {
       "added_at": "2022-06-30 20:59:00",
@@ -201,6 +313,22 @@
       "url": "https://open.spotify.com/track/4kHQ3Yo16DFn5HudDRT4MW"
     },
     {
+      "added_at": "2021-12-28 14:30:06",
+      "album": {
+        "name": "Problems",
+        "url": "https://open.spotify.com/album/6nuNAmZvBNuOMHdHCHKWNs"
+      },
+      "artists": [
+        {
+          "name": "Matt Ngesa",
+          "url": "https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "Problems",
+      "url": "https://open.spotify.com/track/13Vo9Bfa1mdR7p3tZk3ues"
+    },
+    {
       "added_at": "2022-09-30 09:22:14",
       "album": {
         "name": "Colours",
@@ -215,6 +343,22 @@
       "duration_ms": 192000,
       "name": "Window (Red)",
       "url": "https://open.spotify.com/track/53UTnaVi48tv6mv0DoLm4A"
+    },
+    {
+      "added_at": "2022-09-22 20:59:00",
+      "album": {
+        "name": "Unintentional",
+        "url": "https://open.spotify.com/album/1f0MuY3kBgS1QmAIaRu3kj"
+      },
+      "artists": [
+        {
+          "name": "Njerae",
+          "url": "https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ"
+        }
+      ],
+      "duration_ms": 173128,
+      "name": "Ndani Ya Gari",
+      "url": "https://open.spotify.com/track/3xOt9gJVYirLyimYnsUEvr"
     },
     {
       "added_at": "2022-09-22 20:59:00",
@@ -235,58 +379,6 @@
       "duration_ms": 169640,
       "name": "Can't Keep It In",
       "url": "https://open.spotify.com/track/5r5x6rTbWTn2CxoNVg86lN"
-    },
-    {
-      "added_at": "2022-09-30 09:22:14",
-      "album": {
-        "name": "Suddenly",
-        "url": "https://open.spotify.com/album/4NkvtR6pq3GVc0OEh6nQey"
-      },
-      "artists": [
-        {
-          "name": "Audrey Hinya",
-          "url": "https://open.spotify.com/artist/6mOSgelMANzkmaQ1Hvh6gG"
-        },
-        {
-          "name": "King Kanja",
-          "url": "https://open.spotify.com/artist/0vr6BtjqBjwDITBNbBP1W5"
-        }
-      ],
-      "duration_ms": 227431,
-      "name": "Suddenly",
-      "url": "https://open.spotify.com/track/5RlLYIj0mOs94UuL1U1Klh"
-    },
-    {
-      "added_at": "2022-06-10 07:43:58",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/2Xt2Uq1c96N7rRKfmWQPNW"
-      },
-      "artists": [
-        {
-          "name": "Amara Tari",
-          "url": "https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd"
-        }
-      ],
-      "duration_ms": 252500,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/10xrx94SPkwD7Kf3ynXCED"
-    },
-    {
-      "added_at": "2021-12-28 14:30:06",
-      "album": {
-        "name": "Problems",
-        "url": "https://open.spotify.com/album/6nuNAmZvBNuOMHdHCHKWNs"
-      },
-      "artists": [
-        {
-          "name": "Matt Ngesa",
-          "url": "https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "Problems",
-      "url": "https://open.spotify.com/track/13Vo9Bfa1mdR7p3tZk3ues"
     },
     {
       "added_at": "2022-07-29 05:22:25",
@@ -319,22 +411,6 @@
     {
       "added_at": "2021-12-28 14:30:06",
       "album": {
-        "name": "Heart to Hurt",
-        "url": "https://open.spotify.com/album/4QEJSaRYujs6FtiF7gpctX"
-      },
-      "artists": [
-        {
-          "name": "Kinoti",
-          "url": "https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm"
-        }
-      ],
-      "duration_ms": 239500,
-      "name": "Pictures",
-      "url": "https://open.spotify.com/track/6ynowQEXMq0CmE1PaWwlnz"
-    },
-    {
-      "added_at": "2021-12-28 14:30:06",
-      "album": {
         "name": "Loverman (Acoustic)",
         "url": "https://open.spotify.com/album/5Ajbk0U4jDQRtqLDg9OZoB"
       },
@@ -353,200 +429,24 @@
       "url": "https://open.spotify.com/track/6vxwG8RWDOOlyCyxU4l0qP"
     },
     {
-      "added_at": "2022-05-26 20:59:00",
+      "added_at": "2022-09-30 09:22:14",
       "album": {
-        "name": "Love Song",
-        "url": "https://open.spotify.com/album/0xNOx0ypbNqtjYKKhs1Xza"
+        "name": "Suddenly",
+        "url": "https://open.spotify.com/album/4NkvtR6pq3GVc0OEh6nQey"
       },
       "artists": [
         {
-          "name": "TrishaGrey",
-          "url": "https://open.spotify.com/artist/1lKTTkoqEttbG5Tdn9X8Jx"
-        }
-      ],
-      "duration_ms": 191936,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/0kYTjcTXayQcdUzohxfAqp"
-    },
-    {
-      "added_at": "2022-07-14 20:59:00",
-      "album": {
-        "name": "Foundry",
-        "url": "https://open.spotify.com/album/6oCN5GB1aumgfg8Y03feYe"
-      },
-      "artists": [
-        {
-          "name": "Maya Amolo",
-          "url": "https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H"
+          "name": "Audrey Hinya",
+          "url": "https://open.spotify.com/artist/6mOSgelMANzkmaQ1Hvh6gG"
         },
         {
-          "name": "kalibwani",
-          "url": "https://open.spotify.com/artist/6x5ayc2nUnF0bySx8ipDUk"
+          "name": "King Kanja",
+          "url": "https://open.spotify.com/artist/0vr6BtjqBjwDITBNbBP1W5"
         }
       ],
-      "duration_ms": 235102,
-      "name": "Foundry",
-      "url": "https://open.spotify.com/track/78zh684ScfBN6hLG7J5qj5"
-    },
-    {
-      "added_at": "2022-08-26 05:43:22",
-      "album": {
-        "name": "FREE",
-        "url": "https://open.spotify.com/album/1eo8gcKfYcFCE12POc0Uqa"
-      },
-      "artists": [
-        {
-          "name": "Emmie Muthiga",
-          "url": "https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR"
-        }
-      ],
-      "duration_ms": 211764,
-      "name": "Catch Me Later",
-      "url": "https://open.spotify.com/track/23ccG0YrcOB1ZiEMRfkNVq"
-    },
-    {
-      "added_at": "2022-09-22 20:59:00",
-      "album": {
-        "name": "Unintentional",
-        "url": "https://open.spotify.com/album/1f0MuY3kBgS1QmAIaRu3kj"
-      },
-      "artists": [
-        {
-          "name": "Njerae",
-          "url": "https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ"
-        }
-      ],
-      "duration_ms": 173128,
-      "name": "Ndani Ya Gari",
-      "url": "https://open.spotify.com/track/3xOt9gJVYirLyimYnsUEvr"
-    },
-    {
-      "added_at": "2022-05-12 20:59:00",
-      "album": {
-        "name": "D.R.U.G.S (Dear.Romance.U.Got.Sweet)",
-        "url": "https://open.spotify.com/album/6p7woEtazKqCoSi4DpiIU8"
-      },
-      "artists": [
-        {
-          "name": "NJERI",
-          "url": "https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR"
-        },
-        {
-          "name": "Albeezy",
-          "url": "https://open.spotify.com/artist/7vA0nsjX1OaxsKlEM64TV6"
-        }
-      ],
-      "duration_ms": 205953,
-      "name": "Ecstasy",
-      "url": "https://open.spotify.com/track/502TRnEIDjfh4PRXRZ7dpk"
-    },
-    {
-      "added_at": "2022-06-23 20:59:00",
-      "album": {
-        "name": "ARUSHA",
-        "url": "https://open.spotify.com/album/3yCFjNsTx8v0dJa5RR9rcX"
-      },
-      "artists": [
-        {
-          "name": "Umoja Sounds",
-          "url": "https://open.spotify.com/artist/6a8xnLQPDn7HANbZgT3tj9"
-        },
-        {
-          "name": "Emma Cheruto",
-          "url": "https://open.spotify.com/artist/3vIVa24HAi5YMEWiyW4ve3"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "ARUSHA",
-      "url": "https://open.spotify.com/track/5wMu7s9qqZBAu6BEsrsklL"
-    },
-    {
-      "added_at": "2022-06-30 20:59:00",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/4Hu3aPRRM4bVU3kujeUT8H"
-      },
-      "artists": [
-        {
-          "name": "Pryshon",
-          "url": "https://open.spotify.com/artist/10tow6yKkH4OjXuZA0PR0w"
-        },
-        {
-          "name": "Wanjine",
-          "url": "https://open.spotify.com/artist/73iU9QFpEWlHM2Op6wAQqe"
-        }
-      ],
-      "duration_ms": 207708,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/3w0UpkLT8xMKX0HqBkLUQV"
-    },
-    {
-      "added_at": "2022-06-16 20:59:00",
-      "album": {
-        "name": "Dizzy",
-        "url": "https://open.spotify.com/album/1hImerDNye4ff7EyRwmi4L"
-      },
-      "artists": [
-        {
-          "name": "Kuiyu",
-          "url": "https://open.spotify.com/artist/57FPDvahreSlCOtOh6k3UD"
-        },
-        {
-          "name": "Wambura Mugo",
-          "url": "https://open.spotify.com/artist/5mOh1wmnmL8QqIvbb3KY96"
-        }
-      ],
-      "duration_ms": 247438,
-      "name": "Dizzy",
-      "url": "https://open.spotify.com/track/3x3RkNq6HRBa35zuo0kcx8"
-    },
-    {
-      "added_at": "2021-12-28 14:30:06",
-      "album": {
-        "name": "Baisikeli",
-        "url": "https://open.spotify.com/album/0WlhQndUMa5fgiYWgEWyAi"
-      },
-      "artists": [
-        {
-          "name": "Valerie Kimani",
-          "url": "https://open.spotify.com/artist/2dC0yENj6j5OeTi9Maz1HW"
-        }
-      ],
-      "duration_ms": 264840,
-      "name": "Nguga Ii (I Will Say Yes)",
-      "url": "https://open.spotify.com/track/72HaDS9HmlpQHVbdxeEHsa"
-    },
-    {
-      "added_at": "2022-02-17 20:06:18",
-      "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/1hKcd4AYQQDRlR9GpLxgaQ"
-      },
-      "artists": [
-        {
-          "name": "Nviiri The Storyteller",
-          "url": "https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p"
-        }
-      ],
-      "duration_ms": 232173,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/4gKQ9XVPxtUx2sGuwSMPso"
-    },
-    {
-      "added_at": "2022-07-15 06:57:14",
-      "album": {
-        "name": "Enough",
-        "url": "https://open.spotify.com/album/5GvLqmGHBeQ82Yo4TQ6Sgc"
-      },
-      "artists": [
-        {
-          "name": "Kinoti",
-          "url": "https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm"
-        }
-      ],
-      "duration_ms": 217523,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/604EBEcVgETlw2yG0qH4Sr"
+      "duration_ms": 227431,
+      "name": "Suddenly",
+      "url": "https://open.spotify.com/track/5RlLYIj0mOs94UuL1U1Klh"
     },
     {
       "added_at": "2022-02-24 20:59:00",
@@ -603,6 +503,22 @@
       "duration_ms": 275294,
       "name": "Aheri",
       "url": "https://open.spotify.com/track/5vEmN5ml5878eDF1vJI1Uc"
+    },
+    {
+      "added_at": "2021-12-28 14:30:06",
+      "album": {
+        "name": "Dark brown eyes",
+        "url": "https://open.spotify.com/album/5WtE9QFgyUpyviMoDpod8J"
+      },
+      "artists": [
+        {
+          "name": "Manasseh Shalom",
+          "url": "https://open.spotify.com/artist/0l5DAChk60zrPxl18DGUT7"
+        }
+      ],
+      "duration_ms": 228969,
+      "name": "Dark brown eyes",
+      "url": "https://open.spotify.com/track/7JO63lzm9CxlxKR26j0Vog"
     },
     {
       "added_at": "2022-06-16 20:59:00",
@@ -677,6 +593,22 @@
       "url": "https://open.spotify.com/track/5NaYtbE1183SMAa57dDH8w"
     },
     {
+      "added_at": "2022-11-03 20:59:00",
+      "album": {
+        "name": "Another",
+        "url": "https://open.spotify.com/album/6ixgKG1R32BOVDD4SWJPdf"
+      },
+      "artists": [
+        {
+          "name": "Bensoul",
+          "url": "https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE"
+        }
+      ],
+      "duration_ms": 214200,
+      "name": "Another",
+      "url": "https://open.spotify.com/track/76IWDDiFRvh1KjmtwXSI7x"
+    },
+    {
       "added_at": "2021-12-28 14:30:06",
       "album": {
         "name": "Crush",
@@ -697,6 +629,182 @@
       "url": "https://open.spotify.com/track/2n7w8jrTy842ypge1uoGxA"
     },
     {
+      "added_at": "2022-06-10 07:43:58",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/2Xt2Uq1c96N7rRKfmWQPNW"
+      },
+      "artists": [
+        {
+          "name": "Amara Tari",
+          "url": "https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd"
+        }
+      ],
+      "duration_ms": 252500,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/10xrx94SPkwD7Kf3ynXCED"
+    },
+    {
+      "added_at": "2021-12-28 14:30:06",
+      "album": {
+        "name": "Heart to Hurt",
+        "url": "https://open.spotify.com/album/4QEJSaRYujs6FtiF7gpctX"
+      },
+      "artists": [
+        {
+          "name": "Kinoti",
+          "url": "https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm"
+        }
+      ],
+      "duration_ms": 239500,
+      "name": "Pictures",
+      "url": "https://open.spotify.com/track/6ynowQEXMq0CmE1PaWwlnz"
+    },
+    {
+      "added_at": "2022-05-26 20:59:00",
+      "album": {
+        "name": "Love Song",
+        "url": "https://open.spotify.com/album/0xNOx0ypbNqtjYKKhs1Xza"
+      },
+      "artists": [
+        {
+          "name": "TrishaGrey",
+          "url": "https://open.spotify.com/artist/1lKTTkoqEttbG5Tdn9X8Jx"
+        }
+      ],
+      "duration_ms": 191936,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/0kYTjcTXayQcdUzohxfAqp"
+    },
+    {
+      "added_at": "2022-07-14 20:59:00",
+      "album": {
+        "name": "Foundry",
+        "url": "https://open.spotify.com/album/6oCN5GB1aumgfg8Y03feYe"
+      },
+      "artists": [
+        {
+          "name": "Maya Amolo",
+          "url": "https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H"
+        },
+        {
+          "name": "kalibwani",
+          "url": "https://open.spotify.com/artist/6x5ayc2nUnF0bySx8ipDUk"
+        }
+      ],
+      "duration_ms": 235102,
+      "name": "Foundry",
+      "url": "https://open.spotify.com/track/78zh684ScfBN6hLG7J5qj5"
+    },
+    {
+      "added_at": "2022-08-26 05:43:22",
+      "album": {
+        "name": "FREE",
+        "url": "https://open.spotify.com/album/1eo8gcKfYcFCE12POc0Uqa"
+      },
+      "artists": [
+        {
+          "name": "Emmie Muthiga",
+          "url": "https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR"
+        }
+      ],
+      "duration_ms": 211764,
+      "name": "Catch Me Later",
+      "url": "https://open.spotify.com/track/23ccG0YrcOB1ZiEMRfkNVq"
+    },
+    {
+      "added_at": "2022-05-12 20:59:00",
+      "album": {
+        "name": "D.R.U.G.S (Dear.Romance.U.Got.Sweet)",
+        "url": "https://open.spotify.com/album/6p7woEtazKqCoSi4DpiIU8"
+      },
+      "artists": [
+        {
+          "name": "NJERI",
+          "url": "https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR"
+        },
+        {
+          "name": "Albeezy",
+          "url": "https://open.spotify.com/artist/7vA0nsjX1OaxsKlEM64TV6"
+        }
+      ],
+      "duration_ms": 205953,
+      "name": "Ecstasy",
+      "url": "https://open.spotify.com/track/502TRnEIDjfh4PRXRZ7dpk"
+    },
+    {
+      "added_at": "2022-02-17 20:06:18",
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/1hKcd4AYQQDRlR9GpLxgaQ"
+      },
+      "artists": [
+        {
+          "name": "Nviiri The Storyteller",
+          "url": "https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p"
+        }
+      ],
+      "duration_ms": 232173,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/4gKQ9XVPxtUx2sGuwSMPso"
+    },
+    {
+      "added_at": "2022-06-30 20:59:00",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/4Hu3aPRRM4bVU3kujeUT8H"
+      },
+      "artists": [
+        {
+          "name": "Pryshon",
+          "url": "https://open.spotify.com/artist/10tow6yKkH4OjXuZA0PR0w"
+        },
+        {
+          "name": "Wanjine",
+          "url": "https://open.spotify.com/artist/73iU9QFpEWlHM2Op6wAQqe"
+        }
+      ],
+      "duration_ms": 207708,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/3w0UpkLT8xMKX0HqBkLUQV"
+    },
+    {
+      "added_at": "2022-06-16 20:59:00",
+      "album": {
+        "name": "Dizzy",
+        "url": "https://open.spotify.com/album/1hImerDNye4ff7EyRwmi4L"
+      },
+      "artists": [
+        {
+          "name": "Kuiyu",
+          "url": "https://open.spotify.com/artist/57FPDvahreSlCOtOh6k3UD"
+        },
+        {
+          "name": "Wambura Mugo",
+          "url": "https://open.spotify.com/artist/5mOh1wmnmL8QqIvbb3KY96"
+        }
+      ],
+      "duration_ms": 247438,
+      "name": "Dizzy",
+      "url": "https://open.spotify.com/track/3x3RkNq6HRBa35zuo0kcx8"
+    },
+    {
+      "added_at": "2022-07-15 06:57:14",
+      "album": {
+        "name": "Enough",
+        "url": "https://open.spotify.com/album/5GvLqmGHBeQ82Yo4TQ6Sgc"
+      },
+      "artists": [
+        {
+          "name": "Kinoti",
+          "url": "https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm"
+        }
+      ],
+      "duration_ms": 217523,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/604EBEcVgETlw2yG0qH4Sr"
+    },
+    {
       "added_at": "2021-12-28 14:30:06",
       "album": {
         "name": "A Side Of Me",
@@ -715,22 +823,6 @@
     {
       "added_at": "2021-12-28 14:30:06",
       "album": {
-        "name": "Dark brown eyes",
-        "url": "https://open.spotify.com/album/5WtE9QFgyUpyviMoDpod8J"
-      },
-      "artists": [
-        {
-          "name": "Manasseh Shalom",
-          "url": "https://open.spotify.com/artist/0l5DAChk60zrPxl18DGUT7"
-        }
-      ],
-      "duration_ms": 228969,
-      "name": "Dark brown eyes",
-      "url": "https://open.spotify.com/track/7JO63lzm9CxlxKR26j0Vog"
-    },
-    {
-      "added_at": "2021-12-28 14:30:06",
-      "album": {
         "name": "Barua ya Dunia",
         "url": "https://open.spotify.com/album/7fLPbISe7JY8c0O0huAL0Z"
       },
@@ -743,22 +835,6 @@
       "duration_ms": 201280,
       "name": "Milele",
       "url": "https://open.spotify.com/track/4j46yRxfE9nGMwL1JSKNNc"
-    },
-    {
-      "added_at": "2021-12-28 14:30:06",
-      "album": {
-        "name": "Rafiki (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/47HCCsYMmSjswC4jLM644r"
-      },
-      "artists": [
-        {
-          "name": "Mumbi Kasumba",
-          "url": "https://open.spotify.com/artist/5YhxCi5kNkz1E4wqFfJVa1"
-        }
-      ],
-      "duration_ms": 345059,
-      "name": "Ignited",
-      "url": "https://open.spotify.com/track/560xVsPybvOmJ0iok2MJGE"
     },
     {
       "added_at": "2021-12-28 14:30:06",
@@ -879,28 +955,8 @@
     {
       "added_at": "2022-02-04 03:03:06",
       "album": {
-        "name": "Waiting",
-        "url": "https://open.spotify.com/album/4bRnHj1ApFBEVMbvEw4H7E"
-      },
-      "artists": [
-        {
-          "name": "Ukweli",
-          "url": "https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ"
-        },
-        {
-          "name": "Xenia Manasseh",
-          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
-        }
-      ],
-      "duration_ms": 164837,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/5XCYhCn9eDYIrfrdBiVhAy"
-    },
-    {
-      "added_at": "2022-02-04 03:03:06",
-      "album": {
         "name": "I Love the Way You",
-        "url": "https://open.spotify.com/album/5fOaWBfgih3Exwl47hwsZ5"
+        "url": "https://open.spotify.com/album/2Knjxzw1OL1HuKuzJvFt72"
       },
       "artists": [
         {
@@ -910,7 +966,7 @@
       ],
       "duration_ms": 133833,
       "name": "I Love the Way You",
-      "url": "https://open.spotify.com/track/3U2Viddax0wa66Tk1ZG8t3"
+      "url": "https://open.spotify.com/track/5Eun2OrvZnSvzpPK5Wg5OD"
     },
     {
       "added_at": "2021-12-28 14:30:06",
@@ -969,62 +1025,6 @@
       "url": "https://open.spotify.com/track/6FrFrkBIvOW6nZo6pheljP"
     },
     {
-      "added_at": "2022-03-24 20:59:00",
-      "album": {
-        "name": "Less",
-        "url": "https://open.spotify.com/album/5oiJNwUcVFKzIICaCH0AVo"
-      },
-      "artists": [
-        {
-          "name": "M. Rumbi",
-          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
-        },
-        {
-          "name": "Andyah",
-          "url": "https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX"
-        }
-      ],
-      "duration_ms": 85947,
-      "name": "Less",
-      "url": "https://open.spotify.com/track/4RuuafWTVxluP7QgNvlIXE"
-    },
-    {
-      "added_at": "2021-12-28 14:30:06",
-      "album": {
-        "name": "The Love Sessions EP",
-        "url": "https://open.spotify.com/album/2Xg6m00evfyyHtYc7hCzPa"
-      },
-      "artists": [
-        {
-          "name": "Noel Nderitu",
-          "url": "https://open.spotify.com/artist/7vND5ZBem26nCv1lRHx4xT"
-        },
-        {
-          "name": "Lisa Oduor-Noah",
-          "url": "https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa"
-        }
-      ],
-      "duration_ms": 287000,
-      "name": "Your Name",
-      "url": "https://open.spotify.com/track/2nyrEsGC9YRHIug4Sy2YNG"
-    },
-    {
-      "added_at": "2021-12-28 14:30:06",
-      "album": {
-        "name": "Mwanzo",
-        "url": "https://open.spotify.com/album/6QOgL8YEk2rQwgAXDBv9GO"
-      },
-      "artists": [
-        {
-          "name": "Sauti Sol",
-          "url": "https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo"
-        }
-      ],
-      "duration_ms": 214320,
-      "name": "Sunny days",
-      "url": "https://open.spotify.com/track/1MmFwUDvDTcPXZ9KeeWoMg"
-    },
-    {
       "added_at": "2021-12-28 14:30:06",
       "album": {
         "name": "Drug",
@@ -1057,24 +1057,24 @@
       "url": "https://open.spotify.com/track/5oKoPTkNST0DFa6CYOrCS6"
     },
     {
-      "added_at": "2022-02-04 03:03:06",
+      "added_at": "2021-12-28 14:30:06",
       "album": {
-        "name": "Enjoy The Night",
-        "url": "https://open.spotify.com/album/0RCzYsJhABlRPi6bz2gnxn"
+        "name": "The Love Sessions EP",
+        "url": "https://open.spotify.com/album/2Xg6m00evfyyHtYc7hCzPa"
       },
       "artists": [
         {
-          "name": "Wanja Wohoro",
-          "url": "https://open.spotify.com/artist/6x42DjzrK28UZZzKsKGvVE"
+          "name": "Noel Nderitu",
+          "url": "https://open.spotify.com/artist/7vND5ZBem26nCv1lRHx4xT"
         },
         {
-          "name": "Jinku",
-          "url": "https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo"
+          "name": "Lisa Oduor-Noah",
+          "url": "https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa"
         }
       ],
-      "duration_ms": 193894,
-      "name": "Enjoy The Night",
-      "url": "https://open.spotify.com/track/6NXwQZIgrp61brkGDG8uo9"
+      "duration_ms": 287000,
+      "name": "Your Name",
+      "url": "https://open.spotify.com/track/2nyrEsGC9YRHIug4Sy2YNG"
     }
   ],
   "unique_name": "NairoBae",

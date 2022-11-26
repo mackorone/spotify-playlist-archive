@@ -89,7 +89,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": null,
       "duration_ms": 206205,
       "name": "A Dying Plea Vol. 1",
       "url": "https://open.spotify.com/track/0NlxbDDwdVSQm1DQz2EZUo"
@@ -291,7 +291,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 115533,
       "name": "Death of a Nation",
       "url": "https://open.spotify.com/track/35zEFTbVh7KVLwMXCUkihJ"
@@ -529,7 +529,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-10-13",
       "duration_ms": 184253,
       "name": "Kill the Rich",
       "url": "https://open.spotify.com/track/5JC5yGA0tcayDEWMMUbcYR"
@@ -569,7 +569,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 194506,
       "name": "Mind the G.A.T.T.",
       "url": "https://open.spotify.com/track/6jP08vvhuFYZedF8iI7cUS"
@@ -616,6 +616,28 @@
     },
     {
       "album": {
+        "name": "NVREVR (feat. Stacey Dee of Bad Cop/Bad Cop)",
+        "url": "https://open.spotify.com/album/5av6EgtQOT323PZhk2E8lU"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        },
+        {
+          "name": "Stacey Dee",
+          "url": "https://open.spotify.com/artist/5MzVW6bfqpL5hrSa9wfc9T"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280346,
+      "name": "NVREVR (feat. Stacey Dee of Bad Cop/Bad Cop)",
+      "url": "https://open.spotify.com/track/5i0eynynsGbrYn3i9MP7LV"
+    },
+    {
+      "album": {
         "name": "The Terror State",
         "url": "https://open.spotify.com/album/1GHpqoqOxKzUBpHeUcWShP"
       },
@@ -627,7 +649,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 141066,
       "name": "Operation Iraqi Liberation (O.I.L.)",
       "url": "https://open.spotify.com/track/562GAKPuDKUwDlL48VUGAp"
@@ -688,6 +710,24 @@
     },
     {
       "album": {
+        "name": "The General Strike (10 Year Anniversary)",
+        "url": "https://open.spotify.com/album/0HrNCNxt4ps1IJsqURkjEE"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78576,
+      "name": "SKATE",
+      "url": "https://open.spotify.com/track/6yd9HSGpSnunM8kLum15HC"
+    },
+    {
+      "album": {
         "name": "American Spring",
         "url": "https://open.spotify.com/album/355URbzuPPjaXkBs7G20ee"
       },
@@ -717,7 +757,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 31111,
       "name": "Song for Jesus Christ - Demo 1992",
       "url": "https://open.spotify.com/track/5KnC2asOnAoTsJd1K8zikT"
@@ -753,7 +793,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": null,
       "duration_ms": 175673,
       "name": "Tearing Everyone Down",
       "url": "https://open.spotify.com/track/4Y8ZO4vKghbTlKFi5Fx547"
@@ -941,7 +981,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-10-12",
       "duration_ms": 189373,
       "name": "Trouble Follows Me",
       "url": "https://open.spotify.com/track/5INOUHACgzsc79cRSdpRIN"
@@ -1071,7 +1111,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-10-12",
       "duration_ms": 153093,
       "name": "You Can Kill the Protester, But You Can't Kill the Protest",
       "url": "https://open.spotify.com/track/5OaXNffdz8rFxVTUgWo9ws"

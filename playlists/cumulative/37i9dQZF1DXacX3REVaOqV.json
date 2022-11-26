@@ -117,7 +117,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 177524,
       "name": "Afraid To Feel",
       "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
@@ -413,7 +413,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 118871,
       "name": "Back Tomorrow",
       "url": "https://open.spotify.com/track/4q2azQakSVVyqljRiCZtu3"
@@ -497,10 +497,28 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 207105,
       "name": "Be Funky",
       "url": "https://open.spotify.com/track/347yYEUgjRg4Db6ZFh0G2v"
+    },
+    {
+      "album": {
+        "name": "Benin",
+        "url": "https://open.spotify.com/album/2PdS8G60pkQEaAwr7LeAbK"
+      },
+      "artists": [
+        {
+          "name": "Elliot Fitch",
+          "url": "https://open.spotify.com/artist/2KgR6IARKVVczX7fhfDDrB"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178346,
+      "name": "Benin",
+      "url": "https://open.spotify.com/track/3lnPWI5DH48A0Fg06uxuAS"
     },
     {
       "album": {
@@ -697,7 +715,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 546791,
       "name": "Canoa",
       "url": "https://open.spotify.com/track/7yAqzJAp6RaOtiDL4MgKzx"
@@ -1129,7 +1147,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-10",
+      "date_removed": "2022-11-23",
       "duration_ms": 366940,
       "name": "Dreaming of a Disco",
       "url": "https://open.spotify.com/track/3WtXl3O0oT9eM4Izr3lcHx"
@@ -1261,7 +1279,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 556306,
       "name": "Envision - \u00c2me Remix",
       "url": "https://open.spotify.com/track/7IXVjnFnFsGQ21qBV3Uo1T"
@@ -1319,7 +1337,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": "2022-11-13",
       "duration_ms": 209280,
       "name": "Everybody Everybody (TCTS Remix) - Edit",
       "url": "https://open.spotify.com/track/16LMJP0ci9YHA0kmNUjE1H"
@@ -1425,7 +1443,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 188201,
       "name": "Feel This Way - andhim Remix",
       "url": "https://open.spotify.com/track/7cNaS3EG9wM8QGfJ7n4Upp"
@@ -1465,6 +1483,32 @@
       "duration_ms": 315826,
       "name": "Finally",
       "url": "https://open.spotify.com/track/1BeZ3neH8aQioMKccVHdS9"
+    },
+    {
+      "album": {
+        "name": "For Your Love (Kamma & Masalo Radio Mix)",
+        "url": "https://open.spotify.com/album/0muMrVqjZpEuI2q3o8omuc"
+      },
+      "artists": [
+        {
+          "name": "Discotheque",
+          "url": "https://open.spotify.com/artist/3Unew8NKaVeNRoKFrMDstg"
+        },
+        {
+          "name": "Kamma",
+          "url": "https://open.spotify.com/artist/775xcuXzPW9p8TODycEul0"
+        },
+        {
+          "name": "Masalo",
+          "url": "https://open.spotify.com/artist/6kFJNl3ISQSkOq2iS0Lk53"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243933,
+      "name": "For Your Love - Kamma & Masalo Radio Mix",
+      "url": "https://open.spotify.com/track/1vtWCEGbHaafRuxt7JoGvw"
     },
     {
       "album": {
@@ -1821,6 +1865,46 @@
       "duration_ms": 152683,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/0y4BhKDH3cGPWg8UbHGlHl"
+    },
+    {
+      "album": {
+        "name": "Hesitate",
+        "url": "https://open.spotify.com/album/1Nu8RR9pgwyhhFYGGdYL7j"
+      },
+      "artists": [
+        {
+          "name": "MANIBA",
+          "url": "https://open.spotify.com/artist/4XAXNc9B0uZ8iKANChhZIx"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
+      "duration_ms": 173452,
+      "name": "Hesitate",
+      "url": "https://open.spotify.com/track/1HuT5rVMwycqqlQVpoptou"
+    },
+    {
+      "album": {
+        "name": "Hesitate",
+        "url": "https://open.spotify.com/album/0EhaeKTqnZsIiEWP67UGbI"
+      },
+      "artists": [
+        {
+          "name": "MANIBA",
+          "url": "https://open.spotify.com/artist/4XAXNc9B0uZ8iKANChhZIx"
+        },
+        {
+          "name": "Municipal",
+          "url": "https://open.spotify.com/artist/16Kr9q5VCyDw6elRITKlC6"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173452,
+      "name": "Hesitate",
+      "url": "https://open.spotify.com/track/7kyXS2RXrPg7K6pbHZjJ7i"
     },
     {
       "album": {
@@ -2604,6 +2688,24 @@
     },
     {
       "album": {
+        "name": "Life So Bright EP",
+        "url": "https://open.spotify.com/album/6Opq0kA0g15ql0eEz51VAo"
+      },
+      "artists": [
+        {
+          "name": "Dennis Quin",
+          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306377,
+      "name": "Life So Bright",
+      "url": "https://open.spotify.com/track/2t0LqsZpeBXUkhLUneynjA"
+    },
+    {
+      "album": {
         "name": "LIFTED",
         "url": "https://open.spotify.com/album/5bCqtk4yXM7jJzM3fOqK1G"
       },
@@ -2663,7 +2765,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 205125,
       "name": "Live Without Your Love (with Steve Lacy)",
       "url": "https://open.spotify.com/track/3XnvNOjFKyFyNvxlXy1DXm"
@@ -2736,6 +2838,28 @@
     },
     {
       "album": {
+        "name": "Black Girl Magic",
+        "url": "https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN"
+      },
+      "artists": [
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        {
+          "name": "Ramona Renea",
+          "url": "https://open.spotify.com/artist/4rgCSBhGOFMm7d8HJsA4j3"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193859,
+      "name": "Love Is A State Of Mind (feat. Ramona Renea)",
+      "url": "https://open.spotify.com/track/0nD0RjzwWRO1SUE1to50FL"
+    },
+    {
+      "album": {
         "name": "Love Is A State Of Mind (feat. Ramona Renea)",
         "url": "https://open.spotify.com/album/11yuNhAFlGzOhqdD8zAd06"
       },
@@ -2773,7 +2897,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 193859,
       "name": "Love Is A State Of Mind (feat. Ramona Renea)",
       "url": "https://open.spotify.com/track/7J6BpQrP9hCRc7TzN0XqY6"
@@ -2791,7 +2915,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 449039,
       "name": "Love Recycled 1",
       "url": "https://open.spotify.com/track/0fBzgsaU1cDoS5dFI34dSB"
@@ -2817,7 +2941,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-28",
+      "date_removed": null,
       "duration_ms": 160437,
       "name": "Love Somebody Else - Sandy Rivera & Aruhtra's Mix",
       "url": "https://open.spotify.com/track/6fbrnevm8nfmTn5cLlgHtX"
@@ -3642,6 +3766,24 @@
     },
     {
       "album": {
+        "name": "Pass Me The Wine Please (My Body)",
+        "url": "https://open.spotify.com/album/14GfAKLoQ5oOKWpC7Qebri"
+      },
+      "artists": [
+        {
+          "name": "Sem Jacobs",
+          "url": "https://open.spotify.com/artist/4IDxbXfz5yMK7OGD4sdRjt"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200156,
+      "name": "Pass Me The Wine Please (My Body) - Edit",
+      "url": "https://open.spotify.com/track/2SSKzTxfeLddZau6f6WDem"
+    },
+    {
+      "album": {
         "name": "Darkside",
         "url": "https://open.spotify.com/album/1MEXNdnUKUN3H1cyleKxUH"
       },
@@ -3697,7 +3839,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 398150,
       "name": "Pick Up",
       "url": "https://open.spotify.com/track/3FKMngtZtIZCNKYexhGrVD"
@@ -3789,7 +3931,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": null,
       "duration_ms": 410500,
       "name": "Reasons",
       "url": "https://open.spotify.com/track/1pMvhKoPZUS2GGsXHWv4C7"
@@ -3815,6 +3957,28 @@
       "duration_ms": 269666,
       "name": "Red Alert - Grant Nelson Remix - Edit",
       "url": "https://open.spotify.com/track/3uYz0ZtiATdgOU8TItF0vD"
+    },
+    {
+      "album": {
+        "name": "The Reset",
+        "url": "https://open.spotify.com/album/37b8oZGEqxo6EUcOLnx9TG"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "Abel Balder",
+          "url": "https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191053,
+      "name": "Relax My Eyes",
+      "url": "https://open.spotify.com/track/1J3C8kdqUckBrTtgttm0AA"
     },
     {
       "album": {
@@ -4108,6 +4272,24 @@
     },
     {
       "album": {
+        "name": "SILLAGE",
+        "url": "https://open.spotify.com/album/7KPZHgbUpEH2W8gIb6bOgX"
+      },
+      "artists": [
+        {
+          "name": "EDX",
+          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203346,
+      "name": "SILLAGE",
+      "url": "https://open.spotify.com/track/01p0P5yMqqXmUEKS6ok1be"
+    },
+    {
+      "album": {
         "name": "Sinfonia Della Notte",
         "url": "https://open.spotify.com/album/1XcxMqr1XRN1h7k07aXpoR"
       },
@@ -4251,10 +4433,28 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 234007,
       "name": "So High",
       "url": "https://open.spotify.com/track/2eMLeXpn6gnx7EaDkcDnkS"
+    },
+    {
+      "album": {
+        "name": "Souljack EP",
+        "url": "https://open.spotify.com/album/4Wo7BhKv46vuyryLgrgJFK"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224761,
+      "name": "Souljack",
+      "url": "https://open.spotify.com/track/0W3w9pPy0JvezOG96J2biy"
     },
     {
       "album": {
@@ -4365,6 +4565,24 @@
       "duration_ms": 175475,
       "name": "Spotlight (feat. Sarah Ikumu)",
       "url": "https://open.spotify.com/track/2ccAtGaGO98e5TxDxPCf1R"
+    },
+    {
+      "album": {
+        "name": "Stand By Me",
+        "url": "https://open.spotify.com/album/2TJaZYw5lPHhXwQsV3kCLu"
+      },
+      "artists": [
+        {
+          "name": "Low Steppa",
+          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174435,
+      "name": "Stand By Me",
+      "url": "https://open.spotify.com/track/1WIn9N73chZCDGJ0PxthIj"
     },
     {
       "album": {
@@ -4847,7 +5065,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 522466,
       "name": "The Way You Love Me (feat. Marc Evans)",
       "url": "https://open.spotify.com/track/1QNjek9Ed5dLJyzEkGgYTE"
@@ -5067,7 +5285,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 497521,
       "name": "Want You In My Soul",
       "url": "https://open.spotify.com/track/125ABiFu87TxipoWAMK8LR"
@@ -5151,7 +5369,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 212724,
       "name": "When U Go - Edit",
       "url": "https://open.spotify.com/track/2F3BynnuqegS6LOqnKYkn4"
@@ -5408,7 +5626,7 @@
         },
         {
           "name": "SABRI",
-          "url": "https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5"
+          "url": "https://open.spotify.com/artist/3leOdlQnLg9bSTFJY9WCSP"
         }
       ],
       "date_added": "2022-05-19",

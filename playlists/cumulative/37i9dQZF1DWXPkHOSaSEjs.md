@@ -4,7 +4,7 @@
 
 > La mejor energía con los éxitos de Los Pericos.
 
-61 songs - 3 hr 47 min - [published](https://open.spotify.com/playlist/5e3F0pC6AEk532eUmbXbz8)
+67 songs - 4 hr 8 min - [published](https://open.spotify.com/playlist/5e3F0pC6AEk532eUmbXbz8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Bajo El Mismo Cielo](https://open.spotify.com/track/3YsXiYPaM5jCcFMeOlySAf) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Big Yuyo](https://open.spotify.com/album/2zABqsniagHwdKt0x6qgSi) | 4:22 | 2021-11-26 | 2022-07-29 |
 | [Boulevard \- Live](https://open.spotify.com/track/0a7DgM90xUXYZCgArsEIuA) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [1000 Vivos](https://open.spotify.com/album/5wqv1v2PMphDkY5b7ASoPR) | 4:13 | 2021-11-26 |  |
 | [Caliente](https://open.spotify.com/track/2y5cE5IR8Yd7So3tKhdIMC) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Ritual De Los Pericos](https://open.spotify.com/album/0BLRRSjs02ejUyDDIfYRSb) | 3:36 | 2021-11-26 |  |
+| [Caliente](https://open.spotify.com/track/2dlfocK9N6cGiBQb7TzOif) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Yo Se Que Te Acordaras \(Pop Vol\. 2\)](https://open.spotify.com/album/72wGQWQ6276wiNaCGIW3r1) | 3:36 | 2021-11-26 | 2022-11-13 |
 | [Caliente](https://open.spotify.com/track/7k9655GBLcnaQq1w2ak29r) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Yerba Buena](https://open.spotify.com/album/2ZgriRd8pxsaWfQjZRM9Mb) | 3:36 | 2021-11-26 | 2022-07-29 |
 | [Casi Nunca Lo Ves](https://open.spotify.com/track/52BkhQFJHT4Ri4cRhfjqmk) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [Herbert Vianna](https://open.spotify.com/artist/1I3wpGfguTwQmBLtqw2H7A) | [Pericos & Friends \(Extended\)](https://open.spotify.com/album/4IIfIS47aChs97w8hrgCcY) | 4:25 | 2021-11-26 |  |
 | [Complicado Y Aturdido](https://open.spotify.com/track/7g57YDkjFrNecn0sbXN3GI) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Desde Cero](https://open.spotify.com/album/7dbBLrH3VJ3zrKHkL6vtUa) | 3:48 | 2021-11-26 |  |
@@ -26,9 +27,11 @@
 | [El satánico Dr.Cadillac](https://open.spotify.com/track/1X3zDYO8bqE0eIQ3TdtQ6w) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [El Satánico Dr.Cadillac \(Lfc\)](https://open.spotify.com/album/0Q2jz2kiErvsDCuhcdCqRK) | 4:26 | 2021-11-26 |  |
 | [Eso Es Real](https://open.spotify.com/track/41q1EtcABxvWD29Nzr6i0p) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Original Masters](https://open.spotify.com/album/5aGLZiyhur5ThPT5E5az9k) | 4:19 | 2021-11-26 |  |
 | [Eso Es Real](https://open.spotify.com/track/15ULF4ovZrbySuxbUwDUhi) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Big Yuyo](https://open.spotify.com/album/2zABqsniagHwdKt0x6qgSi) | 4:19 | 2021-11-26 | 2022-07-29 |
+| [Eso Es Real](https://open.spotify.com/track/2ki5q0D0gLY7rhbM3SiUyO) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Coleccion Suprema](https://open.spotify.com/album/6txKCEfyE7WMU63FOvhstV) | 4:20 | 2021-11-26 | 2022-11-13 |
 | [Eu Vi Chegar](https://open.spotify.com/track/70Ked5bJ0LsDIurJD56Zsw) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Los Maxis De Los Pericos](https://open.spotify.com/album/0kmgtWaOe1dzJerZNxtoOm) | 4:02 | 2021-11-26 |  |
 | [Hacé Lo Que Quieras](https://open.spotify.com/track/7FJ9mYg8SPHUhFMtFJL3Bs) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Big Yuyo](https://open.spotify.com/album/2zABqsniagHwdKt0x6qgSi) | 2:13 | 2021-11-26 | 2022-07-29 |
 | [Hacé Lo Que Quieras](https://open.spotify.com/track/6OpPgur1kwNnAr8Y7tdaMo) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Ritual De Los Pericos](https://open.spotify.com/album/0BLRRSjs02ejUyDDIfYRSb) | 2:14 | 2021-11-26 |  |
+| [Hacé Lo Que Quieras](https://open.spotify.com/track/14vt4IQ61v2aLkDRS48CV0) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Coleccion Suprema](https://open.spotify.com/album/5F7Go5CAykVMnhdnIA8MFZ) | 2:15 | 2021-11-26 | 2022-11-13 |
 | [Home Sweet Home](https://open.spotify.com/track/7IgcKZZNLZH7Mbe3tBeOX3) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Pampas Reggae](https://open.spotify.com/album/5UT1U06RzF2hWq6d7SGaTn) | 3:50 | 2021-11-26 |  |
 | [Inalcanzable](https://open.spotify.com/track/2dGhvwIJFrNTvXraMAhcm0) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Soundamerica](https://open.spotify.com/album/2SZTxfMc8EOjUJnPIVORWI) | 3:32 | 2021-11-26 |  |
 | [Iron Lion Zion](https://open.spotify.com/track/04v8VFmiOXN0tlTihyPEp7) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [Mykal Rose](https://open.spotify.com/artist/5wdQ2IkL8WASlcyt0x2s8Q) | [Pericos & Friends \(Extended\)](https://open.spotify.com/album/4IIfIS47aChs97w8hrgCcY) | 3:14 | 2021-11-26 |  |
@@ -36,6 +39,7 @@
 | [La Hiena](https://open.spotify.com/track/7aW0biSvi7hOo1tSE4rExD) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Mystic Love \(Reissue\)](https://open.spotify.com/album/3GYWqJzLFjyUemww6zeaW9) | 3:24 | 2021-11-26 |  |
 | [La Hora 25](https://open.spotify.com/track/0MsFSojKXUkCTOJzLldLnC) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Soundamerica](https://open.spotify.com/album/2SZTxfMc8EOjUJnPIVORWI) | 4:19 | 2021-11-26 |  |
 | [Lindo Día](https://open.spotify.com/track/3tvN68IMEG2mPWZGlHJgLl) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Pura Vida](https://open.spotify.com/album/2uehSDVyhBGGHygslmy1ls) | 3:20 | 2021-11-26 |  |
+| [Me Late](https://open.spotify.com/track/2bcne4fQL53rmVDuE1VfzE) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Lo Esencial De...](https://open.spotify.com/album/7IdzGdw8v69nFlZqzrQCcd) | 3:27 | 2021-11-26 | 2022-11-13 |
 | [Me Late](https://open.spotify.com/track/3wRBEsV5bfjV5uktXnODJr) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Ritual De Los Pericos](https://open.spotify.com/album/0BLRRSjs02ejUyDDIfYRSb) | 3:30 | 2021-11-26 |  |
 | [Me Late](https://open.spotify.com/track/3CizlnqcWoZp9Sthem7jPM) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Big Yuyo](https://open.spotify.com/album/2zABqsniagHwdKt0x6qgSi) | 3:30 | 2021-11-26 | 2022-07-29 |
 | [Mi Resistencia](https://open.spotify.com/track/6VAhpWnzXDPp9cVZxQLk1U) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Original Masters](https://open.spotify.com/album/5aGLZiyhur5ThPT5E5az9k) | 3:28 | 2021-11-26 |  |
@@ -46,6 +50,7 @@
 | [Más Cerca Del Cielo](https://open.spotify.com/track/0KR6PIy3kqzmXh8FnkRfn8) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Pampas Reggae](https://open.spotify.com/album/5UT1U06RzF2hWq6d7SGaTn) | 4:21 | 2021-11-26 |  |
 | [Nada que perder](https://open.spotify.com/track/6Nts7aMEdMZuXYt0qrhX1g) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Lo Mejor De Los Mejores](https://open.spotify.com/album/31CRp4AWKOLePWXx7jcZ1e) | 4:12 | 2021-11-26 | 2022-07-29 |
 | [Nada Que Perder \- Live](https://open.spotify.com/track/1XkBIrIQN5NoREiSyaTAmI) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [1000 Vivos](https://open.spotify.com/album/5wqv1v2PMphDkY5b7ASoPR) | 4:23 | 2021-11-26 |  |
+| [Nada Que Perder \- Live](https://open.spotify.com/track/63BHtxdQUPNkD5tJxy28zE) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Corta con la rutina](https://open.spotify.com/album/0xEnQzkfTsQeHe3fOshUEC) | 4:23 | 2021-11-26 | 2022-11-14 |
 | [Natural Mystic](https://open.spotify.com/track/4Jw5doedGvkV1ZsB9g1Be1) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [The Original Wailers](https://open.spotify.com/artist/5OjaCQpOgXRm51CdZzLAHW) | [Pericos & Friends \(Extended\)](https://open.spotify.com/album/4IIfIS47aChs97w8hrgCcY) | 4:10 | 2021-11-26 |  |
 | [No Me Pares](https://open.spotify.com/track/0cxOrceVGTBtqQ4kb85Xjx) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Yerba Buena](https://open.spotify.com/album/2ZgriRd8pxsaWfQjZRM9Mb) | 3:33 | 2021-11-26 | 2022-07-29 |
 | [No Me Pares](https://open.spotify.com/track/3HVlLJUSxerXA1F6x9xtlJ) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Serie De Oro](https://open.spotify.com/album/1SdOnqeKXxOKAU6rVbS0z5) | 3:33 | 2021-11-26 |  |
@@ -68,6 +73,7 @@
 | [Waitin \(En Vivo\) \(feat\. MAGIC!\)](https://open.spotify.com/track/2wwp7vBI2TUGhIbwa3GBSH) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c) | [3000 Vivos \(En Vivo\)](https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1) | 4:29 | 2021-11-26 |  |
 | [Waitin'](https://open.spotify.com/track/7u9PRDogx5uVMFYRCsD1Dm) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Serie De Oro](https://open.spotify.com/album/1SdOnqeKXxOKAU6rVbS0z5) | 2:48 | 2021-11-26 |  |
 | [Waitin'](https://open.spotify.com/track/6EjUn5quLcTVFBUGLGwGwA) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Big Yuyo](https://open.spotify.com/album/2zABqsniagHwdKt0x6qgSi) | 2:48 | 2021-11-26 | 2022-07-29 |
+| [Waitin'](https://open.spotify.com/track/1ro0wZsL2KS3wShomEk2oR) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Rompan Todo Vol\. 2](https://open.spotify.com/album/1vcfsGyoduYu0jZb2YV12t) | 2:50 | 2021-11-26 | 2022-11-14 |
 | [Waitin'](https://open.spotify.com/track/3kPy0J23vePzbzxRHUjxoW) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [Ali Campbell](https://open.spotify.com/artist/0gYuavkgXQapJXmASabd2o) | [Pericos & Friends \(Extended\)](https://open.spotify.com/album/4IIfIS47aChs97w8hrgCcY) | 2:59 | 2021-11-26 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

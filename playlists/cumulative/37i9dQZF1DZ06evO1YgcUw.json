@@ -37,10 +37,28 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-11-17",
       "duration_ms": 120866,
       "name": "409",
       "url": "https://open.spotify.com/track/1gWj5OlKlZmBvtkYxluZux"
+    },
+    {
+      "album": {
+        "name": "1967 - Sunshine Tomorrow",
+        "url": "https://open.spotify.com/album/2se9vEQ4zC8kP4xtR9zg5G"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60466,
+      "name": "A Thing Or Two - Track & Backing Vocals",
+      "url": "https://open.spotify.com/track/3gQhwKGD9ah28hP5aFhrOD"
     },
     {
       "album": {
@@ -62,6 +80,42 @@
     },
     {
       "album": {
+        "name": "All Summer Long (Mono & Stereo)",
+        "url": "https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128986,
+      "name": "All Summer Long (Mono)",
+      "url": "https://open.spotify.com/track/6NIhm22UWaECPEdGm7VqEC"
+    },
+    {
+      "album": {
+        "name": "All This Is That / Carry Me Home / You Need A Mess Of Help To Stand Alone",
+        "url": "https://open.spotify.com/album/4iF9umaUMiPWmTteogYpMF"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191760,
+      "name": "All This Is That - A Cappella",
+      "url": "https://open.spotify.com/track/2oIwC1XlEBB2ckr9EOh47d"
+    },
+    {
+      "album": {
         "name": "Spirit Of America",
         "url": "https://open.spotify.com/album/1j3ak8bXvTij3YcWXb6laH"
       },
@@ -73,7 +127,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-11-26",
       "duration_ms": 133893,
       "name": "Barbara Ann",
       "url": "https://open.spotify.com/track/2KOt2JrCB720UxIbyzweQo"
@@ -131,6 +185,60 @@
       "duration_ms": 160360,
       "name": "California Girls - Remix/Remastered 2001",
       "url": "https://open.spotify.com/track/6bJuuCtXYiwOcKT9s8uRh8"
+    },
+    {
+      "album": {
+        "name": "Pet Sounds (Original Mono & Stereo Mix Versions)",
+        "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173933,
+      "name": "Caroline, No - Mono / Remastered",
+      "url": "https://open.spotify.com/track/5RSQKtG1KNwrzFMEePpjt6"
+    },
+    {
+      "album": {
+        "name": "Carry Me Home / You Need A Mess Of Help To Stand Alone",
+        "url": "https://open.spotify.com/album/20K9FpnNLWHHRdVW5hw0Zb"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-22",
+      "duration_ms": 206186,
+      "name": "Carry Me Home",
+      "url": "https://open.spotify.com/track/00m7M9QbLzD8hTqHytYypv"
+    },
+    {
+      "album": {
+        "name": "All This Is That / Carry Me Home / You Need A Mess Of Help To Stand Alone",
+        "url": "https://open.spotify.com/album/4iF9umaUMiPWmTteogYpMF"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206186,
+      "name": "Carry Me Home",
+      "url": "https://open.spotify.com/track/5Ohn8E8hjkz8f5ed8i6ifv"
     },
     {
       "album": {
@@ -217,7 +325,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 214645,
       "name": "Do You Like Worms (Roll Plymouth Rock)",
       "url": "https://open.spotify.com/track/7gGLS9uolEcajaAtAd6e7W"
@@ -239,6 +347,24 @@
       "duration_ms": 142533,
       "name": "Do You Wanna Dance?",
       "url": "https://open.spotify.com/track/4MFU8kCLOQD9nV03Gfvrkn"
+    },
+    {
+      "album": {
+        "name": "Pet Sounds (Original Mono & Stereo Mix Versions)",
+        "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "date_added": "2022-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174293,
+      "name": "Don't Talk (Put Your Head On My Shoulder) - Mono / Remastered",
+      "url": "https://open.spotify.com/track/6gDRRyg6bSODdwbuUBupoU"
     },
     {
       "album": {
@@ -271,7 +397,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 110466,
       "name": "Farmer's Daughter",
       "url": "https://open.spotify.com/track/3rnyr3vQOQ2BREv7MzJ4W7"
@@ -315,6 +441,28 @@
     {
       "album": {
         "name": "Don't Stop: The 30th Anniversary Album",
+        "url": "https://open.spotify.com/album/2h0I6nwnkSxNRWbca26i34"
+      },
+      "artists": [
+        {
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+        },
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242600,
+      "name": "Fun Fun Fun",
+      "url": "https://open.spotify.com/track/74IAPp9HNahxgEnPeZ5bAc"
+    },
+    {
+      "album": {
+        "name": "Don't Stop: The 30th Anniversary Album",
         "url": "https://open.spotify.com/album/5BuYciGCfmZwagNUlWJ3Js"
       },
       "artists": [
@@ -329,7 +477,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 243053,
       "name": "Fun Fun Fun",
       "url": "https://open.spotify.com/track/35oj2W03uwOiZhVVKG42OI"
@@ -383,7 +531,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 173040,
       "name": "God Only Knows - Mono / 1997 Remastered",
       "url": "https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf"
@@ -405,6 +553,24 @@
       "duration_ms": 219026,
       "name": "Good Vibrations - Remastered 2001",
       "url": "https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f"
+    },
+    {
+      "album": {
+        "name": "Surfer Girl (Remastered)",
+        "url": "https://open.spotify.com/album/1AhsZr98dNCfhO1XC4Ht7C"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-21",
+      "duration_ms": 122000,
+      "name": "Hawaii - Remastered 2001",
+      "url": "https://open.spotify.com/track/2coG8jl7JVo7hg0XNAay4a"
     },
     {
       "album": {
@@ -462,6 +628,24 @@
     },
     {
       "album": {
+        "name": "The Smile Sessions",
+        "url": "https://open.spotify.com/album/5SKIMMI6ilJTGOLd69Q9aM"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 30026,
+      "name": "Heroes And Villains: Children Were Raised - Master Take A Capella/2011 Smile Version",
+      "url": "https://open.spotify.com/track/6zn75Spo8o9g4Hj5NAu3n2"
+    },
+    {
+      "album": {
         "name": "20/20 (Remastered)",
         "url": "https://open.spotify.com/album/2vFDenbFedYVMOwDqTiw82"
       },
@@ -491,7 +675,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 134386,
       "name": "I Get Around (Mono)",
       "url": "https://open.spotify.com/track/3v9xlH6BpmRbqL7hgNJhfT"
@@ -527,7 +711,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-27",
+      "date_removed": null,
       "duration_ms": 100133,
       "name": "I Should Have Known Better - Mono / Remastered 2001",
       "url": "https://open.spotify.com/track/1LzqCMbpcz5edctDsq45pR"
@@ -570,6 +754,28 @@
     },
     {
       "album": {
+        "name": "The Beach Boys With The Royal Philharmonic Orchestra",
+        "url": "https://open.spotify.com/album/11IshdNymucuMOL1GcleRX"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-25",
+      "duration_ms": 230856,
+      "name": "Kokomo",
+      "url": "https://open.spotify.com/track/3wgxpFGbgAighXR6eo56nW"
+    },
+    {
+      "album": {
         "name": "L.A. (Light Album) [Remastered]",
         "url": "https://open.spotify.com/album/48nGKNICvdcZSWHwEkIIQz"
       },
@@ -599,7 +805,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 158524,
       "name": "Lavender - Take 4",
       "url": "https://open.spotify.com/track/0aSMm4gT44cPk9NwnIl19N"
@@ -624,6 +830,24 @@
     },
     {
       "album": {
+        "name": "Friends (Remastered)",
+        "url": "https://open.spotify.com/album/2EeDLAhZi04oPV3FJ2s6uS"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119893,
+      "name": "Little Bird - Remastered 2001",
+      "url": "https://open.spotify.com/track/0EhhRq90FVkx8Rv1vzZUOG"
+    },
+    {
+      "album": {
         "name": "Surfer Girl (Remastered)",
         "url": "https://open.spotify.com/album/1AhsZr98dNCfhO1XC4Ht7C"
       },
@@ -635,10 +859,28 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-11-26",
       "duration_ms": 100933,
       "name": "Little Deuce Coupe - Remastered",
       "url": "https://open.spotify.com/track/75WMOzv7195ziyx0qEw1yE"
+    },
+    {
+      "album": {
+        "name": "All Summer Long (Mono & Stereo)",
+        "url": "https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114333,
+      "name": "Little Honda (Stereo)",
+      "url": "https://open.spotify.com/track/1QL2yb3tD2zF5I1NAYH3mD"
     },
     {
       "album": {
@@ -653,7 +895,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 143680,
       "name": "Lonely Sea (Mono)",
       "url": "https://open.spotify.com/track/465pSbGkS2UnH9ECAr22La"
@@ -671,7 +913,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 212573,
       "name": "Long Promised Road - Remastered 2009",
       "url": "https://open.spotify.com/track/4x3wjsXr6MtWNXii5gA1Ai"
@@ -696,6 +938,24 @@
     },
     {
       "album": {
+        "name": "Friends (Remastered)",
+        "url": "https://open.spotify.com/album/2EeDLAhZi04oPV3FJ2s6uS"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 39973,
+      "name": "Meant For You - Remastered 2001",
+      "url": "https://open.spotify.com/track/2h5cpnAVMC4kOOLF7NqmIr"
+    },
+    {
+      "album": {
         "name": "20/20 (Remastered)",
         "url": "https://open.spotify.com/album/2vFDenbFedYVMOwDqTiw82"
       },
@@ -707,7 +967,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 153466,
       "name": "Never Learn Not To Love - Remastered 2001",
       "url": "https://open.spotify.com/track/6gjhpFtiZv6PT05XIaIK5Q"
@@ -743,7 +1003,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 107413,
       "name": "Pacific Coast Highway",
       "url": "https://open.spotify.com/track/1gHfAEgJtueNvZAc49Stgt"
@@ -833,7 +1093,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-22",
+      "date_removed": "2022-11-25",
       "duration_ms": 121360,
       "name": "Stoked - Remastered 2001",
       "url": "https://open.spotify.com/track/3rxEuNCh8TJkbbVIGs7zBd"
@@ -851,7 +1111,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 281773,
       "name": "Summer's Gone",
       "url": "https://open.spotify.com/track/3YIqde59YXSVDog3HUP9el"
@@ -869,7 +1129,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 253760,
       "name": "Surf's Up - Remastered 2009",
       "url": "https://open.spotify.com/track/5YniFjdw9nU8jCzvWlVVQC"
@@ -905,7 +1165,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 126640,
       "name": "Surfin' Safari - Mono/Remastered 2001",
       "url": "https://open.spotify.com/track/4kIYRtgbZyPzAWSFLdlajW"
@@ -941,7 +1201,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 149373,
       "name": "Surfin' U.S.A. - Remastered 2001",
       "url": "https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b"
@@ -977,7 +1237,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 170306,
       "name": "The Warmth Of The Sun - Remastered",
       "url": "https://open.spotify.com/track/1kfiVmfrGvHKdZORtXCaVS"
@@ -1013,7 +1273,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 153205,
       "name": "Wouldn't It Be Nice - Remastered 2000 / Stereo Mix",
       "url": "https://open.spotify.com/track/2Gy7qnDwt8Z3MNxqat4CsK"

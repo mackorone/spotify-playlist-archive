@@ -1,48 +1,28 @@
 {
-  "description": "Essential songs from the late '90s, early 2000s underground hip-hop scene. Cover: Gang Starr",
-  "num_followers": 306636,
+  "description": "Essential songs from the late '90s, early 2000s underground hip-hop scene. Cover: Slum Village",
+  "num_followers": 321433,
   "original_name": "I Love My Underground Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUwNDE0MCwwMDAwMDAwMDk5ZTEwNDk2MTJmMjFiZjBhOTgwMTVlOGU3NGZmYjc2",
+  "snapshot_id": "MTY2NzUwOTI0NSwwMDAwMDAwMDdlNTgxMTI5MWViZjdhZDRlODE5MmExYWEyZmNjOGE3",
   "tracks": [
     {
       "added_at": "2022-02-08 01:52:28",
       "album": {
-        "name": "Operation: Doomsday (Complete)",
-        "url": "https://open.spotify.com/album/4UG3kz6qoHtNI1glQ2wdon"
+        "name": "MM...FOOD",
+        "url": "https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N"
       },
       "artists": [
         {
           "name": "MF DOOM",
           "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
-        },
-        {
-          "name": "Pebbles The Invisible Girl",
-          "url": "https://open.spotify.com/artist/7AQJ6lwVCcej6eKZXQZus4"
         }
       ],
-      "duration_ms": 298053,
-      "name": "Doomsday",
-      "url": "https://open.spotify.com/track/7lT1dCz96jANsLAAADlfIg"
-    },
-    {
-      "added_at": "2022-09-30 02:15:40",
-      "album": {
-        "name": "Moment Of Truth",
-        "url": "https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2"
-      },
-      "artists": [
-        {
-          "name": "Gang Starr",
-          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
-        }
-      ],
-      "duration_ms": 177666,
-      "name": "Work",
-      "url": "https://open.spotify.com/track/1EiLrPd8JMTcQUr1aLEUKi"
+      "duration_ms": 258586,
+      "name": "One Beer",
+      "url": "https://open.spotify.com/track/4BnrGx9tWNF8aiXl1UhDBa"
     },
     {
       "added_at": "2021-01-06 03:25:12",
@@ -69,6 +49,22 @@
       "url": "https://open.spotify.com/track/4WM1hvYr2NC6bQnQXcj3sH"
     },
     {
+      "added_at": "2022-09-30 02:15:40",
+      "album": {
+        "name": "Moment Of Truth",
+        "url": "https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2"
+      },
+      "artists": [
+        {
+          "name": "Gang Starr",
+          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+        }
+      ],
+      "duration_ms": 177666,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/1EiLrPd8JMTcQUr1aLEUKi"
+    },
+    {
       "added_at": "2020-09-25 04:39:22",
       "album": {
         "name": "The Slim Shady LP",
@@ -85,40 +81,36 @@
       "url": "https://open.spotify.com/track/2MEvYNn2tRvFDAucAtAKVq"
     },
     {
-      "added_at": "2022-09-30 02:15:40",
+      "added_at": "2021-06-10 04:28:06",
       "album": {
-        "name": "Moment Of Truth",
-        "url": "https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2"
+        "name": "Kollage",
+        "url": "https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA"
       },
       "artists": [
         {
-          "name": "Gang Starr",
-          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+          "name": "Bahamadia",
+          "url": "https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO"
         }
       ],
-      "duration_ms": 221626,
-      "name": "Above The Clouds",
-      "url": "https://open.spotify.com/track/3ZBSXNYdTZVaBUQI3E2rF6"
+      "duration_ms": 214866,
+      "name": "Uknowhowwedu",
+      "url": "https://open.spotify.com/track/5KapB9KJnRsZrprzIAXycW"
     },
     {
-      "added_at": "2022-02-08 01:52:28",
+      "added_at": "2021-08-13 21:56:13",
       "album": {
-        "name": "MM...FOOD",
-        "url": "https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N"
+        "name": "Expansion Team",
+        "url": "https://open.spotify.com/album/2cjb94ReCIDfak2sqzEcoB"
       },
       "artists": [
         {
-          "name": "MF DOOM",
-          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+          "name": "Dilated Peoples",
+          "url": "https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq"
         }
       ],
-      "duration_ms": 258586,
-      "name": "One Beer",
-      "url": "https://open.spotify.com/track/4BnrGx9tWNF8aiXl1UhDBa"
+      "duration_ms": 215973,
+      "name": "Worst Comes To Worst - Edited",
+      "url": "https://open.spotify.com/track/7aSnPAggMMgElb6BgXeSEw"
     },
     {
       "added_at": "2020-09-25 04:39:22",
@@ -141,20 +133,20 @@
       "url": "https://open.spotify.com/track/6RBMpENxbx74lTdR5SBcaF"
     },
     {
-      "added_at": "2021-06-10 04:28:06",
+      "added_at": "2020-09-25 04:39:22",
       "album": {
-        "name": "Kollage",
-        "url": "https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA"
+        "name": "The LP",
+        "url": "https://open.spotify.com/album/7hzM3Sa8BoCKrNqrKJqyz1"
       },
       "artists": [
         {
-          "name": "Bahamadia",
-          "url": "https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO"
+          "name": "Large Professor",
+          "url": "https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX"
         }
       ],
-      "duration_ms": 214866,
-      "name": "Uknowhowwedu",
-      "url": "https://open.spotify.com/track/5KapB9KJnRsZrprzIAXycW"
+      "duration_ms": 208866,
+      "name": "I Juswanna Chill",
+      "url": "https://open.spotify.com/track/3ipzZgH1766XXRamVwk1Iw"
     },
     {
       "added_at": "2022-02-08 01:52:28",
@@ -201,52 +193,20 @@
       "url": "https://open.spotify.com/track/67vrmPygrZ9giGqHUSReAT"
     },
     {
-      "added_at": "2021-08-13 21:56:13",
+      "added_at": "2021-03-26 15:50:36",
       "album": {
-        "name": "Expansion Team",
-        "url": "https://open.spotify.com/album/2cjb94ReCIDfak2sqzEcoB"
+        "name": "Acid Raindrops",
+        "url": "https://open.spotify.com/album/6wRasCHEWubnqxdDlUf7mo"
       },
       "artists": [
         {
-          "name": "Dilated Peoples",
-          "url": "https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq"
+          "name": "People Under The Stairs",
+          "url": "https://open.spotify.com/artist/0av074qUwLn5eyzwqoq3xh"
         }
       ],
-      "duration_ms": 215973,
-      "name": "Worst Comes To Worst - Edited",
-      "url": "https://open.spotify.com/track/7aSnPAggMMgElb6BgXeSEw"
-    },
-    {
-      "added_at": "2020-09-25 04:39:22",
-      "album": {
-        "name": "J5 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5Lj4qWG2xATA2XNz3l6BZT"
-      },
-      "artists": [
-        {
-          "name": "Jurassic 5",
-          "url": "https://open.spotify.com/artist/6wFId9Jhuf9AKVzWboOj2B"
-        }
-      ],
-      "duration_ms": 321293,
-      "name": "Concrete Schoolyard",
-      "url": "https://open.spotify.com/track/37pnnS4zO9s6xzeblq9Jrd"
-    },
-    {
-      "added_at": "2020-09-25 04:39:22",
-      "album": {
-        "name": "The LP",
-        "url": "https://open.spotify.com/album/7hzM3Sa8BoCKrNqrKJqyz1"
-      },
-      "artists": [
-        {
-          "name": "Large Professor",
-          "url": "https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX"
-        }
-      ],
-      "duration_ms": 208866,
-      "name": "I Juswanna Chill",
-      "url": "https://open.spotify.com/track/3ipzZgH1766XXRamVwk1Iw"
+      "duration_ms": 264152,
+      "name": "Acid Raindrops",
+      "url": "https://open.spotify.com/track/4MbV8zrWudQflnbiIzp29t"
     },
     {
       "added_at": "2020-09-25 04:39:22",
@@ -265,40 +225,20 @@
       "url": "https://open.spotify.com/track/30oTS7bm0aH3p7lqjEIu8q"
     },
     {
-      "added_at": "2022-02-08 01:52:28",
+      "added_at": "2020-09-25 04:39:22",
       "album": {
-        "name": "Operation: Doomsday (Complete)",
-        "url": "https://open.spotify.com/album/4UG3kz6qoHtNI1glQ2wdon"
+        "name": "J5 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5Lj4qWG2xATA2XNz3l6BZT"
       },
       "artists": [
         {
-          "name": "MF DOOM",
-          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
-        },
-        {
-          "name": "DJ Cucumber Slice",
-          "url": "https://open.spotify.com/artist/6wwBv5Rq6Ev2USsDsIZO1o"
+          "name": "Jurassic 5",
+          "url": "https://open.spotify.com/artist/6wFId9Jhuf9AKVzWboOj2B"
         }
       ],
-      "duration_ms": 258613,
-      "name": "Rhymes Like Dimes",
-      "url": "https://open.spotify.com/track/12OkZyDWNBLUqoReoseGrc"
-    },
-    {
-      "added_at": "2021-03-26 15:50:36",
-      "album": {
-        "name": "Acid Raindrops",
-        "url": "https://open.spotify.com/album/6wRasCHEWubnqxdDlUf7mo"
-      },
-      "artists": [
-        {
-          "name": "People Under The Stairs",
-          "url": "https://open.spotify.com/artist/0av074qUwLn5eyzwqoq3xh"
-        }
-      ],
-      "duration_ms": 264152,
-      "name": "Acid Raindrops",
-      "url": "https://open.spotify.com/track/4MbV8zrWudQflnbiIzp29t"
+      "duration_ms": 321293,
+      "name": "Concrete Schoolyard",
+      "url": "https://open.spotify.com/track/37pnnS4zO9s6xzeblq9Jrd"
     },
     {
       "added_at": "2020-09-25 04:39:22",
@@ -337,22 +277,6 @@
       "url": "https://open.spotify.com/track/1l7xvA5XajmKQDo1h8Vc3K"
     },
     {
-      "added_at": "2022-02-08 01:52:28",
-      "album": {
-        "name": "I Need Drugs",
-        "url": "https://open.spotify.com/album/3goXMAFZit2Wiaazp8zO2f"
-      },
-      "artists": [
-        {
-          "name": "Necro",
-          "url": "https://open.spotify.com/artist/51vjIMmHWyVqDrkxD07Jh7"
-        }
-      ],
-      "duration_ms": 182906,
-      "name": "Your Fuckin\u2019 Head Split",
-      "url": "https://open.spotify.com/track/1WkJbf3RsZCtPUvxM8AdN9"
-    },
-    {
       "added_at": "2021-07-29 22:51:03",
       "album": {
         "name": "Violence Begets Violence",
@@ -375,6 +299,22 @@
       "duration_ms": 218293,
       "name": "Design in Malice",
       "url": "https://open.spotify.com/track/6Z9syPcYlnUvpMgmjQydIG"
+    },
+    {
+      "added_at": "2022-02-08 01:52:28",
+      "album": {
+        "name": "I Need Drugs",
+        "url": "https://open.spotify.com/album/3goXMAFZit2Wiaazp8zO2f"
+      },
+      "artists": [
+        {
+          "name": "Necro",
+          "url": "https://open.spotify.com/artist/51vjIMmHWyVqDrkxD07Jh7"
+        }
+      ],
+      "duration_ms": 182906,
+      "name": "Your Fuckin\u2019 Head Split",
+      "url": "https://open.spotify.com/track/1WkJbf3RsZCtPUvxM8AdN9"
     },
     {
       "added_at": "2022-02-08 01:52:28",
@@ -429,6 +369,26 @@
       "url": "https://open.spotify.com/track/0uMn8WKu3qtQLaUyal1bsz"
     },
     {
+      "added_at": "2022-09-30 02:15:40",
+      "album": {
+        "name": "Moment Of Truth",
+        "url": "https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2"
+      },
+      "artists": [
+        {
+          "name": "Gang Starr",
+          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        }
+      ],
+      "duration_ms": 221626,
+      "name": "Above The Clouds",
+      "url": "https://open.spotify.com/track/3ZBSXNYdTZVaBUQI3E2rF6"
+    },
+    {
       "added_at": "2022-02-08 01:52:28",
       "album": {
         "name": "Mos Def & Talib Kweli Are Black Star",
@@ -445,20 +405,20 @@
       "url": "https://open.spotify.com/track/7tx1TUJrT6qxXFXAELqbev"
     },
     {
-      "added_at": "2021-03-26 15:50:36",
+      "added_at": "2022-11-26 01:41:58",
       "album": {
-        "name": "Train of Thought: Lost Lyrics, Rare Releases & Beautiful B-Sides, Vol. 1",
-        "url": "https://open.spotify.com/album/4wYkDG4lbvtVswFs1ucozo"
+        "name": "J-88",
+        "url": "https://open.spotify.com/album/50235H1xQYRg7OaeEUc4ta"
       },
       "artists": [
         {
-          "name": "Talib Kweli",
-          "url": "https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y"
+          "name": "Slum Village",
+          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
         }
       ],
-      "duration_ms": 253068,
-      "name": "2000 Seasons",
-      "url": "https://open.spotify.com/track/5fAacciZPmLLFrr8RZ5fvn"
+      "duration_ms": 218079,
+      "name": "The Look of Love, Pt. 1",
+      "url": "https://open.spotify.com/track/3gTTDjDha02XJ4xuS2KF0e"
     },
     {
       "added_at": "2022-02-08 01:52:28",
@@ -475,54 +435,6 @@
       "duration_ms": 180066,
       "name": "Forest Whitiker",
       "url": "https://open.spotify.com/track/42uXDKUhyAt5Exe1G5pKWJ"
-    },
-    {
-      "added_at": "2021-07-29 22:51:03",
-      "album": {
-        "name": "A Long Hot Summer",
-        "url": "https://open.spotify.com/album/7qvw3MPdulHThAPqaM9ynF"
-      },
-      "artists": [
-        {
-          "name": "Masta Ace",
-          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
-        }
-      ],
-      "duration_ms": 226866,
-      "name": "Good Ol Love",
-      "url": "https://open.spotify.com/track/1RZwfy4hD9ixk4XcIQpyW1"
-    },
-    {
-      "added_at": "2021-03-26 15:50:36",
-      "album": {
-        "name": "Soundpieces: Da Antidote",
-        "url": "https://open.spotify.com/album/7qK8lMl95Xc1nlMSH5Z2RC"
-      },
-      "artists": [
-        {
-          "name": "Lootpack",
-          "url": "https://open.spotify.com/artist/2D0NqDyt2R9RVar9MNs8kP"
-        }
-      ],
-      "duration_ms": 165693,
-      "name": "Whenimondamic",
-      "url": "https://open.spotify.com/track/1zAFB2woHMnip3O0WJJA41"
-    },
-    {
-      "added_at": "2021-01-11 18:08:05",
-      "album": {
-        "name": "The Shining",
-        "url": "https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5"
-      },
-      "artists": [
-        {
-          "name": "J Dilla",
-          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
-        }
-      ],
-      "duration_ms": 232533,
-      "name": "Won't Do",
-      "url": "https://open.spotify.com/track/5IYzq28hEwrCRFDvQRFFpM"
     },
     {
       "added_at": "2021-07-29 22:51:03",
@@ -581,20 +493,160 @@
       "url": "https://open.spotify.com/track/3iZc0giQC5ySLgbJ6gQFEl"
     },
     {
-      "added_at": "2022-02-08 01:52:28",
+      "added_at": "2021-01-11 18:08:05",
       "album": {
-        "name": "The Chittlin' Circuit Circuit 1.5 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1amoRIjOnIdjpdCNYJsOwA"
+        "name": "The Shining",
+        "url": "https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5"
       },
       "artists": [
         {
-          "name": "Little Brother",
-          "url": "https://open.spotify.com/artist/0s9MrSopEoAn8JqwBipgdO"
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
         }
       ],
-      "duration_ms": 259708,
-      "name": "I See Now",
-      "url": "https://open.spotify.com/track/42Bczh6IIyTYJduQnfS92p"
+      "duration_ms": 232533,
+      "name": "Won't Do",
+      "url": "https://open.spotify.com/track/5IYzq28hEwrCRFDvQRFFpM"
+    },
+    {
+      "added_at": "2021-03-26 15:50:36",
+      "album": {
+        "name": "Train of Thought: Lost Lyrics, Rare Releases & Beautiful B-Sides, Vol. 1",
+        "url": "https://open.spotify.com/album/4wYkDG4lbvtVswFs1ucozo"
+      },
+      "artists": [
+        {
+          "name": "Talib Kweli",
+          "url": "https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y"
+        }
+      ],
+      "duration_ms": 253068,
+      "name": "2000 Seasons",
+      "url": "https://open.spotify.com/track/5fAacciZPmLLFrr8RZ5fvn"
+    },
+    {
+      "added_at": "2021-07-29 22:51:03",
+      "album": {
+        "name": "A Long Hot Summer",
+        "url": "https://open.spotify.com/album/7qvw3MPdulHThAPqaM9ynF"
+      },
+      "artists": [
+        {
+          "name": "Masta Ace",
+          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
+        }
+      ],
+      "duration_ms": 226866,
+      "name": "Good Ol Love",
+      "url": "https://open.spotify.com/track/1RZwfy4hD9ixk4XcIQpyW1"
+    },
+    {
+      "added_at": "2022-02-08 01:52:28",
+      "album": {
+        "name": "Operation: Doomsday (Complete)",
+        "url": "https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E"
+      },
+      "artists": [
+        {
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+        },
+        {
+          "name": "Pebbles The Invisible Girl",
+          "url": "https://open.spotify.com/artist/7AQJ6lwVCcej6eKZXQZus4"
+        }
+      ],
+      "duration_ms": 298053,
+      "name": "Doomsday",
+      "url": "https://open.spotify.com/track/7EQvdUJqZ2i7SWvSB2VqGA"
+    },
+    {
+      "added_at": "2021-03-26 15:50:36",
+      "album": {
+        "name": "Soundpieces: Da Antidote",
+        "url": "https://open.spotify.com/album/7qK8lMl95Xc1nlMSH5Z2RC"
+      },
+      "artists": [
+        {
+          "name": "Lootpack",
+          "url": "https://open.spotify.com/artist/2D0NqDyt2R9RVar9MNs8kP"
+        }
+      ],
+      "duration_ms": 165693,
+      "name": "Whenimondamic",
+      "url": "https://open.spotify.com/track/1zAFB2woHMnip3O0WJJA41"
+    },
+    {
+      "added_at": "2022-02-08 01:52:28",
+      "album": {
+        "name": "Mos Def & Talib Kweli Are Black Star",
+        "url": "https://open.spotify.com/album/6GRzmk9UGL7odxprOPop1Q"
+      },
+      "artists": [
+        {
+          "name": "Black Star",
+          "url": "https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB"
+        }
+      ],
+      "duration_ms": 346666,
+      "name": "Brown Skin Lady",
+      "url": "https://open.spotify.com/track/3Mz4AoWIedMfzCib1LYwMZ"
+    },
+    {
+      "added_at": "2022-11-26 01:41:58",
+      "album": {
+        "name": "Fan-Tas-Tic, Vol. 2",
+        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
+      },
+      "artists": [
+        {
+          "name": "Slum Village",
+          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
+        }
+      ],
+      "duration_ms": 211132,
+      "name": "Get Dis Money",
+      "url": "https://open.spotify.com/track/6xrjmQMIIYgLgjCOeq2dee"
+    },
+    {
+      "added_at": "2022-02-08 01:52:28",
+      "album": {
+        "name": "Donuts",
+        "url": "https://open.spotify.com/album/5fMlysqhFE0itGn4KezMBW"
+      },
+      "artists": [
+        {
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+        }
+      ],
+      "duration_ms": 177120,
+      "name": "Workinonit",
+      "url": "https://open.spotify.com/track/33T6ABvdB3P2iYOWJnBjsQ"
+    },
+    {
+      "added_at": "2021-03-26 15:50:36",
+      "album": {
+        "name": "Lyricist Lounge Vol. 1",
+        "url": "https://open.spotify.com/album/21tkKiB2eq0Q3Nl49OxKbr"
+      },
+      "artists": [
+        {
+          "name": "Mos Def",
+          "url": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+        },
+        {
+          "name": "Q-Tip",
+          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
+        },
+        {
+          "name": "Tash",
+          "url": "https://open.spotify.com/artist/22qf8cJRzBjIWb2Jc4JeOr"
+        }
+      ],
+      "duration_ms": 311480,
+      "name": "Body Rock",
+      "url": "https://open.spotify.com/track/7qxMoa63PAfPZSYafDeHij"
     },
     {
       "added_at": "2021-03-26 15:50:36",
@@ -625,60 +677,20 @@
       "url": "https://open.spotify.com/track/66YJddDOMyb9oj7vqI9CqU"
     },
     {
-      "added_at": "2021-03-26 15:50:36",
-      "album": {
-        "name": "Lyricist Lounge Vol. 1",
-        "url": "https://open.spotify.com/album/21tkKiB2eq0Q3Nl49OxKbr"
-      },
-      "artists": [
-        {
-          "name": "Mos Def",
-          "url": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
-        },
-        {
-          "name": "Q-Tip",
-          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
-        },
-        {
-          "name": "Tash",
-          "url": "https://open.spotify.com/artist/22qf8cJRzBjIWb2Jc4JeOr"
-        }
-      ],
-      "duration_ms": 311480,
-      "name": "Body Rock",
-      "url": "https://open.spotify.com/track/7qxMoa63PAfPZSYafDeHij"
-    },
-    {
       "added_at": "2022-02-08 01:52:28",
       "album": {
-        "name": "Donuts",
-        "url": "https://open.spotify.com/album/5fMlysqhFE0itGn4KezMBW"
+        "name": "The Chittlin' Circuit Circuit 1.5 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1amoRIjOnIdjpdCNYJsOwA"
       },
       "artists": [
         {
-          "name": "J Dilla",
-          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+          "name": "Little Brother",
+          "url": "https://open.spotify.com/artist/0s9MrSopEoAn8JqwBipgdO"
         }
       ],
-      "duration_ms": 177120,
-      "name": "Workinonit",
-      "url": "https://open.spotify.com/track/33T6ABvdB3P2iYOWJnBjsQ"
-    },
-    {
-      "added_at": "2022-02-08 01:52:28",
-      "album": {
-        "name": "Mos Def & Talib Kweli Are Black Star",
-        "url": "https://open.spotify.com/album/6GRzmk9UGL7odxprOPop1Q"
-      },
-      "artists": [
-        {
-          "name": "Black Star",
-          "url": "https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB"
-        }
-      ],
-      "duration_ms": 346666,
-      "name": "Brown Skin Lady",
-      "url": "https://open.spotify.com/track/3Mz4AoWIedMfzCib1LYwMZ"
+      "duration_ms": 259708,
+      "name": "I See Now",
+      "url": "https://open.spotify.com/track/42Bczh6IIyTYJduQnfS92p"
     },
     {
       "added_at": "2022-02-08 01:52:28",
@@ -705,22 +717,6 @@
       "url": "https://open.spotify.com/track/5WF9Ih0si21Anj48dD9FFN"
     },
     {
-      "added_at": "2020-09-25 04:39:22",
-      "album": {
-        "name": "Won",
-        "url": "https://open.spotify.com/album/34fhxFsx0fd56F7qwfJUYH"
-      },
-      "artists": [
-        {
-          "name": "Pacewon",
-          "url": "https://open.spotify.com/artist/4xlnKEcLzFYoxRmAuxI2Yt"
-        }
-      ],
-      "duration_ms": 157426,
-      "name": "I Declare War",
-      "url": "https://open.spotify.com/track/3x9oD1pM3gTgNBBOazMq1V"
-    },
-    {
       "added_at": "2022-02-08 01:52:28",
       "album": {
         "name": "Disposable Arts",
@@ -743,6 +739,46 @@
     {
       "added_at": "2020-09-25 04:39:22",
       "album": {
+        "name": "Here Come The Horns",
+        "url": "https://open.spotify.com/album/0crKVrdcLTyzjfZL2QpwTq"
+      },
+      "artists": [
+        {
+          "name": "Delinquent Habits",
+          "url": "https://open.spotify.com/artist/0Ph64AJnzKQwXj4y7bWi2U"
+        },
+        {
+          "name": "Big Pun",
+          "url": "https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs"
+        },
+        {
+          "name": "JUJU",
+          "url": "https://open.spotify.com/artist/5VLVogbPeBgFHXQPZQzBej"
+        }
+      ],
+      "duration_ms": 240426,
+      "name": "Western Ways, Pt. 2 (La Seleccion) (feat. Big Punisher & JuJu)",
+      "url": "https://open.spotify.com/track/0dUKYPzjFe0tJYCKf3USWi"
+    },
+    {
+      "added_at": "2020-09-25 14:36:39",
+      "album": {
+        "name": "Things Fall Apart",
+        "url": "https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh"
+      },
+      "artists": [
+        {
+          "name": "The Roots",
+          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        }
+      ],
+      "duration_ms": 233493,
+      "name": "100% Dundee",
+      "url": "https://open.spotify.com/track/63J9sQnp8NxLuOgeqgAS6O"
+    },
+    {
+      "added_at": "2020-09-25 04:39:22",
+      "album": {
         "name": "Nia",
         "url": "https://open.spotify.com/album/3p6jhqOzFLzlC50KKv629I"
       },
@@ -755,6 +791,58 @@
       "duration_ms": 311760,
       "name": "Deception",
       "url": "https://open.spotify.com/track/2R0MySb9tgrWIv2mttYAYR"
+    },
+    {
+      "added_at": "2020-09-25 04:39:22",
+      "album": {
+        "name": "The Best Part",
+        "url": "https://open.spotify.com/album/7lvkfeGllsua86JXtLunNG"
+      },
+      "artists": [
+        {
+          "name": "J-Live",
+          "url": "https://open.spotify.com/artist/5bb5uytW59wDF0gpv8iQbE"
+        }
+      ],
+      "duration_ms": 304880,
+      "name": "Don't Play",
+      "url": "https://open.spotify.com/track/51DHGAvIbCO1HJMDjq45rT"
+    },
+    {
+      "added_at": "2020-09-25 04:39:22",
+      "album": {
+        "name": "Kollage",
+        "url": "https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA"
+      },
+      "artists": [
+        {
+          "name": "Bahamadia",
+          "url": "https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO"
+        }
+      ],
+      "duration_ms": 252400,
+      "name": "3 Tha Hard Way",
+      "url": "https://open.spotify.com/track/4B1w3clws55HXvcVoItOqS"
+    },
+    {
+      "added_at": "2022-02-08 01:52:28",
+      "album": {
+        "name": "Operation: Doomsday (Complete)",
+        "url": "https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E"
+      },
+      "artists": [
+        {
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+        },
+        {
+          "name": "DJ Cucumber Slice",
+          "url": "https://open.spotify.com/artist/6wwBv5Rq6Ev2USsDsIZO1o"
+        }
+      ],
+      "duration_ms": 258613,
+      "name": "Rhymes Like Dimes",
+      "url": "https://open.spotify.com/track/6OkDb9fyi22Pr6QJIrUNdJ"
     },
     {
       "added_at": "2020-09-25 04:39:22",
@@ -775,18 +863,34 @@
     {
       "added_at": "2020-09-25 04:39:22",
       "album": {
-        "name": "The Best Part",
-        "url": "https://open.spotify.com/album/7lvkfeGllsua86JXtLunNG"
+        "name": "Won",
+        "url": "https://open.spotify.com/album/34fhxFsx0fd56F7qwfJUYH"
       },
       "artists": [
         {
-          "name": "J-Live",
-          "url": "https://open.spotify.com/artist/5bb5uytW59wDF0gpv8iQbE"
+          "name": "Pacewon",
+          "url": "https://open.spotify.com/artist/4xlnKEcLzFYoxRmAuxI2Yt"
         }
       ],
-      "duration_ms": 304880,
-      "name": "Don't Play",
-      "url": "https://open.spotify.com/track/51DHGAvIbCO1HJMDjq45rT"
+      "duration_ms": 157426,
+      "name": "I Declare War",
+      "url": "https://open.spotify.com/track/3x9oD1pM3gTgNBBOazMq1V"
+    },
+    {
+      "added_at": "2022-02-08 01:52:28",
+      "album": {
+        "name": "Fan-Tas-Tic, Vol. 2",
+        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
+      },
+      "artists": [
+        {
+          "name": "Slum Village",
+          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
+        }
+      ],
+      "duration_ms": 146279,
+      "name": "Players",
+      "url": "https://open.spotify.com/track/42il7TuY2vBP0QnWnjpxnI"
     },
     {
       "added_at": "2022-02-08 01:52:28",
@@ -803,62 +907,6 @@
       "duration_ms": 322960,
       "name": "Never Fallin'",
       "url": "https://open.spotify.com/track/37xInDwVQ0Z01t0a5ETb8z"
-    },
-    {
-      "added_at": "2020-09-25 04:39:22",
-      "album": {
-        "name": "Rock City",
-        "url": "https://open.spotify.com/album/4ryY8S4t3r2kUmwKgAEqFA"
-      },
-      "artists": [
-        {
-          "name": "Royce Da 5'9\"",
-          "url": "https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns"
-        }
-      ],
-      "duration_ms": 232440,
-      "name": "Boom - Explicit Album Version",
-      "url": "https://open.spotify.com/track/3CiSdq2SJSSUc1AVUU2F4G"
-    },
-    {
-      "added_at": "2020-09-25 04:39:22",
-      "album": {
-        "name": "Here Come The Horns",
-        "url": "https://open.spotify.com/album/0crKVrdcLTyzjfZL2QpwTq"
-      },
-      "artists": [
-        {
-          "name": "Delinquent Habits",
-          "url": "https://open.spotify.com/artist/0Ph64AJnzKQwXj4y7bWi2U"
-        },
-        {
-          "name": "Big Pun",
-          "url": "https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs"
-        },
-        {
-          "name": "JUJU",
-          "url": "https://open.spotify.com/artist/5VLVogbPeBgFHXQPZQzBej"
-        }
-      ],
-      "duration_ms": 240426,
-      "name": "Western Ways, Pt. 2 (La Seleccion)",
-      "url": "https://open.spotify.com/track/0dUKYPzjFe0tJYCKf3USWi"
-    },
-    {
-      "added_at": "2020-09-25 14:36:39",
-      "album": {
-        "name": "Things Fall Apart",
-        "url": "https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh"
-      },
-      "artists": [
-        {
-          "name": "The Roots",
-          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
-        }
-      ],
-      "duration_ms": 233493,
-      "name": "100% Dundee",
-      "url": "https://open.spotify.com/track/63J9sQnp8NxLuOgeqgAS6O"
     },
     {
       "added_at": "2020-09-25 04:39:22",
@@ -889,28 +937,20 @@
       "url": "https://open.spotify.com/track/3UB7VJpumOOpJ0gKfq7Hgk"
     },
     {
-      "added_at": "2021-01-11 18:08:05",
+      "added_at": "2022-02-08 01:52:28",
       "album": {
-        "name": "Train of Thought: Lost Lyrics, Rare Releases & Beautiful B-Sides, Vol. 1",
-        "url": "https://open.spotify.com/album/4wYkDG4lbvtVswFs1ucozo"
+        "name": "Dr. Octagonecologyst",
+        "url": "https://open.spotify.com/album/0GAqyZFjgaz6V5ozTS0dfW"
       },
       "artists": [
         {
-          "name": "Talib Kweli",
-          "url": "https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y"
-        },
-        {
-          "name": "Yasiin Bey",
-          "url": "https://open.spotify.com/artist/6r2niOTnexy9xss5g8GWXH"
-        },
-        {
-          "name": "Mr Man",
-          "url": "https://open.spotify.com/artist/0g0fNhGsKbfFuNlaHK9e43"
+          "name": "Dr. Octagon",
+          "url": "https://open.spotify.com/artist/7dr3cSEOIZ6tBrm4y1wsnr"
         }
       ],
-      "duration_ms": 311040,
-      "name": "Fortfied Live",
-      "url": "https://open.spotify.com/track/3oFn11Yah34EHZMEZY7FlL"
+      "duration_ms": 197400,
+      "name": "Blue Flowers",
+      "url": "https://open.spotify.com/track/1xQ1v0xnKgZyQX90f75bKt"
     },
     {
       "added_at": "2021-06-10 04:28:06",
@@ -927,58 +967,6 @@
       "duration_ms": 221640,
       "name": "True Honey Buns (Dat Freak Shit)",
       "url": "https://open.spotify.com/track/5zhA0hcJGQmiFkGtx19eOT"
-    },
-    {
-      "added_at": "2022-02-08 01:52:28",
-      "album": {
-        "name": "Krumbsnatcha Classics",
-        "url": "https://open.spotify.com/album/5Wez6YN8Xw1mPptxfFlZhx"
-      },
-      "artists": [
-        {
-          "name": "Krumbsnatcha",
-          "url": "https://open.spotify.com/artist/4StWnbDC5LLdf3socfu0gx"
-        },
-        {
-          "name": "M.O.P.",
-          "url": "https://open.spotify.com/artist/1BH45DVSTeGBvcYXNCd67g"
-        }
-      ],
-      "duration_ms": 233933,
-      "name": "W.O.L.V.E.S.",
-      "url": "https://open.spotify.com/track/2NR8YLRBR0AEUc6JQlnldo"
-    },
-    {
-      "added_at": "2022-02-08 01:52:28",
-      "album": {
-        "name": "Fan-Tas-Tic, Vol. 2",
-        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
-      },
-      "artists": [
-        {
-          "name": "Slum Village",
-          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
-        }
-      ],
-      "duration_ms": 211892,
-      "name": "Climax",
-      "url": "https://open.spotify.com/track/7i47lf1W2WA41wagWBD3zH"
-    },
-    {
-      "added_at": "2020-09-25 04:39:22",
-      "album": {
-        "name": "Doom",
-        "url": "https://open.spotify.com/album/7hOjTIuKBT7tP9XR0nGYCy"
-      },
-      "artists": [
-        {
-          "name": "Mood",
-          "url": "https://open.spotify.com/artist/2u2XHKuu3IWZvTvzXiciqu"
-        }
-      ],
-      "duration_ms": 198800,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/7FyuOzN1V1Whhyh46tPiWZ"
     }
   ],
   "unique_name": "I Love My Underground Classics",

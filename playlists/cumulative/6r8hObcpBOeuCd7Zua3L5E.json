@@ -536,6 +536,24 @@
     },
     {
       "album": {
+        "name": "the rainbow cassette (bonus)",
+        "url": "https://open.spotify.com/album/0SHvk3FxlmTOyldiqaVT8k"
+      },
+      "artists": [
+        {
+          "name": "mazie",
+          "url": "https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102663,
+      "name": "dumb dumb - sped up",
+      "url": "https://open.spotify.com/track/2pJmSaPh5lMe4npn0Z6m8A"
+    },
+    {
+      "album": {
         "name": "The Rokstarr Hits Collection",
         "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
       },
@@ -583,10 +601,6 @@
         {
           "name": "Speed Radio",
           "url": "https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER"
-        },
-        {
-          "name": "Steven Wilson",
-          "url": "https://open.spotify.com/artist/4X42BfuhWCAZ2swiVze9O0"
         }
       ],
       "date_added": "2022-09-07",
@@ -595,6 +609,24 @@
       "duration_ms": 183634,
       "name": "Everybody Wants To Rule The World - Sped Up Version",
       "url": "https://open.spotify.com/track/6MRD4fDXBbqa0xodmaFk8Q"
+    },
+    {
+      "album": {
+        "name": "Fall In Love Alone (Stripped Version)",
+        "url": "https://open.spotify.com/album/3PMJ80miJjWOXtEWoirIiK"
+      },
+      "artists": [
+        {
+          "name": "Stacey Ryan",
+          "url": "https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158880,
+      "name": "Fall In Love Alone - Sped Up Version",
+      "url": "https://open.spotify.com/track/6ButBCeYcNMlllAOI4BIZb"
     },
     {
       "album": {
@@ -675,7 +707,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 125361,
       "name": "Freak Show",
       "url": "https://open.spotify.com/track/2Rb6nYmuLEblpq4KIAjngL"
@@ -759,7 +791,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-22",
       "duration_ms": 171439,
       "name": "go - Higher & Faster",
       "url": "https://open.spotify.com/track/3KQfm7tt72I1Bv0umREOvi"
@@ -1013,7 +1045,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 110129,
       "name": "I'm so crazy for youuu </3",
       "url": "https://open.spotify.com/track/6coeqSdD7VvHELbvs6tPZX"
@@ -1692,6 +1724,58 @@
     },
     {
       "album": {
+        "name": "Remember (Versions)",
+        "url": "https://open.spotify.com/album/1W4wUg63K4DeYuXSfp8YDC"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Speed Radio",
+          "url": "https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER"
+        },
+        {
+          "name": "xxtristanxo",
+          "url": "https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154146,
+      "name": "Remember - Acoustic / Sped Up",
+      "url": "https://open.spotify.com/track/0vwF1PVvU7EJpKKGRDgdaQ"
+    },
+    {
+      "album": {
+        "name": "Shallowside Baby (Fast)",
+        "url": "https://open.spotify.com/album/13nN8U7DMTiLEMh23FHAXM"
+      },
+      "artists": [
+        {
+          "name": "FCG Heem",
+          "url": "https://open.spotify.com/artist/6GSZ8C4Dyu5VsGz16jAgPC"
+        },
+        {
+          "name": "DJ Frisco954",
+          "url": "https://open.spotify.com/artist/3ftPeJoVVdIaZxvNILjndk"
+        },
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158046,
+      "name": "Robbie Anderson - Fast",
+      "url": "https://open.spotify.com/track/5uWJEu0CHVscXs3U6HXXLq"
+    },
+    {
+      "album": {
         "name": "4",
         "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
       },
@@ -2007,6 +2091,10 @@
         {
           "name": "Wheatus",
           "url": "https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu"
+        },
+        {
+          "name": "slater",
+          "url": "https://open.spotify.com/artist/0JSCWkJNFGt7o4YbYcplQ7"
         }
       ],
       "date_added": "2022-09-07",
@@ -2237,7 +2325,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-22",
       "duration_ms": 194062,
       "name": "Wasted (Nightcore)",
       "url": "https://open.spotify.com/track/0zSDG1EI7SGhM62M5iBiGI"

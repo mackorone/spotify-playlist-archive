@@ -192,6 +192,24 @@
     },
     {
       "album": {
+        "name": "Working On My Karma",
+        "url": "https://open.spotify.com/album/11LYtfhFQqoEsnTRgWtBSM"
+      },
+      "artists": [
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145813,
+      "name": "Daniel's Interlude",
+      "url": "https://open.spotify.com/track/1EGvhh9BxIsSZ52Y7fQ1il"
+    },
+    {
+      "album": {
         "name": "Total",
         "url": "https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb"
       },
@@ -239,7 +257,7 @@
       ],
       "date_added": "2020-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-06",
       "duration_ms": 48840,
       "name": "Don't Go Away - Interlude",
       "url": "https://open.spotify.com/track/18OXiSteYpaqhnqdWxfHQs"
@@ -727,6 +745,24 @@
     {
       "album": {
         "name": "True",
+        "url": "https://open.spotify.com/album/1Blp4UY5uXYNW9JvCg5dZP"
+      },
+      "artists": [
+        {
+          "name": "Solange",
+          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90826,
+      "name": "Looks Good With Trouble",
+      "url": "https://open.spotify.com/track/0yJl8GDfihXsPOqGQE9bFp"
+    },
+    {
+      "album": {
+        "name": "True",
         "url": "https://open.spotify.com/album/3r9UTfGCgZLCOhV7cz99YC"
       },
       "artists": [
@@ -737,7 +773,7 @@
       ],
       "date_added": "2020-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 90826,
       "name": "Looks Good With Trouble",
       "url": "https://open.spotify.com/track/5qvkBW8hIWrDFa4WJyHyrH"

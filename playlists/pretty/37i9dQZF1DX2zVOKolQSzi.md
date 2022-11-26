@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zVOKolQSzi.md) - [plain]
 
 > The best and finest '10s Funk\. Cover: Pharrell Williams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,090 likes - 73 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,088 likes - 73 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Flow with It \(You Got Me Feeling Like\)](https://open.spotify.com/track/2eM4Ew20VXdjBhm6a6Cs9l) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Sea of Noise](https://open.spotify.com/album/2fRc3TJSXKXGFdnmcm17p2) | 3:16 |
-| 2 | [Funky Duck](https://open.spotify.com/track/2KRQR1VK6OoJxpwVzwDv72) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/3zN4g0kL9VJNTVo5Woh5BL) | [Thrill of the Arts](https://open.spotify.com/album/0LyGgFrZFXpRKpgj664Xu7) | 2:10 |
+| 2 | [Funky Duck](https://open.spotify.com/track/2KRQR1VK6OoJxpwVzwDv72) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv) | [Thrill of the Arts](https://open.spotify.com/album/0LyGgFrZFXpRKpgj664Xu7) | 2:10 |
 | 3 | [Work It Out](https://open.spotify.com/track/62cr4T5CnlHhRVPLQQ3Var) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Antwaun Stanley](https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN) | [Cory Wong and the Green Screen Band](https://open.spotify.com/album/4GMMDXVjbUwzospZCb8Uy9) | 5:39 |
 | 4 | [Uptown Funk \(feat\. Bruno Mars\)](https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Uptown Special](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) | 4:29 |
 | 5 | [Holding On \- Gus Pirelli VIP 7" Disco Mix](https://open.spotify.com/track/5R4Z0iKvKJ70ab2Y1dmgRT) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8), [Gus Pirelli](https://open.spotify.com/artist/3sKGlKlAS9uj2yVVCzT3KO) | [Holding On \(The Remixes\)](https://open.spotify.com/album/0KqeLeHGEvhviC19w8vIEC) | 3:12 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zVOKolQSzi.md) - [plain]
 | 31 | [Troubled Land \(feat\. James Junior\)](https://open.spotify.com/track/3WKaXpha1oA7aeTQ3YAoDQ) | [Speedometer](https://open.spotify.com/artist/20ztaBo1Ap1UXnF0HpOX44), [James Junior](https://open.spotify.com/artist/3V4lVinkwdxxhWtT58RUkr) | [No Turning Back](https://open.spotify.com/album/5p1fhgKxJDSXZQy4u0r26a) | 5:29 |
 | 32 | [Crave](https://open.spotify.com/track/1Eu00VxwsLMjHI6nQZ9RtW) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Hidden Figures: The Album](https://open.spotify.com/album/5ydGsF9Qy1IZsFmLRpJ4oc) | 2:53 |
 | 33 | [24K Magic](https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:45 |
-| 34 | [Alcool](https://open.spotify.com/track/61QDPNx0lMqM1pC9Bx8K6o) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Alcool](https://open.spotify.com/album/6NL1azymAHn7XLuVTuyLe5) | 2:49 |
+| 34 | [Alcool](https://open.spotify.com/track/6c6XMB1tD84ldzSBrbhHvA) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Alcool](https://open.spotify.com/album/0yzYRvOYlV5ryYCAXUZAsG) | 2:49 |
 | 35 | [Freckles](https://open.spotify.com/track/1cGpjqxs56wNKE6LOBnUcD) | [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG) | [Breaks from the Border](https://open.spotify.com/album/1ZwpOB2GRebtyEZgUjsjhH) | 3:43 |
 | 36 | [I Need A Dollar](https://open.spotify.com/track/3oUphdZVPyrsprZ8FgbmQS) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Good Things](https://open.spotify.com/album/6G9PvX9f6Dq26JzsiVHIdl) | 4:03 |
 | 37 | [Dancin' To The Truth](https://open.spotify.com/track/0Y5QEWwXP3awk97M830OBo) | [Dumpstaphunk](https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC) | [Dirty Word](https://open.spotify.com/album/79Wa68FKzsDAJp4GJdbreF) | 4:09 |
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zVOKolQSzi.md) - [plain]
 | 59 | [City Heights](https://open.spotify.com/track/16Hj0P5jkxkhRMkL1Spz3Y) | [The Sure Fire Soul Ensemble](https://open.spotify.com/artist/5vdTwIo9GoUu8IVLyJavsZ) | [The Sure Fire Soul Ensemble](https://open.spotify.com/album/6xX9JoQh6kquEkXmudqfO3) | 3:43 |
 | 60 | [Jax](https://open.spotify.com/track/39PRMLzu72Nz6lSOCF3bWN) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [The Optimist](https://open.spotify.com/album/0A8cq3cjiMMP8lI1SeG4GN) | 4:12 |
 | 61 | [Got to Get Back to My Baby](https://open.spotify.com/track/6vpKIo2WYaW8g0VpZJExAK) | [The Sugarman 3](https://open.spotify.com/artist/4yGIAU59dDaVaXMDkicnlF) | [What the World Needs Now](https://open.spotify.com/album/34dJNulqKbwcc2TWlIL7s5) | 4:40 |
-| 62 | [Cory Wong](https://open.spotify.com/track/1L9qsoNnyT3r8fgr2Pr7Ty) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/3zN4g0kL9VJNTVo5Woh5BL) | [The Beautiful Game](https://open.spotify.com/album/7sRNEe2FCkTYhrEimChdkC) | 4:06 |
+| 62 | [Cory Wong](https://open.spotify.com/track/1L9qsoNnyT3r8fgr2Pr7Ty) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv) | [The Beautiful Game](https://open.spotify.com/album/7sRNEe2FCkTYhrEimChdkC) | 4:06 |
 | 63 | [Down Frenchmen St](https://open.spotify.com/track/7ofSPPgO1q41e6qTdL29U8) | [The Filthy Six](https://open.spotify.com/artist/1AiQK5vJEjhf6pFcWs5nWp) | [The Fox](https://open.spotify.com/album/6jNDtYJlpZtqjEqc0a3I9J) | 5:57 |
 | 64 | [Back Seat Lover](https://open.spotify.com/track/6cuQsekkJ92W3bXwObcUth) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Where Does This Door Go \(Deluxe Edition\)](https://open.spotify.com/album/4FF4II3GGoTuYRW3zenamA) | 3:51 |
 | 65 | [Hole In One](https://open.spotify.com/track/090M4a8Mux6z7ukX9fUujC) | [Delvon Lamarr Organ Trio](https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8) | [I Told You So](https://open.spotify.com/album/1wdTI56LWM9Bcbfx4zVxX4) | 4:34 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zVOKolQSzi.md) - [plain]
 | 72 | [That's What I Like](https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:26 |
 | 73 | [It's Gonna Rain](https://open.spotify.com/track/58gPIRzKQteZDwUQKQAj0q) | [The Souljazz Orchestra](https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo) | [Resistance](https://open.spotify.com/album/1XqtSROG7PSVbfJqeAqJ9D) | 5:07 |
 
-Snapshot ID: `MTY2NDUzMzIwMCwwMDAwMDAwMDY3MzMzMWY5OTkzNGUxZjY1YWIwZWRiZTEwNGUxYTMz`
+Snapshot ID: `MTY2NDUzMzIwMCwwMDAwMDAwMDFjNDFmNDA5MTBlZTY1OTNkMjQyNTk0ZGUyZTA1YzM2`

@@ -4,7 +4,7 @@
 
 > Chill, beachy tunes to soundtrack your summer.
 
-125 songs - 7 hr 21 min - [published](https://open.spotify.com/playlist/1KjSvUrAbFZ4YSc6mnzAWe)
+126 songs - 7 hr 26 min - [published](https://open.spotify.com/playlist/1KjSvUrAbFZ4YSc6mnzAWe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Then What?](https://open.spotify.com/track/7Ihl2uNgZmwaOyp9KRHGsA) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [Top 10](https://open.spotify.com/album/7eGKyGwULtBx4KPS7yiJv9) | 3:03 | 2020-09-08 | 2022-04-25 |
 | [There's a Beach Somewhere](https://open.spotify.com/track/3f9Q0E4zGA5qabsB4itJc5) | [Celeste Kellogg](https://open.spotify.com/artist/78z2melbcr0Q7SNwEKg6eX) | [There's a Beach Somewhere](https://open.spotify.com/album/4pqioA3R1VJTEMjrojf2R2) | 3:09 | 2020-09-08 | 2022-04-25 |
 | [To a T](https://open.spotify.com/track/7uEb5EauA2QnDcPQHYcxIF) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [Pelago](https://open.spotify.com/album/0vlxtyaep2FkkVidYC49PA) | 2:58 | 2022-04-24 |  |
+| [Toes](https://open.spotify.com/track/1bcaC0Uup0m4snqBVpbzB9) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Happy: 100 Songs](https://open.spotify.com/album/34flUZLzE6Mj5wq0DK1qEX) | 4:22 | 2022-08-26 | 2022-11-13 |
 | [Toes](https://open.spotify.com/track/4S518ci8UY4op0Xyp6Hx6o) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Foundation](https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT) | 4:22 | 2022-07-08 |  |
 | [Toes](https://open.spotify.com/track/5kjyiH6but1t2UDXq15aeS) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Foundation](https://open.spotify.com/album/0Im5nUhAuNDSYVjfPh7RyS) | 4:22 | 2020-09-08 | 2022-07-29 |
 | [Too Damn Young](https://open.spotify.com/track/53itpA7zb2lv7BFAawuFQt) | [Julie Roberts](https://open.spotify.com/artist/5sXhYkm9PpLn5R70U2T6Ba) | [Men & Mascara](https://open.spotify.com/album/5ftpItUvFmE5KnLSXtFzux) | 3:27 | 2020-09-08 | 2022-04-25 |

@@ -124,6 +124,24 @@
     },
     {
       "album": {
+        "name": "beggin u",
+        "url": "https://open.spotify.com/album/6EY8YHabH1yVwOO22VdVMk"
+      },
+      "artists": [
+        {
+          "name": "bxnz",
+          "url": "https://open.spotify.com/artist/1RsFzgSg6mEHj2Fp3tulgp"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-21",
+      "duration_ms": 138472,
+      "name": "beggin u",
+      "url": "https://open.spotify.com/track/6Y2G7LLKxYV5fpd8Lc3Saq"
+    },
+    {
+      "album": {
         "name": "Beggin U",
         "url": "https://open.spotify.com/album/3KO0dWKUQDeYQ5GKlz0VtW"
       },
@@ -243,10 +261,28 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 180480,
       "name": "Brown",
       "url": "https://open.spotify.com/track/0GF6BvdfcZIufzB8otZTzT"
+    },
+    {
+      "album": {
+        "name": "Brown",
+        "url": "https://open.spotify.com/album/1VYBVGhN5z43zG8j7ni4pq"
+      },
+      "artists": [
+        {
+          "name": "Ama Millieir",
+          "url": "https://open.spotify.com/artist/4IrUxLaGY463W3WD3ABWCa"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180480,
+      "name": "Brown",
+      "url": "https://open.spotify.com/track/0c6YkDqJgpaX2kCTwXbrjj"
     },
     {
       "album": {
@@ -437,7 +473,7 @@
     {
       "album": {
         "name": "What Should We Do This Summer ?",
-        "url": "https://open.spotify.com/album/63SUShWKQ0g7ttqbgN8b2P"
+        "url": "https://open.spotify.com/album/2owTqqcIqHbuOiOiv8Alji"
       },
       "artists": [
         {
@@ -448,6 +484,24 @@
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 192053,
+      "name": "Garden",
+      "url": "https://open.spotify.com/track/38uqIeoKKlFxm2aH6SL73v"
+    },
+    {
+      "album": {
+        "name": "What Should We Do This Summer ?",
+        "url": "https://open.spotify.com/album/63SUShWKQ0g7ttqbgN8b2P"
+      },
+      "artists": [
+        {
+          "name": "EF\u00c9",
+          "url": "https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
       "duration_ms": 192053,
       "name": "Garden",
       "url": "https://open.spotify.com/track/50iDsxVvLyArwlS5PUuiy3"
@@ -527,7 +581,7 @@
     {
       "album": {
         "name": "Haunted",
-        "url": "https://open.spotify.com/album/6uhLsknKMOchHqHCafBavV"
+        "url": "https://open.spotify.com/album/2ES6I1Sdy9a71eKqipZogB"
       },
       "artists": [
         {
@@ -538,6 +592,24 @@
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 215654,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/3Srd38wfxJNDIt0Tdf99IB"
+    },
+    {
+      "album": {
+        "name": "Haunted",
+        "url": "https://open.spotify.com/album/6uhLsknKMOchHqHCafBavV"
+      },
+      "artists": [
+        {
+          "name": "Jafaris",
+          "url": "https://open.spotify.com/artist/69hGavzu5tphYU1EIY0yEg"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-19",
       "duration_ms": 215654,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/7k9fKtMD2CW2C6MW9nNFGz"
@@ -809,10 +881,32 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 194546,
       "name": "Love Tonight",
       "url": "https://open.spotify.com/track/0pkfyhvGnYHoSwGvRS36Gh"
+    },
+    {
+      "album": {
+        "name": "Love Tonight",
+        "url": "https://open.spotify.com/album/5Lbxv2mUeOd8Ve8SOGMiX0"
+      },
+      "artists": [
+        {
+          "name": "Soul\u00e9",
+          "url": "https://open.spotify.com/artist/1XRCocF9w2bZKho10CbDOP"
+        },
+        {
+          "name": "C Cane",
+          "url": "https://open.spotify.com/artist/3iKIlc0XHCyQQf7yQqARkG"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194546,
+      "name": "Love Tonight",
+      "url": "https://open.spotify.com/track/1aHXAZNGyetcsmDlPqBazn"
     },
     {
       "album": {
@@ -1165,7 +1259,7 @@
     {
       "album": {
         "name": "Queenish",
-        "url": "https://open.spotify.com/album/5eiEM1cWniDEmWVMW83zMM"
+        "url": "https://open.spotify.com/album/4hk6LBPYaFiOxSdKA56XSE"
       },
       "artists": [
         {
@@ -1176,6 +1270,24 @@
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 147225,
+      "name": "Queenish",
+      "url": "https://open.spotify.com/track/0kPZoWuMLkHAZv1k3fxk5a"
+    },
+    {
+      "album": {
+        "name": "Queenish",
+        "url": "https://open.spotify.com/album/5eiEM1cWniDEmWVMW83zMM"
+      },
+      "artists": [
+        {
+          "name": "Soul\u00e9",
+          "url": "https://open.spotify.com/artist/1XRCocF9w2bZKho10CbDOP"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-17",
       "duration_ms": 147225,
       "name": "Queenish",
       "url": "https://open.spotify.com/track/2Znf0E9LG4wjJetJvvpQzE"
@@ -1259,10 +1371,46 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 140808,
       "name": "Seven",
       "url": "https://open.spotify.com/track/1t8G3u5OSk1fCx6p2qfvx6"
+    },
+    {
+      "album": {
+        "name": "What Should We Do This Summer ?",
+        "url": "https://open.spotify.com/album/2owTqqcIqHbuOiOiv8Alji"
+      },
+      "artists": [
+        {
+          "name": "EF\u00c9",
+          "url": "https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 140808,
+      "name": "Seven",
+      "url": "https://open.spotify.com/track/3gEYp77UDNnrLthRPd1XqR"
+    },
+    {
+      "album": {
+        "name": "Seven",
+        "url": "https://open.spotify.com/album/3e3JdUqN93nSTtx0MIHTuK"
+      },
+      "artists": [
+        {
+          "name": "EF\u00c9",
+          "url": "https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140808,
+      "name": "Seven",
+      "url": "https://open.spotify.com/track/3zMLVcYxdBYXfzd3v0UK4k"
     },
     {
       "album": {
@@ -1629,10 +1777,28 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 180386,
       "name": "Time",
       "url": "https://open.spotify.com/track/5BJcisTgPFGiDRNsVFfufn"
+    },
+    {
+      "album": {
+        "name": "Stride",
+        "url": "https://open.spotify.com/album/7zZ9ryXdhx3ysVppy5Z5CE"
+      },
+      "artists": [
+        {
+          "name": "Jafaris",
+          "url": "https://open.spotify.com/artist/69hGavzu5tphYU1EIY0yEg"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180386,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/68hfxlFbZqcZQm0hw92T5n"
     },
     {
       "album": {

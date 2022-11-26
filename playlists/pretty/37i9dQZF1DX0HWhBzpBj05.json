@@ -1,31 +1,15 @@
 {
   "description": "Spread some cheer with this list of new and old seasonal favorites.",
-  "num_followers": 289516,
+  "num_followers": 296885,
   "original_name": "Happy Holidays",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDIwMzU4MywwMDAwMDAwMDU0ZGFlMGYxMTkyOGViNTM2OTg4NTUzMzBjMWJhM2Yw",
+  "snapshot_id": "MTY2OTE2MTg0MiwwMDAwMDAwMDg0YmUxODM5YzliYmU4YWI3NzNmODU1M2Q0YTE3OTNl",
   "tracks": [
     {
-      "added_at": "2021-12-20 00:09:58",
-      "album": {
-        "name": "Santa Claus Is Comin' to Town (Live at C.W. Post College, Greenvale, NY - December 1975)",
-        "url": "https://open.spotify.com/album/6SEtGOi92yZM5TyAGlXlpZ"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 267600,
-      "name": "Santa Claus Is Comin' to Town - Live at C.W. Post College, Greenvale, NY - December 1975",
-      "url": "https://open.spotify.com/track/6s2wpWPFPAgKg2LXxi1Oee"
-    },
-    {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "Christmas (Deluxe 10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/0FHpjWlnUmplF5ciL84Wpa"
@@ -41,7 +25,23 @@
       "url": "https://open.spotify.com/track/3x0wbrv15rqDu0cmA3HGyX"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
+      "album": {
+        "name": "Santa Claus Is Comin' to Town (Live at C.W. Post College, Greenvale, NY - December 1975)",
+        "url": "https://open.spotify.com/album/6SEtGOi92yZM5TyAGlXlpZ"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 267600,
+      "name": "Santa Claus Is Comin' to Town - Live at C.W. Post College, Greenvale, NY - December 1975",
+      "url": "https://open.spotify.com/track/6s2wpWPFPAgKg2LXxi1Oee"
+    },
+    {
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "Mono Singles",
         "url": "https://open.spotify.com/album/7oMcO4p7P1JtJR2G1v2NoK"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/1V0qqWBbIWt8hlAjxTZedR"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "Merry Christmas From Brenda Lee",
         "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "Bing Crosby - Christmas Classics",
         "url": "https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/2IuUMx3uxxJAHcH41aYtn0"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "It's the Most Wonderful Time of the Year (Spotify Singles Holiday)",
         "url": "https://open.spotify.com/album/4BuhsOIhCtbXzuDzJeyH1e"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/7878uDHPFOucHPBEZNqvdO"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/3pHNZvjNOHJX8G9Y0OmIzG"
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/6XAdcAseYtijN0QUnQFsH2"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "Home Alone (Original Motion Picture Soundtrack) [Anniversary Edition]",
         "url": "https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY"
@@ -145,7 +145,7 @@
       "url": "https://open.spotify.com/track/4tHqQMWSqmL6YjXwsqthDI"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "Please Come Home For Christmas",
         "url": "https://open.spotify.com/album/08IMJctnRCU6sW75YKjbpw"
@@ -161,7 +161,27 @@
       "url": "https://open.spotify.com/track/3cZRpCsi78sk2u4XW0vosp"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
+      "album": {
+        "name": "Kissin' In The Cold",
+        "url": "https://open.spotify.com/album/1HsifiywuteSStUutGfkpO"
+      },
+      "artists": [
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 224083,
+      "name": "Kissin' In The Cold",
+      "url": "https://open.spotify.com/track/2nZq5WQOW4FEPxCVTdNGfB"
+    },
+    {
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "The Works (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/7oHaj9jkWHByziQsqGAb8V"
@@ -177,23 +197,7 @@
       "url": "https://open.spotify.com/track/3AymrUApW5JKKaNrHQhcBG"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
-      "album": {
-        "name": "Phil Spector Definitive Collection",
-        "url": "https://open.spotify.com/album/5raKUBsZf9x31UuRmJ5c9Z"
-      },
-      "artists": [
-        {
-          "name": "The Ronettes",
-          "url": "https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo"
-        }
-      ],
-      "duration_ms": 161520,
-      "name": "I Saw Mommy Kissing Santa Claus",
-      "url": "https://open.spotify.com/track/7MnLsyO1JvYwgvEJrBPybg"
-    },
-    {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "Once Upon A Christmas",
         "url": "https://open.spotify.com/album/5JWR4pqfxra6JEeUqNMPO7"
@@ -209,7 +213,23 @@
       "url": "https://open.spotify.com/track/0uTVChzibEWKrXojPaJ9y1"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
+      "album": {
+        "name": "A Christmas Gift For You From Phil Spector",
+        "url": "https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu"
+      },
+      "artists": [
+        {
+          "name": "The Ronettes",
+          "url": "https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo"
+        }
+      ],
+      "duration_ms": 157613,
+      "name": "I Saw Mommy Kissing Santa Claus",
+      "url": "https://open.spotify.com/track/0EwuAHdON2ma8UBa7Flpee"
+    },
+    {
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "A Donny Hathaway Collection",
         "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
@@ -225,7 +245,23 @@
       "url": "https://open.spotify.com/track/38xhBO2AKrJnjdjVnhJES6"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
+      "album": {
+        "name": "White Christmas / The Bells of St. Mary's",
+        "url": "https://open.spotify.com/album/6zWKbjgZHIWILfd5qHCzpC"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 158533,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/72Z28IsvEVLjSWdUKEQgZ0"
+    },
+    {
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "Signature Box",
         "url": "https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v"
@@ -245,7 +281,7 @@
       "url": "https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "The Dean Martin Christmas Album",
         "url": "https://open.spotify.com/album/4Kd6niUoyuNkcLRVmThm0H"
@@ -261,7 +297,7 @@
       "url": "https://open.spotify.com/track/3szI9hDVbyOYU0yd77G35n"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
@@ -277,7 +313,7 @@
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "Christmas",
         "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
@@ -293,7 +329,7 @@
       "url": "https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "The Beach Boys' Christmas Album",
         "url": "https://open.spotify.com/album/67nqYhvjDyJXGD64937Lw3"
@@ -309,7 +345,23 @@
       "url": "https://open.spotify.com/track/5xlS0QkVrSH7ssEbBgBzbM"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
+      "album": {
+        "name": "Christmas Eve and Other Stories",
+        "url": "https://open.spotify.com/album/6QNuH4X7k9Fxsk3lRLOaiT"
+      },
+      "artists": [
+        {
+          "name": "Trans-Siberian Orchestra",
+          "url": "https://open.spotify.com/artist/5OSQDUNmll299ldFIF1Dau"
+        }
+      ],
+      "duration_ms": 205333,
+      "name": "Christmas Eve / Sarajevo 12/24 - Instrumental",
+      "url": "https://open.spotify.com/track/3sBnSBnzpEYKpJYGsAIbup"
+    },
+    {
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "The Andy Williams Christmas Album",
         "url": "https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch"
@@ -325,7 +377,7 @@
       "url": "https://open.spotify.com/track/3sDdyBHQ60Cs1opmIyRvhp"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "Have Yourself A Merry Little Christmas",
         "url": "https://open.spotify.com/album/3nCpXy6LlyXWuFR08tMycK"
@@ -341,7 +393,7 @@
       "url": "https://open.spotify.com/track/1Qi2wh8fFgDV7tl4Sj3f2K"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "Learning to Crawl (Expanded & Remastered)",
         "url": "https://open.spotify.com/album/48NYXFdasUBuSeO3RAolt3"
@@ -357,7 +409,7 @@
       "url": "https://open.spotify.com/track/5wTM2Bm8phDwHAuOsfBwhU"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "A Jolly Christmas From Frank Sinatra",
         "url": "https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq"
@@ -369,11 +421,11 @@
         }
       ],
       "duration_ms": 141040,
-      "name": "Hark! The Herald Angels Sing - Remastered",
+      "name": "Hark! The Herald Angels Sing - Remastered 1999",
       "url": "https://open.spotify.com/track/2BLwLAc1swTc4TC7K3J506"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "I'll Be Home for Christmas",
         "url": "https://open.spotify.com/album/0BeZLG9XcyUSSxhIS1QgpS"
@@ -389,7 +441,23 @@
       "url": "https://open.spotify.com/track/6kDt7UcDZJMrAluOxTSWV1"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
+      "album": {
+        "name": "LAST CHRISTMAS",
+        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 262960,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
+    },
+    {
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "Elvis' Christmas Album",
         "url": "https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N"
@@ -405,23 +473,7 @@
       "url": "https://open.spotify.com/track/3QiAAp20rPC3dcAtKtMaqQ"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
-      "album": {
-        "name": "White Christmas / The Bells of St. Mary's",
-        "url": "https://open.spotify.com/album/6zWKbjgZHIWILfd5qHCzpC"
-      },
-      "artists": [
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        }
-      ],
-      "duration_ms": 158533,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/72Z28IsvEVLjSWdUKEQgZ0"
-    },
-    {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "Have A Holly Jolly Christmas",
         "url": "https://open.spotify.com/album/6MvKUOSuPdfH0WLeQjR3eR"
@@ -437,10 +489,10 @@
       "url": "https://open.spotify.com/track/77khP2fIVhSW23NwxrRluh"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "A Legendary Christmas",
-        "url": "https://open.spotify.com/album/67vlDQxXPo2JKnZ5e6tHKY"
+        "url": "https://open.spotify.com/album/4rvtCloap7CfNl2Ogl8B87"
       },
       "artists": [
         {
@@ -452,12 +504,12 @@
           "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
         }
       ],
-      "duration_ms": 218920,
+      "duration_ms": 218889,
       "name": "Baby, It's Cold Outside (feat. Kelly Clarkson)",
-      "url": "https://open.spotify.com/track/0ImOL4s238XPV8d2DKTJ2D"
+      "url": "https://open.spotify.com/track/0cBCE4fJztY5LcB6P7P2io"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "Last Christmas",
         "url": "https://open.spotify.com/album/2UOO3MgYXf829xN014WdNX"
@@ -473,7 +525,7 @@
       "url": "https://open.spotify.com/track/1jjuOT18tPbqXhaxvsBani"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "Feliz Navidad",
         "url": "https://open.spotify.com/album/3No96PtEFyRfX1oELmZTPu"
@@ -489,7 +541,7 @@
       "url": "https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "Santa Baby",
         "url": "https://open.spotify.com/album/3CreiqJnwLy65rMoLv2bPT"
@@ -505,7 +557,7 @@
       "url": "https://open.spotify.com/track/4rAwprLoQULEVb1UrGx9dW"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
         "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
@@ -521,7 +573,7 @@
       "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "Christmas Songs by Sinatra",
         "url": "https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU"
@@ -541,23 +593,7 @@
       "url": "https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
-      "album": {
-        "name": "Christmas Eve and Other Stories",
-        "url": "https://open.spotify.com/album/6QNuH4X7k9Fxsk3lRLOaiT"
-      },
-      "artists": [
-        {
-          "name": "Trans-Siberian Orchestra",
-          "url": "https://open.spotify.com/artist/5OSQDUNmll299ldFIF1Dau"
-        }
-      ],
-      "duration_ms": 205333,
-      "name": "Christmas Eve / Sarajevo 12/24 - Instrumental",
-      "url": "https://open.spotify.com/track/3sBnSBnzpEYKpJYGsAIbup"
-    },
-    {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "Santa Tell Me",
         "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
@@ -573,7 +609,7 @@
       "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "Under The Mistletoe",
         "url": "https://open.spotify.com/album/3cr4Xgz8nnfp7iYbVqwzzH"
@@ -589,7 +625,7 @@
       "url": "https://open.spotify.com/track/54K9GOVJqIaDZNXLnnxiKc"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "Spotify Singles - Christmas",
         "url": "https://open.spotify.com/album/5nA6MO0zRVvdPSrIV7GCod"
@@ -605,7 +641,7 @@
       "url": "https://open.spotify.com/track/0NZqj0STahY0l4UR81wQj4"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "Rock 'N' Roll Rarities",
         "url": "https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq"
@@ -621,7 +657,7 @@
       "url": "https://open.spotify.com/track/2pnPe4pJtq7689i5ydzvJJ"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "It's a Holiday Soul Party",
         "url": "https://open.spotify.com/album/73nbM7q1KmaYMYbzD5KsHc"
@@ -637,7 +673,7 @@
       "url": "https://open.spotify.com/track/0z8XkugfsVI0HtXJDph8RA"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "Wintersong",
         "url": "https://open.spotify.com/album/66TijPOdbkKqENLhOuDUhJ"
@@ -657,7 +693,7 @@
       "url": "https://open.spotify.com/track/3HbTfyLd5T3gqCVuil03Gc"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "A Capitol Christmas",
         "url": "https://open.spotify.com/album/1G5A7Mk9mJZ1vqdulXwx2S"
@@ -669,11 +705,11 @@
         }
       ],
       "duration_ms": 162333,
-      "name": "(Everybody's Waitin' For) The Man With The Bag - Remastered 1996",
+      "name": "(Everybody's Waitin' For) The Man With The Bag",
       "url": "https://open.spotify.com/track/7azp0ySqPkkXHi9M9aeg3T"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "Dr. Seuss' How The Grinch Stole Christmas",
         "url": "https://open.spotify.com/album/3eWFPHtloHTw9Ilod4Ivi6"
@@ -689,7 +725,7 @@
       "url": "https://open.spotify.com/track/1msuiw6pnXYfxZ7Edyit9U"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "Christmas (Deluxe 10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/0FHpjWlnUmplF5ciL84Wpa"
@@ -705,7 +741,7 @@
       "url": "https://open.spotify.com/track/2XqwIvr8nxKKvXw8HvG1pN"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "Winter's Calling",
         "url": "https://open.spotify.com/album/0FAlzSri49UKFIAVkBoePG"
@@ -721,7 +757,7 @@
       "url": "https://open.spotify.com/track/3FptdbTXMaDXU6jd5nBGat"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "Exhale",
         "url": "https://open.spotify.com/album/4feyjHLm31HxeKGegVXYPZ"
@@ -737,7 +773,7 @@
       "url": "https://open.spotify.com/track/5umJVEAPT2SocCoB99ZoaH"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "Wrapped In Red",
         "url": "https://open.spotify.com/album/7Jahqd1kx9Qau0E9x9iZj6"
@@ -753,7 +789,7 @@
       "url": "https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "The Decca Singles 1949-1958",
         "url": "https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1"
@@ -773,7 +809,7 @@
       "url": "https://open.spotify.com/track/2QWKbE6GpWhRtlbRwcP7g8"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "Christmas Album",
         "url": "https://open.spotify.com/album/5M8U1qYKvRQHJJVHmPY7QD"
@@ -789,7 +825,7 @@
       "url": "https://open.spotify.com/track/2QpN1ZVw8eJO5f7WcvUA1k"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "Signature Box",
         "url": "https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v"
@@ -809,23 +845,7 @@
       "url": "https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
-      "album": {
-        "name": "LAST CHRISTMAS",
-        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
-      },
-      "artists": [
-        {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 262960,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
-    },
-    {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "Dr. Seuss' How The Grinch Stole Christmas! (Original TV Soundtrack)",
         "url": "https://open.spotify.com/album/6P62c1CkC8iNejWXQGegDQ"
@@ -845,7 +865,7 @@
       "url": "https://open.spotify.com/track/4qP2V09IpTct5A1ZSnr1zh"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "The Essential Collection (1965-1997)",
         "url": "https://open.spotify.com/album/4neiBTHUC0mgKE3Soz0QqK"
@@ -861,7 +881,7 @@
       "url": "https://open.spotify.com/track/6W65jVdn0JtttcvFN1KppC"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "Light up the World",
         "url": "https://open.spotify.com/album/7KstBZj4EGlywQzCrgKdFL"
@@ -877,7 +897,7 @@
       "url": "https://open.spotify.com/track/6lD9SwYTdBbaIKhmZhPBJD"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "A Perry Como Christmas",
         "url": "https://open.spotify.com/album/6kwOEj6diw9tUSbhgIVeBP"
@@ -893,7 +913,7 @@
       "url": "https://open.spotify.com/track/2GapxG7BxK55ihQRAlR39e"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
         "url": "https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4"
@@ -909,7 +929,7 @@
       "url": "https://open.spotify.com/track/4YhY2qHdBmSX33uj8ms0oq"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "Christmas, With Love",
         "url": "https://open.spotify.com/album/4HRXnpdnLJGTkHSRk4roEs"
@@ -925,7 +945,7 @@
       "url": "https://open.spotify.com/track/6wCg6AcRdhQCwD0bh0F8zb"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "McCartney II (Special Edition)",
         "url": "https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV"
@@ -941,7 +961,7 @@
       "url": "https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "Home For Christmas",
         "url": "https://open.spotify.com/album/6uIB97CqMcssTss9WrtX8c"
@@ -957,7 +977,7 @@
       "url": "https://open.spotify.com/track/4v9WbaxW8HdjqfUiWYWsII"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "Everyday Is Christmas (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
@@ -973,7 +993,7 @@
       "url": "https://open.spotify.com/track/4KevTcBXEIYxXVyPE78XXm"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "When Christmas Comes Around...",
         "url": "https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU"
@@ -993,7 +1013,7 @@
       "url": "https://open.spotify.com/track/2CYnG4UCBBEKIiux3S0jBU"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "Spotify Singles - Holiday",
         "url": "https://open.spotify.com/album/0nu6CXfrJdNcVCvOojAdcW"
@@ -1009,7 +1029,7 @@
       "url": "https://open.spotify.com/track/7DNGqrLnd07C2FPpAdn6cc"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "Christmas Greetings",
         "url": "https://open.spotify.com/album/5nul8LIKI5rjKuW7FAkoKb"
@@ -1029,7 +1049,7 @@
       "url": "https://open.spotify.com/track/0oxUZhytpftSGgBGDVlCMb"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "Christmas Is Here!",
         "url": "https://open.spotify.com/album/6thZNGX8hUVSjUrqJgPB9b"
@@ -1045,7 +1065,7 @@
       "url": "https://open.spotify.com/track/71puJ5SVGNpKvK1sq0TMQ9"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "Goodbye Yellow Brick Road (40th Anniversary Celebration / Super Deluxe)",
         "url": "https://open.spotify.com/album/5u5AXYtYIxnIs4S7K3xHAN"
@@ -1061,7 +1081,7 @@
       "url": "https://open.spotify.com/track/6sBWmE23q6xQHlnEZ8jYPT"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "A Jolly Christmas From Frank Sinatra",
         "url": "https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq"
@@ -1077,7 +1097,7 @@
       "url": "https://open.spotify.com/track/4HEOgBHRCExyYVeTyrXsnL"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "These are Special Times",
         "url": "https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN"
@@ -1093,7 +1113,7 @@
       "url": "https://open.spotify.com/track/29Q7G9NJWi0XN7jj83NbrR"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "Merry Christmas Baby / White Christmas",
         "url": "https://open.spotify.com/album/004EYz2DQttcGvyTQGDmLp"
@@ -1109,7 +1129,7 @@
       "url": "https://open.spotify.com/track/4STCTQ1h0VuWfvDyhGOxkv"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "Snowed In",
         "url": "https://open.spotify.com/album/564uqr2elEUQySk2eKFp6V"
@@ -1125,7 +1145,7 @@
       "url": "https://open.spotify.com/track/0QrwSTzpOXncQtBS9XRvoN"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "Glow",
         "url": "https://open.spotify.com/album/6FjK2XLQJloz36NgRciCHv"
@@ -1141,7 +1161,7 @@
       "url": "https://open.spotify.com/track/4OXGEoNa7xh1MdDGf5xGC7"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
         "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
@@ -1157,7 +1177,7 @@
       "url": "https://open.spotify.com/track/65irrLqfCMRiO3p87P4C0D"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "Christmas With The Chipmunks (2010)",
         "url": "https://open.spotify.com/album/3X7elwYMwXz3flSYNtSfHQ"
@@ -1177,7 +1197,7 @@
       "url": "https://open.spotify.com/track/02NKMA9cIkq6VuBNu9q9Wf"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "The Dean Martin Christmas Album",
         "url": "https://open.spotify.com/album/4Kd6niUoyuNkcLRVmThm0H"
@@ -1193,7 +1213,7 @@
       "url": "https://open.spotify.com/track/4QX5pZQpQTgVlkqfUTDim0"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "These are Special Times",
         "url": "https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN"
@@ -1209,10 +1229,10 @@
       "url": "https://open.spotify.com/track/4ruIMJnh6mPhiNWE9amaEF"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
-        "name": "The Decca Singles 1949-1958",
-        "url": "https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1"
+        "name": "Louis Wishes You a Cool Yule",
+        "url": "https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6"
       },
       "artists": [
         {
@@ -1220,12 +1240,12 @@
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 181533,
+      "duration_ms": 181446,
       "name": "Winter Wonderland - Single Version",
-      "url": "https://open.spotify.com/track/0Mdu7wOTmDiqHTH8z7cDnL"
+      "url": "https://open.spotify.com/track/5LptlBSMWkU65JuGu2U6j9"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "White Christmas",
         "url": "https://open.spotify.com/album/42KK3F8HTm1dyv5iFsCXdw"
@@ -1245,7 +1265,7 @@
       "url": "https://open.spotify.com/track/04vLj9QUXoKdRlsp3gkURo"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "The Complete RCA Christmas Collection",
         "url": "https://open.spotify.com/album/6QSSyJyDQVshrNr7SnqKsE"
@@ -1261,7 +1281,7 @@
       "url": "https://open.spotify.com/track/1phlddT9rezMBppm6WDVdW"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "Christmas Romance",
         "url": "https://open.spotify.com/album/5iSA8cwqAeL2Ep7RcnT62N"
@@ -1277,7 +1297,7 @@
       "url": "https://open.spotify.com/track/73pcHkUzQTD3IqYrHfqUf8"
     },
     {
-      "added_at": "2021-12-20 00:09:58",
+      "added_at": "2022-11-23 00:04:02",
       "album": {
         "name": "Super Trouper",
         "url": "https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf"

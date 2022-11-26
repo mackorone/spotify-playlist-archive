@@ -4,7 +4,7 @@
 
 > Querencia is here !
 
-107 songs - 5 hr 48 min - [published](https://open.spotify.com/playlist/5tPgRj1Mt1ZyOeaWvPHY0Z)
+109 songs - 5 hr 54 min - [published](https://open.spotify.com/playlist/5tPgRj1Mt1ZyOeaWvPHY0Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [week](https://open.spotify.com/track/238kglYyz9oWU5f436NPB9) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Hands on Me](https://open.spotify.com/album/6RK3Y2SOZef8WWvopYB6Dn) | 3:22 | 2021-11-29 | 2022-07-29 |
 | [Week](https://open.spotify.com/track/4banEKlbDsBOIvBDTssAf1) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Week](https://open.spotify.com/album/0i3GmrB7DW4keoTd53g3AP) | 3:22 | 2022-07-11 |  |
 | [Whatcha Doin'](https://open.spotify.com/track/1kfEJ0w6qRZR9dIOWJGe0J) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Whatcha Doin'](https://open.spotify.com/album/5ZqrNpvlfW0qeZ6bDCjmaU) | 3:29 | 2021-11-29 |  |
+| [When I Get Old](https://open.spotify.com/track/5f2CcxzZoW7hNs1O8NhG6y) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [When I Get Old](https://open.spotify.com/album/3mJMHqT2w0HwjQkneNVE14) | 3:04 | 2022-10-22 |  |
 | [Why Don’t You Know](https://open.spotify.com/track/3L6OalQDbdCS0Tg1kFccYn) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB) | [Hands on Me](https://open.spotify.com/album/7KM1Yi5xYv3O6OcKsEeV83) | 3:18 | 2022-07-11 |  |
 | [Why Don’t You Know](https://open.spotify.com/track/7BiaLnXa10sBpBEcFfm4PP) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB) | [Hands on Me](https://open.spotify.com/album/6RK3Y2SOZef8WWvopYB6Dn) | 3:18 | 2021-11-29 | 2022-07-29 |
 | [Wow Thing](https://open.spotify.com/track/5MwfxCtqMFGYp9Nc1BkTrS) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [SinB](https://open.spotify.com/artist/0tZl5OAXf9jYXFmfRGejs2), [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [Wow Thing](https://open.spotify.com/album/3xEPyp7h78uULpDPuKvokH) | 2:51 | 2021-11-29 |  |
@@ -114,6 +115,7 @@
 | [Young In Love](https://open.spotify.com/track/3T2In1aV3rdXSDCDOTNioF) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Flourishing](https://open.spotify.com/album/1lNM7RF1SVUs66OtLj4MQh) | 3:18 | 2021-11-29 | 2022-07-29 |
 | [Young In Love](https://open.spotify.com/track/4dIObSazv75psS0AX9z6ro) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Flourishing](https://open.spotify.com/album/5rHnbSUBaflJgCLlZfDnzt) | 3:18 | 2022-07-11 |  |
 | [그 끝에 그대](https://open.spotify.com/track/7D8IxjdvFTYPcnCmNfzvNS) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Hotel del Luna \(Original Television Soundtrack\) Pt.6](https://open.spotify.com/album/0iauGMMQmUJuBBWqnKx0Op) | 3:44 | 2022-07-11 |  |
+| [나의 그대](https://open.spotify.com/track/6021PPpRakaZteKf8KNHLJ) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [낭만닥터 김사부 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/5Q8yAIQxE4JrdWNy1h7lKv) | 3:40 | 2022-10-22 | 2022-11-13 |
 | [나의 그대](https://open.spotify.com/track/7EXTPBMNV9N2s3fUrqMC7i) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [낭만닥터 김사부 2 \(Original Television Soundtrack\) Pt.8](https://open.spotify.com/album/2eDsS1VbMDEs0z2Lo0dHBv) | 3:40 | 2022-07-11 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

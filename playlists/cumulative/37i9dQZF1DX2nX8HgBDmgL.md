@@ -4,7 +4,7 @@
 
 > Celebrating South Asian Heritage Month with Raja Kumari.
 
-126 songs - 6 hr 38 min - [published](https://open.spotify.com/playlist/4KvGVxCqKJ3562UipuWVPS)
+127 songs - 6 hr 40 min - [published](https://open.spotify.com/playlist/4KvGVxCqKJ3562UipuWVPS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,8 @@
 | [Round & Round \(feat\. Sama Blake\)](https://open.spotify.com/track/0osjWey7JJl7RORk3UnbfB) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf), [Sama Blake](https://open.spotify.com/artist/19jOqaZTvseWAgi4PaQJrd) | [Round & Round \(feat\. Sama Blake\)](https://open.spotify.com/album/2FIFISFDZGcLsfV2YTbz1f) | 3:32 | 2021-11-11 | 2022-07-19 |
 | [Royalty](https://open.spotify.com/track/2PPfIGVbAthyVvpWjQGebU) | [UpsideDown](https://open.spotify.com/artist/0Vjwka9dESqFMtbXD1phDu), [Happy Singh](https://open.spotify.com/artist/6fvSUKNxAmvtRJUjscMWeA) | [Paradox](https://open.spotify.com/album/4LavhFaMS15dJlY57Dun7Y) | 2:33 | 2021-11-11 | 2022-07-19 |
 | [Running Away](https://open.spotify.com/track/70BSJ7IYUnfGzGxpIPDc4i) | [Jaz Dhami](https://open.spotify.com/artist/5IfJHO9jIE1GVuC517P3nr), [Arjun](https://open.spotify.com/artist/5tvfyAT4aOIOkumo6vw1yL) | [Running Away](https://open.spotify.com/album/07nHJAR67XFcayEppIsz0D) | 2:43 | 2021-11-11 | 2022-07-19 |
-| [Sahi Ja Nahi? \(Good Or Not?\) ft\. Raja Kumari](https://open.spotify.com/track/37moX1cdAtkbIh9Harf3TN) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [The Blend](https://open.spotify.com/album/6C6VvGruQ0ezA6QewMUGPj) | 2:24 | 2022-02-25 |  |
+| [Sahi Ja Nahi? \(Good Or Not?\) ft\. Raja Kumari](https://open.spotify.com/track/37moX1cdAtkbIh9Harf3TN) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [The Blend](https://open.spotify.com/album/6C6VvGruQ0ezA6QewMUGPj) | 2:24 | 2022-02-25 | 2022-10-18 |
+| [Sahi Ja Nahi? \(Good Or Not?\) ft\. Raja Kumari](https://open.spotify.com/track/3NyEl4VKqV7WL6PO5BYrb6) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [The Blend](https://open.spotify.com/album/6yGj6xifVKbJNfOwPiXmQY) | 2:24 | 2022-09-02 |  |
 | [Sajani 2.0](https://open.spotify.com/track/7r5ryshz3wG76wHart2oOM) | [ShiShi](https://open.spotify.com/artist/3zLlUTuczHTGLHdMnYNYX9), [Axel Thesleff](https://open.spotify.com/artist/1OpHMC7Qo3lY1sVYaTUQrG), [Ben Parag](https://open.spotify.com/artist/62UT2WpXc0Ru255jslrGIe) | [Sajani 2.0](https://open.spotify.com/album/4GJKgezLpvjx5zLs8hbe9G) | 4:47 | 2021-11-11 | 2022-07-19 |
 | [Sandhu Takeover](https://open.spotify.com/track/0eNFwDKwJzv4KRbVbBHtBJ) | [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS), [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Amar Sandhu](https://open.spotify.com/artist/52azpeiy7FKa0hoa8CwL6E) | [Sandhu Takeover](https://open.spotify.com/album/5JujoFNucZl96MmktFP7sc) | 3:25 | 2021-11-11 | 2022-07-19 |
 | [Screwing It Up](https://open.spotify.com/track/0UhSaRMPaCgF9PcUHJ2Lon) | [Arjun](https://open.spotify.com/artist/5tvfyAT4aOIOkumo6vw1yL), [Amar Sandhu](https://open.spotify.com/artist/52azpeiy7FKa0hoa8CwL6E), [Raxstar](https://open.spotify.com/artist/1Y1yhpLR7nThkjyf2TeQCt) | [Screwing It Up](https://open.spotify.com/album/4HehEGM5FLDlbFIJRYjHYG) | 3:19 | 2021-11-11 | 2022-07-19 |

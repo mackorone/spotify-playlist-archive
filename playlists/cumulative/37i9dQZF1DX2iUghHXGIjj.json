@@ -691,6 +691,24 @@
     {
       "album": {
         "name": "Sonic Soul Surfer",
+        "url": "https://open.spotify.com/album/75q2fTzmmtKNl03kVL0OuB"
+      },
+      "artists": [
+        {
+          "name": "Seasick Steve",
+          "url": "https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv"
+        }
+      ],
+      "date_added": "2020-08-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 448986,
+      "name": "Don't Ask Me (Bonus Track)",
+      "url": "https://open.spotify.com/track/4dBjjSK6P2NGO9t1RAYu1x"
+    },
+    {
+      "album": {
+        "name": "Sonic Soul Surfer",
         "url": "https://open.spotify.com/album/5IIMQ2MbC7iblV4hdMwZD4"
       },
       "artists": [
@@ -994,6 +1012,28 @@
     },
     {
       "album": {
+        "name": "Going up the Country - Legendary Acoustic Roots Blues for Road Trips",
+        "url": "https://open.spotify.com/album/5kuzGy68pZeZxE3PQwVhSE"
+      },
+      "artists": [
+        {
+          "name": "Bowling Green John Cephas",
+          "url": "https://open.spotify.com/artist/1WLzLvyPtIKHVscQ8rbX1i"
+        },
+        {
+          "name": "Harmonica Phil Wiggins",
+          "url": "https://open.spotify.com/artist/6dyecnDdUXZovKXNnOv1wq"
+        }
+      ],
+      "date_added": "2020-08-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 190945,
+      "name": "Guitar & Harmonica Rag",
+      "url": "https://open.spotify.com/track/5BXirpc0qtiSqVUuEbXe1n"
+    },
+    {
+      "album": {
         "name": "Living Country Blues USA Vol. 1",
         "url": "https://open.spotify.com/album/1wdmrcveHQIDxQ07VcOjok"
       },
@@ -1053,6 +1093,24 @@
       "duration_ms": 188813,
       "name": "Hard Times",
       "url": "https://open.spotify.com/track/11BX1F2ao0DQTgW86W6H5B"
+    },
+    {
+      "album": {
+        "name": "Heavy Load Blues (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2ZzQyza1rGp1AXsZ2SINRZ"
+      },
+      "artists": [
+        {
+          "name": "Gov't Mule",
+          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 438840,
+      "name": "Heavy Load",
+      "url": "https://open.spotify.com/track/0QLhmYdldYoRRSn5qQbwTZ"
     },
     {
       "album": {
@@ -1121,10 +1179,46 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 137186,
       "name": "I'm Ready",
       "url": "https://open.spotify.com/track/2v7vMQGFva7ePcl4BiBF2K"
+    },
+    {
+      "album": {
+        "name": "The Cause of It All",
+        "url": "https://open.spotify.com/album/33kr65x9D148InPeYYIloG"
+      },
+      "artists": [
+        {
+          "name": "The Reverend Shawn Amos",
+          "url": "https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT"
+        }
+      ],
+      "date_added": "2021-04-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 137186,
+      "name": "I'm Ready",
+      "url": "https://open.spotify.com/track/308iMDZL6Y2OsJceqn6Uly"
+    },
+    {
+      "album": {
+        "name": "The Cause of It All",
+        "url": "https://open.spotify.com/album/3ppJZy5wj282RpH5M3ld1a"
+      },
+      "artists": [
+        {
+          "name": "The Reverend Shawn Amos",
+          "url": "https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT"
+        }
+      ],
+      "date_added": "2021-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137186,
+      "name": "I'm Ready",
+      "url": "https://open.spotify.com/track/4wk6CwXYGbwN5ueOhd6twG"
     },
     {
       "album": {
@@ -1291,6 +1385,24 @@
       "duration_ms": 174533,
       "name": "Keep Your Lamp Trimmed And Burning",
       "url": "https://open.spotify.com/track/5LTMzb6lrWkdgNl4CNwfwx"
+    },
+    {
+      "album": {
+        "name": "Alligator Records 35th Anniversary Collection",
+        "url": "https://open.spotify.com/album/5oNBMrK7Upa0tbWsmlDQAt"
+      },
+      "artists": [
+        {
+          "name": "Corey Harris",
+          "url": "https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH"
+        }
+      ],
+      "date_added": "2020-08-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 175906,
+      "name": "Keep Your Lamp Trimmed And Burning",
+      "url": "https://open.spotify.com/track/08CShCm5L8jopYYkpF6bVY"
     },
     {
       "album": {
@@ -1689,6 +1801,24 @@
       "duration_ms": 250666,
       "name": "Pay Day",
       "url": "https://open.spotify.com/track/5oNiGRP6jxcK3uoF2U144o"
+    },
+    {
+      "album": {
+        "name": "Harmonica Blues",
+        "url": "https://open.spotify.com/album/3CcEEK5lIRYkBfObfCEmSj"
+      },
+      "artists": [
+        {
+          "name": "James Cotton",
+          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
+        }
+      ],
+      "date_added": "2020-08-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 219000,
+      "name": "Play With Your Poodle",
+      "url": "https://open.spotify.com/track/0yqFqZtH96Z8WPd9Q6AvJU"
     },
     {
       "album": {
@@ -2429,6 +2559,24 @@
       "duration_ms": 206040,
       "name": "The World Can Be So Cold",
       "url": "https://open.spotify.com/track/1lUN4eNRlpuf3hHJjXf7KG"
+    },
+    {
+      "album": {
+        "name": "The World Can Be So Cold",
+        "url": "https://open.spotify.com/album/4WA7Zxne8GkMDjnkkZEW1s"
+      },
+      "artists": [
+        {
+          "name": "Cedric Burnside",
+          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 206040,
+      "name": "The World Can Be So Cold",
+      "url": "https://open.spotify.com/track/5N03Df9IsmsWtHNZbrmTjb"
     },
     {
       "album": {

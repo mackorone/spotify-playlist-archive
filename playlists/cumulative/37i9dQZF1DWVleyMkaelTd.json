@@ -188,6 +188,24 @@
     },
     {
       "album": {
+        "name": "Batida Diferente",
+        "url": "https://open.spotify.com/album/6TEAtBVoHbOdOM0hyqSiCv"
+      },
+      "artists": [
+        {
+          "name": "Sara Santos",
+          "url": "https://open.spotify.com/artist/1K83XnIXY2xWu7cyBcOdjr"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245063,
+      "name": "Batida Diferente",
+      "url": "https://open.spotify.com/track/3MF97DSrXO444itt0SOyCB"
+    },
+    {
+      "album": {
         "name": "All of Me",
         "url": "https://open.spotify.com/album/4dxTboBUKrZ0diLyBkiyRq"
       },
@@ -314,6 +332,24 @@
     },
     {
       "album": {
+        "name": "Paul Desmond: The Best of the Complete RCA Victor Recordings",
+        "url": "https://open.spotify.com/album/0KowjFC1x1qBFKVpc9RbXP"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 285640,
+      "name": "Bossa Antigua",
+      "url": "https://open.spotify.com/track/641OktsOvVkwt59DOisKZM"
+    },
+    {
+      "album": {
         "name": "Guitarras Latinas",
         "url": "https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD"
       },
@@ -401,10 +437,28 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 278593,
       "name": "Bossa pro Vanessa",
       "url": "https://open.spotify.com/track/7K8BoUKKY85S0fZTkAa0qN"
+    },
+    {
+      "album": {
+        "name": "Amalgama",
+        "url": "https://open.spotify.com/album/3FjlRaBMxQSeGuA0hIYCwN"
+      },
+      "artists": [
+        {
+          "name": "Red Room Rio Band",
+          "url": "https://open.spotify.com/artist/6DcYlMfcRxVRZAdGU6fpOh"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384320,
+      "name": "Brisa",
+      "url": "https://open.spotify.com/track/5erlLgX315PcOtgu6OkWSd"
     },
     {
       "album": {
@@ -441,6 +495,24 @@
       "duration_ms": 284274,
       "name": "B\u00fazios",
       "url": "https://open.spotify.com/track/0UvJGzL2FdEu5Mh37HtQrP"
+    },
+    {
+      "album": {
+        "name": "Calmaria",
+        "url": "https://open.spotify.com/album/10buLmtbI3B527DorE20FJ"
+      },
+      "artists": [
+        {
+          "name": "Newton Bossa Trio",
+          "url": "https://open.spotify.com/artist/6IjGZqlalneM5p6nkHsKCX"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322581,
+      "name": "Calmaria",
+      "url": "https://open.spotify.com/track/15FJtMcEK4SoZC1mVxuQ55"
     },
     {
       "album": {
@@ -675,6 +747,24 @@
       "duration_ms": 257085,
       "name": "Descer Pelo Rio",
       "url": "https://open.spotify.com/track/5EPMAKQslCbGpMqgj6UDL9"
+    },
+    {
+      "album": {
+        "name": "Dindi",
+        "url": "https://open.spotify.com/album/77UUjAXL27yMKkyWzam0xL"
+      },
+      "artists": [
+        {
+          "name": "Midtown Players",
+          "url": "https://open.spotify.com/artist/1GRABQUFydUxNHGumW35mO"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161270,
+      "name": "Dindi",
+      "url": "https://open.spotify.com/track/0v2LWjMTUcwl49SLxflj9n"
     },
     {
       "album": {
@@ -1031,7 +1121,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 261453,
       "name": "Half The Perfect World",
       "url": "https://open.spotify.com/track/2Lpy3EwCxTCDnpSoraugYc"
@@ -1398,6 +1488,24 @@
     },
     {
       "album": {
+        "name": "Amore e Complicado",
+        "url": "https://open.spotify.com/album/6TL3WUqoiC9WFyisEvobcZ"
+      },
+      "artists": [
+        {
+          "name": "Pablo Ilanda Trio",
+          "url": "https://open.spotify.com/artist/0LPXBwpZDAUDpz9Jqo3aON"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214859,
+      "name": "O Amor \u00e9 Complicado",
+      "url": "https://open.spotify.com/track/6m2TueLyXowKFDMuuuy5Qp"
+    },
+    {
+      "album": {
         "name": "Bossa De Urso",
         "url": "https://open.spotify.com/album/3s8B4suX6KzEx4ApdR5gZO"
       },
@@ -1755,6 +1863,24 @@
       "duration_ms": 223895,
       "name": "Rio Lindo",
       "url": "https://open.spotify.com/track/3usSv5DQqZlulKLHRumXGH"
+    },
+    {
+      "album": {
+        "name": "River of Dreams",
+        "url": "https://open.spotify.com/album/7IID5V4pzViAAal8scWxWA"
+      },
+      "artists": [
+        {
+          "name": "Trio Del Norte",
+          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183082,
+      "name": "River of Dreams",
+      "url": "https://open.spotify.com/track/303q7nGbVGdxUvbhbEfHzS"
     },
     {
       "album": {
@@ -2151,7 +2277,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 212045,
       "name": "When Autumn Calls",
       "url": "https://open.spotify.com/track/5fYdYTmBkY1KaxnIyVLW2x"

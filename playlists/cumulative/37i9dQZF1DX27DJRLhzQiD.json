@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "Clara Yolks y m\u00e1s mujeres, a todo volumen.",
+  "description": "Irepelusa y m\u00e1s mujeres, a todo volumen.",
   "name": "EQUAL Andes",
   "published_playlist_ids": [
     "4ig5nNsfONZJzmj3q1Nolg"
@@ -23,6 +23,42 @@
       "duration_ms": 208346,
       "name": "24/7",
       "url": "https://open.spotify.com/track/4uV03a4DOwNuNRFnWyS5ws"
+    },
+    {
+      "album": {
+        "name": "4 Favores",
+        "url": "https://open.spotify.com/album/5slWzJL029pVeEL5qDTkMB"
+      },
+      "artists": [
+        {
+          "name": "MARI",
+          "url": "https://open.spotify.com/artist/0og2ubpPFrJOMK9ppv8gGU"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110117,
+      "name": "4 Favores",
+      "url": "https://open.spotify.com/track/03SoqbCZhhiomtLUcF3xs6"
+    },
+    {
+      "album": {
+        "name": "7 De Octubre",
+        "url": "https://open.spotify.com/album/0yC4zTvFMwnsK6RxhLSt7u"
+      },
+      "artists": [
+        {
+          "name": "Itzza Primera",
+          "url": "https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "7 De Octubre",
+      "url": "https://open.spotify.com/track/3A4WD7JkJWq0PgzoVXq337"
     },
     {
       "album": {
@@ -171,7 +207,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 223053,
       "name": "Anestesia",
       "url": "https://open.spotify.com/track/5ro0BttdQXF8ElE53ixJ5h"
@@ -428,6 +464,28 @@
     },
     {
       "album": {
+        "name": "Desenvidiao",
+        "url": "https://open.spotify.com/album/1PpdRv8gDEKSbjVDab80fd"
+      },
+      "artists": [
+        {
+          "name": "Vera Delacruz",
+          "url": "https://open.spotify.com/artist/1A8TnoKY8MmXA4pKYNm4Bt"
+        },
+        {
+          "name": "Veztalone",
+          "url": "https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "Desenvidiao",
+      "url": "https://open.spotify.com/track/3446RIZOsYjRw5Hj3W3Uul"
+    },
+    {
+      "album": {
         "name": "Dime (Salsa)",
         "url": "https://open.spotify.com/album/6ojbNRqGpAAJVRxq2wxGJf"
       },
@@ -537,6 +595,24 @@
       "duration_ms": 209240,
       "name": "D\u00e9jenme Sufrir",
       "url": "https://open.spotify.com/track/3kwM3eVq6Eoe64zm3spri2"
+    },
+    {
+      "album": {
+        "name": "Lo Que Siento",
+        "url": "https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM"
+      },
+      "artists": [
+        {
+          "name": "Clara Yolks",
+          "url": "https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199672,
+      "name": "El After",
+      "url": "https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8"
     },
     {
       "album": {
@@ -739,7 +815,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 223000,
       "name": "Haz Que Suceda",
       "url": "https://open.spotify.com/track/536jJ35C2ffUenqA9e2JMx"
@@ -829,7 +905,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 200039,
       "name": "La Flor de Canela",
       "url": "https://open.spotify.com/track/3WhQJVHA1ilGCE6x2HYdS4"
@@ -1161,7 +1237,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 258085,
       "name": "Malo tu corazon",
       "url": "https://open.spotify.com/track/4s5AbfnGmq1oRB4cTrR41M"
@@ -1334,6 +1410,24 @@
     },
     {
       "album": {
+        "name": "Per\u00fa: Damas del Criollismo",
+        "url": "https://open.spotify.com/album/4f13Xa1Nsoqm8zlDOazZtC"
+      },
+      "artists": [
+        {
+          "name": "Susana Baca",
+          "url": "https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 256133,
+      "name": "Negra Presuntuosa",
+      "url": "https://open.spotify.com/track/044m10YZ8eytdwFP2IMBXo"
+    },
+    {
+      "album": {
         "name": "Susana Baca",
         "url": "https://open.spotify.com/album/745bovopinCyeNzU9uCLbG"
       },
@@ -1399,7 +1493,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 272527,
       "name": "Nunca Es Suficiente",
       "url": "https://open.spotify.com/track/0KFJIvtAx5VfrHPcIDV5as"
@@ -1417,7 +1511,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 272527,
       "name": "Nunca Es Suficiente",
       "url": "https://open.spotify.com/track/5bNZVcZIPFX9eyeCzsjEUz"
@@ -1565,7 +1659,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 92678,
       "name": "Parece Que Ya No",
       "url": "https://open.spotify.com/track/0kjSIstqwUuMLNbQIb5sTV"
@@ -1876,6 +1970,24 @@
     },
     {
       "album": {
+        "name": "Solterona",
+        "url": "https://open.spotify.com/album/6uVqxMvijsXhcNXqtuCiv4"
+      },
+      "artists": [
+        {
+          "name": "Luz Pinos",
+          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179856,
+      "name": "Solterona",
+      "url": "https://open.spotify.com/track/7wqZ2hFlSkZMzmAY8fJeXJ"
+    },
+    {
+      "album": {
         "name": "So\u00f1\u00e9 Que Te Perd\u00eda",
         "url": "https://open.spotify.com/album/45zhh8r9YUGApMnt6c6Yco"
       },
@@ -1959,7 +2071,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 202177,
       "name": "Tears at Bae",
       "url": "https://open.spotify.com/track/6pENXPucJChxJiDRnww8ds"
@@ -2017,6 +2129,28 @@
       "duration_ms": 146290,
       "name": "Tiempo",
       "url": "https://open.spotify.com/track/1nsiPGzcLFP9upVrzleLRW"
+    },
+    {
+      "album": {
+        "name": "Todo Se Mantiene en Su Lugar",
+        "url": "https://open.spotify.com/album/29CXlnmN2XPtAGBMb2nGT0"
+      },
+      "artists": [
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        },
+        {
+          "name": "Delaporte",
+          "url": "https://open.spotify.com/artist/1GDip5phlxYzeZ36vnf9kJ"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168215,
+      "name": "Todo Se Mantiene en Su Lugar",
+      "url": "https://open.spotify.com/track/1heE3OvlSL96SdP1RfaSaR"
     },
     {
       "album": {

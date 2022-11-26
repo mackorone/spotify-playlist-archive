@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Enjoy the wonderful holiday season with K-Pop! Here's a collection of Korean Christmas tunes by K-Pop artists.",
+  "description": "Enjoy the wonderful holiday season with K-Pop! Here's a collection of Korean Christmas tunes by K-Pop artists. (Cover: IVE)",
   "name": "Christmas K-Pop",
   "published_playlist_ids": [
     "1yyhOjEH9QwfpQn9ZYLpRJ"
@@ -59,10 +59,28 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-05",
+      "date_removed": null,
       "duration_ms": 200267,
       "name": "A Slippery Christmas (Feat. Chan)",
       "url": "https://open.spotify.com/track/06m4f8pAOZbrPSw54xDYPj"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles - Holiday",
+        "url": "https://open.spotify.com/album/6LNdcxlSXwXv2UFKQ3pvMk"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172400,
+      "name": "After LIKE - Holiday Remix",
+      "url": "https://open.spotify.com/track/7DMsSbvw9BOp4BpxraTtNX"
     },
     {
       "album": {
@@ -211,7 +229,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": "2022-11-20",
       "duration_ms": 236946,
       "name": "Best Christmas Ever",
       "url": "https://open.spotify.com/track/6hDPNRduaE4doDCFpOOVGf"
@@ -691,7 +709,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 188833,
       "name": "Fa La La",
       "url": "https://open.spotify.com/track/1MxfYcDldrmqS0ppZ1SyBd"
@@ -845,7 +863,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 324964,
       "name": "For The Reason That it's Christmas (\ud06c\ub9ac\uc2a4\ub9c8\uc2a4\ub77c\ub294 \uc774\uc720)",
       "url": "https://open.spotify.com/track/3ZFQIKZwvk7SnnUWARrGyi"
@@ -903,7 +921,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 143977,
       "name": "Good Night",
       "url": "https://open.spotify.com/track/1969eDqAJwlhdu4ChKLgqG"
@@ -1024,6 +1042,24 @@
     },
     {
       "album": {
+        "name": "Hi, Merry Christmas",
+        "url": "https://open.spotify.com/album/1Wmt7jNUbKjkLAyWItTLUl"
+      },
+      "artists": [
+        {
+          "name": "byebyesea",
+          "url": "https://open.spotify.com/artist/6riFTYc983NGqLzQBW3UZK"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 204336,
+      "name": "Hi, Merry Christmas",
+      "url": "https://open.spotify.com/track/1qagMwFdymsQ3JS2tSTz9w"
+    },
+    {
+      "album": {
         "name": "KIM TAE WOO with Friends",
         "url": "https://open.spotify.com/album/0fj62kxyGEzyB1xYVNvaef"
       },
@@ -1039,7 +1075,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 193701,
       "name": "Home Alone",
       "url": "https://open.spotify.com/track/4QfmlkwbaWuZrsN8FZ0If3"
@@ -1547,7 +1583,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-10",
+      "date_removed": null,
       "duration_ms": 265296,
       "name": "Merry Christmas (Feat. Sun Ahn, Kate Kim)",
       "url": "https://open.spotify.com/track/2lvtjJ7cAEL9yLrFto2Aal"
@@ -1717,6 +1753,28 @@
       "duration_ms": 199266,
       "name": "Mr. Santa",
       "url": "https://open.spotify.com/track/5sKVq8eZao43FmumueYClP"
+    },
+    {
+      "album": {
+        "name": "Peppermint Tea",
+        "url": "https://open.spotify.com/album/4KIcPdqYeP6PIvzGvJGcVZ"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
+        },
+        {
+          "name": "Sam Ock",
+          "url": "https://open.spotify.com/artist/0823FxAYBXOeMTOWPeH9HH"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211933,
+      "name": "Mr. Snowman",
+      "url": "https://open.spotify.com/track/1Bo4rmJ5bFUcq03tjJY98H"
     },
     {
       "album": {
@@ -2113,6 +2171,44 @@
     {
       "album": {
         "name": "2016 United Cube Project Part 1",
+        "url": "https://open.spotify.com/album/1AUL3Llf8BPOs385tPSVla"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        },
+        {
+          "name": "ABLE",
+          "url": "https://open.spotify.com/artist/0Y669kGV5Gru5RaumXTxtV"
+        },
+        {
+          "name": "BTOB",
+          "url": "https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ"
+        },
+        {
+          "name": "Roh Ji Hoon",
+          "url": "https://open.spotify.com/artist/1prPVJQczG7kTTKCHFE2Rw"
+        },
+        {
+          "name": "CLC",
+          "url": "https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO"
+        },
+        {
+          "name": "PENTAGON",
+          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228508,
+      "name": "Special Christmas",
+      "url": "https://open.spotify.com/track/4mu8VqXQ8RDTvKIm3tqrTw"
+    },
+    {
+      "album": {
+        "name": "2016 United Cube Project Part 1",
         "url": "https://open.spotify.com/album/59VT7LnvloNMCvPH5scLOz"
       },
       "artists": [
@@ -2147,44 +2243,6 @@
       "duration_ms": 228508,
       "name": "Special Christmas",
       "url": "https://open.spotify.com/track/4qQ9W8npEcg3uHyzxc8wRm"
-    },
-    {
-      "album": {
-        "name": "2016 United Cube Project Part 1",
-        "url": "https://open.spotify.com/album/1AUL3Llf8BPOs385tPSVla"
-      },
-      "artists": [
-        {
-          "name": "HyunA",
-          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
-        },
-        {
-          "name": "Jang Hyun Seung",
-          "url": "https://open.spotify.com/artist/0Y669kGV5Gru5RaumXTxtV"
-        },
-        {
-          "name": "BTOB",
-          "url": "https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ"
-        },
-        {
-          "name": "Roh Ji Hoon",
-          "url": "https://open.spotify.com/artist/1prPVJQczG7kTTKCHFE2Rw"
-        },
-        {
-          "name": "CLC",
-          "url": "https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO"
-        },
-        {
-          "name": "PENTAGON",
-          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
-        }
-      ],
-      "date_added": "2021-12-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 228508,
-      "name": "Special Christmas",
-      "url": "https://open.spotify.com/track/4mu8VqXQ8RDTvKIm3tqrTw"
     },
     {
       "album": {
@@ -2275,7 +2333,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 207036,
       "name": "The First Noel + Oh Holy Night",
       "url": "https://open.spotify.com/track/0ZZk4Jkdp1Zb98dZ1fyQKQ"
@@ -2591,7 +2649,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-04",
+      "date_removed": "2022-10-29",
       "duration_ms": 212352,
       "name": "White Blanket (feat. Gilgu Bongu)",
       "url": "https://open.spotify.com/track/7GXU0kLoZmYq1fFoDfxGtm"
@@ -2831,7 +2889,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 230108,
       "name": "You Are My Christmas",
       "url": "https://open.spotify.com/track/4YcDY2jcAbfW647AJEcskA"

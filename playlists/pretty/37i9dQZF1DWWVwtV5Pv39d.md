@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVwtV5Pv39d.md) - [plain]
 
 > Songs to help your kids establish a productive daily routine, from waking up and brushing their teeth to potty training, cleaning up, taking a bath, and getting to sleep at night!
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,640 likes - 65 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,125 likes - 65 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVwtV5Pv39d.md) - [plain]
 | 29 | [Sharing Is Caring](https://open.spotify.com/track/5GcXj0rDWSlLQIPktW5ADB) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Welcome to Diver City](https://open.spotify.com/album/60gI1kcOLfTGBUBftJXnfJ) | 1:31 |
 | 30 | [Healthy Food](https://open.spotify.com/track/72v8hMTVwRZYkiHpvqONAv) | [Cookie Monster](https://open.spotify.com/artist/0KUfoAHP20vQHuDhiEAa8r) | [Sesame Street: Sesame Road, Vol\. 1](https://open.spotify.com/album/7JQELJJIIFEjJamSQpQrRE) | 2:52 |
 | 31 | [Try a New Food, It Might Taste Good!](https://open.spotify.com/track/2f6XgxjybNg1sz8haqiBaf) | [Daniel Tiger’s Neighborhood](https://open.spotify.com/artist/0T91UD2v3byVXh8aSP8oHG) | [Daniel Tiger's Neighborhood: Life's Little Lessons](https://open.spotify.com/album/4inXPDlLGoSV1DdxEIc4Vq) | 1:02 |
-| 32 | [Time for Lunch!](https://open.spotify.com/track/12mk07K4k0nPOwne3URsN9) | [Bubble Guppies Cast](https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99) | [Bubble Guppies Bubble Bops!](https://open.spotify.com/album/7b6l4ldOcy0FtFkI3pAgLF) | 0:18 |
+| 32 | [Time for Lunch!](https://open.spotify.com/track/2bbWvWAjA8Kdumm92D4Fdc) | [Bubble Guppies Cast](https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99) | [Bubble Guppies Bubble Bops!](https://open.spotify.com/album/0u9yhBGC9a8wyNUDilI0QT) | 0:18 |
 | 33 | [Golden Slumbers II](https://open.spotify.com/track/7xV9CP3wzZEm5xDvheoLtI) | [Big Bird](https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE), [Sesame Street's Olivia](https://open.spotify.com/artist/5rYht0MbgC4BBWy5sMxeGr) | [Sesame Street: Sleepytime Bird](https://open.spotify.com/album/31dSAA4skFKZC6nz1wqStv) | 2:53 |
 | 34 | [Eat Every Bean and Pea On Your Plate](https://open.spotify.com/track/35VWkcDXuptVfuMCP8B1xy) | [Daddy A Go Go](https://open.spotify.com/artist/2Is133tsib9BqI1564cX1H) | [Eat Every Bean and Pea On Your Plate](https://open.spotify.com/album/6TO9Na7oOfWU2oXkYawv7O) | 2:40 |
 | 35 | [Listening Game](https://open.spotify.com/track/2mY8DgcfGh1dh4DiWcd75Y) | [Bert & Ernie](https://open.spotify.com/artist/6Loe8q8jlgEarCXh0C4ceE), [Cookie Monster](https://open.spotify.com/artist/0KUfoAHP20vQHuDhiEAa8r) | [Sesame Street: Ernie's Hits](https://open.spotify.com/album/7HqK03LXtk738EUrlbaHqg) | 2:54 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVwtV5Pv39d.md) - [plain]
 | 64 | [Tomorrow](https://open.spotify.com/track/47eBlcqP5J3hb841xRNz9R) | [Mister Rogers](https://open.spotify.com/artist/6xC5Ps0Iv2UP4mYJv3nBq4) | [It's Such a Good Feeling: The Best of Mister Rogers](https://open.spotify.com/album/76J9i1vh8XQSNg4yApRhwL) | 1:03 |
 | 65 | [Peppa's Lullaby](https://open.spotify.com/track/4SksREPSXHLL0QG4HLyBYD) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [My First Album](https://open.spotify.com/album/3A3N9hChYmsWPd3px8eF5u) | 2:46 |
 
-Snapshot ID: `MTY1NzI4MjY4MSwwMDAwMDAwMDc5MTI3MTYwY2Q1OWM5NjJmNmI0YTZjMzlkNmFkZDY1`
+Snapshot ID: `MTY1NzI4MjY4MSwwMDAwMDAwMDEyN2ZjM2E3NGNkNGEyZjc1NjU5NjRkNDhjODAzOGEw`

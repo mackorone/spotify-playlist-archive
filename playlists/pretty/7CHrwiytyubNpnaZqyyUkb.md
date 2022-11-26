@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7CHrwiytyubNpnaZqyyUkb.md) - [plain]
 
 > Rockabilly and old school rock & roll—the perfect soundtrack to a night of beer and burgers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,504 likes - 21 songs - 58 min 44 sec
+[Spotify](https://open.spotify.com/user/spotify) - 15,489 likes - 21 songs - 58 min 44 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

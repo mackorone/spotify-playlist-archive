@@ -4,7 +4,7 @@
 
 > Every Monbebe's HERO.
 
-124 songs - 6 hr 48 min - [published](https://open.spotify.com/playlist/6vpFFxpgEbjdsljT6vUDSQ)
+126 songs - 6 hr 55 min - [published](https://open.spotify.com/playlist/6vpFFxpgEbjdsljT6vUDSQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [No Reason](https://open.spotify.com/track/6zSXg2Ejji6GcwvjGTgK60) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Take.2 We Are Here.](https://open.spotify.com/album/2zLSiu6FFxav0kHP2mUUzM) | 3:24 | 2021-12-09 |  |
 | [Nobody Else](https://open.spotify.com/track/68qPGupXKOqzykZVJrWEpe) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Fatal Love](https://open.spotify.com/album/3x2BuKhzRIRjU4jm1WxFo3) | 3:02 | 2021-12-09 |  |
 | [Now or Never](https://open.spotify.com/track/5trVbkxq7o5UtqHWVTu5ro) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE CODE](https://open.spotify.com/album/4NJpBKY4XJbRLAsbbeIzyJ) | 3:11 | 2021-12-09 |  |
+| [nvrmnd](https://open.spotify.com/track/0xxtbKIRlFwQ8bZ16u7wJ4) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [SOULBYSEL Compilation 03](https://open.spotify.com/album/290gHiDTfO5EEP1j4VX7za) | 2:33 | 2022-11-21 |  |
 | [Oi](https://open.spotify.com/track/0zwI1aFLA85Ux0wM9vZjjY) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE CLAN pt.2.5 \[BEAUTIFUL\]](https://open.spotify.com/album/2QCHpaj2zkIhrghESZwPui) | 3:11 | 2021-12-09 |  |
 | [One Day](https://open.spotify.com/track/3VwhJRJyoaGiEAAzR0WyhI) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [One Day](https://open.spotify.com/album/5yGros4T4Mwwd1dE8UWpvZ) | 2:26 | 2021-12-09 |  |
 | [Party Time](https://open.spotify.com/track/2t9tdvke67nevmj0sGMqF0) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Take.2 We Are Here.](https://open.spotify.com/album/2zLSiu6FFxav0kHP2mUUzM) | 3:10 | 2021-12-09 |  |
@@ -104,6 +105,7 @@
 | [SOMEONE'S SOMEONE](https://open.spotify.com/track/6qEqNxAkfSEzNa8KdO5ewa) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [ALL ABOUT LUV \(Extended Version\)](https://open.spotify.com/album/064rnjNzpvTNDPGOmhFoyI) | 2:21 | 2021-12-09 |  |
 | [Sorry I'm Not Sorry](https://open.spotify.com/track/0SEy222w1gkxs6eJioH794) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Fatal Love](https://open.spotify.com/album/3x2BuKhzRIRjU4jm1WxFo3) | 3:27 | 2021-12-09 |  |
 | [SPOTLIGHT](https://open.spotify.com/track/3f50PPDmlxAduJaOTvsTfL) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [PIECE](https://open.spotify.com/album/25JXdPqltw5vOH8KPOzd2c) | 3:56 | 2021-12-09 |  |
+| [SPOTLIGHT](https://open.spotify.com/track/1VLJS6hjrzQHH8f1ciW2wF) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [SPOTLIGHT](https://open.spotify.com/album/3TesGv9z2jzsum7wAzF5fu) | 3:59 | 2022-08-09 | 2022-11-13 |
 | [SPOTLIGHT](https://open.spotify.com/track/6fMODL9vNyFi54ONiQLoXw) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [SPOTLIGHT](https://open.spotify.com/album/2EACxpJBI294N9hY6VQA6k) | 3:59 | 2021-12-09 | 2022-07-29 |
 | [Stand Up](https://open.spotify.com/track/19WLJ1GQY3IMXUOMvbcpDk) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [FANTASIA X](https://open.spotify.com/album/44BCatQBdneFkyzOVrR0M4) | 3:21 | 2021-12-09 |  |
 | [Steal Your Heart](https://open.spotify.com/track/1MJysUk6TYYFdGRdj61iug) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [TRESPASS](https://open.spotify.com/album/2G4ZHQd4z2hbiNWdxLKrsq) | 3:47 | 2021-12-09 |  |

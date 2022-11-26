@@ -1174,6 +1174,32 @@
     },
     {
       "album": {
+        "name": "NaNa",
+        "url": "https://open.spotify.com/album/17aFqVFuQsrnhSHMEE7rLE"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "AOMG",
+          "url": "https://open.spotify.com/artist/4jI1sm5mTNOWw6ea5Cmslp"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 204411,
+      "name": "NaNa",
+      "url": "https://open.spotify.com/track/14Nf9lOGkXAREMYbSzZv3e"
+    },
+    {
+      "album": {
         "name": "School Rapper4 Final",
         "url": "https://open.spotify.com/album/6Zw6ERPKHSEKN8PQafruGR"
       },
@@ -2145,6 +2171,28 @@
       "duration_ms": 227221,
       "name": "Tangled Up (feat. pH-1)",
       "url": "https://open.spotify.com/track/4JHbjHpTmqjdzDGJWWgACq"
+    },
+    {
+      "album": {
+        "name": "Tasty x Tasty",
+        "url": "https://open.spotify.com/album/0edv4ueAsyeQ7uYnIG6ddF"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169717,
+      "name": "Tasty x Tasty",
+      "url": "https://open.spotify.com/track/6ubzgznl4lqaCYV2kd7ewv"
     },
     {
       "album": {

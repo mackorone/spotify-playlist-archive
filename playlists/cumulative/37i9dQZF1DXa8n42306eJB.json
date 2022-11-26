@@ -106,6 +106,24 @@
     },
     {
       "album": {
+        "name": "Crazy Little Village",
+        "url": "https://open.spotify.com/album/2E2ualHb7RU1j7aLqTQTA5"
+      },
+      "artists": [
+        {
+          "name": "Joe Samba",
+          "url": "https://open.spotify.com/artist/4edOA7e3jDgmddqyrb93DJ"
+        }
+      ],
+      "date_added": "2022-08-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 196306,
+      "name": "Beef",
+      "url": "https://open.spotify.com/track/6hV9qdhHg8HXGhkEUSaHAD"
+    },
+    {
+      "album": {
         "name": "Burdens Heavy",
         "url": "https://open.spotify.com/album/0wsuaqOpcNw7ac7DwWFH1t"
       },
@@ -331,10 +349,28 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 210050,
       "name": "Down With You",
       "url": "https://open.spotify.com/track/47Axm1bTbEbOvkXpzOv5ZQ"
+    },
+    {
+      "album": {
+        "name": "Down With You - Single",
+        "url": "https://open.spotify.com/album/3cSpydfTHQ3t8JXFFPTxaJ"
+      },
+      "artists": [
+        {
+          "name": "Katchafire",
+          "url": "https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa"
+        }
+      ],
+      "date_added": "2022-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210050,
+      "name": "Down With You",
+      "url": "https://open.spotify.com/track/4hd7l6rGzpqVL4PwHRamrA"
     },
     {
       "album": {
@@ -371,6 +407,24 @@
       "duration_ms": 172000,
       "name": "Duduke",
       "url": "https://open.spotify.com/track/2rcH25kgOyS0cQbtiMkhQw"
+    },
+    {
+      "album": {
+        "name": "To Be Honest Tour",
+        "url": "https://open.spotify.com/album/1GEaHcKNp2obE9fusfaaoR"
+      },
+      "artists": [
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        }
+      ],
+      "date_added": "2022-08-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 172039,
+      "name": "Duduke",
+      "url": "https://open.spotify.com/track/0MardG1WRPku1zcG7X2fBf"
     },
     {
       "album": {
@@ -698,6 +752,24 @@
     },
     {
       "album": {
+        "name": "In The Air",
+        "url": "https://open.spotify.com/album/22zzg2utRkL1lzI4eqBU4F"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "date_added": "2022-08-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 252680,
+      "name": "In the Air",
+      "url": "https://open.spotify.com/track/3C9anTHvsJrenLNTq7UXvk"
+    },
+    {
+      "album": {
         "name": "L.A.B III",
         "url": "https://open.spotify.com/album/5FkhVnR6DLz7ARqioHUwpc"
       },
@@ -917,6 +989,28 @@
       "duration_ms": 223050,
       "name": "Lonely Days",
       "url": "https://open.spotify.com/track/51ejWDUN9Cgk5OTiBzTAwT"
+    },
+    {
+      "album": {
+        "name": "Lonely Days",
+        "url": "https://open.spotify.com/album/3EO87q6YeR522w0C2qaVt4"
+      },
+      "artists": [
+        {
+          "name": "Fiji",
+          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
+        },
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "date_added": "2022-08-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 223050,
+      "name": "Lonely Days",
+      "url": "https://open.spotify.com/track/5GtGB0PGGApp4SR67OEXUy"
     },
     {
       "album": {
@@ -1523,6 +1617,28 @@
     {
       "album": {
         "name": "Something To Believe In",
+        "url": "https://open.spotify.com/album/0vZ52duMCADKJjjOPCA0QO"
+      },
+      "artists": [
+        {
+          "name": "SOJA",
+          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
+        },
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "date_added": "2022-08-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 208019,
+      "name": "Something To Believe In",
+      "url": "https://open.spotify.com/track/0UHYr05v9I6rljiBfeZP1F"
+    },
+    {
+      "album": {
+        "name": "Something To Believe In",
         "url": "https://open.spotify.com/album/67sulKuGrHcgUHLY2OIG8y"
       },
       "artists": [
@@ -1629,6 +1745,28 @@
       "duration_ms": 204293,
       "name": "Souljah Feeling",
       "url": "https://open.spotify.com/track/4dja4sisHZNee32Co0udGl"
+    },
+    {
+      "album": {
+        "name": "Souljah Feeling",
+        "url": "https://open.spotify.com/album/0WgGhK1pnvqY0aYMFNadfb"
+      },
+      "artists": [
+        {
+          "name": "Tomorrow People",
+          "url": "https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY"
+        },
+        {
+          "name": "Chad Chambers",
+          "url": "https://open.spotify.com/artist/3afbPu5x8f61qABONqINA3"
+        }
+      ],
+      "date_added": "2022-08-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 204293,
+      "name": "Souljah Feeling",
+      "url": "https://open.spotify.com/track/6a02ROqHY3D2DZuBDaVtio"
     },
     {
       "album": {

@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "6am",
+        "url": "https://open.spotify.com/album/2pyGNsIfsvhBLb2GrQ9Orm"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221748,
+      "name": "6am",
+      "url": "https://open.spotify.com/track/1lx452Y4CLMvIois88vwBr"
+    },
+    {
+      "album": {
         "name": "97 Bop",
         "url": "https://open.spotify.com/album/4vtnejKQkMPFpWDggqDOu7"
       },
@@ -781,8 +799,8 @@
       },
       "artists": [
         {
-          "name": "1010 Benja SL",
-          "url": "https://open.spotify.com/artist/7xBrMNV9UKo2THKIk9xpBK"
+          "name": "1010benja",
+          "url": "https://open.spotify.com/artist/2fCAUhX6Hkzo3LxD9NwOPa"
         }
       ],
       "date_added": "2022-06-03",
@@ -791,6 +809,24 @@
       "duration_ms": 190641,
       "name": "Dobby 21",
       "url": "https://open.spotify.com/track/5vfoUjrdaLTQHGbLbcl5lx"
+    },
+    {
+      "album": {
+        "name": "Don't Play That Song",
+        "url": "https://open.spotify.com/album/3bLAXYwCPRW9xSk91gCgOY"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214773,
+      "name": "Don't Play That Song",
+      "url": "https://open.spotify.com/track/2oedUBDUmEwbmNnC2HJJn8"
     },
     {
       "album": {
@@ -884,6 +920,24 @@
     },
     {
       "album": {
+        "name": "EDGING",
+        "url": "https://open.spotify.com/album/0EspGdWdoWAxa5mBdQ5z55"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151533,
+      "name": "EDGING",
+      "url": "https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ"
+    },
+    {
+      "album": {
         "name": "De Menor a Mayor",
         "url": "https://open.spotify.com/album/2e2SQ7KNvfX4B5MinwH4Cs"
       },
@@ -947,6 +1001,24 @@
       "duration_ms": 145700,
       "name": "Excuses",
       "url": "https://open.spotify.com/track/6Gl9htJmNmnugLygZo15QF"
+    },
+    {
+      "album": {
+        "name": "Eyes On You",
+        "url": "https://open.spotify.com/album/2vwW8EzZGZaAFfZ2HYL1hE"
+      },
+      "artists": [
+        {
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177371,
+      "name": "Eyes On You",
+      "url": "https://open.spotify.com/track/6qItx3M2IZbXBKRnptbnHM"
     },
     {
       "album": {
@@ -1058,6 +1130,28 @@
     },
     {
       "album": {
+        "name": "Forever in Your Arms",
+        "url": "https://open.spotify.com/album/7hiVweoZuW8LMh8sfH9fHV"
+      },
+      "artists": [
+        {
+          "name": "AVIGA",
+          "url": "https://open.spotify.com/artist/1JZsObLDi3gwXhcjxpvrr5"
+        },
+        {
+          "name": "BR\u00d8WNS",
+          "url": "https://open.spotify.com/artist/3R7Y3zN4MT8MQMbyZLDjYx"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165120,
+      "name": "Forever in Your Arms",
+      "url": "https://open.spotify.com/track/4fytEaLJpb67c6iq1xUG8e"
+    },
+    {
+      "album": {
         "name": "Full Time Job",
         "url": "https://open.spotify.com/album/1SQYguMhUSyRkk6BM2rxJn"
       },
@@ -1091,6 +1185,24 @@
       "duration_ms": 334186,
       "name": "Get Outta My Dreams, Get into My Car",
       "url": "https://open.spotify.com/track/0pBhA8yQ5FUKyQG13x2Qmh"
+    },
+    {
+      "album": {
+        "name": "Ghostbusters (Original Motion Picture Soundtrack) [2016]",
+        "url": "https://open.spotify.com/album/0epcJ1L57tp3SF30aKyeWa"
+      },
+      "artists": [
+        {
+          "name": "Ray Parker Jr.",
+          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-02",
+      "duration_ms": 245253,
+      "name": "Ghostbusters",
+      "url": "https://open.spotify.com/track/3m0y8qLoznUYi73SUBP8GI"
     },
     {
       "album": {
@@ -1616,6 +1728,24 @@
     },
     {
       "album": {
+        "name": "Is It Any Wonder",
+        "url": "https://open.spotify.com/album/2OKbjkDsLgJXfAdOBCz8P0"
+      },
+      "artists": [
+        {
+          "name": "Flawes",
+          "url": "https://open.spotify.com/artist/2x0Fa6Dl3L2EPG9Ie3OQWZ"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178733,
+      "name": "Is It Any Wonder",
+      "url": "https://open.spotify.com/track/65QBQE5Gb4OAIRZ4VHhl4f"
+    },
+    {
+      "album": {
         "name": "It Never Rains In Southern California",
         "url": "https://open.spotify.com/album/0gdQF4mVBPjv5hhjtoe3hM"
       },
@@ -1796,6 +1926,24 @@
     },
     {
       "album": {
+        "name": "Los del Vacile",
+        "url": "https://open.spotify.com/album/56E7fOtgpDD6FoMm5qtN3Z"
+      },
+      "artists": [
+        {
+          "name": "ChocQuibTown",
+          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213285,
+      "name": "Los del Vacile",
+      "url": "https://open.spotify.com/track/6zRfU66M8zO2pzXAo30cS9"
+    },
+    {
+      "album": {
         "name": "Love Me Now (feat. Zoe Wees)",
         "url": "https://open.spotify.com/album/0GzKBZSFdg6H5ZlYJ6RgCo"
       },
@@ -1908,6 +2056,46 @@
     },
     {
       "album": {
+        "name": "Me Encantar\u00eda",
+        "url": "https://open.spotify.com/album/6fnWWfMSRAztQvuJTAfmlw"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177328,
+      "name": "Me Encantar\u00eda",
+      "url": "https://open.spotify.com/track/1APLK79zZo67ny370NLO4F"
+    },
+    {
+      "album": {
+        "name": "Mine",
+        "url": "https://open.spotify.com/album/759xTRwjc0HF1m64zkRm0L"
+      },
+      "artists": [
+        {
+          "name": "Powfu",
+          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194259,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/1FYbKJI9kRofsRgOVYciic"
+    },
+    {
+      "album": {
         "name": "The 20/20 Experience (Deluxe Version)",
         "url": "https://open.spotify.com/album/0O82niJ0NpcptYRxogeEZu"
       },
@@ -2010,6 +2198,42 @@
     },
     {
       "album": {
+        "name": "Never Gonna Not Dance Again",
+        "url": "https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225789,
+      "name": "Never Gonna Not Dance Again",
+      "url": "https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0"
+    },
+    {
+      "album": {
+        "name": "Nightshift",
+        "url": "https://open.spotify.com/album/5H9p3AIho3KHIrvr8EbKIc"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296906,
+      "name": "Nightshift",
+      "url": "https://open.spotify.com/track/5f25QtKgXtaNcbZOCmVFUL"
+    },
+    {
+      "album": {
         "name": "Not Giving You Up",
         "url": "https://open.spotify.com/album/08LqESIqk21nFUdAJczMUK"
       },
@@ -2046,6 +2270,32 @@
     },
     {
       "album": {
+        "name": "Ojal\u00e1",
+        "url": "https://open.spotify.com/album/00XhrF5bpFfMJ0tT85DkTY"
+      },
+      "artists": [
+        {
+          "name": "The Rudeboyz",
+          "url": "https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Adam Levine",
+          "url": "https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189080,
+      "name": "Ojal\u00e1",
+      "url": "https://open.spotify.com/track/4dLIAE3xbJLoiIBbKkZWJk"
+    },
+    {
+      "album": {
         "name": "On Top",
         "url": "https://open.spotify.com/album/3tagPi6IgnB2UihDeO4Eot"
       },
@@ -2061,6 +2311,28 @@
       "duration_ms": 195825,
       "name": "On Top",
       "url": "https://open.spotify.com/track/1P3w91ud5pF4JO80730Mra"
+    },
+    {
+      "album": {
+        "name": "Over The Rainbow",
+        "url": "https://open.spotify.com/album/1mbDWv0L2Nlwd9T4h4sLxr"
+      },
+      "artists": [
+        {
+          "name": "Lotus Blue",
+          "url": "https://open.spotify.com/artist/5vIpTlpycbPrgO3WQenRPk"
+        },
+        {
+          "name": "Campsite Dream",
+          "url": "https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92400,
+      "name": "Over The Rainbow",
+      "url": "https://open.spotify.com/track/0AmJF6MlRCMzocgR92sfKh"
     },
     {
       "album": {
@@ -2184,6 +2456,24 @@
     },
     {
       "album": {
+        "name": "Psycho B**ch",
+        "url": "https://open.spotify.com/album/1QLjJQvFwXCIbfOvJVez4u"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167360,
+      "name": "Psycho B**ch",
+      "url": "https://open.spotify.com/track/1aRcazIFzvRrybZXVdFT1M"
+    },
+    {
+      "album": {
         "name": "Puffer",
         "url": "https://open.spotify.com/album/0YmzktvGgOcjZCYjSdcG6n"
       },
@@ -2261,6 +2551,24 @@
       "duration_ms": 220648,
       "name": "Remind Me - Luca Schreiner Remix",
       "url": "https://open.spotify.com/track/072KYf7DhC2wXSqJY3kdJE"
+    },
+    {
+      "album": {
+        "name": "ROLLIN DICE",
+        "url": "https://open.spotify.com/album/3nRxmVSbUJuvpZ0vQEeoXT"
+      },
+      "artists": [
+        {
+          "name": "Gabe James",
+          "url": "https://open.spotify.com/artist/7FQLTeXHh1ckany6jXXcKj"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185628,
+      "name": "ROLLIN DICE",
+      "url": "https://open.spotify.com/track/2CQU7ZryOFVcFUVFMXCL3C"
     },
     {
       "album": {
@@ -2528,6 +2836,28 @@
     },
     {
       "album": {
+        "name": "Surefire (Gus alt-j Remix)",
+        "url": "https://open.spotify.com/album/4Tg1YeHrSMEUVsGiYfkSm3"
+      },
+      "artists": [
+        {
+          "name": "Wilderado",
+          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
+        },
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233620,
+      "name": "Surefire - Gus alt-j Remix",
+      "url": "https://open.spotify.com/track/6neF3KiuooS7xcTtj18PRL"
+    },
+    {
+      "album": {
         "name": "From Elvis in Memphis",
         "url": "https://open.spotify.com/album/3ekkFrfotMsEAKc5g71GHk"
       },
@@ -2750,6 +3080,24 @@
     },
     {
       "album": {
+        "name": "Only the Strong Survive",
+        "url": "https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187400,
+      "name": "Turn Back the Hands of Time",
+      "url": "https://open.spotify.com/track/1UqC0kvyqK0pk7f9MdjBZa"
+    },
+    {
+      "album": {
         "name": "Turn the Radio Up",
         "url": "https://open.spotify.com/album/4Ok4zpUyKd6vCaqa5D5vTJ"
       },
@@ -2862,6 +3210,24 @@
     },
     {
       "album": {
+        "name": "Viaje",
+        "url": "https://open.spotify.com/album/2Bm9LtZ5cQoxNmrHhqQtjO"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303626,
+      "name": "Viaje",
+      "url": "https://open.spotify.com/track/5b1je14Oz92lpIlIMLieWw"
+    },
+    {
+      "album": {
         "name": "Make It Big",
         "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
       },
@@ -2960,6 +3326,24 @@
     },
     {
       "album": {
+        "name": "Wasteland, Baby!",
+        "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268293,
+      "name": "Would That I",
+      "url": "https://open.spotify.com/track/37zuIvk4KBkAxxLJsxJaHq"
+    },
+    {
+      "album": {
         "name": "Pete Tong + Friends: Ibiza Classics",
         "url": "https://open.spotify.com/album/6t9MecARSZoPZScE7kk3sP"
       },
@@ -3023,6 +3407,28 @@
       "duration_ms": 238573,
       "name": "Young and Stupid",
       "url": "https://open.spotify.com/track/07Eq4v5xtaWJ8l4X2qzSiB"
+    },
+    {
+      "album": {
+        "name": "\u00c9xtasis",
+        "url": "https://open.spotify.com/album/3pfyjuT8pPM0i9K3i7n451"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191606,
+      "name": "\u00c9xtasis",
+      "url": "https://open.spotify.com/track/2X8AGLwb9F0JzJ9zT27a22"
     }
   ],
   "url": "https://open.spotify.com/playlist/1h90L3LP8kAJ7KGjCV2Xfd"

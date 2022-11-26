@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Finest collection of Tamil Music from the past 5 years\nCover : Vendhu Thanindhathu Kaadu",
+  "description": "Finest collection of Tamil Music from the past 10 years\nCover : Varisu",
   "name": "Kollywood Cream",
   "published_playlist_ids": [
     "69GF5UsinX4QRifDXRVvJk"
@@ -123,7 +123,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 314207,
       "name": "Alaikadal",
       "url": "https://open.spotify.com/track/7kcMEKsmqgfq68gSQk6F9c"
@@ -373,6 +373,28 @@
       "duration_ms": 219638,
       "name": "Chola Chola",
       "url": "https://open.spotify.com/track/27nzJVsvXqXyeMIcVxvB54"
+    },
+    {
+      "album": {
+        "name": "Ponniyin Selvan Part-1 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6efDS3Pp3DUkDnr5XgPyMN"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Yogi Sekar",
+          "url": "https://open.spotify.com/artist/4n32jWbOVtfNDsOJAGQJcs"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273228,
+      "name": "Devaralan Aattam",
+      "url": "https://open.spotify.com/track/1O5AqyUHm8vH8XGr173ugY"
     },
     {
       "album": {
@@ -1283,7 +1305,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 288360,
       "name": "Naan Un",
       "url": "https://open.spotify.com/track/41R1Bncj65x9B6zL1z5BCp"
@@ -1638,6 +1660,32 @@
     },
     {
       "album": {
+        "name": "Ranjithame (From \"Varisu\")",
+        "url": "https://open.spotify.com/album/6tspDejx5wSiwaF9ujyT7W"
+      },
+      "artists": [
+        {
+          "name": "Thalapathy Vijay",
+          "url": "https://open.spotify.com/artist/0fhunuOz2OuOEr3YK5ctSm"
+        },
+        {
+          "name": "M. M. Manasi",
+          "url": "https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS"
+        },
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287080,
+      "name": "Ranjithame (From \"Varisu\")",
+      "url": "https://open.spotify.com/track/1LbBOhicFmu7ktJqIHCELt"
+    },
+    {
+      "album": {
         "name": "Ponniyin Selvan Part-1 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6efDS3Pp3DUkDnr5XgPyMN"
       },
@@ -1895,7 +1943,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 134204,
       "name": "Sol",
       "url": "https://open.spotify.com/track/5g1i02FYQMmVj4L17Gis1C"

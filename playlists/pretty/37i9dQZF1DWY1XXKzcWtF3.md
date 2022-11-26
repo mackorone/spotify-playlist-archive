@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1XXKzcWtF3.md) - [plain]
 
 > NYC DJ, The Loft founder, and Dance legend David Mancuso passed on Nov 14 2016\. This is a Tommie Sunshine, Spotify & Billboard Dance tribute\. Without Mancuso there would be no Rave scene, no House Music, no festival culture\. His legacy is vast; these are merely some of the classics born of The Loft.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,751 likes - 205 songs - 21 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,776 likes - 205 songs - 21 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,7 +123,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1XXKzcWtF3.md) - [plain]
 | 113 | [Right Place Wrong Time](https://open.spotify.com/track/0I2ELF6uHlL4ABu9aFiou7) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [In The Right Place](https://open.spotify.com/album/1b1ljTXAkcugOLAHkIi7Eq) | 2:55 |
 | 114 | [Get Ready For The Future](https://open.spotify.com/track/161HivEHoKDZLRay9vq0V2) | [Winners](https://open.spotify.com/artist/3scEQfzIzGOhTHvrJiTDlz) | [Horse Meat Disco 4](https://open.spotify.com/album/3he8qSCsXQA8Pb4x7bsyoD) | 5:24 |
 | 115 | [Get Ready For The Future](https://open.spotify.com/track/161HivEHoKDZLRay9vq0V2) | [Winners](https://open.spotify.com/artist/3scEQfzIzGOhTHvrJiTDlz) | [Horse Meat Disco 4](https://open.spotify.com/album/3he8qSCsXQA8Pb4x7bsyoD) | 5:24 |
-| 116 | [House Party](https://open.spotify.com/track/0DF2L5iogeTm9DReWLoipE) | [Fred Wesley](https://open.spotify.com/artist/2uE66NiUti6Wpz90SD4eam) | [House Party](https://open.spotify.com/album/0wvlGEplbeBVZjUHcnAG4R) | 4:14 |
+| 116 | [House Party](https://open.spotify.com/track/0VOju61QyRh81rhSLU54Ei) | [Fred Wesley](https://open.spotify.com/artist/2uE66NiUti6Wpz90SD4eam) | [House Party](https://open.spotify.com/album/65cw42lHSDzEIQ15eQXhw7) | 4:14 |
 | 117 | [Yearning For Your Love](https://open.spotify.com/track/5qM925z83TMCtj6h0qooVi) | [The Gap Band](https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp) | [Gap Band 3](https://open.spotify.com/album/69RvzqJsKHqhk3m3VYLZs0) | 5:43 |
 | 118 | [Brothers On The Slide](https://open.spotify.com/track/62wrJlpV0vLr3WuVYI2NS3) | [Cymande](https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG) | [Promised Heights](https://open.spotify.com/album/1zKuUk9qQqDIDzWm1Dc39e) | 4:11 |
 | 119 | [A Little Piano](https://open.spotify.com/track/4EBDMd4CdK1lFFfGZnBgqG) | [Soft House Company](https://open.spotify.com/artist/16oDf3Ln1Kx7k352pDV1Le) | [What You Need/A Little Piano](https://open.spotify.com/album/1qJvj5PzmMV8FE3Om19EbC) | 6:02 |
@@ -176,7 +176,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1XXKzcWtF3.md) - [plain]
 | 166 | [Love Is the Message \(feat\. The Three Degrees\) \- 12\-inch version](https://open.spotify.com/track/3xGM1V2E9eLs4UMeCkh9CJ) | [MFSB](https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv), [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Deep Grooves](https://open.spotify.com/album/4YmLFWoRJ18TSlw7ROIPIf) | 11:29 |
 | 167 | [Let's Go Dancin' \- Club Version](https://open.spotify.com/track/43yxHK3DaChvrpqT1vj8hx) | [Sparque](https://open.spotify.com/artist/25LiU4YiiuJASC4ArAxO2b) | [Let's Go Dancin'](https://open.spotify.com/album/1C4EsnZ2ikoE3bprCfm6QB) | 8:15 |
 | 168 | [Living On the Frontline](https://open.spotify.com/track/2Am31XJcmrDcFjyTfbXfA2) | [Eddy Grant](https://open.spotify.com/artist/6j2HWcd7z61iTLbi8eD0hA) | [The Definitive Eddy Grant](https://open.spotify.com/album/4ZuFU7z4GVNUd4N2c2MdHV) | 5:57 |
-| 169 | [Notice Me \- Notice The House Mix](https://open.spotify.com/track/2ZQpUMzRcphvtJe9Ps8IIG) | [Sandee](https://open.spotify.com/artist/2bJ5SZdPOpF4knh9RoHHbe), [Notice The House](https://open.spotify.com/artist/5xx6qqIibONdFz1RfapJdG) | [Elaste Volume 4 \- compiled by Dompteur Mooner](https://open.spotify.com/album/0BPe2q1n4EfYAj0a0D0Y1k) | 8:28 |
+| 169 | [Notice Me \- Notice the House Mix](https://open.spotify.com/track/61WiXm5hvJmMptsWHld6jS) | [Sandee](https://open.spotify.com/artist/2bJ5SZdPOpF4knh9RoHHbe) | [Notice Me](https://open.spotify.com/album/0GllNXYm8mU7b4lqcZUCfs) | 8:29 |
 | 170 | [Equinox \- Heavenly Club Mix](https://open.spotify.com/track/4ggECLNYboqI9VkNFlI2O4) | [Code 718](https://open.spotify.com/artist/4kSrRAfjG8flVU9ITYpVkW) | [Equinox](https://open.spotify.com/album/2GpehkNVeBZOJBRFQdpVCP) | 10:24 |
 | 171 | [Stone To The Bone](https://open.spotify.com/track/4vlYqr4IxzIKNl718kxszR) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [The Payback](https://open.spotify.com/album/49vpRrUcAr2bj6aYQr0Cfl) | 10:14 |
 | 172 | [Life on Mars](https://open.spotify.com/track/7JuqNiRZcLsPqa33eMFwyP) | [Dexter Wansel](https://open.spotify.com/artist/7azp9wRyXcxIq5vZnJgYvt) | [Life on Mars](https://open.spotify.com/album/2AWYJNKdCCLaOPsAA96IC8) | 5:49 |
@@ -214,4 +214,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1XXKzcWtF3.md) - [plain]
 | 204 | [I Zimbra](https://open.spotify.com/track/7oyNN8YzrHBb08FCDCgrdS) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Bonus Rarities & Outtakes](https://open.spotify.com/album/3azmJJ3Ejy93PHyxE7Ps30) | 3:56 |
 | 205 | [My Peace of Heaven \- International Mix](https://open.spotify.com/track/0qAXmTUtBaQsdfUGvT4bIy) | [Ten City](https://open.spotify.com/artist/3DIaOWIVFxJdTYyEb9mXzi) | [My Peace of Heaven](https://open.spotify.com/album/7DrWQeOnroI91NwolZFivl) | 9:08 |
 
-Snapshot ID: `MTUzNzM5MTExMCwwMDAwMDAwMGY1Yjc3YzRiMjg0ZWE2ZmZhMmY5YjVmNzllNWY5MTdi`
+Snapshot ID: `MTUzNzM5MTExMCwwMDAwMDAwMGU2ZDZhNjA4M2JjOTg0MjYwYWRiMzQ0M2I2OWJkZjQ1`

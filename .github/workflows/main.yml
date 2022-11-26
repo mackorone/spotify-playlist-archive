@@ -18,7 +18,6 @@ jobs:
           # via git commands, which files changed in the most recent commit
           fetch-depth: 2
 
-
       - name: Set up Python
         uses: actions/setup-python@v3
         with:

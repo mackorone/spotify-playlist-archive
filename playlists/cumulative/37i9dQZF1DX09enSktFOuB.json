@@ -403,8 +403,8 @@
           "url": "https://open.spotify.com/artist/1eBHjBxiNA3gyEWEN7oRxM"
         },
         {
-          "name": "Andrea",
-          "url": "https://open.spotify.com/artist/3nbWUG0ygkhq62rEw3J1DH"
+          "name": "Andrea Jeremiah",
+          "url": "https://open.spotify.com/artist/5yoqPvofOHrBc3Z6VZyTsj"
         },
         {
           "name": "Krishna Iyer",
@@ -606,6 +606,24 @@
     },
     {
       "album": {
+        "name": "Prince (Tamil)",
+        "url": "https://open.spotify.com/album/2h2DzwCFBXkd121doiTZEp"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259600,
+      "name": "Jessica",
+      "url": "https://open.spotify.com/track/1BQGKaUYFQzD0Dsy0FfoeD"
+    },
+    {
+      "album": {
         "name": "Pattas",
         "url": "https://open.spotify.com/album/1qsm7UXvfm3vTGr1UFKaAH"
       },
@@ -743,7 +761,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": "2022-11-14",
       "duration_ms": 325000,
       "name": "Kannum Kannum",
       "url": "https://open.spotify.com/track/7IOkWa8L3wK3CX1JtcmyV6"
@@ -1236,6 +1254,32 @@
     },
     {
       "album": {
+        "name": "Ranjithame (From \"Varisu\")",
+        "url": "https://open.spotify.com/album/6tspDejx5wSiwaF9ujyT7W"
+      },
+      "artists": [
+        {
+          "name": "Thalapathy Vijay",
+          "url": "https://open.spotify.com/artist/0fhunuOz2OuOEr3YK5ctSm"
+        },
+        {
+          "name": "M. M. Manasi",
+          "url": "https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS"
+        },
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287080,
+      "name": "Ranjithame (From \"Varisu\")",
+      "url": "https://open.spotify.com/track/1LbBOhicFmu7ktJqIHCELt"
+    },
+    {
+      "album": {
         "name": "Rowdy Baby (From \"Maari 2\" Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6OtXwT06jhIGwJdSUHYFjY"
       },
@@ -1339,6 +1383,28 @@
       "duration_ms": 291002,
       "name": "Selfie Pulla (From \"Kaththi\")",
       "url": "https://open.spotify.com/track/2sFMEMDRDoqnc0dJWZzkK8"
+    },
+    {
+      "album": {
+        "name": "Shake A Leg",
+        "url": "https://open.spotify.com/album/5mZ3aP5dzJvuaOfbhmiVql"
+      },
+      "artists": [
+        {
+          "name": "Vijay",
+          "url": "https://open.spotify.com/artist/1eBHjBxiNA3gyEWEN7oRxM"
+        },
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 291002,
+      "name": "Selfie Pulla (From \"Kaththi\")",
+      "url": "https://open.spotify.com/track/37aau4GptEaXajO6dwt4RY"
     },
     {
       "album": {
@@ -1497,6 +1563,28 @@
       "duration_ms": 176345,
       "name": "Two Two Two",
       "url": "https://open.spotify.com/track/7mhJ08BCG6goQ8mPpk9TuZ"
+    },
+    {
+      "album": {
+        "name": "Vaathi",
+        "url": "https://open.spotify.com/album/5G0ShngTfASzTfVDOSOM5p"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Shweta Mohan",
+          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225380,
+      "name": "Vaa Vaathi",
+      "url": "https://open.spotify.com/track/0cgwdBXXlPfXJXWf3wMs32"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX09enSktFOuB"

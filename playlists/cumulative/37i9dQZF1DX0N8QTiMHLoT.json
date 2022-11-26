@@ -71,7 +71,7 @@
     {
       "album": {
         "name": "Alone",
-        "url": "https://open.spotify.com/album/3EOqo3Cdf0MnqWpDXtnpUH"
+        "url": "https://open.spotify.com/album/3n97LxQTiIk9QBZWdzZggl"
       },
       "artists": [
         {
@@ -82,6 +82,24 @@
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 259385,
+      "name": "Actualize",
+      "url": "https://open.spotify.com/track/1NENL1nGSuAnJhZz8xZd6N"
+    },
+    {
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/3EOqo3Cdf0MnqWpDXtnpUH"
+      },
+      "artists": [
+        {
+          "name": "Evan Brewer",
+          "url": "https://open.spotify.com/artist/5tYE3ViKxF5APISuBhET9y"
+        }
+      ],
+      "date_added": "2021-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-05",
       "duration_ms": 259386,
       "name": "Actualize",
       "url": "https://open.spotify.com/track/4V8MJ9W3DfxSWDTpmDXHD5"
@@ -517,7 +535,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 223895,
       "name": "F.U.NKWHY",
       "url": "https://open.spotify.com/track/08Xt9rwQXMqW2QF8ngLM8J"
@@ -753,7 +771,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 309839,
       "name": "Just Letting Go",
       "url": "https://open.spotify.com/track/0Y4SEMAHZpGp9UyTrMcVTW"
@@ -823,7 +841,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 330969,
       "name": "Letter for Paul (feat. Chris Potter, Jon Cowherd, Marcus Gilmore & Rogerio Boccato)",
       "url": "https://open.spotify.com/track/3stEH9HPia2bpfoZ6LhOaR"
@@ -1440,6 +1458,28 @@
     },
     {
       "album": {
+        "name": "The Seed",
+        "url": "https://open.spotify.com/album/4PFKs4k84A1sMcUPKEQ5kE"
+      },
+      "artists": [
+        {
+          "name": "Aron",
+          "url": "https://open.spotify.com/artist/3ik0tThzh3jWDLIYezRXMr"
+        },
+        {
+          "name": "Derrick Hodge",
+          "url": "https://open.spotify.com/artist/1jvBVqm4g5Jk8tEmKoYoes"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194209,
+      "name": "The Peace Song",
+      "url": "https://open.spotify.com/track/4mcl5y8bBP14UwlSDz7GBN"
+    },
+    {
+      "album": {
         "name": "The Message",
         "url": "https://open.spotify.com/album/6DtroRg76chWowQn2hXF4x"
       },
@@ -1513,7 +1553,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": "2022-11-14",
       "duration_ms": 104626,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/04TNNN0s6F4soZQhoO4oWG"

@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "Most adored pop hits from the Middle East and North Africa. Cover: Wael Kfoury\n",
+  "description": "Most adored pop hits from the Middle East and North Africa. Cover: Nabil\n",
   "name": "Best of Arab Pop",
   "published_playlist_ids": [
     "3oCJHmm7pEXb9N40JMypnM"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "00:00",
+        "url": "https://open.spotify.com/album/6q25wvCcBnP7cpPxuZfyGD"
+      },
+      "artists": [
+        {
+          "name": "Lartiste",
+          "url": "https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238939,
+      "name": "00:00",
+      "url": "https://open.spotify.com/track/6Cz19JJwGyVgvYS04kMdSi"
+    },
     {
       "album": {
         "name": "10 Oloub",
@@ -41,6 +59,24 @@
       "duration_ms": 181604,
       "name": "3 Sneen",
       "url": "https://open.spotify.com/track/6ZddaoTZy0vqf4vTmqUbJs"
+    },
+    {
+      "album": {
+        "name": "Nancy 10",
+        "url": "https://open.spotify.com/album/3uqaoNAn5imRyAztEcb6Bb"
+      },
+      "artists": [
+        {
+          "name": "Nancy Ajram",
+          "url": "https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194382,
+      "name": "Aala Shanak",
+      "url": "https://open.spotify.com/track/32fN22RlrQRRCH59Y80eSB"
     },
     {
       "album": {
@@ -701,7 +737,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 193039,
       "name": "Gayya Maak",
       "url": "https://open.spotify.com/track/2PptOf9L9zif2hT0nRq8OJ"
@@ -784,6 +820,24 @@
     },
     {
       "album": {
+        "name": "Hatwhashna",
+        "url": "https://open.spotify.com/album/2SpDaTDqpebKTgQyKtf51j"
+      },
+      "artists": [
+        {
+          "name": "Tamer Ashour",
+          "url": "https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200930,
+      "name": "Hatwhashna",
+      "url": "https://open.spotify.com/track/3gAYSjeXZ5XbicBFX5G0Ya"
+    },
+    {
+      "album": {
         "name": "Hayatak Fi Sora",
         "url": "https://open.spotify.com/album/2LE4wOXSuqwPXyY22h1ad1"
       },
@@ -817,7 +871,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 241889,
       "name": "Helween",
       "url": "https://open.spotify.com/track/5WWolYQgJB3fCwRiLxiPHQ"
@@ -835,7 +889,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 199288,
       "name": "Hetta Tanya",
       "url": "https://open.spotify.com/track/5zn9ZT7dKnRX5fnYvb3loq"
@@ -1037,6 +1091,24 @@
       "duration_ms": 228000,
       "name": "Law Hatsib",
       "url": "https://open.spotify.com/track/7h7FKF2JBDa6xChi3z9KxC"
+    },
+    {
+      "album": {
+        "name": "Lberra7",
+        "url": "https://open.spotify.com/album/3RYCCI7kZ8UxGmul4sockq"
+      },
+      "artists": [
+        {
+          "name": "Mehdi Mozayine",
+          "url": "https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196965,
+      "name": "Lberra7",
+      "url": "https://open.spotify.com/track/1d96Lyf6HTHDXTifQSYkqN"
     },
     {
       "album": {
@@ -1282,6 +1354,24 @@
     },
     {
       "album": {
+        "name": "Ga7da",
+        "url": "https://open.spotify.com/album/0ut6qfrsetpcWNtWcJWkK2"
+      },
+      "artists": [
+        {
+          "name": "Nabil",
+          "url": "https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239166,
+      "name": "Nefsi Afou2",
+      "url": "https://open.spotify.com/track/1OQSmaqaomwMpLHGk0YnGo"
+    },
+    {
+      "album": {
         "name": "Ouaa Tkhaf",
         "url": "https://open.spotify.com/album/2mP2rUwMr39mK3tajSBxmU"
       },
@@ -1329,7 +1419,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 129451,
       "name": "Qosset Hobna",
       "url": "https://open.spotify.com/track/6TuYr2T63OWTdbrfE4luUl"
@@ -1444,6 +1534,24 @@
     },
     {
       "album": {
+        "name": "Sebooh",
+        "url": "https://open.spotify.com/album/2fhRFoAFIXCI3RFNZQh5dY"
+      },
+      "artists": [
+        {
+          "name": "Amr Mostafa",
+          "url": "https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191317,
+      "name": "Sebooh",
+      "url": "https://open.spotify.com/track/6aelrywDmMzedMN0FSa3s8"
+    },
+    {
+      "album": {
         "name": "Ser Alsada ( Mountain View)",
         "url": "https://open.spotify.com/album/7ihocihukbewYHZZBzfk8c"
       },
@@ -1455,7 +1563,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 230000,
       "name": "Ser Alsada ( Mountain View)",
       "url": "https://open.spotify.com/track/1b4eTrznDOiLZX2oWisl2m"
@@ -1509,7 +1617,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 291754,
       "name": "Tamer Hosny Haytna",
       "url": "https://open.spotify.com/track/05DURibuW9rLPy7Ix8ahuA"
@@ -1592,6 +1700,24 @@
     },
     {
       "album": {
+        "name": "Tole' El Nahar",
+        "url": "https://open.spotify.com/album/4hHQf6eAsefx9tRCOpsvEc"
+      },
+      "artists": [
+        {
+          "name": "Mohamed el Majzoub",
+          "url": "https://open.spotify.com/artist/154fa6GCqPcTDUCF6BBdHS"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244571,
+      "name": "Tole' El Nahar",
+      "url": "https://open.spotify.com/track/2EstObS1EdvkKEF6Z9O1He"
+    },
+    {
+      "album": {
         "name": "Wenta Be3eed (From \"Bhabak\" Movie)",
         "url": "https://open.spotify.com/album/4UukvPx3Zgpy1jtro3FHPH"
       },
@@ -1639,7 +1765,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 229047,
       "name": "Ya Am Salamtak",
       "url": "https://open.spotify.com/track/51xnMfHDC4pGAUKJzTc9Wr"
@@ -1711,7 +1837,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 229778,
       "name": "Zahmet Weshoush",
       "url": "https://open.spotify.com/track/75oCHG4P4pcpTx79twBdpF"
@@ -1787,6 +1913,24 @@
       "duration_ms": 207446,
       "name": "\u0627\u0639\u062f\u0627\u0626\u0643 \u0643\u062a\u0631\u062a",
       "url": "https://open.spotify.com/track/0CFfVxPKnJfh7bIxzgOyO0"
+    },
+    {
+      "album": {
+        "name": "\u0628\u0623\u0645\u0627\u0631\u0629 \u0645\u064a\u0646",
+        "url": "https://open.spotify.com/album/4yDWyAMP63GXX3SUjjV0Xd"
+      },
+      "artists": [
+        {
+          "name": "Farid",
+          "url": "https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195882,
+      "name": "\u0628\u0623\u0645\u0627\u0631\u0629 \u0645\u064a\u0646",
+      "url": "https://open.spotify.com/track/0SbObewB36qKLWcaxMntej"
     },
     {
       "album": {

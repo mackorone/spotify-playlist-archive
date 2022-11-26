@@ -45,7 +45,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-28",
+      "date_removed": "2022-11-08",
       "duration_ms": 401371,
       "name": "B\u1ed9i B\u1ea1c",
       "url": "https://open.spotify.com/track/2DfEemtuJaJw6I683torGg"
@@ -243,7 +243,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 287473,
       "name": "Chuy\u1ec7n T\u00ecnh Kh\u00f4ng D\u0129 V\u00e3ng",
       "url": "https://open.spotify.com/track/6Kju3c7MNva9FJgi0NqY0t"
@@ -937,7 +937,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 367426,
       "name": "Kh\u00f4ng Bao Gi\u1edd Qu\u00ean Anh",
       "url": "https://open.spotify.com/track/4hY9mmmaps6GIR0MEUrqpZ"
@@ -1557,7 +1557,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 337893,
       "name": "Nhi\u0323p Ca\u0302\u0300u Tri A\u0302m",
       "url": "https://open.spotify.com/track/2G2oDfnPZT0VCHvzXCJOM0"
@@ -1873,7 +1873,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 173684,
       "name": "N\u1ed7i Bu\u1ed3n G\u00e1c Tr\u1ecd (Version Lofi)",
       "url": "https://open.spotify.com/track/0dnXeBSlnqLpHkJ5g5o2eY"
@@ -2123,7 +2123,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 343190,
       "name": "Sao Ch\u01b0a Th\u1ea5y H\u1ed3i \u00c2m",
       "url": "https://open.spotify.com/track/3LuQ1yA6hpG8L4OiDpE436"
@@ -2470,6 +2470,28 @@
     },
     {
       "album": {
+        "name": "Trang Nh\u1eadt K\u00fd",
+        "url": "https://open.spotify.com/album/5vVqZvQkbrhucGpzN3oSbY"
+      },
+      "artists": [
+        {
+          "name": "Duong Hong Loan",
+          "url": "https://open.spotify.com/artist/0HCHCbu99MF7kfRudGZceI"
+        },
+        {
+          "name": "Dong Nguyen",
+          "url": "https://open.spotify.com/artist/5euEtaUIXOl9B8MKotc5Vb"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-22",
+      "duration_ms": 264290,
+      "name": "Trang Nh\u1eadt K\u00fd",
+      "url": "https://open.spotify.com/track/6IgdnDf4f0gVAOM5GKZVv3"
+    },
+    {
+      "album": {
         "name": "Doi Mat Nguoi Xua",
         "url": "https://open.spotify.com/album/1cr15CHmotR28DFJa0kgze"
       },
@@ -2785,7 +2807,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-10-27",
       "duration_ms": 283515,
       "name": "V\u1ec1 \u0111\u00e2u m\u00e1i t\u00f3c ng\u01b0\u1eddi th\u01b0\u01a1ng",
       "url": "https://open.spotify.com/track/7k6LqKjAXIZCB25smEGjpK"
@@ -3075,7 +3097,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-07",
+      "date_removed": "2022-10-16",
       "duration_ms": 303791,
       "name": "\u0110\u00f4i M\u1eaft Ng\u01b0\u1eddi X\u01b0a",
       "url": "https://open.spotify.com/track/3tewtecu6SK1cCZSngNkVv"

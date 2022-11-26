@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": "2022-10-31",
       "duration_ms": 133093,
       "name": "A Good Woman",
       "url": "https://open.spotify.com/track/0bFWedvdt4Ap92fkimGI5r"
@@ -81,7 +81,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-11-24",
       "duration_ms": 225666,
       "name": "Ain't No Stoppin' Us Now - Rerecorded",
       "url": "https://open.spotify.com/track/3Qs8JAcb0sFYXSt6husd3f"
@@ -179,7 +179,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 167653,
       "name": "Blue Star",
       "url": "https://open.spotify.com/track/3BHoKIJfUJu4LVcToxObiA"
@@ -201,7 +201,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-22",
       "duration_ms": 103280,
       "name": "Cabaret (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/4rqdNgr1YjiW9hbeZ7MvIb"
@@ -241,7 +241,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": "2022-11-08",
       "duration_ms": 249760,
       "name": "Could It Be I'm Falling in Love - Rerecorded",
       "url": "https://open.spotify.com/track/366wZYLUpAZG0ioHGLJfp9"
@@ -274,6 +274,24 @@
     },
     {
       "album": {
+        "name": "Too Hot to Handle",
+        "url": "https://open.spotify.com/album/388CJAknRVlwhyvRnkPMnz"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153720,
+      "name": "Devoted Yo You",
+      "url": "https://open.spotify.com/track/0oaTZXfqyHnBrbwMNb7kBA"
+    },
+    {
+      "album": {
         "name": "Don't Give Me Up",
         "url": "https://open.spotify.com/album/4lGZ2x9Sj8U7OGi3SS3BkR"
       },
@@ -285,7 +303,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": "2022-11-16",
       "duration_ms": 398453,
       "name": "Don't Give Me Up - M & M 12\" Mix",
       "url": "https://open.spotify.com/track/4tBRV1dhprHCwYo6Uy3z2j"
@@ -347,7 +365,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-11-19",
       "duration_ms": 212000,
       "name": "For the Love of Money - Rerecorded",
       "url": "https://open.spotify.com/track/4sU1jX3muKTtgKC9ToDRPo"
@@ -365,7 +383,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-11-23",
       "duration_ms": 156333,
       "name": "Get Ready - Rerecorded",
       "url": "https://open.spotify.com/track/2dCRfCnaH1nNNtsQyZU43h"
@@ -441,7 +459,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": "2022-11-26",
       "duration_ms": 604160,
       "name": "Hope We Can Be Together Soon / All Night Long - Live Medley",
       "url": "https://open.spotify.com/track/4iF9cKkfXWgRiCkqC2eVyK"
@@ -459,7 +477,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 331546,
       "name": "I Can't Let Go",
       "url": "https://open.spotify.com/track/75TR0y40E4auHiqhpuTI22"
@@ -485,7 +503,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 288693,
       "name": "I Hope That We Can Be Together Soon - Live",
       "url": "https://open.spotify.com/track/3lOtLeKb5DSyOROzldhUTz"
@@ -525,7 +543,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 322146,
       "name": "I Really Love You",
       "url": "https://open.spotify.com/track/4nr9biIV72ZDo4fWJADCBM"
@@ -573,7 +591,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-25",
+      "date_removed": null,
       "duration_ms": 340859,
       "name": "I Wanna Know Your Name - Live",
       "url": "https://open.spotify.com/track/0vhOnAYQ0fLXqKpCtDFDDo"
@@ -595,7 +613,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-11-24",
       "duration_ms": 322226,
       "name": "I'm Searching for a Love (feat. Sharon Paige)",
       "url": "https://open.spotify.com/track/2HOiASEeCWnXn63B8mazDm"
@@ -635,7 +653,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-07",
+      "date_removed": null,
       "duration_ms": 132226,
       "name": "If It's Our Destiny",
       "url": "https://open.spotify.com/track/4q1xkwFxNLZe7xcxB8fa90"
@@ -671,7 +689,7 @@
       ],
       "date_added": "2022-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": "2022-10-31",
       "duration_ms": 210853,
       "name": "If You Don't Know Me by Now",
       "url": "https://open.spotify.com/track/1Qb1Ygd3TepJ24eiQKUGep"
@@ -729,7 +747,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 326333,
       "name": "Introduction / The Love I Lost - Live",
       "url": "https://open.spotify.com/track/4Jw0lgi3utk0YvQiQu6H7s"
@@ -799,7 +817,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 290613,
       "name": "It All Depends On You (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/3Hy8XnWjOEl4bjFmigA1Fr"
@@ -821,7 +839,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 326853,
       "name": "It's All Because of a Woman (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/0xhrVgS6P9jXvi38FiTWFq"
@@ -949,7 +967,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": "2022-10-27",
       "duration_ms": 178226,
       "name": "My Girl - Rerecorded",
       "url": "https://open.spotify.com/track/76rIRdlNl0W04EZl3P8YZA"
@@ -989,7 +1007,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-22",
+      "date_removed": "2022-10-27",
       "duration_ms": 260226,
       "name": "Nobody Could Take Your Place (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/28pJOTBOZqFc7IVdbAVUIT"
@@ -1007,7 +1025,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-30",
       "duration_ms": 189000,
       "name": "O Holy Nite",
       "url": "https://open.spotify.com/track/4InoM03yej3uViCdReaXVX"
@@ -1051,7 +1069,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 338586,
       "name": "Pretty Flower (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/3RjJB4T5VClw5FoqefBrl5"
@@ -1205,7 +1223,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-07",
       "duration_ms": 156480,
       "name": "The Letter",
       "url": "https://open.spotify.com/track/0kIyVYQUziTwvaWqoeo3xv"
@@ -1285,7 +1303,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-10-22",
       "duration_ms": 263360,
       "name": "This Is The Love",
       "url": "https://open.spotify.com/track/5pjHNWc7sdv9RXnXsCwIEk"
@@ -1351,7 +1369,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-11-26",
       "duration_ms": 383120,
       "name": "Today's Your Lucky Day",
       "url": "https://open.spotify.com/track/6EFETJ5VG2AhjGun4dHRD1"
@@ -1387,7 +1405,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 489040,
       "name": "Tonight's The Night",
       "url": "https://open.spotify.com/track/6wXVR0obfADtNJQNDnFUF4"
@@ -1405,7 +1423,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 119600,
       "name": "W-P-L-J (White Port & Lemon Juice)",
       "url": "https://open.spotify.com/track/3eAjG7cSUA8i1aUZF837Ti"
@@ -1471,7 +1489,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": "2022-11-17",
       "duration_ms": 481640,
       "name": "When Will I See You Again / Love Train - Live Medley",
       "url": "https://open.spotify.com/track/6s59Mq2boCny0IIFPinPxT"

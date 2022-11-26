@@ -666,6 +666,24 @@
     },
     {
       "album": {
+        "name": "Vida Latina Vol. 1",
+        "url": "https://open.spotify.com/album/2WLI7eYxdBUXhNyPWh05MJ"
+      },
+      "artists": [
+        {
+          "name": "Victimas Del Doctor Cerebro",
+          "url": "https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 221640,
+      "name": "El Esqueleto",
+      "url": "https://open.spotify.com/track/6dCt1ri0Cnv5mqI3bRcOHm"
+    },
+    {
+      "album": {
         "name": "Lucha Rock",
         "url": "https://open.spotify.com/album/3qFQ5sXiOUEy0vVMj1LIii"
       },

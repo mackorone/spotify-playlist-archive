@@ -527,7 +527,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 219493,
       "name": "Fire",
       "url": "https://open.spotify.com/track/7DpuczUR3nNFkMfMyRqoNx"
@@ -855,7 +855,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-08",
+      "date_removed": "2022-11-13",
       "duration_ms": 352466,
       "name": "I Want",
       "url": "https://open.spotify.com/track/5z5mgD0gIZ5KBCQgyIUR3j"
@@ -1068,6 +1068,24 @@
     },
     {
       "album": {
+        "name": "Keepin It Real",
+        "url": "https://open.spotify.com/album/0zcqYY1KpOd6aOyZSbEagF"
+      },
+      "artists": [
+        {
+          "name": "Jeff Floyd",
+          "url": "https://open.spotify.com/artist/4daynj4qj7K17EbBzEhtDe"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 353546,
+      "name": "Lock My Door",
+      "url": "https://open.spotify.com/track/4u6JFQa45iIYPy5l8DK2xc"
+    },
+    {
+      "album": {
         "name": "The Woman I Am",
         "url": "https://open.spotify.com/album/0xUs1n2GTs34q1JeFfZsDz"
       },
@@ -1097,7 +1115,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-16",
+      "date_removed": "2022-11-13",
       "duration_ms": 273137,
       "name": "Love's Not",
       "url": "https://open.spotify.com/track/5thLuoJ0PZHCjYzJypfpg4"
@@ -1187,7 +1205,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 214666,
       "name": "Movin' On",
       "url": "https://open.spotify.com/track/7uqDPKBvbsyFigZjaS9wHn"
@@ -1223,7 +1241,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 213983,
       "name": "My Home (Love Brings Us Here)",
       "url": "https://open.spotify.com/track/425RXHH1ByViVaSslgfg0V"
@@ -1367,7 +1385,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-06",
+      "date_removed": null,
       "duration_ms": 185333,
       "name": "O-O-H Child",
       "url": "https://open.spotify.com/track/4x0ub8v8iGkcQ1WrJWhiJl"
@@ -1403,10 +1421,28 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 342746,
       "name": "Passion",
       "url": "https://open.spotify.com/track/6IvKGL3DMPRPjJi8pz059W"
+    },
+    {
+      "album": {
+        "name": "Soul Revolution",
+        "url": "https://open.spotify.com/album/4qF4sSfF0dHMUdTkqF5yn8"
+      },
+      "artists": [
+        {
+          "name": "Steffen Morrison",
+          "url": "https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199520,
+      "name": "Positivity",
+      "url": "https://open.spotify.com/track/0wo02vddAWnvU6nJAwv4Wz"
     },
     {
       "album": {
@@ -1742,6 +1778,24 @@
     },
     {
       "album": {
+        "name": "Soul Revolution",
+        "url": "https://open.spotify.com/album/4qF4sSfF0dHMUdTkqF5yn8"
+      },
+      "artists": [
+        {
+          "name": "Steffen Morrison",
+          "url": "https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195320,
+      "name": "Soul Revolution",
+      "url": "https://open.spotify.com/track/1ldNwFMKUtCUsYeazPwjq7"
+    },
+    {
+      "album": {
         "name": "Ben L'Oncle Soul",
         "url": "https://open.spotify.com/album/0cf7toJ9xKuKgsaTDwxaCj"
       },
@@ -1753,7 +1807,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-22",
+      "date_removed": null,
       "duration_ms": 222453,
       "name": "Soulman - New English Version",
       "url": "https://open.spotify.com/track/7uooKN0tSNN6t6Pw3IJT1V"
@@ -1901,7 +1955,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 213642,
       "name": "Stupid Mad Love",
       "url": "https://open.spotify.com/track/0EmeMBuxo7JYg6EMKMhng4"
@@ -2249,6 +2303,24 @@
       "duration_ms": 231840,
       "name": "You Are The Best Thing",
       "url": "https://open.spotify.com/track/1tdarjaWSw6cxpFdLNANuQ"
+    },
+    {
+      "album": {
+        "name": "Loving You",
+        "url": "https://open.spotify.com/album/3iupXYQtertEICrj8oG8ER"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 231840,
+      "name": "You Are the Best Thing",
+      "url": "https://open.spotify.com/track/5qJW9AClJQwt1vDWHg1PrH"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWYgsiQBNyGuA"

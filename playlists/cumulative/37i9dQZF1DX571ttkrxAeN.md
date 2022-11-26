@@ -4,7 +4,7 @@
 
 > Sit and sip a cup as you soak up some acoustic vibes from across the world\. Cover: Souad Massi.
 
-116 songs - 6 hr 51 min - [published](https://open.spotify.com/playlist/31hLfCAGOoZ6PgHyjSv4v4)
+124 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/31hLfCAGOoZ6PgHyjSv4v4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Beni Vur \- Akustik](https://open.spotify.com/track/3oHKg5COeAxdGOU9TByS2X) | [Deniz Tekin](https://open.spotify.com/artist/4TdvNk4wmn5DgBFiLDeCj0) | [Kozakuluçka](https://open.spotify.com/album/7IyrFYIIJanXekwxhH2bmx) | 4:37 | 2020-05-03 |  |
 | [Bunker de tes bras](https://open.spotify.com/track/6JQaIU7lh7JwlWdlt0MTX7) | [Nicolas Gémus](https://open.spotify.com/artist/26G3zw1ksovIyzq8pYRjXj) | [Bunker de tes bras](https://open.spotify.com/album/322hjIWhrIZt9ExZKWiTG3) | 3:41 | 2020-05-03 |  |
 | [Bússola](https://open.spotify.com/track/4DJYm5wansT0fxA5y7q34G) | [Duda In The Sky](https://open.spotify.com/artist/7JMMxGGAQVHUU3KAGHVUFu) | [Bússola](https://open.spotify.com/album/1RvKMfOJLSPhFE3djjIXgz) | 2:37 | 2020-05-03 |  |
+| [Californie](https://open.spotify.com/track/2gfvJsAcp368zRMyolr3Th) | [Jeffrey Piton](https://open.spotify.com/artist/5CXucMUUUbJWYoyY30JWK8) | [Californie \(Acoustique\)](https://open.spotify.com/album/0Qkbmi4iKDNuH5PDjZU4qj) | 3:25 | 2022-09-26 | 2022-11-13 |
 | [Californie](https://open.spotify.com/track/2nEyKTVsQeVlbNt5bCBG7I) | [Jeffrey Piton](https://open.spotify.com/artist/5CXucMUUUbJWYoyY30JWK8) | [Blind](https://open.spotify.com/album/5JKfHycWZ3soRfR1VTfsuC) | 3:25 | 2020-05-03 |  |
 | [Californie](https://open.spotify.com/track/7lfazyv2rEYZpwVC5gGxyO) | [Jeffrey Piton](https://open.spotify.com/artist/5CXucMUUUbJWYoyY30JWK8) | [Blind](https://open.spotify.com/album/6eUYntcnw694NcOd1tEpmT) | 3:25 | 2020-05-03 | 2022-07-29 |
 | [Canapé](https://open.spotify.com/track/2kovi4dF0iSpTD4LAvC7xD) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Canapecito](https://open.spotify.com/album/4HrukT9K9prs3kTCBdoPeG) | 1:10 | 2020-05-03 | 2022-07-29 |
@@ -52,6 +53,7 @@
 | [Half du temps](https://open.spotify.com/track/26hiwRwD9Kb0WMrHcAZgVu) | [Les Hay Babies](https://open.spotify.com/artist/19MYB7a3GOTcbnZrl7juwx) | [La 4ième dimension \(version longue\)](https://open.spotify.com/album/1OqUWoaoFmKN5MDhhUdAaf) | 4:55 | 2020-05-03 | 2022-07-29 |
 | [Half du temps](https://open.spotify.com/track/4b4uzzZAXHlAoEh1ZQ0Myb) | [Les Hay Babies](https://open.spotify.com/artist/19MYB7a3GOTcbnZrl7juwx) | [La 4ième dimension \(Version Longue\)](https://open.spotify.com/album/5B8tJiqykn7ahWsA6gBM0M) | 4:55 | 2020-05-03 |  |
 | [He Aha Ra Te Manu](https://open.spotify.com/track/4V59xkzDRDWaxuZjYiSnf1) | [WAI.TAI](https://open.spotify.com/artist/17m0VwkZRhiPJf0QhiuOzB) | [Hoea](https://open.spotify.com/album/1gO1v7p8sMBaf3JVrUHlBj) | 2:23 | 2020-05-03 |  |
+| [Hexágonos](https://open.spotify.com/track/0n4ptp22JDQUx9krANAmCJ) | [The Bright](https://open.spotify.com/artist/4hyy9Yw1ZxHW2WndWc92h8) | [Stereoparty Summer 2013](https://open.spotify.com/album/4UUnVJHVdvzBfXOXet5RyK) | 3:17 | 2022-09-26 | 2022-11-13 |
 | [Hexágonos](https://open.spotify.com/track/0ncTrqxAlEr9j0jQE3xlsa) | [The Bright](https://open.spotify.com/artist/4hyy9Yw1ZxHW2WndWc92h8) | [Estados](https://open.spotify.com/album/1JFMr3qT3d1ZHJjmHucVor) | 3:17 | 2020-05-03 | 2022-07-29 |
 | [Hexágonos](https://open.spotify.com/track/73bItd39rIZWxIQMAskCXS) | [The Bright](https://open.spotify.com/artist/4hyy9Yw1ZxHW2WndWc92h8) | [Estados](https://open.spotify.com/album/7z1lOolKHAuPV34Z2F2Pu4) | 3:17 | 2020-05-03 |  |
 | [Hier und jetzt](https://open.spotify.com/track/0t9dprvMbyS8AlT6SsYimg) | [Benne](https://open.spotify.com/artist/0eS2ZGOnJi5Cp4ASTy4aBc) | [Alles auf dem Weg](https://open.spotify.com/album/3ZeKcF7KMlN9Lf2IRXrmKY) | 3:58 | 2020-05-03 | 2022-07-29 |
@@ -76,6 +78,7 @@
 | [Les épousailles](https://open.spotify.com/track/6t5R6YTK8d6n7wxjZI3JLp) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w) | [Petite plage](https://open.spotify.com/album/6GjRQbVrTgjbdNlSs7Plor) | 2:38 | 2020-05-03 |  |
 | [Luna Llena](https://open.spotify.com/track/0TWly1kFjXtCFSy85IICRO) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Ciclo](https://open.spotify.com/album/0PdHrBTszQMv7M2nqhMy6z) | 3:07 | 2020-05-03 | 2022-07-29 |
 | [Luna Llena](https://open.spotify.com/track/20A1JcPTZK3yaTNKXn08O9) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Ciclo](https://open.spotify.com/album/3RdOl7kpv8eExyjI9YhANs) | 3:07 | 2020-05-03 |  |
+| [Luna Llena](https://open.spotify.com/track/74nL250MVJW7NtrpySAxT7) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Luna Llena](https://open.spotify.com/album/5rFme5RIAGPcFm36feh5Mo) | 3:14 | 2022-09-26 | 2022-11-13 |
 | [Me Quiero Enamorar](https://open.spotify.com/track/6NLRl5GwqFQ4JorXChVSZS) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [¿Con Quién Se Queda El Perro? \(Deluxe\)](https://open.spotify.com/album/6BVBG97h9uAFn1eOwckiwH) | 3:58 | 2020-05-03 |  |
 | [Moln](https://open.spotify.com/track/0TCfN6JFmBoH7mDWt4gMw7) | [Menke](https://open.spotify.com/artist/56fiEsX7uP1maw2NajHZXJ) | [Moln](https://open.spotify.com/album/7iv4uawLxSeuUE9mKWZZDj) | 4:05 | 2020-05-03 | 2022-07-29 |
 | [Moln](https://open.spotify.com/track/3ZScDVAXMkMsGjrN1j1qiy) | [Menke](https://open.spotify.com/artist/56fiEsX7uP1maw2NajHZXJ) | [Till havet](https://open.spotify.com/album/0iyXNQtQgAK5V0fJG4PEl0) | 4:05 | 2020-05-03 |  |
@@ -92,10 +95,13 @@
 | [Que Entre el Frío](https://open.spotify.com/track/4zyF3KSeHYG0ZDEbA4NyaO) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Loza](https://open.spotify.com/album/5RLqqJGNdYJGp9pcHk0oGt) | 4:27 | 2020-05-03 |  |
 | [Que Facil Es Hablar](https://open.spotify.com/track/2CiVK2RuaMOieFPdYacJtB) | [Karina Vismara](https://open.spotify.com/artist/3yjMGsdyDczDjyaek80khK) | [Casa del Viento](https://open.spotify.com/album/2mmRppQCZB8ccGGUkxp0dJ) | 2:54 | 2020-05-03 | 2022-07-29 |
 | [Que Facil Es Hablar](https://open.spotify.com/track/4zeTSpN6852mqKTFZcUkgc) | [Karina Vismara](https://open.spotify.com/artist/3yjMGsdyDczDjyaek80khK) | [Casa del Viento](https://open.spotify.com/album/2HyoT13F4NOLswwofAZaNw) | 2:54 | 2020-05-03 |  |
-| [Salam](https://open.spotify.com/track/79QnKnXkgvONM0Y3HlNA9K) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Oumniya](https://open.spotify.com/album/6GQNw3LhEnt6mekhNDafAK) | 4:24 | 2020-05-03 |  |
+| [Salam](https://open.spotify.com/track/2NHbmvLriduIB96qXrO3yr) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Oumniya](https://open.spotify.com/album/6q0t1SQ8v2P0rfTG2nN9xb) | 4:24 | 2022-09-26 |  |
+| [Salam](https://open.spotify.com/track/79QnKnXkgvONM0Y3HlNA9K) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Oumniya](https://open.spotify.com/album/6GQNw3LhEnt6mekhNDafAK) | 4:24 | 2020-05-03 | 2022-10-14 |
 | [Salam](https://open.spotify.com/track/7Grw73QC2BopimbTXSbV3o) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Oumniya](https://open.spotify.com/album/4hu42nNoG5DCRahtvY77NP) | 4:24 | 2020-05-03 | 2022-07-29 |
 | [Sans Toi](https://open.spotify.com/track/7qY8npe1fAwNhuY6Sx663F) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [No Water, No Flowers](https://open.spotify.com/album/02CKprFQaI3f0SCjxNU4Vh) | 3:15 | 2020-05-03 |  |
 | [Sans toi](https://open.spotify.com/track/2TT8MHvlDdF8iIv59EkApc) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [No Water, No Flowers : Part One \- EP](https://open.spotify.com/album/6tMGm4n8cfIBK0dQw6tM1C) | 3:17 | 2020-05-03 | 2022-07-29 |
+| [Sans toi](https://open.spotify.com/track/5u8kDtg4d2BJUDnNUeyK2X) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [No Water No Flowers part 1](https://open.spotify.com/album/5qAxfGtdSjmTZK56verVeh) | 3:17 | 2022-09-26 | 2022-11-14 |
+| [Scheef](https://open.spotify.com/track/38kZDk46TKMB183mvYfF2h) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Scheef \(Dollkraut Rework\)](https://open.spotify.com/album/0i4EejtVSp8DEq0M4M6IYf) | 4:54 | 2022-09-26 | 2022-11-14 |
 | [Scheef](https://open.spotify.com/track/4ijUjUlflzdPvFo5p7HiGa) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Nachtlicht](https://open.spotify.com/album/0qug12J5BsUVYUEDCrpN9T) | 4:54 | 2020-05-03 | 2022-07-29 |
 | [Scheef](https://open.spotify.com/track/5sH6MYqb3qjrN8b5V4ioCr) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Nachtlicht](https://open.spotify.com/album/2PSgh7zJPShRNvmC8KxdBU) | 4:54 | 2020-05-03 |  |
 | [Se non lo sai](https://open.spotify.com/track/34H4C5i8TfWhb5VCelA1QV) | [Dente](https://open.spotify.com/artist/7uGQOfydy4DpqrM8XhyIdt) | [Canzoni per metà](https://open.spotify.com/album/0kBjAvIGV9RDsblz2LhvgO) | 2:44 | 2020-05-03 |  |
@@ -117,11 +123,13 @@
 | [Um Tanto](https://open.spotify.com/track/1BQhXbN8AzvHQrS7SvH58x) | [Suricato](https://open.spotify.com/artist/35j8oMehl8Q9mLnVmkVqMC) | [Sol\-Te](https://open.spotify.com/album/3wk0JZQ0eTP1rpiAlMpuV6) | 3:37 | 2020-05-03 |  |
 | [Una](https://open.spotify.com/track/61jbOgZPpaHXKJy0kqGXjt) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [The Ballad of the Runaway Girl](https://open.spotify.com/album/4thL3jIVt8oFNZgvnHslkU) | 5:14 | 2020-05-03 |  |
 | [Vi lovar \(Besvärjelse\)](https://open.spotify.com/track/7o3FCfwainpUiPMF4wyGdP) | [Eva Weel Skram](https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3) | [Vi lovar \(Besvärjelse\)](https://open.spotify.com/album/51wjspTv8Bw7qy3AmgljWI) | 4:10 | 2020-05-03 |  |
-| [Voce piccolina](https://open.spotify.com/track/25Z9SXq4u07bbwzlUmOTlz) | [Dente](https://open.spotify.com/artist/7uGQOfydy4DpqrM8XhyIdt) | [L'amore non è bello](https://open.spotify.com/album/0nRwkAQQdM7xmVDisTIHWY) | 1:43 | 2020-05-03 |  |
+| [Voce piccolina](https://open.spotify.com/track/0AOcRnBwUbxziFJBUNx1ii) | [Dente](https://open.spotify.com/artist/7uGQOfydy4DpqrM8XhyIdt) | [L'amore non è bello](https://open.spotify.com/album/322waMAUtD8oVnHqqp78D1) | 1:43 | 2022-09-26 |  |
+| [Voce piccolina](https://open.spotify.com/track/25Z9SXq4u07bbwzlUmOTlz) | [Dente](https://open.spotify.com/artist/7uGQOfydy4DpqrM8XhyIdt) | [L'amore non è bello](https://open.spotify.com/album/0nRwkAQQdM7xmVDisTIHWY) | 1:43 | 2020-05-03 | 2022-11-13 |
 | [Voce piccolina](https://open.spotify.com/track/7jc8hEfxUGsxcXP5zm7mZs) | [Dente](https://open.spotify.com/artist/7uGQOfydy4DpqrM8XhyIdt) | [L'amore non è bello](https://open.spotify.com/album/0aIgYf1IsWL4KOziCsApey) | 1:43 | 2020-05-03 | 2022-07-29 |
 | [Vor í Vaglaskógi](https://open.spotify.com/track/2OdpZeTpnbqPqBrclk2pib) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 4:37 | 2020-05-03 |  |
 | [Wakfa](https://open.spotify.com/track/1mmE3XIwIX0tYjLr6u7zW1) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Oumniya](https://open.spotify.com/album/4hu42nNoG5DCRahtvY77NP) | 4:50 | 2020-05-03 | 2022-07-29 |
-| [Wakfa](https://open.spotify.com/track/2rFOK6Wat6QKb3uqsXURgq) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Oumniya](https://open.spotify.com/album/6GQNw3LhEnt6mekhNDafAK) | 4:50 | 2020-05-03 |  |
+| [Wakfa](https://open.spotify.com/track/2rFOK6Wat6QKb3uqsXURgq) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Oumniya](https://open.spotify.com/album/6GQNw3LhEnt6mekhNDafAK) | 4:50 | 2020-05-03 | 2022-10-14 |
+| [Wakfa](https://open.spotify.com/track/39u6elNoM6r2ZwjHJ2q5rx) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Oumniya](https://open.spotify.com/album/6q0t1SQ8v2P0rfTG2nN9xb) | 4:50 | 2022-09-26 |  |
 | [Woyoyoye](https://open.spotify.com/track/2xHGMQ8hEQ0jD7jUaKQGSE) | [Daby Touré](https://open.spotify.com/artist/6rbNtMkifOcNCq5aBa6L2O) | [Amonafi](https://open.spotify.com/album/2gf9G7bVlOTZOXCbSwYETN) | 2:34 | 2020-05-03 |  |
 | [Yimenda\-Papaguneray \(Turtle Song\)](https://open.spotify.com/track/4YzS8T2m9PI1suCJpiACRi) | [Emily Wurramara](https://open.spotify.com/artist/0OKjEr4iSUvgGSebJakjNF) | [Milyakburra](https://open.spotify.com/album/6BPIK9SvnYZXPQJlLqh0Kp) | 2:30 | 2020-05-03 |  |
 

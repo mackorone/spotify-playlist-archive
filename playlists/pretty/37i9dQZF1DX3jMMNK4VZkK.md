@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jMMNK4VZkK.md) - [plain]
 
 > Who runs the world? GIRLS!
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,782 likes - 103 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,973 likes - 103 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [drivers license](https://open.spotify.com/track/4ml4WlnHDEpOK8HRVYTCWf) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/7bYichzvtYHdjF8HF69dyA) | 4:02 |
 | 2 | [Just A Girl](https://open.spotify.com/track/5lWRaa0fBxDE5yU91npPq7) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 3:29 |
-| 3 | [GIRLS](https://open.spotify.com/track/6VmyLa0AepMixL3ur4yyU6) | [Rosie McClelland](https://open.spotify.com/artist/5ZP6UcDgCZVaurzfVf1Vjh) | [GIRLS](https://open.spotify.com/album/2zzZ9a1gHH7rtOsbdYp02S) | 2:38 |
+| 3 | [GIRLS](https://open.spotify.com/track/2voQ1UBNNiXTk52ZrYc48D) | [Rosie McClelland](https://open.spotify.com/artist/5ZP6UcDgCZVaurzfVf1Vjh) | [GIRLS](https://open.spotify.com/album/0OQq3BWjLMyGTu0rNTQZZU) | 2:38 |
 | 4 | [My Favourite Game](https://open.spotify.com/track/0Ui05Ov0s4PnRc4JI3Pilg) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [Gran Turismo \(Remastered\)](https://open.spotify.com/album/5DiOwioOBqVCSH6IwGBXEc) | 3:40 |
 | 5 | [Nah Nah Nah](https://open.spotify.com/track/3qL331Jhf5RO4j0T3DqWun) | [Haschak Sisters](https://open.spotify.com/artist/65bfJSe4WLgPfyEo9Pqelp) | [Nah Nah Nah](https://open.spotify.com/album/4IRJpqzRb4OR8PpBeEcgws) | 2:56 |
 | 6 | [Only Happy When It Rains](https://open.spotify.com/track/1IsGA5ceSC4a5nxgAEYnQd) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Garbage \(20th Anniversary Deluxe Edition/Remastered\)](https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7) | 3:56 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jMMNK4VZkK.md) - [plain]
 | 16 | [Pretend to Be Nice](https://open.spotify.com/track/3AViDaQElt8t57IhF4PAZ8) | [Josie and the Pussycats](https://open.spotify.com/artist/3bfbzBOZwvm7eNjRKo6LSc) | [Josie and The Pussycats \- Music From The Motion Picture](https://open.spotify.com/album/3kB4bYwuZlhJDbLxFQs9UH) | 3:50 |
 | 17 | [Respect](https://open.spotify.com/track/7s25THrKz86DM225dOYwnr) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [I Never Loved a Man the Way I Love You](https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V) | 2:27 |
 | 18 | [Give A Little](https://open.spotify.com/track/3D4uUFRoYDFHbkQlTKL2Om) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:46 |
-| 19 | [Nonstop](https://open.spotify.com/track/07sscPQA6fR2yGVf3vMmld) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Nonstop](https://open.spotify.com/album/75Ihw1IDFXtLMkqqLE57xg) | 2:20 |
+| 19 | [Nonstop](https://open.spotify.com/track/7M0S9UOrhrWM0Ce7Tkl8QT) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Nonstop](https://open.spotify.com/album/6b9STxR1fsmemwH0C2DlIH) | 2:20 |
 | 20 | [Rainbow](https://open.spotify.com/track/0XCwygMP6hRHskvtF6y7Zt) | [Run The World](https://open.spotify.com/artist/0cInwP8nWQOIaTXvjbnh7M), [Jam Jr.](https://open.spotify.com/artist/1XCnotN3MszWUMW7BdXc1u) | [Rainbow](https://open.spotify.com/album/69uaMweE14S4bjZMw5marj) | 2:58 |
 | 21 | [High Horse](https://open.spotify.com/track/2U2Z1IXnmJIvlknWizFykZ) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:33 |
 | 22 | [Go Lay Lay Go](https://open.spotify.com/track/0jPTahwv09GWoUFKeWvVZr) | [That Girl Lay Lay](https://open.spotify.com/artist/6GVYRmhvBibjGCythicOlZ) | [Tha Cheat Code](https://open.spotify.com/album/1BC5qLOF5lsmAfV7WgfRfA) | 3:23 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jMMNK4VZkK.md) - [plain]
 | 102 | [Break Free](https://open.spotify.com/track/12KUFSHFgT0XCoiSlvdQi4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [My Everything \(Deluxe\)](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) | 3:34 |
 | 103 | [The Climb](https://open.spotify.com/track/0V8FYVlBFuXXTIvRnMbZyS) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Hannah Montana The Movie](https://open.spotify.com/album/1fc8tPf36cZhNYpNFrWh7o) | 3:56 |
 
-Snapshot ID: `MTYyNzQ4ODI1OCwwMDAwMDAwMDUzYzAxZjQxYjU4MjAwZjkwMzM4MTI4MzA5MTE1NmRk`
+Snapshot ID: `MTYyNzQ4ODI1OCwwMDAwMDAwMDAxMjljYzM2YWJjMTUwZDk0YjQ2NWJhMWQ0YzI1OTI2`

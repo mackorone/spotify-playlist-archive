@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Florida",
+        "url": "https://open.spotify.com/album/0BpdoGPdDKVFgKl2u0h4UG"
+      },
+      "artists": [
+        {
+          "name": "Pillbox Patti",
+          "url": "https://open.spotify.com/artist/1tAy2qZQdjG9ulfI9btLoO"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228626,
+      "name": "25 MPH Town",
+      "url": "https://open.spotify.com/track/12hKwLLwQx391fBOUqqOu9"
+    },
+    {
+      "album": {
         "name": "4 Goodyears",
         "url": "https://open.spotify.com/album/00KSXGcqRlZxhAvrTohEBB"
       },
@@ -2235,6 +2253,24 @@
     {
       "album": {
         "name": "My Poor Mama",
+        "url": "https://open.spotify.com/album/72dBMGHSenphYYr0Sv0wUf"
+      },
+      "artists": [
+        {
+          "name": "Corey Crowder",
+          "url": "https://open.spotify.com/artist/0Om7HtVeWrbWwWdOo1W5rf"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181837,
+      "name": "My Poor Mama",
+      "url": "https://open.spotify.com/track/2eDD02w1Nm7nAelUAu1p2v"
+    },
+    {
+      "album": {
+        "name": "My Poor Mama",
         "url": "https://open.spotify.com/album/4Ur3S8uG8k3sKgDZAEUKQ4"
       },
       "artists": [
@@ -2245,7 +2281,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 181837,
       "name": "My Poor Mama",
       "url": "https://open.spotify.com/track/6jaCDrO3yOtQkxz98cU5Wl"
@@ -3100,6 +3136,24 @@
     },
     {
       "album": {
+        "name": "Florida",
+        "url": "https://open.spotify.com/album/0BpdoGPdDKVFgKl2u0h4UG"
+      },
+      "artists": [
+        {
+          "name": "Pillbox Patti",
+          "url": "https://open.spotify.com/artist/1tAy2qZQdjG9ulfI9btLoO"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206466,
+      "name": "Suwannee",
+      "url": "https://open.spotify.com/track/5rTVK41PWQcD1w3yFf58qG"
+    },
+    {
+      "album": {
         "name": "Swimming Alone",
         "url": "https://open.spotify.com/album/6SifWWoghYvzA2Q4n6zAzk"
       },
@@ -3840,6 +3894,24 @@
     },
     {
       "album": {
+        "name": "Bloodline",
+        "url": "https://open.spotify.com/album/1G02UW5fjyMaWVz8q8zSG1"
+      },
+      "artists": [
+        {
+          "name": "Brent Anderson",
+          "url": "https://open.spotify.com/artist/3Dn6YYnot4nDcpNxvQ23AT"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 157840,
+      "name": "Walks on Whiskey",
+      "url": "https://open.spotify.com/track/7zaYW6MyoUVFc4BBq223KN"
+    },
+    {
+      "album": {
         "name": "Between The Pines (Acoustic Mixtape)",
         "url": "https://open.spotify.com/album/0oDDkafimkfmBVssJF2X64"
       },
@@ -4123,6 +4195,28 @@
       "duration_ms": 178603,
       "name": "winner.",
       "url": "https://open.spotify.com/track/0nac6fGT0ROzUgG56c9RMZ"
+    },
+    {
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/07y1wKzh66t1XuJQiIM0Dt"
+      },
+      "artists": [
+        {
+          "name": "Ross Copperman",
+          "url": "https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C"
+        },
+        {
+          "name": "Kate York",
+          "url": "https://open.spotify.com/artist/5wONG6j4El6k5iOXQdA0Ha"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196639,
+      "name": "You",
+      "url": "https://open.spotify.com/track/4qW6aTyYPTuiFtAq4pjJta"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9nWj0Ba73K5"

@@ -182,7 +182,7 @@
     },
     {
       "album": {
-        "name": "Bandidas (feat. Julinho KSD, Kibow, Trista & Yuran)",
+        "name": "Bandidas",
         "url": "https://open.spotify.com/album/3GOXhstBnGiQbQylnIWEnq"
       },
       "artists": [
@@ -199,19 +199,19 @@
           "url": "https://open.spotify.com/artist/09R2ZnVOtZJjYH5CkDkA0M"
         },
         {
-          "name": "Trista",
-          "url": "https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw"
-        },
-        {
           "name": "Yuran",
           "url": "https://open.spotify.com/artist/3zvbATHitSjEZ54l7QnJN0"
+        },
+        {
+          "name": "Trista",
+          "url": "https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw"
         }
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 210618,
-      "name": "Bandidas (feat. Julinho KSD, Kibow, Trista & Yuran)",
+      "name": "Bandidas",
       "url": "https://open.spotify.com/track/6MEZbtP3lg3mHnE9LzZn4S"
     },
     {
@@ -729,6 +729,24 @@
       "duration_ms": 208275,
       "name": "N\u00f3s Pimba",
       "url": "https://open.spotify.com/track/19rBtPDO8yQj5uP75UBpbT"
+    },
+    {
+      "album": {
+        "name": "N\u00f3s Pimba",
+        "url": "https://open.spotify.com/album/2KJzKh3Po3vQbxIV0nB1V0"
+      },
+      "artists": [
+        {
+          "name": "Chico da Tina",
+          "url": "https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 208275,
+      "name": "N\u00f3s Pimba",
+      "url": "https://open.spotify.com/track/41vGMNuSiFf7K8ZDPzix6z"
     },
     {
       "album": {

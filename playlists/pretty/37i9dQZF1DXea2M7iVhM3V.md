@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXea2M7iVhM3V.md) - [plain]
 
 > Kill it today with this awesome Hip Hop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70 likes - 31 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 72 likes - 31 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Heartbeat](https://open.spotify.com/track/3WWAvWDBQANpJeNbvVbjMg) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Camp](https://open.spotify.com/album/32KdoFFhgjCLdU0DWL71tx) | 4:29 |
+| 1 | [Heartbeat](https://open.spotify.com/track/0zo4aX57COch7Wh3NRImTM) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Camp](https://open.spotify.com/album/2nkHPk6e7TgemWh07yFHxh) | 4:29 |
 | 2 | [I Mean It \(feat\. Remo\)](https://open.spotify.com/track/6jmTHeoWvBaSrwWttr8Xvu) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Remo](https://open.spotify.com/artist/7rVA45AaxEEetdqc9NngiJ) | [These Things Happen](https://open.spotify.com/album/6wDc63NhKy2PyXdbhkRmrl) | 3:56 |
 | 3 | [Guts Over Fear](https://open.spotify.com/track/0VZs2OQq4axr8GFRdC9nyD) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Guts Over Fear](https://open.spotify.com/album/1x8e6xbrhtLgipVKFXhGdm) | 5:00 |
 | 4 | [Both of Us \(feat\. Taylor Swift\)](https://open.spotify.com/track/3r9bgSJlJz2zlevcBRYXko) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Strange Clouds](https://open.spotify.com/album/7qqCw47pAWFzhwTpVRd0zE) | 3:36 |
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXea2M7iVhM3V.md) - [plain]
 | 18 | [No Interruption](https://open.spotify.com/track/2yJVeT8cP1zstJxRP7Nlv8) | [Hoodie Allen](https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl) | [All American](https://open.spotify.com/album/3wDPZbAEnzvMY6mlySimUY) | 3:35 |
 | 19 | [Pursuit Of Happiness \(Nightmare\)](https://open.spotify.com/track/5iSEsR6NKjlC9SrIJkyL3k) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E) | [Man On The Moon: The End Of Day](https://open.spotify.com/album/47y3PbX8oIDCkYAFylCJz0) | 4:55 |
 | 20 | [Can I Live feat\. Mac Miller](https://open.spotify.com/track/4gX5wWBuArhoyV17bVPeBb) | [Casey Veggies](https://open.spotify.com/artist/0uFc6StTmJBvdHPZFDkdJy), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Sleeping in Class](https://open.spotify.com/album/5VQnHe5Wcji6wNbiAnMQ21) | 3:57 |
-| 21 | [3005](https://open.spotify.com/track/2ZltjIqztEpZtafc8w0I9t) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Because the Internet](https://open.spotify.com/album/4GNIhgEGXzWGAefgN5qjdU) | 3:54 |
+| 21 | [3005](https://open.spotify.com/track/5cc9Zbfp9u10sfJeKZ3h16) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Because the Internet](https://open.spotify.com/album/62yjWIhnATHxPqGbgC9Lqr) | 3:54 |
 | 22 | [Christ Conscious](https://open.spotify.com/track/6v4s7JosY38tu0hTZGpgrx) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [B4.DA.$$](https://open.spotify.com/album/2NTIYavFZmU1PCvJvn2USJ) | 2:53 |
 | 23 | [Donald Trump](https://open.spotify.com/track/3uulVrxiI7iLTjOBZsaiF8) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Donald Trump \- Single](https://open.spotify.com/album/6eFkuEfykAUpthUiUeu3zw) | 2:45 |
 | 24 | [Rella \(feat\. Hodgy, Domo Genesis & Tyler, The Creator\)](https://open.spotify.com/track/3v7GtykYEMuSg4dQyw4qZb) | [Odd Future](https://open.spotify.com/artist/5xpkLC1MxiPRiIJUDEzuVm), [Hodgy](https://open.spotify.com/artist/4sXi6Uq6IzBaLfFi8wlb3I), [Domo Genesis](https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [The OF Tape Vol\. 2](https://open.spotify.com/album/7ibEo7IK9E9mi2sU5rJNDC) | 3:10 |
-| 25 | [Do Like Me](https://open.spotify.com/track/0QlKo37FHKCWqaQqKIQtkf) | [Chris Webby](https://open.spotify.com/artist/3IstlZaHyUP9SONpulb4SM) | [Homegrown](https://open.spotify.com/album/4hkVHLORkJVlB9Mtz5mKvs) | 2:52 |
+| 25 | [Do Like Me](https://open.spotify.com/track/66cZz7gz3xIKm9BioUYEli) | [Chris Webby](https://open.spotify.com/artist/3IstlZaHyUP9SONpulb4SM) | [Homegrown](https://open.spotify.com/album/38LekT1XJRPPsdGl4TJ3Lb) | 2:52 |
 | 26 | [Just What I Am](https://open.spotify.com/track/20bJBbPapGQ4bqs0YcA9xY) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [King Chip](https://open.spotify.com/artist/5NjUjtjtkzZqRuWFdspT1K) | [Indicud](https://open.spotify.com/album/262o5a05pMUDSV2uzo5EwQ) | 3:48 |
 | 27 | [Mind Your Manners \(feat\. Icona Pop\)](https://open.spotify.com/track/1hPajXXDa8dfTFABNZe2Ri) | [Chiddy Bang](https://open.spotify.com/artist/40giwFcTQtv9ezxW8yqxJU), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Breakfast](https://open.spotify.com/album/1YnYYbRawnQcFqRooF0159) | 3:16 |
 | 28 | [Blockbuster Night, Pt\. 1](https://open.spotify.com/track/1AESnzWt4iMrEPGG7TjXAa) | [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [Run the Jewels 2](https://open.spotify.com/album/6WBUyDe1Xy8QRwF6wzhJsY) | 2:32 |
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXea2M7iVhM3V.md) - [plain]
 | 30 | [Close Your Eyes \(And Count to Fuck\)](https://open.spotify.com/track/3RlurnnuVkVbaN6lul4136) | [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Zack De La Rocha](https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S) | [Run the Jewels 2](https://open.spotify.com/album/6WBUyDe1Xy8QRwF6wzhJsY) | 3:54 |
 | 31 | [Wop \(Official Version\)](https://open.spotify.com/track/3zbnvxvqV5lL4Vq0FznWsX) | [J\. Dash](https://open.spotify.com/artist/6bsEozzA1CHU0TIq2DXDxq) | [Wop \(Official Version\)](https://open.spotify.com/album/6GDAhfB43sXcVMPUT3jxaA) | 3:50 |
 
-Snapshot ID: `MTQ5MTI5NzQwNywwMDAwMDAwMDY1ZmU3MjI0ODcwMTA1MjMzZjBmMzc1MjY2YjM2YTY4`
+Snapshot ID: `MTQ5MTI5NzQwNywwMDAwMDAwMGI5ZDQzYzZkNjY5NTBjNGNhZWYzYTU2ZTZkMTU3NGNm`

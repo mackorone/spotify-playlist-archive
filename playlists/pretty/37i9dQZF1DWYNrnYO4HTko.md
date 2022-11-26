@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNrnYO4HTko.md) - [plain]
 
 > Fresh takes \- from new revisions and iconic covers to unexpected versions and the <a href="https://artists.spotify.com/songwriter/2M9tzAw4sMHnOJ58l5uo82">songwriter's</a> own covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172 likes - 92 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 302 likes - 92 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNrnYO4HTko.md) - [plain]
 | 41 | [I've Been Loving You Too Long](https://open.spotify.com/track/3F4OtBOeU19X9EHGC9tUHV) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Soul](https://open.spotify.com/album/05WixXdxsULFJn8f4XhuWI) | 3:06 |
 | 42 | [I've Been Loving You Too Long](https://open.spotify.com/track/6FYcUjSuBISmRIhCYiKvuB) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [The Percy Sledge Way](https://open.spotify.com/album/2QpYWeEUwnus0QgrWCO9Yu) | 2:47 |
 | 43 | [I’ve Been Loving You Too Long \(To Stop Now\)](https://open.spotify.com/track/0S3rt4zrKV29h0TUkAYmeh) | [Melissa Etheridge](https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA) | [MEmphis Rock And Soul](https://open.spotify.com/album/5JMqUlAUeSP9RFinIKjFiq) | 4:02 |
-| 44 | [I've Been Loving You Too Long](https://open.spotify.com/track/5EMPc2auf81fkY6mLfOTAs) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Everlasting](https://open.spotify.com/album/3ftsdPLG1aVrGMOEK1WoZB) | 3:48 |
+| 44 | [I've Been Loving You Too Long](https://open.spotify.com/track/71wChc3CSiggAp5gnNPmI9) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Everlasting](https://open.spotify.com/album/0Ohny76eNCYxU4TQEm07iz) | 3:48 |
 | 45 | [I've Been Lovin' You Too Long](https://open.spotify.com/track/3HU1Eftl2TOi49d24VozRM) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Love's Been Rough On Me](https://open.spotify.com/album/3Zr33AetxwaBTlxxUTyh0h) | 4:20 |
-| 46 | [I've Been Loving You Too Long \- Acoustic](https://open.spotify.com/track/5iQDAhRkHX079o0yYsq2xj) | [Diesel](https://open.spotify.com/artist/4rCLXPaqaUjGa1aHDwkviR) | [The Lobbyist](https://open.spotify.com/album/1S9ZERe8LYZOptvTA6xVVI) | 3:53 |
+| 46 | [I've Been Loving You Too Long \- Acoustic](https://open.spotify.com/track/2EuRP3vOw8TC4UdrvfYMeA) | [Diesel](https://open.spotify.com/artist/4rCLXPaqaUjGa1aHDwkviR) | [The Lobbyist](https://open.spotify.com/album/4CLYyen634lYaEdSAXwap4) | 3:53 |
 | 47 | [I've Been Loving You Too Long](https://open.spotify.com/track/3LeLZUoYt3voQCtUjRLkrp) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [Soulful](https://open.spotify.com/album/343ADGfYYyoLedMtdH9PIM) | 3:34 |
 | 48 | [I’ve Been Loving You Too Long \- Remastered 2015](https://open.spotify.com/track/3mQIxdBrMkodx4ebTq7i1e) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Roy Orbison: The MGM Years 1965 \- 1973 \(Remastered\)](https://open.spotify.com/album/5l6AFjM8OaWnshRe0Pu4qj) | 3:38 |
 | 49 | [Holdin On](https://open.spotify.com/track/3ohupB1Wm1Cvcyre7rtS9p) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Flume: Deluxe Edition](https://open.spotify.com/album/1yc3Ldus5BkJBVX9mSFMt4) | 2:34 |
@@ -95,10 +95,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNrnYO4HTko.md) - [plain]
 | 85 | [Dock Of The Bay \- Remastered 2003](https://open.spotify.com/track/12PlOIMP73jVDCL21uQ5iM) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [A Natural Woman](https://open.spotify.com/album/7flJiihAzrz0UWCjswUc4A) | 2:40 |
 | 86 | [Fa Fa Fa Fa Fa \(Sad Song\)](https://open.spotify.com/track/2iHyljFOELGJpzZtGmbHBl) | [Papa Wemba](https://open.spotify.com/artist/6a4cdntqTPN10fph5A8zRQ) | [Emotion \(Real World Gold\)](https://open.spotify.com/album/7CHL3hxXPT9sTnQv3hZe39) | 3:13 |
 | 87 | [Nobody's Fault But Mine](https://open.spotify.com/track/5Ksa4HCbpVeqjk9xQOhjAI) | [The Robert Cray Band](https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P) | [In My Soul](https://open.spotify.com/album/11Cry7mbcEQqOUGF2zX6Xk) | 2:39 |
-| 88 | [Respect \(feat\. Wayne Henderson\)](https://open.spotify.com/track/5WefFRKDoyJJ8zVCfvtIhU) | [The Freedom Sounds Featuring Wayne Henderson](https://open.spotify.com/artist/0B8tMvNxl04bM3bhgYAl4b), [Wayne Henderson](https://open.spotify.com/artist/55PU5eP7Ndxn5T3TvBdXZ2) | [People Get Ready \(feat\. Wayne Henderson\)](https://open.spotify.com/album/4sZJQZA40YWfofsHINS1Gs) | 2:56 |
+| 88 | [Respect \(feat\. Wayne Henderson\)](https://open.spotify.com/track/5WefFRKDoyJJ8zVCfvtIhU) | [The Freedom Sounds](https://open.spotify.com/artist/79TsszbcaDn957VtVKQGaA), [Wayne Henderson](https://open.spotify.com/artist/55PU5eP7Ndxn5T3TvBdXZ2) | [People Get Ready \(feat\. Wayne Henderson\)](https://open.spotify.com/album/4sZJQZA40YWfofsHINS1Gs) | 2:56 |
 | 89 | [Respect](https://open.spotify.com/track/5lOUxU6giZYMVkLZDGyih0) | [Rotary Connection](https://open.spotify.com/artist/3dGTi4MZZo4zXdQaKAS1va) | [Songs](https://open.spotify.com/album/1CVOf9xngqh7U7FvOs0OSr) | 3:05 |
 | 90 | [Respect](https://open.spotify.com/track/60pb3dBec5kUtpNKmTn7wX) | [Melanie Amaro](https://open.spotify.com/artist/5jWTiWBU6BfIEtcYwYA3nv) | [Respect](https://open.spotify.com/album/0IPlesdaTA40TLJN5pzKFX) | 2:43 |
 | 91 | [Sweet Soul Music](https://open.spotify.com/track/2YuIyYri67bgUXKQW5V9XW) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Sweet Soul Music](https://open.spotify.com/album/2fZ5TzqZjIWEAP5T9ktlBC) | 2:21 |
 | 92 | [Where You Lead Me](https://open.spotify.com/track/7CQfHbaz8di8UFbayDCRCl) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Sweet Soul Music](https://open.spotify.com/album/6K1TG5C0rzi1tfNEmUI4CY) | 2:29 |
 
-Snapshot ID: `MTYzMzA2MDgwMCwwMDAwMDAwMDRkNmUzZGU5YWEwYWIzMjU3MGQ0YTA1OTQ2NGRlZTFl`
+Snapshot ID: `MTYzMzA2MDgwMCwwMDAwMDAwMDhiZmZkZTc2ZWE2YmE4NTg4ZjliNjg1Njk5MzY2NGMz`

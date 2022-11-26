@@ -4,7 +4,7 @@
 
 > Start your day with these beautiful scores.
 
-84 songs - 3 hr 49 min - [published](https://open.spotify.com/playlist/77k28aHRsXOHJFjfmZMjS8)
+85 songs - 3 hr 53 min - [published](https://open.spotify.com/playlist/77k28aHRsXOHJFjfmZMjS8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Gold among the Sand](https://open.spotify.com/track/0QVG4AIVRPQdhNR1dOegsc) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [The Mountain Disconnect](https://open.spotify.com/album/7hEd3BEoTsDTFgBFPnBLDR) | 3:03 | 2022-06-10 |  |
 | [Greetings from Belize](https://open.spotify.com/track/5nhS7fj2S3Td2HIDCpcmVb) | [Lixol](https://open.spotify.com/artist/4wXk0BFjhLlkvvnizwEUGR) | [Greetings from Belize](https://open.spotify.com/album/6HzK0TGQenShzRupoyc9x5) | 2:43 | 2022-06-10 |  |
 | [Home](https://open.spotify.com/track/0BZK74rauKeNrOevBkhNE8) | [Gorka](https://open.spotify.com/artist/6kPHDVsuzYXW2oTAZ80QJj) | [Meditations II](https://open.spotify.com/album/3nVaUZTPIjtP99Ebri2LaS) | 3:14 | 2022-06-10 |  |
-| [How to Be Invisible](https://open.spotify.com/track/6GEX4BBT1EHwIiO6qkYSUR) | [Thrupence](https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9) | [Piano Works](https://open.spotify.com/album/6k6xZ06qceVGxE3NLPrj5x) | 3:06 | 2022-06-10 |  |
+| [How to Be Invisible](https://open.spotify.com/track/4Xfi7e0KgofJ5PgCBBauGf) | [Thrupence](https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9) | [Piano Works](https://open.spotify.com/album/6CNfqzu5WvgJeS2GegpHnp) | 3:06 | 2022-09-09 |  |
+| [How to Be Invisible](https://open.spotify.com/track/6GEX4BBT1EHwIiO6qkYSUR) | [Thrupence](https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9) | [Piano Works](https://open.spotify.com/album/6k6xZ06qceVGxE3NLPrj5x) | 3:06 | 2022-06-10 | 2022-10-23 |
 | [Hunger, Thirst](https://open.spotify.com/track/2CH3Ub29VJrqNgg0v2fx0D) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [The Road To Meteora](https://open.spotify.com/album/3PLSbFdaSc9nHiZsdutrAz) | 2:13 | 2022-06-10 |  |
 | [I'm Yours](https://open.spotify.com/track/3vGp33C7IFjgJdvFDhvRc9) | [Karolina Szcześniak](https://open.spotify.com/artist/5pcFuJmgWmT0JvJELnkHrS) | [I'm Yours](https://open.spotify.com/album/4hMVTdiiq47rlHysJYOcfR) | 2:43 | 2022-07-08 |  |
 | [In My Blood](https://open.spotify.com/track/3Qk8eoXVUqHIRCarPbrlr8) | [Dorette Roos](https://open.spotify.com/artist/7jKYBIGfuGvN2Jsvu5qGGX) | [In My Blood](https://open.spotify.com/album/7JFHndEvL3lcEuPtrhIznR) | 2:20 | 2022-09-02 |  |

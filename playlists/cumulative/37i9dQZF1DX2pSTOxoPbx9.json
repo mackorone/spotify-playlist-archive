@@ -41,7 +41,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": null,
       "duration_ms": 198313,
       "name": "Ain't No Grave (Sparse)",
       "url": "https://open.spotify.com/track/2aSP07jHAlACdY9tphgkA8"
@@ -611,7 +611,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 251692,
       "name": "Coming of Age (demo)",
       "url": "https://open.spotify.com/track/03HonCy9ZfHnYmc7NzFTLN"
@@ -655,6 +655,24 @@
     {
       "album": {
         "name": "Crush (Stripped)",
+        "url": "https://open.spotify.com/album/10fYQ1V2fQb9JVTFFdr5TA"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229565,
+      "name": "Crush - Stripped",
+      "url": "https://open.spotify.com/track/0doTgRQa7qyw5JYPfwhPcK"
+    },
+    {
+      "album": {
+        "name": "Crush (Stripped)",
         "url": "https://open.spotify.com/album/1Z4jaVCQECJE5qeOafvWsw"
       },
       "artists": [
@@ -665,7 +683,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 229565,
       "name": "Crush - Stripped",
       "url": "https://open.spotify.com/track/0pvUUXfn0avFTZYOFVjPX4"
@@ -723,6 +741,24 @@
       "duration_ms": 215729,
       "name": "Deep Green",
       "url": "https://open.spotify.com/track/3y7SaLukj7ONKxdZLAoQtH"
+    },
+    {
+      "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv"
+      },
+      "artists": [
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230379,
+      "name": "Deliverance",
+      "url": "https://open.spotify.com/track/0lTmVz7A8YJM2fI9k1iMcV"
     },
     {
       "album": {
@@ -1061,7 +1097,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 196160,
       "name": "Every Man Is a Warrior",
       "url": "https://open.spotify.com/track/1s7UcC1RY8w1DJMry3ETYD"
@@ -1097,7 +1133,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 247588,
       "name": "Everything We Do Is Wrong",
       "url": "https://open.spotify.com/track/46RSHHcMv3BhuXobfFfAAT"
@@ -1155,6 +1191,24 @@
       "duration_ms": 250951,
       "name": "Fight For Life",
       "url": "https://open.spotify.com/track/3Hd8w9C1pU2zBFohcndEfw"
+    },
+    {
+      "album": {
+        "name": "Fire of Love",
+        "url": "https://open.spotify.com/album/2FXiYzdQcU5btMt1BfK9UL"
+      },
+      "artists": [
+        {
+          "name": "Jesse Jo Stark",
+          "url": "https://open.spotify.com/artist/1VmIiQ7VHrqHg90igSWrB0"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280497,
+      "name": "Fire of Love",
+      "url": "https://open.spotify.com/track/4lnAR9AH0WZoRUNsOgwHXd"
     },
     {
       "album": {
@@ -1580,6 +1634,24 @@
     },
     {
       "album": {
+        "name": "Short Movie (Director's Cut)",
+        "url": "https://open.spotify.com/album/2hGp4zeWcLdeQ0iq7Uj52Q"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 173693,
+      "name": "I Feel Your Love - Director's Cut",
+      "url": "https://open.spotify.com/track/2H1dRtNUitddC5lt07W3Pp"
+    },
+    {
+      "album": {
         "name": "I Forget Where We Were",
         "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
       },
@@ -1689,6 +1761,24 @@
     {
       "album": {
         "name": "I'm Not Asking",
+        "url": "https://open.spotify.com/album/6pnl1FCuVKktl20mJjYebQ"
+      },
+      "artists": [
+        {
+          "name": "Odina",
+          "url": "https://open.spotify.com/artist/2D0wm8aDnVrcljPwg2GM75"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 170160,
+      "name": "I'm Not Asking",
+      "url": "https://open.spotify.com/track/05IJNjjrvn8pDzOpbjrsIy"
+    },
+    {
+      "album": {
+        "name": "I'm Not Asking",
         "url": "https://open.spotify.com/album/1AOJoqNJwzaKDt4HJanEyY"
       },
       "artists": [
@@ -1717,7 +1807,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 205426,
       "name": "I'm Tired, You're Lonely",
       "url": "https://open.spotify.com/track/3eOowx1zDomY1YC1UDKDKn"
@@ -1841,12 +1931,12 @@
           "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         },
         {
-          "name": "Noah Gundersen",
-          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
-        },
-        {
           "name": "Abby Gundersen",
           "url": "https://open.spotify.com/artist/5BlKoQLYxv24MSV5AD6i6q"
+        },
+        {
+          "name": "Noah Gundersen",
+          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
         }
       ],
       "date_added": "2022-07-11",
@@ -1895,7 +1985,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 242253,
       "name": "Loose Change for the Boatman",
       "url": "https://open.spotify.com/track/307cqh2ACTzBm3deY5uVzs"
@@ -1931,10 +2021,28 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-16",
       "duration_ms": 200448,
       "name": "Loving, Loving",
       "url": "https://open.spotify.com/track/1QIzSLVBQA2GBrF2IDBSPK"
+    },
+    {
+      "album": {
+        "name": "Shades",
+        "url": "https://open.spotify.com/album/6jKRogMVb2zVkd0RvpxCS2"
+      },
+      "artists": [
+        {
+          "name": "Vera Sola",
+          "url": "https://open.spotify.com/artist/6QZsje9QjfKHObQDmX6k0y"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200448,
+      "name": "Loving, Loving",
+      "url": "https://open.spotify.com/track/74PqdCEXhh29g5a8UGIez8"
     },
     {
       "album": {
@@ -2011,7 +2119,7 @@
     {
       "album": {
         "name": "Absolute Zero",
-        "url": "https://open.spotify.com/album/6etgcx8zgTyaGJBXXweGsf"
+        "url": "https://open.spotify.com/album/1kqlpogKhHGn8zJTXUtZbW"
       },
       "artists": [
         {
@@ -2022,6 +2130,24 @@
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 300960,
+      "name": "My Love Took Me Down To the River To Silence Me",
+      "url": "https://open.spotify.com/track/1Me1LN4tpFc3rCRkmHAu0q"
+    },
+    {
+      "album": {
+        "name": "Absolute Zero",
+        "url": "https://open.spotify.com/album/6etgcx8zgTyaGJBXXweGsf"
+      },
+      "artists": [
+        {
+          "name": "Little Green Cars",
+          "url": "https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
       "duration_ms": 300960,
       "name": "My Love Took Me Down To the River To Silence Me",
       "url": "https://open.spotify.com/track/5wTh0TKsazGQ6iE2wJLOBH"
@@ -2255,7 +2381,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 123160,
       "name": "Out of the Darkness",
       "url": "https://open.spotify.com/track/5wCbj11DaBaIFpjSVBNiED"
@@ -2547,7 +2673,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 276286,
       "name": "Sleeper",
       "url": "https://open.spotify.com/track/6AohzKCNCm2aVmqRFS6mIb"
@@ -2583,7 +2709,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": "2022-11-11",
       "duration_ms": 362280,
       "name": "Smile",
       "url": "https://open.spotify.com/track/2hMl41oCsn1JDbUlCRpaRH"
@@ -2637,10 +2763,28 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 240560,
       "name": "Smother",
       "url": "https://open.spotify.com/track/27ViT9yPmgH4TLyXPTsQWl"
+    },
+    {
+      "album": {
+        "name": "If You Leave",
+        "url": "https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM"
+      },
+      "artists": [
+        {
+          "name": "Daughter",
+          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240560,
+      "name": "Smother",
+      "url": "https://open.spotify.com/track/2Fa5PjvjXH1qKWI0umk4oY"
     },
     {
       "album": {
@@ -2691,7 +2835,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 311025,
       "name": "Stakes",
       "url": "https://open.spotify.com/track/0MrCHY7OM8VjnsfwT3DSsw"
@@ -2713,6 +2857,24 @@
       "duration_ms": 321057,
       "name": "Stars",
       "url": "https://open.spotify.com/track/7sqMo5ZnWfr1IdGoiwzm9Y"
+    },
+    {
+      "album": {
+        "name": "In Darkened Rooms",
+        "url": "https://open.spotify.com/album/0FBUrWKF7V022FRI1RkfW7"
+      },
+      "artists": [
+        {
+          "name": "Sam Airey",
+          "url": "https://open.spotify.com/artist/1VTqcwo2gWop75nRqyCGJw"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322680,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/39rXqYJ5vTRmi6kq0JvoiM"
     },
     {
       "album": {
@@ -2893,6 +3055,24 @@
       "duration_ms": 383320,
       "name": "The Groundskeeper",
       "url": "https://open.spotify.com/track/36CxmmDpZdUJqIyo5NTyfw"
+    },
+    {
+      "album": {
+        "name": "In the Magic Hour",
+        "url": "https://open.spotify.com/album/1sfz6tIsPAhgsqvcCZ6fvw"
+      },
+      "artists": [
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 236400,
+      "name": "The King of All Birds",
+      "url": "https://open.spotify.com/track/2DXbvKaUSUlb7q02GNJjCF"
     },
     {
       "album": {
@@ -3105,10 +3285,28 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 160120,
       "name": "Until the Levee",
       "url": "https://open.spotify.com/track/5BkUllQfBPaotKuoxosECg"
+    },
+    {
+      "album": {
+        "name": "Alarms in the Heart",
+        "url": "https://open.spotify.com/album/6xvzrRUXEUAPeo6iIVUzy2"
+      },
+      "artists": [
+        {
+          "name": "Dry the River",
+          "url": "https://open.spotify.com/artist/5VIq5RHAbVUMF700vdwfYw"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 312133,
+      "name": "Vessel",
+      "url": "https://open.spotify.com/track/1Z3cJgi5T2qhrxSR8vtFEh"
     },
     {
       "album": {

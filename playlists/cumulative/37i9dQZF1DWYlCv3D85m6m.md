@@ -4,7 +4,7 @@
 
 > One in a million! TWICE!
 
-172 songs - 9 hr 29 min - [published](https://open.spotify.com/playlist/5QvtyB5RVrIoS1lUVpkCdO)
+178 songs - 9 hr 51 min - [published](https://open.spotify.com/playlist/5QvtyB5RVrIoS1lUVpkCdO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [1 To 10](https://open.spotify.com/track/74oWejX8MG6SEaJiz1334D) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Twicecoaster: Lane 1](https://open.spotify.com/album/5zQhaDNbiXHRqd8Y51I4vy) | 2:55 | 2022-07-19 |  |
 | [1, 3, 2 \(JEONGYEON, MINA, TZUYU\)](https://open.spotify.com/track/2pczTxiMdmkR2crPgZkbyR) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/51aC8iSMhWlYY6ymv7P8zi) | 3:18 | 2022-03-24 | 2022-07-29 |
 | [1, 3, 2 \(JEONGYEON, MINA, TZUYU\)](https://open.spotify.com/track/6bS9w12VuyaqkbNKnw5zZE) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:18 | 2022-07-19 |  |
+| [A Strange Day](https://open.spotify.com/track/1haYZ64GiDq3vU36S4BZEN) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [Summer Strike, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/5aDe6PUvWurZOsXZLc4ia8) | 3:54 | 2022-11-21 |  |
 | [Alcohol\-Free](https://open.spotify.com/track/0BTaaKT4RMbs5M73tOHX5Y) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Taste of Love](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) | 3:30 | 2022-03-24 |  |
 | [Alcohol\-Free \- Japanese ver.](https://open.spotify.com/track/3gSGchfwjDKKVOE3RRXDSZ) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [\#TWICE4 \(Japanese ver.\)](https://open.spotify.com/album/5UMKm3ihuSD9WQDkwQ7btX) | 3:33 | 2022-03-24 |  |
 | [Baby Blue Love](https://open.spotify.com/track/7Jzo3IObpANz6giPTUrihB) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Taste of Love](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) | 2:46 | 2022-03-24 |  |
@@ -112,6 +113,7 @@
 | [MORE & MORE](https://open.spotify.com/track/2bAAj29XGc4h1G4oEGYCmg) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/1bUx6TFAyzCdZY9ugEXxRh) | 3:19 | 2022-03-24 | 2022-07-29 |
 | [MORE & MORE](https://open.spotify.com/track/3omvXShuRPM3zbDpWYqf5g) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv) | 3:19 | 2022-07-19 |  |
 | [One In A Million](https://open.spotify.com/track/2YTzBBMPkf2mETq2FyzoUs) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Twicecoaster:lane1](https://open.spotify.com/album/6kDty5vSEGHiTHS8OwXSCj) | 2:55 | 2022-03-24 | 2022-07-29 |
+| [One In A Million](https://open.spotify.com/track/2WWUozUXaj0XY8MKmFHvYp) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Twicecoaster: Lane 2](https://open.spotify.com/album/2Mw8oK3aJKmOa9YGWqpN2W) | 2:55 | 2022-08-26 | 2022-11-13 |
 | [One In A Million](https://open.spotify.com/track/6Nqp4bYrZgdVnAmWc9Ek39) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Twicecoaster: Lane 1](https://open.spotify.com/album/5zQhaDNbiXHRqd8Y51I4vy) | 2:55 | 2022-07-19 |  |
 | [One More Time](https://open.spotify.com/track/4DmS8lnz6VbEMWrUcbm8WZ) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BDZ](https://open.spotify.com/album/3Bi7hl11zYHpw6uE6gAtSs) | 3:03 | 2022-03-24 |  |
 | [OXYGEN](https://open.spotify.com/track/0JeDwT1t3gcrAH29RA0yvm) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/1bUx6TFAyzCdZY9ugEXxRh) | 3:45 | 2022-03-24 | 2022-07-29 |
@@ -134,6 +136,7 @@
 | [REWIND](https://open.spotify.com/track/4BBnKqIS2pj2hX0zm0CZZx) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:00 | 2022-07-19 |  |
 | [SAY SOMETHING](https://open.spotify.com/track/2FD1OIYpzEf9y2Z6S8hgJu) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes wide open](https://open.spotify.com/album/77irgFZWRDU0jkUCYvLiua) | 4:07 | 2022-03-24 | 2022-07-29 |
 | [SAY SOMETHING](https://open.spotify.com/track/2gagYYY4R8QimbnFqd96ST) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 4:07 | 2022-07-19 |  |
+| [SAY YOU LOVE ME](https://open.spotify.com/track/0jDOXqTgGkkccDpsLGRWth) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [The year of "YES"](https://open.spotify.com/album/0pzmyJftuTK7i4HLjnfq1n) | 3:32 | 2022-08-26 | 2022-11-13 |
 | [SAY YOU LOVE ME](https://open.spotify.com/track/7fEMfYZnjQ28Cpzi7QnkAC) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [YES or YES](https://open.spotify.com/album/25VunQEW0x2W6ALND2Mh4g) | 3:32 | 2022-07-19 |  |
 | [SAY YOU LOVE ME](https://open.spotify.com/track/069jMsuBJ01VXF7MXiuKET) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [YES or YES](https://open.spotify.com/album/38QQgShZFuEAJJw1A6hz3x) | 3:32 | 2022-03-24 | 2022-07-29 |
 | [Scandal](https://open.spotify.com/track/2fluM1mE0tKQ6rvM77Vr11) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Taste of Love](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) | 2:43 | 2022-03-24 |  |
@@ -165,6 +168,7 @@
 | [TRICK IT](https://open.spotify.com/track/0lOndCh09maK7vpvRgyy6u) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Feel Special](https://open.spotify.com/album/4EG4E0Uk0HpJBgOMgXI26z) | 3:13 | 2022-03-24 | 2022-07-29 |
 | [TRICK IT](https://open.spotify.com/track/10la9pZeeL51aEjzC02SkI) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Feel Special](https://open.spotify.com/album/3NQBPabmRm3LzVcmtkTLfo) | 3:14 | 2022-07-19 |  |
 | [Trouble](https://open.spotify.com/track/5L9eGmPwQnhIlJY1qDQ3OJ) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 3:35 | 2022-08-26 |  |
+| [TT](https://open.spotify.com/track/1dLmduuScyeYONBTKKu3VG) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Twicecoaster: Lane 2](https://open.spotify.com/album/2Mw8oK3aJKmOa9YGWqpN2W) | 3:32 | 2022-08-26 | 2022-11-13 |
 | [TT](https://open.spotify.com/track/60jFaQV7Z4boGC4ob5B5c6) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Twicecoaster: Lane 1](https://open.spotify.com/album/5zQhaDNbiXHRqd8Y51I4vy) | 3:32 | 2022-07-19 |  |
 | [TT](https://open.spotify.com/track/1nMbZ9OsVNSLEyijI80EST) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Twicecoaster:lane1](https://open.spotify.com/album/6kDty5vSEGHiTHS8OwXSCj) | 3:32 | 2022-03-24 | 2022-07-29 |
 | [TT \- Japanese ver.](https://open.spotify.com/track/0PAyiPTz8gL0udQnSasc5G) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [\#TWICE](https://open.spotify.com/album/3RU5xvGbTAXCWoUSqGf7dk) | 3:32 | 2022-03-24 |  |
@@ -173,12 +177,14 @@
 | [UP NO MORE](https://open.spotify.com/track/0eeebX5IslzAMBs519PlO5) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes wide open](https://open.spotify.com/album/77irgFZWRDU0jkUCYvLiua) | 3:34 | 2022-03-24 | 2022-07-29 |
 | [UP NO MORE](https://open.spotify.com/track/1LiNP5q2thWScdvCRkJ584) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:34 | 2022-07-19 |  |
 | [Wake Me Up](https://open.spotify.com/track/0CvJiFydKzLSQUn6McFPrb) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BDZ](https://open.spotify.com/album/3Bi7hl11zYHpw6uE6gAtSs) | 3:31 | 2022-03-24 |  |
+| [What is Love](https://open.spotify.com/track/54mnwt3kO0uYsy0ceg14JP) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [What Is Love](https://open.spotify.com/album/5o5cJ6yZmcyy4y4hK0J6de) | 3:28 | 2022-08-26 | 2022-11-13 |
 | [What is Love](https://open.spotify.com/track/3zhbXKFjUDw40pTYyCgt1Y) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Summer Nights](https://open.spotify.com/album/2GKTroaa4ysyhEdvzpvUoM) | 3:28 | 2022-07-19 |  |
 | [What is Love?](https://open.spotify.com/track/7dZBVloiLpV350g0R6O3nP) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Summer Nights](https://open.spotify.com/album/7Km2KH6vfW9WzG7OeXFZHo) | 3:28 | 2022-03-24 | 2022-07-29 |
 | [When We Were Kids](https://open.spotify.com/track/7uAKsykguOnXZSh0WpOW5z) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 3:09 | 2022-08-26 |  |
 | [Wonderful Day](https://open.spotify.com/track/75wtNse2szKx7YT2WKhiTL) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Doughnut](https://open.spotify.com/album/1eIMbbLLxejimwwLW4Rdl8) | 3:31 | 2022-03-24 |  |
 | [YES or YES](https://open.spotify.com/track/26OVhEqFDQH0Ij77QtmGP9) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [YES or YES](https://open.spotify.com/album/25VunQEW0x2W6ALND2Mh4g) | 3:57 | 2022-07-19 |  |
 | [YES or YES](https://open.spotify.com/track/1S6zXoXhfalX2ETKo337Md) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [YES or YES](https://open.spotify.com/album/38QQgShZFuEAJJw1A6hz3x) | 3:57 | 2022-03-24 | 2022-07-29 |
+| [YES or YES](https://open.spotify.com/track/27EUkTy6RrDCCToOoRXiQB) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [The year of "YES"](https://open.spotify.com/album/0pzmyJftuTK7i4HLjnfq1n) | 3:57 | 2022-08-26 | 2022-11-13 |
 | [올해 제일 잘한 일 The Best Thing I Ever Did](https://open.spotify.com/track/1LiKPVgIQdR5Rk97o8a1fF) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [The year of "YES"](https://open.spotify.com/album/7fk1Ss3LO6U2LYHb82z9zf) | 3:30 | 2022-03-24 | 2022-07-29 |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

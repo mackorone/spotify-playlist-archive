@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 
 > Uma playlist só com as origens do Rap nacional\. Foto: MV Bill
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,272 likes - 70 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,330 likes - 70 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 | 34 | [Malandragem da um Tempo](https://open.spotify.com/track/5Z1FBi4zkRt6DPHLxKsq1e) | [Thaíde & DJ Hum](https://open.spotify.com/artist/26hFGAboiK1hGyRCXdfOq3), [DJ Hum](https://open.spotify.com/artist/37hCu82ZWZlLCf6gs1H8Gf), [Thaíde](https://open.spotify.com/artist/6aBCEjrlI6ylLy2DTHRyJe), [Lino Krizz](https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg), [Che Leal](https://open.spotify.com/artist/0UCyolhfGmv9eSXextqpJJ) | [Preste Atenção](https://open.spotify.com/album/4QhLW1Z07WU2CrQcerA7wy) | 6:52 |
 | 35 | [Sou Negrão](https://open.spotify.com/track/22jyfobuA8gTgTsTHGAPzG) | [Possemente Zulu](https://open.spotify.com/artist/6jXPqaCexpo7b4JHeFsmSV) | [Revolusom: A Volta do Tape Perdido](https://open.spotify.com/album/0S2iqPNC2M1taMpLWA2Map) | 6:25 |
 | 36 | [Traficando Informação](https://open.spotify.com/track/1vSxH0qXUvKvgyE4PXi4i6) | [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ), [DJ Jr](https://open.spotify.com/artist/5QlOcu6Gkblz9Ix9w6yudx) | [Traficando Informação](https://open.spotify.com/album/0Tl0xR97QwbyY6YU5Q70mV) | 6:46 |
-| 37 | [Isso Aqui É uma Guerra](https://open.spotify.com/track/0aaVL58r9tX4wUrJM9K0RZ) | [Facção Central](https://open.spotify.com/artist/3V3rRpp5sbiBNY34AdnplK) | [Versos Sangrentos](https://open.spotify.com/album/0NVLGw47LBem7p3rsQrrV8) | 4:26 |
+| 37 | [Isso Aqui É uma Guerra](https://open.spotify.com/track/77XTtDeV1SljrkeM3TXUsr) | [Facção Central](https://open.spotify.com/artist/3V3rRpp5sbiBNY34AdnplK) | [Versos Sangrentos](https://open.spotify.com/album/6klzQ2I4ekdPh2jGSJ41PW) | 4:26 |
 | 38 | [Só Quem É Louco](https://open.spotify.com/track/78NAfjEvh6P8TVRzTty98M) | [De Menos Crime](https://open.spotify.com/artist/0MihNWp86Psp4ss7Evogvv) | [Rap das Quebradas](https://open.spotify.com/album/5VgX0CKs44YLtzDFrCuMdE) | 4:57 |
 | 39 | [Somos Nos](https://open.spotify.com/track/3qQ6z2RmuTXDDMW4FOZpEW) | [SNJ](https://open.spotify.com/artist/53eJax5oXY1SqAwVjSO7Uk) | [Somos Nos a Justica](https://open.spotify.com/album/0XlG6cwuICfhqx2oo7YqyK) | 4:34 |
 | 40 | [Fúria de Titãs](https://open.spotify.com/track/6t1QyknKQsFnDPPdllGaAl) | [Sp Funk](https://open.spotify.com/artist/6gOXHHfszKFFvIaKUe2aTN) | [O Lado B do Hip Hop](https://open.spotify.com/album/1Dt0zURMcpStSTSsDFIOVP) | 3:56 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 | 69 | [Saudades Mil](https://open.spotify.com/track/1hB4340DP1nnBmfWn37uTN) | [509\-E](https://open.spotify.com/artist/1PA11Cy0SrjmwymvGS9h0C), [Dexter](https://open.spotify.com/artist/76IyGPd3y2mBZCljGcke0x), [Afro\-X](https://open.spotify.com/artist/6iFQ7pCJ0ohIAdeu5gi46z) | [Provérbios 13](https://open.spotify.com/album/23gdpNjl66f8AiHQ9HyHqJ) | 8:46 |
 | 70 | [O Clã da Vila](https://open.spotify.com/track/2U1bbnX6oxwdNedX32CL23) | [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [BNegão](https://open.spotify.com/artist/3wYrCJWf6iI5vuUDOnZdUw), [Satiras](https://open.spotify.com/artist/7gDFnhMz0f2jqUeNVr9TdA), [HHC](https://open.spotify.com/artist/4zG1JgcEXdGXtMfPG935gr) | [O Clã da Vila](https://open.spotify.com/album/5mUsmcFBfu9exO4DGDuxPg) | 7:33 |
 
-Snapshot ID: `MTY0NTc1ODA2MCwwMDAwMDAwMDI4MWVjMzZjMDI3MzU2ZDQ2OTU2ZjU5NWVkNGU1NDlj`
+Snapshot ID: `MTY0NTc1ODA2MCwwMDAwMDAwMDk4YTE4ZGVjMWU4ZGU5OGU5MDc0N2YyOTg3NzU0MTdi`

@@ -801,7 +801,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-09",
+      "date_removed": null,
       "duration_ms": 290152,
       "name": "Gymnastics - Original Mix",
       "url": "https://open.spotify.com/track/1NEBtSenjGD5NZyGuMMzOx"
@@ -881,7 +881,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": null,
       "duration_ms": 440341,
       "name": "Ho Chi Min",
       "url": "https://open.spotify.com/track/2vykok21C0IyTjpvUOcBWi"
@@ -1305,10 +1305,32 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 153231,
       "name": "Lurk",
       "url": "https://open.spotify.com/track/18uMuvNai5GtXxw4q8qjKR"
+    },
+    {
+      "album": {
+        "name": "For the Beasts",
+        "url": "https://open.spotify.com/album/02uTOzzQ6KmhFjN40LQbuK"
+      },
+      "artists": [
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        },
+        {
+          "name": "Casey MQ",
+          "url": "https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8"
+        }
+      ],
+      "date_added": "2021-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153231,
+      "name": "Lurk",
+      "url": "https://open.spotify.com/track/67GSQd7BWT55EZSQdEuDd4"
     },
     {
       "album": {
@@ -1363,7 +1385,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 412257,
       "name": "Mars 500",
       "url": "https://open.spotify.com/track/7KU1k3MVP8eFj81U3L85i8"
@@ -1385,6 +1407,24 @@
       "duration_ms": 344069,
       "name": "Minnoch",
       "url": "https://open.spotify.com/track/6GdyEMYwaCWCPFKTUCsBjF"
+    },
+    {
+      "album": {
+        "name": "Charles Webster - Coast2Coast",
+        "url": "https://open.spotify.com/album/0J3maXTgCWzdpFC3CQs6MO"
+      },
+      "artists": [
+        {
+          "name": "Larry Heard",
+          "url": "https://open.spotify.com/artist/3j7teie3p6UnbA8nW51Trz"
+        }
+      ],
+      "date_added": "2021-09-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-21",
+      "duration_ms": 396546,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/06hANyT8h4lWypiU6PJPrR"
     },
     {
       "album": {
@@ -1425,6 +1465,28 @@
       "duration_ms": 380149,
       "name": "Morning Shift",
       "url": "https://open.spotify.com/track/0DtvmA9qyTtrcCW4CcobHl"
+    },
+    {
+      "album": {
+        "name": "Scented Trip",
+        "url": "https://open.spotify.com/album/12Z1TMLUbMqeeivrEijzha"
+      },
+      "artists": [
+        {
+          "name": "Project Pablo",
+          "url": "https://open.spotify.com/artist/2OHzpRiwkpxGE7IA0hnSko"
+        },
+        {
+          "name": "Patrick Holland",
+          "url": "https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3"
+        }
+      ],
+      "date_added": "2021-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380149,
+      "name": "Morning Shift",
+      "url": "https://open.spotify.com/track/3zleqNZf1vJabDXJKfAE9G"
     },
     {
       "album": {
@@ -1573,7 +1635,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-11-20",
       "duration_ms": 352758,
       "name": "Okay",
       "url": "https://open.spotify.com/track/1HxZr4GP3BtpsLeEuZu7hD"
@@ -1831,7 +1893,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 235906,
       "name": "Prix Choc - Radio Edit - High Mix",
       "url": "https://open.spotify.com/track/6GjZSAoI4Kmwv1UgbTrcSr"
@@ -1871,6 +1933,24 @@
       "duration_ms": 132773,
       "name": "Pyramid - Mixed",
       "url": "https://open.spotify.com/track/2n1WQwQVpkEQyIW7yBcl2H"
+    },
+    {
+      "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/0RHvIL5YrBdDp5RmSbAwZg"
+      },
+      "artists": [
+        {
+          "name": "Joe Bataan",
+          "url": "https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU"
+        }
+      ],
+      "date_added": "2021-09-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 231213,
+      "name": "Rap-O Clap-O - 2013 - Remaster",
+      "url": "https://open.spotify.com/track/3zjPJnExupCwiukKM27m9q"
     },
     {
       "album": {
@@ -2135,7 +2215,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 130024,
       "name": "Tasty Jam",
       "url": "https://open.spotify.com/track/5Sg9WLdEmhstS2cb3Cemm1"
@@ -2501,6 +2581,24 @@
       "duration_ms": 412812,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/7fxcNshGvCxlNMGHI1GmCx"
+    },
+    {
+      "album": {
+        "name": "Sybil's Greatest Hits",
+        "url": "https://open.spotify.com/album/6aOF3agLPNHtnLx0A5GaJM"
+      },
+      "artists": [
+        {
+          "name": "Sybil",
+          "url": "https://open.spotify.com/artist/1EbIfIjVcauDatNO4vagL1"
+        }
+      ],
+      "date_added": "2021-09-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-24",
+      "duration_ms": 247266,
+      "name": "Walk on By",
+      "url": "https://open.spotify.com/track/2FDIwfqSI44hVE9D6RmLQQ"
     },
     {
       "album": {

@@ -52,6 +52,24 @@
     },
     {
       "album": {
+        "name": "The Next Best Thing (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/3VMwwLeNAMWBdVIgbF6m2v"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 273533,
+      "name": "American Pie",
+      "url": "https://open.spotify.com/track/1vo6TY0FyLRBTXohxvflhJ"
+    },
+    {
+      "album": {
         "name": "Music",
         "url": "https://open.spotify.com/album/1V342k6sinWc4y4R2iReOu"
       },
@@ -219,6 +237,28 @@
       "duration_ms": 242105,
       "name": "Come Alive",
       "url": "https://open.spotify.com/track/6hHPBnTvgBjmJoUowLa23S"
+    },
+    {
+      "album": {
+        "name": "LOUD & PROUD: The New Pride Classics",
+        "url": "https://open.spotify.com/album/10aEAltOqnfavek54Blruq"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 201640,
+      "name": "Crave",
+      "url": "https://open.spotify.com/track/04IwmKAt38EldXFedLRPw6"
     },
     {
       "album": {
@@ -1014,6 +1054,24 @@
     },
     {
       "album": {
+        "name": "GHV2",
+        "url": "https://open.spotify.com/album/5frQh0uqxnIQBam99WigU4"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 225973,
+      "name": "Music",
+      "url": "https://open.spotify.com/track/017KA33K4b49R1XUAyh2Nw"
+    },
+    {
+      "album": {
         "name": "Music",
         "url": "https://open.spotify.com/album/3e3PxWKqv7lyZaR5d02abW"
       },
@@ -1098,7 +1156,7 @@
       "date_added": "2020-06-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 328986,
+      "duration_ms": 324733,
       "name": "Rain",
       "url": "https://open.spotify.com/track/3b3PnE1ROIZzILjmCGjVib"
     },

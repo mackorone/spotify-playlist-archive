@@ -4,7 +4,7 @@
 
 > Acoustic versions of well\-known songs.
 
-187 songs - 10 hr 28 min - [published](https://open.spotify.com/playlist/2gZT7bXJYkak1F0H80ajLr)
+192 songs - 10 hr 44 min - [published](https://open.spotify.com/playlist/2gZT7bXJYkak1F0H80ajLr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,9 @@
 | [All Shook Up](https://open.spotify.com/track/5PYMu45h2MlZ3Pdqya8QGC) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [All Shook Up](https://open.spotify.com/album/5U7rExIsboni80h2SmVjNR) | 1:44 | 2022-08-03 |  |
 | [American Tune](https://open.spotify.com/track/1nQv2QYty0lSfc5CCeLJAd) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [American Tune](https://open.spotify.com/album/2g2rX08oAA6EpTn6HFVGox) | 4:06 | 2021-12-09 | 2022-07-29 |
 | [American Tune \- Special Edition](https://open.spotify.com/track/2leIRF8ATcYWf0ntdVjttp) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [Songs From Other Places \(Special Edition\)](https://open.spotify.com/album/4HZ7gRidkAp1iL8qDgtJy1) | 4:09 | 2022-07-26 | 2022-08-04 |
-| [Annie’s Song](https://open.spotify.com/track/25FlnyyFGyuinq9s0o4KMG) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Annie's Song](https://open.spotify.com/album/3BdPldIWLfVrHDMUcANP5o) | 2:55 | 2022-08-03 |  |
+| [Annie’s Song](https://open.spotify.com/track/25FlnyyFGyuinq9s0o4KMG) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Annie's Song](https://open.spotify.com/album/3BdPldIWLfVrHDMUcANP5o) | 2:55 | 2022-08-03 | 2022-11-07 |
+| [Annie’s Song](https://open.spotify.com/track/2GAK2qFjh7mOCE24RiGi7i) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Covers, Vol\. 1](https://open.spotify.com/album/0e1s7jQdJ0VsdzSnMXAPX9) | 2:55 | 2022-09-20 |  |
+| [Annie’s Song](https://open.spotify.com/track/5RHki2k4mpVxjqbvv2JIYE) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Your Song](https://open.spotify.com/album/17wpR31pu1gRi2OHilvbdY) | 2:55 | 2022-09-20 | 2022-11-13 |
 | [Anyone](https://open.spotify.com/track/0YhsOegsemgmT7ZHdWheUy) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Anyone](https://open.spotify.com/album/0KtdvlGTljVZ4D5Jarm4m8) | 2:52 | 2021-12-09 |  |
 | [Arcade](https://open.spotify.com/track/1h80wgwF7yRWVL8hhcECwy) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Arcade](https://open.spotify.com/album/0c5J1SUFA3rPbIZhK1kj62) | 2:28 | 2021-12-09 |  |
 | [As It Was](https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [As It Was](https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V) | 2:56 | 2022-05-23 |  |
@@ -114,6 +116,7 @@
 | [Kiss the Girl](https://open.spotify.com/track/4wJcS2F4VoJM2DR8en4EaW) | [Brent Morgan](https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV) | [Kiss the Girl](https://open.spotify.com/album/1UzG66W3YFBdLnDG8Bh7hl) | 2:10 | 2022-09-20 |  |
 | [Landslide](https://open.spotify.com/track/5Pz3fsfmozPwGTXOZzVt1L) | [Cattle & Cane](https://open.spotify.com/artist/6a1PrMzNmhNE8HrO8burHc) | [& Covers](https://open.spotify.com/album/78Fl6oqSvF7jm7QuDsLOo2) | 3:38 | 2022-07-26 |  |
 | [Landslide](https://open.spotify.com/track/7uy3S1s88VGFJeKRW5Q60r) | [Cattle & Cane](https://open.spotify.com/artist/6a1PrMzNmhNE8HrO8burHc) | [& Covers](https://open.spotify.com/album/6VtuhzqA2GKC9JJz9egSyN) | 3:38 | 2021-12-09 | 2022-07-29 |
+| [Landslide](https://open.spotify.com/track/4LukM96ZHxPL8KPhdEARzS) | [Cattle & Cane](https://open.spotify.com/artist/6a1PrMzNmhNE8HrO8burHc) | [Landslide](https://open.spotify.com/album/5dUOVCaTo5aaXt1S7zRnzt) | 3:38 | 2022-09-20 | 2022-11-13 |
 | [Landslide](https://open.spotify.com/track/30TJojIypyhX15vrYGti0G) | [Joseph Neville](https://open.spotify.com/artist/4abYx9Wwc8WxkCPgtfg0qV), [Samantha Melillo](https://open.spotify.com/artist/6vgtiLBz4eTU8iJwzu4zWL) | [Landslide](https://open.spotify.com/album/0HAxAaQRtNYEGB6tXau8HK) | 3:20 | 2021-12-09 |  |
 | [Let Her Go](https://open.spotify.com/track/5D0vkvek3pOkxk0udva7Yw) | [Music Travel Love](https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa) | [Let Her Go](https://open.spotify.com/album/60gcs78L51eAsxVEAulxJc) | 2:55 | 2021-12-09 |  |
 | [Let It Be \- Acoustic Cover](https://open.spotify.com/track/5Z7uQk07vVyT5lTimk0ssS) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Let It Be \(Acoustic Cover\)](https://open.spotify.com/album/6Vy6gebHPKWlIGXBWHwLTN) | 4:24 | 2022-08-03 |  |
@@ -147,6 +150,7 @@
 | [Running Out \- Live From The Studio / 2016](https://open.spotify.com/track/1obcO5plIza6FtGmMD9ceN) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Running Out \(Live From The Studio\)](https://open.spotify.com/album/5ewH5nYKdwRlAAdPkieTTS) | 2:45 | 2021-12-09 | 2022-07-29 |
 | [Salt And The Sea](https://open.spotify.com/track/1JWtd8xh4Q5dyvnpBKh8L0) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Salt And The Sea](https://open.spotify.com/album/6GVE4CFlrukN6Od0AnWL0c) | 4:22 | 2021-12-09 |  |
 | [Santa Monica](https://open.spotify.com/track/5cEJdYcgOYcW6dzeDyVbpf) | [Michele Leao](https://open.spotify.com/artist/6FjXAOfjiavprwnGzY0YvF) | [Santa Monica](https://open.spotify.com/album/3MEMNDcqRk8bKprYrIbEHW) | 3:50 | 2021-12-09 | 2021-12-23 |
+| [Save Me from Myself](https://open.spotify.com/track/0nGDvPqbLFdAK6YSnup81H) | [Julien Manaud](https://open.spotify.com/artist/0lMBZbZTldvvkoXmzExY6f), [Alexis Dumais](https://open.spotify.com/artist/0OyCCkPg57myMPlxOO2zXY) | [Adaptation, Vol\. 2](https://open.spotify.com/album/1GcwB9rGjefLQTB99KuCyL) | 3:17 | 2022-09-20 | 2022-11-13 |
 | [Save Me from Myself](https://open.spotify.com/track/0oJdAKfEck3cQxi28lExu2) | [Julien Manaud](https://open.spotify.com/artist/0lMBZbZTldvvkoXmzExY6f), [Alexis Dumais](https://open.spotify.com/artist/0OyCCkPg57myMPlxOO2zXY) | [Save Me from Myself](https://open.spotify.com/album/5Dwcw0QHLkYGoShk5qXiob) | 3:17 | 2021-12-09 | 2022-07-29 |
 | [Save Me from Myself](https://open.spotify.com/track/27QsIV6W06TrPVmhVPbfoP) | [Julien Manaud](https://open.spotify.com/artist/0lMBZbZTldvvkoXmzExY6f), [Alexis Dumais](https://open.spotify.com/artist/0OyCCkPg57myMPlxOO2zXY) | [Save Me from Myself](https://open.spotify.com/album/4CaPBj0KseqE1HfB2f8Dil) | 3:17 | 2022-07-26 |  |
 | [Say](https://open.spotify.com/track/2kowzxt2lnJhw9yQqOOG2n) | [The Albertson Duo](https://open.spotify.com/artist/0jbFImQ3Ja4NWpzob434nE) | [Say](https://open.spotify.com/album/5gOVhTYiwAK8EbmgaPWVfB) | 3:22 | 2021-12-09 |  |
@@ -155,6 +159,7 @@
 | [Set Fire to the Rain \- Cover](https://open.spotify.com/track/4wnhMXDfs64pcg0jxHscwI) | [Noah Guthrie](https://open.spotify.com/artist/6b0Wy4mw8ePj9w2EX3s4V3) | [The Covers, Vol\. 4](https://open.spotify.com/album/5U6Wjpe4mJO3TofaM9CzFz) | 3:53 | 2022-07-26 | 2022-09-21 |
 | [She Doesn't Mind](https://open.spotify.com/track/1bmt9LlrjBT0JH1nHpoiaI) | [OSIS](https://open.spotify.com/artist/3y4Zdm8q9efdnD8LC7Ryea) | [Covers By OSIS \(Pt\. 1\)](https://open.spotify.com/album/5TDrj1NmZ1JGtV837nf2iK) | 3:29 | 2022-07-26 |  |
 | [She Doesn't Mind](https://open.spotify.com/track/28viyHPgjcya11hq7zpxuH) | [OSIS](https://open.spotify.com/artist/3y4Zdm8q9efdnD8LC7Ryea) | [She Doesn't Mind](https://open.spotify.com/album/3HPvIWHp9DuT5aCCQAYXtK) | 3:29 | 2021-12-09 | 2022-07-29 |
+| [She Doesn't Mind](https://open.spotify.com/track/2Zis5AikaFO9h8rM5e4Z1v) | [OSIS](https://open.spotify.com/artist/3y4Zdm8q9efdnD8LC7Ryea) | [She Doesn't Mind](https://open.spotify.com/album/0evXINNrzDRfe18Y9qXR8D) | 3:29 | 2022-09-20 | 2022-11-13 |
 | [Sledgehammer](https://open.spotify.com/track/7cWTvfOdnO2slD9Xm7DK87) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [So Low](https://open.spotify.com/album/2NBpiTeWOyrP088gUj6J2y) | 4:24 | 2021-12-09 |  |
 | [So Hot You're Hurting My Feelings \- Acoustic](https://open.spotify.com/track/0F0xMIT47P5VpCOH5eajwO) | [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Acoustic](https://open.spotify.com/album/0WExxQj254CORDRL682MBN) | 2:46 | 2021-12-09 |  |
 | [Somebody That I Used To Know](https://open.spotify.com/track/0Bb9oRoN3suM9iiIwzHtmX) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Somebody That I Used To Know](https://open.spotify.com/album/2MBa7MBL9N5fACqj1KXmpl) | 2:52 | 2021-12-09 |  |

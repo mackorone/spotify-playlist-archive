@@ -395,6 +395,10 @@
         {
           "name": "Dwell Songs",
           "url": "https://open.spotify.com/artist/6RAMkZgRvrIeqrXtojaxHC"
+        },
+        {
+          "name": "Aaron Williams",
+          "url": "https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz"
         }
       ],
       "date_added": "2021-06-12",
@@ -749,7 +753,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 206923,
       "name": "For the Time We Have",
       "url": "https://open.spotify.com/track/3V7L3BpcEpcup3Xon1ywMg"
@@ -767,7 +771,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 288386,
       "name": "Found",
       "url": "https://open.spotify.com/track/3S9QiEXE0wFkFnUTny7BUf"
@@ -803,7 +807,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 222906,
       "name": "Freedom Found Me",
       "url": "https://open.spotify.com/track/2wRuIOGZyTKwUJP0miokoj"
@@ -1393,6 +1397,24 @@
     {
       "album": {
         "name": "I Belong (Live)",
+        "url": "https://open.spotify.com/album/1g36nrAxqhSAE9p1IzfJOm"
+      },
+      "artists": [
+        {
+          "name": "Orphan No More Co",
+          "url": "https://open.spotify.com/artist/7EYuj3Lwk6FkWeeIbXs87F"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 433346,
+      "name": "I Belong (Live)",
+      "url": "https://open.spotify.com/track/6HdmFq0G643kEEUne4Qec0"
+    },
+    {
+      "album": {
+        "name": "I Belong (Live)",
         "url": "https://open.spotify.com/album/0CUUIt88L7BwtMkRG5EDNV"
       },
       "artists": [
@@ -1519,7 +1541,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 362853,
       "name": "In Jesus' Name (Live)",
       "url": "https://open.spotify.com/track/5JBYldd09xjzZIsu9X3t9Q"
@@ -1805,7 +1827,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-04",
+      "date_removed": null,
       "duration_ms": 341451,
       "name": "Landslide - Radio Version",
       "url": "https://open.spotify.com/track/6PNcn8mtUlyilOsdgztIHA"
@@ -1937,7 +1959,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 267467,
       "name": "Lord You Have My Heart (feat. Martin Smith)",
       "url": "https://open.spotify.com/track/5zQBaedwtzHmC1z5OSNqvX"
@@ -2393,7 +2415,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 276686,
       "name": "Nothing Matters More",
       "url": "https://open.spotify.com/track/7vCZQQlgKsQHJy8avGc7Pv"
@@ -2830,6 +2852,24 @@
     },
     {
       "album": {
+        "name": "Life Again",
+        "url": "https://open.spotify.com/album/5BI5Wl8TCjrIczfZMQpU0u"
+      },
+      "artists": [
+        {
+          "name": "Brad & Rebekah",
+          "url": "https://open.spotify.com/artist/1ef7Y06MRVT7HfRdJDHBOG"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242647,
+      "name": "Rejoice",
+      "url": "https://open.spotify.com/track/2lJnLe5B0RSr8H5DpSktER"
+    },
+    {
+      "album": {
         "name": "Rejoice",
         "url": "https://open.spotify.com/album/0k5NWjpgHJb4AW22CcE6PP"
       },
@@ -3247,7 +3287,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 240766,
       "name": "The King In All His Beauty",
       "url": "https://open.spotify.com/track/7v8QIGeHDGkUm0ZcLq8eKR"
@@ -3455,6 +3495,24 @@
       "duration_ms": 349000,
       "name": "Uncomplicated - Live",
       "url": "https://open.spotify.com/track/3ge06lwFn2X4s5UxN5Rj70"
+    },
+    {
+      "album": {
+        "name": "Uncomplicated",
+        "url": "https://open.spotify.com/album/5CR3dPeatQzTUhR1m9ZWPU"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 349000,
+      "name": "Uncomplicated - Live",
+      "url": "https://open.spotify.com/track/54vRNERWhSwJZ1W5y9zlDt"
     },
     {
       "album": {
@@ -3793,7 +3851,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": "2022-11-13",
       "duration_ms": 385294,
       "name": "Your Name - Live",
       "url": "https://open.spotify.com/track/6EBl99aH0CywyEmWqje7pW"

@@ -4,7 +4,7 @@
 
 > All of the nominees in one playlist! More info on this year's event can be found at <a href="http://www.stellarawards.com">stellarawards.com</a>.
 
-67 songs - 5 hr 35 min - [published](https://open.spotify.com/playlist/3VeowKesVCgXddAbbsHRxd)
+69 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/3VeowKesVCgXddAbbsHRxd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Have It All](https://open.spotify.com/track/6h2tyhpxtw8QR7IWpLFdBV) | [Fresh Start Worship](https://open.spotify.com/artist/68DSgQk6h3W5oBCsWIgmWG), [Sarai](https://open.spotify.com/artist/4HmMtATYC7WoVVbvEAIfrR) | [Have It All](https://open.spotify.com/album/4TvhlCVIzUi74MhG4N7LqG) | 3:34 | 2020-09-08 |  |
 | [He Worked It Out \- Live](https://open.spotify.com/track/4U5HnmNq0bRbUdsITMv46V) | [The Tommies Reunion](https://open.spotify.com/artist/41WuewTCHqFQSvRdkyWhjT) | [The Tommies Reunion \(Live\)](https://open.spotify.com/album/4T7P2uJYdsTgCllyJdITY4) | 5:09 | 2020-09-08 |  |
 | [Healing](https://open.spotify.com/track/7zAbUXqtR1IB7PUMG3KeBu) | [Deborah Joy Winans](https://open.spotify.com/artist/64ol6da07DF7satZ0IQhwo) | [Greenleaf, Season 3 \(Music from the Original TV Series\)](https://open.spotify.com/album/4HBxCMRCyfxHhoW1vFiK2i) | 4:26 | 2020-09-08 |  |
+| [I Got It](https://open.spotify.com/track/10pOcnlNCuyVCLBr4M7Nis) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS), [Kerry Douglas](https://open.spotify.com/artist/4c2cuY9TIk79ilLtjwJXL4) | [Big: Freedom Session \(LIVE\)](https://open.spotify.com/album/6esoWZzd8PZHYS40n4MWbo) | 4:07 | 2020-09-08 | 2022-11-13 |
 | [I Got It \- Bonus Track](https://open.spotify.com/track/6y8ZVdDFBly8GJhFJAM97L) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [I Got It: Singles Ministry, Vol\. 1](https://open.spotify.com/album/5jxxVFeOULCVZR5K3n9Zwa) | 4:07 | 2020-09-08 |  |
 | [I Love Him](https://open.spotify.com/track/0m5RnG9Zaxi6ierwUtrOIh) | [Renee Spearman](https://open.spotify.com/artist/4UhXj07SO0QVDVJlj6sMcW), [Hezekiah Walker](https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd), [Dr\. Holly Carter](https://open.spotify.com/artist/3mZT0ejcCmnNswl8HXOxNA) | [I Love Him](https://open.spotify.com/album/5yLNbxR3Ho43FXKGU997lf) | 3:55 | 2020-09-08 |  |
 | [I Made It Out \(Radio Edit\)](https://open.spotify.com/track/23XInhCvpwCVcMZhzfNgrq) | [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl), [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp) | [I Made It Out](https://open.spotify.com/album/2UZ50ykEFFtYVe7Tg0b6N4) | 4:58 | 2020-09-08 |  |
@@ -64,6 +65,7 @@
 | [The First Noel \(feat\. The Baylor Project & Jamison Ross\)](https://open.spotify.com/track/1LoP1dI0lzuh4bpFT4b1L4) | [Maranda Curtis](https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502), [The Baylor Project](https://open.spotify.com/artist/3sNeruDf1WltSjJ7Jtmucp), [Jamison Ross](https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK) | [Maranda Presents A Holy Christmas](https://open.spotify.com/album/0c1zGZMDhb2UNZlmQ8cfKN) | 6:28 | 2020-09-08 |  |
 | [The Gathering \- Single Version](https://open.spotify.com/track/3CjacuJd1SEabnt0MkE0Jr) | [Casey J](https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd) | [The Gathering](https://open.spotify.com/album/57fiO76hcLID1214nGxUoQ) | 3:57 | 2020-09-08 |  |
 | [The Greatest](https://open.spotify.com/track/6sYEL144ROUzl6naTmgIPk) | [Lawrence Hancock](https://open.spotify.com/artist/6UD4FlKheqYI40jvwZavH8) | [Nothings Too Hard](https://open.spotify.com/album/4g8S3RrzlnweH4PGwhK5Wi) | 3:34 | 2020-09-08 |  |
+| [This Is A Move \- Live](https://open.spotify.com/track/0XBCRHZQUqZwcYFEYhlD3Q) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Black History Month: Gospel](https://open.spotify.com/album/6skBirPP2i1IJawDIUWcc3) | 7:25 | 2020-09-08 | 2022-11-13 |
 | [This Is A Move \- Live](https://open.spotify.com/track/776imhCfnvp9NoIYJ8uj0G) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [This Is A Move \(Live\)](https://open.spotify.com/album/5SH3LZPcZVx5fr6uQ7R2pF) | 7:25 | 2020-09-08 |  |
 | [This Song Is For You](https://open.spotify.com/track/4cKSMzHekMrx5FRt0dMLuP) | [Earl Bynum](https://open.spotify.com/artist/4C9dbX6kuuTvpimJiXtIMU) | [This Song Is For You](https://open.spotify.com/album/7bl5lMw5EC80RR5I1j2nti) | 4:32 | 2020-09-08 |  |
 | [Victory Belongs To Jesus \(Live from Africa\)](https://open.spotify.com/track/2LyIx3Kr9IKC7kRuxd5S5R) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz), [Lebohang Kgapola](https://open.spotify.com/artist/64gr8IARvawYhEWBUcXur2) | [To Africa With Love \(Live\)](https://open.spotify.com/album/647EkgXEqY5Ywbf2W1DQ4H) | 9:52 | 2020-09-08 |  |

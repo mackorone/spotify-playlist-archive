@@ -871,6 +871,32 @@
     {
       "album": {
         "name": "Making Me Nervous (Sighter & Konaefiz Remix)",
+        "url": "https://open.spotify.com/album/3lrBWI41Fa8FEMZeyIPK8m"
+      },
+      "artists": [
+        {
+          "name": "Brad Sucks",
+          "url": "https://open.spotify.com/artist/13yy1c4aDXIWu2zfvtvGLn"
+        },
+        {
+          "name": "Sighter",
+          "url": "https://open.spotify.com/artist/3CfrCyWR2mGwc2ADmr30RM"
+        },
+        {
+          "name": "Konaefiz",
+          "url": "https://open.spotify.com/artist/7d2PyJyMVaEv9R4Uq3bzOr"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 329142,
+      "name": "Making Me Nervous - Sighter & Konaefiz Remix",
+      "url": "https://open.spotify.com/track/4ob0K49lFdDlwfZxYrBg2u"
+    },
+    {
+      "album": {
+        "name": "Making Me Nervous (Sighter & Konaefiz Remix)",
         "url": "https://open.spotify.com/album/373BRwEkG5RGippR3xWAqP"
       },
       "artists": [
@@ -1159,7 +1185,7 @@
     {
       "album": {
         "name": "Acelero",
-        "url": "https://open.spotify.com/album/3IaWvLz87jDi6thZNB2pU1"
+        "url": "https://open.spotify.com/album/1HYeTdgTn7FhtrAvJgVsCc"
       },
       "artists": [
         {
@@ -1170,6 +1196,24 @@
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 252436,
+      "name": "P\u00f3lvora",
+      "url": "https://open.spotify.com/track/3gIMWNKpWj4d8aTeA6xUoT"
+    },
+    {
+      "album": {
+        "name": "Acelero",
+        "url": "https://open.spotify.com/album/3IaWvLz87jDi6thZNB2pU1"
+      },
+      "artists": [
+        {
+          "name": "Chapeleiro",
+          "url": "https://open.spotify.com/artist/5M5NrRoOEBa49sW1hzKkuH"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-16",
       "duration_ms": 256000,
       "name": "P\u00f3lvora",
       "url": "https://open.spotify.com/track/3NZsaDrILzOwEbvvitf1D2"

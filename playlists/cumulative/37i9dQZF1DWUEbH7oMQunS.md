@@ -4,7 +4,7 @@
 
 > Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.
 
-78 songs - 5 hr 37 min - [published](https://open.spotify.com/playlist/2fhEncLY2hSNlKhmKogG0k)
+81 songs - 5 hr 44 min - [published](https://open.spotify.com/playlist/2fhEncLY2hSNlKhmKogG0k)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,12 +67,14 @@
 | [Spoken](https://open.spotify.com/track/3M0i0Pxv9iYUdj6siKwiyv) | [The Church Vessel](https://open.spotify.com/artist/56kazKXQjQT2Xy9k8HM5so) | [Rekindle](https://open.spotify.com/album/6K5RqO1b7s6iQhF0FOhrJk) | 5:27 | 2018-02-14 | 2022-07-29 |
 | [Spoken](https://open.spotify.com/track/6ShGxxZtve3jGLNtKhW9Um) | [The Church Vessel](https://open.spotify.com/artist/56kazKXQjQT2Xy9k8HM5so) | [Rekindle](https://open.spotify.com/album/64qrjQnePZQS6tASw3qiVQ) | 5:27 | 2018-02-14 |  |
 | [Suddenly](https://open.spotify.com/track/5hcTf54Yvz9DKpshg3DGnL) | [Young Oceans](https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr) | [Suddenly \- EP](https://open.spotify.com/album/34CL0SBwvESZpXED6Xy3vN) | 4:49 | 2018-07-07 |  |
+| [Sun Eclipse](https://open.spotify.com/track/7yL0WjEZ1nMec510uy6VyO) | [Deep Sleep](https://open.spotify.com/artist/4gGGFclZZyED2i5BgzGAlD), [Lullabies for Deep Meditation](https://open.spotify.com/artist/7dJ05O9EOtFVROVfEEHBBc), [Musica para Dormir Dream House](https://open.spotify.com/artist/6qT095FGSoqAikk7INAJzX) | [Música Clásica para Bebés](https://open.spotify.com/album/0LZlw9VkGjo8LerCXIv0nE) | 1:52 | 2018-02-14 | 2022-11-14 |
 | [Sun Eclipse](https://open.spotify.com/track/2JuK7bIn9EAf0KOHL7LRuj) | [Musica Relajante](https://open.spotify.com/artist/5tLcSmEpxduAsr5nLUeJ7D), [Nature Sounds Nature Music](https://open.spotify.com/artist/2w5q7SKsUmpdUuyf5HOA2c), [Entspannungsmusik](https://open.spotify.com/artist/3xeIqGEgOD8QQstyUXSz4J) | [Nature Meditation Music](https://open.spotify.com/album/2gWI9xDvQ9wDGow7Uxe5uY) | 1:52 | 2018-02-14 |  |
 | [Sun Eclipse](https://open.spotify.com/track/7yz7Kgs62Q93YwzRGWuwtK) | [Torie Wells](https://open.spotify.com/artist/2ufeiEA4rxHarSoWXe3su1) | [The Fantastic Light](https://open.spotify.com/album/1DW43OX2HqhX2ovFZBADdW) | 1:52 | 2018-02-14 | 2022-07-29 |
 | [Take My Heart](https://open.spotify.com/track/4FtDp8L6RFyTJY61LWUJkW) | [Jordan Biel](https://open.spotify.com/artist/47ajtsMyL04FFtTblqx4Iw) | [Instrumental Worship Music, Vol\. 1](https://open.spotify.com/album/3MJUlOTqubrCSjFJGhmkNx) | 5:30 | 2018-02-14 |  |
 | [The Lion And The Lamb \- Instrumental](https://open.spotify.com/track/4G46PbCzNXjAzYbzYGNc8Z) | [Rivers & Robots](https://open.spotify.com/artist/41yDmxekjnWShKi6nRmzZ4) | [Rivers & Robots Presents: Still, Vol\. 1 \(Instrumentals\)](https://open.spotify.com/album/4g34k44C3ymTpr86zk1FJM) | 4:02 | 2018-02-14 |  |
 | [Tracking Aeroplanes](https://open.spotify.com/track/4J4yJ9VpPIIsRDf9w4cPG7) | [The Echelon Effect](https://open.spotify.com/artist/20lGLFmdtadbUYmqzFRcA2) | [Field Recordings](https://open.spotify.com/album/0TNUVnjYHwbsilNnbweuZa) | 7:48 | 2018-02-14 |  |
 | [Velveteen](https://open.spotify.com/track/4EqMffOPYDDgXlwPgYgbUy) | [Christa Wells](https://open.spotify.com/artist/3gCNiuPNPiAA5UQSgb8Uby) | [Velveteen](https://open.spotify.com/album/5VjY0h9wEbhKYaYuk3QXnO) | 3:57 | 2018-02-14 |  |
+| [Water Harp](https://open.spotify.com/track/071YfvTMFY01C6mT1Y1ecv) | [Massage Therapy Music](https://open.spotify.com/artist/4hKUd7Y5CiAGqVk2Z4NV9P), [Massage Tribe](https://open.spotify.com/artist/14RkTXnwrf6D09TfPWcR5C), [Massage](https://open.spotify.com/artist/0HvEQZLOZip1nNQ9Vb4pbl) | [Relaxing Massage Music](https://open.spotify.com/album/1vZINsIj1FbZAL8CGgOgLd) | 2:45 | 2018-02-14 | 2022-11-13 |
 | [Water Harp](https://open.spotify.com/track/3Nou5g8qSke2RT562MoAtn) | [Monique Namaste](https://open.spotify.com/artist/2VJ1YcC9zBjH3qq7qKWa1y) | [Life Everlasting](https://open.spotify.com/album/5y2OSWGTgPA1M7Vf2BMtn0) | 2:45 | 2018-02-14 | 2022-07-29 |
 | [Water Harp](https://open.spotify.com/track/0uQIzIuNMfzCZCtRGSr4l9) | [Yoga Music](https://open.spotify.com/artist/6ppQ1vjjme5Jtz2ceBFcWY), [Yoga Workout Music](https://open.spotify.com/artist/6RVXIMP9f30jw4rBAn9RfW), [Internal Yoga](https://open.spotify.com/artist/01KhCk3LxZ60TnXjqdY5VI) | [Yoga Practice & Mindfulness Music](https://open.spotify.com/album/7ucUV4KGsEi5kYxZvRDMJj) | 2:45 | 2018-02-14 |  |
 | [water position](https://open.spotify.com/track/06uSXwDFFz3vqAVVAZ5bGY) | [Hybrid Leisureland](https://open.spotify.com/artist/2BKGxQhaUFgd8xAIkd5yb4) | [Keeping track of the human race](https://open.spotify.com/album/5lgnsP7k8dlzJZZJEiMni5) | 6:03 | 2018-02-14 | 2022-07-29 |
@@ -84,7 +86,8 @@
 | [Wilora Lake](https://open.spotify.com/track/3i1snwRlVC8Xf7SvBe72DI) | [All The Bright Lights](https://open.spotify.com/artist/1jcBaDji032lL60oRtCSKj) | [All the Bright Lights](https://open.spotify.com/album/482FZEz4s4xyx0hjk2GMB7) | 5:30 | 2018-02-14 |  |
 | [Without Shelter](https://open.spotify.com/track/0mdBzoEiRNM2CFOuCmbUsb) | [Sebastian Selke](https://open.spotify.com/artist/3mvFzNzTcfPjg0gPiN90ui), [Ceeys](https://open.spotify.com/artist/6K8BBZapSLE6XGXF4htbIT) | [The Grunewald Church Session](https://open.spotify.com/album/6oLX7bPI80ncEhjsb997KY) | 6:58 | 2018-02-14 |  |
 | [Wonder](https://open.spotify.com/track/3oBZhDhGuOfhrKjOEwgfWF) | [Salt Of The Sound](https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB) | [Echoes Of Wonder](https://open.spotify.com/album/0DuV8V9ZQQ7LnD22evmLsd) | 2:30 | 2018-02-14 |  |
-| [Wrecked.](https://open.spotify.com/track/20gqFSQr6WkufncmJ1uz2z) | [HXLY KXSS](https://open.spotify.com/artist/7yCFIIPxCy84VS0y2TUazj) | [Wrecked.](https://open.spotify.com/album/5BfCBoffca0UNKpgDnyD4m) | 2:47 | 2018-07-07 |  |
+| [Wrecked.](https://open.spotify.com/track/20gqFSQr6WkufncmJ1uz2z) | [HXLY KXSS](https://open.spotify.com/artist/7yCFIIPxCy84VS0y2TUazj) | [Wrecked.](https://open.spotify.com/album/5BfCBoffca0UNKpgDnyD4m) | 2:47 | 2018-07-07 | 2022-10-20 |
+| [Wrecked.](https://open.spotify.com/track/7IL9XWhxEXJQsCpO1dgYkW) | [HXLY KXSS](https://open.spotify.com/artist/7yCFIIPxCy84VS0y2TUazj) | [Wrecked.](https://open.spotify.com/album/6UximDnjqOzwJ77MQNniVo) | 2:47 | 2018-07-07 |  |
 | [Wrecked.](https://open.spotify.com/track/7w5WkTpJNikuB7aXgvfh3q) | [HXLY KXSS](https://open.spotify.com/artist/7yCFIIPxCy84VS0y2TUazj) | [Wrecked.](https://open.spotify.com/album/0uTrToNIkOO7fUsgDBz14M) | 2:47 | 2018-07-07 | 2022-07-29 |
 
 \*This playlist was first scraped on 2020-10-20. Prior content cannot be recovered.

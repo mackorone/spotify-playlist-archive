@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "C\u00f9ng t\u00f4n vinh t\u00e0i n\u0103ng v\u00e0 \u00e2m nh\u1ea1c c\u1ee7a nh\u1eefng n\u1eef ngh\u1ec7 s\u0129 Vi\u1ec7t. \u1ea2nh b\u00eca: \u00c1i Ph\u01b0\u01a1ng",
+  "description": "C\u00f9ng t\u00f4n vinh t\u00e0i n\u0103ng v\u00e0 \u00e2m nh\u1ea1c c\u1ee7a nh\u1eefng n\u1eef ngh\u1ec7 s\u0129 Vi\u1ec7t. \u1ea2nh b\u00eca: Nguy\u00ean H\u00e0",
   "name": "EQUAL Vietnam",
   "published_playlist_ids": [
     "04IRwdQz860iINipt3YtIB"
@@ -23,6 +23,28 @@
       "duration_ms": 257000,
       "name": "24h",
       "url": "https://open.spotify.com/track/4inMQ83GNpQ2OHDredH5hW"
+    },
+    {
+      "album": {
+        "name": "906090",
+        "url": "https://open.spotify.com/album/20sB19q1UohCToeyAcUNwQ"
+      },
+      "artists": [
+        {
+          "name": "T\u00f3c Ti\u00ean",
+          "url": "https://open.spotify.com/artist/4YkqEuVf1Jf2x2XDqJ2CvC"
+        },
+        {
+          "name": "Mew Amazing",
+          "url": "https://open.spotify.com/artist/34nom4Ft3keMWBZPAUB3EI"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208767,
+      "name": "906090",
+      "url": "https://open.spotify.com/track/0HH3DAz5feqJmDA50yQ52M"
     },
     {
       "album": {
@@ -167,10 +189,28 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 299830,
       "name": "Ch\u00fang Ta L\u00e0m B\u1ea1n \u0110\u01b0\u1ee3c Kh\u00f4ng?",
       "url": "https://open.spotify.com/track/6oghyOqPnFUCB7C8modJ2D"
+    },
+    {
+      "album": {
+        "name": "Ch\u1eafc N\u00ean Th\u00f4i",
+        "url": "https://open.spotify.com/album/6VcTEnzRECYkaldA2yD1Tz"
+      },
+      "artists": [
+        {
+          "name": "Lynk Lee",
+          "url": "https://open.spotify.com/artist/7H9jPV9qWyp6V629038aXU"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-02",
+      "duration_ms": 259245,
+      "name": "Ch\u1eafc N\u00ean Th\u00f4i",
+      "url": "https://open.spotify.com/track/0uaZKqtQxvVXoCCV4hAbBN"
     },
     {
       "album": {
@@ -287,6 +327,24 @@
       "duration_ms": 220000,
       "name": "C\u00f3 \u0110\u00e2u Ai Ng\u1edd",
       "url": "https://open.spotify.com/track/5OE0IzdS8Bs4UaLvDoTXKD"
+    },
+    {
+      "album": {
+        "name": "C\u00f4 \u0110\u01a1n",
+        "url": "https://open.spotify.com/album/6QkdiY2GGYp07Re4ztE988"
+      },
+      "artists": [
+        {
+          "name": "Ai Phuong",
+          "url": "https://open.spotify.com/artist/5k5vCzAmH0dcRda22U9Hut"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 272864,
+      "name": "C\u00f4 \u0110\u01a1n",
+      "url": "https://open.spotify.com/track/0dxfg8dLCL3ox7qj8QmFaK"
     },
     {
       "album": {
@@ -573,6 +631,24 @@
       "duration_ms": 198947,
       "name": "Gieo Qu\u1ebb (feat. \u0110en)",
       "url": "https://open.spotify.com/track/7lkWAB0Ru7WEa0mkdgiqJG"
+    },
+    {
+      "album": {
+        "name": "Gi\u00e3 T\u1eeb D\u0129 V\u00e3ng & B\u1ed7ng D\u01b0ng Mu\u1ed1n Kh\u00f3c (K\u00fd \u1ee8c Part 1)",
+        "url": "https://open.spotify.com/album/4Orwq4lvKskQYzqxa36fvM"
+      },
+      "artists": [
+        {
+          "name": "Nguyen Ha",
+          "url": "https://open.spotify.com/artist/5Ib3D8UtLdYZjhVNWzwfoH"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296202,
+      "name": "Gi\u00e3 T\u1eeb D\u0129 V\u00e3ng & B\u1ed7ng D\u01b0ng Mu\u1ed1n Kh\u00f3c (K\u00fd \u1ee8c Part 1)",
+      "url": "https://open.spotify.com/track/0Ic9k0A0lH9uMeYMCl1wvw"
     },
     {
       "album": {
@@ -951,7 +1027,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 266815,
       "name": "L\u1ed7i \u1ede Y\u00eau Th\u01b0\u01a1ng",
       "url": "https://open.spotify.com/track/1s8AfdYyV8IWMeUAJyKR4S"
@@ -1205,7 +1281,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 195000,
       "name": "M\u1eddi Anh V\u00e0o Team Em",
       "url": "https://open.spotify.com/track/4fx2Hs100AuN9qPsFj3fW7"
@@ -1619,7 +1695,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 157066,
       "name": "Siren",
       "url": "https://open.spotify.com/track/1c0LbgYt51JeBUMAzofjkq"
@@ -1765,6 +1841,24 @@
       "duration_ms": 199266,
       "name": "Tr\u00ean T\u00ecnh B\u1ea1n D\u01b0\u1edbi T\u00ecnh Y\u00eau",
       "url": "https://open.spotify.com/track/5zH2inEP6THOY8tomr3DdZ"
+    },
+    {
+      "album": {
+        "name": "Tr\u00f3t Y\u00eau",
+        "url": "https://open.spotify.com/album/5bc2VEYLPy8dII9TTZ1caN"
+      },
+      "artists": [
+        {
+          "name": "Ai Phuong",
+          "url": "https://open.spotify.com/artist/5k5vCzAmH0dcRda22U9Hut"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283887,
+      "name": "Tr\u00f3t Y\u00eau",
+      "url": "https://open.spotify.com/track/2lL7kSRjgVZjm942GdVOef"
     },
     {
       "album": {
@@ -1971,7 +2065,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-03",
+      "date_removed": null,
       "duration_ms": 244036,
       "name": "Xin L\u1ed7i",
       "url": "https://open.spotify.com/track/5oqsevCqWkDwk61Y41bDQA"
@@ -2156,6 +2250,24 @@
     },
     {
       "album": {
+        "name": "\u0110\u00f4ng T\u00e2y Nam B\u1eafc",
+        "url": "https://open.spotify.com/album/5Dt3Lq7yoQ32mOiG3VRyYz"
+      },
+      "artists": [
+        {
+          "name": "Ai Phuong",
+          "url": "https://open.spotify.com/artist/5k5vCzAmH0dcRda22U9Hut"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367799,
+      "name": "\u0110\u00f4ng T\u00e2y Nam B\u1eafc",
+      "url": "https://open.spotify.com/track/0hqCfsV0T1e35k7urmBBHz"
+    },
+    {
+      "album": {
         "name": "\u0110\u00fang C\u0169ng Th\u00e0nh Sai",
         "url": "https://open.spotify.com/album/5pB6JpmCb0BhkOc3bZHfxj"
       },
@@ -2185,7 +2297,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 272727,
       "name": "\u0110\u01b0\u1eddng V\u1ec1 Nh\u00e0",
       "url": "https://open.spotify.com/track/41xLRF9wYENxgmTNAd2s4Q"

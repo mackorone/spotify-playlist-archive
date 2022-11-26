@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwvKaY7HLh.md) - [plain]
 
 > Esta selección musical se te hará agua la boca.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,353 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,788 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwvKaY7HLh.md) - [plain]
 | 37 | [Sin Compromiso](https://open.spotify.com/track/2IEuqijMtqJWrNfa5raZFc) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Sin Compromiso](https://open.spotify.com/album/0wrgk3LgWKQLD79oqoElpy) | 3:02 |
 | 38 | [La Cura](https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Gizmo Varillas](https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj) | [La Cura](https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf) | 3:01 |
 | 39 | [Dime](https://open.spotify.com/track/3kgBm26rI8faWMTxyzyJF3) | [Polaris](https://open.spotify.com/artist/4f8qDCXvGLNPj783d6PTWS) | [Dime](https://open.spotify.com/album/3Q8Wtw6UB5xLQQ15tb7z9B) | 3:01 |
-| 40 | [Tango](https://open.spotify.com/track/1cTPxRjuv4LE7N3unxy589) | [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [Tango](https://open.spotify.com/album/3v85vwElHbbbgPIg9M56Cj) | 3:42 |
+| 40 | [Tango](https://open.spotify.com/track/1aGnagYPzdnaSHMLPSPsp9) | [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [Drama](https://open.spotify.com/album/4XGFdSkArqglb0DLPeh8N5) | 3:42 |
 | 41 | [Como una punzada](https://open.spotify.com/track/6PdSmKN53eNLRFkSBsNBg2) | [Silvia & Karmen](https://open.spotify.com/artist/0j9vq9tNfWPsdhl9sKCpEK), [Eleonor](https://open.spotify.com/artist/4hBaD396LwLdZZyFOtm3xW) | [Como una punzada](https://open.spotify.com/album/2raWeYrWXIF4Vgvd9ZLP5Q) | 3:58 |
 | 42 | [Se Veía Venir](https://open.spotify.com/track/66beGFF4xXL7U8cwJASEj0) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Se Veía Venir](https://open.spotify.com/album/7hWv3HzsI7iGsCnDjo9Ovb) | 3:00 |
 | 43 | [Yo También Soy Como Tú](https://open.spotify.com/track/6tLyJVBzBYaARxA7fEpH6e) | [La Garfield](https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt) | [Yo También Soy Como Tú](https://open.spotify.com/album/7woTg36w3tkk7w6sjRmyJM) | 4:14 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwvKaY7HLh.md) - [plain]
 | 47 | [Hasta la Raíz](https://open.spotify.com/track/47KRnXQdhZvTdWyQZUTqiG) | [Isaac & Nora](https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls), [Feten Feten](https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8) | [Latin & Love Studies](https://open.spotify.com/album/771YlZnyW3Dhj8n9X4wMWM) | 4:00 |
 | 48 | [Señorita](https://open.spotify.com/track/7IOwZ2dsEZCg2NCeX7MCsm) | [Felipe Botello y El Sonoro Rugir](https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr) | [Señorita](https://open.spotify.com/album/6j6DsW88KYbKSe7qrzJLPE) | 3:29 |
 | 49 | [Paciencia](https://open.spotify.com/track/2HvrhLyKM6RSGS15h9Djht) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Paciencia](https://open.spotify.com/album/4sU7XUGSTMc5w9lmRq4pcR) | 2:14 |
-| 50 | [Maré](https://open.spotify.com/track/6rTLG03qWqHm8GUU51eskF) | [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [Maré](https://open.spotify.com/album/5TbichAfZ6dX1l8RsKV033) | 3:33 |
+| 50 | [Maré](https://open.spotify.com/track/2TGNiLgm0TpUVVDSdf1gyt) | [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [Drama](https://open.spotify.com/album/4XGFdSkArqglb0DLPeh8N5) | 3:33 |
 | 51 | [Playa Madama](https://open.spotify.com/track/3TaQo8EmSniH13Sp2rt853) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [TANDA](https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq) | 4:20 |
 | 52 | [Tuyo](https://open.spotify.com/track/1SsXzDNEMxcdQgodjAL1eZ) | [Cande y Paulo](https://open.spotify.com/artist/305J40TcfZv1ntw9RI6dc1) | [Tuyo](https://open.spotify.com/album/3mDDCVW05KfueAZr2GbZFV) | 3:01 |
 | 53 | [Un Minuto De Tu Voz](https://open.spotify.com/track/1nJJCb9v2hTzfodVlnpps7) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Un Minuto De Tu Voz](https://open.spotify.com/album/6pd64FRFIRc630h5IoJdKq) | 3:24 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwvKaY7HLh.md) - [plain]
 | 74 | [A Ciegas](https://open.spotify.com/track/4X6hxDP2F92RZgQxkxcucf) | [Abraham GÜ](https://open.spotify.com/artist/1nlD2cwx9JW48o2obtOvVc) | [A Ciegas](https://open.spotify.com/album/6LVOAFTZf3CG2omI3RFnO4) | 2:56 |
 | 75 | [Como Yo Te Quería](https://open.spotify.com/track/2Fhj0X9NCGKXDItp003eIh) | [Una Canción Bonita](https://open.spotify.com/artist/3hLAnFsw8LnNJ9FDXSCCP7) | [Como Yo Te Quería](https://open.spotify.com/album/1roZkRMNGE2RBfWQ1WqZsY) | 3:18 |
 
-Snapshot ID: `MTY1MDQ2MDk0MiwwMDAwMDAwMGE2YzQxNDcxN2Q3YjljNGZkZmY5NDU0NzNmMTg5YjA4`
+Snapshot ID: `MTY1MDQ2MDk0MiwwMDAwMDAwMDRmNzZjNjZkZGFkM2UzNTMzNTI2NWRkOTU5MGRhODY4`

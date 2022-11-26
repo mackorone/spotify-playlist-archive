@@ -8,6 +8,32 @@
   "tracks": [
     {
       "album": {
+        "name": "+ 1 Minuto",
+        "url": "https://open.spotify.com/album/26eNLlOqHc0LwlFlLrzabo"
+      },
+      "artists": [
+        {
+          "name": "Jean Tassy",
+          "url": "https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        },
+        {
+          "name": "Iuri Rio Branco",
+          "url": "https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 172794,
+      "name": "+ 1 Minuto",
+      "url": "https://open.spotify.com/track/2UsLuuNZjf9uUPQuj5pbwA"
+    },
+    {
+      "album": {
         "name": "Amanh\u00e3",
         "url": "https://open.spotify.com/album/7AWmeGS2m6VEeAAUbW4upq"
       },
@@ -260,6 +286,46 @@
     },
     {
       "album": {
+        "name": "Bonita y Triste",
+        "url": "https://open.spotify.com/album/6V58HtmEGLXzLohD7J4fOO"
+      },
+      "artists": [
+        {
+          "name": "Mi Sobrino Memo",
+          "url": "https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216745,
+      "name": "Bonita y Triste",
+      "url": "https://open.spotify.com/track/5eQ2eEO7mDnJlN8mtRaN6i"
+    },
+    {
+      "album": {
+        "name": "Alternativo diferente latino",
+        "url": "https://open.spotify.com/album/6BUAYGfcb0vijQIvriHUI0"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        },
+        {
+          "name": "Jean Carter",
+          "url": "https://open.spotify.com/artist/2LRR1XoqMZ64hebNjiFJqj"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 201263,
+      "name": "Bossa No S\u00e9",
+      "url": "https://open.spotify.com/track/27oDPAmpfHVz6klfZtFrI7"
+    },
+    {
+      "album": {
         "name": "Bossa No S\u00e9 (feat. Jean Carter)",
         "url": "https://open.spotify.com/album/5OXkBzDKBSXBY0ItL6wgJE"
       },
@@ -373,7 +439,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 230076,
       "name": "Brasil",
       "url": "https://open.spotify.com/track/61D9YBbXp4rkZi7vI9mIwf"
@@ -403,6 +469,50 @@
     {
       "album": {
         "name": "Soft Power",
+        "url": "https://open.spotify.com/album/787rB0eyQAaqCFn7LI0GVQ"
+      },
+      "artists": [
+        {
+          "name": "Poirier",
+          "url": "https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4"
+        },
+        {
+          "name": "Flavia Coelho",
+          "url": "https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262281,
+      "name": "Caf\u00e9 Com Leite",
+      "url": "https://open.spotify.com/track/0icCp5ScnBbKdyvLNLMx3N"
+    },
+    {
+      "album": {
+        "name": "Caf\u00e9 Com Leite",
+        "url": "https://open.spotify.com/album/3y3iNofd2lIY7HIMgYLAi6"
+      },
+      "artists": [
+        {
+          "name": "Poirier",
+          "url": "https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4"
+        },
+        {
+          "name": "Flavia Coelho",
+          "url": "https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 262281,
+      "name": "Caf\u00e9 Com Leite",
+      "url": "https://open.spotify.com/track/38Y4mlYMY9eAbRlNTccgn0"
+    },
+    {
+      "album": {
+        "name": "Soft Power",
         "url": "https://open.spotify.com/album/6em6BXIsCYjP1JOhaU4Bm6"
       },
       "artists": [
@@ -417,7 +527,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 262281,
       "name": "Caf\u00e9 Com Leite",
       "url": "https://open.spotify.com/track/4Qr7jxogVZA4rglb4IPyGD"
@@ -573,6 +683,24 @@
       "duration_ms": 156744,
       "name": "Feliz e Ponto",
       "url": "https://open.spotify.com/track/1QYmLRM57ZQtI4XF7sELDe"
+    },
+    {
+      "album": {
+        "name": "Novos Talentos da M\u00fasica Brasileira",
+        "url": "https://open.spotify.com/album/5ZCMrFVPulzvFD8kfvlmrZ"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 156746,
+      "name": "Feliz e Ponto",
+      "url": "https://open.spotify.com/track/5FczE5cs1l7BnflNo6RGXA"
     },
     {
       "album": {
@@ -741,6 +869,24 @@
     {
       "album": {
         "name": "Lovestained",
+        "url": "https://open.spotify.com/album/3tTbk9Yvi984H6ESRGk0Nl"
+      },
+      "artists": [
+        {
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175280,
+      "name": "Lovestained",
+      "url": "https://open.spotify.com/track/0RJ2QoAPH4VTdfhrX2HKQe"
+    },
+    {
+      "album": {
+        "name": "Lovestained",
         "url": "https://open.spotify.com/album/7navB8hDkagN6t01k7dBBx"
       },
       "artists": [
@@ -751,7 +897,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 175280,
       "name": "Lovestained",
       "url": "https://open.spotify.com/track/4cTPtlhSo6NDdOe1fXzx1N"
@@ -1455,6 +1601,24 @@
       "duration_ms": 259040,
       "name": "Vem Menina",
       "url": "https://open.spotify.com/track/61iZqGREvoZdAKs6vcancM"
+    },
+    {
+      "album": {
+        "name": "Voc\u00ea N\u00e3o Presta",
+        "url": "https://open.spotify.com/album/1bnIkxJcTJ9FirLzReEoKs"
+      },
+      "artists": [
+        {
+          "name": "Mallu Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 235128,
+      "name": "Voc\u00ea N\u00e3o Presta",
+      "url": "https://open.spotify.com/track/08yejXohbXLIyZyN3lOjpt"
     },
     {
       "album": {

@@ -541,10 +541,28 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 206749,
       "name": "Impromptu, No. 1",
       "url": "https://open.spotify.com/track/0n64jayPuTWrRP8EewJ6bJ"
+    },
+    {
+      "album": {
+        "name": "Two Impromptus",
+        "url": "https://open.spotify.com/album/1eqxBf1MFDne5hXminE9Hr"
+      },
+      "artists": [
+        {
+          "name": "Thomas Farnon",
+          "url": "https://open.spotify.com/artist/21toYB9udeC6Zdi9fJL0wu"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206749,
+      "name": "Impromptu, No. 1",
+      "url": "https://open.spotify.com/track/6cr9fqIk3nNuayAmHJ5WPO"
     },
     {
       "album": {
@@ -597,6 +615,32 @@
       "duration_ms": 142000,
       "name": "Jeux d'enfants, Op. 22 WD 56: 3. La poup\u00e9e",
       "url": "https://open.spotify.com/track/68TzUzHwdu2SpvWwJ0zANX"
+    },
+    {
+      "album": {
+        "name": "Classically Opera",
+        "url": "https://open.spotify.com/album/5C7l9QMUAqZRlwBAzofEG1"
+      },
+      "artists": [
+        {
+          "name": "Georges Bizet",
+          "url": "https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd"
+        },
+        {
+          "name": "Katia Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL"
+        },
+        {
+          "name": "Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 142000,
+      "name": "Jeux d'enfants, Op. 22 WD 56: 3. La poup\u00e9e",
+      "url": "https://open.spotify.com/track/6e0ioWeLv2ezDGvqrprqlP"
     },
     {
       "album": {
@@ -653,6 +697,24 @@
     {
       "album": {
         "name": "Look Inside Yourself",
+        "url": "https://open.spotify.com/album/30RisILwJC85OO8yOOlxRs"
+      },
+      "artists": [
+        {
+          "name": "Edvard Kravchuk",
+          "url": "https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 218132,
+      "name": "Look Inside Yourself",
+      "url": "https://open.spotify.com/track/0HjbgCPF2lbT6zvaLsfkql"
+    },
+    {
+      "album": {
+        "name": "Look Inside Yourself",
         "url": "https://open.spotify.com/album/6S0jnsTpJ5qoskAUyjXIm5"
       },
       "artists": [
@@ -685,6 +747,28 @@
       "duration_ms": 218133,
       "name": "Look Inside Yourself",
       "url": "https://open.spotify.com/track/4UoQyXltWDTbKhz839QILK"
+    },
+    {
+      "album": {
+        "name": "The Elena Kats-Chernin Collection",
+        "url": "https://open.spotify.com/album/4l6OdLOwj7DvkSUVuHx3tz"
+      },
+      "artists": [
+        {
+          "name": "Elena Kats-Chernin",
+          "url": "https://open.spotify.com/artist/0OnynZ2smlYDjDmdRQVkmk"
+        },
+        {
+          "name": "Tamara Anna Cislowska",
+          "url": "https://open.spotify.com/artist/6qq0PaNoOuhPsYtUtsxRQs"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 203160,
+      "name": "Lullaby For Nick",
+      "url": "https://open.spotify.com/track/0HDNPfdpVtb76We2mrCS8A"
     },
     {
       "album": {
@@ -926,6 +1010,28 @@
     },
     {
       "album": {
+        "name": "Moonlight Beethoven",
+        "url": "https://open.spotify.com/album/6D28rKFxCMjVWyovpTpZoE"
+      },
+      "artists": [
+        {
+          "name": "Christoph Willibald Gluck",
+          "url": "https://open.spotify.com/artist/7vfydQ0nVBVgJ0ajs8EtRM"
+        },
+        {
+          "name": "Yuja Wang",
+          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 181546,
+      "name": "Orfeo ed Euridice, Wq. 30 (Arranged by Sgambati): Melodie dell'Orfeo",
+      "url": "https://open.spotify.com/track/6fIJKR7w8IGRc6W6agm3lm"
+    },
+    {
+      "album": {
         "name": "Fantasia",
         "url": "https://open.spotify.com/album/242VIaJT3FuMNlN6XRmn1c"
       },
@@ -1039,7 +1145,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 150440,
       "name": "Pr\u00e9ludes / Book 1, L. 117: 8. La fille aux cheveux de lin",
       "url": "https://open.spotify.com/track/200gL9XQL8v2qF7aMPEJqf"
@@ -1061,7 +1167,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 150440,
       "name": "Pr\u00e9ludes / Book 1, L. 117: 8. La fille aux cheveux de lin",
       "url": "https://open.spotify.com/track/51P3NaXFY36BR7d52fh03Y"
@@ -1087,6 +1193,28 @@
       "duration_ms": 150440,
       "name": "Pr\u00e9ludes / Book 1, L. 117: 8. La fille aux cheveux de lin",
       "url": "https://open.spotify.com/track/5Sive9KlW863OHfEdax2V9"
+    },
+    {
+      "album": {
+        "name": "Debussy: Study Classics",
+        "url": "https://open.spotify.com/album/0EdZOKbbU1G2qoSACJ4z28"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Jean-Rodolphe Kars",
+          "url": "https://open.spotify.com/artist/5PXgZoCjPcqAsZk1ESRudj"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 150440,
+      "name": "Pr\u00e9ludes / Book 1, L. 117: 8. La fille aux cheveux de lin",
+      "url": "https://open.spotify.com/track/6KlpCm10e0ZoD2Ryoh6DK3"
     },
     {
       "album": {
@@ -1153,6 +1281,36 @@
       "duration_ms": 208040,
       "name": "Saint-Sa\u00ebns / Transcr. Vidal: Le carnaval des animaux, R. 125: XIII. Le cygne",
       "url": "https://open.spotify.com/track/08h8ICqh9extUqzotddLRQ"
+    },
+    {
+      "album": {
+        "name": "Classical Chillout",
+        "url": "https://open.spotify.com/album/64PExuCobreOQ9KR3V2QFw"
+      },
+      "artists": [
+        {
+          "name": "Camille Saint-Sa\u00ebns",
+          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Douglas Boyd",
+          "url": "https://open.spotify.com/artist/652Q4y5ewFDuXGqcmFPo2E"
+        },
+        {
+          "name": "Orchestre de chambre de Paris",
+          "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 208040,
+      "name": "Saint-Sa\u00ebns / Transcr. Vidal: Le carnaval des animaux: XIII. Le cygne",
+      "url": "https://open.spotify.com/track/2QKlUrjFjnfMUqPf21vhVk"
     },
     {
       "album": {
@@ -1339,7 +1497,7 @@
     {
       "album": {
         "name": "This Night",
-        "url": "https://open.spotify.com/album/6YBtLEVPI7CAEsE5ljrtTC"
+        "url": "https://open.spotify.com/album/5ygHwLXWu8Ycx28wtAZvMA"
       },
       "artists": [
         {
@@ -1350,6 +1508,24 @@
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 211055,
+      "name": "This Night",
+      "url": "https://open.spotify.com/track/1MxO57a8Ttyb1izW1uKGVl"
+    },
+    {
+      "album": {
+        "name": "This Night",
+        "url": "https://open.spotify.com/album/6YBtLEVPI7CAEsE5ljrtTC"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Califano",
+          "url": "https://open.spotify.com/artist/5kqQv4acGpWR8L1xhlLuSf"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-25",
       "duration_ms": 211055,
       "name": "This Night",
       "url": "https://open.spotify.com/track/6LQv4r8SDy2S3fLNo3ntr9"
@@ -1433,6 +1609,24 @@
       "duration_ms": 165000,
       "name": "Trois Romances sans paroles, Op. 17: 3. Andante moderato",
       "url": "https://open.spotify.com/track/4myyfMmDd7wTkgq8Ci7VfF"
+    },
+    {
+      "album": {
+        "name": "Berceuses piano",
+        "url": "https://open.spotify.com/album/3Z9ZYA9la78wlTMbfUQhrW"
+      },
+      "artists": [
+        {
+          "name": "Kun-Woo Paik",
+          "url": "https://open.spotify.com/artist/22B1T23YzVRPPQkvN6AjSX"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 163462,
+      "name": "Trois Romances sans paroles, Op. 17: 3. Andante moderato",
+      "url": "https://open.spotify.com/track/6tsihpRhL2awGIVVIUbhF6"
     },
     {
       "album": {

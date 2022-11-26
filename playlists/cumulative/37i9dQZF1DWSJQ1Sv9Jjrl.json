@@ -27,7 +27,7 @@
     {
       "album": {
         "name": "We Got You Covered, Vol. 2",
-        "url": "https://open.spotify.com/album/5gw7p48ohCl2DpMjvMw5Ik"
+        "url": "https://open.spotify.com/album/4vE6sKhkUJxZ1Bxgya5sUv"
       },
       "artists": [
         {
@@ -38,6 +38,24 @@
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 184132,
+      "name": "As Long as You Love Me",
+      "url": "https://open.spotify.com/track/0U009cDlGPpshpotu9bSgS"
+    },
+    {
+      "album": {
+        "name": "We Got You Covered, Vol. 2",
+        "url": "https://open.spotify.com/album/5gw7p48ohCl2DpMjvMw5Ik"
+      },
+      "artists": [
+        {
+          "name": "Anthem Lights",
+          "url": "https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-20",
       "duration_ms": 184132,
       "name": "As Long as You Love Me",
       "url": "https://open.spotify.com/track/0q5OkmIw0GY8nmtrWNqOgY"
@@ -135,10 +153,28 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 205106,
       "name": "Cool Kids",
       "url": "https://open.spotify.com/track/23mqkYQVVWeD4C3KINeLIs"
+    },
+    {
+      "album": {
+        "name": "Misunderstood",
+        "url": "https://open.spotify.com/album/6uwWys7brf74QrrHvZuken"
+      },
+      "artists": [
+        {
+          "name": "Ethan Tucker",
+          "url": "https://open.spotify.com/artist/7uSGJMQp1MzfM5VtkpeE0Y"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205106,
+      "name": "Cool Kids",
+      "url": "https://open.spotify.com/track/4ReCnXg7yWNGonvj12O3WE"
     },
     {
       "album": {
@@ -533,6 +569,32 @@
       "duration_ms": 210911,
       "name": "Mayhem",
       "url": "https://open.spotify.com/track/1z3Gg0PF3qj81j4bOVtUU6"
+    },
+    {
+      "album": {
+        "name": "Dancehall Infusion, Vol. 1",
+        "url": "https://open.spotify.com/album/65YGdWY3l4A3oxtWYak1yw"
+      },
+      "artists": [
+        {
+          "name": "The Kemist",
+          "url": "https://open.spotify.com/artist/1HvF89QVwGlk74nQZC6MCG"
+        },
+        {
+          "name": "Dj Braindead",
+          "url": "https://open.spotify.com/artist/6KfuBqaNiLpb0cLc23Pnfq"
+        },
+        {
+          "name": "Nyanda",
+          "url": "https://open.spotify.com/artist/5EgzuWPhhAurJc93qPTD3k"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 210911,
+      "name": "Mayhem",
+      "url": "https://open.spotify.com/track/3TLaEHk61rD6jOMzTmd5rb"
     },
     {
       "album": {

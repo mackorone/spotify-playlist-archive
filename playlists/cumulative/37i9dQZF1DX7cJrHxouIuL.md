@@ -4,7 +4,7 @@
 
 > Kindie tunes for the whole family.
 
-172 songs - 8 hr 11 min - [published](https://open.spotify.com/playlist/2fSDwPEhE0n4j5X4Sjm87h)
+175 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/2fSDwPEhE0n4j5X4Sjm87h)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Brand New Day](https://open.spotify.com/track/4cBPErdOZb1skrZDRX2HIS) | [Erica Rabner](https://open.spotify.com/artist/3u7iISrtnnqsAGE8gIovMg) | [We Got This](https://open.spotify.com/album/3muDxQozNwlTlj4lMbPiSq) | 2:42 | 2022-04-15 |  |
 | [Breakfast Club](https://open.spotify.com/track/47TzTejrEjIGj30p9iAaDw) | [Tim Kubart](https://open.spotify.com/artist/1mmtvYjQNZ4rNL20mT1wDp), [Carly Ciarrocchi](https://open.spotify.com/artist/0L6dlPvmSXJ7pKkp7j03VC) | [Home](https://open.spotify.com/album/2H0XQvwCPn5Lsw105oQUUK) | 3:25 | 2022-04-15 |  |
 | [Breakfast Club \(feat\. Carly Ciarrocchi\)](https://open.spotify.com/track/0USrh6qGiJVR3gzSk0d4H5) | [Tim Kubart](https://open.spotify.com/artist/1mmtvYjQNZ4rNL20mT1wDp), [Carly Ciarrocchi](https://open.spotify.com/artist/0L6dlPvmSXJ7pKkp7j03VC) | [Home](https://open.spotify.com/album/7slt3qTeXAus3QW1tAqcqW) | 3:25 | 2022-04-15 | 2022-07-29 |
+| [Bumblebee \(Buzz Buzz\)](https://open.spotify.com/track/4F3ddWC6h5vgJKNih9v340) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner's Animal Songs](https://open.spotify.com/album/3dxdHE7M8flFgqlamTinsL) | 2:55 | 2022-10-11 | 2022-11-13 |
 | [Bumblebee \(Buzz Buzz\)](https://open.spotify.com/track/2PvU8jWUVbGiIQ9QsiHPQL) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Buzz Buzz](https://open.spotify.com/album/2qaGwjEcIgtQ2XgA3jOsaN) | 2:57 | 2022-04-15 |  |
 | [Bumblebee \(Buzz Buzz\)](https://open.spotify.com/track/54n1pKrHGnVnWUQO52jffW) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Buzz Buzz](https://open.spotify.com/album/3ewqpIxaq4yX0rCjOKe3Ag) | 2:57 | 2022-04-15 | 2022-07-29 |
 | [Coconut](https://open.spotify.com/track/4fREsTCX2QlzJVlgPmCphS) | [Kaci Bolls](https://open.spotify.com/artist/1YKEhQzwfMQklnViW6QpX9) | [Coconut](https://open.spotify.com/album/3bDdkQhYxwP5mEsNvZDgzu) | 2:39 | 2022-04-15 |  |
@@ -106,6 +107,7 @@
 | [Marshmallow Man](https://open.spotify.com/track/4flkzWTDmvtUzoVxC1ESI5) | [Little Miss Ann](https://open.spotify.com/artist/0G7JrLPvqOjHcv891aUiUb), [Suzi Shelton](https://open.spotify.com/artist/3d96ULtRFWtch9ulNHFnpo) | [28 Days](https://open.spotify.com/album/2p5QfPVnqGhJDtrntQpX7Z) | 2:36 | 2022-04-15 |  |
 | [Marshmallow Man](https://open.spotify.com/track/38fIUDIRJ3C5V82BJhg74t) | [Little Miss Ann](https://open.spotify.com/artist/0G7JrLPvqOjHcv891aUiUb), [Suzi Shelton](https://open.spotify.com/artist/3d96ULtRFWtch9ulNHFnpo) | [Marshmallow Man](https://open.spotify.com/album/0fY7fzuEW14bZgbu4FVupp) | 2:36 | 2022-04-15 | 2022-07-29 |
 | [Mockingbird](https://open.spotify.com/track/4XMJkoGKsUrE21xAcXoTnJ) | [little hurricane](https://open.spotify.com/artist/5VLQQzAkJrzG7QggE4DVg2) | [Mockingbird](https://open.spotify.com/album/0qJIPi9zkuowr0ZKZNSRxd) | 3:16 | 2022-04-15 |  |
+| [My Brother Did It](https://open.spotify.com/track/2W9eteO1CAWv65JgzYVIRx) | [Justin Roberts](https://open.spotify.com/artist/0gPiY8YtQXCp3arXBVFUk5) | [Greatest Hits](https://open.spotify.com/album/03kqGusDf29ebp5FubPvb5) | 2:57 | 2022-10-11 | 2022-11-13 |
 | [My Brother Did It](https://open.spotify.com/track/6YTHeIrfYS6UgIXcVAKvIg) | [Justin Roberts](https://open.spotify.com/artist/0gPiY8YtQXCp3arXBVFUk5) | [Meltdown!](https://open.spotify.com/album/27bJ6ZG5pa5m23p1Pc9wC1) | 3:00 | 2022-04-15 | 2022-07-29 |
 | [My Brother Did It](https://open.spotify.com/track/6yslYkPiVo8aTGifnmcXW9) | [Justin Roberts](https://open.spotify.com/artist/0gPiY8YtQXCp3arXBVFUk5) | [Meltdown!](https://open.spotify.com/album/3hKog0xgoyRMl3XuZKsbdK) | 3:00 | 2022-04-15 |  |
 | [My Favourite Hat](https://open.spotify.com/track/1WGl0HoEAAsZ1TK0PtnmV0) | [The Relative Minors](https://open.spotify.com/artist/6uaZMwvefKqumCrbYSksId) | [My Favourite Hat](https://open.spotify.com/album/1zFnqvIHQdWnHUj6gNB0j7) | 3:50 | 2022-04-15 |  |
@@ -140,6 +142,7 @@
 | [Slumberjack](https://open.spotify.com/track/4FGhMdPbr2PjvZTPQvkhFT) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Winterland](https://open.spotify.com/album/4T6NbIjlMpe8Rpc5Lx8DKt) | 1:50 | 2022-04-15 |  |
 | [So Many Ways](https://open.spotify.com/track/1ZUQS6AJsh9wRuiORmAZ8l) | [Little Miss Ann](https://open.spotify.com/artist/0G7JrLPvqOjHcv891aUiUb) | [So Many Ways](https://open.spotify.com/album/0aWVEAQKsGF9HUMrpIeK4x) | 2:54 | 2022-04-15 |  |
 | [Somewhere Over The Rainbow\_What A Wonderful World](https://open.spotify.com/track/25U7raB3ZSszayTYClh4hF) | [Israel Kamakawiwo'ole](https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr) | [Facing Future](https://open.spotify.com/album/0pquf1NcG9FdiypBPwICu9) | 5:08 | 2022-04-15 |  |
+| [Sounding Joy](https://open.spotify.com/track/0kFk5LnjmluUFN6DSgjlzb) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Sounding Joy](https://open.spotify.com/album/1ZMsgcmv2PawjMSJti5okX) | 3:50 | 2022-10-11 |  |
 | [Starfish](https://open.spotify.com/track/4JdI5yswyco9cyUpoAqpXS) | [The Whizpops!](https://open.spotify.com/artist/5BT349IUUroVoKHXzkRtnU) | [Sea Blue Sea](https://open.spotify.com/album/2buAx33rqao1bLYCobtEC2) | 3:07 | 2022-04-15 |  |
 | [Stone Age Rock Star](https://open.spotify.com/track/3BUgtx71lLEPH5DNAU2Dim) | [The Relative Minors](https://open.spotify.com/artist/6uaZMwvefKqumCrbYSksId) | [Play Music](https://open.spotify.com/album/29CsPLDKBk60dQifzVyB7a) | 3:30 | 2022-04-15 |  |
 | [Superhero](https://open.spotify.com/track/5GddeUNptX80eEcXlWoSPj) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Superhero](https://open.spotify.com/album/7FKsCQprYp5p6veybFbXr4) | 2:58 | 2022-04-15 |  |

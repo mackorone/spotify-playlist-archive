@@ -621,7 +621,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": "2022-11-13",
       "duration_ms": 357960,
       "name": "Closing Time",
       "url": "https://open.spotify.com/track/2MeYsitFbcxoNVCO31Vjmz"
@@ -1003,7 +1003,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": "2022-11-13",
       "duration_ms": 266093,
       "name": "Don't Tell Me How to Live",
       "url": "https://open.spotify.com/track/3vvNbg3Z5fQYk4FKkDK6V7"
@@ -1201,7 +1201,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": "2022-11-13",
       "duration_ms": 193325,
       "name": "Everything Is Alright",
       "url": "https://open.spotify.com/track/42lrhaZzqJqCYHlfQTGozP"
@@ -1579,7 +1579,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-14",
+      "date_removed": "2022-11-13",
       "duration_ms": 241293,
       "name": "Heaven Coming Down",
       "url": "https://open.spotify.com/track/6lOvhkSYAU6xde5BvtWNbB"
@@ -1597,7 +1597,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": "2022-11-13",
       "duration_ms": 238266,
       "name": "Hello Time Bomb",
       "url": "https://open.spotify.com/track/60VbLbx7B1ST4zYJBatjne"
@@ -1687,7 +1687,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": null,
       "duration_ms": 231373,
       "name": "Highway of Heroes - Remastered",
       "url": "https://open.spotify.com/track/30NBRD11nWJX2lRMVC2hDI"
@@ -1759,7 +1759,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": "2022-11-13",
       "duration_ms": 239000,
       "name": "Hot Girls In Love",
       "url": "https://open.spotify.com/track/1pB5Y2BPLez1J49KKKewUE"
@@ -2371,7 +2371,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-28",
+      "date_removed": "2022-11-13",
       "duration_ms": 220573,
       "name": "Load Me Up",
       "url": "https://open.spotify.com/track/63PN42ugudZf4DDhXeWQ2M"
@@ -2407,7 +2407,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 179080,
       "name": "longwaytoneverland",
       "url": "https://open.spotify.com/track/30a5lVrFAhiwLtCsCXSQhQ"
@@ -2609,7 +2609,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": "2022-11-13",
       "duration_ms": 233916,
       "name": "Money City Maniacs",
       "url": "https://open.spotify.com/track/0B6Xcr7eu0nsGOiXuLI5NH"
@@ -2681,7 +2681,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": "2022-10-16",
       "duration_ms": 254506,
       "name": "My Girl (Gone, Gone, Gone)",
       "url": "https://open.spotify.com/track/3F3qMsKHOAmHDezIK840bp"
@@ -2879,7 +2879,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-16",
+      "date_removed": "2022-11-12",
       "duration_ms": 183853,
       "name": "Not Ready to Go",
       "url": "https://open.spotify.com/track/1NGH22lTbPAkuj7gLdCcJW"
@@ -3027,6 +3027,24 @@
       "duration_ms": 169760,
       "name": "One Week",
       "url": "https://open.spotify.com/track/29hBRadFZf9QTGRHZmxm65"
+    },
+    {
+      "album": {
+        "name": "90's Mixtape",
+        "url": "https://open.spotify.com/album/6tGAczC6MJsOqBr0w1R7LN"
+      },
+      "artists": [
+        {
+          "name": "Barenaked Ladies",
+          "url": "https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 169760,
+      "name": "One Week",
+      "url": "https://open.spotify.com/track/2ovOA14yJnjBbLEsHjdeyQ"
     },
     {
       "album": {
@@ -3203,7 +3221,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": "2022-11-13",
       "duration_ms": 229666,
       "name": "Plea from a Cat Named Virtute",
       "url": "https://open.spotify.com/track/6FfMiOK3Ma2GNAbjbGxFVn"
@@ -3239,7 +3257,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-02",
+      "date_removed": "2022-11-13",
       "duration_ms": 258506,
       "name": "Poor Ol' Broken Hearted Me",
       "url": "https://open.spotify.com/track/5tSLSixFTTLmiDmU3jlsuk"
@@ -3546,6 +3564,24 @@
     },
     {
       "album": {
+        "name": "70s 100 Hits",
+        "url": "https://open.spotify.com/album/1k7WkNHGPNPnri2tsowvtg"
+      },
+      "artists": [
+        {
+          "name": "Terry Jacks",
+          "url": "https://open.spotify.com/artist/09dDdtfi4mWLdC2BHOrIrl"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 205586,
+      "name": "Seasons in the Sun",
+      "url": "https://open.spotify.com/track/6AhUX0ObPgTnS5GGFrRidN"
+    },
+    {
+      "album": {
         "name": "Seasons In The Sun (Expanded Edition)",
         "url": "https://open.spotify.com/album/6qKGMVfcz7HxHeXnhUsK9J"
       },
@@ -3593,7 +3629,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": "2022-11-14",
       "duration_ms": 163773,
       "name": "She Ain't Pretty",
       "url": "https://open.spotify.com/track/3lQl6N5vnASpox2hdHpH2w"
@@ -3780,6 +3816,24 @@
     },
     {
       "album": {
+        "name": "The Thin Red Line (Deluxe)",
+        "url": "https://open.spotify.com/album/6kpcZGUWKsAtrWv7EYCLbV"
+      },
+      "artists": [
+        {
+          "name": "Glass Tiger",
+          "url": "https://open.spotify.com/artist/53RaPTbZOx2mBoZD6LLWIv"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 217733,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/3dP6JMPtcDU5njCHITwJmO"
+    },
+    {
+      "album": {
         "name": "The Long Road",
         "url": "https://open.spotify.com/album/4fygErqiNgFUic5hU42Z3E"
       },
@@ -3939,7 +3993,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": "2022-11-13",
       "duration_ms": 221746,
       "name": "Stompa",
       "url": "https://open.spotify.com/track/3zIEvMYvCM0jiszho8jaFH"
@@ -3993,7 +4047,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 240400,
       "name": "Sun in an Empty Room",
       "url": "https://open.spotify.com/track/4r1AS456lSXXXv6aVpDT4e"
@@ -4609,7 +4663,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-06",
+      "date_removed": "2022-11-13",
       "duration_ms": 177147,
       "name": "This Is The Best",
       "url": "https://open.spotify.com/track/115KZPZJl659G5Z9uO9eFv"
@@ -4973,7 +5027,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": "2022-11-13",
       "duration_ms": 259026,
       "name": "Wheat Kings",
       "url": "https://open.spotify.com/track/6s7xf54h0BGyohJHlgMj2J"

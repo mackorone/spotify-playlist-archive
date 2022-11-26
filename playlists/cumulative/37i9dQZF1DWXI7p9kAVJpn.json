@@ -218,6 +218,28 @@
     },
     {
       "album": {
+        "name": "The Classics",
+        "url": "https://open.spotify.com/album/54V9FJEPswiDcvShYOmpwR"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "date_added": "2021-05-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 201026,
+      "name": "Body and Soul",
+      "url": "https://open.spotify.com/track/1JSAqgYiv0wgldHZ7W3whf"
+    },
+    {
+      "album": {
         "name": "Blue Hawaii",
         "url": "https://open.spotify.com/album/7xe8VI48TxUpU1IIo0RfGi"
       },
@@ -233,6 +255,24 @@
       "duration_ms": 182360,
       "name": "Can't Help Falling in Love",
       "url": "https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC"
+    },
+    {
+      "album": {
+        "name": "Cantantes Del Recuerdo, Vol. 2",
+        "url": "https://open.spotify.com/album/0J9hDNYcileNVanathZmiK"
+      },
+      "artists": [
+        {
+          "name": "Andy Williams",
+          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
+        }
+      ],
+      "date_added": "2021-05-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 190320,
+      "name": "Can't Take My Eyes Off You",
+      "url": "https://open.spotify.com/track/0I0N8mtA6klb0MhnMhhT6i"
     },
     {
       "album": {
@@ -309,6 +349,24 @@
       "duration_ms": 181400,
       "name": "Chances Are - Single Version",
       "url": "https://open.spotify.com/track/63NmQTtxQLHSRp7li6aAmP"
+    },
+    {
+      "album": {
+        "name": "The Essential Johnny Mathis",
+        "url": "https://open.spotify.com/album/4KM9hhWCgasx9j7y3NogNv"
+      },
+      "artists": [
+        {
+          "name": "Johnny Mathis",
+          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
+        }
+      ],
+      "date_added": "2021-05-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 182453,
+      "name": "Chances Are - Single Version",
+      "url": "https://open.spotify.com/track/2eg3CoqVGI21N8115BgdQA"
     },
     {
       "album": {
@@ -446,6 +504,24 @@
     },
     {
       "album": {
+        "name": "Coastal Grandmother Summer",
+        "url": "https://open.spotify.com/album/35jNWYPIy9rhmEurrkw4O0"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "date_added": "2021-05-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 237333,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/3UodBfb2Z04ZEfskcHcwD7"
+    },
+    {
+      "album": {
         "name": "Things Are Swingin'",
         "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
       },
@@ -479,7 +555,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-10",
+      "date_removed": null,
       "duration_ms": 147000,
       "name": "Fly Me To The Moon (In Other Words)",
       "url": "https://open.spotify.com/track/5b7OgznPJJr1vHNYGyvxau"
@@ -501,7 +577,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 147520,
       "name": "Fly Me To The Moon - 2008 Remastered",
       "url": "https://open.spotify.com/track/7FXj7Qg3YorUxdrzvrcY25"
@@ -671,6 +747,24 @@
       "duration_ms": 216746,
       "name": "In the Mood",
       "url": "https://open.spotify.com/track/1xsY8IFXUrxeet1Fcmk4oC"
+    },
+    {
+      "album": {
+        "name": "The Lost Recordings",
+        "url": "https://open.spotify.com/album/3tdCgY2FvXObDMUpqi7RLK"
+      },
+      "artists": [
+        {
+          "name": "Glenn Miller",
+          "url": "https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc"
+        }
+      ],
+      "date_added": "2021-05-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 209933,
+      "name": "In The Mood - Remastered 1995",
+      "url": "https://open.spotify.com/track/2X5dLbhmL8UFZnYswHDyen"
     },
     {
       "album": {
@@ -975,6 +1069,24 @@
       "duration_ms": 209960,
       "name": "Our Love Is Here To Stay",
       "url": "https://open.spotify.com/track/5KC32YrLNFpjDrjz37KIrK"
+    },
+    {
+      "album": {
+        "name": "Unforgettable...With Love",
+        "url": "https://open.spotify.com/album/4yy5d2JaY2JhLMJg8KVkK0"
+      },
+      "artists": [
+        {
+          "name": "Natalie Cole",
+          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+        }
+      ],
+      "date_added": "2021-05-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 210213,
+      "name": "Our Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/6atb32DKJTMfUznOF0xIVH"
     },
     {
       "album": {

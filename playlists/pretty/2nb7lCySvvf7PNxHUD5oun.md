@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2nb7lCySvvf7PNxHUD5oun.md) - [plain]
 
 > In honor of JAM, we're collecting your favorite jazz tracks! Share yours at \#SpotifyJAM
 
-[Spotify](https://open.spotify.com/user/spotify) - 285 likes - 40 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 287 likes - 40 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

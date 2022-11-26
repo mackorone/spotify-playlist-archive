@@ -132,6 +132,24 @@
     },
     {
       "album": {
+        "name": "Almost",
+        "url": "https://open.spotify.com/album/0Qzxp5849s75hQ80V5puOq"
+      },
+      "artists": [
+        {
+          "name": "V\u00e9yah",
+          "url": "https://open.spotify.com/artist/3mBrMbg5lTkD2qv3Ft5o63"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140658,
+      "name": "Almost",
+      "url": "https://open.spotify.com/track/68VL7UkUzq4AYwKrDFILDr"
+    },
+    {
+      "album": {
         "name": "SAGA-II",
         "url": "https://open.spotify.com/album/00TxHLGq0npacleeiFcS0y"
       },
@@ -553,6 +571,24 @@
     {
       "album": {
         "name": "Don't Let Go",
+        "url": "https://open.spotify.com/album/5WGtuS2pMdXz7WfOrM9vcN"
+      },
+      "artists": [
+        {
+          "name": "Strong Asian Mothers",
+          "url": "https://open.spotify.com/artist/4w0ZOWckwNCzNtbxu5niaB"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158389,
+      "name": "Don't Let Go",
+      "url": "https://open.spotify.com/track/222VjaQ6wUWhe3SnbNHJ2K"
+    },
+    {
+      "album": {
+        "name": "Don't Let Go",
         "url": "https://open.spotify.com/album/62zbZ4GgUDL4rqKdbQEjrA"
       },
       "artists": [
@@ -563,7 +599,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 158389,
       "name": "Don't Let Go",
       "url": "https://open.spotify.com/track/6re2wfSQbSFqQDeTxImshl"
@@ -730,6 +766,24 @@
     },
     {
       "album": {
+        "name": "Silver Linings",
+        "url": "https://open.spotify.com/album/72T0alpDO0p68JS48Zswgu"
+      },
+      "artists": [
+        {
+          "name": "Leo Kalyan",
+          "url": "https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 255482,
+      "name": "Fingertips",
+      "url": "https://open.spotify.com/track/3bkKXGuX5ZDdr6y3dQYAmd"
+    },
+    {
+      "album": {
         "name": "Fingertips",
         "url": "https://open.spotify.com/album/5AuoX8sA4NWGHO20Y47Fr3"
       },
@@ -741,10 +795,28 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 255482,
       "name": "Fingertips",
       "url": "https://open.spotify.com/track/6PmwtLi01pMTkQvk4Hz7xc"
+    },
+    {
+      "album": {
+        "name": "Fingertips",
+        "url": "https://open.spotify.com/album/5GeJw5dsJDahd3DLjPT3MJ"
+      },
+      "artists": [
+        {
+          "name": "Leo Kalyan",
+          "url": "https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255482,
+      "name": "Fingertips",
+      "url": "https://open.spotify.com/track/7JZBTSbpVzSJwRUgHxvUIG"
     },
     {
       "album": {
@@ -1083,6 +1155,24 @@
     {
       "album": {
         "name": "Honey Bee",
+        "url": "https://open.spotify.com/album/72HabOyINqSkT0YSQ1Pdtv"
+      },
+      "artists": [
+        {
+          "name": "Abhilasha Sinha",
+          "url": "https://open.spotify.com/artist/3FJ13syehmla1ybPZYHYHW"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219353,
+      "name": "Honey Bee",
+      "url": "https://open.spotify.com/track/1s2eSfchKBG6NIWpwL6x5B"
+    },
+    {
+      "album": {
+        "name": "Honey Bee",
         "url": "https://open.spotify.com/album/2EJPiGw5V1dJciKQaK7jd6"
       },
       "artists": [
@@ -1093,7 +1183,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 219353,
       "name": "Honey Bee",
       "url": "https://open.spotify.com/track/7KfecH9A9sikQcFhHrfaA8"
@@ -1965,8 +2055,8 @@
       },
       "artists": [
         {
-          "name": "Shan Vincent De Paul",
-          "url": "https://open.spotify.com/artist/0pJlp3FfdJ2WRYmLsUc548"
+          "name": "SVDP",
+          "url": "https://open.spotify.com/artist/3P8KLEIz09I7tN6YUqPhAb"
         },
         {
           "name": "Navz-47",

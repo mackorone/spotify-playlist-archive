@@ -99,7 +99,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 162765,
       "name": "A Short Story of the Mahale Mountains",
       "url": "https://open.spotify.com/track/7ii2m9S4sHvuOIpHEx2ukF"
@@ -165,7 +165,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": "2022-11-20",
       "duration_ms": 144021,
       "name": "Agujeros Blancos",
       "url": "https://open.spotify.com/track/62fdnD6CHCJHQYwH2YOQw3"
@@ -427,10 +427,32 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 206895,
       "name": "Azul Oro",
       "url": "https://open.spotify.com/track/18XhpMPsd4oeX6lQETPeaU"
+    },
+    {
+      "album": {
+        "name": "Azulejos",
+        "url": "https://open.spotify.com/album/5rC8m03xKIoFTt5iLPRtZY"
+      },
+      "artists": [
+        {
+          "name": "Populous",
+          "url": "https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU"
+        },
+        {
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206895,
+      "name": "Azul Oro",
+      "url": "https://open.spotify.com/track/7fAxYPaTKRmQnxJMjg51xc"
     },
     {
       "album": {
@@ -793,6 +815,24 @@
     {
       "album": {
         "name": "Bennu",
+        "url": "https://open.spotify.com/album/7HK4h1JygKYGRCYcdfOMlo"
+      },
+      "artists": [
+        {
+          "name": "Thornato",
+          "url": "https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222222,
+      "name": "Chapinero",
+      "url": "https://open.spotify.com/track/004JVePzMr05q3vP462QPa"
+    },
+    {
+      "album": {
+        "name": "Bennu",
         "url": "https://open.spotify.com/album/0ap1ioMSBoEr7eWqwU2DxH"
       },
       "artists": [
@@ -803,7 +843,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 222222,
       "name": "Chapinero",
       "url": "https://open.spotify.com/track/0yENDAPqNW1hksxq9KUt8n"
@@ -1354,6 +1394,28 @@
     },
     {
       "album": {
+        "name": "El pavo real",
+        "url": "https://open.spotify.com/album/1U651FMxGylI8PoQysziz6"
+      },
+      "artists": [
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        },
+        {
+          "name": "Meridian Brothers",
+          "url": "https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208005,
+      "name": "El pavo real",
+      "url": "https://open.spotify.com/track/02z57uGfEd82kcbpssAmcq"
+    },
+    {
+      "album": {
         "name": "De Aqu\u00ed Hasta Aqu\u00ed",
         "url": "https://open.spotify.com/album/2kle3HDOBmnyx5BrR9B8EW"
       },
@@ -1431,7 +1493,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-10-15",
       "duration_ms": 214799,
       "name": "Entre Pat\u00eda y Sanquianga (Remix)",
       "url": "https://open.spotify.com/track/3N2DH7xV0Z737nxuOQ1w3o"
@@ -1649,6 +1711,24 @@
       "duration_ms": 205910,
       "name": "Jarana y Tundete",
       "url": "https://open.spotify.com/track/1Eu2z6ySMMDDcVHOOHa17u"
+    },
+    {
+      "album": {
+        "name": "Amansara",
+        "url": "https://open.spotify.com/album/2XJlMNLjYOr31TTFd21GED"
+      },
+      "artists": [
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286000,
+      "name": "Jardines",
+      "url": "https://open.spotify.com/track/4ayZ9j0dnWDHAND8gndD6X"
     },
     {
       "album": {
@@ -1893,7 +1973,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": "2022-11-13",
       "duration_ms": 313240,
       "name": "La Cazadora",
       "url": "https://open.spotify.com/track/4QHLlJYsUWCoRkRaUFYIhP"
@@ -2087,7 +2167,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 311554,
       "name": "Los Guasang\u00fa - (Cerrero Remix)",
       "url": "https://open.spotify.com/track/5Cc7P1f3WRSFFP6iBencng"
@@ -2171,6 +2251,28 @@
       "duration_ms": 259849,
       "name": "Maleza",
       "url": "https://open.spotify.com/track/6thXjSpWtLHJL72kXLgOkI"
+    },
+    {
+      "album": {
+        "name": "Escape Plan",
+        "url": "https://open.spotify.com/album/4qYVBtC9qkZpEIRZDLyUHg"
+      },
+      "artists": [
+        {
+          "name": "Thornato",
+          "url": "https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP"
+        },
+        {
+          "name": "Benjam\u00edn Vanegas",
+          "url": "https://open.spotify.com/artist/3iH5J5um1uCq8fEXkuF5hF"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221925,
+      "name": "Mama Clo",
+      "url": "https://open.spotify.com/track/2jUXoIl9hcfw9JQrOPRHEW"
     },
     {
       "album": {
@@ -2391,7 +2493,7 @@
     {
       "album": {
         "name": "Cenotes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/49SC0iDWnUvugi5UHZQuOQ"
+        "url": "https://open.spotify.com/album/0Gk9ZPx40L9vCMS2okBUTZ"
       },
       "artists": [
         {
@@ -2402,6 +2504,24 @@
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Ma\u00f1ana Tepotzlan",
+      "url": "https://open.spotify.com/track/0uSBIec5LeDbZtyKjVzCLx"
+    },
+    {
+      "album": {
+        "name": "Cenotes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/49SC0iDWnUvugi5UHZQuOQ"
+      },
+      "artists": [
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
       "duration_ms": 240000,
       "name": "Ma\u00f1ana Tepotzlan",
       "url": "https://open.spotify.com/track/3SIvxOsX0OUlkhzSdQle6D"
@@ -2590,6 +2710,28 @@
     },
     {
       "album": {
+        "name": "Ramas",
+        "url": "https://open.spotify.com/album/2s61LZqkxTwh3PNMxO6mYX"
+      },
+      "artists": [
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        },
+        {
+          "name": "Didacte",
+          "url": "https://open.spotify.com/artist/4gJkcE85yauN8vUrt8bIFT"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400826,
+      "name": "Nevar",
+      "url": "https://open.spotify.com/track/2EEkGybjOcVfAZfceU8HD3"
+    },
+    {
+      "album": {
         "name": "Nevar",
         "url": "https://open.spotify.com/album/7JhEkFHjGqWwPYTrZ5Vu8p"
       },
@@ -2623,7 +2765,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 258152,
       "name": "Ni el rastro qued\u00f3",
       "url": "https://open.spotify.com/track/2aQZapeJZvcTJAoNmfMj8g"
@@ -3021,7 +3163,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-09",
+      "date_removed": null,
       "duration_ms": 222787,
       "name": "P\u00e1jaro",
       "url": "https://open.spotify.com/track/0kPq2bsyrh9T9t5tjCdGdX"
@@ -3108,6 +3250,24 @@
     },
     {
       "album": {
+        "name": "Or\u00edgenes",
+        "url": "https://open.spotify.com/album/6gRNWVhhibYkhLxpIemENH"
+      },
+      "artists": [
+        {
+          "name": "Sotomayor",
+          "url": "https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206148,
+      "name": "Quema",
+      "url": "https://open.spotify.com/track/451jovfIdTRSHwdcRXfmDr"
+    },
+    {
+      "album": {
         "name": "Quema",
         "url": "https://open.spotify.com/album/7vRod7kWz3RwGmSyMnob3b"
       },
@@ -3119,7 +3279,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 206148,
       "name": "Quema",
       "url": "https://open.spotify.com/track/6ikqpsmK1si8HemHsocssD"
@@ -3217,7 +3377,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": "2022-11-13",
       "duration_ms": 192039,
       "name": "Resistencia",
       "url": "https://open.spotify.com/track/5djxB6YBAiznofQnUsMCet"
@@ -3261,6 +3421,24 @@
       "duration_ms": 244993,
       "name": "Rosa",
       "url": "https://open.spotify.com/track/1sSUq2MY9J8SI5VJvDqCip"
+    },
+    {
+      "album": {
+        "name": "Ostriconi",
+        "url": "https://open.spotify.com/album/3SMp3cqUcv5x0GtKVyMAxd"
+      },
+      "artists": [
+        {
+          "name": "Yeahman",
+          "url": "https://open.spotify.com/artist/2IB9PgY9PMJklQlRQHDntA"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285990,
+      "name": "Sakoneta",
+      "url": "https://open.spotify.com/track/3rTdacXE78kylGPegwCc3B"
     },
     {
       "album": {
@@ -3327,6 +3505,24 @@
       "duration_ms": 427525,
       "name": "Salamanquesa",
       "url": "https://open.spotify.com/track/2g0DEj8yNoDmh5BjNg5kcw"
+    },
+    {
+      "album": {
+        "name": "Desesperanza",
+        "url": "https://open.spotify.com/album/5Kz98hHeSt1Qokhc6rZd83"
+      },
+      "artists": [
+        {
+          "name": "Meridian Brothers",
+          "url": "https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 283106,
+      "name": "Salsa Caliente (Versi\u00f3n Aumentada)",
+      "url": "https://open.spotify.com/track/3qMRDghhgm2V3be7a3yxnn"
     },
     {
       "album": {
@@ -3671,7 +3867,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 311141,
       "name": "Soma",
       "url": "https://open.spotify.com/track/1qA2L50nbrpDv9b53ifP88"
@@ -3953,7 +4149,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 213146,
       "name": "Tamarugal (Para de Mirarme)",
       "url": "https://open.spotify.com/track/737ifSsVNWrDFKeGnGVp6A"
@@ -4233,7 +4429,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 203294,
       "name": "Tribo",
       "url": "https://open.spotify.com/track/0NO3QKBYP9hzHFKGwVufFZ"
@@ -4320,6 +4516,24 @@
     },
     {
       "album": {
+        "name": "Underwater Temples of Mahabalipuram",
+        "url": "https://open.spotify.com/album/1R1mrvSewIDG7aiLvrAKuN"
+      },
+      "artists": [
+        {
+          "name": "The Golden Islands",
+          "url": "https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 150588,
+      "name": "Underwater Temples of Mahabalipuram",
+      "url": "https://open.spotify.com/track/3qebe3F4sfNJLxbUBlMJnQ"
+    },
+    {
+      "album": {
         "name": "Vamo a Dale Duro",
         "url": "https://open.spotify.com/album/4OSvkwaHIdJSuAdlQFIWtl"
       },
@@ -4349,7 +4563,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-22",
+      "date_removed": "2022-11-13",
       "duration_ms": 129000,
       "name": "Vayay\u00f3",
       "url": "https://open.spotify.com/track/4YEeQ4gYDBTZbyBDFbtZYS"
@@ -4429,6 +4643,28 @@
       "duration_ms": 383360,
       "name": "Yo Me Voy - Cerrero Remix",
       "url": "https://open.spotify.com/track/51dzuq7fCzEYJJn6WSw8pP"
+    },
+    {
+      "album": {
+        "name": "Yo-Po-No-Po Prieto Riddiman Remixes",
+        "url": "https://open.spotify.com/album/0ahus37xHDFIzFfq7sdzU4"
+      },
+      "artists": [
+        {
+          "name": "Semblanzas del Rio Guapi",
+          "url": "https://open.spotify.com/artist/5z2De8UDjNsituyyJOXh8H"
+        },
+        {
+          "name": "Prieto Riddiman",
+          "url": "https://open.spotify.com/artist/25y4BwAI7JVq6UFvMuYjrD"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-28",
+      "duration_ms": 214738,
+      "name": "Yo-Po-No-Po Prieto Riddiman Remixes - Yo-Po-No-Po, Versi\u00f3n 1 - Prieto Riddiman Remix",
+      "url": "https://open.spotify.com/track/7xgBaxGvCFnyJqLhMrMAIJ"
     },
     {
       "album": {

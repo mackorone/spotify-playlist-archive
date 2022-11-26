@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "L'incoronazione Di Poppea",
+        "url": "https://open.spotify.com/album/4TgfPL0vRiA2MToVsBcUEA"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90771,
+      "name": "Addio",
+      "url": "https://open.spotify.com/track/3FBwcr5rTOj47URzCGRDpc"
+    },
+    {
+      "album": {
         "name": "Cirque",
         "url": "https://open.spotify.com/album/4bSDMXRfW6GpHkzqcB1Wcl"
       },
@@ -127,7 +145,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-25",
+      "date_removed": null,
       "duration_ms": 304586,
       "name": "Antennaria",
       "url": "https://open.spotify.com/track/5ypp9xJW7yp3f2yC10gHEh"
@@ -145,7 +163,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 304460,
       "name": "Arafura",
       "url": "https://open.spotify.com/track/2yJMu2hzbQ8MQur8HwaSVV"
@@ -181,7 +199,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 193660,
       "name": "As Pale as a Pearl",
       "url": "https://open.spotify.com/track/06aJtZTTyz4gfBOKfhaNys"
@@ -199,7 +217,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 107133,
       "name": "As the Sun Kissed the Horizon",
       "url": "https://open.spotify.com/track/7k1SYL49hsMcFgIPsG0FmO"
@@ -235,7 +253,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-10-13",
       "duration_ms": 304831,
       "name": "Baby Satellite",
       "url": "https://open.spotify.com/track/0TvD9dSrJQ0T3ZNJjLep9Y"
@@ -271,7 +289,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 292480,
       "name": "Bergsbotn I",
       "url": "https://open.spotify.com/track/2o2kesEPWqDCcvOkFpkoUT"
@@ -435,7 +453,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": null,
       "duration_ms": 179659,
       "name": "Daddylonglegs - Remastered",
       "url": "https://open.spotify.com/track/02aohSIlQnB7sZoqah4T3P"
@@ -471,7 +489,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 363903,
       "name": "Decryption",
       "url": "https://open.spotify.com/track/0xlN3TAg9tMkuALgL0bsno"
@@ -543,7 +561,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-10-13",
       "duration_ms": 259706,
       "name": "Drifter",
       "url": "https://open.spotify.com/track/5xgAiOzfGQIDB4H12rnFbL"
@@ -651,7 +669,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 318949,
       "name": "From a Solid To a Liquid",
       "url": "https://open.spotify.com/track/2LWPDsw1WejU1AkWzNM9Uo"
@@ -669,7 +687,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": "2022-10-12",
       "duration_ms": 296440,
       "name": "Fujiko",
       "url": "https://open.spotify.com/track/1dLZYbQ5yr9PETbjG1e24h"
@@ -705,7 +723,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 336253,
       "name": "Grand Dome",
       "url": "https://open.spotify.com/track/5K58ZWWb2ecuEDwQhQ6Dt0"
@@ -723,7 +741,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 48111,
       "name": "Grandiflora",
       "url": "https://open.spotify.com/track/0XG0jUpQ4ubOz9hzqbygOq"
@@ -849,7 +867,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 345560,
       "name": "Hyperborea",
       "url": "https://open.spotify.com/track/1Sw8rWRv7yASSHcGgOPKR0"
@@ -867,10 +885,28 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 398306,
       "name": "Iberia Eterea",
       "url": "https://open.spotify.com/track/64O74NcCUUafwf3wmoVisX"
+    },
+    {
+      "album": {
+        "name": "DJ-Kicks (DJ Tennis) [DJ Mix]",
+        "url": "https://open.spotify.com/album/2pzrqp12CEqxTDmzJY3QbV"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201321,
+      "name": "Ikata-1 - Mixed",
+      "url": "https://open.spotify.com/track/4aDoixY09JN4cZ6eO5xHMu"
     },
     {
       "album": {
@@ -885,7 +921,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": "2022-10-13",
       "duration_ms": 244000,
       "name": "In the Ballroom",
       "url": "https://open.spotify.com/track/1GPzqVAsIXsJfFZ2lUfn7U"
@@ -939,7 +975,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 513650,
       "name": "Infinium",
       "url": "https://open.spotify.com/track/21UIeael82ah6ep6ED7Nd7"
@@ -957,7 +993,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 383000,
       "name": "Interval Signal",
       "url": "https://open.spotify.com/track/1WZcAa7lyALMxQHnq4mcCB"
@@ -983,7 +1019,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-10-12",
       "duration_ms": 413386,
       "name": "Journey To The Centre Of The First, Pt. 1",
       "url": "https://open.spotify.com/track/280pz3FHXp82OZzls1lyvH"
@@ -1019,7 +1055,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 93500,
       "name": "Juno",
       "url": "https://open.spotify.com/track/6UAI6i1BLXg9bFODQIRAod"
@@ -1081,7 +1117,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": "2022-11-25",
       "duration_ms": 148593,
       "name": "Kent Country Train",
       "url": "https://open.spotify.com/track/3ZfjmvEQOCYwahIfCCQGQc"
@@ -1157,7 +1193,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 312493,
       "name": "Microgravity",
       "url": "https://open.spotify.com/track/4SxmbfErnDroZYcn3q1x6p"
@@ -1197,7 +1233,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-06",
+      "date_removed": null,
       "duration_ms": 64053,
       "name": "Miniature Rock Dwellers",
       "url": "https://open.spotify.com/track/0SrIBh7MBoZ741GpqZIgqO"
@@ -1287,7 +1323,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": null,
       "duration_ms": 363243,
       "name": "Night Shift",
       "url": "https://open.spotify.com/track/1EAIJtAj5PC5V7VdEdsks8"
@@ -1377,7 +1413,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-10-21",
       "duration_ms": 639546,
       "name": "People Are Friends",
       "url": "https://open.spotify.com/track/7CYNZgGuWr2lhkeQh1yurD"
@@ -1395,7 +1431,7 @@
       ],
       "date_added": "2022-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 290973,
       "name": "Phantasm",
       "url": "https://open.spotify.com/track/0GitudTQiCx24Yq8GopYuG"
@@ -1413,10 +1449,28 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 251066,
       "name": "Poa Alpina",
       "url": "https://open.spotify.com/track/4K4kedXFAuW6gn8iwgGFTw"
+    },
+    {
+      "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/1VL4JpgnHsA8Q9Vqp5wNlF"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90400,
+      "name": "Probe",
+      "url": "https://open.spotify.com/track/2d2m3q2CPFPi0yM4EGghJo"
     },
     {
       "album": {
@@ -1467,7 +1521,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 480866,
       "name": "Sendai-1",
       "url": "https://open.spotify.com/track/222FcNSefEQFkhSHAr1vI0"
@@ -1521,7 +1575,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": "2022-10-18",
       "duration_ms": 474186,
       "name": "Shika-1",
       "url": "https://open.spotify.com/track/43Bx78yw7xZufzOXAZLDb2"
@@ -1555,6 +1609,24 @@
           "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 466944,
+      "name": "Shortwave Memories",
+      "url": "https://open.spotify.com/track/5XkqDsaZLGBQPQcegRTRsc"
+    },
+    {
+      "album": {
+        "name": "Shortwave Memories",
+        "url": "https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -1575,7 +1647,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 473840,
       "name": "Silene",
       "url": "https://open.spotify.com/track/6l7ouzm1yKyTNaOKe87imj"
@@ -1597,7 +1669,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 501986,
       "name": "Snapshot Survey",
       "url": "https://open.spotify.com/track/68hyD30NpfZxLg5ACCKUX2"
@@ -1615,10 +1687,28 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 347640,
       "name": "Sphere of No Form",
       "url": "https://open.spotify.com/track/1sTEwlABqphttrrXoUUeqE"
+    },
+    {
+      "album": {
+        "name": "Substrata [Alternative Versions]",
+        "url": "https://open.spotify.com/album/1LKkDKteFePHRCNCtBhcPN"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 503259,
+      "name": "Sphere Of No-Form - Alternative Version",
+      "url": "https://open.spotify.com/track/2Px24p2YvxnJt2nF4VShyO"
     },
     {
       "album": {
@@ -1651,10 +1741,28 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 302826,
       "name": "Startoucher",
       "url": "https://open.spotify.com/track/0MSEhfQE0256xTKHtaNkXB"
+    },
+    {
+      "album": {
+        "name": "The Senja Recordings",
+        "url": "https://open.spotify.com/album/5FwxcdIt5HKvuFIUaopKp9"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60600,
+      "name": "Straumen",
+      "url": "https://open.spotify.com/track/7xhwz2xa3wDXXkbZJhIDnK"
     },
     {
       "album": {
@@ -1687,7 +1795,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 205432,
       "name": "Talking to Some Imaginary Person",
       "url": "https://open.spotify.com/track/1xcpQJjF2TLxzCmQIIZPyY"
@@ -1741,7 +1849,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-11-12",
       "duration_ms": 308160,
       "name": "The Petrified Forest",
       "url": "https://open.spotify.com/track/6DgNfS4wYq7UUwuctdHNKY"
@@ -1831,10 +1939,28 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 511948,
       "name": "The Third Planet",
       "url": "https://open.spotify.com/track/13TUfTLlhSNXFtqtcYiJCY"
+    },
+    {
+      "album": {
+        "name": "Substrata + Man with a Movie Camera",
+        "url": "https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-31",
+      "duration_ms": 224400,
+      "name": "Times When I Know You'll Be Sad",
+      "url": "https://open.spotify.com/track/1WgRcGb2uxmRvCcbPsz4kw"
     },
     {
       "album": {
@@ -1849,7 +1975,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 291828,
       "name": "Too Fragile to Walk On",
       "url": "https://open.spotify.com/track/7K7DeIN0qZvNVrc2Skyoks"
@@ -1867,7 +1993,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-10-13",
       "duration_ms": 498021,
       "name": "Tranquillizer",
       "url": "https://open.spotify.com/track/6AD9CfUxQscQJFA6cWIBfZ"
@@ -1915,7 +2041,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": "2022-10-24",
       "duration_ms": 166480,
       "name": "Twin Decks",
       "url": "https://open.spotify.com/track/4rhZ726UASilAJG9vSJqGZ"
@@ -1940,6 +2066,24 @@
     },
     {
       "album": {
+        "name": "Shenzhou",
+        "url": "https://open.spotify.com/album/2AHktHVC0TOMkb42I40BpS"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
+      "duration_ms": 190403,
+      "name": "Two Ocean Plateau",
+      "url": "https://open.spotify.com/track/2PJAh9IeZhEDWMa08xZVIf"
+    },
+    {
+      "album": {
         "name": "Substrata + Man with a Movie Camera",
         "url": "https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ"
       },
@@ -1955,6 +2099,24 @@
       "duration_ms": 181413,
       "name": "Uva-Ursi",
       "url": "https://open.spotify.com/track/40QwZW5GcnjtwuPRJEM9bx"
+    },
+    {
+      "album": {
+        "name": "Substrata [Alternative Versions]",
+        "url": "https://open.spotify.com/album/1LKkDKteFePHRCNCtBhcPN"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127161,
+      "name": "Uva-Ursi - Alternative Version",
+      "url": "https://open.spotify.com/track/6IquI7T08Gp6ylSpOtCMyp"
     },
     {
       "album": {
@@ -1995,7 +2157,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 297120,
       "name": "Warp/Warpable",
       "url": "https://open.spotify.com/track/6qImwuFi8EzQFm4I7FLcH5"
@@ -2049,7 +2211,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 282697,
       "name": "With Precious Benefits To Both",
       "url": "https://open.spotify.com/track/7oFtmhVs4jk16rFvikGmHq"

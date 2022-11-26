@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "(image for) drawing on canvas",
+        "url": "https://open.spotify.com/album/1mKYFaGZsIIjC3NFuQfNyg"
+      },
+      "artists": [
+        {
+          "name": "SPOOL",
+          "url": "https://open.spotify.com/artist/741byU7Mazqx3tGmciUzcK"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273085,
+      "name": "(image for) drawing on canvas",
+      "url": "https://open.spotify.com/track/6h0YR0kt5KfVlT6N9HTLkQ"
+    },
+    {
+      "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy"
       },
@@ -135,7 +153,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 195312,
       "name": "Al Rev\u00e9s - feat. Petite Amie",
       "url": "https://open.spotify.com/track/7MdUqzrHXeTk2zf55YXqM4"
@@ -265,10 +283,32 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 231929,
       "name": "atonement",
       "url": "https://open.spotify.com/track/5sSp2IUOJxGx6tba78hfUu"
+    },
+    {
+      "album": {
+        "name": "What Kind of Blue Are You?",
+        "url": "https://open.spotify.com/album/78h5X8ibgjBxrM48kvYLGF"
+      },
+      "artists": [
+        {
+          "name": "Winter",
+          "url": "https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl"
+        },
+        {
+          "name": "Hatchie",
+          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231929,
+      "name": "atonement",
+      "url": "https://open.spotify.com/track/76XJ4MWK8ru7dJCG8GThdM"
     },
     {
       "album": {
@@ -301,7 +341,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 294000,
       "name": "Autopilot Paradise",
       "url": "https://open.spotify.com/track/0dj2Uv200jKLhbukIVVSqn"
@@ -611,7 +651,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 221186,
       "name": "Calling it love isn't love (Don't fall in love)",
       "url": "https://open.spotify.com/track/4CQExLcRw5XWiWL1FqwE8J"
@@ -701,7 +741,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 225706,
       "name": "Cellophane",
       "url": "https://open.spotify.com/track/34jhEjnmO28mTdWRFjURHY"
@@ -755,7 +795,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-04",
+      "date_removed": null,
       "duration_ms": 356750,
       "name": "Cherry-Cola Abyss",
       "url": "https://open.spotify.com/track/3agVTNFmPXfrqQXnxoMyeM"
@@ -845,7 +885,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-09",
+      "date_removed": "2022-11-26",
       "duration_ms": 240678,
       "name": "Cometa",
       "url": "https://open.spotify.com/track/5juaKlJp9RtJ12EOTz4NHK"
@@ -935,7 +975,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 192600,
       "name": "dad",
       "url": "https://open.spotify.com/track/5TpE5xJ9mrD5IwaeLHi7bi"
@@ -1025,7 +1065,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-14",
+      "date_removed": "2022-11-19",
       "duration_ms": 205417,
       "name": "Die Happily",
       "url": "https://open.spotify.com/track/5JEIIZVri1FvrbO39vGXXZ"
@@ -1522,6 +1562,28 @@
     },
     {
       "album": {
+        "name": "What Kind of Blue Are You?",
+        "url": "https://open.spotify.com/album/78h5X8ibgjBxrM48kvYLGF"
+      },
+      "artists": [
+        {
+          "name": "Winter",
+          "url": "https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl"
+        },
+        {
+          "name": "SASAMI",
+          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
+        }
+      ],
+      "date_added": "2022-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245219,
+      "name": "good",
+      "url": "https://open.spotify.com/track/1e4nEB443PyOJEMacc1tvg"
+    },
+    {
+      "album": {
         "name": "good",
         "url": "https://open.spotify.com/album/1X7Be9kpcbuBq2IK6OH8F2"
       },
@@ -1537,7 +1599,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 245219,
       "name": "good",
       "url": "https://open.spotify.com/track/4CbIwXygDbSAo8jEjNm2MP"
@@ -1825,7 +1887,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": "2022-11-13",
       "duration_ms": 165587,
       "name": "I Can Show You Wonders",
       "url": "https://open.spotify.com/track/59nLZfSfprwxAA2NeESxey"
@@ -1915,7 +1977,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 226676,
       "name": "Inevitable",
       "url": "https://open.spotify.com/track/0uBBAHfiu4Rxzr8smE36ly"
@@ -1933,7 +1995,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 276172,
       "name": "Inspiral",
       "url": "https://open.spotify.com/track/2g5wSGjYZB8gMGMgyKuVd8"
@@ -2085,6 +2147,24 @@
     {
       "album": {
         "name": "Lesser Matters",
+        "url": "https://open.spotify.com/album/6dEAN2qal4UKGokw5fdzgV"
+      },
+      "artists": [
+        {
+          "name": "The Radio Dept.",
+          "url": "https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG"
+        }
+      ],
+      "date_added": "2021-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293160,
+      "name": "Keen on Boys",
+      "url": "https://open.spotify.com/track/0dGFsu0DQET42B0AJrPfQc"
+    },
+    {
+      "album": {
+        "name": "Lesser Matters",
         "url": "https://open.spotify.com/album/4qkV5iPkYOzXBveXuFIRQC"
       },
       "artists": [
@@ -2131,7 +2211,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": "2022-11-14",
       "duration_ms": 237087,
       "name": "Lazy Lovers",
       "url": "https://open.spotify.com/track/223R25sVUNY4QCvA7XjkNk"
@@ -2423,7 +2503,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": "2022-11-07",
       "duration_ms": 209046,
       "name": "Nomofobia",
       "url": "https://open.spotify.com/track/4qp7bfLqimExyHEfmC8QVA"
@@ -2639,7 +2719,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 181301,
       "name": "Panic Song",
       "url": "https://open.spotify.com/track/5DBvoBCnSwerIEIZwwRsw5"
@@ -2657,7 +2737,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 160415,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/1y8Ib4LBzhmXNCKhy9BZpL"
@@ -2729,7 +2809,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 287994,
       "name": "Picnic",
       "url": "https://open.spotify.com/track/5IDA5kOwkjsPPXpqpUDpml"
@@ -2747,7 +2827,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 293809,
       "name": "Play Ground",
       "url": "https://open.spotify.com/track/36nLNoWO8DiBKVQgW6PELj"
@@ -3111,7 +3191,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 248735,
       "name": "sin. (feat. Yunjin)",
       "url": "https://open.spotify.com/track/7kFgDnOMb1AEKmOnofnylh"
@@ -3313,6 +3393,24 @@
       "duration_ms": 211707,
       "name": "Surprise",
       "url": "https://open.spotify.com/track/6kLVZ6ck4U6AljgTMUYhEe"
+    },
+    {
+      "album": {
+        "name": "T.W.I.N.",
+        "url": "https://open.spotify.com/album/64wKY2vc3FLDD3CwD68vBz"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187654,
+      "name": "T.W.I.N.",
+      "url": "https://open.spotify.com/track/0AyN9SW50iTYEI17mdg8BG"
     },
     {
       "album": {

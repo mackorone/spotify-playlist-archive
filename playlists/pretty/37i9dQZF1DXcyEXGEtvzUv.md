@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyEXGEtvzUv.md) - [plain]
 
 > O melhor do rap luso em 2021\. Foto: Wet Bed Gang
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,972 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,331 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyEXGEtvzUv.md) - [plain]
 | 32 | [Dollar$](https://open.spotify.com/track/21Aqa8wQsChIh3D8KFpdsd) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Dollar$](https://open.spotify.com/album/3lgbmV9pqC1lbdl23WSN1s) | 4:00 |
 | 33 | [É ASSIM](https://open.spotify.com/track/20EeqYWivW9x7F9ij2GC71) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [É ASSIM](https://open.spotify.com/album/6wZWOmhGZq8IWu1OwXIxtu) | 4:09 |
 | 34 | [Pão na Mesa \(feat\. Richie Campbell\)](https://open.spotify.com/track/46Pfb5oErr8WVn3frcXybC) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Trilogia Pão Na Mesa](https://open.spotify.com/album/7zZoScNI4mNYXE5vQhMeQi) | 3:39 |
-| 35 | [Bandidas \(feat\. Julinho KSD, Kibow, Trista & Yuran\)](https://open.spotify.com/track/6MEZbtP3lg3mHnE9LzZn4S) | [Instinto 26](https://open.spotify.com/artist/0XrDy5XUWRVcD4O8sSyzEV), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Kibow](https://open.spotify.com/artist/09R2ZnVOtZJjYH5CkDkA0M), [Trista](https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw), [Yuran](https://open.spotify.com/artist/3zvbATHitSjEZ54l7QnJN0) | [Bandidas \(feat\. Julinho KSD, Kibow, Trista & Yuran\)](https://open.spotify.com/album/3GOXhstBnGiQbQylnIWEnq) | 3:30 |
+| 35 | [Bandidas](https://open.spotify.com/track/6MEZbtP3lg3mHnE9LzZn4S) | [Instinto 26](https://open.spotify.com/artist/0XrDy5XUWRVcD4O8sSyzEV), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Kibow](https://open.spotify.com/artist/09R2ZnVOtZJjYH5CkDkA0M), [Yuran](https://open.spotify.com/artist/3zvbATHitSjEZ54l7QnJN0), [Trista](https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw) | [Bandidas](https://open.spotify.com/album/3GOXhstBnGiQbQylnIWEnq) | 3:30 |
 | 36 | [Juvena](https://open.spotify.com/track/6vbFZuziJPaFPRCWyQxOxP) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Juvena](https://open.spotify.com/album/0C3QVzznGSXSAw9QmNVpbc) | 2:39 |
 | 37 | [L.O.M.](https://open.spotify.com/track/7rBx1NH9zGdFX5LtgnD08X) | [MOBBERS](https://open.spotify.com/artist/0o2CVefufFC0laiAQozokD), [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP), [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [L.O.M.](https://open.spotify.com/album/0mFkGQgpzqiGoLTkSsN7DJ) | 4:17 |
 | 38 | [Bossy](https://open.spotify.com/track/45cbUgJwFXYPN3tURnSH2l) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [Bossy](https://open.spotify.com/album/5QlvEKeqaZJjSa3Z9tmCzI) | 2:46 |

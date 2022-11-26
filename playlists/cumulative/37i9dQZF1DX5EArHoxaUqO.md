@@ -4,7 +4,7 @@
 
 > Make bedtime dreamlike with original lullabies from Timbuktu, Mapei and Pontus Winngren, as well as the artists' personal favorite lullabies.
 
-30 songs - 1 hr 51 min - [published](https://open.spotify.com/playlist/1WjMWUQOKKw29fz69hwFQh)
+32 songs - 1 hr 56 min - [published](https://open.spotify.com/playlist/1WjMWUQOKKw29fz69hwFQh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [1/1 \- Remastered 2004](https://open.spotify.com/track/3bCmDqflFBHijgJfvtqev5) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 1: Music For Airports \(Remastered 2004\)](https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa) | 17:21 | 2021-05-06 |  |
 | [Byssan lull](https://open.spotify.com/track/0VGKHZHCdEl8tq2Aqin8uI) | [Jan Johansson](https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf) | [Barnvisor](https://open.spotify.com/album/4vVAWhdb0dpfqiqfdKAIR0) | 1:25 | 2021-05-06 |  |
 | [C.R.E.A.M.](https://open.spotify.com/track/5ya6T5IWJLxl616Bf7DSaO) | [Rockabye Baby!](https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU) | [Lullaby Renditions of Wu\-Tang Clan](https://open.spotify.com/album/7daFeFeJyRZP6NiEXWMsI8) | 2:37 | 2021-05-06 |  |
+| [Comptine d'un autre été l'après\-midi \- From "Amélie"](https://open.spotify.com/track/2igUeMIqtLOD7sGrOzvynK) | [B\. Kudanowski](https://open.spotify.com/artist/0fqa5yr6KNfunoOKAW6TcM) | [Film trifft Klassik](https://open.spotify.com/album/1Jk67VV9YnH7WUmNMBlwHd) | 2:22 | 2021-05-06 | 2022-11-13 |
 | [Comptine d'un autre été, l'après\-midi](https://open.spotify.com/track/0PrAozo6AwJ0Ftatr3CfJt) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [Amelie from Montmartre \(Original SoundTrack\)](https://open.spotify.com/album/2AroyoBgm78mz4Qo5WEAnc) | 2:20 | 2021-05-06 | 2022-07-29 |
 | [Comptine d'un autre été, l'après\-midi](https://open.spotify.com/track/14rZjW3RioG7WesZhYESso) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [Le Fabuleux destin d'Amélie Poulain \(Bande originale du film\)](https://open.spotify.com/album/6PRPYATK5VvjZ2p911y6U0) | 2:20 | 2021-05-06 |  |
 | [Danny's Dream](https://open.spotify.com/track/13hLjPatKentvawsFceF9a) | [Lars Gullin](https://open.spotify.com/artist/4gquwMHteaMQ0ZQOMj9CsI) | [Fäbodjazz](https://open.spotify.com/album/698BkVjPZ6aBbp4OP1jLyW) | 5:38 | 2021-05-06 |  |
@@ -21,6 +22,7 @@
 | [Drops \- Instrumental](https://open.spotify.com/track/5vzZHEuFmRoJhCc5SBDRin) | [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz), [Lullabies](https://open.spotify.com/artist/49Ig1fdepIMRJ5JUIr7Ppg) | [Lullabies](https://open.spotify.com/album/1Lcth0stK7A9Xl46Gknzc7) | 2:51 | 2021-05-06 |  |
 | [Goodnight, Sweetheart, Goodnight](https://open.spotify.com/track/5VLKQp1YTubqXJ02HnViz5) | [The Spaniels](https://open.spotify.com/artist/0EkpTQlDjByRT3m4wOsr4P) | [Presenting the Spaniels](https://open.spotify.com/album/3FXBB39hDogIg4qUjEmVn2) | 2:40 | 2021-05-06 |  |
 | [Goodnight, Sweetheart, Goodnight](https://open.spotify.com/track/4XYtukhmv6PgESSHm3hS3K) | [The Spaniels](https://open.spotify.com/artist/0EkpTQlDjByRT3m4wOsr4P) | [Rock 'N' Roll Legend: The Spaniels](https://open.spotify.com/album/00WsL2je7cpiwFjt44JxaP) | 2:40 | 2021-05-06 | 2022-07-29 |
+| [Goodnite Sweetheart, Goodnite](https://open.spotify.com/track/7yb15rQiMlaiGbrKfECOEI) | [The Spaniels](https://open.spotify.com/artist/0EkpTQlDjByRT3m4wOsr4P) | [Doo Wop Pops \(Volume One\)](https://open.spotify.com/album/4wfRpsosy07okdHKP4gddi) | 2:40 | 2021-05-06 | 2022-11-13 |
 | [Hold On, Be Strong](https://open.spotify.com/track/7g8S0N45Tkp7yE1WEWRwyu) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Aquemini](https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28) | 1:12 | 2021-05-06 |  |
 | [Iconoteca](https://open.spotify.com/track/533MyzSJnuD7hQ3Rg6LtOu) | [Rino De Filippi](https://open.spotify.com/artist/5P3033vbGD0XwYwqNEIRK0) | [French Riviera \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1JfyQdgonnrK4t6qPYpctt) | 3:35 | 2021-05-06 | 2022-07-29 |
 | [Iconoteca](https://open.spotify.com/track/7xpKSrGAp1ZpX84Ui6Gc67) | [Rino De Filippi](https://open.spotify.com/artist/5P3033vbGD0XwYwqNEIRK0) | [French Riviera \(Edited Version\)](https://open.spotify.com/album/1DiOn1vpniiSJW8uqo6M45) | 3:35 | 2021-05-06 |  |

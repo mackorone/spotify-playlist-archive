@@ -157,7 +157,7 @@
       },
       "artists": [
         {
-          "name": "Cocomelon",
+          "name": "CoComelon",
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
@@ -206,12 +206,30 @@
     },
     {
       "album": {
+        "name": "Animal Play",
+        "url": "https://open.spotify.com/album/0PYtAutvNMvhjqPJe1VYVL"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 233454,
+      "name": "Ants Go Marching",
+      "url": "https://open.spotify.com/track/5jx8xeL9wX7XBbDyLIq9Wc"
+    },
+    {
+      "album": {
         "name": "CoComelon Kids Hits, Vol. 8",
         "url": "https://open.spotify.com/album/2LakWuI48PPkrR8dQdyWty"
       },
       "artists": [
         {
-          "name": "Cocomelon",
+          "name": "CoComelon",
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
@@ -239,6 +257,24 @@
       "duration_ms": 100909,
       "name": "Ants Go Marching",
       "url": "https://open.spotify.com/track/2DuVZNALyo1SpBrOOUB1RR"
+    },
+    {
+      "album": {
+        "name": "Ants Go Marching",
+        "url": "https://open.spotify.com/album/4sSUjh5Sst0G387Zr77Gbx"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 100909,
+      "name": "Ants Go Marching",
+      "url": "https://open.spotify.com/track/4JwpZ2LNT5pcOwxP5f1bqC"
     },
     {
       "album": {
@@ -296,12 +332,30 @@
     },
     {
       "album": {
+        "name": "Goodnight! LittleBabyBum Bedtime Songs & Lullabies for Children",
+        "url": "https://open.spotify.com/album/0BBSuQORrVJjcdTSyEEq8g"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 93846,
+      "name": "Are You Sleeping",
+      "url": "https://open.spotify.com/track/1oQMxnlOwanmkHqyJGnKzC"
+    },
+    {
+      "album": {
         "name": "CoComelon Kids Hits, Vol. 1",
         "url": "https://open.spotify.com/album/1wSJIPGezZDocP5T4DKUSs"
       },
       "artists": [
         {
-          "name": "Cocomelon",
+          "name": "CoComelon",
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
@@ -311,6 +365,24 @@
       "duration_ms": 147780,
       "name": "Baa Baa Black Sheep",
       "url": "https://open.spotify.com/track/0dF7HP4wDwxCtID3mXpdYX"
+    },
+    {
+      "album": {
+        "name": "Brilliant Baby Songs",
+        "url": "https://open.spotify.com/album/7gGkUoa3nQTF4vmHzOYMaw"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 147780,
+      "name": "Baa Baa Black Sheep",
+      "url": "https://open.spotify.com/track/20IiWOaTpH9WIXZpTf1z7D"
     },
     {
       "album": {
@@ -458,6 +530,24 @@
     },
     {
       "album": {
+        "name": "Baby Shark & Other Animal Songs! Fun Music for Children with LittleBabyBum",
+        "url": "https://open.spotify.com/album/77u8x13BHWehiOtLrLs1Id"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 108829,
+      "name": "Bear Went Over the Mountain",
+      "url": "https://open.spotify.com/track/7HQnP1hCz6Le9pOQh9h3nx"
+    },
+    {
+      "album": {
         "name": "Baby Songs - 75 Nursery Rhymes",
         "url": "https://open.spotify.com/album/3tdyQzereDh9uMZvG9dzgE"
       },
@@ -509,6 +599,24 @@
       "duration_ms": 116751,
       "name": "Bingo - Sing with Me",
       "url": "https://open.spotify.com/track/04hHP1xdT8asIym1MuIIq5"
+    },
+    {
+      "album": {
+        "name": "Baby Shark & Other Animal Songs! Fun Music for Children with LittleBabyBum",
+        "url": "https://open.spotify.com/album/77u8x13BHWehiOtLrLs1Id"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 116751,
+      "name": "Bingo - Sing with Me",
+      "url": "https://open.spotify.com/track/3fwTHMM4gvjUwMBwXxSr4d"
     },
     {
       "album": {
@@ -571,7 +679,7 @@
       },
       "artists": [
         {
-          "name": "Cocomelon",
+          "name": "CoComelon",
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
@@ -635,6 +743,24 @@
       "duration_ms": 92426,
       "name": "Der Glumph",
       "url": "https://open.spotify.com/track/7zfa0NZCwts3QzmysV2tqj"
+    },
+    {
+      "album": {
+        "name": "Once Upon a Time",
+        "url": "https://open.spotify.com/album/6b5vvqlE3llQBCKEFX1ysL"
+      },
+      "artists": [
+        {
+          "name": "Play School",
+          "url": "https://open.spotify.com/artist/0gkeMf1I9r5U5Hne19vr9A"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 92733,
+      "name": "Der Glumph",
+      "url": "https://open.spotify.com/track/23bl1rLBHRTeJtNQMP774p"
     },
     {
       "album": {
@@ -710,6 +836,24 @@
     },
     {
       "album": {
+        "name": "Highlights",
+        "url": "https://open.spotify.com/album/2QK9kdbvZlDjhPQf9njiby"
+      },
+      "artists": [
+        {
+          "name": "Play School",
+          "url": "https://open.spotify.com/artist/0gkeMf1I9r5U5Hne19vr9A"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 65693,
+      "name": "Do Your Ears Hang Low?",
+      "url": "https://open.spotify.com/track/3L7fswpSpMoKbWrUceJ7zT"
+    },
+    {
+      "album": {
         "name": "Mother Goose Club Sings Nursery Rhymes Vol. 1",
         "url": "https://open.spotify.com/album/79hTHRJbDctpb2CfjHRoGQ"
       },
@@ -743,6 +887,24 @@
       "duration_ms": 116905,
       "name": "Down by the Bay",
       "url": "https://open.spotify.com/track/1tm4z1rqmXjhRut3EWdCGK"
+    },
+    {
+      "album": {
+        "name": "Car Ride Sing-Along",
+        "url": "https://open.spotify.com/album/2XPJzy1Ud5MjeMCOjWmob5"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 116905,
+      "name": "Down by the Bay",
+      "url": "https://open.spotify.com/track/3mlwChbBvUxlcQP0yODwHw"
     },
     {
       "album": {
@@ -797,6 +959,24 @@
       "duration_ms": 100223,
       "name": "Down by the Bay",
       "url": "https://open.spotify.com/track/49esmZujhxDUeDtKBVcpcZ"
+    },
+    {
+      "album": {
+        "name": "100 Nursery Rhymes",
+        "url": "https://open.spotify.com/album/24Q6AJIE4oPqnKch545T2f"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 100223,
+      "name": "Down by the Bay",
+      "url": "https://open.spotify.com/track/7elU8Pupw3xlDIuBev2ZO6"
     },
     {
       "album": {
@@ -872,6 +1052,24 @@
     },
     {
       "album": {
+        "name": "Nursery Rhymes & Children's Songs, Vol. 2 (Sing & Learn with LittleBabyBum)",
+        "url": "https://open.spotify.com/album/1fGDcgi6S9sclUeyGPMaKU"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 72295,
+      "name": "Farmer in the Dell",
+      "url": "https://open.spotify.com/track/26BliLVz0Ad5jn9eD50ZBl"
+    },
+    {
+      "album": {
         "name": "Animal Songs and Nursery Rhymes for Children, Vol. 1 - Fun Songs for Learning with LittleBabyBum",
         "url": "https://open.spotify.com/album/7bMlpiAYdqbN5mj12iXsbD"
       },
@@ -931,7 +1129,7 @@
       },
       "artists": [
         {
-          "name": "Cocomelon",
+          "name": "CoComelon",
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
@@ -1003,7 +1201,7 @@
       },
       "artists": [
         {
-          "name": "Cocomelon",
+          "name": "CoComelon",
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
@@ -1013,6 +1211,24 @@
       "duration_ms": 169302,
       "name": "Five Little Monkeys Jumping on the Bed",
       "url": "https://open.spotify.com/track/1nTBgueuGtO762MadGoWvZ"
+    },
+    {
+      "album": {
+        "name": "CoComelon Essentials",
+        "url": "https://open.spotify.com/album/6dj7EyztDD42IJqsxZ1XMz"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 169302,
+      "name": "Five Little Monkeys Jumping on the Bed",
+      "url": "https://open.spotify.com/track/2qRyTtFON2leDTtP98e72H"
     },
     {
       "album": {
@@ -1039,7 +1255,7 @@
       },
       "artists": [
         {
-          "name": "Cocomelon",
+          "name": "CoComelon",
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
@@ -1049,6 +1265,24 @@
       "duration_ms": 169765,
       "name": "Five Little Speckled Frogs",
       "url": "https://open.spotify.com/track/2oi26hzvmT9mbOGMBoEWtG"
+    },
+    {
+      "album": {
+        "name": "Kids Greatest Hits",
+        "url": "https://open.spotify.com/album/5kKwfM44v9L2Qwd9tT5GLp"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 169765,
+      "name": "Five Little Speckled Frogs",
+      "url": "https://open.spotify.com/track/6LD4CQPUQ2215IuzAe6rd9"
     },
     {
       "album": {
@@ -1160,6 +1394,24 @@
     },
     {
       "album": {
+        "name": "Best Kids Party 2021",
+        "url": "https://open.spotify.com/album/0QzucHH5WenBgEiSJMZRcC"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 127026,
+      "name": "Head Shoulder Knees and Toes",
+      "url": "https://open.spotify.com/track/1Qjj2iqNlw0LpSR3cnwNqy"
+    },
+    {
+      "album": {
         "name": "Cocomelon Kids Hits, Vol. 5",
         "url": "https://open.spotify.com/album/0YPFWkQvhIj14v2LDs0wS1"
       },
@@ -1183,7 +1435,7 @@
       },
       "artists": [
         {
-          "name": "Cocomelon",
+          "name": "CoComelon",
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
@@ -1304,6 +1556,24 @@
     },
     {
       "album": {
+        "name": "School Break Songs for Children",
+        "url": "https://open.spotify.com/album/295c1i1TEITqNwJNwuU6PS"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 75545,
+      "name": "Hickory Dickory Dock",
+      "url": "https://open.spotify.com/track/2JNbQJlHx8mw8go8dXEHed"
+    },
+    {
+      "album": {
         "name": "Nursery Rhymes & Children's Songs, Vol. 1 (Sing & Learn with LittleBabyBum)",
         "url": "https://open.spotify.com/album/7gweScaIC8gRPbkPvM61jH"
       },
@@ -1373,6 +1643,24 @@
       "duration_ms": 67379,
       "name": "Hot Cross Buns",
       "url": "https://open.spotify.com/track/60qf2b4x5wZp0bX1btrrfe"
+    },
+    {
+      "album": {
+        "name": "Hot Cross Buns",
+        "url": "https://open.spotify.com/album/3ffnQ8kouXR6SuwPHPE3Xq"
+      },
+      "artists": [
+        {
+          "name": "Nursery Rhymes 123",
+          "url": "https://open.spotify.com/artist/47tuSUJMhsa3twW6wgKdIW"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 67379,
+      "name": "Hot Cross Buns",
+      "url": "https://open.spotify.com/track/6fhEwACPABW4wZmbFGoFwf"
     },
     {
       "album": {
@@ -1466,6 +1754,24 @@
     },
     {
       "album": {
+        "name": "Top 50 Nursery Rhymes",
+        "url": "https://open.spotify.com/album/6LByYePPTwk8mGhg01em17"
+      },
+      "artists": [
+        {
+          "name": "Nursery Rhymes 123",
+          "url": "https://open.spotify.com/artist/47tuSUJMhsa3twW6wgKdIW"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 54324,
+      "name": "Humpty Dumpty",
+      "url": "https://open.spotify.com/track/1CjZCqnytR0cJaIuawnL2m"
+    },
+    {
+      "album": {
         "name": "11 Nursery Rhymes and Songs",
         "url": "https://open.spotify.com/album/7w3Zc13sMNpB8LNEv8Km39"
       },
@@ -1525,7 +1831,7 @@
       },
       "artists": [
         {
-          "name": "Cocomelon",
+          "name": "CoComelon",
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
@@ -1718,6 +2024,24 @@
     },
     {
       "album": {
+        "name": "100 Nursery Rhymes",
+        "url": "https://open.spotify.com/album/24Q6AJIE4oPqnKch545T2f"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 64285,
+      "name": "It's Raining It's Pouring",
+      "url": "https://open.spotify.com/track/5ZQACSTBsmlGiIBitpoR4R"
+    },
+    {
+      "album": {
         "name": "The Wiggles Nursery Rhymes",
         "url": "https://open.spotify.com/album/2Rw0nDYlmZctMw6dOhKCT6"
       },
@@ -1805,6 +2129,24 @@
       "duration_ms": 86842,
       "name": "Jack and Jill",
       "url": "https://open.spotify.com/track/1jBDD3Cr7RwZ9hSha6IOgk"
+    },
+    {
+      "album": {
+        "name": "Jack and Jill",
+        "url": "https://open.spotify.com/album/4CIMNQ9x2LtXJSxvJj6DIj"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 86842,
+      "name": "Jack and Jill",
+      "url": "https://open.spotify.com/track/7FhC0at5lBlQYIwiAGpQQt"
     },
     {
       "album": {
@@ -1952,6 +2294,24 @@
     },
     {
       "album": {
+        "name": "Jemima's Big Adventure",
+        "url": "https://open.spotify.com/album/6KWCFhc2IXaZsx2cgKLzeO"
+      },
+      "artists": [
+        {
+          "name": "Play School",
+          "url": "https://open.spotify.com/artist/0gkeMf1I9r5U5Hne19vr9A"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 53333,
+      "name": "Kookaburra Sits in the Old Gum Tree",
+      "url": "https://open.spotify.com/track/7qiC6OVmCvoJdUPrt4jRXq"
+    },
+    {
+      "album": {
         "name": "Play School: 50 Best Songs",
         "url": "https://open.spotify.com/album/0JurDgXQP9DayhLcQTvCsJ"
       },
@@ -2083,7 +2443,7 @@
       },
       "artists": [
         {
-          "name": "Cocomelon",
+          "name": "CoComelon",
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
@@ -2093,6 +2453,24 @@
       "duration_ms": 165624,
       "name": "Little Bunny Foo Foo",
       "url": "https://open.spotify.com/track/4oFujsAkA3KV1d87EkPMck"
+    },
+    {
+      "album": {
+        "name": "Easter Celebration",
+        "url": "https://open.spotify.com/album/1EYIxumsCqEgqyaav1lYyE"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 165624,
+      "name": "Little Bunny Foo Foo",
+      "url": "https://open.spotify.com/track/57bVVD2KxMFMBzl9txEdfy"
     },
     {
       "album": {
@@ -2186,6 +2564,24 @@
     },
     {
       "album": {
+        "name": "London Bridge is Falling Down",
+        "url": "https://open.spotify.com/album/53P5samC4sLbBk30QfP1Ip"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 104444,
+      "name": "London Bridge is Falling Down",
+      "url": "https://open.spotify.com/track/5VezktB8dCMXvEEczG3fNO"
+    },
+    {
+      "album": {
         "name": "Kids Songs & Medlees Vol 1",
         "url": "https://open.spotify.com/album/5R4CEWCMgHHEaRkQEiaiRz"
       },
@@ -2209,7 +2605,7 @@
       },
       "artists": [
         {
-          "name": "Cocomelon",
+          "name": "CoComelon",
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
@@ -2237,6 +2633,24 @@
       "duration_ms": 149983,
       "name": "Looby Loo",
       "url": "https://open.spotify.com/track/2yaSzTMuw6EHSSeIxPXW4r"
+    },
+    {
+      "album": {
+        "name": "Nursery Rhymes by CoComelon",
+        "url": "https://open.spotify.com/album/2r6bg0wQuP7PN1bU2fgznn"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 149983,
+      "name": "Looby Loo",
+      "url": "https://open.spotify.com/track/4QABEsit5RJYYfTL51ckT9"
     },
     {
       "album": {
@@ -2330,6 +2744,24 @@
     },
     {
       "album": {
+        "name": "Wheels on the Bus & Other Nursery Rhymes with Little Baby Bum",
+        "url": "https://open.spotify.com/album/11C07gKgzFhkl1AArySEfL"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 101830,
+      "name": "Mary, Mary, Quite Contrary",
+      "url": "https://open.spotify.com/track/4iBmvbHMuCV4bHj4dDUBvv"
+    },
+    {
+      "album": {
         "name": "Baby Songs - 75 Nursery Rhymes",
         "url": "https://open.spotify.com/album/3tdyQzereDh9uMZvG9dzgE"
       },
@@ -2381,6 +2813,24 @@
       "duration_ms": 67579,
       "name": "Michael Finnegan",
       "url": "https://open.spotify.com/track/28e9dYvsc9RHhXxNMiQiYa"
+    },
+    {
+      "album": {
+        "name": "Nursery Rhyme Fun",
+        "url": "https://open.spotify.com/album/0cPOeeQIYZKJMQ5m4sFmhm"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 67579,
+      "name": "Michael Finnegan",
+      "url": "https://open.spotify.com/track/7e83pD2efLislo7KWdF09h"
     },
     {
       "album": {
@@ -2546,6 +2996,24 @@
     },
     {
       "album": {
+        "name": "Blippi Tunes, Vol. 3",
+        "url": "https://open.spotify.com/album/4yXRgaXo2hTMr4aRPCL21b"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 356068,
+      "name": "Old MacDonald",
+      "url": "https://open.spotify.com/track/7HgrWmK0NMZRhEFJZKu1gt"
+    },
+    {
+      "album": {
         "name": "Wheels on the Bus & Other Nursery Rhymes with Little Baby Bum",
         "url": "https://open.spotify.com/album/11C07gKgzFhkl1AArySEfL"
       },
@@ -2579,6 +3047,24 @@
       "duration_ms": 119808,
       "name": "Old MacDonald",
       "url": "https://open.spotify.com/track/5vaqWdV3UsR0tgmf82wRkW"
+    },
+    {
+      "album": {
+        "name": "Happy and I Know It!",
+        "url": "https://open.spotify.com/album/0JkcbVg79vcTXwFXJNqPIn"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 119808,
+      "name": "Old Macdonald",
+      "url": "https://open.spotify.com/track/6Ms66PRX5gSYvtzySYuSSd"
     },
     {
       "album": {
@@ -2659,7 +3145,7 @@
       },
       "artists": [
         {
-          "name": "Cocomelon",
+          "name": "CoComelon",
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
@@ -2687,6 +3173,24 @@
       "duration_ms": 118218,
       "name": "One Potato, Two Potatoes",
       "url": "https://open.spotify.com/track/37JN19WzTsGJpmucHxs6yh"
+    },
+    {
+      "album": {
+        "name": "Nursery Rhymes 2021",
+        "url": "https://open.spotify.com/album/6Gz9pxxCRpCTbgARJusgGX"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 118218,
+      "name": "One Potato, Two Potatoes",
+      "url": "https://open.spotify.com/track/5n8gxNoeeD3ksUsaqAQFEp"
     },
     {
       "album": {
@@ -2731,7 +3235,7 @@
       },
       "artists": [
         {
-          "name": "Cocomelon",
+          "name": "CoComelon",
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
@@ -2835,6 +3339,24 @@
     {
       "album": {
         "name": "100 Nursery Rhymes",
+        "url": "https://open.spotify.com/album/24Q6AJIE4oPqnKch545T2f"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 90555,
+      "name": "Pease Porridge Hot",
+      "url": "https://open.spotify.com/track/5Ois9fvV71cSX5E7UrMPK6"
+    },
+    {
+      "album": {
+        "name": "100 Nursery Rhymes",
         "url": "https://open.spotify.com/album/0hJm6TTGeW1tqileJj39ZA"
       },
       "artists": [
@@ -2885,6 +3407,24 @@
       "duration_ms": 104111,
       "name": "Peter Piper",
       "url": "https://open.spotify.com/track/69RGYABj4PQdlZH7qZgWMB"
+    },
+    {
+      "album": {
+        "name": "Baby Rhymes",
+        "url": "https://open.spotify.com/album/7sXl7gKbZ3PaRZRWoaasMp"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 104111,
+      "name": "Peter Piper",
+      "url": "https://open.spotify.com/track/7yMOpM5SOQyrDP5JctFWqd"
     },
     {
       "album": {
@@ -3068,12 +3608,30 @@
     },
     {
       "album": {
+        "name": "Nursery Rhymes by CoComelon",
+        "url": "https://open.spotify.com/album/2r6bg0wQuP7PN1bU2fgznn"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 128000,
+      "name": "Ring Around the Rosy",
+      "url": "https://open.spotify.com/track/3LRICCIlx05my3iFtjsNfr"
+    },
+    {
+      "album": {
         "name": "CoComelon Kids Hits, Vol. 7",
         "url": "https://open.spotify.com/album/2HgI3IdwgAAYhy6dHQyzlN"
       },
       "artists": [
         {
-          "name": "Cocomelon",
+          "name": "CoComelon",
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
@@ -3127,7 +3685,7 @@
       },
       "artists": [
         {
-          "name": "Cocomelon",
+          "name": "CoComelon",
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
@@ -3212,6 +3770,24 @@
     },
     {
       "album": {
+        "name": "100 Nursery Rhymes",
+        "url": "https://open.spotify.com/album/24Q6AJIE4oPqnKch545T2f"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 72631,
+      "name": "Row Row Row Your Boat",
+      "url": "https://open.spotify.com/track/6FRVb3kxboKuXNqvcTfRmD"
+    },
+    {
+      "album": {
         "name": "Rub a Dub Dub",
         "url": "https://open.spotify.com/album/21brb9CFkwxfCvNzRJnyGS"
       },
@@ -3263,6 +3839,24 @@
       "duration_ms": 46869,
       "name": "Sailor Went to Sea",
       "url": "https://open.spotify.com/track/5TOcoD0OvixnYBIYNjZIGe"
+    },
+    {
+      "album": {
+        "name": "See Saw Margery Daw",
+        "url": "https://open.spotify.com/album/4ndpnszgJHOnU8VxSPtoBq"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 69565,
+      "name": "See Saw Margery Daw",
+      "url": "https://open.spotify.com/track/0ltH581863REvzQdEtTJaH"
     },
     {
       "album": {
@@ -3353,6 +3947,24 @@
       "duration_ms": 45053,
       "name": "Shake My Sillies Out",
       "url": "https://open.spotify.com/track/2J57hWtC2Bg8jay51dbq9F"
+    },
+    {
+      "album": {
+        "name": "Big Ted, Prince of Bears",
+        "url": "https://open.spotify.com/album/7iYotMvxhHrbk9v9e6KyLk"
+      },
+      "artists": [
+        {
+          "name": "Play School",
+          "url": "https://open.spotify.com/artist/0gkeMf1I9r5U5Hne19vr9A"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 45386,
+      "name": "Shake My Sillies Out",
+      "url": "https://open.spotify.com/track/0tJ43FGFzNR809XgezZAPz"
     },
     {
       "album": {
@@ -3626,12 +4238,30 @@
     },
     {
       "album": {
+        "name": "Nursery Rhymes by CoComelon",
+        "url": "https://open.spotify.com/album/2r6bg0wQuP7PN1bU2fgznn"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 156545,
+      "name": "The Ant and the Grasshopper",
+      "url": "https://open.spotify.com/track/2XMGcpqxIfY1Q6j85wlC43"
+    },
+    {
+      "album": {
         "name": "CoComelon Kids Hits, Vol. 7",
         "url": "https://open.spotify.com/album/2HgI3IdwgAAYhy6dHQyzlN"
       },
       "artists": [
         {
-          "name": "Cocomelon",
+          "name": "CoComelon",
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
@@ -3677,6 +4307,24 @@
       "duration_ms": 61500,
       "name": "The Bear Went over the Mountain",
       "url": "https://open.spotify.com/track/0EN7UscZeRbMniUJncB3Ys"
+    },
+    {
+      "album": {
+        "name": "Nursery Rhymes: Greatest Hits",
+        "url": "https://open.spotify.com/album/5fT0LjYBg8E0miX7LyKMxu"
+      },
+      "artists": [
+        {
+          "name": "Music House for Children",
+          "url": "https://open.spotify.com/artist/0EsoagTOBDFNYUAmYuh5TR"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 61500,
+      "name": "The Bear Went over the Mountain",
+      "url": "https://open.spotify.com/track/1rQ152invDJBEW6O7bG5ZA"
     },
     {
       "album": {
@@ -3749,6 +4397,24 @@
       "duration_ms": 75746,
       "name": "The Grand Old Duke Of York",
       "url": "https://open.spotify.com/track/1Uu0G63skDXNwnLo7exa8A"
+    },
+    {
+      "album": {
+        "name": "Once Upon a Time",
+        "url": "https://open.spotify.com/album/6b5vvqlE3llQBCKEFX1ysL"
+      },
+      "artists": [
+        {
+          "name": "Play School",
+          "url": "https://open.spotify.com/artist/0gkeMf1I9r5U5Hne19vr9A"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 76000,
+      "name": "The Grand Old Duke of York",
+      "url": "https://open.spotify.com/track/4eYu4AKmvNrrTSzHPZf1km"
     },
     {
       "album": {
@@ -3968,6 +4634,24 @@
     },
     {
       "album": {
+        "name": "The Panda Bear Went Over the Mountain",
+        "url": "https://open.spotify.com/album/2c0sLs2WkcQs9HHmoDbpxS"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 119361,
+      "name": "The Panda Bear Went Over the Mountain",
+      "url": "https://open.spotify.com/track/1yclYKAPqjC3F7IuOsyGfL"
+    },
+    {
+      "album": {
         "name": "Nursery Rhyme Favourites",
         "url": "https://open.spotify.com/album/3sflnnIcjphLNWZR8OGnJB"
       },
@@ -4076,12 +4760,30 @@
     },
     {
       "album": {
+        "name": "Kids Greatest Hits",
+        "url": "https://open.spotify.com/album/5kKwfM44v9L2Qwd9tT5GLp"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 135401,
+      "name": "This Is the Way",
+      "url": "https://open.spotify.com/track/3xoT1664uUPCU3dg4NeM4Q"
+    },
+    {
+      "album": {
         "name": "CoComelon Kids Hits, Vol. 3",
         "url": "https://open.spotify.com/album/7q0kx3gPtPS7sFmUjAFq4z"
       },
       "artists": [
         {
-          "name": "Cocomelon",
+          "name": "CoComelon",
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
@@ -4225,7 +4927,7 @@
       },
       "artists": [
         {
-          "name": "Cocomelon",
+          "name": "CoComelon",
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
@@ -4261,7 +4963,7 @@
       },
       "artists": [
         {
-          "name": "Cocomelon",
+          "name": "CoComelon",
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
@@ -4271,6 +4973,24 @@
       "duration_ms": 177477,
       "name": "Twinkle Twinkle Little Star",
       "url": "https://open.spotify.com/track/097ftnCPnGHhn93lS0HHlO"
+    },
+    {
+      "album": {
+        "name": "Nursery Rhymes by CoComelon",
+        "url": "https://open.spotify.com/album/2r6bg0wQuP7PN1bU2fgznn"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 177477,
+      "name": "Twinkle Twinkle Little Star",
+      "url": "https://open.spotify.com/track/2hjtkscZtzpcGgQwR84dGQ"
     },
     {
       "album": {
@@ -4328,12 +5048,30 @@
     },
     {
       "album": {
+        "name": "Vehicle Songs",
+        "url": "https://open.spotify.com/album/0ZVKNpnP9H1gDz0BoEwjEs"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 207340,
+      "name": "Wheels on the Bus",
+      "url": "https://open.spotify.com/track/2TQOTKBoA5pX25hwKXMU2J"
+    },
+    {
+      "album": {
         "name": "CoComelon Kids Hits, Vol. 1",
         "url": "https://open.spotify.com/album/1wSJIPGezZDocP5T4DKUSs"
       },
       "artists": [
         {
-          "name": "Cocomelon",
+          "name": "CoComelon",
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
@@ -4379,6 +5117,24 @@
       "duration_ms": 101132,
       "name": "Wheels On The Bus",
       "url": "https://open.spotify.com/track/6fWbq3vHFs1Ggorg8JkJ23"
+    },
+    {
+      "album": {
+        "name": "Wheels on the Bus & Other Nursery Rhymes with Little Baby Bum",
+        "url": "https://open.spotify.com/album/11C07gKgzFhkl1AArySEfL"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 130000,
+      "name": "Wheels on the Bus (All Through the Town)",
+      "url": "https://open.spotify.com/track/5BKgTd1H9NZQYdJAJm6Ms0"
     },
     {
       "album": {
@@ -4469,6 +5225,24 @@
       "duration_ms": 160246,
       "name": "Who's In The Zoo?",
       "url": "https://open.spotify.com/track/4s0X685vyUDd24euTeVutT"
+    },
+    {
+      "album": {
+        "name": "Nursery Rhyme Favourites",
+        "url": "https://open.spotify.com/album/4UwfBLYmS2uxCXpILFE1V7"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 113500,
+      "name": "Wind the Bobbin Up",
+      "url": "https://open.spotify.com/track/06BaXHZk11XX0wmhF562R0"
     },
     {
       "album": {

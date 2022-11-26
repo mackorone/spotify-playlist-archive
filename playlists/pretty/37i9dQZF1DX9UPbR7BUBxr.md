@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9UPbR7BUBxr.md) - [plain]
 
 > Songs and episodes to help you find that work/pause balance\. Co\-curation: Varun Duggirala
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,741 likes - 68 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,378 likes - 68 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,17 +27,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9UPbR7BUBxr.md) - [plain]
 | 17 | [Memento Mori](https://open.spotify.com/track/6QzjpDOcw3iNEpThhku00y) | [Nathaniel Drew X Tom Fox](https://open.spotify.com/artist/6WYhTsOkDtjLcZlwSrpBGm) | [Memento Mori](https://open.spotify.com/album/5tuCsC7rIetZYlOrfyOQtq) | 2:23 |
 | 18 | [Midwayer](https://open.spotify.com/track/6gLsyO69WqFXUYJK5mCaOt) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Solipsism](https://open.spotify.com/album/2BGvT97OGSAivOsOb5PzMa) | 5:45 |
 | 19 | [Weightlessness](https://open.spotify.com/track/7HqAhyGH7OHpm2a9UTXIww) | [Nathaniel Drew X Tom Fox](https://open.spotify.com/artist/6WYhTsOkDtjLcZlwSrpBGm) | [Weightlessness](https://open.spotify.com/album/1FLxDwaS1W5nv6eU2DWUwE) | 2:10 |
-| 20 | [Balboa](https://open.spotify.com/track/45O1e0ZvpERqu1frDcL80Q) | [Steven Gutheinz](https://open.spotify.com/artist/2pHCm7cvE0ADlPp68tScqW) | [Vision](https://open.spotify.com/album/194eei5V6BkQOcs4aWbZjs) | 2:50 |
+| 20 | [Balboa](https://open.spotify.com/track/1fs76RZdPTj9kQoptX4UW4) | [Steven Gutheinz](https://open.spotify.com/artist/2pHCm7cvE0ADlPp68tScqW) | [Vision](https://open.spotify.com/album/48aV8DO9dFrbnuIqUhDzFi) | 2:50 |
 | 21 | [The Lighthouse](https://open.spotify.com/track/0xCw0LHiXmkgmCkzOWqhuF) | [Nathaniel Drew X Tom Fox](https://open.spotify.com/artist/6WYhTsOkDtjLcZlwSrpBGm) | [The Lighthouse](https://open.spotify.com/album/4GiswPccl2MKtLCwlZ20Ux) | 3:01 |
 | 22 | [Hustle](https://open.spotify.com/track/2ItT6Kt0j6lsCQghaB8748) | [Ginnypig](https://open.spotify.com/artist/72bmvqzLz3X1XDJ0eZh61F) | [Hustle](https://open.spotify.com/album/36RbOMJiubjof1uj03ZwkG) | 2:24 |
 | 23 | [wanna do nothing.](https://open.spotify.com/track/1rRXlVZUHhwigRtQn1w3Fm) | [bluemoon.music](https://open.spotify.com/artist/0UQaaL0eNaAMwnmcceqFj1) | [wanna do nothing.](https://open.spotify.com/album/2OqUSC9wGmXsmBvmubRwFN) | 1:36 |
 | 24 | [dreams come true.](https://open.spotify.com/track/4USjqfvjPVm54YaZs6g8uc) | [coldbrew](https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK) | [dreams come true.](https://open.spotify.com/album/62LXbn400PEKpHZwQWsUBf) | 2:13 |
 | 25 | [Tiny Sailboat](https://open.spotify.com/track/6JXipaQpflSAuYIg5cDQ6w) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Coniferous](https://open.spotify.com/album/1VSbrea427FoDmwsvDd7lt) | 2:30 |
 | 26 | [Until The Morning Comes](https://open.spotify.com/track/2xKqG7zOZHnUElruzvenl3) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB), [no one's perfect](https://open.spotify.com/artist/4vXVzSSH673xUv5sUmRGYX) | [The Beauty Around Us](https://open.spotify.com/album/1wP2Dwzd5uMCzzGjvCKV8l) | 2:17 |
-| 27 | [Aware](https://open.spotify.com/track/2Chh97EQ50NBQneZ2BLaIw) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN) | [Aware](https://open.spotify.com/album/2kL0nBxuAzK2woY4gtsWGq) | 1:55 |
+| 27 | [Aware](https://open.spotify.com/track/35hYVvbhGge5GDJRA09z7X) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN) | [Aware](https://open.spotify.com/album/0teSfu89CBi3XMGUbibIZw) | 1:55 |
 | 28 | [Afloat](https://open.spotify.com/track/4XDlW5QgLKZupaJ5VvacsP) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Imaginary](https://open.spotify.com/album/48hLO6DyflUOXESgg64zOA) | 2:28 |
 | 29 | [Staycation](https://open.spotify.com/track/0csvQK4CkxifOBDs3rEHRu) | [Ramsey Road](https://open.spotify.com/artist/6GdTXXdGQ99ZVTnTPkSwLm) | [Cats in the Alley](https://open.spotify.com/album/2Q4EwaUfWI6ZiEPwzOqOZ0) | 2:15 |
-| 30 | [Hydration](https://open.spotify.com/track/03DCmsx6VR45Z9qe6pgkYd) | [Birds Of The West](https://open.spotify.com/artist/37qnORF8QfcLsPYb6lRhiq), [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j) | [Hydration](https://open.spotify.com/album/35RHe0a6DBNCVFbV986sFJ) | 2:13 |
+| 30 | [Hydration](https://open.spotify.com/track/4pQEbbG05eWiyMDwLKiQ6Z) | [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j), [Birds Of The West](https://open.spotify.com/artist/37qnORF8QfcLsPYb6lRhiq) | [Hydration](https://open.spotify.com/album/5t9uEMj1slT2hIoeIyBykx) | 2:13 |
 | 31 | [A Part of the Ocean](https://open.spotify.com/track/7DbzpAXt9fls5zYipE9WAx) | [John Ocean](https://open.spotify.com/artist/0UWgEdhywZEON8EtIBYGoL) | [Calming Winds](https://open.spotify.com/album/5YFsqDM2sTjko8d0DaIath) | 3:26 |
 | 32 | [Sitting Still](https://open.spotify.com/track/6BtENACq8EIL1oeqEJVbdR) | [Sullivan Stone](https://open.spotify.com/artist/222vfEjnEFBEZRczs5zUNj) | [Forest Flowers](https://open.spotify.com/album/5qgrCLlPi1VKF1d5P19inO) | 2:49 |
 | 33 | [Eye Of The Storm](https://open.spotify.com/track/4DTfDKKSDkUeTWrTdmbSWe) | [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe), [Mindr](https://open.spotify.com/artist/7AObJiF0vqNNnysunp45om) | [Eye Of The Storm](https://open.spotify.com/album/70BCNQtP6mmhmiXRrp6uKR) | 2:02 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9UPbR7BUBxr.md) - [plain]
 | 43 | [City Glow](https://open.spotify.com/track/08MUoQtJnUQjEfFO6Nyv5a) | [ELEWAKA](https://open.spotify.com/artist/3bT6shoIAYz5Flwmni0gnq) | [City Glow](https://open.spotify.com/album/2zZYmrXtRsIElvMmWtOA7d) | 2:55 |
 | 44 | [Spacing Out](https://open.spotify.com/track/6L5crMBk3Sm1oB7GcGtmo1) | [The Knowables](https://open.spotify.com/artist/3L3ZWJ86I4ip3wn4zuDvrI) | [Spacing Out](https://open.spotify.com/album/5hE8ZK0cuu8oLp6K8uEtdP) | 2:44 |
 | 45 | [Fading out](https://open.spotify.com/track/35vYyQ06TPM7hiUtNt5Bs3) | [Diamond Telescope](https://open.spotify.com/artist/5y5QOzvDd6odh8MWPt5G79) | [Fading out](https://open.spotify.com/album/1X8oEGczTQOJi9PWeC4mwa) | 2:31 |
-| 46 | [Green Tea](https://open.spotify.com/track/0grdHMgh7NY6uUIBZVW3Vb) | [Bertholet](https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ) | [Green Tea](https://open.spotify.com/album/0ldNSbOCGLTYKYC9yWXd77) | 1:15 |
+| 46 | [Green Tea](https://open.spotify.com/track/6x2rtY6FC6YizEpvUVKj6o) | [Bertholet](https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ) | [Green Tea](https://open.spotify.com/album/2rGcNBHziENr3UfAIXiwkw) | 1:15 |
 | 47 | [Weightless](https://open.spotify.com/track/65Uo3C5r9GJMPsiRa6uzMV) | [Gentle Leap](https://open.spotify.com/artist/0vTq6p4BHWx0EQnecyGugw) | [So Serene](https://open.spotify.com/album/0l30rC4MLaOtlsfOcisQL6) | 2:22 |
 | 48 | [Lift Me \(Somehow\)](https://open.spotify.com/track/5xg4pqB1l4LdI46Jw9qgtU) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Views from Sixteen Stories](https://open.spotify.com/album/5W0f89f4bEX9dgbkk1UgmL) | 2:22 |
 | 49 | [In Love](https://open.spotify.com/track/16Pc6ZWQZxwc8wLzF2VZUf) | [Tundra Beats](https://open.spotify.com/artist/5j4yh8KxZ3yfg1cHsD24qD) | [Smile](https://open.spotify.com/album/4mXCEus360pAz7z3uF5dp6) | 2:47 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9UPbR7BUBxr.md) - [plain]
 | 67 | [Komori Uta](https://open.spotify.com/track/5d0Znm8jnIPkHy54i1OeGu) | [pedrolina.](https://open.spotify.com/artist/2mFdkJcl12IZARwSKYhOjx) | [Bai](https://open.spotify.com/album/0gbH2AB8ATXvDZh9TkOJaB) | 2:27 |
 | 68 | [Peach Sky](https://open.spotify.com/track/553ntYSPcu70QIRXtBjAHD) | [Moodula](https://open.spotify.com/artist/6e76Meb8yRDdpn42QfFeOh) | [Echo Cliff](https://open.spotify.com/album/5iPfYQFToHZYZMQHVZf9el) | 2:04 |
 
-Snapshot ID: `MTY2NDE3OTg2MCwwMDAwMDAwMDhlYzMzNDViMmY5YmQyZmJkMTg1ZWViZTNjZGE0OTJm`
+Snapshot ID: `MTY2ODUxMzY3NCwwMDAwMDAwMGZlMzcyMTVhNDhiZTVjN2U2YTVkNTY3YTc2OTZiYWI3`

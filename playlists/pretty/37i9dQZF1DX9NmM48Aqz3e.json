@@ -1,12 +1,12 @@
 {
   "description": "Songs from Canadian artists that dominated the 1990s. Cover: LEN",
-  "num_followers": 49176,
+  "num_followers": 50005,
   "original_name": "Canadian '90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMjI1Nzg3MCwwMDAwMDAwMDFhNzIxZjcwMTdhOWIyOTNjYmU1YmE2MzI1Njk5Mzc3",
+  "snapshot_id": "MTYzMjI1Nzg3MCwwMDAwMDAwMDY0NDgzN2U1ZTY5NzhjZjYwNmNjYWE0YzAyODc0YjBl",
   "tracks": [
     {
       "added_at": "2021-09-21 20:57:50",
@@ -139,22 +139,6 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
-        "name": "Glee",
-        "url": "https://open.spotify.com/album/5YMokuqZmSpvwlnbBhUaAp"
-      },
-      "artists": [
-        {
-          "name": "Bran Van 3000",
-          "url": "https://open.spotify.com/artist/3D3blX3lLE3BCMdo3SOMlB"
-        }
-      ],
-      "duration_ms": 236066,
-      "name": "Drinking in L.A.",
-      "url": "https://open.spotify.com/track/4WEaJQLlhlkOU7YJDLhn7x"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
         "name": "One Wish",
         "url": "https://open.spotify.com/album/16FPcGpqQfcvqpCLvZsWWD"
       },
@@ -171,18 +155,18 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
-        "name": "Trouble At The Henhouse",
-        "url": "https://open.spotify.com/album/5mMBYPBUI6jHW40ASk1ekn"
+        "name": "Glee",
+        "url": "https://open.spotify.com/album/5YMokuqZmSpvwlnbBhUaAp"
       },
       "artists": [
         {
-          "name": "The Tragically Hip",
-          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+          "name": "Bran Van 3000",
+          "url": "https://open.spotify.com/artist/3D3blX3lLE3BCMdo3SOMlB"
         }
       ],
-      "duration_ms": 223133,
-      "name": "Ahead By A Century",
-      "url": "https://open.spotify.com/track/2SVEOxPGB8Z8WikO4DppNA"
+      "duration_ms": 236066,
+      "name": "Drinking in L.A.",
+      "url": "https://open.spotify.com/track/4WEaJQLlhlkOU7YJDLhn7x"
     },
     {
       "added_at": "2021-09-21 20:57:50",
@@ -199,6 +183,22 @@
       "duration_ms": 315666,
       "name": "While My Guitar Gently Weeps",
       "url": "https://open.spotify.com/track/1T94tcUfe2X74nriMCAWQa"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
+        "name": "Trouble At The Henhouse",
+        "url": "https://open.spotify.com/album/5mMBYPBUI6jHW40ASk1ekn"
+      },
+      "artists": [
+        {
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        }
+      ],
+      "duration_ms": 223133,
+      "name": "Ahead By A Century",
+      "url": "https://open.spotify.com/track/2SVEOxPGB8Z8WikO4DppNA"
     },
     {
       "added_at": "2021-09-21 20:57:50",
@@ -331,22 +331,6 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
-        "name": "Living Under June",
-        "url": "https://open.spotify.com/album/4459ANZzMiQV2nvpH8lc6O"
-      },
-      "artists": [
-        {
-          "name": "Jann Arden",
-          "url": "https://open.spotify.com/artist/1aftUCES5zD5xXI7O9ZF9F"
-        }
-      ],
-      "duration_ms": 288360,
-      "name": "Could I Be Your Girl",
-      "url": "https://open.spotify.com/track/7IfWFD4RPeqM5xeGcwzgoR"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
         "name": "Amanda Marshall",
         "url": "https://open.spotify.com/album/0HEvHFESNJMTERnF6zpjnz"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 271960,
       "name": "Let It Rain",
       "url": "https://open.spotify.com/track/6B02MufyAO1pPsWYRespCr"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
+        "name": "Living Under June",
+        "url": "https://open.spotify.com/album/4459ANZzMiQV2nvpH8lc6O"
+      },
+      "artists": [
+        {
+          "name": "Jann Arden",
+          "url": "https://open.spotify.com/artist/1aftUCES5zD5xXI7O9ZF9F"
+        }
+      ],
+      "duration_ms": 288360,
+      "name": "Could I Be Your Girl",
+      "url": "https://open.spotify.com/track/7IfWFD4RPeqM5xeGcwzgoR"
     },
     {
       "added_at": "2021-09-21 20:57:50",
@@ -395,22 +395,6 @@
       "duration_ms": 211863,
       "name": "Steal My Sunshine - Remastered Version",
       "url": "https://open.spotify.com/track/6tsMn9okxcLBklFQ2Sc8Ar"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
-        "name": "Make a Pest a Pet",
-        "url": "https://open.spotify.com/album/47wRkLjmX69P80q7adpxjs"
-      },
-      "artists": [
-        {
-          "name": "The Age Of Electric",
-          "url": "https://open.spotify.com/artist/4TOnIr0jbHHfFJEP9cbTlR"
-        }
-      ],
-      "duration_ms": 219391,
-      "name": "Remote Control",
-      "url": "https://open.spotify.com/track/7zPRpUujRke7mpt61KIC5U"
     },
     {
       "added_at": "2021-09-21 20:57:50",
@@ -463,50 +447,18 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
-        "name": "Strays",
-        "url": "https://open.spotify.com/album/7BKDjfyOFnHDbhguK5GZBO"
+        "name": "Make a Pest a Pet",
+        "url": "https://open.spotify.com/album/47wRkLjmX69P80q7adpxjs"
       },
       "artists": [
         {
-          "name": "Junkhouse",
-          "url": "https://open.spotify.com/artist/7HTWYaZzuODnDc5dJN4EM3"
+          "name": "The Age Of Electric",
+          "url": "https://open.spotify.com/artist/4TOnIr0jbHHfFJEP9cbTlR"
         }
       ],
-      "duration_ms": 227480,
-      "name": "Out of My Head",
-      "url": "https://open.spotify.com/track/1hdrmUDjFHPYigKYwf6aJC"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
-        "name": "I Bificus",
-        "url": "https://open.spotify.com/album/27wFXKUaFZHTtQK0XPQCps"
-      },
-      "artists": [
-        {
-          "name": "Bif Naked",
-          "url": "https://open.spotify.com/artist/02odAcSXGSPTSO4P44Ztuw"
-        }
-      ],
-      "duration_ms": 261250,
-      "name": "Spaceman",
-      "url": "https://open.spotify.com/track/3h2hFjKND7US9wSphrEznV"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
-        "name": "Rockinghorse",
-        "url": "https://open.spotify.com/album/0mZ1ie97Erajm6EWYvOeIO"
-      },
-      "artists": [
-        {
-          "name": "Alannah Myles",
-          "url": "https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj"
-        }
-      ],
-      "duration_ms": 303933,
-      "name": "Song Instead of a Kiss",
-      "url": "https://open.spotify.com/track/3vLC0USKtOIxMnQfnjb3rt"
+      "duration_ms": 219391,
+      "name": "Remote Control",
+      "url": "https://open.spotify.com/track/7zPRpUujRke7mpt61KIC5U"
     },
     {
       "added_at": "2021-09-21 20:57:50",
@@ -523,6 +475,22 @@
       "duration_ms": 324226,
       "name": "One More Astronaut",
       "url": "https://open.spotify.com/track/3l20bPHgAFsFPRogdTNXWS"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
+        "name": "Rockinghorse",
+        "url": "https://open.spotify.com/album/0mZ1ie97Erajm6EWYvOeIO"
+      },
+      "artists": [
+        {
+          "name": "Alannah Myles",
+          "url": "https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj"
+        }
+      ],
+      "duration_ms": 303933,
+      "name": "Song Instead of a Kiss",
+      "url": "https://open.spotify.com/track/3vLC0USKtOIxMnQfnjb3rt"
     },
     {
       "added_at": "2021-09-21 20:57:50",
@@ -547,6 +515,42 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
+        "name": "Strays",
+        "url": "https://open.spotify.com/album/7BKDjfyOFnHDbhguK5GZBO"
+      },
+      "artists": [
+        {
+          "name": "Junkhouse",
+          "url": "https://open.spotify.com/artist/7HTWYaZzuODnDc5dJN4EM3"
+        }
+      ],
+      "duration_ms": 227480,
+      "name": "Out of My Head",
+      "url": "https://open.spotify.com/track/1hdrmUDjFHPYigKYwf6aJC"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
+        "name": "00s Party Mixtape",
+        "url": "https://open.spotify.com/album/6uEj5L8M2kF3TrxjcnH5q0"
+      },
+      "artists": [
+        {
+          "name": "Love Inc.",
+          "url": "https://open.spotify.com/artist/3l92Uh3rqMSv8blPDWNTZx"
+        },
+        {
+          "name": "Simone Denny",
+          "url": "https://open.spotify.com/artist/5iksvBurqxFh3zWac6GZGs"
+        }
+      ],
+      "duration_ms": 210613,
+      "name": "You're a Superstar - Radio Edit",
+      "url": "https://open.spotify.com/track/0F7HW6u4LdXDxuCJynN9bF"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
         "name": "Wide Mouth Mason",
         "url": "https://open.spotify.com/album/2MrXw9z9ljPjJwernD0w3E"
       },
@@ -559,6 +563,22 @@
       "duration_ms": 227693,
       "name": "Midnight Rain",
       "url": "https://open.spotify.com/track/5ciTMaXkcznCe2fDgrrZVI"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
+        "name": "Silent Radar",
+        "url": "https://open.spotify.com/album/0sLgYWg2M3FVOu3bkLGHxQ"
+      },
+      "artists": [
+        {
+          "name": "The Watchmen",
+          "url": "https://open.spotify.com/artist/7MJSeuocRuASrNOZaYawlD"
+        }
+      ],
+      "duration_ms": 281106,
+      "name": "Any Day Now",
+      "url": "https://open.spotify.com/track/4WwoxyC5V29j0cupsBy9Or"
     },
     {
       "added_at": "2021-09-21 20:57:50",
@@ -595,42 +615,6 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
-        "name": "Silent Radar",
-        "url": "https://open.spotify.com/album/0sLgYWg2M3FVOu3bkLGHxQ"
-      },
-      "artists": [
-        {
-          "name": "The Watchmen",
-          "url": "https://open.spotify.com/artist/7MJSeuocRuASrNOZaYawlD"
-        }
-      ],
-      "duration_ms": 281106,
-      "name": "Any Day Now",
-      "url": "https://open.spotify.com/track/4WwoxyC5V29j0cupsBy9Or"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
-        "name": "00s Party Mixtape",
-        "url": "https://open.spotify.com/album/6uEj5L8M2kF3TrxjcnH5q0"
-      },
-      "artists": [
-        {
-          "name": "Love Inc.",
-          "url": "https://open.spotify.com/artist/3l92Uh3rqMSv8blPDWNTZx"
-        },
-        {
-          "name": "Simone Denny",
-          "url": "https://open.spotify.com/artist/5iksvBurqxFh3zWac6GZGs"
-        }
-      ],
-      "duration_ms": 210613,
-      "name": "You're a Superstar - Radio Edit",
-      "url": "https://open.spotify.com/track/0F7HW6u4LdXDxuCJynN9bF"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
         "name": "Play",
         "url": "https://open.spotify.com/album/0aDWCrEQxS7RH66v20qezy"
       },
@@ -643,22 +627,6 @@
       "duration_ms": 165266,
       "name": "End Of The World",
       "url": "https://open.spotify.com/track/0HZM2O3KZT5vYYP763dm2I"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
-        "name": "Beautiful Midnight",
-        "url": "https://open.spotify.com/album/7ljqmefDOpPyqYswrk6Uc4"
-      },
-      "artists": [
-        {
-          "name": "Matthew Good Band",
-          "url": "https://open.spotify.com/artist/0BwxeEcojb5X47ugNMQvhL"
-        }
-      ],
-      "duration_ms": 312493,
-      "name": "apparitions",
-      "url": "https://open.spotify.com/track/6H7bfOGDhdJB5ejjFMWUTz"
     },
     {
       "added_at": "2021-09-21 20:57:50",
@@ -679,18 +647,18 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
-        "name": "Heroine",
-        "url": "https://open.spotify.com/album/3TwFXy7ldbkDmSC9EiUTcB"
+        "name": "Beautiful Midnight",
+        "url": "https://open.spotify.com/album/7ljqmefDOpPyqYswrk6Uc4"
       },
       "artists": [
         {
-          "name": "Wild Strawberries",
-          "url": "https://open.spotify.com/artist/7ljHszidUrPozzc2HtsL3y"
+          "name": "Matthew Good Band",
+          "url": "https://open.spotify.com/artist/0BwxeEcojb5X47ugNMQvhL"
         }
       ],
-      "duration_ms": 226400,
-      "name": "I Don't Want To Think About It",
-      "url": "https://open.spotify.com/track/0mLzR7UE4so9fUfi3MX3rf"
+      "duration_ms": 312493,
+      "name": "apparitions",
+      "url": "https://open.spotify.com/track/6H7bfOGDhdJB5ejjFMWUTz"
     },
     {
       "added_at": "2021-09-21 20:57:50",
@@ -707,6 +675,22 @@
       "duration_ms": 230000,
       "name": "London Rain (Nothing Heals Me Like You Do)",
       "url": "https://open.spotify.com/track/2CCxzA9QAVSki6OR2t1Jhl"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
+        "name": "Heroine",
+        "url": "https://open.spotify.com/album/3TwFXy7ldbkDmSC9EiUTcB"
+      },
+      "artists": [
+        {
+          "name": "Wild Strawberries",
+          "url": "https://open.spotify.com/artist/7ljHszidUrPozzc2HtsL3y"
+        }
+      ],
+      "duration_ms": 226400,
+      "name": "I Don't Want To Think About It",
+      "url": "https://open.spotify.com/track/0mLzR7UE4so9fUfi3MX3rf"
     },
     {
       "added_at": "2021-09-21 20:57:50",
@@ -731,6 +715,22 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
+        "name": "Silver",
+        "url": "https://open.spotify.com/album/5QcdaEgknPDT2CwsQ3fKMn"
+      },
+      "artists": [
+        {
+          "name": "Moist",
+          "url": "https://open.spotify.com/artist/405mr7FXn2Owukvhlid2Tz"
+        }
+      ],
+      "duration_ms": 230426,
+      "name": "Push",
+      "url": "https://open.spotify.com/track/2qWEbBusFleCxKGTVaKEhZ"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
         "name": "Hot Show",
         "url": "https://open.spotify.com/album/586yBJiBN0KyDLAJFqPGwC"
       },
@@ -747,18 +747,18 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
-        "name": "Silver",
-        "url": "https://open.spotify.com/album/5QcdaEgknPDT2CwsQ3fKMn"
+        "name": "I Bificus",
+        "url": "https://open.spotify.com/album/27wFXKUaFZHTtQK0XPQCps"
       },
       "artists": [
         {
-          "name": "Moist",
-          "url": "https://open.spotify.com/artist/405mr7FXn2Owukvhlid2Tz"
+          "name": "Bif Naked",
+          "url": "https://open.spotify.com/artist/02odAcSXGSPTSO4P44Ztuw"
         }
       ],
-      "duration_ms": 230426,
-      "name": "Push",
-      "url": "https://open.spotify.com/track/2qWEbBusFleCxKGTVaKEhZ"
+      "duration_ms": 261250,
+      "name": "Spaceman",
+      "url": "https://open.spotify.com/track/3h2hFjKND7US9wSphrEznV"
     },
     {
       "added_at": "2021-09-21 20:57:50",

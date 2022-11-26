@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 
 > An essential list of recent hits of SoGo\.  Cover: The Guardians
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,265 likes - 80 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,378 likes - 80 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 | 37 | [Thief in the Night](https://open.spotify.com/track/4oScvPoK3ryJ1uzpt4Giw7) | [Joseph Habedank](https://open.spotify.com/artist/1E5fXe9FugDtjPJXLjc3be) | [Thief In The Night](https://open.spotify.com/album/7AfTSlpi35PwEvxGY0otef) | 4:07 |
 | 38 | [Matchless \(feat\. Point Of Grace\)](https://open.spotify.com/track/1iiheCt1EQk8br6NV3f7Y1) | [Tiffany Coburn](https://open.spotify.com/artist/7G6drNZysjZcTxmpTo2vGt), [Point Of Grace](https://open.spotify.com/artist/5y1gFSVnE4DGxUxHeKrGk6) | [You Are More](https://open.spotify.com/album/0HpHgwxC0aBokDhE018SUO) | 3:28 |
 | 39 | [Wake Up](https://open.spotify.com/track/1psN7GabVAeaBo0lTaDNUM) | [Ernie Haase & Signature Sound](https://open.spotify.com/artist/3Qp9Qtdb5G8QYHWfe5qxi0) | [Wake Up](https://open.spotify.com/album/2YUHflr83aTEzmqzpAWH57) | 3:38 |
-| 40 | [King of Kings](https://open.spotify.com/track/2ZbBnFvIivkLCMsAUFIVrU) | [Jack Greene](https://open.spotify.com/artist/14h0UcPJlGYv5Qrjp7m1jQ) | [I Am Not Alone](https://open.spotify.com/album/3Ty52esdbMGej9m3Fzb1hR) | 2:58 |
+| 40 | [King of Kings](https://open.spotify.com/track/5moV2vWD0lThAkubmsRYHU) | [Jack Greene](https://open.spotify.com/artist/14h0UcPJlGYv5Qrjp7m1jQ) | [I Am Not Alone](https://open.spotify.com/album/79NRt7O1NFN3Qs3AToLPlA) | 2:58 |
 | 41 | [Say Amen](https://open.spotify.com/track/2jMoBd2SMyipPWJum2Mpre) | [Brian Free & Assurance](https://open.spotify.com/artist/57PRB2opCrH6LlWS4INhi0) | [Unashamed](https://open.spotify.com/album/0d7pyEQyRk7xYrz3NKVi9m) | 4:33 |
 | 42 | [Welcome To The Family](https://open.spotify.com/track/4HqLgAbPz9pBuCCJbh5fiR) | [The Booth Brothers](https://open.spotify.com/artist/01uI1SCsA0pLwWa2ENV6Gv) | [Room For More](https://open.spotify.com/album/10oPZTgvpINdckHN8yHUuD) | 3:27 |
 | 43 | [If You Knew Him](https://open.spotify.com/track/4lWaLcpZhP7GgTqFgjc5t7) | [The Perrys](https://open.spotify.com/artist/1xRTBMpX8h8nOZ60Gg98gU) | [Almost Morning](https://open.spotify.com/album/5iCQcKosR5DEcERoVT8Euu) | 4:49 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 | 79 | [Steppin' out in Faith](https://open.spotify.com/track/3oD8RRGLXHwk4vEMkbBo9k) | [Jim Brady Trio](https://open.spotify.com/artist/370fla8RwoHgAhGzUy56OB) | [A New Chapter](https://open.spotify.com/album/5uAhKPfP2Iy5lCgxLUQEpN) | 3:18 |
 | 80 | [The Lighthouse \- 50 Year Celebration](https://open.spotify.com/track/2ZGDPgfa0rOiRezBCY56qk) | [Ronny Hinson](https://open.spotify.com/artist/6b5TbMekdEbb75ItLBOoRs) | [The Lighthouse \(50 Year Celebration\)](https://open.spotify.com/album/7DTKYFvwOP0q9jBz6OtclE) | 4:22 |
 
-Snapshot ID: `MTY2MTU3OTQzMCwwMDAwMDAwMDI1MzYxMjZhZjg3ZTFkZmIwNjkxNTVkOGJiM2JhZTI1`
+Snapshot ID: `MTY2MTU3OTQzMCwwMDAwMDAwMGMyYjk5MjNiOGRmZjk0NDZjN2RjMDU3ZjYyNGNjMjE0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 
 > A Dios sea toda la gloria y alabanza\. Foto: Miel San Marcos, Ingrid Rosario
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,250 likes - 90 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,532 likes - 90 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 | 16 | [Recuérdame](https://open.spotify.com/track/0HLeUMjLyJBOjnx9KnNB3H) | [Living](https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9) | [La Mejor Parte](https://open.spotify.com/album/6LWcpiZYaTMYuAThn8pHQe) | 3:30 |
 | 17 | [Gracias, Señor](https://open.spotify.com/track/1cY9JMcp8IYAvdBWrDC4PI) | [Athenas](https://open.spotify.com/artist/71IIrUaZMShJKwuwIZVVwu), [Maxi Larghi](https://open.spotify.com/artist/6jXQYWM55xKpAFPAYZcryE) | [Gracias, Señor](https://open.spotify.com/album/1grv9kyTHNQyLdlkrExSj5) | 5:05 |
 | 18 | [Loco Amor \(Spanish Version\)](https://open.spotify.com/track/4ycyCxaQyVOA0hOELiU8wf) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Loco Amor \(Spanish Version\)](https://open.spotify.com/album/0fdRBSdw56pU3F5F3TJORK) | 5:03 |
-| 19 | [La Bendición](https://open.spotify.com/track/7GXEqXgjSZfk0GbswEnexm) | [Abels Worship](https://open.spotify.com/artist/44OMK4Ah4Oqm3cNR1JVEjI), [Jacqie Rivera](https://open.spotify.com/artist/7gOu74yQzNuOjbiuJCP9QB) | [La Bendición](https://open.spotify.com/album/2RyJ2oTOxST7i6rEqVUG7V) | 5:57 |
+| 19 | [La Bendición](https://open.spotify.com/track/7sy4lR1Q1FnOaAdyc8Aapz) | [Abels Worship](https://open.spotify.com/artist/44OMK4Ah4Oqm3cNR1JVEjI), [Jacqie Rivera](https://open.spotify.com/artist/7gOu74yQzNuOjbiuJCP9QB) | [La Bendición](https://open.spotify.com/album/24aCBIUVgyOIiUTmLQyarN) | 5:57 |
 | 20 | [Job](https://open.spotify.com/track/2M857I621lLa6qTKTGd4Pt) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Arthur Callazans](https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS) | [Job](https://open.spotify.com/album/5NGqpE0m7PcQ89qJ7joiyZ) | 5:24 |
 | 21 | [Tú Dices](https://open.spotify.com/track/54QrUOoUEddh6h0ITdSqGu) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Tú Dices / Rescata](https://open.spotify.com/album/51Zco9WTUFDhcIM2elZbLm) | 4:33 |
 | 22 | [Mi Pastor \(Salmo 23\)](https://open.spotify.com/track/6KZRLdHJgcUmZoam21oZS5) | [Daniel Lüdtke](https://open.spotify.com/artist/3f0bV2cF70GNSrGlv7i2Wa) | [Mi Pastor \(Salmo 23\)](https://open.spotify.com/album/0yfhwvxGjCon1Sc9MRrQ4w) | 7:21 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 | 89 | [De Lo Más Profundo](https://open.spotify.com/track/1QNPc8xrzF78nlTFN3TM7T) | [Fuego](https://open.spotify.com/artist/3F5E6wKnGN6qRjtsF2Z6vt) | [Por Fin en Casa](https://open.spotify.com/album/3ZkKbtlC0p5L6vgStrdRsq) | 7:45 |
 | 90 | [Que Se Llene Tu Casa](https://open.spotify.com/track/3fJc3GDymadn48CQjhIrxF) | [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Cuan Gran Amor](https://open.spotify.com/album/1lhXRDxeKylK9Ljidc9dCN) | 4:08 |
 
-Snapshot ID: `MTYyNzAzOTI0MCwwMDAwMDAwMDgyMDI5ZDUzZTk2ODBmYjYzNzNhOThjZjMyMDQwNmVm`
+Snapshot ID: `MTYyNzAzOTI0MCwwMDAwMDAwMDJjY2M4YmFiMDQxOGEwMGYzOTJhYzVmNmFlNDk2MjJi`

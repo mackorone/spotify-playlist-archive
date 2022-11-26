@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-06",
+      "date_removed": null,
       "duration_ms": 121026,
       "name": "Arrem\u00e1ngala Arremp\u00fajala",
       "url": "https://open.spotify.com/track/16RyGCJmiM2GPdTuikdEkM"
@@ -429,6 +429,24 @@
       "duration_ms": 150360,
       "name": "El Botecito",
       "url": "https://open.spotify.com/track/2DzLlUtscN7QECJ6E3yvHE"
+    },
+    {
+      "album": {
+        "name": "Cumbias Norte\u00f1as Ayer, Hoy Y Siempre",
+        "url": "https://open.spotify.com/album/6esgHgTW72xib1yUyzYlEP"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos Del Pueblo",
+          "url": "https://open.spotify.com/artist/35hWST2f8cTTFbGzQZzGTZ"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 150360,
+      "name": "El Botecito",
+      "url": "https://open.spotify.com/track/4etMDGJ0YN94VoAX6iiBmq"
     },
     {
       "album": {
@@ -738,6 +756,24 @@
     },
     {
       "album": {
+        "name": "The Best of Cumbias",
+        "url": "https://open.spotify.com/album/0eWmTTJkLSzr111RwtqpkA"
+      },
+      "artists": [
+        {
+          "name": "Hechizeros Band",
+          "url": "https://open.spotify.com/artist/4xqrGV8Uw2Jv3RLGnWFFqx"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 200546,
+      "name": "El Sonidito",
+      "url": "https://open.spotify.com/track/06L0BfWO3PA0Tt7Yt6Xdki"
+    },
+    {
+      "album": {
         "name": "La Historia De Los Exitos - Bailables",
         "url": "https://open.spotify.com/album/5ECdGv5S3xRhiVxKUWxg98"
       },
@@ -895,7 +931,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 190800,
       "name": "Juana La Cubana",
       "url": "https://open.spotify.com/track/1cdpDAE7LHSHviJ73SGuGS"
@@ -913,7 +949,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 190800,
       "name": "Juana La Cubana",
       "url": "https://open.spotify.com/track/7Eo1JOdPvYYZqveKzXh8pN"
@@ -1051,13 +1087,13 @@
       },
       "artists": [
         {
-          "name": "La Adictiva Banda San Jos\u00e9 de Mesillas",
+          "name": "La Adictiva",
           "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
         }
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-16",
+      "date_removed": "2022-11-13",
       "duration_ms": 148693,
       "name": "La Fiesta en Acci\u00f3n",
       "url": "https://open.spotify.com/track/3xX5uR8mDntlOXZ3FbdEqh"
@@ -1093,7 +1129,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-22",
       "duration_ms": 193306,
       "name": "La Jaiba",
       "url": "https://open.spotify.com/track/0BQ7uJTvZDZxH4k7cwrSQ1"
@@ -1223,6 +1259,24 @@
       "duration_ms": 156133,
       "name": "La Vecinita",
       "url": "https://open.spotify.com/track/0qJWmorcTJIxCHdpX9xdMT"
+    },
+    {
+      "album": {
+        "name": "Los Grandes \u00c9xitos de los Grandes Grupos",
+        "url": "https://open.spotify.com/album/5wpdSJcSJ99JbsxBtqrmGt"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Carrion",
+          "url": "https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 223333,
+      "name": "Llorar",
+      "url": "https://open.spotify.com/track/5D7YDsl9QZjD1lBDQfviS0"
     },
     {
       "album": {
@@ -1356,6 +1410,24 @@
     },
     {
       "album": {
+        "name": "Tusa y Tequila",
+        "url": "https://open.spotify.com/album/76pxa9SGCrMFTgJE4r4ESx"
+      },
+      "artists": [
+        {
+          "name": "Banda Sinaloense MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 209786,
+      "name": "Mi Mayor Anhelo - Balada",
+      "url": "https://open.spotify.com/track/19lD7swUHH4kgdnzlwsawp"
+    },
+    {
+      "album": {
         "name": "Mi Trokita Cumbia",
         "url": "https://open.spotify.com/album/7LYXdx1tTJHSdSilZOEhZq"
       },
@@ -1479,7 +1551,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 205093,
       "name": "Na Na Na (Dulce Ni\u00f1a)",
       "url": "https://open.spotify.com/track/6M870HixVgIS4VTudBHcz8"
@@ -1725,7 +1797,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-04",
+      "date_removed": null,
       "duration_ms": 168253,
       "name": "Qu\u00e9 Bonita",
       "url": "https://open.spotify.com/track/6uJ0y1FoiRjVUpCPGdsydA"
@@ -1912,6 +1984,24 @@
     },
     {
       "album": {
+        "name": "Party 5 de Mayo",
+        "url": "https://open.spotify.com/album/5annZVJtACVC5bugyiYOP5"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 238236,
+      "name": "Tiene Espinas El Rosal",
+      "url": "https://open.spotify.com/track/7gYv9ktXSUTnDbinqxKrac"
+    },
+    {
+      "album": {
         "name": "Destilando Amor",
         "url": "https://open.spotify.com/album/0Hkn7bDEG0kyUxI6gQdHzB"
       },
@@ -2087,7 +2177,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 180733,
-      "name": "Volver Volver",
+      "name": "Volver, Volver",
       "url": "https://open.spotify.com/track/4Fvnz1ZJ86IdqDAepWYPAh"
     },
     {

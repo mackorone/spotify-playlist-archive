@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-23",
+      "date_removed": null,
       "duration_ms": 252400,
       "name": "3 Tha Hard Way",
       "url": "https://open.spotify.com/track/4B1w3clws55HXvcVoItOqS"
@@ -175,7 +175,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": "2022-11-13",
       "duration_ms": 238386,
       "name": "Ching Ching",
       "url": "https://open.spotify.com/track/4YqYDP9MoPeBh1AqmzxD8g"
@@ -840,6 +840,24 @@
     },
     {
       "album": {
+        "name": "Thug Misses",
+        "url": "https://open.spotify.com/album/7hTbLqmxMV3XquGc60ZJig"
+      },
+      "artists": [
+        {
+          "name": "Khia",
+          "url": "https://open.spotify.com/artist/3q7isf09BuwXLyR2khBs60"
+        }
+      ],
+      "date_added": "2021-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 222333,
+      "name": "My Neck, My Back",
+      "url": "https://open.spotify.com/track/3H6JUtLbiZh07T7GLiuTON"
+    },
+    {
+      "album": {
         "name": "Thug Misses (Digitally Remastered)",
         "url": "https://open.spotify.com/album/4Xa2dq99gQqzGj4vq0rGoV"
       },
@@ -1239,7 +1257,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 221640,
       "name": "True Honey Buns (Dat Freak Shit)",
       "url": "https://open.spotify.com/track/5zhA0hcJGQmiFkGtx19eOT"
@@ -1461,7 +1479,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 304666,
       "name": "You Can't Play with My Yo-Yo (feat. Ice Cube)",
       "url": "https://open.spotify.com/track/7yFVwzeawvaoysd2fyCR8t"

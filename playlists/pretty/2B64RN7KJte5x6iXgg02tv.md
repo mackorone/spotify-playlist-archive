@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2B64RN7KJte5x6iXgg02tv.md) - [plain]
 
 > Focus your gaze and get into the dynamic flow of this engaging, eclectic mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,466 likes - 20 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,467 likes - 20 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

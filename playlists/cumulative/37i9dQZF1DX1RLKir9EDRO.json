@@ -297,6 +297,24 @@
     {
       "album": {
         "name": "Ben De\u011filim",
+        "url": "https://open.spotify.com/album/7xPjYtjmkv0fH55iTfErdI"
+      },
+      "artists": [
+        {
+          "name": "B4TU INC.",
+          "url": "https://open.spotify.com/artist/0JVl2O7TNYlEc6Lc2jHW3o"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128780,
+      "name": "Art\u0131k",
+      "url": "https://open.spotify.com/track/2rL0ZM7i8hqI2jp3RTk1S0"
+    },
+    {
+      "album": {
+        "name": "Ben De\u011filim",
         "url": "https://open.spotify.com/album/1qcjNRs5VALERgxd88sLgA"
       },
       "artists": [
@@ -307,7 +325,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 128780,
       "name": "Art\u0131k",
       "url": "https://open.spotify.com/track/6tR7FZx5ipHwTfZPd2ieBd"

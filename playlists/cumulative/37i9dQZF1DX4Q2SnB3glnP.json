@@ -142,6 +142,24 @@
     },
     {
       "album": {
+        "name": "After All Was Said",
+        "url": "https://open.spotify.com/album/4XcoP0aDaP9DtFHNr3OypS"
+      },
+      "artists": [
+        {
+          "name": "Leander Vaughn",
+          "url": "https://open.spotify.com/artist/6VZhEArsID7ayvhvG7DRGl"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206523,
+      "name": "After All Was Said",
+      "url": "https://open.spotify.com/track/0tgcnoBZDZWnZVqY6gWzDg"
+    },
+    {
+      "album": {
         "name": "Anfang",
         "url": "https://open.spotify.com/album/1NTR3MPOBNHQfOLFdtlYlN"
       },
@@ -920,6 +938,24 @@
     },
     {
       "album": {
+        "name": "Djupet",
+        "url": "https://open.spotify.com/album/7heZwQ3Yua1lr3XCYJzhbK"
+      },
+      "artists": [
+        {
+          "name": "Owen Meyers",
+          "url": "https://open.spotify.com/artist/3pTw5Y5aUfDyTD1OQVojEM"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223010,
+      "name": "Djupet",
+      "url": "https://open.spotify.com/track/4G7eckq0cn40VWV05gTJia"
+    },
+    {
+      "album": {
         "name": "Liquid State",
         "url": "https://open.spotify.com/album/0Bbj7KIBeK85vjs6qxU8EV"
       },
@@ -1093,7 +1129,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 209274,
       "name": "Enlightened",
       "url": "https://open.spotify.com/track/2rDUD1OjekGLpJIQTaAGAE"
@@ -1388,6 +1424,24 @@
     },
     {
       "album": {
+        "name": "Following The Seasons",
+        "url": "https://open.spotify.com/album/22h16XP7CqXPQAzro1YXcb"
+      },
+      "artists": [
+        {
+          "name": "Aisha Akebono",
+          "url": "https://open.spotify.com/artist/1lI0k1BiLHvfJub3QQfe72"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211774,
+      "name": "Following The Seasons",
+      "url": "https://open.spotify.com/track/748k8Bk5Nousy75IFv6QQy"
+    },
+    {
+      "album": {
         "name": "From Above",
         "url": "https://open.spotify.com/album/7rj2uybb1d4Q3WnjMCtn04"
       },
@@ -1640,6 +1694,24 @@
     },
     {
       "album": {
+        "name": "Calm Morning (Vol 3)",
+        "url": "https://open.spotify.com/album/7ktnzXmO3bJvW5Jg7Uyi1t"
+      },
+      "artists": [
+        {
+          "name": "Landscapes Of Joy",
+          "url": "https://open.spotify.com/artist/0D84atg0DW6sSSakLtQA99"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 214579,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/0ghXBxhbgRroeqyk0flbwc"
+    },
+    {
+      "album": {
         "name": "Dreaming Of The Horizon",
         "url": "https://open.spotify.com/album/0zeuEYGGSRZjTbZvfKY03z"
       },
@@ -1691,6 +1763,24 @@
       "duration_ms": 189000,
       "name": "Incubations",
       "url": "https://open.spotify.com/track/5SMg4DyfRiY4wflodaMOFH"
+    },
+    {
+      "album": {
+        "name": "Inombords",
+        "url": "https://open.spotify.com/album/1n0u2U39g0LjaYrDwH0rAn"
+      },
+      "artists": [
+        {
+          "name": "Sammet",
+          "url": "https://open.spotify.com/artist/6BAZrwUnf2R5WoLpj5iQ42"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Inombords",
+      "url": "https://open.spotify.com/track/683KRaMJTVpf3As7wOyyev"
     },
     {
       "album": {
@@ -2090,6 +2180,24 @@
     },
     {
       "album": {
+        "name": "Spa Music",
+        "url": "https://open.spotify.com/album/7khZn089iLpp3qjd0mGVum"
+      },
+      "artists": [
+        {
+          "name": "Vincente M",
+          "url": "https://open.spotify.com/artist/5cLnH6eBtJJnoJ0zChZqJA"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 202000,
+      "name": "Midsummer",
+      "url": "https://open.spotify.com/track/1HHoTMwBMIm5ebqOhqLGNf"
+    },
+    {
+      "album": {
         "name": "First Flower",
         "url": "https://open.spotify.com/album/0kRICOLMCYoy7QoN40sSJO"
       },
@@ -2177,6 +2285,24 @@
       "duration_ms": 224343,
       "name": "Morning Rises",
       "url": "https://open.spotify.com/track/7uTmy9bindpm5YqE8sFFuj"
+    },
+    {
+      "album": {
+        "name": "Moving Slow",
+        "url": "https://open.spotify.com/album/626tC0NRDHsPdPBB8hrKLc"
+      },
+      "artists": [
+        {
+          "name": "Russel Jace",
+          "url": "https://open.spotify.com/artist/6GwgVH86t9xt98l4RSoMbP"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Moving Slow",
+      "url": "https://open.spotify.com/track/479TAluzixIctz5AiwnrA1"
     },
     {
       "album": {
@@ -2540,6 +2666,24 @@
     },
     {
       "album": {
+        "name": "The Cereal Dreamers: Sleep Tight",
+        "url": "https://open.spotify.com/album/4JVJ3Jp4ex2wvDlJOFEX42"
+      },
+      "artists": [
+        {
+          "name": "Ebb & Flod",
+          "url": "https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 146483,
+      "name": "Owls",
+      "url": "https://open.spotify.com/track/6JEM2XlTIXbfplJsJVW9v2"
+    },
+    {
+      "album": {
         "name": "Moonrise",
         "url": "https://open.spotify.com/album/217hUO8Iila5lozKvwmElh"
       },
@@ -2627,6 +2771,24 @@
       "duration_ms": 208000,
       "name": "Parc Gu\u0308ell",
       "url": "https://open.spotify.com/track/1znpMS5QcPwMIkE3cnb6sL"
+    },
+    {
+      "album": {
+        "name": "Calm Morning (Vol 2)",
+        "url": "https://open.spotify.com/album/4euXG3fDA9DV7MtGXX1qeK"
+      },
+      "artists": [
+        {
+          "name": "Barcelona Atmosphere",
+          "url": "https://open.spotify.com/artist/2Y0VG1OXaXM81BHoZ95zCM"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 208000,
+      "name": "Parc G\u00fcell",
+      "url": "https://open.spotify.com/track/1qSdFNSzlFfHq0dTJCAGjE"
     },
     {
       "album": {
@@ -2789,6 +2951,24 @@
       "duration_ms": 175643,
       "name": "Quantum",
       "url": "https://open.spotify.com/track/531T2IlqucxLsyDPtw6LSv"
+    },
+    {
+      "album": {
+        "name": "Quiet Motions",
+        "url": "https://open.spotify.com/album/7JycG0PMs6yxJBgSmx1Cmr"
+      },
+      "artists": [
+        {
+          "name": "Spheres",
+          "url": "https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195600,
+      "name": "Quiet Motions",
+      "url": "https://open.spotify.com/track/5G5T4D1uFd2mjhuM5O7bXu"
     },
     {
       "album": {
@@ -3800,6 +3980,24 @@
     },
     {
       "album": {
+        "name": "Through The Mist",
+        "url": "https://open.spotify.com/album/3PctoISWbdLaP1LLaK8K6C"
+      },
+      "artists": [
+        {
+          "name": "The Sleep Crew",
+          "url": "https://open.spotify.com/artist/2cwhQMikUipIptLocoKOMn"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Through The Mist",
+      "url": "https://open.spotify.com/track/77J5YZNzyRlIfmfx1iYGRE"
+    },
+    {
+      "album": {
         "name": "Hawk",
         "url": "https://open.spotify.com/album/3ipW8GhYONdAF0D1eIxmeS"
       },
@@ -3890,6 +4088,24 @@
     },
     {
       "album": {
+        "name": "Tip Toe",
+        "url": "https://open.spotify.com/album/383R9Mzr6MeR3bW7i4DHAB"
+      },
+      "artists": [
+        {
+          "name": "Sublime Harmonics",
+          "url": "https://open.spotify.com/artist/2Bkb4UN9i1sAVcwnsmGsTU"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 362125,
+      "name": "Tip Toe",
+      "url": "https://open.spotify.com/track/67c5jkgqw1odTnSHxUAvjT"
+    },
+    {
+      "album": {
         "name": "Tokyo Atmospheres",
         "url": "https://open.spotify.com/album/23nI7Is88g5gn0kzKevRmr"
       },
@@ -3962,6 +4178,24 @@
     },
     {
       "album": {
+        "name": "Towards Silence",
+        "url": "https://open.spotify.com/album/4e3UJoorTIvwDfg8D4DDYr"
+      },
+      "artists": [
+        {
+          "name": "Lugar",
+          "url": "https://open.spotify.com/artist/6KPAXAMmjjuL3dlucR4I29"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Towards Silence",
+      "url": "https://open.spotify.com/track/25stZHn22KgYL9roXriBe9"
+    },
+    {
+      "album": {
         "name": "Still",
         "url": "https://open.spotify.com/album/2swUDwU2w9c0As92jzfREY"
       },
@@ -3995,6 +4229,24 @@
       "duration_ms": 149047,
       "name": "Tranquility",
       "url": "https://open.spotify.com/track/3hEugJ3cU9p9gN5b6imbvX"
+    },
+    {
+      "album": {
+        "name": "Two Ways",
+        "url": "https://open.spotify.com/album/7lct65G1cVbNXZXY6zGjn4"
+      },
+      "artists": [
+        {
+          "name": "Monet Benitez",
+          "url": "https://open.spotify.com/artist/4oQZmRxjpBOfuINrvgElwz"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184235,
+      "name": "Two Ways",
+      "url": "https://open.spotify.com/track/2jtfOMMCIJrZgXbdnrVNDH"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW37fHr0rhOh.md) - [plain]
 
 > Always there, always true!  These are the songs, old and new, you can count on time after time\.  Cover: Bobby, Teddi, and Billy Ray Cyrus
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,901 likes - 58 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,947 likes - 58 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW37fHr0rhOh.md) - [plain]
 | 33 | [New Day Dawning](https://open.spotify.com/track/296RKoF8mdEZza3CPPkfLC) | [The Whisnants](https://open.spotify.com/artist/4c7zlvrqio2WjtIIGTx1pm) | [Heritage of Hits](https://open.spotify.com/album/5iIR5Dtpojh6yWbkhLh9wj) | 2:33 |
 | 34 | [The Healer](https://open.spotify.com/track/6BrngBvcklK8u4pmv4Bcrr) | [The Talleys](https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC) | [Hope For Tomorrow](https://open.spotify.com/album/6FvZ3JWxzH0bsilLnATbJZ) | 4:01 |
 | 35 | [Somebody Died For Me](https://open.spotify.com/track/0nr8WV9wznKesNCCGZUcVT) | [Triumphant Quartet](https://open.spotify.com/artist/60yKIk5WTQfPrkZPcdohVC) | [Everyday](https://open.spotify.com/album/5rI5TQVg0ZKN3bm2yDx2tA) | 4:10 |
-| 36 | [I'll Take You Home](https://open.spotify.com/track/2TDe3tKqBs1Hj3P7SCPaEI) | [The Hoppers](https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7) | [Count Me In](https://open.spotify.com/album/1eiwgrOOTkycJKPHJLhaSk) | 3:32 |
+| 36 | [I'll Take You Home](https://open.spotify.com/track/6fEsfhqwayJ6ytJSPVgTfN) | [The Hoppers](https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7) | [Count Me In](https://open.spotify.com/album/2RiGB2vhvi05EtUDlLCd6A) | 3:32 |
 | 37 | [The Broken Ones](https://open.spotify.com/track/0gdMxfopB9G1HYTpFBIwh8) | [The Talleys](https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC) | [Stages](https://open.spotify.com/album/0LahGugFPCcDTUPG7OA7bx) | 3:39 |
 | 38 | [Saved by Grace](https://open.spotify.com/track/1Vh5gKVhXgmMXrpe6iIbMS) | [Triumphant Quartet](https://open.spotify.com/artist/60yKIk5WTQfPrkZPcdohVC) | [Love Came Calling](https://open.spotify.com/album/6QckA0hXPaoHmER0KrqUin) | 4:03 |
 | 39 | [Hidden Heroes](https://open.spotify.com/track/3KxtrZs43aVh8dYw8OwDL1) | [The Talleys](https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC) | [The Test of Time](https://open.spotify.com/album/0ZMz7PkeQjQGkBSN2TcYMY) | 4:15 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW37fHr0rhOh.md) - [plain]
 | 57 | [Amazing Grace](https://open.spotify.com/track/43Bq77lTBLMxEf5phduzKH) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Down Home Christmas](https://open.spotify.com/album/1hpnqLkobWtW7ZmufnofeA) | 2:03 |
 | 58 | [Your Ways Are Higher Than Mine](https://open.spotify.com/track/3AgH9cu0oUrVQUb99TyAEi) | [The Collingsworth Family](https://open.spotify.com/artist/4B43yyRlfQgDEhDPq35wUc) | [Mercy & Love](https://open.spotify.com/album/5efaQ2tF2R8HkroQ9rB3ew) | 4:00 |
 
-Snapshot ID: `MTYyODgzNjQ2NywwMDAwMDAwMGYwN2U5YjIxZWFiZDY1ZTc0MTA3ZTZmYTlkMWViODg2`
+Snapshot ID: `MTYyODgzNjQ2NywwMDAwMDAwMDliMDE0MTk5NzUwNzk3YTE3YTViODJhMGE0OGI0MjYy`

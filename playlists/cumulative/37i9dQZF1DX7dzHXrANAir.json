@@ -103,7 +103,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 329999,
       "name": "A Dream, A Sequence",
       "url": "https://open.spotify.com/track/32VUIIpKt22BW8V1mLt4R4"
@@ -280,6 +280,28 @@
     },
     {
       "album": {
+        "name": "Appearing",
+        "url": "https://open.spotify.com/album/5sDWiSwqGYHVtfUSKSb6ai"
+      },
+      "artists": [
+        {
+          "name": "Simon Goff",
+          "url": "https://open.spotify.com/artist/6TsjNI2RRk5DaCbKZK2J90"
+        },
+        {
+          "name": "Dobrawa Czocher",
+          "url": "https://open.spotify.com/artist/7A5EBB4tls8HDFroU2Cm5p"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-21",
+      "duration_ms": 234181,
+      "name": "Appearing",
+      "url": "https://open.spotify.com/track/4GxMKI7XRRUN0NCRA5g1bt"
+    },
+    {
+      "album": {
         "name": "autre part",
         "url": "https://open.spotify.com/album/440SAo37XdbZL1gJpfOkit"
       },
@@ -397,7 +419,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 288693,
       "name": "By The Sea (Alexandra Hamilton-Ayres Rework)",
       "url": "https://open.spotify.com/track/2iXvCq72SsfRotGmvihphI"
@@ -427,6 +449,54 @@
       "duration_ms": 300638,
       "name": "By The Sea (live)",
       "url": "https://open.spotify.com/track/3MYAcI8fKxQjDF2DrULm1B"
+    },
+    {
+      "album": {
+        "name": "By This River",
+        "url": "https://open.spotify.com/album/11o6UQ8kXXknp41Dsg75ca"
+      },
+      "artists": [
+        {
+          "name": "Roedelius",
+          "url": "https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc"
+        },
+        {
+          "name": "Moebius",
+          "url": "https://open.spotify.com/artist/0ctLTKGS1coZsfRHZw48tC"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/5nRTsSxPNnsySXsuJ6UHGq"
+        },
+        {
+          "name": "Pascal Schumacher",
+          "url": "https://open.spotify.com/artist/0VSt9azgjBhQlNlSlySE7M"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247301,
+      "name": "By This River",
+      "url": "https://open.spotify.com/track/1ZZV73dkqJx1Wc9THSXpGZ"
+    },
+    {
+      "album": {
+        "name": "Caf\u00e9 Papantla",
+        "url": "https://open.spotify.com/album/5r84u6bUn5pJjHpGqiQgEt"
+      },
+      "artists": [
+        {
+          "name": "Aukai",
+          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Caf\u00e9 Papantla",
+      "url": "https://open.spotify.com/track/7fjxZ5tSDAlFYmtRYaNu7V"
     },
     {
       "album": {
@@ -529,7 +599,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 266785,
       "name": "Charles Duke",
       "url": "https://open.spotify.com/track/2C7lu8FJWZXeIv1MV6ena8"
@@ -809,7 +879,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": "2022-11-05",
       "duration_ms": 289000,
       "name": "Critical Spirit",
       "url": "https://open.spotify.com/track/6dVEJCuNc1XnWn9S3yiksd"
@@ -1105,7 +1175,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": "2022-11-13",
       "duration_ms": 267871,
       "name": "Enerhodar",
       "url": "https://open.spotify.com/track/3BIMrVj8s2PYgteQaT4RCo"
@@ -1273,7 +1343,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 187850,
       "name": "False Sunset - Todd & Klein Rework",
       "url": "https://open.spotify.com/track/7z6FjRYp5m3PVGIyV8cM9u"
@@ -1353,7 +1423,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 181460,
       "name": "Feel What You Need",
       "url": "https://open.spotify.com/track/2IfutHlzHKdogrpvOdUgan"
@@ -1393,7 +1463,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 244531,
       "name": "Flame - Edit",
       "url": "https://open.spotify.com/track/650KMeGMULRMpcKUz1duOQ"
@@ -1473,7 +1543,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 238223,
       "name": "Genesis",
       "url": "https://open.spotify.com/track/2tmqbpH32WeXK10SJdcPmP"
@@ -1571,7 +1641,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 215760,
       "name": "Gnossienne N\u00b03 (Variation)",
       "url": "https://open.spotify.com/track/4CFmGRGcMY9OP4XESg8CqM"
@@ -1629,7 +1699,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 181250,
       "name": "Grande Anse",
       "url": "https://open.spotify.com/track/1xOaETzZpfvTpADA2kvnZZ"
@@ -1889,6 +1959,32 @@
       "duration_ms": 277653,
       "name": "In Cold Light (Alexandra Hamilton-Ayres Rework)",
       "url": "https://open.spotify.com/track/2ehINrB8wyWA58H8L8S6y4"
+    },
+    {
+      "album": {
+        "name": "In Memory Of A Honey Bee",
+        "url": "https://open.spotify.com/album/0UxXgN6snQJUtGzO4my3cP"
+      },
+      "artists": [
+        {
+          "name": "Felix R\u00f6sch",
+          "url": "https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp"
+        },
+        {
+          "name": "mond\u00ebna quartet",
+          "url": "https://open.spotify.com/artist/1t66cANdsYEErfgZjzplzo"
+        },
+        {
+          "name": "Matija Strni\u0161a",
+          "url": "https://open.spotify.com/artist/4My9G0wlkR07kBourTj665"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-02",
+      "duration_ms": 175500,
+      "name": "In Memory Of A Honey Bee",
+      "url": "https://open.spotify.com/track/0ZTQntkek3PSvpPI1qTxFu"
     },
     {
       "album": {
@@ -2159,7 +2255,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 305913,
       "name": "La Vagabonde - Joseph Shabason Remix",
       "url": "https://open.spotify.com/track/2L87wbWMzkfROOK6RrmU5l"
@@ -2501,7 +2597,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": "2022-11-01",
       "duration_ms": 208307,
       "name": "Mia",
       "url": "https://open.spotify.com/track/5MdHNfHC2dH0872v9IF12c"
@@ -2669,7 +2765,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 167920,
       "name": "Moon Window",
       "url": "https://open.spotify.com/track/4PTSiJw3k6IYIofogD0uuI"
@@ -2854,6 +2950,24 @@
     },
     {
       "album": {
+        "name": "New Beginning",
+        "url": "https://open.spotify.com/album/1haQIg0VfdYNGMLVsplGzo"
+      },
+      "artists": [
+        {
+          "name": "Phoria",
+          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365892,
+      "name": "New Beginning",
+      "url": "https://open.spotify.com/track/4Pvt5sRCWGXDFa1Zyv7X7Q"
+    },
+    {
+      "album": {
         "name": "New Grass \u2014 piano reworks",
         "url": "https://open.spotify.com/album/4KGB54dfOJOX4e6wEiryws"
       },
@@ -2939,6 +3053,28 @@
       "duration_ms": 188546,
       "name": "Night Sky",
       "url": "https://open.spotify.com/track/4jMOhFmabozK4cz2sQKoOs"
+    },
+    {
+      "album": {
+        "name": "The Wind (Deluxe)",
+        "url": "https://open.spotify.com/album/0o9rSszHt4kikYbAPtlokj"
+      },
+      "artists": [
+        {
+          "name": "Balmorhea",
+          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
+        },
+        {
+          "name": "Scoring Berlin",
+          "url": "https://open.spotify.com/artist/5aVO01MTGf8SFlZvNm98ke"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133335,
+      "name": "Nos - C.B. Rework",
+      "url": "https://open.spotify.com/track/1zVbL4ZCLbEE8fmVl881Gj"
     },
     {
       "album": {
@@ -3033,6 +3169,32 @@
       "duration_ms": 238764,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/3boXyamYzmzAvMbu5Rwmlv"
+    },
+    {
+      "album": {
+        "name": "On Being [Foam and Sand Rework]",
+        "url": "https://open.spotify.com/album/4XJwtAr2AISvX4GZByc0pG"
+      },
+      "artists": [
+        {
+          "name": "Six Missing",
+          "url": "https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt"
+        },
+        {
+          "name": "Foam and Sand",
+          "url": "https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd"
+        },
+        {
+          "name": "Robot Koch",
+          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254769,
+      "name": "On Being [Foam and Sand Rework]",
+      "url": "https://open.spotify.com/track/2D43pD0M7hHCanJwgGJz5H"
     },
     {
       "album": {
@@ -3149,7 +3311,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-27",
+      "date_removed": null,
       "duration_ms": 242880,
       "name": "Owls",
       "url": "https://open.spotify.com/track/5kSTJK3ExBwzr12h2CDivO"
@@ -3277,7 +3439,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-05",
+      "date_removed": null,
       "duration_ms": 163945,
       "name": "Pattern of Water",
       "url": "https://open.spotify.com/track/11NMfPfGP4tI1xF3e7S9Jt"
@@ -3347,6 +3509,24 @@
       "duration_ms": 237827,
       "name": "Peter",
       "url": "https://open.spotify.com/track/4ANqaM60727eZi2Xxo9r8I"
+    },
+    {
+      "album": {
+        "name": "Phases",
+        "url": "https://open.spotify.com/album/608DP618oad2ENr4JzaYdT"
+      },
+      "artists": [
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189241,
+      "name": "Phases",
+      "url": "https://open.spotify.com/track/62dZwFD4glaESrFFPGrXAN"
     },
     {
       "album": {
@@ -3535,7 +3715,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 238602,
       "name": "Riva",
       "url": "https://open.spotify.com/track/3KLQVpIZLWYXHv6vpC7wUO"
@@ -3868,6 +4048,24 @@
     },
     {
       "album": {
+        "name": "Star of the County Down (Ambient Mix)",
+        "url": "https://open.spotify.com/album/70xARhLSnGj1WxOzTsKXya"
+      },
+      "artists": [
+        {
+          "name": "Sheku Kanneh-Mason",
+          "url": "https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340023,
+      "name": "Star of the County Down - Ambient Mix",
+      "url": "https://open.spotify.com/track/6a14yJ4N2r2DFMyAA849gr"
+    },
+    {
+      "album": {
         "name": "Stars as Eyes (Foam and Sand Rework)",
         "url": "https://open.spotify.com/album/1iSjVqPEIpQO8uo75ZfMlC"
       },
@@ -3891,6 +4089,28 @@
       "duration_ms": 240000,
       "name": "Stars as Eyes - Foam and Sand Rework",
       "url": "https://open.spotify.com/track/554PUKsVbNU38ljA1p65OE"
+    },
+    {
+      "album": {
+        "name": "Play Echoes",
+        "url": "https://open.spotify.com/album/5hLbP2i4QeWU8twh9L9u6w"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Hamilton-Ayres",
+          "url": "https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp"
+        },
+        {
+          "name": "Her Ensemble",
+          "url": "https://open.spotify.com/artist/60LMcgWPaQLRwx8dZicM3z"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200270,
+      "name": "Stone Stairs",
+      "url": "https://open.spotify.com/track/0tjlqNVncu5dZ2Snz0jAJ3"
     },
     {
       "album": {
@@ -4116,6 +4336,28 @@
     },
     {
       "album": {
+        "name": "Traveller (Lambert rework)",
+        "url": "https://open.spotify.com/album/6cMwZymDA1uYLXb47Bqeql"
+      },
+      "artists": [
+        {
+          "name": "Josin",
+          "url": "https://open.spotify.com/artist/0QgpJAGWO61N2hgJQhW4xW"
+        },
+        {
+          "name": "Lambert",
+          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200259,
+      "name": "Traveller - Lambert rework",
+      "url": "https://open.spotify.com/track/4YaHDtdK7EgzS7vT9WnCha"
+    },
+    {
+      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/5vCMVucMnkg9OMZ46TD6o2"
       },
@@ -4207,7 +4449,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 388748,
       "name": "Vale",
       "url": "https://open.spotify.com/track/4RocG6490RoLRJgdbNZEEY"
@@ -4251,7 +4493,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 197041,
       "name": "Vermilion",
       "url": "https://open.spotify.com/track/4V2Hz5O0EOui1S3coZhdTd"
@@ -4393,7 +4635,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 224755,
       "name": "Where The Light Touches",
       "url": "https://open.spotify.com/track/1AJZpgI4qHJbsC8s7yfUq1"
@@ -4423,6 +4665,24 @@
       "duration_ms": 256000,
       "name": "Where the Time Went",
       "url": "https://open.spotify.com/track/7aOIhjNkj1zeFOkRuLsGXF"
+    },
+    {
+      "album": {
+        "name": "Who Tends a Garden",
+        "url": "https://open.spotify.com/album/0i1t8drfXdByzo8FYiVNCS"
+      },
+      "artists": [
+        {
+          "name": "Alaskan Tapes",
+          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-24",
+      "duration_ms": 280625,
+      "name": "Who Tends a Garden",
+      "url": "https://open.spotify.com/track/2Lt0bFZb8rudzv6DYt5voS"
     },
     {
       "album": {

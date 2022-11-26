@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The ultimate instrumental soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps. \u65e5\u672c\u306e\u30d7\u30ed\u30c7\u30e5\u30fc\u30b5\u30fc\u306b\u3088\u308b\u30a4\u30f3\u30b9\u30c8\u697d\u66f2\u3092\u7279\u96c6\u3002",
+  "description": "The ultimate Lo-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps. \u65e5\u672c\u306e\u30d7\u30ed\u30c7\u30e5\u30fc\u30b5\u30fc\u306b\u3088\u308b\u30a4\u30f3\u30b9\u30c8\u697d\u66f2\u3092\u7279\u96c6\u3002",
   "name": "Road Trip To Tokyo",
   "published_playlist_ids": [
     "6G1POdc4fbQZ6aBIV9rUMB"
@@ -227,7 +227,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 221727,
       "name": "Adrift",
       "url": "https://open.spotify.com/track/4wsC53BG8Fb5zeEH0cIvoT"
@@ -473,7 +473,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 113766,
       "name": "Andromeda",
       "url": "https://open.spotify.com/track/5OGIq5No42hYcjWsVub19j"
@@ -495,7 +495,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 171785,
       "name": "Another Dream",
       "url": "https://open.spotify.com/track/6asjZPi0s4wdk4Etx3eArV"
@@ -1148,6 +1148,24 @@
     },
     {
       "album": {
+        "name": "CINEMA",
+        "url": "https://open.spotify.com/album/1i4w92XNnwSw6gKaMyJu1j"
+      },
+      "artists": [
+        {
+          "name": "ord minami",
+          "url": "https://open.spotify.com/artist/7DkSVWqbEDgCB0EHWUe7FV"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "By The Sea",
+      "url": "https://open.spotify.com/track/1o4X9LyVmM4F1CRfjVjHDQ"
+    },
+    {
+      "album": {
         "name": "Calm of Jazz",
         "url": "https://open.spotify.com/album/5yVN2JaIvmCThUoVH1tke6"
       },
@@ -1289,7 +1307,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 130421,
       "name": "CHOP SUMMER",
       "url": "https://open.spotify.com/track/28EVgaOqYync8V1kOi63ds"
@@ -1347,7 +1365,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 90666,
       "name": "Cigar",
       "url": "https://open.spotify.com/track/1gT7lLqbEvYTtfYLjyKrPi"
@@ -1670,6 +1688,42 @@
     },
     {
       "album": {
+        "name": "Cross the Bridge",
+        "url": "https://open.spotify.com/album/0DHpTUlxOalqxiSoA6kbeH"
+      },
+      "artists": [
+        {
+          "name": "MIDICRONICA 181",
+          "url": "https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138913,
+      "name": "Cross the Bridge",
+      "url": "https://open.spotify.com/track/51SfpLbD4dbPvNg4dGRRfs"
+    },
+    {
+      "album": {
+        "name": "Cross the Bridge",
+        "url": "https://open.spotify.com/album/6aPWyP45dpcKhQGA2CdhBt"
+      },
+      "artists": [
+        {
+          "name": "MIDICRONICA 181",
+          "url": "https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-22",
+      "duration_ms": 138913,
+      "name": "Cross the Bridge",
+      "url": "https://open.spotify.com/track/6zgmVrSPNRqDcmzRHWE4gw"
+    },
+    {
+      "album": {
         "name": "Cruisin",
         "url": "https://open.spotify.com/album/1OOt6UGoO3GI6lprfutvDO"
       },
@@ -1761,7 +1815,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 218528,
       "name": "D's Swing",
       "url": "https://open.spotify.com/track/2S9rmVlkNTktxi1cOeQNIS"
@@ -2536,6 +2590,24 @@
     },
     {
       "album": {
+        "name": "EVENING",
+        "url": "https://open.spotify.com/album/7gmVOnPkeBmdr3XEi9w9R3"
+      },
+      "artists": [
+        {
+          "name": "NARISK",
+          "url": "https://open.spotify.com/artist/4maQ6S6tTUotbPZHaxvmxV"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172364,
+      "name": "EVENING",
+      "url": "https://open.spotify.com/track/0qjSPCsAMCdMRvU1zxGSuR"
+    },
+    {
+      "album": {
         "name": "Evening Stroll in Shibuya",
         "url": "https://open.spotify.com/album/7D8sp1luG3dkCGOkzSpLFz"
       },
@@ -2569,6 +2641,42 @@
       "duration_ms": 208000,
       "name": "eyes talk",
       "url": "https://open.spotify.com/track/6oEHeoiNFnLI3o53xOnlgS"
+    },
+    {
+      "album": {
+        "name": "Fallin",
+        "url": "https://open.spotify.com/album/0Co3xoXLIVostjj7HEjuhe"
+      },
+      "artists": [
+        {
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149589,
+      "name": "Fallin",
+      "url": "https://open.spotify.com/track/1RkHLHCDz9P7SQfHuLYV2D"
+    },
+    {
+      "album": {
+        "name": "Fallin",
+        "url": "https://open.spotify.com/album/6EybmOmFJCZS3OmcYBE33q"
+      },
+      "artists": [
+        {
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-19",
+      "duration_ms": 149589,
+      "name": "Fallin",
+      "url": "https://open.spotify.com/track/1gHJI8wWs2AWJKkPip6NLj"
     },
     {
       "album": {
@@ -3755,7 +3863,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 184000,
       "name": "ingenuity",
       "url": "https://open.spotify.com/track/7Fc6xaWktLjTFh2pkXPWPs"
@@ -3795,7 +3903,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 176303,
       "name": "INNER CHILD",
       "url": "https://open.spotify.com/track/0UN76wlPdYnG5O6V0qORZq"
@@ -3944,6 +4052,42 @@
     },
     {
       "album": {
+        "name": "JUST KEEP IT",
+        "url": "https://open.spotify.com/album/4DrsfHl7wo90fuejIXyrGM"
+      },
+      "artists": [
+        {
+          "name": "DJ FRIP a.k.a. BeatLab",
+          "url": "https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 193411,
+      "name": "JUST KEEP IT",
+      "url": "https://open.spotify.com/track/3Drv8dUZUirRJpOvixlDUA"
+    },
+    {
+      "album": {
+        "name": "JUST KEEP IT",
+        "url": "https://open.spotify.com/album/43gYRTIGxEkGvWax3cupGE"
+      },
+      "artists": [
+        {
+          "name": "DJ FRIP a.k.a. BeatLab",
+          "url": "https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193411,
+      "name": "JUST KEEP IT",
+      "url": "https://open.spotify.com/track/4LDgSBflODzHvRZOlSHHUv"
+    },
+    {
+      "album": {
         "name": "K Bye",
         "url": "https://open.spotify.com/album/5BevqJGwWGDUtatocaA6Ef"
       },
@@ -4067,7 +4211,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 125361,
       "name": "kczsdeg",
       "url": "https://open.spotify.com/track/1IovOeRY9QeBs8MDgqN9dO"
@@ -5437,7 +5581,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 107027,
       "name": "morning bird",
       "url": "https://open.spotify.com/track/3uePfJnilCndpwIOXXNF5J"
@@ -6664,6 +6808,24 @@
     },
     {
       "album": {
+        "name": "Raincoat",
+        "url": "https://open.spotify.com/album/7iLneP4wYzv8Eb1PBavn9o"
+      },
+      "artists": [
+        {
+          "name": "Shingo Sekiguchi",
+          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Raincoat",
+      "url": "https://open.spotify.com/track/2RfOBk0HoyAKNQMX6gWbDW"
+    },
+    {
+      "album": {
         "name": "Raining",
         "url": "https://open.spotify.com/album/1e4TMOBtDEiKHSLe0JtZFS"
       },
@@ -6803,6 +6965,28 @@
       "duration_ms": 137000,
       "name": "re: Day Trip",
       "url": "https://open.spotify.com/track/3fZdrOHUqRASVTOBc4hhyK"
+    },
+    {
+      "album": {
+        "name": "re: Labyrinth",
+        "url": "https://open.spotify.com/album/0gVIBAXQA6SOSMW46veT0b"
+      },
+      "artists": [
+        {
+          "name": "Rui Fujishiro",
+          "url": "https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE"
+        },
+        {
+          "name": "gummy3000",
+          "url": "https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185640,
+      "name": "re: Labyrinth",
+      "url": "https://open.spotify.com/track/5Bis2FY538rXD9tHWdmitY"
     },
     {
       "album": {
@@ -7007,7 +7191,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-10-17",
       "duration_ms": 121379,
       "name": "Roses",
       "url": "https://open.spotify.com/track/4forOnJFDg4OZt8b7exjET"
@@ -7155,7 +7339,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 122333,
       "name": "SAKURA",
       "url": "https://open.spotify.com/track/2CyocAM5pT88oWHLUGSLyy"
@@ -7235,7 +7419,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 84000,
       "name": "Samui",
       "url": "https://open.spotify.com/track/74bdadCpSCzqFBZ4XuQaCQ"
@@ -7293,6 +7477,24 @@
       "duration_ms": 158471,
       "name": "sea birth",
       "url": "https://open.spotify.com/track/4XXcR2WtL63vIchwSyuy20"
+    },
+    {
+      "album": {
+        "name": "Silently Beats",
+        "url": "https://open.spotify.com/album/2o0qFpD6ftIxy5LcQFfWpX"
+      },
+      "artists": [
+        {
+          "name": "maeshima soshi",
+          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Season",
+      "url": "https://open.spotify.com/track/4Za0WkeiO3GrhQnwjY62Y7"
     },
     {
       "album": {
@@ -7583,7 +7785,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-22",
       "duration_ms": 126076,
       "name": "Smiling World",
       "url": "https://open.spotify.com/track/4Taz7DRjSTrAO3PXPdhFgN"
@@ -7655,7 +7857,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 145826,
       "name": "Something Holy",
       "url": "https://open.spotify.com/track/2nkg8R5laGOkrt5bzGo9pK"
@@ -7691,7 +7893,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 198000,
       "name": "sora no kanata",
       "url": "https://open.spotify.com/track/220qwCrb8vPdRPQqzzG24l"
@@ -7799,10 +8001,28 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 99373,
       "name": "SPHERE",
       "url": "https://open.spotify.com/track/7z5sMgAaXOcToQhgynYjHG"
+    },
+    {
+      "album": {
+        "name": "SPICA",
+        "url": "https://open.spotify.com/album/0XBoMYKZ1VNlIuwRE2L9Jt"
+      },
+      "artists": [
+        {
+          "name": "gummy3000",
+          "url": "https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136426,
+      "name": "SPICA",
+      "url": "https://open.spotify.com/track/2ZUpsJqiThhBkYCsXnKLP6"
     },
     {
       "album": {
@@ -7861,6 +8081,42 @@
       "duration_ms": 243696,
       "name": "Spring Fever",
       "url": "https://open.spotify.com/track/2k21QRkejIDUk5b7K9YA27"
+    },
+    {
+      "album": {
+        "name": "Star Lights",
+        "url": "https://open.spotify.com/album/4hbeKG9EsVjY1Gbq8nyQVL"
+      },
+      "artists": [
+        {
+          "name": "Lil\u2019Yukichi",
+          "url": "https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-19",
+      "duration_ms": 101647,
+      "name": "Star Lights",
+      "url": "https://open.spotify.com/track/0ZvsCTEVn63usqC4Btqrvl"
+    },
+    {
+      "album": {
+        "name": "Star Lights",
+        "url": "https://open.spotify.com/album/7oHXU8KZZGtIBTj5HspiwL"
+      },
+      "artists": [
+        {
+          "name": "Lil\u2019Yukichi",
+          "url": "https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101647,
+      "name": "Star Lights",
+      "url": "https://open.spotify.com/track/42JJrR4kPouaRq8as9BrTI"
     },
     {
       "album": {
@@ -8118,6 +8374,24 @@
     },
     {
       "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/410FsKhVRXwSwirbTh7e4I"
+      },
+      "artists": [
+        {
+          "name": "ORANCHA",
+          "url": "https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170109,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/4RFvGz9n1dEYU1yuYMu8VV"
+    },
+    {
+      "album": {
         "name": "Summer",
         "url": "https://open.spotify.com/album/5DFxKYeiJlGGx3zCbX3ocT"
       },
@@ -8331,7 +8605,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 158117,
       "name": "Swing",
       "url": "https://open.spotify.com/track/03EMUB8q3QAkssNRXzTC6f"
@@ -9259,10 +9533,28 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-11-13",
       "duration_ms": 144950,
       "name": "Watermelon",
       "url": "https://open.spotify.com/track/0TvOd8xIdLDskPEgrpb0XF"
+    },
+    {
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/410FsKhVRXwSwirbTh7e4I"
+      },
+      "artists": [
+        {
+          "name": "ORANCHA",
+          "url": "https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144950,
+      "name": "Watermelon",
+      "url": "https://open.spotify.com/track/5wo4xHKqCKHO7pdMVXGjRC"
     },
     {
       "album": {
@@ -9454,6 +9746,28 @@
     },
     {
       "album": {
+        "name": "wooden piano",
+        "url": "https://open.spotify.com/album/5hwhvjxUQrZslxfCpduJZq"
+      },
+      "artists": [
+        {
+          "name": "mimii",
+          "url": "https://open.spotify.com/artist/5etiKSmq26ACCmKPKHB2eA"
+        },
+        {
+          "name": "Lazy Noodles",
+          "url": "https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-25",
+      "duration_ms": 80842,
+      "name": "wooden piano",
+      "url": "https://open.spotify.com/track/6nZ5BZikC0DyOFpInapHCn"
+    },
+    {
+      "album": {
         "name": "XO",
         "url": "https://open.spotify.com/album/4GbRETxpxr4bikdN7bj5HN"
       },
@@ -9589,10 +9903,28 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-25",
       "duration_ms": 155670,
       "name": "Yufuin",
       "url": "https://open.spotify.com/track/1WXrXjZVbnM34rCfw5NXd9"
+    },
+    {
+      "album": {
+        "name": "Yuragi",
+        "url": "https://open.spotify.com/album/4RwDaGLhqu0SlxNdXIB3ST"
+      },
+      "artists": [
+        {
+          "name": "maeshima soshi",
+          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134291,
+      "name": "Yuragi",
+      "url": "https://open.spotify.com/track/0vedxKV2iuK0EB868iTF42"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfYLmYuBPaf.md) - [plain]
 
 > Reggae tracks from the Arab world\. Cover: <a href="spotify:artist:6Gej8kFQeKbjY7dS9HXu1w">Ahmed Ben Ali</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,477 likes - 60 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,061 likes - 60 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfYLmYuBPaf.md) - [plain]
 | 4 | [El Amor](https://open.spotify.com/track/6vtvViTUUXxoP9pEWrEwab) | [Youss](https://open.spotify.com/artist/102uYDhOmslO14gBBTpOz8) | [Wlidi](https://open.spotify.com/album/2DNiRSWUxaLKNAMIasxrai) | 4:12 |
 | 5 | [La connexió Algeriana](https://open.spotify.com/track/3kVhxwsxfQZ4Y4ebMICYFp) | [Raül Refree](https://open.spotify.com/artist/5TPIp7TiaJOVn2sZ4s4JDy), [Fermin Muguruza](https://open.spotify.com/artist/3fJaSjkcJrLV5JYot02ckk), [Joan Gariga](https://open.spotify.com/artist/49s6tMcv1JKs76x9PiXxoU), [Amel Zen](https://open.spotify.com/artist/4sbx11FEm2X0rXIdrUKm9k), [Madjid Fahem](https://open.spotify.com/artist/4r2IfAxqQFZ3NFOa44wA4w), [Yacine Belahcene](https://open.spotify.com/artist/231j8owyOr4h1PNelSs9MD) | [Black is Beltza \(Soinu\-banda\)](https://open.spotify.com/album/55mpYFZNTBOYBy7fiIW3PE) | 4:38 |
 | 6 | [Dir l'masque](https://open.spotify.com/track/12hnTtIHD7lZedD4Uzyc97) | [Mobydick](https://open.spotify.com/artist/1GJFMvl7YNCHPCFbIJfoXz) | [Dir l'masque](https://open.spotify.com/album/1GwXJZsUyZ2PWlIs1TFHtl) | 3:50 |
-| 7 | [Dameek Majeb](https://open.spotify.com/track/7rAL1ZoOYJPm99eEXirsdW) | [Ahmed Ben Ali](https://open.spotify.com/artist/6Gej8kFQeKbjY7dS9HXu1w) | [Subhana \(Habibi Funk 012\)](https://open.spotify.com/album/2ppquFRzC1KIUJC1Sjv2Eo) | 4:16 |
+| 7 | [Dameek Majeb](https://open.spotify.com/track/5T2fEj5W670f2PfDtz1k8V) | [Ahmed Ben Ali](https://open.spotify.com/artist/6Gej8kFQeKbjY7dS9HXu1w) | [Subhana \(Habibi Funk 012\)](https://open.spotify.com/album/53dT1l75UAQQlqCRl2IZRY) | 4:16 |
 | 8 | [Machi khellata](https://open.spotify.com/track/0xuuDsqREUa3YHuHiBtE3C) | [Youss](https://open.spotify.com/artist/102uYDhOmslO14gBBTpOz8) | [Darkman](https://open.spotify.com/album/7LCcMYEPw7470IOqjb420M) | 6:16 |
 | 9 | [Soudani](https://open.spotify.com/track/4PH29GIlJAYrQse5wQ1fIV) | [Hamid El Gnawi](https://open.spotify.com/artist/4xLi9gEjLRTw3MdQYwrfYG) | [Gnawa Fusion, Vol\. 1](https://open.spotify.com/album/1KYi4Hx9USuRDd8Ruu2Rap) | 5:12 |
 | 10 | [Calm Before The Storm](https://open.spotify.com/track/39A7pVt4KvMrO6FudUFZmG) | [Esther Eden](https://open.spotify.com/artist/51mIT66wqhRNMHACFzatPI), [Karrouhat](https://open.spotify.com/artist/1ca8evgff0ji6y6E1PmO6G) | [Red Bull Presents Bel Sodfa](https://open.spotify.com/album/4OHGHCRrdm9jfeJAzVlx1a) | 3:42 |
@@ -47,11 +47,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfYLmYuBPaf.md) - [plain]
 | 37 | [Ya Rabi](https://open.spotify.com/track/4e7bLSepWKZrjYu8N1p82c) | [Youss](https://open.spotify.com/artist/102uYDhOmslO14gBBTpOz8) | [Wlidi](https://open.spotify.com/album/2DNiRSWUxaLKNAMIasxrai) | 4:07 |
 | 38 | [Bienvenue à Qc](https://open.spotify.com/track/7bYau7jk3zqMAP4aEzSmyt) | [King Abid](https://open.spotify.com/artist/4HrUvp3jnQVrTPm2Cx6r1b) | [EMERIKIA](https://open.spotify.com/album/60BqFsqe8BJiiJXt5SwOZU) | 3:59 |
 | 39 | [Mnam](https://open.spotify.com/track/2Sf3tqzeuPldmDH1hDgzd2) | [Babylone](https://open.spotify.com/artist/4sP2g2ixZhad5ZlxPirn8i) | [Brya](https://open.spotify.com/album/7wl8WPzTXuaewp6SeYGFXe) | 3:41 |
-| 40 | [Subhana](https://open.spotify.com/track/6sDmNtyDHv4WModGvSiRSd) | [Ahmed Ben Ali](https://open.spotify.com/artist/6Gej8kFQeKbjY7dS9HXu1w) | [Subhana \(Habibi Funk 012\)](https://open.spotify.com/album/2ppquFRzC1KIUJC1Sjv2Eo) | 5:00 |
+| 40 | [Subhana](https://open.spotify.com/track/28pnHNZWzhn2HJ13zatziE) | [Ahmed Ben Ali](https://open.spotify.com/artist/6Gej8kFQeKbjY7dS9HXu1w) | [Subhana \(Habibi Funk 012\)](https://open.spotify.com/album/53dT1l75UAQQlqCRl2IZRY) | 5:00 |
 | 41 | [Manama](https://open.spotify.com/track/3zOixogOi4v75PI7bkws2O) | [Dub Caravan](https://open.spotify.com/artist/7BhIlI9vRbaE1i1bYm81ZF), [Almukhtar](https://open.spotify.com/artist/7ekEnaplxNFP0jh9hiyeM8) | [Manama](https://open.spotify.com/album/3pnLlR5wQ08LWbyb93clqe) | 3:40 |
 | 42 | [Dima Zehi](https://open.spotify.com/track/4WHGYUWiBgmwn0Bw2IyLJs) | [Kafon](https://open.spotify.com/artist/1g7CL458gLNv8UY3W2IFBw) | [Dima Zehi](https://open.spotify.com/album/0OoEvRIh666xcTW5NJ8OOE) | 2:53 |
 | 43 | [Noora](https://open.spotify.com/track/6GoVvqQoJi8V3Y5HFPW7ka) | [TootArd](https://open.spotify.com/artist/7nSWA1659h0Vb1EyjJdSFV) | [Nuri Andaburi](https://open.spotify.com/album/2z9NRfIRM54Rp7b7IUOFDr) | 3:10 |
-| 44 | [Hadari](https://open.spotify.com/track/5Cqvq0TJINqcWseUgjNde1) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [El Mutakallimûn](https://open.spotify.com/album/5iqydn2GwqvYMFyzUv2G22) | 3:50 |
+| 44 | [Hadari](https://open.spotify.com/track/2YDgEdu3uJdUYVh5FpjpzQ) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [El Mutakallimûn](https://open.spotify.com/album/3obSjSc8Qljp8szZDgnxrb) | 3:50 |
 | 45 | [Ymor Zmen](https://open.spotify.com/track/0IXWvrIUbFtCTTSQn9oZ0b) | [Haydar Hamdi](https://open.spotify.com/artist/20ZV4HCxM3dBlKTWIhZglN) | [Fikra](https://open.spotify.com/album/6m08yFBF4tijgdvwfJTVE3) | 4:05 |
 | 46 | [Tika Tika](https://open.spotify.com/track/7Ii3cWYMiQt18YiZbkYOJh) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv), [Tchotcho](https://open.spotify.com/artist/3UG63kf0QuUZSTK15rJtkb) | [Tika Tika](https://open.spotify.com/album/2TxQgwTTSlAjmx6M5ln2oq) | 3:14 |
 | 47 | [Io Sono Tunisino \(feat\. Jamloun\)](https://open.spotify.com/track/6u2bdvyZOKbkO01mvcDwks) | [Neshez](https://open.spotify.com/artist/0QvqvkYDw8YXk6A6HBODpq), [Jamloun](https://open.spotify.com/artist/1frFDCoeQDBLGVbVYfP10g) | [Neshez \- Musique Originale Du Film "Vhs\-Kahloucha"](https://open.spotify.com/album/62PBLl9jsv9ILgclz1c2SW) | 3:14 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfYLmYuBPaf.md) - [plain]
 | 54 | [General Suleiman](https://open.spotify.com/track/72M5udVFetsH9Ga6i25no7) | [Zeid and the Wings](https://open.spotify.com/artist/262WKWZkp6ZpLUyxOVyPZi) | [General Suleiman \- Single](https://open.spotify.com/album/3v9aU2QPhQOcDQYt06WGmX) | 3:10 |
 | 55 | [Fech Tchoufi](https://open.spotify.com/track/5LTuAtrv6O3ex7dvULOuA3) | [Haydar Hamdi](https://open.spotify.com/artist/20ZV4HCxM3dBlKTWIhZglN) | [Fikra](https://open.spotify.com/album/6m08yFBF4tijgdvwfJTVE3) | 4:21 |
 | 56 | [بيتي العتيق](https://open.spotify.com/track/7zHLx1NIvAvrwfs89hKNvf) | [Walla'at](https://open.spotify.com/artist/1s4nBceqZ8lEO9BaL5YZGe) | [عندي شو ما بدي](https://open.spotify.com/album/6ARv46xQRJZsE5C78g4mFS) | 4:25 |
-| 57 | [Alladin Dub](https://open.spotify.com/track/2nx1z24jfU0GlxZRla9ZG9) | [The Spy From Cairo](https://open.spotify.com/artist/36C73GYwgP8rqwCjUyswoS) | [Arabadub](https://open.spotify.com/album/1SV6bIoG7MNh0RyQZESMBE) | 4:15 |
+| 57 | [Alladin Dub](https://open.spotify.com/track/5TDO53RXRn8fuB1xo47Hrk) | [The Spy From Cairo](https://open.spotify.com/artist/36C73GYwgP8rqwCjUyswoS) | [Arabadub](https://open.spotify.com/album/4hZHrfd5gUsmfuM8npYu4X) | 4:15 |
 | 58 | [Jeena](https://open.spotify.com/track/16RzfZHB5vfKfcXjY0brkN) | [TootArd](https://open.spotify.com/artist/7nSWA1659h0Vb1EyjJdSFV) | [Nuri Andaburi](https://open.spotify.com/album/2z9NRfIRM54Rp7b7IUOFDr) | 4:24 |
 | 59 | [Ya laymi](https://open.spotify.com/track/6ikQHuDvuzgy9oReEn0liD) | [Gnawa Diffusion](https://open.spotify.com/artist/4s0srRj9YXjM8J0TK2QVzP) | [Audio\-Globine : 20 ans d'âge](https://open.spotify.com/album/5T6scDxONEFqRWIwz129WF) | 8:54 |
 | 60 | [Lashog Altareeg](https://open.spotify.com/track/4A6i6Z0GPCCeY7npuXiEIr) | [Atef Malhas](https://open.spotify.com/artist/6gm05jmgIx3YvLtzl1GDas) | [Lashog Altareeg](https://open.spotify.com/album/6fVhr3f0XOtKdmMmjSauL7) | 3:40 |
 
-Snapshot ID: `MTYyODY0NjEyMSwwMDAwMDAwMDNjMDk2NmIwODliNDdmZGZmYmQxMmIyOThlZDYyNDll`
+Snapshot ID: `MTYyODY0NjEyMSwwMDAwMDAwMDM3NDQ4ZWZmNjQ4MmQ1Y2IyZWE4YzkwYjdmOGRlYmY5`

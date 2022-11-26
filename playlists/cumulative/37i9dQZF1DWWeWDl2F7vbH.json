@@ -120,6 +120,24 @@
     },
     {
       "album": {
+        "name": "Acid Tracks",
+        "url": "https://open.spotify.com/album/3yXJAOqJTv38NrPlwzCZro"
+      },
+      "artists": [
+        {
+          "name": "Phuture",
+          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
+        }
+      ],
+      "date_added": "2021-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 739626,
+      "name": "Acid Tracks",
+      "url": "https://open.spotify.com/track/63eiF9VouGtmhiBKjm1LHU"
+    },
+    {
+      "album": {
         "name": "Altered States Blak Tech Society (Remixes and Rethinks)",
         "url": "https://open.spotify.com/album/3jBDwYYSaq2mvWLaQbjx5Q"
       },
@@ -763,6 +781,24 @@
       "duration_ms": 392489,
       "name": "Life Is Like A Circle",
       "url": "https://open.spotify.com/track/1UP4rDAPPP9MwyUCFGAbWA"
+    },
+    {
+      "album": {
+        "name": "Love Can't Turn Around",
+        "url": "https://open.spotify.com/album/6dHZ3tQRgpTTDml5Ed6mn1"
+      },
+      "artists": [
+        {
+          "name": "Darryl Pandy",
+          "url": "https://open.spotify.com/artist/4DdTAu2ze9ocUPqcFg1sKs"
+        }
+      ],
+      "date_added": "2021-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 253000,
+      "name": "Love Can't Turn Around",
+      "url": "https://open.spotify.com/track/3VkRZoBcxH9YElQmuuup7U"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Serving up your favorite songs about snacks!
 
-38 songs - 1 hr 24 min - [published](https://open.spotify.com/playlist/13MRTFFYUMBnQ24Jf2e69H)
+41 songs - 1 hr 31 min - [published](https://open.spotify.com/playlist/13MRTFFYUMBnQ24Jf2e69H)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,9 @@
 | [Ice Cream \(Scoopy Doo\)](https://open.spotify.com/track/0H1pkHp6A8mfCHsuf6s90j) | [The MikMaks](https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF) | [Ice Cream \(Scoopy Doo\)](https://open.spotify.com/album/28BjXfGmMdf2geHjPVezfZ) | 2:33 | 2021-01-08 |  |
 | [Ice Cream Song](https://open.spotify.com/track/1lrTu8P1TrX3IzRlc4Zcn0) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Kids Songs](https://open.spotify.com/album/0iSrS0QaUXaJjR5GXDncC2) | 2:02 | 2021-01-08 |  |
 | [Let's Pop Some Corn](https://open.spotify.com/track/2yMrFLzJaxY3oERXAX7R1o) | [Kymberly Stewart](https://open.spotify.com/artist/6ZyiT23t4CIQS7trCGpV1f) | [Giggles & Curls](https://open.spotify.com/album/6tMvNrQCjIf7dZGyvUmvpM) | 2:42 | 2021-04-05 |  |
-| [My Favorite Snack](https://open.spotify.com/track/16fs8Zn53hURmvswqPxHOc) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Good Ideas](https://open.spotify.com/album/1Uz91yvWTiomeFibfqP761) | 2:09 | 2021-01-08 |  |
+| [My Favorite Snack](https://open.spotify.com/track/27FtRxsXJxxzuxYMC4eJo4) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Juice Box Heroes](https://open.spotify.com/album/2AQwQmEdTsVDEzuOeQ4Pna) | 2:09 | 2021-01-08 |  |
+| [My Favorite Snack](https://open.spotify.com/track/16fs8Zn53hURmvswqPxHOc) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Good Ideas](https://open.spotify.com/album/1Uz91yvWTiomeFibfqP761) | 2:09 | 2021-01-08 | 2022-10-27 |
+| [My Favorite Snack](https://open.spotify.com/track/1zrcMESKYFeSVq7uwhBp8F) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Good Ideas](https://open.spotify.com/album/1i8TZqSzAGr0IfHRhvkP1b) | 2:09 | 2021-01-08 | 2022-11-13 |
 | [Peanut Butter Sandwich](https://open.spotify.com/track/0b2fS5eCN4TxvYsE8ct1Zr) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [Fun Food Songs](https://open.spotify.com/album/24wfwTCNevTGgV2acA4jhR) | 0:58 | 2021-01-08 |  |
 | [Peanut Butter Toast](https://open.spotify.com/track/6NohpfYGyT8JzHNRlFYtjY) | [Peanut Butter Jams](https://open.spotify.com/artist/2kvrXvmS6qLg14n8Z9WZZq) | [Kitchen Dance Party](https://open.spotify.com/album/7Kc3AF4vCj9Dl1tqRmt4U6) | 3:30 | 2021-04-21 |  |
 | [Pie](https://open.spotify.com/track/0TZBFGATIhsjkhxKigJuQm) | [Brady Rymer and the Little Band That Could](https://open.spotify.com/artist/2q0R0ObitsBJIp1sMtfHz6) | [Brady Rymer & The Little Band That Could](https://open.spotify.com/album/1RQo08B3Zf07gHIVxyOiQT) | 3:35 | 2021-01-08 |  |
@@ -37,7 +39,8 @@
 | [Popcorn Calling Me](https://open.spotify.com/track/3C5udcs2yXK7uireCnMSJc) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner's Food Songs](https://open.spotify.com/album/1wQoxA5ERdJj7VNn25amOO) | 1:40 | 2021-01-08 |  |
 | [Raise Your Snack](https://open.spotify.com/track/472BQV4zdV55S4ZU3d3N1f) | [Juice Box Heroes](https://open.spotify.com/artist/59jD6ZyWCyKIXj7wbUMgZs) | [Raise Your Snack](https://open.spotify.com/album/4lwwIcacPugmBh6g8JOl3v) | 3:25 | 2021-01-08 |  |
 | [Raspberry Song](https://open.spotify.com/track/0chjU4hjfdQpTBrhyIsIZc) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi Tunes, Vol\. 5: Exploring the World](https://open.spotify.com/album/0qqCf7BPth3LnZHHPgJDPb) | 2:12 | 2021-10-01 |  |
-| [Snackin' ABCs](https://open.spotify.com/track/0TIVHOr1SANDQgcUwE4X4J) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Good Ideas](https://open.spotify.com/album/1Uz91yvWTiomeFibfqP761) | 2:08 | 2021-01-08 |  |
+| [Snackin' ABCs](https://open.spotify.com/track/0TIVHOr1SANDQgcUwE4X4J) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Good Ideas](https://open.spotify.com/album/1Uz91yvWTiomeFibfqP761) | 2:08 | 2021-01-08 | 2022-10-27 |
+| [Snackin' Abcs](https://open.spotify.com/track/1Jl95zr9ybVGQztCSXQeIG) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Good Ideas](https://open.spotify.com/album/1i8TZqSzAGr0IfHRhvkP1b) | 2:09 | 2021-01-08 |  |
 | [Snappy Snacks](https://open.spotify.com/track/0Mh5zappoVaOF7vVG0yRq6) | [Bobs & Lolo](https://open.spotify.com/artist/23hMSJlSk68cUMqC9tzJv7) | [Action Packed](https://open.spotify.com/album/4jHqXFTP4MNYDlLDF8hvup) | 1:48 | 2021-01-08 |  |
 | [Snappy Snacks](https://open.spotify.com/track/3gOr8uAaAQXesKnbA0jjDl) | [Bobs & Lolo](https://open.spotify.com/artist/23hMSJlSk68cUMqC9tzJv7) | [Action Packed](https://open.spotify.com/album/0X4VrPqOCHipLq95zbcJG0) | 1:48 | 2021-01-08 | 2022-07-29 |
 | [The Popcorn Song](https://open.spotify.com/track/5ZSzzoznk60EPLeBmOqeNE) | [Barney](https://open.spotify.com/artist/4rB5wLJLaXdMrXaYsOYLmK) | [Start Singing with Barney](https://open.spotify.com/album/3AxlaORIaUzvFupsxC06yh) | 1:20 | 2021-01-08 |  |

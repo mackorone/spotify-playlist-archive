@@ -4,7 +4,7 @@
 
 > NCTzens' go\-to place for all things NCT.
 
-153 songs - 8 hr 58 min - [published](https://open.spotify.com/playlist/6hDx4vvNpXjfh4hvd24tkm)
+155 songs - 9 hr 6 min - [published](https://open.spotify.com/playlist/6hDx4vvNpXjfh4hvd24tkm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Love Again](https://open.spotify.com/track/2eqehaP6hg04FQ82CLErFd) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Reload](https://open.spotify.com/album/1V5ilz8ghPl1PZJA1hbw3r) | 3:30 | 2021-12-16 |  |
 | [Love Me Now](https://open.spotify.com/track/1QLLNLd32qDJjsH1UPPMkp) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone \- The 2nd Album](https://open.spotify.com/album/5YHFKsjb0e5q8Smb2CBUl7) | 4:08 | 2021-12-16 | 2022-07-29 |
 | [Love Me Now](https://open.spotify.com/track/1rERmGg7Aywj0Wbv9uVDvV) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone \- The 2nd Album](https://open.spotify.com/album/5YOvg682zFOleCiSndLnZr) | 4:08 | 2021-12-16 |  |
+| [Love Me Now](https://open.spotify.com/track/3pyNUDyPRMG1pY2zVg3Lxl) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone: The Final Round \- The 2nd Album Repackage](https://open.spotify.com/album/64F7bFLt8ULAfBl2L4Pyv4) | 4:08 | 2021-12-16 | 2022-11-13 |
 | [Love On The Floor](https://open.spotify.com/track/2bLWH1IymYtuUNsT2fA14h) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Favorite \- The 3rd Album Repackage](https://open.spotify.com/album/3xn5tn8JNMlJf3sISHONUy) | 3:38 | 2021-12-16 | 2022-07-29 |
 | [Love On The Floor](https://open.spotify.com/track/2qDEhEy3vSZYFVgWbRChzw) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Favorite \- The 3rd Album Repackage](https://open.spotify.com/album/5LbnQtyHBfJUCigA08llHX) | 3:38 | 2021-12-16 |  |
 | [Love Song](https://open.spotify.com/track/2oKAC0Dv0EEEWaECVmZzyp) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone \- The 2nd Album](https://open.spotify.com/album/5YHFKsjb0e5q8Smb2CBUl7) | 3:35 | 2021-12-16 | 2022-07-29 |
@@ -146,6 +147,7 @@
 | [The 7th Sense](https://open.spotify.com/track/0m6knGAWrs6bJfrN0zZ9Qy) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [The 7th Sense](https://open.spotify.com/album/2KoMEmCKBgM44bNykHEYtL) | 3:34 | 2021-12-16 | 2022-07-29 |
 | [The Rainy Night](https://open.spotify.com/track/0AY4qmK5YRpqSpGsnjskDK) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Sticker \- The 3rd Album](https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad) | 3:19 | 2021-12-16 |  |
 | [TOUCH](https://open.spotify.com/track/1mdEvT7X3Rs7vL75fRb8oo) | [NCT](https://open.spotify.com/artist/48eO052eSDcn8aTxiv6QaG), [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT 2018 EMPATHY](https://open.spotify.com/album/3KAJvo62RNQEtXwIyB5rzX) | 3:09 | 2021-12-16 |  |
+| [Universe \(Let's Play Ball\)](https://open.spotify.com/track/0S38pb0gNLNpOeyV3w9gXb) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Universe \- The 3rd Album](https://open.spotify.com/album/7woFc7Z4JMbLFjvlIoCCQB) | 3:51 | 2021-12-16 | 2022-11-13 |
 | [Universe \(Let's Play Ball\)](https://open.spotify.com/track/5Uy5zCjHo0NEg9GNW1LSZn) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Universe \- The 3rd Album](https://open.spotify.com/album/3oc1LdV5V128z8fCtAX3Xs) | 3:51 | 2021-12-16 | 2022-07-29 |
 | [Universe \(Let's Play Ball\)](https://open.spotify.com/track/6hHrPwQYGp9kPL7xLZviBS) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Universe \(Let's Play Ball\)](https://open.spotify.com/album/31BJasH9nLradtMdJEIDXk) | 3:51 | 2021-12-16 |  |
 | [Volcano](https://open.spotify.com/track/6hDCyfYxpPdsPufg2ap1RH) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [NCT RESONANCE Pt\. 1 \- The 2nd Album](https://open.spotify.com/album/6kudlOyCqSQfsBVSdPZEu4) | 3:48 | 2021-12-16 |  |

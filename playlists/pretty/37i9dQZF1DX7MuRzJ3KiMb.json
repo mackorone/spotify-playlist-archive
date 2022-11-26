@@ -1,12 +1,12 @@
 {
   "description": "el amor es <3",
-  "num_followers": 32725,
+  "num_followers": 35958,
   "original_name": "cursi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk3NTMyNSwwMDAwMDAwMDg2NTA4MTE5ZjBjNzFhYjU1YmM2NmUwMDQ0ZTUyODdh",
+  "snapshot_id": "MTY2Mzk3NTMyNSwwMDAwMDAwMDg4NzhiNmFmMDFlY2IyOGYxNDk0ODU0YmYyMjFjNmE1",
   "tracks": [
     {
       "added_at": "2022-09-23 23:22:05",
@@ -107,18 +107,18 @@
     {
       "added_at": "2022-09-23 23:22:05",
       "album": {
-        "name": "Miel",
-        "url": "https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B"
+        "name": "AURORA",
+        "url": "https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs"
       },
       "artists": [
         {
-          "name": "Lauri Garcia",
-          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
         }
       ],
-      "duration_ms": 124589,
-      "name": "Miel",
-      "url": "https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ"
+      "duration_ms": 262309,
+      "name": "AMOR DE CINE",
+      "url": "https://open.spotify.com/track/0v9UztY5A12cJUsWD7PZzS"
     },
     {
       "added_at": "2022-09-23 23:22:05",
@@ -175,6 +175,22 @@
     {
       "added_at": "2022-09-23 23:22:05",
       "album": {
+        "name": "Miel",
+        "url": "https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B"
+      },
+      "artists": [
+        {
+          "name": "Lauri Garcia",
+          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
+        }
+      ],
+      "duration_ms": 124589,
+      "name": "Miel",
+      "url": "https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ"
+    },
+    {
+      "added_at": "2022-09-23 23:22:05",
+      "album": {
         "name": "00:00",
         "url": "https://open.spotify.com/album/4sN1ZUO6ZncV2XpLS0iKS8"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 215251,
       "name": "00:00",
       "url": "https://open.spotify.com/track/1o1O7nDie7zzsdHKZxhgQD"
-    },
-    {
-      "added_at": "2022-09-23 23:22:05",
-      "album": {
-        "name": "AURORA",
-        "url": "https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs"
-      },
-      "artists": [
-        {
-          "name": "Humbe",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 262309,
-      "name": "AMOR DE CINE",
-      "url": "https://open.spotify.com/track/0v9UztY5A12cJUsWD7PZzS"
     },
     {
       "added_at": "2022-09-23 23:22:05",
@@ -311,6 +311,42 @@
     {
       "added_at": "2022-09-23 23:22:05",
       "album": {
+        "name": "Una Vez M\u00e1s",
+        "url": "https://open.spotify.com/album/1mri8yUsQmnnkyKDAYA9pC"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 245062,
+      "name": "Una Vez M\u00e1s",
+      "url": "https://open.spotify.com/track/2chfSxiJbU8B8jpEHyuNm2"
+    },
+    {
+      "added_at": "2022-09-23 23:22:05",
+      "album": {
+        "name": "Torpe",
+        "url": "https://open.spotify.com/album/0V3VrTi9ioSHgy4kM9aRf4"
+      },
+      "artists": [
+        {
+          "name": "Los Rumberos",
+          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
+        },
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        }
+      ],
+      "duration_ms": 252534,
+      "name": "Torpe",
+      "url": "https://open.spotify.com/track/7K1fAw9P8R73Sc6CpgIgJH"
+    },
+    {
+      "added_at": "2022-09-23 23:22:05",
+      "album": {
         "name": "Florecer",
         "url": "https://open.spotify.com/album/3KvbOKpjZB95IwRwnW0TZk"
       },
@@ -343,58 +379,6 @@
       "duration_ms": 251760,
       "name": "Quer\u00eda Volverte a Ver",
       "url": "https://open.spotify.com/track/2o5rzkYatnrHVUYrCbRFnE"
-    },
-    {
-      "added_at": "2022-09-23 23:22:05",
-      "album": {
-        "name": "Torpe",
-        "url": "https://open.spotify.com/album/0V3VrTi9ioSHgy4kM9aRf4"
-      },
-      "artists": [
-        {
-          "name": "Los Rumberos",
-          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
-        },
-        {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
-        }
-      ],
-      "duration_ms": 252534,
-      "name": "Torpe",
-      "url": "https://open.spotify.com/track/7K1fAw9P8R73Sc6CpgIgJH"
-    },
-    {
-      "added_at": "2022-09-23 23:22:05",
-      "album": {
-        "name": "Una Vez M\u00e1s",
-        "url": "https://open.spotify.com/album/1mri8yUsQmnnkyKDAYA9pC"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 245062,
-      "name": "Una Vez M\u00e1s",
-      "url": "https://open.spotify.com/track/2chfSxiJbU8B8jpEHyuNm2"
-    },
-    {
-      "added_at": "2022-09-23 23:22:05",
-      "album": {
-        "name": "Nenita",
-        "url": "https://open.spotify.com/album/452AFjVFW2pvZlAFOPUoFS"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 203973,
-      "name": "Nenita",
-      "url": "https://open.spotify.com/track/0R8sg8rEFSQ5Nc3Becf6c9"
     },
     {
       "added_at": "2022-09-23 23:22:05",
@@ -455,6 +439,22 @@
     {
       "added_at": "2022-09-23 23:22:05",
       "album": {
+        "name": "Nenita",
+        "url": "https://open.spotify.com/album/452AFjVFW2pvZlAFOPUoFS"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 203973,
+      "name": "Nenita",
+      "url": "https://open.spotify.com/track/0R8sg8rEFSQ5Nc3Becf6c9"
+    },
+    {
+      "added_at": "2022-09-23 23:22:05",
+      "album": {
         "name": "Bailemos en la Sala",
         "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
       },
@@ -471,6 +471,22 @@
       "duration_ms": 211400,
       "name": "Una Noche M\u00e1s",
       "url": "https://open.spotify.com/track/42yqhdvpet3rMgwnfbibh8"
+    },
+    {
+      "added_at": "2022-09-23 23:22:05",
+      "album": {
+        "name": "Tengo Algo Que Decirte",
+        "url": "https://open.spotify.com/album/58XueoPsoMzd3nzH2s8B9A"
+      },
+      "artists": [
+        {
+          "name": "Luz Pinos",
+          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
+        }
+      ],
+      "duration_ms": 206546,
+      "name": "Tengo Algo Que Decirte",
+      "url": "https://open.spotify.com/track/5Ntox2jSrDcVUKOoW0TYHG"
     },
     {
       "added_at": "2022-09-23 23:22:05",
@@ -495,38 +511,54 @@
     {
       "added_at": "2022-09-23 23:22:05",
       "album": {
-        "name": "Aline",
-        "url": "https://open.spotify.com/album/0e451EeVCDPZiKhd3AMglE"
+        "name": "Mientras T\u00fa Dorm\u00edas",
+        "url": "https://open.spotify.com/album/7l2XHKAWiZMr2A7wFiZl8Z"
       },
       "artists": [
         {
-          "name": "Adan Jodorowsky",
-          "url": "https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
         }
       ],
-      "duration_ms": 156240,
-      "name": "Aline",
-      "url": "https://open.spotify.com/track/7eX2kEXRsALMvA4sf1CZS2"
+      "duration_ms": 259079,
+      "name": "Compartir",
+      "url": "https://open.spotify.com/track/5E0Jl45E0UWwZ4H9VhnI9i"
     },
     {
       "added_at": "2022-09-23 23:22:05",
       "album": {
-        "name": "Tengo Algo Que Decirte",
-        "url": "https://open.spotify.com/album/58XueoPsoMzd3nzH2s8B9A"
+        "name": "SUPERSTICIONES",
+        "url": "https://open.spotify.com/album/448b1zlK215QOb8UvFNzpu"
       },
       "artists": [
         {
-          "name": "Luz Pinos",
-          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        },
+        {
+          "name": "Goyo Degano",
+          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
         }
       ],
-      "duration_ms": 206546,
-      "name": "Tengo Algo Que Decirte",
-      "url": "https://open.spotify.com/track/5Ntox2jSrDcVUKOoW0TYHG"
+      "duration_ms": 235865,
+      "name": "Intensidad",
+      "url": "https://open.spotify.com/track/7MPKbeCWeCljobb31x7kVI"
+    },
+    {
+      "added_at": "2022-09-23 23:22:05",
+      "album": {
+        "name": "Tu Pirata Soy Yo",
+        "url": "https://open.spotify.com/album/3CK1MWQvuf8LVJWhmldkUU"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "duration_ms": 167586,
+      "name": "Tu Pirata Soy Yo",
+      "url": "https://open.spotify.com/track/6O1o9VfjMgZEZeir5Ws6pF"
     },
     {
       "added_at": "2022-09-23 23:22:05",
@@ -551,70 +583,22 @@
     {
       "added_at": "2022-09-23 23:22:05",
       "album": {
-        "name": "Mientras T\u00fa Dorm\u00edas",
-        "url": "https://open.spotify.com/album/7l2XHKAWiZMr2A7wFiZl8Z"
+        "name": "Aline",
+        "url": "https://open.spotify.com/album/0e451EeVCDPZiKhd3AMglE"
       },
       "artists": [
         {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 259079,
-      "name": "Compartir",
-      "url": "https://open.spotify.com/track/5E0Jl45E0UWwZ4H9VhnI9i"
-    },
-    {
-      "added_at": "2022-09-23 23:22:05",
-      "album": {
-        "name": "Tu Pirata Soy Yo",
-        "url": "https://open.spotify.com/album/3CK1MWQvuf8LVJWhmldkUU"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        }
-      ],
-      "duration_ms": 167586,
-      "name": "Tu Pirata Soy Yo",
-      "url": "https://open.spotify.com/track/6O1o9VfjMgZEZeir5Ws6pF"
-    },
-    {
-      "added_at": "2022-09-23 23:22:05",
-      "album": {
-        "name": "Si Volviera A Nacer",
-        "url": "https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 237320,
-      "name": "Hasta Que T\u00fa Me Quieras",
-      "url": "https://open.spotify.com/track/78PMNyj9nQ0GzWCgWLpWUr"
-    },
-    {
-      "added_at": "2022-09-23 23:22:05",
-      "album": {
-        "name": "SUPERSTICIONES",
-        "url": "https://open.spotify.com/album/448b1zlK215QOb8UvFNzpu"
-      },
-      "artists": [
-        {
-          "name": "Silvestre y La Naranja",
-          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+          "name": "Adan Jodorowsky",
+          "url": "https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag"
         },
         {
-          "name": "Goyo Degano",
-          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 235865,
-      "name": "Intensidad",
-      "url": "https://open.spotify.com/track/7MPKbeCWeCljobb31x7kVI"
+      "duration_ms": 156240,
+      "name": "Aline",
+      "url": "https://open.spotify.com/track/7eX2kEXRsALMvA4sf1CZS2"
     },
     {
       "added_at": "2022-09-23 23:22:05",
@@ -655,18 +639,18 @@
     {
       "added_at": "2022-09-23 23:22:05",
       "album": {
-        "name": "Ni Modo",
-        "url": "https://open.spotify.com/album/5YZRghq9Z477w06ZTlxCeX"
+        "name": "Si Volviera A Nacer",
+        "url": "https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq"
       },
       "artists": [
         {
-          "name": "Charlie Rodd",
-          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
         }
       ],
-      "duration_ms": 185058,
-      "name": "Ni Modo",
-      "url": "https://open.spotify.com/track/3qyeBuydjVtFbuJA0EAjC4"
+      "duration_ms": 237320,
+      "name": "Hasta Que T\u00fa Me Quieras",
+      "url": "https://open.spotify.com/track/78PMNyj9nQ0GzWCgWLpWUr"
     },
     {
       "added_at": "2022-09-23 23:22:05",
@@ -687,6 +671,22 @@
       "duration_ms": 185783,
       "name": "Tanto Amor",
       "url": "https://open.spotify.com/track/2DSBxnRi8Y1Tk4f0Am8pzA"
+    },
+    {
+      "added_at": "2022-09-23 23:22:05",
+      "album": {
+        "name": "Ni Modo",
+        "url": "https://open.spotify.com/album/5YZRghq9Z477w06ZTlxCeX"
+      },
+      "artists": [
+        {
+          "name": "Charlie Rodd",
+          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
+        }
+      ],
+      "duration_ms": 185058,
+      "name": "Ni Modo",
+      "url": "https://open.spotify.com/track/3qyeBuydjVtFbuJA0EAjC4"
     },
     {
       "added_at": "2022-09-23 23:22:05",
@@ -727,34 +727,18 @@
     {
       "added_at": "2022-09-23 23:22:05",
       "album": {
-        "name": "El Mejor Lugar",
-        "url": "https://open.spotify.com/album/7FaJGC4pNapPjJaZlrqIme"
+        "name": "Lugares Imaginarios",
+        "url": "https://open.spotify.com/album/6rNBDcsHr2MgGzkcDSKenA"
       },
       "artists": [
         {
-          "name": "Juan Vegas",
-          "url": "https://open.spotify.com/artist/5JPAV8i80oNekuSSZoFQ1G"
+          "name": "Sof\u00eda Campos",
+          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
         }
       ],
-      "duration_ms": 175214,
-      "name": "El Mejor Lugar",
-      "url": "https://open.spotify.com/track/6icYplg6aqvnUqNnYkHbbS"
-    },
-    {
-      "added_at": "2022-09-23 23:22:05",
-      "album": {
-        "name": "Bolero Estelar",
-        "url": "https://open.spotify.com/album/5m0fMRnEneLg8pZaoL9F4E"
-      },
-      "artists": [
-        {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
-        }
-      ],
-      "duration_ms": 238406,
-      "name": "Bolero Estelar",
-      "url": "https://open.spotify.com/track/46ZNN9JUQFl0LXiTLKKkMZ"
+      "duration_ms": 191141,
+      "name": "Amen\u00e1bar",
+      "url": "https://open.spotify.com/track/0xAwIlQCT43PGCe0BLnzr5"
     },
     {
       "added_at": "2022-09-23 23:22:05",
@@ -771,42 +755,6 @@
       "duration_ms": 167023,
       "name": "Sue\u0301ltate",
       "url": "https://open.spotify.com/track/7s0JfAkPxdB6BUzd7GEEiD"
-    },
-    {
-      "added_at": "2022-09-23 23:22:05",
-      "album": {
-        "name": "Bonito",
-        "url": "https://open.spotify.com/album/6LyiWORGEUBMbphHMdZNSL"
-      },
-      "artists": [
-        {
-          "name": "Mau Moctezuma",
-          "url": "https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q"
-        },
-        {
-          "name": "Pedrina",
-          "url": "https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1"
-        }
-      ],
-      "duration_ms": 183829,
-      "name": "Bonito",
-      "url": "https://open.spotify.com/track/0QvLRuiBiNN1BWa2oVKvNA"
-    },
-    {
-      "added_at": "2022-09-23 23:22:05",
-      "album": {
-        "name": "Se\u00f1orita",
-        "url": "https://open.spotify.com/album/6j6DsW88KYbKSe7qrzJLPE"
-      },
-      "artists": [
-        {
-          "name": "Felipe Botello y El Sonoro Rugir",
-          "url": "https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr"
-        }
-      ],
-      "duration_ms": 209866,
-      "name": "Se\u00f1orita",
-      "url": "https://open.spotify.com/track/7IOwZ2dsEZCg2NCeX7MCsm"
     },
     {
       "added_at": "2022-09-23 23:22:05",
@@ -831,18 +779,18 @@
     {
       "added_at": "2022-09-23 23:22:05",
       "album": {
-        "name": "Lugares Imaginarios",
-        "url": "https://open.spotify.com/album/6rNBDcsHr2MgGzkcDSKenA"
+        "name": "Bolero Estelar",
+        "url": "https://open.spotify.com/album/5m0fMRnEneLg8pZaoL9F4E"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Campos",
-          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
         }
       ],
-      "duration_ms": 191141,
-      "name": "Amen\u00e1bar",
-      "url": "https://open.spotify.com/track/0xAwIlQCT43PGCe0BLnzr5"
+      "duration_ms": 238406,
+      "name": "Bolero Estelar",
+      "url": "https://open.spotify.com/track/46ZNN9JUQFl0LXiTLKKkMZ"
     },
     {
       "added_at": "2022-09-23 23:22:05",
@@ -863,22 +811,22 @@
     {
       "added_at": "2022-09-23 23:22:05",
       "album": {
-        "name": "En Vivo Desde Tu Nostalgia",
-        "url": "https://open.spotify.com/album/56mFqd2JHQKSnOhiS6qVed"
+        "name": "Bonito",
+        "url": "https://open.spotify.com/album/6LyiWORGEUBMbphHMdZNSL"
       },
       "artists": [
         {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+          "name": "Mau Moctezuma",
+          "url": "https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q"
         },
         {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+          "name": "Pedrina",
+          "url": "https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1"
         }
       ],
-      "duration_ms": 224965,
-      "name": "Diez Pasos Hacia Ti - En Vivo",
-      "url": "https://open.spotify.com/track/0ROD7JL2jEvfmq2HdeINUH"
+      "duration_ms": 183829,
+      "name": "Bonito",
+      "url": "https://open.spotify.com/track/0QvLRuiBiNN1BWa2oVKvNA"
     },
     {
       "added_at": "2022-09-23 23:22:05",
@@ -919,18 +867,54 @@
     {
       "added_at": "2022-09-23 23:22:05",
       "album": {
-        "name": "Ir por un Caf\u00e9",
-        "url": "https://open.spotify.com/album/56uFQSAHC1c2PwWux1GeaD"
+        "name": "En Vivo Desde Tu Nostalgia",
+        "url": "https://open.spotify.com/album/56mFqd2JHQKSnOhiS6qVed"
       },
       "artists": [
         {
-          "name": "Ramona",
-          "url": "https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF"
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        },
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Ir por un Caf\u00e9",
-      "url": "https://open.spotify.com/track/0oYWgghilCHzscMzQOVONP"
+      "duration_ms": 224965,
+      "name": "Diez Pasos Hacia Ti - En Vivo",
+      "url": "https://open.spotify.com/track/0ROD7JL2jEvfmq2HdeINUH"
+    },
+    {
+      "added_at": "2022-09-23 23:22:05",
+      "album": {
+        "name": "El Mejor Lugar",
+        "url": "https://open.spotify.com/album/7FaJGC4pNapPjJaZlrqIme"
+      },
+      "artists": [
+        {
+          "name": "Juan Vegas",
+          "url": "https://open.spotify.com/artist/5JPAV8i80oNekuSSZoFQ1G"
+        }
+      ],
+      "duration_ms": 175214,
+      "name": "El Mejor Lugar",
+      "url": "https://open.spotify.com/track/6icYplg6aqvnUqNnYkHbbS"
+    },
+    {
+      "added_at": "2022-09-23 23:22:05",
+      "album": {
+        "name": "Se\u00f1orita",
+        "url": "https://open.spotify.com/album/6j6DsW88KYbKSe7qrzJLPE"
+      },
+      "artists": [
+        {
+          "name": "Felipe Botello y El Sonoro Rugir",
+          "url": "https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr"
+        }
+      ],
+      "duration_ms": 209866,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/7IOwZ2dsEZCg2NCeX7MCsm"
     },
     {
       "added_at": "2022-09-23 23:22:05",
@@ -955,22 +939,6 @@
     {
       "added_at": "2022-09-23 23:22:05",
       "album": {
-        "name": "Madre",
-        "url": "https://open.spotify.com/album/15yeAN5L3PVuz0LkvOrwmL"
-      },
-      "artists": [
-        {
-          "name": "Alejandro y Maria Laura",
-          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
-        }
-      ],
-      "duration_ms": 223921,
-      "name": "Lagrim\u00f3n",
-      "url": "https://open.spotify.com/track/2jXkchCKJP645dRwqohTLz"
-    },
-    {
-      "added_at": "2022-09-23 23:22:05",
-      "album": {
         "name": "NTDDP",
         "url": "https://open.spotify.com/album/0VO1hYeausUaErYssR77vQ"
       },
@@ -991,6 +959,22 @@
     {
       "added_at": "2022-09-23 23:22:05",
       "album": {
+        "name": "Madre",
+        "url": "https://open.spotify.com/album/15yeAN5L3PVuz0LkvOrwmL"
+      },
+      "artists": [
+        {
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+        }
+      ],
+      "duration_ms": 223921,
+      "name": "Lagrim\u00f3n",
+      "url": "https://open.spotify.com/track/2jXkchCKJP645dRwqohTLz"
+    },
+    {
+      "added_at": "2022-09-23 23:22:05",
+      "album": {
         "name": "L\u00ednea Recta",
         "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
       },
@@ -1003,6 +987,38 @@
       "duration_ms": 182760,
       "name": "Pasatiempo",
       "url": "https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc"
+    },
+    {
+      "added_at": "2022-09-23 23:22:05",
+      "album": {
+        "name": "Ir por un Caf\u00e9",
+        "url": "https://open.spotify.com/album/56uFQSAHC1c2PwWux1GeaD"
+      },
+      "artists": [
+        {
+          "name": "Ramona",
+          "url": "https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Ir por un Caf\u00e9",
+      "url": "https://open.spotify.com/track/0oYWgghilCHzscMzQOVONP"
+    },
+    {
+      "added_at": "2022-09-23 23:22:05",
+      "album": {
+        "name": "Volver",
+        "url": "https://open.spotify.com/album/68M1eXLRiP9zLQOZbmSth7"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 190006,
+      "name": "Volver",
+      "url": "https://open.spotify.com/track/0PSmtygePqmxByr5eh0HST"
     },
     {
       "added_at": "2022-09-23 23:22:05",
@@ -1063,22 +1079,6 @@
     {
       "added_at": "2022-09-23 23:22:05",
       "album": {
-        "name": "Volver",
-        "url": "https://open.spotify.com/album/68M1eXLRiP9zLQOZbmSth7"
-      },
-      "artists": [
-        {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
-        }
-      ],
-      "duration_ms": 190006,
-      "name": "Volver",
-      "url": "https://open.spotify.com/track/0PSmtygePqmxByr5eh0HST"
-    },
-    {
-      "added_at": "2022-09-23 23:22:05",
-      "album": {
         "name": "Cerquita del Mar",
         "url": "https://open.spotify.com/album/5GouiabFEFinoSTOy0DqQM"
       },
@@ -1111,38 +1111,6 @@
     {
       "added_at": "2022-09-23 23:22:05",
       "album": {
-        "name": "La Luna",
-        "url": "https://open.spotify.com/album/306wF31Hp5LNVkxfhDLOiV"
-      },
-      "artists": [
-        {
-          "name": "Valeria Jasso",
-          "url": "https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh"
-        }
-      ],
-      "duration_ms": 190609,
-      "name": "La Luna",
-      "url": "https://open.spotify.com/track/2V0S6dvMHkjtif1rOQqtzA"
-    },
-    {
-      "added_at": "2022-09-23 23:22:05",
-      "album": {
-        "name": "Florecer",
-        "url": "https://open.spotify.com/album/2YnrkkeJjgfytLHTHFn1h9"
-      },
-      "artists": [
-        {
-          "name": "Nicoletta Spinelli",
-          "url": "https://open.spotify.com/artist/69hYMQ2gjsvpxbOwUNzwLj"
-        }
-      ],
-      "duration_ms": 203104,
-      "name": "Florecer",
-      "url": "https://open.spotify.com/track/2SklPsEziKcI9DffEW65Vz"
-    },
-    {
-      "added_at": "2022-09-23 23:22:05",
-      "album": {
         "name": "Manu",
         "url": "https://open.spotify.com/album/1AHtUvxkQIQa1DoG2E12BX"
       },
@@ -1159,6 +1127,22 @@
       "duration_ms": 174301,
       "name": "Quiero",
       "url": "https://open.spotify.com/track/3xTsbdwJXLYuIusD0gM2Ue"
+    },
+    {
+      "added_at": "2022-09-23 23:22:05",
+      "album": {
+        "name": "Alguien Como T\u00fa",
+        "url": "https://open.spotify.com/album/1iTbNUit81UbxYbMRteBlL"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 237978,
+      "name": "Alguien Como T\u00fa",
+      "url": "https://open.spotify.com/track/29c3Pm5ChGMesIzZFUsCpE"
     },
     {
       "added_at": "2022-09-23 23:22:05",
@@ -1183,6 +1167,38 @@
     {
       "added_at": "2022-09-23 23:22:05",
       "album": {
+        "name": "Florecer",
+        "url": "https://open.spotify.com/album/2YnrkkeJjgfytLHTHFn1h9"
+      },
+      "artists": [
+        {
+          "name": "Nicoletta Spinelli",
+          "url": "https://open.spotify.com/artist/69hYMQ2gjsvpxbOwUNzwLj"
+        }
+      ],
+      "duration_ms": 203104,
+      "name": "Florecer",
+      "url": "https://open.spotify.com/track/2SklPsEziKcI9DffEW65Vz"
+    },
+    {
+      "added_at": "2022-09-23 23:22:05",
+      "album": {
+        "name": "La Luna",
+        "url": "https://open.spotify.com/album/306wF31Hp5LNVkxfhDLOiV"
+      },
+      "artists": [
+        {
+          "name": "Valeria Jasso",
+          "url": "https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh"
+        }
+      ],
+      "duration_ms": 190609,
+      "name": "La Luna",
+      "url": "https://open.spotify.com/track/2V0S6dvMHkjtif1rOQqtzA"
+    },
+    {
+      "added_at": "2022-09-23 23:22:05",
+      "album": {
         "name": "Mientras Duermes",
         "url": "https://open.spotify.com/album/5Gv3HrGr085Rv4Fc2uuMm3"
       },
@@ -1203,22 +1219,6 @@
     {
       "added_at": "2022-09-23 23:22:05",
       "album": {
-        "name": "\u00c1tame",
-        "url": "https://open.spotify.com/album/0dDvgoijFTIRu3gPR4XTpn"
-      },
-      "artists": [
-        {
-          "name": "Kaia Lana",
-          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
-        }
-      ],
-      "duration_ms": 190915,
-      "name": "\u00c1tame",
-      "url": "https://open.spotify.com/track/0oLIHr9UiL68al3E8MeT2u"
-    },
-    {
-      "added_at": "2022-09-23 23:22:05",
-      "album": {
         "name": "Miedo",
         "url": "https://open.spotify.com/album/7GnOZrSoKrxbEiTvYG0ri8"
       },
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2022-09-23 23:22:05",
       "album": {
-        "name": "Alguien Como T\u00fa",
-        "url": "https://open.spotify.com/album/1iTbNUit81UbxYbMRteBlL"
+        "name": "\u00c1tame",
+        "url": "https://open.spotify.com/album/0dDvgoijFTIRu3gPR4XTpn"
       },
       "artists": [
         {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+          "name": "Kaia Lana",
+          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
         }
       ],
-      "duration_ms": 237978,
-      "name": "Alguien Como T\u00fa",
-      "url": "https://open.spotify.com/track/29c3Pm5ChGMesIzZFUsCpE"
+      "duration_ms": 190915,
+      "name": "\u00c1tame",
+      "url": "https://open.spotify.com/track/0oLIHr9UiL68al3E8MeT2u"
     },
     {
       "added_at": "2022-09-23 23:22:05",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2022-09-23 23:22:05",
       "album": {
-        "name": "Eres T\u00fa (Cap. 6: Miedo a la Soledad)",
-        "url": "https://open.spotify.com/album/41a1fgIzvZXpIas6XdsxsZ"
+        "name": "Contigo Me Quedo",
+        "url": "https://open.spotify.com/album/7LOGZuxzTIwBT4XnuwOxDV"
       },
       "artists": [
         {
-          "name": "Kari",
-          "url": "https://open.spotify.com/artist/4g995OkDaX98GUjFyZyuRu"
+          "name": "Tufic",
+          "url": "https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV"
         }
       ],
-      "duration_ms": 182542,
-      "name": "Eres T\u00fa (Cap. 6: Miedo a la Soledad)",
-      "url": "https://open.spotify.com/track/0D259G1Rm5x1r0YWept67t"
+      "duration_ms": 196384,
+      "name": "Contigo Me Quedo",
+      "url": "https://open.spotify.com/track/3iwURMcbfTjtOZcBrVwQh5"
     }
   ],
   "unique_name": "cursi",

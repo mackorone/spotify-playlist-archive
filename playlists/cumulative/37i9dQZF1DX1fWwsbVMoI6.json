@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "A ponerse a tono con los mejores cumbiones. Foto: Puro Sentimiento",
+  "description": "A ponerse a tono con los mejores cumbiones. Foto: Armon\u00eda 10",
   "name": "Cumbias de Oro",
   "published_playlist_ids": [
     "5GjAZyTyn8IndSL0yMdeQa"
@@ -135,7 +135,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": "2022-11-13",
       "duration_ms": 238893,
       "name": "Antahuara",
       "url": "https://open.spotify.com/track/1d7eRr7zChFXSv13adTGcv"
@@ -153,7 +153,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 196265,
       "name": "Asesina de Amor",
       "url": "https://open.spotify.com/track/1j2zkh4VrL8txcXjsUgd0m"
@@ -551,7 +551,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 249004,
       "name": "D\u00f3nde Est\u00e1n Tus Promesas",
       "url": "https://open.spotify.com/track/4DmHyMwMcY8zTpjaPYUww7"
@@ -587,7 +587,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 329280,
       "name": "El Casorio",
       "url": "https://open.spotify.com/track/0Tpvw6qsSGxHuKqYlbAyC6"
@@ -778,6 +778,24 @@
     },
     {
       "album": {
+        "name": "Cari\u00f1o Loco",
+        "url": "https://open.spotify.com/album/2g3QVAasQuXmVPXmaWG6PT"
+      },
+      "artists": [
+        {
+          "name": "Agua Bella",
+          "url": "https://open.spotify.com/artist/4HKgCyUZMpl41vzhVXdhNy"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 250986,
+      "name": "Imposible Olvidarte",
+      "url": "https://open.spotify.com/track/28OYshVQTfw9ytKlXHjaqg"
+    },
+    {
+      "album": {
         "name": "El Baile de la Serpiente",
         "url": "https://open.spotify.com/album/0jIIIsrmBE2u1hSKLezjmt"
       },
@@ -868,6 +886,24 @@
     },
     {
       "album": {
+        "name": "Una Cualquiera",
+        "url": "https://open.spotify.com/album/1ShwZyhoqhWGaZkQg6yVfS"
+      },
+      "artists": [
+        {
+          "name": "Armonia 10",
+          "url": "https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264560,
+      "name": "La Duda",
+      "url": "https://open.spotify.com/track/1euvZCoC0ETg1aiK0tfkEs"
+    },
+    {
+      "album": {
         "name": "Lejos de Ti",
         "url": "https://open.spotify.com/album/3VugzWWNSNU6AiSecTnbn6"
       },
@@ -879,7 +915,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-27",
+      "date_removed": "2022-11-14",
       "duration_ms": 241319,
       "name": "Lejos de Ti",
       "url": "https://open.spotify.com/track/0p1Tg14xmC1MgxncLFkt6d"
@@ -1005,9 +1041,9 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": "2022-11-13",
       "duration_ms": 171840,
-      "name": "Me enamor\u00e9 y qu\u00e9",
+      "name": "Me Enamor\u00e9 y Qu\u00e9",
       "url": "https://open.spotify.com/track/5EMjx5ziUTeOY32D8Hv2RB"
     },
     {
@@ -1027,7 +1063,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 262440,
       "name": "Me extra\u00f1ar\u00e1s",
       "url": "https://open.spotify.com/track/71Dj6EXOnAVJEPDoxHuSOf"
@@ -1597,7 +1633,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-14",
+      "date_removed": "2022-11-13",
       "duration_ms": 191085,
       "name": "Si Saben Como Me Pongo Pa Que Me Invitan",
       "url": "https://open.spotify.com/track/1FaXpzvwFxDhvvuIAW3nAA"
@@ -1712,6 +1748,24 @@
     },
     {
       "album": {
+        "name": "Mi Trayectoria",
+        "url": "https://open.spotify.com/album/4lcFiYbjms1U8DhzkzunmF"
+      },
+      "artists": [
+        {
+          "name": "Bryan Arambulo",
+          "url": "https://open.spotify.com/artist/6q6LbyDaoIKIJh7b6STyhs"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 363720,
+      "name": "Te Juro Que Te Amo",
+      "url": "https://open.spotify.com/track/0FM3J2SxnI6DiKNU0UMqyD"
+    },
+    {
+      "album": {
         "name": "Seguimos Imparables",
         "url": "https://open.spotify.com/album/24DilvlrCWcXijotIJLVhm"
       },
@@ -1745,6 +1799,24 @@
       "duration_ms": 363720,
       "name": "Te Juro Que Te Amo",
       "url": "https://open.spotify.com/track/122MuCOG99PHG2mpnWeJrj"
+    },
+    {
+      "album": {
+        "name": "Los Amos del Ritmo Caliente, Vol. 2",
+        "url": "https://open.spotify.com/album/1ZXiEqSLL7KZGDe7Men9md"
+      },
+      "artists": [
+        {
+          "name": "Los Ecos",
+          "url": "https://open.spotify.com/artist/3HFLs2Kw7HWE3UZUtLzIeS"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 231680,
+      "name": "Tres Cruces",
+      "url": "https://open.spotify.com/track/5T2cJPNmezb8TYG4j5Wjnp"
     },
     {
       "album": {
@@ -1817,6 +1889,24 @@
       "duration_ms": 234880,
       "name": "Tu C\u00e1rcel",
       "url": "https://open.spotify.com/track/4G86bT5to8PnOEr93SsYjR"
+    },
+    {
+      "album": {
+        "name": "No Te Creas Tan Importante",
+        "url": "https://open.spotify.com/album/5gMSQc4bvPERTvrOQXc543"
+      },
+      "artists": [
+        {
+          "name": "Deyvis Orosco",
+          "url": "https://open.spotify.com/artist/4Ys2BviobiudpEXEgVtdlV"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234880,
+      "name": "Tu C\u00e1rcel",
+      "url": "https://open.spotify.com/track/4QeJ9ICMlwED0XfR5o2FRs"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQyIF4v1Ra3.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,102 likes - 34 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,457 likes - 34 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQyIF4v1Ra3.md) - [plain]
 | 11 | [Char Char Bangdi Vali](https://open.spotify.com/track/3aJ4TCaUebbNZRncpKAK4V) | [Kinjal Dave](https://open.spotify.com/artist/26qILArN7gTOjFRTbOTKbJ) | [DJ Jonadiyo, Pt\. 3](https://open.spotify.com/album/0E5L2euYlsDPOtDpRe1ubb) | 3:05 |
 | 12 | [Nahi Melu Re](https://open.spotify.com/track/1RQ1riJJB108HSJ2lXJp0Q) | [Nisha Upadhyay](https://open.spotify.com/artist/2p1DsSadSk9fUqpwlZVcOF) | [Bamboo Beats \(Disco Dandiya Hits\)](https://open.spotify.com/album/7hyZTOovgclhqA7iQdoUMl) | 5:22 |
 | 13 | [Maa Taro Garbo Zakamjol](https://open.spotify.com/track/0LoVIdovHEU9bloct4iOJJ) | [Aishwarya Majmudar](https://open.spotify.com/artist/7MAlFea251zaprQFjwvYaL) | [Raas Garba Ni Ramzat](https://open.spotify.com/album/4eP0iXXD5VP2yHjCO75NVQ) | 2:00 |
-| 14 | [Oonchi Talavdi Ni Kor](https://open.spotify.com/track/51oobd7oWxbBOD8YFHNs0J) | [Rupal Doshi](https://open.spotify.com/artist/0OOE5E66pjnINTv2x46oiA) | [Chhel Chhabilo \- Khelaiya, Vol\. 4](https://open.spotify.com/album/3NJJVnPMz0OdAK0CPL9lXV) | 6:58 |
+| 14 | [Oonchi Talavdi Ni Kor](https://open.spotify.com/track/51oobd7oWxbBOD8YFHNs0J) | [Rupal Doshi](https://open.spotify.com/artist/0OOE5E66pjnINTv2x46oiA) | [Chhel Chhabilo \- Khelaiya, Vol\. 4](https://open.spotify.com/album/3NJJVnPMz0OdAK0CPL9lXV) | 4:54 |
 | 15 | [Aavta Jata](https://open.spotify.com/track/6xQ9QEXVUncTdXtbH1l9hN) | [Kishore Manraja](https://open.spotify.com/artist/3ZFpN9rFHLxElJpqyABkMt) | [Greatest Raas\-Garba Hits](https://open.spotify.com/album/4uBBpNWNpk80vzjXW7VT0T) | 1:26 |
 | 16 | [Lagu Gunpati Ne Paay](https://open.spotify.com/track/5dAllyM4M30kdrVUIdophh) | [Aishwarya Majmudar](https://open.spotify.com/artist/7MAlFea251zaprQFjwvYaL) | [Rangtaali 2 \- Non Stop Garba](https://open.spotify.com/album/05Hvy9AWM7qaTV3wYlfS1W) | 2:41 |
 | 17 | [Chalado](https://open.spotify.com/track/36kO9u36Tln5o2nFensdaG) | [Kinjal Dave](https://open.spotify.com/artist/26qILArN7gTOjFRTbOTKbJ) | [Killol](https://open.spotify.com/album/3J1gCrzn5kledE8OJ17v7M) | 2:37 |

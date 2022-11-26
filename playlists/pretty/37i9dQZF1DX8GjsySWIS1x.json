@@ -1,13 +1,121 @@
 {
   "description": "The latest in gamer music.",
-  "num_followers": 983687,
+  "num_followers": 990871,
   "original_name": "Now Loading",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDkxMTQ3MSwwMDAwMDAwMGU2NjY4NzIzYzUzMGE1YTIwNDgyYmNhM2JmMGRmZTI0",
+  "snapshot_id": "MTY2OTIxNzg1NywwMDAwMDAwMDNhNGVhYzJlOGFhMjhiYzI1YTYwZjhkOTA4YTI5NTU4",
   "tracks": [
+    {
+      "added_at": "2022-11-23 15:37:37",
+      "album": {
+        "name": "Ghost Light",
+        "url": "https://open.spotify.com/album/4v9P47TGhiu4ZOsIrGXjIM"
+      },
+      "artists": [
+        {
+          "name": "TheFatRat",
+          "url": "https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4"
+        },
+        {
+          "name": "EVERGLOW",
+          "url": "https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ"
+        }
+      ],
+      "duration_ms": 191400,
+      "name": "Ghost Light",
+      "url": "https://open.spotify.com/track/2kDXDdn1SXFlOwTfWRGIT5"
+    },
+    {
+      "added_at": "2022-11-23 15:37:37",
+      "album": {
+        "name": "CODES",
+        "url": "https://open.spotify.com/album/1VNGWcGNCBkUGFyFiC0Kdj"
+      },
+      "artists": [
+        {
+          "name": "OddKidOut",
+          "url": "https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux"
+        },
+        {
+          "name": "Macntaj",
+          "url": "https://open.spotify.com/artist/0erl2oe9fDqYo37ueBiG8K"
+        }
+      ],
+      "duration_ms": 151111,
+      "name": "CODES",
+      "url": "https://open.spotify.com/track/7HNsbDFhZhs2qhEjC2W3om"
+    },
+    {
+      "added_at": "2022-11-18 16:18:56",
+      "album": {
+        "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        },
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 271696,
+      "name": "Blood Upon the Snow",
+      "url": "https://open.spotify.com/track/5cgacDGTfR9sm4W03syTyX"
+    },
+    {
+      "added_at": "2022-11-18 16:18:56",
+      "album": {
+        "name": "All Eyes On Me",
+        "url": "https://open.spotify.com/album/0wgepIc4n4gKNgccZk0b0i"
+      },
+      "artists": [
+        {
+          "name": "VALORANT",
+          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
+        },
+        {
+          "name": "Jean Deaux",
+          "url": "https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg"
+        },
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "All Eyes On Me",
+      "url": "https://open.spotify.com/track/7DRDufzLV8vbLRPdkJIqWq"
+    },
+    {
+      "added_at": "2022-11-18 16:18:56",
+      "album": {
+        "name": "Fire To The Fuse",
+        "url": "https://open.spotify.com/album/3DvhVqD9ypcJoq8oLy3iOL"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        },
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        }
+      ],
+      "duration_ms": 224169,
+      "name": "Fire To The Fuse",
+      "url": "https://open.spotify.com/track/6yK2AGL6oamq6FP8iqmOBw"
+    },
     {
       "added_at": "2022-09-29 15:51:46",
       "album": {
@@ -41,56 +149,88 @@
       "url": "https://open.spotify.com/track/3Pj6u2KTgepyyidp5xfbHp"
     },
     {
-      "added_at": "2022-09-29 15:51:46",
+      "added_at": "2022-07-28 15:31:40",
       "album": {
-        "name": "This fffire",
-        "url": "https://open.spotify.com/album/4hUCtGcc0hRYXFhKSETlll"
+        "name": "Below the Surface",
+        "url": "https://open.spotify.com/album/776QoK5YUYcf3dib5mUqeE"
       },
       "artists": [
         {
-          "name": "Franz Ferdinand",
-          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+          "name": "Griffinilla",
+          "url": "https://open.spotify.com/artist/4YbLu4l7vHlJPD9yGjCkRu"
         }
       ],
-      "duration_ms": 218080,
-      "name": "This fffire - New Version",
-      "url": "https://open.spotify.com/track/46gSk82duJtX3TTA182ruG"
+      "duration_ms": 134857,
+      "name": "Below the Surface",
+      "url": "https://open.spotify.com/track/5f1j3h5DBkLpGfb90QGFvR"
+    },
+    {
+      "added_at": "2022-08-26 15:55:14",
+      "album": {
+        "name": "Insane",
+        "url": "https://open.spotify.com/album/3o5Dz1PLFlYXplnsp5zZxh"
+      },
+      "artists": [
+        {
+          "name": "Black Gryph0n",
+          "url": "https://open.spotify.com/artist/4ET82ZtSfAK4utfjDauImD"
+        },
+        {
+          "name": "Baasik",
+          "url": "https://open.spotify.com/artist/3bSyv1vO8ye6PKyWcJeVbI"
+        }
+      ],
+      "duration_ms": 159714,
+      "name": "Insane",
+      "url": "https://open.spotify.com/track/5flerg6aEao2VayZezVlgu"
     },
     {
       "added_at": "2022-07-28 15:31:40",
       "album": {
-        "name": "eat ya veggies",
-        "url": "https://open.spotify.com/album/6iMshsixZe8oMteQdln5kp"
+        "name": "UNDERTALE Soundtrack",
+        "url": "https://open.spotify.com/album/2M2Ae2SvZe3fmzUtlVOV5Z"
       },
       "artists": [
         {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        },
-        {
-          "name": "Rich Brian",
-          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+          "name": "Toby Fox",
+          "url": "https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau"
         }
       ],
-      "duration_ms": 133706,
-      "name": "edamame (feat. Rich Brian)",
-      "url": "https://open.spotify.com/track/5rW7qTn83sCKtqBoneJs63"
+      "duration_ms": 156000,
+      "name": "MEGALOVANIA",
+      "url": "https://open.spotify.com/track/1J03Vp93ybKIxfzYI4YJtL"
     },
     {
-      "added_at": "2022-09-02 19:30:23",
+      "added_at": "2022-07-28 15:31:40",
       "album": {
-        "name": "Lonely King",
-        "url": "https://open.spotify.com/album/4yRPqkgGjI8792xSBU4PvM"
+        "name": "Five Nights at Freddy's",
+        "url": "https://open.spotify.com/album/1dq5N7M7pxFso51oa79BTI"
       },
       "artists": [
         {
-          "name": "CG5",
-          "url": "https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O"
+          "name": "The Living Tombstone",
+          "url": "https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF"
         }
       ],
-      "duration_ms": 196612,
-      "name": "Lonely King",
-      "url": "https://open.spotify.com/track/6xkkNUxwMGoGHUE9bewC4O"
+      "duration_ms": 165831,
+      "name": "Five Nights at Freddy's",
+      "url": "https://open.spotify.com/track/2ItNKt19iqefEe590Z9GeE"
+    },
+    {
+      "added_at": "2022-07-28 15:31:40",
+      "album": {
+        "name": "My Ordinary Life",
+        "url": "https://open.spotify.com/album/4AmFZET7RGujQAhG80kjwu"
+      },
+      "artists": [
+        {
+          "name": "The Living Tombstone",
+          "url": "https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF"
+        }
+      ],
+      "duration_ms": 230894,
+      "name": "My Ordinary Life",
+      "url": "https://open.spotify.com/track/6tMdpUXfT70TD6Eh3XfB1p"
     },
     {
       "added_at": "2022-07-28 15:31:40",
@@ -157,56 +297,20 @@
       "url": "https://open.spotify.com/track/7v4pPS4A7NgY7bxFA3Etv3"
     },
     {
-      "added_at": "2022-08-26 15:55:14",
+      "added_at": "2022-09-29 15:51:46",
       "album": {
-        "name": "Insane",
-        "url": "https://open.spotify.com/album/3o5Dz1PLFlYXplnsp5zZxh"
+        "name": "This fffire",
+        "url": "https://open.spotify.com/album/4hUCtGcc0hRYXFhKSETlll"
       },
       "artists": [
         {
-          "name": "Black Gryph0n",
-          "url": "https://open.spotify.com/artist/4ET82ZtSfAK4utfjDauImD"
-        },
-        {
-          "name": "Baasik",
-          "url": "https://open.spotify.com/artist/3bSyv1vO8ye6PKyWcJeVbI"
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
         }
       ],
-      "duration_ms": 159714,
-      "name": "Insane",
-      "url": "https://open.spotify.com/track/5flerg6aEao2VayZezVlgu"
-    },
-    {
-      "added_at": "2022-07-28 15:31:40",
-      "album": {
-        "name": "Below the Surface",
-        "url": "https://open.spotify.com/album/776QoK5YUYcf3dib5mUqeE"
-      },
-      "artists": [
-        {
-          "name": "Griffinilla",
-          "url": "https://open.spotify.com/artist/4YbLu4l7vHlJPD9yGjCkRu"
-        }
-      ],
-      "duration_ms": 134857,
-      "name": "Below the Surface",
-      "url": "https://open.spotify.com/track/5f1j3h5DBkLpGfb90QGFvR"
-    },
-    {
-      "added_at": "2022-10-04 19:24:31",
-      "album": {
-        "name": "happy",
-        "url": "https://open.spotify.com/album/7HHWePvIYmj0qGCvfSlzwj"
-      },
-      "artists": [
-        {
-          "name": "LilyPichu",
-          "url": "https://open.spotify.com/artist/6maAVJxVTGW1xA3LokpQm8"
-        }
-      ],
-      "duration_ms": 216585,
-      "name": "happy",
-      "url": "https://open.spotify.com/track/0exExEyKJnVIwgF8MyHVNP"
+      "duration_ms": 218080,
+      "name": "This fffire - New Version",
+      "url": "https://open.spotify.com/track/46gSk82duJtX3TTA182ruG"
     },
     {
       "added_at": "2022-09-20 14:50:15",
@@ -243,6 +347,26 @@
     {
       "added_at": "2022-07-28 15:31:40",
       "album": {
+        "name": "eat ya veggies",
+        "url": "https://open.spotify.com/album/6iMshsixZe8oMteQdln5kp"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        },
+        {
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+        }
+      ],
+      "duration_ms": 133706,
+      "name": "edamame (feat. Rich Brian)",
+      "url": "https://open.spotify.com/track/5rW7qTn83sCKtqBoneJs63"
+    },
+    {
+      "added_at": "2022-07-28 15:31:40",
+      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/3h1NpsC8ScXsPHHzJZLH7m"
       },
@@ -255,54 +379,6 @@
       "duration_ms": 169413,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/30uCmqegKQnH5AbOE51gPD"
-    },
-    {
-      "added_at": "2022-07-28 15:31:40",
-      "album": {
-        "name": "UNDERTALE Soundtrack",
-        "url": "https://open.spotify.com/album/2M2Ae2SvZe3fmzUtlVOV5Z"
-      },
-      "artists": [
-        {
-          "name": "Toby Fox",
-          "url": "https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "MEGALOVANIA",
-      "url": "https://open.spotify.com/track/1J03Vp93ybKIxfzYI4YJtL"
-    },
-    {
-      "added_at": "2022-07-28 15:31:40",
-      "album": {
-        "name": "Five Nights at Freddy's",
-        "url": "https://open.spotify.com/album/1dq5N7M7pxFso51oa79BTI"
-      },
-      "artists": [
-        {
-          "name": "The Living Tombstone",
-          "url": "https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF"
-        }
-      ],
-      "duration_ms": 165831,
-      "name": "Five Nights at Freddy's",
-      "url": "https://open.spotify.com/track/2ItNKt19iqefEe590Z9GeE"
-    },
-    {
-      "added_at": "2022-07-28 15:31:40",
-      "album": {
-        "name": "My Ordinary Life",
-        "url": "https://open.spotify.com/album/4AmFZET7RGujQAhG80kjwu"
-      },
-      "artists": [
-        {
-          "name": "The Living Tombstone",
-          "url": "https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF"
-        }
-      ],
-      "duration_ms": 230894,
-      "name": "My Ordinary Life",
-      "url": "https://open.spotify.com/track/6tMdpUXfT70TD6Eh3XfB1p"
     },
     {
       "added_at": "2022-07-28 15:31:40",
@@ -732,7 +808,7 @@
       "added_at": "2022-07-28 15:31:40",
       "album": {
         "name": "Knee Deep at ATP",
-        "url": "https://open.spotify.com/album/6FaPUkwFu0JUmEc9yi3PPs"
+        "url": "https://open.spotify.com/album/6pTPviSRgaaaGzxGiuna5O"
       },
       "artists": [
         {
@@ -742,7 +818,7 @@
       ],
       "duration_ms": 188418,
       "name": "Knee Deep at ATP",
-      "url": "https://open.spotify.com/track/7GN5qZoCkvWxo4ENsFKA6B"
+      "url": "https://open.spotify.com/track/18g9sFXzAcXTPrcmDXSk9z"
     },
     {
       "added_at": "2022-07-28 15:31:40",
@@ -1043,30 +1119,6 @@
       "duration_ms": 187001,
       "name": "Moon Over the Castle - from GRAN TURISMO 7",
       "url": "https://open.spotify.com/track/42xYFBO1ahIWyisI7VVVEh"
-    },
-    {
-      "added_at": "2022-07-28 15:31:40",
-      "album": {
-        "name": "MVP",
-        "url": "https://open.spotify.com/album/36zw4Ir1YqmiCUlhYpJuRx"
-      },
-      "artists": [
-        {
-          "name": "FaZe Kaysan",
-          "url": "https://open.spotify.com/artist/6BgMniiBxLHe43o8nx5MIp"
-        },
-        {
-          "name": "Sheck Wes",
-          "url": "https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX"
-        },
-        {
-          "name": "Fivio Foreign",
-          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "MVP",
-      "url": "https://open.spotify.com/track/2ayvMaVf5RAXnNQwHvArB7"
     },
     {
       "added_at": "2022-07-28 15:31:40",

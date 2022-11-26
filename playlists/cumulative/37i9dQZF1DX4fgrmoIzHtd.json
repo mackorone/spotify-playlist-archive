@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "Sun & Ice",
+        "url": "https://open.spotify.com/album/1pe3G2bpHfA9hkVNvE86bZ"
+      },
+      "artists": [
+        {
+          "name": "The Field",
+          "url": "https://open.spotify.com/artist/23MIhFHpoOuhtEHZDrrnCS"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 324880,
+      "name": "A Paw In My Face",
+      "url": "https://open.spotify.com/track/1qnyF50w44srJ81PajqOUC"
+    },
+    {
+      "album": {
         "name": "From Here We Go Sublime",
         "url": "https://open.spotify.com/album/5oNWGhIs9vpB6FJ6rv5VuO"
       },
@@ -117,7 +135,7 @@
     {
       "album": {
         "name": "Streetlife",
-        "url": "https://open.spotify.com/album/0KrXmJifqUrtTnRRfoZGEg"
+        "url": "https://open.spotify.com/album/3r48EfIaSFTynvzXkFj28b"
       },
       "artists": [
         {
@@ -130,7 +148,7 @@
       "date_removed": null,
       "duration_ms": 271178,
       "name": "Breaking Formation",
-      "url": "https://open.spotify.com/track/5zASNpTjmgxkKAHLRoyKTz"
+      "url": "https://open.spotify.com/track/18DUuot6QcFh7TGK1d1e1F"
     },
     {
       "album": {
@@ -145,7 +163,43 @@
       ],
       "date_added": "2021-05-11",
       "date_added_asterisk": false,
+      "date_removed": "2022-11-20",
+      "duration_ms": 271178,
+      "name": "Breaking Formation",
+      "url": "https://open.spotify.com/track/5zASNpTjmgxkKAHLRoyKTz"
+    },
+    {
+      "album": {
+        "name": "Streetlife",
+        "url": "https://open.spotify.com/album/3r48EfIaSFTynvzXkFj28b"
+      },
+      "artists": [
+        {
+          "name": "Von Spar",
+          "url": "https://open.spotify.com/artist/6rRQbKeGYpX8armrlaxWcn"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 280533,
+      "name": "Chain of Command",
+      "url": "https://open.spotify.com/track/5SmZpH8Aeq0EMwGTEa12ob"
+    },
+    {
+      "album": {
+        "name": "Streetlife",
+        "url": "https://open.spotify.com/album/0KrXmJifqUrtTnRRfoZGEg"
+      },
+      "artists": [
+        {
+          "name": "Von Spar",
+          "url": "https://open.spotify.com/artist/6rRQbKeGYpX8armrlaxWcn"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-21",
       "duration_ms": 280533,
       "name": "Chain of Command",
       "url": "https://open.spotify.com/track/5jhZFtAJf24UhxmBLd3T2z"
@@ -683,10 +737,36 @@
       ],
       "date_added": "2021-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 434921,
       "name": "Philipp Dolphia",
       "url": "https://open.spotify.com/track/4Ie6qz0XnJm8OSIGTxUKXy"
+    },
+    {
+      "album": {
+        "name": "Philipp Dolphia",
+        "url": "https://open.spotify.com/album/33JfpvpDtIRux9Hood8XZr"
+      },
+      "artists": [
+        {
+          "name": "Jacob Korn",
+          "url": "https://open.spotify.com/artist/3P86wrM6fNUokU6JLbjOYx"
+        },
+        {
+          "name": "good guy mikesh",
+          "url": "https://open.spotify.com/artist/5F1botl1yQKgaFE4AFz4ZH"
+        },
+        {
+          "name": "Filburt",
+          "url": "https://open.spotify.com/artist/1vGLThg91o4DzDa04sENLa"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434921,
+      "name": "Philipp Dolphia",
+      "url": "https://open.spotify.com/track/4yrmNn7vsXtMkssVedBais"
     },
     {
       "album": {

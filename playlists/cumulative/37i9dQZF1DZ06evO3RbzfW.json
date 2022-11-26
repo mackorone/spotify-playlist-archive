@@ -728,6 +728,24 @@
     },
     {
       "album": {
+        "name": "Rosenrot",
+        "url": "https://open.spotify.com/album/3ujsh5jQMOFqIbP7sWruEt"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-15",
+      "duration_ms": 235626,
+      "name": "Te quiero puta!",
+      "url": "https://open.spotify.com/track/4hLS1e3mrL0gbm8BqX1VvN"
+    },
+    {
+      "album": {
         "name": "Sehnsucht",
         "url": "https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag"
       },

@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-03",
+      "date_removed": "2022-11-13",
       "duration_ms": 168000,
       "name": "Blue Velvet",
       "url": "https://open.spotify.com/track/3WO8ZBnOtad3xMz46Z54pY"
@@ -131,7 +131,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 198106,
       "name": "Cheek to Cheek",
       "url": "https://open.spotify.com/track/5qWXXF3On2xUfVu1ND1NLN"
@@ -377,6 +377,24 @@
       "duration_ms": 149826,
       "name": "I'm In The Mood For Love",
       "url": "https://open.spotify.com/track/6crfO56bDm0RjpctUuGs5X"
+    },
+    {
+      "album": {
+        "name": "The Complete Commodore Recordings",
+        "url": "https://open.spotify.com/album/7zSWkh1YCGAo4zO7nje22z"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198866,
+      "name": "I'm Yours",
+      "url": "https://open.spotify.com/track/1oAQJNKrMnIX5tLMan0UsY"
     },
     {
       "album": {
@@ -783,7 +801,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 158466,
-      "name": "Old Cape Cod - 1957 Single Version",
+      "name": "Old Cape Cod",
       "url": "https://open.spotify.com/track/2ZD42YPLXtzoGlRH51zViF"
     },
     {
@@ -1124,6 +1142,24 @@
     },
     {
       "album": {
+        "name": "Latin Ala Lee",
+        "url": "https://open.spotify.com/album/5A7sAUKBDHvRyA5AxkeKAK"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151973,
+      "name": "Till There Was You - Remastered",
+      "url": "https://open.spotify.com/track/0CczH75yFBo53bVqLRvYn4"
+    },
+    {
+      "album": {
         "name": "Great Ladies Of Song / Spotlight On Margaret Whiting",
         "url": "https://open.spotify.com/album/1f7ZtwN1b8y3MjgDVMUExO"
       },
@@ -1261,7 +1297,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 193666,
       "name": "You Belong To Me",
       "url": "https://open.spotify.com/track/2NDMLabAjx4oL7ezx2PNxS"

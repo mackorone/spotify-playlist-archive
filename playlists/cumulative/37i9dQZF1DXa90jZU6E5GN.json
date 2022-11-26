@@ -527,7 +527,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-24",
+      "date_removed": "2022-11-13",
       "duration_ms": 217840,
       "name": "Girl In A Country Song",
       "url": "https://open.spotify.com/track/1GRiBe0kNCNYpjwCHIyynI"
@@ -665,7 +665,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-24",
+      "date_removed": "2022-11-13",
       "duration_ms": 194386,
       "name": "Hell on Heels",
       "url": "https://open.spotify.com/track/0sgnJ5LFjEy2IuQ99NEZ1C"
@@ -915,7 +915,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-24",
+      "date_removed": null,
       "duration_ms": 174306,
       "name": "John Wayne",
       "url": "https://open.spotify.com/track/3d0VZU6Mf2hdZRHA4zry8S"
@@ -1023,7 +1023,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 210560,
       "name": "Leave the Pieces",
       "url": "https://open.spotify.com/track/1VnQfAPIHwFImjfO9gnyUt"
@@ -1370,6 +1370,24 @@
     },
     {
       "album": {
+        "name": "Taylor Swift (Big Machine Radio Release Special)",
+        "url": "https://open.spotify.com/album/2rU7u7C2v5i45MFVxx7xG1"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 203440,
+      "name": "Our Song",
+      "url": "https://open.spotify.com/track/43H3q2NWT9LCuYS1B5IUvV"
+    },
+    {
+      "album": {
         "name": "Grace Potter & The Nocturnals",
         "url": "https://open.spotify.com/album/24DTOqINfaO2aJFKws5xHp"
       },
@@ -1435,10 +1453,28 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 218333,
       "name": "Potential Breakup Song",
       "url": "https://open.spotify.com/track/2ieu0FHqTpBUrMoCFVL3cb"
+    },
+    {
+      "album": {
+        "name": "Potential Breakup Song",
+        "url": "https://open.spotify.com/album/49mFTJkOKu0labagCQyURy"
+      },
+      "artists": [
+        {
+          "name": "Aly & AJ",
+          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218333,
+      "name": "Potential Breakup Song",
+      "url": "https://open.spotify.com/track/6fyzsHCwnt8oL4XgGIMrdN"
     },
     {
       "album": {
@@ -1789,7 +1825,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": "2022-11-19",
       "duration_ms": 186066,
       "name": "The Way You Love Me",
       "url": "https://open.spotify.com/track/6vgN6KGstss0GnBbKlMNK9"
@@ -1955,7 +1991,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 177253,
       "name": "Undo It",
       "url": "https://open.spotify.com/track/1Fo2N5iXRi37maMboaig7O"
@@ -2153,7 +2189,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-22",
       "duration_ms": 238773,
       "name": "Whose Bed Have Your Boots Been Under?",
       "url": "https://open.spotify.com/track/2ugGNNwNaJdiusX3aLOMUy"

@@ -120,6 +120,24 @@
     },
     {
       "album": {
+        "name": "KEEN: Complete Concentration Vol. 2",
+        "url": "https://open.spotify.com/album/5TkBqGSUW9amp8A72oLyyz"
+      },
+      "artists": [
+        {
+          "name": "August Wilhelmsson",
+          "url": "https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 131400,
+      "name": "Above It All",
+      "url": "https://open.spotify.com/track/4qAzoVYQQHDM4e4wDaMyt0"
+    },
+    {
+      "album": {
         "name": "I Was Arthur",
         "url": "https://open.spotify.com/album/37lG6j92FSavjmG8anuy8a"
       },
@@ -138,6 +156,24 @@
     },
     {
       "album": {
+        "name": "We're Back Chilling",
+        "url": "https://open.spotify.com/album/0LFOKTsuw0YGnGSNUGBL5O"
+      },
+      "artists": [
+        {
+          "name": "Cook & Stans",
+          "url": "https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311613,
+      "name": "Absent Minded in Berlin",
+      "url": "https://open.spotify.com/track/1ErakKk3ypf8rp8N5UUrta"
+    },
+    {
+      "album": {
         "name": "Absent Minded in Berlin",
         "url": "https://open.spotify.com/album/3h3q4NDyH1VGvmy4TEkimk"
       },
@@ -149,7 +185,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 311613,
       "name": "Absent Minded in Berlin",
       "url": "https://open.spotify.com/track/5FZsLt0wUHvmoVdDjdRvBA"
@@ -229,6 +265,24 @@
       "duration_ms": 148089,
       "name": "Anagram",
       "url": "https://open.spotify.com/track/2XLdNfDhWJwViR3wiq8NrA"
+    },
+    {
+      "album": {
+        "name": "Angel's Flight",
+        "url": "https://open.spotify.com/album/44YJTNTfQ2PEIBNewBgt0b"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 352357,
+      "name": "Angel's Flight",
+      "url": "https://open.spotify.com/track/0G0I9cOJjQmKZxIbbqrLiV"
     },
     {
       "album": {
@@ -369,10 +423,46 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 246462,
       "name": "Bacall",
       "url": "https://open.spotify.com/track/0keMf5m5CVWX0ZZnhc8xPz"
+    },
+    {
+      "album": {
+        "name": "Arkade Destinations Tulum",
+        "url": "https://open.spotify.com/album/7e1njN30eJ5iKxl9e96XOK"
+      },
+      "artists": [
+        {
+          "name": "Blue Noir",
+          "url": "https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 246462,
+      "name": "Bacall",
+      "url": "https://open.spotify.com/track/1GQoqhCp0hF85eK4IV0wLv"
+    },
+    {
+      "album": {
+        "name": "Noir",
+        "url": "https://open.spotify.com/album/74H4kh761bl6UDTOWfYC8G"
+      },
+      "artists": [
+        {
+          "name": "Blue Noir",
+          "url": "https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246462,
+      "name": "Bacall",
+      "url": "https://open.spotify.com/track/1bhSnPeBGo1cSPgjDZXujj"
     },
     {
       "album": {
@@ -449,6 +539,24 @@
     {
       "album": {
         "name": "Polar (Music from the Netflix Film)",
+        "url": "https://open.spotify.com/album/3SnEK6pCU5qFtnLXSbZT6i"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200727,
+      "name": "cabin",
+      "url": "https://open.spotify.com/track/6yYnE5DDbv0e6TlzlSDJgX"
+    },
+    {
+      "album": {
+        "name": "Polar (Music from the Netflix Film)",
         "url": "https://open.spotify.com/album/3kAKiw0kRCuSXsTBWbBc9X"
       },
       "artists": [
@@ -459,7 +567,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 200727,
       "name": "cabin",
       "url": "https://open.spotify.com/track/7yKMGeJM3EjNrS6QXnY6xP"
@@ -481,6 +589,24 @@
       "duration_ms": 148546,
       "name": "Candles",
       "url": "https://open.spotify.com/track/0UAazxzt45u787JmxJGoUA"
+    },
+    {
+      "album": {
+        "name": "Klassik Lounge Nightflight, Vol. 5 (Compiled by DJ Nartak)",
+        "url": "https://open.spotify.com/album/6vWwEEDdXop4jJweDiBKMQ"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 148546,
+      "name": "Candles",
+      "url": "https://open.spotify.com/track/5aHfJAmeXgew9u2e6up7R0"
     },
     {
       "album": {
@@ -651,6 +777,24 @@
     {
       "album": {
         "name": "Winter in America",
+        "url": "https://open.spotify.com/album/1na34qpvNXMvcbNk7Q1g1P"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brecht",
+          "url": "https://open.spotify.com/artist/1VFwWJaTMckGNeRWak0cXi"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 513749,
+      "name": "Crystal",
+      "url": "https://open.spotify.com/track/2bSQIZHLpDkJXD47SMGJV9"
+    },
+    {
+      "album": {
+        "name": "Winter in America",
         "url": "https://open.spotify.com/album/5vDQxsQwsi5Zdm1C9DrVk3"
       },
       "artists": [
@@ -661,7 +805,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 513749,
       "name": "Crystal",
       "url": "https://open.spotify.com/track/3BtLLmtLqncevuw4ZhODG8"
@@ -777,6 +921,24 @@
       "duration_ms": 159500,
       "name": "Dreamscapes",
       "url": "https://open.spotify.com/track/0lWWho4vGcKfIX8kA8YmAy"
+    },
+    {
+      "album": {
+        "name": "iterations (demos and releases 2016-2020)",
+        "url": "https://open.spotify.com/album/76rqdANANWeYIBmtl8eGh6"
+      },
+      "artists": [
+        {
+          "name": "Sync Zephyr",
+          "url": "https://open.spotify.com/artist/3uRZcnN1Xxvxn4J4gq0Z7G"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 212330,
+      "name": "Dust",
+      "url": "https://open.spotify.com/track/090k8UpQw34yVp7h89TNHm"
     },
     {
       "album": {
@@ -915,6 +1077,24 @@
     {
       "album": {
         "name": "Finding Atlantis",
+        "url": "https://open.spotify.com/album/5Y9r1FIDpDvWvjrgMhuFO2"
+      },
+      "artists": [
+        {
+          "name": "Cook & Stans",
+          "url": "https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 267096,
+      "name": "Finding Atlantis",
+      "url": "https://open.spotify.com/track/14RTLH0UikguWPnTUt7kpu"
+    },
+    {
+      "album": {
+        "name": "Finding Atlantis",
         "url": "https://open.spotify.com/album/7wUQhwrYn9mUrYBUKzNW5v"
       },
       "artists": [
@@ -925,10 +1105,28 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 267096,
       "name": "Finding Atlantis",
       "url": "https://open.spotify.com/track/2kC0fQTH2liJqBly67Cjkd"
+    },
+    {
+      "album": {
+        "name": "We're Back Chilling",
+        "url": "https://open.spotify.com/album/0LFOKTsuw0YGnGSNUGBL5O"
+      },
+      "artists": [
+        {
+          "name": "Cook & Stans",
+          "url": "https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267096,
+      "name": "Finding Atlantis",
+      "url": "https://open.spotify.com/track/41DRCJywCHC0QyCX71GO9G"
     },
     {
       "album": {
@@ -947,6 +1145,24 @@
       "duration_ms": 147000,
       "name": "Finding Hope",
       "url": "https://open.spotify.com/track/1ZxqvIpfcqYDcV4nP6jxms"
+    },
+    {
+      "album": {
+        "name": "Karma & Desire",
+        "url": "https://open.spotify.com/album/5tDW2Im2auURmW8IOA8dQ1"
+      },
+      "artists": [
+        {
+          "name": "Actress",
+          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75969,
+      "name": "Fire and Light",
+      "url": "https://open.spotify.com/track/1d6BkMki9M6K0yp9OLBzOM"
     },
     {
       "album": {
@@ -1091,10 +1307,28 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 75794,
       "name": "Green Tea",
       "url": "https://open.spotify.com/track/0grdHMgh7NY6uUIBZVW3Vb"
+    },
+    {
+      "album": {
+        "name": "Green Tea",
+        "url": "https://open.spotify.com/album/2rGcNBHziENr3UfAIXiwkw"
+      },
+      "artists": [
+        {
+          "name": "Bertholet",
+          "url": "https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75794,
+      "name": "Green Tea",
+      "url": "https://open.spotify.com/track/6x2rtY6FC6YizEpvUVKj6o"
     },
     {
       "album": {
@@ -1131,6 +1365,24 @@
       "duration_ms": 191529,
       "name": "Happy Man",
       "url": "https://open.spotify.com/track/1oSDiyNMslJoTCfUZBHNP2"
+    },
+    {
+      "album": {
+        "name": "Happy Man",
+        "url": "https://open.spotify.com/album/5bpn5e1mna0zSiSwPB4g8n"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 191529,
+      "name": "Happy Man",
+      "url": "https://open.spotify.com/track/50pEmS593x4xb305XdICSP"
     },
     {
       "album": {
@@ -1278,6 +1530,24 @@
     },
     {
       "album": {
+        "name": "Modeplex Presents Authentic Steyoyoke #015",
+        "url": "https://open.spotify.com/album/4GRRnlEMq09F3kZtDIb2iC"
+      },
+      "artists": [
+        {
+          "name": "EarthLife",
+          "url": "https://open.spotify.com/artist/5xaGKkAq8iQ3R3FfIL3DMG"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 535370,
+      "name": "India",
+      "url": "https://open.spotify.com/track/2j4JVlAbCfUsg0EozCGzkW"
+    },
+    {
+      "album": {
         "name": "India",
         "url": "https://open.spotify.com/album/1Xx50g2SZzrppxqQtYG4MB"
       },
@@ -1386,6 +1656,24 @@
     },
     {
       "album": {
+        "name": "Hohokum (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/1tw5RIi23yCOWlyPKRx8zx"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 277559,
+      "name": "L",
+      "url": "https://open.spotify.com/track/3odLNZuj6OBuvQJ6PByH2H"
+    },
+    {
+      "album": {
         "name": "Awake",
         "url": "https://open.spotify.com/album/7HWdGPosPkb9GY5MOgLgSW"
       },
@@ -1423,6 +1711,28 @@
     {
       "album": {
         "name": "Arkade Destinations Tulum",
+        "url": "https://open.spotify.com/album/7e1njN30eJ5iKxl9e96XOK"
+      },
+      "artists": [
+        {
+          "name": "Mr. Tape",
+          "url": "https://open.spotify.com/artist/7ladzyDVpwhv848vat5v9P"
+        },
+        {
+          "name": "RNSHW",
+          "url": "https://open.spotify.com/artist/6OnKgOYKuSO5KBakCfFeJO"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357383,
+      "name": "La Luna",
+      "url": "https://open.spotify.com/track/1gkGreJ6lZAk1fJRwlsinY"
+    },
+    {
+      "album": {
+        "name": "Arkade Destinations Tulum",
         "url": "https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR"
       },
       "artists": [
@@ -1437,7 +1747,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 357383,
       "name": "La Luna",
       "url": "https://open.spotify.com/track/2co18Ij6kdf3kcfp5zm2Bv"
@@ -2043,6 +2353,28 @@
     {
       "album": {
         "name": "Second Sun",
+        "url": "https://open.spotify.com/album/4J8Pj9kUO58eoafjZlHiLf"
+      },
+      "artists": [
+        {
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        },
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224332,
+      "name": "Second Sun",
+      "url": "https://open.spotify.com/track/0vgIkHFK8wpogVc1XCi18F"
+    },
+    {
+      "album": {
+        "name": "Second Sun",
         "url": "https://open.spotify.com/album/0cHW1NaoS8qqe3aceCN22Z"
       },
       "artists": [
@@ -2057,7 +2389,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 224332,
       "name": "Second Sun",
       "url": "https://open.spotify.com/track/1CyFbvzMACv6su5ys5wbYg"
@@ -2151,6 +2483,24 @@
       "duration_ms": 298333,
       "name": "So We Won't Forget",
       "url": "https://open.spotify.com/track/4HpFU6eMThgW6Cael5AwYy"
+    },
+    {
+      "album": {
+        "name": "Pelota",
+        "url": "https://open.spotify.com/album/6geGd2knOKZtFquPpxizBm"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 298333,
+      "name": "So We Won't Forget",
+      "url": "https://open.spotify.com/track/6awrjWBzdHqDC3VonsQXzK"
     },
     {
       "album": {
@@ -2281,6 +2631,24 @@
     {
       "album": {
         "name": "Recalibrate",
+        "url": "https://open.spotify.com/album/3BiA4ylo9PwprkAn2UJ437"
+      },
+      "artists": [
+        {
+          "name": "Handbook",
+          "url": "https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157279,
+      "name": "Swoon",
+      "url": "https://open.spotify.com/track/2ylb7ruks50yKP8JXHPBQQ"
+    },
+    {
+      "album": {
+        "name": "Recalibrate",
         "url": "https://open.spotify.com/album/2birbZpVxQLhcTht8Mxcnz"
       },
       "artists": [
@@ -2291,10 +2659,28 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 157279,
       "name": "Swoon",
       "url": "https://open.spotify.com/track/5hASCaq53lZP8aUwiIqZEV"
+    },
+    {
+      "album": {
+        "name": "Symmetry Systems",
+        "url": "https://open.spotify.com/album/14T0dIBbXsZtDnaVO2JbEj"
+      },
+      "artists": [
+        {
+          "name": "36",
+          "url": "https://open.spotify.com/artist/1lcSbVHDXu6h6H6vIRDBhT"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202427,
+      "name": "Symmetry Systems (Emerald)",
+      "url": "https://open.spotify.com/track/1vW8krAHupYxF1xRCfQnkD"
     },
     {
       "album": {

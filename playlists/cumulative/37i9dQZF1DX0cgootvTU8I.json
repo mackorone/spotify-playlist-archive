@@ -707,10 +707,46 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 233500,
       "name": "Going In",
       "url": "https://open.spotify.com/track/3MlG2c9fZWbJVB6vI2izmy"
+    },
+    {
+      "album": {
+        "name": "Going in / Shadows",
+        "url": "https://open.spotify.com/album/6vJzw8CH2VEXSfqzVM6M4v"
+      },
+      "artists": [
+        {
+          "name": "Sam Interface",
+          "url": "https://open.spotify.com/artist/04dcWSXP57PDMzOuQ2tgMw"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233500,
+      "name": "Going In",
+      "url": "https://open.spotify.com/track/6hA8HVl34XC2cNgSfwaaBv"
+    },
+    {
+      "album": {
+        "name": "Future Bounce Club Series, Vol. 1",
+        "url": "https://open.spotify.com/album/5eJpibTaSRnUfoLuRIgaqQ"
+      },
+      "artists": [
+        {
+          "name": "Sam Interface",
+          "url": "https://open.spotify.com/artist/04dcWSXP57PDMzOuQ2tgMw"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 233500,
+      "name": "Going In",
+      "url": "https://open.spotify.com/track/6xy4XTJnuhF0P2braEUec6"
     },
     {
       "album": {
@@ -938,6 +974,24 @@
     },
     {
       "album": {
+        "name": "Drum&BassArena 2018",
+        "url": "https://open.spotify.com/album/2A2esgfiJ5OI3eC8ZPUkPk"
+      },
+      "artists": [
+        {
+          "name": "Ownglow",
+          "url": "https://open.spotify.com/artist/5y0Z76say1n6Vj2mQnUHNj"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 270027,
+      "name": "LA",
+      "url": "https://open.spotify.com/track/3kPluQNtWwHlj0Mi0LENsd"
+    },
+    {
+      "album": {
         "name": "Won't U / LA",
         "url": "https://open.spotify.com/album/2qcoRLFUcc0boZmkEyZHL9"
       },
@@ -1095,6 +1149,24 @@
     {
       "album": {
         "name": "Mutiny",
+        "url": "https://open.spotify.com/album/5oGETlr4eCqwIs2UoQuL7Z"
+      },
+      "artists": [
+        {
+          "name": "Need For Mirrors",
+          "url": "https://open.spotify.com/artist/0bR5osQX9Kn0wmtUPQQhze"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295158,
+      "name": "Maxim",
+      "url": "https://open.spotify.com/track/1skNONa0IA1cwwQlRZtGJV"
+    },
+    {
+      "album": {
+        "name": "Mutiny",
         "url": "https://open.spotify.com/album/0r61t5Zlkv4qNYTfMvvQE0"
       },
       "artists": [
@@ -1105,10 +1177,28 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 295158,
       "name": "Maxim",
       "url": "https://open.spotify.com/track/2u30LHLeAlYl2vXyfwExPs"
+    },
+    {
+      "album": {
+        "name": "Meltdown",
+        "url": "https://open.spotify.com/album/09KfGWahS1Yv3FpOCSSJ6c"
+      },
+      "artists": [
+        {
+          "name": "Scout",
+          "url": "https://open.spotify.com/artist/3etLA4Y9THE0KfmbunVrAg"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300500,
+      "name": "Meltdown",
+      "url": "https://open.spotify.com/track/6XYNZEAwBuAlfT3uXLRyST"
     },
     {
       "album": {
@@ -1166,6 +1256,24 @@
     },
     {
       "album": {
+        "name": "No Fuss",
+        "url": "https://open.spotify.com/album/2pxQhQekFJ4SWiA2BEYAEI"
+      },
+      "artists": [
+        {
+          "name": "Cesco",
+          "url": "https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268922,
+      "name": "No Fuss",
+      "url": "https://open.spotify.com/track/20Nr0RVqOItWBLR1Th9ywW"
+    },
+    {
+      "album": {
         "name": "Helter Skelter",
         "url": "https://open.spotify.com/album/7yObjiXbEUKeOSL8N2XqOr"
       },
@@ -1181,6 +1289,28 @@
       "duration_ms": 288150,
       "name": "Off the Lorry",
       "url": "https://open.spotify.com/track/0P4iPgEIEDX75wUOXd9qtE"
+    },
+    {
+      "album": {
+        "name": "Pianos Raining Down",
+        "url": "https://open.spotify.com/album/3dO9tnx39lLoWZCHIWVszf"
+      },
+      "artists": [
+        {
+          "name": "4am Kru",
+          "url": "https://open.spotify.com/artist/7nrVhzPUJsigF7rt9BL9jQ"
+        },
+        {
+          "name": "McDonald & Jannetta",
+          "url": "https://open.spotify.com/artist/2Ppde9KaDEpnZuaEAlELO3"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215728,
+      "name": "Pianos Raining Down",
+      "url": "https://open.spotify.com/track/5SaVTrUTi3uKLfoaKlrGCx"
     },
     {
       "album": {
@@ -1407,6 +1537,28 @@
       "duration_ms": 346153,
       "name": "Spec 4",
       "url": "https://open.spotify.com/track/6VmJO2wXKw5k9AUCEcRTr2"
+    },
+    {
+      "album": {
+        "name": "Stretchpants",
+        "url": "https://open.spotify.com/album/64m3AzlGBOriNpCM8jTLd9"
+      },
+      "artists": [
+        {
+          "name": "Tim Reaper",
+          "url": "https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd"
+        },
+        {
+          "name": "Dwarde",
+          "url": "https://open.spotify.com/artist/6Yj4KzTFxItt3bGK9DuX4O"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364749,
+      "name": "Stretchpants",
+      "url": "https://open.spotify.com/track/2EAYnPgqUx33xH4d1pOnJL"
     },
     {
       "album": {
@@ -1795,6 +1947,28 @@
       "duration_ms": 253793,
       "name": "Walk Out",
       "url": "https://open.spotify.com/track/0EnEmOBiFTQjWDtOlwn2Nb"
+    },
+    {
+      "album": {
+        "name": "War Drum Riddim",
+        "url": "https://open.spotify.com/album/19bUNg6Fc8OLF9ZTfwVtXZ"
+      },
+      "artists": [
+        {
+          "name": "Degs",
+          "url": "https://open.spotify.com/artist/7gYMOxGbwZZgvaOc6z5VJG"
+        },
+        {
+          "name": "Hugh Hardie",
+          "url": "https://open.spotify.com/artist/0ZlH3VG6iAeC1KVzNz6rqW"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198680,
+      "name": "War Drum Riddim",
+      "url": "https://open.spotify.com/track/4oUf1DEdGXozH3gTRJNmFW"
     },
     {
       "album": {

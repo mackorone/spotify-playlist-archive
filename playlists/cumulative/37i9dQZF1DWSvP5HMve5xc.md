@@ -4,7 +4,7 @@
 
 > Listen to Eric Nam's greatest hits, all in one place.
 
-83 songs - 4 hr 29 min - [published](https://open.spotify.com/playlist/64ceLtYUlFs3VLXFCEHFFn)
+85 songs - 4 hr 35 min - [published](https://open.spotify.com/playlist/64ceLtYUlFs3VLXFCEHFFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Down For You](https://open.spotify.com/track/5NcJGNuS275gu8yzagz3L1) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [The Other Side](https://open.spotify.com/album/6PoWQtf3kVQkglgvsFRm9h) | 3:06 | 2021-10-14 | 2022-07-29 |
 | [Echo \(with KSHMR\)](https://open.spotify.com/track/5sbkFKdxVQ2FgEjKMvrHAL) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Echo \(with KSHMR\)](https://open.spotify.com/album/4Pqc9IVg6YRJPKakVOuZ2R) | 3:12 | 2021-10-14 |  |
 | [Erase](https://open.spotify.com/track/70IiwE3KGMGoB3zqsgwWPY) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [CLOUD 9](https://open.spotify.com/album/1AsAiZVkOZN2SEEIQziJ2l) | 4:19 | 2021-10-14 |  |
-| [FLOAT](https://open.spotify.com/track/3i7OLkVcsYvJI8fLPCFP22) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [FLOAT](https://open.spotify.com/album/605rL7SKIddSSuG6klhA6V) | 3:03 | 2021-10-14 |  |
+| [FLOAT](https://open.spotify.com/track/06AzqBM9R9aw3BsyEjDC5F) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [FLOAT](https://open.spotify.com/album/0jxLIJPnHdAKemY2UNXujJ) | 3:03 | 2021-10-14 |  |
+| [FLOAT](https://open.spotify.com/track/3i7OLkVcsYvJI8fLPCFP22) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [FLOAT](https://open.spotify.com/album/605rL7SKIddSSuG6klhA6V) | 3:03 | 2021-10-14 | 2022-10-14 |
 | [Good For You](https://open.spotify.com/track/1L9X1uzSZoPwyVzFOIOKDh) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [INTERVIEW](https://open.spotify.com/album/0woMyvkTKuCuiMLvUi3BsH) | 3:15 | 2021-10-14 |  |
 | [Good\-bye in once upon a time](https://open.spotify.com/track/5PJ4qGA50DzE6m3gpjMpbP) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Love in Memory OST Part.2](https://open.spotify.com/album/4lIIY9VAXXIVexOy0dcaZc) | 4:10 | 2021-10-14 |  |
 | [Heaven’s Door](https://open.spotify.com/track/2g5CduZnfP52qU4BGvT1Tg) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [CLOUD 9](https://open.spotify.com/album/1AsAiZVkOZN2SEEIQziJ2l) | 3:24 | 2021-10-14 |  |
@@ -49,7 +50,8 @@
 | [Interview](https://open.spotify.com/track/2izPoWJ6xAuZUNJkdXO3YS) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [INTERVIEW](https://open.spotify.com/album/0woMyvkTKuCuiMLvUi3BsH) | 3:25 | 2021-10-14 |  |
 | [Into You](https://open.spotify.com/track/1ySJm5XCFatpIz0j8NFlra) | [KOLAJ](https://open.spotify.com/artist/0hhL0iOf9ebHlwxWQyeH2w), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Into You](https://open.spotify.com/album/3Q33VTKlvcTy5wPTqpwDlK) | 3:45 | 2021-10-14 |  |
 | [Like You](https://open.spotify.com/track/2BHCx2cYIA4pJiXdXCicWT) | [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Like You](https://open.spotify.com/album/06ig0YtKAdv3OLh3te14Hm) | 2:53 | 2021-10-14 | 2022-07-29 |
-| [Like You](https://open.spotify.com/track/7yERcsIjjI9EO6AJMG2Rw9) | [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Like You](https://open.spotify.com/album/6eXbcBdkpjbvmQnP8OX64e) | 2:53 | 2021-10-14 |  |
+| [Like You](https://open.spotify.com/track/79HRioSXcdx1C1EI0OYhnb) | [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Like You](https://open.spotify.com/album/1LGPSvjg56zvngewWWvxf7) | 2:53 | 2021-10-14 |  |
+| [Like You](https://open.spotify.com/track/7yERcsIjjI9EO6AJMG2Rw9) | [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Like You](https://open.spotify.com/album/6eXbcBdkpjbvmQnP8OX64e) | 2:53 | 2021-10-14 | 2022-10-13 |
 | [Lose You](https://open.spotify.com/track/1SWza9L60qLwv7QYumlBTr) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Honestly](https://open.spotify.com/album/3VJ491AjnQygF0lcuiRD5D) | 3:03 | 2021-10-14 | 2022-07-29 |
 | [Lose You](https://open.spotify.com/track/7MIdbo0RDBjAhtfuqBJ0o1) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Honestly](https://open.spotify.com/album/5fhNla7mPuyaDXPwZUhM3Q) | 3:03 | 2021-10-14 |  |
 | [Lost On Me](https://open.spotify.com/track/5ijpPkVMurycFFfNKVlcoc) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [There And Back Again](https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1) | 2:54 | 2022-01-09 |  |
@@ -79,7 +81,7 @@
 | [The Night](https://open.spotify.com/track/09Ww8wyGMhg1MisDGxXm03) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Encounter \(Original Television Soundtrack\)](https://open.spotify.com/album/1KMG1vMVQfAtbREuyX3Xh5) | 3:41 | 2021-10-14 | 2022-07-29 |
 | [This Is Not A Love Song](https://open.spotify.com/track/0Fkod9SKPSHKQM2UtSH02Y) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Honestly](https://open.spotify.com/album/3VJ491AjnQygF0lcuiRD5D) | 3:30 | 2021-10-14 | 2022-07-29 |
 | [This Is Not A Love Song](https://open.spotify.com/track/7bpudprZI6hfD1mTmsvlw2) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Honestly](https://open.spotify.com/album/5fhNla7mPuyaDXPwZUhM3Q) | 3:30 | 2021-10-14 |  |
-| [Tomorrow 내일 \(With Eric Nam\)](https://open.spotify.com/track/31vNTboUCMZ36bVU8odUPW) | [KWON SOON IL](https://open.spotify.com/artist/1e7AZDBG64lv62iUtQ6nTf), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [With](https://open.spotify.com/album/76Lw6VV53UnuVXqnq2rBqD) | 3:29 | 2021-10-14 |  |
+| [Tomorrow \(With Eric Nam\)](https://open.spotify.com/track/31vNTboUCMZ36bVU8odUPW) | [KWON SOON IL](https://open.spotify.com/artist/1e7AZDBG64lv62iUtQ6nTf), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [With](https://open.spotify.com/album/76Lw6VV53UnuVXqnq2rBqD) | 3:29 | 2021-10-14 |  |
 | [Tomorrow 내일 \(With Eric Nam\)](https://open.spotify.com/track/4vi7ldKNHFhntK6KJz9BLd) | [KWON SOON IL](https://open.spotify.com/artist/1e7AZDBG64lv62iUtQ6nTf), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [With](https://open.spotify.com/album/4pPY24vHNrX6nL5EJyIIT7) | 3:29 | 2021-10-14 | 2022-07-29 |
 | [Trouble With You](https://open.spotify.com/track/2vPAcWqAAtp2hEkgR3tbFr) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [The Other Side](https://open.spotify.com/album/0WkJMdNXAtv5UvJaBUeNRq) | 2:32 | 2021-10-14 |  |
 | [Trouble With You](https://open.spotify.com/track/5YwroucvUJyUB6QdLHCrF7) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [The Other Side](https://open.spotify.com/album/6PoWQtf3kVQkglgvsFRm9h) | 2:32 | 2021-10-14 | 2022-07-29 |

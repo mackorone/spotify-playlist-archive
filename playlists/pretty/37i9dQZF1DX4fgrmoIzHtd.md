@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fgrmoIzHtd.md) - [plain]
 
 > <a href="spotify:artist:27LGatz1m8aJ7ZaVVWEphc">Gui Boratto</a>'s favourite tracks\. Updated regularly\. Curated by Gui Boratto\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,149 likes - 50 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,536 likes - 50 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fgrmoIzHtd.md) - [plain]
 | 34 | [Something More \- Soulwax Remix](https://open.spotify.com/track/4PWEykGSiHKHPolL4TVNjw) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Something More \(Soulwax Remix\)](https://open.spotify.com/album/71f1YS367eaqIsPQi58Ylt) | 5:51 |
 | 35 | [Robots](https://open.spotify.com/track/4JLHvLj1cHJpopm40v32lY) | [Landhouse](https://open.spotify.com/artist/0b05DhI4gD2fNDlqbFBOyt), [Raddantze](https://open.spotify.com/artist/1GHfdjpfUhB42zcMKm2EOL) | [Robots In Lilac Spaceships](https://open.spotify.com/album/1pRQnDjYshduiknpZpWrPc) | 8:04 |
 | 36 | [Hello](https://open.spotify.com/track/73z0nxgDAKFdbjtOOPzRf8) | [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O) | [Family Vacation](https://open.spotify.com/album/1im9R8CDiJAosjTn35shqA) | 8:39 |
-| 37 | [Chain of Command](https://open.spotify.com/track/5jhZFtAJf24UhxmBLd3T2z) | [Von Spar](https://open.spotify.com/artist/6rRQbKeGYpX8armrlaxWcn) | [Streetlife](https://open.spotify.com/album/0KrXmJifqUrtTnRRfoZGEg) | 4:40 |
+| 37 | [Chain of Command](https://open.spotify.com/track/5SmZpH8Aeq0EMwGTEa12ob) | [Von Spar](https://open.spotify.com/artist/6rRQbKeGYpX8armrlaxWcn) | [Streetlife](https://open.spotify.com/album/3r48EfIaSFTynvzXkFj28b) | 4:40 |
 | 38 | [Mighty Girl](https://open.spotify.com/track/59lfOvSJkOme1bUrzOn3PO) | [Lindstrøm](https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB), [Prins Thomas](https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6) | [Reinterpretations](https://open.spotify.com/album/4NZt8kIivC0Khq2MRoTY4I) | 7:22 |
 | 39 | [End of Line \- Remixed by Photek](https://open.spotify.com/track/2UBYw2qf9PkvoKQ610ocft) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Photek](https://open.spotify.com/artist/3hXDMlrPegHRO0zUvBsRSI) | [TRON: Legacy Reconfigured](https://open.spotify.com/album/382ObEPsp2rxGrnsizN5TX) | 5:18 |
 | 40 | [Interloper](https://open.spotify.com/track/1UgMLFmeVyphjePcN1TNpq) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Echonomist](https://open.spotify.com/artist/3ujc8l2JVYwGgAPU7KRRl3) | [Synchronicity I](https://open.spotify.com/album/3Ygk7ALQhqkyWmIK4wwSIY) | 7:23 |
 | 41 | [Borderless II](https://open.spotify.com/track/6r5FHlXksRbAVXXaMvfTiu) | [Fatima Yamaha](https://open.spotify.com/artist/7eZRt08LoDy0nfIS6OwyMP) | [Imaginary Lines](https://open.spotify.com/album/52TCSSFCj4Zr8KCiijwplp) | 6:22 |
 | 42 | [Lungo Mare](https://open.spotify.com/track/49eOvWATMHtPnJ018sNhum) | [Time To Sleep](https://open.spotify.com/artist/7EFMIaeoeTaEPZo7D8IXw0) | [Lungo Mare](https://open.spotify.com/album/264d41a6QmPYfMBZpdm1KK) | 4:08 |
 | 43 | [A Paw In My Face](https://open.spotify.com/track/2Kn4IrAsj0Af2w4PQFTf7r) | [The Field](https://open.spotify.com/artist/23MIhFHpoOuhtEHZDrrnCS) | [From Here We Go Sublime](https://open.spotify.com/album/5oNWGhIs9vpB6FJ6rv5VuO) | 5:24 |
-| 44 | [Philipp Dolphia](https://open.spotify.com/track/4Ie6qz0XnJm8OSIGTxUKXy) | [Jacob Korn](https://open.spotify.com/artist/3P86wrM6fNUokU6JLbjOYx), [good guy mikesh](https://open.spotify.com/artist/5F1botl1yQKgaFE4AFz4ZH), [Filburt](https://open.spotify.com/artist/1vGLThg91o4DzDa04sENLa) | [Philipp Dolphia](https://open.spotify.com/album/3ubpIPB6R643gOTaVp0ogL) | 7:14 |
+| 44 | [Philipp Dolphia](https://open.spotify.com/track/4yrmNn7vsXtMkssVedBais) | [Jacob Korn](https://open.spotify.com/artist/3P86wrM6fNUokU6JLbjOYx), [good guy mikesh](https://open.spotify.com/artist/5F1botl1yQKgaFE4AFz4ZH), [Filburt](https://open.spotify.com/artist/1vGLThg91o4DzDa04sENLa) | [Philipp Dolphia](https://open.spotify.com/album/33JfpvpDtIRux9Hood8XZr) | 7:14 |
 | 45 | [Lux Dementia](https://open.spotify.com/track/3QDWNSDUDZw3zyG35madtc) | [Afrilounge](https://open.spotify.com/artist/4N54QtQOrL2Vy57DKud9Ec) | [Lux Dementia](https://open.spotify.com/album/0x6DZ4tGN51BeGnwSeZi04) | 9:53 |
-| 46 | [Breaking Formation](https://open.spotify.com/track/5zASNpTjmgxkKAHLRoyKTz) | [Von Spar](https://open.spotify.com/artist/6rRQbKeGYpX8armrlaxWcn) | [Streetlife](https://open.spotify.com/album/0KrXmJifqUrtTnRRfoZGEg) | 4:31 |
+| 46 | [Breaking Formation](https://open.spotify.com/track/18DUuot6QcFh7TGK1d1e1F) | [Von Spar](https://open.spotify.com/artist/6rRQbKeGYpX8armrlaxWcn) | [Streetlife](https://open.spotify.com/album/3r48EfIaSFTynvzXkFj28b) | 4:31 |
 | 47 | [oh baby](https://open.spotify.com/track/53PkA8aXiwH4ppa0V0iO7o) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [american dream](https://open.spotify.com/album/4AF1M7bGCFL3LHCtXUUXw5) | 5:49 |
 | 48 | [The Rapture](https://open.spotify.com/track/5ySBb2ctQ3wlSHVgphxdYh) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [Avalon EP](https://open.spotify.com/album/7iZ6nGgVLPsmMMTJq3A1dI) | 8:01 |
 | 49 | [Illusion Of Time](https://open.spotify.com/track/02svSerh4F5X5Fn3rdnd93) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Illusion Of Time](https://open.spotify.com/album/60zljcyghRa4eCzf8nxeJU) | 4:22 |
 | 50 | [Last Dance](https://open.spotify.com/track/6w8tUj6gm9kHKYrYoNR47r) | [Fairmont](https://open.spotify.com/artist/2Ch5FKvelQEglFpISkr7Po) | [Automaton](https://open.spotify.com/album/46cBeOOFRsQQmeIOHmH0Vz) | 4:23 |
 
-Snapshot ID: `MTYyMDczNDg2MCwwMDAwMDAwMDY4OWRlZDkzYzNjODI1ZDVkOWEzZDdkYmU4OTU5MzIy`
+Snapshot ID: `MTYyMDczNDg2MCwwMDAwMDAwMDRlNzczNzYyMWQ4NTI3NmQyNjhlMTVlMmZiNTUwOTMz`

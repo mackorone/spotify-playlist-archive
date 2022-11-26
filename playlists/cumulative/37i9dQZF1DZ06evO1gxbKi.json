@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-11-25",
       "duration_ms": 160216,
       "name": "All Alone",
       "url": "https://open.spotify.com/track/2FAyOevYFLDtGudjSiWUlw"
@@ -131,7 +131,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-10-13",
       "duration_ms": 180661,
       "name": "Blessed Assurance",
       "url": "https://open.spotify.com/track/078IX8fLu9cRunf9urGp7Q"
@@ -149,7 +149,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-22",
+      "date_removed": "2022-10-18",
       "duration_ms": 177110,
       "name": "Bring Back Those Happy Days",
       "url": "https://open.spotify.com/track/1fHrhF3z0fNvtpA2aavvab"
@@ -185,7 +185,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 110270,
       "name": "Can't Sit Down - Live",
       "url": "https://open.spotify.com/track/2gghVdo9UnrCAf07hE8l4f"
@@ -207,6 +207,28 @@
       "duration_ms": 222906,
       "name": "Come By Here",
       "url": "https://open.spotify.com/track/1HdGMegJdBak9lLtgzWRoA"
+    },
+    {
+      "album": {
+        "name": "Complete Sister Rosetta Tharpe, Vol. 4: 1951-1953",
+        "url": "https://open.spotify.com/album/1jpSDFcGkKMmPlhgr2qVGt"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        },
+        {
+          "name": "Kelly Owens Quartet",
+          "url": "https://open.spotify.com/artist/3clrYB937yVxsbgwWfobJp"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-18",
+      "duration_ms": 148226,
+      "name": "Crying In the Chapel",
+      "url": "https://open.spotify.com/track/1iHiiV1KYAwHfnBEKhuI0q"
     },
     {
       "album": {
@@ -269,7 +291,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 171333,
       "name": "Down by the Riverside",
       "url": "https://open.spotify.com/track/2tk6nL1NqqRkjNtOLzwlnl"
@@ -359,7 +381,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 277453,
       "name": "Go Ahead",
       "url": "https://open.spotify.com/track/3iduBepxPdQzxUOCAz6b01"
@@ -413,7 +435,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-10-25",
       "duration_ms": 114681,
       "name": "He's Got the Whole World in His Hands - Live",
       "url": "https://open.spotify.com/track/1Vh3YDo7zs0dloAYuBpsfK"
@@ -453,7 +475,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 174492,
       "name": "How Far From God",
       "url": "https://open.spotify.com/track/3cN5ydsv1f5UVWIognMcRj"
@@ -489,7 +511,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-11-18",
       "duration_ms": 178560,
       "name": "I Can Hear The Angels",
       "url": "https://open.spotify.com/track/7pqbyssPmrES38X02wTRVz"
@@ -565,7 +587,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 171173,
       "name": "I Want A Tall Skinny Papa",
       "url": "https://open.spotify.com/track/6oBEmtC2OuL0tqaEvqKC8e"
@@ -583,7 +605,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-10-13",
       "duration_ms": 160993,
       "name": "I Want Jesus To Walk Around My Bedside",
       "url": "https://open.spotify.com/track/6KIr1UWjOocEljbQTAVlny"
@@ -691,7 +713,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-10-22",
       "duration_ms": 238800,
       "name": "Joshua Fit the Battle of Jericho",
       "url": "https://open.spotify.com/track/0dchRpophRSw64gxYtppmt"
@@ -796,6 +818,24 @@
     },
     {
       "album": {
+        "name": "Bring Back Those Happy Days",
+        "url": "https://open.spotify.com/album/7FunazLrYxpr4cuyP8oL11"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-26",
+      "duration_ms": 166746,
+      "name": "My Lord and I",
+      "url": "https://open.spotify.com/track/26hh2l8Otz7RD3w2Q3r6Io"
+    },
+    {
+      "album": {
         "name": "The Decca Singles, Vol. 1",
         "url": "https://open.spotify.com/album/4KNYUWaNkzdOHQQ2xWlRwD"
       },
@@ -832,6 +872,24 @@
     },
     {
       "album": {
+        "name": "Presenting Sister Rosetta Tharpe",
+        "url": "https://open.spotify.com/album/5lti5m4J6SvKRyW9r4f1Sm"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 158560,
+      "name": "Nobody Knows, Nobody Cares",
+      "url": "https://open.spotify.com/track/5h82CLQd1C0ExhBuuZZM7r"
+    },
+    {
+      "album": {
         "name": "The Gospel Of The Blues",
         "url": "https://open.spotify.com/album/28Cv21nC7Bme59GR2qtPzA"
       },
@@ -843,7 +901,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 179426,
       "name": "Nobody's Fault But Mine",
       "url": "https://open.spotify.com/track/3z5JS5NmUSb8llmXl8QZiq"
@@ -868,6 +926,24 @@
     },
     {
       "album": {
+        "name": "Precious Memories",
+        "url": "https://open.spotify.com/album/1YHahOzmBm2OgsIx0P3fU8"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 261000,
+      "name": "Peace In The Valley",
+      "url": "https://open.spotify.com/track/2eJgsexdt03ESg86cMONv5"
+    },
+    {
+      "album": {
         "name": "The Authorized Sister Rosetta Tharpe Collection",
         "url": "https://open.spotify.com/album/0QKuuYbckrnqy7qaL9zsRr"
       },
@@ -879,7 +955,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 332706,
       "name": "Peace in the Valley",
       "url": "https://open.spotify.com/track/4IkBfxdaaAULEsdaJcXUMw"
@@ -933,10 +1009,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 311360,
       "name": "Precious Memories",
       "url": "https://open.spotify.com/track/3znf1beToCYacQxQ5z467T"
+    },
+    {
+      "album": {
+        "name": "Presenting Sister Rosetta Tharpe",
+        "url": "https://open.spotify.com/album/5lti5m4J6SvKRyW9r4f1Sm"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311386,
+      "name": "Precious Memories",
+      "url": "https://open.spotify.com/track/0Oz3Xcyk76Ok86R7kgJrXG"
     },
     {
       "album": {
@@ -969,7 +1063,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 160731,
       "name": "Rock Daniel (VD129)",
       "url": "https://open.spotify.com/track/4AE2k4Ng7W6Yj5tD9xqVo2"
@@ -991,7 +1085,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-11-26",
       "duration_ms": 160093,
       "name": "Rock Me",
       "url": "https://open.spotify.com/track/0ff9ixoxJnJgQ3o5rx3wZP"
@@ -1049,7 +1143,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 160520,
       "name": "Shout, Sister, Shout!",
       "url": "https://open.spotify.com/track/52ppD2ntvCjr22dP17fuJ7"
@@ -1147,7 +1241,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": "2022-11-23",
       "duration_ms": 147391,
       "name": "Somebody Needs Jesus",
       "url": "https://open.spotify.com/track/6814OBIGcgQOKA0mx52p70"
@@ -1165,7 +1259,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 171990,
       "name": "Stand By Me",
       "url": "https://open.spotify.com/track/6wNOmArJVUaztEClcF2r4D"
@@ -1183,7 +1277,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 214273,
       "name": "Stand by Me",
       "url": "https://open.spotify.com/track/7j3gsabZNOnUJ8XlvL9WFq"
@@ -1237,7 +1331,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 132413,
       "name": "That's All",
       "url": "https://open.spotify.com/track/4fWjzZen5kGxuRUqjJCYR5"
@@ -1255,7 +1349,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 173688,
       "name": "The Devil Has Thrown Him Down",
       "url": "https://open.spotify.com/track/4kAlnTkUPazNX7rIq03Npw"
@@ -1273,7 +1367,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-06",
       "duration_ms": 309066,
       "name": "The Gospel Train",
       "url": "https://open.spotify.com/track/3BoWY9kSYauFjrn6qAJdkJ"
@@ -1291,7 +1385,7 @@
       ],
       "date_added": "2022-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-27",
+      "date_removed": null,
       "duration_ms": 190824,
       "name": "The Lord Followed Me",
       "url": "https://open.spotify.com/track/4qAYd3Z76F8mo5F2T3LoVq"
@@ -1309,7 +1403,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-11-22",
       "duration_ms": 196653,
       "name": "The Natural Facts",
       "url": "https://open.spotify.com/track/6xDQ3GKPIfNDZ8QoZdQ2SX"
@@ -1385,7 +1479,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 282813,
       "name": "This Train",
       "url": "https://open.spotify.com/track/4FgwdqCbpfv2AX17vbF8KN"
@@ -1457,7 +1551,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": "2022-11-24",
       "duration_ms": 153253,
       "name": "Up Above My Head I Hear Music in the Air",
       "url": "https://open.spotify.com/track/2GogRVDdUrZIPf2etethre"
@@ -1537,7 +1631,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-11-16",
       "duration_ms": 175516,
       "name": "What's the News?",
       "url": "https://open.spotify.com/track/0WPhN1OYQ9fDIRdjjqwIup"

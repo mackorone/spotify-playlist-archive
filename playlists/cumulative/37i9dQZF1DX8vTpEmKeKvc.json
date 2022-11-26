@@ -537,8 +537,8 @@
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         },
         {
-          "name": "Jhay Cortez",
-          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         }
       ],
       "date_added": "2022-01-04",
@@ -667,8 +667,8 @@
           "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
         },
         {
-          "name": "Jhay Cortez",
-          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         }
       ],
       "date_added": "2022-01-04",
@@ -1210,6 +1210,28 @@
     },
     {
       "album": {
+        "name": "En el Top",
+        "url": "https://open.spotify.com/album/1TzrPjQTLgYoC8TW6GjFRL"
+      },
+      "artists": [
+        {
+          "name": "Kaleb Di Masi",
+          "url": "https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4"
+        },
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 159480,
+      "name": "Matatan",
+      "url": "https://open.spotify.com/track/70FaubkOhFPttmbHwBZ4Up"
+    },
+    {
+      "album": {
         "name": "Matatan",
         "url": "https://open.spotify.com/album/1Zc1BZBEQm24BGG06MoDoZ"
       },
@@ -1391,7 +1413,7 @@
           "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
         },
         {
-          "name": "Nathy Peluso",
+          "name": "NATHY PELUSO",
           "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
         }
       ],
@@ -1577,6 +1599,28 @@
     {
       "album": {
         "name": "Pon Mi - Single",
+        "url": "https://open.spotify.com/album/3k78d0sB5hMS7KS6mKDzIH"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "Dunw3ll",
+          "url": "https://open.spotify.com/artist/0GXid8LlvA2twALSqLKYQ0"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 139677,
+      "name": "Pon Mi",
+      "url": "https://open.spotify.com/track/5SBoLHXJrREljJ4b5XUvj9"
+    },
+    {
+      "album": {
+        "name": "Pon Mi - Single",
         "url": "https://open.spotify.com/album/7ew0vm9cm9CezlVIidmPpT"
       },
       "artists": [
@@ -1591,10 +1635,32 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 139684,
       "name": "Pon Mi",
       "url": "https://open.spotify.com/track/0UaHOCvFu9vN3dJcVJoPgg"
+    },
+    {
+      "album": {
+        "name": "Pon Mi - Single",
+        "url": "https://open.spotify.com/album/3k78d0sB5hMS7KS6mKDzIH"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "Dunw3ll",
+          "url": "https://open.spotify.com/artist/0GXid8LlvA2twALSqLKYQ0"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139684,
+      "name": "Pon Mi",
+      "url": "https://open.spotify.com/track/6IhcWnMVyTUIXkVT7lSHK4"
     },
     {
       "album": {

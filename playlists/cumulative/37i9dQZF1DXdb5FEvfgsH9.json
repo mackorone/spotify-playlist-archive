@@ -30,8 +30,44 @@
     },
     {
       "album": {
+        "name": "Welcome",
+        "url": "https://open.spotify.com/album/66k2BD3Z2gtQt0UgXhZJSf"
+      },
+      "artists": [
+        {
+          "name": "Da\u00f0i Freyr",
+          "url": "https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 166000,
+      "name": "10 Years",
+      "url": "https://open.spotify.com/track/2wxvW9II2IMhqSme5YC9n3"
+    },
+    {
+      "album": {
         "name": "10 Years",
         "url": "https://open.spotify.com/album/2Zegz0LaKZgwrLo5UbEa2x"
+      },
+      "artists": [
+        {
+          "name": "Da\u00f0i Freyr",
+          "url": "https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 166000,
+      "name": "10 Years",
+      "url": "https://open.spotify.com/track/4O0LQKVT6hGmVGNwizmydg"
+    },
+    {
+      "album": {
+        "name": "10 Years",
+        "url": "https://open.spotify.com/album/3qSyv2svKxAypN9AsWVm92"
       },
       "artists": [
         {
@@ -44,7 +80,7 @@
       "date_removed": null,
       "duration_ms": 166000,
       "name": "10 Years",
-      "url": "https://open.spotify.com/track/4O0LQKVT6hGmVGNwizmydg"
+      "url": "https://open.spotify.com/track/6N6HSN3zytFXva8LTUUvIL"
     },
     {
       "album": {
@@ -59,10 +95,28 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 169804,
       "name": "Alcool",
       "url": "https://open.spotify.com/track/61QDPNx0lMqM1pC9Bx8K6o"
+    },
+    {
+      "album": {
+        "name": "Alcool",
+        "url": "https://open.spotify.com/album/0yzYRvOYlV5ryYCAXUZAsG"
+      },
+      "artists": [
+        {
+          "name": "Brother Zulu",
+          "url": "https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169804,
+      "name": "Alcool",
+      "url": "https://open.spotify.com/track/6c6XMB1tD84ldzSBrbhHvA"
     },
     {
       "album": {
@@ -179,7 +233,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 184907,
       "name": "Call It a Trend",
       "url": "https://open.spotify.com/track/2yCeAOeZOz1XaHYQeYD1mL"
@@ -373,6 +427,54 @@
       "duration_ms": 150545,
       "name": "Damage",
       "url": "https://open.spotify.com/track/0FFTohbXBhhTWCZXFICr60"
+    },
+    {
+      "album": {
+        "name": "Dance To Keep From Crying (Extended)",
+        "url": "https://open.spotify.com/album/1h8QZxz7F5ZiHKUicOJf5X"
+      },
+      "artists": [
+        {
+          "name": "Cor.Ece",
+          "url": "https://open.spotify.com/artist/7kBeFHrKwVJsFTP5wpRYEv"
+        },
+        {
+          "name": "JKriv",
+          "url": "https://open.spotify.com/artist/1E7Z1EQlB22dXWNzsAxY0K"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 478947,
+      "name": "Dance To Keep From Crying - Extended Mix",
+      "url": "https://open.spotify.com/track/025orqTVzganndkUT0M3B0"
+    },
+    {
+      "album": {
+        "name": "Dangerous (Touch Sensitive Remix)",
+        "url": "https://open.spotify.com/album/54UxhHBaQwRqvp7SWjrR4N"
+      },
+      "artists": [
+        {
+          "name": "Umii",
+          "url": "https://open.spotify.com/artist/63cNPy5lkcSkPmC1MrdRpc"
+        },
+        {
+          "name": "Reva DeVito",
+          "url": "https://open.spotify.com/artist/00jACgDWIBdPM4eH8nORwz"
+        },
+        {
+          "name": "B. Bravo",
+          "url": "https://open.spotify.com/artist/7xc31aDpVtMW34JWjZvAG4"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 231652,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/0SCcYTx5we9EKTPvEXxld5"
     },
     {
       "album": {
@@ -667,10 +769,36 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 175937,
       "name": "Fool For You",
       "url": "https://open.spotify.com/track/0urYHfuvFbdwOA1SYX4yvJ"
+    },
+    {
+      "album": {
+        "name": "Fool For You",
+        "url": "https://open.spotify.com/album/3eHSZLaNryhqzy0d5dUaOH"
+      },
+      "artists": [
+        {
+          "name": "Jafunk",
+          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
+        },
+        {
+          "name": "Nic Hanson",
+          "url": "https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc"
+        },
+        {
+          "name": "NanaBcool",
+          "url": "https://open.spotify.com/artist/3I1oZvnUZuHgJXSeNUy6Dq"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175937,
+      "name": "Fool For You",
+      "url": "https://open.spotify.com/track/4cFn7EyvJU4x0xJ34R2d6d"
     },
     {
       "album": {
@@ -794,6 +922,24 @@
     },
     {
       "album": {
+        "name": "Holding Time",
+        "url": "https://open.spotify.com/album/23hOpd3AvUxjfHw6kj1ZMA"
+      },
+      "artists": [
+        {
+          "name": "David Blazer",
+          "url": "https://open.spotify.com/artist/6fI10k7bFVFS76bHXdBof6"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209831,
+      "name": "Holding Time",
+      "url": "https://open.spotify.com/track/6kuVbHd5I1Wdvn3Er735AD"
+    },
+    {
+      "album": {
         "name": "Hotter (feat. Laura Jackson) [T-Groove Remix]",
         "url": "https://open.spotify.com/album/21zO039GPjGBWUdzowcofq"
       },
@@ -897,10 +1043,32 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-16",
       "duration_ms": 196290,
       "name": "Ice Cold",
       "url": "https://open.spotify.com/track/56Yxprnbo79DpT8GTKPXlZ"
+    },
+    {
+      "album": {
+        "name": "Ice Cold",
+        "url": "https://open.spotify.com/album/55OKR2BbANR7aq9UwA9u08"
+      },
+      "artists": [
+        {
+          "name": "Brother Zulu",
+          "url": "https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw"
+        },
+        {
+          "name": "Zoe Kypri",
+          "url": "https://open.spotify.com/artist/0FP3GDsv47TrSrV2elyhWX"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196290,
+      "name": "Ice Cold",
+      "url": "https://open.spotify.com/track/6g3dWdveVFaFrBR6cZTLHx"
     },
     {
       "album": {
@@ -1017,7 +1185,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 305994,
       "name": "Le Piano",
       "url": "https://open.spotify.com/track/3kdXigOly0AhtvYfAJFBjn"
@@ -1304,6 +1472,42 @@
     },
     {
       "album": {
+        "name": "Skin on Skin",
+        "url": "https://open.spotify.com/album/06sMD24BpQ0SWuqw05u7CT"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 183896,
+      "name": "Skin on Skin",
+      "url": "https://open.spotify.com/track/1JgJhFTOlrZ9EgaYQfDEpP"
+    },
+    {
+      "album": {
+        "name": "Dream in Colour",
+        "url": "https://open.spotify.com/album/3TaQ5k2QKdRly0pjMPZF6e"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183896,
+      "name": "Skin on Skin",
+      "url": "https://open.spotify.com/track/3OGSGJCdO1nbOrByhEuDus"
+    },
+    {
+      "album": {
         "name": "Dream in Colour",
         "url": "https://open.spotify.com/album/21z7E0MTyBXzjvuvsVt2Av"
       },
@@ -1315,7 +1519,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 183896,
       "name": "Skin on Skin",
       "url": "https://open.spotify.com/track/5enKTHTO3V8qFrsyCtXwRF"
@@ -1453,6 +1657,28 @@
       "duration_ms": 202225,
       "name": "Soy Gitano",
       "url": "https://open.spotify.com/track/2scAUFdLh4gHsF6iHytsYv"
+    },
+    {
+      "album": {
+        "name": "Spins (Lazywax Remix)",
+        "url": "https://open.spotify.com/album/4Z2p6uZduhJbDx2uWstqus"
+      },
+      "artists": [
+        {
+          "name": "Supertaste",
+          "url": "https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6"
+        },
+        {
+          "name": "Lazywax",
+          "url": "https://open.spotify.com/artist/0JmfcW7ntKscmNRiLbKEcw"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347148,
+      "name": "Spins - Lazywax Remix",
+      "url": "https://open.spotify.com/track/1ursruYcl4mapRUkBMMXxz"
     },
     {
       "album": {
@@ -1621,7 +1847,7 @@
     {
       "album": {
         "name": "Weekend Love",
-        "url": "https://open.spotify.com/album/2oI4tu8r7f3e1mgXYfYmMJ"
+        "url": "https://open.spotify.com/album/1JkJernn4xd0y6AeJM9N07"
       },
       "artists": [
         {
@@ -1640,6 +1866,32 @@
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 219280,
+      "name": "Weekend Love",
+      "url": "https://open.spotify.com/track/0X89tZvVGokJi9NDuz5tqN"
+    },
+    {
+      "album": {
+        "name": "Weekend Love",
+        "url": "https://open.spotify.com/album/2oI4tu8r7f3e1mgXYfYmMJ"
+      },
+      "artists": [
+        {
+          "name": "Jafunk",
+          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
+        },
+        {
+          "name": "Mike Nasa",
+          "url": "https://open.spotify.com/artist/7dA0IZAV5Wr4SjKCnI7Gx3"
+        },
+        {
+          "name": "Dana Williams",
+          "url": "https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-15",
       "duration_ms": 219280,
       "name": "Weekend Love",
       "url": "https://open.spotify.com/track/4gcO8PD4skPOBneayOCBdE"
@@ -1687,6 +1939,28 @@
     {
       "album": {
         "name": "Amplified Experiment",
+        "url": "https://open.spotify.com/album/4cS75aWftbOa1nTMdkg27E"
+      },
+      "artists": [
+        {
+          "name": "The APX",
+          "url": "https://open.spotify.com/artist/4FcDSQOUJabW2HEHGofJOM"
+        },
+        {
+          "name": "Mink Slide",
+          "url": "https://open.spotify.com/artist/4Yg2SUfnqsTc37ip0njWfH"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168333,
+      "name": "Your Touch",
+      "url": "https://open.spotify.com/track/5lMJEmLGzqbdFuOaonB0eO"
+    },
+    {
+      "album": {
+        "name": "Amplified Experiment",
         "url": "https://open.spotify.com/album/4LBXZnLDGPeR45cyr8BxMy"
       },
       "artists": [
@@ -1701,10 +1975,32 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 168333,
       "name": "Your Touch",
       "url": "https://open.spotify.com/track/5xRMmHOAQiVJ2QeDv0gTS7"
+    },
+    {
+      "album": {
+        "name": "Your Touch",
+        "url": "https://open.spotify.com/album/0stnWhCCa90eJjTPGqVhXf"
+      },
+      "artists": [
+        {
+          "name": "The APX",
+          "url": "https://open.spotify.com/artist/4FcDSQOUJabW2HEHGofJOM"
+        },
+        {
+          "name": "Mink Slide",
+          "url": "https://open.spotify.com/artist/4pW7lEAcGKdR77rKW6cYPJ"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 168411,
+      "name": "Your Touch",
+      "url": "https://open.spotify.com/track/7irxgIZPujseydOU1F9DGr"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdb5FEvfgsH9"

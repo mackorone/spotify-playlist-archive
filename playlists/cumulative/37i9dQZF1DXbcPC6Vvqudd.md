@@ -4,7 +4,7 @@
 
 > Pouring rain and occasional rolling thunder.
 
-395 songs - 17 hr 41 min - [published](https://open.spotify.com/playlist/24mLuWgScUP4helHcwLm2m)
+399 songs - 17 hr 52 min - [published](https://open.spotify.com/playlist/24mLuWgScUP4helHcwLm2m)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,7 +293,9 @@
 | [Relaxing Thunderstorm](https://open.spotify.com/track/3VcUGM9IYstqpptFCokPI4) | [The Forest Escape](https://open.spotify.com/artist/63nWC8U7RxoOnCLl3b6AK4) | [Rainy Days](https://open.spotify.com/album/6yxLBvCcUNcqXxugpmv3s8) | 2:09 | 2021-11-08 |  |
 | [REM Cycle Rain](https://open.spotify.com/track/4iA69uEBQfAItJ9k4DttC0) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Calming Water and Nature](https://open.spotify.com/album/2wvSQLGnfV2fvkLgUrbKDB) | 2:54 | 2021-11-08 |  |
 | [Rumbling](https://open.spotify.com/track/5aHIVNM8mZbJQgkTCEbHLu) | [Oluja](https://open.spotify.com/artist/4NezsL00vYvCDeBNlLYEtV) | [Take Cover](https://open.spotify.com/album/7xIxj7pi7fuSSfNjOYcpxJ) | 3:00 | 2021-11-08 |  |
-| [rumbling rainfall](https://open.spotify.com/track/7e4RppJmMYGWgvx1qGGixI) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [rumbling rainfall](https://open.spotify.com/album/2aSuvA08FWUZ7LLkwxs31n) | 2:34 | 2021-11-08 |  |
+| [rumbling rainfall](https://open.spotify.com/track/45eRVAGkGYIygQ1GjTl2Ff) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [peaceful showers \(rain\)](https://open.spotify.com/album/5EmHKVBfrBkmHT4PlOd39x) | 2:34 | 2022-07-19 |  |
+| [rumbling rainfall](https://open.spotify.com/track/7e4RppJmMYGWgvx1qGGixI) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [rumbling rainfall](https://open.spotify.com/album/2aSuvA08FWUZ7LLkwxs31n) | 2:34 | 2021-11-08 | 2022-10-13 |
+| [rumbling rainfall](https://open.spotify.com/track/7kGo20hUUfzQMoStsAMGkk) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [rumbling rainfall](https://open.spotify.com/album/1HuVYjvk3XcTIUsG5h0ufs) | 2:34 | 2022-07-19 | 2022-11-13 |
 | [Rumbling Sky](https://open.spotify.com/track/3WvMRwe0VySgRljtVvBtWY) | [Nue](https://open.spotify.com/artist/4zPX6V2gCI5nf46EQTpRr9) | [Rumbling Sky](https://open.spotify.com/album/1OHgb6ZIhjzLTO9j6FvBux) | 2:27 | 2021-11-08 |  |
 | [Rural Rain](https://open.spotify.com/track/5rqQCxXIbe5YwIdbV0rSUJ) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Nature's Peaceful Sounds](https://open.spotify.com/album/3OmH5IoMCLOK4ehfVhc21y) | 1:58 | 2021-11-08 |  |
 | [Safe Rain](https://open.spotify.com/track/23ekbyCzQ5EchBKxWESCRt) | [AEON](https://open.spotify.com/artist/1TgJCAaMIcCTM980NCH5xk) | [Empty Rain](https://open.spotify.com/album/0DJngrcM7Tk4wU95QlTM1y) | 2:04 | 2021-11-08 |  |
@@ -327,7 +329,9 @@
 | [Sound Of Rain](https://open.spotify.com/track/2pO4VCd6vKG1XjzxlNvGPd) | [Rain ZPE](https://open.spotify.com/artist/5btXRFPLxDHay7eed3kHLd) | [Falling Clouds](https://open.spotify.com/album/6wGZLw1MBKZQVLelPdBoDJ) | 2:00 | 2021-11-08 |  |
 | [Spring Rain](https://open.spotify.com/track/3tJUPN4RceFzN6YScWnO46) | [Deszcz](https://open.spotify.com/artist/7mc60Wf7K9edgiJL0FQ6vz) | [Tea & Rainy Days](https://open.spotify.com/album/7t4DXof9s7bZIjH4ejRc03) | 3:32 | 2021-11-08 |  |
 | [Standing In The Rain](https://open.spotify.com/track/2z1zCDlx7GjDGSnaeHFrJL) | [Baltic Nature Sounds](https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3) | [Rain Sounds Vol\. 3](https://open.spotify.com/album/6PaBSB3g4H0XmRaZvTDqkE) | 2:42 | 2021-11-08 |  |
-| [starlit rainfall](https://open.spotify.com/track/7gkwTHnQ1QxWcM6HDBOqXo) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [starlit rainfall](https://open.spotify.com/album/2sknFZDDYwy2o1zlnkg4iN) | 2:41 | 2021-11-08 |  |
+| [starlit rainfall](https://open.spotify.com/track/1SKqicEoNoTQp1XEmXTlcM) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [starlit rainfall](https://open.spotify.com/album/0b4L0c4mNqezstudoXa0Uy) | 2:41 | 2022-07-19 | 2022-11-13 |
+| [starlit rainfall](https://open.spotify.com/track/7CLQUiUTBqBtjZHHkSVNuf) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [peaceful showers \(rain\)](https://open.spotify.com/album/5EmHKVBfrBkmHT4PlOd39x) | 2:41 | 2022-07-19 |  |
+| [starlit rainfall](https://open.spotify.com/track/7gkwTHnQ1QxWcM6HDBOqXo) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [starlit rainfall](https://open.spotify.com/album/2sknFZDDYwy2o1zlnkg4iN) | 2:41 | 2021-11-08 | 2022-10-14 |
 | [Starting to rain](https://open.spotify.com/track/7dkQRyEnWGmki1fGtkvGAW) | [The Wet](https://open.spotify.com/artist/2IgElvWe0O1lxnnW4XPmNE) | [Rain outside my window](https://open.spotify.com/album/4EdscJEihXupZqV6UaKAhc) | 3:32 | 2021-11-08 |  |
 | [Staycation Rain](https://open.spotify.com/track/5LGvDftuWcuR43b1nKFXIR) | [Rain Mozart](https://open.spotify.com/artist/6yc5UNveUs9xHzvSLf8NdT) | [Drip Symphony](https://open.spotify.com/album/3mMfGtP92FkXwCBFcnkp1e) | 2:01 | 2021-11-08 |  |
 | [Steady Forest Rain](https://open.spotify.com/track/1TYHz90DiG6VARt4hjopOF) | [Creatress](https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ) | [Umbrella Weather](https://open.spotify.com/album/3xItyMnVuhzJ4xZZaVabSW) | 2:35 | 2021-11-08 |  |

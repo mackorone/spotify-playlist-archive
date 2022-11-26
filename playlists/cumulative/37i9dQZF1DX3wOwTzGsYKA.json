@@ -223,7 +223,7 @@
     {
       "album": {
         "name": "Wild Youth",
-        "url": "https://open.spotify.com/album/3k1RJDh4AnciWhtXm8fymT"
+        "url": "https://open.spotify.com/album/6BxQ7IyCBbx4CeB7BHQwet"
       },
       "artists": [
         {
@@ -234,6 +234,24 @@
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 258972,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/1ujiHGg5p9SVrNIV4jumQK"
+    },
+    {
+      "album": {
+        "name": "Wild Youth",
+        "url": "https://open.spotify.com/album/3k1RJDh4AnciWhtXm8fymT"
+      },
+      "artists": [
+        {
+          "name": "Daughter",
+          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
       "duration_ms": 258973,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/4TxJQDtvYHJcOBH6ONi6q2"
@@ -291,6 +309,24 @@
       "duration_ms": 180266,
       "name": "Three Little Birds",
       "url": "https://open.spotify.com/track/75FYqcxt1YEAtqDLrOeIJn"
+    },
+    {
+      "album": {
+        "name": "Hopeful Music",
+        "url": "https://open.spotify.com/album/2KLYTP6Lm6Sgsc4oCxWYO4"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 180800,
+      "name": "Three Little Birds",
+      "url": "https://open.spotify.com/track/7G50pcN2iGxpJGVY34otOK"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3gF0C6rGZR.md) - [plain]
 
 > Las obras maestras de dos enormes compositores, una tras otra\. No hay fallo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,407 likes - 100 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,977 likes - 100 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3gF0C6rGZR.md) - [plain]
 | 12 | [La Mujer Que Yo Quiero](https://open.spotify.com/track/7woFqgcnG5w6xBGHC2wlXY) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Mediterráneo](https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72) | 3:49 |
 | 13 | [19 Dias y 500 Noches \- En Directo](https://open.spotify.com/track/3LXFi1Xk9qJsYXYEjDcuVH) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Nos Sobran Los Motivos](https://open.spotify.com/album/6lzBpfskJ6azfSi88CECKv) | 5:19 |
 | 14 | [Que Va a Ser de Ti](https://open.spotify.com/track/1yhdRrgE0E8f4gs0wQKu60) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Mediterráneo](https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72) | 4:38 |
-| 15 | [La Cancion Mas Hermosa del Mundo](https://open.spotify.com/track/5UNKhmppwHMhqV2s9iYX6a) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Diario De Un Peaton](https://open.spotify.com/album/3b7tKskjkIsYIYYmmx9JTu) | 4:54 |
+| 15 | [La Canción Más Hermosa del Mundo](https://open.spotify.com/track/5UNKhmppwHMhqV2s9iYX6a) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Diario De Un Peaton](https://open.spotify.com/album/3b7tKskjkIsYIYYmmx9JTu) | 4:54 |
 | 16 | [Tu Nombre Me Sabe a Yerba](https://open.spotify.com/track/3z3DtBS12kXOwaWDlYhh6i) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [La Paloma](https://open.spotify.com/album/10CPq3R1c4Lq9nH4qVA8Eg) | 2:31 |
 | 17 | [Nos Sobran los Motivos \- En Directo](https://open.spotify.com/track/3gY2q8M3a03KpwOGj0zt88) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Nos Sobran Los Motivos](https://open.spotify.com/album/6lzBpfskJ6azfSi88CECKv) | 5:44 |
 | 18 | [Lucia \(with Silvio Rodríguez\)](https://open.spotify.com/track/44RRIuioxHdtujpJ3PDkxA) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7), [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Antología Desordenada](https://open.spotify.com/album/5hyxVY36Zb54xX5uEpVwCR) | 3:12 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3gF0C6rGZR.md) - [plain]
 | 48 | [Medias Negras](https://open.spotify.com/track/1MT0Z24LifpPyEfxBN8ybR) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Esencial Joaquin Sabina](https://open.spotify.com/album/1vk5RBDPWivy4iwAKPbEet) | 4:47 |
 | 49 | [No Hago Otra Cosa Que Pensar en Ti](https://open.spotify.com/track/0t3yaLPmfvNfsShotQeXxs) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7), [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Dos Pajaros De Un Tiro](https://open.spotify.com/album/4J0sq1BDEOPbEsSlAI17u6) | 4:11 |
 | 50 | [He Andado Muchos Caminos](https://open.spotify.com/track/4GHlOu6XgP4mNZJjCsDwZv) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Dedicado A Antonio Machado, Poeta](https://open.spotify.com/album/3EF2QL5cEctLrXwNqTIBZX) | 2:31 |
-| 51 | [Pero Que Hermosas Eran \- Directo](https://open.spotify.com/track/7EETUtuOtr8t1B9GIxgWVz) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [500 Noches para una Crisis \(En Directo\)](https://open.spotify.com/album/2jES2ebdNVsrXtUXYEovme) | 9:04 |
+| 51 | [Pero Qué Hermosas Eran \- Directo](https://open.spotify.com/track/7EETUtuOtr8t1B9GIxgWVz) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [500 Noches para una Crisis \(En Directo\)](https://open.spotify.com/album/2jES2ebdNVsrXtUXYEovme) | 9:04 |
 | 52 | [Cambalache \- En Directo](https://open.spotify.com/track/1kGPp4f8aILk1LqV6tjOZI) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Serrat En Directo](https://open.spotify.com/album/5uc1F7ZXMeGxgvfp9z7W8G) | 3:39 |
 | 53 | [Churumbelas](https://open.spotify.com/track/7J1s6413EwV23HuQ5A6cUU) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Lo Niego Todo](https://open.spotify.com/album/2x3RmoJMCnirFKl6iTODhp) | 3:49 |
 | 54 | [Soy Lo Prohibido](https://open.spotify.com/track/7r0Uc4YIFfwxTDkmkdeHOI) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Cansiones \(Tarres / Serrat\)](https://open.spotify.com/album/1LfSGUUCSqbm0BsLs73STR) | 3:06 |
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3gF0C6rGZR.md) - [plain]
 | 74 | [Cada Loco Con Su Tema](https://open.spotify.com/track/1thgvw4iBQEUTzcGKOPwhy) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Cada Loco Con Su Tema](https://open.spotify.com/album/5RX5mfuHRA7QIriJ693QG3) | 5:36 |
 | 75 | [Pongamos Que Hablo de Madrid](https://open.spotify.com/track/4L3gOv26fhKuOZCOaZgQYj) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Mucho Sabina](https://open.spotify.com/album/5pr2R3J9kR06c9RmRGlvqa) | 4:05 |
 | 76 | [Nanas de la Cebolla](https://open.spotify.com/track/1joUuNG5lEcjY2OxUJwL5J) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Miguel Hernandez](https://open.spotify.com/album/16CjMJTRsm3KSEgudueP2S) | 5:53 |
-| 77 | [Una Cancion para la Magdalena \- Directo](https://open.spotify.com/track/6GNN6bwXY656oi15ymkbiW) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [500 Noches para una Crisis \(En Directo\)](https://open.spotify.com/album/2jES2ebdNVsrXtUXYEovme) | 4:48 |
+| 77 | [Una Canción para la Magdalena \- Directo](https://open.spotify.com/track/6GNN6bwXY656oi15ymkbiW) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [500 Noches para una Crisis \(En Directo\)](https://open.spotify.com/album/2jES2ebdNVsrXtUXYEovme) | 4:48 |
 | 78 | [A Usted](https://open.spotify.com/track/5k3IIxkZbvGoWdEPhw6Z2L) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [En Transito](https://open.spotify.com/album/2OlJAOxMhMBR7wfS5CkfwJ) | 3:13 |
 | 79 | [Dieguitos y Mafaldas \- Directo](https://open.spotify.com/track/3mHM00zrF1fmDzlTzUAtPM) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [500 Noches para una Crisis \(En Directo\)](https://open.spotify.com/album/2jES2ebdNVsrXtUXYEovme) | 4:41 |
 | 80 | [Com Ho Fa el Vent](https://open.spotify.com/track/1UnRlYQY1fyPrOqIKpLLfR) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Com Ho Fa El Vent](https://open.spotify.com/album/7amxIKMZZQE8AUkrXaje1O) | 1:36 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Keep your finger on the pulse of Americana. Cover: Nikki Lane",
+  "description": "Keep your finger on the pulse of Americana. Cover: Margo Price",
   "name": "The Pulse of Americana",
   "published_playlist_ids": [
     "1H5Sok0MEuwSOB35Thab6M"
@@ -185,7 +185,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 202146,
       "name": "Ain\u2019t Lookin\u2019",
       "url": "https://open.spotify.com/track/3RKHWmV9e2sagLCOyaZ2OB"
@@ -427,7 +427,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-12",
+      "date_removed": "2022-11-13",
       "duration_ms": 228800,
       "name": "Anywhere",
       "url": "https://open.spotify.com/track/5ZxFg3dgrAYd5G6NMKGU1l"
@@ -723,10 +723,46 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 245889,
       "name": "Blood Harmony",
       "url": "https://open.spotify.com/track/03DkpmmMGvsyuNjb7rBn72"
+    },
+    {
+      "album": {
+        "name": "Southern Comfort",
+        "url": "https://open.spotify.com/album/3TqV8iVdm8DPX4KXMPGiM5"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 245889,
+      "name": "Blood Harmony",
+      "url": "https://open.spotify.com/track/2SKhgi7oS1MNE3rSRHcJBA"
+    },
+    {
+      "album": {
+        "name": "Blood Harmony",
+        "url": "https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245889,
+      "name": "Blood Harmony",
+      "url": "https://open.spotify.com/track/7bIJA0XRb8iysNCyaZISB3"
     },
     {
       "album": {
@@ -882,6 +918,24 @@
     },
     {
       "album": {
+        "name": "A Lifetime to Find",
+        "url": "https://open.spotify.com/album/3lxavXQElVKfCmqZSIrRV1"
+      },
+      "artists": [
+        {
+          "name": "Trampled by Turtles",
+          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179573,
+      "name": "Burlesque Desert Window",
+      "url": "https://open.spotify.com/track/2VRlBQCorJfk9QNWVyCMpy"
+    },
+    {
+      "album": {
         "name": "C'mon America",
         "url": "https://open.spotify.com/album/20d5m4EhOkMvp0xQgS7RiZ"
       },
@@ -965,7 +1019,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 223400,
       "name": "Call It A Day",
       "url": "https://open.spotify.com/track/5Wj3LM6AppledVJpn9mihn"
@@ -1001,7 +1055,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 289791,
       "name": "Canola Fields",
       "url": "https://open.spotify.com/track/6qgbLRTPfUVyWMPHYgyHS6"
@@ -1059,10 +1113,28 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 169279,
       "name": "Caught Me at a Good Time",
       "url": "https://open.spotify.com/track/1d8vNPCq2S9pIpVuqliraI"
+    },
+    {
+      "album": {
+        "name": "Change Of Heart",
+        "url": "https://open.spotify.com/album/35XgdqqbXM9OBWuApaiPJ3"
+      },
+      "artists": [
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243586,
+      "name": "Change Of Heart",
+      "url": "https://open.spotify.com/track/68DSsSVGCUwfEMeZI6xhxW"
     },
     {
       "album": {
@@ -1103,7 +1175,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 259532,
       "name": "Chardonnay",
       "url": "https://open.spotify.com/track/39TOH43UmQRBQZEHEh1FdS"
@@ -1259,6 +1331,24 @@
       "duration_ms": 232827,
       "name": "Crooked Tree",
       "url": "https://open.spotify.com/track/1zdE4LkAjdilFJF8BolAHG"
+    },
+    {
+      "album": {
+        "name": "Drained",
+        "url": "https://open.spotify.com/album/1Qa1Ts5OAfJikGuI3LooYZ"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 235478,
+      "name": "CRY",
+      "url": "https://open.spotify.com/track/4jUNRATNc84n5nlxzGeLfg"
     },
     {
       "album": {
@@ -1799,7 +1889,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 186016,
       "name": "First Time Feeling",
       "url": "https://open.spotify.com/track/35q6uD5WsqzRPEblLjj5dw"
@@ -2056,6 +2146,24 @@
     },
     {
       "album": {
+        "name": "Unicorn",
+        "url": "https://open.spotify.com/album/3tb5q9GynOzJaq0lIy9pvR"
+      },
+      "artists": [
+        {
+          "name": "The Lone Bellow",
+          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202360,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/4FhJPRWj8OB36Jk4CDlSY4"
+    },
+    {
+      "album": {
         "name": "Golden Years",
         "url": "https://open.spotify.com/album/0sfjxBL5IvqREalOeEkmDW"
       },
@@ -2071,6 +2179,24 @@
       "duration_ms": 217893,
       "name": "Golden Years",
       "url": "https://open.spotify.com/track/4fQXOpDKcxHWgYXmincsq8"
+    },
+    {
+      "album": {
+        "name": "Laughing River",
+        "url": "https://open.spotify.com/album/1LnQJBFkhJGgr6mfTwDET8"
+      },
+      "artists": [
+        {
+          "name": "Seth Avett",
+          "url": "https://open.spotify.com/artist/6XCZ1uSV9jKMOlqck0ubQW"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226371,
+      "name": "Good Morning Coffee",
+      "url": "https://open.spotify.com/track/6ic8f1Bzdq8hYoqUobU15F"
     },
     {
       "album": {
@@ -2301,7 +2427,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-01",
+      "date_removed": "2022-11-13",
       "duration_ms": 227465,
       "name": "Hawk For The Dove",
       "url": "https://open.spotify.com/track/62td314sXG1sOEtwiTOAnO"
@@ -2714,6 +2840,32 @@
     },
     {
       "album": {
+        "name": "I Walked With You A Ways",
+        "url": "https://open.spotify.com/album/7mdK7vYHrLMzPHGeGXQN0h"
+      },
+      "artists": [
+        {
+          "name": "Plains",
+          "url": "https://open.spotify.com/artist/1vxqrtPBBQWCuoAcJqVCph"
+        },
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        },
+        {
+          "name": "Jess Williamson",
+          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214653,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/2XVHVNrfeITZa9Dj9t9gc3"
+    },
+    {
+      "album": {
         "name": "Hypnotized",
         "url": "https://open.spotify.com/album/3pBDTOjkxOKziMq71oXorJ"
       },
@@ -2928,6 +3080,24 @@
     },
     {
       "album": {
+        "name": "On The Ranch",
+        "url": "https://open.spotify.com/album/46zBXKv7dPhFRcDpr5NxWQ"
+      },
+      "artists": [
+        {
+          "name": "Emily Nenni",
+          "url": "https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161666,
+      "name": "In The Mornin\u2019",
+      "url": "https://open.spotify.com/track/18boKjkBe0r4TLYdpVxHfo"
+    },
+    {
+      "album": {
         "name": "In The Pines",
         "url": "https://open.spotify.com/album/4J4zam9BmBnrGSzrI7SrMp"
       },
@@ -2993,7 +3163,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 217960,
       "name": "It's So Hard to Hold On",
       "url": "https://open.spotify.com/track/74X7aghQOSTL34O9xa3fwb"
@@ -3220,6 +3390,24 @@
     },
     {
       "album": {
+        "name": "Year Of The Dark Horse",
+        "url": "https://open.spotify.com/album/0HLAkdOg4mPRmdVaIdTK11"
+      },
+      "artists": [
+        {
+          "name": "The White Buffalo",
+          "url": "https://open.spotify.com/artist/3ohcHMuUq1717s8AH17hfT"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208053,
+      "name": "Kingdom For A Fool",
+      "url": "https://open.spotify.com/track/2tKyv5qRq8PTp0sGJ0vu06"
+    },
+    {
+      "album": {
         "name": "Obviously",
         "url": "https://open.spotify.com/album/2Zi7uv234eNZJfLPGUIkSD"
       },
@@ -3373,7 +3561,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 218813,
       "name": "Leave This Town",
       "url": "https://open.spotify.com/track/3SefjlLxqaB4KOBtUmjXSO"
@@ -3474,6 +3662,24 @@
     },
     {
       "album": {
+        "name": "Lost Lover's Eyes",
+        "url": "https://open.spotify.com/album/1eEqgnT0al5DaAaDHdShsG"
+      },
+      "artists": [
+        {
+          "name": "Vince Herman",
+          "url": "https://open.spotify.com/artist/68y27sv6lj2UUtFw4ckGiG"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203506,
+      "name": "Lost Lover's Eyes",
+      "url": "https://open.spotify.com/track/4mrFszdYwKUgN5hlxEAfKK"
+    },
+    {
+      "album": {
         "name": "Love Is Selfish",
         "url": "https://open.spotify.com/album/3XzfsUkZx4TCGdchhJBI1A"
       },
@@ -3485,7 +3691,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 172885,
       "name": "Love Is Selfish",
       "url": "https://open.spotify.com/track/5ZsJidhpJJ4qFhmp5h5oyk"
@@ -3944,6 +4150,24 @@
     },
     {
       "album": {
+        "name": "No Reason",
+        "url": "https://open.spotify.com/album/01ViTwi8Uah9hrZ2dur0N3"
+      },
+      "artists": [
+        {
+          "name": "Sunny War",
+          "url": "https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159493,
+      "name": "No Reason",
+      "url": "https://open.spotify.com/track/37jwU53srb7CnhdoUPjTEY"
+    },
+    {
+      "album": {
         "name": "Not Mine to Begin With",
         "url": "https://open.spotify.com/album/27DMNQKPVF4JH4HBB7hG44"
       },
@@ -4009,7 +4233,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 168346,
       "name": "On The Ranch",
       "url": "https://open.spotify.com/track/0mHgo4idHJkSRsv1z7Tuje"
@@ -4327,7 +4551,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 169290,
       "name": "Plain Dealing",
       "url": "https://open.spotify.com/track/7CVFMKpWFqztojsuR654u9"
@@ -4544,6 +4768,24 @@
     },
     {
       "album": {
+        "name": "Underground Forever",
+        "url": "https://open.spotify.com/album/2EJv943X8gpKSdw82Hwhyb"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Tyler",
+          "url": "https://open.spotify.com/artist/5p6wXe8rGh3RBbhZlLj9qU"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212909,
+      "name": "Rhinestone",
+      "url": "https://open.spotify.com/track/7dHy8LL7YpI69ZtmfmI83n"
+    },
+    {
+      "album": {
         "name": "LIFE ON EARTH",
         "url": "https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3"
       },
@@ -4577,6 +4819,24 @@
       "duration_ms": 214173,
       "name": "RHODODENDRON",
       "url": "https://open.spotify.com/track/5gETHZhvjZ2kBmCwR4RqbY"
+    },
+    {
+      "album": {
+        "name": "Rich Little Girls",
+        "url": "https://open.spotify.com/album/4TQGtYIgVUC53l3cvyaOeg"
+      },
+      "artists": [
+        {
+          "name": "Brit Taylor",
+          "url": "https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179746,
+      "name": "Rich Little Girls",
+      "url": "https://open.spotify.com/track/6iZwFG2RPqHpPFd4FP9M3A"
     },
     {
       "album": {
@@ -4657,6 +4917,24 @@
       "duration_ms": 204466,
       "name": "Runaway Horses (feat. Phoebe Bridgers) - Abridged",
       "url": "https://open.spotify.com/track/3PeCWDczrGqdD1E3mbok2X"
+    },
+    {
+      "album": {
+        "name": "The Hometown Kid",
+        "url": "https://open.spotify.com/album/0BcZyoVBPOaZyjm8E4Kc4H"
+      },
+      "artists": [
+        {
+          "name": "Gabe Lee",
+          "url": "https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266058,
+      "name": "Rusty",
+      "url": "https://open.spotify.com/track/14bk3wzV22GaMBx52kQXEd"
     },
     {
       "album": {
@@ -4982,6 +5260,24 @@
     },
     {
       "album": {
+        "name": "What Is This Body?",
+        "url": "https://open.spotify.com/album/1GJZX5zkis6BCJgC4xBzdY"
+      },
+      "artists": [
+        {
+          "name": "Lera Lynn",
+          "url": "https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 187533,
+      "name": "Something More Than Love",
+      "url": "https://open.spotify.com/track/62uE20DHjkaVqOnhCJWHRT"
+    },
+    {
+      "album": {
         "name": "Soul Sweet Song",
         "url": "https://open.spotify.com/album/1zvef1QMx5kNFNKifTTQud"
       },
@@ -5019,6 +5315,42 @@
       "duration_ms": 203480,
       "name": "South Dakota Wild One",
       "url": "https://open.spotify.com/track/0BJlcD5MNOzlHZr4IeFGnj"
+    },
+    {
+      "album": {
+        "name": "Blood Harmony",
+        "url": "https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227224,
+      "name": "Southern Comfort",
+      "url": "https://open.spotify.com/track/17Rlm2i1lChVzLN7aqkqlN"
+    },
+    {
+      "album": {
+        "name": "Southern Comfort",
+        "url": "https://open.spotify.com/album/3TqV8iVdm8DPX4KXMPGiM5"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 227224,
+      "name": "Southern Comfort",
+      "url": "https://open.spotify.com/track/5KzEN5lO01AECyGAcgbcLt"
     },
     {
       "album": {
@@ -5091,7 +5423,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 155026,
       "name": "Step In",
       "url": "https://open.spotify.com/track/1b44sEBiYyl35EbYDgNGfk"
@@ -5383,7 +5715,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 205546,
       "name": "Texas Moon",
       "url": "https://open.spotify.com/track/3EWI7uja1ZE1GF8qaKH3jO"
@@ -5515,6 +5847,24 @@
       "duration_ms": 204548,
       "name": "The Last Dance",
       "url": "https://open.spotify.com/track/4E2uNyCIUpK08njwoLQh02"
+    },
+    {
+      "album": {
+        "name": "The Light Saw Me",
+        "url": "https://open.spotify.com/album/2i4mGpyGWt8NGwxwgbn6XK"
+      },
+      "artists": [
+        {
+          "name": "Jason Boland & The Stragglers",
+          "url": "https://open.spotify.com/artist/1sX1MkGoDKuMzzhaALPFyZ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 192458,
+      "name": "The Light Saw Me",
+      "url": "https://open.spotify.com/track/3PPM7i0ZexIaFoZPvFmYur"
     },
     {
       "album": {
@@ -5761,7 +6111,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 253600,
       "name": "the wild",
       "url": "https://open.spotify.com/track/7ikQXwUOS8Bst77bpYuXqH"
@@ -5899,6 +6249,24 @@
       "duration_ms": 199308,
       "name": "Trickaroo",
       "url": "https://open.spotify.com/track/4yjzbksh5X1nmKQ18hnVXA"
+    },
+    {
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/4by6JLsfSmOJiE2LRW2IQ5"
+      },
+      "artists": [
+        {
+          "name": "Eddie Berman",
+          "url": "https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159746,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/4W0ymwsGpZyMRWQfikn7q9"
     },
     {
       "album": {

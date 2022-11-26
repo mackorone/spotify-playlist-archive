@@ -4,7 +4,7 @@
 
 > ¡Achis achis los mariachis!
 
-50 songs - 2 hr 39 min - [published](https://open.spotify.com/playlist/14mIEZGisMRWpXff2RgtSX)
+53 songs - 2 hr 49 min - [published](https://open.spotify.com/playlist/14mIEZGisMRWpXff2RgtSX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Carta a Eufemia](https://open.spotify.com/track/0Y2OF1xhhOkC7PlI1M00wq) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Cien años..\. pensando en ti](https://open.spotify.com/album/5K5BgnDkPONrnmL35nHrFc) | 3:10 | 2022-01-26 |  |
 | [Chaparrita](https://open.spotify.com/track/4mcQaRnIRyOqBocOjivSZz) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Bicentenario](https://open.spotify.com/album/6tFbIEt2apg5Zj1KPCdyMi) | 3:27 | 2022-01-26 |  |
 | [Cielito Lindo](https://open.spotify.com/track/0d3QIQcaCHdt9aJlRQlOpE) | [Darvelio Arredondo](https://open.spotify.com/artist/2L9w9WQZxRBqoRaeJSXP9r) | [Lo Mejor De La Música Mexicana](https://open.spotify.com/album/4gG6Kvj7leK60K4VJtq7SC) | 3:41 | 2022-01-26 |  |
+| [Cien Años](https://open.spotify.com/track/5137jNQ9nLd2O8Z3ksnS5Y) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Rancheras Con Sentimiento](https://open.spotify.com/album/7DpZO4gbLPjDloVzQIsUmY) | 3:33 | 2022-01-26 | 2022-11-13 |
 | [Cien Años](https://open.spotify.com/track/1sglM2aQR5DikqDqj2W8N9) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Mexico Gran Colección Ranchera: Pedro Infante](https://open.spotify.com/album/4ZiRfUT3xPgjse6CzPGRYC) | 3:34 | 2022-01-26 |  |
 | [Como Quien Pierde una Estrella](https://open.spotify.com/track/4tfawx7oL39IUS0GyOlmcP) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Que Seas Muy Feliz](https://open.spotify.com/album/23nJ7gZDubv8GuPeuukHuu) | 3:33 | 2022-01-26 |  |
 | [Copitas De Mezcal](https://open.spotify.com/track/3GFkJIIDEfGrcD9WSeQ9po) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar](https://open.spotify.com/album/0l4cuP2KHDTCFYebOBeFLs) | 3:03 | 2022-01-26 |  |
@@ -44,6 +45,7 @@
 | [La Interesada](https://open.spotify.com/track/5UbjsmHa2M69q2Q1bzmDBE) | [Chava Flores](https://open.spotify.com/artist/3qvw5E5LD9Wq0nFNnBL4O2) | [De Buen Humor, Con Las Canciones Y La Voz De Chava Flores](https://open.spotify.com/album/3AS7o4ZD2AYKG5VhuOJSmg) | 2:21 | 2022-01-26 |  |
 | [La Raspa \- Remastered](https://open.spotify.com/track/5xxy1vBcEG9W9rzZeUlz12) | [Mariachi México de Pepe Villa](https://open.spotify.com/artist/2pTMHhbToqVd0nXzEiwaRz) | [Selección Especial \(Remastered\)](https://open.spotify.com/album/0cIdrD4KzNHtGwyWRKf5ac) | 2:17 | 2022-01-26 |  |
 | [La tertulia](https://open.spotify.com/track/0Kt3S2259SxIOfwvM8YV0f) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Rico Vacilón \(16 Tracks\)](https://open.spotify.com/album/39sZRumghk9zw60fJ01fzt) | 3:13 | 2022-01-26 |  |
+| [La tertulia](https://open.spotify.com/track/4WoyGhW8aljvifRtsyqycG) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [55 Aniversario \(Vol\. 3\)](https://open.spotify.com/album/0ca0RzuneXSnvMY06OMg8Q) | 3:13 | 2022-01-26 | 2022-11-13 |
 | [La Ventana Sónica](https://open.spotify.com/track/72GbXDJ7g7sm0iGitCGqC6) | [Eleazar Garcia "Chelelo"](https://open.spotify.com/artist/0VsagfYKzqyBGt6O6tzIHP) | [Tesoros De Coleccion \- Eleazar Garcia "Chelelo"](https://open.spotify.com/album/2X07iqs573O0zHmMbJwtml) | 2:12 | 2022-01-26 |  |
 | [Los Gorrones](https://open.spotify.com/track/4hav6tDhruXYtf86MlYIOo) | [Chava Flores Con Mariachi Azteca Y Grupo La Miel](https://open.spotify.com/artist/5CCYSxsSV6BmX7Twe0P0PS) | [Exitos De Chava Flores](https://open.spotify.com/album/0PJ1sZj98PPca3SBScQegW) | 2:16 | 2022-01-26 |  |
 | [Mi Gusto Es](https://open.spotify.com/track/59nRuCsjHNdHNrs6BMj3fR) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Mi Gusto Es Con Tambora](https://open.spotify.com/album/3Zjx5IAwDDMUfYagxBP4wg) | 3:26 | 2022-01-26 |  |
@@ -57,6 +59,7 @@
 | [Torito Serrano](https://open.spotify.com/track/4BFHo7sWvDEoPErm3aVS9C) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con El Mariachi Vargas](https://open.spotify.com/album/4Cg0XRlaFZkco0rQRP7zGX) | 2:55 | 2022-01-26 |  |
 | [Ya Vas Carnal](https://open.spotify.com/track/3gJO6TqU3wqgrKTy49kVk8) | [Gerardo Reyes](https://open.spotify.com/artist/2HdTW6TLACOcKKsUaRdP0e) | [Serie De Colecc\. 15 Auténticos Exitos](https://open.spotify.com/album/2NBlTAiYb311082CIMKqjU) | 2:50 | 2022-01-26 |  |
 | [Yo No Fui](https://open.spotify.com/track/0SygIagLM5nPX3qWvh53UY) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [Yo No Fui](https://open.spotify.com/album/7gXeZSbYYmSsWvbe8rxcPu) | 4:52 | 2022-01-26 |  |
+| [Yo Soy El Aventurero](https://open.spotify.com/track/03dFbJTkFEqJXotllXzfaf) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [Corazones Mexicanos Vol\. 1](https://open.spotify.com/album/2Zl2Vugjf6EblGmT78CpUk) | 2:58 | 2022-01-26 | 2022-11-13 |
 | [Yo...El Aventurero](https://open.spotify.com/track/5k4oS18NesIeSpnZEDnh6p) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [La Más Completa Colección](https://open.spotify.com/album/3Jtuf52P0Xo8JaE7oCMAdA) | 2:59 | 2022-01-26 |  |
 
 \*This playlist was first scraped on 2022-09-07. Prior content cannot be recovered.

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Bossa Nova e MPB como acompanhamento / Bossa y m\u00fasica brasile\u00f1a para todo momento. Foto: Yamandu Costa",
+  "description": "Bossa Nova e MPB como acompanhamento / Bossa y m\u00fasica brasile\u00f1a para todo momento.",
   "name": "Caf\u00e9 Bossa",
   "published_playlist_ids": [
     "6irLJVar0NJeoObqheLojG"
@@ -563,12 +563,12 @@
       },
       "artists": [
         {
-          "name": "Dudu Sperb",
-          "url": "https://open.spotify.com/artist/4jYtPDKiCaUGHZWwua1uSf"
-        },
-        {
           "name": "Guinga",
           "url": "https://open.spotify.com/artist/5eTFGhsuJJrmwAF2ttmgOl"
+        },
+        {
+          "name": "Dudu Sperb",
+          "url": "https://open.spotify.com/artist/4jYtPDKiCaUGHZWwua1uSf"
         }
       ],
       "date_added": "2021-11-26",
@@ -599,6 +599,24 @@
       "duration_ms": 194109,
       "name": "Chovendo Na Roseira",
       "url": "https://open.spotify.com/track/4FwoSbAlyYBm2hsmAb6S7Q"
+    },
+    {
+      "album": {
+        "name": "Bossa Nova Brasil",
+        "url": "https://open.spotify.com/album/2jLijUfENTSa7T6FFoOpeM"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 169440,
+      "name": "Chuvas De Ver\u00e3o",
+      "url": "https://open.spotify.com/track/6ArixCD1Gbj8mCURjRiJuo"
     },
     {
       "album": {
@@ -844,6 +862,24 @@
     },
     {
       "album": {
+        "name": "Jo\u00e3o Gilberto: A Night of Music",
+        "url": "https://open.spotify.com/album/0p1JYHX01uvOBF02nfYpy6"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Eu Sambo Mesmo",
+      "url": "https://open.spotify.com/track/3AqxAq1Z6lZ4BkdvFtEGDH"
+    },
+    {
+      "album": {
         "name": "Joao",
         "url": "https://open.spotify.com/album/64nNH3zUc8rmxLu7235fSK"
       },
@@ -873,7 +909,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 248000,
       "name": "Eu Sambo Mesmo",
       "url": "https://open.spotify.com/track/7CPcuPG4fEMdGNHLRdxTPb"
@@ -1162,6 +1198,24 @@
     },
     {
       "album": {
+        "name": "Vida Codigo / Meios",
+        "url": "https://open.spotify.com/album/6wo2oFZ5LnxYolpz4G4SQF"
+      },
+      "artists": [
+        {
+          "name": "Tigan\u00e1 Santana",
+          "url": "https://open.spotify.com/artist/2Xgh3UMlVReiRdvCELwiK9"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 217455,
+      "name": "Meios",
+      "url": "https://open.spotify.com/track/7q4faaRT3g62sSowXwxtgg"
+    },
+    {
+      "album": {
         "name": "Vida-C\u00f3digo + Meios",
         "url": "https://open.spotify.com/album/1ehdOI4YPYd30lWnwKdl2W"
       },
@@ -1290,6 +1344,24 @@
     },
     {
       "album": {
+        "name": "\u00c0guas De Mar\u00e7o / Esse Ano / Nada \u00c9 Melhor Do Que Voc\u00ea",
+        "url": "https://open.spotify.com/album/2OADy8bkOEcsMWyF4raTRe"
+      },
+      "artists": [
+        {
+          "name": "Vitto Meirelles",
+          "url": "https://open.spotify.com/artist/1k6FKHfl8lzBXvBfr6IPee"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 275574,
+      "name": "Nada \u00c9 Melhor do Que Voc\u00ea",
+      "url": "https://open.spotify.com/track/2Qmk0WzTrRyBnN2y2TpdUN"
+    },
+    {
+      "album": {
         "name": "Da Hora",
         "url": "https://open.spotify.com/album/7nPkLH5JVbbc1mvesc6cGi"
       },
@@ -1397,6 +1469,24 @@
       "duration_ms": 200866,
       "name": "O Morro N\u00e3o Tem Vez",
       "url": "https://open.spotify.com/track/6fwICn8FWouigyB8BxfljW"
+    },
+    {
+      "album": {
+        "name": "Verve Jazz Masters 13: Antonio Carlos Jobim",
+        "url": "https://open.spotify.com/album/4uFZbUN1TogRO5PTIeDpjr"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 205266,
+      "name": "O Morro N\u00e3o Tem Vez",
+      "url": "https://open.spotify.com/track/0BFY4ELzGsvmBEJDqCmkyj"
     },
     {
       "album": {
@@ -1735,6 +1825,24 @@
       "duration_ms": 172506,
       "name": "Samba E Amor",
       "url": "https://open.spotify.com/track/1e1TMmjzesb5AzbBLn3yrj"
+    },
+    {
+      "album": {
+        "name": "Culpar al destino",
+        "url": "https://open.spotify.com/album/16Qwqzzv4mIwlVDporwRaj"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 172506,
+      "name": "Samba E Amor",
+      "url": "https://open.spotify.com/track/6lpKDgaz4bitlyCCaiqceS"
     },
     {
       "album": {
@@ -2199,6 +2307,24 @@
     {
       "album": {
         "name": "Vento Sul",
+        "url": "https://open.spotify.com/album/2KKwRNb1WHLbJ44cSJJwCV"
+      },
+      "artists": [
+        {
+          "name": "Yamandu Costa",
+          "url": "https://open.spotify.com/artist/3xnqS3i4fWn0P30qIlnWYV"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Vento Sul",
+      "url": "https://open.spotify.com/track/189oFyRvhHtcpGw4JLmt24"
+    },
+    {
+      "album": {
+        "name": "Vento Sul",
         "url": "https://open.spotify.com/album/2Q7imAUuBpqC7St4BIWEIB"
       },
       "artists": [
@@ -2209,10 +2335,36 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-16",
       "duration_ms": 204000,
       "name": "Vento Sul",
       "url": "https://open.spotify.com/track/4A2fXWDd2lopzpA2TgBFj9"
+    },
+    {
+      "album": {
+        "name": "Bossa Nova For Lovers",
+        "url": "https://open.spotify.com/album/5PQxnjJaBa2FpcgS3U47wJ"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 173493,
+      "name": "Vivo Sonhando",
+      "url": "https://open.spotify.com/track/1CLCxyhhZyUb2Vp9mtP8cK"
     },
     {
       "album": {
@@ -2341,6 +2493,24 @@
       "duration_ms": 257533,
       "name": "\u00c9 Preciso Dizer Adeus",
       "url": "https://open.spotify.com/track/2yMWSLsGb0jcRsUNmWheKX"
+    },
+    {
+      "album": {
+        "name": "Salsa & The City",
+        "url": "https://open.spotify.com/album/5x02IvX7PjTtJLSFDnzxhC"
+      },
+      "artists": [
+        {
+          "name": "Last Aliens in Rio",
+          "url": "https://open.spotify.com/artist/6mlVweP8wRCjPz47REmRD8"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 188597,
+      "name": "\u00cdndia - Tarde de Sol",
+      "url": "https://open.spotify.com/track/4WJdUncyLVGd2I4lyuAYB0"
     },
     {
       "album": {

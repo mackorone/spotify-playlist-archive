@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6SpcerLn1dx.md) - [plain]
 
 > Get spooky with these creepy classics
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,867 likes - 60 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,499 likes - 60 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

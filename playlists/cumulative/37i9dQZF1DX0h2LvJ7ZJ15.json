@@ -748,6 +748,24 @@
     },
     {
       "album": {
+        "name": "ikigai",
+        "url": "https://open.spotify.com/album/2mQAZGydiDuyjgq1Oc2Cay"
+      },
+      "artists": [
+        {
+          "name": "SadBoyProlific",
+          "url": "https://open.spotify.com/artist/0inkJpjAKDnQOv2VHBCU0Z"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105600,
+      "name": "Dead and Cold - slowed + reverb",
+      "url": "https://open.spotify.com/track/2JwwQ2I8X3BY16FI5gU73N"
+    },
+    {
+      "album": {
         "name": "Dead To Me Slow + Reverb",
         "url": "https://open.spotify.com/album/13juqGwSBOnrdF9GjZO835"
       },
@@ -893,7 +911,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 127500,
       "name": "DIVE IN! - SLOWED REVERB!",
       "url": "https://open.spotify.com/track/0ZJ09tmBmKJlUTz8y7qDCV"
@@ -1187,7 +1205,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": "2022-11-14",
       "duration_ms": 217200,
       "name": "Feel Like (Slowed)",
       "url": "https://open.spotify.com/track/5tyiYmxmihXZi0ASdPqsTo"
@@ -1537,7 +1555,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-06",
       "duration_ms": 95108,
       "name": "I Don't Trust Nobody - Slowed and Reverb",
       "url": "https://open.spotify.com/track/5kFWqLVb9idG4f52ZVD99r"
@@ -2109,7 +2127,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": "2022-10-27",
       "duration_ms": 168000,
       "name": "NEVER MET! (feat. Glitch Gum) - Slowed",
       "url": "https://open.spotify.com/track/2a68c5nfBcRAGDAyMOVGuX"
@@ -2902,6 +2920,28 @@
     },
     {
       "album": {
+        "name": "Unstoppable (The Remixes)",
+        "url": "https://open.spotify.com/album/0o83iaAMM8MAPQ1LivQbtU"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "slater",
+          "url": "https://open.spotify.com/artist/0JSCWkJNFGt7o4YbYcplQ7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252750,
+      "name": "Unstoppable - Slowed & Reverb",
+      "url": "https://open.spotify.com/track/6UvgVaHDtycFqUM1LPxhxu"
+    },
+    {
+      "album": {
         "name": "Us and Them",
         "url": "https://open.spotify.com/album/4Hrrad0vv9BbvFjBPYb2xJ"
       },
@@ -2921,7 +2961,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-10",
+      "date_removed": "2022-11-26",
       "duration_ms": 166956,
       "name": "Us and Them",
       "url": "https://open.spotify.com/track/4vqFDdkdribP2ykIOgnAjx"
@@ -3037,7 +3077,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 229260,
       "name": "Wet (She Got That\u2026) - Slowed & Reverbed",
       "url": "https://open.spotify.com/track/565l0WZhDjZbCPPP1w4gD1"
@@ -3085,6 +3125,24 @@
       "duration_ms": 146301,
       "name": "when i was your man - slowed + reverb",
       "url": "https://open.spotify.com/track/0tEfc9KsxNAQ05pWKcZTuF"
+    },
+    {
+      "album": {
+        "name": "Where's My Love (Slowed)",
+        "url": "https://open.spotify.com/album/7dwAeKkbpzA4ELMDiacfcR"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289536,
+      "name": "Where's My Love - Slowed",
+      "url": "https://open.spotify.com/track/7gCMZGYUvujTe4OF64uvN3"
     },
     {
       "album": {

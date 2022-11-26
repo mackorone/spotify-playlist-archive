@@ -585,7 +585,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-11-13",
       "duration_ms": 220840,
       "name": "Cosas del amor",
       "url": "https://open.spotify.com/track/4Gd1XTVJtxzGdrr87WY2h8"
@@ -791,7 +791,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 189629,
       "name": "Dos Hombres y un Destino",
       "url": "https://open.spotify.com/track/1iIAxG5tkw8ahvPRQQbETT"
@@ -1343,7 +1343,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-11-18",
       "duration_ms": 215174,
       "name": "Hasta el Sol de Hoy",
       "url": "https://open.spotify.com/track/1lT6GEEYN0loScdr9sES0C"
@@ -1869,7 +1869,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 161621,
       "name": "Me Parece Que",
       "url": "https://open.spotify.com/track/1zHorxcby7HrNwHzctcvAZ"
@@ -2104,6 +2104,24 @@
     },
     {
       "album": {
+        "name": "Olvida Tus Penas",
+        "url": "https://open.spotify.com/album/323fnUvQnG6FT26KcRTfMS"
+      },
+      "artists": [
+        {
+          "name": "Grupo Alegria de Santa Fe",
+          "url": "https://open.spotify.com/artist/0uITrMC16Eg9bbPu0PNfzk"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158378,
+      "name": "Olvida Tus Penas",
+      "url": "https://open.spotify.com/track/7KkXWc0zcmCy92YoeVW0dp"
+    },
+    {
+      "album": {
         "name": "Vol\u00f3 La Paloma/Un Toque Diferente",
         "url": "https://open.spotify.com/album/04lLSTAYIBNjlJ0L6JJnDK"
       },
@@ -2238,6 +2256,24 @@
     },
     {
       "album": {
+        "name": "Perdido por Ti",
+        "url": "https://open.spotify.com/album/1RZsKu4AKUB1iMnLWNNhzk"
+      },
+      "artists": [
+        {
+          "name": "La San Francisco",
+          "url": "https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215722,
+      "name": "Perdido por Ti",
+      "url": "https://open.spotify.com/track/5nYFh4mbCDGDVHse3PuCKy"
+    },
+    {
+      "album": {
         "name": "Sinf\u00f3nico 45 A\u00f1os - En Vivo",
         "url": "https://open.spotify.com/album/46VxYWDLPoZ9l3RFWQ2iDH"
       },
@@ -2343,7 +2379,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-09",
+      "date_removed": "2022-11-13",
       "duration_ms": 220995,
       "name": "Porqu\u00e9 Les Mientes",
       "url": "https://open.spotify.com/track/3jh7wZ6QGEVu5i5HM6xbk3"
@@ -2689,6 +2725,28 @@
       "duration_ms": 185077,
       "name": "Sobreviviendo",
       "url": "https://open.spotify.com/track/2VEloqLjRlIH5mUrtIFYwB"
+    },
+    {
+      "album": {
+        "name": "Son de Amores / Vanidosa",
+        "url": "https://open.spotify.com/album/24gIQSwAA849YkF9tLT7vl"
+      },
+      "artists": [
+        {
+          "name": "Siempre Verde",
+          "url": "https://open.spotify.com/artist/4eyu1IhLo2RUlDwJLtodxl"
+        },
+        {
+          "name": "Aclamado Amistad",
+          "url": "https://open.spotify.com/artist/5kmcANJ07GntkrPxTW8PnW"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184058,
+      "name": "Son de Amores / Vanidosa",
+      "url": "https://open.spotify.com/track/7CAw9ylqrfW47tfyI6elLs"
     },
     {
       "album": {
@@ -3215,7 +3273,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-19",
       "duration_ms": 212626,
       "name": "Y t\u00fa te vas",
       "url": "https://open.spotify.com/track/6X4fk1YMYQNIwDaVnVD3Ut"
@@ -3255,7 +3313,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 154142,
       "name": "Yo Soy As\u00ed",
       "url": "https://open.spotify.com/track/0Y1OBvIElKgwmb5QD5PXkm"

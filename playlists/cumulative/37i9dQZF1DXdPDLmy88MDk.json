@@ -59,10 +59,28 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 232000,
       "name": "A",
       "url": "https://open.spotify.com/track/4nvOHnalPzX4fai6KPH4dR"
+    },
+    {
+      "album": {
+        "name": "A",
+        "url": "https://open.spotify.com/album/4pyvUT61X7FcjvItZogGt3"
+      },
+      "artists": [
+        {
+          "name": "Thomas Farnon",
+          "url": "https://open.spotify.com/artist/21toYB9udeC6Zdi9fJL0wu"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "A",
+      "url": "https://open.spotify.com/track/5uYalrRxXbbK7N8vYlXWFO"
     },
     {
       "album": {
@@ -591,6 +609,36 @@
       "duration_ms": 169366,
       "name": "Deux Pens\u00e9es",
       "url": "https://open.spotify.com/track/4jgazYikKO5Xhctuhc0snS"
+    },
+    {
+      "album": {
+        "name": "ZEN - Sunrise Meditation",
+        "url": "https://open.spotify.com/album/2Rr3PpBQCZYFiMHCTqparE"
+      },
+      "artists": [
+        {
+          "name": "Clarice Jensen",
+          "url": "https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a"
+        },
+        {
+          "name": "Ben Russell",
+          "url": "https://open.spotify.com/artist/5BG0gerrHZFHPaIEi43FHB"
+        },
+        {
+          "name": "Yuki Numata Resnick",
+          "url": "https://open.spotify.com/artist/2TVn6PQxnrxlIq4F2Vz3Qs"
+        },
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 202724,
+      "name": "Dream 13 - Short Edit",
+      "url": "https://open.spotify.com/track/5UUsWPxBoRGs3EakiDjwwO"
     },
     {
       "album": {
@@ -1266,6 +1314,32 @@
     },
     {
       "album": {
+        "name": "Classically Opera",
+        "url": "https://open.spotify.com/album/5C7l9QMUAqZRlwBAzofEG1"
+      },
+      "artists": [
+        {
+          "name": "Georges Bizet",
+          "url": "https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd"
+        },
+        {
+          "name": "Katia Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL"
+        },
+        {
+          "name": "Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 142000,
+      "name": "Jeux d'enfants, Op. 22 WD 56: 3. La poup\u00e9e",
+      "url": "https://open.spotify.com/track/6e0ioWeLv2ezDGvqrprqlP"
+    },
+    {
+      "album": {
         "name": "Reflections Pt. 2 / Debussy: Canope",
         "url": "https://open.spotify.com/album/1HNnHVV9ITkbflRYzsxFJH"
       },
@@ -1391,6 +1465,24 @@
       "duration_ms": 324015,
       "name": "Le Onde",
       "url": "https://open.spotify.com/track/1ULzttQgU3Q9EaIpdoxF1T"
+    },
+    {
+      "album": {
+        "name": "Relaxing Classical",
+        "url": "https://open.spotify.com/album/1IgpoX287uoldZN4gRe9ne"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 324015,
+      "name": "Le Onde",
+      "url": "https://open.spotify.com/track/6v2KksnZsSPNkwWuYVb6Cn"
     },
     {
       "album": {
@@ -1996,7 +2088,7 @@
     },
     {
       "album": {
-        "name": "FLUR",
+        "name": "Flur",
         "url": "https://open.spotify.com/album/7hUcD3suokju68vYLXdVM8"
       },
       "artists": [
@@ -2011,6 +2103,24 @@
       "duration_ms": 231804,
       "name": "PAN",
       "url": "https://open.spotify.com/track/05j4VSG0fxZHI7MB3mMyVO"
+    },
+    {
+      "album": {
+        "name": "Lernen & Konzentration mit klassischer Musik",
+        "url": "https://open.spotify.com/album/3A6sHGAkGqPXPJ0zXrS6ML"
+      },
+      "artists": [
+        {
+          "name": "Martin Kohlstedt",
+          "url": "https://open.spotify.com/artist/5odNYb0R6MGVmindrMrYyk"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 231804,
+      "name": "PAN",
+      "url": "https://open.spotify.com/track/55aHD4btBsO6T3IQKkJqza"
     },
     {
       "album": {
@@ -2029,6 +2139,24 @@
       "duration_ms": 231804,
       "name": "PAN",
       "url": "https://open.spotify.com/track/7DnSEP7pBGcnxtkfRjv5m4"
+    },
+    {
+      "album": {
+        "name": "Truth - The Solo Piano Collection",
+        "url": "https://open.spotify.com/album/5EMB8WAOcT4BqrRZFsW0aO"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176457,
+      "name": "Papillon - Solo Piano Version",
+      "url": "https://open.spotify.com/track/0R4HTYUjrBvDwxilINNwYZ"
     },
     {
       "album": {
@@ -2079,7 +2207,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 176457,
       "name": "Papillon - Solo Piano Version",
       "url": "https://open.spotify.com/track/6RE1WhhdI1wvCOar6z2AdW"
@@ -2210,6 +2338,28 @@
     },
     {
       "album": {
+        "name": "Immortal Beethoven",
+        "url": "https://open.spotify.com/album/16KdTJohpfErxyKRMFPbyz"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 289000,
+      "name": "Piano Sonata No. 8 in C Minor, Op. 13, \"Pathetique\": II. Adagio cantabile",
+      "url": "https://open.spotify.com/track/4Vj1KFHLNtUujc5yn6viN6"
+    },
+    {
+      "album": {
         "name": "Lebanese Piano Music",
         "url": "https://open.spotify.com/album/5yPsI6FtPTzRCBFjD84uaw"
       },
@@ -2290,6 +2440,28 @@
     },
     {
       "album": {
+        "name": "Neoclassical Essentials",
+        "url": "https://open.spotify.com/album/1K9xfQszoXfGcoTckJZzpR"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        },
+        {
+          "name": "London Recording Orchestra",
+          "url": "https://open.spotify.com/artist/0Uiss6Wjtadn5gitFaNaVH"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 364648,
+      "name": "re:member",
+      "url": "https://open.spotify.com/track/2uizZ3OHcCNjJiqAoN8TgK"
+    },
+    {
+      "album": {
         "name": "Reflections Pt. 1 / Debussy: Bruy\u00e8res",
         "url": "https://open.spotify.com/album/4vIHi1vbAM6U4WzJ85RP8y"
       },
@@ -2353,6 +2525,36 @@
       "duration_ms": 174653,
       "name": "Rhapsody on a Theme of Paganini, Op. 43: Variation No. 18 Andante cantabile",
       "url": "https://open.spotify.com/track/419qlOGNXoyICx4jO0hqaj"
+    },
+    {
+      "album": {
+        "name": "Rachmaninoff - A Classical Morning",
+        "url": "https://open.spotify.com/album/3vlnaDtNDh4hXCBlzp3iJe"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Daniil Trifonov",
+          "url": "https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9"
+        },
+        {
+          "name": "Philadelphia Orchestra",
+          "url": "https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1"
+        },
+        {
+          "name": "Yannick N\u00e9zet-S\u00e9guin",
+          "url": "https://open.spotify.com/artist/5ZGyCOrODWwaVtLSDjayl5"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 174653,
+      "name": "Rhapsody on a Theme of Paganini, Op. 43: Variation No. 18 Andante cantabile",
+      "url": "https://open.spotify.com/track/4su816grplNlQc1OVHYntn"
     },
     {
       "album": {
@@ -2621,10 +2823,32 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 149413,
       "name": "Silence",
       "url": "https://open.spotify.com/track/4BZoYzYti7JySxL3yxZGfi"
+    },
+    {
+      "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/6d8r1d7UpVOalcpby246Mc"
+      },
+      "artists": [
+        {
+          "name": "Silvan Rupp",
+          "url": "https://open.spotify.com/artist/1jw2ag833YWJS9j6cqzSOt"
+        },
+        {
+          "name": "BAWK",
+          "url": "https://open.spotify.com/artist/6cwnpm0nvjKlK4YayMGBl9"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149413,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/6OmC1B1EOQSbhQL6HP1cPn"
     },
     {
       "album": {
@@ -2767,6 +2991,24 @@
       "duration_ms": 165026,
       "name": "Summer",
       "url": "https://open.spotify.com/track/4NOdC6e1AggrDGeSoX2l4n"
+    },
+    {
+      "album": {
+        "name": "Swells",
+        "url": "https://open.spotify.com/album/6pwKde66tj0TBuV3gfnSRy"
+      },
+      "artists": [
+        {
+          "name": "Adam Daudrich",
+          "url": "https://open.spotify.com/artist/3AIAMl4fvvaVL4YaKcQ63R"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 165611,
+      "name": "Swells",
+      "url": "https://open.spotify.com/track/2BiZEq6h6RSm6TRiykKQh2"
     },
     {
       "album": {

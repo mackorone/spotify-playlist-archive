@@ -4,7 +4,7 @@
 
 > Rock out while you work out! Follow for updates!
 
-180 songs - 11 hr 25 min - [published](https://open.spotify.com/playlist/4aA1F6VQ4ECBvdhFded4Yt)
+181 songs - 11 hr 28 min - [published](https://open.spotify.com/playlist/4aA1F6VQ4ECBvdhFded4Yt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Faded Out \(feat\. Within Temptation\)](https://open.spotify.com/track/3S4fzPT48VfDTjeqVrGuv4) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ), [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Retaliators \(Music from the Motion Picture\)](https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo) | 3:05 | 2022-09-21 |  |
 | [Feed the Wolf](https://open.spotify.com/track/2GGhdqZ8yJwgici7ko5sdg) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Feed the Wolf](https://open.spotify.com/album/624ZRha8Ur3PQGCedJ5Iss) | 3:18 | 2021-08-20 |  |
 | [Fight \(feat\. Chad Gray of Hellyeah\)](https://open.spotify.com/track/6HmVuaY05lCHoDccqFrHEo) | [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm), [HELLYEAH](https://open.spotify.com/artist/4hxDvVq5t8ebPYPdBl1F9f) | [Fight \(feat\. Chad Gray of Hellyeah\)](https://open.spotify.com/album/2yjz22VEJg8GYzYLHdU1p2) | 3:27 | 2021-08-20 |  |
+| [Flying](https://open.spotify.com/track/3fE2H9LQZz5emvUBEmJxhN) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv) | [I Rise](https://open.spotify.com/album/3V2eGIrc75Rp8BNO7QkBAJ) | 3:09 | 2022-11-11 |  |
 | [Football Season is Over](https://open.spotify.com/track/3nAmNBPglbB7vPqjxYqBDj) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Suicide Season](https://open.spotify.com/album/1prhMiPHHEEzK5ueEx2vWB) | 1:55 | 2022-03-08 |  |
 | [For The Glory \(feat\. Hollywood Undead\)](https://open.spotify.com/track/4iyoHJe8kA4ZmDhHxwVdz7) | [All Good Things](https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1), [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [For The Glory \(feat\. Hollywood Undead\)](https://open.spotify.com/album/2ZWveWbeFhlWv7O0TEC8eI) | 4:41 | 2021-08-20 |  |
 | [For The Glory \(feat\. Hollywood Undead\)](https://open.spotify.com/track/4oLzeTsQpM0sW6TXXxlyfw) | [All Good Things](https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1), [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [The Retaliators \(Music from the Motion Picture\)](https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo) | 4:41 | 2022-09-21 |  |

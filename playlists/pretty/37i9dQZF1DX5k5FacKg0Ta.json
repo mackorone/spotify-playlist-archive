@@ -1,15 +1,15 @@
 {
   "description": "Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz-helmi\u00e4.",
-  "num_followers": 7545,
+  "num_followers": 7625,
   "original_name": "Jazzia Suomesta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzg4MDQwMCwwMDAwMDAwMDhkYzdlMGVmNGY3OTA4ZTNmOWNjNWI3MzA3OGFlYzc5",
+  "snapshot_id": "MTY2Njk0NDk0NywwMDAwMDAwMDkyZGJlMWJjMGI4M2MwOGUxZjI2OTljNzQ2MmIyZDg1",
   "tracks": [
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "Northern Journey",
         "url": "https://open.spotify.com/album/7l0MEB1zSQrL6ISBLpJCxf"
@@ -25,55 +25,7 @@
       "url": "https://open.spotify.com/track/7fJ1mBSGYpNtT6tgOHfovt"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
-      "album": {
-        "name": "Atte Aho",
-        "url": "https://open.spotify.com/album/2sy1yT0aK3Bg3UV8xyuqbp"
-      },
-      "artists": [
-        {
-          "name": "Atte Aho",
-          "url": "https://open.spotify.com/artist/4KroGS9rbUIFxtTNtsdsYA"
-        }
-      ],
-      "duration_ms": 353000,
-      "name": "Elastic Energy",
-      "url": "https://open.spotify.com/track/43p6GKAUMfmhdlmAC6PN8i"
-    },
-    {
-      "added_at": "2022-09-22 21:00:00",
-      "album": {
-        "name": "Diversity",
-        "url": "https://open.spotify.com/album/2Z8qjhaLu9SYLtt7YuKNgD"
-      },
-      "artists": [
-        {
-          "name": "Eero Koivistoinen Quartet",
-          "url": "https://open.spotify.com/artist/7q1zywOL5kaYleRWJORLGo"
-        }
-      ],
-      "duration_ms": 312173,
-      "name": "Kelo",
-      "url": "https://open.spotify.com/track/5MaNwKdorJTKEMzKr4cL3i"
-    },
-    {
-      "added_at": "2022-09-22 21:00:00",
-      "album": {
-        "name": "One small step",
-        "url": "https://open.spotify.com/album/0GY9ODHnnp43DXGAIrjiap"
-      },
-      "artists": [
-        {
-          "name": "Ville Tomminen",
-          "url": "https://open.spotify.com/artist/3z05cHmgpoxtH09pPL5sYD"
-        }
-      ],
-      "duration_ms": 289698,
-      "name": "One small step",
-      "url": "https://open.spotify.com/track/0oXgF2YDoQ9o4GgYWjHz5F"
-    },
-    {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "Abyss",
         "url": "https://open.spotify.com/album/5AWHqcIYnZh5uI56sL81Um"
@@ -89,7 +41,35 @@
       "url": "https://open.spotify.com/track/70DGWD6Cyl1iuKoEF0e0Sp"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
+      "album": {
+        "name": "Jazz Noir",
+        "url": "https://open.spotify.com/album/0npOnrkaxOXKdFZ8FusvQ4"
+      },
+      "artists": [
+        {
+          "name": "Turku Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/3h0163xqtTl2XIAisrYZSV"
+        },
+        {
+          "name": "Jussi Lampela",
+          "url": "https://open.spotify.com/artist/1JnPtFQZvUsq2uby1sUEz1"
+        },
+        {
+          "name": "Jukka Perko",
+          "url": "https://open.spotify.com/artist/1NSHUz6LEFJC6H7CBhPQgD"
+        },
+        {
+          "name": "Jukka Eskola",
+          "url": "https://open.spotify.com/artist/1XkMHQpWReEHMCLatUl0St"
+        }
+      ],
+      "duration_ms": 368666,
+      "name": "Strategy of Peace",
+      "url": "https://open.spotify.com/track/1Iaf7PGbWPofZiSGEu3nPt"
+    },
+    {
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "Flores",
         "url": "https://open.spotify.com/album/0YaGa6g2ntjSlBqfYb580T"
@@ -125,7 +105,55 @@
       "url": "https://open.spotify.com/track/11og6Mc6Zrz6mDULVTYppk"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
+      "album": {
+        "name": "One small step",
+        "url": "https://open.spotify.com/album/0GY9ODHnnp43DXGAIrjiap"
+      },
+      "artists": [
+        {
+          "name": "Ville Tomminen",
+          "url": "https://open.spotify.com/artist/3z05cHmgpoxtH09pPL5sYD"
+        }
+      ],
+      "duration_ms": 289698,
+      "name": "One small step",
+      "url": "https://open.spotify.com/track/0oXgF2YDoQ9o4GgYWjHz5F"
+    },
+    {
+      "added_at": "2022-10-28 08:15:47",
+      "album": {
+        "name": "Diversity",
+        "url": "https://open.spotify.com/album/2Z8qjhaLu9SYLtt7YuKNgD"
+      },
+      "artists": [
+        {
+          "name": "Eero Koivistoinen Quartet",
+          "url": "https://open.spotify.com/artist/7q1zywOL5kaYleRWJORLGo"
+        }
+      ],
+      "duration_ms": 312173,
+      "name": "Kelo",
+      "url": "https://open.spotify.com/track/5MaNwKdorJTKEMzKr4cL3i"
+    },
+    {
+      "added_at": "2022-10-28 08:15:47",
+      "album": {
+        "name": "Atte Aho",
+        "url": "https://open.spotify.com/album/2sy1yT0aK3Bg3UV8xyuqbp"
+      },
+      "artists": [
+        {
+          "name": "Atte Aho",
+          "url": "https://open.spotify.com/artist/4KroGS9rbUIFxtTNtsdsYA"
+        }
+      ],
+      "duration_ms": 353000,
+      "name": "Elastic Energy",
+      "url": "https://open.spotify.com/track/43p6GKAUMfmhdlmAC6PN8i"
+    },
+    {
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "Agatha 2",
         "url": "https://open.spotify.com/album/0Z0wyJ2AhSoqihYUpCCCvC"
@@ -149,10 +177,10 @@
       "url": "https://open.spotify.com/track/2Ut23DFEzsvCywpleGYDXv"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
-        "name": "Travelogue",
-        "url": "https://open.spotify.com/album/0MaCvvuQx4Qj6TXcBQQT1q"
+        "name": "Trial by Fire",
+        "url": "https://open.spotify.com/album/4cF52bdDIreABU7AeK41yK"
       },
       "artists": [
         {
@@ -160,12 +188,12 @@
           "url": "https://open.spotify.com/artist/4yfLJzuJhNaBEJlfe53KnO"
         }
       ],
-      "duration_ms": 253463,
-      "name": "Travelogue",
-      "url": "https://open.spotify.com/track/4cZS6EhdLNIpI6CYIo6HUI"
+      "duration_ms": 288219,
+      "name": "Trial by Fire",
+      "url": "https://open.spotify.com/track/37aSF6UCYfvPEXdCjHLvKY"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "Kullankaivaja",
         "url": "https://open.spotify.com/album/512ObtUfgxYWN5pAqgK572"
@@ -181,7 +209,23 @@
       "url": "https://open.spotify.com/track/0SW6Bq46YRsVDzn3MtXc1u"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
+      "album": {
+        "name": "Ask Me Now",
+        "url": "https://open.spotify.com/album/0DBEAQOu9OhVK4BUE3tiJf"
+      },
+      "artists": [
+        {
+          "name": "Teemu Viinikainen",
+          "url": "https://open.spotify.com/artist/0OgaFFwXXVXsIpAaPS2EBR"
+        }
+      ],
+      "duration_ms": 150173,
+      "name": "Ask Me Now",
+      "url": "https://open.spotify.com/track/1JRBmuvgDW9rcoJst2oJre"
+    },
+    {
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "A Thing With Feathers",
         "url": "https://open.spotify.com/album/3Rsf8oDjs8aR2yI6G5lUGH"
@@ -205,7 +249,7 @@
       "url": "https://open.spotify.com/track/25patDyUz6247RVEzsEOpx"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "In Belgium 1967",
         "url": "https://open.spotify.com/album/7K7ZPq67v0pdmlyQXhr4ph"
@@ -221,35 +265,7 @@
       "url": "https://open.spotify.com/track/0zvp0m468qwkERmjMPnVfB"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
-      "album": {
-        "name": "Jazz Noir",
-        "url": "https://open.spotify.com/album/0npOnrkaxOXKdFZ8FusvQ4"
-      },
-      "artists": [
-        {
-          "name": "Turku Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/3h0163xqtTl2XIAisrYZSV"
-        },
-        {
-          "name": "Jussi Lampela",
-          "url": "https://open.spotify.com/artist/1JnPtFQZvUsq2uby1sUEz1"
-        },
-        {
-          "name": "Jukka Perko",
-          "url": "https://open.spotify.com/artist/1NSHUz6LEFJC6H7CBhPQgD"
-        },
-        {
-          "name": "Jukka Eskola",
-          "url": "https://open.spotify.com/artist/1XkMHQpWReEHMCLatUl0St"
-        }
-      ],
-      "duration_ms": 368666,
-      "name": "Strategy of Peace",
-      "url": "https://open.spotify.com/track/1Iaf7PGbWPofZiSGEu3nPt"
-    },
-    {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "Hiljainen",
         "url": "https://open.spotify.com/album/5lzBNkrexXp1rBeOJSIXi3"
@@ -265,23 +281,7 @@
       "url": "https://open.spotify.com/track/0zf7oA2yxkY0pf7FqJFBu8"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
-      "album": {
-        "name": "Wild Eyes",
-        "url": "https://open.spotify.com/album/5WLUEKECPdjEr6OKG4YGlA"
-      },
-      "artists": [
-        {
-          "name": "Martti Vesala Soundpost Quintet",
-          "url": "https://open.spotify.com/artist/4yfLJzuJhNaBEJlfe53KnO"
-        }
-      ],
-      "duration_ms": 337102,
-      "name": "Wild Eyes",
-      "url": "https://open.spotify.com/track/7sRQdwmpxShzEyYwmHHKbx"
-    },
-    {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "Piet\u00e0",
         "url": "https://open.spotify.com/album/6ArjpyxHz5pOJhrM5FPwsB"
@@ -297,7 +297,7 @@
       "url": "https://open.spotify.com/track/1P8bsOkYZLoWhGYeHAzv5R"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "Almost Standards (Doctoral Edition)",
         "url": "https://open.spotify.com/album/1ptiBUZkgEzYmt3nElJbdb"
@@ -313,7 +313,7 @@
       "url": "https://open.spotify.com/track/2fQiesYvRRvU26T9yskrQd"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "AAVA",
         "url": "https://open.spotify.com/album/3OwrvmPDdZqXJyjN2mqU2N"
@@ -329,7 +329,7 @@
       "url": "https://open.spotify.com/track/3ETNUor97PlUMlDz2Tzo6D"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "Rag",
         "url": "https://open.spotify.com/album/7mgH9Xu4xGvMaizxeTUeSf"
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/1U2g56MOsv3yZ6g70OhwGk"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "Ketunnokka",
         "url": "https://open.spotify.com/album/2592dCUKaQyPcmgUP4gszv"
@@ -361,7 +361,7 @@
       "url": "https://open.spotify.com/track/3YvK6bdj8mGao5f2CCVBdz"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "Meze",
         "url": "https://open.spotify.com/album/74JJd6RmHqD3deWsTIHEGq"
@@ -377,7 +377,7 @@
       "url": "https://open.spotify.com/track/2yeGxLeOGTlQKZSUK2Mni7"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "Kosmoksen erakko",
         "url": "https://open.spotify.com/album/0Wt5pnCwuRsNxv2grDTVFF"
@@ -393,7 +393,7 @@
       "url": "https://open.spotify.com/track/1pBHNnt6bort4V7QH1urYK"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "Poncho",
         "url": "https://open.spotify.com/album/7n4lTJfOOXLAb5QqkvdfR1"
@@ -409,7 +409,7 @@
       "url": "https://open.spotify.com/track/5l2mlrojPLmgdfMkgVxvCn"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "Saami Rights",
         "url": "https://open.spotify.com/album/2J9YdrWUDPck5CxKBXs92d"
@@ -425,7 +425,7 @@
       "url": "https://open.spotify.com/track/28KzeO7Wres2CmdmMjoXoi"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "Dior in Nera",
         "url": "https://open.spotify.com/album/3CfN0fU9XaC41kb2aYXPly"
@@ -441,7 +441,7 @@
       "url": "https://open.spotify.com/track/4Ai79FbgReT6KXHCsorAfS"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "Chapter 3",
         "url": "https://open.spotify.com/album/47vB3iATxOUV7TMNkBV66G"
@@ -473,7 +473,7 @@
       "url": "https://open.spotify.com/track/5zTYrVDnEN2MdEEgxef44P"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "Both Only",
         "url": "https://open.spotify.com/album/2e06pqph69m1CCBkKNiBQQ"
@@ -489,7 +489,7 @@
       "url": "https://open.spotify.com/track/3U7QS0oySVgb5vL3ZJsD3P"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "Karjalan Poikia",
         "url": "https://open.spotify.com/album/1txoN5voopFmu3MDID7MG8"
@@ -505,7 +505,7 @@
       "url": "https://open.spotify.com/track/1QKRrMtm4qo22TGO5qjMF1"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "Open",
         "url": "https://open.spotify.com/album/5W92tmMDBBOg4d30rMLPWu"
@@ -525,7 +525,7 @@
       "url": "https://open.spotify.com/track/4L8MDfYP5EF61dDjkEtcat"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "Vanhatie",
         "url": "https://open.spotify.com/album/2v4r8lY7yaGYP0TKJXpVZN"
@@ -541,7 +541,59 @@
       "url": "https://open.spotify.com/track/1hLUkwJHzvVRhbPDkkhaWI"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
+      "album": {
+        "name": "Moon over Mysore",
+        "url": "https://open.spotify.com/album/3ErQYvguy4PL1uTzdjXxPT"
+      },
+      "artists": [
+        {
+          "name": "Kokko Quartet",
+          "url": "https://open.spotify.com/artist/3KHGL7g4Udxn7D3Tja53Ve"
+        }
+      ],
+      "duration_ms": 279933,
+      "name": "Moon Over Mysore",
+      "url": "https://open.spotify.com/track/2ViBKbHDsJuvU2eTireOAY"
+    },
+    {
+      "added_at": "2022-10-28 08:15:47",
+      "album": {
+        "name": "D\u00e4g\u00e4 D\u00e4g\u00e4",
+        "url": "https://open.spotify.com/album/5ZhvBUKPpFqFrNAAQaTIfi"
+      },
+      "artists": [
+        {
+          "name": "Pope Puolitaival",
+          "url": "https://open.spotify.com/artist/2S6F5kcokdkRZaS31KaYsx"
+        }
+      ],
+      "duration_ms": 174195,
+      "name": "D\u00e4g\u00e4 D\u00e4g\u00e4",
+      "url": "https://open.spotify.com/track/1ClFUVHYgThdnktoMhcDVE"
+    },
+    {
+      "added_at": "2022-10-28 08:15:47",
+      "album": {
+        "name": "To the Stars",
+        "url": "https://open.spotify.com/album/4koWLsu4sSFK999vdXQcaV"
+      },
+      "artists": [
+        {
+          "name": "Lithium",
+          "url": "https://open.spotify.com/artist/0mszOp1fVDXGkEaFZahjBD"
+        },
+        {
+          "name": "Alexi Tuomarila",
+          "url": "https://open.spotify.com/artist/4WEvxg7cSQdA4wQpAPkdv5"
+        }
+      ],
+      "duration_ms": 311269,
+      "name": "To The Stars",
+      "url": "https://open.spotify.com/track/64E9aanrebqOXsgY3Dvw70"
+    },
+    {
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "Diamond Back",
         "url": "https://open.spotify.com/album/2IUmbx57mCwSRRO522EJ9A"
@@ -557,7 +609,7 @@
       "url": "https://open.spotify.com/track/5vPBcZIGc4sttgZR9kM3VR"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "Potsdam",
         "url": "https://open.spotify.com/album/3QyROvaV6jKq8GIEIzUwop"
@@ -577,7 +629,7 @@
       "url": "https://open.spotify.com/track/4xKzPEenA1MQHpbwG7xCy7"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "What Will We Leave Behind",
         "url": "https://open.spotify.com/album/7cfIfqeymxfXyvt69grQaO"
@@ -593,7 +645,7 @@
       "url": "https://open.spotify.com/track/746oExBG42IBd7Q3ifotmM"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "Murhatarina",
         "url": "https://open.spotify.com/album/3w0Jwd36FrbWfN3VQMnu2i"
@@ -609,7 +661,7 @@
       "url": "https://open.spotify.com/track/1RexGZx3oC1elDsP1UqiGb"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "Too Late for a Kiss",
         "url": "https://open.spotify.com/album/0CI8xGEmRksnkjmYEydtTw"
@@ -625,39 +677,7 @@
       "url": "https://open.spotify.com/track/4ZjuxNysdqmR1bSXSk4Ymb"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
-      "album": {
-        "name": "Moon over Mysore",
-        "url": "https://open.spotify.com/album/3ErQYvguy4PL1uTzdjXxPT"
-      },
-      "artists": [
-        {
-          "name": "Kokko Quartet",
-          "url": "https://open.spotify.com/artist/3KHGL7g4Udxn7D3Tja53Ve"
-        }
-      ],
-      "duration_ms": 279933,
-      "name": "Moon Over Mysore",
-      "url": "https://open.spotify.com/track/2ViBKbHDsJuvU2eTireOAY"
-    },
-    {
-      "added_at": "2022-09-22 21:00:00",
-      "album": {
-        "name": "D\u00e4g\u00e4 D\u00e4g\u00e4",
-        "url": "https://open.spotify.com/album/5ZhvBUKPpFqFrNAAQaTIfi"
-      },
-      "artists": [
-        {
-          "name": "Pope Puolitaival",
-          "url": "https://open.spotify.com/artist/2S6F5kcokdkRZaS31KaYsx"
-        }
-      ],
-      "duration_ms": 174195,
-      "name": "D\u00e4g\u00e4 D\u00e4g\u00e4",
-      "url": "https://open.spotify.com/track/1ClFUVHYgThdnktoMhcDVE"
-    },
-    {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "demolish, transform",
         "url": "https://open.spotify.com/album/7inP2RNk891EPvKCeJojEu"
@@ -673,7 +693,7 @@
       "url": "https://open.spotify.com/track/689sPjFknUEvyyQvXHqEfA"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "Brand New Games",
         "url": "https://open.spotify.com/album/73Yk3EqWeBP7MhHKRQohEL"
@@ -689,7 +709,7 @@
       "url": "https://open.spotify.com/track/1rbRTcz5o8BrewfMPTLbZk"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "Utu",
         "url": "https://open.spotify.com/album/5O1QSu0FXMEOmb0cK2dsif"
@@ -705,7 +725,7 @@
       "url": "https://open.spotify.com/track/1vaPcZgalYASmWeOmFwNsq"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "Let's Call This",
         "url": "https://open.spotify.com/album/48O5U5LlrkYPYXSh5W0MOe"
@@ -733,7 +753,27 @@
       "url": "https://open.spotify.com/track/1f4elItJX2wwG1AmeVzV3O"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
+      "album": {
+        "name": "Side Effect",
+        "url": "https://open.spotify.com/album/5iaRtB7KTg8xSCoNIl4EiS"
+      },
+      "artists": [
+        {
+          "name": "Lithium",
+          "url": "https://open.spotify.com/artist/0mszOp1fVDXGkEaFZahjBD"
+        },
+        {
+          "name": "Gianni Gagliardi",
+          "url": "https://open.spotify.com/artist/6LDz8KuyNl7gzVvMLUWQ1X"
+        }
+      ],
+      "duration_ms": 426585,
+      "name": "Side Effect",
+      "url": "https://open.spotify.com/track/3wIKPsBqmjf4vYqiNw8Z8t"
+    },
+    {
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "Good Woman",
         "url": "https://open.spotify.com/album/5O6bsK4isDbbcr6Sp7bTqD"
@@ -749,7 +789,7 @@
       "url": "https://open.spotify.com/track/0yjKisEQNn4guL4s8HpABJ"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "Unituulia",
         "url": "https://open.spotify.com/album/4ea1eOXdoToRal6XqcSoci"
@@ -769,7 +809,7 @@
       "url": "https://open.spotify.com/track/3M7VQWhLMGX1HxnErLvpNs"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "Scenes",
         "url": "https://open.spotify.com/album/4SgIdBAzCLmLCm9il7eWZj"
@@ -785,7 +825,7 @@
       "url": "https://open.spotify.com/track/3ELSoIARBzDrqpbTav5DAD"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "Cameroonian Sky",
         "url": "https://open.spotify.com/album/3xCzRWB159GSRsgZ8dXmuh"
@@ -821,7 +861,7 @@
       "url": "https://open.spotify.com/track/6IQ5o2ur6q1DXoRUfk2Cb1"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "Fusionations",
         "url": "https://open.spotify.com/album/481Z3DQ5wwJ6i0J8mPq9HI"
@@ -837,7 +877,7 @@
       "url": "https://open.spotify.com/track/0ZTd2wJwhdlSURtYv0XHIb"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "Brevity",
         "url": "https://open.spotify.com/album/4MFyb4mSmkgHkndJP7RyO3"
@@ -857,47 +897,7 @@
       "url": "https://open.spotify.com/track/26Sa1QK63XlCNIKKdNBuN5"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
-      "album": {
-        "name": "Side Effect",
-        "url": "https://open.spotify.com/album/5iaRtB7KTg8xSCoNIl4EiS"
-      },
-      "artists": [
-        {
-          "name": "Lithium",
-          "url": "https://open.spotify.com/artist/0mszOp1fVDXGkEaFZahjBD"
-        },
-        {
-          "name": "Gianni Gagliardi",
-          "url": "https://open.spotify.com/artist/6LDz8KuyNl7gzVvMLUWQ1X"
-        }
-      ],
-      "duration_ms": 426585,
-      "name": "Side Effect",
-      "url": "https://open.spotify.com/track/3wIKPsBqmjf4vYqiNw8Z8t"
-    },
-    {
-      "added_at": "2022-09-22 21:00:00",
-      "album": {
-        "name": "To the Stars",
-        "url": "https://open.spotify.com/album/4koWLsu4sSFK999vdXQcaV"
-      },
-      "artists": [
-        {
-          "name": "Lithium",
-          "url": "https://open.spotify.com/artist/0mszOp1fVDXGkEaFZahjBD"
-        },
-        {
-          "name": "Alexi Tuomarila",
-          "url": "https://open.spotify.com/artist/4WEvxg7cSQdA4wQpAPkdv5"
-        }
-      ],
-      "duration_ms": 311269,
-      "name": "To The Stars",
-      "url": "https://open.spotify.com/track/64E9aanrebqOXsgY3Dvw70"
-    },
-    {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "Blue & Golden",
         "url": "https://open.spotify.com/album/07uM6sL7Usdi3pHcwQunsc"
@@ -913,7 +913,7 @@
       "url": "https://open.spotify.com/track/2t6JgAAry6wez10HnkJWvP"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "Chickenhawk",
         "url": "https://open.spotify.com/album/4N4x0IBcxWuTManseuPm0W"
@@ -933,7 +933,7 @@
       "url": "https://open.spotify.com/track/6340Rw7wgSjcJdx8ymzbXG"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "Last Dance",
         "url": "https://open.spotify.com/album/1wf2PGDEaRQcc8NUIOX0lH"
@@ -957,7 +957,7 @@
       "url": "https://open.spotify.com/track/5bfUURRfjsXDhicXAXMGUG"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "D\u00e9j\u00e0 Vu",
         "url": "https://open.spotify.com/album/3qOl5KWXYlKBZTJhI4Lz9j"
@@ -977,7 +977,7 @@
       "url": "https://open.spotify.com/track/4euYzAGkmIbdykP4wYxAQq"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "Mountain Man Exit",
         "url": "https://open.spotify.com/album/2HeNwpxn83O3GoMtIf4EUQ"
@@ -993,7 +993,7 @@
       "url": "https://open.spotify.com/track/7xKRYjwpDJHiWBSRNFscJ0"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "Ilmiliekki Quartet",
         "url": "https://open.spotify.com/album/6STx4DRg71CIIy5w8mEiMC"
@@ -1025,7 +1025,7 @@
       "url": "https://open.spotify.com/track/5v0y5dl1jFmnLLjLsbRVlE"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "Pinetree Song",
         "url": "https://open.spotify.com/album/4SjXdNETKs0gfhElhsnWoZ"
@@ -1041,7 +1041,7 @@
       "url": "https://open.spotify.com/track/5d1Zu6beu4sUzj2j01eol0"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "Mercy",
         "url": "https://open.spotify.com/album/7wBPnoHvTAXNkPTuAmgCbU"
@@ -1057,7 +1057,7 @@
       "url": "https://open.spotify.com/track/5g7R1HYpEUNtD1G0yYadAI"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "Sumu",
         "url": "https://open.spotify.com/album/2vIkioEW4Gv2aRrS4AoubB"
@@ -1073,7 +1073,7 @@
       "url": "https://open.spotify.com/track/2k5oko6OV9lmtoie6eJ4eS"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "Prog Fu!",
         "url": "https://open.spotify.com/album/6iB3uOyipKFssd9E5jAJK7"
@@ -1089,7 +1089,7 @@
       "url": "https://open.spotify.com/track/1lsfDuTKA2VqxWp4o0DOSf"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "Final Round",
         "url": "https://open.spotify.com/album/5iv71zHywXGWiJsB697xpE"
@@ -1105,7 +1105,7 @@
       "url": "https://open.spotify.com/track/011SZbBS0yvSFPHxRb6fGs"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "PROCEED",
         "url": "https://open.spotify.com/album/3obWDfutVLhbtbF4iaSM7P"
@@ -1121,7 +1121,7 @@
       "url": "https://open.spotify.com/track/0v22LOn7a7fNc1R6UyTXZ4"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "Light & Shade",
         "url": "https://open.spotify.com/album/7LthduKkAjzwK762Ez97QP"
@@ -1157,7 +1157,7 @@
       "url": "https://open.spotify.com/track/3zpPZeYSb7QxEI3iLsRJbv"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "Buoyancy",
         "url": "https://open.spotify.com/album/62NeqQhg1H5GzHv8f1cdm8"
@@ -1173,7 +1173,7 @@
       "url": "https://open.spotify.com/track/4pzfrt9nAirejnoLY2Y4GG"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "Wings",
         "url": "https://open.spotify.com/album/4Qcz7q7xBtkcgfitmaWDnE"
@@ -1189,7 +1189,7 @@
       "url": "https://open.spotify.com/track/2aIABbDuZrdLfmKZBFaxUN"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "Shadowfigures",
         "url": "https://open.spotify.com/album/4nC5ROOKDzc5gUOM6gPRMl"
@@ -1205,7 +1205,7 @@
       "url": "https://open.spotify.com/track/2HbR5EYtL80OAD9FyuJM6B"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "P\u00e4iv\u00e4p\u00e4\u00e4sky",
         "url": "https://open.spotify.com/album/1MI6PfneTeOQ3gA8Tk2HQQ"
@@ -1225,7 +1225,7 @@
       "url": "https://open.spotify.com/track/5MrclBhxI7GRFhvZpkBufy"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "Varo",
         "url": "https://open.spotify.com/album/1v0xTiCWYokedWuVT8GBTW"
@@ -1245,7 +1245,7 @@
       "url": "https://open.spotify.com/track/5Jvk0Oe071dMpFzvdhD8DC"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "Aurinko",
         "url": "https://open.spotify.com/album/0jxJ3dubcZ3DTV0JdsBYHm"
@@ -1261,7 +1261,7 @@
       "url": "https://open.spotify.com/track/0prylnSBXShJ37C8nZZwld"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "Ne H\u00f6lm\u00f6t",
         "url": "https://open.spotify.com/album/0uk6R34azCdrEGPYzWidii"
@@ -1277,7 +1277,7 @@
       "url": "https://open.spotify.com/track/2IlAAZBNdZi9g4WKVEvT0O"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "Aava",
         "url": "https://open.spotify.com/album/06WNFAzaNDrz4Hrv4sd5iH"
@@ -1293,7 +1293,7 @@
       "url": "https://open.spotify.com/track/0ujS9nCJPQaGjzsvaIK7Fx"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "East Side Up!",
         "url": "https://open.spotify.com/album/1HQSyUWkSc5PrsCMnLMTDz"
@@ -1309,7 +1309,7 @@
       "url": "https://open.spotify.com/track/4xxgPpHKtihNz7yr4FutXd"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "Trio",
         "url": "https://open.spotify.com/album/5lQSdw9RAGUJt2PS6az04U"
@@ -1325,7 +1325,7 @@
       "url": "https://open.spotify.com/track/1ZgAdSaIBOiuP4ORjwqq19"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "Neon Light [And the Sky Was Trans]",
         "url": "https://open.spotify.com/album/0JpAFFtjeBpAPuzsSds87a"
@@ -1341,7 +1341,7 @@
       "url": "https://open.spotify.com/track/7vFAgpPhAoNXnwVVS4gFOK"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "Hope",
         "url": "https://open.spotify.com/album/1bph2eWLw0CiJawMFhb2Pu"
@@ -1357,7 +1357,7 @@
       "url": "https://open.spotify.com/track/0wIIVAaIVEEezkbF3nywKF"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "Arcade",
         "url": "https://open.spotify.com/album/5viGCnQLCBvMYEdAaxkM54"
@@ -1373,7 +1373,7 @@
       "url": "https://open.spotify.com/track/1uT3YSj2okGX3oYOiROe2z"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "What Is It (That You're so Afraid Of)",
         "url": "https://open.spotify.com/album/34Br3pPRXwTkNWo9nIWjJp"
@@ -1393,7 +1393,7 @@
       "url": "https://open.spotify.com/track/0AnjhIB4R0t8xJ2mbAsvtF"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "L\u00e4hell\u00e4, kaukana",
         "url": "https://open.spotify.com/album/4tmVTqWdEUSA8MEocoXC9v"
@@ -1409,7 +1409,7 @@
       "url": "https://open.spotify.com/track/6Ufl4p4Oz7F42LTYr5Z2zu"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "S\u00f6rn\u00e4inen",
         "url": "https://open.spotify.com/album/5vLh5LYQOIEbyrTEeQ1stg"
@@ -1433,7 +1433,7 @@
       "url": "https://open.spotify.com/track/01qQCb8v73UKqrdr3z4Ydn"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "Stream Lines",
         "url": "https://open.spotify.com/album/0sPvJauHRN2nbG73nU55Nm"
@@ -1449,7 +1449,7 @@
       "url": "https://open.spotify.com/track/4nBw9s80yHFNGPCDCR0u0j"
     },
     {
-      "added_at": "2022-09-22 21:00:00",
+      "added_at": "2022-10-28 08:15:47",
       "album": {
         "name": "Orlo",
         "url": "https://open.spotify.com/album/77VgiOCIC8xoZv7KNLnooh"

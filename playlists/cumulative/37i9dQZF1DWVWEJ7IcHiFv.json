@@ -239,7 +239,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 264826,
       "name": "Come Into My Arms",
       "url": "https://open.spotify.com/track/6BD7CmcTMOGQTR2fN4Z8YX"
@@ -430,6 +430,24 @@
     },
     {
       "album": {
+        "name": "Eyes Of Innocence",
+        "url": "https://open.spotify.com/album/46Hw8UXhTzNrI1Yroh7oEf"
+      },
+      "artists": [
+        {
+          "name": "Miami Sound Machine",
+          "url": "https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 262560,
+      "name": "Dr. Beat",
+      "url": "https://open.spotify.com/track/21kwcsNL7YnianpVjXumHc"
+    },
+    {
+      "album": {
         "name": "Que Hago Aqui",
         "url": "https://open.spotify.com/album/2BRDFUTn1bWZP793gSFLJA"
       },
@@ -574,6 +592,24 @@
     },
     {
       "album": {
+        "name": "Esencial Mecano",
+        "url": "https://open.spotify.com/album/63hC0VFvoz0pjiNKeZN9GA"
+      },
+      "artists": [
+        {
+          "name": "Mecano",
+          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 258693,
+      "name": "Hijo de la luna",
+      "url": "https://open.spotify.com/track/2rJDwZn63BBEXIMnXQFg50"
+    },
+    {
+      "album": {
         "name": "Entre el Cielo y el Suelo (Bonus Tracks Edition)",
         "url": "https://open.spotify.com/album/1D4CJeC3gIhwipRwVKihjy"
       },
@@ -629,6 +665,28 @@
       "duration_ms": 404213,
       "name": "I Wonder If I Take You Home",
       "url": "https://open.spotify.com/track/3sRCesHh424gmCji7Fz9Gm"
+    },
+    {
+      "album": {
+        "name": "Club Columbia",
+        "url": "https://open.spotify.com/album/6g7JRPx6SdrEDLQS2fQcsI"
+      },
+      "artists": [
+        {
+          "name": "Lisa Lisa & Cult Jam",
+          "url": "https://open.spotify.com/artist/1vgjN6nIPNKiiQGE9PtzTT"
+        },
+        {
+          "name": "Full Force",
+          "url": "https://open.spotify.com/artist/1iQS32l0NPcZeJKVrvayS2"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 404000,
+      "name": "I Wonder If I Take You Home (with Full Force)",
+      "url": "https://open.spotify.com/track/3T2EHbivF5iEO9C9I2tDAJ"
     },
     {
       "album": {
@@ -758,6 +816,24 @@
     },
     {
       "album": {
+        "name": "Ana, Jos\u00e9, Nacho",
+        "url": "https://open.spotify.com/album/4l3E8sfadY7Ye5F6jlp6i6"
+      },
+      "artists": [
+        {
+          "name": "Mecano",
+          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 153173,
+      "name": "Maquillaje",
+      "url": "https://open.spotify.com/track/01Nvn73bt8eTZeV6NdHSo3"
+    },
+    {
+      "album": {
         "name": "La Cagaste... Burt Lancaster",
         "url": "https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis"
       },
@@ -805,7 +881,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 292200,
       "name": "Nada Personal",
       "url": "https://open.spotify.com/track/0cslUTJ5eB4hUNs0fKyh59"
@@ -971,7 +1047,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": "2022-11-13",
       "duration_ms": 235426,
       "name": "Rhythm Is Gonna Get You",
       "url": "https://open.spotify.com/track/6302KY4zq4Bpx823hyk4Kk"
@@ -1025,7 +1101,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-12",
       "duration_ms": 167826,
       "name": "Soy Un Desastre",
       "url": "https://open.spotify.com/track/0AGS302RHJblyvmVHsVpGY"
@@ -1079,7 +1155,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 300493,
       "name": "Toda la Vida",
       "url": "https://open.spotify.com/track/7M8sGCxjrx4tKV1m0g9JDA"
@@ -1137,6 +1213,24 @@
       "duration_ms": 313386,
       "name": "Ven Dev\u00f3rame Otra Vez",
       "url": "https://open.spotify.com/track/40NEkTUBoVZFFhCRBuZY3V"
+    },
+    {
+      "album": {
+        "name": "Romanticas para dedicar",
+        "url": "https://open.spotify.com/album/7o1AvAiWDcgXcz0IHgwIBk"
+      },
+      "artists": [
+        {
+          "name": "Lalo Rodriguez",
+          "url": "https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 314013,
+      "name": "Ven Dev\u00f3rame Otra Vez",
+      "url": "https://open.spotify.com/track/3IB7Y3TB7RLEZbXPCT50vv"
     },
     {
       "album": {

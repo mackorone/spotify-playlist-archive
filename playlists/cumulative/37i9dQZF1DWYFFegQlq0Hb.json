@@ -808,6 +808,24 @@
     },
     {
       "album": {
+        "name": "Kaikai Kitan",
+        "url": "https://open.spotify.com/album/20avoisFInptrZfBRFdCP3"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 219234,
+      "name": "Kaikai Kitan",
+      "url": "https://open.spotify.com/track/5RpCdEgSjTVIyziY4Ln8Ju"
+    },
+    {
+      "album": {
         "name": "Kaikai Kitan / Ao No Waltz",
         "url": "https://open.spotify.com/album/6BZjN6j79mjz7PJfGmvCR1"
       },

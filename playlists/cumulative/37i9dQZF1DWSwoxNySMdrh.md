@@ -4,7 +4,7 @@
 
 > Listen Korean indie queen BOL4's melting voice.
 
-134 songs - 7 hr 33 min - [published](https://open.spotify.com/playlist/6D7jXJvFtGu8RpCwros1uN)
+135 songs - 7 hr 37 min - [published](https://open.spotify.com/playlist/6D7jXJvFtGu8RpCwros1uN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Starlight](https://open.spotify.com/track/0DUnovCtsAb0G7sd43VuME) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Red Diary Page.2](https://open.spotify.com/album/34SNI9SBQ8i8Uou4nf1YEW) | 3:28 | 2022-04-20 |  |
 | [Starlight](https://open.spotify.com/track/7wVroNJzOAGgA7DwljC82b) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Red Diary Page.2](https://open.spotify.com/album/0LqZ9ELhMDdIkpXvSqaLAp) | 3:28 | 2022-04-20 | 2022-07-29 |
 | [Stars over me](https://open.spotify.com/track/317rmVXSLB2kp1uxSMGVMi) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅠ Bom](https://open.spotify.com/album/4pR0eatWzDISWS8LHv5dzZ) | 3:20 | 2022-04-20 | 2022-07-29 |
+| [Stars over me](https://open.spotify.com/track/6DUm0mHHRdQSaVMYYstk5x) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅠ Bom](https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg) | 3:20 | 2022-04-20 | 2022-11-13 |
 | [Stars over me](https://open.spotify.com/track/7e0ped11lt3lOukL7c9y0z) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [私だけ、春](https://open.spotify.com/album/28M9D7jC927PJdl0eoOEnJ) | 3:22 | 2022-04-20 |  |
 | [Taste](https://open.spotify.com/track/6gBNZQfj0j63TTsBSUxwjk) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Two Five](https://open.spotify.com/album/5HXNArWUgb2KuPI6TH47cV) | 3:05 | 2022-04-20 |  |
 | [Taste](https://open.spotify.com/track/7m4i9WUvXhdF28TW38qLNq) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Two Five](https://open.spotify.com/album/0UJsvx1tZnZRmcpzaG3wRH) | 3:05 | 2022-04-20 | 2022-07-29 |

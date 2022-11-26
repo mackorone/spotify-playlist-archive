@@ -4,7 +4,7 @@
 
 > The inspiration to be who you truly are—that’s at the center of the Pride playlist curated by the pop vocalist and Queen collaborator.
 
-33 songs - 1 hr 57 min - [published](https://open.spotify.com/playlist/2D6Av3yzPkip4DMqjTyV9j)
+35 songs - 2 hr 5 min - [published](https://open.spotify.com/playlist/2D6Av3yzPkip4DMqjTyV9j)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Do What U Want](https://open.spotify.com/track/5XKXMWPACPq51OiqzxenZo) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Do What U Want](https://open.spotify.com/album/5R9DO1cXTOaw9p7nd2emkm) | 3:36 | 2017-06-02 |  |
 | [Ghost Town](https://open.spotify.com/track/44aN5xKL3kGHvQ5bXVk6B8) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [The Original High \(Deluxe Version\)](https://open.spotify.com/album/3kaQUt8Mp906u1fI0LDqO6) | 3:28 | 2017-06-02 |  |
 | [La La La](https://open.spotify.com/track/5iaMh3rhscSYEdLGDmA2Cd) | [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [La La La](https://open.spotify.com/album/5cKpq96vMfTwyaUJ15aSCQ) | 3:40 | 2017-06-02 | 2022-07-29 |
+| [La La La](https://open.spotify.com/track/1RjpMjVNCHWoltfYSBHEKg) | [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Hotel Cabana](https://open.spotify.com/album/53iwAByO7wE7EqnpFPpIB3) | 3:42 | 2022-11-12 | 2022-11-13 |
 | [La La La](https://open.spotify.com/track/36pLU2ywVeBKEF0rrKtmCB) | [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Hotel Cabana \(Deluxe Version\)](https://open.spotify.com/album/2SVSPhDBqChBe10hJh5owv) | 3:42 | 2022-07-29 |  |
 | [Let's Have A Kiki](https://open.spotify.com/track/154Ada4WZXskIMnsKiy26u) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Magic Hour \(Deluxe\)](https://open.spotify.com/album/2P12s0AcooZGvM6mfgeuw3) | 3:50 | 2017-06-02 |  |
 | [Live Your Life](https://open.spotify.com/track/1DkE9q0AAby1arBO7rIqZ1) | [Boy George](https://open.spotify.com/artist/2BWfZGPtsjRlRp7JTDqI45) | [This Is What I Do](https://open.spotify.com/album/3cU7WKJxiHrZDaDCk1HSkm) | 4:33 | 2017-06-02 |  |
@@ -30,6 +31,7 @@
 | [Ready For Your Love](https://open.spotify.com/track/5wGLQvq6JoxYZX7V3ymPS5) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Sirens](https://open.spotify.com/album/7MQaCAAj19jwc9WKNZTcJG) | 3:18 | 2017-06-02 |  |
 | [Shine](https://open.spotify.com/track/0SjaL4cjD4PXOY4orbZSMZ) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Communion \(Deluxe\)](https://open.spotify.com/album/09mWpzpUOSjjvK2iNqEIYn) | 4:15 | 2022-07-29 |  |
 | [Shine](https://open.spotify.com/track/4Qrxdjj3nFhjrqcnUU5r6a) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Communion \(Deluxe\)](https://open.spotify.com/album/50jDQcZjE2kdx5rn3AL0c8) | 4:15 | 2017-06-02 | 2022-07-29 |
+| [Shine](https://open.spotify.com/track/7fymo275KG2hK7SBfxf72C) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Pop Hits 2015](https://open.spotify.com/album/3ZagUWHI0FtnJ4PJflqUGR) | 4:15 | 2022-11-11 | 2022-11-14 |
 | [Supermodel \(You Better Work\)](https://open.spotify.com/track/36Rpz4MZQhGknLEmTmHr8v) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Supermodel of the World](https://open.spotify.com/album/5dZF2rTcU8ZWmfk6NVI0hA) | 3:59 | 2022-07-29 |  |
 | [Supermodel \(You Better Work\)](https://open.spotify.com/track/7tvMOBSGPAl4Gyiq6fdiRd) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Supermodel To The World](https://open.spotify.com/album/2NBh8cWPygbHUaLUmhYSJt) | 3:59 | 2017-06-02 | 2022-07-29 |
 | [The Light](https://open.spotify.com/track/0O14ArbnhIczAkSh0bIINk) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [The Original High](https://open.spotify.com/album/6hN2y18fg4KVGMaltxfdXZ) | 3:35 | 2017-06-02 |  |

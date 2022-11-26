@@ -378,6 +378,28 @@
     },
     {
       "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/3I8K5xf5xqERLrGET1A2gy"
+      },
+      "artists": [
+        {
+          "name": "Svaha.",
+          "url": "https://open.spotify.com/artist/35wl6gVa66JYBP8FejyJ82"
+        },
+        {
+          "name": "Mono Handpan",
+          "url": "https://open.spotify.com/artist/4rJpumsl8NbIJhoKYKgvxu"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152500,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/0COyAv0TaxxVlDqMfedV15"
+    },
+    {
+      "album": {
         "name": "Focus One",
         "url": "https://open.spotify.com/album/7pPXleKmHlZ8YPkQTxetQ1"
       },
@@ -1263,6 +1285,24 @@
       "duration_ms": 152447,
       "name": "Sunrise Glory",
       "url": "https://open.spotify.com/track/1jAENgcKZknON4aQSvr4Be"
+    },
+    {
+      "album": {
+        "name": "Everything But",
+        "url": "https://open.spotify.com/album/4buD9eE8dpFa3aIy9fHgcM"
+      },
+      "artists": [
+        {
+          "name": "Hangimba Boy",
+          "url": "https://open.spotify.com/artist/1Fv4aj9ojTsR3lz2RwYEKM"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195234,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/3Mw806oScJ2C07uLn73vwK"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92t5UjbyVl5.md) - [plain]
 
 > ¿Tienes flow, tienes rimas? Dale play.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,343 likes - 74 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,666 likes - 74 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92t5UjbyVl5.md) - [plain]
 | 13 | [Astroworld](https://open.spotify.com/track/6CI7qe3gt0IsJIbMt6y3Gm) | [Minthaze](https://open.spotify.com/artist/0GDuz9Xe0BQHtO6uEOHm1v), [Mastah William](https://open.spotify.com/artist/0I4mdhh1hCqjr8w9rIMG9T) | [Astroworld](https://open.spotify.com/album/1CT2ulUX6wFSE5S2js79kj) | 2:32 |
 | 14 | [Little Biggie](https://open.spotify.com/track/7nUPCYLMcE8ZLvEnqW5QfO) | [Azerbeats](https://open.spotify.com/artist/595CdU8Gay4WhfvkmX7w3T), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [Little Biggie](https://open.spotify.com/album/1OdSvRcnEDHilSS5u7TPD9) | 2:08 |
 | 15 | [Slowly \- Instrumental](https://open.spotify.com/track/4ecPOJbppSjn1CbXk9lXwv) | [Cidtronyck](https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS) | [L.O.V: La Otra Vida \(Instrumental\)](https://open.spotify.com/album/3yOo3LUo6BkjxuB5Jf8EaM) | 3:24 |
-| 16 | [Shook](https://open.spotify.com/track/7uw2RLrljWUpO0eM7lxSIS) | [Inmune Beats](https://open.spotify.com/artist/2QDJbuxkHXoDuwYcC1CBQz) | [Mind Shook Dreams](https://open.spotify.com/album/0g7DUcA4cRwxhYYktCZITL) | 1:58 |
+| 16 | [Shook](https://open.spotify.com/track/2GWu06oCNg4OxGIoj5FuE5) | [Inmune Beats](https://open.spotify.com/artist/2QDJbuxkHXoDuwYcC1CBQz) | [Mind Shook Dreams](https://open.spotify.com/album/6tSVy7KGYsGF3Ru6CzVcOV) | 1:58 |
 | 17 | [Vendetta \(Franco Vs Yartzi\)](https://open.spotify.com/track/1S9Acpvuiw6GwCfEoQV4Mr) | [Red Bull Batalla](https://open.spotify.com/artist/3QTFKq177NKtQZoAmlR0VT), [AlcaZone](https://open.spotify.com/artist/15PFXBhOcw5lDbclmmFWLW) | [Alcazone Beats 2019](https://open.spotify.com/album/4AXZOhiaetKRwQEPLQtZrh) | 3:44 |
 | 18 | [Warped](https://open.spotify.com/track/18ajzwOLRlEbk2XZ1m9hPT) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [HotBox](https://open.spotify.com/album/4UreQKbk5velOFM4SPBbcB) | 2:43 |
 | 19 | [Beatbox Session, Vol\. 1 \(Instrumental\)](https://open.spotify.com/track/2R9I4hiDF2ddQPuD5EsMP4) | [Iacho](https://open.spotify.com/artist/6ybOB74nYTUpM6VGiP1egr) | [Beatbox Session, Vol\. 1 \(Instrumental\)](https://open.spotify.com/album/1ejJmKa7yoCLCMxBBWssoK) | 5:16 |
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92t5UjbyVl5.md) - [plain]
 | 25 | [Hop Out The Phantom](https://open.spotify.com/track/4e9lSMiAfuU0oKSG3BKkWy) | [Jahlil Beats](https://open.spotify.com/artist/6v6X5pIJyWGrB10C9PZbSj) | [Fire In The Sky](https://open.spotify.com/album/6Hw0ouzDx7dPtHKrRzqtZk) | 5:34 |
 | 26 | [Mah God](https://open.spotify.com/track/4rqpIQZoXj5SUnyD7uVvGS) | [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [Ding Dong 2](https://open.spotify.com/album/1HxbGP39aILkb23ue7kA9C) | 3:04 |
 | 27 | [Empire \(with LMC\)](https://open.spotify.com/track/2BVo7W60QcDAEv6BnlJEAh) | [Wayvee](https://open.spotify.com/artist/1oX7kWDlraFgbDTrMuwbJb), [LMC](https://open.spotify.com/artist/73xAkxZ3NDbTBri0qmlgPd) | [Empire \(with LMC\)](https://open.spotify.com/album/5E70771EL5frUMY5aOsA1t) | 3:05 |
-| 28 | [Laif Is Tu Short \- Instrumental](https://open.spotify.com/track/10W6cSzVxb5Pn17y2Ll90Z) | [Brous One](https://open.spotify.com/artist/1B8h9tQRqagUQ7XcHRvh3k), [Matiah Chinaski](https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F), [DJ Pere](https://open.spotify.com/artist/0OHe56BrinIZV4Xqu4EEbP) | [Laif Is Tu Short](https://open.spotify.com/album/3lboE8eK35egnJ9yqkjuMs) | 2:35 |
+| 28 | [Laif Is Tu Short \- Instrumental](https://open.spotify.com/track/4a60fGnWygEx4njLHZK4n8) | [Brous One](https://open.spotify.com/artist/1B8h9tQRqagUQ7XcHRvh3k), [Matiah Chinaski](https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F), [DJ Pere](https://open.spotify.com/artist/0OHe56BrinIZV4Xqu4EEbP) | [Laif Is Tu Short](https://open.spotify.com/album/2osIjJPyOPli3uUgNfbslN) | 2:35 |
 | 29 | [Melatonin](https://open.spotify.com/track/1FwD8A8BsPqJMg1evVSSGv) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Swimmingly](https://open.spotify.com/album/2aUtBNuH02OQx35zND4PGR) | 3:18 |
 | 30 | [Leave It That Way](https://open.spotify.com/track/0n99I1623b6nC4dBfpEljZ) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [Shooter On](https://open.spotify.com/album/0BRRMCcCM2UjEUt0jUPTfQ) | 3:32 |
 | 31 | [Be Real \- Instrumental Beat](https://open.spotify.com/track/7zlsRqs2QZho0VEWRmuwoZ) | [Boy Greezy Beats](https://open.spotify.com/artist/0qAWErVxnWDB1NZUfKYlQz) | [Trap Meets Twerk Instrumentals, Vol.2 \(The Hottest Banging Trap & Twerk Beats\)](https://open.spotify.com/album/56Qq2JUTSA6XTNRVPpG2R3) | 3:44 |
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92t5UjbyVl5.md) - [plain]
 | 54 | [Swinging](https://open.spotify.com/track/54KmYR1hYdaJza6zojmx8V) | [Homebody](https://open.spotify.com/artist/6JHNIy8sGnVh5YrdVVAIuY) | [On the Curb](https://open.spotify.com/album/4fVLKFczoIp7aSDft6717w) | 2:54 |
 | 55 | [Time Crunch](https://open.spotify.com/track/0r4MrH7M3vzcnc5vFymQbg) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Territories](https://open.spotify.com/album/0scPscbqvC4mXDqVxLAFEx) | 2:59 |
 | 56 | [This Sixteen \- Street Trap Instrumental Mix](https://open.spotify.com/track/33crnWgH6VDNlctnv8s1eK) | [Thai Beats](https://open.spotify.com/artist/3Lhjv0JgyaXDHezrpfEHrk) | [33 New Rap Beats & Incredible Hip Hop Instrumentals \(Trap Instrumentals\)](https://open.spotify.com/album/2XbCqbXirLilDkj0N1gdOn) | 3:27 |
-| 57 | [Betrayed](https://open.spotify.com/track/02oAGoCGdHnyR6GcKmkSp7) | [Jaeger](https://open.spotify.com/artist/77PxY9mItIkmEo8D2fbfco) | [Betrayed](https://open.spotify.com/album/2tgamCw8AnESKXUmzXfpKc) | 3:34 |
+| 57 | [Betrayed](https://open.spotify.com/track/02oAGoCGdHnyR6GcKmkSp7) | [Jaeger](https://open.spotify.com/artist/3vWZ7hGW88wyByViyiwf8L) | [Betrayed](https://open.spotify.com/album/2tgamCw8AnESKXUmzXfpKc) | 3:34 |
 | 58 | [Foul On the Play \(Instrumental\)](https://open.spotify.com/track/1VgwQjwnsz3Zil9aCZWuO3) | [Swit Beats](https://open.spotify.com/artist/1IkuvaOCCIpxy5x6Tsjlsh) | [Trap Hills: Beats Tape](https://open.spotify.com/album/0KiG4Ltn4EhBlGqB04O0zL) | 2:01 |
 | 59 | [McLaren](https://open.spotify.com/track/6mpABC67wadyf0pFtKPRNW) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [4 Years](https://open.spotify.com/album/3KHjTUhVkXyiB8RiLclf0o) | 2:25 |
 | 60 | [No Hate](https://open.spotify.com/track/5otKKNFJZ9uxT2IAVkC9u9) | [whaTaRWoll Music](https://open.spotify.com/artist/1Z7MTyfennQvKU2hxO5KYO) | [Wrong Game](https://open.spotify.com/album/5MMjKLaASf8ah91ou3IRtV) | 3:41 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92t5UjbyVl5.md) - [plain]
 | 73 | [Tour Bus](https://open.spotify.com/track/4rcHftFyDKbrf6IcTyfhRJ) | [Homebody](https://open.spotify.com/artist/6JHNIy8sGnVh5YrdVVAIuY) | [Tour Bus](https://open.spotify.com/album/7pCW7yDNvN39iQaHZHYBrq) | 2:54 |
 | 74 | [Jokes on Me](https://open.spotify.com/track/4k4QnjkHrlOrMF08lpk09H) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Rudimentary](https://open.spotify.com/album/7H2EfXZ6vwDEcRqg3fWjFy) | 2:16 |
 
-Snapshot ID: `MTY0NDI0ODc5MCwwMDAwMDAwMGRkZmY2YTExMjBkZDg5ZDliZjM5MjY5MGNjZDJmN2Y4`
+Snapshot ID: `MTY0NDI0ODc5MCwwMDAwMDAwMDhhY2RkNzIxMGNkZDU5YTA5MmUxMzUxMWIxZGY5ODE1`

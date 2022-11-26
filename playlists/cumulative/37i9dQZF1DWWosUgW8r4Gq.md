@@ -4,7 +4,7 @@
 
 > Music from "Laid\-Back Camp"! /音楽で辿る「ゆるキャン△」の世界。©あfろ・芳文社／野外活動委員会
 
-78 songs - 3 hr 59 min - [published](https://open.spotify.com/playlist/15Vn9vNRnJdb3zfxCLtYip)
+80 songs - 4 hr 8 min - [published](https://open.spotify.com/playlist/15Vn9vNRnJdb3zfxCLtYip)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Sashinomi, tebasaki, saikaidesu](https://open.spotify.com/track/1QAjQXQPZzl0pY5w6bMFUn) | [Akiyuki Tateyama](https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA) | [Laid\-Back Camp the Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0h6vCZ9iFg5sESGWvKePvH) | 2:31 | 2022-07-05 |  |
 | [Seize The Day](https://open.spotify.com/track/6YbbRVO81tTxFObgdSJa2N) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [Pontoon](https://open.spotify.com/album/3IqT5PMCjApxtrnxJxLbBD) | 4:04 | 2022-07-05 |  |
 | [Seize The Day](https://open.spotify.com/track/0SQsn1nZORgrdNSbbXD0V4) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [Seize The Day \(TVアニメ『ゆるキャン△ SEASON2』OPテーマ\)](https://open.spotify.com/album/61mvdcavPEkHIqNJ5gwGLV) | 4:04 | 2022-07-05 | 2022-07-29 |
+| [Seize The Day](https://open.spotify.com/track/5GEzwiv2acSw73nEVR3WHz) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [Seize The Day](https://open.spotify.com/album/5Cy9bBWrqR2rbabTiYsFoH) | 4:04 | 2022-07-05 | 2022-11-13 |
 | [SHINY DAYS](https://open.spotify.com/track/3V7mWY7bwabSRPOOuJ7rcN) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [SHINY DAYS\(TVアニメ「ゆるキャン△」OPテーマ\)](https://open.spotify.com/album/799UkSmpzMBG2Ni6PO3zDc) | 4:21 | 2022-07-05 |  |
 | [Slow air na kisetsu](https://open.spotify.com/track/3bghWYK0Bs48xmDnquA9DQ) | [Akiyuki Tateyama](https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA) | [Heya Camp Original Soundtrack](https://open.spotify.com/album/25AH7MvyN3We1bYtlGAkzH) | 3:12 | 2022-07-05 |  |
 | [SlowAirな季節](https://open.spotify.com/track/4Mu3gBs0jGtN3RNMXBgOrw) | [Akiyuki Tateyama](https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA) | [ショートアニメ『へやキャン△』オリジナル・サウンドトラック](https://open.spotify.com/album/4t7hTYcuWHZELqLhK6yICM) | 3:12 | 2022-07-05 | 2022-07-29 |
@@ -43,6 +44,7 @@
 | [Sun Is Coming Up](https://open.spotify.com/track/3QF909rQu5LgpXxrPL81Nz) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [Sun Is Coming Up](https://open.spotify.com/album/69f1AKnu2Lr4CwbmWjfbQp) | 4:15 | 2022-07-05 | 2022-07-29 |
 | [Sun Is Coming Up](https://open.spotify.com/track/4Tzy19BN954GdgSiUH62jD) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [Sun Is Coming Up](https://open.spotify.com/album/6idCwCmUoXnX8ITg8PfHEj) | 4:15 | 2022-07-05 |  |
 | [Tabiga bokurawo yondeiru ”Heya Camp's Theme”](https://open.spotify.com/track/6bY9GhQxnsgs52GSchnIiU) | [Akiyuki Tateyama](https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA) | [Heya Camp Original Soundtrack](https://open.spotify.com/album/25AH7MvyN3We1bYtlGAkzH) | 2:21 | 2022-07-05 |  |
+| [The Sunshower](https://open.spotify.com/track/0Av7Z4aPWBbxsaZ6Ddh3Dc) | [Asaka](https://open.spotify.com/artist/6salj1HNtQW4jfRxuiaPmK) | [The Sunshower](https://open.spotify.com/album/56MlsQ9Ae6tePRnUAw8fEK) | 4:30 | 2022-07-05 | 2022-11-13 |
 | [The Sunshower](https://open.spotify.com/track/49qxg2ltT02IeGg242ajro) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [The Sunshower](https://open.spotify.com/album/21WidAbDB2jXy2FmMzEGJ7) | 4:30 | 2022-07-05 | 2022-07-29 |
 | [The Sunshower](https://open.spotify.com/track/7JdPXD5GFX7Q09gB7mAE9e) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [Pontoon](https://open.spotify.com/album/3IqT5PMCjApxtrnxJxLbBD) | 4:30 | 2022-07-05 |  |
 | [Tsugi no camp ha dousiyokka?](https://open.spotify.com/track/3iIWffb2a2uLcOYXXfnAAg) | [Akiyuki Tateyama](https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA) | [TV Animation ”Laid\-back Camp Season2” Original Soundtrack](https://open.spotify.com/album/3GTjnJhIoRsTVoIvhyX0t0) | 2:37 | 2022-07-05 |  |

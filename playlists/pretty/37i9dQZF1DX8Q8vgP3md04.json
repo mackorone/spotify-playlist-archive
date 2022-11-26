@@ -1,13 +1,29 @@
 {
   "description": "Hit music from Ethiopia's finest.",
-  "num_followers": 12851,
+  "num_followers": 13438,
   "original_name": "Ethio-Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTA2MTcwMiwwMDAwMDAwMDk0ZDEzY2Q5MjUzMzVkODZhMzBhNDdmNWM1ZTQ4ZWJm",
+  "snapshot_id": "MTY2ODcyOTU0MCwwMDAwMDAwMDNlZTQ1YzhhNjYwYTAyMmE3YzExNTEyODllMjQzOTVh",
   "tracks": [
+    {
+      "added_at": "2022-11-17 23:59:00",
+      "album": {
+        "name": "Tewedaj, Vol. 1",
+        "url": "https://open.spotify.com/album/6xDnveRco4B2JmHZdJeV6W"
+      },
+      "artists": [
+        {
+          "name": "Haleluya Tekletsadik",
+          "url": "https://open.spotify.com/artist/4ZpsiP2o6O2aNe2E7Kk9Ke"
+        }
+      ],
+      "duration_ms": 206298,
+      "name": "Tewedaj",
+      "url": "https://open.spotify.com/track/4FHNogeGpRbEFRlLCqw1GH"
+    },
     {
       "added_at": "2018-10-04 10:38:09",
       "album": {
@@ -73,6 +89,26 @@
       "url": "https://open.spotify.com/track/3BxMUw1RudApjSG9emnP5K"
     },
     {
+      "added_at": "2022-11-17 23:59:00",
+      "album": {
+        "name": "Aynama",
+        "url": "https://open.spotify.com/album/2UG2pd1aBEDIFetK9Gm9na"
+      },
+      "artists": [
+        {
+          "name": "Sol Romeyo",
+          "url": "https://open.spotify.com/artist/4QK1PhAwLD8knsSXnXI9Cg"
+        },
+        {
+          "name": "Flashkiiddo",
+          "url": "https://open.spotify.com/artist/63tu1CZybzgoXM2tPG7UE5"
+        }
+      ],
+      "duration_ms": 240169,
+      "name": "Aynama",
+      "url": "https://open.spotify.com/track/6gf5wTdci9QTxjJfc8UDlf"
+    },
+    {
       "added_at": "2020-06-05 12:00:08",
       "album": {
         "name": "Maalan Jira",
@@ -87,22 +123,6 @@
       "duration_ms": 330489,
       "name": "Maalan Jira",
       "url": "https://open.spotify.com/track/3X7RnmGwyfOy2Qr5nn1u1i"
-    },
-    {
-      "added_at": "2020-07-21 10:22:03",
-      "album": {
-        "name": "Habesha",
-        "url": "https://open.spotify.com/album/7xeGTsVCULFt42tcgv85zK"
-      },
-      "artists": [
-        {
-          "name": "Amanuel Yemane",
-          "url": "https://open.spotify.com/artist/34vR4pOtaY9230Nmc1BKP8"
-        }
-      ],
-      "duration_ms": 297217,
-      "name": "Nigerewa",
-      "url": "https://open.spotify.com/track/3DvQz7jA79KweYLM4yRQJ8"
     },
     {
       "added_at": "2018-10-04 10:38:09",
@@ -187,6 +207,22 @@
       "duration_ms": 304000,
       "name": "Yemegemeriyaye",
       "url": "https://open.spotify.com/track/71DGTsCqCWt63Rb6KZ4mUL"
+    },
+    {
+      "added_at": "2022-11-17 23:59:00",
+      "album": {
+        "name": "Hewan",
+        "url": "https://open.spotify.com/album/7wBjOh16t8N52X8jUngcxD"
+      },
+      "artists": [
+        {
+          "name": "Hewan Gebrewold",
+          "url": "https://open.spotify.com/artist/60fiWbQASuQ0otDUr7mBSE"
+        }
+      ],
+      "duration_ms": 207333,
+      "name": "Shemuna",
+      "url": "https://open.spotify.com/track/4PrrAmcyo4P6NBivJ8OlZF"
     },
     {
       "added_at": "2018-10-04 10:38:09",
@@ -320,7 +356,7 @@
       "added_at": "2018-10-04 10:38:09",
       "album": {
         "name": "Live In Paris",
-        "url": "https://open.spotify.com/album/0kGmTDYh6sYO9EmeTWYiAv"
+        "url": "https://open.spotify.com/album/7hRfo6CmgWCk8ekWnG2zpR"
       },
       "artists": [
         {
@@ -330,7 +366,7 @@
       ],
       "duration_ms": 383093,
       "name": "D\u00e8ra",
-      "url": "https://open.spotify.com/track/2IIb271RwaISQdftWsD7HT"
+      "url": "https://open.spotify.com/track/5Ib3C5Pwn5vVGjONPEjlJg"
     },
     {
       "added_at": "2018-10-04 10:38:09",
@@ -581,6 +617,22 @@
       "url": "https://open.spotify.com/track/4UISxp6gvMxGkjQfFbonuC"
     },
     {
+      "added_at": "2022-11-17 23:59:00",
+      "album": {
+        "name": "Sidist (VI)",
+        "url": "https://open.spotify.com/album/25lSM4Kr3XmfZPALspAiNH"
+      },
+      "artists": [
+        {
+          "name": "Rophnan",
+          "url": "https://open.spotify.com/artist/3LqZ41yvB4W7KSjEYLL31w"
+        }
+      ],
+      "duration_ms": 291543,
+      "name": "Qal",
+      "url": "https://open.spotify.com/track/0ZM9wgVnliFhDKdNdND349"
+    },
+    {
       "added_at": "2018-10-04 10:38:09",
       "album": {
         "name": "Vol. \u136a",
@@ -709,6 +761,22 @@
       "url": "https://open.spotify.com/track/4wSz0N4SCEwdHolekBUdmv"
     },
     {
+      "added_at": "2022-11-17 23:59:00",
+      "album": {
+        "name": "Studio 30 Volume 1",
+        "url": "https://open.spotify.com/album/3BGMxmK1XEj84UosGYTk61"
+      },
+      "artists": [
+        {
+          "name": "Aman",
+          "url": "https://open.spotify.com/artist/10H83AFY6wbiZCiOd8guQR"
+        }
+      ],
+      "duration_ms": 185995,
+      "name": "Teywa",
+      "url": "https://open.spotify.com/track/1wmNXWGVkLxaJNYWNV8oq5"
+    },
+    {
       "added_at": "2018-10-04 10:38:09",
       "album": {
         "name": "Wegegta",
@@ -723,6 +791,26 @@
       "duration_ms": 195000,
       "name": "Mengedegna",
       "url": "https://open.spotify.com/track/6FLzUgglQPqA78lKior10y"
+    },
+    {
+      "added_at": "2022-11-17 23:59:00",
+      "album": {
+        "name": "Kanchiga New",
+        "url": "https://open.spotify.com/album/2m9twp71nnWlbmv7elggTA"
+      },
+      "artists": [
+        {
+          "name": "Samon Zemas",
+          "url": "https://open.spotify.com/artist/2CXGI3F0AkpmppGSgdtcfA"
+        },
+        {
+          "name": "Aman N",
+          "url": "https://open.spotify.com/artist/289FKaEJct7I2C3hVLMIBo"
+        }
+      ],
+      "duration_ms": 178105,
+      "name": "Kanchiga New",
+      "url": "https://open.spotify.com/track/2ccPSIfmf9PmTkyywfeRRj"
     },
     {
       "added_at": "2020-06-05 12:00:08",
@@ -837,6 +925,22 @@
       "url": "https://open.spotify.com/track/7K7n8T0Ozc1EquLicWRs9r"
     },
     {
+      "added_at": "2022-11-17 23:59:00",
+      "album": {
+        "name": "Eshi Kezias",
+        "url": "https://open.spotify.com/album/6hpPy3EejdGmw28IgZdCE9"
+      },
+      "artists": [
+        {
+          "name": "Kal Kin",
+          "url": "https://open.spotify.com/artist/3JwnCprAXUfeXUaGf2FaOH"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Eshi Kezias",
+      "url": "https://open.spotify.com/track/0Y9G7e3yCzIaNEjDW6i83A"
+    },
+    {
       "added_at": "2018-10-04 10:38:09",
       "album": {
         "name": "Lerasih New",
@@ -876,7 +980,7 @@
       "added_at": "2020-06-05 12:00:08",
       "album": {
         "name": "Shelter",
-        "url": "https://open.spotify.com/album/1aDK3U8NLFyi5zBYLRFxUK"
+        "url": "https://open.spotify.com/album/5gbL8MJfWftKPNW4JfXp2P"
       },
       "artists": [
         {
@@ -884,9 +988,9 @@
           "url": "https://open.spotify.com/artist/2noU35ow21LQjXl4msANBG"
         }
       ],
-      "duration_ms": 259369,
+      "duration_ms": 259368,
       "name": "Shelter",
-      "url": "https://open.spotify.com/track/5hiih9ZGthFog3buukf7Ss"
+      "url": "https://open.spotify.com/track/0InSfY3vAN0dcy7MiyxdSM"
     },
     {
       "added_at": "2020-06-05 12:00:08",

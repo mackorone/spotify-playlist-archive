@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RkXiUJ5aMs.md) - [plain]
 
 > A collection of inspired songs about life and the love of the father.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,714 likes - 65 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,785 likes - 65 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RkXiUJ5aMs.md) - [plain]
 | 27 | [Song For Dad](https://open.spotify.com/track/0l2G2yxjpE9zgUA8rJlAMu) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 3:56 |
 | 28 | [Safe And Sound](https://open.spotify.com/track/2gjdOPKyBdSTd3bepecmyZ) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Something To Say](https://open.spotify.com/album/0dpyKYwLMyjXGYlreUP49a) | 2:51 |
 | 29 | [The Space Between Us](https://open.spotify.com/track/5dauZHVLFMM67B6B48Httg) | [Shawn McDonald](https://open.spotify.com/artist/0alRw2BasYQZdFSJLfLbIY) | [The Analog Sessions](https://open.spotify.com/album/2fK1QJSyWckVnm5aIBm9Ce) | 4:10 |
-| 30 | [My Father's Eyes](https://open.spotify.com/track/46qmhckPWhcfBhw4hagOOS) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Clapton Chronicles: The Best of Eric Clapton](https://open.spotify.com/album/6FCakQJ6z6TF0y0qkHYKgy) | 5:23 |
+| 30 | [My Father's Eyes](https://open.spotify.com/track/2GGskYwS4j8LDMSDUJ8vrl) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Pilgrim](https://open.spotify.com/album/4zWJPA1aq4IBdLk1QbWD63) | 5:23 |
 | 31 | [The Greatest Man I Never Knew](https://open.spotify.com/track/43z33yJDu1dCyE50sPzErp) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [For My Broken Heart](https://open.spotify.com/album/2j2u43lPOti5W1btEw8NN5) | 3:14 |
 | 32 | [Carry On](https://open.spotify.com/track/0JYJV0dIYEboVueifrGQJ1) | [Stu Garrard](https://open.spotify.com/artist/0vmjmjLdT5ed78K0GPBsm2), [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Beatitudes](https://open.spotify.com/album/2YfGHMZyMIeLcs7s2Uv4Wu) | 4:21 |
 | 33 | [Daughters](https://open.spotify.com/track/5FPnjikbwlDMULCCCa6ZCJ) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Heavier Things](https://open.spotify.com/album/6WivmTXugLZLmAWnZhlz7g) | 3:57 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RkXiUJ5aMs.md) - [plain]
 | 64 | [I Still Believe in That](https://open.spotify.com/track/4x80O7HhUzxec2hAgWdvQ8) | [Ash Bowers](https://open.spotify.com/artist/2aJsgmclt9joQMsHMffCBr) | [I Still Believe in That](https://open.spotify.com/album/0u3WForpl37yjNBo7gllCa) | 3:26 |
 | 65 | [Stealing Cinderella](https://open.spotify.com/track/0Pvbr31U9bjdvUUNGNFnQJ) | [Chuck Wicks](https://open.spotify.com/artist/696fbyLHSMBSYjDrDU5yiK) | [Stealing Cinderella](https://open.spotify.com/album/1tlxI1SGhyybdGhG15ByTT) | 4:02 |
 
-Snapshot ID: `MTY1NDkwMzEyOSwwMDAwMDAwMDgyYmMzNTFkNGViYWRjM2MyYjdkZjU4MDRkNDU0MjNm`
+Snapshot ID: `MTY1NDkwMzEyOSwwMDAwMDAwMGUzMmMxNDRhYzNkYzY1M2EzNzMzM2YxYzVlN2Y0Nzhm`

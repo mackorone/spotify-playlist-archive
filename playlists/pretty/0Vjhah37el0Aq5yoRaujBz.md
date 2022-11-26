@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Vjhah37el0Aq5yoRaujBz.md) - [plain]
 
 > Let this upbeat playlist power you through your day
 
-[Jeffry Harrison](https://open.spotify.com/user/1231779322) - 3,186 likes - 306 songs - 18 hr 4 min
+[Jeffry Harrison](https://open.spotify.com/user/1231779322) - 3,193 likes - 306 songs - 18 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -212,7 +212,7 @@ pretty - [cumulative](/playlists/cumulative/0Vjhah37el0Aq5yoRaujBz.md) - [plain]
 | 202 | [Just Hold On \- DVBBS Remix](https://open.spotify.com/track/1ZAFPV0DHOuAoyKd7LGWpq) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp), [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82) | [Just Hold On \(Remixes Part 1\)](https://open.spotify.com/album/5dz3wgwZa2Kl1jK4fVA3C7) | 3:36 |
 | 203 | [Low Life 2.0 \- Boehm Remix](https://open.spotify.com/track/0uPnrziOJJsCf7fZVT2WPd) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Jamie N Commons](https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Low Life 2.0 \(Boehm Remix\)](https://open.spotify.com/album/4Ho1nGSs0KVPu1HImFAWBv) | 3:42 |
 | 204 | [Say Yes](https://open.spotify.com/track/1n652KBxenJpVlErdvjJk2) | [Johnny Gr4ves](https://open.spotify.com/artist/1r4KmNdANyj8zWY78gCyrR), [Konrad OldMoney](https://open.spotify.com/artist/2iUZ7aGjaOQ1aXVfkK4lfl) | [Say Yes \(feat\. Konrad OldMoney\) \- Single](https://open.spotify.com/album/3wBXgEvqF0McyMrIq9My1j) | 2:59 |
-| 205 | [Cut Me Loose](https://open.spotify.com/track/5etEhxa3LKr3c0U48EhdPt) | [Cardboard Foxes](https://open.spotify.com/artist/4cz5606ByK5SmBO27dcf2g), [Max Marshall](https://open.spotify.com/artist/4JeWED5jy6Tz9B6qGOnk51) | [Cut Me Loose](https://open.spotify.com/album/5JYbZx8pzeguAVhFsJs1wQ) | 4:00 |
+| 205 | [Cut Me Loose](https://open.spotify.com/track/5etEhxa3LKr3c0U48EhdPt) | [Cardboard Foxes](https://open.spotify.com/artist/4cz5606ByK5SmBO27dcf2g), [Max Marshall](https://open.spotify.com/artist/7ppllgzNRgrnOjYbsyDzO6) | [Cut Me Loose](https://open.spotify.com/album/5JYbZx8pzeguAVhFsJs1wQ) | 4:00 |
 | 206 | [Imagine \(feat\. Tom Aspaul\)](https://open.spotify.com/track/4DgAmMIrpLy4HtTiaQNLnr) | [Bronze Whale](https://open.spotify.com/artist/448VwSmqc6SpRDqK5WYXIt), [Popeska](https://open.spotify.com/artist/4Td7DjmnDqvSDBHtuJomoF), [Tom Aspaul](https://open.spotify.com/artist/413Q41cUdyDSRGezXozb54) | [Imagine \(feat\. Tom Aspaul\)](https://open.spotify.com/album/2YEbGlRRBwWzrsf9jeTHfW) | 3:34 |
 | 207 | [Rocks](https://open.spotify.com/track/4LtHd4nHs1LRyFrGsU9s3v) | [Life of Dillon](https://open.spotify.com/artist/6e4aHkdDUcsaXPTQdF6Qhn) | [Rocks](https://open.spotify.com/album/7sKAi5k4m8DWooq7XvMJqh) | 3:13 |
 | 208 | [Feelings](https://open.spotify.com/track/2TYlnHmpIMn4gLfSGlmlMq) | [IYES](https://open.spotify.com/artist/3uHiNgd4Vmf5q9XjsCsIsi) | [Feelings](https://open.spotify.com/album/131XXsJBkPSi9bUcj6RKhu) | 3:17 |

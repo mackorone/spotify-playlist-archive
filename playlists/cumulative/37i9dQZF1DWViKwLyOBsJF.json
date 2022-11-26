@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/2FfrdvaIfa9rTf1DnBs6aX"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/3U9kUtbt96KdmmGtt1c6EI"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/7KlSdIDCajVZgAHpMTMV8Y"
@@ -165,6 +165,24 @@
       "duration_ms": 265373,
       "name": "Angels from the Realms of Glory",
       "url": "https://open.spotify.com/track/38WmvPWqMctDv2VytIJ6tU"
+    },
+    {
+      "album": {
+        "name": "Non-Denominational Holiday Music",
+        "url": "https://open.spotify.com/album/3KPhVaCPCPktxfmNoBuDVp"
+      },
+      "artists": [
+        {
+          "name": "Christmas Piano Maestro",
+          "url": "https://open.spotify.com/artist/6Fy2stjbuAVE5MEtqSTTX0"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 265373,
+      "name": "Angels from the Realms of Glory",
+      "url": "https://open.spotify.com/track/3Nq0nWKZqZOpYEc1IMWb4g"
     },
     {
       "album": {
@@ -856,6 +874,42 @@
     },
     {
       "album": {
+        "name": "O Tannenbaum",
+        "url": "https://open.spotify.com/album/6rP03vthDDre3UtsE44I1a"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-25",
+      "duration_ms": 150917,
+      "name": "O Tannenbaum",
+      "url": "https://open.spotify.com/track/6Ukz90eYOrBGDim8AwnQKN"
+    },
+    {
+      "album": {
+        "name": "Silent Night",
+        "url": "https://open.spotify.com/album/5NzYBUOkslN8o3SRDxj620"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150917,
+      "name": "O Tannenbaum",
+      "url": "https://open.spotify.com/track/6qIgnz0yHDeMzYVZnmMCen"
+    },
+    {
+      "album": {
         "name": "Merry Christmas, You Are Loved",
         "url": "https://open.spotify.com/album/1g2H5XhcLDVcUenGT2MOtw"
       },
@@ -1051,6 +1105,24 @@
       "duration_ms": 208770,
       "name": "The First Noel",
       "url": "https://open.spotify.com/track/1hYK7uOlnJ6kvMkdPsFQ5l"
+    },
+    {
+      "album": {
+        "name": "Christmas Dinner",
+        "url": "https://open.spotify.com/album/2oEoV2IoVHqm3VT7K5WUQ6"
+      },
+      "artists": [
+        {
+          "name": "Jim Brickman",
+          "url": "https://open.spotify.com/artist/2NzWRNaaLByHyI3wpuec8P"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 259972,
+      "name": "The Holly & The Ivy",
+      "url": "https://open.spotify.com/track/3DfDRcNWGsOmSQ8eRKi46c"
     },
     {
       "album": {

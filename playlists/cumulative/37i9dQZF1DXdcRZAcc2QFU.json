@@ -414,6 +414,24 @@
     },
     {
       "album": {
+        "name": "Ignite Your Romance",
+        "url": "https://open.spotify.com/album/5ESu5KiIW37XQL2FBybfPy"
+      },
+      "artists": [
+        {
+          "name": "Kumar Sanu",
+          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 275386,
+      "name": "Ek Ladki Ko Dekha (From \"1942 A Love Story\")",
+      "url": "https://open.spotify.com/track/1F1tgtx8jtugBWBCTVeecX"
+    },
+    {
+      "album": {
         "name": "Barsaat (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/02idAQbxu0Q6teaTiong8e"
       },
@@ -546,6 +564,28 @@
     },
     {
       "album": {
+        "name": "Workout With Retro Dance Hits",
+        "url": "https://open.spotify.com/album/1dYwYo38D1VmML6mrIIp6F"
+      },
+      "artists": [
+        {
+          "name": "Sudesh Bhosle",
+          "url": "https://open.spotify.com/artist/7GNoTWm5VObvMUeS0Wkueu"
+        },
+        {
+          "name": "Kavita Krishnamurthy",
+          "url": "https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 501333,
+      "name": "Jooma Chumma De De (From \"Hum\")",
+      "url": "https://open.spotify.com/track/4cGYXeHgY1PI3zk6oKvihL"
+    },
+    {
+      "album": {
         "name": "Hum (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7l8A4AdQy1pjkRmW78IEMF"
       },
@@ -578,7 +618,7 @@
         },
         {
           "name": "Shobha Joshi",
-          "url": "https://open.spotify.com/artist/6YlyaZCgCOH4EpUgMeY8ZP"
+          "url": "https://open.spotify.com/artist/0arll9CtoKDxVRfMz1S1Sd"
         }
       ],
       "date_added": "2022-01-04",
@@ -1303,6 +1343,28 @@
       "duration_ms": 353693,
       "name": "Zara Sa Jhoom Loon Main",
       "url": "https://open.spotify.com/track/4AfLtSXcvG8AkfQjDR0gJ1"
+    },
+    {
+      "album": {
+        "name": "Live The Moment",
+        "url": "https://open.spotify.com/album/3h1WauTcZMADpYuoB7H0b0"
+      },
+      "artists": [
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        },
+        {
+          "name": "Abhijeet",
+          "url": "https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 353693,
+      "name": "Zara Sa Jhoom Loon Main (From \"Dilwale Dulhania Le Jayenge\")",
+      "url": "https://open.spotify.com/track/3hAd5GHUnf8F2VdAddm95u"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdcRZAcc2QFU"

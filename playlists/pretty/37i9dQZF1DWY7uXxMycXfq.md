@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7uXxMycXfq.md) - [plain]
 
 > Women who experiment with electronic loops, strings, voice and other cosmic delights\. Cover: Loraine James
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,560 likes - 71 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,213 likes - 71 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7uXxMycXfq.md) - [plain]
 | 19 | [Saturn](https://open.spotify.com/track/1VvsZ7IjtrZ08hm2kEQhVh) | [Susannah Stark](https://open.spotify.com/artist/33Sq6l1YFnUCRWeyYwsVIq) | [Time Together \(Hues & Intensities\)](https://open.spotify.com/album/6CEKHac7n0h7wfp1rmhQWK) | 4:54 |
 | 20 | [Rain](https://open.spotify.com/track/39TidRGtvrLJm5m3Jt0D0J) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Believer](https://open.spotify.com/album/6L0IdiiAC6ELOGyksKclzn) | 4:14 |
 | 21 | [Chambers](https://open.spotify.com/track/1YgVmOzs8I1g02PRQ6U3O8) | [Daisy Moon](https://open.spotify.com/artist/0wSbJfUfDDmDmxOaIteZrs) | [Geometry of Curves](https://open.spotify.com/album/5RsnXjuGIOjG3AKTy3tngR) | 4:26 |
-| 22 | [I don't want to sing I don't want to look](https://open.spotify.com/track/535X8gWq0G207WIktuKGmR) | [Waterbaby](https://open.spotify.com/artist/7rZM3S0PVEdLKpDLqtXIhx) | [Slow Dance '19](https://open.spotify.com/album/2FKu1cAkI8bTLP6uIiS3oZ) | 4:35 |
+| 22 | [I don't want to sing I don't want to look](https://open.spotify.com/track/0TjezNTKg3xroMIzbQO4t3) | [Waterbaby](https://open.spotify.com/artist/7rZM3S0PVEdLKpDLqtXIhx) | [Slow Dance '19](https://open.spotify.com/album/0ciY4l6aX0ss6gHwIgM0zj) | 4:35 |
 | 23 | [Screaming Colours](https://open.spotify.com/track/2tXEqUJploWqralhIPjmik) | [upsammy](https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV) | [Wild Chamber](https://open.spotify.com/album/7ow4bpiILldUbu975NRIx4) | 6:13 |
 | 24 | [Meditations](https://open.spotify.com/track/1C8TMLXojWgI87vacwQD3J) | [DJ Clea](https://open.spotify.com/artist/5ZSGfblqHsmriplkJOoAWx) | [Meditations](https://open.spotify.com/album/1oTKZ4ittv2nOsAfi4r0X9) | 6:41 |
 | 25 | [Seen Any Monsters Lately?](https://open.spotify.com/track/5Oqr3XF8VkOMYcZwud2Esp) | [Rachel Lyn](https://open.spotify.com/artist/7aI1w9YIJsFMyVpQivifbP) | [Oh Daydream](https://open.spotify.com/album/1eCWhDovH4FrjSSZpiLRpD) | 3:34 |
@@ -42,13 +42,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7uXxMycXfq.md) - [plain]
 | 32 | [Below The Clavicle](https://open.spotify.com/track/7FHG31F8SzGxcpQHsRTDoI) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Phoenix: Flames Are Dew Upon My Skin](https://open.spotify.com/album/3Vx5QNqKwq4mjSViR9B9b2) | 3:58 |
 | 33 | [Anima](https://open.spotify.com/track/2FiIFCgyFFaWgRyVxSYF58) | [Sophia Loizou](https://open.spotify.com/artist/35wH6kN89Vy5MeYwTKHQ9Q) | [Untold](https://open.spotify.com/album/1akzYkFDJyJ4788sSFKmkN) | 3:49 |
 | 34 | [Clean](https://open.spotify.com/track/5BHHAEdvkq7Z4vMXr9PPyT) | [Pan Daijing](https://open.spotify.com/artist/2OA8e1A4qJVqDHbjnc86dR) | [Jade](https://open.spotify.com/album/6TolOVlI4gfOEuMit1ydWL) | 3:08 |
-| 35 | [Spring](https://open.spotify.com/track/0tQdCIVuX5FtbMzrRl5cqs) | [Ola Szmidt](https://open.spotify.com/artist/7xwfXQXRpZH0QOzzM5U4bw) | [Spring](https://open.spotify.com/album/1i0J1ZZQtGKHmw6gokuNzy) | 5:16 |
+| 35 | [Spring](https://open.spotify.com/track/17pxEWa1ro5iPHjjdnvjjU) | [Ola Szmidt](https://open.spotify.com/artist/7xwfXQXRpZH0QOzzM5U4bw) | [Spring](https://open.spotify.com/album/3TJlMqvBFIxMDJD8GADy1p) | 5:16 |
 | 36 | [Timbu Limbu And Her War Bass](https://open.spotify.com/track/6e0eVsUOcWSykyieIlpxrQ) | [Machine Woman](https://open.spotify.com/artist/2a8NONYfrGgsdUUORy4rFa) | [Timbu Limbu And Her War Bass](https://open.spotify.com/album/69zfdOF5MIl9a3dRezJwT7) | 3:36 |
 | 37 | [discrete \(the market\)](https://open.spotify.com/track/6qUpvBSrrwlWogJR7kRYOo) | [Claire Rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [a softer focus](https://open.spotify.com/album/0UnY8jxUamnb3hYkUVN8pK) | 6:34 |
 | 38 | [Bitterness](https://open.spotify.com/track/78bmUqAUwZyocVG2vHFfSm) | [Flora Yin\-Wong](https://open.spotify.com/artist/6G9Fk5r3RJUQSpsZWh6g6B) | [Holy Palm](https://open.spotify.com/album/67WZCZhqrzUIOMeyRfhkjy) | 3:56 |
 | 39 | [ABBA/Mary \- Christina Vantzou Remix](https://open.spotify.com/track/4qdXA8vkqzhmyV4PaHXOt4) | [LEYA](https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1), [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR) | [ABBA/Mary \(Christina Vantzou Remix\)](https://open.spotify.com/album/3lvfmwUA0Ob9kNOshN5bEi) | 3:26 |
 | 40 | [Home Is Where the Music is](https://open.spotify.com/track/2BILRiKI5C4zAjLPDWqDkS) | [rRoxymore](https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf) | [Face to Phase](https://open.spotify.com/album/3JAHvyB4gAIjPPxQ6k2XRu) | 4:32 |
-| 41 | [A Star Without Guidance](https://open.spotify.com/track/41DqBlrzmldPvR7Cg3f39A) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [Unabled Form](https://open.spotify.com/album/7D4A2BboC3hbBQvWUxoboa) | 2:49 |
+| 41 | [A Star Without Guidance](https://open.spotify.com/track/19Signu1EsxSA6FI62yas5) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [Unabled Form](https://open.spotify.com/album/2foj1eMmOt3TQ9dyhz1qcQ) | 2:49 |
 | 42 | [I Get Lit \(cause if not I think of you\)](https://open.spotify.com/track/4rF1IhOJnxVgf0EP3sHIaB) | [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy), [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [I Get Lit \(cause if not I think of you\)](https://open.spotify.com/album/3aAteCgMLGO2hFcG0Gmhtt) | 3:15 |
 | 43 | [Uncle](https://open.spotify.com/track/1fU9dTU5eOXuFtdyT1H044) | [Lucy Liyou](https://open.spotify.com/artist/0oGtixfxP0ukNPM6KVuwC1) | [Welfare / Practice](https://open.spotify.com/album/2329qbh46SMwjMuprpj5eE) | 2:29 |
 | 44 | [ECSTASY OF ST\. TERESA](https://open.spotify.com/track/7GYlqodPA2sXLI11yE44NZ) | [Object Blue](https://open.spotify.com/artist/51rzklJj6mqBOEXOiOPqY7) | [FIGURE BESIDE ME](https://open.spotify.com/album/1ua3QVWei0VVsllQKUtFxB) | 6:40 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7uXxMycXfq.md) - [plain]
 | 47 | [Symvol](https://open.spotify.com/track/5g8c2v1ijcBcQfCKA3z1gX) | [Zavoloka](https://open.spotify.com/artist/7DynAI5Xfem587lJkE1TRp) | [XII](https://open.spotify.com/album/17OyQoVXU760lLxIkUtGoK) | 5:34 |
 | 48 | [L’Enfant Et Le Poulpe](https://open.spotify.com/track/54H7J3fGubgBzSoSCcn4CL) | [Felicia Atkinson](https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we) | [The Flower And The Vessel](https://open.spotify.com/album/6q2zdnjrihfiV0NZJQvEOy) | 5:58 |
 | 49 | [Uniform](https://open.spotify.com/track/6wm7NdzAaNA4KxgM0Em3w7) | [Lafawndah](https://open.spotify.com/artist/7jHWye55igIZ6SsF4eXKkP) | [Ancestor Boy](https://open.spotify.com/album/3TJytf0pGdE091GmE0z4Rc) | 3:14 |
-| 50 | [Tulpar](https://open.spotify.com/track/2O5bsifaBuEHnnsllXNKkw) | [Galya Bisengalieva](https://open.spotify.com/artist/5XT7fo7ijBPZAWWzXDEaRh) | [Tulpar](https://open.spotify.com/album/2hcsvVURGEaPUL5BXCxNDZ) | 3:25 |
+| 50 | [Tulpar](https://open.spotify.com/track/1vdlZbL65vnKLxCxiafNHx) | [Galya Bisengalieva](https://open.spotify.com/artist/5XT7fo7ijBPZAWWzXDEaRh) | [Tulpar](https://open.spotify.com/album/0cxD4j3Zp1Q0wSZnPIBgO2) | 3:25 |
 | 51 | [The Archer](https://open.spotify.com/track/0uugjx8o1PE42p11EJTpvJ) | [Faten Kanaan](https://open.spotify.com/artist/6Jz6XSRQjWHHmdkR2myjjy) | [A Mythology of Circles](https://open.spotify.com/album/0nHy9AEVP4FZcAYHLQHSNz) | 6:01 |
 | 52 | [Love Birds \(acoustic\) \- WXAXRXP Session](https://open.spotify.com/track/2mpxwkwJKrTCTpWLxetAJn) | [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [WXAXRXP Session](https://open.spotify.com/album/33aX0rd6cQXvAggwL52puW) | 4:31 |
 | 53 | [Anxiety](https://open.spotify.com/track/55EUSGKBeZSHmy53mRKk2k) | [Leila Samir](https://open.spotify.com/artist/3SEWWBoysH0FKZ7KROMAaG) | [No Music](https://open.spotify.com/album/7v3Pl4Bak76OUNIQdwTe0Q) | 4:16 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7uXxMycXfq.md) - [plain]
 | 70 | [Hyphae](https://open.spotify.com/track/1P2vvqWQ36gkiUoxrY9z74) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [Hyphae](https://open.spotify.com/album/3Y2DIQoC2UeA1oSr1vhTbF) | 6:27 |
 | 71 | [Teta 7hz \(Tool\) \[feat\. DeForrest Brown Jr.\]](https://open.spotify.com/track/3nHU4KLvIBXCSfcrKmaJZW) | [Aïsha Devi](https://open.spotify.com/artist/4RtrEYqj2bINZ2HXWUG3j4) | [S.L.F.](https://open.spotify.com/album/0rZMYFmZZYdm3nfilk1SvV) | 3:33 |
 
-Snapshot ID: `MTYyNTA3ODc5NiwwMDAwMDAwMDQwNGViOTVlNDYxZDM5ODE0YTI4MDFlNjg2MDBmMzM4`
+Snapshot ID: `MTYyNTA3ODc5NiwwMDAwMDAwMGZmNjI5ODhiY2Q5MDQ1M2JmY2UxZjQxNGExZGE0MDli`

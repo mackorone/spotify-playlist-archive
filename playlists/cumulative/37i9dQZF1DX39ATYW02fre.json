@@ -297,7 +297,7 @@
       ],
       "date_added": "2020-06-05",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 352945,
       "name": "Atlas",
       "url": "https://open.spotify.com/track/664jBL8NgKFYdiMK9bnCcz"
@@ -807,7 +807,7 @@
       ],
       "date_added": "2021-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": "2022-11-13",
       "duration_ms": 220920,
       "name": "Do Matter",
       "url": "https://open.spotify.com/track/6ZQ3XvLBrmwnoNFtU0c2X5"
@@ -1245,7 +1245,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 309590,
       "name": "Howling",
       "url": "https://open.spotify.com/track/34hMOtKwf5nm8tjvkGV0Dk"
@@ -1507,7 +1507,7 @@
       ],
       "date_added": "2020-06-05",
       "date_added_asterisk": true,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 196071,
       "name": "Kyle (i found you)",
       "url": "https://open.spotify.com/track/0v1g5U1OAb0XBjKyA8R36i"
@@ -1681,7 +1681,7 @@
       ],
       "date_added": "2020-06-05",
       "date_added_asterisk": true,
-      "date_removed": "2022-06-15",
+      "date_removed": "2022-11-13",
       "duration_ms": 217581,
       "name": "Like Water (feat. Mohna)",
       "url": "https://open.spotify.com/track/2YG3fktEoHQAUlXP9VtmRN"
@@ -1761,7 +1761,7 @@
       ],
       "date_added": "2021-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 226866,
       "name": "Loom (feat. Bonobo)",
       "url": "https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i"
@@ -1935,7 +1935,7 @@
       ],
       "date_added": "2021-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-04",
+      "date_removed": "2022-11-13",
       "duration_ms": 286760,
       "name": "Made To Stray",
       "url": "https://open.spotify.com/track/7M0GDtHcuJrTMWtnSs48I3"
@@ -2091,6 +2091,28 @@
       "duration_ms": 285694,
       "name": "Mystery",
       "url": "https://open.spotify.com/track/00Fx3RRfjbl0NdZVUqAY6D"
+    },
+    {
+      "album": {
+        "name": "MK 3.5: Die Cuts | City Planning",
+        "url": "https://open.spotify.com/album/1syG1kZ36G6xVnnsr6RjG2"
+      },
+      "artists": [
+        {
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+        },
+        {
+          "name": "Dom Maker",
+          "url": "https://open.spotify.com/artist/0mOUTmvCZnw2EWdQqY3RGc"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 46813,
+      "name": "need u tonight",
+      "url": "https://open.spotify.com/track/3FZFI1p9qhX0FWQIsklTFW"
     },
     {
       "album": {
@@ -2286,6 +2308,24 @@
     },
     {
       "album": {
+        "name": "Opening Credits",
+        "url": "https://open.spotify.com/album/70ObWOtpXMsBBbYLNmRIgm"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243008,
+      "name": "Opening Credits",
+      "url": "https://open.spotify.com/track/7zuMvkTqp8RQpJqSHCFofp"
+    },
+    {
+      "album": {
         "name": "L.O.S.S.",
         "url": "https://open.spotify.com/album/1RoBBAroy6tMbqXkkT4yyK"
       },
@@ -2337,7 +2377,7 @@
       ],
       "date_added": "2021-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": "2022-11-22",
       "duration_ms": 343400,
       "name": "Parallel 7",
       "url": "https://open.spotify.com/track/3LqQJYUqxRFpX3tnvIsGGh"
@@ -3433,7 +3473,7 @@
       ],
       "date_added": "2020-06-05",
       "date_added_asterisk": true,
-      "date_removed": "2022-08-31",
+      "date_removed": "2022-11-13",
       "duration_ms": 368000,
       "name": "U",
       "url": "https://open.spotify.com/track/1lvpyd1lQjutZa6YnAE8aH"

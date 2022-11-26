@@ -142,6 +142,24 @@
     },
     {
       "album": {
+        "name": "Ask Me Now",
+        "url": "https://open.spotify.com/album/0DBEAQOu9OhVK4BUE3tiJf"
+      },
+      "artists": [
+        {
+          "name": "Teemu Viinikainen",
+          "url": "https://open.spotify.com/artist/0OgaFFwXXVXsIpAaPS2EBR"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150173,
+      "name": "Ask Me Now",
+      "url": "https://open.spotify.com/track/1JRBmuvgDW9rcoJst2oJre"
+    },
+    {
+      "album": {
         "name": "Aurinko",
         "url": "https://open.spotify.com/album/0jxJ3dubcZ3DTV0JdsBYHm"
       },
@@ -1580,6 +1598,24 @@
     },
     {
       "album": {
+        "name": "Three Reflections",
+        "url": "https://open.spotify.com/album/3mBGXAt5VlWtNy0jaJqMNX"
+      },
+      "artists": [
+        {
+          "name": "Jukka Haavisto",
+          "url": "https://open.spotify.com/artist/2RelxvToyl730omEP8bdLQ"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 309413,
+      "name": "Three Reflections",
+      "url": "https://open.spotify.com/track/3CUWqkiPMmfgShrlv4GG1f"
+    },
+    {
+      "album": {
         "name": "To the Stars",
         "url": "https://open.spotify.com/album/4koWLsu4sSFK999vdXQcaV"
       },
@@ -1649,7 +1685,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 253463,
       "name": "Travelogue",
       "url": "https://open.spotify.com/track/4cZS6EhdLNIpI6CYIo6HUI"
@@ -1687,6 +1723,24 @@
       "duration_ms": 447506,
       "name": "Tree Sea Wind",
       "url": "https://open.spotify.com/track/1rclaLd2fUcsSU2J3XIoeH"
+    },
+    {
+      "album": {
+        "name": "Trial by Fire",
+        "url": "https://open.spotify.com/album/4cF52bdDIreABU7AeK41yK"
+      },
+      "artists": [
+        {
+          "name": "Martti Vesala Soundpost Quintet",
+          "url": "https://open.spotify.com/artist/4yfLJzuJhNaBEJlfe53KnO"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288219,
+      "name": "Trial by Fire",
+      "url": "https://open.spotify.com/track/37aSF6UCYfvPEXdCjHLvKY"
     },
     {
       "album": {
@@ -1759,7 +1813,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 337102,
       "name": "Wild Eyes",
       "url": "https://open.spotify.com/track/7sRQdwmpxShzEyYwmHHKbx"

@@ -4,7 +4,7 @@
 
 > スリーピースバンドの枠から自らを意識的に解き放ち、激しくも繊細な音世界を表現し続けるTK from 凛として時雨の軌跡がここに。Immerse yourself in the kaleidoscope world of TK from Ling tosite sigure.
 
-75 songs - 5 hr 35 min - [published](https://open.spotify.com/playlist/6rxM2yercaF5daIevJxo0C)
+76 songs - 5 hr 39 min - [published](https://open.spotify.com/playlist/6rxM2yercaF5daIevJxo0C)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [tokio](https://open.spotify.com/track/5XqvbvtZMH6rb6jGMOzMq6) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [Fantastic Magic](https://open.spotify.com/album/7GJspOwIWdFfzJfxN8oVTF) | 4:42 | 2022-03-15 | 2022-07-29 |
 | [unravel](https://open.spotify.com/track/1rN9QoVxw5U7TJkyaUR8C1) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [Fantastic Magic](https://open.spotify.com/album/1jLua47U6YKYY4GyktVbBb) | 3:58 | 2022-03-15 |  |
 | [unravel](https://open.spotify.com/track/5orAKrVdrk1kPtTa7zNvYL) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [Fantastic Magic](https://open.spotify.com/album/7GJspOwIWdFfzJfxN8oVTF) | 3:58 | 2022-03-15 | 2022-07-29 |
+| [unravel](https://open.spotify.com/track/07O7OKdNq6Cwc0SOHpybY2) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [unravel](https://open.spotify.com/album/6LhbD9furraNWBZVekFarx) | 4:00 | 2022-03-15 | 2022-11-13 |
 | [unravel \(n\-buna from ヨルシカ Remix\)](https://open.spotify.com/track/7kfbRDMwF2zSapqbQA0WM3) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS), [n\-buna](https://open.spotify.com/artist/01aGTLJAOJhZOWwMrZcoQk) | [yesworld](https://open.spotify.com/album/4A2NrqV5j1K4oeNjRswRFo) | 3:52 | 2022-03-15 |  |
 | [unravel \- From THE FIRST TAKE](https://open.spotify.com/track/53nxxs5TExYLs9KNg9GjtZ) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [yesworld](https://open.spotify.com/album/4A2NrqV5j1K4oeNjRswRFo) | 4:15 | 2022-03-15 |  |
 | [white out](https://open.spotify.com/track/7yO02QOLDKrHepnYhc0vzB) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [white noise](https://open.spotify.com/album/34labGdVwn1R0nDxYfuenC) | 5:05 | 2022-03-15 |  |

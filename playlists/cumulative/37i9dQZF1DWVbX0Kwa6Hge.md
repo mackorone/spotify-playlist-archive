@@ -4,7 +4,7 @@
 
 > Some of Barack Obama's favorite songs of the summer\. A mix of genres & eras made with everyone in mind!
 
-44 songs - 2 hr 45 min - [published](https://open.spotify.com/playlist/374sud1g4Bn0tHXwIyAhTk)
+46 songs - 2 hr 53 min - [published](https://open.spotify.com/playlist/374sud1g4Bn0tHXwIyAhTk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,9 @@
 | [Split/Whole Time](https://open.spotify.com/track/2PozSNCtnBaFZ5Kf8aMrPc) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Lil Boat 3](https://open.spotify.com/album/1CdQfJpbkl2Ai4JkcRYkyl) | 3:59 | 2022-07-26 |  |
 | [Take Five](https://open.spotify.com/track/63H27dCDIap9kwalfQYe8B) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [I Like Jazz: The Essence Of Dave Brubeck](https://open.spotify.com/album/4kgsqZhNOPOPwg4T5KKqVe) | 5:24 | 2022-07-26 |  |
 | [Tamagotchi](https://open.spotify.com/track/7sg9kDT8H2P0wPACXnWRdN) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 2:48 | 2022-07-26 |  |
-| [That's Where I Am](https://open.spotify.com/track/4f1KkbXHnfIVZ9vmIExByJ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [That's Where I Am](https://open.spotify.com/album/1gBMpfSlQWoMIsR48U7DLr) | 4:12 | 2022-07-26 |  |
+| [That's Where I Am](https://open.spotify.com/track/0wTkxvNMVavVxuq5hmxfFN) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/7IxsGUvcgSIyxvwvoyr162) | 4:12 | 2022-07-26 | 2022-11-13 |
+| [That's Where I Am](https://open.spotify.com/track/49EXOlUTFBGdI098L6SXDh) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) | 4:12 | 2022-07-26 |  |
+| [That's Where I Am](https://open.spotify.com/track/4f1KkbXHnfIVZ9vmIExByJ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [That's Where I Am](https://open.spotify.com/album/1gBMpfSlQWoMIsR48U7DLr) | 4:12 | 2022-07-26 | 2022-10-23 |
 | [The Furthest Thing](https://open.spotify.com/track/6onpcMnD3eVbTq1B5th05E) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 3:54 | 2022-07-26 |  |
 | [Too Good](https://open.spotify.com/track/4Uoc2mSkjXENcUWhSTNm2I) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Views](https://open.spotify.com/album/2yIwhsIWGRQzGQdn1czSK0) | 4:23 | 2022-07-26 |  |
 | [Under Control](https://open.spotify.com/track/2kBHv0gFA2iheTUXmPB9e1) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Ego Death](https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q) | 4:04 | 2022-07-26 |  |

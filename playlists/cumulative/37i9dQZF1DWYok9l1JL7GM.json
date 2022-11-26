@@ -300,6 +300,24 @@
     },
     {
       "album": {
+        "name": "Soul Food",
+        "url": "https://open.spotify.com/album/6cKgDS8oVcCNw9EjQf66er"
+      },
+      "artists": [
+        {
+          "name": "Goodie Mob",
+          "url": "https://open.spotify.com/artist/3F2Y683ovlWT53WKCeq0oj"
+        }
+      ],
+      "date_added": "2021-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 277133,
+      "name": "Cell Therapy",
+      "url": "https://open.spotify.com/track/5wvxRlpUTSX9CE52yFZsIY"
+    },
+    {
+      "album": {
         "name": "Mista Don't Play: Everythangs Workin'",
         "url": "https://open.spotify.com/album/4QzaueQPQa0lqrMmQoh4v0"
       },
@@ -1031,8 +1049,8 @@
           "url": "https://open.spotify.com/artist/23LbwefIODbyGdRbAz3urj"
         },
         {
-          "name": "Nitti",
-          "url": "https://open.spotify.com/artist/5jx1ZcYEEgdi86Gzc4T7Jq"
+          "name": "NITTI",
+          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
         }
       ],
       "date_added": "2021-03-09",
@@ -1513,7 +1531,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-04",
+      "date_removed": null,
       "duration_ms": 176880,
       "name": "Poppin' My Collar (feat. Project Pat)",
       "url": "https://open.spotify.com/track/5zd9TgduWbfFXwgnm3K3Rz"
@@ -1629,7 +1647,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 256973,
       "name": "Shake Ya Ass",
       "url": "https://open.spotify.com/track/1jRzdY7oUBOhrylNtiMtBD"
@@ -1698,7 +1716,7 @@
     },
     {
       "album": {
-        "name": "When The Smoke Clears",
+        "name": "When the Smoke Clears: Sixty 6, Sixty 1",
         "url": "https://open.spotify.com/album/16T5Usl6Qs24qps5ZwIeVI"
       },
       "artists": [

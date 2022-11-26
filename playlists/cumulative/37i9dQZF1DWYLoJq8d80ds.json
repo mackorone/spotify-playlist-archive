@@ -1224,6 +1224,24 @@
     },
     {
       "album": {
+        "name": "La Noche Perfecta",
+        "url": "https://open.spotify.com/album/1tDPYZoGKYQPyo6qcm7yWU"
+      },
+      "artists": [
+        {
+          "name": "Campedrinos",
+          "url": "https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155800,
+      "name": "La Revancha",
+      "url": "https://open.spotify.com/track/32tw6sBHtgnsh36g2voewK"
+    },
+    {
+      "album": {
         "name": "La Sachapera",
         "url": "https://open.spotify.com/album/0fhJaycokyiWhvhnlUPHth"
       },
@@ -1701,10 +1719,64 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 197133,
       "name": "No Somos Nada",
       "url": "https://open.spotify.com/track/7JAven4KfvzBPbKyxE99OJ"
+    },
+    {
+      "album": {
+        "name": "Hijos de la Tierra",
+        "url": "https://open.spotify.com/album/7coKEyXcZyT853mG0S4Bad"
+      },
+      "artists": [
+        {
+          "name": "Los Tekis",
+          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 197133,
+      "name": "No Somos Nada",
+      "url": "https://open.spotify.com/track/7dz5falT5ubzi6zp4JKcBO"
+    },
+    {
+      "album": {
+        "name": "Hijos de la Tierra",
+        "url": "https://open.spotify.com/album/6QpqXyvCMqNHwXM4B840O2"
+      },
+      "artists": [
+        {
+          "name": "Los Tekis",
+          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198530,
+      "name": "No Somos Nada",
+      "url": "https://open.spotify.com/track/0RPBYkItMt1otL1Llu5UHv"
+    },
+    {
+      "album": {
+        "name": "Hijos de la Tierra",
+        "url": "https://open.spotify.com/album/2ekliaSLvcZmPGWEg56w3B"
+      },
+      "artists": [
+        {
+          "name": "Los Tekis",
+          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-28",
+      "duration_ms": 198530,
+      "name": "No Somos Nada",
+      "url": "https://open.spotify.com/track/7b4nKzpEOc1Yc4gntR7FVA"
     },
     {
       "album": {
@@ -2510,7 +2582,7 @@
     },
     {
       "album": {
-        "name": "Yo ser\u00e9 Jujuy",
+        "name": "Yo Ser\u00e9 Jujuy",
         "url": "https://open.spotify.com/album/4lq8LJDZ53ZJZ2nEsH69cV"
       },
       "artists": [
@@ -2543,6 +2615,24 @@
       "duration_ms": 161529,
       "name": "Yo Soy",
       "url": "https://open.spotify.com/track/0JRPALRWpLmVif7MafmBja"
+    },
+    {
+      "album": {
+        "name": "Zamba de los yuyos",
+        "url": "https://open.spotify.com/album/6s7uk19jxa0drzsviWj3ih"
+      },
+      "artists": [
+        {
+          "name": "Gauchos Of The Pampa",
+          "url": "https://open.spotify.com/artist/3rinfPP8tgOSDHnmmfEWCN"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256124,
+      "name": "Zamba de los yuyos",
+      "url": "https://open.spotify.com/track/7ipuwOjqoLy5hyAEGSMZj5"
     },
     {
       "album": {

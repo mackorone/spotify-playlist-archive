@@ -45,6 +45,24 @@
     {
       "album": {
         "name": "Giver",
+        "url": "https://open.spotify.com/album/01cbm7RUoB7Xs9A4lrzPyd"
+      },
+      "artists": [
+        {
+          "name": "KLP",
+          "url": "https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Avalanche",
+      "url": "https://open.spotify.com/track/4GavDWsnBIP0Q9GfQkhvyD"
+    },
+    {
+      "album": {
+        "name": "Giver",
         "url": "https://open.spotify.com/album/1Ehf6Qpd3skQE5P8yV6U6l"
       },
       "artists": [
@@ -55,7 +73,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 188000,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/7iYuUOOv1knNy9SFF1PdQj"
@@ -73,10 +91,28 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 203640,
       "name": "body in my bed",
       "url": "https://open.spotify.com/track/35A0hbUL2Ey3mG2TbMHo0t"
+    },
+    {
+      "album": {
+        "name": "new skin",
+        "url": "https://open.spotify.com/album/79IXyvIKV3yo80B9fpLCux"
+      },
+      "artists": [
+        {
+          "name": "V\u00c9RIT\u00c9",
+          "url": "https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203640,
+      "name": "body in my bed",
+      "url": "https://open.spotify.com/track/6fZv7ZDeC4pvtcbonRKqhN"
     },
     {
       "album": {

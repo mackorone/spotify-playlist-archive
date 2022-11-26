@@ -358,6 +358,24 @@
     },
     {
       "album": {
+        "name": "Juice Box Heroes",
+        "url": "https://open.spotify.com/album/2AQwQmEdTsVDEzuOeQ4Pna"
+      },
+      "artists": [
+        {
+          "name": "Imagination Movers",
+          "url": "https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD"
+        }
+      ],
+      "date_added": "2021-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129186,
+      "name": "My Favorite Snack",
+      "url": "https://open.spotify.com/track/27FtRxsXJxxzuxYMC4eJo4"
+    },
+    {
+      "album": {
         "name": "Good Ideas",
         "url": "https://open.spotify.com/album/1Uz91yvWTiomeFibfqP761"
       },
@@ -369,10 +387,28 @@
       ],
       "date_added": "2021-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 129306,
       "name": "My Favorite Snack",
       "url": "https://open.spotify.com/track/16fs8Zn53hURmvswqPxHOc"
+    },
+    {
+      "album": {
+        "name": "Good Ideas",
+        "url": "https://open.spotify.com/album/1i8TZqSzAGr0IfHRhvkP1b"
+      },
+      "artists": [
+        {
+          "name": "Imagination Movers",
+          "url": "https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD"
+        }
+      ],
+      "date_added": "2021-01-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 129306,
+      "name": "My Favorite Snack",
+      "url": "https://open.spotify.com/track/1zrcMESKYFeSVq7uwhBp8F"
     },
     {
       "album": {
@@ -557,10 +593,28 @@
       ],
       "date_added": "2021-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 128840,
       "name": "Snackin' ABCs",
       "url": "https://open.spotify.com/track/0TIVHOr1SANDQgcUwE4X4J"
+    },
+    {
+      "album": {
+        "name": "Good Ideas",
+        "url": "https://open.spotify.com/album/1i8TZqSzAGr0IfHRhvkP1b"
+      },
+      "artists": [
+        {
+          "name": "Imagination Movers",
+          "url": "https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD"
+        }
+      ],
+      "date_added": "2021-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129013,
+      "name": "Snackin' Abcs",
+      "url": "https://open.spotify.com/track/1Jl95zr9ybVGQztCSXQeIG"
     },
     {
       "album": {

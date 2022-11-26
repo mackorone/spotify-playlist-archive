@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 201947,
       "name": "Be Careful What You Wish For",
       "url": "https://open.spotify.com/track/4jtdv8OcWH7vyM9nelV0tD"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 167506,
       "name": "Dance Sucka!",
       "url": "https://open.spotify.com/track/2934brZqRQ88sdlLVZoztY"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-10-13",
       "duration_ms": 203571,
       "name": "Death By Disco",
       "url": "https://open.spotify.com/track/36aABTmgem7FZCa030y9Ck"
@@ -397,7 +397,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 222248,
       "name": "I'm Just Here for the Free Beer",
       "url": "https://open.spotify.com/track/2AHkeMOdgNNNbWj3KmqLE5"
@@ -433,7 +433,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 137507,
       "name": "Is It Hot in Here?",
       "url": "https://open.spotify.com/track/2JoMYA6pq2ZWhRLDZqA5aP"
@@ -473,6 +473,24 @@
       "duration_ms": 219760,
       "name": "Lay Me to Rest",
       "url": "https://open.spotify.com/track/1mamHp9prkpRIUmkbL0Ipk"
+    },
+    {
+      "album": {
+        "name": "Licking on a Knife for Fun",
+        "url": "https://open.spotify.com/album/6YLu3SPZRdXbxfW4VP5NUk"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181261,
+      "name": "Licking on a Knife for Fun",
+      "url": "https://open.spotify.com/track/7dva5TF6de5kEEO6E63s8c"
     },
     {
       "album": {
@@ -530,6 +548,24 @@
     },
     {
       "album": {
+        "name": "No Tomorrow",
+        "url": "https://open.spotify.com/album/12DybI8HFDephDlG0JkqrZ"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193273,
+      "name": "No Tomorrow",
+      "url": "https://open.spotify.com/track/22L3BjZDqU8ETWa1wfwdah"
+    },
+    {
+      "album": {
         "name": "Playmate Of The Year",
         "url": "https://open.spotify.com/album/2dtK7GDQ3xO6r8TYq1cJ0g"
       },
@@ -581,7 +617,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 167779,
       "name": "Out of Time",
       "url": "https://open.spotify.com/track/70fXq5ZlK9MYEuoHLuD6Na"
@@ -833,7 +869,7 @@
       ],
       "date_added": "2022-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": "2022-10-13",
       "duration_ms": 237466,
       "name": "The Real Me",
       "url": "https://open.spotify.com/track/1ThKFoMgBmSy6IzZCx7RkM"
@@ -869,7 +905,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 202008,
       "name": "Truck Stops and Tail Lights",
       "url": "https://open.spotify.com/track/4bZ2daBnecuENVj2m3RP7J"
@@ -905,10 +941,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 150880,
       "name": "Wannabe",
       "url": "https://open.spotify.com/track/7qeqgonHwWFBnjaocPW4lb"
+    },
+    {
+      "album": {
+        "name": "The Bonus Brothers (Japan Only Bonus Tracks)",
+        "url": "https://open.spotify.com/album/3tzvxBdYuBLvwYloAnIybs"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227390,
+      "name": "We\u2019re Not a Cover Band, We\u2019re a Tribute Band",
+      "url": "https://open.spotify.com/track/2c6XGY8oaMu6c0u0ggP81q"
     },
     {
       "album": {
@@ -981,7 +1035,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-16",
       "duration_ms": 187360,
       "name": "With Legs Like That (Maria)",
       "url": "https://open.spotify.com/track/37WKcLIJyGNQKBwaYAKVkx"

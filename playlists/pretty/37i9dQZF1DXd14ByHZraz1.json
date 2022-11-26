@@ -1,151 +1,15 @@
 {
   "description": "Aperte o play e dance com os maiores nomes da m\u00fasica eletr\u00f4nica nacional. Foto: Dubdogz",
-  "num_followers": 677261,
+  "num_followers": 678100,
   "original_name": "mint brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTE1Mjg3NiwwMDAwMDAwMGY4MTgxMmY4ZTU1MTFmNWFhMzZhMmE3ZDdjYWZiMzE3",
+  "snapshot_id": "MTY2OTM0NTI2MCwwMDAwMDAwMDczNmMyMDFlODMwN2IzMTc5ZGQxMzdiOTIyZDgzMjBj",
   "tracks": [
     {
-      "added_at": "2022-10-07 14:27:56",
-      "album": {
-        "name": "Don't Be Fooled",
-        "url": "https://open.spotify.com/album/08EFxXn7PiBPuPggWyCHc6"
-      },
-      "artists": [
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        },
-        {
-          "name": "Netto",
-          "url": "https://open.spotify.com/artist/37ZMG1QoWfV5N9Y86gOESb"
-        }
-      ],
-      "duration_ms": 151680,
-      "name": "Don't Be Fooled",
-      "url": "https://open.spotify.com/track/1zTOwceUJRBG7pNpm2l0Qo"
-    },
-    {
-      "added_at": "2022-10-07 14:27:56",
-      "album": {
-        "name": "Night Time",
-        "url": "https://open.spotify.com/album/5eo5f4UypNJpSMMzFtqUrB"
-      },
-      "artists": [
-        {
-          "name": "Jetlag Music",
-          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
-        },
-        {
-          "name": "Marmii",
-          "url": "https://open.spotify.com/artist/6AgnQLNYgI4j92GWE4cg6k"
-        }
-      ],
-      "duration_ms": 135714,
-      "name": "Night Time",
-      "url": "https://open.spotify.com/track/4COSS0u8fXB2qYtW5bbVaE"
-    },
-    {
-      "added_at": "2022-10-07 14:27:56",
-      "album": {
-        "name": "Desande",
-        "url": "https://open.spotify.com/album/4NhkoRKK62JrNS0eznTYkU"
-      },
-      "artists": [
-        {
-          "name": "Gabzy",
-          "url": "https://open.spotify.com/artist/0CB9F6M0fhV0xiSzkNHnvB"
-        },
-        {
-          "name": "Carlos Colleen",
-          "url": "https://open.spotify.com/artist/6lunp2L5KJDCGpSt8Gvpx8"
-        }
-      ],
-      "duration_ms": 222883,
-      "name": "Desande",
-      "url": "https://open.spotify.com/track/0Vch9aVnZkKXOYQfrvfFx3"
-    },
-    {
-      "added_at": "2022-10-07 14:27:56",
-      "album": {
-        "name": "Fall To Pieces (feat. Jex)",
-        "url": "https://open.spotify.com/album/1RZp0MwiZpYwUaRmhsx5fv"
-      },
-      "artists": [
-        {
-          "name": "Michael Calfan",
-          "url": "https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9"
-        },
-        {
-          "name": "Selva",
-          "url": "https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa"
-        },
-        {
-          "name": "Jex",
-          "url": "https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF"
-        }
-      ],
-      "duration_ms": 171640,
-      "name": "Fall To Pieces (feat. Jex)",
-      "url": "https://open.spotify.com/track/0hgRmK0ouFXfDeYPCsezNv"
-    },
-    {
-      "added_at": "2022-10-07 14:27:56",
-      "album": {
-        "name": "Something",
-        "url": "https://open.spotify.com/album/7GFLvptwUjJfXt21DbQmQQ"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Breathe Carolina",
-          "url": "https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC"
-        }
-      ],
-      "duration_ms": 163124,
-      "name": "Something",
-      "url": "https://open.spotify.com/track/6LHXb1sGs72iTmpSr0603b"
-    },
-    {
-      "added_at": "2022-10-07 14:27:56",
-      "album": {
-        "name": "Always Feel Like",
-        "url": "https://open.spotify.com/album/4kCNzICullbugxM6oBG2G1"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        }
-      ],
-      "duration_ms": 181935,
-      "name": "Always Feel Like",
-      "url": "https://open.spotify.com/track/7rt3hHR1meaDWFqQygtZrS"
-    },
-    {
-      "added_at": "2022-10-07 14:27:56",
-      "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/0AZKItvBz3FYt5N4PykMmc"
-      },
-      "artists": [
-        {
-          "name": "BRN",
-          "url": "https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj"
-        }
-      ],
-      "duration_ms": 191612,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/6syunUw85BZjNmMFAXQgL7"
-    },
-    {
-      "added_at": "2022-10-07 14:27:56",
+      "added_at": "2022-11-25 03:01:00",
       "album": {
         "name": "Dancing",
         "url": "https://open.spotify.com/album/10racGxkbniYEwyKcajmba"
@@ -169,135 +33,27 @@
       "url": "https://open.spotify.com/track/1JyQVDd48BprQrdEOpmodT"
     },
     {
-      "added_at": "2022-10-07 14:27:56",
+      "added_at": "2022-11-25 03:01:00",
       "album": {
-        "name": "The Upside Down",
-        "url": "https://open.spotify.com/album/5NEZVPF8IHVGdZdsVPCjud"
+        "name": "Same Man",
+        "url": "https://open.spotify.com/album/2oHueeYRfx9HZ7lAp99S3s"
       },
       "artists": [
         {
-          "name": "Bolth",
-          "url": "https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD"
-        },
-        {
-          "name": "hollywhaaat",
-          "url": "https://open.spotify.com/artist/2mP5CeI6PYuKIAav3iVsOQ"
-        }
-      ],
-      "duration_ms": 228693,
-      "name": "The Upside Down",
-      "url": "https://open.spotify.com/track/1jtvLN2p1q2lTQL5Qb5Igs"
-    },
-    {
-      "added_at": "2022-10-07 14:27:56",
-      "album": {
-        "name": "Falling Into You",
-        "url": "https://open.spotify.com/album/6mvU6BuLYzrqLCuhisx7oo"
-      },
-      "artists": [
-        {
-          "name": "Justin Mylo",
-          "url": "https://open.spotify.com/artist/7MFJyevu6jq0shwDuVLymu"
-        },
-        {
-          "name": "Pontifexx",
-          "url": "https://open.spotify.com/artist/7aFk8z1XCcKt2y9Z5PC17s"
-        },
-        {
-          "name": "Clara Sofie",
-          "url": "https://open.spotify.com/artist/1adncZQpQ0JKUUCTJyPho4"
-        }
-      ],
-      "duration_ms": 211560,
-      "name": "Falling Into You",
-      "url": "https://open.spotify.com/track/4P0KHrbsOC4s7IgCsMLApO"
-    },
-    {
-      "added_at": "2022-10-07 14:27:56",
-      "album": {
-        "name": "In the Night (Sevek Remix)",
-        "url": "https://open.spotify.com/album/3A7MxmucODffpO7GgAPqgC"
-      },
-      "artists": [
-        {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
         },
         {
           "name": "Sevek",
           "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
         }
       ],
-      "duration_ms": 184041,
-      "name": "In the Night - Sevek Remix",
-      "url": "https://open.spotify.com/track/69B1qgfaaXirGSbdx3otxJ"
+      "duration_ms": 152500,
+      "name": "Same Man",
+      "url": "https://open.spotify.com/track/61JaHYd8nsdvB3srjgGZtM"
     },
     {
-      "added_at": "2022-10-07 14:27:56",
-      "album": {
-        "name": "The Club Is Jumpin'",
-        "url": "https://open.spotify.com/album/3OQLs0bSQczbwbNqm89T9T"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        }
-      ],
-      "duration_ms": 135483,
-      "name": "The Club Is Jumpin'",
-      "url": "https://open.spotify.com/track/15OcbcAnu8RH7viF0vZw71"
-    },
-    {
-      "added_at": "2022-10-07 14:27:56",
-      "album": {
-        "name": "Summer In New York (\u00d6wnboss & Fancy Inc Remix)",
-        "url": "https://open.spotify.com/album/4PL8JCOUayJesajCrmpPav"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        },
-        {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
-        },
-        {
-          "name": "Fancy Inc",
-          "url": "https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Summer In New York - \u00d6wnboss & Fancy Inc Remix",
-      "url": "https://open.spotify.com/track/6aFXimZOxnkqIEshd7d4JE"
-    },
-    {
-      "added_at": "2022-10-07 14:27:56",
-      "album": {
-        "name": "Are You Down (The Remixes)",
-        "url": "https://open.spotify.com/album/41rocj1r6C2g1rm4Wx4Y9V"
-      },
-      "artists": [
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        },
-        {
-          "name": "Selva",
-          "url": "https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa"
-        },
-        {
-          "name": "Suark",
-          "url": "https://open.spotify.com/artist/6iLBBp88stAFjZdnn0HsdD"
-        }
-      ],
-      "duration_ms": 175282,
-      "name": "Are You Down - Suark Remix",
-      "url": "https://open.spotify.com/track/1JVBfOarVI6CNSw4sHGlHQ"
-    },
-    {
-      "added_at": "2022-10-07 14:27:56",
+      "added_at": "2022-11-25 03:01:00",
       "album": {
         "name": "Delusional",
         "url": "https://open.spotify.com/album/2JpeFmcaX5PZKTpDQ3Yvjb"
@@ -321,7 +77,63 @@
       "url": "https://open.spotify.com/track/1thWqWBc3uujDYspY1XxcL"
     },
     {
-      "added_at": "2022-10-07 14:27:56",
+      "added_at": "2022-11-25 03:01:00",
+      "album": {
+        "name": "Are You Down (The Remixes)",
+        "url": "https://open.spotify.com/album/41rocj1r6C2g1rm4Wx4Y9V"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "Selva",
+          "url": "https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa"
+        },
+        {
+          "name": "Suark",
+          "url": "https://open.spotify.com/artist/6iLBBp88stAFjZdnn0HsdD"
+        }
+      ],
+      "duration_ms": 175282,
+      "name": "Are You Down - Suark Remix",
+      "url": "https://open.spotify.com/track/1JVBfOarVI6CNSw4sHGlHQ"
+    },
+    {
+      "added_at": "2022-11-25 03:01:00",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/0AZKItvBz3FYt5N4PykMmc"
+      },
+      "artists": [
+        {
+          "name": "BRN",
+          "url": "https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj"
+        }
+      ],
+      "duration_ms": 191612,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/6syunUw85BZjNmMFAXQgL7"
+    },
+    {
+      "added_at": "2022-11-25 03:01:00",
+      "album": {
+        "name": "The Club Is Jumpin'",
+        "url": "https://open.spotify.com/album/3OQLs0bSQczbwbNqm89T9T"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "duration_ms": 135483,
+      "name": "The Club Is Jumpin'",
+      "url": "https://open.spotify.com/track/15OcbcAnu8RH7viF0vZw71"
+    },
+    {
+      "added_at": "2022-11-25 03:01:00",
       "album": {
         "name": "Bring Me To Life",
         "url": "https://open.spotify.com/album/2yiCoX8tk9OiarK38AmVvT"
@@ -341,7 +153,67 @@
       "url": "https://open.spotify.com/track/7y10NhdvokswimTGeYyZ98"
     },
     {
-      "added_at": "2022-10-07 14:27:56",
+      "added_at": "2022-11-25 03:01:00",
+      "album": {
+        "name": "Fall To Pieces (feat. Jex)",
+        "url": "https://open.spotify.com/album/1RZp0MwiZpYwUaRmhsx5fv"
+      },
+      "artists": [
+        {
+          "name": "Michael Calfan",
+          "url": "https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9"
+        },
+        {
+          "name": "Selva",
+          "url": "https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa"
+        },
+        {
+          "name": "Jex",
+          "url": "https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF"
+        }
+      ],
+      "duration_ms": 171640,
+      "name": "Fall To Pieces (feat. Jex)",
+      "url": "https://open.spotify.com/track/0hgRmK0ouFXfDeYPCsezNv"
+    },
+    {
+      "added_at": "2022-11-25 03:01:00",
+      "album": {
+        "name": "The Upside Down",
+        "url": "https://open.spotify.com/album/5NEZVPF8IHVGdZdsVPCjud"
+      },
+      "artists": [
+        {
+          "name": "Bolth",
+          "url": "https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD"
+        },
+        {
+          "name": "hollywhaaat",
+          "url": "https://open.spotify.com/artist/2mP5CeI6PYuKIAav3iVsOQ"
+        }
+      ],
+      "duration_ms": 228693,
+      "name": "The Upside Down",
+      "url": "https://open.spotify.com/track/1jtvLN2p1q2lTQL5Qb5Igs"
+    },
+    {
+      "added_at": "2022-11-25 03:01:00",
+      "album": {
+        "name": "Always Feel Like",
+        "url": "https://open.spotify.com/album/4kCNzICullbugxM6oBG2G1"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "duration_ms": 181935,
+      "name": "Always Feel Like",
+      "url": "https://open.spotify.com/track/7rt3hHR1meaDWFqQygtZrS"
+    },
+    {
+      "added_at": "2022-11-25 03:01:00",
       "album": {
         "name": "Rare Vision",
         "url": "https://open.spotify.com/album/5Vkz6Cs7Afi7BytbP2BWb7"
@@ -361,7 +233,7 @@
       "url": "https://open.spotify.com/track/4XGTuVNDxJzYu0YMRr32fc"
     },
     {
-      "added_at": "2022-10-07 14:27:56",
+      "added_at": "2022-11-25 03:01:00",
       "album": {
         "name": "This Feeling",
         "url": "https://open.spotify.com/album/5H39x8Yael0buJaEmmK7Xe"
@@ -381,7 +253,115 @@
       "url": "https://open.spotify.com/track/3hQpBuFdNnFM38NjTeg0XQ"
     },
     {
-      "added_at": "2022-10-07 14:27:56",
+      "added_at": "2022-11-25 03:01:00",
+      "album": {
+        "name": "You Can\u2019t Change Me (feat. Raye)",
+        "url": "https://open.spotify.com/album/5OSSa4lPIbnn1VGtwlojCx"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 170859,
+      "name": "You Can\u2019t Change Me (feat. Raye)",
+      "url": "https://open.spotify.com/track/4HjLBWJ7AKZQcmupi1NSM5"
+    },
+    {
+      "added_at": "2022-11-25 03:01:00",
+      "album": {
+        "name": "Don't Be Fooled",
+        "url": "https://open.spotify.com/album/08EFxXn7PiBPuPggWyCHc6"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "Netto",
+          "url": "https://open.spotify.com/artist/37ZMG1QoWfV5N9Y86gOESb"
+        }
+      ],
+      "duration_ms": 151680,
+      "name": "Don't Be Fooled",
+      "url": "https://open.spotify.com/track/1zTOwceUJRBG7pNpm2l0Qo"
+    },
+    {
+      "added_at": "2022-11-25 03:01:00",
+      "album": {
+        "name": "It's Ours",
+        "url": "https://open.spotify.com/album/11Z7v788eMOAVcWvsKAMG8"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Idris Elba",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+        }
+      ],
+      "duration_ms": 200299,
+      "name": "It's Ours - Short Mix",
+      "url": "https://open.spotify.com/track/26RfGZj3z5Y25w6tQDcAyM"
+    },
+    {
+      "added_at": "2022-11-25 03:01:00",
+      "album": {
+        "name": "Night Time",
+        "url": "https://open.spotify.com/album/5eo5f4UypNJpSMMzFtqUrB"
+      },
+      "artists": [
+        {
+          "name": "Jetlag Music",
+          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
+        },
+        {
+          "name": "Marmii",
+          "url": "https://open.spotify.com/artist/6AgnQLNYgI4j92GWE4cg6k"
+        }
+      ],
+      "duration_ms": 135714,
+      "name": "Night Time",
+      "url": "https://open.spotify.com/track/4COSS0u8fXB2qYtW5bbVaE"
+    },
+    {
+      "added_at": "2022-11-25 03:01:00",
+      "album": {
+        "name": "Teletransporte",
+        "url": "https://open.spotify.com/album/7ce0OYD2CrKIs70fXvKycS"
+      },
+      "artists": [
+        {
+          "name": "Groove Delight",
+          "url": "https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn"
+        },
+        {
+          "name": "Lau de Pr\u00e1",
+          "url": "https://open.spotify.com/artist/0IQDW58CkNXAGsLx3DWcRt"
+        }
+      ],
+      "duration_ms": 165354,
+      "name": "Teletransporte",
+      "url": "https://open.spotify.com/track/3scepjch61mbCMEiQ56C7Q"
+    },
+    {
+      "added_at": "2022-11-25 03:01:00",
       "album": {
         "name": "Take Over",
         "url": "https://open.spotify.com/album/6Xd8V1pQiniYTlwldeYTr2"
@@ -401,7 +381,31 @@
       "url": "https://open.spotify.com/track/4Q3iraOig7nyrRoNz1mNKc"
     },
     {
-      "added_at": "2022-10-07 14:27:56",
+      "added_at": "2022-11-25 03:01:00",
+      "album": {
+        "name": "All By Myself",
+        "url": "https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 171747,
+      "name": "All By Myself",
+      "url": "https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb"
+    },
+    {
+      "added_at": "2022-11-25 03:01:00",
       "album": {
         "name": "ARPT",
         "url": "https://open.spotify.com/album/1nEOMBQLIp1YgBR3i9eyJP"
@@ -417,7 +421,7 @@
       "url": "https://open.spotify.com/track/3obLSyxtsr0R5hGISMPwFd"
     },
     {
-      "added_at": "2022-10-07 14:27:56",
+      "added_at": "2022-11-25 03:01:00",
       "album": {
         "name": "Move Your Body",
         "url": "https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL"
@@ -437,7 +441,39 @@
       "url": "https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi"
     },
     {
-      "added_at": "2022-10-07 14:27:56",
+      "added_at": "2022-11-25 03:01:00",
+      "album": {
+        "name": "Lost Generation",
+        "url": "https://open.spotify.com/album/2s9p73FuCiqa0XBz3jtevC"
+      },
+      "artists": [
+        {
+          "name": "MOGUAI",
+          "url": "https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ"
+        },
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Bright Sparks",
+          "url": "https://open.spotify.com/artist/1Dn88PoQjnQgLTOaokePFz"
+        },
+        {
+          "name": "Bulgarian Voices Angelite",
+          "url": "https://open.spotify.com/artist/6OxyG688AdDLBKo5yrJXU9"
+        },
+        {
+          "name": "Huun-Huur-Tu",
+          "url": "https://open.spotify.com/artist/1bK0K2tuAcvMScEWIHt54t"
+        }
+      ],
+      "duration_ms": 163902,
+      "name": "Lost Generation - Edit",
+      "url": "https://open.spotify.com/track/4IAQZlLWEiMhrYPfL4btZi"
+    },
+    {
+      "added_at": "2022-11-25 03:01:00",
       "album": {
         "name": "Hot In It",
         "url": "https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q"
@@ -457,7 +493,7 @@
       "url": "https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W"
     },
     {
-      "added_at": "2022-10-07 14:27:56",
+      "added_at": "2022-11-25 03:01:00",
       "album": {
         "name": "Time (Sevek Remix)",
         "url": "https://open.spotify.com/album/58AZcrMLTjgrsHrTByNX5L"
@@ -481,7 +517,23 @@
       "url": "https://open.spotify.com/track/5grzVCT8ZFzWGBLZQs5dkH"
     },
     {
-      "added_at": "2022-10-07 14:27:56",
+      "added_at": "2022-11-25 03:01:00",
+      "album": {
+        "name": "Warning",
+        "url": "https://open.spotify.com/album/3y5fQAMQcXwch8hlHuhzwp"
+      },
+      "artists": [
+        {
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+        }
+      ],
+      "duration_ms": 336504,
+      "name": "Warning",
+      "url": "https://open.spotify.com/track/09fLcyru2xKfVPpN01dL0C"
+    },
+    {
+      "added_at": "2022-11-25 03:01:00",
       "album": {
         "name": "Sicko Drop",
         "url": "https://open.spotify.com/album/2dwO0gaZIbr77oUSn6OfoE"
@@ -501,7 +553,7 @@
       "url": "https://open.spotify.com/track/5T4lERmPqhO2ukZoGJ5sSr"
     },
     {
-      "added_at": "2022-10-07 14:27:56",
+      "added_at": "2022-11-25 03:01:00",
       "album": {
         "name": "Sun Goes Down (Sound Of Violence)",
         "url": "https://open.spotify.com/album/1NAp32E06cqBEDevOLJCYm"
@@ -521,7 +573,7 @@
       "url": "https://open.spotify.com/track/66j6JvXOiT608Ivh98URW8"
     },
     {
-      "added_at": "2022-10-07 14:27:56",
+      "added_at": "2022-11-25 03:01:00",
       "album": {
         "name": "Canc\u00fan",
         "url": "https://open.spotify.com/album/0wpYHCnXB6DjAtHODHQdj0"
@@ -541,7 +593,7 @@
       "url": "https://open.spotify.com/track/2eLzS75uEe5NFXIWOhuoqy"
     },
     {
-      "added_at": "2022-10-07 14:27:56",
+      "added_at": "2022-11-25 03:01:00",
       "album": {
         "name": "Control",
         "url": "https://open.spotify.com/album/4JEt6Wo4ADJAoGi0NND8hm"
@@ -561,7 +613,7 @@
       "url": "https://open.spotify.com/track/1DOiUHIWeuSePVnulxXRdM"
     },
     {
-      "added_at": "2022-10-07 14:27:56",
+      "added_at": "2022-11-25 03:01:00",
       "album": {
         "name": "Funkatron",
         "url": "https://open.spotify.com/album/2LnfOgfUOo91vCHLTvgv5M"
@@ -581,7 +633,7 @@
       "url": "https://open.spotify.com/track/5JohYODxZkqfPFC3UWSrMj"
     },
     {
-      "added_at": "2022-10-07 14:27:56",
+      "added_at": "2022-11-25 03:01:00",
       "album": {
         "name": "Clap Your Hands",
         "url": "https://open.spotify.com/album/6YBmROG6hXhDUpOfS3nYpJ"
@@ -601,7 +653,7 @@
       "url": "https://open.spotify.com/track/1OoSh6HU59Am9V7uZkt9xc"
     },
     {
-      "added_at": "2022-10-07 14:27:56",
+      "added_at": "2022-11-25 03:01:00",
       "album": {
         "name": "Beat, Slow, Check",
         "url": "https://open.spotify.com/album/3Gb5HF8D2stlV841uR3n0J"
@@ -617,27 +669,7 @@
       "url": "https://open.spotify.com/track/2FvSLbaOuopFsY2ZUaJPX1"
     },
     {
-      "added_at": "2022-10-07 14:27:56",
-      "album": {
-        "name": "Commotion",
-        "url": "https://open.spotify.com/album/5ohHaX4VvILtG1nOLh76uj"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Maxi Jazz",
-          "url": "https://open.spotify.com/artist/2GKn4JgqBrRxt1UK12D6Rq"
-        }
-      ],
-      "duration_ms": 215934,
-      "name": "Commotion",
-      "url": "https://open.spotify.com/track/2qf9Ad1hgLF5oM9SdMJdDU"
-    },
-    {
-      "added_at": "2022-10-07 14:27:56",
+      "added_at": "2022-11-25 03:01:00",
       "album": {
         "name": "Would You Blame Me",
         "url": "https://open.spotify.com/album/7MsdbOGBxd8Lahj0oh6yvS"
@@ -657,7 +689,7 @@
       "url": "https://open.spotify.com/track/7hCIfAq7QL06nKnoeugoxl"
     },
     {
-      "added_at": "2022-10-07 14:27:56",
+      "added_at": "2022-11-25 03:01:00",
       "album": {
         "name": "Never Let Me Go",
         "url": "https://open.spotify.com/album/75SuSwl4W3d0T8HpUFeM4p"
@@ -673,7 +705,7 @@
       "url": "https://open.spotify.com/track/3CEXfu2rSEzUSGB9zFUoZz"
     },
     {
-      "added_at": "2022-10-07 14:27:56",
+      "added_at": "2022-11-25 03:01:00",
       "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/3oJ5lkxgCn5JpGfSLXvFMD"
@@ -693,7 +725,7 @@
       "url": "https://open.spotify.com/track/3QyakvOZamJzAuMVgW13Wv"
     },
     {
-      "added_at": "2022-10-07 14:27:56",
+      "added_at": "2022-11-25 03:01:00",
       "album": {
         "name": "California Dreamin\u2019 (feat. High Jinx) (Vintage Culture Remix)",
         "url": "https://open.spotify.com/album/2ZcIGPPSC7LELS7zJ3JVSK"
@@ -717,7 +749,7 @@
       "url": "https://open.spotify.com/track/19lT0l1OBkLtWI5iE5zORl"
     },
     {
-      "added_at": "2022-10-07 14:27:56",
+      "added_at": "2022-11-25 03:01:00",
       "album": {
         "name": "fReAk o.O",
         "url": "https://open.spotify.com/album/0aDuBR6kAzlVSVRPaGMwiO"
@@ -737,7 +769,7 @@
       "url": "https://open.spotify.com/track/0p0i2yxBoV1R7LH4RXsavZ"
     },
     {
-      "added_at": "2022-10-07 14:27:56",
+      "added_at": "2022-11-25 03:01:00",
       "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/59bmdTOhPa4ZLUS2htvKc4"
@@ -753,7 +785,7 @@
       "url": "https://open.spotify.com/track/4RXw5GRcFbOCmWQ85oEguu"
     },
     {
-      "added_at": "2022-10-07 14:27:56",
+      "added_at": "2022-11-25 03:01:00",
       "album": {
         "name": "Bubbalicious",
         "url": "https://open.spotify.com/album/5ZVI3iLLLBUscQRvesFWoj"
@@ -777,7 +809,7 @@
       "url": "https://open.spotify.com/track/3ZLROYAeP1y3CouHBYZCg7"
     },
     {
-      "added_at": "2022-10-07 14:27:56",
+      "added_at": "2022-11-25 03:01:00",
       "album": {
         "name": "Next to Me (Remixes)",
         "url": "https://open.spotify.com/album/1ZzxjxcYWxEStGTGPNHsG9"
@@ -797,7 +829,7 @@
       "url": "https://open.spotify.com/track/2bidvM5hM1LGiEDkgp0EUz"
     },
     {
-      "added_at": "2022-10-07 14:27:56",
+      "added_at": "2022-11-25 03:01:00",
       "album": {
         "name": "DANCE",
         "url": "https://open.spotify.com/album/4T3lheq92o9cUCB7bnNQ6Q"
@@ -813,7 +845,7 @@
       "url": "https://open.spotify.com/track/5GCM43WZSWNxVh7JD6XN6b"
     },
     {
-      "added_at": "2022-10-07 14:27:56",
+      "added_at": "2022-11-25 03:01:00",
       "album": {
         "name": "See The Ocean",
         "url": "https://open.spotify.com/album/6wOQT6BrVoz8hWsXEPL64g"
@@ -829,7 +861,7 @@
       "url": "https://open.spotify.com/track/17zIFu7KK3q3uUBG4vsY3r"
     },
     {
-      "added_at": "2022-10-07 14:27:56",
+      "added_at": "2022-11-25 03:01:00",
       "album": {
         "name": "Had To Tell You (feat. Leo)",
         "url": "https://open.spotify.com/album/5jo1PzbuPElQPlMozafqDI"
@@ -853,7 +885,7 @@
       "url": "https://open.spotify.com/track/4Y5HIDTNt5dCOGEoBVJ5An"
     },
     {
-      "added_at": "2022-10-07 14:27:56",
+      "added_at": "2022-11-25 03:01:00",
       "album": {
         "name": "Push The Feeling On",
         "url": "https://open.spotify.com/album/1UasoHOSOcPNtRII5u3wiL"
@@ -873,7 +905,7 @@
       "url": "https://open.spotify.com/track/0XkWaA0Vyls3Jd15oYWG9L"
     },
     {
-      "added_at": "2022-10-07 14:27:56",
+      "added_at": "2022-11-25 03:01:00",
       "album": {
         "name": "Body On My Mind",
         "url": "https://open.spotify.com/album/74z7Bcwu01V3ZE2CAqrtqf"
@@ -889,7 +921,7 @@
       "url": "https://open.spotify.com/track/6h1PXppJpiPHDhqdGycFdL"
     },
     {
-      "added_at": "2022-10-07 14:27:56",
+      "added_at": "2022-11-25 03:01:00",
       "album": {
         "name": "I Know",
         "url": "https://open.spotify.com/album/1AERPcpgt9mOmzJykuqHsI"
@@ -909,7 +941,7 @@
       "url": "https://open.spotify.com/track/0iZDUCkSEzzBllavstdPsd"
     },
     {
-      "added_at": "2022-10-07 14:27:56",
+      "added_at": "2022-11-25 03:01:00",
       "album": {
         "name": "Don't Wake Me Up",
         "url": "https://open.spotify.com/album/07UqcOSS4JQ1Si9TwomEHw"
@@ -929,7 +961,7 @@
       "url": "https://open.spotify.com/track/3edsNcYEr1eufTkadK09MF"
     },
     {
-      "added_at": "2022-10-07 14:27:56",
+      "added_at": "2022-11-25 03:01:00",
       "album": {
         "name": "Good Good",
         "url": "https://open.spotify.com/album/1Rt8AIxAqTeLixYACMcjKc"
@@ -949,7 +981,7 @@
       "url": "https://open.spotify.com/track/09OBF8vXiOtxHpnEJhflMr"
     },
     {
-      "added_at": "2022-10-07 14:27:56",
+      "added_at": "2022-11-25 03:01:00",
       "album": {
         "name": "Feel Your Love",
         "url": "https://open.spotify.com/album/6lkHjfaElhaWfYGZEmFkWG"
@@ -973,7 +1005,7 @@
       "url": "https://open.spotify.com/track/4gtmLfdvLaKO1PY4cvdfaI"
     },
     {
-      "added_at": "2022-10-07 14:27:56",
+      "added_at": "2022-11-25 03:01:00",
       "album": {
         "name": "Butterflies (feat. Tristan Henry)",
         "url": "https://open.spotify.com/album/1nCFV0Ocfkyfrfmpmv3b6O"
@@ -1001,27 +1033,7 @@
       "url": "https://open.spotify.com/track/0sUDiNgh3zHqeWPTQqandI"
     },
     {
-      "added_at": "2022-10-07 14:27:56",
-      "album": {
-        "name": "In My Mind",
-        "url": "https://open.spotify.com/album/412mL0hMStgwl1ukZjLxR8"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 175555,
-      "name": "In My Mind",
-      "url": "https://open.spotify.com/track/7uoxJCPiqiEa3fvOQQQbyn"
-    },
-    {
-      "added_at": "2022-10-07 14:27:56",
+      "added_at": "2022-11-25 03:01:00",
       "album": {
         "name": "Expression",
         "url": "https://open.spotify.com/album/72nnT5nIwBECGvbJYewzQ9"
@@ -1037,7 +1049,7 @@
       "url": "https://open.spotify.com/track/58xbGEktCH3q4LGYDqycZR"
     },
     {
-      "added_at": "2022-10-07 14:27:56",
+      "added_at": "2022-11-25 03:01:00",
       "album": {
         "name": "Falling for You",
         "url": "https://open.spotify.com/album/3PlHIJHpzzxNtRzzCy5YUr"
@@ -1057,7 +1069,7 @@
       "url": "https://open.spotify.com/track/5CG0mHrltJxCqMV0YHZ62x"
     },
     {
-      "added_at": "2022-10-07 14:27:56",
+      "added_at": "2022-11-25 03:01:00",
       "album": {
         "name": "Pretender",
         "url": "https://open.spotify.com/album/6DprqvZwBR7EGIuIfQ0J3T"
@@ -1081,7 +1093,7 @@
       "url": "https://open.spotify.com/track/2OM6aYmfvRVnYAnfo7I9V7"
     },
     {
-      "added_at": "2022-10-07 14:27:56",
+      "added_at": "2022-11-25 03:01:00",
       "album": {
         "name": "The Way",
         "url": "https://open.spotify.com/album/25cyAsBHAUIIME98kp0wXY"
@@ -1101,7 +1113,7 @@
       "url": "https://open.spotify.com/track/2W63BnQnUwe6pp9lctTfBo"
     },
     {
-      "added_at": "2022-10-07 14:27:56",
+      "added_at": "2022-11-25 03:01:00",
       "album": {
         "name": "Don't Let Me Go",
         "url": "https://open.spotify.com/album/68Kxl87hmMZHplntu3hLTt"
@@ -1121,7 +1133,7 @@
       "url": "https://open.spotify.com/track/0VWprMxFrfVyzC2w3oZ2cE"
     },
     {
-      "added_at": "2022-10-07 14:27:56",
+      "added_at": "2022-11-25 03:01:00",
       "album": {
         "name": "Never",
         "url": "https://open.spotify.com/album/7IAYlv5CQlfuU9dhETcshh"
@@ -1137,7 +1149,7 @@
       "url": "https://open.spotify.com/track/7koAfgOQuAnfqDoTdpWMYe"
     },
     {
-      "added_at": "2022-10-07 14:27:56",
+      "added_at": "2022-11-25 03:01:00",
       "album": {
         "name": "Lo Que Soy",
         "url": "https://open.spotify.com/album/6KCqenIwnDx20ku4jx5gVl"
@@ -1153,7 +1165,7 @@
       "url": "https://open.spotify.com/track/7oNvcR6y6AIxbY2aWukM9p"
     },
     {
-      "added_at": "2022-10-07 14:27:56",
+      "added_at": "2022-11-25 03:01:00",
       "album": {
         "name": "Anybody Else",
         "url": "https://open.spotify.com/album/3hF7QdLRT9vOxXKBgBriMF"
@@ -1169,7 +1181,7 @@
       "url": "https://open.spotify.com/track/4NbmxDHT22uG720SQjjJKf"
     },
     {
-      "added_at": "2022-10-07 14:27:56",
+      "added_at": "2022-11-25 03:01:00",
       "album": {
         "name": "Gimme Gimme",
         "url": "https://open.spotify.com/album/0DE70DL84J6TAGv980nTgV"
@@ -1185,7 +1197,7 @@
       "url": "https://open.spotify.com/track/73j31E7LkV0cgb6fkbyZWR"
     },
     {
-      "added_at": "2022-10-07 14:27:56",
+      "added_at": "2022-11-25 03:01:00",
       "album": {
         "name": "I Want Love (Cat Dealers Remix)",
         "url": "https://open.spotify.com/album/5gTxOtz0Kmo1aD3jLfm7XS"

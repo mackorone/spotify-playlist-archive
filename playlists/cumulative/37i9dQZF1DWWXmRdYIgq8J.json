@@ -936,6 +936,28 @@
     },
     {
       "album": {
+        "name": "Soca Gold 2013",
+        "url": "https://open.spotify.com/album/5IUSWCDg7mjjflea2V86mC"
+      },
+      "artists": [
+        {
+          "name": "Drupatee",
+          "url": "https://open.spotify.com/artist/7d41HV53Mpqmn3DBacKaEd"
+        },
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 200200,
+      "name": "Indian Gyal",
+      "url": "https://open.spotify.com/track/0gFmU2a8x5zfDHupffa1Mi"
+    },
+    {
+      "album": {
         "name": "Indian Gyal",
         "url": "https://open.spotify.com/album/2XwOXmK2KAUVSXulFIqymD"
       },

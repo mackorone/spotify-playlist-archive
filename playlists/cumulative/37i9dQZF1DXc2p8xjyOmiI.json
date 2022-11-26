@@ -662,6 +662,24 @@
     },
     {
       "album": {
+        "name": "Paranormal",
+        "url": "https://open.spotify.com/album/3WdqL2AIorwJ4ofhNGR1w0"
+      },
+      "artists": [
+        {
+          "name": "Grupo Diez 4tro",
+          "url": "https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 184847,
+      "name": "En El Refuego",
+      "url": "https://open.spotify.com/track/2AoqaGQiMT1Yt10f2qypUk"
+    },
+    {
+      "album": {
         "name": "en el Refuego",
         "url": "https://open.spotify.com/album/2pGsHPDALnunKWNyvnr03f"
       },

@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-116 songs - 9 hr 46 min - [published](https://open.spotify.com/playlist/4IW3gv4YKGZskCAX9OZuoF)
+118 songs - 9 hr 56 min - [published](https://open.spotify.com/playlist/4IW3gv4YKGZskCAX9OZuoF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Night](https://open.spotify.com/track/5ucLyBlhHzKn2ZiAQwLOl7) | [Midival Punditz](https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY) | [MIDIval PunditZ](https://open.spotify.com/album/4rSbNYZdPsBDGBK7Qrat7X) | 5:55 | 2022-07-12 |  |
 | [Nindiya Na Aaye](https://open.spotify.com/track/7ioAQhNCKwt4JyXLDQVLH1) | [Prathama Dey](https://open.spotify.com/artist/5EnfdD46Y3dkuPg30FQt5B), [Prajna Dutta](https://open.spotify.com/artist/4CFjungEFZLSKaGjl9su8I) | [Nindiya Na Aaye](https://open.spotify.com/album/0dO7G9X3n7psqVAmWjy8Hw) | 3:45 | 2022-05-17 |  |
 | [Nirvana](https://open.spotify.com/track/6AIMkgFs253hoN9dLa5NA6) | [SoundGuySam](https://open.spotify.com/artist/46kwfZuv8Zp5s1lmeOvjTw), [Vāhaka](https://open.spotify.com/artist/2fNCMrjJFeeQVLhdS4tE8m) | [Nirvana](https://open.spotify.com/album/0JqNvIfu12IkoCUVBWn9iN) | 3:00 | 2022-05-17 |  |
+| [One Family](https://open.spotify.com/track/6U4MqwWt8qkyLAZREUN2YN) | [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl), [Siddhartha Belmannu](https://open.spotify.com/artist/0M0qOys6eONaDvSRKNwKWc), [Lonnie Park](https://open.spotify.com/artist/34fDpfsOWv8Z8r7A1goy8N), [Alexis D'souza](https://open.spotify.com/artist/33vRHKiT2D7oiHPwOeJLT5) | [One Family](https://open.spotify.com/album/783ROhokY1Rxp2LOiV5V71) | 4:00 | 2022-09-23 | 2022-11-13 |
 | [One Family \(Live\)](https://open.spotify.com/track/1jDSX9yXzRyvkZSlwsOBbg) | [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl) | [Shiva \- Ricky Kej Live in India](https://open.spotify.com/album/6Pex7upO82T6FsWCXMBac6) | 4:00 | 2022-05-17 | 2022-09-04 |
 | [One Family \(Live\)](https://open.spotify.com/track/5H5BQEnXcHV349qCuwm5Gy) | [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl) | [Shiva \- Ricky Kej Live in India](https://open.spotify.com/album/2nLzw4gKPSvjuubgf4NyaG) | 4:00 | 2022-07-12 |  |
 | [Ooch Apaar](https://open.spotify.com/track/14jmLovqc2rOc2KDqwd8Yw) | [Deepa Nair Rasiya](https://open.spotify.com/artist/7N1BsOs8z52ZdDxd8DI4aT) | [Ooch Apaar](https://open.spotify.com/album/10QCudlJoZPHcoPBDTc1mA) | 7:00 | 2022-07-12 |  |
@@ -120,6 +121,7 @@
 | [Tore Bina Mohe](https://open.spotify.com/track/4NgquIKp1yVgdUW7UsNPJw) | [In My Frame](https://open.spotify.com/artist/566JyppaFXpIzAnqy0hRpv), [Sarthak Kalyani](https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh) | [Tore Bina Mohe](https://open.spotify.com/album/4mMdKgfx52JIoTQpWP5ZHt) | 3:36 | 2022-05-17 |  |
 | [Traveller \- Leafcutter John Remix](https://open.spotify.com/track/28I5uwR9g7Hg4Hq4Uwuuo2) | [Talvin Singh](https://open.spotify.com/artist/30Y7JOpiNgAGEhnkYPdI1P) | [OK \(Expanded Edition\)](https://open.spotify.com/album/4lfEhaAgggD8a24bw5vOCq) | 5:50 | 2022-05-17 | 2022-07-29 |
 | [Traveller \- Leafcutter John Remix](https://open.spotify.com/track/68pnUjdZYEgYuHArZRxETk) | [Talvin Singh](https://open.spotify.com/artist/30Y7JOpiNgAGEhnkYPdI1P) | [OK \(Expanded Edition\)](https://open.spotify.com/album/78TxUdER5QfLxTBpXu1UZm) | 5:50 | 2022-07-12 |  |
+| [Traveller \- Leafcutter John Remix](https://open.spotify.com/track/6eksDMdyTYPB3e1nycPx6c) | [Talvin Singh](https://open.spotify.com/artist/30Y7JOpiNgAGEhnkYPdI1P) | [Winter Mix 2021](https://open.spotify.com/album/5gfKfF2hnSbYCdI21NilnF) | 5:50 | 2022-09-23 | 2022-11-14 |
 | [Tum Jo Mile Ho](https://open.spotify.com/track/0DCXweyQdnUXQ6bDSNXFi8) | [Anweshaa](https://open.spotify.com/artist/785G4rs8cdeU7kKM2XgoI3), [Sangeeta Shankar](https://open.spotify.com/artist/2oHDVj3P55EigkZFdtngNn) | [Tum Jo Mile Ho \- Single](https://open.spotify.com/album/2QYap5S921w48KgN7MUsdb) | 4:06 | 2022-05-17 |  |
 | [Viraha](https://open.spotify.com/track/0j1Z4bp6LeIxb9Rdq0kdsu) | [Shadow and Light](https://open.spotify.com/artist/6BG3rlgfBM8V8JStjm7IFa) | [Elements](https://open.spotify.com/album/4PDXWMxlqPHO4Ox9KCvoJ8) | 4:43 | 2022-05-17 |  |
 | [Yaad Piya Ki Aaye](https://open.spotify.com/track/3LWZsbikDu2gSiiExEifHw) | [Wadali Brothers](https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX) | [Yaad Piya Ki...](https://open.spotify.com/album/63RWUfA8NjW6ooa5MXP8HB) | 5:14 | 2022-05-17 |  |

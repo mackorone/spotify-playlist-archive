@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-10-13",
       "duration_ms": 281573,
       "name": "Between Your Band and the Other Band",
       "url": "https://open.spotify.com/track/3l0Q2p2Ynz5Mfm4y3BnZAi"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 215813,
       "name": "Bullet",
       "url": "https://open.spotify.com/track/19OmsLCVYcEGoMgmbzZxPv"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 163561,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/1dWSrF7s0Gx6SZUe8w9Uq9"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 228928,
       "name": "Carry You Over",
       "url": "https://open.spotify.com/track/6k8PzX1lx7tqzyY1l7O8u5"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 180070,
       "name": "Danielson",
       "url": "https://open.spotify.com/track/1Bpq1VpKteNzOLkqz9BHDK"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-10-12",
       "duration_ms": 161386,
       "name": "Distress Signal",
       "url": "https://open.spotify.com/track/0WNkiBlZdhn6JXzyCki4gO"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 175093,
       "name": "Fake Death",
       "url": "https://open.spotify.com/track/222IX0SYu1TZ49kAucVZh9"
@@ -368,6 +368,24 @@
     },
     {
       "album": {
+        "name": "spin",
+        "url": "https://open.spotify.com/album/2xSppFiPUTWqZ9cdF6CQnY"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252226,
+      "name": "Guardian",
+      "url": "https://open.spotify.com/track/02GBtzxf70cvt8wxxhKnyG"
+    },
+    {
+      "album": {
         "name": "Run For Cover Subscription Singles Series #3",
         "url": "https://open.spotify.com/album/1MZF46ju6QM79B8YwGfP0Q"
       },
@@ -397,7 +415,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-10-13",
       "duration_ms": 222109,
       "name": "Heaven Apart",
       "url": "https://open.spotify.com/track/0OGuJTsdY9B0C2fwPHvxbE"
@@ -451,7 +469,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 230920,
       "name": "I Saw The Wolf",
       "url": "https://open.spotify.com/track/507E5wYg75ncbcrYJXkH2t"
@@ -527,7 +545,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 103352,
       "name": "Its About Killing People",
       "url": "https://open.spotify.com/track/7rtvbytMpnY8mMosSEpjLL"
@@ -545,7 +563,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 158920,
       "name": "Jet Alone",
       "url": "https://open.spotify.com/track/5oUl5qMNWrZlbA2LvqVUYF"
@@ -599,7 +617,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 180253,
       "name": "Lodging",
       "url": "https://open.spotify.com/track/2VhuYwx3NFIljVMQAxbcIp"
@@ -671,10 +689,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 195681,
       "name": "Never Wanted To",
       "url": "https://open.spotify.com/track/6J1gXMOvobGCZN3s9EBOGJ"
+    },
+    {
+      "album": {
+        "name": "I Won't Care How You Remember Me",
+        "url": "https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164569,
+      "name": "New Detroit",
+      "url": "https://open.spotify.com/track/1n2OIgDDCHgm0YpvK62OLx"
     },
     {
       "album": {
@@ -689,7 +725,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 150047,
       "name": "Okay Paddy",
       "url": "https://open.spotify.com/track/4wy6NAhezeoaHb5Uez0MK2"
@@ -729,6 +765,24 @@
       "duration_ms": 122680,
       "name": "Plane Vs. Tank Vs. Submarine",
       "url": "https://open.spotify.com/track/1JxUKhB7QGd082YGskroob"
+    },
+    {
+      "album": {
+        "name": "Old Clothes",
+        "url": "https://open.spotify.com/album/5zeB1ZGALj3ynXlCeeeSMx"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218807,
+      "name": "Reckless",
+      "url": "https://open.spotify.com/track/4HMwxrEa9kRd4guVQZy9Cp"
     },
     {
       "album": {
@@ -851,10 +905,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 212114,
       "name": "Stungun",
       "url": "https://open.spotify.com/track/7hhZGHHDvI2IYe7RQSPfQu"
+    },
+    {
+      "album": {
+        "name": "Old Clothes",
+        "url": "https://open.spotify.com/album/5zeB1ZGALj3ynXlCeeeSMx"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159151,
+      "name": "Swear",
+      "url": "https://open.spotify.com/track/2vn4MzB2p1jv8HTZzArG0J"
     },
     {
       "album": {
@@ -930,6 +1002,24 @@
     },
     {
       "album": {
+        "name": "Old Clothes",
+        "url": "https://open.spotify.com/album/5zeB1ZGALj3ynXlCeeeSMx"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139250,
+      "name": "Waltz",
+      "url": "https://open.spotify.com/track/5NTGujjjnZH83kbSW1KvK5"
+    },
+    {
+      "album": {
         "name": "Warn Me",
         "url": "https://open.spotify.com/album/2Iq1FXyQkuUSpFmv3CEnzJ"
       },
@@ -977,7 +1067,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-10-13",
       "duration_ms": 350480,
       "name": "What Would You Do",
       "url": "https://open.spotify.com/track/6bREqR9MJcyrEzxxHgef9B"

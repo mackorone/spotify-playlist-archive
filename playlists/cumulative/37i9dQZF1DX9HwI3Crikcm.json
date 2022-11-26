@@ -81,6 +81,24 @@
     {
       "album": {
         "name": "Decade",
+        "url": "https://open.spotify.com/album/52lMsdBZ0BpNr1vVNjeOgO"
+      },
+      "artists": [
+        {
+          "name": "Dervish",
+          "url": "https://open.spotify.com/artist/08DRTASY1wyduMevINkClA"
+        }
+      ],
+      "date_added": "2020-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 233973,
+      "name": "Apples in Winter",
+      "url": "https://open.spotify.com/track/04T4bZBB1jpUt1tINrkAj8"
+    },
+    {
+      "album": {
+        "name": "Decade",
         "url": "https://open.spotify.com/album/45jjWeemwTn2Mh0fSjrhoy"
       },
       "artists": [
@@ -170,6 +188,42 @@
     },
     {
       "album": {
+        "name": "The Blue Room",
+        "url": "https://open.spotify.com/album/5eCpuMhayrr8WdMseIPCWK"
+      },
+      "artists": [
+        {
+          "name": "Martin Hayes Quartet",
+          "url": "https://open.spotify.com/artist/2LzGweG3iEJCni35tLQnL5"
+        }
+      ],
+      "date_added": "2020-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182174,
+      "name": "Brennans Reel",
+      "url": "https://open.spotify.com/track/3HidYV1TitmxDpP0gTNPti"
+    },
+    {
+      "album": {
+        "name": "The Blue Room",
+        "url": "https://open.spotify.com/album/1uxLJ6XxgZuiNxqdhlZ1Q4"
+      },
+      "artists": [
+        {
+          "name": "Martin Hayes Quartet",
+          "url": "https://open.spotify.com/artist/2LzGweG3iEJCni35tLQnL5"
+        }
+      ],
+      "date_added": "2020-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 182174,
+      "name": "Brennans Reel",
+      "url": "https://open.spotify.com/track/4UzGBikPnwtnJcBKIhic4Q"
+    },
+    {
+      "album": {
         "name": "Brennans Reel",
         "url": "https://open.spotify.com/album/3zpOzh4VaRf66sNWggmgks"
       },
@@ -181,7 +235,7 @@
       ],
       "date_added": "2020-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 182174,
       "name": "Brennans Reel",
       "url": "https://open.spotify.com/track/7DIJ8pWzjPPNNZi8BXbYjm"
@@ -260,6 +314,24 @@
     },
     {
       "album": {
+        "name": "Celtic Soul: The Very Best Of Irish Music",
+        "url": "https://open.spotify.com/album/3CxaruMfAhdVm4JweofPC9"
+      },
+      "artists": [
+        {
+          "name": "DeDanann",
+          "url": "https://open.spotify.com/artist/2ltISZj3PdBBWiJtQGGMBo"
+        }
+      ],
+      "date_added": "2020-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 339293,
+      "name": "Coleraine Jig medley",
+      "url": "https://open.spotify.com/track/0mQySHWYmFJHBIX0fZihgC"
+    },
+    {
+      "album": {
         "name": "The Star Spangled Molly",
         "url": "https://open.spotify.com/album/5go8p25WL9vT4sX2baR433"
       },
@@ -297,7 +369,7 @@
     {
       "album": {
         "name": "The Fiddle Case",
-        "url": "https://open.spotify.com/album/0yYB4Ok5TqjpUztuzXjoIl"
+        "url": "https://open.spotify.com/album/4CxYrGwYjQOPfIoeiU9dQ3"
       },
       "artists": [
         {
@@ -308,6 +380,24 @@
       "date_added": "2020-11-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 266058,
+      "name": "Coolderry Bridge / The Whistling Postman / The Mills Are Grinding",
+      "url": "https://open.spotify.com/track/24RqbvGYiplXwg79ldjied"
+    },
+    {
+      "album": {
+        "name": "The Fiddle Case",
+        "url": "https://open.spotify.com/album/0yYB4Ok5TqjpUztuzXjoIl"
+      },
+      "artists": [
+        {
+          "name": "The Fiddle Case",
+          "url": "https://open.spotify.com/artist/4sk1ZccF7bAlhBzdg5lgta"
+        }
+      ],
+      "date_added": "2020-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-17",
       "duration_ms": 266058,
       "name": "Coolderry Bridge / The Whistling Postman / The Mills Are Grinding",
       "url": "https://open.spotify.com/track/5Id7Tp8vsvfLDFoUMVjyrn"
@@ -821,10 +911,28 @@
       ],
       "date_added": "2020-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 269746,
       "name": "Jigs: The Southwest Wind / An Buachaillin Dreoite",
       "url": "https://open.spotify.com/track/17XDKfATaLDVs28Wh9Ry5J"
+    },
+    {
+      "album": {
+        "name": "Write Me a Letter",
+        "url": "https://open.spotify.com/album/1fa4LBlNsValNBZCwGmTPf"
+      },
+      "artists": [
+        {
+          "name": "The Fiddle Case",
+          "url": "https://open.spotify.com/artist/4sk1ZccF7bAlhBzdg5lgta"
+        }
+      ],
+      "date_added": "2020-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269746,
+      "name": "Jigs: The Southwest Wind / An Buachaillin Dreoite",
+      "url": "https://open.spotify.com/track/2RwshonNEkw7d1GyTpMMAU"
     },
     {
       "album": {
@@ -1101,6 +1209,24 @@
       "duration_ms": 152160,
       "name": "Lucy Campbell's / The Flogging (Reels)",
       "url": "https://open.spotify.com/track/6qjF0LNDQu7JN4A1LCgnlG"
+    },
+    {
+      "album": {
+        "name": "Seoda an Riadaigh",
+        "url": "https://open.spotify.com/album/33Ucm2RT6oXkIn23pdQVC4"
+      },
+      "artists": [
+        {
+          "name": "Se\u00e1n \u00d3 Riada",
+          "url": "https://open.spotify.com/artist/1Q30Up3KFXXsjwKw9EXrlp"
+        }
+      ],
+      "date_added": "2020-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 208533,
+      "name": "Marcshlua U\u00ed N\u00e9ill (O'Neill's Cavalry March)",
+      "url": "https://open.spotify.com/track/3sQNg91hUqNO9qFRNq4CQ9"
     },
     {
       "album": {
@@ -1764,6 +1890,24 @@
     },
     {
       "album": {
+        "name": "The Very Best of Irish Folk",
+        "url": "https://open.spotify.com/album/1ZwUu5NU2Rra6ZbhaR9cr0"
+      },
+      "artists": [
+        {
+          "name": "Finbar and Eddie Furey",
+          "url": "https://open.spotify.com/artist/3ZZiWJXPplvxSxYgzHTTl0"
+        }
+      ],
+      "date_added": "2020-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 431306,
+      "name": "The Fox Chase",
+      "url": "https://open.spotify.com/track/0hI9tVr8cJHTl9OcYUoBoD"
+    },
+    {
+      "album": {
         "name": "The Spanish Cloak: The Best of The Fureys",
         "url": "https://open.spotify.com/album/2bu7GBQrndxPZ4DAuMB2cV"
       },
@@ -1903,6 +2047,24 @@
       "duration_ms": 186038,
       "name": "The Hag's Purse/Connaughtman's Rambles",
       "url": "https://open.spotify.com/track/09ZGID7lltzhNuVGa171RI"
+    },
+    {
+      "album": {
+        "name": "Wired",
+        "url": "https://open.spotify.com/album/0X6hTeNjhTyeCesXYb7UUq"
+      },
+      "artists": [
+        {
+          "name": "Michael McGoldrick",
+          "url": "https://open.spotify.com/artist/6XLzyxxr88YdGmrCKrFI74"
+        }
+      ],
+      "date_added": "2020-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 258373,
+      "name": "The Hillsbrook Reels",
+      "url": "https://open.spotify.com/track/4u8J1CeW1VGEFxD6dyhqP5"
     },
     {
       "album": {

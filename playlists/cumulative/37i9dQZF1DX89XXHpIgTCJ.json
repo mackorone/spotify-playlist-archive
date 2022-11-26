@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "When Rock meets Rap: covers, collabs, mashups and everything that rhymes. Cover:  JAY-Z & Linkin Park",
+  "description": "When Rock meets Rap: covers, collabs, mashups and everything that rhymes. Cover:  Cypress Hill",
   "name": "I Love Rap 'n' Roll",
   "published_playlist_ids": [
     "3fOLmkEsg2O82RAMft1mmW"
@@ -111,7 +111,7 @@
       ],
       "date_added": "2021-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 253333,
       "name": "Awnaw (feat. Marcos of P.O.D.) - Rock Remix",
       "url": "https://open.spotify.com/track/4HWTg4I0u0oQ6kK1s3Ihti"
@@ -191,7 +191,7 @@
       ],
       "date_added": "2021-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 173733,
       "name": "Bullet - Single Version",
       "url": "https://open.spotify.com/track/1R1B4ToHa8KZ4LAObK12Pv"
@@ -421,7 +421,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": "2022-11-23",
       "duration_ms": 265573,
       "name": "Fallin'",
       "url": "https://open.spotify.com/track/5H1KBkH6YC1qo8RXlLDeuw"
@@ -461,7 +461,7 @@
       ],
       "date_added": "2021-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 233760,
       "name": "Fight Like A Brave",
       "url": "https://open.spotify.com/track/6NeRpRTcFftvt3j1vF4Pcw"
@@ -487,6 +487,28 @@
       "duration_ms": 241240,
       "name": "Flyentology",
       "url": "https://open.spotify.com/track/4eWZDgaawyC8nOrvp59alW"
+    },
+    {
+      "album": {
+        "name": "Remember That You Will Die",
+        "url": "https://open.spotify.com/album/1BJtoy1VgHMMvotBwvylJ5"
+      },
+      "artists": [
+        {
+          "name": "Polyphia",
+          "url": "https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ"
+        },
+        {
+          "name": "$NOT",
+          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151318,
+      "name": "Fuck Around and Find Out (feat. $NOT)",
+      "url": "https://open.spotify.com/track/4iUNFztAZqeaKvxvJQ8J2V"
     },
     {
       "album": {
@@ -787,7 +809,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 229266,
       "name": "I Love You Mary Jane",
       "url": "https://open.spotify.com/track/4eObWNJwTvfQe66wIzfHjb"
@@ -927,7 +949,7 @@
       ],
       "date_added": "2021-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": null,
       "duration_ms": 182960,
       "name": "it\u2019s a bad dream (Feat. Good Charlotte)",
       "url": "https://open.spotify.com/track/4o2pCUcxHc8wabzbNi5naZ"
@@ -949,7 +971,7 @@
       ],
       "date_added": "2021-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 262160,
       "name": "Just Another Victim",
       "url": "https://open.spotify.com/track/4RLIujooyQaBKKLXPB5LnQ"
@@ -1135,6 +1157,40 @@
       "duration_ms": 193080,
       "name": "Let's Go",
       "url": "https://open.spotify.com/track/19xSVTy7c5jBGmHHgVXNbg"
+    },
+    {
+      "album": {
+        "name": "Best Drummers",
+        "url": "https://open.spotify.com/album/34VAnFQtXFA0t19PRypfZT"
+      },
+      "artists": [
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+        },
+        {
+          "name": "Yelawolf",
+          "url": "https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57"
+        },
+        {
+          "name": "Twista",
+          "url": "https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS"
+        },
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 193080,
+      "name": "Let's Go",
+      "url": "https://open.spotify.com/track/1jJ9Qn8kGcPYBEpU7gbiKn"
     },
     {
       "album": {
@@ -1441,6 +1497,24 @@
       "duration_ms": 201666,
       "name": "Play Me (feat. Nas)",
       "url": "https://open.spotify.com/track/6ODYbfpkSM3AiZ0Fz4V5Ls"
+    },
+    {
+      "album": {
+        "name": "At Night We Live",
+        "url": "https://open.spotify.com/album/1hHLV0qtV4X9O1iAoVQP3i"
+      },
+      "artists": [
+        {
+          "name": "Far",
+          "url": "https://open.spotify.com/artist/0GQXHlIz6zMT0IeXQq26Pt"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-08",
+      "duration_ms": 262746,
+      "name": "Pony",
+      "url": "https://open.spotify.com/track/108U9FAOtfHOAIGdHG12Fc"
     },
     {
       "album": {
@@ -1871,7 +1945,7 @@
       ],
       "date_added": "2021-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 227749,
       "name": "Sunrise Trailer Park (feat. Machine Gun Kelly)",
       "url": "https://open.spotify.com/track/19glo6zeI6mUdELLmCIYq8"
@@ -1945,7 +2019,7 @@
       ],
       "date_added": "2021-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 173132,
       "name": "the ground below (feat. Royal Blood) - Royal Jewels Mix",
       "url": "https://open.spotify.com/track/0ZihFuThMaeARjmxTsoNFe"
@@ -2073,7 +2147,7 @@
       ],
       "date_added": "2021-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 238066,
       "name": "We Made It (feat. Linkin Park)",
       "url": "https://open.spotify.com/track/26jVcJqG66nj36jRqPBp2U"
@@ -2113,7 +2187,7 @@
       ],
       "date_added": "2021-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": "2022-11-13",
       "duration_ms": 145573,
       "name": "What's My Age Again? / A Milli",
       "url": "https://open.spotify.com/track/29SvTTSIa1hdulOzztjBDw"
@@ -2187,6 +2261,24 @@
       "duration_ms": 172666,
       "name": "Word Up!",
       "url": "https://open.spotify.com/track/1pHPpLVH2XEN0xYRoQs4wq"
+    },
+    {
+      "album": {
+        "name": "A Thousand Suns",
+        "url": "https://open.spotify.com/album/113yjuFZEqkkbuLi4sEBxo"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250586,
+      "name": "Wretches and Kings",
+      "url": "https://open.spotify.com/track/4uqacT1xJ7UhPJAMAcb25A"
     },
     {
       "album": {

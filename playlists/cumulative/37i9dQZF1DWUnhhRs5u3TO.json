@@ -199,7 +199,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-07",
+      "date_removed": "2022-11-13",
       "duration_ms": 256872,
       "name": "Addicted To Pain",
       "url": "https://open.spotify.com/track/74ODL6xFR2erTu2mvXFIDz"
@@ -415,7 +415,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 187560,
       "name": "Back in the Bizz",
       "url": "https://open.spotify.com/track/6dcxA7XvgrpD1ncyqdt4vh"
@@ -519,6 +519,10 @@
         {
           "name": "Knocked Loose",
           "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
+        },
+        {
+          "name": "Counterparts",
+          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
         }
       ],
       "date_added": "2022-07-13",
@@ -649,7 +653,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 207746,
       "name": "Blood",
       "url": "https://open.spotify.com/track/27ce3PuoDdndLsktG0RvfV"
@@ -937,7 +941,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": "2022-11-13",
       "duration_ms": 380410,
       "name": "Chronos",
       "url": "https://open.spotify.com/track/4oYNIBkL3n5SRR99kfGV5Z"
@@ -977,6 +981,24 @@
       "duration_ms": 362093,
       "name": "Cirice",
       "url": "https://open.spotify.com/track/4pLyx7CeNx3MgaSddwvn48"
+    },
+    {
+      "album": {
+        "name": "Meliora (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 362093,
+      "name": "Cirice",
+      "url": "https://open.spotify.com/track/64l9IXCqGpYpp4ZXQY5ch6"
     },
     {
       "album": {
@@ -1225,7 +1247,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": "2022-11-14",
       "duration_ms": 225040,
       "name": "Death Is Not Defeat",
       "url": "https://open.spotify.com/track/7xpfgUe2sxoBx7CFygbTPg"
@@ -1319,6 +1341,24 @@
       "duration_ms": 115413,
       "name": "Delusions of Saviour",
       "url": "https://open.spotify.com/track/06WUUNf7q18NZfjIsQFsfa"
+    },
+    {
+      "album": {
+        "name": "Speaker Of The Dead",
+        "url": "https://open.spotify.com/album/4BcTytmn7rMtxg2mESczbQ"
+      },
+      "artists": [
+        {
+          "name": "Emmure",
+          "url": "https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 181666,
+      "name": "Demons With Ryu",
+      "url": "https://open.spotify.com/track/2AdDWvTyoSIRTH9cvAjW3s"
     },
     {
       "album": {
@@ -1513,7 +1553,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 272767,
       "name": "Drunken Dwarves",
       "url": "https://open.spotify.com/track/4qxK1lnNoYm1kevG69mhHU"
@@ -1585,7 +1625,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-03",
+      "date_removed": "2022-11-13",
       "duration_ms": 228480,
       "name": "Electroheart",
       "url": "https://open.spotify.com/track/36KH2r0JLzix1WKHURR2MY"
@@ -2276,6 +2316,24 @@
     },
     {
       "album": {
+        "name": "Blessed & Possessed",
+        "url": "https://open.spotify.com/album/3Mm2pcqW8ZGdl4aKJi4ocm"
+      },
+      "artists": [
+        {
+          "name": "Powerwolf",
+          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210600,
+      "name": "Higher Than Heaven",
+      "url": "https://open.spotify.com/track/0wJVBMndRGBHrYeBPHc8rd"
+    },
+    {
+      "album": {
         "name": "For We Are Many",
         "url": "https://open.spotify.com/album/265S1PnneYr8bc7LH3wxxt"
       },
@@ -2287,7 +2345,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-18",
+      "date_removed": null,
       "duration_ms": 177053,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/5qTjvpAfdtyzauTprzgKao"
@@ -2874,6 +2932,28 @@
     },
     {
       "album": {
+        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1",
+        "url": "https://open.spotify.com/album/08BcCP01pQYy7IlXspguq0"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        },
+        {
+          "name": "Rob Halford",
+          "url": "https://open.spotify.com/artist/4DaPmVnhvkVzcoWvXItWKO"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 246209,
+      "name": "Lift Me Up",
+      "url": "https://open.spotify.com/track/4EjvoRrU4ShAP0XcvHfld2"
+    },
+    {
+      "album": {
         "name": "The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 1",
         "url": "https://open.spotify.com/album/6vMTdFzBPjyrBSFkCvjUh3"
       },
@@ -2921,7 +3001,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 193973,
       "name": "Lights, Camera, Action",
       "url": "https://open.spotify.com/track/739dWSjuCCJP9K5NXS2Ffa"
@@ -2943,6 +3023,24 @@
       "duration_ms": 250330,
       "name": "Lines of Your Hands",
       "url": "https://open.spotify.com/track/3jUMF7U8BUj0EC4ImQVzTZ"
+    },
+    {
+      "album": {
+        "name": "Unto the Locust (Special Edition)",
+        "url": "https://open.spotify.com/album/4CfoCZczl1vC3FPOtPVsZ3"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 456312,
+      "name": "Locust",
+      "url": "https://open.spotify.com/track/16ccVhYWDadLROREZIUH08"
     },
     {
       "album": {
@@ -3083,10 +3181,28 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 273194,
       "name": "Lost In The Static",
       "url": "https://open.spotify.com/track/5QLH7zAdcAJLgR25gtvtoK"
+    },
+    {
+      "album": {
+        "name": "Dig Deep",
+        "url": "https://open.spotify.com/album/5Y34qlvVSVLWVNr5cyLB4K"
+      },
+      "artists": [
+        {
+          "name": "After The Burial",
+          "url": "https://open.spotify.com/artist/0uNj4RxFjG0iVPlZS753en"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273194,
+      "name": "Lost In The Static",
+      "url": "https://open.spotify.com/track/7zKoAeplPMS3bcqIZ4crp4"
     },
     {
       "album": {
@@ -3451,7 +3567,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 209786,
       "name": "No Grave but the Sea",
       "url": "https://open.spotify.com/track/5ZOCDXK5pMJ3n3zBPTp1uT"
@@ -3487,10 +3603,28 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 173973,
       "name": "No Surrender",
       "url": "https://open.spotify.com/track/1Fr7OlVZrc3mDvru8j2cFi"
+    },
+    {
+      "album": {
+        "name": "Laugh Tracks",
+        "url": "https://open.spotify.com/album/1WDAhs6x27Am5mXxl2PL4s"
+      },
+      "artists": [
+        {
+          "name": "Knocked Loose",
+          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218068,
+      "name": "Oblivions Peak",
+      "url": "https://open.spotify.com/track/0KD6jtb6aJONOh3wrClVRk"
     },
     {
       "album": {
@@ -3667,7 +3801,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-11-13",
       "duration_ms": 277714,
       "name": "Perennial",
       "url": "https://open.spotify.com/track/2eqFIWCNNKU94iFUvBCOMR"
@@ -3721,7 +3855,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 356306,
       "name": "Planets",
       "url": "https://open.spotify.com/track/4BqYQ1WQ0GFE1xmIaduKLi"
@@ -4515,7 +4649,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-02",
+      "date_removed": null,
       "duration_ms": 263826,
       "name": "Sin\u00e9ad",
       "url": "https://open.spotify.com/track/6sI8ojHlABbk9nvEtPYK5v"
@@ -4605,7 +4739,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": "2022-11-13",
       "duration_ms": 239493,
       "name": "Son of a Wolf",
       "url": "https://open.spotify.com/track/69A78zQYA5z0mqmkNZd7rz"
@@ -4695,7 +4829,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 315360,
       "name": "Spirit",
       "url": "https://open.spotify.com/track/6NlyLv5ytvhE4xOWN47V0g"
@@ -4713,7 +4847,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 239293,
       "name": "Square Hammer",
       "url": "https://open.spotify.com/track/4AzomjMRpr1NMNE90ZIOD6"
@@ -5019,10 +5153,46 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 281332,
       "name": "The Black",
       "url": "https://open.spotify.com/track/4ORXSxr4tV5H6gH5KHAiAh"
+    },
+    {
+      "album": {
+        "name": "The Black",
+        "url": "https://open.spotify.com/album/0IH8nMaCZC4A7DcGR7fW0V"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281332,
+      "name": "The Black",
+      "url": "https://open.spotify.com/track/6GoHTm0vZGTcs7I87HUIdX"
+    },
+    {
+      "album": {
+        "name": "21st Century Rock",
+        "url": "https://open.spotify.com/album/0MTQHpAfLwgahG51aRalCK"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 342821,
+      "name": "The Devil In I",
+      "url": "https://open.spotify.com/track/5boTgkaggB7RKUwj67dS5C"
     },
     {
       "album": {
@@ -5441,7 +5611,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-27",
+      "date_removed": "2022-11-14",
       "duration_ms": 291529,
       "name": "The Pale King",
       "url": "https://open.spotify.com/track/5SEXNeCl0i7Gzkw4kc9ln6"
@@ -6111,7 +6281,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 243720,
       "name": "What Are You Waiting For",
       "url": "https://open.spotify.com/track/0Q4zzvZA2anhHTs0zjwQhy"
@@ -6201,7 +6371,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-14",
+      "date_removed": "2022-11-13",
       "duration_ms": 229940,
       "name": "Wouldn't You Rather",
       "url": "https://open.spotify.com/track/2BJrrLbxGDM26fTpWqBMKU"

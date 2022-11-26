@@ -409,7 +409,7 @@
     {
       "album": {
         "name": "FLOAT",
-        "url": "https://open.spotify.com/album/605rL7SKIddSSuG6klhA6V"
+        "url": "https://open.spotify.com/album/0jxLIJPnHdAKemY2UNXujJ"
       },
       "artists": [
         {
@@ -420,6 +420,24 @@
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 183652,
+      "name": "FLOAT",
+      "url": "https://open.spotify.com/track/06AzqBM9R9aw3BsyEjDC5F"
+    },
+    {
+      "album": {
+        "name": "FLOAT",
+        "url": "https://open.spotify.com/album/605rL7SKIddSSuG6klhA6V"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
       "duration_ms": 183652,
       "name": "FLOAT",
       "url": "https://open.spotify.com/track/3i7OLkVcsYvJI8fLPCFP22"
@@ -803,7 +821,7 @@
     {
       "album": {
         "name": "Like You",
-        "url": "https://open.spotify.com/album/6eXbcBdkpjbvmQnP8OX64e"
+        "url": "https://open.spotify.com/album/1LGPSvjg56zvngewWWvxf7"
       },
       "artists": [
         {
@@ -818,6 +836,28 @@
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 173443,
+      "name": "Like You",
+      "url": "https://open.spotify.com/track/79HRioSXcdx1C1EI0OYhnb"
+    },
+    {
+      "album": {
+        "name": "Like You",
+        "url": "https://open.spotify.com/album/6eXbcBdkpjbvmQnP8OX64e"
+      },
+      "artists": [
+        {
+          "name": "AOBeats",
+          "url": "https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA"
+        },
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
       "duration_ms": 173443,
       "name": "Like You",
       "url": "https://open.spotify.com/track/7yERcsIjjI9EO6AJMG2Rw9"
@@ -1383,7 +1423,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 209453,
-      "name": "Tomorrow \ub0b4\uc77c (With Eric Nam)",
+      "name": "Tomorrow (With Eric Nam)",
       "url": "https://open.spotify.com/track/31vNTboUCMZ36bVU8odUPW"
     },
     {

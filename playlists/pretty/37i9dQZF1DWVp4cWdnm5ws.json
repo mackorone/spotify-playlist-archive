@@ -1,13 +1,77 @@
 {
   "description": "Discover new artists on the horizon.",
-  "num_followers": 58064,
+  "num_followers": 59344,
   "original_name": "RADAR Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ2NzIwMCwwMDAwMDAwMGFlMjc2MWY1MjAyNTc1M2EzYmU4ZDkwMTM3OGZkYTA5",
+  "snapshot_id": "MTY2Njg4NjQwMCwwMDAwMDAwMDVkN2I5YTM4MDc0MmVkNjUzNWI5YTI0ZWMzNDRmMjU2",
   "tracks": [
+    {
+      "added_at": "2022-10-27 16:00:00",
+      "album": {
+        "name": "Pasahili",
+        "url": "https://open.spotify.com/album/1ap5tsIDusVksftqQzTSQL"
+      },
+      "artists": [
+        {
+          "name": "Arthur Miguel",
+          "url": "https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce"
+        }
+      ],
+      "duration_ms": 196428,
+      "name": "Pagbilang Ng Tatlo",
+      "url": "https://open.spotify.com/track/6qLfX65ENPhm38xQruqoVP"
+    },
+    {
+      "added_at": "2022-10-25 06:53:28",
+      "album": {
+        "name": "Risk It",
+        "url": "https://open.spotify.com/album/6krLZc8jaKDnq62ppngT4m"
+      },
+      "artists": [
+        {
+          "name": "Alisson Shore",
+          "url": "https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ"
+        }
+      ],
+      "duration_ms": 225250,
+      "name": "Risk It",
+      "url": "https://open.spotify.com/track/5JsHoy0q0mZutMW27kFq5n"
+    },
+    {
+      "added_at": "2022-10-25 06:54:11",
+      "album": {
+        "name": "Magnet",
+        "url": "https://open.spotify.com/album/1nWk5TI1nkvqIBKhEinUFM"
+      },
+      "artists": [
+        {
+          "name": "BGYO",
+          "url": "https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Magnet",
+      "url": "https://open.spotify.com/track/1geSghgZOCPrcjN2GvGJHS"
+    },
+    {
+      "added_at": "2022-10-25 06:54:11",
+      "album": {
+        "name": "Another Day",
+        "url": "https://open.spotify.com/album/13EhQoTZsk8mfqwbGPG2E8"
+      },
+      "artists": [
+        {
+          "name": "dia mat\u00e9",
+          "url": "https://open.spotify.com/artist/4UcpNyDTbuLdGygQNjuXfd"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/4rCpSyxdUIXPvPsK77p7wE"
+    },
     {
       "added_at": "2022-09-29 16:00:00",
       "album": {
@@ -671,8 +735,8 @@
     {
       "added_at": "2022-09-29 16:00:00",
       "album": {
-        "name": "Eleven:Eleven",
-        "url": "https://open.spotify.com/album/6zHBS4tfhaCbt3MtpIh88I"
+        "name": "3rd Eye",
+        "url": "https://open.spotify.com/album/4AD7IVbMSuXMZWES5pZCKg"
       },
       "artists": [
         {
@@ -681,14 +745,14 @@
         }
       ],
       "duration_ms": 142162,
-      "name": "Eleven:Eleven",
-      "url": "https://open.spotify.com/track/5DqYDCnrEsn1XwcvgFnzuY"
+      "name": "Eleven: Eleven",
+      "url": "https://open.spotify.com/track/6AIX4p3MIsNw1ESu5UtITG"
     },
     {
       "added_at": "2022-09-29 16:00:00",
       "album": {
-        "name": "Twin Flames",
-        "url": "https://open.spotify.com/album/3fgOfjLn4w1J9fmVUJdNEp"
+        "name": "3rd Eye",
+        "url": "https://open.spotify.com/album/4AD7IVbMSuXMZWES5pZCKg"
       },
       "artists": [
         {
@@ -706,7 +770,7 @@
       ],
       "duration_ms": 218720,
       "name": "Twin Flames",
-      "url": "https://open.spotify.com/track/0l0m2RjO5KtBl2fZ4CgmiT"
+      "url": "https://open.spotify.com/track/3vYyA9bj5lVknfqY0PDIEb"
     },
     {
       "added_at": "2022-09-29 16:00:00",

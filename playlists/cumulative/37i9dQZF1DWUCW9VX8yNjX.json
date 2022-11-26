@@ -273,7 +273,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 205320,
       "name": "Arrullo De Estrellas",
       "url": "https://open.spotify.com/track/4yalDD5kuqKZKI3z1rfWqD"
@@ -469,7 +469,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-14",
       "duration_ms": 174426,
       "name": "Cien A\u00f1os",
       "url": "https://open.spotify.com/track/3XeHLWySChbhhvaZFRezpS"
@@ -563,7 +563,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": "2022-11-13",
       "duration_ms": 180529,
       "name": "Cuando Me Digas",
       "url": "https://open.spotify.com/track/2Ry1ma0GI7iRVe2je575HS"
@@ -581,7 +581,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": "2022-11-13",
       "duration_ms": 207533,
       "name": "Cuando M\u00e1s Te Amaba",
       "url": "https://open.spotify.com/track/0znMUux7ItGZNjOwEVzXYu"
@@ -891,7 +891,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 215080,
       "name": "El Privilegio de Amar",
       "url": "https://open.spotify.com/track/05lhZ4XA7TVvRvgK7MSQKp"
@@ -985,7 +985,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 290013,
       "name": "En el Jard\u00edn",
       "url": "https://open.spotify.com/track/3J0rEntEhkv5aE9vbr3VmF"
@@ -1079,7 +1079,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 189706,
       "name": "Estos Celos - En Vivo [Un Azteca en el Azteca]",
       "url": "https://open.spotify.com/track/0w2gzREUayU0MUNSMFrqnf"
@@ -1169,7 +1169,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-10",
+      "date_removed": "2022-11-13",
       "duration_ms": 244880,
       "name": "Hasta En Mis Huesos",
       "url": "https://open.spotify.com/track/1Mg9TGZPjLc9CCV2PonaO8"
@@ -1223,7 +1223,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": null,
       "duration_ms": 257106,
       "name": "Hoy Decid\u00ed Olvidarte (Aunque No Est\u00e9s Conmigo) - En Vivo Desde El Teatro Real",
       "url": "https://open.spotify.com/track/19AnCk8PLWof2cQmTenZof"
@@ -1379,10 +1379,28 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-26",
+      "date_removed": null,
       "duration_ms": 211319,
       "name": "La Dinast\u00eda Fern\u00e1ndez - La Derrota / Volver, Volver",
       "url": "https://open.spotify.com/track/25iwxsxU8XN3bX14JQWiKr"
+    },
+    {
+      "album": {
+        "name": "Sony - Pistas, Vol.5 (Vicente Fern\u00e1ndez)",
+        "url": "https://open.spotify.com/album/48Sq2JtKKlWVxVLEthAxTG"
+      },
+      "artists": [
+        {
+          "name": "Pista",
+          "url": "https://open.spotify.com/artist/2rDUuzjcyzcxPa3KPXixLI"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 169320,
+      "name": "La Ley del Monte",
+      "url": "https://open.spotify.com/track/3bvFmTr1mt1amLF65s41IE"
     },
     {
       "album": {
@@ -2331,7 +2349,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": "2022-11-13",
       "duration_ms": 192120,
       "name": "Para Siempre - En Vivo",
       "url": "https://open.spotify.com/track/271KWDMsmn3f0JoFB1ol6w"
@@ -2616,6 +2634,24 @@
     },
     {
       "album": {
+        "name": "Sony - Pistas, Vol.1 (Vicente Fern\u00e1ndez)",
+        "url": "https://open.spotify.com/album/6X2nbDlNsx9px7AgTPkeia"
+      },
+      "artists": [
+        {
+          "name": "Pista",
+          "url": "https://open.spotify.com/artist/2rDUuzjcyzcxPa3KPXixLI"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 178413,
+      "name": "Que Te Vaya Bonito",
+      "url": "https://open.spotify.com/track/6i8dbaBcyB8twLiOVflpuV"
+    },
+    {
+      "album": {
         "name": "El Idolo De Mexico",
         "url": "https://open.spotify.com/album/33BGnmrvBXEZpkb8NgN1ru"
       },
@@ -2796,6 +2832,24 @@
     },
     {
       "album": {
+        "name": "De Noche - Clasicos A Mi Manera",
+        "url": "https://open.spotify.com/album/7A8jjPIYtiY0ZXhzmd9Oms"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-24",
+      "duration_ms": 173280,
+      "name": "Reg\u00e1lame Esta Noche",
+      "url": "https://open.spotify.com/track/0V0eGJNLJQXPkAp6RTVNmJ"
+    },
+    {
+      "album": {
         "name": "Personalidad",
         "url": "https://open.spotify.com/album/2koi4PWE4rOZHaBrLu4yih"
       },
@@ -2905,7 +2959,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": "2022-11-13",
       "duration_ms": 185653,
       "name": "Se Vende Un Caballo (Remasterizado)",
       "url": "https://open.spotify.com/track/4cgVJry6RX8rkxjR56Rkw2"
@@ -3025,6 +3079,28 @@
       "duration_ms": 228560,
       "name": "S\u00e9 Que Te Duele",
       "url": "https://open.spotify.com/track/2R6r40dVVmkDvCYgan9dGO"
+    },
+    {
+      "album": {
+        "name": "S\u00e9 Que Te Duele",
+        "url": "https://open.spotify.com/album/72Q2xRjzLZawtKzJP7duRP"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        },
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 228560,
+      "name": "S\u00e9 Que Te Duele",
+      "url": "https://open.spotify.com/track/2pUsl7G4TUlklHmCV5L1Gx"
     },
     {
       "album": {
@@ -3165,7 +3241,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": "2022-11-13",
       "duration_ms": 217986,
       "name": "Tienes Que Entender - Live",
       "url": "https://open.spotify.com/track/5AB3Q224aReRDYLIYVJss1"
@@ -3301,7 +3377,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 180733,
-      "name": "Volver Volver",
+      "name": "Volver, Volver",
       "url": "https://open.spotify.com/track/4Fvnz1ZJ86IdqDAepWYPAh"
     },
     {
@@ -3357,6 +3433,24 @@
       "duration_ms": 266000,
       "name": "Yo Nac\u00ed para Amarte",
       "url": "https://open.spotify.com/track/1vXvkOzHi6NtcKUBAVaeNv"
+    },
+    {
+      "album": {
+        "name": "Historia De Un Idolo Vol.II",
+        "url": "https://open.spotify.com/album/6S9uJJ8HUhvHrE42UIdaMH"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 175133,
+      "name": "Yo Quiero Ser",
+      "url": "https://open.spotify.com/track/1Tz8l9vto4vhwzuQHv2Oo5"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "All the Tejano classics for you to enjoy! Cover: Selena",
-  "num_followers": 177018,
+  "num_followers": 180245,
   "original_name": "Tejano Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTAyNDAwMCwwMDAwMDAwMDk4ODQzMjhhMGY5YWFjOGNmN2QwNTlhZmZjZjU0MjJi",
+  "snapshot_id": "MTY0MTAyNDAwMCwwMDAwMDAwMDYwN2Y0YzliMTJkM2EwYWMzYmU5ZGZiZTAzZDZhZTll",
   "tracks": [
     {
       "added_at": "2022-01-01 08:00:00",
@@ -107,18 +107,34 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "La Leyenda (Version Super Deluxe)",
-        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
       },
       "artists": [
         {
-          "name": "Selena y los Dinos",
-          "url": "https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy"
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 189920,
-      "name": "La Llamada - 1993 Version",
-      "url": "https://open.spotify.com/track/0g5m1UJVMWQkNjZk1suW4s"
+      "duration_ms": 314866,
+      "name": "Dreaming Of You",
+      "url": "https://open.spotify.com/track/5EL8hqM8YQJHKKnzGdahly"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Esto Es Lo Nuestro - 20 Exitos",
+        "url": "https://open.spotify.com/album/467yWFddzRSYF4H11tCHdl"
+      },
+      "artists": [
+        {
+          "name": "David Lee Garza",
+          "url": "https://open.spotify.com/artist/38329DTMLBuu9dxx2a8Nke"
+        }
+      ],
+      "duration_ms": 208093,
+      "name": "Te Quiero, Te Amo",
+      "url": "https://open.spotify.com/track/4LieLlRVOkdKbjrj3seQ44"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -155,66 +171,18 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Esto Es Lo Nuestro - 20 Exitos",
-        "url": "https://open.spotify.com/album/467yWFddzRSYF4H11tCHdl"
+        "name": "La Leyenda (Version Super Deluxe)",
+        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
       },
       "artists": [
         {
-          "name": "David Lee Garza",
-          "url": "https://open.spotify.com/artist/38329DTMLBuu9dxx2a8Nke"
+          "name": "Selena y los Dinos",
+          "url": "https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy"
         }
       ],
-      "duration_ms": 208093,
-      "name": "Te Quiero, Te Amo",
-      "url": "https://open.spotify.com/track/4LieLlRVOkdKbjrj3seQ44"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Dreaming Of You",
-        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 314866,
-      "name": "Dreaming Of You",
-      "url": "https://open.spotify.com/track/5EL8hqM8YQJHKKnzGdahly"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "20th Anniversary Series",
-        "url": "https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX"
-      },
-      "artists": [
-        {
-          "name": "La Mafia",
-          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
-        }
-      ],
-      "duration_ms": 209040,
-      "name": "Un Millon de Rosas",
-      "url": "https://open.spotify.com/track/1idB3b2IIfal1DPwOuDQwo"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Back To Basics",
-        "url": "https://open.spotify.com/album/0u2UofQv9iYDou2bLb5adc"
-      },
-      "artists": [
-        {
-          "name": "David Olivarez",
-          "url": "https://open.spotify.com/artist/41WfhF5UfpKXMpkkCXbeCm"
-        }
-      ],
-      "duration_ms": 315266,
-      "name": "Y Te Lo Pido",
-      "url": "https://open.spotify.com/track/4OXelnhgkkiLE05YsnFEuS"
+      "duration_ms": 189920,
+      "name": "La Llamada - 1993 Version",
+      "url": "https://open.spotify.com/track/0g5m1UJVMWQkNjZk1suW4s"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -235,50 +203,18 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Viva Tejano Party Mix",
-        "url": "https://open.spotify.com/album/7btBiEKMNBvPRe0e6HRVe1"
+        "name": "20th Anniversary Series",
+        "url": "https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX"
       },
       "artists": [
         {
-          "name": "David Lee Garza",
-          "url": "https://open.spotify.com/artist/38329DTMLBuu9dxx2a8Nke"
+          "name": "La Mafia",
+          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
         }
       ],
-      "duration_ms": 211146,
-      "name": "Me Vuelvo A Enamorar",
-      "url": "https://open.spotify.com/track/4Uo3KErgqv7GoEBZbAI1wU"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "\u00cdconos 25 \u00c9xitos",
-        "url": "https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 265120,
-      "name": "Ay\u00fadame",
-      "url": "https://open.spotify.com/track/4qC5OxQRMDKxi2NtYkiegc"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Ven Mi Amor",
-        "url": "https://open.spotify.com/album/2hZlBpUoeN4SMo7yJtieX8"
-      },
-      "artists": [
-        {
-          "name": "Ram Herrera",
-          "url": "https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE"
-        }
-      ],
-      "duration_ms": 232533,
-      "name": "Ahora Dile",
-      "url": "https://open.spotify.com/track/51yTzGq5mutXExkKS87nbM"
+      "duration_ms": 209040,
+      "name": "Un Millon de Rosas",
+      "url": "https://open.spotify.com/track/1idB3b2IIfal1DPwOuDQwo"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -295,6 +231,54 @@
       "duration_ms": 187524,
       "name": "Bidi Bidi Bom Bom",
       "url": "https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Viva Tejano Party Mix",
+        "url": "https://open.spotify.com/album/7btBiEKMNBvPRe0e6HRVe1"
+      },
+      "artists": [
+        {
+          "name": "David Lee Garza",
+          "url": "https://open.spotify.com/artist/38329DTMLBuu9dxx2a8Nke"
+        }
+      ],
+      "duration_ms": 211146,
+      "name": "Me Vuelvo A Enamorar",
+      "url": "https://open.spotify.com/track/4Uo3KErgqv7GoEBZbAI1wU"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Back To Basics",
+        "url": "https://open.spotify.com/album/0u2UofQv9iYDou2bLb5adc"
+      },
+      "artists": [
+        {
+          "name": "David Olivarez",
+          "url": "https://open.spotify.com/artist/41WfhF5UfpKXMpkkCXbeCm"
+        }
+      ],
+      "duration_ms": 315266,
+      "name": "Y Te Lo Pido",
+      "url": "https://open.spotify.com/track/4OXelnhgkkiLE05YsnFEuS"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "\u00cdconos 25 \u00c9xitos",
+        "url": "https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 265120,
+      "name": "Ay\u00fadame",
+      "url": "https://open.spotify.com/track/4qC5OxQRMDKxi2NtYkiegc"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -320,29 +304,13 @@
       },
       "artists": [
         {
-          "name": "Selena y los Dinos",
-          "url": "https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy"
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 168493,
-      "name": "No Debes Jugar - 1993 Version",
-      "url": "https://open.spotify.com/track/77OlR5LDh9mwSGctxs6Dn2"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Qui\u00e9n Iba A Pensar (Remastered)",
-        "url": "https://open.spotify.com/album/7nh2gzgcGZDwFBLl11dEFs"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Gonzalez Y Grupo Mazz",
-          "url": "https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq"
-        }
-      ],
-      "duration_ms": 240826,
-      "name": "Qui\u00e9n Iba A Pensar",
-      "url": "https://open.spotify.com/track/5HfaD1ZJHpPyYinCO8NrSU"
+      "duration_ms": 161906,
+      "name": "Baila Esta Cumbia",
+      "url": "https://open.spotify.com/track/3lFGBrRWUxpTfhhq6lGBRw"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -368,29 +336,45 @@
       },
       "artists": [
         {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+          "name": "Selena y los Dinos",
+          "url": "https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy"
         }
       ],
-      "duration_ms": 161906,
-      "name": "Baila Esta Cumbia",
-      "url": "https://open.spotify.com/track/3lFGBrRWUxpTfhhq6lGBRw"
+      "duration_ms": 168493,
+      "name": "No Debes Jugar - 1993 Version",
+      "url": "https://open.spotify.com/track/77OlR5LDh9mwSGctxs6Dn2"
     },
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "\u00cdconos 25 \u00c9xitos",
-        "url": "https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve"
+        "name": "Ven Mi Amor",
+        "url": "https://open.spotify.com/album/2hZlBpUoeN4SMo7yJtieX8"
       },
       "artists": [
         {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+          "name": "Ram Herrera",
+          "url": "https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE"
         }
       ],
-      "duration_ms": 182893,
-      "name": "El Poder De Tus Manos",
-      "url": "https://open.spotify.com/track/5cK8SOO5rp6FTJEaq6ojzN"
+      "duration_ms": 232533,
+      "name": "Ahora Dile",
+      "url": "https://open.spotify.com/track/51yTzGq5mutXExkKS87nbM"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "No Te Olvidare",
+        "url": "https://open.spotify.com/album/3Us3CXsmEyaFYTgqOnCzUy"
+      },
+      "artists": [
+        {
+          "name": "Mazz",
+          "url": "https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA"
+        }
+      ],
+      "duration_ms": 229840,
+      "name": "No Te Olvidar\u00e9",
+      "url": "https://open.spotify.com/track/3baOh8JLoNB3DdO2cBbTSK"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -411,24 +395,24 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Solo Para Ti",
-        "url": "https://open.spotify.com/album/7DW7Kdtf2syoUnwd0z8714"
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
       },
       "artists": [
         {
-          "name": "Mazz",
-          "url": "https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA"
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 252573,
-      "name": "Amigo M\u00edo",
-      "url": "https://open.spotify.com/track/4ITL0FFTc4LRFyvUVeY4CC"
+      "duration_ms": 210626,
+      "name": "Bidi Bidi Bom Bom - 1994 Version",
+      "url": "https://open.spotify.com/track/7bZtI85x9Vw2t6EkvILqkr"
     },
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Siempre Humilde (Remastered)",
-        "url": "https://open.spotify.com/album/76qYJxKZrtShD1Y295OGbl"
+        "name": "Qui\u00e9n Iba A Pensar (Remastered)",
+        "url": "https://open.spotify.com/album/7nh2gzgcGZDwFBLl11dEFs"
       },
       "artists": [
         {
@@ -436,25 +420,25 @@
           "url": "https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq"
         }
       ],
-      "duration_ms": 231600,
-      "name": "Ahora Qu\u00e9 Hago Sin Ti",
-      "url": "https://open.spotify.com/track/1KFfJfpUwweJhjl3PKKUGx"
+      "duration_ms": 240826,
+      "name": "Qui\u00e9n Iba A Pensar",
+      "url": "https://open.spotify.com/track/5HfaD1ZJHpPyYinCO8NrSU"
     },
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Esto Es Lo Nuestro - 20 Exitos",
-        "url": "https://open.spotify.com/album/3phdl28dDCj4AFDgfhKxHw"
+        "name": "\u00cdconos 25 \u00c9xitos",
+        "url": "https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve"
       },
       "artists": [
         {
-          "name": "La Tropa F",
-          "url": "https://open.spotify.com/artist/4SsZpXami0QZZ5ScCsGsL1"
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
         }
       ],
-      "duration_ms": 222306,
-      "name": "L\u00e1grimas",
-      "url": "https://open.spotify.com/track/6iKnCeOWsfBTZxLAtqm2xn"
+      "duration_ms": 169493,
+      "name": "Fuertemente",
+      "url": "https://open.spotify.com/track/5TEzNtE6KmRccDqNosDByw"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -471,38 +455,6 @@
       "duration_ms": 195213,
       "name": "Quiero",
       "url": "https://open.spotify.com/track/5RGZFrGMC8qKIWqZIWAVJZ"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "La Leyenda (Version Super Deluxe)",
-        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
-      },
-      "artists": [
-        {
-          "name": "Selena y los Dinos",
-          "url": "https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy"
-        }
-      ],
-      "duration_ms": 143053,
-      "name": "Besitos",
-      "url": "https://open.spotify.com/track/164h2ksJh1l27JoQH0W9kl"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 210626,
-      "name": "Bidi Bidi Bom Bom - 1994 Version",
-      "url": "https://open.spotify.com/track/7bZtI85x9Vw2t6EkvILqkr"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -587,18 +539,34 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "\u00cdconos 25 \u00c9xitos",
-        "url": "https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve"
+        "name": "La Leyenda (Version Super Deluxe)",
+        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
       },
       "artists": [
         {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+          "name": "Selena y los Dinos",
+          "url": "https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy"
         }
       ],
-      "duration_ms": 169493,
-      "name": "Fuertemente",
-      "url": "https://open.spotify.com/track/5TEzNtE6KmRccDqNosDByw"
+      "duration_ms": 143053,
+      "name": "Besitos",
+      "url": "https://open.spotify.com/track/164h2ksJh1l27JoQH0W9kl"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Solo Para Ti",
+        "url": "https://open.spotify.com/album/7DW7Kdtf2syoUnwd0z8714"
+      },
+      "artists": [
+        {
+          "name": "Mazz",
+          "url": "https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA"
+        }
+      ],
+      "duration_ms": 252573,
+      "name": "Amigo M\u00edo",
+      "url": "https://open.spotify.com/track/4ITL0FFTc4LRFyvUVeY4CC"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -619,18 +587,50 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "No Te Olvidare",
-        "url": "https://open.spotify.com/album/3Us3CXsmEyaFYTgqOnCzUy"
+        "name": "Siempre Humilde (Remastered)",
+        "url": "https://open.spotify.com/album/76qYJxKZrtShD1Y295OGbl"
       },
       "artists": [
         {
-          "name": "Mazz",
-          "url": "https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA"
+          "name": "Jimmy Gonzalez Y Grupo Mazz",
+          "url": "https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq"
         }
       ],
-      "duration_ms": 229840,
-      "name": "No Te Olvidar\u00e9",
-      "url": "https://open.spotify.com/track/3baOh8JLoNB3DdO2cBbTSK"
+      "duration_ms": 231600,
+      "name": "Ahora Qu\u00e9 Hago Sin Ti",
+      "url": "https://open.spotify.com/track/1KFfJfpUwweJhjl3PKKUGx"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "\u00cdconos 25 \u00c9xitos",
+        "url": "https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 182893,
+      "name": "El Poder De Tus Manos",
+      "url": "https://open.spotify.com/track/5cK8SOO5rp6FTJEaq6ojzN"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Esto Es Lo Nuestro - 20 Exitos",
+        "url": "https://open.spotify.com/album/3phdl28dDCj4AFDgfhKxHw"
+      },
+      "artists": [
+        {
+          "name": "La Tropa F",
+          "url": "https://open.spotify.com/artist/4SsZpXami0QZZ5ScCsGsL1"
+        }
+      ],
+      "duration_ms": 222306,
+      "name": "L\u00e1grimas",
+      "url": "https://open.spotify.com/track/6iKnCeOWsfBTZxLAtqm2xn"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -683,18 +683,18 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Puro Tejano Gold",
-        "url": "https://open.spotify.com/album/1PrA59M1gA4Pn8sqilMhI7"
+        "name": "30 Exitos Insuperables",
+        "url": "https://open.spotify.com/album/0CS97ASQq48DyzbQt6IluV"
       },
       "artists": [
         {
-          "name": "David Lee Garza",
-          "url": "https://open.spotify.com/artist/38329DTMLBuu9dxx2a8Nke"
+          "name": "Mazz",
+          "url": "https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA"
         }
       ],
-      "duration_ms": 186706,
-      "name": "Tonta",
-      "url": "https://open.spotify.com/track/5fLsWE6O9kHLY7MflY1Gh8"
+      "duration_ms": 274426,
+      "name": "Est\u00fapido Rom\u00e1ntico",
+      "url": "https://open.spotify.com/track/5DGCz0pG9SrJpIps43xyod"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -715,18 +715,34 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "30 Exitos Insuperables",
-        "url": "https://open.spotify.com/album/0CS97ASQq48DyzbQt6IluV"
+        "name": "Puro Tejano Gold",
+        "url": "https://open.spotify.com/album/1PrA59M1gA4Pn8sqilMhI7"
       },
       "artists": [
         {
-          "name": "Mazz",
-          "url": "https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA"
+          "name": "David Lee Garza",
+          "url": "https://open.spotify.com/artist/38329DTMLBuu9dxx2a8Nke"
         }
       ],
-      "duration_ms": 274426,
-      "name": "Est\u00fapido Rom\u00e1ntico",
-      "url": "https://open.spotify.com/track/5DGCz0pG9SrJpIps43xyod"
+      "duration_ms": 186706,
+      "name": "Tonta",
+      "url": "https://open.spotify.com/track/5fLsWE6O9kHLY7MflY1Gh8"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Si Me Faltas Tu (Remastered)",
+        "url": "https://open.spotify.com/album/3a3u36KzWbTPclPqE82eYB"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Gonzalez Y Grupo Mazz",
+          "url": "https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq"
+        }
+      ],
+      "duration_ms": 251903,
+      "name": "Yo Te Voy A Amar",
+      "url": "https://open.spotify.com/track/60PDeZGuhX1YqmBdMcxNQ1"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -747,18 +763,18 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Si Me Faltas Tu (Remastered)",
-        "url": "https://open.spotify.com/album/3a3u36KzWbTPclPqE82eYB"
+        "name": "Pasion",
+        "url": "https://open.spotify.com/album/3ySyGfsLT8Y4naB0iKo7PS"
       },
       "artists": [
         {
-          "name": "Jimmy Gonzalez Y Grupo Mazz",
-          "url": "https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq"
+          "name": "Elsa Garcia",
+          "url": "https://open.spotify.com/artist/1ueN9z9M3Xyk27jcjn8tLE"
         }
       ],
-      "duration_ms": 251903,
-      "name": "Yo Te Voy A Amar",
-      "url": "https://open.spotify.com/track/60PDeZGuhX1YqmBdMcxNQ1"
+      "duration_ms": 217146,
+      "name": "Todav\u00eda",
+      "url": "https://open.spotify.com/track/4CSwCfn6qCuXvnhxvarnG7"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -795,18 +811,18 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Pasion",
-        "url": "https://open.spotify.com/album/3ySyGfsLT8Y4naB0iKo7PS"
+        "name": "30 Exitos Insuperables",
+        "url": "https://open.spotify.com/album/0CS97ASQq48DyzbQt6IluV"
       },
       "artists": [
         {
-          "name": "Elsa Garcia",
-          "url": "https://open.spotify.com/artist/1ueN9z9M3Xyk27jcjn8tLE"
+          "name": "Mazz",
+          "url": "https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA"
         }
       ],
-      "duration_ms": 217146,
-      "name": "Todav\u00eda",
-      "url": "https://open.spotify.com/track/4CSwCfn6qCuXvnhxvarnG7"
+      "duration_ms": 222373,
+      "name": "Qu\u00e9 Porqu\u00e9 Te Quiero?",
+      "url": "https://open.spotify.com/track/4dClbOgXHbh91ZOanebHVw"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -855,22 +871,6 @@
       "duration_ms": 241560,
       "name": "Maldito Amor",
       "url": "https://open.spotify.com/track/4AKEDdVpAKnEGCcAob2fCj"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "30 Exitos Insuperables",
-        "url": "https://open.spotify.com/album/0CS97ASQq48DyzbQt6IluV"
-      },
-      "artists": [
-        {
-          "name": "Mazz",
-          "url": "https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA"
-        }
-      ],
-      "duration_ms": 222373,
-      "name": "Qu\u00e9 Porqu\u00e9 Te Quiero?",
-      "url": "https://open.spotify.com/track/4dClbOgXHbh91ZOanebHVw"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -963,34 +963,18 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Con un Nudo en la Garganta",
-        "url": "https://open.spotify.com/album/0S5NBCcSyYQlHRijkiCldk"
+        "name": "ANTHOLOGY: BACK IN THE DAY",
+        "url": "https://open.spotify.com/album/23oqTk9aC9aeA1iKzPDBRE"
       },
       "artists": [
         {
-          "name": "Joe Bravo",
-          "url": "https://open.spotify.com/artist/2OVwFpzZV7P8GJWVFF7n1Y"
+          "name": "Jay P\u00e9rez",
+          "url": "https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC"
         }
       ],
-      "duration_ms": 223506,
-      "name": "Con un Nudo en la Garganta",
-      "url": "https://open.spotify.com/track/0tWVo41LuScCrbfZjYDz6u"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Mucho Mas Que Amor",
-        "url": "https://open.spotify.com/album/3LeSzG6DuuxpKdq48olrny"
-      },
-      "artists": [
-        {
-          "name": "Ram Herrera",
-          "url": "https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE"
-        }
-      ],
-      "duration_ms": 205266,
-      "name": "Eres Mi Todo",
-      "url": "https://open.spotify.com/track/0bWKrBW9avAHSqsgYa19nE"
+      "duration_ms": 205626,
+      "name": "Poquito A Poco",
+      "url": "https://open.spotify.com/track/27J7T92kctWB7YBi5SKTSo"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -1015,22 +999,6 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "15 De Coleccion",
-        "url": "https://open.spotify.com/album/568Sm7sPxPWEUx0IwQUujI"
-      },
-      "artists": [
-        {
-          "name": "Gary Hobbs",
-          "url": "https://open.spotify.com/artist/274Y6HvCIUkt5pi7jPWRke"
-        }
-      ],
-      "duration_ms": 221826,
-      "name": "Por Favor Corazon",
-      "url": "https://open.spotify.com/track/08Diwy2s9AX6PY8s87QWYE"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
         "name": "Live At Fiesta Market Square (Remastered)",
         "url": "https://open.spotify.com/album/3U5iUIQPmY7sOammCJIW3C"
       },
@@ -1051,34 +1019,34 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "ANTHOLOGY: BACK IN THE DAY",
-        "url": "https://open.spotify.com/album/23oqTk9aC9aeA1iKzPDBRE"
+        "name": "Mucho Mas Que Amor",
+        "url": "https://open.spotify.com/album/3LeSzG6DuuxpKdq48olrny"
       },
       "artists": [
         {
-          "name": "Jay P\u00e9rez",
-          "url": "https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC"
+          "name": "Ram Herrera",
+          "url": "https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE"
         }
       ],
-      "duration_ms": 205626,
-      "name": "Poquito A Poco",
-      "url": "https://open.spotify.com/track/27J7T92kctWB7YBi5SKTSo"
+      "duration_ms": 205266,
+      "name": "Eres Mi Todo",
+      "url": "https://open.spotify.com/track/0bWKrBW9avAHSqsgYa19nE"
     },
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Tejano Award Nominees",
-        "url": "https://open.spotify.com/album/593414IuPj6r0WKUnqAdBy"
+        "name": "15 De Coleccion",
+        "url": "https://open.spotify.com/album/568Sm7sPxPWEUx0IwQUujI"
       },
       "artists": [
         {
-          "name": "Pete Astudillo",
-          "url": "https://open.spotify.com/artist/5wB9uZHnYDudrgfxOXUsjY"
+          "name": "Gary Hobbs",
+          "url": "https://open.spotify.com/artist/274Y6HvCIUkt5pi7jPWRke"
         }
       ],
-      "duration_ms": 230896,
-      "name": "Como Te Extrano",
-      "url": "https://open.spotify.com/track/1xXacwtojBabEce1MTLvkY"
+      "duration_ms": 221826,
+      "name": "Por Favor Corazon",
+      "url": "https://open.spotify.com/track/08Diwy2s9AX6PY8s87QWYE"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -1103,18 +1071,18 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "12 Favoritas",
-        "url": "https://open.spotify.com/album/6AAXyPYIMRcRSJjsboOZdk"
+        "name": "Con un Nudo en la Garganta",
+        "url": "https://open.spotify.com/album/0S5NBCcSyYQlHRijkiCldk"
       },
       "artists": [
         {
-          "name": "Ram Herrera",
-          "url": "https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE"
+          "name": "Joe Bravo",
+          "url": "https://open.spotify.com/artist/2OVwFpzZV7P8GJWVFF7n1Y"
         }
       ],
-      "duration_ms": 240146,
-      "name": "Amor Querido",
-      "url": "https://open.spotify.com/track/3Wx6K6u4Q13a4lbdCLlXjR"
+      "duration_ms": 223506,
+      "name": "Con un Nudo en la Garganta",
+      "url": "https://open.spotify.com/track/0tWVo41LuScCrbfZjYDz6u"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -1131,6 +1099,38 @@
       "duration_ms": 167279,
       "name": "Que Tristeza",
       "url": "https://open.spotify.com/track/2oM0iRiHYqh7SDzjIKWRap"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Tejano Award Nominees",
+        "url": "https://open.spotify.com/album/593414IuPj6r0WKUnqAdBy"
+      },
+      "artists": [
+        {
+          "name": "Pete Astudillo",
+          "url": "https://open.spotify.com/artist/5wB9uZHnYDudrgfxOXUsjY"
+        }
+      ],
+      "duration_ms": 230896,
+      "name": "Como Te Extrano",
+      "url": "https://open.spotify.com/track/1xXacwtojBabEce1MTLvkY"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "12 Favoritas",
+        "url": "https://open.spotify.com/album/6AAXyPYIMRcRSJjsboOZdk"
+      },
+      "artists": [
+        {
+          "name": "Ram Herrera",
+          "url": "https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE"
+        }
+      ],
+      "duration_ms": 240146,
+      "name": "Amor Querido",
+      "url": "https://open.spotify.com/track/3Wx6K6u4Q13a4lbdCLlXjR"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
+        "name": "Live-The Last Concert",
+        "url": "https://open.spotify.com/album/4wSvpY9bfD8UuhUPFz3Mpt"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 463266,
+      "name": "Disco Medley - Live From Astrodome",
+      "url": "https://open.spotify.com/track/1WQul0oQcE4hUTW40G1gWu"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
         "name": "Entre A Mi Mundo",
         "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 284973,
       "name": "Buenos Amigos",
       "url": "https://open.spotify.com/track/1qd1ipkgtdhbiJ2UiAH1HM"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Live-The Last Concert",
-        "url": "https://open.spotify.com/album/4wSvpY9bfD8UuhUPFz3Mpt"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 463266,
-      "name": "Disco Medley - Live From Astrodome",
-      "url": "https://open.spotify.com/track/1WQul0oQcE4hUTW40G1gWu"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
+        "name": "Ven Conmigo - Selena 20 Years Of Music",
+        "url": "https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 196626,
+      "name": "Ya Ves",
+      "url": "https://open.spotify.com/track/05pItgL5lq3H5H4RjtSRdw"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
         "name": "Ens\u00e9\u00f1ame",
         "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 184920,
       "name": "La Rosa",
       "url": "https://open.spotify.com/track/0HiDvAV1NFSt1rLXvrTO49"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Lo Mejor De\u2026",
-        "url": "https://open.spotify.com/album/2M4sLkOugMuMYosMaM0X6f"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 167040,
-      "name": "Si Una Vez",
-      "url": "https://open.spotify.com/track/6XFduBZIOMyOV8sCcHuYzb"
     }
   ],
   "unique_name": "Tejano Classics",

@@ -4,10 +4,11 @@
 
 > Featuring the 'Noteable' songwriters who create your favorite songs\. Cover: Ashley Gorley
 
-211 songs - 12 hr 18 min - [published](https://open.spotify.com/playlist/6gIQ4ulEp086lqaMqKxqFK)
+216 songs - 12 hr 34 min - [published](https://open.spotify.com/playlist/6gIQ4ulEp086lqaMqKxqFK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [25 MPH Town](https://open.spotify.com/track/12hKwLLwQx391fBOUqqOu9) | [Pillbox Patti](https://open.spotify.com/artist/1tAy2qZQdjG9ulfI9btLoO) | [Florida](https://open.spotify.com/album/0BpdoGPdDKVFgKl2u0h4UG) | 3:48 | 2022-10-14 |  |
 | [4 Goodyears](https://open.spotify.com/track/4xc3GpeAvWB7IXbfdKzwxf) | [Brett Sheroky](https://open.spotify.com/artist/4pj3a0izNOahe0XGIuqAQB) | [4 Goodyears](https://open.spotify.com/album/00KSXGcqRlZxhAvrTohEBB) | 4:21 | 2022-01-01 |  |
 | [All I Need to See](https://open.spotify.com/track/1nggCj00NY7GRx0CyWcMKY) | [Mitch Rossell](https://open.spotify.com/artist/0cEVpgfIpUSsUKUMsRrhtZ) | [All I Need to See](https://open.spotify.com/album/748lkYrb1zeh6xMQ1ewWJ1) | 4:28 | 2022-01-01 |  |
 | [All The Things](https://open.spotify.com/track/24m5SLNQgZ6VDxvgF1LdxV) | [Nicolle Galyon](https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn) | [All The Things](https://open.spotify.com/album/2pURs14Vqk24X1f9QnDb7C) | 2:40 | 2022-01-01 |  |
@@ -121,7 +122,8 @@
 | [My Kinda Livin’ \(HARDY feat\. Hunter Phelps, Jameson Rodgers\)](https://open.spotify.com/track/17E5XweAlvnU7pkghMgvMs) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Hunter Phelps](https://open.spotify.com/artist/3TiUMPXO9xfV406Vv8qYXq), [Jameson Rodgers](https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN) | [HIXTAPE: Vol\. 1](https://open.spotify.com/album/5e3Kjap4XBZ44dc36AqtEo) | 3:19 | 2022-02-28 |  |
 | [My Little Girl \(feat\. Tim McGraw\)](https://open.spotify.com/track/2BLRBXXR0Rg24YDpDMisVk) | [Tom Douglas](https://open.spotify.com/artist/4gw3hsOJ9ruPCU8EVQhxEp), [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Love, Tom \(Inspired By The Motion Picture\)](https://open.spotify.com/album/1bw3KyuU37Gj46m7qKH8eK) | 3:38 | 2022-02-25 |  |
 | [My Next Thirty Years](https://open.spotify.com/track/1WymSpaye4wkxta54wL8Bf) | [Phil Vassar](https://open.spotify.com/artist/1XhhO2dTs2fKyhILj0aam6) | [Greatest Hits Volume 1](https://open.spotify.com/album/3VGDlSx2xTIllFz4qxMmqM) | 3:32 | 2022-01-01 |  |
-| [My Poor Mama](https://open.spotify.com/track/6jaCDrO3yOtQkxz98cU5Wl) | [Corey Crowder](https://open.spotify.com/artist/0Om7HtVeWrbWwWdOo1W5rf) | [My Poor Mama](https://open.spotify.com/album/4Ur3S8uG8k3sKgDZAEUKQ4) | 3:01 | 2022-01-01 |  |
+| [My Poor Mama](https://open.spotify.com/track/2eDD02w1Nm7nAelUAu1p2v) | [Corey Crowder](https://open.spotify.com/artist/0Om7HtVeWrbWwWdOo1W5rf) | [My Poor Mama](https://open.spotify.com/album/72dBMGHSenphYYr0Sv0wUf) | 3:01 | 2022-10-01 |  |
+| [My Poor Mama](https://open.spotify.com/track/6jaCDrO3yOtQkxz98cU5Wl) | [Corey Crowder](https://open.spotify.com/artist/0Om7HtVeWrbWwWdOo1W5rf) | [My Poor Mama](https://open.spotify.com/album/4Ur3S8uG8k3sKgDZAEUKQ4) | 3:01 | 2022-01-01 | 2022-10-14 |
 | [My Town](https://open.spotify.com/track/4GM3EYcV2XGSvNI2vE0p2J) | [Jeffrey Steele](https://open.spotify.com/artist/2Znov2bFtJO4sppc5bSa2d) | [Gold\. Platinum\. Chrome And Steele](https://open.spotify.com/album/0PDRvOfhJAm8mEASzCl3Rj) | 4:14 | 2022-01-01 |  |
 | [Nashville, TN](https://open.spotify.com/track/0fLeL6TVmrMgDMW1iC1puo) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 3:35 | 2022-02-28 |  |
 | [Neon](https://open.spotify.com/track/51oFJ8Q2KufbTRnBSfsDjX) | [Shane McAnally](https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C) | [Original Songwriter Demos](https://open.spotify.com/album/4pntx2ihrs8TnmGP1QmDSA) | 3:40 | 2022-02-28 |  |
@@ -166,6 +168,7 @@
 | [Still Not over You](https://open.spotify.com/track/733l03FgEyPyOORfxExyyN) | [Brinley Addington](https://open.spotify.com/artist/612uTeOHnxzxgaaYCj3Qmb) | [Still Not over You](https://open.spotify.com/album/1fdvxTdyKVqhBj1dDa8Pl7) | 3:07 | 2022-02-28 |  |
 | [Stuck in High School](https://open.spotify.com/track/4SeZDz0nFQZTjjDImDTQhS) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Balladeer](https://open.spotify.com/album/34xmomKNR5tpBWAseLhmgX) | 3:11 | 2022-01-01 |  |
 | [Sunrise, Sunburn, Sunset](https://open.spotify.com/track/0kNlf24bhUUKvJ2jkBsH3I) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [EOM \- EP](https://open.spotify.com/album/4vCbBPa24ANSy0MD8BGA8d) | 3:31 | 2022-01-01 |  |
+| [Suwannee](https://open.spotify.com/track/5rTVK41PWQcD1w3yFf58qG) | [Pillbox Patti](https://open.spotify.com/artist/1tAy2qZQdjG9ulfI9btLoO) | [Florida](https://open.spotify.com/album/0BpdoGPdDKVFgKl2u0h4UG) | 3:26 | 2022-10-14 |  |
 | [Swimming Alone](https://open.spotify.com/track/3rGe3ed1wHvPNgAlwNO686) | [Liz Rose](https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT) | [Swimming Alone](https://open.spotify.com/album/6SifWWoghYvzA2Q4n6zAzk) | 3:40 | 2022-01-01 |  |
 | [T\-Shirt](https://open.spotify.com/track/5AAHiCmdVSl83vJVXRCbf0) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Shane McAnally](https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C) | [2016 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/2rfAtTubp83YShEfKUBrKb) | 3:21 | 2022-01-01 |  |
 | [Take Your Time](https://open.spotify.com/track/6B9KlXistEsO9vOLLzeSmq) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Josh Osborne](https://open.spotify.com/artist/1QoLSRhja9IcOQKelE594L) | [2016 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/2rfAtTubp83YShEfKUBrKb) | 4:00 | 2022-01-01 |  |
@@ -204,6 +207,7 @@
 | [Wake up Loving You](https://open.spotify.com/track/1E1LaXgZRkBOljpGXtlR7B) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Old Dominion Originals](https://open.spotify.com/album/5khSHsmQhkTJ1iJr5FdAP8) | 3:48 | 2022-01-01 |  |
 | [Walks On Whiskey](https://open.spotify.com/track/38Kr23AF7ClWkD8Tiew0Vj) | [Brent Anderson](https://open.spotify.com/artist/3Dn6YYnot4nDcpNxvQ23AT) | [Walks On Whiskey](https://open.spotify.com/album/5bQGiywjN2dxEy2pqtPPOY) | 2:37 | 2022-05-06 | 2022-08-28 |
 | [Walks on Whiskey](https://open.spotify.com/track/7C5KYt5hyCqy0kMAq9jbEQ) | [Brent Anderson](https://open.spotify.com/artist/3Dn6YYnot4nDcpNxvQ23AT) | [Walks on Whiskey](https://open.spotify.com/album/2WyX2r0I3bvNlE0lnHUK1c) | 2:37 | 2022-08-19 |  |
+| [Walks on Whiskey](https://open.spotify.com/track/7zaYW6MyoUVFc4BBq223KN) | [Brent Anderson](https://open.spotify.com/artist/3Dn6YYnot4nDcpNxvQ23AT) | [Bloodline](https://open.spotify.com/album/1G02UW5fjyMaWVz8q8zSG1) | 2:37 | 2022-10-14 | 2022-11-13 |
 | [We Are Tonight \- Acoustic Mixtape](https://open.spotify.com/track/5G4upYoNLjklTY6qD32pSf) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Between The Pines \(Acoustic Mixtape\)](https://open.spotify.com/album/0oDDkafimkfmBVssJF2X64) | 2:52 | 2022-02-28 |  |
 | [We Were](https://open.spotify.com/track/4t64dPfqlZa7fFGPSKavId) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [We Were](https://open.spotify.com/album/2Km77rh3Acs42qRQydKwLV) | 3:08 | 2022-02-28 |  |
 | [We Were Us](https://open.spotify.com/track/0pZpHs9BQfy6w11J0VpONW) | [Nicolle Galyon](https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn) | [The Worktapes.](https://open.spotify.com/album/4a4ETcRtvnEvypmzT4CfFd) | 2:48 | 2022-01-01 |  |
@@ -219,5 +223,6 @@
 | [Wild Thing](https://open.spotify.com/track/0DS8J8nibBxG6Ky2VhMhH1) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [Wild Thing](https://open.spotify.com/album/33RnkjYAI2ltETjA3EIAZI) | 2:42 | 2022-08-01 |  |
 | [Wink](https://open.spotify.com/track/3npzejFbPBy7sJIbkvTuZl) | [Bob DiPiero](https://open.spotify.com/artist/3zqhEeEHP3dgmWuWUyJgRP) | [American Made](https://open.spotify.com/album/2kj7dIlQHGTU7QWi8etf6m) | 2:52 | 2022-01-01 |  |
 | [winner.](https://open.spotify.com/track/0nac6fGT0ROzUgG56c9RMZ) | [Nicolle Galyon](https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn) | [winner.](https://open.spotify.com/album/1kWyKD40f10OOX1w68su1O) | 2:58 | 2022-06-06 |  |
+| [You](https://open.spotify.com/track/4qW6aTyYPTuiFtAq4pjJta) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C), [Kate York](https://open.spotify.com/artist/5wONG6j4El6k5iOXQdA0Ha) | [You](https://open.spotify.com/album/07y1wKzh66t1XuJQiIM0Dt) | 3:16 | 2022-11-25 |  |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

@@ -279,7 +279,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": "2022-11-12",
       "duration_ms": 170000,
       "name": "Asuntos Pendientes",
       "url": "https://open.spotify.com/track/6kS0RzghvmItZOz99eutk2"
@@ -895,7 +895,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": "2022-11-14",
       "duration_ms": 319116,
       "name": "Gotas de Amor",
       "url": "https://open.spotify.com/track/3JS1Eq5oS5mPqZjuJSkRCD"
@@ -1065,6 +1065,24 @@
       "duration_ms": 168840,
       "name": "La Ley Y La Trampa",
       "url": "https://open.spotify.com/track/2sb31nQbx4QnFD9FQv2D28"
+    },
+    {
+      "album": {
+        "name": "La Ley y La Trampa",
+        "url": "https://open.spotify.com/album/3zYO2TBoDkiRim2Lpmz0mJ"
+      },
+      "artists": [
+        {
+          "name": "Chaque\u00f1o Palavecino",
+          "url": "https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 173293,
+      "name": "La Ley y La Trampa",
+      "url": "https://open.spotify.com/track/22Lq8kVbpIUJeaqwaWMbc6"
     },
     {
       "album": {
@@ -1981,7 +1999,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-11-13",
       "duration_ms": 246741,
       "name": "Tan Lejos de Mi",
       "url": "https://open.spotify.com/track/1ryLI4hIaYrhhUnJsGNyru"
@@ -2075,7 +2093,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 239365,
       "name": "Todo Ser\u00e1 Mejor",
       "url": "https://open.spotify.com/track/6OPnnk3JYCQNybD4WMH5n5"
@@ -2209,6 +2227,28 @@
       "duration_ms": 237957,
       "name": "Vivo",
       "url": "https://open.spotify.com/track/0Nvnd56uJQpOB104qIEcOM"
+    },
+    {
+      "album": {
+        "name": "Volver A Verte",
+        "url": "https://open.spotify.com/album/14tkcH6vS6AKuOFbGVeyT4"
+      },
+      "artists": [
+        {
+          "name": "Nati Pastorutti",
+          "url": "https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD"
+        },
+        {
+          "name": "El Indio Lucio Rojas",
+          "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136639,
+      "name": "Volver A Verte",
+      "url": "https://open.spotify.com/track/0hYf0QFJF6LSSBIWKozpuK"
     },
     {
       "album": {
@@ -2393,6 +2433,24 @@
       "duration_ms": 272240,
       "name": "Zamba y Acuarela",
       "url": "https://open.spotify.com/track/4M7ODmOvmSny2kBEOgp2cX"
+    },
+    {
+      "album": {
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/5yl4DxJbBo7gq9soEW7fmY"
+      },
+      "artists": [
+        {
+          "name": "Raly Barrionuevo",
+          "url": "https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 273240,
+      "name": "Zamba y Acuarela",
+      "url": "https://open.spotify.com/track/4NuT2p7BwMRM4FwKr7TtEl"
     },
     {
       "album": {

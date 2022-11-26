@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ls3pMfEx4A.md) - [plain]
 
 > Songs that will make you and your kids laugh.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,645 likes - 51 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,917 likes - 51 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ls3pMfEx4A.md) - [plain]
 | 18 | [The Llama Song \- Live](https://open.spotify.com/track/1kFL0C3Dt4SCMl2SiUQn0X) | [GoNoodle](https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f), [Moose Tube](https://open.spotify.com/artist/1OPaMKFqNqlj4VKjPPMIOa) | [Best Of GoNoodle](https://open.spotify.com/album/17qQDHKvpjpMkeZzLgxRrt) | 1:50 |
 | 19 | [Putt Putt Butt Butt](https://open.spotify.com/track/06QdgOu6C18330sXSrcpWR) | [Koo Koo Kanga Roo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Putt Putt Butt Butt](https://open.spotify.com/album/0ksaoAQwf9Q8Wa5mnupwSf) | 3:51 |
 | 20 | [Ridiculous](https://open.spotify.com/track/1YyFEBVK5vitR8gI4t8r0U) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [Los Fabulosos](https://open.spotify.com/album/3gNNCz0Zlz4oWgb1w2SxVp) | 2:46 |
-| 21 | [Kid in a Candy Store](https://open.spotify.com/track/3i6kLnrrhnOnHNGjfMBm7h) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Kid in a Candy Store](https://open.spotify.com/album/6lY2JtBkLSZNdv23wo0zik) | 3:01 |
+| 21 | [Kid in a Candy Store](https://open.spotify.com/track/10PHhsCeV0Wsw1tWFJ5pEe) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Kid in a Candy Store](https://open.spotify.com/album/4MXFo0cqJvqmFQsaxiMozJ) | 3:01 |
 | 22 | [Banana](https://open.spotify.com/track/6e6QHefgDP4oAv7in26DLH) | [Tiny Totz Kidz](https://open.spotify.com/artist/54vwxOSuLxx758lpaUjTst), [3 Rex](https://open.spotify.com/artist/4kI7rI511NvNrpyllBxwvM) | [Banana](https://open.spotify.com/album/0dc65Au78QHfLX9D9A2Zys) | 1:31 |
 | 23 | [What If?](https://open.spotify.com/track/3PhcEftWTk4LNq44v68hpV) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n) | [Easy Breezy!](https://open.spotify.com/album/6eresS8fJq05Eg8bpztUv2) | 2:29 |
 | 24 | [The Art of the Fart](https://open.spotify.com/track/3yLgiW9dJAAxQcvgkcZhfK) | [The Beanies](https://open.spotify.com/artist/1RxCxHiHxD1XN9Jp6LVIkm) | [Big Day Out](https://open.spotify.com/album/6csPppIlLqQgY5H02XpPLE) | 2:36 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ls3pMfEx4A.md) - [plain]
 | 50 | [Scatman \(ski\-ba\-bop\-ba\-dop\-bop\)](https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh) | [Scatman John](https://open.spotify.com/artist/4omQQTNN7ILiMsSB2k9eqX) | [Scatman's World](https://open.spotify.com/album/2MRWFajfjxfLAF3wwmdv5j) | 3:35 |
 | 51 | [B\-I\-N\-G\-O](https://open.spotify.com/track/4xdQOzApn01AUGHYjOOKEn) | [Cooltime Kids](https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ) | [New Year's Eve 2021 with the Frenchies](https://open.spotify.com/album/5pL4VA9ZMhKEstafBfBGYF) | 1:57 |
 
-Snapshot ID: `MTY0NzAxMTgzMywwMDAwMDAwMDYyNmQwNTg0NTdkODQxYTQ1OWZjYWNkM2VkMjVhMDE2`
+Snapshot ID: `MTY0NzAxMTgzMywwMDAwMDAwMGE2MzIxNGJhNzYzYjExNzNiNjNmMTllNjMxMTU4NzY5`

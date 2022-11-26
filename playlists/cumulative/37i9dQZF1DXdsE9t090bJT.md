@@ -4,7 +4,7 @@
 
 > Amor a la mexicana, canciones para dedicarle al amor de tu vida.
 
-120 songs - 6 hr 34 min - [published](https://open.spotify.com/playlist/3YeBxoONeIcuXelnrG78UZ)
+122 songs - 6 hr 41 min - [published](https://open.spotify.com/playlist/3YeBxoONeIcuXelnrG78UZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Bien Me Conoces](https://open.spotify.com/track/2evi3YjhkOYdeE8l6meZtS) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [DEV, Vol\. 2](https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU) | 2:41 | 2022-02-11 |  |
 | [Broche de Oro](https://open.spotify.com/track/1TLyjsg5KO501z8CBgxaHl) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [10+10](https://open.spotify.com/album/6v6mwOBX5lbL9XTPqKFivJ) | 3:34 | 2022-02-11 |  |
 | [Broche de Oro](https://open.spotify.com/track/4MtZvahrxjOq3gPJ5jf9O6) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [10+10](https://open.spotify.com/album/1Ci0JsuA4eNdYVwEyeqRnx) | 3:34 | 2022-02-11 | 2022-07-25 |
+| [Broche de Oro](https://open.spotify.com/track/4WB9JuTaMwjQH11rQ1Y64D) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [Broche de Oro](https://open.spotify.com/album/2jiSvUa6vOsuEk3OXG2VYY) | 3:34 | 2022-02-11 | 2022-11-13 |
 | [Broche de Oro](https://open.spotify.com/track/5bcrq8q2zR0uxxxsUI4Jjf) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [La Banda Grande de la Sultana del Norte](https://open.spotify.com/album/4KCzCPSaveAesQCXJ9u9QZ) | 3:36 | 2022-02-11 |  |
 | [Buscábamos Lo Mismo](https://open.spotify.com/track/17V8HXbGIOST1So1Xsubox) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Buscábamos Lo Mismo](https://open.spotify.com/album/3yQFeFQ1mX2hp7kM6J2SBK) | 2:49 | 2022-02-11 |  |
 | [Como Que Me Enamoro \- En Vivo](https://open.spotify.com/track/7IZ738mnMnhVhxzn8m06qn) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Pistiembre Todo El Año \(En Vivo\)](https://open.spotify.com/album/4Q7M6FhTy0WhQcqHr8uIQt) | 2:57 | 2022-02-11 |  |
@@ -126,6 +127,7 @@
 | [Un Hombre con Suerte](https://open.spotify.com/track/3yoYYOzDtvt3V7vUWNjfC1) | [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Eres Vida](https://open.spotify.com/album/1s9ha8ihTBqdKYjSXK78kC) | 3:24 | 2022-02-11 |  |
 | [Un Hombre con Suerte](https://open.spotify.com/track/5vyF6dCkkt723lam8zBnEL) | [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Eres Vida](https://open.spotify.com/album/1i78f9YQYd2DIvwsvmfEy9) | 3:24 | 2022-02-11 | 2022-07-24 |
 | [Un Hombre Con Suerte](https://open.spotify.com/track/0UwMXuDCCtf8vKJdvJHPK9) | [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Un Hombre Con Suerte](https://open.spotify.com/album/28bVEFymW1UfhlNVCeULkF) | 3:24 | 2022-02-11 | 2022-07-29 |
+| [Un Hombre Con Suerte](https://open.spotify.com/track/4ktSrMvOSaBM8P2V6YZe7p) | [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Un Hombre Con Suerte](https://open.spotify.com/album/0AdEGYE2i1gpvmryCvrgd1) | 3:24 | 2022-02-11 | 2022-11-13 |
 | [Una Palabra](https://open.spotify.com/track/4QTQxPlV59ZEYJZad66d4X) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [El 7 De La Suerte](https://open.spotify.com/album/5p6nXo6us9G1aTqaHLDJV1) | 2:59 | 2022-02-11 |  |
 | [Ya Me Vi](https://open.spotify.com/track/4KutOSvfb2MFvR0ROX4jtS) | [Banda La Ejecutiva de Mazatlan Sinaloa](https://open.spotify.com/artist/6BHFzhrhbK5ogpJ8H2z71Y) | [Ya Me Vi](https://open.spotify.com/album/2yj7jiUObCnbAmUZJroe25) | 2:51 | 2022-02-11 |  |
 

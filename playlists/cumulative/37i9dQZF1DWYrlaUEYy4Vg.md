@@ -4,7 +4,7 @@
 
 > John Mayer's new album Sob Rock and his greatest songs all in one playlist.
 
-64 songs - 4 hr 16 min - [published](https://open.spotify.com/playlist/4uI9CZOpzfYSGgAWYGyd75)
+65 songs - 4 hr 19 min - [published](https://open.spotify.com/playlist/4uI9CZOpzfYSGgAWYGyd75)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Never on the Day You Leave](https://open.spotify.com/track/3TQbr3G3U5wlwEJejmqC1F) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Search for Everything](https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP) | 3:40 | 2021-07-15 |  |
 | [New Light](https://open.spotify.com/track/40FLJc17FMZaPmCQEEZgB0) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [New Light](https://open.spotify.com/album/6AvyYJ6uOBNGvpQrJCHbV1) | 3:36 | 2021-07-15 | 2022-07-29 |
 | [New Light](https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:37 | 2022-03-18 |  |
+| [New Light](https://open.spotify.com/track/41f8HyuxASzuEcEs01x10O) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Treino Pop 2022](https://open.spotify.com/album/1NeZ6oYVALUuygJwW5zvve) | 3:37 | 2022-03-18 | 2022-11-13 |
 | [No Such Thing](https://open.spotify.com/track/6Vecwo7AHst9V2CE3kmwr0) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Room For Squares](https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48) | 3:51 | 2021-07-15 |  |
 | [Paper Doll](https://open.spotify.com/track/5FDh0G5oQ2UD9JxWiDCT1x) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Paradise Valley](https://open.spotify.com/album/712VoD72K500yLhhgqCyVe) | 4:17 | 2021-07-15 |  |
 | [Perfectly Lonely](https://open.spotify.com/track/42dbDZX9bsEGqMZWYmnR7J) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Battle Studies](https://open.spotify.com/album/1V5vQRMWTNGmqwxY8jMVou) | 4:28 | 2021-07-15 |  |

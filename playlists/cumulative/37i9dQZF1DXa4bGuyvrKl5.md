@@ -4,7 +4,7 @@
 
 > Swedish house icons <a href="spotify:artist:6rgEPiKjowlMKZC1DF6W75">Rebecca & Fiona</a> kicking off rave season with their gem filled spring mix!
 
-15 songs - 57 min 31 sec - [published](https://open.spotify.com/playlist/2ksH0mMLjVf7R6ghfBiEBM)
+16 songs - 1 hr 0 min - [published](https://open.spotify.com/playlist/2ksH0mMLjVf7R6ghfBiEBM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Sweetest Delight \- DJ City Remix \- Mixed](https://open.spotify.com/track/76MKwYQhindFzqvpE20gB4) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75), [DJ CITY](https://open.spotify.com/artist/52c8wOVJiBoVy5csR9SSWj) | [Sweetest Delight \- DJ City Remix \(Mixed\)](https://open.spotify.com/album/1DVh6qIDSlQMs5TAEjMcRU) | 4:08 | 2022-05-04 |  |
 | [Tell Me Something Good \- Mixed](https://open.spotify.com/track/1WbGQJrIv5XQXS2nHuurSe) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Tell Me Something Good \(Mixed\)](https://open.spotify.com/album/3fAROdZSAuyTBd5CikWj9K) | 3:57 | 2022-05-04 |  |
 | [The Spirit \- Mixed](https://open.spotify.com/track/26azSPMoA04fXjKZ9QCWJN) | [Mighty Mouse](https://open.spotify.com/artist/7L2YO3SQWLLDsYkpv0Ju4K) | [The Spirit \(Mixed\)](https://open.spotify.com/album/36skNJP9IYHTpSOnykbA3Q) | 6:06 | 2022-05-04 |  |
-| [Work It \- Soulwax Remix \- Mixed](https://open.spotify.com/track/09TVtA9fPa0jLJqQ1XdFAY) | [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF) | [Work It \- Soulwax Remix \(Mixed\)](https://open.spotify.com/album/6xo2o0orlV7C7vfFamE83c) | 2:38 | 2022-05-04 |  |
+| [Work It \- Soulwax Remix \- Mixed](https://open.spotify.com/track/09TVtA9fPa0jLJqQ1XdFAY) | [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF) | [Work It \- Soulwax Remix \(Mixed\)](https://open.spotify.com/album/6xo2o0orlV7C7vfFamE83c) | 2:38 | 2022-05-04 | 2022-10-21 |
+| [Work It \- Soulwax Remix \- Mixed](https://open.spotify.com/track/6wvyWbAOrivrxUrTfS5oPE) | [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Work It \- Soulwax Remix \(Mixed\)](https://open.spotify.com/album/43v2dUNhP1NeuDOa16agam) | 2:38 | 2022-05-04 |  |
 
 \*This playlist was first scraped on 2022-05-14. Prior content cannot be recovered.

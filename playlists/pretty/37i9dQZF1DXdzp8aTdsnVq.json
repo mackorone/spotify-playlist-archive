@@ -1,67 +1,51 @@
 {
-  "description": "Novedades y cl\u00e1sicos del popular g\u00e9nero colombiano. Foto: Karen Lizarazo",
-  "num_followers": 337246,
+  "description": "Novedades y cl\u00e1sicos del popular g\u00e9nero colombiano. Foto: Peter Manjarr\u00e9s",
+  "num_followers": 339012,
   "original_name": "Lo + del Vallenato",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5NjU1MiwwMDAwMDAwMGIyN2E0OTVhNTNmNTJhNGFkNjVkMzI3MmJkZDM1NzJi",
+  "snapshot_id": "MTY2NjMyOTQyMCwwMDAwMDAwMDY0MDkwY2I2NTI4Mjk2NjdiNjViODc4MjA4MWUyNmM2",
   "tracks": [
     {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
-        "name": "Experiencias Vividas",
-        "url": "https://open.spotify.com/album/7jN66YGPSXc7ibUmQHqsWq"
+        "name": "PEDRO",
+        "url": "https://open.spotify.com/album/3H5A0XAVLqPIc6p1UyFx0q"
       },
       "artists": [
         {
-          "name": "Diomedes Diaz",
-          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
+          "name": "Peter Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL"
+        }
+      ],
+      "duration_ms": 199296,
+      "name": "Me Vale Ver...T",
+      "url": "https://open.spotify.com/track/6NXE0MUQCfWKSElHh7PaHb"
+    },
+    {
+      "added_at": "2022-10-21 05:17:00",
+      "album": {
+        "name": "Pa' los Gustos los Colores",
+        "url": "https://open.spotify.com/album/4BcN3Bnt4jc6jWCKAPdgPO"
+      },
+      "artists": [
+        {
+          "name": "Juancho De La Espriella",
+          "url": "https://open.spotify.com/artist/2jyCUmtPh36YRwhuhxzUZ3"
         },
         {
-          "name": "Franco Arg\u00fcelles",
-          "url": "https://open.spotify.com/artist/66pMOS7QsO8moXgL0Zza6q"
+          "name": "Los de Juancho",
+          "url": "https://open.spotify.com/artist/0siN6HqX23qhrmnGZZvJLi"
         }
       ],
-      "duration_ms": 272866,
-      "name": "Ilusiones",
-      "url": "https://open.spotify.com/track/2jHaeV9nx3KARH8srHZFER"
+      "duration_ms": 191585,
+      "name": "Pa' los Gustos los Colores",
+      "url": "https://open.spotify.com/track/2i1j9aCllzObqtQspBLTPg"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
-      "album": {
-        "name": "Sin Miedo Al \u00c9xito",
-        "url": "https://open.spotify.com/album/0H7htUNPhsSLGI1HZgtkGv"
-      },
-      "artists": [
-        {
-          "name": "Karen Lizarazo",
-          "url": "https://open.spotify.com/artist/6Xiry0W18NKRSiFwXi4zjV"
-        }
-      ],
-      "duration_ms": 180892,
-      "name": "Ll\u00e1mame",
-      "url": "https://open.spotify.com/track/7actmxrgaVflvfflEKSGZm"
-    },
-    {
-      "added_at": "2022-09-02 05:29:12",
-      "album": {
-        "name": "EL DE SIEMPRE",
-        "url": "https://open.spotify.com/album/7xqSdlFFTvyw66hLx6fQJZ"
-      },
-      "artists": [
-        {
-          "name": "Felipe Pel\u00e1ez",
-          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
-        }
-      ],
-      "duration_ms": 233543,
-      "name": "Vivito y Coleando",
-      "url": "https://open.spotify.com/track/6VmAAyizCOQbilBaxnE4mC"
-    },
-    {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "El Vallenato Vive",
         "url": "https://open.spotify.com/album/7meR91D6T5UHFQV978Kx52"
@@ -81,7 +65,79 @@
       "url": "https://open.spotify.com/track/4uBQV15RHdpSplqLUFwOOl"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
+      "album": {
+        "name": "Un Beso Y Una Flor",
+        "url": "https://open.spotify.com/album/37s4nHhHGs9wGOwxXwNdtR"
+      },
+      "artists": [
+        {
+          "name": "Los Chiches Vallenatos",
+          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
+        }
+      ],
+      "duration_ms": 256469,
+      "name": "Un Beso Y Una Flor",
+      "url": "https://open.spotify.com/track/5wVv9KObFL175Ng3Qlyd2i"
+    },
+    {
+      "added_at": "2022-10-21 05:17:00",
+      "album": {
+        "name": "Experiencias Vividas",
+        "url": "https://open.spotify.com/album/7jN66YGPSXc7ibUmQHqsWq"
+      },
+      "artists": [
+        {
+          "name": "Diomedes Diaz",
+          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
+        },
+        {
+          "name": "Franco Arg\u00fcelles",
+          "url": "https://open.spotify.com/artist/66pMOS7QsO8moXgL0Zza6q"
+        }
+      ],
+      "duration_ms": 272866,
+      "name": "Ilusiones",
+      "url": "https://open.spotify.com/track/2jHaeV9nx3KARH8srHZFER"
+    },
+    {
+      "added_at": "2022-10-21 05:17:00",
+      "album": {
+        "name": "Un Ser Extra\u00f1o",
+        "url": "https://open.spotify.com/album/0f5LtYautf6UfoVdoTXS9k"
+      },
+      "artists": [
+        {
+          "name": "Ivan Villazon",
+          "url": "https://open.spotify.com/artist/0gudLEFCyMFIBCt1EQaMh7"
+        },
+        {
+          "name": "Tuto L\u00f3pez",
+          "url": "https://open.spotify.com/artist/4YS5axj3KRs5XcZ005Qlb8"
+        }
+      ],
+      "duration_ms": 262993,
+      "name": "Un Ser Extra\u00f1o",
+      "url": "https://open.spotify.com/track/6tOCCQOAeYQEzERHAXSqrd"
+    },
+    {
+      "added_at": "2022-10-21 05:17:00",
+      "album": {
+        "name": "EL DE SIEMPRE",
+        "url": "https://open.spotify.com/album/7xqSdlFFTvyw66hLx6fQJZ"
+      },
+      "artists": [
+        {
+          "name": "Felipe Pel\u00e1ez",
+          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
+        }
+      ],
+      "duration_ms": 233543,
+      "name": "Vivito y Coleando",
+      "url": "https://open.spotify.com/track/6VmAAyizCOQbilBaxnE4mC"
+    },
+    {
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "El Disco Que Me Gusta",
         "url": "https://open.spotify.com/album/5ymciF4IdHbVu5yxJlCf1W"
@@ -101,7 +157,7 @@
       "url": "https://open.spotify.com/track/4HQa0epS8B23YEHqyA2fKr"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "Feliz Aniversario",
         "url": "https://open.spotify.com/album/0fNd8Ovv5AUxan1p6rgs12"
@@ -121,7 +177,7 @@
       "url": "https://open.spotify.com/track/5OTmOskSgLB3ZfH6mBL9gE"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "Caja de Mi Coraz\u00f3n",
         "url": "https://open.spotify.com/album/5z3JWOQBcgRwY8MpdsgOST"
@@ -141,7 +197,7 @@
       "url": "https://open.spotify.com/track/5tVTnPMM8xuaxDHeqnt6Zh"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "De Pel\u00edcula",
         "url": "https://open.spotify.com/album/1CYsPjcRZtBn8ncdOL5peO"
@@ -161,7 +217,7 @@
       "url": "https://open.spotify.com/track/4aGOjnyeBktqCHSk6otyqY"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "Amor de Pap\u00e1",
         "url": "https://open.spotify.com/album/4T1rAPePv0bqbF57wLD3kf"
@@ -181,43 +237,7 @@
       "url": "https://open.spotify.com/track/1azxbMS6WW6s00552wlN1d"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
-      "album": {
-        "name": "M\u00e1s Gigantes Que Nunca",
-        "url": "https://open.spotify.com/album/3CJwJFB2FjTQfcfuzpa498"
-      },
-      "artists": [
-        {
-          "name": "Daniel Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA"
-        },
-        {
-          "name": "Los Gigantes Del Vallenato",
-          "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
-        }
-      ],
-      "duration_ms": 202907,
-      "name": "Te Recomiendo",
-      "url": "https://open.spotify.com/track/6NbXGk6bATIXVzJjzzL3rk"
-    },
-    {
-      "added_at": "2022-09-02 05:29:12",
-      "album": {
-        "name": "Otra Botella",
-        "url": "https://open.spotify.com/album/3PZtW70YVWTpEWYN1PZ9ZJ"
-      },
-      "artists": [
-        {
-          "name": "Los Chiches Vallenatos",
-          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
-        }
-      ],
-      "duration_ms": 229340,
-      "name": "Otra Botella",
-      "url": "https://open.spotify.com/track/7JHyn813Ij0oY6uXaKWiA3"
-    },
-    {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "D\u00e9jame Ir",
         "url": "https://open.spotify.com/album/6oPsiM8MxuyfO86jVClZHl"
@@ -237,23 +257,7 @@
       "url": "https://open.spotify.com/track/1Nmmd2LhObZ1XMN9ZzAfWn"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
-      "album": {
-        "name": "Yo Soy Tu Cielo",
-        "url": "https://open.spotify.com/album/3SsmDAT5gibexAkk7yLn0b"
-      },
-      "artists": [
-        {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
-        }
-      ],
-      "duration_ms": 232021,
-      "name": "Yo Soy Tu Cielo",
-      "url": "https://open.spotify.com/track/5fECdk9R7Kd4wxVP1ok5hf"
-    },
-    {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "La Bomba",
         "url": "https://open.spotify.com/album/1CfCK4Nx0nnccwueJfp9Hm"
@@ -273,7 +277,7 @@
       "url": "https://open.spotify.com/track/1Rldg5PGFa1LscsLdvsK0u"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "Las Locuras M\u00edas",
         "url": "https://open.spotify.com/album/0PE6hxgSMyjrsiN0MktJpL"
@@ -289,7 +293,7 @@
       "url": "https://open.spotify.com/track/1nvXQOgTXYwHhDqpKiJA0e"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "Para Siempre Rafael Orozco Binomio De Oro",
         "url": "https://open.spotify.com/album/6PYwZuAWfqOJhS7L6JEop2"
@@ -309,7 +313,7 @@
       "url": "https://open.spotify.com/track/7hXqqnST5EW6TgrgGMK4PL"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "Ella Es La Que Manda",
         "url": "https://open.spotify.com/album/2JpYEmqBLHAI9IhhKAs9nf"
@@ -329,7 +333,7 @@
       "url": "https://open.spotify.com/track/6yN62z36DL4HBfwC56n3YH"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "Es Mejor No Decirlo",
         "url": "https://open.spotify.com/album/1778QxBnBDY5YmbieRKzV4"
@@ -349,7 +353,7 @@
       "url": "https://open.spotify.com/track/4dnqlAVeaEb69s7sXAK8Cr"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "Mosaico Dieguista: La M\u00eda Eres T\u00fa / La Alfombra Roja",
         "url": "https://open.spotify.com/album/6LD4YA7Tsktbg4vaKAcceJ"
@@ -369,7 +373,7 @@
       "url": "https://open.spotify.com/track/6mYb3rUcISHPyxbMJ2vXIg"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "La Solter\u00eda",
         "url": "https://open.spotify.com/album/7vxm6yeIcA63WUGy39KwAT"
@@ -389,7 +393,7 @@
       "url": "https://open.spotify.com/track/4i7LiTgRjxjlf8PMwRpxEy"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "M\u00e1s de Ti",
         "url": "https://open.spotify.com/album/29vDifDsjyYGsOFRHg2GCs"
@@ -409,7 +413,7 @@
       "url": "https://open.spotify.com/track/6QaSczCtX0qhnsuhwTj3D2"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "Por un Beso de Tu Boca (Versi\u00f3n Vallenato)",
         "url": "https://open.spotify.com/album/0DX0n5Ee7NWxG8wxYwL57v"
@@ -425,7 +429,7 @@
       "url": "https://open.spotify.com/track/0iNN906YaH34RzPhYrdLyv"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "Amor de Locos",
         "url": "https://open.spotify.com/album/2sw2LogRXON5MD6ilovWU6"
@@ -449,7 +453,7 @@
       "url": "https://open.spotify.com/track/5Jp8AQM4D8Poyxf7GsyC9W"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "Julio Canta Vallenato",
         "url": "https://open.spotify.com/album/5Qxd7iZAeoYqYFBLc3rchd"
@@ -465,7 +469,7 @@
       "url": "https://open.spotify.com/track/7iJ43W1RWMrNjU3Or15jxX"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "Viral",
         "url": "https://open.spotify.com/album/06O9e9nCgidW852Pu0nvb2"
@@ -485,7 +489,7 @@
       "url": "https://open.spotify.com/track/3oDkJiqJA9N7TAEijcRStG"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "El Santo Cach\u00f3n (feat. Robinson Damian & Los Gigantes)",
         "url": "https://open.spotify.com/album/6bJiE0zCTa75ZZFBHtOmx8"
@@ -509,7 +513,7 @@
       "url": "https://open.spotify.com/track/1WWb9zdw08TEAESKJZ8mXW"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "El Encarte",
         "url": "https://open.spotify.com/album/70snN06pgigNR1FYYaoQfT"
@@ -525,7 +529,7 @@
       "url": "https://open.spotify.com/track/2M4GHQUCurlGyb9FVAdCUd"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "Esto Que Dice!",
         "url": "https://open.spotify.com/album/1GEQTKbUhZTn8Gt22ao8kH"
@@ -545,7 +549,7 @@
       "url": "https://open.spotify.com/track/2Kh0B090ELw2MrJd2SY1LR"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "O Te Acuso Con Dios",
         "url": "https://open.spotify.com/album/7MQKW38fegrx48F3ullhSS"
@@ -561,7 +565,7 @@
       "url": "https://open.spotify.com/track/5ptO7RPfHSIsVF9EBuQxhi"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "Me Llev\u00f3 a la Luna",
         "url": "https://open.spotify.com/album/081pGgewGVZcmXyvP5pjLH"
@@ -581,7 +585,7 @@
       "url": "https://open.spotify.com/track/7Jf4BXs1gNxvNfyvRdrgRr"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "Ganas Locas",
         "url": "https://open.spotify.com/album/4ajpy9aMHgw26P5E0AYpWf"
@@ -597,7 +601,7 @@
       "url": "https://open.spotify.com/track/5bqpj6yxZ9OZepBkml8QGP"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "Esto Es Vida",
         "url": "https://open.spotify.com/album/2R0WTS8JS1aSyXxosBh4Se"
@@ -613,7 +617,7 @@
       "url": "https://open.spotify.com/track/7nuhIriqmo87iVEfVkc58T"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "La Historia Continua",
         "url": "https://open.spotify.com/album/7tOgagliNLN0RTLt0t0ODM"
@@ -629,7 +633,7 @@
       "url": "https://open.spotify.com/track/4chfldJFfWiuuSx1n3mojQ"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "Viral",
         "url": "https://open.spotify.com/album/06O9e9nCgidW852Pu0nvb2"
@@ -649,7 +653,7 @@
       "url": "https://open.spotify.com/track/5zsUI37tt2zmCGwyfpn4V3"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "Lo Que T\u00fa Quer\u00edas, Un Vallenato",
         "url": "https://open.spotify.com/album/4kgRuOy42GJXD3tpRit3WZ"
@@ -669,7 +673,7 @@
       "url": "https://open.spotify.com/track/6Ip090WbSVb0OCM0EHFQ8v"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "Esto Es Vida",
         "url": "https://open.spotify.com/album/2R0WTS8JS1aSyXxosBh4Se"
@@ -685,7 +689,7 @@
       "url": "https://open.spotify.com/track/7byzvi04FBDvcELhvqnhbV"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "Los Recuerdos de Mi Ni\u00f1ez",
         "url": "https://open.spotify.com/album/0S4BQgcB35wRpoGKAsu762"
@@ -701,7 +705,7 @@
       "url": "https://open.spotify.com/track/2XQNesY3cSNmNse65XdMa3"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "T\u00fa Me Gustas, Mujer!!!",
         "url": "https://open.spotify.com/album/1AH2y3HEWgiSKSYkbrgBEn"
@@ -717,7 +721,7 @@
       "url": "https://open.spotify.com/track/1zfs7wu5eDin6jDpIC662H"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "Sigo Invicto",
         "url": "https://open.spotify.com/album/5nrVqq5BEfcoOYJ1eQQ0ki"
@@ -733,7 +737,7 @@
       "url": "https://open.spotify.com/track/5oQ12KlSu359ek2vpJTMX3"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "Poncho Zuleta 45 A\u00f1os",
         "url": "https://open.spotify.com/album/5K5ALlnrnBQUwtzzcA4qCy"
@@ -753,7 +757,7 @@
       "url": "https://open.spotify.com/track/661BYmEBVdUPhMY8X6DhKz"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "Tierra Mala",
         "url": "https://open.spotify.com/album/1ifSWefkAmzfDlBowUtmjU"
@@ -769,7 +773,7 @@
       "url": "https://open.spotify.com/track/1kWIPZYKp8pel13Wzrzocf"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "El Rey Guajiro",
         "url": "https://open.spotify.com/album/6rWUTRk4HYaV3ExfbtPmkh"
@@ -789,7 +793,7 @@
       "url": "https://open.spotify.com/track/0uWc7lXGIv3K3575AhP6Cp"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "Seguimos Por Lo Alto",
         "url": "https://open.spotify.com/album/5XNXhNFKS5oCCcVWKKKzR0"
@@ -805,7 +809,7 @@
       "url": "https://open.spotify.com/track/7Jj7xLUrsvHCiwOsNxzPPC"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "Ni Un Paso Atr\u00e1s",
         "url": "https://open.spotify.com/album/1p5Pm8Vqk932S2VFVUAoi4"
@@ -825,7 +829,7 @@
       "url": "https://open.spotify.com/track/5KsBV3bKtUtU64TmqCgVP7"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "Homenaje",
         "url": "https://open.spotify.com/album/4CCxY26bO2H9QJe0Y71l1u"
@@ -845,7 +849,7 @@
       "url": "https://open.spotify.com/track/4yc290Q5nIELODhKyntBhP"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "Gracias Mi Gente",
         "url": "https://open.spotify.com/album/42mGPazMoiDn6hWgitQYgX"
@@ -865,7 +869,7 @@
       "url": "https://open.spotify.com/track/3LhmbxCgjX7E7xYBEUn30Y"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "Imparables",
         "url": "https://open.spotify.com/album/5HVoQdtTpBV5ek4cEKTKrO"
@@ -881,7 +885,7 @@
       "url": "https://open.spotify.com/track/6jD818CoibqddGqCEyhjCy"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/77PKmLnC3sggIXSYh56Vwh"
@@ -901,7 +905,7 @@
       "url": "https://open.spotify.com/track/58vsQ15Dc9NwY5zqaLpWOJ"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "Sigo Invicto",
         "url": "https://open.spotify.com/album/5nrVqq5BEfcoOYJ1eQQ0ki"
@@ -917,7 +921,7 @@
       "url": "https://open.spotify.com/track/5yzGHMlHHMf859Aek6QgB9"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "Sigo Invicto",
         "url": "https://open.spotify.com/album/5nrVqq5BEfcoOYJ1eQQ0ki"
@@ -933,7 +937,7 @@
       "url": "https://open.spotify.com/track/4mGRIaDuszXYCTGZfLjjpA"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "Coraz\u00f3n Profundo (Versi\u00f3n Deluxe)",
         "url": "https://open.spotify.com/album/5aYaYsDnVXSvVTP7KTHmSl"
@@ -949,7 +953,7 @@
       "url": "https://open.spotify.com/track/1KbX1VuFIgsRa9JjnQtRYA"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "10 A\u00f1os De Historia",
         "url": "https://open.spotify.com/album/4G3uYZwUvhvi8IByx7CUgU"
@@ -965,7 +969,7 @@
       "url": "https://open.spotify.com/track/5MWJ8J0jyXtJQcnsB9iykS"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "30 Mejores: Binomio de Oro de Am\u00e9rica",
         "url": "https://open.spotify.com/album/1ciVNBJTfEynm4k1cjQluh"
@@ -981,7 +985,7 @@
       "url": "https://open.spotify.com/track/7LSdAF6AUKmcsUTy3747rh"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "Mas Cerca De T\u00ed",
         "url": "https://open.spotify.com/album/1n0IWcxgoJl33DyI41AtCI"
@@ -997,7 +1001,7 @@
       "url": "https://open.spotify.com/track/7CFcADHXs2wjUxNyyoScEn"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "Jorge Celed\u00f3n & Jimmy Zambrano De Lo Nuevo... Lo Mejor",
         "url": "https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D"
@@ -1017,7 +1021,7 @@
       "url": "https://open.spotify.com/track/39pCrC5AA7xhJb98tqWDgb"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "Lenguaje Universal",
         "url": "https://open.spotify.com/album/2HSz2kwEVkfiK932bWB7Wc"
@@ -1033,7 +1037,7 @@
       "url": "https://open.spotify.com/track/5P9Rhc64ZcSGSlBDXEVGOw"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "Canto Vallenato",
         "url": "https://open.spotify.com/album/1nbW9IiNSMm4saZxmma99d"
@@ -1053,7 +1057,7 @@
       "url": "https://open.spotify.com/track/6hlmfSjhKSWuZDujvW7p74"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "Muy Nuestro",
         "url": "https://open.spotify.com/album/11vSLzBjLYwRX1tjqTDsQQ"
@@ -1073,7 +1077,7 @@
       "url": "https://open.spotify.com/track/1aWlzqhPWYcmMK5H9lgpP6"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "30 Mejores: Binomio de Oro de Am\u00e9rica",
         "url": "https://open.spotify.com/album/1ciVNBJTfEynm4k1cjQluh"
@@ -1089,7 +1093,7 @@
       "url": "https://open.spotify.com/track/7IbDpOVisfNkYWR07l1Y5U"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "Brindo Con El Alma",
         "url": "https://open.spotify.com/album/5sKPvJKVhhhYBPhs6kxbjM"
@@ -1109,7 +1113,7 @@
       "url": "https://open.spotify.com/track/6OIvXRQYGEhmvLjcYNcV4n"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "Solo Hits",
         "url": "https://open.spotify.com/album/0TuwCPLmXFqqbbeVuQjAR3"
@@ -1129,7 +1133,7 @@
       "url": "https://open.spotify.com/track/61PSeaG0rMXe7KYfmLpXir"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "A Mi Manera",
         "url": "https://open.spotify.com/album/6kpMEptxTLyqUZ1yjIqKTt"
@@ -1149,7 +1153,7 @@
       "url": "https://open.spotify.com/track/2iXtZSokZMtYdnwP8Cp6et"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "Orgullosa",
         "url": "https://open.spotify.com/album/4pMUHG6enf3RagNzHuCryB"
@@ -1169,7 +1173,7 @@
       "url": "https://open.spotify.com/track/105sSrcdsoN7Pj5NhIDUXx"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "Dif\u00edcil De Igualar",
         "url": "https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE"
@@ -1185,7 +1189,7 @@
       "url": "https://open.spotify.com/track/3vhej4TjgOt4d6OS4uMIVO"
     },
     {
-      "added_at": "2022-09-02 05:29:12",
+      "added_at": "2022-10-21 05:17:00",
       "album": {
         "name": "Ya No Me Duele M\u00e1s",
         "url": "https://open.spotify.com/album/0eUcBIlIkSckfugOOwJLkL"

@@ -338,6 +338,24 @@
     },
     {
       "album": {
+        "name": "Deep Blue",
+        "url": "https://open.spotify.com/album/7rfiHzh7hFQXL1X3fk4C0J"
+      },
+      "artists": [
+        {
+          "name": "\u00cdmar",
+          "url": "https://open.spotify.com/artist/0BdsizQXvwb1BPeEKqfuVs"
+        }
+      ],
+      "date_added": "2020-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 299160,
+      "name": "Deep Blue",
+      "url": "https://open.spotify.com/track/7Ar3epMysZVc1b2uHgCXXl"
+    },
+    {
+      "album": {
         "name": "Sandwood",
         "url": "https://open.spotify.com/album/1LFHmWrvRQeoZJatu7QLed"
       },
@@ -627,6 +645,24 @@
       "duration_ms": 389453,
       "name": "Kings",
       "url": "https://open.spotify.com/track/2t6dq7278w9vxw0PDqz8OE"
+    },
+    {
+      "album": {
+        "name": "Knees Up",
+        "url": "https://open.spotify.com/album/2mDsVuMML0onkMQCY8A71X"
+      },
+      "artists": [
+        {
+          "name": "Breabach",
+          "url": "https://open.spotify.com/artist/1HyT0AtzTH5lVzlm8yQgbI"
+        }
+      ],
+      "date_added": "2020-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 207162,
+      "name": "Knees Up",
+      "url": "https://open.spotify.com/track/0lkkDlHWpgpPWWQOQqvQjx"
     },
     {
       "album": {
@@ -1611,10 +1647,28 @@
       ],
       "date_added": "2020-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 321600,
       "name": "Tyagarah",
       "url": "https://open.spotify.com/track/2ntxq2PElCRIeRL07tTfd2"
+    },
+    {
+      "album": {
+        "name": "What Makes You",
+        "url": "https://open.spotify.com/album/5RTIGPvlegfeFtTFMmNP6m"
+      },
+      "artists": [
+        {
+          "name": "Elephant Sessions",
+          "url": "https://open.spotify.com/artist/1C4qzAoWeKRKYqm26fKvWq"
+        }
+      ],
+      "date_added": "2020-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321600,
+      "name": "Tyagarah",
+      "url": "https://open.spotify.com/track/4suttSnLJtpU7CdF8h9kjo"
     },
     {
       "album": {

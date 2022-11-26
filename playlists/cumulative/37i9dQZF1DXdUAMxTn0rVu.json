@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Essential songs from the late '90s, early 2000s underground hip-hop scene. Cover: Gang Starr",
+  "description": "Essential songs from the late '90s, early 2000s underground hip-hop scene. Cover: Slum Village",
   "name": "I Love My Underground Classics",
   "published_playlist_ids": [
     "14eAdAezP3MLdGe4QegXpf"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": null,
       "duration_ms": 252400,
       "name": "3 Tha Hard Way",
       "url": "https://open.spotify.com/track/4B1w3clws55HXvcVoItOqS"
@@ -347,7 +347,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-05",
+      "date_removed": null,
       "duration_ms": 197400,
       "name": "Blue Flowers",
       "url": "https://open.spotify.com/track/1xQ1v0xnKgZyQX90f75bKt"
@@ -427,7 +427,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 232440,
       "name": "Boom - Explicit Album Version",
       "url": "https://open.spotify.com/track/3CiSdq2SJSSUc1AVUU2F4G"
@@ -539,7 +539,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 211892,
       "name": "Climax",
       "url": "https://open.spotify.com/track/7i47lf1W2WA41wagWBD3zH"
@@ -717,7 +717,7 @@
     {
       "album": {
         "name": "Operation: Doomsday (Complete)",
-        "url": "https://open.spotify.com/album/4UG3kz6qoHtNI1glQ2wdon"
+        "url": "https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E"
       },
       "artists": [
         {
@@ -732,6 +732,28 @@
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 298053,
+      "name": "Doomsday",
+      "url": "https://open.spotify.com/track/7EQvdUJqZ2i7SWvSB2VqGA"
+    },
+    {
+      "album": {
+        "name": "Operation: Doomsday (Complete)",
+        "url": "https://open.spotify.com/album/4UG3kz6qoHtNI1glQ2wdon"
+      },
+      "artists": [
+        {
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+        },
+        {
+          "name": "Pebbles The Invisible Girl",
+          "url": "https://open.spotify.com/artist/7AQJ6lwVCcej6eKZXQZus4"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-25",
       "duration_ms": 298053,
       "name": "Doomsday",
       "url": "https://open.spotify.com/track/7lT1dCz96jANsLAAADlfIg"
@@ -931,7 +953,7 @@
       ],
       "date_added": "2021-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 311040,
       "name": "Fortfied Live",
       "url": "https://open.spotify.com/track/3oFn11Yah34EHZMEZY7FlL"
@@ -967,7 +989,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 211132,
       "name": "Get Dis Money",
       "url": "https://open.spotify.com/track/6xrjmQMIIYgLgjCOeq2dee"
@@ -1257,7 +1279,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 198800,
       "name": "Karma",
       "url": "https://open.spotify.com/track/7FyuOzN1V1Whhyh46tPiWZ"
@@ -1565,7 +1587,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 146279,
       "name": "Players",
       "url": "https://open.spotify.com/track/42il7TuY2vBP0QnWnjpxnI"
@@ -1661,10 +1683,32 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 258613,
       "name": "Rhymes Like Dimes",
       "url": "https://open.spotify.com/track/12OkZyDWNBLUqoReoseGrc"
+    },
+    {
+      "album": {
+        "name": "Operation: Doomsday (Complete)",
+        "url": "https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E"
+      },
+      "artists": [
+        {
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+        },
+        {
+          "name": "DJ Cucumber Slice",
+          "url": "https://open.spotify.com/artist/6wwBv5Rq6Ev2USsDsIZO1o"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258613,
+      "name": "Rhymes Like Dimes",
+      "url": "https://open.spotify.com/track/6OkDb9fyi22Pr6QJIrUNdJ"
     },
     {
       "album": {
@@ -1993,7 +2037,7 @@
       ],
       "date_added": "2021-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 218079,
       "name": "The Look of Love, Pt. 1",
       "url": "https://open.spotify.com/track/3gTTDjDha02XJ4xuS2KF0e"
@@ -2319,7 +2363,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 233933,
       "name": "W.O.L.V.E.S.",
       "url": "https://open.spotify.com/track/2NR8YLRBR0AEUc6JQlnldo"
@@ -2383,7 +2427,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 240426,
-      "name": "Western Ways, Pt. 2 (La Seleccion)",
+      "name": "Western Ways, Pt. 2 (La Seleccion) (feat. Big Punisher & JuJu)",
       "url": "https://open.spotify.com/track/0dUKYPzjFe0tJYCKf3USWi"
     },
     {

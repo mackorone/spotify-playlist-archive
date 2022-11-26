@@ -4,7 +4,7 @@
 
 > 80's Edition!  D\-Nice's essential jams for any party at home!
 
-73 songs - 6 hr 16 min - [published](https://open.spotify.com/playlist/50QR79j8k5LtNRr6rof7wE)
+74 songs - 6 hr 20 min - [published](https://open.spotify.com/playlist/50QR79j8k5LtNRr6rof7wE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Africa](https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto IV](https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D) | 4:55 | 2020-04-13 |  |
 | [All and All](https://open.spotify.com/track/5d7k3UJrfQx6OI5cWpXZ2a) | [Joyce Sims](https://open.spotify.com/artist/4AL3YviSMI70ARkSOHlxbQ) | [Come into My Life: The Very Best of Joyce Sims](https://open.spotify.com/album/73n6TRu2pLwThwpXZiIxdP) | 6:07 | 2020-04-13 |  |
 | [Always Something There to Remind Me](https://open.spotify.com/track/0KlJjhnfwAnPacNd7EH45J) | [Naked Eyes](https://open.spotify.com/artist/3C6chBmZ9wzisBhoh8G2nK) | [Burning Bridges](https://open.spotify.com/album/6yRpzEmRaZbj1tFD0zYLe8) | 3:38 | 2020-04-13 | 2022-07-29 |
+| [Always Something There To Remind Me](https://open.spotify.com/track/0cGaZGrQNwlRvZemxaBfXC) | [Naked Eyes](https://open.spotify.com/artist/3C6chBmZ9wzisBhoh8G2nK) | [Thumbplay Music Presents: The 80's](https://open.spotify.com/album/0GVJSJGPnPulLBuQFBadOa) | 3:40 | 2020-04-13 | 2022-11-13 |
 | [Always Something There to Remind Me \- 2018 Remaster](https://open.spotify.com/track/3yWAyRHfclztY1TzF2gAUD) | [Naked Eyes](https://open.spotify.com/artist/3C6chBmZ9wzisBhoh8G2nK) | [Naked Eyes](https://open.spotify.com/album/7yxf90I32wPEXr7hLp3CKR) | 3:39 | 2020-04-13 |  |
 | [Another Man](https://open.spotify.com/track/0TLc72T6smUYgFQu1aDnSg) | [Barbara Mason](https://open.spotify.com/artist/5PmZd7YOaUgQwhOja44fmZ) | [Another Man](https://open.spotify.com/album/6uLppwZoewGnsXUMLpRFsf) | 6:54 | 2020-04-13 |  |
 | [Back To Life](https://open.spotify.com/track/7vvRkLPIvfjjmCIqNxBuEZ) | [Soul II Soul](https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf), [Caron Wheeler](https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY) | [Keep On Movin'](https://open.spotify.com/album/1y3jN9LkTstdnogs1Xywni) | 3:48 | 2020-04-13 |  |

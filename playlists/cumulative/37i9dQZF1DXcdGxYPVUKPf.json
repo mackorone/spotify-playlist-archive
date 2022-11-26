@@ -26,6 +26,42 @@
     },
     {
       "album": {
+        "name": "Black Adam (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6QQ1bcCdI8RiiiAgXtK6nj"
+      },
+      "artists": [
+        {
+          "name": "Lorne Balfe",
+          "url": "https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236682,
+      "name": "Black Adam Theme (from \"Black Adam\")",
+      "url": "https://open.spotify.com/track/1YcqFdl5MQIfN4f8ulc73l"
+    },
+    {
+      "album": {
+        "name": "Black Adam Theme (from \"Black Adam\")",
+        "url": "https://open.spotify.com/album/1RGC1ShDXu9BKmnDlUj5OC"
+      },
+      "artists": [
+        {
+          "name": "Lorne Balfe",
+          "url": "https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-28",
+      "duration_ms": 236682,
+      "name": "Black Adam Theme (from \"Black Adam\")",
+      "url": "https://open.spotify.com/track/6eqwueXTaHqXTRwbOpLmcJ"
+    },
+    {
+      "album": {
         "name": "Ram Jam",
         "url": "https://open.spotify.com/album/4z2REZpvRsVMpHFrsIz7PD"
       },
@@ -77,6 +113,24 @@
       "duration_ms": 229466,
       "name": "Bulls On Parade",
       "url": "https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x"
+    },
+    {
+      "album": {
+        "name": "Exile",
+        "url": "https://open.spotify.com/album/1roiPYs5gYEy3kmT3C6vz1"
+      },
+      "artists": [
+        {
+          "name": "Eric Zayne",
+          "url": "https://open.spotify.com/artist/5HMNsIi6AQplZELW9jeLjd"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205384,
+      "name": "Exile",
+      "url": "https://open.spotify.com/track/6VM70wjJ8kl7AFMS1KaOgi"
     },
     {
       "album": {
@@ -145,7 +199,7 @@
           "url": "https://open.spotify.com/artist/0bchCUkOuvPSeazHgDsh0Y"
         }
       ],
-      "date_added": "2021-05-06",
+      "date_added": "2020-09-14",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 189269,
@@ -199,7 +253,7 @@
           "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
         }
       ],
-      "date_added": "2021-05-06",
+      "date_added": "2020-09-14",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 313573,
@@ -485,10 +539,28 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 220893,
       "name": "Work Hard",
       "url": "https://open.spotify.com/track/6DSdSwWlQF30DkuRPvBkQn"
+    },
+    {
+      "album": {
+        "name": "Hard Work",
+        "url": "https://open.spotify.com/album/1Z6OZ6k6PkjiOC65QWiiQy"
+      },
+      "artists": [
+        {
+          "name": "Frankie Paul",
+          "url": "https://open.spotify.com/artist/1J4CDjVHn8ummXVmJ7Q73u"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220893,
+      "name": "Work Hard",
+      "url": "https://open.spotify.com/track/7AxLkHObRt76cLyte1VyGv"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXcdGxYPVUKPf"

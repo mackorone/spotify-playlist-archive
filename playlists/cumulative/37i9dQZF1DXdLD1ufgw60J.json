@@ -1113,7 +1113,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 293866,
       "name": "II. Andante",
       "url": "https://open.spotify.com/track/2xrktscAA84sZPbNhHx4Ab"
@@ -1722,6 +1722,28 @@
     },
     {
       "album": {
+        "name": "Mozart: The Complete Piano Sonatas",
+        "url": "https://open.spotify.com/album/4pMwtuowDtXHviE9xPp6gi"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Mao Fujita",
+          "url": "https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293866,
+      "name": "Piano Sonata No. 16 in C Major, K. 545 \"Sonata facile\": II. Andante",
+      "url": "https://open.spotify.com/track/70HFIHUgLlQTDIU17WKeEQ"
+    },
+    {
+      "album": {
         "name": "Beethoven: Sonatas, Vol. 1",
         "url": "https://open.spotify.com/album/3oVL0x58RKRxfGw7fLqnBv"
       },
@@ -1784,7 +1806,7 @@
         },
         {
           "name": "Fred Thomas",
-          "url": "https://open.spotify.com/artist/6QA7spY3kFRPGsl2xV4QTf"
+          "url": "https://open.spotify.com/artist/3lK5x1jZZM2Y8HzdZl4aCB"
         },
         {
           "name": "Kadialy Kouyate",

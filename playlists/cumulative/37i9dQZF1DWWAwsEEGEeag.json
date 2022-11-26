@@ -701,6 +701,24 @@
     {
       "album": {
         "name": "Funky Thang",
+        "url": "https://open.spotify.com/album/7eIlzpI54AnqKhPJOHrgzK"
+      },
+      "artists": [
+        {
+          "name": "Shay Lia",
+          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160780,
+      "name": "Funky Thang",
+      "url": "https://open.spotify.com/track/3VBYPu6aJaCgtlHx3Avxbk"
+    },
+    {
+      "album": {
+        "name": "Funky Thang",
         "url": "https://open.spotify.com/album/1WklZZRCVoqJCKGoYmeJfr"
       },
       "artists": [
@@ -711,7 +729,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 160780,
       "name": "Funky Thang",
       "url": "https://open.spotify.com/track/5zVB1UcrO52SUONu7h7F7U"
@@ -1274,6 +1292,28 @@
     },
     {
       "album": {
+        "name": "Fi\u00e8vre",
+        "url": "https://open.spotify.com/album/6Df5Ml1ZfUVn1vfJEMULyl"
+      },
+      "artists": [
+        {
+          "name": "Hansom \u0112li",
+          "url": "https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh"
+        },
+        {
+          "name": "Mike Clay",
+          "url": "https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 232786,
+      "name": "Mezcal",
+      "url": "https://open.spotify.com/track/0nY56BAHCxcX7XVrcUG9dA"
+    },
+    {
+      "album": {
         "name": "Mezcal",
         "url": "https://open.spotify.com/album/1eczfsDtMYWKF0oW3pRZVo"
       },
@@ -1289,10 +1329,32 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 232786,
       "name": "Mezcal",
       "url": "https://open.spotify.com/track/2jMl3KEBFAS0DUH3BvKtWX"
+    },
+    {
+      "album": {
+        "name": "Mezcal",
+        "url": "https://open.spotify.com/album/3C1VzCBBwR29j8w65cKsf8"
+      },
+      "artists": [
+        {
+          "name": "Hansom \u0112li",
+          "url": "https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh"
+        },
+        {
+          "name": "Mike Clay",
+          "url": "https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232786,
+      "name": "Mezcal",
+      "url": "https://open.spotify.com/track/73R2AFv1uvr6mNgjmz36wx"
     },
     {
       "album": {
@@ -1369,6 +1431,24 @@
       "duration_ms": 317815,
       "name": "No Mission",
       "url": "https://open.spotify.com/track/48fz7bg2bFw3ZKRyntS6SF"
+    },
+    {
+      "album": {
+        "name": "The Anjunadeep Edition 360 with James Grant",
+        "url": "https://open.spotify.com/album/6I2fHGlEQtvEZ9AElRIyAW"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 317815,
+      "name": "No Mission",
+      "url": "https://open.spotify.com/track/78oyfpAOdzHzbbVx5SG7Dc"
     },
     {
       "album": {
@@ -1478,6 +1558,42 @@
     },
     {
       "album": {
+        "name": "Speed of Life",
+        "url": "https://open.spotify.com/album/0hgiiRQ8g4UVdwmDHMHDHX"
+      },
+      "artists": [
+        {
+          "name": "Laroie",
+          "url": "https://open.spotify.com/artist/3vm1wp0nCMQSIaPVT6f0IY"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 198727,
+      "name": "One More",
+      "url": "https://open.spotify.com/track/0MnqZrciuiv0WxaRTEAOCQ"
+    },
+    {
+      "album": {
+        "name": "One More",
+        "url": "https://open.spotify.com/album/3lTa4RymzaLm4pPHsDIDfA"
+      },
+      "artists": [
+        {
+          "name": "Laroie",
+          "url": "https://open.spotify.com/artist/3vm1wp0nCMQSIaPVT6f0IY"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198727,
+      "name": "One More",
+      "url": "https://open.spotify.com/track/1V9gmvgZao4w35fRR2HEXX"
+    },
+    {
+      "album": {
         "name": "One More",
         "url": "https://open.spotify.com/album/1NDD9D0teHWXmLkZGF0Cnc"
       },
@@ -1489,10 +1605,28 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 198727,
       "name": "One More",
       "url": "https://open.spotify.com/track/68PHyiXuEvfC5y75346tGx"
+    },
+    {
+      "album": {
+        "name": "Equilibre",
+        "url": "https://open.spotify.com/album/05i1g2VNkI7hBdIADta182"
+      },
+      "artists": [
+        {
+          "name": "The Pirouettes",
+          "url": "https://open.spotify.com/artist/1Jp2BVxy67R0OaudOV9lm1"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215933,
+      "name": "Oulala",
+      "url": "https://open.spotify.com/track/01mg6H8PhXNuGZj8tRsWCZ"
     },
     {
       "album": {
@@ -1507,7 +1641,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 215933,
       "name": "Oulala",
       "url": "https://open.spotify.com/track/1RDA0pMc3xtJDhugv492iK"
@@ -1882,6 +2016,24 @@
     },
     {
       "album": {
+        "name": "Nova Tunes 4.3",
+        "url": "https://open.spotify.com/album/6E5PvuAL7G9eBBni9pqfaX"
+      },
+      "artists": [
+        {
+          "name": "Hubert Lenoir",
+          "url": "https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 237666,
+      "name": "SECRET",
+      "url": "https://open.spotify.com/track/3YKlVrY90ttlrdXWTLToj4"
+    },
+    {
+      "album": {
         "name": "PICTURA DE IPSE : Musique directe",
         "url": "https://open.spotify.com/album/0kZhfjUFcDMoiedoaN48ic"
       },
@@ -1987,10 +2139,54 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 237600,
       "name": "Stand Tall",
       "url": "https://open.spotify.com/track/1XzkVmQZGvHzZ1vMB4nily"
+    },
+    {
+      "album": {
+        "name": "Global Musique, Vol. 2",
+        "url": "https://open.spotify.com/album/2vkL7hA8lVaQM33VOwMcsG"
+      },
+      "artists": [
+        {
+          "name": "Synapson",
+          "url": "https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR"
+        },
+        {
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237600,
+      "name": "Stand Tall",
+      "url": "https://open.spotify.com/track/3btpWOHsvwGlmVCpytaWNq"
+    },
+    {
+      "album": {
+        "name": "Stand Tall",
+        "url": "https://open.spotify.com/album/4aHhefASnscousZOaHk1OH"
+      },
+      "artists": [
+        {
+          "name": "Synapson",
+          "url": "https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR"
+        },
+        {
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-21",
+      "duration_ms": 237600,
+      "name": "Stand Tall",
+      "url": "https://open.spotify.com/track/5gTx28WqW30fEN1rEZFcDV"
     },
     {
       "album": {
@@ -2107,7 +2303,7 @@
       },
       "artists": [
         {
-          "name": "Gesleir",
+          "name": "Claude",
           "url": "https://open.spotify.com/artist/7GwgWrKzqg3WzSD8EAvNZP"
         }
       ],

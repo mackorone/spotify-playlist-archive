@@ -105,7 +105,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 226161,
       "name": "Azukita",
       "url": "https://open.spotify.com/track/7ioSP47bavdJ5yUwVXbKi3"
@@ -509,8 +509,8 @@
       },
       "artists": [
         {
-          "name": "Jhay Cortez",
-          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         },
         {
           "name": "Skrillex",
@@ -780,6 +780,62 @@
     },
     {
       "album": {
+        "name": "Loko",
+        "url": "https://open.spotify.com/album/2oS5FXOAiDN6e6vEwkDLLZ"
+      },
+      "artists": [
+        {
+          "name": "Tropkillaz",
+          "url": "https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO"
+        },
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "MC Kevinho",
+          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
+        },
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 163013,
+      "name": "Loko",
+      "url": "https://open.spotify.com/track/0RxPc5LlsiQ0TP5q2n1f6e"
+    },
+    {
+      "album": {
+        "name": "Make It Hot",
+        "url": "https://open.spotify.com/album/7l9LzzyPayF2hvDuznaofC"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 168397,
+      "name": "Make It Hot",
+      "url": "https://open.spotify.com/track/3MXUsff3RxRds9KCVttibq"
+    },
+    {
+      "album": {
         "name": "Mala Intenci\u00f3n (Remix)",
         "url": "https://open.spotify.com/album/1LbfCCYjPCVjbph8ZHhbmc"
       },
@@ -843,7 +899,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 193125,
       "name": "Me Siento Bien (feat. Alex Rose)",
       "url": "https://open.spotify.com/track/2ibv5jEtgPySM3bk5V6Vt8"
@@ -947,7 +1003,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 172500,
       "name": "Napoleona",
       "url": "https://open.spotify.com/track/4hlK5ALDOCVvGE22II5Wbb"
@@ -1157,7 +1213,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-22",
       "duration_ms": 127333,
       "name": "Pues (with Luis Fonsi & Sean Paul)",
       "url": "https://open.spotify.com/track/0H4olUjRf0vXXuQkpKnJmr"
@@ -1325,7 +1381,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-04",
+      "date_removed": "2022-11-01",
       "duration_ms": 165176,
       "name": "QueLoQue (feat. Paloma Mami)",
       "url": "https://open.spotify.com/track/1089I4FLizCRim8hc6eKST"
@@ -1637,6 +1693,28 @@
       "duration_ms": 186666,
       "name": "Toda La Noche",
       "url": "https://open.spotify.com/track/35fKNLcDG6d4ctrL4I4qO4"
+    },
+    {
+      "album": {
+        "name": "Toda La Noche",
+        "url": "https://open.spotify.com/album/3GQZqxmeWL4dAJQKROGnbu"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Mario Bautista",
+          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 186666,
+      "name": "Toda La Noche",
+      "url": "https://open.spotify.com/track/74RrMiuSOzAHZEqLlC0BHz"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Let it all go.",
+  "description": "Let it all go and lift yourself up with inspiring ambient music.",
   "name": "Energy Release",
   "published_playlist_ids": [
     "3yPTKwCyOEi0lpqAaQ8E7k"
@@ -41,10 +41,50 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 434733,
       "name": "A Delicate Romance",
       "url": "https://open.spotify.com/track/1EKcXCqix2v6qb6rj2m5Ty"
+    },
+    {
+      "album": {
+        "name": "Translucence + Drift Music",
+        "url": "https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO"
+      },
+      "artists": [
+        {
+          "name": "John Foxx",
+          "url": "https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-15",
+      "duration_ms": 434733,
+      "name": "A Delicate Romance",
+      "url": "https://open.spotify.com/track/481dttcKW8GzhMJ56EDdyP"
+    },
+    {
+      "album": {
+        "name": "A Heavenly Dream",
+        "url": "https://open.spotify.com/album/1EEAamsfZQXeZ1J4oVjlS5"
+      },
+      "artists": [
+        {
+          "name": "Golden Slumber",
+          "url": "https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211973,
+      "name": "A Heavenly Dream",
+      "url": "https://open.spotify.com/track/5EMlalyz3dSoGcDL9AdtcB"
     },
     {
       "album": {
@@ -207,6 +247,24 @@
       "duration_ms": 181090,
       "name": "Astral Wonder",
       "url": "https://open.spotify.com/track/7En6m2Yg3J1zAq895bxl78"
+    },
+    {
+      "album": {
+        "name": "At Night I Fly",
+        "url": "https://open.spotify.com/album/6U0puq2gcRqfDper0juJzK"
+      },
+      "artists": [
+        {
+          "name": "Heur",
+          "url": "https://open.spotify.com/artist/73UAkSvLz6yCEeKwPlCmDv"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153777,
+      "name": "At Night I Fly",
+      "url": "https://open.spotify.com/track/1kOo4z14fQRQdnYXU8VDcv"
     },
     {
       "album": {
@@ -624,6 +682,24 @@
     },
     {
       "album": {
+        "name": "Djupet",
+        "url": "https://open.spotify.com/album/7heZwQ3Yua1lr3XCYJzhbK"
+      },
+      "artists": [
+        {
+          "name": "Owen Meyers",
+          "url": "https://open.spotify.com/artist/3pTw5Y5aUfDyTD1OQVojEM"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223010,
+      "name": "Djupet",
+      "url": "https://open.spotify.com/track/4G7eckq0cn40VWV05gTJia"
+    },
+    {
+      "album": {
         "name": "Dream Light",
         "url": "https://open.spotify.com/album/7h9E6lWTD3IZWLL0wJKwY9"
       },
@@ -697,6 +773,24 @@
       "duration_ms": 223089,
       "name": "Enlightened Soul",
       "url": "https://open.spotify.com/track/6jUsf401hTcC0wRbzehzb6"
+    },
+    {
+      "album": {
+        "name": "Essence",
+        "url": "https://open.spotify.com/album/7yLFBGdnd3w67xZXUwiBeD"
+      },
+      "artists": [
+        {
+          "name": "Lush Lotus",
+          "url": "https://open.spotify.com/artist/4Ho8lnnZWQ6ldapSazUAbq"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200250,
+      "name": "Essence",
+      "url": "https://open.spotify.com/track/2g5vMBKaniR71KugH2O1uC"
     },
     {
       "album": {
@@ -1316,6 +1410,24 @@
     },
     {
       "album": {
+        "name": "Nova",
+        "url": "https://open.spotify.com/album/7iIt47DB6x3RlqEYUPYRI4"
+      },
+      "artists": [
+        {
+          "name": "Atmospheric Lights",
+          "url": "https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186647,
+      "name": "Nova",
+      "url": "https://open.spotify.com/track/1TF8WPJN2S54syyWHnqjFS"
+    },
+    {
+      "album": {
         "name": "Oblivion",
         "url": "https://open.spotify.com/album/03PoUSzMmhA5FYH7yU0BGO"
       },
@@ -1371,6 +1483,24 @@
       "duration_ms": 191484,
       "name": "Opal",
       "url": "https://open.spotify.com/track/0HUjGplgKAsG0roDYuAWzr"
+    },
+    {
+      "album": {
+        "name": "Opening Skies",
+        "url": "https://open.spotify.com/album/6uMHOH5aHwAFbBDUijneGG"
+      },
+      "artists": [
+        {
+          "name": "Eneyo Emberence",
+          "url": "https://open.spotify.com/artist/2TOrhTAycqShzken1KL2dz"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189222,
+      "name": "Opening Skies",
+      "url": "https://open.spotify.com/track/2d634QA1iA1WwWN8h0kCgO"
     },
     {
       "album": {
@@ -1684,6 +1814,24 @@
     },
     {
       "album": {
+        "name": "Safe",
+        "url": "https://open.spotify.com/album/0kVhLQ5BXHeMplSKwtHzGg"
+      },
+      "artists": [
+        {
+          "name": "Deruinga",
+          "url": "https://open.spotify.com/artist/4QdAxJ3cHi44C5QmSf1yeo"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159049,
+      "name": "Safe",
+      "url": "https://open.spotify.com/track/2sYLvR1t37NbXZqRI7KS5a"
+    },
+    {
+      "album": {
         "name": "Beyond Imagination",
         "url": "https://open.spotify.com/album/6F55IABDkakEQqcQAXeAq5"
       },
@@ -1713,7 +1861,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 177875,
       "name": "Shapes of Solitude",
       "url": "https://open.spotify.com/track/679ajBE0hA1KXeV4ksYifn"
@@ -1789,6 +1937,24 @@
       "duration_ms": 191696,
       "name": "Sleeping Beauty",
       "url": "https://open.spotify.com/track/0Cks68XMF8C89s1zTfFtR2"
+    },
+    {
+      "album": {
+        "name": "Sleeping Voyage",
+        "url": "https://open.spotify.com/album/6VfWEYmRbc9a2LwoAJhTya"
+      },
+      "artists": [
+        {
+          "name": "Dreamcloud Haze",
+          "url": "https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184617,
+      "name": "Sleeping Voyage",
+      "url": "https://open.spotify.com/track/6WZjn3SawDf8K5SKdUuVhK"
     },
     {
       "album": {
@@ -1933,6 +2099,24 @@
       "duration_ms": 189660,
       "name": "Submergine",
       "url": "https://open.spotify.com/track/3yrsdIc6YMb3Zau5U39BDJ"
+    },
+    {
+      "album": {
+        "name": "Elucidate",
+        "url": "https://open.spotify.com/album/6xKgXH4qCDgMn0IWb8aBI6"
+      },
+      "artists": [
+        {
+          "name": "Sandra Prime",
+          "url": "https://open.spotify.com/artist/2iKoQTuF9oRjVWo6l3BPRc"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167586,
+      "name": "Supine",
+      "url": "https://open.spotify.com/track/6xNDVglPOwn9YXDyCt33lS"
     },
     {
       "album": {

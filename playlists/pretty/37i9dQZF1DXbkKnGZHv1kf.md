@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbkKnGZHv1kf.md) - [plain]
 
 > Early blues standards and classics
 
-[Spotify](https://open.spotify.com/user/spotify) - 728,384 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 730,429 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbkKnGZHv1kf.md) - [plain]
 | 8 | [Guitar Rag](https://open.spotify.com/track/5xwCQuoGnPdgqw2omrgmCq) | [Sylvester Weaver](https://open.spotify.com/artist/2m2vWbN6WZU0Mtv569ndeb) | [The Slide Guitar: Bottles, Knives & Steel](https://open.spotify.com/album/1v6Wu8KqYLWsax5EjmZNAf) | 2:58 |
 | 9 | [Grinnin' In Your Face](https://open.spotify.com/track/7bWhtFDDMgcA6DmFGGlS0C) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda) | [Son House Revisited Vol\. 1](https://open.spotify.com/album/0B1wPjeha3UdcgiYquEprz) | 1:56 |
 | 10 | [Runaway Blues](https://open.spotify.com/track/7KZ6eGK7OuLXUzTVGdc7cL) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey](https://open.spotify.com/album/62spmsoOdWsaM8Q9itsM1j) | 2:26 |
-| 11 | [Where Did You Sleep Last Night](https://open.spotify.com/track/3XdnNX0cPynrR7KdRoyjwa) | [Lead Belly](https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC) | [Absolutely The Best](https://open.spotify.com/album/6I0A1EwU5SP9HCwweaWJIq) | 3:01 |
+| 11 | [Where Did You Sleep Last Night](https://open.spotify.com/track/13U0E6CXh2dnEi6eDzNyK0) | [Lead Belly](https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC) | [Tradition Masters Series](https://open.spotify.com/album/0G2QwqUV2Xt73bJAUi8PUv) | 3:01 |
 | 12 | [Baby Please Don't Go](https://open.spotify.com/track/1vjHFgIdNuLXojpkzysoV8) | [Big Joe Williams](https://open.spotify.com/artist/07NzVZ0BHZ0QOOw7nGvCgo) | [Going Back to Crawford](https://open.spotify.com/album/2C4LCaMK6gc8zzMuHrEPvg) | 2:44 |
 | 13 | [Goin' Down Slow](https://open.spotify.com/track/5EpIZRPAEqniltILeAjk38) | [St\. Louis Jimmy Oden](https://open.spotify.com/artist/6lot4YJARPUg9K35xNjDH6) | [Blues Legend \- The Best Of](https://open.spotify.com/album/1bQWiBkg3AosmjIzsp88pe) | 3:11 |
 | 14 | [Truckin' My Blues Away](https://open.spotify.com/track/6AgwNMztb3eIgNF1m2zi7h) | [Blind Boy Fuller](https://open.spotify.com/artist/7mPFWoDGjh7ArW1yr79EX8) | [Blind Boy Fuller Vol\. 1 1935 \- 1936](https://open.spotify.com/album/0OjJBBSeaNi7w8hf5SrL21) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbkKnGZHv1kf.md) - [plain]
 | 49 | [The Sky Is Crying](https://open.spotify.com/track/1cRTAPP2FG9h2WiYMOIVIK) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Shake Your Money Maker: The Best Of The Fire Sessions](https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu) | 2:46 |
 | 50 | [I'm A Man](https://open.spotify.com/track/760clbeDBWmBsBLbszWuNZ) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [Bo Diddley](https://open.spotify.com/album/1cbtDEwxCjMhglb49OgNBR) | 2:44 |
 
-Snapshot ID: `MTYzNTQ2NzYwMiwwMDAwMDAwMDljNjg1MTkyOTU5YTk4YWRlYzYxNmE1M2U5MDEwNTgw`
+Snapshot ID: `MTYzNTQ2NzYwMiwwMDAwMDAwMDcxN2RkYjYyZWMxZjI2OGE3NjRlMWZhZGEzMjMzMTQw`

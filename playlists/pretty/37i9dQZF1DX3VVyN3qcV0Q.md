@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3VVyN3qcV0Q.md) - [plain]
 
 ### [Yung Bae's DJ Mix](https://open.spotify.com/playlist/37i9dQZF1DX3VVyN3qcV0Q)
 
-> <a href="spotify:artist:30FDJPN3RtwJZ20g5YGCRX">Yung Bae</a> blesses us with a funky fun mix this summer!
+> <a href="spotify:artist:30FDJPN3RtwJZ20g5YGCRX">Yung Bae</a> blesses us with a funky fun mix to keep the party going!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,640 likes - 25 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,937 likes - 25 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3VVyN3qcV0Q.md) - [plain]
 | 24 | [Slam Jam! \- Mixed](https://open.spotify.com/track/2dR44FCzMehnQCkBHG1O3e) | [Luca Lush](https://open.spotify.com/artist/5oAjLXTvB7VDWn3Up9LYcQ), [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX) | [Slam Jam! \(Mixed\)](https://open.spotify.com/album/5TUa9tqhZHCE8kOMw4YnXa) | 2:53 |
 | 25 | [Welcome to the Disco \- Mixed](https://open.spotify.com/track/4I651E7H02tRIETieN5M8T) | [Macross 82\-99](https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow), [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX) | [Welcome to the Disco \(Mixed\)](https://open.spotify.com/album/5U2hgGLISCF4UWhGzVtrt5) | 3:13 |
 
-Snapshot ID: `MTY2NTA3OTI4NiwwMDAwMDAwMDY2MmRkYmQ4NTRhMDk4NzIxYTMzZjQ0MjkwYzkwOWE5`
+Snapshot ID: `MTY2NTYxMjU2OCwwMDAwMDAwMDE1MTI4ZDRmMTIzOTBjMGQ4MjY3NDU5NTNjMTcwYzRj`

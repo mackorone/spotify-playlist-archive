@@ -316,6 +316,24 @@
     },
     {
       "album": {
+        "name": "Al Chile (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/0kVxx8Q2lvS9lurAvysbJv"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 219746,
+      "name": "Cari\u00f1ito",
+      "url": "https://open.spotify.com/track/0ZLtbVx0ublaucYlwSZ1Y0"
+    },
+    {
+      "album": {
         "name": "Son Jarocho",
         "url": "https://open.spotify.com/album/0cJtBVpwDMgRJAkApvsyup"
       },
@@ -906,6 +924,24 @@
     },
     {
       "album": {
+        "name": "En Tu Pelo",
+        "url": "https://open.spotify.com/album/7DUAPU2UlcTZTB73Kj1Kld"
+      },
+      "artists": [
+        {
+          "name": "Isaac & Nora",
+          "url": "https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 183168,
+      "name": "En Tu Pelo",
+      "url": "https://open.spotify.com/track/3fvk9GHGFlyXPf4eSAJGwW"
+    },
+    {
+      "album": {
         "name": "En tu pelo",
         "url": "https://open.spotify.com/album/61JJTXsxJCbeU3J3rOcadz"
       },
@@ -1073,6 +1109,24 @@
       "duration_ms": 219737,
       "name": "La Bruja",
       "url": "https://open.spotify.com/track/4WpbTxtMQAAoh3rCKOVdET"
+    },
+    {
+      "album": {
+        "name": "La Bruja",
+        "url": "https://open.spotify.com/album/7DkmzX4YfIgH13348gjXST"
+      },
+      "artists": [
+        {
+          "name": "Jenny And The Mexicats",
+          "url": "https://open.spotify.com/artist/2faVKByk0IA651ICKyYYOa"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 219737,
+      "name": "La Bruja",
+      "url": "https://open.spotify.com/track/4qKhQkzaHv2JjuOwTjqeQV"
     },
     {
       "album": {
@@ -1388,8 +1442,52 @@
     },
     {
       "album": {
+        "name": "Fi\u00e8vre",
+        "url": "https://open.spotify.com/album/6Df5Ml1ZfUVn1vfJEMULyl"
+      },
+      "artists": [
+        {
+          "name": "Hansom \u0112li",
+          "url": "https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh"
+        },
+        {
+          "name": "Mike Clay",
+          "url": "https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 232786,
+      "name": "Mezcal",
+      "url": "https://open.spotify.com/track/0nY56BAHCxcX7XVrcUG9dA"
+    },
+    {
+      "album": {
         "name": "Mezcal",
         "url": "https://open.spotify.com/album/1eczfsDtMYWKF0oW3pRZVo"
+      },
+      "artists": [
+        {
+          "name": "Hansom \u0112li",
+          "url": "https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh"
+        },
+        {
+          "name": "Mike Clay",
+          "url": "https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
+      "duration_ms": 232786,
+      "name": "Mezcal",
+      "url": "https://open.spotify.com/track/2jMl3KEBFAS0DUH3BvKtWX"
+    },
+    {
+      "album": {
+        "name": "Mezcal",
+        "url": "https://open.spotify.com/album/3C1VzCBBwR29j8w65cKsf8"
       },
       "artists": [
         {
@@ -1406,7 +1504,7 @@
       "date_removed": null,
       "duration_ms": 232786,
       "name": "Mezcal",
-      "url": "https://open.spotify.com/track/2jMl3KEBFAS0DUH3BvKtWX"
+      "url": "https://open.spotify.com/track/73R2AFv1uvr6mNgjmz36wx"
     },
     {
       "album": {
@@ -2313,10 +2411,28 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-06",
       "duration_ms": 258880,
       "name": "Voy al Mar",
       "url": "https://open.spotify.com/track/2WhxGPakyxJMmcn4gRsF42"
+    },
+    {
+      "album": {
+        "name": "Voy al Mar",
+        "url": "https://open.spotify.com/album/1swHkrkE64ymuBJ4A7mai5"
+      },
+      "artists": [
+        {
+          "name": "Espanglish",
+          "url": "https://open.spotify.com/artist/5wnMB6o7El35W7BNYxKeb1"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258880,
+      "name": "Voy al Mar",
+      "url": "https://open.spotify.com/track/4iyo325AOznajzj3tDQMLK"
     },
     {
       "album": {

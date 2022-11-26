@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
-  "num_followers": 167052,
+  "num_followers": 170752,
   "original_name": "Classic Hardcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNzQ0MDMzMSwwMDAwMDAwMDhiNDRjODc1Y2ZmY2QwOWI2ODZlZDViYWM0NDkzZDRk",
+  "snapshot_id": "MTYwNzQ0MDMzMSwwMDAwMDAwMDY5MzdkODA0ZjlhYjFiZjFlNTNjYWZkNGY5MTgxZmVh",
   "tracks": [
     {
       "added_at": "2020-12-08 15:12:11",
@@ -75,22 +75,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "From Bliss To Devestation",
-        "url": "https://open.spotify.com/album/6HUbHHOrjEUmttu2eVrACC"
-      },
-      "artists": [
-        {
-          "name": "Vision Of Disorder",
-          "url": "https://open.spotify.com/artist/5EWBxA1pUqWVhFwBZYUQil"
-        }
-      ],
-      "duration_ms": 246466,
-      "name": "Living to Die",
-      "url": "https://open.spotify.com/track/3w8lbCMKWBMu40MoNyV0Il"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Start Today",
         "url": "https://open.spotify.com/album/1AAn8Qve9N7NET9v1dKceh"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 123706,
       "name": "Start Today",
       "url": "https://open.spotify.com/track/1izvrCbd0C75ScVDI6uVOl"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "From Bliss To Devestation",
+        "url": "https://open.spotify.com/album/6HUbHHOrjEUmttu2eVrACC"
+      },
+      "artists": [
+        {
+          "name": "Vision Of Disorder",
+          "url": "https://open.spotify.com/artist/5EWBxA1pUqWVhFwBZYUQil"
+        }
+      ],
+      "duration_ms": 246466,
+      "name": "Living to Die",
+      "url": "https://open.spotify.com/track/3w8lbCMKWBMu40MoNyV0Il"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -123,6 +123,22 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
+        "name": "Scratch the Surface",
+        "url": "https://open.spotify.com/album/64XtvdUB3Ph6xnajJyUIJc"
+      },
+      "artists": [
+        {
+          "name": "Sick Of It All",
+          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
+        }
+      ],
+      "duration_ms": 189026,
+      "name": "Step Down",
+      "url": "https://open.spotify.com/track/0S3YlKnOR7F6T8t20gLhf0"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
         "name": "The Current Will Carry Us",
         "url": "https://open.spotify.com/album/3bJtSVsqSsqmVtfvtnisbU"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 236746,
       "name": "The Disconnect",
       "url": "https://open.spotify.com/track/5KX5fs2yfRPZ2E2SYYA4lD"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
-        "name": "Scratch the Surface",
-        "url": "https://open.spotify.com/album/64ZNLvblppwORqskxoMbG1"
-      },
-      "artists": [
-        {
-          "name": "Sick Of It All",
-          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
-        }
-      ],
-      "duration_ms": 189026,
-      "name": "Step Down",
-      "url": "https://open.spotify.com/track/6DE037vHREtIRYjqzZ8fkf"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -171,22 +171,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Warriors (Tour Edition)",
-        "url": "https://open.spotify.com/album/5WmhGmiqWgPRmuuAVP7cCP"
-      },
-      "artists": [
-        {
-          "name": "Agnostic Front",
-          "url": "https://open.spotify.com/artist/3zDvanHxaETiHltPkKKYhT"
-        }
-      ],
-      "duration_ms": 142586,
-      "name": "For My Family",
-      "url": "https://open.spotify.com/track/4Y4fGklrIKERF6TixxvLQi"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Start Today",
         "url": "https://open.spotify.com/album/1AAn8Qve9N7NET9v1dKceh"
       },
@@ -203,6 +187,22 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
+        "name": "Warriors (Tour Edition)",
+        "url": "https://open.spotify.com/album/5WmhGmiqWgPRmuuAVP7cCP"
+      },
+      "artists": [
+        {
+          "name": "Agnostic Front",
+          "url": "https://open.spotify.com/artist/3zDvanHxaETiHltPkKKYhT"
+        }
+      ],
+      "duration_ms": 142586,
+      "name": "For My Family",
+      "url": "https://open.spotify.com/track/4Y4fGklrIKERF6TixxvLQi"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
         "name": "Set It Off",
         "url": "https://open.spotify.com/album/13DHqlzDQfKsvJc69fkElW"
       },
@@ -215,6 +215,54 @@
       "duration_ms": 206093,
       "name": "Set It Off",
       "url": "https://open.spotify.com/track/165wS8DOyhHPiNgB8vlfsE"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Forever True (1991-2001)",
+        "url": "https://open.spotify.com/album/2NlUqiYUsqBqE5o41dl4eh"
+      },
+      "artists": [
+        {
+          "name": "Earth Crisis",
+          "url": "https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g"
+        }
+      ],
+      "duration_ms": 231600,
+      "name": "Firestorm",
+      "url": "https://open.spotify.com/track/49d4jmxM4yyLkJA7NOiQ7M"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Check Your People",
+        "url": "https://open.spotify.com/album/0kFn5JKSC76NteLv33NyVe"
+      },
+      "artists": [
+        {
+          "name": "Downset",
+          "url": "https://open.spotify.com/artist/6SBgDfIRb6IE9TrA6w8Zg6"
+        }
+      ],
+      "duration_ms": 153173,
+      "name": "Pure Trauma",
+      "url": "https://open.spotify.com/track/7FpFV1oQhhZm6Vyj7K5FcS"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Manic Compression",
+        "url": "https://open.spotify.com/album/63jH8y8w07RTXjYqD136U6"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "duration_ms": 156693,
+      "name": "Thorn In My Side",
+      "url": "https://open.spotify.com/track/55QjemxhcFnHRvTjGHLJCO"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -251,22 +299,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Check Your People",
-        "url": "https://open.spotify.com/album/0kFn5JKSC76NteLv33NyVe"
-      },
-      "artists": [
-        {
-          "name": "Downset",
-          "url": "https://open.spotify.com/artist/6SBgDfIRb6IE9TrA6w8Zg6"
-        }
-      ],
-      "duration_ms": 153173,
-      "name": "Pure Trauma",
-      "url": "https://open.spotify.com/track/7FpFV1oQhhZm6Vyj7K5FcS"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Cognicide",
         "url": "https://open.spotify.com/album/1GQrz6GLWJ9WNijMQH4MzH"
       },
@@ -279,102 +311,6 @@
       "duration_ms": 97266,
       "name": "Mailer, Meet Jim",
       "url": "https://open.spotify.com/track/0jxUbJ6Yoj74NqXuOTkI6a"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
-        "name": "Death Knows Your Name",
-        "url": "https://open.spotify.com/album/6U0Bmn36FE4pISKv5fluBK"
-      },
-      "artists": [
-        {
-          "name": "The Hope Conspiracy",
-          "url": "https://open.spotify.com/artist/0EE0FUSX633ANADunRfZ9d"
-        }
-      ],
-      "duration_ms": 220413,
-      "name": "Animal Farm",
-      "url": "https://open.spotify.com/track/1QfjU50ABFOfNhoQVREWXa"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
-        "name": "Forever True (1991-2001)",
-        "url": "https://open.spotify.com/album/2NlUqiYUsqBqE5o41dl4eh"
-      },
-      "artists": [
-        {
-          "name": "Earth Crisis",
-          "url": "https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g"
-        }
-      ],
-      "duration_ms": 231600,
-      "name": "Firestorm",
-      "url": "https://open.spotify.com/track/49d4jmxM4yyLkJA7NOiQ7M"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
-        "name": "This Is Just the Beginning",
-        "url": "https://open.spotify.com/album/4RHBb8u3uid3lJGFwS0Jb1"
-      },
-      "artists": [
-        {
-          "name": "Kill Your Idols",
-          "url": "https://open.spotify.com/artist/6XMDTpG4mtZWvDlFjRF3XT"
-        }
-      ],
-      "duration_ms": 96053,
-      "name": "Can't Take It Away",
-      "url": "https://open.spotify.com/track/0AaoUCJLOhCiiMEWVNAc5C"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
-        "name": "Punk Rock Jukebox",
-        "url": "https://open.spotify.com/album/21nSjjFjAhQAUO1smiuQJS"
-      },
-      "artists": [
-        {
-          "name": "Murphy's Law",
-          "url": "https://open.spotify.com/artist/3EVzblmlRt3zPoB982Gr0G"
-        }
-      ],
-      "duration_ms": 124360,
-      "name": "Somebody's Gonna Get Their Head Kicked In",
-      "url": "https://open.spotify.com/track/4sX8M88xU9mDZxEFAdUuyL"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
-        "name": "What Doesn't Kill You Will Make You Stronger",
-        "url": "https://open.spotify.com/album/4TOosWzdrqh1WxHkRbvxMZ"
-      },
-      "artists": [
-        {
-          "name": "Candiria",
-          "url": "https://open.spotify.com/artist/2HlW9aXquEwJ3ywGlPEUPp"
-        }
-      ],
-      "duration_ms": 196720,
-      "name": "Blood",
-      "url": "https://open.spotify.com/track/0ai9xvb85BylFJ9JP2ogxe"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
-        "name": "Manic Compression",
-        "url": "https://open.spotify.com/album/63jH8y8w07RTXjYqD136U6"
-      },
-      "artists": [
-        {
-          "name": "Quicksand",
-          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
-        }
-      ],
-      "duration_ms": 156693,
-      "name": "Thorn In My Side",
-      "url": "https://open.spotify.com/track/55QjemxhcFnHRvTjGHLJCO"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -395,22 +331,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Hail Destroyer",
-        "url": "https://open.spotify.com/album/4zR3343ue909iFnr6odhK3"
-      },
-      "artists": [
-        {
-          "name": "Cancer Bats",
-          "url": "https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc"
-        }
-      ],
-      "duration_ms": 196680,
-      "name": "Hail Destroyer",
-      "url": "https://open.spotify.com/track/0XNm4jXda363NhHBoOp5II"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "For Those Who Were Crucified",
         "url": "https://open.spotify.com/album/5N0Ufg2dKqaXwwdNnbID7m"
       },
@@ -427,66 +347,66 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Vision of Disorder",
-        "url": "https://open.spotify.com/album/5EeQOcInW3Mfo6dtUofKOD"
+        "name": "Death Knows Your Name",
+        "url": "https://open.spotify.com/album/6U0Bmn36FE4pISKv5fluBK"
       },
       "artists": [
         {
-          "name": "Vision Of Disorder",
-          "url": "https://open.spotify.com/artist/5EWBxA1pUqWVhFwBZYUQil"
+          "name": "The Hope Conspiracy",
+          "url": "https://open.spotify.com/artist/0EE0FUSX633ANADunRfZ9d"
         }
       ],
-      "duration_ms": 193066,
-      "name": "Element",
-      "url": "https://open.spotify.com/track/0NEDkO8NleQbN66lO2pl65"
+      "duration_ms": 220413,
+      "name": "Animal Farm",
+      "url": "https://open.spotify.com/track/1QfjU50ABFOfNhoQVREWXa"
     },
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Bulldog Edition",
-        "url": "https://open.spotify.com/album/6Q1Y7gyccEvxvYl698G2iy"
+        "name": "This Is Just the Beginning",
+        "url": "https://open.spotify.com/album/4RHBb8u3uid3lJGFwS0Jb1"
       },
       "artists": [
         {
-          "name": "Sheer Terror",
-          "url": "https://open.spotify.com/artist/2AFPWhrVDLjiVNMpbou4jU"
+          "name": "Kill Your Idols",
+          "url": "https://open.spotify.com/artist/6XMDTpG4mtZWvDlFjRF3XT"
         }
       ],
-      "duration_ms": 104600,
-      "name": "Just Can't Hate Enough",
-      "url": "https://open.spotify.com/track/1qrzQuZ0CegX3PQtrsek7R"
+      "duration_ms": 96053,
+      "name": "Can't Take It Away",
+      "url": "https://open.spotify.com/track/0AaoUCJLOhCiiMEWVNAc5C"
     },
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Count Me In",
-        "url": "https://open.spotify.com/album/6qDsZxas2r5Ye6EmHk8Wnv"
+        "name": "What Doesn't Kill You Will Make You Stronger",
+        "url": "https://open.spotify.com/album/4TOosWzdrqh1WxHkRbvxMZ"
       },
       "artists": [
         {
-          "name": "Death Before Dishonor",
-          "url": "https://open.spotify.com/artist/0BIBoMLD3B0gptcCP0b9K5"
+          "name": "Candiria",
+          "url": "https://open.spotify.com/artist/2HlW9aXquEwJ3ywGlPEUPp"
         }
       ],
-      "duration_ms": 181226,
-      "name": "Break Through It All",
-      "url": "https://open.spotify.com/track/4WN54cERPExpnOs1adL5nB"
+      "duration_ms": 196720,
+      "name": "Blood",
+      "url": "https://open.spotify.com/track/0ai9xvb85BylFJ9JP2ogxe"
     },
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "In This Defiance",
-        "url": "https://open.spotify.com/album/6o19cWdtFGOklZA1n658GH"
+        "name": "Punk Rock Jukebox",
+        "url": "https://open.spotify.com/album/21nSjjFjAhQAUO1smiuQJS"
       },
       "artists": [
         {
-          "name": "Strife",
-          "url": "https://open.spotify.com/artist/68qsduRCs8caw95bbF4IDD"
+          "name": "Murphy's Law",
+          "url": "https://open.spotify.com/artist/3EVzblmlRt3zPoB982Gr0G"
         }
       ],
-      "duration_ms": 147186,
-      "name": "Blistered",
-      "url": "https://open.spotify.com/track/4GdInZSiS6HeCjYf4LMXgn"
+      "duration_ms": 124360,
+      "name": "Somebody's Gonna Get Their Head Kicked In",
+      "url": "https://open.spotify.com/track/4sX8M88xU9mDZxEFAdUuyL"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -507,6 +427,38 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
+        "name": "In This Defiance",
+        "url": "https://open.spotify.com/album/6o19cWdtFGOklZA1n658GH"
+      },
+      "artists": [
+        {
+          "name": "Strife",
+          "url": "https://open.spotify.com/artist/68qsduRCs8caw95bbF4IDD"
+        }
+      ],
+      "duration_ms": 147186,
+      "name": "Blistered",
+      "url": "https://open.spotify.com/track/4GdInZSiS6HeCjYf4LMXgn"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Vision of Disorder",
+        "url": "https://open.spotify.com/album/5EeQOcInW3Mfo6dtUofKOD"
+      },
+      "artists": [
+        {
+          "name": "Vision Of Disorder",
+          "url": "https://open.spotify.com/artist/5EWBxA1pUqWVhFwBZYUQil"
+        }
+      ],
+      "duration_ms": 193066,
+      "name": "Element",
+      "url": "https://open.spotify.com/track/0NEDkO8NleQbN66lO2pl65"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
         "name": "Set It Off",
         "url": "https://open.spotify.com/album/13DHqlzDQfKsvJc69fkElW"
       },
@@ -519,22 +471,6 @@
       "duration_ms": 121706,
       "name": "New York City",
       "url": "https://open.spotify.com/track/2YL1QdU29cFAHrijICeiWA"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
-        "name": "Give Blood",
-        "url": "https://open.spotify.com/album/4FzDbUFfvnhWwkduv6q7g9"
-      },
-      "artists": [
-        {
-          "name": "Bane",
-          "url": "https://open.spotify.com/artist/2Fjvft2Z56VrVjmYE5TkEi"
-        }
-      ],
-      "duration_ms": 157213,
-      "name": "Some Came Running",
-      "url": "https://open.spotify.com/track/00pQYMt0mNh6fAWhgvAdMA"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -555,34 +491,18 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Before The Quarrel",
-        "url": "https://open.spotify.com/album/4cOlUeoODYu4DODpSnlU3i"
+        "name": "Hail Destroyer",
+        "url": "https://open.spotify.com/album/4zR3343ue909iFnr6odhK3"
       },
       "artists": [
         {
-          "name": "Cro-Mags",
-          "url": "https://open.spotify.com/artist/5WCrzTQZ6S6EgebqI57Ilg"
+          "name": "Cancer Bats",
+          "url": "https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc"
         }
       ],
-      "duration_ms": 135471,
-      "name": "World Peace",
-      "url": "https://open.spotify.com/track/54P30qdoSqp3MgngBMZOW3"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
-        "name": "H2O",
-        "url": "https://open.spotify.com/album/6SIXL2tKLkV6FBZSzf9agC"
-      },
-      "artists": [
-        {
-          "name": "H2O",
-          "url": "https://open.spotify.com/artist/4mQm8gcXNNyzNQRqYKTKqo"
-        }
-      ],
-      "duration_ms": 170213,
-      "name": "I Know Why",
-      "url": "https://open.spotify.com/track/1caybCua72nNZzvFYQ3Yzy"
+      "duration_ms": 196680,
+      "name": "Hail Destroyer",
+      "url": "https://open.spotify.com/track/0XNm4jXda363NhHBoOp5II"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -596,9 +516,9 @@
           "url": "https://open.spotify.com/artist/2AFPWhrVDLjiVNMpbou4jU"
         }
       ],
-      "duration_ms": 144413,
-      "name": "Here to Stay",
-      "url": "https://open.spotify.com/track/4y5I2JW4P1jQWrAzieGYhS"
+      "duration_ms": 104600,
+      "name": "Just Can't Hate Enough",
+      "url": "https://open.spotify.com/track/1qrzQuZ0CegX3PQtrsek7R"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -619,34 +539,50 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Sound Of The Republic",
-        "url": "https://open.spotify.com/album/42NliwV96RRrJCD0yS0SCm"
+        "name": "Count Me In",
+        "url": "https://open.spotify.com/album/6qDsZxas2r5Ye6EmHk8Wnv"
       },
       "artists": [
         {
-          "name": "Raised Fist",
-          "url": "https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm"
+          "name": "Death Before Dishonor",
+          "url": "https://open.spotify.com/artist/0BIBoMLD3B0gptcCP0b9K5"
         }
       ],
-      "duration_ms": 212573,
-      "name": "You Ignore Them All",
-      "url": "https://open.spotify.com/track/35MYAs5EQtZ9c5NLlZammA"
+      "duration_ms": 181226,
+      "name": "Break Through It All",
+      "url": "https://open.spotify.com/track/4WN54cERPExpnOs1adL5nB"
     },
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "As Real As It Gets",
-        "url": "https://open.spotify.com/album/5jOrOQlAwdDFYZYmcdngtv"
+        "name": "Before The Quarrel",
+        "url": "https://open.spotify.com/album/4cOlUeoODYu4DODpSnlU3i"
       },
       "artists": [
         {
-          "name": "Sworn Enemy",
-          "url": "https://open.spotify.com/artist/1I16IF1ltabPiw70Y6KG4F"
+          "name": "Cro-Mags",
+          "url": "https://open.spotify.com/artist/5WCrzTQZ6S6EgebqI57Ilg"
         }
       ],
-      "duration_ms": 216600,
-      "name": "Sworn Enemy",
-      "url": "https://open.spotify.com/track/41A2Hv0SEKnse3TWVuxADF"
+      "duration_ms": 135471,
+      "name": "World Peace",
+      "url": "https://open.spotify.com/track/54P30qdoSqp3MgngBMZOW3"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Give Blood",
+        "url": "https://open.spotify.com/album/4FzDbUFfvnhWwkduv6q7g9"
+      },
+      "artists": [
+        {
+          "name": "Bane",
+          "url": "https://open.spotify.com/artist/2Fjvft2Z56VrVjmYE5TkEi"
+        }
+      ],
+      "duration_ms": 157213,
+      "name": "Some Came Running",
+      "url": "https://open.spotify.com/track/00pQYMt0mNh6fAWhgvAdMA"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -667,6 +603,38 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
+        "name": "H2O",
+        "url": "https://open.spotify.com/album/6SIXL2tKLkV6FBZSzf9agC"
+      },
+      "artists": [
+        {
+          "name": "H2O",
+          "url": "https://open.spotify.com/artist/4mQm8gcXNNyzNQRqYKTKqo"
+        }
+      ],
+      "duration_ms": 170213,
+      "name": "I Know Why",
+      "url": "https://open.spotify.com/track/1caybCua72nNZzvFYQ3Yzy"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Sound Of The Republic",
+        "url": "https://open.spotify.com/album/42NliwV96RRrJCD0yS0SCm"
+      },
+      "artists": [
+        {
+          "name": "Raised Fist",
+          "url": "https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm"
+        }
+      ],
+      "duration_ms": 212573,
+      "name": "You Ignore Them All",
+      "url": "https://open.spotify.com/track/35MYAs5EQtZ9c5NLlZammA"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
         "name": "State Of The World Address",
         "url": "https://open.spotify.com/album/6vlx9tTK4GMMflGu1wZVzn"
       },
@@ -679,6 +647,38 @@
       "duration_ms": 225960,
       "name": "Down for Life",
       "url": "https://open.spotify.com/track/5PbC9tBONAbLTDTfMvzndz"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Bulldog Edition",
+        "url": "https://open.spotify.com/album/6Q1Y7gyccEvxvYl698G2iy"
+      },
+      "artists": [
+        {
+          "name": "Sheer Terror",
+          "url": "https://open.spotify.com/artist/2AFPWhrVDLjiVNMpbou4jU"
+        }
+      ],
+      "duration_ms": 144413,
+      "name": "Here to Stay",
+      "url": "https://open.spotify.com/track/4y5I2JW4P1jQWrAzieGYhS"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "As Real As It Gets",
+        "url": "https://open.spotify.com/album/5jOrOQlAwdDFYZYmcdngtv"
+      },
+      "artists": [
+        {
+          "name": "Sworn Enemy",
+          "url": "https://open.spotify.com/artist/1I16IF1ltabPiw70Y6KG4F"
+        }
+      ],
+      "duration_ms": 216600,
+      "name": "Sworn Enemy",
+      "url": "https://open.spotify.com/track/41A2Hv0SEKnse3TWVuxADF"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -711,38 +711,6 @@
       "duration_ms": 263013,
       "name": "Save Us",
       "url": "https://open.spotify.com/track/2GCFX4cNARwJkNEG6NqnoM"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
-        "name": "H2O",
-        "url": "https://open.spotify.com/album/6SIXL2tKLkV6FBZSzf9agC"
-      },
-      "artists": [
-        {
-          "name": "H2O",
-          "url": "https://open.spotify.com/artist/4mQm8gcXNNyzNQRqYKTKqo"
-        }
-      ],
-      "duration_ms": 175413,
-      "name": "Family Tree",
-      "url": "https://open.spotify.com/track/3MRHzHjvLtvaLK4qORjxSj"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
-        "name": "Lower East Side",
-        "url": "https://open.spotify.com/album/3Ri754L0sioGyPUkRONKFl"
-      },
-      "artists": [
-        {
-          "name": "Warzone",
-          "url": "https://open.spotify.com/artist/7cvibKo9n0RsgKaW4p4RVO"
-        }
-      ],
-      "duration_ms": 135813,
-      "name": "Always - A Friend For Life",
-      "url": "https://open.spotify.com/track/4eKXxBigaMftkFQQphl1eO"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -795,18 +763,50 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Haterz Be Damned: New, Old & Rare",
-        "url": "https://open.spotify.com/album/7cTQVE19wRopoVrkumYTvi"
+        "name": "H2O",
+        "url": "https://open.spotify.com/album/6SIXL2tKLkV6FBZSzf9agC"
       },
       "artists": [
         {
-          "name": "25 Ta Life",
-          "url": "https://open.spotify.com/artist/3amFG2AzKgYyY7jBHuHuew"
+          "name": "H2O",
+          "url": "https://open.spotify.com/artist/4mQm8gcXNNyzNQRqYKTKqo"
         }
       ],
-      "duration_ms": 114027,
-      "name": "Strength Thru Unity",
-      "url": "https://open.spotify.com/track/4OJZM33D5Z4XO6KhGp3Wva"
+      "duration_ms": 175413,
+      "name": "Family Tree",
+      "url": "https://open.spotify.com/track/3MRHzHjvLtvaLK4qORjxSj"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Gomorrah's Season Ends",
+        "url": "https://open.spotify.com/album/05mqPyEEjTfvM3TDWkt11k"
+      },
+      "artists": [
+        {
+          "name": "Earth Crisis",
+          "url": "https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g"
+        }
+      ],
+      "duration_ms": 209160,
+      "name": "Gomorrah's Season Ends",
+      "url": "https://open.spotify.com/track/3FUkmuhMgkxwvYuV8lvGwU"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Ugly",
+        "url": "https://open.spotify.com/album/0DfwAJXDy8TzMgRuPNsjkc"
+      },
+      "artists": [
+        {
+          "name": "Life Of Agony",
+          "url": "https://open.spotify.com/artist/4gyzQpfG5YQZJt2jj0IkEl"
+        }
+      ],
+      "duration_ms": 238333,
+      "name": "Let's Pretend",
+      "url": "https://open.spotify.com/track/2fnHEggVPhncefeyheMsfw"
     }
   ],
   "unique_name": "Classic Hardcore",

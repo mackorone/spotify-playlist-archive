@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5grxWts6M4gvPZFrWSNOBl.md) - [plain]
 
 > Missa inte Disclosure på Linné\-scenen på LÖRDAG / 23.00
 
-[Spotify](https://open.spotify.com/user/spotify) - 16 likes - 10 songs - 48 min 37 sec
+[Spotify](https://open.spotify.com/user/spotify) - 20 likes - 10 songs - 48 min 37 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

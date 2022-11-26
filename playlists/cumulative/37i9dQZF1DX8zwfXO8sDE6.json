@@ -296,6 +296,24 @@
     },
     {
       "album": {
+        "name": "Pocket Park",
+        "url": "https://open.spotify.com/album/1VS8e1raK66dzG2RijR3Ee"
+      },
+      "artists": [
+        {
+          "name": "Miki Matsubara",
+          "url": "https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1"
+        }
+      ],
+      "date_added": "2021-08-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 311720,
+      "name": "Mayonaka no Door / Stay With Me",
+      "url": "https://open.spotify.com/track/1hlhidUoY7Q6TWaLFnxysA"
+    },
+    {
+      "album": {
         "name": "Miki Matsubara Best Collection",
         "url": "https://open.spotify.com/album/1ANaxJNBcbOvvycNL4MCL5"
       },
@@ -379,7 +397,7 @@
       ],
       "date_added": "2021-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": "2022-11-14",
       "duration_ms": 233200,
       "name": "Rainbow Sealine",
       "url": "https://open.spotify.com/track/3NQ3e5j7qcscVxKsUQlfOs"
@@ -494,6 +512,24 @@
     },
     {
       "album": {
+        "name": "Summer Blue",
+        "url": "https://open.spotify.com/album/1OGCoUWA7LRmo8KJvp1rxl"
+      },
+      "artists": [
+        {
+          "name": "Bread And Butter",
+          "url": "https://open.spotify.com/artist/3OldswvDMARe1uWLYSrdEz"
+        }
+      ],
+      "date_added": "2021-08-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 239900,
+      "name": "Summer Blue",
+      "url": "https://open.spotify.com/track/1QEntcPui8bdiIXno4tcUI"
+    },
+    {
+      "album": {
         "name": "SUNSHOWER",
         "url": "https://open.spotify.com/album/1tirkouCp0ofWI1IADUvy2"
       },
@@ -595,7 +631,7 @@
       ],
       "date_added": "2021-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": "2022-10-25",
       "duration_ms": 267066,
       "name": "Sunday Afternoon",
       "url": "https://open.spotify.com/track/1UwQVrekm0ETCA9aJiSnzm"
@@ -913,7 +949,7 @@
       ],
       "date_added": "2021-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 194853,
       "name": "\u30b5\u30d6\u30bf\u30ec\u30cb\u30a2\u30f3\u4e8c\u4eba\u307c\u3063\u3061 - 2017 \u30ea\u30de\u30b9\u30bf\u30fc",
       "url": "https://open.spotify.com/track/0Bm8KQPVBA4neqiy5mqEiw"
@@ -949,7 +985,7 @@
       ],
       "date_added": "2021-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 227266,
       "name": "\u30b7\u30f3\u30d7\u30eb\u30fb\u30e9\u30d6",
       "url": "https://open.spotify.com/track/75NJAsvUCSHjNYSw0qRT42"

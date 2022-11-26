@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RSJAsEDz7H.md) - [plain]
 
 > Celebrate the epic GTA series with memorable moments and hidden gems from the soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,671 likes - 138 songs - 9 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,974 likes - 138 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RSJAsEDz7H.md) - [plain]
 | 5 | [Gospel \(with Eminem\)](https://open.spotify.com/track/3a2jFwnts4Cf0OwJbK61SL) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Gospel \(with Eminem\)](https://open.spotify.com/album/5ulYXl8kDywda5dOOFkZpX) | 3:30 |
 | 6 | [San Andreas Theme Song](https://open.spotify.com/track/5f7F8ovtEmFzOdyN5fTOKl) | [Young Maylay](https://open.spotify.com/artist/58zzaIQ8XVObJml8da0b2e) | [San Andreas Original Mixtape](https://open.spotify.com/album/5eH1GJwSmZXI4Xebe1A9X3) | 1:26 |
 | 7 | [Duro 2005](https://open.spotify.com/track/0pgS3J6Vyt1VKrUI0MUeNG) | [La Goony Chonga](https://open.spotify.com/artist/4ZNk4pFFvI85sdgjkFPBjI) | [Dimen5ión](https://open.spotify.com/album/0KhUcxGeOjOsGCodu9IaHj) | 2:21 |
-| 8 | [Skinny Jeans](https://open.spotify.com/track/5oJIwq4dlZ9Bv1DSTM5Jqh) | [Likkle Vybz](https://open.spotify.com/artist/205X0050nYrtDk7oznzvDf), [Likkle Addi](https://open.spotify.com/artist/1gbC1B0H677ryBssCEnIIm) | [Skinny Jeans](https://open.spotify.com/album/5euwdoUkc5wdS99Qw2g4nV) | 3:20 |
+| 8 | [Skinny Jeans](https://open.spotify.com/track/2Xf4YEfJ3G3Nh0Jpl10JGT) | [Likkle Vybz](https://open.spotify.com/artist/205X0050nYrtDk7oznzvDf), [Likkle Addi](https://open.spotify.com/artist/1gbC1B0H677ryBssCEnIIm) | [Skinny Jeans](https://open.spotify.com/album/2rVj3edIscNUTwnEkiw4po) | 3:20 |
 | 9 | [Nubes](https://open.spotify.com/track/2nU1vaARHQ8FoaxFfe4ZN7) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 2:58 |
 | 10 | [Machote](https://open.spotify.com/track/2TqYC6Gn7vDhL8f2wWCYTB) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 2:57 |
 | 11 | [Bounce N Break Yo Back](https://open.spotify.com/track/2mI20kUdIyOaAhtgeonE4g) | [DJ Spinn](https://open.spotify.com/artist/0ZGOz1bQgvsT4KSzHB1dg9) | [Juke City Volume 1](https://open.spotify.com/album/2VcoFQbHgH7zJ3fdgwZd69) | 2:38 |
@@ -143,8 +143,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RSJAsEDz7H.md) - [plain]
 | 133 | [Family Man](https://open.spotify.com/track/5KiDWqKsU0EfXQJdnWSOn9) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [H2O](https://open.spotify.com/album/7ygXmT175bKbOpiPjNwXOB) | 3:24 |
 | 134 | [Steppin' Out](https://open.spotify.com/track/2KY0QUeRY3IPuJI1gyU9BJ) | [Joe Jackson](https://open.spotify.com/artist/6KOqPxwfNAmZPkiCnDE9yT) | [Night And Day](https://open.spotify.com/album/01sMJCr0xosXP8uZ2djLvd) | 4:28 |
 | 135 | [Chinatown Wars](https://open.spotify.com/track/2w40syGl9qdWmaLbstkATO) | [Ghostface Killah & Doom](https://open.spotify.com/artist/26yXuyMz4MJ8LzfdnluM0j) | [Grand Theft Auto: Chinatown Wars](https://open.spotify.com/album/5Vmlz8Ir6m2efzAysdACS3) | 3:39 |
-| 136 | [Play It Cool](https://open.spotify.com/track/1ukiiZflmFDT2tISzN0Q9R) | [Gangrene](https://open.spotify.com/artist/56GO5ViKH7Sg7ihAmFfvwv), [Samuel T\. Herring](https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [The Alchemist and Oh No Present Welcome to Los Santos](https://open.spotify.com/album/3MIN5xm8U4mF6W3ADGh93h) | 3:53 |
+| 136 | [Play It Cool](https://open.spotify.com/track/5YP2Id88tm2pnRQ6Ejh1rh) | [Gangrene](https://open.spotify.com/artist/56GO5ViKH7Sg7ihAmFfvwv), [Samuel T\. Herring](https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [The Alchemist and Oh No Present Welcome to Los Santos](https://open.spotify.com/album/5nv99ug8cFmIVQsspcHej8) | 3:53 |
 | 137 | [Running Away \- 12\-Inch Long Version](https://open.spotify.com/track/47bblspEQHrxuRRYKWxg2e) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Lifeline](https://open.spotify.com/album/27SjhSdADeHymQsXoWrhNq) | 6:54 |
 | 138 | [Groove Me](https://open.spotify.com/track/7t4rA2AxpG7yAhgRwopfn2) | [Guy](https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8) | [Guy](https://open.spotify.com/album/1b4uW38DLtC6GlGr39AGHc) | 4:33 |
 
-Snapshot ID: `MTY0Mzk4NjkyMSwwMDAwMDAwMDdlNDcxOGNmZGY2NTMwNDliOTQ4ZTdjODQzYTljZGY4`
+Snapshot ID: `MTY0Mzk4NjkyMSwwMDAwMDAwMGU3MmI4YWJkMjA4NGZhMmQzYTZkYTNmNzg2YjA4MWQw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnnLLPsf7sZ.md) - [plain]
 
 > The official playlist for We The People, streaming on Netflix July 4.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,759 likes - 15 songs - 47 min 35 sec
+[Spotify](https://open.spotify.com/user/spotify) - 12,289 likes - 15 songs - 47 min 35 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,11 +17,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnnLLPsf7sZ.md) - [plain]
 | 7 | [American Citizen \- from the Netflix Series "We The People"](https://open.spotify.com/track/0gUjMxaEMgzJXiYc9upAnv) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [American Citizen \(from the Netflix Series "We The People"\)](https://open.spotify.com/album/4AKMdBk5gsKWDtCCZsWXL1) | 3:33 |
 | 8 | [All Rise \- from the Netflix Series "We The People"](https://open.spotify.com/track/6jxhjZ9mAjnzRVVvSnDQqV) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [All Rise \(from the Netflix Series "We The People"\)](https://open.spotify.com/album/0AV5UsSXYsFwS6JvfTExXb) | 3:24 |
 | 9 | [Stronger \(from the Netflix Series "We The People"\)](https://open.spotify.com/track/4x9zyiiywsVOji2Emg8UQg) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Stronger \(from the Netflix Series "We The People"\)](https://open.spotify.com/album/54CNr8PHdMQ8SMTiUyg47p) | 3:32 |
-| 10 | [Theme Music \(From the Netflix Series "We The People"\)](https://open.spotify.com/track/4UJjY2CrOyYVJvx8YrYz22) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Theme Music \(From the Netflix Series "We The People"\)](https://open.spotify.com/album/5c4CPUU4NP27VWDDRIIKMo) | 0:41 |
+| 10 | [Theme Music \(From the Netflix Series "We The People"\)](https://open.spotify.com/track/6atr3EsaYiyerXDWeGAcwm) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Theme Music \(From the Netflix Series "We The People"\)](https://open.spotify.com/album/1PfPIyuwEbDKkCAdRgU143) | 0:41 |
 | 11 | [The Star Spangled Banner \(feat\. The Florida Orchestra\) \- Live from Super Bowl XXV](https://open.spotify.com/track/1Fbz8vXRqyPSOmMvOxV6Dg) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Florida Orchestra](https://open.spotify.com/artist/2ol0baiyjfNxqzzNhXTykx) | [The Star Spangled Banner \(feat\. The Florida Orchestra\) \[Live from Super Bowl XXV\]](https://open.spotify.com/album/6zq2IZ4PN0A7uLRu5ON0Pr) | 2:14 |
 | 12 | [A Change Is Gonna Come](https://open.spotify.com/track/0FEqhGaxp8Gq5m2KvnunJU) | [Los Coast](https://open.spotify.com/artist/22L3FsvrXWoLLEUApoNfpr), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [A Change Is Gonna Come](https://open.spotify.com/album/4fKOZdl2QP1TNTLbwhpXBp) | 3:23 |
 | 13 | [Wait for It](https://open.spotify.com/track/7EqpEBPOohgk7NnKvBGFWo) | [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN), [Original Broadway Cast of Hamilton](https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu) | [Hamilton \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) | 3:13 |
 | 14 | [Party In The U.S.A.](https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives](https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS) | 3:22 |
 | 15 | [Firework](https://open.spotify.com/track/4r6eNCsrZnQWJzzvFh4nlg) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:47 |
 
-Snapshot ID: `MTY0ODIyMTA1OCwwMDAwMDAwMDc3MmVjZGMwNjFkNzdiYTBiNGRhNjc1Yjg0YzczODQ2`
+Snapshot ID: `MTY0ODIyMTA1OCwwMDAwMDAwMDM5YzYyZTY4ZmYzZDg0MzNlNDk5Y2IzZmE1NjllMzI3`

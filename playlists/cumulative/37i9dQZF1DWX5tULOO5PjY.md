@@ -4,7 +4,7 @@
 
 > 80s electronic boogie and post\-disco
 
-60 songs - 5 hr 38 min - [published](https://open.spotify.com/playlist/21TAzjDYgnP1CJtfVSNB12)
+61 songs - 5 hr 45 min - [published](https://open.spotify.com/playlist/21TAzjDYgnP1CJtfVSNB12)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Every Girl \(Wants My Guy\)](https://open.spotify.com/track/2xA9V7lbVClpuGhsU7SqIz) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Get It Right](https://open.spotify.com/album/0Pe124sDVootFFmCMhqeHO) | 6:32 | 2021-07-14 |  |
 | [Fantastic Voyage](https://open.spotify.com/track/0rc9Uwm4vmnQEfx5omLWWF) | [Lakeside](https://open.spotify.com/artist/74lTWE4DqbFU3Vn8z4uH72) | [Fantastic Voyage](https://open.spotify.com/album/4bRmuhsGOdor3O2Ry38A9q) | 6:10 | 2021-07-14 |  |
 | [Feelin' Lucky Lately \- Remastered](https://open.spotify.com/track/3eO590MvMxfHYBNFCVsUK6) | [High Fashion](https://open.spotify.com/artist/6axEK9sZSlbE212EPp41eg) | [Feelin' Lucky](https://open.spotify.com/album/0DaTkFRnsOiE3ImH4pWuUz) | 5:47 | 2021-07-14 |  |
+| [Feels So Real \(Won't Let Go\)](https://open.spotify.com/track/4ms4C2YbUJupP0bVjU0rTC) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Now \(Expanded Edition\)](https://open.spotify.com/album/2XpO3g1oIEXCjXV9HKbYwS) | 6:49 | 2021-07-14 | 2022-11-13 |
 | [Feels So Real \(Won't Let Go\) \- 12" Version](https://open.spotify.com/track/6OTqMkJyg3dsr0GZU5OyoZ) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Remind Me \(The Classic Elektra Recordings 1978\-1984\)](https://open.spotify.com/album/2zhXygXV9sHY6I2AMR456t) | 6:49 | 2021-07-14 |  |
 | [First True Love Affair \- Original](https://open.spotify.com/track/2GzUvuzlQXrNfrFVFSmbPz) | [Jimmy Ross](https://open.spotify.com/artist/0FR28XfyaJnxGnoDFHcktX) | [First True Love Affair \(LP\)](https://open.spotify.com/album/5op53IdBGt1sfjgAi9y3jh) | 6:16 | 2021-07-14 |  |
 | [Girl I'm Watching You](https://open.spotify.com/track/5hCrNKdCROaPyzjIfOASAN) | [Platinum Hook](https://open.spotify.com/artist/34cEAXNLDfRGLvv7bDn2Yp) | [Watching You](https://open.spotify.com/album/2xk9VODvAMmfvr66QdyTw8) | 6:37 | 2021-07-14 |  |

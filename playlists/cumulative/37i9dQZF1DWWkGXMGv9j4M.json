@@ -89,7 +89,7 @@
     {
       "album": {
         "name": "Starz",
-        "url": "https://open.spotify.com/album/0U8kr1FIR4vhDRqKomi62M"
+        "url": "https://open.spotify.com/album/4NESArVYihJKvoXk1eYE8A"
       },
       "artists": [
         {
@@ -100,6 +100,24 @@
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 192506,
+      "name": "Acid at 7/11",
+      "url": "https://open.spotify.com/track/2VrFzwtsXtYkVzq9ym6DqH"
+    },
+    {
+      "album": {
+        "name": "Starz",
+        "url": "https://open.spotify.com/album/0U8kr1FIR4vhDRqKomi62M"
+      },
+      "artists": [
+        {
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
       "duration_ms": 192506,
       "name": "Acid at 7/11",
       "url": "https://open.spotify.com/track/3L60fLXCpeTF4jRL8a7kk9"
@@ -157,6 +175,24 @@
       "duration_ms": 173977,
       "name": "alley-oop",
       "url": "https://open.spotify.com/track/6IERGfMBe3csfANIuQ74D9"
+    },
+    {
+      "album": {
+        "name": "anything",
+        "url": "https://open.spotify.com/album/5rkiowxQjeir9LRa4g52zO"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 202047,
+      "name": "anything",
+      "url": "https://open.spotify.com/track/2k5ODImZ9YuXJLZUaBS3Xn"
     },
     {
       "album": {
@@ -229,10 +265,32 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 69015,
       "name": "bad idea",
       "url": "https://open.spotify.com/track/4U0VPz4nbsMXqoLLvXNbsv"
+    },
+    {
+      "album": {
+        "name": "bad idea (feat. blackwinterwells)",
+        "url": "https://open.spotify.com/album/7AHNBk7kZBFAwZH1UNtf10"
+      },
+      "artists": [
+        {
+          "name": "quinn",
+          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
+        },
+        {
+          "name": "blackwinterwells",
+          "url": "https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69041,
+      "name": "bad idea (feat. blackwinterwells)",
+      "url": "https://open.spotify.com/track/21dQoUNcNgkFe52pGmuXRB"
     },
     {
       "album": {
@@ -341,6 +399,24 @@
       "duration_ms": 195773,
       "name": "Big Wheel",
       "url": "https://open.spotify.com/track/5TxwBIN4MTTWLvW3Tl5ttE"
+    },
+    {
+      "album": {
+        "name": "Big Wheel / Stellate",
+        "url": "https://open.spotify.com/album/2P3TbvW39nYzfP99pVUgvt"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 195773,
+      "name": "Big Wheel",
+      "url": "https://open.spotify.com/track/69NWTDajcgis6vLEyaPMEh"
     },
     {
       "album": {
@@ -521,6 +597,24 @@
       "duration_ms": 250120,
       "name": "Cut Me",
       "url": "https://open.spotify.com/track/6YheRoPUnQc0mXiWBUiQz5"
+    },
+    {
+      "album": {
+        "name": "Cut Me",
+        "url": "https://open.spotify.com/album/7KYXinWHaOPvP06GFwSa9O"
+      },
+      "artists": [
+        {
+          "name": "Moses Sumney",
+          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 250120,
+      "name": "Cut Me",
+      "url": "https://open.spotify.com/track/6oCrn3NfXeitwYtiP37l82"
     },
     {
       "album": {
@@ -752,6 +846,24 @@
     },
     {
       "album": {
+        "name": "Saint Cloud +3",
+        "url": "https://open.spotify.com/album/7kIdOOz6yIvEP6Z5RjhrCw"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 217373,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/16swRkjDG1yjiGtt0JVCNc"
+    },
+    {
+      "album": {
         "name": "Saint Cloud",
         "url": "https://open.spotify.com/album/04HMMwLmjkftjWy7xc6Bho"
       },
@@ -789,7 +901,7 @@
     {
       "album": {
         "name": "Orca",
-        "url": "https://open.spotify.com/album/1D8cnABQfjvfQC2Cdk889m"
+        "url": "https://open.spotify.com/album/7xm5gLnLKtWSAGDzROIF9X"
       },
       "artists": [
         {
@@ -800,6 +912,24 @@
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 268509,
+      "name": "First Aid",
+      "url": "https://open.spotify.com/track/0hrM7JpE7n6mz5vMB7on2f"
+    },
+    {
+      "album": {
+        "name": "Orca",
+        "url": "https://open.spotify.com/album/1D8cnABQfjvfQC2Cdk889m"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
       "duration_ms": 268509,
       "name": "First Aid",
       "url": "https://open.spotify.com/track/3y2Dktpll4t3zPlgpCnUCy"
@@ -931,6 +1061,24 @@
       "duration_ms": 165499,
       "name": "HIT EM WHERE IT HURTS",
       "url": "https://open.spotify.com/track/63e35wfL6GMUp0boIvNBhw"
+    },
+    {
+      "album": {
+        "name": "A PawPaw Rod EP",
+        "url": "https://open.spotify.com/album/6rdGxnA5zzF0Nly6ZqUwCH"
+      },
+      "artists": [
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 165499,
+      "name": "HIT EM WHERE IT HURTS",
+      "url": "https://open.spotify.com/track/6UVxCRDAXLjz95fs5bl7Xr"
     },
     {
       "album": {
@@ -1208,6 +1356,24 @@
     },
     {
       "album": {
+        "name": "Lifetime Remixes",
+        "url": "https://open.spotify.com/album/4cfOKU0ncsVL4PYaZ1kkiy"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 197661,
+      "name": "Lifetime",
+      "url": "https://open.spotify.com/track/2sA69gKpUk8dcF5SuqApyK"
+    },
+    {
+      "album": {
         "name": "Lifetime",
         "url": "https://open.spotify.com/album/4aymv3MZSQ5GEb1jS6NVSa"
       },
@@ -1410,6 +1576,50 @@
     },
     {
       "album": {
+        "name": "Note To Self",
+        "url": "https://open.spotify.com/album/41LVhTarQ3tlu9fKaprxoq"
+      },
+      "artists": [
+        {
+          "name": "Jim-E Stack",
+          "url": "https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh"
+        },
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 137092,
+      "name": "Note To Self",
+      "url": "https://open.spotify.com/track/72KsNIxvoOKMGpFSe55PCO"
+    },
+    {
+      "album": {
+        "name": "EPHEMERA",
+        "url": "https://open.spotify.com/album/1TFgjl0bCMERMukkaPtY9m"
+      },
+      "artists": [
+        {
+          "name": "Jim-E Stack",
+          "url": "https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh"
+        },
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137092,
+      "name": "Note To Self",
+      "url": "https://open.spotify.com/track/7xHap3EOHq2Qn8OQhCpfgW"
+    },
+    {
+      "album": {
         "name": "EPHEMERA",
         "url": "https://open.spotify.com/album/0elpfsW5SObWj2BmXLpOwo"
       },
@@ -1425,7 +1635,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 137092,
       "name": "Note To Self (feat. Empress Of)",
       "url": "https://open.spotify.com/track/3dBgEBXZvYLshrZ0ATB7fT"
@@ -1447,6 +1657,24 @@
       "duration_ms": 204280,
       "name": "Now I'm In It - Bonus Track",
       "url": "https://open.spotify.com/track/0TCRoG3C8ItxMC4VYtN1La"
+    },
+    {
+      "album": {
+        "name": "Don't Wanna",
+        "url": "https://open.spotify.com/album/4iNDXOLDZma37m0iWPkf0x"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 204280,
+      "name": "Now I'm In It - Bonus Track",
+      "url": "https://open.spotify.com/track/2cv62TyJl0cEQDaFjglRLY"
     },
     {
       "album": {
@@ -1483,6 +1711,24 @@
       "duration_ms": 198927,
       "name": "Ode to a Conversation Stuck in Your Throat",
       "url": "https://open.spotify.com/track/3vJPG94q3WlwK16IkMYDIL"
+    },
+    {
+      "album": {
+        "name": "Ode to a Conversation Stuck in Your Throat",
+        "url": "https://open.spotify.com/album/6wvU1NnDNokP76aA71p4DV"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 199232,
+      "name": "Ode to a Conversation Stuck in Your Throat",
+      "url": "https://open.spotify.com/track/0wHPdBufgOszsDIUJmEz9H"
     },
     {
       "album": {
@@ -1555,6 +1801,24 @@
       "duration_ms": 298720,
       "name": "Paper Thin",
       "url": "https://open.spotify.com/track/7kC97zPE0PxrcItXyGdk8P"
+    },
+    {
+      "album": {
+        "name": "Chill Hits",
+        "url": "https://open.spotify.com/album/3jjQUZkrzqOtfwHBKa5uoz"
+      },
+      "artists": [
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 298720,
+      "name": "Paper Thin",
+      "url": "https://open.spotify.com/track/7lrsiXMsUzWsqofMaL3U8e"
     },
     {
       "album": {
@@ -1775,7 +2039,7 @@
     {
       "album": {
         "name": "Reinvent",
-        "url": "https://open.spotify.com/album/0DopL7jM6rl5x0bPgNGaG0"
+        "url": "https://open.spotify.com/album/556YHFgQJKRRoXyDzRZlDO"
       },
       "artists": [
         {
@@ -1786,6 +2050,24 @@
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 243381,
+      "name": "Reinvent",
+      "url": "https://open.spotify.com/track/27nWuh0p5XEDNSKOxLmOmr"
+    },
+    {
+      "album": {
+        "name": "Reinvent",
+        "url": "https://open.spotify.com/album/0DopL7jM6rl5x0bPgNGaG0"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Green",
+          "url": "https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
       "duration_ms": 243381,
       "name": "Reinvent",
       "url": "https://open.spotify.com/track/2vjo6HuhOURw0wXsb0EVCa"
@@ -1810,6 +2092,42 @@
     },
     {
       "album": {
+        "name": "if i could make it go quiet",
+        "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216831,
+      "name": "Rue",
+      "url": "https://open.spotify.com/track/4EoE743bWWiZ4ttkdPCNbA"
+    },
+    {
+      "album": {
+        "name": "Rue",
+        "url": "https://open.spotify.com/album/2atCibcxnI4r4LG1zV12gM"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 216831,
+      "name": "Rue",
+      "url": "https://open.spotify.com/track/4eSoxXT5019RbUGMklXozO"
+    },
+    {
+      "album": {
         "name": "Rue",
         "url": "https://open.spotify.com/album/0wwsKyplQfWHtLxlMvVkvP"
       },
@@ -1821,7 +2139,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 216831,
       "name": "Rue",
       "url": "https://open.spotify.com/track/6lhuBaygBqxBjdcXrM685k"
@@ -1919,6 +2237,24 @@
     {
       "album": {
         "name": "Song 33",
+        "url": "https://open.spotify.com/album/4tC0tqOVuRMLYINLaab5c7"
+      },
+      "artists": [
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69709,
+      "name": "Song 33",
+      "url": "https://open.spotify.com/track/03P54r6uih7f0409ns7gon"
+    },
+    {
+      "album": {
+        "name": "Song 33",
         "url": "https://open.spotify.com/album/4fnskLfn51HHG1QDMOqmfy"
       },
       "artists": [
@@ -1947,7 +2283,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 69709,
       "name": "Song 33",
       "url": "https://open.spotify.com/track/7q2qIiyGs9yMUPA8a3nVLD"
@@ -2102,6 +2438,24 @@
     },
     {
       "album": {
+        "name": "The Shave Experiment",
+        "url": "https://open.spotify.com/album/0oHFSP4uqDes9sOZQu43Jz"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 192896,
+      "name": "Take Me Where Your Heart Is",
+      "url": "https://open.spotify.com/track/4EcoXZhvbU3qS7ORWUEcVI"
+    },
+    {
+      "album": {
         "name": "Dreamland (+ Bonus Levels)",
         "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
       },
@@ -2187,6 +2541,24 @@
       "duration_ms": 252811,
       "name": "Texas Sun",
       "url": "https://open.spotify.com/track/3k5oLgungD1dSOGLqQdIQw"
+    },
+    {
+      "album": {
+        "name": "There Must Be More Than Blood",
+        "url": "https://open.spotify.com/album/19tcTyH4k0D1kXdo4eP3vJ"
+      },
+      "artists": [
+        {
+          "name": "Car Seat Headrest",
+          "url": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 453750,
+      "name": "There Must Be More Than Blood",
+      "url": "https://open.spotify.com/track/0PGqqNrt4uEeAvM3PMtu6c"
     },
     {
       "album": {
@@ -2389,7 +2761,7 @@
     {
       "album": {
         "name": "Winona",
-        "url": "https://open.spotify.com/album/29HNHTBfCETetrohUBXJxY"
+        "url": "https://open.spotify.com/album/2WVb9SfnuZ2gRIjGRBUHbx"
       },
       "artists": [
         {
@@ -2400,6 +2772,24 @@
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 145186,
+      "name": "Winona",
+      "url": "https://open.spotify.com/track/3VQYvYIL5KwHVz7tMLdr1n"
+    },
+    {
+      "album": {
+        "name": "Winona",
+        "url": "https://open.spotify.com/album/29HNHTBfCETetrohUBXJxY"
+      },
+      "artists": [
+        {
+          "name": "Miloe",
+          "url": "https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
       "duration_ms": 145186,
       "name": "Winona",
       "url": "https://open.spotify.com/track/50CrMqvVH178XRNNhhXfTy"

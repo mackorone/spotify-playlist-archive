@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "All I want for Christmas is you",
+        "url": "https://open.spotify.com/album/6AEXtdWhojZcfH4KhGMuzz"
+      },
+      "artists": [
+        {
+          "name": "VOCA PEOPLE",
+          "url": "https://open.spotify.com/artist/0lJU6XXo5bSHEoDV2m4iqQ"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62545,
+      "name": "All I want for Christmas is you",
+      "url": "https://open.spotify.com/track/2pHfIpdgngmpNBJ4Rxg9fl"
+    },
+    {
+      "album": {
         "name": "Full Of Cheer (Deluxe)",
         "url": "https://open.spotify.com/album/2dCAEsjQuYWvcsyaZk5szk"
       },
@@ -27,6 +45,24 @@
       "duration_ms": 162040,
       "name": "Baby, It's Cold Outside (feat. Kira Isabella)",
       "url": "https://open.spotify.com/track/06HNNnj7ID04gJoQs6AqUT"
+    },
+    {
+      "album": {
+        "name": "The Spirit Of The Season (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5BCKBGFjhmVbHg29qQkzCT"
+      },
+      "artists": [
+        {
+          "name": "Voctave",
+          "url": "https://open.spotify.com/artist/6qCQcw3ZKdmAFv0v4u5ey2"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170373,
+      "name": "Carol Of The Bells Of Notre Dame",
+      "url": "https://open.spotify.com/track/1KqASVrRuKk4sQ8c6Cbcr4"
     },
     {
       "album": {
@@ -312,6 +348,28 @@
     },
     {
       "album": {
+        "name": "A Hollens Family Christmas Deluxe",
+        "url": "https://open.spotify.com/album/2goJmaqsfCG5qgDQMVMM5N"
+      },
+      "artists": [
+        {
+          "name": "Peter Hollens",
+          "url": "https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ"
+        },
+        {
+          "name": "Jackie Evancho",
+          "url": "https://open.spotify.com/artist/7FukyKMUPL10mDN9LgAngI"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 193440,
+      "name": "Happy Xmas (War Is Over) [feat. Jackie Evancho]",
+      "url": "https://open.spotify.com/track/7bcmkOryn8xmOWSDcNGHL9"
+    },
+    {
+      "album": {
         "name": "A Hollens Family Christmas",
         "url": "https://open.spotify.com/album/0OsTiVipKPPNi3b2EHwZ8L"
       },
@@ -331,6 +389,28 @@
       "duration_ms": 193557,
       "name": "Happy Xmas (War Is Over) [feat. Jackie Evancho]",
       "url": "https://open.spotify.com/track/2ujsh7j09COq26oV3xNZE9"
+    },
+    {
+      "album": {
+        "name": "He Is Born",
+        "url": "https://open.spotify.com/album/0EN4NLHCDuXDbMQDIDZK0H"
+      },
+      "artists": [
+        {
+          "name": "BYU Vocal Point",
+          "url": "https://open.spotify.com/artist/5zhxxb24WP6q6rbLHAn2UQ"
+        },
+        {
+          "name": "Ryan Innes",
+          "url": "https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289216,
+      "name": "He Is Born (feat. Ryan Innes)",
+      "url": "https://open.spotify.com/track/2IYXqa0vvStkHWSQyXsGQo"
     },
     {
       "album": {
@@ -381,10 +461,28 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": null,
       "duration_ms": 146493,
       "name": "I Heard the Bells on Christmas Day",
       "url": "https://open.spotify.com/track/2xsQpFWuAxu5XhhOLQlB7J"
+    },
+    {
+      "album": {
+        "name": "Sorted Noise Records: A Holiday Album, Vol. 2",
+        "url": "https://open.spotify.com/album/5IRX3MjFCSlyJdYszpz7hq"
+      },
+      "artists": [
+        {
+          "name": "Street Corner Symphony",
+          "url": "https://open.spotify.com/artist/1PvW2XdqUf53cllgpYv6Ge"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 146493,
+      "name": "I Heard the Bells on Christmas Day",
+      "url": "https://open.spotify.com/track/6MYeUBTJbJcpESD39NjsOU"
     },
     {
       "album": {
@@ -399,7 +497,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 146493,
       "name": "I Heard the Bells on Christmas Day",
       "url": "https://open.spotify.com/track/7qO6uDcPA8dHYAYZQxzkfr"
@@ -460,6 +558,24 @@
     },
     {
       "album": {
+        "name": "Jingle Bells",
+        "url": "https://open.spotify.com/album/5zmS7dWEZRqX980VsitUsI"
+      },
+      "artists": [
+        {
+          "name": "Cliff Beach",
+          "url": "https://open.spotify.com/artist/66gjb8G6USA4sI4bZPrJ3Z"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132493,
+      "name": "Jingle Bells",
+      "url": "https://open.spotify.com/track/7wC6PVdB1uxCR3IVBk2p9E"
+    },
+    {
+      "album": {
         "name": "Life Is Music (Deluxe Version)",
         "url": "https://open.spotify.com/album/7spOTs7ChtP9bOU3rlkT5a"
       },
@@ -471,10 +587,28 @@
       ],
       "date_added": "2017-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 47509,
       "name": "Jingle Bells",
       "url": "https://open.spotify.com/track/0NgU0FRX592LEHGds21pfD"
+    },
+    {
+      "album": {
+        "name": "Jingle Bells (Acapella)",
+        "url": "https://open.spotify.com/album/4fHC3WxhHhBdh8Upzuhot7"
+      },
+      "artists": [
+        {
+          "name": "Cimorelli",
+          "url": "https://open.spotify.com/artist/4988ULVP4X7nco6pLh1PA2"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Jingle Bells - Acapella",
+      "url": "https://open.spotify.com/track/2mi1zKy5IOCa0UChNuFJiK"
     },
     {
       "album": {
@@ -496,6 +630,28 @@
     },
     {
       "album": {
+        "name": "Holidays Around the World",
+        "url": "https://open.spotify.com/album/73NpyNEQHBYey6oZZrFD6X"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        },
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202600,
+      "name": "Kid On Christmas (feat. Meghan Trainor)",
+      "url": "https://open.spotify.com/track/5glU2EWqa5hpYqGPboSNjV"
+    },
+    {
+      "album": {
         "name": "That's Christmas To Me (Deluxe Edition)",
         "url": "https://open.spotify.com/album/082VlX7cBth0o8xqDGclNn"
       },
@@ -511,6 +667,28 @@
       "duration_ms": 206706,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/2G7K3Op9y3HhqrF2TdHP95"
+    },
+    {
+      "album": {
+        "name": "A Hollens Family Christmas Deluxe",
+        "url": "https://open.spotify.com/album/2goJmaqsfCG5qgDQMVMM5N"
+      },
+      "artists": [
+        {
+          "name": "Peter Hollens",
+          "url": "https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ"
+        },
+        {
+          "name": "Mike Tompkins",
+          "url": "https://open.spotify.com/artist/3h3F1qpVfzQDCODlvMCQZm"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 234293,
+      "name": "Little Drummer Boy",
+      "url": "https://open.spotify.com/track/2sjIc08kf7ycfKHxUwB0Ez"
     },
     {
       "album": {
@@ -591,6 +769,24 @@
       "duration_ms": 162977,
       "name": "Mary Did You Know?",
       "url": "https://open.spotify.com/track/4SkkJpvjaWfIFoC3HIRxbI"
+    },
+    {
+      "album": {
+        "name": "A Hollens Family Christmas Deluxe",
+        "url": "https://open.spotify.com/album/2goJmaqsfCG5qgDQMVMM5N"
+      },
+      "artists": [
+        {
+          "name": "Peter Hollens",
+          "url": "https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 162826,
+      "name": "Mary, Did You Know?",
+      "url": "https://open.spotify.com/track/1UQMKneHEnyNxHs7eEKSGp"
     },
     {
       "album": {
@@ -681,6 +877,24 @@
       "duration_ms": 205733,
       "name": "Nativity Medley",
       "url": "https://open.spotify.com/track/6Zb2qnkAXLIDFsOSayqu7h"
+    },
+    {
+      "album": {
+        "name": "Family Christmas",
+        "url": "https://open.spotify.com/album/4hkwQ3aJTv1seZE78OestC"
+      },
+      "artists": [
+        {
+          "name": "Acappella",
+          "url": "https://open.spotify.com/artist/6bzyBDhZmJIl6PvJ5qJ9Hh"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169613,
+      "name": "No Other Day",
+      "url": "https://open.spotify.com/track/2QVm9Ly4g0vQqiYIv2WIFS"
     },
     {
       "album": {
@@ -793,6 +1007,24 @@
       "duration_ms": 260273,
       "name": "Oh, Come, All Ye Faithful (feat. BYU Noteworthy)",
       "url": "https://open.spotify.com/track/3eys3qWB8S2JFfhe3qDCyT"
+    },
+    {
+      "album": {
+        "name": "Holidays Around the World",
+        "url": "https://open.spotify.com/album/73NpyNEQHBYey6oZZrFD6X"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222626,
+      "name": "Prayers For This World",
+      "url": "https://open.spotify.com/track/1vJk4EVtz7EKzO8nIh1to4"
     },
     {
       "album": {
@@ -981,6 +1213,24 @@
       "duration_ms": 100890,
       "name": "Up on the House Top",
       "url": "https://open.spotify.com/track/0OlajupYfpKTRLhE5Kxa0o"
+    },
+    {
+      "album": {
+        "name": "What Child Is This",
+        "url": "https://open.spotify.com/album/0CgbCARQPYaxnCeoVa71bH"
+      },
+      "artists": [
+        {
+          "name": "The Ball Brothers",
+          "url": "https://open.spotify.com/artist/5XeW4GrOw5InOknCsAo1Js"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213271,
+      "name": "What Child Is This",
+      "url": "https://open.spotify.com/track/0OjbIsZ9ttxQGBMO6d14LA"
     },
     {
       "album": {

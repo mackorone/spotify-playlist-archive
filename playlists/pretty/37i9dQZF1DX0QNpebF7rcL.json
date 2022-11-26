@@ -1,13 +1,61 @@
 {
-  "description": "The best in blues right now. Cover: Buddy Guy",
-  "num_followers": 40440,
+  "description": "The best in blues right now. Cover: Joe Louis Walker",
+  "num_followers": 41217,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMGUzNzliNDM3NjkxZmU2MDYwM2Q3NDg0ZTNjNTQ5NDNj",
+  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMDFiYWExOGYxZGM1MjYxYzkzZDc3NzdkZTU1MWI1ZGJh",
   "tracks": [
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "Keep on Lovin' the Blues",
+        "url": "https://open.spotify.com/album/1tMXPwrzgheCnI2QGY5Ypm"
+      },
+      "artists": [
+        {
+          "name": "John Primer",
+          "url": "https://open.spotify.com/artist/1CePnHlc38UfIQovWgyzKP"
+        }
+      ],
+      "duration_ms": 232200,
+      "name": "Pay the Price",
+      "url": "https://open.spotify.com/track/7wWH5g020mkyhjo0zzL3ty"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "The Weight of the World",
+        "url": "https://open.spotify.com/album/3RQaoFuQJJNevZPJHOG0I9"
+      },
+      "artists": [
+        {
+          "name": "Joe Louis Walker",
+          "url": "https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD"
+        }
+      ],
+      "duration_ms": 265045,
+      "name": "The Weight of the World",
+      "url": "https://open.spotify.com/track/19WctrvueGYOWMe6eBFmBi"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "Nobody's Fool",
+        "url": "https://open.spotify.com/album/6zs5N5LbUBgVQRESHqB4LV"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "duration_ms": 216893,
+      "name": "Nobody's Fool",
+      "url": "https://open.spotify.com/track/1s2I2P6bXRdQyePO016Os9"
+    },
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
@@ -29,6 +77,26 @@
       "url": "https://open.spotify.com/track/4ikAAkBStMneLsxfjcoG4E"
     },
     {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Cryin\u2019 Won\u2019t Help You",
+        "url": "https://open.spotify.com/album/7lz81CRxzCYmryRTxThLaO"
+      },
+      "artists": [
+        {
+          "name": "Paul Carrack",
+          "url": "https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz"
+        },
+        {
+          "name": "The SWR Big Band",
+          "url": "https://open.spotify.com/artist/4WnYuKbhxAKXJ8yAvvOsfW"
+        }
+      ],
+      "duration_ms": 269816,
+      "name": "Cryin' Won\u00b4t Help You",
+      "url": "https://open.spotify.com/track/1Sfcy8w25PbenC7Xvl5LSk"
+    },
+    {
       "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Things Happen That Way",
@@ -45,20 +113,20 @@
       "url": "https://open.spotify.com/track/3uHKEi9VopbcnCdPu3Akbk"
     },
     {
-      "added_at": "2022-09-09 04:01:00",
+      "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Just No Getting Over You (Dream Cruise)",
-        "url": "https://open.spotify.com/album/5nAs2igKGjEshXErFX2CQe"
+        "name": "The Question",
+        "url": "https://open.spotify.com/album/3I3fGqtBn1ddWKEL7aYDAd"
       },
       "artists": [
         {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+          "name": "Henrik Freischlader",
+          "url": "https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu"
         }
       ],
-      "duration_ms": 280880,
-      "name": "Just No Getting Over You (Dream Cruise)",
-      "url": "https://open.spotify.com/track/0QCa6CGQJvYs5190mDePQP"
+      "duration_ms": 447487,
+      "name": "The Question",
+      "url": "https://open.spotify.com/track/358TP1XP2PYWXM0RsLwmlY"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -151,6 +219,38 @@
       "duration_ms": 208415,
       "name": "Pink Turns To Red",
       "url": "https://open.spotify.com/track/3wgjaBZogGtRyVI6Picwd3"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "American Dream",
+        "url": "https://open.spotify.com/album/6c7Ay78lDG9A3xep8taktA"
+      },
+      "artists": [
+        {
+          "name": "Darryl Jones",
+          "url": "https://open.spotify.com/artist/3AnAntOFWOdjn8Fn02sfV8"
+        }
+      ],
+      "duration_ms": 251439,
+      "name": "American Dream",
+      "url": "https://open.spotify.com/track/0A2nLIAI5it1fRJYGJ5Qyp"
+    },
+    {
+      "added_at": "2022-09-09 04:01:00",
+      "album": {
+        "name": "Just No Getting Over You (Dream Cruise)",
+        "url": "https://open.spotify.com/album/5nAs2igKGjEshXErFX2CQe"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "duration_ms": 280880,
+      "name": "Just No Getting Over You (Dream Cruise)",
+      "url": "https://open.spotify.com/track/0QCa6CGQJvYs5190mDePQP"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -995,8 +1095,8 @@
     {
       "added_at": "2022-02-25 05:02:00",
       "album": {
-        "name": "Arms of a Lover",
-        "url": "https://open.spotify.com/album/2KELaV63XzaF0MJ2FeIjVK"
+        "name": "Scoundrel",
+        "url": "https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O"
       },
       "artists": [
         {
@@ -1006,7 +1106,7 @@
       ],
       "duration_ms": 277733,
       "name": "Bonnie",
-      "url": "https://open.spotify.com/track/5q49F0QAhWWnIDhNOyAhfV"
+      "url": "https://open.spotify.com/track/1PNPixI2jwff1KZDJtStTz"
     },
     {
       "added_at": "2022-01-21 05:02:00",
@@ -1540,7 +1640,7 @@
       "added_at": "2021-07-16 04:01:00",
       "album": {
         "name": "Alone With Blues",
-        "url": "https://open.spotify.com/album/0BHOezr2qvAzYEt0TVEoRJ"
+        "url": "https://open.spotify.com/album/4zb5t7MpwxLujrl50tSPQN"
       },
       "artists": [
         {
@@ -1550,7 +1650,7 @@
       ],
       "duration_ms": 219641,
       "name": "Mirror Blues",
-      "url": "https://open.spotify.com/track/2YrssxTCneR1rjBTzoaaKS"
+      "url": "https://open.spotify.com/track/4mFBpN5jyZCcYLQCw1aoRX"
     },
     {
       "added_at": "2021-08-27 04:01:00",

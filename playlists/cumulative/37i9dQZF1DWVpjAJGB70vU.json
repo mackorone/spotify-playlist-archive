@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 231400,
       "name": "26 (Cents Sign)",
       "url": "https://open.spotify.com/track/2Qqby4S52keCDukyq5EcBZ"
@@ -977,7 +977,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-06",
+      "date_removed": "2022-11-13",
       "duration_ms": 192693,
       "name": "Hillbilly Shoes",
       "url": "https://open.spotify.com/track/0kJeo33oWW6Nx4tkUNPshJ"
@@ -1017,6 +1017,24 @@
       "duration_ms": 215200,
       "name": "Honey, I'm Home",
       "url": "https://open.spotify.com/track/39IoZIC8eEirT1v70rqSPq"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/02SQS3hERbgOjnZc0hmWKk"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 216933,
+      "name": "Honey, I'm Home",
+      "url": "https://open.spotify.com/track/1QPO9WrFcfbOshnHChhud3"
     },
     {
       "album": {
@@ -1211,7 +1229,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-11-23",
       "duration_ms": 210866,
       "name": "I Just Want To Dance With You",
       "url": "https://open.spotify.com/track/4cdAXfguhQHYFkvuuzye1m"
@@ -1619,7 +1637,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 171133,
       "name": "It Wasn't God Who Made Honky Tonk Angels",
       "url": "https://open.spotify.com/track/0zUXyDr4tSc7iSfdX7Zjtd"
@@ -2015,7 +2033,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": "2022-11-13",
       "duration_ms": 202333,
       "name": "Not On Your Love",
       "url": "https://open.spotify.com/track/04bs5EpVXhbPkqV9uwOAM9"
@@ -2977,7 +2995,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": null,
       "duration_ms": 164293,
       "name": "What Part of No",
       "url": "https://open.spotify.com/track/074RB4dBpZ4ySuQRyG8SMk"

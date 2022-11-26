@@ -1,95 +1,15 @@
 {
   "description": "Feed your focus with restaurant ambience from around the world.",
-  "num_followers": 983,
-  "original_name": "Restaurant Ambience",
+  "num_followers": 2201,
+  "original_name": "Restaurant Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUyMTIwMCwwMDAwMDAwMDFkNmI5YzQ1MDkxNTYzMDE0YWFhZTQzYzgxNmMwMWM5",
+  "snapshot_id": "MTY2OTEyODM1MCwwMDAwMDAwMDdjODNkYWViOWM2MjdkODlkMzVjYjk4M2ExYmJkM2Y2",
   "tracks": [
     {
-      "added_at": "2022-09-30 07:00:00",
-      "album": {
-        "name": "Cosy Italian Restaurant Sound",
-        "url": "https://open.spotify.com/album/0StsVpt5Wq4zu74uaf5Tzj"
-      },
-      "artists": [
-        {
-          "name": "Sams Sampling",
-          "url": "https://open.spotify.com/artist/0l3BC2nHquksROX70Y9c8S"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Cosy Italian Restaurant Sound",
-      "url": "https://open.spotify.com/track/73D4m6MGL8xJInk3Vvsbvw"
-    },
-    {
-      "added_at": "2022-09-30 07:00:00",
-      "album": {
-        "name": "Restaurant Sounds For Relaxations",
-        "url": "https://open.spotify.com/album/5wbLcoVQO6HZMJNQy25bOL"
-      },
-      "artists": [
-        {
-          "name": "Natural Dream Makers",
-          "url": "https://open.spotify.com/artist/3VRTISkFHIAjmTLl2DQAGz"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Restaurant Sounds For Relaxations",
-      "url": "https://open.spotify.com/track/6uVjQRdzp7MuFN4mr6SIXk"
-    },
-    {
-      "added_at": "2022-09-30 07:00:00",
-      "album": {
-        "name": "French Bistro Sound",
-        "url": "https://open.spotify.com/album/69AggoyBvCHK83e0hcjKzP"
-      },
-      "artists": [
-        {
-          "name": "The Calm Factory",
-          "url": "https://open.spotify.com/artist/2ZFshTMWFRTaeIuk7ryC4s"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Paris Restaurant Sound",
-      "url": "https://open.spotify.com/track/3tjPz8LiK9Madqg6OawvF6"
-    },
-    {
-      "added_at": "2022-09-30 07:00:00",
-      "album": {
-        "name": "Restaurant City Ambience",
-        "url": "https://open.spotify.com/album/4syi2RhqK8TKsfWLYse1dq"
-      },
-      "artists": [
-        {
-          "name": "The Natural Healing",
-          "url": "https://open.spotify.com/artist/62dysQ8CjUwvdI3wLoTdHe"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Restaurant City Ambience",
-      "url": "https://open.spotify.com/track/3k90wP0xoZlL85yy2baTWI"
-    },
-    {
-      "added_at": "2022-09-30 07:00:00",
-      "album": {
-        "name": "Restaurant Sounds For Relaxations",
-        "url": "https://open.spotify.com/album/5wbLcoVQO6HZMJNQy25bOL"
-      },
-      "artists": [
-        {
-          "name": "Natural Dream Makers",
-          "url": "https://open.spotify.com/artist/3VRTISkFHIAjmTLl2DQAGz"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Calmed By Restaurant Sounds",
-      "url": "https://open.spotify.com/track/0lCZwj3s8YbifTcxwoy6DW"
-    },
-    {
-      "added_at": "2022-09-30 07:00:00",
+      "added_at": "2022-11-22 14:45:50",
       "album": {
         "name": "Soothing Restaurant Sound",
         "url": "https://open.spotify.com/album/6nnlRHH6rbFmKCnoDjraFn"
@@ -105,7 +25,71 @@
       "url": "https://open.spotify.com/track/7k7ZlayBaJYhULrrZkr0rT"
     },
     {
-      "added_at": "2022-09-30 07:00:00",
+      "added_at": "2022-11-22 14:45:50",
+      "album": {
+        "name": "Restaurant Sounds For Relaxations",
+        "url": "https://open.spotify.com/album/5wbLcoVQO6HZMJNQy25bOL"
+      },
+      "artists": [
+        {
+          "name": "Natural Dream Makers",
+          "url": "https://open.spotify.com/artist/3VRTISkFHIAjmTLl2DQAGz"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Calmed By Restaurant Sounds",
+      "url": "https://open.spotify.com/track/0lCZwj3s8YbifTcxwoy6DW"
+    },
+    {
+      "added_at": "2022-11-22 14:45:50",
+      "album": {
+        "name": "Cosy Italian Restaurant Sound",
+        "url": "https://open.spotify.com/album/0StsVpt5Wq4zu74uaf5Tzj"
+      },
+      "artists": [
+        {
+          "name": "Sams Sampling",
+          "url": "https://open.spotify.com/artist/0l3BC2nHquksROX70Y9c8S"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Cosy Italian Restaurant Sound",
+      "url": "https://open.spotify.com/track/73D4m6MGL8xJInk3Vvsbvw"
+    },
+    {
+      "added_at": "2022-11-22 14:45:50",
+      "album": {
+        "name": "Restaurant Sounds For Relaxations",
+        "url": "https://open.spotify.com/album/5wbLcoVQO6HZMJNQy25bOL"
+      },
+      "artists": [
+        {
+          "name": "Natural Dream Makers",
+          "url": "https://open.spotify.com/artist/3VRTISkFHIAjmTLl2DQAGz"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Restaurant Sounds For Relaxations",
+      "url": "https://open.spotify.com/track/6uVjQRdzp7MuFN4mr6SIXk"
+    },
+    {
+      "added_at": "2022-11-22 14:45:50",
+      "album": {
+        "name": "French Bistro Sound",
+        "url": "https://open.spotify.com/album/69AggoyBvCHK83e0hcjKzP"
+      },
+      "artists": [
+        {
+          "name": "The Calm Factory",
+          "url": "https://open.spotify.com/artist/2ZFshTMWFRTaeIuk7ryC4s"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Paris Restaurant Sound",
+      "url": "https://open.spotify.com/track/3tjPz8LiK9Madqg6OawvF6"
+    },
+    {
+      "added_at": "2022-11-22 14:45:50",
       "album": {
         "name": "Taqueria Mexico #2",
         "url": "https://open.spotify.com/album/6FOdjXA0D1vKGoFdXAO6TJ"
@@ -121,119 +105,7 @@
       "url": "https://open.spotify.com/track/4Vdk7GJ186zYmp5zigVe4o"
     },
     {
-      "added_at": "2022-09-30 07:00:00",
-      "album": {
-        "name": "New Edo Sounds",
-        "url": "https://open.spotify.com/album/2xwDNBWGkALEjny6posDx5"
-      },
-      "artists": [
-        {
-          "name": "Akasaka Awesome",
-          "url": "https://open.spotify.com/artist/3Riyn6qbp11BLkMnyCz4E1"
-        }
-      ],
-      "duration_ms": 163282,
-      "name": "Akasaka-Mitsuke After Work Vibe",
-      "url": "https://open.spotify.com/track/0d7ps9ZIPXxuSsWOj4ciE0"
-    },
-    {
-      "added_at": "2022-09-30 07:00:00",
-      "album": {
-        "name": "Tokyo Morning Coffee",
-        "url": "https://open.spotify.com/album/30T6dBtJsV25mIzkUkKWGy"
-      },
-      "artists": [
-        {
-          "name": "Genki Desu",
-          "url": "https://open.spotify.com/artist/6Qf1TunOhzHCzTiIwZNrMp"
-        }
-      ],
-      "duration_ms": 167874,
-      "name": "Omotesando Morning Coffee",
-      "url": "https://open.spotify.com/track/2v5JXRgm3YTgJy6niOHcYC"
-    },
-    {
-      "added_at": "2022-09-30 07:00:00",
-      "album": {
-        "name": "Nippon Coffee Atmos",
-        "url": "https://open.spotify.com/album/2r8tyZzWqPTGRWuEvgNZuZ"
-      },
-      "artists": [
-        {
-          "name": "Cohi Hot-O",
-          "url": "https://open.spotify.com/artist/5HiYuoH1yGihvPi7oGVEZh"
-        }
-      ],
-      "duration_ms": 179509,
-      "name": "Nippon Coffee Shop Ambience 2",
-      "url": "https://open.spotify.com/track/776lNbsawdl6qVHNFJiy5u"
-    },
-    {
-      "added_at": "2022-09-30 07:00:00",
-      "album": {
-        "name": "Tokyo Caf\u00e9",
-        "url": "https://open.spotify.com/album/7qyISRnhKoO8R3W4TL707R"
-      },
-      "artists": [
-        {
-          "name": "Seki San",
-          "url": "https://open.spotify.com/artist/6A3p45Th0ovE3hXjdeK3Vp"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Shinjuku Caf\u00e9",
-      "url": "https://open.spotify.com/track/2QXQYNItlNAlXmx65LmfLh"
-    },
-    {
-      "added_at": "2022-09-30 07:00:00",
-      "album": {
-        "name": "Tacos Playa Del Carmen",
-        "url": "https://open.spotify.com/album/5rYIusX5CIIYAnAUbkjQKQ"
-      },
-      "artists": [
-        {
-          "name": "Comer Para Vivir",
-          "url": "https://open.spotify.com/artist/4ZSY2phizCjuJH6jwz2wJ7"
-        }
-      ],
-      "duration_ms": 134447,
-      "name": "Dos y Media",
-      "url": "https://open.spotify.com/track/3BbttceFGFpx1NKKmnrPiX"
-    },
-    {
-      "added_at": "2022-09-30 07:00:00",
-      "album": {
-        "name": "City Sounds",
-        "url": "https://open.spotify.com/album/68mCbHYFFDQoJUOBQuqsI8"
-      },
-      "artists": [
-        {
-          "name": "JLM",
-          "url": "https://open.spotify.com/artist/5qWC37TdUbKjGC9f7SLfWZ"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Coffee Shop Soundscape",
-      "url": "https://open.spotify.com/track/0x2r596Dyr5O587pCzSSqB"
-    },
-    {
-      "added_at": "2022-09-30 07:00:00",
-      "album": {
-        "name": "Tokyo Morning Coffee",
-        "url": "https://open.spotify.com/album/30T6dBtJsV25mIzkUkKWGy"
-      },
-      "artists": [
-        {
-          "name": "Genki Desu",
-          "url": "https://open.spotify.com/artist/6Qf1TunOhzHCzTiIwZNrMp"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Akasaka Morning Coffee",
-      "url": "https://open.spotify.com/track/2r9TnPg7FlQbMILnokA1my"
-    },
-    {
-      "added_at": "2022-09-30 07:00:00",
+      "added_at": "2022-11-22 14:45:50",
       "album": {
         "name": "Izakaya Nights",
         "url": "https://open.spotify.com/album/5ONwvTugtAsH3Csolf6oY0"
@@ -249,23 +121,23 @@
       "url": "https://open.spotify.com/track/7bF9sZ96WTveldcFAkaATx"
     },
     {
-      "added_at": "2022-09-30 07:00:00",
+      "added_at": "2022-11-22 14:45:50",
       "album": {
-        "name": "Resturants Around The World",
-        "url": "https://open.spotify.com/album/7yVg3wyjlyriCkIXpePSdB"
+        "name": "Tokyo Morning Coffee",
+        "url": "https://open.spotify.com/album/30T6dBtJsV25mIzkUkKWGy"
       },
       "artists": [
         {
-          "name": "Luncheonette",
-          "url": "https://open.spotify.com/artist/1K5ZCzCxlyaSCtQNdHv1cQ"
+          "name": "Genki Desu",
+          "url": "https://open.spotify.com/artist/6Qf1TunOhzHCzTiIwZNrMp"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Italian Bistro",
-      "url": "https://open.spotify.com/track/6R9tQ4ziy250ecrTtwgPIv"
+      "duration_ms": 167874,
+      "name": "Omotesando Morning Coffee",
+      "url": "https://open.spotify.com/track/2v5JXRgm3YTgJy6niOHcYC"
     },
     {
-      "added_at": "2022-09-30 07:00:00",
+      "added_at": "2022-11-22 14:45:50",
       "album": {
         "name": "Coffee Shop Ambience",
         "url": "https://open.spotify.com/album/2Qbfhjvsis6eKLQslIU0X2"
@@ -281,39 +153,23 @@
       "url": "https://open.spotify.com/track/2662uF1Ee3ViL9ncDSkg7j"
     },
     {
-      "added_at": "2022-09-30 07:00:00",
+      "added_at": "2022-11-22 14:45:50",
       "album": {
-        "name": "Tokyo Caf\u00e9",
-        "url": "https://open.spotify.com/album/7qyISRnhKoO8R3W4TL707R"
+        "name": "New Edo Sounds",
+        "url": "https://open.spotify.com/album/2xwDNBWGkALEjny6posDx5"
       },
       "artists": [
         {
-          "name": "Seki San",
-          "url": "https://open.spotify.com/artist/6A3p45Th0ovE3hXjdeK3Vp"
+          "name": "Akasaka Awesome",
+          "url": "https://open.spotify.com/artist/3Riyn6qbp11BLkMnyCz4E1"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Shibuya Caf\u00e9",
-      "url": "https://open.spotify.com/track/3UgZaGcowsm7uSKARdfP4v"
+      "duration_ms": 163282,
+      "name": "Akasaka-Mitsuke After Work Vibe",
+      "url": "https://open.spotify.com/track/0d7ps9ZIPXxuSsWOj4ciE0"
     },
     {
-      "added_at": "2022-09-30 07:00:00",
-      "album": {
-        "name": "New York Caf\u00e9 Sounds",
-        "url": "https://open.spotify.com/album/02hJKfndJgVsPjQrl0Yyqo"
-      },
-      "artists": [
-        {
-          "name": "Natural Sample Makers",
-          "url": "https://open.spotify.com/artist/2kAU05Lt29wxhRj3BpiwhA"
-        }
-      ],
-      "duration_ms": 152057,
-      "name": "New York Caf\u00e9 Sounds",
-      "url": "https://open.spotify.com/track/6sTfPkSidCoCKtbp1fltuk"
-    },
-    {
-      "added_at": "2022-09-30 07:00:00",
+      "added_at": "2022-11-22 14:45:50",
       "album": {
         "name": "Taqueria Mexico #2",
         "url": "https://open.spotify.com/album/6FOdjXA0D1vKGoFdXAO6TJ"
@@ -329,71 +185,55 @@
       "url": "https://open.spotify.com/track/2cxkuImgG8KK1gjmq9t0X4"
     },
     {
-      "added_at": "2022-09-30 07:00:00",
+      "added_at": "2022-11-22 14:45:50",
       "album": {
-        "name": "Airport, Subway, City Soundscapes",
-        "url": "https://open.spotify.com/album/5ZYlwZ93npvJMvJgZ6iL1w"
+        "name": "Nippon Coffee Atmos",
+        "url": "https://open.spotify.com/album/2r8tyZzWqPTGRWuEvgNZuZ"
       },
       "artists": [
         {
-          "name": "JLM",
-          "url": "https://open.spotify.com/artist/5qWC37TdUbKjGC9f7SLfWZ"
+          "name": "Cohi Hot-O",
+          "url": "https://open.spotify.com/artist/5HiYuoH1yGihvPi7oGVEZh"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Cafe Soundscape",
-      "url": "https://open.spotify.com/track/3ghuqvkZdQZEXjjzqFDRmo"
+      "duration_ms": 179509,
+      "name": "Nippon Coffee Shop Ambience 2",
+      "url": "https://open.spotify.com/track/776lNbsawdl6qVHNFJiy5u"
     },
     {
-      "added_at": "2022-09-30 07:00:00",
+      "added_at": "2022-11-22 14:45:50",
       "album": {
-        "name": "Coffee House Sound In The Rainy Night",
-        "url": "https://open.spotify.com/album/5gYEeke1TUeB6B8645QF6K"
+        "name": "Tacos Playa Del Carmen",
+        "url": "https://open.spotify.com/album/5rYIusX5CIIYAnAUbkjQKQ"
       },
       "artists": [
         {
-          "name": "Serenity of Sound",
-          "url": "https://open.spotify.com/artist/590XQzFKG0wFPkOHupzLPx"
+          "name": "Comer Para Vivir",
+          "url": "https://open.spotify.com/artist/4ZSY2phizCjuJH6jwz2wJ7"
         }
       ],
-      "duration_ms": 172000,
-      "name": "Evening At The Caf\u00e9",
-      "url": "https://open.spotify.com/track/28WW5DfHRAJTLewiZt2ApV"
+      "duration_ms": 134447,
+      "name": "Dos y Media",
+      "url": "https://open.spotify.com/track/3BbttceFGFpx1NKKmnrPiX"
     },
     {
-      "added_at": "2022-09-30 07:00:00",
+      "added_at": "2022-11-22 14:45:50",
       "album": {
-        "name": "French Bistro Sound",
-        "url": "https://open.spotify.com/album/69AggoyBvCHK83e0hcjKzP"
+        "name": "Tokyo Caf\u00e9",
+        "url": "https://open.spotify.com/album/7qyISRnhKoO8R3W4TL707R"
       },
       "artists": [
         {
-          "name": "The Calm Factory",
-          "url": "https://open.spotify.com/artist/2ZFshTMWFRTaeIuk7ryC4s"
+          "name": "Seki San",
+          "url": "https://open.spotify.com/artist/6A3p45Th0ovE3hXjdeK3Vp"
         }
       ],
-      "duration_ms": 170000,
-      "name": "French Bistro Sound",
-      "url": "https://open.spotify.com/track/2JSttEvgX31AxIcXypW4gm"
+      "duration_ms": 165000,
+      "name": "Shibuya Caf\u00e9",
+      "url": "https://open.spotify.com/track/3UgZaGcowsm7uSKARdfP4v"
     },
     {
-      "added_at": "2022-09-30 07:00:00",
-      "album": {
-        "name": "Coffeehouse Soundscapes",
-        "url": "https://open.spotify.com/album/79SkgomzlGpX2gG1IMTxkc"
-      },
-      "artists": [
-        {
-          "name": "ASMR Anonymous",
-          "url": "https://open.spotify.com/artist/1CBbKj7iORJ5c6Kzhx6fAC"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Coffeehouse Ambience Soft Music",
-      "url": "https://open.spotify.com/track/0TCWoQ37uL9yg25s9UMf0E"
-    },
-    {
-      "added_at": "2022-09-30 07:00:00",
+      "added_at": "2022-11-22 14:45:50",
       "album": {
         "name": "Nippon Coffee Atmos",
         "url": "https://open.spotify.com/album/2r8tyZzWqPTGRWuEvgNZuZ"
@@ -409,23 +249,87 @@
       "url": "https://open.spotify.com/track/2InTbPdiMSILxLMhJlQKnO"
     },
     {
-      "added_at": "2022-09-30 07:00:00",
+      "added_at": "2022-11-22 14:45:50",
       "album": {
-        "name": "Cosy Italian Restaurant Sound",
-        "url": "https://open.spotify.com/album/0StsVpt5Wq4zu74uaf5Tzj"
+        "name": "The Coffeeshop Round The Corner",
+        "url": "https://open.spotify.com/album/1SRFTpWc08D3J2DBhtQxVt"
       },
       "artists": [
         {
-          "name": "Sams Sampling",
-          "url": "https://open.spotify.com/artist/0l3BC2nHquksROX70Y9c8S"
+          "name": "Caffeine Buzz",
+          "url": "https://open.spotify.com/artist/4sFHfkxG8hgzK80eHzGf0O"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Ambient Restaurant Noise",
-      "url": "https://open.spotify.com/track/2o2nQqd43pZhXZEQm0T4oi"
+      "duration_ms": 111821,
+      "name": "The Coffeeshop Round The Corner",
+      "url": "https://open.spotify.com/track/1I92qi9NoZD3GLcPxwc4QD"
     },
     {
-      "added_at": "2022-09-30 07:00:00",
+      "added_at": "2022-11-22 14:45:50",
+      "album": {
+        "name": "Airport, Subway, City Soundscapes",
+        "url": "https://open.spotify.com/album/5ZYlwZ93npvJMvJgZ6iL1w"
+      },
+      "artists": [
+        {
+          "name": "JLM",
+          "url": "https://open.spotify.com/artist/5qWC37TdUbKjGC9f7SLfWZ"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Cafe Soundscape",
+      "url": "https://open.spotify.com/track/3ghuqvkZdQZEXjjzqFDRmo"
+    },
+    {
+      "added_at": "2022-11-22 14:45:50",
+      "album": {
+        "name": "Cafe Flore",
+        "url": "https://open.spotify.com/album/6VvyWgBHAZgrqdmS3IRbrz"
+      },
+      "artists": [
+        {
+          "name": "Haruna Fields",
+          "url": "https://open.spotify.com/artist/3hrpVisxCnVzRPdXg4K6EL"
+        }
+      ],
+      "duration_ms": 107076,
+      "name": "Coffee In Paris",
+      "url": "https://open.spotify.com/track/2Cqj0Phd51V69KHMFjqvRs"
+    },
+    {
+      "added_at": "2022-11-22 14:45:50",
+      "album": {
+        "name": "Tokyo Caf\u00e9",
+        "url": "https://open.spotify.com/album/7qyISRnhKoO8R3W4TL707R"
+      },
+      "artists": [
+        {
+          "name": "Seki San",
+          "url": "https://open.spotify.com/artist/6A3p45Th0ovE3hXjdeK3Vp"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Shinjuku Caf\u00e9",
+      "url": "https://open.spotify.com/track/2QXQYNItlNAlXmx65LmfLh"
+    },
+    {
+      "added_at": "2022-11-22 14:45:50",
+      "album": {
+        "name": "Days At The Cafe",
+        "url": "https://open.spotify.com/album/0pylxz9vHd0BvV6PB1YT35"
+      },
+      "artists": [
+        {
+          "name": "elysian",
+          "url": "https://open.spotify.com/artist/0GLj82zMKpn6e568AUTOdK"
+        }
+      ],
+      "duration_ms": 99692,
+      "name": "Evening Coffee House",
+      "url": "https://open.spotify.com/track/3YOwPiejKcFlWoBSjJ2xjo"
+    },
+    {
+      "added_at": "2022-11-22 14:45:50",
       "album": {
         "name": "New York Caf\u00e9 Sounds",
         "url": "https://open.spotify.com/album/02hJKfndJgVsPjQrl0Yyqo"
@@ -441,87 +345,71 @@
       "url": "https://open.spotify.com/track/1KQrzCcHFR2fv8WxZX6pLT"
     },
     {
-      "added_at": "2022-09-30 07:00:00",
+      "added_at": "2022-11-22 14:45:50",
       "album": {
-        "name": "Restaurant City Ambience",
-        "url": "https://open.spotify.com/album/4syi2RhqK8TKsfWLYse1dq"
+        "name": "Tokyo Morning Coffee",
+        "url": "https://open.spotify.com/album/30T6dBtJsV25mIzkUkKWGy"
       },
       "artists": [
         {
-          "name": "The Natural Healing",
-          "url": "https://open.spotify.com/artist/62dysQ8CjUwvdI3wLoTdHe"
+          "name": "Genki Desu",
+          "url": "https://open.spotify.com/artist/6Qf1TunOhzHCzTiIwZNrMp"
         }
       ],
-      "duration_ms": 172000,
-      "name": "Diner Room Ambience",
-      "url": "https://open.spotify.com/track/3P965p7GEpAaMDkkuwPz7B"
+      "duration_ms": 168000,
+      "name": "Akasaka Morning Coffee",
+      "url": "https://open.spotify.com/track/2r9TnPg7FlQbMILnokA1my"
     },
     {
-      "added_at": "2022-09-30 07:00:00",
+      "added_at": "2022-11-22 14:45:50",
       "album": {
-        "name": "Coffee House Sound In The Rainy Night",
-        "url": "https://open.spotify.com/album/5gYEeke1TUeB6B8645QF6K"
+        "name": "Cosy Italian Restaurant Sound",
+        "url": "https://open.spotify.com/album/0StsVpt5Wq4zu74uaf5Tzj"
       },
       "artists": [
         {
-          "name": "Serenity of Sound",
-          "url": "https://open.spotify.com/artist/590XQzFKG0wFPkOHupzLPx"
+          "name": "Sams Sampling",
+          "url": "https://open.spotify.com/artist/0l3BC2nHquksROX70Y9c8S"
         }
       ],
-      "duration_ms": 172000,
-      "name": "Coffee House Sound In The Rainy Night",
-      "url": "https://open.spotify.com/track/5zC0DhwVEKwoYuM6KmKQUd"
+      "duration_ms": 184000,
+      "name": "Ambient Restaurant Noise",
+      "url": "https://open.spotify.com/track/2o2nQqd43pZhXZEQm0T4oi"
     },
     {
-      "added_at": "2022-09-30 07:00:00",
+      "added_at": "2022-11-22 14:45:50",
       "album": {
-        "name": "Italian Piazza Sounds",
-        "url": "https://open.spotify.com/album/6UvqunJqwOVqVWEjS5tnEd"
+        "name": "At The Coffee shop",
+        "url": "https://open.spotify.com/album/036HiYDQoI9dmhfIKRB7Yc"
       },
       "artists": [
         {
-          "name": "Focus Finders",
-          "url": "https://open.spotify.com/artist/46PyhxzOXadyGA2297Fp68"
+          "name": "Street Smart",
+          "url": "https://open.spotify.com/artist/6VS3SXj0s0s6V8b1rliSHz"
         }
       ],
-      "duration_ms": 188626,
-      "name": "Italian Piazza Sounds",
-      "url": "https://open.spotify.com/track/6yzZ5ropRCW1imbX9BE9g0"
+      "duration_ms": 111821,
+      "name": "Mid Day Cafe",
+      "url": "https://open.spotify.com/track/10takmJqR53dEyMle91OzF"
     },
     {
-      "added_at": "2022-09-30 07:00:00",
+      "added_at": "2022-11-22 14:45:50",
       "album": {
-        "name": "City Meal",
-        "url": "https://open.spotify.com/album/6KARE4h3HDiQguXpzdEK3x"
+        "name": "Time For A Coffee Break",
+        "url": "https://open.spotify.com/album/1lxLOP5whtMZbtMq4YpMPR"
       },
       "artists": [
         {
-          "name": "Willy Ymer",
-          "url": "https://open.spotify.com/artist/6F5ZrBdFO0aI22v3p4GPK3"
+          "name": "Noise Guy",
+          "url": "https://open.spotify.com/artist/13XyCgtgurziefh3hzRgDE"
         }
       ],
-      "duration_ms": 210697,
-      "name": "City meal",
-      "url": "https://open.spotify.com/track/3gG5OATR6hhc6TCrJpsvwA"
+      "duration_ms": 146674,
+      "name": "Time For A Coffee Break",
+      "url": "https://open.spotify.com/track/7eoRfNJ7CfhXcxfH1Cxkok"
     },
     {
-      "added_at": "2022-09-30 07:00:00",
-      "album": {
-        "name": "Taqueria Mexico #2",
-        "url": "https://open.spotify.com/album/6FOdjXA0D1vKGoFdXAO6TJ"
-      },
-      "artists": [
-        {
-          "name": "Comer Para Vivir",
-          "url": "https://open.spotify.com/artist/4ZSY2phizCjuJH6jwz2wJ7"
-        }
-      ],
-      "duration_ms": 262384,
-      "name": "Con Amigos Si",
-      "url": "https://open.spotify.com/track/1jej12mKBgkKhWUrkGVo53"
-    },
-    {
-      "added_at": "2022-09-30 07:00:00",
+      "added_at": "2022-11-22 14:45:50",
       "album": {
         "name": "Seaside Coffee Break",
         "url": "https://open.spotify.com/album/09wTNxkN0fdoGDQhLtRXo8"
@@ -537,23 +425,39 @@
       "url": "https://open.spotify.com/track/51RI17EJHVrXxoKUAYJvDw"
     },
     {
-      "added_at": "2022-09-30 07:00:00",
+      "added_at": "2022-11-22 14:45:50",
       "album": {
-        "name": "Seaside Converstations",
-        "url": "https://open.spotify.com/album/7Knp4t4p6vXr4DyS7VMAni"
+        "name": "The Coffeeshop Round The Corner",
+        "url": "https://open.spotify.com/album/1SRFTpWc08D3J2DBhtQxVt"
       },
       "artists": [
         {
-          "name": "Explorador Anonimo",
-          "url": "https://open.spotify.com/artist/3BsviYzyAI7IKvDu9rcXvX"
+          "name": "Caffeine Buzz",
+          "url": "https://open.spotify.com/artist/4sFHfkxG8hgzK80eHzGf0O"
         }
       ],
-      "duration_ms": 208032,
-      "name": "Playa La Ropa",
-      "url": "https://open.spotify.com/track/3YVoUQOMYfsNw1Z5EqzYrG"
+      "duration_ms": 85714,
+      "name": "Sunday Coffee",
+      "url": "https://open.spotify.com/track/5ttOHgGbiUqszqGzkxHs02"
     },
     {
-      "added_at": "2022-09-30 07:00:00",
+      "added_at": "2022-11-22 14:45:50",
+      "album": {
+        "name": "Soothing coffeehouse Murmur",
+        "url": "https://open.spotify.com/album/5xbLzbltK0SSbbdL2BLFVL"
+      },
+      "artists": [
+        {
+          "name": "Noises Of Life",
+          "url": "https://open.spotify.com/artist/3Z3rY8ZEQwe3mgMoDzqTWi"
+        }
+      ],
+      "duration_ms": 179528,
+      "name": "Soothing coffeehouse Murmur",
+      "url": "https://open.spotify.com/track/36A4Y7z2FIFVUx7NHG0UdZ"
+    },
+    {
+      "added_at": "2022-11-22 14:45:50",
       "album": {
         "name": "Stockholm Restaurant at Noon",
         "url": "https://open.spotify.com/album/3kfHNtY1tUURYxdKeD3qTT"
@@ -569,39 +473,87 @@
       "url": "https://open.spotify.com/track/0loUCoyqZ84fhvsScWx17X"
     },
     {
-      "added_at": "2022-09-30 07:00:00",
+      "added_at": "2022-11-22 14:45:50",
       "album": {
-        "name": "Cosy Coffee House Sounds",
-        "url": "https://open.spotify.com/album/5XpnoL4lKd9gqElwYob6fX"
+        "name": "Days At The Cafe",
+        "url": "https://open.spotify.com/album/0pylxz9vHd0BvV6PB1YT35"
       },
       "artists": [
         {
-          "name": "Athmospherical FX",
-          "url": "https://open.spotify.com/artist/1sOEjr4Po1kf0wbHl6aeGr"
+          "name": "elysian",
+          "url": "https://open.spotify.com/artist/0GLj82zMKpn6e568AUTOdK"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Cosy Coffee House Sounds",
-      "url": "https://open.spotify.com/track/09dwfUbPPzPxM3hciHWuuP"
+      "duration_ms": 103814,
+      "name": "Days At The Cafe",
+      "url": "https://open.spotify.com/track/3upC0r3mUfa18XfRxrLi3R"
     },
     {
-      "added_at": "2022-09-30 07:00:00",
+      "added_at": "2022-11-22 14:45:50",
       "album": {
-        "name": "Coffee House Sound For Study",
-        "url": "https://open.spotify.com/album/6Va8nCSEGFMLnvpiWQ873f"
+        "name": "Coffeehouse Soundscapes",
+        "url": "https://open.spotify.com/album/79SkgomzlGpX2gG1IMTxkc"
       },
       "artists": [
         {
-          "name": "Sound FX Pro",
-          "url": "https://open.spotify.com/artist/31NJmSBsWYghiJmHs2XMXo"
+          "name": "ASMR Anonymous",
+          "url": "https://open.spotify.com/artist/1CBbKj7iORJ5c6Kzhx6fAC"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Coffee House Sound For Study",
-      "url": "https://open.spotify.com/track/3OnlsOThydlvFDupAwt2sa"
+      "duration_ms": 160000,
+      "name": "Coffeehouse Ambience Soft Music",
+      "url": "https://open.spotify.com/track/0TCWoQ37uL9yg25s9UMf0E"
     },
     {
-      "added_at": "2022-09-30 07:00:00",
+      "added_at": "2022-11-22 14:45:50",
+      "album": {
+        "name": "Italian Piazza Sounds",
+        "url": "https://open.spotify.com/album/6UvqunJqwOVqVWEjS5tnEd"
+      },
+      "artists": [
+        {
+          "name": "Focus Finders",
+          "url": "https://open.spotify.com/artist/46PyhxzOXadyGA2297Fp68"
+        }
+      ],
+      "duration_ms": 188626,
+      "name": "Italian Piazza Sounds",
+      "url": "https://open.spotify.com/track/6yzZ5ropRCW1imbX9BE9g0"
+    },
+    {
+      "added_at": "2022-11-22 14:45:50",
+      "album": {
+        "name": "City Meal",
+        "url": "https://open.spotify.com/album/6KARE4h3HDiQguXpzdEK3x"
+      },
+      "artists": [
+        {
+          "name": "Willy Ymer",
+          "url": "https://open.spotify.com/artist/6F5ZrBdFO0aI22v3p4GPK3"
+        }
+      ],
+      "duration_ms": 210697,
+      "name": "City meal",
+      "url": "https://open.spotify.com/track/3gG5OATR6hhc6TCrJpsvwA"
+    },
+    {
+      "added_at": "2022-11-22 14:45:50",
+      "album": {
+        "name": "Taqueria Mexico #2",
+        "url": "https://open.spotify.com/album/6FOdjXA0D1vKGoFdXAO6TJ"
+      },
+      "artists": [
+        {
+          "name": "Comer Para Vivir",
+          "url": "https://open.spotify.com/artist/4ZSY2phizCjuJH6jwz2wJ7"
+        }
+      ],
+      "duration_ms": 262384,
+      "name": "Con Amigos Si",
+      "url": "https://open.spotify.com/track/1jej12mKBgkKhWUrkGVo53"
+    },
+    {
+      "added_at": "2022-11-22 14:45:50",
       "album": {
         "name": "Coffee Shop Ambience",
         "url": "https://open.spotify.com/album/2Qbfhjvsis6eKLQslIU0X2"
@@ -617,7 +569,71 @@
       "url": "https://open.spotify.com/track/4JP54QTU0SZ1kDBzqic9WY"
     },
     {
-      "added_at": "2022-09-30 07:00:00",
+      "added_at": "2022-11-22 14:45:50",
+      "album": {
+        "name": "Restaurant City Ambience",
+        "url": "https://open.spotify.com/album/4syi2RhqK8TKsfWLYse1dq"
+      },
+      "artists": [
+        {
+          "name": "The Natural Healing",
+          "url": "https://open.spotify.com/artist/62dysQ8CjUwvdI3wLoTdHe"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Diner Room Ambience",
+      "url": "https://open.spotify.com/track/3P965p7GEpAaMDkkuwPz7B"
+    },
+    {
+      "added_at": "2022-11-22 14:45:50",
+      "album": {
+        "name": "Resturants Around The World",
+        "url": "https://open.spotify.com/album/7yVg3wyjlyriCkIXpePSdB"
+      },
+      "artists": [
+        {
+          "name": "Luncheonette",
+          "url": "https://open.spotify.com/artist/1K5ZCzCxlyaSCtQNdHv1cQ"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Italian Bistro",
+      "url": "https://open.spotify.com/track/6R9tQ4ziy250ecrTtwgPIv"
+    },
+    {
+      "added_at": "2022-11-22 14:45:50",
+      "album": {
+        "name": "At The Coffee shop",
+        "url": "https://open.spotify.com/album/036HiYDQoI9dmhfIKRB7Yc"
+      },
+      "artists": [
+        {
+          "name": "Street Smart",
+          "url": "https://open.spotify.com/artist/6VS3SXj0s0s6V8b1rliSHz"
+        }
+      ],
+      "duration_ms": 115176,
+      "name": "At The Coffee shop",
+      "url": "https://open.spotify.com/track/6AYeqUp8AR8NPPseKRSsRG"
+    },
+    {
+      "added_at": "2022-11-22 14:45:50",
+      "album": {
+        "name": "Downtown City Caf\u00e9 Sounds",
+        "url": "https://open.spotify.com/album/5TRLTbvPbbz2tY8Uhjzlj2"
+      },
+      "artists": [
+        {
+          "name": "Real Life Sounds",
+          "url": "https://open.spotify.com/artist/3tWYamBXdc7ZSrvDlarWBz"
+        }
+      ],
+      "duration_ms": 134644,
+      "name": "Downtown City Caf\u00e9 Sounds",
+      "url": "https://open.spotify.com/track/1cXVdXXzml6PRhoJCsWMIf"
+    },
+    {
+      "added_at": "2022-11-22 14:45:50",
       "album": {
         "name": "Cosy Coffee House Sounds",
         "url": "https://open.spotify.com/album/5XpnoL4lKd9gqElwYob6fX"
@@ -628,28 +644,92 @@
           "url": "https://open.spotify.com/artist/1sOEjr4Po1kf0wbHl6aeGr"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Cake House Noise",
-      "url": "https://open.spotify.com/track/6uFoArDEjzRodjyRk8WWHM"
+      "duration_ms": 178000,
+      "name": "Cosy Coffee House Sounds",
+      "url": "https://open.spotify.com/track/09dwfUbPPzPxM3hciHWuuP"
     },
     {
-      "added_at": "2022-09-30 07:00:00",
+      "added_at": "2022-11-22 14:45:50",
       "album": {
-        "name": "Soothing Restaurant Sound",
-        "url": "https://open.spotify.com/album/6nnlRHH6rbFmKCnoDjraFn"
+        "name": "My Favorite Coffeehouse",
+        "url": "https://open.spotify.com/album/5VsRS2bOarmXJQyr4hJSZz"
       },
       "artists": [
         {
-          "name": "Tight Chill Creator",
-          "url": "https://open.spotify.com/artist/6fenwnC12GiSNfN2Aar8Aj"
+          "name": "Vibe Industry",
+          "url": "https://open.spotify.com/artist/7pPIGqagTGdaLhOUxZTyag"
+        }
+      ],
+      "duration_ms": 85714,
+      "name": "My Favorite Coffeehouse",
+      "url": "https://open.spotify.com/track/3BPtj0EnqAwHu7e6DWFgvP"
+    },
+    {
+      "added_at": "2022-11-22 14:45:50",
+      "album": {
+        "name": "Soothing coffeehouse Murmur",
+        "url": "https://open.spotify.com/album/5xbLzbltK0SSbbdL2BLFVL"
+      },
+      "artists": [
+        {
+          "name": "Noises Of Life",
+          "url": "https://open.spotify.com/artist/3Z3rY8ZEQwe3mgMoDzqTWi"
+        }
+      ],
+      "duration_ms": 168573,
+      "name": "Dinner Time In The City",
+      "url": "https://open.spotify.com/track/68GIuOigB9VzZkyzr6zf4F"
+    },
+    {
+      "added_at": "2022-11-22 14:45:50",
+      "album": {
+        "name": "Seaside Converstations",
+        "url": "https://open.spotify.com/album/7Knp4t4p6vXr4DyS7VMAni"
+      },
+      "artists": [
+        {
+          "name": "Explorador Anonimo",
+          "url": "https://open.spotify.com/artist/3BsviYzyAI7IKvDu9rcXvX"
+        }
+      ],
+      "duration_ms": 208032,
+      "name": "Playa La Ropa",
+      "url": "https://open.spotify.com/track/3YVoUQOMYfsNw1Z5EqzYrG"
+    },
+    {
+      "added_at": "2022-11-22 14:45:50",
+      "album": {
+        "name": "Coffee House Sound In The Rainy Night",
+        "url": "https://open.spotify.com/album/5gYEeke1TUeB6B8645QF6K"
+      },
+      "artists": [
+        {
+          "name": "Serenity of Sound",
+          "url": "https://open.spotify.com/artist/590XQzFKG0wFPkOHupzLPx"
         }
       ],
       "duration_ms": 172000,
-      "name": "Calming Restaurant Ambience",
-      "url": "https://open.spotify.com/track/12KfVLj9Hq42AEHA7ewnE8"
+      "name": "Coffee House Sound In The Rainy Night",
+      "url": "https://open.spotify.com/track/5zC0DhwVEKwoYuM6KmKQUd"
     },
     {
-      "added_at": "2022-09-30 07:00:00",
+      "added_at": "2022-11-22 14:45:50",
+      "album": {
+        "name": "Restaurant City Ambience",
+        "url": "https://open.spotify.com/album/4syi2RhqK8TKsfWLYse1dq"
+      },
+      "artists": [
+        {
+          "name": "The Natural Healing",
+          "url": "https://open.spotify.com/artist/62dysQ8CjUwvdI3wLoTdHe"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Restaurant City Ambience",
+      "url": "https://open.spotify.com/track/3k90wP0xoZlL85yy2baTWI"
+    },
+    {
+      "added_at": "2022-11-22 14:45:50",
       "album": {
         "name": "Coffee House Sound For Study",
         "url": "https://open.spotify.com/album/6Va8nCSEGFMLnvpiWQ873f"
@@ -660,12 +740,76 @@
           "url": "https://open.spotify.com/artist/31NJmSBsWYghiJmHs2XMXo"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Diner Ambience",
-      "url": "https://open.spotify.com/track/0Q0moXW83ZneJzYnoKLeYv"
+      "duration_ms": 186000,
+      "name": "Coffee House Sound For Study",
+      "url": "https://open.spotify.com/track/3OnlsOThydlvFDupAwt2sa"
     },
     {
-      "added_at": "2022-09-30 07:00:00",
+      "added_at": "2022-11-22 14:45:50",
+      "album": {
+        "name": "Coffeehouse Ambience for Focused Minds",
+        "url": "https://open.spotify.com/album/5KVtzJsH2QBcqs2laYG0cY"
+      },
+      "artists": [
+        {
+          "name": "JLM",
+          "url": "https://open.spotify.com/artist/5qWC37TdUbKjGC9f7SLfWZ"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Coffeehouse Background",
+      "url": "https://open.spotify.com/track/3QEIiphlGHZTd2c2UIgGMG"
+    },
+    {
+      "added_at": "2022-11-22 14:45:50",
+      "album": {
+        "name": "Days At The Cafe",
+        "url": "https://open.spotify.com/album/0pylxz9vHd0BvV6PB1YT35"
+      },
+      "artists": [
+        {
+          "name": "elysian",
+          "url": "https://open.spotify.com/artist/0GLj82zMKpn6e568AUTOdK"
+        }
+      ],
+      "duration_ms": 118675,
+      "name": "Cozy Cafe Days",
+      "url": "https://open.spotify.com/track/1a6IsEZxgBRILJLBEaNvFc"
+    },
+    {
+      "added_at": "2022-11-22 14:45:50",
+      "album": {
+        "name": "Coffee House Sound In The Rainy Night",
+        "url": "https://open.spotify.com/album/5gYEeke1TUeB6B8645QF6K"
+      },
+      "artists": [
+        {
+          "name": "Serenity of Sound",
+          "url": "https://open.spotify.com/artist/590XQzFKG0wFPkOHupzLPx"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Evening At The Caf\u00e9",
+      "url": "https://open.spotify.com/track/28WW5DfHRAJTLewiZt2ApV"
+    },
+    {
+      "added_at": "2022-11-22 14:45:50",
+      "album": {
+        "name": "City Sounds",
+        "url": "https://open.spotify.com/album/68mCbHYFFDQoJUOBQuqsI8"
+      },
+      "artists": [
+        {
+          "name": "JLM",
+          "url": "https://open.spotify.com/artist/5qWC37TdUbKjGC9f7SLfWZ"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Coffee Shop Soundscape",
+      "url": "https://open.spotify.com/track/0x2r596Dyr5O587pCzSSqB"
+    },
+    {
+      "added_at": "2022-11-22 14:45:50",
       "album": {
         "name": "Italian Piazza Sounds",
         "url": "https://open.spotify.com/album/6UvqunJqwOVqVWEjS5tnEd"
@@ -681,23 +825,55 @@
       "url": "https://open.spotify.com/track/0yivM6X1XmRbVcdzNQcx1f"
     },
     {
-      "added_at": "2022-09-30 07:00:00",
+      "added_at": "2022-11-22 14:45:50",
       "album": {
-        "name": "French Coffee House Ambience",
-        "url": "https://open.spotify.com/album/41pVNde09D3FWB758YHQ8A"
+        "name": "Coffee House Sound For Study",
+        "url": "https://open.spotify.com/album/6Va8nCSEGFMLnvpiWQ873f"
       },
       "artists": [
         {
-          "name": "Sleep Makers Samples",
-          "url": "https://open.spotify.com/artist/21TfwfkOQkI8h5I7CJzCNf"
+          "name": "Sound FX Pro",
+          "url": "https://open.spotify.com/artist/31NJmSBsWYghiJmHs2XMXo"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Coffee Shop For Sleep",
-      "url": "https://open.spotify.com/track/6x0hbz7tcpITOw23JrzQ7m"
+      "duration_ms": 174000,
+      "name": "Diner Ambience",
+      "url": "https://open.spotify.com/track/0Q0moXW83ZneJzYnoKLeYv"
     },
     {
-      "added_at": "2022-09-30 07:00:00",
+      "added_at": "2022-11-22 14:45:50",
+      "album": {
+        "name": "Cosy London Caf\u00e9",
+        "url": "https://open.spotify.com/album/05vIu4yPjUfMiypuKPtNm7"
+      },
+      "artists": [
+        {
+          "name": "Symatic Noise",
+          "url": "https://open.spotify.com/artist/1pIVggVWlolzdltcs5eIcl"
+        }
+      ],
+      "duration_ms": 144957,
+      "name": "Cosy London Caf\u00e9",
+      "url": "https://open.spotify.com/track/5wliDkgJEyufMoOPVlUr6l"
+    },
+    {
+      "added_at": "2022-11-22 14:45:50",
+      "album": {
+        "name": "French Bistro Sound",
+        "url": "https://open.spotify.com/album/69AggoyBvCHK83e0hcjKzP"
+      },
+      "artists": [
+        {
+          "name": "The Calm Factory",
+          "url": "https://open.spotify.com/artist/2ZFshTMWFRTaeIuk7ryC4s"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "French Bistro Sound",
+      "url": "https://open.spotify.com/track/2JSttEvgX31AxIcXypW4gm"
+    },
+    {
+      "added_at": "2022-11-22 14:45:50",
       "album": {
         "name": "Taqueria Mexico #2",
         "url": "https://open.spotify.com/album/6FOdjXA0D1vKGoFdXAO6TJ"
@@ -713,7 +889,39 @@
       "url": "https://open.spotify.com/track/185tDy2ycT9NL4Yr3MzKB5"
     },
     {
-      "added_at": "2022-09-30 07:00:00",
+      "added_at": "2022-11-22 14:45:50",
+      "album": {
+        "name": "New York Caf\u00e9 Sounds",
+        "url": "https://open.spotify.com/album/02hJKfndJgVsPjQrl0Yyqo"
+      },
+      "artists": [
+        {
+          "name": "Natural Sample Makers",
+          "url": "https://open.spotify.com/artist/2kAU05Lt29wxhRj3BpiwhA"
+        }
+      ],
+      "duration_ms": 152057,
+      "name": "New York Caf\u00e9 Sounds",
+      "url": "https://open.spotify.com/track/6sTfPkSidCoCKtbp1fltuk"
+    },
+    {
+      "added_at": "2022-11-22 14:45:50",
+      "album": {
+        "name": "My Favorite Coffeehouse",
+        "url": "https://open.spotify.com/album/5VsRS2bOarmXJQyr4hJSZz"
+      },
+      "artists": [
+        {
+          "name": "Vibe Industry",
+          "url": "https://open.spotify.com/artist/7pPIGqagTGdaLhOUxZTyag"
+        }
+      ],
+      "duration_ms": 118285,
+      "name": "Caff\u00e8 latte please",
+      "url": "https://open.spotify.com/track/6yEYqeOnIkE9ucb9PG9jg5"
+    },
+    {
+      "added_at": "2022-11-22 14:45:50",
       "album": {
         "name": "Outdoors Slurpin'",
         "url": "https://open.spotify.com/album/1181bpxgjJxflOM50DLLks"
@@ -729,7 +937,71 @@
       "url": "https://open.spotify.com/track/05X7OFp7lfq70X9KYE2ZNw"
     },
     {
-      "added_at": "2022-09-30 07:00:00",
+      "added_at": "2022-11-22 14:45:50",
+      "album": {
+        "name": "Coffeehouse Ambience for Focused Minds",
+        "url": "https://open.spotify.com/album/5KVtzJsH2QBcqs2laYG0cY"
+      },
+      "artists": [
+        {
+          "name": "JLM",
+          "url": "https://open.spotify.com/artist/5qWC37TdUbKjGC9f7SLfWZ"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Coffeehouse Patio",
+      "url": "https://open.spotify.com/track/4s3oMjF2tPE4gtq9hVlR9j"
+    },
+    {
+      "added_at": "2022-11-22 14:45:50",
+      "album": {
+        "name": "My Favorite Coffeehouse",
+        "url": "https://open.spotify.com/album/5VsRS2bOarmXJQyr4hJSZz"
+      },
+      "artists": [
+        {
+          "name": "Vibe Industry",
+          "url": "https://open.spotify.com/artist/7pPIGqagTGdaLhOUxZTyag"
+        }
+      ],
+      "duration_ms": 93107,
+      "name": "Coffee Small Talk",
+      "url": "https://open.spotify.com/track/3nxjObbIkHbLq9IApSSTpb"
+    },
+    {
+      "added_at": "2022-11-22 14:45:50",
+      "album": {
+        "name": "French Coffee House Ambience",
+        "url": "https://open.spotify.com/album/41pVNde09D3FWB758YHQ8A"
+      },
+      "artists": [
+        {
+          "name": "Sleep Makers Samples",
+          "url": "https://open.spotify.com/artist/21TfwfkOQkI8h5I7CJzCNf"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Coffee Shop For Sleep",
+      "url": "https://open.spotify.com/track/6x0hbz7tcpITOw23JrzQ7m"
+    },
+    {
+      "added_at": "2022-11-22 14:45:50",
+      "album": {
+        "name": "W 11th Street Caf\u00e9",
+        "url": "https://open.spotify.com/album/1JuhAGRK3kA3XSIKIhkslF"
+      },
+      "artists": [
+        {
+          "name": "The Sound Dome",
+          "url": "https://open.spotify.com/artist/4EPb7Ovgubn4doMzl1kdDD"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "W 11th Street Caf\u00e9",
+      "url": "https://open.spotify.com/track/3xXd55rjH88JjMjzETF9kT"
+    },
+    {
+      "added_at": "2022-11-22 14:45:50",
       "album": {
         "name": "Ye Olde Coffee Shoppe",
         "url": "https://open.spotify.com/album/7uwYVZSChB3nLXx8pBdFdz"
@@ -745,55 +1017,7 @@
       "url": "https://open.spotify.com/track/0VShnrpz2LtqtG3TmGe3qn"
     },
     {
-      "added_at": "2022-09-30 07:00:00",
-      "album": {
-        "name": "Resturants Around The World",
-        "url": "https://open.spotify.com/album/7yVg3wyjlyriCkIXpePSdB"
-      },
-      "artists": [
-        {
-          "name": "Luncheonette",
-          "url": "https://open.spotify.com/artist/1K5ZCzCxlyaSCtQNdHv1cQ"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "French Restaurant Ambience",
-      "url": "https://open.spotify.com/track/4HOVxq1LzqBVP9M9k8Zlok"
-    },
-    {
-      "added_at": "2022-09-30 07:00:00",
-      "album": {
-        "name": "Coffeehouse Lullaby",
-        "url": "https://open.spotify.com/album/4bzVOl8jaDop1JbhHD8wSS"
-      },
-      "artists": [
-        {
-          "name": "Perfect Zounds",
-          "url": "https://open.spotify.com/artist/2ywSSOHLa97xCG2mNqgKMZ"
-        }
-      ],
-      "duration_ms": 199753,
-      "name": "Coffeehouse Lullaby",
-      "url": "https://open.spotify.com/track/1sMTxfa73Nng1JUfeYH79Q"
-    },
-    {
-      "added_at": "2022-09-30 07:00:00",
-      "album": {
-        "name": "Shimbashi Caf\u00e9",
-        "url": "https://open.spotify.com/album/5nGgE47yybNlYPQsRCBmD2"
-      },
-      "artists": [
-        {
-          "name": "Tokyo-Feels",
-          "url": "https://open.spotify.com/artist/0ZuOBZjygp4mJOJhGXQ4Pb"
-        }
-      ],
-      "duration_ms": 199409,
-      "name": "Smell The Coffee",
-      "url": "https://open.spotify.com/track/2yDvxqkrAIkxNos0y0LCLN"
-    },
-    {
-      "added_at": "2022-09-30 07:00:00",
+      "added_at": "2022-11-22 14:45:50",
       "album": {
         "name": "Coffee Shop Workmode",
         "url": "https://open.spotify.com/album/5OH09V5G37SBJG8l39B1Pb"
@@ -809,23 +1033,55 @@
       "url": "https://open.spotify.com/track/3RPhVVs1WnqDnQ3Ab14o72"
     },
     {
-      "added_at": "2022-09-30 07:00:00",
+      "added_at": "2022-11-22 14:45:50",
       "album": {
-        "name": "French Coffee House Ambience",
-        "url": "https://open.spotify.com/album/41pVNde09D3FWB758YHQ8A"
+        "name": "Cafe Flore",
+        "url": "https://open.spotify.com/album/6VvyWgBHAZgrqdmS3IRbrz"
       },
       "artists": [
         {
-          "name": "Sleep Makers Samples",
-          "url": "https://open.spotify.com/artist/21TfwfkOQkI8h5I7CJzCNf"
+          "name": "Haruna Fields",
+          "url": "https://open.spotify.com/artist/3hrpVisxCnVzRPdXg4K6EL"
         }
       ],
-      "duration_ms": 170000,
-      "name": "French Coffee House Ambience",
-      "url": "https://open.spotify.com/track/6tFIYg2LI9sMVvBwFfUmjU"
+      "duration_ms": 90461,
+      "name": "Lazy Day At The Cafe",
+      "url": "https://open.spotify.com/track/79Sb4hV9Hv11MRsTig8mqV"
     },
     {
-      "added_at": "2022-09-30 07:00:00",
+      "added_at": "2022-11-22 14:45:50",
+      "album": {
+        "name": "Caf\u00e9 Lounge Noise",
+        "url": "https://open.spotify.com/album/5oIRWxyAVcNJMScTJOH8ly"
+      },
+      "artists": [
+        {
+          "name": "En El Ruido",
+          "url": "https://open.spotify.com/artist/5jc4M9JlZV0JF8HneikuXt"
+        }
+      ],
+      "duration_ms": 179944,
+      "name": "Caf\u00e9 Lounge Noise",
+      "url": "https://open.spotify.com/track/1kSTJ1qXlkhlHBHNEms4Mb"
+    },
+    {
+      "added_at": "2022-11-22 14:45:50",
+      "album": {
+        "name": "Resturants Around The World",
+        "url": "https://open.spotify.com/album/7yVg3wyjlyriCkIXpePSdB"
+      },
+      "artists": [
+        {
+          "name": "Luncheonette",
+          "url": "https://open.spotify.com/artist/1K5ZCzCxlyaSCtQNdHv1cQ"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "French Restaurant Ambience",
+      "url": "https://open.spotify.com/track/4HOVxq1LzqBVP9M9k8Zlok"
+    },
+    {
+      "added_at": "2022-11-22 14:45:50",
       "album": {
         "name": "Coffeehouse Lullaby",
         "url": "https://open.spotify.com/album/4bzVOl8jaDop1JbhHD8wSS"
@@ -841,23 +1097,103 @@
       "url": "https://open.spotify.com/track/2grDfUtrDXvwMhTsJDhnfr"
     },
     {
-      "added_at": "2022-09-30 07:00:00",
+      "added_at": "2022-11-22 14:45:50",
       "album": {
-        "name": "Seaside Coffee Break",
-        "url": "https://open.spotify.com/album/09wTNxkN0fdoGDQhLtRXo8"
+        "name": "Cafe Flore",
+        "url": "https://open.spotify.com/album/6VvyWgBHAZgrqdmS3IRbrz"
       },
       "artists": [
         {
-          "name": "Surf & Turf",
-          "url": "https://open.spotify.com/artist/50629oufjz881d0uHfUC3n"
+          "name": "Haruna Fields",
+          "url": "https://open.spotify.com/artist/3hrpVisxCnVzRPdXg4K6EL"
+        }
+      ],
+      "duration_ms": 99692,
+      "name": "Cafe Flore",
+      "url": "https://open.spotify.com/track/4NJ1sSC7Ys1pyizYlyFYag"
+    },
+    {
+      "added_at": "2022-11-22 14:45:50",
+      "album": {
+        "name": "Coffeehouse Lullaby",
+        "url": "https://open.spotify.com/album/4bzVOl8jaDop1JbhHD8wSS"
+      },
+      "artists": [
+        {
+          "name": "Perfect Zounds",
+          "url": "https://open.spotify.com/artist/2ywSSOHLa97xCG2mNqgKMZ"
+        }
+      ],
+      "duration_ms": 199753,
+      "name": "Coffeehouse Lullaby",
+      "url": "https://open.spotify.com/track/1sMTxfa73Nng1JUfeYH79Q"
+    },
+    {
+      "added_at": "2022-11-22 14:45:50",
+      "album": {
+        "name": "Soothing Restaurant Sound",
+        "url": "https://open.spotify.com/album/6nnlRHH6rbFmKCnoDjraFn"
+      },
+      "artists": [
+        {
+          "name": "Tight Chill Creator",
+          "url": "https://open.spotify.com/artist/6fenwnC12GiSNfN2Aar8Aj"
         }
       ],
       "duration_ms": 172000,
-      "name": "The Harbour Caf\u00e9 - Seamless",
-      "url": "https://open.spotify.com/track/52l6s4sdjspyuk52GgDZad"
+      "name": "Calming Restaurant Ambience",
+      "url": "https://open.spotify.com/track/12KfVLj9Hq42AEHA7ewnE8"
     },
     {
-      "added_at": "2022-09-30 07:00:00",
+      "added_at": "2022-11-22 14:45:50",
+      "album": {
+        "name": "Time For A Coffee Break",
+        "url": "https://open.spotify.com/album/1lxLOP5whtMZbtMq4YpMPR"
+      },
+      "artists": [
+        {
+          "name": "Noise Guy",
+          "url": "https://open.spotify.com/artist/13XyCgtgurziefh3hzRgDE"
+        }
+      ],
+      "duration_ms": 164447,
+      "name": "Calmed By Cafe Sound",
+      "url": "https://open.spotify.com/track/27mCwnC9ijDpWbbRQ5Gkvh"
+    },
+    {
+      "added_at": "2022-11-22 14:45:50",
+      "album": {
+        "name": "Caf\u00e9 Lounge Noise",
+        "url": "https://open.spotify.com/album/5oIRWxyAVcNJMScTJOH8ly"
+      },
+      "artists": [
+        {
+          "name": "En El Ruido",
+          "url": "https://open.spotify.com/artist/5jc4M9JlZV0JF8HneikuXt"
+        }
+      ],
+      "duration_ms": 188454,
+      "name": "Peaceful City Caf\u00e9 Sounds",
+      "url": "https://open.spotify.com/track/63vRVFIdLHlw1XiIjLqhWg"
+    },
+    {
+      "added_at": "2022-11-22 14:45:50",
+      "album": {
+        "name": "Smooth Coffeehouse Sounds For Studying",
+        "url": "https://open.spotify.com/album/6YHDuBU1UPdrvKYbQYqqvQ"
+      },
+      "artists": [
+        {
+          "name": "Daily Sounds Hub",
+          "url": "https://open.spotify.com/artist/7elCueGbvqrgOhuKvZyUqH"
+        }
+      ],
+      "duration_ms": 151528,
+      "name": "Smooth Coffeehouse Sounds For Studying",
+      "url": "https://open.spotify.com/track/1IweueYnvckyISTXm0f99S"
+    },
+    {
+      "added_at": "2022-11-22 14:45:50",
       "album": {
         "name": "Seaside Coffee Break",
         "url": "https://open.spotify.com/album/09wTNxkN0fdoGDQhLtRXo8"
@@ -873,55 +1209,87 @@
       "url": "https://open.spotify.com/track/5nyEWxmTc1UgfhLxWUy41C"
     },
     {
-      "added_at": "2022-09-30 07:00:00",
+      "added_at": "2022-11-22 14:45:50",
       "album": {
-        "name": "Tacos Playa Del Carmen",
-        "url": "https://open.spotify.com/album/5rYIusX5CIIYAnAUbkjQKQ"
+        "name": "Coffeehouse Ambience for Focused Minds",
+        "url": "https://open.spotify.com/album/5KVtzJsH2QBcqs2laYG0cY"
       },
       "artists": [
         {
-          "name": "Comer Para Vivir",
-          "url": "https://open.spotify.com/artist/4ZSY2phizCjuJH6jwz2wJ7"
+          "name": "JLM",
+          "url": "https://open.spotify.com/artist/5qWC37TdUbKjGC9f7SLfWZ"
         }
       ],
-      "duration_ms": 219490,
-      "name": "Coca o Sprite",
-      "url": "https://open.spotify.com/track/7h4E3awajAykEGVDbvEB51"
+      "duration_ms": 160000,
+      "name": "Coffeehouse Vibes",
+      "url": "https://open.spotify.com/track/2bAaZdyBMXMQajkjdQQtAA"
     },
     {
-      "added_at": "2022-09-30 07:00:00",
+      "added_at": "2022-11-22 14:45:50",
       "album": {
-        "name": "Ye Olde Coffee Shoppe",
-        "url": "https://open.spotify.com/album/7uwYVZSChB3nLXx8pBdFdz"
+        "name": "French Coffee House Ambience",
+        "url": "https://open.spotify.com/album/41pVNde09D3FWB758YHQ8A"
       },
       "artists": [
         {
-          "name": "Doug Carrlas",
-          "url": "https://open.spotify.com/artist/3ZshreGfZ99jtTwoYcmmT5"
+          "name": "Sleep Makers Samples",
+          "url": "https://open.spotify.com/artist/21TfwfkOQkI8h5I7CJzCNf"
         }
       ],
-      "duration_ms": 172033,
-      "name": "Ye Olde Coffee Shoppe",
-      "url": "https://open.spotify.com/track/1zIyTkWoGOMjeicsOOhghC"
+      "duration_ms": 170000,
+      "name": "French Coffee House Ambience",
+      "url": "https://open.spotify.com/track/6tFIYg2LI9sMVvBwFfUmjU"
     },
     {
-      "added_at": "2022-09-30 07:00:00",
+      "added_at": "2022-11-22 14:45:50",
       "album": {
-        "name": "Outdoors Slurpin'",
-        "url": "https://open.spotify.com/album/1181bpxgjJxflOM50DLLks"
+        "name": "An Afternoon In Paris",
+        "url": "https://open.spotify.com/album/0RSblYAj3vWmaNwBh0YOOj"
       },
       "artists": [
         {
-          "name": "Joshua Tree Hikers",
-          "url": "https://open.spotify.com/artist/5zM9amH96d8tNGX5mEFllS"
+          "name": "Noise Eternity",
+          "url": "https://open.spotify.com/artist/0BMo2rAO5oSO9aSnjumKOD"
         }
       ],
-      "duration_ms": 146000,
-      "name": "Outdoors Slurpin' - Seamless",
-      "url": "https://open.spotify.com/track/4eYjmny0b1bfMmyFMXGqRf"
+      "duration_ms": 175834,
+      "name": "An Afternoon In Paris",
+      "url": "https://open.spotify.com/track/2I9sNao0r6otP1VBnjpvjs"
     },
     {
-      "added_at": "2022-09-30 07:00:00",
+      "added_at": "2022-11-22 14:45:50",
+      "album": {
+        "name": "Seaside Coffee Break",
+        "url": "https://open.spotify.com/album/09wTNxkN0fdoGDQhLtRXo8"
+      },
+      "artists": [
+        {
+          "name": "Surf & Turf",
+          "url": "https://open.spotify.com/artist/50629oufjz881d0uHfUC3n"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "The Harbour Caf\u00e9 - Seamless",
+      "url": "https://open.spotify.com/track/52l6s4sdjspyuk52GgDZad"
+    },
+    {
+      "added_at": "2022-11-22 14:45:50",
+      "album": {
+        "name": "Coffee Break",
+        "url": "https://open.spotify.com/album/0wC6sfCytTjRB67wFD885m"
+      },
+      "artists": [
+        {
+          "name": "Kali Sounds",
+          "url": "https://open.spotify.com/artist/4KuKlLvSRURx2gBezB1k7c"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "Coffee Break",
+      "url": "https://open.spotify.com/track/6XOtO5iusgc7g2CiEA58hc"
+    },
+    {
+      "added_at": "2022-11-22 14:45:50",
       "album": {
         "name": "Java Shop Ambience",
         "url": "https://open.spotify.com/album/04BoWIJndQLLGl7zpcgkqZ"
@@ -937,7 +1305,55 @@
       "url": "https://open.spotify.com/track/3OzpctTVuKkg2eSCwUZqNT"
     },
     {
-      "added_at": "2022-09-30 07:00:00",
+      "added_at": "2022-11-22 14:45:50",
+      "album": {
+        "name": "An Afternoon In Paris",
+        "url": "https://open.spotify.com/album/0RSblYAj3vWmaNwBh0YOOj"
+      },
+      "artists": [
+        {
+          "name": "Noise Eternity",
+          "url": "https://open.spotify.com/artist/0BMo2rAO5oSO9aSnjumKOD"
+        }
+      ],
+      "duration_ms": 170657,
+      "name": "French Outdoor Coffee House",
+      "url": "https://open.spotify.com/track/66Bc1Cxk5Lq8qtEawIjdt7"
+    },
+    {
+      "added_at": "2022-11-22 14:45:50",
+      "album": {
+        "name": "Outdoors Slurpin'",
+        "url": "https://open.spotify.com/album/1181bpxgjJxflOM50DLLks"
+      },
+      "artists": [
+        {
+          "name": "Joshua Tree Hikers",
+          "url": "https://open.spotify.com/artist/5zM9amH96d8tNGX5mEFllS"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Outdoors Slurpin' - Seamless",
+      "url": "https://open.spotify.com/track/4eYjmny0b1bfMmyFMXGqRf"
+    },
+    {
+      "added_at": "2022-11-22 14:45:50",
+      "album": {
+        "name": "Coffee Break",
+        "url": "https://open.spotify.com/album/0wC6sfCytTjRB67wFD885m"
+      },
+      "artists": [
+        {
+          "name": "Kali Sounds",
+          "url": "https://open.spotify.com/artist/4KuKlLvSRURx2gBezB1k7c"
+        }
+      ],
+      "duration_ms": 92307,
+      "name": "Pause At The Caf\u00e9",
+      "url": "https://open.spotify.com/track/7bz6fXfwAw1Vp8ofycHprt"
+    },
+    {
+      "added_at": "2022-11-22 14:45:50",
       "album": {
         "name": "Tacos Playa Del Carmen",
         "url": "https://open.spotify.com/album/5rYIusX5CIIYAnAUbkjQKQ"
@@ -953,7 +1369,39 @@
       "url": "https://open.spotify.com/track/6SkGKLhfOQ4tTwYQc2geoV"
     },
     {
-      "added_at": "2022-09-30 07:00:00",
+      "added_at": "2022-11-22 14:45:50",
+      "album": {
+        "name": "Cosy Coffee House Sounds",
+        "url": "https://open.spotify.com/album/5XpnoL4lKd9gqElwYob6fX"
+      },
+      "artists": [
+        {
+          "name": "Athmospherical FX",
+          "url": "https://open.spotify.com/artist/1sOEjr4Po1kf0wbHl6aeGr"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Cake House Noise",
+      "url": "https://open.spotify.com/track/6uFoArDEjzRodjyRk8WWHM"
+    },
+    {
+      "added_at": "2022-11-22 14:45:50",
+      "album": {
+        "name": "Ye Olde Coffee Shoppe",
+        "url": "https://open.spotify.com/album/7uwYVZSChB3nLXx8pBdFdz"
+      },
+      "artists": [
+        {
+          "name": "Doug Carrlas",
+          "url": "https://open.spotify.com/artist/3ZshreGfZ99jtTwoYcmmT5"
+        }
+      ],
+      "duration_ms": 172033,
+      "name": "Ye Olde Coffee Shoppe",
+      "url": "https://open.spotify.com/track/1zIyTkWoGOMjeicsOOhghC"
+    },
+    {
+      "added_at": "2022-11-22 14:45:50",
       "album": {
         "name": "City Meal",
         "url": "https://open.spotify.com/album/6KARE4h3HDiQguXpzdEK3x"
@@ -969,7 +1417,71 @@
       "url": "https://open.spotify.com/track/6CUlfKIMAdPREG9SVxa0gB"
     },
     {
-      "added_at": "2022-09-30 07:00:00",
+      "added_at": "2022-11-22 14:45:50",
+      "album": {
+        "name": "Coffee Break",
+        "url": "https://open.spotify.com/album/0wC6sfCytTjRB67wFD885m"
+      },
+      "artists": [
+        {
+          "name": "Kali Sounds",
+          "url": "https://open.spotify.com/artist/4KuKlLvSRURx2gBezB1k7c"
+        }
+      ],
+      "duration_ms": 86769,
+      "name": "Lazy Hours",
+      "url": "https://open.spotify.com/track/7ufn33IajRX5wPbxloXfni"
+    },
+    {
+      "added_at": "2022-11-22 14:45:50",
+      "album": {
+        "name": "At The Coffee shop",
+        "url": "https://open.spotify.com/album/036HiYDQoI9dmhfIKRB7Yc"
+      },
+      "artists": [
+        {
+          "name": "Street Smart",
+          "url": "https://open.spotify.com/artist/6VS3SXj0s0s6V8b1rliSHz"
+        }
+      ],
+      "duration_ms": 111821,
+      "name": "Sounds Of The Coffee Shop",
+      "url": "https://open.spotify.com/track/5cHru4KjVxpEyJjvrOR1WA"
+    },
+    {
+      "added_at": "2022-11-22 14:45:50",
+      "album": {
+        "name": "Shimbashi Caf\u00e9",
+        "url": "https://open.spotify.com/album/5nGgE47yybNlYPQsRCBmD2"
+      },
+      "artists": [
+        {
+          "name": "Tokyo-Feels",
+          "url": "https://open.spotify.com/artist/0ZuOBZjygp4mJOJhGXQ4Pb"
+        }
+      ],
+      "duration_ms": 199409,
+      "name": "Smell The Coffee",
+      "url": "https://open.spotify.com/track/2yDvxqkrAIkxNos0y0LCLN"
+    },
+    {
+      "added_at": "2022-11-22 14:45:50",
+      "album": {
+        "name": "Tacos Playa Del Carmen",
+        "url": "https://open.spotify.com/album/5rYIusX5CIIYAnAUbkjQKQ"
+      },
+      "artists": [
+        {
+          "name": "Comer Para Vivir",
+          "url": "https://open.spotify.com/artist/4ZSY2phizCjuJH6jwz2wJ7"
+        }
+      ],
+      "duration_ms": 219490,
+      "name": "Coca o Sprite",
+      "url": "https://open.spotify.com/track/7h4E3awajAykEGVDbvEB51"
+    },
+    {
+      "added_at": "2022-11-22 14:45:50",
       "album": {
         "name": "Tacos Playa Del Carmen",
         "url": "https://open.spotify.com/album/5rYIusX5CIIYAnAUbkjQKQ"
@@ -985,6 +1497,6 @@
       "url": "https://open.spotify.com/track/5wWgFTfM2DpjW8gLtrIJRs"
     }
   ],
-  "unique_name": "Restaurant Ambience",
+  "unique_name": "Restaurant Sounds",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9xM8v05mHON"
 }

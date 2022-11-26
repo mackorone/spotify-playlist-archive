@@ -1000,6 +1000,24 @@
     },
     {
       "album": {
+        "name": "Afrobeat Experience, Vol.1",
+        "url": "https://open.spotify.com/album/4wlCSu49JOHgOT4xAPlLto"
+      },
+      "artists": [
+        {
+          "name": "Mulatu Astatke",
+          "url": "https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 193488,
+      "name": "Y\u00e8gell\u00e9 Tezeta",
+      "url": "https://open.spotify.com/track/3aoq49JkaA7UIYw4Scr1GT"
+    },
+    {
+      "album": {
         "name": "New York - Addis - London: The Story of Ethio Jazz 1965-1975",
         "url": "https://open.spotify.com/album/3MHdUsf9wX9WffvOP59RBz"
       },
@@ -1126,6 +1144,42 @@
     },
     {
       "album": {
+        "name": "Ethiopiques, Vol. 4: Ethio Jazz 1969-1974",
+        "url": "https://open.spotify.com/album/5VKvVk4gaPAJyXjof8NnzX"
+      },
+      "artists": [
+        {
+          "name": "Mulatu Astatke",
+          "url": "https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 255560,
+      "name": "Y\u00e8k\u00e8rmo S\u00e8w (A Man of Experience and Wisdom)",
+      "url": "https://open.spotify.com/track/6eNOgE9gdpOx8Tztf4tbCF"
+    },
+    {
+      "album": {
+        "name": "Live In Paris",
+        "url": "https://open.spotify.com/album/7hRfo6CmgWCk8ekWnG2zpR"
+      },
+      "artists": [
+        {
+          "name": "Mahmoud Ahmed",
+          "url": "https://open.spotify.com/artist/1QrSgIS6RU4dgNPxLQMoha"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360733,
+      "name": "Y\u00e8sh\u00e8ga Lidj N\u00e8g\u00e8r",
+      "url": "https://open.spotify.com/track/2MRcFnDYNBKE34jF3NjJLe"
+    },
+    {
+      "album": {
         "name": "Live In Paris",
         "url": "https://open.spotify.com/album/0kGmTDYh6sYO9EmeTWYiAv"
       },
@@ -1137,7 +1191,7 @@
       ],
       "date_added": "2018-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 360733,
       "name": "Y\u00e8sh\u00e8ga Lidj N\u00e8g\u00e8r",
       "url": "https://open.spotify.com/track/6WUxsY20XPP4bKaprOYHoq"

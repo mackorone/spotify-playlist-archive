@@ -117,6 +117,24 @@
     {
       "album": {
         "name": "Look Now Look Again",
+        "url": "https://open.spotify.com/album/63fo684HqZ1MRvyHNUdHW6"
+      },
+      "artists": [
+        {
+          "name": "Rainer Maria",
+          "url": "https://open.spotify.com/artist/5OUVzPFZebtoZFs85MIQpz"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217480,
+      "name": "Breakfast of Champions",
+      "url": "https://open.spotify.com/track/4J35P4WwTQ1yYIN4ilAYC7"
+    },
+    {
+      "album": {
+        "name": "Look Now Look Again",
         "url": "https://open.spotify.com/album/56YkqH5Vv03PAeMzcuQzoQ"
       },
       "artists": [
@@ -127,7 +145,7 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 217480,
       "name": "Breakfast Of Champions",
       "url": "https://open.spotify.com/track/7fYabANyBAwb9TcUxvTQ0s"
@@ -541,10 +559,28 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 153800,
       "name": "Killing A Camera",
       "url": "https://open.spotify.com/track/3RRDWqEDP3045W8EP7xnY4"
+    },
+    {
+      "album": {
+        "name": "Frame and Canvas",
+        "url": "https://open.spotify.com/album/4WBDw3hnJTvWXXDaCNKVqJ"
+      },
+      "artists": [
+        {
+          "name": "Braid",
+          "url": "https://open.spotify.com/artist/36gdsrHzKZ0Wyb3uH7ZbEv"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153800,
+      "name": "Killing A Camera",
+      "url": "https://open.spotify.com/track/4pXESY1mSf9tXH6ODOw8PV"
     },
     {
       "album": {
@@ -631,10 +667,28 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 268333,
       "name": "Never Meant",
       "url": "https://open.spotify.com/track/51R5mPcJjOnfv9lKY1u5sW"
+    },
+    {
+      "album": {
+        "name": "American Football",
+        "url": "https://open.spotify.com/album/70OkRXiiwdTCtZ9YiPBzPp"
+      },
+      "artists": [
+        {
+          "name": "American Football",
+          "url": "https://open.spotify.com/artist/5FwydyGVcsQllnM4xM6jw4"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268333,
+      "name": "Never Meant",
+      "url": "https://open.spotify.com/track/6kZqCqD1r08sJAQ1TjuEpM"
     },
     {
       "album": {
@@ -653,6 +707,24 @@
       "duration_ms": 122880,
       "name": "Oh Messy Life",
       "url": "https://open.spotify.com/track/5UGOuPyoMT5XHNA75LJlQE"
+    },
+    {
+      "album": {
+        "name": "The Complete Collection (1994-1998)",
+        "url": "https://open.spotify.com/album/4kXgXFJH3Vn7cwHsYsfckI"
+      },
+      "artists": [
+        {
+          "name": "Mineral",
+          "url": "https://open.spotify.com/artist/3N4eFtnZCCXfMs0hBQwujT"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 231933,
+      "name": "Parking Lot",
+      "url": "https://open.spotify.com/track/4kt2HZaV0uMeMK0bG2GXr0"
     },
     {
       "album": {

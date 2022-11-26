@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXEO3u0YOMv.md) - [plain]
 
 > 設立10周年を迎えた<a href="http://www.mappa.co.jp/">MAPPA</a>。2022年6月までに公開された作品の音楽をひとつのプレイリストに。Listen to the songs from 30+ anime shows MAPPA has produced in the last decade of its history!
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,520 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,765 likes - 102 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXEO3u0YOMv.md) - [plain]
 | 11 | [炎ノ刻印\-DIVINE FLAME\-](https://open.spotify.com/track/2byhNUJkS3z214Q9TXKZr0) | [JAM Project](https://open.spotify.com/artist/0CPdwFVMsHZWpNgKuLaTuU) | [炎ノ刻印\-DIVINE FLAME\-](https://open.spotify.com/album/07qWWiZQ6qvwPSYvgDHBvx) | 4:21 |
 | 12 | [CHIASTOLITE](https://open.spotify.com/track/7DLUK91fqimI1vEg4CKGyb) | [佐咲紗花](https://open.spotify.com/artist/0Wc27lcAwtL8QYONiLd4b1) | [CHIASTOLITE \(アーティスト盤\)](https://open.spotify.com/album/0sVkWv5RlIvshKAasVHBUN) | 4:13 |
 | 13 | [B.B.](https://open.spotify.com/track/0qsR8AYGQ8HAfejVgaWI0z) | [JAM Project](https://open.spotify.com/artist/0CPdwFVMsHZWpNgKuLaTuU) | [B.B.](https://open.spotify.com/album/4w4xDSa5ztppzU0Cyyxrfk) | 3:48 |
-| 14 | [FOCUS](https://open.spotify.com/track/5r0aTftKf1MCAeWQ2tgdoX) | [Shoutarou Morikubo](https://open.spotify.com/artist/5fQSlPZkg4fbVVPO6lB7dj) | [FOCUS](https://open.spotify.com/album/2awJEw9oin6k4EkOnj3aYP) | 3:45 |
+| 14 | [FOCUS](https://open.spotify.com/track/5r0aTftKf1MCAeWQ2tgdoX) | [Showtaro Morikubo](https://open.spotify.com/artist/5fQSlPZkg4fbVVPO6lB7dj) | [FOCUS](https://open.spotify.com/album/2awJEw9oin6k4EkOnj3aYP) | 3:45 |
 | 15 | [PUNCH LINE!](https://open.spotify.com/track/779aOT2cX0kTf1L5IQKXTX) | [しょこたん](https://open.spotify.com/artist/0nvuPKl0u8lOSyHBRREoEL), [Dempagumi](https://open.spotify.com/artist/0xL9QDj516M42wr7gMpPaT) | [PUNCH LINE!\(妄想パンチラボイスComplete Edition\)](https://open.spotify.com/album/4pAMRlH6p5PWVacUt6ukIq) | 4:02 |
 | 16 | [蜜蜜蜜](https://open.spotify.com/track/6cfgcfp2hzwSCwWIaelPYx) | [Ayumikurikamaki](https://open.spotify.com/artist/0UDiy9fLk3rtgfh5lDqRqu) | [あゆみくりかまきがやって来る!クマァ!クマァ!クマァ!](https://open.spotify.com/album/2X4zGs64aVBu5oZz2s2KzO) | 3:43 |
 | 17 | [混ぜるな危険](https://open.spotify.com/track/4icsCUGIuwTmzx3YcSLTcu) | [筋肉少女帯](https://open.spotify.com/artist/59ti9jHDeW9RDyV8IOvEMM) | [おまけのいちにち\(闘いの日々\)](https://open.spotify.com/album/49rdLq99CUtHRPco1DBbGb) | 4:17 |
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXEO3u0YOMv.md) - [plain]
 | 70 | [Stay With Me](https://open.spotify.com/track/1PDVm6rKyLr4wsajScEoip) | [Seven Billion Dots](https://open.spotify.com/artist/15q0tk3egz6qJQAzRpMbMl) | [HOPE](https://open.spotify.com/album/1V7imbavVbdl9137lsY5v4) | 4:42 |
 | 71 | [蒼](https://open.spotify.com/track/3zA25wyjvkZiGulyLMpDJx) | [adieu](https://open.spotify.com/artist/18tXnGJKmrSwXynnxWHy3Y) | [adieu 1](https://open.spotify.com/album/0dszU2aJFWMMFrslTyhZkt) | 3:15 |
 | 72 | [Welcome トゥ 混沌](https://open.spotify.com/track/5WFyER9XL7zcDkaj7CuYmv) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ「ドロヘドロ」オープニングテーマ「Welcome トゥ 混沌」](https://open.spotify.com/album/4W2lpGvGvMmH7KLWofv4gf) | 3:38 |
-| 73 | [フレンズ](https://open.spotify.com/track/2yw4gK5iALigexA3jUiX3g) | [wacci](https://open.spotify.com/artist/7jCHrVGjeHUYP2pHv8FOJ3) | [フレンズ](https://open.spotify.com/album/2tH1mg6OFlLX2sFg24JSqs) | 3:58 |
+| 73 | [フレンズ](https://open.spotify.com/track/7cYQ9thqXjWg0slZ0CXSxm) | [wacci](https://open.spotify.com/artist/7jCHrVGjeHUYP2pHv8FOJ3) | [suits me! suits you!](https://open.spotify.com/album/6w4UG3KP2TxppJ4QuQeean) | 3:59 |
 | 74 | [Into the blue's](https://open.spotify.com/track/3ATB5UCxOR0kUJ9PVB0QKk) | [ACCAMER](https://open.spotify.com/artist/6fl8KnCZzMYMHTklUPWlX2) | [Into the blue's](https://open.spotify.com/album/2aGDirzR8gziYiaJl8BCRd) | 3:49 |
 | 75 | [Contradiction \(feat\. Tyler Carter\)](https://open.spotify.com/track/2yuyPke3xjantGgapFPH3e) | [KSUKE](https://open.spotify.com/artist/6MXOcf1IlhzpV0b8qtjAzd), [Tyler Carter](https://open.spotify.com/artist/4VCAHkdzvJBHJAcPyvWY5s) | [Contradiction \(feat\. Tyler Carter\)](https://open.spotify.com/album/6pckVZbJ9J1tNuTzPd4McO) | 3:21 |
 | 76 | [WIN \- "The God of HighSchool" ED](https://open.spotify.com/track/7apQPgVEiRpAIFe8VaeB7h) | [CIX](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) | [WIN \("The God of HighSchool" ED\)](https://open.spotify.com/album/3Nc5br1HThZq5XrCI802gX) | 3:25 |
@@ -108,5 +108,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXEO3u0YOMv.md) - [plain]
 | 98 | [Akuma no Ko](https://open.spotify.com/track/4pw7EuK2WTWGHI51jCKuGJ) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Saiaku Saiai](https://open.spotify.com/album/2CtsgdSCPlWeIdcdk2m2iQ) | 3:49 |
 | 99 | [鳴り響く限り](https://open.spotify.com/track/1AudHfLgLyJoDvqBTZBtSU) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [鳴り響く限り](https://open.spotify.com/album/6NDdztWIUAsK2pbmDvWjND) | 3:53 |
 | 100 | [風、花](https://open.spotify.com/track/2LyD72XzzJMSKqGrddyVr4) | [Hitorie](https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0) | [風、花](https://open.spotify.com/album/0uZBgvAuuoejT0ZcCzFXaj) | 3:16 |
+| 101 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 |
+| 102 | [CHAINSAW BLOOD](https://open.spotify.com/track/3lUOzabhWYyRImRszpJGOU) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [CHAINSAW BLOOD](https://open.spotify.com/album/6vuTbUMzsnI0ThfnXc4Cjg) | 3:20 |
 
-Snapshot ID: `MTY1MjE1ODUzMiwwMDAwMDAwMGQ0MGZmZDAzMDhlNjU1MjYzMTRhYmRjMzg0YTlkOTQ2`
+Snapshot ID: `MTY2NTUwMDQwMCwwMDAwMDAwMDMwNzEzMmRlZGQ1ZDRlMjkzNjdmOGI5ZTg5YWZkYzQ3`

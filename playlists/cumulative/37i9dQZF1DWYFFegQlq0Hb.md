@@ -4,7 +4,7 @@
 
 > TVアニメ<a href="https://jujutsukaisen.jp/">「呪術廻戦」</a> の公式プレイリスト。OP/ED曲、<a href="spotify:show:24s1gq2QNlYGwGLpGYYDuS">「呪術廻戦 じゅじゅとーく＋オーディオコメンタリー」</a>」ポッドキャストを合わせてチェック！ / "You should use your strength to help others." \- Enjoy music and podcast from Jujutsu Kaisen!
 
-103 songs - 4 hr 42 min - [published](https://open.spotify.com/playlist/3fNCm9FWFIDEF8bSjQH4mp)
+104 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/3fNCm9FWFIDEF8bSjQH4mp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [It's a Promise](https://open.spotify.com/track/6RTOyd2Iv4fHPWeJPZDr6O) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [『劇場版 呪術廻戦 0』オリジナル・サウンドトラック](https://open.spotify.com/album/6y2tASCYQcNqpiiqb0tKso) | 0:46 | 2022-03-07 | 2022-07-29 |
 | [JUJUTSU KAISEN](https://open.spotify.com/track/7eD9SZJiW771D7Cng4pLkI) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ), [Alisa Okehazama](https://open.spotify.com/artist/6VMGyvtQPQ1uPvkaSm73aR) | [Jujutsu Kaisen \(Original Television Soundtrack\)](https://open.spotify.com/album/5QYGsl05fLEEE4fUjz4rkt) | 1:49 | 2022-03-07 |  |
 | [Jujutsu Sorcerer Megumi Fushiguro](https://open.spotify.com/track/7JkakKNpZ1iPgisu6mXEwP) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [Jujutsu Kaisen \(Original Television Soundtrack\)](https://open.spotify.com/album/5QYGsl05fLEEE4fUjz4rkt) | 3:34 | 2022-03-07 |  |
+| [Kaikai Kitan](https://open.spotify.com/track/5RpCdEgSjTVIyziY4Ln8Ju) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Kaikai Kitan](https://open.spotify.com/album/20avoisFInptrZfBRFdCP3) | 3:39 | 2022-03-07 | 2022-11-13 |
 | [Kaikai Kitan](https://open.spotify.com/track/6y4GYuZszeXNOXuBFsJlos) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Kaikai Kitan / Ao No Waltz](https://open.spotify.com/album/6BZjN6j79mjz7PJfGmvCR1) | 3:41 | 2022-03-07 |  |
 | [Looming Threat](https://open.spotify.com/track/5stZw6VNtqJ71vO2rr9e1c) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [Jujutsu Kaisen \(Original Television Soundtrack\)](https://open.spotify.com/album/5QYGsl05fLEEE4fUjz4rkt) | 2:45 | 2022-03-07 |  |
 | [LOST IN PARADISE](https://open.spotify.com/track/145wBbokDZTFZLFHOtZrzG) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb) | [LOST IN PARADISE](https://open.spotify.com/album/7eVQUS48aCo0xfUPOlNVlT) | 5:28 | 2022-03-07 |  |

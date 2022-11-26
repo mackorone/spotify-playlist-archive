@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh?si=s0u7SNJXQQ-JKMPH3p8dSw\">Usain Bolt</a>",
-  "num_followers": 104,
+  "num_followers": 847,
   "original_name": "Usain Bolt's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMDM1YjIwN2Y5Nzc5NjE4ZjgwNWJmMzgyZGQ4ZTFmZmFi",
+  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMDI1MDAzYzQyYWE4ZTM0OTkwMDA2MDQyMjIyYmQ0MWVm",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -103,22 +103,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Don't Start Now",
-        "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 183290,
-      "name": "Don't Start Now",
-      "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "BLAME IT ON BABY",
         "url": "https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 181733,
       "name": "ROCKSTAR (feat. Roddy Ricch)",
       "url": "https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Don't Start Now",
+        "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 183290,
+      "name": "Don't Start Now",
+      "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -235,6 +235,26 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Levitating (feat. DaBaby)",
+        "url": "https://open.spotify.com/album/04m06KhJUuwe1Q487puIud"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 203064,
+      "name": "Levitating (feat. DaBaby)",
+      "url": "https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Up",
         "url": "https://open.spotify.com/album/5BNrcvfbLyADks4RXPW7VP"
       },
@@ -263,46 +283,6 @@
       "duration_ms": 191502,
       "name": "Toast",
       "url": "https://open.spotify.com/track/7sd72KZS8D59g5NmhxyHpJ"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Levitating (feat. DaBaby)",
-        "url": "https://open.spotify.com/album/04m06KhJUuwe1Q487puIud"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 203064,
-      "name": "Levitating (feat. DaBaby)",
-      "url": "https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "POPSTAR (feat. Drake)",
-        "url": "https://open.spotify.com/album/5nNtpPsSUgb9Hlb3dF1gXa"
-      },
-      "artists": [
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 200221,
-      "name": "POPSTAR (feat. Drake)",
-      "url": "https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -347,6 +327,26 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "POPSTAR (feat. Drake)",
+        "url": "https://open.spotify.com/album/5nNtpPsSUgb9Hlb3dF1gXa"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 200221,
+      "name": "POPSTAR (feat. Drake)",
+      "url": "https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "FIXTAPE",
         "url": "https://open.spotify.com/album/3yqk7nimwdE2FdaA85iJM8"
       },
@@ -387,6 +387,42 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Party Animal",
+        "url": "https://open.spotify.com/album/3eOXiZ4HVNafqio5wKJRcG"
+      },
+      "artists": [
+        {
+          "name": "Charly Black",
+          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
+        },
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        }
+      ],
+      "duration_ms": 195813,
+      "name": "Party Animal",
+      "url": "https://open.spotify.com/track/5vc9YsAEBWbRVvgKUcA5vs"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Gal Policy",
+        "url": "https://open.spotify.com/album/5x1BzHxHcnvjru9T9iA4R8"
+      },
+      "artists": [
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        }
+      ],
+      "duration_ms": 136826,
+      "name": "Gal Policy",
+      "url": "https://open.spotify.com/track/7yJG5oJwYfom8AVXDcgFLx"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Grateful",
         "url": "https://open.spotify.com/album/3HhZbSJdhOqMSaRbEt3gtw"
       },
@@ -411,22 +447,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Party Animal",
-        "url": "https://open.spotify.com/album/3eOXiZ4HVNafqio5wKJRcG"
+        "name": "Track Star",
+        "url": "https://open.spotify.com/album/7yvSdViuYJjZwXWtSwYu3D"
       },
       "artists": [
         {
-          "name": "Charly Black",
-          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
-        },
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+          "name": "Mooski",
+          "url": "https://open.spotify.com/artist/4NqH3V7GS0Igs1VyGMXEi8"
         }
       ],
-      "duration_ms": 195813,
-      "name": "Party Animal",
-      "url": "https://open.spotify.com/track/5vc9YsAEBWbRVvgKUcA5vs"
+      "duration_ms": 199706,
+      "name": "Track Star",
+      "url": "https://open.spotify.com/track/5hChuUMe5iHfjkXgzj1D4b"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -447,54 +479,6 @@
       "duration_ms": 230151,
       "name": "W (feat. Gunna)",
       "url": "https://open.spotify.com/track/6xW2g0c5uSoa3S6xk9eI4j"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Track Star",
-        "url": "https://open.spotify.com/album/7yvSdViuYJjZwXWtSwYu3D"
-      },
-      "artists": [
-        {
-          "name": "Mooski",
-          "url": "https://open.spotify.com/artist/4NqH3V7GS0Igs1VyGMXEi8"
-        }
-      ],
-      "duration_ms": 199706,
-      "name": "Track Star",
-      "url": "https://open.spotify.com/track/5hChuUMe5iHfjkXgzj1D4b"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Crocodile Teeth",
-        "url": "https://open.spotify.com/album/4UG4l6GtGle8m7zbwinjBH"
-      },
-      "artists": [
-        {
-          "name": "Skillibeng",
-          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
-        }
-      ],
-      "duration_ms": 166699,
-      "name": "Crocodile Teeth",
-      "url": "https://open.spotify.com/track/3qi98GCs3sbvbAJugWmdQY"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Gal Policy",
-        "url": "https://open.spotify.com/album/5x1BzHxHcnvjru9T9iA4R8"
-      },
-      "artists": [
-        {
-          "name": "Kranium",
-          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
-        }
-      ],
-      "duration_ms": 136826,
-      "name": "Gal Policy",
-      "url": "https://open.spotify.com/track/7yJG5oJwYfom8AVXDcgFLx"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -536,13 +520,29 @@
       },
       "artists": [
         {
-          "name": "BLEU",
+          "name": "Yung Bleu",
           "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
         }
       ],
       "duration_ms": 221423,
       "name": "You're Mines Still",
       "url": "https://open.spotify.com/track/3wJ1OyP3Fugmi8t41e1zQ6"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Just Until....",
+        "url": "https://open.spotify.com/album/0mRCQ9zhXQTjXusVJfSXoW"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "duration_ms": 182974,
+      "name": "Dream in Color",
+      "url": "https://open.spotify.com/track/4f7BNSy2ZVeabUJtjTX3kP"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -567,6 +567,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Crocodile Teeth",
+        "url": "https://open.spotify.com/album/3f1oDLHky5itUghicXgwjg"
+      },
+      "artists": [
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        }
+      ],
+      "duration_ms": 166699,
+      "name": "Crocodile Teeth",
+      "url": "https://open.spotify.com/track/2QXv4NKNCuqCDmOTwcOjrN"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Kilometre",
         "url": "https://open.spotify.com/album/6Vqv0UEcqmB1mMvvxZ4Y9T"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 152824,
       "name": "Kilometre",
       "url": "https://open.spotify.com/track/0oQgoesQJq0fRnWOY1D73g"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Just Until....",
-        "url": "https://open.spotify.com/album/0mRCQ9zhXQTjXusVJfSXoW"
-      },
-      "artists": [
-        {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
-        }
-      ],
-      "duration_ms": 182974,
-      "name": "Dream in Color",
-      "url": "https://open.spotify.com/track/4f7BNSy2ZVeabUJtjTX3kP"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -619,22 +619,6 @@
       "duration_ms": 196037,
       "name": "WE GOING CRAZY (feat. H.E.R. & Migos)",
       "url": "https://open.spotify.com/track/6BvcWv1vfVJSoWix7L5BAP"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Roll Deep",
-        "url": "https://open.spotify.com/album/24HPQqwhRn31huvNRg8War"
-      },
-      "artists": [
-        {
-          "name": "10Tik",
-          "url": "https://open.spotify.com/artist/6I1j34QzSTWe6u4qQWKYJe"
-        }
-      ],
-      "duration_ms": 207856,
-      "name": "Roll Deep",
-      "url": "https://open.spotify.com/track/7qbYXi2qeCdBoSlDZs9swk"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -691,6 +675,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Roll Deep",
+        "url": "https://open.spotify.com/album/0DVnruHgsqHFIoYnmpYlc2"
+      },
+      "artists": [
+        {
+          "name": "10Tik",
+          "url": "https://open.spotify.com/artist/6I1j34QzSTWe6u4qQWKYJe"
+        }
+      ],
+      "duration_ms": 207856,
+      "name": "Roll Deep",
+      "url": "https://open.spotify.com/track/5I55hcZJTmdVtyJC4Sn7ae"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Shutdown",
         "url": "https://open.spotify.com/album/0xCAtTLLKHVXXRG3QszG7Y"
       },
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Champ - Single",
-        "url": "https://open.spotify.com/album/5QBtVmIGkMdb6F5PORTLSr"
-      },
-      "artists": [
-        {
-          "name": "Govana",
-          "url": "https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Champ",
-      "url": "https://open.spotify.com/track/0EoNuIITOben2tT4QbUEzi"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Big Moves",
         "url": "https://open.spotify.com/album/19DUz6GJ0KKs1qJluRYzcQ"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 258982,
       "name": "SORRY NOT SORRY (feat. Nas, JAY-Z & James Fauntleroy) - Harmonies by The Hive",
       "url": "https://open.spotify.com/track/5OypcrFg58e4k2iYHi69ED"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Champ - Single",
+        "url": "https://open.spotify.com/album/0JbpYmI0C4fBzPLBLqVOlQ"
+      },
+      "artists": [
+        {
+          "name": "Govana",
+          "url": "https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Champ",
+      "url": "https://open.spotify.com/track/1g4ziqH1kWahITvZg8ppUO"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -911,8 +911,8 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Say Less",
-        "url": "https://open.spotify.com/album/4qRk52lROgGgQMT9gXY0WA"
+        "name": "Usain Bolt Presents: Clockwork Riddim",
+        "url": "https://open.spotify.com/album/1DwPjiZIEfx2jkaZjoS8IY"
       },
       "artists": [
         {
@@ -922,19 +922,11 @@
         {
           "name": "Nj",
           "url": "https://open.spotify.com/artist/3KNcuLUfY5AqiRXASRFWjC"
-        },
-        {
-          "name": "Bibi",
-          "url": "https://open.spotify.com/artist/6SC0EXdxo6LSCSsspDxXyT"
-        },
-        {
-          "name": "Kamal",
-          "url": "https://open.spotify.com/artist/49QARoeIkbAkdg1YXaUJ9s"
         }
       ],
-      "duration_ms": 160102,
-      "name": "Say Less",
-      "url": "https://open.spotify.com/track/0BCQnF3a3ZKLGbaN6nD3co"
+      "duration_ms": 189473,
+      "name": "Timing",
+      "url": "https://open.spotify.com/track/3DWw2xtPBpv4fmp6MtGSrT"
     }
   ],
   "unique_name": "Usain Bolt's Taste",

@@ -300,6 +300,42 @@
     },
     {
       "album": {
+        "name": "PAY CLOSE ATTENTION: XL Recordings",
+        "url": "https://open.spotify.com/album/3D9vUf511saEHLua6NcOLw"
+      },
+      "artists": [
+        {
+          "name": "The Prodigy",
+          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
+        }
+      ],
+      "date_added": "2020-09-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 280546,
+      "name": "Firestarter",
+      "url": "https://open.spotify.com/track/2Kq8vEOxe7rgKmAPRPPURu"
+    },
+    {
+      "album": {
+        "name": "In Person",
+        "url": "https://open.spotify.com/album/1qgmwdq92V17DpwbJSjVrm"
+      },
+      "artists": [
+        {
+          "name": "Sweet Female Attitude",
+          "url": "https://open.spotify.com/artist/1054JdBVMCPm9VpvkUcOYX"
+        }
+      ],
+      "date_added": "2020-09-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 229866,
+      "name": "Flowers (Sunship Edit)",
+      "url": "https://open.spotify.com/track/5mbXK7wuy5MXvB7WyepMp0"
+    },
+    {
+      "album": {
         "name": "In Person",
         "url": "https://open.spotify.com/album/1aSBBYRCl4FcSm27hWaO8r"
       },
@@ -395,10 +431,32 @@
       ],
       "date_added": "2020-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 223672,
       "name": "Get On Uppa",
       "url": "https://open.spotify.com/track/5aotZwwhBYBDUe5sXFRXoN"
+    },
+    {
+      "album": {
+        "name": "Gran Paradiso",
+        "url": "https://open.spotify.com/album/4e8YIEAGQlDLpka8wkiZBM"
+      },
+      "artists": [
+        {
+          "name": "Waldeck",
+          "url": "https://open.spotify.com/artist/6596yDTd94cIC3dlBptxDH"
+        },
+        {
+          "name": "la Heidi",
+          "url": "https://open.spotify.com/artist/5uaGhmrko7vQ43FKH1V1KT"
+        }
+      ],
+      "date_added": "2020-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223689,
+      "name": "Get On Uppa",
+      "url": "https://open.spotify.com/track/3K60QrITzr3A7VfO9gj65y"
     },
     {
       "album": {
@@ -558,6 +616,24 @@
     },
     {
       "album": {
+        "name": "home with you",
+        "url": "https://open.spotify.com/album/7vs7eD7pLUSIWK4NCU6hIE"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "date_added": "2020-09-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 224946,
+      "name": "home with you",
+      "url": "https://open.spotify.com/track/6x4jMSgj7LaMLrqFXe6HQ8"
+    },
+    {
+      "album": {
         "name": "MAGDALENE",
         "url": "https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ"
       },
@@ -706,8 +782,44 @@
     },
     {
       "album": {
+        "name": "LOUSY",
+        "url": "https://open.spotify.com/album/2LBvRNvI11vqYFdJP24Dwx"
+      },
+      "artists": [
+        {
+          "name": "Zebra Katz",
+          "url": "https://open.spotify.com/artist/5Tz4zMiRWqiQVAymWZz99a"
+        }
+      ],
+      "date_added": "2020-09-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 165891,
+      "name": "LOUSY",
+      "url": "https://open.spotify.com/track/0DwhsGbwyCtlvs905YIquT"
+    },
+    {
+      "album": {
         "name": "LESS IS MOOR",
         "url": "https://open.spotify.com/album/37g7rTlnjZwOK0S3GOKPO3"
+      },
+      "artists": [
+        {
+          "name": "Zebra Katz",
+          "url": "https://open.spotify.com/artist/5Tz4zMiRWqiQVAymWZz99a"
+        }
+      ],
+      "date_added": "2020-09-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 165891,
+      "name": "LOUSY",
+      "url": "https://open.spotify.com/track/0rxVWTeAR9evLU3wBW6jfr"
+    },
+    {
+      "album": {
+        "name": "LESS IS MOOR",
+        "url": "https://open.spotify.com/album/3DRPWHi5HizuPPgVj9JiFJ"
       },
       "artists": [
         {
@@ -720,7 +832,7 @@
       "date_removed": null,
       "duration_ms": 165891,
       "name": "LOUSY",
-      "url": "https://open.spotify.com/track/0rxVWTeAR9evLU3wBW6jfr"
+      "url": "https://open.spotify.com/track/2wkW3RbMGYjbSCNsHShEEm"
     },
     {
       "album": {
@@ -910,6 +1022,24 @@
     },
     {
       "album": {
+        "name": "the ONE",
+        "url": "https://open.spotify.com/album/3epv2krgx1ZUerQPUfb0wn"
+      },
+      "artists": [
+        {
+          "name": "HAWA",
+          "url": "https://open.spotify.com/artist/2YwiHXMC3iIiXZEQZ5PUJG"
+        }
+      ],
+      "date_added": "2020-09-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 217754,
+      "name": "MY LOVE",
+      "url": "https://open.spotify.com/track/6nAZofNToXwIVVmRWqmcZ2"
+    },
+    {
+      "album": {
         "name": "Your Queen Is A Reptile",
         "url": "https://open.spotify.com/album/4pxnDGBdoGu88h8ZInX5f5"
       },
@@ -943,6 +1073,24 @@
       "duration_ms": 207003,
       "name": "nightmares",
       "url": "https://open.spotify.com/track/2hCOLHDVQhnu0qpLFV4ynj"
+    },
+    {
+      "album": {
+        "name": "Spring Break 2022: Road Trip",
+        "url": "https://open.spotify.com/album/6r3o3nQWDax5ise25ApXVb"
+      },
+      "artists": [
+        {
+          "name": "easy life",
+          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
+        }
+      ],
+      "date_added": "2020-09-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 207003,
+      "name": "nightmares",
+      "url": "https://open.spotify.com/track/7qoPkinWQ1JyP34Eo2URAr"
     },
     {
       "album": {
@@ -1055,7 +1203,7 @@
     {
       "album": {
         "name": "GREY Area",
-        "url": "https://open.spotify.com/album/4Wwm4xg2748zhYuzDRFTgY"
+        "url": "https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1"
       },
       "artists": [
         {
@@ -1066,6 +1214,42 @@
       "date_added": "2020-09-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 168521,
+      "name": "Offence",
+      "url": "https://open.spotify.com/track/255XENrbBfTCRz6XBL7jJR"
+    },
+    {
+      "album": {
+        "name": "Offence",
+        "url": "https://open.spotify.com/album/6iXfpbB3SxBKoTnZHAxCnH"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2020-09-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 168521,
+      "name": "Offence",
+      "url": "https://open.spotify.com/track/3JJXrYlJWw2ruon5KP4mOJ"
+    },
+    {
+      "album": {
+        "name": "GREY Area",
+        "url": "https://open.spotify.com/album/4Wwm4xg2748zhYuzDRFTgY"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2020-09-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-02",
       "duration_ms": 168521,
       "name": "Offence",
       "url": "https://open.spotify.com/track/4cakdyTV2GRb9ktqBNMChH"
@@ -1355,7 +1539,7 @@
     {
       "album": {
         "name": "20th Century British Choral Music",
-        "url": "https://open.spotify.com/album/3KUV9MQ30VsocUmMgef85e"
+        "url": "https://open.spotify.com/album/1lHTzkILsaV2tx7pSuphXv"
       },
       "artists": [
         {
@@ -1370,6 +1554,28 @@
       "date_added": "2020-09-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 274306,
+      "name": "Sirens' Song",
+      "url": "https://open.spotify.com/track/2BLaXRuwTwMN4mT4Dn4jDw"
+    },
+    {
+      "album": {
+        "name": "20th Century British Choral Music",
+        "url": "https://open.spotify.com/album/3KUV9MQ30VsocUmMgef85e"
+      },
+      "artists": [
+        {
+          "name": "Elizabeth Maconchy",
+          "url": "https://open.spotify.com/artist/6vsthml7w1AetwgOAg5ZKn"
+        },
+        {
+          "name": "The Ionian Singers",
+          "url": "https://open.spotify.com/artist/62huOMu7A2I2r7rl5FkMno"
+        }
+      ],
+      "date_added": "2020-09-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-18",
       "duration_ms": 274306,
       "name": "Sirens' Song",
       "url": "https://open.spotify.com/track/3IY27fcK9K2WrYjczdILdb"
@@ -1533,6 +1739,28 @@
     {
       "album": {
         "name": "The River Bend",
+        "url": "https://open.spotify.com/album/3cH9W5kkGahsfCJptOopVT"
+      },
+      "artists": [
+        {
+          "name": "Subculture",
+          "url": "https://open.spotify.com/artist/45CiOVzqS9wkh8pX59IOfx"
+        },
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "date_added": "2020-09-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 150697,
+      "name": "The River Bend",
+      "url": "https://open.spotify.com/track/2edqiavJ97Jo8X1f9BNk66"
+    },
+    {
+      "album": {
+        "name": "The River Bend",
         "url": "https://open.spotify.com/album/5iysFlpUAUMifsfkMQPN0K"
       },
       "artists": [
@@ -1547,10 +1775,32 @@
       ],
       "date_added": "2020-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 150697,
       "name": "The River Bend",
       "url": "https://open.spotify.com/track/7H2sobCBAMbD1rorQOu9Ve"
+    },
+    {
+      "album": {
+        "name": "I Dream of Everything",
+        "url": "https://open.spotify.com/album/6RZ9NVbq6VOEkcP7O33KFI"
+      },
+      "artists": [
+        {
+          "name": "Subculture",
+          "url": "https://open.spotify.com/artist/45CiOVzqS9wkh8pX59IOfx"
+        },
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "date_added": "2020-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175010,
+      "name": "The River Bend",
+      "url": "https://open.spotify.com/track/12Z2y0wMqxRYqUyrYpqjfk"
     },
     {
       "album": {
@@ -1678,6 +1928,24 @@
     },
     {
       "album": {
+        "name": "Vene",
+        "url": "https://open.spotify.com/album/10lbYQ98KmMTwDSQcNdoJj"
+      },
+      "artists": [
+        {
+          "name": "G Pillola",
+          "url": "https://open.spotify.com/artist/0sPRACMUPse4aZ8umTvLw7"
+        }
+      ],
+      "date_added": "2020-09-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 181490,
+      "name": "Vene",
+      "url": "https://open.spotify.com/track/41DNvTYw9uVBzv5BmzD5aL"
+    },
+    {
+      "album": {
         "name": "Ciao Belli",
         "url": "https://open.spotify.com/album/11NQUYWmfjJjt72kWPrPOb"
       },
@@ -1724,7 +1992,7 @@
         },
         {
           "name": "Mall Grab",
-          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+          "url": "https://open.spotify.com/artist/5IjbZHHQexZVqj7DA75psa"
         }
       ],
       "date_added": "2020-09-01",
@@ -1751,10 +2019,32 @@
       ],
       "date_added": "2020-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 222146,
       "name": "WEST",
       "url": "https://open.spotify.com/track/05fJJPka4e0INdrCAWXt9c"
+    },
+    {
+      "album": {
+        "name": "SUGAR LIKE SALT",
+        "url": "https://open.spotify.com/album/3TFtDNmg7a2oOEnM7bmPV6"
+      },
+      "artists": [
+        {
+          "name": "Louis VI",
+          "url": "https://open.spotify.com/artist/7tQDfSGEfN1CJcCmnnN4FV"
+        },
+        {
+          "name": "Melo-Zed",
+          "url": "https://open.spotify.com/artist/6c5n3tYI05A05V4u4dxMuv"
+        }
+      ],
+      "date_added": "2020-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222146,
+      "name": "WEST",
+      "url": "https://open.spotify.com/track/4xQl2O5FPdnUdT01xnr4up"
     },
     {
       "album": {

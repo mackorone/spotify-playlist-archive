@@ -734,6 +734,24 @@
     },
     {
       "album": {
+        "name": "Phaedra (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6wugThEUTAa6BdI2hsqm5n"
+      },
+      "artists": [
+        {
+          "name": "Tangerine Dream",
+          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141476,
+      "name": "Sequent 'C' - Remastered 2018",
+      "url": "https://open.spotify.com/track/2hRsN3reHuwyLaHq2S1z0Q"
+    },
+    {
+      "album": {
         "name": "The Nazg\u00fbl",
         "url": "https://open.spotify.com/album/6wQuZqzSChU04b7geuDXq1"
       },

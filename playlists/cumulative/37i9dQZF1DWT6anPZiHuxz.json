@@ -153,7 +153,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 223000,
       "name": "Burn Break Crash - Madison Mars Remix",
       "url": "https://open.spotify.com/track/0gyQR8SQvI9BqquYz1IkHI"
@@ -323,7 +323,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 289528,
       "name": "Complicated (feat. Kiiara) - Robin Schulz Remix",
       "url": "https://open.spotify.com/track/30jTflhN1ExdH9RCBTVlcl"
@@ -475,10 +475,36 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 186000,
       "name": "Fire - Price & Takis Remix",
       "url": "https://open.spotify.com/track/5tyLZo7DHqD5TcZZCgAIcW"
+    },
+    {
+      "album": {
+        "name": "Fire (Remixes)",
+        "url": "https://open.spotify.com/album/0cyAL3igv1nQAVdfykQgfK"
+      },
+      "artists": [
+        {
+          "name": "3LAU",
+          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
+        },
+        {
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        },
+        {
+          "name": "Price & Takis",
+          "url": "https://open.spotify.com/artist/7bCWp0OGCR9OOHedxrIMox"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Fire - Price & Takis Remix",
+      "url": "https://open.spotify.com/track/6PPJ2XXyC9NybSZlU3hTZo"
     },
     {
       "album": {
@@ -719,7 +745,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": "2022-11-01",
       "duration_ms": 263655,
       "name": "I Would Like - Gorgon City Remix",
       "url": "https://open.spotify.com/track/6shSHDBeA8Hj5qnyIq7jdQ"
@@ -863,7 +889,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-06",
       "duration_ms": 210679,
       "name": "My My My! - Throttle Remix",
       "url": "https://open.spotify.com/track/4iUmJaymwtbxhyMTrTnULU"
@@ -989,7 +1015,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 166644,
       "name": "No Stress - Tommie Sunshine & MureKian Remix",
       "url": "https://open.spotify.com/track/2wujE7n4hv8SGRjq2ARtks"
@@ -1048,6 +1074,28 @@
     },
     {
       "album": {
+        "name": "Poker Face (Remixes Part 1)",
+        "url": "https://open.spotify.com/album/3bzz0Nm5VsYRtz8hzebxAH"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Gu\u00e9na LG",
+          "url": "https://open.spotify.com/artist/0gMrD8n8eFICZIhI7OO46C"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242400,
+      "name": "Poker Face - LLG vs GLG Radio Mix",
+      "url": "https://open.spotify.com/track/2eTXVFThonrp3Cet0n2rHf"
+    },
+    {
+      "album": {
         "name": "Praying (The Remixes)",
         "url": "https://open.spotify.com/album/7E56IANYZex5WABvAeYRIB"
       },
@@ -1063,7 +1111,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 179250,
       "name": "Praying - Frank Walker Remix",
       "url": "https://open.spotify.com/track/00L5zl0hO6lO069lzRWNkW"

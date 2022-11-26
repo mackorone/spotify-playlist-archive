@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "Being Good Is Boring",
+        "url": "https://open.spotify.com/album/6asqvl3ZX2moMrkpowonUr"
+      },
+      "artists": [
+        {
+          "name": "Jena Rose",
+          "url": "https://open.spotify.com/artist/05cgS2xJt75RhmFWgpgfE7"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160982,
+      "name": "Being Good Is Boring",
+      "url": "https://open.spotify.com/track/6UXWq2vWpHeTZlMIFyEWIn"
+    },
+    {
+      "album": {
         "name": "Bipolar",
         "url": "https://open.spotify.com/album/13lsx3HiueZWyN5wSSNDEL"
       },
@@ -95,10 +113,32 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 156000,
       "name": "Bipolar",
       "url": "https://open.spotify.com/track/1stlDAnoUlxaMaR1CIPn5f"
+    },
+    {
+      "album": {
+        "name": "Bipolar",
+        "url": "https://open.spotify.com/album/0d0EAuRcevYRKmeyNGQfig"
+      },
+      "artists": [
+        {
+          "name": "Fabian Mazur",
+          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
+        },
+        {
+          "name": "sad alex",
+          "url": "https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Bipolar",
+      "url": "https://open.spotify.com/track/7yzWKViihM9g9ISBmX7ypy"
     },
     {
       "album": {
@@ -421,10 +461,28 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 192212,
       "name": "Give It All",
       "url": "https://open.spotify.com/track/53g2iXyDr5wAaQifpNsZCf"
+    },
+    {
+      "album": {
+        "name": "Give It All",
+        "url": "https://open.spotify.com/album/5ghCLfm6BWAivnIQ3Jd0nD"
+      },
+      "artists": [
+        {
+          "name": "Emily Zeck",
+          "url": "https://open.spotify.com/artist/696x5uEm1nV6xucEZNAbzH"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192212,
+      "name": "Give It All",
+      "url": "https://open.spotify.com/track/7FpR0I8rasWqpct44KQBnR"
     },
     {
       "album": {
@@ -595,10 +653,32 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 167010,
       "name": "Here For You",
       "url": "https://open.spotify.com/track/1CUv7UAUh3kYcjQzEoq5Sa"
+    },
+    {
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/5H6qeMqv8UxMxvBTHzZ7Hc"
+      },
+      "artists": [
+        {
+          "name": "Vincent",
+          "url": "https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB"
+        },
+        {
+          "name": "Sad Alex",
+          "url": "https://open.spotify.com/artist/1KTyNO6uawc8w27nGwnZmV"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167010,
+      "name": "Here For You",
+      "url": "https://open.spotify.com/track/5rzGiTAIVeAGsIVEdWEl8s"
     },
     {
       "album": {
@@ -1427,8 +1507,8 @@
       },
       "artists": [
         {
-          "name": "OFF TOP",
-          "url": "https://open.spotify.com/artist/1qfVE7DbB6U9djizm6Qtsl"
+          "name": "is this Cam?",
+          "url": "https://open.spotify.com/artist/3AHAHKIu0YYH3pWRo32PlS"
         },
         {
           "name": "Jamiison",
@@ -1673,6 +1753,28 @@
     {
       "album": {
         "name": "White Lie",
+        "url": "https://open.spotify.com/album/0zGXhyq7D7vdrnC9qOIbe0"
+      },
+      "artists": [
+        {
+          "name": "Hamster",
+          "url": "https://open.spotify.com/artist/0XfWtCWAgbbYP899ssoZSo"
+        },
+        {
+          "name": "alxxa",
+          "url": "https://open.spotify.com/artist/6joS5ruCz1MSCWxJb8Yqjb"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204976,
+      "name": "We Never Know Anymore",
+      "url": "https://open.spotify.com/track/1dEJ16zJ0ljxRWbQIMdGCs"
+    },
+    {
+      "album": {
+        "name": "White Lie",
         "url": "https://open.spotify.com/album/4jrmj4Eqot3PzjjRL8HNyc"
       },
       "artists": [
@@ -1687,7 +1789,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 204976,
       "name": "We Never Know Anymore",
       "url": "https://open.spotify.com/track/1pGvJsyMFGB5jZmUblTe8x"
@@ -1749,6 +1851,24 @@
     {
       "album": {
         "name": "Worthy",
+        "url": "https://open.spotify.com/album/6ImHqlbLXfWhPdP2l2toA9"
+      },
+      "artists": [
+        {
+          "name": "LU KALA",
+          "url": "https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193003,
+      "name": "Yours for the Night",
+      "url": "https://open.spotify.com/track/3P3FB3ssbwmEh1byLcXa0E"
+    },
+    {
+      "album": {
+        "name": "Worthy",
         "url": "https://open.spotify.com/album/6zbmQwwE1ootZFV4iAU2aD"
       },
       "artists": [
@@ -1759,7 +1879,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 193003,
       "name": "Yours for the Night",
       "url": "https://open.spotify.com/track/3veOoTKXPdnXe5OyDyi8lS"

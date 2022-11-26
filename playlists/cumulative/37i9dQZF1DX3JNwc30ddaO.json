@@ -423,6 +423,24 @@
     {
       "album": {
         "name": "I Am Alive",
+        "url": "https://open.spotify.com/album/1nF9MGNCyfkYPqUnTcUn7Y"
+      },
+      "artists": [
+        {
+          "name": "Meditaci\u00f3n Trascendental",
+          "url": "https://open.spotify.com/artist/7GBcK0tbzmq32W05O4V3gA"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180705,
+      "name": "I Am Alive",
+      "url": "https://open.spotify.com/track/26mUDTAcPtiLeAiUKBNcEz"
+    },
+    {
+      "album": {
+        "name": "I Am Alive",
         "url": "https://open.spotify.com/album/5DzlpnpV0bHkMNgheu9zxr"
       },
       "artists": [
@@ -433,7 +451,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 180705,
       "name": "I Am Alive",
       "url": "https://open.spotify.com/track/49MRwkWqwnCatZhVm3t9nu"
@@ -1359,6 +1377,24 @@
     {
       "album": {
         "name": "417 Hz Undoing Situations and Facilitating Change",
+        "url": "https://open.spotify.com/album/5EJ6ANuXXrCXfvUs6QvfqS"
+      },
+      "artists": [
+        {
+          "name": "Healing Music Studio",
+          "url": "https://open.spotify.com/artist/3slkAZjNjou8jXczSnZ51u"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204230,
+      "name": "Universal Energy Healing",
+      "url": "https://open.spotify.com/track/08GAV65HlXdgVGIrA0JmGM"
+    },
+    {
+      "album": {
+        "name": "417 Hz Undoing Situations and Facilitating Change",
         "url": "https://open.spotify.com/album/5J4f7lqt7i7dl8cGgM4G2K"
       },
       "artists": [
@@ -1373,7 +1409,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 204230,
       "name": "Universal Energy Healing",
       "url": "https://open.spotify.com/track/4FVqhXsgWPyo3pnl5QtyvB"

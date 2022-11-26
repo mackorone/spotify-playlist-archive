@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-04",
+      "date_removed": "2022-11-13",
       "duration_ms": 296250,
       "name": "Adderall",
       "url": "https://open.spotify.com/track/0pAGo08jBvebuxMUoqvulX"
@@ -253,10 +253,28 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 185979,
       "name": "Blind Eye",
       "url": "https://open.spotify.com/track/6RkRuJgT2iNBsqEJX93zwo"
+    },
+    {
+      "album": {
+        "name": "Fourth Wall",
+        "url": "https://open.spotify.com/album/1Wh2Vtq5hxHwCOmevQNWei"
+      },
+      "artists": [
+        {
+          "name": "Harvey Causon",
+          "url": "https://open.spotify.com/artist/7CfGxgCfRwumbKatrTjC4d"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185979,
+      "name": "Blind Eye",
+      "url": "https://open.spotify.com/track/6oVLw2Yd1IfCQDLYvUgTmQ"
     },
     {
       "album": {
@@ -491,10 +509,28 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 348000,
       "name": "Don't You Forget About Me",
       "url": "https://open.spotify.com/track/1Dl0E86yorhNRMYZ20RIfY"
+    },
+    {
+      "album": {
+        "name": "Don't You Forget About Me",
+        "url": "https://open.spotify.com/album/3PbktfrtKjsK7WMvqMIqyI"
+      },
+      "artists": [
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348000,
+      "name": "Don't You Forget About Me",
+      "url": "https://open.spotify.com/track/7IidnemjastTResAXISAK7"
     },
     {
       "album": {
@@ -509,7 +545,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-14",
       "duration_ms": 225068,
       "name": "Douro",
       "url": "https://open.spotify.com/track/0YWm63Fld60fXms4TQ8M37"
@@ -534,6 +570,24 @@
     },
     {
       "album": {
+        "name": "Drowning",
+        "url": "https://open.spotify.com/album/41zd4PXMqkcthdkrU7cvgZ"
+      },
+      "artists": [
+        {
+          "name": "PYRMDPLAZA",
+          "url": "https://open.spotify.com/artist/7zYtmHNk7UfzvCWOHPdl6x"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 180983,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/4c9obARU5PWbpIxAFhlg8D"
+    },
+    {
+      "album": {
         "name": "Dune",
         "url": "https://open.spotify.com/album/04NzBREuQBthxSpcoD6EbE"
       },
@@ -545,7 +599,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 668720,
       "name": "Dune - Single Version",
       "url": "https://open.spotify.com/track/4QQFYNshQlEkgQESyO3OCr"
@@ -647,10 +701,28 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 354121,
       "name": "Feel",
       "url": "https://open.spotify.com/track/0AW12rdgg7BEKo4POOUUbQ"
+    },
+    {
+      "album": {
+        "name": "Regrets & Resolutions",
+        "url": "https://open.spotify.com/album/0jEYgUe5ByUDh3XdP29KBG"
+      },
+      "artists": [
+        {
+          "name": "Luke Marzec",
+          "url": "https://open.spotify.com/artist/5X0GAEimapMzpG5Q7Sibmh"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354121,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/3kaoTFZqU2ZgycpjbSKrvy"
     },
     {
       "album": {
@@ -665,7 +737,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-10",
+      "date_removed": "2022-11-09",
       "duration_ms": 235862,
       "name": "Feelings Of Unreality",
       "url": "https://open.spotify.com/track/0fLPSEi4IBDAnhuDIm1bzI"
@@ -773,7 +845,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 187870,
       "name": "Get Away",
       "url": "https://open.spotify.com/track/52x4EIYCNN2LXXgy8LQ7Tb"
@@ -955,7 +1027,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 222000,
       "name": "Love Is Alive",
       "url": "https://open.spotify.com/track/4NRWOq8GohOo62jFxIzMF8"
@@ -985,7 +1057,7 @@
     {
       "album": {
         "name": "Sights & Sounds",
-        "url": "https://open.spotify.com/album/5aYSZXvc6VcNWB3jdaqQBK"
+        "url": "https://open.spotify.com/album/2cQ0edhqTMSqJyU6kwaNzZ"
       },
       "artists": [
         {
@@ -996,6 +1068,24 @@
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 200856,
+      "name": "Magic--Pearl",
+      "url": "https://open.spotify.com/track/3Mc75u5PxKSw1hzEVLAPQt"
+    },
+    {
+      "album": {
+        "name": "Sights & Sounds",
+        "url": "https://open.spotify.com/album/5aYSZXvc6VcNWB3jdaqQBK"
+      },
+      "artists": [
+        {
+          "name": "Arbour",
+          "url": "https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-26",
       "duration_ms": 200856,
       "name": "Magic--Pearl",
       "url": "https://open.spotify.com/track/4hiNXRP0MUIl6wdEMAnazO"
@@ -1132,6 +1222,24 @@
     },
     {
       "album": {
+        "name": "L.O.S.S.",
+        "url": "https://open.spotify.com/album/5hoCeLU7jHWwUu0lRcKA58"
+      },
+      "artists": [
+        {
+          "name": "Daith\u00ed",
+          "url": "https://open.spotify.com/artist/2N5V735dwftKHqBpx9YPrz"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267250,
+      "name": "Nobody New Around You",
+      "url": "https://open.spotify.com/track/2W9Cep5fuDrezWUZJpUJvG"
+    },
+    {
+      "album": {
         "name": "Nobody New Around You",
         "url": "https://open.spotify.com/album/7MQyqBx6A1JbidrUgYWveK"
       },
@@ -1215,7 +1323,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 144292,
       "name": "Opals",
       "url": "https://open.spotify.com/track/0g9lBzTwOmnx3zLUTR9x62"
@@ -1397,7 +1505,7 @@
     {
       "album": {
         "name": "Sacred",
-        "url": "https://open.spotify.com/album/4DEhXZRlriX0ZRJvE5dU9i"
+        "url": "https://open.spotify.com/album/1FKnoGi6vRMvNZCY3Xbx2Y"
       },
       "artists": [
         {
@@ -1408,6 +1516,24 @@
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 206829,
+      "name": "Sacred - Radio Edit",
+      "url": "https://open.spotify.com/track/2wqqzMQ457bjitt2vDDGmf"
+    },
+    {
+      "album": {
+        "name": "Sacred",
+        "url": "https://open.spotify.com/album/4DEhXZRlriX0ZRJvE5dU9i"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-18",
       "duration_ms": 206829,
       "name": "Sacred - Radio Edit",
       "url": "https://open.spotify.com/track/5gL8tr0Fr2oao8bE8epUXO"
@@ -1487,7 +1613,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": "2022-10-20",
       "duration_ms": 225506,
       "name": "Soft Yellow",
       "url": "https://open.spotify.com/track/4b1QBUZ4hJrJkyOgODZLu9"
@@ -1639,7 +1765,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-23",
       "duration_ms": 255466,
       "name": "Tottertot",
       "url": "https://open.spotify.com/track/3MTwJVEBKql21xN1hdSLlp"
@@ -1711,7 +1837,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-15",
       "duration_ms": 254864,
       "name": "Untethered",
       "url": "https://open.spotify.com/track/377mv3pv1Nday6pjadqEwr"
@@ -1801,7 +1927,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-09",
+      "date_removed": "2022-11-14",
       "duration_ms": 367560,
       "name": "Who I Will Become",
       "url": "https://open.spotify.com/track/0QufLChGOfHXdpTrp1p8pG"

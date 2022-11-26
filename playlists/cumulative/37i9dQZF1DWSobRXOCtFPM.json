@@ -762,6 +762,28 @@
     },
     {
       "album": {
+        "name": "Party Started EP",
+        "url": "https://open.spotify.com/album/1qv2QeH9DOUCbGv8dwwlb1"
+      },
+      "artists": [
+        {
+          "name": "Avision",
+          "url": "https://open.spotify.com/artist/25L7U77b5R5fO5pRjDP1Cj"
+        },
+        {
+          "name": "Strafe",
+          "url": "https://open.spotify.com/artist/7MRMahYCfHhumbcvdV8joK"
+        }
+      ],
+      "date_added": "2022-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 247272,
+      "name": "Party Started (Set It Off)",
+      "url": "https://open.spotify.com/track/5B8NZNbPBy2I862vRLfkIZ"
+    },
+    {
+      "album": {
         "name": "Party Started (Set It Off)",
         "url": "https://open.spotify.com/album/4q3odp3wACk0ax5G1LoBgx"
       },

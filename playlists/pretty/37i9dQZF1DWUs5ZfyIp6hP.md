@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUs5ZfyIp6hP.md) - [plain]
 
 > Light of your 4th with these family\-friendly tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,738 likes - 51 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,736 likes - 51 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUs5ZfyIp6hP.md) - [plain]
 | 2 | [Fourth of July \- 2015 Version](https://open.spotify.com/track/4y4thwlaN6YcT3vOvOslDI) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Favorite American Patriotic Songs for Kids](https://open.spotify.com/album/5gJ8ypDYryTPd9UG1pJFgd) | 1:15 |
 | 3 | [Happy Day](https://open.spotify.com/track/72PrEmH6YpeK00WcXAcNAW) | [Jenn Cleary](https://open.spotify.com/artist/3Q3maBFeVNeYstxZOjHptS) | [Happy Day](https://open.spotify.com/album/7x8me0TGnOwiYmi2fGVYHt) | 2:53 |
 | 4 | [Summer Feelings \(feat\. Charlie Puth\) \- From 'SCOOB!' The Album](https://open.spotify.com/track/49dFIRQCQxPWgoH0m38XQ5) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Summer Feelings \(feat\. Charlie Puth\)](https://open.spotify.com/album/4D9M4nzQ9kvchgxyQyymtW) | 2:40 |
-| 5 | [Fireworks Song](https://open.spotify.com/track/0aBKDOyeSUpLAITMp7oD6Q) | [Sunny Day](https://open.spotify.com/artist/4KqqosG1rMSwHl0AyLeatP) | [Keep Styling, Keep Singing Vol\. 2](https://open.spotify.com/album/6rvdxo8ELO613Vwh4g7VI5) | 1:02 |
+| 5 | [Fireworks Song](https://open.spotify.com/track/1j0Chd2a3LyrJ2NGBc1Ubn) | [Sunny Day](https://open.spotify.com/artist/7vbp1MtEikhcZYIr751zDk) | [Keep Styling, Keep Singing Vol\. 2](https://open.spotify.com/album/1Tmjp6UzYvGNaQCXR1uOxR) | 1:02 |
 | 6 | [Stars And Stripes Forever](https://open.spotify.com/track/6HQJGMXXiVo7aYhyACZqMT) | [Cooltime Kids](https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ) | [Patriotic Kids' Songs](https://open.spotify.com/album/4kFWIo1ssTI4kmaOTgmxvD) | 1:36 |
 | 7 | [Butter](https://open.spotify.com/track/6jjYDGxVJsWS0a5wlVF5vS) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 2:44 |
 | 8 | [Happy Birthday America \(Independence Day\)](https://open.spotify.com/track/627AUVu8ehNpbAncIPs9rt) | [Kimbo Children's Music](https://open.spotify.com/artist/2rwUq8tztT91PXEUIfPtx1) | [Holiday Songs for All Occasions](https://open.spotify.com/album/1NIT0sY0DsfePKstq7Zb11) | 1:46 |
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUs5ZfyIp6hP.md) - [plain]
 | 45 | [America's Heroes](https://open.spotify.com/track/2q9BL4WTUbmEMJBZgBWKxa) | [Kidsongs](https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW) | [Kidsongs: Yankee Doodle Dandy](https://open.spotify.com/album/1Z6Dl4zozjuZ7XN9K13AdR) | 2:12 |
 | 46 | [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 |
 | 47 | [Happy Birthday Dear America / In 1776 \(medley\)](https://open.spotify.com/track/68BrlobcC0Lbc4CoT9zfah) | [Ella Jenkins](https://open.spotify.com/artist/2AdaJlzNcOpdrvMSBN92Wp) | [We Are America's Children](https://open.spotify.com/album/29kch9cC8YxxcOo9dslDJq) | 0:54 |
-| 48 | [Sunscreen](https://open.spotify.com/track/69Kf8wQ91FpKltMUuDruBL) | [Noggin](https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn) | [Let's Dance](https://open.spotify.com/album/6SHJk0npY3mr7SXFX6fcps) | 1:23 |
+| 48 | [Sunscreen](https://open.spotify.com/track/3NDYpgUKtlEREDJLQ1WDl4) | [Noggin](https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn) | [Let's Dance](https://open.spotify.com/album/48lHFP0hYmSgR2Bdc2uocH) | 1:23 |
 | 49 | [Shake It Off](https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:39 |
 | 50 | [Hot Fun in the Summertime](https://open.spotify.com/track/4t6NQkpUmvpvLDCkl3XuwA) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Greatest Hits](https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT) | 2:37 |
 | 51 | [The United States Where Freedom Rings](https://open.spotify.com/track/2dkSS53ACmE7OFBDqa41OQ) | [Jeography](https://open.spotify.com/artist/5l2nxUCCFQtdomhQ8ldeOB) | [Geography Songs for This Planet](https://open.spotify.com/album/4GrgdZjtFrmanopz1ANjvg) | 7:43 |
 
-Snapshot ID: `MTY1NjQzMzIxMiwwMDAwMDAwMGExODhhYWYyZmE2Mjk0NGMzNTE2ZDM0OTIyMTg4MTI4`
+Snapshot ID: `MTY1NjQzMzIxMiwwMDAwMDAwMDE3MDRiZGQ3OTU4NTNmZTQyZGFlY2ZmZDE4YzA5NDI4`

@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 184613,
       "name": "Bad Luck Got My Man",
       "url": "https://open.spotify.com/track/0AVZXE7kqpIezn7HaYYzsw"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 435640,
       "name": "Ball And Chain",
       "url": "https://open.spotify.com/track/4Xrk3j5waSfsMpxJLfu6UO"
@@ -113,7 +113,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 248053,
       "name": "Big Mama's Blues (My Love)",
       "url": "https://open.spotify.com/track/3l1Pf2ItsE3bt36BG3GySo"
@@ -175,7 +175,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 172720,
       "name": "Black Rat - Take 4",
       "url": "https://open.spotify.com/track/20OvWgveuLJbs6asSB8ncL"
@@ -247,7 +247,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 168594,
       "name": "Don't Talk Back",
       "url": "https://open.spotify.com/track/0BH8mz5msbTd1KRx9mOaja"
@@ -323,7 +323,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 245977,
       "name": "Goin' Down Slow - Live",
       "url": "https://open.spotify.com/track/26vU7wmBi4sU0Snu4x0OAI"
@@ -363,7 +363,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": "2022-11-05",
       "duration_ms": 263306,
       "name": "Guide Me Home",
       "url": "https://open.spotify.com/track/1Wa6w3xBoZNPYmuKOOy2g0"
@@ -399,7 +399,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": "2022-11-26",
       "duration_ms": 172266,
       "name": "Hound Dog",
       "url": "https://open.spotify.com/track/6ET5yCqDaaPJP6w7rvy1uM"
@@ -425,6 +425,24 @@
     {
       "album": {
         "name": "Sassy Mama",
+        "url": "https://open.spotify.com/album/1ecriLTawFnXSoMjszqjSl"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251426,
+      "name": "Hound Dog / Walkin' the Dog",
+      "url": "https://open.spotify.com/track/3pZxCAMSg4Rky0QzlzqltY"
+    },
+    {
+      "album": {
+        "name": "Sassy Mama",
         "url": "https://open.spotify.com/album/3VBFRhVl1ZCkhgIXgWG8nY"
       },
       "artists": [
@@ -435,7 +453,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 251426,
       "name": "Hound Dog / Walkin' the Dog",
       "url": "https://open.spotify.com/track/5Xc5VFCpLZyLLA3stSErZI"
@@ -453,7 +471,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 156200,
       "name": "How Come",
       "url": "https://open.spotify.com/track/0Yd1gsErZKbd273wwt3QFg"
@@ -493,7 +511,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 305040,
       "name": "I Feel the Way I Feel",
       "url": "https://open.spotify.com/track/4H6dFbaVG3OLNPsU4fAiaA"
@@ -529,7 +547,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 105426,
       "name": "I Smell a Rat",
       "url": "https://open.spotify.com/track/6ZNk5OwHUQereZqnUZClqX"
@@ -569,10 +587,28 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 181586,
       "name": "I'm Feeling Alright",
       "url": "https://open.spotify.com/track/1CUuRMphE7FKb1A44vP3Vu"
+    },
+    {
+      "album": {
+        "name": "Have Mercy! (Live 1973)",
+        "url": "https://open.spotify.com/album/3BHzpq2sfTq7TdVOceaizJ"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176332,
+      "name": "Instrumental, Pt.2 - Live",
+      "url": "https://open.spotify.com/track/20F0JHoIouSGuzoXmuB2uQ"
     },
     {
       "album": {
@@ -605,7 +641,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-10-18",
       "duration_ms": 177693,
       "name": "Just Can't Help Myself",
       "url": "https://open.spotify.com/track/5frqneKJk7urRuJop06Pun"
@@ -623,7 +659,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-11-25",
       "duration_ms": 169360,
       "name": "Just Like a Dog",
       "url": "https://open.spotify.com/track/1bfv08EFNzn09Ra7bLQfHB"
@@ -645,7 +681,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 166200,
       "name": "Let Your Tears Fall Baby",
       "url": "https://open.spotify.com/track/4jaIplVCcJyNzTzFi3DOj1"
@@ -685,7 +721,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 208213,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/6WnteapB2WkfyK6MVHX55h"
@@ -707,6 +743,28 @@
       "duration_ms": 268693,
       "name": "Little Red Rooster",
       "url": "https://open.spotify.com/track/0zIJi6fLCA0e11rBZ20Z2X"
+    },
+    {
+      "album": {
+        "name": "Big Mama Thornton with the Muddy Waters Blues Band - 1966",
+        "url": "https://open.spotify.com/album/1GhQkAGbg2ciWb6BDNHKIB"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        },
+        {
+          "name": "Muddy Waters Blues Band",
+          "url": "https://open.spotify.com/artist/3r8nssufxenC7JoWBfKfNK"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132746,
+      "name": "Looking the World Over",
+      "url": "https://open.spotify.com/track/3quA3vwMpCEFWdfFZg5yRu"
     },
     {
       "album": {
@@ -847,7 +905,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-10-12",
       "duration_ms": 158173,
       "name": "Rock-A-Bye Baby",
       "url": "https://open.spotify.com/track/42fi7mad9sNmXL1Cl4nKRb"
@@ -981,7 +1039,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-03",
+      "date_removed": null,
       "duration_ms": 229320,
       "name": "Sometimes I Have a Heartache",
       "url": "https://open.spotify.com/track/0mkG3CMFnK6W1sudP0CxuK"
@@ -999,7 +1057,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-16",
+      "date_removed": null,
       "duration_ms": 148773,
       "name": "Stop A-Hoppin' on Me",
       "url": "https://open.spotify.com/track/3OGe6jBpiBcS5wBlVKFz3l"
@@ -1071,7 +1129,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 357600,
       "name": "Sweet Little Angel / Three O'Clock Blues",
       "url": "https://open.spotify.com/track/3oaKdEHNcaRYIr1W8Z1W48"
@@ -1096,6 +1154,24 @@
     },
     {
       "album": {
+        "name": "Have Mercy! (Live 1973)",
+        "url": "https://open.spotify.com/album/3BHzpq2sfTq7TdVOceaizJ"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 44369,
+      "name": "Talking, Pt.2 - Live",
+      "url": "https://open.spotify.com/track/2DlRCvaBH6adqBosfUbNES"
+    },
+    {
+      "album": {
         "name": "Sassy Mama",
         "url": "https://open.spotify.com/album/3VBFRhVl1ZCkhgIXgWG8nY"
       },
@@ -1107,10 +1183,28 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 307946,
       "name": "Tell Me Pretty Baby",
       "url": "https://open.spotify.com/track/4UlyQrREv6y6TbCoOJ7Pjq"
+    },
+    {
+      "album": {
+        "name": "Sassy Mama - Live at The Rising Sun Celebrity Jazz Club (2022 Remaster)",
+        "url": "https://open.spotify.com/album/24FbIjyheRChKtXPRveBEF"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307946,
+      "name": "Tell Me Pretty Baby - 2022 Remaster",
+      "url": "https://open.spotify.com/track/6Ll6mkGG1llfhfry1eZGPM"
     },
     {
       "album": {
@@ -1143,7 +1237,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-10-13",
       "duration_ms": 165573,
       "name": "The Big Change",
       "url": "https://open.spotify.com/track/3lAKT6qIqXBw2E0vcTPcMK"
@@ -1197,7 +1291,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": "2022-11-26",
       "duration_ms": 124480,
       "name": "They Call Me Big Mama",
       "url": "https://open.spotify.com/track/5Jh3NzWY3k48uUxuSUhSip"
@@ -1233,7 +1327,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-10-13",
       "duration_ms": 176200,
       "name": "Wade in the Water",
       "url": "https://open.spotify.com/track/5jNf4ySgw6CCnBUuOZNUYL"
@@ -1251,10 +1345,28 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-06",
+      "date_removed": "2022-11-17",
       "duration_ms": 181040,
       "name": "Walking Blues",
       "url": "https://open.spotify.com/track/1bFxv3bIERaEr5VGLXVHwh"
+    },
+    {
+      "album": {
+        "name": "Sassy Mama",
+        "url": "https://open.spotify.com/album/1ecriLTawFnXSoMjszqjSl"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245306,
+      "name": "Watermelon Man",
+      "url": "https://open.spotify.com/track/0GGUZVkxnuYn7sNSa2OkNQ"
     },
     {
       "album": {
@@ -1269,7 +1381,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 245306,
       "name": "Watermelon Man",
       "url": "https://open.spotify.com/track/3Xa1DxxOvSp9N74g7EgVaD"
@@ -1291,7 +1403,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-11-26",
       "duration_ms": 199093,
       "name": "Wrapped Tight",
       "url": "https://open.spotify.com/track/5dsIoP7IpHaFr8brlWN5Ux"

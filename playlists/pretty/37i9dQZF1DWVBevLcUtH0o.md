@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVBevLcUtH0o.md) - [plain]
 
 > When the music and the message is honest, songs can be both personal and universal\.   Here is a list that pushes and reflects the culture at large.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,552 likes - 52 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,724 likes - 52 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVBevLcUtH0o.md) - [plain]
 | 31 | [Where They Won't Go](https://open.spotify.com/track/2iEXJSyFABQbbkfOuajAem) | [Antwoine Hill](https://open.spotify.com/artist/4PRV9kKsAtyGXUdIsXNvvk) | [Line in the Sand](https://open.spotify.com/album/1DnJWkx4her5JMn7vMt7Mh) | 3:43 |
 | 32 | [Darkie](https://open.spotify.com/track/4xbmnXp0E5dUVdTy8MTXgN) | [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t), [Jackie Hill Perry](https://open.spotify.com/artist/0Lf9qKpKwy6fJtfM7UWLV0), [Micah Bournes](https://open.spotify.com/artist/0x7xqL4Noaw3mYcOgOCq03) | [Crooked](https://open.spotify.com/album/0DzwXN6eBlVAU3qCslDgv4) | 4:33 |
 | 33 | [Oz](https://open.spotify.com/track/1ckL9nONVA2JL9f12WrnYy) | [Davis Absolute](https://open.spotify.com/artist/3ky8U0naf7LBnhlA1VC5IW), [Mike Brand](https://open.spotify.com/artist/0YQ3EIrK3vWZHEpg57EFVZ) | [EDEN](https://open.spotify.com/album/10fkeKt7eeR2m2TKaNVSjF) | 3:52 |
-| 34 | [Stay True](https://open.spotify.com/track/4wn7GmTwrC4mHrmMNyTm6O) | [Melvillous](https://open.spotify.com/artist/0rP1JrlHuwm3oS32Hpli8J) | [Stay True](https://open.spotify.com/album/2M5xQAbyUlm4c7wP1kcUhP) | 2:48 |
+| 34 | [Stay True](https://open.spotify.com/track/0KBaiSc0218RRst1HztFaH) | [Melvillous](https://open.spotify.com/artist/0rP1JrlHuwm3oS32Hpli8J) | [Stay True](https://open.spotify.com/album/5XqqJYyTGwtp6IulyQWPJ0) | 2:48 |
 | 35 | [Be Me](https://open.spotify.com/track/3TDvKI2Jt5nccrjO5D3vGO) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1) | [This Time Around](https://open.spotify.com/album/1HM6fFTgPaxFxMdokn95HH) | 3:30 |
 | 36 | [I Got the Juice](https://open.spotify.com/track/2PnQt6X3MbWj2ioRgjFYH4) | [Dream Junkies](https://open.spotify.com/artist/4kdiOW48WHjXhcurtEoTHU), [Beleaf](https://open.spotify.com/artist/7N204QRVuZ3LCoVkKRPf1T), [Ruslan](https://open.spotify.com/artist/2GEXrCflKZ5S5ZHBM4LNcV), [John Givez](https://open.spotify.com/artist/2RhGXxsDpB0eB122Ce3WYB) | [Good Religion](https://open.spotify.com/album/736eXA6VlJZwirLsvOt8Wi) | 3:54 |
 | 37 | [Real Live Forever](https://open.spotify.com/track/2WIqaP1lHdbZVOvF9xjaS9) | [Thi'sl](https://open.spotify.com/artist/1Q45nhioxaxZTDjR0iaMWp), [Ricky Rock](https://open.spotify.com/artist/00lyeELVpQUvo5F1XAs4zO) | [Against All Odds](https://open.spotify.com/album/2WVzFW26x6ko1lTrPof1Nu) | 5:06 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVBevLcUtH0o.md) - [plain]
 | 51 | [One Day](https://open.spotify.com/track/6oH5sjilDhOF7cZpkocOJc) | [Lawren](https://open.spotify.com/artist/2g6ZseL9bJT7cB4T0BdiXj), [Beleaf](https://open.spotify.com/artist/7N204QRVuZ3LCoVkKRPf1T) | [Pieces](https://open.spotify.com/album/6ricKbHwORwyebGUNEKkw7) | 2:18 |
 | 52 | [No Hate \(feat\. Bumps Inf\)](https://open.spotify.com/track/4JFHumqDdqiJ8hzazjZT23) | [Bizzle](https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr), [Bumps Inf](https://open.spotify.com/artist/0kbnFIVENMVtl0VBSwdysP) | [Surrender](https://open.spotify.com/album/4lMRz04k2wnJmf2Yr3F15E) | 3:51 |
 
-Snapshot ID: `MTYxNjgwODY0NSwwMDAwMDAwMDg3NmM4MWExMDlhOTVjYjEzZDBiNDg3ZWRiZjM1Zjcx`
+Snapshot ID: `MTYxNjgwODY0NSwwMDAwMDAwMGEzMWNiYjRiYzE5YzQ0ZWE3ZmZhMDBhNjcyMGZjY2U1`

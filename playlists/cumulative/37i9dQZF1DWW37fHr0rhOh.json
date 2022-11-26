@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "Amazing Grace",
+        "url": "https://open.spotify.com/album/5pkTyzCT0J9jF82k4WC8Tc"
+      },
+      "artists": [
+        {
+          "name": "The Oak Ridge Boys",
+          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
+        }
+      ],
+      "date_added": "2021-08-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 123025,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/7jtQO77dvRhXpeOKAva25x"
+    },
+    {
+      "album": {
         "name": "A Wonderful Life",
         "url": "https://open.spotify.com/album/48Azk8b2RvpqM28WVMO6jN"
       },
@@ -350,6 +368,24 @@
     },
     {
       "album": {
+        "name": "Hidden Heroes (Made Popular by The Talleys) [Performance Track]",
+        "url": "https://open.spotify.com/album/5kfhO6C9SrQYC40ZFMQUiO"
+      },
+      "artists": [
+        {
+          "name": "Crossroads Performance Tracks",
+          "url": "https://open.spotify.com/artist/6aIaHnJNo69R2FX2PWKLiF"
+        }
+      ],
+      "date_added": "2021-08-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 253053,
+      "name": "Hidden Heroes (Demonstration)",
+      "url": "https://open.spotify.com/track/6cGwowaGo9Wt4pwGGDOVny"
+    },
+    {
+      "album": {
         "name": "Moment of Truth",
         "url": "https://open.spotify.com/album/2Z9lZaIJuZMe0AMrgSKU3n"
       },
@@ -365,6 +401,24 @@
       "duration_ms": 233986,
       "name": "I Cast My Bread Upon the Water",
       "url": "https://open.spotify.com/track/33MymV61MWpNGsjDUv69s5"
+    },
+    {
+      "album": {
+        "name": "Signature Ballads",
+        "url": "https://open.spotify.com/album/0qPhdxk11wSGjWE1nmQryP"
+      },
+      "artists": [
+        {
+          "name": "Brian Free",
+          "url": "https://open.spotify.com/artist/1jmxa7evBkdy4nw31RX1sc"
+        }
+      ],
+      "date_added": "2021-08-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 251626,
+      "name": "I Want To Be That Man",
+      "url": "https://open.spotify.com/track/0B9SIV1vMb0Cr9NGATONjC"
     },
     {
       "album": {
@@ -423,10 +477,28 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 212746,
       "name": "I'll Take You Home",
       "url": "https://open.spotify.com/track/2TDe3tKqBs1Hj3P7SCPaEI"
+    },
+    {
+      "album": {
+        "name": "Count Me In",
+        "url": "https://open.spotify.com/album/2RiGB2vhvi05EtUDlLCd6A"
+      },
+      "artists": [
+        {
+          "name": "The Hoppers",
+          "url": "https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7"
+        }
+      ],
+      "date_added": "2021-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212746,
+      "name": "I'll Take You Home",
+      "url": "https://open.spotify.com/track/6fEsfhqwayJ6ytJSPVgTfN"
     },
     {
       "album": {
@@ -463,6 +535,24 @@
       "duration_ms": 289760,
       "name": "If You Knew Him",
       "url": "https://open.spotify.com/track/4lWaLcpZhP7GgTqFgjc5t7"
+    },
+    {
+      "album": {
+        "name": "Daywind 30: 30 Years Of Southern Gospel Excellence",
+        "url": "https://open.spotify.com/album/4uBSJsvF2byS5gRlvTiavx"
+      },
+      "artists": [
+        {
+          "name": "The Perrys",
+          "url": "https://open.spotify.com/artist/1xRTBMpX8h8nOZ60Gg98gU"
+        }
+      ],
+      "date_added": "2021-08-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 291720,
+      "name": "If You Knew Him",
+      "url": "https://open.spotify.com/track/3gXHhrxJLiGR4ujyzE2MTZ"
     },
     {
       "album": {
@@ -587,6 +677,24 @@
       "duration_ms": 276240,
       "name": "Jesus, The One",
       "url": "https://open.spotify.com/track/0TMGJmaXAKnUPmigOH5qrA"
+    },
+    {
+      "album": {
+        "name": "Jesus, The One",
+        "url": "https://open.spotify.com/album/15xVl7tuboa7EPEXyqAuTI"
+      },
+      "artists": [
+        {
+          "name": "The Hoppers",
+          "url": "https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7"
+        }
+      ],
+      "date_added": "2021-08-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 276240,
+      "name": "Jesus, The One",
+      "url": "https://open.spotify.com/track/0TPfiHqkxJxb6CI67ZZ7qQ"
     },
     {
       "album": {
@@ -764,6 +872,24 @@
     },
     {
       "album": {
+        "name": "Next Cloud (Made Popular By The Kingsmen) [Performance Track]",
+        "url": "https://open.spotify.com/album/3Mqj0Sj3NO2pYeBH7TAp2v"
+      },
+      "artists": [
+        {
+          "name": "Crossroads Performance Tracks",
+          "url": "https://open.spotify.com/artist/6aIaHnJNo69R2FX2PWKLiF"
+        }
+      ],
+      "date_added": "2021-08-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 231506,
+      "name": "Next Cloud (Demonstration in C)",
+      "url": "https://open.spotify.com/track/42QpDYWAsjh8r6siXDVQwS"
+    },
+    {
+      "album": {
         "name": "We Will Stand Our Ground",
         "url": "https://open.spotify.com/album/2mK1OSCYxXpeHgh4kUZm0D"
       },
@@ -851,6 +977,24 @@
       "duration_ms": 281786,
       "name": "Pray On the Little Days",
       "url": "https://open.spotify.com/track/6rewBlPgraytKwejxDd4A0"
+    },
+    {
+      "album": {
+        "name": "Pray On the Little Days [Made Popular by Mark Bishop] (Performance Track)",
+        "url": "https://open.spotify.com/album/0suhsrbjZFl0dgqFP962Ic"
+      },
+      "artists": [
+        {
+          "name": "Mark Bishop",
+          "url": "https://open.spotify.com/artist/1rB6iNJyZrKajKrOBwTO6k"
+        }
+      ],
+      "date_added": "2021-08-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 280013,
+      "name": "Pray On the Little Days - Demonstration in B-C#",
+      "url": "https://open.spotify.com/track/7rRXM2Ha49osbVwbierHMD"
     },
     {
       "album": {
@@ -1168,6 +1312,24 @@
     },
     {
       "album": {
+        "name": "Gaither Classics",
+        "url": "https://open.spotify.com/album/6Bd2Fn0S5Q6kADVDA7tcUO"
+      },
+      "artists": [
+        {
+          "name": "Gaither Vocal Band",
+          "url": "https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o"
+        }
+      ],
+      "date_added": "2021-08-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 342026,
+      "name": "Sometimes It Takes A Mountain",
+      "url": "https://open.spotify.com/track/6WLtVTxSBD5kZxuHsxGoag"
+    },
+    {
+      "album": {
         "name": "Show Me Your Way",
         "url": "https://open.spotify.com/album/3cO5SSGv1DEnnGTyDQ1YYc"
       },
@@ -1294,6 +1456,24 @@
     },
     {
       "album": {
+        "name": "The Broken Ones (Made Popular By The Talley Trio) [Performance Track]",
+        "url": "https://open.spotify.com/album/3q5hL0BltNdHyKodAqUyZH"
+      },
+      "artists": [
+        {
+          "name": "Crossroads Performance Tracks",
+          "url": "https://open.spotify.com/artist/6aIaHnJNo69R2FX2PWKLiF"
+        }
+      ],
+      "date_added": "2021-08-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 219653,
+      "name": "The Broken Ones (Demonstration in E)",
+      "url": "https://open.spotify.com/track/2gK18cT8hLOS2aIfeCq3sv"
+    },
+    {
+      "album": {
         "name": "Hope For Tomorrow",
         "url": "https://open.spotify.com/album/6FvZ3JWxzH0bsilLnATbJZ"
       },
@@ -1327,6 +1507,24 @@
       "duration_ms": 242120,
       "name": "The Healer",
       "url": "https://open.spotify.com/track/6DfCFXypXTLJNCOdPcKomo"
+    },
+    {
+      "album": {
+        "name": "Singing News Best of the Best, Vol. 3",
+        "url": "https://open.spotify.com/album/3TXCw3KrfTUmgij0JnNH2a"
+      },
+      "artists": [
+        {
+          "name": "The Talleys",
+          "url": "https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC"
+        }
+      ],
+      "date_added": "2021-08-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 243840,
+      "name": "The Healer",
+      "url": "https://open.spotify.com/track/5R2LCNpZNRtUc6rS1eUqpl"
     },
     {
       "album": {
@@ -1582,6 +1780,24 @@
     },
     {
       "album": {
+        "name": "Unspoken Request (Made Popular by The McKameys) [Performance Track]",
+        "url": "https://open.spotify.com/album/2gX7DzWxGd09iVEroSp1rS"
+      },
+      "artists": [
+        {
+          "name": "Crossroads Performance Tracks",
+          "url": "https://open.spotify.com/artist/6aIaHnJNo69R2FX2PWKLiF"
+        }
+      ],
+      "date_added": "2021-08-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 193386,
+      "name": "Unspoken Request (Performance Track Demonstration in C)",
+      "url": "https://open.spotify.com/track/0p5ruUrdjKfGTVK9AMARO3"
+    },
+    {
+      "album": {
         "name": "Victory Shout",
         "url": "https://open.spotify.com/album/1IrD0m8sIrV3NPyY6FMQMk"
       },
@@ -1615,6 +1831,24 @@
       "duration_ms": 234280,
       "name": "When I'm Gone",
       "url": "https://open.spotify.com/track/54SEsuLm43yxTeFTkSAnk5"
+    },
+    {
+      "album": {
+        "name": "Saving Grace: A Southern Gospel Collection, Volume 2",
+        "url": "https://open.spotify.com/album/2TMCK04TXbJpNTkwcZcYvn"
+      },
+      "artists": [
+        {
+          "name": "The Blackwood Brothers",
+          "url": "https://open.spotify.com/artist/3GgfNlLtZp79tPYCTQvG66"
+        }
+      ],
+      "date_added": "2021-08-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 134106,
+      "name": "You Can Find What I Found",
+      "url": "https://open.spotify.com/track/3tmRnBrLUxXJqQybD69Usq"
     },
     {
       "album": {

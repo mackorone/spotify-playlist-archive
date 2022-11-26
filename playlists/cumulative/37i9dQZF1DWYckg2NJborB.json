@@ -325,7 +325,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 300306,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/6B7HkOXoB3c0MoXk7C9i07"
@@ -419,6 +419,24 @@
       "duration_ms": 213973,
       "name": "Disturbance At The Heron House - Remastered",
       "url": "https://open.spotify.com/track/3kL3FV7NPNfzgVeiG753r6"
+    },
+    {
+      "album": {
+        "name": "Beggars",
+        "url": "https://open.spotify.com/album/6ityCVIaAyndO2sKryuy2M"
+      },
+      "artists": [
+        {
+          "name": "Thrice",
+          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-07",
+      "duration_ms": 290760,
+      "name": "Doublespeak",
+      "url": "https://open.spotify.com/track/4oE6WttjRSXWViKaiNcz37"
     },
     {
       "album": {
@@ -577,7 +595,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 211626,
       "name": "Harper Lee",
       "url": "https://open.spotify.com/track/5KWesyeHlejVprGxufFxtq"
@@ -858,6 +876,24 @@
     },
     {
       "album": {
+        "name": "Milton At Midnight",
+        "url": "https://open.spotify.com/album/7kZbS20RlWvmUvOqvo0l0x"
+      },
+      "artists": [
+        {
+          "name": "Zero 7",
+          "url": "https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346386,
+      "name": "Milton At Midnight",
+      "url": "https://open.spotify.com/track/44wtR8EBCz7wVvsOoJQEnd"
+    },
+    {
+      "album": {
         "name": "Just Enough Education To Perform",
         "url": "https://open.spotify.com/album/51I2N3YcrmqOJfzywty3l4"
       },
@@ -1031,7 +1067,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-28",
+      "date_removed": "2022-10-14",
       "duration_ms": 293860,
       "name": "Orpheo Looks Back",
       "url": "https://open.spotify.com/track/4JAMwBOzLF61hZVndX0oGQ"
@@ -1143,6 +1179,24 @@
       "duration_ms": 238280,
       "name": "Paperbag Writer",
       "url": "https://open.spotify.com/track/2VdQeSHJOxA1hk9PlOdWI9"
+    },
+    {
+      "album": {
+        "name": "Sonic Nurse",
+        "url": "https://open.spotify.com/album/7gA7xctF7tq62T2YooL6wS"
+      },
+      "artists": [
+        {
+          "name": "Sonic Youth",
+          "url": "https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-08",
+      "duration_ms": 392506,
+      "name": "Pattern Recognition",
+      "url": "https://open.spotify.com/track/1uWk8vnCYaoZQvCW8KYepP"
     },
     {
       "album": {
@@ -1769,7 +1823,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": "2022-11-19",
       "duration_ms": 448013,
       "name": "The Tea Song",
       "url": "https://open.spotify.com/track/15WaCkvUPrsbWhjzgl12jv"
@@ -1787,7 +1841,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 181106,
       "name": "The Underwood Typewriter",
       "url": "https://open.spotify.com/track/2pzlZI4C3f1MSMg047bPI6"
@@ -1841,7 +1895,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 251040,
       "name": "The Writer",
       "url": "https://open.spotify.com/track/0uBWMWm5P6tuCiavbjPWS0"
@@ -1881,6 +1935,24 @@
       "duration_ms": 189106,
       "name": "Tonight I Feel Like Kafka",
       "url": "https://open.spotify.com/track/0un6V0wfo3eTYOfYeMF8cC"
+    },
+    {
+      "album": {
+        "name": "Parma Violets",
+        "url": "https://open.spotify.com/album/0EwUDa0erUFKWfzhCk3vNX"
+      },
+      "artists": [
+        {
+          "name": "Jealous of the Birds",
+          "url": "https://open.spotify.com/artist/3S8P24WjZtVNaPLeXjaCJm"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189106,
+      "name": "Tonight I Feel Like Kafka",
+      "url": "https://open.spotify.com/track/6ojZsSfUuRUC4VxtWLUAdi"
     },
     {
       "album": {
@@ -2043,10 +2115,28 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 254160,
       "name": "White Blank Page",
       "url": "https://open.spotify.com/track/06YV4yr9sdJqSNj4HjZk2s"
+    },
+    {
+      "album": {
+        "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254205,
+      "name": "White Blank Page",
+      "url": "https://open.spotify.com/track/6oxnUh5HybZDk6VNGzvw2j"
     },
     {
       "album": {

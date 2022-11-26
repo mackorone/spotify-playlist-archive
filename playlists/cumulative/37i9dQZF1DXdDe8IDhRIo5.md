@@ -4,7 +4,7 @@
 
 > Django and beyond.
 
-88 songs - 5 hr 24 min - [published](https://open.spotify.com/playlist/5hiFw2oABHGkaqWDrEQcEw)
+90 songs - 5 hr 30 min - [published](https://open.spotify.com/playlist/5hiFw2oABHGkaqWDrEQcEw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Billet Doux](https://open.spotify.com/track/4Cqk1sFJWm1FiqYFmPwgnd) | [Adrien Moignard](https://open.spotify.com/artist/2aMdhZeYSUVewlfjx9ntIn) | [Selmer \#607](https://open.spotify.com/album/5wn3yJzr331FKk9rq8bm5z) | 2:32 | 2021-02-04 |  |
 | [Billet doux](https://open.spotify.com/track/0q7dCoFz7QlS7vWwcuzQEO) | [Tchavolo Schmitt](https://open.spotify.com/artist/500N0I1rRpN81oULt3QUFY), [César Poirier](https://open.spotify.com/artist/2U6OrSeML4qxUzx9PNbB4d) | [Miri Chterna](https://open.spotify.com/album/15fwr9nsJzCGFj1Xv26pmf) | 3:44 | 2022-06-17 |  |
 | [Bistro Fada](https://open.spotify.com/track/08T5wMbEnPN8ghT8o24KY6) | [Stephane Wrembel](https://open.spotify.com/artist/6YSLrvLUuyNoaL8Wuk6sZm) | [Bistro Fada](https://open.spotify.com/album/6lT35xJDhO7Ao5TOLfKsqZ) | 3:02 | 2021-02-04 |  |
+| [Bleu Citron](https://open.spotify.com/track/4E1Y6ViVZgUGT9VfYJeu1E) | [Dorado Schmitt](https://open.spotify.com/artist/7aWOYLUnhaq2h9ZbIHMJbH) | [Generation Django](https://open.spotify.com/album/6NBPxHPAuFKtpEOnBwC7ru) | 2:30 | 2021-02-04 | 2022-11-13 |
 | [Bleu Citron](https://open.spotify.com/track/6Vs3qEiLCzmBn40AcAdmz2) | [Dorado Schmitt](https://open.spotify.com/artist/7aWOYLUnhaq2h9ZbIHMJbH) | [Family](https://open.spotify.com/album/5v7GXGOc7A343BupHvvucS) | 2:31 | 2021-02-04 |  |
 | [Bleu citron](https://open.spotify.com/track/17nK1tySqd7CBKsNw8gkrJ) | [Dorado Schmitt](https://open.spotify.com/artist/7aWOYLUnhaq2h9ZbIHMJbH) | [Family](https://open.spotify.com/album/1PCZPDOB0hZqOFHAFZk1jO) | 2:31 | 2021-02-04 | 2022-07-29 |
 | [Blue Bossa](https://open.spotify.com/track/2hwBPd5VUUjUGc82z5LWyI) | [Jimmy Rosenberg](https://open.spotify.com/artist/6tq9JKuE6vPDbQw5EiXLwn) | [Trio](https://open.spotify.com/album/7vBXUpNdxVx50E6zHDWyhX) | 3:38 | 2021-02-04 | 2022-07-29 |
@@ -82,6 +83,7 @@
 | [Shine](https://open.spotify.com/track/0yYHYKCl4NwshNQ6Cwt9PZ) | [Hot Club De Frank](https://open.spotify.com/artist/1lY6uuFSc8NVfgPS1mXhOK) | [Shine](https://open.spotify.com/album/4kRz1aH1JdTDPhxdHw0m9X) | 4:00 | 2021-02-04 |  |
 | [So What](https://open.spotify.com/track/7c8IwsVo5x0h4slsVwpZEQ) | [Biréli Lagrène](https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS), [Sylvain Luc](https://open.spotify.com/artist/2dXI8YsDDZSD3HgoNUvilF) | [Summertime](https://open.spotify.com/album/3YSRvMEnhwmDPCzy9wFysG) | 4:07 | 2021-02-04 |  |
 | [So What](https://open.spotify.com/track/0Xjw40EraBvcZJy9uI4iGl) | [Biréli Lagrène](https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS), [Sylvain Luc](https://open.spotify.com/artist/2dXI8YsDDZSD3HgoNUvilF) | [Summertime](https://open.spotify.com/album/2vy4nH2D2wwYFQS1wFH2EW) | 4:09 | 2021-02-04 | 2022-07-29 |
+| [So What](https://open.spotify.com/track/7FdobqGYDzI6RSwxxMiSGe) | [Biréli Lagrène](https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS), [Sylvain Luc](https://open.spotify.com/artist/2dXI8YsDDZSD3HgoNUvilF) | [Dreyfus Jazz Club: In the Mood of..\. Miles](https://open.spotify.com/album/1lalwbHB3KsXVRIfn0sAve) | 4:09 | 2021-02-04 | 2022-11-13 |
 | [Some Of These Days](https://open.spotify.com/track/4KPCtQYl2eAaZu8pTA6Mds) | [Gonzalo Bergara](https://open.spotify.com/artist/1gjZYoYLOlpHdbj3F3adP5) | [Porteña Soledad](https://open.spotify.com/album/2gD8rFbSkMVSQEbuc1dQnu) | 2:25 | 2021-02-04 |  |
 | [Songe d'automne](https://open.spotify.com/track/1sUbrYb20WAdDd9AwoAlc2) | [The Rosenberg Trio](https://open.spotify.com/artist/4xIooHvSmj2aWhQGrniJSu) | [Roots](https://open.spotify.com/album/0vN2kv5uBDKL6BYkjQ4GUn) | 3:58 | 2021-02-04 |  |
 | [Soundscape](https://open.spotify.com/track/3fOdWS7sHmnPQNSVbQo6sx) | [Gwen Cahue](https://open.spotify.com/artist/40KKpmd5tQqNohkfjFF9hO), [Bastien Ribot](https://open.spotify.com/artist/6Qvtaf9WCDT22AMuYtSIBh), [William Brunard](https://open.spotify.com/artist/2CKHnbBFpiHF2Uw9Wu2rCy), [Julien Cattiaux](https://open.spotify.com/artist/6mqYjdMpLf0OryIg7DnHv1) | [Soundscape](https://open.spotify.com/album/1kvM0LoxdJVkFEgzXHB0aQ) | 4:09 | 2021-08-20 |  |

@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAFgmYBmOiv.md) - [plain]
 
 > POV: It's your last night with your high school sweetheart, curated by Jordan Fisher from Hello, Goodbye, and Everything in Between
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,122 likes - 52 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,196 likes - 52 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Everything I Ever Wanted \(Music from the Netflix Film "Hello, Goodbye, and Everything in Between"\)](https://open.spotify.com/track/3UXHq6nG3t1223oh8zZrM9) | [Jordan Fisher](https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2) | [Everything I Ever Wanted \(Music from the Netflix Film "Hello, Goodbye, and Everything in Between"\)](https://open.spotify.com/album/119HvKMU8tIao52eIy43X6) | 3:51 |
+| 1 | [Everything I Ever Wanted \(Music from the Netflix Film "Hello, Goodbye, and Everything in Between"\)](https://open.spotify.com/track/7KVbMauvS8b0BbdsgO1VoK) | [Jordan Fisher](https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2) | [Everything I Ever Wanted \(Music from the Netflix Film "Hello, Goodbye, and Everything in Between"\)](https://open.spotify.com/album/1BCxg9L1D9Q5OZEPtaejEc) | 3:51 |
 | 2 | [Feels Like](https://open.spotify.com/track/2Hyaggl5zUVCwGSbJmkOs3) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 3:29 |
 | 3 | [Midnight City](https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 4:01 |
 | 4 | [Bennie And The Jets](https://open.spotify.com/track/0LHzd11GIXVmND7TfQnGiy) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [70's Pop Number 1's](https://open.spotify.com/album/5i8kfdER1rHnhzYcQc5KXX) | 5:23 |
 | 5 | [Chicago](https://open.spotify.com/track/1yupbrI7ROhigIHpQBevPh) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To) | 6:04 |
 | 6 | [Closer](https://open.spotify.com/track/4YtsQv4fham2xoPIQ8Ho9Q) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [The Sea](https://open.spotify.com/album/6BxDGmmHKXvYvvGur0CdTI) | 4:17 |
 | 7 | [Gold](https://open.spotify.com/track/5EUlMkyX5kwBp2SFU6PqVi) | [Bondax](https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs) | [Gold](https://open.spotify.com/album/6lShEmilgF8MaZG0Hjh3du) | 3:57 |
-| 8 | [Rock With U](https://open.spotify.com/track/5ZHwIIszkgLcVT3CicIylm) | [Janet](https://open.spotify.com/artist/0LwySibLlyu9JUdUFN1ZoS) | [Discipline](https://open.spotify.com/album/5hDjUyxqB0g8uwn3M0g9MM) | 3:52 |
+| 8 | [Rock With U](https://open.spotify.com/track/5ZHwIIszkgLcVT3CicIylm) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Discipline](https://open.spotify.com/album/5hDjUyxqB0g8uwn3M0g9MM) | 3:52 |
 | 9 | [2am](https://open.spotify.com/track/4cs6ORX8aKd6rtVdwAnnel) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Chronchitis](https://open.spotify.com/album/2lKYJFAYLywsVOxLMRoAOe) | 4:59 |
-| 10 | [1901](https://open.spotify.com/track/3FM33HqRlV7J1QJoPOnd2u) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0IQbQC6V4UuHLcgO9Yt3uu) | 3:13 |
+| 10 | [1901](https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I) | 3:13 |
 | 11 | [Dreaming](https://open.spotify.com/track/6cMswWRv4lAU3mh5lclgCc) | [Smallpools](https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw) | [LOVETAP!](https://open.spotify.com/album/59xqFRG2IgFTsZtQ73yIp6) | 3:36 |
 | 12 | [Save Room](https://open.spotify.com/track/3sTc75CCyIw4FPs6cXkOe7) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Once Again](https://open.spotify.com/album/1ZWwFwSKaREGLWxpGiPAoF) | 3:55 |
 | 13 | [Spinning](https://open.spotify.com/track/4tS4iYnPEfV6z1EWcvxLcn) | [Jack's Mannequin](https://open.spotify.com/artist/42aeGx2I3uXINpGqC8L0LD) | [The Glass Passenger](https://open.spotify.com/album/4tD242Idl50T7UUn5iz6Hu) | 2:52 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAFgmYBmOiv.md) - [plain]
 | 33 | [Camera](https://open.spotify.com/track/7eSjpSUNaP55QMwPY2C7fb) | [Charly Bliss](https://open.spotify.com/artist/7axA2bNeZsae6t2mgxoSFh) | [Young Enough](https://open.spotify.com/album/1r4TaIR9nZHCM2umwoEiWB) | 3:11 |
 | 34 | [Groceries](https://open.spotify.com/track/3II5NhDhjzIessLfaSjPQn) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [In the Sky](https://open.spotify.com/album/0WuS7pRWpHnsSjOqizOZix) | 3:37 |
 | 35 | [dancing around](https://open.spotify.com/track/5UAOuU3YK9xo76vtrhyDng) | [flor](https://open.spotify.com/artist/0szWPxzzE8DVEfXFRCLBUb) | [ley lines](https://open.spotify.com/album/0gSkJ8vX0yW1mkNKORxhMP) | 3:55 |
-| 36 | [Drift](https://open.spotify.com/track/4CfIRbigdkyDGmgHtHONw3) | [Peached](https://open.spotify.com/artist/7ihtWddopw2KlLH90xZQiL) | [Peached](https://open.spotify.com/album/0U1y40quTVSQcDC6IXomkY) | 3:30 |
-| 37 | [Won't Come Down](https://open.spotify.com/track/5tMTwCXoqeRXda2ZQWHEIU) | [Flyers](https://open.spotify.com/artist/5CWnjPFhtLWbquaXL25zZI) | [Dreaming](https://open.spotify.com/album/6BGfVQLnzsBWG4qZaca0Ga) | 3:06 |
+| 36 | [Drift](https://open.spotify.com/track/1bJulrRtEET3KyjpYpaAlX) | [Peached](https://open.spotify.com/artist/7ihtWddopw2KlLH90xZQiL) | [Peached](https://open.spotify.com/album/1JXoCmmLYvbifDmKOOneYM) | 3:30 |
+| 37 | [Won't Come Down](https://open.spotify.com/track/13ZgxPhiygvQBknfoYiUze) | [Flyers](https://open.spotify.com/artist/5CWnjPFhtLWbquaXL25zZI) | [Dreaming](https://open.spotify.com/album/2DyFATyLL55DlX2KrcYs5q) | 3:06 |
 | 38 | [Nevermore](https://open.spotify.com/track/4dvLOP9XOBUgrWAnHMJf8m) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW) | [Deception Bay](https://open.spotify.com/album/32lqkV59tbtXqcQeyasTmO) | 3:35 |
 | 39 | [Daydream](https://open.spotify.com/track/7JcOhztbr6Qvhycgyx0Ea9) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW) | [Deception Bay](https://open.spotify.com/album/32lqkV59tbtXqcQeyasTmO) | 3:48 |
 | 40 | [Big Boy Cruising](https://open.spotify.com/track/27utWLwggttKhJlO6AdtBd) | [George Moir](https://open.spotify.com/artist/6eNGoUHSDYfXSy5SvnN1Uu) | [Big Boy Cruising](https://open.spotify.com/album/7LFYlpx3ROVKEBv0c0Drv5) | 3:53 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAFgmYBmOiv.md) - [plain]
 | 51 | [If You Think It's Love](https://open.spotify.com/track/3iiL6merNpFNX1bny9sfvM) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Cheap Queen](https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG) | 3:23 |
 | 52 | [Seventeen](https://open.spotify.com/track/4gsR34XSIE2fUY4odwZqym) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Seventeen](https://open.spotify.com/album/4BrJEabBSw59bwSjKZl25p) | 3:45 |
 
-Snapshot ID: `MTY1NzIwOTgxOSwwMDAwMDAwMGQwNGJlOGI1ZjRhMzM3YTBjMzQ2NGEyMTY1ZTFmNDVj`
+Snapshot ID: `MTY1NzIwOTgxOSwwMDAwMDAwMDQwMjA4MmUzYmI2NzI3MzE2MjhjNjJlZGY2YjVmNmYw`

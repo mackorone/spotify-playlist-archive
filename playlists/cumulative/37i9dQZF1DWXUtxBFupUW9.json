@@ -152,6 +152,28 @@
     },
     {
       "album": {
+        "name": "songs that lowkey slap",
+        "url": "https://open.spotify.com/album/5iy19BhOQpUmNGqTIgJYW4"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        },
+        {
+          "name": "Tammi Terrell",
+          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 147266,
+      "name": "Ain't No Mountain High Enough",
+      "url": "https://open.spotify.com/track/0ejSOUMcnYJlIuTZZWgOTb"
+    },
+    {
+      "album": {
         "name": "United",
         "url": "https://open.spotify.com/album/6sbZYwwQB15bt5TgkPFAdb"
       },
@@ -330,6 +352,24 @@
     },
     {
       "album": {
+        "name": "The Essential Michael Jackson",
+        "url": "https://open.spotify.com/album/77dNyQA0z8dV33M4so4eRY"
+      },
+      "artists": [
+        {
+          "name": "The Jacksons",
+          "url": "https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 230773,
+      "name": "Can You Feel It - 7\" Version",
+      "url": "https://open.spotify.com/track/4qv7YSyt5UV8LvrXyE8sGn"
+    },
+    {
+      "album": {
         "name": "Come On And See Me: The Complete Solo Collection",
         "url": "https://open.spotify.com/album/5XlcLrkQydIrYx2EFWYLHa"
       },
@@ -431,7 +471,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 166746,
       "name": "Cool Jerk",
       "url": "https://open.spotify.com/track/1CQHMHRCDs1qioeseVTbaR"
@@ -723,7 +763,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": "2022-11-13",
       "duration_ms": 153600,
       "name": "Got to Get You off My Mind",
       "url": "https://open.spotify.com/track/2aBa2XO23shN0lQjpL0G1K"
@@ -838,6 +878,24 @@
     },
     {
       "album": {
+        "name": "Run Home Slow",
+        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 187973,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/4QlhhWO6nq5BzSpfU4nJs0"
+    },
+    {
+      "album": {
         "name": "The Definitive Collection",
         "url": "https://open.spotify.com/album/6pDK4Z6EZy39RSvD4HWhTn"
       },
@@ -853,6 +911,24 @@
       "duration_ms": 179626,
       "name": "How Sweet It Is (To Be Loved By You)",
       "url": "https://open.spotify.com/track/72oGEdOAH8TzjReQfv8Don"
+    },
+    {
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best of Jr. Walker & The All Stars",
+        "url": "https://open.spotify.com/album/3MkkgBqBgeQfJjftZMtF4y"
+      },
+      "artists": [
+        {
+          "name": "Jr. Walker & The All Stars",
+          "url": "https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 179640,
+      "name": "How Sweet It Is (To Be Loved By You)",
+      "url": "https://open.spotify.com/track/16ZNz0wXDJERo4zquNPw7x"
     },
     {
       "album": {
@@ -939,7 +1015,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": "2022-11-13",
       "duration_ms": 162533,
       "name": "I Hear A Symphony",
       "url": "https://open.spotify.com/track/5SCB7L1alKg7ZEeSw7Sq9f"
@@ -1083,7 +1159,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 206093,
       "name": "I've Got My Mind Set On You",
       "url": "https://open.spotify.com/track/0qPeLt28yVM4wScp8qt8xY"
@@ -1227,7 +1303,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 287440,
       "name": "Lost in Music - 1995 Remaster",
       "url": "https://open.spotify.com/track/7zpm7lTY2EZn7AfFm3mGg2"
@@ -1303,6 +1379,24 @@
       "duration_ms": 159466,
       "name": "Machine Gun",
       "url": "https://open.spotify.com/track/6LU9Z9Sif4Lpu1B4PAwCuj"
+    },
+    {
+      "album": {
+        "name": "Mercy!",
+        "url": "https://open.spotify.com/album/4DohPj1X1iG6UAyxrk4WNe"
+      },
+      "artists": [
+        {
+          "name": "Don Covay",
+          "url": "https://open.spotify.com/artist/3SC1GczHVpsiorx1KFaa4S"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 146706,
+      "name": "Mercy, Mercy",
+      "url": "https://open.spotify.com/track/12w6nPwHLEwgdvJu3vHoRF"
     },
     {
       "album": {
@@ -1396,6 +1490,24 @@
     },
     {
       "album": {
+        "name": "21 of the Best 1971-83",
+        "url": "https://open.spotify.com/album/0B3crrM9vyperolX6AmbSN"
+      },
+      "artists": [
+        {
+          "name": "Millie Jackson",
+          "url": "https://open.spotify.com/artist/27XI002zivG9xuzrZ9dIb1"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 154573,
+      "name": "My Man, A Sweet Man",
+      "url": "https://open.spotify.com/track/3Wh8mMPPREtgsPisrNWDNJ"
+    },
+    {
+      "album": {
         "name": "The Very Best Of The Velvelettes",
         "url": "https://open.spotify.com/album/4TYdNPupS05h9dZq3iF5M6"
       },
@@ -1479,7 +1591,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-04",
+      "date_removed": "2022-11-22",
       "duration_ms": 128173,
       "name": "Papa's Got A Brand New Bag",
       "url": "https://open.spotify.com/track/00pGV4EInVd77cnOIwPTCv"
@@ -1533,7 +1645,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 169893,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/4yChgYDVcQrAgIEIErW27b"
@@ -1630,6 +1742,24 @@
     },
     {
       "album": {
+        "name": "George McCrae - Disco Pioneer",
+        "url": "https://open.spotify.com/album/3qJGzbhk63pzwqzpTr0bxt"
+      },
+      "artists": [
+        {
+          "name": "George McCrae",
+          "url": "https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 200053,
+      "name": "Rock Your Baby",
+      "url": "https://open.spotify.com/track/16KwF7IrKHTVTitUKH58g3"
+    },
+    {
+      "album": {
         "name": "The Eternal Dance",
         "url": "https://open.spotify.com/album/6UixeNUSjrBnxeYV0ZuGHR"
       },
@@ -1663,6 +1793,24 @@
       "duration_ms": 215093,
       "name": "September",
       "url": "https://open.spotify.com/track/2grjqo0Frpf2okIBiifQKs"
+    },
+    {
+      "album": {
+        "name": "Clive Davis: The Soundtrack of Our Lives",
+        "url": "https://open.spotify.com/album/13VY4UMIBiyl1IHbodEDYE"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 215413,
+      "name": "September",
+      "url": "https://open.spotify.com/track/2fckeyAojYpJ9xGSrGa94g"
     },
     {
       "album": {
@@ -1717,7 +1865,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": "2022-11-13",
       "duration_ms": 149293,
       "name": "Soul Connection",
       "url": "https://open.spotify.com/track/0ZZbKNLGRNHs93FhNebPFH"
@@ -1811,6 +1959,24 @@
       "duration_ms": 141066,
       "name": "Sweet Soul Music",
       "url": "https://open.spotify.com/track/0pvA063uNyGQFp7DNtmk0P"
+    },
+    {
+      "album": {
+        "name": "Sweet Soul Music",
+        "url": "https://open.spotify.com/album/2fZ5TzqZjIWEAP5T9ktlBC"
+      },
+      "artists": [
+        {
+          "name": "Arthur Conley",
+          "url": "https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141066,
+      "name": "Sweet Soul Music",
+      "url": "https://open.spotify.com/track/2YuIyYri67bgUXKQW5V9XW"
     },
     {
       "album": {
@@ -2103,7 +2269,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 175893,
       "name": "This Old Heart Of Mine (Is Weak For You) - Single Version / Mono",
       "url": "https://open.spotify.com/track/0CPwNXw5qD9588d86nropo"
@@ -2139,7 +2305,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": "2022-11-13",
       "duration_ms": 178653,
       "name": "Turn Back The Hands Of Time",
       "url": "https://open.spotify.com/track/5o3qMny3Ym8O512RKrNoLw"
@@ -2276,6 +2442,24 @@
     },
     {
       "album": {
+        "name": "Memories of Love",
+        "url": "https://open.spotify.com/album/2wob0s3WIRpsvYHSpDqywa"
+      },
+      "artists": [
+        {
+          "name": "Myles Sanko",
+          "url": "https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 300677,
+      "name": "Whatever You Are",
+      "url": "https://open.spotify.com/track/6uL0ZXwr17RgsMRmXKYY11"
+    },
+    {
+      "album": {
         "name": "Where Did Our Love Go",
         "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
       },
@@ -2327,6 +2511,24 @@
       "duration_ms": 166066,
       "name": "Who's Making Love",
       "url": "https://open.spotify.com/track/0b8IZZlXVv8kSoUb9zIGca"
+    },
+    {
+      "album": {
+        "name": "Who's Making Love...",
+        "url": "https://open.spotify.com/album/3ZCzcCgiSwoUB2czLBWmGJ"
+      },
+      "artists": [
+        {
+          "name": "Johnnie Taylor",
+          "url": "https://open.spotify.com/artist/4OGuNAnRFWZOgOA2d51taz"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 166066,
+      "name": "Who's Making Love",
+      "url": "https://open.spotify.com/track/2DxX9x7Cmywikp14l1YUdk"
     },
     {
       "album": {

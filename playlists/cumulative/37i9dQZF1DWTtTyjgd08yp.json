@@ -138,6 +138,24 @@
     },
     {
       "album": {
+        "name": "B a noBody",
+        "url": "https://open.spotify.com/album/70IEO12UbClHTroXG1VKx5"
+      },
+      "artists": [
+        {
+          "name": "SOAK",
+          "url": "https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 288140,
+      "name": "B a noBody",
+      "url": "https://open.spotify.com/track/6EvhnOG0xTusXUVmsib8AA"
+    },
+    {
+      "album": {
         "name": "Before We Forgot How To Dream",
         "url": "https://open.spotify.com/album/0Z8DuysabM6vo3y7HSlTbA"
       },
@@ -261,6 +279,24 @@
       "duration_ms": 170551,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/123W7snVRuONLwn2uMdJB3"
+    },
+    {
+      "album": {
+        "name": "Acoustic Chill Music",
+        "url": "https://open.spotify.com/album/4Dt0PZeE3z738P5GaP2REI"
+      },
+      "artists": [
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 170551,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/6bjbq5DtKPRV7OQaoQnm0L"
     },
     {
       "album": {
@@ -534,6 +570,24 @@
     },
     {
       "album": {
+        "name": "Alternative Americana",
+        "url": "https://open.spotify.com/album/5egEoLAKrRgFFZBZbiTAaU"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 194480,
+      "name": "Devil's Resting Place",
+      "url": "https://open.spotify.com/track/1F75INpjPkOJwd1c1fHG40"
+    },
+    {
+      "album": {
         "name": "Once I Was An Eagle",
         "url": "https://open.spotify.com/album/35He6RuwS8C2KjG067Gobl"
       },
@@ -585,6 +639,24 @@
       "duration_ms": 268853,
       "name": "Don't Forget About Me",
       "url": "https://open.spotify.com/track/4gVZhkcsZcwQ4mU1gEeXEO"
+    },
+    {
+      "album": {
+        "name": "Don't Know Why",
+        "url": "https://open.spotify.com/album/0VNovm8OBZjtfjqC4iUPLO"
+      },
+      "artists": [
+        {
+          "name": "Ghostly Kisses",
+          "url": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 189305,
+      "name": "Don't Know Why",
+      "url": "https://open.spotify.com/track/0UJNHaZIuRHVlc5fKtav0z"
     },
     {
       "album": {
@@ -877,6 +949,24 @@
       "duration_ms": 249413,
       "name": "Habit",
       "url": "https://open.spotify.com/track/3gSn8dbsrZ6amHUEV7sHqd"
+    },
+    {
+      "album": {
+        "name": "Habit",
+        "url": "https://open.spotify.com/album/47BeET8hEy09koztGMjD70"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Shonk",
+          "url": "https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 249413,
+      "name": "Habit",
+      "url": "https://open.spotify.com/track/77XFs30YM7SvfkgkhHIhNU"
     },
     {
       "album": {
@@ -1321,12 +1411,12 @@
           "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         },
         {
-          "name": "Noah Gundersen",
-          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
-        },
-        {
           "name": "Abby Gundersen",
           "url": "https://open.spotify.com/artist/5BlKoQLYxv24MSV5AD6i6q"
+        },
+        {
+          "name": "Noah Gundersen",
+          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
         }
       ],
       "date_added": "2021-10-08",
@@ -1375,10 +1465,46 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 242253,
       "name": "Loose Change for the Boatman",
       "url": "https://open.spotify.com/track/307cqh2ACTzBm3deY5uVzs"
+    },
+    {
+      "album": {
+        "name": "Loose Change for the Boatman",
+        "url": "https://open.spotify.com/album/00yWoSHcMlPimHLvNQqzE9"
+      },
+      "artists": [
+        {
+          "name": "King Charles",
+          "url": "https://open.spotify.com/artist/6QKDcdjtwqu4E7rztEUQu5"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 242253,
+      "name": "Loose Change for the Boatman",
+      "url": "https://open.spotify.com/track/4S4nk51e1J3TUziY1mkVub"
+    },
+    {
+      "album": {
+        "name": "Gamble for a Rose",
+        "url": "https://open.spotify.com/album/7ovzIYq8ot5vOlyiOOeLzA"
+      },
+      "artists": [
+        {
+          "name": "King Charles",
+          "url": "https://open.spotify.com/artist/6QKDcdjtwqu4E7rztEUQu5"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242253,
+      "name": "Loose Change for the Boatman",
+      "url": "https://open.spotify.com/track/63Se4AtqR6HSdkfsMS3mDl"
     },
     {
       "album": {
@@ -1411,10 +1537,46 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-16",
       "duration_ms": 200448,
       "name": "Loving, Loving",
       "url": "https://open.spotify.com/track/1QIzSLVBQA2GBrF2IDBSPK"
+    },
+    {
+      "album": {
+        "name": "Shades",
+        "url": "https://open.spotify.com/album/6jKRogMVb2zVkd0RvpxCS2"
+      },
+      "artists": [
+        {
+          "name": "Vera Sola",
+          "url": "https://open.spotify.com/artist/6QZsje9QjfKHObQDmX6k0y"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200448,
+      "name": "Loving, Loving",
+      "url": "https://open.spotify.com/track/74PqdCEXhh29g5a8UGIez8"
+    },
+    {
+      "album": {
+        "name": "Madness Guarantee",
+        "url": "https://open.spotify.com/album/4sI93ECsXC1eCBtYZk9IUT"
+      },
+      "artists": [
+        {
+          "name": "Ruelle",
+          "url": "https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 211139,
+      "name": "Madness",
+      "url": "https://open.spotify.com/track/00ZJlTq0TVZCNxOUHRc8GM"
     },
     {
       "album": {
@@ -1523,6 +1685,24 @@
       "duration_ms": 391829,
       "name": "Night Shift",
       "url": "https://open.spotify.com/track/3ONaqCb780ATQB9j3vSoi2"
+    },
+    {
+      "album": {
+        "name": "Night Shift",
+        "url": "https://open.spotify.com/album/0YmdEL8VCkLkUFwKHJd6Eg"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 391829,
+      "name": "Night Shift",
+      "url": "https://open.spotify.com/track/6414jxyYquBi9sqmufnT0A"
     },
     {
       "album": {
@@ -1760,6 +1940,24 @@
     },
     {
       "album": {
+        "name": "Out in the Storm (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0YFS08XWsS70jKeYlNMK9u"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 278066,
+      "name": "Recite Remorse",
+      "url": "https://open.spotify.com/track/4cEGavWkpGzq3IkMxt4cTB"
+    },
+    {
+      "album": {
         "name": "Rescue My Heart",
         "url": "https://open.spotify.com/album/20e1QTMEzNi9JGP4mmB3Rs"
       },
@@ -1793,6 +1991,24 @@
       "duration_ms": 228546,
       "name": "Riverside",
       "url": "https://open.spotify.com/track/4vJ2nNBA6sxAUN5kLGPq3Q"
+    },
+    {
+      "album": {
+        "name": "Philharmonics (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3Mj2AdZblvorS19tdG95hZ"
+      },
+      "artists": [
+        {
+          "name": "Agnes Obel",
+          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 228546,
+      "name": "Riverside",
+      "url": "https://open.spotify.com/track/7idJS1YOV1eABaJE8iQsEK"
     },
     {
       "album": {
@@ -1976,6 +2192,24 @@
     },
     {
       "album": {
+        "name": "Pulse (Music from the Original ABC Tv Series)",
+        "url": "https://open.spotify.com/album/7LuYnqAtRA3WAtp2zrM1hK"
+      },
+      "artists": [
+        {
+          "name": "William Crighton",
+          "url": "https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 358000,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/23DlOSViIiNfBKFjcOAN8B"
+    },
+    {
+      "album": {
         "name": "William Crighton",
         "url": "https://open.spotify.com/album/11iygN0BADQ3dWcAwyp3QV"
       },
@@ -2041,10 +2275,46 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 240560,
       "name": "Smother",
       "url": "https://open.spotify.com/track/27ViT9yPmgH4TLyXPTsQWl"
+    },
+    {
+      "album": {
+        "name": "If You Leave",
+        "url": "https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM"
+      },
+      "artists": [
+        {
+          "name": "Daughter",
+          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240560,
+      "name": "Smother",
+      "url": "https://open.spotify.com/track/2Fa5PjvjXH1qKWI0umk4oY"
+    },
+    {
+      "album": {
+        "name": "Smother",
+        "url": "https://open.spotify.com/album/6sSjgyWUWZLmZSAAKZLcwL"
+      },
+      "artists": [
+        {
+          "name": "Daughter",
+          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 240560,
+      "name": "Smother",
+      "url": "https://open.spotify.com/track/4UWXRnzwWzH0F46D2cLOzG"
     },
     {
       "album": {
@@ -2067,7 +2337,7 @@
     {
       "album": {
         "name": "Strange Times, Dark Days",
-        "url": "https://open.spotify.com/album/68NlX7Kbq0RUhCENpx8Su9"
+        "url": "https://open.spotify.com/album/5ZrY8CLbVN52K53IBZAT6w"
       },
       "artists": [
         {
@@ -2078,6 +2348,24 @@
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 201940,
+      "name": "Strange Times, Dark Days",
+      "url": "https://open.spotify.com/track/6DSKcs5ObuFgYYJv1i8lOG"
+    },
+    {
+      "album": {
+        "name": "Strange Times, Dark Days",
+        "url": "https://open.spotify.com/album/68NlX7Kbq0RUhCENpx8Su9"
+      },
+      "artists": [
+        {
+          "name": "Isla June",
+          "url": "https://open.spotify.com/artist/18ioovgcBQpPVcUdRyGCe0"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-19",
       "duration_ms": 201940,
       "name": "Strange Times, Dark Days",
       "url": "https://open.spotify.com/track/7Dy7ikvNNfEZZnKwUGpcKJ"
@@ -2175,7 +2463,7 @@
     {
       "album": {
         "name": "Shades",
-        "url": "https://open.spotify.com/album/4ImXMfAqGuVbbRtEoQAIAP"
+        "url": "https://open.spotify.com/album/6jKRogMVb2zVkd0RvpxCS2"
       },
       "artists": [
         {
@@ -2186,6 +2474,24 @@
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 280126,
+      "name": "The Cage",
+      "url": "https://open.spotify.com/track/0R5O9w8Oyq1aq43AHvLcLD"
+    },
+    {
+      "album": {
+        "name": "Shades",
+        "url": "https://open.spotify.com/album/4ImXMfAqGuVbbRtEoQAIAP"
+      },
+      "artists": [
+        {
+          "name": "Vera Sola",
+          "url": "https://open.spotify.com/artist/6QZsje9QjfKHObQDmX6k0y"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-17",
       "duration_ms": 280126,
       "name": "The Cage",
       "url": "https://open.spotify.com/track/2K2mYJv6SOcIiAYHFAqiDO"
@@ -2423,6 +2729,24 @@
       "duration_ms": 233438,
       "name": "Through a Glass (Quartet Version)",
       "url": "https://open.spotify.com/track/5WtvoPeSpp6pIp9bG6arVS"
+    },
+    {
+      "album": {
+        "name": "Toronto",
+        "url": "https://open.spotify.com/album/5tUZyUSA53FpV0BGsAlDIT"
+      },
+      "artists": [
+        {
+          "name": "Tusks",
+          "url": "https://open.spotify.com/artist/2JexLbBGkh1FnSWF1uoehP"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 199567,
+      "name": "Toronto",
+      "url": "https://open.spotify.com/track/3NS9B2TU1iFAMNjMBJNGSX"
     },
     {
       "album": {

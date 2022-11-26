@@ -189,7 +189,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 282124,
       "name": "Aina \u00c4lskar Reggae",
       "url": "https://open.spotify.com/track/0ZxfitMpf8fLzcww0763rb"
@@ -415,7 +415,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 155294,
       "name": "Baluns",
       "url": "https://open.spotify.com/track/6CGJTlDyAIqUAjnHTlP2O3"
@@ -585,7 +585,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 254293,
       "name": "Bulleribock",
       "url": "https://open.spotify.com/track/5IKbSU96n46JOVu75evnPs"
@@ -847,7 +847,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-11-23",
       "duration_ms": 245720,
       "name": "Du Vill S\u00e5 Du Kan",
       "url": "https://open.spotify.com/track/5oo1hxx3SkXtF2tzzggAhM"
@@ -1039,7 +1039,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-06",
+      "date_removed": null,
       "duration_ms": 193908,
       "name": "Enda V\u00e4gen Fram",
       "url": "https://open.spotify.com/track/2pibBmMCnufHoOfr2lml9g"
@@ -2224,6 +2224,28 @@
     },
     {
       "album": {
+        "name": "ANITYA",
+        "url": "https://open.spotify.com/album/18WWB7MAZPuqACVBt6lpN4"
+      },
+      "artists": [
+        {
+          "name": "Syster Sol",
+          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
+        },
+        {
+          "name": "Partillo",
+          "url": "https://open.spotify.com/artist/1JaDm3lcNujg75Mq1mtE0u"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205011,
+      "name": "Make Sense",
+      "url": "https://open.spotify.com/track/0oCQ94meSvw1BbpAkeYSgn"
+    },
+    {
+      "album": {
         "name": "Make Sense",
         "url": "https://open.spotify.com/album/6RbXK1Yv3tusF4EJxMFkAq"
       },
@@ -2479,7 +2501,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": "2022-11-23",
       "duration_ms": 245530,
       "name": "No Winners",
       "url": "https://open.spotify.com/track/47rPfUdslLIWWcwv1yrySB"
@@ -2682,6 +2704,28 @@
     },
     {
       "album": {
+        "name": "Raggamuffin p\u00e5 svenska (Remix)",
+        "url": "https://open.spotify.com/album/3sZL7BiVWb6KdewTzDbYts"
+      },
+      "artists": [
+        {
+          "name": "Junior Eric",
+          "url": "https://open.spotify.com/artist/70XdDeHMkfhyYYGrsgW13p"
+        },
+        {
+          "name": "Partillo",
+          "url": "https://open.spotify.com/artist/1JaDm3lcNujg75Mq1mtE0u"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218437,
+      "name": "Raggamuffin p\u00e5 svenska - Remix",
+      "url": "https://open.spotify.com/track/0j3l8Xdak0Bb8SocoWX3Xv"
+    },
+    {
+      "album": {
         "name": "Som Salomos S\u00e5ng",
         "url": "https://open.spotify.com/album/4QHwlhuYsp09oss1xttiNP"
       },
@@ -2697,7 +2741,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 227333,
       "name": "Reggaeprofil",
       "url": "https://open.spotify.com/track/0kDQRF7cCp5ZZ2tbtbjzK8"
@@ -2771,7 +2815,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-22",
+      "date_removed": null,
       "duration_ms": 156360,
       "name": "Rikslarm",
       "url": "https://open.spotify.com/track/0KnRzbQpj0J5nXRqtuSRhz"
@@ -2881,7 +2925,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 249423,
       "name": "Sanna Mina Ord",
       "url": "https://open.spotify.com/track/6N9Epd4Ia8HZJfQTh1Wf22"
@@ -3210,6 +3254,24 @@
     },
     {
       "album": {
+        "name": "S\u00e4g Som Det \u00c4r",
+        "url": "https://open.spotify.com/album/4UZeUwiN9Crlr62yJRFxdJ"
+      },
+      "artists": [
+        {
+          "name": "Kalle Baah",
+          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215852,
+      "name": "S\u00e4g Som Det \u00c4r",
+      "url": "https://open.spotify.com/track/3c4CLJau8lIF6ruSsuxHqU"
+    },
+    {
+      "album": {
         "name": "S\u00e4g Till Mig",
         "url": "https://open.spotify.com/album/36p7buidQlnzHhmXWnkGLW"
       },
@@ -3265,7 +3327,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 172000,
       "name": "S\u00e5na \u00f6gon",
       "url": "https://open.spotify.com/track/1i5mgpA55CwusMHk60brcU"
@@ -3283,7 +3345,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": null,
       "duration_ms": 182378,
       "name": "Teaterapan",
       "url": "https://open.spotify.com/track/6uZEw8eryA76WSAST3yIiv"
@@ -4035,6 +4097,24 @@
       "duration_ms": 190185,
       "name": "\u00d6gon Rinner Ner",
       "url": "https://open.spotify.com/track/4L1jAKe0Kq0D3kdbuiIS2M"
+    },
+    {
+      "album": {
+        "name": "\u00d6gon Rinner Ner",
+        "url": "https://open.spotify.com/album/09COoh1fOXkbRY0ypV968L"
+      },
+      "artists": [
+        {
+          "name": "Kapten R\u00f6d",
+          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 190185,
+      "name": "\u00d6gon Rinner Ner",
+      "url": "https://open.spotify.com/track/4LueMPqR6A8nrmksbmvlI1"
     },
     {
       "album": {

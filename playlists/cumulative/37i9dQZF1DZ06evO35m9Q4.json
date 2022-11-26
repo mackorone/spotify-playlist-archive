@@ -66,6 +66,24 @@
     },
     {
       "album": {
+        "name": "Archives",
+        "url": "https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133840,
+      "name": "Boot Hill - 1989 Version",
+      "url": "https://open.spotify.com/track/60kPEmCU9j6wXd57jm5Xpj"
+    },
+    {
+      "album": {
         "name": "Live at Carnegie Hall",
         "url": "https://open.spotify.com/album/5Q0OpLSi7q2fKcHQHVeBGd"
       },
@@ -77,7 +95,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 332840,
       "name": "C.O.D. - Live at Carnegie Hall, New York, NY - October 1984",
       "url": "https://open.spotify.com/track/03OGCewZ3ZeyZNAzNkZSKo"
@@ -319,7 +337,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 311200,
       "name": "Iced Over - Live at Carnegie Hall, New York, NY - October 1984",
       "url": "https://open.spotify.com/track/4Hfdbs9kVpEMCqehzqAcDs"
@@ -377,6 +395,24 @@
       "duration_ms": 297373,
       "name": "Lenny",
       "url": "https://open.spotify.com/track/0h4jHdNzUrV9eGR2PT5R8c"
+    },
+    {
+      "album": {
+        "name": "In Step",
+        "url": "https://open.spotify.com/album/1d3gakptaQZQ4zw9YbOagk"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161800,
+      "name": "Let Me Love You Baby",
+      "url": "https://open.spotify.com/track/4kJurAMLUVZJdRSpwUphzx"
     },
     {
       "album": {
@@ -499,7 +535,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-16",
+      "date_removed": null,
       "duration_ms": 167773,
       "name": "Lookin' out the Window",
       "url": "https://open.spotify.com/track/221wgBBRPtKIBgpjGvMWUD"
@@ -575,7 +611,7 @@
       ],
       "date_added": "2022-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": "2022-11-23",
       "duration_ms": 459493,
       "name": "Match Box Blues",
       "url": "https://open.spotify.com/track/0ucfROd1kaXBwNG2AJUIzM"
@@ -597,6 +633,28 @@
       "duration_ms": 348160,
       "name": "May I Have a Talk with You",
       "url": "https://open.spotify.com/track/01CIueRxPGWmkQjjzT70wi"
+    },
+    {
+      "album": {
+        "name": "In Session",
+        "url": "https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        },
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-11-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-25",
+      "duration_ms": 75600,
+      "name": "Old Times",
+      "url": "https://open.spotify.com/track/4NQKArbOy5gvTrMqByOHj0"
     },
     {
       "album": {
@@ -781,7 +839,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 228800,
       "name": "Shake for Me - Live at Steamboat 1874, Austin, TX - April 1980",
       "url": "https://open.spotify.com/track/0LFsHodEUTDEvoRlreOaRe"
@@ -871,7 +929,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 214000,
       "name": "Taxman",
       "url": "https://open.spotify.com/track/1ItH2kCl27zYWVecyU8NNS"
@@ -1015,7 +1073,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 335400,
       "name": "Wall of Denial",
       "url": "https://open.spotify.com/track/02yhpGmQpkuYMDh6BRnDZA"

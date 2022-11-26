@@ -4,7 +4,7 @@
 
 > Classic drinking singalongs.
 
-59 songs - 3 hr 0 min - [published](https://open.spotify.com/playlist/56xGjjMt3q1sbs8rAN1t2E)
+60 songs - 3 hr 2 min - [published](https://open.spotify.com/playlist/56xGjjMt3q1sbs8rAN1t2E)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [The Liar](https://open.spotify.com/track/3rPa6TTClkapOPHbRgyLj4) | [Seamus Kennedy](https://open.spotify.com/artist/0mOdLsbUeEcEy7ADN3Hhuf) | [In Concert](https://open.spotify.com/album/34A2WmhLw962dn3IysrNe3) | 3:45 | 2020-03-16 |  |
 | [The Moonshiner](https://open.spotify.com/track/2SwzDfEwnIuCx7c0ECQuIF) | [The Clancy Brothers](https://open.spotify.com/artist/4qWTqOdDnH56Qak9UjmpKz), [Tommy Makem](https://open.spotify.com/artist/3oehGAh6rLM6LFdzM7E7zM) | [Slainte \- Irish Drinking Songs](https://open.spotify.com/album/3I0ZrfMLHWF2bUk0XFKraa) | 2:03 | 2020-03-16 |  |
 | [The Pub with No Beer](https://open.spotify.com/track/5zZthzbOkBkz2gfwxoTpSP) | [Drinking Songs](https://open.spotify.com/artist/4qcIdXhkdYXAaybMaVjpvU) | [Original Irish Drinking Songs](https://open.spotify.com/album/5r8OT9nU29Yx4jHkecubAk) | 2:35 | 2022-03-16 |  |
+| [The Pub With No Beer](https://open.spotify.com/track/0KHI8o4IdAZCfEgNJnH1ww) | [International Pub Ensemble](https://open.spotify.com/artist/0APsDUwiXpvuLHrBvmjJZi) | [50 Irish & British Pub Songs](https://open.spotify.com/album/2ESkvL97UBS5eHTpZACgPT) | 2:35 | 2022-03-16 | 2022-11-13 |
 | [The Pub With No Beer](https://open.spotify.com/track/097q9aY8tuIVKaBvk0LuyV) | [The Dublin City Ramblers](https://open.spotify.com/artist/6nXiCNSYAvQcYAXcJBN6l0) | [Our Best Irish Pub Songs](https://open.spotify.com/album/7xVuNlRglrMfgOnEr3aUZt) | 2:34 | 2020-03-16 | 2022-07-29 |
 | [The Rare Auld Mountain Dew](https://open.spotify.com/track/2Xdw8vtiD5GCiSUw8RI35w) | [The Dubliners](https://open.spotify.com/artist/72RvmgEg2omdlMV9aExO6a), [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH) | [25 Years Celebration](https://open.spotify.com/album/0ZO8fKwBmDHiHeEcyR6Cax) | 2:19 | 2020-03-16 |  |
 | [The Rising Of The Moon](https://open.spotify.com/track/4P068EubmZuz0hAfBHZmgX) | [The High Kings](https://open.spotify.com/artist/6wXjctGBzxkT0ghwfQ8FC0) | [Memory Lane](https://open.spotify.com/album/1qaEHYE8Li6SKfLF6m1XDo) | 4:30 | 2020-03-16 |  |

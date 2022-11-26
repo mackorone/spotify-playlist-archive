@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7A2YimOfIrmAWkCeSIY8Rq.md) - [plain]
 
 > Breathe in, breathe out and let this relaxing playlist help you focus on the task at hand.
 
-[Peaceful Classics](https://open.spotify.com/user/peacefulclassics) - 32,701 likes - 89 songs - 5 hr 6 min
+[Peaceful Classics](https://open.spotify.com/user/peacefulclassics) - 32,654 likes - 89 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

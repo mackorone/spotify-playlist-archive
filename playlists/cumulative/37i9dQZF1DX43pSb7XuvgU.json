@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 242333,
       "name": "40 y 20",
       "url": "https://open.spotify.com/track/3jyL9XBeItyF2BfI9ILJKZ"
@@ -138,6 +138,24 @@
     },
     {
       "album": {
+        "name": "Bohemia II",
+        "url": "https://open.spotify.com/album/0Kfv3BsRXrGE3dRMLZ3WHW"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 212866,
+      "name": "Almohada",
+      "url": "https://open.spotify.com/track/5nIlNcEHMbDz0iSzjFtt2z"
+    },
+    {
+      "album": {
         "name": "15 Exitos De Oro",
         "url": "https://open.spotify.com/album/4OP48ZU8qUYanvwyTLAvrt"
       },
@@ -203,7 +221,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 211400,
       "name": "Almohada - Sinf\u00f3nico",
       "url": "https://open.spotify.com/track/1vyVUVhfJAqPpPI0PmUR5X"
@@ -394,6 +412,24 @@
     },
     {
       "album": {
+        "name": "15 A\u00f1os De Exitos Rancheros",
+        "url": "https://open.spotify.com/album/2Zygg5L4t4WscA9yL5OaQ0"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 227506,
+      "name": "Caray",
+      "url": "https://open.spotify.com/track/3EU8ZE20Fvkj8EYXhZSNYU"
+    },
+    {
+      "album": {
         "name": "Cantan A Mexico - Juan Gabriel Y Ana Gabriel",
         "url": "https://open.spotify.com/album/1usD0eem7XSwXpJENdq5O4"
       },
@@ -560,6 +596,24 @@
     },
     {
       "album": {
+        "name": "Juan Gabriel - 40 Aniversario",
+        "url": "https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 578106,
+      "name": "Debo Hacerlo",
+      "url": "https://open.spotify.com/track/0i5W12SFxWQsVqxx4kD0Q6"
+    },
+    {
+      "album": {
         "name": "Debo Hacerlo",
         "url": "https://open.spotify.com/album/0cccCLiFP4WGPmXdn823JG"
       },
@@ -698,6 +752,24 @@
     },
     {
       "album": {
+        "name": "Jos\u00e9 por Siempre Jos\u00e9",
+        "url": "https://open.spotify.com/album/20cSzDuNZl8JfbIz6csFuh"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 268146,
+      "name": "El Amor Acaba - Revisitado",
+      "url": "https://open.spotify.com/track/65kLbROiqPwVC7n8ECkdLo"
+    },
+    {
+      "album": {
         "name": "El Amor Acaba (Revisitado)",
         "url": "https://open.spotify.com/album/6szyEthvepQ6WGIwVVhspT"
       },
@@ -757,6 +829,28 @@
       "duration_ms": 283760,
       "name": "El Destino (with Juan Gabriel)",
       "url": "https://open.spotify.com/track/137as1w4u30ZTyLXn5HK69"
+    },
+    {
+      "album": {
+        "name": "La Absoluta Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/4Z9kcMbrFta5WTrxFq9Law"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        },
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 284013,
+      "name": "El Destino (with Juan Gabriel)",
+      "url": "https://open.spotify.com/track/2rBZGVYX3LEHEREi8HvZIg"
     },
     {
       "album": {
@@ -843,10 +937,28 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": "2022-11-13",
       "duration_ms": 188733,
       "name": "El Sinaloense",
       "url": "https://open.spotify.com/track/4VvBpxScNFzbJpqiE0HZTg"
+    },
+    {
+      "album": {
+        "name": "The Best Of - Ultimate Collection (All Time Hits)",
+        "url": "https://open.spotify.com/album/4u05OpDUVaKKaT7hV8c8KI"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 241333,
+      "name": "El Triste",
+      "url": "https://open.spotify.com/track/5gu7Q6mpdYxVhpFYYE8ZPS"
     },
     {
       "album": {
@@ -915,7 +1027,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 250106,
       "name": "El Triste - Sinf\u00f3nico",
       "url": "https://open.spotify.com/track/7fCpijE5xdqRjvyEv8tx6E"
@@ -1114,6 +1226,24 @@
     },
     {
       "album": {
+        "name": "40 Y 20",
+        "url": "https://open.spotify.com/album/72HLf3LP783UMuU1zQ6XgL"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 262240,
+      "name": "Eso Nom\u00e1s",
+      "url": "https://open.spotify.com/track/7EmvOxDhWWlxIktbT4Yhgo"
+    },
+    {
+      "album": {
         "name": "Siempre Estoy Pensando En Ti",
         "url": "https://open.spotify.com/album/3GZBUlOokXQdZxBdby96bZ"
       },
@@ -1209,6 +1339,24 @@
       "duration_ms": 290733,
       "name": "Gotas de Fuego",
       "url": "https://open.spotify.com/track/05BD87wSnrHtYe1SpeOkcE"
+    },
+    {
+      "album": {
+        "name": "50 A\u00f1os de Ser el Divo de Ju\u00e1rez",
+        "url": "https://open.spotify.com/album/2ZbkfkpptOqfiWgMGeQC1y"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 433533,
+      "name": "Hasta Que Te Conoc\u00ed",
+      "url": "https://open.spotify.com/track/2Dw3apASGOJIS2bSpTNc4s"
     },
     {
       "album": {
@@ -1389,7 +1537,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 231506,
       "name": "La Barca (with Lila Downs)",
       "url": "https://open.spotify.com/track/4OFCPtgZ2ousHVuGMEzwrK"
@@ -1415,6 +1563,46 @@
       "duration_ms": 211533,
       "name": "La Diferencia",
       "url": "https://open.spotify.com/track/2sPGyx5ETMoNk2iOBAK7Vh"
+    },
+    {
+      "album": {
+        "name": "Los D\u00fao",
+        "url": "https://open.spotify.com/album/2IlXnGyMzDixqs44RSUObZ"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        },
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 211533,
+      "name": "La Diferencia",
+      "url": "https://open.spotify.com/track/7qCBdX4MbIaNlpqcKL2WSe"
+    },
+    {
+      "album": {
+        "name": "Frente A Frente Vol.2 (with Juan Gabriel)",
+        "url": "https://open.spotify.com/album/4z5xsxYr0Pq2dnSJ14yD2B"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 174973,
+      "name": "La Farsante",
+      "url": "https://open.spotify.com/track/5vxDWtSqo14THehmV9Pupm"
     },
     {
       "album": {
@@ -1469,6 +1657,24 @@
       "duration_ms": 250813,
       "name": "La Frontera",
       "url": "https://open.spotify.com/track/7HMBDmx3tDOzBpyUuaB24v"
+    },
+    {
+      "album": {
+        "name": "Con El Mariachi Vargas De Tecalitlan (with El Mariachi Vargas de Tecalitl\u00e1n)",
+        "url": "https://open.spotify.com/album/13NCFsw0EMj0JHwC9KaYwK"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 206800,
+      "name": "La Muerte del Palomo",
+      "url": "https://open.spotify.com/track/29jt9wuHaMVwQhw4M5X4R9"
     },
     {
       "album": {
@@ -1732,6 +1938,42 @@
     },
     {
       "album": {
+        "name": "El Pr\u00edncipe de la Canci\u00f3n",
+        "url": "https://open.spotify.com/album/1qaiRe9m8bfAEdeCr1BGnB"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 246000,
+      "name": "Mi Vida",
+      "url": "https://open.spotify.com/track/4BgYK2dtql6JyON9Mu64u9"
+    },
+    {
+      "album": {
+        "name": "Musica Original De La Pelicula Gavilan O Paloma",
+        "url": "https://open.spotify.com/album/1QiCz8Wjz3lJLZnK7PEVhy"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246893,
+      "name": "Mi Vida",
+      "url": "https://open.spotify.com/track/0eXhCBr3S9MlyUpW42aSyU"
+    },
+    {
+      "album": {
         "name": "Mi Vida",
         "url": "https://open.spotify.com/album/1HuSZHj0dzSOaqNQbyv9R2"
       },
@@ -1902,6 +2144,24 @@
     },
     {
       "album": {
+        "name": "50 A\u00f1os de Ser el Divo de Ju\u00e1rez",
+        "url": "https://open.spotify.com/album/2ZbkfkpptOqfiWgMGeQC1y"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 189813,
+      "name": "No Tengo Dinero - Remasterizado 2012",
+      "url": "https://open.spotify.com/track/11V7kALmShXKMci3rnkywW"
+    },
+    {
+      "album": {
         "name": "Siempre en Mi Mente",
         "url": "https://open.spotify.com/album/41KWrNvgtyLOEc804OLppj"
       },
@@ -1971,6 +2231,24 @@
       "duration_ms": 266533,
       "name": "Obertura: No Discutamos, Mi Fracaso, Adi\u00f3s Amor, ..Te Vas (En Vivo) - En el Palacio de Bellas Artes",
       "url": "https://open.spotify.com/track/0XHm3FV5antZz90nKKI4t5"
+    },
+    {
+      "album": {
+        "name": "En el Palacio de Bellas Artes",
+        "url": "https://open.spotify.com/album/5M3SIJXfL9RQOCUOaXI7TI"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 266733,
+      "name": "Obertura: No Discutamos, Mi Fracaso, Adi\u00f3s Amor, ..Te Vas (En Vivo) - En el Palacio de Bellas Artes",
+      "url": "https://open.spotify.com/track/5kcRBRgZyLdbjaJUZ0C6P6"
     },
     {
       "album": {
@@ -2061,7 +2339,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 215600,
       "name": "Preso - Sinf\u00f3nico",
       "url": "https://open.spotify.com/track/1Bad7PeLO4lLo2rQaYc511"
@@ -2191,7 +2469,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-09",
+      "date_removed": "2022-11-13",
       "duration_ms": 176786,
       "name": "Ser\u00e1 Ma\u00f1ana",
       "url": "https://open.spotify.com/track/3G9ozHyKNNZPx4WOqkMkb4"
@@ -2213,6 +2491,24 @@
       "duration_ms": 190706,
       "name": "Ser\u00e9",
       "url": "https://open.spotify.com/track/0obZNcrCzraxd9HtiGmlhj"
+    },
+    {
+      "album": {
+        "name": "Siempre Estoy Pensando En Ti",
+        "url": "https://open.spotify.com/album/3GZBUlOokXQdZxBdby96bZ"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 183266,
+      "name": "Si Dios Me Ayuda",
+      "url": "https://open.spotify.com/track/35pAmqOSpxZFt3xxaaWHqb"
     },
     {
       "album": {
@@ -2253,6 +2549,28 @@
       "duration_ms": 341786,
       "name": "Si Quieres",
       "url": "https://open.spotify.com/track/00IWdKNjCjhIa1h1Unx7YK"
+    },
+    {
+      "album": {
+        "name": "Los D\u00fao",
+        "url": "https://open.spotify.com/album/2IlXnGyMzDixqs44RSUObZ"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        },
+        {
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 341786,
+      "name": "Si Quieres",
+      "url": "https://open.spotify.com/track/6ulYfK3wK79DA6pn2wqXfc"
     },
     {
       "album": {
@@ -2311,6 +2629,28 @@
       "duration_ms": 209186,
       "name": "Siempre Estoy Pensando en Ti (with El Mariachi M\u00e9xico '70 de Pepe L\u00f3pez)",
       "url": "https://open.spotify.com/track/3I8DsEUbuONtbZmkwfz4Gp"
+    },
+    {
+      "album": {
+        "name": "Siempre Estoy Pensando En Ti",
+        "url": "https://open.spotify.com/album/3GZBUlOokXQdZxBdby96bZ"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        },
+        {
+          "name": "Mariachi M\u00e9xico 70 De Pepe L\u00f3pez",
+          "url": "https://open.spotify.com/artist/0ay6m3OlBxTuEwu1NFHlZI"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 210600,
+      "name": "Siempre Estoy Pensando en Ti (with El Mariachi M\u00e9xico '70 de Pepe L\u00f3pez)",
+      "url": "https://open.spotify.com/track/26BJh7P4lKzBmjMJWmke5c"
     },
     {
       "album": {
@@ -2401,6 +2741,24 @@
       "duration_ms": 218706,
       "name": "Te Lo Pido por Favor",
       "url": "https://open.spotify.com/track/08Jr52g99jcHUYx9NhU0IE"
+    },
+    {
+      "album": {
+        "name": "Debo Hacerlo",
+        "url": "https://open.spotify.com/album/0cccCLiFP4WGPmXdn823JG"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 218773,
+      "name": "Te Lo Pido por Favor",
+      "url": "https://open.spotify.com/track/3RnrGVLuyHd3KuaeHgfoKC"
     },
     {
       "album": {
@@ -2521,6 +2879,24 @@
       "duration_ms": 165680,
       "name": "Te Sigo Amando",
       "url": "https://open.spotify.com/track/3Bn5su26JosHjkbIrxgz0j"
+    },
+    {
+      "album": {
+        "name": "25 Aniversario, Duetos Y Versiones Especiales",
+        "url": "https://open.spotify.com/album/1frguVVHakql3DRDNnx9uv"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 166440,
+      "name": "Te Sigo Amando",
+      "url": "https://open.spotify.com/track/04JaOXSqkef64Lvazefh7d"
     },
     {
       "album": {
@@ -2669,7 +3045,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-06",
+      "date_removed": "2022-11-13",
       "duration_ms": 178600,
       "name": "Uno, Dos y Tres (Y Me Das un Beso)",
       "url": "https://open.spotify.com/track/4g39mDwUrt6B1AbuQXahxv"
@@ -2766,6 +3142,24 @@
     },
     {
       "album": {
+        "name": "En el Palacio de Bellas Artes",
+        "url": "https://open.spotify.com/album/5M3SIJXfL9RQOCUOaXI7TI"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 159493,
+      "name": "Ya Lo Pasado Pasado (En Vivo) - En el Palacio de Bellas Artes",
+      "url": "https://open.spotify.com/track/7bAZfbX3ElF6b3deYNBKlF"
+    },
+    {
+      "album": {
         "name": "Cosas De Enamorados",
         "url": "https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG"
       },
@@ -2828,6 +3222,28 @@
     },
     {
       "album": {
+        "name": "Haciendo aseo profundo",
+        "url": "https://open.spotify.com/album/73XBsctqHMj39e0VoSykdP"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 374106,
+      "name": "Ya No Vivo Por Vivir",
+      "url": "https://open.spotify.com/track/6htpz32hMEbZrj9gw4mwc5"
+    },
+    {
+      "album": {
         "name": "Con Mariachi Vol.2 (with El Mariachi M\u00e9xico '70 de Pepe L\u00f3pez)",
         "url": "https://open.spotify.com/album/3pEHzLdkPor0RrnvSmvXmd"
       },
@@ -2843,6 +3259,24 @@
       "duration_ms": 132773,
       "name": "Ya No Vuelvo a Molestarte",
       "url": "https://open.spotify.com/track/7ykNB1WZij1HwzWAEaykA4"
+    },
+    {
+      "album": {
+        "name": "Recuerdos",
+        "url": "https://open.spotify.com/album/1m9I3KWRnaqOTGqptc1gT2"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 266013,
+      "name": "Yo No Nac\u00ed para Amar",
+      "url": "https://open.spotify.com/track/5x45XdMQ6rgqIUVadroUvS"
     },
     {
       "album": {
@@ -2923,6 +3357,28 @@
       "duration_ms": 282146,
       "name": "Yo No S\u00e9 Que Me Pas\u00f3",
       "url": "https://open.spotify.com/track/0UCgNgJYVQDXGB6E2S7Sri"
+    },
+    {
+      "album": {
+        "name": "Leyendas",
+        "url": "https://open.spotify.com/album/6J6kRBEpL4bAkfL8DXXWiU"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        },
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 282351,
+      "name": "Yo No S\u00e9 Que Me Pas\u00f3 (feat. Carlos Rivera)",
+      "url": "https://open.spotify.com/track/3FLtmhsjm80bQXXnzuGvgq"
     },
     {
       "album": {
@@ -3024,6 +3480,24 @@
     },
     {
       "album": {
+        "name": "Rancheras 100%",
+        "url": "https://open.spotify.com/album/0XOVetGwZ75H3lbQwTdlIk"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 183280,
+      "name": "\u00bfPor Qu\u00e9 Me Haces Llorar?",
+      "url": "https://open.spotify.com/track/4SVhfjb4J533bVpCm0jzMQ"
+    },
+    {
+      "album": {
         "name": "Siempre Contigo",
         "url": "https://open.spotify.com/album/2zujm7JfVsJPEzgpVHD3Tr"
       },
@@ -3057,7 +3531,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-14",
       "duration_ms": 198173,
       "name": "\u00bfY Qu\u00e9? (with Gianmarco)",
       "url": "https://open.spotify.com/track/0uKbiRx2RlQEVOcfcSmOYC"

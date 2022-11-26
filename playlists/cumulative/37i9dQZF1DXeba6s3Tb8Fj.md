@@ -4,7 +4,7 @@
 
 > Traditional West African blues and North African desert blues\. Cover: Songhoy Blues
 
-61 songs - 5 hr 11 min - [published](https://open.spotify.com/playlist/70myCojE40oGhVQRwBxHar)
+63 songs - 5 hr 22 min - [published](https://open.spotify.com/playlist/70myCojE40oGhVQRwBxHar)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Bonheur](https://open.spotify.com/track/5kViRh5yrBIftTjX44FMwJ) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze) | [Samba](https://open.spotify.com/album/4nMZahJAJVwPJxFT8d9rbN) | 5:38 | 2020-12-01 |  |
 | [C'Est Comme Ca](https://open.spotify.com/track/4JrnK6UWX8o6Gu390ezCOX) | [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Tje Ni Mousso](https://open.spotify.com/album/2gyQndyOXeISkSfhyb1FSG) | 4:40 | 2020-12-01 |  |
 | [C'est comme ça](https://open.spotify.com/track/0oZOJzi6aisi0WShQ9usz8) | [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [The Magic Couple](https://open.spotify.com/album/3D9wJtQ2JGmslrFKmXsVwA) | 4:43 | 2020-12-01 | 2022-07-29 |
+| [Catfish Blues](https://open.spotify.com/track/0LsFBvj1nJRX2PsqC8iMgC) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Blues Rock Crate](https://open.spotify.com/album/7xPJ8C46QFPy6VVlo37Z3O) | 5:29 | 2020-12-01 | 2022-11-14 |
 | [Catfish Blues](https://open.spotify.com/track/0ZcNDNY1v8xoeYrZ0PUPao) | [Taj Mahal](https://open.spotify.com/artist/7wil3Ugeu3ATZHKC0e8yiM), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Kulanjan](https://open.spotify.com/album/1WwCoePsIIlf5Szu128XKL) | 5:29 | 2020-12-01 |  |
 | [Catfish Blues](https://open.spotify.com/track/4Ef6CDU6oCHM9KhzcPixFk) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Kulanjan](https://open.spotify.com/album/42wmp98KoLRejLnIUX47Zu) | 5:29 | 2020-12-01 | 2022-07-29 |
 | [Cler Achel](https://open.spotify.com/track/1sXLitmQULzwiWR8D38Ekw) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Aman Iman: Water Is Life](https://open.spotify.com/album/2kV0ipibYRkAjrcxCd1Co0) | 4:27 | 2020-12-01 |  |
@@ -39,6 +40,7 @@
 | [Laidu](https://open.spotify.com/track/05CF4ATpqROLTQVYABNZ3W) | [Rokia Traoré](https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV) | [Mouneïssa](https://open.spotify.com/album/21Tj95e18stlS6SetlwqAa) | 6:26 | 2020-12-01 |  |
 | [M'Badehou](https://open.spotify.com/track/61AJlCxahP7OhPjYojRvN6) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Mali Denhou](https://open.spotify.com/album/0Y3ejNw8PD0839BoDg8N7E) | 6:07 | 2020-12-01 |  |
 | [Mansana Blues](https://open.spotify.com/track/52ueHtRcJgN8uDjIbOl2kY) | [Diabel Cissokho](https://open.spotify.com/artist/2QZiZR6pxRt4ZIqOBAaEkm), [Ramon Goose](https://open.spotify.com/artist/5JO7yg573cDqdeqMjzPxk6) | [Mansana Blues](https://open.spotify.com/album/7kuJ2YGGNVdt2wAFY2D0D6) | 6:48 | 2020-12-01 |  |
+| [Mariama Kaba](https://open.spotify.com/track/3JFEvfG2SZkaFSETgznyw7) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Boubacar Traoré](https://open.spotify.com/album/6JpKWVHssUoCJfunCx8p9F) | 5:36 | 2020-12-01 | 2022-11-13 |
 | [Mariama Kaba](https://open.spotify.com/track/3c98vJqVg7Epkq8aBNTsNM) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Mariama](https://open.spotify.com/album/2k0il4VCyt5vL0vbSp1XMb) | 5:38 | 2020-12-01 | 2022-09-24 |
 | [Mariama Kaba](https://open.spotify.com/track/5bnDe8MjKs8mQnNTXq2yNJ) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Mariama](https://open.spotify.com/album/0Byaou7HBAyyOsoSGpp2hI) | 5:38 | 2020-12-01 |  |
 | [Mawarniha Tartit](https://open.spotify.com/track/6KnZ9iov6qX5ZZBLS0pUPF) | [Tamikrest](https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872) | [Kidal](https://open.spotify.com/album/5OomumBipFPjdcXld2zJQc) | 3:38 | 2020-12-01 |  |

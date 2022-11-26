@@ -4,7 +4,7 @@
 
 > 8/14\(日\)<a href="https://www.promax.co.jp/studiochizu\-inconcert/">オーケストラコンサート</a>初開催！「スタジオ地図」作品の音楽をひとつのプレイリストに。/Music from Studio Chizu's movies\. ©︎2021 スタジオ地図　©︎STUDIO CHIZU
 
-140 songs - 7 hr 16 min - [published](https://open.spotify.com/playlist/5sJWhFREn8Q7NkTPxPZzau)
+143 songs - 7 hr 28 min - [published](https://open.spotify.com/playlist/5sJWhFREn8Q7NkTPxPZzau)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Dragon's Lair](https://open.spotify.com/track/1KlaCXGWjRkdK5S06E5pWw) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb) | [Belle \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp) | 3:10 | 2022-07-23 | 2022-09-24 |
 | [Dragon's Lair](https://open.spotify.com/track/2vVJbJ9NM1E74vaPlcBPWc) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb) | [Belle \(Original Motion Picture Soundtrack\) \[English Edition\]](https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4) | 3:10 | 2022-08-31 |  |
 | [Dragon's Lair](https://open.spotify.com/track/3JQGrRT5ZiRvlnTY5REDEc) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb) | [「竜とそばかすの姫」オリジナル・サウンドトラック](https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW) | 3:10 | 2022-06-07 | 2022-07-29 |
+| [Dragon's Lair](https://open.spotify.com/track/3z6i8FgwewHgMg0g4F71jk) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb) | [Belle \(Original Motion Picture Soundtrack\) \[Norwegian Edition\]](https://open.spotify.com/album/6PskIOVkxelnBmWxFuNUkL) | 3:10 | 2022-08-31 | 2022-11-13 |
 | [Faces in the Rain](https://open.spotify.com/track/47glEWHDcFq99QJIG41uyF) | [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [Belle \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp) | 2:22 | 2022-07-23 |  |
 | [Faces in the Rain](https://open.spotify.com/track/5ItDYhB6o8P20Ox8PBiNYA) | [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [「竜とそばかすの姫」オリジナル・サウンドトラック](https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW) | 2:22 | 2022-06-07 | 2022-07-29 |
 | [First Echo](https://open.spotify.com/track/4nL2Hh3mO0kxks6cENw3bS) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [Wolf Children \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3vZyva1XWxRbf0wq4MsU8q) | 1:30 | 2022-07-23 |  |
@@ -41,6 +42,7 @@
 | [Future Nursery](https://open.spotify.com/track/3Ue4jSi0eiflQtorKdAgvs) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [未来のミライ \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/0Bzynwzh2hAuMo6jGDqjDK) | 2:38 | 2022-06-07 | 2022-07-29 |
 | [Future Nursery](https://open.spotify.com/track/5J4QpLfLp5RyGt2epWw0ZU) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [Mirai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3CVU0gY4r5hYuf23oLOszP) | 2:38 | 2022-07-23 |  |
 | [Gales of Song \- English Version](https://open.spotify.com/track/0jD2Fa9VjjtkeCOWyQftdt) | [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [Belle \(Original Motion Picture Soundtrack\) \[English Edition\]](https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4) | 3:59 | 2022-06-07 |  |
+| [Garnet](https://open.spotify.com/track/2rZUu2qXb7SoUNktHKgfky) | [Hanako Oku](https://open.spotify.com/artist/2tOwqfTtAMswbLySSaTRYR) | [Garnet](https://open.spotify.com/album/1OU1yZN4pMh9IVn9YZVjCL) | 5:19 | 2022-08-31 | 2022-11-13 |
 | [Garnet](https://open.spotify.com/track/40jwSjLscs3wDOvYUpaJoB) | [Hanako Oku](https://open.spotify.com/artist/2tOwqfTtAMswbLySSaTRYR) | [Hanako Oku Best \~ My Letters \~](https://open.spotify.com/album/10S0x53VUJYn6Dcw7sY1fq) | 5:20 | 2022-07-23 |  |
 | [Gift](https://open.spotify.com/track/6ThlAevpehqH92HlrPcaz6) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [The Boy and The Beast \(Original Soundtrack Album\)](https://open.spotify.com/album/7Ahkr6PnLvSmrwJugM4Bue) | 3:44 | 2022-07-23 |  |
 | [Happy End](https://open.spotify.com/track/2XMBlekDLXHs9e6CnzwGDP) | [Akihiko Matsumoto](https://open.spotify.com/artist/7npYxeGYDN9qZmbxYuzunM) | [Summer Wars \(Original Soundtrack Album\)](https://open.spotify.com/album/7rZZyd2AuWzrNIhJROA0GF) | 2:16 | 2022-07-23 |  |
@@ -73,6 +75,7 @@
 | [Rainy Steps](https://open.spotify.com/track/1FZSuDgmKC5FqN7GeVEKLc) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [未来のミライ \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/0Bzynwzh2hAuMo6jGDqjDK) | 3:19 | 2022-06-07 | 2022-07-29 |
 | [Rainy Steps](https://open.spotify.com/track/6MD5Tz0SBZkqfI8m6Tg09G) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [Mirai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3CVU0gY4r5hYuf23oLOszP) | 3:19 | 2022-07-23 |  |
 | [Scorching the Facade](https://open.spotify.com/track/0R0KLFlxNI9WDM2RiSvg8U) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb) | [「竜とそばかすの姫」オリジナル・サウンドトラック](https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW) | 3:44 | 2022-06-07 | 2022-07-29 |
+| [Scorching the Facade](https://open.spotify.com/track/1qIDN4BAILpQ0HsQ0iYI51) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb) | [Belle \(Original Motion Picture Soundtrack\) \[Norwegian Edition\]](https://open.spotify.com/album/6PskIOVkxelnBmWxFuNUkL) | 3:44 | 2022-08-31 | 2022-11-13 |
 | [Scorching the Facade](https://open.spotify.com/track/37kK5OaohLmZEz4Vm6gsVN) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb) | [Belle \(Original Motion Picture Soundtrack\) \[English Edition\]](https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4) | 3:44 | 2022-07-23 |  |
 | [Skies of Song](https://open.spotify.com/track/0B1yXwS1FWBHkkzLwIC2n8) | [Ludvig Forssell](https://open.spotify.com/artist/2nrb04b45LG5tjuHHzK5lc), [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [Belle \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp) | 3:02 | 2022-07-23 |  |
 | [Skies of Song](https://open.spotify.com/track/5RzYntKRo9olye5xWvR25H) | [Ludvig Forssell](https://open.spotify.com/artist/2nrb04b45LG5tjuHHzK5lc), [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [「竜とそばかすの姫」オリジナル・サウンドトラック](https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW) | 3:02 | 2022-06-07 | 2022-07-29 |

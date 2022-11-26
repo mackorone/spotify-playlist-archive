@@ -110,6 +110,24 @@
     },
     {
       "album": {
+        "name": "Automatic Dub 2",
+        "url": "https://open.spotify.com/album/2gALEQAxbisVObFd0dfwwG"
+      },
+      "artists": [
+        {
+          "name": "Wolfram",
+          "url": "https://open.spotify.com/artist/1oBQPdm35NiPSEWIx8Yl24"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396511,
+      "name": "Automatic Dub",
+      "url": "https://open.spotify.com/track/1vu5RVntahCOW5bdwdJRTV"
+    },
+    {
+      "album": {
         "name": "Baby I Love You (Original) - Single",
         "url": "https://open.spotify.com/album/7LZpZKT1adV23tV8AJe44U"
       },
@@ -121,7 +139,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-11-13",
       "duration_ms": 503920,
       "name": "Baby I Love You",
       "url": "https://open.spotify.com/track/0GpbUTVkLhMb200mH8WBOW"
@@ -255,7 +273,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 192866,
       "name": "Body to Body",
       "url": "https://open.spotify.com/track/75nh9TRQMQubdiK82BYdwL"
@@ -345,7 +363,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-01",
+      "date_removed": null,
       "duration_ms": 246106,
       "name": "Color My Love",
       "url": "https://open.spotify.com/track/5oWMY5g9BErFiZjpsPjRCP"
@@ -363,7 +381,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 246106,
       "name": "Color My Love",
       "url": "https://open.spotify.com/track/5zjZoxnYK6stTB2AxL0Fzp"
@@ -1200,6 +1218,28 @@
     },
     {
       "album": {
+        "name": "I'm Going to Go",
+        "url": "https://open.spotify.com/album/6X1BZaLm8zmZLN3JRRIh3v"
+      },
+      "artists": [
+        {
+          "name": "Jago",
+          "url": "https://open.spotify.com/artist/3ZepWYJPVpM1bTypDMG71K"
+        },
+        {
+          "name": "Frankye Knuckles",
+          "url": "https://open.spotify.com/artist/6PHeBl4OsgdHhLd3WMwooH"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 515999,
+      "name": "I'm Going to Go - Instrumental Plant Mix",
+      "url": "https://open.spotify.com/track/0Y1s5ojSKEEgPeuGLo2yIO"
+    },
+    {
+      "album": {
         "name": "I.C. Love Affair",
         "url": "https://open.spotify.com/album/6N9mtDwZA3vni2r6nn6qS6"
       },
@@ -1375,6 +1415,24 @@
       "duration_ms": 313133,
       "name": "Kalimba de luna",
       "url": "https://open.spotify.com/track/1GhgNF88EQEhpGpBApiZfc"
+    },
+    {
+      "album": {
+        "name": "Italo Disco Vol. 2",
+        "url": "https://open.spotify.com/album/1Akyh6zkWizFkp101VjwTK"
+      },
+      "artists": [
+        {
+          "name": "Gang",
+          "url": "https://open.spotify.com/artist/6w6I1RM8AvngUMogImmkxj"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-21",
+      "duration_ms": 313813,
+      "name": "KKK",
+      "url": "https://open.spotify.com/track/0exbk0My19GkSkpsz2SHqv"
     },
     {
       "album": {
@@ -1607,7 +1665,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 237013,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/0M2A5PBGMk0x0M2lrCZGsO"
@@ -1959,10 +2017,62 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 352258,
       "name": "Reset",
       "url": "https://open.spotify.com/track/3w8x0OvRhqvwjSOyHdLhJz"
+    },
+    {
+      "album": {
+        "name": "See You in Paradise",
+        "url": "https://open.spotify.com/album/5lZL8Q3nz0oSRYMCiTOQFS"
+      },
+      "artists": [
+        {
+          "name": "Massimiliano Pagliara",
+          "url": "https://open.spotify.com/artist/6rr6POhpIL25CJFS3o3Dym"
+        },
+        {
+          "name": "Fort Romeau",
+          "url": "https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF"
+        },
+        {
+          "name": "Coloray",
+          "url": "https://open.spotify.com/artist/6a3p6ZKDkTzrVbloxkD73E"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352258,
+      "name": "Reset",
+      "url": "https://open.spotify.com/track/69XBLvNPFQZPEFtQvmhDes"
+    },
+    {
+      "album": {
+        "name": "See You in Paradise",
+        "url": "https://open.spotify.com/album/53ErSZm3l761QkvMSuTtSp"
+      },
+      "artists": [
+        {
+          "name": "Massimiliano Pagliara",
+          "url": "https://open.spotify.com/artist/6rr6POhpIL25CJFS3o3Dym"
+        },
+        {
+          "name": "Fort Romeau",
+          "url": "https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF"
+        },
+        {
+          "name": "Coloray",
+          "url": "https://open.spotify.com/artist/6a3p6ZKDkTzrVbloxkD73E"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-24",
+      "duration_ms": 352258,
+      "name": "Reset",
+      "url": "https://open.spotify.com/track/6TXKgF6m6LyoaC6a3ecnoV"
     },
     {
       "album": {

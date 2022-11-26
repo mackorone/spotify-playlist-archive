@@ -361,7 +361,7 @@
           "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
         }
       ],
-      "date_added": "2022-10-01",
+      "date_added": "2022-09-30",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 251200,
@@ -435,7 +435,7 @@
       ],
       "date_added": "2020-07-07",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 282680,
       "name": "Barcarolle",
       "url": "https://open.spotify.com/track/5yTYVsQPA7ujLOANcjdDTW"
@@ -585,7 +585,7 @@
           "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
         }
       ],
-      "date_added": "2022-10-01",
+      "date_added": "2022-09-30",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 1622575,
@@ -641,7 +641,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 281019,
       "name": "BRUTALISM",
       "url": "https://open.spotify.com/track/3OlIYpw422CIdZ53OcZZ7r"
@@ -677,7 +677,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-28",
+      "date_removed": null,
       "duration_ms": 196146,
       "name": "Butoh baby",
       "url": "https://open.spotify.com/track/3L7HGdt8alejIzzVKWsk3j"
@@ -731,7 +731,7 @@
       ],
       "date_added": "2020-07-07",
       "date_added_asterisk": true,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 299413,
       "name": "Canone Infinito",
       "url": "https://open.spotify.com/track/1KRNinMZ37zFITv0i1nqOR"
@@ -1157,6 +1157,28 @@
       "duration_ms": 377533,
       "name": "Dietrofront",
       "url": "https://open.spotify.com/track/3wiXVSR84GM7qZnorfK7md"
+    },
+    {
+      "album": {
+        "name": "Esc",
+        "url": "https://open.spotify.com/album/6bcV6kB4szpro5Odp4CcO0"
+      },
+      "artists": [
+        {
+          "name": "Matteo Vallicelli",
+          "url": "https://open.spotify.com/artist/21rQDMeCpg6ajDDdEbk1OL"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377533,
+      "name": "Dietrofront",
+      "url": "https://open.spotify.com/track/7BsVebGCG6XsIhzEzS45hl"
     },
     {
       "album": {
@@ -1655,7 +1677,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 249795,
       "name": "Forbidden Planet",
       "url": "https://open.spotify.com/track/6d4VuOTe1geweKH7FuZBJs"
@@ -2551,7 +2573,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 150857,
       "name": "Life Forms",
       "url": "https://open.spotify.com/track/3lmGK3UelDNbXwTCbvVKrN"
@@ -2645,7 +2667,7 @@
       ],
       "date_added": "2020-07-07",
       "date_added_asterisk": true,
-      "date_removed": "2022-08-22",
+      "date_removed": "2022-11-09",
       "duration_ms": 241866,
       "name": "Liptones",
       "url": "https://open.spotify.com/track/2cxH8WTPErfw2OWnzYmIu1"
@@ -2685,6 +2707,24 @@
       "duration_ms": 216686,
       "name": "Lone Machine",
       "url": "https://open.spotify.com/track/0IZ9KgBNgV0AUw9jStNkvj"
+    },
+    {
+      "album": {
+        "name": "I Can Hear the Birds",
+        "url": "https://open.spotify.com/album/5e2c7ge98FEC2RaAAq0wV1"
+      },
+      "artists": [
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175026,
+      "name": "Los Angeles",
+      "url": "https://open.spotify.com/track/0zY2EvOMhmQEF2unzzfqqz"
     },
     {
       "album": {
@@ -3035,7 +3075,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-28",
+      "date_removed": null,
       "duration_ms": 237187,
       "name": "Moderato",
       "url": "https://open.spotify.com/track/5nihxnUMrvUAY7NweeNPbT"
@@ -3079,7 +3119,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 339954,
       "name": "Mono No Aware 1.1",
       "url": "https://open.spotify.com/track/6iGNMNHHbsdSh0f14q3jcS"
@@ -3577,7 +3617,7 @@
       ],
       "date_added": "2020-07-07",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 148146,
       "name": "Pluto's First Popstar (Outro)",
       "url": "https://open.spotify.com/track/5MeaFcLEcsSkcud6tQ2q9L"
@@ -3830,6 +3870,24 @@
     },
     {
       "album": {
+        "name": "Now Is",
+        "url": "https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz"
+      },
+      "artists": [
+        {
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251188,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/0VzV34W0NidIVjz6IPlEEV"
+    },
+    {
+      "album": {
         "name": "Running",
         "url": "https://open.spotify.com/album/2ztqCcyNMabQAhlhp6vWgx"
       },
@@ -3841,7 +3899,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-16",
       "duration_ms": 251188,
       "name": "Running",
       "url": "https://open.spotify.com/track/4fu26fz7aafZXnU0SlSU15"
@@ -4097,7 +4155,7 @@
       ],
       "date_added": "2020-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": "2022-11-26",
       "duration_ms": 209840,
       "name": "Sonnengeflecht",
       "url": "https://open.spotify.com/track/34Tsmlc1lm6hcFXtQXVdCo"
@@ -4475,7 +4533,7 @@
       ],
       "date_added": "2021-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 379066,
       "name": "The Belldog",
       "url": "https://open.spotify.com/track/0d2HX14emol25j4C8yL7SP"
@@ -4529,7 +4587,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": "2022-11-13",
       "duration_ms": 304026,
       "name": "The First Wave - Birth Of Venus",
       "url": "https://open.spotify.com/track/6wG4izwDQdTxkpBEB6CRlk"

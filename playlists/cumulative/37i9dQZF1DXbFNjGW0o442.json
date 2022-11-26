@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 191078,
       "name": "14:14",
       "url": "https://open.spotify.com/track/6By9CmyvJ1LHf5vxMQPMho"
@@ -354,6 +354,24 @@
     },
     {
       "album": {
+        "name": "Batalla Naval",
+        "url": "https://open.spotify.com/album/7ir1j0acIgaSxNj2oJqbMh"
+      },
+      "artists": [
+        {
+          "name": "Nina Su\u00e1rez",
+          "url": "https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203186,
+      "name": "Batalla Naval",
+      "url": "https://open.spotify.com/track/2kXaFBuF8o0SpELClw5skx"
+    },
+    {
+      "album": {
         "name": "Del Oeste",
         "url": "https://open.spotify.com/album/7DcjcfgU8gnJdqD2tSuTSQ"
       },
@@ -657,7 +675,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 186041,
       "name": "Denadie",
       "url": "https://open.spotify.com/track/6JuEz0iSyCHLCMUOM0hsY2"
@@ -1147,7 +1165,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-14",
+      "date_removed": "2022-11-12",
       "duration_ms": 241194,
       "name": "Escapar",
       "url": "https://open.spotify.com/track/4ipgJtYhCTrsGnkL1XRRET"
@@ -1453,7 +1471,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": "2022-10-28",
       "duration_ms": 234074,
       "name": "Gira por el Interior",
       "url": "https://open.spotify.com/track/5vfifUxxB7OdXiqNSlGAvE"
@@ -1604,6 +1622,24 @@
     },
     {
       "album": {
+        "name": "Igual",
+        "url": "https://open.spotify.com/album/0i3T9mspLdgOaOoei0FqKZ"
+      },
+      "artists": [
+        {
+          "name": "Nenagenix",
+          "url": "https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I"
+        }
+      ],
+      "date_added": "2022-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250770,
+      "name": "Igual",
+      "url": "https://open.spotify.com/track/4808bFO0Mw34MmuSjAtQSR"
+    },
+    {
+      "album": {
         "name": "Latidos y Culebras",
         "url": "https://open.spotify.com/album/3AP47uH2hSqW7k1xeJcEFF"
       },
@@ -1723,10 +1759,28 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-10-26",
       "duration_ms": 216857,
       "name": "La Oscuridad",
       "url": "https://open.spotify.com/track/6SsSJzlvg1U0HVMrXisZ0C"
+    },
+    {
+      "album": {
+        "name": "La Verdad",
+        "url": "https://open.spotify.com/album/5liRXIIe5NXzgqR1c1qvjn"
+      },
+      "artists": [
+        {
+          "name": "Elis Paprika",
+          "url": "https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204878,
+      "name": "La Verdad",
+      "url": "https://open.spotify.com/track/41e6XAUwzXXu9CcKqYtOoa"
     },
     {
       "album": {
@@ -1951,6 +2005,24 @@
       "duration_ms": 256200,
       "name": "Madera Metal",
       "url": "https://open.spotify.com/track/04HNLMkC9Sf8bx7xz4GmYI"
+    },
+    {
+      "album": {
+        "name": "Madera Metal",
+        "url": "https://open.spotify.com/album/3apuSNKtLTeTYPpAHrUnZ5"
+      },
+      "artists": [
+        {
+          "name": "Marina Fages",
+          "url": "https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 256200,
+      "name": "Madera Metal",
+      "url": "https://open.spotify.com/track/6WeLCsoNpcUdW1NlRsyju2"
     },
     {
       "album": {
@@ -2283,7 +2355,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 197493,
       "name": "Nada, Nadie",
       "url": "https://open.spotify.com/track/4taTus1eRIUOsaHIuBw4ou"
@@ -2323,6 +2395,42 @@
       "duration_ms": 164885,
       "name": "No Hay Santos",
       "url": "https://open.spotify.com/track/3cxNVuq0RAy0zymBZ8u4FG"
+    },
+    {
+      "album": {
+        "name": "Rock Pa' Gozar Vol. 3",
+        "url": "https://open.spotify.com/album/7bloZmH0zOUczXixny0cg9"
+      },
+      "artists": [
+        {
+          "name": "Kenny y los El\u00e9ctricos",
+          "url": "https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 227066,
+      "name": "No Huyas De Mi",
+      "url": "https://open.spotify.com/track/1WLzRkCyCF1muqSyrr1jcs"
+    },
+    {
+      "album": {
+        "name": "M\u00fasica Que Salva Rock Vol. 5",
+        "url": "https://open.spotify.com/album/49GWg9SuFNmV6Ni3J6pgLH"
+      },
+      "artists": [
+        {
+          "name": "Kenny y los El\u00e9ctricos",
+          "url": "https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-07",
+      "duration_ms": 227066,
+      "name": "No Huyas De Mi",
+      "url": "https://open.spotify.com/track/1aVApBTl7XTYLSatF7pHsz"
     },
     {
       "album": {
@@ -3205,7 +3313,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 188861,
       "name": "Sola y Feliz",
       "url": "https://open.spotify.com/track/2VYFaG8DLK5YBVlqQouWgo"
@@ -3266,6 +3374,24 @@
     },
     {
       "album": {
+        "name": "Truco o trato",
+        "url": "https://open.spotify.com/album/4U65heHTb2hRm7xjo6z4W7"
+      },
+      "artists": [
+        {
+          "name": "Megara",
+          "url": "https://open.spotify.com/artist/4vFcywn3P1b0M4xFe61e23"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211332,
+      "name": "Somos aire",
+      "url": "https://open.spotify.com/track/63gATGLzYoulX2l9sI6M5w"
+    },
+    {
+      "album": {
         "name": "Truco o Trato (Cap\u00edtulo I)",
         "url": "https://open.spotify.com/album/1TCp9KH1KiLydlh3cXPnfJ"
       },
@@ -3277,7 +3403,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 211332,
       "name": "Somos Aire",
       "url": "https://open.spotify.com/track/6dOEjWBwsklaPLzNjSltu4"
@@ -3587,6 +3713,24 @@
       "duration_ms": 220249,
       "name": "Tu Caminar",
       "url": "https://open.spotify.com/track/0AikKCO53aUEgxvpjkNK9b"
+    },
+    {
+      "album": {
+        "name": "TUYA",
+        "url": "https://open.spotify.com/album/1EHUwCiRmMRNNADQsKuiIB"
+      },
+      "artists": [
+        {
+          "name": "Alejandra Guzman",
+          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174336,
+      "name": "Tuya",
+      "url": "https://open.spotify.com/track/22mKcpHMIMg2bmeBMnfaz0"
     },
     {
       "album": {

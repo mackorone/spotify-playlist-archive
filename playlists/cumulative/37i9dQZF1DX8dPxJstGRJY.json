@@ -460,6 +460,24 @@
     },
     {
       "album": {
+        "name": "Sanremo - Il meglio",
+        "url": "https://open.spotify.com/album/3Wr2wOJnoUFt72In5b2Z1E"
+      },
+      "artists": [
+        {
+          "name": "Il Volo",
+          "url": "https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 226720,
+      "name": "Grande amore",
+      "url": "https://open.spotify.com/track/5KuAHTY8aMiWVVnNqZmfof"
+    },
+    {
+      "album": {
         "name": "Viva La Vita",
         "url": "https://open.spotify.com/album/64E2O1kyI9QZWGuptzmRiJ"
       },
@@ -647,6 +665,28 @@
     {
       "album": {
         "name": "Revelation",
+        "url": "https://open.spotify.com/album/5ThZz5lPHg9KOvChXU2U6q"
+      },
+      "artists": [
+        {
+          "name": "An\u00fana",
+          "url": "https://open.spotify.com/artist/59OUpsEQlEUXDHVEOPQ7sC"
+        },
+        {
+          "name": "Michael McGlynn",
+          "url": "https://open.spotify.com/artist/6eKG1uIKALFd8eQI8JtFoD"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229219,
+      "name": "Mononoke Hime",
+      "url": "https://open.spotify.com/track/3UdYeHpaN6LSl1Gf1dhlbs"
+    },
+    {
+      "album": {
+        "name": "Revelation",
         "url": "https://open.spotify.com/album/6IqEExqxT85wd6Tzybi1mb"
       },
       "artists": [
@@ -661,7 +701,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 229219,
       "name": "Mononoke Hime",
       "url": "https://open.spotify.com/track/63jBZRDHRrY7X1BklH4mJ1"
@@ -773,8 +813,8 @@
           "url": "https://open.spotify.com/artist/5bf6RvGi8q0hQUlY0XxZh5"
         },
         {
-          "name": "Czech Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/35NnUEPKGspM23lTZvK3cb"
+          "name": "Czech Philharmonic",
+          "url": "https://open.spotify.com/artist/4pTTYeA2XH8nuTCb5NR3fZ"
         },
         {
           "name": "Paul Bateman",
@@ -1058,6 +1098,28 @@
     },
     {
       "album": {
+        "name": "Songs for Mother's Day",
+        "url": "https://open.spotify.com/album/2rf9GLP4UNK76ZzbuimoFN"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        },
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 266927,
+      "name": "The Prayer",
+      "url": "https://open.spotify.com/track/6PbRTsV5Uvouq757OnakoA"
+    },
+    {
+      "album": {
         "name": "These Are Special Times",
         "url": "https://open.spotify.com/album/0LvrjOn7CrNSs0jVUvrgVy"
       },
@@ -1333,10 +1395,6 @@
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "date_added": "2022-09-09",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Jg9KZ76Rr9.md) - [plain]
 
 > A look back at some of the most impactful songs of 2017.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,891 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,832 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Jg9KZ76Rr9.md) - [plain]
 | 46 | [KILL4ME](https://open.spotify.com/track/6UIo6YbaXihIZ72MWUpcGb) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Heaven Upside Down](https://open.spotify.com/album/6kbfR3NJmBGlgsTPAYmezz) | 3:59 |
 | 47 | [Song \#3](https://open.spotify.com/track/5jsDxDkJ1PqyYUWhDMr86B) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Hydrograd](https://open.spotify.com/album/4PERSgw7TXqpEZlIVN6zHr) | 4:16 |
 | 48 | [Champion](https://open.spotify.com/track/1DRUwJSt2YOUUEz965OJ66) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [MANIA](https://open.spotify.com/album/16xtTZvPH6PXcwSqYqJHHG) | 3:12 |
-| 49 | [Lullaby](https://open.spotify.com/track/7ASF3rcQSjd8bK9jmSTC2d) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc) | [Modern Ruin](https://open.spotify.com/album/50kEeuhjaYhaYPge6pXlG8) | 3:14 |
+| 49 | [Lullaby](https://open.spotify.com/track/4GVECHfy7uEukej163TsnA) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc) | [Modern Ruin](https://open.spotify.com/album/76ZaWI0Q5lVqtv67P8BsGE) | 3:14 |
 | 50 | [Alone](https://open.spotify.com/track/6c9xVWbPeVPgrmWTYYeMTr) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Lifelines](https://open.spotify.com/album/1GpxP0nEqmQoQimVAp8bAZ) | 3:41 |
 | 51 | [Hated](https://open.spotify.com/track/2NRa4W3rH4e5GKQMN5Qwyr) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Aggressive](https://open.spotify.com/album/5nQE80zQR1NqKDBo4oE4EJ) | 3:31 |
 | 52 | [Black Rose](https://open.spotify.com/track/1Po4pby30EDHDFUKGE9hgJ) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT), [Danko Jones](https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW) | [Seal The Deal & Let's Boogie](https://open.spotify.com/album/43UPS43heoPmecwkeQhAnI) | 3:55 |
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Jg9KZ76Rr9.md) - [plain]
 | 55 | [Monster](https://open.spotify.com/track/0criiQKIY1hyU0lRbVhZ8L) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [Vessels](https://open.spotify.com/album/4iJ9B2uDKJzclQo7U9BqS8) | 4:16 |
 | 56 | [Living On The 110](https://open.spotify.com/track/5x6MLzwruLYyUiaeYct5Io) | [Prophets Of Rage](https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY) | [Prophets Of Rage](https://open.spotify.com/album/2tdK7VRcq6ATSgnxdYV17X) | 3:45 |
 | 57 | [Go \(Let Me Save You\)](https://open.spotify.com/track/56yibFyvkzoB59MVVImulZ) | [Citizen Zero](https://open.spotify.com/artist/1T1KjHB3Fzgr3P1sBFjcud) | [State Of Mind](https://open.spotify.com/album/1y5Y5Q4VgXoYdSBQgSJZt0) | 4:38 |
-| 58 | [King](https://open.spotify.com/track/4M6HNRHyV2MykKp7gKQcyD) | [SAINT PHNX](https://open.spotify.com/artist/1Tdg7NIdyWx9icE2GNZzxk) | [King](https://open.spotify.com/album/0Y33Ki8fZCKljrmweGgISm) | 3:12 |
+| 58 | [King](https://open.spotify.com/track/7ApHknZkWvbA1DMLQQfrnd) | [SAINT PHNX](https://open.spotify.com/artist/1Tdg7NIdyWx9icE2GNZzxk) | [King](https://open.spotify.com/album/5Uw2SD3FTrwSu5DCrZMPBJ) | 3:12 |
 | 59 | [Up All Night](https://open.spotify.com/track/28AgTOIZke8nitD0NNeb3G) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Colors](https://open.spotify.com/album/6BOQkxcHspMoRWEwEexf4l) | 3:10 |
 | 60 | [Adore](https://open.spotify.com/track/1rPCgtaIF0CyKRgAwhtpbF) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Adore](https://open.spotify.com/album/4XW4uoRtDulaUs4Qb81UDx) | 3:04 |
 | 61 | [Lay It on Me](https://open.spotify.com/track/7oekneJCJO74ycdLzdk16v) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:35 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Jg9KZ76Rr9.md) - [plain]
 | 66 | [She's Out Of Her Mind](https://open.spotify.com/track/6EE19skJ32p58xihYj2Waa) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California](https://open.spotify.com/album/4wuYQ9hyF1EGmrtjMpgpE9) | 2:42 |
 | 67 | [Sweat](https://open.spotify.com/track/398yyQgNK4gUDUONBlQOYa) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Sweat](https://open.spotify.com/album/0QqrTxRtjqQmH5XyqwORlU) | 3:03 |
 | 68 | [One Night Only](https://open.spotify.com/track/3DRZp9kykKCfnaU1Kd2AWY) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [One Night Only](https://open.spotify.com/album/6q0O4Hlf2h3BntR0TAwdTl) | 4:16 |
-| 69 | [Thank God I'm Not You](https://open.spotify.com/track/65cQN8pUC0dkKryUhEqJPh) | [Himalayas](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [Thank God I'm Not You](https://open.spotify.com/album/0AnzrEVccYHdrlJd1G5Qpy) | 3:14 |
+| 69 | [Thank God I'm Not You](https://open.spotify.com/track/65cQN8pUC0dkKryUhEqJPh) | [HIMALAYAS](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [Thank God I'm Not You](https://open.spotify.com/album/0AnzrEVccYHdrlJd1G5Qpy) | 3:14 |
 | 70 | [What's Wrong](https://open.spotify.com/track/6U82eC2OHyiQM4Wr5Bejar) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [All We Know Of Heaven, All We Need Of Hell](https://open.spotify.com/album/0jLafOidtMogAbdIjOXXIe) | 4:58 |
 | 71 | [Don't Take The Money](https://open.spotify.com/track/0d3BJRrklQ6sTfbmrojuZI) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Don't Take The Money](https://open.spotify.com/album/6XVw1ysE3HyYF9T9axP33Y) | 3:35 |
 | 72 | [She Said](https://open.spotify.com/track/3ZJZjjKFxTqVGJ8QIYKMjp) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Youth is Only Ever Fun in Retrospect](https://open.spotify.com/album/3Hua29YXoJu25qVEhmssFb) | 3:45 |
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Jg9KZ76Rr9.md) - [plain]
 | 83 | [Dream](https://open.spotify.com/track/3fHZJOvXmyHeFLFS1sDE30) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Church Of Scars](https://open.spotify.com/album/1TTxcgs3zEngN0EB56yXzY) | 3:14 |
 | 84 | [Undefeated](https://open.spotify.com/track/5hMMDKXIKsOj8jl0Gx2vNA) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [8](https://open.spotify.com/album/3YdvnTLTd343C1osvUChnA) | 3:56 |
 | 85 | [Sit Next to Me](https://open.spotify.com/track/4BdGO1CaObRD4La9l5Zanz) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Sacred Hearts Club](https://open.spotify.com/album/5lFvZh6pCTJzr9UStebyCF) | 4:03 |
-| 86 | [J\-Boy](https://open.spotify.com/track/7fu8iCAdNuV5HLkuZVHLZP) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Ti Amo](https://open.spotify.com/album/4VlRZ0j4hEJquxPDIzFVuX) | 4:07 |
+| 86 | [J\-Boy](https://open.spotify.com/track/4Bu0XuiecALTHX3YWHOLml) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Ti Amo](https://open.spotify.com/album/4CWDyUN5jukEwwc2Fo4xzy) | 4:07 |
 | 87 | [Creature Comfort](https://open.spotify.com/track/2voWPWlDfIthC6GUjaIQyV) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Everything Now](https://open.spotify.com/album/1DNojVW079FU9YnAMk3Cgr) | 4:43 |
 | 88 | [Pain](https://open.spotify.com/track/59P1nrdEImkAKa1nyW9X2e) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [A Deeper Understanding](https://open.spotify.com/album/4TkmrrpjlPoCPpGyDN3rkF) | 5:30 |
 | 89 | [Periscope \(feat\. Skylar Grey\)](https://open.spotify.com/track/5ADZl5Ty5O9EGy8ABSqXCg) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Crooked Teeth \(Deluxe\)](https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW) | 3:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Jg9KZ76Rr9.md) - [plain]
 | 99 | [The Promise](https://open.spotify.com/track/3tM778lBLL9SjnN0OHWgHH) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [The Promise](https://open.spotify.com/album/44xvS1Lm42hYEMorJxwQ7z) | 4:20 |
 | 100 | [Free Fallin'](https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 4:16 |
 
-Snapshot ID: `MTUxMjgzNzA5MywwMDAwMDAwMDYwY2MwNzdjN2U0NWNhZDQ0MjhhNDMyNjM3YzkzMWEw`
+Snapshot ID: `MTUxMjgzNzA5MywwMDAwMDAwMDgwZGUzZGFjZmE5MThhYzMwNjNhNmVmNjUzNzUzYTY0`

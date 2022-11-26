@@ -4,7 +4,7 @@
 
 > Classic Ambient and Environmental music made in Japan.
 
-54 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/4ZZLOdQNvNgxBdDIIzifmx)
+56 songs - 5 hr 29 min - [published](https://open.spotify.com/playlist/4ZZLOdQNvNgxBdDIIzifmx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Float On](https://open.spotify.com/track/1gxfSEYoqHO3rUluVLFXRS) | [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa) | [Une Collection Des Chainons I](https://open.spotify.com/album/3UyKEfm5Yg8XUf5LmHiRDZ) | 5:42 | 2021-12-23 |  |
 | [FOSSIL OF FLAME/火の化石\~FIFTY BELL\-TREES/五十鈴](https://open.spotify.com/track/3d1oTcXWsWdtfDrgGbbmCG) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [MERCURIC DANCE\(マーキュリック・ダンス\~躍動の踊り\)](https://open.spotify.com/album/7GCdwdSawyfsXcTiPlMF4L) | 8:31 | 2021-12-23 |  |
 | [Glass Chattering](https://open.spotify.com/track/6lGHPfFmZGcjNv7tmTYzZ0) | [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 5:56 | 2021-12-23 |  |
+| [Hagoromo](https://open.spotify.com/track/6sjrK8k0GnUSSUe9EEcNfE) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Skintone Collection](https://open.spotify.com/album/5rPFClBuGOO281xc2g0wAs) | 3:51 | 2022-10-04 | 2022-11-13 |
 | [Hagoromo](https://open.spotify.com/track/1OAauBqF32EtJHTVsd12Zv) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2) | 3:52 | 2022-05-27 |  |
 | [HAGOROMO](https://open.spotify.com/track/57R46IG6M5tQ5xgQ30ZSOf) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/4eN1ho9NT7q1YlG5xDNYNM) | 3:52 | 2021-12-23 | 2022-07-29 |
 | [Hana](https://open.spotify.com/track/3BEtkDxDmgwVVpTRbL89nX) | [Fumio Miyashita](https://open.spotify.com/artist/1x5s5AcJ440n1gmUU0Tvgr) | [Best of Fumio: Music for Sleep](https://open.spotify.com/album/3AgqBMLDoDZsrv1A7R3E5V) | 6:56 | 2021-12-23 |  |
@@ -36,6 +37,7 @@
 | [Moving layer](https://open.spotify.com/track/5C2bOknZW0dN7mhiNNB5Vx) | [Yutaka Hirose](https://open.spotify.com/artist/1FdNQlWcuAjkLTEx7xHf25) | [Nostalghia](https://open.spotify.com/album/5QRSaiLYVS5C6Y9fvMe7Nj) | 7:01 | 2022-05-27 |  |
 | [Old Dream Spell](https://open.spotify.com/track/6y57EpCattl9PxuMRR0Vc0) | [Yutaka Hirose](https://open.spotify.com/artist/1FdNQlWcuAjkLTEx7xHf25) | [Nova + 4 \(Extended Version\)](https://open.spotify.com/album/7lETHTMoNPXfiqrEWcuKg1) | 14:49 | 2021-12-23 |  |
 | [Orientate](https://open.spotify.com/track/4NJ9PJPU4g7ArQcJXKqety) | [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa) | [Une Collection Des Chainons II](https://open.spotify.com/album/2ssf5BQOB4BjSlSM1OfRzk) | 5:02 | 2021-12-23 |  |
+| [Saku](https://open.spotify.com/track/6uvbmhgIhT9fvAHYk743qO) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Skintone Collection](https://open.spotify.com/album/5rPFClBuGOO281xc2g0wAs) | 5:43 | 2022-10-04 | 2022-11-13 |
 | [SAKU](https://open.spotify.com/track/533TZP8RSOvLW5aydnvfRp) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/4eN1ho9NT7q1YlG5xDNYNM) | 5:45 | 2021-12-23 | 2022-07-29 |
 | [Saku](https://open.spotify.com/track/78WANNBMEK80nVGTWFGXyg) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2) | 5:45 | 2022-05-27 |  |
 | [Sealed](https://open.spotify.com/track/3nagQKjvGa9hhVHGmFzFdC) | [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa) | [Oto No Wa: Selected Sounds of Japan 1988\-2018](https://open.spotify.com/album/6u6zXpuGoDl7xJfUK49WVn) | 5:51 | 2021-12-23 |  |

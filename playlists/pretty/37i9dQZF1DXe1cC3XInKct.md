@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe1cC3XInKct.md) - [plain]
 
 > ...and find your focus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,404 likes - 70 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,768 likes - 70 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe1cC3XInKct.md) - [plain]
 | 63 | [Sun At 5 In 4161](https://open.spotify.com/track/28X5wrV8PXG4PpbEv7pjUt) | [Andrew Tuttle](https://open.spotify.com/artist/7oyH6DSD42pak09Jzqj9i7) | [Alexandra](https://open.spotify.com/album/79IqAxOyFTR78bqjoVLEB4) | 5:07 |
 | 64 | [Becoming Ferromagnetic](https://open.spotify.com/track/4H2BkZLuxpYgMgtvFbV0ZB) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Becoming Ferromagnetic](https://open.spotify.com/album/54VwG9mPpNyqR3MHrXaYEJ) | 5:28 |
 | 65 | [C Pad](https://open.spotify.com/track/36wjdMO43P6uLaPPb7NYT1) | [Mary Lake](https://open.spotify.com/artist/5bhoVKF8eORLen5Ls4ErRq) | [Askim](https://open.spotify.com/album/5DaaejX6Rn8CaMvjDokzEB) | 4:40 |
-| 66 | [L'architettura Del Mare](https://open.spotify.com/track/3bOEp5lWoea80fO9FDmb0c) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU) | [Stasi](https://open.spotify.com/album/4d6jmHbXzFFVlydwb2vSa1) | 5:04 |
+| 66 | [L'architettura Del Mare](https://open.spotify.com/track/7KJx7Uu53see41UKVGfuZk) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU) | [Stasi](https://open.spotify.com/album/2WN9w0YV9ystKje62lOdes) | 5:04 |
 | 67 | [Revegetation Area 2002](https://open.spotify.com/track/3261Kuksr5Yn8nToKvUW12) | [Andras](https://open.spotify.com/artist/6C3Q1d8QOpgYuRdsTmSoVm) | [Revegetation Area 2002](https://open.spotify.com/album/1hcdlX6C2isqG1j42p8lHf) | 3:03 |
 | 68 | [Scene Suspended](https://open.spotify.com/track/0AUBFe4HCHU01mKj8Wlf45) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Scene Suspended](https://open.spotify.com/album/2IY3MpRm3DMerB6XyIvIjr) | 4:07 |
 | 69 | [Struck Bamboo Pipes No.2](https://open.spotify.com/track/0dgRhEUcNVQ0qXNgTeTnum) | [GODTET](https://open.spotify.com/artist/09OgHVPSgCgflZLrGScfE9) | [Suite](https://open.spotify.com/album/5r4hIncpdqLihLyp1PlMqY) | 3:01 |
 | 70 | [The Slow](https://open.spotify.com/track/7bXN15Z1AuU6LF5InUKX2N) | [Body Corp](https://open.spotify.com/artist/47kJiM0ksgZti3nuMq1opC) | [The Slow](https://open.spotify.com/album/1io56ha0ekCZITMxfZJhI4) | 3:51 |
 
-Snapshot ID: `MTY2NDQ2MDAwMCwwMDAwMDAwMDY1OWE2YjdjMGY5NjFmNjZlNWJlNmYxNTdkNmE5OWI0`
+Snapshot ID: `MTY2NDQ2MDAwMCwwMDAwMDAwMDVmNDBhYzQ2NTJlZmE5YjdiMjEyMjkzNmUxMTNhMDg3`

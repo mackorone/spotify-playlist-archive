@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "Amelioration",
+        "url": "https://open.spotify.com/album/1OnNsodqKgXnXjYXaLUXdz"
+      },
+      "artists": [
+        {
+          "name": "Alpha Vectoriam",
+          "url": "https://open.spotify.com/artist/4tJk8aN9skPGFZmkoAsBJD"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181565,
+      "name": "Amelioration",
+      "url": "https://open.spotify.com/track/3QEQmuqMxAAPOP54RrAEBF"
+    },
+    {
+      "album": {
         "name": "The Soul Of The River",
         "url": "https://open.spotify.com/album/7cmnDVld1JljGcOcQpVA5d"
       },
@@ -116,6 +134,24 @@
     },
     {
       "album": {
+        "name": "Anywhere, Anytime",
+        "url": "https://open.spotify.com/album/31s5DFejbY0IEsI9y276Py"
+      },
+      "artists": [
+        {
+          "name": "Interspaces",
+          "url": "https://open.spotify.com/artist/2EWOWYo7on9DF7RLOLcia3"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178307,
+      "name": "Anywhere, Anytime",
+      "url": "https://open.spotify.com/track/1OqNYqjZ2G7D1mOWxuBv3E"
+    },
+    {
+      "album": {
         "name": "Baagh",
         "url": "https://open.spotify.com/album/0G74nAuIStkxncdtQL3tnN"
       },
@@ -134,6 +170,24 @@
     },
     {
       "album": {
+        "name": "Be Shapeless",
+        "url": "https://open.spotify.com/album/1iJfRrGhAiarUGmwVfQoso"
+      },
+      "artists": [
+        {
+          "name": "Cassius Fry",
+          "url": "https://open.spotify.com/artist/05FJXZSLImVmaIIIcFG7EQ"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226046,
+      "name": "Be Shapeless",
+      "url": "https://open.spotify.com/track/5NpuT8PiqduDr4PK3UTUjz"
+    },
+    {
+      "album": {
         "name": "Beatful Akasha",
         "url": "https://open.spotify.com/album/7bKoWBR8MXpoUFWo3aALtk"
       },
@@ -149,6 +203,24 @@
       "duration_ms": 244830,
       "name": "Beatful Akasha",
       "url": "https://open.spotify.com/track/1JvHBofBIxiF05bjiG4cVl"
+    },
+    {
+      "album": {
+        "name": "Behind The Next turn",
+        "url": "https://open.spotify.com/album/6b5AN8IWuNUE3qrFeoMsOh"
+      },
+      "artists": [
+        {
+          "name": "Karnataka Dawn",
+          "url": "https://open.spotify.com/artist/5CkV7GGzUTOTqzjbdybFE9"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185365,
+      "name": "Behind The Next Turn",
+      "url": "https://open.spotify.com/track/2PWHMH2y91zYgl7v8kLIhC"
     },
     {
       "album": {
@@ -181,7 +253,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 190382,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/30iFs745w3sWOU8HSCcvrQ"
@@ -296,6 +368,42 @@
     },
     {
       "album": {
+        "name": "Holy River",
+        "url": "https://open.spotify.com/album/6HhpIS459we5oHB8GTW8Q2"
+      },
+      "artists": [
+        {
+          "name": "Goa Gubhar",
+          "url": "https://open.spotify.com/artist/6wcKtx6vCZVkuSjR4a7UaB"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174530,
+      "name": "Chinese Herbs",
+      "url": "https://open.spotify.com/track/1ROHEkrFviF2sg0JdlmsNi"
+    },
+    {
+      "album": {
+        "name": "Lines of Mauve",
+        "url": "https://open.spotify.com/album/3f7SSz5LBqvz1Vqmkffk4V"
+      },
+      "artists": [
+        {
+          "name": "Star Lions",
+          "url": "https://open.spotify.com/artist/3oyABNjDzJ2BL5tshlzpf0"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214335,
+      "name": "Danaus Genutia",
+      "url": "https://open.spotify.com/track/0vRHzTymALeCeAL1l5dw5q"
+    },
+    {
+      "album": {
         "name": "Enter the Spirit World - Shamanic Drumming Meditation",
         "url": "https://open.spotify.com/album/3qFC7eIbzF9nBD79xX47rH"
       },
@@ -307,7 +415,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 189701,
       "name": "Deep Meditation",
       "url": "https://open.spotify.com/track/1KkiMB3T1IRvxwP9DCBZWt"
@@ -728,6 +836,24 @@
     },
     {
       "album": {
+        "name": "Holy River",
+        "url": "https://open.spotify.com/album/6HhpIS459we5oHB8GTW8Q2"
+      },
+      "artists": [
+        {
+          "name": "Goa Gubhar",
+          "url": "https://open.spotify.com/artist/6wcKtx6vCZVkuSjR4a7UaB"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183723,
+      "name": "Holy River",
+      "url": "https://open.spotify.com/track/6aheaZ49wM9pdc21shDoaO"
+    },
+    {
+      "album": {
         "name": "Holy Stone",
         "url": "https://open.spotify.com/album/7bLljlzayEIE59YxJ92qX2"
       },
@@ -779,6 +905,24 @@
       "duration_ms": 219630,
       "name": "Huella Profunda",
       "url": "https://open.spotify.com/track/3LOnrSSw59XdlBegy5whzr"
+    },
+    {
+      "album": {
+        "name": "Indian Sunset",
+        "url": "https://open.spotify.com/album/5og83tVSEQKGWbBBx1jz6I"
+      },
+      "artists": [
+        {
+          "name": "Dream Of Bhuna",
+          "url": "https://open.spotify.com/artist/3ygzTZqJ6VSFGKnzeQr1Rr"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220359,
+      "name": "Indian Sunset",
+      "url": "https://open.spotify.com/track/6Oa6dSEDkopm9UsfZ6tVH8"
     },
     {
       "album": {
@@ -872,6 +1016,24 @@
     },
     {
       "album": {
+        "name": "Lines of Mauve",
+        "url": "https://open.spotify.com/album/3f7SSz5LBqvz1Vqmkffk4V"
+      },
+      "artists": [
+        {
+          "name": "Star Lions",
+          "url": "https://open.spotify.com/artist/3oyABNjDzJ2BL5tshlzpf0"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200208,
+      "name": "Lines of Mauve",
+      "url": "https://open.spotify.com/track/0frLn0SaBgSQbRMbL2fpxG"
+    },
+    {
+      "album": {
         "name": "Baagh",
         "url": "https://open.spotify.com/album/0G74nAuIStkxncdtQL3tnN"
       },
@@ -890,6 +1052,24 @@
     },
     {
       "album": {
+        "name": "Long And Winding River",
+        "url": "https://open.spotify.com/album/5lwqYNdt2EEWLgk2O4u0wh"
+      },
+      "artists": [
+        {
+          "name": "Start Of Something Good",
+          "url": "https://open.spotify.com/artist/37qYg33d5znCp06dghSGz4"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179093,
+      "name": "Long And Winding River",
+      "url": "https://open.spotify.com/track/2jhAbvJJUuPDCn6kd8G4IR"
+    },
+    {
+      "album": {
         "name": "Lunar Rhythms",
         "url": "https://open.spotify.com/album/19qWecQ8sCa5BXbYXgpH6C"
       },
@@ -905,6 +1085,24 @@
       "duration_ms": 145888,
       "name": "Lunar Rhythms",
       "url": "https://open.spotify.com/track/7sWDnV9xAwJOYvF6aPowAV"
+    },
+    {
+      "album": {
+        "name": "Magic Moment",
+        "url": "https://open.spotify.com/album/5ENXsOri8k4cdCnKDGfRoM"
+      },
+      "artists": [
+        {
+          "name": "Percussion As Medicine",
+          "url": "https://open.spotify.com/artist/3FRJVDCXmMrOEnjzr24ful"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162114,
+      "name": "Magic Moment",
+      "url": "https://open.spotify.com/track/5cPMT9j9tE4ZK6C7mlSK5n"
     },
     {
       "album": {
@@ -1016,6 +1214,24 @@
     },
     {
       "album": {
+        "name": "Oceans Anahata",
+        "url": "https://open.spotify.com/album/6geVgdN6Ik1nG3YF4Vex51"
+      },
+      "artists": [
+        {
+          "name": "Surya",
+          "url": "https://open.spotify.com/artist/35cfF1k6EkenA6CvqrhneD"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202800,
+      "name": "Oceans Anahata",
+      "url": "https://open.spotify.com/track/7D3XzDFwR1BYnzcQ5Yl6P2"
+    },
+    {
+      "album": {
         "name": "One River",
         "url": "https://open.spotify.com/album/67gLMrueyFRoD48NwVZ4qk"
       },
@@ -1074,6 +1290,24 @@
     },
     {
       "album": {
+        "name": "Prkahm Mindbeats",
+        "url": "https://open.spotify.com/album/3s7Gqi15d2IzMh0it9eIci"
+      },
+      "artists": [
+        {
+          "name": "Tribal Tranquility",
+          "url": "https://open.spotify.com/artist/3kqCmBNUxv4gydsfojdTgS"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195428,
+      "name": "Prkahm Mindbeats",
+      "url": "https://open.spotify.com/track/3Th5MNEqf4f41KT6lEui1h"
+    },
+    {
+      "album": {
         "name": "Queen West Blues",
         "url": "https://open.spotify.com/album/3AH157ouZcjjDiXQZO3BeW"
       },
@@ -1107,6 +1341,24 @@
       "duration_ms": 184159,
       "name": "Rhythm Of My Soul",
       "url": "https://open.spotify.com/track/0azwXTgSFkWTFSRnt6di9r"
+    },
+    {
+      "album": {
+        "name": "Indian Sunset",
+        "url": "https://open.spotify.com/album/5og83tVSEQKGWbBBx1jz6I"
+      },
+      "artists": [
+        {
+          "name": "Dream Of Bhuna",
+          "url": "https://open.spotify.com/artist/3ygzTZqJ6VSFGKnzeQr1Rr"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174401,
+      "name": "Rhythm River",
+      "url": "https://open.spotify.com/track/3Br4ekPWHt39VULZjDvlgt"
     },
     {
       "album": {
@@ -1236,6 +1488,24 @@
     },
     {
       "album": {
+        "name": "Salute the Sun",
+        "url": "https://open.spotify.com/album/53jTTZGbKLmYQNYlAzZE9B"
+      },
+      "artists": [
+        {
+          "name": "Solarixo",
+          "url": "https://open.spotify.com/artist/5McHUSz4tKBSVrwI9JzUhY"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 154000,
+      "name": "Salute the Sun",
+      "url": "https://open.spotify.com/track/3Sb4HkaCEBbj6kJDK1EdR3"
+    },
+    {
+      "album": {
         "name": "Sankalpa",
         "url": "https://open.spotify.com/album/1bKAEHUWuRojCwXvbHoANf"
       },
@@ -1251,6 +1521,24 @@
       "duration_ms": 208563,
       "name": "Sankalpa",
       "url": "https://open.spotify.com/track/6HDcCcZ0keGKl8EIGJCj0j"
+    },
+    {
+      "album": {
+        "name": "Tangerine Sky",
+        "url": "https://open.spotify.com/album/4VZgKvPE7z12njOZhDsrUS"
+      },
+      "artists": [
+        {
+          "name": "Jo Mar Fred",
+          "url": "https://open.spotify.com/artist/4qc5t8tVmhwpYYTCcEz8Wz"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165750,
+      "name": "Sharanda",
+      "url": "https://open.spotify.com/track/3YctIlrwFAmE5i6IHqSppU"
     },
     {
       "album": {
@@ -1309,10 +1597,28 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 332052,
       "name": "Shivaratri (Edit)",
       "url": "https://open.spotify.com/track/6s5D1mMICLCrMO8BrZ7hYE"
+    },
+    {
+      "album": {
+        "name": "Behind The Next turn",
+        "url": "https://open.spotify.com/album/6b5AN8IWuNUE3qrFeoMsOh"
+      },
+      "artists": [
+        {
+          "name": "Karnataka Dawn",
+          "url": "https://open.spotify.com/artist/5CkV7GGzUTOTqzjbdybFE9"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189096,
+      "name": "Simplicity",
+      "url": "https://open.spotify.com/track/5vwriFH8WkoipSQ2W8vYdc"
     },
     {
       "album": {
@@ -1608,6 +1914,24 @@
     },
     {
       "album": {
+        "name": "Tangerine Sky",
+        "url": "https://open.spotify.com/album/4VZgKvPE7z12njOZhDsrUS"
+      },
+      "artists": [
+        {
+          "name": "Jo Mar Fred",
+          "url": "https://open.spotify.com/artist/4qc5t8tVmhwpYYTCcEz8Wz"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187681,
+      "name": "Tangerine Sky",
+      "url": "https://open.spotify.com/track/5VG8600Qbb6vcPPO33IvTd"
+    },
+    {
+      "album": {
         "name": "The Escape",
         "url": "https://open.spotify.com/album/4s1SFohbC9Zw7BYXCC8L3e"
       },
@@ -1626,6 +1950,24 @@
     },
     {
       "album": {
+        "name": "The Path Ahead",
+        "url": "https://open.spotify.com/album/5ONkvuEnO9gJdi266Zzz38"
+      },
+      "artists": [
+        {
+          "name": "Hank Drum",
+          "url": "https://open.spotify.com/artist/7kpwgkybkjrBOQybEwDpWI"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192574,
+      "name": "The Path Ahead",
+      "url": "https://open.spotify.com/track/1bjE5oU39xjagrPVU7Dg5U"
+    },
+    {
+      "album": {
         "name": "The Soul Of The River",
         "url": "https://open.spotify.com/album/7cmnDVld1JljGcOcQpVA5d"
       },
@@ -1641,6 +1983,24 @@
       "duration_ms": 192024,
       "name": "The Soul Of The River",
       "url": "https://open.spotify.com/track/6uQUHdOi2oVCXK1COOrfnA"
+    },
+    {
+      "album": {
+        "name": "The Sound Of Your Heart",
+        "url": "https://open.spotify.com/album/127LMbRYsAmeVN495X58YE"
+      },
+      "artists": [
+        {
+          "name": "Joborja Perc",
+          "url": "https://open.spotify.com/artist/11otmykUQiYuTfJcqVFiE8"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178763,
+      "name": "The Sound Of Your Heart",
+      "url": "https://open.spotify.com/track/3HxlrLorLqBF2sX45P5b5L"
     },
     {
       "album": {
@@ -1752,6 +2112,60 @@
     },
     {
       "album": {
+        "name": "Vinyasa Rhytm",
+        "url": "https://open.spotify.com/album/0uw8jZTriHtecSWAq7NrLi"
+      },
+      "artists": [
+        {
+          "name": "Moira Kent",
+          "url": "https://open.spotify.com/artist/75XVrjr0r3FvwErC3VDPcl"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 172000,
+      "name": "Vinyasa Rhytm",
+      "url": "https://open.spotify.com/track/2LOv8O1P9CdJn3sZkxQbVi"
+    },
+    {
+      "album": {
+        "name": "Vistaar",
+        "url": "https://open.spotify.com/album/0IOthohemR6IYskmq3WhJQ"
+      },
+      "artists": [
+        {
+          "name": "Ranjan E",
+          "url": "https://open.spotify.com/artist/6cREMEcDlVDzlRcvGzHrQq"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212250,
+      "name": "Vistaar",
+      "url": "https://open.spotify.com/track/27jJ0tpNrZkd9qQrA40xQj"
+    },
+    {
+      "album": {
+        "name": "Well Of Hope",
+        "url": "https://open.spotify.com/album/53dEbBBAkicA0G4mBDPkxc"
+      },
+      "artists": [
+        {
+          "name": "KunDharma",
+          "url": "https://open.spotify.com/artist/3NhCohtDbc2pjX9myuU2YJ"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188965,
+      "name": "Well of Hope",
+      "url": "https://open.spotify.com/track/1nL2bxBSNHt8tFI9T80XWn"
+    },
+    {
+      "album": {
         "name": "African Dance: Traditional Drums Music",
         "url": "https://open.spotify.com/album/4iyuNvRNniCwhh3oolXQ31"
       },
@@ -1821,6 +2235,24 @@
       "duration_ms": 194000,
       "name": "Zen Beat 1",
       "url": "https://open.spotify.com/track/5xZ2SUNClq0bfr5CbYEKBc"
+    },
+    {
+      "album": {
+        "name": "Zenkom Auralis",
+        "url": "https://open.spotify.com/album/4tb0F9VmjZaNQIIRKJL9L9"
+      },
+      "artists": [
+        {
+          "name": "Augmented Meditation",
+          "url": "https://open.spotify.com/artist/2Gj9De52rmWf9w9esZPs9A"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238250,
+      "name": "Zenkom Auralis",
+      "url": "https://open.spotify.com/track/22NrttumYU12GSAa9fvaom"
     },
     {
       "album": {

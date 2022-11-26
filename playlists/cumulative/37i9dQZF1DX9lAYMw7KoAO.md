@@ -4,7 +4,7 @@
 
 > Gospel music from across the African continent\. Worship in your mother tongue here!
 
-93 songs - 9 hr 55 min - [published](https://open.spotify.com/playlist/7olbfB26cR1n5qSLX8dDVo)
+96 songs - 10 hr 16 min - [published](https://open.spotify.com/playlist/7olbfB26cR1n5qSLX8dDVo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Made Whole](https://open.spotify.com/track/0Nr91BKQvJE4usT6fKWY5t) | [CRC Music](https://open.spotify.com/artist/0NkzbJlvL3SLDCFnPmdSK7) | [Made Whole](https://open.spotify.com/album/33GubIN9pcunkmkg2A1j6U) | 4:19 | 2020-01-31 |  |
 | [Make a Way \- Live](https://open.spotify.com/track/6pyXckwhvsn3o8ITLymLDU) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Mmatema](https://open.spotify.com/artist/3WIUiGUzID22YVq9W8yRbG) | [Spirit of Praise, Vol\. 7 \(Live\)](https://open.spotify.com/album/50TvIUjsR7nVUcvuK9CyrE) | 4:38 | 2019-11-06 |  |
 | [Make a Way \- Live](https://open.spotify.com/track/1DrlNnjjp7VBaJRfBOqqK3) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Mmatema Moremi](https://open.spotify.com/artist/23L7MPBHP4Bnc1oQJQSCvE) | [Spirit of Praise New Voices \(Live\)](https://open.spotify.com/album/13ytrQ0CS9ipmq1UdlwhfD) | 4:38 | 2019-11-06 | 2022-07-29 |
+| [Make a Way \- Live](https://open.spotify.com/track/1LFNi5RqhKR63C14W4vZRm) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Mmatema Moremi](https://open.spotify.com/artist/23L7MPBHP4Bnc1oQJQSCvE) | [Spirit of Praise New Voices \(Live\)](https://open.spotify.com/album/1ma43lJjgLa1zQryHyabA9) | 4:38 | 2019-11-06 | 2022-11-13 |
 | [Messiah](https://open.spotify.com/track/408SouH6qikkfmpyVN0Aqa) | [Kgotso](https://open.spotify.com/artist/6OouFsAAeqVai70CLp8v0H) | [New Dawn](https://open.spotify.com/album/1R4VaMYmRT58HE9GYg1jKe) | 4:06 | 2018-10-01 | 2022-07-29 |
 | [Messiah \- Live](https://open.spotify.com/track/2BlNluQsQdl0OWmwXNl39u) | [Kgotso](https://open.spotify.com/artist/6OouFsAAeqVai70CLp8v0H) | [New Dawn \(Live\)](https://open.spotify.com/album/6qFzKdY5yFOapqLkrn8Mge) | 4:06 | 2018-10-01 |  |
 | [Mighty God \- Remix](https://open.spotify.com/track/3wJ7y9A3d6Nx8dgzWYvwMR) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Mighty God \(Remix\)](https://open.spotify.com/album/0FEwRFVRGygc77wGe6gUOX) | 5:23 | 2018-10-01 |  |
@@ -61,9 +62,11 @@
 | [Nkosi Ndithembe Wena](https://open.spotify.com/track/0EZNwUJat1DX09UdqoEm4S) | [Joey Mofoleng](https://open.spotify.com/artist/6zS58BpzrB57jlKWpQ7ZUW) | [After This](https://open.spotify.com/album/72vZlTX5LfYF5FT4DHIhGC) | 3:22 | 2020-10-09 |  |
 | [No Void](https://open.spotify.com/track/5sqjOtOZB4MAvMO43ZeG1i) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [No Void](https://open.spotify.com/album/4r6aQghIBY7PwUViivOTQT) | 4:54 | 2020-10-29 | 2022-09-02 |
 | [Nothing Without You \- Live At The Barnyard Theatre](https://open.spotify.com/track/33ovGnOeJfoSXRyL3dZhgf) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Love & Grace \(Live At The Barnyard Theatre / Deluxe Version\)](https://open.spotify.com/album/3ett5uGGvISE7Sl75Z98Hv) | 7:50 | 2019-11-06 |  |
+| [Nothing Without You \- Live At The Barnyard Theatre](https://open.spotify.com/track/3av8ohYTDb9NM614MQ0Lo3) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Gospel by Africa: Vol.5](https://open.spotify.com/album/6tQVdacqjmtZlhv4fsOTAL) | 7:50 | 2019-11-06 | 2022-11-13 |
 | [Nothing Without You \- Live At The Barnyard Theatre](https://open.spotify.com/track/7IpYieOKe5WXhdjAJ5QnzC) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Love & Grace \(Live At The Barnyard Theatre / Deluxe Version\)](https://open.spotify.com/album/6L2iyLuGeKjI9Z6dG90l8t) | 7:50 | 2019-11-06 | 2022-07-29 |
 | [Obinigwe](https://open.spotify.com/track/2gfh7QNGVJIdnTA1GSVqnU) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [Obinigwe](https://open.spotify.com/album/1ZcK96zMWufzdsMu1yMVmT) | 9:07 | 2021-11-26 | 2022-07-29 |
 | [Obinigwe](https://open.spotify.com/track/1zyQByOXDyQlFYzqTuax5l) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [To Yahweh's Delight](https://open.spotify.com/album/779P4ZNqRzXiiw2sIRTXva) | 9:12 | 2021-11-26 |  |
+| [Obinigwe](https://open.spotify.com/track/5RvkS0NNUkOoYnDK6xf8xt) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [Obinigwe](https://open.spotify.com/album/71H5Wwi06SnNDDJG2XnVoF) | 9:12 | 2021-11-26 | 2022-11-13 |
 | [Okay](https://open.spotify.com/track/03UnPfDS0FvZzi0Z3I7yue) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Okay](https://open.spotify.com/album/7H0fhbJWzN4zP9aPWwSLRl) | 2:35 | 2020-09-17 |  |
 | [OMG \(feat\. JJ Hairston\)](https://open.spotify.com/track/4fSpPNl7XFN4veisb3rAA7) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Already Won](https://open.spotify.com/album/3jJjMV8cHhX1gn4Nn9GWa3) | 4:16 | 2021-03-25 |  |
 | [One on One \(Live\)](https://open.spotify.com/track/5Vw55KLsNKIxcAznPUhxzh) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [One on One \(Live\)](https://open.spotify.com/album/1xDKfCWAviCVKuk7hjaUeH) | 13:14 | 2021-11-26 |  |

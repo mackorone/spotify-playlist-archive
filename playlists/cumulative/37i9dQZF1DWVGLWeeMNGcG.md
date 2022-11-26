@@ -4,7 +4,7 @@
 
 > From the past to the present, soul music has evolved into many different sounds and Motown has been at the forefront.
 
-34 songs - 2 hr 18 min - [published](https://open.spotify.com/playlist/3cK9yg3609ko0saEs1Ekc8)
+38 songs - 2 hr 34 min - [published](https://open.spotify.com/playlist/3cK9yg3609ko0saEs1Ekc8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [All Night Long](https://open.spotify.com/track/7iyjZ4paFWpTrJJenM0yZb) | [Mary Jane Girls](https://open.spotify.com/artist/7vRMMs8yrKf4PKUpUllMkr) | [In My House](https://open.spotify.com/album/4W5tAjZ4fF60N6a2v8EWnF) | 5:43 | 2019-06-14 |  |
 | [Angel](https://open.spotify.com/track/5zsqV7VwDz2gRnALIpTaP1) | [Stacy Barthe](https://open.spotify.com/artist/0yq6uHIfFks9yOURUuCITV), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [BEcoming](https://open.spotify.com/album/49eOVYOGoUjNjgyplB6JJF) | 3:05 | 2019-06-14 |  |
 | [Baby, I'm For Real](https://open.spotify.com/track/3E9zYordfTyoCQbLpTgB94) | [The Originals](https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl) | [Motown Gold](https://open.spotify.com/album/2T5DSQcR2CrhLjAiRxE8nv) | 3:14 | 2019-06-14 | 2022-07-29 |
+| [Baby, I'm For Real](https://open.spotify.com/track/6iz6c83n6Asi3soVTUvdJz) | [The Originals](https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl) | [Motown: The Complete No\. 1's](https://open.spotify.com/album/58pGMCX1LxShUleatShB4x) | 3:21 | 2019-06-14 | 2022-11-13 |
 | [Baby, I'm For Real](https://open.spotify.com/track/7vI2UMCyF56ZNDbVZmKiJ2) | [The Originals](https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl) | [Baby, I'm For Real](https://open.spotify.com/album/3lvFua9jUjltWAqIK01Zdn) | 3:21 | 2019-06-14 |  |
 | [Cloud Nine](https://open.spotify.com/track/1A8gqfrso63AC4XVW6DTTw) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Cloud Nine](https://open.spotify.com/album/5ETcOu2ITbVLilnw3QQqSX) | 3:31 | 2019-06-14 |  |
 | [Come And Get These Memories](https://open.spotify.com/track/5gwvsIrTVL4F76tn9xEhQ3) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Come And Get These Memories](https://open.spotify.com/album/6jOw3nHWwnbF7eKW9yxfY4) | 2:23 | 2019-06-14 |  |
@@ -35,10 +36,13 @@
 | [Shop Around](https://open.spotify.com/track/47IRIQxGDe2Sc6F4pe2FMf) | [The Miracles](https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND) | [Hi We're The Miracles](https://open.spotify.com/album/2fvokJVgfNIjWbGzudJQfT) | 2:50 | 2019-06-14 |  |
 | [Shotgun](https://open.spotify.com/track/2Zk0eoq7d6Vw0fRVRXPWnc) | [Jr\. Walker & The All Stars](https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd) | [Shotgun](https://open.spotify.com/album/09uQ81RxL7Bbsq7jEstXWc) | 2:56 | 2019-06-14 |  |
 | [Shotgun](https://open.spotify.com/track/6VzM9C7CXyn1BQdgTJVqDx) | [Jr\. Walker & The All Stars](https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd) | [Shotgun](https://open.spotify.com/album/4aDsONCBMpZ6AAjZctYEYS) | 2:56 | 2019-06-14 | 2022-07-29 |
+| [Shotgun](https://open.spotify.com/track/1ZfxCQmXWYmTWwBgCy48Os) | [Jr\. Walker & The All Stars](https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd) | [Motown Party](https://open.spotify.com/album/1iNRf0nkYYB4zBTv34zF0x) | 2:59 | 2019-06-14 | 2022-11-13 |
 | [Square Biz](https://open.spotify.com/track/52bz3fOCyr6GgkJQsLK9PM) | [Teena Marie](https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb) | [Best Of/20th Century](https://open.spotify.com/album/0kCD8uT94URPZcr2vZOhW7) | 6:23 | 2019-06-14 |  |
 | [Square Biz](https://open.spotify.com/track/5lAH3vLN4Gc3jDM25cMIgH) | [Teena Marie](https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb) | [20th Century Masters: The Millennium Collection: Best of Teena Marie](https://open.spotify.com/album/7rBP3Z4FX95gFPTXgs4MMo) | 6:25 | 2019-06-14 | 2022-07-29 |
+| [Square Biz](https://open.spotify.com/track/3k168scjk05AuB67bGXkJg) | [Teena Marie](https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb) | [Motown Queens](https://open.spotify.com/album/0g4hcfMoBKXPmMvNCHtlTC) | 6:27 | 2019-06-14 | 2022-11-13 |
 | [Super Freak](https://open.spotify.com/track/2dCmGcEOQrMQhMMS8Vj7Ca) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL) | [Street Songs \(Deluxe Edition\)](https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5) | 3:25 | 2019-06-14 |  |
-| [The Love You Save](https://open.spotify.com/track/2dYdai0GywuwYq6blSwDBV) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [ABC](https://open.spotify.com/album/3btVhknqDeGAEd1Qj7lL57) | 3:01 | 2019-06-14 |  |
+| [The Love You Save](https://open.spotify.com/track/39SyB2NWiRlMtcKrI2rr4k) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [ABC](https://open.spotify.com/album/2tukc7pH4qTuXcfaHjLIBc) | 2:59 | 2019-06-14 |  |
+| [The Love You Save](https://open.spotify.com/track/2dYdai0GywuwYq6blSwDBV) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [ABC](https://open.spotify.com/album/3btVhknqDeGAEd1Qj7lL57) | 3:01 | 2019-06-14 | 2022-11-23 |
 | [Turnin' Me Up](https://open.spotify.com/track/5MjAFPcmrR1DYCgZrXCN4d) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [In My Mind](https://open.spotify.com/album/15iSR05cslUeYgf2kuWDhu) | 4:29 | 2019-06-14 |  |
 | [Two Lovers](https://open.spotify.com/track/00CmjeeHvAVKvx3tcIiZTy) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [Two Lovers](https://open.spotify.com/album/4dfP6ztb54XjPNDMOQ1MSL) | 2:46 | 2019-06-14 |  |
 | [Where Did Our Love Go](https://open.spotify.com/track/69RH84na5iUNwrwxpgjC5j) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Where Did Our Love Go](https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV) | 2:33 | 2019-06-14 |  |

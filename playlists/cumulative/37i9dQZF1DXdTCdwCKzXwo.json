@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-03-19",
-  "description": "Early pioneers that brought the underground to the foreground. Cover: Nico",
+  "description": "Celebrate 50 years of Transformer with these early pioneers Cover: Lou Reed. ",
   "name": "Early Alternative",
   "published_playlist_ids": [
     "1biJVwGgudNJMTh4YCWUBg"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 190853,
       "name": "Androgynous",
       "url": "https://open.spotify.com/track/3fnL2JDgy4QD04araOl0eY"
@@ -386,6 +386,24 @@
     },
     {
       "album": {
+        "name": "TOTAL",
+        "url": "https://open.spotify.com/album/3rPC5Y8e9S6dGGkWvRYPRD"
+      },
+      "artists": [
+        {
+          "name": "New Order",
+          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 449906,
+      "name": "Blue Monday - 2011 Total Version",
+      "url": "https://open.spotify.com/track/5rvY5aFTSvQAo2VNUR1Fxy"
+    },
+    {
+      "album": {
         "name": "Cure for Pain",
         "url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
       },
@@ -595,7 +613,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 179600,
       "name": "Christine",
       "url": "https://open.spotify.com/track/6oJdM8pW0ujqLcTQpZzCQ6"
@@ -692,6 +710,24 @@
     },
     {
       "album": {
+        "name": "Entertainment!",
+        "url": "https://open.spotify.com/album/7LMOo068Ndv0wjTGUDtYqK"
+      },
+      "artists": [
+        {
+          "name": "Gang Of Four",
+          "url": "https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-22",
+      "duration_ms": 206786,
+      "name": "Damaged Goods",
+      "url": "https://open.spotify.com/track/0Nn4RrvVfwSSLDvkhdRc1n"
+    },
+    {
+      "album": {
         "name": "Entertainment! (Expanded & Remastered) [US Release]",
         "url": "https://open.spotify.com/album/3ZWcrEHw7bkgEJMyvMLGrO"
       },
@@ -721,7 +757,7 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": "2022-11-14",
       "duration_ms": 219506,
       "name": "Dear God - Remastered 2001",
       "url": "https://open.spotify.com/track/6nFdjV1Ko66O111x74K2kn"
@@ -761,6 +797,24 @@
       "duration_ms": 184686,
       "name": "Deceptacon",
       "url": "https://open.spotify.com/track/4l0HxP8wm5iWHqo9myvFsm"
+    },
+    {
+      "album": {
+        "name": "Spring Session M.",
+        "url": "https://open.spotify.com/album/08GAuXkchZVoRsnKdcihxs"
+      },
+      "artists": [
+        {
+          "name": "Missing Persons",
+          "url": "https://open.spotify.com/artist/5CT7RBitS0e0u78T8tRBWQ"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 216840,
+      "name": "Destination Unknown",
+      "url": "https://open.spotify.com/track/0QyMDyosGai50pjaFbC1NO"
     },
     {
       "album": {
@@ -1417,7 +1471,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 232400,
       "name": "It's My Life - 1997 Remaster",
       "url": "https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ"
@@ -1640,6 +1694,24 @@
     },
     {
       "album": {
+        "name": "I Could Live In Hope",
+        "url": "https://open.spotify.com/album/61dByu8oBt4qdym9Rkz39w"
+      },
+      "artists": [
+        {
+          "name": "Low",
+          "url": "https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 589106,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/1De66xUavye2fNqhCwtgyo"
+    },
+    {
+      "album": {
         "name": "Lust For Life",
         "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
       },
@@ -1709,6 +1781,24 @@
       "duration_ms": 645000,
       "name": "Marquee Moon - 2003 Remaster",
       "url": "https://open.spotify.com/track/3MWdMCAIFPzcIUdiEi8Pao"
+    },
+    {
+      "album": {
+        "name": "Call Of The West",
+        "url": "https://open.spotify.com/album/26Gb3ewRSm2zgEpmwowvDj"
+      },
+      "artists": [
+        {
+          "name": "Wall Of Voodoo",
+          "url": "https://open.spotify.com/artist/6zPcUezmkw9aGjoRlBxYxw"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 248866,
+      "name": "Mexican Radio",
+      "url": "https://open.spotify.com/track/1BtOAYgTkPnv1KRcLHqyxO"
     },
     {
       "album": {
@@ -2159,10 +2249,28 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-16",
       "duration_ms": 320413,
       "name": "Rip It Up",
       "url": "https://open.spotify.com/track/1eamsmwcYYhJwTgMFdQ6YN"
+    },
+    {
+      "album": {
+        "name": "Rip It Up",
+        "url": "https://open.spotify.com/album/0kyKdRPKFDn8cATzWkFAsO"
+      },
+      "artists": [
+        {
+          "name": "Orange Juice",
+          "url": "https://open.spotify.com/artist/2u7xZP39dtED9EuRX9MUwu"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320413,
+      "name": "Rip It Up",
+      "url": "https://open.spotify.com/track/7y4CtoXHFbs8VgcqbaYb9P"
     },
     {
       "album": {
@@ -2184,7 +2292,7 @@
     },
     {
       "album": {
-        "name": "The Modern Lovers",
+        "name": "The Modern Lovers (Expanded Version)",
         "url": "https://open.spotify.com/album/5BPCP7WSGBG4br2o4WRmd8"
       },
       "artists": [
@@ -2339,7 +2447,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-23",
+      "date_removed": "2022-11-14",
       "duration_ms": 227866,
       "name": "Space Age Love Song",
       "url": "https://open.spotify.com/track/0xzn2U71zNWLeJbE4Zat4C"
@@ -2357,7 +2465,7 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-14",
       "duration_ms": 340186,
       "name": "Start Choppin'",
       "url": "https://open.spotify.com/track/7yThIhNzpgDBIGoL2y1y6u"
@@ -2559,6 +2667,24 @@
       "duration_ms": 220093,
       "name": "The Lovecats",
       "url": "https://open.spotify.com/track/5GHwCpwEos0FzYe55slXEp"
+    },
+    {
+      "album": {
+        "name": "Japanese Whispers",
+        "url": "https://open.spotify.com/album/6fFTxlpJPGQbO3CbVz9MOS"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 220093,
+      "name": "The Lovecats",
+      "url": "https://open.spotify.com/track/5rzr3lYGJiw3OXEg8imWgH"
     },
     {
       "album": {
@@ -2811,6 +2937,24 @@
       "duration_ms": 253960,
       "name": "Walk on the Wild Side",
       "url": "https://open.spotify.com/track/0EFEkt29P7Icr7dO4vN6yk"
+    },
+    {
+      "album": {
+        "name": "L'\u00e9t\u00e9 au calme : Chill 2022 hits",
+        "url": "https://open.spotify.com/album/0HCbRJGrvEyYxMTbqJFQOG"
+      },
+      "artists": [
+        {
+          "name": "Lou Reed",
+          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 253960,
+      "name": "Walk On the Wild Side",
+      "url": "https://open.spotify.com/track/0rhtHBFuEfAJ6s35Dk7aCA"
     },
     {
       "album": {

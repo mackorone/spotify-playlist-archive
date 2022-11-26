@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXa2ShUct1Fm.md) - [plain]
 
 > Say the name, Seventeen! Carats, get ready to slip into the diamond life with your 13 shining diamonds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 622,955 likes - 141 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 638,759 likes - 141 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [As It Was \- Spotify Singles](https://open.spotify.com/track/1lUNlmwyhsJy6kXmmrO11t) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [As It Was \- Spotify Singles](https://open.spotify.com/album/53TYhJdqLF6eU5GbYZezTB) | 2:39 |
-| 2 | [LIMBO \(Korean Version\)](https://open.spotify.com/track/54p6HYutzI4V4aXN0UiJ8n) | [文俊辉](https://open.spotify.com/artist/38Gn0ZVC8TQwuaMxBK1yRV) | [LIMBO](https://open.spotify.com/album/29gF3Vhnhbl33dNe9VPRkJ) | 3:10 |
+| 2 | [LIMBO \(Korean Version\)](https://open.spotify.com/track/54p6HYutzI4V4aXN0UiJ8n) | [JUN](https://open.spotify.com/artist/38Gn0ZVC8TQwuaMxBK1yRV) | [LIMBO](https://open.spotify.com/album/29gF3Vhnhbl33dNe9VPRkJ) | 3:10 |
 | 3 | [\_WORLD](https://open.spotify.com/track/2kDrUAONMhG6CbDGBkhdrY) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [\_WORLD](https://open.spotify.com/album/63oE2Ew3Mud2Md9TXBjeKw) | 2:58 |
 | 4 | [CHEERS](https://open.spotify.com/track/1pdFdv8R6ezIAUUNkn785b) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album Repackage 'SECTOR 17'](https://open.spotify.com/album/15pRJdCJtDyzQaY9tGs750) | 3:01 |
 | 5 | [Circles](https://open.spotify.com/track/6rurduYegrf5XSZrphuyF2) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album Repackage 'SECTOR 17'](https://open.spotify.com/album/15pRJdCJtDyzQaY9tGs750) | 3:59 |
@@ -78,14 +78,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXa2ShUct1Fm.md) - [plain]
 | 68 | [Fearless](https://open.spotify.com/track/1bhuTWST1TYIVdrsEaQDKa) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Heng:garæ](https://open.spotify.com/album/3q6lN3kfsDgGaQUC7kVASH) | 3:14 |
 | 69 | [BOOMBOOM](https://open.spotify.com/track/0pWxUlYb3EM2WkcTJfwBdP) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Seventeen 3rd Mini Album ’Going Seventeen’](https://open.spotify.com/album/3wXGFboFgcK9ezbPuSrKk9) | 3:26 |
 | 70 | [Holiday](https://open.spotify.com/track/6BrBfpzwv7ovcXVaZrULuJ) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5TH MINI ALBUM 'YOU MAKE MY DAY'](https://open.spotify.com/album/7ayq6V3xwXGOScUqhvIyFl) | 3:25 |
-| 71 | [寂寞号登机口](https://open.spotify.com/track/0fSuP4hMUK1CqDAYV62BHF) | [JUN](https://open.spotify.com/artist/6xxsyp7JOU7nqENtLBuaBM) | [寂寞号登机口](https://open.spotify.com/album/4h6gy2C01BXJWsD3KuZFod) | 3:58 |
+| 71 | [寂寞号登机口](https://open.spotify.com/track/0fSuP4hMUK1CqDAYV62BHF) | [JUN](https://open.spotify.com/artist/38Gn0ZVC8TQwuaMxBK1yRV) | [寂寞号登机口](https://open.spotify.com/album/4h6gy2C01BXJWsD3KuZFod) | 3:58 |
 | 72 | [17 \(feat\. Joshua and DK of SEVENTEEN\)](https://open.spotify.com/track/5SifNhmUO8iSEoWFQU8kxH) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [17 \(feat\. Joshua and DK of SEVENTEEN\)](https://open.spotify.com/album/7mzdXVXYiXgZEuj3zMspDs) | 2:40 |
 | 73 | [I Wish](https://open.spotify.com/track/3YtIeHuvBXkJAyv3twOYCC) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Heng:garæ](https://open.spotify.com/album/3q6lN3kfsDgGaQUC7kVASH) | 3:53 |
 | 74 | [Hug](https://open.spotify.com/track/5ZQFP6rsYhNaFuQNaoTzgV) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 6TH MINI ALBUM 'YOU MADE MY DAWN'](https://open.spotify.com/album/1Or4crj0DlitdTRp36TjnT) | 2:39 |
 | 75 | [Just do it](https://open.spotify.com/track/57ITlzpnOMkSE6oHGbvTqi) | [BSS](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t) | [BSS Digital Single 'Just do it'](https://open.spotify.com/album/7cL58mAH0Cs8giOqRNEjQP) | 3:21 |
 | 76 | [Lie Again](https://open.spotify.com/track/5uUK45snr9SPeUuI2aubcF) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [An Ode](https://open.spotify.com/album/5HlxNTQpJb7buoWIRS4M7T) | 3:20 |
 | 77 | [TRAUMA](https://open.spotify.com/track/6MEsfQJ5ZpO1WozVfsVDzZ) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 2ND ALBUM 'TEEN, AGE' \(2\)](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) | 3:33 |
-| 78 | [乌鸦](https://open.spotify.com/track/6b8uuOryGyZt9K3ELL3TjB) | [JUN](https://open.spotify.com/artist/6xxsyp7JOU7nqENtLBuaBM) | [寂寞号登机口](https://open.spotify.com/album/4h6gy2C01BXJWsD3KuZFod) | 5:02 |
+| 78 | [乌鸦](https://open.spotify.com/track/6b8uuOryGyZt9K3ELL3TjB) | [JUN](https://open.spotify.com/artist/38Gn0ZVC8TQwuaMxBK1yRV) | [寂寞号登机口](https://open.spotify.com/album/4h6gy2C01BXJWsD3KuZFod) | 5:02 |
 | 79 | [Q&A](https://open.spotify.com/track/1pHCzbRvRFg59Kvc7WHckN) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH), [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Q&A](https://open.spotify.com/album/4qpCDSbJiez1wPcplEv2ET) | 3:40 |
 | 80 | [9\-TEEN](https://open.spotify.com/track/5G5MW3CIQ26AV08Yl7UV6m) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [A\-TEEN2 Part.2](https://open.spotify.com/album/3U2CtLGvuiukljwO8rPoVk) | 3:17 |
 | 81 | [Pinwheel](https://open.spotify.com/track/2NvrIHgujKttUQyx2uUMY9) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 2ND ALBUM 'TEEN, AGE' \(2\)](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) | 3:39 |
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXa2ShUct1Fm.md) - [plain]
 | 99 | [BRING IT](https://open.spotify.com/track/047A83COIzAFLcZKLz20MP) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 2ND ALBUM 'TEEN, AGE' \(2\)](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) | 3:31 |
 | 100 | [MY I](https://open.spotify.com/track/0y3KqHpaqKhkHMM50HTeQy) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Mini Album ‘Al1’](https://open.spotify.com/album/2BNimvLLlD89e4Sb7ZVX6I) | 3:04 |
 | 101 | [Smile Flower](https://open.spotify.com/track/054sQZ2qmw0Ya7N0XSxl3j) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Seventeen 3rd Mini Album ’Going Seventeen’](https://open.spotify.com/album/3wXGFboFgcK9ezbPuSrKk9) | 3:52 |
-| 102 | [Dream \- 电视剧《永远的主君》原声音乐](https://open.spotify.com/track/2FpI3GCkEQOT40yuAvMj7r) | [JUN](https://open.spotify.com/artist/6xxsyp7JOU7nqENtLBuaBM) | [Dream \(电视剧《永远的主君》原声音乐\)](https://open.spotify.com/album/6uZJqScXXaPx8gElI3nMzJ) | 4:03 |
+| 102 | [Dream \- 电视剧《永远的主君》原声音乐](https://open.spotify.com/track/2FpI3GCkEQOT40yuAvMj7r) | [JUN](https://open.spotify.com/artist/38Gn0ZVC8TQwuaMxBK1yRV) | [Dream \(电视剧《永远的主君》原声音乐\)](https://open.spotify.com/album/6uZJqScXXaPx8gElI3nMzJ) | 4:03 |
 | 103 | [Swimming Fool](https://open.spotify.com/track/0WdLp00HrAgjldOqFTpqb5) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Mini Album ‘Al1’](https://open.spotify.com/album/2BNimvLLlD89e4Sb7ZVX6I) | 3:07 |
 | 104 | [When I Grow up](https://open.spotify.com/track/6Cnzpz5iL9MhyDbco7YvOX) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 2nd Mini Album ‘BOYS BE’](https://open.spotify.com/album/18aXrsD7zdPD6NSIfdwExD) | 3:22 |
 | 105 | [247](https://open.spotify.com/track/1FlIEnP3DdFgeP3dhVfNZf) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [An Ode](https://open.spotify.com/album/5HlxNTQpJb7buoWIRS4M7T) | 3:33 |

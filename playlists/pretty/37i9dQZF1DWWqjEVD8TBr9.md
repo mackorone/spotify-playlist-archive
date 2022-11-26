@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqjEVD8TBr9.md) - [plain]
 
 > Stray Kids everywhere all around the world\. You make Stray Kids STAY\. 1\-4\-3, I LOVE YOU!
 
-[Spotify](https://open.spotify.com/user/spotify) - 765,523 likes - 115 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 800,636 likes - 115 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

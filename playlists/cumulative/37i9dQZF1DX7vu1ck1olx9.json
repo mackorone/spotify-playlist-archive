@@ -218,6 +218,24 @@
     },
     {
       "album": {
+        "name": "Bing Bong",
+        "url": "https://open.spotify.com/album/09IebgiVmovUCMx7RcyFWT"
+      },
+      "artists": [
+        {
+          "name": "Augie Haas",
+          "url": "https://open.spotify.com/artist/50v2Fx8C58QLYGRXQtPpZh"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116994,
+      "name": "Bing Bong",
+      "url": "https://open.spotify.com/track/6ZZ3aexUFYKMTlrvGqM9mO"
+    },
+    {
+      "album": {
         "name": "Online Mall Music",
         "url": "https://open.spotify.com/album/38Ke6rGw4tcEqOXXpzEDxt"
       },
@@ -283,7 +301,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 157605,
       "name": "blue haze",
       "url": "https://open.spotify.com/track/5465onzVgsFEbvIylMC0Cc"
@@ -301,10 +319,28 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 116119,
       "name": "blueberry",
       "url": "https://open.spotify.com/track/4yMZBub2nvvB75dKx6W259"
+    },
+    {
+      "album": {
+        "name": "late night bumps, Vol. 4",
+        "url": "https://open.spotify.com/album/6pRT23z9R7zEok9972HPgY"
+      },
+      "artists": [
+        {
+          "name": "bsd.u",
+          "url": "https://open.spotify.com/artist/5ng3zK89O4P9BHqLFwkcXn"
+        }
+      ],
+      "date_added": "2020-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116119,
+      "name": "blueberry",
+      "url": "https://open.spotify.com/track/5tNzLWnbpR7tpW0zdN5TCE"
     },
     {
       "album": {
@@ -517,7 +553,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 115182,
       "name": "Colorful Skies",
       "url": "https://open.spotify.com/track/61hUoJIBc5m8a1YHu15ln9"
@@ -579,6 +615,24 @@
       "duration_ms": 122758,
       "name": "Devine",
       "url": "https://open.spotify.com/track/2UAZ0GqmyRh5O3A17FOlOy"
+    },
+    {
+      "album": {
+        "name": "Chillhop Essentials Winter 2017",
+        "url": "https://open.spotify.com/album/0Gec7sa8MPlj5cW9JbqwEl"
+      },
+      "artists": [
+        {
+          "name": "B-Side",
+          "url": "https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O"
+        }
+      ],
+      "date_added": "2020-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190710,
+      "name": "Dignity",
+      "url": "https://open.spotify.com/track/3KdWOfRqIwRzDxuhw1vKzW"
     },
     {
       "album": {
@@ -676,6 +730,24 @@
     },
     {
       "album": {
+        "name": "Meditation",
+        "url": "https://open.spotify.com/album/45vmwHPfY2GXUo098coEyg"
+      },
+      "artists": [
+        {
+          "name": "Jinsang",
+          "url": "https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt"
+        }
+      ],
+      "date_added": "2020-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130677,
+      "name": "Egyptian Pools",
+      "url": "https://open.spotify.com/track/0apbliJUvsg6R6l126454r"
+    },
+    {
+      "album": {
         "name": "Meditation - EP",
         "url": "https://open.spotify.com/album/4MM8YcaIHyXwHBRDmCIzIx"
       },
@@ -687,7 +759,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 130677,
       "name": "Egyptian Pools",
       "url": "https://open.spotify.com/track/3CFS6vCzVVsWL5veYusCe7"
@@ -825,10 +897,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 139805,
       "name": "Goiaba",
       "url": "https://open.spotify.com/track/4KCGYOHGExcKUlFkNajeVO"
+    },
+    {
+      "album": {
+        "name": "Goiaba",
+        "url": "https://open.spotify.com/album/7AeffHlBxwhazA5z5WikxD"
+      },
+      "artists": [
+        {
+          "name": "Oaty.",
+          "url": "https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139805,
+      "name": "Goiaba",
+      "url": "https://open.spotify.com/track/6nE6Gdm1JlMSS3mFfW2158"
     },
     {
       "album": {
@@ -1073,7 +1163,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 210739,
       "name": "Hippocamp",
       "url": "https://open.spotify.com/track/0uKrR91NAfDAcwCE9M2gSY"
@@ -1127,7 +1217,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": null,
       "duration_ms": 98778,
       "name": "If It Moves",
       "url": "https://open.spotify.com/track/146q2OSfFlvk9VBKTKR2Ms"
@@ -1393,7 +1483,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 153253,
       "name": "Memories",
       "url": "https://open.spotify.com/track/4yAeHq13tReDL6rM6dbTc3"
@@ -1621,7 +1711,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-10",
+      "date_removed": null,
       "duration_ms": 184615,
       "name": "NightSky",
       "url": "https://open.spotify.com/track/5fpsn9LdAGXQbZcOwTs0WV"
@@ -1639,7 +1729,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": "2022-11-21",
       "duration_ms": 132000,
       "name": "Nuz An Tara",
       "url": "https://open.spotify.com/track/60ka7YNcrwXJOqxdgmytaz"
@@ -1733,7 +1823,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 153333,
       "name": "Pixels",
       "url": "https://open.spotify.com/track/3PFwq96cMjf99GqGGlXX5W"
@@ -1995,10 +2085,28 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 95921,
       "name": "Smoking at Midnight",
       "url": "https://open.spotify.com/track/5t9xjVR1jxhgIiutBVARQb"
+    },
+    {
+      "album": {
+        "name": "Harbor",
+        "url": "https://open.spotify.com/album/5HpYucXuCE8s379dUfpe3v"
+      },
+      "artists": [
+        {
+          "name": "Tomppabeats",
+          "url": "https://open.spotify.com/artist/0Q2Tc5yZFJpumLMc7Yz4e4"
+        }
+      ],
+      "date_added": "2020-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95921,
+      "name": "Smoking at Midnight",
+      "url": "https://open.spotify.com/track/69r4VkTUiqOlcDN6ZbsblI"
     },
     {
       "album": {
@@ -2035,7 +2143,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 141773,
       "name": "Solst\u00e5nd",
       "url": "https://open.spotify.com/track/28zf41FR9YbGLN2sXnl0S9"
@@ -2097,7 +2205,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-26",
       "duration_ms": 118518,
       "name": "Sonar",
       "url": "https://open.spotify.com/track/2WqVy95w7d9XloMp9zUsjG"
@@ -2193,7 +2301,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 144000,
       "name": "Spirits",
       "url": "https://open.spotify.com/track/5NZcq9i9Ni9NXMXYVy3fnK"
@@ -2489,7 +2597,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 150507,
       "name": "The Soul of Things",
       "url": "https://open.spotify.com/track/43bu6Gf4x8MWZYfrTLxL7d"

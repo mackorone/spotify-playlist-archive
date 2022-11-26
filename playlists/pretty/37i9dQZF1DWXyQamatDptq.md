@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXyQamatDptq.md) - [plain]
 
 > The master in blending R&B, Soul, and Dance Music <a href=“spotify:artist:43UmVQp9qZILibJ5vHq21k”>Austin Millz</a>, brings a colorful DJ mix to bright up your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,133 likes - 24 songs - 59 min 23 sec
+[Spotify](https://open.spotify.com/user/spotify) - 19,374 likes - 24 songs - 59 min 23 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXyQamatDptq.md) - [plain]
 | 13 | [Be with U 2.0 \(feat\. Dajae\) \- Mixed](https://open.spotify.com/track/2qUzTwDxN65sQNzF23Jxar) | [Junior Sanchez](https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni), [Dajae](https://open.spotify.com/artist/79Gg0tmzETfnVrOUjgXPeE) | [Be with U 2.0 \(feat\. Dajae\) \[Mixed\]](https://open.spotify.com/album/3VudNkXotiGaQ8s06Ht4Z6) | 1:28 |
 | 14 | [Warrior \- Austin Millz Remix \- Mixed](https://open.spotify.com/track/63lhjfinQgPuDdZqxcFZPe) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k) | [Warrior \- Austin Millz Remix \(Mixed\)](https://open.spotify.com/album/2u8QwAxfLtoPC5F0Q7jUfV) | 2:56 |
 | 15 | [The Way It Goes \(Track 1\) \- Mixed](https://open.spotify.com/track/3xjWcUweUZPTTGLeXG8Efl) | [Troy Denari](https://open.spotify.com/artist/2cNKz5QJgfclP9Ay7Okghv), [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W) | [The Way It Goes \(Track 1\) \[Mixed\]](https://open.spotify.com/album/4k9o5wrogwQg60gz5hJwXA) | 1:54 |
-| 16 | [D.Y.T\. \(Do Your Thing\) \- Mixed](https://open.spotify.com/track/2uUgoo5vYmnGvzBd9KXnVT) | [REMMI](https://open.spotify.com/artist/14eQOEJwQwEFzqlaXuSMjf), [NVDES](https://open.spotify.com/artist/5L6tkH3jDmFBX9dYdFFQXy) | [D.Y.T\. \(Do Your Thing\) \[Mixed\]](https://open.spotify.com/album/35k8hoB8wlI1zW1oyB1LYi) | 1:46 |
+| 16 | [D.Y.T\. \(Do Your Thing\) \- Mixed](https://open.spotify.com/track/1DvbTmm50bBCPuNT4yGX8i) | [REMMI](https://open.spotify.com/artist/14eQOEJwQwEFzqlaXuSMjf), [NVDES](https://open.spotify.com/artist/5L6tkH3jDmFBX9dYdFFQXy) | [D.Y.T\. \(Do Your Thing\) \[Mixed\]](https://open.spotify.com/album/1pMz7l4e7ZoYS3JIStD6mB) | 1:46 |
 | 17 | [Get Loose \- Mixed](https://open.spotify.com/track/4jiykYCH2Qb0vHePrzV6tw) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Get Loose \(Mixed\)](https://open.spotify.com/album/7fOaPAEyUYpg0rxPNNlpZv) | 3:01 |
 | 18 | [How Long Have You Been Away? \- Mixed](https://open.spotify.com/track/5SzWta7Hoz4lXLndEbJOib) | [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [How Long Have You Been Away? \(Mixed\)](https://open.spotify.com/album/45SQNP2ynYJwDE92LV4heR) | 1:32 |
 | 19 | [THE JUNGLE VIP \- Mixed](https://open.spotify.com/track/5VsnNfGRROhg8qhFbQn2WO) | [TREASURE SERIES](https://open.spotify.com/artist/5kcocqSSO8W0rpoNjuzXU1) | [THE JUNGLE VIP \(Mixed\)](https://open.spotify.com/album/6z33XUqDIPl5nscbp0lSI1) | 1:09 |
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXyQamatDptq.md) - [plain]
 | 23 | [Ride \- Mixed](https://open.spotify.com/track/7ffdDoyugMNyplWKXNY2px) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Ori Rose](https://open.spotify.com/artist/3MWVJObrsu2HA6XGO1sTdn) | [Ride \(Mixed\)](https://open.spotify.com/album/7dtFnjxB5o9la4oWSc595H) | 2:50 |
 | 24 | [No Sleep Til MTL \- Mixed](https://open.spotify.com/track/4ucoiL4jKdF1aMW6UQP615) | [Potatohead People](https://open.spotify.com/artist/2lmWYYMM80tsoDES4aUB1m) | [No Sleep Til MTL \(Mixed\)](https://open.spotify.com/album/6ZxeYA3nBnZGckdncnC5yu) | 5:02 |
 
-Snapshot ID: `MTY2MDY2MDg3MywwMDAwMDAwMGI2NmJhOTU0Y2MwZGVhZGYxYjFjNDY3N2MwYzhhYWFk`
+Snapshot ID: `MTY2NzE4ODgwMCwwMDAwMDAwMGU0ODY2MDU5OWFjMDZiMjRiM2E2MTk3YTg1NGNmODc1`

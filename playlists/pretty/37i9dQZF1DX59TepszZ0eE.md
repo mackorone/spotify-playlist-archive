@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2?si=30kKyVSiQHO0XN\_Fsd07xA">Benjamin Dube</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,930 likes - 75 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,662 likes - 75 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 41 | [Sewakhile](https://open.spotify.com/track/6SPsSZsCkUpP2IzUpIoMvT) | [Hlengiwe Mhlaba](https://open.spotify.com/artist/2TO6SX9weMc5ZT6FdJdpJI) | [Greatest Hits](https://open.spotify.com/album/1zj2POKS3mxCWamZPlJcWZ) | 4:42 |
 | 42 | [He Brought Me This Far](https://open.spotify.com/track/768aDfYOtuztbTQvPOQitB) | [Sipho Makhabane](https://open.spotify.com/artist/5sFc16mtmgH8IiVYtJ2rF2) | [Ebenezer](https://open.spotify.com/album/3YmVRVznUow3ci23VqyVel) | 6:24 |
 | 43 | [Mkhulumsebenzi](https://open.spotify.com/track/49kdVsVi2XuVxEnPHdwxnk) | [Khaya Mthethwa](https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ), [Oasis Worship](https://open.spotify.com/artist/7ayajVitzTv40GuERpcE72) | [All About Jesus](https://open.spotify.com/album/2gkN4HGwahDA9X52GFzwrx) | 5:01 |
-| 44 | [Yiwo Lawa Amandla \- Live](https://open.spotify.com/track/55jg7cLwPqviukIJ5l9Jg5) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2), [Mandla Tshabalala](https://open.spotify.com/artist/5WjrNT5ivnPHMPMPowIFFm), [House of Grace Choir](https://open.spotify.com/artist/16EVGD7dtcBHbkDPS1oItu) | [Victorious in His Presence \(Live\)](https://open.spotify.com/album/4QykhBdI1H5g8dUYjmTBz0) | 8:28 |
+| 44 | [Yiwo Lawa Amandla \- Live](https://open.spotify.com/track/1mWlPrcAYTvCh6VDMojZzd) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2), [House Of Grace Choir](https://open.spotify.com/artist/1Sw3A0R9do7yUylw4Y3w92), [Mandla Tshabalala](https://open.spotify.com/artist/5WjrNT5ivnPHMPMPowIFFm) | [Victorious in His Presence](https://open.spotify.com/album/3f4jEnTgYErjDKNdmYtBWP) | 8:28 |
 | 45 | [UnguJehova Igama Lakho \(Live\)](https://open.spotify.com/track/2GrEouhLr4QoieMsy1LD8u) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Canaan Nyathi](https://open.spotify.com/artist/0uHPS5R6XE3KH8PDliv333) | [UnguJehova Igama Lakho \(Live\)](https://open.spotify.com/album/3NbtHoVq45LvFW1yS9Tjzn) | 7:14 |
 | 46 | [Jehova Retshepile Wena \- Live](https://open.spotify.com/track/41VfsXDe70EMrh0j4aLnuM) | [Neyi Zimu](https://open.spotify.com/artist/0N6QkCxUjse1zelEGozglt) | [Another Level of Worship \(Live\)](https://open.spotify.com/album/1IjS2iFryRCTlyUbG20PGX) | 5:41 |
 | 47 | [Ulwandle](https://open.spotify.com/track/6ilg9EOG5RkRtHxjiUQwSZ) | [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Egameni LikaJesu](https://open.spotify.com/album/5GyAo0sFpDRvvkXH7xT35R) | 4:16 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 69 | [Thina Ngemihla \(Live\)](https://open.spotify.com/track/1tNsMLoMNn06Qf37fcDfwH) | [Teboho Moloi](https://open.spotify.com/artist/3LmjTfyNxwbzwXJoQkhQp0) | [Atamelang Ho Jehova \(Live\)](https://open.spotify.com/album/6Jg7TeqC6VyWcvCX9jYJnD) | 7:44 |
 | 70 | [Ungikhathalele](https://open.spotify.com/track/6C6oM5DpJaeq2wyzQHAVRX) | [Jumbo](https://open.spotify.com/artist/3WsA13hdiZ1K7NwjemXvz9) | [Ungikhathalele](https://open.spotify.com/album/24bzMduuwBDsGtapX9lqnG) | 5:06 |
 | 71 | [You Are \- Live](https://open.spotify.com/track/6Ez80l5EUlu2DrjsNdxLTo) | [HLE](https://open.spotify.com/artist/7bSO8mze1FilCh2kZimKLD) | [You Are \(Live\)](https://open.spotify.com/album/7dw3lt5NxWooPoTPJBi1es) | 6:37 |
-| 72 | [You Fight for Me](https://open.spotify.com/track/0u7YkWTgB1r4jFRo15LivX) | [Mahalia Buchanan](https://open.spotify.com/artist/77Usu1sGRDkXT40F6f14XC) | [You Fight for Me](https://open.spotify.com/album/3skHw4wyk7wifVBsMpkasj) | 4:39 |
+| 72 | [You Fight for Me](https://open.spotify.com/track/0CxIQOBPmOqPrKyspAc78m) | [Mahalia Buchanan](https://open.spotify.com/artist/77Usu1sGRDkXT40F6f14XC) | [You Fight for Me](https://open.spotify.com/album/1QbjMiY42plzk741oVrGS6) | 4:39 |
 | 73 | [Moya Ka Jehovah \- Live](https://open.spotify.com/track/4Y2RXhp12YudM5bRtdw4rY) | [Jabu Hlongwane](https://open.spotify.com/artist/7DPMhjzvIdLdtZfElG1vzf) | [Crosspower Experience 3 \(Live\)](https://open.spotify.com/album/5wHtxMh4PMD0uqONkrhGfm) | 6:56 |
 | 74 | [The Lord Is My Sheperd](https://open.spotify.com/track/1a4rMlkfKsKxIgtJkeXI99) | [Kgotso](https://open.spotify.com/artist/6OouFsAAeqVai70CLp8v0H) | [The Lord Is My Sheperd](https://open.spotify.com/album/4Q325PCLn40PKPLMQzgSS0) | 4:56 |
 | 75 | [Ziphozenkosi](https://open.spotify.com/track/0O2e0WCYO5RUZxKxaALIdt) | [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Ziphozenkosi](https://open.spotify.com/album/0h7idd5vUsENqPdcgF8lpx) | 4:52 |
 
-Snapshot ID: `MTY2Mzg4Mzk0MCwwMDAwMDAwMGQ2MjQzNTQzZjg1NzUxMzY5MGJhZDUxZTc4MWZhNTIz`
+Snapshot ID: `MTY2Mzg4Mzk0MCwwMDAwMDAwMDM5ZjkyOWFhZWQ0ZDI3MzU0MTE3YTM3MzFhZmJkODRh`

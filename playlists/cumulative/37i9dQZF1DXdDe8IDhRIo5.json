@@ -200,6 +200,24 @@
     },
     {
       "album": {
+        "name": "Generation Django",
+        "url": "https://open.spotify.com/album/6NBPxHPAuFKtpEOnBwC7ru"
+      },
+      "artists": [
+        {
+          "name": "Dorado Schmitt",
+          "url": "https://open.spotify.com/artist/7aWOYLUnhaq2h9ZbIHMJbH"
+        }
+      ],
+      "date_added": "2021-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 150693,
+      "name": "Bleu Citron",
+      "url": "https://open.spotify.com/track/4E1Y6ViVZgUGT9VfYJeu1E"
+    },
+    {
+      "album": {
         "name": "Family",
         "url": "https://open.spotify.com/album/5v7GXGOc7A343BupHvvucS"
       },
@@ -1497,6 +1515,28 @@
       "duration_ms": 249893,
       "name": "So What",
       "url": "https://open.spotify.com/track/0Xjw40EraBvcZJy9uI4iGl"
+    },
+    {
+      "album": {
+        "name": "Dreyfus Jazz Club: In the Mood of... Miles",
+        "url": "https://open.spotify.com/album/1lalwbHB3KsXVRIfn0sAve"
+      },
+      "artists": [
+        {
+          "name": "Bir\u00e9li Lagr\u00e8ne",
+          "url": "https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS"
+        },
+        {
+          "name": "Sylvain Luc",
+          "url": "https://open.spotify.com/artist/2dXI8YsDDZSD3HgoNUvilF"
+        }
+      ],
+      "date_added": "2021-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 249893,
+      "name": "So What",
+      "url": "https://open.spotify.com/track/7FdobqGYDzI6RSwxxMiSGe"
     },
     {
       "album": {

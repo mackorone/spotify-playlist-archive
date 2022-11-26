@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 128106,
       "name": "Ando Buscando un Amor",
       "url": "https://open.spotify.com/track/0ksbIDHroMobXN8Z0IiZ3I"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": "2022-10-13",
       "duration_ms": 161453,
       "name": "Chivo Chivon Chivito",
       "url": "https://open.spotify.com/track/41eQTl3PY9oNhOojrHZOr8"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2022-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-11-21",
       "duration_ms": 178840,
       "name": "Corrido de Chihuhua Sonora Querida",
       "url": "https://open.spotify.com/track/4nxrWWGSI4V03zjUT7ds8Q"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 232706,
       "name": "Cumbia Opera",
       "url": "https://open.spotify.com/track/76K2mVFJFLpKajgYLAdnmp"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": "2022-11-09",
       "duration_ms": 206880,
       "name": "El Cantador - Estilo Tierra Caliente",
       "url": "https://open.spotify.com/track/7Fjs5cOOmfvARZF2BlCXlX"
@@ -401,7 +401,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 198280,
       "name": "El Gavilan",
       "url": "https://open.spotify.com/track/3UYUgdnBCbK8jgTKExNy1E"
@@ -556,6 +556,24 @@
     },
     {
       "album": {
+        "name": "Corridos y Canciones",
+        "url": "https://open.spotify.com/album/0PYwmrtNkESu3DPBZ6fVcZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 140920,
+      "name": "El Remedio - Estilo Tierra Caliente",
+      "url": "https://open.spotify.com/track/6YyvKw9HikBVMcPhWLeQB7"
+    },
+    {
+      "album": {
         "name": "Mano a Mano y Quebrando",
         "url": "https://open.spotify.com/album/4MjTnuBtgySGCo530kj4QH"
       },
@@ -567,7 +585,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 232333,
       "name": "El Soltero",
       "url": "https://open.spotify.com/track/0nlIQu9TT46KA47Z4eEQv0"
@@ -589,7 +607,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 147146,
       "name": "El Toro Zacatecano - Banda Sinaloense",
       "url": "https://open.spotify.com/track/5sV57YmR6NT8VvJm2vGvjg"
@@ -776,6 +794,28 @@
     },
     {
       "album": {
+        "name": "Exitos de Rigo Tovar Con Banda",
+        "url": "https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        },
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "La Tijanita",
+      "url": "https://open.spotify.com/track/4u0Tk3GBHUpJOt80xT6wBY"
+    },
+    {
+      "album": {
         "name": "Cantando a Mexico",
         "url": "https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw"
       },
@@ -791,6 +831,28 @@
       "duration_ms": 195760,
       "name": "La Tiznada",
       "url": "https://open.spotify.com/track/5lORVjqvmOmgsd3MvplIW2"
+    },
+    {
+      "album": {
+        "name": "Exitos de Rigo Tovar Con Banda",
+        "url": "https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        },
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "date_added": "2022-11-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-22",
+      "duration_ms": 188426,
+      "name": "Lamento de Amor",
+      "url": "https://open.spotify.com/track/5ohsnDhQ6NmFmkcvv90Gdc"
     },
     {
       "album": {
@@ -931,7 +993,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-10-14",
       "duration_ms": 195946,
       "name": "Me Rio de Miedo",
       "url": "https://open.spotify.com/track/6WyCpcJaffr4lE9dmw0CiE"
@@ -993,7 +1055,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-31",
+      "date_removed": null,
       "duration_ms": 164733,
       "name": "Mi Matamoros Querido",
       "url": "https://open.spotify.com/track/5nZpxQ5za8QNYALVpcBZip"
@@ -1033,6 +1095,50 @@
       "duration_ms": 226746,
       "name": "No Voy a Llorar",
       "url": "https://open.spotify.com/track/6ysKjVlwaJgsVznDOskvo1"
+    },
+    {
+      "album": {
+        "name": "Exitos de Rigo Tovar Con Banda",
+        "url": "https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        },
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155026,
+      "name": "Noches Eternas",
+      "url": "https://open.spotify.com/track/0hjeEnYSntYGl9yQysqBv4"
+    },
+    {
+      "album": {
+        "name": "Exitos de Rigo Tovar Con Banda",
+        "url": "https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        },
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "Oh Que Gusto de Volverte a Ver",
+      "url": "https://open.spotify.com/track/0zXRMVV7s4TUaJieLZjrXE"
     },
     {
       "album": {
@@ -1119,7 +1225,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": "2022-10-13",
       "duration_ms": 145213,
       "name": "Que Se Largue Pa la Porra",
       "url": "https://open.spotify.com/track/3q0veWQKp1DZkvNrqSW043"
@@ -1155,7 +1261,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 216880,
       "name": "Ritmo Sabroson",
       "url": "https://open.spotify.com/track/1scnMYXYTgyP0MqdBAUDwb"

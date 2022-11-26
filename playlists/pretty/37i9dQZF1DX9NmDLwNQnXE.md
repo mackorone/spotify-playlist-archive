@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmDLwNQnXE.md) - [plain]
 
 > Relax to the sound of a storm setting in.
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,155 likes - 339 songs - 15 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,325 likes - 339 songs - 15 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmDLwNQnXE.md) - [plain]
 | 81 | [Dreamy Rain](https://open.spotify.com/track/0oSU0oQ4xp3H6sMh1In9W8) | [Rainded](https://open.spotify.com/artist/0fHeyixPnac66k5oBPclVW) | [Skyscraps](https://open.spotify.com/album/6GsRwYmzOWbrMDXtBUmkCN) | 2:31 |
 | 82 | [Rain Again](https://open.spotify.com/track/6SoSVRemix7GmsZZusXXhY) | [Meryl Stream](https://open.spotify.com/artist/7wU4Xw4xqmBzfy2TIej8qa) | [Leaking Clouds](https://open.spotify.com/album/6vJEQDkD0nvKBuEgWiigVh) | 2:33 |
 | 83 | [Must've Been Rain](https://open.spotify.com/track/41bTkvV9Qcc8RuDRqJKjxn) | [rainstantly](https://open.spotify.com/artist/3NXDhMusg4ceknkaxvLxAQ) | [The Sky Makes](https://open.spotify.com/album/0LgA5aHfIe43tAmJ3Fl0Eh) | 2:33 |
-| 84 | [starlit rainfall](https://open.spotify.com/track/7gkwTHnQ1QxWcM6HDBOqXo) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [starlit rainfall](https://open.spotify.com/album/2sknFZDDYwy2o1zlnkg4iN) | 2:41 |
+| 84 | [starlit rainfall](https://open.spotify.com/track/7CLQUiUTBqBtjZHHkSVNuf) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [peaceful showers \(rain\)](https://open.spotify.com/album/5EmHKVBfrBkmHT4PlOd39x) | 2:41 |
 | 85 | [Sleepy Raindrops](https://open.spotify.com/track/01Mgf3GGm5oEzUcwPRHROa) | [Rain Rec.](https://open.spotify.com/artist/0EUOUMWVFwBTkjzcJrgQJQ) | [Reclining Rain](https://open.spotify.com/album/09GQWPwVu5vnqtis8Sm9Zv) | 3:28 |
 | 86 | [Pour les plantes](https://open.spotify.com/track/2AVtIevPCS58Q1GTyAq9Y9) | [Équipage ambiant](https://open.spotify.com/artist/2WI0t9L9e4wmhiV7HYp9BU) | [Pluie de l'aube](https://open.spotify.com/album/5qHpwTNP0pdOh57yKxSIMj) | 1:55 |
 | 87 | [Thunderclaps](https://open.spotify.com/track/4e0g5gfNw19IVhwSgPDsHc) | [WeatherBug](https://open.spotify.com/artist/0uU87nlGO0v4JcxS7tMPdB) | [A Storm Is Brewing](https://open.spotify.com/album/6fPAUNMUttiZ8pcEm2PdVy) | 2:33 |
@@ -348,4 +348,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmDLwNQnXE.md) - [plain]
 | 338 | [Pouring Rain And Thunder](https://open.spotify.com/track/6lZhsqlVmplDidqrUqCV8b) | [Berg & Sjo](https://open.spotify.com/artist/5DaWXcbvLdip9ADHVSwVVt) | [Ovader](https://open.spotify.com/album/3FFVMgDTGRlZNPWqj3TGwq) | 2:34 |
 | 339 | [Rainy Misty Skies](https://open.spotify.com/track/2l1jBfsyUWsD0NmHMEWtyd) | [Weather Factory](https://open.spotify.com/artist/1hzMcARZTayoVUZwkkiBUb) | [Afternoon Rainfall](https://open.spotify.com/album/5wiZUoAFlYkLnaDgH6qzUn) | 2:36 |
 
-Snapshot ID: `MTY1ODE1NjAyMCwwMDAwMDAwMGQ4ZDk1OTQ3MDViMTJkOTZkYTgzOGY3YzVmMDRlYWVk`
+Snapshot ID: `MTY2ODYxNjM5OSwwMDAwMDAwMDRhNTc5ZjZkMjAyZTQ0YjY2MTIxZTRjMTI3NDk2N2I0`

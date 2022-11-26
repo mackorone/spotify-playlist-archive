@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CrSNP0mzoZ.md) - [plain]
 
 > Sir George Martins most essential work, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,907 likes - 57 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,896 likes - 57 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CrSNP0mzoZ.md) - [plain]
 | 40 | [A Transport of Delight](https://open.spotify.com/track/0GBMO4Mz5wiu3PuJ3eJOEp) | [Flanders & Swann](https://open.spotify.com/artist/4AR9DghWVyZK6ylUPb8mLI) | [At The Drop Of A Hat](https://open.spotify.com/album/2xN1OtJUxzzOdWL6JPmel5) | 5:29 |
 | 41 | [Hymn \- 2009 Remaster](https://open.spotify.com/track/0lLjzzv1ZnzY3A5Wty3KLm) | [Ultravox](https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI) | [Quartet \(2009 Remaster\)](https://open.spotify.com/album/48e5bZFgvlWlVN8KVdaNON) | 5:49 |
 | 42 | [From Russia with Love \- Single Version](https://open.spotify.com/track/5dWu3rtTytLVDSkOkTaBVl) | [Matt Monro](https://open.spotify.com/artist/06kr5yNAM2rOf4DXemM8fl) | [Essential](https://open.spotify.com/album/4JDGHeK69u3Yosp8BvUFJh) | 2:35 |
-| 43 | [The Night Owls \- Remastered 2010](https://open.spotify.com/track/5L27knWQkVObPY0FbpyHvy) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [Time Exposure \(Remastered 2010\)](https://open.spotify.com/album/76BubGTTioRfDDSyzPpnVM) | 5:19 |
+| 43 | [The Night Owls \- Remastered 2022](https://open.spotify.com/track/1wayFI8Xz98U0rck9v47J7) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [Time Exposure \(Remastered 2022\)](https://open.spotify.com/album/3VzaX0xFHyhSWJoLtRwi8w) | 5:22 |
 | 44 | [Goodbye Pork Pie Hat](https://open.spotify.com/track/77wOpffkkQtZpdrvhPKbFq) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Wired](https://open.spotify.com/album/0vo9nZNFMaFASINLCzmzcU) | 5:30 |
 | 45 | [Fundamentally Yours](https://open.spotify.com/track/61aiIFxsOayP4NIU0azmsv) | [Stackridge](https://open.spotify.com/artist/3ZxLjJocCVjyyKQLJH8eEa) | [The Man In The Bowler Hat](https://open.spotify.com/album/4PuhrjdER0ER5pl8UKVT9e) | 2:36 |
 | 46 | [The Q5 Piano Tune \- 1999 Remaster](https://open.spotify.com/track/441uPVo2Y9U2ueJd2ykY5y) | [Spike Milligan](https://open.spotify.com/artist/59smYB2PiotsSFjH1cG3Bx) | [Legends Of The 20th Century](https://open.spotify.com/album/1u4PeoKA8JbkgtzOJ9qyNP) | 2:23 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CrSNP0mzoZ.md) - [plain]
 | 56 | [Hello Little Girl](https://open.spotify.com/track/32KC4OfjkSU8xdXO4T6pmq) | [The Fourmost](https://open.spotify.com/artist/6B90OW5Tz38W97TVB6stEm) | [The Best Of The Fourmost](https://open.spotify.com/album/4QpBxDBX4h9grCJ1tAIFZx) | 1:52 |
 | 57 | [Amarillo \(Is this the way to\)](https://open.spotify.com/track/29uQZOM1imQM3dl1AObdd4) | [Neil Sedaka](https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL) | [The Music Of My Life](https://open.spotify.com/album/4uL5ONEQXnYLwX5lHrSHSS) | 3:13 |
 
-Snapshot ID: `MTY0MTg2Mjc2NywwMDAwMDAwMDYzYzc0OGYxYWJkNzg0ZDBhOThhYzlkMmQ5YmJhMjQw`
+Snapshot ID: `MTY0MTg2Mjc2NywwMDAwMDAwMDAwZjY4OWI0ZDcwOTVmNDdiMGRmNTQyYTc3N2FmZjcx`

@@ -156,6 +156,24 @@
     },
     {
       "album": {
+        "name": "Antigua",
+        "url": "https://open.spotify.com/album/7C6oMgCrAeWx1kV3jfNu1h"
+      },
+      "artists": [
+        {
+          "name": "Barry O'sullivan",
+          "url": "https://open.spotify.com/artist/3vjTXSmiHkMA1EpHccmuW2"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119311,
+      "name": "Antigua",
+      "url": "https://open.spotify.com/track/6lfQmQzzhPWA26Zn478oaL"
+    },
+    {
+      "album": {
         "name": "Antofagasta",
         "url": "https://open.spotify.com/album/1Vght0beo7Xp1utA81XL2a"
       },
@@ -189,6 +207,24 @@
       "duration_ms": 166250,
       "name": "Antoni",
       "url": "https://open.spotify.com/track/6zklaT8tid33upy12H9Tlk"
+    },
+    {
+      "album": {
+        "name": "Arm\u00f3nico",
+        "url": "https://open.spotify.com/album/7gM87esW35sDdevEejH70f"
+      },
+      "artists": [
+        {
+          "name": "Ernesto Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/6xf34gZLMObXtgYsbmyjRS"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108668,
+      "name": "Arm\u00f3nico",
+      "url": "https://open.spotify.com/track/4fMkra3CJ5mTAc6DWbFLqT"
     },
     {
       "album": {
@@ -239,10 +275,46 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 119786,
       "name": "Bella Flamenco",
       "url": "https://open.spotify.com/track/3yBw9pDOcsuEhcY2UBIqoM"
+    },
+    {
+      "album": {
+        "name": "Bella Flamenco (Instrumental)",
+        "url": "https://open.spotify.com/album/4NWRl0FQFHXCLL0JqkzZto"
+      },
+      "artists": [
+        {
+          "name": "Nova Jazzers",
+          "url": "https://open.spotify.com/artist/1Te8AXTImtNqHaOEpBFuOf"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119786,
+      "name": "Bella Flamenco - Instrumental",
+      "url": "https://open.spotify.com/track/4PQCBSFIPnSnugh7QBGBtZ"
+    },
+    {
+      "album": {
+        "name": "Bella Noche",
+        "url": "https://open.spotify.com/album/062sHAqcQvuNhGscr48xfK"
+      },
+      "artists": [
+        {
+          "name": "Isaac Valero",
+          "url": "https://open.spotify.com/artist/6E6ZVCiRYmdbc6Y1Ujgxnm"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140501,
+      "name": "Bella Noche",
+      "url": "https://open.spotify.com/track/00lkxxDKU6VQAeG1Szxm42"
     },
     {
       "album": {
@@ -297,10 +369,32 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 161247,
       "name": "Bye bye",
       "url": "https://open.spotify.com/track/7izNlGhHL1tWqkElMrqLU1"
+    },
+    {
+      "album": {
+        "name": "Bye bye",
+        "url": "https://open.spotify.com/album/1bSdmu2BNpN3V0lJEyMl69"
+      },
+      "artists": [
+        {
+          "name": "Jose el Petate",
+          "url": "https://open.spotify.com/artist/1mMuIn9JDZhYLWFRjQQUEj"
+        },
+        {
+          "name": "Factoria Chakataga",
+          "url": "https://open.spotify.com/artist/2DZnEICNEc4QJrU5q0lnJl"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161247,
+      "name": "Bye bye",
+      "url": "https://open.spotify.com/track/4YLHzgKQHzES6XLBDYJK18"
     },
     {
       "album": {
@@ -355,6 +449,24 @@
       "duration_ms": 104916,
       "name": "Cambio de Coraz\u00f2n",
       "url": "https://open.spotify.com/track/3wRiBKnaGISsvRwHKeossu"
+    },
+    {
+      "album": {
+        "name": "Camino Lento",
+        "url": "https://open.spotify.com/album/5jkFkh6JfE6QG9LE8Z2k0J"
+      },
+      "artists": [
+        {
+          "name": "Rosa Gonzales",
+          "url": "https://open.spotify.com/artist/6E8WeGatw7QpqYZzLeqZyi"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119355,
+      "name": "Camino Lento",
+      "url": "https://open.spotify.com/track/1k4g1HXcfL5ZJNwcxVFzab"
     },
     {
       "album": {
@@ -466,6 +578,24 @@
     },
     {
       "album": {
+        "name": "Corcovado",
+        "url": "https://open.spotify.com/album/2v5g0pRJjjZypCjCeEnWMd"
+      },
+      "artists": [
+        {
+          "name": "Yuto Kanazawa",
+          "url": "https://open.spotify.com/artist/01svVAKPw9ioP5e46kMARC"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230250,
+      "name": "Corcovado",
+      "url": "https://open.spotify.com/track/5Cumyhgo0rmfcEaAIPV9d1"
+    },
+    {
+      "album": {
         "name": "Costa del Azahar",
         "url": "https://open.spotify.com/album/6bu11bayfc1ZUlF8fDUhSM"
       },
@@ -481,7 +611,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 174159,
       "name": "Costa del Azahar",
       "url": "https://open.spotify.com/track/0vR5LtNZNWdZDoy2qDvZ6Y"
@@ -561,6 +691,24 @@
       "duration_ms": 138410,
       "name": "Deep Green Moss",
       "url": "https://open.spotify.com/track/5AVkWOBydjuuJSbSP1i30b"
+    },
+    {
+      "album": {
+        "name": "Deeper",
+        "url": "https://open.spotify.com/album/5TQLX18OrELQ5Ps9xidigz"
+      },
+      "artists": [
+        {
+          "name": "L\u00e1rus Jacinda",
+          "url": "https://open.spotify.com/artist/5Erm6RBvYLKo4Wm6okqRJs"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160145,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/7iH6zlWiaIJFcAnMG0k6kE"
     },
     {
       "album": {
@@ -845,10 +993,32 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 108863,
       "name": "Elf",
       "url": "https://open.spotify.com/track/651BGDJru3qXduKTv6ouhD"
+    },
+    {
+      "album": {
+        "name": "Elf",
+        "url": "https://open.spotify.com/album/58d8SRTrTcfiDkPdOxFwHQ"
+      },
+      "artists": [
+        {
+          "name": "Jose el Petate",
+          "url": "https://open.spotify.com/artist/1mMuIn9JDZhYLWFRjQQUEj"
+        },
+        {
+          "name": "Factoria Chakataga",
+          "url": "https://open.spotify.com/artist/2DZnEICNEc4QJrU5q0lnJl"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108863,
+      "name": "Elf",
+      "url": "https://open.spotify.com/track/2z5Prq6ZP7gX5yMmPsMaPk"
     },
     {
       "album": {
@@ -906,6 +1076,24 @@
     },
     {
       "album": {
+        "name": "Escondites",
+        "url": "https://open.spotify.com/album/7H5e20s2UvYoMPlFn5pjC1"
+      },
+      "artists": [
+        {
+          "name": "Abelin Celice",
+          "url": "https://open.spotify.com/artist/6deyYCzmn7ptDnohDbTWti"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156659,
+      "name": "Escondites",
+      "url": "https://open.spotify.com/track/0tt1Ckj1W4HSPpjSgo91gk"
+    },
+    {
+      "album": {
         "name": "Esmeralda",
         "url": "https://open.spotify.com/album/3ndgDhJ7LYwad1YHkJrn7W"
       },
@@ -921,6 +1109,24 @@
       "duration_ms": 175249,
       "name": "Esmeralda",
       "url": "https://open.spotify.com/track/7izUzLUTJ5dYnpOzvBUmwP"
+    },
+    {
+      "album": {
+        "name": "Estrella",
+        "url": "https://open.spotify.com/album/42ujA4hBAj6SU1MkGkgAKE"
+      },
+      "artists": [
+        {
+          "name": "Roy De Paz",
+          "url": "https://open.spotify.com/artist/6FqYBvcTFHuoGGZ0pLNOpg"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153473,
+      "name": "Estrella",
+      "url": "https://open.spotify.com/track/0Q5dhHQXDR3JF4w2Q3JFRj"
     },
     {
       "album": {
@@ -942,6 +1148,24 @@
     },
     {
       "album": {
+        "name": "Eva",
+        "url": "https://open.spotify.com/album/5bXkAbd4bxydQpgxG26mHX"
+      },
+      "artists": [
+        {
+          "name": "Mario Qui\u00f1ones",
+          "url": "https://open.spotify.com/artist/1AFdYdurmNpI4H2dJe7iJI"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155724,
+      "name": "Eva",
+      "url": "https://open.spotify.com/track/14lhsByYFtQn3tPS5TjLFT"
+    },
+    {
+      "album": {
         "name": "figurati",
         "url": "https://open.spotify.com/album/5CN8B0jAv9Ui2fN1apBrYJ"
       },
@@ -957,6 +1181,24 @@
       "duration_ms": 111000,
       "name": "figurati",
       "url": "https://open.spotify.com/track/1YcdyFscXp5SH6yT0pbjO4"
+    },
+    {
+      "album": {
+        "name": "Flamenkito",
+        "url": "https://open.spotify.com/album/1fBj5GesrEQR2IfVUbaPKh"
+      },
+      "artists": [
+        {
+          "name": "Simbad \"El nano\"",
+          "url": "https://open.spotify.com/artist/5BEc3tZMMB0L1HBePMp6xS"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106992,
+      "name": "Flamenkito",
+      "url": "https://open.spotify.com/track/4iI9eIAd3kZGB3dCEc3PxK"
     },
     {
       "album": {
@@ -1101,10 +1343,32 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 74581,
       "name": "I will be back",
       "url": "https://open.spotify.com/track/5UuYbBrZRwP5vlkTztARVN"
+    },
+    {
+      "album": {
+        "name": "I will be back",
+        "url": "https://open.spotify.com/album/6CvhepfhkTKXJGD6SiPaCo"
+      },
+      "artists": [
+        {
+          "name": "Jose el Petate",
+          "url": "https://open.spotify.com/artist/1mMuIn9JDZhYLWFRjQQUEj"
+        },
+        {
+          "name": "Factoria Chakataga",
+          "url": "https://open.spotify.com/artist/2DZnEICNEc4QJrU5q0lnJl"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74581,
+      "name": "I will be back",
+      "url": "https://open.spotify.com/track/6XXoKr31cHpEcZkGZsxXYQ"
     },
     {
       "album": {
@@ -1137,7 +1401,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 207525,
       "name": "Indian Glass",
       "url": "https://open.spotify.com/track/6MIIniY6BMAFscSLC8KPQp"
@@ -1216,6 +1480,42 @@
     },
     {
       "album": {
+        "name": "la Vigilia del b\u00faho",
+        "url": "https://open.spotify.com/album/0Tmhf4JVqsy6vvfY6hZjfZ"
+      },
+      "artists": [
+        {
+          "name": "Emanuel Costa",
+          "url": "https://open.spotify.com/artist/6iQweq1LCgRS4IEuTzRHQJ"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137472,
+      "name": "la Vigilia del b\u00faho",
+      "url": "https://open.spotify.com/track/42WlKjbT3ZtIZItjBH3ZkF"
+    },
+    {
+      "album": {
+        "name": "Laguna",
+        "url": "https://open.spotify.com/album/7lBsRkafxyp9aUhvuiD1hF"
+      },
+      "artists": [
+        {
+          "name": "Los Suculentos",
+          "url": "https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191250,
+      "name": "Laguna",
+      "url": "https://open.spotify.com/track/6v7vnohTh1WrGJznocVGdg"
+    },
+    {
+      "album": {
         "name": "Lara",
         "url": "https://open.spotify.com/album/0OR0UbW0bvsxvpB7GAN8lo"
       },
@@ -1267,7 +1567,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 218237,
       "name": "Leaving La Habana",
       "url": "https://open.spotify.com/track/25clc1eJ1cXlUqCk6K9BBL"
@@ -1303,7 +1603,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 234000,
       "name": "Like A Tourist On Caminito",
       "url": "https://open.spotify.com/track/6alGPVL0zYvetBZiSULNiP"
@@ -1325,6 +1625,24 @@
       "duration_ms": 154817,
       "name": "Lisboa Antigua",
       "url": "https://open.spotify.com/track/59Ao0LOrkaAehxm4ytrXfp"
+    },
+    {
+      "album": {
+        "name": "Lleva Mi Amor",
+        "url": "https://open.spotify.com/album/2wyKPCuOVZGPEcoh1Dxf8Y"
+      },
+      "artists": [
+        {
+          "name": "Barracuda Sound",
+          "url": "https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137856,
+      "name": "Lleva Mi Amor",
+      "url": "https://open.spotify.com/track/1kPMYjXR6g36hSb1bxF55e"
     },
     {
       "album": {
@@ -1351,6 +1669,24 @@
       "duration_ms": 131131,
       "name": "Longe Algu\u00e9m Caminha",
       "url": "https://open.spotify.com/track/6G0KuDlYopOifz6yeOwfri"
+    },
+    {
+      "album": {
+        "name": "Los Olivos",
+        "url": "https://open.spotify.com/album/3PXwqWM9ggwNrWVth2RE4v"
+      },
+      "artists": [
+        {
+          "name": "Las Almas Nuevas",
+          "url": "https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137750,
+      "name": "Los Olivos",
+      "url": "https://open.spotify.com/track/3aldp1DpvaAqJtpk3TGzIv"
     },
     {
       "album": {
@@ -1521,6 +1857,42 @@
       "duration_ms": 142895,
       "name": "Mirada",
       "url": "https://open.spotify.com/track/3PDsnkJXHj4eTPkCuhfTBS"
+    },
+    {
+      "album": {
+        "name": "Miranda",
+        "url": "https://open.spotify.com/album/0kOFyFTrb5k12qUysC6MEB"
+      },
+      "artists": [
+        {
+          "name": "Combo Cadre",
+          "url": "https://open.spotify.com/artist/1vnozJqhOSx4kvl9sMGZML"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120021,
+      "name": "Miranda",
+      "url": "https://open.spotify.com/track/3GpnbumBiT6N7zyxTWJ3qN"
+    },
+    {
+      "album": {
+        "name": "Timbre",
+        "url": "https://open.spotify.com/album/6NtSxBeGJ67uWeCOGP3YJW"
+      },
+      "artists": [
+        {
+          "name": "Sven Nordberg",
+          "url": "https://open.spotify.com/artist/7p15Zunic1ShfO2hBA7QOD"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129453,
+      "name": "Mist",
+      "url": "https://open.spotify.com/track/4H9EiDGFwfih6XnnSaObLo"
     },
     {
       "album": {
@@ -1745,6 +2117,24 @@
       "duration_ms": 184139,
       "name": "Pont-Neuf",
       "url": "https://open.spotify.com/track/1aUihnmoI7VFaGnkyeuamf"
+    },
+    {
+      "album": {
+        "name": "Preludio del valle",
+        "url": "https://open.spotify.com/album/3bymqGhrl8dwY9BlSWU5Sw"
+      },
+      "artists": [
+        {
+          "name": "Pablo Brice\u00f1o",
+          "url": "https://open.spotify.com/artist/4SoRek2FECACQBVjfhZ3sQ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 151616,
+      "name": "Preludio del valle",
+      "url": "https://open.spotify.com/track/0wzQxAGzGl09uxJHQVWP8Z"
     },
     {
       "album": {
@@ -2394,6 +2784,24 @@
     },
     {
       "album": {
+        "name": "Acoustic Paintings",
+        "url": "https://open.spotify.com/album/1gZ8bv5PeLEYfAr5trteiT"
+      },
+      "artists": [
+        {
+          "name": "Jordan Martin",
+          "url": "https://open.spotify.com/artist/25q9hUYb1Gy4NtGXtR0h98"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245999,
+      "name": "Sweetest Taste",
+      "url": "https://open.spotify.com/track/2qWK9B6pNDJ4faJrowzhi3"
+    },
+    {
+      "album": {
         "name": "Tahmina",
         "url": "https://open.spotify.com/album/59VV54issBKB9UgscAGq8x"
       },
@@ -2452,6 +2860,24 @@
     },
     {
       "album": {
+        "name": "Te Echo De Menos",
+        "url": "https://open.spotify.com/album/7FS6hAIyRA7VJ7ELMKH6gb"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Vilente",
+          "url": "https://open.spotify.com/artist/5sXiB1kUrPOBBWf3SqrCYO"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184011,
+      "name": "Te Echo De Menos",
+      "url": "https://open.spotify.com/track/1u2C4fLwsMerlZCqumCl6z"
+    },
+    {
+      "album": {
         "name": "Tel\u00e9maco",
         "url": "https://open.spotify.com/album/6kKjlOBuPfKXQicsIZUmgw"
       },
@@ -2468,7 +2894,7 @@
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 165243,
+      "duration_ms": 165245,
       "name": "Tel\u00e9maco",
       "url": "https://open.spotify.com/track/3qvKQpE2OLPDqho3DM19N1"
     },
@@ -2525,6 +2951,24 @@
       "duration_ms": 148769,
       "name": "The Gastruck",
       "url": "https://open.spotify.com/track/4IJnVCZll8ikwz0bKUbuvH"
+    },
+    {
+      "album": {
+        "name": "The Ride",
+        "url": "https://open.spotify.com/album/7kZka9w9yttCo8i8L2W0rD"
+      },
+      "artists": [
+        {
+          "name": "Las Lagrimas",
+          "url": "https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "The Ride",
+      "url": "https://open.spotify.com/track/6LWt0Sm7MovGMGDioGYqmB"
     },
     {
       "album": {
@@ -2726,6 +3170,24 @@
     },
     {
       "album": {
+        "name": "Valeria",
+        "url": "https://open.spotify.com/album/359dhOPYz6AjtYsEjYMzFh"
+      },
+      "artists": [
+        {
+          "name": "Pablo Brice\u00f1o",
+          "url": "https://open.spotify.com/artist/4SoRek2FECACQBVjfhZ3sQ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142721,
+      "name": "Valeria",
+      "url": "https://open.spotify.com/track/14YLpb5I76rn2fvFLdbhuq"
+    },
+    {
+      "album": {
         "name": "Vals del Poniente",
         "url": "https://open.spotify.com/album/1LsfF1UWdBt9D0VrNfL6rE"
       },
@@ -2767,6 +3229,42 @@
       "duration_ms": 177678,
       "name": "Valsa Sem Nome",
       "url": "https://open.spotify.com/track/1zJafeATKvIfikaHqheJIc"
+    },
+    {
+      "album": {
+        "name": "Valsa Sergipana (Litoca)",
+        "url": "https://open.spotify.com/album/2MxMeTDTZV9bX19HsgnXcv"
+      },
+      "artists": [
+        {
+          "name": "Igor Brasil",
+          "url": "https://open.spotify.com/artist/7I410Dp3d5DOJAqTJe9PGo"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153640,
+      "name": "Valsa Sergipana (Litoca)",
+      "url": "https://open.spotify.com/track/3N9A4p320JeK7lvDJbH0pA"
+    },
+    {
+      "album": {
+        "name": "Velera",
+        "url": "https://open.spotify.com/album/4Vf0PmYMeaZXSS4QvdAMBP"
+      },
+      "artists": [
+        {
+          "name": "Eugenia Russo",
+          "url": "https://open.spotify.com/artist/1ozt8bFZUS8nHkKQ5eMr4O"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147712,
+      "name": "Velera",
+      "url": "https://open.spotify.com/track/0Gop2HD8wfCLD43lAbbbug"
     },
     {
       "album": {

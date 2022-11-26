@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "\u00a1Bienvenidxs al mundo del bellaqueo! \ud83c\udf51  Foto: LOOJAN",
+  "description": "Bienvenidxs al mundo del bellaqueo, con Bellakath.",
   "name": "Reggaet\u00f3n Chakal\u00f3n",
   "published_playlist_ids": [
     "6uhnpN8l70O9yI67E5CkB2"
@@ -419,7 +419,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-27",
+      "date_removed": "2022-11-09",
       "duration_ms": 186352,
       "name": "Chakalon",
       "url": "https://open.spotify.com/track/06Uy0GHG2N5CYmw11VSprB"
@@ -847,8 +847,8 @@
           "url": "https://open.spotify.com/artist/4SdKFy0lyBsw0SHbNH9GXV"
         },
         {
-          "name": "Mishelle Master Boy",
-          "url": "https://open.spotify.com/artist/2WWRppMwIjyXY2AIGg8Dl5"
+          "name": "Mishelle Master Boys",
+          "url": "https://open.spotify.com/artist/7dOIGNkb49QRgG5VsjXebG"
         },
         {
           "name": "DJ Yayo",
@@ -891,6 +891,24 @@
       "duration_ms": 173195,
       "name": "Flow Soltera",
       "url": "https://open.spotify.com/track/1TEqM0Fg2wGewCRRkOTjRC"
+    },
+    {
+      "album": {
+        "name": "Gatita",
+        "url": "https://open.spotify.com/album/1UsI3wV7vgPllijr4hfpgT"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152004,
+      "name": "Gatita",
+      "url": "https://open.spotify.com/track/25Jf61edvM78rQHYaWRiIL"
     },
     {
       "album": {
@@ -1261,7 +1279,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-01",
+      "date_removed": null,
       "duration_ms": 195944,
       "name": "Melocoton",
       "url": "https://open.spotify.com/track/0Ix9XHG0Zkydd6zTJwQvwF"
@@ -1321,6 +1339,48 @@
       "duration_ms": 183895,
       "name": "Mexicana (feat. El Malilla)",
       "url": "https://open.spotify.com/track/73APnBn08CSe4ygy3L3Be8"
+    },
+    {
+      "album": {
+        "name": "Mkrna (Remix)",
+        "url": "https://open.spotify.com/album/4AmOxXERX6qsfpBTehQPRi"
+      },
+      "artists": [
+        {
+          "name": "Michael G",
+          "url": "https://open.spotify.com/artist/52vhIE7TjnC3Cxd7ZOWJZ3"
+        },
+        {
+          "name": "Alexis Rostro",
+          "url": "https://open.spotify.com/artist/7FDQ4723m46e8vV6URzQKE"
+        },
+        {
+          "name": "ZALEYKO",
+          "url": "https://open.spotify.com/artist/4kbM1M865DS7kBHe1J11yQ"
+        },
+        {
+          "name": "DJ Ruido",
+          "url": "https://open.spotify.com/artist/58MSkJwOYir5SWUpNENJFC"
+        },
+        {
+          "name": "Yulissa Mendoza Mx",
+          "url": "https://open.spotify.com/artist/0AnLukcIL5LPlpeqfTFZIr"
+        },
+        {
+          "name": "Eve Crm",
+          "url": "https://open.spotify.com/artist/50xOjgsrHAIHTNvncJW1GI"
+        },
+        {
+          "name": "Dj Teack",
+          "url": "https://open.spotify.com/artist/5ncZY0JMBZdQH7liaQpa5i"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314274,
+      "name": "Mkrna - Remix",
+      "url": "https://open.spotify.com/track/0jdbn1pcJxGjiTIkptkS3h"
     },
     {
       "album": {
@@ -1435,7 +1495,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 164000,
       "name": "Pa Perrear",
       "url": "https://open.spotify.com/track/6CRAqSjXP06jy67jdLrTyp"
@@ -1501,7 +1561,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 192000,
       "name": "Pasito Chacalon",
       "url": "https://open.spotify.com/track/66OXBVfGaka7L38l50OMOW"
@@ -1535,7 +1595,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 320625,
       "name": "Pegadita",
       "url": "https://open.spotify.com/track/04MrPTvw02doOGk5xPqLTa"

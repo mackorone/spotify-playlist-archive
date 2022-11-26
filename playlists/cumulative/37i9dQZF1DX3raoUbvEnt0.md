@@ -4,12 +4,13 @@
 
 > Music from "GOLDEN KAMUY"! /アニメ「ゴールデンカムイ」の楽曲を1つのプレイリストで。
 
-40 songs - 2 hr 6 min - not published yet
+42 songs - 2 hr 14 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Grey](https://open.spotify.com/track/5NKLg5YJdaSfUGfSKbgdCI) | [FOMARE](https://open.spotify.com/artist/615ixHXsfFwzxgw3sOPICH) | [Grey](https://open.spotify.com/album/5heJSMSLkBUvAj8s3xGOmF) | 2:40 | 2022-10-04 |  |
 | [Hibana](https://open.spotify.com/track/3NMMC88XvGM3UaIblE8zSW) | [THE SIXTH LIE](https://open.spotify.com/artist/2sCc8pMRgv99AweDSrFFZt) | [Hibana](https://open.spotify.com/album/0JAbQTGiUCL1eEhX3wT1aL) | 4:15 | 2022-10-04 |  |
+| [Hibana \(English ver.\)](https://open.spotify.com/track/4c8OnNLxJMzMGXYZOFV4MU) | [THE SIXTH LIE](https://open.spotify.com/artist/2sCc8pMRgv99AweDSrFFZt) | [Hibana \(English ver.\)](https://open.spotify.com/album/0Pq1Nyhki3Kfh85ULgh8f7) | 4:13 | 2022-10-14 |  |
 | [NEVER SAY GOODBYE](https://open.spotify.com/track/1NVQvAvYhYUluRrRQpdCjg) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [Mummy\-D](https://open.spotify.com/artist/1tDPDvqdllfPLjLhFFkocX) | [NEVER SAY GOODBYE](https://open.spotify.com/album/0f9ojxk4DzroHLGAU5iUA3) | 4:50 | 2022-10-04 |  |
 | [Winding Road](https://open.spotify.com/track/1X1zGR5z4HQbdJjwJmUwo0) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Take Me Under / Winding Road](https://open.spotify.com/album/0ucSy38HOq1jRTtbHVgtZV) | 3:46 | 2022-10-04 |  |
 | [すべてがそこにありますように。](https://open.spotify.com/track/6oxjUUnKOV1KR6R4oPhOkS) | [THE SPELLBOUND](https://open.spotify.com/artist/1urc1bS4D4upX4Mb9kLnMb) | [すべてがそこにありますように。](https://open.spotify.com/album/0jXyshoedPS2dP4xTBtsiK) | 3:44 | 2022-10-04 |  |
@@ -40,10 +41,11 @@
 | [破壊欲](https://open.spotify.com/track/5A05RfYF8YNJjpPJl64l2M) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [ゴールデンカムイ オリジナルサウンドトラック](https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf) | 2:39 | 2022-10-04 |  |
 | [祝福された道](https://open.spotify.com/track/0gn0PuJp28jvVVSLJG04rZ) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [ゴールデンカムイ オリジナルサウンドトラック](https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf) | 4:29 | 2022-10-04 |  |
 | [腹の中](https://open.spotify.com/track/2WbRfATuFbs7OmMxjLpsnK) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [ゴールデンカムイ オリジナルサウンドトラック](https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf) | 2:34 | 2022-10-04 |  |
+| [融雪 \(English ver.\)](https://open.spotify.com/track/5O8g82XMtEqxWQkHd79pSv) | [THE SIXTH LIE](https://open.spotify.com/artist/2sCc8pMRgv99AweDSrFFZt) | [融雪 \(English ver.\)](https://open.spotify.com/album/47nPupnAoxyZlwJQdUeu06) | 4:12 | 2022-10-14 |  |
 | [融雪\(Subscription ver.\)](https://open.spotify.com/track/3olP7pn1VoQTL53oiRhnjj) | [THE SIXTH LIE](https://open.spotify.com/artist/2sCc8pMRgv99AweDSrFFZt) | [融雪\(Subscription ver.\)](https://open.spotify.com/album/69GIat13zuofOILGWUZEYC) | 4:02 | 2022-10-04 |  |
 | [見る女](https://open.spotify.com/track/5v0HKHXdjZZr4noXARz7va) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [ゴールデンカムイ オリジナルサウンドトラック](https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf) | 2:19 | 2022-10-04 |  |
-| [谷垣狩り](https://open.spotify.com/track/3y49i4mqGdichcRU3PK8KW) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [ゴールデンカムイ オリジナルサウンドトラック](https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf) | 2:58 | 2022-10-04 |  |
-| [蹂躙](https://open.spotify.com/track/66RGMZl6cYa64hRtW3jSjJ) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [ゴールデンカムイ オリジナルサウンドトラック](https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf) | 2:25 | 2022-10-04 |  |
+| [谷垣狩り](https://open.spotify.com/track/3y49i4mqGdichcRU3PK8KW) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [ゴールデンカムイ オリジナルサウンドトラック](https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf) | 2:58 | 2022-10-04 | 2022-10-15 |
+| [蹂躙](https://open.spotify.com/track/66RGMZl6cYa64hRtW3jSjJ) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [ゴールデンカムイ オリジナルサウンドトラック](https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf) | 2:25 | 2022-10-04 | 2022-10-15 |
 | [阿仁根っ子](https://open.spotify.com/track/5O9Y6DhpaTKMiHOykRzPsl) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [ゴールデンカムイ オリジナルサウンドトラック](https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf) | 4:10 | 2022-10-04 |  |
 | [面倒くさい](https://open.spotify.com/track/4GcmVw8LpigCOQWN5XKyL5) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [ゴールデンカムイ オリジナルサウンドトラック](https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf) | 1:45 | 2022-10-04 |  |
 | [駆ける](https://open.spotify.com/track/1BZ5sCgFJ14tLt0hu87U1J) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [ゴールデンカムイ オリジナルサウンドトラック](https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf) | 2:41 | 2022-10-04 |  |

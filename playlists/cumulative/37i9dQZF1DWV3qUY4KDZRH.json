@@ -156,6 +156,24 @@
     },
     {
       "album": {
+        "name": "Garden Song",
+        "url": "https://open.spotify.com/album/5RSEIqWnZsBKKYngHOkpuU"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2021-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 220065,
+      "name": "Garden Song",
+      "url": "https://open.spotify.com/track/6WrzIVwfETihmZ91wwt5cq"
+    },
+    {
+      "album": {
         "name": "Super Monster",
         "url": "https://open.spotify.com/album/0QPFWBu8oVVNtekmNzlVvW"
       },
@@ -413,10 +431,32 @@
       ],
       "date_added": "2021-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 220000,
       "name": "Pin-Up Daddy - Brian Robert Jones Remix",
       "url": "https://open.spotify.com/track/0B1R5NOFuh8I6sFzGMrwiS"
+    },
+    {
+      "album": {
+        "name": "Pin-Up Daddy (Brian Robert Jones Remix)",
+        "url": "https://open.spotify.com/album/3VcHTCLTR4BaIYSxAksjEx"
+      },
+      "artists": [
+        {
+          "name": "Rett Madison",
+          "url": "https://open.spotify.com/artist/2uvAzG565dP2oXartAqh1F"
+        },
+        {
+          "name": "Brian Robert Jones",
+          "url": "https://open.spotify.com/artist/11HU5b0t0QkmZpYfpUgmvm"
+        }
+      ],
+      "date_added": "2021-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Pin-Up Daddy - Brian Robert Jones Remix",
+      "url": "https://open.spotify.com/track/33Lbb17TYpo2v2NnixiaJP"
     },
     {
       "album": {

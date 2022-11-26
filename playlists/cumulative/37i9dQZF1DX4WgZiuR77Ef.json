@@ -111,10 +111,40 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 283500,
       "name": "B Side - Dr. Rubberfunk Mix",
       "url": "https://open.spotify.com/track/2ZUIMmjpRjCzopFJl7F5EX"
+    },
+    {
+      "album": {
+        "name": "B Side - Dr. Rubberfunk Mix",
+        "url": "https://open.spotify.com/album/3fQwy0KsXSMCpgoF8NERyT"
+      },
+      "artists": [
+        {
+          "name": "Smudge All Stars",
+          "url": "https://open.spotify.com/artist/5MFlcmLtTY9qSoLsrUmbwU"
+        },
+        {
+          "name": "Dr Rubberfunk",
+          "url": "https://open.spotify.com/artist/7jOCklAiBleLs7aGsFaDep"
+        },
+        {
+          "name": "Culture Club",
+          "url": "https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc"
+        },
+        {
+          "name": "Fred Wesley",
+          "url": "https://open.spotify.com/artist/2uE66NiUti6Wpz90SD4eam"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283500,
+      "name": "B Side - Dr. Rubberfunk Mix",
+      "url": "https://open.spotify.com/track/304Y32tn2MipSfI2CJSTwW"
     },
     {
       "album": {
@@ -395,6 +425,32 @@
       "duration_ms": 312679,
       "name": "Celebrations",
       "url": "https://open.spotify.com/track/4omeUG7hXLZsYGP3kgk1cz"
+    },
+    {
+      "album": {
+        "name": "The Craig Charles Trunk of Funk Volume 2",
+        "url": "https://open.spotify.com/album/6hcNkOdTIF59iaY2TydgHp"
+      },
+      "artists": [
+        {
+          "name": "Lettuce",
+          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
+        },
+        {
+          "name": "Big Tony",
+          "url": "https://open.spotify.com/artist/2sCagRqrsOocsRmcxSuYks"
+        },
+        {
+          "name": "Jungle Boogie",
+          "url": "https://open.spotify.com/artist/4uRUX6GQjNbtYK9w0rbO4J"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 350973,
+      "name": "Checker Wrecker",
+      "url": "https://open.spotify.com/track/1mW9VbUgYQZHsicTZDxkUW"
     },
     {
       "album": {
@@ -1135,7 +1191,7 @@
     {
       "album": {
         "name": "He Said / She Said",
-        "url": "https://open.spotify.com/album/0E50UttjUVA0HoQ02WYrRd"
+        "url": "https://open.spotify.com/album/1uTAS2OGXRBxLPT382dWTA"
       },
       "artists": [
         {
@@ -1148,7 +1204,43 @@
       "date_removed": null,
       "duration_ms": 241441,
       "name": "He Said / She Said",
+      "url": "https://open.spotify.com/track/023p4igqYASZMpUNJ8hhLY"
+    },
+    {
+      "album": {
+        "name": "He Said / She Said",
+        "url": "https://open.spotify.com/album/0E50UttjUVA0HoQ02WYrRd"
+      },
+      "artists": [
+        {
+          "name": "Acantha Lang",
+          "url": "https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-16",
+      "duration_ms": 241441,
+      "name": "He Said / She Said",
       "url": "https://open.spotify.com/track/5ANzbV4A2YA6EPP0e8asEi"
+    },
+    {
+      "album": {
+        "name": "Sugar Woman",
+        "url": "https://open.spotify.com/album/5qC7W3d5LikVYLLRVkS499"
+      },
+      "artists": [
+        {
+          "name": "Acantha Lang",
+          "url": "https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 241441,
+      "name": "He Said / She Said",
+      "url": "https://open.spotify.com/track/6ZccMg8F7cWeBAV8Z3Mkc7"
     },
     {
       "album": {
@@ -1523,6 +1615,24 @@
       "duration_ms": 332000,
       "name": "Journey",
       "url": "https://open.spotify.com/track/17bXySNIfVmyYBZnXoxFm5"
+    },
+    {
+      "album": {
+        "name": "Journey",
+        "url": "https://open.spotify.com/album/72QDuyY9xgPPCaeqFHkTao"
+      },
+      "artists": [
+        {
+          "name": "Secret Night Gang",
+          "url": "https://open.spotify.com/artist/5h5gnysIprQOTY2HoM5ge0"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 332000,
+      "name": "Journey",
+      "url": "https://open.spotify.com/track/20N8EfIxLHDpp4Q5tt5w8O"
     },
     {
       "album": {
@@ -2401,10 +2511,28 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 248749,
       "name": "River Keep Runnin'",
       "url": "https://open.spotify.com/track/1iGkPsvP7ez6BWuXTxy4zg"
+    },
+    {
+      "album": {
+        "name": "River Keep Runnin'",
+        "url": "https://open.spotify.com/album/6sBBxKO8SWjxAKC8ZF7IHe"
+      },
+      "artists": [
+        {
+          "name": "Acantha Lang",
+          "url": "https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248749,
+      "name": "River Keep Runnin'",
+      "url": "https://open.spotify.com/track/1ne7KDX3wIEn11XHoh9a0y"
     },
     {
       "album": {
@@ -2933,10 +3061,46 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 337826,
       "name": "Very Fine - Pts. 1 & 2",
       "url": "https://open.spotify.com/track/3NGlYT0YnxSL3tF0F7bBWV"
+    },
+    {
+      "album": {
+        "name": "Don't Want You To Know",
+        "url": "https://open.spotify.com/album/4AaeRHinhgo8s6Bokl8sjb"
+      },
+      "artists": [
+        {
+          "name": "Neal Francis",
+          "url": "https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 337826,
+      "name": "Very Fine - Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/3WnV3vhvmrvz70QZj1klJs"
+    },
+    {
+      "album": {
+        "name": "Sentimental Garbage",
+        "url": "https://open.spotify.com/album/2iiRsnJVF6kpFMA30U6nif"
+      },
+      "artists": [
+        {
+          "name": "Neal Francis",
+          "url": "https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337826,
+      "name": "Very Fine - Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/5VGqqm2kZAPlLPQggN3Zes"
     },
     {
       "album": {

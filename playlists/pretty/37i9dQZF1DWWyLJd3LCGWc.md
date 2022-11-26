@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyLJd3LCGWc.md) - [plain]
 
 > <a href="https://www.instagram.com/pxssypalace/?hl=en">Pxssy Palace</a> creates a safe space for queer womxn, trans, non\-binary and intersex people of colour with their London\-based club night\. This is their sound of Pride.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,145 likes - 46 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,429 likes - 46 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [LSDXOXO\_TRUTH OR DARE\_123 BPM](https://open.spotify.com/track/6VTixntONK80zNv2HT2Tg4) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [TAKE ME A\_PART, THE REMIXES](https://open.spotify.com/album/00bR0PfkGVAizXpN05DYrs) | 4:53 |
-| 2 | [Bad Habits](https://open.spotify.com/track/5MOeskxHd3tFXAm2GbO3Rl) | [LYZZA](https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B) | [Powerplay](https://open.spotify.com/album/7LUKLf5ipWFL58Y558hNly) | 3:30 |
+| 2 | [Bad Habits](https://open.spotify.com/track/3ZE5XEBhVgZF7HVqbL91l3) | [LYZZA](https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B) | [Powerplay](https://open.spotify.com/album/1Cvn9YGFvcg46z4FG81Btr) | 3:30 |
 | 3 | [Red As in Blue](https://open.spotify.com/track/1UuSsdLQkvvrKHb47NsQ3e) | [Ase Manual](https://open.spotify.com/artist/7d9PaRqnesvoUvMowJ2qoE) | [Lumi](https://open.spotify.com/album/7cG4yQiwZuftnuvmYdCLGT) | 3:50 |
 | 4 | [No Sleep](https://open.spotify.com/track/6UevNDpcrrAdZ5PSdTexnY) | [Chippy Nonstop](https://open.spotify.com/artist/3cIWQsZd5aYZDk9DGy64wS), [dj genderfluid](https://open.spotify.com/artist/7sxGpROgQQSGjnsoUWE4Dz) | [Chippy Nonstop & dj genderfluid](https://open.spotify.com/album/3Vhrt89XhIFEKsRGnZldYF) | 4:17 |
 | 5 | [UCKERS](https://open.spotify.com/track/1tZAEXxVr3W1XHPQZslOEI) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [UCKERS](https://open.spotify.com/album/3WG0rNIPHZAaFyVm77bKaM) | 1:55 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyLJd3LCGWc.md) - [plain]
 | 22 | [So Mi Like It](https://open.spotify.com/track/6IFDy0imCdhDpHj98GczEX) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [So Mi Like It](https://open.spotify.com/album/3VsPJKD7uZPIYB4SNGeLRt) | 2:33 |
 | 23 | [Blessed \(with Tyga\)](https://open.spotify.com/track/3eKLbe124mzIRFPuwCnJAD) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [ALPHA](https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq) | 2:25 |
 | 24 | [Nitevision](https://open.spotify.com/track/5z9Odpd6Dxm4E59hVyXUSS) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Pamputtae](https://open.spotify.com/artist/3qu3PIngYcX3SzOVcNGSTF) | [Nitevision](https://open.spotify.com/album/5y8xwWSEoJKTC0HrMBbNBH) | 2:13 |
-| 25 | [B2B](https://open.spotify.com/track/3OrMbFUgXjchOYTU8TeLO7) | [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz), [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [B2B / Black Roses](https://open.spotify.com/album/7rs4RT4DkkGWpdxT9belLA) | 3:44 |
+| 25 | [B2B](https://open.spotify.com/track/53pVSqKR9rgrr6iGs98JqO) | [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz), [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [B2B / Black Roses](https://open.spotify.com/album/7w1h2MpwzFTTGpa2pbJbK1) | 3:44 |
 | 26 | [Little Lotto](https://open.spotify.com/track/3RT7nhA6KgsGC1ueLYM2PV) | [Alo Wala](https://open.spotify.com/artist/4mYDn1R8xbWE4WhRPlr1IG), [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh) | [Little Lotto](https://open.spotify.com/album/0gDY61ZPg18gY8XT8pRE7L) | 3:56 |
 | 27 | [Classroom](https://open.spotify.com/track/5OPYrpZPzcyfBNzKnDRihe) | [Traumer](https://open.spotify.com/artist/55qp3isnfx4ZKPHw5oP4eh) | [Classroom](https://open.spotify.com/album/379F7rTQ1KTTdbZZumT9ad) | 8:36 |
 | 28 | [My Name is Shhh](https://open.spotify.com/track/0RryeDY1e0hTjIN4oa2fNb) | [Manara](https://open.spotify.com/artist/3SLHgM7u02zr0Hfkm0Yn4R), [Bok Bok](https://open.spotify.com/artist/2qUNVIgjpwhQ3gGpM1Nrok) | [Manara International Presents: The Ultimate Spice Mix](https://open.spotify.com/album/1Ibm7cEZrtnTc8T5STUXlw) | 3:20 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyLJd3LCGWc.md) - [plain]
 | 35 | [Jimmy](https://open.spotify.com/track/60r0mEqH580d1kYWGeEpwM) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Kala](https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu) | 3:29 |
 | 36 | [Conjurer](https://open.spotify.com/track/68FahUPlACGIvG3CYjMs9M) | [BEARCAT](https://open.spotify.com/artist/78FV10vQ4A7bDAvR6oPBjr) | [Spell](https://open.spotify.com/album/4vDniXqeQPnnDRJDGk13Lu) | 3:09 |
 | 37 | [Pussy Talk](https://open.spotify.com/track/5EzL7hGT9g2Tvqsy158Lu9) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [City On Lock](https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN) | 3:38 |
-| 38 | [IN IN IN](https://open.spotify.com/track/6s5fztn7rjtRs2gGdP9n7t) | [Zebra Katz](https://open.spotify.com/artist/5Tz4zMiRWqiQVAymWZz99a) | [LESS IS MOOR](https://open.spotify.com/album/37g7rTlnjZwOK0S3GOKPO3) | 3:17 |
+| 38 | [IN IN IN](https://open.spotify.com/track/3APSXl8dTTumv9L1HHpCCV) | [Zebra Katz](https://open.spotify.com/artist/5Tz4zMiRWqiQVAymWZz99a) | [LESS IS MOOR](https://open.spotify.com/album/3DRPWHi5HizuPPgVj9JiFJ) | 3:17 |
 | 39 | [Decline Him](https://open.spotify.com/track/3Wa96y3cQWjIX9gN2dTb5t) | [Quay Dash](https://open.spotify.com/artist/6k6lSmhyFpe2oYcredvZHM) | [Transphobic](https://open.spotify.com/album/2vkSCPeqGqr2iCDZEbtieZ) | 3:33 |
 | 40 | [The Meek Shall Inherit the Earth](https://open.spotify.com/track/37DiVgAJiRdNUtydPxMExw) | [Tygapaw](https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq) | [Love Thyself](https://open.spotify.com/album/6XDgTZtCEU7AhbbbIdxMBo) | 3:13 |
 | 41 | [Blasian Baddie](https://open.spotify.com/track/3KxkDJCDmG5NzvzWhR01hM) | [Kaede](https://open.spotify.com/artist/7AFY1eM0UyVPLNoCKvsrma) | [Blasian Baddie](https://open.spotify.com/album/1uL4XtcOgKFwIXBodBrN0o) | 2:02 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyLJd3LCGWc.md) - [plain]
 | 45 | [Bling Bling](https://open.spotify.com/track/62NhZM0i7RrAThbBmb2vsQ) | [Junglepussy](https://open.spotify.com/artist/6atGQM99IrRfUefJFore1B) | [Satisfaction Guaranteed](https://open.spotify.com/album/1LGNcwOY4Ro9eEDJwohBez) | 2:45 |
 | 46 | [IN THE AIR](https://open.spotify.com/track/63Nh9nDjrK0YB3BaMDN9v6) | [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [CRY 4 HELP](https://open.spotify.com/album/3a9TkAd9pVKebwqaGrQw0n) | 4:21 |
 
-Snapshot ID: `MTYyMjU0MzA0MSwwMDAwMDAwMDA1ZjRjMGI2MjdhZmIyODY5NWYwMGQ3NDVlNzJjYmFm`
+Snapshot ID: `MTYyMjU0MzA0MSwwMDAwMDAwMDliYTcyOWYwOTAwZDlmMmE3MDgxNGJkYTMwMjc1NTky`

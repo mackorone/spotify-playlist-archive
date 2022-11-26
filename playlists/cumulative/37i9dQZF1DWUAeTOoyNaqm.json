@@ -419,7 +419,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 119062,
       "name": "Bubbles",
       "url": "https://open.spotify.com/track/3HwwVWDPPqNKXtlzPi65my"
@@ -894,6 +894,24 @@
     },
     {
       "album": {
+        "name": "Hello ASMR",
+        "url": "https://open.spotify.com/album/5wlg4JtCYhfonAzbE41gYS"
+      },
+      "artists": [
+        {
+          "name": "Tabitha Rabiot",
+          "url": "https://open.spotify.com/artist/3ViD1ngwr2KyMQNDVhEPrg"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249616,
+      "name": "Hair Roller on a Microphone",
+      "url": "https://open.spotify.com/track/2ckqKYZfT9g1S57ZCctlIt"
+    },
+    {
+      "album": {
         "name": "ASMR Sounds for Relaxation",
         "url": "https://open.spotify.com/album/1qRhE2Mt9t4UgBfJh05XmY"
       },
@@ -1175,7 +1193,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 225753,
       "name": "Playing with a Windshield",
       "url": "https://open.spotify.com/track/7o93AtMJpjA3uVQgNpKK9f"
@@ -1467,6 +1485,60 @@
       "duration_ms": 164000,
       "name": "Scotch Tape",
       "url": "https://open.spotify.com/track/7agAvFih8WVi3rroAqN8s5"
+    },
+    {
+      "album": {
+        "name": "Yummy ASMR",
+        "url": "https://open.spotify.com/album/3PKQMXqfzyjCiLr1HdLKZH"
+      },
+      "artists": [
+        {
+          "name": "My ASMR Room",
+          "url": "https://open.spotify.com/artist/74ewzpfsEL70CLM2hU9K4B"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254361,
+      "name": "Scrapper on a Mic",
+      "url": "https://open.spotify.com/track/2pJZwcJO1MPcOrFaUHFlo8"
+    },
+    {
+      "album": {
+        "name": "Crinkling ASMR Sounds",
+        "url": "https://open.spotify.com/album/7MMGOEd854ZMgXcE8Ze0si"
+      },
+      "artists": [
+        {
+          "name": "Chloe C ASMR",
+          "url": "https://open.spotify.com/artist/0qLW4QW8EMXTxjBph3jY4q"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258725,
+      "name": "Scratching a Pillow",
+      "url": "https://open.spotify.com/track/3JsVbnqmvLOcS2gT9ENlO5"
+    },
+    {
+      "album": {
+        "name": "Fuzzy ASMR",
+        "url": "https://open.spotify.com/album/7ywRVJCqW8bD2w9tfNJuY8"
+      },
+      "artists": [
+        {
+          "name": "ASMR Billy",
+          "url": "https://open.spotify.com/artist/7zThNsQGpD1QW6XvXTlEAC"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273443,
+      "name": "Scratching a Wicker",
+      "url": "https://open.spotify.com/track/2NAFsQWqbRbLk8mgRYCeeF"
     },
     {
       "album": {

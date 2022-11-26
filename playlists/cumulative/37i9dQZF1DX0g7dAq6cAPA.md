@@ -4,7 +4,7 @@
 
 > Music From "Puella Magi Madoka Magica"! 音楽で辿る「魔法少女まどか☆マギカ」の世界! ©Magica Quartet／Aniplex・Madoka Movie Project Rebellio
 
-82 songs - 4 hr 13 min - [published](https://open.spotify.com/playlist/5Og264xkgbV6pHsvWifYt0)
+83 songs - 4 hr 17 min - [published](https://open.spotify.com/playlist/5Og264xkgbV6pHsvWifYt0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [コネクト](https://open.spotify.com/track/2ReLy6MAZB0lw65E7utuIt) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [コネクト](https://open.spotify.com/album/2kcyfDBLNVuvP7ebwSw3SX) | 4:31 | 2022-08-23 |  |
 | [コネクト \-ゲームインスト\-](https://open.spotify.com/track/6O7dVp1w20oN5dUjGVytoQ) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [「魔法少女まどか☆マギカ」 Music Collection](https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X) | 1:34 | 2022-08-23 |  |
 | [シグナル](https://open.spotify.com/track/6482HIZv5Bf8VDybXr1SwS) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [シグナル](https://open.spotify.com/album/7HNWph7EIYq0lDwuvgdAVt) | 3:43 | 2022-08-23 |  |
+| [フレッジ](https://open.spotify.com/track/07b3tcdgzUIcBeRJDPvsFu) | [環いろは\(CV:麻倉もも\)](https://open.spotify.com/artist/1cy5uXN8y8i5NhrfuRSvsM), [七海やちよ\(CV:雨宮天\)](https://open.spotify.com/artist/2NF2LvyC20LrgbIM0JARpy), [由比鶴乃\(CV:夏川椎菜\)](https://open.spotify.com/artist/7z5VXPhnlZMQ2y9iAfVkmd), [深月フェリシア\(CV:佐倉綾音\)](https://open.spotify.com/artist/72FEmm4aelN7tQ2avKDOoS), [二葉さな\(CV:小倉唯\)](https://open.spotify.com/artist/60ItUsKo0ZXHE3SJIyJdFh), [環うい\(CV:石見舞菜香\)](https://open.spotify.com/artist/02Z2U8A10g1BYk8FuR4j5P) | [フレッジ](https://open.spotify.com/album/4u9TwUKkOBaXcSdbuH9v5o) | 4:09 | 2022-11-24 |  |
 | [ユメおと](https://open.spotify.com/track/6M3dD7YvWOMy4LU0ZCJcHn) | [鹿目まどか \(CV:悠木碧\)](https://open.spotify.com/artist/1V4NEvOj4njRlPZj0Q9bDO), [暁美ほむら \(CV:斎藤千和\)](https://open.spotify.com/artist/6sabqK2dfqbzkF0jg2oHya) | [「魔法少女まどか☆マギカ」 Ultimate Best](https://open.spotify.com/album/6HbO9Uv1onX9RfLTQUrF8l) | 3:56 | 2022-08-23 |  |
 | [ルミナス](https://open.spotify.com/track/5OYi6DORnGytA7cNwVQpJC) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ルミナス](https://open.spotify.com/album/7i4MHVRVxRFWMwzr41RvcY) | 4:11 | 2022-08-23 |  |
 | [叶えちゃお](https://open.spotify.com/track/0DuKZazK7hATT0ycnAqqyA) | [カミハ☆マギカ](https://open.spotify.com/artist/24qLRcIuc6jVxzD82fcFAF) | [「マギアレコード 魔法少女まどか☆マギカ外伝」 Music Collection 2](https://open.spotify.com/album/45H6UtTbUtOCJx651CTeUJ) | 3:51 | 2022-08-23 |  |

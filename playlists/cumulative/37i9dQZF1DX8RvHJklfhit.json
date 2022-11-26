@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "THIS is Latin Hip-Hop",
+        "url": "https://open.spotify.com/album/3I1Q2rYaUhtvMzlF93WOrG"
+      },
+      "artists": [
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 201986,
+      "name": "1977",
+      "url": "https://open.spotify.com/track/3td82bWICyYsUn75PlqsWS"
+    },
+    {
+      "album": {
         "name": "1977",
         "url": "https://open.spotify.com/album/3ZhTbUZNobDXuzcYWGzxA3"
       },
@@ -171,10 +189,28 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 170000,
       "name": "American Spirits",
       "url": "https://open.spotify.com/track/01w1oN1WO5aOThHnLBN8eS"
+    },
+    {
+      "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/5Y8n0zLN7AaqK1hxxlgT1u"
+      },
+      "artists": [
+        {
+          "name": "Inner Wave",
+          "url": "https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "American Spirits",
+      "url": "https://open.spotify.com/track/3gBUiBPKh4ept9hoG0G93N"
     },
     {
       "album": {
@@ -399,10 +435,28 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 232149,
       "name": "Blinded",
       "url": "https://open.spotify.com/track/239chagYycSREsWq5wGq97"
+    },
+    {
+      "album": {
+        "name": "Every Third Thought",
+        "url": "https://open.spotify.com/album/2NItkHYNcAGCzYVS5ixoOq"
+      },
+      "artists": [
+        {
+          "name": "Brika",
+          "url": "https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 232149,
+      "name": "Blinded",
+      "url": "https://open.spotify.com/track/7kkvFOBOJuy5OwbnDMXTVJ"
     },
     {
       "album": {
@@ -439,6 +493,24 @@
       "duration_ms": 219280,
       "name": "Bombay",
       "url": "https://open.spotify.com/track/60aWOhenofxdFViDXn3lfp"
+    },
+    {
+      "album": {
+        "name": "Baladas Rom\u00e1nticas Latinas",
+        "url": "https://open.spotify.com/album/07EhDhHjge4hEJcXzUUq0j"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 224826,
+      "name": "Brillas",
+      "url": "https://open.spotify.com/track/0wVU74Grfynyrl7vlaCM0E"
     },
     {
       "album": {
@@ -547,7 +619,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 234483,
       "name": "Comix (feat. Mala Rodriguez)",
       "url": "https://open.spotify.com/track/7p7PdWG6KwVavbtgY7v3AV"
@@ -1019,10 +1091,50 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 223465,
       "name": "Fantasmas",
       "url": "https://open.spotify.com/track/09PyIVzV0oQlDkXwvFExDB"
+    },
+    {
+      "album": {
+        "name": "Garden of Lucid",
+        "url": "https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223465,
+      "name": "Fantasmas",
+      "url": "https://open.spotify.com/track/6ysYTOjc5pCMqx66zvj85D"
+    },
+    {
+      "album": {
+        "name": "Fantasmas (Felly Remix)",
+        "url": "https://open.spotify.com/album/5mATFeIRBwPIJBXRDO7TdH"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        },
+        {
+          "name": "Felly",
+          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 225000,
+      "name": "Fantasmas - Felly Remix",
+      "url": "https://open.spotify.com/track/0zw07GdAnINlFzhmxvx1q4"
     },
     {
       "album": {
@@ -1041,6 +1153,24 @@
       "duration_ms": 159533,
       "name": "Friends",
       "url": "https://open.spotify.com/track/1Ij5sX5MQWZ5kiLI3mgOYx"
+    },
+    {
+      "album": {
+        "name": "Retrospect",
+        "url": "https://open.spotify.com/album/5gZCWr6pi1KLogtjNHdjMp"
+      },
+      "artists": [
+        {
+          "name": "Los Retros",
+          "url": "https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 159533,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/22XJ56bENQRI0iwSl8GGWI"
     },
     {
       "album": {
@@ -1283,6 +1413,24 @@
     {
       "album": {
         "name": "Every Third Thought",
+        "url": "https://open.spotify.com/album/2NItkHYNcAGCzYVS5ixoOq"
+      },
+      "artists": [
+        {
+          "name": "Brika",
+          "url": "https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169200,
+      "name": "Internet Blues",
+      "url": "https://open.spotify.com/track/2e7lkdve1jpwYocn0OSRZK"
+    },
+    {
+      "album": {
+        "name": "Every Third Thought",
         "url": "https://open.spotify.com/album/5EkUotvrlGXnq8rdkT1Pju"
       },
       "artists": [
@@ -1293,7 +1441,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 169200,
       "name": "Internet Blues",
       "url": "https://open.spotify.com/track/3rlxHAv1NgtDhE9lCjK1rI"
@@ -1406,6 +1554,24 @@
     },
     {
       "album": {
+        "name": "Que Canchero: New Sounds of Argentina",
+        "url": "https://open.spotify.com/album/3nj70asHxCpdY2cEWLBh59"
+      },
+      "artists": [
+        {
+          "name": "Los Espiritus",
+          "url": "https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 272187,
+      "name": "La Crecida",
+      "url": "https://open.spotify.com/track/71ky65FLBP3yh0BWuU0WqP"
+    },
+    {
+      "album": {
         "name": "Land of Aloha",
         "url": "https://open.spotify.com/album/5GXGUNPcViuMY9hlwH55di"
       },
@@ -1475,6 +1641,24 @@
       "duration_ms": 220306,
       "name": "Latino & Proud",
       "url": "https://open.spotify.com/track/4Ra5uVAtoj7yVh9IaSl8g4"
+    },
+    {
+      "album": {
+        "name": "Latino & Proud",
+        "url": "https://open.spotify.com/album/0fZtQ83jinxe0jpryLuN29"
+      },
+      "artists": [
+        {
+          "name": "DJ Raff",
+          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 220346,
+      "name": "Latino & Proud",
+      "url": "https://open.spotify.com/track/0ebMUu10FOZeZyQtc2GVYn"
     },
     {
       "album": {
@@ -1619,10 +1803,28 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 312000,
       "name": "Lo Que Siento",
       "url": "https://open.spotify.com/track/3oyf4dalm17kzTE8LJDbgR"
+    },
+    {
+      "album": {
+        "name": "Lo Que Siento",
+        "url": "https://open.spotify.com/album/69FOLmptEcKSeN1f60UFDC"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312000,
+      "name": "Lo Que Siento",
+      "url": "https://open.spotify.com/track/4CYeId6mLAasOb6o0NCz4Y"
     },
     {
       "album": {
@@ -1662,6 +1864,42 @@
     },
     {
       "album": {
+        "name": "I'm Your Empress Of",
+        "url": "https://open.spotify.com/album/08pGwlQDFQYZg1gX0ZYOKq"
+      },
+      "artists": [
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Love Is A Drug",
+      "url": "https://open.spotify.com/track/1plMJh3KzL9iza1xBtGfG9"
+    },
+    {
+      "album": {
+        "name": "Tornaluna",
+        "url": "https://open.spotify.com/album/0PY6ZHeBBwSkJxt85dzyz8"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250073,
+      "name": "Malas Amistades",
+      "url": "https://open.spotify.com/track/1fVVT89PhHDh9COdU5DB9B"
+    },
+    {
+      "album": {
         "name": "Tornaluna",
         "url": "https://open.spotify.com/album/2T5UIzLcqQwa2NZm69C5xs"
       },
@@ -1673,7 +1911,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-30",
       "duration_ms": 250073,
       "name": "Malas Amistades",
       "url": "https://open.spotify.com/track/4rwuZRZ8LnkdAGJXBeAvGh"
@@ -1767,6 +2005,24 @@
       "duration_ms": 265433,
       "name": "Mi F\u00e1brica de Baile",
       "url": "https://open.spotify.com/track/3Z3aEb63WSnkznQMOzixVZ"
+    },
+    {
+      "album": {
+        "name": "Mi F\u00e1brica de Baile",
+        "url": "https://open.spotify.com/album/5OIiVx6KU5c3fjTv0jOX5o"
+      },
+      "artists": [
+        {
+          "name": "Joe Crep\u00fasculo",
+          "url": "https://open.spotify.com/artist/34SgyDEDqVlahIQRDttgCn"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 265433,
+      "name": "Mi F\u00e1brica de Baile",
+      "url": "https://open.spotify.com/track/3wkAvCuGgxhwzgCa2G5Rst"
     },
     {
       "album": {
@@ -1947,6 +2203,24 @@
       "duration_ms": 170926,
       "name": "Obra de Arte",
       "url": "https://open.spotify.com/track/3kJPCWZAOSi7Rxa4UR1bjv"
+    },
+    {
+      "album": {
+        "name": "Obra de Arte",
+        "url": "https://open.spotify.com/album/5Gpr1tWltTqDMaVL367II0"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 170926,
+      "name": "Obra de Arte",
+      "url": "https://open.spotify.com/track/5ntg6WcHvCEoIfWS1PpMtH"
     },
     {
       "album": {
@@ -2325,10 +2599,64 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 127272,
       "name": "Ugotme",
       "url": "https://open.spotify.com/track/2NCBjlH7FHEG7hXcnvUaWA"
+    },
+    {
+      "album": {
+        "name": "Ugotme",
+        "url": "https://open.spotify.com/album/6UaGRwG85AE5TiHPCUc70W"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 127272,
+      "name": "Ugotme",
+      "url": "https://open.spotify.com/track/4IccrOU5XbecVU3yMDjy23"
+    },
+    {
+      "album": {
+        "name": "Stereo",
+        "url": "https://open.spotify.com/album/1DEqCWbOzKMhxRoTPz21Ht"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127272,
+      "name": "Ugotme",
+      "url": "https://open.spotify.com/track/5Ju9aLa212eAILfl5sWkjc"
+    },
+    {
+      "album": {
+        "name": "Unbothered",
+        "url": "https://open.spotify.com/album/2KV3y0IfAswzlbd2iJIgwU"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124954,
+      "name": "Unbothered",
+      "url": "https://open.spotify.com/track/3pBG8fHFEUp3edhWfkIoCW"
     },
     {
       "album": {
@@ -2343,7 +2671,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 124954,
       "name": "Unbothered",
       "url": "https://open.spotify.com/track/4p1Er46wDz4zGQI7Sxor3W"
@@ -2423,6 +2751,24 @@
       "duration_ms": 236000,
       "name": "V\u00e1monos De Viaje",
       "url": "https://open.spotify.com/track/6KVK1XO1Xzy7KGfoOockqA"
+    },
+    {
+      "album": {
+        "name": "Ponle buena vibra",
+        "url": "https://open.spotify.com/album/5lac5cYB1nKYtD9KF35VHg"
+      },
+      "artists": [
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 236426,
+      "name": "V\u00e1monos De Viaje",
+      "url": "https://open.spotify.com/track/3q4VrJgLUJSzdTIzjAP8LK"
     },
     {
       "album": {

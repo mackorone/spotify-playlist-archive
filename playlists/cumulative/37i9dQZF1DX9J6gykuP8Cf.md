@@ -4,7 +4,7 @@
 
 > The official playlist for Metal Lords\. Watch on Netflix.
 
-18 songs - 1 hr 21 min - [published](https://open.spotify.com/playlist/6I0xUfoyYsv2CRtCDLpe1f)
+19 songs - 1 hr 26 min - [published](https://open.spotify.com/playlist/6I0xUfoyYsv2CRtCDLpe1f)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Grinder](https://open.spotify.com/track/54IuIxOITRtbK8cU7fHIQf) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [British Steel](https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY) | 3:57 | 2022-04-08 |  |
 | [Hail to the King](https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 5:05 | 2022-04-08 |  |
 | [I'm Broken](https://open.spotify.com/track/46VBfb29ibhXoLYm76cwFW) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Metal Legends](https://open.spotify.com/album/5UiYJPB3sQ0Ry3mZ8OXX8M) | 4:25 | 2022-04-08 |  |
-| [Machinery Of Torment \(From The Netflix Film "Metal Lords"\)](https://open.spotify.com/track/7kww7WSGoTy2Nkvl2tKpIJ) | [Skullflower](https://open.spotify.com/artist/2NyzmKNW0uXrv6jEE3cQfJ) | [Machinery Of Torment \(From The Netflix Film "Metal Lords"\)](https://open.spotify.com/album/5tHxZMveT3armkawVYxETP) | 4:22 | 2022-04-08 |  |
+| [Machinery Of Torment \(From The Netflix Film "Metal Lords"\)](https://open.spotify.com/track/2nUIQb5rkpHa2DOxZ7vcOH) | [Skullflower](https://open.spotify.com/artist/2NyzmKNW0uXrv6jEE3cQfJ) | [Machinery Of Torment \(From The Netflix Film "Metal Lords"\)](https://open.spotify.com/album/3lncXQChYYzNNyU6yRqqP7) | 4:22 | 2022-04-08 |  |
+| [Machinery Of Torment \(From The Netflix Film "Metal Lords"\)](https://open.spotify.com/track/7kww7WSGoTy2Nkvl2tKpIJ) | [Skullflower](https://open.spotify.com/artist/2NyzmKNW0uXrv6jEE3cQfJ) | [Machinery Of Torment \(From The Netflix Film "Metal Lords"\)](https://open.spotify.com/album/5tHxZMveT3armkawVYxETP) | 4:22 | 2022-04-08 | 2022-11-17 |
 | [Master of Puppets \(Remastered\)](https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master of Puppets \(Remastered Deluxe Box Set\)](https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j) | 8:35 | 2022-04-08 |  |
 | [Metal Gods](https://open.spotify.com/track/0VFfZVCFNe1I2IIChVBR5m) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [British Steel](https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY) | 3:58 | 2022-04-08 |  |
 | [One \(Radio Edit\)](https://open.spotify.com/track/16TNLEg96SqzRWAj7N6PRY) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [...And Justice for All \(Remastered Deluxe Box Set\)](https://open.spotify.com/album/2XbWaerVk9fjhEiGSrd6TF) | 5:02 | 2022-04-08 |  |

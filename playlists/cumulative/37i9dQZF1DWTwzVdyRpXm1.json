@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Desi hits from South Asia. Cover: Shae Gill, Ali Sethi",
+  "description": "Desi hits from South Asia. Cover: King",
   "name": "Desi Hits",
   "published_playlist_ids": [
     "5pITaMwZ6Z8u14yHLHyyaQ"
@@ -26,6 +26,28 @@
     },
     {
       "album": {
+        "name": "Worth The Wait",
+        "url": "https://open.spotify.com/album/0exmK0iMT8apkRqNHMJSy5"
+      },
+      "artists": [
+        {
+          "name": "Talha Anjum",
+          "url": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci"
+        },
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208695,
+      "name": "4AM in Karachi",
+      "url": "https://open.spotify.com/track/1hprJ4nFW7lyQbyi7RQnNj"
+    },
+    {
+      "album": {
         "name": "6 Maheenay",
         "url": "https://open.spotify.com/album/5eRdEYyiB5zyE16BiYGgjs"
       },
@@ -37,7 +59,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 194906,
       "name": "6 Maheenay",
       "url": "https://open.spotify.com/track/6y6pBKHe151pglLIiJw6iD"
@@ -401,6 +423,24 @@
       "duration_ms": 271280,
       "name": "Chaka Chak",
       "url": "https://open.spotify.com/track/4uLG79ROWYEXx1kJvDVbWI"
+    },
+    {
+      "album": {
+        "name": "Champagne Talk",
+        "url": "https://open.spotify.com/album/15CyNDuGY5fsG0Hn9rjnpG"
+      },
+      "artists": [
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163008,
+      "name": "Champagne Talk",
+      "url": "https://open.spotify.com/track/7sp9SYjIBBniAJ7xa1nkZh"
     },
     {
       "album": {
@@ -904,6 +944,28 @@
     },
     {
       "album": {
+        "name": "Gawara",
+        "url": "https://open.spotify.com/album/7cEtQI6vTHbXbrRNWDKqdd"
+      },
+      "artists": [
+        {
+          "name": "Abdul Hannan",
+          "url": "https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1"
+        },
+        {
+          "name": "Shahmeer Raza Khan",
+          "url": "https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Gawara",
+      "url": "https://open.spotify.com/track/30SraUQbTd11TDrzkgeK4z"
+    },
+    {
+      "album": {
         "name": "Gehraiyaan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1n3IiQK8urUhPw8wsfWluX"
       },
@@ -1023,7 +1085,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 187813,
       "name": "Habibi",
       "url": "https://open.spotify.com/track/7e6mcPDj3sEZ5TQkZjn6Fy"
@@ -1470,6 +1532,24 @@
     },
     {
       "album": {
+        "name": "Champagne Talk",
+        "url": "https://open.spotify.com/album/15CyNDuGY5fsG0Hn9rjnpG"
+      },
+      "artists": [
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194653,
+      "name": "Maan Meri Jaan",
+      "url": "https://open.spotify.com/track/1418IuVKQPTYqt7QNJ9RXN"
+    },
+    {
+      "album": {
         "name": "Main Kaise Kahoon",
         "url": "https://open.spotify.com/album/6OgN2u5FuqLG2emWjx4IpX"
       },
@@ -1585,6 +1665,24 @@
     {
       "album": {
         "name": "Gangubai Kathiawadi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6W3CcM7fj236axX7Vp7Txu"
+      },
+      "artists": [
+        {
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 238087,
+      "name": "Meri Jaan",
+      "url": "https://open.spotify.com/track/5u6OYth22u9NM4tYGcr97I"
+    },
+    {
+      "album": {
+        "name": "Gangubai Kathiawadi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3kT50JTcaeVQMIh0NUNjyM"
       },
       "artists": [
@@ -1675,6 +1773,24 @@
       "duration_ms": 462500,
       "name": "Mohabbat",
       "url": "https://open.spotify.com/track/4lcQHckNMeUkM8jx67j28G"
+    },
+    {
+      "album": {
+        "name": "Moonrise",
+        "url": "https://open.spotify.com/album/1Q48FsRM9uF3VvGYaji5bE"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169200,
+      "name": "Moonrise",
+      "url": "https://open.spotify.com/track/0uSsibjt7ZjdRwHTJrqWOT"
     },
     {
       "album": {
@@ -2374,6 +2490,28 @@
     },
     {
       "album": {
+        "name": "BellBottom (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0xcn75mmKGdvd2XYJUmqCU"
+      },
+      "artists": [
+        {
+          "name": "Maninder Buttar",
+          "url": "https://open.spotify.com/artist/2sN4fSzAm2rAL0HIurPCEM"
+        },
+        {
+          "name": "Zara Khan",
+          "url": "https://open.spotify.com/artist/3YVD2aXecw8JQuWkGAuf7t"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 177694,
+      "name": "Sakhiyan2.0",
+      "url": "https://open.spotify.com/track/0E0Us1GI40GNXWOQwbL5uG"
+    },
+    {
+      "album": {
         "name": "Sakhiyan2.0 (From \"BellBottom\") - Single",
         "url": "https://open.spotify.com/album/3T7z9uyd25hw8zLcxkS5Yc"
       },
@@ -2501,6 +2639,28 @@
       "duration_ms": 186947,
       "name": "Stunner",
       "url": "https://open.spotify.com/track/5uEqb1GoOV3W5vUaAIvyPc"
+    },
+    {
+      "album": {
+        "name": "Sukoon",
+        "url": "https://open.spotify.com/album/5T7svmheaHZxJEHTLP6BAB"
+      },
+      "artists": [
+        {
+          "name": "Hassan & Roshaan",
+          "url": "https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7"
+        },
+        {
+          "name": "Shae Gill",
+          "url": "https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255764,
+      "name": "Sukoon",
+      "url": "https://open.spotify.com/track/4mPZipDmUysKaLxZTDEVsx"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEt6Lx9mdBy.md) - [plain]
 
 > "Music to chill me out and raise my spirit." Cover: Zion Clark
 
-[Spotify](https://open.spotify.com/user/spotify) - 9 likes - 30 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 16 likes - 30 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

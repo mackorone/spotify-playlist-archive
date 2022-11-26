@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The latest music from our Country Heroes. Cover: Ronnie Dunn",
+  "description": "The latest music from our Country Heroes. Cover: Tanya Tucker",
   "name": "New Traditions Country Heroes",
   "published_playlist_ids": [
     "5GBlntmj7cxNabVRK2ZjTV"
@@ -564,6 +564,24 @@
     },
     {
       "album": {
+        "name": "Bobby's Going Crazy Again",
+        "url": "https://open.spotify.com/album/5RSxdRljXMRcVKm8ghUbLj"
+      },
+      "artists": [
+        {
+          "name": "Johnny Tillotson",
+          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148529,
+      "name": "Bobby's Going Crazy Again",
+      "url": "https://open.spotify.com/track/05OA2DSIjJN8xPMAnjpMv2"
+    },
+    {
+      "album": {
         "name": "Born Ready",
         "url": "https://open.spotify.com/album/40PSbH50uUot5MIjIvqm9G"
       },
@@ -713,6 +731,24 @@
       "duration_ms": 169874,
       "name": "Country Pie",
       "url": "https://open.spotify.com/track/7saHu3eotJFSeo6TAFkvoD"
+    },
+    {
+      "album": {
+        "name": "Country Star",
+        "url": "https://open.spotify.com/album/3y792nYJ1zF9mjLEGDfUDc"
+      },
+      "artists": [
+        {
+          "name": "Marty Stuart And His Fabulous Superlatives",
+          "url": "https://open.spotify.com/artist/559WWygoFrpAD58V0PqVwO"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185709,
+      "name": "Country Star",
+      "url": "https://open.spotify.com/track/0ZesYm9KhuCthYX8No6eMs"
     },
     {
       "album": {
@@ -1720,6 +1756,24 @@
     },
     {
       "album": {
+        "name": "Swing Down Chariot",
+        "url": "https://open.spotify.com/album/1ZycZB9RBLz942ouEEDJbz"
+      },
+      "artists": [
+        {
+          "name": "The Oak Ridge Boys",
+          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 233122,
+      "name": "Life is Beautiful",
+      "url": "https://open.spotify.com/track/2I13ZwV1Xz1UqoemhWa7fz"
+    },
+    {
+      "album": {
         "name": "Life Is Beautiful",
         "url": "https://open.spotify.com/album/1td6EkbqoWPK7RWEVnTUGY"
       },
@@ -1978,6 +2032,24 @@
     },
     {
       "album": {
+        "name": "Oklahoma Breakdown",
+        "url": "https://open.spotify.com/album/5Pxx8mNX7bs9U7CeiH26T8"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 211609,
+      "name": "Oklahoma Breakdown",
+      "url": "https://open.spotify.com/track/5RJiZmTaC9o57TSCZN5anN"
+    },
+    {
+      "album": {
         "name": "Peso in My Pocket",
         "url": "https://open.spotify.com/album/18AunqcqOhcZYZewF5uQFQ"
       },
@@ -2152,6 +2224,24 @@
     },
     {
       "album": {
+        "name": "Ready As I'll Never Be",
+        "url": "https://open.spotify.com/album/5H0SF6b6zNFQ5GF6ixsZV1"
+      },
+      "artists": [
+        {
+          "name": "Tanya Tucker",
+          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241185,
+      "name": "Ready As I'll Never Be",
+      "url": "https://open.spotify.com/track/3ClP57EQSyJyWLpYgGD131"
+    },
+    {
+      "album": {
         "name": "Redhead",
         "url": "https://open.spotify.com/album/7hCl3yuH8JK5vRR0iSQpwF"
       },
@@ -2287,6 +2377,28 @@
       "duration_ms": 184707,
       "name": "Set In Stone",
       "url": "https://open.spotify.com/track/7MVqVhltAY0slcw61hsRwa"
+    },
+    {
+      "album": {
+        "name": "She Had Me At Heads Carolina (with Jo Dee Messina) [Remix]",
+        "url": "https://open.spotify.com/album/19PdywBe6KaiBhaws1cUPC"
+      },
+      "artists": [
+        {
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        },
+        {
+          "name": "Jo Dee Messina",
+          "url": "https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223666,
+      "name": "She Had Me At Heads Carolina (with Jo Dee Messina) - Remix",
+      "url": "https://open.spotify.com/track/557rfmFFNH4YwsE2OYZfhF"
     },
     {
       "album": {
@@ -2875,6 +2987,32 @@
       "duration_ms": 193250,
       "name": "Trying to Find Atlantis 2.0",
       "url": "https://open.spotify.com/track/21r2ejC94FazSJw16RVZOS"
+    },
+    {
+      "album": {
+        "name": "Soundtrack To Summer 2021 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1fc9zXrxkl5Jq7ywXtirNY"
+      },
+      "artists": [
+        {
+          "name": "Wanda Jackson",
+          "url": "https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB"
+        },
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        },
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 170506,
+      "name": "Two Shots",
+      "url": "https://open.spotify.com/track/3oe8IMue6ACADm3oNe4r3e"
     },
     {
       "album": {

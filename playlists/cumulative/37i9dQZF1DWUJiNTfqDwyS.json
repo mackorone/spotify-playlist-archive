@@ -241,10 +241,36 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 202099,
       "name": "Bodies",
       "url": "https://open.spotify.com/track/5eDJaMNW8uSayxhKBXhmUW"
+    },
+    {
+      "album": {
+        "name": "Bohemian Rhapsody",
+        "url": "https://open.spotify.com/album/0CDBNFho40fetPZ0OhJBu0"
+      },
+      "artists": [
+        {
+          "name": "Postscript",
+          "url": "https://open.spotify.com/artist/5vmEAPJu1H4JKvjMXtJUJf"
+        },
+        {
+          "name": "Jeremy Tollas",
+          "url": "https://open.spotify.com/artist/6tsABB4MuOA6HoDfKgLieW"
+        },
+        {
+          "name": "Famous Last Words",
+          "url": "https://open.spotify.com/artist/3rxPTMtxVQKNAbBBl6cQrw"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333000,
+      "name": "Bohemian Rhapsody",
+      "url": "https://open.spotify.com/track/2lG0zhMNTXoDdA6R6o9O2Z"
     },
     {
       "album": {
@@ -447,6 +473,24 @@
       "duration_ms": 292426,
       "name": "Dream On",
       "url": "https://open.spotify.com/track/5sIHNMVLSH976hIf2X6SwX"
+    },
+    {
+      "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/6IDsS2a6HUON1OfACGIqib"
+      },
+      "artists": [
+        {
+          "name": "Nomy",
+          "url": "https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314657,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/2OAzE4s5M3sZAljAr6F85v"
     },
     {
       "album": {
@@ -659,6 +703,24 @@
     {
       "album": {
         "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+        "url": "https://open.spotify.com/album/1Lcwr8J57hqXtEyIrqvP7V"
+      },
+      "artists": [
+        {
+          "name": "Amberian Dawn",
+          "url": "https://open.spotify.com/artist/01DQQFGEOzbFugH5FcVAgI"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271616,
+      "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+      "url": "https://open.spotify.com/track/0eXANhdovGOlPMikFproly"
+    },
+    {
+      "album": {
+        "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
         "url": "https://open.spotify.com/album/4LSbhtzHdQtsE6XPF4xNdy"
       },
       "artists": [
@@ -767,8 +829,8 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 276999,
+      "date_removed": "2022-11-25",
+      "duration_ms": 260720,
       "name": "Heroes",
       "url": "https://open.spotify.com/track/1WE1WsxSqVofH8ugxJkc0c"
     },
@@ -987,7 +1049,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 251034,
       "name": "Judas",
       "url": "https://open.spotify.com/track/1siidHE9T8LBQVltAw8piM"
@@ -1142,6 +1204,24 @@
     },
     {
       "album": {
+        "name": "Life On Mars?",
+        "url": "https://open.spotify.com/album/7Fus1yDojHyih5BFpIlVJl"
+      },
+      "artists": [
+        {
+          "name": "Tuuh",
+          "url": "https://open.spotify.com/artist/65456d4iYC4Z1twwPkV9O5"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235986,
+      "name": "Life On Mars?",
+      "url": "https://open.spotify.com/track/7DWloTckw5BK6VRNepZIP5"
+    },
+    {
+      "album": {
         "name": "Livin' la Vida Loca (Cover)",
         "url": "https://open.spotify.com/album/1vwAdEbrf2M5oC79nUyjWC"
       },
@@ -1189,7 +1269,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 251600,
       "name": "Looks That Kill",
       "url": "https://open.spotify.com/track/6EsmreLQ4j67JOyq9cDiA5"
@@ -1247,7 +1327,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": "2022-11-13",
       "duration_ms": 210145,
       "name": "Mambo No. 5 - Cover",
       "url": "https://open.spotify.com/track/6zVPxBtCzKMewKLC9OOfcx"
@@ -1647,7 +1727,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-10-20",
       "duration_ms": 299853,
       "name": "Remember Tomorrow",
       "url": "https://open.spotify.com/track/3f8ABUkSOvkpNHahBXBEA9"
@@ -1795,10 +1875,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 222533,
       "name": "Shock the Monkey",
       "url": "https://open.spotify.com/track/55fRL1pNYMXgxLOHPCfLh5"
+    },
+    {
+      "album": {
+        "name": "Chamber Music",
+        "url": "https://open.spotify.com/album/3XqNiYuQRjJ6w3yTnt5B06"
+      },
+      "artists": [
+        {
+          "name": "Coal Chamber",
+          "url": "https://open.spotify.com/artist/69k6uTSZMPLpSnhmLCiKxQ"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222533,
+      "name": "Shock the Monkey",
+      "url": "https://open.spotify.com/track/5NXTDuDe0BQ8trPWGaE5ih"
     },
     {
       "album": {
@@ -1991,6 +2089,28 @@
     {
       "album": {
         "name": "The Devil Went Down to Georgia",
+        "url": "https://open.spotify.com/album/3yzFM8wOw5cRoFbG6lFjQt"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        },
+        {
+          "name": "Yelawolf",
+          "url": "https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231627,
+      "name": "The Devil Went Down to Georgia",
+      "url": "https://open.spotify.com/track/1fUn2ABChAzrqDgrlZdk6W"
+    },
+    {
+      "album": {
+        "name": "The Devil Went Down to Georgia",
         "url": "https://open.spotify.com/album/6WMyuY1fcOfwMcjLqI3X1W"
       },
       "artists": [
@@ -2005,7 +2125,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 231627,
       "name": "The Devil Went Down to Georgia",
       "url": "https://open.spotify.com/track/7z3yEMhxw6ggDA9MjBqXow"
@@ -2095,7 +2215,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-10-17",
       "duration_ms": 435853,
       "name": "To Tame a Land",
       "url": "https://open.spotify.com/track/0OfFgbRGM8qMxDofN3lpdM"

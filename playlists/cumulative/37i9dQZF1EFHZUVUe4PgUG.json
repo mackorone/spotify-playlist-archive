@@ -843,6 +843,28 @@
     {
       "album": {
         "name": "Loca Crazy",
+        "url": "https://open.spotify.com/album/6lwo9KQ5ZC5glyaaYUpWwD"
+      },
+      "artists": [
+        {
+          "name": "Patricia Zavala",
+          "url": "https://open.spotify.com/artist/6phtBAYwDEdv1xOcaVCbus"
+        },
+        {
+          "name": "Budu",
+          "url": "https://open.spotify.com/artist/7n0qv6tQpogYMmeLs0nYAD"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156346,
+      "name": "Loca Crazy",
+      "url": "https://open.spotify.com/track/0VZTJGFXYAARxaO27DkE9W"
+    },
+    {
+      "album": {
+        "name": "Loca Crazy",
         "url": "https://open.spotify.com/album/4pzkeNg3MARIDjJkEWDX8u"
       },
       "artists": [
@@ -857,7 +879,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 156346,
       "name": "Loca Crazy",
       "url": "https://open.spotify.com/track/3HcnF7SQgTL6PG5UGGPnyv"

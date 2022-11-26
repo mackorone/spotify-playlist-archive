@@ -77,7 +77,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": "2022-11-12",
       "duration_ms": 244615,
       "name": "Abena",
       "url": "https://open.spotify.com/track/4lICAx8Aqp6rRV2jfklUYu"
@@ -269,13 +269,13 @@
           "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         },
         {
-          "name": "WizKid",
+          "name": "Wizkid",
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 189800,
       "name": "B. D\u2019OR (feat. Wizkid)",
       "url": "https://open.spotify.com/track/3ketN3dth18vSJ1T3HIztN"
@@ -605,6 +605,28 @@
       "duration_ms": 178053,
       "name": "Best/Blessed",
       "url": "https://open.spotify.com/track/4WLYj516jLlTD6Uhs7MSgy"
+    },
+    {
+      "album": {
+        "name": "Big Thug Boys (Dj Yo! Remix)",
+        "url": "https://open.spotify.com/album/325V7bs8JbRVesHY65GwjK"
+      },
+      "artists": [
+        {
+          "name": "AV",
+          "url": "https://open.spotify.com/artist/4zSFP72igZmzWSRpK7AepF"
+        },
+        {
+          "name": "Dj Yo!",
+          "url": "https://open.spotify.com/artist/7iTLGcddv1bOPirdYJjKVy"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174774,
+      "name": "Big Thug Boys (Dj Yo! Remix)",
+      "url": "https://open.spotify.com/track/50OUQ4zH8PfuQzuDyZw2Of"
     },
     {
       "album": {
@@ -1841,10 +1863,28 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 198280,
       "name": "DesignerBoy",
       "url": "https://open.spotify.com/track/5TWJIdt1LdQJ5w66jYpNnd"
+    },
+    {
+      "album": {
+        "name": "Dey Inside",
+        "url": "https://open.spotify.com/album/1R9Omq2kGRKB41M7nNzr1D"
+      },
+      "artists": [
+        {
+          "name": "Amartey",
+          "url": "https://open.spotify.com/artist/2yVIMZ3tHWSmoP3ZLwJmJu"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194291,
+      "name": "DEY INSIDE",
+      "url": "https://open.spotify.com/track/6HVKsh53jZpEj53hC82rtU"
     },
     {
       "album": {
@@ -2134,6 +2174,24 @@
     },
     {
       "album": {
+        "name": "Strandje Aan De Maas",
+        "url": "https://open.spotify.com/album/6p6fROC9FzKXHBY7RyVjuA"
+      },
+      "artists": [
+        {
+          "name": "Broederliefde",
+          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200759,
+      "name": "D\u00e9j\u00e0 Vu",
+      "url": "https://open.spotify.com/track/3oXkYHn1T8V2RsPpKUAZQr"
+    },
+    {
+      "album": {
         "name": "EARLY MORNING",
         "url": "https://open.spotify.com/album/7c0hQx7JtR6YtypOBxhxPO"
       },
@@ -2417,7 +2475,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 199591,
       "name": "Flex",
       "url": "https://open.spotify.com/track/4Bozf61W7Tv1Vyp18kLZy1"
@@ -3476,6 +3534,24 @@
     },
     {
       "album": {
+        "name": "Kute & Neat",
+        "url": "https://open.spotify.com/album/0ERXtxLbzljkQaluDv1WOY"
+      },
+      "artists": [
+        {
+          "name": "Sasique",
+          "url": "https://open.spotify.com/artist/0IfOujGLUo7rVkWGg84Nd1"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189484,
+      "name": "Kute & Neat",
+      "url": "https://open.spotify.com/track/1P01cmmSQIaWnhjDe1fdQF"
+    },
+    {
+      "album": {
         "name": "Platonicos",
         "url": "https://open.spotify.com/album/5sEpXan86hEcM8eZSAoWhw"
       },
@@ -3845,7 +3921,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-16",
       "duration_ms": 216092,
       "name": "LowKey (feat. Jayd Ink) - Charly Black Remix",
       "url": "https://open.spotify.com/track/3XQvocnKfdOlLYpe78kzxl"
@@ -4486,6 +4562,24 @@
     },
     {
       "album": {
+        "name": "Mysterious",
+        "url": "https://open.spotify.com/album/0wCfJvi08X1dBz01JbFEIY"
+      },
+      "artists": [
+        {
+          "name": "JMANI",
+          "url": "https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164334,
+      "name": "Mysterious",
+      "url": "https://open.spotify.com/track/3X5X93xYL8Qwd6l0DuajPT"
+    },
+    {
+      "album": {
         "name": "N'y pense plus",
         "url": "https://open.spotify.com/album/6OZw1o9TZEgHLnggVYmqLS"
       },
@@ -4756,6 +4850,24 @@
     },
     {
       "album": {
+        "name": "Nobody Knows",
+        "url": "https://open.spotify.com/album/2mUXHcpiEOi8c2CVO3qC2G"
+      },
+      "artists": [
+        {
+          "name": "Bryan Mg",
+          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156927,
+      "name": "Nobody Knows",
+      "url": "https://open.spotify.com/track/3Y50lI3uo0P910ZnCCEqqU"
+    },
+    {
+      "album": {
         "name": "Nobody Like You",
         "url": "https://open.spotify.com/album/3QKq7MUew8RASB1b0XVldC"
       },
@@ -4789,7 +4901,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 212482,
       "name": "Not Over It",
       "url": "https://open.spotify.com/track/5vYWYCPdD6BqOy5hDYuCAi"
@@ -4897,7 +5009,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 223846,
       "name": "One Night",
       "url": "https://open.spotify.com/track/6mrs3TiZ3fnUnJu72OkCrG"
@@ -5510,6 +5622,24 @@
     },
     {
       "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185093,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB"
+    },
+    {
+      "album": {
         "name": "Best Of Timaya",
         "url": "https://open.spotify.com/album/3XOLe6u3PhDseCeE5RO84l"
       },
@@ -5609,7 +5739,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-26",
+      "date_removed": null,
       "duration_ms": 165776,
       "name": "See You Again",
       "url": "https://open.spotify.com/track/1fiXFwKNKcTRFBeR9wlKhB"
@@ -5783,7 +5913,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 155109,
       "name": "Slim Daddy",
       "url": "https://open.spotify.com/track/3AYiqkfWxAPkyan6XDZ6jL"
@@ -5897,6 +6027,28 @@
       "duration_ms": 204755,
       "name": "Soundgasm",
       "url": "https://open.spotify.com/track/5c549LWiKCWGvcDsZwMN6v"
+    },
+    {
+      "album": {
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/12iai3p96UYvcrDqlvvKFE"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Tempoe",
+          "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Soweto",
+      "url": "https://open.spotify.com/track/6RbOyNeajWax51NtpO6WT8"
     },
     {
       "album": {
@@ -6297,6 +6449,28 @@
       "duration_ms": 152607,
       "name": "Tetema",
       "url": "https://open.spotify.com/track/53NjleILyfXt7GYwTgxZX9"
+    },
+    {
+      "album": {
+        "name": "Tetema (feat. Diamond Platnumz)",
+        "url": "https://open.spotify.com/album/5ByfebvDaiXgUQOleR14GK"
+      },
+      "artists": [
+        {
+          "name": "Rayvanny",
+          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
+        },
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 152608,
+      "name": "Tetema (feat. Diamond Platnumz)",
+      "url": "https://open.spotify.com/track/1rbQWXOpvpbf61fsFDQnru"
     },
     {
       "album": {
@@ -6939,7 +7113,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 374617,
       "name": "Velletjes (Amapiano Remix)",
       "url": "https://open.spotify.com/track/1rmkT2BEd7mQbF7p5KeKXk"
@@ -7257,10 +7431,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 192880,
       "name": "Wickedest",
       "url": "https://open.spotify.com/track/0IbJBhAkIFqTHoYjWYxpzZ"
+    },
+    {
+      "album": {
+        "name": "Wickedest",
+        "url": "https://open.spotify.com/album/6ksJ2GuWsid065x77nx6Cr"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192880,
+      "name": "Wickedest",
+      "url": "https://open.spotify.com/track/2nAOiwTa3qvuzawrwN7gaA"
     },
     {
       "album": {
@@ -7337,7 +7529,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 174172,
       "name": "Yahoo Boy",
       "url": "https://open.spotify.com/track/5HlLiMUciWPEGG2c3Xu0cu"
@@ -7373,7 +7565,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 139805,
       "name": "Yeno Ntem",
       "url": "https://open.spotify.com/track/32YnFyOGhRmqXXuuGcf4yp"

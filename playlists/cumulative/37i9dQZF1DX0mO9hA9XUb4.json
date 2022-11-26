@@ -85,7 +85,7 @@
     {
       "album": {
         "name": "Kuthu Fire",
-        "url": "https://open.spotify.com/album/22N9hU678amR5NiwIIlnEy"
+        "url": "https://open.spotify.com/album/1t6ey57jKPumpSusx0mMKn"
       },
       "artists": [
         {
@@ -96,6 +96,24 @@
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 207604,
+      "name": "Be Free",
+      "url": "https://open.spotify.com/track/25iXD24rJ3QByQl58vG5hB"
+    },
+    {
+      "album": {
+        "name": "Kuthu Fire",
+        "url": "https://open.spotify.com/album/22N9hU678amR5NiwIIlnEy"
+      },
+      "artists": [
+        {
+          "name": "Vidya Vox",
+          "url": "https://open.spotify.com/artist/4OFJbe1HHVcpnw480py1uN"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-15",
       "duration_ms": 207604,
       "name": "Be Free",
       "url": "https://open.spotify.com/track/5wfU3eM43UptY57VigdHzh"
@@ -415,7 +433,7 @@
     {
       "album": {
         "name": "Kuthu Fire",
-        "url": "https://open.spotify.com/album/22N9hU678amR5NiwIIlnEy"
+        "url": "https://open.spotify.com/album/1t6ey57jKPumpSusx0mMKn"
       },
       "artists": [
         {
@@ -426,6 +444,24 @@
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 205118,
+      "name": "Kuthu Fire",
+      "url": "https://open.spotify.com/track/2XeiE7RWxBQCNdCvZzqTiA"
+    },
+    {
+      "album": {
+        "name": "Kuthu Fire",
+        "url": "https://open.spotify.com/album/22N9hU678amR5NiwIIlnEy"
+      },
+      "artists": [
+        {
+          "name": "Vidya Vox",
+          "url": "https://open.spotify.com/artist/4OFJbe1HHVcpnw480py1uN"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-15",
       "duration_ms": 205118,
       "name": "Kuthu Fire",
       "url": "https://open.spotify.com/track/2pqPH34BNK9eTi2TBVSExL"
@@ -541,10 +577,28 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 193885,
       "name": "No Fire",
       "url": "https://open.spotify.com/track/1wv18B6Z3Sc82PTwsthRKq"
+    },
+    {
+      "album": {
+        "name": "No Fire",
+        "url": "https://open.spotify.com/album/2yKRqx4PIXWmNWglUaHZgg"
+      },
+      "artists": [
+        {
+          "name": "Sofya Wang",
+          "url": "https://open.spotify.com/artist/4axDBKx7Segq3j5P2VVSjx"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193885,
+      "name": "No Fire",
+      "url": "https://open.spotify.com/track/254FecGsiOAtDYPKbdhUqq"
     },
     {
       "album": {

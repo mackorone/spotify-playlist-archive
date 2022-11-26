@@ -1,11 +1,73 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Looking for pop music that's safe to play at work (or in front of the kids when you're working from home)? This playlist is for you!",
-  "name": "Safe For Work",
+  "description": "Kids music the whole family can enjoy. Enjoy new tunes and old favorites alike on this kids playlist, and check back each week for more!",
+  "name": "Kids Music",
   "published_playlist_ids": [
     "1xwqNtCgsi5kgP4g07FmIb"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "A Little More",
+        "url": "https://open.spotify.com/album/6jx4akSZu1hcJVADH1JUZd"
+      },
+      "artists": [
+        {
+          "name": "Jessica Darrow",
+          "url": "https://open.spotify.com/artist/4vdAAzZBUKbsrvHi6UR7B7"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186726,
+      "name": "A Little More",
+      "url": "https://open.spotify.com/track/3iQyxNq8TnhYimIMrKbEwa"
+    },
+    {
+      "album": {
+        "name": "Blue's Clues & You Nursery Rhymes Vol. 2",
+        "url": "https://open.spotify.com/album/24G6yniJsLLHSoYQvE2BmU"
+      },
+      "artists": [
+        {
+          "name": "Blue's Clues & You",
+          "url": "https://open.spotify.com/artist/40mye8b6PC8ef8GSFgWscG"
+        },
+        {
+          "name": "Nick Jr.",
+          "url": "https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190956,
+      "name": "ABC Song",
+      "url": "https://open.spotify.com/track/29H35COf0rsqC5JHCCkRhp"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Alice's Wonderland Bakery",
+        "url": "https://open.spotify.com/album/6QZhO5hRNEAwHVutNz6SyI"
+      },
+      "artists": [
+        {
+          "name": "Alice's Wonderland Bakery - Cast",
+          "url": "https://open.spotify.com/artist/1cxwUCMGpf55hTYUFPXNwQ"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60406,
+      "name": "Alice's Wonderland Bakery Main Title Theme",
+      "url": "https://open.spotify.com/track/2iwANQOVJrBrlceepJCf4G"
+    },
     {
       "album": {
         "name": "All 4 Nothing (I'm So In Love)",
@@ -19,7 +81,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 183014,
       "name": "All 4 Nothing (I'm So In Love)",
       "url": "https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5"
@@ -37,7 +99,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 220779,
       "name": "Angel Baby",
       "url": "https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc"
@@ -55,10 +117,28 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 191800,
       "name": "Best Dress",
       "url": "https://open.spotify.com/track/3EvUbBdAytE6Cywr1OZGLx"
+    },
+    {
+      "album": {
+        "name": "Bright Lights",
+        "url": "https://open.spotify.com/album/2boFQNrjqTeNJj9AprJ0k3"
+      },
+      "artists": [
+        {
+          "name": "THE SQUISH",
+          "url": "https://open.spotify.com/artist/3dM3C9jKAKYR94VMlQJoeP"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262869,
+      "name": "Bright Lights",
+      "url": "https://open.spotify.com/track/76qQor3rG3Heo4TWhyZumC"
     },
     {
       "album": {
@@ -80,6 +160,46 @@
     },
     {
       "album": {
+        "name": "Busy Puppy (From \"Disney Junior Music: Mickey Mouse Funhouse\")",
+        "url": "https://open.spotify.com/album/6BjwLQJ85ZQHcAGykqN8lU"
+      },
+      "artists": [
+        {
+          "name": "Mickey Mouse Funhouse - Cast",
+          "url": "https://open.spotify.com/artist/1Vn7zu8r6zi4pYbSq0XWIS"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139656,
+      "name": "Busy Puppy - From \"Disney Junior Music: Mickey Mouse Funhouse\"",
+      "url": "https://open.spotify.com/track/5UHgW9TPd9dg7Zlv2t9kEG"
+    },
+    {
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/1ChRiPd2fBXfiFoSvtqVv1"
+      },
+      "artists": [
+        {
+          "name": "Toys and Colors",
+          "url": "https://open.spotify.com/artist/4VQOpZxMHHLlhGH3VnGk9K"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133843,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/4Z2hrwfZ1M1weUjJGntx8X"
+    },
+    {
+      "album": {
         "name": "Cooped Up",
         "url": "https://open.spotify.com/album/6clCHFOEINamO4FKR5s2h4"
       },
@@ -95,10 +215,28 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 185857,
       "name": "Cooped Up (with Roddy Ricch)",
       "url": "https://open.spotify.com/track/11aNnE6AFyuYbk4bSlHKFO"
+    },
+    {
+      "album": {
+        "name": "Fightin' Crimes, Spittin' Rhymes",
+        "url": "https://open.spotify.com/album/1ooagJ6hmORE1KZJ4eUyu3"
+      },
+      "artists": [
+        {
+          "name": "Danger Force",
+          "url": "https://open.spotify.com/artist/5jco0Od4vChi5xTq1EZDRn"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94913,
+      "name": "Danger Force Theme Song",
+      "url": "https://open.spotify.com/track/5okA8zg7xLkYHKLXjjL9IK"
     },
     {
       "album": {
@@ -113,10 +251,28 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 222920,
       "name": "Diet Mountain Dew",
       "url": "https://open.spotify.com/track/4O9dZs2B0ilk4PEfX2bPEv"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Trick or Treats (From \"Disney Junior Music: Trick or Treats\")",
+        "url": "https://open.spotify.com/album/01qOWAh3HwvcuRqUawzq78"
+      },
+      "artists": [
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152201,
+      "name": "Disney Junior Trick or Treats - From \"Disney Junior Music: Trick or Treats\"",
+      "url": "https://open.spotify.com/track/4y7dTEcqzOdEQ34jL2ZT3p"
     },
     {
       "album": {
@@ -135,10 +291,54 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 170045,
       "name": "Do It Better (feat. Zoe Wees)",
       "url": "https://open.spotify.com/track/1kwHrBWAlucOE57lWugotk"
+    },
+    {
+      "album": {
+        "name": "Nick Jr. Fun Fiesta!",
+        "url": "https://open.spotify.com/album/4gctUTZuUT12hCliqviAa0"
+      },
+      "artists": [
+        {
+          "name": "Nick Jr.",
+          "url": "https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC"
+        },
+        {
+          "name": "El Rey",
+          "url": "https://open.spotify.com/artist/6QAsWcn4mpE6GysHBUmTNR"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63841,
+      "name": "Dora The Explorer - El Rey RMX",
+      "url": "https://open.spotify.com/track/0UjOsc4uWZkjPJwOjGjQt4"
+    },
+    {
+      "album": {
+        "name": "Eureka! Main Title Theme (From \"Disney Junior Music: Eureka!\")",
+        "url": "https://open.spotify.com/album/0of6FoW2YxSwZoy9YQdmRr"
+      },
+      "artists": [
+        {
+          "name": "Eureka! - Cast",
+          "url": "https://open.spotify.com/artist/2At0wMt22hR14ksbCvSSmA"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61002,
+      "name": "Eureka! Main Title Theme - From \"Disney Junior Music: Eureka!\"",
+      "url": "https://open.spotify.com/track/4z6WszIenx3HoBR4uxjxIQ"
     },
     {
       "album": {
@@ -157,10 +357,50 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 143204,
       "name": "fake love don't last (feat. iann dior)",
       "url": "https://open.spotify.com/track/4UHyrGQCHu0Orh2utUxbNY"
+    },
+    {
+      "album": {
+        "name": "Firebuds Let's Roll (Firebuds Theme) [From \"Disney Junior Music: Firebuds\"]",
+        "url": "https://open.spotify.com/album/4e3h1OM3KWI73x8MhBW1mE"
+      },
+      "artists": [
+        {
+          "name": "Firebuds - Cast",
+          "url": "https://open.spotify.com/artist/302laih82Q7GtW72QI8sGR"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60755,
+      "name": "Firebuds Let's Roll (Firebuds Theme) - From \"Disney Junior Music: Firebuds\"",
+      "url": "https://open.spotify.com/track/7oM2qilEgQZWmLYmqFNUbx"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Halloween",
+        "url": "https://open.spotify.com/album/2zZm0wOR7zx4BaN6bGViB1"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-08",
+      "duration_ms": 200757,
+      "name": "Ghostbusters",
+      "url": "https://open.spotify.com/track/4moSfoSE5AtrVtSb4yta2Z"
     },
     {
       "album": {
@@ -175,10 +415,50 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 187229,
       "name": "God Is A Freak",
       "url": "https://open.spotify.com/track/42ApAik1crGHN42WXIHxaa"
+    },
+    {
+      "album": {
+        "name": "Kids Sing Pete The Cat",
+        "url": "https://open.spotify.com/album/7v6CHcEdArfur2YNSjBvvd"
+      },
+      "artists": [
+        {
+          "name": "Pete the Cat",
+          "url": "https://open.spotify.com/artist/1KbfmqDS5wguok1IaKV9kg"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-01",
+      "duration_ms": 116720,
+      "name": "Going To The Beach",
+      "url": "https://open.spotify.com/track/1rxOa5yXbJPRDfuOyoHf62"
+    },
+    {
+      "album": {
+        "name": "Here Comes Pippi Longstocking",
+        "url": "https://open.spotify.com/album/6KCRazFgI6ZQKpVx42Lt7K"
+      },
+      "artists": [
+        {
+          "name": "Astrid Lindgren",
+          "url": "https://open.spotify.com/artist/3MDsnjqnEd5TJaYsuacX1I"
+        },
+        {
+          "name": "Sophie May",
+          "url": "https://open.spotify.com/artist/6QU9VlcQ8TLx2kPLTcStO8"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70453,
+      "name": "Here Comes Pippi Longstocking",
+      "url": "https://open.spotify.com/track/1l7uz7c4VBx97DdlerRmeU"
     },
     {
       "album": {
@@ -197,7 +477,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 193322,
       "name": "Honest (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/116IS04a18L5lKQADerNeb"
@@ -215,10 +495,32 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 202404,
       "name": "I Love My Nails",
       "url": "https://open.spotify.com/track/2k82Sd9BFxoWlraYIjuyjM"
+    },
+    {
+      "album": {
+        "name": "Meet The Alpha Beats (Official Soundtrack Album)",
+        "url": "https://open.spotify.com/album/26Sb4jPOes5KjZsAeexcWT"
+      },
+      "artists": [
+        {
+          "name": "Noggin",
+          "url": "https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn"
+        },
+        {
+          "name": "The Pop Ups",
+          "url": "https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137133,
+      "name": "I See It In The Sea",
+      "url": "https://open.spotify.com/track/3MeadeAORRkIN1ABuqsRaX"
     },
     {
       "album": {
@@ -237,10 +539,112 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 140665,
       "name": "IDGAF (with blackbear)",
       "url": "https://open.spotify.com/track/1nIO7R7447n8aWH4QmFBHC"
+    },
+    {
+      "album": {
+        "name": "Santiago\u2019s Sea Shanties Vol. 2",
+        "url": "https://open.spotify.com/album/5d3PqzfZPo1peIpvilImVs"
+      },
+      "artists": [
+        {
+          "name": "Santiago of the Seas",
+          "url": "https://open.spotify.com/artist/7nd3IyYB4wMpZ2MuVjdNlu"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135671,
+      "name": "If I Were In Your Shoes",
+      "url": "https://open.spotify.com/track/1DysowdsvK9Ol0znKuJnFE"
+    },
+    {
+      "album": {
+        "name": "Pete The Cat (Expanded Version)",
+        "url": "https://open.spotify.com/album/3q9koO8kP01VWel8LYjd37"
+      },
+      "artists": [
+        {
+          "name": "Pete the Cat",
+          "url": "https://open.spotify.com/artist/1KbfmqDS5wguok1IaKV9kg"
+        },
+        {
+          "name": "Bob",
+          "url": "https://open.spotify.com/artist/2vBJ4hpLhhrIGEBvMHZCp3"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195720,
+      "name": "Just Gotta Be You (feat. Bob)",
+      "url": "https://open.spotify.com/track/4XZLWhFiv9gOomdxVsAIDN"
+    },
+    {
+      "album": {
+        "name": "Frozen (Original Motion Picture Soundtrack / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0"
+      },
+      "artists": [
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223840,
+      "name": "Let It Go - From \"Frozen\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/0qcr5FMsEO85NAQjrlDRKo"
+    },
+    {
+      "album": {
+        "name": "Nick Jr. Fun Fiesta!",
+        "url": "https://open.spotify.com/album/4gctUTZuUT12hCliqviAa0"
+      },
+      "artists": [
+        {
+          "name": "Nick Jr.",
+          "url": "https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC"
+        },
+        {
+          "name": "Santiago of the Seas",
+          "url": "https://open.spotify.com/artist/7nd3IyYB4wMpZ2MuVjdNlu"
+        },
+        {
+          "name": "El Rey",
+          "url": "https://open.spotify.com/artist/6QAsWcn4mpE6GysHBUmTNR"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109073,
+      "name": "Let's Go Amigos - Remix",
+      "url": "https://open.spotify.com/track/33qJ5h1VI9g2IbP4gzoPwl"
+    },
+    {
+      "album": {
+        "name": "Fightin' Crimes, Spittin' Rhymes",
+        "url": "https://open.spotify.com/album/1ooagJ6hmORE1KZJ4eUyu3"
+      },
+      "artists": [
+        {
+          "name": "Danger Force",
+          "url": "https://open.spotify.com/artist/5jco0Od4vChi5xTq1EZDRn"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67664,
+      "name": "Like Like You",
+      "url": "https://open.spotify.com/track/51xnULBdyOqq3liDY8grhV"
     },
     {
       "album": {
@@ -255,7 +659,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 159646,
       "name": "Long Drives",
       "url": "https://open.spotify.com/track/7mAjxsLZpqcrj47Jjwsqsp"
@@ -273,10 +677,50 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 190658,
       "name": "Love Me More",
       "url": "https://open.spotify.com/track/16MQETUgqXwY4lZcyRafU3"
+    },
+    {
+      "album": {
+        "name": "150 All-Time Favorite Songs!",
+        "url": "https://open.spotify.com/album/1f9MDLCt9SlLNtIh63Q7ne"
+      },
+      "artists": [
+        {
+          "name": "VeggieTales",
+          "url": "https://open.spotify.com/artist/4QKx7KohkWZAOkO4sI3GRx"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191453,
+      "name": "Mac And Cheese",
+      "url": "https://open.spotify.com/track/0BFUySZoRFFqycpY6DFDRv"
+    },
+    {
+      "album": {
+        "name": "Meet The Alpha Beats (Official Soundtrack Album)",
+        "url": "https://open.spotify.com/album/26Sb4jPOes5KjZsAeexcWT"
+      },
+      "artists": [
+        {
+          "name": "Noggin",
+          "url": "https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn"
+        },
+        {
+          "name": "The Pop Ups",
+          "url": "https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177964,
+      "name": "Mad About the Moon",
+      "url": "https://open.spotify.com/track/4h487nuIXvj9XdPcUd6QRP"
     },
     {
       "album": {
@@ -295,7 +739,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 226000,
       "name": "MAGIC",
       "url": "https://open.spotify.com/track/6yIbOjZve4NIZXccZ0dui4"
@@ -317,7 +761,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 122570,
       "name": "make up sex (feat. blackbear)",
       "url": "https://open.spotify.com/track/78TYOzHJIUkA7nOlYNAB8D"
@@ -335,10 +779,46 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 248818,
       "name": "Memories",
       "url": "https://open.spotify.com/track/7AYP21Q4qnxw2WxETEvSRb"
+    },
+    {
+      "album": {
+        "name": "Merry Spidey Christmas (From \"Disney Junior Music: Marvel's Spidey and His Amazing Friends\")",
+        "url": "https://open.spotify.com/album/1vylnSfB9o5HU0Srlx5rFB"
+      },
+      "artists": [
+        {
+          "name": "Patrick Stump",
+          "url": "https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126144,
+      "name": "Merry Spidey Christmas - From \"Disney Junior Music: Marvel's Spidey and His Amazing Friends\"",
+      "url": "https://open.spotify.com/track/4sxckNpmfC1Y1j91zn1BCh"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Halloween",
+        "url": "https://open.spotify.com/album/2zZm0wOR7zx4BaN6bGViB1"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-08",
+      "duration_ms": 166510,
+      "name": "Monster Mash - 2022",
+      "url": "https://open.spotify.com/track/49BcwXjtSMF2c1hChSDrns"
     },
     {
       "album": {
@@ -353,7 +833,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 156116,
       "name": "Move",
       "url": "https://open.spotify.com/track/2ZzHR2sOKAOKyN8efCa69E"
@@ -371,7 +851,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 195950,
       "name": "N95",
       "url": "https://open.spotify.com/track/5U4l9XfIFN2P31CxDXlkdT"
@@ -389,10 +869,48 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 363240,
       "name": "New Person, Same Old Mistakes",
       "url": "https://open.spotify.com/track/52ojopYMUzeNcudsoz7O9D"
+    },
+    {
+      "album": {
+        "name": "Nobody Like U (From \"Turning Red\")",
+        "url": "https://open.spotify.com/album/7uk4poI15EMWdMrMLnCIL2"
+      },
+      "artists": [
+        {
+          "name": "4*TOWN (From Disney and Pixar\u2019s Turning Red)",
+          "url": "https://open.spotify.com/artist/7jLpPyJ5gQxCvwiBsUfFu6"
+        },
+        {
+          "name": "Jordan Fisher",
+          "url": "https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2"
+        },
+        {
+          "name": "Finneas O'Connell",
+          "url": "https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96"
+        },
+        {
+          "name": "Topher Ngo",
+          "url": "https://open.spotify.com/artist/10WKlp1bjWxC1IWbpX4Q6l"
+        },
+        {
+          "name": "Grayson Villanueva",
+          "url": "https://open.spotify.com/artist/0wSCwQI0t7XUj0zdGO25PZ"
+        },
+        {
+          "name": "Josh Levi",
+          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160958,
+      "name": "Nobody Like U - From \"Turning Red\"",
+      "url": "https://open.spotify.com/track/6WdfqDzpz3XkvMSlPVc0U8"
     },
     {
       "album": {
@@ -411,10 +929,68 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 216306,
       "name": "Nosetalgia",
       "url": "https://open.spotify.com/track/0gR0P5aRB6jF4OXSg1WMc5"
+    },
+    {
+      "album": {
+        "name": "On Our Way (Original Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/0rQNAkDPlWT9TfRJxMra91"
+      },
+      "artists": [
+        {
+          "name": "Blue's Clues & You",
+          "url": "https://open.spotify.com/artist/40mye8b6PC8ef8GSFgWscG"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187185,
+      "name": "On Our Way - Original Music from the Motion Picture",
+      "url": "https://open.spotify.com/track/12qRidH5o2uePPmrdnRXOY"
+    },
+    {
+      "album": {
+        "name": "Blue's Big City Adventure (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6ImvierEtcok4Ml5uYUjvR"
+      },
+      "artists": [
+        {
+          "name": "Blue's Clues & You",
+          "url": "https://open.spotify.com/artist/40mye8b6PC8ef8GSFgWscG"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 36595,
+      "name": "On Our Way Skidoo",
+      "url": "https://open.spotify.com/track/2gIRtz9l2ZP51jmldw6pN1"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Firebuds",
+        "url": "https://open.spotify.com/album/6lqxNL9iYLCkY2jomLgY0u"
+      },
+      "artists": [
+        {
+          "name": "Firebuds - Cast",
+          "url": "https://open.spotify.com/artist/302laih82Q7GtW72QI8sGR"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47633,
+      "name": "On the Move",
+      "url": "https://open.spotify.com/track/2Gdr98slaL73rUB7AC4IWC"
     },
     {
       "album": {
@@ -429,7 +1005,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 163333,
       "name": "orange juice",
       "url": "https://open.spotify.com/track/1U40FhITl39l6flp0Hrc17"
@@ -447,10 +1023,112 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 214193,
       "name": "Out of Time",
       "url": "https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV"
+    },
+    {
+      "album": {
+        "name": "Pete The Cat (Expanded Version)",
+        "url": "https://open.spotify.com/album/3q9koO8kP01VWel8LYjd37"
+      },
+      "artists": [
+        {
+          "name": "Pete the Cat",
+          "url": "https://open.spotify.com/artist/1KbfmqDS5wguok1IaKV9kg"
+        },
+        {
+          "name": "Elvis Costello",
+          "url": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 45200,
+      "name": "Pete The Cat Theme (feat. Elvis Costello)",
+      "url": "https://open.spotify.com/track/2fcpeIoCs3pVmYzexXAnIk"
+    },
+    {
+      "album": {
+        "name": "Kids Sing Pete The Cat",
+        "url": "https://open.spotify.com/album/7v6CHcEdArfur2YNSjBvvd"
+      },
+      "artists": [
+        {
+          "name": "Pete the Cat",
+          "url": "https://open.spotify.com/artist/1KbfmqDS5wguok1IaKV9kg"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133826,
+      "name": "Rock On Mom & Dad",
+      "url": "https://open.spotify.com/track/510ozdgI905xuxTAPvTYXG"
+    },
+    {
+      "album": {
+        "name": "Roll Call",
+        "url": "https://open.spotify.com/album/6Ovv9zDZlMdF1f8SnOJQ8H"
+      },
+      "artists": [
+        {
+          "name": "THE SQUISH",
+          "url": "https://open.spotify.com/artist/3dM3C9jKAKYR94VMlQJoeP"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162901,
+      "name": "Roll Call",
+      "url": "https://open.spotify.com/track/56XNZIljvMbFQQjSLfznf9"
+    },
+    {
+      "album": {
+        "name": "Room 13",
+        "url": "https://open.spotify.com/album/74rFiJryNQCCJk2P8lOVQs"
+      },
+      "artists": [
+        {
+          "name": "Nickelodeon",
+          "url": "https://open.spotify.com/artist/6EP1XFnygH4lAap7EsBs65"
+        },
+        {
+          "name": "Lilou",
+          "url": "https://open.spotify.com/artist/61g7c2T0RXuYhlmcp2IsTM"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152142,
+      "name": "Room 13",
+      "url": "https://open.spotify.com/track/6eR73pF06smxeq6LtfTAOD"
+    },
+    {
+      "album": {
+        "name": "Winter Wonder Jams",
+        "url": "https://open.spotify.com/album/3Q01tBSLwBMS6LSABcplxd"
+      },
+      "artists": [
+        {
+          "name": "Nick Jr.",
+          "url": "https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC"
+        },
+        {
+          "name": "Face",
+          "url": "https://open.spotify.com/artist/7xMgxFpLIU8jswCgwGYolN"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 48520,
+      "name": "Snowflake Drop",
+      "url": "https://open.spotify.com/track/3GlSbCm2GfBzkvDqACsEXJ"
     },
     {
       "album": {
@@ -465,7 +1143,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 188386,
       "name": "Sofia",
       "url": "https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM"
@@ -483,10 +1161,50 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 232146,
       "name": "Something In The Way",
       "url": "https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s"
+    },
+    {
+      "album": {
+        "name": "Spideys Don't Give Up (From \"Disney Junior Music: Marvel's Spidey and His Amazing Friends\")",
+        "url": "https://open.spotify.com/album/0fECAlGLOXPC5iCeh4YtDJ"
+      },
+      "artists": [
+        {
+          "name": "Marvel\u2019s Spidey and His Amazing Friends - Cast",
+          "url": "https://open.spotify.com/artist/2BdLNqjv0srjdAEJBI0Jgm"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 59989,
+      "name": "Spideys Don't Give Up - From \"Disney Junior Music: Marvel's Spidey and His Amazing Friends\"",
+      "url": "https://open.spotify.com/track/0yGSt0CnmXHvmboYFn5KHA"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Halloween",
+        "url": "https://open.spotify.com/album/2zZm0wOR7zx4BaN6bGViB1"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-08",
+      "duration_ms": 160417,
+      "name": "Spooky, Scary Skeletons",
+      "url": "https://open.spotify.com/track/3sMMOiantU5YEOr2MoHIR3"
     },
     {
       "album": {
@@ -501,10 +1219,190 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 173218,
       "name": "sunburn",
       "url": "https://open.spotify.com/track/4gBkCqlITvat2A3aYPtMqS"
+    },
+    {
+      "album": {
+        "name": "Encanto (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
+      },
+      "artists": [
+        {
+          "name": "Jessica Darrow",
+          "url": "https://open.spotify.com/artist/4vdAAzZBUKbsrvHi6UR7B7"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202226,
+      "name": "Surface Pressure",
+      "url": "https://open.spotify.com/track/760jhRscwGbIIe1m1IIQpU"
+    },
+    {
+      "album": {
+        "name": "Star Trek Prodigy (Original Music from the Series)",
+        "url": "https://open.spotify.com/album/3LMZkP2NFjVzNVqpIr9DlD"
+      },
+      "artists": [
+        {
+          "name": "Star Trek Prodigy",
+          "url": "https://open.spotify.com/artist/5xBSDl8pzdxe3qTNxXrez7"
+        },
+        {
+          "name": "Nami Melumad",
+          "url": "https://open.spotify.com/artist/7icx86YKqzAozjY6xf0KNF"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146252,
+      "name": "The Aquathawn",
+      "url": "https://open.spotify.com/track/1HPcXGieyMTYa1ZSbpHEWy"
+    },
+    {
+      "album": {
+        "name": "The Doc Is 10 (From \"Disney Junior Music: Doc McStuffins\")",
+        "url": "https://open.spotify.com/album/3fvHg1d4KnYjg6723pPada"
+      },
+      "artists": [
+        {
+          "name": "Doc McStuffins - Cast",
+          "url": "https://open.spotify.com/artist/0uJln5OCeNdFzQuRfV5Ddo"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129045,
+      "name": "The Doc Is 10 - From \"Disney Junior Music: Doc McStuffins\"",
+      "url": "https://open.spotify.com/track/3Zkd1E3PjnmanBzwygRG5w"
+    },
+    {
+      "album": {
+        "name": "Encanto (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Beatriz",
+          "url": "https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr"
+        },
+        {
+          "name": "Olga Merediz",
+          "url": "https://open.spotify.com/artist/2Go6wC0GsnkVeRoVwh8rqX"
+        },
+        {
+          "name": "Encanto - Cast",
+          "url": "https://open.spotify.com/artist/3xLU748QxpTmIVaiNXXg0P"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257213,
+      "name": "The Family Madrigal",
+      "url": "https://open.spotify.com/track/4b1yxSdlumA8N4fEk4UOZp"
+    },
+    {
+      "album": {
+        "name": "Blue's Clues & You Nursery Rhymes Vol. 2",
+        "url": "https://open.spotify.com/album/24G6yniJsLLHSoYQvE2BmU"
+      },
+      "artists": [
+        {
+          "name": "Blue's Clues & You",
+          "url": "https://open.spotify.com/artist/40mye8b6PC8ef8GSFgWscG"
+        },
+        {
+          "name": "Nick Jr.",
+          "url": "https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203991,
+      "name": "The Farmer in the Dell",
+      "url": "https://open.spotify.com/track/776gkH5xsUdC50JA0FzdUM"
+    },
+    {
+      "album": {
+        "name": "The Jellyfish Song",
+        "url": "https://open.spotify.com/album/55Xgv4QxEO7WlwYrzbcTum"
+      },
+      "artists": [
+        {
+          "name": "GoNoodle",
+          "url": "https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f"
+        },
+        {
+          "name": "Moose Tube",
+          "url": "https://open.spotify.com/artist/1OPaMKFqNqlj4VKjPPMIOa"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191878,
+      "name": "The Jellyfish Song",
+      "url": "https://open.spotify.com/track/4xLq11ByjTEy4i2cwELqbp"
+    },
+    {
+      "album": {
+        "name": "The MousePack \u2013 Mickey and Friends Singing Classic Standards",
+        "url": "https://open.spotify.com/album/7gPVGHm0w6sQWtCIAOmDgw"
+      },
+      "artists": [
+        {
+          "name": "Goofy",
+          "url": "https://open.spotify.com/artist/3CcmFRXYSCdT25TOMlVe64"
+        },
+        {
+          "name": "Minnie Mouse",
+          "url": "https://open.spotify.com/artist/0UOuBqKAookZ3EopZFlNL7"
+        },
+        {
+          "name": "Daisy Duck",
+          "url": "https://open.spotify.com/artist/3VR3ZcAA45yBP6dWY145bB"
+        },
+        {
+          "name": "Donald Duck",
+          "url": "https://open.spotify.com/artist/7KksEpdok2fNHMXn9O24lU"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Think of Mickey Mouse",
+      "url": "https://open.spotify.com/track/5jC1oRgGWIWjhX3uAg7rzc"
+    },
+    {
+      "album": {
+        "name": "Fightin' Crimes, Spittin' Rhymes",
+        "url": "https://open.spotify.com/album/1ooagJ6hmORE1KZJ4eUyu3"
+      },
+      "artists": [
+        {
+          "name": "Danger Force",
+          "url": "https://open.spotify.com/artist/5jco0Od4vChi5xTq1EZDRn"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152626,
+      "name": "This Gas Will Pass",
+      "url": "https://open.spotify.com/track/4X7nMNuJxQeWT6D8U2VH6Z"
     },
     {
       "album": {
@@ -523,10 +1421,50 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 269333,
       "name": "Tom's Diner",
       "url": "https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Mickey Mouse Funhouse Pirate Adventure (From \"Disney Junior Music: Mickey Mouse Funhouse Pirate Adventure\")",
+        "url": "https://open.spotify.com/album/29L5MnlFSoKVglrbcIvnLt"
+      },
+      "artists": [
+        {
+          "name": "Mickey Mouse Funhouse - Cast",
+          "url": "https://open.spotify.com/artist/1Vn7zu8r6zi4pYbSq0XWIS"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134270,
+      "name": "True Pirates We Be (Extended)",
+      "url": "https://open.spotify.com/track/1Ngvtzmvnxchs8vM6aLpnQ"
+    },
+    {
+      "album": {
+        "name": "Dinosaur Songs",
+        "url": "https://open.spotify.com/album/3mZbA0yTM5pDkS32CczH6F"
+      },
+      "artists": [
+        {
+          "name": "Daddy Donut",
+          "url": "https://open.spotify.com/artist/5A2AuQZwTIH1KtbV6g47D4"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78674,
+      "name": "Tyrannosaurus Rex",
+      "url": "https://open.spotify.com/track/57yHuOdWoFzCOfXkM67ezS"
     },
     {
       "album": {
@@ -541,7 +1479,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 171946,
       "name": "Understand",
       "url": "https://open.spotify.com/track/39u7AVA6dDUyEwmp0XkWMu"
@@ -559,10 +1497,28 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 177720,
       "name": "Until I Found You",
       "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
+    },
+    {
+      "album": {
+        "name": "VeggieTunes",
+        "url": "https://open.spotify.com/album/5eYI49hhEFoEsJqpdWnXDx"
+      },
+      "artists": [
+        {
+          "name": "VeggieTales",
+          "url": "https://open.spotify.com/artist/4QKx7KohkWZAOkO4sI3GRx"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86733,
+      "name": "VeggieTales Theme Song",
+      "url": "https://open.spotify.com/track/1zvKLOtOsOgvYJk9yCErRL"
     },
     {
       "album": {
@@ -577,10 +1533,74 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 196520,
       "name": "Wait a Minute!",
       "url": "https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh"
+    },
+    {
+      "album": {
+        "name": "Encanto (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
+      },
+      "artists": [
+        {
+          "name": "Carolina Gait\u00e1n - La Gaita",
+          "url": "https://open.spotify.com/artist/29PgYEggDV3cDP9QYTogwv"
+        },
+        {
+          "name": "Mauro Castillo",
+          "url": "https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I"
+        },
+        {
+          "name": "Adassa",
+          "url": "https://open.spotify.com/artist/72kqSqk124Vnl1wtT6q9Fh"
+        },
+        {
+          "name": "Rhenzy Feliz",
+          "url": "https://open.spotify.com/artist/2as15AH2BTrPk8v4gyElmr"
+        },
+        {
+          "name": "Diane Guerrero",
+          "url": "https://open.spotify.com/artist/18MFcGBHtyW0mU3ufcm0X1"
+        },
+        {
+          "name": "Stephanie Beatriz",
+          "url": "https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr"
+        },
+        {
+          "name": "Encanto - Cast",
+          "url": "https://open.spotify.com/artist/3xLU748QxpTmIVaiNXXg0P"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216120,
+      "name": "We Don't Talk About Bruno",
+      "url": "https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz"
+    },
+    {
+      "album": {
+        "name": "We're The Party",
+        "url": "https://open.spotify.com/album/1gZ1kclQlS9km46hoDfB2E"
+      },
+      "artists": [
+        {
+          "name": "GoNoodle",
+          "url": "https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f"
+        },
+        {
+          "name": "Blazer Fresh",
+          "url": "https://open.spotify.com/artist/4pgIT5fWtcmcMm0YqPDEV0"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156114,
+      "name": "We're The Party",
+      "url": "https://open.spotify.com/track/5MPC3OsPWmxqg27O3WZpIc"
     },
     {
       "album": {
@@ -595,7 +1615,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 168880,
       "name": "Wish You Were Sober",
       "url": "https://open.spotify.com/track/0kn2gu8Pd03DiYHzRvX2Xk"

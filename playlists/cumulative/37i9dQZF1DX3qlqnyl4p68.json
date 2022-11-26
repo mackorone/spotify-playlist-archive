@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Spooky sounds from your favorite horror features on Netflix. Cover: Devil in Ohio. ",
-  "name": "Netflix and Chills",
+  "description": "Spooky sounds from your favorite horror features on Netflix. Cover: Wednesday ",
+  "name": "Netflix & Chills",
   "published_playlist_ids": [
     "4bN0zeSuBKVuYpNOMsD9q1"
   ],
@@ -32,7 +32,7 @@
       "artists": [
         {
           "name": "Kilo Kish",
-          "url": "https://open.spotify.com/artist/0Ib2a1F7sq1OTrYSoVIsIX"
+          "url": "https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE"
         }
       ],
       "date_added": "2021-10-25",
@@ -41,6 +41,24 @@
       "duration_ms": 206893,
       "name": "BITE ME",
       "url": "https://open.spotify.com/track/1dDDQM0YvlrdPi6EVmEDun"
+    },
+    {
+      "album": {
+        "name": "Nightbooks (Music from the Netflix Film)",
+        "url": "https://open.spotify.com/album/2dWBPN1RqiDh0romTnEzoQ"
+      },
+      "artists": [
+        {
+          "name": "Michael Abels",
+          "url": "https://open.spotify.com/artist/7lDkWxhwIuRAIzmHf85yKx"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133969,
+      "name": "Burn The Witch",
+      "url": "https://open.spotify.com/track/2j3AxSNEKWp1ktrGXMuSXR"
     },
     {
       "album": {
@@ -55,7 +73,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 133969,
       "name": "Burn The Witch",
       "url": "https://open.spotify.com/track/72ISUKaNTtKBYFcKaNDPag"
@@ -99,10 +117,46 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 254179,
       "name": "Come, Darkness",
       "url": "https://open.spotify.com/track/41fk5AVSD6KSE4Zr2UTl8m"
+    },
+    {
+      "album": {
+        "name": "Midnight Mass: S1 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0U3MqHjDSol66lKrSKcwVK"
+      },
+      "artists": [
+        {
+          "name": "The Newton Brothers",
+          "url": "https://open.spotify.com/artist/7dlJy6RJTqYprtHmWYBOv3"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254179,
+      "name": "Come, Darkness",
+      "url": "https://open.spotify.com/track/5r2JA0GXmQcGAcbmEmvrE2"
+    },
+    {
+      "album": {
+        "name": "Nightbooks (Music from the Netflix Film)",
+        "url": "https://open.spotify.com/album/2dWBPN1RqiDh0romTnEzoQ"
+      },
+      "artists": [
+        {
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256621,
+      "name": "Cry Little Sister",
+      "url": "https://open.spotify.com/track/1ryuYNduPHlK7XGtIoSdDJ"
     },
     {
       "album": {
@@ -117,7 +171,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 256621,
       "name": "Cry Little Sister",
       "url": "https://open.spotify.com/track/3FgmRSXJrHXoECwBgf2qXM"
@@ -157,7 +211,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 169506,
       "name": "Do As You're Told (Music from the Netflix Film A Babysitter's Guide to Monster Hunting)",
       "url": "https://open.spotify.com/track/28qQYsp1hPSe0FkvygCiyt"
@@ -182,6 +236,42 @@
     },
     {
       "album": {
+        "name": "Do As You're Told (Music from the Netflix Film A Babysitter's Guide to Monster Hunting)",
+        "url": "https://open.spotify.com/album/6SGqaQcJD2HXZcok7bC1Km"
+      },
+      "artists": [
+        {
+          "name": "Mikky Ekko",
+          "url": "https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169506,
+      "name": "Do As You're Told (Music from the Netflix Film A Babysitter's Guide to Monster Hunting)",
+      "url": "https://open.spotify.com/track/6mlhUMCssHfg3k7johV45r"
+    },
+    {
+      "album": {
+        "name": "No One Gets Out Alive (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/7yWKI7rz3Yz7JkyDSz8Woy"
+      },
+      "artists": [
+        {
+          "name": "Mark Korven",
+          "url": "https://open.spotify.com/artist/2sb1FcIeDcKtv7UC03gRr8"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199498,
+      "name": "Dragging Her to Hell",
+      "url": "https://open.spotify.com/track/5mCfF0BPG9tlOiSwJxOiy2"
+    },
+    {
+      "album": {
         "name": "No One Gets Out Alive (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/1FQ0xeAThHmRWGTxzBBgVK"
       },
@@ -193,10 +283,28 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 199498,
       "name": "Dragging Her to Hell",
       "url": "https://open.spotify.com/track/7cw2VGEHPhItqrfBRuPFdb"
+    },
+    {
+      "album": {
+        "name": "There's Someone Inside Your House (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/5hDQs95Btp56nOGMWV099y"
+      },
+      "artists": [
+        {
+          "name": "Zachary Dawes",
+          "url": "https://open.spotify.com/artist/1CZejX1UWfKLW0BncrZDc5"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 54379,
+      "name": "Drive Through the Corn Maze",
+      "url": "https://open.spotify.com/track/579f5PTnQL6wrIDep9zZB5"
     },
     {
       "album": {
@@ -211,7 +319,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 54379,
       "name": "Drive Through the Corn Maze",
       "url": "https://open.spotify.com/track/6m93Wwg3HWM2SfT3KqlQ7l"
@@ -359,10 +467,46 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 50928,
       "name": "Kill Party",
       "url": "https://open.spotify.com/track/1wkYDg8BUgjSwdvQVpA6Tw"
+    },
+    {
+      "album": {
+        "name": "There's Someone Inside Your House (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/5hDQs95Btp56nOGMWV099y"
+      },
+      "artists": [
+        {
+          "name": "Zachary Dawes",
+          "url": "https://open.spotify.com/artist/1CZejX1UWfKLW0BncrZDc5"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50928,
+      "name": "Kill Party",
+      "url": "https://open.spotify.com/track/76r9tesmwZzwJWl3UzZaWU"
+    },
+    {
+      "album": {
+        "name": "Devil in Ohio (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5Gol9mxUCltXsbjADNh4U1"
+      },
+      "artists": [
+        {
+          "name": "Bishop Briggs",
+          "url": "https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193892,
+      "name": "Lessons of the Fire (from the Netflix Series \"Devil In Ohio\")",
+      "url": "https://open.spotify.com/track/2z8NOEUtfyV4chIbngXYDi"
     },
     {
       "album": {
@@ -377,10 +521,28 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 193892,
       "name": "Lessons of the Fire (from the Netflix Series \"Devil In Ohio\")",
       "url": "https://open.spotify.com/track/7uCoscfmQbuG1NBfyeaYvy"
+    },
+    {
+      "album": {
+        "name": "Locke & Key (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/6nHxZpPXe4ODH5DbwzDouz"
+      },
+      "artists": [
+        {
+          "name": "Torin Borrowdale",
+          "url": "https://open.spotify.com/artist/0n8DMPYma49MMKFG97Sn4H"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142944,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/1YNt8zvYiVPIdqL1YCDPAc"
     },
     {
       "album": {
@@ -395,7 +557,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 142944,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/3IcAhCG7vhl5d1hIABoiyF"
@@ -420,6 +582,24 @@
     },
     {
       "album": {
+        "name": "Locke & Key: S2 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/29hdImH5Ts5yTf9ICOkkWt"
+      },
+      "artists": [
+        {
+          "name": "Torin Borrowdale",
+          "url": "https://open.spotify.com/artist/0n8DMPYma49MMKFG97Sn4H"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 64398,
+      "name": "Locke & Key - Main Titles",
+      "url": "https://open.spotify.com/track/1L7Own1m9dTiwXr0pcdVl1"
+    },
+    {
+      "album": {
         "name": "Locke & Key (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/70imhSWOEIsbf9HREtSVbB"
       },
@@ -439,7 +619,7 @@
     {
       "album": {
         "name": "Locke & Key (Music from the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/7pvZ5JKQV6ilOHwp0keXIe"
+        "url": "https://open.spotify.com/album/6nHxZpPXe4ODH5DbwzDouz"
       },
       "artists": [
         {
@@ -450,6 +630,24 @@
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 64398,
+      "name": "Locke & Key - Main Titles",
+      "url": "https://open.spotify.com/track/1aPJ6S2VVLhUsAk9TIPuBp"
+    },
+    {
+      "album": {
+        "name": "Locke & Key (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/7pvZ5JKQV6ilOHwp0keXIe"
+      },
+      "artists": [
+        {
+          "name": "Torin Borrowdale",
+          "url": "https://open.spotify.com/artist/0n8DMPYma49MMKFG97Sn4H"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
       "duration_ms": 64398,
       "name": "Locke & Key - Main Titles",
       "url": "https://open.spotify.com/track/5c9Qhu3OKFm8hN2iOON1cG"
@@ -653,6 +851,24 @@
     {
       "album": {
         "name": "Nightbooks (Music from the Netflix Film)",
+        "url": "https://open.spotify.com/album/2dWBPN1RqiDh0romTnEzoQ"
+      },
+      "artists": [
+        {
+          "name": "Michael Abels",
+          "url": "https://open.spotify.com/artist/7lDkWxhwIuRAIzmHf85yKx"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200638,
+      "name": "The Gingerbread House",
+      "url": "https://open.spotify.com/track/64lmmA3uSfoB1j4lKQkVxI"
+    },
+    {
+      "album": {
+        "name": "Nightbooks (Music from the Netflix Film)",
         "url": "https://open.spotify.com/album/6VbWfq61YDRAb8w1n1EJp5"
       },
       "artists": [
@@ -663,7 +879,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 200638,
       "name": "The Gingerbread House",
       "url": "https://open.spotify.com/track/777eYSMUhhu2Uh3eK6WTL5"
@@ -717,10 +933,28 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 128479,
       "name": "The Library",
       "url": "https://open.spotify.com/track/2kti2tHhcPuCL54BAz4Cf3"
+    },
+    {
+      "album": {
+        "name": "Nightbooks (Music from the Netflix Film)",
+        "url": "https://open.spotify.com/album/2dWBPN1RqiDh0romTnEzoQ"
+      },
+      "artists": [
+        {
+          "name": "Michael Abels",
+          "url": "https://open.spotify.com/artist/7lDkWxhwIuRAIzmHf85yKx"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128479,
+      "name": "The Library",
+      "url": "https://open.spotify.com/track/4eGgGe5ZjdGDnYbmOJ1FSD"
     },
     {
       "album": {
@@ -735,10 +969,46 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 189259,
       "name": "The Power of Faith",
       "url": "https://open.spotify.com/track/4cp0O3Syex3xyjj8vFZU1O"
+    },
+    {
+      "album": {
+        "name": "Midnight Mass: S1 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0U3MqHjDSol66lKrSKcwVK"
+      },
+      "artists": [
+        {
+          "name": "The Newton Brothers",
+          "url": "https://open.spotify.com/artist/7dlJy6RJTqYprtHmWYBOv3"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189259,
+      "name": "The Power of Faith",
+      "url": "https://open.spotify.com/track/57TrKA9KB5liuPLJCNcjHe"
+    },
+    {
+      "album": {
+        "name": "No One Gets Out Alive (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/7yWKI7rz3Yz7JkyDSz8Woy"
+      },
+      "artists": [
+        {
+          "name": "Mark Korven",
+          "url": "https://open.spotify.com/artist/2sb1FcIeDcKtv7UC03gRr8"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124055,
+      "name": "The Shower / The Dark",
+      "url": "https://open.spotify.com/track/10x4iora8uw38Q2wzn7R1W"
     },
     {
       "album": {
@@ -753,7 +1023,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 124055,
       "name": "The Shower / The Dark",
       "url": "https://open.spotify.com/track/4hW8XfJxFUGeWXFhUPNz5S"

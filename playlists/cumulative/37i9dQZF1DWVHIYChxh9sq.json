@@ -1598,6 +1598,24 @@
     },
     {
       "album": {
+        "name": "En Vivo 100% Norte\u00f1o",
+        "url": "https://open.spotify.com/album/1EQK0GWEukz6Djc2JynmVC"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 193973,
+      "name": "El Palomito (En Vivo)",
+      "url": "https://open.spotify.com/track/4UAXbEvKpEdmUIvaGZdHKJ"
+    },
+    {
+      "album": {
         "name": "\u79c1\u4eba\u6d3e\u5bf9 (En Vivo)",
         "url": "https://open.spotify.com/album/3CxA9gHxoslPOQbryRRyam"
       },
@@ -1685,7 +1703,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 222446,
       "name": "El Rey De La Naturaleza - Live",
       "url": "https://open.spotify.com/track/0hkGUqpTLieipMpRztlhjz"
@@ -1823,10 +1841,46 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 231466,
       "name": "En Peligro De Extinci\u00f3n (Versi\u00f3n Ac\u00fastica)",
       "url": "https://open.spotify.com/track/1RlS8NWw5fsSWKq4eyYN1h"
+    },
+    {
+      "album": {
+        "name": "Una Intimidad Adictiva (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/1RkJEN1O2e4gLKQYlp2qBn"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231523,
+      "name": "En Peligro de Extinci\u00f3n (Versi\u00f3n Ac\u00fastica)",
+      "url": "https://open.spotify.com/track/4R1ubABfq3V2jW5RHyFhOz"
+    },
+    {
+      "album": {
+        "name": "En Peligro de Extinci\u00f3n (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/5nzbe3xydYuE60M3lB4xwJ"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 231523,
+      "name": "En Peligro de Extinci\u00f3n (Versi\u00f3n Ac\u00fastica)",
+      "url": "https://open.spotify.com/track/5RaMINKIiAO57JiqGwp0FT"
     },
     {
       "album": {
@@ -2599,7 +2653,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-07",
+      "date_removed": "2022-11-13",
       "duration_ms": 222614,
       "name": "Lo Bueno No Se Olvida - En Vivo Desde Culiacan",
       "url": "https://open.spotify.com/track/38P8FboRTxIsZrnTeAWUOn"
@@ -2701,7 +2755,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-02",
+      "date_removed": null,
       "duration_ms": 180750,
       "name": "Lupe Reyes (En Vivo)",
       "url": "https://open.spotify.com/track/6ggjc8JFAxy0jiKgQmhU3i"
@@ -3047,7 +3101,7 @@
     {
       "album": {
         "name": "En Vivo",
-        "url": "https://open.spotify.com/album/5UHBIZedfJZpnsJ2PaMyWI"
+        "url": "https://open.spotify.com/album/67QL5vLiYRrqJ3UVH40ztP"
       },
       "artists": [
         {
@@ -3058,6 +3112,24 @@
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 177005,
+      "name": "Ni Parientes Somos - En Vivo",
+      "url": "https://open.spotify.com/track/0HXZHA50d8dvfUZXlSEllQ"
+    },
+    {
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/5UHBIZedfJZpnsJ2PaMyWI"
+      },
+      "artists": [
+        {
+          "name": "Arturo Coronel y el Buen Estilo",
+          "url": "https://open.spotify.com/artist/4lFwjsLFRLWRtjtsNjl5al"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-23",
       "duration_ms": 177005,
       "name": "Ni Parientes Somos - En Vivo",
       "url": "https://open.spotify.com/track/69shFbqWcNTkQEwv2ZVDtS"
@@ -3727,6 +3799,28 @@
       "duration_ms": 186502,
       "name": "Te Compro - En Vivo",
       "url": "https://open.spotify.com/track/0iMKw1oCEQps2Gdl3gmRt4"
+    },
+    {
+      "album": {
+        "name": "Te Compro (En Vivo)",
+        "url": "https://open.spotify.com/album/6VQIRHMC8MJnOKPQkJ8JTb"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        },
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 186502,
+      "name": "Te Compro - En Vivo",
+      "url": "https://open.spotify.com/track/3HRjXXHFBQKXJhWXCdXOYH"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7wHseZmxqFF.md) - [plain]
 
 > The UK girl group grab the power and show their love for Pride, unfurling a no\-fail list of pop party jams and club classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,820 likes - 27 songs - 1 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,816 likes - 27 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

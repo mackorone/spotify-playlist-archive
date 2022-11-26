@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": null,
       "duration_ms": 292400,
       "name": "4 Seasons Of Loneliness",
       "url": "https://open.spotify.com/track/027tq4cWr0kRxLTfdxvM1L"
@@ -304,6 +304,24 @@
     },
     {
       "album": {
+        "name": "\u5c08\u6ce8\u7235\u9078 Jazz for Work & Study",
+        "url": "https://open.spotify.com/album/1gdOZL2MqhUTdiIfzoZ262"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 186160,
+      "name": "Don't Know Why",
+      "url": "https://open.spotify.com/track/7umEMqK5YuVk9mJ9fLzdUJ"
+    },
+    {
+      "album": {
         "name": "Come Away With Me (Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
       },
@@ -358,6 +376,24 @@
     },
     {
       "album": {
+        "name": "The Motown Anthology",
+        "url": "https://open.spotify.com/album/7Jkbnv3tTMR2UHznXOPPt8"
+      },
+      "artists": [
+        {
+          "name": "Brenda Holloway",
+          "url": "https://open.spotify.com/artist/3nXMZsj1H0F7h9SDUeYNjg"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 170960,
+      "name": "Every Little Bit Hurts",
+      "url": "https://open.spotify.com/track/3sHGi1Ldr0JfoeZMoV9sNO"
+    },
+    {
+      "album": {
         "name": "KIKI",
         "url": "https://open.spotify.com/album/6UmILTxwjM8sME3wbsZgQh"
       },
@@ -391,7 +427,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": "2022-11-13",
       "duration_ms": 267680,
       "name": "Hey",
       "url": "https://open.spotify.com/track/5HkW47BxKNgkW2bSNghlNa"
@@ -485,7 +521,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 220453,
       "name": "I Put a Spell on You",
       "url": "https://open.spotify.com/track/5N8ttZslGXlcNGMP2ACivh"
@@ -741,7 +777,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-31",
+      "date_removed": "2022-11-14",
       "duration_ms": 179373,
       "name": "Old Memories (Originals)",
       "url": "https://open.spotify.com/track/0Rq2JIejWvQ6ibgWBSTcpu"

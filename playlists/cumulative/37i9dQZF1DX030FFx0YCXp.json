@@ -30,6 +30,24 @@
     },
     {
       "album": {
+        "name": "4th of July",
+        "url": "https://open.spotify.com/album/7wuSwTZXsxsUlXCPfTX2vh"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 238626,
+      "name": "All Along the Watchtower",
+      "url": "https://open.spotify.com/track/5CJfFW5fAar3UdAaPpoH4i"
+    },
+    {
+      "album": {
         "name": "Music From The Motion Picture Watchmen",
         "url": "https://open.spotify.com/album/5643V0ojEFh2bULWiPhuhs"
       },
@@ -153,6 +171,24 @@
       "duration_ms": 139280,
       "name": "Bad Moon Rising",
       "url": "https://open.spotify.com/track/0BG2iE6McPhmAEKIhfqy1X"
+    },
+    {
+      "album": {
+        "name": "Classic Rock Hits",
+        "url": "https://open.spotify.com/album/4elrNKytARmFtf9zJAxRd6"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 141600,
+      "name": "Bad Moon Rising",
+      "url": "https://open.spotify.com/track/15QrgzPNqq3hnY06GiMgjG"
     },
     {
       "album": {
@@ -300,6 +336,24 @@
     },
     {
       "album": {
+        "name": "Mellow Summer",
+        "url": "https://open.spotify.com/album/7rdNrR0gVmevOWDO0CO6Xl"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 183306,
+      "name": "Brown Eyed Girl",
+      "url": "https://open.spotify.com/track/79j9QmB3y5qqsYsQhKTFLm"
+    },
+    {
+      "album": {
         "name": "Brown Eyed Girl (Digital 45)",
         "url": "https://open.spotify.com/album/0W8MDv2mOvLAAfQP7RxOyX"
       },
@@ -333,6 +387,24 @@
       "duration_ms": 229040,
       "name": "Brown Sugar",
       "url": "https://open.spotify.com/track/6qiVgv4lsideE8c1Bxc867"
+    },
+    {
+      "album": {
+        "name": "Sticky Fingers (Deluxe)",
+        "url": "https://open.spotify.com/album/5t59EkgjG0CEwuiCCQRkOj"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 228666,
+      "name": "Brown Sugar - 2009 Remaster",
+      "url": "https://open.spotify.com/track/1ibeJPfM8Q3LccjV6oI6S1"
     },
     {
       "album": {
@@ -426,6 +498,60 @@
     },
     {
       "album": {
+        "name": "Phenomenon (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/7lRLCWZAAi6GPBGllbmmuV"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 234866,
+      "name": "Change the World",
+      "url": "https://open.spotify.com/track/3jYr59dZBKzFa7Ji7be6fT"
+    },
+    {
+      "album": {
+        "name": "Complete Clapton",
+        "url": "https://open.spotify.com/album/1qcLcWUFHHFWe54IP7PN7j"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-21",
+      "duration_ms": 234866,
+      "name": "Change The World",
+      "url": "https://open.spotify.com/track/463G7EJ5QLNSXzLIXRiY2g"
+    },
+    {
+      "album": {
+        "name": "Clapton Chronicles: The Best of Eric Clapton",
+        "url": "https://open.spotify.com/album/0mXhAwNI5H6URJLPy0rXUe"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234866,
+      "name": "Change the World",
+      "url": "https://open.spotify.com/track/5Ds0VGkTSQ1jf4KzLUpZPb"
+    },
+    {
+      "album": {
         "name": "Clapton Chronicles: The Best of Eric Clapton",
         "url": "https://open.spotify.com/album/6FCakQJ6z6TF0y0qkHYKgy"
       },
@@ -437,10 +563,28 @@
       ],
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 234866,
       "name": "Change the World",
       "url": "https://open.spotify.com/track/6BQNJ0JFKh8sWjQLI6Zudi"
+    },
+    {
+      "album": {
+        "name": "Complete Clapton",
+        "url": "https://open.spotify.com/album/28Cz12vvLOxYkqzXNwAbnl"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-24",
+      "duration_ms": 234866,
+      "name": "Change the World",
+      "url": "https://open.spotify.com/track/79bdDFqZUcZcmmnC5aPmoh"
     },
     {
       "album": {
@@ -678,6 +822,24 @@
     },
     {
       "album": {
+        "name": "Calming Ballads",
+        "url": "https://open.spotify.com/album/4nGVLxjxJZcgw5f6I4hqi0"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 200579,
+      "name": "Fire and Rain",
+      "url": "https://open.spotify.com/track/6zgeog6feHU0gpFeG8UbGa"
+    },
+    {
+      "album": {
         "name": "Sweet Baby James (2019 Remaster)",
         "url": "https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx"
       },
@@ -787,6 +949,24 @@
       "duration_ms": 547106,
       "name": "Free Bird",
       "url": "https://open.spotify.com/track/5EWPGh7jbTNO2wakv8LjUI"
+    },
+    {
+      "album": {
+        "name": "Rock and polas",
+        "url": "https://open.spotify.com/album/4rXxsUgjBswDQmUglENhZG"
+      },
+      "artists": [
+        {
+          "name": "Lynyrd Skynyrd",
+          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 549640,
+      "name": "Free Bird",
+      "url": "https://open.spotify.com/track/2bBPY5fdur2fYw3mIgKs2a"
     },
     {
       "album": {
@@ -934,6 +1114,24 @@
     },
     {
       "album": {
+        "name": "70s FM Radio Waves Rider",
+        "url": "https://open.spotify.com/album/5RoWDvTkhQB7ED7g8K45SR"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 219026,
+      "name": "Go Your Own Way - 2018 Remaster",
+      "url": "https://open.spotify.com/track/1cu0UvpVauONcHUXLb8dks"
+    },
+    {
+      "album": {
         "name": "Station To Station (US Version)",
         "url": "https://open.spotify.com/album/53VB3DfAESTKLaflLk58Jo"
       },
@@ -1078,6 +1276,24 @@
     },
     {
       "album": {
+        "name": "The Best That I Could Do 1978 - 1988",
+        "url": "https://open.spotify.com/album/2ssc6teLS9Pr9JV7AuXUS4"
+      },
+      "artists": [
+        {
+          "name": "John Mellencamp",
+          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 219400,
+      "name": "Hurts So Good",
+      "url": "https://open.spotify.com/track/5bdV3YXrlYSw1pwJIrEpF4"
+    },
+    {
+      "album": {
         "name": "I Got A Name",
         "url": "https://open.spotify.com/album/6QVn3X0VlX6XynvzgQVPi0"
       },
@@ -1093,6 +1309,24 @@
       "duration_ms": 192866,
       "name": "I Got A Name",
       "url": "https://open.spotify.com/track/2sbF2F1fIKylqW79XFLbH8"
+    },
+    {
+      "album": {
+        "name": "Greatest",
+        "url": "https://open.spotify.com/album/3k55Aa9R0fBxP9iRkDrBuz"
+      },
+      "artists": [
+        {
+          "name": "Jim Croce",
+          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 194493,
+      "name": "I Got a Name - Stereo Version",
+      "url": "https://open.spotify.com/track/2S0curmaVnRDRA4IBjigDb"
     },
     {
       "album": {
@@ -1168,6 +1402,24 @@
     },
     {
       "album": {
+        "name": "50 Classic Rock Favorites",
+        "url": "https://open.spotify.com/album/21etNoPYIWhfzg2Dv2aTdj"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 233173,
+      "name": "It's Too Late",
+      "url": "https://open.spotify.com/track/58kOEU6IFLEnv2c7H3JrKY"
+    },
+    {
+      "album": {
         "name": "Tapestry (Legacy Edition)",
         "url": "https://open.spotify.com/album/7kLLC7CN8oxt0HgP2a051K"
       },
@@ -1201,6 +1453,24 @@
       "duration_ms": 254493,
       "name": "Jack & Diane",
       "url": "https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg"
+    },
+    {
+      "album": {
+        "name": "Summer Road Trip (Vol. 2 / Fixed Playlist)",
+        "url": "https://open.spotify.com/album/0ql5LhNLolKQrSsKPHCEBV"
+      },
+      "artists": [
+        {
+          "name": "John Mellencamp",
+          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 254493,
+      "name": "Jack & Diane",
+      "url": "https://open.spotify.com/track/5QpPKNznaFFVl6NA9UNLno"
     },
     {
       "album": {
@@ -1276,6 +1546,24 @@
     },
     {
       "album": {
+        "name": "Vacances d\u00e9tente : \u00c9t\u00e9 2022",
+        "url": "https://open.spotify.com/album/3Smu8Aa56GWYkGMggRhmkH"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 150026,
+      "name": "Knockin' On Heaven's Door",
+      "url": "https://open.spotify.com/track/33WUS0MyM4lpKIQIhwfBSc"
+    },
+    {
+      "album": {
         "name": "The Essential The Chicks",
         "url": "https://open.spotify.com/album/31St5diPbTZoCjOwWXSMWD"
       },
@@ -1305,10 +1593,46 @@
       ],
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 260440,
       "name": "Layla - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 1999 Remaster",
       "url": "https://open.spotify.com/track/6YEOmCsXSk9ZPE0FkcCiuQ"
+    },
+    {
+      "album": {
+        "name": "Complete Clapton",
+        "url": "https://open.spotify.com/album/28Cz12vvLOxYkqzXNwAbnl"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-25",
+      "duration_ms": 279066,
+      "name": "Layla - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2007 Remaster; Single Edit",
+      "url": "https://open.spotify.com/track/4ibOxUxg1huJ9vZTgzY6Jl"
+    },
+    {
+      "album": {
+        "name": "Unplugged (2013 Remaster)",
+        "url": "https://open.spotify.com/album/6zxsfP7TdXLAS9QEGNN0Uy"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289026,
+      "name": "Layla - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
+      "url": "https://open.spotify.com/track/0zxj7dVhYZq5ACyaDx5XIo"
     },
     {
       "album": {
@@ -1359,10 +1683,28 @@
       ],
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 237973,
       "name": "Lonesome Loser - Remastered 2010",
       "url": "https://open.spotify.com/track/3OZ40egQbNWeTe0BnR2QKa"
+    },
+    {
+      "album": {
+        "name": "First Under The Wire (Remastered 2022)",
+        "url": "https://open.spotify.com/album/1pPsslUdE1HeBxdlgXJ7Yp"
+      },
+      "artists": [
+        {
+          "name": "Little River Band",
+          "url": "https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241374,
+      "name": "Lonesome Loser - Remastered 2022",
+      "url": "https://open.spotify.com/track/0EOTFIX60ua9qt8pel84tA"
     },
     {
       "album": {
@@ -1381,6 +1723,24 @@
       "duration_ms": 218346,
       "name": "Love the One You're With",
       "url": "https://open.spotify.com/track/5cKb2kQzChjhE5Rd1ExYNY"
+    },
+    {
+      "album": {
+        "name": "The Essential Isley Brothers",
+        "url": "https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 218493,
+      "name": "Love the One You're With",
+      "url": "https://open.spotify.com/track/6JyVqkwKFTkvnp55b1NtGQ"
     },
     {
       "album": {
@@ -1438,6 +1798,24 @@
     },
     {
       "album": {
+        "name": "Pure McCartney (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5ikljNZWFHqZP2M0kKvEWb"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 231573,
+      "name": "Maybe I\u2019m Amazed",
+      "url": "https://open.spotify.com/track/70B7IGHu2yer9GhnVSLRsK"
+    },
+    {
+      "album": {
         "name": "McCartney (Archive Collection)",
         "url": "https://open.spotify.com/album/2lOll0xAGw8FPjwmwopAKT"
       },
@@ -1451,7 +1829,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 229826,
-      "name": "Maybe I\u2019m Amazed - Remastered 2011",
+      "name": "Maybe I\u2019m Amazed - 2011 Remaster",
       "url": "https://open.spotify.com/track/1Qa0Y05al633fG8f9Peytc"
     },
     {
@@ -1489,6 +1867,24 @@
       "duration_ms": 285133,
       "name": "More Than a Feeling",
       "url": "https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF"
+    },
+    {
+      "album": {
+        "name": "Yacht Rock Classics",
+        "url": "https://open.spotify.com/album/5GM9YXSwam3xB1SP6KKjQC"
+      },
+      "artists": [
+        {
+          "name": "Boston",
+          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 285133,
+      "name": "More Than a Feeling",
+      "url": "https://open.spotify.com/track/2s6OFCwx6qahq9vNIDhwxa"
     },
     {
       "album": {
@@ -1618,6 +2014,24 @@
     },
     {
       "album": {
+        "name": "Carlito's Way: Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/31z6Bud2aFad5ejBVQBfNP"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 254760,
+      "name": "Oye Como Va",
+      "url": "https://open.spotify.com/track/5gucQMCIfIINqnN8Cizxxx"
+    },
+    {
+      "album": {
         "name": "Santana's Greatest Hits",
         "url": "https://open.spotify.com/album/4OLrXJ4fwuCmDZwybX87Cf"
       },
@@ -1673,6 +2087,28 @@
       "duration_ms": 253333,
       "name": "Piece of My Heart",
       "url": "https://open.spotify.com/track/1xKQbqQtQWrtQS47fUJBtl"
+    },
+    {
+      "album": {
+        "name": "Bang: The Bert Berns Story (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4VkQxw6r5SdO4o4yHnNxL9"
+      },
+      "artists": [
+        {
+          "name": "Big Brother & The Holding Company",
+          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
+        },
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 253506,
+      "name": "Piece of My Heart",
+      "url": "https://open.spotify.com/track/3cCUAhulFXxN9CZRr5inpe"
     },
     {
       "album": {
@@ -1745,6 +2181,24 @@
       "duration_ms": 174360,
       "name": "R.O.C.K. In The U.S.A. (A Salute To 60's Rock)",
       "url": "https://open.spotify.com/track/0lqfBvf1Gqmmt3l5Qeirlm"
+    },
+    {
+      "album": {
+        "name": "Rockin' Blues",
+        "url": "https://open.spotify.com/album/2UewN8ejNxZTOLHrPfh25T"
+      },
+      "artists": [
+        {
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 288053,
+      "name": "Ramblin' Man",
+      "url": "https://open.spotify.com/track/7Ap1oN1ZXSz6l686wfPLPN"
     },
     {
       "album": {
@@ -1964,6 +2418,24 @@
     },
     {
       "album": {
+        "name": "Old But Gold 90's",
+        "url": "https://open.spotify.com/album/1PzWrln9DIpVKFyHPe8eBR"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 225786,
+      "name": "Shiny Happy People",
+      "url": "https://open.spotify.com/track/4H5G4zCVeDg31QdBBec8nW"
+    },
+    {
+      "album": {
         "name": "Hits Back",
         "url": "https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S"
       },
@@ -2036,6 +2508,24 @@
     },
     {
       "album": {
+        "name": "Camping Songs",
+        "url": "https://open.spotify.com/album/6IKpAFcUGvNO688HgIo7F5"
+      },
+      "artists": [
+        {
+          "name": "John Mellencamp",
+          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 221626,
+      "name": "Small Town",
+      "url": "https://open.spotify.com/track/56JG2tE2m09KQxH2ohvO5q"
+    },
+    {
+      "album": {
         "name": "Surrealistic Pillow",
         "url": "https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a"
       },
@@ -2051,6 +2541,24 @@
       "duration_ms": 174840,
       "name": "Somebody to Love",
       "url": "https://open.spotify.com/track/4uGIJG1jYFonGc4LGp5uQL"
+    },
+    {
+      "album": {
+        "name": "Nipper's Greatests Hits 60's Vol. 1",
+        "url": "https://open.spotify.com/album/20LPP32QEkCQyGIfVdhHbl"
+      },
+      "artists": [
+        {
+          "name": "Jefferson Airplane",
+          "url": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 178360,
+      "name": "Somebody to Love",
+      "url": "https://open.spotify.com/track/6RXfcKPFgi9c6nkqRCEDxZ"
     },
     {
       "album": {
@@ -2180,6 +2688,24 @@
     },
     {
       "album": {
+        "name": "Karaoke Hits",
+        "url": "https://open.spotify.com/album/6l36N9sahHnlbcGo4vtpUa"
+      },
+      "artists": [
+        {
+          "name": "Neil Diamond",
+          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 203573,
+      "name": "Sweet Caroline",
+      "url": "https://open.spotify.com/track/2Qr3ceQLkmkoNEbR7OEU8U"
+    },
+    {
+      "album": {
         "name": "Sweet Caroline",
         "url": "https://open.spotify.com/album/3F3ZBkt86QKDSPRrVpk7Wx"
       },
@@ -2303,6 +2829,24 @@
       "duration_ms": 285160,
       "name": "Sweet Home Alabama",
       "url": "https://open.spotify.com/track/74QCZPlpayjvQ4yJJFljfQ"
+    },
+    {
+      "album": {
+        "name": "Classic Country Hits",
+        "url": "https://open.spotify.com/album/0rvWuCar7YL3vYYG2v7Gw9"
+      },
+      "artists": [
+        {
+          "name": "Lynyrd Skynyrd",
+          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 285373,
+      "name": "Sweet Home Alabama",
+      "url": "https://open.spotify.com/track/1jhQh6vMo4tDoa18N8Ghcq"
     },
     {
       "album": {
@@ -2502,6 +3046,24 @@
     },
     {
       "album": {
+        "name": "70s Rock Essentials",
+        "url": "https://open.spotify.com/album/2nUKl9sXFdOVPyRV3dGoWA"
+      },
+      "artists": [
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 274493,
+      "name": "The Weight - Remastered 2000",
+      "url": "https://open.spotify.com/track/1ctcjestGXW13ej3kJjvou"
+    },
+    {
+      "album": {
         "name": "Time's Always Leaving",
         "url": "https://open.spotify.com/album/5kAHEuWi7anBhN7EgHpX1R"
       },
@@ -2668,6 +3230,24 @@
     },
     {
       "album": {
+        "name": "The Definitive Croce",
+        "url": "https://open.spotify.com/album/2ehjSxVsjbLeCWIkD9dTPG"
+      },
+      "artists": [
+        {
+          "name": "Jim Croce",
+          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 170759,
+      "name": "Walkin' Back to Georgia",
+      "url": "https://open.spotify.com/track/4ylEe60SjbCrTvxt9e9mfh"
+    },
+    {
+      "album": {
         "name": "You Don't Mess Around With Jim",
         "url": "https://open.spotify.com/album/3L9sVl5T7UpFK6tNeEiXdy"
       },
@@ -2758,6 +3338,24 @@
     },
     {
       "album": {
+        "name": "Let It Roll - Songs Of George Harrison",
+        "url": "https://open.spotify.com/album/1aswOMHGBTkp0MsSVIn2YU"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 264986,
+      "name": "What Is Life - 2009 Mix",
+      "url": "https://open.spotify.com/track/0oBw6F8Wl5tTbwexgcFV1N"
+    },
+    {
+      "album": {
         "name": "All Things Must Pass (Remastered 2014)",
         "url": "https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6"
       },
@@ -2830,6 +3428,24 @@
     },
     {
       "album": {
+        "name": "70's Music - I Grandi Successi",
+        "url": "https://open.spotify.com/album/62SQumLuxmWJvXzIYul0pg"
+      },
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 200573,
+      "name": "Wild World",
+      "url": "https://open.spotify.com/track/7JS7F316cTGvEeiRUzsBfJ"
+    },
+    {
+      "album": {
         "name": "Wildflowers",
         "url": "https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg"
       },
@@ -2845,6 +3461,24 @@
       "duration_ms": 190320,
       "name": "Wildflowers",
       "url": "https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3"
+    },
+    {
+      "album": {
+        "name": "Echoes: The Best of Pink Floyd",
+        "url": "https://open.spotify.com/album/4fLDPTMutLCNWb7WoyCF86"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 321080,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/6iMjntVYkchLBJcqsiSNYZ"
     },
     {
       "album": {
@@ -2899,6 +3533,24 @@
       "duration_ms": 312173,
       "name": "With A Little Help From My Friends",
       "url": "https://open.spotify.com/track/0YZ3J8xzGwLOg4yEgST1YK"
+    },
+    {
+      "album": {
+        "name": "Friends Never Fail",
+        "url": "https://open.spotify.com/album/6DuOqbWX5h6puWrzyXH7cb"
+      },
+      "artists": [
+        {
+          "name": "Joe Cocker",
+          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 313173,
+      "name": "With A Little Help From My Friends",
+      "url": "https://open.spotify.com/track/3gKBNsTvxrlhXEqOt4nAXK"
     },
     {
       "album": {
@@ -2974,6 +3626,24 @@
     },
     {
       "album": {
+        "name": "BBC Sessions: 1964-1977",
+        "url": "https://open.spotify.com/album/2NPHqaglqra3QqqFGE6kwX"
+      },
+      "artists": [
+        {
+          "name": "The Kinks",
+          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 128173,
+      "name": "You Really Got Me - Live at The Playhouse Theatre, 1964",
+      "url": "https://open.spotify.com/track/1pUWRUAOD1aSxHWbJuDBNR"
+    },
+    {
+      "album": {
         "name": "No Secrets",
         "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
       },
@@ -3007,6 +3677,24 @@
       "duration_ms": 268706,
       "name": "You've Got a Friend",
       "url": "https://open.spotify.com/track/69l8nFPu0LWmnoJX7YSVYc"
+    },
+    {
+      "album": {
+        "name": "Don't Stop - Soft 70's",
+        "url": "https://open.spotify.com/album/78iPKni6EbECQiX5Aco2r2"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 268706,
+      "name": "You've Got a Friend",
+      "url": "https://open.spotify.com/track/6KJdMPQ3e0QyXgg6J9WFhH"
     },
     {
       "album": {

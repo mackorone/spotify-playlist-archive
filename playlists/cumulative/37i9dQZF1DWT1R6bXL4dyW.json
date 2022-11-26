@@ -390,6 +390,24 @@
     },
     {
       "album": {
+        "name": "The Restaurant Album",
+        "url": "https://open.spotify.com/album/4nSoCB4w4uhXjLlOf4QqQ3"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 205746,
+      "name": "Italian Restaurant 1",
+      "url": "https://open.spotify.com/track/72qqx1ZCvgnkSf2Sm14MfF"
+    },
+    {
+      "album": {
         "name": "Italian Caf\u00e9: Traditional Romantic Dinner Music from Italy",
         "url": "https://open.spotify.com/album/7hHYu4VO064qljJ4oKdjrD"
       },
@@ -980,6 +998,24 @@
     },
     {
       "album": {
+        "name": "The Very Best Of Al Martino",
+        "url": "https://open.spotify.com/album/6OYVxpJB6zYcl3UNp2R40O"
+      },
+      "artists": [
+        {
+          "name": "Al Martino",
+          "url": "https://open.spotify.com/artist/7egNqIGRldMzifHoh8pib6"
+        }
+      ],
+      "date_added": "2019-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 190186,
+      "name": "Take My Heart",
+      "url": "https://open.spotify.com/track/72VRXLEXSrCKsHrrboY1hs"
+    },
+    {
+      "album": {
         "name": "The Ultimate Al Martino",
         "url": "https://open.spotify.com/album/5ZWGb9xTcmxXAjVNnbqELV"
       },
@@ -1031,6 +1067,28 @@
       "duration_ms": 136800,
       "name": "Tarantella",
       "url": "https://open.spotify.com/track/5CVSC6Ehnko15JmOuGYFwA"
+    },
+    {
+      "album": {
+        "name": "Piosenki z Film\u00f3w",
+        "url": "https://open.spotify.com/album/5XppDzLQLDzEAKrpQQwKqi"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        },
+        {
+          "name": "Dick Stabile And His Orchestra",
+          "url": "https://open.spotify.com/artist/0liyb0PPDyu3pfG7WZtsxO"
+        }
+      ],
+      "date_added": "2019-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 187626,
+      "name": "That's Amore",
+      "url": "https://open.spotify.com/track/3chhqO7z6nVOf1fdhcyKFn"
     },
     {
       "album": {

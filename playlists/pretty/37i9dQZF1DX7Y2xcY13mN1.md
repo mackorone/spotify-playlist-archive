@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y2xcY13mN1.md) - [plain]
 
 > New and familiar folk in the Irish tradition\. Cover: Ye Vagabonds
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,897 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,205 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y2xcY13mN1.md) - [plain]
 | 26 | [Dublin In The Rare Auld Times](https://open.spotify.com/track/6WWLO6aWNAMdtOI6iOL86D) | [Luke Kelly](https://open.spotify.com/artist/2ZYIql5vmxtz3LbDLIaWo9) | [The Best Ever Collection Of Irish Pub Songs \- Volume 1](https://open.spotify.com/album/03EhSxO0WLA1axY6Nwb1H6) | 4:59 |
 | 27 | [The Turfman From Ardee](https://open.spotify.com/track/1g9ojIWqBvaR1eXqXcEqhI) | [The Mary Wallopers](https://open.spotify.com/artist/7aLfd5azGVKmim6H38mZk2) | [A Mouthful of The Mary Wallopers](https://open.spotify.com/album/00IPpzD5bAX0vtU6GG3tYz) | 1:52 |
 | 28 | [The Rising of the Moon](https://open.spotify.com/track/6hwvSseQYltJDb1d7JMbkj) | [Tia Blake](https://open.spotify.com/artist/6fkGY2RJyI8UxNjMlDo9k1) | [Folksongs & Ballads](https://open.spotify.com/album/2JQDn2wgm2nLVxdWE0GJJa) | 3:55 |
-| 29 | [Liscannor Bay](https://open.spotify.com/track/32hl16DWU7E2QRVEDbOmTx) | [The Fiddle Case](https://open.spotify.com/artist/4sk1ZccF7bAlhBzdg5lgta) | [Audio Incense](https://open.spotify.com/album/0gurWRwbN6vQoZe7kJJAwf) | 5:02 |
+| 29 | [Liscannor Bay](https://open.spotify.com/track/560IhdGKuEZyrgK9a7wJCG) | [The Fiddle Case](https://open.spotify.com/artist/4sk1ZccF7bAlhBzdg5lgta) | [Audio Incense](https://open.spotify.com/album/46m6GZTJWRMqQzjJQK5f27) | 5:02 |
 | 30 | [Medley: The Recruiting Sergeant / The Rocky Road to Dublin / Galway Races](https://open.spotify.com/track/1boQR0hrVk6rJ7r2JbpvLh) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH) | [If I Should Fall from Grace with God \(Expanded Edition\)](https://open.spotify.com/album/4V92Puney9WxGPecKtLG4L) | 4:04 |
 | 31 | [A Rainy Night in Soho](https://open.spotify.com/track/6Phlvy4vI8cIrM0puZLgSt) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH) | [Rum Sodomy & The Lash \(Expanded Edition\)](https://open.spotify.com/album/2wRH4pcI8TIQFCK1MeByWO) | 4:43 |
 | 32 | [Hungover at Mass](https://open.spotify.com/track/31Yu3GZPzEP0W5VQbgYpAn) | [Junior Brother](https://open.spotify.com/artist/2CdmJGEGEkzPZ966NCmtKz) | [Fuck Off I Love You](https://open.spotify.com/album/3pgfgpBBeC180QtwWT1uIB) | 2:49 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y2xcY13mN1.md) - [plain]
 | 34 | [Ten Thousand Miles](https://open.spotify.com/track/2rjntmwJoCp0RsWszuUV0H) | [Danú](https://open.spotify.com/artist/0Mm3mSg0GPDZwSI1fdznTV) | [Ten Thousand Miles](https://open.spotify.com/album/6N3rs8d37FFcmLhSDicbbd) | 3:30 |
 | 35 | [Black Velvet Band](https://open.spotify.com/track/3eLJLZn6bkE6il9x5pS07g) | [The Dubliners](https://open.spotify.com/artist/72RvmgEg2omdlMV9aExO6a) | [The Essential Collection](https://open.spotify.com/album/3AxsXQdgP3zZXPvezSI9bK) | 4:29 |
 | 36 | [Lisdoonvarna](https://open.spotify.com/track/05KvSXpXEWd3YCwTPG0xu9) | [Christy Moore](https://open.spotify.com/artist/3Ebn7mKYzD0L3DaUB1gNJZ) | [On the Road](https://open.spotify.com/album/0pGk5GqEidvPcTratzBAyJ) | 5:06 |
-| 37 | [Come My Little Son](https://open.spotify.com/track/005ZFkcOg4PpztdwllWzF3) | [The Fiddle Case](https://open.spotify.com/artist/4sk1ZccF7bAlhBzdg5lgta) | [Write Me a Letter](https://open.spotify.com/album/3RYRMlquQZE86uu6H35a4s) | 4:07 |
+| 37 | [Come My Little Son](https://open.spotify.com/track/4ENxksrHox2FMpaVzvvk1F) | [The Fiddle Case](https://open.spotify.com/artist/4sk1ZccF7bAlhBzdg5lgta) | [Write Me a Letter](https://open.spotify.com/album/1fa4LBlNsValNBZCwGmTPf) | 4:07 |
 | 38 | [Óró Sé Do Bheatha 'Bhaile](https://open.spotify.com/track/0AsIdSOFy2Rf6B209mwUwv) | [Screaming Orphans](https://open.spotify.com/artist/41fubq9QRf4B3bjtQmLxy6) | [Belle's Isle](https://open.spotify.com/album/7kvG8SSqWGDlgKhT79E68B) | 2:10 |
 | 39 | [A Woman's Heart](https://open.spotify.com/track/6CJYvbt1i1JOTRH5gSyyl4) | [Eleanor McEvoy](https://open.spotify.com/artist/50SDcJ4wO9jS355IoJc7O9), [Mary Black](https://open.spotify.com/artist/25W55yzID8F5bRKG8Zg2IA) | [A Woman's Heart](https://open.spotify.com/album/4H2Hfi1cJZjs46H51HLVNi) | 3:50 |
 | 40 | [Whiskey In The Jar](https://open.spotify.com/track/5rGF96eFDF8u5cAZgG8fUD) | [Jerry Garcia](https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN), [David Grisman](https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O) | [Shady Grove](https://open.spotify.com/album/0CygLXo95xtf8B0yfL4P5y) | 4:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y2xcY13mN1.md) - [plain]
 | 49 | [The Town I Loved So Well](https://open.spotify.com/track/6HJ5tXU3bPGx0ONBeh9EYs) | [Phil Coulter](https://open.spotify.com/artist/3Hm9DJ7Xa8YgiCAa7MoSiP) | [Words & Music](https://open.spotify.com/album/5ZZJHQbMplpRvMgFF5HatY) | 6:25 |
 | 50 | [The Lass of Aughrim](https://open.spotify.com/track/2s1enAmUiPrslpVQcJpnLq) | [Lisa O'Neill](https://open.spotify.com/artist/3fZ2IQpHixtBtUtDo7MWpV) | [Heard A Long Gone Song](https://open.spotify.com/album/6hGCF6U1vanh8KJZgAq66m) | 2:11 |
 
-Snapshot ID: `MTY0NzAxNDA1MCwwMDAwMDAwMDE1ZTc0ZjBlZjEyY2MxZjcxOGI2OTQzZTQ1ODFmZmZl`
+Snapshot ID: `MTY0NzAxNDA1MCwwMDAwMDAwMDA4MDE2ZmY0MWRiOTY3NGE5YmE5MTQzNDdiNGRjMzJk`

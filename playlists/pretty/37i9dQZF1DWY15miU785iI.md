@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY15miU785iI.md) - [plain]
 
 > Podcasts you need to have on your RADAR!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,101 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,106 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

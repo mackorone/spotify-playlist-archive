@@ -4,7 +4,7 @@
 
 > NATIVE mag and Ghana National football team's Kofi Kyereh bring us their favorite pregame tracks ahead of the Ghana Vs Nigeria World Cup qualifiers.
 
-44 songs - 2 hr 28 min - [published](https://open.spotify.com/playlist/7fI9ns3CTpwGPwTVCgIWgK)
+45 songs - 2 hr 31 min - [published](https://open.spotify.com/playlist/7fI9ns3CTpwGPwTVCgIWgK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [CHOPLIFE \(feat\. Patoranking\)](https://open.spotify.com/track/5F5OkyidOWn8gj4vQhD7QM) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [CHOPLIFE \(feat\. Patoranking\)](https://open.spotify.com/album/04UO0sJC1oRi1N8kpRKiWf) | 3:33 | 2022-03-27 |  |
 | [Destiny](https://open.spotify.com/track/3LLE0z2HCZTN6M0ryoGz8t) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Destiny](https://open.spotify.com/album/5D0NfdNtnwBGJiPVppoXk4) | 2:50 | 2022-03-27 |  |
 | [Dinner Guest \(feat\. MoStack\)](https://open.spotify.com/track/0pMt7yNoZTu1gQByxkXaMu) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [MoStack](https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP) | [Flu Game](https://open.spotify.com/album/2mgAD4bdEfvmwG0iq8K0h7) | 3:18 | 2022-03-27 |  |
+| [Dinner Guest \(feat\. MoStack\)](https://open.spotify.com/track/4E57gt5EDgniqrpYO6TQy2) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [MoStack](https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP) | [Dinner Guest \(feat\. MoStack\)](https://open.spotify.com/album/2CeB1aRIEKmnAU5LPRyYsd) | 3:18 | 2022-03-27 | 2022-11-13 |
 | [emiliana](https://open.spotify.com/track/6lZ5p6VTbZ2ZvnsdTlLv7I) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Emiliana](https://open.spotify.com/album/4LTckGxBOI0fEkliC3zbIp) | 2:44 | 2022-03-27 |  |
 | [Feeling](https://open.spotify.com/track/29e2gdZN35wxeGgDtkXjIa) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Feeling](https://open.spotify.com/album/7HUbrb8z5gdwm9OoPEDh5A) | 3:44 | 2022-03-27 |  |
 | [Fine Wine \(feat\. King Promise & Joeboy\)](https://open.spotify.com/track/3E3WIVDBt4rX4N2kRrwSah) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Fine Wine \(feat\. King Promise & Joeboy\)](https://open.spotify.com/album/3f6FbIilED8NakLgcWAhqi) | 3:50 | 2022-03-27 |  |

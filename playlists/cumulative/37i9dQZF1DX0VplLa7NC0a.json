@@ -826,6 +826,32 @@
     },
     {
       "album": {
+        "name": "Rossini: The Barber of Seville Overture",
+        "url": "https://open.spotify.com/album/0rjVkIWa2M8K0WmkeFFPA4"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Prague Sinfonia",
+          "url": "https://open.spotify.com/artist/2rslujXEON2msrHEXH3VjL"
+        },
+        {
+          "name": "Christian Benda",
+          "url": "https://open.spotify.com/artist/0BJkJ1ZYbOXeQMhQLT1Uhy"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 479013,
+      "name": "L'italiana in Algeri: L'Italiana in Algeri (The Italian Girl in Algiers), Act I: Sinfonia",
+      "url": "https://open.spotify.com/track/2PSg6sxV1IhbEwM0rufYiy"
+    },
+    {
+      "album": {
         "name": "Rossini: Complete Overtures, Vol. 3",
         "url": "https://open.spotify.com/album/439HCREFd7BjH4YVMDqgOS"
       },
@@ -1019,6 +1045,36 @@
       "duration_ms": 305493,
       "name": "La Cenerentola / Act 2: \"Sia qualunque delle figlie\"",
       "url": "https://open.spotify.com/track/714b6Kmu52Xdrdyyv1PD8W"
+    },
+    {
+      "album": {
+        "name": "Rossini - Great Recordings",
+        "url": "https://open.spotify.com/album/20RaYU70WWQsvZMicN33F1"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Paolo Montarsolo",
+          "url": "https://open.spotify.com/artist/7xgzt9ql9Uq2HOudEYgCX9"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 306413,
+      "name": "La Cenerentola / Act 2: \"Sia qualunque delle figlie\"",
+      "url": "https://open.spotify.com/track/37TxZH2hpHGgL2GerFRXgh"
     },
     {
       "album": {
@@ -1315,6 +1371,48 @@
       "duration_ms": 413493,
       "name": "Mos\u00e8 in Egitto / Act 1: No. 1 Introduzione: \"Ah! Chi ne aiuta! Oh ciel!\"",
       "url": "https://open.spotify.com/track/1VR0lZ6Jbf0PyKSE6CUXwE"
+    },
+    {
+      "album": {
+        "name": "Rossini: A Monument of Classics",
+        "url": "https://open.spotify.com/album/1rBErfk1Gl5IzcRJT8Beuh"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        },
+        {
+          "name": "Claudio Scimone",
+          "url": "https://open.spotify.com/artist/6jnyvg611nzPsnPmmeEYBw"
+        },
+        {
+          "name": "Siegmund Nimsgern",
+          "url": "https://open.spotify.com/artist/1OlV6acs5ZqPtQAaLcmr8g"
+        },
+        {
+          "name": "Ernesto Palacio",
+          "url": "https://open.spotify.com/artist/2OGqTvYzZQHwYeJ4fsCn3B"
+        },
+        {
+          "name": "Zehava Gal",
+          "url": "https://open.spotify.com/artist/5bsqJik2rkobBsjS8bA7nw"
+        },
+        {
+          "name": "Ambrosian Opera Chorus",
+          "url": "https://open.spotify.com/artist/5qBpXwutwmD9MBTNXkT4JZ"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 413493,
+      "name": "Mos\u00e8 in Egitto / Act 1: No. 1 Introduzione: \"Ah! Chi ne aiuta! Oh ciel!\"",
+      "url": "https://open.spotify.com/track/3s9PtRtL6L3A6r5bvHZ6Kr"
     },
     {
       "album": {
@@ -2483,8 +2581,8 @@
           "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
         },
         {
-          "name": "Filarmonici del Teatro Comunale di Bologna",
-          "url": "https://open.spotify.com/artist/1SnTF6zZTyY4P1LzvkUq4f"
+          "name": "Filarmonica del Teatro Comunale di Bologna",
+          "url": "https://open.spotify.com/artist/58QCnSrGJD5DhqH4hTgjT3"
         },
         {
           "name": "Riccardo Chailly",
@@ -2509,8 +2607,8 @@
           "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
         },
         {
-          "name": "Filarmonici del Teatro Comunale di Bologna",
-          "url": "https://open.spotify.com/artist/1SnTF6zZTyY4P1LzvkUq4f"
+          "name": "Filarmonica del Teatro Comunale di Bologna",
+          "url": "https://open.spotify.com/artist/58QCnSrGJD5DhqH4hTgjT3"
         },
         {
           "name": "Riccardo Chailly",
@@ -2575,6 +2673,32 @@
       "duration_ms": 431693,
       "name": "Sonata for Strings No. 2 in A Major: I. Allegro (Version for orchestra)",
       "url": "https://open.spotify.com/track/5N6Z3dpr7TWXWMSq7hpR5y"
+    },
+    {
+      "album": {
+        "name": "A Guided Tour of the Romantic Era, Vol. 3",
+        "url": "https://open.spotify.com/album/1CKiM1a3PayI89zPXLlZxD"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Hungarian Virtuosi",
+          "url": "https://open.spotify.com/artist/5n7F8cHDE9RdCmot6yT93t"
+        },
+        {
+          "name": "Tam\u00e1s Benedek",
+          "url": "https://open.spotify.com/artist/22vrIuWtmcAZ88VolfCSIg"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 335946,
+      "name": "Sonata for Strings No. 6 in D Major, \"La tempesta\": III. Tempesta. Allegro",
+      "url": "https://open.spotify.com/track/1UDYTLw4J12rHmItMELQj6"
     },
     {
       "album": {
@@ -2979,6 +3103,32 @@
       "duration_ms": 666000,
       "name": "William Tell: Overture",
       "url": "https://open.spotify.com/track/1aOiwLSEnhX9jxiwHuB0Sv"
+    },
+    {
+      "album": {
+        "name": "A Season of Music: Rossini",
+        "url": "https://open.spotify.com/album/0ERSvL7JzTXBDA3Aw0AeDe"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 666000,
+      "name": "William Tell: Overture",
+      "url": "https://open.spotify.com/track/4CGJRpnSPvH5ju1kEc9Oq4"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0VplLa7NC0a"

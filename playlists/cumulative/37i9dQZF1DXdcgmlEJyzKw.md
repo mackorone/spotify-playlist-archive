@@ -4,7 +4,7 @@
 
 > Early explorations with recorded sounds as instruments \-  the groundwork for sampling as we know it today.
 
-68 songs - 7 hr 50 min - [published](https://open.spotify.com/playlist/4vM64ZMVSwtnmECx082lsj)
+70 songs - 7 hr 55 min - [published](https://open.spotify.com/playlist/4vM64ZMVSwtnmECx082lsj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,8 +73,10 @@
 | [Water Music \(1952\)](https://open.spotify.com/track/1QLUWQvVjAgCTndEJUFfjr) | [John Cage](https://open.spotify.com/artist/1Z3fF5lZdCM0ZHugkGoH8s), [Tim Ovens](https://open.spotify.com/artist/3DLKeOx3nYj7218ZwWCQew) | [John Cage \- Piano Music](https://open.spotify.com/album/7AT6jZLxRvi4FDFLT3SPVB) | 6:48 | 2022-01-07 |  |
 | [Whirling](https://open.spotify.com/track/2hjJ5lklAnK7EMlnCHcaaZ) | [Tom Dissevelt](https://open.spotify.com/artist/4ItPco4yWLkMWjnYRaqDgw) | [Electronycs Vol.3, 20th Century Early Electronic, Noise and Experimental Music\. 1920\-1960](https://open.spotify.com/album/72JIBi93abkBTYKksw4KMY) | 2:34 | 2022-01-07 | 2022-07-29 |
 | [Whirling](https://open.spotify.com/track/2mWkAjNIpkqyblLWVstIV3) | [Tom Dissevelt](https://open.spotify.com/artist/4ItPco4yWLkMWjnYRaqDgw) | [Syncopation](https://open.spotify.com/album/6HhrLi2vVnFL14ld8sOYZM) | 2:34 | 2022-01-07 |  |
+| [Whirling \(US title: Sonik Re\-Entry\)](https://open.spotify.com/track/2hP3jMgj03EBbanxXXy4Kl) | [Tom Dissevelt](https://open.spotify.com/artist/4ItPco4yWLkMWjnYRaqDgw) | [Popular Electronics: Early Dutch Electronic Music 1956\-1963](https://open.spotify.com/album/5wBmjxiEWjEByDbTlUMijc) | 2:37 | 2022-10-04 | 2022-11-13 |
 | [Wire Recorder Piece](https://open.spotify.com/track/6B8EIKs90a7PAlUxMT5Szo) | [Halim El\-Dabh](https://open.spotify.com/artist/1hhsjRTpSbycEeaPE9wPrI) | [Laiyla and the Poet](https://open.spotify.com/album/374ADWNsoO7RgQJ5IZi2Vs) | 1:49 | 2022-01-07 | 2022-07-29 |
 | [Wire Recorder Piece](https://open.spotify.com/track/6qUPW7YB1fHN2J2HMAY7bv) | [Halim El\-Dabh](https://open.spotify.com/artist/1hhsjRTpSbycEeaPE9wPrI) | [Crossing into the Electric Magnetic](https://open.spotify.com/album/3lLxgv1eAi74VTZekZ4qMQ) | 1:57 | 2022-01-07 |  |
+| [Wire recorder piece](https://open.spotify.com/track/6hTNSND7xyO4N2LNfuwWU0) | [Halim El\-Dabh](https://open.spotify.com/artist/1hhsjRTpSbycEeaPE9wPrI) | [An anthology of noise and electronic music vol.4](https://open.spotify.com/album/3f2f3ljlGtEW3QyiSP9CH6) | 1:58 | 2022-10-04 | 2022-11-14 |
 | [Équivalences](https://open.spotify.com/track/2ExnepgXNxcFJi3Ux01buF) | [Jean\-Claude Éloy](https://open.spotify.com/artist/4arxsxjwOTxoAVUAJrWyTY), [International Kranichstein Chamber Ensemble](https://open.spotify.com/artist/2288FHHL5pHgaN5GYs9jmj), [Pierre Boulez](https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7) | [Darmstadt Aural Documents, Box 3: Ensembles](https://open.spotify.com/album/03ZGMMJATM1idwGlqjwEVs) | 8:53 | 2022-01-07 |  |
 
 \*This playlist was first scraped on 2022-02-08. Prior content cannot be recovered.

@@ -3632,6 +3632,32 @@
     },
     {
       "album": {
+        "name": "Hymns + Disparity",
+        "url": "https://open.spotify.com/album/2HWxsVil1BGXvWhSZ55M8f"
+      },
+      "artists": [
+        {
+          "name": "Tekoa",
+          "url": "https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI"
+        },
+        {
+          "name": "Rory Mckenna",
+          "url": "https://open.spotify.com/artist/3nfMxP6LLKjO9D6BfSmg2c"
+        },
+        {
+          "name": "Shady Gendy",
+          "url": "https://open.spotify.com/artist/7theWETX3Dtvm23jQVDtHp"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 259750,
+      "name": "To Be Known",
+      "url": "https://open.spotify.com/track/7yLM6nhfm42Z3OGQThZ2N1"
+    },
+    {
+      "album": {
         "name": "To The One Who Is Seated On The Throne (Live)",
         "url": "https://open.spotify.com/album/2ByngD9J0kQSo9tUgiPiZh"
       },

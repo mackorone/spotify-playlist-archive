@@ -56,6 +56,32 @@
     },
     {
       "album": {
+        "name": "All By Myself",
+        "url": "https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171747,
+      "name": "All By Myself",
+      "url": "https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb"
+    },
+    {
+      "album": {
         "name": "CONTROVERSIA by Alok Vol. 001",
         "url": "https://open.spotify.com/album/3q2KUJa8PNaSpO4Ma0lHW7"
       },
@@ -235,6 +261,24 @@
       "duration_ms": 169000,
       "name": "Body On My Mind",
       "url": "https://open.spotify.com/track/0tC6DBA0PA8o0LL3M6neZ9"
+    },
+    {
+      "album": {
+        "name": "CONTROVERSIA by Alok Vol. 002",
+        "url": "https://open.spotify.com/album/7DwBtsPSp8U1dVFQWtKqjk"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 169000,
+      "name": "Body On My Mind",
+      "url": "https://open.spotify.com/track/2hKr4BrXEPAsmTCcX8aV5J"
     },
     {
       "album": {
@@ -529,7 +573,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 215934,
       "name": "Commotion",
       "url": "https://open.spotify.com/track/2qf9Ad1hgLF5oM9SdMJdDU"
@@ -621,7 +665,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 222883,
       "name": "Desande",
       "url": "https://open.spotify.com/track/0Vch9aVnZkKXOYQfrvfFx3"
@@ -853,7 +897,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 211560,
       "name": "Falling Into You",
       "url": "https://open.spotify.com/track/4P0KHrbsOC4s7IgCsMLApO"
@@ -971,6 +1015,24 @@
       "duration_ms": 161951,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/4RXw5GRcFbOCmWQ85oEguu"
+    },
+    {
+      "album": {
+        "name": "Ghostbusters",
+        "url": "https://open.spotify.com/album/3vpc3fW5djJuuaF0588LHV"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 146129,
+      "name": "Ghostbusters",
+      "url": "https://open.spotify.com/track/1Yhxmnxo9C5g6rYkM5FRUM"
     },
     {
       "album": {
@@ -1279,7 +1341,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 175555,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/7uoxJCPiqiEa3fvOQQQbyn"
@@ -1301,7 +1363,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 184041,
       "name": "In the Night - Sevek Remix",
       "url": "https://open.spotify.com/track/69B1qgfaaXirGSbdx3otxJ"
@@ -1331,6 +1393,32 @@
       "duration_ms": 173742,
       "name": "It Don\u2019t Matter - Spotify Singles",
       "url": "https://open.spotify.com/track/7ltLi7CG003USSGYsSba9s"
+    },
+    {
+      "album": {
+        "name": "It's Ours",
+        "url": "https://open.spotify.com/album/11Z7v788eMOAVcWvsKAMG8"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Idris Elba",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200299,
+      "name": "It's Ours - Short Mix",
+      "url": "https://open.spotify.com/track/26RfGZj3z5Y25w6tQDcAyM"
     },
     {
       "album": {
@@ -1389,6 +1477,40 @@
       "duration_ms": 155903,
       "name": "Lost For Days - Remix",
       "url": "https://open.spotify.com/track/7eUv5Miiq8xSbEKpzI2zJd"
+    },
+    {
+      "album": {
+        "name": "Lost Generation",
+        "url": "https://open.spotify.com/album/2s9p73FuCiqa0XBz3jtevC"
+      },
+      "artists": [
+        {
+          "name": "MOGUAI",
+          "url": "https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ"
+        },
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Bright Sparks",
+          "url": "https://open.spotify.com/artist/1Dn88PoQjnQgLTOaokePFz"
+        },
+        {
+          "name": "Bulgarian Voices Angelite",
+          "url": "https://open.spotify.com/artist/6OxyG688AdDLBKo5yrJXU9"
+        },
+        {
+          "name": "Huun-Huur-Tu",
+          "url": "https://open.spotify.com/artist/1bK0K2tuAcvMScEWIHt54t"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163902,
+      "name": "Lost Generation - Edit",
+      "url": "https://open.spotify.com/track/4IAQZlLWEiMhrYPfL4btZi"
     },
     {
       "album": {
@@ -1652,6 +1774,28 @@
     },
     {
       "album": {
+        "name": "Same Man",
+        "url": "https://open.spotify.com/album/2oHueeYRfx9HZ7lAp99S3s"
+      },
+      "artists": [
+        {
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        },
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152500,
+      "name": "Same Man",
+      "url": "https://open.spotify.com/track/61JaHYd8nsdvB3srjgGZtM"
+    },
+    {
+      "album": {
         "name": "See The Ocean",
         "url": "https://open.spotify.com/album/6wOQT6BrVoz8hWsXEPL64g"
       },
@@ -1759,7 +1903,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 163124,
       "name": "Something",
       "url": "https://open.spotify.com/track/6LHXb1sGs72iTmpSr0603b"
@@ -1803,7 +1947,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 158400,
       "name": "Summer In New York - \u00d6wnboss & Fancy Inc Remix",
       "url": "https://open.spotify.com/track/6aFXimZOxnkqIEshd7d4JE"
@@ -1851,6 +1995,28 @@
       "duration_ms": 177120,
       "name": "Take Over",
       "url": "https://open.spotify.com/track/4Q3iraOig7nyrRoNz1mNKc"
+    },
+    {
+      "album": {
+        "name": "Teletransporte",
+        "url": "https://open.spotify.com/album/7ce0OYD2CrKIs70fXvKycS"
+      },
+      "artists": [
+        {
+          "name": "Groove Delight",
+          "url": "https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn"
+        },
+        {
+          "name": "Lau de Pr\u00e1",
+          "url": "https://open.spotify.com/artist/0IQDW58CkNXAGsLx3DWcRt"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165354,
+      "name": "Teletransporte",
+      "url": "https://open.spotify.com/track/3scepjch61mbCMEiQ56C7Q"
     },
     {
       "album": {
@@ -1986,6 +2152,24 @@
     },
     {
       "album": {
+        "name": "Warning",
+        "url": "https://open.spotify.com/album/3y5fQAMQcXwch8hlHuhzwp"
+      },
+      "artists": [
+        {
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336504,
+      "name": "Warning",
+      "url": "https://open.spotify.com/track/09fLcyru2xKfVPpN01dL0C"
+    },
+    {
+      "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/68josQsaxs9CCBsoEpmOo4"
       },
@@ -2045,6 +2229,32 @@
       "duration_ms": 224637,
       "name": "Would You Blame Me",
       "url": "https://open.spotify.com/track/7hCIfAq7QL06nKnoeugoxl"
+    },
+    {
+      "album": {
+        "name": "You Can\u2019t Change Me (feat. Raye)",
+        "url": "https://open.spotify.com/album/5OSSa4lPIbnn1VGtwlojCx"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170859,
+      "name": "You Can\u2019t Change Me (feat. Raye)",
+      "url": "https://open.spotify.com/track/4HjLBWJ7AKZQcmupi1NSM5"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXd14ByHZraz1"

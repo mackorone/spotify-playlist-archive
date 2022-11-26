@@ -4,7 +4,7 @@
 
 > Buon Appetito!
 
-66 songs - 3 hr 20 min - [published](https://open.spotify.com/playlist/3DcUKWxUB3c5563KSQxozA)
+69 songs - 3 hr 30 min - [published](https://open.spotify.com/playlist/3DcUKWxUB3c5563KSQxozA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [In Times Like These](https://open.spotify.com/track/1O3XkvdYvLgmvUhAqtTPCR) | [Julius La Rosa](https://open.spotify.com/artist/1yhv5zp6IYFYpboAm7Fdlm) | [On The Sunny Side](https://open.spotify.com/album/5UwXs3lYUnJJjOMdvxKfty) | 2:46 | 2019-03-18 |  |
 | [It's Not For Me To Say](https://open.spotify.com/track/4lFXv6eBek6kEiGYzh2mH2) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf) | [Johnny's Greatest Hits](https://open.spotify.com/album/5yIWAY0IA6ZTEGL3R6tPH1) | 3:05 | 2022-02-18 |  |
 | [Italian Night](https://open.spotify.com/track/7kQJ5znmZV3jLpcNDQE0xR) | [The New Italian Ensemble](https://open.spotify.com/artist/6dxVfmnDCABARibSSrtqRI) | [Welcome Home](https://open.spotify.com/album/0QsSFqGdbReLFAWwKdQIhS) | 3:33 | 2022-02-18 |  |
+| [Italian Restaurant 1](https://open.spotify.com/track/72qqx1ZCvgnkSf2Sm14MfF) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [The Restaurant Album](https://open.spotify.com/album/4nSoCB4w4uhXjLlOf4QqQ3) | 3:25 | 2022-02-18 | 2022-11-13 |
 | [Italian Restaurant for One](https://open.spotify.com/track/4zuic4CVOHN9shgFcVIjw7) | [Italian Social Club](https://open.spotify.com/artist/05TCFEjumGZHwHezCWNwK0) | [Italian Café: Traditional Romantic Dinner Music from Italy](https://open.spotify.com/album/7hHYu4VO064qljJ4oKdjrD) | 3:25 | 2022-02-18 | 2022-07-29 |
 | [Kriminal tango](https://open.spotify.com/track/50Z9lMvcnkHuPodeL6XY53) | [Marino Marini](https://open.spotify.com/artist/2XLDoRIbLGPDqTXeTrVIbo) | [Guaglione](https://open.spotify.com/album/3JP375sFTecotrjU3tN0wc) | 2:44 | 2018-03-09 |  |
 | [La Donna Riccia](https://open.spotify.com/track/3ddMtGoPY2DOOQDvQ46nAt) | [Domenico Modugno](https://open.spotify.com/artist/4llklDtTTyMYMY2LfFOkTI) | [Domenico Modugno](https://open.spotify.com/album/1O5m1zuWVPyD0g7MwHDYMp) | 2:33 | 2019-03-18 |  |
@@ -60,9 +61,11 @@
 | [Stasera..\. Che Sera! \- 1991 \- Remaster](https://open.spotify.com/track/1uz6If8Tcbjm3xyxQ48IjV) | [Matia Bazar](https://open.spotify.com/artist/449mAbddAC2PAgNM3TLyc5) | [Matia Bazar 1 \(1991 Remaster\)](https://open.spotify.com/album/3XMyhCHEqTIQsEVz3lgzkB) | 3:26 | 2022-02-18 |  |
 | [Summertime in Venice](https://open.spotify.com/track/48ivErtRGxqq7c7McvCrLu) | [Buddy Greco](https://open.spotify.com/artist/0tncOz6MVpy67IphfE6VHZ) | [My Last Night in Rome](https://open.spotify.com/album/5M0nS1p261Pba8ETac6qtv) | 2:14 | 2019-03-18 |  |
 | [Take My Heart](https://open.spotify.com/track/28pzAaErWyNUHOo4Kazp75) | [Al Martino](https://open.spotify.com/artist/7egNqIGRldMzifHoh8pib6) | [Capitol Collectors Series](https://open.spotify.com/album/5WKxit4CEpmFmM8bErbCek) | 3:08 | 2019-03-18 | 2022-08-15 |
+| [Take My Heart](https://open.spotify.com/track/72VRXLEXSrCKsHrrboY1hs) | [Al Martino](https://open.spotify.com/artist/7egNqIGRldMzifHoh8pib6) | [The Very Best Of Al Martino](https://open.spotify.com/album/6OYVxpJB6zYcl3UNp2R40O) | 3:10 | 2019-03-18 | 2022-11-14 |
 | [Take My Heart](https://open.spotify.com/track/17mHf9wIBpntdSqDfD8c2g) | [Al Martino](https://open.spotify.com/artist/7egNqIGRldMzifHoh8pib6) | [The Ultimate Al Martino](https://open.spotify.com/album/5ZWGb9xTcmxXAjVNnbqELV) | 3:10 | 2019-03-18 |  |
 | [Take My Heart \- Remastered](https://open.spotify.com/track/5tg20ochJcAlpj25GM5ZWx) | [Al Martino](https://open.spotify.com/artist/7egNqIGRldMzifHoh8pib6) | [Crooner \(Remastered\)](https://open.spotify.com/album/7pgcJ7XAmi0a41S0l7LKdL) | 3:09 | 2019-03-18 | 2022-07-29 |
 | [Tarantella](https://open.spotify.com/track/5CVSC6Ehnko15JmOuGYFwA) | [Italian Mandolin Torna A Surriento](https://open.spotify.com/artist/6B1qY6diGzu9FFbGOG7fSk) | [Italian Music, Tarantella, Come Back to Sorrento](https://open.spotify.com/album/191xZsXIZWwYcKshzfEJbg) | 2:16 | 2022-02-18 |  |
+| [That's Amore](https://open.spotify.com/track/3chhqO7z6nVOf1fdhcyKFn) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9), [Dick Stabile And His Orchestra](https://open.spotify.com/artist/0liyb0PPDyu3pfG7WZtsxO) | [Piosenki z Filmów](https://open.spotify.com/album/5XppDzLQLDzEAKrpQQwKqi) | 3:07 | 2019-03-18 | 2022-11-13 |
 | [That's Amore](https://open.spotify.com/track/4I4aQGNJ2HufloNtB65nxR) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9), [Dick Stabile And His Orchestra](https://open.spotify.com/artist/0liyb0PPDyu3pfG7WZtsxO) | [Dean Martin: The Capitol Recordings, Vol\. 4 \(1952\-1954\)](https://open.spotify.com/album/5jQlSnsavt8afiXBFDNE8I) | 3:10 | 2019-03-18 |  |
 | [That's Amore \- 1998 Remastered](https://open.spotify.com/track/2yVKRJ026MOBElS97mp2Xl) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Essential Dean Martin](https://open.spotify.com/album/3bCD76GPTntFdGOT6KXgO3) | 3:07 | 2019-03-18 | 2022-07-29 |
 | [The Glory of Love](https://open.spotify.com/track/4usvynbYaFqgm4olpzEp9u) | [Jimmy Durante](https://open.spotify.com/artist/5FNHfTn3yzVpqdUyWwej0v) | [Hello Young Lovers](https://open.spotify.com/album/2MxPqVPNpPGx4jYjSJr6Zg) | 2:49 | 2019-03-18 |  |

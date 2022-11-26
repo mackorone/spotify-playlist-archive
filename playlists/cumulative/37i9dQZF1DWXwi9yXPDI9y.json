@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 198360,
       "name": "All Of Me",
       "url": "https://open.spotify.com/track/0f2HoOAhmbJdO26eZGLqIV"
@@ -121,6 +121,24 @@
       "duration_ms": 169600,
       "name": "Am I Blue - 2002 Remastered Version",
       "url": "https://open.spotify.com/track/4fsy4vmnBzaMCCiwwR1lbm"
+    },
+    {
+      "album": {
+        "name": "Public Enemies",
+        "url": "https://open.spotify.com/album/18mKMUsbUkKySqQszMzi0T"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 170106,
+      "name": "Am I Blue?",
+      "url": "https://open.spotify.com/track/67xFDu53IPyGYV7qRANtEB"
     },
     {
       "album": {
@@ -189,7 +207,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 185586,
       "name": "April In Paris",
       "url": "https://open.spotify.com/track/34zhjduFdQFhkRUJ230h9T"
@@ -283,7 +301,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 203000,
       "name": "Ballade For Very Tired And Very Sad Lotus Eaters",
       "url": "https://open.spotify.com/track/0blYAolw9V5F0EmOqt94VX"
@@ -678,6 +696,24 @@
     },
     {
       "album": {
+        "name": "Chet In Paris: Everything Happens To Me - The Complete Barclay Recording Vol. 2",
+        "url": "https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218666,
+      "name": "Everything Happens To Me - Complete Take 2",
+      "url": "https://open.spotify.com/track/1FjIeuSHpU3x2J8cKCbc6r"
+    },
+    {
+      "album": {
         "name": "Unforgettable",
         "url": "https://open.spotify.com/album/1uuWhIhlm6T5RoMM7ALp5V"
       },
@@ -697,6 +733,28 @@
     {
       "album": {
         "name": "Blue Hour",
+        "url": "https://open.spotify.com/album/3ZLZm4HdGvAtJ1DdNFylqi"
+      },
+      "artists": [
+        {
+          "name": "Stanley Turrentine",
+          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
+        },
+        {
+          "name": "The Three Sounds",
+          "url": "https://open.spotify.com/artist/5wVeG4RM2VXsFwyylF8vXi"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 324106,
+      "name": "Gee Baby, Ain't I Good to You",
+      "url": "https://open.spotify.com/track/0fIczzw8byT5OEd2Yg7ed1"
+    },
+    {
+      "album": {
+        "name": "Blue Hour",
         "url": "https://open.spotify.com/album/1Ho6TDqRIfgliR193SyRaO"
       },
       "artists": [
@@ -707,7 +765,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 323333,
       "name": "Gee Baby, Ain't I Good To You - Remastered/2000",
       "url": "https://open.spotify.com/track/5mumAplqD8ecZ5zPuLj02B"
@@ -725,7 +783,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 324106,
       "name": "Gee Baby, Ain't I Good To You - Remastered/2000",
       "url": "https://open.spotify.com/track/5VT0WgAxTEPowUywwuObwZ"
@@ -849,7 +907,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-16",
+      "date_removed": null,
       "duration_ms": 237800,
       "name": "I Didn't Know What Time It Was",
       "url": "https://open.spotify.com/track/28eFULERb1L9fTQ3mVHGAG"
@@ -1215,7 +1273,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 154106,
       "name": "Little White Lies",
       "url": "https://open.spotify.com/track/2LyNm94f8adOw3frDUHB5o"
@@ -1287,7 +1345,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 196120,
       "name": "Lover Man",
       "url": "https://open.spotify.com/track/3rnxTrbJ23PQ0g4NNVadru"
@@ -1544,6 +1602,32 @@
     },
     {
       "album": {
+        "name": "Les 50 Tr\u00e9sors du Jazz",
+        "url": "https://open.spotify.com/album/6lbgEcXd2OptvyIybLU8dt"
+      },
+      "artists": [
+        {
+          "name": "Harold Arlen",
+          "url": "https://open.spotify.com/artist/7MOUyX1yT017l1Zt0mExIA"
+        },
+        {
+          "name": "E.Y. Harbourg",
+          "url": "https://open.spotify.com/artist/19erDSohWWEd8UnIK8MsHc"
+        },
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 210000,
+      "name": "Over the Rainbow",
+      "url": "https://open.spotify.com/track/2b2lG9SCigi2yG6mhemwXd"
+    },
+    {
+      "album": {
         "name": "Swingin' Easy",
         "url": "https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju"
       },
@@ -1555,7 +1639,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-16",
+      "date_removed": null,
       "duration_ms": 156573,
       "name": "Polka Dots And Moonbeams",
       "url": "https://open.spotify.com/track/5gKkKecfZsrzIkJlKyikyw"
@@ -1573,7 +1657,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": null,
       "duration_ms": 331213,
       "name": "Prelude To A Kiss",
       "url": "https://open.spotify.com/track/5np8aLrbzZDCHPPXyqNOeb"
@@ -1721,6 +1805,24 @@
       "duration_ms": 291693,
       "name": "Speak Low - Live At The London House, Chicago, 1958",
       "url": "https://open.spotify.com/track/0DM4kZSysGsa2fKCmupIT0"
+    },
+    {
+      "album": {
+        "name": "I Just Dropped By To Say Hello",
+        "url": "https://open.spotify.com/album/0lGkDnvzRpaCFsjQ8kX20F"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185786,
+      "name": "Stairway To The Stars",
+      "url": "https://open.spotify.com/track/1EpnnS4RqJQrA3OMxVJ6Ks"
     },
     {
       "album": {
@@ -1992,6 +2094,28 @@
     },
     {
       "album": {
+        "name": "The Complete Lester Young Studio Sessions On Verve",
+        "url": "https://open.spotify.com/album/5uD7yoQZensEeRQow76SeW"
+      },
+      "artists": [
+        {
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+        },
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 207600,
+      "name": "These Foolish Things",
+      "url": "https://open.spotify.com/track/3FaczqNKZUq0dy4FC0QdEs"
+    },
+    {
+      "album": {
         "name": "The President Plays With The Oscar Peterson Trio",
         "url": "https://open.spotify.com/album/5GV8mn6Y244jnMc8wiOpqt"
       },
@@ -2209,7 +2333,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 126293,
       "name": "Till There Was You",
       "url": "https://open.spotify.com/track/7n8HjcaEQzwwpyxHdjWjQq"
@@ -2339,7 +2463,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 210466,
       "name": "Waltz For Debby",
       "url": "https://open.spotify.com/track/5yIMPoQsY9thfRCZe6lrfX"
@@ -2469,6 +2593,28 @@
       "duration_ms": 174866,
       "name": "You Go To My Head",
       "url": "https://open.spotify.com/track/78MIFwIW5oUNdaL6Sj8hTB"
+    },
+    {
+      "album": {
+        "name": "Spotlight on Louis Armstrong",
+        "url": "https://open.spotify.com/album/6mmTCXQNKyhkOx7mTPzsaQ"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 385533,
+      "name": "You Go To My Head",
+      "url": "https://open.spotify.com/track/4t1Awn1O7SRlSYOf7ZEWRW"
     },
     {
       "album": {

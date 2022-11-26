@@ -4,7 +4,7 @@
 
 > Ambient's most enduring tracks from the 90's chillout room scene\. Cover: 808 State
 
-60 songs - 8 hr 44 min - [published](https://open.spotify.com/playlist/5OS47xesWcizzSceuREH3m)
+61 songs - 8 hr 50 min - [published](https://open.spotify.com/playlist/5OS47xesWcizzSceuREH3m)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Spectral](https://open.spotify.com/track/6p0N2HNDXZEcPHnliWTlvH) | [Higher Intelligence Agency](https://open.spotify.com/artist/6DhBEniG8r8qDfe5quohYs) | [Colourform](https://open.spotify.com/album/4mTqs8onoAtoUIPXvJ0tO5) | 7:01 | 2021-11-12 |  |
 | [Sunrise](https://open.spotify.com/track/7ilf660p0iGKCYCP9enquP) | [Young American Primitive](https://open.spotify.com/artist/2mK8oNohj82BrVyEH1Tfa0) | [Young American Primitive](https://open.spotify.com/album/4tN8NlDoYAhhKIuPHvME7H) | 8:02 | 2021-11-12 |  |
 | [Surfacing](https://open.spotify.com/track/15nGSt4NnoOJIihxPnXkvp) | [Trans\-4M](https://open.spotify.com/artist/19BCL3CRrl1hMq8cIJV4fj) | [Sublunar Oracles](https://open.spotify.com/album/0ErOiDberv4cJ2Kxj4J2fk) | 4:34 | 2021-11-12 |  |
+| [Tchengo](https://open.spotify.com/track/266F4l4WKC5a2Kdq8Y72z1) | [Loop Guru](https://open.spotify.com/artist/0y46raHPv0ngB5KfMhS7lV) | [Duniya](https://open.spotify.com/album/2b6y122RIbB2jD3mKI8Up0) | 6:22 | 2022-11-23 |  |
 | [The Dawn of Birds](https://open.spotify.com/track/5Dl6sTwutXDLrOz8BXsVwt) | [Space Farm](https://open.spotify.com/artist/3x4hguC2AMtQw5RKamRWrp) | [Egyptology 0.5](https://open.spotify.com/album/0oQMkJz8kmZJ47SG1csP4K) | 7:47 | 2022-05-19 |  |
 | [The Dawn of Birds \- Full Length Mix](https://open.spotify.com/track/3RHbUJi801L3T1MOyXMgAb) | [Space Farm](https://open.spotify.com/artist/3x4hguC2AMtQw5RKamRWrp) | [Egyptology 0.5](https://open.spotify.com/album/0TV1upVtkb3wMZgTZNnJyv) | 7:47 | 2021-11-12 | 2022-07-29 |
 | [The Lie\-In King](https://open.spotify.com/track/00yMhNhN8PmZ5qa2AOX1VV) | [The Irresistible Force](https://open.spotify.com/artist/1aBkI1XS3Qq7KgbYEIf4Ul) | [Its Tomorrow Already](https://open.spotify.com/album/7reNdSVZHFWwfonRfEQQk4) | 5:39 | 2021-11-12 |  |

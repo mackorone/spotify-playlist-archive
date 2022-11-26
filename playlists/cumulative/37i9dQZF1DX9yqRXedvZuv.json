@@ -799,7 +799,7 @@
       },
       "artists": [
         {
-          "name": "Lil Harold",
+          "name": "21 Lil Harold",
           "url": "https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB"
         }
       ],
@@ -947,7 +947,7 @@
     {
       "album": {
         "name": "4NEM",
-        "url": "https://open.spotify.com/album/19U7uimektA9B78KaLaydy"
+        "url": "https://open.spotify.com/album/1sujvm6paInfm8fYnNdjIy"
       },
       "artists": [
         {
@@ -958,6 +958,24 @@
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 248372,
+      "name": "Yes Sir",
+      "url": "https://open.spotify.com/track/3v0x0ScI9wcUlPZIdfRETf"
+    },
+    {
+      "album": {
+        "name": "4NEM",
+        "url": "https://open.spotify.com/album/19U7uimektA9B78KaLaydy"
+      },
+      "artists": [
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-16",
       "duration_ms": 248372,
       "name": "Yes Sir",
       "url": "https://open.spotify.com/track/69SNw01e7QOpN2xyLlO1tS"

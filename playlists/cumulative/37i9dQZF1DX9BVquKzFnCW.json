@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 291840,
       "name": "Alone Together",
       "url": "https://open.spotify.com/track/7lApnj6eswDJvT8mqGrut6"
@@ -453,7 +453,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 473089,
       "name": "Come, Gone",
       "url": "https://open.spotify.com/track/78oOWCGWb6TYLZu6BTsaN8"
@@ -631,6 +631,24 @@
       "duration_ms": 282386,
       "name": "Draw Me Nearer",
       "url": "https://open.spotify.com/track/6vZ8PZZy7ljlQEgCPSZTAM"
+    },
+    {
+      "album": {
+        "name": "The Jazz 100",
+        "url": "https://open.spotify.com/album/5dSukFZWRnMA6KwYrV2qvu"
+      },
+      "artists": [
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 325800,
+      "name": "Easy Does It",
+      "url": "https://open.spotify.com/track/6mNK00q4KAtJNRBLmgffPz"
     },
     {
       "album": {
@@ -927,6 +945,24 @@
       "duration_ms": 213720,
       "name": "How Deep Is The Ocean",
       "url": "https://open.spotify.com/track/3Cx9inYYVQw4VEUrwKgPuX"
+    },
+    {
+      "album": {
+        "name": "Everybody Still Digs Bill Evans",
+        "url": "https://open.spotify.com/album/1NLGIv3lw2irzjONDrU28K"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 298720,
+      "name": "How My Heart Sings",
+      "url": "https://open.spotify.com/track/6iBSQbLkjKCP5TPhBseuBn"
     },
     {
       "album": {
@@ -1333,7 +1369,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 360025,
       "name": "June Blues",
       "url": "https://open.spotify.com/track/2GFMF5oDuTxg4X9zVxR6q9"
@@ -1369,7 +1405,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-10",
+      "date_removed": "2022-11-25",
       "duration_ms": 423173,
       "name": "La Valse Bleue",
       "url": "https://open.spotify.com/track/0FcUn6IPrPvzNRTaOyWKuu"
@@ -1535,6 +1571,24 @@
       "duration_ms": 140880,
       "name": "Lullaby of Birdland",
       "url": "https://open.spotify.com/track/6aBJprxtSLncRLIT8FJi28"
+    },
+    {
+      "album": {
+        "name": "The Swingin's Mutual!",
+        "url": "https://open.spotify.com/album/5dHgftc1waKu66rjDDEpH8"
+      },
+      "artists": [
+        {
+          "name": "George Shearing Quintet",
+          "url": "https://open.spotify.com/artist/6uduXqfPOgmcelx9Kclo3y"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 145573,
+      "name": "Lullaby Of Birdland - Remastered",
+      "url": "https://open.spotify.com/track/4xNmp33QoI68gC99564ypR"
     },
     {
       "album": {
@@ -1730,6 +1784,24 @@
     },
     {
       "album": {
+        "name": "Bahia",
+        "url": "https://open.spotify.com/album/5dRMqcuSMjivfbQ29SVhue"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-25",
+      "duration_ms": 452306,
+      "name": "My Ideal",
+      "url": "https://open.spotify.com/track/2B6rVd3WE2rTrN2GSzHDLd"
+    },
+    {
+      "album": {
         "name": "The Stardust Session",
         "url": "https://open.spotify.com/album/04boZILWsfhGGPoIbbE76p"
       },
@@ -1745,6 +1817,24 @@
       "duration_ms": 452893,
       "name": "My Ideal",
       "url": "https://open.spotify.com/track/0fuCS40F0K9iirOzSfyNH8"
+    },
+    {
+      "album": {
+        "name": "Coltrane '58: The Prestige Recordings",
+        "url": "https://open.spotify.com/album/04sQeDrLHPx83hfP9A6S22"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 455439,
+      "name": "My Ideal",
+      "url": "https://open.spotify.com/track/6aqXif2JgSfAaff5yxIBef"
     },
     {
       "album": {
@@ -1927,7 +2017,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 208400,
       "name": "On the Sunny Side of the Street - 2003 Remastered Version",
       "url": "https://open.spotify.com/track/1f42qBi0iHP3ZTef6H5WjB"
@@ -2109,7 +2199,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 365304,
       "name": "S.N.C.F.",
       "url": "https://open.spotify.com/track/2QjzDjDawaDWHnN7KkJHhc"
@@ -2153,7 +2243,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 287000,
       "name": "Sandino",
       "url": "https://open.spotify.com/track/6RHr4ChhpvM4XKRy31xS5W"
@@ -2399,7 +2489,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 511093,
       "name": "Soul-Lo Blues - Remastered 1997",
       "url": "https://open.spotify.com/track/7JM0nsnyr0AKQYhI6hR7dn"
@@ -2591,7 +2681,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 183893,
       "name": "That Old Feeling",
       "url": "https://open.spotify.com/track/2d64G7VaZdHQuAquz5HQNu"
@@ -2765,7 +2855,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 195333,
       "name": "Two Left Feet",
       "url": "https://open.spotify.com/track/1USso5XOEXTvwWTwW5zS2V"
@@ -3087,7 +3177,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 176626,
       "name": "You\u2019re Driving Me Crazy",
       "url": "https://open.spotify.com/track/1iBs0OyTuRQG2ZLkYEbxLT"

@@ -4,11 +4,11 @@
 
 > This is Simon & Garfunkel\. The essential tracks, all in one playlist.
 
-48 songs - 2 hr 24 min - [published](https://open.spotify.com/playlist/0v7ewmQNytq2VYWVURbSi0)
+49 songs - 2 hr 27 min - [published](https://open.spotify.com/playlist/0v7ewmQNytq2VYWVURbSi0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [50 Ways to Leave Your Lover \- Live at Central Park, New York, NY \- September 19, 1981](https://open.spotify.com/track/5R7BOhW46EhAb8B7dnRciJ) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [The Concert in Central Park \(Live\)](https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb) | 4:49 | 2022-09-16 |  |
+| [50 Ways to Leave Your Lover \- Live at Central Park, New York, NY \- September 19, 1981](https://open.spotify.com/track/5R7BOhW46EhAb8B7dnRciJ) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [The Concert in Central Park \(Live\)](https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb) | 4:49 | 2022-09-16 | 2022-10-13 |
 | [A Heart In New York \- Live at Central Park, New York, NY \- September 19, 1981](https://open.spotify.com/track/6IyU2LIPfopCfbWewM2UdO) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [The Concert in Central Park \(Live\)](https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb) | 3:01 | 2022-09-16 |  |
 | [A Most Peculiar Man](https://open.spotify.com/track/5B5dFE2ofUxmsXbhGrPZT9) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Sounds Of Silence](https://open.spotify.com/album/07RAGILF28QweYQSZasr5k) | 2:30 | 2022-09-16 |  |
 | [A Poem on the Underground Wall](https://open.spotify.com/track/0CtuChNoy9SwaiOddQ4EPc) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Parsley, Sage, Rosemary And Thyme](https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7) | 1:54 | 2022-09-16 |  |
@@ -53,8 +53,9 @@
 | [The Sun Is Burning](https://open.spotify.com/track/3bophIN3WTxzLd4yiIZv6X) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Wednesday Morning, 3 A.M.](https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0) | 2:48 | 2022-09-16 |  |
 | [The Times They Are A\-Changin'](https://open.spotify.com/track/3sO5oZ9NLbAlU6h1qVCPJq) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Wednesday Morning, 3 A.M.](https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0) | 2:50 | 2022-09-16 |  |
 | [Tom and Jerry Story \- Live at Madison Square Garden, New York, NY \- December 2003](https://open.spotify.com/track/17cNaiZu4NMvDlqVBL6HIS) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Old Friends Live On Stage](https://open.spotify.com/album/3jgeQPfd5s935zMEJ6djm5) | 2:14 | 2022-09-16 |  |
+| [Wake up Little Susie \- Live at Central Park, New York, NY \- September 19, 1981](https://open.spotify.com/track/3i10Co0CjEzd1UpamggnlT) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [The Concert in Central Park \(Live\)](https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb) | 2:18 | 2022-10-12 |  |
 | [Wednesday Morning, 3 A.M.](https://open.spotify.com/track/6XlcraQqLY6wGnXpoVeoko) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Wednesday Morning, 3 A.M.](https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0) | 2:13 | 2022-09-16 |  |
 | [You Don't Know Where Your Interest Lies \- Single B\-Side \- 1968](https://open.spotify.com/track/0umD849rktmP7fcXCSukYk) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Old Friends](https://open.spotify.com/album/3m1Gr5BQXhKZKf2yV7h2nl) | 2:18 | 2022-09-16 |  |
-| [冬の散歩道](https://open.spotify.com/track/2wzNy58nAwmBvqMsiCcvdb) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [ベスト・セレクション vol.3](https://open.spotify.com/album/29IDW0VGSjNn4OTNKvSiZx) | 2:20 | 2022-09-24 | 2022-09-26 |
+| [冬の散歩道](https://open.spotify.com/track/2wzNy58nAwmBvqMsiCcvdb) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [ベスト・セレクション vol.3](https://open.spotify.com/album/29IDW0VGSjNn4OTNKvSiZx) | 2:20 | 2022-09-24 | 2022-10-12 |
 
 \*This playlist was first scraped on 2022-09-17. Prior content cannot be recovered.

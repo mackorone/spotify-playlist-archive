@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "Caged Bird Songs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3uOosas8GVTyqJIDc5mOER"
+      },
+      "artists": [
+        {
+          "name": "Maya Angelou",
+          "url": "https://open.spotify.com/artist/4YgS09y0GhtNSu2ZLruk89"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 208306,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/0ubXZ4MkT71sCkGMssg90b"
+    },
+    {
+      "album": {
         "name": "Caged Bird Songs",
         "url": "https://open.spotify.com/album/4PF18WekUteo4wMepPE8rv"
       },

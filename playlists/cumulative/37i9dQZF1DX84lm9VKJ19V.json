@@ -161,7 +161,7 @@
     {
       "album": {
         "name": "Wonder What",
-        "url": "https://open.spotify.com/album/7bSbz7kMBZskWvr9QegmIY"
+        "url": "https://open.spotify.com/album/2RIflWL6QYuwyTsvZDMphI"
       },
       "artists": [
         {
@@ -172,6 +172,24 @@
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Can't See Your Face Anymore",
+      "url": "https://open.spotify.com/track/1CvBeKh7m3dySJXPtBntda"
+    },
+    {
+      "album": {
+        "name": "Wonder What",
+        "url": "https://open.spotify.com/album/7bSbz7kMBZskWvr9QegmIY"
+      },
+      "artists": [
+        {
+          "name": "Swan Lingo",
+          "url": "https://open.spotify.com/artist/3tATVVBQ7Xo8B3lNJVYc0x"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-15",
       "duration_ms": 198000,
       "name": "Can't See Your Face Anymore",
       "url": "https://open.spotify.com/track/5dCaK9fWpT5U4m9BO96uCc"
@@ -269,10 +287,28 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 336659,
       "name": "FANTAZIA",
       "url": "https://open.spotify.com/track/3XetDJxSDARsex7zU9KEpM"
+    },
+    {
+      "album": {
+        "name": "GRAFFITI",
+        "url": "https://open.spotify.com/album/2WQe3Ixka9ZHOWB087xQXj"
+      },
+      "artists": [
+        {
+          "name": "Roy Blair",
+          "url": "https://open.spotify.com/artist/6Sa4YbwEdGlfVSJMF1Lp67"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336659,
+      "name": "FANTAZIA",
+      "url": "https://open.spotify.com/track/6aNY5agVFHSm4v6WMCsu0r"
     },
     {
       "album": {
@@ -570,6 +606,28 @@
     },
     {
       "album": {
+        "name": "Lights Up",
+        "url": "https://open.spotify.com/album/7F6kqj7Ml3GEdZ8pM7G5yk"
+      },
+      "artists": [
+        {
+          "name": "Flight Facilities",
+          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 191537,
+      "name": "Lights Up",
+      "url": "https://open.spotify.com/track/3i1fc7z1JTNaOKbPiCNL2B"
+    },
+    {
+      "album": {
         "name": "FOREVER",
         "url": "https://open.spotify.com/album/6kzRU9QtsTrhlObao5Eb3t"
       },
@@ -727,10 +785,54 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 137092,
       "name": "Note To Self",
       "url": "https://open.spotify.com/track/2Lho7mxHpPgTmaWLnpK2Vs"
+    },
+    {
+      "album": {
+        "name": "Note To Self",
+        "url": "https://open.spotify.com/album/41LVhTarQ3tlu9fKaprxoq"
+      },
+      "artists": [
+        {
+          "name": "Jim-E Stack",
+          "url": "https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh"
+        },
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 137092,
+      "name": "Note To Self",
+      "url": "https://open.spotify.com/track/72KsNIxvoOKMGpFSe55PCO"
+    },
+    {
+      "album": {
+        "name": "EPHEMERA",
+        "url": "https://open.spotify.com/album/1TFgjl0bCMERMukkaPtY9m"
+      },
+      "artists": [
+        {
+          "name": "Jim-E Stack",
+          "url": "https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh"
+        },
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137092,
+      "name": "Note To Self",
+      "url": "https://open.spotify.com/track/7xHap3EOHq2Qn8OQhCpfgW"
     },
     {
       "album": {
@@ -877,10 +979,32 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 166919,
       "name": "Pretty",
       "url": "https://open.spotify.com/track/6e4f88p8OxpqtbYywLAIbz"
+    },
+    {
+      "album": {
+        "name": "Pretty",
+        "url": "https://open.spotify.com/album/6zzEQ9WSwPleia1tlnNZpe"
+      },
+      "artists": [
+        {
+          "name": "Col3trane",
+          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
+        },
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166919,
+      "name": "Pretty",
+      "url": "https://open.spotify.com/track/6zt4DdMRYAFHNQj3D6BE0q"
     },
     {
       "album": {

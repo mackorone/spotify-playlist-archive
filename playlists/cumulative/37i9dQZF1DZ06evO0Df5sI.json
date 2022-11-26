@@ -134,6 +134,24 @@
     },
     {
       "album": {
+        "name": "Goddamnit!",
+        "url": "https://open.spotify.com/album/7MtJrKwP2h9eJMqnooR6iM"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148866,
+      "name": "Clavicle",
+      "url": "https://open.spotify.com/track/5vs0XuWAemXGTZK83eaF9f"
+    },
+    {
+      "album": {
         "name": "Good Mourning",
         "url": "https://open.spotify.com/album/6hj7cv9c4x3OteLDKdGL0l"
       },
@@ -433,10 +451,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": "2022-10-13",
       "duration_ms": 138693,
       "name": "I'm Dying Tomorrow",
       "url": "https://open.spotify.com/track/3KPa8afyEGV9CsBGVRiZWF"
+    },
+    {
+      "album": {
+        "name": "My Shame Is True (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166333,
+      "name": "I'm Only Here To Disappoint",
+      "url": "https://open.spotify.com/track/0QXKhyc7lfizn5IzeKk2fV"
     },
     {
       "album": {
@@ -494,6 +530,24 @@
     },
     {
       "album": {
+        "name": "Maybe I'll Catch Fire",
+        "url": "https://open.spotify.com/album/1geOrMhJFz0gonGQ8A5e8m"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 250266,
+      "name": "Keep 'Em Coming",
+      "url": "https://open.spotify.com/track/7Cs6qrf3bKvbD5mL9vKmhP"
+    },
+    {
+      "album": {
         "name": "My Shame Is True (Deluxe Edition)",
         "url": "https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV"
       },
@@ -541,7 +595,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 205240,
       "name": "Love Love, Kiss Kiss",
       "url": "https://open.spotify.com/track/23r9kDmwhUQuBHl523d87n"
@@ -757,7 +811,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 186500,
       "name": "Radio Violence",
       "url": "https://open.spotify.com/track/5N65GlSHozEZomgqNyOV6J"
@@ -890,6 +944,24 @@
     },
     {
       "album": {
+        "name": "My Shame Is True (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-11-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-11",
+      "duration_ms": 217973,
+      "name": "The Torture Doctor",
+      "url": "https://open.spotify.com/track/6sEggmTY2zxpmni8QdCYQp"
+    },
+    {
+      "album": {
         "name": "This Addiction (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4otoRgtApYRPsuxrW3Xaxj"
       },
@@ -923,6 +995,24 @@
       "duration_ms": 227026,
       "name": "This Could Be Love",
       "url": "https://open.spotify.com/track/5rDLisLOgjDqLqEQNMAqmT"
+    },
+    {
+      "album": {
+        "name": "Is This Thing Cursed?",
+        "url": "https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 198266,
+      "name": "Throw Me To The Lions",
+      "url": "https://open.spotify.com/track/13Gj4md0u6NbxORz9TiisU"
     },
     {
       "album": {
@@ -1027,7 +1117,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 194786,
       "name": "You've Got So Far To Go",
       "url": "https://open.spotify.com/track/03EV0UHtbLLZxRMk2k638B"
@@ -1045,7 +1135,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 211466,
       "name": "Young Lovers",
       "url": "https://open.spotify.com/track/746Rz8yr8nn5TGka9o4Vog"

@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": null,
       "duration_ms": 210333,
       "name": "About a Girl",
       "url": "https://open.spotify.com/track/5johpJIVjqU2Ki03DOA7Jr"
@@ -109,10 +109,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 255175,
       "name": "Alive With the Glory of Love",
       "url": "https://open.spotify.com/track/1va84KD7DrxZ8U09Per4L8"
+    },
+    {
+      "album": {
+        "name": "Is a Real Boy",
+        "url": "https://open.spotify.com/album/67GbWmsrvtIdOOUYRo7do7"
+      },
+      "artists": [
+        {
+          "name": "Say Anything",
+          "url": "https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 255175,
+      "name": "Alive With the Glory of Love",
+      "url": "https://open.spotify.com/track/6YEs8KWsFKQmULF5CUOz4n"
     },
     {
       "album": {
@@ -1355,10 +1373,28 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 268333,
       "name": "Never Meant",
       "url": "https://open.spotify.com/track/51R5mPcJjOnfv9lKY1u5sW"
+    },
+    {
+      "album": {
+        "name": "J.A.C.K.",
+        "url": "https://open.spotify.com/album/6LPiuWcOA9oPH8IERVWhGr"
+      },
+      "artists": [
+        {
+          "name": "Forever The Sickest Kids",
+          "url": "https://open.spotify.com/artist/4frytKnOBrer4QVPWynGtX"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 224373,
+      "name": "Nikki",
+      "url": "https://open.spotify.com/track/2xu7bTUyvvJMBMi6JXvWAZ"
     },
     {
       "album": {
@@ -1413,6 +1449,24 @@
       "duration_ms": 244480,
       "name": "Ohio Is For Lovers",
       "url": "https://open.spotify.com/track/23DHUWJ7iEieNPMPKvjzBV"
+    },
+    {
+      "album": {
+        "name": "Emo Pop Punk",
+        "url": "https://open.spotify.com/album/7iIr57EHq8xMeziyVCO3hi"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 244480,
+      "name": "Ohio Is For Lovers",
+      "url": "https://open.spotify.com/track/48Px0Za4MpW3YXrldP3CjA"
     },
     {
       "album": {
@@ -1553,7 +1607,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 281040,
       "name": "Radio",
       "url": "https://open.spotify.com/track/3VVstQ0fpj4pdSPe2QZT5z"
@@ -1643,7 +1697,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 192786,
       "name": "Seven Years",
       "url": "https://open.spotify.com/track/0C71NJD4BhvPopTwI7a8KV"
@@ -2363,7 +2417,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-11-14",
       "duration_ms": 217524,
       "name": "Voices",
       "url": "https://open.spotify.com/track/71U9X93wy4BQGyvmjFqApv"

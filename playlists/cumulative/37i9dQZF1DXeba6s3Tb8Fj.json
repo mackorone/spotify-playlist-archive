@@ -260,6 +260,28 @@
     },
     {
       "album": {
+        "name": "Blues Rock Crate",
+        "url": "https://open.spotify.com/album/7xPJ8C46QFPy6VVlo37Z3O"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 329866,
+      "name": "Catfish Blues",
+      "url": "https://open.spotify.com/track/0LsFBvj1nJRX2PsqC8iMgC"
+    },
+    {
+      "album": {
         "name": "Kulanjan",
         "url": "https://open.spotify.com/album/1WwCoePsIIlf5Szu128XKL"
       },
@@ -615,6 +637,24 @@
       "duration_ms": 408760,
       "name": "Mansana Blues",
       "url": "https://open.spotify.com/track/52ueHtRcJgN8uDjIbOl2kY"
+    },
+    {
+      "album": {
+        "name": "Boubacar Traor\u00e9",
+        "url": "https://open.spotify.com/album/6JpKWVHssUoCJfunCx8p9F"
+      },
+      "artists": [
+        {
+          "name": "Boubacar Traor\u00e9",
+          "url": "https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 336224,
+      "name": "Mariama Kaba",
+      "url": "https://open.spotify.com/track/3JFEvfG2SZkaFSETgznyw7"
     },
     {
       "album": {

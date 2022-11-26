@@ -1,28 +1,32 @@
 {
   "description": "Cl\u00e1sicos que no sab\u00edas que eran covers para disfrutar con pap\u00e1.",
-  "num_followers": 57760,
+  "num_followers": 58576,
   "original_name": "Covers Padres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTUyNTA3NiwwMDAwMDAwMDUwMzYzYWJhNjk1ZDViYWE5ZTk1YTQxN2RmMTRjZjI5",
+  "snapshot_id": "MTYzNTUyNTA3NiwwMDAwMDAwMGFlNThhNjlhMzIzY2Q0NjAyNjlkOWY5YzQwZThjZjg4",
   "tracks": [
     {
       "added_at": "2021-10-29 16:31:16",
       "album": {
-        "name": "I Love Rock 'N' Roll (Expanded Edition)",
-        "url": "https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt"
+        "name": "The Score (Expanded Edition)",
+        "url": "https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb"
       },
       "artists": [
         {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+          "name": "Fugees",
+          "url": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
+        },
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
         }
       ],
-      "duration_ms": 175173,
-      "name": "I Love Rock 'N Roll",
-      "url": "https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie"
+      "duration_ms": 298773,
+      "name": "Killing Me Softly With His Song",
+      "url": "https://open.spotify.com/track/0Q0IVlqMV64kNLlwjPj0Hl"
     },
     {
       "added_at": "2021-10-29 16:31:16",
@@ -43,22 +47,18 @@
     {
       "added_at": "2021-10-29 16:31:16",
       "album": {
-        "name": "The Score (Expanded Edition)",
-        "url": "https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb"
+        "name": "I Love Rock 'N' Roll (Expanded Edition)",
+        "url": "https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt"
       },
       "artists": [
         {
-          "name": "Fugees",
-          "url": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
-        },
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 298773,
-      "name": "Killing Me Softly With His Song",
-      "url": "https://open.spotify.com/track/0Q0IVlqMV64kNLlwjPj0Hl"
+      "duration_ms": 175173,
+      "name": "I Love Rock 'N Roll",
+      "url": "https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie"
     },
     {
       "added_at": "2021-10-29 16:31:16",
@@ -215,22 +215,6 @@
     {
       "added_at": "2021-10-29 16:31:16",
       "album": {
-        "name": "Elvis' Golden Records",
-        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 136026,
-      "name": "Hound Dog",
-      "url": "https://open.spotify.com/track/64Ny7djQ6rNJspquof2KoX"
-    },
-    {
-      "added_at": "2021-10-29 16:31:16",
-      "album": {
         "name": "With A Little Help From My Friends",
         "url": "https://open.spotify.com/album/74sIm8QdXqFwYeDS7OfYVw"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 312173,
       "name": "With A Little Help From My Friends",
       "url": "https://open.spotify.com/track/0YZ3J8xzGwLOg4yEgST1YK"
+    },
+    {
+      "added_at": "2021-10-29 16:31:16",
+      "album": {
+        "name": "Elvis' Golden Records",
+        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 136026,
+      "name": "Hound Dog",
+      "url": "https://open.spotify.com/track/64Ny7djQ6rNJspquof2KoX"
     },
     {
       "added_at": "2021-10-29 16:31:16",
@@ -263,22 +263,6 @@
     {
       "added_at": "2021-10-29 16:31:16",
       "album": {
-        "name": "The Best Of Roxy Music",
-        "url": "https://open.spotify.com/album/6yui99cp2Q3dosoHtiPJk7"
-      },
-      "artists": [
-        {
-          "name": "Roxy Music",
-          "url": "https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo"
-        }
-      ],
-      "duration_ms": 297306,
-      "name": "Jealous Guy",
-      "url": "https://open.spotify.com/track/6EMQo2suHaUYZVsbGVTxSZ"
-    },
-    {
-      "added_at": "2021-10-29 16:31:16",
-      "album": {
         "name": "Led Zeppelin",
         "url": "https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK"
       },
@@ -295,34 +279,18 @@
     {
       "added_at": "2021-10-29 16:31:16",
       "album": {
-        "name": "Creedence Clearwater Revival (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7oIftk0P8cViwNpNEdCYl2"
+        "name": "All Things Must Pass (Remastered 2014)",
+        "url": "https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6"
       },
       "artists": [
         {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
         }
       ],
-      "duration_ms": 271786,
-      "name": "I Put A Spell On You",
-      "url": "https://open.spotify.com/track/4SDywo3ykB2PEthjXvo1UP"
-    },
-    {
-      "added_at": "2021-10-29 16:31:16",
-      "album": {
-        "name": "Let's Dance (2018 Remaster)",
-        "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 333816,
-      "name": "China Girl - 2018 Remaster",
-      "url": "https://open.spotify.com/track/5Ei9o2fHEnfHb84YrPuz4v"
+      "duration_ms": 210720,
+      "name": "If Not For You - Remastered 2014",
+      "url": "https://open.spotify.com/track/7ykaUgkdQWJLsMuOymTV2A"
     },
     {
       "added_at": "2021-10-29 16:31:16",
@@ -359,18 +327,50 @@
     {
       "added_at": "2021-10-29 16:31:16",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8"
+        "name": "Creedence Clearwater Revival (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7oIftk0P8cViwNpNEdCYl2"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
         }
       ],
-      "duration_ms": 187823,
-      "name": "September - Recorded at The Tracking Room Nashville",
-      "url": "https://open.spotify.com/track/5eGX87IiKsGuzS3iw4CfCX"
+      "duration_ms": 271786,
+      "name": "I Put A Spell On You",
+      "url": "https://open.spotify.com/track/4SDywo3ykB2PEthjXvo1UP"
+    },
+    {
+      "added_at": "2021-10-29 16:31:16",
+      "album": {
+        "name": "The Best Of Roxy Music",
+        "url": "https://open.spotify.com/album/6yui99cp2Q3dosoHtiPJk7"
+      },
+      "artists": [
+        {
+          "name": "Roxy Music",
+          "url": "https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo"
+        }
+      ],
+      "duration_ms": 297306,
+      "name": "Jealous Guy",
+      "url": "https://open.spotify.com/track/6EMQo2suHaUYZVsbGVTxSZ"
+    },
+    {
+      "added_at": "2021-10-29 16:31:16",
+      "album": {
+        "name": "Let's Dance (2018 Remaster)",
+        "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 333816,
+      "name": "China Girl - 2018 Remaster",
+      "url": "https://open.spotify.com/track/5Ei9o2fHEnfHb84YrPuz4v"
     },
     {
       "added_at": "2021-10-29 16:31:16",
@@ -403,22 +403,6 @@
       "duration_ms": 199240,
       "name": "Personal Jesus",
       "url": "https://open.spotify.com/track/5dcwiQFqn0mTcWewYIv7MV"
-    },
-    {
-      "added_at": "2021-10-29 16:31:16",
-      "album": {
-        "name": "All Things Must Pass (Remastered 2014)",
-        "url": "https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6"
-      },
-      "artists": [
-        {
-          "name": "George Harrison",
-          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
-        }
-      ],
-      "duration_ms": 210720,
-      "name": "If Not For You - Remastered 2014",
-      "url": "https://open.spotify.com/track/7ykaUgkdQWJLsMuOymTV2A"
     },
     {
       "added_at": "2021-10-29 16:31:16",
@@ -487,6 +471,22 @@
     {
       "added_at": "2021-10-29 16:31:16",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 187823,
+      "name": "September - Recorded at The Tracking Room Nashville",
+      "url": "https://open.spotify.com/track/5eGX87IiKsGuzS3iw4CfCX"
+    },
+    {
+      "added_at": "2021-10-29 16:31:16",
+      "album": {
         "name": "Pisces Iscariot (Deluxe)",
         "url": "https://open.spotify.com/album/7glwer1Pzyns4h32fHbl53"
       },
@@ -503,18 +503,18 @@
     {
       "added_at": "2021-10-29 16:31:16",
       "album": {
-        "name": "Abraxas",
-        "url": "https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6"
+        "name": "Fix You (Live)",
+        "url": "https://open.spotify.com/album/6VnppEx0PoQpbnfTOutyaQ"
       },
       "artists": [
         {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         }
       ],
-      "duration_ms": 319773,
-      "name": "Black Magic Woman / Gypsy Queen",
-      "url": "https://open.spotify.com/track/7cDxjUnMitNKQC5c8RQUko"
+      "duration_ms": 257650,
+      "name": "Fix You - Live",
+      "url": "https://open.spotify.com/track/0Hbn9DrKJiXgoQdVSwBn7B"
     },
     {
       "added_at": "2021-10-29 16:31:16",
@@ -551,18 +551,18 @@
     {
       "added_at": "2021-10-29 16:31:16",
       "album": {
-        "name": "Fix You (Live)",
-        "url": "https://open.spotify.com/album/6VnppEx0PoQpbnfTOutyaQ"
+        "name": "Abraxas",
+        "url": "https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
         }
       ],
-      "duration_ms": 257650,
-      "name": "Fix You - Live",
-      "url": "https://open.spotify.com/track/0Hbn9DrKJiXgoQdVSwBn7B"
+      "duration_ms": 319773,
+      "name": "Black Magic Woman / Gypsy Queen",
+      "url": "https://open.spotify.com/track/7cDxjUnMitNKQC5c8RQUko"
     },
     {
       "added_at": "2021-10-29 16:31:16",
@@ -616,7 +616,7 @@
       "added_at": "2021-10-29 16:31:16",
       "album": {
         "name": "Covers",
-        "url": "https://open.spotify.com/album/42LvsxgKnHYVu7PQRXmURw"
+        "url": "https://open.spotify.com/album/7kTsa1wUFrahJJf1cJEOpZ"
       },
       "artists": [
         {
@@ -626,7 +626,7 @@
       ],
       "duration_ms": 224560,
       "name": "Where Is My Mind? - XFM Live Version",
-      "url": "https://open.spotify.com/track/3fR6HdcPn0VHjMBnbGvCQc"
+      "url": "https://open.spotify.com/track/6Yg3J1OkP45uNcboiUg2Rw"
     },
     {
       "added_at": "2021-10-29 16:31:16",
@@ -663,22 +663,6 @@
     {
       "added_at": "2021-10-29 16:31:16",
       "album": {
-        "name": "Hopes And Fears (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6EBAeYn2YJvmXp6AkK18Mc"
-      },
-      "artists": [
-        {
-          "name": "Keane",
-          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
-        }
-      ],
-      "duration_ms": 210733,
-      "name": "With Or Without You - BBC Jo Whiley Session / 2004",
-      "url": "https://open.spotify.com/track/1hKatvvaKADQVmEPIob9e8"
-    },
-    {
-      "added_at": "2021-10-29 16:31:16",
-      "album": {
         "name": "Love Goes: Live at Abbey Road Studios",
         "url": "https://open.spotify.com/album/77jibxIYj4UGL2QAaN4j37"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 232128,
       "name": "Time After Time - Live At Abbey Road Studios",
       "url": "https://open.spotify.com/track/2EI5lZg5rjvmlpQG45L0lU"
+    },
+    {
+      "added_at": "2021-10-29 16:31:16",
+      "album": {
+        "name": "Hopes And Fears (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6EBAeYn2YJvmXp6AkK18Mc"
+      },
+      "artists": [
+        {
+          "name": "Keane",
+          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
+        }
+      ],
+      "duration_ms": 210733,
+      "name": "With Or Without You - BBC Jo Whiley Session / 2004",
+      "url": "https://open.spotify.com/track/1hKatvvaKADQVmEPIob9e8"
     },
     {
       "added_at": "2021-10-29 16:31:16",
@@ -743,34 +743,18 @@
     {
       "added_at": "2021-10-29 16:31:16",
       "album": {
-        "name": "true colors (from Life is Strange)",
-        "url": "https://open.spotify.com/album/6wplPsthY2RZExLI73Gclg"
+        "name": "What The World Needs Now",
+        "url": "https://open.spotify.com/album/5OUM0sfRz3zGucUOCfhvJD"
       },
       "artists": [
         {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
         }
       ],
-      "duration_ms": 210600,
-      "name": "creep",
-      "url": "https://open.spotify.com/track/7aHKcqM6ooNnM122ydEyGq"
-    },
-    {
-      "added_at": "2021-10-29 16:31:16",
-      "album": {
-        "name": "Ashes to Ashes",
-        "url": "https://open.spotify.com/album/5xlYLpqPAkDeWRPzphG894"
-      },
-      "artists": [
-        {
-          "name": "Warpaint",
-          "url": "https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO"
-        }
-      ],
-      "duration_ms": 310226,
-      "name": "Ashes to Ashes",
-      "url": "https://open.spotify.com/track/323zAiM19cVLQY0pFlwyb7"
+      "duration_ms": 146735,
+      "name": "What The World Needs Now",
+      "url": "https://open.spotify.com/track/0x7EvWqUCbSspdAmYocBOs"
     },
     {
       "added_at": "2021-10-29 16:31:16",
@@ -807,6 +791,38 @@
     {
       "added_at": "2021-10-29 16:31:16",
       "album": {
+        "name": "Ashes to Ashes",
+        "url": "https://open.spotify.com/album/5xlYLpqPAkDeWRPzphG894"
+      },
+      "artists": [
+        {
+          "name": "Warpaint",
+          "url": "https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO"
+        }
+      ],
+      "duration_ms": 310226,
+      "name": "Ashes to Ashes",
+      "url": "https://open.spotify.com/track/323zAiM19cVLQY0pFlwyb7"
+    },
+    {
+      "added_at": "2021-10-29 16:31:16",
+      "album": {
+        "name": "true colors (from Life is Strange)",
+        "url": "https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 210600,
+      "name": "creep",
+      "url": "https://open.spotify.com/track/1CSue9uoEXv1w2YwfSjaCY"
+    },
+    {
+      "added_at": "2021-10-29 16:31:16",
+      "album": {
         "name": "Candid",
         "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
       },
@@ -827,34 +843,22 @@
     {
       "added_at": "2021-10-29 16:31:16",
       "album": {
-        "name": "What The World Needs Now",
-        "url": "https://open.spotify.com/album/5OUM0sfRz3zGucUOCfhvJD"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3CtjXkvmvOyiSld7yBZkJ2"
       },
       "artists": [
         {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
-        }
-      ],
-      "duration_ms": 146735,
-      "name": "What The World Needs Now",
-      "url": "https://open.spotify.com/track/0x7EvWqUCbSspdAmYocBOs"
-    },
-    {
-      "added_at": "2021-10-29 16:31:16",
-      "album": {
-        "name": "Post",
-        "url": "https://open.spotify.com/album/2Ul7B1LEHxXzYubtkTMENs"
-      },
-      "artists": [
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        },
         {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+          "name": "Chris Isaak",
+          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
         }
       ],
-      "duration_ms": 217733,
-      "name": "It's Oh So Quiet",
-      "url": "https://open.spotify.com/track/0OMNQyneWmmZtTQpULYJcl"
+      "duration_ms": 291447,
+      "name": "Wicked Game - Recorded at Electric Lady Studios, NYC (feat. Chris Isaak)",
+      "url": "https://open.spotify.com/track/7rSSVVqC2sqDhmt1LfWm3J"
     },
     {
       "added_at": "2021-10-29 16:31:16",
@@ -875,38 +879,18 @@
     {
       "added_at": "2021-10-29 16:31:16",
       "album": {
-        "name": "Q: Are We Not Men? A: We Are Devo!",
-        "url": "https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC"
+        "name": "Post",
+        "url": "https://open.spotify.com/album/2Ul7B1LEHxXzYubtkTMENs"
       },
       "artists": [
         {
-          "name": "DEVO",
-          "url": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 160093,
-      "name": "(I Can't Get No) Satisfaction",
-      "url": "https://open.spotify.com/track/5FzBxhIsZBFXDTVGWtV4IQ"
-    },
-    {
-      "added_at": "2021-10-29 16:31:16",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3CtjXkvmvOyiSld7yBZkJ2"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        },
-        {
-          "name": "Chris Isaak",
-          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
-        }
-      ],
-      "duration_ms": 291447,
-      "name": "Wicked Game - Recorded at Electric Lady Studios, NYC (feat. Chris Isaak)",
-      "url": "https://open.spotify.com/track/7rSSVVqC2sqDhmt1LfWm3J"
+      "duration_ms": 217733,
+      "name": "It's Oh So Quiet",
+      "url": "https://open.spotify.com/track/0OMNQyneWmmZtTQpULYJcl"
     },
     {
       "added_at": "2021-10-29 16:31:16",
@@ -959,18 +943,18 @@
     {
       "added_at": "2021-10-29 16:31:16",
       "album": {
-        "name": "Siamese Dream",
-        "url": "https://open.spotify.com/album/0ru8LiiyWfkrHIqh0nSUTA"
+        "name": "Q: Are We Not Men? A: We Are Devo!",
+        "url": "https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC"
       },
       "artists": [
         {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+          "name": "DEVO",
+          "url": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
         }
       ],
-      "duration_ms": 255633,
-      "name": "Today",
-      "url": "https://open.spotify.com/track/2M605uHCPSyTuiWhplewX1"
+      "duration_ms": 160093,
+      "name": "(I Can't Get No) Satisfaction",
+      "url": "https://open.spotify.com/track/5FzBxhIsZBFXDTVGWtV4IQ"
     },
     {
       "added_at": "2021-10-29 16:31:16",
@@ -1007,6 +991,22 @@
     {
       "added_at": "2021-10-29 16:31:16",
       "album": {
+        "name": "Siamese Dream",
+        "url": "https://open.spotify.com/album/0ru8LiiyWfkrHIqh0nSUTA"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 255633,
+      "name": "Today",
+      "url": "https://open.spotify.com/track/2M605uHCPSyTuiWhplewX1"
+    },
+    {
+      "added_at": "2021-10-29 16:31:16",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6kTnZzeB1WcyjYZDRS4Wci"
       },
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2021-10-29 16:31:16",
       "album": {
-        "name": "Dancing with Myself",
-        "url": "https://open.spotify.com/album/2YAvjBR8meBp1k5CpaTINc"
-      },
-      "artists": [
-        {
-          "name": "The Donnas",
-          "url": "https://open.spotify.com/artist/2c0qomdZabcCyqTZ5M9msd"
-        }
-      ],
-      "duration_ms": 207800,
-      "name": "Dancing with Myself - Single Version",
-      "url": "https://open.spotify.com/track/5ABwsrPHOZJTwYzOdd7huO"
-    },
-    {
-      "added_at": "2021-10-29 16:31:16",
-      "album": {
         "name": "Never Tear Us Apart",
         "url": "https://open.spotify.com/album/3aM9iFr4aGdb9S275yWRZk"
       },
@@ -1071,18 +1055,18 @@
     {
       "added_at": "2021-10-29 16:31:16",
       "album": {
-        "name": "Resistance Radio: The Man in the High Castle Album",
-        "url": "https://open.spotify.com/album/6wp5uATZ1wfcngYTJ7QBOm"
+        "name": "Dancing with Myself",
+        "url": "https://open.spotify.com/album/2YAvjBR8meBp1k5CpaTINc"
       },
       "artists": [
         {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+          "name": "The Donnas",
+          "url": "https://open.spotify.com/artist/2c0qomdZabcCyqTZ5M9msd"
         }
       ],
-      "duration_ms": 195706,
-      "name": "Can't Help Falling in Love",
-      "url": "https://open.spotify.com/track/1rEVyVwei0Wq3HlYJRS7CZ"
+      "duration_ms": 207800,
+      "name": "Dancing with Myself - Single Version",
+      "url": "https://open.spotify.com/track/5ABwsrPHOZJTwYzOdd7huO"
     },
     {
       "added_at": "2021-10-29 16:31:16",
@@ -1103,6 +1087,22 @@
     {
       "added_at": "2021-10-29 16:31:16",
       "album": {
+        "name": "Resistance Radio: The Man in the High Castle Album",
+        "url": "https://open.spotify.com/album/6wp5uATZ1wfcngYTJ7QBOm"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 195706,
+      "name": "Can't Help Falling in Love",
+      "url": "https://open.spotify.com/track/1rEVyVwei0Wq3HlYJRS7CZ"
+    },
+    {
+      "added_at": "2021-10-29 16:31:16",
+      "album": {
         "name": "You Only Live Once/Mercy Mercy Me",
         "url": "https://open.spotify.com/album/7jbQIpfQZTVBn8J7FzMyaF"
       },
@@ -1115,42 +1115,6 @@
       "duration_ms": 157920,
       "name": "Mercy Mercy Me (The Ecology)",
       "url": "https://open.spotify.com/track/49jMdoagrgo0PUc6DkVaZV"
-    },
-    {
-      "added_at": "2021-10-29 16:31:16",
-      "album": {
-        "name": "Gentlewoman, Ruby Man",
-        "url": "https://open.spotify.com/album/4F0zRJTpOsSvHQdtqdw6h5"
-      },
-      "artists": [
-        {
-          "name": "Flo Morrissey",
-          "url": "https://open.spotify.com/artist/3qM2kgxt87sXgP2ytxZZv2"
-        },
-        {
-          "name": "Matthew E. White",
-          "url": "https://open.spotify.com/artist/58mMrwemoGIcDpvfHe46u4"
-        }
-      ],
-      "duration_ms": 261384,
-      "name": "Grease",
-      "url": "https://open.spotify.com/track/2a2apdi8RxYyUgMkHWIbM6"
-    },
-    {
-      "added_at": "2021-10-29 16:31:16",
-      "album": {
-        "name": "The City Holds My Heart",
-        "url": "https://open.spotify.com/album/0YCSQTk2QkPkHVHeGo1Pbu"
-      },
-      "artists": [
-        {
-          "name": "Ghostly Kisses",
-          "url": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
-        }
-      ],
-      "duration_ms": 204160,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/1oPMTvVb57KNBV354DxsX9"
     },
     {
       "added_at": "2021-10-29 16:31:16",
@@ -1171,18 +1135,54 @@
     {
       "added_at": "2021-10-29 16:31:16",
       "album": {
-        "name": "MADLO: Influences",
-        "url": "https://open.spotify.com/album/4iIgfgwD4rgVNpGhOkAwyd"
+        "name": "The City Holds My Heart",
+        "url": "https://open.spotify.com/album/0YCSQTk2QkPkHVHeGo1Pbu"
       },
       "artists": [
         {
-          "name": "Car Seat Headrest",
-          "url": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
+          "name": "Ghostly Kisses",
+          "url": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
         }
       ],
-      "duration_ms": 274285,
-      "name": "Golden Years",
-      "url": "https://open.spotify.com/track/34PRFgMjpf1mTiIDIve6Sz"
+      "duration_ms": 204160,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/1oPMTvVb57KNBV354DxsX9"
+    },
+    {
+      "added_at": "2021-10-29 16:31:16",
+      "album": {
+        "name": "Everything You've Come To Expect (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6q1ZuWCnYTQb7KhXHZo947"
+      },
+      "artists": [
+        {
+          "name": "The Last Shadow Puppets",
+          "url": "https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf"
+        }
+      ],
+      "duration_ms": 200673,
+      "name": "Les Cactus",
+      "url": "https://open.spotify.com/track/4Wg7fFccdDBL1sJGiu14w7"
+    },
+    {
+      "added_at": "2021-10-29 16:31:16",
+      "album": {
+        "name": "Gentlewoman, Ruby Man",
+        "url": "https://open.spotify.com/album/6CNgs4YV5rxsOjADfpUCg3"
+      },
+      "artists": [
+        {
+          "name": "Flo Morrissey",
+          "url": "https://open.spotify.com/artist/3qM2kgxt87sXgP2ytxZZv2"
+        },
+        {
+          "name": "Matthew E. White",
+          "url": "https://open.spotify.com/artist/58mMrwemoGIcDpvfHe46u4"
+        }
+      ],
+      "duration_ms": 261384,
+      "name": "Grease",
+      "url": "https://open.spotify.com/track/0fJleeHFEPJaPQLQYw5DT5"
     },
     {
       "added_at": "2021-10-29 16:31:16",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2021-10-29 16:31:16",
       "album": {
+        "name": "Cannonball",
+        "url": "https://open.spotify.com/album/6h51IcI0JjorHy2MFm7KNg"
+      },
+      "artists": [
+        {
+          "name": "Tune-Yards",
+          "url": "https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi"
+        }
+      ],
+      "duration_ms": 189108,
+      "name": "Cannonball",
+      "url": "https://open.spotify.com/track/30c3pxlLWPx3eRaMjvBQ1c"
+    },
+    {
+      "added_at": "2021-10-29 16:31:16",
+      "album": {
         "name": "Aisles",
         "url": "https://open.spotify.com/album/6yp8LzFMaKy0WyPpTyYEB7"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 280626,
       "name": "Eyes Without A Face",
       "url": "https://open.spotify.com/track/48TH4snarSvpIF6559Gjry"
-    },
-    {
-      "added_at": "2021-10-29 16:31:16",
-      "album": {
-        "name": "Aladdin Sane (2013 Remaster)",
-        "url": "https://open.spotify.com/album/3HZKOk1knxrUU3y5ZIOdbz"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 190751,
-      "name": "Let's Spend the Night Together - 2013 Remaster",
-      "url": "https://open.spotify.com/track/0Mxo6w8hWMwDN2C0eygceO"
     }
   ],
   "unique_name": "Covers Padres",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZabLDQymgK1.md) - [plain]
 
 > <ahref="https://www.instagram.com/homoelectric/?hl=en">Homoelectric</a> is a legendary queer\-clubbing utopia, creating a safe space at the heart of Manchester’s LGBTQIA+ scene\. This is their sound of Pride.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,482 likes - 50 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,872 likes - 50 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZabLDQymgK1.md) - [plain]
 | 9 | [Hold It/Control It](https://open.spotify.com/track/7wQdeiZwrwMdJTwuw4syaH) | [Rex The Dog](https://open.spotify.com/artist/5zbQoW1WWTzvITE8w4ckoC) | [Crasher](https://open.spotify.com/album/7nhRhJ0XUNWt5malAs9q67) | 6:42 |
 | 10 | [Work It \- Soulwax Remix](https://open.spotify.com/track/6WfL1pwMyFf3IvFWLnre4P) | [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Work It \(Soulwax Remix\)](https://open.spotify.com/album/074U95kLP3roPuXrpjTYtT) | 4:46 |
 | 11 | [Beam Me Up \- Prins Thomas Diskomiks \- Single Edit](https://open.spotify.com/track/63o8AFj8EjvyUvR8Ez01C5) | [Midnight Magic](https://open.spotify.com/artist/3KuNrap7xPWVJCyBHAE4le), [Prins Thomas](https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6) | [Beam Me Up \(Prins Thomas Diskomiks \- Single Edit\)](https://open.spotify.com/album/49dNYLSLbFUnguSK2XVqfl) | 5:00 |
-| 12 | [Eurodans](https://open.spotify.com/track/2GXEdhu0Rhqv4XgfSDBG6r) | [Todd Terje](https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw) | [Eurodans](https://open.spotify.com/album/27Pe6yBUgKYYXILiT7Cj5u) | 5:49 |
+| 12 | [Eurodans](https://open.spotify.com/track/5k9kKIMceAfAUHLei43MeM) | [Todd Terje](https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw) | [Eurodans](https://open.spotify.com/album/3lc2aq9bjw8sEHepfcQ7U5) | 5:49 |
 | 13 | [This Time Baby \- Special 12" Version](https://open.spotify.com/track/1Ywkbr13F7cOzwHs8QKknI) | [Jackie Moore](https://open.spotify.com/artist/1EialtL6J5R7O0exgdgQ1w) | [Club Columbia](https://open.spotify.com/album/6g7JRPx6SdrEDLQS2fQcsI) | 7:13 |
 | 14 | [BOURGIE, BOURGIE](https://open.spotify.com/track/1LieR25D1qtdj3TdeCRAzY) | [John Davis & The Monster Orchestra](https://open.spotify.com/artist/4N81xA4vupQhBTvKFHCD36) | [The Monster Strikes Again](https://open.spotify.com/album/3pJ6NLQXBjbpOMw6xptsAR) | 6:12 |
 | 15 | [Miura](https://open.spotify.com/track/7wu4CDoKfHqbaJCNO2qvza) | [Metro Area](https://open.spotify.com/artist/3KTzs16kNylBR78QZSkiyx) | [Metro Area \(15th Anniversary Edition\)](https://open.spotify.com/album/1sqdqvNwrtex7Y604obpcG) | 6:44 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZabLDQymgK1.md) - [plain]
 | 20 | [Nini \- Claude Monnet Remix](https://open.spotify.com/track/1HvnSNUGVzGdiWknoN568h) | [Clarisse Muvemba](https://open.spotify.com/artist/3VhZAwL3pwSfh1YgrPB9wr), [Sumo](https://open.spotify.com/artist/68hlYvUTBm1WJXhpO6re7X) | [Nini](https://open.spotify.com/album/6uGbxYqV6n3Nzudd28Ol3A) | 8:13 |
 | 21 | [Another Excuse \- DFA Remix](https://open.spotify.com/track/296fOgdmVRTPZU3zLIAX30) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Nite Versions](https://open.spotify.com/album/5d36tohU6hNW0AK5sdmbZI) | 7:52 |
 | 22 | [Perspex Sex \- Ewan's Hi\-NRG Remix](https://open.spotify.com/track/0UuI04fLX0AFGIVqwzTZwZ) | [Freeform Five](https://open.spotify.com/artist/5moj04MGEjXS0834GF3wK5), [Ewan Pearson](https://open.spotify.com/artist/6PQgiQKFKgk7EJElgUPo7y) | [Perspex Sex \(Remixes\)](https://open.spotify.com/album/0nF7cu31srje4db7gbv3wH) | 8:00 |
-| 23 | [Mothership Reconnection \(feat.Parliament/Funkadelic\) \- \(Daft Punk Remix\)](https://open.spotify.com/track/5aWVNrjqFHCATLIhS2na3t) | [Scott Grooves](https://open.spotify.com/artist/7hwWjHjLHvhSDngoe2Pkbe), [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH), [Funkadelic](https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru) | [Musique, Vol\. 1](https://open.spotify.com/album/4a0p1M12f7VaZWdoNSdEK4) | 4:00 |
+| 23 | [Mothership Reconnection \(feat\. Parliament/Funkadelic\) \- \(Daft Punk Remix\)](https://open.spotify.com/track/5aWVNrjqFHCATLIhS2na3t) | [Scott Grooves](https://open.spotify.com/artist/7hwWjHjLHvhSDngoe2Pkbe), [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH), [Funkadelic](https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru) | [Musique, Vol\. 1](https://open.spotify.com/album/4a0p1M12f7VaZWdoNSdEK4) | 4:00 |
 | 24 | [Another Man \- 2012 \- Remaster](https://open.spotify.com/track/33qq1FKftOqTzUMKYed45x) | [Barbara Mason](https://open.spotify.com/artist/5PmZd7YOaUgQwhOja44fmZ) | [The West End Story, Vol\. 2 \(2012 \- Remaster\)](https://open.spotify.com/album/5bYi0lm8inqOHBgx5bWpwd) | 6:56 |
 | 25 | [I Hear Music in the Streets](https://open.spotify.com/track/5HgE5eXfu0An2moseSM635) | [Unlimited Touch](https://open.spotify.com/artist/4VaFWblR1Rv24L8kAfhtxm) | [Searching to Find the One](https://open.spotify.com/album/31fKBqNpIIRDSiBoTv408q) | 6:53 |
 | 26 | [You Don't Know \- Special Remix](https://open.spotify.com/track/5vA6h1EpoCwqDpg1NyU7GE) | [Serious Intention](https://open.spotify.com/artist/4ujvWktT7I5RaDVWCiohjS) | [You Don't Know](https://open.spotify.com/album/3ibVYaJ4bKSoNQVan9WPmS) | 8:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZabLDQymgK1.md) - [plain]
 | 49 | [Like a Prayer \(Churchapella\)](https://open.spotify.com/track/4UX7TUsMu6QVPoBdpBEEqB) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like A Prayer](https://open.spotify.com/album/2qmMKmWqpPbsd6dKrZXgSV) | 6:08 |
 | 50 | [Say Hello, Wave Goodbye \- 7" Single Version](https://open.spotify.com/track/0Lx6O1tC3CPF1giLJIt5Jv) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non\-Stop Erotic Cabaret](https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD) | 5:23 |
 
-Snapshot ID: `MTYyMjY3MDk3NSwwMDAwMDAwMDMwNDgzMjFjZWIxNTFjYzUxOWY1M2JiOTI1OWE0Njhl`
+Snapshot ID: `MTYyMjY3MDk3NSwwMDAwMDAwMGQ3MjU1YmJjY2ZhNmI0YzRiZjNiMzkwNDYxOWExNzRh`

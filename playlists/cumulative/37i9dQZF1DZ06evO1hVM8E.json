@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 169093,
       "name": "A Poco No",
       "url": "https://open.spotify.com/track/5Wv9ZVPoGsfwKo09t4iz5a"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 157186,
       "name": "Angel De La Noche",
       "url": "https://open.spotify.com/track/2SFPShG14Uk73oHPgNDaBK"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 163143,
       "name": "Canci\u00f3n A Mi Pap\u00e1",
       "url": "https://open.spotify.com/track/0Ec1rgYW7VMIhSDIxoa5Di"
@@ -257,7 +257,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 206875,
       "name": "Diamante Negro",
       "url": "https://open.spotify.com/track/2Oiw6YkJgH8bEVR19YDdwL"
@@ -297,7 +297,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 170586,
       "name": "El 24 de Junio",
       "url": "https://open.spotify.com/track/195mKbKWXbSbjQjxmGhuiL"
@@ -319,7 +319,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 132960,
       "name": "El Abandonado",
       "url": "https://open.spotify.com/track/6DaZrI8CJueK9v607LjEWh"
@@ -337,10 +337,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 188693,
       "name": "El Balido de Mi Ganado",
       "url": "https://open.spotify.com/track/5wEH0WguIFC6gbBcLzhHLE"
+    },
+    {
+      "album": {
+        "name": "El Camale\u00f3n",
+        "url": "https://open.spotify.com/album/3Z6UXc4IMKuTBfJeBjWoM2"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170541,
+      "name": "El Camale\u00f3n",
+      "url": "https://open.spotify.com/track/4dmVjDzryo2ybwFZhUb1bS"
     },
     {
       "album": {
@@ -413,7 +431,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 160573,
       "name": "El Mayor de Mis Antojos",
       "url": "https://open.spotify.com/track/6WwXpk0swxMzlbgUrUEHeY"
@@ -449,7 +467,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 131291,
       "name": "El Polvorete",
       "url": "https://open.spotify.com/track/1eKCq3MBykT0Z2vDn143Nt"
@@ -521,7 +539,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-12",
       "duration_ms": 191961,
       "name": "El Rengo del Gallo Giro",
       "url": "https://open.spotify.com/track/1BEaN9jtTbJ17WyVH2drnC"
@@ -539,7 +557,7 @@
       ],
       "date_added": "2022-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 191480,
       "name": "El Sinaloense",
       "url": "https://open.spotify.com/track/3oVS5y1oJz5MxBxN5xCUks"
@@ -593,7 +611,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-10-12",
       "duration_ms": 150293,
       "name": "Est\u00e1s a Tiempo",
       "url": "https://open.spotify.com/track/69QsCVZ8toyrw0W6kgFbzB"
@@ -640,6 +658,28 @@
     },
     {
       "album": {
+        "name": "M\u00e1s Original Que Nunca",
+        "url": "https://open.spotify.com/album/4eq9E7F1vZHHvnQwmfMjhJ"
+      },
+      "artists": [
+        {
+          "name": "Julio Preciado",
+          "url": "https://open.spotify.com/artist/332dFYM9sC7JH8UvRL1TiR"
+        },
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-07",
+      "duration_ms": 163613,
+      "name": "Guarecita",
+      "url": "https://open.spotify.com/track/0wHFB3V27Tf7dKtZnsgy4Z"
+    },
+    {
+      "album": {
         "name": "Soy Tu Maestro (\"45 Aniversario\" - Relanzamiento)",
         "url": "https://open.spotify.com/album/6b1eKVdMRpTQ4qn9FbY0jZ"
       },
@@ -651,7 +691,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-03",
+      "date_removed": null,
       "duration_ms": 154160,
       "name": "Hasta Mi \u00daltimo D\u00eda",
       "url": "https://open.spotify.com/track/1nk4xd6JR6pWUTIRfdXDea"
@@ -673,7 +713,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 154112,
       "name": "Hasta Mi \u00daltimo D\u00eda",
       "url": "https://open.spotify.com/track/5jcbmyy5pgayTU37rsnDld"
@@ -745,7 +785,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-10-12",
       "duration_ms": 151053,
       "name": "La Chica Fresa",
       "url": "https://open.spotify.com/track/4CLffwkFj6NNeB3i9sEBrT"
@@ -781,7 +821,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 166112,
       "name": "La Feria de San Marcos",
       "url": "https://open.spotify.com/track/05WPffpVDzlgRIMtO1sJZe"
@@ -799,7 +839,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 226866,
       "name": "La Original",
       "url": "https://open.spotify.com/track/3bb3PqcfIPpLgAJ62rL2eB"
@@ -857,7 +897,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": null,
       "duration_ms": 192946,
       "name": "Le\u00f1a de Pirul",
       "url": "https://open.spotify.com/track/0s2Mt4jbI34GEYP2zq8Dq2"
@@ -951,7 +991,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 199080,
       "name": "Lo Tienes Que Saber",
       "url": "https://open.spotify.com/track/30BPR5veZEnXoJWbIFrpbr"
@@ -969,7 +1009,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": null,
       "duration_ms": 213640,
       "name": "Los Traficantes",
       "url": "https://open.spotify.com/track/03baQe85J4C8PH6TNTUcUC"
@@ -1099,7 +1139,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-12",
+      "date_removed": null,
       "duration_ms": 234026,
       "name": "Me Muero por Ella (Bachata) Feat. La Original Banda el Lim\u00f3n de Salvador Liz\u00e1rraga",
       "url": "https://open.spotify.com/track/3mwCGXffSsLqyWxNqPmYUd"
@@ -1124,6 +1164,24 @@
     },
     {
       "album": {
+        "name": "Me Pongo en Tu Lugar (En Vivo)",
+        "url": "https://open.spotify.com/album/2DTPGxkk5O9bSArdXM4lpI"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192083,
+      "name": "Me Pongo en Tu Lugar (En Vivo)",
+      "url": "https://open.spotify.com/track/1unucSoKiY6rNR3IM8oZHP"
+    },
+    {
+      "album": {
         "name": "Me Sigue Doliendo",
         "url": "https://open.spotify.com/album/1AB47h7dTdCTlO0i2GtiGi"
       },
@@ -1135,10 +1193,32 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 227876,
       "name": "Me Sigue Doliendo",
       "url": "https://open.spotify.com/track/5Mqqd14WL7mmJMLESWYNtX"
+    },
+    {
+      "album": {
+        "name": "Mis 3 Animales",
+        "url": "https://open.spotify.com/album/3eE9FObDq5KK0QzSKAf2Bt"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        },
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173127,
+      "name": "Mis 3 Animales",
+      "url": "https://open.spotify.com/track/7C1XFjfirE8r7piaEagMVv"
     },
     {
       "album": {
@@ -1153,7 +1233,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 179586,
       "name": "Negrita Eae",
       "url": "https://open.spotify.com/track/4GhYLLUuRKMgK8oSApgAO4"
@@ -1207,10 +1287,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-30",
       "duration_ms": 185000,
       "name": "Pa'que Me Sirve la Vida",
       "url": "https://open.spotify.com/track/7tc9bte3gaVOUv8se6zKVt"
+    },
+    {
+      "album": {
+        "name": "24 Kilates de Corridos",
+        "url": "https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205133,
+      "name": "Pacas de a Kilo",
+      "url": "https://open.spotify.com/track/3TIZ20vC3CjlkYoeLXLmPN"
     },
     {
       "album": {
@@ -1233,6 +1331,46 @@
       "duration_ms": 179777,
       "name": "Pelotero a la Bola",
       "url": "https://open.spotify.com/track/4tftetgzdzAkomjDyI65eK"
+    },
+    {
+      "album": {
+        "name": "Tributo a",
+        "url": "https://open.spotify.com/album/3LwPc8Zrys1J762hn8LttR"
+      },
+      "artists": [
+        {
+          "name": "Los Baby's",
+          "url": "https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9"
+        },
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 152213,
+      "name": "Pero Yo No Lo Conozco (feat. La Original Banda el Lim\u00f3n de Salvador Liz\u00e1rraga)",
+      "url": "https://open.spotify.com/track/7DroPZbnPTJZSZtax3swP8"
+    },
+    {
+      "album": {
+        "name": "P\u00eddeme La Luna",
+        "url": "https://open.spotify.com/album/4fo8B3ZqdrkI3lUbyCPjsp"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187389,
+      "name": "P\u00eddeme La Luna",
+      "url": "https://open.spotify.com/track/61IAeLmwQm8trt765Xi6zu"
     },
     {
       "album": {
@@ -1313,6 +1451,24 @@
     {
       "album": {
         "name": "Qu\u00e9 Se Te Olvid\u00f3",
+        "url": "https://open.spotify.com/album/3oiSnqUzFbSrekYtLyypon"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207453,
+      "name": "Qu\u00e9 Se Te Olvid\u00f3",
+      "url": "https://open.spotify.com/track/2ThbhSqcxWoptGa0D33L0K"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Se Te Olvid\u00f3",
         "url": "https://open.spotify.com/album/7woiqCtmgq3q8LZaAsP0BC"
       },
       "artists": [
@@ -1327,7 +1483,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 206623,
       "name": "Qu\u00e9 Se Te Olvid\u00f3",
       "url": "https://open.spotify.com/track/31PFQ5MxekE2pNWIxxrpar"
@@ -1349,7 +1505,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-22",
+      "date_removed": null,
       "duration_ms": 177912,
       "name": "Qu\u00e9 Voy A Hacer Para Olvidarte",
       "url": "https://open.spotify.com/track/04GweOJ0hUSX3URVtx0G30"
@@ -1501,7 +1657,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 125533,
       "name": "Te Llegar\u00e1 Mi Olvido",
       "url": "https://open.spotify.com/track/1RFos4pteRCTVxd3jrqbLH"
@@ -1523,7 +1679,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-11-22",
       "duration_ms": 228778,
       "name": "Te Llevaste Lo Mejor",
       "url": "https://open.spotify.com/track/1ghKTQnQ3eK4PCz1sCdNoa"
@@ -1541,7 +1697,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 161040,
       "name": "Te Sigo Amando",
       "url": "https://open.spotify.com/track/3JpCeYH4ecOATz52uaIKO4"
@@ -1577,7 +1733,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 156826,
       "name": "Vuela Paloma",
       "url": "https://open.spotify.com/track/2n1cZHde59WHCHG4aaN94w"

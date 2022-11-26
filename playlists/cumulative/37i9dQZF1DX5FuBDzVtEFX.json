@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "The Descendants",
+        "url": "https://open.spotify.com/album/15YakA5L7dr86I60h4zKMy"
+      },
+      "artists": [
+        {
+          "name": "Keola Beamer",
+          "url": "https://open.spotify.com/artist/3HH77UShAG2WJW5nBSjFdY"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 191733,
+      "name": "'Imi Au I\u00e1 'Oe",
+      "url": "https://open.spotify.com/track/7Lmi7zSYIgbqAqcTEF07MZ"
+    },
+    {
+      "album": {
         "name": "Mauna Kea - White Mountain Journal",
         "url": "https://open.spotify.com/album/1PnT3rg8q1hYh59GVs11Rm"
       },
@@ -453,6 +471,28 @@
       "duration_ms": 265133,
       "name": "Kalena Kai",
       "url": "https://open.spotify.com/track/42ZtKeVuYhMZRvnByfxX2M"
+    },
+    {
+      "album": {
+        "name": "Hawaiian Slack Key Guitar Masters: Instrumental Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/2EOjWFzzACQ0Q21rlTNu56"
+      },
+      "artists": [
+        {
+          "name": "Keola Beamer",
+          "url": "https://open.spotify.com/artist/3HH77UShAG2WJW5nBSjFdY"
+        },
+        {
+          "name": "George Winston",
+          "url": "https://open.spotify.com/artist/3jdODvx7rIdq0UGU7BOVR3"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 261186,
+      "name": "Kalena Kai",
+      "url": "https://open.spotify.com/track/60kmRexBGemg7K5vrBJHFR"
     },
     {
       "album": {
@@ -1061,6 +1101,24 @@
       "duration_ms": 179800,
       "name": "The Last Desert Island",
       "url": "https://open.spotify.com/track/2t2zjf0KwsvopZZGIDEmtZ"
+    },
+    {
+      "album": {
+        "name": "Tiki Music - Hawaii - Vol. 2",
+        "url": "https://open.spotify.com/album/7qcECDRvsYo4Q15KUdMPF1"
+      },
+      "artists": [
+        {
+          "name": "Harry Kalapana",
+          "url": "https://open.spotify.com/artist/4RlhXutYr7cluJLYzDdjX8"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 179800,
+      "name": "The Last Desert Island",
+      "url": "https://open.spotify.com/track/38lroBrr8nZTbR9k2BjjOE"
     },
     {
       "album": {

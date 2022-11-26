@@ -163,10 +163,28 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 295760,
       "name": "Ayamna",
       "url": "https://open.spotify.com/track/2zBFBo47fRkGLud8uJ42e6"
+    },
+    {
+      "album": {
+        "name": "El Taree",
+        "url": "https://open.spotify.com/album/3n8hOnUtBjlGuyxHbq6v0Z"
+      },
+      "artists": [
+        {
+          "name": "Zaeer",
+          "url": "https://open.spotify.com/artist/4Uvajw7dEO2hr3Q0YwbqqE"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295760,
+      "name": "Ayamna",
+      "url": "https://open.spotify.com/track/6rUpq7hxau4jxalon4STYp"
     },
     {
       "album": {
@@ -282,6 +300,24 @@
     },
     {
       "album": {
+        "name": "El Taree",
+        "url": "https://open.spotify.com/album/3n8hOnUtBjlGuyxHbq6v0Z"
+      },
+      "artists": [
+        {
+          "name": "Zaeer",
+          "url": "https://open.spotify.com/artist/4Uvajw7dEO2hr3Q0YwbqqE"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253050,
+      "name": "El Bar",
+      "url": "https://open.spotify.com/track/01IBvjBawOPu36k7MwUJz7"
+    },
+    {
+      "album": {
         "name": "El Bar",
         "url": "https://open.spotify.com/album/191yhVs8kIzdzB5Gn5tFFC"
       },
@@ -293,7 +329,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 253050,
       "name": "El Bar",
       "url": "https://open.spotify.com/track/4lctDqK7nbvMHmsi0eINoe"
@@ -383,7 +419,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-10",
+      "date_removed": "2022-11-14",
       "duration_ms": 357934,
       "name": "Gnawi",
       "url": "https://open.spotify.com/track/5dmikvdu7jfOtfUk9hu2el"
@@ -581,7 +617,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 377472,
       "name": "Kont Trab",
       "url": "https://open.spotify.com/track/3wULkaOnTXCGpK5MA3kqbe"
@@ -869,7 +905,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 484600,
       "name": "The Gambit",
       "url": "https://open.spotify.com/track/40MlHg1LIQDNryxwJQUNGH"
@@ -959,7 +995,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-16",
+      "date_removed": "2022-11-20",
       "duration_ms": 222156,
       "name": "Unfollow",
       "url": "https://open.spotify.com/track/3p51E8KkplEefPXyO9CuzY"

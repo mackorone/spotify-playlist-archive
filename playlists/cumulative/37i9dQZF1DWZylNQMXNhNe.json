@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "Os maiores hits e novidades de artistas LGBTQIA+ est\u00e3o aqui. Foto: Grag Queen",
+  "description": "Os maiores hits e novidades de artistas LGBTQIA+ est\u00e3o aqui. Foto: Giovani Cidreira, Linn da Quebrada",
   "name": "AUGE",
   "published_playlist_ids": [
     "5WRCap7Po4seHkP0oCl5pD"
@@ -23,6 +23,28 @@
       "duration_ms": 172500,
       "name": "A QUEDA",
       "url": "https://open.spotify.com/track/2s9BO8c0co0PmgBiUoTT17"
+    },
+    {
+      "album": {
+        "name": "Agora Vai!",
+        "url": "https://open.spotify.com/album/6l4qzArQvDKnzRLmFkrHE2"
+      },
+      "artists": [
+        {
+          "name": "Giovani Cidreira",
+          "url": "https://open.spotify.com/artist/2SBQT5mUZ07UXABDj12pH1"
+        },
+        {
+          "name": "Linn da Quebrada",
+          "url": "https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266118,
+      "name": "Agora Vai!",
+      "url": "https://open.spotify.com/track/1xQZMFLNckpSQzwleLBKyL"
     },
     {
       "album": {
@@ -59,6 +81,24 @@
       "duration_ms": 193640,
       "name": "Apollo 11",
       "url": "https://open.spotify.com/track/2rtrHYY3AyUlpAB8M4GSAC"
+    },
+    {
+      "album": {
+        "name": "Back In Bahia - Spotify Singles",
+        "url": "https://open.spotify.com/album/50V1qiuLjfFRvgJ9c4Bup3"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163366,
+      "name": "Back In Bahia - Spotify Singles",
+      "url": "https://open.spotify.com/track/6ModYZze07tx1R40jykgeL"
     },
     {
       "album": {
@@ -1053,7 +1093,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 128200,
       "name": "SURRA",
       "url": "https://open.spotify.com/track/1tNTim1EMqV5UXIsaeaRkS"
@@ -1286,6 +1326,24 @@
     },
     {
       "album": {
+        "name": "Triste com T",
+        "url": "https://open.spotify.com/album/6Zb7J5sbItur7GcEBcNzEs"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 132983,
+      "name": "Triste com T",
+      "url": "https://open.spotify.com/track/7iTpnFZWdEEgpU6QHvrsvS"
+    },
+    {
+      "album": {
         "name": "T\u00f4 Preocupada (Calma Amiga) (feat. Anitta)",
         "url": "https://open.spotify.com/album/4uBj6yxHhzeEau2ZQt52uZ"
       },
@@ -1439,7 +1497,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 166555,
       "name": "YOU BETTA",
       "url": "https://open.spotify.com/track/1GXq6pCjNVJ7n1VR8WujbT"

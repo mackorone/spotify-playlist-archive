@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Safira Inema",
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Woro Widowati",
   "name": "Boso Jowo",
   "published_playlist_ids": [
     "6MWAwkgQhB2wRNopb9pKvS"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 269619,
       "name": "Aku Ra Mundur (Tepung Kanji)",
       "url": "https://open.spotify.com/track/2qFc0jWjD602lVz63XfGrm"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 282736,
       "name": "Ambyar",
       "url": "https://open.spotify.com/track/0JBnBZ53RRDsWnjtrhG6YB"
@@ -421,6 +421,24 @@
     {
       "album": {
         "name": "Full Senyum Sayang",
+        "url": "https://open.spotify.com/album/2JXj5teDGxv4RQ2KfWfSIy"
+      },
+      "artists": [
+        {
+          "name": "Evan Loss",
+          "url": "https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246834,
+      "name": "Full Senyum Sayang",
+      "url": "https://open.spotify.com/track/1MgqHpz3FQLaaUSK7fhGvL"
+    },
+    {
+      "album": {
+        "name": "Full Senyum Sayang",
         "url": "https://open.spotify.com/album/3djAwAaADJz4EVGZCJghLc"
       },
       "artists": [
@@ -431,7 +449,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 246834,
       "name": "Full Senyum Sayang",
       "url": "https://open.spotify.com/track/5iJjv9LgIpgZglbfT7RvGS"
@@ -453,6 +471,24 @@
       "duration_ms": 276480,
       "name": "ganti ayang",
       "url": "https://open.spotify.com/track/1VvExYaGt1IaycmrJPR0ZO"
+    },
+    {
+      "album": {
+        "name": "Gemati",
+        "url": "https://open.spotify.com/album/2enGHcl2AbelLyrkd7VhkG"
+      },
+      "artists": [
+        {
+          "name": "Pakdhe Baz",
+          "url": "https://open.spotify.com/artist/1PVpMZv3rtvbTSkd0eqwEl"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278400,
+      "name": "Gemati",
+      "url": "https://open.spotify.com/track/0h4lIaJoOYwf5Bxo05hEaK"
     },
     {
       "album": {
@@ -911,7 +947,7 @@
       ],
       "date_added": "2022-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 243455,
       "name": "Minggato",
       "url": "https://open.spotify.com/track/0pyIRAkOApRPrYThYzv1eF"
@@ -929,7 +965,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 286000,
       "name": "Moro Moro Teko - From \"Cidro Asmoro\"",
       "url": "https://open.spotify.com/track/2Dbdw6yYIatVj2ka3tUa8l"
@@ -1533,7 +1569,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 316470,
       "name": "Rungokno Aku",
       "url": "https://open.spotify.com/track/0FzsdBtp14KszsGY8NuCcY"
@@ -1789,7 +1825,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 309333,
       "name": "Teko Lungo - From \"Cidro Asmoro\"",
       "url": "https://open.spotify.com/track/1LJZ90voZTcuNzVbe0qRh5"
@@ -1829,6 +1865,24 @@
       "duration_ms": 302000,
       "name": "Terlantar",
       "url": "https://open.spotify.com/track/3zUiF9CWEBhGpfw7wePlEU"
+    },
+    {
+      "album": {
+        "name": "Teteg Ati",
+        "url": "https://open.spotify.com/album/6YvFUGHjVHd3U8Ik1GU3Jt"
+      },
+      "artists": [
+        {
+          "name": "Woro Widowati",
+          "url": "https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320000,
+      "name": "Teteg Ati",
+      "url": "https://open.spotify.com/track/6Lbnz01qeIkQbteAHemwmQ"
     },
     {
       "album": {
@@ -2075,7 +2129,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 274013,
       "name": "Yang",
       "url": "https://open.spotify.com/track/3v7OoIuqKeR2cm1UraZAGn"

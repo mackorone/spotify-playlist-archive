@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "Laurie Berkner's Classroom Favorites",
+        "url": "https://open.spotify.com/album/15wtDpKcwMK8ZLafcSuFVI"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 81360,
+      "name": "Clean It Up",
+      "url": "https://open.spotify.com/track/1YQBwR73ISMDsdvXP38H0j"
+    },
+    {
+      "album": {
         "name": "Buzz Buzz",
         "url": "https://open.spotify.com/album/2qaGwjEcIgtQ2XgA3jOsaN"
       },
@@ -193,7 +211,7 @@
       },
       "artists": [
         {
-          "name": "Cocomelon",
+          "name": "CoComelon",
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
@@ -247,7 +265,7 @@
       },
       "artists": [
         {
-          "name": "Cocomelon",
+          "name": "CoComelon",
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
@@ -399,7 +417,7 @@
     {
       "album": {
         "name": "Sing, Dance and Sway the Nick Jr. Way",
-        "url": "https://open.spotify.com/album/4kWDN6lNfJEgev5ePUltp5"
+        "url": "https://open.spotify.com/album/4FC0qzA9OIDEA8ugligowD"
       },
       "artists": [
         {
@@ -414,6 +432,50 @@
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 73601,
+      "name": "It's Time to Clean up",
+      "url": "https://open.spotify.com/track/4uP8Seg6N41O0RTh6qbdTe"
+    },
+    {
+      "album": {
+        "name": "Sing, Dance and Sway the Nick Jr. Way",
+        "url": "https://open.spotify.com/album/3uv14cpSLyXwy5xS7YKR6a"
+      },
+      "artists": [
+        {
+          "name": "Nick Jr.",
+          "url": "https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC"
+        },
+        {
+          "name": "The Cast of Baby Shark's Big Show!",
+          "url": "https://open.spotify.com/artist/7KN7ALlwbMsCCmwFilRzty"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-24",
+      "duration_ms": 73601,
+      "name": "It's Time to Clean up",
+      "url": "https://open.spotify.com/track/72HZ1fDce0xUx5D1Fdviw9"
+    },
+    {
+      "album": {
+        "name": "Sing, Dance and Sway the Nick Jr. Way",
+        "url": "https://open.spotify.com/album/4kWDN6lNfJEgev5ePUltp5"
+      },
+      "artists": [
+        {
+          "name": "Nick Jr.",
+          "url": "https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC"
+        },
+        {
+          "name": "The Cast of Baby Shark's Big Show!",
+          "url": "https://open.spotify.com/artist/7KN7ALlwbMsCCmwFilRzty"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
       "duration_ms": 73601,
       "name": "It's Time to Clean up",
       "url": "https://open.spotify.com/track/7yM9sEM9e6uVLkBFfVxNIJ"

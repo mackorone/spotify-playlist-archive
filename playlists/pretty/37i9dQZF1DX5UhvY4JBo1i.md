@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UhvY4JBo1i.md) - [plain]
 
 > Enjoy music from "Case Closed"! アニメ「名探偵コナン」の世界を彩る音楽をプレイリストで。©2020 青山剛昌／名探偵コナン製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,586 likes - 110 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,959 likes - 110 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UhvY4JBo1i.md) - [plain]
 | 79 | [WE GO](https://open.spotify.com/track/6LKoCj8UL8tCB9TOv5bNvV) | [BREAKERZ](https://open.spotify.com/artist/1U1oKFcjwl8Tb3b3APG9lE) | [BREAKERZ×名探偵コナン COLLABORATION BEST](https://open.spotify.com/album/04Ym0xEthdAQepiCKzrYrw) | 3:50 |
 | 80 | [羽](https://open.spotify.com/track/6iBWf3UnEdcHwdWKk8emh2) | [Koshi Inaba](https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls) | [羽](https://open.spotify.com/album/2ssJzWGerP5kY2GGqoWM9l) | 3:45 |
 | 81 | [世界はあなたの色になる](https://open.spotify.com/track/7ynpWZgax9H43b9dWPU9wt) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [声明 / Still Alive](https://open.spotify.com/album/7edMjpLvwAPeYL2SxwyfkS) | 5:00 |
-| 82 | [オー!リバル](https://open.spotify.com/track/19gsA9gZuo8wJQ86vX8zyg) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [RHINOCEROS](https://open.spotify.com/album/0vF3e3eqX8VCosVfyV5CoN) | 4:55 |
+| 82 | [オー!リバル](https://open.spotify.com/track/19gsA9gZuo8wJQ86vX8zyg) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [RHINOCEROS](https://open.spotify.com/album/0vF3e3eqX8VCosVfyV5CoN) | 4:55 |
 | 83 | [ふたりの秒針](https://open.spotify.com/track/3sdNXwFqpWTb9mvcXk1gmF) | [焚吐](https://open.spotify.com/artist/4B3UQHES9ff3fLeTzTFpfx) | [ふたりの秒針](https://open.spotify.com/album/64IzloAmeEBeBtr62Npu24) | 4:27 |
 | 84 | [SAWAGE☆LIFE](https://open.spotify.com/track/1QmUbpU5ySanToasw2VpNz) | [Mai Kuraki](https://open.spotify.com/artist/4x3GOic9xXFOoOBrEMuvN9) | [倉木麻衣×名探偵コナン COLLABORATION BEST 21 \-真実はいつも歌にある!\-](https://open.spotify.com/album/5iR9vsmguPIjTun6cJVb0Q) | 3:19 |
 | 85 | [YESTERDAY LOVE](https://open.spotify.com/track/2wl8m7P0SvCZ7v5YR3O89q) | [Mai Kuraki](https://open.spotify.com/artist/4x3GOic9xXFOoOBrEMuvN9) | [倉木麻衣×名探偵コナン COLLABORATION BEST 21 \-真実はいつも歌にある!\-](https://open.spotify.com/album/5iR9vsmguPIjTun6cJVb0Q) | 4:54 |

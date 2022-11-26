@@ -96,6 +96,28 @@
     },
     {
       "album": {
+        "name": "Apna Bana Le (From \"Bhediya\")",
+        "url": "https://open.spotify.com/album/7fL3C5d4cFW7XLZHq4jPwX"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261702,
+      "name": "Apna Bana Le (From \"Bhediya\")",
+      "url": "https://open.spotify.com/track/7Els4IIFYa4P4RxBkZkxdd"
+    },
+    {
+      "album": {
         "name": "Badhaai Do (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2g7GkmjF2onRnLexy9cUiC"
       },
@@ -1316,6 +1338,28 @@
     },
     {
       "album": {
+        "name": "BellBottom (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0xcn75mmKGdvd2XYJUmqCU"
+      },
+      "artists": [
+        {
+          "name": "Gurnazar",
+          "url": "https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W"
+        },
+        {
+          "name": "Asees Kaur",
+          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 225956,
+      "name": "Marjaawaan",
+      "url": "https://open.spotify.com/track/6ZoHdUS78t3VdbeXHsnjZ1"
+    },
+    {
+      "album": {
         "name": "Marjaawaan (From \"BellBottom\") - Single",
         "url": "https://open.spotify.com/album/5p9PjysGBFUg57pxmGhqvh"
       },
@@ -1397,6 +1441,24 @@
       "duration_ms": 213750,
       "name": "Mehabooba",
       "url": "https://open.spotify.com/track/4hcIkSjuNMYd2bREG38xgH"
+    },
+    {
+      "album": {
+        "name": "Telugu Latest Love Hits",
+        "url": "https://open.spotify.com/album/4H7ZHLm19o7rt6xnFLnu60"
+      },
+      "artists": [
+        {
+          "name": "Ananya Bhat",
+          "url": "https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 212131,
+      "name": "Mehabooba (From \"Kgf Chapter 2\")",
+      "url": "https://open.spotify.com/track/4g5o1pEVeXJZi4OiWlTpGJ"
     },
     {
       "album": {
@@ -1515,6 +1577,24 @@
       "duration_ms": 285163,
       "name": "Mere Yaaraa (From \"Sooryavanshi\")",
       "url": "https://open.spotify.com/track/0tpwqQhdfJXRcUDSNRjb9O"
+    },
+    {
+      "album": {
+        "name": "Gangubai Kathiawadi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6W3CcM7fj236axX7Vp7Txu"
+      },
+      "artists": [
+        {
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 238087,
+      "name": "Meri Jaan",
+      "url": "https://open.spotify.com/track/5u6OYth22u9NM4tYGcr97I"
     },
     {
       "album": {
@@ -1979,10 +2059,36 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 265063,
       "name": "Rasiya (From \"Brahmastra\")",
       "url": "https://open.spotify.com/track/4Hv055xg1SZZgwwGBx8Cr5"
+    },
+    {
+      "album": {
+        "name": "Brahmastra (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4kIPlpwEZBK9JaI9pZHe79"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285000,
+      "name": "Rasiya Reprise",
+      "url": "https://open.spotify.com/track/3f9dNrQR4stx9CCfpqZVSf"
     },
     {
       "album": {
@@ -2371,6 +2477,32 @@
       "duration_ms": 223999,
       "name": "Ve Maahi",
       "url": "https://open.spotify.com/track/4t1DkxexoMbIHfSHS4Uiyr"
+    },
+    {
+      "album": {
+        "name": "Yaar Ve (From \"Code Name Tiranga\")",
+        "url": "https://open.spotify.com/album/71eEspGJM5UykbbRzIfUBL"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Vipin Patwa",
+          "url": "https://open.spotify.com/artist/6SzYh3jdZpJxGulYuWlFb5"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242201,
+      "name": "Yaar Ve (From \"Code Name Tiranga\")",
+      "url": "https://open.spotify.com/track/4hTIL3DCwfqwSuqRAnyJdy"
     },
     {
       "album": {

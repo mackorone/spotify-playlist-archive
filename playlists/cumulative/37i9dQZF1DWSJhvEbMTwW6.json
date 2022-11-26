@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-05",
+      "date_removed": "2022-11-14",
       "duration_ms": 235128,
       "name": "Alma De Acero",
       "url": "https://open.spotify.com/track/3LgQlKNGiQiQhMiTU0ZKao"
@@ -409,7 +409,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 238020,
       "name": "Antes",
       "url": "https://open.spotify.com/track/5Dsm8etm3LDJaGLUFvWjIi"
@@ -607,7 +607,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": "2022-11-13",
       "duration_ms": 227485,
       "name": "Copos de Nieve",
       "url": "https://open.spotify.com/track/6pKKY70MelQKN7LPF0g3SY"
@@ -823,7 +823,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 167746,
       "name": "Cumbia del cuervo",
       "url": "https://open.spotify.com/track/5KluSQOD7MMDVVfTwnjaAo"
@@ -1112,6 +1112,24 @@
     },
     {
       "album": {
+        "name": "El Angel Del Amor",
+        "url": "https://open.spotify.com/album/1iqpr5cqKi8XkqCAmV1eGD"
+      },
+      "artists": [
+        {
+          "name": "Los Tepoz",
+          "url": "https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 233392,
+      "name": "El Angel Del Amor",
+      "url": "https://open.spotify.com/track/1nVkADZwBF7ZK5zAZAFLXm"
+    },
+    {
+      "album": {
         "name": "El Angel del Amor",
         "url": "https://open.spotify.com/album/51QPsSHrXnW1u8dwEzbzRB"
       },
@@ -1127,6 +1145,24 @@
       "duration_ms": 233392,
       "name": "El Angel del Amor",
       "url": "https://open.spotify.com/track/7gDMlhUAgItgPsKJWNDKrQ"
+    },
+    {
+      "album": {
+        "name": "El Angel Del Amor",
+        "url": "https://open.spotify.com/album/2Seyfb2z21MPHZs4As75ba"
+      },
+      "artists": [
+        {
+          "name": "Los Tepoz",
+          "url": "https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 236518,
+      "name": "El Angel Del Amor",
+      "url": "https://open.spotify.com/track/2q5YyxChGazXIMIsTKUrdU"
     },
     {
       "album": {
@@ -1387,7 +1423,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 202666,
       "name": "Eres",
       "url": "https://open.spotify.com/track/1OeKx8ya9DRQBWKJmlRFJp"
@@ -1409,7 +1445,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-14",
       "duration_ms": 278120,
       "name": "Esc\u00e1ndalo",
       "url": "https://open.spotify.com/track/1MDqUM1XbzZ2wei3mrpPbA"
@@ -1539,7 +1575,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 306133,
       "name": "He Sentido Amor - Corazo\u0301n Tun Tun",
       "url": "https://open.spotify.com/track/0WcFkMy9QR5mNBlJSuCT1j"
@@ -1629,7 +1665,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": "2022-11-13",
       "duration_ms": 375849,
       "name": "La Cumbia Se\u00f1al",
       "url": "https://open.spotify.com/track/1NhZB15j0NfhJihKP0H1s9"
@@ -1651,6 +1687,24 @@
       "duration_ms": 249768,
       "name": "La Monjita Voladora - Cumbia Sonidera",
       "url": "https://open.spotify.com/track/24zP7HDzOD078cjG0q61i3"
+    },
+    {
+      "album": {
+        "name": "El Angel Del Amor",
+        "url": "https://open.spotify.com/album/1iqpr5cqKi8XkqCAmV1eGD"
+      },
+      "artists": [
+        {
+          "name": "Los Tepoz",
+          "url": "https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 269441,
+      "name": "La Mu\u00f1equita Fea",
+      "url": "https://open.spotify.com/track/4yaknNmyExSj5p5sc36RLV"
     },
     {
       "album": {
@@ -1799,7 +1853,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 337040,
       "name": "Lejos de Ti",
       "url": "https://open.spotify.com/track/0nLuVU9SOoV5vTztTRBzM5"
@@ -1835,7 +1889,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": "2022-11-13",
       "duration_ms": 223451,
       "name": "Llora Corazon",
       "url": "https://open.spotify.com/track/7iUG2meAhX0Uswh3uBNZCq"
@@ -2033,10 +2087,36 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 236360,
       "name": "Mi Corazon Es un Vagabundo",
       "url": "https://open.spotify.com/track/3nbRJnQ98EG9zndfLZGorm"
+    },
+    {
+      "album": {
+        "name": "Exitos Tropicosos",
+        "url": "https://open.spotify.com/album/01FnWAliJe0qUJW1mrhDSo"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        },
+        {
+          "name": "Lucho Argain",
+          "url": "https://open.spotify.com/artist/69KQI0QMvoPN5OcpNgTC2b"
+        },
+        {
+          "name": "La India Meliyar\u00e1",
+          "url": "https://open.spotify.com/artist/0zBKolPOzGoV8uja8nnaUG"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 234706,
+      "name": "Mi Cucu",
+      "url": "https://open.spotify.com/track/18VUI387C1ku2GtJtgyrRF"
     },
     {
       "album": {
@@ -2171,7 +2251,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-27",
+      "date_removed": "2022-11-22",
       "duration_ms": 247453,
       "name": "Negrita",
       "url": "https://open.spotify.com/track/2Bei9aVd6E0PejqXO5VArJ"
@@ -2229,6 +2309,24 @@
       "duration_ms": 244546,
       "name": "No Te Pertenece (Bother Loui)",
       "url": "https://open.spotify.com/track/7vSB2vu3AXmZqcXMo1TrTD"
+    },
+    {
+      "album": {
+        "name": "No te pertenece (Radio Edit)",
+        "url": "https://open.spotify.com/album/4OHH9wtBsz0yqCEpIzQHUo"
+      },
+      "artists": [
+        {
+          "name": "Klazykeroz",
+          "url": "https://open.spotify.com/artist/1scdd3RHOCWx72TOGGEBHs"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241319,
+      "name": "No te pertenece - Radio Edit",
+      "url": "https://open.spotify.com/track/61d67uSTg6cBHopUve5hsS"
     },
     {
       "album": {
@@ -2539,7 +2637,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-11-13",
       "duration_ms": 234736,
       "name": "Reyna de Mi Vida",
       "url": "https://open.spotify.com/track/6e6YWWoNxZMly762fyBIwb"
@@ -2618,6 +2716,24 @@
     },
     {
       "album": {
+        "name": "Y De Nuevo Otra Vez !!!",
+        "url": "https://open.spotify.com/album/04h1TCgDD9MFwQ63HZAD2A"
+      },
+      "artists": [
+        {
+          "name": "El Grupo De Mayor Impacto Apasionadoz",
+          "url": "https://open.spotify.com/artist/3UoG37LDn0i3I43VIeS2J8"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 227108,
+      "name": "Solo una Noche",
+      "url": "https://open.spotify.com/track/2UBLFphvbPCnnau4kxBWOU"
+    },
+    {
+      "album": {
         "name": "Lo Mas Ka-Bron Sonidero",
         "url": "https://open.spotify.com/album/1XiYKT5lO5c1bwwTwiiOIA"
       },
@@ -2654,6 +2770,24 @@
     },
     {
       "album": {
+        "name": "Suave y tierno (Radio Edit)",
+        "url": "https://open.spotify.com/album/4Ju27LSlcjc8vkpaSu58D1"
+      },
+      "artists": [
+        {
+          "name": "Klazykeroz",
+          "url": "https://open.spotify.com/artist/1scdd3RHOCWx72TOGGEBHs"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 249786,
+      "name": "Suave y tierno - Radio Edit",
+      "url": "https://open.spotify.com/track/0itp4PzM2dKbYVLZWYW1kH"
+    },
+    {
+      "album": {
         "name": "Los Yaguaru",
         "url": "https://open.spotify.com/album/6zLHoo66ahzFaPgo7Sp3FA"
       },
@@ -2683,7 +2817,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": "2022-11-13",
       "duration_ms": 176226,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/4yUAN9jxzSyUQwDqoeAn2o"
@@ -2705,6 +2839,24 @@
       "duration_ms": 272471,
       "name": "Te Vas Con el o Te Vas Conmigo",
       "url": "https://open.spotify.com/track/3zjZmzojgpq1vxf6Y9eTE0"
+    },
+    {
+      "album": {
+        "name": "El Angel Del Amor",
+        "url": "https://open.spotify.com/album/2Seyfb2z21MPHZs4As75ba"
+      },
+      "artists": [
+        {
+          "name": "Los Tepoz",
+          "url": "https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 281861,
+      "name": "Te Vas Con El O Te Vas Conmigo",
+      "url": "https://open.spotify.com/track/1dPss1wm3YbdRMuYinPrqq"
     },
     {
       "album": {
@@ -2741,6 +2893,24 @@
       "duration_ms": 238236,
       "name": "Tiene Espinas El Rosal",
       "url": "https://open.spotify.com/track/1JO6kEdXrxBq9QobefZg0H"
+    },
+    {
+      "album": {
+        "name": "Party 5 de Mayo",
+        "url": "https://open.spotify.com/album/5annZVJtACVC5bugyiYOP5"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 238236,
+      "name": "Tiene Espinas El Rosal",
+      "url": "https://open.spotify.com/track/7gYv9ktXSUTnDbinqxKrac"
     },
     {
       "album": {
@@ -2853,6 +3023,24 @@
       "duration_ms": 226346,
       "name": "Tus Jefes No Me Quieren",
       "url": "https://open.spotify.com/track/5ZkVnHs6BZViyXnl4LmRXh"
+    },
+    {
+      "album": {
+        "name": "Cumbia Urbana del Pueblo y para el Pueblo, Vol. 2",
+        "url": "https://open.spotify.com/album/5BuCSY4KVyIBcvd1WGLPj6"
+      },
+      "artists": [
+        {
+          "name": "Los Yes Yes",
+          "url": "https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 188813,
+      "name": "Un Poblano en New York",
+      "url": "https://open.spotify.com/track/3H432gSVA7YWDccqx2bvXQ"
     },
     {
       "album": {

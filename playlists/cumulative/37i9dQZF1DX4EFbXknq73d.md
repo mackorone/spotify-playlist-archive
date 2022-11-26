@@ -4,7 +4,7 @@
 
 > Hand\-picked kind, tasty jams! / Cover: Grateful Dead
 
-150 songs - 17 hr 1 min - [published](https://open.spotify.com/playlist/34uDDmpPcvj3AK4jHVKMxu)
+153 songs - 17 hr 14 min - [published](https://open.spotify.com/playlist/34uDDmpPcvj3AK4jHVKMxu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,9 @@
 | [Oh! Sweet Nuthin' \- Live Version](https://open.spotify.com/track/3IwDvOqCQICtOU1Y4FowpF) | [Rich Robinson](https://open.spotify.com/artist/7lEokLkF9CWjEBogNWcV69) | [Woodstock Sessions Vol\. 3](https://open.spotify.com/album/4LaADbRAsiapukpluMNOgM) | 7:41 | 2020-09-08 |  |
 | [Oh! Sweet Nuthin’ \- Live](https://open.spotify.com/track/6FVfwvYmzYzVNBzKcDaIqQ) | [Rich Robinson](https://open.spotify.com/artist/7lEokLkF9CWjEBogNWcV69) | [Woodstock Sessions \(Live\)](https://open.spotify.com/album/3QRlbhisxDFz95XRnMD3K3) | 7:42 | 2020-09-08 | 2022-07-29 |
 | [One Big Holiday](https://open.spotify.com/track/4wuX9KWExmOGXvh2xD44Ng) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [Okonokos](https://open.spotify.com/album/2YSkC3gaCfjgVza4TqWNsB) | 5:56 | 2020-09-08 |  |
-| [Only the Wild Ones](https://open.spotify.com/track/35BIlTop9ZuslYKmE5w4kn) | [DISPATCH](https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9) | [Where the Wild Things Are](https://open.spotify.com/album/6EiGzhDuf0BPUto7XtgBOv) | 4:13 | 2020-09-24 |  |
+| [Only the Wild Ones](https://open.spotify.com/track/1wmfu6wTnfF3EDMOhdmpyf) | [DISPATCH](https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9) | [Where the Wild Things Are](https://open.spotify.com/album/5Y5pAVNbYT665HEzts1rJw) | 4:13 | 2020-09-24 | 2022-11-13 |
+| [Only the Wild Ones](https://open.spotify.com/track/35BIlTop9ZuslYKmE5w4kn) | [DISPATCH](https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9) | [Where the Wild Things Are](https://open.spotify.com/album/6EiGzhDuf0BPUto7XtgBOv) | 4:13 | 2020-09-24 | 2022-10-13 |
+| [Only the Wild Ones](https://open.spotify.com/track/3LwjMORRPuf7j7WiFHW350) | [DISPATCH](https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9) | [America, Location 12](https://open.spotify.com/album/4aWKSKDk0EKPuyv3IsTrsw) | 4:13 | 2020-09-24 |  |
 | [Portal to an Empty Head](https://open.spotify.com/track/4yp8SBDicCWL074V18wasl) | [The Disco Biscuits](https://open.spotify.com/artist/1sahk8ZhHF9FB59DMyDi8D) | [Otherwise Law Abiding Citizens](https://open.spotify.com/album/1YONbNiaS0FsDw82IJ4RoQ) | 6:50 | 2020-07-24 |  |
 | [Posthuman](https://open.spotify.com/track/4S3rxCB17lz2PYc76J4kiA) | [Robert Walter's 20th Congress](https://open.spotify.com/artist/7oGihoTlnS0XMulthQExEj), [Robert Walter](https://open.spotify.com/artist/4vqJywDSqxaNITMBlTRGER) | [Spacesuit](https://open.spotify.com/album/6TOYHislX8tElDKsRxwBW5) | 4:53 | 2020-09-08 |  |
 | [Present Ghosts](https://open.spotify.com/track/4QXGE5zWtIWNscLFs4FTob) | [Dopapod](https://open.spotify.com/artist/6ur6SxSBdRLBgehOIT2iwX) | [Never Odd or Even](https://open.spotify.com/album/3mImh5KLHLBPk0MkuaihZG) | 8:04 | 2020-09-08 |  |
@@ -105,7 +107,8 @@
 | [Ripple \- Live](https://open.spotify.com/track/31Ch2wIS1T0ZTZf13XFvfs) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Reckoning \(Live\)](https://open.spotify.com/album/1T7YIthjEvwsxbUHZ7NdBD) | 4:27 | 2020-09-08 |  |
 | [Rita Is Gone](https://open.spotify.com/track/4gi81cgaU0Xmek1IuOENM5) | [The Marcus King Band](https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9) | [The Marcus King Band](https://open.spotify.com/album/2aV3gQ8recdvTivyl8EFiO) | 4:25 | 2020-09-08 |  |
 | [Ruby Waves \- Live, 4/20/19](https://open.spotify.com/track/3bNNZWjyWtN1MURGYMHOFd) | [Trey Anastasio](https://open.spotify.com/artist/3Felk6Y6jjU00yE1XTOqKZ), [Ghosts of the Forest](https://open.spotify.com/artist/6hyqfMtRP8jWaXrGrDLVFv) | [Ghosts of the Forest: Beneath a Sea of Stars \(Live\)](https://open.spotify.com/album/37n19PLHn5b0sVBEeUJZNJ) | 10:17 | 2020-09-08 |  |
-| [Run It](https://open.spotify.com/track/03zAw2uv4CfkW2quov1fWy) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [The Waterfall II](https://open.spotify.com/album/5QdrLd11irInpKv030UbHV) | 4:37 | 2020-09-08 |  |
+| [Run It](https://open.spotify.com/track/03zAw2uv4CfkW2quov1fWy) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [The Waterfall II](https://open.spotify.com/album/5QdrLd11irInpKv030UbHV) | 4:37 | 2020-09-08 | 2022-11-20 |
+| [Run It](https://open.spotify.com/track/0YZBkk4ZTgTMZUKgjTVXMd) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [The Waterfall II](https://open.spotify.com/album/4B5fQBMzkCRXoQ2qpxaQhh) | 4:37 | 2020-09-08 |  |
 | [Sand \- Live](https://open.spotify.com/track/1I475fQYlPiCgcsRqY7CCm) | [Trey Anastasio](https://open.spotify.com/artist/3Felk6Y6jjU00yE1XTOqKZ) | [Burn It Down \(Live\)](https://open.spotify.com/album/4JsU5vwVZEo36Ro5iAMtrD) | 10:17 | 2020-09-24 |  |
 | [Seven Nation Army](https://open.spotify.com/track/5T8Nc3nQ9EoEEgeiVfovnO) | [Karl Denson](https://open.spotify.com/artist/00ZLAUFA0jWOsSZKzIrM6v) | [New Ammo](https://open.spotify.com/album/1qNG0CXSi8vumI662LYg2o) | 6:42 | 2020-09-08 |  |
 | [Shake 'Em On Down](https://open.spotify.com/track/74JblZYzH8AeLIJ9ywR1RW) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [Hill Country Revue](https://open.spotify.com/album/3nyAQXRZWGYoX0dz0gKVPk) | 5:14 | 2020-09-08 |  |

@@ -4,7 +4,7 @@
 
 > Listen to all the music from the hit series, and your favorite science songs!
 
-20 songs - 40 min 30 sec - [published](https://open.spotify.com/playlist/4TILw5UWGRp5WuYrZG2bKj)
+21 songs - 43 min 3 sec - [published](https://open.spotify.com/playlist/4TILw5UWGRp5WuYrZG2bKj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [The New Periodic Table Song](https://open.spotify.com/track/2Cmth2GiA4UsABtEvYsCM1) | [AsapSCIENCE](https://open.spotify.com/artist/7E8gU2qkctwGqHBizPRH9A) | [The New Periodic Table Song](https://open.spotify.com/album/7hV9SjMjh5lSEDx34xz967) | 2:49 | 2022-03-03 |  |
 | [The Volcano Song](https://open.spotify.com/track/0LixLuFCySCWfXxRWH0Esj) | [MC Grammar](https://open.spotify.com/artist/5jP7y718a7xnKUylSWPANN) | [Wonder Raps](https://open.spotify.com/album/4iWMDhbFSAJ9OiJmko17mH) | 3:09 | 2022-03-03 |  |
 | [The Why Song](https://open.spotify.com/track/0PPhUn8wym6SElNCXhoHad) | [Ada Twist, Scientist Cast](https://open.spotify.com/artist/76oRycbLitZ9oew9UTIByK) | [Ada Twist, Scientist \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/22aQsYeeE3Bo2X2YOa2d1D) | 1:31 | 2022-03-03 |  |
+| [Think Like A Scientist](https://open.spotify.com/track/5326NwvKqHt6kWOVATpSgF) | [GoNoodle](https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f), [Blazer Fresh](https://open.spotify.com/artist/4pgIT5fWtcmcMm0YqPDEV0) | [Kids Songs: After School Fun!](https://open.spotify.com/album/3tAe0A2NzURsyNRrysCmFZ) | 2:32 | 2022-03-03 | 2022-11-14 |
 | [Think Like A Scientist](https://open.spotify.com/track/5bXtUGHULEeYhW2MIEN6iy) | [GoNoodle](https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f), [Blazer Fresh](https://open.spotify.com/artist/4pgIT5fWtcmcMm0YqPDEV0) | [GoNoodle Presents Blazer Fresh \(Vol\. 1\)](https://open.spotify.com/album/3lCBVaBrl8PogWylUxVqSk) | 2:32 | 2022-03-03 |  |
 | [What Is Electricity?](https://open.spotify.com/track/4sCEgYgNLeyPmG5UUeEBuE) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Ask The StoryBots: Season 2 \(Music From The Original Series\)](https://open.spotify.com/album/1gBVScuQu3oYi98AchR0WR) | 1:14 | 2022-03-03 |  |
 

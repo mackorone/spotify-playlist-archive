@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 377000,
       "name": "900",
       "url": "https://open.spotify.com/track/0KoDN3WUZdpYRGnaH4vXwm"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 584760,
       "name": "Alfie's Theme - From \"Alfie\" Score",
       "url": "https://open.spotify.com/track/0LITSYvjbQzgcumESz6Z7l"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 268626,
       "name": "Auditorium",
       "url": "https://open.spotify.com/track/2DPEXrjPvhTMD30TqMOzRs"
@@ -291,7 +291,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 224013,
       "name": "Black Light",
       "url": "https://open.spotify.com/track/5xLAMUIOxxIOJPp3CnduIi"
@@ -381,7 +381,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": null,
       "duration_ms": 229773,
       "name": "Blues For Benny - Remastered 1998",
       "url": "https://open.spotify.com/track/78jOpEmX8qzsEzXCe4C0FX"
@@ -417,7 +417,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 209373,
       "name": "Blues for J.P.",
       "url": "https://open.spotify.com/track/2nghi9VfQXW7uqBeTHuels"
@@ -435,7 +435,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 274533,
       "name": "Blues For O.T.",
       "url": "https://open.spotify.com/track/4D4vqh8aun2oRFHDCEUEIQ"
@@ -489,7 +489,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 391026,
       "name": "Blues i oktaver",
       "url": "https://open.spotify.com/track/2NoRSgmUgRS0Q9lnOQXT1k"
@@ -649,7 +649,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 759960,
       "name": "Bolivia",
       "url": "https://open.spotify.com/track/3znm5SwKU1R0Pin9qkaweZ"
@@ -674,6 +674,28 @@
     },
     {
       "album": {
+        "name": "Lost in Translation",
+        "url": "https://open.spotify.com/album/5ztmAaoF2ikqtGJJJ8KWcn"
+      },
+      "artists": [
+        {
+          "name": "Wendy Marcini",
+          "url": "https://open.spotify.com/artist/4CaTfk4pRkpA8A9gXamYg2"
+        },
+        {
+          "name": "Elvin Vanguard",
+          "url": "https://open.spotify.com/artist/1VDLEbjtzw7vCwMFlWe7xE"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168564,
+      "name": "Broken Conversations",
+      "url": "https://open.spotify.com/track/6RGjEDKAVrGpnKtLXcq9ta"
+    },
+    {
+      "album": {
         "name": "Earfood",
         "url": "https://open.spotify.com/album/4vuijqNCK71JTiACBmdCTo"
       },
@@ -685,7 +707,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 270346,
       "name": "Brown",
       "url": "https://open.spotify.com/track/7nsAltNT0LQC7f11Heikhd"
@@ -827,7 +849,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 703026,
       "name": "Chroma",
       "url": "https://open.spotify.com/track/3REQeIjN47k7TtsRC1HzsJ"
@@ -899,7 +921,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 384866,
       "name": "Das' Dat - Digital Remaster/2006",
       "url": "https://open.spotify.com/track/3Jo5ZN5h9i6OiGiZhLYPxm"
@@ -939,7 +961,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 422403,
       "name": "Del Sasser",
       "url": "https://open.spotify.com/track/3IWp07UL6dh4kEQlG0xZPL"
@@ -1161,7 +1183,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 541047,
       "name": "Erzeben Strasse",
       "url": "https://open.spotify.com/track/6ywQqhJPlYreIMU4MuHK4P"
@@ -1197,7 +1219,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 223493,
       "name": "Faith",
       "url": "https://open.spotify.com/track/32MKpR61rfKGivn5K7V7wG"
@@ -1399,7 +1421,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 334000,
       "name": "Heavy Axe",
       "url": "https://open.spotify.com/track/2wVdn4JWyiQvamWXTZOFWG"
@@ -1417,7 +1439,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 495173,
       "name": "Hobo Joe",
       "url": "https://open.spotify.com/track/62ADmGUgi4J5zgJDTRKGJz"
@@ -1435,7 +1457,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 398920,
       "name": "Hoe Down",
       "url": "https://open.spotify.com/track/21yAA8fIZEYrfITyQqcL3U"
@@ -1507,7 +1529,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 237261,
       "name": "I Got A Woman - Remastered",
       "url": "https://open.spotify.com/track/6dLr41emNyqwMeWxhSnPPo"
@@ -1525,7 +1547,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 127533,
       "name": "I Got Rhythm",
       "url": "https://open.spotify.com/track/7MeRVhOwztVIpbfD8zO5ji"
@@ -1579,7 +1601,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 435986,
       "name": "Inner Urge",
       "url": "https://open.spotify.com/track/35DNc0UGHEBHXGFoNBpioc"
@@ -1597,7 +1619,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 167640,
       "name": "It's A Lovely Day Today",
       "url": "https://open.spotify.com/track/5oJPT4So4M1TQL4anrfQss"
@@ -1651,7 +1673,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 418266,
       "name": "Joshua",
       "url": "https://open.spotify.com/track/10ZQCKPyp19cS48VaabC3N"
@@ -1669,7 +1691,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 182677,
       "name": "Jump !",
       "url": "https://open.spotify.com/track/5ZfjTUMHcnvRKy0FBxd6gs"
@@ -1779,7 +1801,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 371706,
       "name": "K.D.'s Cab Ride - Rudy Van Gelder Edition; 2007 Digital Remaster",
       "url": "https://open.spotify.com/track/753tWMTGOJLzWAsFtwGZLN"
@@ -1815,7 +1837,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 230573,
       "name": "Kelly Roll",
       "url": "https://open.spotify.com/track/695Dt1lYeOCxmsnCDWx2mq"
@@ -1841,7 +1863,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 282762,
       "name": "Little Jump",
       "url": "https://open.spotify.com/track/5e1PSFh6Qrcr8K89Iy2vCm"
@@ -1877,7 +1899,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 434624,
       "name": "Locomotion",
       "url": "https://open.spotify.com/track/4R8sx3JYPAEyOAwpOxnALk"
@@ -2003,7 +2025,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 482959,
       "name": "Moanin'",
       "url": "https://open.spotify.com/track/3rFzc8CLVDZ7OOtFa2jPYP"
@@ -2095,7 +2117,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 328800,
       "name": "Mumbo Jumbo",
       "url": "https://open.spotify.com/track/2k5QlnGxJ0tsAWCRXs5Gag"
@@ -2117,7 +2139,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 547575,
       "name": "My Blues",
       "url": "https://open.spotify.com/track/766eExopMFjwewqQxhoLL3"
@@ -2135,7 +2157,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 327026,
       "name": "Nice 'N Greasy - Remastered 2003/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/33ozrtFTW9KSaujWpdALaR"
@@ -2187,7 +2209,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 305655,
       "name": "Night Drive with Ornette",
       "url": "https://open.spotify.com/track/4jLv4eukwFEYArA4CehonQ"
@@ -2241,7 +2263,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": "2022-11-25",
       "duration_ms": 417720,
       "name": "No Room For Squares - Remastered 2000 / Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/5FsKNbwv7BlR7crawTE3IZ"
@@ -2271,7 +2293,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 312160,
       "name": "Nothing to Lose (feat. Graham Harvey, Geoff Gascoyne & Sebastiaan De Krom)",
       "url": "https://open.spotify.com/track/5BgLI2pLAUAIo6QeUIso95"
@@ -2325,7 +2347,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": null,
       "duration_ms": 315893,
       "name": "One For Newk - 2006 Digital Remaster",
       "url": "https://open.spotify.com/track/3f3wxyntMNxbDB6ij3tJLz"
@@ -2365,7 +2387,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 411733,
       "name": "Ow!",
       "url": "https://open.spotify.com/track/1Ju0Tsue7GTzlcx0y2kN2C"
@@ -2383,7 +2405,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 303229,
       "name": "Pent Up House",
       "url": "https://open.spotify.com/track/4MUgsyfXJov8dPEpiDqBIS"
@@ -2401,7 +2423,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 403960,
       "name": "Pentecostal Feelin' - Rudy Van Gelder Edition/2003 Remaster",
       "url": "https://open.spotify.com/track/49DPLHCTEYgJrMcq88N138"
@@ -2477,7 +2499,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 692200,
       "name": "Raunchy Rita",
       "url": "https://open.spotify.com/track/2yDj19j294AsXOCYW5MGYz"
@@ -2531,7 +2553,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 220520,
       "name": "Red Pepper Blues",
       "url": "https://open.spotify.com/track/2w3DhdtQDnAzeNNH39kfpJ"
@@ -2603,7 +2625,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 381893,
       "name": "Rigor Mortez - Rudy Van Gelder 24-Bit Mastering/2003 Remaster",
       "url": "https://open.spotify.com/track/4lQGjcuX6xblZPrVbsga6l"
@@ -2747,7 +2769,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 496047,
       "name": "Sippin' At Bells - Remastered",
       "url": "https://open.spotify.com/track/6lMuLsSY67KBXLPhQVCbUW"
@@ -2783,7 +2805,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": null,
       "duration_ms": 352440,
       "name": "Solar",
       "url": "https://open.spotify.com/track/4FwiWjEiRIDY569uIeeBA5"
@@ -2801,7 +2823,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 493293,
       "name": "Sortie",
       "url": "https://open.spotify.com/track/1kryDv1GqAAWhILphihOmb"
@@ -2873,7 +2895,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 295680,
       "name": "Split Feelin's - Remastered 1999/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/3V3r5GlxyDjubv9TiZuw1s"
@@ -2910,6 +2932,36 @@
     },
     {
       "album": {
+        "name": "Greatest Jazz Albums",
+        "url": "https://open.spotify.com/album/3OIqcFsBLX94He7aqkhd4J"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        },
+        {
+          "name": "Tommy Flanagan",
+          "url": "https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d"
+        },
+        {
+          "name": "Doug Watkins",
+          "url": "https://open.spotify.com/artist/3j0ZsENc1qq8vQ0stKX2z1"
+        },
+        {
+          "name": "Max Roach",
+          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 406373,
+      "name": "St. Thomas",
+      "url": "https://open.spotify.com/track/207fJxGo6WmK3rFsCmvpN2"
+    },
+    {
+      "album": {
         "name": "Saxophone Colossus",
         "url": "https://open.spotify.com/album/2dtjLAwt7Cq763h6AupyPZ"
       },
@@ -2933,7 +2985,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 407600,
       "name": "St. Thomas",
       "url": "https://open.spotify.com/track/05LNBtMuc26HSAHh7C6iG8"
@@ -2989,7 +3041,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 635066,
       "name": "Straight, No Chaser (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones)",
       "url": "https://open.spotify.com/track/7l5In0rLyHmqJhKlzZPtYo"
@@ -3025,7 +3077,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 331600,
       "name": "Sweet 'n' Sour",
       "url": "https://open.spotify.com/track/0rSAGnHJjXaWqPDBIJMwOZ"
@@ -3043,7 +3095,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 330120,
       "name": "Tariff - Rudy Van Gelder Edition/2006 Digital Remaster",
       "url": "https://open.spotify.com/track/3WJpTTRFQr46ZF2Td29bTj"
@@ -3131,7 +3183,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 105880,
       "name": "The Best Thing For You",
       "url": "https://open.spotify.com/track/1yjzd95OQScmbSEiq8wv3Z"
@@ -3214,6 +3266,24 @@
     },
     {
       "album": {
+        "name": "Cloud 10",
+        "url": "https://open.spotify.com/album/5LF1imfGu2b4OXKIZRXiun"
+      },
+      "artists": [
+        {
+          "name": "Chip Wickham",
+          "url": "https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285186,
+      "name": "The Hit",
+      "url": "https://open.spotify.com/track/5dFkLgD1jMu9lzgltLoO8l"
+    },
+    {
+      "album": {
         "name": "The Hit",
         "url": "https://open.spotify.com/album/53S5wMJmdrpuw3tNPVCw4q"
       },
@@ -3225,7 +3295,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 285186,
       "name": "The Hit",
       "url": "https://open.spotify.com/track/7sht2r5eiq21Z2xNvQS86n"
@@ -3369,7 +3439,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 277173,
       "name": "The Sweet Alice Blues",
       "url": "https://open.spotify.com/track/5ln0JF17xZud7mxqoFOrY9"
@@ -3405,7 +3475,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 379893,
       "name": "The Way You Look Tonight - Remastered 2006/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/6js3N3Q5TEFIxhzSxgPt8K"
@@ -3441,7 +3511,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": "2022-11-26",
       "duration_ms": 282165,
       "name": "The Windup",
       "url": "https://open.spotify.com/track/4OCZosYvqSIZ0iU55mxhV1"
@@ -3459,7 +3529,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": null,
       "duration_ms": 419160,
       "name": "The Wobbler",
       "url": "https://open.spotify.com/track/7aiZS7kjkHTtpSZudOHYQe"
@@ -3513,7 +3583,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 180266,
       "name": "This Here",
       "url": "https://open.spotify.com/track/73ywxvRTfXvgj2WP33Ud3Y"
@@ -3583,7 +3653,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 445853,
       "name": "Tinderly",
       "url": "https://open.spotify.com/track/5R1XH67b7xUBpnbGdw4VJj"
@@ -3601,7 +3671,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 372080,
       "name": "Tippin' - Remastered 2000/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/2yVOF2movPBYvUt1vdpv5k"
@@ -3619,7 +3689,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 128040,
       "name": "Toki's Theme",
       "url": "https://open.spotify.com/track/4Xlq6iQXgx3hLgyqavhWXx"
@@ -3645,7 +3715,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 558266,
       "name": "Touch And Go",
       "url": "https://open.spotify.com/track/6zjObbQR7s8ylMXtuBYNho"
@@ -3771,7 +3841,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 394613,
       "name": "Watermelon Man - Alternate Take / Remastered",
       "url": "https://open.spotify.com/track/1VfGDylBa6VHNi1pcxRx1Z"
@@ -3811,7 +3881,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 249934,
       "name": "Wayne Wave",
       "url": "https://open.spotify.com/track/4Nh9SG27En67iOzE3vssBB"
@@ -3851,7 +3921,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 121186,
       "name": "West Coast Blues",
       "url": "https://open.spotify.com/track/6YCiNVVBDsjUMVq6x3yvbT"

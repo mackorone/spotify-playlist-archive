@@ -1,29 +1,13 @@
 {
   "description": "On a pas pu appeler \u00e7a Qu\u00e9bec Shiny Tunes. Photo: EXTERIO",
-  "num_followers": 7331,
+  "num_followers": 7551,
   "original_name": "Je me souviens: alternatif",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MjkyMzY1MCwwMDAwMDAwMDRiYWVjZjUxYjdkZDYxZjg3NDg3Njc4NGE4YjFlMjIw",
+  "snapshot_id": "MTU5MjkyMzY1MCwwMDAwMDAwMDY5OTRhMWIxZWNkZjFkMjliOWE1NTIzMjk4OTczM2Fm",
   "tracks": [
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
-        "name": "Okoum\u00e9",
-        "url": "https://open.spotify.com/album/2Gj5sfPTzxGBXbFH9DjyVn"
-      },
-      "artists": [
-        {
-          "name": "Okoum\u00e9",
-          "url": "https://open.spotify.com/artist/2GmkaEeE31sBXm7HPeO43M"
-        }
-      ],
-      "duration_ms": 305053,
-      "name": "Dis-moi pas \u00e7a",
-      "url": "https://open.spotify.com/track/3v9aoyKNPznNmB9nEmzjie"
-    },
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 149346,
       "name": "Hawaiienne",
       "url": "https://open.spotify.com/track/0BUD8MCnamel6skM7YCSJJ"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Okoum\u00e9",
+        "url": "https://open.spotify.com/album/2Gj5sfPTzxGBXbFH9DjyVn"
+      },
+      "artists": [
+        {
+          "name": "Okoum\u00e9",
+          "url": "https://open.spotify.com/artist/2GmkaEeE31sBXm7HPeO43M"
+        }
+      ],
+      "duration_ms": 305053,
+      "name": "Dis-moi pas \u00e7a",
+      "url": "https://open.spotify.com/track/3v9aoyKNPznNmB9nEmzjie"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -91,22 +91,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Danse sociale",
-        "url": "https://open.spotify.com/album/43HrZpsHePmMfgN69PTnFR"
-      },
-      "artists": [
-        {
-          "name": "Captaine R\u00e9volte",
-          "url": "https://open.spotify.com/artist/7qsCifJn8gcqcLP5nUfWPC"
-        }
-      ],
-      "duration_ms": 235440,
-      "name": "J'ai oubli\u00e9",
-      "url": "https://open.spotify.com/track/0fxyIaAHcZg6uBlFSHYyJM"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "Compter les corps",
         "url": "https://open.spotify.com/album/0KPZyx1f8iQqRkj9d0gTbB"
       },
@@ -119,22 +103,6 @@
       "duration_ms": 230613,
       "name": "Compter les corps",
       "url": "https://open.spotify.com/track/7mDh6tKtDYEkt8b1rXVTe0"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
-        "name": "$=Bonheur",
-        "url": "https://open.spotify.com/album/3S1vz4DSEQFippvw8v05ev"
-      },
-      "artists": [
-        {
-          "name": "Les Respectables",
-          "url": "https://open.spotify.com/artist/1BgrTWzH5jW2zl79JfSLtl"
-        }
-      ],
-      "duration_ms": 267280,
-      "name": "Amalgame",
-      "url": "https://open.spotify.com/track/21ATIZAwB9QXBOpTzw2lDM"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -155,6 +123,38 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
+        "name": "$=Bonheur",
+        "url": "https://open.spotify.com/album/3S1vz4DSEQFippvw8v05ev"
+      },
+      "artists": [
+        {
+          "name": "Les Respectables",
+          "url": "https://open.spotify.com/artist/1BgrTWzH5jW2zl79JfSLtl"
+        }
+      ],
+      "duration_ms": 267280,
+      "name": "Amalgame",
+      "url": "https://open.spotify.com/track/21ATIZAwB9QXBOpTzw2lDM"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Danse sociale",
+        "url": "https://open.spotify.com/album/43HrZpsHePmMfgN69PTnFR"
+      },
+      "artists": [
+        {
+          "name": "Captaine R\u00e9volte",
+          "url": "https://open.spotify.com/artist/7qsCifJn8gcqcLP5nUfWPC"
+        }
+      ],
+      "duration_ms": 235440,
+      "name": "J'ai oubli\u00e9",
+      "url": "https://open.spotify.com/track/0fxyIaAHcZg6uBlFSHYyJM"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
         "name": "Joseph Antoine Fr\u00e9d\u00e9ric Fortin Perron",
         "url": "https://open.spotify.com/album/4eX5rBmbbwvO2aDefCrDLo"
       },
@@ -167,6 +167,22 @@
       "duration_ms": 195960,
       "name": "Moisi mo\u00e9'ssi",
       "url": "https://open.spotify.com/track/7AjsJZERJcf80ZqBSK9JYL"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Le d\u00e9lire du savant fou",
+        "url": "https://open.spotify.com/album/5U0ic2IdlLwMhRI328aU1J"
+      },
+      "artists": [
+        {
+          "name": "eXterio",
+          "url": "https://open.spotify.com/artist/3wF6f7YFIwgmtD3daujyeF"
+        }
+      ],
+      "duration_ms": 199066,
+      "name": "Le savant fou",
+      "url": "https://open.spotify.com/track/2LHoVyY2KYcbvtyhiX90LN"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -187,18 +203,22 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Le d\u00e9lire du savant fou",
-        "url": "https://open.spotify.com/album/5U0ic2IdlLwMhRI328aU1J"
+        "name": "L'acad\u00e9mie du massacre",
+        "url": "https://open.spotify.com/album/1dUcPSoAYiiJ2ywiDbqnZ4"
       },
       "artists": [
         {
-          "name": "eXterio",
-          "url": "https://open.spotify.com/artist/3wF6f7YFIwgmtD3daujyeF"
+          "name": "Mononc' Serge",
+          "url": "https://open.spotify.com/artist/35BsDVEPHGqz4fPhlRJHB1"
+        },
+        {
+          "name": "Anonymus",
+          "url": "https://open.spotify.com/artist/47KsZ7WY3lQUXxhOpXkIG8"
         }
       ],
-      "duration_ms": 199066,
-      "name": "Le savant fou",
-      "url": "https://open.spotify.com/track/2LHoVyY2KYcbvtyhiX90LN"
+      "duration_ms": 176893,
+      "name": "Les patates",
+      "url": "https://open.spotify.com/track/7BnwGX5p7SSgcsST0vBS08"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -235,22 +255,18 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "L'acad\u00e9mie du massacre",
-        "url": "https://open.spotify.com/album/1dUcPSoAYiiJ2ywiDbqnZ4"
+        "name": "Les Goules",
+        "url": "https://open.spotify.com/album/6fts4TU4zrjx6IyYmbdwQC"
       },
       "artists": [
         {
-          "name": "Mononc' Serge",
-          "url": "https://open.spotify.com/artist/35BsDVEPHGqz4fPhlRJHB1"
-        },
-        {
-          "name": "Anonymus",
-          "url": "https://open.spotify.com/artist/47KsZ7WY3lQUXxhOpXkIG8"
+          "name": "Les Goules",
+          "url": "https://open.spotify.com/artist/2aBnogNdLxxLhpnRji3maA"
         }
       ],
-      "duration_ms": 176893,
-      "name": "Les patates",
-      "url": "https://open.spotify.com/track/7BnwGX5p7SSgcsST0vBS08"
+      "duration_ms": 218560,
+      "name": "Crabe",
+      "url": "https://open.spotify.com/track/6ddojwlnvq2ITqdqCeuSJm"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -267,22 +283,6 @@
       "duration_ms": 227626,
       "name": "Magan\u00e9",
       "url": "https://open.spotify.com/track/10ftfZxIPLStdkw7hTuL09"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
-        "name": "Les Goules",
-        "url": "https://open.spotify.com/album/6fts4TU4zrjx6IyYmbdwQC"
-      },
-      "artists": [
-        {
-          "name": "Les Goules",
-          "url": "https://open.spotify.com/artist/2aBnogNdLxxLhpnRji3maA"
-        }
-      ],
-      "duration_ms": 218560,
-      "name": "Crabe",
-      "url": "https://open.spotify.com/track/6ddojwlnvq2ITqdqCeuSJm"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -319,22 +319,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Le Trashy Saloon",
-        "url": "https://open.spotify.com/album/0MO9BtyFSmkm4557C9GGd3"
-      },
-      "artists": [
-        {
-          "name": "Anik Jean",
-          "url": "https://open.spotify.com/artist/6IHeGZkZLc9DQ4INpVyDpa"
-        }
-      ],
-      "duration_ms": 201800,
-      "name": "Je suis partie",
-      "url": "https://open.spotify.com/track/0l90WIAkOhMlPSEvqX0YGV"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "Le compte complet",
         "url": "https://open.spotify.com/album/19QK4vgoI5NeY8ISWWcSCN"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 117373,
       "name": "Ton amour est trop lourd",
       "url": "https://open.spotify.com/track/6Bo0Vlj6oB7Essx2A8aFyQ"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Le Trashy Saloon",
+        "url": "https://open.spotify.com/album/0MO9BtyFSmkm4557C9GGd3"
+      },
+      "artists": [
+        {
+          "name": "Anik Jean",
+          "url": "https://open.spotify.com/artist/6IHeGZkZLc9DQ4INpVyDpa"
+        }
+      ],
+      "duration_ms": 201800,
+      "name": "Je suis partie",
+      "url": "https://open.spotify.com/track/0l90WIAkOhMlPSEvqX0YGV"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -431,38 +431,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Super-h\u00e9ros sous peu",
-        "url": "https://open.spotify.com/album/2snDIoG1WayOkhPJclnVyo"
-      },
-      "artists": [
-        {
-          "name": "See Spot Run",
-          "url": "https://open.spotify.com/artist/6ZBtfiNY3e5y00QjZEHBEI"
-        }
-      ],
-      "duration_ms": 232280,
-      "name": "Decoller - Remix",
-      "url": "https://open.spotify.com/track/6799cdhvfJ3e2btTOIBc97"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
-        "name": "100% boeuf",
-        "url": "https://open.spotify.com/album/5M8Bc31hdIJD3sVp5b62bG"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9p\u00e9 et sa guitare",
-          "url": "https://open.spotify.com/artist/49fBZHMEYaw2OCJFo7saeV"
-        }
-      ],
-      "duration_ms": 251520,
-      "name": "Poney",
-      "url": "https://open.spotify.com/track/33RI5afAIREvsm0lJ5j7Jh"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "Western Romance",
         "url": "https://open.spotify.com/album/2P8tQ3QlI9OYD8SPdLFYYX"
       },
@@ -479,34 +447,18 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "AW",
-        "url": "https://open.spotify.com/album/658WdTob3JXKse2edU1PiH"
+        "name": "Super-h\u00e9ros sous peu",
+        "url": "https://open.spotify.com/album/2snDIoG1WayOkhPJclnVyo"
       },
       "artists": [
         {
-          "name": "Andr\u00e9e Watters",
-          "url": "https://open.spotify.com/artist/69C2IK3ervhiGEvbp6ss7H"
+          "name": "See Spot Run",
+          "url": "https://open.spotify.com/artist/6ZBtfiNY3e5y00QjZEHBEI"
         }
       ],
-      "duration_ms": 229906,
-      "name": "Si exceptionnel",
-      "url": "https://open.spotify.com/track/4rDhLzmzPz4aAJ1hs4HOlW"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
-        "name": "Mal \u00e9duqu\u00e9 mon amour",
-        "url": "https://open.spotify.com/album/6lm22jTtAq2XSWcX4KuR1u"
-      },
-      "artists": [
-        {
-          "name": "Cafeine",
-          "url": "https://open.spotify.com/artist/0Ejf1nVc9FUIfi4czaMwwy"
-        }
-      ],
-      "duration_ms": 203506,
-      "name": "Tu ne peux pas partir",
-      "url": "https://open.spotify.com/track/10rmSGVJFAkR3bBFLKKvIt"
+      "duration_ms": 232280,
+      "name": "Decoller - Remix",
+      "url": "https://open.spotify.com/track/6799cdhvfJ3e2btTOIBc97"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -527,6 +479,38 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
+        "name": "Mal \u00e9duqu\u00e9 mon amour",
+        "url": "https://open.spotify.com/album/6lm22jTtAq2XSWcX4KuR1u"
+      },
+      "artists": [
+        {
+          "name": "Cafeine",
+          "url": "https://open.spotify.com/artist/0Ejf1nVc9FUIfi4czaMwwy"
+        }
+      ],
+      "duration_ms": 203506,
+      "name": "Tu ne peux pas partir",
+      "url": "https://open.spotify.com/track/10rmSGVJFAkR3bBFLKKvIt"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "AW",
+        "url": "https://open.spotify.com/album/658WdTob3JXKse2edU1PiH"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9e Watters",
+          "url": "https://open.spotify.com/artist/69C2IK3ervhiGEvbp6ss7H"
+        }
+      ],
+      "duration_ms": 229906,
+      "name": "Si exceptionnel",
+      "url": "https://open.spotify.com/track/4rDhLzmzPz4aAJ1hs4HOlW"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
         "name": "Le temps au point mort",
         "url": "https://open.spotify.com/album/3Gl5kyHaBRlOtbkbZdrDfU"
       },
@@ -543,18 +527,18 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Courtepointes",
-        "url": "https://open.spotify.com/album/0hTNisUe7OyMi7MMiNAaM5"
+        "name": "100% boeuf",
+        "url": "https://open.spotify.com/album/5M8Bc31hdIJD3sVp5b62bG"
       },
       "artists": [
         {
-          "name": "Arseniq33",
-          "url": "https://open.spotify.com/artist/6MtltOBHPG1r8zMxj66GVU"
+          "name": "P\u00e9p\u00e9 et sa guitare",
+          "url": "https://open.spotify.com/artist/49fBZHMEYaw2OCJFo7saeV"
         }
       ],
-      "duration_ms": 184973,
-      "name": "Cit\u00e9 rock suicide",
-      "url": "https://open.spotify.com/track/33uRR6cRTA5lThfinZS7qi"
+      "duration_ms": 251520,
+      "name": "Poney",
+      "url": "https://open.spotify.com/track/33RI5afAIREvsm0lJ5j7Jh"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -591,50 +575,18 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "La Chango Family",
-        "url": "https://open.spotify.com/album/666d4EG1BDpC8s1kIVhbVd"
+        "name": "Courtepointes",
+        "url": "https://open.spotify.com/album/0hTNisUe7OyMi7MMiNAaM5"
       },
       "artists": [
         {
-          "name": "La Chango Family",
-          "url": "https://open.spotify.com/artist/5jiNoz1XkdCC2INXqHKQN8"
+          "name": "Arseniq33",
+          "url": "https://open.spotify.com/artist/6MtltOBHPG1r8zMxj66GVU"
         }
       ],
-      "duration_ms": 206333,
-      "name": "Joyeus'ment d\u00e9sesp\u00e9r\u00e9",
-      "url": "https://open.spotify.com/track/6Y7D4JU5zPAtrPgyNI6AMA"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
-        "name": "Le Chihuahua",
-        "url": "https://open.spotify.com/album/0Z7wImynM6zuAh9L7sfEFe"
-      },
-      "artists": [
-        {
-          "name": "Mara Tremblay",
-          "url": "https://open.spotify.com/artist/1tt3YXVP4AltaStku4rpf3"
-        }
-      ],
-      "duration_ms": 279160,
-      "name": "Le teint de Linda",
-      "url": "https://open.spotify.com/track/5sBVNfzLTEZqp5bRKWfGgS"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
-        "name": "D\u00e9jeuner sur l'herbe",
-        "url": "https://open.spotify.com/album/7BiBdilBbtHb860TLdo6d4"
-      },
-      "artists": [
-        {
-          "name": "Les Breastfeeders",
-          "url": "https://open.spotify.com/artist/37x62KkbU6JaY7W8mHHw4i"
-        }
-      ],
-      "duration_ms": 117146,
-      "name": "Mini-jupe et watusi",
-      "url": "https://open.spotify.com/track/6eyRjrYUNw940SWrgA6SGb"
+      "duration_ms": 184973,
+      "name": "Cit\u00e9 rock suicide",
+      "url": "https://open.spotify.com/track/33uRR6cRTA5lThfinZS7qi"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -655,18 +607,50 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Sur quelle plan\u00e8te",
-        "url": "https://open.spotify.com/album/269dGCDHJ6nrZJTEfT1YDp"
+        "name": "D\u00e9jeuner sur l'herbe",
+        "url": "https://open.spotify.com/album/7BiBdilBbtHb860TLdo6d4"
       },
       "artists": [
         {
-          "name": "V\u00e9nus 3",
-          "url": "https://open.spotify.com/artist/3tpM1Cxh88vORchHhDZmIU"
+          "name": "Les Breastfeeders",
+          "url": "https://open.spotify.com/artist/37x62KkbU6JaY7W8mHHw4i"
         }
       ],
-      "duration_ms": 323400,
-      "name": "Dans les airs",
-      "url": "https://open.spotify.com/track/1H42q82sVhPcGE7kneM7Iq"
+      "duration_ms": 117146,
+      "name": "Mini-jupe et watusi",
+      "url": "https://open.spotify.com/track/6eyRjrYUNw940SWrgA6SGb"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Le Chihuahua",
+        "url": "https://open.spotify.com/album/0Z7wImynM6zuAh9L7sfEFe"
+      },
+      "artists": [
+        {
+          "name": "Mara Tremblay",
+          "url": "https://open.spotify.com/artist/1tt3YXVP4AltaStku4rpf3"
+        }
+      ],
+      "duration_ms": 279160,
+      "name": "Le teint de Linda",
+      "url": "https://open.spotify.com/track/5sBVNfzLTEZqp5bRKWfGgS"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "La Chango Family",
+        "url": "https://open.spotify.com/album/666d4EG1BDpC8s1kIVhbVd"
+      },
+      "artists": [
+        {
+          "name": "La Chango Family",
+          "url": "https://open.spotify.com/artist/5jiNoz1XkdCC2INXqHKQN8"
+        }
+      ],
+      "duration_ms": 206333,
+      "name": "Joyeus'ment d\u00e9sesp\u00e9r\u00e9",
+      "url": "https://open.spotify.com/track/6Y7D4JU5zPAtrPgyNI6AMA"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -687,18 +671,18 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "l'amour la haine les animaux les automobiles",
-        "url": "https://open.spotify.com/album/66yrRtNfB3gUhSLebR1dlW"
+        "name": "Vent fou",
+        "url": "https://open.spotify.com/album/4meRurpCXE1T2EwMM9L02t"
       },
       "artists": [
         {
-          "name": "Gwenwed",
-          "url": "https://open.spotify.com/artist/0HFirn5VruMovsRmFX02hT"
+          "name": "Jorane",
+          "url": "https://open.spotify.com/artist/6i4QbQrxJaY2aDhTYOYvJ7"
         }
       ],
-      "duration_ms": 188800,
-      "name": "Gwen et les rats",
-      "url": "https://open.spotify.com/track/6ORsvmXbP6CBmgeW3A4R4a"
+      "duration_ms": 79840,
+      "name": "Vent fou",
+      "url": "https://open.spotify.com/track/6i3659FPWh4fL7dMCQYYeb"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -719,34 +703,18 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Coma",
-        "url": "https://open.spotify.com/album/1UZHRqAz33EWEkCBcUh1QQ"
+        "name": "l'amour la haine les animaux les automobiles",
+        "url": "https://open.spotify.com/album/66yrRtNfB3gUhSLebR1dlW"
       },
       "artists": [
         {
-          "name": "coma",
-          "url": "https://open.spotify.com/artist/0HKMEtAro0rnwsLOr6wzEC"
+          "name": "Gwenwed",
+          "url": "https://open.spotify.com/artist/0HFirn5VruMovsRmFX02hT"
         }
       ],
-      "duration_ms": 219800,
-      "name": "Une araign\u00e9e au plafond",
-      "url": "https://open.spotify.com/track/0JNSKKRtaxBl8WKMdE148h"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
-        "name": "Vent fou",
-        "url": "https://open.spotify.com/album/4meRurpCXE1T2EwMM9L02t"
-      },
-      "artists": [
-        {
-          "name": "Jorane",
-          "url": "https://open.spotify.com/artist/6i4QbQrxJaY2aDhTYOYvJ7"
-        }
-      ],
-      "duration_ms": 79840,
-      "name": "Vent fou",
-      "url": "https://open.spotify.com/track/6i3659FPWh4fL7dMCQYYeb"
+      "duration_ms": 188800,
+      "name": "Gwen et les rats",
+      "url": "https://open.spotify.com/track/6ORsvmXbP6CBmgeW3A4R4a"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -763,6 +731,38 @@
       "duration_ms": 263640,
       "name": "Si j'ai tort",
       "url": "https://open.spotify.com/track/0AjB4QVAB8T2DZgt0GrJPx"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Sur quelle plan\u00e8te",
+        "url": "https://open.spotify.com/album/73i0S5bK1UMFP8zPpKAfNB"
+      },
+      "artists": [
+        {
+          "name": "V\u00e9nus 3",
+          "url": "https://open.spotify.com/artist/3tpM1Cxh88vORchHhDZmIU"
+        }
+      ],
+      "duration_ms": 323400,
+      "name": "Dans les airs",
+      "url": "https://open.spotify.com/track/1owMekL4FP43xxlLpUSk7I"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Coma",
+        "url": "https://open.spotify.com/album/1UZHRqAz33EWEkCBcUh1QQ"
+      },
+      "artists": [
+        {
+          "name": "coma",
+          "url": "https://open.spotify.com/artist/0HKMEtAro0rnwsLOr6wzEC"
+        }
+      ],
+      "duration_ms": 219800,
+      "name": "Une araign\u00e9e au plafond",
+      "url": "https://open.spotify.com/track/0JNSKKRtaxBl8WKMdE148h"
     },
     {
       "added_at": "2020-06-23 14:47:30",

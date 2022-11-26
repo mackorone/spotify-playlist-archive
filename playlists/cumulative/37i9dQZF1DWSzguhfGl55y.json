@@ -67,7 +67,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 213813,
       "name": "All 4 One",
       "url": "https://open.spotify.com/track/5stqdnEmsr98AV26GweHJ8"
@@ -161,7 +161,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 241666,
       "name": "An Tagen wie diesen",
       "url": "https://open.spotify.com/track/7jcxm0Ooi09u1LySzkBqm0"
@@ -259,6 +259,28 @@
       "duration_ms": 211026,
       "name": "Bis die Sonne rauskommt",
       "url": "https://open.spotify.com/track/3su7Zc3YwzJuzRRRlxXQYE"
+    },
+    {
+      "album": {
+        "name": "Freiheit",
+        "url": "https://open.spotify.com/album/7MnOCaNSPVUuTq4Nykn4Pq"
+      },
+      "artists": [
+        {
+          "name": "Curse",
+          "url": "https://open.spotify.com/artist/4MgKf1MjOXZipoP0Kbv4hi"
+        },
+        {
+          "name": "Silbermond",
+          "url": "https://open.spotify.com/artist/3GbUWWI1rMwAIPbUVPvnPA"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224426,
+      "name": "Bis zum Schluss (feat. Silbermond)",
+      "url": "https://open.spotify.com/track/1MOnXaLoxHq0LESJkrwOFw"
     },
     {
       "album": {
@@ -545,7 +567,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 173280,
       "name": "Easy",
       "url": "https://open.spotify.com/track/2yQBDZfOxUudxE1wYUfeuq"
@@ -607,7 +629,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 221346,
       "name": "Eines Tages (feat. Cassandra Steen) - Single Edit",
       "url": "https://open.spotify.com/track/3U0yDyVzdjhOcl3TcEDylU"
@@ -679,7 +701,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": "2022-11-12",
       "duration_ms": 227573,
       "name": "Fuffies Im Club",
       "url": "https://open.spotify.com/track/1A0b0yR0quuBByKQzASAvf"
@@ -839,7 +861,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 203920,
       "name": "Hammerhart",
       "url": "https://open.spotify.com/track/0LxKGciKtDGXZ7B7t6NqWZ"
@@ -861,6 +883,24 @@
       "duration_ms": 250680,
       "name": "Hey Du!",
       "url": "https://open.spotify.com/track/5YU9jwcZ5vzLkcyWU8NTcj"
+    },
+    {
+      "album": {
+        "name": "Aggro Berlin",
+        "url": "https://open.spotify.com/album/1oUbKEimVzsvNablbLWxsr"
+      },
+      "artists": [
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250706,
+      "name": "Hey Du!",
+      "url": "https://open.spotify.com/track/2SOimocBwo8MH6KKPlwi7x"
     },
     {
       "album": {
@@ -981,7 +1021,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 330409,
       "name": "Irgendwie, Irgendwo, Irgendwann",
       "url": "https://open.spotify.com/track/04sIbgH6Vdo2V21QsUPaRJ"
@@ -999,7 +1039,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 354133,
       "name": "Jein",
       "url": "https://open.spotify.com/track/0llxnKwB2eKrVEUxBWuHgR"
@@ -1097,10 +1137,28 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 201979,
       "name": "Kokaina",
       "url": "https://open.spotify.com/track/2KHbPYI22yWIOgWUsApYIS"
+    },
+    {
+      "album": {
+        "name": "Casia Deluxe",
+        "url": "https://open.spotify.com/album/5ItD2QsELr1OxcZPr9NvuE"
+      },
+      "artists": [
+        {
+          "name": "Miami Yacine",
+          "url": "https://open.spotify.com/artist/1XKjtpH5P81gpOXDB91IEB"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-25",
+      "duration_ms": 201979,
+      "name": "Kokaina",
+      "url": "https://open.spotify.com/track/6bN6XXylz4unPfOCBIg0z5"
     },
     {
       "album": {
@@ -1115,7 +1173,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 252786,
       "name": "Kompass ohne Norden",
       "url": "https://open.spotify.com/track/3JRlbFxtiQQ84Jcg9f5m0q"
@@ -1187,7 +1245,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-06",
+      "date_removed": "2022-11-24",
       "duration_ms": 254080,
       "name": "Liebes Lied",
       "url": "https://open.spotify.com/track/6YzYyeMV5MY7wHOGskZdzf"
@@ -1305,6 +1363,32 @@
       "duration_ms": 215186,
       "name": "Mittelfinger hoch",
       "url": "https://open.spotify.com/track/0t0x6vNJk3cY2YgOSOZlwM"
+    },
+    {
+      "album": {
+        "name": "Legacy - Best Of (Remastered)",
+        "url": "https://open.spotify.com/album/6gZAZJfarP7nvsAumwx7dS"
+      },
+      "artists": [
+        {
+          "name": "Kollegah",
+          "url": "https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y"
+        },
+        {
+          "name": "Casper",
+          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
+        },
+        {
+          "name": "Favorite",
+          "url": "https://open.spotify.com/artist/6iHHxsJtBAUzLXbqUr0bbK"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214973,
+      "name": "Mittelfinger hoch - Remastered",
+      "url": "https://open.spotify.com/track/6pUMwOnqt0DAvVYFtOLOb7"
     },
     {
       "album": {
@@ -1741,7 +1825,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 205293,
       "name": "Schwule M\u00e4dchen",
       "url": "https://open.spotify.com/track/3dKPA3BeuIF5yvv2xUVh0z"
@@ -1821,7 +1905,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 200960,
       "name": "Stumm (Xenja)",
       "url": "https://open.spotify.com/track/3MxUAsVtyFpJHObz3aeIws"

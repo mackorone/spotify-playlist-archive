@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca9fdfkadHF.md) - [plain]
 
 > ¡A rockear con los titanes de Perú! Foto: Afrodisiaco
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,647 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,998 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca9fdfkadHF.md) - [plain]
 | 10 | [Por Tu Amor](https://open.spotify.com/track/2IvOjXrJCmttHX8cSKFKbs) | [Autocontrol](https://open.spotify.com/artist/0th5G3uzu7mi4Co4BEMLLZ) | [Sueños](https://open.spotify.com/album/43Py5L7PwKFmNnouXrdpk6) | 4:29 |
 | 11 | [Carol Quiere un Viaje a Londres](https://open.spotify.com/track/5TVYykPNOs7gt1urSqsEih) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Rock And Qué](https://open.spotify.com/album/6tGrXhKGXL2ygPo2EwI5qs) | 3:25 |
 | 12 | [Avenida Larco](https://open.spotify.com/track/1UC6KI4TujcN8L8VZtrbec) | [Frágil](https://open.spotify.com/artist/7rfZNBKo6a84PsygWV4aDc) | [Avenida Larco](https://open.spotify.com/album/3I17ylhxcI0v3Okk3WtiE6) | 3:47 |
-| 13 | [Triciclo Perú](https://open.spotify.com/track/5GUPHcl11vUeOf1OwDjJb5) | [Los Mojarras](https://open.spotify.com/artist/1q7dN4c3Py4QbovlM01xYX) | [Rock Urbano](https://open.spotify.com/album/63VlyjU1ReBl1ZZaDyBJqr) | 3:38 |
-| 14 | [Decir Adiós](https://open.spotify.com/track/66U8FfBAkIIDdRbYDHaHS8) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Libre](https://open.spotify.com/album/68FFuQiwhIsrtH32l5TyWe) | 3:52 |
+| 13 | [Triciclo Perú](https://open.spotify.com/track/5LD3MwyqMqQ2nV1ZWhvFQ7) | [Los Mojarras](https://open.spotify.com/artist/1q7dN4c3Py4QbovlM01xYX) | [Los Mojarras: Rock Urbano](https://open.spotify.com/album/2yLZIIwUXTeGGAbNT22eXM) | 3:38 |
+| 14 | [Decir Adiós](https://open.spotify.com/track/1snT64YtuTvZYVzuornRjw) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Libre](https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH) | 3:52 |
 | 15 | [Me Resfrié en Brasil](https://open.spotify.com/track/6owthHOJo06koXPXe7xBG9) | [Arena Hash](https://open.spotify.com/artist/4AGALQQLo0S46FUlhJ25V0) | [Peruvian Rock Anthology: Original Masterpieces, Vol\. 3 \(1993 \- 2001\)](https://open.spotify.com/album/4NptflPTkngrCanK5RZb2Y) | 3:47 |
 | 16 | [Nuestro Viejo Hotel](https://open.spotify.com/track/12ybnfIatnLWEC2S6BYmas) | [Plutonio de Alto Grado](https://open.spotify.com/artist/5E1vOnaDVuBXGt21yY7f01) | [Nuestro Viejo Hotel](https://open.spotify.com/album/5jSoD1MdnqYhfjU5tUyDIJ) | 3:32 |
 | 17 | [La Chata](https://open.spotify.com/track/3jzpdDnLaQcsuGCw4JwVYS) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Infectado](https://open.spotify.com/album/2zAl9NEyqqhmupC1MFtlHK) | 3:26 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca9fdfkadHF.md) - [plain]
 | 21 | [Travesti](https://open.spotify.com/track/7mP7CSPnMOgiB4TFzN7QaM) | [Sangre Púrpura](https://open.spotify.com/artist/0iCm5J3ki7zYRKNaGB72hN) | [Lo Mejor](https://open.spotify.com/album/5UmHPpAm1Dn6l2m3poazi9) | 4:00 |
 | 22 | [Carreteras Mojadas](https://open.spotify.com/track/6UKI8gr3zCJmKBEp0iHrFS) | [Christian Meier](https://open.spotify.com/artist/3OgfCHk8YwaZ7NjQHbL4f3) | [No Me Acuerdo Quién Fui](https://open.spotify.com/album/6T0Ekn1CIDccf5CbDRfHkF) | 4:29 |
 | 23 | [La Universidad \(cosa de Locos\)](https://open.spotify.com/track/2uWpNusYG5sEpvGNmOr03P) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Lo Peor de Todo \(Remasterizado\)](https://open.spotify.com/album/6yupnkuEaW58l51gic72Cb) | 3:36 |
-| 24 | [Sin Parar](https://open.spotify.com/track/4NpcGehrYPDq0KcbGMQqTz) | [Ivonne & Los Mercantiles](https://open.spotify.com/artist/3joRWlQtbK3sxnIKE3zIRM) | [Crónicas del Rock Peruano, Vol\. 3](https://open.spotify.com/album/2ym9M1mJ2SapuBYjjcs1jd) | 3:59 |
+| 24 | [Sin Parar](https://open.spotify.com/track/2URrkcVRi83IC3slwFyOqv) | [Ivonne & Los Mercantiles](https://open.spotify.com/artist/3joRWlQtbK3sxnIKE3zIRM) | [Crónicas del Rock Peruano, Vol\. 3](https://open.spotify.com/album/5HLcA82W29prT29qKbdbUx) | 3:59 |
 | 25 | [Alquien Que Bese Como Tu](https://open.spotify.com/track/3yX13QX2pqJP55Q0Tg8Pm5) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Degeneracion Actual](https://open.spotify.com/album/6uvZ1iuFftQCFX3xuzbGJx) | 6:06 |
 | 26 | [Alguien](https://open.spotify.com/track/6wl1FWjnroEtgqLqDXHvEa) | [Christian Meier](https://open.spotify.com/artist/3OgfCHk8YwaZ7NjQHbL4f3), [Gian Marco](https://open.spotify.com/artist/2gDqGAadPIPiA7LtmNn74g) | [Nada Ha Cambiado](https://open.spotify.com/album/1Sr4cN3rBHYHAwmBl2gzfD) | 4:22 |
 | 27 | [Dime Cuantas Veces](https://open.spotify.com/track/6z0eMk6Xa8Mx7AjhydUOZ2) | [Fuera del Resto](https://open.spotify.com/artist/7v5UtTSIrVtQneJY6EK0r7), [Daniella Saettone](https://open.spotify.com/artist/48RFZr0AZskIbjRBmZhx72) | [Fuera del Resto](https://open.spotify.com/album/00pt8qwh9djWy5oGJDoK4A) | 4:48 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca9fdfkadHF.md) - [plain]
 | 38 | [Si Me Dejas Ahora](https://open.spotify.com/track/0Bbk8jjpxm9XllmcLAeLaH) | [Los Trece Baladas](https://open.spotify.com/artist/4GLu0ai9hvNL68OEgIj6KX) | [Lo Que un Día Fue..\. No Será](https://open.spotify.com/album/1sh7DEeT2lk832ABzr0EWN) | 3:36 |
 | 39 | [La peor de las guerras \- Remastered](https://open.spotify.com/track/67SdBqjGew9i3eKeiF14Ie) | [La Liga del Sueño](https://open.spotify.com/artist/0K1keFZ7bOlTIGX1p3APB2) | [Por Tierra \(Remastered\)](https://open.spotify.com/album/3mC1bT6CET5GCB74NbK9sZ) | 3:47 |
 | 40 | [Máquina](https://open.spotify.com/track/1OTgiJYTDcXxp4KFeNzmgh) | [Cuchillazo](https://open.spotify.com/artist/2PUyeJkrdcOntByKHmnKtv) | [DÍas Negros](https://open.spotify.com/album/3PEirdybTes0NQVNKlKzEv) | 2:50 |
-| 41 | [Gracias](https://open.spotify.com/track/0FFeZk78Oi8QkfwvJbvrAP) | [Chachi Luján](https://open.spotify.com/artist/7y0peWaS8foIWpoTuLfO1Y) | [Crónicas del Rock Peruano, Vol\. 3](https://open.spotify.com/album/2ym9M1mJ2SapuBYjjcs1jd) | 3:49 |
+| 41 | [Gracias](https://open.spotify.com/track/0ECtfhLKp1wB7q67bwgUSi) | [Chachi Luján](https://open.spotify.com/artist/7y0peWaS8foIWpoTuLfO1Y) | [Crónicas del Rock Peruano, Vol\. 3](https://open.spotify.com/album/5HLcA82W29prT29qKbdbUx) | 3:49 |
 | 42 | [Personalidad](https://open.spotify.com/track/2UO1BZ44RhM74qv13PCixW) | [Jas](https://open.spotify.com/artist/47nHIKTmZwcDtIOaSflgPZ) | [Mueres en Tu Ley](https://open.spotify.com/album/16m1xehdAu0dlKIrWeXuEw) | 3:12 |
 | 43 | [Pronóstico Reservado](https://open.spotify.com/track/0r3r6idica0ZQMUPOzO6w0) | [La Banda Azul](https://open.spotify.com/artist/6egHTp2ACHZXellZBMPXGS) | [Peruvian Rock Anthology: Original Masterpieces, Vol\. 2 \(1982\-1992\)](https://open.spotify.com/album/0sKdSlr1ui53Ar4hX71Ntd) | 2:50 |
 | 44 | [Equidistante](https://open.spotify.com/track/6Cdr1voGvpaY2LWXwXKXfL) | [TK](https://open.spotify.com/artist/2Fyl2R5qMxAPabuAlQEn6l) | [Equidistante](https://open.spotify.com/album/6RNPd8DKJsW3NJX2OHprcf) | 4:39 |
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca9fdfkadHF.md) - [plain]
 | 46 | [Tus Alas Caerán](https://open.spotify.com/track/47RPhZOsbbgeSugavCkqtT) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [\[Campo De Almas\]](https://open.spotify.com/album/7vecFaeShbkNnkYshP8EgC) | 5:40 |
 | 47 | [El Hombre Que Quería Ser un Arbol](https://open.spotify.com/track/2MxQZWdX4CVshx2L9WTj7L) | [Rafo Raez y los Paranoias](https://open.spotify.com/artist/481gdbLADpe8TGkv8Td4a5) | [Camisa](https://open.spotify.com/album/3o3jj7LXcJ8JZj46Eti6eu) | 3:51 |
 | 48 | [Clon](https://open.spotify.com/track/3UGyNybOojLXwEWEjC4h42) | [Huelga de hambre](https://open.spotify.com/artist/5HBq2CbvH0j3HsbTSD7ySQ) | [Máquina y Espíritu](https://open.spotify.com/album/2HYHSHyjYiInfqgPshmkLI) | 5:00 |
-| 49 | [Quién Me Entiende](https://open.spotify.com/track/1w2xzpR1rJiwpla80cwTP3) | [Calle Sexta](https://open.spotify.com/artist/1hVQbWUjkv6qGzQQ59Dvui) | [Más Peruanos Que el Rock, Vol\. 2](https://open.spotify.com/album/7iEEgIff9HCNt7LkweBlMj) | 3:22 |
+| 49 | [Quién Me Entiende](https://open.spotify.com/track/2jHCuQ38CWKqSMUAH5jlp1) | [Calle Sexta](https://open.spotify.com/artist/1hVQbWUjkv6qGzQQ59Dvui) | [Más Peruanos Que el Rock, Vol\. 2](https://open.spotify.com/album/7nFEFppkVpb6SYDDnBFqjJ) | 3:20 |
 | 50 | [Solo estoy](https://open.spotify.com/track/60VYMG9lj4p8WfDTFZXEOZ) | [Los York's](https://open.spotify.com/artist/5fOfpeBPZeyWDHPOHA8UY5) | [68](https://open.spotify.com/album/5zMLdhfL7vQOKvofoU4Z7R) | 4:40 |
-| 51 | [Oirán Tu Voz, Oirán Nuestra Voz](https://open.spotify.com/track/7xU6yVm80QPyNa4tTdEeri) | [Leusemia](https://open.spotify.com/artist/37OPn98RccfMVIfzK9bYO1) | [Más Peruanos Que el Rock, Vol\. 2](https://open.spotify.com/album/7iEEgIff9HCNt7LkweBlMj) | 3:39 |
+| 51 | [Oirán Tu Voz, Oirán Nuestra Voz](https://open.spotify.com/track/50MinBuDveXXwAagB1wtC1) | [Leusemia](https://open.spotify.com/artist/35BTdhvVMG0JrhFriUiT0U) | [Más Peruanos Que el Rock, Vol\. 2](https://open.spotify.com/album/7nFEFppkVpb6SYDDnBFqjJ) | 3:35 |
 | 52 | [Otra Mejor Que Tú](https://open.spotify.com/track/5gUp2GYPSZulV3q5ilvY7a) | [Los Datsuns](https://open.spotify.com/artist/7mLWJvI7Qjetu2WJZbz96L) | [Ritmo y Movimiento Con los Datsun´s](https://open.spotify.com/album/3OzwNkPFtLV2Mytl1f5Oc4) | 2:41 |
 | 53 | [Soledad](https://open.spotify.com/track/0bYlL7XNEvLC34f53mmqEO) | [Indigo](https://open.spotify.com/artist/4Hy7H79rnIljAwnwDtislK) | [Indigo](https://open.spotify.com/album/10PdZeHhCFhOekUFsuNHlM) | 3:43 |
 | 54 | [Gris](https://open.spotify.com/track/1xDTqhyb1FhvhCGjcaW6j5) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Adicción](https://open.spotify.com/album/4OT78VlrNDMDDwMCnD1pbv) | 3:18 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca9fdfkadHF.md) - [plain]
 | 59 | [Confusión](https://open.spotify.com/track/6SiQcAM3WKVf9eP2WQZ0Ok) | [Zen](https://open.spotify.com/artist/2sEmBklSbXkHge8Bx8zQzF) | [Confusión](https://open.spotify.com/album/39JBhk7OBHt3Zv61nZcFte) | 2:46 |
 | 60 | [Los Finos](https://open.spotify.com/track/2VZF5V2UtGkcxVsynxLxoE) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [2020](https://open.spotify.com/album/2XXSSuTZwjCGyI0yshXmJv) | 4:08 |
 
-Snapshot ID: `MTY0ODc4OTIwMCwwMDAwMDAwMGRkYTM3NDlmOGQ5OWE0MDlmMjcwNTJmZGE0OTJlM2Vi`
+Snapshot ID: `MTY0ODc4OTIwMCwwMDAwMDAwMDA3OTJkMWM5YzRkODYzNzMwOTkwZGUyNmRlYzQ2NTQ1`

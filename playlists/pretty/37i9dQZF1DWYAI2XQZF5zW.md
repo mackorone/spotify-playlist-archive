@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAI2XQZF5zW.md) - [plain]
 
 > Reggae music for dogs that know what’s up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,571 likes - 52 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,749 likes - 52 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAI2XQZF5zW.md) - [plain]
 | 7 | [Satisfaction](https://open.spotify.com/track/20y4i5i8JBwrlre86Om8W9) | [Carl Dawkins](https://open.spotify.com/artist/3VNBXif3AigGxlbXUTrS72) | [Mr Satisfaction \(1966\-1976\)](https://open.spotify.com/album/7Fjj7aplwBum9ytDUuVqdG) | 1:49 |
 | 8 | [Life](https://open.spotify.com/track/2OW7O0i5KH33BUiDod0gve) | [Bob Andy](https://open.spotify.com/artist/6GFAZnwXhNER0WS76WMpS4) | [Pied Piper \- The Best of Bob & Marcia](https://open.spotify.com/album/0G2bhhYFafOJExUbKOVcsA) | 3:42 |
 | 9 | [Love Overdue](https://open.spotify.com/track/0ClaCaTK8BdOSsP4FZbkio) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Love Overdue](https://open.spotify.com/album/4Gf8tEQ1cRQq9qnErm0TfA) | 3:27 |
-| 10 | [Rubble Rebel \(Champion\)](https://open.spotify.com/track/0eocMORTMwuO5wKYWGGSS1) | [Walshy Fire](https://open.spotify.com/artist/3yJLZoq3Ra2VmSW5teVgih), [The Expanders](https://open.spotify.com/artist/6TofIIqBhodHJAZU6vh9sT), [Randy Valentine](https://open.spotify.com/artist/6qPjo0iKI9TQoc4vlCzYk1) | [Walshy Fire & The Expanders Present Thanks For Life](https://open.spotify.com/album/46q2lXA0bm74ijORjFxTer) | 4:32 |
+| 10 | [Rubble Rebel \(Champion\)](https://open.spotify.com/track/4Z5n21KUp7pcMVMaRS4ntJ) | [Walshy Fire](https://open.spotify.com/artist/3yJLZoq3Ra2VmSW5teVgih), [The Expanders](https://open.spotify.com/artist/6TofIIqBhodHJAZU6vh9sT), [Randy Valentine](https://open.spotify.com/artist/6qPjo0iKI9TQoc4vlCzYk1) | [Walshy Fire & The Expanders Present Thanks For Life](https://open.spotify.com/album/0fl9DMj0gxIiueUMgPNZ7i) | 4:32 |
 | 11 | [My Conversation](https://open.spotify.com/track/5pcn42rKqM1RqI2VAERxwA) | [The Uniques](https://open.spotify.com/artist/1EV3e39He1WLxcD1EjluLb) | [The Best of Trojan Rock Steady Vol\. 1](https://open.spotify.com/album/1twlPYFf3w3BahM5p8KGtg) | 3:28 |
 | 12 | [Three Little Birds](https://open.spotify.com/track/75FYqcxt1YEAtqDLrOeIJn) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:00 |
 | 13 | [Heaven In Her Eyes](https://open.spotify.com/track/3wxiErKtQ7sJr3nRKJf53S) | [Gappy Ranks](https://open.spotify.com/artist/4rkmaLySgI7sl9cKfJ3tT8) | [The Biggest Reggae One\-Drop Anthems 2009](https://open.spotify.com/album/5PflSb21RJ8rz40LcdKeOx) | 3:47 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAI2XQZF5zW.md) - [plain]
 | 51 | [Red Sea Dub](https://open.spotify.com/track/4wzt08huSyrWQUfakVmguR) | [Dub Syndicate](https://open.spotify.com/artist/4KIjA6Q0lA17xuBwA5KkW4) | [Displaced Masters](https://open.spotify.com/album/3Y4wUVWxTixI0xaj5u08yv) | 4:41 |
 | 52 | [It Mek](https://open.spotify.com/track/6JqjhpgxgoCYSBQ4PzIEn9) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe), [ACES](https://open.spotify.com/artist/1tLdsPvBpCxjtTTWq3KklG) | [Intensified](https://open.spotify.com/album/1QRSVAqC4M1HQGb8P1B6Cy) | 2:32 |
 
-Snapshot ID: `MTU3ODYzMjQ2MCwwMDAwMDAwMDJjNzRkNTdkNmUyYTIxNGY3ODczNGMzNGFkYWMwZTc3`
+Snapshot ID: `MTU3ODYzMjQ2MCwwMDAwMDAwMDI4NDVlNTBhZDhkYjYzYTUyMmE1NDcwZmJjMjlhNzI1`

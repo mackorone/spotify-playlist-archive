@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-10-12",
       "duration_ms": 192039,
       "name": "45 (A Matter Of Time)",
       "url": "https://open.spotify.com/track/5oOphgtp0ZhMfYz3HpnMyU"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 279960,
       "name": "88",
       "url": "https://open.spotify.com/track/3IHyZQILPYl3cgFEu1TJSJ"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": null,
       "duration_ms": 198358,
       "name": "A Death In The Family",
       "url": "https://open.spotify.com/track/27zeUYNVuXG5kXlPvS2Wod"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 256706,
       "name": "Blood In My Eyes",
       "url": "https://open.spotify.com/track/6sfU2LwBKxjbukPZnUbGtt"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 232173,
       "name": "Dear Father",
       "url": "https://open.spotify.com/track/4KtFCX32H4sBAIlRL4G96x"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 164383,
       "name": "Eat You Alive",
       "url": "https://open.spotify.com/track/2rvgD5mWMVTRq1k5ycgkdj"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 66693,
       "name": "Grab The Devil By The Horns And **** Him Up The ***",
       "url": "https://open.spotify.com/track/3n587eraSHnJmCsgQOCVca"
@@ -570,6 +570,24 @@
     },
     {
       "album": {
+        "name": "Chuck",
+        "url": "https://open.spotify.com/album/1aG8QbhABVtVxNlAkk8VBW"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164986,
+      "name": "Open Your Eyes",
+      "url": "https://open.spotify.com/track/3wl4ZUBsuH7n2lsW4WjU05"
+    },
+    {
+      "album": {
         "name": "Order In Decline",
         "url": "https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD"
       },
@@ -736,6 +754,24 @@
     },
     {
       "album": {
+        "name": "Underclass Hero",
+        "url": "https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238693,
+      "name": "Speak Of The Devil",
+      "url": "https://open.spotify.com/track/3zdg1IMqKog1YNRpTjKDOB"
+    },
+    {
+      "album": {
         "name": "Does This Look Infected?",
         "url": "https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8"
       },
@@ -837,7 +873,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 230184,
       "name": "The New Sensation",
       "url": "https://open.spotify.com/track/66rEcw8rK6iCc0UesDdqxs"
@@ -855,7 +891,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 199460,
       "name": "The People Vs\u2026",
       "url": "https://open.spotify.com/track/2oWGNem9V4PhlpIbRclo8a"
@@ -873,7 +909,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 181480,
       "name": "Time For You To Go",
       "url": "https://open.spotify.com/track/4YZcr09gdEqBN43BS5kAVR"
@@ -895,6 +931,24 @@
       "duration_ms": 230806,
       "name": "Turning Away",
       "url": "https://open.spotify.com/track/4y6UbERZs3PZ0qsPYqe0Cq"
+    },
+    {
+      "album": {
+        "name": "13 Voices",
+        "url": "https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 328986,
+      "name": "Twisted By Design",
+      "url": "https://open.spotify.com/track/2Tqp1sFnq5GpPHsUVjcdnE"
     },
     {
       "album": {
@@ -999,7 +1053,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-10-13",
       "duration_ms": 169493,
       "name": "What I Believe",
       "url": "https://open.spotify.com/track/25aUn2fekP8MN2y4WcseVL"

@@ -323,7 +323,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-27",
+      "date_removed": null,
       "duration_ms": 241690,
       "name": "Glass",
       "url": "https://open.spotify.com/track/5rXek3NJpCQfJxOjaKrj6j"
@@ -533,7 +533,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 288693,
       "name": "If You Comeback",
       "url": "https://open.spotify.com/track/7A8iC2yCrq39b2DKej9ek1"
@@ -591,6 +591,24 @@
       "duration_ms": 234633,
       "name": "It's Over",
       "url": "https://open.spotify.com/track/47PAgx8nAijlmCdJtiq2iE"
+    },
+    {
+      "album": {
+        "name": "Joah",
+        "url": "https://open.spotify.com/album/0cCge5MT23HTVlPi7bEAKU"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2021-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 228102,
+      "name": "Joah",
+      "url": "https://open.spotify.com/track/2occELokWRfqLIlQJhJLZ6"
     },
     {
       "album": {
@@ -783,7 +801,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": "2022-11-13",
       "duration_ms": 301026,
       "name": "Love Ballad",
       "url": "https://open.spotify.com/track/1HUPqjUMF7m1qShIn1bDw9"
@@ -1184,6 +1202,24 @@
     },
     {
       "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/5MMfcCtX95tz8c9C0z8cMw"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2021-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 263644,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/03v7Yf6BkYE0FZdsXevcMT"
+    },
+    {
+      "album": {
         "name": "Crush on You",
         "url": "https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY"
       },
@@ -1549,7 +1585,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-15",
       "duration_ms": 337946,
       "name": "\uadf8\ub300 \ub5a0\ub09c \ub4a4 (with \ube0c\ub77c\uc6b4 \uc544\uc774\ub4dc \uc18c\uc6b8)",
       "url": "https://open.spotify.com/track/6HkeCtEHZSDReE5EEvjv2J"
@@ -1751,14 +1787,14 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-10",
+      "date_removed": "2022-11-12",
       "duration_ms": 222400,
       "name": "\ubd88\uce58\ubcd1 (Feat.Masta Wu)",
       "url": "https://open.spotify.com/track/6HTz1xXLag7pyVlzsXrItU"
     },
     {
       "album": {
-        "name": "Reasons 4 Breathing",
+        "name": "Reason 4 breathing?",
         "url": "https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa"
       },
       "artists": [
@@ -1805,10 +1841,28 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 270240,
       "name": "\uc548\ub418\ub098\uc694",
       "url": "https://open.spotify.com/track/52JY05Ks2OsY3NQ3wjI9s1"
+    },
+    {
+      "album": {
+        "name": "Like A Movie",
+        "url": "https://open.spotify.com/album/71bHxIobu3Ib3oSL3A4jKj"
+      },
+      "artists": [
+        {
+          "name": "Realslow",
+          "url": "https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn"
+        }
+      ],
+      "date_added": "2021-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270240,
+      "name": "\uc548\ub418\ub098\uc694",
+      "url": "https://open.spotify.com/track/7JXQOKFhZ0h8VrYdWbwM8F"
     },
     {
       "album": {
@@ -1992,7 +2046,7 @@
     },
     {
       "album": {
-        "name": "Reasons 4 Breathing",
+        "name": "Reason 4 breathing?",
         "url": "https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa"
       },
       "artists": [

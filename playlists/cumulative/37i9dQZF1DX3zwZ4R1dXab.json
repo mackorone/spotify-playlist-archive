@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "Days of Tomorrow",
+        "url": "https://open.spotify.com/album/7J0vzQvMdrRP04BNHge7pH"
+      },
+      "artists": [
+        {
+          "name": "Penny Layn",
+          "url": "https://open.spotify.com/artist/5vdwMnlyiOSVdpoabkKwjy"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 166800,
+      "name": "Alteration For Life",
+      "url": "https://open.spotify.com/track/3T8EFeyuU6WEKgF4tpggDd"
+    },
+    {
+      "album": {
         "name": "Another Life",
         "url": "https://open.spotify.com/album/1lBJzs7vKo2p5HL78MpvPD"
       },
@@ -585,7 +603,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 142030,
       "name": "m4a",
       "url": "https://open.spotify.com/track/0p1dvFjInHmk6nUparv5dk"
@@ -805,6 +823,24 @@
       "duration_ms": 153000,
       "name": "Papperssvalan",
       "url": "https://open.spotify.com/track/537FP4rNU5SILZ5uWF2zDi"
+    },
+    {
+      "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/0v94JSSqZJG235UT7MX2ZB"
+      },
+      "artists": [
+        {
+          "name": "Augusta Winslow",
+          "url": "https://open.spotify.com/artist/6Wn5qwb2t9rkoewfpdAp8z"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 183659,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/013eYaVKpTVsX41dEPSFt8"
     },
     {
       "album": {
@@ -1060,6 +1096,24 @@
     },
     {
       "album": {
+        "name": "Silverstar",
+        "url": "https://open.spotify.com/album/5bIFCJp1sNpoik82ui7CUE"
+      },
+      "artists": [
+        {
+          "name": "Elm Lake",
+          "url": "https://open.spotify.com/artist/5PWrgM1uXWZwpK2rIQtX36"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128759,
+      "name": "Silverstar",
+      "url": "https://open.spotify.com/track/5Gcrk6EV2cErGfyBsz9sVF"
+    },
+    {
+      "album": {
         "name": "Sleeping Beauty",
         "url": "https://open.spotify.com/album/259LOCwtmWn8iDUzgNle8K"
       },
@@ -1291,6 +1345,24 @@
       "duration_ms": 480106,
       "name": "Weightless",
       "url": "https://open.spotify.com/track/6kkwzB6hXLIONkEk9JciA6"
+    },
+    {
+      "album": {
+        "name": "Chill Jazz Hits",
+        "url": "https://open.spotify.com/album/2E2May9swmlrRnKNBi3YLJ"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 137986,
+      "name": "What A Wonderful World",
+      "url": "https://open.spotify.com/track/6qijYphfXANswOiReTbTm6"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Get your kid's day started with these high\-energy songs in English and Spanish!
 
-66 songs - 3 hr 4 min - [published](https://open.spotify.com/playlist/1OgpPyML5myLe45yi0Ja1t)
+69 songs - 3 hr 12 min - [published](https://open.spotify.com/playlist/1OgpPyML5myLe45yi0Ja1t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,9 @@
 | [Baby Love](https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Where Did Our Love Go](https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV) | 2:38 | 2020-04-22 |  |
 | [Baby Shark](https://open.spotify.com/track/571Jz87ytvwTv205mToeaG) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong Presents: The Best of Baby Shark](https://open.spotify.com/album/3QzOkjbkCXewXdy8VuZQan) | 1:24 | 2020-04-22 |  |
 | [Best Day \(Angry Birds 2 Remix\)](https://open.spotify.com/track/2eh4qe6wmq7he6O76CS0o3) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Best Day \(Angry Birds 2 Remix\)](https://open.spotify.com/album/5x9vJFGBCTnxu8gcG4xoTd) | 2:59 | 2020-04-22 |  |
-| [Bop!](https://open.spotify.com/track/0mDH8XQRpQUGkXXZzYAyu0) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Bop!](https://open.spotify.com/album/0c3hmNiRxvBihY6naTLgE9) | 2:36 | 2020-04-22 |  |
+| [Bop!](https://open.spotify.com/track/0BGNXAcQi4cUN5Nbjf4Jn6) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Bop!](https://open.spotify.com/album/4EB3X4HFVCptX7k6raTtkt) | 2:36 | 2020-04-22 |  |
+| [Bop!](https://open.spotify.com/track/0mDH8XQRpQUGkXXZzYAyu0) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Bop!](https://open.spotify.com/album/0c3hmNiRxvBihY6naTLgE9) | 2:36 | 2020-04-22 | 2022-10-13 |
+| [Bop!](https://open.spotify.com/track/3Q1gQYEuz3jXyUXgSkimGH) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Bop!](https://open.spotify.com/album/2mkXqWgvcHVNM2Vy6kHH2R) | 2:36 | 2020-04-22 | 2022-11-24 |
 | [Boy With Luv \(feat\. Halsey\)](https://open.spotify.com/track/4a9tbd947vo9K8Vti9JwcI) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [MAP OF THE SOUL : PERSONA](https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6) | 3:49 | 2020-04-22 |  |
 | [Boy With Luv \(feat\. Halsey\)](https://open.spotify.com/track/5KawlOMHjWeUjQtnuRs22c) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [MAP OF THE SOUL : PERSONA](https://open.spotify.com/album/1AvXa8xFEXtR3hb4bgihIK) | 3:49 | 2020-04-22 | 2022-07-29 |
 | [Building a Dream](https://open.spotify.com/track/1sLgiPnlaqrss17wqCsOKN) | [Cast \- Mickey and the Roadster Racers](https://open.spotify.com/artist/5YMR2MRTB2gJtx6YXjpclk) | [Mickey and The Roadster Racers: Disney Junior Music](https://open.spotify.com/album/3HyWs0pXZXUsLsLBDGhNzH) | 0:46 | 2020-04-22 |  |
@@ -52,6 +54,7 @@
 | [Mejor Que Nunca](https://open.spotify.com/track/3j8UCyZD0yChDRLfxXWbp6) | [The Rainbooms](https://open.spotify.com/artist/3MnwdfA9wrbcQ2UKWoTC7n) | [Rainbow Rocks \(Español / Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2W74jMDVFSCjMOK5noYM5U) | 1:35 | 2020-04-22 |  |
 | [Move Your Feet / D.A.N.C.E\. / It's A Sunshine Day](https://open.spotify.com/track/6d3edMXJpns1A0zGKkmlGw) | [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [James Corden](https://open.spotify.com/artist/5E17eRqSfn08FsmvNCds0P), [Ron Funches](https://open.spotify.com/artist/5auLWD3XT6p3im19G2cLhP), [Walt Dohrn](https://open.spotify.com/artist/4hWc4epxTdb1KC3jRd1wDd), [Caroline Hjelt](https://open.spotify.com/artist/0XF3yeiKSQF2zl5H05jfME), [Aino Jawo](https://open.spotify.com/artist/6aIcl5XVRwk32v6hc7lDyV), [Kunal Nayyar](https://open.spotify.com/artist/4po5m4plDQk01gLzTcCMfA) | [TROLLS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7) | 2:36 | 2020-04-22 |  |
 | [No te rindas](https://open.spotify.com/track/4vIzS1STrc4zIcQxYItAbT) | [Elenco Junior Express](https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h) | [Porque yo te quiero](https://open.spotify.com/album/3jCec881nyRs6s5w0uHr9R) | 2:13 | 2020-04-22 |  |
+| [One Love \- Medley](https://open.spotify.com/track/2V2by56rK60UxMHPtG02OJ) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Marley \(The Original Soundtrack\)](https://open.spotify.com/album/1lBmb7nfOeFqTDN6gQLFMx) | 2:52 | 2020-04-22 | 2022-11-13 |
 | [One Love / People Get Ready \- Medley](https://open.spotify.com/track/2HcyIzVsX45jLIxK7SH2aI) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus \(Deluxe Edition\)](https://open.spotify.com/album/1vHvJVBK0WnpbYFw4f4UTD) | 2:52 | 2020-04-22 | 2022-07-29 |
 | [One Love / People Get Ready \- Medley](https://open.spotify.com/track/6SR0dDuXH2vtgBfMLrivKV) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 2:52 | 2020-04-22 |  |
 | [Pobres los Ricos](https://open.spotify.com/track/305kI6tQRUAOhhWrxS955J) | [Floricienta](https://open.spotify.com/artist/7dtC84FkhalFSKToofOdOv) | [Grandes Éxitos](https://open.spotify.com/album/40ibA4EEknEKKs9yQjNsSM) | 3:18 | 2020-04-22 |  |

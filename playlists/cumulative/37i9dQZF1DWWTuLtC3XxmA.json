@@ -977,7 +977,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 192772,
       "name": "I Saw Three Ships",
       "url": "https://open.spotify.com/track/3A6vKBC4EV4LKOY8QKgUtP"
@@ -995,7 +995,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 192772,
       "name": "I Saw Three Ships",
       "url": "https://open.spotify.com/track/6VzAK6UZ7kjw8KssxOMwzP"
@@ -2007,7 +2007,7 @@
     {
       "album": {
         "name": "Today Is Christmas",
-        "url": "https://open.spotify.com/album/2P4jHpHDEBsvnHN1htI824"
+        "url": "https://open.spotify.com/album/4p1Qw5G8LHuiV7Iz1cAyAj"
       },
       "artists": [
         {
@@ -2022,6 +2022,28 @@
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 292826,
+      "name": "That Spirit of Christmas",
+      "url": "https://open.spotify.com/track/5qCRwHgVObT892gl0hH0Kj"
+    },
+    {
+      "album": {
+        "name": "Today Is Christmas",
+        "url": "https://open.spotify.com/album/2P4jHpHDEBsvnHN1htI824"
+      },
+      "artists": [
+        {
+          "name": "LeAnn Rimes",
+          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
+        },
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
       "duration_ms": 292827,
       "name": "That Spirit of Christmas",
       "url": "https://open.spotify.com/track/13lde8UEEgE4GRTagH2paS"

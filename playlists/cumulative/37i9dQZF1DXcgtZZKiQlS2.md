@@ -4,7 +4,7 @@
 
 > The best of Detroit Blues
 
-47 songs - 3 hr 12 min - [published](https://open.spotify.com/playlist/0vDnBzMRT6DKANzb3EBCnw)
+48 songs - 3 hr 15 min - [published](https://open.spotify.com/playlist/0vDnBzMRT6DKANzb3EBCnw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Bacon Fat](https://open.spotify.com/track/0WGgptxgDjLKWbOELHKtjx) | [Andre Williams](https://open.spotify.com/artist/4mmEKUZZBwnzg4m6hizPyN) | [The Okeh Rhythm & Blues Story 1949\-1957](https://open.spotify.com/album/6U4RdMRAljDPCe7T6jMPuU) | 3:02 | 2020-10-13 | 2022-08-28 |
 | [Bacon Fat](https://open.spotify.com/track/1mjWWueEwPbTd0NOorW0Wf) | [Andre Williams](https://open.spotify.com/artist/4mmEKUZZBwnzg4m6hizPyN) | [Fortune of Hits \(1955\-1960\)](https://open.spotify.com/album/4450CcX2Nl7CIcvYJfaJdG) | 3:03 | 2020-10-13 |  |
 | [Bacon Fat](https://open.spotify.com/track/4BsXBCfVNwNyIrDsOPqtFu) | [Andre Williams](https://open.spotify.com/artist/4mmEKUZZBwnzg4m6hizPyN) | [Fortune of Hits \(1955\-1960\)](https://open.spotify.com/album/2CwjiY3ksRTlDh1PZ7KL2U) | 3:03 | 2020-10-13 | 2022-07-29 |
+| [Bacon Fat](https://open.spotify.com/track/0SSzWxy7ddDtIwuhQ8bFqp) | [Andre' Williams](https://open.spotify.com/artist/1e1BLIWpSbtzNoDCOLxQny) | [Rock'n'Roll Boogie, Vol.2](https://open.spotify.com/album/5l8CBFtwzGHEK09UMwZK7f) | 3:03 | 2020-10-13 | 2022-11-13 |
 | [Boogie Chillen](https://open.spotify.com/track/5oyKFxTeInGiLn7MVTqmMR) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Hooker](https://open.spotify.com/album/3QSRtkfas8Gr0vDByhFvkE) | 3:09 | 2020-10-13 | 2022-07-29 |
 | [Boogie Chillen](https://open.spotify.com/track/7mNFrf8IfgaWMFCz64CtK4) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [King Of The Boogie](https://open.spotify.com/album/397nqvmmvM4MhJwL3Opf9F) | 3:09 | 2020-10-13 |  |
 | [Chains Of Love](https://open.spotify.com/track/02dGchMLatXsSM6B8IUaXc) | [Alberta Adams](https://open.spotify.com/artist/0Hy7IqUHfhyTf0asGNf9mw) | [Detroit's Queen Of The Blues](https://open.spotify.com/album/3F2QOyq76zLPL9zriSWVMz) | 6:54 | 2020-10-13 |  |

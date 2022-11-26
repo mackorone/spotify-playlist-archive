@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3QkuBdPimxi.md) - [plain]
 
 > Gather 'round and enjoy these far out songs about outer space.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187 likes - 82 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 217 likes - 82 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3QkuBdPimxi.md) - [plain]
 | 15 | [Interplanet Janet](https://open.spotify.com/track/1XEnnBPMXN8T8F4e3hxirH) | [The Little Singers](https://open.spotify.com/artist/54lKNxLWNrcvMNeEbVig4f) | [Interplanet Janet: Classic Children's Songs](https://open.spotify.com/album/5u8sR0sWOyzpRlPxQahT6o) | 3:01 |
 | 16 | [Zoom, Zoom, Zoom, We're Going to the Moon!](https://open.spotify.com/track/3IprSDFbAfrT2zPZeHuV09) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Top 30 Baby Songs](https://open.spotify.com/album/5Obb6WdYPpNErfM33fcrn0) | 1:33 |
 | 17 | [Queen of Mars](https://open.spotify.com/track/7LB4T082nXFbqlvQhS7Khj) | [Candace](https://open.spotify.com/artist/0zAjE3KMGAsizj1VNhYPxf) | [Phineas and Ferb](https://open.spotify.com/album/1mwUxOieg2GvQn4wm5bJR1) | 1:22 |
-| 18 | [The Planet Song](https://open.spotify.com/track/6DtCLXr3cJedQzhZfutgfL) | [Blue's Clues & You](https://open.spotify.com/artist/40mye8b6PC8ef8GSFgWscG), [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Blue's Sing\-Along Spectacular](https://open.spotify.com/album/4DkCDgZJNNeGRA3xyKYMPQ) | 0:54 |
+| 18 | [The Planet Song](https://open.spotify.com/track/17Mye6NV0OPHiURHOATaw6) | [Blue's Clues & You](https://open.spotify.com/artist/40mye8b6PC8ef8GSFgWscG), [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Blue's Sing\-Along Spectacular](https://open.spotify.com/album/0pxwh5JfIYlY8IGwWnsSGZ) | 0:54 |
 | 19 | [I'm A Star](https://open.spotify.com/track/2ELPm0STSDhcrxaCxbepXy) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Outer Space](https://open.spotify.com/album/08m7XiPnd4Q1qRqZAUB4s4) | 1:24 |
 | 20 | [Star Wars \(Main Theme\)](https://open.spotify.com/track/7a9UUo3zfID7Ik2fTQjRLi) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: The Empire Strikes Back \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/44TnXcUjTIHPBBROepl99a) | 5:46 |
 | 21 | [Space Friends](https://open.spotify.com/track/31GeJjJyIVRNiW9AL8fERw) | [Big Block Singsong](https://open.spotify.com/artist/5wXiTCNvj4JL6cJzQT5Ncp) | [Greatest Hits](https://open.spotify.com/album/4RWxjJqoAP90QbgzkQ3uyg) | 1:51 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3QkuBdPimxi.md) - [plain]
 | 23 | [Mr\. Golden Sun](https://open.spotify.com/track/383D4yT1kW9tp5ibqVSMAH) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Baby Shark & More Kids Songs](https://open.spotify.com/album/2IDfqmrAmsyDA5DnGnQ0Ci) | 2:13 |
 | 24 | [Let's Take a Rocketship to Space](https://open.spotify.com/track/1DAuRdoUEt3wEnhMfkEsiR) | [Danny and the Jaytones](https://open.spotify.com/artist/5lyPgnomDawdy0mnwph5QN) | [Phineas and Ferb](https://open.spotify.com/album/1mwUxOieg2GvQn4wm5bJR1) | 1:05 |
 | 25 | [The Planet Song](https://open.spotify.com/track/5FAI5aAGj7WFKMAdlx904u) | [Hopscotch Songs](https://open.spotify.com/artist/5nJFIxTnnNBh2ZIP3dsk6x), [The Hoover Jam](https://open.spotify.com/artist/2l56XVHFv19M7Z39FO7IjU) | [The Planet Song](https://open.spotify.com/album/3fAbHn7PW6FKA0lzZLpRg0) | 3:51 |
-| 26 | [Spaceman Jam](https://open.spotify.com/track/3P9BePToPpxuz2CbdtmANg) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Licensed to Move](https://open.spotify.com/album/6sLaVAxbWz6DhyemezQY1I) | 2:11 |
+| 26 | [Spaceman Jam](https://open.spotify.com/track/1eNowQzDDCNzlInoAb8ybq) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Licensed to Move](https://open.spotify.com/album/2TFrz8eacV3RaLmzi7yB8v) | 2:11 |
 | 27 | [The Moon Is Made of Cheese](https://open.spotify.com/track/1NmtAaTl4MU6KNE4nGNNBz) | [Danny Weinkauf](https://open.spotify.com/artist/00s1oYBnUz6FlP3sdD6x0u) | [No School Today](https://open.spotify.com/album/6JIv077W4rN7TubzD3PZyw) | 1:44 |
 | 28 | [The Spaceship](https://open.spotify.com/track/4zIdtNbLVru14yBgz1XhKl) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [WALL\-E \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2LhcAFdMWcB49mHSxYrqJT) | 1:41 |
 | 29 | [Gato Astronauta](https://open.spotify.com/track/7yLzLM3vn2XRpAgaB7X5lq) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [Kidz S.T.E.M\. Songz](https://open.spotify.com/album/3nHt4nMlPuCzLFzrhq1Akg) | 2:02 |
@@ -58,10 +58,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3QkuBdPimxi.md) - [plain]
 | 48 | [Poor Planet Pluto](https://open.spotify.com/track/2lpE0810oMsafosumY0icg) | [Eric Ode](https://open.spotify.com/artist/3Edg9oHspeilek2d8tcyOJ) | [Kidz S.T.E.M\. Songz](https://open.spotify.com/album/3nHt4nMlPuCzLFzrhq1Akg) | 3:30 |
 | 49 | [The Space Pirate](https://open.spotify.com/track/0rcCWMbVf1OWxr8s8UpCPY) | [Itty Bitty Beats](https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo), [Brendan Gregg](https://open.spotify.com/artist/07SeRFrWxkk5huOtjsGb42) | [On the Move](https://open.spotify.com/album/2q9qHyWX3z0nBwc45axuS9) | 4:09 |
 | 50 | [Astronaut](https://open.spotify.com/track/6mWRNfxUOCFs5rBU9bNWKK) | [Kyle Riley](https://open.spotify.com/artist/1nRy44nxv0wegKJjswHXPY) | [Sing to Me](https://open.spotify.com/album/7gcMHIKp8ttQCr3CADtEEm) | 2:53 |
-| 51 | [Outer Space](https://open.spotify.com/track/41YAVzlFxFpFxc9nNgY3MH) | [Noggin](https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn) | [Noggin Knows: Songs About the Earth](https://open.spotify.com/album/1bfW16UooYe1XTQHOprGnN) | 0:43 |
+| 51 | [Outer Space](https://open.spotify.com/track/25lvJbARp0FAig2pINGVHj) | [Noggin](https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn) | [Noggin Knows: Songs About the Earth](https://open.spotify.com/album/1CRJMSYV7GBvFNhtVJvLWG) | 0:43 |
 | 52 | [Outer Space](https://open.spotify.com/track/1p5nREmkili6RdJmqi48s3) | [Bobs & Lolo](https://open.spotify.com/artist/23hMSJlSk68cUMqC9tzJv7) | [Connecting the Dots](https://open.spotify.com/album/4JnpN8HzrJ7nK8wNlYMzXG) | 3:29 |
 | 53 | [The Planets](https://open.spotify.com/track/6DH6scB88Eti66PfabXfQ8) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Two](https://open.spotify.com/album/74vPkTi3lT9XeI5lmiKSkr) | 1:50 |
-| 54 | [Blast Off](https://open.spotify.com/track/4F0xpYrQRLxK1aRUKynKtP) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Rock\-O\-Matic](https://open.spotify.com/album/2s0fLhzaaSO4zOlbpA9MOD) | 2:27 |
+| 54 | [Blast Off](https://open.spotify.com/track/0Zg6LqDZxQVzHhDnIeiQ2i) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Rock\-O\-Matic](https://open.spotify.com/album/3xeaFPnwRzHEE7xQYs1P6w) | 2:27 |
 | 55 | [Rocket to the Moon](https://open.spotify.com/track/2jvLbiErAOemdp8oq1gfTA) | [ABC Kids](https://open.spotify.com/artist/6l7J2uM3bM2BCh0tIPhWx8) | [A Rocket to the Moon](https://open.spotify.com/album/7usbIPqIwsVe91YvmJbwpK) | 2:10 |
 | 56 | [Weightless](https://open.spotify.com/track/6CwOrDlnPYPjgjzUUnXzP7) | [Dave Kinnoin](https://open.spotify.com/artist/69BhB3hQDvkfIpiz9KvHD2), [Grin Brigade](https://open.spotify.com/artist/0KnJAi1HoOGnUdKFUfBfK5), [Oliver Kinnoin](https://open.spotify.com/artist/0Qt4CUKOYwqCqKsE4BVLwR) | [Kidz S.T.E.M\. Songz](https://open.spotify.com/album/3nHt4nMlPuCzLFzrhq1Akg) | 3:11 |
 | 57 | [Alien Song](https://open.spotify.com/track/31r6Z0TpaubNBwIiierrvU) | [ITS MUSIC](https://open.spotify.com/artist/3NyP1fZR8VjQF7n3eoZACn) | [Alien Song](https://open.spotify.com/album/1UpBpiojXAGp1v7DOe1klx) | 1:32 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3QkuBdPimxi.md) - [plain]
 | 81 | [Mikey the Marsian](https://open.spotify.com/track/4EyzNFEd8U2fKUyEYOB45N) | [ABC Kids](https://open.spotify.com/artist/6l7J2uM3bM2BCh0tIPhWx8) | [A Rocket to the Moon](https://open.spotify.com/album/7usbIPqIwsVe91YvmJbwpK) | 1:28 |
 | 82 | [I Want to Be an Astronanut](https://open.spotify.com/track/3hCzvS4eN5VyZUtzwQEYjR) | [ABC Kids](https://open.spotify.com/artist/6l7J2uM3bM2BCh0tIPhWx8) | [A Rocket to the Moon](https://open.spotify.com/album/7usbIPqIwsVe91YvmJbwpK) | 1:42 |
 
-Snapshot ID: `MTYzODgwNjA2OCwwMDAwMDAwMDlkMzFkNTA4YmNiYTM4ZTIwZmU2ZGY5MGFjZjhmZDRl`
+Snapshot ID: `MTYzODgwNjA2OCwwMDAwMDAwMGFkOWMxMmFkYzcyN2I3MmQ3MDkzODA3M2NjMDQwMmM1`

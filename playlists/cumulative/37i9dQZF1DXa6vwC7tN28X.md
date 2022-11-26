@@ -4,7 +4,7 @@
 
 > Tangueros \- Rockeros, Rockeros \- Tangueros.
 
-66 songs - 3 hr 59 min - [published](https://open.spotify.com/playlist/3WMriKUyo2CSgT5Sf3Ib9y)
+68 songs - 4 hr 7 min - [published](https://open.spotify.com/playlist/3WMriKUyo2CSgT5Sf3Ib9y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,9 +25,10 @@
 | [El día que me quieras](https://open.spotify.com/track/4S5rS6t4INfDEgBHYQYj99) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Tinta roja](https://open.spotify.com/album/69WRi5hgYF8knlDJmBStHS) | 4:32 | 2022-06-24 |  |
 | [El Mareo](https://open.spotify.com/track/3AlcdhlEh1n9zzymRNXGfi) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O), [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Mar Dulce](https://open.spotify.com/album/21FV8HUlwM4hlPvSRtULVf) | 4:35 | 2022-06-24 | 2022-07-29 |
 | [El Mareo](https://open.spotify.com/track/7gmLydEZS9b8F0dNGZ6d8h) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O), [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Mar Dulce](https://open.spotify.com/album/1tEqTQTkgGkvQBIQZzggFA) | 4:35 | 2022-06-24 |  |
+| [El Mareo](https://open.spotify.com/track/7zlslEmkDIUb6SH2UmK2WH) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O), [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Hora de Argentinas](https://open.spotify.com/album/53sFe6aGnPMbc1XC0L7F4T) | 4:35 | 2022-06-24 | 2022-11-13 |
 | [El Vino Triste](https://open.spotify.com/track/7KO3n68SPMyh9MFAQDWU9j) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Raúl Lavié](https://open.spotify.com/artist/2GFIX098sqpvCSY9ZQHI4D) | [El Vino Triste \(feat\. Raúl Lavié\)](https://open.spotify.com/album/07G5T8FaZTFYRNtawKaPHQ) | 2:53 | 2022-06-24 |  |
 | [En Un Bondi Color Humo](https://open.spotify.com/track/0mbnoXmzOtn4oAl5bJIaDV) | [Melingo](https://open.spotify.com/artist/7oEBXFf9TDKulnNMFKU0FI) | [Maldito Tango](https://open.spotify.com/album/3lqGBKTp87k7kJ7VeR76r1) | 3:36 | 2022-06-24 |  |
-| [Flaca](https://open.spotify.com/track/2ZuC6YJTATt0VvUt46eNHB) | [Max Aguirre](https://open.spotify.com/artist/7Bl5WcUdWdWAwDpCD3o8lk) | [Flaca](https://open.spotify.com/album/2rosHFjIB4u8xiG8nej8t0) | 2:49 | 2022-06-24 | 2022-07-29 |
+| [Flaca](https://open.spotify.com/track/2ZuC6YJTATt0VvUt46eNHB) | [Max Aguirre](https://open.spotify.com/artist/7Bl5WcUdWdWAwDpCD3o8lk) | [Flaca](https://open.spotify.com/album/2rosHFjIB4u8xiG8nej8t0) | 2:49 | 2022-06-24 | 2022-11-12 |
 | [Giros](https://open.spotify.com/track/0XeDFZzIpnhUT4OAXsFjfx) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Giros](https://open.spotify.com/album/2bUpIi2WqqXxrLjwxqmURm) | 3:45 | 2022-06-24 |  |
 | [Gricel](https://open.spotify.com/track/5L32suuyXCkGrpaZNAXxEY) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu), [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [La La La](https://open.spotify.com/album/7e9eBk99v3kYbGO79ZKKVz) | 4:31 | 2022-06-24 |  |
 | [Gris](https://open.spotify.com/track/2v7rhTFwDVQSdRiheHpYWS) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [3er Arco](https://open.spotify.com/album/2tqxwMkehDRiz4gErUNZ0Q) | 5:09 | 2022-06-24 |  |
@@ -74,5 +75,6 @@
 | [Yendo a la Casa de Damián](https://open.spotify.com/track/27JpiXdW4QmLwYQaQYymY2) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Raro](https://open.spotify.com/album/6ZLNLqqFwnoyqrzRxtHEzt) | 4:16 | 2022-06-24 | 2022-07-29 |
 | [Yira Yira](https://open.spotify.com/track/0bTr3NCZi3bwrZs1xjZyxK) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Chac Tu Chac](https://open.spotify.com/album/6kVObsiPuJyJbQfNh3zdfW) | 3:01 | 2022-06-24 |  |
 | [Yira Yira](https://open.spotify.com/track/4H4UcF9pCpX3vAImo2dBam) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Chac Tu Chac](https://open.spotify.com/album/40WRsRybH7Qnm4WAC3wmBJ) | 3:01 | 2022-06-24 | 2022-07-29 |
+| [Yira Yira](https://open.spotify.com/track/5wfHhIh5hfVxZgwj5NyF3A) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Chac Tu Chac](https://open.spotify.com/album/5OWKnhm9lqNlQwZRXdzzLK) | 3:01 | 2022-06-24 | 2022-11-13 |
 
 \*This playlist was first scraped on 2022-06-30. Prior content cannot be recovered.

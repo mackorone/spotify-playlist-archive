@@ -263,7 +263,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 269882,
       "name": "Climax",
       "url": "https://open.spotify.com/track/4kAKNNDn9SJu97NQ9vuMik"
@@ -346,6 +346,28 @@
     },
     {
       "album": {
+        "name": "Daydreams",
+        "url": "https://open.spotify.com/album/3bx9QqHke58WWn5yeiUpSy"
+      },
+      "artists": [
+        {
+          "name": "Millbrook",
+          "url": "https://open.spotify.com/artist/5yd0a8BOCNke9EhV2ynQOm"
+        },
+        {
+          "name": "Medyk",
+          "url": "https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-18",
+      "duration_ms": 211365,
+      "name": "Daydreams",
+      "url": "https://open.spotify.com/track/10fCnRDanLFxvi6ni9Xfnf"
+    },
+    {
+      "album": {
         "name": "Liquicity Reflections (Part 3)",
         "url": "https://open.spotify.com/album/4ul2wxlcoo00aBjK6YP8wL"
       },
@@ -409,7 +431,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 158774,
       "name": "Down Under (feat. Colin Hay)",
       "url": "https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2"
@@ -467,6 +489,24 @@
       "duration_ms": 198576,
       "name": "Dreamstate",
       "url": "https://open.spotify.com/track/4WOYAnPBe0qqlgcVAPLCd8"
+    },
+    {
+      "album": {
+        "name": "Sounds Of The Street II",
+        "url": "https://open.spotify.com/album/3p9VrC6M4nQgyilWukfOhG"
+      },
+      "artists": [
+        {
+          "name": "Where It's ATT",
+          "url": "https://open.spotify.com/artist/6sMtJ7VjiMiflyZCnTxEcD"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146979,
+      "name": "Earthquake",
+      "url": "https://open.spotify.com/track/68KMOVytW0PxjJvTn5cJCU"
     },
     {
       "album": {
@@ -805,6 +845,28 @@
     {
       "album": {
         "name": "Gold Dust (Fox Stevenson Remix)",
+        "url": "https://open.spotify.com/album/1b5Wr7LLfuuHgimQVQRaUP"
+      },
+      "artists": [
+        {
+          "name": "DJ Fresh",
+          "url": "https://open.spotify.com/artist/6r20qOqY7qDWI0PPTxVMlC"
+        },
+        {
+          "name": "Fox Stevenson",
+          "url": "https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233103,
+      "name": "Gold Dust - Fox Stevenson Remix",
+      "url": "https://open.spotify.com/track/2rCM9E5gZK2YRiIClGsGpu"
+    },
+    {
+      "album": {
+        "name": "Gold Dust (Fox Stevenson Remix)",
         "url": "https://open.spotify.com/album/3lxsS3fsWVpTd20vyAO0CS"
       },
       "artists": [
@@ -819,7 +881,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 233103,
       "name": "Gold Dust - Fox Stevenson Remix",
       "url": "https://open.spotify.com/track/3WNzOFBAbi5Cc72223avI7"
@@ -855,7 +917,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-05",
+      "date_removed": "2022-11-24",
       "duration_ms": 113294,
       "name": "HARDCORE",
       "url": "https://open.spotify.com/track/42wW7YIlVS5UGUat9C75No"
@@ -945,7 +1007,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 266879,
       "name": "HOT DRUM",
       "url": "https://open.spotify.com/track/0gcPFlSLjkVqz84RcDhyJk"
@@ -989,7 +1051,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 137977,
       "name": "I don't give a Fuck",
       "url": "https://open.spotify.com/track/7dicq7Osp4mJvqRRFg4EOY"
@@ -1047,7 +1109,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-14",
       "duration_ms": 215172,
       "name": "If You Wanna",
       "url": "https://open.spotify.com/track/5BO9RCcQFzOcuweoahVaLZ"
@@ -1269,7 +1331,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 155691,
       "name": "Not Over Yet (feat. Tom Grennan)",
       "url": "https://open.spotify.com/track/3t2Hx5FPih5lKaxJFd6bRE"
@@ -1459,6 +1521,28 @@
       "duration_ms": 324545,
       "name": "Retinues",
       "url": "https://open.spotify.com/track/1M4Tkuc3JSuAXC0d2gYvpT"
+    },
+    {
+      "album": {
+        "name": "Reviver (Totally Enormous Extinct Dinosaurs Remix)",
+        "url": "https://open.spotify.com/album/08fGtbr8PDy84u2KRrNuXS"
+      },
+      "artists": [
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        },
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Reviver - Totally Enormous Extinct Dinosaurs Remix",
+      "url": "https://open.spotify.com/track/0LAOGIAFvEnMnzrO5oaAb5"
     },
     {
       "album": {
@@ -1659,7 +1743,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 261818,
       "name": "This Feeling",
       "url": "https://open.spotify.com/track/2UZtyw4ItKKKB3Rw0sfWsG"
@@ -1695,7 +1779,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": null,
       "duration_ms": 219242,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/2fBImyKfTG6MTIZwqGhnpo"
@@ -1739,7 +1823,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 167509,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/0Cv7pfVZT1KjaqpylUsYQH"
@@ -1817,7 +1901,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 237983,
       "name": "Vroom - The FaNaTiX, Idris Elba, Lil Tjay, Davido, Koffee, Moelogo| PS5, PS4 - from GRAN TURISMO 7",
       "url": "https://open.spotify.com/track/6ApEaAL5iuN3cOwSoAbY1d"
@@ -1835,7 +1919,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 179238,
       "name": "Wait",
       "url": "https://open.spotify.com/track/7Fdw5PCKFHkHJAhhDIj0qA"

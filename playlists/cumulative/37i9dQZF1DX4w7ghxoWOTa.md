@@ -4,7 +4,7 @@
 
 > アニソン界を代表する作詞家として、様々な作品のファンを魅了してきた畑 亜貴。多彩な作風でシンガーソングライター、作曲家、プロデュースチーム「Q\-MHz」メンバーとしても活躍中。
 
-58 songs - 4 hr 8 min - [published](https://open.spotify.com/playlist/18xQyljVwNU2b7SK2Z9Yg0)
+60 songs - 4 hr 17 min - [published](https://open.spotify.com/playlist/18xQyljVwNU2b7SK2Z9Yg0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Enter Enter MISSION!](https://open.spotify.com/track/7cmX1cBE5n0RWjOJ6dWAEQ) | [あんこうチーム](https://open.spotify.com/artist/70rOGXZSfjcHvPt6risXrJ) | [Enter Enter MISSION!](https://open.spotify.com/album/7eItUmp8TJdTiOaE7DYctX) | 4:05 | 2022-04-08 |  |
 | [Eternal Tragedy](https://open.spotify.com/track/3pDJKWyX0dCRnbv1wktSqu) | [Aki Hata](https://open.spotify.com/artist/2BcuB8z8yMBCNCm1WnTke7), [SHIROU\-TSUKIHIKO](https://open.spotify.com/artist/4n1KlS8mTIqsBCFImc5fvb) | [Eternal Tragedy](https://open.spotify.com/album/19OBmkcKc23HOAsFlFEXfP) | 5:33 | 2022-04-08 |  |
 | [Flying underwater](https://open.spotify.com/track/5MYFcGMjfYCrqsgw7nZcHr) | [Aki Hata](https://open.spotify.com/artist/2BcuB8z8yMBCNCm1WnTke7) | [Flying underwater \- KAIKO Garden Vol.03 \-](https://open.spotify.com/album/50rtMfiW00oAFOREkPNaux) | 3:30 | 2022-04-08 |  |
+| [Future Stream](https://open.spotify.com/track/6tt9UGZUGeyRSQQhPO8GZB) | [Sphere](https://open.spotify.com/artist/7qAl67yej6N3CHV5XJShP7) | [A.T.M.O.S.P.H.E.R.E](https://open.spotify.com/album/5Iqv5Vn2Aox5YKTpKHlqEh) | 4:20 | 2022-04-08 | 2022-11-14 |
 | [Future Stream](https://open.spotify.com/track/6UdqfaKd83bFRoTi6EVhPL) | [Sphere](https://open.spotify.com/artist/7qAl67yej6N3CHV5XJShP7) | [sphere](https://open.spotify.com/album/3JCMIhHXXqsrRnNPGFfWNU) | 4:20 | 2022-04-08 |  |
 | [Future Stream](https://open.spotify.com/track/7qpd7gpBM11o7fRSmJ1i4y) | [Sphere](https://open.spotify.com/artist/7qAl67yej6N3CHV5XJShP7) | [Future Stream](https://open.spotify.com/album/2oPq8FUYfqFdjsJ295oc5T) | 4:22 | 2022-04-08 | 2022-07-29 |
 | [God knows...](https://open.spotify.com/track/71ccYxWvQJ66ebPUZScJzn) | [涼宮ハルヒ \(CV.平野 綾\)](https://open.spotify.com/artist/4eWMhmDkvSkgeHo0D2RT31) | [涼宮ハルヒの完奏〜コンプリートサウンドトラック〜](https://open.spotify.com/album/5Th1Ca5zP4rocYmRCY59NI) | 4:38 | 2022-04-08 |  |
@@ -26,6 +27,7 @@
 | [Silent tonight](https://open.spotify.com/track/5klLVOYKURBm2cVEDUkCIH) | [BiBi](https://open.spotify.com/artist/2Y3ofvZHDfYYsmOHdpPy2D) | [μ's Complete BEST BOX \(Chapter.08\)](https://open.spotify.com/album/0QSPYBVhpK1CgN0kFKPqEb) | 5:17 | 2022-04-08 |  |
 | [Snow halation](https://open.spotify.com/track/7B2YKWz6UoXvOUEX32r3ov) | [μ's](https://open.spotify.com/artist/2hYjPkmTry3LYVVSymws5i) | [ラブライブ! μ's Best Album Best Live! Collection](https://open.spotify.com/album/3D6S8s4QyjcF92x5oMZBKU) | 4:20 | 2022-04-08 |  |
 | [STAR☆ットしちゃうぜ春だしね](https://open.spotify.com/track/0dc0AQEmAY35RKUiV11a9M) | [Dempagumi.Inc](https://open.spotify.com/artist/2jAtwNClGACPlYgR1QFAIq) | [STAR☆ットしちゃうぜ春だしね](https://open.spotify.com/album/6RTT2jqMmGfzKK9j6f6gsz) | 4:35 | 2022-04-08 |  |
+| [Super Noisy Nova](https://open.spotify.com/track/5yKwqdG5eJdVATR2bfPl6C) | [Sphere](https://open.spotify.com/artist/7qAl67yej6N3CHV5XJShP7) | [A.T.M.O.S.P.H.E.R.E](https://open.spotify.com/album/5Iqv5Vn2Aox5YKTpKHlqEh) | 4:26 | 2022-04-08 | 2022-11-13 |
 | [Super Noisy Nova](https://open.spotify.com/track/5bGen5PODN5GNE8TmkFF27) | [Sphere](https://open.spotify.com/artist/7qAl67yej6N3CHV5XJShP7) | [Super Noisy Nova](https://open.spotify.com/album/4e5QOYtMx33m5YwhMmnSZY) | 4:26 | 2022-04-08 | 2022-07-29 |
 | [Super Noisy Nova](https://open.spotify.com/track/07LDwVVQNX4pkwrnC01zL9) | [Sphere](https://open.spotify.com/artist/7qAl67yej6N3CHV5XJShP7) | [sphere](https://open.spotify.com/album/3JCMIhHXXqsrRnNPGFfWNU) | 4:26 | 2022-04-08 |  |
 | [Unnamed world](https://open.spotify.com/track/6A6Ast2a0l6Npzk5GVDENR) | [Aya Hirano](https://open.spotify.com/artist/3i2cfgYBlN8krGOtCqEYHj) | [Unnamed world](https://open.spotify.com/album/6rXdmMvPDbFt48dWnzrY3a) | 3:32 | 2022-04-08 |  |

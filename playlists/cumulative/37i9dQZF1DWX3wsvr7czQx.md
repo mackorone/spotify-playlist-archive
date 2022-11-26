@@ -4,7 +4,7 @@
 
 > Icons only\. Cover: Richard Marx
 
-69 songs - 4 hr 33 min - [published](https://open.spotify.com/playlist/4JWFbt8Q2IBwZxJYygUGYN)
+70 songs - 4 hr 37 min - [published](https://open.spotify.com/playlist/4JWFbt8Q2IBwZxJYygUGYN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Pretending](https://open.spotify.com/track/3WYq8auGS8CFtRM7XLNxJn) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Pretending](https://open.spotify.com/album/5sHQpKS54EcEG784t7bJaO) | 6:47 | 2022-04-08 |  |
 | [Ride \- Edit](https://open.spotify.com/track/32MB6prxawrLGkw6knhJBb) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Ride \(Edit\)](https://open.spotify.com/album/1N1yANyT1E01JumCbGsfm9) | 3:40 | 2021-10-22 |  |
 | [Rushing Water](https://open.spotify.com/track/3M9TxdnduVdqxf3D7kTcX5) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [The Bridge \(Deluxe\)](https://open.spotify.com/album/4oaMXmsIVvSa6EMFry9cjz) | 3:17 | 2021-10-22 |  |
+| [Rushing Water](https://open.spotify.com/track/46FlEsH8J7IwPgY2guQqef) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [The Bridge \(Super Deluxe\)](https://open.spotify.com/album/3ZCIcCsU3wAG2o8p8WfNjk) | 3:17 | 2021-10-22 | 2022-11-13 |
 | [Rushing Water](https://open.spotify.com/track/5WbDz2wejq1YgdwFaJAipD) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Rushing Water](https://open.spotify.com/album/4gqzoPUB5hRX7NC6r1uE5P) | 3:17 | 2021-10-22 | 2022-07-29 |
 | [Same Heartbreak Different Day](https://open.spotify.com/track/5ZJPhXxYnaUM8i7C9oboqI) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Same Heartbreak Different Day](https://open.spotify.com/album/7iyIit99oHjCpa1ndnCJtU) | 3:08 | 2022-07-15 |  |
 | [Scream](https://open.spotify.com/track/1X8eckB81MHBEcixZkvJW9) | [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Lindsey Buckingham](https://open.spotify.com/album/0atVY7fmPpavJNvQjXxcPG) | 2:11 | 2021-10-22 | 2022-02-12 |

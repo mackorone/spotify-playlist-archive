@@ -120,6 +120,36 @@
     },
     {
       "album": {
+        "name": "Wiener Philharmoniker Legendary Recordings",
+        "url": "https://open.spotify.com/album/5BnBeKxzFHJrujD9aLFe2Q"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Alfred Prinz",
+          "url": "https://open.spotify.com/artist/4tX6IdGLU4VCfQB3lFTOwC"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Karl B\u00f6hm",
+          "url": "https://open.spotify.com/artist/3fyr5uksidSlLzsUjRIz5A"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 574000,
+      "name": "Clarinet Concerto in A Major, K. 622: III. Rondo (Allegro)",
+      "url": "https://open.spotify.com/track/4KbghcEFsBzOvd9XX8Rdzn"
+    },
+    {
+      "album": {
         "name": "Mozart: Clarinet Concerto K.622; Flute & Harp Concerto K.299",
         "url": "https://open.spotify.com/album/3cdZXANDU9jz1y9U447aFK"
       },
@@ -288,6 +318,60 @@
     },
     {
       "album": {
+        "name": "Mozart: Cosi Fan Tutte (Highlights)",
+        "url": "https://open.spotify.com/album/58HoroitILklhciteQLv3h"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Joanna Borowska",
+          "url": "https://open.spotify.com/artist/6ItQ76Vap8c0yGuDbjAsxX"
+        },
+        {
+          "name": "Priti Coles",
+          "url": "https://open.spotify.com/artist/32e90uCODMPNlqeBckK93t"
+        },
+        {
+          "name": "John Dickie",
+          "url": "https://open.spotify.com/artist/0xsKycyOUWj1MwgUE8cRsW"
+        },
+        {
+          "name": "Andrea Martin",
+          "url": "https://open.spotify.com/artist/4CfTFp39LgcvLWn9YQBIbZ"
+        },
+        {
+          "name": "Peter Mikulas",
+          "url": "https://open.spotify.com/artist/59vBfT1r5y1VZ2XhXg2ixg"
+        },
+        {
+          "name": "Rohangiz Yachmi",
+          "url": "https://open.spotify.com/artist/5epbu5ULIQ6UKXzkn8Moi5"
+        },
+        {
+          "name": "Slovak Philharmonic Chorus",
+          "url": "https://open.spotify.com/artist/5x7Kp2knfxL9XwzQmmHc6P"
+        },
+        {
+          "name": "Capella Istropolitana",
+          "url": "https://open.spotify.com/artist/3COykW4UPvB0DqwnzlnfWt"
+        },
+        {
+          "name": "Johannes Wildner",
+          "url": "https://open.spotify.com/artist/3QEztQUVjL5FGxXuP70mJQ"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 262560,
+      "name": "Cos\u00ec fan tutte, K. 588: Overture",
+      "url": "https://open.spotify.com/track/79mtrlDtXSDvhI9ASHG00D"
+    },
+    {
+      "album": {
         "name": "Mozart: Opera Arias",
         "url": "https://open.spotify.com/album/4BN1xVL7bW9ZLAssqaipoS"
       },
@@ -384,6 +468,32 @@
     },
     {
       "album": {
+        "name": "The Ultimate Mozart Opera Album",
+        "url": "https://open.spotify.com/album/3hYYJqEzDeizcYiEHHIwRN"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Budapest Failoni Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/7w6HlJdHl67FIA8WGHCoNX"
+        },
+        {
+          "name": "Michael Halasz",
+          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 403533,
+      "name": "Die Zauberflote, K. 620, Act I: Overture",
+      "url": "https://open.spotify.com/track/7coGv6FBq1qUkVJbGal63B"
+    },
+    {
+      "album": {
         "name": "Mozart: Die Zauberfl\u00f6te",
         "url": "https://open.spotify.com/album/0e8ebBTgGPU7a1KSUPm1fA"
       },
@@ -449,6 +559,82 @@
       "duration_ms": 211186,
       "name": "Die Zauberfl\u00f6te, K. 620: Ach, ich f\u00fchl's, es ist verschwunden (Arr. Spindler for Oboe and Piano)",
       "url": "https://open.spotify.com/track/6uca1BHKM5wqzp6GYQRkpp"
+    },
+    {
+      "album": {
+        "name": "Mozart: Die Zauberfl\u00f6te (Highlights)",
+        "url": "https://open.spotify.com/album/3plenpqZHaB9S4iVLkQYla"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Lotte Leitner",
+          "url": "https://open.spotify.com/artist/4ZvmXxH5iQk4jluYTAXZAc"
+        },
+        {
+          "name": "Hellen Kwon",
+          "url": "https://open.spotify.com/artist/69aklJh2hi3d3flIwYzvS2"
+        },
+        {
+          "name": "Elizabeth Norberg-Schulz",
+          "url": "https://open.spotify.com/artist/4cytXbLB5BAiye5yXH8Kzk"
+        },
+        {
+          "name": "Wilfried Gahmlich",
+          "url": "https://open.spotify.com/artist/0EYZTxCfJomulAwPz6uVUS"
+        },
+        {
+          "name": "Herbert Lippert",
+          "url": "https://open.spotify.com/artist/5e7TorFw3csz2affLZzN07"
+        },
+        {
+          "name": "Georg Tichy",
+          "url": "https://open.spotify.com/artist/4mOA5A3LHOBAA8Lawz7XzB"
+        },
+        {
+          "name": "Kurt Rydl",
+          "url": "https://open.spotify.com/artist/7BHg4t3c6rrf9g2puYeHP1"
+        },
+        {
+          "name": "Hungarian Festival Chorus",
+          "url": "https://open.spotify.com/artist/6aFBjwObRsFPVVfqpnlgLX"
+        },
+        {
+          "name": "Budapest Failoni Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/7w6HlJdHl67FIA8WGHCoNX"
+        },
+        {
+          "name": "Michael Halasz",
+          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 150266,
+      "name": "Die Zauberfl\u00f6te, K. 620: Act II: Pa-Pa-Pa-Pa-Pa-Pa-Papageno (Papageno, Papagena)",
+      "url": "https://open.spotify.com/track/1XwpEY9EHYG19fynl1L46t"
+    },
+    {
+      "album": {
+        "name": "Musique Pour Les Papas...D\u00e8s La Grossesse",
+        "url": "https://open.spotify.com/album/1BmVERoepiMogJKPgNoaGI"
+      },
+      "artists": [
+        {
+          "name": "The Mozart Effect",
+          "url": "https://open.spotify.com/artist/2CyQKqhIekfcGBvOz5cRga"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 183520,
+      "name": "Divertimento in B flat Major, K.Anh.227(K.196f), I Allegro",
+      "url": "https://open.spotify.com/track/3kLuiiOTm4MlFqhwD28dkK"
     },
     {
       "album": {
@@ -754,6 +940,48 @@
     },
     {
       "album": {
+        "name": "Mozart 225 - The Late Operas",
+        "url": "https://open.spotify.com/album/3xmaIbt5lrQQzzz48L1Tcn"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Vitalij Kowaljow",
+          "url": "https://open.spotify.com/artist/5s86IVNzOoYurZX5EFONon"
+        },
+        {
+          "name": "Ildebrando D'Arcangelo",
+          "url": "https://open.spotify.com/artist/2T65T3cd7YFAATkLldKXN1"
+        },
+        {
+          "name": "Luca Pisaroni",
+          "url": "https://open.spotify.com/artist/7cAXX8dPKysphjUm4sN0Ru"
+        },
+        {
+          "name": "Mahler Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/5g44FyRrB0AUEdQbqW4jAo"
+        },
+        {
+          "name": "Yannick N\u00e9zet-S\u00e9guin",
+          "url": "https://open.spotify.com/artist/5ZGyCOrODWwaVtLSDjayl5"
+        },
+        {
+          "name": "Vocalensemble Rastatt",
+          "url": "https://open.spotify.com/artist/2zuDR3L9VihllaLfvt56KU"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 391746,
+      "name": "Don Giovanni, ossia Il dissoluto punito, K.527 / Act 2: \"Don Giovanni, a cenar teco m'invitasti\"",
+      "url": "https://open.spotify.com/track/4KiWvlhMPNjQ0eB2NvdBuj"
+    },
+    {
+      "album": {
         "name": "Mozart: Don Giovanni",
         "url": "https://open.spotify.com/album/76QlGXk8t4CHgsFgwkyxHd"
       },
@@ -886,6 +1114,36 @@
     },
     {
       "album": {
+        "name": "Mozart for Mind & Spirit",
+        "url": "https://open.spotify.com/album/040ke2cyk7LPPMOwlfVUy7"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "English Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
+        },
+        {
+          "name": "Jeffrey Tate",
+          "url": "https://open.spotify.com/artist/08C4m48uN8PsFIPgTS1KqK"
+        },
+        {
+          "name": "Radovan Vlatkovic",
+          "url": "https://open.spotify.com/artist/6wsNn68O2Z2axseFjz1IDJ"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 225466,
+      "name": "Horn Concerto No. 4 in E Flat, K.495: III. Rondo - Allegro vivace",
+      "url": "https://open.spotify.com/track/41lJSFHoXGcyJQVutHKaLV"
+    },
+    {
+      "album": {
         "name": "A Day with Mozart",
         "url": "https://open.spotify.com/album/6ScYJCZCqiclKWdERP8stI"
       },
@@ -946,6 +1204,36 @@
     },
     {
       "album": {
+        "name": "Work Mozart",
+        "url": "https://open.spotify.com/album/1RqiEDhAzhdan3KlAklKtQ"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Jeffrey Tate",
+          "url": "https://open.spotify.com/artist/08C4m48uN8PsFIPgTS1KqK"
+        },
+        {
+          "name": "Radovan Vlatkovic",
+          "url": "https://open.spotify.com/artist/6wsNn68O2Z2axseFjz1IDJ"
+        },
+        {
+          "name": "English Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 282493,
+      "name": "Horn Concerto No. 4 in E-Flat Major, K. 495: II. Romanza (Andante cantabile)",
+      "url": "https://open.spotify.com/track/7xcNWM0Z79T7dAvL4h3lJa"
+    },
+    {
+      "album": {
         "name": "Piano Sonata No. 18 in D Major, K. 576 \"Hunt\"/II. Adagio",
         "url": "https://open.spotify.com/album/0WxuDpV6sIQbmZVFPZiCBR"
       },
@@ -961,7 +1249,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 301400,
       "name": "II. Adagio",
       "url": "https://open.spotify.com/track/5ZT77XPdwVgGav4Nuu1DYA"
@@ -1013,6 +1301,32 @@
       "duration_ms": 56066,
       "name": "Klavierst\u00fcck in F Major, K. 33b",
       "url": "https://open.spotify.com/track/5O7SV284GeCFqs0wGfpYqb"
+    },
+    {
+      "album": {
+        "name": "La cr\u00e8me de la cr\u00e8me: La musique classique",
+        "url": "https://open.spotify.com/album/17avqNkOJCkSDQKVVitjJP"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Nicolaus Esterhazy Sinfonia",
+          "url": "https://open.spotify.com/artist/4F35SEDIS2NLiCp7CNLQ5z"
+        },
+        {
+          "name": "Michael Halasz",
+          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 252000,
+      "name": "Le nozze di Figaro, K. 492, Act I: Overture",
+      "url": "https://open.spotify.com/track/6JZk8iUhxXdWcVIFWfy1Tx"
     },
     {
       "album": {
@@ -1626,6 +1940,28 @@
     },
     {
       "album": {
+        "name": "Mozart: The Complete Piano Sonatas",
+        "url": "https://open.spotify.com/album/4pMwtuowDtXHviE9xPp6gi"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Mao Fujita",
+          "url": "https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301400,
+      "name": "Piano Sonata No. 18 in D Major, K. 576 \"Hunt\": II. Adagio",
+      "url": "https://open.spotify.com/track/4yNdgz1fkB7vF6XPZgdEp1"
+    },
+    {
+      "album": {
         "name": "Glenn Gould plays Mozart: The Piano Sonatas (No. 10: Recordings of 1958 & 1970); Fantasias K. 397 & K. 475; Fantasia & Fugue K. 394; Piano Concerto No. 24 K. 491",
         "url": "https://open.spotify.com/album/3g22ma0KOLr9B2sfU0trh3"
       },
@@ -1727,6 +2063,36 @@
       "duration_ms": 147573,
       "name": "Requiem in D minor, K.626: 3. Sequentia: Confutatis",
       "url": "https://open.spotify.com/track/4maWRmE0OaHvF245FtrjDD"
+    },
+    {
+      "album": {
+        "name": "Springtime Mozart",
+        "url": "https://open.spotify.com/album/3FlTwDcUFjfRjfDjFMB3IN"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "The Monteverdi Choir",
+          "url": "https://open.spotify.com/artist/0Cqfz92flAzrp94pgN1jEW"
+        },
+        {
+          "name": "English Baroque Soloists",
+          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
+        },
+        {
+          "name": "John Eliot Gardiner",
+          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 147573,
+      "name": "Requiem in D minor, K.626: 3. Sequentia: Confutatis",
+      "url": "https://open.spotify.com/track/5J3CFaekfy2ZVOGw2Cw7zr"
     },
     {
       "album": {
@@ -1850,6 +2216,36 @@
     },
     {
       "album": {
+        "name": "Classical Morning: Mozart",
+        "url": "https://open.spotify.com/album/7qrq4NZMxFnMwlWlK1Y2hX"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "The Monteverdi Choir",
+          "url": "https://open.spotify.com/artist/0Cqfz92flAzrp94pgN1jEW"
+        },
+        {
+          "name": "English Baroque Soloists",
+          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
+        },
+        {
+          "name": "John Eliot Gardiner",
+          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 171426,
+      "name": "Requiem in D minor, K.626: 3. Sequentia: Lacrimosa",
+      "url": "https://open.spotify.com/track/1UjbBKBJwDJzsocYzUz5IG"
+    },
+    {
+      "album": {
         "name": "Mozart, W.A.: The Wind Concertos / Serenades / Divertimenti",
         "url": "https://open.spotify.com/album/4fYVRN0xLtr6dJBk61ls5T"
       },
@@ -1891,6 +2287,28 @@
       "duration_ms": 330293,
       "name": "Serenade in B-Flat Major, K. 361 \"Gran Partita\": III. Adagio",
       "url": "https://open.spotify.com/track/5Zf5prtvv7KRQ1J6kNn4C6"
+    },
+    {
+      "album": {
+        "name": "50 Masterworks Mozart",
+        "url": "https://open.spotify.com/album/4eQYuB3Z0NXFNSlpn1qRZn"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Orpheus Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/35pZsti1RSA5Zv98jAm8kX"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 331013,
+      "name": "Serenade in B-Flat Major, K. 361 \"Gran Partita\": III. Adagio",
+      "url": "https://open.spotify.com/track/3GVSExgqfWxc7S1bld966u"
     },
     {
       "album": {
@@ -1947,6 +2365,28 @@
     {
       "album": {
         "name": "Mozart: Wind Serenades",
+        "url": "https://open.spotify.com/album/4gthHKyHJOfAGojRuEtPzn"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Oslo Philharmonic Wind Soloists",
+          "url": "https://open.spotify.com/artist/69J3cIRjaRhAHiTm2LeKO4"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 251200,
+      "name": "Serenade No. 12 in C Minor, K. 388: II. Andante",
+      "url": "https://open.spotify.com/track/48zzvRUOIWyFYsYDEKg4bO"
+    },
+    {
+      "album": {
+        "name": "Mozart: Wind Serenades",
         "url": "https://open.spotify.com/album/2yw9rP4k3agJs4WctnODdU"
       },
       "artists": [
@@ -1991,6 +2431,50 @@
       "duration_ms": 351493,
       "name": "Serenade No. 13 in G Major, K. 525 \"Eine kleine Nachtmusik\": I. Allegro (Featured in \"Nikita\")",
       "url": "https://open.spotify.com/track/7kCQHbrTpu7lzm22uGMKMG"
+    },
+    {
+      "album": {
+        "name": "Classics at the Movies: Sci-Fi",
+        "url": "https://open.spotify.com/album/66PUr5aQOYw9wiMIMwM1ma"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 356400,
+      "name": "Serenade No. 13 in G major, K. 525, \"Eine kleine Nachtmusik\": Allegro (Alien)",
+      "url": "https://open.spotify.com/track/58zXF4rTzkcbCVAc8DKfx2"
+    },
+    {
+      "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/7A4gg0UD4kHdKfXiAbqDO5"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Capella Istropolitana",
+          "url": "https://open.spotify.com/artist/3COykW4UPvB0DqwnzlnfWt"
+        },
+        {
+          "name": "Wolfgang Sobotka",
+          "url": "https://open.spotify.com/artist/1wK7fvWzwUXNugsKMz86ab"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 369333,
+      "name": "Serenade No. 13 in G Major, K. 525, \"Eine kleine Nachtmusik\": Eine kleine Nachtmusik, K. 525: Romance",
+      "url": "https://open.spotify.com/track/5Zv2Z2PA3kIhyLL4uHpwWj"
     },
     {
       "album": {
@@ -2121,6 +2605,32 @@
       "duration_ms": 330840,
       "name": "Serenade No. 6 in D Major, K. 239, \"Serenata Notturna\"*: III. Rondo: Allegro - Adagio - Allegro",
       "url": "https://open.spotify.com/track/3s1LD4Hn44QOUUuZ6uxU0l"
+    },
+    {
+      "album": {
+        "name": "Mozart: Kleine Nachtmusik (Eine) / Serenata Notturna / Divertimenti",
+        "url": "https://open.spotify.com/album/2xO6b68eCcywj6gMP1XoUh"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Capella Istropolitana",
+          "url": "https://open.spotify.com/artist/3COykW4UPvB0DqwnzlnfWt"
+        },
+        {
+          "name": "Wolfgang Sobotka",
+          "url": "https://open.spotify.com/artist/1wK7fvWzwUXNugsKMz86ab"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 330840,
+      "name": "Serenade No. 6 in D Major, K. 239, \"Serenata Notturna\"*: III. Rondo: Allegro - Adagio - Allegro",
+      "url": "https://open.spotify.com/track/7sISHi49gLAtCAOpbeMs8I"
     },
     {
       "album": {
@@ -2267,6 +2777,32 @@
       "duration_ms": 423026,
       "name": "Sonata for Piano and Violin in E Minor, K. 304: I. Allegro",
       "url": "https://open.spotify.com/track/74gu56oUMmJCk5OQ2eTxAn"
+    },
+    {
+      "album": {
+        "name": "Classical On The Road",
+        "url": "https://open.spotify.com/album/7aXB5zydzgmuSQL2ig7C1S"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Hilary Hahn",
+          "url": "https://open.spotify.com/artist/5JdT0LYJdlPbTC58p60WTX"
+        },
+        {
+          "name": "Natalie Zhu",
+          "url": "https://open.spotify.com/artist/6wTycbcXniJwwz1SfhpSns"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 337586,
+      "name": "Sonata for Piano and Violin in E Minor, K. 304: II. Tempo di minuetto",
+      "url": "https://open.spotify.com/track/0VVkpppK0v18WGG7DixE5H"
     },
     {
       "album": {
@@ -2418,6 +2954,58 @@
     },
     {
       "album": {
+        "name": "Mozart: String Quintets, K. 174 and K. 515",
+        "url": "https://open.spotify.com/album/73C0JBSYzmHNBZ5RroxWU0"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "J\u00e1nos Feh\u00e9rv\u00e1ri",
+          "url": "https://open.spotify.com/artist/3YwVnq92TzHvHDOoI7LnQ9"
+        },
+        {
+          "name": "Eder Quartet",
+          "url": "https://open.spotify.com/artist/7IcsT1bf5WlLmPkgIpRQZY"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 586400,
+      "name": "String Quintet No. 3 in C Major, K. 515: I. Allegro",
+      "url": "https://open.spotify.com/track/7p6cENh4CAu009KbUn0enJ"
+    },
+    {
+      "album": {
+        "name": "Classical Works: Mozart",
+        "url": "https://open.spotify.com/album/54p240QL2BvIVq24s4vUgN"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 460026,
+      "name": "Symphony No. 25 in G Minor, K. 183: I. Allegro con brio",
+      "url": "https://open.spotify.com/track/1pEx3cbTjOuKXLFHYe9fMO"
+    },
+    {
+      "album": {
         "name": "Amadeus",
         "url": "https://open.spotify.com/album/2G0rAfHlDtXDmD33Ik7Lbl"
       },
@@ -2522,6 +3110,32 @@
     },
     {
       "album": {
+        "name": "Mozart For Inspiration",
+        "url": "https://open.spotify.com/album/51O6B2AspQrzWSpCMy9wMz"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Capella Istropolitana",
+          "url": "https://open.spotify.com/artist/3COykW4UPvB0DqwnzlnfWt"
+        },
+        {
+          "name": "Barry Wordsworth",
+          "url": "https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 454560,
+      "name": "Symphony No. 40 in G Minor, K. 550: I. Allegro molto",
+      "url": "https://open.spotify.com/track/1eQHACR2YJVMy4lnPqkRcE"
+    },
+    {
+      "album": {
         "name": "Mozart: Symphonies Nos. 25, 32 and 41",
         "url": "https://open.spotify.com/album/67F4UiA4Y9791iqlaWxDkJ"
       },
@@ -2545,6 +3159,32 @@
       "duration_ms": 682000,
       "name": "Symphony No. 41 in C Major, K. 551 \"Jupiter\": I. Allegro vivace",
       "url": "https://open.spotify.com/track/7zrjXpTiMLft7pocXKTw4f"
+    },
+    {
+      "album": {
+        "name": "Mozart: Complete Symphonies",
+        "url": "https://open.spotify.com/album/3EhdQEjwRVqHxYAXx95GUU"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Capella Istropolitana",
+          "url": "https://open.spotify.com/artist/3COykW4UPvB0DqwnzlnfWt"
+        },
+        {
+          "name": "Barry Wordsworth",
+          "url": "https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 682000,
+      "name": "Symphony No. 41 in C Major, K. 551 'Jupiter': I. Allegro vivace",
+      "url": "https://open.spotify.com/track/0tAZ60sFNhcYjLRPKDl9SI"
     },
     {
       "album": {
@@ -3058,6 +3698,36 @@
     },
     {
       "album": {
+        "name": "A Guided Tour of the Classical Era, Vol. 2",
+        "url": "https://open.spotify.com/album/1FToCPQncLcQMNVeGemQ7G"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Takako Nishizaki",
+          "url": "https://open.spotify.com/artist/2vIpN8nPvtMZUWyGicF2oj"
+        },
+        {
+          "name": "Capella Istropolitana",
+          "url": "https://open.spotify.com/artist/3COykW4UPvB0DqwnzlnfWt"
+        },
+        {
+          "name": "Stephen Gunzenhauser",
+          "url": "https://open.spotify.com/artist/0Do8lkxP8HHqyl7IgHjO45"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 580573,
+      "name": "Violin Concerto No. 3 in G Major, K. 216: I. Allegro",
+      "url": "https://open.spotify.com/track/6YmWqPiCdeGJ6KKnyRTMUZ"
+    },
+    {
+      "album": {
         "name": "Mozart: Violin Concertos Nos. 3 and 5",
         "url": "https://open.spotify.com/album/24rmOxfBCUnxo2xGbtZu4H"
       },
@@ -3115,6 +3785,36 @@
       "duration_ms": 399546,
       "name": "Violin Concerto No. 3 in G Major, K. 216: III. Rondeau: Allegro",
       "url": "https://open.spotify.com/track/2SEiBP5ODRdUPIZwZxJkyV"
+    },
+    {
+      "album": {
+        "name": "Mozart: Violin Concerto No. 3 / Beethoven: Violin Concerto in D Major",
+        "url": "https://open.spotify.com/album/74TCn1VkhLggbnwwB7jb7i"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Takako Nishizaki",
+          "url": "https://open.spotify.com/artist/2vIpN8nPvtMZUWyGicF2oj"
+        },
+        {
+          "name": "Capella Istropolitana",
+          "url": "https://open.spotify.com/artist/3COykW4UPvB0DqwnzlnfWt"
+        },
+        {
+          "name": "Stephen Gunzenhauser",
+          "url": "https://open.spotify.com/artist/0Do8lkxP8HHqyl7IgHjO45"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 411040,
+      "name": "Violin Concerto No. 3 in G Major, K. 216: III. Rondeau: Allegro",
+      "url": "https://open.spotify.com/track/6nMJ12arJHUfI0BJDPKNeQ"
     },
     {
       "album": {
@@ -3205,6 +3905,36 @@
       "duration_ms": 376920,
       "name": "Violin Concerto No. 4 in D Minor, Op. 31: II. Adagio religioso",
       "url": "https://open.spotify.com/track/4GrYHdBJEQh9R5Fox3brLd"
+    },
+    {
+      "album": {
+        "name": "Retrospective",
+        "url": "https://open.spotify.com/album/4PwefaueJI4fG1JLBBjNXX"
+      },
+      "artists": [
+        {
+          "name": "Henri Vieuxtemps",
+          "url": "https://open.spotify.com/artist/4ceZFtLs8nvyVMyvcNlxJh"
+        },
+        {
+          "name": "Hilary Hahn",
+          "url": "https://open.spotify.com/artist/5JdT0LYJdlPbTC58p60WTX"
+        },
+        {
+          "name": "Deutsche Kammerphilharmonie Bremen",
+          "url": "https://open.spotify.com/artist/2g3N0oxbmn5Q95mYNNdIo4"
+        },
+        {
+          "name": "Paavo J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/3V9McxlPI0G2RmkU0DhYGO"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 380613,
+      "name": "Violin Concerto No. 4 in D Minor, Op. 31: II. Adagio religioso",
+      "url": "https://open.spotify.com/track/72IfNc9S1SwLKBditgPsAM"
     },
     {
       "album": {

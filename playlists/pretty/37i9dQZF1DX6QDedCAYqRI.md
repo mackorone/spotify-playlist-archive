@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QDedCAYqRI.md) - [plain]
 
 > These beautifully\-hypnotising vocalists are bound to make your evenings more chilling than ever.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,184 likes - 70 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,600 likes - 70 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QDedCAYqRI.md) - [plain]
 | 29 | [cloud9](https://open.spotify.com/track/2KO0sztUM1YycUiP5Ny8Dg) | [cliffe](https://open.spotify.com/artist/0RhZp1X2JrAwdy7z7NQIjy), [Odelia Rei](https://open.spotify.com/artist/7G7I02yeiNBx3WwKYWlpaA) | [cloud9](https://open.spotify.com/album/1ueZFUuqoyR9hzRxrgrgoK) | 3:09 |
 | 30 | [H2O](https://open.spotify.com/track/4bsA6qZZ5v0EhWfGZKwWgi) | [Jasmine Sokko](https://open.spotify.com/artist/3risOBDAx6GGVaCcBuhswz) | [H2O](https://open.spotify.com/album/43H3m9WMRPgufoOAC0z85Q) | 4:28 |
 | 31 | [Hell to the Liars](https://open.spotify.com/track/15pjLBdN42P2gyFefUt8DD) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Truth Is a Beautiful Thing \(Deluxe\)](https://open.spotify.com/album/2czuN6tZcR5ebpuK9A1Vur) | 6:04 |
-| 32 | [I Went Too Far \- MK Remix / Radio Version](https://open.spotify.com/track/7fVMOMzlZefV971fPVzphD) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [I Went Too Far \(MK Remix\)](https://open.spotify.com/album/63rRCIRub0b2Svp7FWO6IV) | 3:57 |
+| 32 | [I Went Too Far \- MK Remix / Radio Version](https://open.spotify.com/track/2F7vTfBdCnlcFgVg9jqhh1) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [I Went Too Far \(MK Remix\) \[Radio Version\]](https://open.spotify.com/album/2notFP0aEoyCWBOHLanN6o) | 3:57 |
 | 33 | [Home](https://open.spotify.com/track/4NfyJOFtDvZvBnRQGeGWs7) | [Duara](https://open.spotify.com/artist/1XOfH1UedJEI98CfjiDlyF) | [Home](https://open.spotify.com/album/4ZRKdHyUGWyRqxRiJ9MS4N) | 3:56 |
 | 34 | [Porcelain](https://open.spotify.com/track/1zKij1M9oYMTeMCKNErsxe) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Porcelain](https://open.spotify.com/album/0IVewblBonxlT9EyBz7UfT) | 4:01 |
 | 35 | [Fond Adieu](https://open.spotify.com/track/4PBaW66WiNFXh5pdrYjlhE) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Fond Adieu](https://open.spotify.com/album/0eoPFyv4fmzB3IFG8U7JYi) | 3:53 |
@@ -63,20 +63,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QDedCAYqRI.md) - [plain]
 | 53 | [Oblivion](https://open.spotify.com/track/7y5Epl5axmVOZY2MmpxmtJ) | [Rainbow Chan](https://open.spotify.com/artist/1tQUVWgrAbVlla78VYcFjy) | [Pillar](https://open.spotify.com/album/4KeaAueVERsbmdJJCixuNG) | 3:41 |
 | 54 | [To Infinity](https://open.spotify.com/track/0z5kFn7nbqRsCnszVSbQUZ) | [Pyra](https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9) | [To Infinity](https://open.spotify.com/album/45afYtKIwixGJf6Zc1fipK) | 3:58 |
 | 55 | [Corset.](https://open.spotify.com/track/4OUWZo6p7Kf7Oqe9dovS00) | [Keigo.](https://open.spotify.com/artist/3YkzB5L1vnpsFgIS849R7y), [Paulo Herrera](https://open.spotify.com/artist/3m1FQvDukcgiSWImE3Flqb) | [Corset.](https://open.spotify.com/album/6tK73Hl7cCf9E0PHmQzYtS) | 2:07 |
-| 56 | [Unspoken](https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn) | [Aaron Smith](https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl) | [Unspoken](https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt) | 3:30 |
+| 56 | [Unspoken](https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn) | [sadHAPPY](https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl) | [Unspoken](https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt) | 3:30 |
 | 57 | [Dreamer \- Stripped Down](https://open.spotify.com/track/6yUs9h47yq1TLCuFNhtzyY) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE), [Kaptan](https://open.spotify.com/artist/7yNfjZY3QJpm4cUj1i0fWD) | [Dreamer \(Stripped Down\)](https://open.spotify.com/album/6rgLhRgRjoZqTUfcpDFaQA) | 3:49 |
 | 58 | [Lovers](https://open.spotify.com/track/6q8onrzcka32nGVrnWYGBQ) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Lovers](https://open.spotify.com/album/5kopWecrOCWIxpgpukVfct) | 3:35 |
 | 59 | [Turn Me Down](https://open.spotify.com/track/7KbFoYmInyz7SGcRFKcx4M) | [Jess Connelly](https://open.spotify.com/artist/1XC87A3NVlw6xDW1kIB5FN), [LUSTBASS](https://open.spotify.com/artist/6KVYyAtFWiPTpBcNKRM5ER) | [Turn Me Down](https://open.spotify.com/album/5Nzx72g90YvVDhI7BE3Hqf) | 4:27 |
 | 60 | [Love Pocket](https://open.spotify.com/track/1VmjjzWu2bfSzEDYoUskGR) | [SaraCortez](https://open.spotify.com/artist/6r14qqaIQA7lLEezQkQ8Hm) | [Love Pocket](https://open.spotify.com/album/1AG0EVWWRdtX9o7hxEqRX0) | 2:55 |
 | 61 | [Nomad \(feat\. Luna May\)](https://open.spotify.com/track/3UWQaemSnvQ8XdERYWcZuF) | [Oriental Cravings](https://open.spotify.com/artist/51N35pGBBHm3u1uFtNhE8b), [Luna May](https://open.spotify.com/artist/7zmqghli56G0HN7CJePsdb) | [Nomad \(feat\. Luna May\)](https://open.spotify.com/album/1YbbcZ8ybBvZcJWMZ5zxUu) | 3:12 |
 | 62 | [Rumours](https://open.spotify.com/track/122HY5fBoA7FzHiognH3PP) | [Ffion](https://open.spotify.com/artist/6gYn1myEM7sARWIoT2AVWG) | [Bad Habits](https://open.spotify.com/album/52tqBFO4WgbW0C1WZzItgE) | 3:11 |
-| 63 | [Suddenly](https://open.spotify.com/track/5ED5vnF6SpG7gdv7XBjEvF) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [Words I Never Said](https://open.spotify.com/album/5m8p6d8kDFfNOOi4Wr7w44) | 3:25 |
+| 63 | [Suddenly](https://open.spotify.com/track/2ok5iJpqLf67O6Rzxg56OI) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [Words I Never Said](https://open.spotify.com/album/6zn2bIrOrQ78RoNRG5SxJK) | 3:25 |
 | 64 | [Oslo](https://open.spotify.com/track/38hfvxbqNsAhwWPmZbKyyO) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Oslo](https://open.spotify.com/album/1oc3CsOcFX5lOBQPUF9pPm) | 3:50 |
 | 65 | [Friends](https://open.spotify.com/track/71bAQugadZL7hSKS9DUCbC) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Lovers](https://open.spotify.com/album/5kopWecrOCWIxpgpukVfct) | 3:24 |
-| 66 | [White Noise](https://open.spotify.com/track/40jGEoOWxVGBSH3KAj10Vi) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [Words I Never Said](https://open.spotify.com/album/5m8p6d8kDFfNOOi4Wr7w44) | 3:42 |
+| 66 | [White Noise](https://open.spotify.com/track/6rCjkeurS1X32ZQZyrLtR1) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [Words I Never Said](https://open.spotify.com/album/6zn2bIrOrQ78RoNRG5SxJK) | 3:42 |
 | 67 | [Priceless \(The Film Ballad\)](https://open.spotify.com/track/4K7d9xMOpYuLuikWsCO9lq) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [I WAS THE LION](https://open.spotify.com/artist/0hYPQPYA6Wu90339kq6046), [Bianca Santos](https://open.spotify.com/artist/6ZBUOrayQFAZwWKeoNKvzm) | [Priceless \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1VbOGrb2x72BLZSAP5hJha) | 3:24 |
 | 68 | [Bottle Tops](https://open.spotify.com/track/0DU88MhtGfzyCvt3YZijfL) | [RITUAL](https://open.spotify.com/artist/3RP50pmG8Wz1mhNCidQj68), [Mononoke](https://open.spotify.com/artist/7JDpmpWfaFoeSTeKP5l881) | [Every Night Another But Not You](https://open.spotify.com/album/3sQW3x8p9ymXu4xMSrWtEB) | 4:37 |
 | 69 | [Revolve](https://open.spotify.com/track/4a2PTeP8MF4q4MphoV3iE3) | [Little Sea](https://open.spotify.com/artist/05JF2urTunljp953SopuXc) | [Revolve](https://open.spotify.com/album/0ATFW1N2rZb1fhW8wUYG16) | 4:04 |
 | 70 | [Had a Love](https://open.spotify.com/track/4xGjnjJMbjLFEJwb0gW1pP) | [Vessels](https://open.spotify.com/artist/6Y1nACvxtuuTjKx2b4Rwmb), [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Had a Love](https://open.spotify.com/album/4pPpxfKMupyb0qLLuaWHlY) | 4:37 |
 
-Snapshot ID: `MTY1NDA0NjMzNSwwMDAwMDAwMDc0NjMyZDIzOGExNzRkZGUxYzNlMzQ2ZDc5ZGZmOTQw`
+Snapshot ID: `MTY1NDA0NjMzNSwwMDAwMDAwMDIwMmJkMWRkZTI5ZmEwMmVhMTg1ZGIwNDQ4NDM4NTE1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OYzU0lx5hL.md) - [plain]
 
 > One of the finest <a href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">voices</a> we've ever known\. Now hear her greatest songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,265 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 390,435 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OYzU0lx5hL.md) - [plain]
 | 49 | [No Woman, No Cry \- Outtake](https://open.spotify.com/track/3SmTSujkbFtr7OKhHhheQi) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [A Single Woman \(Expanded\)](https://open.spotify.com/album/5pSGlGB1DVrSlvQBcvlPyB) | 3:15 |
 | 50 | [The Other Woman \- Live Version \- Sept\. 1959](https://open.spotify.com/track/2kvYMbijT2djq5C0MnMI6h) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [At Town Hall](https://open.spotify.com/album/1F0tyYLIIxNnJuAgwLuIIn) | 3:01 |
 
-Snapshot ID: `MTY2NTEyOTA0NywwMDAwMDAwMDFhOTg2MGJkNGE5NmM5ODNmYjRjNDIyNjA2MjcwYzI5`
+Snapshot ID: `MTY2Njg1OTEzNiwwMDAwMDAwMDMyOWMxZDRhMjNlZWZiNWE1Y2EzMmM1ODUxN2VmNWQx`

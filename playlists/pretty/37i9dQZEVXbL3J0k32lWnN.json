@@ -1,15 +1,119 @@
 {
   "description": "Your daily update of the most played tracks right now - Denmark.",
-  "num_followers": 191759,
+  "num_followers": 193296,
   "original_name": "Top 50 - Denmark",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzE4NjI3OTAzLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzIyNjkyMDMwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-10-09 10:51:43",
+      "added_at": "2022-11-25 11:47:10",
+      "album": {
+        "name": "Suave World",
+        "url": "https://open.spotify.com/album/5o6WmbOiVlhOiq0mC5phOz"
+      },
+      "artists": [
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        },
+        {
+          "name": "Saveus",
+          "url": "https://open.spotify.com/artist/2rR0cafJvL0JVTC8E2qIqt"
+        }
+      ],
+      "duration_ms": 156136,
+      "name": "Verden V\u00e5gner (feat. Saveus)",
+      "url": "https://open.spotify.com/track/2rfl7SRwfel3gNhXBmL60u"
+    },
+    {
+      "added_at": "2022-11-25 11:47:10",
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 241106,
+      "name": "All I Want for Christmas Is You",
+      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
+    },
+    {
+      "added_at": "2022-11-25 11:47:10",
+      "album": {
+        "name": "Et Barn Af Jul",
+        "url": "https://open.spotify.com/album/2NoVdaZGygsj673n8ndWyV"
+      },
+      "artists": [
+        {
+          "name": "Burhan G",
+          "url": "https://open.spotify.com/artist/14nVYgOiwVBJIEATXIDYC8"
+        },
+        {
+          "name": "Frida Brygmann",
+          "url": "https://open.spotify.com/artist/6ohx0Iujh5kRkt5BibHlXj"
+        }
+      ],
+      "duration_ms": 201920,
+      "name": "Tinka",
+      "url": "https://open.spotify.com/track/2f82yXiMKGkX2CtbkhgtvT"
+    },
+    {
+      "added_at": "2022-11-25 11:47:10",
+      "album": {
+        "name": "LAST CHRISTMAS",
+        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 262960,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
+    },
+    {
+      "added_at": "2022-11-25 11:47:10",
+      "album": {
+        "name": "Verden Ka' Vente",
+        "url": "https://open.spotify.com/album/4HUawJHoVJpBSAU0HcBjNU"
+      },
+      "artists": [
+        {
+          "name": "Rasmus Seebach",
+          "url": "https://open.spotify.com/artist/0yqCOSZ1i0c49UUbE8AzbQ"
+        }
+      ],
+      "duration_ms": 215731,
+      "name": "Der' Noget I December",
+      "url": "https://open.spotify.com/track/0wm3wOmYpTILjqyHzDDJIp"
+    },
+    {
+      "added_at": "2022-11-25 11:47:10",
+      "album": {
+        "name": "Tro P\u00e5 K\u00e6rlighed",
+        "url": "https://open.spotify.com/album/3247pE2qscZmvyEwamtd2W"
+      },
+      "artists": [
+        {
+          "name": "Gobs",
+          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
+        }
+      ],
+      "duration_ms": 158957,
+      "name": "Tro P\u00e5 K\u00e6rlighed",
+      "url": "https://open.spotify.com/track/5O6qenUvH31dan0pojwLj1"
+    },
+    {
+      "added_at": "2022-11-25 11:47:10",
       "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
@@ -29,10 +133,26 @@
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
-      "added_at": "2022-10-09 10:51:43",
+      "added_at": "2022-11-25 11:47:10",
       "album": {
-        "name": "Flyvende Faduma",
-        "url": "https://open.spotify.com/album/378mNzVXnrWbOyFknDXy4c"
+        "name": "Santa Tell Me",
+        "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 204093,
+      "name": "Santa Tell Me",
+      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
+    },
+    {
+      "added_at": "2022-11-25 11:47:10",
+      "album": {
+        "name": "N\u00e5r sj\u00e6len kaster op",
+        "url": "https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A"
       },
       "artists": [
         {
@@ -40,32 +160,96 @@
           "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
         }
       ],
-      "duration_ms": 198013,
+      "duration_ms": 198659,
       "name": "Flyvende Faduma",
-      "url": "https://open.spotify.com/track/5iqWgicPaUYWjxORp5iagj"
+      "url": "https://open.spotify.com/track/4EKSw9Jzun2WFvjm2HU58X"
     },
     {
-      "added_at": "2022-10-09 10:51:43",
+      "added_at": "2022-11-25 11:47:10",
       "album": {
-        "name": "Verden V\u00e5gner (feat. Saveus)",
-        "url": "https://open.spotify.com/album/4IWhZd1ZLkhkkDFm7CliNq"
+        "name": "Under The Mistletoe (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p"
       },
       "artists": [
         {
-          "name": "Gilli",
-          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
-        },
-        {
-          "name": "Saveus",
-          "url": "https://open.spotify.com/artist/2rR0cafJvL0JVTC8E2qIqt"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 156705,
-      "name": "Verden V\u00e5gner (feat. Saveus)",
-      "url": "https://open.spotify.com/track/68hfwJTb55iNmWmYAEfTe3"
+      "duration_ms": 182946,
+      "name": "Mistletoe",
+      "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
     },
     {
-      "added_at": "2022-10-09 10:51:43",
+      "added_at": "2022-11-25 11:47:10",
+      "album": {
+        "name": "Merry Christmas Everyone",
+        "url": "https://open.spotify.com/album/2jCRKrNZVbG2lGMs0S9Opa"
+      },
+      "artists": [
+        {
+          "name": "Shakin' Stevens",
+          "url": "https://open.spotify.com/artist/0wi4yTYlGtEnbGo4ltZTib"
+        }
+      ],
+      "duration_ms": 220160,
+      "name": "Merry Christmas Everyone",
+      "url": "https://open.spotify.com/track/2TE4xW3ImvpltVU0cPcKUn"
+    },
+    {
+      "added_at": "2022-11-25 11:47:10",
+      "album": {
+        "name": "Den (u)officielle VM-sang",
+        "url": "https://open.spotify.com/album/7IwFfGPRffNmHrxFBQxsh9"
+      },
+      "artists": [
+        {
+          "name": "Gulddreng",
+          "url": "https://open.spotify.com/artist/1twDsBPbUYeljharVfF6Lf"
+        }
+      ],
+      "duration_ms": 212411,
+      "name": "Den (u)officielle VM-sang",
+      "url": "https://open.spotify.com/track/7rr0ERtwcVJIllxqqTN03s"
+    },
+    {
+      "added_at": "2022-11-25 11:47:10",
+      "album": {
+        "name": "N\u00e5r sj\u00e6len kaster op",
+        "url": "https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A"
+      },
+      "artists": [
+        {
+          "name": "Tobias Rahim",
+          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
+        },
+        {
+          "name": "Niels Brandt",
+          "url": "https://open.spotify.com/artist/2zz39zNTuS1kmfa5qLMblM"
+        }
+      ],
+      "duration_ms": 206019,
+      "name": "Ozonlag A Energi (feat. Niels Brandt)",
+      "url": "https://open.spotify.com/track/3fe2pEkW24bNn4WCOt1b0s"
+    },
+    {
+      "added_at": "2022-11-25 11:47:10",
+      "album": {
+        "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
+        "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
+      },
+      "artists": [
+        {
+          "name": "Bobby Helms",
+          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
+        }
+      ],
+      "duration_ms": 130973,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
+    },
+    {
+      "added_at": "2022-11-25 11:47:10",
       "album": {
         "name": "Unholy (feat. Kim Petras)",
         "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
@@ -85,7 +269,87 @@
       "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
     },
     {
-      "added_at": "2022-10-09 10:51:43",
+      "added_at": "2022-11-25 11:47:10",
+      "album": {
+        "name": "I En Stjerneregn Af Sne (Fra julekalenderen 'Tvillingerne og Julemanden')",
+        "url": "https://open.spotify.com/album/2Sa4U9mpWwOGCbasceUIOA"
+      },
+      "artists": [
+        {
+          "name": "Mads Langer",
+          "url": "https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x"
+        }
+      ],
+      "duration_ms": 204946,
+      "name": "I En Stjerneregn Af Sne - Fra julekalenderen 'Tvillingerne og Julemanden'",
+      "url": "https://open.spotify.com/track/2MHiE76HdeJznaQtrLwBug"
+    },
+    {
+      "added_at": "2022-11-25 11:47:10",
+      "album": {
+        "name": "Verden Ka' Vente",
+        "url": "https://open.spotify.com/album/4HUawJHoVJpBSAU0HcBjNU"
+      },
+      "artists": [
+        {
+          "name": "Rasmus Seebach",
+          "url": "https://open.spotify.com/artist/0yqCOSZ1i0c49UUbE8AzbQ"
+        }
+      ],
+      "duration_ms": 208188,
+      "name": "Lille Store Verden",
+      "url": "https://open.spotify.com/track/4ZmaxcxpEmzZgsMZPRdLIG"
+    },
+    {
+      "added_at": "2022-11-25 11:47:10",
+      "album": {
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 206639,
+      "name": "It's Beginning to Look a Lot like Christmas",
+      "url": "https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI"
+    },
+    {
+      "added_at": "2022-11-25 11:47:10",
+      "album": {
+        "name": "Suave World",
+        "url": "https://open.spotify.com/album/5o6WmbOiVlhOiq0mC5phOz"
+      },
+      "artists": [
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        }
+      ],
+      "duration_ms": 174367,
+      "name": "Romario",
+      "url": "https://open.spotify.com/track/7DzV3IBvCHicokoiUCpWda"
+    },
+    {
+      "added_at": "2022-11-25 11:47:10",
+      "album": {
+        "name": "Dancing with Strangers (Deluxe Edition, 2019 Remaster)",
+        "url": "https://open.spotify.com/album/5tR0alqUd1KMW37vPnsOC4"
+      },
+      "artists": [
+        {
+          "name": "Chris Rea",
+          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
+        }
+      ],
+      "duration_ms": 241626,
+      "name": "Driving Home for Christmas - 2019 Remaster",
+      "url": "https://open.spotify.com/track/27qAMKrDdKEs8HDXcvR24R"
+    },
+    {
+      "added_at": "2022-11-25 11:47:10",
       "album": {
         "name": "Kronisk Skeptisk",
         "url": "https://open.spotify.com/album/16KVHmbWyMK7mkh53btVe2"
@@ -101,10 +365,58 @@
       "url": "https://open.spotify.com/track/63Dymm6U4WHLRy87e8GBbo"
     },
     {
-      "added_at": "2022-10-09 10:51:43",
+      "added_at": "2022-11-25 11:47:10",
       "album": {
-        "name": "Feberdr\u00f8mmer Xx Dubai",
-        "url": "https://open.spotify.com/album/32zVjZoaLTFnbYW5XUQFnT"
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 200690,
+      "name": "Anti-Hero",
+      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
+    },
+    {
+      "added_at": "2022-11-25 11:47:10",
+      "album": {
+        "name": "Suave World",
+        "url": "https://open.spotify.com/album/5o6WmbOiVlhOiq0mC5phOz"
+      },
+      "artists": [
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        }
+      ],
+      "duration_ms": 136710,
+      "name": "Paid",
+      "url": "https://open.spotify.com/track/4TduZWpCeQP1YKrrqzPbw4"
+    },
+    {
+      "added_at": "2022-11-25 11:47:10",
+      "album": {
+        "name": "Midt I En Dr\u00f8m Eller Noget Der Ligner",
+        "url": "https://open.spotify.com/album/0Ac80GpaaAu8pUGfjO6Swb"
+      },
+      "artists": [
+        {
+          "name": "Hjalmer",
+          "url": "https://open.spotify.com/artist/0thQkzSyTo4l3zbpibZznQ"
+        }
+      ],
+      "duration_ms": 170986,
+      "name": "Kongespil - Tinka og Kongespillet",
+      "url": "https://open.spotify.com/track/0nQBmwUprs4LYyhECw44LH"
+    },
+    {
+      "added_at": "2022-11-25 11:47:10",
+      "album": {
+        "name": "N\u00e5r sj\u00e6len kaster op",
+        "url": "https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A"
       },
       "artists": [
         {
@@ -112,15 +424,163 @@
           "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
         }
       ],
-      "duration_ms": 221159,
+      "duration_ms": 221811,
       "name": "Feberdr\u00f8mmer Xx Dubai",
-      "url": "https://open.spotify.com/track/7bgknc0sSmkIWc2am7QDEv"
+      "url": "https://open.spotify.com/track/22fNmvVD1bC4rWv6hg29pC"
     },
     {
-      "added_at": "2022-10-09 10:51:43",
+      "added_at": "2022-11-25 11:47:10",
       "album": {
-        "name": "STOR MAND (feat. Andreas Odbjerg)",
-        "url": "https://open.spotify.com/album/0ZjlCteIeQUApCh9TqoRPA"
+        "name": "Jesus & Josefine",
+        "url": "https://open.spotify.com/album/3Z2OFqwvw5fbGfqYx4rj07"
+      },
+      "artists": [
+        {
+          "name": "Julie",
+          "url": "https://open.spotify.com/artist/5PTC90Djm2KBfRkxiZfCgh"
+        },
+        {
+          "name": "Martin Brygmann",
+          "url": "https://open.spotify.com/artist/1mEjxHmV73X8Nr3HY47n17"
+        }
+      ],
+      "duration_ms": 243613,
+      "name": "Jesus & Josefine",
+      "url": "https://open.spotify.com/track/1upPKSQJreAEGrwNiCnKil"
+    },
+    {
+      "added_at": "2022-11-25 11:47:10",
+      "album": {
+        "name": "My Only Wish (This Year)",
+        "url": "https://open.spotify.com/album/3Hocp9QorapDRHSyZ1AOVL"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 255400,
+      "name": "My Only Wish (This Year)",
+      "url": "https://open.spotify.com/track/0YWUHZPJVg4iujddsJDwhM"
+    },
+    {
+      "added_at": "2022-11-25 11:47:10",
+      "album": {
+        "name": "Takin' It Back",
+        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 134256,
+      "name": "Made You Look",
+      "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
+    },
+    {
+      "added_at": "2022-11-25 11:47:10",
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 239359,
+      "name": "Rich Flex",
+      "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
+    },
+    {
+      "added_at": "2022-11-25 11:47:10",
+      "album": {
+        "name": "Do They Know It\u2019s Christmas?",
+        "url": "https://open.spotify.com/album/2WlRAsKdyYOwg2tdBjxVwq"
+      },
+      "artists": [
+        {
+          "name": "Band Aid",
+          "url": "https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ"
+        }
+      ],
+      "duration_ms": 222533,
+      "name": "Do They Know It's Christmas? - 1984 Version",
+      "url": "https://open.spotify.com/track/4Yg2w0P29BBBMixyeNjDtj"
+    },
+    {
+      "added_at": "2022-11-25 11:47:10",
+      "album": {
+        "name": "Let Love Be Love (feat. Remee)",
+        "url": "https://open.spotify.com/album/4Ons46mkiROekosrgZm4SK"
+      },
+      "artists": [
+        {
+          "name": "Juice",
+          "url": "https://open.spotify.com/artist/6MvVFJb6iebegaT6FLxEAF"
+        },
+        {
+          "name": "S.O.A.P.",
+          "url": "https://open.spotify.com/artist/4tc5xhcuEtiRizloAL4wZI"
+        },
+        {
+          "name": "Christina",
+          "url": "https://open.spotify.com/artist/5huUF1XazRSvkFuuJxMjj4"
+        },
+        {
+          "name": "Remee",
+          "url": "https://open.spotify.com/artist/28vrsWsuA3zulqCB8paIrN"
+        }
+      ],
+      "duration_ms": 294626,
+      "name": "Let Love Be Love",
+      "url": "https://open.spotify.com/track/4cEhVWWBqVf1JJOUdNRB4v"
+    },
+    {
+      "added_at": "2022-11-25 11:47:10",
+      "album": {
+        "name": "The Hardest Love",
+        "url": "https://open.spotify.com/album/17cNWP1FoUxSTwr3ki8MnX"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 163603,
+      "name": "How Do I Say Goodbye",
+      "url": "https://open.spotify.com/track/1aOl53hkZGHkl2Snhr7opL"
+    },
+    {
+      "added_at": "2022-11-25 11:47:10",
+      "album": {
+        "name": "DR\u00d8M MIG V\u00c6K",
+        "url": "https://open.spotify.com/album/1wE1xAHZTJwQGRTJZnQouA"
+      },
+      "artists": [
+        {
+          "name": "D1MA",
+          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
+        }
+      ],
+      "duration_ms": 163533,
+      "name": "DR\u00d8M MIG V\u00c6K",
+      "url": "https://open.spotify.com/track/5fS3B6lae85C2rA8jPfoE2"
+    },
+    {
+      "added_at": "2022-11-25 11:47:10",
+      "album": {
+        "name": "N\u00e5r sj\u00e6len kaster op",
+        "url": "https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A"
       },
       "artists": [
         {
@@ -132,28 +592,32 @@
           "url": "https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR"
         }
       ],
-      "duration_ms": 183883,
+      "duration_ms": 182816,
       "name": "STOR MAND (feat. Andreas Odbjerg)",
-      "url": "https://open.spotify.com/track/56Ua2ypj5HWnotoIF3lEHc"
+      "url": "https://open.spotify.com/track/0BGEImCBesJKIm5kZ0fOkH"
     },
     {
-      "added_at": "2022-10-09 10:51:43",
+      "added_at": "2022-11-25 11:47:10",
       "album": {
-        "name": "Tro P\u00e5 K\u00e6rlighed",
-        "url": "https://open.spotify.com/album/3247pE2qscZmvyEwamtd2W"
+        "name": "Guantanamo (ICEKIID x Outlandish)",
+        "url": "https://open.spotify.com/album/10CKWJepDUl7oZqSRCJboj"
       },
       "artists": [
         {
-          "name": "Gobs",
-          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
+          "name": "ICEKIID",
+          "url": "https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt"
+        },
+        {
+          "name": "Outlandish",
+          "url": "https://open.spotify.com/artist/5tqMW5dSAlvh0GvgD3XfDy"
         }
       ],
-      "duration_ms": 158957,
-      "name": "Tro P\u00e5 K\u00e6rlighed",
-      "url": "https://open.spotify.com/track/5O6qenUvH31dan0pojwLj1"
+      "duration_ms": 148897,
+      "name": "Guantanamo (ICEKIID x Outlandish)",
+      "url": "https://open.spotify.com/track/5kYfAO0bLWvS3YkozV1TA9"
     },
     {
-      "added_at": "2022-10-09 10:51:43",
+      "added_at": "2022-11-25 11:47:10",
       "album": {
         "name": "Kronisk Skeptisk",
         "url": "https://open.spotify.com/album/16KVHmbWyMK7mkh53btVe2"
@@ -173,139 +637,163 @@
       "url": "https://open.spotify.com/track/60GwMZeymeZYj7GiEzHQ7d"
     },
     {
-      "added_at": "2022-10-09 10:51:43",
+      "added_at": "2022-11-25 11:47:10",
       "album": {
-        "name": "Mucki Bar",
-        "url": "https://open.spotify.com/album/3pYdHv18QdrVPTldybOpSk"
+        "name": "Encore (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
       },
       "artists": [
         {
-          "name": "Tobias Rahim",
-          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         }
       ],
-      "duration_ms": 180294,
-      "name": "Mucki Bar",
-      "url": "https://open.spotify.com/track/31dynF6Vm6s6cLsHEBL8kp"
+      "duration_ms": 250760,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
     },
     {
-      "added_at": "2022-10-09 10:51:43",
+      "added_at": "2022-11-25 11:47:10",
       "album": {
-        "name": "DR\u00d8M MIG V\u00c6K",
-        "url": "https://open.spotify.com/album/1wE1xAHZTJwQGRTJZnQouA"
+        "name": "A Winter Romance",
+        "url": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
       },
       "artists": [
         {
-          "name": "D1MA",
-          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 163533,
-      "name": "DR\u00d8M MIG V\u00c6K",
-      "url": "https://open.spotify.com/track/5fS3B6lae85C2rA8jPfoE2"
+      "duration_ms": 117146,
+      "name": "Let It Snow! Let It Snow! Let It Snow!",
+      "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
     },
     {
-      "added_at": "2022-10-09 10:51:43",
+      "added_at": "2022-11-25 11:47:10",
       "album": {
-        "name": "How Do I Say Goodbye",
-        "url": "https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp"
+        "name": "Guld Jul",
+        "url": "https://open.spotify.com/album/66Nh0wS7H4CDsz5FdUSLIg"
       },
       "artists": [
         {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+          "name": "Gulddreng",
+          "url": "https://open.spotify.com/artist/1twDsBPbUYeljharVfF6Lf"
         }
       ],
-      "duration_ms": 163603,
-      "name": "How Do I Say Goodbye",
-      "url": "https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a"
+      "duration_ms": 227023,
+      "name": "Guld Jul",
+      "url": "https://open.spotify.com/track/2rui6bCZAz3yJ7YFQeyWMq"
     },
     {
-      "added_at": "2022-10-09 10:51:43",
+      "added_at": "2022-11-25 11:47:10",
       "album": {
-        "name": "Stiv Kuling",
-        "url": "https://open.spotify.com/album/2Qe6U56MtBTir6CniefFqU"
+        "name": "Long Way Down",
+        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
       },
       "artists": [
         {
-          "name": "Bl\u00e6st",
-          "url": "https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5"
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
         }
       ],
-      "duration_ms": 160417,
-      "name": "Juice",
-      "url": "https://open.spotify.com/track/7Ku8cFTqbFMKSWGuf1evPQ"
+      "duration_ms": 244360,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
     },
     {
-      "added_at": "2022-10-09 10:51:43",
+      "added_at": "2022-11-25 11:47:10",
       "album": {
-        "name": "hjem fra fabrikken",
-        "url": "https://open.spotify.com/album/4qktEqAnTpFIAURYMJgZBd"
+        "name": "Jul P\u00e5 Vesterbro",
+        "url": "https://open.spotify.com/album/2164xFQmRLyfnHxqKoFPj5"
       },
       "artists": [
         {
-          "name": "andreas odbjerg",
-          "url": "https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR"
+          "name": "Anders Matthesen",
+          "url": "https://open.spotify.com/artist/7ywx4levGzk6v90WXQToXe"
         }
       ],
-      "duration_ms": 208547,
-      "name": "hjem fra fabrikken",
-      "url": "https://open.spotify.com/track/5Mx9Hf6G4nZoTp5Ll9AH73"
+      "duration_ms": 266893,
+      "name": "Jul P\u00e5 Vesterbro",
+      "url": "https://open.spotify.com/track/20oNCyFVv55xDpXGIw0QEs"
     },
     {
-      "added_at": "2022-10-09 10:51:43",
+      "added_at": "2022-11-25 11:47:10",
       "album": {
-        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
-        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
       },
       "artists": [
         {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 148485,
-      "name": "I Ain't Worried",
-      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
-    },
-    {
-      "added_at": "2022-10-09 10:51:43",
-      "album": {
-        "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
-        "url": "https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 210575,
-      "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
-      "url": "https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF"
-    },
-    {
-      "added_at": "2022-10-09 10:51:43",
-      "album": {
-        "name": "Ferrari",
-        "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
         },
         {
-          "name": "Miggy Dela Rosa",
-          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
         }
       ],
-      "duration_ms": 186661,
-      "name": "Ferrari",
-      "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
+      "duration_ms": 206000,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
     },
     {
-      "added_at": "2022-10-09 10:51:43",
+      "added_at": "2022-11-25 11:47:10",
+      "album": {
+        "name": "Koldt Udenfor",
+        "url": "https://open.spotify.com/album/0vo1GonIjpeo2GIVUobBaM"
+      },
+      "artists": [
+        {
+          "name": "Page Four",
+          "url": "https://open.spotify.com/artist/7HhY2BesKCaNSBRigohHXj"
+        }
+      ],
+      "duration_ms": 191859,
+      "name": "Koldt Udenfor",
+      "url": "https://open.spotify.com/track/0rEwD7QVscNnz05ooEb0qB"
+    },
+    {
+      "added_at": "2022-11-25 11:47:10",
+      "album": {
+        "name": "Down In Atlanta",
+        "url": "https://open.spotify.com/album/3SxiMoJROq0kvfbQtd75xp"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 164041,
+      "name": "Down In Atlanta",
+      "url": "https://open.spotify.com/track/5unjCay0kUjuej5ebn4nS4"
+    },
+    {
+      "added_at": "2022-11-25 11:47:10",
+      "album": {
+        "name": "10:35",
+        "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 172252,
+      "name": "10:35",
+      "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
+    },
+    {
+      "added_at": "2022-11-25 11:47:10",
       "album": {
         "name": "V\u00e5gen (Artigeardit X Lamin)",
         "url": "https://open.spotify.com/album/7AmMkq9qKtCROjM8DVVgsx"
@@ -325,560 +813,72 @@
       "url": "https://open.spotify.com/track/09N9LGyKqWlLViq2bQjFxR"
     },
     {
-      "added_at": "2022-10-09 10:51:43",
+      "added_at": "2022-11-25 11:47:10",
       "album": {
-        "name": "[\u03b1]",
-        "url": "https://open.spotify.com/album/5V0uzO6f7OAkHTuxkFKaK8"
+        "name": "Signature Box",
+        "url": "https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v"
       },
       "artists": [
         {
-          "name": "Hans Philip",
-          "url": "https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C"
-        }
-      ],
-      "duration_ms": 242353,
-      "name": "Hjertebrand",
-      "url": "https://open.spotify.com/track/5KkDRxYg3a6s8P5fSAkSnW"
-    },
-    {
-      "added_at": "2022-10-09 10:51:43",
-      "album": {
-        "name": "Danser Med Piger",
-        "url": "https://open.spotify.com/album/05oyT11e8BU40gtvrI6sU5"
-      },
-      "artists": [
-        {
-          "name": "Danser Med Piger",
-          "url": "https://open.spotify.com/artist/0OhwwB6b7ugDTS41UT4YJS"
-        }
-      ],
-      "duration_ms": 168849,
-      "name": "Danser Med Piger",
-      "url": "https://open.spotify.com/track/06bMZsOQ6qQGHCTeM9r9bU"
-    },
-    {
-      "added_at": "2022-10-09 10:51:43",
-      "album": {
-        "name": "hvad skal verden med s\u00e5dan en som mig?",
-        "url": "https://open.spotify.com/album/0xzd8eDk9uNa8VoqecuEHz"
-      },
-      "artists": [
-        {
-          "name": "andreas odbjerg",
-          "url": "https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "hvad skal verden med s\u00e5dan en som mig?",
-      "url": "https://open.spotify.com/track/3lt2vb4iuIJrvIccs2IlBU"
-    },
-    {
-      "added_at": "2022-10-09 10:51:43",
-      "album": {
-        "name": "JAMO",
-        "url": "https://open.spotify.com/album/6f4qhLPJtFcEjMwKEw2VFa"
-      },
-      "artists": [
-        {
-          "name": "Benny Jamz",
-          "url": "https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD"
-        }
-      ],
-      "duration_ms": 187371,
-      "name": "VI VARME",
-      "url": "https://open.spotify.com/track/6Ig8oKFBOseEULJGC6nl07"
-    },
-    {
-      "added_at": "2022-10-09 10:51:43",
-      "album": {
-        "name": "Indigo (Extended)",
-        "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 184613,
-      "name": "Under The Influence",
-      "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
-    },
-    {
-      "added_at": "2022-10-09 10:51:43",
-      "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 225388,
-      "name": "CUFF IT",
-      "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
-    },
-    {
-      "added_at": "2022-10-09 10:51:43",
-      "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 167303,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
-    },
-    {
-      "added_at": "2022-10-09 10:51:43",
-      "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
         },
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Yoko Ono",
+          "url": "https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ"
         }
       ],
-      "duration_ms": 159123,
-      "name": "For My Hand (feat. Ed Sheeran)",
-      "url": "https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff"
+      "duration_ms": 214333,
+      "name": "Happy Xmas (War Is Over) - Remastered 2010",
+      "url": "https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b"
     },
     {
-      "added_at": "2022-10-09 10:51:43",
+      "added_at": "2022-11-25 11:47:10",
       "album": {
-        "name": "Doja",
-        "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
+        "name": "Rockin' Around The Christmas Tree",
+        "url": "https://open.spotify.com/album/73V5nh5BvwqITIDTz3PSzU"
       },
       "artists": [
         {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+          "name": "Mel & Kim",
+          "url": "https://open.spotify.com/artist/5XnIjshjqYVE2eDVgSt9Ro"
         }
       ],
-      "duration_ms": 97392,
-      "name": "Doja",
-      "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
+      "duration_ms": 223951,
+      "name": "Rockin' Around The Christmas Tree",
+      "url": "https://open.spotify.com/track/5gpImN0eqlucE3a3r121SF"
     },
     {
-      "added_at": "2022-10-09 10:51:43",
+      "added_at": "2022-11-25 11:47:10",
       "album": {
-        "name": "Kalde Dem for Du",
-        "url": "https://open.spotify.com/album/1o1w8fXVBaUliNbod4KH1O"
+        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
+        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
       },
       "artists": [
         {
-          "name": "Malte Ebert",
-          "url": "https://open.spotify.com/artist/3UaEtP4pJGDhyEzy47AMzl"
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         }
       ],
-      "duration_ms": 197090,
-      "name": "Kalde Dem for Du",
-      "url": "https://open.spotify.com/track/11AizyYnfVVvK1i7f2QmSz"
+      "duration_ms": 148485,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
     },
     {
-      "added_at": "2022-10-09 10:51:43",
+      "added_at": "2022-11-25 11:47:10",
       "album": {
-        "name": "Stupid Man (feat. Gobs & Thomas Helmig)",
-        "url": "https://open.spotify.com/album/18a8lBP1X7V6xKzOonbq4y"
+        "name": "Tidsrejsen",
+        "url": "https://open.spotify.com/album/0qgtqZdjNCEqrZq4Jr5f1g"
       },
       "artists": [
         {
-          "name": "Mike Lowrey",
-          "url": "https://open.spotify.com/artist/1Ty16CxXn9CapBAn9bt4Hv"
-        },
-        {
-          "name": "Gobs",
-          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
-        },
-        {
-          "name": "Thomas Helmig",
-          "url": "https://open.spotify.com/artist/2ytaRjGwyS3veZwsmr0SPj"
+          "name": "Caroline Castell",
+          "url": "https://open.spotify.com/artist/4vRpu2xRHEtlmBoI5nsK7P"
         }
       ],
-      "duration_ms": 157426,
-      "name": "Stupid Man (feat. Gobs & Thomas Helmig)",
-      "url": "https://open.spotify.com/track/7AwNzjpMLHvlkbgOc5MVKI"
-    },
-    {
-      "added_at": "2022-10-09 10:51:43",
-      "album": {
-        "name": "Forget Me",
-        "url": "https://open.spotify.com/album/50IWCes196EP2nWO6i4I67"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 203472,
-      "name": "Forget Me",
-      "url": "https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym"
-    },
-    {
-      "added_at": "2022-10-09 10:51:43",
-      "album": {
-        "name": "Afraid To Feel",
-        "url": "https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp"
-      },
-      "artists": [
-        {
-          "name": "LF SYSTEM",
-          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
-        }
-      ],
-      "duration_ms": 177524,
-      "name": "Afraid To Feel",
-      "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
-    },
-    {
-      "added_at": "2022-10-09 10:51:43",
-      "album": {
-        "name": "Long Way Down",
-        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 244360,
-      "name": "Another Love",
-      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
-    },
-    {
-      "added_at": "2022-10-09 10:51:43",
-      "album": {
-        "name": "Infinity Action",
-        "url": "https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM"
-      },
-      "artists": [
-        {
-          "name": "The Minds Of 99",
-          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
-        }
-      ],
-      "duration_ms": 266040,
-      "name": "Under Din Sne",
-      "url": "https://open.spotify.com/track/3LlqJkcXMBIAE5X1uUiZUN"
-    },
-    {
-      "added_at": "2022-10-09 10:51:43",
-      "album": {
-        "name": "N\u00e5r M\u00e6nd Gr\u00e6der",
-        "url": "https://open.spotify.com/album/5Hk2j3xL9WIU3oE7TWoBsv"
-      },
-      "artists": [
-        {
-          "name": "Tobias Rahim",
-          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
-        }
-      ],
-      "duration_ms": 211198,
-      "name": "N\u00e5r M\u00e6nd Gr\u00e6der",
-      "url": "https://open.spotify.com/track/1bIxLnZasVLJbol55wDU5r"
-    },
-    {
-      "added_at": "2022-10-09 10:51:43",
-      "album": {
-        "name": "SNAP PACK",
-        "url": "https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof"
-      },
-      "artists": [
-        {
-          "name": "Rosa Linn",
-          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
-        }
-      ],
-      "duration_ms": 179551,
-      "name": "SNAP",
-      "url": "https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB"
-    },
-    {
-      "added_at": "2022-10-09 10:51:43",
-      "album": {
-        "name": "Carnival",
-        "url": "https://open.spotify.com/album/4hj8E7TYAq8pJukk2CUlFx"
-      },
-      "artists": [
-        {
-          "name": "Gilli",
-          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
-        }
-      ],
-      "duration_ms": 147955,
-      "name": "Kender Ik' I Morgen",
-      "url": "https://open.spotify.com/track/6e7KGsngU13kguy5hTvSxe"
-    },
-    {
-      "added_at": "2022-10-09 10:51:43",
-      "album": {
-        "name": "Sunroof",
-        "url": "https://open.spotify.com/album/0VaHnwzDug4AcDkejYDUl5"
-      },
-      "artists": [
-        {
-          "name": "Nicky Youre",
-          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
-        },
-        {
-          "name": "dazy",
-          "url": "https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x"
-        }
-      ],
-      "duration_ms": 163025,
-      "name": "Sunroof",
-      "url": "https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8"
-    },
-    {
-      "added_at": "2022-10-09 10:51:43",
-      "album": {
-        "name": "Wish You Were Here (feat. Khalid)",
-        "url": "https://open.spotify.com/album/6xStUI10NrOYMx3sKoIfBq"
-      },
-      "artists": [
-        {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 175698,
-      "name": "Wish You Were Here (feat. Khalid)",
-      "url": "https://open.spotify.com/track/7up4SX2l8FAnisrUXoGupd"
-    },
-    {
-      "added_at": "2022-10-09 10:51:43",
-      "album": {
-        "name": "Belly Dancer",
-        "url": "https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn"
-      },
-      "artists": [
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        },
-        {
-          "name": "BYOR",
-          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
-        }
-      ],
-      "duration_ms": 151475,
-      "name": "Belly Dancer",
-      "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
-    },
-    {
-      "added_at": "2022-10-09 10:51:43",
-      "album": {
-        "name": "Kronisk Skeptisk",
-        "url": "https://open.spotify.com/album/16KVHmbWyMK7mkh53btVe2"
-      },
-      "artists": [
-        {
-          "name": "Lamin",
-          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
-        },
-        {
-          "name": "KESI",
-          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
-        },
-        {
-          "name": "Benny Jamz",
-          "url": "https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD"
-        }
-      ],
-      "duration_ms": 155094,
-      "name": "Balance (feat. KESI & Benny Jamz)",
-      "url": "https://open.spotify.com/track/3ZgG8vSIEbgHxKawwMUHNB"
-    },
-    {
-      "added_at": "2022-10-09 10:51:43",
-      "album": {
-        "name": "Carnival",
-        "url": "https://open.spotify.com/album/4hj8E7TYAq8pJukk2CUlFx"
-      },
-      "artists": [
-        {
-          "name": "Gilli",
-          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
-        }
-      ],
-      "duration_ms": 151891,
-      "name": "Miami Vicer",
-      "url": "https://open.spotify.com/track/3a6GwXyS27Phmpr9XMv1h7"
-    },
-    {
-      "added_at": "2022-10-09 10:51:43",
-      "album": {
-        "name": "Kun Med Dig",
-        "url": "https://open.spotify.com/album/3PhijiZGRTGtAT2HCG8guv"
-      },
-      "artists": [
-        {
-          "name": "Malte Ebert",
-          "url": "https://open.spotify.com/artist/3UaEtP4pJGDhyEzy47AMzl"
-        }
-      ],
-      "duration_ms": 187359,
-      "name": "Kun Med Dig",
-      "url": "https://open.spotify.com/track/22ureEREoYmAIwxm8ZBSIK"
-    },
-    {
-      "added_at": "2022-10-09 10:51:43",
-      "album": {
-        "name": "Held & Lykke Med At Komme Hjem",
-        "url": "https://open.spotify.com/album/1M9CVnOQmkBAImk3021VzQ"
-      },
-      "artists": [
-        {
-          "name": "Artigeardit",
-          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
-        },
-        {
-          "name": "KESI",
-          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
-        }
-      ],
-      "duration_ms": 157102,
-      "name": "Er Her (Artigeardit, KESI)",
-      "url": "https://open.spotify.com/track/6BxGGPBdNexcy53euZsrga"
-    },
-    {
-      "added_at": "2022-10-09 10:51:43",
-      "album": {
-        "name": "4 Til Gulvet",
-        "url": "https://open.spotify.com/album/251r5Jv5psSP10WVu4eSyD"
-      },
-      "artists": [
-        {
-          "name": "Rasmus Seebach",
-          "url": "https://open.spotify.com/artist/0yqCOSZ1i0c49UUbE8AzbQ"
-        }
-      ],
-      "duration_ms": 213021,
-      "name": "Livstegn",
-      "url": "https://open.spotify.com/track/0YWa7stUSTPrqjoB6NhoxU"
-    },
-    {
-      "added_at": "2022-10-09 10:51:43",
-      "album": {
-        "name": "Queen Radio: Volume 1",
-        "url": "https://open.spotify.com/album/1ia27ME4iQkoIyUHBnJqX6"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 170977,
-      "name": "Super Freaky Girl",
-      "url": "https://open.spotify.com/track/2yjlYDiNiQkdxVqTlaSrlX"
-    },
-    {
-      "added_at": "2022-10-09 10:51:43",
-      "album": {
-        "name": "Autobahn (feat. Shooter Gang)",
-        "url": "https://open.spotify.com/album/14SHB7hffvjt2nfryzMXqq"
-      },
-      "artists": [
-        {
-          "name": "Baloosh",
-          "url": "https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC"
-        },
-        {
-          "name": "Shooter Gang",
-          "url": "https://open.spotify.com/artist/7HAfa0zXzOgIEUdyxE08AO"
-        }
-      ],
-      "duration_ms": 177528,
-      "name": "Autobahn (feat. Shooter Gang)",
-      "url": "https://open.spotify.com/track/1o9F4qWXHHY2ExISuqGeev"
-    },
-    {
-      "added_at": "2022-10-09 10:51:43",
-      "album": {
-        "name": "A Place We Knew",
-        "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 179120,
-      "name": "Half A Man",
-      "url": "https://open.spotify.com/track/1ugQtcwmKOXvKAYzhjncmv"
-    },
-    {
-      "added_at": "2022-10-09 10:51:43",
-      "album": {
-        "name": "Stiv Kuling",
-        "url": "https://open.spotify.com/album/2Qe6U56MtBTir6CniefFqU"
-      },
-      "artists": [
-        {
-          "name": "Bl\u00e6st",
-          "url": "https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5"
-        }
-      ],
-      "duration_ms": 188820,
-      "name": "Sover Du Nu",
-      "url": "https://open.spotify.com/track/4RbUT7mO2RlHtaXFxxI3OZ"
-    },
-    {
-      "added_at": "2022-10-09 10:51:43",
-      "album": {
-        "name": "30 Somre",
-        "url": "https://open.spotify.com/album/1rzS6sG9RAQSmujvgvrcBS"
-      },
-      "artists": [
-        {
-          "name": "KESI",
-          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
-        },
-        {
-          "name": "Jada",
-          "url": "https://open.spotify.com/artist/2pobDPwk9fuzujz5YKKAVB"
-        }
-      ],
-      "duration_ms": 217253,
-      "name": "Sk\u00f8r For Dig (feat. Jada)",
-      "url": "https://open.spotify.com/track/5KFtLArXrvuHjiHsgQSkHz"
-    },
-    {
-      "added_at": "2022-10-09 10:51:43",
-      "album": {
-        "name": "f\u00f8ler mig selv 100",
-        "url": "https://open.spotify.com/album/14mdiNcBOtukgLcOgNMdzF"
-      },
-      "artists": [
-        {
-          "name": "andreas odbjerg",
-          "url": "https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR"
-        }
-      ],
-      "duration_ms": 207288,
-      "name": "f\u00f8ler mig selv 100",
-      "url": "https://open.spotify.com/track/7iuM7vnvSjX9qqcuFtij1T"
+      "duration_ms": 232478,
+      "name": "Tidsrejsen",
+      "url": "https://open.spotify.com/track/5jl2ASpLH6ch4vkD4xcpyq"
     }
   ],
   "unique_name": "Top 50 - Denmark",

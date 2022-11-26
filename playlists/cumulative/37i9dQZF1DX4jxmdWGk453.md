@@ -4,7 +4,7 @@
 
 > All your favourite Christmas carols sung for you by a vocal ensemble.
 
-51 songs - 2 hr 7 min - [published](https://open.spotify.com/playlist/53jXBm1qBD5ykfWKmQYFAY)
+52 songs - 2 hr 10 min - [published](https://open.spotify.com/playlist/53jXBm1qBD5ykfWKmQYFAY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Away in a Manger](https://open.spotify.com/track/4MzxDz2ZfG0cDgVvpQoCo8) | [Vocal Spectrum](https://open.spotify.com/artist/20nWuvMfCct9xv73hRYO7O) | [Vocal Spectrum IV](https://open.spotify.com/album/0E21cs5wAEjqUINJtaJPKn) | 3:08 | 2021-12-21 |  |
 | [Carol of the Bells](https://open.spotify.com/track/0oEBvSzYp0aS7Obdus1RGm) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Christmas Hits](https://open.spotify.com/album/2ojsnLAKwDMT0k3sU0ur0x) | 1:25 | 2021-12-21 |  |
 | [Caroling, Caroling](https://open.spotify.com/track/4nw3U7GXcJrkK090vniuTp) | [The Singers Unlimited](https://open.spotify.com/artist/3RsROIs1zuuC3lwIdhJ0if) | [Christmas](https://open.spotify.com/album/6oRVPUG1H8dm915S12d5PP) | 1:14 | 2021-12-21 |  |
+| [Coventry Carol](https://open.spotify.com/track/0IZIgJMMduneum2Ny0M9b9) | [The King's Singers](https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe) | [Angels Sing: Most Beloved Holiday Classics for Christmas](https://open.spotify.com/album/4x1Qw2GhUcRQ0vRhYKRK7M) | 2:40 | 2022-10-27 | 2022-11-13 |
 | [Coventry Carol](https://open.spotify.com/track/741ExP6U2ZGf3S8IcVdzC5) | [The King's Singers](https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe) | [Christmas](https://open.spotify.com/album/5hwP4Qqarcr9uFJYU5s2Ec) | 2:44 | 2021-12-21 |  |
 | [Coventry Carol](https://open.spotify.com/track/6iH1hoWKx05YrcQCdRyKy5) | [The King's Singers](https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe) | [Christmas](https://open.spotify.com/album/15qZMxWCRTbHwKss2qdyPy) | 2:45 | 2021-12-21 | 2022-07-29 |
 | [Deck The Halls](https://open.spotify.com/track/1DTBjVx4q0UTFbLsxegYeq) | [The Singalings](https://open.spotify.com/artist/0hlpR1fY7s9T6D0irIl3t9) | [Deck The Halls](https://open.spotify.com/album/0tyZZuSAFjQeBMWNUp1oTu) | 1:14 | 2021-12-21 |  |

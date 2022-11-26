@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PuH2xV18rB.md) - [plain]
 
 > Enjoy M.Net's dance battle show Street Dance Girls Fighter's original & inserted songs\. \(댄스 배틀 프로그램 스트릿댄스 걸스 파이터의 발매곡과 삽입곡들을 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,364 likes - 37 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,576 likes - 37 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,12 +38,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PuH2xV18rB.md) - [plain]
 | 28 | [At ease](https://open.spotify.com/track/5JewgPuqclOSQ24QWH4czD) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [KINGDOM <FINAL : WHO IS THE KING?>](https://open.spotify.com/album/3n1NaviPQXfiVQ0TarnAf4) | 3:29 |
 | 29 | [Autobahn](https://open.spotify.com/track/3nZmmlE1Fm6FLGDExRimAi) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [NO LIMIT](https://open.spotify.com/album/7C4wO7npFwUlVgNye4hbII) | 3:17 |
 | 30 | [ICONIC](https://open.spotify.com/track/5bMHrigI1EAmZdiyRzKoQi) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 3:11 |
-| 31 | [MAGO](https://open.spotify.com/track/6iP7hB87nBg1mk69noCZdu) | [Lim Kim](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [MAGO](https://open.spotify.com/album/6ovdLouqSWRHE2S0hS4w9s) | 2:09 |
+| 31 | [MAGO](https://open.spotify.com/track/6iP7hB87nBg1mk69noCZdu) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [MAGO](https://open.spotify.com/album/6ovdLouqSWRHE2S0hS4w9s) | 2:09 |
 | 32 | [I'm Sick](https://open.spotify.com/track/0aKB5gfdOJVImcUj6fV4xc) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [I'm Sick](https://open.spotify.com/album/3FPMeMYEqjNECafov4bIiF) | 2:53 |
 | 33 | [Diggy Dee \- Remix](https://open.spotify.com/track/6WRoMvvjhKsJjWJHXNJxtq) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or), [Sak Noel](https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Tarik Jazzy T Thompson](https://open.spotify.com/artist/6sFoObgl1BzplimWTBt6sD) | [Diggy Dee \(Remix\)](https://open.spotify.com/album/1gcCnNk1xuCmeHW0v62ZoN) | 3:16 |
-| 34 | [\(The Legend Of\) Miss Baltimore Crabs](https://open.spotify.com/track/2q9aC39U5yGWK5bZ2WyfBP) | [Michelle Pfeiffer](https://open.spotify.com/artist/6nKfpz5OosWfOp3CnY0kvy) | [Hairspray \(Soundtrack To The Motion Picture\)](https://open.spotify.com/album/01K49LryuXVxdy52dD3zd1) | 4:07 |
-| 35 | [The Nicest Kids In Town](https://open.spotify.com/track/0GikgKKBEhOBSU0dK5kv3B) | [James Marsden](https://open.spotify.com/artist/4PMcxAosgYzNpvMCq04K7u) | [Hairspray \(Soundtrack To The Motion Picture\)](https://open.spotify.com/album/01K49LryuXVxdy52dD3zd1) | 2:42 |
-| 36 | [Beethoven Virus](https://open.spotify.com/track/299X2r8Ei0ecTat3CdmdaA) | [Diana](https://open.spotify.com/artist/0VrrQMGeZuVWmj4Rm2gfXv) | [Beethoven Virus](https://open.spotify.com/album/2wAcELxSyvFr5qYCvb558O) | 3:39 |
+| 34 | [\(The Legend Of\) Miss Baltimore Crabs](https://open.spotify.com/track/2q9aC39U5yGWK5bZ2WyfBP) | [Michelle Pfeiffer](https://open.spotify.com/artist/6nKfpz5OosWfOp3CnY0kvy), [Motion Picture Cast of Hairspray](https://open.spotify.com/artist/1TWItH0fGVAaHbNiIyFjcP) | [Hairspray \(Soundtrack To The Motion Picture\)](https://open.spotify.com/album/01K49LryuXVxdy52dD3zd1) | 4:07 |
+| 35 | [The Nicest Kids In Town](https://open.spotify.com/track/0GikgKKBEhOBSU0dK5kv3B) | [James Marsden](https://open.spotify.com/artist/4PMcxAosgYzNpvMCq04K7u), [Motion Picture Cast of Hairspray](https://open.spotify.com/artist/1TWItH0fGVAaHbNiIyFjcP) | [Hairspray \(Soundtrack To The Motion Picture\)](https://open.spotify.com/album/01K49LryuXVxdy52dD3zd1) | 2:42 |
+| 36 | [Beethoven Virus](https://open.spotify.com/track/299X2r8Ei0ecTat3CdmdaA) | [Diana](https://open.spotify.com/artist/2Zmqdz7cF17LbLOz3Kwnqg) | [Beethoven Virus](https://open.spotify.com/album/2wAcELxSyvFr5qYCvb558O) | 3:39 |
 | 37 | [you should see me in a crown](https://open.spotify.com/track/3XF5xLJHOQQRbWya6hBp7d) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:00 |
 
 Snapshot ID: `MTY0MjEzMzMwNiwwMDAwMDAwMDgwYWFiYjU1MWQ4ZWQxMmQ1YTk2MWMzOThkZGMyY2Iw`

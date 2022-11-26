@@ -268,6 +268,28 @@
     },
     {
       "album": {
+        "name": "Study Rock",
+        "url": "https://open.spotify.com/album/1DO5nxBBksJPHcChairaR5"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        },
+        {
+          "name": "Cheb Mami",
+          "url": "https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J"
+        }
+      ],
+      "date_added": "2021-02-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 285960,
+      "name": "Desert Rose",
+      "url": "https://open.spotify.com/track/6Pvyc2KJELAXo0mgrn8paN"
+    },
+    {
+      "album": {
         "name": "1, 2, 3 Soleils",
         "url": "https://open.spotify.com/album/6z2xalLZtysIZqpQJNkRUO"
       },
@@ -665,7 +687,7 @@
       ],
       "date_added": "2021-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 321933,
       "name": "Maghrorah",
       "url": "https://open.spotify.com/track/0S7giBP11RxHzCAmT6Tmmi"
@@ -683,7 +705,7 @@
       ],
       "date_added": "2021-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 321933,
       "name": "Maghrorah",
       "url": "https://open.spotify.com/track/3GjTCj3ca0XlIVs6wGyWwD"
@@ -777,6 +799,24 @@
       "duration_ms": 243278,
       "name": "Nassam Alayna El Hawa",
       "url": "https://open.spotify.com/track/4d7DrWvGPobIFPRi84gjm0"
+    },
+    {
+      "album": {
+        "name": "Ma Fi Nom",
+        "url": "https://open.spotify.com/album/5e6600UJuMynlnlTPblo74"
+      },
+      "artists": [
+        {
+          "name": "Pascale Machaalani",
+          "url": "https://open.spotify.com/artist/4BwpexsYvb32ZgJJsR9jP9"
+        }
+      ],
+      "date_added": "2021-02-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 274186,
+      "name": "Nour El Chames",
+      "url": "https://open.spotify.com/track/5TRsfgM2TNIfqNXXNvMwBs"
     },
     {
       "album": {

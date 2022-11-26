@@ -363,7 +363,7 @@
       ],
       "date_added": "2020-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 276760,
       "name": "De La Luna Al Sol",
       "url": "https://open.spotify.com/track/4dJEKzBZLrdF7dzeixyrIF"
@@ -700,6 +700,24 @@
     },
     {
       "album": {
+        "name": "Elena of Avalor (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/42OLLIcdDeCiLitu9o3FYw"
+      },
+      "artists": [
+        {
+          "name": "Gaby Moreno",
+          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
+        }
+      ],
+      "date_added": "2020-07-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 62526,
+      "name": "Elena of Avalor (Main Title) - Spanish Version",
+      "url": "https://open.spotify.com/track/0BpiiSV7PRX7Jny314xrk4"
+    },
+    {
+      "album": {
         "name": "Conciencia Musical para Ni\u00f1os",
         "url": "https://open.spotify.com/album/6ufal3clyi5V10KiAqFmTe"
       },
@@ -729,7 +747,7 @@
       ],
       "date_added": "2020-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-11-12",
       "duration_ms": 241120,
       "name": "Esta Noche Es Para Amar",
       "url": "https://open.spotify.com/track/7DAGQT2LDafeGUdAxTptMe"
@@ -783,7 +801,7 @@
       ],
       "date_added": "2020-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": null,
       "duration_ms": 264424,
       "name": "Estrellita Viajera",
       "url": "https://open.spotify.com/track/5H7jtG5w71nlDSGG5CI4cZ"
@@ -1333,7 +1351,7 @@
       ],
       "date_added": "2020-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-28",
+      "date_removed": "2022-11-01",
       "duration_ms": 136826,
       "name": "Nube de Algod\u00f3n",
       "url": "https://open.spotify.com/track/2UEj5kNRL0VJ9oQC6SGdjP"

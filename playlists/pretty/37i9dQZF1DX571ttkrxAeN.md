@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX571ttkrxAeN.md) - [plain]
 
 > Sit and sip a cup as you soak up some acoustic vibes from across the world\. Cover: Souad Massi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,487 likes - 78 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,129 likes - 78 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [A Vava Inouva](https://open.spotify.com/track/06eEMrvlkBmLLaezDSDcEl) | [Idir](https://open.spotify.com/artist/73LjFn4z6WTV7MevyPxrRc) | [A Vava Inouva](https://open.spotify.com/album/6DrAbBZLRSPeRjVgxlB1q1) | 4:26 |
-| 2 | [Salam](https://open.spotify.com/track/79QnKnXkgvONM0Y3HlNA9K) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Oumniya](https://open.spotify.com/album/6GQNw3LhEnt6mekhNDafAK) | 4:24 |
+| 2 | [Salam](https://open.spotify.com/track/2NHbmvLriduIB96qXrO3yr) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Oumniya](https://open.spotify.com/album/6q0t1SQ8v2P0rfTG2nN9xb) | 4:24 |
 | 3 | [Canapé](https://open.spotify.com/track/7omxnYshtUJDOFxl2bw2Ku) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Canapecito](https://open.spotify.com/album/75TluJ3aGAelm57vQ3Hdo6) | 1:10 |
 | 4 | [La mort des étoiles](https://open.spotify.com/track/43ScxV6zQAbwCZyPfPhRaI) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [La mort des étoiles](https://open.spotify.com/album/6irhBIxDE9UcjLOE4Ih063) | 4:19 |
 | 5 | [Dýrð Í Dauðaþögn](https://open.spotify.com/track/0eJLZSl2TEmZUTpvLwVREe) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [In the Silence \(Deluxe Edition\)](https://open.spotify.com/album/6ltUyqAtJxfAfdqLXZGCkZ) | 3:55 |
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX571ttkrxAeN.md) - [plain]
 | 9 | [Suspendidos en el Tiempo](https://open.spotify.com/track/7IW01SDxiAhmWo97uUL4dg) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Suspendidos en el Tiempo](https://open.spotify.com/album/6VxidvTiyw1RUxJFWq05Hx) | 3:33 |
 | 10 | [Adrar inu \- Ma montagne](https://open.spotify.com/track/77vIER4KhZTRIUXRvHZDFX) | [Idir](https://open.spotify.com/artist/73LjFn4z6WTV7MevyPxrRc) | [Idir](https://open.spotify.com/album/1hwPKlmmhRGLSeV3oQJorb) | 2:30 |
 | 11 | [Tu n'existes pas](https://open.spotify.com/track/1A9lpAxbDWV8Zkn2lUhzou) | [Francesca Blanchard](https://open.spotify.com/artist/5nr9aC1q4Iu3i4hYOiRiNf) | [Deux Visions](https://open.spotify.com/album/08r4lUDNLyZy3gPiylpSD9) | 4:00 |
-| 12 | [Wakfa](https://open.spotify.com/track/2rFOK6Wat6QKb3uqsXURgq) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Oumniya](https://open.spotify.com/album/6GQNw3LhEnt6mekhNDafAK) | 4:50 |
+| 12 | [Wakfa](https://open.spotify.com/track/39u6elNoM6r2ZwjHJ2q5rx) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Oumniya](https://open.spotify.com/album/6q0t1SQ8v2P0rfTG2nN9xb) | 4:50 |
 | 13 | [Que Facil Es Hablar](https://open.spotify.com/track/4zeTSpN6852mqKTFZcUkgc) | [Karina Vismara](https://open.spotify.com/artist/3yjMGsdyDczDjyaek80khK) | [Casa del Viento](https://open.spotify.com/album/2HyoT13F4NOLswwofAZaNw) | 2:54 |
 | 14 | [Fluya](https://open.spotify.com/track/428Td36ZF4FyzY6lKrHczS) | [Carranza](https://open.spotify.com/artist/3GxtrZqcvn42ODpJi0EM22) | [Conecta](https://open.spotify.com/album/3lXdJ1Rbh6bDkmEGzHGhyn) | 3:06 |
 | 15 | [No Me Caigo Bien](https://open.spotify.com/track/1uBgbgO9T2EYbWCnzxUNTL) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Bálsamo](https://open.spotify.com/album/7av9VVRYT6rgVRshaVDEPQ) | 1:33 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX571ttkrxAeN.md) - [plain]
 | 65 | [Les ombres](https://open.spotify.com/track/7Dpg3EFj6JmLK0zym1n3ox) | [Ian Kelly](https://open.spotify.com/artist/7ojsy2hVaM5udoJQEVVLow) | [Innocent](https://open.spotify.com/album/2pr0ED2cGHRLw4SuGemHt1) | 3:49 |
 | 66 | [Eden \- Acoustic](https://open.spotify.com/track/5YLIsfWdeV6Yado1tVAKZZ) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [Vous & moi](https://open.spotify.com/album/5pSQDgT8MXpFtgVR9ZFJRJ) | 4:09 |
 | 67 | [Babi'r Eirlys \- Live](https://open.spotify.com/track/4ErU8orOXurNZWpHjSs3Xn) | [9bach](https://open.spotify.com/artist/2NIcUSfuUPORqM5CaXZlIO) | [The Mark Radcliffe Folk Sessions: 9bach](https://open.spotify.com/album/3f4R2egQrunK3KCF9W1Gz4) | 3:02 |
-| 68 | [Voce piccolina](https://open.spotify.com/track/25Z9SXq4u07bbwzlUmOTlz) | [Dente](https://open.spotify.com/artist/7uGQOfydy4DpqrM8XhyIdt) | [L'amore non è bello](https://open.spotify.com/album/0nRwkAQQdM7xmVDisTIHWY) | 1:43 |
+| 68 | [Voce piccolina](https://open.spotify.com/track/0AOcRnBwUbxziFJBUNx1ii) | [Dente](https://open.spotify.com/artist/7uGQOfydy4DpqrM8XhyIdt) | [L'amore non è bello](https://open.spotify.com/album/322waMAUtD8oVnHqqp78D1) | 1:43 |
 | 69 | [Paistin Fionn](https://open.spotify.com/track/7pFgfFCjCnUBaXxRDXNp9x) | [Moya Brennan](https://open.spotify.com/artist/3ZvmmlF8EMEpnnK90jfuJv), [Cormac De Barra](https://open.spotify.com/artist/7CU8rPAwRweVDFew1KHl9L) | [Timeless](https://open.spotify.com/album/6OgHHzJmrZUtZ6I6wT43sR) | 3:28 |
 | 70 | [Lei, Lui, Firenze](https://open.spotify.com/track/7CW5af6NMMuPVuNcWY1a9v) | [Brunori Sas](https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy) | [Vol\. 2 \- Poveri Cristi](https://open.spotify.com/album/6o0SQJf2diRJ02V4Vx1lyh) | 4:20 |
 | 71 | [Me Quiero Enamorar](https://open.spotify.com/track/6NLRl5GwqFQ4JorXChVSZS) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [¿Con Quién Se Queda El Perro? \(Deluxe\)](https://open.spotify.com/album/6BVBG97h9uAFn1eOwckiwH) | 3:58 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX571ttkrxAeN.md) - [plain]
 | 77 | [Hora Bruja](https://open.spotify.com/track/3KjUz9upExFV7dxsm9P45R) | [Cuchillo](https://open.spotify.com/artist/4HUoMCRLwJTGvuzcevaLVT) | [Encanto](https://open.spotify.com/album/7ghVkkWsjzTFna6lR0Axt1) | 3:53 |
 | 78 | [Doremifarklı insanlarız \(akustik\)](https://open.spotify.com/track/6vOpTasDwu8gj7IRbFXNjE) | [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC) | [Doremifarklı insanlarız \(akustik\)](https://open.spotify.com/album/2PjJMRedxiuCTtQgTkn2wR) | 3:41 |
 
-Snapshot ID: `MTY2NDIwNDI4OSwwMDAwMDAwMDUyNTJiMzFkM2Q0OTVlN2Q5OTFjOWU0N2U0YmM2ZWYy`
+Snapshot ID: `MTY2NDIwNDI4OSwwMDAwMDAwMGFiNjcxNWIxMjg5ZjVmNGRlM2ExNjIxZmUyM2Y2YTg2`

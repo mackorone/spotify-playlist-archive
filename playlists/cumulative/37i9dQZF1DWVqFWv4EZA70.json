@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "Disco Funkin', Vol. 2 (Curated by Flevans)",
+        "url": "https://open.spotify.com/album/1w3aaTjIft7Q637XWakE8F"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 351533,
+      "name": "Atlantic Oscillations",
+      "url": "https://open.spotify.com/track/7jAXf51D0PTQme53oTyck5"
+    },
+    {
+      "album": {
         "name": "Barfly (Remixes)",
         "url": "https://open.spotify.com/album/5quziiwWuBP5sIPMqthYgm"
       },
@@ -171,7 +189,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 353973,
       "name": "Church",
       "url": "https://open.spotify.com/track/0MzO0c9Lr1d4mTUQtGhSJX"
@@ -355,7 +373,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 314400,
       "name": "Dope Vhs Master",
       "url": "https://open.spotify.com/track/2xRTlnCsKHtnCahchPso2L"
@@ -395,6 +413,24 @@
       "duration_ms": 207336,
       "name": "Faidherbe Square",
       "url": "https://open.spotify.com/track/2hHNFmRgj2KUCeCcJH0QLP"
+    },
+    {
+      "album": {
+        "name": "The Music Scene",
+        "url": "https://open.spotify.com/album/4i0QEXwMps7KIuVq5PBckJ"
+      },
+      "artists": [
+        {
+          "name": "Blockhead",
+          "url": "https://open.spotify.com/artist/7bHm3B3jJju0q9FUdOgp3b"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395373,
+      "name": "Farewell Spaceman",
+      "url": "https://open.spotify.com/track/2LH8eZOTAp4spvNCuLvZ8V"
     },
     {
       "album": {
@@ -605,7 +641,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 180666,
       "name": "How Long Do I Have To Wait For You? - Instrumental",
       "url": "https://open.spotify.com/track/5Pf8wRg4vV0FXVcYglxrN5"
@@ -627,6 +663,24 @@
       "duration_ms": 216826,
       "name": "I Still Got It (Instrumental)",
       "url": "https://open.spotify.com/track/1Fq9IQT0vGQrCQ0DsQtQuz"
+    },
+    {
+      "album": {
+        "name": "Faithful Man (Instrumentals)",
+        "url": "https://open.spotify.com/album/1mtrVXhx0JBuv53GqqJbiG"
+      },
+      "artists": [
+        {
+          "name": "Lee Fields & The Expressions",
+          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249973,
+      "name": "It's All Over But the Crying (Instrumental)",
+      "url": "https://open.spotify.com/track/1WrQreMyy7L97MUSdS01xu"
     },
     {
       "album": {
@@ -796,6 +850,24 @@
     },
     {
       "album": {
+        "name": "Boogie Angst Edition One",
+        "url": "https://open.spotify.com/album/1oTdlldt4xLZ16CMgaxYJ8"
+      },
+      "artists": [
+        {
+          "name": "Moods",
+          "url": "https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 202213,
+      "name": "Love Is Real",
+      "url": "https://open.spotify.com/track/78Rw0uZPyN64o8OUi2UKpu"
+    },
+    {
+      "album": {
         "name": "Chinoiseries pt 2",
         "url": "https://open.spotify.com/album/74ZSI0MFZgtgBn3SL7JyZO"
       },
@@ -872,6 +944,42 @@
     },
     {
       "album": {
+        "name": "Jaguar Sound",
+        "url": "https://open.spotify.com/album/0G4ZUqUhs6LMEiZ6ADc6bX"
+      },
+      "artists": [
+        {
+          "name": "Adrian Quesada",
+          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Noble Metals",
+      "url": "https://open.spotify.com/track/5Yy17GXyBXDe1W01tXRu8H"
+    },
+    {
+      "album": {
+        "name": "Noble Metals",
+        "url": "https://open.spotify.com/album/0KS1uMeRpJNDNNSjlJf7a3"
+      },
+      "artists": [
+        {
+          "name": "Adrian Quesada",
+          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-21",
+      "duration_ms": 212000,
+      "name": "Noble Metals",
+      "url": "https://open.spotify.com/track/5jf20rikIBhQmhApETtfCv"
+    },
+    {
+      "album": {
         "name": "Oh My God (feat. Lily Allen)",
         "url": "https://open.spotify.com/album/2NPq3xrMiBkXt6dz8LPPTN"
       },
@@ -923,7 +1031,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 241173,
       "name": "Porcelain",
       "url": "https://open.spotify.com/track/2UKYMN7VnsQo40n0qCt6Sa"
@@ -945,6 +1053,24 @@
       "duration_ms": 241173,
       "name": "Porcelain",
       "url": "https://open.spotify.com/track/3cYgOAFB1HAUhC7b7U8viI"
+    },
+    {
+      "album": {
+        "name": "Play & Play: B Sides",
+        "url": "https://open.spotify.com/album/724hO8VLcKOz9b0y18wA8c"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241173,
+      "name": "Porcelain",
+      "url": "https://open.spotify.com/track/5fJAYWoFgXm26HLNViFiUh"
     },
     {
       "album": {
@@ -981,6 +1107,24 @@
       "duration_ms": 246280,
       "name": "Runnin' - Extended",
       "url": "https://open.spotify.com/track/6x0fMgsxvhpiOspnhykuF2"
+    },
+    {
+      "album": {
+        "name": "VXNTX VXNTX",
+        "url": "https://open.spotify.com/album/7xFQHkRtycWyYZ4O4fbP9l"
+      },
+      "artists": [
+        {
+          "name": "Black Mantra",
+          "url": "https://open.spotify.com/artist/1tBlcYKEE7iWjaZ8O9nEf5"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191761,
+      "name": "Sandra",
+      "url": "https://open.spotify.com/track/7o2RSn34h4bvZdMWA0NoFo"
     },
     {
       "album": {
@@ -1125,7 +1269,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 329345,
       "name": "They Who Flock",
       "url": "https://open.spotify.com/track/0YsSp6pd4xxtFFCfIKHCql"
@@ -1143,10 +1287,28 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 241995,
       "name": "This Girl - Instrumental",
       "url": "https://open.spotify.com/track/01zGD4HoAR90snBfA0yMCu"
+    },
+    {
+      "album": {
+        "name": "This Girl (Special Edition)",
+        "url": "https://open.spotify.com/album/5cHvz35TwKvzmdald8wL8E"
+      },
+      "artists": [
+        {
+          "name": "Cookin' On 3 Burners",
+          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241995,
+      "name": "This Girl - Instrumental",
+      "url": "https://open.spotify.com/track/5i7UCAOx9N6F6LIuVtEpRP"
     },
     {
       "album": {
@@ -1215,10 +1377,28 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 271250,
       "name": "WHITE CRAYON",
       "url": "https://open.spotify.com/track/2XXfb3FToGrAOZKGJ1Nwhj"
+    },
+    {
+      "album": {
+        "name": "Athletic Progression",
+        "url": "https://open.spotify.com/album/3DPTrgC3Ee2cZN6lUGWdaq"
+      },
+      "artists": [
+        {
+          "name": "Athletic Progression",
+          "url": "https://open.spotify.com/artist/2BBIIe7eBYThLcIrZGZb3I"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271250,
+      "name": "White Crayon",
+      "url": "https://open.spotify.com/track/3a1CnmO9A2hb1B42dMTxel"
     },
     {
       "album": {

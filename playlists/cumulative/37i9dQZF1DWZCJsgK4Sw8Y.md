@@ -4,11 +4,12 @@
 
 > Leave no rock undiscovered and explore the essential foundations of Christian rock.
 
-105 songs - 6 hr 35 min - [published](https://open.spotify.com/playlist/7izFKBs4kuZfqHiUCUmpZx)
+108 songs - 6 hr 44 min - [published](https://open.spotify.com/playlist/7izFKBs4kuZfqHiUCUmpZx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Alive \- Chris Lord\-Alge Mix](https://open.spotify.com/track/1X4Ntw6Lbaa1ACgilCqMpr) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Satellite \(U.S\. Version\)](https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk) | 3:25 | 2021-07-30 |  |
+| [All Around Me](https://open.spotify.com/track/4RgROifXVgxP6c8VETwWSq) | [Flyleaf](https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60) | [Female Rockers](https://open.spotify.com/album/1GXtqtmRnjLjxZVzuzOpGS) | 3:18 | 2021-07-30 | 2022-11-14 |
 | [All Around Me](https://open.spotify.com/track/7k9iVpyeR5ybSPSkvmAP6K) | [Flyleaf](https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60) | [Flyleaf \(Re\-Release\)](https://open.spotify.com/album/0XvHcGX9MJXt9Cx1Iml7WS) | 3:18 | 2021-07-30 | 2022-07-29 |
 | [All Around Me](https://open.spotify.com/track/1zN6ynJG4PdR61YWv4PQ3Y) | [Flyleaf](https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60) | [Flyleaf](https://open.spotify.com/album/4Hv9JeNCe9bMyTrgt9NjXt) | 3:18 | 2021-07-30 |  |
 | [Already Over](https://open.spotify.com/track/3SP1LUtLle97QNFvFFopnG) | [Red](https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk) | [End Of Silence](https://open.spotify.com/album/3ntOXFMHUPIedU3l2QNE0n) | 4:24 | 2021-07-30 |  |
@@ -31,6 +32,7 @@
 | [Cold Cash And Cold Hearts](https://open.spotify.com/track/52eKlQVgqvdSzEUYDi3ihh) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [The Artist In The Ambulance](https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA) | 2:53 | 2021-07-30 |  |
 | [Collapsing \(feat\. Bjorn "Speed" Strid\)](https://open.spotify.com/track/7BYuHUIKGel5qoOjVY9BFG) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH), [Bjorn "Speed" Strid](https://open.spotify.com/artist/5qA1ILfKx6JbW6dw17N0BN) | [The World Is a Thorn \(Deluxe Edition\)](https://open.spotify.com/album/11vbXdp9TOZKUw1H3BrtbD) | 3:38 | 2021-07-30 | 2022-07-29 |
 | [Collapsing \(feat\. Björn "Speed" Strid\)](https://open.spotify.com/track/2WVQXKecFNKwjfJab3M2xc) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH), [Bjorn "Speed" Strid](https://open.spotify.com/artist/5qA1ILfKx6JbW6dw17N0BN) | [The World Is a Thorn \(Deluxe Edition\)](https://open.spotify.com/album/735AGDPrJkkaFEnl4UjlfN) | 3:38 | 2021-07-30 |  |
+| [Collapsing \(feat\. Björn "Speed" Strid\)](https://open.spotify.com/track/2WrCs2nN9bsKoEOb6GA96G) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH), [Bjorn "Speed" Strid](https://open.spotify.com/artist/5qA1ILfKx6JbW6dw17N0BN) | [The World Is a Thorn](https://open.spotify.com/album/1wFufr2EJubTesfemYQb2O) | 3:38 | 2021-07-30 | 2022-11-13 |
 | [Collide](https://open.spotify.com/track/0dWy5gz8IwvIyJEHOPKwKU) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Collide](https://open.spotify.com/album/77JbhmUqfoId7D2AHKU4zW) | 5:38 | 2021-07-30 |  |
 | [Comatose](https://open.spotify.com/track/5pRElcsPZrgZXkoON2o5Go) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Comatose](https://open.spotify.com/album/16ElbnOtY2UgGaPKoLfst4) | 3:50 | 2021-07-30 |  |
 | [Cornerstone](https://open.spotify.com/track/76buY14sTYrbuO8lkA5hFg) | [Day Of Fire](https://open.spotify.com/artist/6grXVRio9HAWuP3LKj4BPB) | [Day Of Fire](https://open.spotify.com/album/4ETb56DtaxLJsXR9azewAU) | 3:16 | 2021-07-30 |  |
@@ -59,6 +61,7 @@
 | [I Am a Stone](https://open.spotify.com/track/4nhVsU2AMH8nXG1NXIkzO2) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [True Defiance \(Deluxe Edition\)](https://open.spotify.com/album/1c2cRD8ASzsUH81E3epXYQ) | 5:46 | 2021-07-30 |  |
 | [I Am a Stone](https://open.spotify.com/track/7FnEVZQNLuIRX9d920WRZ4) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [True Defiance \(Deluxe Edition\)](https://open.spotify.com/album/4Hi0m8VSClWiApEKJq46Ui) | 5:46 | 2021-07-30 | 2022-07-29 |
 | [I Still Miss You](https://open.spotify.com/track/7HwU7vjrIpHxjtEBni82il) | [Hawk Nelson](https://open.spotify.com/artist/4hj6ZZxaiKvG5GU3PYf7Gh) | [Hawk Nelson Is My Friend](https://open.spotify.com/album/4mkeewYfiSf9Enc5w9J6g2) | 3:51 | 2021-07-30 |  |
+| [I'm So Sick](https://open.spotify.com/track/0TbA7Sifl9VRtb6kjZkqQP) | [Flyleaf](https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60) | [Flyleaf \(Deluxe Edition\)](https://open.spotify.com/album/4t0LIEbqqzBXeSrujs5Rv6) | 2:55 | 2021-07-30 | 2022-11-13 |
 | [I'm So Sick](https://open.spotify.com/track/3FP8A246XpuafFofRhDlWG) | [Flyleaf](https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60) | [Flyleaf](https://open.spotify.com/album/4Hv9JeNCe9bMyTrgt9NjXt) | 2:55 | 2021-07-30 |  |
 | [I'm So Sick](https://open.spotify.com/track/3CzOoYfw7mj5jMHGsJp9TG) | [Flyleaf](https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60) | [Flyleaf \(Re\-Release\)](https://open.spotify.com/album/0XvHcGX9MJXt9Cx1Iml7WS) | 2:56 | 2021-07-30 | 2022-07-29 |
 | [Impossible](https://open.spotify.com/track/473xAny4InLJTlWnUNEwZq) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL) | [Glory](https://open.spotify.com/album/7f68ciNKoEoIcjYRKWz7Z5) | 3:58 | 2021-07-30 |  |

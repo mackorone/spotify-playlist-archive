@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX84lm9VKJ19V.md) - [plain]
 
 > <a href="spotify:artist:6nxWCVXbOlEVRexSbLsTer">Flume</a>'s favourite tracks\. Updated regularly\. Curated by Flume\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,934 likes - 55 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,964 likes - 55 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX84lm9VKJ19V.md) - [plain]
 | 18 | [Snakeskin ∞ Has\-Been \- Edit](https://open.spotify.com/track/43zuONKEpzHcZ5UvCalGfr) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [Rare, Forever](https://open.spotify.com/album/5UfCxNbc7RTtM6FyVqyi5x) | 3:25 |
 | 19 | [Oh No](https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Oh No / Liahr](https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f) | 2:44 |
 | 20 | [pretty girls](https://open.spotify.com/track/3vEkBzAP09A4MEitPzWKWL) | [Sumwun](https://open.spotify.com/artist/3p6Sps6tkzvz5YzDqAZgu5), [LoVibe.](https://open.spotify.com/artist/1NLyehNkC7wzb5FLW4uYjc) | [pretty girls](https://open.spotify.com/album/4s8fbAnwt0z7SM8SjkxWqn) | 1:30 |
-| 21 | [FANTAZIA](https://open.spotify.com/track/3XetDJxSDARsex7zU9KEpM) | [Roy Blair](https://open.spotify.com/artist/6Sa4YbwEdGlfVSJMF1Lp67) | [GRAFFITI](https://open.spotify.com/album/4NrZlvs23TXuM09g7x3v7x) | 5:36 |
+| 21 | [FANTAZIA](https://open.spotify.com/track/6aNY5agVFHSm4v6WMCsu0r) | [Roy Blair](https://open.spotify.com/artist/6Sa4YbwEdGlfVSJMF1Lp67) | [GRAFFITI](https://open.spotify.com/album/2WQe3Ixka9ZHOWB087xQXj) | 5:36 |
 | 22 | [Bring The Sun feat\. Gry \- Original Mix](https://open.spotify.com/track/276YatmSVaFpD1L6Sclj6Q) | [Frank & Tony](https://open.spotify.com/artist/45inHjnamn5uQuuRXOnnmN) | [You Go Girl](https://open.spotify.com/album/50bVD7KSoqvKfvPVLqOHto) | 8:20 |
 | 23 | [Healing](https://open.spotify.com/track/3nhNVCiyHSYbYPFwoKbOA0) | [COMPUTER DATA](https://open.spotify.com/artist/5wwnitxvqbrtiGk3QW3BuN) | [Emotional Shift](https://open.spotify.com/album/68xVswDiJHf3kSVVoKVD9H) | 6:15 |
 | 24 | [Yeah Right](https://open.spotify.com/track/35tWhD29yvWwB0IDRr6zsL) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Big Fish Theory](https://open.spotify.com/album/5h3WJG0aZjNOrayFu3MhCS) | 3:08 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX84lm9VKJ19V.md) - [plain]
 | 30 | [Friendly](https://open.spotify.com/track/6RpCmGSiaF8x4hAPy1gNwO) | [Elsa Hewitt](https://open.spotify.com/artist/7xwbnGpTJA94MgILLAeThK) | [Quilt Jams](https://open.spotify.com/album/3bEXGkOqaDFmM62M9zm67H) | 2:14 |
 | 31 | [B O D Y](https://open.spotify.com/track/0Uwq5TKfVfanVZzoVCz620) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Bucklyn Bridge EP](https://open.spotify.com/album/6L25aUr2Ntt2pfYfXMcpDp) | 5:05 |
 | 32 | [Kane Train](https://open.spotify.com/track/0EDAZsV2t4Lh42R0mhjmXj) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Kane Train / Ur2yung](https://open.spotify.com/album/19KltJ72feDxM0ncxqE4vb) | 2:16 |
-| 33 | [Can't See Your Face Anymore](https://open.spotify.com/track/5dCaK9fWpT5U4m9BO96uCc) | [Swan Lingo](https://open.spotify.com/artist/3tATVVBQ7Xo8B3lNJVYc0x) | [Wonder What](https://open.spotify.com/album/7bSbz7kMBZskWvr9QegmIY) | 3:18 |
+| 33 | [Can't See Your Face Anymore](https://open.spotify.com/track/1CvBeKh7m3dySJXPtBntda) | [Swan Lingo](https://open.spotify.com/artist/3tATVVBQ7Xo8B3lNJVYc0x) | [Wonder What](https://open.spotify.com/album/2RIflWL6QYuwyTsvZDMphI) | 3:18 |
 | 34 | [I Fell in Love](https://open.spotify.com/track/39hJ5R7L6AvL4DyApOPRmH) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ), [Xenia Rubinos](https://open.spotify.com/artist/17UUkxLWmRP5P47W5kwVVb) | [I Fell In Love](https://open.spotify.com/album/4rT4HtEqudtBqg1tqa25Vw) | 4:20 |
 | 35 | [Only My Honesty Matters](https://open.spotify.com/track/2ips2RYfSiOdfDQMctNXIb) | [Baxter Dury](https://open.spotify.com/artist/0EgHhNmWcjusA7F2heSD0O), [Delilah Holliday](https://open.spotify.com/artist/1Jcu8RReH3v0k4Zmll7VFZ), [Étienne de Crécy](https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7) | [B.E.D](https://open.spotify.com/album/0iej9ho9Aro520crqw0Lzf) | 2:31 |
 | 36 | [Running Up That Hill](https://open.spotify.com/track/20yPPvSSfIomexVwLdgXSo) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Night Drive](https://open.spotify.com/album/6m0UuVV0fOC6m4p8J4ozRy) | 6:06 |
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX84lm9VKJ19V.md) - [plain]
 | 51 | [HOME \- Special Request Remix](https://open.spotify.com/track/394z8B6HlnaabwLLKk6Y8A) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H), [Special Request](https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H) | [HOME \(Special Request Remix\)](https://open.spotify.com/album/2oskSoxS7OSkoQr0tpuIlq) | 5:22 |
 | 52 | [GO FAST BABY \- Mura Masa Remix](https://open.spotify.com/track/77kwUrhZW5cdteY1tKKXju) | [Raissa](https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [GO FAST BABY \(Mura Masa Remix\)](https://open.spotify.com/album/4zFWw19tRbQPVrjnWJkZbF) | 2:57 |
 | 53 | [Silk](https://open.spotify.com/track/0wxxDoAQOJHQ4iIx600ptL) | [QUIET BISON](https://open.spotify.com/artist/5PmmaiHnrygDvhj3kaPT0f) | [Sequence](https://open.spotify.com/album/3qRhZ63sgziYOCeWRbITLs) | 4:08 |
-| 54 | [Note To Self](https://open.spotify.com/track/2Lho7mxHpPgTmaWLnpK2Vs) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Note To Self](https://open.spotify.com/album/71DrmZf8omc52ca1mdoyeF) | 2:17 |
-| 55 | [Pretty](https://open.spotify.com/track/6e4f88p8OxpqtbYywLAIbz) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Pretty](https://open.spotify.com/album/43kkkDmRKDwqBbP7IUyrSN) | 2:46 |
+| 54 | [Note To Self](https://open.spotify.com/track/7xHap3EOHq2Qn8OQhCpfgW) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [EPHEMERA](https://open.spotify.com/album/1TFgjl0bCMERMukkaPtY9m) | 2:17 |
+| 55 | [Pretty](https://open.spotify.com/track/6zt4DdMRYAFHNQj3D6BE0q) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Pretty](https://open.spotify.com/album/6zzEQ9WSwPleia1tlnNZpe) | 2:46 |
 
-Snapshot ID: `MTY1MzM1NDY4OCwwMDAwMDAwMDExZmZhZDkzZDdjMjdiODhmYjJmODBiMGUwMzU4YjI1`
+Snapshot ID: `MTY1MzM1NDY4OCwwMDAwMDAwMDA2M2NhNzk0ODljY2I1OTI1MmJmMDNjNjZhOWE2N2Zj`

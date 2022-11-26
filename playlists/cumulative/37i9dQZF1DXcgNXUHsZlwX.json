@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-01-03",
-  "description": "De la douceur pour accompagner votre journ\u00e9e. Photo: Daniel B\u00e9langer",
+  "description": "De la douceur pour accompagner votre journ\u00e9e. \u2744\ufe0f",
   "name": "Caf\u00e9 montr\u00e9alais",
   "published_playlist_ids": [
     "17ts8jbTOK4YpL5tyLJ1kX"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": null,
       "duration_ms": 184680,
       "name": "1000 Bornes",
       "url": "https://open.spotify.com/track/669Wu8pGCMfDJHFVkUwXco"
@@ -282,6 +282,24 @@
     },
     {
       "album": {
+        "name": "\u00c9chapper \u00e0 la nuit",
+        "url": "https://open.spotify.com/album/7tuf8ByiAjlsfAEMjuxdBy"
+      },
+      "artists": [
+        {
+          "name": "Les s\u0153urs Boulay",
+          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215506,
+      "name": "Antigone",
+      "url": "https://open.spotify.com/track/265EBHZJ581J0mMkMcaqbC"
+    },
+    {
+      "album": {
         "name": "Antigone",
         "url": "https://open.spotify.com/album/3jVJxDHxlxY1UyaDPSS9CL"
       },
@@ -293,7 +311,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-24",
       "duration_ms": 215506,
       "name": "Antigone",
       "url": "https://open.spotify.com/track/3gQrNbDCkxplgLJOQA8NJ7"
@@ -473,7 +491,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 247513,
       "name": "Au\u200b-\u200bdel\u00e0 de la mar\u00e9e (la m\u00e8re et le p\u00e8re et leur petit)",
       "url": "https://open.spotify.com/track/0rqY0DYt2aRwhoWBd89EVZ"
@@ -1061,7 +1079,7 @@
       ],
       "date_added": "2021-01-03",
       "date_added_asterisk": true,
-      "date_removed": "2022-09-10",
+      "date_removed": "2022-10-15",
       "duration_ms": 244026,
       "name": "Couvre-feu",
       "url": "https://open.spotify.com/track/1eapCpP1Qb0pNrTaxTiFW6"
@@ -2345,7 +2363,7 @@
       ],
       "date_added": "2021-01-03",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 150453,
       "name": "J'esp\u00e8re",
       "url": "https://open.spotify.com/track/2kUWRvNpKmcpesv1fCdOAO"
@@ -2483,6 +2501,28 @@
       "duration_ms": 256075,
       "name": "Je ne te dirai pas mon nom",
       "url": "https://open.spotify.com/track/3qW14HtcQf4f4g2q6V0R85"
+    },
+    {
+      "album": {
+        "name": "Je retourne \u00e0 la maison",
+        "url": "https://open.spotify.com/album/1XaroAGE9SU4W2ImUI5Scl"
+      },
+      "artists": [
+        {
+          "name": "Meghan Oak",
+          "url": "https://open.spotify.com/artist/0zcVg1Jym2sknaMn46kO2k"
+        },
+        {
+          "name": "Laurence Castera",
+          "url": "https://open.spotify.com/artist/4lBTYV3dOG4aAFKyKmeHsx"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200397,
+      "name": "Je retourne \u00e0 la maison",
+      "url": "https://open.spotify.com/track/5uJYXto5Lbfb3fCb1VXgR8"
     },
     {
       "album": {
@@ -2843,7 +2883,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-06",
+      "date_removed": "2022-11-17",
       "duration_ms": 189000,
       "name": "La cascade",
       "url": "https://open.spotify.com/track/2E9Tg1mtfo0JIOnca3JWm6"
@@ -2995,6 +3035,24 @@
     {
       "album": {
         "name": "consolation",
+        "url": "https://open.spotify.com/album/6wdpXFepbCvXuDmw45f9FR"
+      },
+      "artists": [
+        {
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265813,
+      "name": "la rivi\u00e8re",
+      "url": "https://open.spotify.com/track/4x0krxg1vdzPGTzBKPQBNt"
+    },
+    {
+      "album": {
+        "name": "consolation",
         "url": "https://open.spotify.com/album/3fDL1MKPGRyXRHUkHK1fR1"
       },
       "artists": [
@@ -3005,7 +3063,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 266786,
       "name": "la rivi\u00e8re",
       "url": "https://open.spotify.com/track/34TsmGq0ibmXtJAcfl7W5o"
@@ -3135,6 +3193,24 @@
       "duration_ms": 215291,
       "name": "Laissez-Moi",
       "url": "https://open.spotify.com/track/7KEPFYAiLCen71RTOMUzup"
+    },
+    {
+      "album": {
+        "name": "Le bois",
+        "url": "https://open.spotify.com/album/485Zc5MM4peA0rQQzLCAiC"
+      },
+      "artists": [
+        {
+          "name": "Vanille",
+          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179833,
+      "name": "Le bois",
+      "url": "https://open.spotify.com/track/48rln9BcoGPT5WlLzns2FP"
     },
     {
       "album": {
@@ -3283,6 +3359,24 @@
     {
       "album": {
         "name": "Interlude",
+        "url": "https://open.spotify.com/album/2ZqA1oNYPM798rTmx0radP"
+      },
+      "artists": [
+        {
+          "name": "Clerel",
+          "url": "https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200005,
+      "name": "Le Tour",
+      "url": "https://open.spotify.com/track/1pCNb1IlrpyBYCKPZ4v9wU"
+    },
+    {
+      "album": {
+        "name": "Interlude",
         "url": "https://open.spotify.com/album/7LeYTtQQe3CBRgRdIx1cZk"
       },
       "artists": [
@@ -3293,7 +3387,7 @@
       ],
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 200005,
       "name": "Le Tour",
       "url": "https://open.spotify.com/track/2bstLxHshzom3DVgB5j8m4"
@@ -3870,6 +3964,24 @@
     },
     {
       "album": {
+        "name": "Ma chanson Natashquan",
+        "url": "https://open.spotify.com/album/7xFdfFJadsGE0tdmbRf1D6"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198928,
+      "name": "Ma chanson Natashquan",
+      "url": "https://open.spotify.com/track/5N4W2lUwgTZYrAxduTC2sC"
+    },
+    {
+      "album": {
         "name": "Ma d\u00e9route (Radio Edit)",
         "url": "https://open.spotify.com/album/13fBLkvKWZ5bfMLdngqNdJ"
       },
@@ -3971,7 +4083,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 239573,
       "name": "Maison ouverte",
       "url": "https://open.spotify.com/track/6y3a7T7IHodmrJrr48aBi0"
@@ -5061,7 +5173,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 280513,
       "name": "Phile\u0301douche",
       "url": "https://open.spotify.com/track/0CKC1pIz3wLRcVkZAy0eJI"
@@ -5275,7 +5387,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 195030,
       "name": "Prendre soin du beau",
       "url": "https://open.spotify.com/track/6cqT1guXExDBibebscbGqg"
@@ -5363,6 +5475,24 @@
     {
       "album": {
         "name": "Interlude",
+        "url": "https://open.spotify.com/album/2ZqA1oNYPM798rTmx0radP"
+      },
+      "artists": [
+        {
+          "name": "Clerel",
+          "url": "https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299560,
+      "name": "Qtv",
+      "url": "https://open.spotify.com/track/0j8nyLW1JwaDtvO6sOobbO"
+    },
+    {
+      "album": {
+        "name": "Interlude",
         "url": "https://open.spotify.com/album/7LeYTtQQe3CBRgRdIx1cZk"
       },
       "artists": [
@@ -5373,7 +5503,7 @@
       ],
       "date_added": "2021-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 299560,
       "name": "Qtv",
       "url": "https://open.spotify.com/track/6awabNZmJaJBEuZVkUsadS"
@@ -5463,7 +5593,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": "2022-10-15",
       "duration_ms": 171546,
       "name": "Qui a mis le feu",
       "url": "https://open.spotify.com/track/4WIpgkUySL7bkVfaX0xl04"
@@ -6055,6 +6185,24 @@
       "duration_ms": 200186,
       "name": "Tes yeux \u00e0 Barcelone",
       "url": "https://open.spotify.com/track/45iROClNX8ebbkL95JK3x1"
+    },
+    {
+      "album": {
+        "name": "The Drudge",
+        "url": "https://open.spotify.com/album/5gLnMoG5rH3f83ZtnillpH"
+      },
+      "artists": [
+        {
+          "name": "Hanorah",
+          "url": "https://open.spotify.com/artist/3RxOQic8AVfAfIb17hVKUo"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185889,
+      "name": "The Drudge",
+      "url": "https://open.spotify.com/track/1FDZsIBVAYiNe56EwH8IWC"
     },
     {
       "album": {

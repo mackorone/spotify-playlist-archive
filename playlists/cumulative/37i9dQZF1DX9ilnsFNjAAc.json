@@ -709,10 +709,28 @@
       ],
       "date_added": "2021-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 246720,
       "name": "Foh",
       "url": "https://open.spotify.com/track/4FczDsZj8slwpppLz33rwA"
+    },
+    {
+      "album": {
+        "name": "Drmtrk V",
+        "url": "https://open.spotify.com/album/7n1cf3SUccyhmdDgCXRoog"
+      },
+      "artists": [
+        {
+          "name": "Scratcha DVA",
+          "url": "https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7"
+        }
+      ],
+      "date_added": "2021-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246720,
+      "name": "Foh",
+      "url": "https://open.spotify.com/track/5KOzLFWT6o3ACbNmCC6gGU"
     },
     {
       "album": {
@@ -1178,6 +1196,24 @@
     },
     {
       "album": {
+        "name": "MEDi SELECTiON: VOL 1",
+        "url": "https://open.spotify.com/album/7e7WmWHGgXgGqGcvAMMG8Z"
+      },
+      "artists": [
+        {
+          "name": "Aardvarck",
+          "url": "https://open.spotify.com/artist/3JR7NAWvzkrZR3pKwrixS3"
+        }
+      ],
+      "date_added": "2021-02-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 347229,
+      "name": "Monkey See...",
+      "url": "https://open.spotify.com/track/4lv0QpXlhZi6gHQxjmwYhD"
+    },
+    {
+      "album": {
         "name": "Monkey see...",
         "url": "https://open.spotify.com/album/6yw5uXE4E3Pw0hIdD2XwkK"
       },
@@ -1237,6 +1273,28 @@
     {
       "album": {
         "name": "Drmtrk II",
+        "url": "https://open.spotify.com/album/3Dh51hsahLEDBqRowPLvID"
+      },
+      "artists": [
+        {
+          "name": "Scratcha DVA",
+          "url": "https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7"
+        },
+        {
+          "name": "Lady Lykez",
+          "url": "https://open.spotify.com/artist/1nR7ltX9Vpms7eTzrTDkTw"
+        }
+      ],
+      "date_added": "2021-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144204,
+      "name": "Muhammad Ali - Original Mix",
+      "url": "https://open.spotify.com/track/0T0MJzkXiAvnnZ0XRyXZdZ"
+    },
+    {
+      "album": {
+        "name": "Drmtrk II",
         "url": "https://open.spotify.com/album/0odn367rNyxYJb1urf9JIs"
       },
       "artists": [
@@ -1251,7 +1309,7 @@
       ],
       "date_added": "2021-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 144204,
       "name": "Muhammad Ali - Original Mix",
       "url": "https://open.spotify.com/track/6EFSYhuNSpt6RC7n8ItHBD"
@@ -1389,6 +1447,32 @@
     {
       "album": {
         "name": "Pounce",
+        "url": "https://open.spotify.com/album/4aPyjcIQmlVzXuePvMBID7"
+      },
+      "artists": [
+        {
+          "name": "FLOHIO",
+          "url": "https://open.spotify.com/artist/7qffELscxpltKCso3ByH67"
+        },
+        {
+          "name": "Clams Casino",
+          "url": "https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A"
+        },
+        {
+          "name": "Cadenza",
+          "url": "https://open.spotify.com/artist/1bNzXbgsvRae7iPvgdwLsh"
+        }
+      ],
+      "date_added": "2021-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204714,
+      "name": "Pounce",
+      "url": "https://open.spotify.com/track/0wdgTXpl7C4Y1bCDSGObH1"
+    },
+    {
+      "album": {
+        "name": "Pounce",
         "url": "https://open.spotify.com/album/0jCZQwU8ez3ozZVjNvW9um"
       },
       "artists": [
@@ -1433,7 +1517,7 @@
       ],
       "date_added": "2021-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 204714,
       "name": "Pounce",
       "url": "https://open.spotify.com/track/3SrEARFQQeB1jPvcdY0TzR"
@@ -1677,6 +1761,24 @@
       "duration_ms": 163578,
       "name": "Stingray Shuffle",
       "url": "https://open.spotify.com/track/2J09O7CPiXmSpdoPMRJGTq"
+    },
+    {
+      "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/4ZXL28H9AGmkQUVWTpYHOO"
+      },
+      "artists": [
+        {
+          "name": "Jubilee",
+          "url": "https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK"
+        }
+      ],
+      "date_added": "2021-02-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 163578,
+      "name": "Stingray Shuffle",
+      "url": "https://open.spotify.com/track/4cQq04HMFxcX30UcOntbiP"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,231 likes - 60 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,731 likes - 60 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 | 17 | [My Testimony](https://open.spotify.com/track/196FnomJI3OvKmLy6PyFWk) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [I Win](https://open.spotify.com/album/0dUwwydEAKBx0aF0tXK2Fu) | 10:25 |
 | 18 | [You Say](https://open.spotify.com/track/6Up545NUflOiXo8cEraH49) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 4:34 |
 | 19 | [Set Our Hearts On You](https://open.spotify.com/track/0p9ZAOl4zccCzLuG8Zu5Kq) | [Stella](https://open.spotify.com/artist/3DJdQo4KmnMxc12F5k7gs5) | [Set Our Hearts On You](https://open.spotify.com/album/3SMVBmid1i45wkKam94eW6) | 4:22 |
-| 20 | [He Keeps on Doing \- Live](https://open.spotify.com/track/7MPTAGwPRQ4wymqL3pHD71) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Victorious in His Presence \(Live\)](https://open.spotify.com/album/4QykhBdI1H5g8dUYjmTBz0) | 8:06 |
+| 20 | [He Keeps on Doing \- Live](https://open.spotify.com/track/3W4cz3OHnncxrl0Oyl1eq1) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Victorious in His Presence](https://open.spotify.com/album/3f4jEnTgYErjDKNdmYtBWP) | 8:06 |
 | 21 | [There Is a Redeemer](https://open.spotify.com/track/3PpupS3j6AdrMQ06ch0YpF) | [Nqubeko Mbatha](https://open.spotify.com/artist/3WGpAjwdlhofFBmbpaWpKP) | [Forever I'll Worship](https://open.spotify.com/album/2Nb6oGM16E2tGpsuZxwXqF) | 4:57 |
 | 22 | [What A Beautiful Name](https://open.spotify.com/track/4KLj9QjEhJl2WU50mxRF9Z) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [What A Beautiful Name](https://open.spotify.com/album/7m2VtB9IdKJ0WZmnuSB5Q2) | 3:58 |
 | 23 | [Provider](https://open.spotify.com/track/0A5qMUHOf4XVGO5wWrp6cl) | [Ruan Josh](https://open.spotify.com/artist/0laMRbnKacdf1ueMabXUPO) | [Provider](https://open.spotify.com/album/5tlzyGjF93HuiYZgkeQZjz) | 4:00 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 | 59 | [Glory to Jesus](https://open.spotify.com/track/6xTrc6cdCG4swyK75GfOmk) | [Bishop Paul S\. Morton, Sr.](https://open.spotify.com/artist/5ktiG2i4Gv54oDKNMJvgmk), [The Full Gospel Ministry of Worship](https://open.spotify.com/artist/1m9u6bfLWyFzDsV3zK0MTV), [Bishop William Murphy](https://open.spotify.com/artist/6SQCM4MqvXTzLEWovhqG6b) | [A Month of Sundays](https://open.spotify.com/album/6GPwNqo4wJrrsy3DPv94jR) | 5:11 |
 | 60 | [Yeshua](https://open.spotify.com/track/37T7RYTyUFprERyvcVgKXR) | [Bobby Van Jaarsveld](https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD) | [Yeshua](https://open.spotify.com/album/55bIedlvdE17Lc5xS1kliN) | 3:19 |
 
-Snapshot ID: `MTY0NzU1NDM0MCwwMDAwMDAwMGFjYTRhZGJiYWNlMWMyNTI2YzE0NDEyNWZiYjhlN2U3`
+Snapshot ID: `MTY0NzU1NDM0MCwwMDAwMDAwMDJmYzVjYjQ2MmU3ZGY5ZDZmYzc4Y2E1NjU5Y2RiNjg2`

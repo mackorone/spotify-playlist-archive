@@ -2,9 +2,9 @@
 
 ### [Bangla Rock](https://open.spotify.com/playlist/37i9dQZF1DX3MUQrfTBXMY)
 
-> Headbangers of Bangladesh\. Cover \- Meghdol
+> Headbangers of Bangladesh\. Cover \- HIGHWAY
 
-104 songs - 8 hr 40 min - [published](https://open.spotify.com/playlist/5E1dMl5K80HmX4b03WyB3C)
+107 songs - 8 hr 56 min - [published](https://open.spotify.com/playlist/5E1dMl5K80HmX4b03WyB3C)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,8 +88,10 @@
 | [Ore Nil Doriya](https://open.spotify.com/track/633EJpBKhPns6Z6Tp4K9a7) | [A\. I\. Razu](https://open.spotify.com/artist/67ShnJ9ENhvPwmWymi4zYB) | [Ore Nil Doriya](https://open.spotify.com/album/1BHqOSF6p6Qzn70vOkNtsv) | 5:43 | 2022-06-16 |  |
 | [Otithi Pakhi \- 2021 Remastered version](https://open.spotify.com/track/7cXofuwNTxOcIx89cYw4tD) | [Prince Sohan](https://open.spotify.com/artist/6zCxXv0GO8LaRSNLOSr0i0) | [Otithi Pakhi \(2021 Remastered Version\)](https://open.spotify.com/album/02JtyTUKhl9CJS1QbXS2kt) | 1:25 | 2022-06-16 | 2022-09-24 |
 | [Pabona Tomay](https://open.spotify.com/track/3gLaGj5WlACwyjsFxjFDyL) | [Abir Mannan](https://open.spotify.com/artist/75tnGqluDnpfDILALcANFf) | [Pabona Tomay](https://open.spotify.com/album/4wIinxsyNNAWjXz1wMUilZ) | 6:20 | 2022-07-15 |  |
+| [Parabar](https://open.spotify.com/track/75esoVpXyHok6jAOaCSmWq) | [Mmanifesto](https://open.spotify.com/artist/5HYXOKiy88BlZStvgCNqHF) | [Parabar](https://open.spotify.com/album/2m0tykjdzNt1Uda5iWq0k2) | 5:09 | 2022-11-02 |  |
 | [Pichutaan](https://open.spotify.com/track/3kGrKLyNUdcVh27oqwEYdE) | [Sammam](https://open.spotify.com/artist/2lis2CHagnbMNlEUrhU0wu) | [Pichutaan](https://open.spotify.com/album/4LfHUgVOnuvznzkOGCTxwX) | 6:05 | 2022-06-16 | 2022-09-24 |
 | [Porinita](https://open.spotify.com/track/5fQBQdZwNcW1FKTuCXQWjU) | [Conclusion](https://open.spotify.com/artist/5SVgbg1080uyYMNC7rBoIp) | [Porinita](https://open.spotify.com/album/27MXNp9QGpVfaH06YTM7mJ) | 4:12 | 2022-09-09 |  |
+| [Priyosini](https://open.spotify.com/track/3CLpJ76tJjpmUKKyXKrHbZ) | [Unique Bond](https://open.spotify.com/artist/6Mz5djl2JRwJUn6WvDgx7T) | [Priyosini](https://open.spotify.com/album/70Owf4Xzf7Lu0sz861McNp) | 5:43 | 2022-11-02 |  |
 | [Protibimbo](https://open.spotify.com/track/5l2n874eQvJoq8qvEowNOJ) | [Angsho](https://open.spotify.com/artist/2NRt2eIZ7PmlsdvfghhhOp) | [Protibimbo](https://open.spotify.com/album/5EIRZsKGKu4HGbyT22FvYU) | 4:11 | 2022-06-16 | 2022-09-24 |
 | [Protishruti](https://open.spotify.com/track/4LFXQy7NN0KdraTRs2WZj9) | [13th Funeral](https://open.spotify.com/artist/6r4kTQoYjObienwuKU4PBT) | [Protishruti](https://open.spotify.com/album/2jGoGgLlFQKTpuEnxCXSDq) | 4:58 | 2022-06-16 |  |
 | [Punorjonmo](https://open.spotify.com/track/25Hmu4UVzgiiv298sHjERP) | [Chondropith](https://open.spotify.com/artist/25E9e3odwVN7nGzUuMRKW9) | [Punorjonmo](https://open.spotify.com/album/0mIPFSHREKf2yXhgXPrImn) | 7:53 | 2022-06-16 |  |
@@ -109,6 +111,7 @@
 | [Somoy gele](https://open.spotify.com/track/3RDSAyE32oOnMFoEWEDtH3) | [Lalon Band](https://open.spotify.com/artist/2sEoW2m80iIVDpHIlgfkPw) | [Khepa](https://open.spotify.com/album/6oXxXaKox9eRoP1QUxaUOT) | 4:41 | 2022-06-16 | 2022-07-29 |
 | [Tomay Mone Pore](https://open.spotify.com/track/5wW1wMvFAYkG0PIA1XSPkf) | [Shafayet Badhon](https://open.spotify.com/artist/6IkPa1RHI4966Tmbos22Px), [Bayzid Rony](https://open.spotify.com/artist/0d9xrOzUVP4VRw0zeVqiDh) | [Project North Star, Vol\. 1](https://open.spotify.com/album/0eg9Gl97LB6NoSL9C01eMO) | 2:45 | 2022-06-16 | 2022-07-16 |
 | [Tumi, Ami O Bhor](https://open.spotify.com/track/12KuRGdlIUoPOYUmMqFiPa) | [Nemesis](https://open.spotify.com/artist/694bRUlAdfIh4BpiMWI3FF) | [Tumi, Ami O Bhor](https://open.spotify.com/album/0nGeQAJDGQnl3pYUUPEwCy) | 4:50 | 2022-06-16 |  |
+| [Upashona](https://open.spotify.com/track/0C7rMypVyXtihS8lZ629av) | [Arekta Rock Band](https://open.spotify.com/artist/5c7JjKTazKNQubk2GjgbJT) | [Upashona](https://open.spotify.com/album/3g1lJIhvW7ftuaNcnjs9LV) | 4:53 | 2022-11-02 |  |
 | [Utshorgo](https://open.spotify.com/track/7tcHBMra1AZ3QWIHX3hX0r) | [Aftermath](https://open.spotify.com/artist/79iOqoOkavfzftyQjx21qp) | [JED](https://open.spotify.com/album/1oLSVb8CrKCdQyoY7LIeIZ) | 5:52 | 2022-06-16 | 2022-09-24 |
 | [Way Out](https://open.spotify.com/track/5fSpAecOc745zR9aPZr0Ls) | [Shepherds](https://open.spotify.com/artist/2jU7XZcRaztSc7jEs7F7ex) | [Way Out](https://open.spotify.com/album/7xfi75F5Ph8WSykPk6hGNR) | 3:13 | 2022-09-20 |  |
 | [ও মুরুব্বি](https://open.spotify.com/track/1Cn5z87cpiD0uxMIzcFE4b) | [Ariyan Khan](https://open.spotify.com/artist/28y51UfdmY0xm7lHLrDd34) | [ও মুরুব্বি](https://open.spotify.com/album/2bkb02lSyVRDdbPVjkZcER) | 3:43 | 2022-06-16 | 2022-09-24 |

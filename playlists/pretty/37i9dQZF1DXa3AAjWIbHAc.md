@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3AAjWIbHAc.md) - [plain]
 
 > Get your kid's day started with these high\-energy songs in English and Spanish!
 
-[Spotify](https://open.spotify.com/user/spotify) - 585 likes - 60 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 600 likes - 60 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bop!](https://open.spotify.com/track/0mDH8XQRpQUGkXXZzYAyu0) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Bop!](https://open.spotify.com/album/0c3hmNiRxvBihY6naTLgE9) | 2:36 |
+| 1 | [Bop!](https://open.spotify.com/track/0BGNXAcQi4cUN5Nbjf4Jn6) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Bop!](https://open.spotify.com/album/4EB3X4HFVCptX7k6raTtkt) | 2:36 |
 | 2 | [Good Day Sunshine \- Remastered 2009](https://open.spotify.com/track/7HTH1ppjkkOe7RLoBDKXYJ) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Revolver \(Remastered\)](https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR) | 2:09 |
 | 3 | [La Canciòn](https://open.spotify.com/track/58Ezud7EmDJTWdN5enfRpM) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [La Canciòn](https://open.spotify.com/album/7p3hSlLxQtEZ3OWinN1TF8) | 3:09 |
 | 4 | [Friday I'm in Love](https://open.spotify.com/track/263aNAQCeFSWipk896byo6) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu) | 3:34 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3AAjWIbHAc.md) - [plain]
 | 59 | [Boy With Luv \(feat\. Halsey\)](https://open.spotify.com/track/4a9tbd947vo9K8Vti9JwcI) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [MAP OF THE SOUL : PERSONA](https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6) | 3:49 |
 | 60 | [True Friend](https://open.spotify.com/track/3mgawAnZJZNZTFaZPofjNC) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Hannah Montana 2 \(Original Soundtrack\)](https://open.spotify.com/album/2Kl34Wu4F27ptdgtUoErJs) | 3:09 |
 
-Snapshot ID: `MTY0NzI3NzIxMiwwMDAwMDAwMGY0ZTQzZjdmODNhZmZlZWY1M2MyMGIyYzYzMmRmMjEy`
+Snapshot ID: `MTY0NzI3NzIxMiwwMDAwMDAwMGI4YWQ1MTAzMWY5N2EyMDYxNmM1ZTYyMzQ3ZWRiZTg5`

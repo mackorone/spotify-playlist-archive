@@ -4,7 +4,7 @@
 
 > Explore the dazzling sound of Japanese City Pop from the ‘80s./ 都会の夜をクルージング、週末は海辺でリゾート気分。煌めきに満ちた毎日を彩った、黄金期のシティポップ 。
 
-108 songs - 8 hr 2 min - [published](https://open.spotify.com/playlist/1nMKT6fER1pstJUFGf742z)
+109 songs - 8 hr 7 min - [published](https://open.spotify.com/playlist/1nMKT6fER1pstJUFGf742z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Morning Glory](https://open.spotify.com/track/4MCbJal7Vt63forg63Fap6) | [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N) | [Miss M](https://open.spotify.com/album/6ib3Oa6C7Re0CfxFE2Y8So) | 3:24 | 2022-05-24 | 2022-07-28 |
 | [Mystical Composer](https://open.spotify.com/track/0eikLFcQlkRvxvNIQmf5ec) | [Momoko Kikuchi](https://open.spotify.com/artist/0gT302jqzDIhNWY8YpzDCs) | [ADVENTURE](https://open.spotify.com/album/1VBTH11KSAOmymdocgM4qR) | 5:08 | 2022-06-28 |  |
 | [Mystical Composer](https://open.spotify.com/track/1SMO3yVhfUaCgVZ8Tj4j5a) | [Momoko Kikuchi](https://open.spotify.com/artist/0gT302jqzDIhNWY8YpzDCs) | [ADVENTURE](https://open.spotify.com/album/3WwmbDTzRRW9ucbwxsU4Zn) | 5:08 | 2022-05-24 | 2022-07-26 |
-| [Night Time](https://open.spotify.com/track/216Fc22fWQxAxlTxjtO8P2) | [DEW](https://open.spotify.com/artist/6s0EJ878jNWwfOMva62XgK) | [TOKYO 1980s Victor Edition \(The Compilation\) Boogie, Funk & Modern Soul from Japan](https://open.spotify.com/album/0v1MoZARbqi7wOeECMI8Up) | 4:14 | 2022-05-24 |  |
+| [Night Time](https://open.spotify.com/track/216Fc22fWQxAxlTxjtO8P2) | [DEW](https://open.spotify.com/artist/6s0EJ878jNWwfOMva62XgK) | [TOKYO 1980s Victor Edition \(The Compilation\) Boogie, Funk & Modern Soul from Japan](https://open.spotify.com/album/0v1MoZARbqi7wOeECMI8Up) | 4:14 | 2022-05-24 | 2022-10-19 |
 | [Ocean Side](https://open.spotify.com/track/6MMxBWWNfZKCi0hcTN6qqH) | [Momoko Kikuchi](https://open.spotify.com/artist/0gT302jqzDIhNWY8YpzDCs) | [OCEAN SIDE](https://open.spotify.com/album/6IurTWoag2oF0yomZhMToU) | 4:38 | 2022-05-24 | 2022-07-29 |
 | [Ocean Side](https://open.spotify.com/track/6eyiIH5DfjHkqRQMZvdLUV) | [Momoko Kikuchi](https://open.spotify.com/artist/0gT302jqzDIhNWY8YpzDCs) | [OCEAN SIDE](https://open.spotify.com/album/0luQvYcktzmxqbeCZ9owhw) | 4:38 | 2022-06-28 |  |
 | [OH NO,OH YES!](https://open.spotify.com/track/7hT9QzdqxxoWB0JtCGuCnD) | [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N) | [REQUEST \(30th Anniversary Edition\)](https://open.spotify.com/album/4IjRikscB01fLT0BtKT5g5) | 5:18 | 2022-05-24 |  |
@@ -79,6 +79,7 @@
 | [アクアマリンのままでいて \- 2021 Remix](https://open.spotify.com/track/3lIgUSh6MzLR0x6jg6EMlZ) | [Carlos Toshiki And Omega Tribe](https://open.spotify.com/artist/3ZSJOcGvaMOI6Op3PYpMM9) | [The Reverb 2022 OMEGA TRIBE \(WARNER MUSIC JAPAN Edition\)](https://open.spotify.com/album/36gn7tmmZceCd3SxHLBrg5) | 4:31 | 2022-09-27 |  |
 | [カナリア諸島にて](https://open.spotify.com/track/38XNkVwthnLAUH2RmoKCz3) | [大滝詠一](https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0) | [A LONG VACATION](https://open.spotify.com/album/3eUV7xEoXqQb43ek7Db04H) | 4:01 | 2022-05-24 |  |
 | [カラパナ・ブラック・サンド・ビーチ](https://open.spotify.com/track/17LEN5pPeHU7b5rLgQupGO) | [二名敦子](https://open.spotify.com/artist/6E3IfpRGFBLViCZZ5syIRj) | [ロコ・アイランド](https://open.spotify.com/album/61u9uutLeJHDzBL4Mm2TgA) | 4:13 | 2022-05-24 | 2022-07-21 |
+| [クルージング・オン](https://open.spotify.com/track/2MQUTZtyF7azClmtcbQwFB) | [Bread And Butter](https://open.spotify.com/artist/3OldswvDMARe1uWLYSrdEz) | [Monday Morning](https://open.spotify.com/album/3AXCgA9qtAcTM3zatEKkje) | 4:25 | 2022-09-27 |  |
 | [クルージング・オン](https://open.spotify.com/track/36hvyr5gfBGJ59juRph6EN) | [Bread And Butter](https://open.spotify.com/artist/3OldswvDMARe1uWLYSrdEz) | [Monday Morning](https://open.spotify.com/album/5dAeCq2fjxzoUSX8HlJrPa) | 4:25 | 2022-05-24 | 2022-07-29 |
 | [グッド・バイ・トランスファー](https://open.spotify.com/track/1bJjNpECiT1CDolSvtoyPJ) | [Raji](https://open.spotify.com/artist/6BIhMqvFyj8nYQrk6EmE0Y) | [ニュー・ベスト・ナウ/RAJI](https://open.spotify.com/album/2O5XbDOuyx6cf55J6h8tNs) | 4:19 | 2022-05-24 | 2022-07-29 |
 | [サザンクロス](https://open.spotify.com/track/1kRBdvP2yok6k2mL0xxLWq) | [Junichi Inagaki](https://open.spotify.com/artist/7tZ4vIF5bfR7cI1VOVPvpy) | [EDGE OF TIME](https://open.spotify.com/album/1AQ8E6n2dX0GBE53bGL7hj) | 5:37 | 2022-05-24 |  |
@@ -99,7 +100,7 @@
 | [堤防](https://open.spotify.com/track/7LHCJ0DMseGtg6R7F54XK9) | [二名敦子](https://open.spotify.com/artist/6E3IfpRGFBLViCZZ5syIRj) | [Fluorescent Lamp](https://open.spotify.com/album/1QT6NeEA9ipoIlnxFf9MZ4) | 4:24 | 2022-05-24 | 2022-07-27 |
 | [夏と秋のGood\-Luck](https://open.spotify.com/track/2mYULlDHrU6okgNls8rIBM) | [RA MU](https://open.spotify.com/artist/6SDnPouFAKtGxLzdb3cNW5) | [Thanks Giving](https://open.spotify.com/album/75dMYkPm0XQZkvtaBXxGmO) | 4:39 | 2022-05-24 | 2022-07-29 |
 | [思い出のビーチクラブ](https://open.spotify.com/track/6ynyyNv3m9ghqePgtDUQCE) | [Junichi Inagaki](https://open.spotify.com/artist/7tZ4vIF5bfR7cI1VOVPvpy) | [稲垣潤一 meets 林哲司](https://open.spotify.com/album/7AVLTM7be4utQhJ3yPBc89) | 4:37 | 2022-05-24 |  |
-| [感じるままに](https://open.spotify.com/track/5XPeE6Nf7Lt5onFGhqeRci) | [Kei Ishiguro](https://open.spotify.com/artist/3wiCwqhbzyXzW8GI7WfZSM) | [Purple Road](https://open.spotify.com/album/1dq8sevP6SbYfaSlhh18Zu) | 3:09 | 2022-05-24 | 2022-10-06 |
+| [感じるままに](https://open.spotify.com/track/5XPeE6Nf7Lt5onFGhqeRci) | [Kei Ishiguro](https://open.spotify.com/artist/3wiCwqhbzyXzW8GI7WfZSM) | [Purple Road](https://open.spotify.com/album/1dq8sevP6SbYfaSlhh18Zu) | 3:09 | 2022-05-24 | 2022-11-13 |
 | [我がままなハイヒール](https://open.spotify.com/track/0SNdUPM8z7PlBlN3pyqVjB) | [Kaoru Akimoto](https://open.spotify.com/artist/4LUn6its1opwPzxJC1RM72) | [Cologne](https://open.spotify.com/album/5uEl2mEcKfGMij4tpMT164) | 5:03 | 2022-06-28 |  |
 | [真珠のピアス](https://open.spotify.com/track/6D51xQYMQkh6LFOFlp3Gad) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [PEARL PIERCE](https://open.spotify.com/album/2KftKQGKx6r6zREGJq1cLa) | 5:44 | 2022-05-24 |  |
 | [純情](https://open.spotify.com/track/3D1xj7EHB4q4h4WdzceVpL) | [Ami Ozaki](https://open.spotify.com/artist/0BPn2k0BoBN6XceavMVCTj) | [Air Kiss](https://open.spotify.com/album/0XLONeOK3MxuYc1OJO05wl) | 3:31 | 2022-05-24 | 2022-07-29 |

@@ -189,7 +189,7 @@
       ],
       "date_added": "2021-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-26",
+      "date_removed": "2022-11-13",
       "duration_ms": 336239,
       "name": "Chanson d'amour en sol standard",
       "url": "https://open.spotify.com/track/4jAgDuNmbaARi8zEQulw7v"
@@ -315,7 +315,7 @@
       ],
       "date_added": "2021-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 234573,
       "name": "Danse avec moi",
       "url": "https://open.spotify.com/track/6GUIugMBHC5mAFJGQ6MIKa"
@@ -351,7 +351,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 194360,
       "name": "Debout",
       "url": "https://open.spotify.com/track/4WPqwHscUKuB8x1NqK5tT2"
@@ -506,6 +506,24 @@
     },
     {
       "album": {
+        "name": "One Heart",
+        "url": "https://open.spotify.com/album/1H4QtgObVxPXea86RvJgv9"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "date_added": "2021-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204440,
+      "name": "Et je t'aime encore - English version",
+      "url": "https://open.spotify.com/track/2Fp37ixPar6VZYhFhGaKg5"
+    },
+    {
+      "album": {
         "name": "Joe Dassin",
         "url": "https://open.spotify.com/album/32ZaJ7p8xvsYE8udh6vyOg"
       },
@@ -521,6 +539,24 @@
       "duration_ms": 206240,
       "name": "Et si tu n'existais pas",
       "url": "https://open.spotify.com/track/1GeszH3DWCOKwK0d8D5gEZ"
+    },
+    {
+      "album": {
+        "name": "Joe Dassin \u00c9ternel...",
+        "url": "https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa"
+      },
+      "artists": [
+        {
+          "name": "Joe Dassin",
+          "url": "https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF"
+        }
+      ],
+      "date_added": "2021-01-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 207080,
+      "name": "Et si tu n'existais pas",
+      "url": "https://open.spotify.com/track/3vIl0TRgS1UpxSTL8a19WF"
     },
     {
       "album": {
@@ -607,7 +643,7 @@
       ],
       "date_added": "2021-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-03",
+      "date_removed": "2022-11-13",
       "duration_ms": 238293,
       "name": "Grand Amour",
       "url": "https://open.spotify.com/track/1d2it6glA0gGa9to0YpuZH"
@@ -669,7 +705,7 @@
     {
       "album": {
         "name": "Equilibre",
-        "url": "https://open.spotify.com/album/0z1AllM1nbO8X3F7KKYy2t"
+        "url": "https://open.spotify.com/album/05i1g2VNkI7hBdIADta182"
       },
       "artists": [
         {
@@ -680,6 +716,24 @@
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 201573,
+      "name": "Il n'y a que toi",
+      "url": "https://open.spotify.com/track/1RqiVKbXmMpa5w70ebmCds"
+    },
+    {
+      "album": {
+        "name": "Equilibre",
+        "url": "https://open.spotify.com/album/0z1AllM1nbO8X3F7KKYy2t"
+      },
+      "artists": [
+        {
+          "name": "The Pirouettes",
+          "url": "https://open.spotify.com/artist/1Jp2BVxy67R0OaudOV9lm1"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-26",
       "duration_ms": 201573,
       "name": "Il n'y a que toi",
       "url": "https://open.spotify.com/track/437SZweapEV4CPxYc6OHi2"
@@ -1181,7 +1235,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 230066,
       "name": "L'Amour Existe Encore",
       "url": "https://open.spotify.com/track/1oFtPGyhdxN0glijlk43W6"
@@ -1269,6 +1323,28 @@
       "duration_ms": 187360,
       "name": "L'amour, l'amour, l'amour",
       "url": "https://open.spotify.com/track/6OGpURRDL26WAeouxgnfX9"
+    },
+    {
+      "album": {
+        "name": "L'amour, l'amour, l'amour",
+        "url": "https://open.spotify.com/album/6oj9nooSiowSdAl3Qhg66u"
+      },
+      "artists": [
+        {
+          "name": "Bon Entendeur",
+          "url": "https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD"
+        },
+        {
+          "name": "Mouloudji",
+          "url": "https://open.spotify.com/artist/4pZgpCHvAI14ug9dSfxTjp"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 188920,
+      "name": "L'amour, l'amour, l'amour",
+      "url": "https://open.spotify.com/track/1wMjKNDoHNZxTfPlGTfPA5"
     },
     {
       "album": {
@@ -1647,7 +1723,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 169520,
       "name": "Ma pr\u00e9f\u00e9rence",
       "url": "https://open.spotify.com/track/28DzOSJv7d8NW96v0ZD804"
@@ -1669,7 +1745,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": "2022-11-13",
       "duration_ms": 268243,
       "name": "Mais je t'aime",
       "url": "https://open.spotify.com/track/4dtG1p71E6VPt9BmVYWcY5"
@@ -1731,7 +1807,7 @@
       ],
       "date_added": "2021-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 204720,
       "name": "Maladie d'amour",
       "url": "https://open.spotify.com/track/2PYiUmFOp3Zx0GHHTXUW8F"

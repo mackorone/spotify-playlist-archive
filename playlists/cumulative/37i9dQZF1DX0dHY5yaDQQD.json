@@ -357,7 +357,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 181581,
-      "name": "Black Ops 2 - umru Remix",
+      "name": "Black Ops 2 (umru Remix)",
       "url": "https://open.spotify.com/track/0o9BiuhZ8FSr3G1M3AgRup"
     },
     {
@@ -1407,6 +1407,28 @@
     {
       "album": {
         "name": "TRUST",
+        "url": "https://open.spotify.com/album/558F6R7m4TZSKYb4xnANuF"
+      },
+      "artists": [
+        {
+          "name": "Catnapp",
+          "url": "https://open.spotify.com/artist/2W47Nby5KFaS1pdUt7qmCU"
+        },
+        {
+          "name": "Modeselektor",
+          "url": "https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212156,
+      "name": "in my closet",
+      "url": "https://open.spotify.com/track/2Tyz2yalMYgk9evio4Pc8W"
+    },
+    {
+      "album": {
+        "name": "TRUST",
         "url": "https://open.spotify.com/album/1bvrpTqzbfMe4HvdbzwGu2"
       },
       "artists": [
@@ -1421,7 +1443,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 212156,
       "name": "in my closet",
       "url": "https://open.spotify.com/track/3AZto3MZaVePHEXvt0Me9V"

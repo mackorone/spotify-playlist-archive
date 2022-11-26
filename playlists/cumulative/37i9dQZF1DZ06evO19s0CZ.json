@@ -350,6 +350,24 @@
     },
     {
       "album": {
+        "name": "Dirty Work (Remastered 2009)",
+        "url": "https://open.spotify.com/album/6Xui7Ex7Qs5CafFQnWeR6w"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204426,
+      "name": "Harlem Shuffle - Remastered 2009",
+      "url": "https://open.spotify.com/track/2StkuotzPgX5FpSjMpTvlw"
+    },
+    {
+      "album": {
         "name": "Blue & Lonesome",
         "url": "https://open.spotify.com/album/43TJjpNBfw0qY6E87VeIxX"
       },
@@ -534,6 +552,24 @@
     },
     {
       "album": {
+        "name": "The Rolling Stones, Now!",
+        "url": "https://open.spotify.com/album/592dKHbXtiglWyt8AEet23"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-25",
+      "duration_ms": 185786,
+      "name": "Little Red Rooster - Mono Version",
+      "url": "https://open.spotify.com/track/3GgpUEdSy8uO58XG35rRho"
+    },
+    {
+      "album": {
         "name": "Living In A Ghost Town",
         "url": "https://open.spotify.com/album/78s6su3Cox4tVqNi6uTuCR"
       },
@@ -581,7 +617,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 264266,
       "name": "Loving Cup",
       "url": "https://open.spotify.com/track/34OzAaQeAWlFnZBSyUAtRh"
@@ -599,7 +635,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 412760,
       "name": "Midnight Rambler",
       "url": "https://open.spotify.com/track/3tIvHt7VaIenprWXrYzgwb"
@@ -635,7 +671,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 251453,
       "name": "Monkey Man",
       "url": "https://open.spotify.com/track/5m6livL7ccIS92wq16n52r"
@@ -747,6 +783,28 @@
       "duration_ms": 202266,
       "name": "Paint It, Black",
       "url": "https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8"
+    },
+    {
+      "album": {
+        "name": "Deuces Wild",
+        "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        },
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213560,
+      "name": "Paying The Cost To Be The Boss",
+      "url": "https://open.spotify.com/track/1HK0gVdcEwTUaJzCTNhjA3"
     },
     {
       "album": {
@@ -1085,7 +1143,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 179133,
       "name": "Time Is On My Side - Mono Version",
       "url": "https://open.spotify.com/track/2jaN6NgXflZTj2z9CWcqaP"

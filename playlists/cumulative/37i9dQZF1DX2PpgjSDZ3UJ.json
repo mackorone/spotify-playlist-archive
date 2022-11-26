@@ -750,6 +750,24 @@
     },
     {
       "album": {
+        "name": "Good Bad Times",
+        "url": "https://open.spotify.com/album/1gMfclOm7dF5otF3Jw5j5s"
+      },
+      "artists": [
+        {
+          "name": "Hinds",
+          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 198546,
+      "name": "Good Bad Times",
+      "url": "https://open.spotify.com/track/1WOm9cjWd1m9MxY5c6YtO8"
+    },
+    {
+      "album": {
         "name": "The Prettiest Curse",
         "url": "https://open.spotify.com/album/7mBtzjnzUXnaDk9LtBrjZx"
       },
@@ -841,6 +859,28 @@
       "duration_ms": 225240,
       "name": "Honestidad",
       "url": "https://open.spotify.com/track/0Yk4uzzC0v0CeJSaMXcin2"
+    },
+    {
+      "album": {
+        "name": "Honestidad",
+        "url": "https://open.spotify.com/album/3VxLAkSyBHJgCis4P3ptv0"
+      },
+      "artists": [
+        {
+          "name": "Lucia Tacchetti",
+          "url": "https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ"
+        },
+        {
+          "name": "Kirnbauer",
+          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 225240,
+      "name": "Honestidad",
+      "url": "https://open.spotify.com/track/1FH0TaKEiuR6Gv8dnZYhRe"
     },
     {
       "album": {
@@ -971,6 +1011,24 @@
       "duration_ms": 284466,
       "name": "Karmadame",
       "url": "https://open.spotify.com/track/1xO5aVaGg8ksIuH1TL9Ba3"
+    },
+    {
+      "album": {
+        "name": "Indie Ac\u00fastico vol. I",
+        "url": "https://open.spotify.com/album/2buuC8Dh5dnOPsjUftmbKQ"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 290240,
+      "name": "Karmadame",
+      "url": "https://open.spotify.com/track/75GGLjI399nQYyvr5DD5ms"
     },
     {
       "album": {
@@ -1357,10 +1415,32 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 232226,
       "name": "Paranoia Pop",
       "url": "https://open.spotify.com/track/5BOg9CZMk1nWNMkklZ0Boy"
+    },
+    {
+      "album": {
+        "name": "Paranoia Pop",
+        "url": "https://open.spotify.com/album/7oKpkZ7JZqjK4GP5cyKCyV"
+      },
+      "artists": [
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        },
+        {
+          "name": "LOUTA",
+          "url": "https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232373,
+      "name": "Paranoia Pop",
+      "url": "https://open.spotify.com/track/13WCGJKAWrgZgz6grLryE4"
     },
     {
       "album": {
@@ -1447,7 +1527,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-30",
       "duration_ms": 197493,
       "name": "PSILOCIBINA",
       "url": "https://open.spotify.com/track/1Grn6fk4cXX55XoimiQ6iL"
@@ -1469,6 +1549,24 @@
       "duration_ms": 197493,
       "name": "PSILOCIBINA",
       "url": "https://open.spotify.com/track/4Rkzfz7OJGa84NPSBja9XH"
+    },
+    {
+      "album": {
+        "name": "PSILOCIBINA",
+        "url": "https://open.spotify.com/album/4waUPRkFL1OD8mRDM6dBM1"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197493,
+      "name": "PSILOCIBINA",
+      "url": "https://open.spotify.com/track/4s89QYq2NW7CvrdGGRXnjg"
     },
     {
       "album": {
@@ -1563,6 +1661,24 @@
       "duration_ms": 195652,
       "name": "Rush",
       "url": "https://open.spotify.com/track/5DwrfmCwc7ZtRl9vfYKOuv"
+    },
+    {
+      "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/5fhmAvUWLFpdhDRidaOqHK"
+      },
+      "artists": [
+        {
+          "name": "Fiebre",
+          "url": "https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 195652,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/5PTJwdNFi0MT7JEMBe1rnT"
     },
     {
       "album": {

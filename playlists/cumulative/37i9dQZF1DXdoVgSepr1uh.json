@@ -1,11 +1,33 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Argentina en la casa! Foto: Maria Becerra.",
+  "description": "Argentina en la casa! Foto: Nicki Nicole.",
   "name": "Reggaet\u00f3n Argentino",
   "published_playlist_ids": [
     "6tDUGVVPmoQw2RkVQfmtJk"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "A Veces (feat. Feid)",
+        "url": "https://open.spotify.com/album/5IUJCo0aRD98yxFbTvEezC"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191555,
+      "name": "A Veces (feat. Feid)",
+      "url": "https://open.spotify.com/track/63OA8vSo2PhUkmQopR1l64"
+    },
     {
       "album": {
         "name": "ACTITUD",
@@ -99,7 +121,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 169866,
       "name": "Atr\u00e9vete",
       "url": "https://open.spotify.com/track/4HDJzMYiqYxbON1CGa19x4"
@@ -332,6 +354,24 @@
     },
     {
       "album": {
+        "name": "CHIN CHIN",
+        "url": "https://open.spotify.com/album/3Fx7xYB3rpSfnvSSZNYmyx"
+      },
+      "artists": [
+        {
+          "name": "Oriana",
+          "url": "https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178546,
+      "name": "CHIN CHIN",
+      "url": "https://open.spotify.com/track/20rMomDU9dk6QDRKCYKrzh"
+    },
+    {
+      "album": {
         "name": "G\u00e9minis",
         "url": "https://open.spotify.com/album/2pBiSMw2ttPMNgqG6m9FFP"
       },
@@ -467,7 +507,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 141702,
       "name": "De Vacaciones",
       "url": "https://open.spotify.com/track/0hRKaSIym7bBRZ5oXLUsfx"
@@ -846,6 +886,24 @@
     },
     {
       "album": {
+        "name": "Fr\u00edo",
+        "url": "https://open.spotify.com/album/4ya6dMKyTfwrrcdkoROD8O"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155380,
+      "name": "Fr\u00edo",
+      "url": "https://open.spotify.com/track/0df1oUN5ta7FSWwjGvhHa5"
+    },
+    {
+      "album": {
         "name": "GABBANA",
         "url": "https://open.spotify.com/album/11CEP18aU8lXxZbQEv3wsF"
       },
@@ -998,7 +1056,25 @@
     },
     {
       "album": {
-        "name": "Hip\u00f3crita",
+        "name": "ESTADO CRITICAL",
+        "url": "https://open.spotify.com/album/4jEiRYaIUUEjHWvZdTQZVe"
+      },
+      "artists": [
+        {
+          "name": "Critical Baby",
+          "url": "https://open.spotify.com/artist/5am7WMRpHfR8rOsCdDsZLl"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131332,
+      "name": "HIP\u00d3CRITA",
+      "url": "https://open.spotify.com/track/3lXc5YpK6Pta0e7LpVb2lf"
+    },
+    {
+      "album": {
+        "name": "HIP\u00d3CRITA",
         "url": "https://open.spotify.com/album/6DGtE7wbmpWsvnT0nz8MSz"
       },
       "artists": [
@@ -1011,7 +1087,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 131332,
-      "name": "Hip\u00f3crita",
+      "name": "HIP\u00d3CRITA",
       "url": "https://open.spotify.com/track/6NV79c4HHFD43MJlDGFpSQ"
     },
     {
@@ -1137,7 +1213,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-08",
       "duration_ms": 174236,
       "name": "JUNGLE",
       "url": "https://open.spotify.com/track/3monFIRNCDt9we37DDvCCK"
@@ -1363,7 +1439,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 177360,
       "name": "Location",
       "url": "https://open.spotify.com/track/6DMbR6JnaJRQR9TZCq0fvu"
@@ -1429,7 +1505,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 158261,
       "name": "Madrid",
       "url": "https://open.spotify.com/track/0IexmD3A6JSdhVTFGbu1NZ"
@@ -1557,7 +1633,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 165957,
       "name": "Mi Debilidad",
       "url": "https://open.spotify.com/track/70LLyzO7jT6DsQvCwwHDch"
@@ -1810,6 +1886,32 @@
     },
     {
       "album": {
+        "name": "Ojo por Ojo (Remix)",
+        "url": "https://open.spotify.com/album/1z2gR2sfBksuVEUrpHq1TV"
+      },
+      "artists": [
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        },
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "Papichamp",
+          "url": "https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217478,
+      "name": "Ojo por Ojo - Remix",
+      "url": "https://open.spotify.com/track/6A0agxt2FyRkpjT74sbeal"
+    },
+    {
+      "album": {
         "name": "Olvidate",
         "url": "https://open.spotify.com/album/2OVbouaTwqVHertrc15Kgn"
       },
@@ -1927,7 +2029,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 196415,
       "name": "Pal Carajo el Amor",
       "url": "https://open.spotify.com/track/4AM8g5OElpKpuHjMuH1PSk"
@@ -1949,6 +2051,24 @@
       "duration_ms": 142285,
       "name": "Peligrosa",
       "url": "https://open.spotify.com/track/1upN12BuuI00PtPX5RwWQA"
+    },
+    {
+      "album": {
+        "name": "Perreando",
+        "url": "https://open.spotify.com/album/4RUqdOBF49MwSDwRhQMMRy"
+      },
+      "artists": [
+        {
+          "name": "El Osito Wito",
+          "url": "https://open.spotify.com/artist/3BaNymWUlGvGOXKRJmySoG"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137341,
+      "name": "Perreando",
+      "url": "https://open.spotify.com/track/338MIWSfnsOx5RVZWzq1GW"
     },
     {
       "album": {
@@ -1985,7 +2105,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 159587,
       "name": "Perreo Bendito",
       "url": "https://open.spotify.com/track/56uvG8rHQkvEtbRXK2R8rx"
@@ -2047,6 +2167,24 @@
       "duration_ms": 149622,
       "name": "Pretinha",
       "url": "https://open.spotify.com/track/0gokl2danyrRzlPh8OcOtN"
+    },
+    {
+      "album": {
+        "name": "QUIEN SI NO",
+        "url": "https://open.spotify.com/album/4ezvxWVA1DiKXSKROoN93a"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121429,
+      "name": "QUIEN SI NO",
+      "url": "https://open.spotify.com/track/1ozzc5mFL2UMOAcM14GBXp"
     },
     {
       "album": {
@@ -2570,6 +2708,24 @@
     },
     {
       "album": {
+        "name": "Todo",
+        "url": "https://open.spotify.com/album/53G1JnSG1R69cHCBz65gue"
+      },
+      "artists": [
+        {
+          "name": "Tygas",
+          "url": "https://open.spotify.com/artist/1mLmCADd22UpYNqCAykYKT"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118468,
+      "name": "Todo",
+      "url": "https://open.spotify.com/track/6QoVCBTmF5BMtXyFq80AJ2"
+    },
+    {
+      "album": {
         "name": "Temporada de Reggaet\u00f3n",
         "url": "https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl"
       },
@@ -2621,7 +2777,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 167441,
       "name": "UBI",
       "url": "https://open.spotify.com/track/3AJkvNYRAHCoWvSqInm55X"
@@ -2669,6 +2825,24 @@
       "duration_ms": 192143,
       "name": "UN PASO",
       "url": "https://open.spotify.com/track/4LUzWf03uKUeEKvo6FbhV0"
+    },
+    {
+      "album": {
+        "name": "Underground",
+        "url": "https://open.spotify.com/album/2npWGbycKmVVwOn4vo2xBr"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149471,
+      "name": "Underground",
+      "url": "https://open.spotify.com/track/3QWCxOv2YharMus6KbfiPJ"
     },
     {
       "album": {

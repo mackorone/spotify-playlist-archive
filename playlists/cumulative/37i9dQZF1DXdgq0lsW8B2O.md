@@ -4,7 +4,7 @@
 
 > Music from the early days of Ambient.
 
-53 songs - 7 hr 46 min - [published](https://open.spotify.com/playlist/71Cz0OyglZmhU8EyYAjCR6)
+54 songs - 7 hr 48 min - [published](https://open.spotify.com/playlist/71Cz0OyglZmhU8EyYAjCR6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Rosetti Noise/Chrystal Garden And A Coda](https://open.spotify.com/track/2oWwrX6JGdRC4cUnJlYiWF) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Pavilion Of Dreams](https://open.spotify.com/album/0hWjBUtA4eoFsyh6lygVRN) | 14:19 | 2021-12-23 |  |
 | [Rubycon \- Extended Introduction](https://open.spotify.com/track/2GaP0vbAfvycEjeAbeddDa) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Rubycon \(Deluxe Version\)](https://open.spotify.com/album/5vHDwkXdVRGHTCpc5is4Vo) | 15:04 | 2021-12-23 |  |
 | [Schöne Hände](https://open.spotify.com/track/1WbwlYiiMZGQlrFGirRnHv) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Cluster & Eno](https://open.spotify.com/album/0VSmGsL1RtyjE7bdAaSAvy) | 3:05 | 2021-12-23 |  |
+| [Sequent 'C' \- Remastered 2018](https://open.spotify.com/track/2hRsN3reHuwyLaHq2S1z0Q) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Phaedra \(Deluxe Version\)](https://open.spotify.com/album/6wugThEUTAa6BdI2hsqm5n) | 2:21 | 2022-11-23 |  |
 | [Shelob's Lair](https://open.spotify.com/track/5ytw4fxmZLNVeA1AnM6kOF) | [The Nazgûl](https://open.spotify.com/artist/4Kmo61G21FutbSfPFZAl3o) | [The Nazgûl](https://open.spotify.com/album/6wQuZqzSChU04b7geuDXq1) | 12:16 | 2021-12-23 |  |
 | [Strange Light \- Remastered 2005](https://open.spotify.com/track/4aj2jVlgfEhisRdGdxdcoU) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Music For Films](https://open.spotify.com/album/1ISvymGGbUmHY01eJ8EF07) | 2:09 | 2021-12-23 |  |
 | [Swastika Girls I](https://open.spotify.com/track/6Qi6sqViFIGP77beQoErWU) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [No Pussyfooting](https://open.spotify.com/album/3gHpX5wJn0kzAXJvwORG6u) | 7:32 | 2021-12-23 |  |

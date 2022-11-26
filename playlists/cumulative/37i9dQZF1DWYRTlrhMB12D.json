@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "Memoirically - Mohammed Rafi",
+        "url": "https://open.spotify.com/album/7EZdE0t7jl1HVelhq6OUej"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374256,
+      "name": "Aaj Mausam Bada Beimaan Hai",
+      "url": "https://open.spotify.com/track/126d5bt8Ff1a1CU4c097Ds"
+    },
+    {
+      "album": {
         "name": "Loafer",
         "url": "https://open.spotify.com/album/5KF5oozgwfL60Ku9ND0elO"
       },
@@ -95,7 +113,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 251414,
       "name": "Aaja Piya Tohe Pyar Doon (From \"Baharon Ke Sapne\")",
       "url": "https://open.spotify.com/track/7HCQpQGrg2FJT9mdBs75rm"
@@ -383,7 +401,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 339066,
       "name": "Aye-Dil-E-Nadan, Pt. 1",
       "url": "https://open.spotify.com/track/4GPR2blOOTmvo1cW2rTM7J"
@@ -659,7 +677,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": "2022-11-13",
       "duration_ms": 199119,
       "name": "Dil Ka Bhanwar Kare Pukar (From \"Tere Ghar Ke Samne\")",
       "url": "https://open.spotify.com/track/5jLLoCldTG8bsynJWI7jJT"
@@ -937,6 +955,24 @@
       "duration_ms": 261825,
       "name": "Hai Apna Dil To Aawara (Happy)",
       "url": "https://open.spotify.com/track/69NmjpybOgJ4oL2twAOA5g"
+    },
+    {
+      "album": {
+        "name": "LP Classics - Original LP Recordings, Vol. 2",
+        "url": "https://open.spotify.com/album/6KJIQMrWAe3PjXQRvNavD3"
+      },
+      "artists": [
+        {
+          "name": "Hemant Kumar",
+          "url": "https://open.spotify.com/artist/02Um2HIOrUdsy3wqPBZwsj"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 269618,
+      "name": "Hai Apna Dil To Aawara (Happy)",
+      "url": "https://open.spotify.com/track/7MJDY2TyHOyMqXII7bWOzu"
     },
     {
       "album": {
@@ -1549,7 +1585,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 228693,
       "name": "Mere Mehboob Qayamat Hogi, Pt. 1 (From \"Mr. X in Bombay\")",
       "url": "https://open.spotify.com/track/0us929HY2oacANZERkLkUL"
@@ -1799,7 +1835,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 284133,
       "name": "Pyar Diwana Hota Hai (From \"Kati Patang\")",
       "url": "https://open.spotify.com/track/6MYmHgOoy0BLOtdL2Zug6e"
@@ -1862,6 +1898,28 @@
     },
     {
       "album": {
+        "name": "One Man Many Roles - Raj Kapoor",
+        "url": "https://open.spotify.com/album/0RWJxWBJLFd29kHLaHwm8W"
+      },
+      "artists": [
+        {
+          "name": "Manna Dey",
+          "url": "https://open.spotify.com/artist/4kcoiVXIxvUoLUoHY1vJYU"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 260426,
+      "name": "Pyar Hua Iqrar Hua (From \"Shree 420\")",
+      "url": "https://open.spotify.com/track/29HAUjleJXEYgYlxslYArc"
+    },
+    {
+      "album": {
         "name": "Diamonds Forever - Lata Mangeshkar",
         "url": "https://open.spotify.com/album/7cmbUR0oPLKzrP6j6303Ad"
       },
@@ -1903,10 +1961,40 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 360893,
       "name": "Ramaiya Vastavaiya",
       "url": "https://open.spotify.com/track/37YVXy2OMYyT91185rBOsc"
+    },
+    {
+      "album": {
+        "name": "100 Years of Music in Indian Cinema, Vol. 6",
+        "url": "https://open.spotify.com/album/1Vx599UuMivbN8Cslwvnby"
+      },
+      "artists": [
+        {
+          "name": "Seema Alimchandani",
+          "url": "https://open.spotify.com/artist/5OqXb5TbK2oYXZR0J9bNxj"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 359293,
+      "name": "Ramaiya Vastavaiya - Voice Over",
+      "url": "https://open.spotify.com/track/08qDoPpgOoDZaeMN7unpPl"
     },
     {
       "album": {
@@ -1983,7 +2071,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-05",
+      "date_removed": "2022-11-13",
       "duration_ms": 229506,
       "name": "Suhana Safar Aur Yeh Mausam",
       "url": "https://open.spotify.com/track/3V7K8wMXBKaf936CUDr3Bt"
@@ -2081,7 +2169,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 283146,
       "name": "Teri Galiyon Mein",
       "url": "https://open.spotify.com/track/1KL9KL7o8af7b93kgQS85z"

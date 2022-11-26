@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Las Medias Negras",
+        "url": "https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186592,
+      "name": "25 Horas al Dia",
+      "url": "https://open.spotify.com/track/2AiYgkx1P9mmZNvC64sfnW"
+    },
+    {
+      "album": {
         "name": "Medias Negras",
         "url": "https://open.spotify.com/album/2H4kDjp9o09GAy3BYh61dr"
       },
@@ -199,7 +217,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-10-13",
       "duration_ms": 414000,
       "name": "Carola - En Vivo",
       "url": "https://open.spotify.com/track/6syiv4squ2EZgcVgxBnmNc"
@@ -451,7 +469,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 357500,
       "name": "Frios Enemigos/noche de Banda - En Vivo",
       "url": "https://open.spotify.com/track/3awZnjk2w7QRDXYudcvBA3"
@@ -512,6 +530,24 @@
     },
     {
       "album": {
+        "name": "Lagrimas Del Corazon",
+        "url": "https://open.spotify.com/album/0E994bG63U0vbSYRaO9vmo"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157680,
+      "name": "Juan Colorado",
+      "url": "https://open.spotify.com/track/6gmJIbN1gHEE0u2sq3u2bu"
+    },
+    {
+      "album": {
         "name": "L\u00e1grimas Del Coraz\u00f3n",
         "url": "https://open.spotify.com/album/69OJ2MI81EAxVs7alXIX82"
       },
@@ -523,7 +559,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 159680,
       "name": "Juan Colorado",
       "url": "https://open.spotify.com/track/2ddBgXnu6BB9pQNTbf0v5t"
@@ -541,10 +577,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 183133,
       "name": "La Danza Del Coyote",
       "url": "https://open.spotify.com/track/2mIy6LxmVeUS0WKSclC81G"
+    },
+    {
+      "album": {
+        "name": "Las Medias Negras",
+        "url": "https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187768,
+      "name": "La Danza del Coyote",
+      "url": "https://open.spotify.com/track/2k8uSmaLryu83VrICrhOjS"
     },
     {
       "album": {
@@ -638,6 +692,24 @@
     },
     {
       "album": {
+        "name": "Banda Rafaga En Vivo! , Vol.1",
+        "url": "https://open.spotify.com/album/1G3PD5Exsb96cyFrS9MPdS"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164400,
+      "name": "La Otra Espa\u00f1a - En Vivo",
+      "url": "https://open.spotify.com/track/6cx3phEMsyfMqRs5RlsGsa"
+    },
+    {
+      "album": {
         "name": "Banda Rafaga en Vivo! Desde Tepic, Nayarit",
         "url": "https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp"
       },
@@ -649,7 +721,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 151000,
       "name": "Las Medias Negras - En Vivo",
       "url": "https://open.spotify.com/track/4yPlCcF26zH7EqXHZ9k6xD"
@@ -1261,7 +1333,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-25",
+      "date_removed": null,
       "duration_ms": 181500,
       "name": "Tomando Cerveza",
       "url": "https://open.spotify.com/track/5TKwexlO82W5RCzWLRPFpk"

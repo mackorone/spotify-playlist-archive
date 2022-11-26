@@ -128,6 +128,24 @@
     },
     {
       "album": {
+        "name": "Dublin Bars and Drinking Songs",
+        "url": "https://open.spotify.com/album/5v5bS9u2zXmA46kGEWSlEU"
+      },
+      "artists": [
+        {
+          "name": "Brier",
+          "url": "https://open.spotify.com/artist/58jVaCeVhiCSoeZvpsN5vM"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 151440,
+      "name": "Boys of Killbegs",
+      "url": "https://open.spotify.com/track/0WZ6hJ5WUO24F6sbAbYRY3"
+    },
+    {
+      "album": {
         "name": "Man for Galway: The Best of Sean Tyrrell",
         "url": "https://open.spotify.com/album/157Wy6gQ2nkxywtT1eEn9f"
       },
@@ -194,6 +212,62 @@
     },
     {
       "album": {
+        "name": "Man for Galway: The Best of Sean Tyrrell",
+        "url": "https://open.spotify.com/album/157Wy6gQ2nkxywtT1eEn9f"
+      },
+      "artists": [
+        {
+          "name": "Sean Tyrrell",
+          "url": "https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o"
+        },
+        {
+          "name": "Steve Hanks",
+          "url": "https://open.spotify.com/artist/2JzIQuzOb8hpiB5zhZ7lWI"
+        },
+        {
+          "name": "Liam Lewis",
+          "url": "https://open.spotify.com/artist/2d7KaenH6NFhcG2vQSWq2V"
+        },
+        {
+          "name": "Shane Holden",
+          "url": "https://open.spotify.com/artist/35NQALNohwTvNkHxlq9NPk"
+        },
+        {
+          "name": "Frankie Colohan",
+          "url": "https://open.spotify.com/artist/1Au9cSkLGg1y2zHNTDgSa9"
+        },
+        {
+          "name": "James Blennerhasset",
+          "url": "https://open.spotify.com/artist/1wdeICbFumo0MSCwfE8E8l"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 209653,
+      "name": "Cry of the Dreamer",
+      "url": "https://open.spotify.com/track/3mGSLmM8ShResGYCTeVcAD"
+    },
+    {
+      "album": {
+        "name": "St. Patrick's Day: Ultimate Irish Pub Songs",
+        "url": "https://open.spotify.com/album/4VcdKePWLXjMgOVq59EJ4u"
+      },
+      "artists": [
+        {
+          "name": "The Dicey Reillys",
+          "url": "https://open.spotify.com/artist/5lRAgykmSF0P87fBzjsh0h"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 135133,
+      "name": "Dicey Reilly",
+      "url": "https://open.spotify.com/track/59YIJfu0St8aOq8dnr9M9i"
+    },
+    {
+      "album": {
         "name": "The Craic Is Mighty",
         "url": "https://open.spotify.com/album/6w8gxnTh1C8wRG7Ky9D6Qt"
       },
@@ -209,6 +283,24 @@
       "duration_ms": 137146,
       "name": "Dicey Reilly",
       "url": "https://open.spotify.com/track/7czr5O1j7nTBqDLrNvMLYH"
+    },
+    {
+      "album": {
+        "name": "The Best of Celtic Music",
+        "url": "https://open.spotify.com/album/0Zh8guxRaHMumyWy4ItnlB"
+      },
+      "artists": [
+        {
+          "name": "Dave Munnelly",
+          "url": "https://open.spotify.com/artist/31lWaf3NIsi9OuxxzNSdan"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 182800,
+      "name": "Dohertys - Tommy Peoples",
+      "url": "https://open.spotify.com/track/7sEWAVVxkWkFjWsSwoyeZg"
     },
     {
       "album": {
@@ -293,6 +385,42 @@
       "duration_ms": 189840,
       "name": "Handsome Molly",
       "url": "https://open.spotify.com/track/6na8yhbibdnCNDiQwq1yCF"
+    },
+    {
+      "album": {
+        "name": "Irish Folk",
+        "url": "https://open.spotify.com/album/2n33fR7gNyWd19xPVK1oos"
+      },
+      "artists": [
+        {
+          "name": "House Devils, The",
+          "url": "https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 189840,
+      "name": "Handsome Molly",
+      "url": "https://open.spotify.com/track/7Hgc0UYDqCZg03MvOH5THN"
+    },
+    {
+      "album": {
+        "name": "St. Patrick's Day: Ultimate Irish Pub Songs",
+        "url": "https://open.spotify.com/album/4VcdKePWLXjMgOVq59EJ4u"
+      },
+      "artists": [
+        {
+          "name": "The Dicey Reillys",
+          "url": "https://open.spotify.com/artist/5lRAgykmSF0P87fBzjsh0h"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 133373,
+      "name": "I'll Tell Me Ma",
+      "url": "https://open.spotify.com/track/0YYzaLZly84U1Pfzp12wC7"
     },
     {
       "album": {
@@ -602,6 +730,28 @@
     },
     {
       "album": {
+        "name": "Man for Galway: The Best of Sean Tyrrell",
+        "url": "https://open.spotify.com/album/157Wy6gQ2nkxywtT1eEn9f"
+      },
+      "artists": [
+        {
+          "name": "Brendan Mulligan",
+          "url": "https://open.spotify.com/artist/0E9QheQjmEKItjqvs0ZHiG"
+        },
+        {
+          "name": "Sean Tyrrell",
+          "url": "https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 247440,
+      "name": "Sweet Ballyvaughan",
+      "url": "https://open.spotify.com/track/4L4XZDwmQt0rH1jB1rWOQ4"
+    },
+    {
+      "album": {
         "name": "The Craic Is Mighty",
         "url": "https://open.spotify.com/album/6w8gxnTh1C8wRG7Ky9D6Qt"
       },
@@ -617,6 +767,24 @@
       "duration_ms": 228373,
       "name": "The Black Velvet Band",
       "url": "https://open.spotify.com/track/3p9Bw4IitBaQYSoVbv9tED"
+    },
+    {
+      "album": {
+        "name": "The Irishman's Finest Collection",
+        "url": "https://open.spotify.com/album/2l7eOOqMJJfUHa7XZuWcNA"
+      },
+      "artists": [
+        {
+          "name": "Johnny Duhan",
+          "url": "https://open.spotify.com/artist/434bJTf7zzYAqnMhWNuAly"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 248000,
+      "name": "The Blight",
+      "url": "https://open.spotify.com/track/5Ab2Ku6LljoUU9Sjnj2c2a"
     },
     {
       "album": {
@@ -697,7 +865,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 329626,
       "name": "The Cap and Bells / The Frost Is All Over",
       "url": "https://open.spotify.com/track/61zkyIkZwG6UTAbbNg97zU"
@@ -719,6 +887,28 @@
       "duration_ms": 231400,
       "name": "The Charladies' Ball",
       "url": "https://open.spotify.com/track/2xmbVtHzfnZiSjzYjRliap"
+    },
+    {
+      "album": {
+        "name": "Irish Festival",
+        "url": "https://open.spotify.com/album/7mfyOcjeuUcCI1rwpqPhC0"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Tara",
+          "url": "https://open.spotify.com/artist/24JAAnBviO3vTMZ5N9taj8"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 228400,
+      "name": "The Charladies' Ball",
+      "url": "https://open.spotify.com/track/4xbTlrtnrYAtAInXUvKfIm"
     },
     {
       "album": {
@@ -787,10 +977,28 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": null,
       "duration_ms": 342200,
       "name": "The Flower of Finea",
       "url": "https://open.spotify.com/track/1HZisJ0NtZbsEE1DZormSp"
+    },
+    {
+      "album": {
+        "name": "Irish Folk",
+        "url": "https://open.spotify.com/album/2n33fR7gNyWd19xPVK1oos"
+      },
+      "artists": [
+        {
+          "name": "House Devils, The",
+          "url": "https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 342200,
+      "name": "The Flower of Finea",
+      "url": "https://open.spotify.com/track/3Ep3IdTgcSEROxt96TzHkh"
     },
     {
       "album": {
@@ -894,6 +1102,24 @@
     },
     {
       "album": {
+        "name": "And So the Story Goes",
+        "url": "https://open.spotify.com/album/67xSY1GD1hdg4cipNuh5sJ"
+      },
+      "artists": [
+        {
+          "name": "Se\u00e1n Tyrrell, Ronan Browne & Kevin Glackin",
+          "url": "https://open.spotify.com/artist/0uTrtjSKL3BAkHSb7hA0Ut"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 237746,
+      "name": "The Man for Galway / The Rambling Pitchfork (Song & Jig) (feat. Fergus Feely)",
+      "url": "https://open.spotify.com/track/7HtoQYDtTS4QlJpas6NPII"
+    },
+    {
+      "album": {
         "name": "Irish Folk: Adieu to Old Ireland",
         "url": "https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK"
       },
@@ -927,6 +1153,24 @@
       "duration_ms": 222200,
       "name": "The Month of January",
       "url": "https://open.spotify.com/track/5NLhEltFqmzlXx6erUdGyj"
+    },
+    {
+      "album": {
+        "name": "Song for Ireland",
+        "url": "https://open.spotify.com/album/1cWuC6mhnhmtZOOICbZEAA"
+      },
+      "artists": [
+        {
+          "name": "Noel McLoughlin",
+          "url": "https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 248250,
+      "name": "The Reason I Left Mullingar",
+      "url": "https://open.spotify.com/track/69BIUIZZ8xIYJhQ0t1eY1J"
     },
     {
       "album": {
@@ -1000,6 +1244,28 @@
     },
     {
       "album": {
+        "name": "St. Patrick's Day Collection (Irish Favourites)",
+        "url": "https://open.spotify.com/album/34rqD4ZpBk09oYnT6d1vyk"
+      },
+      "artists": [
+        {
+          "name": "Brogue",
+          "url": "https://open.spotify.com/artist/5KHKWKrJziaGcg7LG7SNdL"
+        },
+        {
+          "name": "Paddy O'Gorman",
+          "url": "https://open.spotify.com/artist/0KTaPPzzokXm78lUl6Bu1b"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 184613,
+      "name": "The Wild Rover",
+      "url": "https://open.spotify.com/track/65eEJfagIx2tfAxK0Rx4vV"
+    },
+    {
+      "album": {
         "name": "Music & Ballads from Ireland",
         "url": "https://open.spotify.com/album/22UCiw5HAWZ8LTllg2hCvl"
       },
@@ -1033,6 +1299,24 @@
       "duration_ms": 257600,
       "name": "Water Sammon's Grandmother/Concertina Reel/Brendan McMahon's",
       "url": "https://open.spotify.com/track/0AVIewuLIa4XLARxEnoK4p"
+    },
+    {
+      "album": {
+        "name": "Discover: Irish Music",
+        "url": "https://open.spotify.com/album/2ynIXAScUbmls1imbAuxeB"
+      },
+      "artists": [
+        {
+          "name": "Colin Boland",
+          "url": "https://open.spotify.com/artist/0CA8KyAOXaKePB0eUDXsUG"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 224546,
+      "name": "Wild Mountain Thyme",
+      "url": "https://open.spotify.com/track/0BlA2inRKmPR6tYoVNtR3s"
     },
     {
       "album": {

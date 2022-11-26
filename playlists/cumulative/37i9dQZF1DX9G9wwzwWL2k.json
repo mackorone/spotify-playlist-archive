@@ -56,6 +56,28 @@
     },
     {
       "album": {
+        "name": "Sviatoslav Richter Plays Piano Masterpieces",
+        "url": "https://open.spotify.com/album/44VmzEdbntdyUw6tiJHOuV"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Sviatoslav Richter",
+          "url": "https://open.spotify.com/artist/4hBgCK8FyJ5bV36ZZLB56X"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 224000,
+      "name": "10 Preludes, Op. 23: No. 5 Alla marcia in G Minor",
+      "url": "https://open.spotify.com/track/6Tlh3gcmlQa68BBaNVR7uh"
+    },
+    {
+      "album": {
         "name": "A Soundtrack for Walking: Rachmaninoff",
         "url": "https://open.spotify.com/album/1TuavRtfghRzT1Wp7KXPKp"
       },
@@ -1264,6 +1286,36 @@
     },
     {
       "album": {
+        "name": "Rachmaninoff - A Classical Morning",
+        "url": "https://open.spotify.com/album/3vlnaDtNDh4hXCBlzp3iJe"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Yuja Wang",
+          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
+        },
+        {
+          "name": "Sim\u00f3n Bol\u00edvar Symphony Orchestra Of Venezuela",
+          "url": "https://open.spotify.com/artist/5p6H6NoqsMesY9ZvMBg1tu"
+        },
+        {
+          "name": "Gustavo Dudamel",
+          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 950280,
+      "name": "Piano Concerto No. 3 in D Minor, Op. 30: I. Allegro ma non tanto - Live",
+      "url": "https://open.spotify.com/track/4EeHpfY5OOAP2mUdU1fVJi"
+    },
+    {
+      "album": {
         "name": "Rachmaninov: Piano Concerto No.3 In D Minor, Op.30 / Prokofiev: Piano Concerto No.2 In G Minor, Op.16 (Live From Caracas / 2013)",
         "url": "https://open.spotify.com/album/1oRI5tMJtYyl5FHIKmZbFY"
       },
@@ -1952,6 +2004,58 @@
     },
     {
       "album": {
+        "name": "Serene Beethoven",
+        "url": "https://open.spotify.com/album/2yrs0zoFPDsLyfkhBDyLqH"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Carlos Kleiber",
+          "url": "https://open.spotify.com/artist/6aL4ovuNuBg7rmrPjOTIUN"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 441853,
+      "name": "Symphony No. 5 in C Minor, Op. 67: I. Allegro con brio",
+      "url": "https://open.spotify.com/track/1JO4uLUMTCPsGvaiC3UbVC"
+    },
+    {
+      "album": {
+        "name": "Originals Beethoven Box",
+        "url": "https://open.spotify.com/album/1kiYP14ax8HLDP9lkwdPwb"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Carlos Kleiber",
+          "url": "https://open.spotify.com/artist/6aL4ovuNuBg7rmrPjOTIUN"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442000,
+      "name": "Symphony No. 5 in C Minor, Op. 67: I. Allegro con brio",
+      "url": "https://open.spotify.com/track/2ygeBLTP9uu3OW3VTulD8N"
+    },
+    {
+      "album": {
         "name": "Beethoven: Symphonies Nos.5 & 7",
         "url": "https://open.spotify.com/album/6eOuqhCfrTPp1H0YbQ9PmL"
       },
@@ -1971,7 +2075,7 @@
       ],
       "date_added": "2020-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 442000,
       "name": "Symphony No. 5 in C Minor, Op. 67: I. Allegro con brio",
       "url": "https://open.spotify.com/track/6cUCckpdlqHJ5Ascf2uH2A"
@@ -2237,6 +2341,32 @@
       "duration_ms": 657000,
       "name": "Symphony No. 9 in D Minor, WAB 109 (original 1894 version, ed. L. Nowak): II. Scherzo: Bewegt, lebhaft - Trio: Schnell - Scherzo (da capo)",
       "url": "https://open.spotify.com/track/671oStFWLVPQkxi4qD5epG"
+    },
+    {
+      "album": {
+        "name": "Epic Music",
+        "url": "https://open.spotify.com/album/6wWrfORQOaZIY2GWrzX8ks"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Herbert von Karajan",
+          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 680893,
+      "name": "Symphony No. 9 in E Minor, Op. 95, B. 178 \"From the New World\": 4. Allegro con fuoco",
+      "url": "https://open.spotify.com/track/5VXwbEmbh3c3cF0rTMHHok"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The best of Latin blues\. Cover: Carlos Santana
 
-70 songs - 4 hr 43 min - [published](https://open.spotify.com/playlist/0qvevBr9lNKoCGGwYBd5uj)
+73 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/0qvevBr9lNKoCGGwYBd5uj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Blues Magic](https://open.spotify.com/track/1izys4V3iMHvjORAlR4s2a) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Santana IV](https://open.spotify.com/album/7ppcZmolcIO6nCQkYpIxsh) | 4:25 | 2020-12-01 |  |
 | [Blues para Mi Guitarra](https://open.spotify.com/track/0SKdaP9wv1tZW0KYBlrYX2) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues, Vol.8: Caso Cerrado](https://open.spotify.com/album/5HLhnpzahXgWFXpaXUMAGM) | 7:09 | 2020-12-01 | 2022-07-29 |
 | [Blues para Mi Guitarra](https://open.spotify.com/track/42JynzhyR1fbyEvSuJHqEE) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues, Vol.8: Caso Cerrado](https://open.spotify.com/album/3YiOZf1gNNtzbyCkLqzKi5) | 7:09 | 2020-12-01 |  |
+| [Blues para Mi Guitarra](https://open.spotify.com/track/6dgxc2QWXkPE8l4XzuZ3Kc) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues 71/99](https://open.spotify.com/album/3zB6RrCvfdQ2wOlR1vTCtD) | 7:09 | 2020-12-01 | 2022-11-13 |
 | [Brío](https://open.spotify.com/track/5BoA6gJzAUfa57JQ0WBt4t) | [La Ramona](https://open.spotify.com/artist/6iWNuXAKgG1vQee6aWmTEW) | [Brío](https://open.spotify.com/album/4JLK7syJQrrezJ2gY8fY4W) | 3:36 | 2020-12-01 |  |
 | [Café Madrid](https://open.spotify.com/track/1HUX0GSZQoc4hqZJ76vokM) | [Mississippi Blues Band](https://open.spotify.com/artist/2LHhyQMZpyAKja3217IhWD) | [Mbugi](https://open.spotify.com/album/5hK2UcaTlooBysUwJjSMhY) | 3:26 | 2020-12-01 |  |
 | [Casa Con Diez Pinos](https://open.spotify.com/track/2Ras7UcXvzenVmkyVMibdh) | [Manal](https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1) | [Manal](https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C) | 4:14 | 2020-12-01 |  |
@@ -58,11 +59,13 @@
 | [Mugre](https://open.spotify.com/track/4JiQitejySZpFVqtXDGsW9) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0), [Carca](https://open.spotify.com/artist/2IepsVr1DGAWIy15lh6sxC) | [Sancocho Stereo](https://open.spotify.com/album/6C5oBZMtcSchAu9TuTSrKB) | 4:13 | 2021-08-20 |  |
 | [Nunca Antes](https://open.spotify.com/track/3MQb8IGVwWrtPk3D4yX7wC) | [David Tanganelli](https://open.spotify.com/artist/6vYA1nveYtnaxieU1WE3K3), [Magnolia Blues Rock](https://open.spotify.com/artist/5jLFKI49IUfPb9fT7rrc5j) | [Up](https://open.spotify.com/album/7ax8UzSvJb3T2toKKAue6g) | 3:48 | 2020-12-01 |  |
 | [Nunca antes](https://open.spotify.com/track/0eXeArP9RpkSyA0nOvsXSF) | [Magnolia Blues Rock](https://open.spotify.com/artist/5jLFKI49IUfPb9fT7rrc5j), [\- David Tanganelli Armónica y Voz](https://open.spotify.com/artist/0aFgtAZt9YFN0tqOBvw5Wn) | [Tributo al Blues Vol.1](https://open.spotify.com/album/1rqoFxfb6ErWQ8xYtnKqTg) | 3:48 | 2020-12-01 | 2022-07-29 |
+| [Nunca Antes](https://open.spotify.com/track/48crkUV9uPpCy8xzHDGExr) | [Magnolia Blues Rock](https://open.spotify.com/artist/5jLFKI49IUfPb9fT7rrc5j), [David Tanganelli](https://open.spotify.com/artist/6vYA1nveYtnaxieU1WE3K3) | [Tributo al Blues, Vol\. 1](https://open.spotify.com/album/3xFO6qK7NxlU6XDHU9mRiX) | 3:48 | 2020-12-01 | 2022-11-13 |
 | [Pescado Frito](https://open.spotify.com/track/4zZap389TUn8BdBEBdRwMO) | [Los Queltehues](https://open.spotify.com/artist/1UfisxiUoIaJDc5WByJBHB) | [Pescado Frito](https://open.spotify.com/album/6FzKM9t2KEsX16Y6zwu6eM) | 4:20 | 2020-12-01 |  |
 | [Por um Monte de Cerveja](https://open.spotify.com/track/3wkzTnvK7AZX0oEB7LrvUJ) | [Celso Blues Boy](https://open.spotify.com/artist/2SQHdu1so7C2b5yBwnEUYP) | [Por um Monte de Cerveja](https://open.spotify.com/album/39T4zEXowzhV3fV4Bwgk61) | 3:52 | 2020-12-01 |  |
 | [Preocupado y Aburrido](https://open.spotify.com/track/4u34ORMzURyViyUF2OIks4) | [Alambre Gonzalez](https://open.spotify.com/artist/3oLANiNTf5qyrciZmnPyYU) | [Alambre González & Amigos](https://open.spotify.com/album/6Uyq3DIYiEi3eRVX1m2CHO) | 3:57 | 2020-12-01 |  |
 | [Putreblues](https://open.spotify.com/track/1E9kMrrh3q58raTfz3L0kC) | [Blues Motel](https://open.spotify.com/artist/2VD4qhDrH6pU7dbaK9nuni) | [Abrazo Insomnio](https://open.spotify.com/album/7aw5ksKElZajzM9OPC0MTf) | 4:29 | 2020-12-01 |  |
 | [Que Curioso](https://open.spotify.com/track/2CyvqsB03KpExsynQbXme9) | [Nasta Super](https://open.spotify.com/artist/2BHl0Z177jpqHlFR5f4G9D), [Chris Cain](https://open.spotify.com/artist/3HFfi1wOWbXd83qSiwJhuv) | [Sólo por Mí](https://open.spotify.com/album/0B1UcrgwdRhCvHKhECshAZ) | 5:14 | 2020-12-01 |  |
+| [Que Pena](https://open.spotify.com/track/1GBga6jrKsaw3QKZx82IGB) | [Bender Bucowski](https://open.spotify.com/artist/6i5Zx8vR9kRUFfDnZRKAMa) | [Que Pena](https://open.spotify.com/album/26W9CnAEctnOkYV0MEVAtv) | 2:52 | 2022-10-14 |  |
 | [Ruta 66](https://open.spotify.com/track/3TDVu80AX1ajC3BRJYlmeJ) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues, Vol.8: Caso Cerrado](https://open.spotify.com/album/3YiOZf1gNNtzbyCkLqzKi5) | 3:06 | 2020-12-01 |  |
 | [Ruta 66](https://open.spotify.com/track/3nl6qTl9qmaWYgNkvxt9v7) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues, Vol.8: Caso Cerrado](https://open.spotify.com/album/5HLhnpzahXgWFXpaXUMAGM) | 3:06 | 2020-12-01 | 2022-07-29 |
 | [The King of The Latin Blues \(feat\. Steve Hunter & Bobby Alexander\)](https://open.spotify.com/track/29ovCP4ChViCwSYWYO9TuD) | [Vargas Blues Band](https://open.spotify.com/artist/3K6ueahyMBq96ZtDjo9LSn), [Steve Hunter](https://open.spotify.com/artist/3wueKF9YNupBFRjQfWoyAc), [Bobby Alexander](https://open.spotify.com/artist/4ZmSudkqArrYnDIrQmWi4l) | [King of Latin Blues](https://open.spotify.com/album/5KHZUTEVbbXX4TJtlROycP) | 4:31 | 2020-12-01 |  |

@@ -4,7 +4,7 @@
 
 > Banda MS de Sergio Lizárraga nos lleva a Mazatlán, Sinaloa con sus canciones favoritas para disfrutar unos deliciosos mariscos.
 
-57 songs - 3 hr 2 min - [published](https://open.spotify.com/playlist/5fIr1ul7pTtBY7tN2jf5Ny)
+59 songs - 3 hr 7 min - [published](https://open.spotify.com/playlist/5fIr1ul7pTtBY7tN2jf5Ny)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Bonita](https://open.spotify.com/track/5CYjYxgqGkYVXP70iVasim) | [Los Dorados](https://open.spotify.com/artist/3q0KiiH0SqZoOftCEZNAis) | [Bonita](https://open.spotify.com/album/0GrIKHwtfk4TpzwwJh9QPu) | 3:21 | 2022-01-20 |  |
 | [Bota La Bata](https://open.spotify.com/track/3VveKJh9V3L8G77n1IMdSz) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Escuela De Rancho](https://open.spotify.com/album/3MAavJryyyldhnZGkgMr2T) | 2:51 | 2022-01-20 |  |
 | [Bota La Bata](https://open.spotify.com/track/3csd5YNsgYPvVJSvTSnMK2) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [45 Éxitos \(Versiones Originales\)](https://open.spotify.com/album/2zimj5t0E2S9NV55WD9zXz) | 2:53 | 2022-01-20 | 2022-07-29 |
+| [Bota La Bata](https://open.spotify.com/track/7zq5Q5aFA1jeqRdfVU0pbM) | [Banda Sinaloense MS de Sergio Lizárraga](https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP) | [Es Viernes y El Cuerpo Lo Sabe \- Banda](https://open.spotify.com/album/6GxLeMOVdNtAr5AkkwhFow) | 2:51 | 2022-01-20 | 2022-11-13 |
 | [Camaron Pelao](https://open.spotify.com/track/3n6Ne0aeUxttPF4S4y2vuy) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Hay Amor](https://open.spotify.com/album/2yvdvfj2gjnAEWfBHSpq7u) | 3:27 | 2022-01-20 |  |
 | [Cinco De Té](https://open.spotify.com/track/2ysrSWkjh4NcqR9keoM6Ex) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Raíces](https://open.spotify.com/album/3P0x6Hb7bQmv3mAHZ3M4Pl) | 3:24 | 2022-01-20 |  |
 | [Cumbia Del Sol](https://open.spotify.com/track/10jdyLaybUVbi8AlJf7nYF) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Fuera De Control](https://open.spotify.com/album/4x89VPVDzHs5iooMxojyDw) | 3:14 | 2022-01-20 |  |
@@ -45,6 +46,7 @@
 | [Me Gusta Tu Vieja](https://open.spotify.com/track/7LSPHfVcaebR9Oo20ZyRDd) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [No Me Pidas Perdón](https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL) | 3:07 | 2022-01-20 |  |
 | [Mi Gusto Es](https://open.spotify.com/track/7t2ix5iyt6UPwKkaXbgL8s) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Era Cab \- El Viejo](https://open.spotify.com/album/5BQIRjVPuSGgT9AB11jzKu) | 2:33 | 2022-01-20 |  |
 | [Mi Gusto Es](https://open.spotify.com/track/5iJNb87XU4xodNITsyR2PR) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Es Cab ..\. El Viejo](https://open.spotify.com/album/1xYpAyCv3StPKCHOsfWFxD) | 2:33 | 2022-01-20 | 2022-07-29 |
+| [Mi Gusto Es](https://open.spotify.com/track/6OyZyhNBZTwgMn6zxIS0d7) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Nuestra Historia](https://open.spotify.com/album/32OdNOo5ASvpnCZAMoxO6I) | 2:35 | 2022-01-20 | 2022-11-13 |
 | [Ojitos Mentirosos](https://open.spotify.com/track/1e1xg1VPnD0XQ1tRLZDdOj) | [Banda Cuisillos](https://open.spotify.com/artist/2jPqqtZbK8JDXSz94QLpCX) | [Baila para Mí](https://open.spotify.com/album/3oPF99WsqhHc1CujeiGTrj) | 3:37 | 2022-01-20 |  |
 | [Pero La Recuerdo](https://open.spotify.com/track/3mtThJNrqACi4f6GJeduAR) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv) | [Pero La Recuerdo](https://open.spotify.com/album/1rZTUDYyxdMYExoSiMa9kC) | 4:02 | 2022-01-20 |  |
 | [Pica Perica \(En Vivo\)](https://open.spotify.com/track/0aZNpdsyVJi2GBvvVWRA48) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Puras De Viento En Vivo, Vol\. 2](https://open.spotify.com/album/2I1QM5M1gqlrpV6IbkYUrz) | 1:44 | 2022-01-20 |  |

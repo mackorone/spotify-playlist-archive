@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-09",
-  "description": "\u5728\u97f3\u6a02\u7684\u61f7\u62b1\u88e1\uff0c\u4f60\u60f3\u54ed\u5c31\u54ed\u3002\n\u4f46\u4f60\u624d\u771f\u7684\u53ef\u60e1 \u83ab\u540d\u50b7\u5f97\u9ad4\u7121\u5b8c\u819a\n\u70ba\u8a8d\u771f\u6f14\u51fa \u7d50\u675f\u5f97\u5009\u4fc3 \u541e\u541e\u53c8\u5410\u5410\n\u8ab0\u62b1\u982d\u5730\u75db\u54ed \u71b1\u60c5\u5730\u6b61\u547c \u90fd\u53ef\u6709\u53ef\u7121\u3002",
+  "description": "\u5728\u97f3\u6a02\u7684\u61f7\u62b1\u88e1\uff0c\u4f60\u60f3\u54ed\u5c31\u54ed\u3002\n\u6211\u60f3\u5922\u898b\u4f60 \u53ef\u4f60\u6c92\u56de\u61c9\n\u5225\u6015\u6211\u518d\u6b21\u7d93\u6b77\u5206\u96e2\n\u6211\u60f3\u4f60 \u5c31\u770b\u770b\u93e1\u5b50\u88e1\u7684\u6211\u81ea\u5df1\u3002",
   "name": "\u60b2\u50b7\u91cb\u653e",
   "published_playlist_ids": [
     "2SCoxCvdP1evPUUya0Z55H"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-16",
       "duration_ms": 287333,
       "name": "\u4e0d\u5728\u4e00\u8d77\u5c31\u4e0d\u6703\u5206\u958b",
       "url": "https://open.spotify.com/track/4ozGCLtrgrzy6Ve3WWwtjN"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": "2022-11-13",
       "duration_ms": 281573,
       "name": "\u4e0d\u662f\u6211\u4e0d\u660e\u767d",
       "url": "https://open.spotify.com/track/22Dglcz1VwyXTCEBt6PIdG"
@@ -473,7 +473,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": "2022-11-13",
       "duration_ms": 310295,
       "name": "\u4f60\u8fd8\u8981\u6211\u600e\u6837",
       "url": "https://open.spotify.com/track/0kuKQQMx6L3efJuRVTgWQb"
@@ -779,7 +779,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 281182,
       "name": "\u5730\u7403\u4e0a\u6700\u6d6a\u6f2b\u7684\u4e00\u9996\u6b4c",
       "url": "https://open.spotify.com/track/5V3eOL0Zyb3OqhwOmFRvyO"
@@ -905,7 +905,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": "2022-11-13",
       "duration_ms": 287013,
       "name": "\u5982\u679c\u6c92\u6709\u4f60",
       "url": "https://open.spotify.com/track/5u6hY0h8gUWfPQSdNuKgQb"
@@ -1057,6 +1057,24 @@
       "duration_ms": 230520,
       "name": "\u5fc3\u52d5",
       "url": "https://open.spotify.com/track/2DglkgKB5UlwrCdwcHZjXE"
+    },
+    {
+      "album": {
+        "name": "\u91cd\u8b6f \u9673\u6f54\u5100",
+        "url": "https://open.spotify.com/album/04RwIWrzlcjqk8WwIYP0Yc"
+      },
+      "artists": [
+        {
+          "name": "Kit Chan",
+          "url": "https://open.spotify.com/artist/5sOVNhUf8T3jiPhvFA6T7L"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 231653,
+      "name": "\u5fc3\u52d5",
+      "url": "https://open.spotify.com/track/6c6bGcH9CWUJOHQKCGLX0j"
     },
     {
       "album": {
@@ -1215,7 +1233,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": null,
       "duration_ms": 320400,
       "name": "\u6211\u4e0d\u96e3\u904e",
       "url": "https://open.spotify.com/track/4XrWar13kLO1jr535AzKrQ"
@@ -2033,7 +2051,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": "2022-11-13",
       "duration_ms": 248573,
       "name": "\u8857\u89d2\u7684\u795d\u798f",
       "url": "https://open.spotify.com/track/1M5MN2PnMtf7YhnqukD4xa"
@@ -2347,6 +2365,24 @@
       "duration_ms": 249721,
       "name": "\u932f\u904e",
       "url": "https://open.spotify.com/track/7rIwDvcfedU6IfqIcweezM"
+    },
+    {
+      "album": {
+        "name": "\u7121\u6578",
+        "url": "https://open.spotify.com/album/5iKJwAiDKFl0IPM4kQ55XX"
+      },
+      "artists": [
+        {
+          "name": "Joker Xue",
+          "url": "https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293813,
+      "name": "\u95dc\u65bc\u4f60",
+      "url": "https://open.spotify.com/track/6CJFDeZktYnqWuIOKqClxy"
     },
     {
       "album": {

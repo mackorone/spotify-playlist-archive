@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Normal Fears",
+        "url": "https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-18",
+      "duration_ms": 192960,
+      "name": "365",
+      "url": "https://open.spotify.com/track/0n3ZzesrKA1H5ZTxfFQiDg"
+    },
+    {
+      "album": {
         "name": "Open Book",
         "url": "https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH"
       },
@@ -23,6 +41,24 @@
       "duration_ms": 191657,
       "name": "Always",
       "url": "https://open.spotify.com/track/7ARF5nMaEIwAvGNoY5V5DT"
+    },
+    {
+      "album": {
+        "name": "I Am an Island",
+        "url": "https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 194919,
+      "name": "An Island",
+      "url": "https://open.spotify.com/track/677aexYSCY66OqFPoVhA57"
     },
     {
       "album": {
@@ -127,7 +163,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 158914,
       "name": "Dust",
       "url": "https://open.spotify.com/track/1GJOD1hL174nX6mdaLXeSs"
@@ -145,7 +181,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 198013,
       "name": "End Of The World",
       "url": "https://open.spotify.com/track/2MZyaYM9njg7EYYBVvy59N"
@@ -199,7 +235,7 @@
       ],
       "date_added": "2022-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": "2022-10-13",
       "duration_ms": 217133,
       "name": "Gratitude",
       "url": "https://open.spotify.com/track/3U0VBpy0YU3dAE7KCh9s0W"
@@ -253,7 +289,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": null,
       "duration_ms": 198413,
       "name": "Honest To God",
       "url": "https://open.spotify.com/track/5ZTCrAYPecQ2zjt7lmwNYw"
@@ -307,7 +343,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 220375,
       "name": "Joanna",
       "url": "https://open.spotify.com/track/3ba6RDNSJ1bJHTgme6QtIs"
@@ -329,6 +365,24 @@
       "duration_ms": 242868,
       "name": "Just Past the Point of Breaking",
       "url": "https://open.spotify.com/track/43AD5Zw1Nc4ksgbR9vLGUl"
+    },
+    {
+      "album": {
+        "name": "I Am an Island",
+        "url": "https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188447,
+      "name": "Lights",
+      "url": "https://open.spotify.com/track/3Hw9NcN6S0zMt7B9IwY7z7"
     },
     {
       "album": {
@@ -437,7 +491,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-10-12",
       "duration_ms": 284973,
       "name": "Nothing to No One",
       "url": "https://open.spotify.com/track/4yTOBKjpXlbZ1VfiFmRD3W"
@@ -455,7 +509,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 319506,
       "name": "Oh Yes",
       "url": "https://open.spotify.com/track/6zK1NS9Mgik6BKycYDFRFs"
@@ -525,12 +579,48 @@
           "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
         }
       ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205600,
+      "name": "The Landscape",
+      "url": "https://open.spotify.com/track/1LxFtsrTWzrv7VWHxuHElR"
+    },
+    {
+      "album": {
+        "name": "Sum of All Your Parts",
+        "url": "https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 238546,
       "name": "The Rain",
       "url": "https://open.spotify.com/track/5TJXQHPvQpcYssuFnL8hy8"
+    },
+    {
+      "album": {
+        "name": "Open Book",
+        "url": "https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251068,
+      "name": "Wondrous Heart",
+      "url": "https://open.spotify.com/track/62LS6ZD9cMZszkioaeLTOo"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4wEnux"

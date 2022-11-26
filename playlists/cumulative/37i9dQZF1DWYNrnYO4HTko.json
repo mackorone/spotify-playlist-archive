@@ -452,6 +452,24 @@
     },
     {
       "album": {
+        "name": "Emotion (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/43agRjUycGJBF2ZoEVBZwQ"
+      },
+      "artists": [
+        {
+          "name": "Papa Wemba",
+          "url": "https://open.spotify.com/artist/6a4cdntqTPN10fph5A8zRQ"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 193533,
+      "name": "Fa Fa Fa Fa Fa (Sad Song)",
+      "url": "https://open.spotify.com/track/66jWnpVzdnDuszjY6SnhGH"
+    },
+    {
+      "album": {
         "name": "The Commitments",
         "url": "https://open.spotify.com/album/0oApAGRZuXmvwR0tUmJWLL"
       },
@@ -895,10 +913,28 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 228858,
       "name": "I've Been Loving You Too Long",
       "url": "https://open.spotify.com/track/5EMPc2auf81fkY6mLfOTAs"
+    },
+    {
+      "album": {
+        "name": "Everlasting",
+        "url": "https://open.spotify.com/album/0Ohny76eNCYxU4TQEm07iz"
+      },
+      "artists": [
+        {
+          "name": "Martina McBride",
+          "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228868,
+      "name": "I've Been Loving You Too Long",
+      "url": "https://open.spotify.com/track/71wChc3CSiggAp5gnNPmI9"
     },
     {
       "album": {
@@ -917,6 +953,24 @@
       "duration_ms": 167026,
       "name": "I've Been Loving You Too Long",
       "url": "https://open.spotify.com/track/6FYcUjSuBISmRIhCYiKvuB"
+    },
+    {
+      "album": {
+        "name": "Temazos Soul Cl\u00e1sico",
+        "url": "https://open.spotify.com/album/4q1VzMFzlKKJGT2GhpXdzp"
+      },
+      "artists": [
+        {
+          "name": "Seal",
+          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 186840,
+      "name": "I've Been Loving You Too Long",
+      "url": "https://open.spotify.com/track/2XLgoBK5UUk1eh6AlH276f"
     },
     {
       "album": {
@@ -993,7 +1047,7 @@
     {
       "album": {
         "name": "The Lobbyist",
-        "url": "https://open.spotify.com/album/1S9ZERe8LYZOptvTA6xVVI"
+        "url": "https://open.spotify.com/album/4CLYyen634lYaEdSAXwap4"
       },
       "artists": [
         {
@@ -1004,6 +1058,24 @@
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 233733,
+      "name": "I've Been Loving You Too Long - Acoustic",
+      "url": "https://open.spotify.com/track/2EuRP3vOw8TC4UdrvfYMeA"
+    },
+    {
+      "album": {
+        "name": "The Lobbyist",
+        "url": "https://open.spotify.com/album/1S9ZERe8LYZOptvTA6xVVI"
+      },
+      "artists": [
+        {
+          "name": "Diesel",
+          "url": "https://open.spotify.com/artist/4rCLXPaqaUjGa1aHDwkviR"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-24",
       "duration_ms": 233733,
       "name": "I've Been Loving You Too Long - Acoustic",
       "url": "https://open.spotify.com/track/5iQDAhRkHX079o0yYsq2xj"
@@ -1288,6 +1360,24 @@
     },
     {
       "album": {
+        "name": "Ultimate Adeva",
+        "url": "https://open.spotify.com/album/6q7MiJ7pgjjzVdIsggNoo3"
+      },
+      "artists": [
+        {
+          "name": "Adeva",
+          "url": "https://open.spotify.com/artist/3zSxZFUKZEYmEpHkwZKXzQ"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 240186,
+      "name": "Respect",
+      "url": "https://open.spotify.com/track/1RFYqPdx8PfrwXyohSrG2Z"
+    },
+    {
+      "album": {
         "name": "Adeva",
         "url": "https://open.spotify.com/album/1wDqtffpyz1jfkXmN306PH"
       },
@@ -1419,8 +1509,8 @@
       },
       "artists": [
         {
-          "name": "The Freedom Sounds Featuring Wayne Henderson",
-          "url": "https://open.spotify.com/artist/0B8tMvNxl04bM3bhgYAl4b"
+          "name": "The Freedom Sounds",
+          "url": "https://open.spotify.com/artist/79TsszbcaDn957VtVKQGaA"
         },
         {
           "name": "Wayne Henderson",
@@ -1559,6 +1649,24 @@
       "duration_ms": 141066,
       "name": "Sweet Soul Music",
       "url": "https://open.spotify.com/track/2YuIyYri67bgUXKQW5V9XW"
+    },
+    {
+      "album": {
+        "name": "100 Greatest Feel Good",
+        "url": "https://open.spotify.com/album/5PHIHxs0Xiu66Ah511IRFw"
+      },
+      "artists": [
+        {
+          "name": "Arthur Conley",
+          "url": "https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 141066,
+      "name": "Sweet Soul Music",
+      "url": "https://open.spotify.com/track/3GECIBplhAMkgQ2pzUfplS"
     },
     {
       "album": {

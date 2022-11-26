@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 195800,
       "name": "33",
       "url": "https://open.spotify.com/track/1s0OBTsDMtBR8sH1XqKaZh"
@@ -45,10 +45,32 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-09",
       "duration_ms": 195800,
       "name": "33",
       "url": "https://open.spotify.com/track/2v8Y3pbX3XgoZ8L0vNZO54"
+    },
+    {
+      "album": {
+        "name": "Hold Fast",
+        "url": "https://open.spotify.com/album/4s0iIcY1K22uuodSqd8l3b"
+      },
+      "artists": [
+        {
+          "name": "Colin Macleod",
+          "url": "https://open.spotify.com/artist/6sijvTWaedetuV2MJF3YwU"
+        },
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195800,
+      "name": "33",
+      "url": "https://open.spotify.com/track/7yRoSZ5Pu6NS6QcWbgyZwu"
     },
     {
       "album": {
@@ -160,6 +182,24 @@
     },
     {
       "album": {
+        "name": "All I Do",
+        "url": "https://open.spotify.com/album/2uR5kkAFtzj1PdDihBf0jG"
+      },
+      "artists": [
+        {
+          "name": "Ben Murphy",
+          "url": "https://open.spotify.com/artist/3I5XPVXJ2zdVP5X1wTnWs3"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244400,
+      "name": "All I Do",
+      "url": "https://open.spotify.com/track/6xzQYj4Xdt8GDvfE8bHTIK"
+    },
+    {
+      "album": {
         "name": "Still",
         "url": "https://open.spotify.com/album/1fmLDpX9M3qrvbz6e9LS3g"
       },
@@ -193,6 +233,24 @@
       "duration_ms": 150491,
       "name": "Alpine Green",
       "url": "https://open.spotify.com/track/1xsPUCsAv5Z7nngtLN5iqD"
+    },
+    {
+      "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/2ZazqwsVLTRPltQMgje6Mc"
+      },
+      "artists": [
+        {
+          "name": "Jol\u00e9",
+          "url": "https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 150491,
+      "name": "Alpine Green",
+      "url": "https://open.spotify.com/track/5ViF51pwzCt6zGHNVYEPJr"
     },
     {
       "album": {
@@ -394,6 +452,24 @@
     },
     {
       "album": {
+        "name": "Brutally",
+        "url": "https://open.spotify.com/album/1EffBpw7DW3vrOBCox9l0R"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208105,
+      "name": "Brutally",
+      "url": "https://open.spotify.com/track/4z6qtN4iZ7MPVZYCtiSgsM"
+    },
+    {
+      "album": {
         "name": "Bullet",
         "url": "https://open.spotify.com/album/7bUTtLWrkKLsntpZTcacGR"
       },
@@ -418,7 +494,7 @@
       "artists": [
         {
           "name": "Nanuk",
-          "url": "https://open.spotify.com/artist/1tiS5alc7qw8Ag9yYePWY0"
+          "url": "https://open.spotify.com/artist/5k64JTFIHR64agZZUTinI7"
         }
       ],
       "date_added": "2022-10-07",
@@ -449,7 +525,7 @@
     {
       "album": {
         "name": "five seconds flat",
-        "url": "https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N"
+        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
       },
       "artists": [
         {
@@ -460,6 +536,24 @@
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 182887,
+      "name": "ceilings",
+      "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
+    },
+    {
+      "album": {
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
       "duration_ms": 182887,
       "name": "ceilings",
       "url": "https://open.spotify.com/track/3hiuZQQ33aDnu4Xmmn8Lr7"
@@ -513,7 +607,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 182653,
       "name": "Company Car",
       "url": "https://open.spotify.com/track/3lrVIxiQWnc1cLWsmlfe6F"
@@ -567,10 +661,28 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 178626,
       "name": "Decimal",
       "url": "https://open.spotify.com/track/1uliNs1keVwYclj74JX44R"
+    },
+    {
+      "album": {
+        "name": "Cannot Be, Whatsoever",
+        "url": "https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178626,
+      "name": "Decimal",
+      "url": "https://open.spotify.com/track/6eusWfAal7mOOLr0XFLkiY"
     },
     {
       "album": {
@@ -603,7 +715,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 207000,
       "name": "Dream State",
       "url": "https://open.spotify.com/track/7dzzw8NQttXdPpEFrwrHKG"
@@ -643,7 +755,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 234726,
       "name": "Emily",
       "url": "https://open.spotify.com/track/11URTkaQsMiX3EM0X6G05s"
@@ -665,6 +777,24 @@
       "duration_ms": 234726,
       "name": "Emily",
       "url": "https://open.spotify.com/track/2BlOhlnL1ckQVDp61Oo4Ho"
+    },
+    {
+      "album": {
+        "name": "Big Town",
+        "url": "https://open.spotify.com/album/1Tc9JzhgHsSVDduIkoHIgZ"
+      },
+      "artists": [
+        {
+          "name": "Quiet Houses",
+          "url": "https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234726,
+      "name": "Emily",
+      "url": "https://open.spotify.com/track/3T7Iwy8nVLgYZWrVxPWq3h"
     },
     {
       "album": {
@@ -751,10 +881,28 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 157493,
       "name": "Give Me A Minute",
       "url": "https://open.spotify.com/track/0d0iBmyaaywSWyEjN9NQla"
+    },
+    {
+      "album": {
+        "name": "Give Me A Minute",
+        "url": "https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157493,
+      "name": "Give Me A Minute",
+      "url": "https://open.spotify.com/track/3YyASDEwePUZaPcgCjGOoV"
     },
     {
       "album": {
@@ -823,7 +971,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 185767,
       "name": "Harvest Moon",
       "url": "https://open.spotify.com/track/0vd9oVF2YwYMm6uD4VoKcm"
@@ -893,6 +1041,24 @@
     {
       "album": {
         "name": "Hope It Hurts You",
+        "url": "https://open.spotify.com/album/1RuUagBpjWf4K4r13ZBmGp"
+      },
+      "artists": [
+        {
+          "name": "Daisy Clark",
+          "url": "https://open.spotify.com/artist/31tKAz77HVjv8W0uqzDNwu"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227958,
+      "name": "Hope It Hurts You",
+      "url": "https://open.spotify.com/track/4v5YxnilyEdntIZVfNVYJi"
+    },
+    {
+      "album": {
+        "name": "Hope It Hurts You",
         "url": "https://open.spotify.com/album/1dcCeMxT5OzEHTaor778jp"
       },
       "artists": [
@@ -921,7 +1087,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 227958,
       "name": "Hope It Hurts You",
       "url": "https://open.spotify.com/track/7CRAIZRjJHkSIIe1v2Fy2V"
@@ -964,6 +1130,42 @@
     },
     {
       "album": {
+        "name": "Lichtenberg Figures",
+        "url": "https://open.spotify.com/album/0uR6QYGmCHT2l0osmTyLrS"
+      },
+      "artists": [
+        {
+          "name": "Sunflower Thieves",
+          "url": "https://open.spotify.com/artist/6UwPoe3ZqpC4OUuKgIinVW"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 204293,
+      "name": "I Don't Know Why",
+      "url": "https://open.spotify.com/track/4QbhVyTI7X8tXUjt1De4fa"
+    },
+    {
+      "album": {
+        "name": "I Don't Know Why",
+        "url": "https://open.spotify.com/album/4uQKSajaSAXIcf9RzvbHa9"
+      },
+      "artists": [
+        {
+          "name": "Sunflower Thieves",
+          "url": "https://open.spotify.com/artist/6UwPoe3ZqpC4OUuKgIinVW"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204293,
+      "name": "I Don't Know Why",
+      "url": "https://open.spotify.com/track/6qm17pxCWOfHIkKOdnLaoQ"
+    },
+    {
+      "album": {
         "name": "I Don't Know Why",
         "url": "https://open.spotify.com/album/7oqr6xk4na7xIRYihgwsuv"
       },
@@ -975,10 +1177,28 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 204293,
       "name": "I Don't Know Why",
       "url": "https://open.spotify.com/track/7b2EbQLn9X3jj82BfwMwij"
+    },
+    {
+      "album": {
+        "name": "You Of Now, Pt. 1",
+        "url": "https://open.spotify.com/album/2GKh9AYasgMHrPRz3fzGXD"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9a Sen",
+          "url": "https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199573,
+      "name": "I Like Dis",
+      "url": "https://open.spotify.com/track/0ZoXRQfbp0tOoOZIyB0cPh"
     },
     {
       "album": {
@@ -993,7 +1213,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 199573,
       "name": "I Like Dis",
       "url": "https://open.spotify.com/track/7hJ34BXrT60WlaDgLOb8WJ"
@@ -1144,6 +1364,60 @@
     },
     {
       "album": {
+        "name": "How Come You Sleep (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5GYAk2lVihrFAQPARVnNGn"
+      },
+      "artists": [
+        {
+          "name": "Michael Baker",
+          "url": "https://open.spotify.com/artist/1BDT8ZLTWT1Bm2c0j363Xr"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-15",
+      "duration_ms": 242033,
+      "name": "Lightly Looms - 7\" Version",
+      "url": "https://open.spotify.com/track/0F1qkAXBV4cEiYAAtGldMO"
+    },
+    {
+      "album": {
+        "name": "How Come You Sleep (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7AEDoJS05ptPYwehCkijnT"
+      },
+      "artists": [
+        {
+          "name": "Michael Baker",
+          "url": "https://open.spotify.com/artist/1BDT8ZLTWT1Bm2c0j363Xr"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242033,
+      "name": "Lightly Looms - 7\" Version",
+      "url": "https://open.spotify.com/track/0NsVmoq9k7ZgRRHYaWGnp4"
+    },
+    {
+      "album": {
+        "name": "Lightly Looms (7\" Version)",
+        "url": "https://open.spotify.com/album/5UZuuGmjOx9WEQrGM3lFfA"
+      },
+      "artists": [
+        {
+          "name": "Michael Baker",
+          "url": "https://open.spotify.com/artist/1BDT8ZLTWT1Bm2c0j363Xr"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 242033,
+      "name": "Lightly Looms - 7\" Version",
+      "url": "https://open.spotify.com/track/1qBQeSe1RY38u6sNaw1ORM"
+    },
+    {
+      "album": {
         "name": "Lightly Looms (7\" Version)",
         "url": "https://open.spotify.com/album/16zY9Qgh72UHlb33ersKvc"
       },
@@ -1155,10 +1429,28 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 242033,
       "name": "Lightly Looms - 7\" Version",
       "url": "https://open.spotify.com/track/61nRG6QC5ngcqPKKRGZofs"
+    },
+    {
+      "album": {
+        "name": "Like I Used To",
+        "url": "https://open.spotify.com/album/5TZg7JUKQEvzxj0G6NdIXe"
+      },
+      "artists": [
+        {
+          "name": "Lily Lyons",
+          "url": "https://open.spotify.com/artist/5YKAGYFz84gLEI7rAFpIpX"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160280,
+      "name": "Like I Used To",
+      "url": "https://open.spotify.com/track/4EWvA59SKYHIOdMpfv6JNP"
     },
     {
       "album": {
@@ -1270,6 +1562,24 @@
     },
     {
       "album": {
+        "name": "Mend A Man",
+        "url": "https://open.spotify.com/album/0p5Zy6S3IZb2p4BRAXWqFv"
+      },
+      "artists": [
+        {
+          "name": "Ulysses Wells",
+          "url": "https://open.spotify.com/artist/6QocqrfaLWT7k0WGCep9IB"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 285245,
+      "name": "Miles Away",
+      "url": "https://open.spotify.com/track/1lbehCx8hANqaOquivcgi2"
+    },
+    {
+      "album": {
         "name": "Miles Away",
         "url": "https://open.spotify.com/album/5ttHzLR58uxppFPtPdQCTK"
       },
@@ -1281,10 +1591,28 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 285245,
       "name": "Miles Away",
       "url": "https://open.spotify.com/track/5lrOPlJEIYYrecwt5kgj8P"
+    },
+    {
+      "album": {
+        "name": "Miles Away",
+        "url": "https://open.spotify.com/album/12FPMjwDOP2PPOGZFOaeLd"
+      },
+      "artists": [
+        {
+          "name": "Ulysses Wells",
+          "url": "https://open.spotify.com/artist/6QocqrfaLWT7k0WGCep9IB"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285245,
+      "name": "Miles Away",
+      "url": "https://open.spotify.com/track/6H6cjoBykuGKzyLpNFHGib"
     },
     {
       "album": {
@@ -1371,7 +1699,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 215478,
       "name": "Mother In The Sky",
       "url": "https://open.spotify.com/track/7fyX5m7szAoc3xwgA8EbsL"
@@ -1551,10 +1879,28 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 216986,
       "name": "racing raindrops",
       "url": "https://open.spotify.com/track/4LYPhx8MyvKnE3j2uvVpyu"
+    },
+    {
+      "album": {
+        "name": "when the sun came up",
+        "url": "https://open.spotify.com/album/6zyHLbypje972ukd5tAIXK"
+      },
+      "artists": [
+        {
+          "name": "Lexie Carroll",
+          "url": "https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216986,
+      "name": "racing raindrops",
+      "url": "https://open.spotify.com/track/5a8vUea67BZ7oO9aQq87BB"
     },
     {
       "album": {
@@ -1681,10 +2027,28 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 244294,
       "name": "Silence",
       "url": "https://open.spotify.com/track/2o9l8P2roRBaTUK3TpuDbg"
+    },
+    {
+      "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/0xZA75KUxVBNV4Nwz2ni1Y"
+      },
+      "artists": [
+        {
+          "name": "Lydia Clowes",
+          "url": "https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244294,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/6IAgGNsx1TSppM1g2ig4Il"
     },
     {
       "album": {
@@ -1703,6 +2067,24 @@
       "duration_ms": 218250,
       "name": "Smoke",
       "url": "https://open.spotify.com/track/24Avnz5JAgVmH0xNBsXUvH"
+    },
+    {
+      "album": {
+        "name": "So I've Been Told",
+        "url": "https://open.spotify.com/album/1p2ZmvbGwG4u3bKQfbvfpN"
+      },
+      "artists": [
+        {
+          "name": "Rosie H Sullivan",
+          "url": "https://open.spotify.com/artist/0lVelcY3fGmACzxZGSW3Je"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216684,
+      "name": "So I've Been Told",
+      "url": "https://open.spotify.com/track/1tAFpWt9kNI3b17so9ZfxN"
     },
     {
       "album": {
@@ -1743,6 +2125,24 @@
     {
       "album": {
         "name": "Someone's Daughter",
+        "url": "https://open.spotify.com/album/09S56ScuJckcQwKscgYn3k"
+      },
+      "artists": [
+        {
+          "name": "Billie Flynn",
+          "url": "https://open.spotify.com/artist/5RmO3E0D98IDGfClRU7ICf"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212462,
+      "name": "Someone's Daughter",
+      "url": "https://open.spotify.com/track/0EnyrELYciaIPQCQKdElAz"
+    },
+    {
+      "album": {
+        "name": "Someone's Daughter",
         "url": "https://open.spotify.com/album/1G0KNj4Rr6HNdHHfArdNpj"
       },
       "artists": [
@@ -1753,10 +2153,46 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 212462,
       "name": "Someone's Daughter",
       "url": "https://open.spotify.com/track/6NbxWUDuyHFm9IPicBGv07"
+    },
+    {
+      "album": {
+        "name": "Songs in the Kitchen",
+        "url": "https://open.spotify.com/album/7lajSVr58lAZI6I15HNGNZ"
+      },
+      "artists": [
+        {
+          "name": "Se\u00e1nie Bermingham",
+          "url": "https://open.spotify.com/artist/11SKACGCH6dgAW0RxQPMxK"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190319,
+      "name": "Songs in the Kitchen",
+      "url": "https://open.spotify.com/track/190G1tt4vK1kMexFTuA1ob"
+    },
+    {
+      "album": {
+        "name": "Spill",
+        "url": "https://open.spotify.com/album/6MgF6PkDOI2rGW5t882Nk8"
+      },
+      "artists": [
+        {
+          "name": "SELK",
+          "url": "https://open.spotify.com/artist/2XQEmjq2NVlPxAhjRanGY6"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-19",
+      "duration_ms": 261493,
+      "name": "Spill",
+      "url": "https://open.spotify.com/track/6dQ1kKbYJJU27LvYdaGe9G"
     },
     {
       "album": {
@@ -1771,7 +2207,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 261493,
       "name": "Spill",
       "url": "https://open.spotify.com/track/7dypjDl8BjW7DZTuPHdk53"
@@ -1815,6 +2251,24 @@
     {
       "album": {
         "name": "Sudden Death",
+        "url": "https://open.spotify.com/album/4XNfb6nqJLrNqhV0IQ9Nur"
+      },
+      "artists": [
+        {
+          "name": "Daisy Clark",
+          "url": "https://open.spotify.com/artist/31tKAz77HVjv8W0uqzDNwu"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175215,
+      "name": "Sudden Death",
+      "url": "https://open.spotify.com/track/2pMulZ50yx1Fx6TIepetYP"
+    },
+    {
+      "album": {
+        "name": "Sudden Death",
         "url": "https://open.spotify.com/album/4QRpPCZnswhtBfRs1q6VLH"
       },
       "artists": [
@@ -1825,10 +2279,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 175215,
       "name": "Sudden Death",
       "url": "https://open.spotify.com/track/5wYzMzDNycLtyBwrHdfavV"
+    },
+    {
+      "album": {
+        "name": "SUNSHINE",
+        "url": "https://open.spotify.com/album/7emMS696pJ7NpvjuOsH4pE"
+      },
+      "artists": [
+        {
+          "name": "Joseph O'Sullivan",
+          "url": "https://open.spotify.com/artist/34ms1bLvHRmNOtYku3RkIo"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "SUNSHINE",
+      "url": "https://open.spotify.com/track/4m9X1rLMhmD0cNQ42vthAz"
     },
     {
       "album": {
@@ -1879,7 +2351,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 400565,
       "name": "That Funny Feeling",
       "url": "https://open.spotify.com/track/30y5OpD8TPAru2wsyZDD4S"
@@ -2059,10 +2531,28 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 190899,
       "name": "Time Difference - Acoustic",
       "url": "https://open.spotify.com/track/3RF3RaxpSq7k0YCJuBF3xR"
+    },
+    {
+      "album": {
+        "name": "Time Difference - Acoustic",
+        "url": "https://open.spotify.com/album/2dRqPD8wqbEC6S6KR2Wq9c"
+      },
+      "artists": [
+        {
+          "name": "Ailbhe Reddy",
+          "url": "https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190899,
+      "name": "Time Difference - Acoustic",
+      "url": "https://open.spotify.com/track/4yqe8S8sc2OkU8WMjIHRU7"
     },
     {
       "album": {

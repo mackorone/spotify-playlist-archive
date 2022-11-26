@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RwLEp3x6W4.md) - [plain]
 
 > Travel back to the start, tracing the roots of what would become bluegrass through to some of it's early hits and gems\. Cover: Hazel Dickens & Alice Gerrard
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,597 likes - 56 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,217 likes - 56 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RwLEp3x6W4.md) - [plain]
 | 22 | [Memories of Mother and Dad](https://open.spotify.com/track/0awB83Y3jI3Zrr2DxVqXFT) | [Hazel Dickens](https://open.spotify.com/artist/2IEiSF4inDSwzQowcQjdfT), [Alice Gerrard](https://open.spotify.com/artist/3jw7tGSvkcf3nb1LWNnguT) | [Pioneering Women of Bluegrass](https://open.spotify.com/album/47foG5gtaTxSEmEM141ckO) | 2:39 |
 | 23 | [Weepin' Willow \- Original Gusto Recordings](https://open.spotify.com/track/6o8InB6SL9tpBW77B6JJcR) | [The Stanley Brothers](https://open.spotify.com/artist/0qqGnmHBX2yVvCITRAvuRD) | [Sing Everybody's Country Favorites \(Original Gusto Recordings\)](https://open.spotify.com/album/7IjHhe8xyf2H4JLCqbOoLJ) | 2:23 |
 | 24 | [Little Maggie](https://open.spotify.com/track/32u5OStooAjxrQFv5dk2IQ) | [The Stanley Brothers](https://open.spotify.com/artist/0qqGnmHBX2yVvCITRAvuRD), [The Clinch Mountain Boys](https://open.spotify.com/artist/5TRZoBM3xjsgdoTzndsko9) | [The Complete Mercury Recordings](https://open.spotify.com/album/4hlBTdtsmUgNyjAIt639NC) | 2:44 |
-| 25 | [Home to the Mountains](https://open.spotify.com/track/57sK732mNfISkoPhiHVlfc) | [Betty Fisher](https://open.spotify.com/artist/37JcV5BAEqxOfKkeKQf9pr) | [Smiling Faces & Different Places](https://open.spotify.com/album/6DxIJfgKCZkfcojIPoIjdo) | 3:24 |
+| 25 | [Home to the Mountains](https://open.spotify.com/track/7MXx4m8ZMEK1lY5rhNlIkJ) | [Betty Fisher](https://open.spotify.com/artist/37JcV5BAEqxOfKkeKQf9pr) | [Smiling Faces & Different Places](https://open.spotify.com/album/6jqh9xProzlkcBe2KEtNR7) | 3:24 |
 | 26 | [Footprints In The Snow](https://open.spotify.com/track/7kU8yHElTncnER0h2rDpMu) | [Bill Monroe & His Blue Grass Boys](https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8) | [Anthology](https://open.spotify.com/album/3jOrYZPtUL54bBR71yGixE) | 2:39 |
 | 27 | [I Get My Whiskey From Rockingham](https://open.spotify.com/track/4cflYCggviRhnRG5S7imFv) | [Earl Johnson](https://open.spotify.com/artist/5gQB55Wng31KUOSUFQHkBM) | [Earl Johnson Vol\. 1 1927](https://open.spotify.com/album/3Rzrkz2HjdEApCXVeO1KoO) | 3:01 |
 | 28 | [High on the Mountain](https://open.spotify.com/track/3H88Mnt8OpEVKqtFK4VvLt) | [Ola Belle Reed](https://open.spotify.com/artist/0jUzzv49Ke4m0qqcuudBsw), [David Reed](https://open.spotify.com/artist/3aPOHzWoJLndm8DWc66g8r) | [Rising Sun Melodies](https://open.spotify.com/album/1oAai33BPMT0OdEWNdJEHB) | 3:06 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RwLEp3x6W4.md) - [plain]
 | 46 | [Living The Right Life Now](https://open.spotify.com/track/6lnDortf9eL4jBMdFGUA0s) | [Molly O'Day](https://open.spotify.com/artist/0CUHmzvWVrpQTtAAPnazXW) | [Living Legend Of Country Music](https://open.spotify.com/album/1VDp8OpYH7JMNUAutFUgZt) | 2:17 |
 | 47 | [The One I Love is Gone](https://open.spotify.com/track/76QZOE3C7tgXHossRyvrye) | [Hazel Dickens](https://open.spotify.com/artist/2IEiSF4inDSwzQowcQjdfT), [Alice Gerrard](https://open.spotify.com/artist/3jw7tGSvkcf3nb1LWNnguT) | [Pioneering Women of Bluegrass](https://open.spotify.com/album/47foG5gtaTxSEmEM141ckO) | 3:11 |
 | 48 | [Think Of What You’ve Done](https://open.spotify.com/track/3CSBAuv1vUv6zWWmcEEbOS) | [The Stanley Brothers](https://open.spotify.com/artist/0qqGnmHBX2yVvCITRAvuRD) | [Choo Choo Coming](https://open.spotify.com/album/7Lxyzmm9LFsfi8GnHN905n) | 2:08 |
-| 49 | [Old Home Place](https://open.spotify.com/track/27NYrTdi2Xch1tT9rPtTeX) | [Hubert Cox](https://open.spotify.com/artist/5LGQeUvliIiwY557PnfwTj), [The Southern Grass](https://open.spotify.com/artist/2e5sKadYYbrCBlOhIPuYQB) | [Your Requests](https://open.spotify.com/album/1VDe4RTsD9IefuLu5aAoqc) | 2:50 |
+| 49 | [Old Home Place](https://open.spotify.com/track/25EjMRIvbEaKLsiVKPHOom) | [Hubert Cox](https://open.spotify.com/artist/1LJXQEhFipR0ECM0cVCIGQ), [The Southern Grass](https://open.spotify.com/artist/4zud2hUuAzziOpICB4cwjr) | [Your Requests](https://open.spotify.com/album/0FAkZu0ecJAIBvbx744YIK) | 2:50 |
 | 50 | [Get in Line Brother](https://open.spotify.com/track/2GxivWUFL0TRT1nHce14MM) | [Flatt & Scruggs](https://open.spotify.com/artist/1iNNWK8bYjc5EK0waLk1J1) | [Foggy Mountain Gospel](https://open.spotify.com/album/65ZaQ13ccP8Tcht0jGiyJ9) | 2:21 |
 | 51 | [There Is a Time \- Recorded at the Mecca, Los Angeles](https://open.spotify.com/track/1xRgiVZdboVguGvZfFtAxr) | [The Dillards](https://open.spotify.com/artist/3WAkTbMThUvVRq5keECFtS) | [Live!!! Almost!!!](https://open.spotify.com/album/3To4mZbA6r26eZqt5xFfgu) | 2:48 |
 | 52 | [That Home Far Away](https://open.spotify.com/track/1Jso0EGbuknStEGE3BNVtX) | [The Stanley Brothers](https://open.spotify.com/artist/0qqGnmHBX2yVvCITRAvuRD) | [Bluegrass Salvation](https://open.spotify.com/album/6xLntxpd4hP4okMk8SpYcc) | 2:08 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RwLEp3x6W4.md) - [plain]
 | 55 | [Brilliancy Medley](https://open.spotify.com/track/5dH5JqHaYSZhNsYiJLJ5Ty) | [Eck Robertson](https://open.spotify.com/artist/1CdShwwnkXvTy5avs5GGsK) | [Old Time Texas Fiddler](https://open.spotify.com/album/1frgWjs8tUTxPiubw9NYRL) | 2:57 |
 | 56 | [Whitehouse Blues](https://open.spotify.com/track/5JxJ1qkfZxbivjdusciKas) | [Doc Watson](https://open.spotify.com/artist/01N1aZStXA4yGvkz4vRXtJ) | [Bluegrass Blues](https://open.spotify.com/album/6LUb06ZNMDASuDgD6sHisX) | 1:39 |
 
-Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDU4NTQyNWIwODY1YWJhN2NmNmQzMjc0OGFkMzg2Zjc5`
+Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDE5N2M3YzIwMWVjYWE0YjQ5OGY1MTJiM2FjZDE3ODM5`

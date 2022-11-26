@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "Another Summertime Jam",
+        "url": "https://open.spotify.com/album/0utua6zEwOWEU4nDvD7N5B"
+      },
+      "artists": [
+        {
+          "name": "Battlebird",
+          "url": "https://open.spotify.com/artist/2pC04M8Mo4SNSMsSEk2FH9"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 169722,
+      "name": "Another Summertime Jam",
+      "url": "https://open.spotify.com/track/3MSW5ilujW2T94eBCn3TnP"
+    },
+    {
+      "album": {
         "name": "Whatever Together",
         "url": "https://open.spotify.com/album/2IkzHq61rWmsXQ77F6EC9A"
       },
@@ -702,6 +720,24 @@
     },
     {
       "album": {
+        "name": "Best Of Raffi",
+        "url": "https://open.spotify.com/album/3GaCPXbadjZUQrawtkIZuR"
+      },
+      "artists": [
+        {
+          "name": "Raffi",
+          "url": "https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 74786,
+      "name": "Mr. Sun",
+      "url": "https://open.spotify.com/track/6n3qzK1msumNEERJI17dWi"
+    },
+    {
+      "album": {
         "name": "Singable Songs for the Very Young",
         "url": "https://open.spotify.com/album/3U5LJdhLG5ZxKkbHbNCyGH"
       },
@@ -1277,7 +1313,25 @@
     {
       "album": {
         "name": "Let's Dance",
-        "url": "https://open.spotify.com/album/6SHJk0npY3mr7SXFX6fcps"
+        "url": "https://open.spotify.com/album/17nFvyQzMs0pbiz9ukUuA5"
+      },
+      "artists": [
+        {
+          "name": "Noggin",
+          "url": "https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-24",
+      "duration_ms": 83718,
+      "name": "Sunscreen",
+      "url": "https://open.spotify.com/track/2x9P9IOZIj9t5SNWesDlHe"
+    },
+    {
+      "album": {
+        "name": "Let's Dance",
+        "url": "https://open.spotify.com/album/48lHFP0hYmSgR2Bdc2uocH"
       },
       "artists": [
         {
@@ -1288,6 +1342,24 @@
       "date_added": "2021-08-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 83718,
+      "name": "Sunscreen",
+      "url": "https://open.spotify.com/track/3NDYpgUKtlEREDJLQ1WDl4"
+    },
+    {
+      "album": {
+        "name": "Let's Dance",
+        "url": "https://open.spotify.com/album/6SHJk0npY3mr7SXFX6fcps"
+      },
+      "artists": [
+        {
+          "name": "Noggin",
+          "url": "https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
       "duration_ms": 83718,
       "name": "Sunscreen",
       "url": "https://open.spotify.com/track/69Kf8wQ91FpKltMUuDruBL"
@@ -1313,6 +1385,24 @@
     {
       "album": {
         "name": "Keep Styling, Keep Singing",
+        "url": "https://open.spotify.com/album/21oqj4VIaceueMP4WuDWv7"
+      },
+      "artists": [
+        {
+          "name": "Sunny Day",
+          "url": "https://open.spotify.com/artist/7vbp1MtEikhcZYIr751zDk"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-24",
+      "duration_ms": 49641,
+      "name": "Surfin' And Sunnin'",
+      "url": "https://open.spotify.com/track/1YAZmYEermeBg0RZfLMARL"
+    },
+    {
+      "album": {
+        "name": "Keep Styling, Keep Singing",
         "url": "https://open.spotify.com/album/7cgGVrEHEiJLhjzWfMfItx"
       },
       "artists": [
@@ -1323,10 +1413,28 @@
       ],
       "date_added": "2021-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 49641,
       "name": "Surfin' And Sunnin'",
       "url": "https://open.spotify.com/track/4abQIptzx1pXZBDq8PF71o"
+    },
+    {
+      "album": {
+        "name": "Keep Styling, Keep Singing",
+        "url": "https://open.spotify.com/album/1uxwtl3M3vwzaZDL5Pg9n6"
+      },
+      "artists": [
+        {
+          "name": "Sunny Day",
+          "url": "https://open.spotify.com/artist/7vbp1MtEikhcZYIr751zDk"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 49641,
+      "name": "Surfin' And Sunnin'",
+      "url": "https://open.spotify.com/track/4vLm0SMd4p9OGMuk42R2fh"
     },
     {
       "album": {

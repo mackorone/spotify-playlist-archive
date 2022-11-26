@@ -4,7 +4,7 @@
 
 > Respira y medita con los sonidos de este ancestral instrumento.
 
-79 songs - 5 hr 32 min - [published](https://open.spotify.com/playlist/3LNBQsBN1z8uKPju1HpsiQ)
+80 songs - 5 hr 35 min - [published](https://open.spotify.com/playlist/3LNBQsBN1z8uKPju1HpsiQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [Tonal Zen](https://open.spotify.com/track/5HSKS1psRlLt2pht1VR8tu) | [The Tibetan Singing Bowls](https://open.spotify.com/artist/4gZYpXjnmCFu1Qzxz947v9) | [Mind Relaxation](https://open.spotify.com/album/2qDLrNXs9eHZIQuyxOKqJF) | 3:06 | 2022-07-18 |  |
 | [Total Zen](https://open.spotify.com/track/7FcouZsGNhXqHaOy4RlkNz) | [The Tibetan Singing Bowls](https://open.spotify.com/artist/4gZYpXjnmCFu1Qzxz947v9) | [Total Zen](https://open.spotify.com/album/44RX9xPZeQxUf4MrpbbYn6) | 2:48 | 2022-07-18 |  |
 | [Two Buddhas](https://open.spotify.com/track/5nswj67iqjMehDWatDDd1v) | [Xumantra](https://open.spotify.com/artist/0VEyOGSIOChZJa2Di3auGm) | [Singing Bowls](https://open.spotify.com/album/15k2UpQBzV2oHMIlYfBAFl) | 5:25 | 2022-07-18 |  |
-| [Universal Energy Healing](https://open.spotify.com/track/4FVqhXsgWPyo3pnl5QtyvB) | [Healing Music Studio](https://open.spotify.com/artist/3slkAZjNjou8jXczSnZ51u), [Meditación Chakra](https://open.spotify.com/artist/623eXZaRv6YsYpILhkDTtT) | [417 Hz Undoing Situations and Facilitating Change](https://open.spotify.com/album/5J4f7lqt7i7dl8cGgM4G2K) | 3:24 | 2022-07-18 |  |
+| [Universal Energy Healing](https://open.spotify.com/track/08GAV65HlXdgVGIrA0JmGM) | [Healing Music Studio](https://open.spotify.com/artist/3slkAZjNjou8jXczSnZ51u) | [417 Hz Undoing Situations and Facilitating Change](https://open.spotify.com/album/5EJ6ANuXXrCXfvUs6QvfqS) | 3:24 | 2022-09-06 |  |
+| [Universal Energy Healing](https://open.spotify.com/track/4FVqhXsgWPyo3pnl5QtyvB) | [Healing Music Studio](https://open.spotify.com/artist/3slkAZjNjou8jXczSnZ51u), [Meditación Chakra](https://open.spotify.com/artist/623eXZaRv6YsYpILhkDTtT) | [417 Hz Undoing Situations and Facilitating Change](https://open.spotify.com/album/5J4f7lqt7i7dl8cGgM4G2K) | 3:24 | 2022-07-18 | 2022-11-05 |
 | [Your Day](https://open.spotify.com/track/0Yq8HQkPoaTAcyzXUhIoiz) | [Relaxing Tibetan Singing Bowls](https://open.spotify.com/artist/7eWhSlk1SPRRFkt9l6QE7R) | [Healing Sequences](https://open.spotify.com/album/0EhG6dsoA88n2TkpSPKdRn) | 3:13 | 2022-07-18 |  |
 | [Zen Tibetan Singing Bowls III](https://open.spotify.com/track/1t1JpR9dFGkoPaPemHT6My) | [Tibetan Singing Bowl Sounds](https://open.spotify.com/artist/4JwZIdOOQe0KsFr5AENBUR) | [Zen Tibetan Singing Bowls](https://open.spotify.com/album/7fzlNnPVTaxRJSTnoo5UzM) | 4:26 | 2022-07-18 |  |
 | [संस्कृतम्](https://open.spotify.com/track/6EbrUXsMQwQbtPdW9uCDlC) | [Elof Sunflower](https://open.spotify.com/artist/6BncFvDvMh4Z9JZ04ujVpa) | [Mindful Meditation](https://open.spotify.com/album/14NggUSq5mr6Zyo8Wovpw6) | 3:34 | 2022-07-18 |  |

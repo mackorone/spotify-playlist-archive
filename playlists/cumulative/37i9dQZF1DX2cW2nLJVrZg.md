@@ -4,7 +4,7 @@
 
 > Nominees from the 94th annual event celebrating Hollywood's brightest stars.
 
-49 songs - 2 hr 34 min - [published](https://open.spotify.com/playlist/7CjEHP2nFY9SLCboWUYZ1B)
+50 songs - 2 hr 36 min - [published](https://open.spotify.com/playlist/7CjEHP2nFY9SLCboWUYZ1B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Welcome to Victorville](https://open.spotify.com/track/17RSYIsjVFmNekx5TmvgKf) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Mank \(Original Musical Score\)](https://open.spotify.com/album/4bF6HoSA0B7FbkY1z8uTq5) | 2:15 | 2021-03-25 | 2022-03-30 |
 | [West](https://open.spotify.com/track/061sIdDzLDqmgXmOTaTKgd) | [Jonny Greenwood](https://open.spotify.com/artist/0z9s3P5vCzKcUBSxgBDyLU) | [The Power Of The Dog \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/6hWmVhmirxDxlfZAmtOZah) | 2:32 | 2022-03-28 |  |
 | [West](https://open.spotify.com/track/3ypfBm8PmKIn9UPhBsCVQF) | [Jonny Greenwood](https://open.spotify.com/artist/0z9s3P5vCzKcUBSxgBDyLU) | [The Power Of The Dog \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/5RLVzdxmFASWZcFoVYKPv8) | 2:32 | 2022-03-28 | 2022-07-29 |
+| [West](https://open.spotify.com/track/0odKvDO1keLzsV1uhCx6pU) | [Jonny Greenwood](https://open.spotify.com/artist/0z9s3P5vCzKcUBSxgBDyLU) | [The Power of the Dog \(Music from the Netflix Film\) \- Single](https://open.spotify.com/album/3y8FkwLZEdvVatgRhTq9GF) | 2:32 | 2022-03-28 | 2022-11-13 |
 | [What A Life \- From the Motion Picture "Another Round"](https://open.spotify.com/track/4DXceUhBu8hVYO1EuT6EOt) | [Scarlet Pleasure](https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6) | [What A Life \(From the Motion Picture "Another Round"\)](https://open.spotify.com/album/13FUjs5sLETUhC3KaRKZUN) | 2:49 | 2021-03-25 | 2022-03-30 |
 | [What This Mission's About](https://open.spotify.com/track/6gZpNkvDpjsTi02VV1O2WI) | [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv) | [Da 5 Bloods \(Original Motion Picture Score\)](https://open.spotify.com/album/0LarP0xBEosOk39WtkHd2C) | 4:44 | 2021-03-25 | 2022-03-30 |
 

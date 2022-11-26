@@ -4,10 +4,11 @@
 
 > This K\-Pop girl group is recognised by their MOO MOOs for their retro, jazz, R&B concepts and strong vocals.
 
-111 songs - 6 hr 24 min - [published](https://open.spotify.com/playlist/5zopyzdU1aouRbUczCajzc)
+117 songs - 6 hr 44 min - [published](https://open.spotify.com/playlist/5zopyzdU1aouRbUczCajzc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [1,2,3 Eoi!](https://open.spotify.com/track/1uYgNXNnBTQnboOwlYBLd1) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [MIC ON](https://open.spotify.com/album/6TOnqVuglIk6Db2TdUwTcZ) | 2:56 | 2022-11-21 |  |
 | [4x4ever](https://open.spotify.com/track/4bMsb9CROmDYa5ngBynRXT) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [reality in BLACK](https://open.spotify.com/album/7CucpzwxAZ6kHmctI9eo4X) | 3:04 | 2022-04-28 |  |
 | [A little bit 2021](https://open.spotify.com/track/3KjRNjtQBvgJiTqYCVrhY5) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [I SAY MAMAMOO : THE BEST](https://open.spotify.com/album/2yApvdfgG74FlAW2L4tlTW) | 3:50 | 2022-04-28 |  |
 | [A Memory for Life](https://open.spotify.com/track/0K6ueyEGT693t5XeSnSywi) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [WAW](https://open.spotify.com/album/0gt7dy4ONFo6uc8D5w2WNi) | 3:33 | 2022-04-28 |  |
@@ -47,6 +48,7 @@
 | [Good Night](https://open.spotify.com/track/3KAfLV5JH4K0uMYBG5T1oK) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [TRAVEL](https://open.spotify.com/album/3xje7wSW2xwQx2GNJ5cfNu) | 4:08 | 2022-04-28 |  |
 | [Happier than Ever](https://open.spotify.com/track/6WepKnz0tfJX2gpRgTk7ha) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [I SAY MAMAMOO : THE BEST](https://open.spotify.com/album/2yApvdfgG74FlAW2L4tlTW) | 3:48 | 2022-04-28 |  |
 | [Heeheehaheho](https://open.spotify.com/track/0bnSKhq6HgZFE70QQTl1nu) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G), [Geeks](https://open.spotify.com/artist/5VxfguafjfSdJcN10ACVZe) | [Heeheehaheho](https://open.spotify.com/album/1C7mZeh8ZzjtRQKC6dONBx) | 3:44 | 2022-04-28 | 2022-07-29 |
+| [Heeheehaheho](https://open.spotify.com/track/1XhlGYZrqUqVr9RgSJcGPN) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G), [Geeks](https://open.spotify.com/artist/5VxfguafjfSdJcN10ACVZe) | [Hello](https://open.spotify.com/album/3Z9cZon6ukg4rvGYu7i4NA) | 3:44 | 2022-04-28 | 2022-11-13 |
 | [Heeheehaheho](https://open.spotify.com/track/4bsuRQghJEKSyz5lqa5qcU) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G), [Geeks](https://open.spotify.com/artist/5VxfguafjfSdJcN10ACVZe) | [Heeheehaheho](https://open.spotify.com/album/1HMznQm8Tf1KevCu34DerN) | 3:44 | 2022-04-28 |  |
 | [HeeHeeHaHeHo Part.2](https://open.spotify.com/track/4NSn4tFH4r0qLScSJBdUQP) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [I SAY MAMAMOO : THE BEST](https://open.spotify.com/album/2yApvdfgG74FlAW2L4tlTW) | 3:53 | 2022-04-28 |  |
 | [Hello Mama](https://open.spotify.com/track/5lUj2BXXpZnA3tXRVxCY7n) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [reality in BLACK](https://open.spotify.com/album/7CucpzwxAZ6kHmctI9eo4X) | 3:39 | 2022-04-28 |  |
@@ -57,10 +59,12 @@
 | [I Miss You](https://open.spotify.com/track/6XmZNkGNEJngWnT7ITrLpV) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Melting](https://open.spotify.com/album/11hjJntrvmauDoga4Krr0U) | 4:16 | 2022-04-28 |  |
 | [I miss You](https://open.spotify.com/track/4yfnuzAl0CxxHarW6L7gYC) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Dr\. Romantic 2 OST Part.6](https://open.spotify.com/album/1Zvz0jVLW9WtO5X4Pqskgx) | 4:26 | 2022-04-28 | 2022-07-29 |
 | [I Miss You 2021](https://open.spotify.com/track/3RNY4PUp5Zz7FruzFB3IYU) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [I SAY MAMAMOO : THE BEST](https://open.spotify.com/album/2yApvdfgG74FlAW2L4tlTW) | 4:23 | 2022-04-28 |  |
+| [ILLELLA](https://open.spotify.com/track/0oeVHAgY8Q7Mdce5Quj2G4) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [MIC ON](https://open.spotify.com/album/6TOnqVuglIk6Db2TdUwTcZ) | 2:46 | 2022-11-21 |  |
 | [I’m bad too \(Feat\. DPR LIVE\)](https://open.spotify.com/track/4JcfDrtQWE45N1X4MkcbiV) | [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ), [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [María](https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3) | 2:12 | 2022-04-28 |  |
 | [Just Believe In Love](https://open.spotify.com/track/06uzvyD85DEt2fEjt7mY3g) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [TRAVEL \-Japan Edition\-](https://open.spotify.com/album/1Ezw153VmAPEG7SYJyXpci) | 2:48 | 2022-04-28 | 2022-07-29 |
 | [Just Believe In Love](https://open.spotify.com/track/5qABuX3NVrTc7FjG04G7A4) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [I SAY MAMAMOO: THE BEST \-Japan Edition\-](https://open.spotify.com/album/20h4dMCIGutPFvLDoeSgyV) | 2:48 | 2022-04-28 |  |
 | [Kidding](https://open.spotify.com/track/3GfIQyLYrrgF4MhmQmFcnX) | [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [María](https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3) | 2:45 | 2022-04-28 |  |
+| [L.I.E.C](https://open.spotify.com/track/1RNnRdT27xNUTdechKtSVT) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [MIC ON](https://open.spotify.com/album/6TOnqVuglIk6Db2TdUwTcZ) | 2:58 | 2022-11-21 |  |
 | [Letter Filled With Light](https://open.spotify.com/track/6Gahwmzoqi4uaZCdVopJr4) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [WHEE](https://open.spotify.com/album/4BLxIwHfv87WeOQ9A4sm9E) | 3:08 | 2022-04-28 |  |
 | [LMM](https://open.spotify.com/track/61RWlWnaIKrOBnmjdQgFOH) | [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [María](https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3) | 4:41 | 2022-04-28 |  |
 | [LUNATIC](https://open.spotify.com/track/3hicr5nSY0RrKGEy3nYZwU) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [6equence](https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1) | 3:25 | 2022-04-28 |  |
@@ -87,6 +91,7 @@
 | [Promise U](https://open.spotify.com/track/3S0yfEkrXLpHjcizhj97nf) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD), [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [PROMISE U \(REVIBE Vol.1\)](https://open.spotify.com/album/4eJdKwHH9rb3dNbtIsBgjV) | 3:27 | 2022-04-28 |  |
 | [Say Yes \(Feat\. Moon Byul of MAMAMOO\)](https://open.spotify.com/track/39pKhfHJONQXFPCiduswZA) | [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm), [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [Say hello](https://open.spotify.com/album/3KL1ALTLwYaCcxzxNIRrWK) | 3:24 | 2022-04-28 | 2022-08-02 |
 | [Say Yes \(feat\. Moon Byul\)](https://open.spotify.com/track/6E9Utxp16LMVJWQVyKmzCG) | [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm), [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [안부](https://open.spotify.com/album/1ug4v28RlPr7U6ZsjoKuAJ) | 3:24 | 2022-04-28 |  |
+| [SELFISH](https://open.spotify.com/track/5LoCRM3d9zF74z36lYoYud) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [RED MOON](https://open.spotify.com/album/6GhELYbXRo1LOqRPOCsQrF) | 3:12 | 2022-04-28 | 2022-11-13 |
 | [SELFISH \(Feat\. Seulgi of Red Velvet\)](https://open.spotify.com/track/7bKJmbS7y93C9U2LKvz2PB) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G), [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [4colors](https://open.spotify.com/album/232T6PgapFXcufLzzRJU8u) | 3:15 | 2022-04-28 | 2022-07-29 |
 | [SELFISH \(Feat\. SEULGI Of Red Velvet\)](https://open.spotify.com/track/4Lgd631IfDKMLPu6t7L0Tj) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL), [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [SELFISH](https://open.spotify.com/album/0HtGtnnnFeWmtvgNFg0dr1) | 3:12 | 2022-04-28 |  |
 | [Shine On You](https://open.spotify.com/track/4oI4cFG1H57TEWRbjVqOD0) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Record of Youth \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/0RXkfsaEQIeOyAfC5Im2hY) | 4:30 | 2022-04-28 |  |
@@ -119,5 +124,6 @@
 | [You’re the best 2021](https://open.spotify.com/track/3DI4St01wPQXTX55crOzMB) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [I SAY MAMAMOO : THE BEST](https://open.spotify.com/album/2yApvdfgG74FlAW2L4tlTW) | 4:29 | 2022-04-28 |  |
 | [ZzZz](https://open.spotify.com/track/550UTr3DIiMPveuG6O02ma) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [reality in BLACK](https://open.spotify.com/album/7CucpzwxAZ6kHmctI9eo4X) | 3:25 | 2022-04-28 |  |
 | [자꾸 더 보고싶은 사람](https://open.spotify.com/track/5tYGD1oW1owwomJNzu0hde) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [낭만닥터 김사부 2 \(Original Television Soundtrack\) Pt.6](https://open.spotify.com/album/2Xrq9jxjE7nObbhqf8Tagg) | 4:26 | 2022-04-28 |  |
+| [자꾸 더 보고싶은 사람](https://open.spotify.com/track/6KoLwgF9I5sSR9WWkfaVGH) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [낭만닥터 김사부 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/5Q8yAIQxE4JrdWNy1h7lKv) | 4:26 | 2022-04-28 | 2022-11-13 |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

@@ -62,6 +62,42 @@
     },
     {
       "album": {
+        "name": "Alittle.",
+        "url": "https://open.spotify.com/album/5CspsuaFlX9oo7zOEaoh4u"
+      },
+      "artists": [
+        {
+          "name": "ROMES",
+          "url": "https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 167000,
+      "name": "Chillthefuckout.",
+      "url": "https://open.spotify.com/track/4FIcnNm6gSUf7Styfbmye0"
+    },
+    {
+      "album": {
+        "name": "My Demons Are Still My Best Friends",
+        "url": "https://open.spotify.com/album/2ZGQb6w08t7rlmfHGHzPci"
+      },
+      "artists": [
+        {
+          "name": "ROMES",
+          "url": "https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Chillthefuckout.",
+      "url": "https://open.spotify.com/track/4WiRsBAUd4fqHmIqrSoznL"
+    },
+    {
+      "album": {
         "name": "Chillthefuckout.",
         "url": "https://open.spotify.com/album/35iLKz1x1VW4q6mt6Zfk3u"
       },
@@ -73,7 +109,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 167000,
       "name": "Chillthefuckout.",
       "url": "https://open.spotify.com/track/5IaL7Dft0IRhwaz4royvg7"
@@ -894,6 +930,24 @@
     },
     {
       "album": {
+        "name": "Teenage Heartbreak",
+        "url": "https://open.spotify.com/album/5MWhVu8KugFEG1lgZXw3QL"
+      },
+      "artists": [
+        {
+          "name": "Huddy",
+          "url": "https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 183361,
+      "name": "The Eulogy of You and Me",
+      "url": "https://open.spotify.com/track/1R7VJhnaAm3qgIrNMxC2GI"
+    },
+    {
+      "album": {
         "name": "The Eulogy of You and Me",
         "url": "https://open.spotify.com/album/35lHDQRsVVl2IbLGU28jdT"
       },
@@ -1083,6 +1137,24 @@
       "duration_ms": 151265,
       "name": "You\u2019d Be Paranoid Too (If Everyone Was Out To Get You)",
       "url": "https://open.spotify.com/track/02Lki714RZrfUS65pzJ2lj"
+    },
+    {
+      "album": {
+        "name": "Violet!",
+        "url": "https://open.spotify.com/album/4Lq7qgesAt6nhTLrYOugLH"
+      },
+      "artists": [
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 151265,
+      "name": "You\u2019d Be Paranoid Too (If Everyone Was Out To Get You)",
+      "url": "https://open.spotify.com/track/0SApp0ojWxr4koQGO9Btzn"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZUtjhu2IHar"

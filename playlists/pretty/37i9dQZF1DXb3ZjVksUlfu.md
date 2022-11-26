@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3ZjVksUlfu.md) - [plain]
 
 ### [Alternative 70s](https://open.spotify.com/playlist/37i9dQZF1DXb3ZjVksUlfu)
 
-> The defining alternative hits from a decade that changed music\. Cover: Betty Davis
+> The defining alternative hits from a decade that changed music\. Cover: David Bowie
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,904 likes - 85 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,470 likes - 85 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3ZjVksUlfu.md) - [plain]
 | 75 | [\(I'm\) Stranded](https://open.spotify.com/track/38t6SxbsBRgTGtdSZTtusX) | [The Saints](https://open.spotify.com/artist/6OWPd5ByKaNSFAZ3TCe5AO) | [\(I'm\) Stranded](https://open.spotify.com/album/70Blia4zXTBhuExWQjX2DA) | 3:30 |
 | 76 | [Alison](https://open.spotify.com/track/1v98rfd0an913AzHvMNG8a) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn) | [My Aim Is True](https://open.spotify.com/album/1aucGNKimhgARC7iO2xLt2) | 3:24 |
 | 77 | [Born to Lose](https://open.spotify.com/track/150NSrON3DeZM1aLyz3MoM) | [Johnny Thunders & The Heartbreakers](https://open.spotify.com/artist/1SrtY5x33d2gF27chigCGg) | [L.A.M.F\. \- The Lost '77 Mixes](https://open.spotify.com/album/4CLnHCjgBVBEoCU6e4kts1) | 3:04 |
-| 78 | [Roadrunner](https://open.spotify.com/track/5E5HYgxGMp3BPakHGfKfIB) | [The Modern Lovers](https://open.spotify.com/artist/2eRdPaLHWAL4d1WcNUO9Vz) | [The Modern Lovers](https://open.spotify.com/album/5BPCP7WSGBG4br2o4WRmd8) | 4:06 |
+| 78 | [Roadrunner](https://open.spotify.com/track/5E5HYgxGMp3BPakHGfKfIB) | [The Modern Lovers](https://open.spotify.com/artist/2eRdPaLHWAL4d1WcNUO9Vz) | [The Modern Lovers \(Expanded Version\)](https://open.spotify.com/album/5BPCP7WSGBG4br2o4WRmd8) | 4:06 |
 | 79 | [I'll Come Running \- 2004 Digital Remaster](https://open.spotify.com/track/6ZWVeMysm8Q8zZu3lKnY2v) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Another Green World](https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY) | 3:49 |
 | 80 | [Warm Leatherette](https://open.spotify.com/track/7mxvuhmRrnQ31vHRm9A9qj) | [The Normal](https://open.spotify.com/artist/6y1jbhyM2QbpU3Bm8Z8fbe) | [Warm Leatherette](https://open.spotify.com/album/3tKJpBOfn19pPUh26tphfD) | 3:23 |
 | 81 | [No Side to Fall In](https://open.spotify.com/track/2fWxcJeDQiLStdAdwF4ms6) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [The Raincoats](https://open.spotify.com/album/190Tx9jPHndq0qUlq79BJJ) | 1:49 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3ZjVksUlfu.md) - [plain]
 | 84 | [I Want More](https://open.spotify.com/track/1ynemPxsPrCwUb87VmGFuq) | [CAN](https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r) | [Flow Motion \(Remastered\)](https://open.spotify.com/album/6pcp2R35M3b1lscjpmCxUl) | 3:30 |
 | 85 | [My Sex](https://open.spotify.com/track/4uq0OuAtODFKsEMO478Lt8) | [Ultravox](https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI) | [Ultravox!](https://open.spotify.com/album/09H76Y3uRhgJSu7u5f3e6f) | 3:02 |
 
-Snapshot ID: `MTY2NDQ2NzI4OCwwMDAwMDAwMDNhYWJmODczOTkxZWY5ZWVkNjE4MDdlYjQxYjg4MTA3`
+Snapshot ID: `MTY2ODcxODAzMSwwMDAwMDAwMGIwMGRiZWQxMDViYmYwZGNlNjcyMzAwYTI5NDZhNGEx`

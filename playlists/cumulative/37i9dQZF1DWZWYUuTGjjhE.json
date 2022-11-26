@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "Old Timers",
+        "url": "https://open.spotify.com/album/69bKxtHQ0XzGzeTlWcrVB7"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 190240,
+      "name": "A Change Is Gonna Come",
+      "url": "https://open.spotify.com/track/0r8QrQTvL6sPFBvPrxp03r"
+    },
+    {
+      "album": {
         "name": "Ain't That Good News",
         "url": "https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP"
       },
@@ -95,6 +113,24 @@
       "duration_ms": 179693,
       "name": "At Last",
       "url": "https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"
+    },
+    {
+      "album": {
+        "name": "Love Songs From The 60's",
+        "url": "https://open.spotify.com/album/7k5rHilcFOYXOyji6NzPfJ"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 182533,
+      "name": "At Last",
+      "url": "https://open.spotify.com/track/3f8V9qPxrPZozXlwnRdsFb"
     },
     {
       "album": {
@@ -206,6 +242,24 @@
     },
     {
       "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/4MQXUCdpFPqi1jsM4N8aSR"
+      },
+      "artists": [
+        {
+          "name": "Neil Sedaka",
+          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 138960,
+      "name": "Breaking Up Is Hard To Do",
+      "url": "https://open.spotify.com/track/1nyCD3r6aZ6aTKMc2mR7rS"
+    },
+    {
+      "album": {
         "name": "Circulate (Expanded Edition)",
         "url": "https://open.spotify.com/album/66qxRQqOy7kVcsVpT0OVFZ"
       },
@@ -242,6 +296,42 @@
     },
     {
       "album": {
+        "name": "From the Foundations (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0tvm3lygYS8TWU0x8nBKmc"
+      },
+      "artists": [
+        {
+          "name": "The Foundations",
+          "url": "https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177519,
+      "name": "Build Me Up Buttercup",
+      "url": "https://open.spotify.com/track/4eGlvsFXmFqdJrVXe9FbgD"
+    },
+    {
+      "album": {
+        "name": "The Foundations",
+        "url": "https://open.spotify.com/album/3j1kw5l2mEeKCUuXXwjhWp"
+      },
+      "artists": [
+        {
+          "name": "The Foundations",
+          "url": "https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 177533,
+      "name": "Build Me Up Buttercup",
+      "url": "https://open.spotify.com/track/6sPOmDulFtLzfX25zICNrC"
+    },
+    {
+      "album": {
         "name": "Build Me Up Buttercup",
         "url": "https://open.spotify.com/album/0AFXSZYiYyggIkcYW5GK0x"
       },
@@ -260,8 +350,8 @@
     },
     {
       "album": {
-        "name": "The Foundations",
-        "url": "https://open.spotify.com/album/3j1kw5l2mEeKCUuXXwjhWp"
+        "name": "The Screamin' Sixties",
+        "url": "https://open.spotify.com/album/60iGcFOQW1pEtQpYCwspmQ"
       },
       "artists": [
         {
@@ -271,10 +361,28 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 177533,
-      "name": "Build Me Up Buttercup - Mono",
-      "url": "https://open.spotify.com/track/6sPOmDulFtLzfX25zICNrC"
+      "date_removed": "2022-11-13",
+      "duration_ms": 174640,
+      "name": "Build Me Up Buttercup (Re-Recording)",
+      "url": "https://open.spotify.com/track/4wUQPYUs1Lx5ABQ3R1Ifz1"
+    },
+    {
+      "album": {
+        "name": "From the Foundations (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0tvm3lygYS8TWU0x8nBKmc"
+      },
+      "artists": [
+        {
+          "name": "The Foundations",
+          "url": "https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-16",
+      "duration_ms": 174854,
+      "name": "Build Me Up Buttercup - Stereo",
+      "url": "https://open.spotify.com/track/6fNhILURBDAuZ7pP5BuJtr"
     },
     {
       "album": {
@@ -462,6 +570,24 @@
     },
     {
       "album": {
+        "name": "1 (Remastered)",
+        "url": "https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 258693,
+      "name": "Come Together - Remastered 2015",
+      "url": "https://open.spotify.com/track/3CEFDHJSiERlfwRujZ1CkJ"
+    },
+    {
+      "album": {
         "name": "The Very Best of Solomon Burke",
         "url": "https://open.spotify.com/album/6qnOfoAUz11fZ98GFilmKE"
       },
@@ -513,6 +639,24 @@
       "duration_ms": 160306,
       "name": "Dancing In The Street - Single Version",
       "url": "https://open.spotify.com/track/32k7kVzz4SpmI7Q5xI856l"
+    },
+    {
+      "album": {
+        "name": "Soul Essentials",
+        "url": "https://open.spotify.com/album/2HEREQzFsq56E8Wh66s0V7"
+      },
+      "artists": [
+        {
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 159960,
+      "name": "Dancing In The Street - Stereo",
+      "url": "https://open.spotify.com/track/5P8fQy7MaTW5GXwxtqnq7d"
     },
     {
       "album": {
@@ -736,6 +880,24 @@
     },
     {
       "album": {
+        "name": "Happy Songs For Kids",
+        "url": "https://open.spotify.com/album/05qHJq7EHOMFnoW5zvHjnh"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 181093,
+      "name": "How Sweet It Is (To Be Loved By You)",
+      "url": "https://open.spotify.com/track/53nelcI9xeloc4gmeBLEQd"
+    },
+    {
+      "album": {
         "name": "The Definitive Collection",
         "url": "https://open.spotify.com/album/348K6QH725oW2W78lvSy1Y"
       },
@@ -805,6 +967,24 @@
       "duration_ms": 161226,
       "name": "I Second That Emotion",
       "url": "https://open.spotify.com/track/6Hd8mrDwBQ8rLo70FwFG5C"
+    },
+    {
+      "album": {
+        "name": "Soul School",
+        "url": "https://open.spotify.com/album/03Rt2ycrWRIxHXb1j9fxOr"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson & The Miracles",
+          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 162293,
+      "name": "I Second That Emotion - Single Version / Mono",
+      "url": "https://open.spotify.com/track/7aZecL6neNBv6dF1RLe4yh"
     },
     {
       "album": {
@@ -881,6 +1061,24 @@
       "duration_ms": 157160,
       "name": "In the Midnight Hour",
       "url": "https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv"
+    },
+    {
+      "album": {
+        "name": "Essential 60's",
+        "url": "https://open.spotify.com/album/1M2Gs5xCpnEDyHkryCuTa1"
+      },
+      "artists": [
+        {
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 157160,
+      "name": "In the Midnight Hour",
+      "url": "https://open.spotify.com/track/4R6jQcKpDf1AJu7ye2bX0G"
     },
     {
       "album": {
@@ -974,6 +1172,24 @@
     },
     {
       "album": {
+        "name": "Jazz Chill",
+        "url": "https://open.spotify.com/album/1IhkNY1G6c9xSgaFd4kwtt"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 155306,
+      "name": "L-O-V-E",
+      "url": "https://open.spotify.com/track/6PnHtk8Ab1cVLimJmKRAJe"
+    },
+    {
+      "album": {
         "name": "The Best of The Kingsmen",
         "url": "https://open.spotify.com/album/2SMBIc9VqCmLvWAd9srlSx"
       },
@@ -1007,6 +1223,24 @@
       "duration_ms": 140173,
       "name": "Love Me Do - Mono / Remastered",
       "url": "https://open.spotify.com/track/5JT7CoUSGNk7mMNkHMQjqr"
+    },
+    {
+      "album": {
+        "name": "The Beatles 1962 - 1966 (Remastered)",
+        "url": "https://open.spotify.com/album/6126O4XLYAfzU3961ziahP"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 142120,
+      "name": "Love Me Do - Mono Version / Remastered 2009",
+      "url": "https://open.spotify.com/track/0h7N5rOgTT1rSwLoj9f3Bk"
     },
     {
       "album": {
@@ -1082,6 +1316,24 @@
     },
     {
       "album": {
+        "name": "Morning Relaxing",
+        "url": "https://open.spotify.com/album/3u725fz8XBZIa2tzBf9zaM"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 173666,
+      "name": "My Cherie Amour",
+      "url": "https://open.spotify.com/track/1R2nHA8wWwe6kmENDmuMW7"
+    },
+    {
+      "album": {
         "name": "The Temptations Sing Smokey",
         "url": "https://open.spotify.com/album/5H2rffw6MNKGWVKBNWNA4S"
       },
@@ -1118,6 +1370,24 @@
     },
     {
       "album": {
+        "name": "Love Songs & Chill",
+        "url": "https://open.spotify.com/album/7oHVRFtPa3Tf6h8AAqczOK"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 175706,
+      "name": "My Girl - Single Version/Mono",
+      "url": "https://open.spotify.com/track/7sMjzdbSUuhcJIFdR3D8pS"
+    },
+    {
+      "album": {
         "name": "The Definitive Collection",
         "url": "https://open.spotify.com/album/0rgnbePrBYNFSaXnCZOcod"
       },
@@ -1151,6 +1421,24 @@
       "duration_ms": 128199,
       "name": "One Fine Day",
       "url": "https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6"
+    },
+    {
+      "album": {
+        "name": "Motown - The Very Best Of The 60'S",
+        "url": "https://open.spotify.com/album/132WDX3pAFBE5JJnD3gAXL"
+      },
+      "artists": [
+        {
+          "name": "The Marvelettes",
+          "url": "https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 147440,
+      "name": "Please Mr. Postman - Single Version / Mono",
+      "url": "https://open.spotify.com/track/7HIUaUGl3Vcj7QqcltJCGe"
     },
     {
       "album": {
@@ -1226,6 +1514,24 @@
     },
     {
       "album": {
+        "name": "60's Rock 'N' Roll - It's My Party",
+        "url": "https://open.spotify.com/album/5NMfT7IQx9SuKlDd9p0lon"
+      },
+      "artists": [
+        {
+          "name": "Johnny Tillotson",
+          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 143226,
+      "name": "Poetry In Motion - Re-Recording",
+      "url": "https://open.spotify.com/track/7hMMrEyd2phHPL90QtSFdv"
+    },
+    {
+      "album": {
         "name": "The New Look",
         "url": "https://open.spotify.com/album/6PB1ExLaenkyov5q1NrSXd"
       },
@@ -1241,6 +1547,24 @@
       "duration_ms": 171026,
       "name": "Rescue Me",
       "url": "https://open.spotify.com/track/1GY8zOFi8rC39xXnD0tKO8"
+    },
+    {
+      "album": {
+        "name": "60s Pop",
+        "url": "https://open.spotify.com/album/1RGE1uCIcrpujBse08Z013"
+      },
+      "artists": [
+        {
+          "name": "Fontella Bass",
+          "url": "https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 172493,
+      "name": "Rescue Me",
+      "url": "https://open.spotify.com/track/7f4iRGSLR9ser7Gex9lzhF"
     },
     {
       "album": {
@@ -1277,6 +1601,24 @@
       "duration_ms": 146360,
       "name": "Rhythm of the Rain",
       "url": "https://open.spotify.com/track/7GHf8dQ2wA71wYOuRsQCZP"
+    },
+    {
+      "album": {
+        "name": "Forrest Gump - The Soundtrack",
+        "url": "https://open.spotify.com/album/6GTk207l0qi4FBK2FOPRlV"
+      },
+      "artists": [
+        {
+          "name": "Scott McKenzie",
+          "url": "https://open.spotify.com/artist/7d7AZ3CQC457bFhK0wHpSO"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 178800,
+      "name": "San Francisco (Be Sure to Wear Flowers In Your Hair)",
+      "url": "https://open.spotify.com/track/3Tf7LJhy2KmuppwrcJu8bD"
     },
     {
       "album": {
@@ -1334,6 +1676,28 @@
     },
     {
       "album": {
+        "name": "Valentin-napi Jazz V\u00e1logat\u00e1s 2022",
+        "url": "https://open.spotify.com/album/5WV3jCmB68IFZKbZEIb1JZ"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Nancy Sinatra",
+          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 162493,
+      "name": "Somethin' Stupid",
+      "url": "https://open.spotify.com/track/2GTmulSwiIlJVcX7t3s468"
+    },
+    {
+      "album": {
         "name": "The World We Knew",
         "url": "https://open.spotify.com/album/00vMwG6tYLzcwXgwvzlzyK"
       },
@@ -1375,6 +1739,24 @@
       "duration_ms": 162493,
       "name": "Somethin' Stupid",
       "url": "https://open.spotify.com/track/4feXcsElKIVsGwkbnTHAfV"
+    },
+    {
+      "album": {
+        "name": "Lady Got Soul",
+        "url": "https://open.spotify.com/album/5fm4og0UIhIPAVm449ija4"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 148053,
+      "name": "Son Of A Preacher Man",
+      "url": "https://open.spotify.com/track/0whPSq9udyJmWb9VMHFnQq"
     },
     {
       "album": {
@@ -1486,6 +1868,24 @@
     },
     {
       "album": {
+        "name": "Unforgettable",
+        "url": "https://open.spotify.com/album/2EiWgjwCCiQmJGOMrr5wuj"
+      },
+      "artists": [
+        {
+          "name": "Al Martino",
+          "url": "https://open.spotify.com/artist/7egNqIGRldMzifHoh8pib6"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 166986,
+      "name": "Spanish Eyes",
+      "url": "https://open.spotify.com/track/2jDkf6H4boudrbMqTifY9H"
+    },
+    {
+      "album": {
         "name": "Don't Play That Song (Mono)",
         "url": "https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7"
       },
@@ -1501,6 +1901,28 @@
       "duration_ms": 180055,
       "name": "Stand by Me",
       "url": "https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy"
+    },
+    {
+      "album": {
+        "name": "Harlem Holiday - New York Rhythm & Blues Vol. 6",
+        "url": "https://open.spotify.com/album/0TCDqDuYQMsdMRugrsoqVc"
+      },
+      "artists": [
+        {
+          "name": "Maurice Williams",
+          "url": "https://open.spotify.com/artist/1CgE69lpZKGAcA5kIIK82D"
+        },
+        {
+          "name": "The Zodiacs",
+          "url": "https://open.spotify.com/artist/1HCE0pbqGLSvWaz5q4TeDd"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 99240,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/0MFJfzKE6JEahZp7FcxVSp"
     },
     {
       "album": {
@@ -1648,6 +2070,24 @@
     },
     {
       "album": {
+        "name": "70s Rock Essentials",
+        "url": "https://open.spotify.com/album/2nUKl9sXFdOVPyRV3dGoWA"
+      },
+      "artists": [
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 274493,
+      "name": "The Weight - Remastered 2000",
+      "url": "https://open.spotify.com/track/1ctcjestGXW13ej3kJjvou"
+    },
+    {
+      "album": {
         "name": "Da Doo Ron Ron: The Very Best of The Crystals",
         "url": "https://open.spotify.com/album/11ho9FxQbJjMbQn1P1yWpm"
       },
@@ -1774,6 +2214,24 @@
     },
     {
       "album": {
+        "name": "Top 50 Funk Hits",
+        "url": "https://open.spotify.com/album/5OHvSXMjGR0uLscJgDiEuJ"
+      },
+      "artists": [
+        {
+          "name": "Linda Lyndell",
+          "url": "https://open.spotify.com/artist/5zU5MAgXh6Lcs3FY2KSFNQ"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 162546,
+      "name": "What A Man",
+      "url": "https://open.spotify.com/track/2ZNtUfrdTiRFbatPbYnC1p"
+    },
+    {
+      "album": {
         "name": "Hello Louis - The Hit Years (1963-1969)",
         "url": "https://open.spotify.com/album/3IkAJdl6rQcSbnfpGr3MVt"
       },
@@ -1789,6 +2247,24 @@
       "duration_ms": 137466,
       "name": "What A Wonderful World",
       "url": "https://open.spotify.com/track/6Z5XZ8fjmWGbkdahOgreVe"
+    },
+    {
+      "album": {
+        "name": "Chill Jazz Hits",
+        "url": "https://open.spotify.com/album/2E2May9swmlrRnKNBi3YLJ"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 137986,
+      "name": "What A Wonderful World",
+      "url": "https://open.spotify.com/track/6qijYphfXANswOiReTbTm6"
     },
     {
       "album": {
@@ -1846,6 +2322,24 @@
     },
     {
       "album": {
+        "name": "16 #1 Hits From The Early 1960's",
+        "url": "https://open.spotify.com/album/3FSFmtlwTUZLlp1M1wmFbE"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 152133,
+      "name": "Where Did Our Love Go - Single Version / Mono",
+      "url": "https://open.spotify.com/track/0tr5V8uorUBgPotgLLHKrV"
+    },
+    {
+      "album": {
         "name": "Where Did Our Love Go: 40th Anniversary Edition",
         "url": "https://open.spotify.com/album/3W2FhBKieLAcrS4e9SHtr6"
       },
@@ -1879,6 +2373,24 @@
       "duration_ms": 160864,
       "name": "Will You Love Me Tomorrow",
       "url": "https://open.spotify.com/track/25IiJu0DjOqsnQXgNHWp5i"
+    },
+    {
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/2c4N1VcBEJgprPNZfF2gdq"
+      },
+      "artists": [
+        {
+          "name": "The Shirelles",
+          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 161986,
+      "name": "Will You Love Me Tomorrow",
+      "url": "https://open.spotify.com/track/7CWnTElAZwXH0AZZreCfep"
     },
     {
       "album": {
@@ -1936,6 +2448,24 @@
     },
     {
       "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of Lesley Gore",
+        "url": "https://open.spotify.com/album/40SQtbiQLIU8TMTgCCB7KB"
+      },
+      "artists": [
+        {
+          "name": "Lesley Gore",
+          "url": "https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 151800,
+      "name": "You Don't Own Me",
+      "url": "https://open.spotify.com/track/5lJ82USsgwL4e137fqmj2P"
+    },
+    {
+      "album": {
         "name": "St. Louis To Liverpool",
         "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
       },
@@ -1972,6 +2502,24 @@
     },
     {
       "album": {
+        "name": "The Best 60s Album In The World...Ever!",
+        "url": "https://open.spotify.com/album/42wnkjcgGg5CkmnGvwq3eZ"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 165226,
+      "name": "You Never Can Tell - 1986 Stereo Remix",
+      "url": "https://open.spotify.com/track/3cjCPhWvNDaecvcEOlZ0HP"
+    },
+    {
+      "album": {
         "name": "How Do You Like It? [Mono And Stereo Version]",
         "url": "https://open.spotify.com/album/6KfKWfiXnXVcgYDH0JcIP2"
       },
@@ -1987,6 +2535,28 @@
       "duration_ms": 164173,
       "name": "You'll Never Walk Alone - Stereo; 1997 Remaster",
       "url": "https://open.spotify.com/track/2VfvfFSVD1Ki0PH0Xd0jcv"
+    },
+    {
+      "album": {
+        "name": "60s Chill Tunes",
+        "url": "https://open.spotify.com/album/4QTAS5uOIIlbbQeF0yZwZ7"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        },
+        {
+          "name": "Tammi Terrell",
+          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 168360,
+      "name": "You're All I Need To Get By",
+      "url": "https://open.spotify.com/track/5jIv3NQyYz6n7RHYVcT9NI"
     },
     {
       "album": {
@@ -2034,6 +2604,24 @@
     },
     {
       "album": {
+        "name": "60's Gold",
+        "url": "https://open.spotify.com/album/2vy7nyuCnUj8vGNW3mrwMl"
+      },
+      "artists": [
+        {
+          "name": "The Righteous Brothers",
+          "url": "https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 223693,
+      "name": "You've Lost That Lovin' Feelin' - Single Version",
+      "url": "https://open.spotify.com/track/6utJoAVVcJJ7kE9dqMOrGd"
+    },
+    {
+      "album": {
         "name": "You've Lost That Lovin' Feelin'",
         "url": "https://open.spotify.com/album/2709noR52E7iVM5zNTsfXL"
       },
@@ -2067,6 +2655,24 @@
       "duration_ms": 226453,
       "name": "You've Lost That Lovin' Feelin' - Single Version",
       "url": "https://open.spotify.com/track/6AeyHqzNHJthYJbn0tvJ4b"
+    },
+    {
+      "album": {
+        "name": "Playlist Plus - Motown 50th Anniversary",
+        "url": "https://open.spotify.com/album/5gQcYT1i5kOTxrZRNut577"
+      },
+      "artists": [
+        {
+          "name": "The Miracles",
+          "url": "https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 169680,
+      "name": "You've Really Got A Hold On Me",
+      "url": "https://open.spotify.com/track/0EvdSB2AHzhTUMrOBVVWRt"
     },
     {
       "album": {

@@ -1,18 +1,18 @@
 {
   "description": "Funk. But heavier. Cover: Red Hot Chili Peppers",
-  "num_followers": 449885,
+  "num_followers": 452343,
   "original_name": "Funk Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMGFlZDg0OTIyOTJiMzA2YWQ3MGY3ZGM1MGJjZWFmNzU2",
+  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDE3MTA1NmEyOGEzYjVhZWQyMjIyNDQ4OWY5MTE4YjMx",
   "tracks": [
     {
-      "added_at": "2022-08-19 04:02:00",
+      "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Tippa My Tongue",
-        "url": "https://open.spotify.com/album/58As6ZmLLmhtkF8l5voV9p"
+        "name": "The Shape I'm Takin'",
+        "url": "https://open.spotify.com/album/7D2jhStmJWw2u8DhMWnORp"
       },
       "artists": [
         {
@@ -20,25 +20,9 @@
           "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
         }
       ],
-      "duration_ms": 260808,
-      "name": "Tippa My Tongue",
-      "url": "https://open.spotify.com/track/3s53zBEi1ZU6dJj19eFOxW"
-    },
-    {
-      "added_at": "2022-07-29 14:50:52",
-      "album": {
-        "name": "Give It Up",
-        "url": "https://open.spotify.com/album/2JfYe3kVt5Q9euIFJOvAUx"
-      },
-      "artists": [
-        {
-          "name": "King's X",
-          "url": "https://open.spotify.com/artist/3tn79LMMIdIT1T0TXumjaH"
-        }
-      ],
-      "duration_ms": 179959,
-      "name": "Give It Up",
-      "url": "https://open.spotify.com/track/1fob4CISofwxucGAjaXI14"
+      "duration_ms": 215365,
+      "name": "The Shape I'm Takin'",
+      "url": "https://open.spotify.com/track/4UEMZFRrxVUkuMVaHhWoKQ"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -55,6 +39,42 @@
       "duration_ms": 170906,
       "name": "What I Got",
       "url": "https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Too Much Girl 4 Me (feat. Billy Gibbons)",
+        "url": "https://open.spotify.com/album/4l1PiVwpjTQTruBUTcnfBR"
+      },
+      "artists": [
+        {
+          "name": "Morris Day",
+          "url": "https://open.spotify.com/artist/1L56apXminRPJqnqBN0vhe"
+        },
+        {
+          "name": "Billy Gibbons",
+          "url": "https://open.spotify.com/artist/4DqeVw9M195lj22iU1elxD"
+        }
+      ],
+      "duration_ms": 147031,
+      "name": "Too Much Girl 4 Me (feat. Billy Gibbons)",
+      "url": "https://open.spotify.com/track/734WIZHSCzLUpxAjeE0J7K"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "The Real Thing",
+        "url": "https://open.spotify.com/album/6LEP3L94jnkqjOxYJWPRP0"
+      },
+      "artists": [
+        {
+          "name": "Faith No More",
+          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
+        }
+      ],
+      "duration_ms": 293653,
+      "name": "Epic",
+      "url": "https://open.spotify.com/track/4ReyTz0y3TGkX48wO3Llot"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -89,36 +109,20 @@
       "url": "https://open.spotify.com/track/5e3YOg6fIkP0wD5TyxcHOH"
     },
     {
-      "added_at": "2022-02-04 05:02:00",
+      "added_at": "2022-07-29 14:50:52",
       "album": {
-        "name": "The Real Thing",
-        "url": "https://open.spotify.com/album/6LEP3L94jnkqjOxYJWPRP0"
+        "name": "Give It Up",
+        "url": "https://open.spotify.com/album/2JfYe3kVt5Q9euIFJOvAUx"
       },
       "artists": [
         {
-          "name": "Faith No More",
-          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
+          "name": "King's X",
+          "url": "https://open.spotify.com/artist/3tn79LMMIdIT1T0TXumjaH"
         }
       ],
-      "duration_ms": 293653,
-      "name": "Epic",
-      "url": "https://open.spotify.com/track/4ReyTz0y3TGkX48wO3Llot"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Eddie",
-        "url": "https://open.spotify.com/album/6DUWfrmH8uTH33wMFOBJDu"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 341986,
-      "name": "Eddie",
-      "url": "https://open.spotify.com/track/5GWrhVfgP4szBtCOXbSki8"
+      "duration_ms": 179959,
+      "name": "Give It Up",
+      "url": "https://open.spotify.com/track/1fob4CISofwxucGAjaXI14"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -139,22 +143,6 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "Transistor",
-        "url": "https://open.spotify.com/album/66MztQRqLYgND6LTeIpRFx"
-      },
-      "artists": [
-        {
-          "name": "311",
-          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
-        }
-      ],
-      "duration_ms": 238400,
-      "name": "Beautiful Disaster",
-      "url": "https://open.spotify.com/track/0LtsuNRz3IMRrHCYO9fKRk"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
         "name": "Anthology",
         "url": "https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5"
       },
@@ -167,38 +155,6 @@
       "duration_ms": 195706,
       "name": "Movies",
       "url": "https://open.spotify.com/track/0DVxWV6V1nWa7Ml68Frd3D"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "Sublime",
-        "url": "https://open.spotify.com/album/14eK347GdWO4mBBx78tsut"
-      },
-      "artists": [
-        {
-          "name": "Sublime",
-          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
-        }
-      ],
-      "duration_ms": 136146,
-      "name": "Wrong Way",
-      "url": "https://open.spotify.com/track/2PdIo7ewQPuAsP99LVg9uy"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "Morning View",
-        "url": "https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY"
-      },
-      "artists": [
-        {
-          "name": "Incubus",
-          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
-        }
-      ],
-      "duration_ms": 264200,
-      "name": "Are You In?",
-      "url": "https://open.spotify.com/track/1MvJno497VkQR3RsiJcRVm"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -219,18 +175,50 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "They Can't All Be Zingers",
-        "url": "https://open.spotify.com/album/3eI0FhygfWcdgI3GZdLXFT"
+        "name": "Sublime",
+        "url": "https://open.spotify.com/album/14eK347GdWO4mBBx78tsut"
       },
       "artists": [
         {
-          "name": "Primus",
-          "url": "https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx"
+          "name": "Sublime",
+          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
         }
       ],
-      "duration_ms": 216733,
-      "name": "John The Fisherman",
-      "url": "https://open.spotify.com/track/4kiVGEOrzWmEUCxXU21rtN"
+      "duration_ms": 136146,
+      "name": "Wrong Way",
+      "url": "https://open.spotify.com/track/2PdIo7ewQPuAsP99LVg9uy"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "Transistor",
+        "url": "https://open.spotify.com/album/66MztQRqLYgND6LTeIpRFx"
+      },
+      "artists": [
+        {
+          "name": "311",
+          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
+        }
+      ],
+      "duration_ms": 238400,
+      "name": "Beautiful Disaster",
+      "url": "https://open.spotify.com/track/0LtsuNRz3IMRrHCYO9fKRk"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "Morning View",
+        "url": "https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY"
+      },
+      "artists": [
+        {
+          "name": "Incubus",
+          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
+        }
+      ],
+      "duration_ms": 264200,
+      "name": "Are You In?",
+      "url": "https://open.spotify.com/track/1MvJno497VkQR3RsiJcRVm"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -251,18 +239,34 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "311",
-        "url": "https://open.spotify.com/album/6VIeIM5tetuv7FrYxISffU"
+        "name": "They Can't All Be Zingers",
+        "url": "https://open.spotify.com/album/3eI0FhygfWcdgI3GZdLXFT"
       },
       "artists": [
         {
-          "name": "311",
-          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
+          "name": "Primus",
+          "url": "https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx"
         }
       ],
-      "duration_ms": 179600,
-      "name": "All Mixed Up",
-      "url": "https://open.spotify.com/track/18ZOH3KKu5Elt5ysocFyX4"
+      "duration_ms": 216733,
+      "name": "John The Fisherman",
+      "url": "https://open.spotify.com/track/4kiVGEOrzWmEUCxXU21rtN"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 282906,
+      "name": "Give It Away",
+      "url": "https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -347,6 +351,22 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
+        "name": "311",
+        "url": "https://open.spotify.com/album/6VIeIM5tetuv7FrYxISffU"
+      },
+      "artists": [
+        {
+          "name": "311",
+          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
+        }
+      ],
+      "duration_ms": 179600,
+      "name": "All Mixed Up",
+      "url": "https://open.spotify.com/track/18ZOH3KKu5Elt5ysocFyX4"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
         "name": "Rage Against The Machine",
         "url": "https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul"
       },
@@ -363,8 +383,8 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
+        "name": "Black Summer",
+        "url": "https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH"
       },
       "artists": [
         {
@@ -372,9 +392,9 @@
           "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
         }
       ],
-      "duration_ms": 282906,
-      "name": "Give It Away",
-      "url": "https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0"
+      "duration_ms": 232412,
+      "name": "Black Summer",
+      "url": "https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -395,22 +415,6 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "Extreme II - Pornograffitti",
-        "url": "https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC"
-      },
-      "artists": [
-        {
-          "name": "Extreme",
-          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
-        }
-      ],
-      "duration_ms": 264066,
-      "name": "Get The Funk Out",
-      "url": "https://open.spotify.com/track/1Q92pr5ZjhaOfNTvrjYLnE"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
         "name": "S.C.I.E.N.C.E.",
         "url": "https://open.spotify.com/album/0XC5hMpEFLDSuRxc5bVtIZ"
       },
@@ -423,54 +427,6 @@
       "duration_ms": 265733,
       "name": "Summer Romance (Anti-Gravity Love Song)",
       "url": "https://open.spotify.com/track/4O1aEPLNamT9ZuClNZi2KM"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "Angel Dust",
-        "url": "https://open.spotify.com/album/59GwovfBk0Kp2HJw1G7E5Q"
-      },
-      "artists": [
-        {
-          "name": "Faith No More",
-          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
-        }
-      ],
-      "duration_ms": 259866,
-      "name": "Midlife Crisis",
-      "url": "https://open.spotify.com/track/62HyVeSK4fpxjKj6dsI5MP"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "Ritual De Lo Habitual",
-        "url": "https://open.spotify.com/album/2Jkbi83HTSfqEd0CBdYwpU"
-      },
-      "artists": [
-        {
-          "name": "Jane's Addiction",
-          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
-        }
-      ],
-      "duration_ms": 254839,
-      "name": "Stop",
-      "url": "https://open.spotify.com/track/7F0dwqgKzlaIRrngChBRAc"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "Low (2017 Remaster)",
-        "url": "https://open.spotify.com/album/2de6LD7eOW8zrlorbS28na"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 112400,
-      "name": "Breaking Glass - 2017 Remaster",
-      "url": "https://open.spotify.com/track/2xFq7wVYKmTHFUySyfv789"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -491,6 +447,70 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
+        "name": "Extreme II - Pornograffitti",
+        "url": "https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC"
+      },
+      "artists": [
+        {
+          "name": "Extreme",
+          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
+        }
+      ],
+      "duration_ms": 264066,
+      "name": "Get The Funk Out",
+      "url": "https://open.spotify.com/track/1Q92pr5ZjhaOfNTvrjYLnE"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "Angel Dust",
+        "url": "https://open.spotify.com/album/59GwovfBk0Kp2HJw1G7E5Q"
+      },
+      "artists": [
+        {
+          "name": "Faith No More",
+          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
+        }
+      ],
+      "duration_ms": 259866,
+      "name": "Midlife Crisis",
+      "url": "https://open.spotify.com/track/62HyVeSK4fpxjKj6dsI5MP"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "Return of the Dream Canteen",
+        "url": "https://open.spotify.com/album/0KJc9ksnoJJsdpQxV3z5i1"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 202888,
+      "name": "The Drummer",
+      "url": "https://open.spotify.com/track/5KnqauuLF6qyZA9RzfeKxG"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "Ritual De Lo Habitual",
+        "url": "https://open.spotify.com/album/2Jkbi83HTSfqEd0CBdYwpU"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "duration_ms": 254839,
+      "name": "Stop",
+      "url": "https://open.spotify.com/track/7F0dwqgKzlaIRrngChBRAc"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
         "name": "Time'S Up",
         "url": "https://open.spotify.com/album/2rNAZnGy5aH1enh3NRn6IA"
       },
@@ -507,18 +527,18 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "Black Summer",
-        "url": "https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH"
+        "name": "Low (2017 Remaster)",
+        "url": "https://open.spotify.com/album/2de6LD7eOW8zrlorbS28na"
       },
       "artists": [
         {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
         }
       ],
-      "duration_ms": 232412,
-      "name": "Black Summer",
-      "url": "https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b"
+      "duration_ms": 112400,
+      "name": "Breaking Glass - 2017 Remaster",
+      "url": "https://open.spotify.com/track/2xFq7wVYKmTHFUySyfv789"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -603,6 +623,22 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
+        "name": "Betty Davis",
+        "url": "https://open.spotify.com/album/6fNx8ioP99WoRiLidrqrmz"
+      },
+      "artists": [
+        {
+          "name": "Betty Davis",
+          "url": "https://open.spotify.com/artist/5Ryxgm3uLvQOsw4H5ZpHDn"
+        }
+      ],
+      "duration_ms": 272426,
+      "name": "Anti Love Song",
+      "url": "https://open.spotify.com/track/3zMVsONH6RZv528HANVm3Y"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
         "name": "The Best of Eric Burdon & War",
         "url": "https://open.spotify.com/album/0Pm5PksODNsUnZjy9ia4Nc"
       },
@@ -619,6 +655,22 @@
       "duration_ms": 237400,
       "name": "Tobacco Road",
       "url": "https://open.spotify.com/track/4qEOCUBvjk1za4pDYWFsab"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "Fishbone & The Familyhood Nextperience Presents The Psychotic Friends Nuttwerx",
+        "url": "https://open.spotify.com/album/74V4Nn19XGD3iILWataq8Y"
+      },
+      "artists": [
+        {
+          "name": "Fishbone",
+          "url": "https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi"
+        }
+      ],
+      "duration_ms": 224379,
+      "name": "Shakey Ground",
+      "url": "https://open.spotify.com/track/7426iYRovqN7S11kQdzVvd"
     },
     {
       "added_at": "2022-04-08 04:01:00",
@@ -639,6 +691,22 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
+        "name": "Circus",
+        "url": "https://open.spotify.com/album/0WGH7xwdRoCCNLJEyQQ4Z0"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 259026,
+      "name": "Tunnel Vision",
+      "url": "https://open.spotify.com/track/1IuhMns4MRmjIlAdCDE1jR"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
         "name": "Greatest Hits '93 - '03",
         "url": "https://open.spotify.com/album/0OsjlbBaSZFbZnXGAUysMG"
       },
@@ -651,54 +719,6 @@
       "duration_ms": 222360,
       "name": "Come Original",
       "url": "https://open.spotify.com/track/7LG5qAX1r73gafhxvzu28K"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "Betty Davis",
-        "url": "https://open.spotify.com/album/6fNx8ioP99WoRiLidrqrmz"
-      },
-      "artists": [
-        {
-          "name": "Betty Davis",
-          "url": "https://open.spotify.com/artist/5Ryxgm3uLvQOsw4H5ZpHDn"
-        }
-      ],
-      "duration_ms": 272426,
-      "name": "Anti Love Song",
-      "url": "https://open.spotify.com/track/3zMVsONH6RZv528HANVm3Y"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "Back from the Living",
-        "url": "https://open.spotify.com/album/6J5Lg92qtxOwyrLrn1Zqfv"
-      },
-      "artists": [
-        {
-          "name": "Stevie Salas",
-          "url": "https://open.spotify.com/artist/6fb78HXq6cKqNjjwZP9dax"
-        }
-      ],
-      "duration_ms": 241240,
-      "name": "Tell Your Story Walkin'",
-      "url": "https://open.spotify.com/track/2gBnKiNNXCIDLfqVptT6v6"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "Fishbone & The Familyhood Nextperience Presents The Psychotic Friends Nuttwerx",
-        "url": "https://open.spotify.com/album/74V4Nn19XGD3iILWataq8Y"
-      },
-      "artists": [
-        {
-          "name": "Fishbone",
-          "url": "https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi"
-        }
-      ],
-      "duration_ms": 224379,
-      "name": "Shakey Ground",
-      "url": "https://open.spotify.com/track/7426iYRovqN7S11kQdzVvd"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -719,22 +739,6 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "Circus",
-        "url": "https://open.spotify.com/album/0WGH7xwdRoCCNLJEyQQ4Z0"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 259026,
-      "name": "Tunnel Vision",
-      "url": "https://open.spotify.com/track/1IuhMns4MRmjIlAdCDE1jR"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
         "name": "They Can't All Be Zingers",
         "url": "https://open.spotify.com/album/3eI0FhygfWcdgI3GZdLXFT"
       },
@@ -747,6 +751,22 @@
       "duration_ms": 254560,
       "name": "Tommy The Cat",
       "url": "https://open.spotify.com/track/1efp2bPw7ssJpCi0Almgsx"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "Back from the Living",
+        "url": "https://open.spotify.com/album/6J5Lg92qtxOwyrLrn1Zqfv"
+      },
+      "artists": [
+        {
+          "name": "Stevie Salas",
+          "url": "https://open.spotify.com/artist/6fb78HXq6cKqNjjwZP9dax"
+        }
+      ],
+      "duration_ms": 241240,
+      "name": "Tell Your Story Walkin'",
+      "url": "https://open.spotify.com/track/2gBnKiNNXCIDLfqVptT6v6"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -767,18 +787,18 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "Nothing's Shocking",
-        "url": "https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa"
+        "name": "The Essential Fishbone",
+        "url": "https://open.spotify.com/album/5A34elKkckMgG5Y4tMAi2H"
       },
       "artists": [
         {
-          "name": "Jane's Addiction",
-          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+          "name": "Fishbone",
+          "url": "https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi"
         }
       ],
-      "duration_ms": 181133,
-      "name": "Idiots Rule",
-      "url": "https://open.spotify.com/track/51Nh6X9tfaBLQF3YyK6s2A"
+      "duration_ms": 284626,
+      "name": "Bonin' In the Boneyard",
+      "url": "https://open.spotify.com/track/3WBRoMyO2huOjKnrq0PaTX"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -799,50 +819,18 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "Dogman",
-        "url": "https://open.spotify.com/album/47U4J0zNT79iSnbWJOXg5S"
+        "name": "Nothing's Shocking",
+        "url": "https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa"
       },
       "artists": [
         {
-          "name": "King's X",
-          "url": "https://open.spotify.com/artist/3tn79LMMIdIT1T0TXumjaH"
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 273426,
-      "name": "Black the Sky",
-      "url": "https://open.spotify.com/track/6qrRjccCGT1LC9yO0bsBfm"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "They Can't All Be Zingers",
-        "url": "https://open.spotify.com/album/3eI0FhygfWcdgI3GZdLXFT"
-      },
-      "artists": [
-        {
-          "name": "Primus",
-          "url": "https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx"
-        }
-      ],
-      "duration_ms": 285306,
-      "name": "My Name Is Mud",
-      "url": "https://open.spotify.com/track/7axVaL2WO7cC3fXxtd9Zlj"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "The Essential Fishbone",
-        "url": "https://open.spotify.com/album/5A34elKkckMgG5Y4tMAi2H"
-      },
-      "artists": [
-        {
-          "name": "Fishbone",
-          "url": "https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi"
-        }
-      ],
-      "duration_ms": 284626,
-      "name": "Bonin' In the Boneyard",
-      "url": "https://open.spotify.com/track/3WBRoMyO2huOjKnrq0PaTX"
+      "duration_ms": 181133,
+      "name": "Idiots Rule",
+      "url": "https://open.spotify.com/track/51Nh6X9tfaBLQF3YyK6s2A"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -863,18 +851,34 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "Street Sweeper Social Club",
-        "url": "https://open.spotify.com/album/62R1tsiIXUb9Iq6MuRoaMp"
+        "name": "They Can't All Be Zingers",
+        "url": "https://open.spotify.com/album/3eI0FhygfWcdgI3GZdLXFT"
       },
       "artists": [
         {
-          "name": "Street Sweeper Social Club",
-          "url": "https://open.spotify.com/artist/1YghQU3PwfnDu94PRfE4pv"
+          "name": "Primus",
+          "url": "https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx"
         }
       ],
-      "duration_ms": 235373,
-      "name": "Clap For The Killers",
-      "url": "https://open.spotify.com/track/1LHvNi1ji3OU26lHASBzaz"
+      "duration_ms": 285306,
+      "name": "My Name Is Mud",
+      "url": "https://open.spotify.com/track/7axVaL2WO7cC3fXxtd9Zlj"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "Dogman",
+        "url": "https://open.spotify.com/album/47U4J0zNT79iSnbWJOXg5S"
+      },
+      "artists": [
+        {
+          "name": "King's X",
+          "url": "https://open.spotify.com/artist/3tn79LMMIdIT1T0TXumjaH"
+        }
+      ],
+      "duration_ms": 273426,
+      "name": "Black the Sky",
+      "url": "https://open.spotify.com/track/6qrRjccCGT1LC9yO0bsBfm"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -895,18 +899,18 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "1995",
-        "url": "https://open.spotify.com/album/6q5d76erR9hoQ5AzOzdcyN"
+        "name": "Street Sweeper Social Club",
+        "url": "https://open.spotify.com/album/62R1tsiIXUb9Iq6MuRoaMp"
       },
       "artists": [
         {
-          "name": "Screaming Headless Torsos",
-          "url": "https://open.spotify.com/artist/6r7cPrc1APUeS49o1ufyyb"
+          "name": "Street Sweeper Social Club",
+          "url": "https://open.spotify.com/artist/1YghQU3PwfnDu94PRfE4pv"
         }
       ],
-      "duration_ms": 264933,
-      "name": "Vinnie",
-      "url": "https://open.spotify.com/track/3tjfHRqYYYRsMTQxUJuPB5"
+      "duration_ms": 235373,
+      "name": "Clap For The Killers",
+      "url": "https://open.spotify.com/track/1LHvNi1ji3OU26lHASBzaz"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -923,6 +927,22 @@
       "duration_ms": 304333,
       "name": "Politicalamity",
       "url": "https://open.spotify.com/track/7fyHrLP3XxlVjHZHtgeWVe"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "1995",
+        "url": "https://open.spotify.com/album/6q5d76erR9hoQ5AzOzdcyN"
+      },
+      "artists": [
+        {
+          "name": "Screaming Headless Torsos",
+          "url": "https://open.spotify.com/artist/6r7cPrc1APUeS49o1ufyyb"
+        }
+      ],
+      "duration_ms": 264933,
+      "name": "Vinnie",
+      "url": "https://open.spotify.com/track/3tjfHRqYYYRsMTQxUJuPB5"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -955,22 +975,6 @@
       "duration_ms": 181786,
       "name": "Dear Ol' Dad",
       "url": "https://open.spotify.com/track/0x8GQiIDqb7jbkrZjHoGF7"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "Dig",
-        "url": "https://open.spotify.com/album/0nUW7lioZIQNMXlsXjaOxy"
-      },
-      "artists": [
-        {
-          "name": "I Mother Earth",
-          "url": "https://open.spotify.com/artist/3zEJAyZ1qSHSx9936UfXuM"
-        }
-      ],
-      "duration_ms": 319066,
-      "name": "Rain Will Fall",
-      "url": "https://open.spotify.com/track/2fJHXL82X3wtyXMzcSifdj"
     }
   ],
   "unique_name": "Funk Rock",

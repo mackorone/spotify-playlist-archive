@@ -217,7 +217,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-30",
+      "date_removed": null,
       "duration_ms": 178373,
       "name": "De Nada Sirvi\u00f3",
       "url": "https://open.spotify.com/track/26utHjizl63E8fLaTYtWf5"
@@ -295,7 +295,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 245697,
       "name": "Dicomoz",
       "url": "https://open.spotify.com/track/7ydAQr1HQYaGu3Q8uupaFc"
@@ -457,7 +457,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": "2022-11-14",
       "duration_ms": 177306,
       "name": "En Eso No Quedamos",
       "url": "https://open.spotify.com/track/6hZFTHGFwLWWiaGq73Z3p8"
@@ -541,10 +541,28 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 95666,
       "name": "Ferrari",
       "url": "https://open.spotify.com/track/5RU4aCfWgiDxrTqWLZTlsW"
+    },
+    {
+      "album": {
+        "name": "15 Exitos Vol. 1",
+        "url": "https://open.spotify.com/album/5BCiEiRADjqGcjhVDD8KPt"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163013,
+      "name": "Flor de Dalia",
+      "url": "https://open.spotify.com/track/2uLpC85SooFEEKVbT59OXb"
     },
     {
       "album": {
@@ -581,7 +599,7 @@
       ],
       "date_added": "2022-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 171877,
       "name": "govio",
       "url": "https://open.spotify.com/track/18hY6S67TUvc5UKpDNiC6J"
@@ -697,7 +715,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 162360,
       "name": "La Novia De Mi Hermano AKA No Te Apasiones",
       "url": "https://open.spotify.com/track/6uHagy7oY3oRrAHu2cJRGe"
@@ -763,7 +781,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 143581,
       "name": "Laulomen",
       "url": "https://open.spotify.com/track/0Fwlg3YdgjlOuqM1iXA4UE"
@@ -938,6 +956,24 @@
     },
     {
       "album": {
+        "name": "Corridos De Jefes",
+        "url": "https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184666,
+      "name": "Lupe Rubalcava AKA Corrido De Lupe Rubalcava",
+      "url": "https://open.spotify.com/track/6EDnuILfWDWBXsFrTmDt8L"
+    },
+    {
+      "album": {
         "name": "El Rey de Mil Coronas",
         "url": "https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy"
       },
@@ -967,7 +1003,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 193893,
       "name": "Me Refiero A Ti",
       "url": "https://open.spotify.com/track/7ImEnjGpUS77pquZ1IeZnH"
@@ -1032,6 +1068,24 @@
     },
     {
       "album": {
+        "name": "Visi\u00f3n 20.20 \u00c9xitos",
+        "url": "https://open.spotify.com/album/3bPCyFWI060W7Z0VEFEFH1"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161546,
+      "name": "Mi Casa Nueva",
+      "url": "https://open.spotify.com/track/7hurP5YckvI4lJaWPUdTHR"
+    },
+    {
+      "album": {
         "name": "Con Guitarras",
         "url": "https://open.spotify.com/album/4blQXogvGZUxRz3zbELk71"
       },
@@ -1043,7 +1097,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 178493,
       "name": "Mi Casa Nueva",
       "url": "https://open.spotify.com/track/0Z9CrDJJ78ZcCJIBBcxzu7"
@@ -1097,7 +1151,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 170053,
       "name": "Mil Pedazos",
       "url": "https://open.spotify.com/track/4kRTaSby9ON4sBp9WsP0z6"
@@ -1122,6 +1176,24 @@
     },
     {
       "album": {
+        "name": "Mis 20 \u00c9xitos Con Banda",
+        "url": "https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-08",
+      "duration_ms": 131253,
+      "name": "Muriendo Por Ella",
+      "url": "https://open.spotify.com/track/7D63GyavsqDG7i9JzlZDr7"
+    },
+    {
+      "album": {
         "name": "El Rey de Mil Coronas",
         "url": "https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy"
       },
@@ -1133,7 +1205,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": "2022-11-02",
       "duration_ms": 173906,
       "name": "Nadie Como Ella",
       "url": "https://open.spotify.com/track/5x6ZJ3RkIKCcIFdQtgKq8J"
@@ -1253,10 +1325,36 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": null,
       "duration_ms": 169573,
       "name": "Para Ti Mi Amor",
       "url": "https://open.spotify.com/track/2DgnPsg5oI4jiFLnTvuEBA"
+    },
+    {
+      "album": {
+        "name": "Pcrct",
+        "url": "https://open.spotify.com/album/5n4ScMcE5IpqkskLHGpTpE"
+      },
+      "artists": [
+        {
+          "name": "Flans",
+          "url": "https://open.spotify.com/artist/79uYTRCeQmTpq8eUptucKq"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        },
+        {
+          "name": "Voltio",
+          "url": "https://open.spotify.com/artist/3Okcq0dqLVlEFHRZ5t22bA"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
+      "duration_ms": 180030,
+      "name": "Pcrct",
+      "url": "https://open.spotify.com/track/2NFxWx1OMaZzpGKYumJRqs"
     },
     {
       "album": {
@@ -1361,7 +1459,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-03",
+      "date_removed": null,
       "duration_ms": 183973,
       "name": "Rafael Caro Quintero",
       "url": "https://open.spotify.com/track/3WbehJeoY3BaaKJFVm2CBH"
@@ -1521,7 +1619,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 153173,
       "name": "Tu Nuevo Cari\u00f1ito",
       "url": "https://open.spotify.com/track/7lSaKdIUjUHHIV4IqTi7Tq"
@@ -1539,7 +1637,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 252213,
       "name": "Valente Quintero - En Vivo",
       "url": "https://open.spotify.com/track/7uVMBqe030IswozmKmEG1Q"
@@ -1572,6 +1670,32 @@
     },
     {
       "album": {
+        "name": "Dicomo",
+        "url": "https://open.spotify.com/album/7uKXXhGd73QD8tDsztI3h3"
+      },
+      "artists": [
+        {
+          "name": "Flans",
+          "url": "https://open.spotify.com/artist/79uYTRCeQmTpq8eUptucKq"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        },
+        {
+          "name": "Industria del Amor",
+          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-19",
+      "duration_ms": 145249,
+      "name": "Vearon Se Lia",
+      "url": "https://open.spotify.com/track/2qh4hYDdpebCGhDVjQmuIk"
+    },
+    {
+      "album": {
         "name": "Vinniys",
         "url": "https://open.spotify.com/album/72gvgntnNmA2huYnWeOutr"
       },
@@ -1591,7 +1715,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 210000,
       "name": "Veil",
       "url": "https://open.spotify.com/track/5WaoGoZ9CFLdbpIqNfFAXz"
@@ -1631,6 +1755,32 @@
       "duration_ms": 219120,
       "name": "Yo Te Amo Mar\u00eda",
       "url": "https://open.spotify.com/track/0MhXyLHLkVA2PjT7rqhMX8"
+    },
+    {
+      "album": {
+        "name": "Me Porto Bonito",
+        "url": "https://open.spotify.com/album/64cw2BtmoePT5gKlBbswDi"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        },
+        {
+          "name": "Rey Ruiz",
+          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
+        }
+      ],
+      "date_added": "2022-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132217,
+      "name": "Z07",
+      "url": "https://open.spotify.com/track/6OxIrIU3dQ0GXNSczy92Dc"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4dhOKA"

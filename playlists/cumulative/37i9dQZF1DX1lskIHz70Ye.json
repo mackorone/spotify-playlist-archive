@@ -214,6 +214,24 @@
     },
     {
       "album": {
+        "name": "Ave Maria",
+        "url": "https://open.spotify.com/album/7itZ0Ps9FuYl3nG1jCmDK0"
+      },
+      "artists": [
+        {
+          "name": "Andrea Chiarini",
+          "url": "https://open.spotify.com/artist/5khp8mlK2hyeY1ZijSIBu3"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125583,
+      "name": "Ave Maria",
+      "url": "https://open.spotify.com/track/23WyiE0ihlkTTkPZm0wndZ"
+    },
+    {
+      "album": {
         "name": "Back In Vienna",
         "url": "https://open.spotify.com/album/0BiRWf0kePadH7rrZNX6Lu"
       },
@@ -673,7 +691,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 162478,
       "name": "Die Donau",
       "url": "https://open.spotify.com/track/2cZMVymCXBcY4KDr0Qag2f"
@@ -753,7 +771,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 136888,
       "name": "El Camino De La Vida",
       "url": "https://open.spotify.com/track/0d0zDKdDkpyetQarz3wFq7"
@@ -1348,6 +1366,24 @@
     },
     {
       "album": {
+        "name": "Lost Love Letters",
+        "url": "https://open.spotify.com/album/1yGo5sPJUWA72PVkYPhHNo"
+      },
+      "artists": [
+        {
+          "name": "K.C Brown",
+          "url": "https://open.spotify.com/artist/5p3he9DObPlyFw4iwatApa"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162250,
+      "name": "Lost Love Letters",
+      "url": "https://open.spotify.com/track/5NyDVqv60SoalJa8xJo2VY"
+    },
+    {
+      "album": {
         "name": "Love Letter 1 (Guitar Solo)",
         "url": "https://open.spotify.com/album/2yW3sBoJlFPbHXHxuMiSxC"
       },
@@ -1684,6 +1720,28 @@
     },
     {
       "album": {
+        "name": "Love's Wisdom: 4 Pieces for Solo Guitar",
+        "url": "https://open.spotify.com/album/4evt9uvaWvhxSxbXVGK5Zc"
+      },
+      "artists": [
+        {
+          "name": "Tim Brace",
+          "url": "https://open.spotify.com/artist/6wl6yVIxkL6zz60qDZsNAn"
+        },
+        {
+          "name": "Dragos Ilie",
+          "url": "https://open.spotify.com/artist/3K1ORibuoYOqNVAxMttFWR"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356687,
+      "name": "Nocturne: Love's Wisdom",
+      "url": "https://open.spotify.com/track/5zGVeONbbcDmzecqdm1Ukb"
+    },
+    {
+      "album": {
         "name": "Nurturing Peace (No. 13, Op. 60, Fernando Sor)",
         "url": "https://open.spotify.com/album/6Lnn3hiDMlQF3NPDoOdGD5"
       },
@@ -1988,6 +2046,42 @@
     },
     {
       "album": {
+        "name": "Reflejos",
+        "url": "https://open.spotify.com/album/7ccrSzeUWfeNjIqkYXhIBE"
+      },
+      "artists": [
+        {
+          "name": "Pablo Brice\u00f1o",
+          "url": "https://open.spotify.com/artist/4SoRek2FECACQBVjfhZ3sQ"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185520,
+      "name": "Reflejos",
+      "url": "https://open.spotify.com/track/1nxLbKEbdPi2ZkdRjWQ02J"
+    },
+    {
+      "album": {
+        "name": "Resignation",
+        "url": "https://open.spotify.com/album/28oamvo15O6DTsIx49l8y3"
+      },
+      "artists": [
+        {
+          "name": "Joe Pisto",
+          "url": "https://open.spotify.com/artist/02EHqe9onqarB5sxNiLdOf"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115500,
+      "name": "Resignation",
+      "url": "https://open.spotify.com/track/2tpGrTd5ecgGHoK95fdA0C"
+    },
+    {
+      "album": {
         "name": "Tierra Nordica",
         "url": "https://open.spotify.com/album/3beGa7ny7BngU8gyFdwsty"
       },
@@ -2035,7 +2129,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 112833,
       "name": "Saint Valentine",
       "url": "https://open.spotify.com/track/1rIOkUQTk0LH9UM6tdRlFR"
@@ -2511,6 +2605,24 @@
       "duration_ms": 150946,
       "name": "The Wizard of Oz: Wizard of Oz: Epilogue - Over the Rainbow (Arr. J. Carter)",
       "url": "https://open.spotify.com/track/6OaQyNygMG3yPXorRWzIk9"
+    },
+    {
+      "album": {
+        "name": "Theme From Love Story",
+        "url": "https://open.spotify.com/album/6H2J0nVhDlwffDOzcID19m"
+      },
+      "artists": [
+        {
+          "name": "Daniel Murphy",
+          "url": "https://open.spotify.com/artist/3U09BkBTECPYMhXsbTuVXD"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203745,
+      "name": "Theme From Love Story",
+      "url": "https://open.spotify.com/track/69u76zurQjRQHJT3RSqxqA"
     },
     {
       "album": {

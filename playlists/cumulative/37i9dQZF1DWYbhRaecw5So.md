@@ -4,7 +4,7 @@
 
 > BESKRES' favorite tracks\. Updated regularly\. Curated by BESKRES\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-53 songs - 5 hr 18 min - [published](https://open.spotify.com/playlist/0umjXykMErxEDJOEfw95Pu)
+55 songs - 5 hr 35 min - [published](https://open.spotify.com/playlist/0umjXykMErxEDJOEfw95Pu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,9 @@
 | [Confusion](https://open.spotify.com/track/5i3Rv4Y9kWVBX00zaZbuSE) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Ali Love](https://open.spotify.com/artist/5XJp0gYotUfFraS626GSge) | [Send Return](https://open.spotify.com/album/3EIYsOioUOBlxSf2tMpGsU) | 6:56 | 2022-07-23 |  |
 | [Connect](https://open.spotify.com/track/4cTL6PiLzj7aUfQn3qhP8f) | [Pavel Khvaleev](https://open.spotify.com/artist/04mfb9WF2sttD7r6SWMYRk) | [Connect](https://open.spotify.com/album/2zpv2XwHzKDB4882SvvsRT) | 3:15 | 2022-07-23 |  |
 | [Dame Mas](https://open.spotify.com/track/0JZdzytn0hL7Zzr538YEos) | [BadWolf](https://open.spotify.com/artist/6MyKIMrr222sdw8idnPVSd), [Soff](https://open.spotify.com/artist/7w1nxdMHMb92psp9qhI9mM) | [Dame Mas](https://open.spotify.com/album/0APfj52qXDE1HGaKGhFQJs) | 6:25 | 2022-07-23 |  |
-| [Didschn \- Monkey Safari Remix](https://open.spotify.com/track/0p9Yv1BVn7RLjXpD7ybyNG) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW), [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Didschn \(Monkey Safari Remix\)](https://open.spotify.com/album/1dJccnUZwwf6ftdtqObRIS) | 8:13 | 2022-07-23 |  |
+| [Didschn \- Monkey Safari Remix](https://open.spotify.com/track/0p9Yv1BVn7RLjXpD7ybyNG) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW), [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Didschn \(Monkey Safari Remix\)](https://open.spotify.com/album/1dJccnUZwwf6ftdtqObRIS) | 8:13 | 2022-07-23 | 2022-10-18 |
+| [Didschn \- Monkey Safari Remix](https://open.spotify.com/track/27B2Tg013TXWaQ6ZP2LYcw) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW), [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Body Language, Vol\. 24](https://open.spotify.com/album/3h8TA79sGuevEV4PZzQRkz) | 8:13 | 2022-07-23 | 2022-11-13 |
+| [Didschn \- Monkey Safari Remix](https://open.spotify.com/track/2oDsvE9FAwxAqJwVNqyIZl) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW), [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Didschn \(Monkey Safari Remix\)](https://open.spotify.com/album/51QNLnstQK6cX0ky7n5gmQ) | 8:13 | 2022-07-23 |  |
 | [Disarm \- Recondite Remix](https://open.spotify.com/track/6n7hJ3lXbbtd4yMcGRAoDo) | [BLOODMOON](https://open.spotify.com/artist/66xFQYYcUE4edhHH9VpU3i), [Recondite](https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK) | [Disarm \(Recondite Remix\)](https://open.spotify.com/album/65YISo8tvlUFxsym1ocwY4) | 6:06 | 2022-07-23 |  |
 | [Djougou Yah](https://open.spotify.com/track/7JoVAisfKRuAEGHHQzzmOQ) | [Laolu](https://open.spotify.com/artist/53PSeUFq8tMZc0zdd1oUTG), [Mr Raoul K](https://open.spotify.com/artist/2ErWVVcMH1io3Au40dTKnG), [Ahmed Sosso](https://open.spotify.com/artist/09jtkgopdNOFuQKcOPPdeP), [Perc](https://open.spotify.com/artist/4ijOFF3Zqg5pGXwzRRVf2y) | [Djougou Yah](https://open.spotify.com/album/2XxSr5wwnDMhLxvJNY9QMJ) | 6:44 | 2022-07-23 |  |
 | [Dream Factory](https://open.spotify.com/track/4LUtcJjhBNhhhI31Ys005u) | [Sasha Carassi](https://open.spotify.com/artist/6UFFThDuFiQixrwog0FecB) | [Dream Factory](https://open.spotify.com/album/1Z1GJAR1SnkA1p9LkdYvp7) | 7:04 | 2022-07-23 |  |

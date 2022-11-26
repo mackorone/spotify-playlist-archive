@@ -229,7 +229,7 @@
       ],
       "date_added": "2022-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 308121,
       "name": "Done Come Too Far",
       "url": "https://open.spotify.com/track/5iPJnokv52n7m0s7ghUIlf"
@@ -395,7 +395,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-22",
+      "date_removed": null,
       "duration_ms": 203573,
       "name": "Have Mercy",
       "url": "https://open.spotify.com/track/5MIfKtG48KDC7GZgP7GiYa"
@@ -479,7 +479,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 299906,
       "name": "I Sing The Blues",
       "url": "https://open.spotify.com/track/6yDMznqxh0KFnifAL5a9C1"
@@ -533,7 +533,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-22",
+      "date_removed": null,
       "duration_ms": 197920,
       "name": "Isn't That So",
       "url": "https://open.spotify.com/track/3I0NjntD1g4OVC6zBQjsrT"
@@ -551,7 +551,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 425733,
       "name": "It Don't Hurt No More",
       "url": "https://open.spotify.com/track/0t2oq1DRaeWzX6VQ1fAXeE"
@@ -587,10 +587,28 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 365666,
       "name": "It's My Own Tears",
       "url": "https://open.spotify.com/track/3hEujxmbPHfblaCnUML6ow"
+    },
+    {
+      "album": {
+        "name": "Blues Ballads",
+        "url": "https://open.spotify.com/album/0w9dUoFQIdEZpilkUmBaWA"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366693,
+      "name": "It's My Own Tears",
+      "url": "https://open.spotify.com/track/2ELvEasdfW66obN7sBw1Eb"
     },
     {
       "album": {
@@ -605,7 +623,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 275533,
       "name": "Jesus Just Left Chicago",
       "url": "https://open.spotify.com/track/1n7uAd2wldanWyRfBTPam0"
@@ -641,7 +659,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 205493,
       "name": "Lemon Pie",
       "url": "https://open.spotify.com/track/1du6ikTuFwWd7QweSi8Nss"
@@ -785,7 +803,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 230426,
       "name": "My Kind Of Guy",
       "url": "https://open.spotify.com/track/6IRKmu2XE5Elm6FoZhauyg"
@@ -821,7 +839,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 259733,
       "name": "Nobody But You",
       "url": "https://open.spotify.com/track/7A2hVb3M0tJo2YSXwieyRK"
@@ -929,7 +947,7 @@
       ],
       "date_added": "2022-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 275948,
       "name": "Smoked Ham And Peaches",
       "url": "https://open.spotify.com/track/0TbFm64bFWwsy2gfhDmfIR"
@@ -965,7 +983,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 271313,
       "name": "Such A Pretty Flame",
       "url": "https://open.spotify.com/track/3LeiPSKvRLcIyzKkdtafrZ"
@@ -1131,7 +1149,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 320560,
       "name": "Turn The Heat Up",
       "url": "https://open.spotify.com/track/4ifseIlgKYEk3Oyx1L30zV"
@@ -1282,6 +1300,24 @@
     },
     {
       "album": {
+        "name": "Deluxe Edition",
+        "url": "https://open.spotify.com/album/747l6AGzZzDh8yBQLJgLgT"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201840,
+      "name": "Wild, Wild Woman",
+      "url": "https://open.spotify.com/track/1cAHyfQAe4SC062WFdssy2"
+    },
+    {
+      "album": {
         "name": "Best of Blues Rock",
         "url": "https://open.spotify.com/album/0g5HOIR19alRdxJCsKWXcl"
       },
@@ -1293,7 +1329,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 201840,
       "name": "Wild, Wild Woman",
       "url": "https://open.spotify.com/track/2CwGthkmGWC3nzPAcf7siW"

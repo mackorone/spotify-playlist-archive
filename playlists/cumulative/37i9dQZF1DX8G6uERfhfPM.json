@@ -1240,6 +1240,28 @@
     },
     {
       "album": {
+        "name": "Shaan",
+        "url": "https://open.spotify.com/album/5ZfApCkywHmo9onnGstgnS"
+      },
+      "artists": [
+        {
+          "name": "Tech Panda",
+          "url": "https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X"
+        },
+        {
+          "name": "Kenzani",
+          "url": "https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207737,
+      "name": "Shaan",
+      "url": "https://open.spotify.com/track/5zN4y6PdlvexKhWumalUPB"
+    },
+    {
+      "album": {
         "name": "Silver",
         "url": "https://open.spotify.com/album/1QnU68ZgGd93c19XoYq1lU"
       },

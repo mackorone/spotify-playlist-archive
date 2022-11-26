@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWW53w3AslFX.md) - [plain]
 
 > Från PJ Harvey via Jenny Wilson till Amanda Bergman och Slowgold\. Här hör du några av alla kvinnor som är med och skriver indiehistoria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,181 likes - 90 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,287 likes - 90 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [deep end](https://open.spotify.com/track/3LYSQacvVpDkPkxzuWEBUc) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [so sad so sexy](https://open.spotify.com/album/28AjCPTvrM4gQIiwo0CEOE) | 3:05 |
 | 2 | [Verklighet](https://open.spotify.com/track/3v4lScmKmSCSSOpq0d3S4n) | [Slowgold](https://open.spotify.com/artist/2Urxw4X90ya3LA8KqV2WIX) | [Mörkare](https://open.spotify.com/album/5zDICSnC15J4BwvSfANMIA) | 4:41 |
-| 3 | [watch you sleep.](https://open.spotify.com/track/3GIIv6Eo0WSuM9Bxx5DTdR) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [watch you sleep.](https://open.spotify.com/album/1f1ED34dUA2H9mDYYTo99T) | 3:00 |
+| 3 | [watch you sleep.](https://open.spotify.com/track/6tMwheKgpMHBcHtr8aYMn8) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [watch you sleep.](https://open.spotify.com/album/788Q6tUcihFxDsOGGeyuFE) | 3:00 |
 | 4 | [Ruin](https://open.spotify.com/track/1n0iHqATRnMzoxsIGmzIoR) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Sun](https://open.spotify.com/album/1IoiJGsAHdL0OL9IOjTflm) | 4:32 |
-| 5 | [Falcons](https://open.spotify.com/track/1FNvsOtp6bnSOQTBgJOtha) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Docks](https://open.spotify.com/album/46ouJiWK0jC4QlaWP6DTCH) | 3:54 |
+| 5 | [Falcons](https://open.spotify.com/track/7dL2Lsa6b6wfX5IzkdWGlY) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Docks](https://open.spotify.com/album/7tIJdci876Nai32nnhU5Nu) | 3:54 |
 | 6 | [The walker](https://open.spotify.com/track/5nTGyhsQmk8NHlg71ZEmmo) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Chris](https://open.spotify.com/album/08LcAgUEeFV4tM3WPPpbYh) | 4:16 |
 | 7 | [The Wheel](https://open.spotify.com/track/64klVekHE2PDDTHwUJlkyO) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [The Hope Six Demolition Project](https://open.spotify.com/album/5nlzjzwM3elIoWvwbanrqL) | 5:38 |
 | 8 | [So Long](https://open.spotify.com/track/6l1ZT5WqVoK1YltrBpGJQ6) | [Hanna Järver](https://open.spotify.com/artist/6JHabNWuD8rd3TQQtMf6Q5) | [So Long](https://open.spotify.com/album/51xf4UGzqJfASaZZvbYk7C) | 3:21 |
 | 9 | [Freedom Is A State Of Mind](https://open.spotify.com/track/1WufMy5OU6l8I6O6BPcg0a) | [El Perro del Mar](https://open.spotify.com/artist/0bnwha8WPTU2sf4Q4P6vE0) | [We Are History](https://open.spotify.com/album/7mY67V7aDraUgOlSH9GaUs) | 4:03 |
 | 10 | [Knock Me Off My Feet](https://open.spotify.com/track/3adNtom9Dn2NXmgHf0OwZR) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Grim Town](https://open.spotify.com/album/2bvDcwRZacKz02UUAmF6Ns) | 3:07 |
-| 11 | [OPEN SEA](https://open.spotify.com/track/1F08ERcR0x0T4pblOQmFoC) | [ionnalee](https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv) | [OPEN SEA](https://open.spotify.com/album/2c6OYljACs4DrtNqjfD5sb) | 4:29 |
+| 11 | [OPEN SEA](https://open.spotify.com/track/3iZ63uiZXAVDZc0yo2tnr0) | [ionnalee](https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv) | [REMEMBER THE FUTURE](https://open.spotify.com/album/5xyWsAqswCJa5sF2Lm7h5T) | 4:30 |
 | 12 | [Masseduction](https://open.spotify.com/track/4L7kaptgY6py2G3nRW9BVQ) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [MASSEDUCTION](https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e) | 3:17 |
 | 13 | [Pussy Is God](https://open.spotify.com/track/6VCeywT4JeawuZOUkQ1okx) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Pussy Is God](https://open.spotify.com/album/4UzCY6ikiEN4rgY26I4jg0) | 3:25 |
 | 14 | [Min stad](https://open.spotify.com/track/1AHbCDFj5w7QWCfePQwCII) | [Frida Hyvönen](https://open.spotify.com/artist/58XdW0XyGukvmGatf7NC2R) | [Kvinnor och barn](https://open.spotify.com/album/5vvefHi9yyhwwyZhMsR1LZ) | 4:22 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWW53w3AslFX.md) - [plain]
 | 23 | [Kommer hända](https://open.spotify.com/track/434fDjhJpR9lTPsVeVUCYL) | [Säkert!](https://open.spotify.com/artist/6aNouxfdfQCKjiZG0LJcjx) | [Kommer hända](https://open.spotify.com/album/088wZCNH0tgX5AGQqgj4EN) | 3:02 |
 | 24 | [The Barrel \- Edit](https://open.spotify.com/track/12Yg0ccaYI9y1U9Qh5bxRV) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [The Barrel](https://open.spotify.com/album/0kLYa7ncFhiJus9oEICDgo) | 3:39 |
 | 25 | [Alaska](https://open.spotify.com/track/4HfLQJtVT1KiX1eVedDyTm) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:08 |
-| 26 | [New Boo](https://open.spotify.com/track/5pGaDqV1iUoCTdPsA3FrSB) | [Kwamie Liv](https://open.spotify.com/artist/09rD2V564B6VYi5yAnvVVg) | [Lovers That Come and Go](https://open.spotify.com/album/4HSgMY5BdDjo2q3LgMpvYE) | 3:26 |
+| 26 | [New Boo](https://open.spotify.com/track/7oFef7lgYDeQDTS65hyFOi) | [Kwamie Liv](https://open.spotify.com/artist/09rD2V564B6VYi5yAnvVVg) | [Lovers That Come and Go](https://open.spotify.com/album/6JXySkDpQcjRWuUihBUdEk) | 3:26 |
 | 27 | [Gemini Feed](https://open.spotify.com/track/1je8teAQYtOnzG7c10MTw5) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Gemini Feed](https://open.spotify.com/album/08TBfp6GDtlh8W8m82yi6l) | 3:06 |
 | 28 | [Mariners Apartment Complex](https://open.spotify.com/track/6OG05bPAwUuV3OMvy2Vy1P) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 4:07 |
 | 29 | [Hurt Me](https://open.spotify.com/track/7fApw5FcXz2wAEMaIwT52E) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Long Way Home](https://open.spotify.com/album/5h5HjSBjZ2dAuGxGL6L2EB) | 3:51 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWW53w3AslFX.md) - [plain]
 | 31 | [Somebody Special](https://open.spotify.com/track/2hI8UCINh2fK8Z0uIkntxF) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [The Sun Will Come up, The Seasons Will Change](https://open.spotify.com/album/5XsBQrYhmDWyYfXGlfsZJU) | 3:20 |
 | 32 | [How Can I Move On](https://open.spotify.com/track/1RLMmRRd8q0qWYc4eTgHR6) | [Marlene Oak](https://open.spotify.com/artist/6lkyBHzdF3MZmPZNJb5UCV) | [Silver Moon](https://open.spotify.com/album/7I2LnG5b6sIBG3Ut5RswR1) | 3:28 |
 | 33 | [Nameless, Faceless](https://open.spotify.com/track/2AUzpScdGwIZplM9y8nkbx) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Nameless, Faceless](https://open.spotify.com/album/6Zq2H87KhAd6WGfeSxKHAG) | 3:14 |
-| 34 | [Youth](https://open.spotify.com/track/4AmcmraFjVzFb9SQDNTRyl) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/31LehqnrVyTuEBEKeXeqVx) | 4:13 |
+| 34 | [Youth](https://open.spotify.com/track/0UPMxtinlgA1dkne9PAKTW) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM) | 4:13 |
 | 35 | [Chasing Shadows](https://open.spotify.com/track/1wXWuZgVO52kWbiQNTaBb1) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [99 Cents](https://open.spotify.com/album/0DOzmXcSztIomiurOwMivk) | 3:15 |
 | 36 | [End Of Time](https://open.spotify.com/track/4gZ2txLgh6J3nAxQ3vQHdT) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [End Of Time](https://open.spotify.com/album/1lNhOO3dWsC6VoRDML3kGh) | 3:22 |
 | 37 | [Don't Talk](https://open.spotify.com/track/4nKSjOkQ4CHJ11rR3jhySj) | [Jennie Abrahamson](https://open.spotify.com/artist/6Q6y2vf2DZm7yLWHKQr7Bx) | [Reverseries](https://open.spotify.com/album/4F9FZPhAlHcVEz4Hr7RXHH) | 6:39 |
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWW53w3AslFX.md) - [plain]
 | 55 | [Lifetime](https://open.spotify.com/track/2u0AwpPXxQY2PJNvYGQYXQ) | [Nicole Sabouné](https://open.spotify.com/artist/2lPG3ptKlBdxvQ8XlH8nEk) | [Lifetime](https://open.spotify.com/album/3X3lBxcaYEMEv0kjOQv9ht) | 5:08 |
 | 56 | [Weekend](https://open.spotify.com/track/5XyQPpTMFzzxB7R0Rpz1u3) | [Linnea Olsson](https://open.spotify.com/artist/5URaqWGLWi0maxmjctj8I0) | [Weekend](https://open.spotify.com/album/6oJyvqAMhh4PL3ahlAPQ9f) | 3:26 |
 | 57 | [Die Distance](https://open.spotify.com/track/4gpmrcdIW76OyhtdzBYWe8) | [Frida Öhrn](https://open.spotify.com/artist/29QsRvznF9E1oeAZFrhTfq) | [Die Distance](https://open.spotify.com/album/558cUeJzOL02b1Cma9ODyg) | 3:19 |
-| 58 | [Don't Know How To Keep Loving You](https://open.spotify.com/track/3bt6gBOA41MHQfXy0Jf855) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/4u3aIyQbywYaxgF7TcXuIu) | 5:32 |
+| 58 | [Don’t Know How To Keep Loving You](https://open.spotify.com/track/0h5icusBVQgQqSyZdPvtxG) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v) | 5:32 |
 | 59 | [Don't Save Me](https://open.spotify.com/track/6Je5Vjd8VXVpQYcOiav5KU) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone](https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf) | 3:50 |
 | 60 | [Gold](https://open.spotify.com/track/5wxlrzKPaXfVklZBHdc6mk) | [Frida Sundemo](https://open.spotify.com/artist/5vuIOnOp6NI06rjLgTpYiY) | [Flashbacks & Futures](https://open.spotify.com/album/6SAXfaWasm91BBreJCxPcx) | 4:14 |
 | 61 | [Old Man](https://open.spotify.com/track/15xbkn7Layn9MhRTpFSdZP) | [Stella Donnelly](https://open.spotify.com/artist/2mHjhKyKCLh6MZELuCe1Es) | [Beware of the Dogs](https://open.spotify.com/album/0E1M8jS13CQ4MibjrIqtpW) | 3:33 |
@@ -97,6 +97,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWW53w3AslFX.md) - [plain]
 | 87 | [The Time Is Now](https://open.spotify.com/track/2sUyLVp9ICIMSeDkVcjkr4) | [Asha Ali](https://open.spotify.com/artist/5sy9u3A2zgs5DjuQ6F46nl) | [Hurricane](https://open.spotify.com/album/4eqAzyhFABzlc7T7SiDbzy) | 2:29 |
 | 88 | [Everyone Else In The World](https://open.spotify.com/track/1pmmWF3qZO1DWodZiQ0h0O) | [Stina Nordenstam](https://open.spotify.com/artist/7gPBpCNPTXfU4B6GJ17CwL) | [This Is Stina Nordenstam](https://open.spotify.com/album/1AvkkG7GVesUL13zqiY1M0) | 2:59 |
 | 89 | [Old Beauty/Du Kan Nu Dö](https://open.spotify.com/track/4FJJq6FyEkdk6WZqQSKfMF) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6) | [Singing from the Grave](https://open.spotify.com/album/7sKxyjSSUkjq95jIR4oSiw) | 6:22 |
-| 90 | [play](https://open.spotify.com/track/4G6NCI19p4AL7UYO4vEAKz) | [iamamiwhoami](https://open.spotify.com/artist/6UOcY6w4K6Ek5Lw5rFDHdP), [ionnalee](https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv) | [kin](https://open.spotify.com/album/22GqBntPW6pTyOTb3RjMFF) | 5:14 |
+| 90 | [play](https://open.spotify.com/track/3RHN3asE9XLDwRNGbFFqYM) | [iamamiwhoami](https://open.spotify.com/artist/6UOcY6w4K6Ek5Lw5rFDHdP), [ionnalee](https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv) | [kin](https://open.spotify.com/album/2CZP23w1EQKmz69Vte3OrL) | 5:14 |
 
-Snapshot ID: `MTYyMzc0OTM4NCwwMDAwMDAwMGIzYTVkMmU0NWE0OTRhZDRiNjNiZjEwMGE1MDRjYTI2`
+Snapshot ID: `MTYyMzc0OTM4NCwwMDAwMDAwMGY0NzExNWJjMzI3NTU4M2VmY2VlNWY1YzliYmU4MGM1`

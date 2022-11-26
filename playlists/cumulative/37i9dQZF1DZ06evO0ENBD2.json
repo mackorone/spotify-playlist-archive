@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 310013,
       "name": "Brighton Rock - Remastered 2011",
       "url": "https://open.spotify.com/track/0w7lKfhxW190u1ckXi45E9"
@@ -242,6 +242,42 @@
     },
     {
       "album": {
+        "name": "Face It Alone",
+        "url": "https://open.spotify.com/album/1IZF5Dv3NXSwZPifWMOsIT"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247186,
+      "name": "Face It Alone",
+      "url": "https://open.spotify.com/track/1qr9bymNcBLy71PnO15jWi"
+    },
+    {
+      "album": {
+        "name": "Face It Alone",
+        "url": "https://open.spotify.com/album/5LyejWyG4J1IoUHBsvL7ju"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-16",
+      "duration_ms": 247186,
+      "name": "Face It Alone",
+      "url": "https://open.spotify.com/track/3LkJaE6mfTskqEV8BUjHei"
+    },
+    {
+      "album": {
         "name": "Jazz (2011 Remaster)",
         "url": "https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU"
       },
@@ -289,7 +325,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-16",
       "duration_ms": 168213,
       "name": "Flash - Single Version",
       "url": "https://open.spotify.com/track/5aswWmjJLHBSYFknQjegfg"
@@ -451,7 +487,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-10-24",
       "duration_ms": 262933,
       "name": "I'm Going Slightly Mad - Remastered 2011",
       "url": "https://open.spotify.com/track/1pHVfiNHMMZYquR35fTZdM"
@@ -469,7 +505,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 184893,
       "name": "I'm In Love With My Car - Remastered 2011",
       "url": "https://open.spotify.com/track/253ewjP2R1LjKqA70mGdnk"
@@ -595,7 +631,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 265981,
       "name": "Now I'm Here - Live At The Hammersmith Odeon",
       "url": "https://open.spotify.com/track/4ysz5yttr3rpRkvyVMLlRB"
@@ -617,6 +653,24 @@
       "duration_ms": 311026,
       "name": "One Vision - Remastered 2011",
       "url": "https://open.spotify.com/track/3ROPrLWea9uICOW4V2Px1y"
+    },
+    {
+      "album": {
+        "name": "A Kind Of Magic (2011 Remaster)",
+        "url": "https://open.spotify.com/album/0pEfDPZko6TnNOgrZMe5nn"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267480,
+      "name": "One Year Of Love - Remastered 2011",
+      "url": "https://open.spotify.com/track/1SvX2R7kPc0JsGnJaJVzZO"
     },
     {
       "album": {
@@ -728,6 +782,28 @@
     },
     {
       "album": {
+        "name": "Ladies & Gentlemen",
+        "url": "https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        },
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318866,
+      "name": "Somebody to Love",
+      "url": "https://open.spotify.com/track/1kn8Jj0i9IwyO3yDgDyUSR"
+    },
+    {
+      "album": {
         "name": "A Day At The Races (Deluxe Edition 2011 Remaster)",
         "url": "https://open.spotify.com/album/4KZGe18wZJbXL6JLW4KyLc"
       },
@@ -815,6 +891,24 @@
       "duration_ms": 277826,
       "name": "The Show Must Go On - Remastered 2011",
       "url": "https://open.spotify.com/track/5n6RDaGFSN88oRWuGtYAIN"
+    },
+    {
+      "album": {
+        "name": "Innuendo (2011 Remaster)",
+        "url": "https://open.spotify.com/album/5kffKW0sSLo6tkLg1veUGC"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255040,
+      "name": "These Are The Days Of Our Lives - 2011 Remaster",
+      "url": "https://open.spotify.com/track/5js1JJOAkR5KwlifBpvHMN"
     },
     {
       "album": {

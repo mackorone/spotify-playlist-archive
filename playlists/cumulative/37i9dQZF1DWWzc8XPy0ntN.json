@@ -19,10 +19,36 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": null,
       "duration_ms": 275063,
       "name": "Afrotrip",
       "url": "https://open.spotify.com/track/0n84JDWB6PWHobrArjK1m1"
+    },
+    {
+      "album": {
+        "name": "Illusions of Shameless Abundance",
+        "url": "https://open.spotify.com/album/5P1yIYyaRLTcdo3TPRzT5H"
+      },
+      "artists": [
+        {
+          "name": "Against All Logic",
+          "url": "https://open.spotify.com/artist/0ngUeF0DGpYmPec80MqSi1"
+        },
+        {
+          "name": "Estado Unido",
+          "url": "https://open.spotify.com/artist/7LQMfqw2JZQhybBOrH1KtS"
+        },
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 546693,
+      "name": "Alucinao",
+      "url": "https://open.spotify.com/track/37cNWcjPG6hXI94CsZOHje"
     },
     {
       "album": {
@@ -45,7 +71,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 546693,
       "name": "Alucinao",
       "url": "https://open.spotify.com/track/6bkbxLo2NwGu7jP5quwsMq"
@@ -623,7 +649,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-10-17",
       "duration_ms": 346713,
       "name": "Dune Dune",
       "url": "https://open.spotify.com/track/4pvAdTqM8fNzMK7QEjovlV"
@@ -663,10 +689,32 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 235032,
       "name": "El Mago Georges",
       "url": "https://open.spotify.com/track/1CJ5JejmIAEtShoxy8DQHU"
+    },
+    {
+      "album": {
+        "name": "Pleamar",
+        "url": "https://open.spotify.com/album/0ibQuNCIrCSj9OY5OCSzlT"
+      },
+      "artists": [
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        },
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235032,
+      "name": "El Mago Georges",
+      "url": "https://open.spotify.com/track/2BFP1UreT4vYonBeCaP9Uy"
     },
     {
       "album": {
@@ -1145,7 +1193,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": "2022-10-15",
       "duration_ms": 351157,
       "name": "La Nueva Mortalidad",
       "url": "https://open.spotify.com/track/0Mrl7x8w70d4eTm5aaFDMW"
@@ -1239,7 +1287,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 506612,
       "name": "Love is Dancing",
       "url": "https://open.spotify.com/track/1XNXuM7R6Lmk5RdWnfe2S0"
@@ -1345,7 +1393,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 233200,
       "name": "Manila",
       "url": "https://open.spotify.com/track/1uo9jMH4Z3DrpPGi6jm9E4"
@@ -1882,6 +1930,24 @@
     },
     {
       "album": {
+        "name": "Or\u00edgenes",
+        "url": "https://open.spotify.com/album/6gRNWVhhibYkhLxpIemENH"
+      },
+      "artists": [
+        {
+          "name": "Sotomayor",
+          "url": "https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226058,
+      "name": "Sin control",
+      "url": "https://open.spotify.com/track/3VU9lUe99fLz5PD6hlwad7"
+    },
+    {
+      "album": {
         "name": "Sin control",
         "url": "https://open.spotify.com/album/55UvtCx5rsi1djBrqEJ7tb"
       },
@@ -1893,7 +1959,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 226058,
       "name": "Sin control",
       "url": "https://open.spotify.com/track/4yNonlwveBYAglVu6lO4hw"
@@ -1915,7 +1981,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 395452,
       "name": "Sol de Invierno",
       "url": "https://open.spotify.com/track/6dIbDu0GaRGODv9t7YvRnN"

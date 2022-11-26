@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 155877,
       "name": "Adagio Albinoni",
       "url": "https://open.spotify.com/track/5xEcZIjrJu3DI7hz8k4Ltw"
@@ -332,6 +332,24 @@
     },
     {
       "album": {
+        "name": "Calling",
+        "url": "https://open.spotify.com/album/75BVMsLafH4P1ASO6zNJiX"
+      },
+      "artists": [
+        {
+          "name": "Lance Takamiya",
+          "url": "https://open.spotify.com/artist/7FaPxwleV4FLc7PRiyUYmS"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155309,
+      "name": "Calling",
+      "url": "https://open.spotify.com/track/3Ie4uk9C62GHK3ysmXffS5"
+    },
+    {
+      "album": {
         "name": "Calma",
         "url": "https://open.spotify.com/album/2cIzqQRsQJrIHerW1Dz99a"
       },
@@ -433,7 +451,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 148137,
       "name": "City Lights",
       "url": "https://open.spotify.com/track/1qh4crx5pT2dWNM1fhAyeR"
@@ -487,7 +505,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 126712,
       "name": "Contemplation",
       "url": "https://open.spotify.com/track/02tk3raiAkGKpEsxlF3pKw"
@@ -505,7 +523,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 138000,
       "name": "Cu\u00e9ntame Tu Vida",
       "url": "https://open.spotify.com/track/2vUJZddP9b4k5XsJIaYm1L"
@@ -545,6 +563,24 @@
       "duration_ms": 149079,
       "name": "Delft",
       "url": "https://open.spotify.com/track/0Wrotq5gGyWP5hgYZcrnF3"
+    },
+    {
+      "album": {
+        "name": "der Wind kommt",
+        "url": "https://open.spotify.com/album/2IikqK8Vn05CkghcCCPruZ"
+      },
+      "artists": [
+        {
+          "name": "Vandenberg",
+          "url": "https://open.spotify.com/artist/5YCtylTmw5A39uy1jP36Wi"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124833,
+      "name": "der Wind kommt",
+      "url": "https://open.spotify.com/track/2kqLJhzCDxLjYj1StxfYBa"
     },
     {
       "album": {
@@ -599,6 +635,24 @@
       "duration_ms": 106717,
       "name": "Don't Throw It All Away",
       "url": "https://open.spotify.com/track/0sk49euUoY8Va350j6kPKs"
+    },
+    {
+      "album": {
+        "name": "Don't Wanna Be Left Alone",
+        "url": "https://open.spotify.com/album/1e5HKzFBbruMRqqrAjYfx2"
+      },
+      "artists": [
+        {
+          "name": "Jennifer P\u00e9rez",
+          "url": "https://open.spotify.com/artist/6TbznI0U93j8IuSXoJ4bOz"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206739,
+      "name": "Don't Wanna Be Left Alone",
+      "url": "https://open.spotify.com/track/2KqG9v7kW9zSwYGTAqTN2N"
     },
     {
       "album": {
@@ -685,10 +739,32 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 152695,
       "name": "East Wind",
       "url": "https://open.spotify.com/track/1GVjLE6wFF2JRb1SIGPcFA"
+    },
+    {
+      "album": {
+        "name": "Two Songs Catalan",
+        "url": "https://open.spotify.com/album/4Xtai1HjDE81I4yVDPvTa8"
+      },
+      "artists": [
+        {
+          "name": "Miguel Llobet Sol\u00e9s",
+          "url": "https://open.spotify.com/artist/0Ag2rHCb9q0jmQ6Jaj1GUT"
+        },
+        {
+          "name": "Klaus J\u00e4ckle",
+          "url": "https://open.spotify.com/artist/6sTIfHzHqWPEkBI7Dna7Uc"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135566,
+      "name": "El Testament D'amelia",
+      "url": "https://open.spotify.com/track/70jgcZJGcxOgSTnlR08T1s"
     },
     {
       "album": {
@@ -757,10 +833,28 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 119101,
       "name": "Esperanza",
       "url": "https://open.spotify.com/track/5lOKbdXWK4QLLsQLX3CPg9"
+    },
+    {
+      "album": {
+        "name": "Etude In D Minor",
+        "url": "https://open.spotify.com/album/36qa9cBmSgujPIuwLYFkep"
+      },
+      "artists": [
+        {
+          "name": "Joseph Sullinger",
+          "url": "https://open.spotify.com/artist/6mNAxWgMw0EjVXUNhHpRpM"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137951,
+      "name": "Etude In D Minor",
+      "url": "https://open.spotify.com/track/4dW2zO3EDtlRAtNWP9UMsC"
     },
     {
       "album": {
@@ -937,7 +1031,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 155067,
       "name": "Guachinango",
       "url": "https://open.spotify.com/track/2UMCVuUjTYG2ZJf9Dqdmuq"
@@ -1333,7 +1427,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 119594,
       "name": "Light of Seven",
       "url": "https://open.spotify.com/track/0RLxH84fjtDbLbflloUiQG"
@@ -1549,7 +1643,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 80822,
       "name": "May",
       "url": "https://open.spotify.com/track/0L8gLmibYY2SA7ZkH6B4dm"
@@ -1999,7 +2093,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 115814,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/0QqRbSMVB8TuRp1mGRwtDU"
@@ -2024,6 +2118,24 @@
     },
     {
       "album": {
+        "name": "Savage Silhouettes",
+        "url": "https://open.spotify.com/album/2eYTNL3P3wVZA8kdHgnWxa"
+      },
+      "artists": [
+        {
+          "name": "Lavelle Barber",
+          "url": "https://open.spotify.com/artist/09NZ6wf6hcbml8X1aPwyEX"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126148,
+      "name": "Savage Silhouettes",
+      "url": "https://open.spotify.com/track/3Xg0edgHJLSNyfjwtHHcCh"
+    },
+    {
+      "album": {
         "name": "Seerosen Teich",
         "url": "https://open.spotify.com/album/3Tsldk3OSEHytaICuSND55"
       },
@@ -2035,7 +2147,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 177987,
       "name": "Seerosen Teich",
       "url": "https://open.spotify.com/track/1DOjcrbaQbzU2zyHbBg5KM"
@@ -2111,6 +2223,24 @@
       "duration_ms": 146550,
       "name": "Siesta In Siena",
       "url": "https://open.spotify.com/track/78rXRY4lBgvKEh7nwDYOrw"
+    },
+    {
+      "album": {
+        "name": "Siljan",
+        "url": "https://open.spotify.com/album/4YFJAfMjn3OaP8uVwcG3M7"
+      },
+      "artists": [
+        {
+          "name": "Astrid Everdahl",
+          "url": "https://open.spotify.com/artist/3Qj9pNM2oNE8oSVjw6KBOz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118670,
+      "name": "Siljan",
+      "url": "https://open.spotify.com/track/3O4ggwuKhya6gBULrBtoyU"
     },
     {
       "album": {
@@ -2384,6 +2514,24 @@
     },
     {
       "album": {
+        "name": "The Truth About You",
+        "url": "https://open.spotify.com/album/7BSdZatQWa4bycG5QV6Tfs"
+      },
+      "artists": [
+        {
+          "name": "Daniela Petrov\u00e1",
+          "url": "https://open.spotify.com/artist/0k5b5g9KNikMYLSZWikx4Y"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142562,
+      "name": "The Truth About You",
+      "url": "https://open.spotify.com/track/0vWQRwHH4aqsXxIRhoDFGx"
+    },
+    {
+      "album": {
         "name": "Thing Of Beauty",
         "url": "https://open.spotify.com/album/6xq6nBH8XUmiBRhDEBSi7y"
       },
@@ -2629,7 +2777,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 145608,
       "name": "Window From A Train",
       "url": "https://open.spotify.com/track/2Nvuy3Oj6KXMay8iCjJLsw"

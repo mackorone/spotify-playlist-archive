@@ -4,7 +4,7 @@
 
 > Italian superstar producer & DJ <a href="spotify:artist:5ENS85nZShljwNgg4wFD7D">Gabry Ponte</a> promises a good time with his mix featuring recent hits!
 
-21 songs - 1 hr 4 min - [published](https://open.spotify.com/playlist/3NhyGSpBHs9LDf8bcwD3dt)
+22 songs - 1 hr 6 min - [published](https://open.spotify.com/playlist/3NhyGSpBHs9LDf8bcwD3dt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Revision feat Giovanni \- Original Mix \- Mixed](https://open.spotify.com/track/6RsnwwL0fHldEC8uavu8RS) | [Program2](https://open.spotify.com/artist/2OY7mhuIt3eCpTkW1IdADL), [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj), [Giovanni](https://open.spotify.com/artist/3KF46vzbkpKa1c9sdlidvs) | [Revision feat Giovanni \- Original Mix \(Mixed\)](https://open.spotify.com/album/2QHTUvOykShZ7GIPdm8XUI) | 3:14 | 2021-12-22 |  |
 | [Tactus \- Mixed](https://open.spotify.com/track/7rfJGvoiOvry3STzujztG1) | [Tim Hox](https://open.spotify.com/artist/64ydm7vEEBjvH4AeC1slRM), [CILVR](https://open.spotify.com/artist/1ltLaFy2ifgpIhjzYFsPw2) | [Tactus \(Mixed\)](https://open.spotify.com/album/1BH2pClAxV4TTwjZ1nIwow) | 3:23 | 2021-12-22 |  |
 | [Thunder](https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr) | [Thunder](https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf) | 2:40 | 2021-12-22 |  |
+| [Thunder \- Mixed](https://open.spotify.com/track/29LrX4N25uyQ9nz5m24P76) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr) | [Thunder](https://open.spotify.com/album/4PviKr5rO2Nhh967uRjDFg) | 2:50 | 2021-12-22 | 2022-11-13 |
 | [Thunder \- Mixed](https://open.spotify.com/track/6RxHwMLZmlXkfYY47K0UhI) | [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Thunder \(Mixed\)](https://open.spotify.com/album/1mUn86v8euqFTFiCxOEV8q) | 2:50 | 2021-12-22 | 2022-07-29 |
 | [Wild Love \- Mixed](https://open.spotify.com/track/7AkD7CN6lhlGkoeoe4ry8H) | [DJ Angelo](https://open.spotify.com/artist/5hGWA7e7IBqK5cjIBGyH02), [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX), [Aleesia](https://open.spotify.com/artist/1KV1BqrUpebQPqVU2r89xc) | [Wild Love \(Mixed\)](https://open.spotify.com/album/2JE403nCygERc8PBGAI3Lm) | 3:18 | 2021-12-22 |  |
 

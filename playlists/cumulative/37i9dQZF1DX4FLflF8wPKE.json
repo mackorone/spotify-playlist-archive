@@ -271,8 +271,8 @@
           "url": "https://open.spotify.com/artist/7KkUirCiJZhgRN3NbgG98L"
         },
         {
-          "name": "Orchestra Filarmonica Della Scala",
-          "url": "https://open.spotify.com/artist/4v45bfum3pAT33latqFH7e"
+          "name": "Filarmonica della Scala",
+          "url": "https://open.spotify.com/artist/50M4HDvsvjxF5BYChgubmq"
         },
         {
           "name": "Riccardo Chailly",
@@ -498,6 +498,66 @@
     },
     {
       "album": {
+        "name": "Driving Classics: Vivaldi",
+        "url": "https://open.spotify.com/album/2CjCpylLuz0ZB1LlxFfjKi"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Eduardo Fernandez",
+          "url": "https://open.spotify.com/artist/2nZNjnN8m5yQHvatKBCHIf"
+        },
+        {
+          "name": "English Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
+        },
+        {
+          "name": "George Malcolm",
+          "url": "https://open.spotify.com/artist/5ccyh1kIfmtUfJf4d5wchx"
+        }
+      ],
+      "date_added": "2021-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309466,
+      "name": "Concerto for Lute, 2 Violins and Continuo in D major, RV 93: 2. Largo (Arr. for Guitar)",
+      "url": "https://open.spotify.com/track/386YmSk1BVzZXcTpAH3nUz"
+    },
+    {
+      "album": {
+        "name": "Musica rilassante per bambini",
+        "url": "https://open.spotify.com/album/6lI4gdT5nU6cvlPfdfjRnx"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Eduardo Fernandez",
+          "url": "https://open.spotify.com/artist/2nZNjnN8m5yQHvatKBCHIf"
+        },
+        {
+          "name": "English Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
+        },
+        {
+          "name": "George Malcolm",
+          "url": "https://open.spotify.com/artist/5ccyh1kIfmtUfJf4d5wchx"
+        }
+      ],
+      "date_added": "2021-07-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 309466,
+      "name": "Concerto for Lute, 2 Violins and Continuo in D major, RV 93: 2. Largo (Arr. for Guitar)",
+      "url": "https://open.spotify.com/track/3DvZTBzUPl73D82UTFR8xv"
+    },
+    {
+      "album": {
         "name": "Born in the 1600s: Vivaldi",
         "url": "https://open.spotify.com/album/1sw3vQbpQFMl536wB1pO2F"
       },
@@ -521,7 +581,7 @@
       ],
       "date_added": "2021-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-11-14",
       "duration_ms": 309466,
       "name": "Concerto for Lute, 2 Violins and Continuo in D major, RV 93: 2. Largo (Arr. for Guitar)",
       "url": "https://open.spotify.com/track/5GnRdw3oNKF8Mz6gdEcQLK"
@@ -551,7 +611,7 @@
       ],
       "date_added": "2021-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 309466,
       "name": "Concerto for Lute, 2 Violins and Continuo in D major, RV 93: 2. Largo (Arr. for Guitar)",
       "url": "https://open.spotify.com/track/6g0Onez4t5aFP18esmwBNk"
@@ -851,6 +911,28 @@
       "duration_ms": 179360,
       "name": "Five Pieces For Violin And Piano: I. Elegia (Andante Larghetto)",
       "url": "https://open.spotify.com/track/1d1FNmfO3dFlH8873yNFX3"
+    },
+    {
+      "album": {
+        "name": "Relaxing Classical",
+        "url": "https://open.spotify.com/album/1IgpoX287uoldZN4gRe9ne"
+      },
+      "artists": [
+        {
+          "name": "Valentin Silvestrov",
+          "url": "https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6"
+        },
+        {
+          "name": "Duo Gazzana",
+          "url": "https://open.spotify.com/artist/44yqsYKtToaDXjtyMuVXCj"
+        }
+      ],
+      "date_added": "2021-07-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 179360,
+      "name": "Five Pieces For Violin And Piano: I. Elegia (Andante Larghetto)",
+      "url": "https://open.spotify.com/track/3kyKwV1hAZKTLcWPZLM1qv"
     },
     {
       "album": {
@@ -1354,6 +1436,36 @@
     },
     {
       "album": {
+        "name": "Relaxing Classical",
+        "url": "https://open.spotify.com/album/1IgpoX287uoldZN4gRe9ne"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Alice Sara Ott",
+          "url": "https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q"
+        },
+        {
+          "name": "Symphonieorchester des Bayerischen Rundfunks",
+          "url": "https://open.spotify.com/artist/4WXodir2Ci7Ywk0uTaTKkt"
+        },
+        {
+          "name": "Esa-Pekka Salonen",
+          "url": "https://open.spotify.com/artist/3ilNZUdmNZ2nUcuAOIpsQl"
+        }
+      ],
+      "date_added": "2021-07-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 398240,
+      "name": "Piano Concerto in A minor, Op. 16: II. Adagio - Live",
+      "url": "https://open.spotify.com/track/1s729fqMWssbspuRu8Fcgh"
+    },
+    {
+      "album": {
         "name": "Wonderland - Edvard Grieg: Piano Concerto, Lyric Pieces",
         "url": "https://open.spotify.com/album/2HmIxrr7jXKF9cQf2OE84u"
       },
@@ -1463,6 +1575,24 @@
       "duration_ms": 433666,
       "name": "Piano Concerto No. 21 in C Major, K. 467: II. Andante",
       "url": "https://open.spotify.com/track/429GaRIWKJ3EU1GAQPbLcr"
+    },
+    {
+      "album": {
+        "name": "Rough Guide: Mozart",
+        "url": "https://open.spotify.com/album/71DtUOetgyyKaFpJ4Pru2q"
+      },
+      "artists": [
+        {
+          "name": "Howard Shelley & London Mozart Players",
+          "url": "https://open.spotify.com/artist/1VfkB9kSnN6rf45OpMuWkt"
+        }
+      ],
+      "date_added": "2021-07-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 432666,
+      "name": "Piano Concerto No. 21 in C major, KV467: II. Andante",
+      "url": "https://open.spotify.com/track/4tsOiEUx7dOxFtOxJjSjPU"
     },
     {
       "album": {
@@ -1953,6 +2083,24 @@
       "duration_ms": 188906,
       "name": "Winter",
       "url": "https://open.spotify.com/track/0TnTf6JpDE2tQoO83zZfD0"
+    },
+    {
+      "album": {
+        "name": "Piano Christmas",
+        "url": "https://open.spotify.com/album/4VcK2JO5ukSHjTPK25z0jG"
+      },
+      "artists": [
+        {
+          "name": "Ola Gjeilo",
+          "url": "https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G"
+        }
+      ],
+      "date_added": "2021-07-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 188906,
+      "name": "Winter",
+      "url": "https://open.spotify.com/track/6OfnyXVkDHyhbgVTdObIVC"
     },
     {
       "album": {

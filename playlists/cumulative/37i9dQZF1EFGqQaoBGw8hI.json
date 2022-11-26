@@ -89,6 +89,28 @@
     {
       "album": {
         "name": "Shock Value",
+        "url": "https://open.spotify.com/album/4BxB8U8QgpR4UCvJ0moj8Z"
+      },
+      "artists": [
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265613,
+      "name": "2 Man Show",
+      "url": "https://open.spotify.com/track/29Rk4VhqUZXkSDLqVEnLJP"
+    },
+    {
+      "album": {
+        "name": "Shock Value",
         "url": "https://open.spotify.com/album/0V7TZQmJBgI81M9Z7GWxCI"
       },
       "artists": [
@@ -103,7 +125,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 265613,
       "name": "2 Man Show",
       "url": "https://open.spotify.com/track/5wsENdyZpOv7w7Jc5ehkUC"
@@ -241,10 +263,32 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 208714,
       "name": "After All",
       "url": "https://open.spotify.com/track/4A9g0WVvFYjJftYWWXXxP7"
+    },
+    {
+      "album": {
+        "name": "The Lockdown Sessions",
+        "url": "https://open.spotify.com/album/2Gd77sRs3Y8z8V08Hj6EzC"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208714,
+      "name": "After All",
+      "url": "https://open.spotify.com/track/6cnF63Qm1qAJ0sHKvM5BOg"
     },
     {
       "album": {
@@ -979,7 +1023,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 338946,
-      "name": "Blues For My Baby And Me",
+      "name": "Blues For Baby And Me",
       "url": "https://open.spotify.com/track/2MaW82qnGVIVTDi4KeA4Y8"
     },
     {
@@ -1197,10 +1241,32 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 256346,
       "name": "Calling It Christmas - Radio Edit",
       "url": "https://open.spotify.com/track/0XpApJu5havzspIyIVe2ut"
+    },
+    {
+      "album": {
+        "name": "Step Into Christmas",
+        "url": "https://open.spotify.com/album/6qXYjhnacPdM4QT0aYrFuJ"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Joss Stone",
+          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256346,
+      "name": "Calling It Christmas - Radio Edit",
+      "url": "https://open.spotify.com/track/5L8lTSu1qpYvaHQkqzdUGh"
     },
     {
       "album": {
@@ -1716,6 +1782,24 @@
     },
     {
       "album": {
+        "name": "Gnomeo and Juliet (Mexico Version)",
+        "url": "https://open.spotify.com/album/2eIFTd7bwydk2yfOqUFIMP"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-07",
+      "duration_ms": 264840,
+      "name": "Dandelions",
+      "url": "https://open.spotify.com/track/088m4EqzTTqyd3aSsIsMpu"
+    },
+    {
+      "album": {
         "name": "Don't Shoot Me I'm Only The Piano Player",
         "url": "https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR"
       },
@@ -1973,7 +2057,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 299840,
       "name": "Don't Trust That Woman",
       "url": "https://open.spotify.com/track/6ccnG8TlYnQkib9yaRBitv"
@@ -2341,7 +2425,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 311426,
       "name": "Fascist Faces - Remastered 2003",
       "url": "https://open.spotify.com/track/2byAwZoNnmSKGMdPo7hyS9"
@@ -2735,6 +2819,24 @@
       "duration_ms": 146506,
       "name": "Goodbye - Remastered 2010 / Bonus Track",
       "url": "https://open.spotify.com/track/1Yxqqz6fjs0bXc9vvvhHsO"
+    },
+    {
+      "album": {
+        "name": "Reg Strikes Back",
+        "url": "https://open.spotify.com/album/6X5nYddBsYWFHQvhN6SGDK"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210640,
+      "name": "Goodbye Marlon Brando",
+      "url": "https://open.spotify.com/track/6yCaV30GOlv9bVF1H5yTeT"
     },
     {
       "album": {
@@ -4692,6 +4794,24 @@
     },
     {
       "album": {
+        "name": "Jewel Box",
+        "url": "https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-21",
+      "duration_ms": 280106,
+      "name": "Lord Of The Flies",
+      "url": "https://open.spotify.com/track/0FMPjB9iuFP01ware69epp"
+    },
+    {
+      "album": {
         "name": "Gnomeo and Juliet (Mexico Version)",
         "url": "https://open.spotify.com/album/2eIFTd7bwydk2yfOqUFIMP"
       },
@@ -5635,7 +5755,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-27",
+      "date_removed": "2022-11-17",
       "duration_ms": 230573,
       "name": "Poor Cow",
       "url": "https://open.spotify.com/track/4V40bM8dzQLOVZvuZ7DCmk"
@@ -6205,10 +6325,36 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 207026,
       "name": "Sausage Rolls for Everyone",
       "url": "https://open.spotify.com/track/05N7K5msPbY3AE5h1i1DlF"
+    },
+    {
+      "album": {
+        "name": "Sausage Rolls for Everyone",
+        "url": "https://open.spotify.com/album/4gQYK0guzqRxHtt9SQnXFr"
+      },
+      "artists": [
+        {
+          "name": "LadBaby",
+          "url": "https://open.spotify.com/artist/0gWa2AiDlbvF24aqoLT2c1"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207026,
+      "name": "Sausage Rolls for Everyone",
+      "url": "https://open.spotify.com/track/6fNd6OkGoACwHtAnf2wslm"
     },
     {
       "album": {
@@ -6455,7 +6601,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-06",
       "duration_ms": 294466,
       "name": "Since God Invented Girls",
       "url": "https://open.spotify.com/track/0agGbBdOQuH2qIsVzL6Hao"
@@ -7537,7 +7683,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 276066,
       "name": "The Camera Never Lies",
       "url": "https://open.spotify.com/track/4jvqotcqMZ32eA6zGiSY2X"
@@ -7591,7 +7737,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": null,
       "duration_ms": 266586,
       "name": "The Drover's Ballad - Soundtrack Version",
       "url": "https://open.spotify.com/track/6p2xjO8G9A9FHj0YAcxZIG"
@@ -7707,6 +7853,24 @@
     {
       "album": {
         "name": "Elton John",
+        "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307026,
+      "name": "The King Must Die",
+      "url": "https://open.spotify.com/track/5aZWzadLEprtlv0ylYyruD"
+    },
+    {
+      "album": {
+        "name": "Elton John",
         "url": "https://open.spotify.com/album/0C2grVR8DnJnL8rg7OP6Zm"
       },
       "artists": [
@@ -7717,7 +7881,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-30",
       "duration_ms": 321133,
       "name": "The King Must Die",
       "url": "https://open.spotify.com/track/3pzp6ZstveJtYEwHhcZHjt"
@@ -8521,7 +8685,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 250080,
       "name": "Watching The Planes Go By - Band Version",
       "url": "https://open.spotify.com/track/2NBBAVqS1fH398J5nJQ6F8"

@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "A Beautiful Day",
+        "url": "https://open.spotify.com/album/5tkEwWB5purdbx7bhPqZ8L"
+      },
+      "artists": [
+        {
+          "name": "Tommy Ashby",
+          "url": "https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169439,
+      "name": "A Beautiful Day",
+      "url": "https://open.spotify.com/track/7msjDpInWvps7sgWBlMb4R"
+    },
+    {
+      "album": {
         "name": "A Quiet Way",
         "url": "https://open.spotify.com/album/6yhUmrlDJrPjdwKkkVHs7x"
       },
@@ -127,10 +145,46 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 231133,
       "name": "Bardennoch",
       "url": "https://open.spotify.com/track/1ECM3824V2vG1v0vxRe7Vq"
+    },
+    {
+      "album": {
+        "name": "Thanks",
+        "url": "https://open.spotify.com/album/6nBTYX7rMWqpBBZnuK1Odh"
+      },
+      "artists": [
+        {
+          "name": "VanIves",
+          "url": "https://open.spotify.com/artist/6KFpXJms1gsfFAayMjj7Tj"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231133,
+      "name": "Bardennoch",
+      "url": "https://open.spotify.com/track/1YQjWqGwJmyscFhUNxsC33"
+    },
+    {
+      "album": {
+        "name": "Becoming",
+        "url": "https://open.spotify.com/album/1QipggjYx6zUGKciuPT8FF"
+      },
+      "artists": [
+        {
+          "name": "Kate McGill",
+          "url": "https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214838,
+      "name": "Becoming",
+      "url": "https://open.spotify.com/track/5B5Zjcrl4IOb2RwnUx0Qt2"
     },
     {
       "album": {
@@ -149,6 +203,24 @@
       "duration_ms": 178666,
       "name": "big brother",
       "url": "https://open.spotify.com/track/0pcNE2VKwl6LQCShBS7tRL"
+    },
+    {
+      "album": {
+        "name": "Bumblebees and Blue Skies",
+        "url": "https://open.spotify.com/album/0OhZ0ZfAmshKSHDrxHALYW"
+      },
+      "artists": [
+        {
+          "name": "Lucy McWilliams",
+          "url": "https://open.spotify.com/artist/41AscmNq0sWTYo4gRCp21k"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316829,
+      "name": "Bumblebees and Blue Skies",
+      "url": "https://open.spotify.com/track/0Bczbw2k63cjhOS078dXaF"
     },
     {
       "album": {
@@ -192,6 +264,24 @@
     },
     {
       "album": {
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182887,
+      "name": "ceilings",
+      "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
+    },
+    {
+      "album": {
         "name": "Codependent",
         "url": "https://open.spotify.com/album/3NosjY2LAVIVBUEVSDVAG8"
       },
@@ -228,6 +318,42 @@
     },
     {
       "album": {
+        "name": "Big Town",
+        "url": "https://open.spotify.com/album/1wd2T40dHkTMouyq9SddCd"
+      },
+      "artists": [
+        {
+          "name": "Quiet Houses",
+          "url": "https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 266428,
+      "name": "Cold Water Swimming",
+      "url": "https://open.spotify.com/track/374adq7PAbI94qttz6042w"
+    },
+    {
+      "album": {
+        "name": "Cold Water Swimming",
+        "url": "https://open.spotify.com/album/08NjE6ObCCFjSLQIeCx88c"
+      },
+      "artists": [
+        {
+          "name": "Quiet Houses",
+          "url": "https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266428,
+      "name": "Cold Water Swimming",
+      "url": "https://open.spotify.com/track/49wSfSRPw3wdtu2Vqus9uU"
+    },
+    {
+      "album": {
         "name": "Cold Water Swimming",
         "url": "https://open.spotify.com/album/7bEp87pqJ47BMJCfvANfSP"
       },
@@ -239,7 +365,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 266428,
       "name": "Cold Water Swimming",
       "url": "https://open.spotify.com/track/5MlWwkMy6lgwB2TB8HqiZY"
@@ -257,10 +383,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 255697,
       "name": "Colour TV",
       "url": "https://open.spotify.com/track/317hD6kkvxNc65HSqoXfCk"
+    },
+    {
+      "album": {
+        "name": "The Hole Around My Head",
+        "url": "https://open.spotify.com/album/0K2xOWPzXD7pYOcTrF0JLt"
+      },
+      "artists": [
+        {
+          "name": "Will Varley",
+          "url": "https://open.spotify.com/artist/6sKGpXFS8bI6lKbRfhl52T"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 255697,
+      "name": "Colour TV",
+      "url": "https://open.spotify.com/track/3uVGXeJ3xPTuEnnNeFx2hu"
     },
     {
       "album": {
@@ -275,7 +419,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 207124,
       "name": "Control Freak",
       "url": "https://open.spotify.com/track/5V0TpRVcz59uTWCZhObIj0"
@@ -311,7 +455,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 296173,
       "name": "Don't Be Scared, I Love You - Yawny Yawn",
       "url": "https://open.spotify.com/track/0EpLFi2rxpzKJ8RRa1J40j"
@@ -373,6 +517,24 @@
       "duration_ms": 153413,
       "name": "El Invento",
       "url": "https://open.spotify.com/track/23CYKO5L1wUGng3TL37fq0"
+    },
+    {
+      "album": {
+        "name": "El Invento EP",
+        "url": "https://open.spotify.com/album/3HjkmLd8nsxhBhQfgTKD1w"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 153413,
+      "name": "El Invento",
+      "url": "https://open.spotify.com/track/3MwFB6vQEDsOnK8pMF9SFi"
     },
     {
       "album": {
@@ -448,6 +610,28 @@
     },
     {
       "album": {
+        "name": "For All You Give",
+        "url": "https://open.spotify.com/album/7CgedGQTmESdQxTg2FE3mR"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        },
+        {
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 191234,
+      "name": "For All You Give",
+      "url": "https://open.spotify.com/track/59GNu8e5TeFC8RsdkdXJsz"
+    },
+    {
+      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD"
       },
@@ -492,6 +676,24 @@
     },
     {
       "album": {
+        "name": "Forward",
+        "url": "https://open.spotify.com/album/0TBhmTc9ppxvJmGRAQQOoG"
+      },
+      "artists": [
+        {
+          "name": "Qazi & Qazi",
+          "url": "https://open.spotify.com/artist/75skRx68A3gJDsAOZAiVOM"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263760,
+      "name": "Forward",
+      "url": "https://open.spotify.com/track/0bI1DRcJE4kKO5IBZffHEU"
+    },
+    {
+      "album": {
         "name": "FU",
         "url": "https://open.spotify.com/album/5MsObBgbn9V4EJAx49ZCc4"
       },
@@ -507,6 +709,24 @@
       "duration_ms": 173866,
       "name": "FU",
       "url": "https://open.spotify.com/track/2F37All4Cmeteqm0aTc1gC"
+    },
+    {
+      "album": {
+        "name": "Future History",
+        "url": "https://open.spotify.com/album/1fk0AaDbZMUX4z4PQNwkfr"
+      },
+      "artists": [
+        {
+          "name": "Luke Sital-Singh",
+          "url": "https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "Future History",
+      "url": "https://open.spotify.com/track/2S1K6UlJ0hSOGcG8gCgt9m"
     },
     {
       "album": {
@@ -539,10 +759,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 157493,
       "name": "Give Me A Minute",
       "url": "https://open.spotify.com/track/0d0iBmyaaywSWyEjN9NQla"
+    },
+    {
+      "album": {
+        "name": "Give Me A Minute",
+        "url": "https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157493,
+      "name": "Give Me A Minute",
+      "url": "https://open.spotify.com/track/3YyASDEwePUZaPcgCjGOoV"
     },
     {
       "album": {
@@ -600,6 +838,24 @@
     },
     {
       "album": {
+        "name": "Have I Ever Been",
+        "url": "https://open.spotify.com/album/2NB8LDy6LsycfkiFHr8Nwv"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Jethwa",
+          "url": "https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173196,
+      "name": "Have I Ever Been",
+      "url": "https://open.spotify.com/track/4yRS5wjodEe28wyWcTM5up"
+    },
+    {
+      "album": {
         "name": "Haven (from Life Is Strange)",
         "url": "https://open.spotify.com/album/1tCKB58FqUBj5beC5nfpFE"
       },
@@ -633,6 +889,24 @@
       "duration_ms": 211483,
       "name": "Hearts That Pound Like Yours",
       "url": "https://open.spotify.com/track/1dNYnZaryInEQZ0QWQ85Y2"
+    },
+    {
+      "album": {
+        "name": "Freckle Season",
+        "url": "https://open.spotify.com/album/4emwoxUmeMCYHSsYosCdOW"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 244946,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/3p3uYUc79q8dAiVnduMCoc"
     },
     {
       "album": {
@@ -709,7 +983,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 231536,
       "name": "High Moon",
       "url": "https://open.spotify.com/track/1p3wVXamX3ceuO8cCPy5fa"
@@ -761,6 +1035,24 @@
     {
       "album": {
         "name": "Hostages (Alternate)",
+        "url": "https://open.spotify.com/album/0Xd9rEkK9lzqauqoMDx1s7"
+      },
+      "artists": [
+        {
+          "name": "The Howl & The Hum",
+          "url": "https://open.spotify.com/artist/3EQ310YOzcS1pJqiaoDs32"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261374,
+      "name": "Hostages - Alternate",
+      "url": "https://open.spotify.com/track/2nb3ZHHRzwa1bq0UpTWSoY"
+    },
+    {
+      "album": {
+        "name": "Hostages (Alternate)",
         "url": "https://open.spotify.com/album/4dTR9TJBCMHFArn4z6TrH8"
       },
       "artists": [
@@ -771,7 +1063,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 261375,
       "name": "Hostages - Alternate",
       "url": "https://open.spotify.com/track/7xFYoEpqDy5yxyCJLe3pUO"
@@ -796,6 +1088,42 @@
     },
     {
       "album": {
+        "name": "Lichtenberg Figures",
+        "url": "https://open.spotify.com/album/0uR6QYGmCHT2l0osmTyLrS"
+      },
+      "artists": [
+        {
+          "name": "Sunflower Thieves",
+          "url": "https://open.spotify.com/artist/6UwPoe3ZqpC4OUuKgIinVW"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 204293,
+      "name": "I Don't Know Why",
+      "url": "https://open.spotify.com/track/4QbhVyTI7X8tXUjt1De4fa"
+    },
+    {
+      "album": {
+        "name": "I Don't Know Why",
+        "url": "https://open.spotify.com/album/4uQKSajaSAXIcf9RzvbHa9"
+      },
+      "artists": [
+        {
+          "name": "Sunflower Thieves",
+          "url": "https://open.spotify.com/artist/6UwPoe3ZqpC4OUuKgIinVW"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204293,
+      "name": "I Don't Know Why",
+      "url": "https://open.spotify.com/track/6qm17pxCWOfHIkKOdnLaoQ"
+    },
+    {
+      "album": {
         "name": "I Don't Know Why",
         "url": "https://open.spotify.com/album/7oqr6xk4na7xIRYihgwsuv"
       },
@@ -807,10 +1135,28 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 204293,
       "name": "I Don't Know Why",
       "url": "https://open.spotify.com/track/7b2EbQLn9X3jj82BfwMwij"
+    },
+    {
+      "album": {
+        "name": "I Wanna See You Smile",
+        "url": "https://open.spotify.com/album/6JVHWSIdvnjTzdgGlX8312"
+      },
+      "artists": [
+        {
+          "name": "Aquilo",
+          "url": "https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 199152,
+      "name": "I Wanna See You Smile",
+      "url": "https://open.spotify.com/track/4Y5VLhWBJxx2Z2kDSCP1Vr"
     },
     {
       "album": {
@@ -825,10 +1171,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 199152,
       "name": "I Wanna See You Smile",
       "url": "https://open.spotify.com/track/5A7m1ZdTNhZAZ19Hl5H3F2"
+    },
+    {
+      "album": {
+        "name": "A Safe Place To Be",
+        "url": "https://open.spotify.com/album/7JEhar1mBnpipI7lki4Icq"
+      },
+      "artists": [
+        {
+          "name": "Aquilo",
+          "url": "https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199152,
+      "name": "I Wanna See You Smile",
+      "url": "https://open.spotify.com/track/5DWf4L3ZK5PILo7t2Ruw9G"
     },
     {
       "album": {
@@ -850,6 +1214,42 @@
     },
     {
       "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/3FHzq09sinM2wOmILgwuDg"
+      },
+      "artists": [
+        {
+          "name": "Tom Bright",
+          "url": "https://open.spotify.com/artist/5FeiISr6o8mHNSTNtwKceS"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-23",
+      "duration_ms": 134506,
+      "name": "If I Met Your Shadow",
+      "url": "https://open.spotify.com/track/37uHPhQ2cYnVU7RcjayRuo"
+    },
+    {
+      "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/3OHunaAZMGNjh7oOzL5Oum"
+      },
+      "artists": [
+        {
+          "name": "Tom Bright",
+          "url": "https://open.spotify.com/artist/5FeiISr6o8mHNSTNtwKceS"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134506,
+      "name": "If I Met Your Shadow",
+      "url": "https://open.spotify.com/track/4O5utxzrwef2IxmUzp5JaN"
+    },
+    {
+      "album": {
         "name": "If I Met Your Shadow",
         "url": "https://open.spotify.com/album/33upVlBPSnf3oSjK0e9RCF"
       },
@@ -861,7 +1261,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-21",
       "duration_ms": 134506,
       "name": "If I Met Your Shadow",
       "url": "https://open.spotify.com/track/5ruq5kWHENUzVNoclz1UtJ"
@@ -981,7 +1381,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 276000,
       "name": "Laoidh na h-Oidhche",
       "url": "https://open.spotify.com/track/1QD5JdYBiOiyThFWIHPl4r"
@@ -1046,6 +1446,24 @@
     },
     {
       "album": {
+        "name": "Letter to the Boy",
+        "url": "https://open.spotify.com/album/5M1LoQskZ9uiCZzvSoxUbe"
+      },
+      "artists": [
+        {
+          "name": "Roo Panes",
+          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238253,
+      "name": "Letter to the Boy",
+      "url": "https://open.spotify.com/track/24j6YXFaOkhGreq618nvtW"
+    },
+    {
+      "album": {
         "name": "LEMONS",
         "url": "https://open.spotify.com/album/0w8tZm3PdLB8CZcVCkN8rX"
       },
@@ -1093,7 +1511,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 237386,
       "name": "Lonely Star",
       "url": "https://open.spotify.com/track/7Amz41doI0DKoXLrF0KvYK"
@@ -1457,7 +1875,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 192040,
       "name": "Opaline",
       "url": "https://open.spotify.com/track/7qPGnjxHQNIv4zlnk6LxZW"
@@ -1551,6 +1969,24 @@
       "duration_ms": 212973,
       "name": "permanent +1",
       "url": "https://open.spotify.com/track/3ofgZx7BX3AdkFc6usUtnT"
+    },
+    {
+      "album": {
+        "name": "Petals",
+        "url": "https://open.spotify.com/album/6MFWv27QjN5lg5d2OD8kAM"
+      },
+      "artists": [
+        {
+          "name": "Gary O'Neill",
+          "url": "https://open.spotify.com/artist/4xYcXa6VNU7ZmsPj3N7a9r"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271093,
+      "name": "Petals",
+      "url": "https://open.spotify.com/track/2cp6SJzNJZUuWWy5T2chH7"
     },
     {
       "album": {
@@ -1659,7 +2095,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 357080,
       "name": "Prayer",
       "url": "https://open.spotify.com/track/7bY5R1aMqo72yntoqhw72e"
@@ -1868,6 +2304,24 @@
     },
     {
       "album": {
+        "name": "Songs in the Kitchen",
+        "url": "https://open.spotify.com/album/7lajSVr58lAZI6I15HNGNZ"
+      },
+      "artists": [
+        {
+          "name": "Se\u00e1nie Bermingham",
+          "url": "https://open.spotify.com/artist/11SKACGCH6dgAW0RxQPMxK"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190319,
+      "name": "Songs in the Kitchen",
+      "url": "https://open.spotify.com/track/190G1tt4vK1kMexFTuA1ob"
+    },
+    {
+      "album": {
         "name": "Silver Lake",
         "url": "https://open.spotify.com/album/7CwbiDng73fEwI8vIs3ZvL"
       },
@@ -1944,6 +2398,24 @@
     },
     {
       "album": {
+        "name": "The Art Of Letting You Go",
+        "url": "https://open.spotify.com/album/1eM98YrNz3gwLsnMrvFBHU"
+      },
+      "artists": [
+        {
+          "name": "Ewan J Phillips",
+          "url": "https://open.spotify.com/artist/5nuipt5MF5Np09BWob9N6N"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213541,
+      "name": "The Art Of Letting You Go",
+      "url": "https://open.spotify.com/track/5p86enU64v23LqQQvuHI0u"
+    },
+    {
+      "album": {
         "name": "the bottom of the well",
         "url": "https://open.spotify.com/album/5JSEwklzjrjyjl44IsbhHy"
       },
@@ -1955,10 +2427,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 255329,
       "name": "the bottom of the well",
       "url": "https://open.spotify.com/track/0RCVrU017Shdm5o99R0USi"
+    },
+    {
+      "album": {
+        "name": "The Lucky One",
+        "url": "https://open.spotify.com/album/1HYyg1fjpUPVk1Tm9VRN1h"
+      },
+      "artists": [
+        {
+          "name": "Lilla Vargen",
+          "url": "https://open.spotify.com/artist/1bYTiIHnxEdBncCHYCfE4j"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216834,
+      "name": "The Lucky One",
+      "url": "https://open.spotify.com/track/7ykG7DK3hJB9RlznPZ9HNC"
     },
     {
       "album": {
@@ -2009,7 +2499,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 221708,
       "name": "Through Those Eyes Again",
       "url": "https://open.spotify.com/track/7bBEsXVdI9IuCOWRhEiUoZ"
@@ -2175,7 +2665,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 188586,
       "name": "Whole - demo",
       "url": "https://open.spotify.com/track/2NsW7nEPsgmqUqEO7GJ83F"
@@ -2229,7 +2719,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 152857,
       "name": "Will It All Work Out?",
       "url": "https://open.spotify.com/track/1vjVvXwVPiDPHKAIAGzgIu"

@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 169041,
       "name": "1921",
       "url": "https://open.spotify.com/track/2EJo2k8xmQsA3E5VwTta7I"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 452106,
       "name": "A Quick One While He's Away - Remastered 2018",
       "url": "https://open.spotify.com/track/4611nkfmcc1bCYRVqeSCHN"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 220200,
       "name": "Beads On One String",
       "url": "https://open.spotify.com/track/2rsz7h4cJQViOCB2QgYT65"
@@ -278,6 +278,24 @@
     },
     {
       "album": {
+        "name": "Quadrophenia",
+        "url": "https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224346,
+      "name": "Cut My Hair",
+      "url": "https://open.spotify.com/track/3fTPxECrrq7Zl5IIPDJEEY"
+    },
+    {
+      "album": {
         "name": "WHO (Deluxe)",
         "url": "https://open.spotify.com/album/2WuaYvGgx9MS1Vj37aBiyU"
       },
@@ -289,7 +307,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 226200,
       "name": "Detour",
       "url": "https://open.spotify.com/track/0UA9nE47FbV0W5vhTjSy4N"
@@ -325,7 +343,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 200145,
       "name": "Four Faces",
       "url": "https://open.spotify.com/track/6uZ3DqxJ6iKZ1wkmZrqTh5"
@@ -401,6 +419,42 @@
       "duration_ms": 60426,
       "name": "Heinz Baked Beans",
       "url": "https://open.spotify.com/track/0e9e7vOTvNcofMQUOxoRbs"
+    },
+    {
+      "album": {
+        "name": "Quadrophenia (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153546,
+      "name": "Helpless Dancer",
+      "url": "https://open.spotify.com/track/775kHBFQ3xnxGeRe0rOz7b"
+    },
+    {
+      "album": {
+        "name": "Quadrophenia",
+        "url": "https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 129880,
+      "name": "I Am The Sea",
+      "url": "https://open.spotify.com/track/1HKbWgJm1kYJvuU1yl7Aoy"
     },
     {
       "album": {
@@ -487,7 +541,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 234640,
       "name": "I Don't Wanna Get Wise",
       "url": "https://open.spotify.com/track/35cc8RpxVa5KaE07RB0iqj"
@@ -541,7 +595,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 157853,
       "name": "I'm One",
       "url": "https://open.spotify.com/track/6TRQUflD06zYvNijwb2HNH"
@@ -577,7 +631,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-22",
       "duration_ms": 150055,
       "name": "It's Not True - Stereo Version",
       "url": "https://open.spotify.com/track/48DsNbafkIC8waIL7dT2iy"
@@ -599,6 +653,42 @@
       "duration_ms": 264440,
       "name": "Join Together",
       "url": "https://open.spotify.com/track/6JNVCUi0TUeNFVLvyXFJfN"
+    },
+    {
+      "album": {
+        "name": "The Kids Are Alright",
+        "url": "https://open.spotify.com/album/0dHf3EzHyFV4s1JhOyCjGp"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236573,
+      "name": "Long Live Rock - Single Mix",
+      "url": "https://open.spotify.com/track/1Pq1ySROrhPJ1ljTcZPy83"
+    },
+    {
+      "album": {
+        "name": "Who's Next (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130720,
+      "name": "Love Ain't For Keeping",
+      "url": "https://open.spotify.com/track/1zdmeAd3wE2VlrrxpAAEgr"
     },
     {
       "album": {
@@ -692,6 +782,24 @@
     },
     {
       "album": {
+        "name": "Meaty, Beaty, Big And Bouncy",
+        "url": "https://open.spotify.com/album/0NufsuTuf3U0BY0p6jFdxV"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162760,
+      "name": "Pictures Of Lily",
+      "url": "https://open.spotify.com/track/123RhEzztpTieeEd13NexC"
+    },
+    {
+      "album": {
         "name": "Tommy",
         "url": "https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4"
       },
@@ -721,7 +829,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": "2022-10-13",
       "duration_ms": 163708,
       "name": "Please, Please, Please - Stereo Version",
       "url": "https://open.spotify.com/track/27J9JQLDfGgGWqfcSLFmNp"
@@ -872,6 +980,24 @@
     },
     {
       "album": {
+        "name": "Quadrophenia (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268933,
+      "name": "The Dirty Jobs",
+      "url": "https://open.spotify.com/track/2JqIRmo5zyrneYYVG9XX5D"
+    },
+    {
+      "album": {
         "name": "My Generation (50th Anniversary / Super Deluxe)",
         "url": "https://open.spotify.com/album/0ooEHMMu3yiwnFwNYHcqwX"
       },
@@ -890,6 +1016,24 @@
     },
     {
       "album": {
+        "name": "Quadrophenia (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 310933,
+      "name": "The Punk And The Godfather",
+      "url": "https://open.spotify.com/track/2O1tCUkthqO7SWpXdDnp2T"
+    },
+    {
+      "album": {
         "name": "Quadrophenia",
         "url": "https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a"
       },
@@ -901,7 +1045,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 310933,
       "name": "The Punk And The Godfather",
       "url": "https://open.spotify.com/track/5A9Vm1hHyzgKCMxfa1as3j"
@@ -937,7 +1081,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 397440,
       "name": "The Rock",
       "url": "https://open.spotify.com/track/7IgNgM3S0M3TqXEvSBWB73"
@@ -973,7 +1117,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 376613,
       "name": "The Song Is Over",
       "url": "https://open.spotify.com/track/1F10hpkS0xntdnTZ4bIjTp"
@@ -991,7 +1135,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 95441,
       "name": "Tommy Can You Hear Me?",
       "url": "https://open.spotify.com/track/0HLIhUYvZdxemJ5vHJsSBy"

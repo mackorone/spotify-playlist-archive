@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6GZ9F4MZpPdHJEwhq3kHKG.md) - [plain]
 
 > Listen to all of Seth's favorite classic soul tracks right here\. And be sure to check out his charity, Hilarity for Charity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,865 likes - 41 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,863 likes - 41 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

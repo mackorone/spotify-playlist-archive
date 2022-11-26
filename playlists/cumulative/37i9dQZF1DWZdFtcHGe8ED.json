@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "If The Sky Came Down",
+        "url": "https://open.spotify.com/album/0Af2e0rKhhsyAz83qsZzIF"
+      },
+      "artists": [
+        {
+          "name": "Lost Society",
+          "url": "https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229733,
+      "name": "112",
+      "url": "https://open.spotify.com/track/2BXNFsE0wupk3RqkdPLg4K"
+    },
+    {
+      "album": {
         "name": "112",
         "url": "https://open.spotify.com/album/0aq677QTRSYPj3sbsDGjKv"
       },
@@ -19,7 +37,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 229733,
       "name": "112",
       "url": "https://open.spotify.com/track/6Ef5D1XQrboIMC4UY9jptf"
@@ -167,7 +185,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 210288,
       "name": "Activate",
       "url": "https://open.spotify.com/track/6K4sl3JE7oeuUhDJvy9ku3"
@@ -318,6 +336,24 @@
     },
     {
       "album": {
+        "name": "Soundtrack To The Apocalypse",
+        "url": "https://open.spotify.com/album/4i1dW5u1egajFXlgpuVPVe"
+      },
+      "artists": [
+        {
+          "name": "Slayer",
+          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 290400,
+      "name": "Angel Of Death",
+      "url": "https://open.spotify.com/track/4V2lkXCxNBIsrluA9MLqIM"
+    },
+    {
+      "album": {
         "name": "Reign In Blood",
         "url": "https://open.spotify.com/album/2DumvqHl78bNXuvU9kQfPN"
       },
@@ -365,7 +401,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 257666,
       "name": "Annihilation of Civilization",
       "url": "https://open.spotify.com/track/4WpRhaIjVI7zQc7k23tfnX"
@@ -1017,7 +1053,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 254826,
       "name": "Certain Death",
       "url": "https://open.spotify.com/track/6K6bdBIpKj3pL0IrA4b1Kt"
@@ -1093,6 +1129,24 @@
       "duration_ms": 246405,
       "name": "CH\u00d8KE \u00d8N THE ASHES \u00d8F Y\u00d8UR HATE",
       "url": "https://open.spotify.com/track/74Ijstyp0EXcdEZzyLOJy6"
+    },
+    {
+      "album": {
+        "name": "To Mega Therion (Expanded Version)",
+        "url": "https://open.spotify.com/album/4jlatOhKoYXYXxoFJsBMDg"
+      },
+      "artists": [
+        {
+          "name": "Celtic Frost",
+          "url": "https://open.spotify.com/artist/4ZISAmHmQUDCpv8xydqeKG"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267226,
+      "name": "Circle of the Tyrants",
+      "url": "https://open.spotify.com/track/4esTgfKqcMbrjs9MLsxpO8"
     },
     {
       "album": {
@@ -1353,7 +1407,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-11-14",
       "duration_ms": 264506,
       "name": "Death Squad",
       "url": "https://open.spotify.com/track/6HxVWqnbWUiKimNRPz1K8l"
@@ -2097,7 +2151,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-05",
+      "date_removed": "2022-11-13",
       "duration_ms": 280224,
       "name": "For the Horde",
       "url": "https://open.spotify.com/track/1KOKew94NrIZITnpQAMa6p"
@@ -2411,7 +2465,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-27",
+      "date_removed": null,
       "duration_ms": 228586,
       "name": "Heart Attack",
       "url": "https://open.spotify.com/track/38kRxXRL2FbAM2mHZ2tqSQ"
@@ -2897,7 +2951,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": "2022-11-13",
       "duration_ms": 209413,
       "name": "Kill the Silence",
       "url": "https://open.spotify.com/track/224yEQIVV5jtW5sFX1f0GO"
@@ -3657,7 +3711,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": null,
       "duration_ms": 254143,
       "name": "New World Beyond",
       "url": "https://open.spotify.com/track/1gjzvbjjMactmbWxuLxS84"
@@ -3873,7 +3927,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": "2022-11-13",
       "duration_ms": 223588,
       "name": "Outsider God Creation (O.G.C)",
       "url": "https://open.spotify.com/track/2DyYVbTGmphEo0xeqN6xkT"
@@ -3970,7 +4024,7 @@
     },
     {
       "album": {
-        "name": "Peace Sells...But Who's Buying (25th Anniversary)",
+        "name": "Peace Sells...But Who's Buying (Deluxe Edition - Remastered)",
         "url": "https://open.spotify.com/album/4PqSk2iBHnsYQK0ecXjS9k"
       },
       "artists": [
@@ -4273,6 +4327,24 @@
       "duration_ms": 300292,
       "name": "Punish the Punisher",
       "url": "https://open.spotify.com/track/443FxTiQx9GsJucnUTCLM7"
+    },
+    {
+      "album": {
+        "name": "Soundtrack To The Apocalypse",
+        "url": "https://open.spotify.com/album/4i1dW5u1egajFXlgpuVPVe"
+      },
+      "artists": [
+        {
+          "name": "Slayer",
+          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 252960,
+      "name": "Raining Blood",
+      "url": "https://open.spotify.com/track/5eF4Kv3HcYJyAtgTmHVzH9"
     },
     {
       "album": {
@@ -4681,7 +4753,7 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 236893,
       "name": "Seven Words",
       "url": "https://open.spotify.com/track/1OBphi1GDxcPMNExEvNIh5"
@@ -6191,6 +6263,24 @@
       "duration_ms": 174146,
       "name": "Welcome To The Freakshow",
       "url": "https://open.spotify.com/track/4JfWOkRwd93UwkU9TqbavB"
+    },
+    {
+      "album": {
+        "name": "Kill 'Em All (Deluxe Remaster)",
+        "url": "https://open.spotify.com/album/7GttoSWxEi5lZvIWeSrh6n"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 248546,
+      "name": "Whiplash (Remastered)",
+      "url": "https://open.spotify.com/track/0c7TUi67lKsso6WAKpOVzu"
     },
     {
       "album": {

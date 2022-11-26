@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8v8B2bJN6zQ.md) - [plain]
 
 > Música eletrônica para aquele treino de peso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,421 likes - 65 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,234 likes - 65 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Get Down](https://open.spotify.com/track/3H2I7X7POFyU5vUudT9Zxx) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt), [Kubi](https://open.spotify.com/artist/6ePfLvMTRs5ma91LfsE523) | [Get Down](https://open.spotify.com/album/3gt7gWjurvDydPSUNdirlA) | 3:46 |
 | 2 | [My Imagination](https://open.spotify.com/track/78PQivV4gKwRAWv4kCT7An) | [INNDRIVE](https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX) | [My Imagination](https://open.spotify.com/album/4ad7ivsTg73hwCCt1uoGn3) | 3:04 |
-| 3 | [Habanera](https://open.spotify.com/track/2F1ppuYwY0sNjjJMPL90aL) | [Beowülf](https://open.spotify.com/artist/4H1rPQHJFk09XbKGYszUe2), [Flakkë](https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1) | [Habanera](https://open.spotify.com/album/3gKNp9a3iGKczsCql5UyYq) | 2:23 |
+| 3 | [Habanera](https://open.spotify.com/track/4EMv0ZrcBx2GnLfUz9o4kb) | [Beowülf](https://open.spotify.com/artist/4H1rPQHJFk09XbKGYszUe2), [Flakkë](https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1) | [Habanera](https://open.spotify.com/album/7fc95MhJV8ddQjnRbV31xh) | 2:23 |
 | 4 | [Mayas](https://open.spotify.com/track/7C59TgKNzoPdXdOBjfxJyd) | [Henrique Camacho](https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6), [Raz](https://open.spotify.com/artist/6AaKVN1QdU3HMRWH7tDva3), [Dj Yuuki](https://open.spotify.com/artist/1NzRv31U5R4nhzNFipOhUb) | [Mayas](https://open.spotify.com/album/6O9KbQWhCCpPPapXiEWIDT) | 6:14 |
 | 5 | [Like This](https://open.spotify.com/track/4EMS6Lj2BL9KhXYQqb8i2t) | [Gabzy](https://open.spotify.com/artist/0CB9F6M0fhV0xiSzkNHnvB), [Carlos Colleen](https://open.spotify.com/artist/6lunp2L5KJDCGpSt8Gvpx8) | [Like This](https://open.spotify.com/album/07fHGsN9a1FMdtTJMSF43S) | 4:05 |
 | 6 | [Darkside](https://open.spotify.com/track/3vYU3g6y2L0brDR3nt8F5d) | [Memento Mori](https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR), [SPARKS](https://open.spotify.com/artist/7CNgXa0k7ieLtaynmrgUBl) | [Darkside](https://open.spotify.com/album/3vXkiXQge96O332xl5hoSt) | 3:21 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8v8B2bJN6zQ.md) - [plain]
 | 64 | [Who Knows](https://open.spotify.com/track/6kLwtwP6LFgkT5AuH6Ke8v) | [Scorsi](https://open.spotify.com/artist/0LQKGvxOXZHDCxuite9zcT) | [Who Knows](https://open.spotify.com/album/2aHDpFLOosTIylUlwg7Uft) | 3:16 |
 | 65 | [Future](https://open.spotify.com/track/32VQjdJsS3EPF9fmIUAIPl) | [Dualmind](https://open.spotify.com/artist/2gNRZGT58XSTrInywjcgil), [Gandolfi B.](https://open.spotify.com/artist/0Js4sdeapMvJ4hB3KDq58J) | [Future](https://open.spotify.com/album/5pVzwUaHFDj7fi0bN3l3Uq) | 1:24 |
 
-Snapshot ID: `MTY2MjY5MjQ2MCwwMDAwMDAwMDI1YTY4Zjk3NmIzYTJjNjhmZDJiZWZlNzE0OTc0ZDhm`
+Snapshot ID: `MTY2MjY5MjQ2MCwwMDAwMDAwMGQ2MzdhZWY4ZTMzMTk4ZDhlZGYzZTVhMDBmMzhhZTU4`

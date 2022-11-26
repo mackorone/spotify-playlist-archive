@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The most essential R&B songs from the 90s. Cover: Usher",
+  "description": "The most essential R&B songs from the 90s. Cover: Sade",
   "name": "I Love My '90s R&B",
   "published_playlist_ids": [
     "1VYI8Qigj4Sumv75JdWTOA"
@@ -153,7 +153,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 231093,
       "name": "Back & Forth",
       "url": "https://open.spotify.com/track/45wneA2j0Z0WMnYNDO6Ad0"
@@ -349,6 +349,24 @@
       "duration_ms": 261626,
       "name": "Candy Rain - Heavy D & TrakMasterz Mix",
       "url": "https://open.spotify.com/track/0JHwHqPlca9zCnGnQenAEW"
+    },
+    {
+      "album": {
+        "name": "Love Deluxe",
+        "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332133,
+      "name": "Cherish the Day",
+      "url": "https://open.spotify.com/track/22QiTJqDn1BIRSh4mkNJ5w"
     },
     {
       "album": {
@@ -645,6 +663,32 @@
     {
       "album": {
         "name": "The Velvet Rope",
+        "url": "https://open.spotify.com/album/1uFp52Q9EXLNA6DTRYnpTj"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        },
+        {
+          "name": "Q-Tip",
+          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
+        },
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241760,
+      "name": "Got 'Til It's Gone",
+      "url": "https://open.spotify.com/track/1EhvYd5e7vkoN3udEN1Vyl"
+    },
+    {
+      "album": {
+        "name": "The Velvet Rope",
         "url": "https://open.spotify.com/album/6ZANEjETQ9L9pjBuvOAhCQ"
       },
       "artists": [
@@ -753,7 +797,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 300093,
       "name": "Honey",
       "url": "https://open.spotify.com/track/1jM5ZCFU2ZE2PyfX4xv6eb"
@@ -1120,6 +1164,24 @@
     },
     {
       "album": {
+        "name": "Love Deluxe",
+        "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350000,
+      "name": "Kiss of Life",
+      "url": "https://open.spotify.com/track/4S0NYVAQdIb81uLoZoQmgq"
+    },
+    {
+      "album": {
         "name": "Fever for da Flavor",
         "url": "https://open.spotify.com/album/1XXRMULRjSHEmWNxk9G1Cd"
       },
@@ -1193,6 +1255,24 @@
       "duration_ms": 299506,
       "name": "Let's Get Down",
       "url": "https://open.spotify.com/track/7qdo6JOOaaY9LadOAhfXq7"
+    },
+    {
+      "album": {
+        "name": "Love Deluxe",
+        "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Like a Tattoo",
+      "url": "https://open.spotify.com/track/4PEGwWH4tL6H7dGl4uVSPg"
     },
     {
       "album": {
@@ -1279,7 +1359,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 214416,
       "name": "My Way",
       "url": "https://open.spotify.com/track/79SRuRTczEOhGLJeVbk20X"
@@ -1345,6 +1425,24 @@
       "duration_ms": 304600,
       "name": "No Diggity",
       "url": "https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ"
+    },
+    {
+      "album": {
+        "name": "Love Crimes",
+        "url": "https://open.spotify.com/album/5FA0SqkvmxtJi96oCqBjHb"
+      },
+      "artists": [
+        {
+          "name": "Ruff Endz",
+          "url": "https://open.spotify.com/artist/7liFhc0PDIx8etigqd2WhW"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242560,
+      "name": "No More",
+      "url": "https://open.spotify.com/track/2WfhlEjoUII31H6imnQdvF"
     },
     {
       "album": {
@@ -1767,7 +1865,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 257959,
       "name": "Steelo",
       "url": "https://open.spotify.com/track/5OQO6NEs89flntUWPtXUiG"
@@ -1905,7 +2003,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 294103,
       "name": "The Roof (When I Feel the Need) (feat. Brandy)",
       "url": "https://open.spotify.com/track/3rptYWhwQWNWcACrYu4CGg"
@@ -2189,7 +2287,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 219400,
       "name": "You Make Me Wanna...",
       "url": "https://open.spotify.com/track/5AQcMYiXysWVDKAUOPWF4D"
@@ -2211,6 +2309,24 @@
       "duration_ms": 269173,
       "name": "You Used to Love Me",
       "url": "https://open.spotify.com/track/0KhXVmAN4sqeEgsqRd39f2"
+    },
+    {
+      "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/6rxtWZH5ua9eANwWdwwf9o"
+      },
+      "artists": [
+        {
+          "name": "Toni Braxton",
+          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267440,
+      "name": "You're Makin' Me High",
+      "url": "https://open.spotify.com/track/5bJ796cOnGBzSN5bm4mwMj"
     },
     {
       "album": {

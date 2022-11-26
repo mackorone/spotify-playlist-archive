@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaOWYud3Cg4V.md) - [plain]
 
 > Sounds from the touring circuit that gave Black performers refuge and birthed a new generation of superstars.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,013 likes - 44 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,068 likes - 44 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Soft](https://open.spotify.com/track/5u87THoJXo4YgI7pxjwaqI) | [Tiny Bradshaw](https://open.spotify.com/artist/70sHURBVOq2rwWkmBpDxYa) | [The EP Collection](https://open.spotify.com/album/4wwPcZGpLPcXmm3O8GFNSb) | 2:33 |
 | 2 | [I Wanna Know](https://open.spotify.com/track/3HhzA1yBJRUBKwFRTBjI0f) | [The Du Droppers](https://open.spotify.com/artist/409qREwneDD43Jr4dvzsB3) | [Bambalam!!](https://open.spotify.com/album/4a4QguTRGi1qfZ1O7FP6fY) | 2:17 |
 | 3 | [Lawdy Miss Clawdy](https://open.spotify.com/track/7KfvtCQWRgFe83LT8qDPJe) | [Lloyd Price](https://open.spotify.com/artist/3iOE5ItEv5xr9fmKi7GNh2) | [Mr Personality](https://open.spotify.com/album/31zYrDzjDvnwd8G1icD0Ki) | 1:48 |
-| 4 | [Hello Central \(Give Me 209\)](https://open.spotify.com/track/0ghSTCwxsdWCay1bo9DBmR) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [The Best Of Lightnin' Hopkins](https://open.spotify.com/album/7vAiJW4xi4VNmRjcZsLO33) | 2:58 |
+| 4 | [Hello Central \(Give Me 209\)](https://open.spotify.com/track/2IYUQE7kbDYF0ScZIp6pcO) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [Broke My Heart In Houston](https://open.spotify.com/album/0Hs6VdbuLE1rNduoA99kgw) | 3:04 |
 | 5 | [Mellow Blues](https://open.spotify.com/track/3nMVDBVk9TF9JUUQFmgDFa) | [Sonny Thompson & Lula Reed](https://open.spotify.com/artist/2fmQwLfdowskywLBhgpqoT) | [The Very Best Of](https://open.spotify.com/album/33S3CxWxHd53RjpZrKyScP) | 2:43 |
 | 6 | [Shake, Rattle and Roll](https://open.spotify.com/track/7aLoa1F3EoM8AeC6Ao1RKz) | [Big Joe Turner](https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7) | [Shake Rattle & Rock](https://open.spotify.com/album/3srwW4zf3HJcOItxUokJgI) | 2:59 |
 | 7 | [Upstairs Boogie](https://open.spotify.com/track/3ls73k7OYdZByqr065gZS9) | [Lil Son Jackson](https://open.spotify.com/artist/4KfB5Ki4g9PuVqwFuckn0L) | [The Complete Imperial Recordings Of Lil' Son Jackson](https://open.spotify.com/album/3ZOXOkucWOW0uoqrjU9tJu) | 2:16 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaOWYud3Cg4V.md) - [plain]
 | 43 | [Booted](https://open.spotify.com/track/3mKwsHWqKv7mzVpZZwPsPH) | [Rosco Gordon](https://open.spotify.com/artist/35SkZMI5CPiCude4FW45O9) | [The Chess Story 1947\-1956](https://open.spotify.com/album/33Ow1zrnDZND0gJFibphEf) | 3:04 |
 | 44 | [I Want You \- Remastered](https://open.spotify.com/track/4DJHfD8qXvko3yGNCAOH9A) | [The Cadets](https://open.spotify.com/artist/6kGIQDvdaEyZBA3aUyRHIO) | [Giving You Do\-Wop! \(Remastered\)](https://open.spotify.com/album/4Bs215DPmboswx7jMnuaDm) | 2:49 |
 
-Snapshot ID: `MTYzOTAwMDgwNSwwMDAwMDAwMDQwOGJiMzM5MWRhMGUxZGIxNmRmN2EwY2EzZDQwMDJj`
+Snapshot ID: `MTYzOTAwMDgwNSwwMDAwMDAwMGE1M2NjNTA0OWUxZDAzODgzNzdkYWQwYzA5NGQ1MDIx`

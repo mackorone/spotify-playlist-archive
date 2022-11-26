@@ -1007,7 +1007,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 284451,
       "name": "La Primera Vez",
       "url": "https://open.spotify.com/track/7pqLOROlyd3YW4Gvl09HPX"
@@ -1133,7 +1133,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-16",
+      "date_removed": "2022-11-13",
       "duration_ms": 235094,
       "name": "Mejor Callar",
       "url": "https://open.spotify.com/track/5eWPf8IUMtKXCtolSh678f"
@@ -1505,7 +1505,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-03",
+      "date_removed": "2022-11-13",
       "duration_ms": 233839,
       "name": "Pensamientos",
       "url": "https://open.spotify.com/track/1daUWaMsFC5RM4HKydKJoG"
@@ -1982,6 +1982,24 @@
     },
     {
       "album": {
+        "name": "#MusicaEnCasa para cocinar",
+        "url": "https://open.spotify.com/album/7prmDbc4pNPuJZzswgrxP4"
+      },
+      "artists": [
+        {
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 295160,
+      "name": "Un Pacto - Live In Buenos Aires / 2001",
+      "url": "https://open.spotify.com/track/56ApSRqCZjltnow7E0xQMC"
+    },
+    {
+      "album": {
         "name": "De La Cabeza Con Bersuit Vergarabat",
         "url": "https://open.spotify.com/album/4YD4Z01Dk7Vxb4oPcEPevL"
       },
@@ -2167,7 +2185,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": null,
       "duration_ms": 292400,
       "name": "Y Quem\u00e1s",
       "url": "https://open.spotify.com/track/499kpq8yWHsIWhWrM0Wk6v"

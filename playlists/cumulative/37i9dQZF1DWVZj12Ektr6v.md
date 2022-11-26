@@ -4,7 +4,7 @@
 
 > To the world, this is NCT! This is NCT DREAM! The repackaged album, Beatbox is out!
 
-61 songs - 3 hr 28 min - [published](https://open.spotify.com/playlist/02TGDCuKun9YLzos676Haj)
+62 songs - 3 hr 32 min - [published](https://open.spotify.com/playlist/02TGDCuKun9YLzos676Haj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Dreaming](https://open.spotify.com/track/79IikGOqOg2Rnnz0Fo5Qao) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Universe \- The 3rd Album](https://open.spotify.com/album/7woFc7Z4JMbLFjvlIoCCQB) | 3:10 | 2022-05-30 |  |
 | [Drippin'](https://open.spotify.com/track/5ZbwJYmRtJe5Uy9nFkki8W) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [We Go Up](https://open.spotify.com/album/0pIWpPef8UFx8iQ5KSZsYj) | 3:17 | 2022-03-28 |  |
 | [Drive](https://open.spotify.com/track/5kU7ejlQb3T56BIwYOiudl) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Glitch Mode \- The 2nd Album](https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU) | 3:18 | 2022-03-28 |  |
+| [Déjà Vu](https://open.spotify.com/track/5ELKFFmei86qUrsxud45JB) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [NCT RESONANCE Pt\. 2 \- The 2nd Album](https://open.spotify.com/album/5Dq6jkYO5H7KzxXSazhLxs) | 3:27 | 2022-05-30 | 2022-11-13 |
 | [Déjà Vu](https://open.spotify.com/track/1fFcWSwHHYdrNlDIJWNT0R) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [NCT RESONANCE Pt\. 1 \- The 2nd Album](https://open.spotify.com/album/6kudlOyCqSQfsBVSdPZEu4) | 3:27 | 2022-05-30 |  |
 | [Déjà Vu](https://open.spotify.com/track/73TM9iCEp8VtKZNXZADbQb) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [NCT RESONANCE Pt\. 1 \- The 2nd Album](https://open.spotify.com/album/1rGpCbxrR8efs4nMPdUj1q) | 3:27 | 2022-03-28 | 2022-07-29 |
 | [Fire Alarm](https://open.spotify.com/track/4HhjBzw5QUpkPzswMsIWZR) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Glitch Mode \- The 2nd Album](https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU) | 3:12 | 2022-03-28 |  |

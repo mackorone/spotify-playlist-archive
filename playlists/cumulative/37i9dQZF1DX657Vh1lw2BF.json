@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "\u0627\u0633\u062a\u0645\u0639 \u0644\u0627\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0639\u0631\u0627\u0642\u064a\u0629! \u0627\u0644\u063a\u0644\u0627\u0641: \u0631\u062d\u0645\u0629 \u0631\u064a\u0627\u0636",
-  "name": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0639\u0631\u0627\u0642\u064a\u0629",
+  "description": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0627\u063a\u0627\u0646\u064a \u0627\u0644\u0639\u0631\u0627\u0642\u064a\u0629. \u0627\u0644\u063a\u0644\u0627\u0641: \u064a\u0627\u0633\u0631 \u0639\u0628\u062f\u0627\u0644\u0648\u0647\u0627\u0628 \u0648 \u0632\u064a\u062f \u0627\u0644\u062d\u0628\u064a\u0628\n  ",
+  "name": "\u0647\u0648\u0627\u064a\u064e\u0647\u0652 \u0639\u0631\u0627\u0642\u064a",
   "published_playlist_ids": [
     "6qCoMQiIkaLI2EbjrFZXmX"
   ],
@@ -239,10 +239,6 @@
         {
           "name": "Raad And Methaq",
           "url": "https://open.spotify.com/artist/2TS6Y2HXkANqlIC7ZNi5zq"
-        },
-        {
-          "name": "Methaq",
-          "url": "https://open.spotify.com/artist/55c0fnBF1EYaA941Z7srCZ"
         }
       ],
       "date_added": "2022-05-06",
@@ -265,7 +261,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 176326,
       "name": "B6ela",
       "url": "https://open.spotify.com/track/17XYX4C5jRSsFRMgiJJc0B"
@@ -431,6 +427,24 @@
       "duration_ms": 228750,
       "name": "EL Thoq AL Helw",
       "url": "https://open.spotify.com/track/1djs1SBvrnSFsuLySiGTHu"
+    },
+    {
+      "album": {
+        "name": "Enta W Thamrak",
+        "url": "https://open.spotify.com/album/7AjsDQughvx6uMOpPW3d3z"
+      },
+      "artists": [
+        {
+          "name": "Aseel Hameem",
+          "url": "https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226429,
+      "name": "Enta W Thamrak",
+      "url": "https://open.spotify.com/track/14x0OIi2vtEr4ElXWTgNM4"
     },
     {
       "album": {
@@ -994,6 +1008,28 @@
     },
     {
       "album": {
+        "name": "Qalbi",
+        "url": "https://open.spotify.com/album/1lfpfGCFc7pDdQO9H1Qa5L"
+      },
+      "artists": [
+        {
+          "name": "Yasser Abd Alwahab",
+          "url": "https://open.spotify.com/artist/6257KWddv5693NK51w7iXa"
+        },
+        {
+          "name": "Zaid Al Habeb",
+          "url": "https://open.spotify.com/artist/1fIXYnOvlxESOGPL3l10YK"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186352,
+      "name": "Qalbi",
+      "url": "https://open.spotify.com/track/2MPhoIfjDqqtcIpCoq61j7"
+    },
+    {
+      "album": {
         "name": "Qatalny Alshooq",
         "url": "https://open.spotify.com/album/4bqDO2NjCt9NInbjVHqUrh"
       },
@@ -1027,7 +1063,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 275411,
       "name": "Qosat Hobna",
       "url": "https://open.spotify.com/track/1kq2AX8hKBZA2I8NExx9gf"
@@ -1157,7 +1193,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 208269,
       "name": "Shkad Helw",
       "url": "https://open.spotify.com/track/29hXhjoSoGg8NUEPKig2am"
@@ -1225,10 +1261,6 @@
         {
           "name": "Raad And Methaq",
           "url": "https://open.spotify.com/artist/2TS6Y2HXkANqlIC7ZNi5zq"
-        },
-        {
-          "name": "Methaq",
-          "url": "https://open.spotify.com/artist/55c0fnBF1EYaA941Z7srCZ"
         }
       ],
       "date_added": "2022-07-25",
@@ -1245,8 +1277,8 @@
       },
       "artists": [
         {
-          "name": "Haitham Yusuf",
-          "url": "https://open.spotify.com/artist/02zgHwO8Mwq86RTuXL3JXQ"
+          "name": "Haitham Yousif",
+          "url": "https://open.spotify.com/artist/0jPXHSYuneyrz1WOWZfpXT"
         }
       ],
       "date_added": "2022-05-25",
@@ -1269,7 +1301,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 195948,
       "name": "Wen Wen",
       "url": "https://open.spotify.com/track/3EN1SgNhN2VzewMpYglMKh"
@@ -1323,7 +1355,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 216117,
       "name": "\u0623\u062d\u0628\u0643 \u062f\u0648\u0645\u064a",
       "url": "https://open.spotify.com/track/6ifzqwDP0Fnsz4uhHB8k2c"
@@ -1417,7 +1449,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 317257,
       "name": "\u064a\u0645\u0627 \u0627\u0644\u062d\u0628",
       "url": "https://open.spotify.com/track/3aXByu4Art7dq12mZxB2RK"
@@ -1435,7 +1467,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": null,
       "duration_ms": 317257,
       "name": "\u064a\u0645\u0627 \u0627\u0644\u062d\u0628",
       "url": "https://open.spotify.com/track/7zputQxG3bFaAuImb2575d"

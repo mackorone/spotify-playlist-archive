@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "May the Force be with you. Find more great Star Wars music <a href=\"https://open.spotify.com/user/official_star_wars\">here</a>.",
+  "description": "May the Force be with you. Listen to all the best Star Wars tracks, all in one place. Cover: Star Wars: Andor",
   "name": "Best of Star Wars",
   "published_playlist_ids": [
     "1VWBxYYjYIwYYr2cZZuEqM"
@@ -120,6 +120,24 @@
     },
     {
       "album": {
+        "name": "Tales of the Jedi (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0itmHqj2SWH5N83qnXIRvQ"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kiner",
+          "url": "https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167218,
+      "name": "Ahsoka's Village",
+      "url": "https://open.spotify.com/track/4aXx6JRcvuGiwVxxNjvVvy"
+    },
+    {
+      "album": {
         "name": "Star Wars: Revenge of the Sith (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6zhlos3HFJrWni7rjqxacg"
       },
@@ -208,6 +226,24 @@
     },
     {
       "album": {
+        "name": "Andor: Vol. 1 (Episodes 1-4) [Original Score]",
+        "url": "https://open.spotify.com/album/6qvx9oBfEE8N5KshTZBD81"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Britell",
+          "url": "https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77520,
+      "name": "Andor (Main Title Theme) - Episode 1",
+      "url": "https://open.spotify.com/track/3DsfQmoME4Fe6d4L7H2FJi"
+    },
+    {
+      "album": {
         "name": "Main Title Themes (Episodes 1-3) [From \"Andor\"]",
         "url": "https://open.spotify.com/album/0nCyL6BwJyIO8ZuudQg6md"
       },
@@ -219,7 +255,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 77800,
       "name": "Andor (Main Title Theme) - Episode 1",
       "url": "https://open.spotify.com/track/6OTgul0hKh5GuAwvHA6Z3x"
@@ -237,10 +273,28 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 49920,
       "name": "Andor (Main Title Theme) - Episode 2",
       "url": "https://open.spotify.com/track/4SxT40S7bBdHg8iSTYUpTq"
+    },
+    {
+      "album": {
+        "name": "Andor: Vol. 1 (Episodes 1-4) [Original Score]",
+        "url": "https://open.spotify.com/album/6qvx9oBfEE8N5KshTZBD81"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Britell",
+          "url": "https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 51613,
+      "name": "Andor (Main Title Theme) - Episode 2",
+      "url": "https://open.spotify.com/track/6U3O3ecHuLSiBQYLuc5dK8"
     },
     {
       "album": {
@@ -255,10 +309,118 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 39453,
       "name": "Andor (Main Title Theme) - Episode 3",
       "url": "https://open.spotify.com/track/3nN7Ayfj2ukwgnprat3JjI"
+    },
+    {
+      "album": {
+        "name": "Andor: Vol. 1 (Episodes 1-4) [Original Score]",
+        "url": "https://open.spotify.com/album/6qvx9oBfEE8N5KshTZBD81"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Britell",
+          "url": "https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 39866,
+      "name": "Andor (Main Title Theme) - Episode 3",
+      "url": "https://open.spotify.com/track/38SyCdeH9rPBzsAwnrqDW1"
+    },
+    {
+      "album": {
+        "name": "Andor: Vol. 1 (Episodes 1-4) [Original Score]",
+        "url": "https://open.spotify.com/album/6qvx9oBfEE8N5KshTZBD81"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Britell",
+          "url": "https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 46493,
+      "name": "Andor (Main Title Theme) - Episode 4",
+      "url": "https://open.spotify.com/track/5ZONUuFfVPVp7tfqvyB4Bx"
+    },
+    {
+      "album": {
+        "name": "Andor: Vol. 2 (Episodes 5-8) [Original Score]",
+        "url": "https://open.spotify.com/album/3qsR9RjRJ4oicjlR77oJpT"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Britell",
+          "url": "https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68040,
+      "name": "Andor (Main Title Theme) - Episode 5",
+      "url": "https://open.spotify.com/track/0zTw9ipJFr3JrVfPtQYoap"
+    },
+    {
+      "album": {
+        "name": "Andor: Vol. 2 (Episodes 5-8) [Original Score]",
+        "url": "https://open.spotify.com/album/3qsR9RjRJ4oicjlR77oJpT"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Britell",
+          "url": "https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50147,
+      "name": "Andor (Main Title Theme) - Episode 6",
+      "url": "https://open.spotify.com/track/436gHcmjvyp6GkwfWcJc9Z"
+    },
+    {
+      "album": {
+        "name": "Andor: Vol. 2 (Episodes 5-8) [Original Score]",
+        "url": "https://open.spotify.com/album/3qsR9RjRJ4oicjlR77oJpT"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Britell",
+          "url": "https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58097,
+      "name": "Andor (Main Title Theme) - Episode 7",
+      "url": "https://open.spotify.com/track/4pFFwznYDDnaNSdsRTN2pn"
+    },
+    {
+      "album": {
+        "name": "Andor: Vol. 2 (Episodes 5-8) [Original Score]",
+        "url": "https://open.spotify.com/album/3qsR9RjRJ4oicjlR77oJpT"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Britell",
+          "url": "https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50880,
+      "name": "Andor (Main Title Theme) - Episode 8",
+      "url": "https://open.spotify.com/track/6LRpn5LdxiVy9tNXraTamS"
     },
     {
       "album": {
@@ -502,6 +664,42 @@
     },
     {
       "album": {
+        "name": "Tales of the Jedi (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0itmHqj2SWH5N83qnXIRvQ"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kiner",
+          "url": "https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163989,
+      "name": "Dooku Arrives",
+      "url": "https://open.spotify.com/track/2peyQLkWFqjrMg49gGI0oQ"
+    },
+    {
+      "album": {
+        "name": "Tales of the Jedi (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0itmHqj2SWH5N83qnXIRvQ"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kiner",
+          "url": "https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195740,
+      "name": "Dooku vs Yaddle",
+      "url": "https://open.spotify.com/track/1fB7z2N3B0uN0WGXVw1lHR"
+    },
+    {
+      "album": {
         "name": "Star Wars: The Phantom Menace (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/45EFycwtfRhnDPWbc2mClK"
       },
@@ -708,7 +906,7 @@
       "artists": [
         {
           "name": "Yoshiaki Dewa",
-          "url": "https://open.spotify.com/artist/2PNKwLhOHrL7hMidpRW43G"
+          "url": "https://open.spotify.com/artist/3NWiLtzfi2mh7EB2Fq9TyY"
         }
       ],
       "date_added": "2021-10-14",
@@ -1118,6 +1316,24 @@
     },
     {
       "album": {
+        "name": "The Mandalorian: Season 2 - Vol. 2 (Chapters 13-16) [Original Score]",
+        "url": "https://open.spotify.com/album/4xUXCZfINYIV1DdZKomeVx"
+      },
+      "artists": [
+        {
+          "name": "Ludwig Goransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292373,
+      "name": "Open the Door",
+      "url": "https://open.spotify.com/track/1PRgvXplpe5ruTlMP95M8l"
+    },
+    {
+      "album": {
         "name": "Obi-Wan Kenobi (Original Soundtrack)",
         "url": "https://open.spotify.com/album/2hDDDUl05cnWTrheIVVCma"
       },
@@ -1374,7 +1590,7 @@
       "artists": [
         {
           "name": "Yoshiaki Dewa",
-          "url": "https://open.spotify.com/artist/2PNKwLhOHrL7hMidpRW43G"
+          "url": "https://open.spotify.com/artist/3NWiLtzfi2mh7EB2Fq9TyY"
         }
       ],
       "date_added": "2021-10-14",
@@ -1616,7 +1832,7 @@
       "artists": [
         {
           "name": "Yoshiaki Dewa",
-          "url": "https://open.spotify.com/artist/2PNKwLhOHrL7hMidpRW43G"
+          "url": "https://open.spotify.com/artist/3NWiLtzfi2mh7EB2Fq9TyY"
         }
       ],
       "date_added": "2021-10-14",

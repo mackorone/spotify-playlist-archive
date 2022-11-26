@@ -1,47 +1,15 @@
 {
   "description": "This is Joe Bonamassa. The essential tracks, all in one playlist.",
-  "num_followers": 81487,
+  "num_followers": 83111,
   "original_name": "This Is Joe Bonamassa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc3NTUzNzAsMDAwMDAwMDA4MjVjYjhmZjkxYmJkNTkwZDI0YjNhNTU5ZGM0ZjI0MQ==",
+  "snapshot_id": "Mjc4MjMxMDcsMDAwMDAwMDA2ZGNmZjQ4NjIwMzNjZThhYzQ2NDRhMjVhNjk4ODhiYQ==",
   "tracks": [
     {
-      "added_at": "2022-10-09 13:30:31",
-      "album": {
-        "name": "Blues Deluxe",
-        "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 440200,
-      "name": "Blues Deluxe",
-      "url": "https://open.spotify.com/track/2O7OjNCjqflzWOTVg9UlEm"
-    },
-    {
-      "added_at": "2022-10-09 13:30:31",
-      "album": {
-        "name": "Time Clocks",
-        "url": "https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 377360,
-      "name": "Mind\u2019s Eye",
-      "url": "https://open.spotify.com/track/19vLbTpnjkQtcCTaHVPQUm"
-    },
-    {
-      "added_at": "2022-10-09 13:30:31",
+      "added_at": "2022-11-25 14:27:13",
       "album": {
         "name": "Blues Of Desperation",
         "url": "https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h"
@@ -57,7 +25,7 @@
       "url": "https://open.spotify.com/track/2knqdlYKjS0J27lYyyRllU"
     },
     {
-      "added_at": "2022-10-09 13:30:31",
+      "added_at": "2022-11-25 14:27:13",
       "album": {
         "name": "Driving Towards The Daylight",
         "url": "https://open.spotify.com/album/5AjDtAXzFEQPbfZSAnIM5R"
@@ -73,7 +41,39 @@
       "url": "https://open.spotify.com/track/4i8D5dh2n2B1mUWgQSC5ZO"
     },
     {
-      "added_at": "2022-10-09 13:30:31",
+      "added_at": "2022-11-25 14:27:13",
+      "album": {
+        "name": "Blues Deluxe",
+        "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 440200,
+      "name": "Blues Deluxe",
+      "url": "https://open.spotify.com/track/2O7OjNCjqflzWOTVg9UlEm"
+    },
+    {
+      "added_at": "2022-11-25 14:27:13",
+      "album": {
+        "name": "Time Clocks",
+        "url": "https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 377360,
+      "name": "Mind\u2019s Eye",
+      "url": "https://open.spotify.com/track/19vLbTpnjkQtcCTaHVPQUm"
+    },
+    {
+      "added_at": "2022-11-25 14:27:13",
       "album": {
         "name": "Sloe Gin",
         "url": "https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy"
@@ -89,7 +89,39 @@
       "url": "https://open.spotify.com/track/5hob2jVM2gA74CyJ4G4bJZ"
     },
     {
-      "added_at": "2022-10-09 13:30:31",
+      "added_at": "2022-11-25 14:27:13",
+      "album": {
+        "name": "Road To Redemption",
+        "url": "https://open.spotify.com/album/4gj1UOa3iiULaU85YcdYTJ"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 301760,
+      "name": "Black Roses",
+      "url": "https://open.spotify.com/track/5uiW9HcD9edXu2Gk65v9pj"
+    },
+    {
+      "added_at": "2022-11-25 14:27:13",
+      "album": {
+        "name": "You & Me",
+        "url": "https://open.spotify.com/album/4kel2Yi8IWl4Ur5LEWAQqv"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 425853,
+      "name": "So Many Roads",
+      "url": "https://open.spotify.com/track/4rsRYhm78huEfclb5NW5Ps"
+    },
+    {
+      "added_at": "2022-11-25 14:27:13",
       "album": {
         "name": "Dust Bowl",
         "url": "https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM"
@@ -100,92 +132,32 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 254133,
-      "name": "Black Lung Heartache",
-      "url": "https://open.spotify.com/track/4WPB8sqL2RayXfI9mcz0WM"
+      "duration_ms": 273040,
+      "name": "Dust Bowl",
+      "url": "https://open.spotify.com/track/1i7QbG73o4liXhmbtaT7Z3"
     },
     {
-      "added_at": "2022-10-09 13:30:31",
+      "added_at": "2022-11-25 14:27:13",
       "album": {
-        "name": "Time Clocks",
-        "url": "https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD"
+        "name": "Joe Bonamassa Live from the Royal Albert Hall",
+        "url": "https://open.spotify.com/album/4SHZaB8QHE7V5GBHSlUfLd"
       },
       "artists": [
         {
           "name": "Joe Bonamassa",
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 249360,
-      "name": "Questions And Answers",
-      "url": "https://open.spotify.com/track/2eOsgM5TJlW68D6W8OGnp9"
-    },
-    {
-      "added_at": "2022-10-09 13:30:31",
-      "album": {
-        "name": "Blues Of Desperation",
-        "url": "https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h"
-      },
-      "artists": [
+        },
         {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 243733,
-      "name": "The Valley Runs Low",
-      "url": "https://open.spotify.com/track/5NvVaWVoHEUKe2Sau3iLdT"
+      "duration_ms": 344853,
+      "name": "Further On Up the Road - Live",
+      "url": "https://open.spotify.com/track/0k3b8cI0Q6Q1ZkG1XlWdGg"
     },
     {
-      "added_at": "2022-10-09 13:30:31",
-      "album": {
-        "name": "Live at the Greek Theatre",
-        "url": "https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 374846,
-      "name": "I'll Play The Blues For You (Live)",
-      "url": "https://open.spotify.com/track/0lJijPdJCSe8clUhV0zEmB"
-    },
-    {
-      "added_at": "2022-10-09 13:30:31",
-      "album": {
-        "name": "Royal Tea",
-        "url": "https://open.spotify.com/album/1i8hO7RSXJ4FOumcLoDyN2"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 276309,
-      "name": "Savannah",
-      "url": "https://open.spotify.com/track/2gt07hYrmx6hnmxg1zwaT4"
-    },
-    {
-      "added_at": "2022-10-09 13:30:31",
-      "album": {
-        "name": "Time Clocks",
-        "url": "https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 257160,
-      "name": "Hanging On A Loser",
-      "url": "https://open.spotify.com/track/6B4KDiLeMu7RveS2W3IOWI"
-    },
-    {
-      "added_at": "2022-10-09 13:30:31",
+      "added_at": "2022-11-25 14:27:13",
       "album": {
         "name": "Blues Of Desperation",
         "url": "https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h"
@@ -196,12 +168,12 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 333333,
-      "name": "What I've Known For A Very Long Time",
-      "url": "https://open.spotify.com/track/5OtNvAmyUC2DtP4ZSRBD2R"
+      "duration_ms": 343906,
+      "name": "Mountain Climbing",
+      "url": "https://open.spotify.com/track/3QdefKbNfifFnCwlpLtQcG"
     },
     {
-      "added_at": "2022-10-09 13:30:31",
+      "added_at": "2022-11-25 14:27:13",
       "album": {
         "name": "The Ballad of John Henry",
         "url": "https://open.spotify.com/album/0H8c4DhrLk4mtFaiYt43GN"
@@ -217,7 +189,295 @@
       "url": "https://open.spotify.com/track/3WFfqRoJhJeHIZzKdW5xXZ"
     },
     {
-      "added_at": "2022-10-09 13:30:31",
+      "added_at": "2022-11-25 14:27:13",
+      "album": {
+        "name": "Time Clocks",
+        "url": "https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 351253,
+      "name": "The Heart That Never Waits",
+      "url": "https://open.spotify.com/track/4sb2JUFkGwT9jfzM7lcQBI"
+    },
+    {
+      "added_at": "2022-11-25 14:27:13",
+      "album": {
+        "name": "Had to Cry Today",
+        "url": "https://open.spotify.com/album/4NS1YYttwG5mtWQCdpbvjV"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 411960,
+      "name": "Reconsider Baby",
+      "url": "https://open.spotify.com/track/46tOHo9SThlggrU2MiijEC"
+    },
+    {
+      "added_at": "2022-11-25 14:27:13",
+      "album": {
+        "name": "Blues Of Desperation",
+        "url": "https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 243733,
+      "name": "The Valley Runs Low",
+      "url": "https://open.spotify.com/track/5NvVaWVoHEUKe2Sau3iLdT"
+    },
+    {
+      "added_at": "2022-11-25 14:27:13",
+      "album": {
+        "name": "Dust Bowl",
+        "url": "https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 254133,
+      "name": "Black Lung Heartache",
+      "url": "https://open.spotify.com/track/4WPB8sqL2RayXfI9mcz0WM"
+    },
+    {
+      "added_at": "2022-11-25 14:27:13",
+      "album": {
+        "name": "Time Clocks",
+        "url": "https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 55186,
+      "name": "Pilgrimage",
+      "url": "https://open.spotify.com/track/0SN7oedJQF4Lisqp61Qt5c"
+    },
+    {
+      "added_at": "2022-11-25 14:27:13",
+      "album": {
+        "name": "Road To Redemption",
+        "url": "https://open.spotify.com/album/4gj1UOa3iiULaU85YcdYTJ"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 282000,
+      "name": "Stronger Now In Broken Places (Band Version)",
+      "url": "https://open.spotify.com/track/1PaRTBGZ8tfV1lO23kBskt"
+    },
+    {
+      "added_at": "2022-11-25 14:27:13",
+      "album": {
+        "name": "We're All In This Together",
+        "url": "https://open.spotify.com/album/2bJmqY2kvocUFcDa1tEaDw"
+      },
+      "artists": [
+        {
+          "name": "Walter Trout",
+          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 477173,
+      "name": "We're All In This Together",
+      "url": "https://open.spotify.com/track/2FIoA2HXo95j29Do5jg9jq"
+    },
+    {
+      "added_at": "2022-11-25 14:27:13",
+      "album": {
+        "name": "Live at the Greek Theatre",
+        "url": "https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 374846,
+      "name": "I'll Play The Blues For You (Live)",
+      "url": "https://open.spotify.com/track/0lJijPdJCSe8clUhV0zEmB"
+    },
+    {
+      "added_at": "2022-11-25 14:27:13",
+      "album": {
+        "name": "Time Clocks",
+        "url": "https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 249360,
+      "name": "Questions And Answers",
+      "url": "https://open.spotify.com/track/2eOsgM5TJlW68D6W8OGnp9"
+    },
+    {
+      "added_at": "2022-11-25 14:27:13",
+      "album": {
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 259226,
+      "name": "I Want My Crown",
+      "url": "https://open.spotify.com/track/2in7I4NcwamHLIEMh4V8o5"
+    },
+    {
+      "added_at": "2022-11-25 14:27:13",
+      "album": {
+        "name": "Blues From The Heart Live (Live)",
+        "url": "https://open.spotify.com/album/3HhP20GmF6tYJWAkbc1Dvp"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 349573,
+      "name": "Summertime (Live)",
+      "url": "https://open.spotify.com/track/2kBpoD0of0GlqHcnlqp5JE"
+    },
+    {
+      "added_at": "2022-11-25 14:27:13",
+      "album": {
+        "name": "Road To Redemption",
+        "url": "https://open.spotify.com/album/4gj1UOa3iiULaU85YcdYTJ"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 317740,
+      "name": "Somewhere Down The Road",
+      "url": "https://open.spotify.com/track/7iXlT2Zy74M7SfbOJH5Sgm"
+    },
+    {
+      "added_at": "2022-11-25 14:27:13",
+      "album": {
+        "name": "Different Shades of Blue",
+        "url": "https://open.spotify.com/album/5WWZEwutrC1lNobBicaTrV"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 279226,
+      "name": "Different Shades of Blue",
+      "url": "https://open.spotify.com/track/7yeTSrPYItz4RqMKvkB2lW"
+    },
+    {
+      "added_at": "2022-11-25 14:27:13",
+      "album": {
+        "name": "Dust Bowl",
+        "url": "https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 409720,
+      "name": "Slow Train",
+      "url": "https://open.spotify.com/track/1I32D5O8mjfQEglezN4bY0"
+    },
+    {
+      "added_at": "2022-11-25 14:27:13",
+      "album": {
+        "name": "Time Clocks",
+        "url": "https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 408306,
+      "name": "Known Unknowns",
+      "url": "https://open.spotify.com/track/08ftxnSH1Z4xdZyxmlsOml"
+    },
+    {
+      "added_at": "2022-11-25 14:27:13",
+      "album": {
+        "name": "Road To Redemption",
+        "url": "https://open.spotify.com/album/4gj1UOa3iiULaU85YcdYTJ"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        },
+        {
+          "name": "Jamey Johnson",
+          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
+        }
+      ],
+      "duration_ms": 324093,
+      "name": "The Ghost Of Macon Jones",
+      "url": "https://open.spotify.com/track/1Js7KQKwCxn8ecdYVP5bty"
+    },
+    {
+      "added_at": "2022-11-25 14:27:13",
+      "album": {
+        "name": "Blues Deluxe",
+        "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 215026,
+      "name": "You Upset Me Baby",
+      "url": "https://open.spotify.com/track/47UTDQeXdd6JkDCwF9vxWU"
+    },
+    {
+      "added_at": "2022-11-25 14:27:13",
       "album": {
         "name": "Hindsight",
         "url": "https://open.spotify.com/album/3fxrONvogsCFsJJHDxvm0j"
@@ -241,7 +501,7 @@
       "url": "https://open.spotify.com/track/3u0XGkluU4XVZkhfBP5gbW"
     },
     {
-      "added_at": "2022-10-09 13:30:31",
+      "added_at": "2022-11-25 14:27:13",
       "album": {
         "name": "Time Clocks",
         "url": "https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD"
@@ -252,12 +512,144 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 408306,
-      "name": "Known Unknowns",
-      "url": "https://open.spotify.com/track/08ftxnSH1Z4xdZyxmlsOml"
+      "duration_ms": 257160,
+      "name": "Hanging On A Loser",
+      "url": "https://open.spotify.com/track/6B4KDiLeMu7RveS2W3IOWI"
     },
     {
-      "added_at": "2022-10-09 13:30:31",
+      "added_at": "2022-11-25 14:27:13",
+      "album": {
+        "name": "Road To Redemption",
+        "url": "https://open.spotify.com/album/4gj1UOa3iiULaU85YcdYTJ"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 285760,
+      "name": "Deep In The Blues Again",
+      "url": "https://open.spotify.com/track/2gOPFc3j1e8AOCw8ieDj5R"
+    },
+    {
+      "added_at": "2022-11-25 14:27:13",
+      "album": {
+        "name": "Black Country Communion 2",
+        "url": "https://open.spotify.com/album/6F5WxD9Ld5ZgVA9JDQ4RAM"
+      },
+      "artists": [
+        {
+          "name": "Black Country Communion",
+          "url": "https://open.spotify.com/artist/7by60V2ChbeiVhwXK5Jk6l"
+        },
+        {
+          "name": "Derek Sherinian",
+          "url": "https://open.spotify.com/artist/4ZCINPmMmZUh4H1qNqzIxq"
+        },
+        {
+          "name": "Glenn Hughes",
+          "url": "https://open.spotify.com/artist/50FDiYHYqGJkaCuK4JhAYw"
+        },
+        {
+          "name": "Jason Bonham",
+          "url": "https://open.spotify.com/artist/5T6YKEZhM6rVwCEm5PLKL8"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 415360,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/77UCjH91weMHQBTqeHV6Gs"
+    },
+    {
+      "added_at": "2022-11-25 14:27:13",
+      "album": {
+        "name": "Walk In My Shadow (Live)",
+        "url": "https://open.spotify.com/album/3c92mQu8Q4IqtrW7qxatLT"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 269360,
+      "name": "Walk In My Shadow - Live",
+      "url": "https://open.spotify.com/track/79Xp4e2RCN5LAwZzQFNFL3"
+    },
+    {
+      "added_at": "2022-11-25 14:27:13",
+      "album": {
+        "name": "Redemption",
+        "url": "https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 262026,
+      "name": "King Bee Shakedown",
+      "url": "https://open.spotify.com/track/0BCVkygu0IIKP864Y8A8Gv"
+    },
+    {
+      "added_at": "2022-11-25 14:27:13",
+      "album": {
+        "name": "Road To Redemption",
+        "url": "https://open.spotify.com/album/4gj1UOa3iiULaU85YcdYTJ"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 366253,
+      "name": "Molly O'",
+      "url": "https://open.spotify.com/track/0ExwFnQ2XcaUw6buImFuLV"
+    },
+    {
+      "added_at": "2022-11-25 14:27:13",
+      "album": {
+        "name": "Dust Bowl",
+        "url": "https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        },
+        {
+          "name": "John Hiatt",
+          "url": "https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV"
+        }
+      ],
+      "duration_ms": 258786,
+      "name": "Tennessee Plates",
+      "url": "https://open.spotify.com/track/7IqgzG3pELbSdoIAInTI19"
+    },
+    {
+      "added_at": "2022-11-25 14:27:13",
+      "album": {
+        "name": "Sloe Gin",
+        "url": "https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 189120,
+      "name": "Another Kind of Love",
+      "url": "https://open.spotify.com/track/1L8EJN5H9QD52zMtlrUce0"
+    },
+    {
+      "added_at": "2022-11-25 14:27:13",
       "album": {
         "name": "Blues Of Desperation",
         "url": "https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h"
@@ -268,15 +660,43 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 343906,
-      "name": "Mountain Climbing",
-      "url": "https://open.spotify.com/track/3QdefKbNfifFnCwlpLtQcG"
+      "duration_ms": 333333,
+      "name": "What I've Known For A Very Long Time",
+      "url": "https://open.spotify.com/track/5OtNvAmyUC2DtP4ZSRBD2R"
     },
     {
-      "added_at": "2022-10-09 13:30:31",
+      "added_at": "2022-11-25 14:27:13",
       "album": {
-        "name": "Dust Bowl",
-        "url": "https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM"
+        "name": "From the New World",
+        "url": "https://open.spotify.com/album/0ySYs5Q9ATYf72SvoNGULZ"
+      },
+      "artists": [
+        {
+          "name": "Alan Parsons",
+          "url": "https://open.spotify.com/artist/6HpZkC8GUktP9utE6OPWZG"
+        },
+        {
+          "name": "David Pack",
+          "url": "https://open.spotify.com/artist/22iNiLtvlzsvUw9KDiROnl"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        },
+        {
+          "name": "Mike Larson",
+          "url": "https://open.spotify.com/artist/6mrMrYWO8ZfWiry8Obud1l"
+        }
+      ],
+      "duration_ms": 280559,
+      "name": "I Won't Be Led Astray",
+      "url": "https://open.spotify.com/track/4dhiXdTmpDy5gDaFElnUrv"
+    },
+    {
+      "added_at": "2022-11-25 14:27:13",
+      "album": {
+        "name": "Redemption",
+        "url": "https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ"
       },
       "artists": [
         {
@@ -284,12 +704,80 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 273040,
-      "name": "Dust Bowl",
-      "url": "https://open.spotify.com/track/1i7QbG73o4liXhmbtaT7Z3"
+      "duration_ms": 395946,
+      "name": "Self-Inflicted Wounds",
+      "url": "https://open.spotify.com/track/0r61QhigETeOXpl03u1nSV"
     },
     {
-      "added_at": "2022-10-09 13:30:31",
+      "added_at": "2022-11-25 14:27:13",
+      "album": {
+        "name": "Cradle Rock",
+        "url": "https://open.spotify.com/album/6Y2mu4qftaYr1ETmK50BJA"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 230026,
+      "name": "Cradle Rock",
+      "url": "https://open.spotify.com/track/0OVWOIMbfPWn2aVEzTclkN"
+    },
+    {
+      "added_at": "2022-11-25 14:27:13",
+      "album": {
+        "name": "Live at the Greek Theatre",
+        "url": "https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 345270,
+      "name": "Let The Good Times Roll (Live)",
+      "url": "https://open.spotify.com/track/1tigPIbzGhosv1yiXe8xcy"
+    },
+    {
+      "added_at": "2022-11-25 14:27:13",
+      "album": {
+        "name": "Nobody's Fool",
+        "url": "https://open.spotify.com/album/2TVQmqbf3TmucBYkl9pfg6"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 294200,
+      "name": "Won't Be Fooled Again",
+      "url": "https://open.spotify.com/track/21upjYqZ5PlQa7fcEiQe5Z"
+    },
+    {
+      "added_at": "2022-11-25 14:27:13",
+      "album": {
+        "name": "Redemption",
+        "url": "https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 400240,
+      "name": "Just 'Cos You Can Don't Mean You Should",
+      "url": "https://open.spotify.com/track/2NqFYXn1io5bJuQYok0xin"
+    },
+    {
+      "added_at": "2022-11-25 14:27:13",
       "album": {
         "name": "Dirty Grease",
         "url": "https://open.spotify.com/album/2uJDg09aX2m6hZznK6KTyd"
@@ -317,103 +805,7 @@
       "url": "https://open.spotify.com/track/1EDqhqTWnZ9Ch9cL5pRGvF"
     },
     {
-      "added_at": "2022-10-09 13:30:31",
-      "album": {
-        "name": "You & Me",
-        "url": "https://open.spotify.com/album/4kel2Yi8IWl4Ur5LEWAQqv"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 425853,
-      "name": "So Many Roads",
-      "url": "https://open.spotify.com/track/4rsRYhm78huEfclb5NW5Ps"
-    },
-    {
-      "added_at": "2022-10-09 13:30:31",
-      "album": {
-        "name": "Now Serving: Royal Tea Live From The Ryman",
-        "url": "https://open.spotify.com/album/1At9QeiTNZXMtD3WKJldg9"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 434360,
-      "name": "Beyond The Silence - Live",
-      "url": "https://open.spotify.com/track/0eanKKNuZ7maqjNstIUqQX"
-    },
-    {
-      "added_at": "2022-10-09 13:30:31",
-      "album": {
-        "name": "Had to Cry Today",
-        "url": "https://open.spotify.com/album/4NS1YYttwG5mtWQCdpbvjV"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 411960,
-      "name": "Reconsider Baby",
-      "url": "https://open.spotify.com/track/46tOHo9SThlggrU2MiijEC"
-    },
-    {
-      "added_at": "2022-10-09 13:30:31",
-      "album": {
-        "name": "Different Shades of Blue",
-        "url": "https://open.spotify.com/album/5WWZEwutrC1lNobBicaTrV"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 279226,
-      "name": "Different Shades of Blue",
-      "url": "https://open.spotify.com/track/7yeTSrPYItz4RqMKvkB2lW"
-    },
-    {
-      "added_at": "2022-10-09 13:30:31",
-      "album": {
-        "name": "Redemption",
-        "url": "https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 395946,
-      "name": "Self-Inflicted Wounds",
-      "url": "https://open.spotify.com/track/0r61QhigETeOXpl03u1nSV"
-    },
-    {
-      "added_at": "2022-10-09 13:30:31",
-      "album": {
-        "name": "Time Clocks",
-        "url": "https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 351253,
-      "name": "The Heart That Never Waits",
-      "url": "https://open.spotify.com/track/4sb2JUFkGwT9jfzM7lcQBI"
-    },
-    {
-      "added_at": "2022-10-09 13:30:31",
+      "added_at": "2022-11-25 14:27:13",
       "album": {
         "name": "Royal Tea",
         "url": "https://open.spotify.com/album/1i8hO7RSXJ4FOumcLoDyN2"
@@ -429,351 +821,7 @@
       "url": "https://open.spotify.com/track/12mxhoIT5lU3o4NNAqSu3f"
     },
     {
-      "added_at": "2022-10-09 13:30:31",
-      "album": {
-        "name": "Joe Bonamassa Live from the Royal Albert Hall",
-        "url": "https://open.spotify.com/album/4SHZaB8QHE7V5GBHSlUfLd"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        },
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 344853,
-      "name": "Further On Up the Road - Live",
-      "url": "https://open.spotify.com/track/0k3b8cI0Q6Q1ZkG1XlWdGg"
-    },
-    {
-      "added_at": "2022-10-09 13:30:31",
-      "album": {
-        "name": "Redemption",
-        "url": "https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 262026,
-      "name": "King Bee Shakedown",
-      "url": "https://open.spotify.com/track/0BCVkygu0IIKP864Y8A8Gv"
-    },
-    {
-      "added_at": "2022-10-09 13:30:31",
-      "album": {
-        "name": "We're All In This Together",
-        "url": "https://open.spotify.com/album/2bJmqY2kvocUFcDa1tEaDw"
-      },
-      "artists": [
-        {
-          "name": "Walter Trout",
-          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 477173,
-      "name": "We're All In This Together",
-      "url": "https://open.spotify.com/track/2FIoA2HXo95j29Do5jg9jq"
-    },
-    {
-      "added_at": "2022-10-09 13:30:31",
-      "album": {
-        "name": "The Ballad of John Henry",
-        "url": "https://open.spotify.com/album/0H8c4DhrLk4mtFaiYt43GN"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 386520,
-      "name": "The Ballad of John Henry",
-      "url": "https://open.spotify.com/track/1jIerjgmmIjYoiRaf0DaM0"
-    },
-    {
-      "added_at": "2022-10-09 13:30:31",
-      "album": {
-        "name": "Easy To Buy, Hard To Sell",
-        "url": "https://open.spotify.com/album/4cXGtJDtaqZwMgsmlSeklF"
-      },
-      "artists": [
-        {
-          "name": "The Sleep Eazys",
-          "url": "https://open.spotify.com/artist/0YOfaMnBdhgZYpD0X2wwo9"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 196146,
-      "name": "Ace Of Spades",
-      "url": "https://open.spotify.com/track/5MmG5hbnnNp87pS7xTtDct"
-    },
-    {
-      "added_at": "2022-10-09 13:30:31",
-      "album": {
-        "name": "Redemption",
-        "url": "https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        },
-        {
-          "name": "Jamey Johnson",
-          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
-        }
-      ],
-      "duration_ms": 324093,
-      "name": "The Ghost Of Macon Jones",
-      "url": "https://open.spotify.com/track/6kqPxNCsODUHqipFNYYNZL"
-    },
-    {
-      "added_at": "2022-10-09 13:30:31",
-      "album": {
-        "name": "Live at the Greek Theatre",
-        "url": "https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 345270,
-      "name": "Let The Good Times Roll (Live)",
-      "url": "https://open.spotify.com/track/1tigPIbzGhosv1yiXe8xcy"
-    },
-    {
-      "added_at": "2022-10-09 13:30:31",
-      "album": {
-        "name": "British Blues Explosion Live",
-        "url": "https://open.spotify.com/album/6wQ0Qd9cQZvOYE4Fn1OIZc"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 421219,
-      "name": "Mainline Florida - Live",
-      "url": "https://open.spotify.com/track/0NRX4unLHXXFrZtFfSmHu6"
-    },
-    {
-      "added_at": "2022-10-09 13:30:31",
-      "album": {
-        "name": "Different Shades of Blue",
-        "url": "https://open.spotify.com/album/5WWZEwutrC1lNobBicaTrV"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 228520,
-      "name": "Love Ain't a Love Song",
-      "url": "https://open.spotify.com/track/6U7s8WTYhJgCQuaS1RYgL2"
-    },
-    {
-      "added_at": "2022-10-09 13:30:31",
-      "album": {
-        "name": "Redemption",
-        "url": "https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 400240,
-      "name": "Just 'Cos You Can Don't Mean You Should",
-      "url": "https://open.spotify.com/track/2NqFYXn1io5bJuQYok0xin"
-    },
-    {
-      "added_at": "2022-10-09 13:30:31",
-      "album": {
-        "name": "This Train (Live)",
-        "url": "https://open.spotify.com/album/4mjY6VfFAXgbvw95PaSu8b"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 504893,
-      "name": "This Train - Live",
-      "url": "https://open.spotify.com/track/3TfM4iSLcv9f7mhp0GM1Yp"
-    },
-    {
-      "added_at": "2022-10-09 13:30:31",
-      "album": {
-        "name": "Time Clocks",
-        "url": "https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 423666,
-      "name": "Notches",
-      "url": "https://open.spotify.com/track/37OvIUoTAlKsuO3nTGSLSf"
-    },
-    {
-      "added_at": "2022-10-09 13:30:31",
-      "album": {
-        "name": "Live at the Greek Theatre",
-        "url": "https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 373125,
-      "name": "Going Down (Live)",
-      "url": "https://open.spotify.com/track/46aW1XoxfDLztY4mSdLyGs"
-    },
-    {
-      "added_at": "2022-10-09 13:30:31",
-      "album": {
-        "name": "Redemption",
-        "url": "https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 329266,
-      "name": "Evil Mama",
-      "url": "https://open.spotify.com/track/2UCiflrlPIgcCKj3vVP0VF"
-    },
-    {
-      "added_at": "2022-10-09 13:30:31",
-      "album": {
-        "name": "Dust Bowl",
-        "url": "https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        },
-        {
-          "name": "John Hiatt",
-          "url": "https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV"
-        }
-      ],
-      "duration_ms": 258786,
-      "name": "Tennessee Plates",
-      "url": "https://open.spotify.com/track/7IqgzG3pELbSdoIAInTI19"
-    },
-    {
-      "added_at": "2022-10-09 13:30:31",
-      "album": {
-        "name": "British Blues Explosion Live",
-        "url": "https://open.spotify.com/album/6wQ0Qd9cQZvOYE4Fn1OIZc"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 257224,
-      "name": "Boogie With Stu - Live",
-      "url": "https://open.spotify.com/track/168hcGYzhikucSpy8LLTiV"
-    },
-    {
-      "added_at": "2022-10-09 13:30:31",
-      "album": {
-        "name": "Walk In My Shadow (Live)",
-        "url": "https://open.spotify.com/album/3c92mQu8Q4IqtrW7qxatLT"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 269360,
-      "name": "Walk In My Shadow - Live",
-      "url": "https://open.spotify.com/track/79Xp4e2RCN5LAwZzQFNFL3"
-    },
-    {
-      "added_at": "2022-10-09 13:30:31",
-      "album": {
-        "name": "Redemption",
-        "url": "https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 357093,
-      "name": "Redemption",
-      "url": "https://open.spotify.com/track/0Q8IxQDgQ1Yyz7rBP8dUHg"
-    },
-    {
-      "added_at": "2022-10-09 13:30:31",
-      "album": {
-        "name": "Dust Bowl",
-        "url": "https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 409720,
-      "name": "Slow Train",
-      "url": "https://open.spotify.com/track/1I32D5O8mjfQEglezN4bY0"
-    },
-    {
-      "added_at": "2022-10-09 13:30:31",
-      "album": {
-        "name": "Don't Explain",
-        "url": "https://open.spotify.com/album/01wNKNEpY0svUkPYOlKmzs"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        },
-        {
-          "name": "Beth Hart",
-          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
-        }
-      ],
-      "duration_ms": 486773,
-      "name": "I'd Rather Go Blind",
-      "url": "https://open.spotify.com/track/0tcJCqyRnUu2gEmt9iLcTO"
-    },
-    {
-      "added_at": "2022-10-09 13:30:31",
+      "added_at": "2022-11-25 14:27:13",
       "album": {
         "name": "Blues Of Desperation",
         "url": "https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h"
@@ -789,30 +837,26 @@
       "url": "https://open.spotify.com/track/1N1dVl208WmkZJ1MtLkBc3"
     },
     {
-      "added_at": "2022-10-09 13:30:31",
+      "added_at": "2022-11-25 14:27:13",
       "album": {
-        "name": "Crown",
-        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
+        "name": "Redemption",
+        "url": "https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ"
       },
       "artists": [
-        {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
-        },
         {
           "name": "Joe Bonamassa",
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 259226,
-      "name": "I Want My Crown",
-      "url": "https://open.spotify.com/track/2in7I4NcwamHLIEMh4V8o5"
+      "duration_ms": 357093,
+      "name": "Redemption",
+      "url": "https://open.spotify.com/track/0Q8IxQDgQ1Yyz7rBP8dUHg"
     },
     {
-      "added_at": "2022-10-09 13:30:31",
+      "added_at": "2022-11-25 14:27:13",
       "album": {
-        "name": "Cradle Rock",
-        "url": "https://open.spotify.com/album/6Y2mu4qftaYr1ETmK50BJA"
+        "name": "The Ballad of John Henry",
+        "url": "https://open.spotify.com/album/0H8c4DhrLk4mtFaiYt43GN"
       },
       "artists": [
         {
@@ -820,49 +864,25 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 230026,
-      "name": "Cradle Rock",
-      "url": "https://open.spotify.com/track/0OVWOIMbfPWn2aVEzTclkN"
+      "duration_ms": 386520,
+      "name": "The Ballad of John Henry",
+      "url": "https://open.spotify.com/track/1jIerjgmmIjYoiRaf0DaM0"
     },
     {
-      "added_at": "2022-10-09 13:30:31",
+      "added_at": "2022-11-25 14:27:13",
       "album": {
-        "name": "Take It Back",
-        "url": "https://open.spotify.com/album/0gM5G6j0lWaxk1GOv0nfbL"
+        "name": "Blues Deluxe",
+        "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
       },
       "artists": [
-        {
-          "name": "Dion",
-          "url": "https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W"
-        },
         {
           "name": "Joe Bonamassa",
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 335226,
-      "name": "Take It Back",
-      "url": "https://open.spotify.com/track/0EBCSoTMmj0Gf0aOkZ6Hx1"
-    },
-    {
-      "added_at": "2022-10-09 13:30:31",
-      "album": {
-        "name": "Don't Explain",
-        "url": "https://open.spotify.com/album/01wNKNEpY0svUkPYOlKmzs"
-      },
-      "artists": [
-        {
-          "name": "Beth Hart",
-          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 313093,
-      "name": "I'll Take Care Of You",
-      "url": "https://open.spotify.com/track/4T7n1ZajPPQCuvX4yby9Pt"
+      "duration_ms": 232933,
+      "name": "Long Distance Blues",
+      "url": "https://open.spotify.com/track/1GUmP2TjLWuXoegwnrPYsg"
     }
   ],
   "unique_name": "This Is Joe Bonamassa",

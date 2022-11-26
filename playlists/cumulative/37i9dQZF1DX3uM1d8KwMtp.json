@@ -9,6 +9,24 @@
     {
       "album": {
         "name": "Aguacero",
+        "url": "https://open.spotify.com/album/41Vp1IJHY3bHf6YS1Lc6gF"
+      },
+      "artists": [
+        {
+          "name": "Sebjak",
+          "url": "https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402545,
+      "name": "Aguacero",
+      "url": "https://open.spotify.com/track/0KCXPIaGPL1du07EW1MPVU"
+    },
+    {
+      "album": {
+        "name": "Aguacero",
         "url": "https://open.spotify.com/album/4hTAp0JOofvwTrfwmWLSVD"
       },
       "artists": [
@@ -19,10 +37,28 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 402545,
       "name": "Aguacero",
       "url": "https://open.spotify.com/track/3WZIbQjUkhGXVjWqPjMNvs"
+    },
+    {
+      "album": {
+        "name": "Algerian Resurrection",
+        "url": "https://open.spotify.com/album/3ZjvsoFEJSX0wKoqvf18M3"
+      },
+      "artists": [
+        {
+          "name": "K\u00d6NI",
+          "url": "https://open.spotify.com/artist/3wGOQXqAdsWkgf3PtuRY6Q"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345032,
+      "name": "Algerian Resurrection",
+      "url": "https://open.spotify.com/track/3trqXz0dgBUORXtrwYTUtU"
     },
     {
       "album": {
@@ -37,7 +73,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 257777,
       "name": "Anatolia",
       "url": "https://open.spotify.com/track/3rAXhCYxW5UIwPYmGGiHl7"
@@ -223,10 +259,32 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 492750,
       "name": "Buya",
       "url": "https://open.spotify.com/track/5yXoXL2SrjM0XjFyGWPVkY"
+    },
+    {
+      "album": {
+        "name": "Canario (Incl. Mollono.Bass Remix)",
+        "url": "https://open.spotify.com/album/0Q2MQry6VfhtmNBKoyYvYv"
+      },
+      "artists": [
+        {
+          "name": "Iman Hanzo",
+          "url": "https://open.spotify.com/artist/5ayIaDgQlMl8YcCdY70zRr"
+        },
+        {
+          "name": "PAAX (Tulum)",
+          "url": "https://open.spotify.com/artist/44f1ZKVW8Zh13oCOGGTiFd"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387271,
+      "name": "Canario - PAAX (Tulum) Remix",
+      "url": "https://open.spotify.com/track/6Ragp4iHxvYs6RvqCusJr0"
     },
     {
       "album": {
@@ -340,6 +398,50 @@
     },
     {
       "album": {
+        "name": "Feeling Good",
+        "url": "https://open.spotify.com/album/2ONyrF5at73dk9Dbb8AD30"
+      },
+      "artists": [
+        {
+          "name": "Simone Vitullo",
+          "url": "https://open.spotify.com/artist/2DmIxLxqj5Pu1QcZxuMZOQ"
+        },
+        {
+          "name": "Liva K",
+          "url": "https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj"
+        },
+        {
+          "name": "Brigitte Wickens",
+          "url": "https://open.spotify.com/artist/7MlbbUSbXf3BDOSyFCOOeO"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415399,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/4wqtlpo7xtEmuY3zJjR2EE"
+    },
+    {
+      "album": {
+        "name": "Force",
+        "url": "https://open.spotify.com/album/1MpLubxJBJNRaFAjahk9Hj"
+      },
+      "artists": [
+        {
+          "name": "Laolu",
+          "url": "https://open.spotify.com/artist/53PSeUFq8tMZc0zdd1oUTG"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 454338,
+      "name": "Force",
+      "url": "https://open.spotify.com/track/35bOzO8Az5C9xsAgUjr0Bq"
+    },
+    {
+      "album": {
         "name": "Force EP",
         "url": "https://open.spotify.com/album/3Vj7hxsIOeERxTr7lroS5P"
       },
@@ -351,7 +453,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 454338,
       "name": "Force",
       "url": "https://open.spotify.com/track/3y2b7uFFbUgtTFeh4TKHAp"
@@ -395,10 +497,32 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 436857,
       "name": "Gamora",
       "url": "https://open.spotify.com/track/3urFlzQr5f0jlGMGt84m76"
+    },
+    {
+      "album": {
+        "name": "How Can I Resist",
+        "url": "https://open.spotify.com/album/4cL2WyIcSwWgRlQxrXDN2M"
+      },
+      "artists": [
+        {
+          "name": "Parallelle",
+          "url": "https://open.spotify.com/artist/4j2NOrZwtpyVrtrCXsKsag"
+        },
+        {
+          "name": "Fulltone",
+          "url": "https://open.spotify.com/artist/56SDkyON4gWd6NmWoWx8HT"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388480,
+      "name": "How Can I Resist",
+      "url": "https://open.spotify.com/track/0YnPozuKonupUAmhWinO88"
     },
     {
       "album": {
@@ -417,10 +541,50 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 388480,
       "name": "How Can I Resist",
       "url": "https://open.spotify.com/track/54w3b8DMRcWWXSbnckLQq9"
+    },
+    {
+      "album": {
+        "name": "A Tribe Called Kotori - Chapter 5",
+        "url": "https://open.spotify.com/album/6BVNNQgMkZYJj2rmjY2h8j"
+      },
+      "artists": [
+        {
+          "name": "Parallelle",
+          "url": "https://open.spotify.com/artist/0vUlarTf6Zl87ewxRbFd9f"
+        },
+        {
+          "name": "Fulltone",
+          "url": "https://open.spotify.com/artist/56SDkyON4gWd6NmWoWx8HT"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 388480,
+      "name": "How Can I Resist",
+      "url": "https://open.spotify.com/track/6waLNdhjDDz8GtmcEJ7JXC"
+    },
+    {
+      "album": {
+        "name": "Initio",
+        "url": "https://open.spotify.com/album/57LVfnJPGPKINK5Ub19OkC"
+      },
+      "artists": [
+        {
+          "name": "Yarkin Bora",
+          "url": "https://open.spotify.com/artist/2Yj7cRMoeqgjxRmTek9AVm"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324000,
+      "name": "Initio",
+      "url": "https://open.spotify.com/track/0NfTsHY1lwjMrtVnT6rf6W"
     },
     {
       "album": {
@@ -842,6 +1006,24 @@
     },
     {
       "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/6HMZO1TTb8HuJE61QP0MPz"
+      },
+      "artists": [
+        {
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420025,
+      "name": "Rumor",
+      "url": "https://open.spotify.com/track/0IyZ6gCFUyGs3zP2ItaTo1"
+    },
+    {
+      "album": {
         "name": "Sete",
         "url": "https://open.spotify.com/album/2dUSIzfLEgYB3QJB2Vt8j3"
       },
@@ -949,6 +1131,28 @@
       "duration_ms": 395172,
       "name": "Suton",
       "url": "https://open.spotify.com/track/6eq7V6zHwnHlRvjbWVA5nJ"
+    },
+    {
+      "album": {
+        "name": "Tango Bar",
+        "url": "https://open.spotify.com/album/4twfkJpB5oUWVBix59JVu7"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Suarez",
+          "url": "https://open.spotify.com/artist/6zfwxQQjoCU9uSsrwckyZv"
+        },
+        {
+          "name": "Mr Doxx",
+          "url": "https://open.spotify.com/artist/5Hi7p9BIFa2GlpcGL5tfaB"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438000,
+      "name": "Tango Bar - Alvaro Suarez Remix",
+      "url": "https://open.spotify.com/track/5t93cE5V3JELqsgXeBVoKG"
     },
     {
       "album": {
@@ -1263,7 +1467,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 363934,
       "name": "Yeke Yeke",
       "url": "https://open.spotify.com/track/7LjswiwJTEq6wXKqf8Yb05"

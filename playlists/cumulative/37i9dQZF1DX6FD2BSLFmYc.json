@@ -1224,6 +1224,24 @@
     },
     {
       "album": {
+        "name": "When It Hurts to Remember",
+        "url": "https://open.spotify.com/album/3iRimtEPIXz546GBx63UjC"
+      },
+      "artists": [
+        {
+          "name": "Hammock",
+          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 376560,
+      "name": "When It Hurts to Remember",
+      "url": "https://open.spotify.com/track/39osKLgN4yyiIyi1YfY8ND"
+    },
+    {
+      "album": {
         "name": "Silencia",
         "url": "https://open.spotify.com/album/66DqsCid51MqdyOwBfoMEY"
       },

@@ -4,7 +4,7 @@
 
 > Queens everywhere \- givin' us life.<br/>Cover: Bimini
 
-115 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/5qqRE5zC7pUBy84hiALZqW)
+117 songs - 6 hr 44 min - [published](https://open.spotify.com/playlist/5qqRE5zC7pUBy84hiALZqW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Call My Life](https://open.spotify.com/track/6fRRELKMM9JiDnoKXiMCrD) | [Blair St\. Clair](https://open.spotify.com/artist/5l1BwcEGGLpX6Y9668D8sd) | [Call My Life](https://open.spotify.com/album/4mMrsBt6CuQ9DC4uR6XdY7) | 4:06 | 2022-03-10 |  |
 | [Champion \(Ru X Blu\)](https://open.spotify.com/track/3Hi69uRksd7Z2YQ9dEGDJP) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe), [Blu Hydrangea](https://open.spotify.com/artist/0oYqfQLQ6DfSaJvjobEps0) | [Champion \(Ru X Blu\)](https://open.spotify.com/album/1NeBhG3TwAJ1YYk0bAT6pQ) | 2:58 | 2022-03-10 |  |
 | [Come to Brazil](https://open.spotify.com/track/1CkBfWPth8AjUSFtQJ9YBL) | [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy) | [Poundcake](https://open.spotify.com/album/1Mn1fFikJf1a6IP3J47CTW) | 3:40 | 2021-06-29 | 2022-07-29 |
+| [Come to Brazil](https://open.spotify.com/track/54XWyyc1drVkWbutLQz0E1) | [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy) | [Come to Brazil](https://open.spotify.com/album/5EgTY77zKOhEBEU5E35oSB) | 3:40 | 2022-09-22 | 2022-11-13 |
 | [Come to Brazil](https://open.spotify.com/track/6G8QdI1lsjJMmkSool0b6f) | [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy) | [Poundcake](https://open.spotify.com/album/4VNYGvaBPvx024om7sg8x2) | 3:40 | 2022-03-10 |  |
 | [Come Together](https://open.spotify.com/track/7j9IL3tollUsa8Bkm5W32s) | [Sherry Vine](https://open.spotify.com/artist/2YGVrA2cafxh2rsw632N6s) | [Come Together](https://open.spotify.com/album/2a64YiIwjhOm2XrphHlPYc) | 2:41 | 2021-09-03 |  |
 | [Cover Girl](https://open.spotify.com/track/7jman10UPhzhtOOqZLjSsh) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Champion](https://open.spotify.com/album/3ExxyWO7DdCsNlYDuoIP8b) | 2:58 | 2021-06-29 |  |
@@ -90,6 +91,7 @@
 | [Pretty Girl Anthem \(feat\. Peppermint\)](https://open.spotify.com/track/79qxlakBDfZNf9gNeFJa7n) | [Jiggly Caliente](https://open.spotify.com/artist/6ld2g4P1SllfqU1ukMMwXt), [Peppermint](https://open.spotify.com/artist/4Cy4hqXIcD2Gz4NGgbNSw6) | [T.H.O.T\. Process](https://open.spotify.com/album/6qUdBbMYuHGQZmRhrSfmFK) | 2:20 | 2021-06-29 | 2022-07-29 |
 | [Purse First \(feat\. DJ Mitch Ferrino\)](https://open.spotify.com/track/5IsdA6g8IFKGmC1xl37OG1) | [Bob the Drag Queen](https://open.spotify.com/artist/71WL5bNm5jPPpwpDcW3Icj), [DJ Mitch Ferrino](https://open.spotify.com/artist/2nkkdrHs13Onop9WadmkUK) | [Purse First \(feat\. DJ Mitch Ferrino\)](https://open.spotify.com/album/0IzVRHJVmE4ftTJ8z4uyhS) | 3:49 | 2021-06-29 |  |
 | [Queens Everywhere \- Cast Version](https://open.spotify.com/track/2zbCUcfKcM9RDsnDcuybvV) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe), [The Cast of RuPaul's Drag Race, Season 11](https://open.spotify.com/artist/66HGzvDigC8CCp6ZGfEC6i), [Markaholic](https://open.spotify.com/artist/0ZUGTZ3ItqNjAtQUVjNKnu) | [Queens Everywhere \(Cast Version\)](https://open.spotify.com/album/4qRdeAlRbk0LfK6IHgNf5n) | 3:17 | 2021-06-29 |  |
+| [Rubber Doll](https://open.spotify.com/track/0XKXBFAZU2rm7RkXUlBxEI) | [Miss Fame](https://open.spotify.com/artist/4wLH0JOgX7xiI0JCHnuf8r) | [Rubber Doll](https://open.spotify.com/album/0jb9DdTXNHZZ2LeJMYWADM) | 3:20 | 2022-09-22 | 2022-11-13 |
 | [Rubber Doll](https://open.spotify.com/track/7Bpqv11PexJbK6f0LlDqsJ) | [Miss Fame](https://open.spotify.com/artist/4wLH0JOgX7xiI0JCHnuf8r) | [Beauty Marked](https://open.spotify.com/album/6PakrR0zttvkuTtY30j33f) | 3:20 | 2021-06-29 | 2022-07-29 |
 | [Rubber Doll](https://open.spotify.com/track/7M8D29CF8b5ciYCJ8xcv8X) | [Miss Fame](https://open.spotify.com/artist/4wLH0JOgX7xiI0JCHnuf8r) | [Beauty Marked](https://open.spotify.com/album/2Ua71F5wgrNqEIteTXIZjU) | 3:20 | 2022-03-10 |  |
 | [RuPaulogize \(feat\. Sharon Needles\)](https://open.spotify.com/track/3CObFGwVn3fQkHB3laYhaZ) | [Willam](https://open.spotify.com/artist/6l0msaZPAzFDz1UDDv6BV8) | [RuPaulogize \(feat\. Sharon Needles\)](https://open.spotify.com/album/02eDGzZoAEftp8x3E6h7cE) | 3:30 | 2021-06-29 | 2022-09-23 |

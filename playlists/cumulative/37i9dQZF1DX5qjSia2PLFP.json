@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "New music breaking waves.  Cover: SHABOOZEY",
+  "description": "New music breaking waves.  Cover: Ice Spice",
   "name": "Ripple Effect",
   "published_playlist_ids": [
     "74YlDMgCbNeMMptS6g5iCD"
@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "1OF1",
+        "url": "https://open.spotify.com/album/6baQwRelsChN4b0zmU5tRO"
+      },
+      "artists": [
+        {
+          "name": "T$AN",
+          "url": "https://open.spotify.com/artist/3xxFIilHFOKX6QaoJfBYrk"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192051,
+      "name": "1OF1",
+      "url": "https://open.spotify.com/track/4eeBkMilZ85ie8eBZCRs3O"
+    },
+    {
+      "album": {
         "name": "2much (YCO Jay Remix)",
         "url": "https://open.spotify.com/album/0szOMBJCj3bT35xlKq6IjA"
       },
@@ -117,7 +135,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 149231,
       "name": "Ain't Going Back",
       "url": "https://open.spotify.com/track/1Iot1CYAcasgCDUxndVt7D"
@@ -135,7 +153,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 128524,
       "name": "Aint No Fun",
       "url": "https://open.spotify.com/track/5LWAGw2GEbTHDWcV5coWyJ"
@@ -201,7 +219,7 @@
       },
       "artists": [
         {
-          "name": "Sainte",
+          "name": "Saint\u00e9",
           "url": "https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6"
         }
       ],
@@ -243,7 +261,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 123636,
       "name": "AVENTADOR",
       "url": "https://open.spotify.com/track/2NhVY8tOBvbQRCLvBXFrUJ"
@@ -309,6 +327,24 @@
       "duration_ms": 147173,
       "name": "Big Watch",
       "url": "https://open.spotify.com/track/39StnYtTSbBQE608FwuupH"
+    },
+    {
+      "album": {
+        "name": "Bikini Bottom",
+        "url": "https://open.spotify.com/album/2n38ZBBmPSssEGGPgu6NPl"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106666,
+      "name": "Bikini Bottom",
+      "url": "https://open.spotify.com/track/27Qz0cFmMGADsniMeUwyUe"
     },
     {
       "album": {
@@ -628,6 +664,24 @@
     },
     {
       "album": {
+        "name": "Compare - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/0o2fniizJPNWTYr4ilWA46"
+      },
+      "artists": [
+        {
+          "name": "Saint\u00e9",
+          "url": "https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136262,
+      "name": "Compare - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/1jCk2UYGvtpxtkyhTRbKgF"
+    },
+    {
+      "album": {
         "name": "Constellations",
         "url": "https://open.spotify.com/album/3vEWvYAC6uedBaHV9bM2NM"
       },
@@ -693,10 +747,28 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 143527,
       "name": "Crayons",
       "url": "https://open.spotify.com/track/3o5ImZ1yj1FoV4nkuAsbe1"
+    },
+    {
+      "album": {
+        "name": "Creme Brulee",
+        "url": "https://open.spotify.com/album/5zQXPoLBDFCFGN4IPu14VG"
+      },
+      "artists": [
+        {
+          "name": "Cochise",
+          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112207,
+      "name": "Creme Brulee",
+      "url": "https://open.spotify.com/track/3jvrZ6mIhVEH4XMpmqSTRI"
     },
     {
       "album": {
@@ -901,7 +973,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 119111,
       "name": "DORK",
       "url": "https://open.spotify.com/track/3J13MlSboyZZGB1RshKHva"
@@ -1141,6 +1213,24 @@
       "duration_ms": 132505,
       "name": "FINALLY",
       "url": "https://open.spotify.com/track/1qPRRErp0RlPJ74tWj2QJr"
+    },
+    {
+      "album": {
+        "name": "FN THE MIXTAPE COMING SOON",
+        "url": "https://open.spotify.com/album/5jjbZqr3FBAMGhjrzGIxIa"
+      },
+      "artists": [
+        {
+          "name": "Idontknowjeffery",
+          "url": "https://open.spotify.com/artist/7Fx7ZCiOsh5eVpFuK25VD6"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162533,
+      "name": "FN THE MIXTAPE COMING SOON",
+      "url": "https://open.spotify.com/track/3yZLQBHWeZbvvvxJTBDmLM"
     },
     {
       "album": {
@@ -1402,6 +1492,24 @@
     },
     {
       "album": {
+        "name": "Here I Come",
+        "url": "https://open.spotify.com/album/5yEN89IGBwa3y0tP2qWAnK"
+      },
+      "artists": [
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108413,
+      "name": "Here I Come",
+      "url": "https://open.spotify.com/track/24JTap3Y2LHb3icc5iIkNj"
+    },
+    {
+      "album": {
         "name": "History",
         "url": "https://open.spotify.com/album/3pqOqlgUJ39OPL3F2EqPcN"
       },
@@ -1483,6 +1591,46 @@
       "duration_ms": 185806,
       "name": "How To Kill A Narcissist",
       "url": "https://open.spotify.com/track/7mbWZGbClvFlJnI1wbFlTE"
+    },
+    {
+      "album": {
+        "name": "I Know",
+        "url": "https://open.spotify.com/album/0sPpOYWKeLPeppdKyZy9W4"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Sauce Walka",
+          "url": "https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197586,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/4iPk2FPM9hZYHqtQsfEz6m"
+    },
+    {
+      "album": {
+        "name": "Wayne",
+        "url": "https://open.spotify.com/album/3DryZCv6ZZpYzgD4Vjg03q"
+      },
+      "artists": [
+        {
+          "name": "BoofBoiIcy",
+          "url": "https://open.spotify.com/artist/4Crup8TztPQ0TSQBiBGrrZ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154146,
+      "name": "I'll Do It",
+      "url": "https://open.spotify.com/track/0GbLqWHMbu8vI3iQR2b6Ki"
     },
     {
       "album": {
@@ -1694,6 +1842,28 @@
     },
     {
       "album": {
+        "name": "Keep It Lo",
+        "url": "https://open.spotify.com/album/0hDyuoQRlGBEHKUk8HpWMQ"
+      },
+      "artists": [
+        {
+          "name": "Ojerime",
+          "url": "https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0"
+        },
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153712,
+      "name": "Keep It Lo",
+      "url": "https://open.spotify.com/track/3RBtnsOmltWgeRge3lQDjG"
+    },
+    {
+      "album": {
         "name": "B4BMG: The Experience",
         "url": "https://open.spotify.com/album/1EeapC8eRWGPZkfPJrvPSs"
       },
@@ -1857,7 +2027,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 158350,
       "name": "Light Breeze",
       "url": "https://open.spotify.com/track/3NWOO9SW0Irf9aUUC3om4i"
@@ -2096,6 +2266,42 @@
     },
     {
       "album": {
+        "name": "Name of Love",
+        "url": "https://open.spotify.com/album/0z9joggqG3K7ffVOvftTwI"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 106666,
+      "name": "Name of Love",
+      "url": "https://open.spotify.com/track/7xH1se2ywtEQM3g1XuKkIq"
+    },
+    {
+      "album": {
+        "name": "Neva Goin Broke",
+        "url": "https://open.spotify.com/album/4rUicHcb8xZS9zuyVlPZrd"
+      },
+      "artists": [
+        {
+          "name": "$ir Abe",
+          "url": "https://open.spotify.com/artist/0uY7BTLDOC5WbA3SlZYUV8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80312,
+      "name": "Neva Goin Broke",
+      "url": "https://open.spotify.com/track/25n2o2iXsML4I0xIAFOINj"
+    },
+    {
+      "album": {
         "name": "Codeine Files",
         "url": "https://open.spotify.com/album/7tgZb9ATpg16l6wcSnOBtT"
       },
@@ -2107,7 +2313,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 80312,
       "name": "Neva Goin Broke",
       "url": "https://open.spotify.com/track/3MDay3lotWzIJ9RmuYwi1H"
@@ -2125,7 +2331,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 185997,
       "name": "No Closure",
       "url": "https://open.spotify.com/track/4d8eyF77ZplwhOSj1rqink"
@@ -2151,6 +2357,24 @@
       "duration_ms": 201923,
       "name": "NO PLACE TO GO",
       "url": "https://open.spotify.com/track/6aBMG5bq5CsCsVg7O1UJ6L"
+    },
+    {
+      "album": {
+        "name": "Coordinates",
+        "url": "https://open.spotify.com/album/2KBFAyoDp5uB33m2kC08He"
+      },
+      "artists": [
+        {
+          "name": "Jay Wile",
+          "url": "https://open.spotify.com/artist/1VvjB8ztJLmmj2fyL4TkCU"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237272,
+      "name": "NO2",
+      "url": "https://open.spotify.com/track/0hRA9X9Ga7aT66sNgNOUht"
     },
     {
       "album": {
@@ -2299,7 +2523,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 210346,
       "name": "Persuasive (with SZA)",
       "url": "https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6"
@@ -2539,6 +2763,24 @@
       "duration_ms": 169498,
       "name": "Pretty",
       "url": "https://open.spotify.com/track/2ARyZvxGYqUaUgAtqwyBsq"
+    },
+    {
+      "album": {
+        "name": "Pretty In Black",
+        "url": "https://open.spotify.com/album/5MfPSUlLg1wsGUyY2c10OG"
+      },
+      "artists": [
+        {
+          "name": "Joony",
+          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113043,
+      "name": "PRETTY IN BLACK",
+      "url": "https://open.spotify.com/track/0CKjwy3zelVZgS49WlVIaV"
     },
     {
       "album": {
@@ -2796,8 +3038,44 @@
     },
     {
       "album": {
+        "name": "SIMPLE",
+        "url": "https://open.spotify.com/album/6nfwaflmUX1fWLwY0abYxF"
+      },
+      "artists": [
+        {
+          "name": "$NOT",
+          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154800,
+      "name": "SIMPLE",
+      "url": "https://open.spotify.com/track/43KrLcrVbDBimYtjKswIL3"
+    },
+    {
+      "album": {
         "name": "SINCERELY",
         "url": "https://open.spotify.com/album/11QTrObNHlnSkUjXVOM0b0"
+      },
+      "artists": [
+        {
+          "name": "Al-Doms",
+          "url": "https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 184186,
+      "name": "SINCERELY",
+      "url": "https://open.spotify.com/track/31N4z5XiavBEOjPiliJss7"
+    },
+    {
+      "album": {
+        "name": "PRESCRIBED OVERDOSE",
+        "url": "https://open.spotify.com/album/1gMvkEF8Iw9ub7yrRqtwMl"
       },
       "artists": [
         {
@@ -2810,7 +3088,7 @@
       "date_removed": null,
       "duration_ms": 184186,
       "name": "SINCERELY",
-      "url": "https://open.spotify.com/track/31N4z5XiavBEOjPiliJss7"
+      "url": "https://open.spotify.com/track/3LdKYGCsaYEkUdMsmSLvEa"
     },
     {
       "album": {
@@ -2865,7 +3143,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 175493,
       "name": "Slow",
       "url": "https://open.spotify.com/track/7w9bSUUdghXGjWmYtu6fl6"
@@ -2887,6 +3165,24 @@
       "duration_ms": 144807,
       "name": "Snake",
       "url": "https://open.spotify.com/track/6QRDewZDz4f9CJEasgWZKt"
+    },
+    {
+      "album": {
+        "name": "Snow Cones",
+        "url": "https://open.spotify.com/album/4Zl1QD4pz3CqUR1lGDSdAr"
+      },
+      "artists": [
+        {
+          "name": "Joseph Chilliams",
+          "url": "https://open.spotify.com/artist/6lirZ0ouvh4l3fz3HSnIwi"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Snow Cones",
+      "url": "https://open.spotify.com/track/5CFDY0ongHhmVWSwkgZqkl"
     },
     {
       "album": {
@@ -2927,7 +3223,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 199462,
       "name": "Some Other Time (feat. Arz)",
       "url": "https://open.spotify.com/track/2RP9qWN4MpSLHAlskIlV1t"
@@ -3095,7 +3391,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 180076,
       "name": "Swamp Bitches (with Rico Nasty)",
       "url": "https://open.spotify.com/track/2aOG6jVZnTqZwEhjGTcFMM"
@@ -3265,10 +3561,28 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 124369,
       "name": "Too Hot",
       "url": "https://open.spotify.com/track/0r6UbYDhi7MEojd80gXH42"
+    },
+    {
+      "album": {
+        "name": "Too Hot",
+        "url": "https://open.spotify.com/album/0Gde461yTS29VnscdMNrtX"
+      },
+      "artists": [
+        {
+          "name": "Jay Safari",
+          "url": "https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-15",
+      "duration_ms": 124369,
+      "name": "Too Hot",
+      "url": "https://open.spotify.com/track/4usGSO2f7aE9aKC05itGbq"
     },
     {
       "album": {
@@ -3313,6 +3627,24 @@
       "duration_ms": 148607,
       "name": "Try Hard",
       "url": "https://open.spotify.com/track/1Y0WL6KqYm78Fn8eIlStyR"
+    },
+    {
+      "album": {
+        "name": "TURKEY",
+        "url": "https://open.spotify.com/album/2zhIdoLAGJazYWy2vhkDaI"
+      },
+      "artists": [
+        {
+          "name": "Tate Kobang",
+          "url": "https://open.spotify.com/artist/05ZOzt8hlefGYXWJIL37PI"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109008,
+      "name": "TURKEY",
+      "url": "https://open.spotify.com/track/50B1vCGS7BIUfJeFpFuolc"
     },
     {
       "album": {
@@ -3433,7 +3765,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 153040,
       "name": "What's A Monday",
       "url": "https://open.spotify.com/track/3r3TNewGNpl7zKgzk9nYTJ"

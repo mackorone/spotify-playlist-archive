@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": "2022-11-14",
       "duration_ms": 312760,
       "name": "A Dangerous Meeting",
       "url": "https://open.spotify.com/track/0V7iTNAnyoOqcZz54lGA4E"
@@ -77,6 +77,24 @@
       "duration_ms": 312760,
       "name": "A Dangerous Meeting",
       "url": "https://open.spotify.com/track/0XazvXRtIb75Ljr6OjQGmX"
+    },
+    {
+      "album": {
+        "name": "All the Aces",
+        "url": "https://open.spotify.com/album/5RGSoxQwVkbYPVSh3DhcQX"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 166360,
+      "name": "Ace of Spades",
+      "url": "https://open.spotify.com/track/1CLgbV57c4bEkXrIKmsJza"
     },
     {
       "album": {
@@ -127,7 +145,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": "2022-11-13",
       "duration_ms": 364626,
       "name": "Agent Orange",
       "url": "https://open.spotify.com/track/0CDHN3Wk8JY0p5myySB0mS"
@@ -397,7 +415,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": "2022-11-13",
       "duration_ms": 199040,
       "name": "Bedside Radio",
       "url": "https://open.spotify.com/track/7dp39ThK3DGKVneJERWhHe"
@@ -613,7 +631,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": "2022-11-13",
       "duration_ms": 215306,
       "name": "Can U Deliver",
       "url": "https://open.spotify.com/track/25kORdST1xzG4WXOnzJCKV"
@@ -649,7 +667,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": "2022-11-13",
       "duration_ms": 337880,
       "name": "Children of the Earth",
       "url": "https://open.spotify.com/track/0un0EK8Qvd3eNYh7BJz2OF"
@@ -746,6 +764,24 @@
     },
     {
       "album": {
+        "name": "The Osbourne Family Album (Clean Version)",
+        "url": "https://open.spotify.com/album/24nhPPOmRDre6oBvhKKRQA"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 289893,
+      "name": "Crazy Train - 2002 Version",
+      "url": "https://open.spotify.com/track/09nx3UW8Mufo0Nq0iTKt5x"
+    },
+    {
+      "album": {
         "name": "The Best of Saxon",
         "url": "https://open.spotify.com/album/1W5MR7hWVGdKrjGVdedj7x"
       },
@@ -757,7 +793,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": "2022-11-13",
       "duration_ms": 394666,
       "name": "Crusader",
       "url": "https://open.spotify.com/track/1IQwVMvWjaWqW8dABr0rPG"
@@ -901,7 +937,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 228666,
       "name": "Fast as a Shark",
       "url": "https://open.spotify.com/track/204523f9MSgEfc0oDJycNS"
@@ -1160,6 +1196,24 @@
     },
     {
       "album": {
+        "name": "Machine Head (2016 Version)",
+        "url": "https://open.spotify.com/album/3vf9XhG5wL3J0kVZhCEumf"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 366960,
+      "name": "Highway Star - 2012 Remaster",
+      "url": "https://open.spotify.com/track/2YiRc3PbBjdfTiA0l2PVEJ"
+    },
+    {
+      "album": {
         "name": "Machine Head (Remastered)",
         "url": "https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN"
       },
@@ -1229,6 +1283,24 @@
       "duration_ms": 353786,
       "name": "Holy Diver",
       "url": "https://open.spotify.com/track/57fqmDaokbxZ3TaB0jp39q"
+    },
+    {
+      "album": {
+        "name": "Holy Diver (2016 Remaster)",
+        "url": "https://open.spotify.com/album/4SeV83magIxYBuQNLjrXFz"
+      },
+      "artists": [
+        {
+          "name": "Dio",
+          "url": "https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 354866,
+      "name": "Holy Diver - 2016 Remaster",
+      "url": "https://open.spotify.com/track/6zJ8axqwi1XQDfO5fMtanG"
     },
     {
       "album": {
@@ -1405,14 +1477,14 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": "2022-11-13",
       "duration_ms": 238400,
       "name": "I'm A Rebel",
       "url": "https://open.spotify.com/track/6RsNd0M7jqbjIhj4qIbwip"
     },
     {
       "album": {
-        "name": "So Far, So Good...So What! (2004 Remaster)",
+        "name": "So Far, So Good...So What! (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/5f4vbRLrRmoDH0zpdQnyrE"
       },
       "artists": [
@@ -1463,6 +1535,24 @@
       "duration_ms": 354773,
       "name": "Iron Man",
       "url": "https://open.spotify.com/track/4HzdhXWJqczW6gOIXT6QRH"
+    },
+    {
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/6TcPqftScGmR0aEgIb43Vv"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 354773,
+      "name": "Iron Man",
+      "url": "https://open.spotify.com/track/4svkPL62HbvyFgf0nHFXAF"
     },
     {
       "album": {
@@ -1517,6 +1607,24 @@
       "duration_ms": 282653,
       "name": "Kickstart My Heart",
       "url": "https://open.spotify.com/track/7GonnnalI2s19OCQO1J7Tf"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4y0me4JaTG2bjBy8Scz8ek"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 284026,
+      "name": "Kickstart My Heart",
+      "url": "https://open.spotify.com/track/5ikj2Db37JYXL6RW5cTFWP"
     },
     {
       "album": {
@@ -1621,10 +1729,28 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": "2022-11-13",
       "duration_ms": 237440,
       "name": "Let Them Eat Metal",
       "url": "https://open.spotify.com/track/3uZFSiCurXd9Jm3OIfxmAb"
+    },
+    {
+      "album": {
+        "name": "Too Fast For Love (2021 - Remaster)",
+        "url": "https://open.spotify.com/album/3Ui0xzVmKgfphMEQpgs9e0"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 194495,
+      "name": "Live Wire",
+      "url": "https://open.spotify.com/track/6uUVVbehfsR6M2UP4Tcq9X"
     },
     {
       "album": {
@@ -1711,10 +1837,28 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 264960,
       "name": "Long Live Rock N Roll",
       "url": "https://open.spotify.com/track/2ilsr4UkwAL10MspiJtKA3"
+    },
+    {
+      "album": {
+        "name": "The Dirt Soundtrack",
+        "url": "https://open.spotify.com/album/1FeIa1My6QQ6oQjUYxI36O"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 247840,
+      "name": "Looks That Kill",
+      "url": "https://open.spotify.com/track/4lFtu8F5086uM7tMTjI95O"
     },
     {
       "album": {
@@ -1790,6 +1934,24 @@
     },
     {
       "album": {
+        "name": "Stranger Things: Soundtrack from the Netflix Series, Season 4",
+        "url": "https://open.spotify.com/album/3Tij2oa4FJWd7Gk0pJaf0w"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 514479,
+      "name": "Master of Puppets",
+      "url": "https://open.spotify.com/track/799XxzSlWNYkuWJxUbuGnF"
+    },
+    {
+      "album": {
         "name": "Master Of Puppets",
         "url": "https://open.spotify.com/album/41bTjcSaiEe4G40RVVHbux"
       },
@@ -1855,7 +2017,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": "2022-11-13",
       "duration_ms": 323666,
       "name": "Metal Heart",
       "url": "https://open.spotify.com/track/4f73ikIdf3E1r89cRzo7e6"
@@ -1909,7 +2071,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": "2022-11-12",
       "duration_ms": 209320,
       "name": "Mexican Radio",
       "url": "https://open.spotify.com/track/1mIEtP4RLqJn5xk8omStDv"
@@ -1985,6 +2147,24 @@
       "duration_ms": 302647,
       "name": "Mr. Crowley",
       "url": "https://open.spotify.com/track/2ov8L95QD25TLpZAZPYWXL"
+    },
+    {
+      "album": {
+        "name": "The Essential Ozzy Osbourne",
+        "url": "https://open.spotify.com/album/6eyLkYlVShYcXYiAgKVnQt"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 303186,
+      "name": "Mr. Crowley",
+      "url": "https://open.spotify.com/track/2L1xIpDkmNRGRh0G9YZ1k7"
     },
     {
       "album": {
@@ -2078,6 +2258,24 @@
     },
     {
       "album": {
+        "name": "...And Justice for All (Remastered)",
+        "url": "https://open.spotify.com/album/4Cn4T0onWhfJZwWVzU5a2t"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 446145,
+      "name": "One (Remastered)",
+      "url": "https://open.spotify.com/track/3sRZqCxbnwiKKPe57WoT6S"
+    },
+    {
+      "album": {
         "name": "Tygers of Pan Tang",
         "url": "https://open.spotify.com/album/3amo8Qg9VoTutpiftk6oAO"
       },
@@ -2089,7 +2287,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": "2022-11-13",
       "duration_ms": 303546,
       "name": "Only the Brave",
       "url": "https://open.spotify.com/track/5F4PRUrsZQ8zTppxd6OA9a"
@@ -2107,7 +2305,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": "2022-11-14",
       "duration_ms": 246066,
       "name": "Over the Wall",
       "url": "https://open.spotify.com/track/5xXeIlEiWIA8xnPa8BkJyj"
@@ -2129,6 +2327,24 @@
       "duration_ms": 311133,
       "name": "Overkill",
       "url": "https://open.spotify.com/track/3Staqm5EYDnYBqcwuxrWjZ"
+    },
+    {
+      "album": {
+        "name": "Overkill",
+        "url": "https://open.spotify.com/album/1hindeJXXIjo4qrTOOusGG"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 311133,
+      "name": "Overkill",
+      "url": "https://open.spotify.com/track/3fGFMkrNPkLDclY5zngqqW"
     },
     {
       "album": {
@@ -2183,6 +2399,24 @@
       "duration_ms": 168440,
       "name": "Paranoid",
       "url": "https://open.spotify.com/track/1jzDzZWeSDBg5fhNc3tczV"
+    },
+    {
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/6TcPqftScGmR0aEgIb43Vv"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 168440,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/4MSqgoFS7e8LpsxeeMMVMu"
     },
     {
       "album": {
@@ -2269,7 +2503,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": "2022-11-13",
       "duration_ms": 441466,
       "name": "Phantom of the Opera - 2015 Remaster",
       "url": "https://open.spotify.com/track/5dtdDxI45qW6GRr2YyC0mX"
@@ -2330,6 +2564,28 @@
     },
     {
       "album": {
+        "name": "Hungry Years (Remixed)",
+        "url": "https://open.spotify.com/album/1eTLFYAhjqNRxvW53jniY5"
+      },
+      "artists": [
+        {
+          "name": "Accept",
+          "url": "https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv"
+        },
+        {
+          "name": "Ian Taylor",
+          "url": "https://open.spotify.com/artist/7hepT2hVYivx44bB1Y9vMw"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 385506,
+      "name": "Princess Of The Dawn - Remixed",
+      "url": "https://open.spotify.com/track/2wCefbu4xoALPT61lDGjQt"
+    },
+    {
+      "album": {
         "name": "Denim and Leather",
         "url": "https://open.spotify.com/album/40v5zR6YBrjhkodFEjZcKs"
       },
@@ -2341,7 +2597,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": "2022-11-13",
       "duration_ms": 242453,
       "name": "Princess of the Night",
       "url": "https://open.spotify.com/track/6SUudbR4vTazN9Jb7QWQn5"
@@ -2399,6 +2655,24 @@
       "duration_ms": 256933,
       "name": "Rainbow in the Dark",
       "url": "https://open.spotify.com/track/2PpNgmrS9mAyrkRAwn6YPq"
+    },
+    {
+      "album": {
+        "name": "Soundtrack To The Apocalypse",
+        "url": "https://open.spotify.com/album/4i1dW5u1egajFXlgpuVPVe"
+      },
+      "artists": [
+        {
+          "name": "Slayer",
+          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 252960,
+      "name": "Raining Blood",
+      "url": "https://open.spotify.com/track/5eF4Kv3HcYJyAtgTmHVzH9"
     },
     {
       "album": {
@@ -2510,6 +2784,24 @@
     },
     {
       "album": {
+        "name": "70s Rock",
+        "url": "https://open.spotify.com/album/6XXeuda2TubGnTWzdEoMj4"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 175853,
+      "name": "Rock And Roll All Nite",
+      "url": "https://open.spotify.com/track/1HJGkp8EUaC0uVr2ftWsOR"
+    },
+    {
+      "album": {
         "name": "Pyromania (Deluxe)",
         "url": "https://open.spotify.com/album/56MI9wRjLguogSnppEeukO"
       },
@@ -2543,6 +2835,24 @@
       "duration_ms": 247828,
       "name": "Rock Of Ages",
       "url": "https://open.spotify.com/track/2AmEv442DGwSxMGZ9XEvBA"
+    },
+    {
+      "album": {
+        "name": "Stranger Things Can Happen",
+        "url": "https://open.spotify.com/album/6Xhscs1nnZ8Ho2Di3nlHsr"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 252493,
+      "name": "Rock You Like A Hurricane",
+      "url": "https://open.spotify.com/track/2J61Oof6ni6xN9lFkt8CFJ"
     },
     {
       "album": {
@@ -2672,6 +2982,24 @@
     },
     {
       "album": {
+        "name": "Kill 'Em All (Deluxe Remaster)",
+        "url": "https://open.spotify.com/album/7GttoSWxEi5lZvIWeSrh6n"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 414720,
+      "name": "Seek & Destroy (Remastered)",
+      "url": "https://open.spotify.com/track/6vVRtEW5T51Zd8qnyrshR1"
+    },
+    {
+      "album": {
         "name": "Winger",
         "url": "https://open.spotify.com/album/4aMtQDeDMAHBfh7cE87PWo"
       },
@@ -2798,6 +3126,24 @@
     },
     {
       "album": {
+        "name": "Machine Head (2016 Version)",
+        "url": "https://open.spotify.com/album/3vf9XhG5wL3J0kVZhCEumf"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 339946,
+      "name": "Smoke on the Water - 2012 Remaster",
+      "url": "https://open.spotify.com/track/5JbsyfzMUtqXKgx9s4oqn1"
+    },
+    {
+      "album": {
         "name": "Machine Head (Remastered)",
         "url": "https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN"
       },
@@ -2899,14 +3245,14 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": "2022-11-13",
       "duration_ms": 200333,
       "name": "Swords and Tequila",
       "url": "https://open.spotify.com/track/3lJqE5AKrrFDFdhDyB0kqx"
     },
     {
       "album": {
-        "name": "Countdown To Extinction",
+        "name": "Countdown To Extinction (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
       },
       "artists": [
@@ -3097,7 +3443,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": "2022-11-13",
       "duration_ms": 229960,
       "name": "Thundersteel",
       "url": "https://open.spotify.com/track/3PtoySboyS2gTmvFPy6iDi"
@@ -3133,7 +3479,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": "2022-11-13",
       "duration_ms": 188920,
       "name": "Tomorrow's Dream - 2021 Remaster",
       "url": "https://open.spotify.com/track/07f9Uh1cWqH8ggfcEYeC1l"
@@ -3169,7 +3515,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": "2022-11-13",
       "duration_ms": 282560,
       "name": "Under Jolly Roger",
       "url": "https://open.spotify.com/track/25qe3Wf24HVQBBiQeb9Cdf"
@@ -3191,6 +3537,24 @@
       "duration_ms": 474400,
       "name": "War Pigs",
       "url": "https://open.spotify.com/track/4eZDMbQm12jmaTFT6fOBwo"
+    },
+    {
+      "album": {
+        "name": "Complete Studio Albums 1970 - 1978",
+        "url": "https://open.spotify.com/album/0B3iKYQdQ3M1WrSeWig1Ay"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 473786,
+      "name": "War Pigs / Luke's Wall - 2012 - Remaster",
+      "url": "https://open.spotify.com/track/3b5Hry6E3lTtJ10eE5F3UL"
     },
     {
       "album": {
@@ -3223,7 +3587,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": "2022-11-14",
       "duration_ms": 225226,
       "name": "Wasted",
       "url": "https://open.spotify.com/track/4JrvsfwMdWJyEbV0DDZTtd"
@@ -3295,7 +3659,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": "2022-11-14",
       "duration_ms": 275666,
       "name": "We Rock",
       "url": "https://open.spotify.com/track/4cMKvXUOLFbC6lRLCz5HPg"

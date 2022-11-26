@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 171500,
       "name": "a story to tell (Original Ver.)",
       "url": "https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 208000,
       "name": "All at Sea",
       "url": "https://open.spotify.com/track/0213ZfdsDJ5daAi09oZOH5"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 219939,
       "name": "beautiful inside",
       "url": "https://open.spotify.com/track/1bxzxAOlqll6JIAeEZEINR"
@@ -614,7 +614,7 @@
       "artists": [
         {
           "name": "Siwa",
-          "url": "https://open.spotify.com/artist/65h2inEcodauMEbyfodXdM"
+          "url": "https://open.spotify.com/artist/4Ov1By1bw2tZ0bWYn2mHlX"
         }
       ],
       "date_added": "2022-05-03",
@@ -637,7 +637,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 213327,
       "name": "Going home",
       "url": "https://open.spotify.com/track/6rnHkf4EUMA9HWWsHEuLYh"
@@ -739,7 +739,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 228834,
       "name": "Hello",
       "url": "https://open.spotify.com/track/2XeZwMyRKG9vSvTLq7Y40Z"
@@ -1019,8 +1019,8 @@
           "url": "https://open.spotify.com/artist/5KoLNvPbAWGHVOCXwam9T0"
         },
         {
-          "name": "Inyu",
-          "url": "https://open.spotify.com/artist/4uVDPhjO1wDe5AEptC6wo2"
+          "name": "Blue Mangtto",
+          "url": "https://open.spotify.com/artist/0K44FUw6SBCO7dunhMz8sp"
         }
       ],
       "date_added": "2022-09-05",
@@ -1415,6 +1415,24 @@
     {
       "album": {
         "name": "Olive",
+        "url": "https://open.spotify.com/album/0lHVbBbazLwjjE3yYnJoDL"
+      },
+      "artists": [
+        {
+          "name": "Artinb",
+          "url": "https://open.spotify.com/artist/5t7WiBzx4KeS4VZg9dZ6Kp"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "Olive",
+      "url": "https://open.spotify.com/track/2sWmwFczvN8pglDFCNEdOv"
+    },
+    {
+      "album": {
+        "name": "Olive",
         "url": "https://open.spotify.com/album/4OOcKhTPbVZtDdy2WKVVEE"
       },
       "artists": [
@@ -1649,7 +1667,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-10",
+      "date_removed": null,
       "duration_ms": 198040,
       "name": "SHE",
       "url": "https://open.spotify.com/track/36ty55F3OvW2lXtzTqLXQH"
@@ -1739,7 +1757,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": null,
       "duration_ms": 245870,
       "name": "Something Special",
       "url": "https://open.spotify.com/track/0Y7AaeEqV9copcxaq1VEja"
@@ -2015,8 +2033,8 @@
       },
       "artists": [
         {
-          "name": "Sujin Park",
-          "url": "https://open.spotify.com/artist/2gkonIWljjR6P00qwvv1eq"
+          "name": "Park Soo Jin",
+          "url": "https://open.spotify.com/artist/2u5C3Wks2FJrz5N86nNiXT"
         }
       ],
       "date_added": "2022-07-08",
@@ -2057,7 +2075,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": "2022-11-12",
       "duration_ms": 210840,
       "name": "To My Friend",
       "url": "https://open.spotify.com/track/3v7xLuhQtnm74cJBASJ9eZ"
@@ -2252,6 +2270,24 @@
     },
     {
       "album": {
+        "name": "When It's Cold",
+        "url": "https://open.spotify.com/album/0yd7TX2398Ii7AiZAMp2ey"
+      },
+      "artists": [
+        {
+          "name": "Bily Acoustie",
+          "url": "https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183824,
+      "name": "When It\u2019s Cold",
+      "url": "https://open.spotify.com/track/1d4rYg3JcSOSnVYa2IPDSr"
+    },
+    {
+      "album": {
         "name": "Willow Tree",
         "url": "https://open.spotify.com/album/1LKOq183x8IFXn6KRcUd3B"
       },
@@ -2343,6 +2379,28 @@
       "duration_ms": 155133,
       "name": "You are My Night",
       "url": "https://open.spotify.com/track/3PJBhDdXm8Ew3zAx6zmWnZ"
+    },
+    {
+      "album": {
+        "name": "You don't have to say anything (I already know)",
+        "url": "https://open.spotify.com/album/6EloN2Ba66hvq5yLrueBrC"
+      },
+      "artists": [
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        },
+        {
+          "name": "Kang Seungwon",
+          "url": "https://open.spotify.com/artist/48DsjCcpYJQWi5fulzyuBm"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265459,
+      "name": "You don't have to say anything (I already know)",
+      "url": "https://open.spotify.com/track/1uJbJ78IbBgmntxPk5bptX"
     },
     {
       "album": {

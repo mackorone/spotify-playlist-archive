@@ -48,6 +48,32 @@
     },
     {
       "album": {
+        "name": "Relaxing Classical",
+        "url": "https://open.spotify.com/album/1IgpoX287uoldZN4gRe9ne"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3hann J\u00f3hannsson",
+          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
+        },
+        {
+          "name": "Air Lyndhurst String Orchestra",
+          "url": "https://open.spotify.com/artist/72UK8pq1vewvVNs0mGCoH8"
+        },
+        {
+          "name": "Anthony Weeden",
+          "url": "https://open.spotify.com/artist/3Sn9qNHNBzGuMW3b4V6o98"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 146440,
+      "name": "A Sparrow Alighted upon our Shoulder",
+      "url": "https://open.spotify.com/track/6PqxMqUPd6oPpOhxKvk1U2"
+    },
+    {
+      "album": {
         "name": "Orph\u00e9e",
         "url": "https://open.spotify.com/album/1ZPtIPAHcNHgLuL0K6BzJN"
       },
@@ -755,7 +781,7 @@
     {
       "album": {
         "name": "This Night",
-        "url": "https://open.spotify.com/album/6YBtLEVPI7CAEsE5ljrtTC"
+        "url": "https://open.spotify.com/album/5ygHwLXWu8Ycx28wtAZvMA"
       },
       "artists": [
         {
@@ -766,6 +792,24 @@
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 211055,
+      "name": "This Night",
+      "url": "https://open.spotify.com/track/1MxO57a8Ttyb1izW1uKGVl"
+    },
+    {
+      "album": {
+        "name": "This Night",
+        "url": "https://open.spotify.com/album/6YBtLEVPI7CAEsE5ljrtTC"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Califano",
+          "url": "https://open.spotify.com/artist/5kqQv4acGpWR8L1xhlLuSf"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-25",
       "duration_ms": 211055,
       "name": "This Night",
       "url": "https://open.spotify.com/track/6LQv4r8SDy2S3fLNo3ntr9"
@@ -819,10 +863,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 145333,
       "name": "Where Do We Go from Here",
       "url": "https://open.spotify.com/track/3aht08JlnWhD5A0MpIfU0T"
+    },
+    {
+      "album": {
+        "name": "Where Do We Go From Here",
+        "url": "https://open.spotify.com/album/09d4nYKC7KPz24j1poojCU"
+      },
+      "artists": [
+        {
+          "name": "Njord",
+          "url": "https://open.spotify.com/artist/3zYAcm7zUhWykFjAU4Oc0w"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145333,
+      "name": "Where Do We Go From Here",
+      "url": "https://open.spotify.com/track/5rBLxJuvVdoO4PJZshFZZB"
     },
     {
       "album": {

@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Tumbando Ca\u00f1a (Serie Cl\u00e1sica)",
+        "url": "https://open.spotify.com/album/2pQaVwjXRlqHnQ0RD8cf4e"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151487,
+      "name": "A Mis Padres",
+      "url": "https://open.spotify.com/track/77tboh0O7eULVRwwIqUgax"
+    },
+    {
+      "album": {
         "name": "Tumbando Ca\u00f1a",
         "url": "https://open.spotify.com/album/7Ja4lDuleKTZV67LuqlGA5"
       },
@@ -91,7 +109,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 156546,
       "name": "Baila Nena",
       "url": "https://open.spotify.com/track/6j6ueannDkdkD84e8VcRVp"
@@ -109,7 +127,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 147053,
       "name": "Bajo Mil Llaves",
       "url": "https://open.spotify.com/track/0MzJVPncnI3QcDe4dSSdcF"
@@ -145,7 +163,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 158560,
       "name": "B\u00e1ilalo Suavecito",
       "url": "https://open.spotify.com/track/4xqSBX0ygS4UZZqpzdCGWy"
@@ -260,6 +278,24 @@
     },
     {
       "album": {
+        "name": "Metamorfosis",
+        "url": "https://open.spotify.com/album/4ydVpa0y2L99cdlNAsg8Vy"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150946,
+      "name": "De Esta Sierra A La Otra",
+      "url": "https://open.spotify.com/track/78XrMgHFKr2RPYDcPd8dhF"
+    },
+    {
+      "album": {
         "name": "Mil Gracias",
         "url": "https://open.spotify.com/album/0RE8GBPjlZBTx9RXHC0LGO"
       },
@@ -307,7 +343,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 185751,
       "name": "El",
       "url": "https://open.spotify.com/track/5BVdLm5h0alj7oGfacbxy4"
@@ -577,7 +613,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 148653,
       "name": "La Estrella de Los Bailes",
       "url": "https://open.spotify.com/track/6ys6m4XPqVCQcSMXzhFYdC"
@@ -613,7 +649,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 153213,
       "name": "La Mano de Dios",
       "url": "https://open.spotify.com/track/6DuEpEA8q3Qn7afD6ep5QA"
@@ -653,6 +689,24 @@
       "duration_ms": 186173,
       "name": "La Prendita",
       "url": "https://open.spotify.com/track/1QTZrB89xhOmqxXRnJLweE"
+    },
+    {
+      "album": {
+        "name": "Metamorfosis",
+        "url": "https://open.spotify.com/album/4ydVpa0y2L99cdlNAsg8Vy"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139680,
+      "name": "La Que Se Fue",
+      "url": "https://open.spotify.com/track/4xy7wejmM34LnfhLDIpanB"
     },
     {
       "album": {
@@ -703,7 +757,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 161560,
       "name": "Lagrimas de Sangre",
       "url": "https://open.spotify.com/track/3oyOsqtU1QWWoYY9sxafFw"
@@ -811,7 +865,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 154426,
       "name": "Los Melones",
       "url": "https://open.spotify.com/track/1SZfLRduAOlnFy80ORtuEO"
@@ -865,7 +919,7 @@
       ],
       "date_added": "2022-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 142493,
       "name": "Mujer Paseada",
       "url": "https://open.spotify.com/track/0pySFIvfAnwApyMz2i5SnS"
@@ -883,7 +937,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 189480,
       "name": "Ni\u00f1o Travieso",
       "url": "https://open.spotify.com/track/3Tnap1wm45mf3rAtUUJzV1"
@@ -901,7 +955,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 185173,
       "name": "No Vales la Pena - Live Version",
       "url": "https://open.spotify.com/track/4bBpVAW8b2bwgtng5Bx0nS"
@@ -919,7 +973,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-10-13",
       "duration_ms": 189386,
       "name": "Pa Que Sientas Lo Que Siento",
       "url": "https://open.spotify.com/track/780DuUv8gplMFVTRe5Q9Tp"
@@ -1135,7 +1189,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 176000,
       "name": "Sopa De Caracol",
       "url": "https://open.spotify.com/track/5rqj3Llcp55FDRYvm768Bm"
@@ -1171,7 +1225,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 140826,
       "name": "Te Ves Buena",
       "url": "https://open.spotify.com/track/7GYLRVnCB9p58tEixmOqEy"
@@ -1187,9 +1241,27 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151200,
+      "name": "Teresa",
+      "url": "https://open.spotify.com/track/1lXlsGFiG2TD84ldY55Byu"
+    },
+    {
+      "album": {
+        "name": "Tumbando Ca\u00f1a",
+        "url": "https://open.spotify.com/album/7Ja4lDuleKTZV67LuqlGA5"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-10-13",
       "duration_ms": 157746,
       "name": "Toro Manchado",
       "url": "https://open.spotify.com/track/2PF3QqXFV1skWAcC1YbfrF"
@@ -1225,7 +1297,7 @@
       ],
       "date_added": "2022-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 172133,
       "name": "Tu Precio",
       "url": "https://open.spotify.com/track/1N7iPUvDor2HA8wOlS5LIB"
@@ -1265,6 +1337,24 @@
       "duration_ms": 170066,
       "name": "Vamos a Bailar",
       "url": "https://open.spotify.com/track/4z1epl2x7FM0r7ImLr2Lq7"
+    },
+    {
+      "album": {
+        "name": "Metamorfosis",
+        "url": "https://open.spotify.com/album/4ydVpa0y2L99cdlNAsg8Vy"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
+      "duration_ms": 148320,
+      "name": "Y Andale",
+      "url": "https://open.spotify.com/track/6ZrnySwVbRAQVIxWUbXjkk"
     },
     {
       "album": {

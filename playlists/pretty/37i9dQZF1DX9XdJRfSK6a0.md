@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XdJRfSK6a0.md) - [plain]
 
 > This Sunday, let's tune out the words.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,081 likes - 45 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,978 likes - 45 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XdJRfSK6a0.md) - [plain]
 | 14 | [Ashoken Farewell](https://open.spotify.com/track/5nNn40GNviPx4GxmPP1ebd) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [All Will Prosper](https://open.spotify.com/album/7huOk44bNnAx5VRlNzthz6) | 2:30 |
 | 15 | [Them](https://open.spotify.com/track/2tr4oclswJ6v3dfDlI01HD) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Music for the Motion Picture Victoria](https://open.spotify.com/album/5Bd46K8hcylV7O7xz2YqEX) | 3:59 |
 | 16 | [Lilla Kulturbidragsvalsen](https://open.spotify.com/track/6ksucg4khzBjfhgmjGzqlR) | [Väsen](https://open.spotify.com/artist/1Njrx1AMU4ymWHjfSlwLpE) | [Mindset](https://open.spotify.com/album/5nXH5X9ah26QpKUTTwRGEt) | 3:29 |
-| 17 | [Barragán](https://open.spotify.com/track/0w2kb2POWcEtGbbqhXu4IF) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Barragán](https://open.spotify.com/album/4XvtXHbIkZVLp65p5KBHMP) | 2:13 |
+| 17 | [Barragán](https://open.spotify.com/track/2EbnbSeiXnyXfGdf17OoGa) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Barragán](https://open.spotify.com/album/4UhYqrNKcEiRHdVIxI7vso) | 2:13 |
 | 18 | [](https://open.spotify.com/track/0jZxuq04x40gwFCCcg3J31) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4wSAy40m5woUAi6BO3e0g3) | 0:00 |
 | 19 | [Vissel](https://open.spotify.com/track/6Cst3xKupSMS3z1I2EHiS2) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Vestiges & Claws](https://open.spotify.com/album/3mDpDgTVy3Lo6fdqoTr215) | 3:44 |
 | 20 | [Dance Of The Diaper Fairy](https://open.spotify.com/track/0AhfcYWLB9EGHcRHn4KsWB) | [Per Störby Jutbring](https://open.spotify.com/artist/5HKQ1eZfmajJNGC12Nj7xB) | [Dance of the Diaper Fairy](https://open.spotify.com/album/7840SsBEk2QXTF1BL0BTCT) | 5:07 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XdJRfSK6a0.md) - [plain]
 | 44 | [Me Voy a Morir de Tanto Amor](https://open.spotify.com/track/4gyM4s4ExrQReXT3M7A4mm) | [Alberto Iglesias](https://open.spotify.com/artist/1HRRbATgv6NPHs7Twm74p2) | [Lucía y el Sexo \(Banda Sonora Original\)](https://open.spotify.com/album/4VOap8s0JDD7sFkQUOiYYv) | 2:39 |
 | 45 | [The Wings](https://open.spotify.com/track/3oQpVsTPxbMobnIjeogbJz) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Brokeback Mountain Soundtrack](https://open.spotify.com/album/5GUrIS6mlz9kfnnSsit3DT) | 1:52 |
 
-Snapshot ID: `MTY2NDI3MDQ4MiwwMDAwMDAwMDdjYmExMmQ1MTYxYjAxOTU4MzI3Y2E1OWJmNjY3MGZj`
+Snapshot ID: `MTY2NDI3MDQ4MiwwMDAwMDAwMDQ2MTBlNDhkODExMjU4NjFjNmM0ODlkZjI2OTU1OTFk`

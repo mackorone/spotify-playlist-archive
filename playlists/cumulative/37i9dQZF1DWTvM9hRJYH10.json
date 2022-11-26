@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Music from Nashville's emerging Singers and Songwriters across the musical spectrum. Cover: Madeline Merlo",
+  "description": "Music from Nashville's emerging Singers and Songwriters across the musical spectrum. Cover: Jordana Bryant",
   "name": "Young Nashville",
   "published_playlist_ids": [
     "3ZmZ8VTqhMzD1YGM4aAkJ4"
@@ -779,10 +779,28 @@
       ],
       "date_added": "2022-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 183413,
       "name": "Damn You",
       "url": "https://open.spotify.com/track/2ChfZlDoaI34ZoAVzzTQQE"
+    },
+    {
+      "album": {
+        "name": "Damn You",
+        "url": "https://open.spotify.com/album/7zdOR8OO3NCAzsDtFui5Je"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183413,
+      "name": "Damn You",
+      "url": "https://open.spotify.com/track/2DvOwcQd7RB5IV7MdlwpvN"
     },
     {
       "album": {
@@ -1259,6 +1277,24 @@
       "duration_ms": 169881,
       "name": "Habit",
       "url": "https://open.spotify.com/track/5xL8e1wBrpqcMxMzeBDlWX"
+    },
+    {
+      "album": {
+        "name": "Had To Be There",
+        "url": "https://open.spotify.com/album/5vY6uG0RmX4F9wHeUDpTRt"
+      },
+      "artists": [
+        {
+          "name": "Jordana Bryant",
+          "url": "https://open.spotify.com/artist/69CLILkCLdR4JOoQieAFm2"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142853,
+      "name": "Had To Be There",
+      "url": "https://open.spotify.com/track/6zXVzaFPSe2X5LMkRHeN5x"
     },
     {
       "album": {
@@ -2191,10 +2227,46 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 215064,
       "name": "Lucky Me",
       "url": "https://open.spotify.com/track/0Xn2Omp7qVusyoTRCNp3Y7"
+    },
+    {
+      "album": {
+        "name": "Lucky Me",
+        "url": "https://open.spotify.com/album/36HRu50kxgdUGI2Ln6beIQ"
+      },
+      "artists": [
+        {
+          "name": "Eric Van Houten",
+          "url": "https://open.spotify.com/artist/4FQ4J66lTV5bpVtEKjiGeK"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-21",
+      "duration_ms": 215064,
+      "name": "Lucky Me",
+      "url": "https://open.spotify.com/track/6o2h1OLa4mUtoQmCQwFpTo"
+    },
+    {
+      "album": {
+        "name": "Dreamers",
+        "url": "https://open.spotify.com/album/2gyLkzfqDT1HfqEo9sv04a"
+      },
+      "artists": [
+        {
+          "name": "Eric Van Houten",
+          "url": "https://open.spotify.com/artist/4FQ4J66lTV5bpVtEKjiGeK"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215064,
+      "name": "Lucky Me",
+      "url": "https://open.spotify.com/track/70DnlRCu1lCKuIvcrvQoq6"
     },
     {
       "album": {
@@ -2653,6 +2725,24 @@
       "duration_ms": 161632,
       "name": "Not Supposed To Know Each Other",
       "url": "https://open.spotify.com/track/2OK9HiOcSsFBKynCdPRUvo"
+    },
+    {
+      "album": {
+        "name": "Born in July (The Album)",
+        "url": "https://open.spotify.com/album/6Xz5OPkS6RCcmQ1hA7JUaO"
+      },
+      "artists": [
+        {
+          "name": "Taylor Edwards",
+          "url": "https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 161632,
+      "name": "Not Supposed To Know Each Other",
+      "url": "https://open.spotify.com/track/6jphhFUpKLzmptrwS35j0I"
     },
     {
       "album": {
@@ -3578,6 +3668,28 @@
     },
     {
       "album": {
+        "name": "Silver Linings",
+        "url": "https://open.spotify.com/album/3sJZ4bPGiUVmgHUC02frvL"
+      },
+      "artists": [
+        {
+          "name": "Kaylee Bell",
+          "url": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        },
+        {
+          "name": "Josh Mirenda",
+          "url": "https://open.spotify.com/artist/5zmTJA6eWcsmxevyQoK9iB"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184840,
+      "name": "That Summer",
+      "url": "https://open.spotify.com/track/00oJcls7l9XuLAroemBLy8"
+    },
+    {
+      "album": {
         "name": "That Summer",
         "url": "https://open.spotify.com/album/37fZJrMmfyGdPgBupuXKLo"
       },
@@ -3593,7 +3705,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 184840,
       "name": "That Summer",
       "url": "https://open.spotify.com/track/4eb7VLZEQhNo10TnJDQmCx"
@@ -3878,6 +3990,24 @@
     },
     {
       "album": {
+        "name": "Truth Is",
+        "url": "https://open.spotify.com/album/1IF0OBglPImicWSoaPyESK"
+      },
+      "artists": [
+        {
+          "name": "Julia Cole",
+          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178962,
+      "name": "Truth Is",
+      "url": "https://open.spotify.com/track/583ttvNmwL6fX30F5VYlc0"
+    },
+    {
+      "album": {
         "name": "Used To",
         "url": "https://open.spotify.com/album/7ILMvDpbyOtiqovE2itsId"
       },
@@ -4045,6 +4175,24 @@
     {
       "album": {
         "name": "When You Don't",
+        "url": "https://open.spotify.com/album/6Bcu7BwS7c5Lh5KqBsVu60"
+      },
+      "artists": [
+        {
+          "name": "Chris Ruediger",
+          "url": "https://open.spotify.com/artist/0MLe1DKmSKbDXw5zw45rJ7"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213784,
+      "name": "When You Don't",
+      "url": "https://open.spotify.com/track/3m1W8mCvokv36QHK5cXwtC"
+    },
+    {
+      "album": {
+        "name": "When You Don't",
         "url": "https://open.spotify.com/album/3mArQu301uZWkNwfGJ51sE"
       },
       "artists": [
@@ -4055,7 +4203,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-06",
       "duration_ms": 213784,
       "name": "When You Don't",
       "url": "https://open.spotify.com/track/7EXcUNcsRgWUPvujp1uDI3"

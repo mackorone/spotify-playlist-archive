@@ -244,6 +244,32 @@
     },
     {
       "album": {
+        "name": "Cynical",
+        "url": "https://open.spotify.com/album/2Z52Ku7N5BXOmX47gNUUNV"
+      },
+      "artists": [
+        {
+          "name": "Propaganda",
+          "url": "https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t"
+        },
+        {
+          "name": "Aaron Marsh",
+          "url": "https://open.spotify.com/artist/1iCRhLSPD5G9D33YVYBdX6"
+        },
+        {
+          "name": "Sho Baraka",
+          "url": "https://open.spotify.com/artist/3dpswct31rsudWf8ZASWZe"
+        }
+      ],
+      "date_added": "2021-03-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 232903,
+      "name": "Cynical",
+      "url": "https://open.spotify.com/track/4QvhkYvJhleC2fweo7jIVJ"
+    },
+    {
+      "album": {
         "name": "No Grey Lines",
         "url": "https://open.spotify.com/album/5U64ACHc6y4CqyYbFKAbpa"
       },
@@ -281,6 +307,32 @@
       "duration_ms": 138540,
       "name": "Dark Skin (feat. Black Violin)",
       "url": "https://open.spotify.com/track/7jB8SaTcggKVHRffLcLs9W"
+    },
+    {
+      "album": {
+        "name": "Darkie",
+        "url": "https://open.spotify.com/album/6Y3OohyhR1NQBoE3Zbtz7c"
+      },
+      "artists": [
+        {
+          "name": "Propaganda",
+          "url": "https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t"
+        },
+        {
+          "name": "Jackie Hill Perry",
+          "url": "https://open.spotify.com/artist/0Lf9qKpKwy6fJtfM7UWLV0"
+        },
+        {
+          "name": "Micah Bournes",
+          "url": "https://open.spotify.com/artist/0x7xqL4Noaw3mYcOgOCq03"
+        }
+      ],
+      "date_added": "2021-03-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 273631,
+      "name": "Darkie",
+      "url": "https://open.spotify.com/track/36pXJwXgT49AnEYNwCeYco"
     },
     {
       "album": {
@@ -825,7 +877,7 @@
     {
       "album": {
         "name": "Stay True",
-        "url": "https://open.spotify.com/album/2M5xQAbyUlm4c7wP1kcUhP"
+        "url": "https://open.spotify.com/album/5XqqJYyTGwtp6IulyQWPJ0"
       },
       "artists": [
         {
@@ -836,6 +888,24 @@
       "date_added": "2021-03-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 168071,
+      "name": "Stay True",
+      "url": "https://open.spotify.com/track/0KBaiSc0218RRst1HztFaH"
+    },
+    {
+      "album": {
+        "name": "Stay True",
+        "url": "https://open.spotify.com/album/2M5xQAbyUlm4c7wP1kcUhP"
+      },
+      "artists": [
+        {
+          "name": "Melvillous",
+          "url": "https://open.spotify.com/artist/0rP1JrlHuwm3oS32Hpli8J"
+        }
+      ],
+      "date_added": "2021-03-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-20",
       "duration_ms": 168071,
       "name": "Stay True",
       "url": "https://open.spotify.com/track/4wn7GmTwrC4mHrmMNyTm6O"
@@ -879,6 +949,28 @@
       "duration_ms": 211070,
       "name": "The Hold",
       "url": "https://open.spotify.com/track/3ysatBDUlwvMQP5pXGKxEC"
+    },
+    {
+      "album": {
+        "name": "The Hold",
+        "url": "https://open.spotify.com/album/0jqDPOIq8PUkeOox1zyFIM"
+      },
+      "artists": [
+        {
+          "name": "Armond Wakeup",
+          "url": "https://open.spotify.com/artist/5e8WZ20kXHGdDe6iNlogGx"
+        },
+        {
+          "name": "Wes Pendleton",
+          "url": "https://open.spotify.com/artist/0Z7jo4oR0rsAf7CHuGSpbx"
+        }
+      ],
+      "date_added": "2021-03-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 211070,
+      "name": "The Hold",
+      "url": "https://open.spotify.com/track/4EaCU73q0uEhSLWYNe994D"
     },
     {
       "album": {

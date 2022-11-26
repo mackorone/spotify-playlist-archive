@@ -4,7 +4,7 @@
 
 > All jazz every Sunday, curated by Jermaine Dupri.
 
-32 songs - 2 hr 14 min - [published](https://open.spotify.com/playlist/66WeKwe1hMKbsitXdspXoC)
+35 songs - 2 hr 24 min - [published](https://open.spotify.com/playlist/66WeKwe1hMKbsitXdspXoC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,10 +26,13 @@
 | [I'm Alive](https://open.spotify.com/track/3nIgICd9QMd8B337TtDq14) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I'm Alive](https://open.spotify.com/album/1095r17w02EJWTmkYa4hgz) | 4:16 | 2020-10-30 |  |
 | [Misty Dawn](https://open.spotify.com/track/1jBD5HKZtB8iXUrXzEmjAT) | [B0nds](https://open.spotify.com/artist/7ocYXGSTBnpzj74JufFDWB) | [Phantom Versions](https://open.spotify.com/album/5jluEyoiWf0Z6pALjNSx6m) | 2:22 | 2020-10-30 |  |
 | [Monster](https://open.spotify.com/track/679HxTmmDmrbs8BIuZr26f) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Taller \(Expanded Edition\)](https://open.spotify.com/album/70eLZovtqw7sivCdvooBgk) | 4:00 | 2020-10-30 |  |
-| [No Mo'](https://open.spotify.com/track/4dHTtrTe3hajyFc7tywb8s) | [Tuzeint](https://open.spotify.com/artist/0iQ2RumqYpmrZVxHCR771X) | [No Mo'](https://open.spotify.com/album/3dT8UMIoAPXDDSh7nGyZtD) | 3:58 | 2020-10-30 |  |
+| [No Mo'](https://open.spotify.com/track/40ZFcO8L1huMBl7KitreLh) | [Tuzeint](https://open.spotify.com/artist/0iQ2RumqYpmrZVxHCR771X) | [No Mo'](https://open.spotify.com/album/16FnBU6gaf9ZYYIJjQ56w2) | 3:58 | 2020-10-30 |  |
+| [No Mo'](https://open.spotify.com/track/4dHTtrTe3hajyFc7tywb8s) | [Tuzeint](https://open.spotify.com/artist/0iQ2RumqYpmrZVxHCR771X) | [No Mo'](https://open.spotify.com/album/3dT8UMIoAPXDDSh7nGyZtD) | 3:58 | 2020-10-30 | 2022-10-18 |
+| [No Mo'](https://open.spotify.com/track/6qWPO0XWfwbxfk21yi6jBo) | [Tuzeint](https://open.spotify.com/artist/0iQ2RumqYpmrZVxHCR771X) | [23](https://open.spotify.com/album/2XcAyv3XkSsI9iNqRUfshI) | 3:58 | 2020-10-30 | 2022-11-13 |
 | [Nogent\-Le\-Rotrou](https://open.spotify.com/track/4mcqCUOXlXGNJ5U0bQWaoM) | [Lenny Pickett](https://open.spotify.com/artist/0z51oMD1IlExmnfVFJCnln), [John Hadfield](https://open.spotify.com/artist/1xRCMJJtUe7hOOSiZmgKeI) | [Heard by Others](https://open.spotify.com/album/2OWY8OyuumW3PEnbFwddcw) | 2:38 | 2020-10-30 |  |
 | [Pelota](https://open.spotify.com/track/39p88iz6Hzx5KN00QbLIdv) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Pelota](https://open.spotify.com/album/2zX0TMRVNyesrH6kciPrQZ) | 2:47 | 2020-10-30 | 2022-07-29 |
 | [Pelota](https://open.spotify.com/track/6FNdzxV9g4NaINrejBTPUi) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Mordechai](https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb) | 2:47 | 2020-10-30 |  |
+| [Pelota](https://open.spotify.com/track/6zfHMITd04oOvf9V01GtyD) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Pelota](https://open.spotify.com/album/6geGd2knOKZtFquPpxizBm) | 2:47 | 2020-10-30 | 2022-11-14 |
 | [prisner](https://open.spotify.com/track/1f5w6SKCFnvTf68De7JgMR) | [Julius Rodriguez](https://open.spotify.com/artist/50qPbhYR2iMZzD3iz0eBMF) | [butterfly](https://open.spotify.com/album/0heal5aAbfR3Y81QhAijRW) | 4:38 | 2020-10-30 |  |
 | [Prosecco](https://open.spotify.com/track/7pt3SQvLhjpDdHZYzejRfN) | [Th&o.](https://open.spotify.com/artist/0RYKFLXXxrpiF7e1zmCZLT) | [Prosecco](https://open.spotify.com/album/3yfnIuUhfGad79WWAv768J) | 3:41 | 2020-10-30 |  |
 | [Reposo](https://open.spotify.com/track/4rvDhlPppQfYkx5AJ3MON9) | [Menzel Mutzke](https://open.spotify.com/artist/5RpllGf1Yud5Czr5yHNQbJ) | [Spring](https://open.spotify.com/album/7xuXMXUWdtsSyNRg39CCmq) | 6:28 | 2020-10-30 |  |

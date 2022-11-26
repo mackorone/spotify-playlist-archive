@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/1UQo7foKwUUMjb9KnaBE3S.md) - [plain]
 
 > Forget the morning rush and kick off your day the right way \- music on, volume up, happy days!
 
-[Spotify Australia & New Zealand](https://open.spotify.com/user/spotifyaustralia) - 2,071 likes - 42 songs - 2 hr 33 min
+[Spotify Australia & New Zealand](https://open.spotify.com/user/spotifyaustralia) - 2,064 likes - 42 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Magic](https://open.spotify.com/track/27jdUE1EYDSXZqhjuNxLem) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Magic](https://open.spotify.com/album/4cCfFozyo6JC8acN8uIP7u) | 4:45 |
 | 2 | [Desire \- Gryffin Remix](https://open.spotify.com/track/2xlCyb1ZfFad6np6zx4hhw) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh) | [Desire \(Gryffin Remix\)](https://open.spotify.com/album/7oRxgNBZeMhA7O1eu8OHas) | 4:28 |
 | 3 | [Wild Eyes](https://open.spotify.com/track/6CZSePF4e6DJbraNkjgJ6d) | [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC), [RAVVEL](https://open.spotify.com/artist/0ONN78qj6zuTEsmal4ZJKG) | [Wild Eyes](https://open.spotify.com/album/1mL75lJ1xc6QiePLukGLKB) | 3:24 |
-| 4 | [How Deep is Your Love \(feat\. Disciples\)](https://open.spotify.com/track/22mek4IiqubGD9ctzxc69s) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB) | [How Deep is Your Love \(feat\. Disciples\)](https://open.spotify.com/album/3cG32DOXJoYlOHMmJIaQsm) | 3:32 |
+| 4 | [How Deep is Your Love](https://open.spotify.com/track/22mek4IiqubGD9ctzxc69s) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB) | [How Deep is Your Love](https://open.spotify.com/album/3cG32DOXJoYlOHMmJIaQsm) | 3:32 |
 | 5 | [Nobody Really Cares If You Don't Go To The Party](https://open.spotify.com/track/181eZlWeKQcF5GLhehiBkD) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Sometimes I Sit And Think, And Sometimes I Just Sit](https://open.spotify.com/album/5FpTrIArvT20xUSpGRXGLY) | 2:46 |
 | 6 | [FourFiveSeconds](https://open.spotify.com/track/5XzmZjXhMjDHr7ZfJ6DELQ) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [FourFiveSeconds](https://open.spotify.com/album/3W6dGZZiH1GxBiQWE5CjzK) | 3:08 |
 | 7 | [Can't Feel My Face](https://open.spotify.com/track/3X38ErFiKgzUxinBlhwuWm) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Can’t Feel My Face](https://open.spotify.com/album/6lYwnAawTuMeJS0fC64WyQ) | 3:35 |

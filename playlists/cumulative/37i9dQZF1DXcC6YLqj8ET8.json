@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": "2022-11-13",
       "duration_ms": 188722,
       "name": "ALMAZAT",
       "url": "https://open.spotify.com/track/1l18f7daLQymXuUy6fQD6W"
@@ -609,7 +609,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-16",
+      "date_removed": "2022-10-17",
       "duration_ms": 176491,
       "name": "Iridescent",
       "url": "https://open.spotify.com/track/6mPv3AEn0hX8BK1NjQlrIh"
@@ -1075,7 +1075,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-05",
+      "date_removed": "2022-11-12",
       "duration_ms": 180004,
       "name": "Outlaws",
       "url": "https://open.spotify.com/track/3BUFuwaRaRDc2GIKNVkwmI"
@@ -1184,6 +1184,28 @@
     },
     {
       "album": {
+        "name": "Roots",
+        "url": "https://open.spotify.com/album/6tFnOVf3erhYEsp5FyUwXH"
+      },
+      "artists": [
+        {
+          "name": "Mylky",
+          "url": "https://open.spotify.com/artist/1z4ZloK1NRO7W0Dp10G5k2"
+        },
+        {
+          "name": "MOHA",
+          "url": "https://open.spotify.com/artist/3BIZZwkg3BMGyVkwROZ5qK"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222517,
+      "name": "Roots",
+      "url": "https://open.spotify.com/track/5yzeZjp8PxHLaYA2T2Id2i"
+    },
+    {
+      "album": {
         "name": "Royal",
         "url": "https://open.spotify.com/album/4egsetbw3T8yB4eT39kHkY"
       },
@@ -1257,7 +1279,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 184800,
       "name": "Sargon",
       "url": "https://open.spotify.com/track/4BLFw6EbBWHvKe7uTokPe5"
@@ -1315,10 +1337,28 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 231817,
       "name": "Take Me Somewhere",
       "url": "https://open.spotify.com/track/2QrmjU8xddWZMy1OVYWEwa"
+    },
+    {
+      "album": {
+        "name": "Take Me Somewhere",
+        "url": "https://open.spotify.com/album/4DMUUXkTlx27BqVTk5tdlY"
+      },
+      "artists": [
+        {
+          "name": "Moseqar",
+          "url": "https://open.spotify.com/artist/5fHVckjK8GV0abZUYPt3kH"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231817,
+      "name": "Take Me Somewhere",
+      "url": "https://open.spotify.com/track/4oROs33LZUAcUrW7PDDPUB"
     },
     {
       "album": {

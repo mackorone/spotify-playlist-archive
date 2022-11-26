@@ -30,6 +30,24 @@
     },
     {
       "album": {
+        "name": "Acalma Minha Tempestade",
+        "url": "https://open.spotify.com/album/5HdMqXQBzHL0MaLhb1ybHU"
+      },
+      "artists": [
+        {
+          "name": "Banda Quinta Esta\u00e7\u00e3o - M\u00fasica Cat\u00f3lica",
+          "url": "https://open.spotify.com/artist/5i56yo2E5LSVIylJhTuE5l"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322512,
+      "name": "Acalma Minha Tempestade",
+      "url": "https://open.spotify.com/track/2PhnQYOU7iDcvTym7tzXwb"
+    },
+    {
+      "album": {
         "name": "Acalma o Meu Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/4znUClTL2uqwqfIZG1lVw9"
       },
@@ -211,7 +229,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 451614,
       "name": "Casa",
       "url": "https://open.spotify.com/track/7F04vyYX9Tsx9pDU8toRN2"
@@ -247,7 +265,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 265588,
       "name": "Chagas De Amor",
       "url": "https://open.spotify.com/track/6GsTFCk0ZRVu5JZcz4lTTW"
@@ -637,6 +655,10 @@
         {
           "name": "Fraternidade S\u00e3o Jo\u00e3o Paulo II",
           "url": "https://open.spotify.com/artist/3P2GN1O0yI6n84aDFOcvVt"
+        },
+        {
+          "name": "Ir. Samuel Maria",
+          "url": "https://open.spotify.com/artist/4kpNrXcguMoec72kBgTD5b"
         }
       ],
       "date_added": "2022-09-02",
@@ -725,7 +747,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 237354,
       "name": "Lugar Seguro",
       "url": "https://open.spotify.com/track/0KOccOeboK6L7mbh3y7sKc"
@@ -751,6 +773,28 @@
       "duration_ms": 284430,
       "name": "Maria Passa \u00e0 Frente (feat. Gusttavo Lima)",
       "url": "https://open.spotify.com/track/1iLunZvT65nyHSRNPNii8H"
+    },
+    {
+      "album": {
+        "name": "Maria Porta do C\u00e9u (Maria Passa na Frente)",
+        "url": "https://open.spotify.com/album/0CjTATUNtQXUPAI15486Yi"
+      },
+      "artists": [
+        {
+          "name": "Padre Rodrigo Natal",
+          "url": "https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07"
+        },
+        {
+          "name": "Aline Brasil",
+          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285030,
+      "name": "Maria Porta do C\u00e9u (Maria Passa na Frente)",
+      "url": "https://open.spotify.com/track/4kwoJY1r3HEz1J6k9Oqwcn"
     },
     {
       "album": {
@@ -787,6 +831,24 @@
       "duration_ms": 253323,
       "name": "Melhor e Mais Feliz (Kolkata)",
       "url": "https://open.spotify.com/track/17mbb4CG9cxAqexzRwQyzr"
+    },
+    {
+      "album": {
+        "name": "Melhor e Mais Feliz (Kolkata)",
+        "url": "https://open.spotify.com/album/6eO1dMo1F82Nky8dh0IbXP"
+      },
+      "artists": [
+        {
+          "name": "Celina Borges",
+          "url": "https://open.spotify.com/artist/7EEghT52d3DvpgqTxlMy6n"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 253323,
+      "name": "Melhor e Mais Feliz (Kolkata)",
+      "url": "https://open.spotify.com/track/6VFM6XUg0rUGUNhMyQYSuL"
     },
     {
       "album": {
@@ -1063,7 +1125,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 267058,
       "name": "Quando o Sono Bater",
       "url": "https://open.spotify.com/track/0CRdkmYRg8YAQS8W9b0tPA"
@@ -1169,6 +1231,28 @@
       "duration_ms": 218378,
       "name": "Retrovisor",
       "url": "https://open.spotify.com/track/79Vqir1xW9gpTkZQDe1bje"
+    },
+    {
+      "album": {
+        "name": "Romaria",
+        "url": "https://open.spotify.com/album/5PRPqe8TP4JPqklpWtVTne"
+      },
+      "artists": [
+        {
+          "name": "Daniel",
+          "url": "https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281402,
+      "name": "Romaria",
+      "url": "https://open.spotify.com/track/2qBAmHKdaXpxAm63nPTPQO"
     },
     {
       "album": {
@@ -1296,6 +1380,24 @@
     },
     {
       "album": {
+        "name": "Sobre o Tempo e o Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/02vMlXdOK7JMnhPvsCuCtV"
+      },
+      "artists": [
+        {
+          "name": "Padre F\u00e1bio De Melo",
+          "url": "https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291972,
+      "name": "Sobre o Tempo e o Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/7jCgbgUhJrBM7D0XSihUKr"
+    },
+    {
+      "album": {
         "name": "Somos do C\u00e9u",
         "url": "https://open.spotify.com/album/7eTV7OBnuVeDB47FXCSMmF"
       },
@@ -1415,6 +1517,10 @@
         {
           "name": "Fraternidade S\u00e3o Jo\u00e3o Paulo II",
           "url": "https://open.spotify.com/artist/3P2GN1O0yI6n84aDFOcvVt"
+        },
+        {
+          "name": "Magda Maria",
+          "url": "https://open.spotify.com/artist/24Tq5n6z5eRzl3CvbMv8tl"
         }
       ],
       "date_added": "2022-09-02",

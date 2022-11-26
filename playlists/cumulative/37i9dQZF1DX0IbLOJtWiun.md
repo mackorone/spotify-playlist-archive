@@ -4,7 +4,7 @@
 
 > In honor of the little teams who could
 
-29 songs - 1 hr 49 min - [published](https://open.spotify.com/playlist/21WlbNb5CFv2JRzSzbMrde)
+30 songs - 1 hr 52 min - [published](https://open.spotify.com/playlist/21WlbNb5CFv2JRzSzbMrde)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [It's a War](https://open.spotify.com/track/3UdxCgnOWXuVkOn1eZCSaI) | [New Medicine](https://open.spotify.com/artist/3driPpCh1JEUnPFKGyHXDr) | [Race You to the Bottom](https://open.spotify.com/album/13eNs79hvWC8FB96ekbAVy) | 3:33 | 2014-02-05 |  |
 | [Ladies And Gentlemen](https://open.spotify.com/track/48ncRBVLgiu8MY7O70VVw5) | [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO) | [Blood Stained Love Story](https://open.spotify.com/album/1JA2ZEDY4s6N08dbLCrbAz) | 3:37 | 2022-07-29 |  |
 | [Ladies And Gentlemen](https://open.spotify.com/track/5LOsouV5W95PYrZdhIhs7i) | [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO) | [Blood Stained Love Story](https://open.spotify.com/album/4CQCMU9oKAnbj2pK9ilBgp) | 3:37 | 2014-02-05 | 2022-07-29 |
+| [Ladies And Gentlemen](https://open.spotify.com/track/5mzMUnH2u7kNMyOUTWQyRr) | [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO) | [Ladies and Gentlemen Hit Pack](https://open.spotify.com/album/6h8tWcRJxztSEoTKrBDJXI) | 3:37 | 2022-11-12 | 2022-11-13 |
 | [Never Will I Break](https://open.spotify.com/track/0o5qhLa2kdOU9MwtvylGQP) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Seventeen Days \(International Version\)](https://open.spotify.com/album/5vGmRi8jMNCvmysQgBBhpx) | 3:50 | 2014-02-05 | 2022-07-29 |
 | [Never Will I Break](https://open.spotify.com/track/5LM6Xr25UY3dkPyRTKqZe4) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Seventeen Days](https://open.spotify.com/album/067UgzF9Nbn25xHpY2DJdG) | 3:50 | 2022-07-29 |  |
 | [Odd One \- Radio Edit](https://open.spotify.com/track/3LZyyHny3j4GUVsdGnhVcJ) | [Sick Puppies](https://open.spotify.com/artist/7qAcXJgt1PWnxwUgxMdyuk) | [Odd One](https://open.spotify.com/album/5TT6f2EM0jMJ8U4CSSlQuE) | 3:23 | 2014-02-05 |  |

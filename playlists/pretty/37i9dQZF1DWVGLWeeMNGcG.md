@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGLWeeMNGcG.md) - [plain]
 
 > From the past to the present, soul music has evolved into many different sounds and Motown has been at the forefront.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,138 likes - 31 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,818 likes - 31 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,11 +33,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGLWeeMNGcG.md) - [plain]
 | 23 | [Don't Look Any Further \- Single Version](https://open.spotify.com/track/2XZRe31lC2YDj9xhPSSIly) | [Dennis Edwards](https://open.spotify.com/artist/15Kzh2fTgAW2AGXcGD32Kp), [Siedah Garrett](https://open.spotify.com/artist/7EVlecngyrLHfQUqFMpwkT) | [Hitsville USA, The Motown Collection 1972\-1992](https://open.spotify.com/album/6nrCHETnE3ZWgwL0uYYWGP) | 4:04 |
 | 24 | [I Call Your Name \- 12" Version](https://open.spotify.com/track/1DEI0amdbd2i5hTs3fXtfs) | [Switch](https://open.spotify.com/artist/273A7R9wiZyELSDRw8HvIj) | [20th Century Masters: The Millennium Collection: Best of Switch](https://open.spotify.com/album/1p9kiUEliFgWtQwgBz2eQc) | 7:35 |
 | 25 | [I Like It](https://open.spotify.com/track/1c5KZhtOAOH7eFOlBekNhS) | [DeBarge](https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV) | [All This Love](https://open.spotify.com/album/0idikg3MAbtPVfX7wwfBBW) | 4:39 |
-| 26 | [The Love You Save](https://open.spotify.com/track/2dYdai0GywuwYq6blSwDBV) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [ABC](https://open.spotify.com/album/3btVhknqDeGAEd1Qj7lL57) | 3:01 |
+| 26 | [The Love You Save](https://open.spotify.com/track/39SyB2NWiRlMtcKrI2rr4k) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [ABC](https://open.spotify.com/album/2tukc7pH4qTuXcfaHjLIBc) | 2:59 |
 | 27 | [Dial My Heart](https://open.spotify.com/track/3qWBa4EpvVlnCvbNUYR4RP) | [The Boys](https://open.spotify.com/artist/4skTgMZnk2EvSwYMo9Eu73) | [Hitsville USA, The Motown Collection 1972\-1992](https://open.spotify.com/album/6nrCHETnE3ZWgwL0uYYWGP) | 4:23 |
 | 28 | [Motownphilly](https://open.spotify.com/track/3PqhQ5G24At0yDQuJBLZjT) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Cooleyhighharmony \- Expanded Edition](https://open.spotify.com/album/7JnLsJWNUf50DGZ5JhBgbO) | 3:55 |
 | 29 | [Turnin' Me Up](https://open.spotify.com/track/5MjAFPcmrR1DYCgZrXCN4d) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [In My Mind](https://open.spotify.com/album/15iSR05cslUeYgf2kuWDhu) | 4:29 |
 | 30 | [Angel](https://open.spotify.com/track/5zsqV7VwDz2gRnALIpTaP1) | [Stacy Barthe](https://open.spotify.com/artist/0yq6uHIfFks9yOURUuCITV), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [BEcoming](https://open.spotify.com/album/49eOVYOGoUjNjgyplB6JJF) | 3:05 |
 | 31 | [Don't Go](https://open.spotify.com/track/11ZPIe8MUvf8yXEWS1vNQZ) | [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY) | [Long Song Away](https://open.spotify.com/album/3Yluqlq1TaCXXTf52WskES) | 3:01 |
 
-Snapshot ID: `MTU2MTQ5NzA0NiwwMDAwMDAwMDllMjVhOTM4NmRiNTlhM2YwZWE3MzU4ZDc3N2IwY2Rl`
+Snapshot ID: `MTU2MTQ5NzA0NiwwMDAwMDAwMDgxYWY1NGI3Mjc2MmE1MGNhZjQ5ZDU2NGFkNGU2Nzcw`

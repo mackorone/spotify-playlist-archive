@@ -110,6 +110,42 @@
     },
     {
       "album": {
+        "name": "iTunes Original Session",
+        "url": "https://open.spotify.com/album/3IXuAt2cfriD3hTnCK5GdE"
+      },
+      "artists": [
+        {
+          "name": "Ani DiFranco",
+          "url": "https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 213733,
+      "name": "Both Hands",
+      "url": "https://open.spotify.com/track/2euBsj5xnafuZMJAP7LJdb"
+    },
+    {
+      "album": {
+        "name": "Ani DiFranco",
+        "url": "https://open.spotify.com/album/0831E4Cmgg52SYn6TEuw3K"
+      },
+      "artists": [
+        {
+          "name": "Ani DiFranco",
+          "url": "https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218800,
+      "name": "Both Hands",
+      "url": "https://open.spotify.com/track/1pQhpD3hn0IBcY2sDdjIdg"
+    },
+    {
+      "album": {
         "name": "Ani DiFranco",
         "url": "https://open.spotify.com/album/7cdszxdNxyYrL9wkPPpCcw"
       },
@@ -121,7 +157,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 218800,
       "name": "Both Hands",
       "url": "https://open.spotify.com/track/4FJsFAdLFGqrmuM74CIzhs"
@@ -245,10 +281,36 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 194746,
       "name": "Cineramascope",
       "url": "https://open.spotify.com/track/1XqQqv32Q9eUerJkpPNJNl"
+    },
+    {
+      "album": {
+        "name": "Ya-Ka-May (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7DgwPKmMoPrZylKAeQ50z6"
+      },
+      "artists": [
+        {
+          "name": "Galactic",
+          "url": "https://open.spotify.com/artist/4rMUtWPGbE6waga7PQO0oQ"
+        },
+        {
+          "name": "Trombone Shorty",
+          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
+        },
+        {
+          "name": "Corey Henry",
+          "url": "https://open.spotify.com/artist/4r6kJJH31uyMF4uWBvnOkh"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194746,
+      "name": "Cineramascope",
+      "url": "https://open.spotify.com/track/63dv2zKXPamiHHOKQBOzbU"
     },
     {
       "album": {

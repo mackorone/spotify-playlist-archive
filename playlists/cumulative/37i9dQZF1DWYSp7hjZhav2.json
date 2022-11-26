@@ -6,6 +6,28 @@
   "tracks": [
     {
       "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/3NxVZjPxy8UgDGC3DT541A"
+      },
+      "artists": [
+        {
+          "name": "Maceo Plex",
+          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
+        },
+        {
+          "name": "Oscar and the Wolf",
+          "url": "https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376448,
+      "name": "All Night (Garage Version)",
+      "url": "https://open.spotify.com/track/0pp5J5USoRAqy8gpkLQjPB"
+    },
+    {
+      "album": {
         "name": "Angel 1",
         "url": "https://open.spotify.com/album/0omfFup8BUBLpflIPlo4gz"
       },
@@ -51,6 +73,24 @@
     {
       "album": {
         "name": "Attention Seeker",
+        "url": "https://open.spotify.com/album/2J0DRM0gr0OFmeOJB064Ym"
+      },
+      "artists": [
+        {
+          "name": "Josh Gigante",
+          "url": "https://open.spotify.com/artist/7dcUWT1KmxjXieEnzFSjeH"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327880,
+      "name": "Attention Seeker",
+      "url": "https://open.spotify.com/track/0ikVe3oMaQ4jC5mVVf0zt7"
+    },
+    {
+      "album": {
+        "name": "Attention Seeker",
         "url": "https://open.spotify.com/album/0cZ439XqtgCU2pEMcqVHDa"
       },
       "artists": [
@@ -61,7 +101,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 327880,
       "name": "Attention Seeker",
       "url": "https://open.spotify.com/track/4qv3j6MwDoeQNVb2GL6JRy"
@@ -195,10 +235,28 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 355920,
       "name": "Cherry",
       "url": "https://open.spotify.com/track/1N1hwBXdWX6iHkcrNHpKar"
+    },
+    {
+      "album": {
+        "name": "Cherry",
+        "url": "https://open.spotify.com/album/0cmEfkFvLVgKhLIUgGhRG5"
+      },
+      "artists": [
+        {
+          "name": "Daphni",
+          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355920,
+      "name": "Cherry",
+      "url": "https://open.spotify.com/track/7qdthSAP02SdvLGisBEVtI"
     },
     {
       "album": {
@@ -225,6 +283,24 @@
       "duration_ms": 287579,
       "name": "Claire",
       "url": "https://open.spotify.com/track/54CipIOeFb1lZYFhHi26lo"
+    },
+    {
+      "album": {
+        "name": "Closed Doors",
+        "url": "https://open.spotify.com/album/3pH6GlrVlPuxjs5Aulu93A"
+      },
+      "artists": [
+        {
+          "name": "Final Request",
+          "url": "https://open.spotify.com/artist/3NVOeVf2oPolFbXeTjdb3x"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343683,
+      "name": "Closed Doors",
+      "url": "https://open.spotify.com/track/0UNbGjrR3WQgekwcTagh44"
     },
     {
       "album": {
@@ -765,10 +841,36 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 410450,
       "name": "No One Gets Left Behind - Konstantin Sibold Remix",
       "url": "https://open.spotify.com/track/3sUhSOFaSojQYP7qWL2g1d"
+    },
+    {
+      "album": {
+        "name": "Compost Black Label #105",
+        "url": "https://open.spotify.com/album/4YXE4PXOFSYjIFrsNIKLfX"
+      },
+      "artists": [
+        {
+          "name": "DJ Yellow",
+          "url": "https://open.spotify.com/artist/65d01n0bjvSlBMQTIAurTU"
+        },
+        {
+          "name": "Flowers and Sea Creatures",
+          "url": "https://open.spotify.com/artist/5FShZPKtOs19K5qcZHkw3Q"
+        },
+        {
+          "name": "Konstantin Sibold",
+          "url": "https://open.spotify.com/artist/5Ls75umF4lBOQVp3pJAlbW"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410450,
+      "name": "No One Gets Left Behind - Konstantin Sibold Remix",
+      "url": "https://open.spotify.com/track/4XyU0ejVdU766tdJ0EnIiP"
     },
     {
       "album": {
@@ -787,6 +889,24 @@
       "duration_ms": 282191,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/2LoMz4ATefJEQjtS03wDHu"
+    },
+    {
+      "album": {
+        "name": "en:close - The Sound Of The Jane",
+        "url": "https://open.spotify.com/album/3FElf806T53F7s77wSHTOA"
+      },
+      "artists": [
+        {
+          "name": "Marino Canal",
+          "url": "https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 282191,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/7AsIHUJdG9CN7KXmYXUoON"
     },
     {
       "album": {
@@ -823,10 +943,28 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 391782,
       "name": "Now Is",
       "url": "https://open.spotify.com/track/0wetZebEoeaOVQu9dse8Jk"
+    },
+    {
+      "album": {
+        "name": "Now Is",
+        "url": "https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz"
+      },
+      "artists": [
+        {
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391782,
+      "name": "Now Is",
+      "url": "https://open.spotify.com/track/5sM3ZjYmxQ2haTliX3ry5M"
     },
     {
       "album": {
@@ -937,6 +1075,28 @@
       "duration_ms": 368840,
       "name": "The Feeling - 2022 Remaster",
       "url": "https://open.spotify.com/track/4ZhVRSxT1JP0SWp4VF0EL9"
+    },
+    {
+      "album": {
+        "name": "The Sign",
+        "url": "https://open.spotify.com/album/1ayB1Y1h0ZNW9MECEA7QSb"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213495,
+      "name": "The Sign",
+      "url": "https://open.spotify.com/track/0hjRzBuGh9qGGzcbW7xK12"
     },
     {
       "album": {

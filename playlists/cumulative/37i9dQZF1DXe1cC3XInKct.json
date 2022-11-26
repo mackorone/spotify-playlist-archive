@@ -1271,6 +1271,24 @@
     {
       "album": {
         "name": "Interference",
+        "url": "https://open.spotify.com/album/4WaLea03pYWjTZxcRhICNz"
+      },
+      "artists": [
+        {
+          "name": "Manu Delago",
+          "url": "https://open.spotify.com/artist/08LrhaMKwKuGbB9XHBEjXF"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 232063,
+      "name": "Interference",
+      "url": "https://open.spotify.com/track/6uSkH1lA8HfcV4XXobZbXu"
+    },
+    {
+      "album": {
+        "name": "Interference",
         "url": "https://open.spotify.com/album/2zpv9JPZkZkbKJuOXA3jWE"
       },
       "artists": [
@@ -1443,10 +1461,28 @@
       ],
       "date_added": "2021-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 304813,
       "name": "L'architettura Del Mare",
       "url": "https://open.spotify.com/track/3bOEp5lWoea80fO9FDmb0c"
+    },
+    {
+      "album": {
+        "name": "Stasi",
+        "url": "https://open.spotify.com/album/2WN9w0YV9ystKje62lOdes"
+      },
+      "artists": [
+        {
+          "name": "Populous",
+          "url": "https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304813,
+      "name": "L'architettura Del Mare",
+      "url": "https://open.spotify.com/track/7KJx7Uu53see41UKVGfuZk"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5DYisaOw29.md) - [plain]
 
 > DJ Minx co\-curates a list of the very best songs from LGBTQQIA+ artists and allies Motor City has to offer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,045 likes - 36 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,046 likes - 36 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

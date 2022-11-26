@@ -4,7 +4,7 @@
 
 > The official playlist for We The People, streaming on Netflix July 4.
 
-15 songs - 47 min 35 sec - [published](https://open.spotify.com/playlist/0hqLrNKI4BHvNXyBbnpELJ)
+16 songs - 48 min 17 sec - [published](https://open.spotify.com/playlist/0hqLrNKI4BHvNXyBbnpELJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Stronger \(from the Netflix Series "We The People"\)](https://open.spotify.com/track/4x9zyiiywsVOji2Emg8UQg) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Stronger \(from the Netflix Series "We The People"\)](https://open.spotify.com/album/54CNr8PHdMQ8SMTiUyg47p) | 3:32 | 2022-03-25 |  |
 | [Taxes \(from the Netflix Series "We The People"\)](https://open.spotify.com/track/6BFFGEumCgaYqz1iWamCiK) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Taxes \(from the Netflix Series "We The People"\)](https://open.spotify.com/album/0UzK4J9pQCVJGHwX7P0oSO) | 3:22 | 2022-03-25 |  |
 | [The Star Spangled Banner \(feat\. The Florida Orchestra\) \- Live from Super Bowl XXV](https://open.spotify.com/track/1Fbz8vXRqyPSOmMvOxV6Dg) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Florida Orchestra](https://open.spotify.com/artist/2ol0baiyjfNxqzzNhXTykx) | [The Star Spangled Banner \(feat\. The Florida Orchestra\) \[Live from Super Bowl XXV\]](https://open.spotify.com/album/6zq2IZ4PN0A7uLRu5ON0Pr) | 2:14 | 2022-03-25 |  |
-| [Theme Music \(From the Netflix Series "We The People"\)](https://open.spotify.com/track/4UJjY2CrOyYVJvx8YrYz22) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Theme Music \(From the Netflix Series "We The People"\)](https://open.spotify.com/album/5c4CPUU4NP27VWDDRIIKMo) | 0:41 | 2022-03-25 |  |
+| [Theme Music \(From the Netflix Series "We The People"\)](https://open.spotify.com/track/4UJjY2CrOyYVJvx8YrYz22) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Theme Music \(From the Netflix Series "We The People"\)](https://open.spotify.com/album/5c4CPUU4NP27VWDDRIIKMo) | 0:41 | 2022-03-25 | 2022-11-17 |
+| [Theme Music \(From the Netflix Series "We The People"\)](https://open.spotify.com/track/6atr3EsaYiyerXDWeGAcwm) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Theme Music \(From the Netflix Series "We The People"\)](https://open.spotify.com/album/1PfPIyuwEbDKkCAdRgU143) | 0:41 | 2022-03-25 |  |
 | [These Are Your Rights \(from the Netflix Series "We The People"\)](https://open.spotify.com/track/2C4lxQtEjqP7RIYw8jDtIr) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [These Are Your Rights \(from the Netflix Series "We The People"\)](https://open.spotify.com/album/1B3I7YeOUvlUqBSTh70P3h) | 3:49 | 2022-03-25 |  |
 | [Wait for It](https://open.spotify.com/track/7EqpEBPOohgk7NnKvBGFWo) | [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN), [Original Broadway Cast of Hamilton](https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu) | [Hamilton \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) | 3:13 | 2022-03-25 |  |
 

@@ -144,6 +144,28 @@
     },
     {
       "album": {
+        "name": "M\u00fasica de recuerdos",
+        "url": "https://open.spotify.com/album/5vGZasVDxNJKLiOBMSR0ku"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Bob Brookmeyer",
+          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 418000,
+      "name": "A Nightingale Sang In Berkeley Square",
+      "url": "https://open.spotify.com/track/3S5rdzd10raLDAOli1HpR8"
+    },
+    {
+      "album": {
         "name": "More Stan Getz For Lovers",
         "url": "https://open.spotify.com/album/2x71Afmn0jKbcAMNXQGWRK"
       },
@@ -378,6 +400,24 @@
     },
     {
       "album": {
+        "name": "Summer night jazz",
+        "url": "https://open.spotify.com/album/0m0BH1FJ1AOCxatCJk4UZO"
+      },
+      "artists": [
+        {
+          "name": "Bob Berg",
+          "url": "https://open.spotify.com/artist/1gqL9JWgVW2O87KbYWPNbC"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 335333,
+      "name": "All The Way",
+      "url": "https://open.spotify.com/track/5DPXRMFC8Do29CLfSKv7BO"
+    },
+    {
+      "album": {
         "name": "Another Standard",
         "url": "https://open.spotify.com/album/5uQeyBHwBYFsxAFqyjjY9Z"
       },
@@ -567,10 +607,28 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 182653,
       "name": "Ballad for MC",
       "url": "https://open.spotify.com/track/79fmhV6NAraE4Xz3MIXnN4"
+    },
+    {
+      "album": {
+        "name": "Hodges: Front and Center, Vol. 1",
+        "url": "https://open.spotify.com/album/0RzxAxiOOJgClVialkdLmD"
+      },
+      "artists": [
+        {
+          "name": "Owen Broder",
+          "url": "https://open.spotify.com/artist/6IPqNkZOxgZ3lAubAiVtWy"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253106,
+      "name": "Ballade for the Very Sad and Very Tired Lotus Eaters",
+      "url": "https://open.spotify.com/track/7CxYBXp6hBFnnyYm7ivNCd"
     },
     {
       "album": {
@@ -735,8 +793,8 @@
           "url": "https://open.spotify.com/artist/0ZnimzyDZNsRbfHQqKnJw6"
         },
         {
-          "name": "Erik \u00d8rum von Spreckelsen",
-          "url": "https://open.spotify.com/artist/6Hiu0uIvp20zfquDA2HQW6"
+          "name": "Erik von Spreckelsen",
+          "url": "https://open.spotify.com/artist/4YWdRbOI5cjXB8Ffxf3efA"
         }
       ],
       "date_added": "2022-09-29",
@@ -1057,6 +1115,36 @@
       "duration_ms": 290133,
       "name": "De Tor Ahead",
       "url": "https://open.spotify.com/track/585SL1gwCrAsddD4iYFK2M"
+    },
+    {
+      "album": {
+        "name": "Deep in a Dream",
+        "url": "https://open.spotify.com/album/3kvH4Zr11zkfvUtwGS2Z7F"
+      },
+      "artists": [
+        {
+          "name": "Dmitry Baevsky",
+          "url": "https://open.spotify.com/artist/728obCMssc3nIbC1qyaWJq"
+        },
+        {
+          "name": "Clovis Nicolas",
+          "url": "https://open.spotify.com/artist/5JsYUdqyzTibf8j5w3PXKh"
+        },
+        {
+          "name": "Jason Brown",
+          "url": "https://open.spotify.com/artist/2MYIvlQlzAXcgIlS4qqflY"
+        },
+        {
+          "name": "St\u00e9phane Belmondo",
+          "url": "https://open.spotify.com/artist/7uHyUkVGYl24xpCzTGZlzQ"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340760,
+      "name": "Deep in a Dream",
+      "url": "https://open.spotify.com/track/069VcK8RjjzhZK3UT3A8ja"
     },
     {
       "album": {
@@ -1644,6 +1732,24 @@
     },
     {
       "album": {
+        "name": "Sleep Jazz",
+        "url": "https://open.spotify.com/album/5m5088R5xYBR9SbG7Wzf9b"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 257693,
+      "name": "Gary's Theme - Remastered",
+      "url": "https://open.spotify.com/track/7wSn7ypqDy4kJO5AS4eNwn"
+    },
+    {
+      "album": {
         "name": "Eternal",
         "url": "https://open.spotify.com/album/3na9FnPyBfh9MA9sR5uDEb"
       },
@@ -1913,6 +2019,24 @@
       "duration_ms": 306173,
       "name": "I Got It Bad And That Ain't Good",
       "url": "https://open.spotify.com/track/2kpaRWsZTE96rmw0NBfP0c"
+    },
+    {
+      "album": {
+        "name": "Calm Jazz",
+        "url": "https://open.spotify.com/album/37mbpCd2VMUeD7xMtU5T6u"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 306226,
+      "name": "I Got It Bad And That Ain't Good",
+      "url": "https://open.spotify.com/track/0oHGZrx8ZfxfU2QEOPqNig"
     },
     {
       "album": {
@@ -2258,6 +2382,24 @@
     },
     {
       "album": {
+        "name": "Smooth Summer Jazz",
+        "url": "https://open.spotify.com/album/2V1jWBewwIKXWAQJAm37qd"
+      },
+      "artists": [
+        {
+          "name": "Christian Scott aTunde Adjuah",
+          "url": "https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 374466,
+      "name": "Isadora",
+      "url": "https://open.spotify.com/track/03KmUnGK5okNrMU2hmUwF2"
+    },
+    {
+      "album": {
         "name": "Introducing Christian Scott",
         "url": "https://open.spotify.com/album/5dFfrmCWp4rYbggmhYhakl"
       },
@@ -2483,6 +2625,40 @@
       "duration_ms": 433786,
       "name": "La fin justifie les moyens",
       "url": "https://open.spotify.com/track/1zowWjoCroDC3WZYxbrlNQ"
+    },
+    {
+      "album": {
+        "name": "Here And Now",
+        "url": "https://open.spotify.com/album/4WZX9ItzvEW9HAw6PAJBtp"
+      },
+      "artists": [
+        {
+          "name": "Enj Society",
+          "url": "https://open.spotify.com/artist/5EKXN5TohOAPNKy3crMBI4"
+        },
+        {
+          "name": "Michael Erian",
+          "url": "https://open.spotify.com/artist/7JsCpL0GcN4OSJWVyuoK7m"
+        },
+        {
+          "name": "DANIEL N\u00d6SIG",
+          "url": "https://open.spotify.com/artist/5zNqt0nq9dYQVavAcfBXOh"
+        },
+        {
+          "name": "Milan Nikolic",
+          "url": "https://open.spotify.com/artist/3XwMZpo9e5gyDoYxaNmWqM"
+        },
+        {
+          "name": "Howard Curtis",
+          "url": "https://open.spotify.com/artist/0ol2v5NACVEO9ZRrL7AGIL"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368442,
+      "name": "Lakeside",
+      "url": "https://open.spotify.com/track/2I7beEwUv30n9ESSlGaxQi"
     },
     {
       "album": {
@@ -2864,6 +3040,28 @@
     },
     {
       "album": {
+        "name": "cosy autumn jazz",
+        "url": "https://open.spotify.com/album/1N8ifrvGovGJ063efZvpBR"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 321973,
+      "name": "My Little Brown Book",
+      "url": "https://open.spotify.com/track/0T6uiezTUBBMHTHVkMS6Jp"
+    },
+    {
+      "album": {
         "name": "Duke Ellington & John Coltrane",
         "url": "https://open.spotify.com/album/1rZ3fUUggXNiZ0UczEgHEq"
       },
@@ -2916,6 +3114,24 @@
     },
     {
       "album": {
+        "name": "Jazz For Study",
+        "url": "https://open.spotify.com/album/1eGF9aSPUS5RGi1J5DFeZr"
+      },
+      "artists": [
+        {
+          "name": "Gene Ammons",
+          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 252946,
+      "name": "My Romance - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/5GnogY3GFKXdaYHiTrrIbJ"
+    },
+    {
+      "album": {
         "name": "Boss Tenor",
         "url": "https://open.spotify.com/album/04l5TDoVZFNPvExGNdVjOj"
       },
@@ -2949,6 +3165,40 @@
       "duration_ms": 254026,
       "name": "My Romance - Rudy Van Gelder Remaster",
       "url": "https://open.spotify.com/track/3jaUMGTyi4XHBZpXpIWzo2"
+    },
+    {
+      "album": {
+        "name": "Shifting Ground",
+        "url": "https://open.spotify.com/album/5pGjNfdASiPjFltomAP3h6"
+      },
+      "artists": [
+        {
+          "name": "\u00d6rjan Hult\u00e9n Orion",
+          "url": "https://open.spotify.com/artist/3AFXTkGYYzu4TcOTVRpd0K"
+        },
+        {
+          "name": "\u00d6rjan Hult\u00e9n",
+          "url": "https://open.spotify.com/artist/7mN9uLkwc857ZRZVSxAY6R"
+        },
+        {
+          "name": "Torbj\u00f6rn Gulz",
+          "url": "https://open.spotify.com/artist/4dFMnksV445NMDiYjurHPz"
+        },
+        {
+          "name": "Filip Augustson",
+          "url": "https://open.spotify.com/artist/12WGIS6hNRIywU3FJSGOiB"
+        },
+        {
+          "name": "Peter Danemo",
+          "url": "https://open.spotify.com/artist/1slCkSS7B9eyPOzgG5lLE7"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162040,
+      "name": "Mystique No. 12",
+      "url": "https://open.spotify.com/track/5V66ktMtWl2d1hmr9mspKw"
     },
     {
       "album": {
@@ -3229,6 +3479,24 @@
       "duration_ms": 228403,
       "name": "On a Turquoise Cloud",
       "url": "https://open.spotify.com/track/1XrEY8nz2P4L9rVoq9MdXs"
+    },
+    {
+      "album": {
+        "name": "One Fine Day",
+        "url": "https://open.spotify.com/album/6ciCIBC5QF3o1j2wuAAXK5"
+      },
+      "artists": [
+        {
+          "name": "Jan Harbeck Quartet",
+          "url": "https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264573,
+      "name": "One Fine Day",
+      "url": "https://open.spotify.com/track/3wWnjO4iTLDqjIvlOVoOPX"
     },
     {
       "album": {
@@ -3974,6 +4242,24 @@
     },
     {
       "album": {
+        "name": "Jazz Saxophone Hits",
+        "url": "https://open.spotify.com/album/76FOFH68AWrdQiIUgjKi2T"
+      },
+      "artists": [
+        {
+          "name": "Jacky Terrasson",
+          "url": "https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 245066,
+      "name": "Sous Le Ciel De Paris",
+      "url": "https://open.spotify.com/track/1LKhJXWWJb8H6kYVMyprcW"
+    },
+    {
+      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/5z1LcLw1QCXDjtMy9WYT1p"
       },
@@ -4254,6 +4540,24 @@
     },
     {
       "album": {
+        "name": "Smooth Jazz Songs",
+        "url": "https://open.spotify.com/album/0mKS4DN5IKCH9LPcBPhzES"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Payton",
+          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 325400,
+      "name": "The Last Goodbye",
+      "url": "https://open.spotify.com/track/6asSD4BK2rC5sPGQaueX6N"
+    },
+    {
+      "album": {
         "name": "Gershwin For Lovers",
         "url": "https://open.spotify.com/album/1fmizidXDzZpCFuQU8l5LG"
       },
@@ -4528,6 +4832,28 @@
     },
     {
       "album": {
+        "name": "Live At Bird's Eye",
+        "url": "https://open.spotify.com/album/1HtSvdXnsTdiBaUtMjiWsH"
+      },
+      "artists": [
+        {
+          "name": "Harry Allen",
+          "url": "https://open.spotify.com/artist/7HEPzI1k3SXs2lJ3EixmjR"
+        },
+        {
+          "name": "Martin Sasse",
+          "url": "https://open.spotify.com/artist/4jmwrOP4JG1b5s7Jfzj5gT"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320356,
+      "name": "There's No Place For Me - Live",
+      "url": "https://open.spotify.com/track/48PojLpjonNmPElm0ntohW"
+    },
+    {
+      "album": {
         "name": "Through the Rain",
         "url": "https://open.spotify.com/album/6FtYUX8NSsxzxleDwqnQB8"
       },
@@ -4673,7 +4999,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 528946,
       "name": "Up Jumped Spring",
       "url": "https://open.spotify.com/track/4NAhOoe6Tp5SU4z0r7Nygx"
@@ -4721,7 +5047,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 360353,
       "name": "Uptown, Downtown",
       "url": "https://open.spotify.com/track/58TwX5CF328t6qDm9sgaLb"
@@ -4963,6 +5289,46 @@
       "duration_ms": 286893,
       "name": "Who Could Care?",
       "url": "https://open.spotify.com/track/1kBKndNFG5Um2DK87FYk1m"
+    },
+    {
+      "album": {
+        "name": "Jazz Sax Festival",
+        "url": "https://open.spotify.com/album/2RdHPLOMOLhGkCG7mTG7Io"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Bob Brookmeyer",
+          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 286893,
+      "name": "Who Could Care?",
+      "url": "https://open.spotify.com/track/2TdqT2IBlGFxP8c3AeoX4K"
+    },
+    {
+      "album": {
+        "name": "Reminiscing at Rudy's",
+        "url": "https://open.spotify.com/album/3Fh49WPCX4Xq6fbbSHw0b4"
+      },
+      "artists": [
+        {
+          "name": "Houston Person",
+          "url": "https://open.spotify.com/artist/16Xx0WCnAKOA9mwPPSUJmr"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252600,
+      "name": "Why Did I Choose You",
+      "url": "https://open.spotify.com/track/5KT7qJe8KOoafHAkUFWmRd"
     },
     {
       "album": {

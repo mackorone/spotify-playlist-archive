@@ -1,31 +1,15 @@
 {
   "description": "This is Grupo Niche. The essential tracks, all in one playlist.",
-  "num_followers": 99298,
+  "num_followers": 102313,
   "original_name": "This Is Grupo Niche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc3NTUzNzAsMDAwMDAwMDBiOTk0ZGY5ZDdhM2RkMzkzODA3MjE3ZDM0ZDg2YmQ1NQ==",
+  "snapshot_id": "Mjc4MjMxMDcsMDAwMDAwMDA1Y2NlMjAyMzYwYmNlNDNhZGMxMjY0ZDAwNmEwN2FiOA==",
   "tracks": [
     {
-      "added_at": "2022-10-09 13:30:37",
-      "album": {
-        "name": "20th Anniversary",
-        "url": "https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 354973,
-      "name": "Gotas De Lluvia",
-      "url": "https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx"
-    },
-    {
-      "added_at": "2022-10-09 13:30:37",
+      "added_at": "2022-11-25 14:27:19",
       "album": {
         "name": "40",
         "url": "https://open.spotify.com/album/1uF0bcswgdJBg2aq2r1HPk"
@@ -41,7 +25,23 @@
       "url": "https://open.spotify.com/track/1JXcB149QtbcIpDUA6YZOB"
     },
     {
-      "added_at": "2022-10-09 13:30:37",
+      "added_at": "2022-11-25 14:27:19",
+      "album": {
+        "name": "20th Anniversary",
+        "url": "https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 354973,
+      "name": "Gotas De Lluvia",
+      "url": "https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx"
+    },
+    {
+      "added_at": "2022-11-25 14:27:19",
       "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
@@ -57,39 +57,7 @@
       "url": "https://open.spotify.com/track/4ubwzNjqHGaZZ5k06PDx1H"
     },
     {
-      "added_at": "2022-10-09 13:30:37",
-      "album": {
-        "name": "S\u00f3lo Hits",
-        "url": "https://open.spotify.com/album/3lIJD63zpiEC1qgk0t1dZA"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 310360,
-      "name": "Cali Pachanguero",
-      "url": "https://open.spotify.com/track/1Z6fpTTJelPqdI4CwvnpK4"
-    },
-    {
-      "added_at": "2022-10-09 13:30:37",
-      "album": {
-        "name": "Siempre Una Aventura",
-        "url": "https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 284200,
-      "name": "La Magia De Tus Besos",
-      "url": "https://open.spotify.com/track/3nBQUOFwVZumOzzSV3h2sw"
-    },
-    {
-      "added_at": "2022-10-09 13:30:37",
+      "added_at": "2022-11-25 14:27:19",
       "album": {
         "name": "A Prueba De Fuego",
         "url": "https://open.spotify.com/album/6xuqBMxn6vZtsITA5555JU"
@@ -105,7 +73,39 @@
       "url": "https://open.spotify.com/track/1aBJ5ljG2GalxEl01vQn04"
     },
     {
-      "added_at": "2022-10-09 13:30:37",
+      "added_at": "2022-11-25 14:27:19",
+      "album": {
+        "name": "No Hay Quinto Malo",
+        "url": "https://open.spotify.com/album/1ibD6liWR6qqeNgQay95gJ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 310360,
+      "name": "Cali Pachanguero",
+      "url": "https://open.spotify.com/track/6GsxCYC9UaL0J8b8MVrRqX"
+    },
+    {
+      "added_at": "2022-11-25 14:27:19",
+      "album": {
+        "name": "Siempre Una Aventura",
+        "url": "https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 284200,
+      "name": "La Magia De Tus Besos",
+      "url": "https://open.spotify.com/track/3nBQUOFwVZumOzzSV3h2sw"
+    },
+    {
+      "added_at": "2022-11-25 14:27:19",
       "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
@@ -121,87 +121,7 @@
       "url": "https://open.spotify.com/track/26ucR33snMkRD6JExhoD6I"
     },
     {
-      "added_at": "2022-10-09 13:30:37",
-      "album": {
-        "name": "Imaginacion",
-        "url": "https://open.spotify.com/album/6wA6aH6FhwbhVxiCC7QfLs"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 292360,
-      "name": "Ni Como Amiga Ni Como Amante",
-      "url": "https://open.spotify.com/track/5Ua7mixHbm9UTAz3Zjpi2s"
-    },
-    {
-      "added_at": "2022-10-09 13:30:37",
-      "album": {
-        "name": "10 De Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/3SqhRQcCP4j8ge7ApdFcsk"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 280266,
-      "name": "La Canoa Ranchaa",
-      "url": "https://open.spotify.com/track/31B9xbxWwOBIV0JWT6nKAN"
-    },
-    {
-      "added_at": "2022-10-09 13:30:37",
-      "album": {
-        "name": "Mis Favoritas",
-        "url": "https://open.spotify.com/album/6JB01yiDfrkIeccoiVWb8G"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 334680,
-      "name": "Como Podre Disimular",
-      "url": "https://open.spotify.com/track/42PDNfuSrrF5nkDrvCPIeN"
-    },
-    {
-      "added_at": "2022-10-09 13:30:37",
-      "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 359226,
-      "name": "Nuestro Sue\u00f1o",
-      "url": "https://open.spotify.com/track/0g9d2hcBECm8eOuxG9w5kH"
-    },
-    {
-      "added_at": "2022-10-09 13:30:37",
-      "album": {
-        "name": "S\u00f3lo Hits",
-        "url": "https://open.spotify.com/album/3lIJD63zpiEC1qgk0t1dZA"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 309963,
-      "name": "Buenaventura y Caney",
-      "url": "https://open.spotify.com/track/0LJKDAqnM2Evn6HclhDWaG"
-    },
-    {
-      "added_at": "2022-10-09 13:30:37",
+      "added_at": "2022-11-25 14:27:19",
       "album": {
         "name": "Control Absoluto",
         "url": "https://open.spotify.com/album/02P7Yan85kfSzMZZR6CFx9"
@@ -217,10 +137,10 @@
       "url": "https://open.spotify.com/track/7pFSymHAQO021YmaKCVDoC"
     },
     {
-      "added_at": "2022-10-09 13:30:37",
+      "added_at": "2022-11-25 14:27:19",
       "album": {
-        "name": "Salsa Pura",
-        "url": "https://open.spotify.com/album/1MZBhouOFfLyS0oTo7jdEu"
+        "name": "10 De Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/3SqhRQcCP4j8ge7ApdFcsk"
       },
       "artists": [
         {
@@ -228,12 +148,28 @@
           "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 338325,
-      "name": "Ana Mil\u00e9",
-      "url": "https://open.spotify.com/track/2krik8Sc5sddD3yb3qkBkr"
+      "duration_ms": 280266,
+      "name": "La Canoa Ranchaa",
+      "url": "https://open.spotify.com/track/31B9xbxWwOBIV0JWT6nKAN"
     },
     {
-      "added_at": "2022-10-09 13:30:37",
+      "added_at": "2022-11-25 14:27:19",
+      "album": {
+        "name": "Imaginacion",
+        "url": "https://open.spotify.com/album/6wA6aH6FhwbhVxiCC7QfLs"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 292360,
+      "name": "Ni Como Amiga Ni Como Amante",
+      "url": "https://open.spotify.com/track/5Ua7mixHbm9UTAz3Zjpi2s"
+    },
+    {
+      "added_at": "2022-11-25 14:27:19",
       "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
@@ -244,15 +180,15 @@
           "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 354133,
-      "name": "Busca Por Dentro",
-      "url": "https://open.spotify.com/track/2uJyG7lhmZ8bFrbVVlc6AH"
+      "duration_ms": 359226,
+      "name": "Nuestro Sue\u00f1o",
+      "url": "https://open.spotify.com/track/0g9d2hcBECm8eOuxG9w5kH"
     },
     {
-      "added_at": "2022-10-09 13:30:37",
+      "added_at": "2022-11-25 14:27:19",
       "album": {
-        "name": "Una Aventura...La Historia",
-        "url": "https://open.spotify.com/album/4at8kygDVfKHWHIXox7uGs"
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/6JB01yiDfrkIeccoiVWb8G"
       },
       "artists": [
         {
@@ -260,12 +196,28 @@
           "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 322013,
-      "name": "Miserable",
-      "url": "https://open.spotify.com/track/0vVkF4i1QBigjfvRpaFamh"
+      "duration_ms": 334680,
+      "name": "Como Podre Disimular",
+      "url": "https://open.spotify.com/track/42PDNfuSrrF5nkDrvCPIeN"
     },
     {
-      "added_at": "2022-10-09 13:30:37",
+      "added_at": "2022-11-25 14:27:19",
+      "album": {
+        "name": "S\u00f3lo Hits",
+        "url": "https://open.spotify.com/album/3lIJD63zpiEC1qgk0t1dZA"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 309963,
+      "name": "Buenaventura y Caney",
+      "url": "https://open.spotify.com/track/0LJKDAqnM2Evn6HclhDWaG"
+    },
+    {
+      "added_at": "2022-11-25 14:27:19",
       "album": {
         "name": "Cosas Bonitas",
         "url": "https://open.spotify.com/album/3igVKSNDdHZkHVYGoAe3Yu"
@@ -281,23 +233,7 @@
       "url": "https://open.spotify.com/track/3zVf7Ssg55ioIak3B1aWSY"
     },
     {
-      "added_at": "2022-10-09 13:30:37",
-      "album": {
-        "name": "Siempre Una Aventura",
-        "url": "https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 296960,
-      "name": "Lo Bonito Y Lo Feo",
-      "url": "https://open.spotify.com/track/3RviPwWauFFD8FhcsTFGe7"
-    },
-    {
-      "added_at": "2022-10-09 13:30:37",
+      "added_at": "2022-11-25 14:27:19",
       "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
@@ -308,15 +244,15 @@
           "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 328133,
-      "name": "Se Pareci\u00f3 Tanto a Ti",
-      "url": "https://open.spotify.com/track/36CmpO4k6RCa410JCgn3Er"
+      "duration_ms": 354133,
+      "name": "Busca Por Dentro",
+      "url": "https://open.spotify.com/track/2uJyG7lhmZ8bFrbVVlc6AH"
     },
     {
-      "added_at": "2022-10-09 13:30:37",
+      "added_at": "2022-11-25 14:27:19",
       "album": {
-        "name": "A Prueba De Fuego",
-        "url": "https://open.spotify.com/album/6xuqBMxn6vZtsITA5555JU"
+        "name": "Una Aventura...La Historia",
+        "url": "https://open.spotify.com/album/4at8kygDVfKHWHIXox7uGs"
       },
       "artists": [
         {
@@ -324,236 +260,12 @@
           "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 309746,
-      "name": "Mec\u00e1nico",
-      "url": "https://open.spotify.com/track/2kyyYYbP0MMqK2kEjqn2Eg"
+      "duration_ms": 322013,
+      "name": "Miserable",
+      "url": "https://open.spotify.com/track/0vVkF4i1QBigjfvRpaFamh"
     },
     {
-      "added_at": "2022-10-09 13:30:37",
-      "album": {
-        "name": "40",
-        "url": "https://open.spotify.com/album/1uF0bcswgdJBg2aq2r1HPk"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 260865,
-      "name": "Canciones Viejas",
-      "url": "https://open.spotify.com/track/6d9S2m4IKhvGxaX89PuBRo"
-    },
-    {
-      "added_at": "2022-10-09 13:30:37",
-      "album": {
-        "name": "Soltero",
-        "url": "https://open.spotify.com/album/6U6e78fvesTnt6UKHTo685"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 260431,
-      "name": "Soltero",
-      "url": "https://open.spotify.com/track/77zrNNK2FcNwjtGXOsH4R2"
-    },
-    {
-      "added_at": "2022-10-09 13:30:37",
-      "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 302866,
-      "name": "Hagamos Lo Que Diga El Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5NR1LYf16E6K5t5AeSYP8P"
-    },
-    {
-      "added_at": "2022-10-09 13:30:37",
-      "album": {
-        "name": "Querer Es Poder",
-        "url": "https://open.spotify.com/album/4OlAW51jIyup0hLzK03fHQ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 338964,
-      "name": "Digo Yo",
-      "url": "https://open.spotify.com/track/1KSjHCJs38NNp3IuaL1EMU"
-    },
-    {
-      "added_at": "2022-10-09 13:30:37",
-      "album": {
-        "name": "Tierra de Mis Amores",
-        "url": "https://open.spotify.com/album/5QvA8zidWQiuyKwN0TljFR"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 241880,
-      "name": "El Coco",
-      "url": "https://open.spotify.com/track/0rwX9dB6ih5rxfifb8DZ8G"
-    },
-    {
-      "added_at": "2022-10-09 13:30:37",
-      "album": {
-        "name": "A Prueba De Fuego",
-        "url": "https://open.spotify.com/album/6xuqBMxn6vZtsITA5555JU"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 284640,
-      "name": "Solo Tu Sabes",
-      "url": "https://open.spotify.com/track/1O2N1rsU2Y1FR2nuYWjrYD"
-    },
-    {
-      "added_at": "2022-10-09 13:30:37",
-      "album": {
-        "name": "Huellas del Pasado",
-        "url": "https://open.spotify.com/album/0F3LBsvsqLGl5z4zwWtiI7"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 307410,
-      "name": "Es Mejor No Despertar",
-      "url": "https://open.spotify.com/track/3z6qlGYx2asqI6mQTTjjqZ"
-    },
-    {
-      "added_at": "2022-10-09 13:30:37",
-      "album": {
-        "name": "Cielo De Tambores",
-        "url": "https://open.spotify.com/album/3Ze1GGNL2Tw7v7BgnPlzNQ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 264733,
-      "name": "Debiera Olvidarla",
-      "url": "https://open.spotify.com/track/3usWzVoV5d2mmWlmhSxfaQ"
-    },
-    {
-      "added_at": "2022-10-09 13:30:37",
-      "album": {
-        "name": "Se\u00f1ales de Humo",
-        "url": "https://open.spotify.com/album/0xccneykPb7RZMB6UV5grn"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 315600,
-      "name": "Mujer de Novela",
-      "url": "https://open.spotify.com/track/0ql5YXad4srSRaBoSAnR9h"
-    },
-    {
-      "added_at": "2022-10-09 13:30:37",
-      "album": {
-        "name": "S\u00f3lo Hits",
-        "url": "https://open.spotify.com/album/3lIJD63zpiEC1qgk0t1dZA"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 360066,
-      "name": "Del Puente Pa' All\u00e1",
-      "url": "https://open.spotify.com/track/0vWfzFRMmU2mhTw7eipl9R"
-    },
-    {
-      "added_at": "2022-10-09 13:30:37",
-      "album": {
-        "name": "40",
-        "url": "https://open.spotify.com/album/1uF0bcswgdJBg2aq2r1HPk"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 257631,
-      "name": "B\u00fascame",
-      "url": "https://open.spotify.com/track/2nmBPPXKiyibca7MvnQYBG"
-    },
-    {
-      "added_at": "2022-10-09 13:30:37",
-      "album": {
-        "name": "Preparate",
-        "url": "https://open.spotify.com/album/0yW7ORJ2FD5SbLRe9gITDR"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 324826,
-      "name": "La Gota Fria",
-      "url": "https://open.spotify.com/track/6vBTEjh3IriR0Hb9tKV8iR"
-    },
-    {
-      "added_at": "2022-10-09 13:30:37",
-      "album": {
-        "name": "A Golpe de Folklore",
-        "url": "https://open.spotify.com/album/1GHV54c3dMwxLe3p2QgnWi"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 282536,
-      "name": "Han Cogido la Cosa",
-      "url": "https://open.spotify.com/track/1Y1OX9CuslwUPpq0dtjJxI"
-    },
-    {
-      "added_at": "2022-10-09 13:30:37",
-      "album": {
-        "name": "Tocando el Cielo Con las Manos",
-        "url": "https://open.spotify.com/album/7k4rlkbT1vjiKAvOUVWVIR"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 326410,
-      "name": "Un D\u00eda Despu\u00e9s",
-      "url": "https://open.spotify.com/track/3uciPSsKqqgG2HuLlUTEDm"
-    },
-    {
-      "added_at": "2022-10-09 13:30:37",
+      "added_at": "2022-11-25 14:27:19",
       "album": {
         "name": "Sutil y Contundente",
         "url": "https://open.spotify.com/album/3j3BnIkciRBXtoAvYll1Za"
@@ -569,199 +281,7 @@
       "url": "https://open.spotify.com/track/0O2j5GTz60A3K7dMZn4WQC"
     },
     {
-      "added_at": "2022-10-09 13:30:37",
-      "album": {
-        "name": "Rupelto Mena",
-        "url": "https://open.spotify.com/album/0kLLu0272oNXFZ1rYb9AN4"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 289573,
-      "name": "Rupelto Mena",
-      "url": "https://open.spotify.com/track/04O7puFBE8WsgZZL0vpwcf"
-    },
-    {
-      "added_at": "2022-10-09 13:30:37",
-      "album": {
-        "name": "Una Aventura...La Historia",
-        "url": "https://open.spotify.com/album/4at8kygDVfKHWHIXox7uGs"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 329493,
-      "name": "Etnia",
-      "url": "https://open.spotify.com/track/0EyxwFVgmB0uHK4QSM6lQz"
-    },
-    {
-      "added_at": "2022-10-09 13:30:37",
-      "album": {
-        "name": "Control Absoluto",
-        "url": "https://open.spotify.com/album/02P7Yan85kfSzMZZR6CFx9"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 337998,
-      "name": "Ganas",
-      "url": "https://open.spotify.com/track/2FyBP2WeAToXkjtulhFqqb"
-    },
-    {
-      "added_at": "2022-10-09 13:30:37",
-      "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/1mo4XJivw6RG7kwX9K37Hz"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 289341,
-      "name": "Falto un Pa\u00f1uelo",
-      "url": "https://open.spotify.com/track/5rjEJwL2hp7z7CmxUDPhcl"
-    },
-    {
-      "added_at": "2022-10-09 13:30:37",
-      "album": {
-        "name": "Imaginacion",
-        "url": "https://open.spotify.com/album/6wA6aH6FhwbhVxiCC7QfLs"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 327160,
-      "name": "Mi Machete",
-      "url": "https://open.spotify.com/track/1rZmyIJitURlw2d35xb9fn"
-    },
-    {
-      "added_at": "2022-10-09 13:30:37",
-      "album": {
-        "name": "A Prueba De Fuego",
-        "url": "https://open.spotify.com/album/6xuqBMxn6vZtsITA5555JU"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 282066,
-      "name": "A Prueba De Fuego",
-      "url": "https://open.spotify.com/track/3WIHqoLLeQ0m7zeJshfSpg"
-    },
-    {
-      "added_at": "2022-10-09 13:30:37",
-      "album": {
-        "name": "Llegando Al 100%",
-        "url": "https://open.spotify.com/album/3StG3Gf4htUHrDnUiC3eqT"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 323026,
-      "name": "No Tuve A Quien Decirle Amor",
-      "url": "https://open.spotify.com/track/0e1G4VKnhcVMsRM0bLtHAa"
-    },
-    {
-      "added_at": "2022-10-09 13:30:37",
-      "album": {
-        "name": "Niche Con Cuerdas",
-        "url": "https://open.spotify.com/album/67vT4qNa8WjuzO085IA8v6"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 317180,
-      "name": "Un Caso Social",
-      "url": "https://open.spotify.com/track/5irSOlA7zXrwkJHVPgyVZQ"
-    },
-    {
-      "added_at": "2022-10-09 13:30:37",
-      "album": {
-        "name": "Una Aventura...La Historia",
-        "url": "https://open.spotify.com/album/4at8kygDVfKHWHIXox7uGs"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 288120,
-      "name": "Un Alto en el Camino",
-      "url": "https://open.spotify.com/track/5F9fsLJOvnMEAgFNBuO4xu"
-    },
-    {
-      "added_at": "2022-10-09 13:30:37",
-      "album": {
-        "name": "La Danza de la Chancaca",
-        "url": "https://open.spotify.com/album/4LLCCwFbIYh4nZ5JOxRntj"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 246531,
-      "name": "Me Sabe a Peru",
-      "url": "https://open.spotify.com/track/00Hcq5S7P9lIJqioIW0Hxb"
-    },
-    {
-      "added_at": "2022-10-09 13:30:37",
-      "album": {
-        "name": "Sutil y Contundente",
-        "url": "https://open.spotify.com/album/3j3BnIkciRBXtoAvYll1Za"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 335986,
-      "name": "Mi Hijo y Yo",
-      "url": "https://open.spotify.com/track/0rOkqMmPpkInktks5tdAmn"
-    },
-    {
-      "added_at": "2022-10-09 13:30:37",
-      "album": {
-        "name": "S\u00f3lo Hits",
-        "url": "https://open.spotify.com/album/3lIJD63zpiEC1qgk0t1dZA"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 356640,
-      "name": "Solo un Cari\u00f1o",
-      "url": "https://open.spotify.com/track/45pBvCV1eaj4Pcw7Pi5plW"
-    },
-    {
-      "added_at": "2022-10-09 13:30:37",
+      "added_at": "2022-11-25 14:27:19",
       "album": {
         "name": "Tocando el Cielo Con las Manos",
         "url": "https://open.spotify.com/album/7lQolVdhEBRtv8Ayzhi2p4"
@@ -777,7 +297,375 @@
       "url": "https://open.spotify.com/track/4QhxN9hf5LWvYIqJcjwxQ6"
     },
     {
-      "added_at": "2022-10-09 13:30:37",
+      "added_at": "2022-11-25 14:27:19",
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 328133,
+      "name": "Se Pareci\u00f3 Tanto a Ti",
+      "url": "https://open.spotify.com/track/36CmpO4k6RCa410JCgn3Er"
+    },
+    {
+      "added_at": "2022-11-25 14:27:19",
+      "album": {
+        "name": "Soltero",
+        "url": "https://open.spotify.com/album/6U6e78fvesTnt6UKHTo685"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 260431,
+      "name": "Soltero",
+      "url": "https://open.spotify.com/track/77zrNNK2FcNwjtGXOsH4R2"
+    },
+    {
+      "added_at": "2022-11-25 14:27:19",
+      "album": {
+        "name": "Salsa Pura",
+        "url": "https://open.spotify.com/album/1MZBhouOFfLyS0oTo7jdEu"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 338325,
+      "name": "Ana Mil\u00e9",
+      "url": "https://open.spotify.com/track/2krik8Sc5sddD3yb3qkBkr"
+    },
+    {
+      "added_at": "2022-11-25 14:27:19",
+      "album": {
+        "name": "Querer Es Poder",
+        "url": "https://open.spotify.com/album/4OlAW51jIyup0hLzK03fHQ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 338964,
+      "name": "Digo Yo",
+      "url": "https://open.spotify.com/track/1KSjHCJs38NNp3IuaL1EMU"
+    },
+    {
+      "added_at": "2022-11-25 14:27:19",
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 302866,
+      "name": "Hagamos Lo Que Diga El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5NR1LYf16E6K5t5AeSYP8P"
+    },
+    {
+      "added_at": "2022-11-25 14:27:19",
+      "album": {
+        "name": "40",
+        "url": "https://open.spotify.com/album/1uF0bcswgdJBg2aq2r1HPk"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 260865,
+      "name": "Canciones Viejas",
+      "url": "https://open.spotify.com/track/6d9S2m4IKhvGxaX89PuBRo"
+    },
+    {
+      "added_at": "2022-11-25 14:27:19",
+      "album": {
+        "name": "Control Absoluto",
+        "url": "https://open.spotify.com/album/02P7Yan85kfSzMZZR6CFx9"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 337998,
+      "name": "Ganas",
+      "url": "https://open.spotify.com/track/2FyBP2WeAToXkjtulhFqqb"
+    },
+    {
+      "added_at": "2022-11-25 14:27:19",
+      "album": {
+        "name": "Una Aventura...La Historia",
+        "url": "https://open.spotify.com/album/4at8kygDVfKHWHIXox7uGs"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 288120,
+      "name": "Un Alto en el Camino",
+      "url": "https://open.spotify.com/track/5F9fsLJOvnMEAgFNBuO4xu"
+    },
+    {
+      "added_at": "2022-11-25 14:27:19",
+      "album": {
+        "name": "Siempre Una Aventura",
+        "url": "https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 296960,
+      "name": "Lo Bonito Y Lo Feo",
+      "url": "https://open.spotify.com/track/3RviPwWauFFD8FhcsTFGe7"
+    },
+    {
+      "added_at": "2022-11-25 14:27:19",
+      "album": {
+        "name": "40",
+        "url": "https://open.spotify.com/album/1uF0bcswgdJBg2aq2r1HPk"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 257631,
+      "name": "B\u00fascame",
+      "url": "https://open.spotify.com/track/2nmBPPXKiyibca7MvnQYBG"
+    },
+    {
+      "added_at": "2022-11-25 14:27:19",
+      "album": {
+        "name": "A Golpe de Folklore",
+        "url": "https://open.spotify.com/album/1GHV54c3dMwxLe3p2QgnWi"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 282536,
+      "name": "Han Cogido la Cosa",
+      "url": "https://open.spotify.com/track/1Y1OX9CuslwUPpq0dtjJxI"
+    },
+    {
+      "added_at": "2022-11-25 14:27:19",
+      "album": {
+        "name": "S\u00f3lo Hits",
+        "url": "https://open.spotify.com/album/3lIJD63zpiEC1qgk0t1dZA"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 360066,
+      "name": "Del Puente Pa' All\u00e1",
+      "url": "https://open.spotify.com/track/0vWfzFRMmU2mhTw7eipl9R"
+    },
+    {
+      "added_at": "2022-11-25 14:27:19",
+      "album": {
+        "name": "Tocando el Cielo Con las Manos",
+        "url": "https://open.spotify.com/album/7k4rlkbT1vjiKAvOUVWVIR"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 326410,
+      "name": "Un D\u00eda Despu\u00e9s",
+      "url": "https://open.spotify.com/track/3uciPSsKqqgG2HuLlUTEDm"
+    },
+    {
+      "added_at": "2022-11-25 14:27:19",
+      "album": {
+        "name": "Tierra de Mis Amores",
+        "url": "https://open.spotify.com/album/5QvA8zidWQiuyKwN0TljFR"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 241880,
+      "name": "El Coco",
+      "url": "https://open.spotify.com/track/0rwX9dB6ih5rxfifb8DZ8G"
+    },
+    {
+      "added_at": "2022-11-25 14:27:19",
+      "album": {
+        "name": "Huellas del Pasado",
+        "url": "https://open.spotify.com/album/0F3LBsvsqLGl5z4zwWtiI7"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 307410,
+      "name": "Es Mejor No Despertar",
+      "url": "https://open.spotify.com/track/3z6qlGYx2asqI6mQTTjjqZ"
+    },
+    {
+      "added_at": "2022-11-25 14:27:19",
+      "album": {
+        "name": "S\u00f3lo Hits",
+        "url": "https://open.spotify.com/album/3lIJD63zpiEC1qgk0t1dZA"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 331673,
+      "name": "Listo Medell\u00edn",
+      "url": "https://open.spotify.com/track/0irGrW0zW3BZdqWe518knd"
+    },
+    {
+      "added_at": "2022-11-25 14:27:19",
+      "album": {
+        "name": "A Prueba De Fuego",
+        "url": "https://open.spotify.com/album/6xuqBMxn6vZtsITA5555JU"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 309746,
+      "name": "Mec\u00e1nico",
+      "url": "https://open.spotify.com/track/2kyyYYbP0MMqK2kEjqn2Eg"
+    },
+    {
+      "added_at": "2022-11-25 14:27:19",
+      "album": {
+        "name": "Niche Con Cuerdas",
+        "url": "https://open.spotify.com/album/67vT4qNa8WjuzO085IA8v6"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 317180,
+      "name": "Un Caso Social",
+      "url": "https://open.spotify.com/track/5irSOlA7zXrwkJHVPgyVZQ"
+    },
+    {
+      "added_at": "2022-11-25 14:27:19",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/1mo4XJivw6RG7kwX9K37Hz"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 289341,
+      "name": "Falto un Pa\u00f1uelo",
+      "url": "https://open.spotify.com/track/5rjEJwL2hp7z7CmxUDPhcl"
+    },
+    {
+      "added_at": "2022-11-25 14:27:19",
+      "album": {
+        "name": "Rupelto Mena",
+        "url": "https://open.spotify.com/album/0kLLu0272oNXFZ1rYb9AN4"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 289573,
+      "name": "Rupelto Mena",
+      "url": "https://open.spotify.com/track/04O7puFBE8WsgZZL0vpwcf"
+    },
+    {
+      "added_at": "2022-11-25 14:27:19",
+      "album": {
+        "name": "Se\u00f1ales de Humo",
+        "url": "https://open.spotify.com/album/0xccneykPb7RZMB6UV5grn"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 315600,
+      "name": "Mujer de Novela",
+      "url": "https://open.spotify.com/track/0ql5YXad4srSRaBoSAnR9h"
+    },
+    {
+      "added_at": "2022-11-25 14:27:19",
+      "album": {
+        "name": "La Danza de la Chancaca",
+        "url": "https://open.spotify.com/album/4LLCCwFbIYh4nZ5JOxRntj"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 246531,
+      "name": "Me Sabe a Peru",
+      "url": "https://open.spotify.com/track/00Hcq5S7P9lIJqioIW0Hxb"
+    },
+    {
+      "added_at": "2022-11-25 14:27:19",
+      "album": {
+        "name": "A Prueba De Fuego",
+        "url": "https://open.spotify.com/album/6xuqBMxn6vZtsITA5555JU"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 282066,
+      "name": "A Prueba De Fuego",
+      "url": "https://open.spotify.com/track/3WIHqoLLeQ0m7zeJshfSpg"
+    },
+    {
+      "added_at": "2022-11-25 14:27:19",
       "album": {
         "name": "Siempre Una Aventura",
         "url": "https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF"
@@ -793,7 +681,119 @@
       "url": "https://open.spotify.com/track/4yEPR6IZcSBJQV1ITRLn4W"
     },
     {
-      "added_at": "2022-10-09 13:30:37",
+      "added_at": "2022-11-25 14:27:19",
+      "album": {
+        "name": "Una Aventura...La Historia",
+        "url": "https://open.spotify.com/album/4at8kygDVfKHWHIXox7uGs"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 329493,
+      "name": "Etnia",
+      "url": "https://open.spotify.com/track/0EyxwFVgmB0uHK4QSM6lQz"
+    },
+    {
+      "added_at": "2022-11-25 14:27:19",
+      "album": {
+        "name": "Cielo De Tambores",
+        "url": "https://open.spotify.com/album/3Ze1GGNL2Tw7v7BgnPlzNQ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 264733,
+      "name": "Debiera Olvidarla",
+      "url": "https://open.spotify.com/track/3usWzVoV5d2mmWlmhSxfaQ"
+    },
+    {
+      "added_at": "2022-11-25 14:27:19",
+      "album": {
+        "name": "Preparate",
+        "url": "https://open.spotify.com/album/0yW7ORJ2FD5SbLRe9gITDR"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 324826,
+      "name": "La Gota Fria",
+      "url": "https://open.spotify.com/track/6vBTEjh3IriR0Hb9tKV8iR"
+    },
+    {
+      "added_at": "2022-11-25 14:27:19",
+      "album": {
+        "name": "A Prueba De Fuego",
+        "url": "https://open.spotify.com/album/6xuqBMxn6vZtsITA5555JU"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 284640,
+      "name": "Solo Tu Sabes",
+      "url": "https://open.spotify.com/track/1O2N1rsU2Y1FR2nuYWjrYD"
+    },
+    {
+      "added_at": "2022-11-25 14:27:19",
+      "album": {
+        "name": "Imaginacion",
+        "url": "https://open.spotify.com/album/6wA6aH6FhwbhVxiCC7QfLs"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 327160,
+      "name": "Mi Machete",
+      "url": "https://open.spotify.com/track/1rZmyIJitURlw2d35xb9fn"
+    },
+    {
+      "added_at": "2022-11-25 14:27:19",
+      "album": {
+        "name": "Sutil y Contundente",
+        "url": "https://open.spotify.com/album/3j3BnIkciRBXtoAvYll1Za"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 335986,
+      "name": "Mi Hijo y Yo",
+      "url": "https://open.spotify.com/track/0rOkqMmPpkInktks5tdAmn"
+    },
+    {
+      "added_at": "2022-11-25 14:27:19",
+      "album": {
+        "name": "S\u00f3lo Hits",
+        "url": "https://open.spotify.com/album/3lIJD63zpiEC1qgk0t1dZA"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 356640,
+      "name": "Solo un Cari\u00f1o",
+      "url": "https://open.spotify.com/track/45pBvCV1eaj4Pcw7Pi5plW"
+    },
+    {
+      "added_at": "2022-11-25 14:27:19",
       "album": {
         "name": "Tapando el Hueco",
         "url": "https://open.spotify.com/album/1KGNkjkmfqZinRinf5h7pM"

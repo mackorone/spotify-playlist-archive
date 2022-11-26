@@ -26,6 +26,32 @@
     },
     {
       "album": {
+        "name": "Mother Nature",
+        "url": "https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188506,
+      "name": "Africa, One Of A Kind",
+      "url": "https://open.spotify.com/track/4N7jh6GDB3b8ZBTt336g44"
+    },
+    {
+      "album": {
         "name": "Moffou",
         "url": "https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX"
       },
@@ -113,7 +139,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 300466,
       "name": "C'Est Bon, C'Est Bon",
       "url": "https://open.spotify.com/track/3fXWcMsilfmKDVawJgnC83"
@@ -153,7 +179,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 514200,
       "name": "Deri",
       "url": "https://open.spotify.com/track/1PXSEtSOVpFV1znyEWeoXz"
@@ -287,7 +313,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 462160,
       "name": "Gaffou",
       "url": "https://open.spotify.com/track/3j1VHaFQzIf84NqQxWQTHD"
@@ -621,7 +647,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 475760,
       "name": "Lony",
       "url": "https://open.spotify.com/track/1jDI4xBByWxisEYzKXwJAn"
@@ -730,6 +756,28 @@
     },
     {
       "album": {
+        "name": "Bamako",
+        "url": "https://open.spotify.com/album/5h1nuuzwo2Usr6BTF5HMdw"
+      },
+      "artists": [
+        {
+          "name": "Simphiwe Dana",
+          "url": "https://open.spotify.com/artist/5l39d1wBRlqBC1qhXmYCuu"
+        },
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306666,
+      "name": "Masibambaneni",
+      "url": "https://open.spotify.com/track/1pX94ATR4DVBR9viWZAaTP"
+    },
+    {
+      "album": {
         "name": "Moffou",
         "url": "https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX"
       },
@@ -803,7 +851,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 303773,
       "name": "Ntoman",
       "url": "https://open.spotify.com/track/6AOlffSmJ6QNAzPV4SnmKQ"
@@ -911,7 +959,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 478373,
       "name": "Sanni Kagniba",
       "url": "https://open.spotify.com/track/5k6du3Uk5dj8IB5lPtGJgH"
@@ -987,7 +1035,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 590893,
       "name": "Soro (Afriki)",
       "url": "https://open.spotify.com/track/5EoPQlFF6eRdP04DmSc7iA"
@@ -1077,7 +1125,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 330240,
       "name": "Tono",
       "url": "https://open.spotify.com/track/6i3SKf6JxZoByA6anVcIhC"
@@ -1117,7 +1165,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 756933,
       "name": "Toura makan",
       "url": "https://open.spotify.com/track/3WPamMiMcULIj99i8U84JE"
@@ -1277,6 +1325,28 @@
       "duration_ms": 442880,
       "name": "Yamore",
       "url": "https://open.spotify.com/track/0sNn7mmOUEJEDAP2ohhQfp"
+    },
+    {
+      "album": {
+        "name": "Cesaria Evora &...",
+        "url": "https://open.spotify.com/album/465DTu20b6QFSOmMRDcyhP"
+      },
+      "artists": [
+        {
+          "name": "Ces\u00e1ria Evora",
+          "url": "https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn"
+        },
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223600,
+      "name": "Yamore - Radio Edit",
+      "url": "https://open.spotify.com/track/4bRHRO9c8Irm4WVp7foB2k"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0unpD0"

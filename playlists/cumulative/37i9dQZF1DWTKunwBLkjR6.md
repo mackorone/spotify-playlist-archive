@@ -4,10 +4,11 @@
 
 > Soundtrack your 2022 resolutions with Joie Chavis.
 
-41 songs - 2 hr 17 min - [published](https://open.spotify.com/playlist/6q3g2oihE3PU4hlnP5GhhO)
+42 songs - 2 hr 21 min - [published](https://open.spotify.com/playlist/6q3g2oihE3PU4hlnP5GhhO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [6 Foot 7 Foot](https://open.spotify.com/track/37vgv81PF6Nj2OaBei8kol) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Cory Gunz](https://open.spotify.com/artist/7BAaznGSsqcksud4R5ou5z) | [What's A Goon To A Goblin?](https://open.spotify.com/album/6Ul5LQRLkoRjXPij1prexp) | 4:08 | 2022-01-12 | 2022-11-14 |
 | [6 Foot 7 Foot](https://open.spotify.com/track/5Qy6a5KzM4XlRxsNcGYhgH) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Cory Gunz](https://open.spotify.com/artist/7BAaznGSsqcksud4R5ou5z) | [Tha Carter IV \(Complete Edition\)](https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp) | 4:08 | 2022-01-12 |  |
 | [6 Foot 7 Foot](https://open.spotify.com/track/6BCs8vxnGgKL9eMCOrG2wm) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Cory Gunz](https://open.spotify.com/artist/7BAaznGSsqcksud4R5ou5z) | [Tha Carter IV](https://open.spotify.com/album/1MGEMBqM3v8OUM2glv7MSx) | 4:08 | 2022-01-12 | 2022-09-23 |
 | [All Dat \(with Megan Thee Stallion\)](https://open.spotify.com/track/2eukAOMjUM4pxnOdIsUia9) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Time Served](https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv) | 2:23 | 2022-01-12 |  |

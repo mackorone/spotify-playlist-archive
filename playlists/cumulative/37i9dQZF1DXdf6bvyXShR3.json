@@ -689,10 +689,32 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 207775,
       "name": "La Danse Heureuse - Edit",
       "url": "https://open.spotify.com/track/4xBgLDhsLY14YB2rKd87p2"
+    },
+    {
+      "album": {
+        "name": "La Danse Heureuse (Edit)",
+        "url": "https://open.spotify.com/album/29E6YSbwlIx8nyI7wjFaJb"
+      },
+      "artists": [
+        {
+          "name": "Sound Support",
+          "url": "https://open.spotify.com/artist/4m837NfydgrNAAeZJHFpxn"
+        },
+        {
+          "name": "Lorenz Rhode",
+          "url": "https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207775,
+      "name": "La Danse Heureuse - Edit",
+      "url": "https://open.spotify.com/track/6oF0ZOAKaMxlRVYYHPGgiH"
     },
     {
       "album": {
@@ -795,7 +817,7 @@
     {
       "album": {
         "name": "Answers 2 Trouble Remixes",
-        "url": "https://open.spotify.com/album/3fAo7LNq9anrsZDxy9zXXn"
+        "url": "https://open.spotify.com/album/037auvS0B06iq59Jy1Ck22"
       },
       "artists": [
         {
@@ -814,6 +836,32 @@
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 325838,
+      "name": "Make It Stay - Boris Dlugosch Remix",
+      "url": "https://open.spotify.com/track/0E8YKGyZVKz5tkYftHRrWV"
+    },
+    {
+      "album": {
+        "name": "Answers 2 Trouble Remixes",
+        "url": "https://open.spotify.com/album/3fAo7LNq9anrsZDxy9zXXn"
+      },
+      "artists": [
+        {
+          "name": "Lauer",
+          "url": "https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4"
+        },
+        {
+          "name": "Dena",
+          "url": "https://open.spotify.com/artist/3qQ6mF4KyHTuOLcZjunAD4"
+        },
+        {
+          "name": "Boris Dlugosch",
+          "url": "https://open.spotify.com/artist/5mrwZhvK7J8K34cWeFG3ru"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-21",
       "duration_ms": 325838,
       "name": "Make It Stay - Boris Dlugosch Remix",
       "url": "https://open.spotify.com/track/4TbrpwvwOV2S2Wsu5K0C9z"
@@ -1378,7 +1426,7 @@
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 254656,
+      "duration_ms": 256488,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/1doFagKIgn2FOATKzUkbyi"
     },

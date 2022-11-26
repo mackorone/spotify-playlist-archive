@@ -566,6 +566,24 @@
     },
     {
       "album": {
+        "name": "First Invasion",
+        "url": "https://open.spotify.com/album/2owdMeDAA6ahK6OE7xSKD8"
+      },
+      "artists": [
+        {
+          "name": "INFINITE",
+          "url": "https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
+      "duration_ms": 186760,
+      "name": "Come Back Again",
+      "url": "https://open.spotify.com/track/5m6yaiNQ3VxeVmITSTBGvQ"
+    },
+    {
+      "album": {
         "name": "CRUSH",
         "url": "https://open.spotify.com/album/6Eqd0eQ19NHqkjI17ISfnu"
       },
@@ -685,7 +703,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 193587,
       "name": "Darling",
       "url": "https://open.spotify.com/track/4zM1okF68wbvOCmcyKDXkH"
@@ -1425,6 +1443,24 @@
     {
       "album": {
         "name": "BIGBANG Vol. 1",
+        "url": "https://open.spotify.com/album/3iTETURuyuUJByvQOLoydV"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 179586,
+      "name": "La La La",
+      "url": "https://open.spotify.com/track/62laTbC1RWyE3IhsNEbvE9"
+    },
+    {
+      "album": {
+        "name": "BIGBANG Vol. 1",
         "url": "https://open.spotify.com/album/4wvNjlQKwJv7L8FB6Y4ivZ"
       },
       "artists": [
@@ -1669,7 +1705,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-26",
+      "date_removed": "2022-11-12",
       "duration_ms": 203599,
       "name": "Magic",
       "url": "https://open.spotify.com/track/0VNQpkPh5l5ncQJCfWMCKZ"
@@ -1803,6 +1839,24 @@
     {
       "album": {
         "name": "Stand Up",
+        "url": "https://open.spotify.com/album/0NB6IIwQeRDzNFCU22LQto"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 232933,
+      "name": "My Heaven",
+      "url": "https://open.spotify.com/track/6M78En84cFYQxdYABC2fZO"
+    },
+    {
+      "album": {
+        "name": "Stand Up",
         "url": "https://open.spotify.com/album/0yz5ipZ8LshvZl1nxcUpBE"
       },
       "artists": [
@@ -1831,7 +1885,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 193026,
       "name": "My Name",
       "url": "https://open.spotify.com/track/15wqZsAVQLMEqqUCIbz6Fp"
@@ -2073,7 +2127,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-22",
       "duration_ms": 212306,
       "name": "Phone Number",
       "url": "https://open.spotify.com/track/7IErrQn4dPUf5ch0EQVEPp"
@@ -2235,7 +2289,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": null,
       "duration_ms": 282066,
       "name": "Rising Sun",
       "url": "https://open.spotify.com/track/4Ak5M4CD9XGkSUmW0loxAl"
@@ -2617,6 +2671,24 @@
       "duration_ms": 222413,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/5BGFEihEqSVBPWICqVnPIU"
+    },
+    {
+      "album": {
+        "name": "BIGBANG Special Edition",
+        "url": "https://open.spotify.com/album/2fpQB21ER6ETvnfADPdaHl"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 223786,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/2G8HyURZh9SBNuCzllz8Fu"
     },
     {
       "album": {

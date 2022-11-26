@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Love Train",
+        "url": "https://open.spotify.com/album/1nzZhYtbe8GFuZewHrba0h"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-24",
+      "duration_ms": 263026,
+      "name": "A Tender Lie",
+      "url": "https://open.spotify.com/track/01jqak2GWNeXgYfqzibrvr"
+    },
+    {
+      "album": {
         "name": "The Three Degrees",
         "url": "https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX"
       },
@@ -19,7 +37,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 259013,
       "name": "A Woman Needs A Good Man",
       "url": "https://open.spotify.com/track/6WOGuewVo54QJIGsXDxjo9"
@@ -167,7 +185,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 175680,
       "name": "Ebb Tide",
       "url": "https://open.spotify.com/track/75AkMaqnHPuRjjung1wpxw"
@@ -243,7 +261,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": "2022-11-17",
       "duration_ms": 293906,
       "name": "Gee Baby I'm Sorry / Take Good Care of Yourself / The Runner - Live Medley",
       "url": "https://open.spotify.com/track/1ZI40a48FO8d3OTUfAdYwn"
@@ -304,6 +322,24 @@
     },
     {
       "album": {
+        "name": "The Roulette Years",
+        "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-15",
+      "duration_ms": 180053,
+      "name": "Handle with Care",
+      "url": "https://open.spotify.com/track/1bqSqoMH7GA9pRJYHdAnNd"
+    },
+    {
+      "album": {
         "name": "International (Expanded Edition)",
         "url": "https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG"
       },
@@ -315,7 +351,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 234146,
       "name": "Here I Am",
       "url": "https://open.spotify.com/track/1aXaf5rZY2Me4cF9A8nREf"
@@ -333,7 +369,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 272065,
       "name": "Holding Back (Lounge Remix)",
       "url": "https://open.spotify.com/track/5eh1kdp9Go1FDHWxLGUGoU"
@@ -387,7 +423,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 237706,
       "name": "I Like Being A Woman",
       "url": "https://open.spotify.com/track/1J8gk2wlXNnsabMGUOutl3"
@@ -538,6 +574,24 @@
     },
     {
       "album": {
+        "name": "The Roulette Years",
+        "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 173240,
+      "name": "Lonely Town",
+      "url": "https://open.spotify.com/track/53McY1IpPZJ8v4HyOMi9vm"
+    },
+    {
+      "album": {
         "name": "The Best Of The Three Degrees: When Will I See You Again",
         "url": "https://open.spotify.com/album/0GO4Ee0UN5cyB1FnWPfOzz"
       },
@@ -661,7 +715,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-10-12",
       "duration_ms": 286480,
       "name": "Make It Easy On Yourself",
       "url": "https://open.spotify.com/track/1c011SkU9d45oKg0woHXr6"
@@ -683,6 +737,24 @@
       "duration_ms": 337946,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/2VJUb4hrOmugyRDMOJbkEK"
+    },
+    {
+      "album": {
+        "name": "The Roulette Years",
+        "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-15",
+      "duration_ms": 210826,
+      "name": "Melting Pot (Mono Version)",
+      "url": "https://open.spotify.com/track/5OAfwamRaDmPHynFb3vJtr"
     },
     {
       "album": {
@@ -740,6 +812,24 @@
     },
     {
       "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/40eFBdD9yoC9f6NbqlYZbp"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-31",
+      "duration_ms": 322173,
+      "name": "Red Light",
+      "url": "https://open.spotify.com/track/4brsAsm0UZztPTUuMZaLn4"
+    },
+    {
+      "album": {
         "name": "Maybe (Expanded Edition)",
         "url": "https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit"
       },
@@ -769,7 +859,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 234666,
       "name": "Somos Novios (It's Impossible)",
       "url": "https://open.spotify.com/track/0Q2mrQB3vbLN1cr22NOOf6"
@@ -805,7 +895,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-08",
+      "date_removed": null,
       "duration_ms": 202026,
       "name": "Sugar On Sunday",
       "url": "https://open.spotify.com/track/3SFlyxdYAEl9lSNIqdJEOY"
@@ -867,6 +957,24 @@
       "duration_ms": 205133,
       "name": "Take Good Care of Yourself",
       "url": "https://open.spotify.com/track/5fVF22MwGwAiRBbuMDJf1u"
+    },
+    {
+      "album": {
+        "name": "The Roulette Years",
+        "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-22",
+      "duration_ms": 202026,
+      "name": "The Grass (Will Sing for You) [Mono Version]",
+      "url": "https://open.spotify.com/track/5aBfIwwa1Vu2j625w4hYZ2"
     },
     {
       "album": {
@@ -960,6 +1068,24 @@
     },
     {
       "album": {
+        "name": "Uplifting Soul Classics",
+        "url": "https://open.spotify.com/album/0Th6Y9UZNY12UVHKlb8pwd"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159626,
+      "name": "There's So Much Love All Around Me",
+      "url": "https://open.spotify.com/track/3vOGzEPObrcf8EGtU7QBrY"
+    },
+    {
+      "album": {
         "name": "This Is the House",
         "url": "https://open.spotify.com/album/3g1eUz81JzJzie1W6CmbiM"
       },
@@ -971,10 +1097,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-10-13",
       "duration_ms": 221056,
       "name": "This Is the House",
       "url": "https://open.spotify.com/track/7EDI0Ak3KRTgcCZndJJYaG"
+    },
+    {
+      "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 221093,
+      "name": "Toast Of Love",
+      "url": "https://open.spotify.com/track/3fHPWPG4Ef7cI7vOZYTeJZ"
     },
     {
       "album": {
@@ -1091,7 +1235,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": "2022-11-17",
       "duration_ms": 481640,
       "name": "When Will I See You Again / Love Train - Live Medley",
       "url": "https://open.spotify.com/track/6s59Mq2boCny0IIFPinPxT"

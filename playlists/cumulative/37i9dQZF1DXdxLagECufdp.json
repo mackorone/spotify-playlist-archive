@@ -26,6 +26,28 @@
     },
     {
       "album": {
+        "name": "A Message To You Rudy (2022 Remaster)",
+        "url": "https://open.spotify.com/album/1TGytKsqjk7kydcKjdYSgI"
+      },
+      "artists": [
+        {
+          "name": "The Specials",
+          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+        },
+        {
+          "name": "Rico",
+          "url": "https://open.spotify.com/artist/6dpYy3pXIzMAVXicGk8Hrh"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 173951,
+      "name": "A Message To You Rudy - 2022 Remaster",
+      "url": "https://open.spotify.com/track/4hpoM4JIkPooSavSzPG8vk"
+    },
+    {
+      "album": {
         "name": "A Morir",
         "url": "https://open.spotify.com/album/7J2nwzs6Q5Hn0Wa1azNDru"
       },
@@ -157,7 +179,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": "2022-11-13",
       "duration_ms": 180517,
       "name": "Bailando Con las Farolas",
       "url": "https://open.spotify.com/track/6L50NoOHzsy4nqgqMjTU09"
@@ -299,7 +321,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 169040,
       "name": "Cantina Band",
       "url": "https://open.spotify.com/track/0SMP8lyL82dgrmahST61tc"
@@ -339,6 +361,24 @@
       "duration_ms": 224133,
       "name": "Chocolat (Swing)",
       "url": "https://open.spotify.com/track/42gaDDxNCrQMkri7sQcqGq"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209746,
+      "name": "Clandestina - Spotify Singles",
+      "url": "https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM"
     },
     {
       "album": {
@@ -443,7 +483,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": "2022-11-12",
       "duration_ms": 94966,
       "name": "Cuervos Main Theme",
       "url": "https://open.spotify.com/track/6mYdLLjsJHVkvZnn5C3FZe"
@@ -769,7 +809,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 184453,
       "name": "Gas Gas",
       "url": "https://open.spotify.com/track/19Ah7Hh26xdpgaXVv0sEJo"
@@ -917,7 +957,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 282468,
       "name": "Job",
       "url": "https://open.spotify.com/track/0yfzOlSCRVYg9oCZtBfM9X"
@@ -1637,7 +1677,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 397640,
       "name": "Obertura Maromera",
       "url": "https://open.spotify.com/track/0WwfofENuohHp0Jgbmu3fS"
@@ -1699,7 +1739,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": null,
       "duration_ms": 211616,
       "name": "Oh My Girl - French Version",
       "url": "https://open.spotify.com/track/6d2AYwXli3hQpnLyg1cfvl"
@@ -1917,7 +1957,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 285208,
       "name": "Pastelito De Pi\u00f1a",
       "url": "https://open.spotify.com/track/5vniH12f4XPDvlVJLtcOl7"
@@ -1953,7 +1993,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 207093,
       "name": "Pharoah's Dreams",
       "url": "https://open.spotify.com/track/3bfUusiINCCzv5YDfgtQEY"

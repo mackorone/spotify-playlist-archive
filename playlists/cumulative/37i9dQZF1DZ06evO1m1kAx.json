@@ -81,7 +81,7 @@
       ],
       "date_added": "2022-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 262986,
       "name": "African Queen",
       "url": "https://open.spotify.com/track/4hM9jLSD1lgswviJTkHsPP"
@@ -161,10 +161,32 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 254119,
       "name": "Appreciate It",
       "url": "https://open.spotify.com/track/2mOcoUaBhqKmnpBxTptCMl"
+    },
+    {
+      "album": {
+        "name": "Aristo",
+        "url": "https://open.spotify.com/album/0bsISehIzYZbf0rtAWWele"
+      },
+      "artists": [
+        {
+          "name": "Big A",
+          "url": "https://open.spotify.com/artist/1xndT3Oq2C8Qb8IMLM4JK6"
+        },
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Aristo",
+      "url": "https://open.spotify.com/track/6AAipw8PkaB8SlVBIikMpC"
     },
     {
       "album": {
@@ -384,6 +406,28 @@
     },
     {
       "album": {
+        "name": "Omo Baba Olowo: The Genesis",
+        "url": "https://open.spotify.com/album/5XNb9GHjQa9DA2tWeQzJxU"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-27",
+      "duration_ms": 219216,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/4O3m2HsquDGNrytYIRdj3B"
+    },
+    {
+      "album": {
         "name": "UNSTOPPABLE",
         "url": "https://open.spotify.com/album/40XgoMi52ckhRR5iBoYO07"
       },
@@ -509,7 +553,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": "2022-11-17",
       "duration_ms": 213969,
       "name": "Gobe",
       "url": "https://open.spotify.com/track/4WLIbmoXbHuxc6CNI8dD1V"
@@ -527,7 +571,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 234527,
       "name": "Hate What You Do To Me",
       "url": "https://open.spotify.com/track/2Axz6XkiHiahq0xFA9rttd"
@@ -633,7 +677,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 261560,
       "name": "I Dey Feel Like",
       "url": "https://open.spotify.com/track/1sJ1sWNt98WLmGBZDwY884"
@@ -655,7 +699,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 183103,
       "name": "I Dey Hear Everything (feat. Olamide)",
       "url": "https://open.spotify.com/track/2E69eYTx63PA0iIx4akLbZ"
@@ -767,7 +811,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 255738,
       "name": "In Your Eyes",
       "url": "https://open.spotify.com/track/310NSkclxmN4Npsc9Q2R3B"
@@ -899,7 +943,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 258272,
       "name": "Love and Ashes",
       "url": "https://open.spotify.com/track/3ZURg62F2dIG5wTANPatMC"
@@ -921,6 +965,36 @@
       "duration_ms": 196458,
       "name": "Love Me, Love Me",
       "url": "https://open.spotify.com/track/2Lf9sq98qQsJA0Z6JiICOO"
+    },
+    {
+      "album": {
+        "name": "Mad Over Hills",
+        "url": "https://open.spotify.com/album/7JRmK6GrPkncTiyNiA8TAH"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "Larry Gaaga",
+          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
+        },
+        {
+          "name": "The Kabal",
+          "url": "https://open.spotify.com/artist/160mj3ZS17jtuuVDbbaXcZ"
+        },
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        }
+      ],
+      "date_added": "2022-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154529,
+      "name": "Mad Over Hills",
+      "url": "https://open.spotify.com/track/4GmccSWLJaFOeoH8JATCHE"
     },
     {
       "album": {
@@ -957,10 +1031,32 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 265440,
       "name": "Nfana Ibaga (No Problem) - Remastered Version",
       "url": "https://open.spotify.com/track/7L3sQ9DSqZTmxkxZy7HMxe"
+    },
+    {
+      "album": {
+        "name": "Face 2 Face",
+        "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.",
+          "url": "https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266866,
+      "name": "Nfana Ibaga - No Problem",
+      "url": "https://open.spotify.com/track/4K7YdhjGizm9Qp1aNLGnRj"
     },
     {
       "album": {
@@ -979,7 +1075,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 271720,
       "name": "No Shakin",
       "url": "https://open.spotify.com/track/2I4PuUJLbVQUiGLnZpQRqV"
@@ -1019,7 +1115,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 187026,
       "name": "Officially Blind",
       "url": "https://open.spotify.com/track/1sEG4j3BPpYyT4hFBQ2M4N"
@@ -1081,7 +1177,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 274050,
       "name": "Omo T'oshan",
       "url": "https://open.spotify.com/track/2H2xlpNaV8eOzJZfa1eYkK"
@@ -1271,7 +1367,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-22",
       "duration_ms": 266490,
       "name": "Rainbow - Remix",
       "url": "https://open.spotify.com/track/3rosTvZ4MAbOAzNbbEp6Ha"
@@ -1333,7 +1429,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-30",
+      "date_removed": null,
       "duration_ms": 288920,
       "name": "Right Here",
       "url": "https://open.spotify.com/track/2L7I6WIUbzBMlepi4iVfXd"
@@ -1351,7 +1447,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 286320,
       "name": "Right Here - Remastered Version",
       "url": "https://open.spotify.com/track/6uDx4p5FwDZesqipK8inqo"
@@ -1373,7 +1469,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-12",
+      "date_removed": null,
       "duration_ms": 304632,
       "name": "Rise Up",
       "url": "https://open.spotify.com/track/52vFTpJ6BRTSMI9K9IwI4f"
@@ -1421,6 +1517,28 @@
       "duration_ms": 280880,
       "name": "See Me So",
       "url": "https://open.spotify.com/track/0RdXMS28fH63l6Is3eHZXM"
+    },
+    {
+      "album": {
+        "name": "Reality CHQ",
+        "url": "https://open.spotify.com/album/1CdeE7uNA1vP0BpManopra"
+      },
+      "artists": [
+        {
+          "name": "Sound Sultan",
+          "url": "https://open.spotify.com/artist/3ncebjXyf0NwYMutzK2DNg"
+        },
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205546,
+      "name": "Siren (feat. 2Baba)",
+      "url": "https://open.spotify.com/track/7rzy41sQdrUDQ0DLGPq0Np"
     },
     {
       "album": {
@@ -1501,7 +1619,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-09",
+      "date_removed": null,
       "duration_ms": 199650,
       "name": "Suffer Head",
       "url": "https://open.spotify.com/track/7pZV7r4cRLHoUe4UcVBkb9"
@@ -1545,6 +1663,28 @@
       "duration_ms": 184420,
       "name": "Target You (feat. Syemca)",
       "url": "https://open.spotify.com/track/3TnN2kZvjnZDsrS19beSqt"
+    },
+    {
+      "album": {
+        "name": "Face 2 Face",
+        "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.",
+          "url": "https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267240,
+      "name": "Thank U Lord",
+      "url": "https://open.spotify.com/track/3fP9OjGymyCALbaxrY0k6h"
     },
     {
       "album": {
@@ -1661,7 +1801,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 194835,
       "name": "Unconditional Love",
       "url": "https://open.spotify.com/track/7ENdCRpzE9QjClW84ug7YC"

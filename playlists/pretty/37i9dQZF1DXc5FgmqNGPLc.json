@@ -1,13 +1,33 @@
 {
   "description": "All live, all jazz. Cover: Erroll Garner",
-  "num_followers": 3526,
+  "num_followers": 4025,
   "original_name": "Jazz Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMDE3NGUwNzYzMTE3MjY2M2E5ODE0YmQxODkyY2Y1OTIz",
+  "snapshot_id": "MTY2NjMyNDg2MCwwMDAwMDAwMDMzNjBlOTRlMjFiNmI1OTRlN2RiMmJlZTlkZTE5YTA1",
   "tracks": [
+    {
+      "added_at": "2022-10-21 04:01:00",
+      "album": {
+        "name": "But Not For Me",
+        "url": "https://open.spotify.com/album/6hOKusm7cMOwYEDyccPull"
+      },
+      "artists": [
+        {
+          "name": "Fred Hersch",
+          "url": "https://open.spotify.com/artist/7w7DFqQNjVMW5NRvjM8JPx"
+        },
+        {
+          "name": "Esperanza Spalding",
+          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
+        }
+      ],
+      "duration_ms": 572093,
+      "name": "But Not for Me",
+      "url": "https://open.spotify.com/track/7rfKGmNCu9wK0dfShVcOzt"
+    },
     {
       "added_at": "2022-09-23 04:01:00",
       "album": {
@@ -57,6 +77,22 @@
       "url": "https://open.spotify.com/track/7xgveO0ftVy4VcKt6gCGBu"
     },
     {
+      "added_at": "2022-10-21 04:01:00",
+      "album": {
+        "name": "Searching in Grenoble : The 1978 Solo Piano Concert (Live)",
+        "url": "https://open.spotify.com/album/7LijvBcp5Kb23YTAVzbGzW"
+      },
+      "artists": [
+        {
+          "name": "Mal Waldron",
+          "url": "https://open.spotify.com/artist/4cP0bprQSFtZdI9QEKKZA3"
+        }
+      ],
+      "duration_ms": 411666,
+      "name": "All Alone (Live)",
+      "url": "https://open.spotify.com/track/6ixVVhh46Z9KPe335caMzm"
+    },
+    {
       "added_at": "2022-10-07 04:01:00",
       "album": {
         "name": "Live at Fabrik, Hamburg, 1987",
@@ -71,6 +107,22 @@
       "duration_ms": 612600,
       "name": "My One and Only Love - Live",
       "url": "https://open.spotify.com/track/6eO4Uudsw3t79uCQJFtrta"
+    },
+    {
+      "added_at": "2022-10-21 04:01:00",
+      "album": {
+        "name": "On a Clear Day: The Oscar Peterson Trio - Live in Zurich, 1971",
+        "url": "https://open.spotify.com/album/38lO4EZETq8mnXKHi1Nvkl"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 458560,
+      "name": "Where Do I Go from Here? - Live",
+      "url": "https://open.spotify.com/track/7nkambEulQpS321zfsrbiA"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -131,6 +183,22 @@
       "duration_ms": 405425,
       "name": "What It Is - Live at Theatre St-Denis, Montreal, Canada - July 7, 1983",
       "url": "https://open.spotify.com/track/3oNcGjNy8kWNrORs3LGfrL"
+    },
+    {
+      "added_at": "2022-10-21 04:01:00",
+      "album": {
+        "name": "live from the archives * BOOTLEG JUNE 15, 2000",
+        "url": "https://open.spotify.com/album/565nqUGfccsa9YwebyrFGo"
+      },
+      "artists": [
+        {
+          "name": "Brian Blade & The Fellowship Band",
+          "url": "https://open.spotify.com/artist/4gjFkHMQ2r46oQ7gsIQaCF"
+        }
+      ],
+      "duration_ms": 118414,
+      "name": "The Fall of Summer - Live",
+      "url": "https://open.spotify.com/track/27dBFWTZzH74nYlZOFm93r"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -588,17 +656,33 @@
       "added_at": "2022-02-18 05:02:00",
       "album": {
         "name": "Live at Summer House Studios",
-        "url": "https://open.spotify.com/album/2zn3Oz1HeBnwNFpJyPsvM7"
+        "url": "https://open.spotify.com/album/4Wc4t5L6sZWYsFJMWMoyVA"
       },
       "artists": [
         {
           "name": "Jackson Mathod",
           "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
+        },
+        {
+          "name": "Harry Pope",
+          "url": "https://open.spotify.com/artist/6HEABwt9mukkCM55kzNhV0"
+        },
+        {
+          "name": "Gabriele Pribetti",
+          "url": "https://open.spotify.com/artist/0nNQOmjPI4b8GRhZl9zT0d"
+        },
+        {
+          "name": "James Beckwith",
+          "url": "https://open.spotify.com/artist/2IKevWKWuhVBPlg7QtBDOd"
+        },
+        {
+          "name": "Eoin Walsh",
+          "url": "https://open.spotify.com/artist/3gniMRxzproN0u2zwwH6u4"
         }
       ],
       "duration_ms": 405750,
       "name": "India - Live at Summer House Studios, London, 2021",
-      "url": "https://open.spotify.com/track/5HnEmtj3yerLzKXiMaYGvi"
+      "url": "https://open.spotify.com/track/4QBOyvVJaQ9Zo7RIUce9Xr"
     },
     {
       "added_at": "2022-02-11 05:02:00",

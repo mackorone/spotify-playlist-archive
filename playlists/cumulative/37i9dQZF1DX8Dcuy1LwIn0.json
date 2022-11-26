@@ -84,6 +84,24 @@
     },
     {
       "album": {
+        "name": "Holy Water",
+        "url": "https://open.spotify.com/album/492SCiTDdUoP88PGEgInC2"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "date_added": "2018-04-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 187293,
+      "name": "Broken Things",
+      "url": "https://open.spotify.com/track/7dDrf1F5vcCix28ma0FheN"
+    },
+    {
+      "album": {
         "name": "2.0",
         "url": "https://open.spotify.com/album/3zQ2tkiQovQZ7DJ8grJspS"
       },
@@ -135,6 +153,24 @@
       "duration_ms": 196466,
       "name": "Chain Breaker",
       "url": "https://open.spotify.com/track/17GmwQ9Q3MTAz05OokmNNB"
+    },
+    {
+      "album": {
+        "name": "Risen: Songs That Celebrate the Epic Film",
+        "url": "https://open.spotify.com/album/6TQmjE5ifuro7LqEcqZVVW"
+      },
+      "artists": [
+        {
+          "name": "Sidewalk Prophets",
+          "url": "https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U"
+        }
+      ],
+      "date_added": "2018-04-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 255160,
+      "name": "Come To the Table",
+      "url": "https://open.spotify.com/track/0pKbVU98IGElhesgVyN14k"
     },
     {
       "album": {
@@ -211,6 +247,28 @@
       "duration_ms": 293331,
       "name": "Death Was Arrested",
       "url": "https://open.spotify.com/track/7eBybNhcjCylloMZT2QjQE"
+    },
+    {
+      "album": {
+        "name": "Nothing Ordinary",
+        "url": "https://open.spotify.com/album/6WRkJUXDC0TpsnMhVrJ6DM"
+      },
+      "artists": [
+        {
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+        },
+        {
+          "name": "Seth Condrey",
+          "url": "https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg"
+        }
+      ],
+      "date_added": "2018-04-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 295306,
+      "name": "Death Was Arrested (feat. Seth Condrey)",
+      "url": "https://open.spotify.com/track/0HQlTKXHDyr4qj6J2t7llc"
     },
     {
       "album": {
@@ -305,6 +363,24 @@
       "duration_ms": 255160,
       "name": "Even If",
       "url": "https://open.spotify.com/track/1zNkDuAsIpMf9vAMxeZ8Ih"
+    },
+    {
+      "album": {
+        "name": "Even If",
+        "url": "https://open.spotify.com/album/0pb4tvi4iY9YhmIkm5Ksuj"
+      },
+      "artists": [
+        {
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+        }
+      ],
+      "date_added": "2018-04-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 255160,
+      "name": "Even If",
+      "url": "https://open.spotify.com/track/2xsyZz4FHtIdcloVcKkbxA"
     },
     {
       "album": {
@@ -421,7 +497,7 @@
     {
       "album": {
         "name": "Matt Hammitt",
-        "url": "https://open.spotify.com/album/1m4ZQO0yP3TE26vKzbe7yP"
+        "url": "https://open.spotify.com/album/74QTqE5vbEGP0M6012yyos"
       },
       "artists": [
         {
@@ -432,6 +508,42 @@
       "date_added": "2018-04-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 252645,
+      "name": "He Always Wins",
+      "url": "https://open.spotify.com/track/2wVA4sr9udqGhPtm83M4EN"
+    },
+    {
+      "album": {
+        "name": "He Always Wins",
+        "url": "https://open.spotify.com/album/5dC9G7KHy2G6EGmaYha6hB"
+      },
+      "artists": [
+        {
+          "name": "Matt Hammitt",
+          "url": "https://open.spotify.com/artist/0o77vi5tCsW348tzvdjNPw"
+        }
+      ],
+      "date_added": "2018-04-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 252645,
+      "name": "He Always Wins",
+      "url": "https://open.spotify.com/track/32ZjfhQrPYgNCYrWDlPD8b"
+    },
+    {
+      "album": {
+        "name": "Matt Hammitt",
+        "url": "https://open.spotify.com/album/1m4ZQO0yP3TE26vKzbe7yP"
+      },
+      "artists": [
+        {
+          "name": "Matt Hammitt",
+          "url": "https://open.spotify.com/artist/0o77vi5tCsW348tzvdjNPw"
+        }
+      ],
+      "date_added": "2018-04-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
       "duration_ms": 252645,
       "name": "He Always Wins",
       "url": "https://open.spotify.com/track/5AWQavj61rTxCY9VNETLsr"
@@ -782,6 +894,28 @@
     },
     {
       "album": {
+        "name": "Peaceful Christian Music",
+        "url": "https://open.spotify.com/album/4s3KvYfOpHrxZmMwxs1CwY"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2018-04-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 486944,
+      "name": "Peace Be Still - Live",
+      "url": "https://open.spotify.com/track/69bvCzXZFU3TTeAVs4qjyB"
+    },
+    {
+      "album": {
         "name": "We Are Messengers",
         "url": "https://open.spotify.com/album/2SMUGFTP3NPh8eVDmUNDiL"
       },
@@ -1051,6 +1185,24 @@
       "duration_ms": 254262,
       "name": "The Gospel",
       "url": "https://open.spotify.com/track/1RCZprFcpw8u89pVBN90tv"
+    },
+    {
+      "album": {
+        "name": "No Matter What",
+        "url": "https://open.spotify.com/album/2xTLCFPgsnkscDd73jfq2V"
+      },
+      "artists": [
+        {
+          "name": "Ryan Stevenson",
+          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
+        }
+      ],
+      "date_added": "2018-04-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 254262,
+      "name": "The Gospel",
+      "url": "https://open.spotify.com/track/2PIAXoZUHI35k9q37Mc8W5"
     },
     {
       "album": {

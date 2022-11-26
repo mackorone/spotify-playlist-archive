@@ -4,14 +4,16 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4ZhCwBHDbutA33WuZDmYFP">Natali Noor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-34 songs - 1 hr 43 min - [published](https://open.spotify.com/playlist/6e5RDA21o0H1NgbL33DXgN)
+36 songs - 1 hr 50 min - [published](https://open.spotify.com/playlist/6e5RDA21o0H1NgbL33DXgN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Adios!](https://open.spotify.com/track/2B021Vp8zMjUFsVz26fkN0) | [High15](https://open.spotify.com/artist/1m7tgi2gXk1x4dxllqj53X) | [Adios!](https://open.spotify.com/album/7kGoSK4R4F5uPlacA5ZUQn) | 3:04 | 2022-05-29 |  |
 | [Arcade Games](https://open.spotify.com/track/2A9dSXcHoFBZb978YuVg5J) | [Saga Back](https://open.spotify.com/artist/6FRCzy12LTGeWQs6mKfX3R) | [all is not well in heaven](https://open.spotify.com/album/2P5RCDWAC8l1qmnrj6bch3) | 3:06 | 2022-05-29 |  |
-| [Avalanche](https://open.spotify.com/track/7iYuUOOv1knNy9SFF1PdQj) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Giver](https://open.spotify.com/album/1Ehf6Qpd3skQE5P8yV6U6l) | 3:08 | 2022-05-29 |  |
-| [body in my bed](https://open.spotify.com/track/35A0hbUL2Ey3mG2TbMHo0t) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [new skin](https://open.spotify.com/album/2b0dLMRLdninQEdHJpwTiA) | 3:23 | 2022-05-29 |  |
+| [Avalanche](https://open.spotify.com/track/4GavDWsnBIP0Q9GfQkhvyD) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Giver](https://open.spotify.com/album/01cbm7RUoB7Xs9A4lrzPyd) | 3:08 | 2022-10-13 |  |
+| [Avalanche](https://open.spotify.com/track/7iYuUOOv1knNy9SFF1PdQj) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Giver](https://open.spotify.com/album/1Ehf6Qpd3skQE5P8yV6U6l) | 3:08 | 2022-05-29 | 2022-10-14 |
+| [body in my bed](https://open.spotify.com/track/35A0hbUL2Ey3mG2TbMHo0t) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [new skin](https://open.spotify.com/album/2b0dLMRLdninQEdHJpwTiA) | 3:23 | 2022-05-29 | 2022-10-14 |
+| [body in my bed](https://open.spotify.com/track/6fZv7ZDeC4pvtcbonRKqhN) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [new skin](https://open.spotify.com/album/79IXyvIKV3yo80B9fpLCux) | 3:23 | 2022-10-13 |  |
 | [Boiling](https://open.spotify.com/track/05gFzegb6BktSf5irqDcyT) | [Klahr](https://open.spotify.com/artist/3OITAuZNhf2Z9DySHJsCKD), [Galavant](https://open.spotify.com/artist/7CsSec3NzFx2UipwF1APhu), [Natali Noor](https://open.spotify.com/artist/4pbDqb4qTvdtUTeJViSQ0k) | [Boiling](https://open.spotify.com/album/3UF5pFIUg2oNNIkkekPEik) | 3:39 | 2022-05-29 |  |
 | [Bother Me](https://open.spotify.com/track/08vsue6MN8pSTrroi4IhFx) | [Johnning](https://open.spotify.com/artist/1yPdXrLhRc50YbwiwCr1uN) | [Bother Me](https://open.spotify.com/album/1iNpleGrkaShoSW2VLJt7C) | 3:03 | 2022-05-29 |  |
 | [Cold Rush](https://open.spotify.com/track/0sfbJ6Eeq70PNGk4Rm8ns7) | [GOLDZBROUGH](https://open.spotify.com/artist/6vEDfcV5oesdmJzfTlidkz), [Bahareh](https://open.spotify.com/artist/3RbRHpD8ELMTsuEWGsUbiy) | [Cold Rush](https://open.spotify.com/album/2AVOS3JCamykZmbs5uQTUF) | 2:57 | 2022-05-29 |  |

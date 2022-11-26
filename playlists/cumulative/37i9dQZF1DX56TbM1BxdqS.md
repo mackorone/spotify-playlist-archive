@@ -4,7 +4,7 @@
 
 > Remembering the showman Raj Kapoor with these hits.
 
-53 songs - 4 hr 1 min - [published](https://open.spotify.com/playlist/0L3BbuSHnIISz4vjwpwOke)
+54 songs - 4 hr 7 min - [published](https://open.spotify.com/playlist/0L3BbuSHnIISz4vjwpwOke)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Meri Jaan Kuchh Bhi Kijiye](https://open.spotify.com/track/6KNWdlTMeIioFGveVpFg1F) | [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Chhalia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6hXwMYiWfWp8366OaY3k01) | 3:17 | 2022-03-10 |  |
 | [Mud Mud Ke Na Dekh Mud Mud Ke](https://open.spotify.com/track/73n7984mXabbALDfIHqigk) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [Manna Dey](https://open.spotify.com/artist/4kcoiVXIxvUoLUoHY1vJYU) | [Shree 420 \(The Bollywood Soundtrack\)](https://open.spotify.com/album/2qYNTXmExmsvkL7m2jvRl5) | 5:47 | 2022-03-10 | 2022-07-29 |
 | [Mud Mud Ke Na Dekh Mud Mud Ke](https://open.spotify.com/track/3XZbOorK2MmSTLak5LJS0s) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [Manna Dey](https://open.spotify.com/artist/4kcoiVXIxvUoLUoHY1vJYU) | [Shree 420 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/06IaiBtDfA82datti9r8da) | 5:49 | 2022-03-10 |  |
+| [Mud Mud Ke Na Dekh Mud Mud Ke](https://open.spotify.com/track/7msdM0ia6JArLeIhVeVZR4) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [Manna Dey](https://open.spotify.com/artist/4kcoiVXIxvUoLUoHY1vJYU) | [One Man Many Roles \- Raj Kapoor](https://open.spotify.com/album/0RWJxWBJLFd29kHLaHwm8W) | 5:49 | 2022-03-10 | 2022-11-13 |
 | [Nee Baliye Rut Hai Bahar Ki](https://open.spotify.com/track/6L0SroMsE51181IhiAr64I) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e) | [Kanhaiya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/35AMPX9WeDUquMcGl9rflP) | 5:04 | 2022-03-10 |  |
 | [O Mehbooba](https://open.spotify.com/track/3KJC2ViXdra1hMZH3lysGo) | [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e) | [Sangam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/05FkcIZOaGV3YBpiANIehV) | 5:04 | 2022-03-10 |  |
 | [O Mere Sanam](https://open.spotify.com/track/49AuPmipQ4GlXLDYxCqINv) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e) | [Sangam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/05FkcIZOaGV3YBpiANIehV) | 4:28 | 2022-03-10 |  |

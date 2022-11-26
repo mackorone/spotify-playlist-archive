@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXTfdxNcD5sS.md) - [plain]
 
 > We found dancing\. Listen to a selection from <a href="https://www.thewarehouseproject.com/ticketlist">The Warehouse Project</a> to celebrate their return to Manchester this month!
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,009 likes - 50 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,894 likes - 50 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXTfdxNcD5sS.md) - [plain]
 | 19 | [For You](https://open.spotify.com/track/2MRo59IW5O13nu0BIBqhW0) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [For You](https://open.spotify.com/album/5Gna2Z9JhoRjYR2CmIBB2r) | 5:37 |
 | 20 | [Open Eye Signal](https://open.spotify.com/track/2e0jipRELfRzWVcKCNdyqc) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Immunity](https://open.spotify.com/album/0Zpht5ek9rMGsGB5IYPjlz) | 7:48 |
 | 21 | [Perth](https://open.spotify.com/track/6YT4QYWC7EGcUedm2UGNla) | [Kink](https://open.spotify.com/artist/6yCdWsTDt4Dmb5GMZd5QLb) | [Perth](https://open.spotify.com/album/3tEw4xxPRSOospQ0fsO9Is) | 5:22 |
-| 22 | [Vamp](https://open.spotify.com/track/2PbbWaQk1ex4pC9Gi1cAXR) | [Outlander](https://open.spotify.com/artist/69FzSIj6dc6Zb6QVChhMoi) | [Vamp](https://open.spotify.com/album/0S8M6XLtjsckE15KVXOxSZ) | 5:07 |
+| 22 | [Vamp](https://open.spotify.com/track/2PbbWaQk1ex4pC9Gi1cAXR) | [Outlander](https://open.spotify.com/artist/41XIysCCBLjEp8F9SH5mAP) | [Vamp](https://open.spotify.com/album/0S8M6XLtjsckE15KVXOxSZ) | 5:07 |
 | 23 | [Gosh](https://open.spotify.com/track/4mlZurguzNJior9siewA8C) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 4:51 |
 | 24 | [Never Grow Old \- Re\-Plant](https://open.spotify.com/track/4ylwhtHT57G5VbpVMyUIBR) | [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [Never Grow Old \(Re\-Plant\) / Phobia \(Re\-Plant\)](https://open.spotify.com/album/7nIB2qmP6H7svgk8bIaQC2) | 7:19 |
 | 25 | [Vortex 150](https://open.spotify.com/track/6kK7Ds7xnSEFjABhMadbNq) | [Special Request](https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H) | [Vortex](https://open.spotify.com/album/2wloRNpWkvTJyFJTyexRwh) | 5:07 |

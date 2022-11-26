@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-12",
       "duration_ms": 202907,
       "name": "1234",
       "url": "https://open.spotify.com/track/19T79JA6PgqCbYOYZ3e1bV"
@@ -223,6 +223,24 @@
     {
       "album": {
         "name": "Throttle Junkies",
+        "url": "https://open.spotify.com/album/3cQfgNWRUTa3vCimkzVIr0"
+      },
+      "artists": [
+        {
+          "name": "Soil",
+          "url": "https://open.spotify.com/artist/4PoYwGOztIrPpBfRIlMSxP"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 159800,
+      "name": "Black Betty",
+      "url": "https://open.spotify.com/track/10AveWzlmt1Dkh9mhsV2KZ"
+    },
+    {
+      "album": {
+        "name": "Throttle Junkies",
         "url": "https://open.spotify.com/album/6g4J1iyCcPffhuB5Ei4srs"
       },
       "artists": [
@@ -277,6 +295,24 @@
       "duration_ms": 247373,
       "name": "Black Wedding (feat. Rob Halford)",
       "url": "https://open.spotify.com/track/3zUwwYcmob803s2Bkck8GY"
+    },
+    {
+      "album": {
+        "name": "Minutes to Midnight (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4JtIVJRA342O0YoAchen5Q"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 164457,
+      "name": "Bleed It Out",
+      "url": "https://open.spotify.com/track/04klL0e4Den6eZV9nitQWT"
     },
     {
       "album": {
@@ -489,7 +525,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 191440,
       "name": "Breathe Again",
       "url": "https://open.spotify.com/track/1NkHDIbGjHqFjZJrdHjQGZ"
@@ -507,7 +543,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-16",
+      "date_removed": "2022-11-13",
       "duration_ms": 200310,
       "name": "Broken",
       "url": "https://open.spotify.com/track/5Cl9GDb0AyQnppRr6q7ldb"
@@ -727,7 +763,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 253445,
       "name": "Cross Off",
       "url": "https://open.spotify.com/track/1UtLHK1KdLD1haUlY5YoSg"
@@ -997,7 +1033,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 216973,
       "name": "Eyes Of A Panther",
       "url": "https://open.spotify.com/track/68ZY22YJeDxvcpQCg6u6SX"
@@ -1109,7 +1145,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 203413,
       "name": "Fortunate Son",
       "url": "https://open.spotify.com/track/5ppRGoTTMfQtFcmeZqwaAK"
@@ -1297,6 +1333,24 @@
     {
       "album": {
         "name": "Got Your Six (Deluxe)",
+        "url": "https://open.spotify.com/album/36S44cV7Qq3EN9dnnZj407"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187670,
+      "name": "Hell to Pay",
+      "url": "https://open.spotify.com/track/6J97fOUqgVLcb1eg21QXjg"
+    },
+    {
+      "album": {
+        "name": "Got Your Six (Deluxe)",
         "url": "https://open.spotify.com/album/4Lujxftn2mPfDJUd2nTk6U"
       },
       "artists": [
@@ -1347,6 +1401,24 @@
       "duration_ms": 216560,
       "name": "Home Is Where the Sty Is",
       "url": "https://open.spotify.com/track/2BYMBnZVHxxtwcnqpBfY2f"
+    },
+    {
+      "album": {
+        "name": "CMFT",
+        "url": "https://open.spotify.com/album/2zXb31jcD4thGh78UbcXzv"
+      },
+      "artists": [
+        {
+          "name": "Corey Taylor",
+          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 249045,
+      "name": "HWY 666",
+      "url": "https://open.spotify.com/track/1I45GWyejiphTaj0UJPkEm"
     },
     {
       "album": {
@@ -1700,6 +1772,24 @@
     },
     {
       "album": {
+        "name": "The End Is Where We Begin",
+        "url": "https://open.spotify.com/album/6YJYFQ1Zz9I49YQknK4wIn"
+      },
+      "artists": [
+        {
+          "name": "Thousand Foot Krutch",
+          "url": "https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 239627,
+      "name": "Light Up the Sky",
+      "url": "https://open.spotify.com/track/1cLr6aFd7obZ90NUlkq9kO"
+    },
+    {
+      "album": {
         "name": "Vital",
         "url": "https://open.spotify.com/album/48FcnU2DKSJ0uwx6Odd7oR"
       },
@@ -1765,7 +1855,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 194493,
       "name": "Low Down Dirty",
       "url": "https://open.spotify.com/track/7Gutanf1Mf2r8ASTlrR5ku"
@@ -1917,7 +2007,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-13",
+      "date_removed": "2022-11-14",
       "duration_ms": 234786,
       "name": "No More Hollywood Endings",
       "url": "https://open.spotify.com/track/4LlEtj8I2XUhkrXFzBBtFJ"
@@ -2187,7 +2277,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": "2022-11-13",
       "duration_ms": 206471,
       "name": "Risen",
       "url": "https://open.spotify.com/track/5SPdrK8RwO52MlBI1kjcft"
@@ -2367,7 +2457,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 249306,
       "name": "Seal The Deal",
       "url": "https://open.spotify.com/track/7HyEcQge7Nj46xNFpKrsi5"
@@ -2716,6 +2806,24 @@
     },
     {
       "album": {
+        "name": "Queen of Time",
+        "url": "https://open.spotify.com/album/6bQKFlXjvu5zynMS86XxlR"
+      },
+      "artists": [
+        {
+          "name": "Amorphis",
+          "url": "https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 330557,
+      "name": "The Bee",
+      "url": "https://open.spotify.com/track/2MYVKTjT1xknuEyaWCngA6"
+    },
+    {
+      "album": {
         "name": "The Bee",
         "url": "https://open.spotify.com/album/5rt36I1yznBfg8kIliw2ec"
       },
@@ -2893,7 +3001,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": "2022-11-14",
       "duration_ms": 251106,
       "name": "The Reckoning",
       "url": "https://open.spotify.com/track/4GSjFSK1SM78wPTVbsSB0S"
@@ -2947,7 +3055,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 199959,
       "name": "The Time Is Now",
       "url": "https://open.spotify.com/track/6wpHmxmxPa3N3Gi3aGdTJL"
@@ -3152,6 +3260,24 @@
     },
     {
       "album": {
+        "name": "Blue Collar Revolver",
+        "url": "https://open.spotify.com/album/39zrUrsdRQdUlGx3Y9CUaV"
+      },
+      "artists": [
+        {
+          "name": "Lansdowne",
+          "url": "https://open.spotify.com/artist/5urnoBZifR5YXG5YdCOj34"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210200,
+      "name": "Watch Me Burn",
+      "url": "https://open.spotify.com/track/4Y33fbX6KcOfP0xZhYMwO5"
+    },
+    {
+      "album": {
         "name": "When Legends Rise",
         "url": "https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV"
       },
@@ -3253,7 +3379,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-10",
+      "date_removed": "2022-11-18",
       "duration_ms": 172573,
       "name": "Word Up!",
       "url": "https://open.spotify.com/track/6oaCwukRHvb3Q0eBfa9wiI"

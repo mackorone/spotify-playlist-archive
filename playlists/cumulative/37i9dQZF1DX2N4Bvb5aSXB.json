@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "24 Hours Of R&B",
+        "url": "https://open.spotify.com/album/17yGMddUjDE8BrjAhnqaFh"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 250826,
+      "name": "Be Without You - Kendu Mix",
+      "url": "https://open.spotify.com/track/0UOD3dxFQLowphGYXb7xEV"
+    },
+    {
+      "album": {
         "name": "Definition of Real",
         "url": "https://open.spotify.com/album/4XYeXtHzp0x7wzgUyasKBA"
       },
@@ -153,6 +171,24 @@
       "duration_ms": 233866,
       "name": "Don't Forget About Us - Radio Edit",
       "url": "https://open.spotify.com/track/2hQU8LNZFUcXLUwqeABX3K"
+    },
+    {
+      "album": {
+        "name": "Don't Forget About Us",
+        "url": "https://open.spotify.com/album/7myqJhKQhXMcr9j8vEkkZc"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 234920,
+      "name": "Don't Forget About Us - Radio Edit",
+      "url": "https://open.spotify.com/track/16YYQme8BlKAujcNAaOp65"
     },
     {
       "album": {
@@ -313,6 +349,32 @@
       "duration_ms": 203360,
       "name": "It's Like That",
       "url": "https://open.spotify.com/track/7zL9xrz5krsuC6qVNluQQw"
+    },
+    {
+      "album": {
+        "name": "RnB Old School",
+        "url": "https://open.spotify.com/album/4OwTUPWgvO2uCDF6NkRUVM"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Jermaine Dupri",
+          "url": "https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6"
+        },
+        {
+          "name": "Fatman Scoop",
+          "url": "https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 204026,
+      "name": "It's Like That",
+      "url": "https://open.spotify.com/track/1OEOB95Mmp5yROXS8DDzcF"
     },
     {
       "album": {

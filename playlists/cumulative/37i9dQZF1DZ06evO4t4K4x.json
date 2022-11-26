@@ -181,7 +181,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-28",
+      "date_removed": null,
       "duration_ms": 80053,
       "name": "Doctor Who (Closing Theme)",
       "url": "https://open.spotify.com/track/12eaGTQ57QR7E1XhAevAXo"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-18",
       "duration_ms": 80053,
       "name": "Doctor Who (Closing Theme)",
       "url": "https://open.spotify.com/track/0YVTRWR2FN4I42xpITS9Lr"
@@ -233,6 +233,28 @@
     {
       "album": {
         "name": "Doctor Who - The Caves of Androzani (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/4b80quImIGtQGnlNuDUlqm"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "The BBC Radiophonic Workshop",
+          "url": "https://open.spotify.com/artist/2slzcgeCx2awZXLNQ3iXVa"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 39240,
+      "name": "Doctor Who (Opening Theme)",
+      "url": "https://open.spotify.com/track/0Rr3Qaf5yF2bRtcfBHkLFg"
+    },
+    {
+      "album": {
+        "name": "Doctor Who - The Caves of Androzani (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/6IU19Hkr2vWuLttMYqr9bR"
       },
       "artists": [
@@ -247,7 +269,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 39240,
       "name": "Doctor Who (Opening Theme)",
       "url": "https://open.spotify.com/track/3XGm6OjIaIJSmdhH9jZ9p4"
@@ -287,7 +309,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 55546,
       "name": "Doctor Who Closing Title Theme - 53\" Version",
       "url": "https://open.spotify.com/track/0423txeQ20yYT91cnKYzLI"
@@ -305,7 +327,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-06",
       "duration_ms": 55546,
       "name": "Doctor Who Closing Title Theme - 53'' Version",
       "url": "https://open.spotify.com/track/6j0lGczgs13shAl0iFHfN2"
@@ -535,7 +557,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 37186,
       "name": "Great Zoos of the World",
       "url": "https://open.spotify.com/track/39fgw4eQFh7AFDXNkchxrJ"
@@ -687,9 +709,31 @@
           "url": "https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb"
         }
       ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89813,
+      "name": "Hannett and Delia synth exchanges track 18",
+      "url": "https://open.spotify.com/track/6eE4C3OBhLH6racpXnzM32"
+    },
+    {
+      "album": {
+        "name": "The Synth And Electronic Recording Exchanges",
+        "url": "https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Martin Hannett",
+          "url": "https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb"
+        }
+      ],
       "date_added": "2022-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": "2022-10-24",
       "duration_ms": 66080,
       "name": "Hannett and Delia synth exchanges track 20",
       "url": "https://open.spotify.com/track/2pd6AauSghzEWC3YYicPCK"
@@ -777,7 +821,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 126213,
       "name": "Hannett and Delia synth exchanges track 6",
       "url": "https://open.spotify.com/track/6fzWYlEBCGq0OXVLcw5yTV"
@@ -797,12 +841,56 @@
           "url": "https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb"
         }
       ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-22",
+      "duration_ms": 79946,
+      "name": "Hannett and Delia synth exchanges track 7",
+      "url": "https://open.spotify.com/track/5lCMhaHwhtTgR7OOf5PjYA"
+    },
+    {
+      "album": {
+        "name": "The Synth And Electronic Recording Exchanges",
+        "url": "https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Martin Hannett",
+          "url": "https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb"
+        }
+      ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": "2022-10-15",
       "duration_ms": 47506,
       "name": "Hannett and Delia synth exchanges track 8",
       "url": "https://open.spotify.com/track/4OLauE6EekCaaCMWicP3C1"
+    },
+    {
+      "album": {
+        "name": "The Synth And Electronic Recording Exchanges",
+        "url": "https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Martin Hannett",
+          "url": "https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-25",
+      "duration_ms": 105506,
+      "name": "Hannett and Delia synth exchanges track 9",
+      "url": "https://open.spotify.com/track/1kmJMLFVnW7GtqrK37ngN4"
     },
     {
       "album": {
@@ -1027,7 +1115,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 57253,
       "name": "Science and Health",
       "url": "https://open.spotify.com/track/4lWoCNmwIINJd79g59LZIC"
@@ -1053,7 +1141,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-08",
+      "date_removed": null,
       "duration_ms": 34400,
       "name": "Shock Chords",
       "url": "https://open.spotify.com/track/5WcHBV1Wzac0UCRy3ZseBc"
@@ -1079,7 +1167,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": "2022-10-12",
       "duration_ms": 175733,
       "name": "The Pattern Emerges",
       "url": "https://open.spotify.com/track/1CG4YEEQpvYe8aEUXf1mvu"
@@ -1105,7 +1193,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 126200,
       "name": "The Wizard's Laboratory",
       "url": "https://open.spotify.com/track/0p40kpl217FFLVxBRevsAV"

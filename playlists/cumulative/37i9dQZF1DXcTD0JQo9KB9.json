@@ -1172,6 +1172,24 @@
     },
     {
       "album": {
+        "name": "\u6d77\u908a\u7684\u5440\u8c6a",
+        "url": "https://open.spotify.com/album/23Isl77qYMyntBEPCkyAz2"
+      },
+      "artists": [
+        {
+          "name": "Kaho Hung",
+          "url": "https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201549,
+      "name": "\u6d77\u908a\u7684\u5440\u8c6a",
+      "url": "https://open.spotify.com/track/3nKF5Wp0RTdD3tJEia0pgq"
+    },
+    {
+      "album": {
         "name": "\u751f",
         "url": "https://open.spotify.com/album/0eRcJrxg7A7b6SAg38oHuv"
       },

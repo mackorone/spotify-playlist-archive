@@ -66,6 +66,24 @@
     },
     {
       "album": {
+        "name": "Back to Front",
+        "url": "https://open.spotify.com/album/1INjTJtV8EwpUZF2xgwvAt"
+      },
+      "artists": [
+        {
+          "name": "Gilbert O'Sullivan",
+          "url": "https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf"
+        }
+      ],
+      "date_added": "2021-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216840,
+      "name": "Alone Again (Naturally)",
+      "url": "https://open.spotify.com/track/6vuEG9sZtC4W2zT64f7zLF"
+    },
+    {
+      "album": {
         "name": "Back to Front (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7EZeSlS7lupfVVaZXGXVUs"
       },
@@ -84,24 +102,6 @@
     },
     {
       "album": {
-        "name": "Back to Front",
-        "url": "https://open.spotify.com/album/1INjTJtV8EwpUZF2xgwvAt"
-      },
-      "artists": [
-        {
-          "name": "Gilbert O'Sullivan",
-          "url": "https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf"
-        }
-      ],
-      "date_added": "2021-04-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 217728,
-      "name": "Alone Again (Naturally)",
-      "url": "https://open.spotify.com/track/6vuEG9sZtC4W2zT64f7zLF"
-    },
-    {
-      "album": {
         "name": "Pra Sempre Em Espanhol - Vol. 1",
         "url": "https://open.spotify.com/album/2Xq3ImnZEspHHITZy3DOZH"
       },
@@ -113,7 +113,7 @@
       ],
       "date_added": "2021-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": "2022-11-13",
       "duration_ms": 194906,
       "name": "Amante a la Antigua",
       "url": "https://open.spotify.com/track/5C7wTCd20Ftl6bbW70qOA4"
@@ -149,7 +149,7 @@
       ],
       "date_added": "2021-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 167386,
       "name": "Ben - Single Version",
       "url": "https://open.spotify.com/track/0ZFqB9g2FujbmMSrjqsL3j"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2021-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 198000,
       "name": "Coraz\u00f3n m\u00e1gico",
       "url": "https://open.spotify.com/track/1bpOD9jv1ge8RiyKccjLHW"
@@ -989,7 +989,7 @@
       ],
       "date_added": "2021-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 195506,
       "name": "Lamento De Amor",
       "url": "https://open.spotify.com/track/6pYz8bkZvf84S49VWLRHah"
@@ -1331,7 +1331,7 @@
       ],
       "date_added": "2021-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": "2022-11-13",
       "duration_ms": 179466,
       "name": "Never Can Say Goodbye - Single Version",
       "url": "https://open.spotify.com/track/3b9Cpi8jW9jNoyx72QbfRO"
@@ -1439,7 +1439,7 @@
       ],
       "date_added": "2021-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-05",
+      "date_removed": "2022-11-13",
       "duration_ms": 238386,
       "name": "Parole parole - 2001 Remastered Version",
       "url": "https://open.spotify.com/track/7LZDbABGg2NfnGsyIs2SeB"
@@ -1639,7 +1639,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 354240,
-      "name": "Silly Love Songs - Remastered 2014",
+      "name": "Silly Love Songs - 2014 Remaster",
       "url": "https://open.spotify.com/track/3uiMBldZ07pW0ySHDX5gzE"
     },
     {
@@ -1709,7 +1709,7 @@
       ],
       "date_added": "2021-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-20",
       "duration_ms": 171266,
       "name": "Te Quiero Te Quiero",
       "url": "https://open.spotify.com/track/5ltBmvHslf7tplG5QfLmTt"
@@ -1727,7 +1727,7 @@
       ],
       "date_added": "2021-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 196200,
       "name": "Te Voy a Ense\u00f1ar a Querer",
       "url": "https://open.spotify.com/track/1611GmlolwbEqZgoi3nqvN"
@@ -1972,6 +1972,24 @@
     },
     {
       "album": {
+        "name": "LOUD & PROUD: Club Classics",
+        "url": "https://open.spotify.com/album/2Djoftst9PsHDHS4W3JqHU"
+      },
+      "artists": [
+        {
+          "name": "Village People",
+          "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
+        }
+      ],
+      "date_added": "2021-04-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 288373,
+      "name": "Y.M.C.A. - Single Version",
+      "url": "https://open.spotify.com/track/7uhsX7VLjUqBUW32Nt9QRs"
+    },
+    {
+      "album": {
         "name": "Christie",
         "url": "https://open.spotify.com/album/0YtUDtmBOGWAerJN70aCUR"
       },
@@ -1983,7 +2001,7 @@
       ],
       "date_added": "2021-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 165960,
       "name": "Yellow River",
       "url": "https://open.spotify.com/track/4VnzKUBMB6cvog8Jvv1few"

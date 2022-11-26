@@ -1,13 +1,213 @@
 {
-  "description": "New music breaking waves.  Cover: SHABOOZEY",
-  "num_followers": 19574,
+  "description": "New music breaking waves.  Cover: Ice Spice",
+  "num_followers": 20469,
   "original_name": "Ripple Effect",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMDI4MWYzZTFhNWQ2NjMxNDc3MzBlODk5NGYwOGQ4NGFk",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDE1NzY5MmY2ZDVjNDM1YWNiMzIyMGY5ZTBlMzlhOTc3",
   "tracks": [
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Pretty In Black",
+        "url": "https://open.spotify.com/album/5MfPSUlLg1wsGUyY2c10OG"
+      },
+      "artists": [
+        {
+          "name": "Joony",
+          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
+        }
+      ],
+      "duration_ms": 113043,
+      "name": "PRETTY IN BLACK",
+      "url": "https://open.spotify.com/track/0CKjwy3zelVZgS49WlVIaV"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Compare - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/0o2fniizJPNWTYr4ilWA46"
+      },
+      "artists": [
+        {
+          "name": "Saint\u00e9",
+          "url": "https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6"
+        }
+      ],
+      "duration_ms": 136262,
+      "name": "Compare - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/1jCk2UYGvtpxtkyhTRbKgF"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Creme Brulee",
+        "url": "https://open.spotify.com/album/5zQXPoLBDFCFGN4IPu14VG"
+      },
+      "artists": [
+        {
+          "name": "Cochise",
+          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
+        }
+      ],
+      "duration_ms": 112207,
+      "name": "Creme Brulee",
+      "url": "https://open.spotify.com/track/3jvrZ6mIhVEH4XMpmqSTRI"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Here I Come",
+        "url": "https://open.spotify.com/album/5yEN89IGBwa3y0tP2qWAnK"
+      },
+      "artists": [
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        }
+      ],
+      "duration_ms": 108413,
+      "name": "Here I Come",
+      "url": "https://open.spotify.com/track/24JTap3Y2LHb3icc5iIkNj"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Bikini Bottom",
+        "url": "https://open.spotify.com/album/2n38ZBBmPSssEGGPgu6NPl"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 106666,
+      "name": "Bikini Bottom",
+      "url": "https://open.spotify.com/track/27Qz0cFmMGADsniMeUwyUe"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "1OF1",
+        "url": "https://open.spotify.com/album/6baQwRelsChN4b0zmU5tRO"
+      },
+      "artists": [
+        {
+          "name": "T$AN",
+          "url": "https://open.spotify.com/artist/3xxFIilHFOKX6QaoJfBYrk"
+        }
+      ],
+      "duration_ms": 192051,
+      "name": "1OF1",
+      "url": "https://open.spotify.com/track/4eeBkMilZ85ie8eBZCRs3O"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Wayne",
+        "url": "https://open.spotify.com/album/3DryZCv6ZZpYzgD4Vjg03q"
+      },
+      "artists": [
+        {
+          "name": "BoofBoiIcy",
+          "url": "https://open.spotify.com/artist/4Crup8TztPQ0TSQBiBGrrZ"
+        }
+      ],
+      "duration_ms": 154146,
+      "name": "I'll Do It",
+      "url": "https://open.spotify.com/track/0GbLqWHMbu8vI3iQR2b6Ki"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Snow Cones",
+        "url": "https://open.spotify.com/album/4Zl1QD4pz3CqUR1lGDSdAr"
+      },
+      "artists": [
+        {
+          "name": "Joseph Chilliams",
+          "url": "https://open.spotify.com/artist/6lirZ0ouvh4l3fz3HSnIwi"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Snow Cones",
+      "url": "https://open.spotify.com/track/5CFDY0ongHhmVWSwkgZqkl"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Coordinates",
+        "url": "https://open.spotify.com/album/2KBFAyoDp5uB33m2kC08He"
+      },
+      "artists": [
+        {
+          "name": "Jay Wile",
+          "url": "https://open.spotify.com/artist/1VvjB8ztJLmmj2fyL4TkCU"
+        }
+      ],
+      "duration_ms": 237272,
+      "name": "NO2",
+      "url": "https://open.spotify.com/track/0hRA9X9Ga7aT66sNgNOUht"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Keep It Lo",
+        "url": "https://open.spotify.com/album/0hDyuoQRlGBEHKUk8HpWMQ"
+      },
+      "artists": [
+        {
+          "name": "Ojerime",
+          "url": "https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0"
+        },
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        }
+      ],
+      "duration_ms": 153712,
+      "name": "Keep It Lo",
+      "url": "https://open.spotify.com/track/3RBtnsOmltWgeRge3lQDjG"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "FN THE MIXTAPE COMING SOON",
+        "url": "https://open.spotify.com/album/5jjbZqr3FBAMGhjrzGIxIa"
+      },
+      "artists": [
+        {
+          "name": "Idontknowjeffery",
+          "url": "https://open.spotify.com/artist/7Fx7ZCiOsh5eVpFuK25VD6"
+        }
+      ],
+      "duration_ms": 162533,
+      "name": "FN THE MIXTAPE COMING SOON",
+      "url": "https://open.spotify.com/track/3yZLQBHWeZbvvvxJTBDmLM"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "I Know",
+        "url": "https://open.spotify.com/album/0sPpOYWKeLPeppdKyZy9W4"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Sauce Walka",
+          "url": "https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb"
+        }
+      ],
+      "duration_ms": 197586,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/4iPk2FPM9hZYHqtQsfEz6m"
+    },
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
@@ -23,6 +223,38 @@
       "duration_ms": 144807,
       "name": "Snake",
       "url": "https://open.spotify.com/track/6QRDewZDz4f9CJEasgWZKt"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "SIMPLE",
+        "url": "https://open.spotify.com/album/6nfwaflmUX1fWLwY0abYxF"
+      },
+      "artists": [
+        {
+          "name": "$NOT",
+          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+        }
+      ],
+      "duration_ms": 154800,
+      "name": "SIMPLE",
+      "url": "https://open.spotify.com/track/43KrLcrVbDBimYtjKswIL3"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "TURKEY",
+        "url": "https://open.spotify.com/album/2zhIdoLAGJazYWy2vhkDaI"
+      },
+      "artists": [
+        {
+          "name": "Tate Kobang",
+          "url": "https://open.spotify.com/artist/05ZOzt8hlefGYXWJIL37PI"
+        }
+      ],
+      "duration_ms": 109008,
+      "name": "TURKEY",
+      "url": "https://open.spotify.com/track/50B1vCGS7BIUfJeFpFuolc"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -307,8 +539,8 @@
     {
       "added_at": "2022-09-16 23:12:18",
       "album": {
-        "name": "SINCERELY",
-        "url": "https://open.spotify.com/album/11QTrObNHlnSkUjXVOM0b0"
+        "name": "PRESCRIBED OVERDOSE",
+        "url": "https://open.spotify.com/album/1gMvkEF8Iw9ub7yrRqtwMl"
       },
       "artists": [
         {
@@ -318,7 +550,7 @@
       ],
       "duration_ms": 184186,
       "name": "SINCERELY",
-      "url": "https://open.spotify.com/track/31N4z5XiavBEOjPiliJss7"
+      "url": "https://open.spotify.com/track/3LdKYGCsaYEkUdMsmSLvEa"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -429,22 +661,6 @@
       "url": "https://open.spotify.com/track/3g9CkAfcdZlBhoLvJqIRGc"
     },
     {
-      "added_at": "2022-08-12 07:04:57",
-      "album": {
-        "name": "Pretty In Black (Deluxe)",
-        "url": "https://open.spotify.com/album/0mYQnhiqwscLVlk0LgVia1"
-      },
-      "artists": [
-        {
-          "name": "Joony",
-          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
-        }
-      ],
-      "duration_ms": 123636,
-      "name": "AVENTADOR",
-      "url": "https://open.spotify.com/track/2NhVY8tOBvbQRCLvBXFrUJ"
-    },
-    {
       "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "ME FIRST - A COLORS SHOW",
@@ -495,8 +711,8 @@
     {
       "added_at": "2022-08-19 06:43:13",
       "album": {
-        "name": "Codeine Files",
-        "url": "https://open.spotify.com/album/7tgZb9ATpg16l6wcSnOBtT"
+        "name": "Neva Goin Broke",
+        "url": "https://open.spotify.com/album/4rUicHcb8xZS9zuyVlPZrd"
       },
       "artists": [
         {
@@ -506,7 +722,7 @@
       ],
       "duration_ms": 80312,
       "name": "Neva Goin Broke",
-      "url": "https://open.spotify.com/track/3MDay3lotWzIJ9RmuYwi1H"
+      "url": "https://open.spotify.com/track/25n2o2iXsML4I0xIAFOINj"
     },
     {
       "added_at": "2022-08-12 07:04:57",
@@ -580,7 +796,7 @@
       },
       "artists": [
         {
-          "name": "Sainte",
+          "name": "Saint\u00e9",
           "url": "https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6"
         }
       ],
@@ -623,126 +839,6 @@
       "duration_ms": 176930,
       "name": "Picture in my mind",
       "url": "https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1"
-    },
-    {
-      "added_at": "2022-08-12 07:04:57",
-      "album": {
-        "name": "No Closure",
-        "url": "https://open.spotify.com/album/00zNoLWUcrXKUnstmShe6q"
-      },
-      "artists": [
-        {
-          "name": "Mannywellz",
-          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
-        }
-      ],
-      "duration_ms": 185997,
-      "name": "No Closure",
-      "url": "https://open.spotify.com/track/4d8eyF77ZplwhOSj1rqink"
-    },
-    {
-      "added_at": "2022-08-12 07:04:57",
-      "album": {
-        "name": "Crayons",
-        "url": "https://open.spotify.com/album/6HZYUn33trHEZ78tFsFnCS"
-      },
-      "artists": [
-        {
-          "name": "Prey\u00e9",
-          "url": "https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD"
-        }
-      ],
-      "duration_ms": 143527,
-      "name": "Crayons",
-      "url": "https://open.spotify.com/track/3o5ImZ1yj1FoV4nkuAsbe1"
-    },
-    {
-      "added_at": "2022-08-05 06:20:49",
-      "album": {
-        "name": "she / her / black bitch",
-        "url": "https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        },
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 180076,
-      "name": "Swamp Bitches (with Rico Nasty)",
-      "url": "https://open.spotify.com/track/2aOG6jVZnTqZwEhjGTcFMM"
-    },
-    {
-      "added_at": "2022-08-12 07:04:57",
-      "album": {
-        "name": "Persuasive (with SZA)",
-        "url": "https://open.spotify.com/album/7LYy99hyg4eHQeYkKPuS6R"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 210346,
-      "name": "Persuasive (with SZA)",
-      "url": "https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6"
-    },
-    {
-      "added_at": "2022-08-05 06:20:49",
-      "album": {
-        "name": "Aint No Fun",
-        "url": "https://open.spotify.com/album/2hcZSipx5KrhW4Rxp74BhC"
-      },
-      "artists": [
-        {
-          "name": "yvngxchris",
-          "url": "https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr"
-        }
-      ],
-      "duration_ms": 128524,
-      "name": "Aint No Fun",
-      "url": "https://open.spotify.com/track/5LWAGw2GEbTHDWcV5coWyJ"
-    },
-    {
-      "added_at": "2022-08-05 06:20:49",
-      "album": {
-        "name": "Light Breeze",
-        "url": "https://open.spotify.com/album/0N1u2tCscAuCsNYia6HAM4"
-      },
-      "artists": [
-        {
-          "name": "Kalan.FrFr",
-          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
-        }
-      ],
-      "duration_ms": 158350,
-      "name": "Light Breeze",
-      "url": "https://open.spotify.com/track/3NWOO9SW0Irf9aUUC3om4i"
-    },
-    {
-      "added_at": "2022-08-05 06:20:49",
-      "album": {
-        "name": "DORK",
-        "url": "https://open.spotify.com/album/2XJnNa3hPSD4va84sZKLg3"
-      },
-      "artists": [
-        {
-          "name": "Joony",
-          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
-        }
-      ],
-      "duration_ms": 119111,
-      "name": "DORK",
-      "url": "https://open.spotify.com/track/3J13MlSboyZZGB1RshKHva"
     },
     {
       "added_at": "2022-08-05 06:20:49",
@@ -795,90 +891,6 @@
       "duration_ms": 208880,
       "name": "Till The World's Awake",
       "url": "https://open.spotify.com/track/4hedQVjhX9bdo7DAUDWtex"
-    },
-    {
-      "added_at": "2022-08-05 06:20:49",
-      "album": {
-        "name": "Slow",
-        "url": "https://open.spotify.com/album/5g98eX19j6hiHuyHPlIGhW"
-      },
-      "artists": [
-        {
-          "name": "Pip Millett",
-          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
-        }
-      ],
-      "duration_ms": 175493,
-      "name": "Slow",
-      "url": "https://open.spotify.com/track/7w9bSUUdghXGjWmYtu6fl6"
-    },
-    {
-      "added_at": "2022-08-05 06:20:49",
-      "album": {
-        "name": "Some Other Time (feat. Arz)",
-        "url": "https://open.spotify.com/album/1ARzgmtTR8Zpq8LctI8sZh"
-      },
-      "artists": [
-        {
-          "name": "Chanel Loren",
-          "url": "https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK"
-        },
-        {
-          "name": "Arz",
-          "url": "https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL"
-        }
-      ],
-      "duration_ms": 199462,
-      "name": "Some Other Time (feat. Arz)",
-      "url": "https://open.spotify.com/track/2RP9qWN4MpSLHAlskIlV1t"
-    },
-    {
-      "added_at": "2022-08-05 06:20:49",
-      "album": {
-        "name": "What's A Monday",
-        "url": "https://open.spotify.com/album/6HfUGBPpQSsqAFDOAIzct1"
-      },
-      "artists": [
-        {
-          "name": "Jae Stephens",
-          "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
-        }
-      ],
-      "duration_ms": 153040,
-      "name": "What's A Monday",
-      "url": "https://open.spotify.com/track/3r3TNewGNpl7zKgzk9nYTJ"
-    },
-    {
-      "added_at": "2022-08-05 06:20:49",
-      "album": {
-        "name": "Too Hot",
-        "url": "https://open.spotify.com/album/5hqv7koMqv1vF6oy20Pbe5"
-      },
-      "artists": [
-        {
-          "name": "Jay Safari",
-          "url": "https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT"
-        }
-      ],
-      "duration_ms": 124369,
-      "name": "Too Hot",
-      "url": "https://open.spotify.com/track/0r6UbYDhi7MEojd80gXH42"
-    },
-    {
-      "added_at": "2022-06-24 04:35:01",
-      "album": {
-        "name": "Ain't Going Back",
-        "url": "https://open.spotify.com/album/4DaOVKUAir02h9JpD3ddVP"
-      },
-      "artists": [
-        {
-          "name": "Rican Da Menace",
-          "url": "https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY"
-        }
-      ],
-      "duration_ms": 149231,
-      "name": "Ain't Going Back",
-      "url": "https://open.spotify.com/track/1Iot1CYAcasgCDUxndVt7D"
     }
   ],
   "unique_name": "Ripple Effect",

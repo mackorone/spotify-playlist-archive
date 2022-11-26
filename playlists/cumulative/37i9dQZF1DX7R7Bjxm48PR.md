@@ -4,7 +4,7 @@
 
 > Calming and inspiring piano music for yoga.
 
-129 songs - 5 hr 52 min - [published](https://open.spotify.com/playlist/639MyonEK5vnxNKfmiZBKq)
+133 songs - 6 hr 2 min - [published](https://open.spotify.com/playlist/639MyonEK5vnxNKfmiZBKq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,9 +18,10 @@
 | [Armonikos](https://open.spotify.com/track/0vFeSaWXj9CnzzPT2M3QzZ) | [Armonikos](https://open.spotify.com/artist/7rL32YC1PUCMcocVKjrZ6R) | [Armonikos](https://open.spotify.com/album/08bHsrL8XcgSoYRW8zZjZz) | 2:35 | 2022-01-19 |  |
 | [At Dawn](https://open.spotify.com/track/6sSFbKl9oQ7ToYxBeTQZvw) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Fragment](https://open.spotify.com/album/4hDrHeKxgRFP07lI6RAkoE) | 2:16 | 2022-01-19 |  |
 | [At Rest](https://open.spotify.com/track/1qox7A6GvcVMcqhpOoIzsX) | [Mjuk](https://open.spotify.com/artist/1MI6YCbJfKv7EaTI8XcpM6) | [Dharma's Dream](https://open.spotify.com/album/6pkV7ilaHspVHyTXGy7yOk) | 2:39 | 2022-01-19 |  |
-| [At The Other End](https://open.spotify.com/track/4UfJ7pMdJMCyg2nO2pLjBr) | [Benji Saito](https://open.spotify.com/artist/7aapBhkAQIThSLx9Iza17r) | [At The Other End](https://open.spotify.com/album/2pM2VdN7Mv3yaFa289bgp4) | 2:49 | 2022-07-27 |  |
+| [At The Other End](https://open.spotify.com/track/4UfJ7pMdJMCyg2nO2pLjBr) | [Benji Saito](https://open.spotify.com/artist/7aapBhkAQIThSLx9Iza17r) | [At The Other End](https://open.spotify.com/album/2pM2VdN7Mv3yaFa289bgp4) | 2:49 | 2022-07-27 | 2022-11-15 |
 | [Bei Sogni](https://open.spotify.com/track/4uEy0quzyHhmOolODWrsaI) | [Gennaro Acciaio](https://open.spotify.com/artist/5WJ6nJkEinNxWYIWTou21D) | [Bei Sogni](https://open.spotify.com/album/4D4zNlwymGjT6t0ls03vP6) | 2:44 | 2022-01-19 |  |
 | [Beyond The Words](https://open.spotify.com/track/2rcjEdhxMASzFKFMLE0VyK) | [Phoebe Waits](https://open.spotify.com/artist/57E9IfMja5EiaW6JlxxPfF) | [Beyond The Words](https://open.spotify.com/album/2IXXs0F9tteFAxo2M1qUGh) | 2:32 | 2022-01-19 |  |
+| [Birds view](https://open.spotify.com/track/4PkmyK6ZS3X96rG05wmThj) | [Egil Kahn](https://open.spotify.com/artist/28QjN2OHUlc9nT6Oo0okfe) | [Hills](https://open.spotify.com/album/2VdPwkgbn9S8KFfkrHqhGa) | 2:05 | 2022-11-14 |  |
 | [Brightness](https://open.spotify.com/track/02LCUK8mJhh65xVc9hVoXB) | [Lux Tigon](https://open.spotify.com/artist/759EMezWm078OWxpbGzRNM) | [Waves](https://open.spotify.com/album/4sWw9ZNMdERgyz8KbtgHUi) | 2:14 | 2022-01-19 |  |
 | [Ce Jour Là](https://open.spotify.com/track/6Y7GT4UuGkUFhYHxVLQ4bF) | [Eugène Arnaud](https://open.spotify.com/artist/41MsWLfnAsYZTlfNAllHa8) | [Ce Jour Là](https://open.spotify.com/album/2nQtY69UjbRQQYkjMHnqXB) | 2:48 | 2022-01-19 |  |
 | [Colorful Wind](https://open.spotify.com/track/4k5NwAqXwtNP17qUdVZD1Y) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [Colorful Wind](https://open.spotify.com/album/56klfdedaMKwnDJGFi38II) | 2:36 | 2022-01-19 | 2022-04-14 |
@@ -50,6 +51,7 @@
 | [From The Heart](https://open.spotify.com/track/5WyysbGeEUoJ02Xf1tMpac) | [Amanda Heartwood](https://open.spotify.com/artist/0HUXT49x58t1oU5dj46YEz) | [From The Heart](https://open.spotify.com/album/0tcoSiHe5QZxj5S5WdQMDN) | 3:23 | 2022-01-19 |  |
 | [Get To Know You](https://open.spotify.com/track/7LEiXyKzCgKoyC886AWpZL) | [Julius Cuvier](https://open.spotify.com/artist/1zj0nZIQrUmBXtnxQPVHYZ) | [Get To Know You](https://open.spotify.com/album/0LTF6J05EQgqGka3DCRxcz) | 2:22 | 2022-01-19 |  |
 | [Hidden Dream](https://open.spotify.com/track/1xQvz7zAHGoWO9SHKoSGau) | [Bernward Koch](https://open.spotify.com/artist/3I47W6SIIS24cECbGOeakB) | [Tree Tales](https://open.spotify.com/album/1f8GcZO0ssCZNajCxO1glx) | 3:38 | 2022-07-27 |  |
+| [Hills](https://open.spotify.com/track/4aannUiGLQ7Uk580YdFTc5) | [Egil Kahn](https://open.spotify.com/artist/28QjN2OHUlc9nT6Oo0okfe) | [Hills](https://open.spotify.com/album/2VdPwkgbn9S8KFfkrHqhGa) | 2:14 | 2022-11-14 |  |
 | [Homeward](https://open.spotify.com/track/6p8tAo2HjobS7Me75EJcBq) | [Bjarni Erlingursson](https://open.spotify.com/artist/183EuY975jD6CSCkAEPuP6) | [Homeward](https://open.spotify.com/album/5bhd7KJdQuJfmpBlWFbQT9) | 2:31 | 2022-01-19 |  |
 | [If I Could, I Would](https://open.spotify.com/track/25ieEXehP4kemZbzTts3YX) | [Joyce Dulaney](https://open.spotify.com/artist/5fdxuo0vbjD6xK1zty3Kvi) | [If I Could, I Would](https://open.spotify.com/album/4oOPMhedo0AznA0K7TqvFI) | 2:50 | 2022-01-19 |  |
 | [In The Stars](https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8) | [Rebecca Woods](https://open.spotify.com/artist/5my6FfdYpwFo5cEaaqzTnz) | [In The Stars](https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV) | 2:43 | 2022-01-19 |  |
@@ -74,6 +76,7 @@
 | [Mirror](https://open.spotify.com/track/4KqlBCbME4kSBDKfogDerG) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Mirror](https://open.spotify.com/album/3dJXtRJiMVUE4kzgAkW7xU) | 3:00 | 2022-02-02 |  |
 | [Miyuki](https://open.spotify.com/track/3roKW6n6liqSm13bm7a5rv) | [Josephe Cressac](https://open.spotify.com/artist/2sEVgwrqZxHDJIfV62TXbW) | [Miyuki](https://open.spotify.com/album/5XRxHNzzfFDKEEeDbW9Pmk) | 3:14 | 2022-01-19 |  |
 | [My Angel](https://open.spotify.com/track/4fvAPq4DVXfQG5FbLwlvk5) | [Elsa Greeve](https://open.spotify.com/artist/4K1bmNl7QvLvBZa9v4b9rd) | [My Angel](https://open.spotify.com/album/0khzZVOKGhgFKgxEmTg0QG) | 2:48 | 2022-01-19 | 2022-02-03 |
+| [Märchenstunde](https://open.spotify.com/track/03gwRcFi99kLdGp2qIRmNW) | [Maximilian Faber](https://open.spotify.com/artist/00PcADvHA59mhcgFAREmfM) | [Märchenstunde](https://open.spotify.com/album/0ozeWYKxgTBBYtJRyhsKiw) | 2:46 | 2022-11-14 |  |
 | [Nattljus](https://open.spotify.com/track/5pGG0eGQcA71HLo4jKQY90) | [Månvarv](https://open.spotify.com/artist/3npr0emNGSWh2iyRvzEiRI) | [Nattljus](https://open.spotify.com/album/7FBCdcXA2coK0EcsDSBN9B) | 3:19 | 2022-01-19 |  |
 | [Nefoedd](https://open.spotify.com/track/7fpv4K07BD9tUC852Mw5Lz) | [Chieloka](https://open.spotify.com/artist/3IBhxjT8AiBiz7DpMUEjEj) | [Nefoedd](https://open.spotify.com/album/78pQK6kW8RktRkQA0nqUkI) | 2:49 | 2022-01-19 |  |
 | [Nephology](https://open.spotify.com/track/2RXxXoJ6b42rQWpHrkIqRB) | [Ceylan Aydem Project](https://open.spotify.com/artist/6EDn2Y3RQU5ilTmJ9sxSS1) | [Nephology](https://open.spotify.com/album/6TKRYgP9nOBCnfa2V8LKW8) | 2:25 | 2022-01-19 |  |
@@ -118,6 +121,7 @@
 | [The Thread](https://open.spotify.com/track/7jYky4GcDF7yAEi1jDz29Y) | [From Alfie](https://open.spotify.com/artist/6lqr9FKlo45VgiWOu6P6kT) | [The Thread](https://open.spotify.com/album/7zwuCg5viRTfN5xKAYgmSU) | 2:07 | 2022-01-19 |  |
 | [The Water Floats](https://open.spotify.com/track/7gSXF0SO2U7QrR5O0lhOdA) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [The Water Floats](https://open.spotify.com/album/5f5OBSy3Ett4Y7hrqmHgR8) | 2:19 | 2022-01-19 |  |
 | [The World Within Me](https://open.spotify.com/track/6E1jXkm4vHFnCL43vkXTuM) | [Ruth Watson](https://open.spotify.com/artist/0JdKHUcyeRLXadKsimgTD1) | [The World Within Me](https://open.spotify.com/album/1KhWIRmiIM565Pb5HyY5fj) | 2:10 | 2022-01-19 |  |
+| [Thoughts](https://open.spotify.com/track/74y6IZku49WOsYlMcnF7oE) | [SomeMan](https://open.spotify.com/artist/764PYoLKyqV2yyiOD8AAGP) | [Thoughts](https://open.spotify.com/album/2oPHDcjLlUIi7mDVwwxysV) | 3:09 | 2022-11-14 |  |
 | [Ti Penso](https://open.spotify.com/track/6I2mlN0j24YN87ke0mAthD) | [Gianina Cremonesi](https://open.spotify.com/artist/0z1HXjcSk4VetGgiP5qD5n) | [Ti Penso](https://open.spotify.com/album/5EsAhqAsZR8zxEz9cCYuXF) | 2:01 | 2022-01-19 |  |
 | [Tiger Face](https://open.spotify.com/track/5uegoJLNJ1Y8hBliXUeTtC) | [Lyam Roelof](https://open.spotify.com/artist/64GaFeqfcIl6At2Bpc3fxU) | [Tiger Face](https://open.spotify.com/album/6vRm1JHnsnWFJLtUxwEumf) | 2:51 | 2022-03-03 |  |
 | [Tra Di Noi](https://open.spotify.com/track/7yJJuCckCfvjuIVDK96KlL) | [Valentina Romano](https://open.spotify.com/artist/0fQjueuVmR5XSCP0BtGdu1) | [Tra Di Noi](https://open.spotify.com/album/0J5qqU8x786MCP07FHgJGa) | 2:30 | 2022-01-19 |  |

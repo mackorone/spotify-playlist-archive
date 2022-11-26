@@ -84,6 +84,24 @@
     },
     {
       "album": {
+        "name": "1983",
+        "url": "https://open.spotify.com/album/75sK3DS08JlbLk5Fm8RUuQ"
+      },
+      "artists": [
+        {
+          "name": "Anita Baker",
+          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 300706,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/5y0gswkwtuFRZIHtA8Luw1"
+    },
+    {
+      "album": {
         "name": "Ungodly Hour",
         "url": "https://open.spotify.com/album/2HIaUwS0PTUeqFFYHBBGAN"
       },
@@ -147,7 +165,7 @@
     {
       "album": {
         "name": "SUGA",
-        "url": "https://open.spotify.com/album/4ZQjhcYbZl4KhMoBekUzUL"
+        "url": "https://open.spotify.com/album/5E5QGOClKXPXlVwOW9cWUz"
       },
       "artists": [
         {
@@ -160,7 +178,43 @@
       "date_removed": null,
       "duration_ms": 234758,
       "name": "Brown",
+      "url": "https://open.spotify.com/track/0EDzxUaUO4j9knZsytC3V8"
+    },
+    {
+      "album": {
+        "name": "SUGA",
+        "url": "https://open.spotify.com/album/4ZQjhcYbZl4KhMoBekUzUL"
+      },
+      "artists": [
+        {
+          "name": "Kyle Dion",
+          "url": "https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 234758,
+      "name": "Brown",
       "url": "https://open.spotify.com/track/0S8mtofOXVslUNzpHLuPW0"
+    },
+    {
+      "album": {
+        "name": "Brown",
+        "url": "https://open.spotify.com/album/0ZFuVwhwOsvTbZOqpyD8jj"
+      },
+      "artists": [
+        {
+          "name": "Kyle Dion",
+          "url": "https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 234758,
+      "name": "Brown",
+      "url": "https://open.spotify.com/track/3BppjiNA28qgcZkKIOctXg"
     },
     {
       "album": {
@@ -255,7 +309,7 @@
     {
       "album": {
         "name": "FEELS",
-        "url": "https://open.spotify.com/album/7CqQYYERGNSq5xSgTuALLd"
+        "url": "https://open.spotify.com/album/6ptDNtROqkFn0kNvtMIIHz"
       },
       "artists": [
         {
@@ -266,6 +320,24 @@
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 194303,
+      "name": "Fool For You",
+      "url": "https://open.spotify.com/track/0GGSPe4DC0qkKyFb9Erao5"
+    },
+    {
+      "album": {
+        "name": "FEELS",
+        "url": "https://open.spotify.com/album/7CqQYYERGNSq5xSgTuALLd"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
       "duration_ms": 194303,
       "name": "Fool For You",
       "url": "https://open.spotify.com/track/3pEGNvJWWAfDSuUrQjEpEV"
@@ -608,6 +680,24 @@
     },
     {
       "album": {
+        "name": "Mystic Lover",
+        "url": "https://open.spotify.com/album/2hrur08QYBYmfKGD32jpQr"
+      },
+      "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 235621,
+      "name": "Mystic Lover",
+      "url": "https://open.spotify.com/track/0brCU2MjuKxZFRf84To8Qp"
+    },
+    {
+      "album": {
         "name": "Adi Oasis",
         "url": "https://open.spotify.com/album/06VfMuXIFM7QLs5ZIW0KYZ"
       },
@@ -879,10 +969,28 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 224066,
       "name": "Time",
       "url": "https://open.spotify.com/track/3GTpHuThSwghiUEvVQCwsz"
+    },
+    {
+      "album": {
+        "name": "FEELS",
+        "url": "https://open.spotify.com/album/6ptDNtROqkFn0kNvtMIIHz"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224066,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/6S19yjLFU8FK0D5hJgnaUy"
     },
     {
       "album": {

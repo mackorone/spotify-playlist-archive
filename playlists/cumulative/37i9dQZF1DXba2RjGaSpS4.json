@@ -224,6 +224,24 @@
     },
     {
       "album": {
+        "name": "M\u00fasica para planchar",
+        "url": "https://open.spotify.com/album/6JutZ7DJaL4V8Vd0v6AYgT"
+      },
+      "artists": [
+        {
+          "name": "Jarabe De Palo",
+          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 254053,
+      "name": "Bonito",
+      "url": "https://open.spotify.com/track/6YEyOOEDB1VgnIMbMHsRfo"
+    },
+    {
+      "album": {
         "name": "En la vida conoc\u00ed mujer igual a la Flaca: Colecci\u00f3n Definitiva",
         "url": "https://open.spotify.com/album/1JlPTZA5IzaMdMVKLFX4Bl"
       },
@@ -239,6 +257,24 @@
       "duration_ms": 254053,
       "name": "Bonito",
       "url": "https://open.spotify.com/track/6adD0zZ2sdxRaqsUz6Axb3"
+    },
+    {
+      "album": {
+        "name": "Baladas Rom\u00e1nticas Latinas",
+        "url": "https://open.spotify.com/album/07EhDhHjge4hEJcXzUUq0j"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 224826,
+      "name": "Brillas",
+      "url": "https://open.spotify.com/track/0wVU74Grfynyrl7vlaCM0E"
     },
     {
       "album": {
@@ -454,6 +490,28 @@
     },
     {
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/24YQLIPPjDkkeNIFimSIGO"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 202680,
+      "name": "Cuando Me Enamoro",
+      "url": "https://open.spotify.com/track/1NsAnbieLK5ZHhfDRnN5bW"
+    },
+    {
+      "album": {
         "name": "El Viaje de Copperpot",
         "url": "https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu"
       },
@@ -469,6 +527,24 @@
       "duration_ms": 169533,
       "name": "Cu\u00eddate",
       "url": "https://open.spotify.com/track/7gqIqyeCaV2xNtfZWxEphD"
+    },
+    {
+      "album": {
+        "name": "Grandes Exitos - US CD version",
+        "url": "https://open.spotify.com/album/2RTzSYUsrbecOYJQbElNc9"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 256186,
+      "name": "C\u00f3mo Es Posible Que a Mi Lado",
+      "url": "https://open.spotify.com/track/1noyAKr7bcWGix5gqKSldh"
     },
     {
       "album": {
@@ -555,10 +631,46 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 220773,
       "name": "Dime Ven",
       "url": "https://open.spotify.com/track/15dKsB2vjInNQNN8EWuwxD"
+    },
+    {
+      "album": {
+        "name": "Motel",
+        "url": "https://open.spotify.com/album/71G82kgmI0r6RipUwPzgZp"
+      },
+      "artists": [
+        {
+          "name": "Motel",
+          "url": "https://open.spotify.com/artist/19IsMFpELM7g2UDuwDlZvU"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220773,
+      "name": "Dime Ven",
+      "url": "https://open.spotify.com/track/1kcGgL73ptM5SwurvMZplk"
+    },
+    {
+      "album": {
+        "name": "Y Te Vas",
+        "url": "https://open.spotify.com/album/38P0BRatX93lywXTCQA1Rx"
+      },
+      "artists": [
+        {
+          "name": "Motel",
+          "url": "https://open.spotify.com/artist/19IsMFpELM7g2UDuwDlZvU"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 220773,
+      "name": "Dime Ven",
+      "url": "https://open.spotify.com/track/7qKtKVgcfdrn60BxNjSMWF"
     },
     {
       "album": {
@@ -621,6 +733,28 @@
       "duration_ms": 275440,
       "name": "Don't Go Breaking My Heart",
       "url": "https://open.spotify.com/track/7HW5WIw7ZgZORCzUxv5gW5"
+    },
+    {
+      "album": {
+        "name": "Diamonds (Deluxe)",
+        "url": "https://open.spotify.com/album/1uzIyRT1QxDx4fMIX0UiAE"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Kiki Dee",
+          "url": "https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 266146,
+      "name": "Don't Go Breaking My Heart - Remastered",
+      "url": "https://open.spotify.com/track/3Oa9AekIq67UBax1H9bXp6"
     },
     {
       "album": {
@@ -896,6 +1030,24 @@
     },
     {
       "album": {
+        "name": "90s Music",
+        "url": "https://open.spotify.com/album/4knKJtYgbzadHtkp18JinJ"
+      },
+      "artists": [
+        {
+          "name": "The Cardigans",
+          "url": "https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 198240,
+      "name": "Lovefool - Radio Edit",
+      "url": "https://open.spotify.com/track/2WHKs1bPs8VMAPat6ZwbOe"
+    },
+    {
+      "album": {
         "name": "Lucky (feat. Ximena Sari\u00f1ana)",
         "url": "https://open.spotify.com/album/71rd7bVayawEfo4pf58Kyt"
       },
@@ -955,6 +1107,24 @@
       "duration_ms": 195226,
       "name": "Ma\u00f1ana Es Too Late",
       "url": "https://open.spotify.com/track/7ckO8bTkYT5YzwzwnZ6v5a"
+    },
+    {
+      "album": {
+        "name": "Lo Esencial",
+        "url": "https://open.spotify.com/album/03NNoTNQrvsTVqeIt8icUM"
+      },
+      "artists": [
+        {
+          "name": "Fey",
+          "url": "https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 221173,
+      "name": "Media Naranja",
+      "url": "https://open.spotify.com/track/0m13X7XRcR5iijJuiotj3Q"
     },
     {
       "album": {
@@ -1440,6 +1610,32 @@
     },
     {
       "album": {
+        "name": "Latin Pop Bites Vol. 3",
+        "url": "https://open.spotify.com/album/0NmYWFjQM8ieoYL85kBnNH"
+      },
+      "artists": [
+        {
+          "name": "Kumbia Kings",
+          "url": "https://open.spotify.com/artist/3jO5UGHrEzfd5YIamfs7Ir"
+        },
+        {
+          "name": "A.B. Quintanilla III",
+          "url": "https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU"
+        },
+        {
+          "name": "Pee Wee Gonzalez",
+          "url": "https://open.spotify.com/artist/7mj8ZMCC4iGR0OQsUy6cvB"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 227200,
+      "name": "Sabes A Chocolate",
+      "url": "https://open.spotify.com/track/4WhI8IxtNfGh9zEl85KZAN"
+    },
+    {
+      "album": {
         "name": "Sabor a Chocolate",
         "url": "https://open.spotify.com/album/3L9Kq7bC5SktAwxSZnKrrJ"
       },
@@ -1700,6 +1896,24 @@
     },
     {
       "album": {
+        "name": "Top Colombia",
+        "url": "https://open.spotify.com/album/6mHmDuiCzn5ZCMYqXdiSqX"
+      },
+      "artists": [
+        {
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 228680,
+      "name": "Te Mando Flores",
+      "url": "https://open.spotify.com/track/2tHG7d2On9xKt3U6DWJsnX"
+    },
+    {
+      "album": {
         "name": "Amanecer",
         "url": "https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090"
       },
@@ -1715,6 +1929,24 @@
       "duration_ms": 239546,
       "name": "To My Love",
       "url": "https://open.spotify.com/track/6z1VtU0MCGo666iKiajfhp"
+    },
+    {
+      "album": {
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/3y1nIDv3YFYPl0Z8ZdyQ9d"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 287373,
+      "name": "Toda la Vida",
+      "url": "https://open.spotify.com/track/3bekxMTpuHXZXjvuGWtBx5"
     },
     {
       "album": {
@@ -1787,6 +2019,24 @@
       "duration_ms": 276066,
       "name": "Turn Off The Light",
       "url": "https://open.spotify.com/track/4gM2BugovNf4bvXdjZODzG"
+    },
+    {
+      "album": {
+        "name": "00's Pop Hits",
+        "url": "https://open.spotify.com/album/0QkDZlQ3LvbVVYqMLB0Rif"
+      },
+      "artists": [
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 276066,
+      "name": "Turn Off The Light",
+      "url": "https://open.spotify.com/track/6uBW7Fd1brEaATyn3tLgkv"
     },
     {
       "album": {

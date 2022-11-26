@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "The Missing Peace",
+        "url": "https://open.spotify.com/album/0yOXtde4YGMQadJic2I6qr"
+      },
+      "artists": [
+        {
+          "name": "Mikhala Jen\u00e9",
+          "url": "https://open.spotify.com/artist/1wbags12HDkfPHnyyH5Qiy"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208727,
+      "name": "Add Up To 1",
+      "url": "https://open.spotify.com/track/0GaSs1MtArSVQ1mPPACxDG"
+    },
+    {
+      "album": {
         "name": "All I Do",
         "url": "https://open.spotify.com/album/2QVLpiJGckXDQAssDGPWdC"
       },
@@ -378,7 +396,7 @@
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 256240,
+      "duration_ms": 256239,
       "name": "Darlin' Darlin' Baby (Sweet, Tender, Love)",
       "url": "https://open.spotify.com/track/2gdvXdZatpwlUM1bfTzwxi"
     },
@@ -449,7 +467,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 233056,
       "name": "First Began",
       "url": "https://open.spotify.com/track/3ht2PBKbkqSJ0XEkQuNHnZ"
@@ -467,7 +485,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 366226,
       "name": "Forever Mine",
       "url": "https://open.spotify.com/track/2X4H5K1aT6d7UyPWVfJWmF"
@@ -623,7 +641,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 285333,
       "name": "If Only You Knew",
       "url": "https://open.spotify.com/track/60kYnvU89eL92jJ3eQcPXq"
@@ -1351,7 +1369,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 298800,
       "name": "The Lady in My Life",
       "url": "https://open.spotify.com/track/4OpwADjlTmeRSWHkUrGXpz"
@@ -1421,7 +1439,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-22",
       "duration_ms": 354626,
       "name": "Turn off the Lights",
       "url": "https://open.spotify.com/track/47nJdvSobIGBYdN7y2caLM"
@@ -1533,6 +1551,24 @@
       "duration_ms": 198813,
       "name": "Where You Are",
       "url": "https://open.spotify.com/track/6RaTdBF0hGe6Iw87tSO4qG"
+    },
+    {
+      "album": {
+        "name": "why didn't you call???",
+        "url": "https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK"
+      },
+      "artists": [
+        {
+          "name": "Saint Harison",
+          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196734,
+      "name": "why didn't you call???",
+      "url": "https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY"
     },
     {
       "album": {
@@ -1663,7 +1699,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 255973,
       "name": "Your Smile",
       "url": "https://open.spotify.com/track/7GPd68coLrQ0prQcbceWkG"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ilnsFNjAAc.md) - [plain]
 
 > Raw dance beats pushing club culture forwards\. Cover: Shygirl
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,577 likes - 60 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,701 likes - 60 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ilnsFNjAAc.md) - [plain]
 | 8 | [REACHUPDONTSTOP](https://open.spotify.com/track/50MQXEs1GS72XrNG4uXL2F) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [PLANET'S MAD](https://open.spotify.com/album/6uqNRIEzOXHDQRTXsOBqSW) | 4:00 |
 | 9 | [Monkey See...](https://open.spotify.com/track/42zqi6m9L89EPBIlBeQ16U) | [Aardvarck](https://open.spotify.com/artist/3JR7NAWvzkrZR3pKwrixS3) | [Monkey See...](https://open.spotify.com/album/50bZiYghbY2zlcMgoc3lX4) | 5:47 |
 | 10 | [Silkworm](https://open.spotify.com/track/4OnN0jEOJW4VVF4nvqvkAP) | [Giant Swan](https://open.spotify.com/artist/0Pb1JB8ps5wlHniYSgRnum) | [Silkworm](https://open.spotify.com/album/3kmokPfbCakHuInhmWz1xp) | 5:25 |
-| 11 | [Foh](https://open.spotify.com/track/4FczDsZj8slwpppLz33rwA) | [Scratcha DVA](https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7) | [Drmtrk V](https://open.spotify.com/album/7Mh14BVjlgZJI7dGETrIdJ) | 4:06 |
+| 11 | [Foh](https://open.spotify.com/track/5KOzLFWT6o3ACbNmCC6gGU) | [Scratcha DVA](https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7) | [Drmtrk V](https://open.spotify.com/album/7n1cf3SUccyhmdDgCXRoog) | 4:06 |
 | 12 | [NOBODY](https://open.spotify.com/track/3YoXksESEwIkPsH1gZBq4r) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [NOBODY](https://open.spotify.com/album/0QkYU5KB8lMH9XOj5kUiRe) | 1:56 |
 | 13 | [BAWDY](https://open.spotify.com/track/1bMG9DKuMJhdwTSTtphTDC) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [ALIAS](https://open.spotify.com/album/3lpcZOAsYJzvPepNSbzMSb) | 2:34 |
 | 14 | [Familiars](https://open.spotify.com/track/5ckxGXw6Awq0Qrzj2IjmVd) | [Silk Road Assassins](https://open.spotify.com/artist/3Bwlxe7rFmvWcEkAnA6FRZ) | [State of Ruin](https://open.spotify.com/album/1vx9B58AqRjAlvzH0pOWgu) | 2:54 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ilnsFNjAAc.md) - [plain]
 | 48 | [HOT \- Florentino Remix](https://open.spotify.com/track/12wmgaotWpT7L2pv6G7ZE3) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY), [Nick & Navi](https://open.spotify.com/artist/7x6iPPYRfmbacrdRChvYp3), [Florentino](https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44) | [HOT \(Remixes\)](https://open.spotify.com/album/2V455jdMkssf0SdpBkg4vX) | 3:21 |
 | 49 | [Off Road](https://open.spotify.com/track/2wjU2LuGr2stO5pB4X9eML) | [Yayoyanoh](https://open.spotify.com/artist/0fzgjxZTQn4E7y3MGPI3AC), [Organ Tapes](https://open.spotify.com/artist/2dSa2lW4FLaQcPlzAcZOTS) | [Yayoyanoh Ep001](https://open.spotify.com/album/2rOJhywSlonMAXuC7VR6Wk) | 3:04 |
 | 50 | [Golf](https://open.spotify.com/track/2Bu6nGjaWlW0q6MiCDNWMJ) | [Ikonika](https://open.spotify.com/artist/1GbZUOowT6BhrI9QVoUniG) | [The Library Album](https://open.spotify.com/album/5oUlk9BedZHnMYDVaHtaXk) | 2:31 |
-| 51 | [Muhammad Ali \- Original Mix](https://open.spotify.com/track/6EFSYhuNSpt6RC7n8ItHBD) | [Scratcha DVA](https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7), [Lady Lykez](https://open.spotify.com/artist/2G7c1PLHP1kGjq6XAol0MS) | [Drmtrk II](https://open.spotify.com/album/0odn367rNyxYJb1urf9JIs) | 2:24 |
-| 52 | [Pounce](https://open.spotify.com/track/3SrEARFQQeB1jPvcdY0TzR) | [FLOHIO](https://open.spotify.com/artist/7qffELscxpltKCso3ByH67), [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Cadenza](https://open.spotify.com/artist/2pSxft78wxISNLTbjFThTk) | [Pounce](https://open.spotify.com/album/6Okmbkojhxqf64W25s2N88) | 3:24 |
+| 51 | [Muhammad Ali \- Original Mix](https://open.spotify.com/track/0T0MJzkXiAvnnZ0XRyXZdZ) | [Scratcha DVA](https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7), [Lady Lykez](https://open.spotify.com/artist/1nR7ltX9Vpms7eTzrTDkTw) | [Drmtrk II](https://open.spotify.com/album/3Dh51hsahLEDBqRowPLvID) | 2:24 |
+| 52 | [Pounce](https://open.spotify.com/track/0wdgTXpl7C4Y1bCDSGObH1) | [FLOHIO](https://open.spotify.com/artist/7qffELscxpltKCso3ByH67), [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Cadenza](https://open.spotify.com/artist/1bNzXbgsvRae7iPvgdwLsh) | [Pounce](https://open.spotify.com/album/4aPyjcIQmlVzXuePvMBID7) | 3:24 |
 | 53 | [The Drip](https://open.spotify.com/track/65Ub39ZeqI2Ybad13gNJTS) | [Identified Patient](https://open.spotify.com/artist/7f8YjXIXYXMDWaYCICYUUD), [Sophie du Palais](https://open.spotify.com/artist/35bmpfYBO4XTtt4HOmIJ7I) | [Signals in Snakes](https://open.spotify.com/album/2afYDJCjgBlbNmO5vmqCmo) | 5:59 |
 | 54 | [Black Dragons](https://open.spotify.com/track/3hkaTxcPol9mojh5NupAT3) | [Rabit](https://open.spotify.com/artist/2X3e2rDdxibDfJGv0CwS7A), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y) | [Black Dragons](https://open.spotify.com/album/0eJF1w6vSoYGLahJ1tyjFv) | 3:05 |
 | 55 | [Mimetic](https://open.spotify.com/track/6jtNPGYjvuUN0cWXjuAk5a) | [Oli XL](https://open.spotify.com/artist/3L3ejltt5dmjXkES4YSGKX) | [Rogue Intruder, Soul Enhancer](https://open.spotify.com/album/5GDLaN1HaXPTAx16UYZAvZ) | 5:34 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ilnsFNjAAc.md) - [plain]
 | 59 | [Harbinger](https://open.spotify.com/track/3smLcr5e84zq10h2LXByED) | [Alec Ness](https://open.spotify.com/artist/3qIOkb1528LbR4UIwJefsr) | [Temporary Awareness of Passing](https://open.spotify.com/album/1Or89jf0Su8WpBINgkvVLI) | 3:07 |
 | 60 | [Alucard](https://open.spotify.com/track/2ibgB5zU0EGIh1x7JM8AMD) | [Swan Meat](https://open.spotify.com/artist/20GBDDzRPgnhVRuIjkrSd6) | [Alucard](https://open.spotify.com/album/0KlEXfI6QhODTsxKdSjrl4) | 5:12 |
 
-Snapshot ID: `MTYxMzc1Nzc2MCwwMDAwMDAwMGNkNzMyMmNiZmFjZmQ4YTY0MjE1Y2EwYTljZjI1OTMx`
+Snapshot ID: `MTYxMzc1Nzc2MCwwMDAwMDAwMDRhNTA3NjhhNzQwN2E4NDkxZGQ5NzM3MThhODU1M2Y2`

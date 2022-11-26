@@ -1,12 +1,12 @@
 {
   "description": "Disfrutemos del amor en los tiempos del rock.",
-  "num_followers": 82464,
+  "num_followers": 88291,
   "original_name": "Rocanlovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQwNjcyNCwwMDAwMDAwMDMyODBmY2E3Yjk3YTZlNmMzOGI2MTUwZDU4ZDE5Y2Rm",
+  "snapshot_id": "MTY2OTMzNjk0NSwwMDAwMDAwMDBlYmY4ZTEwODA4ZmRjNDc5Mzk0NGMwZmRhMzdjZjNj",
   "tracks": [
     {
       "added_at": "2022-01-28 15:52:04",
@@ -333,6 +333,22 @@
       "url": "https://open.spotify.com/track/6OKmGZASRCmiKQKz4hCNrs"
     },
     {
+      "added_at": "2022-11-24 22:44:58",
+      "album": {
+        "name": "Cometa",
+        "url": "https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww"
+      },
+      "artists": [
+        {
+          "name": "Vesica Piscis",
+          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
+        }
+      ],
+      "duration_ms": 256696,
+      "name": "Invierno",
+      "url": "https://open.spotify.com/track/7Lt1pDskyOACrikOmHGz98"
+    },
+    {
       "added_at": "2022-09-28 23:12:04",
       "album": {
         "name": "Libertad",
@@ -639,6 +655,22 @@
       "duration_ms": 209920,
       "name": "Pijamas",
       "url": "https://open.spotify.com/track/1AYgMuI3cgL5EjnfhnZVoq"
+    },
+    {
+      "added_at": "2022-11-25 00:42:25",
+      "album": {
+        "name": "Orbitando",
+        "url": "https://open.spotify.com/album/2WX8hAKuu55kXM3xxYAbPL"
+      },
+      "artists": [
+        {
+          "name": "Neptuna",
+          "url": "https://open.spotify.com/artist/6zucgTdBIrQ7ULFhw7MG1G"
+        }
+      ],
+      "duration_ms": 327500,
+      "name": "Vor\u00e1gine",
+      "url": "https://open.spotify.com/track/2MWTbzD8Sy4sRgMjuAazkJ"
     },
     {
       "added_at": "2022-04-26 02:05:51",
@@ -1392,8 +1424,8 @@
           "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
         },
         {
-          "name": "Adan Jodorowsky",
-          "url": "https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag"
+          "name": "Adanowsky",
+          "url": "https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063"
         }
       ],
       "duration_ms": 234866,

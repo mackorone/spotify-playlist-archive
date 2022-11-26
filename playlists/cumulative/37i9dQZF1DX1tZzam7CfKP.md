@@ -4,7 +4,7 @@
 
 > All funk, all live\. Cover: Earth Wind & Fire
 
-55 songs - 5 hr 45 min - [published](https://open.spotify.com/playlist/2v0Q5hgZbBPeZBtRP6q1o6)
+56 songs - 5 hr 54 min - [published](https://open.spotify.com/playlist/2v0Q5hgZbBPeZBtRP6q1o6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [One Night Only \(The March\) \- Live](https://open.spotify.com/track/1zviOAnocsdrcMPv6SSRAi) | [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Jazz Fest: The New Orleans Jazz & Heritage Festival](https://open.spotify.com/album/1KHL1RsuKBVyDyHBvlNO1Q) | 3:29 | 2021-11-12 |  |
 | [Oops Upside Your Head \(Live\)](https://open.spotify.com/track/12qDEgR79wkOeLsvO4eH4m) | [The Gap Band](https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp) | [Groovin' With....The Gap Band \(Live\)](https://open.spotify.com/album/0venVIHlJkvoI8tmsCESj2) | 5:11 | 2021-11-12 |  |
 | [Outrageous \- Live](https://open.spotify.com/track/51WQakjhwsoPZ1Wr4clgoa) | [Lakeside](https://open.spotify.com/artist/74lTWE4DqbFU3Vn8z4uH72) | [Fresh Takes \(Live\)](https://open.spotify.com/album/3i83GqrBewJvgNLIxmwkgk) | 6:35 | 2021-11-12 |  |
+| [Own Me \- Live at Pikes Ibiza](https://open.spotify.com/track/68pP7yZDSypoO61c71GmMD) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Own Me \(Live at Pikes Ibiza\)](https://open.spotify.com/album/50hUqiCnpIpWaKkHHLqiqW) | 8:16 | 2022-10-14 |  |
 | [Person to Person \- Live](https://open.spotify.com/track/1OLHfed0SBV8wMp8Bph2OE) | [Average White Band](https://open.spotify.com/artist/3tx8fyu3c4OBP5nejYtUOb) | [Person to Person](https://open.spotify.com/album/3FCyjtaOdE0glsZMy4uPsV) | 7:02 | 2021-11-12 |  |
 | [Psychoticbumpschool \- Live Version](https://open.spotify.com/track/24TPNhH0tX9f7QxfGMb4ho) | [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [Back In The Day: The Best Of Bootsy](https://open.spotify.com/album/5drHXExICEAsiNehDQvYwV) | 6:37 | 2021-11-12 |  |
 | [Saturday Night \- Live At The Filmore](https://open.spotify.com/track/42ZCfSrdn6UujHk5deiwDB) | [Ozomatli](https://open.spotify.com/artist/1An0HCtDktvCBDdFEu7HC0) | [Live At The Fillmore](https://open.spotify.com/album/7qcTl3nSqT2vnt14gNi43V) | 4:16 | 2021-11-12 |  |

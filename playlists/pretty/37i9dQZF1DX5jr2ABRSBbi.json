@@ -1,18 +1,230 @@
 {
-  "description": "\u017deny v pln\u00e9 s\u00edle. Poslouchej EQUAL CZ&SK. Cover: Maella ",
-  "num_followers": 3229,
+  "description": "\u017deny v pln\u00e9 s\u00edle. Poslouchej EQUAL CZ&SK. Cover: Tamara Kramar",
+  "num_followers": 3366,
   "original_name": "EQUAL CZ&SK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDkyMDgwMCwwMDAwMDAwMDIyOWY0NDUyOGQwYTcxMmQwM2RlNDA1NTBlODQ1Mzg0",
+  "snapshot_id": "MTY2NzUxNjQwMCwwMDAwMDAwMGQ3ODU3ZmYxNTA4MWFhNTY3MDQzMGM2ZjVmYjc4YTU2",
   "tracks": [
     {
-      "added_at": "2022-10-04 22:00:00",
+      "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Slow Burn",
-        "url": "https://open.spotify.com/album/3rsmCfSkLjDUcjSembmp3S"
+        "name": "Down / House of Cards",
+        "url": "https://open.spotify.com/album/2ndm3i6NRcaR2EmUiuh7vo"
+      },
+      "artists": [
+        {
+          "name": "Tamara Kramar",
+          "url": "https://open.spotify.com/artist/5oUUInn3oIsijfbnrmlYhT"
+        }
+      ],
+      "duration_ms": 241327,
+      "name": "Down / House of Cards",
+      "url": "https://open.spotify.com/track/72foKCqAhGyaeofqmQ2TL0"
+    },
+    {
+      "added_at": "2022-11-01 23:00:00",
+      "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/6eHdWplf77Jq7KX3Kqeii4"
+      },
+      "artists": [
+        {
+          "name": "Celeste Buckingham",
+          "url": "https://open.spotify.com/artist/2fIUlieTjLTaNQUIKHX5B8"
+        }
+      ],
+      "duration_ms": 246829,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/2nZSM1K6ygAtwvZXtYXnxz"
+    },
+    {
+      "added_at": "2022-11-01 23:00:00",
+      "album": {
+        "name": "Sv\u011bt je m\u00e1lo r\u016f\u017eov\u00fd",
+        "url": "https://open.spotify.com/album/6cCn5zosowaY0BdOSDS0aQ"
+      },
+      "artists": [
+        {
+          "name": "Tereza Ma\u0161kov\u00e1",
+          "url": "https://open.spotify.com/artist/4m4vkJiLg3nbmwdxySeIVC"
+        },
+        {
+          "name": "Marek Lambora",
+          "url": "https://open.spotify.com/artist/307KJERDuX0AymnyTPiFLh"
+        }
+      ],
+      "duration_ms": 191946,
+      "name": "N\u00e1\u0161 p\u0159\u00edb\u011bh (feat. Marek Lambora)",
+      "url": "https://open.spotify.com/track/6bM8lUJqOKk01onB5DfjKL"
+    },
+    {
+      "added_at": "2022-11-01 23:00:00",
+      "album": {
+        "name": "F\u00e9nix",
+        "url": "https://open.spotify.com/album/7G4hxteCYnrF1ZDZy7GTrW"
+      },
+      "artists": [
+        {
+          "name": "Lucie B\u00edl\u00e1",
+          "url": "https://open.spotify.com/artist/6pkv72pSnhPBKqqFzhDe6f"
+        }
+      ],
+      "duration_ms": 216177,
+      "name": "F\u00e9nix",
+      "url": "https://open.spotify.com/track/1Xa2Y5ZpDPrH0Laygi1mCZ"
+    },
+    {
+      "added_at": "2022-11-01 23:00:00",
+      "album": {
+        "name": "Labirinto",
+        "url": "https://open.spotify.com/album/2Zdz6iz9TRPB2vhxhRFLTz"
+      },
+      "artists": [
+        {
+          "name": "Giudi",
+          "url": "https://open.spotify.com/artist/1PpVDDj4MkhQlvvYy7SGfj"
+        }
+      ],
+      "duration_ms": 130310,
+      "name": "Labirinto",
+      "url": "https://open.spotify.com/track/3EVLoHL53eFU7TMWQdd1Qb"
+    },
+    {
+      "added_at": "2022-11-01 23:00:00",
+      "album": {
+        "name": "N\u011bkde tam",
+        "url": "https://open.spotify.com/album/3Sdb81ReGcQON5kuHwETlR"
+      },
+      "artists": [
+        {
+          "name": "Vladivojna La Chia",
+          "url": "https://open.spotify.com/artist/1tCZPIH2JszVz5PuTRWEzy"
+        },
+        {
+          "name": "David Pomaha\u010d",
+          "url": "https://open.spotify.com/artist/3OKWvddDfUzluXdXhkBFKI"
+        }
+      ],
+      "duration_ms": 261931,
+      "name": "N\u011bkde tam",
+      "url": "https://open.spotify.com/track/0CNycyUlxVGH26YwhqsZba"
+    },
+    {
+      "added_at": "2022-11-01 23:00:00",
+      "album": {
+        "name": "Requiem za krajinu",
+        "url": "https://open.spotify.com/album/1FrzyGz53BZRzz6oRVeqPJ"
+      },
+      "artists": [
+        {
+          "name": "Dorota Nvotova",
+          "url": "https://open.spotify.com/artist/512x4MSLdFHoDBuvAHt0aW"
+        }
+      ],
+      "duration_ms": 165500,
+      "name": "Requiem za krajinu",
+      "url": "https://open.spotify.com/track/6O3Iv9MsA5aX1RnzdCm1hH"
+    },
+    {
+      "added_at": "2022-11-01 23:00:00",
+      "album": {
+        "name": "Live at Gong",
+        "url": "https://open.spotify.com/album/2j6nLA9NOLl4ij8RwgXPL9"
+      },
+      "artists": [
+        {
+          "name": "Nina Marinov\u00e1",
+          "url": "https://open.spotify.com/artist/6nuT0pzpIXesv3vEAIsGKW"
+        },
+        {
+          "name": "B\u00e1ra Zmekov\u00e1",
+          "url": "https://open.spotify.com/artist/25kg48KQR5IPL7CHQO5QhC"
+        },
+        {
+          "name": "Ond\u0159ej Vychodil",
+          "url": "https://open.spotify.com/artist/2DVLFa2lnvorg6zXCppbBT"
+        },
+        {
+          "name": "Oskar T\u00f6r\u00f6k",
+          "url": "https://open.spotify.com/artist/6ggig1QTrvv08jV2Q92vhs"
+        },
+        {
+          "name": "Viktor Do\u0159i\u010d\u00e1k",
+          "url": "https://open.spotify.com/artist/0slxhBwTrVqOPHXOQVeXOL"
+        },
+        {
+          "name": "Michal Mihok",
+          "url": "https://open.spotify.com/artist/5o0fjohe9gTI8gaVpAFaze"
+        },
+        {
+          "name": "Petr Tich\u00fd",
+          "url": "https://open.spotify.com/artist/0z7ZEmQCYeUWSSDUdvVBbs"
+        },
+        {
+          "name": "Marcela Ku\u010dov\u00e1",
+          "url": "https://open.spotify.com/artist/2ZdOikaRYjTvDfLkPa7Alq"
+        }
+      ],
+      "duration_ms": 303658,
+      "name": "\u00dabo\u010d\u00ed - Live at Gong",
+      "url": "https://open.spotify.com/track/2AziHYU4aKh51h5vxCHu5u"
+    },
+    {
+      "added_at": "2022-11-01 23:00:00",
+      "album": {
+        "name": "Keep Walking",
+        "url": "https://open.spotify.com/album/7KxooUJlQ8anJJYeB79jog"
+      },
+      "artists": [
+        {
+          "name": "Evah",
+          "url": "https://open.spotify.com/artist/1t9G8Ol2BuSJnbTAEOJYZh"
+        }
+      ],
+      "duration_ms": 189387,
+      "name": "Keep Walking",
+      "url": "https://open.spotify.com/track/5r5GgldyjiO7TuI8rySW4i"
+    },
+    {
+      "added_at": "2022-11-01 23:00:00",
+      "album": {
+        "name": "Playing It Cool",
+        "url": "https://open.spotify.com/album/4u1cwmnms5FzpEGis4Fciz"
+      },
+      "artists": [
+        {
+          "name": "Nykki",
+          "url": "https://open.spotify.com/artist/4tr3FhDOdmSORCDrH6Q4CX"
+        }
+      ],
+      "duration_ms": 171137,
+      "name": "Playing It Cool",
+      "url": "https://open.spotify.com/track/1gAQEpLXw5D5HErqNGNK4O"
+    },
+    {
+      "added_at": "2022-11-01 23:00:00",
+      "album": {
+        "name": "Baby Doll",
+        "url": "https://open.spotify.com/album/5cAz7b0E2RT7QIAmzwI7Dg"
+      },
+      "artists": [
+        {
+          "name": "Kristal Shine",
+          "url": "https://open.spotify.com/artist/1jschkhe5eRensKBEq1lVY"
+        }
+      ],
+      "duration_ms": 161612,
+      "name": "Baby Doll",
+      "url": "https://open.spotify.com/track/29HhP5U9lJXO0zOvLKfKy2"
+    },
+    {
+      "added_at": "2022-11-01 23:00:00",
+      "album": {
+        "name": "Tudu Tudu Tu",
+        "url": "https://open.spotify.com/album/1kem3mNe6TQLSUPMQnMxdt"
       },
       "artists": [
         {
@@ -22,26 +234,10 @@
       ],
       "duration_ms": 160903,
       "name": "Tudu Tudu Tu",
-      "url": "https://open.spotify.com/track/4FOCWMx3Xl36xlEQoEYmpn"
+      "url": "https://open.spotify.com/track/72UIs3n4aCN6GInoLSNQBV"
     },
     {
-      "added_at": "2022-10-04 22:00:00",
-      "album": {
-        "name": "Oh my mind",
-        "url": "https://open.spotify.com/album/2glevWrlWJ7Qy0P3yy1P9O"
-      },
-      "artists": [
-        {
-          "name": "Tamara Kramar",
-          "url": "https://open.spotify.com/artist/5oUUInn3oIsijfbnrmlYhT"
-        }
-      ],
-      "duration_ms": 171191,
-      "name": "Oh my mind",
-      "url": "https://open.spotify.com/track/11xhklamG0Y8fOwufeugtK"
-    },
-    {
-      "added_at": "2022-10-04 22:00:00",
+      "added_at": "2022-11-01 23:00:00",
       "album": {
         "name": "Am\u00e9lie",
         "url": "https://open.spotify.com/album/0oGMYpFEygQiavNUHfiO1W"
@@ -57,7 +253,7 @@
       "url": "https://open.spotify.com/track/5S5jalbmEC2I8i5wNYw7v5"
     },
     {
-      "added_at": "2022-10-04 22:00:00",
+      "added_at": "2022-11-01 23:00:00",
       "album": {
         "name": "P\u00fa\u0161\u0165am.",
         "url": "https://open.spotify.com/album/3wsaYtM0jTM9ElZ8ZB7ckt"
@@ -73,7 +269,7 @@
       "url": "https://open.spotify.com/track/2UofgvTqDgEsQhDQUsQsWk"
     },
     {
-      "added_at": "2022-10-04 22:00:00",
+      "added_at": "2022-11-01 23:00:00",
       "album": {
         "name": "No\u010dn\u00ed expres",
         "url": "https://open.spotify.com/album/3bkKF5lhfhvU7o0G4wM4HO"
@@ -93,7 +289,7 @@
       "url": "https://open.spotify.com/track/4DE6brR7Gij10lkKZXp6Hk"
     },
     {
-      "added_at": "2022-10-04 22:00:00",
+      "added_at": "2022-11-01 23:00:00",
       "album": {
         "name": "A Walk in the Dark",
         "url": "https://open.spotify.com/album/6iIJtS5FA0XZJIhAba135j"
@@ -109,7 +305,7 @@
       "url": "https://open.spotify.com/track/1YkKRJHnecfO8PelJgljBs"
     },
     {
-      "added_at": "2022-10-04 22:00:00",
+      "added_at": "2022-11-01 23:00:00",
       "album": {
         "name": "ethereal grounds",
         "url": "https://open.spotify.com/album/5jwY7V7mNJXKA9InKWAnH8"
@@ -125,7 +321,7 @@
       "url": "https://open.spotify.com/track/6KZ2uhPOlewuJc4NzbGy44"
     },
     {
-      "added_at": "2022-10-04 22:00:00",
+      "added_at": "2022-11-01 23:00:00",
       "album": {
         "name": "NTL",
         "url": "https://open.spotify.com/album/2T7ngdZyms0QKlsCkZpba8"
@@ -145,7 +341,7 @@
       "url": "https://open.spotify.com/track/3cSfzkIzBA1lr7lB6Vs2Xo"
     },
     {
-      "added_at": "2022-10-04 22:00:00",
+      "added_at": "2022-11-01 23:00:00",
       "album": {
         "name": "Rebarbora",
         "url": "https://open.spotify.com/album/5zvCPwQy7Tb5Gg8XyTcIZF"
@@ -161,7 +357,7 @@
       "url": "https://open.spotify.com/track/2YOKrTWXt0cFfXIq5gJuLh"
     },
     {
-      "added_at": "2022-10-04 22:00:00",
+      "added_at": "2022-11-01 23:00:00",
       "album": {
         "name": "Nemaj strach",
         "url": "https://open.spotify.com/album/2EhB6GPXcvy2cRIw1cFctL"
@@ -177,7 +373,7 @@
       "url": "https://open.spotify.com/track/1uSr5MtSEJ9i3Ico6xAeTj"
     },
     {
-      "added_at": "2022-10-04 22:00:00",
+      "added_at": "2022-11-01 23:00:00",
       "album": {
         "name": "Ver\u00edm",
         "url": "https://open.spotify.com/album/0SZQhC66vnT1mI56oQDatX"
@@ -193,7 +389,7 @@
       "url": "https://open.spotify.com/track/4wVBzqaWU4apXIpQPtV761"
     },
     {
-      "added_at": "2022-10-04 22:00:00",
+      "added_at": "2022-11-01 23:00:00",
       "album": {
         "name": "Heartbreak Culture",
         "url": "https://open.spotify.com/album/4tBMHWT12lc9PX4xNloyz7"
@@ -209,7 +405,7 @@
       "url": "https://open.spotify.com/track/4MMJbS1RLxovnQ7KWrD9ro"
     },
     {
-      "added_at": "2022-10-04 22:00:00",
+      "added_at": "2022-11-01 23:00:00",
       "album": {
         "name": "High Speed",
         "url": "https://open.spotify.com/album/3wTJ3PFS3cbO2IJ84CMBQu"
@@ -229,7 +425,7 @@
       "url": "https://open.spotify.com/track/0YWbgC0vX8kvSv40l3KrIw"
     },
     {
-      "added_at": "2022-10-04 22:00:00",
+      "added_at": "2022-11-01 23:00:00",
       "album": {
         "name": "N\u00e1dhern\u00fd de\u0148",
         "url": "https://open.spotify.com/album/5ZcPS7zyjR9emfCmPajYYI"
@@ -245,7 +441,7 @@
       "url": "https://open.spotify.com/track/4Vj6uqVryCg8v3QshrKem7"
     },
     {
-      "added_at": "2022-10-04 22:00:00",
+      "added_at": "2022-11-01 23:00:00",
       "album": {
         "name": "TANCUJ",
         "url": "https://open.spotify.com/album/4qRmydErehz9mGPDaD3wFy"
@@ -265,7 +461,7 @@
       "url": "https://open.spotify.com/track/4XDSJ5hVJzBGydcFhXXcoh"
     },
     {
-      "added_at": "2022-10-04 22:00:00",
+      "added_at": "2022-11-01 23:00:00",
       "album": {
         "name": "\u010co zostalo z n\u00e1s",
         "url": "https://open.spotify.com/album/7tt695azTM3LeIv52mfrDi"
@@ -281,7 +477,7 @@
       "url": "https://open.spotify.com/track/3gWgYfMv1LVv1i7F9gUzsS"
     },
     {
-      "added_at": "2022-10-04 22:00:00",
+      "added_at": "2022-11-01 23:00:00",
       "album": {
         "name": "KIDNAP ME PLS",
         "url": "https://open.spotify.com/album/7gR7TjkbGXEPhQMLnqyuLs"
@@ -297,7 +493,7 @@
       "url": "https://open.spotify.com/track/2zIbl1gHuqMgXnC6bxURWW"
     },
     {
-      "added_at": "2022-10-04 22:00:00",
+      "added_at": "2022-11-01 23:00:00",
       "album": {
         "name": "Lila",
         "url": "https://open.spotify.com/album/5RgZJWdZUJmxDrHoavId7i"
@@ -313,7 +509,7 @@
       "url": "https://open.spotify.com/track/56RHNouupvzg1nbKkXlDsD"
     },
     {
-      "added_at": "2022-10-04 22:00:00",
+      "added_at": "2022-11-01 23:00:00",
       "album": {
         "name": "HEARTBREAK CULTURE",
         "url": "https://open.spotify.com/album/0h4ltIAXfZL6eknfLjgAfX"
@@ -329,7 +525,7 @@
       "url": "https://open.spotify.com/track/1guMgGOENhgW76OGn4DUj5"
     },
     {
-      "added_at": "2022-10-04 22:00:00",
+      "added_at": "2022-11-01 23:00:00",
       "album": {
         "name": "Slovo (From \"Slovo\")",
         "url": "https://open.spotify.com/album/3ytJKacarJhKLDqmXjo6QO"
@@ -349,10 +545,10 @@
       "url": "https://open.spotify.com/track/0vYWJ3nfHrac9jDDB6BLvA"
     },
     {
-      "added_at": "2022-10-04 22:00:00",
+      "added_at": "2022-11-01 23:00:00",
       "album": {
         "name": "Soil",
-        "url": "https://open.spotify.com/album/3JWcZrU8fUvGYitKKnf6Va"
+        "url": "https://open.spotify.com/album/6Y6YJAyqnXnPsoUovF2xqo"
       },
       "artists": [
         {
@@ -362,10 +558,10 @@
       ],
       "duration_ms": 158742,
       "name": "Soil",
-      "url": "https://open.spotify.com/track/3AHHbXEjjpPkQA8ETetnaV"
+      "url": "https://open.spotify.com/track/0EDd5Iv2S0E2KJ6XRAilAy"
     },
     {
-      "added_at": "2022-10-04 22:00:00",
+      "added_at": "2022-11-01 23:00:00",
       "album": {
         "name": "S odvahou vlka",
         "url": "https://open.spotify.com/album/5otvLoQQSV8rAdxm1IIHGn"
@@ -381,7 +577,7 @@
       "url": "https://open.spotify.com/track/4hOVPDlBdL52LPG9kYAEGr"
     },
     {
-      "added_at": "2022-10-04 22:00:00",
+      "added_at": "2022-11-01 23:00:00",
       "album": {
         "name": "Letn\u00ed L\u00e1sky",
         "url": "https://open.spotify.com/album/3sM1Nvb1uidmQ4ghlIoXU6"
@@ -397,7 +593,7 @@
       "url": "https://open.spotify.com/track/7gHWVmb1xtGI8u64AWieWL"
     },
     {
-      "added_at": "2022-10-04 22:00:00",
+      "added_at": "2022-11-01 23:00:00",
       "album": {
         "name": "Plastic Flowers",
         "url": "https://open.spotify.com/album/1ED0peXhq1bvjLKVNMbWL6"
@@ -413,7 +609,7 @@
       "url": "https://open.spotify.com/track/733EegAvi6DRptoJSTc2mF"
     },
     {
-      "added_at": "2022-10-04 22:00:00",
+      "added_at": "2022-11-01 23:00:00",
       "album": {
         "name": "oldschool",
         "url": "https://open.spotify.com/album/6hrWQvWiuuldRUyz6ySuEG"
@@ -429,7 +625,7 @@
       "url": "https://open.spotify.com/track/0amHpj8g65iQhVguWl8iO0"
     },
     {
-      "added_at": "2022-10-04 22:00:00",
+      "added_at": "2022-11-01 23:00:00",
       "album": {
         "name": "Girl From A Movie",
         "url": "https://open.spotify.com/album/6t5K3cKJCLqT6OTj5dhLO8"
@@ -445,7 +641,7 @@
       "url": "https://open.spotify.com/track/4JaEvhhoQmAHSGwRWzKNrD"
     },
     {
-      "added_at": "2022-10-04 22:00:00",
+      "added_at": "2022-11-01 23:00:00",
       "album": {
         "name": "Beauty's there",
         "url": "https://open.spotify.com/album/2AW9EfdxbivA2dilGlsWCg"
@@ -461,7 +657,7 @@
       "url": "https://open.spotify.com/track/2i7bqGUbOE3a2HCpjUcpZc"
     },
     {
-      "added_at": "2022-10-04 22:00:00",
+      "added_at": "2022-11-01 23:00:00",
       "album": {
         "name": "\u017dena z oceli (feat. P\u0159emek Forejt)",
         "url": "https://open.spotify.com/album/0EZuJsToN5SAbUuF1JBSub"
@@ -485,7 +681,7 @@
       "url": "https://open.spotify.com/track/7hjagYxU6uixJUJqdrhCCQ"
     },
     {
-      "added_at": "2022-10-04 22:00:00",
+      "added_at": "2022-11-01 23:00:00",
       "album": {
         "name": "The Season",
         "url": "https://open.spotify.com/album/2ok1Xc81dJY1ErSTTTV1YH"
@@ -501,7 +697,7 @@
       "url": "https://open.spotify.com/track/3gQgDA0Io3mXnJ2K1IAv6U"
     },
     {
-      "added_at": "2022-10-04 22:00:00",
+      "added_at": "2022-11-01 23:00:00",
       "album": {
         "name": "Perly",
         "url": "https://open.spotify.com/album/6Zl7wPmMCfCRYqtAcTGCpi"
@@ -517,7 +713,7 @@
       "url": "https://open.spotify.com/track/0fXTo66r7FrhFcUR5ye9OB"
     },
     {
-      "added_at": "2022-10-04 22:00:00",
+      "added_at": "2022-11-01 23:00:00",
       "album": {
         "name": "M\u011bsto",
         "url": "https://open.spotify.com/album/1HcKec0NPufgNkrqGSP6Qd"
@@ -537,7 +733,7 @@
       "url": "https://open.spotify.com/track/3OYekbaUpuUoBWSEqJpsru"
     },
     {
-      "added_at": "2022-10-04 22:00:00",
+      "added_at": "2022-11-01 23:00:00",
       "album": {
         "name": "Restless",
         "url": "https://open.spotify.com/album/4RoasvIB5pyov16k2jqIdt"
@@ -557,7 +753,7 @@
       "url": "https://open.spotify.com/track/6ZXrv1chJHfnFKgGqZtTg9"
     },
     {
-      "added_at": "2022-10-04 22:00:00",
+      "added_at": "2022-11-01 23:00:00",
       "album": {
         "name": "Yesterday",
         "url": "https://open.spotify.com/album/0051NbzTBMiGZERSyvfCsO"
@@ -573,7 +769,7 @@
       "url": "https://open.spotify.com/track/30S6h1M1Ik2uvqNWY9Cdc6"
     },
     {
-      "added_at": "2022-10-04 22:00:00",
+      "added_at": "2022-11-01 23:00:00",
       "album": {
         "name": "Vie\u0161, ani sa nepozn\u00e1me",
         "url": "https://open.spotify.com/album/6iWAiy1KfSrrVDPXrN1FGr"
@@ -589,7 +785,7 @@
       "url": "https://open.spotify.com/track/36Ks8nmkDZOdFfZ2LC054B"
     },
     {
-      "added_at": "2022-10-04 22:00:00",
+      "added_at": "2022-11-01 23:00:00",
       "album": {
         "name": "Ri\u0165",
         "url": "https://open.spotify.com/album/3obDmkHhQ1FJUzuAAeOV1y"
@@ -609,7 +805,7 @@
       "url": "https://open.spotify.com/track/1OlhHf8zcmPfJan6RR2s7h"
     },
     {
-      "added_at": "2022-10-04 22:00:00",
+      "added_at": "2022-11-01 23:00:00",
       "album": {
         "name": "live. laugh. cry",
         "url": "https://open.spotify.com/album/48qPWuZEfqbinvMRdfBKON"
@@ -625,23 +821,7 @@
       "url": "https://open.spotify.com/track/6f7mhbSq9pW2jzoVWgphh5"
     },
     {
-      "added_at": "2022-10-04 22:00:00",
-      "album": {
-        "name": "you make me miserable",
-        "url": "https://open.spotify.com/album/1AQmAHENyNC8wcz5qXwxsY"
-      },
-      "artists": [
-        {
-          "name": "Karin Ann",
-          "url": "https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "you make me miserable",
-      "url": "https://open.spotify.com/track/77mZIYNx234Fytm9V9FzUB"
-    },
-    {
-      "added_at": "2022-10-04 22:00:00",
+      "added_at": "2022-11-01 23:00:00",
       "album": {
         "name": "stuck in the cloud",
         "url": "https://open.spotify.com/album/2uT7r7OByzixVROAuDH6Ex"
@@ -657,55 +837,7 @@
       "url": "https://open.spotify.com/track/3bvzNtR80zFbbVCFjyXt7Y"
     },
     {
-      "added_at": "2022-10-04 22:00:00",
-      "album": {
-        "name": "Girls",
-        "url": "https://open.spotify.com/album/0Umz5EHGYbWocsZLwVx7TO"
-      },
-      "artists": [
-        {
-          "name": "Fejbs",
-          "url": "https://open.spotify.com/artist/0LviqijMvqJfXDI6xJFXxm"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Girls",
-      "url": "https://open.spotify.com/track/3Sm5jkH3G1FMKiLMa5QKwv"
-    },
-    {
-      "added_at": "2022-10-04 22:00:00",
-      "album": {
-        "name": "Someone Else to Blame",
-        "url": "https://open.spotify.com/album/4wn7dbxKpYBq5SAjvgVStQ"
-      },
-      "artists": [
-        {
-          "name": "Kaya",
-          "url": "https://open.spotify.com/artist/2zzGa3s9F0bQ7Tp4YDcweH"
-        }
-      ],
-      "duration_ms": 183541,
-      "name": "Someone Else to Blame",
-      "url": "https://open.spotify.com/track/5uz5fCKAkCZdv8eGcMNMIh"
-    },
-    {
-      "added_at": "2022-10-04 22:00:00",
-      "album": {
-        "name": "O Tob\u011b i o mn\u011b",
-        "url": "https://open.spotify.com/album/3UhMueV8N3EVKqYVw9fOG4"
-      },
-      "artists": [
-        {
-          "name": "Anna K.",
-          "url": "https://open.spotify.com/artist/5OCpdoaMu02P7pJABqhsfS"
-        }
-      ],
-      "duration_ms": 225275,
-      "name": "O Tob\u011b i o mn\u011b",
-      "url": "https://open.spotify.com/track/3MZNFHa1USLh0XKQmKvsEN"
-    },
-    {
-      "added_at": "2022-10-04 22:00:00",
+      "added_at": "2022-11-01 23:00:00",
       "album": {
         "name": "Private Poison",
         "url": "https://open.spotify.com/album/5c4WLdjVqpx67TwUQxB9V5"
@@ -721,140 +853,36 @@
       "url": "https://open.spotify.com/track/5rRL6bqYWSzAp3meHMxUl6"
     },
     {
-      "added_at": "2022-10-04 22:00:00",
+      "added_at": "2022-11-01 23:00:00",
       "album": {
-        "name": "Right Place Wrong Guy",
-        "url": "https://open.spotify.com/album/4Kun5hAcBGWT4uQsDcn9tT"
+        "name": "Girls",
+        "url": "https://open.spotify.com/album/0Umz5EHGYbWocsZLwVx7TO"
       },
       "artists": [
         {
-          "name": "Nykki",
-          "url": "https://open.spotify.com/artist/4tr3FhDOdmSORCDrH6Q4CX"
+          "name": "Fejbs",
+          "url": "https://open.spotify.com/artist/0LviqijMvqJfXDI6xJFXxm"
         }
       ],
-      "duration_ms": 196208,
-      "name": "Right Place Wrong Guy",
-      "url": "https://open.spotify.com/track/00YbUbfTzwBOnnmvD8rp9p"
+      "duration_ms": 144000,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/3Sm5jkH3G1FMKiLMa5QKwv"
     },
     {
-      "added_at": "2022-10-04 22:00:00",
+      "added_at": "2022-11-01 23:00:00",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/5L4CSWnXl08ehI51nWaaTa"
+        "name": "Someone Else to Blame",
+        "url": "https://open.spotify.com/album/4wn7dbxKpYBq5SAjvgVStQ"
       },
       "artists": [
         {
-          "name": "Veronika Strapkov\u00e1",
-          "url": "https://open.spotify.com/artist/4I1G4UfWfY0WC2vsOF3XYa"
-        },
-        {
-          "name": "Milan Lieskovsky",
-          "url": "https://open.spotify.com/artist/6nfvEuOz5pg2iTT7xsybD4"
-        },
-        {
-          "name": "Eddie Sender",
-          "url": "https://open.spotify.com/artist/09vHz266dR5oAQkp99hhEt"
+          "name": "Kaya",
+          "url": "https://open.spotify.com/artist/2zzGa3s9F0bQ7Tp4YDcweH"
         }
       ],
-      "duration_ms": 150349,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/2NiY72C2sPCYwWM9Ewxj6D"
-    },
-    {
-      "added_at": "2022-10-04 22:00:00",
-      "album": {
-        "name": "Lust For Desire",
-        "url": "https://open.spotify.com/album/1mo8FbKEzqEOFahYHXH2sk"
-      },
-      "artists": [
-        {
-          "name": "Tea Sofia",
-          "url": "https://open.spotify.com/artist/29VjAXbeZqPa8PSNxF8Q5W"
-        }
-      ],
-      "duration_ms": 185769,
-      "name": "Lust For Desire",
-      "url": "https://open.spotify.com/track/48RpTY7ueuWkDLi1JZAQoP"
-    },
-    {
-      "added_at": "2022-10-04 22:00:00",
-      "album": {
-        "name": "poison apple",
-        "url": "https://open.spotify.com/album/0503sn6ndSGtlyFMAgV1VX"
-      },
-      "artists": [
-        {
-          "name": "Karin Ann",
-          "url": "https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ"
-        }
-      ],
-      "duration_ms": 169076,
-      "name": "poison apple",
-      "url": "https://open.spotify.com/track/2ywOgBurj2fsaRBMkFKVYp"
-    },
-    {
-      "added_at": "2022-10-04 22:00:00",
-      "album": {
-        "name": "D\u00edvej se na m\u011b",
-        "url": "https://open.spotify.com/album/00jRIMoRhtotG3VXTUyKxy"
-      },
-      "artists": [
-        {
-          "name": "Tereza Ma\u0161kov\u00e1",
-          "url": "https://open.spotify.com/artist/4m4vkJiLg3nbmwdxySeIVC"
-        }
-      ],
-      "duration_ms": 173658,
-      "name": "D\u00edvej se na m\u011b",
-      "url": "https://open.spotify.com/track/6OKl82jaG9474QrMrcyKJ4"
-    },
-    {
-      "added_at": "2022-10-04 22:00:00",
-      "album": {
-        "name": "People",
-        "url": "https://open.spotify.com/album/0bjJx4LVb3aTNZJ983FeeN"
-      },
-      "artists": [
-        {
-          "name": "Elly",
-          "url": "https://open.spotify.com/artist/58SiiPGMtAPMaQyNkn9Fbs"
-        }
-      ],
-      "duration_ms": 158048,
-      "name": "People",
-      "url": "https://open.spotify.com/track/5L0eYOxlLlXXWtHMk6IPyR"
-    },
-    {
-      "added_at": "2022-10-04 22:00:00",
-      "album": {
-        "name": "Different Kind",
-        "url": "https://open.spotify.com/album/3eAjTqG1LTOQMsJxQezFmh"
-      },
-      "artists": [
-        {
-          "name": "Nikita Kingston",
-          "url": "https://open.spotify.com/artist/3AQCll40tEdIjzCdEOQHXQ"
-        }
-      ],
-      "duration_ms": 192270,
-      "name": "Different Kind",
-      "url": "https://open.spotify.com/track/6pUQYrkUf9G8MXdEMOW4pr"
-    },
-    {
-      "added_at": "2022-10-04 22:00:00",
-      "album": {
-        "name": "Pohoda jazz",
-        "url": "https://open.spotify.com/album/3IrYmzYAiUT9C6JkzdDmp3"
-      },
-      "artists": [
-        {
-          "name": "Naty Hrychov\u00e1",
-          "url": "https://open.spotify.com/artist/3IdBTyWXb31wzm0OYIZVP3"
-        }
-      ],
-      "duration_ms": 184500,
-      "name": "Pohoda jazz",
-      "url": "https://open.spotify.com/track/76FKtbVayqE0BXUCm2j0rm"
+      "duration_ms": 183541,
+      "name": "Someone Else to Blame",
+      "url": "https://open.spotify.com/track/5uz5fCKAkCZdv8eGcMNMIh"
     }
   ],
   "unique_name": "EQUAL CZ&SK",

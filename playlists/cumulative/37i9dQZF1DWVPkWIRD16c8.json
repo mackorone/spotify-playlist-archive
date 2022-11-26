@@ -474,6 +474,24 @@
     },
     {
       "album": {
+        "name": "Punk Goes Classic Rock",
+        "url": "https://open.spotify.com/album/64RLAKcWXgTpahzJbgEqZz"
+      },
+      "artists": [
+        {
+          "name": "The Almost",
+          "url": "https://open.spotify.com/artist/5X09SRt3qx77eh0XRreLjr"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 271173,
+      "name": "Free Fallin'",
+      "url": "https://open.spotify.com/track/396oLs4Mt8k45Lv5aD6EF3"
+    },
+    {
+      "album": {
         "name": "Future",
         "url": "https://open.spotify.com/album/65fqN6r9pytPCPcWiaulDi"
       },
@@ -485,7 +503,7 @@
       ],
       "date_added": "2019-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-30",
+      "date_removed": null,
       "duration_ms": 234666,
       "name": "Future",
       "url": "https://open.spotify.com/track/2CF9nJbfB541d6YTPQufcz"
@@ -1660,6 +1678,24 @@
     },
     {
       "album": {
+        "name": "At Midnight - EP",
+        "url": "https://open.spotify.com/album/0aUzWjo4EL7n4kjlX0yTCu"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 363230,
+      "name": "See A Victory",
+      "url": "https://open.spotify.com/track/0wtFB7vmIRecZhXQbDQ9Z1"
+    },
+    {
+      "album": {
         "name": "See A Victory",
         "url": "https://open.spotify.com/album/3YKyqEwSPz9mjNb4NucFpq"
       },
@@ -1765,7 +1801,7 @@
       ],
       "date_added": "2019-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 208325,
       "name": "Spend a Life",
       "url": "https://open.spotify.com/track/0YrLt5LEmJ8SqGnEmXzll7"
@@ -1892,6 +1928,24 @@
     },
     {
       "album": {
+        "name": "The God Who Stays",
+        "url": "https://open.spotify.com/album/3Fh8ppnoZ6ToZXePDKAq1l"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 236933,
+      "name": "The God Who Stays",
+      "url": "https://open.spotify.com/track/5Xl34OQj59DQ8n5qgtTKiC"
+    },
+    {
+      "album": {
         "name": "American IV: The Man Comes Around",
         "url": "https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9"
       },
@@ -1957,7 +2011,7 @@
       ],
       "date_added": "2019-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 225996,
       "name": "The Same Jesus",
       "url": "https://open.spotify.com/track/6tEPe1D8X4gkHUfcUsiNTL"
@@ -2015,7 +2069,7 @@
       ],
       "date_added": "2019-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": "2022-11-14",
       "duration_ms": 183706,
       "name": "This Is the Stuff",
       "url": "https://open.spotify.com/track/3SkhhzEOzs8XR1Ta8jVNsO"
@@ -2087,7 +2141,7 @@
       ],
       "date_added": "2019-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 276746,
       "name": "Today Is The Day",
       "url": "https://open.spotify.com/track/1AMCroLHu9Tho2lXzKaUWj"
@@ -2321,7 +2375,7 @@
       ],
       "date_added": "2019-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": "2022-11-13",
       "duration_ms": 179693,
       "name": "Won't Be Moved",
       "url": "https://open.spotify.com/track/5qhtdHmxEtZSEM1H7rn8Mj"
@@ -2357,7 +2411,7 @@
       ],
       "date_added": "2019-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 216973,
       "name": "Yes I Will (Studio Version)",
       "url": "https://open.spotify.com/track/3d225PGEHBjK5ZQkQ7qSfJ"

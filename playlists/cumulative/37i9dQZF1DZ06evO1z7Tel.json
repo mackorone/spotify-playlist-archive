@@ -98,6 +98,24 @@
     },
     {
       "album": {
+        "name": "\u00a1Ay Que Triste!",
+        "url": "https://open.spotify.com/album/6M886Mg1U15kSK4lACU9H5"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-18",
+      "duration_ms": 186226,
+      "name": "Asesino A Sueldo",
+      "url": "https://open.spotify.com/track/0T9MBxiBJznCdjdw2QMMlV"
+    },
+    {
+      "album": {
         "name": "Patrulla 05 Corridos Con",
         "url": "https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq"
       },
@@ -109,7 +127,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 150226,
       "name": "Beto Molina",
       "url": "https://open.spotify.com/track/23IFCQgkLCcfRTXBYIUTFS"
@@ -199,10 +217,28 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 193493,
       "name": "Con Cartitas",
       "url": "https://open.spotify.com/track/3kk0EWEnEwkqfhUb3ivUBx"
+    },
+    {
+      "album": {
+        "name": "Corridos Norte\u00f1os Con Carlos Y Jos\u00e9",
+        "url": "https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158800,
+      "name": "Corrido De Armando Mart\u00ednez",
+      "url": "https://open.spotify.com/track/2SzcpPQcjpRZL3qfJ1Fzjr"
     },
     {
       "album": {
@@ -271,7 +307,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 227306,
       "name": "Dos Cruces En La Curva",
       "url": "https://open.spotify.com/track/4z2P2by6AAg8vewrxkr3ts"
@@ -325,10 +361,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 188946,
       "name": "El Chubasco",
       "url": "https://open.spotify.com/track/0ESzwDSlzdKpaJ6CkyAe5x"
+    },
+    {
+      "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/0JhXGPB09fcgetkpyy7p6R"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189133,
+      "name": "El Chubasco",
+      "url": "https://open.spotify.com/track/5hWgvf26WNDS7kfYp5v7IS"
     },
     {
       "album": {
@@ -397,7 +451,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 193600,
       "name": "El Manicero",
       "url": "https://open.spotify.com/track/3z7ksVvoZRPhQUJcSBrbd9"
@@ -487,7 +541,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 149826,
       "name": "El Sauce Y La Palma",
       "url": "https://open.spotify.com/track/6EGSQ0EYRdD1CaYv5w27V3"
@@ -541,7 +595,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 192333,
       "name": "El Tres Dedos",
       "url": "https://open.spotify.com/track/6UeGjn8CkmZYA1Wb6NvkT9"
@@ -559,7 +613,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 176280,
       "name": "El Vengador de Federales",
       "url": "https://open.spotify.com/track/6Kh562k6QThvyqq6ao1zd3"
@@ -865,7 +919,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 191791,
       "name": "La Noria Escondida",
       "url": "https://open.spotify.com/track/0H3GAtMSZMEF6gdcq7qvEg"
@@ -973,7 +1027,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 181720,
       "name": "Maquina 501",
       "url": "https://open.spotify.com/track/2ijdMgCQVTKqyLqjEJnDXZ"

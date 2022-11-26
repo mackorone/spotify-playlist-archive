@@ -181,7 +181,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 276626,
       "name": "holLow wORlD",
       "url": "https://open.spotify.com/track/46F08OlYiuOtjqLJMMgqUQ"
@@ -217,10 +217,28 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 253120,
       "name": "insane dream",
       "url": "https://open.spotify.com/track/5stJAy1hIyMjgFRJeK9gVK"
+    },
+    {
+      "album": {
+        "name": "Ivy Ivy Ivy",
+        "url": "https://open.spotify.com/album/4zonvfa0E3bJJ52tSvsqLI"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292640,
+      "name": "Ivy Ivy Ivy",
+      "url": "https://open.spotify.com/track/4DjyuqJvrr10efe2aGoSYJ"
     },
     {
       "album": {
@@ -340,28 +358,6 @@
     },
     {
       "album": {
-        "name": "HOPE",
-        "url": "https://open.spotify.com/album/7KDcEG3mcB0g6XWwFNZ6KR"
-      },
-      "artists": [
-        {
-          "name": "Shota Shimizu",
-          "url": "https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2"
-        },
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "date_added": "2022-06-15",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
-      "duration_ms": 315800,
-      "name": "Prologue",
-      "url": "https://open.spotify.com/track/7iH7uU8YCtkIgn8xyVNBEU"
-    },
-    {
-      "album": {
         "name": "Midnight Sun",
         "url": "https://open.spotify.com/album/5tWOnk7nrqGc6Fhqe74Kse"
       },
@@ -391,7 +387,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 307160,
       "name": "Re:pray",
       "url": "https://open.spotify.com/track/2Q6sHQtoMtNHR2GjSaAeQG"
@@ -575,7 +571,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 287186,
       "name": "tone (Remaster for \u661f\u306e\u6d88\u3048\u305f\u591c\u306b 2022)",
       "url": "https://open.spotify.com/track/3Ef3BUWsWIglIvZwkUio40"
@@ -629,7 +625,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 247853,
       "name": "We Two",
       "url": "https://open.spotify.com/track/2QqbVhORUcTKRJsUg0XPLO"
@@ -685,7 +681,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 360480,
-      "name": "\u3042\u306a\u305f\u306b\u51fa\u4f1a\u308f\u306a\u3051\u308c\u306f\u3099~\u590f\u96ea\u51ac\u82b1~",
+      "name": "\u3042\u306a\u305f\u306b\u51fa\u4f1a\u308f\u306a\u3051\u308c\u3070~\u590f\u96ea\u51ac\u82b1~",
       "url": "https://open.spotify.com/track/76Q4LP5dkZiMVvwLIL1kEc"
     },
     {
@@ -806,6 +802,28 @@
     },
     {
       "album": {
+        "name": "HOPE",
+        "url": "https://open.spotify.com/album/7KDcEG3mcB0g6XWwFNZ6KR"
+      },
+      "artists": [
+        {
+          "name": "Shota Shimizu",
+          "url": "https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2"
+        },
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315800,
+      "name": "\u30d7\u30ed\u30ed\u30fc\u30b0",
+      "url": "https://open.spotify.com/track/7iH7uU8YCtkIgn8xyVNBEU"
+    },
+    {
+      "album": {
         "name": "After Dark",
         "url": "https://open.spotify.com/album/7xW2KsTPW5qytt3G9IxEXa"
       },
@@ -915,6 +933,24 @@
       "duration_ms": 352265,
       "name": "\u5b63\u8def",
       "url": "https://open.spotify.com/track/2JFrbjQNJSBPeUz2Pn4ZaY"
+    },
+    {
+      "album": {
+        "name": "Sun Dance",
+        "url": "https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209813,
+      "name": "\u601d\u3044\u51fa\u306f\u5947\u9e97\u3067",
+      "url": "https://open.spotify.com/track/3ei1nNNIVqST7wbZPUIjiK"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1o2bTwofazfzElA5mXGf2t.md) - [plain]
 
 > From denial and pleading to anger and acceptance, this genre\-blending playlist will carry you through each stage of your breakup blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215 likes - 43 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 214 likes - 43 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/1o2bTwofazfzElA5mXGf2t.md) - [plain]
 | 16 | [Blame It On The Breakup](https://open.spotify.com/track/3El9QD3z0EEKn3b38OuMZP) | [Low Volts](https://open.spotify.com/artist/3PxUwSSsVaW0XyBiRJF2oS) | [Twist Shake Grind Break](https://open.spotify.com/album/0gNmg8hzKJurZytJsoca6U) | 1:18 |
 | 17 | [Bang Bang \(My Baby Shot Me Down\)](https://open.spotify.com/track/4Sqg63Kx6nE5o6R1aA80p4) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [Valentine's Day Massacre: Breakup Songs](https://open.spotify.com/album/6waAppjgNshXF7jRb9OKUW) | 2:42 |
 | 18 | [The Breakup](https://open.spotify.com/track/66IHt7Ev7AmtfW1TLmbBqh) | [Fleeting Joys](https://open.spotify.com/artist/314EDjJCQdcNfzwefA7daH) | [Despondent Transponder](https://open.spotify.com/album/3Crg8b3vGdMBH6a7rGBtN9) | 5:20 |
-| 19 | [Just Another Breakup Song](https://open.spotify.com/track/1Hdm1EUw5rhyiwvLIRiqIL) | [Tigirlily](https://open.spotify.com/artist/7svOgAS4qeCt0uW0tgPckm) | [Good Place to Start](https://open.spotify.com/album/7FnUlxUgD2ARwxVGWhaYfS) | 2:56 |
+| 19 | [Just Another Breakup Song](https://open.spotify.com/track/1Hdm1EUw5rhyiwvLIRiqIL) | [Tigirlily Gold](https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb) | [Good Place to Start](https://open.spotify.com/album/7FnUlxUgD2ARwxVGWhaYfS) | 2:56 |
 | 20 | [When Will I See You Again](https://open.spotify.com/track/7rmKpQ08Ibgk1clEVWgteP) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Mighty](https://open.spotify.com/album/0xgqKXeE86gFKQDZ7pWHiY) | 4:14 |
 | 21 | [Call Me](https://open.spotify.com/track/46skXIpN30AGmgxk3r6k4z) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Call Me](https://open.spotify.com/album/7IwlZ28DihjyFBAMzGTgBN) | 2:51 |
 | 22 | [Love Is A Losing Game](https://open.spotify.com/track/568d3A1d2OAffNAeiAaoZu) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/1Ks2ssPMkWLthhInmOO5La) | 2:34 |

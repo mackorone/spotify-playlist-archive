@@ -52,6 +52,24 @@
     },
     {
       "album": {
+        "name": "Les tubes de No\u00ebl",
+        "url": "https://open.spotify.com/album/075XNkZk1DAXsnobzLpF70"
+      },
+      "artists": [
+        {
+          "name": "Burl Ives",
+          "url": "https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 133839,
+      "name": "A Holly Jolly Christmas",
+      "url": "https://open.spotify.com/track/3loEOofEBG0Z7iznsotuHI"
+    },
+    {
+      "album": {
         "name": "The Very Best Time Of Year",
         "url": "https://open.spotify.com/album/5OYaZZMzjUuPmj1OZgDwh1"
       },
@@ -237,7 +255,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 177293,
       "name": "Christmas Blues",
       "url": "https://open.spotify.com/track/3zGmF8FaNTnHq25YlWYhIQ"
@@ -259,6 +277,24 @@
       "duration_ms": 167973,
       "name": "Christmas Dreaming",
       "url": "https://open.spotify.com/track/3u9QZbQtAoMjm0sgmdQ7bx"
+    },
+    {
+      "album": {
+        "name": "Christmas For Lovers",
+        "url": "https://open.spotify.com/album/0eyfxFNfrY9QYb8kcKKfVL"
+      },
+      "artists": [
+        {
+          "name": "Billy Eckstine",
+          "url": "https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 182693,
+      "name": "Christmas Eve",
+      "url": "https://open.spotify.com/track/4rQqEqdse1jmBQcMAMG9Pm"
     },
     {
       "album": {
@@ -439,7 +475,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-28",
+      "date_removed": "2022-11-13",
       "duration_ms": 238173,
       "name": "Christmas Time Is Here",
       "url": "https://open.spotify.com/track/3HLuXYvlzcfAKMddEk73CE"
@@ -580,6 +616,28 @@
     },
     {
       "album": {
+        "name": "Novogodi\u0161nji Hitovi 2020",
+        "url": "https://open.spotify.com/album/4qs4gIDAq7bLIHHP3LgHWz"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        {
+          "name": "The Andrews Sisters",
+          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 183400,
+      "name": "Here Comes Santa Claus (Right Down Santa Claus Lane) - Single Version",
+      "url": "https://open.spotify.com/track/1cvpw953AQ7d3SqnZWVDTn"
+    },
+    {
+      "album": {
         "name": "White Christmas",
         "url": "https://open.spotify.com/album/3YsRLmD4nlPi6fJOEmsO30"
       },
@@ -657,6 +715,24 @@
     {
       "album": {
         "name": "Baby It's Cold Outside",
+        "url": "https://open.spotify.com/album/3bt93syd8tXz406kBywkEQ"
+      },
+      "artists": [
+        {
+          "name": "Holly Cole",
+          "url": "https://open.spotify.com/artist/1N3288tnOcOQQgfhpBqFsX"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222226,
+      "name": "If We Make It Through December",
+      "url": "https://open.spotify.com/track/6tMkZkSFdsDC7OxUAWFpMc"
+    },
+    {
+      "album": {
+        "name": "Baby It's Cold Outside",
         "url": "https://open.spotify.com/album/5nZAaue7FQgCTOY3SA62u7"
       },
       "artists": [
@@ -725,6 +801,24 @@
       "duration_ms": 289786,
       "name": "It's The Most Wonderful Time Of The Year",
       "url": "https://open.spotify.com/track/4Bj8bQZcjuPEABckmO6wrA"
+    },
+    {
+      "album": {
+        "name": "Merry Christmas - God Jul",
+        "url": "https://open.spotify.com/album/4wyopDrPXbT7iKLb7gQMmA"
+      },
+      "artists": [
+        {
+          "name": "Paul Anka",
+          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 289786,
+      "name": "It's The Most Wonderful Time Of The Year",
+      "url": "https://open.spotify.com/track/5r3pYVfO03VNS1rkfkttOX"
     },
     {
       "album": {
@@ -855,10 +949,32 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 158133,
       "name": "Love To Keep Me Warm",
       "url": "https://open.spotify.com/track/2x6Hg0OmYnkvCtFmAcyzwX"
+    },
+    {
+      "album": {
+        "name": "Love to Keep Me Warm",
+        "url": "https://open.spotify.com/album/1yfNBTaCzznm3bLF0QHQmi"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        },
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158133,
+      "name": "Love to Keep Me Warm",
+      "url": "https://open.spotify.com/track/3bq7dXN7arTdaq8mmKXxob"
     },
     {
       "album": {
@@ -1050,6 +1166,24 @@
     },
     {
       "album": {
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/5uZhVd66qvGFtvszfV70OW"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 171773,
+      "name": "Rudolph The Red-Nosed Reindeer",
+      "url": "https://open.spotify.com/track/64A5FdDxWr1xDdVHhVK71S"
+    },
+    {
+      "album": {
         "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
         "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
       },
@@ -1198,6 +1332,24 @@
     },
     {
       "album": {
+        "name": "Christmas Favorites",
+        "url": "https://open.spotify.com/album/6B4LTaCUBMlcSKgtld91wL"
+      },
+      "artists": [
+        {
+          "name": "Mel Torm\u00e9",
+          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 198573,
+      "name": "The Christmas Song",
+      "url": "https://open.spotify.com/track/4dJEd1XcQODkOLAoEQd9Zp"
+    },
+    {
+      "album": {
         "name": "Christmas With Sinatra And Friends",
         "url": "https://open.spotify.com/album/6llYu8gxmvS2WrbVdGmoti"
       },
@@ -1227,10 +1379,46 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 198573,
       "name": "The Christmas Song (Chestnuts Roasting on an Open Fire)",
       "url": "https://open.spotify.com/track/7o6agk7Uy395tk8ZYM5MEi"
+    },
+    {
+      "album": {
+        "name": "The Christmas Song (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192160,
+      "name": "The Christmas Song (Merry Christmas To You)",
+      "url": "https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON"
+    },
+    {
+      "album": {
+        "name": "A Very Laufey Holiday",
+        "url": "https://open.spotify.com/album/0NXOmjbsRluHO8QLpZFEBd"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167666,
+      "name": "The Christmas Waltz",
+      "url": "https://open.spotify.com/track/3vpW9dkAZFi8Sg0onz4wvR"
     },
     {
       "album": {
@@ -1245,7 +1433,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 173133,
       "name": "The Christmas Waltz",
       "url": "https://open.spotify.com/track/4DV9KToOaC0khx2MqOZstE"
@@ -1306,6 +1494,24 @@
     },
     {
       "album": {
+        "name": "Jukebox Ella: The Complete Verve Singles (Vol. 1)",
+        "url": "https://open.spotify.com/album/5sOz9iMqXQbWonZKSHf4wT"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 165786,
+      "name": "The Secret Of Christmas",
+      "url": "https://open.spotify.com/track/0zxtIfanKG90yYZadCAjFP"
+    },
+    {
+      "album": {
         "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
         "url": "https://open.spotify.com/album/15up0e6AFIYZbmErIVPU3p"
       },
@@ -1343,6 +1549,24 @@
     {
       "album": {
         "name": "Baby It's Cold Outside",
+        "url": "https://open.spotify.com/album/3bt93syd8tXz406kBywkEQ"
+      },
+      "artists": [
+        {
+          "name": "Holly Cole",
+          "url": "https://open.spotify.com/artist/1N3288tnOcOQQgfhpBqFsX"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102013,
+      "name": "What About Me",
+      "url": "https://open.spotify.com/track/6Vil6xmoYCuDVnYP5V7rpr"
+    },
+    {
+      "album": {
+        "name": "Baby It's Cold Outside",
         "url": "https://open.spotify.com/album/5nZAaue7FQgCTOY3SA62u7"
       },
       "artists": [
@@ -1353,7 +1577,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 102013,
       "name": "What About Me?",
       "url": "https://open.spotify.com/track/6Qo2N9Jhn3Vy03REErv3kX"
@@ -1414,6 +1638,24 @@
     },
     {
       "album": {
+        "name": "Behold (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6MEVxM406giEe9WitUo3Bc"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 195252,
+      "name": "What Child Is This?",
+      "url": "https://open.spotify.com/track/2z2ymhunj2m3A57fYv2dDQ"
+    },
+    {
+      "album": {
         "name": "Christmas In L.A",
         "url": "https://open.spotify.com/album/0pqDYrQEOyQr4mkhDquG4w"
       },
@@ -1429,7 +1671,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-04",
+      "date_removed": "2022-11-17",
       "duration_ms": 228221,
       "name": "When Christmas Has Gone",
       "url": "https://open.spotify.com/track/3TZO1SX9qPyewA2njmPe1U"
@@ -1480,6 +1722,24 @@
     },
     {
       "album": {
+        "name": "The Classic Christmas Album",
+        "url": "https://open.spotify.com/album/4rBIMMvhMZMa3Q0X4LRYQi"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 205360,
+      "name": "Winter Wonderland - 1959 Version",
+      "url": "https://open.spotify.com/track/6cYG1rjjXgTqgXeBDtcsK3"
+    },
+    {
+      "album": {
         "name": "Season's Greetings",
         "url": "https://open.spotify.com/album/62nWLvkugm41tvnzjMw7a9"
       },
@@ -1513,6 +1773,28 @@
       "duration_ms": 206106,
       "name": "Winter Wonderland - 1959 Version",
       "url": "https://open.spotify.com/track/73I5rgoTrAOnRLIOMnAcSM"
+    },
+    {
+      "album": {
+        "name": "\u30b8\u30e3\u30ba\u30fb\u30af\u30ea\u30b9\u30de\u30b9",
+        "url": "https://open.spotify.com/album/1Ef9NnwG8vgJX3fmfpDSrG"
+      },
+      "artists": [
+        {
+          "name": "Nicki Parrott",
+          "url": "https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7"
+        },
+        {
+          "name": "John Di Martino",
+          "url": "https://open.spotify.com/artist/3IMLMHXZmOkvt8TEYvspCK"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 235560,
+      "name": "\u30d9\u30a4\u30d3\u30fc\u30fb\u30a4\u30c3\u30c4\u30fb\u30b3\u30fc\u30eb\u30c9\u30fb\u30a2\u30a6\u30c8\u30b5\u30a4\u30c9",
+      "url": "https://open.spotify.com/track/5I52TnFLUZ4pg8R5957r3E"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZy48MuOV69W"

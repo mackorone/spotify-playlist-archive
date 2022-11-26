@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 
 > Maskandi favourites for every day of the week\. Cover: <a href="https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP?si=1cAhcaANREyS\-wXav9tJWA">Phuzekhemisi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,056 likes - 55 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,131 likes - 55 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 | 35 | [Imali Yesoso](https://open.spotify.com/track/28ZztKoH4iovdVamlbNEPR) | [Ichwane Lebhaca](https://open.spotify.com/artist/6dUPVcKOAhdgjkmgDwy6uh) | [Imali Yesoso](https://open.spotify.com/album/1Vvgd9KgV5hQZKXLDLfGBc) | 5:07 |
 | 36 | [Izihlwele](https://open.spotify.com/track/6iFCyBOk9UTRNgb7Oz2oKg) | [Bahubhe](https://open.spotify.com/artist/2pisTvrJlAr0NTxvXOuLOv) | [Izihlwele](https://open.spotify.com/album/5LAxoXLEgCyptZpryTXcSs) | 5:00 |
 | 37 | [Ingezo Emahostela \(feat\. Sgwebo Sentambo\)](https://open.spotify.com/track/05kQlUT2mMwkvjRX8bkzba) | [Bobo Mfana Wepiki](https://open.spotify.com/artist/6kcl74RDRgeHTx1Dj07NQt), [Sgwebo Sentambo](https://open.spotify.com/artist/5p55hGi2rq290OvBwMpLps) | [Angiseyona Itype Yakho](https://open.spotify.com/album/4N6uYvCf4TgK5kAopt1RqQ) | 4:55 |
-| 38 | [Endumisweni](https://open.spotify.com/track/1UGcDqgMa0H0p8vODceY86) | [Bhekumuzi Luthuli](https://open.spotify.com/artist/2olZnrkMJFY0BnGZM7vWMV) | [Gospel Hits](https://open.spotify.com/album/2kT2AwbhhzjQ6AlvBXo936) | 4:25 |
+| 38 | [Endumisweni](https://open.spotify.com/track/3IPrZBtgOikNvhiUGQ8K4x) | [Bhekumuzi Luthuli](https://open.spotify.com/artist/2olZnrkMJFY0BnGZM7vWMV) | [Gospel Hits](https://open.spotify.com/album/2ABlTWUAfKDPnUThVIM614) | 4:25 |
 | 39 | [Ekhenana](https://open.spotify.com/track/4VqeQHfo2ubS5tqq5wmaOE) | [Shabalala Rhythm](https://open.spotify.com/artist/4yqgRp5LrmRXgSKpAqTBdl) | [Umaqondana](https://open.spotify.com/album/5CSphfloiCWOA2s35VsNwp) | 4:49 |
 | 40 | [Ukuthanda Izinto](https://open.spotify.com/track/2DqL1bQTQVvVDnT16iQq7z) | [Bobo Mfana Wepiki](https://open.spotify.com/artist/6kcl74RDRgeHTx1Dj07NQt) | [Angiseyona Itype Yakho](https://open.spotify.com/album/4N6uYvCf4TgK5kAopt1RqQ) | 5:40 |
 | 41 | [Isingqazu Sami](https://open.spotify.com/track/0wg9dKX6zfOVy3A53osxIS) | [Inxakanxaka](https://open.spotify.com/artist/43DNa0M6aCPjeWTVIL7x80) | [Isingqazu Sami](https://open.spotify.com/album/4pGIADaXRBnuRRWBs7QAdG) | 5:09 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 | 54 | [Palamente e kgopela merapelo](https://open.spotify.com/track/3PzDhMFbGUSpVWWcBTRJWW) | [Solly Moholo](https://open.spotify.com/artist/5rPklQ6cqWrAGWgHxjZS8Z) | [Palamente e Kgopela Merapelo](https://open.spotify.com/album/6H2nsddvfVyGIagH72T4RF) | 5:08 |
 | 55 | [Inzondo](https://open.spotify.com/track/66grkST08OIuorHMGsGwR6) | [IZINGANE ZOMA](https://open.spotify.com/artist/1fa6d4xSwQWEhmp0MwKw61) | [Isidina Sikamahlalela](https://open.spotify.com/album/7M3Zi8eUaeFxhC5JzGMfRX) | 3:25 |
 
-Snapshot ID: `MTY2MjA2OTU0MCwwMDAwMDAwMDY3Y2I1YzAyOTcyNzdlZWZlZjRjYjEzNWE2ZDM0MTg3`
+Snapshot ID: `MTY2MjA2OTU0MCwwMDAwMDAwMDc3NTU5ZTI4MGU0ODNmN2U5MDBhZjgwOWI3Y2U1MjIx`

@@ -560,6 +560,24 @@
     },
     {
       "album": {
+        "name": "Esto Suena Bien",
+        "url": "https://open.spotify.com/album/3CfkFiGzsu746gFZZwNVF3"
+      },
+      "artists": [
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        }
+      ],
+      "date_added": "2020-08-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 254004,
+      "name": "Esto Suena Bien (feat. Alex Zurdo & Oveja Cosmica)",
+      "url": "https://open.spotify.com/track/6wfoPSlv5JD0vgsrWqYyPk"
+    },
+    {
+      "album": {
         "name": "Trapstornadores",
         "url": "https://open.spotify.com/album/6USTDDk6DVZ8DYtyGnl6iG"
       },
@@ -637,6 +655,24 @@
       "duration_ms": 229087,
       "name": "Gravy",
       "url": "https://open.spotify.com/track/4iUDeFnfywaSOPG5fPaIb1"
+    },
+    {
+      "album": {
+        "name": "Gravy",
+        "url": "https://open.spotify.com/album/38cKCzN4H5ZEVhydRaWQxd"
+      },
+      "artists": [
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        }
+      ],
+      "date_added": "2020-08-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 230010,
+      "name": "Gravy",
+      "url": "https://open.spotify.com/track/1QOToAQcpOrMdVH85hvz2m"
     },
     {
       "album": {
@@ -881,10 +917,46 @@
       ],
       "date_added": "2020-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-19",
       "duration_ms": 235273,
       "name": "Mi Fe",
       "url": "https://open.spotify.com/track/4QtkVr6LwhkB91LhyB2O3e"
+    },
+    {
+      "album": {
+        "name": "Oveja Entre Lobos",
+        "url": "https://open.spotify.com/album/2Tctk4AH3KtYpgHFpB6n0A"
+      },
+      "artists": [
+        {
+          "name": "Natan El Profeta",
+          "url": "https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf"
+        }
+      ],
+      "date_added": "2020-08-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-19",
+      "duration_ms": 235389,
+      "name": "Mi Fe",
+      "url": "https://open.spotify.com/track/3ByHOVprxjQwTrUGBnc1QT"
+    },
+    {
+      "album": {
+        "name": "Oveja Entre Lobos",
+        "url": "https://open.spotify.com/album/1jyexk1kGftS90IlYCTmat"
+      },
+      "artists": [
+        {
+          "name": "Natan El Profeta",
+          "url": "https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf"
+        }
+      ],
+      "date_added": "2020-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Mi Fe",
+      "url": "https://open.spotify.com/track/6MgUmPLVK2yvNDSAcL0D1d"
     },
     {
       "album": {
@@ -1355,8 +1427,8 @@
           "url": "https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH"
         },
         {
-          "name": "Philippe",
-          "url": "https://open.spotify.com/artist/6nvcn8veM0fjx3XnJGNKsk"
+          "name": "El Philippe",
+          "url": "https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1"
         }
       ],
       "date_added": "2020-08-28",

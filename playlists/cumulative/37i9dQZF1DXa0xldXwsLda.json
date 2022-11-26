@@ -165,7 +165,7 @@
           "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
         },
         {
-          "name": "Nathy Peluso",
+          "name": "NATHY PELUSO",
           "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
         }
       ],
@@ -315,7 +315,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 263500,
       "name": "Bolero Falaz",
       "url": "https://open.spotify.com/track/0B6vcicywjS5S1AKq0BttX"
@@ -553,7 +553,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 169859,
       "name": "corazones negros",
       "url": "https://open.spotify.com/track/1gsq8t6jMgffTisrwMUcbW"
@@ -593,6 +593,24 @@
       "duration_ms": 304373,
       "name": "Cruz de Navajas",
       "url": "https://open.spotify.com/track/1J4r7ztWO9jLCSID0fXVU9"
+    },
+    {
+      "album": {
+        "name": "Ana, Jos\u00e9, Nacho",
+        "url": "https://open.spotify.com/album/4l3E8sfadY7Ye5F6jlp6i6"
+      },
+      "artists": [
+        {
+          "name": "Mecano",
+          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 304373,
+      "name": "Cruz de navajas",
+      "url": "https://open.spotify.com/track/1ujWGdzAZNpFEAdySKLKU7"
     },
     {
       "album": {
@@ -814,6 +832,24 @@
     },
     {
       "album": {
+        "name": "D\u00e9jenme Llorar (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3cBtFZ5mqOn3dzzRyjzxgj"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 228253,
+      "name": "Eres T\u00fa",
+      "url": "https://open.spotify.com/track/1n0uUlulDFGNOl6i5ETLHE"
+    },
+    {
+      "album": {
         "name": "D\u00e9jenme Llorar",
         "url": "https://open.spotify.com/album/4Rc3wOCoh4jpWkNzum6dDA"
       },
@@ -1023,7 +1059,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": "2022-11-13",
       "duration_ms": 153268,
       "name": "Havana/Attention",
       "url": "https://open.spotify.com/track/2LoRKuH9DWBqJJJ8IKGqG9"
@@ -1141,7 +1177,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-12",
       "duration_ms": 238094,
       "name": "Juego de Amor",
       "url": "https://open.spotify.com/track/6xZ8P2C0gYWEy3EgkXVGuL"
@@ -1615,7 +1651,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 159342,
       "name": "Nena",
       "url": "https://open.spotify.com/track/47jv81dOwBzrAbYgQfs5u0"

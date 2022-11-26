@@ -506,6 +506,28 @@
     },
     {
       "album": {
+        "name": "A Portrait",
+        "url": "https://open.spotify.com/album/32noSvMP3rjFYhOvazJoHQ"
+      },
+      "artists": [
+        {
+          "name": "Hopkinson Smith",
+          "url": "https://open.spotify.com/artist/7zcQ4msi1fjUPlCYypzkNy"
+        },
+        {
+          "name": "John Dowland",
+          "url": "https://open.spotify.com/artist/1mhwtKvBm1ncoOrUtnQUgk"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 164466,
+      "name": "Frogg galliard",
+      "url": "https://open.spotify.com/track/6xNHV1MLHrlRPlPx7UDA3x"
+    },
+    {
+      "album": {
         "name": "Dowland - A Dream",
         "url": "https://open.spotify.com/album/03DIodWT7tCGMsNEUsTi5M"
       },
@@ -1629,6 +1651,24 @@
       "duration_ms": 50180,
       "name": "Wild Boar Inn",
       "url": "https://open.spotify.com/track/2QTP9Tf3j2fxjFKkrqArNu"
+    },
+    {
+      "album": {
+        "name": "Wild Boar Inn",
+        "url": "https://open.spotify.com/album/3eJ9y2YBpfhrjFrKJFozBQ"
+      },
+      "artists": [
+        {
+          "name": "Celestial Aeon Project",
+          "url": "https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 50180,
+      "name": "Wild Boar Inn",
+      "url": "https://open.spotify.com/track/6IMlRZyvY1CBm56E9PJtJg"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXi6GqUgtvam"

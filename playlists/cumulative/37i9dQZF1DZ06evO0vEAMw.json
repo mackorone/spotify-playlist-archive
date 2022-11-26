@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 163636,
       "name": "1 Milli",
       "url": "https://open.spotify.com/track/3AKPoi06BFR4vrK7alGjfi"
@@ -52,6 +52,28 @@
     },
     {
       "album": {
+        "name": "Achie",
+        "url": "https://open.spotify.com/album/6D8fD01nE0A6C7gwcjTs0z"
+      },
+      "artists": [
+        {
+          "name": "B-RED",
+          "url": "https://open.spotify.com/artist/6gGH04KywUUbUWc6tmXTpM"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-21",
+      "duration_ms": 211696,
+      "name": "Achie",
+      "url": "https://open.spotify.com/track/5IV1mcpTvqjiio3HrunOGx"
+    },
+    {
+      "album": {
         "name": "Activate",
         "url": "https://open.spotify.com/album/0u50DEuHzfYNHFRMPaM2H9"
       },
@@ -67,10 +89,74 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": "2022-11-08",
       "duration_ms": 217777,
       "name": "Activate",
       "url": "https://open.spotify.com/track/0Bc66CwO7NENnqW60RBDzG"
+    },
+    {
+      "album": {
+        "name": "Activate",
+        "url": "https://open.spotify.com/album/2sproMXb0ZqQefLlgjYPfo"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217777,
+      "name": "Activate",
+      "url": "https://open.spotify.com/track/7ka9HaPbdwYUsMmHvaie41"
+    },
+    {
+      "album": {
+        "name": "BV3",
+        "url": "https://open.spotify.com/album/1maHuPQQphzi9TIJ55dNxW"
+      },
+      "artists": [
+        {
+          "name": "BLOODY VINYL",
+          "url": "https://open.spotify.com/artist/0VitAFMCI2apQxKzDjg1PU"
+        },
+        {
+          "name": "Slait",
+          "url": "https://open.spotify.com/artist/2KXYAKQTxHuUHDtVgeGn6w"
+        },
+        {
+          "name": "thasup",
+          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
+        },
+        {
+          "name": "5019",
+          "url": "https://open.spotify.com/artist/0bIICDFvg6PqEWaZsfvpCR"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Hell Raton",
+          "url": "https://open.spotify.com/artist/6g5SF1Yz63eoPUnJgRHfrz"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190306,
+      "name": "ALASKA (feat. Davido, Hell Raton & Shiva)",
+      "url": "https://open.spotify.com/track/7io8voeFCefZOJ9Vr5kEZr"
     },
     {
       "album": {
@@ -302,6 +388,28 @@
     },
     {
       "album": {
+        "name": "Right About Now",
+        "url": "https://open.spotify.com/album/0qvuCRNRSqnz2EBMaZ06Uy"
+      },
+      "artists": [
+        {
+          "name": "HarrySong",
+          "url": "https://open.spotify.com/artist/3hflm7FUsWEKbI0fRnaW20"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166822,
+      "name": "Bum Bum Bum",
+      "url": "https://open.spotify.com/track/2q0GvAQvk1rEAUEFy1sziH"
+    },
+    {
+      "album": {
         "name": "Champion Sound",
         "url": "https://open.spotify.com/album/6pLdp90UOgmgb6yYh6bf2T"
       },
@@ -441,7 +549,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 250257,
       "name": "Dami Duro",
       "url": "https://open.spotify.com/track/1qIshP7qHh8qXWtUHECzsI"
@@ -467,6 +575,32 @@
       "duration_ms": 219310,
       "name": "Disturbance (feat. Peruzzi)",
       "url": "https://open.spotify.com/track/1alvkxYJx3AcVERNyFJRmF"
+    },
+    {
+      "album": {
+        "name": "The Jordan Album",
+        "url": "https://open.spotify.com/album/2sFUIxX1hlAxi6k3LpFzzP"
+      },
+      "artists": [
+        {
+          "name": "B-RED",
+          "url": "https://open.spotify.com/artist/6gGH04KywUUbUWc6tmXTpM"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Peruzzi",
+          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-24",
+      "duration_ms": 200727,
+      "name": "Dollar",
+      "url": "https://open.spotify.com/track/3e483clp1e5SGvK3PSdvNK"
     },
     {
       "album": {
@@ -536,6 +670,28 @@
     },
     {
       "album": {
+        "name": "Fall for You",
+        "url": "https://open.spotify.com/album/2G3jm8RTStFVQrki2oNWl5"
+      },
+      "artists": [
+        {
+          "name": "B-RED",
+          "url": "https://open.spotify.com/artist/6gGH04KywUUbUWc6tmXTpM"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
+      "duration_ms": 214648,
+      "name": "Fall for You",
+      "url": "https://open.spotify.com/track/622AxtXA9LRmXkania0tya"
+    },
+    {
+      "album": {
         "name": "A Better Time",
         "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
       },
@@ -587,6 +743,50 @@
       "duration_ms": 214205,
       "name": "FIA",
       "url": "https://open.spotify.com/track/6sfdU1tGLpXhjjLjGJa0zA"
+    },
+    {
+      "album": {
+        "name": "MY DIARY - EP",
+        "url": "https://open.spotify.com/album/2AtDDefSJveMubpGuqch1r"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "FLAMES",
+      "url": "https://open.spotify.com/track/6T3Y4utPEBs35xiG3e7Ebp"
+    },
+    {
+      "album": {
+        "name": "FOR YOU",
+        "url": "https://open.spotify.com/album/0G24UhXGf5SSfBS9QNRKa0"
+      },
+      "artists": [
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188411,
+      "name": "FOR YOU",
+      "url": "https://open.spotify.com/track/1tj7Pn7RFy82MTwM3TvLkw"
     },
     {
       "album": {
@@ -741,7 +941,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 162285,
       "name": "Holy Ground (feat. Nicki Minaj)",
       "url": "https://open.spotify.com/track/6DWErydPjjZyH06gOkhxRL"
@@ -777,7 +977,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 203505,
       "name": "Intro",
       "url": "https://open.spotify.com/track/0H9agEp8BXR4S6DI50rmTU"
@@ -799,7 +999,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 164000,
       "name": "Je M'appelle (feat. DaVido)",
       "url": "https://open.spotify.com/track/45JfxtSUnkb9e4r0MBYqfK"
@@ -1014,9 +1214,31 @@
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 183826,
+      "duration_ms": 183813,
       "name": "Lower Body (feat. Davido)",
       "url": "https://open.spotify.com/track/2jARcMhrTB54EH2VxNvWpW"
+    },
+    {
+      "album": {
+        "name": "SUREBOY",
+        "url": "https://open.spotify.com/album/63dlFY16kCNUPm5eGrPDLp"
+      },
+      "artists": [
+        {
+          "name": "May D",
+          "url": "https://open.spotify.com/artist/7ahfCquNK3ReYc2UHhugs5"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218409,
+      "name": "Lowo Lowo",
+      "url": "https://open.spotify.com/track/1ntjV3CIMC5IYMqNzW0grl"
     },
     {
       "album": {
@@ -1057,7 +1279,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2022-11-26",
       "duration_ms": 175307,
       "name": "My Love",
       "url": "https://open.spotify.com/track/4V9qUKyxbIxLkRGa15eAkN"
@@ -1079,7 +1301,7 @@
       ],
       "date_added": "2022-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 179080,
       "name": "Nobody Has To Know (feat. Davido)",
       "url": "https://open.spotify.com/track/4U94pbUhXrzFNVcyrFeMso"
@@ -1119,7 +1341,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 222327,
       "name": "Nwa Baby",
       "url": "https://open.spotify.com/track/5LQ4gy76WKL3yH7eClwM5m"
@@ -1145,7 +1367,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 233592,
       "name": "Odo Remix (feat. Mayorkun & Davido)",
       "url": "https://open.spotify.com/track/6JqM0NwHf2DP1ufgqGAQpE"
@@ -1233,7 +1455,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 265899,
       "name": "Peace of Mind",
       "url": "https://open.spotify.com/track/0NcnzIoouhXB3qc9ZcyHS3"
@@ -1355,7 +1577,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 213892,
       "name": "Shopping Spree (feat. Chris Brown & Young Thug)",
       "url": "https://open.spotify.com/track/1ln2sDL64h9Y0PJIrUogM6"
@@ -1429,7 +1651,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 228571,
       "name": "Slow Down (feat. H.E.R., DaVido, & Oxlade) - P2J Remix",
       "url": "https://open.spotify.com/track/5VXX29Dqo6mw7kVBNnsign"
@@ -1473,7 +1695,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 170000,
       "name": "So Crazy (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/5h9n5J7SRLzqBx4PyzhAFs"
@@ -1491,7 +1713,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 173012,
       "name": "Something Fishy",
       "url": "https://open.spotify.com/track/1dQCpX5OFr0IV5OeCTkyvJ"
@@ -1565,7 +1787,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 248727,
       "name": "Sweet in the Middle (feat. Wurld, Naira Marley & Zlatan)",
       "url": "https://open.spotify.com/track/2ylO41DTQwQv1QH1mSP3cH"
@@ -1591,7 +1813,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 303888,
       "name": "SWING (feat. Normani & Davido)",
       "url": "https://open.spotify.com/track/5KDfDLEaGAQ2uyuzsWByVa"
@@ -1613,7 +1835,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 171724,
       "name": "The Best (feat. Mayorkun)",
       "url": "https://open.spotify.com/track/0b4OhI29MieZpxusw0HGEJ"
@@ -1635,7 +1857,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 221596,
       "name": "The Money",
       "url": "https://open.spotify.com/track/0nheubP8e9oOMWw1d6Bz85"
@@ -1683,7 +1905,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-04",
+      "date_removed": "2022-10-30",
       "duration_ms": 212869,
       "name": "This Your Body",
       "url": "https://open.spotify.com/track/2cJesgQwggcf3ciGuD6Z1I"
@@ -1723,7 +1945,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 164102,
       "name": "Very Special",
       "url": "https://open.spotify.com/track/5n5bwxW0hfUIxESGoyY7s1"
@@ -1813,7 +2035,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 172708,
       "name": "Way Too Fly (feat. DaVido)",
       "url": "https://open.spotify.com/track/1NAR2XeNMp6SegDBp0NlRy"
@@ -1883,7 +2105,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 236000,
       "name": "Wonder Woman",
       "url": "https://open.spotify.com/track/7Mlxx8SMVwG36rVGjvRCEP"

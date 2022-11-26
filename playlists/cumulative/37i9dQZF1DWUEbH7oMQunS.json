@@ -1078,6 +1078,32 @@
     },
     {
       "album": {
+        "name": "Mu\u0301sica Cla\u0301sica para Bebe\u0301s",
+        "url": "https://open.spotify.com/album/0LZlw9VkGjo8LerCXIv0nE"
+      },
+      "artists": [
+        {
+          "name": "Deep Sleep",
+          "url": "https://open.spotify.com/artist/4gGGFclZZyED2i5BgzGAlD"
+        },
+        {
+          "name": "Lullabies for Deep Meditation",
+          "url": "https://open.spotify.com/artist/7dJ05O9EOtFVROVfEEHBBc"
+        },
+        {
+          "name": "Musica para Dormir Dream House",
+          "url": "https://open.spotify.com/artist/6qT095FGSoqAikk7INAJzX"
+        }
+      ],
+      "date_added": "2018-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 112777,
+      "name": "Sun Eclipse",
+      "url": "https://open.spotify.com/track/7yL0WjEZ1nMec510uy6VyO"
+    },
+    {
+      "album": {
         "name": "Nature Meditation Music",
         "url": "https://open.spotify.com/album/2gWI9xDvQ9wDGow7Uxe5uY"
       },
@@ -1191,6 +1217,32 @@
       "duration_ms": 237481,
       "name": "Velveteen",
       "url": "https://open.spotify.com/track/4EqMffOPYDDgXlwPgYgbUy"
+    },
+    {
+      "album": {
+        "name": "Relaxing Massage Music",
+        "url": "https://open.spotify.com/album/1vZINsIj1FbZAL8CGgOgLd"
+      },
+      "artists": [
+        {
+          "name": "Massage Therapy Music",
+          "url": "https://open.spotify.com/artist/4hKUd7Y5CiAGqVk2Z4NV9P"
+        },
+        {
+          "name": "Massage Tribe",
+          "url": "https://open.spotify.com/artist/14RkTXnwrf6D09TfPWcR5C"
+        },
+        {
+          "name": "Massage",
+          "url": "https://open.spotify.com/artist/0HvEQZLOZip1nNQ9Vb4pbl"
+        }
+      ],
+      "date_added": "2018-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 165914,
+      "name": "Water Harp",
+      "url": "https://open.spotify.com/track/071YfvTMFY01C6mT1Y1ecv"
     },
     {
       "album": {
@@ -1415,10 +1467,28 @@
       ],
       "date_added": "2018-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 167796,
       "name": "Wrecked.",
       "url": "https://open.spotify.com/track/20gqFSQr6WkufncmJ1uz2z"
+    },
+    {
+      "album": {
+        "name": "Wrecked.",
+        "url": "https://open.spotify.com/album/6UximDnjqOzwJ77MQNniVo"
+      },
+      "artists": [
+        {
+          "name": "HXLY KXSS",
+          "url": "https://open.spotify.com/artist/7yCFIIPxCy84VS0y2TUazj"
+        }
+      ],
+      "date_added": "2018-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167796,
+      "name": "Wrecked.",
+      "url": "https://open.spotify.com/track/7IL9XWhxEXJQsCpO1dgYkW"
     },
     {
       "album": {

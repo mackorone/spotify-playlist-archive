@@ -4,7 +4,7 @@
 
 > All your favorite tracks from Bridgerton.
 
-65 songs - 3 hr 19 min - [published](https://open.spotify.com/playlist/0mJUowbTdX1XFAErFSfgqQ)
+66 songs - 3 hr 22 min - [published](https://open.spotify.com/playlist/0mJUowbTdX1XFAErFSfgqQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Nothing Could Keep Me Away \- From the Netflix Series “Bridgerton Season Two”](https://open.spotify.com/track/5ek7tr9sYv9X2xbZMPgS1E) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton Season Two \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1jhHQPn3EjtdCuKgVTg6Bb) | 1:17 | 2022-03-25 |  |
 | [One Last Dance](https://open.spotify.com/track/7124sNVnag8a7PP98skfDT) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton \(Music from the Netflix Original Series\)](https://open.spotify.com/album/53xXNZwyOsZj68zU023oce) | 2:44 | 2022-03-25 |  |
 | [Piano Sonata No\. 21 in C Major, Op\. 53, "Waldstein": I\. Allegro con brio](https://open.spotify.com/track/3WFTQHUd4DBoEucAWxaPDm) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Igor Levit](https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL) | [Beethoven: The Complete Piano Sonatas](https://open.spotify.com/album/014wV6KWcsn01SiYIYVJeg) | 10:02 | 2022-03-25 |  |
+| [Recomposed By Max Richter: Vivaldi, The Four Seasons: Spring 1 \- 2012](https://open.spotify.com/track/2WP7odDNsrrkceU9zarqqd) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [Konzerthaus Kammerorchester Berlin](https://open.spotify.com/artist/19z3Is8jPDFmLphrQ2w2Du), [Andre de Ridder](https://open.spotify.com/artist/1pNP4idjNnhPXDLi0Jz12R) | [Brunch with Vivaldi](https://open.spotify.com/album/7vjUkzgBtOhL42fXMscbUW) | 2:35 | 2022-03-25 | 2022-11-14 |
 | [Sharpening My Knives \- From the Netflix Series “Bridgerton Season Two”](https://open.spotify.com/track/1p6dmceofpMeM6LnWdgoKJ) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton Season Two \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1jhHQPn3EjtdCuKgVTg6Bb) | 2:24 | 2022-03-25 |  |
 | [Shock and Delight](https://open.spotify.com/track/0iEV33suLaiHhF7nemOkgU) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton \(Music from the Netflix Original Series\)](https://open.spotify.com/album/53xXNZwyOsZj68zU023oce) | 4:02 | 2022-03-25 |  |
 | [Sign of the Times \- Stripped](https://open.spotify.com/track/0uaJBwwtP6FMqdDpHYNOk0) | [Steve Horner](https://open.spotify.com/artist/0mRwlobkMJCn8G51R9oYZw) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 2:39 | 2022-03-25 |  |

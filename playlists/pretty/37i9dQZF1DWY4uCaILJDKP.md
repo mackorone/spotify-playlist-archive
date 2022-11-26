@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 
 > 国民的アイドルやビッグアーティストへの楽曲提供、作詞、編曲、レコーディングディレクションをこなす稀代のクリエイター。2010年5月 にヒャダイン＝前山田健一であることを発表。彼の多岐に渡る活動はお茶の間〜コアなリスナーまで、幅広い世代を魅了している。
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,727 likes - 102 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,962 likes - 102 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 | 19 | [ニッポン笑顔百景](https://open.spotify.com/track/7HvLwBlGXvaWJZpg1IqwbS) | [Momokurotei Ichimon](https://open.spotify.com/artist/5YWCISv1Tkhx9fUlp10w46), [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN) | [ニッポン笑顔百景](https://open.spotify.com/album/3xafGKlmb5CcZsqWInSU7d) | 3:54 |
 | 20 | [ベイビィ・ポータブル・ロック](https://open.spotify.com/track/7wkGbABPzUfoQqMeuvLtYU) | [Maki Nomiya](https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj) | [30 〜Greatest Self Covers & More!!!〜](https://open.spotify.com/album/4SP9oZxY2ZCGgPGM8dfhIH) | 3:41 |
 | 21 | [パヒパヒ](https://open.spotify.com/track/15StYdMbnmpn9IknBoSFLP) | [BAND JA NAIMON! MAXX NAKAYOSHI](https://open.spotify.com/artist/1y2BdZ7ihwRkZQCohhNfQq) | [バンドじゃないもん!](https://open.spotify.com/album/7iz0nJiD4N1I8Z1WDH7mNj) | 5:14 |
-| 22 | [Life is Hard DAME DINERO](https://open.spotify.com/track/0HT5Fk82g9f8nUAVKwyzAt) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [生活こんきゅーダメディネロ](https://open.spotify.com/album/5XJ87OMDc5amKH9rUbkGI5) | 4:06 |
+| 22 | [Life Is Hard DAME DINERO](https://open.spotify.com/track/5U403777CGVqKK61XreyEV) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [ANTHOLOGY & DESTINY](https://open.spotify.com/album/2uBuVNcF7UUpKpOhBIIgwq) | 4:06 |
 | 23 | [L.O.K.F](https://open.spotify.com/track/3VkrkT7l5fOCtZzS4Nhg0j) | [きつね](https://open.spotify.com/artist/0FZILnNXcTtqbz9nWPwLh5), [EXIT](https://open.spotify.com/artist/2Xd13ljEIqUxHvVcvfWytd) | [L.O.K.F](https://open.spotify.com/album/0oeKhSzgjslbdczbkASG63) | 3:48 |
 | 24 | [ボカロがライバル☆](https://open.spotify.com/track/2jtqpeoUGEYpuccorSwbMJ) | [Risa Yoshiki](https://open.spotify.com/artist/4T95gnnDhdfRoQnaZLrDF4) | [ボカロがライバル☆](https://open.spotify.com/album/04CT7KfG30ovwHxuokhu40) | 4:14 |
 | 25 | [Million Ways=One Destination](https://open.spotify.com/track/744jwW4TDgHXimEXg5T5ET) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [SUPERNAL LIBERTY](https://open.spotify.com/album/3JZgRA7BTYogkdQu8OboVt) | 4:57 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 | 101 | [おやつ いいやつ すごいやつ](https://open.spotify.com/track/5JhwM9KWxA3Q1yP8XrQAMZ) | [グミベアとガチャピン・ムック](https://open.spotify.com/artist/16R1lT06rzVT5GyUTLpG4m) | [おやつ いいやつ すごいやつ](https://open.spotify.com/album/4qa1WJzAfElFg5Uhnsx1xg) | 3:34 |
 | 102 | [ムーンライト伝説 \- Short ver.](https://open.spotify.com/track/08PIISUEfJHCmySMleOMmG) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2), [Five Eighth Guardians](https://open.spotify.com/artist/5D299xgUtdFOMXsEPk5hLU) | ["Pretty Guardian Sailor Moon" The Super Live Original Soundtrack \[Instrumental\]](https://open.spotify.com/album/3Q9vNfIcxtolwZjtQaUciY) | 1:35 |
 
-Snapshot ID: `MTY1OTYyNTIwMCwwMDAwMDAwMDgzMzg0MjQ0ZDlkMTY2ODI2MDEzODBmM2FiMTQ1YmFm`
+Snapshot ID: `MTY1OTYyNTIwMCwwMDAwMDAwMGVlZTY1M2I3OGM4NTI0OTk5MmMzMGRhN2UyNGRmMjgx`

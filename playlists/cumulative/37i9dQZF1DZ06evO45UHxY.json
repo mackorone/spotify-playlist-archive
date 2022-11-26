@@ -44,6 +44,42 @@
     },
     {
       "album": {
+        "name": "Presumidas, S.a.",
+        "url": "https://open.spotify.com/album/5bwpMmuEmFlWNMFH8RFLVD"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166797,
+      "name": "Aerobics De Se\u00f1oritas",
+      "url": "https://open.spotify.com/track/4NcU6kxxr3KnDeQhR2yEVC"
+    },
+    {
+      "album": {
+        "name": "La Chispa",
+        "url": "https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151066,
+      "name": "All\u00e1 en el oeste",
+      "url": "https://open.spotify.com/track/2M7a8eODNHtBwtmi69yCa8"
+    },
+    {
+      "album": {
         "name": "Balada del Parque Frio",
         "url": "https://open.spotify.com/album/5pIDCQUgI7NOfCl3HCPSZY"
       },
@@ -109,10 +145,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-10",
       "duration_ms": 241215,
       "name": "Borracho y Loco",
       "url": "https://open.spotify.com/track/2EpO1NIjQl9ICdA27YMKRH"
+    },
+    {
+      "album": {
+        "name": "Presumidas, S.a.",
+        "url": "https://open.spotify.com/album/5bwpMmuEmFlWNMFH8RFLVD"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156275,
+      "name": "Caderas Lait",
+      "url": "https://open.spotify.com/track/01OXvmhM7T5D1nayJ3YEko"
     },
     {
       "album": {
@@ -127,7 +181,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 175210,
       "name": "Cadereando",
       "url": "https://open.spotify.com/track/6yFZbA1FkoK4nT4t9ni9Gi"
@@ -145,7 +199,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 220437,
       "name": "Checa Mi Ritmo",
       "url": "https://open.spotify.com/track/6aOAVN7Uu4Jdmj7BgJ9HWy"
@@ -199,7 +253,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 182320,
       "name": "Como un Tatuaje",
       "url": "https://open.spotify.com/track/5FiSHv18l1jms2YcV2Avpk"
@@ -224,6 +278,24 @@
     },
     {
       "album": {
+        "name": "Revoluci\u00f3n Tecno 2021",
+        "url": "https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 174861,
+      "name": "Cuanto Vas",
+      "url": "https://open.spotify.com/track/2tPbXFDG7EvmKWonhCah1H"
+    },
+    {
+      "album": {
         "name": "Mi Regreso Es Por Ti",
         "url": "https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi"
       },
@@ -239,6 +311,24 @@
       "duration_ms": 156680,
       "name": "Derecho De Amarla",
       "url": "https://open.spotify.com/track/6XU8HRtPHsWYwVzgA7sgZ3"
+    },
+    {
+      "album": {
+        "name": "Jacarandosa",
+        "url": "https://open.spotify.com/album/3QXuIFZnAGmlahOic59KsT"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 176467,
+      "name": "Desde Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/1qjjMQibRv39gb4WAn0oaP"
     },
     {
       "album": {
@@ -271,7 +361,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 172866,
       "name": "El amor que so\u00f1aba",
       "url": "https://open.spotify.com/track/3PwEtxAKmWQHexgtwtVI4o"
@@ -368,6 +458,24 @@
     },
     {
       "album": {
+        "name": "Ni tan chico, ni tan che",
+        "url": "https://open.spotify.com/album/7itQZqCoAxhWtPqMG5lzhP"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-23",
+      "duration_ms": 103666,
+      "name": "El pulpito",
+      "url": "https://open.spotify.com/track/3wystEzsZLBcIPr7YdZvbe"
+    },
+    {
+      "album": {
         "name": "Revoluci\u00f3n Tecno 2021",
         "url": "https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p"
       },
@@ -440,6 +548,24 @@
     },
     {
       "album": {
+        "name": "Jacarandosa",
+        "url": "https://open.spotify.com/album/3QXuIFZnAGmlahOic59KsT"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169870,
+      "name": "En La Esquina",
+      "url": "https://open.spotify.com/track/3keUCZz4ZHiFlPcmlJ6Vmj"
+    },
+    {
+      "album": {
         "name": "Como un Tatuaje",
         "url": "https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX"
       },
@@ -451,7 +577,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-15",
       "duration_ms": 166320,
       "name": "En Que Fall\u00e9",
       "url": "https://open.spotify.com/track/3b4mdAyMoU7rTqZhFKfukc"
@@ -487,10 +613,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 193343,
       "name": "Estupendo",
       "url": "https://open.spotify.com/track/5s5i3LqYQ7F6fPdw2reBo2"
+    },
+    {
+      "album": {
+        "name": "Revoluci\u00f3n Tecno 2021",
+        "url": "https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-21",
+      "duration_ms": 207642,
+      "name": "Gracias por Ser Mi Mujer",
+      "url": "https://open.spotify.com/track/1cYyS7rccvdPHzOgmVOCEf"
     },
     {
       "album": {
@@ -559,7 +703,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 190522,
       "name": "Jacarandosa",
       "url": "https://open.spotify.com/track/2PJi77YuMKNlcKtRLFAbIi"
@@ -685,10 +829,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 186623,
       "name": "Las Cosas No Son Del Dueno",
       "url": "https://open.spotify.com/track/3lETJ4GYKeoYOrQK0VaqPy"
+    },
+    {
+      "album": {
+        "name": "Presumidas, S.a.",
+        "url": "https://open.spotify.com/album/5bwpMmuEmFlWNMFH8RFLVD"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183615,
+      "name": "Los D\u00edas Del Arco\u00edris",
+      "url": "https://open.spotify.com/track/6mYHWQODIsDvZvpFkuIcNX"
     },
     {
       "album": {
@@ -728,6 +890,24 @@
     },
     {
       "album": {
+        "name": "Presumidas, S.a.",
+        "url": "https://open.spotify.com/album/5bwpMmuEmFlWNMFH8RFLVD"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172310,
+      "name": "No Dejes De Preocuparte",
+      "url": "https://open.spotify.com/track/1HEhI6s64QNHcT1fWQK2Of"
+    },
+    {
+      "album": {
         "name": "Como un Tatuaje",
         "url": "https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX"
       },
@@ -743,6 +923,24 @@
       "duration_ms": 182973,
       "name": "Pinto Raya",
       "url": "https://open.spotify.com/track/1SaWeuHTTtX3bmLx8dvvGY"
+    },
+    {
+      "album": {
+        "name": "Presumidas, S.a.",
+        "url": "https://open.spotify.com/album/5bwpMmuEmFlWNMFH8RFLVD"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "date_added": "2022-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203693,
+      "name": "Porque Me Quite El Vicio",
+      "url": "https://open.spotify.com/track/1eZDh0jqpcgiqkAG5PlDDe"
     },
     {
       "album": {
@@ -883,10 +1081,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 201160,
       "name": "Tierra Sin Nombre",
       "url": "https://open.spotify.com/track/3kvlQo1tm0W5nNqmTW2xSq"
+    },
+    {
+      "album": {
+        "name": "Jacarandosa",
+        "url": "https://open.spotify.com/album/3QXuIFZnAGmlahOic59KsT"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201489,
+      "name": "Tierra Sin Nombre",
+      "url": "https://open.spotify.com/track/4CBYdi1fNc9zx2rqKHPXXl"
     },
     {
       "album": {

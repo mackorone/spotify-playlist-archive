@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: <a href=\"https://open.spotify.com/artist/6x42DjzrK28UZZzKsKGvVE?si=K80DPqPTTe-OVydeyfGsQA\">Wanja Wohoro</a> ",
+  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: <a href=\"https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ?si=tdUrYs62R-Wn4tBZJfT2hQ\">Ukweli</a> and <a href=\"https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86?si=yszItYT6R8Sl7BDM5wXqpA\">Xenia Manasseh </a>",
   "name": "NairoBae",
   "published_playlist_ids": [
     "05RBXY2jPO9XncKwkUOGKt"
@@ -102,6 +102,24 @@
     },
     {
       "album": {
+        "name": "Another",
+        "url": "https://open.spotify.com/album/6ixgKG1R32BOVDD4SWJPdf"
+      },
+      "artists": [
+        {
+          "name": "Bensoul",
+          "url": "https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214200,
+      "name": "Another",
+      "url": "https://open.spotify.com/track/76IWDDiFRvh1KjmtwXSI7x"
+    },
+    {
+      "album": {
         "name": "ARUSHA",
         "url": "https://open.spotify.com/album/3yCFjNsTx8v0dJa5RR9rcX"
       },
@@ -117,7 +135,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 210000,
       "name": "ARUSHA",
       "url": "https://open.spotify.com/track/5wMu7s9qqZBAu6BEsrsklL"
@@ -312,6 +330,28 @@
     },
     {
       "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/1trH6Lu0maC1H9e0UBkQx8"
+      },
+      "artists": [
+        {
+          "name": "Hiribae",
+          "url": "https://open.spotify.com/artist/1WqYHHRmIP1FduEtaEicL3"
+        },
+        {
+          "name": "Tugi",
+          "url": "https://open.spotify.com/artist/66RQGuKdIdvRrU3vxIfbc5"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211086,
+      "name": "Different",
+      "url": "https://open.spotify.com/track/1rh9ejTFlDxhfcrGftrJXz"
+    },
+    {
+      "album": {
         "name": "Dizzy",
         "url": "https://open.spotify.com/album/1hImerDNye4ff7EyRwmi4L"
       },
@@ -407,7 +447,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 193894,
       "name": "Enjoy The Night",
       "url": "https://open.spotify.com/track/6NXwQZIgrp61brkGDG8uo9"
@@ -657,10 +697,28 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-20",
       "duration_ms": 133833,
       "name": "I Love the Way You",
       "url": "https://open.spotify.com/track/3U2Viddax0wa66Tk1ZG8t3"
+    },
+    {
+      "album": {
+        "name": "I Love the Way You",
+        "url": "https://open.spotify.com/album/2Knjxzw1OL1HuKuzJvFt72"
+      },
+      "artists": [
+        {
+          "name": "Basthma",
+          "url": "https://open.spotify.com/artist/4jvSwAbO6ILO7FO7rZLztv"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133833,
+      "name": "I Love the Way You",
+      "url": "https://open.spotify.com/track/5Eun2OrvZnSvzpPK5Wg5OD"
     },
     {
       "album": {
@@ -675,7 +733,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 345059,
       "name": "Ignited",
       "url": "https://open.spotify.com/track/560xVsPybvOmJ0iok2MJGE"
@@ -889,7 +947,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 85947,
       "name": "Less",
       "url": "https://open.spotify.com/track/4RuuafWTVxluP7QgNvlIXE"
@@ -915,6 +973,24 @@
       "duration_ms": 198000,
       "name": "Lie To Me (Tell Me a Fairy Tale)",
       "url": "https://open.spotify.com/track/5uWY0KnnVk2EVeUsgsnOFW"
+    },
+    {
+      "album": {
+        "name": "Asali",
+        "url": "https://open.spotify.com/album/0fe0T3nNaWpMcdOr4ss9bw"
+      },
+      "artists": [
+        {
+          "name": "Maya Amolo",
+          "url": "https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176100,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/13m6zDeYjp1lwMlyo0xsUR"
     },
     {
       "album": {
@@ -951,6 +1027,28 @@
       "duration_ms": 220000,
       "name": "Love",
       "url": "https://open.spotify.com/track/6c5Ra1OA4oYbwvyVvo3BMi"
+    },
+    {
+      "album": {
+        "name": "Maybe",
+        "url": "https://open.spotify.com/album/0MpZuzKe0xHwbLOnDiyCqt"
+      },
+      "artists": [
+        {
+          "name": "Ukweli",
+          "url": "https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ"
+        },
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205601,
+      "name": "Love Me or Leave Me",
+      "url": "https://open.spotify.com/track/4K5F02hRfBL8m1s0QXs6bO"
     },
     {
       "album": {
@@ -1211,7 +1309,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-11",
       "duration_ms": 264840,
       "name": "Nguga Ii (I Will Say Yes)",
       "url": "https://open.spotify.com/track/72HaDS9HmlpQHVbdxeEHsa"
@@ -1328,6 +1426,24 @@
     },
     {
       "album": {
+        "name": "Nitangoja",
+        "url": "https://open.spotify.com/album/1gKLgM7RsLrCf3rx3Vh2ex"
+      },
+      "artists": [
+        {
+          "name": "Kinoti",
+          "url": "https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158479,
+      "name": "Nitangoja",
+      "url": "https://open.spotify.com/track/21eRcBcsRtuHjL2jSeMu7A"
+    },
+    {
+      "album": {
         "name": "NYUMBANI",
         "url": "https://open.spotify.com/album/3O5Iv6cDY2chRPfcFPEl4s"
       },
@@ -1347,6 +1463,24 @@
       "duration_ms": 120960,
       "name": "Nyumbani",
       "url": "https://open.spotify.com/track/4kHQ3Yo16DFn5HudDRT4MW"
+    },
+    {
+      "album": {
+        "name": "On Yah (Intro)",
+        "url": "https://open.spotify.com/album/6cPFGIKefpQSuQtdXdlCrk"
+      },
+      "artists": [
+        {
+          "name": "Nikita Kering'",
+          "url": "https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-11",
+      "duration_ms": 180278,
+      "name": "On Yah - Intro",
+      "url": "https://open.spotify.com/track/7I384J2xogr4UpOYbE93FJ"
     },
     {
       "album": {
@@ -1416,6 +1550,24 @@
     },
     {
       "album": {
+        "name": "Pretty",
+        "url": "https://open.spotify.com/album/577xM3upynKWhBEwnFBPZ2"
+      },
+      "artists": [
+        {
+          "name": "Charisma",
+          "url": "https://open.spotify.com/artist/4sVIp9KBR3YULsXRpjjYzp"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-04",
+      "duration_ms": 132892,
+      "name": "Pretty",
+      "url": "https://open.spotify.com/track/2ugvW84yp6HulDOqRdAxPW"
+    },
+    {
+      "album": {
         "name": "Problems",
         "url": "https://open.spotify.com/album/6nuNAmZvBNuOMHdHCHKWNs"
       },
@@ -1471,6 +1623,24 @@
       "duration_ms": 304224,
       "name": "Rosella",
       "url": "https://open.spotify.com/track/0X5xHB8t99D6jv5ES4BUqH"
+    },
+    {
+      "album": {
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/7M0ZgZyJUYIG6RCHud7Xa6"
+      },
+      "artists": [
+        {
+          "name": "Nikita Kering'",
+          "url": "https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201348,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/0lZxPIkeXHFYsMousts9TZ"
     },
     {
       "album": {
@@ -1659,7 +1829,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-14",
       "duration_ms": 214320,
       "name": "Sunny days",
       "url": "https://open.spotify.com/track/1MmFwUDvDTcPXZ9KeeWoMg"
@@ -1764,6 +1934,32 @@
     },
     {
       "album": {
+        "name": "TURN IT OFF",
+        "url": "https://open.spotify.com/album/4ylxBzU0yxcLNsDGkBQnVS"
+      },
+      "artists": [
+        {
+          "name": "Colossal Music",
+          "url": "https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520"
+        },
+        {
+          "name": "Amara Tari",
+          "url": "https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd"
+        },
+        {
+          "name": "Mbithi",
+          "url": "https://open.spotify.com/artist/3M8x29mEaZklQcMDwHMgKH"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222545,
+      "name": "Turn It Off",
+      "url": "https://open.spotify.com/track/1juwVlJ15TZZXFo4vIEexs"
+    },
+    {
+      "album": {
         "name": "Uko Poa (Full Version)",
         "url": "https://open.spotify.com/album/1aKKwECJHnLPpHF6zJ9vi1"
       },
@@ -1831,7 +2027,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 164837,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/5XCYhCn9eDYIrfrdBiVhAy"

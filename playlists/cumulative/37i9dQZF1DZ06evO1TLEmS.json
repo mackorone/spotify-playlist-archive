@@ -445,7 +445,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": "2022-10-13",
       "duration_ms": 248720,
       "name": "Like You Do",
       "url": "https://open.spotify.com/track/5o4fcb0o1O9UiZMxbPLtJS"
@@ -485,7 +485,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 203546,
       "name": "Location",
       "url": "https://open.spotify.com/track/4Eegpewr60UiKR7w8wfGMH"
@@ -670,6 +670,24 @@
     },
     {
       "album": {
+        "name": "Who Are You Now",
+        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 217933,
+      "name": "Plain Letters",
+      "url": "https://open.spotify.com/track/785XCeQqmArhIMXov8OIsc"
+    },
+    {
+      "album": {
         "name": "Plain Letters (Reimagined)",
         "url": "https://open.spotify.com/album/3CNj2dFPx3h6c2ToL3V85O"
       },
@@ -703,6 +721,28 @@
       "duration_ms": 285173,
       "name": "Poses",
       "url": "https://open.spotify.com/track/2GIaxXqz1YwwCeq7fgyTrq"
+    },
+    {
+      "album": {
+        "name": "Glory Song",
+        "url": "https://open.spotify.com/album/1NxngYgTVoZp0kDOe8EdDo"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286880,
+      "name": "Redemption Ground",
+      "url": "https://open.spotify.com/track/3Hb9XXnDjtXcd7lXy8N8Rf"
     },
     {
       "album": {
@@ -822,6 +862,28 @@
     },
     {
       "album": {
+        "name": "...but i'd rather be with you, too",
+        "url": "https://open.spotify.com/album/5rBVASdotOwS4z4a4LAbmS"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197790,
+      "name": "Strong Enough",
+      "url": "https://open.spotify.com/track/69qLjFRZbz7V7uM13DtmOW"
+    },
+    {
+      "album": {
         "name": "Revealer",
         "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
       },
@@ -873,7 +935,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 203173,
       "name": "The Gotholympians Featuring Madison Cunningham",
       "url": "https://open.spotify.com/track/4qoZQTcijnMaIbFlIs2YaN"
@@ -985,7 +1047,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 268266,
       "name": "Window",
       "url": "https://open.spotify.com/track/6gOIKwnnUBcpwRfEpYHBxI"

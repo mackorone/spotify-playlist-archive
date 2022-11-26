@@ -4,7 +4,7 @@
 
 > Get in touch with nature with these songs about our environment.
 
-43 songs - 2 hr 7 min - [published](https://open.spotify.com/playlist/3xKn3HRBVAk6XBnX7cj6v5)
+44 songs - 2 hr 11 min - [published](https://open.spotify.com/playlist/3xKn3HRBVAk6XBnX7cj6v5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [This Is the Savanna](https://open.spotify.com/track/6N1sYOiZBbRVpSWOd3bbLp) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Animal Songs 2](https://open.spotify.com/album/5L9VHpr6V2kXzN3mI4eqZe) | 1:18 | 2022-04-15 |  |
 | [Where Do The Children Play?](https://open.spotify.com/track/7kTmndsuOxGut8Oy85Mn62) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Tea For The Tillerman \(Remastered 2020\)](https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild) | 3:51 | 2022-04-15 |  |
 | [Where Do The Children Play?](https://open.spotify.com/track/0fGNZCxMxV2bCRndfbCl60) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Tea For The Tillerman \(Remastered\)](https://open.spotify.com/album/25Vt8FvZBx4BsSJWEsF7sJ) | 3:52 | 2022-04-15 | 2022-07-29 |
+| [Where Do The Children Play?](https://open.spotify.com/track/2tDCxk1CwgwdpLRHA0PJfH) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [This Is Us \- Season 2 \(Music From The Series\)](https://open.spotify.com/album/5tj7T18XPCZOvArkrxASfI) | 3:53 | 2022-04-15 | 2022-11-13 |
 | [White Bird](https://open.spotify.com/track/61qnl6ZTZDFKu2bNQ7Evla) | [KT Tunstall](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) | [Drastic Fantastic](https://open.spotify.com/album/4XpXkww6Q6KLFOaFmZ6IxX) | 3:13 | 2022-04-15 |  |
 | [Windy and the Windmills](https://open.spotify.com/track/0n4FBCGuWBliyR6qetZmRn) | [Jack Sheldon](https://open.spotify.com/artist/0AP9ck0QA9iqnCWJ16G7qj), [Bob Dorough](https://open.spotify.com/artist/5vg8Gj3XHSpj4ELEh7nZAH), [Val Hawk](https://open.spotify.com/artist/28N6wTL1paVOULEStVkJUN), [Vicki Doney](https://open.spotify.com/artist/6WkAXr7Cg3BRK9X8c2fjWd), [Nancy Reed](https://open.spotify.com/artist/1N20S4FfWNJFEIhueWeAAs) | [Schoolhouse Rock! Earth](https://open.spotify.com/album/6uiUMyYLl2w5RUQJEHlPno) | 3:01 | 2022-04-15 |  |
 | [You Oughta Be Savin' Water](https://open.spotify.com/track/1LvVTROucKghpT9PPVAr8x) | [Barry Carl](https://open.spotify.com/artist/5PHvmnOw3ONQYISKRUqgqZ), [Sean Altman](https://open.spotify.com/artist/09bSPvjJiuPaVf4RMynNSD), [Elliott Kerman](https://open.spotify.com/artist/3kVZF1cWEpN9Cyp8im4Hnc) | [Schoolhouse Rock! Earth](https://open.spotify.com/album/6uiUMyYLl2w5RUQJEHlPno) | 3:03 | 2022-04-15 |  |

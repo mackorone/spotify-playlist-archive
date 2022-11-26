@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "At Your Mercy",
+        "url": "https://open.spotify.com/album/05miYlNCYtBciD9q76GiLg"
+      },
+      "artists": [
+        {
+          "name": "Foundation",
+          "url": "https://open.spotify.com/artist/5KFe7ACxRpoEA9rzHsRWI2"
+        }
+      ],
+      "date_added": "2021-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 118946,
+      "name": "A Thousand Ways",
+      "url": "https://open.spotify.com/track/15AQz9qOOvoFGb95a2dX9v"
+    },
+    {
+      "album": {
         "name": "When The Smoke Clears",
         "url": "https://open.spotify.com/album/0vOBTDSbiN77sUyz7hhkE4"
       },

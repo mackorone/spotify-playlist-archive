@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Hit the floor with these hot new tracks and dance remixes of your favorite country songs! Cover: Dolly Parton and Destructo ",
+  "description": "Hit the floor with these hot new tracks and dance remixes of your favorite country songs! Cover: Cheat Codes and MacKenzie Porter",
   "name": "Country Club",
   "published_playlist_ids": [
     "2qjkli2L9nRlyk9PRGesSw"
@@ -723,6 +723,28 @@
     {
       "album": {
         "name": "Diplo Presents Thomas Wesley Chapter 1: Snake Oil",
+        "url": "https://open.spotify.com/album/2Om5VEKaBd4Afht33ToQGD"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Blanco Brown",
+          "url": "https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 138813,
+      "name": "Do Si Do (feat. Blanco Brown)",
+      "url": "https://open.spotify.com/track/0NjNBCUKKjsll3JhkG0xir"
+    },
+    {
+      "album": {
+        "name": "Diplo Presents Thomas Wesley Chapter 1: Snake Oil",
         "url": "https://open.spotify.com/album/24EiVoJXLPY9a6a7AqZNDg"
       },
       "artists": [
@@ -947,6 +969,28 @@
     {
       "album": {
         "name": "Famous: The Remixes",
+        "url": "https://open.spotify.com/album/1ELmvshGmYmdlQHlkZgAeN"
+      },
+      "artists": [
+        {
+          "name": "Adam Doleac",
+          "url": "https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew"
+        },
+        {
+          "name": "MCV",
+          "url": "https://open.spotify.com/artist/1mjg68pupCgMtmyWbWqMUu"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191319,
+      "name": "Famous - MCV Remix",
+      "url": "https://open.spotify.com/track/0MHrkVWTuK6a0LudzTd3bR"
+    },
+    {
+      "album": {
+        "name": "Famous: The Remixes",
         "url": "https://open.spotify.com/album/71SqrNbvR2AGkXYK19JhYw"
       },
       "artists": [
@@ -961,7 +1005,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-22",
       "duration_ms": 191319,
       "name": "Famous - MCV Remix",
       "url": "https://open.spotify.com/track/5XKQjfQq9VjIx8jCuo5r0a"
@@ -1203,6 +1247,36 @@
       "duration_ms": 255093,
       "name": "Hey Brother",
       "url": "https://open.spotify.com/track/4lhqb6JvbHId48OUJGwymk"
+    },
+    {
+      "album": {
+        "name": "High Heels (Whistle While You Twerk)",
+        "url": "https://open.spotify.com/album/6UBDYoJ4Tji6oCp2oVlDmZ"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        },
+        {
+          "name": "Walker Hayes",
+          "url": "https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf"
+        },
+        {
+          "name": "Aukoustics",
+          "url": "https://open.spotify.com/artist/3o8z3AHOZOxmmb2IKqRxiT"
+        },
+        {
+          "name": "secs on the beach",
+          "url": "https://open.spotify.com/artist/5zDEuV2X31GgJ4R0tPosmM"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "High Heels - Whistle While You Twerk",
+      "url": "https://open.spotify.com/track/7nhTJJi2DYRYfQthsIJ5zM"
     },
     {
       "album": {
@@ -1566,6 +1640,28 @@
     },
     {
       "album": {
+        "name": "Lose You",
+        "url": "https://open.spotify.com/album/4zCPTx2ALPDPeOQ6p1ecIU"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172362,
+      "name": "Lose You",
+      "url": "https://open.spotify.com/track/6ztvWxZtWsfDhefzkAhL42"
+    },
+    {
+      "album": {
         "name": "Love Story (Taylor's Version) [Elvira Remix]",
         "url": "https://open.spotify.com/album/3x4gaf5IPyFQNrxZY07CXA"
       },
@@ -1585,6 +1681,28 @@
       "duration_ms": 211857,
       "name": "Love Story (Taylor's Version) - Elvira Remix",
       "url": "https://open.spotify.com/track/5RaBeejGtdPEszYEKYECs2"
+    },
+    {
+      "album": {
+        "name": "The Bergie Remixes",
+        "url": "https://open.spotify.com/album/4zjYxvgfXJRwKR4mNJgvKb"
+      },
+      "artists": [
+        {
+          "name": "High Valley",
+          "url": "https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN"
+        },
+        {
+          "name": "Bergie",
+          "url": "https://open.spotify.com/artist/3KztHBCsYWbX5d8xn7XeU9"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205125,
+      "name": "Make You Mine - Bergie Remix",
+      "url": "https://open.spotify.com/track/4lHyZfiqN1tL4g77Gelbax"
     },
     {
       "album": {
@@ -1819,6 +1937,28 @@
       "duration_ms": 157141,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/2AVPzA25KIhxm7TXSNBKF1"
+    },
+    {
+      "album": {
+        "name": "One Night Left",
+        "url": "https://open.spotify.com/album/75GJeU8rvUnX8TmK5Jm1D4"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "MacKenzie Porter",
+          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207017,
+      "name": "One Night Left",
+      "url": "https://open.spotify.com/track/00vXdYgi7qL8qk0DOWRmfQ"
     },
     {
       "album": {

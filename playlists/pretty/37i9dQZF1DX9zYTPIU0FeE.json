@@ -1,13 +1,29 @@
 {
-  "description": "Journey through the exciting and innovative sounds of South African Jazz. Cover: <a href=\"https://open.spotify.com/artist/1lk7zDKaonwqrwKwt8Krd7?si=VPuHoz8NQiOVNcui-WWOzA\">The Brother Moves On</a> ",
-  "num_followers": 841,
+  "description": "Journey through the exciting and innovative sounds of South African Jazz. Cover: <a href=\"https://open.spotify.com/artist/7deeTVfFQNS9ShFtnNgQ8M?si=DqsiTcXFSpaLRstMz7kqfQ\">Xhanthi Nokwali</a> ",
+  "num_followers": 1206,
   "original_name": "Jazz NXT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg1OTk0MCwwMDAwMDAwMDZhOWRhYTk3Nzc0MTgyMGJkYTQ1OWRkYmEyN2U2MDY4",
+  "snapshot_id": "MTY2NjMwMzE0MCwwMDAwMDAwMDFiNzE4NjYzYjcwZGVkZDA3YjNiNTE4ZWJmZTE4YTk3",
   "tracks": [
+    {
+      "added_at": "2022-10-20 21:59:00",
+      "album": {
+        "name": "Umthombo",
+        "url": "https://open.spotify.com/album/5Qg2kXcTYZWUVFAC7UYMMV"
+      },
+      "artists": [
+        {
+          "name": "Xhanti Nokwali",
+          "url": "https://open.spotify.com/artist/7deeTVfFQNS9ShFtnNgQ8M"
+        }
+      ],
+      "duration_ms": 389939,
+      "name": "Konakele",
+      "url": "https://open.spotify.com/track/3qKG9yS1kM7BbvKtJghsE9"
+    },
     {
       "added_at": "2022-08-18 21:59:00",
       "album": {
@@ -44,7 +60,7 @@
       "added_at": "2022-06-23 23:01:20",
       "album": {
         "name": "Isambulo",
-        "url": "https://open.spotify.com/album/1jUglZmiLScdfXJN2hrHak"
+        "url": "https://open.spotify.com/album/0SPsHKZyf7VGSjeyquxccs"
       },
       "artists": [
         {
@@ -54,23 +70,7 @@
       ],
       "duration_ms": 220720,
       "name": "Gog'uIdah",
-      "url": "https://open.spotify.com/track/3kFS9rqpW3wRdlmuzun4r2"
-    },
-    {
-      "added_at": "2022-04-28 13:28:43",
-      "album": {
-        "name": "Ntate Gwangwa's Stroll",
-        "url": "https://open.spotify.com/album/3D0v4FYzpWX2bpWcujxyBQ"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Jiyane Tree-O",
-          "url": "https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH"
-        }
-      ],
-      "duration_ms": 422406,
-      "name": "Ntate Gwangwa's Stroll",
-      "url": "https://open.spotify.com/track/4eM3xpiSyUFX1Of3EYyoM2"
+      "url": "https://open.spotify.com/track/5JcKd6KIvGnMFKGEx1HWNk"
     },
     {
       "added_at": "2022-06-23 23:01:20",
@@ -87,6 +87,22 @@
       "duration_ms": 460965,
       "name": "Inkululeko",
       "url": "https://open.spotify.com/track/4qptyeqFHhN0TUUjFQO6c9"
+    },
+    {
+      "added_at": "2022-04-28 13:28:43",
+      "album": {
+        "name": "Ntate Gwangwa's Stroll",
+        "url": "https://open.spotify.com/album/3D0v4FYzpWX2bpWcujxyBQ"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Jiyane Tree-O",
+          "url": "https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH"
+        }
+      ],
+      "duration_ms": 422406,
+      "name": "Ntate Gwangwa's Stroll",
+      "url": "https://open.spotify.com/track/4eM3xpiSyUFX1Of3EYyoM2"
     },
     {
       "added_at": "2022-05-12 21:59:00",
@@ -219,6 +235,22 @@
       "duration_ms": 295025,
       "name": "The Fall",
       "url": "https://open.spotify.com/track/24XED46T5MAEe52fccVbU6"
+    },
+    {
+      "added_at": "2022-10-20 21:59:00",
+      "album": {
+        "name": "Intlokomo",
+        "url": "https://open.spotify.com/album/2NDAw04JKZfgGCIwqtlMdG"
+      },
+      "artists": [
+        {
+          "name": "Xhanti Nokwali",
+          "url": "https://open.spotify.com/artist/7deeTVfFQNS9ShFtnNgQ8M"
+        }
+      ],
+      "duration_ms": 418785,
+      "name": "Intlokomo",
+      "url": "https://open.spotify.com/track/3DOxqzFrfbegRHgX7xn2Du"
     },
     {
       "added_at": "2022-05-12 21:59:00",
@@ -551,8 +583,8 @@
     {
       "added_at": "2022-04-28 13:28:43",
       "album": {
-        "name": "Therapy",
-        "url": "https://open.spotify.com/album/6jnWbrTXFf7LjWXmf0qr2r"
+        "name": "THERAPY",
+        "url": "https://open.spotify.com/album/2IST9MireQnJPgGwTbkWM9"
       },
       "artists": [
         {
@@ -560,9 +592,9 @@
           "url": "https://open.spotify.com/artist/3zXWyPAkoMFgr92LxUzPvR"
         }
       ],
-      "duration_ms": 301333,
+      "duration_ms": 299573,
       "name": "Breathe",
-      "url": "https://open.spotify.com/track/2LpXQfDBYoJnK8MrNT8fR4"
+      "url": "https://open.spotify.com/track/0Ybt7GtFdFutFAcDG8BadS"
     },
     {
       "added_at": "2022-04-28 13:28:43",
@@ -1387,8 +1419,8 @@
     {
       "added_at": "2022-06-23 23:01:20",
       "album": {
-        "name": "uNongoma",
-        "url": "https://open.spotify.com/album/62qSpZQ42mPEVKX1cq2j9L"
+        "name": "Isambulo",
+        "url": "https://open.spotify.com/album/0SPsHKZyf7VGSjeyquxccs"
       },
       "artists": [
         {
@@ -1402,7 +1434,7 @@
       ],
       "duration_ms": 361786,
       "name": "uNongoma",
-      "url": "https://open.spotify.com/track/58pRCGe1pQguRfIuZeFS7v"
+      "url": "https://open.spotify.com/track/2vcHzKopy1YAUDU074p503"
     },
     {
       "added_at": "2022-04-28 13:28:43",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3jibtPWLDXBK0OCJN6Ztsf.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 858 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 856 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/3jibtPWLDXBK0OCJN6Ztsf.md) - [plain]
 | 2 | [Bleeding Love](https://open.spotify.com/track/6LtPIXlIzPOTF8vTecYjRe) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/7t1veDv7FWHYXskQEoU7dq) | 4:22 |
 | 3 | [No One](https://open.spotify.com/track/6IwKcFdiRQZOWeYNhUiWIv) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [As I Am \(Expanded Edition\)](https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h) | 4:13 |
 | 4 | [Lollipop](https://open.spotify.com/track/1GMZUAClqLWu55Q0gnSBf1) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Static Major](https://open.spotify.com/artist/3pbi8H08p95NUZ7m6ybxUV) | [Tha Carter III](https://open.spotify.com/album/03NKHAkbP5oEGarLrVuLPi) | 4:59 |
-| 5 | [Apologize \- feat\. One Republic](https://open.spotify.com/track/3cS2ehbKNtl5p56K5qo65s) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Apologize](https://open.spotify.com/album/73tygJHkrXNS6RVqitv7IS) | 3:05 |
+| 5 | [Apologize](https://open.spotify.com/track/3cS2ehbKNtl5p56K5qo65s) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Apologize](https://open.spotify.com/album/73tygJHkrXNS6RVqitv7IS) | 3:05 |
 | 6 | [No Air \(feat\. Chris Brown\)](https://open.spotify.com/track/17GwsDaOw5Tgg0R9cnAQrA) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Jordin Sparks](https://open.spotify.com/album/5cF37GGLCIEuJeB2kc2J6N) | 4:24 |
 | 7 | [Love Song](https://open.spotify.com/track/4E6cwWJWZw2zWf7VFbH7wf) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Little Voice](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) | 4:18 |
 | 8 | [Love In This Club](https://open.spotify.com/track/2GOUqCrN35QcAkCCUQqEk2) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [Love In This Club \(Main Version\)](https://open.spotify.com/album/2lzas5aRoUdLstmXC2f8DF) | 4:21 |

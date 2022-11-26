@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": "2022-11-13",
       "duration_ms": 144813,
       "name": "A la la E",
       "url": "https://open.spotify.com/track/1DXgFwNXHIVJGSWvSo9uW6"
@@ -95,7 +95,7 @@
       ],
       "date_added": "2021-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 237944,
       "name": "Afro-Shingaling",
       "url": "https://open.spotify.com/track/62Ppkk5aUAfSfewhZY1CC8"
@@ -153,7 +153,7 @@
       ],
       "date_added": "2021-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-06",
+      "date_removed": null,
       "duration_ms": 216360,
       "name": "Arrecot\u00edn Arrecot\u00e1n",
       "url": "https://open.spotify.com/track/4YvQolXPImTRwrhG40hqsf"
@@ -269,6 +269,24 @@
     {
       "album": {
         "name": "Fania Records 60's Gold",
+        "url": "https://open.spotify.com/album/23tZQ7L4t76gYwRKx2h9ye"
+      },
+      "artists": [
+        {
+          "name": "Johnny Colon",
+          "url": "https://open.spotify.com/artist/4IQvRKcRuA2mzB6lc2E5Pm"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 331868,
+      "name": "Boogaloo Blues",
+      "url": "https://open.spotify.com/track/62o0gzaSrLZvdTwlvWkDq5"
+    },
+    {
+      "album": {
+        "name": "Fania Records 60's Gold",
         "url": "https://open.spotify.com/album/2bfg6X6O2NlWNlvCHqsD8h"
       },
       "artists": [
@@ -301,6 +319,24 @@
       "duration_ms": 411680,
       "name": "Boogaloo Blues",
       "url": "https://open.spotify.com/track/48pCzNTXLLKneVT6Uel2oT"
+    },
+    {
+      "album": {
+        "name": "New York Boogaloo",
+        "url": "https://open.spotify.com/album/1eItMzO9e3pOi82He9lIiI"
+      },
+      "artists": [
+        {
+          "name": "Spanglish Fly",
+          "url": "https://open.spotify.com/artist/1iy7s9Xp6bA7lClmWDsNKu"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 389312,
+      "name": "Brooklyn Boogaloo",
+      "url": "https://open.spotify.com/track/2SFQr3uJF8wD7iLqGVaLNi"
     },
     {
       "album": {
@@ -479,9 +515,9 @@
           "url": "https://open.spotify.com/artist/6zIVmHQtPA9i2eZRDtWqjV"
         }
       ],
-      "date_added": "2022-04-09",
+      "date_added": "2021-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 182053,
       "name": "Come and Get It",
       "url": "https://open.spotify.com/track/0Zqpc4C25DtWg7Fmhb0g63"
@@ -1093,7 +1129,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 272253,
       "name": "Lo Atar\u00e1 la Arache",
       "url": "https://open.spotify.com/track/6dlLkD6H0L72KPZVsQgVhV"
@@ -1244,6 +1280,24 @@
     },
     {
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4cqjTLyo6ebSUA2EE9pwrZ"
+      },
+      "artists": [
+        {
+          "name": "Joe Cuba Sextet",
+          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 194160,
+      "name": "Oh Yeah",
+      "url": "https://open.spotify.com/track/0Cwx3l6mqlXQFvrIGcjNeP"
+    },
+    {
+      "album": {
         "name": "La Excitante",
         "url": "https://open.spotify.com/album/6A6Fdj1sNCb5vHJMQmPw5z"
       },
@@ -1320,6 +1374,28 @@
     },
     {
       "album": {
+        "name": "Pow Wow",
+        "url": "https://open.spotify.com/album/5KnyUcKYo94q5uY4Br5Q7x"
+      },
+      "artists": [
+        {
+          "name": "Bobby Marin",
+          "url": "https://open.spotify.com/artist/1M6SRxoB7bSY1M8WbwIeF3"
+        },
+        {
+          "name": "Orchestra Corchado",
+          "url": "https://open.spotify.com/artist/1byeIsRSkUbfuvsT9iZMaW"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 228649,
+      "name": "Pow Wow",
+      "url": "https://open.spotify.com/track/5ZfmBmjBWu8QV6aykIedhe"
+    },
+    {
+      "album": {
         "name": "Aprovecha el Tiempo",
         "url": "https://open.spotify.com/album/4BaWqzO241fwSJQ1GgUFRP"
       },
@@ -1335,7 +1411,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 213426,
       "name": "Pow Wow",
       "url": "https://open.spotify.com/track/4BH7lDLLzKPGsF8cmt7p13"
@@ -1407,7 +1483,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-11-13",
       "duration_ms": 297760,
       "name": "Richie's Jala-Jala",
       "url": "https://open.spotify.com/track/0QvRbWa5WBhbJtg52GdbJq"
@@ -1483,7 +1559,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 170813,
       "name": "Seis Chorreao",
       "url": "https://open.spotify.com/track/1GOi0KnWNKAUdedvhHCshA"
@@ -1505,6 +1581,40 @@
       "duration_ms": 510400,
       "name": "Son Cuero Y Boogaloo",
       "url": "https://open.spotify.com/track/3yGmOWLc5eScSOv84vs6dm"
+    },
+    {
+      "album": {
+        "name": "Live At The Red Garter, Vol. 2 (Live At Red Garter / Greenwich Village, NY / 1968)",
+        "url": "https://open.spotify.com/album/4hk83t4es3QZMhxOPZHh8T"
+      },
+      "artists": [
+        {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        },
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        },
+        {
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+        },
+        {
+          "name": "Ricardo \"Richie\" Ray",
+          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
+        },
+        {
+          "name": "Jimmy Sabater",
+          "url": "https://open.spotify.com/artist/2MQ4Kb9A8KkwQmK2LjaSw2"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 510400,
+      "name": "Son Cuero Y Boogaloo - Live At Red Garter / Greenwich Village, NY / 1968",
+      "url": "https://open.spotify.com/track/0nkCr4yTg9Wnr7VsaaZ09j"
     },
     {
       "album": {

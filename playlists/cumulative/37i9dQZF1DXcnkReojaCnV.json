@@ -1,11 +1,47 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Joe Bonamassa is taking over to share tracks of his new album, alongside his current blues favorites.",
-  "name": "In the Name of the Blues",
+  "description": "Joanne Shaw Taylor is taking over to share tracks of her new album, alongside current blues favorites.",
+  "name": "In the Name of the Blues: Joanne Shaw Taylor Takeover",
   "published_playlist_ids": [
     "5KzrfztgY9KjiKSClb4ymn"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "45 Jukebox",
+        "url": "https://open.spotify.com/album/2uEGpo5UPOeUsbuUKPGfnC"
+      },
+      "artists": [
+        {
+          "name": "Chris Pierce",
+          "url": "https://open.spotify.com/artist/559oVBc653k5TOpiwhhr3r"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202013,
+      "name": "45 Jukebox",
+      "url": "https://open.spotify.com/track/2phu5Xd3OOUJFAp7T0Ongm"
+    },
+    {
+      "album": {
+        "name": "Ain\u2019t Killed Me Yet",
+        "url": "https://open.spotify.com/album/5bSiMgDd7UjgJClHgAF6Qu"
+      },
+      "artists": [
+        {
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181093,
+      "name": "Ain\u2019t Killed Me Yet",
+      "url": "https://open.spotify.com/track/06SriLLbBIQos2LyqeNXw3"
+    },
     {
       "album": {
         "name": "Faster",
@@ -19,7 +55,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 189866,
       "name": "All Ice No Whiskey",
       "url": "https://open.spotify.com/track/7autbXYzSQAs0y1lQMhmnk"
@@ -41,7 +77,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 167256,
       "name": "Almost There",
       "url": "https://open.spotify.com/track/5buyXk8EKX2uhz0Hzh5Tsc"
@@ -63,7 +99,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 270329,
       "name": "Ancestors",
       "url": "https://open.spotify.com/track/2ILNpVJ177m2QOGZUaUxHb"
@@ -89,10 +125,46 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 260092,
       "name": "Angel In The Alleyways",
       "url": "https://open.spotify.com/track/4q0iE01soDpTD7jObdxTX9"
+    },
+    {
+      "album": {
+        "name": "Nobody's Fool",
+        "url": "https://open.spotify.com/album/2TVQmqbf3TmucBYkl9pfg6"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229426,
+      "name": "Bad Blood",
+      "url": "https://open.spotify.com/track/7ke0huD5jHpsQBq9REm7jh"
+    },
+    {
+      "album": {
+        "name": "Call Me Boston",
+        "url": "https://open.spotify.com/album/24LPcANRxXyEU5svf8pJR5"
+      },
+      "artists": [
+        {
+          "name": "Dwayne Haggins",
+          "url": "https://open.spotify.com/artist/7dBLVN2mFH3tAyy6er7YNU"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279659,
+      "name": "Black Hat Woman",
+      "url": "https://open.spotify.com/track/3C2s5HctrhjEFtcvmTX3rz"
     },
     {
       "album": {
@@ -107,10 +179,28 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 201240,
       "name": "Black Myself",
       "url": "https://open.spotify.com/track/2BbFd78ykW1pnR5vZreQkr"
+    },
+    {
+      "album": {
+        "name": "Road To Redemption",
+        "url": "https://open.spotify.com/album/4gj1UOa3iiULaU85YcdYTJ"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301760,
+      "name": "Black Roses",
+      "url": "https://open.spotify.com/track/5uiW9HcD9edXu2Gk65v9pj"
     },
     {
       "album": {
@@ -125,10 +215,28 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 316006,
       "name": "Blues Prisoner",
       "url": "https://open.spotify.com/track/45i73H5FvrR0jbwvG8mVSS"
+    },
+    {
+      "album": {
+        "name": "Can't Get Right",
+        "url": "https://open.spotify.com/album/3D4hQUR8d2hM4u9vFoRBsw"
+      },
+      "artists": [
+        {
+          "name": "Justin Golden",
+          "url": "https://open.spotify.com/artist/0UJMXL1jlszq1XqzM9MOAl"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202218,
+      "name": "Can't Get Right",
+      "url": "https://open.spotify.com/track/6wQ1ooG7rEpoMlfG1iB6R7"
     },
     {
       "album": {
@@ -143,7 +251,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 265213,
       "name": "Can't You See What You're Doing To Me",
       "url": "https://open.spotify.com/track/0IUtfOQZrk5NTuor7XvAW0"
@@ -165,7 +273,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 320404,
       "name": "Chills and Thrills (feat. Mike Campbell)",
       "url": "https://open.spotify.com/track/3O4lx0iWB6jVKAFcJ07C8n"
@@ -183,7 +291,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 451666,
       "name": "Curtain Call",
       "url": "https://open.spotify.com/track/4FCvNyWdtKlIJzuVaPfM1F"
@@ -201,7 +309,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 295440,
       "name": "Cut My Hair",
       "url": "https://open.spotify.com/track/1yxjaC8bqy31Cs7BrwCKz0"
@@ -223,7 +331,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 212226,
       "name": "Destination",
       "url": "https://open.spotify.com/track/0P0PwtH2pbXxzuOVQsiroQ"
@@ -241,7 +349,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 323613,
       "name": "Devil And The Deep Blue Sea",
       "url": "https://open.spotify.com/track/035lhtrIbsEQafgDXTQh20"
@@ -263,6 +371,24 @@
       "duration_ms": 323613,
       "name": "Devil And The Deep Blue Sea",
       "url": "https://open.spotify.com/track/4IujrVjoA1iAzq3NdhxZC7"
+    },
+    {
+      "album": {
+        "name": "Blues Without You",
+        "url": "https://open.spotify.com/album/0Bi6Nd9yKYnZRnwWCrhhyr"
+      },
+      "artists": [
+        {
+          "name": "Larry McCray",
+          "url": "https://open.spotify.com/artist/24NDm7vTLocVLStlgkKjJc"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309653,
+      "name": "Don't Put Your Dreams To Bed",
+      "url": "https://open.spotify.com/track/5iaTOmdWMK5FZGaJF6dWyx"
     },
     {
       "album": {
@@ -295,7 +421,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 226660,
       "name": "Dust In My Hands",
       "url": "https://open.spotify.com/track/6HL4diteB2LimcckEn78Ir"
@@ -313,10 +439,72 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 267920,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/4t7qwCzvPrwdqTjRVVsu5N"
+    },
+    {
+      "album": {
+        "name": "Everything You Got",
+        "url": "https://open.spotify.com/album/2fivjdy1mXHmWC6SamrCxv"
+      },
+      "artists": [
+        {
+          "name": "Steve Hill",
+          "url": "https://open.spotify.com/artist/2f1hLQKsXGmF9rxdrq6Jt4"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202413,
+      "name": "Everything You Got",
+      "url": "https://open.spotify.com/track/55Hl99Zml2F8kUBSlvVMAs"
+    },
+    {
+      "album": {
+        "name": "Fade Away",
+        "url": "https://open.spotify.com/album/44RglQAHKM26stYYSXcum1"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        },
+        {
+          "name": "Tina Guo",
+          "url": "https://open.spotify.com/artist/46T4yCHjQfVxokuATj1SiV"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293000,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/5cfVfwth8tyKufK9EbLMwi"
+    },
+    {
+      "album": {
+        "name": "Nobody's Fool",
+        "url": "https://open.spotify.com/album/2TVQmqbf3TmucBYkl9pfg6"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        },
+        {
+          "name": "Carmen Vandenberg",
+          "url": "https://open.spotify.com/artist/2Zc5QLd6oXX67boj5GGfdS"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228520,
+      "name": "Figure It Out",
+      "url": "https://open.spotify.com/track/7HtqkL0QR9KI7jHeG8u9Go"
     },
     {
       "album": {
@@ -331,7 +519,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 239106,
       "name": "Fragile Peace And Certain War",
       "url": "https://open.spotify.com/track/3h3v9Nf0vU8bNr2FGtpYQM"
@@ -349,10 +537,32 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 201621,
       "name": "Full Moon, Half Crazy",
       "url": "https://open.spotify.com/track/2mH1duZvwv83ft7fV56Y3z"
+    },
+    {
+      "album": {
+        "name": "Stone by Stone",
+        "url": "https://open.spotify.com/album/2gGjqhOtJgGHXs6nr1iuAl"
+      },
+      "artists": [
+        {
+          "name": "Ian Siegal",
+          "url": "https://open.spotify.com/artist/1buMo53v5SZw5zacWQKqMo"
+        },
+        {
+          "name": "Jimbo Mathus",
+          "url": "https://open.spotify.com/artist/4KGeE0Un8kmgFiF2cxZ0xR"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237441,
+      "name": "Gathering Deep",
+      "url": "https://open.spotify.com/track/23BauLTQEKroy2wNpcWUMI"
     },
     {
       "album": {
@@ -367,10 +577,28 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 256721,
       "name": "Generation Calling",
       "url": "https://open.spotify.com/track/2OIQxtcOQODZMzfWKCuhmY"
+    },
+    {
+      "album": {
+        "name": "Georgia Off My Mind",
+        "url": "https://open.spotify.com/album/03hV4QXMxzg5Hh7Q7HRulj"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234211,
+      "name": "Georgia Off My Mind",
+      "url": "https://open.spotify.com/track/2se33uCsb88PVwbp6ESNGb"
     },
     {
       "album": {
@@ -385,10 +613,28 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 207320,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/7FnFu8xkQdB5HtX9sTg4eq"
+    },
+    {
+      "album": {
+        "name": "Crackdown",
+        "url": "https://open.spotify.com/album/5ikMOG2XXGBIZrsccTOUhL"
+      },
+      "artists": [
+        {
+          "name": "GA-20",
+          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178436,
+      "name": "Gone For Good",
+      "url": "https://open.spotify.com/track/4DfTU1lBVwrQvFLnpBbXLF"
     },
     {
       "album": {
@@ -403,7 +649,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 257160,
       "name": "Hanging On A Loser",
       "url": "https://open.spotify.com/track/6B4KDiLeMu7RveS2W3IOWI"
@@ -421,7 +667,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 235773,
       "name": "Hellhound on My Trail",
       "url": "https://open.spotify.com/track/0wHJQJTKS7ZDWSvNgxfkKh"
@@ -469,7 +715,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 273981,
       "name": "Hit 'Em Back",
       "url": "https://open.spotify.com/track/7vneiArcRtUop1FpF88CFd"
@@ -521,7 +767,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 259226,
       "name": "I Want My Crown",
       "url": "https://open.spotify.com/track/2in7I4NcwamHLIEMh4V8o5"
@@ -550,6 +796,78 @@
     },
     {
       "album": {
+        "name": "Midnight Blues",
+        "url": "https://open.spotify.com/album/6nYaIvRUVf1dFzCrX5aNAK"
+      },
+      "artists": [
+        {
+          "name": "Crystal Shawanda",
+          "url": "https://open.spotify.com/artist/31X6W8Y4y9E0G78r5Y2rXG"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215803,
+      "name": "I Want My Soul Back",
+      "url": "https://open.spotify.com/track/1b8xcfGtzTNluKLSSDaZdV"
+    },
+    {
+      "album": {
+        "name": "I Ain't Playin'",
+        "url": "https://open.spotify.com/album/0dG54uTBpZNFRtzAHQm4Tm"
+      },
+      "artists": [
+        {
+          "name": "Diunna Greenleaf",
+          "url": "https://open.spotify.com/artist/22laryZFr71CbB5WtXIMzb"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352666,
+      "name": "If It Wasn't for the Blues",
+      "url": "https://open.spotify.com/track/6G2dRb7d8MTl5M5d6tijrs"
+    },
+    {
+      "album": {
+        "name": "Ready Now",
+        "url": "https://open.spotify.com/album/6kpBj0DkFrvabc4ffDjm3U"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Hall",
+          "url": "https://open.spotify.com/artist/2LorJQEiLTxNDsJ3jVrQNi"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227240,
+      "name": "Jumpin\u2019 For Joy",
+      "url": "https://open.spotify.com/track/1TsyrqBU8mBom6RzjcvHx4"
+    },
+    {
+      "album": {
+        "name": "Just No Getting Over You (Dream Cruise)",
+        "url": "https://open.spotify.com/album/5nAs2igKGjEshXErFX2CQe"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280880,
+      "name": "Just No Getting Over You (Dream Cruise)",
+      "url": "https://open.spotify.com/track/0QCa6CGQJvYs5190mDePQP"
+    },
+    {
+      "album": {
         "name": "Traveler's Blues",
         "url": "https://open.spotify.com/album/1FvSXWIYbHm4plK9ytVaLd"
       },
@@ -565,7 +883,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 203466,
       "name": "Keep Your Light on Mama",
       "url": "https://open.spotify.com/track/04XadPndIKcDvzl9RDZ0hQ"
@@ -583,7 +901,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 408306,
       "name": "Known Unknowns",
       "url": "https://open.spotify.com/track/08ftxnSH1Z4xdZyxmlsOml"
@@ -601,7 +919,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 307358,
       "name": "Lissa's Song",
       "url": "https://open.spotify.com/track/1zwnTZVdOd85R5XFpV6vqf"
@@ -619,7 +937,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 222962,
       "name": "Living Hell",
       "url": "https://open.spotify.com/track/3PbaBsybQB6lZ485KBZnfG"
@@ -655,10 +973,28 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 401040,
       "name": "Make It Rain",
       "url": "https://open.spotify.com/track/4FLsABaj5iQbOfp7akXEn5"
+    },
+    {
+      "album": {
+        "name": "Make Myself Me Again",
+        "url": "https://open.spotify.com/album/6MlhXUHL77RMMOhBw1OHre"
+      },
+      "artists": [
+        {
+          "name": "Cristina Vane",
+          "url": "https://open.spotify.com/artist/7lfl96v1nJCpVeAmr6lgJD"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194906,
+      "name": "Make Myself Me Again",
+      "url": "https://open.spotify.com/track/3Z1k5umdX3YORNYhLYSbiL"
     },
     {
       "album": {
@@ -673,7 +1009,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 377360,
       "name": "Mind\u2019s Eye",
       "url": "https://open.spotify.com/track/19vLbTpnjkQtcCTaHVPQUm"
@@ -691,10 +1027,130 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 227609,
       "name": "Miss Information",
       "url": "https://open.spotify.com/track/53u2pCR5M1BsZM3CiWyAfw"
+    },
+    {
+      "album": {
+        "name": "Nobody's Fool",
+        "url": "https://open.spotify.com/album/2TVQmqbf3TmucBYkl9pfg6"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        },
+        {
+          "name": "Dave Stewart",
+          "url": "https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188546,
+      "name": "Missionary Man",
+      "url": "https://open.spotify.com/track/0Iu485UCmLMjGgpZVgKxXo"
+    },
+    {
+      "album": {
+        "name": "Straight from the Heart",
+        "url": "https://open.spotify.com/album/2owcIwahZSfIqs5v4i86dQ"
+      },
+      "artists": [
+        {
+          "name": "Kenny Neal",
+          "url": "https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ"
+        },
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199873,
+      "name": "Mount up on the Wings of the King",
+      "url": "https://open.spotify.com/track/30Hrgpp6gqufsaSY7F7txp"
+    },
+    {
+      "album": {
+        "name": "Ida Mae | OurVinyl Sessions",
+        "url": "https://open.spotify.com/album/3WcA9iNpjot2GjNr84XRV4"
+      },
+      "artists": [
+        {
+          "name": "Ida Mae",
+          "url": "https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK"
+        },
+        {
+          "name": "OurVinyl",
+          "url": "https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246384,
+      "name": "My Girl is a Heartbreak (OurVinyl Sessions)",
+      "url": "https://open.spotify.com/track/58zptEfJeRDFeNeOf2t2H0"
+    },
+    {
+      "album": {
+        "name": "Nobody's Fool",
+        "url": "https://open.spotify.com/album/2TVQmqbf3TmucBYkl9pfg6"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246013,
+      "name": "New Love",
+      "url": "https://open.spotify.com/track/1W5hzuisTBbr6RMSNJBTz7"
+    },
+    {
+      "album": {
+        "name": "Done Come Too Far",
+        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259733,
+      "name": "Nobody But You",
+      "url": "https://open.spotify.com/track/7A2hVb3M0tJo2YSXwieyRK"
+    },
+    {
+      "album": {
+        "name": "Nobody's Fool",
+        "url": "https://open.spotify.com/album/6zs5N5LbUBgVQRESHqB4LV"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216893,
+      "name": "Nobody's Fool",
+      "url": "https://open.spotify.com/track/1s2I2P6bXRdQyePO016Os9"
     },
     {
       "album": {
@@ -709,10 +1165,28 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 423666,
       "name": "Notches",
       "url": "https://open.spotify.com/track/4aDBXR6cHLtxaO37iaQPml"
+    },
+    {
+      "album": {
+        "name": "Nothing To Lose",
+        "url": "https://open.spotify.com/album/0RDTbIgEZgOuavCfI2l6TF"
+      },
+      "artists": [
+        {
+          "name": "Zach Person",
+          "url": "https://open.spotify.com/artist/0lgtMXcZRhFOUU2ZPddLoA"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288373,
+      "name": "Nothing To Lose",
+      "url": "https://open.spotify.com/track/50OoBWjN5GttCSP6tXFW3E"
     },
     {
       "album": {
@@ -727,7 +1201,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 55186,
       "name": "Pilgrimage",
       "url": "https://open.spotify.com/track/0SN7oedJQF4Lisqp61Qt5c"
@@ -745,7 +1219,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 253451,
       "name": "Pinky's Blues",
       "url": "https://open.spotify.com/track/3ii3Sn4kkjx2M9e6WGRQAZ"
@@ -763,7 +1237,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 195485,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/2icZxRJsavGlyGyZFSsVvT"
@@ -781,10 +1255,28 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 249360,
       "name": "Questions And Answers",
       "url": "https://open.spotify.com/track/2eOsgM5TJlW68D6W8OGnp9"
+    },
+    {
+      "album": {
+        "name": "River Town Trip",
+        "url": "https://open.spotify.com/album/3eLfzxsvAZZqdfIyuVHlkW"
+      },
+      "artists": [
+        {
+          "name": "River Kittens",
+          "url": "https://open.spotify.com/artist/4oayl8AdnYRETwoiWjcTjp"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225293,
+      "name": "River Town Trip",
+      "url": "https://open.spotify.com/track/4p8VYnLBT0iu7AGnhj3wyH"
     },
     {
       "album": {
@@ -799,10 +1291,46 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 308046,
       "name": "Rollin' On",
       "url": "https://open.spotify.com/track/6ol3k9BqQi7tOX98KPnVPa"
+    },
+    {
+      "album": {
+        "name": "Love Transcends (Live in Austin)",
+        "url": "https://open.spotify.com/album/3FnXv4h5TBWXo7ccTftiUj"
+      },
+      "artists": [
+        {
+          "name": "Jackie Venson",
+          "url": "https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345765,
+      "name": "Rollin' On (Live in Austin)",
+      "url": "https://open.spotify.com/track/6iQUQL8hVaWVElypEnkxaM"
+    },
+    {
+      "album": {
+        "name": "Nobody's Fool",
+        "url": "https://open.spotify.com/album/2TVQmqbf3TmucBYkl9pfg6"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229626,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/5gcywIXvvUnNf8Qx08vZ7m"
     },
     {
       "album": {
@@ -817,7 +1345,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 338019,
       "name": "Serves Me Right to Suffer",
       "url": "https://open.spotify.com/track/1jCCnIrsE2VSxxXO1u0SNY"
@@ -835,10 +1363,28 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 201680,
       "name": "Shakes The Ground",
       "url": "https://open.spotify.com/track/0bIhE8hHvBIaIHQ4z2zNgl"
+    },
+    {
+      "album": {
+        "name": "She's A Fighter",
+        "url": "https://open.spotify.com/album/0ZFJXgrS4qK0c5V9giWQSY"
+      },
+      "artists": [
+        {
+          "name": "Robert Jon & the Wreck",
+          "url": "https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225786,
+      "name": "She's A Fighter",
+      "url": "https://open.spotify.com/track/4FFqcj4j3IvjpY9rLMLwTF"
     },
     {
       "album": {
@@ -853,10 +1399,64 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 327572,
       "name": "Slow Draggin' Blues",
       "url": "https://open.spotify.com/track/7jBwll4dGqGzbORcyueJ1Y"
+    },
+    {
+      "album": {
+        "name": "Soul Sweet Song",
+        "url": "https://open.spotify.com/album/1zvef1QMx5kNFNKifTTQud"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235626,
+      "name": "Soul Sweet Song",
+      "url": "https://open.spotify.com/track/6tvXOpoonSGwxM0R4eq8Tj"
+    },
+    {
+      "album": {
+        "name": "Long River",
+        "url": "https://open.spotify.com/album/5i3kWvr8Yj4iETRXlrQNVN"
+      },
+      "artists": [
+        {
+          "name": "Angelique Francis",
+          "url": "https://open.spotify.com/artist/3AoZtg3XjzbONsDfAXCene"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294500,
+      "name": "Storms from My Eyes",
+      "url": "https://open.spotify.com/track/5ZWk8lQd6PHrJUCEQJkFGj"
+    },
+    {
+      "album": {
+        "name": "Strong as Steel",
+        "url": "https://open.spotify.com/album/0BCEBQ4oMiqVuVqhP9QrbA"
+      },
+      "artists": [
+        {
+          "name": "Janiva Magness",
+          "url": "https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249106,
+      "name": "Strong as Steel",
+      "url": "https://open.spotify.com/track/2zurVB1sxDSgt2EdGjaICS"
     },
     {
       "album": {
@@ -889,7 +1489,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 257094,
       "name": "Sunshine City",
       "url": "https://open.spotify.com/track/6gUbMFFKZtiEq4c9C4GfT4"
@@ -911,7 +1511,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 248394,
       "name": "Talkin' 'Bout A Train, Pt. 1",
       "url": "https://open.spotify.com/track/2GecwobSZ25wgrgLsK3fKx"
@@ -951,10 +1551,28 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 351253,
       "name": "The Heart That Never Waits",
       "url": "https://open.spotify.com/track/3h6b6VFjiJUM2jeG7tGjrH"
+    },
+    {
+      "album": {
+        "name": "Nobody's Fool",
+        "url": "https://open.spotify.com/album/2TVQmqbf3TmucBYkl9pfg6"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242773,
+      "name": "The Leaving Kind",
+      "url": "https://open.spotify.com/track/4vvLCWBKXE1QuHA0VJIlFZ"
     },
     {
       "album": {
@@ -969,7 +1587,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 408280,
       "name": "The Loyal Kind",
       "url": "https://open.spotify.com/track/1Fg33jl64swGEdFQVLQ44W"
@@ -991,10 +1609,64 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 212986,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/2hpSDYFWIKZVfdfBsZ0mRJ"
+    },
+    {
+      "album": {
+        "name": "Nobody's Fool",
+        "url": "https://open.spotify.com/album/2TVQmqbf3TmucBYkl9pfg6"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203493,
+      "name": "Then There's You",
+      "url": "https://open.spotify.com/track/2kb3RTDrnPRph4LoVgIRFV"
+    },
+    {
+      "album": {
+        "name": "You Broke Me",
+        "url": "https://open.spotify.com/album/7rJjp8koNUpalsYy0qcPMp"
+      },
+      "artists": [
+        {
+          "name": "Ghost Hounds",
+          "url": "https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231666,
+      "name": "Through Being Blue Over You",
+      "url": "https://open.spotify.com/track/36seRRquB1YkdjuTlrVc1V"
+    },
+    {
+      "album": {
+        "name": "Remain",
+        "url": "https://open.spotify.com/album/6Ra2EYAa2ZUGMdFDOwPrgj"
+      },
+      "artists": [
+        {
+          "name": "Bywater Call",
+          "url": "https://open.spotify.com/artist/1bhk3AmtYKQAcDzbDyWG4M"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270293,
+      "name": "Ties That Bind",
+      "url": "https://open.spotify.com/track/0YxtTa43y10dkX0z0tbJap"
     },
     {
       "album": {
@@ -1009,10 +1681,50 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 427480,
       "name": "Time Clocks",
       "url": "https://open.spotify.com/track/5fzS5MrIOSfSqksc4Prajn"
+    },
+    {
+      "album": {
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427773,
+      "name": "Too Close To The Fire",
+      "url": "https://open.spotify.com/track/4vZG2IFIOGPQSqj2CSKCH2"
+    },
+    {
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/7gi6AMVZhuRCjqLfSl4kOd"
+      },
+      "artists": [
+        {
+          "name": "Miko Marks",
+          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
+        },
+        {
+          "name": "The Resurrectors",
+          "url": "https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243219,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/02OxBW5LOc4PAjf0dj1buK"
     },
     {
       "album": {
@@ -1027,10 +1739,64 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 235320,
       "name": "Troubled Mind",
       "url": "https://open.spotify.com/track/3JOcEYuWCWlh6lvZPWDlIf"
+    },
+    {
+      "album": {
+        "name": "Trouble Is...",
+        "url": "https://open.spotify.com/album/1ODpJWe2bymqj4DyJfuBE9"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348040,
+      "name": "True Lies",
+      "url": "https://open.spotify.com/track/1vcUlV02bvKQn6ryzZqDVL"
+    },
+    {
+      "album": {
+        "name": "Just Like That...",
+        "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327186,
+      "name": "Waitin' For You to Blow",
+      "url": "https://open.spotify.com/track/2GhXfhOIkPrtwPZv9luHb6"
+    },
+    {
+      "album": {
+        "name": "Progeny",
+        "url": "https://open.spotify.com/album/41N9g80QNwWwm9sEdcUw93"
+      },
+      "artists": [
+        {
+          "name": "Kat Riggins",
+          "url": "https://open.spotify.com/artist/0gE5H6j7N6LseB5laJ8m1E"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218345,
+      "name": "Walk On",
+      "url": "https://open.spotify.com/track/76082CCgwMgL5TSInQkC8A"
     },
     {
       "album": {
@@ -1045,10 +1811,68 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 383360,
       "name": "When It Rains",
       "url": "https://open.spotify.com/track/32l9UbhARgLoQTimx3bWwU"
+    },
+    {
+      "album": {
+        "name": "Shining in the Half Light",
+        "url": "https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220974,
+      "name": "Who's That",
+      "url": "https://open.spotify.com/track/3bO425AkqA0s2s6mB6GJqR"
+    },
+    {
+      "album": {
+        "name": "Nobody's Fool",
+        "url": "https://open.spotify.com/album/2TVQmqbf3TmucBYkl9pfg6"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294200,
+      "name": "Won't Be Fooled Again",
+      "url": "https://open.spotify.com/track/21upjYqZ5PlQa7fcEiQe5Z"
+    },
+    {
+      "album": {
+        "name": "Heartache by the Pound",
+        "url": "https://open.spotify.com/album/6nOqRJiti1k8xh2q5nImZy"
+      },
+      "artists": [
+        {
+          "name": "Kirk Fletcher",
+          "url": "https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305360,
+      "name": "Wrapped up, Tangled up in the Blues",
+      "url": "https://open.spotify.com/track/05hQRjl1TbYuUtMpjvFb0u"
     },
     {
       "album": {
@@ -1067,7 +1891,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 183386,
       "name": "You've Been Cheatin'",
       "url": "https://open.spotify.com/track/52oE03gZSG2HSl6pOXWGaA"
@@ -1085,7 +1909,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 207523,
       "name": "Your Love's Working Me to the Bone",
       "url": "https://open.spotify.com/track/3CuQ0UXTSyPNYpVzLv1JWx"
@@ -1103,7 +1927,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 313381,
       "name": "Your Time Is Gonna Come",
       "url": "https://open.spotify.com/track/3jO3fBuQUIvEh7U4w264s1"

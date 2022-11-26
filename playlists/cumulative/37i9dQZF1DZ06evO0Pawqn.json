@@ -131,7 +131,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 187820,
       "name": "Corazon de Vecindad",
       "url": "https://open.spotify.com/track/56tdpVNcEEwCTIvaZRlRk9"
@@ -171,7 +171,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 200000,
       "name": "Cre\u00ed - Mariachi",
       "url": "https://open.spotify.com/track/4m0RdfKa9DcrhjdRJ00Iaz"
@@ -272,6 +272,24 @@
     },
     {
       "album": {
+        "name": "Mas Llegadoras",
+        "url": "https://open.spotify.com/album/4AFzIdSy43aJ2Hk26O9MS7"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195541,
+      "name": "Diamante Negro",
+      "url": "https://open.spotify.com/track/0ceiWUkNNYVmF1uzkGyj3H"
+    },
+    {
+      "album": {
         "name": "Mis 30 Mejores Canciones",
         "url": "https://open.spotify.com/album/5sZ8JHwkEV2s0Dbv0ylSmZ"
       },
@@ -355,10 +373,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2022-10-16",
       "duration_ms": 168489,
       "name": "En Tu Dia Mi Amor",
       "url": "https://open.spotify.com/track/5LbIiAoIKLBOFSvj3WdqV8"
+    },
+    {
+      "album": {
+        "name": "Hermosa Tirana",
+        "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169116,
+      "name": "En Tu Dia Mi Amor",
+      "url": "https://open.spotify.com/track/7h6ulEngQG3YQqX8DPpZFH"
     },
     {
       "album": {
@@ -593,7 +629,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 122984,
       "name": "La Huella de Mis Besos",
       "url": "https://open.spotify.com/track/0I6sTG0nOH92inb6TmXqgw"
@@ -701,7 +737,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-12",
       "duration_ms": 144680,
       "name": "Mi Motivo",
       "url": "https://open.spotify.com/track/2WNGl9oCqUNyQb791qIJgy"
@@ -737,7 +773,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 168392,
       "name": "Mujer de Cabaret",
       "url": "https://open.spotify.com/track/4VVUDVHPWN4xH3scjU465w"
@@ -960,6 +996,24 @@
     },
     {
       "album": {
+        "name": "El Hijo Desobediente",
+        "url": "https://open.spotify.com/album/6M6B0WN3QftAZaxySwK1YC"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139129,
+      "name": "Quiero Que Me Digas Cuando",
+      "url": "https://open.spotify.com/track/0QxUOvVy6FqHdJhcW644P6"
+    },
+    {
+      "album": {
         "name": "Entrega Total",
         "url": "https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN"
       },
@@ -1061,7 +1115,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 210181,
       "name": "Soy Un Idiota",
       "url": "https://open.spotify.com/track/3yXnPAGiq8MKG3Iyoi6m4t"
@@ -1115,7 +1169,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 190563,
       "name": "Un Engano Mas",
       "url": "https://open.spotify.com/track/2RLWRcdjOcOP1eirhJMl6C"
@@ -1137,7 +1191,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 192587,
       "name": "Veinte m\u00e1s",
       "url": "https://open.spotify.com/track/1IJAF9Rdh2DGxDUQqhwMmv"
@@ -1155,7 +1209,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 218693,
       "name": "Voy A Pedirte Perd\u00f3n",
       "url": "https://open.spotify.com/track/4sZTj0NhsOlDUeoWT1FS1R"

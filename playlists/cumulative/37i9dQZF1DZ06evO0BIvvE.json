@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 178733,
       "name": "Ain't No Mountain High Enough",
       "url": "https://open.spotify.com/track/1w4EmsaSRG53afdB1LLYPj"
@@ -81,7 +81,7 @@
       ],
       "date_added": "2022-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": "2022-10-13",
       "duration_ms": 188600,
       "name": "Be Truthful to Me",
       "url": "https://open.spotify.com/track/2qvVFJqlGwSmAsdqpew5xv"
@@ -117,7 +117,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-09",
       "duration_ms": 476440,
       "name": "Black Wonders of the World",
       "url": "https://open.spotify.com/track/4vfdPWGjFSA623VULHgQqN"
@@ -261,7 +261,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 302733,
       "name": "Everybody's Breakin' Up",
       "url": "https://open.spotify.com/track/5ouaur1lUArHSyi9QMa58j"
@@ -355,7 +355,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-28",
+      "date_removed": null,
       "duration_ms": 285800,
       "name": "I Gotta Put This Life Down",
       "url": "https://open.spotify.com/track/4RV0kGsdlYXqN9GcdhOSmd"
@@ -373,7 +373,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-17",
       "duration_ms": 372533,
       "name": "I See the Light",
       "url": "https://open.spotify.com/track/3aq0mO4ZQN2VQuHDq5OUNj"
@@ -499,7 +499,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 230973,
       "name": "It's Critical",
       "url": "https://open.spotify.com/track/4JRQg67LUxpcdGCXfvGIVi"
@@ -535,7 +535,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 257146,
       "name": "Jesus Boy (You Only Look Like A Man)",
       "url": "https://open.spotify.com/track/45A7dnrsLqR77AqKOjZPyL"
@@ -571,7 +571,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-11",
       "duration_ms": 243973,
       "name": "Lately",
       "url": "https://open.spotify.com/track/1Wi8nthUJS4cXyXpMnauyH"
@@ -679,7 +679,7 @@
       ],
       "date_added": "2022-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-22",
+      "date_removed": "2022-11-01",
       "duration_ms": 385720,
       "name": "Let's Stay Together",
       "url": "https://open.spotify.com/track/18lK1qUysT3bdjUZsHFFlb"
@@ -780,6 +780,32 @@
     },
     {
       "album": {
+        "name": "Me and Mrs. Jones (1895 Jazz Remix)",
+        "url": "https://open.spotify.com/album/3fBz6LPWXI78PIWkFt3HLs"
+      },
+      "artists": [
+        {
+          "name": "1895",
+          "url": "https://open.spotify.com/artist/02I4WY5ssrOFmOSU4sEzxp"
+        },
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        },
+        {
+          "name": "Kay Sax",
+          "url": "https://open.spotify.com/artist/2V5gBk8YFrg9fwYtacwZCh"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308103,
+      "name": "Me and Mrs. Jones (1895 Jazz Remix)",
+      "url": "https://open.spotify.com/track/6YCiG04BomoJxB2YEId4TK"
+    },
+    {
+      "album": {
         "name": "Ebony Woman",
         "url": "https://open.spotify.com/album/7ynT3ZWytYl31uW2Atscdc"
       },
@@ -845,7 +871,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 196493,
       "name": "One Man's Junk",
       "url": "https://open.spotify.com/track/7ugJ3cdJ1MxBRHEKxFsHtu"
@@ -975,7 +1001,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-13",
       "duration_ms": 290720,
       "name": "Takin' It To The Streets",
       "url": "https://open.spotify.com/track/3IvVAzvF5S1p217Z1Rleh7"
@@ -1029,7 +1055,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-26",
       "duration_ms": 302053,
       "name": "The Times Of Our Lives",
       "url": "https://open.spotify.com/track/5CKiJHl7e2TgQV7uggALnK"
@@ -1065,7 +1091,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2022-10-13",
       "duration_ms": 267626,
       "name": "There's A Small Hotel",
       "url": "https://open.spotify.com/track/7FGt4gse7OaulLWaxcIoBe"
@@ -1163,7 +1189,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": "2022-11-17",
       "duration_ms": 481640,
       "name": "When Will I See You Again / Love Train - Live Medley",
       "url": "https://open.spotify.com/track/6s59Mq2boCny0IIFPinPxT"

@@ -1,12 +1,12 @@
 {
   "description": "Soulful, bluesy ballads. Cover: The War and Treaty",
-  "num_followers": 74781,
+  "num_followers": 76286,
   "original_name": "Blue Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMGIzZjM3M2Y0ODQ5NmEwNTAyOWFmYWZlNTlhZmEzM2I0",
+  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMDhhOTViZjI1MGQyMmE0NTA3NmU1MTgzMmZiNDllYzRm",
   "tracks": [
     {
       "added_at": "2022-09-02 04:02:00",
@@ -23,6 +23,38 @@
       "duration_ms": 226986,
       "name": "That's How Love Is Made",
       "url": "https://open.spotify.com/track/1BIX2BQa6BroVxG6O97UWk"
+    },
+    {
+      "added_at": "2022-11-11 05:01:00",
+      "album": {
+        "name": "How Many Times?",
+        "url": "https://open.spotify.com/album/7kHS26d1CwereSBwSSpxrK"
+      },
+      "artists": [
+        {
+          "name": "Phillip-Michael Scales",
+          "url": "https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ"
+        }
+      ],
+      "duration_ms": 285701,
+      "name": "How Many Times?",
+      "url": "https://open.spotify.com/track/3dzG0Hd5xXFgFIiB9lMSzq"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "Haunted by You",
+        "url": "https://open.spotify.com/album/7iryZotVB6K4OtMufi4Tfm"
+      },
+      "artists": [
+        {
+          "name": "Caitlin Krisko & The Broadcast",
+          "url": "https://open.spotify.com/artist/7EUd5VylN6IFwj3hb8VxkY"
+        }
+      ],
+      "duration_ms": 282026,
+      "name": "Haunted by You",
+      "url": "https://open.spotify.com/track/03hLqqYkI9NrrkyCd6IbAg"
     },
     {
       "added_at": "2021-10-29 04:01:00",
@@ -177,6 +209,22 @@
       "url": "https://open.spotify.com/track/7mLm2YnptlX4CSqpfp1P34"
     },
     {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "Little Bit Longer",
+        "url": "https://open.spotify.com/album/4f1ASCJc3Nc4epEhMkAxX7"
+      },
+      "artists": [
+        {
+          "name": "Blake O'Connor",
+          "url": "https://open.spotify.com/artist/5vgHNldnm1RN43ET7vWow6"
+        }
+      ],
+      "duration_ms": 235144,
+      "name": "Little Bit Longer",
+      "url": "https://open.spotify.com/track/0Qug6Nrrlw5JDVTbuisYpA"
+    },
+    {
       "added_at": "2022-05-20 04:01:00",
       "album": {
         "name": "What A Strange Time To Be Alive",
@@ -244,7 +292,7 @@
       "added_at": "2020-12-08 21:43:09",
       "album": {
         "name": "Handle Me with Care",
-        "url": "https://open.spotify.com/album/2imCmg8SU9Cms5BS8RWfkI"
+        "url": "https://open.spotify.com/album/3JYupWAKHDibbdw4UwWL2x"
       },
       "artists": [
         {
@@ -254,7 +302,7 @@
       ],
       "duration_ms": 435426,
       "name": "Handle Me with Care",
-      "url": "https://open.spotify.com/track/3mL3yHCMcY5NfvEo1KxZpP"
+      "url": "https://open.spotify.com/track/1aZnAMv9eYxijTOe2sCF4s"
     },
     {
       "added_at": "2021-10-22 04:02:00",
@@ -391,8 +439,8 @@
     {
       "added_at": "2020-11-05 20:25:04",
       "album": {
-        "name": "Wild Wild West / What's the Matter with You",
-        "url": "https://open.spotify.com/album/7bCcvjetUXDx01xYos2tVb"
+        "name": "Road I Call Home",
+        "url": "https://open.spotify.com/album/3isKOTZKofEvSaMmYUgkCT"
       },
       "artists": [
         {
@@ -402,7 +450,7 @@
       ],
       "duration_ms": 232724,
       "name": "What's the Matter with You",
-      "url": "https://open.spotify.com/track/4G9KOVinbchBNFGB2YTyvK"
+      "url": "https://open.spotify.com/track/4A6f46GmPGqzz1lV3gm8ns"
     },
     {
       "added_at": "2020-11-05 20:25:04",

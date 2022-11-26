@@ -727,7 +727,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": null,
       "duration_ms": 188880,
       "name": "Fake Friends (feat. Joan Jett)",
       "url": "https://open.spotify.com/track/7l24L0JxuMCU14BJk5rTPS"
@@ -785,7 +785,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": "2022-11-13",
       "duration_ms": 119318,
       "name": "Fuck You",
       "url": "https://open.spotify.com/track/6rGOLNFHb6dUDOM6cf0VlV"
@@ -821,7 +821,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 199016,
       "name": "Give Yourself A Try",
       "url": "https://open.spotify.com/track/6PtjoQQDYygkbN13dg4OIv"
@@ -1009,7 +1009,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 208618,
       "name": "Hand in My Pocket",
       "url": "https://open.spotify.com/track/4iiwJWeyRKIyrbs6GR5EXY"
@@ -1045,7 +1045,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 213293,
       "name": "Happier",
       "url": "https://open.spotify.com/track/2Qh8OIdZRutBo4lbipZvoY"
@@ -1291,7 +1291,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-03",
+      "date_removed": "2022-11-14",
       "duration_ms": 231771,
       "name": "I Don't Love You",
       "url": "https://open.spotify.com/track/5M9KGQXFPLFiSRC9Oo99JX"
@@ -1447,6 +1447,24 @@
       "duration_ms": 158450,
       "name": "I Won't Back Down",
       "url": "https://open.spotify.com/track/1Lp4hoExThrJRXZmoeciLA"
+    },
+    {
+      "album": {
+        "name": "I Won't Back Down",
+        "url": "https://open.spotify.com/album/2PnX4AnA5v2WyzUHmJ7ZpR"
+      },
+      "artists": [
+        {
+          "name": "Alone I Walk",
+          "url": "https://open.spotify.com/artist/15KhAhIzQCzIDNDq1QXAGc"
+        }
+      ],
+      "date_added": "2021-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 158450,
+      "name": "I Won't Back Down",
+      "url": "https://open.spotify.com/track/1r72N7UrcmJIVsib0F7vsV"
     },
     {
       "album": {
@@ -1645,7 +1663,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-11-13",
       "duration_ms": 149380,
       "name": "Let Your Love Flow",
       "url": "https://open.spotify.com/track/6NtFxoIEN84Mu6AvNDaIXa"
@@ -2694,6 +2712,24 @@
     },
     {
       "album": {
+        "name": "The Galway Girl",
+        "url": "https://open.spotify.com/album/4inWqVPCLlN4hgaay979WO"
+      },
+      "artists": [
+        {
+          "name": "Fiddler's Green",
+          "url": "https://open.spotify.com/artist/3EDllPZzA7Ipj53OWeArLe"
+        }
+      ],
+      "date_added": "2021-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 190706,
+      "name": "The Galway Girl",
+      "url": "https://open.spotify.com/track/3GFVArl3lpU0MSpyT3fwdw"
+    },
+    {
+      "album": {
         "name": "Cross fire",
         "url": "https://open.spotify.com/album/0kUpO5H0KcyBLz0VNQtSsE"
       },
@@ -2921,7 +2957,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-18",
+      "date_removed": "2022-11-14",
       "duration_ms": 195967,
       "name": "Two Tickets to Paradise (2006)",
       "url": "https://open.spotify.com/track/5iEoETZwnDZKepux6rixhT"
@@ -3167,7 +3203,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-13",
       "duration_ms": 257614,
       "name": "White Iverson",
       "url": "https://open.spotify.com/track/5tPGwhsq2EzPsPKZK5SjxO"
@@ -3193,6 +3229,24 @@
       "duration_ms": 267567,
       "name": "White Woman\u2019s Instagram",
       "url": "https://open.spotify.com/track/7rZWDPaEop6YlaCreDNb2T"
+    },
+    {
+      "album": {
+        "name": "Wicked Game",
+        "url": "https://open.spotify.com/album/0oITQuYonVbUmz0wP8C0uC"
+      },
+      "artists": [
+        {
+          "name": "This Wild Life",
+          "url": "https://open.spotify.com/artist/3eoazmwspxeKFenMP1PQva"
+        }
+      ],
+      "date_added": "2021-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 287371,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/1p0iZnrjAqEBRMLEeLjrC2"
     },
     {
       "album": {
@@ -3499,7 +3553,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 201883,
       "name": "Yummy",
       "url": "https://open.spotify.com/track/5rUY5iXXSZbuJJsmDb1QRU"
